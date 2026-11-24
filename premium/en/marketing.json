@@ -6086,6 +6086,126 @@
           "x": "Separately, an All Deals tab is on by default for Classic, Elegant and Impact themes: it shows up to 30 products with deals, chosen and ordered by Amazon, which \"creates and updates the All Deals page for you.\" Brands can switch it off in Store Settings or replace it with their own deals page."
         }
       ]
+    },
+    "marketing/amazon-chatgpt-ads-crawler-block": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
+          "cap": "Ivy Liu"
+        },
+        {
+          "t": "p",
+          "x": "Amazon is paying OpenAI to reach the same shoppers it refuses to let ChatGPT study. After a quiet few months following its Prime Day activity, it has returned to the chatbot with a new round of Black Friday ads in the U.S., promoting its deals and directing users to Amazon to complete purchases."
+        },
+        {
+          "t": "p",
+          "x": "Rather than linking to individual product pages, ChatGPT’s shopping experience links to Amazon search results, drawing on third-party deal-tracking websites to identify products, discounts and up-to-date pricing — without necessarily accessing Amazon’s own website."
+        },
+        {
+          "t": "p",
+          "x": "“Sending shoppers to Amazon search results rather than individual product pages also creates another opportunity to make money from advertising,” said Arielle Feger of eMarketer. Amazon’s U.S. search ad revenues are forecasted to reach $40.57 billion this year. “For brands, that creates a risk of paying twice for the same customer,” she added."
+        },
+        {
+          "t": "p",
+          "x": "In September, Amazon Ads announced a partnership letting advertisers buy ChatGPT inventory through Amazon’s DSP. It is unclear whether Amazon bought its ChatGPT ads directly from OpenAI or through its own DSP. Both declined to comment."
+        }
+      ]
+    },
+    "marketing/walmart-meta-muse-blackfriday": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Walmart is teaming up with Meta to let customers shop its Black Friday deals through Muse, Meta’s AI agent. Announced Tuesday, the partnership lets shoppers tell Muse what they want and let the AI find products, compare prices and make purchases. While Amazon has taken steps to stop third-party AI agents from buying for customers, Walmart is leaning into the idea."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
+          "cap": "Image Credits: Walmart"
+        },
+        {
+          "t": "p",
+          "x": "Users sign in to their Walmart account from the Muse app; Muse sends requests to Walmart, which returns relevant products and helps build a cart. Muse doesn’t get access to a customer’s Walmart shopping history or other personal information, and shoppers can set spending limits, require approval before purchases and review orders placed by the agent."
+        },
+        {
+          "t": "p",
+          "x": "The experience is powered by Walmart’s Agent Gateway, launched in October to let outside AI assistants connect directly with its online store; Walmart plans to open it to more developers and AI platforms. Instacart has also joined forces with Muse."
+        }
+      ]
+    },
+    "marketing/creator-deals-no-ai-clauses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Among the newest addendums in influencer marketing contracts is AI usage. “We actually are seeing more and more contracts including language around the creator not being able to use AI in their content for these campaigns,” said Kurt Stadelman, vp of talent at creator marketing firm Pearpop, at Digiday’s Creator Strategies event."
+        },
+        {
+          "t": "p",
+          "x": "Creators are actually welcoming brands’ no-AI demands, he said: they already worry about generative AI crowding them out of feeds, so the clauses signal a commitment to human-made content. But Pearpop has had to specify that creators can still use AI tools in the background — to develop a concept or script, or to analyze past content performance."
+        },
+        {
+          "t": "p",
+          "x": "Stadelman also urged creators never to agree to usage in perpetuity, to start paid usage rights at three months and cap them at six, and to push net-90 payment terms toward net-60 or, ideally, net-30."
+        }
+      ]
+    },
+    "marketing/etnews-ai-fake-doctor-ad-ban": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ahead of a law taking effect on the 27th that bans food ads featuring 'AI fake doctors,' e-commerce companies have begun managing their sellers. The amended Act on Labeling and Advertising of Foods bans ads that could mislead people into thinking an expert recommends or endorses a food, using AI-generated voices, images or videos that are hard to tell from reality. Not every food ad that uses AI is banned, however."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
+          "cap": "Image created with generative AI."
+        },
+        {
+          "t": "p",
+          "x": "G-Market has added an 'AI virtual expert recommendation/endorsement' category to its monitoring of unfair ads. It finds suspect products by recognizing phrases such as 'doctor recommended' and 'pharmacist recommended,' down to text inside images, and checks products registered before the law takes effect against the same standard."
+        },
+        {
+          "t": "p",
+          "x": "In June, Naver issued 'AI-generated content usage standards' that bar virtual figures who could be mistaken for doctors or pharmacists from product information, and require a label when other AI-generated content is used for food products. Coupang and 11st are responding through their existing sanction procedures for false or exaggerated ads."
+        },
+        {
+          "t": "p",
+          "x": "The remaining challenge is ads outside the platforms. If sellers post fake-expert ads on outside SNS to draw buyers in, checking product detail pages alone makes them hard to detect. G-Market is also tracking outside ads through reports, tips and its own monitoring."
+        }
+      ]
+    },
+    "marketing/chatgpt-orchestrator-adqueries": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
+          "cap": "Picture Alliance via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Buyers have been clamoring to understand more about ChatGPT’s ads system since it launched in February. Executives have been slowly revealing more."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI matches ChatGPT ads to search queries written by its own AI agent, three executives who run the AI lab’s ad system told ADWEEK."
+        },
+        {
+          "t": "p",
+          "x": "When a user writes a prompt in ChatGPT, an AI agent OpenAI calls the orchestrator reads the conversation and works out what the person might want to buy. It can also draw on the user’s previous chats when the user’s ad personalization settings allow it. It then writes its own search queries, ranks the ads it finds in its system, and sends the best candidates to an auction that weighs advertisers’ bids against how useful each ad is likely to be to the user."
+        },
+        {
+          "t": "p",
+          "x": "Advertisers can't see what prompted their ads to appear: they receive only aggregate reporting on ChatGPT ad performance, not prompt-level data, leaving many to treat the platform as test spend. Buyers have found that ChatGPT's ad CTR lags Google's, and OpenAI's $1 billion annualized ad run rate is already \"a much smaller footprint\" than what it has now."
+        }
+      ]
     }
   }
 }

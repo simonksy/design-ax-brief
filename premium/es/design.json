@@ -13253,6 +13253,146 @@
           "x": "Computer Use se lanza hoy en inglés en Estados Unidos (US), y la app Gemini Mac ya está disponible para descargar. OpenAI también se ha centrado recientemente en Computer Use y ha tomado una clara ventaja con su modelo Astra."
         }
       ]
+    },
+    "design/framer-automations-connectors": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "05Os8Cqr7Ic"
+        },
+        {
+          "t": "p",
+          "x": "Presentamos Automations, Connectors y el Slack Agent. Las Automations son flujos de trabajo de agente que se ejecutan por sí solos. Pueden activarse según una programación o por eventos del proyecto, como una publicación o el envío de un formulario. Por ejemplo, se puede ejecutar una auditoría SEO cada vez que se publica y enviar los resultados a Slack, mandar un informe diario de analítica o enriquecer un lead de un formulario y dirigirlo al lugar adecuado. El usuario decide qué herramientas puede usar el Agent y puede revisar las ejecuciones anteriores."
+        },
+        {
+          "t": "p",
+          "x": "Con Connectors, el Agent puede conectarse a herramientas que el equipo ya usa, como Slack, Notion y Ahrefs, y tanto leer como actuar en ellas desde el chat y dentro de Automations."
+        },
+        {
+          "t": "p",
+          "x": "Con la app oficial de Framer para Slack, basta con mencionar a @Framer en un canal o enviarle un DM para preguntar por el sitio, consultar analíticas o hacer ediciones rápidas sin abrir Framer."
+        },
+        {
+          "t": "p",
+          "x": "Para empezar, abra Site Settings y vaya a la pestaña Automations o Connectors."
+        }
+      ]
+    },
+    "design/nyt-photoshop-ai-metadata": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+          "cap": "Foto: Marcin Golba / NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The New York Times pide a sus fotógrafos independientes que no usen la versión más reciente de Adobe Photoshop porque las funciones de la actualización 2027 usan AI “de maneras que pueden no ser evidentes para los usuarios”. En un correo electrónico, los responsables de fotografía Meaghan Looram y Josh Haner escriben que estas funciones “pueden hacer que los metadatos identifiquen las fotografías como AI-generated (generadas por AI)”."
+        },
+        {
+          "t": "p",
+          "x": "La actualización de noviembre añade una vista “AI Assisted Editor” que reúne todas las funciones de AI de Photoshop en una sola barra de herramientas, un asistente de AI para editar paso a paso, edición de imágenes mediante prompts, nuevas opciones de escalado con AI y una herramienta de AI que recompone imágenes para distintos tamaños de lienzo. No siempre está claro qué herramientas son AI-powered (impulsadas por AI), y para una redacción que reduce al mínimo la edición fotográfica, los metadatos de AI ponen en riesgo la confianza de los lectores."
+        },
+        {
+          "t": "p",
+          "x": "En agosto, Adobe empezó a desplegar la compatibilidad con metadatos C2PA, que señalan las imágenes generadas o editadas con AI. “Por ahora, exigimos a todos los fotógrafos colaboradores que eviten usar Adobe Photoshop 2027 (versión 28.0.0 y actualizaciones posteriores) cuando trabajen en encargos para The Times”, dice el correo. El portavoz del NYT, Graham James, confirmó el requisito. Adobe no respondió de inmediato a The Verge."
+        }
+      ]
+    },
+    "design/cognitive-design-cds-2-3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cognitive Design Systems (CDS) lanza Cognitive Design 2.3, la versión más reciente de su plataforma de ingeniería AI-powered (impulsada por AI). Su función principal es el Design of Experiments (DoE) automatizado, que permite a los equipos de ingeniería explorar alternativas de diseño de forma sistemática durante la fase de concepto, hasta la Preliminary Design Review (PDR)."
+        },
+        {
+          "t": "p",
+          "x": "“Durante décadas, el DoE ha entrado en juego tarde en el flujo de trabajo de ingeniería, cuando las principales decisiones de diseño ya se han tomado y cada cambio se ha vuelto costoso”, dijo el CEO Rhushik Matroja. “En CDS estamos convencidos de que el DoE aporta su mayor valor en la fase de concepto, cuando las decisiones clave sobre una pieza aún están abiertas”."
+        },
+        {
+          "t": "p",
+          "x": "Los ingenieros definen los parámetros de diseño y sus rangos; después, el software realiza automáticamente el barrido paramétrico dentro de esos límites, genera cada variante de diseño y la evalúa según criterios estructurales, de fabricación, de costo y de CO2. Todas las variantes se reúnen en Design Explorer, donde los diseñadores pueden comparar compensaciones, filtrar candidatos según los requisitos y justificar el concepto elegido con plena trazabilidad."
+        },
+        {
+          "t": "p",
+          "x": "CDS también ha publicado un libro blanco, “Design of Experiments at the Concept Stage”, que expone un método de siete pasos para llegar a una selección de concepto trazable."
+        }
+      ]
+    },
+    "design/claude-artifacts-desktop-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic ya permite instalar Claude Artifacts como apps para Mac o Windows. La función está en beta desde hoy y requiere la versión más reciente de Claude para macOS o Windows. Se crea un Artifact en el chat y se mantiene en el Dock sin escribir código."
+        },
+        {
+          "t": "p",
+          "x": "Las apps instaladas pueden usar OS APIs, conectores y el propio Claude. Eso permite a una app añadir elementos a la barra de menús, crear ventanas transparentes y enviar notificaciones, entre otras cosas. Entre los ejemplos hay terminales personalizadas, gestores de archivos y editores de video. Hay varias demos disponibles para probar."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Felix Rieseberg, de Anthropic, escribió en X que por ahora se necesita una cuenta de Claude y la app de Claude, aunque basta con una cuenta gratuita. Con una cuenta de Apple Developer, también se puede pedir a Claude que cree una app independiente."
+        }
+      ]
+    },
+    "design/maxon-plus-agentic-licence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Maxon lanza un conjunto de herramientas generativas para trabajo 3D bajo una suscripción aparte y opcional llamada Maxon Plus, además de Agentic Licences para Cinema 4D y Autograph que permiten a asistentes de AI encargarse de tareas de producción tediosas mientras los artistas se centran en el trabajo creativo."
+        },
+        {
+          "t": "p",
+          "x": "Su flujo de trabajo MCP, lanzado el 30 de septiembre, se convirtió en \"la función más usada de la historia de Cinema 4D en el menor tiempo\", según el director de producto Steve Forde, pero ocupa la sesión del artista. La Agentic Licence ofrece en cambio una copia headless independiente con Redshift, de modo que las tareas de AI se ejecutan \"en la trastienda\" en otra máquina."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
+          "cap": "(Crédito de imagen: Maxon)"
+        },
+        {
+          "t": "p",
+          "x": "Maxon Plus parte de $10/€10 al mes. Model Generator crea modelos base 3D editables a partir de prompts de texto o imágenes de referencia, inicialmente con tecnología de Rodin."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
+          "cap": "(Crédito de imagen: Maxon)"
+        },
+        {
+          "t": "p",
+          "x": "Clay Builder para ZBrush crea mallas base sencillas de bajo poligonaje, y Texture Generator aplica materiales y texturas a partir de prompts o imágenes."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
+          "cap": "(Crédito de imagen: Maxon)"
+        },
+        {
+          "t": "p",
+          "x": "Maxon Review permite a equipos y clientes revisar trabajos 3D interactivos en un navegador y dejar comentarios sobre partes concretas de los modelos."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+        },
+        {
+          "t": "p",
+          "x": "\"Tenemos en nuestros productos un 'apagar toda la AI' completo\", señala Forde. \"Es un botón que pusimos ahí a propósito\"."
+        }
+      ]
     }
   }
 }

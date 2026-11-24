@@ -1,101 +1,158 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "section": "music",
   "items": [
     {
+      "title": "Tidal Is the First Streaming Service to Ban AI Music",
+      "url": "https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/",
+      "source": "Rolling Stone",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "category": "music",
-      "title": "TikTok Rolls Out a Manual AI Detection Tool for Users, Officially Launches 'Likeness Detection' for Global Creators",
-      "url": "https://www.digitalmusicnews.com/2026/11/23/tiktok-likeness-detection-release/",
-      "source": "Digital Music News",
-      "published_iso": "2026-11-23T19:18:55+00:00",
-      "og_image": null,
-      "excerpt": "TikTok launched a public AI-content checker for users and rolled out Likeness Detection globally, letting creators and artists find and remove videos that use their likeness without consent.",
-      "rationale": "New platform release: a global likeness-detection and takedown tool artists can use right away, plus a public AI-content checker."
+      "rationale": "First major DSP to ban fully AI-generated tracks outright (removal from Dec 9, ~29M tracks); hybrid AI-assisted work stays allowed, which changes how creators label and distribute.",
+      "published_iso": "2026-11-24T21:20:28+00:00",
+      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2261659998.jpg?w=1600&h=900&crop=1",
+      "excerpt": "Tidal said it will start removing all wholly AI-generated music from its platform and reject future uploads, deleting an estimated 29 million tracks from December 9."
     },
     {
+      "title": "iZotope's Nectar 5 introduces a clever new way to add effects to vocals, one word at a time",
+      "url": "https://www.musicradar.com/music-tech/izotopes-nectar-5-introduces-a-clever-new-way-to-add-effects-to-vocals-one-word-at-a-time",
+      "source": "MusicRadar",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "category": "music",
-      "title": "SoundCloud cracks down on 'AI slop, spam, and excessive uploads' – weeks after striking AI deals with Moises and ElevenLabs",
-      "url": "https://www.musicbusinessworldwide.com/soundcloud-cracks-down-on-ai-slop-spam-and-excessive-uploads-weeks-after-striking-ai-deals-with-moises-and-elevenlabs/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-11-23T10:16:46+00:00",
-      "og_image": null,
-      "excerpt": "SoundCloud CEO Eliah Seton's open letter updates Community Guidelines and Terms of Use to combat AI slop, spam and excessive uploads, with payout recovery among penalties, while defending the platform's new AI partnerships with Moises and ElevenLabs.",
-      "rationale": "Concrete policy change: updated Terms and Community Guidelines with payout-recovery penalties for AI slop and mass uploads; this changes the rules for every uploader."
+      "rationale": "New release with a directly usable workflow: AI lyric transcription lets producers apply vocal effects per word from a text editor, plus an AI vocal chain assistant.",
+      "published_iso": "2026-11-24T15:55:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pNN68baVuL3U3A5EYkirbV-2142-80.png",
+      "excerpt": "Nectar 5 adds Moments, an AI-powered lyric-transcribing ARA plugin that lets you apply vocal effects to individual words via a text editor, plus an enhanced AI Vocal Assistant that designs a processing chain from your take."
     },
     {
+      "title": "n-Track Studio 11 released with AI Assistant, VocalTune 2.0 and more",
+      "url": "https://www.kvraudio.com/news/n-track-studio-11-released-with-ai-assistant-vocaltune-2-0-and-more-70122",
+      "source": "KVR Audio",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "category": "music",
-      "title": "\"They stole a decade of my life and my effort and €230,000 from my pocket\": El Estepario Siberiano threatens legal action against AI scalpers",
-      "url": "https://www.musicradar.com/artists/drummers/they-stole-a-decade-of-my-life-and-my-effort-and-eur230-000-from-my-pocket-el-estepario-siberiano-threatens-legal-action-against-ai-scalpers-and-wants-your-advice",
-      "source": "MusicRadar",
-      "published_iso": "2026-11-23T12:34:54Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8aumu47DZgQq59QFR8DYLM-1280-80.jpg",
-      "excerpt": "Drummer El Estepario Siberiano says AI copycat accounts reskinning his videos have cost him €230,000 and is weighing legal action; he recommends creators use Atlantic's AI Watchdog tool.",
-      "rationale": "A named artist puts a price on AI video reskinning, threatens legal action and names a detection tool creators can use."
+      "rationale": "DAW release with an in-app AI assistant that answers mixing questions and edits the song directly — actionable for home producers.",
+      "published_iso": "2026-11-24T00:00:00Z",
+      "og_image": "https://static.kvraudio.com/i/b/kvr_n-track-studio-11_1200x675_border.jpg",
+      "excerpt": "n-Track Studio 11 adds an in-DAW AI assistant that answers recording, editing and mixing questions and can make changes inside your song, plus note-by-note VocalTune 2.0, Spectral Edit and ARA support."
     },
     {
+      "title": "Dutch collecting society BumaStemra threatens legal action against AI background music supplier YourNeuroTune, alleging it uses Suno",
+      "url": "https://www.musicbusinessworldwide.com/dutch-collecting-society-bumastemra-threatens-legal-action-against-ai-background-music-supplier-yourneurotune-alleging-it-uses-suno/",
+      "source": "Music Business Worldwide",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "category": "music",
-      "title": "정부, AI 학습용 저작물 거래 기준 만든다…26일 공청회",
-      "url": "https://www.newsis.com/view/NISX20261123_0003878775",
-      "source": "뉴시스",
-      "published_iso": "2026-11-23T10:00:24+09:00",
-      "og_image": "https://img1.newsis.com/2026/11/23/NISI20261123_0002299322_web.jpg",
-      "excerpt": "문화체육관광부가 26일 'AI 학습을 위한 저작물 이용허락 표준계약서(안)' 공청회를 열어 AI 학습용 저작물의 범위·이용기간·이용료 산정 방식 등 거래 기준을 공개한다.",
-      "rationale": "Official government action: Korea's draft standard licensing contract for AI training sets scope, term and fee rules that will govern music catalogs."
+      "rationale": "New enforcement angle: a collecting society targets a vendor reselling Suno output as royalty-free business music, not the model maker — relevant to anyone licensing AI background music.",
+      "published_iso": "2026-11-24T15:33:04+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/11/Screenshot-2026-11-24-at-14.51.09-e1795531892999.jpg",
+      "excerpt": "Buma/Stemra says Dutch AI background-music supplier YourNeuroTune sells Suno-generated tracks to businesses as royalty-free music and has threatened legal action — a collecting society moving against an AI music vendor rather than the model maker."
     },
     {
+      "title": "'설죽화' 품은 AI 걸그룹 '서리아'의 실험 [AI & 음악]",
+      "url": "https://www.newsis.com/view/NISX20261124_0003881350",
+      "source": "뉴시스",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "category": "music",
-      "title": "sonicLAB Updates SSNN With Neural Buffer FM, Expanded Network Controls",
-      "url": "https://www.synthtopia.com/content/2026/11/23/soniclab-updates-ssnn-with-neural-buffer-fm-expanded-network-controls/",
-      "source": "Synthtopia",
-      "published_iso": "2026-11-23T16:00:14+00:00",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/11/ssnn-synthesizer.jpg",
-      "excerpt": "sonicLAB's SSNN 2.0, an audio processor built on a live 960-neuron spiking neural network driving eight synthesis engines, adds Neural Buffer FM, more network controls and four voice outputs.",
-      "rationale": "Instrument release (v2.0) of a spiking-neural-network synth; adds a gear/sound-design card to the set."
+      "rationale": "Korean production case study: a 4-member AI K-pop group making stage videos, vlogs and brand collabs without camera or studio — concrete look at an end-to-end AI idol pipeline (assigned to music per curator brief).",
+      "published_iso": "2026-11-24T16:49:19+09:00",
+      "og_image": "https://img1.newsis.com/2026/11/24/NISI20261124_0002301084_web.jpg",
+      "excerpt": "카메라·연습실·스튜디오 없이 음악방송 무대 영상, 브이로그, 브랜드 협업까지 AI로 제작하는 4인조 K-팝 AI 걸그룹 '서리아(SEORIA)'의 제작 방식을 다룬다."
+    }
+  ],
+  "picks": [
+    {
+      "title": "Tidal Is the First Streaming Service to Ban AI Music",
+      "url": "https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/",
+      "source": "Rolling Stone",
+      "tool": "Music",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "rationale": "First major DSP to ban fully AI-generated tracks outright (removal from Dec 9, ~29M tracks); hybrid AI-assisted work stays allowed, which changes how creators label and distribute.",
+      "published_iso": "2026-11-24T21:20:28+00:00",
+      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2261659998.jpg?w=1600&h=900&crop=1",
+      "excerpt": "Tidal said it will start removing all wholly AI-generated music from its platform and reject future uploads, deleting an estimated 29 million tracks from December 9."
+    },
+    {
+      "title": "iZotope's Nectar 5 introduces a clever new way to add effects to vocals, one word at a time",
+      "url": "https://www.musicradar.com/music-tech/izotopes-nectar-5-introduces-a-clever-new-way-to-add-effects-to-vocals-one-word-at-a-time",
+      "source": "MusicRadar",
+      "tool": "Music",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "New release with a directly usable workflow: AI lyric transcription lets producers apply vocal effects per word from a text editor, plus an AI vocal chain assistant.",
+      "published_iso": "2026-11-24T15:55:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pNN68baVuL3U3A5EYkirbV-2142-80.png",
+      "excerpt": "Nectar 5 adds Moments, an AI-powered lyric-transcribing ARA plugin that lets you apply vocal effects to individual words via a text editor, plus an enhanced AI Vocal Assistant that designs a processing chain from your take."
+    },
+    {
+      "title": "n-Track Studio 11 released with AI Assistant, VocalTune 2.0 and more",
+      "url": "https://www.kvraudio.com/news/n-track-studio-11-released-with-ai-assistant-vocaltune-2-0-and-more-70122",
+      "source": "KVR Audio",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "DAW release with an in-app AI assistant that answers mixing questions and edits the song directly — actionable for home producers.",
+      "published_iso": "2026-11-24T00:00:00Z",
+      "og_image": "https://static.kvraudio.com/i/b/kvr_n-track-studio-11_1200x675_border.jpg",
+      "excerpt": "n-Track Studio 11 adds an in-DAW AI assistant that answers recording, editing and mixing questions and can make changes inside your song, plus note-by-note VocalTune 2.0, Spectral Edit and ARA support."
+    },
+    {
+      "title": "Dutch collecting society BumaStemra threatens legal action against AI background music supplier YourNeuroTune, alleging it uses Suno",
+      "url": "https://www.musicbusinessworldwide.com/dutch-collecting-society-bumastemra-threatens-legal-action-against-ai-background-music-supplier-yourneurotune-alleging-it-uses-suno/",
+      "source": "Music Business Worldwide",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "New enforcement angle: a collecting society targets a vendor reselling Suno output as royalty-free business music, not the model maker — relevant to anyone licensing AI background music.",
+      "published_iso": "2026-11-24T15:33:04+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/11/Screenshot-2026-11-24-at-14.51.09-e1795531892999.jpg",
+      "excerpt": "Buma/Stemra says Dutch AI background-music supplier YourNeuroTune sells Suno-generated tracks to businesses as royalty-free music and has threatened legal action — a collecting society moving against an AI music vendor rather than the model maker."
+    },
+    {
+      "title": "'설죽화' 품은 AI 걸그룹 '서리아'의 실험 [AI & 음악]",
+      "url": "https://www.newsis.com/view/NISX20261124_0003881350",
+      "source": "뉴시스",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "Korean production case study: a 4-member AI K-pop group making stage videos, vlogs and brand collabs without camera or studio — concrete look at an end-to-end AI idol pipeline (assigned to music per curator brief).",
+      "published_iso": "2026-11-24T16:49:19+09:00",
+      "og_image": "https://img1.newsis.com/2026/11/24/NISI20261124_0002301084_web.jpg",
+      "excerpt": "카메라·연습실·스튜디오 없이 음악방송 무대 영상, 브이로그, 브랜드 협업까지 AI로 제작하는 4인조 K-팝 AI 걸그룹 '서리아(SEORIA)'의 제작 방식을 다룬다."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.digitalmusicnews.com/2026/11/23/tiktok-likeness-detection-release/": {
+      "https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/": {
         "verdict": "new",
-        "nearest": "https://musically.com/2026/11/20/instagram-launches-content-protection-tool-for-unauthorised-reposts-and-ai-modification/",
+        "nearest": "https://www.complex.com/music/a/markelibert/knxwledge-streaming-app-albums-removed-distributors",
         "new_action": ""
       },
-      "https://www.musicbusinessworldwide.com/soundcloud-cracks-down-on-ai-slop-spam-and-excessive-uploads-weeks-after-striking-ai-deals-with-moises-and-elevenlabs/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.billboard.com/pro/soundcloud-ceo-ai-policies-qa/",
-        "new_action": "SoundCloud published updated Community Guidelines and Terms of Use (CEO open letter, 11-23) with enforcement penalties including payout recovery for AI slop, spam and excessive uploads; the 11-19 card was an interview Q&A, not a policy change"
-      },
-      "https://www.musicradar.com/artists/drummers/they-stole-a-decade-of-my-life-and-my-effort-and-eur230-000-from-my-pocket-el-estepario-siberiano-threatens-legal-action-against-ai-scalpers-and-wants-your-advice": {
+      "https://www.musicradar.com/music-tech/izotopes-nectar-5-introduces-a-clever-new-way-to-add-effects-to-vocals-one-word-at-a-time": {
         "verdict": "new",
-        "nearest": "https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/",
+        "nearest": "https://musictech.com/news/gear/izotope-photon/",
         "new_action": ""
       },
-      "https://www.newsis.com/view/NISX20261123_0003878775": {
+      "https://www.kvraudio.com/news/n-track-studio-11-released-with-ai-assistant-vocaltune-2-0-and-more-70122": {
         "verdict": "new",
-        "nearest": "https://news.tf.co.kr/read/ptoday/2378150.htm",
+        "nearest": "https://suno.com/blog/studio-chat-assistant",
         "new_action": ""
       },
-      "https://www.synthtopia.com/content/2026/11/23/soniclab-updates-ssnn-with-neural-buffer-fm-expanded-network-controls/": {
+      "https://www.musicbusinessworldwide.com/dutch-collecting-society-bumastemra-threatens-legal-action-against-ai-background-music-supplier-yourneurotune-alleging-it-uses-suno/": {
         "verdict": "new",
-        "nearest": "https://www.kvraudio.com/news/neutone-announces-terra---neural-drum-synth-with-map-based-exploration-au-and-vst3-69705",
+        "nearest": "https://www.musicradar.com/artists/drummers/they-stole-a-decade-of-my-life-and-my-effort-and-eur230-000-from-my-pocket-el-estepario-siberiano-threatens-legal-action-against-ai-scalpers-and-wants-your-advice",
+        "new_action": ""
+      },
+      "https://www.newsis.com/view/NISX20261124_0003881350": {
+        "verdict": "new",
+        "nearest": "https://www.koreajoongangdaily.com/entertainment/seoul-music-forum-explores-humanism-in-ai-age-with-one-in-four-kpop-acts-now-virtual/12949369",
         "new_action": ""
       }
     },
-    "note": "Dropped: MBW 'Suno 5 things' roundup (re-covers Visuals 11-18 and the v6 litigation fight 11-18; no new action of its own); BBC 'AI is being used to clone real people's videos' (same AI-reskinning story as the El Estepario pick, kept one; MusicRadar carries the concrete legal threat and a named tool); Music Ally WMG/Spotify remix (status talk on the Spotify remix tool carded 11-02, no release); DMN UMG 'walled garden' (exec conference commentary, same TMT conference as the 11-20 UMG card); MusicRadar Peter Gabriel (opinion; artist-opinion slot saturated); Music Ally agentic-marketing feature (analysis, partly paywalled); Jeju AI K-pop promo and arXiv Windchime (weaker than picks). Cross-section check: TikTok likeness detection and the MCST AI-training contract item are not in today's marketing, gadgets, politics or books pools or the marketing history. Diversity: 5 distinct outlets (DMN, MBW, MusicRadar, Newsis, Synthtopia); accents taken from the palette so no two cards share one."
+    "note": "Tidal ban cluster c0 (Music Ally, The Verge, Rolling Stone) is one story — kept Rolling Stone only (most concrete: Dec 9 date, ~29M tracks); dropped Music Ally and The Verge as within-pool duplicates. Its history_match to Knxwledge (11-13) is a different event. Not picked (not duplicates, lower priority): ARIA/CMU + The Music Network on the Australian Joint Select Committee AI report (one story; report release is a new official event but the Australian AI-copyright fight already ran 11-09, 11-17, 11-20, 11-23); 대음협 survey (뉴시스/연합뉴스, one story); 음저협 AI 신탁 기준 공청회 (뉴시스); arXiv IteraSong/ARRANGE/PopMelodyGen (no og_image, lower actionability). BumaStemra's related match (El Estepario, 11-24) is a different dispute; n-Track's related match (Suno Chat, 11-03) is a different product. Outlets: Rolling Stone, MusicRadar, KVR Audio, MBW, 뉴시스 (5 distinct). Cross-section: 서리아 assigned to music only per curator brief. published_urls.json was not exact-grepped (Read-only tools); none of the 5 URLs appear in the music history_digest."
   }
 }

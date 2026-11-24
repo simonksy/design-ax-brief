@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-24",
-  "section": "science",
-  "media": [
-    {
-      "id": "science-mit-multilingual-brain",
-      "type": "image",
-      "src": "pipeline/media/science-mit-multilingual-brain.jpg"
-    },
-    {
-      "id": "science-mit-slic-analog-chips",
-      "type": "image",
-      "src": "pipeline/media/science-mit-slic-analog-chips.jpg"
-    },
-    {
-      "id": "science-lio2-dualatom-catalyst",
-      "type": "image",
-      "src": "pipeline/media/science-lio2-dualatom-catalyst.png"
-    },
-    {
-      "id": "science-bath-students-ai-support",
-      "type": "image",
-      "src": "pipeline/media/science-bath-students-ai-support.jpg"
-    },
-    {
-      "id": "science-technion-rnn-hidden-structure",
-      "type": "image",
-      "src": "pipeline/media/science-technion-rnn-hidden-structure.jpg"
-    }
-  ]
-}
+{"date":"2026-11-25","section":"science","media":[
+{"id":"cornell-chatbot-conspiracy-crisis","type":"image","src":"pipeline/media/cornell-chatbot-conspiracy-crisis.jpg"},
+{"id":"utokyo-materials-extrapolation-gnn","type":"image","src":"pipeline/media/utokyo-materials-extrapolation-gnn.jpg"},
+{"id":"uci-pmpg-fluid-flow-reconstruction","type":"image","src":"pipeline/media/uci-pmpg-fluid-flow-reconstruction.jpg"},
+{"id":"fau-beluga-drone-tracking","type":"video","src":"pipeline/media/fau-beluga-drone-tracking.mp4","poster":"pipeline/media/fau-beluga-drone-tracking.jpg"},
+{"id":"qwen3-quantum-circuit-layers","type":"image","src":"pipeline/media/qwen3-quantum-circuit-layers.jpg"}
+]}

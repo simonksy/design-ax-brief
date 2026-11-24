@@ -19378,6 +19378,146 @@
           "x": "Computer Use는 오늘 미국(US)에서 영어로 배포를 시작했다. Gemini Mac 앱은 내려받을 수 있다. OpenAI도 최근 Computer Use에 공을 들여 왔으며 Astra 모델로 크게 앞서 나갔다."
         }
       ]
+    },
+    "design/framer-automations-connectors": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "05Os8Cqr7Ic"
+        },
+        {
+          "t": "p",
+          "x": "Automations, Connectors, Slack Agent를 소개한다. Automations는 스스로 돌아가는 에이전트 워크플로다. 정해 둔 일정에 맞춰 돌거나, 게시·폼 제출 같은 프로젝트 이벤트가 생길 때 실행된다. 게시할 때마다 SEO 감사를 돌려 결과를 Slack에 올리거나, 매일 분석 브리핑을 보내거나, 폼 리드 정보를 보강해 알맞은 곳으로 넘기는 식이다. Agent가 쓸 도구는 사용자가 정하고, 지난 실행 기록도 검토할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Connectors로 Agent를 Slack, Notion, Ahrefs 등 팀이 이미 쓰는 도구에 연결하면, 채팅과 Automations 안에서 그 도구의 내용을 읽고 직접 작업까지 한다."
+        },
+        {
+          "t": "p",
+          "x": "공식 Framer Slack 앱을 깔면 채널에서 @Framer를 부르거나 DM을 보내 사이트 관련 질문을 하고, 분석 데이터를 불러오고, Framer를 열지 않고도 간단한 수정을 할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "시작하려면 Site Settings에서 Automations 또는 Connectors 탭으로 가면 된다."
+        }
+      ]
+    },
+    "design/nyt-photoshop-ai-metadata": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+          "cap": "사진: Marcin Golba / NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The New York Times가 프리랜서 사진가들에게 Adobe Photoshop 최신 버전을 쓰지 말라고 요청했다. 2027 업데이트 기능들이 “사용자에게 드러나지 않을 수 있는 방식으로” AI를 쓴다는 이유에서다. 사진 부문 책임자 Meaghan Looram과 Josh Haner는 이메일에 이 기능들이 “사진을 AI-generated(AI 생성)로 식별하는 메타데이터가 붙는 결과를 낳을 수 있다”고 썼다."
+        },
+        {
+          "t": "p",
+          "x": "11월 업데이트에는 Photoshop의 모든 AI 기능을 툴바 하나에 모은 “AI Assisted Editor” 보기, 단계별 편집을 돕는 AI 어시스턴트, 프롬프트 기반 이미지 편집, 새 AI 업스케일링 옵션, 캔버스 크기에 맞춰 이미지를 재구성하는 AI 도구가 들어갔다. 어떤 도구가 AI-powered(AI 기반)인지 늘 분명하지도 않다. 사진 보정을 최소한으로 하는 뉴스룸에선 AI 메타데이터 하나로 독자 신뢰를 잃을 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Adobe는 8월부터 AI로 생성하거나 편집한 이미지를 표시하는 C2PA 메타데이터 지원을 배포하기 시작했다. 이메일에는 “현재로서는 모든 기고 사진가에게 The Times 업무 수행 시 Adobe Photoshop 2027(릴리스 28.0.0 및 이후 업데이트) 사용을 피하도록 요구하고 있다”고 적혀 있다. NYT 대변인 Graham James가 이 요구를 확인했다. Adobe는 The Verge의 문의에 바로 답하지 않았다."
+        }
+      ]
+    },
+    "design/cognitive-design-cds-2-3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cognitive Design Systems(CDS)가 AI-powered(AI 기반) 엔지니어링 플랫폼 최신판 Cognitive Design 2.3을 내놨다. 핵심은 자동화된 Design of Experiments(DoE)다. 엔지니어링 팀은 콘셉트 단계부터 Preliminary Design Review(PDR)까지 설계 대안을 체계적으로 탐색할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "CEO Rhushik Matroja는 “수십 년 동안 DoE는 엔지니어링 워크플로의 후반, 즉 주요 설계 선택이 이미 끝나 모든 변경에 큰 비용이 드는 시점에야 쓰였다”며 “CDS는 부품에 관한 결정적 선택이 아직 열려 있는 콘셉트 단계에서 DoE가 가장 큰 가치를 낸다고 확신한다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "엔지니어가 설계 파라미터와 범위를 정하면 소프트웨어가 그 한도 안에서 파라메트릭 스윕을 자동으로 돌린다. 설계 변형안을 하나씩 만들어 구조, 제조, 비용, CO2 기준으로 평가하는 방식이다. 변형안은 모두 Design Explorer에 모인다. 설계자는 여기서 트레이드오프를 비교하고 요구 사항에 맞춰 후보를 걸러 내며, 완전한 추적성을 근거로 선택한 콘셉트를 설명할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "CDS는 추적 가능한 콘셉트 선정까지 이어지는 일곱 단계 방법을 담은 백서 “Design of Experiments at the Concept Stage”도 공개했다."
+        }
+      ]
+    },
+    "design/claude-artifacts-desktop-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic이 Claude Artifacts를 Mac이나 Windows 앱으로 설치할 수 있게 했다. 오늘부터 베타로 제공되며, macOS 또는 Windows용 Claude 최신 버전이 있어야 한다. 채팅에서 Artifact를 만들면 코드 한 줄 쓰지 않고 독에 둘 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "설치된 앱은 OS APIs와 커넥터, Claude 자체를 쓸 수 있다. 그래서 메뉴 막대 항목을 추가하거나 투명한 창을 만들고 알림을 보내는 일도 가능하다. 사용자 지정 터미널, 파일 관리자, 동영상 편집기가 그 예이고, 직접 써 볼 데모도 여럿 있다."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic의 Felix Rieseberg는 X에 당분간 Claude 계정과 Claude 앱이 필요하지만 무료 계정이면 충분하다고 썼다. Apple Developer 계정이 있으면 Claude에게 독립 실행형 앱을 만들게 할 수도 있다."
+        }
+      ]
+    },
+    "design/maxon-plus-agentic-licence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Maxon이 3D 작업용 생성형 도구 묶음을 별도 선택형 구독인 Maxon Plus로 내놓는다. Cinema 4D와 Autograph용 Agentic Licences도 함께 선보인다. 아티스트는 창작에 집중하고 번거로운 제작 업무는 AI 어시스턴트가 맡는 구조다."
+        },
+        {
+          "t": "p",
+          "x": "최고제품책임자 Steve Forde에 따르면 9월 30일 공개한 MCP 워크플로는 \"Cinema 4D 역사상 가장 짧은 기간에 가장 널리 쓰인 기능\"이 됐다. 문제는 이 방식이 아티스트의 세션을 붙잡아 둔다는 점이다. Agentic Licence는 Redshift를 포함한 헤드리스 사본을 따로 제공해 AI 작업을 다른 컴퓨터에서 \"백오피스에서\" 돌린다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
+          "cap": "(이미지 제공: Maxon)"
+        },
+        {
+          "t": "p",
+          "x": "Maxon Plus 요금은 월 $10/€10부터다. Model Generator는 텍스트 프롬프트나 참고 이미지로 편집 가능한 3D 기본 모델을 만든다. 초기 버전은 Rodin 기반이다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
+          "cap": "(이미지 제공: Maxon)"
+        },
+        {
+          "t": "p",
+          "x": "ZBrush용 Clay Builder는 단순한 로우폴리곤 기본 메시를 만든다. Texture Generator는 프롬프트나 이미지를 받아 재질과 텍스처를 입힌다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
+          "cap": "(이미지 제공: Maxon)"
+        },
+        {
+          "t": "p",
+          "x": "Maxon Review에서는 팀과 클라이언트가 브라우저로 인터랙티브 3D 작업물을 검토하고 모델의 특정 부분에 코멘트를 단다."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Forde는 \"우리 제품에는 'AI 전부 끄기' 기능이 온전히 들어 있다\"며 \"일부러 넣어 둔 버튼\"이라고 했다."
+        }
+      ]
     }
   }
 }

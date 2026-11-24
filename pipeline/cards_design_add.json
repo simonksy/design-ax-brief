@@ -1,24 +1,42 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-25",
   "section": "design",
   "cards": [
     {
-      "id": "nvidia-omniverse-sim-agents",
+      "id": "claude-artifacts-desktop-apps",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "NVIDIA pairs coding agents\nwith Omniverse simulation",
-      "body": "Developers pair coding agents with Omniverse libraries to build simulations and iterate on designs from a prompt.",
-      "mini_headline": "Omniverse meets coding agents",
-      "tool": "KeyShot",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "accent": "#f5a623",
-      "motif": "sphere",
+      "headline": "Claude Artifacts become\ninstallable desktop apps",
+      "body": "Claude Artifacts built in chat now install as beta Mac and Windows apps that can use OS APIs and connectors.",
+      "mini_headline": "Claude Artifacts go desktop",
+      "tool": "AI Workflow",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+      "accent": "#ff2d55",
+      "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {"t": "img", "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-1680x945.png"},
-          {"t": "p", "x": "NVIDIA shows developers pairing frontier AI coding agents with Omniverse libraries to build simulation applications, test physical behavior and iterate on designs from a prompt."}
+          {
+            "t": "img",
+            "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+          },
+          {
+            "t": "p",
+            "x": "Anthropic now lets you install Claude Artifacts as Mac or Windows apps. The feature is in beta as of today and requires the latest version of Claude for macOS or Windows. You build an Artifact in chat and keep it in the dock without writing any code."
+          },
+          {
+            "t": "p",
+            "x": "The installed apps can use OS APIs, connectors, and Claude itself. That lets an app add menu bar items, create transparent windows, and send notifications, among other things. Examples include custom terminals, file managers, and video editors. Several demos are available to try."
+          },
+          {
+            "t": "video",
+            "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+          },
+          {
+            "t": "p",
+            "x": "Anthropic's Felix Rieseberg wrote on X that you need a Claude account and the Claude app for now, though a free account is enough. If you have an Apple Developer account, you can also have Claude build a standalone app."
+          }
         ]
       }
     }

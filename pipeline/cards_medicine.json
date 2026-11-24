@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "section": "medicine",
   "cards": [
     {
-      "id": "nhs-edith-breast-ai",
+      "id": "houston-methodist-hdai-readmit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "NHS, 유방암 검진\nAI 판독 시험 착수",
-      "body": "EDITH 시험이 영국 여성 약 70만 명을 모아 AI의 판독 대체를 검증한다.",
-      "mini_headline": "NHS, AI 유방 검진 시험",
+      "headline": "Houston 병원 AI,\n퇴원 후 사망 줄였다",
+      "body": "Methodist는 HDAI AI로 30일 사망 35%, 재입원 18%를 줄였다.",
+      "mini_headline": "AI로 퇴원 후 사망 감소",
       "tool": "Medicine",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo",
+      "source": "MedPage Today",
+      "url": "https://www.medpagetoday.com/hospitalbasedmedicine/generalhospitalpractice/124037",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,233 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
-            "cap": "시험을 함께 이끄는 피오나 길버트 교수가 AI로 유방암 진단이 나아지는지 평가한다"
+            "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
+            "cap": "가정 방문을 온 의사와 함께 웃는 노년 남성."
           },
           {
             "t": "p",
-            "x": "영국 전역의 여성 약 70만 명이 세계 최대 규모의 시험에 초대된다. 인공지능이 유방암 검진을 어떻게 도울지 살피는 시험이다. EDITH 시험 참가자 모집은 영국 30개 시험 기관 중 첫 곳인 케임브리지대학병원에서 이미 시작됐다."
+            "x": "Las Vegas에서 열린 HLTH 콘퍼런스 사례 발표에 따르면 Texas의 한 병원이 인공지능(AI)의 도움으로 인력을 늘리지 않고 재입원과 퇴원 후 사망을 줄였다."
           },
           {
             "t": "p",
-            "x": "지금은 NHS 전문가 두 명이 유방촬영 영상 한 장을 따로 판독한다. 이번 시험에서는 그중 한 명을 AI가 맡는다. 연구진은 AI 때문에 여성들이 불필요한 추가 검사에 다시 불려 오는 일이 없다는 확신이 필요하다고 말한다."
+            "x": "Houston Methodist Hospital은 예측 AI로 위험도가 가장 높은 Medicare 수술 환자에게 추적 방문을 집중했다. 그 결과 30일 퇴원 후 사망률은 약 35%, 재입원은 약 18% 줄었다고 병원 선임 혁신 컨설턴트 Brenda Campbell(MS, BSN)이 밝혔다."
           },
           {
             "t": "p",
-            "x": "길버트 교수는 \"해마다 수백만 명의 여성이 유방촬영을 받지만 암이 있는 사람은 1% 미만의 극소수\"라고 말했다. 영상의학 전문의는 \"크게 부족\"한데 영상 검사는 해마다 8%씩 는다고 BBC에 전했다."
-          },
-          {
-            "t": "img",
-            "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
-            "cap": "셜리 에섹스는 정기 유방 검진 덕분에 목숨을 건졌다고 말한다"
+            "x": "퇴원 후 사망의 관찰 대비 기대(O/E) 비율은 2021~2022년 0.48에서 2025년~2026년 Q1(일부 기간) 0.31로, 재입원은 1.17에서 0.96으로 떨어졌다. 14일 이내 임상의 추적 방문 비율은 사망 위험 최상위군에서 54.6%에서 62.2%로, 재입원 위험 최상위군에서 55.8%에서 64.5%로 올랐다."
           },
           {
             "t": "p",
-            "x": "한 갈래에서는 AI 프로그램이 영상을 NHS 전문가에게 넘기기 전에 등급을 매기고, 다른 갈래에서는 판독이 끝난 영상을 다시 본다. £10m 규모의 시험 자금은 NIHR이 대며, 워릭대학교·케임브리지대학교·케임브리지대학병원이 NHS England와 함께 이끈다."
+            "x": "작업은 2021년 시작됐다. Medicare 전체 데이터로 예측 AI를 학습시킨 Health Data Analytics Institute(HDAI)가 100곳이 넘는 학술 의료기관을 비교해 보니, 이 병원 심혈관 서비스 라인은 원내 사망률이 7위였지만 30일 퇴원 후 사망률은 43위에 머물렀다. 예측 결과는 전자의무기록에 들어갔고, 임상의들은 최고 위험 환자부터 2주 안에 추적 진료를 하라는 요청을 받았다."
           },
           {
             "t": "p",
-            "x": "시험에는 AI 기업 네 곳이 참여한다. 기간은 약 3년으로 예상된다."
+            "x": "114곳 학술 의료기관 가운데 이 병원의 재입원 순위는 2022년 59위에서 2024년 7위로 올랐다. Campbell은 \"추가 자원 없이 이 일을 해냈다\"고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "NHS tests AI as a second\nreader in breast screening",
-          "body": "Nearly 700,000 UK women will be invited into EDITH, testing whether AI can replace one of two mammogram readers.",
-          "mini_headline": "NHS trials AI breast screening",
+          "headline": "Houston Methodist AI cuts\npost-discharge deaths",
+          "body": "Houston Methodist used HDAI's predictive AI to target follow-up, cutting 30-day deaths about 35% and readmissions 18%.",
+          "mini_headline": "AI cuts post-discharge deaths",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "Prof Fiona Gilbert, who is co-leading the trial, will assess if AI can improve breast cancer diagnosis"
+                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
+                "cap": "Senior man laughing with doctor during home visit."
               },
               {
                 "t": "p",
-                "x": "Nearly 700,000 women across the UK are to be invited to join the world's largest trial of how artificial intelligence can help in breast cancer screening. Recruitment to the EDITH trial has already begun at Cambridge University Hospitals, the first of 30 sites across the UK."
+                "x": "Artificial intelligence (AI) helped one Texas hospital lower readmissions and post-discharge deaths, without adding any new staff, according to a case study presented at the HLTH conference in Las Vegas."
               },
               {
                 "t": "p",
-                "x": "At present two NHS experts look at each mammogram, but in the trial, one of the human readers will be replaced by AI. Researchers say they need to be sure it won't cause harm by leading to women being recalled unnecessarily for further tests."
+                "x": "Using predictive AI to focus follow-up visits on its Medicare surgical patients at highest risk, Houston Methodist Hospital's 30-day post-discharge mortality fell about 35%, and readmissions fell about 18%, Brenda Campbell, MS, BSN, the hospital's senior innovation consultant, said."
               },
               {
                 "t": "p",
-                "x": "Prof Gilbert said: \"Millions of women have a mammogram each year and only a small number, less than 1%, will have cancer.\" She told the BBC there was a \"huge shortfall\" in radiologists and that imaging examinations were increasing by 8% a year."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "Shirley Essex says routine breast screening saved her life"
+                "x": "Observed-to-expected (O/E) ratios fell from 0.48 in 2021-2022 to 0.31 in 2025-Q1 2026 (a partial period) for post-discharge deaths, and from 1.17 to 0.96 for readmissions. Clinician follow-up visits within 14 days rose from 54.6% to 62.2% in the highest mortality-risk group and from 55.8% to 64.5% in the highest readmission-risk group."
               },
               {
                 "t": "p",
-                "x": "In one arm of the trial, an AI programme will grade images before they are sent to NHS experts. In another, it will review images afterwards. The £10m trial is funded by the NIHR and led by the University of Warwick, the University of Cambridge and Cambridge University Hospitals, working with NHS England."
+                "x": "The effort began in 2021. The Health Data Analytics Institute (HDAI), which had trained predictive AI on the entire Medicare data set, found the cardiovascular service line ranked 7th for in-hospital mortality but 43rd for 30-day post-discharge mortality among more than 100 academic medical centers. Predictions were embedded into the electronic medical record, and clinicians were asked to prioritize follow-up within 2 weeks for the highest-risk patients."
               },
               {
                 "t": "p",
-                "x": "Four AI companies are involved in the trial, which is expected to last around three years."
+                "x": "The hospital's readmission ranking among 114 academic medical centers rose from 59th in 2022 to 7th in 2024. \"We've done this without any additional resources,\" Campbell said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "NHS, 유방암 검진\nAI 판독 시험 착수",
-          "body": "EDITH 시험이 영국 여성 약 70만 명을 모아 AI의 판독 대체를 검증한다.",
-          "mini_headline": "NHS, AI 유방 검진 시험",
+          "headline": "Houston 병원 AI,\n퇴원 후 사망 줄였다",
+          "body": "Methodist는 HDAI AI로 30일 사망 35%, 재입원 18%를 줄였다.",
+          "mini_headline": "AI로 퇴원 후 사망 감소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "시험을 함께 이끄는 피오나 길버트 교수가 AI로 유방암 진단이 나아지는지 평가한다"
+                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
+                "cap": "가정 방문을 온 의사와 함께 웃는 노년 남성."
               },
               {
                 "t": "p",
-                "x": "영국 전역의 여성 약 70만 명이 세계 최대 규모의 시험에 초대된다. 인공지능이 유방암 검진을 어떻게 도울지 살피는 시험이다. EDITH 시험 참가자 모집은 영국 30개 시험 기관 중 첫 곳인 케임브리지대학병원에서 이미 시작됐다."
+                "x": "Las Vegas에서 열린 HLTH 콘퍼런스 사례 발표에 따르면 Texas의 한 병원이 인공지능(AI)의 도움으로 인력을 늘리지 않고 재입원과 퇴원 후 사망을 줄였다."
               },
               {
                 "t": "p",
-                "x": "지금은 NHS 전문가 두 명이 유방촬영 영상 한 장을 따로 판독한다. 이번 시험에서는 그중 한 명을 AI가 맡는다. 연구진은 AI 때문에 여성들이 불필요한 추가 검사에 다시 불려 오는 일이 없다는 확신이 필요하다고 말한다."
+                "x": "Houston Methodist Hospital은 예측 AI로 위험도가 가장 높은 Medicare 수술 환자에게 추적 방문을 집중했다. 그 결과 30일 퇴원 후 사망률은 약 35%, 재입원은 약 18% 줄었다고 병원 선임 혁신 컨설턴트 Brenda Campbell(MS, BSN)이 밝혔다."
               },
               {
                 "t": "p",
-                "x": "길버트 교수는 \"해마다 수백만 명의 여성이 유방촬영을 받지만 암이 있는 사람은 1% 미만의 극소수\"라고 말했다. 영상의학 전문의는 \"크게 부족\"한데 영상 검사는 해마다 8%씩 는다고 BBC에 전했다."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "셜리 에섹스는 정기 유방 검진 덕분에 목숨을 건졌다고 말한다"
+                "x": "퇴원 후 사망의 관찰 대비 기대(O/E) 비율은 2021~2022년 0.48에서 2025년~2026년 Q1(일부 기간) 0.31로, 재입원은 1.17에서 0.96으로 떨어졌다. 14일 이내 임상의 추적 방문 비율은 사망 위험 최상위군에서 54.6%에서 62.2%로, 재입원 위험 최상위군에서 55.8%에서 64.5%로 올랐다."
               },
               {
                 "t": "p",
-                "x": "한 갈래에서는 AI 프로그램이 영상을 NHS 전문가에게 넘기기 전에 등급을 매기고, 다른 갈래에서는 판독이 끝난 영상을 다시 본다. £10m 규모의 시험 자금은 NIHR이 대며, 워릭대학교·케임브리지대학교·케임브리지대학병원이 NHS England와 함께 이끈다."
+                "x": "작업은 2021년 시작됐다. Medicare 전체 데이터로 예측 AI를 학습시킨 Health Data Analytics Institute(HDAI)가 100곳이 넘는 학술 의료기관을 비교해 보니, 이 병원 심혈관 서비스 라인은 원내 사망률이 7위였지만 30일 퇴원 후 사망률은 43위에 머물렀다. 예측 결과는 전자의무기록에 들어갔고, 임상의들은 최고 위험 환자부터 2주 안에 추적 진료를 하라는 요청을 받았다."
               },
               {
                 "t": "p",
-                "x": "시험에는 AI 기업 네 곳이 참여한다. 기간은 약 3년으로 예상된다."
+                "x": "114곳 학술 의료기관 가운데 이 병원의 재입원 순위는 2022년 59위에서 2024년 7위로 올랐다. Campbell은 \"추가 자원 없이 이 일을 해냈다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NHS、乳がん検診で\nAIの二次読影を試験",
-          "body": "英国の女性約70万人を招くEDITH試験で、AIが読影者一人を代替できるか検証する。",
-          "mini_headline": "NHS、AI乳がん検診を試験",
+          "headline": "Houston病院のAI\n退院後の死亡を減らす",
+          "body": "MethodistはHDAIの予測AIで30日死亡を約35%、再入院を18%減らした。",
+          "mini_headline": "AIで退院後の死亡が減少",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "試験を共同で率いるフィオナ・ギルバート教授は、AIが乳がん診断を改善できるかを評価する"
+                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
+                "cap": "訪問診療中に医師と笑い合う高齢男性。"
               },
               {
                 "t": "p",
-                "x": "英国全土で約70万人の女性が、人工知能が乳がん検診にどう役立つかを調べる世界最大の試験への参加を呼びかけられる。EDITH試験の参加者募集は、英国内30施設のうち最初となるケンブリッジ大学病院ですでに始まっている。"
+                "x": "Las Vegasで開かれたHLTHカンファレンスで発表された事例研究によると、人工知能(AI)はTexasのある病院で、新たな人員を増やすことなく再入院と退院後の死亡を減らすのに役立った。"
               },
               {
                 "t": "p",
-                "x": "現在はNHSの専門医二人がマンモグラフィー画像を一枚ずつ読影しているが、この試験では人間の読影者の一人をAIが担う。研究者らは、不要な追加検査のために女性が呼び戻されるといった害が生じないことを確かめる必要があるとしている。"
+                "x": "Houston Methodist Hospitalは予測AIを使い、リスクが最も高いMedicareの手術患者にフォローアップ訪問を集中させた。その結果、退院後30日死亡率は約35%、再入院は約18%低下したと、同病院のシニアイノベーションコンサルタントであるBrenda Campbell(MS, BSN)は述べた。"
               },
               {
                 "t": "p",
-                "x": "ギルバート教授は「毎年何百万人もの女性がマンモグラフィーを受けるが、がんが見つかるのは1%未満のごく一部だ」と述べた。BBCに対しては、放射線科医が「大幅に不足」しており、画像検査は年8%のペースで増えていると語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "シャーリー・エセックスさんは、定期的な乳がん検診に命を救われたと語る"
+                "x": "退院後死亡の観察値/期待値(O/E)比は2021〜2022年の0.48から2025年〜2026年Q1(部分期間)には0.31に、再入院では1.17から0.96に低下した。14日以内の臨床医によるフォローアップ受診率は、死亡リスク最上位群で54.6%から62.2%へ、再入院リスク最上位群で55.8%から64.5%へ上昇した。"
               },
               {
                 "t": "p",
-                "x": "試験の一方の群では、AIプログラムが画像をNHSの専門医に送る前に評価する。もう一方の群では、読影後に画像を見直す。£10m 規模のこの試験はNIHRが資金を提供し、ウォーリック大学、ケンブリッジ大学、ケンブリッジ大学病院がNHS Englandと連携して主導する。"
+                "x": "取り組みは2021年に始まった。Medicareの全データで予測AIを学習させていたHealth Data Analytics Institute(HDAI)は、100を超える大学医療センターの中で、同病院の循環器サービスラインが院内死亡率では7位だったのに対し、退院後30日死亡率では43位だったことを突き止めた。予測は電子カルテに組み込まれ、臨床医は最高リスク患者のフォローアップを2週間以内に優先するよう求められた。"
               },
               {
                 "t": "p",
-                "x": "試験にはAI企業4社が参加し、期間はおよそ3年の見通しだ。"
+                "x": "114の大学医療センターの中で、同病院の再入院順位は2022年の59位から2024年には7位に上がった。「追加のリソースなしでこれを成し遂げた」とCampbellは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NHS试点让AI担任\n乳腺筛查第二读片人",
-          "body": "英国近70万名女性将受邀加入EDITH试验，检验AI能否替代两名乳房X光读片者之一。",
-          "mini_headline": "NHS试点AI乳腺筛查",
+          "headline": "Houston医院AI\n降低出院后死亡",
+          "body": "Methodist借助HDAI预测AI精准随访，30天死亡率降约35%，再入院降18%。",
+          "mini_headline": "AI降低出院后死亡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "共同主持试验的菲奥娜·吉尔伯特教授将评估AI能否改善乳腺癌诊断"
+                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
+                "cap": "家访时与医生一起大笑的老年男性。"
               },
               {
                 "t": "p",
-                "x": "英国各地近70万名女性将受邀参加全球规模最大的人工智能辅助乳腺癌筛查试验。EDITH试验已在剑桥大学医院启动招募，这是英国30个试验点中的第一个。"
+                "x": "据在Las Vegas举行的HLTH大会上发布的一项案例研究，人工智能(AI)帮助Texas一家医院在未增加任何新员工的情况下降低了再入院率和出院后死亡率。"
               },
               {
                 "t": "p",
-                "x": "目前每张乳房X光片由两名NHS专家分别判读，而在试验中，其中一名人工读片者将由AI替代。研究人员表示，必须确保AI不会造成伤害，例如导致女性被不必要地召回做进一步检查。"
+                "x": "该院高级创新顾问Brenda Campbell(MS, BSN)表示，Houston Methodist Hospital利用预测AI将随访重点放在风险最高的Medicare手术患者身上，出院后30天死亡率下降约35%，再入院率下降约18%。"
               },
               {
                 "t": "p",
-                "x": "吉尔伯特教授说：“每年有数以百万计的女性接受乳房X光检查，其中只有极少数、不到1%的人患有癌症。”她告诉BBC，放射科医生存在“巨大缺口”，而影像检查每年增长8%。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "雪莉·埃塞克斯说，常规乳腺筛查救了她的命"
+                "x": "出院后死亡的观察/预期(O/E)比值从2021-2022年的0.48降至2025年至2026年Q1(部分期间)的0.31，再入院的比值从1.17降至0.96。在死亡风险最高组中，14天内临床医生随访比例从54.6%升至62.2%；在再入院风险最高组中，从55.8%升至64.5%。"
               },
               {
                 "t": "p",
-                "x": "在试验的一组中，AI程序会在影像送交NHS专家之前进行分级；在另一组中，AI则在专家判读之后复核影像。这项耗资£10m 的试验由NIHR资助，由华威大学、剑桥大学和剑桥大学医院牵头，并与NHS England合作。"
+                "x": "这项工作始于2021年。Health Data Analytics Institute(HDAI)曾用Medicare全部数据集训练预测AI，发现在100多家学术医疗中心中，该院心血管服务线的院内死亡率排名第7，而出院后30天死亡率仅排第43。预测结果被嵌入电子病历，临床医生被要求在2周内优先为最高风险患者安排随访。"
               },
               {
                 "t": "p",
-                "x": "共有四家AI公司参与该试验，预计为期约三年。"
+                "x": "在114家学术医疗中心中，该院的再入院排名从2022年的第59位升至2024年的第7位。Campbell说：“我们是在没有任何额外资源的情况下做到的。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El NHS prueba la IA como\nsegundo lector en mamografías",
-          "body": "Casi 700.000 mujeres británicas serán invitadas a EDITH, que evalúa si la IA puede sustituir a uno de dos lectores.",
-          "mini_headline": "El NHS prueba la IA en el cribado de mama",
+          "headline": "Houston Methodist reduce con AI\nlas muertes tras el alta",
+          "body": "Con la AI predictiva de HDAI, Houston Methodist redujo un 35% las muertes a 30 días y un 18% los reingresos.",
+          "mini_headline": "La AI reduce muertes tras el alta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "La profesora Fiona Gilbert, que codirige el ensayo, evaluará si la IA puede mejorar el diagnóstico del cáncer de mama"
+                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
+                "cap": "Hombre mayor riendo con un médico durante una visita a domicilio."
               },
               {
                 "t": "p",
-                "x": "Casi 700.000 mujeres de todo el Reino Unido serán invitadas a participar en el mayor ensayo del mundo sobre cómo la inteligencia artificial puede ayudar en el cribado del cáncer de mama. El reclutamiento para el ensayo EDITH ya ha comenzado en Cambridge University Hospitals, el primero de 30 centros en el Reino Unido."
+                "x": "La inteligencia artificial (AI) ayudó a un hospital de Texas a reducir los reingresos y las muertes tras el alta sin sumar personal nuevo, según un estudio de caso presentado en la conferencia HLTH en Las Vegas."
               },
               {
                 "t": "p",
-                "x": "Actualmente, dos expertos del NHS examinan cada mamografía, pero en el ensayo uno de los lectores humanos será sustituido por la IA. Los investigadores afirman que deben asegurarse de que no cause daños al hacer que se vuelva a citar a mujeres innecesariamente para más pruebas."
+                "x": "Al usar AI predictiva para concentrar las visitas de seguimiento en sus pacientes quirúrgicos de Medicare de mayor riesgo, la mortalidad a 30 días tras el alta del Houston Methodist Hospital cayó cerca de un 35% y los reingresos, cerca de un 18%, afirmó Brenda Campbell, MS, BSN, consultora sénior de innovación del hospital."
               },
               {
                 "t": "p",
-                "x": "La profesora Gilbert dijo: \"Millones de mujeres se hacen una mamografía cada año y solo un pequeño número, menos del 1%, tendrá cáncer\". Contó a la BBC que hay un \"enorme déficit\" de radiólogos y que las pruebas de imagen aumentan un 8% al año."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "Shirley Essex afirma que el cribado mamario rutinario le salvó la vida"
+                "x": "Las razones observado/esperado (O/E) bajaron de 0.48 en 2021-2022 a 0.31 en 2025-Q1 2026 (un periodo parcial) para las muertes tras el alta, y de 1.17 a 0.96 para los reingresos. Las visitas de seguimiento clínico en un plazo de 14 días subieron del 54.6% al 62.2% en el grupo de mayor riesgo de mortalidad y del 55.8% al 64.5% en el de mayor riesgo de reingreso."
               },
               {
                 "t": "p",
-                "x": "En un brazo del ensayo, un programa de IA calificará las imágenes antes de enviarlas a los expertos del NHS. En otro, las revisará después. El ensayo, de £10m, está financiado por el NIHR y lo dirigen la Universidad de Warwick, la Universidad de Cambridge y Cambridge University Hospitals, en colaboración con NHS England."
+                "x": "El trabajo empezó en 2021. El Health Data Analytics Institute (HDAI), que había entrenado AI predictiva con todo el conjunto de datos de Medicare, halló que la línea de servicio cardiovascular ocupaba el puesto 7 en mortalidad hospitalaria, pero el 43 en mortalidad a 30 días tras el alta, entre más de 100 centros médicos académicos. Las predicciones se integraron en la historia clínica electrónica y se pidió a los clínicos priorizar el seguimiento en un plazo de 2 semanas para los pacientes de mayor riesgo."
               },
               {
                 "t": "p",
-                "x": "En el ensayo participan cuatro empresas de IA y se prevé que dure unos tres años."
+                "x": "Entre 114 centros médicos académicos, el hospital pasó del puesto 59 en reingresos en 2022 al 7 en 2024. \"Lo hemos hecho sin recursos adicionales\", dijo Campbell."
               }
             ]
           }
@@ -253,161 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "NHS, 유방암 검진\nAI 판독 시험 착수",
-          "body": "EDITH 시험은 영국 여성 약 70만 명을 초대해 AI의 판독 대체를 검증한다.",
-          "mini_headline": "NHS, AI 유방 검진 시험",
+          "headline": "Houston 병원 AI,\n퇴원 후 사망 줄였다",
+          "body": "Methodist는 HDAI AI로 30일 사망 35%, 재입원 18%를 줄였다.",
+          "mini_headline": "AI로 퇴원 후 사망 감소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "시험을 공동으로 이끄는 피오나 길버트 교수는 AI가 유방암 진단을 개선할 수 있는지 평가한다"
+                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
+                "cap": "가정 방문 중 의사와 함께 웃는 노년 남성."
               },
               {
                 "t": "p",
-                "x": "영국 전역에서 약 70만 명의 여성이 인공지능이 유방암 검진을 어떻게 도울 수 있는지 살피는 세계 최대 규모의 시험에 초대된다. EDITH 시험 참가자 모집은 영국 내 30개 시험 기관 가운데 첫 번째인 케임브리지대학병원에서 이미 시작됐다."
+                "x": "Las Vegas에서 열린 HLTH 콘퍼런스의 사례 발표에 따르면, 인공지능(AI)은 Texas의 한 병원이 신규 인력을 늘리지 않고도 재입원과 퇴원 후 사망을 줄이도록 도왔다."
               },
               {
                 "t": "p",
-                "x": "현재는 NHS 전문가 두 명이 유방촬영 영상 한 장을 각각 판독하지만, 이번 시험에서는 사람 판독자 한 명을 AI가 대신한다. 연구진은 AI가 여성들을 불필요한 추가 검사로 다시 부르는 피해를 낳지 않는다는 확신이 필요하다고 말한다."
+                "x": "Houston Methodist Hospital은 예측 AI로 위험도가 가장 높은 Medicare 수술 환자에게 추적 방문을 집중했고, 그 결과 30일 퇴원 후 사망률은 약 35%, 재입원은 약 18% 줄었다고 병원 선임 혁신 컨설턴트 Brenda Campbell(MS, BSN)이 밝혔다."
               },
               {
                 "t": "p",
-                "x": "길버트 교수는 \"해마다 수백만 명의 여성이 유방촬영을 받지만 암이 있는 사람은 1% 미만의 극소수\"라고 말했다. 그는 BBC에 영상의학 전문의가 \"크게 부족\"하며 영상 검사가 해마다 8%씩 늘고 있다고 전했다."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "셜리 에섹스는 정기 유방 검진이 자신의 목숨을 구했다고 말한다"
+                "x": "퇴원 후 사망의 관찰 대비 기대(O/E) 비율은 2021~2022년 0.48에서 2025년~2026년 Q1(일부 기간) 0.31로, 재입원은 1.17에서 0.96으로 떨어졌다. 14일 이내 임상의 추적 방문 비율은 사망 위험 최상위군에서 54.6%에서 62.2%로, 재입원 위험 최상위군에서 55.8%에서 64.5%로 올랐다."
               },
               {
                 "t": "p",
-                "x": "시험의 한 갈래에서는 AI 프로그램이 영상을 NHS 전문가에게 보내기 전에 등급을 매긴다. 다른 갈래에서는 판독이 끝난 뒤 영상을 다시 검토한다. £10m 규모의 이 시험은 NIHR이 자금을 대고, 워릭대학교·케임브리지대학교·케임브리지대학병원이 NHS England와 함께 이끈다."
+                "x": "이 작업은 2021년에 시작됐다. Medicare 전체 데이터로 예측 AI를 학습시킨 Health Data Analytics Institute(HDAI)는 100곳이 넘는 학술 의료기관 가운데 이 병원 심혈관 서비스 라인이 원내 사망률은 7위였지만 30일 퇴원 후 사망률은 43위라는 점을 확인했다. 예측 결과는 전자의무기록에 탑재됐고, 임상의들은 최고 위험 환자의 추적 진료를 2주 이내에 우선 시행하도록 요청받았다."
               },
               {
                 "t": "p",
-                "x": "이번 시험에는 AI 기업 네 곳이 참여하며, 기간은 약 3년으로 예상된다."
+                "x": "114곳 학술 의료기관 가운데 이 병원의 재입원 순위는 2022년 59위에서 2024년 7위로 올랐다. Campbell은 \"추가 자원 없이 이 일을 해냈다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NHS、乳がん検診で\nAIの二次読影を試験",
-          "body": "英国の女性約70万人を招くEDITH試験で、AIが読影者一人を代替できるか検証する。",
-          "mini_headline": "NHS、AI乳がん検診を試験",
+          "headline": "Houston病院のAI\n退院後の死亡を減らす",
+          "body": "MethodistはHDAIの予測AIで30日死亡を約35%、再入院を18%減らした。",
+          "mini_headline": "AIで退院後の死亡が減少",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "試験を共同で率いるフィオナ・ギルバート教授は、AIが乳がん診断を改善できるかを評価する"
+                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
+                "cap": "訪問診療中に医師と笑い合う高齢男性。"
               },
               {
                 "t": "p",
-                "x": "英国全土で約70万人の女性が、人工知能が乳がん検診にどう役立つかを調べる世界最大の試験への参加を呼びかけられる。EDITH試験の参加者募集は、英国内30施設のうち最初となるケンブリッジ大学病院ですでに始まっている。"
+                "x": "Las Vegasで開かれたHLTHカンファレンスで発表された事例研究によると、人工知能(AI)はTexasのある病院で、新たな人員を増やすことなく再入院と退院後の死亡を減らすのに役立った。"
               },
               {
                 "t": "p",
-                "x": "現在はNHSの専門医二人がマンモグラフィー画像を一枚ずつ読影しているが、この試験では人間の読影者の一人をAIが担う。研究者らは、不要な追加検査のために女性が呼び戻されるといった害が生じないことを確かめる必要があるとしている。"
+                "x": "Houston Methodist Hospitalは予測AIを使い、リスクが最も高いMedicareの手術患者にフォローアップ訪問を集中させた。その結果、退院後30日死亡率は約35%、再入院は約18%低下したと、同病院のシニアイノベーションコンサルタントであるBrenda Campbell(MS, BSN)は述べた。"
               },
               {
                 "t": "p",
-                "x": "ギルバート教授は「毎年何百万人もの女性がマンモグラフィーを受けるが、がんが見つかるのは1%未満のごく一部だ」と述べた。BBCに対しては、放射線科医が「大幅に不足」しており、画像検査は年8%のペースで増えていると語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "シャーリー・エセックスさんは、定期的な乳がん検診に命を救われたと語る"
+                "x": "退院後死亡の観察値/期待値(O/E)比は2021〜2022年の0.48から2025年〜2026年Q1(部分期間)には0.31に、再入院では1.17から0.96に低下した。14日以内の臨床医によるフォローアップ受診率は、死亡リスク最上位群で54.6%から62.2%へ、再入院リスク最上位群で55.8%から64.5%へ上昇した。"
               },
               {
                 "t": "p",
-                "x": "試験の一方の群では、AIプログラムが画像をNHSの専門医に送る前に評価する。もう一方の群では、読影後に画像を見直す。£10m 規模のこの試験はNIHRが資金を提供し、ウォーリック大学、ケンブリッジ大学、ケンブリッジ大学病院がNHS Englandと連携して主導する。"
+                "x": "取り組みは2021年に始まった。Medicareの全データで予測AIを学習させていたHealth Data Analytics Institute(HDAI)は、100を超える大学医療センターの中で、同病院の循環器サービスラインが院内死亡率では7位だったのに対し、退院後30日死亡率では43位だったことを突き止めた。予測は電子カルテに組み込まれ、臨床医は最高リスク患者のフォローアップを2週間以内に優先するよう求められた。"
               },
               {
                 "t": "p",
-                "x": "試験にはAI企業4社が参加し、期間はおよそ3年の見通しだ。"
+                "x": "114の大学医療センターの中で、同病院の再入院順位は2022年の59位から2024年には7位に上がった。「追加のリソースなしでこれを成し遂げた」とCampbellは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NHS试点让AI担任\n乳腺筛查第二读片人",
-          "body": "英国近70万名女性将受邀加入EDITH试验，检验AI能否替代两名乳房X光读片者之一。",
-          "mini_headline": "NHS试点AI乳腺筛查",
+          "headline": "Houston医院AI\n降低出院后死亡",
+          "body": "Methodist借助HDAI预测AI精准随访，30天死亡率降约35%，再入院降18%。",
+          "mini_headline": "AI降低出院后死亡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "共同主持试验的菲奥娜·吉尔伯特教授将评估AI能否改善乳腺癌诊断"
+                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
+                "cap": "家访时与医生一起大笑的老年男性。"
               },
               {
                 "t": "p",
-                "x": "英国各地近70万名女性将受邀参加全球规模最大的人工智能辅助乳腺癌筛查试验。EDITH试验已在剑桥大学医院启动招募，这是英国30个试验点中的第一个。"
+                "x": "据在Las Vegas举行的HLTH大会上发布的一项案例研究，人工智能(AI)帮助Texas一家医院在未增加任何新员工的情况下降低了再入院率和出院后死亡率。"
               },
               {
                 "t": "p",
-                "x": "目前每张乳房X光片由两名NHS专家分别判读，而在试验中，其中一名人工读片者将由AI替代。研究人员表示，必须确保AI不会造成伤害，例如导致女性被不必要地召回做进一步检查。"
+                "x": "该院高级创新顾问Brenda Campbell(MS, BSN)表示，Houston Methodist Hospital利用预测AI将随访重点放在风险最高的Medicare手术患者身上，出院后30天死亡率下降约35%，再入院率下降约18%。"
               },
               {
                 "t": "p",
-                "x": "吉尔伯特教授说：“每年有数以百万计的女性接受乳房X光检查，其中只有极少数、不到1%的人患有癌症。”她告诉BBC，放射科医生存在“巨大缺口”，而影像检查每年增长8%。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "雪莉·埃塞克斯说，常规乳腺筛查救了她的命"
+                "x": "出院后死亡的观察/预期(O/E)比值从2021-2022年的0.48降至2025年至2026年Q1(部分期间)的0.31，再入院的比值从1.17降至0.96。在死亡风险最高组中，14天内临床医生随访比例从54.6%升至62.2%；在再入院风险最高组中，从55.8%升至64.5%。"
               },
               {
                 "t": "p",
-                "x": "在试验的一组中，AI程序会在影像送交NHS专家之前进行分级；在另一组中，AI则在专家判读之后复核影像。这项耗资£10m 的试验由NIHR资助，由华威大学、剑桥大学和剑桥大学医院牵头，并与NHS England合作。"
+                "x": "这项工作始于2021年。Health Data Analytics Institute(HDAI)曾用Medicare全部数据集训练预测AI，发现在100多家学术医疗中心中，该院心血管服务线的院内死亡率排名第7，而出院后30天死亡率仅排第43。预测结果被嵌入电子病历，临床医生被要求在2周内优先为最高风险患者安排随访。"
               },
               {
                 "t": "p",
-                "x": "共有四家AI公司参与该试验，预计为期约三年。"
+                "x": "在114家学术医疗中心中，该院的再入院排名从2022年的第59位升至2024年的第7位。Campbell说：“我们是在没有任何额外资源的情况下做到的。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El NHS prueba la IA como\nsegundo lector en mamografías",
-          "body": "Casi 700.000 mujeres británicas serán invitadas a EDITH, que evalúa si la IA puede sustituir a uno de dos lectores.",
-          "mini_headline": "El NHS prueba la IA en el cribado de mama",
+          "headline": "Houston Methodist reduce con AI\nlas muertes tras el alta",
+          "body": "Con la AI predictiva de HDAI, Houston Methodist redujo un 35% las muertes a 30 días y un 18% los reingresos.",
+          "mini_headline": "La AI reduce muertes tras el alta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "La profesora Fiona Gilbert, que codirige el ensayo, evaluará si la IA puede mejorar el diagnóstico del cáncer de mama"
+                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
+                "cap": "Hombre mayor riendo con un médico durante una visita a domicilio."
               },
               {
                 "t": "p",
-                "x": "Casi 700.000 mujeres de todo el Reino Unido serán invitadas a participar en el mayor ensayo del mundo sobre cómo la inteligencia artificial puede ayudar en el cribado del cáncer de mama. El reclutamiento para el ensayo EDITH ya ha comenzado en Cambridge University Hospitals, el primero de 30 centros en el Reino Unido."
+                "x": "La inteligencia artificial (AI) ayudó a un hospital de Texas a reducir los reingresos y las muertes tras el alta sin sumar personal nuevo, según un estudio de caso presentado en la conferencia HLTH en Las Vegas."
               },
               {
                 "t": "p",
-                "x": "Actualmente, dos expertos del NHS examinan cada mamografía, pero en el ensayo uno de los lectores humanos será sustituido por la IA. Los investigadores afirman que deben asegurarse de que no cause daños al hacer que se vuelva a citar a mujeres innecesariamente para más pruebas."
+                "x": "Al usar AI predictiva para concentrar las visitas de seguimiento en sus pacientes quirúrgicos de Medicare de mayor riesgo, la mortalidad a 30 días tras el alta del Houston Methodist Hospital cayó cerca de un 35% y los reingresos, cerca de un 18%, afirmó Brenda Campbell, MS, BSN, consultora sénior de innovación del hospital."
               },
               {
                 "t": "p",
-                "x": "La profesora Gilbert dijo: \"Millones de mujeres se hacen una mamografía cada año y solo un pequeño número, menos del 1%, tendrá cáncer\". Contó a la BBC que hay un \"enorme déficit\" de radiólogos y que las pruebas de imagen aumentan un 8% al año."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
-                "cap": "Shirley Essex afirma que el cribado mamario rutinario le salvó la vida"
+                "x": "Las razones observado/esperado (O/E) bajaron de 0.48 en 2021-2022 a 0.31 en 2025-Q1 2026 (un periodo parcial) para las muertes tras el alta, y de 1.17 a 0.96 para los reingresos. Las visitas de seguimiento clínico en un plazo de 14 días subieron del 54.6% al 62.2% en el grupo de mayor riesgo de mortalidad y del 55.8% al 64.5% en el de mayor riesgo de reingreso."
               },
               {
                 "t": "p",
-                "x": "En un brazo del ensayo, un programa de IA calificará las imágenes antes de enviarlas a los expertos del NHS. En otro, las revisará después. El ensayo, de £10m, está financiado por el NIHR y lo dirigen la Universidad de Warwick, la Universidad de Cambridge y Cambridge University Hospitals, en colaboración con NHS England."
+                "x": "El trabajo empezó en 2021. El Health Data Analytics Institute (HDAI), que había entrenado AI predictiva con todo el conjunto de datos de Medicare, halló que la línea de servicio cardiovascular ocupaba el puesto 7 en mortalidad hospitalaria, pero el 43 en mortalidad a 30 días tras el alta, entre más de 100 centros médicos académicos. Las predicciones se integraron en la historia clínica electrónica y se pidió a los clínicos priorizar el seguimiento en un plazo de 2 semanas para los pacientes de mayor riesgo."
               },
               {
                 "t": "p",
-                "x": "En el ensayo participan cuatro empresas de IA y se prevé que dure unos tres años."
+                "x": "Entre 114 centros médicos académicos, el hospital pasó del puesto 59 en reingresos en 2022 al 7 en 2024. \"Lo hemos hecho sin recursos adicionales\", dijo Campbell."
               }
             ]
           }
@@ -415,15 +365,15 @@
       }
     },
     {
-      "id": "mhra-mental-health-airlock",
+      "id": "stat-rsna-draft-reports",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MHRA, AI 정신건강\n도구 샌드박스 개설",
-      "body": "영국 규제기관이 샌드박스에서 AI 정신건강 도구를 어떻게 평가·규제할지 살핀다.",
-      "mini_headline": "MHRA, AI 정신건강 샌드박스",
+      "headline": "AI가 쓴 판독 초안,\n진료는 더 안전할까",
+      "body": "RSNA 2026 앞두고 STAT이 X-rays·CT 초안 AI의 안전을 묻는다.",
+      "mini_headline": "AI 판독 초안, 더 안전한가",
       "tool": "Medicine",
-      "source": "GOV.UK (MHRA)",
-      "url": "https://www.gov.uk/government/news/ai-in-mental-health-airlock-to-support-safe-innovation",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -431,197 +381,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+            "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "MHRA와 NICE가 오늘(11월 23일) 규제 샌드박스를 새로 열었다. AI-enabled(AI 기반) 정신건강 기술이 안전하게 혁신하도록 지원해 유망한 기술을 더 빨리 사람들에게 전하려는 취지다."
+            "x": "인공지능이 영상의학 진료에서 맡는 역할은 이십 년 넘게 꾸준히 커졌다. 오늘날 거의 모든 영상의학과 의사가 AI 도구를 쓴다. 판독할 영상을 분류하거나 판독문을 받아쓰거나 매일 읽는 수십 건의 X-rays와 CTs에서 소견을 찾아내는 식이다."
           },
           {
             "t": "p",
-            "x": "AI in Mental Health Airlock은 MHRA의 AI Airlock 프로그램을 넓힌 것이다. NICE의 HTA Lab과 손잡고 규제기관과 혁신 기업이 AI-enabled 정신건강 기술에 필요한 평가 요건을 함께 찾는다. 2023년 처음 시작한 Wellcome 지원 프로그램의 두 번째 단계다."
+            "x": "그런데 지난해 Radiological Society of North America(북미영상의학회) 연례 학술대회에서 영상의학 전문가와 개발자들이 AI의 새 패러다임을 앞세우기 시작했다. 비전-언어 모델로 영상을 읽고 거기서 찾은 임상 소견을 판독문 초안으로 쓰는 기술이다."
           },
           {
             "t": "p",
-            "x": "최근 연구에 따르면 성인 세 명 중 한 명 이상(37%)이 정신건강이나 웰빙 때문에 AI 챗봇을 써 봤다. 이런 챗봇 일부는 의료 목적이 있어 의료기기 규제를 받을 수 있지만, 그렇지 않은 것도 있다."
+            "x": "Aidoc 최고기술책임자 Michael Braginsky는 \"지난해 RSNA는 주로 AI 모델이 실제 판독문처럼 보이고, 영상의학과 의사가 검토라도 해 볼 만큼 정확한 초안을 쓰는 것이 실제로 가능한지에 초점을 맞췄다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "샌드박스에는 최대 다섯 곳이 참여한다. 이들은 워크숍과 시험 활동에서 정신건강 분야의 AI-related(AI 관련) 위험을 어떻게 식별·평가·관리할지 실제로 익힌다. 신청은 2027년 1월 22일 마감이다."
-          },
-          {
-            "t": "p",
-            "x": "MHRA 최고경영자 로런스 탤런은 \"AIMH Airlock은 AI 정신건강 기술을 실제로 어떻게 평가하고 관리할 수 있는지 더 잘 이해하도록 도울 것\"이라고 말했다."
+            "x": "Chicago에서 RSNA가 열리는 동안 업계 관계자들은 AI 판독 초안이 진료를 나아지게 할지를 두고 논쟁을 벌일 전망이다. (기사 나머지는 STAT+ 구독자 전용이다.)"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MHRA opens a sandbox for\nAI mental health tools",
-          "body": "The UK regulator's Airlock sandbox will test how the safety of AI mental health tools can be evaluated and regulated.",
-          "mini_headline": "MHRA sandbox for AI mental health",
+          "headline": "AI drafts radiology reports,\nbut is care any safer",
+          "body": "Ahead of RSNA 2026, STAT asks whether AI tools that draft reports from X-rays and CT scans improve care and safety.",
+          "mini_headline": "Is AI report drafting safer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "A new regulatory sandbox launched today (23 November) by the MHRA and NICE will support safe innovation in AI-enabled mental health technologies, helping promising technologies reach people sooner."
+                "x": "For more than two decades, artificial intelligence has played a growing role in the practice of radiology. Today, nearly every radiologist uses AI tools, whether that's to triage the images they interpret, dictate their reports, or detect findings in the dozens of X-rays and CTs they read every day."
               },
               {
                 "t": "p",
-                "x": "As an expansion of the MHRA's AI Airlock programme, in partnership with NICE's HTA Lab, the AI in Mental Health Airlock will bring regulators and innovators together to explore the specific evaluation needs for AI-enabled mental health technologies. It is part of phase two of a Wellcome-funded programme, first launched in 2023."
+                "x": "But last year, radiology experts and developers at the annual meeting of the Radiological Society of North America began to foreground a new paradigm in AI: technology, powered by vision-language models, that can look at an image and draft a report of the clinical findings within it."
               },
               {
                 "t": "p",
-                "x": "Recent research also suggests more than one in three adults (37%) have used an AI chatbot to support their mental health or wellbeing. Some of these chatbots may have medical purposes and be subject to medical device regulation, while others may not."
+                "x": "\"Last year's RSNA was mainly focused on whether it's actually possible that an AI model will write a draft for radiologists that would look like an actual radiology report, and that would be accurate enough to be even considered by a radiologist,\" said Michael Braginsky, chief technology officer of Aidoc."
               },
               {
                 "t": "p",
-                "x": "Up to five organisations will be selected to take part in the sandbox. Through workshops and testing activities, participants will generate practical insights into how AI-related risks in mental health contexts can be identified, assessed and managed. Applications close on 22 January 2027."
-              },
-              {
-                "t": "p",
-                "x": "MHRA Chief Executive Lawrence Tallon said: \"The AIMH Airlock will help us better understand how AI mental health technologies can be practically assessed and managed.\""
+                "x": "As RSNA meets in Chicago, industry insiders are expected to debate whether AI draft reporting will improve care. (The rest of the story is for STAT+ subscribers.)"
               }
             ]
           }
         },
         "ko": {
-          "headline": "MHRA, AI 정신건강\n도구 샌드박스 개설",
-          "body": "영국 규제기관이 샌드박스에서 AI 정신건강 도구를 어떻게 평가·규제할지 살핀다.",
-          "mini_headline": "MHRA, AI 정신건강 샌드박스",
+          "headline": "AI가 쓴 판독 초안,\n진료는 더 안전할까",
+          "body": "RSNA 2026 앞두고 STAT이 X-rays·CT 초안 AI의 안전을 묻는다.",
+          "mini_headline": "AI 판독 초안, 더 안전한가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "MHRA와 NICE가 오늘(11월 23일) 규제 샌드박스를 새로 열었다. AI-enabled(AI 기반) 정신건강 기술이 안전하게 혁신하도록 지원해 유망한 기술을 더 빨리 사람들에게 전하려는 취지다."
+                "x": "인공지능이 영상의학 진료에서 맡는 역할은 이십 년 넘게 꾸준히 커졌다. 오늘날 거의 모든 영상의학과 의사가 AI 도구를 쓴다. 판독할 영상을 분류하거나 판독문을 받아쓰거나 매일 읽는 수십 건의 X-rays와 CTs에서 소견을 찾아내는 식이다."
               },
               {
                 "t": "p",
-                "x": "AI in Mental Health Airlock은 MHRA의 AI Airlock 프로그램을 넓힌 것이다. NICE의 HTA Lab과 손잡고 규제기관과 혁신 기업이 AI-enabled 정신건강 기술에 필요한 평가 요건을 함께 찾는다. 2023년 처음 시작한 Wellcome 지원 프로그램의 두 번째 단계다."
+                "x": "그런데 지난해 Radiological Society of North America(북미영상의학회) 연례 학술대회에서 영상의학 전문가와 개발자들이 AI의 새 패러다임을 앞세우기 시작했다. 비전-언어 모델로 영상을 읽고 거기서 찾은 임상 소견을 판독문 초안으로 쓰는 기술이다."
               },
               {
                 "t": "p",
-                "x": "최근 연구에 따르면 성인 세 명 중 한 명 이상(37%)이 정신건강이나 웰빙 때문에 AI 챗봇을 써 봤다. 이런 챗봇 일부는 의료 목적이 있어 의료기기 규제를 받을 수 있지만, 그렇지 않은 것도 있다."
+                "x": "Aidoc 최고기술책임자 Michael Braginsky는 \"지난해 RSNA는 주로 AI 모델이 실제 판독문처럼 보이고, 영상의학과 의사가 검토라도 해 볼 만큼 정확한 초안을 쓰는 것이 실제로 가능한지에 초점을 맞췄다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "샌드박스에는 최대 다섯 곳이 참여한다. 이들은 워크숍과 시험 활동에서 정신건강 분야의 AI-related(AI 관련) 위험을 어떻게 식별·평가·관리할지 실제로 익힌다. 신청은 2027년 1월 22일 마감이다."
-              },
-              {
-                "t": "p",
-                "x": "MHRA 최고경영자 로런스 탤런은 \"AIMH Airlock은 AI 정신건강 기술을 실제로 어떻게 평가하고 관리할 수 있는지 더 잘 이해하도록 도울 것\"이라고 말했다."
+                "x": "Chicago에서 RSNA가 열리는 동안 업계 관계자들은 AI 판독 초안이 진료를 나아지게 할지를 두고 논쟁을 벌일 전망이다. (기사 나머지는 STAT+ 구독자 전용이다.)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "MHRA、AIメンタルヘルス\n向けサンドボックス開設",
-          "body": "英国規制当局がサンドボックスで、AI心の健康ツールの安全性評価と規制の方法を試す。",
-          "mini_headline": "MHRA、AIメンタルヘルスのサンドボックス",
+          "headline": "AIが読影レポート作成\n医療は安全になるか",
+          "body": "RSNA 2026を前に、STATがX-rays・CT読影の下書きAIの安全性を問う。",
+          "mini_headline": "AIの読影下書きは安全か",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "MHRAとNICEが本日（11月23日）立ち上げた新たな規制サンドボックスは、AI-enabled（AI搭載）のメンタルヘルス技術における安全なイノベーションを支援し、有望な技術がより早く人々に届くよう後押しする。"
+                "x": "人工知能は二十年以上にわたり、放射線診療で役割を広げてきた。今日ではほぼすべての放射線科医がAIツールを使っている。読影する画像のトリアージ、レポートの口述入力、毎日読む数十件のX-raysやCTsからの所見検出などだ。"
               },
               {
                 "t": "p",
-                "x": "MHRAのAI Airlockプログラムを拡大したAI in Mental Health Airlockは、NICEのHTA Labと連携し、規制当局とイノベーターを結び付けて、AI-enabledのメンタルヘルス技術に固有の評価ニーズを探る。これは2023年に始まったWellcome助成プログラムの第二段階の一環である。"
+                "x": "しかし昨年、Radiological Society of North America(北米放射線学会)の年次総会で、放射線の専門家や開発者はAIの新たなパラダイムを前面に打ち出し始めた。視覚言語モデルを基盤に、画像を見てその中の臨床所見をまとめたレポートの下書きを作成できる技術である。"
               },
               {
                 "t": "p",
-                "x": "最近の調査では、成人の三人に一人以上（37%）がメンタルヘルスやウェルビーイングの支えとしてAIチャットボットを使ったことがあるという。こうしたチャットボットには、医療目的を持ち医療機器規制の対象となり得るものもあれば、そうでないものもある。"
+                "x": "「昨年のRSNAは主に、AIモデルが実際の読影レポートのように見え、放射線科医が検討に値するほど正確な下書きを書くことが本当に可能かどうかに焦点を当てていた」と、Aidocの最高技術責任者Michael Braginskyは語った。"
               },
               {
                 "t": "p",
-                "x": "サンドボックスには最大五つの組織が選ばれる。参加者はワークショップや試験的な活動を通じて、メンタルヘルスの文脈でAI-related（AI関連）のリスクをどう特定・評価・管理できるかについて実践的な知見を得る。応募は2027年1月22日に締め切られる。"
-              },
-              {
-                "t": "p",
-                "x": "MHRAのローレンス・タロン最高経営責任者は「AIMH Airlockは、AIメンタルヘルス技術を実際にどう評価し管理できるかを、より深く理解する助けになる」と述べた。"
+                "x": "RSNAがChicagoで開かれる中、業界関係者はAIによるレポート下書きが医療を改善するかどうかを議論するとみられる。(記事の続きはSTAT+購読者向けである。)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MHRA为AI心理健康\n工具开设沙盒",
-          "body": "英国监管机构的Airlock沙盒将检验如何评估和监管AI心理健康工具的安全性。",
-          "mini_headline": "MHRA推出AI心理健康沙盒",
+          "headline": "AI起草影像报告\n医疗更安全了吗",
+          "body": "RSNA 2026前夕，STAT追问用X-rays和CT起草报告的AI能否提升医疗安全。",
+          "mini_headline": "AI起草报告更安全吗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "MHRA与NICE于今天（11月23日）推出的新监管沙盒，将支持AI-enabled（AI赋能）心理健康技术的安全创新，帮助有前景的技术更快惠及民众。"
+                "x": "二十多年来，人工智能在放射科实践中的作用日益增长。如今，几乎每位放射科医生都在使用AI工具，无论是对待判读影像进行分诊、口述报告，还是在每天阅读的数十张X-rays和CTs中检出异常。"
               },
               {
                 "t": "p",
-                "x": "作为MHRA旗下AI Airlock项目的扩展，AI in Mental Health Airlock与NICE的HTA Lab合作，汇聚监管者与创新者，共同探索AI-enabled心理健康技术的具体评估需求。它是Wellcome资助项目第二阶段的一部分，该项目于2023年首次启动。"
+                "x": "但去年，在Radiological Society of North America(北美放射学会)年会上，放射学专家和开发者开始突出AI的一种新范式：由视觉语言模型驱动、能够查看影像并就其中临床发现起草报告的技术。"
               },
               {
                 "t": "p",
-                "x": "近期研究还显示，超过三分之一的成年人（37%）曾使用AI聊天机器人来支持自己的心理健康或身心福祉。其中一些聊天机器人可能具有医疗用途并受医疗器械监管，另一些则不然。"
+                "x": "Aidoc首席技术官Michael Braginsky说：“去年的RSNA主要关注AI模型能否真正为放射科医生写出一份看起来像真实放射报告、且准确到值得放射科医生考虑的草稿。”"
               },
               {
                 "t": "p",
-                "x": "最多将有五家机构入选参与沙盒。通过研讨会和测试活动，参与者将就如何识别、评估和管理心理健康场景中的AI-related（AI相关）风险形成实用见解。申请截止日期为2027年1月22日。"
-              },
-              {
-                "t": "p",
-                "x": "MHRA首席执行官劳伦斯·塔隆表示：“AIMH Airlock将帮助我们更好地理解如何切实评估和管理AI心理健康技术。”"
+                "x": "随着RSNA在Chicago召开，业内人士预计将围绕AI报告草稿能否改善医疗展开争论。(文章其余部分仅向STAT+订阅者开放。)"
               }
             ]
           }
         },
         "es": {
-          "headline": "La MHRA abre un sandbox para la\nIA aplicada a la salud mental",
-          "body": "El sandbox Airlock del regulador británico probará cómo evaluar y regular la seguridad de la IA en salud mental.",
-          "mini_headline": "La MHRA abre un sandbox de IA en salud mental",
+          "headline": "La AI redacta informes,\n¿es más segura la atención?",
+          "body": "Antes de RSNA 2026, STAT se pregunta si la AI que redacta informes de X-rays y CT mejora la atención y la seguridad.",
+          "mini_headline": "¿Es más segura la AI que redacta informes?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Un nuevo sandbox regulatorio, lanzado hoy (23 de noviembre) por la MHRA y el NICE, apoyará la innovación segura en tecnologías de salud mental AI-enabled (habilitadas por IA) y ayudará a que las tecnologías prometedoras lleguen antes a las personas."
+                "x": "Desde hace más de dos décadas, la inteligencia artificial ha tenido un papel creciente en la práctica de la radiología. Hoy, casi todos los radiólogos usan herramientas de AI, ya sea para priorizar las imágenes que interpretan, dictar sus informes o detectar hallazgos en las decenas de X-rays y CTs que leen cada día."
               },
               {
                 "t": "p",
-                "x": "Como ampliación del programa AI Airlock de la MHRA, y en colaboración con el HTA Lab del NICE, el AI in Mental Health Airlock reunirá a reguladores e innovadores para explorar las necesidades de evaluación específicas de las tecnologías de salud mental AI-enabled. Forma parte de la segunda fase de un programa financiado por Wellcome, lanzado por primera vez en 2023."
+                "x": "Pero el año pasado, en la reunión anual de la Radiological Society of North America, expertos en radiología y desarrolladores empezaron a poner en primer plano un nuevo paradigma en AI: una tecnología, impulsada por modelos de visión y lenguaje, capaz de mirar una imagen y redactar un informe de los hallazgos clínicos que contiene."
               },
               {
                 "t": "p",
-                "x": "Investigaciones recientes indican además que más de uno de cada tres adultos (37%) ha usado un chatbot de IA para apoyar su salud mental o su bienestar. Algunos de estos chatbots pueden tener fines médicos y estar sujetos a la regulación de productos sanitarios, mientras que otros no."
+                "x": "\"La RSNA del año pasado se centró sobre todo en si es realmente posible que un modelo de AI escriba para los radiólogos un borrador que parezca un informe radiológico real y que sea lo bastante preciso como para que un radiólogo siquiera lo tenga en cuenta\", dijo Michael Braginsky, director de tecnología de Aidoc."
               },
               {
                 "t": "p",
-                "x": "Se seleccionará a un máximo de cinco organizaciones para participar en el sandbox. Mediante talleres y actividades de prueba, los participantes generarán conocimientos prácticos sobre cómo identificar, evaluar y gestionar los riesgos AI-related (relacionados con la IA) en contextos de salud mental. El plazo de solicitud cierra el 22 de enero de 2027."
-              },
-              {
-                "t": "p",
-                "x": "El director ejecutivo de la MHRA, Lawrence Tallon, afirmó: \"El AIMH Airlock nos ayudará a entender mejor cómo pueden evaluarse y gestionarse en la práctica las tecnologías de IA para la salud mental\"."
+                "x": "Mientras la RSNA se reúne en Chicago, se espera que los actores del sector debatan si los borradores de informes con AI mejorarán la atención. (El resto del artículo es para suscriptores de STAT+.)"
               }
             ]
           }
@@ -629,137 +561,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "MHRA, AI 정신건강\n도구 샌드박스 개설",
-          "body": "영국 규제기관이 AI 정신건강 도구의 안전성 평가·규제 방식을 샌드박스로 살핀다.",
-          "mini_headline": "MHRA, AI 정신건강 샌드박스",
+          "headline": "AI가 판독문 초안,\n진료는 더 안전할까",
+          "body": "RSNA 2026 앞두고 STAT이 X-rays·CT 초안 AI의 안전을 묻는다.",
+          "mini_headline": "AI 판독 초안, 더 안전한가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "MHRA와 NICE가 오늘(11월 23일) 새로 출범한 규제 샌드박스는 AI-enabled(AI 기반) 정신건강 기술의 안전한 혁신을 지원해, 유망한 기술이 더 빨리 사람들에게 닿도록 돕는다."
+                "x": "이십 년 넘게 인공지능은 영상의학 진료에서 점점 큰 역할을 해 왔다. 오늘날 거의 모든 영상의학과 의사가 AI 도구를 쓴다. 판독할 영상을 분류하거나, 판독문을 받아쓰거나, 매일 읽는 수십 건의 X-rays와 CTs에서 소견을 찾아내는 식이다."
               },
               {
                 "t": "p",
-                "x": "MHRA의 AI Airlock 프로그램을 확대한 AI in Mental Health Airlock은 NICE의 HTA Lab과 협력해 규제기관과 혁신 기업이 함께 AI-enabled 정신건강 기술에 필요한 평가 요건을 탐색하도록 한다. 이는 2023년 처음 시작된 Wellcome 지원 프로그램의 두 번째 단계에 속한다."
+                "x": "그러나 지난해 Radiological Society of North America(북미영상의학회) 연례 학술대회에서 영상의학 전문가와 개발자들은 AI의 새로운 패러다임을 전면에 내세우기 시작했다. 비전-언어 모델을 바탕으로 영상을 보고 그 안의 임상 소견을 담은 판독문 초안을 쓰는 기술이다."
               },
               {
                 "t": "p",
-                "x": "최근 연구에 따르면 성인 세 명 중 한 명 이상(37%)이 정신건강이나 웰빙을 위해 AI 챗봇을 써 본 적이 있다. 이들 챗봇 가운데 일부는 의료 목적을 지녀 의료기기 규제 대상이 될 수 있지만, 그렇지 않은 것도 있다."
+                "x": "Aidoc 최고기술책임자 Michael Braginsky는 \"지난해 RSNA는 주로 AI 모델이 실제 판독문처럼 보이고, 영상의학과 의사가 검토라도 해 볼 만큼 정확한 초안을 쓰는 것이 실제로 가능한지에 초점을 맞췄다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "샌드박스 참여 기관은 최대 다섯 곳을 선정한다. 참여 기관은 워크숍과 시험 활동을 통해 정신건강 맥락에서 AI-related(AI 관련) 위험을 어떻게 식별·평가·관리할지에 대한 실질적인 통찰을 얻는다. 신청은 2027년 1월 22일 마감한다."
-              },
-              {
-                "t": "p",
-                "x": "MHRA 최고경영자 로런스 탤런은 \"AIMH Airlock은 AI 정신건강 기술을 실제로 어떻게 평가하고 관리할 수 있는지 더 잘 이해하도록 도울 것\"이라고 말했다."
+                "x": "RSNA가 Chicago에서 열리는 가운데, 업계 관계자들은 AI 판독 초안이 진료를 개선할지를 두고 논쟁을 벌일 것으로 보인다. (기사 나머지는 STAT+ 구독자 전용이다.)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "MHRA、AIメンタルヘルス\n向けサンドボックス開設",
-          "body": "英国規制当局がサンドボックスで、AI心の健康ツールの安全性評価と規制の方法を試す。",
-          "mini_headline": "MHRA、AIメンタルヘルスのサンドボックス",
+          "headline": "AIが読影レポート作成\n医療は安全になるか",
+          "body": "RSNA 2026を前に、STATがX-rays・CT読影の下書きAIの安全性を問う。",
+          "mini_headline": "AIの読影下書きは安全か",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "MHRAとNICEが本日（11月23日）立ち上げた新たな規制サンドボックスは、AI-enabled（AI搭載）のメンタルヘルス技術における安全なイノベーションを支援し、有望な技術がより早く人々に届くよう後押しする。"
+                "x": "人工知能は二十年以上にわたり、放射線診療で役割を広げてきた。今日ではほぼすべての放射線科医がAIツールを使っている。読影する画像のトリアージ、レポートの口述入力、毎日読む数十件のX-raysやCTsからの所見検出などだ。"
               },
               {
                 "t": "p",
-                "x": "MHRAのAI Airlockプログラムを拡大したAI in Mental Health Airlockは、NICEのHTA Labと連携し、規制当局とイノベーターを結び付けて、AI-enabledのメンタルヘルス技術に固有の評価ニーズを探る。これは2023年に始まったWellcome助成プログラムの第二段階の一環である。"
+                "x": "しかし昨年、Radiological Society of North America(北米放射線学会)の年次総会で、放射線の専門家や開発者はAIの新たなパラダイムを前面に打ち出し始めた。視覚言語モデルを基盤に、画像を見てその中の臨床所見をまとめたレポートの下書きを作成できる技術である。"
               },
               {
                 "t": "p",
-                "x": "最近の調査では、成人の三人に一人以上（37%）がメンタルヘルスやウェルビーイングの支えとしてAIチャットボットを使ったことがあるという。こうしたチャットボットには、医療目的を持ち医療機器規制の対象となり得るものもあれば、そうでないものもある。"
+                "x": "「昨年のRSNAは主に、AIモデルが実際の読影レポートのように見え、放射線科医が検討に値するほど正確な下書きを書くことが本当に可能かどうかに焦点を当てていた」と、Aidocの最高技術責任者Michael Braginskyは語った。"
               },
               {
                 "t": "p",
-                "x": "サンドボックスには最大五つの組織が選ばれる。参加者はワークショップや試験的な活動を通じて、メンタルヘルスの文脈でAI-related（AI関連）のリスクをどう特定・評価・管理できるかについて実践的な知見を得る。応募は2027年1月22日に締め切られる。"
-              },
-              {
-                "t": "p",
-                "x": "MHRAのローレンス・タロン最高経営責任者は「AIMH Airlockは、AIメンタルヘルス技術を実際にどう評価し管理できるかを、より深く理解する助けになる」と述べた。"
+                "x": "RSNAがChicagoで開かれる中、業界関係者はAIによるレポート下書きが医療を改善するかどうかを議論するとみられる。(記事の続きはSTAT+購読者向けである。)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MHRA为AI心理健康\n工具开设沙盒",
-          "body": "英国监管机构的Airlock沙盒将检验如何评估和监管AI心理健康工具的安全性。",
-          "mini_headline": "MHRA推出AI心理健康沙盒",
+          "headline": "AI起草影像报告\n医疗更安全了吗",
+          "body": "RSNA 2026前夕，STAT追问用X-rays和CT起草报告的AI能否提升医疗安全。",
+          "mini_headline": "AI起草报告更安全吗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "MHRA与NICE于今天（11月23日）推出的新监管沙盒，将支持AI-enabled（AI赋能）心理健康技术的安全创新，帮助有前景的技术更快惠及民众。"
+                "x": "二十多年来，人工智能在放射科实践中的作用日益增长。如今，几乎每位放射科医生都在使用AI工具，无论是对待判读影像进行分诊、口述报告，还是在每天阅读的数十张X-rays和CTs中检出异常。"
               },
               {
                 "t": "p",
-                "x": "作为MHRA旗下AI Airlock项目的扩展，AI in Mental Health Airlock与NICE的HTA Lab合作，汇聚监管者与创新者，共同探索AI-enabled心理健康技术的具体评估需求。它是Wellcome资助项目第二阶段的一部分，该项目于2023年首次启动。"
+                "x": "但去年，在Radiological Society of North America(北美放射学会)年会上，放射学专家和开发者开始突出AI的一种新范式：由视觉语言模型驱动、能够查看影像并就其中临床发现起草报告的技术。"
               },
               {
                 "t": "p",
-                "x": "近期研究还显示，超过三分之一的成年人（37%）曾使用AI聊天机器人来支持自己的心理健康或身心福祉。其中一些聊天机器人可能具有医疗用途并受医疗器械监管，另一些则不然。"
+                "x": "Aidoc首席技术官Michael Braginsky说：“去年的RSNA主要关注AI模型能否真正为放射科医生写出一份看起来像真实放射报告、且准确到值得放射科医生考虑的草稿。”"
               },
               {
                 "t": "p",
-                "x": "最多将有五家机构入选参与沙盒。通过研讨会和测试活动，参与者将就如何识别、评估和管理心理健康场景中的AI-related（AI相关）风险形成实用见解。申请截止日期为2027年1月22日。"
-              },
-              {
-                "t": "p",
-                "x": "MHRA首席执行官劳伦斯·塔隆表示：“AIMH Airlock将帮助我们更好地理解如何切实评估和管理AI心理健康技术。”"
+                "x": "随着RSNA在Chicago召开，业内人士预计将围绕AI报告草稿能否改善医疗展开争论。(文章其余部分仅向STAT+订阅者开放。)"
               }
             ]
           }
         },
         "es": {
-          "headline": "La MHRA abre un sandbox para la\nIA aplicada a la salud mental",
-          "body": "El sandbox Airlock del regulador británico probará cómo evaluar y regular la seguridad de la IA en salud mental.",
-          "mini_headline": "La MHRA abre un sandbox de IA en salud mental",
+          "headline": "La AI redacta informes,\n¿es más segura la atención?",
+          "body": "Antes de RSNA 2026, STAT se pregunta si la AI que redacta informes de X-rays y CT mejora la atención y la seguridad.",
+          "mini_headline": "¿Es más segura la AI que redacta informes?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6b006a9d13d2d60fe05e3c37/s960_Phone_resized.jpg"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Un nuevo sandbox regulatorio, lanzado hoy (23 de noviembre) por la MHRA y el NICE, apoyará la innovación segura en tecnologías de salud mental AI-enabled (habilitadas por IA) y ayudará a que las tecnologías prometedoras lleguen antes a las personas."
+                "x": "Desde hace más de dos décadas, la inteligencia artificial ha tenido un papel creciente en la práctica de la radiología. Hoy, casi todos los radiólogos usan herramientas de AI, ya sea para priorizar las imágenes que interpretan, dictar sus informes o detectar hallazgos en las decenas de X-rays y CTs que leen cada día."
               },
               {
                 "t": "p",
-                "x": "Como ampliación del programa AI Airlock de la MHRA, y en colaboración con el HTA Lab del NICE, el AI in Mental Health Airlock reunirá a reguladores e innovadores para explorar las necesidades de evaluación específicas de las tecnologías de salud mental AI-enabled. Forma parte de la segunda fase de un programa financiado por Wellcome, lanzado por primera vez en 2023."
+                "x": "Pero el año pasado, en la reunión anual de la Radiological Society of North America, expertos en radiología y desarrolladores empezaron a poner en primer plano un nuevo paradigma en AI: una tecnología, impulsada por modelos de visión y lenguaje, capaz de mirar una imagen y redactar un informe de los hallazgos clínicos que contiene."
               },
               {
                 "t": "p",
-                "x": "Investigaciones recientes indican además que más de uno de cada tres adultos (37%) ha usado un chatbot de IA para apoyar su salud mental o su bienestar. Algunos de estos chatbots pueden tener fines médicos y estar sujetos a la regulación de productos sanitarios, mientras que otros no."
+                "x": "\"La RSNA del año pasado se centró sobre todo en si es realmente posible que un modelo de AI escriba para los radiólogos un borrador que parezca un informe radiológico real y que sea lo bastante preciso como para que un radiólogo siquiera lo tenga en cuenta\", dijo Michael Braginsky, director de tecnología de Aidoc."
               },
               {
                 "t": "p",
-                "x": "Se seleccionará a un máximo de cinco organizaciones para participar en el sandbox. Mediante talleres y actividades de prueba, los participantes generarán conocimientos prácticos sobre cómo identificar, evaluar y gestionar los riesgos AI-related (relacionados con la IA) en contextos de salud mental. El plazo de solicitud cierra el 22 de enero de 2027."
-              },
-              {
-                "t": "p",
-                "x": "El director ejecutivo de la MHRA, Lawrence Tallon, afirmó: \"El AIMH Airlock nos ayudará a entender mejor cómo pueden evaluarse y gestionarse en la práctica las tecnologías de IA para la salud mental\"."
+                "x": "Mientras la RSNA se reúne en Chicago, se espera que los actores del sector debatan si los borradores de informes con AI mejorarán la atención. (El resto del artículo es para suscriptores de STAT+.)"
               }
             ]
           }
@@ -767,919 +687,213 @@
       }
     },
     {
-      "id": "photon-chatgpt-rx",
+      "id": "seemode-thyroid-tirads",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "의료진, ChatGPT에서\nPhoton으로 처방",
-      "body": "Photon이 ChatGPT 플러그인으로 나와 의료진이 쓰던 도구 안에서 처방한다.",
-      "mini_headline": "ChatGPT 안에서 처방",
+      "headline": "갑상선 초음파 AI,\n의사 일치율 높았다",
+      "body": "U.S. 297곳에서 See-Mode AI의 TI-RADS 유지율을 추적했다.",
+      "mini_headline": "갑상선 AI, 높은 일치율",
       "tool": "Medicine",
-      "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/health-tech/photon-pharmacy-marketplace-integrated-chatgpt-clinicians",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
-            "cap": "환자 기록은 Photon에 남고, 처방 초안은 기록된 알레르기·복용 약물과 대조된다."
-          },
-          {
-            "t": "p",
-            "x": "처방 인프라 기업 Photon이 ChatGPT 플러그인으로 나왔다. 의료진은 이미 쓰는 도구 안에서 처방 업무를 간단히 처리하게 됐다."
-          },
-          {
-            "t": "p",
-            "x": "ChatGPT for Clinicians나 ChatGPT for Healthcare를 쓰는 U.S.(미국) 면허 의료진 가운데 자격 요건을 갖춘 이가 대상이다. HIPAA를 지키려면 Photon의 BAA에 동의해야 하고, 규제 약물은 지원하지 않는다. 2026년 12월 31일까지는 무료다."
-          },
-          {
-            "t": "img",
-            "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
-            "cap": "인터페이스 화면 예시(Photon)"
-          },
-          {
-            "t": "p",
-            "x": "공동 창업자이자 CEO인 오토 사이프는 Fierce Healthcare에 \"AI는 메모 작성과 참고 자료 확인을 넘어 치료 워크플로로 옮겨 가고 있다\"며 \"Photon은 그 단계를 뒷받침하는 인프라를 제공한다\"고 썼다."
-          },
-          {
-            "t": "p",
-            "x": "의료진은 환자 이름과 약물 이름으로 프롬프트를 시작하고 용량·복용 지침·수량을 검토한 뒤 처방을 승인한다. 치료 책임은 끝까지 의료진이 진다. 환자에게는 ChatGPT 밖 Photon 처방 마켓플레이스로 이어지는 문자가 가고, 환자는 거기서 가격을 비교한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Photon brings prescribing\ninto ChatGPT for clinicians",
-          "body": "Photon is now a ChatGPT plugin, so clinicians can write prescriptions inside a tool they already use.",
-          "mini_headline": "Prescribing inside ChatGPT",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
-                "cap": "Patient records are saved in Photon, and draft prescriptions are checked against the patient's recorded allergies and medications."
-              },
-              {
-                "t": "p",
-                "x": "Photon, a prescription infrastructure company, is now available as a plugin for ChatGPT to streamline prescribing for clinicians within a tool they already use."
-              },
-              {
-                "t": "p",
-                "x": "The option is available to eligible U.S. licensed clinicians using ChatGPT for Clinicians or ChatGPT for Healthcare. Clinicians must accept Photon's BAA to maintain HIPAA compliance. Controlled substances are not supported. The feature is free for clinicians through Dec. 31, 2026."
-              },
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
-                "cap": "Screenshot sample of the interface (Photon)"
-              },
-              {
-                "t": "p",
-                "x": "\"AI is moving from note-taking and reference into treatment workflows,\" Otto Sipe, co-founder and CEO, wrote to Fierce Healthcare. \"Photon provides the infrastructure behind that step.\""
-              },
-              {
-                "t": "p",
-                "x": "Clinicians begin a prompt with the name of the patient and medication, then review dosing, instructions and quantity before authorizing the prescription, remaining responsible for the treatment. A patient gets a text to Photon's prescription marketplace outside of ChatGPT to compare prices."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "의료진, ChatGPT에서\nPhoton으로 처방",
-          "body": "Photon이 ChatGPT 플러그인으로 나와 의료진이 쓰던 도구 안에서 처방한다.",
-          "mini_headline": "ChatGPT 안에서 처방",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
-                "cap": "환자 기록은 Photon에 남고, 처방 초안은 기록된 알레르기·복용 약물과 대조된다."
-              },
-              {
-                "t": "p",
-                "x": "처방 인프라 기업 Photon이 ChatGPT 플러그인으로 나왔다. 의료진은 이미 쓰는 도구 안에서 처방 업무를 간단히 처리하게 됐다."
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT for Clinicians나 ChatGPT for Healthcare를 쓰는 U.S.(미국) 면허 의료진 가운데 자격 요건을 갖춘 이가 대상이다. HIPAA를 지키려면 Photon의 BAA에 동의해야 하고, 규제 약물은 지원하지 않는다. 2026년 12월 31일까지는 무료다."
-              },
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
-                "cap": "인터페이스 화면 예시(Photon)"
-              },
-              {
-                "t": "p",
-                "x": "공동 창업자이자 CEO인 오토 사이프는 Fierce Healthcare에 \"AI는 메모 작성과 참고 자료 확인을 넘어 치료 워크플로로 옮겨 가고 있다\"며 \"Photon은 그 단계를 뒷받침하는 인프라를 제공한다\"고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "의료진은 환자 이름과 약물 이름으로 프롬프트를 시작하고 용량·복용 지침·수량을 검토한 뒤 처방을 승인한다. 치료 책임은 끝까지 의료진이 진다. 환자에게는 ChatGPT 밖 Photon 처방 마켓플레이스로 이어지는 문자가 가고, 환자는 거기서 가격을 비교한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Photon、医師向けに\nChatGPTで処方",
-          "body": "PhotonがChatGPTのプラグインとなり、医師は普段使うツール内で処方箋を書ける。",
-          "mini_headline": "ChatGPT内で処方",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
-                "cap": "患者の記録はPhotonに保存され、処方案は記録済みのアレルギーや服用薬と照合される。"
-              },
-              {
-                "t": "p",
-                "x": "処方インフラ企業のPhotonが、ChatGPTのプラグインとして利用可能になった。医師が既に使っているツールの中で処方業務を効率化する。"
-              },
-              {
-                "t": "p",
-                "x": "この機能は、ChatGPT for CliniciansまたはChatGPT for Healthcareを利用し、条件を満たすU.S.の免許を持つ医師が使える。HIPAA準拠を維持するため、医師はPhotonのBAAに同意する必要がある。規制物質には対応していない。医師は2026年12月31日まで無料で利用できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
-                "cap": "インターフェースのスクリーンショット例（Photon）"
-              },
-              {
-                "t": "p",
-                "x": "共同創業者でCEOのオットー・サイプ氏はFierce Healthcareに対し、「AIはメモ作成や参照から治療のワークフローへと移りつつある」と書き、「Photonはその一歩を支えるインフラを提供する」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "医師は患者名と薬剤名でプロンプトを始め、用量、指示、数量を確認したうえで処方を承認する。治療の責任は引き続き医師が負う。患者にはChatGPT外にあるPhotonの処方マーケットプレイスへ誘導するテキストが届き、価格を比較できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Photon为医生把处方\n带进ChatGPT",
-          "body": "Photon已成为ChatGPT插件，医生可在已在使用的工具中直接开处方。",
-          "mini_headline": "在ChatGPT内开处方",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
-                "cap": "患者记录保存在Photon中，处方草稿会与患者记录的过敏史和用药进行核对。"
-              },
-              {
-                "t": "p",
-                "x": "处方基础设施公司Photon现已作为ChatGPT插件上线，帮助医生在已在使用的工具内简化开处方流程。"
-              },
-              {
-                "t": "p",
-                "x": "使用ChatGPT for Clinicians或ChatGPT for Healthcare、符合条件的U.S.持证医生均可使用这一选项。医生须接受Photon的BAA以保持HIPAA合规。该功能不支持管制药品。截至2026年12月31日，医生可免费使用该功能。"
-              },
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
-                "cap": "界面截图示例（Photon）"
-              },
-              {
-                "t": "p",
-                "x": "联合创始人兼CEO奥托·赛普在给Fierce Healthcare的信中写道：“AI正从记笔记和查资料走向治疗工作流程。”“Photon提供支撑这一步的基础设施。”"
-              },
-              {
-                "t": "p",
-                "x": "医生以患者姓名和药品名称开始输入提示，随后审核剂量、用法说明和数量，再批准处方，治疗责任仍由医生承担。患者会收到一条短信，链接到ChatGPT之外的Photon处方市场，以便比较价格。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Photon lleva la prescripción\na ChatGPT para los clínicos",
-          "body": "Photon ya es un complemento de ChatGPT, así que los clínicos pueden recetar dentro de una herramienta que ya usan.",
-          "mini_headline": "Recetas dentro de ChatGPT",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
-                "cap": "Los historiales de los pacientes se guardan en Photon, y los borradores de receta se cotejan con las alergias y medicaciones registradas del paciente."
-              },
-              {
-                "t": "p",
-                "x": "Photon, una empresa de infraestructura de prescripción, ya está disponible como complemento de ChatGPT para agilizar la prescripción de los clínicos dentro de una herramienta que ya utilizan."
-              },
-              {
-                "t": "p",
-                "x": "La opción está disponible para clínicos con licencia en Estados Unidos (U.S.) que cumplan los requisitos y usen ChatGPT for Clinicians o ChatGPT for Healthcare. Los clínicos deben aceptar el BAA de Photon para mantener el cumplimiento de HIPAA. No se admiten sustancias controladas. La función es gratuita para los clínicos hasta el 31 de diciembre de 2026."
-              },
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
-                "cap": "Captura de ejemplo de la interfaz (Photon)"
-              },
-              {
-                "t": "p",
-                "x": "\"La IA está pasando de la toma de notas y la consulta de referencias a los flujos de trabajo de tratamiento\", escribió Otto Sipe, cofundador y CEO, a Fierce Healthcare. \"Photon proporciona la infraestructura que sostiene ese paso\"."
-              },
-              {
-                "t": "p",
-                "x": "Los clínicos inician un prompt con el nombre del paciente y del medicamento, y luego revisan la dosis, las instrucciones y la cantidad antes de autorizar la receta, de modo que siguen siendo responsables del tratamiento. El paciente recibe un mensaje de texto que lo dirige al mercado de recetas de Photon, fuera de ChatGPT, para comparar precios."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "의료진, ChatGPT에서\nPhoton으로 처방",
-          "body": "Photon이 ChatGPT 플러그인이 돼 의료진이 익숙한 도구에서 처방한다.",
-          "mini_headline": "ChatGPT 안에서 처방",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
-                "cap": "환자 기록은 Photon에 저장되고, 처방 초안은 환자의 기록된 알레르기·복용 약물과 대조된다."
-              },
-              {
-                "t": "p",
-                "x": "처방 인프라 기업 Photon이 ChatGPT 플러그인으로 나와, 의료진이 이미 쓰고 있는 도구 안에서 처방 업무를 간소화할 수 있게 됐다."
-              },
-              {
-                "t": "p",
-                "x": "이 기능은 ChatGPT for Clinicians 또는 ChatGPT for Healthcare를 쓰는, 자격 요건을 갖춘 U.S.(미국) 면허 의료진이 이용할 수 있다. HIPAA 준수를 유지하려면 의료진은 Photon의 BAA에 동의해야 한다. 규제 약물은 지원하지 않는다. 의료진은 2026년 12월 31일까지 이 기능을 무료로 쓸 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
-                "cap": "인터페이스 화면 예시(Photon)"
-              },
-              {
-                "t": "p",
-                "x": "공동 창업자이자 CEO인 오토 사이프는 Fierce Healthcare에 \"AI는 메모 작성과 참고 자료 확인을 넘어 치료 워크플로로 옮겨 가고 있다\"며 \"Photon은 그 단계를 뒷받침하는 인프라를 제공한다\"고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "의료진은 환자 이름과 약물 이름으로 프롬프트를 시작한 뒤 용량, 복용 지침, 수량을 검토하고 처방을 승인하며, 치료에 대한 책임은 계속 의료진에게 있다. 환자는 ChatGPT 밖에 있는 Photon의 처방 마켓플레이스로 연결되는 문자를 받아 가격을 비교할 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Photon、医師向けに\nChatGPTで処方",
-          "body": "PhotonがChatGPTのプラグインとなり、医師は普段使うツール内で処方箋を書ける。",
-          "mini_headline": "ChatGPT内で処方",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
-                "cap": "患者の記録はPhotonに保存され、処方案は記録済みのアレルギーや服用薬と照合される。"
-              },
-              {
-                "t": "p",
-                "x": "処方インフラ企業のPhotonが、ChatGPTのプラグインとして利用可能になった。医師が既に使っているツールの中で処方業務を効率化する。"
-              },
-              {
-                "t": "p",
-                "x": "この機能は、ChatGPT for CliniciansまたはChatGPT for Healthcareを利用し、条件を満たすU.S.の免許を持つ医師が使える。HIPAA準拠を維持するため、医師はPhotonのBAAに同意する必要がある。規制物質には対応していない。医師は2026年12月31日まで無料で利用できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
-                "cap": "インターフェースのスクリーンショット例（Photon）"
-              },
-              {
-                "t": "p",
-                "x": "共同創業者でCEOのオットー・サイプ氏はFierce Healthcareに対し、「AIはメモ作成や参照から治療のワークフローへと移りつつある」と書き、「Photonはその一歩を支えるインフラを提供する」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "医師は患者名と薬剤名でプロンプトを始め、用量、指示、数量を確認したうえで処方を承認する。治療の責任は引き続き医師が負う。患者にはChatGPT外にあるPhotonの処方マーケットプレイスへ誘導するテキストが届き、価格を比較できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Photon为医生把处方\n带进ChatGPT",
-          "body": "Photon已成为ChatGPT插件，医生可在已在使用的工具中直接开处方。",
-          "mini_headline": "在ChatGPT内开处方",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
-                "cap": "患者记录保存在Photon中，处方草稿会与患者记录的过敏史和用药进行核对。"
-              },
-              {
-                "t": "p",
-                "x": "处方基础设施公司Photon现已作为ChatGPT插件上线，帮助医生在已在使用的工具内简化开处方流程。"
-              },
-              {
-                "t": "p",
-                "x": "使用ChatGPT for Clinicians或ChatGPT for Healthcare、符合条件的U.S.持证医生均可使用这一选项。医生须接受Photon的BAA以保持HIPAA合规。该功能不支持管制药品。截至2026年12月31日，医生可免费使用该功能。"
-              },
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
-                "cap": "界面截图示例（Photon）"
-              },
-              {
-                "t": "p",
-                "x": "联合创始人兼CEO奥托·赛普在给Fierce Healthcare的信中写道：“AI正从记笔记和查资料走向治疗工作流程。”“Photon提供支撑这一步的基础设施。”"
-              },
-              {
-                "t": "p",
-                "x": "医生以患者姓名和药品名称开始输入提示，随后审核剂量、用法说明和数量，再批准处方，治疗责任仍由医生承担。患者会收到一条短信，链接到ChatGPT之外的Photon处方市场，以便比较价格。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Photon lleva la prescripción\na ChatGPT para los clínicos",
-          "body": "Photon ya es un complemento de ChatGPT, así que los clínicos pueden recetar dentro de una herramienta que ya usan.",
-          "mini_headline": "Recetas dentro de ChatGPT",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
-                "cap": "Los historiales de los pacientes se guardan en Photon, y los borradores de receta se cotejan con las alergias y medicaciones registradas del paciente."
-              },
-              {
-                "t": "p",
-                "x": "Photon, una empresa de infraestructura de prescripción, ya está disponible como complemento de ChatGPT para agilizar la prescripción de los clínicos dentro de una herramienta que ya utilizan."
-              },
-              {
-                "t": "p",
-                "x": "La opción está disponible para clínicos con licencia en Estados Unidos (U.S.) que cumplan los requisitos y usen ChatGPT for Clinicians o ChatGPT for Healthcare. Los clínicos deben aceptar el BAA de Photon para mantener el cumplimiento de HIPAA. No se admiten sustancias controladas. La función es gratuita para los clínicos hasta el 31 de diciembre de 2026."
-              },
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/screenshot_2026-11-19_at_12.17.08.png?VersionId=JIO2huC_hQEbWZM08y0Hy_xHHz1zAY6D",
-                "cap": "Captura de ejemplo de la interfaz (Photon)"
-              },
-              {
-                "t": "p",
-                "x": "\"La IA está pasando de la toma de notas y la consulta de referencias a los flujos de trabajo de tratamiento\", escribió Otto Sipe, cofundador y CEO, a Fierce Healthcare. \"Photon proporciona la infraestructura que sostiene ese paso\"."
-              },
-              {
-                "t": "p",
-                "x": "Los clínicos inician un prompt con el nombre del paciente y del medicamento, y luego revisan la dosis, las instrucciones y la cantidad antes de autorizar la receta, de modo que siguen siendo responsables del tratamiento. El paciente recibe un mensaje de texto que lo dirige al mercado de recetas de Photon, fuera de ChatGPT, para comparar precios."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "heart-failure-drug-ai-kr",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "심부전 약 효과\nAI가 환자별로 예측",
-      "body": "16가지 임상정보로 심부전 치료제 효과가 클 환자를 가려내는 AI가 개발됐다.",
-      "mini_headline": "심부전 약효 AI 예측",
-      "tool": "Medicine",
-      "source": "후생신보",
-      "url": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=99050",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
-            "cap": "왼쪽부터 분당서울대병원 순환기내과 박진주·윤민재 교수, 서울대 수리과학부 국웅 교수, 서울대AI연구원(AIIS) 김원세 박사, 사진 = 분당서울대병원"
-          },
-          {
-            "t": "p",
-            "x": "분당서울대병원 순환기내과 박진주·윤민재 교수팀과 서울대 수리과학부 국웅 교수, 서울대AI연구원(AIIS) 김원세 박사팀은 박출률 보존 심부전 환자의 약물 치료 효과를 예측하는 AI 도구 'PARAGUIDE'를 개발했다."
-          },
-          {
-            "t": "p",
-            "x": "연구팀은 박출률 보존 심부전 환자 4,161명의 임상정보를 분석해 사쿠비트릴/발사르탄에 대한 개인별 치료반응을 예측하는 모델을 구축했다. 53개 기초 임상 특성을 분석한 뒤, 실제 진료현장에서 활용할 수 있도록 입력 변수를 16개로 줄였다."
-          },
-          {
-            "t": "p",
-            "x": "전체 환자군에서 심혈관 사망 및 심부전 입원 감소 효과는 통계적으로 유의하지 않았다. 그러나 AI가 치료 혜택을 예상한 환자군은 전체의 70.8%였으며, 이 집단에서는 발사르탄 단독치료 대비 위험이 18% 낮았다(RR 0.82, 95% CI 0.69~0.98)."
-          },
-          {
-            "t": "p",
-            "x": "박진주 교수는 \"이번 연구는 '이 약이 효과가 있는가'라는 질문을 '이 약이 바로 이 환자에게 도움이 되는가'라는 질문으로 바꾼 것\"이라고 말했다. 결과는 'npj Digital Medicine'에 게재됐으며, PARAGUIDE는 웹사이트를 통해 무료로 이용할 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "심부전 약 효과\nAI가 환자별로 예측",
-          "body": "16가지 임상정보로 심부전 치료제 효과가 클 환자를 가려내는 AI가 개발됐다.",
-          "mini_headline": "심부전 약효 AI 예측",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
-                "cap": "왼쪽부터 분당서울대병원 순환기내과 박진주·윤민재 교수, 서울대 수리과학부 국웅 교수, 서울대AI연구원(AIIS) 김원세 박사, 사진 = 분당서울대병원"
-              },
-              {
-                "t": "p",
-                "x": "분당서울대병원 순환기내과 박진주·윤민재 교수팀과 서울대 수리과학부 국웅 교수, 서울대AI연구원(AIIS) 김원세 박사팀은 박출률 보존 심부전 환자의 약물 치료 효과를 예측하는 AI 도구 'PARAGUIDE'를 개발했다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 박출률 보존 심부전 환자 4,161명의 임상정보를 분석해 사쿠비트릴/발사르탄에 대한 개인별 치료반응을 예측하는 모델을 구축했다. 53개 기초 임상 특성을 분석한 뒤, 실제 진료현장에서 활용할 수 있도록 입력 변수를 16개로 줄였다."
-              },
-              {
-                "t": "p",
-                "x": "전체 환자군에서 심혈관 사망 및 심부전 입원 감소 효과는 통계적으로 유의하지 않았다. 그러나 AI가 치료 혜택을 예상한 환자군은 전체의 70.8%였으며, 이 집단에서는 발사르탄 단독치료 대비 위험이 18% 낮았다(RR 0.82, 95% CI 0.69~0.98)."
-              },
-              {
-                "t": "p",
-                "x": "박진주 교수는 \"이번 연구는 '이 약이 효과가 있는가'라는 질문을 '이 약이 바로 이 환자에게 도움이 되는가'라는 질문으로 바꾼 것\"이라고 말했다. 결과는 'npj Digital Medicine'에 게재됐으며, PARAGUIDE는 웹사이트를 통해 무료로 이용할 수 있다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "AI predicts heart failure drug\nbenefit patient by patient",
-          "body": "A new AI uses 16 clinical variables to spot the patients most likely to benefit from a heart failure drug.",
-          "mini_headline": "AI predicts heart drug response",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
-                "cap": "From left: Professors Park Jin-joo and Yoon Min-jae of the Department of Cardiology at Seoul National University Bundang Hospital, Professor Kook Woong of the Department of Mathematical Sciences at Seoul National University, and Dr. Kim Won-se of the Seoul National University AI Institute (AIIS). Photo: Seoul National University Bundang Hospital"
-              },
-              {
-                "t": "p",
-                "x": "A team led by Professors Park Jin-joo and Yoon Min-jae of the Department of Cardiology at Seoul National University Bundang Hospital, together with Professor Kook Woong of Seoul National University's Department of Mathematical Sciences and Dr. Kim Won-se of the Seoul National University AI Institute (AIIS), has developed 'PARAGUIDE', an AI tool that predicts the effect of drug treatment in patients with heart failure with preserved ejection fraction."
-              },
-              {
-                "t": "p",
-                "x": "The team analyzed clinical data from 4,161 patients with heart failure with preserved ejection fraction to build a model that predicts each patient's response to sacubitril/valsartan. After analyzing 53 baseline clinical characteristics, they cut the input variables to 16 so the tool could be used in everyday clinical practice."
-              },
-              {
-                "t": "p",
-                "x": "Across the full patient population, the reduction in cardiovascular death and heart failure hospitalization was not statistically significant. However, the AI predicted a treatment benefit for 70.8% of patients, and in this group the risk was 18% lower than with valsartan alone (RR 0.82, 95% CI 0.69~0.98)."
-              },
-              {
-                "t": "p",
-                "x": "Professor Park Jin-joo said, \"This study turns the question 'Does this drug work?' into 'Does this drug help this particular patient?'\" The results were published in 'npj Digital Medicine', and PARAGUIDE is available free of charge through a website."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "心不全薬の効果を\nAIが患者ごとに予測",
-          "body": "16項目の臨床情報から、心不全治療薬の効果が大きい患者を見分けるAIが開発された。",
-          "mini_headline": "心不全薬の効果をAIで予測",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
-                "cap": "左から盆唐ソウル大学病院循環器内科のパク・ジンジュ教授とユン・ミンジェ教授、ソウル大学数理科学部のクク・ウン教授、ソウル大学AI研究院（AIIS）のキム・ウォンセ博士。写真＝盆唐ソウル大学病院"
-              },
-              {
-                "t": "p",
-                "x": "盆唐ソウル大学病院循環器内科のパク・ジンジュ、ユン・ミンジェ両教授のチームと、ソウル大学数理科学部のクク・ウン教授、ソウル大学AI研究院（AIIS）のキム・ウォンセ博士のチームは、駆出率が保たれた心不全患者の薬物治療効果を予測するAIツール「PARAGUIDE」を開発した。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームは駆出率が保たれた心不全患者4,161人の臨床情報を分析し、サクビトリル/バルサルタンに対する個々の治療反応を予測するモデルを構築した。53の基礎的な臨床特性を分析した後、実際の診療現場で使えるよう入力変数を16個に絞った。"
-              },
-              {
-                "t": "p",
-                "x": "患者全体では、心血管死と心不全入院を減らす効果は統計的に有意ではなかった。しかし、AIが治療の恩恵を見込んだ患者群は全体の70.8%で、この群ではバルサルタン単独治療に比べてリスクが18%低かった（RR 0.82、95% CI 0.69～0.98）。"
-              },
-              {
-                "t": "p",
-                "x": "パク・ジンジュ教授は「今回の研究は『この薬は効くのか』という問いを、『この薬はまさにこの患者の役に立つのか』という問いに変えたものだ」と述べた。結果は『npj Digital Medicine』に掲載され、PARAGUIDEはウェブサイトから無料で利用できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "心衰药物疗效\nAI逐个患者预测",
-          "body": "新开发的AI可凭16项临床信息，找出心衰治疗药物疗效更大的患者。",
-          "mini_headline": "AI预测心衰药效",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
-                "cap": "左起：盆唐首尔大学医院心内科Park Jin-joo、Yoon Min-jae教授，首尔大学数理科学系Kook Woong教授，首尔大学AI研究院（AIIS）Kim Won-se博士。图片来源：盆唐首尔大学医院"
-              },
-              {
-                "t": "p",
-                "x": "盆唐首尔大学医院心内科Park Jin-joo、Yoon Min-jae教授团队与首尔大学数理科学系Kook Woong教授、首尔大学AI研究院（AIIS）Kim Won-se博士团队，开发出可预测射血分数保留型心衰患者药物治疗效果的AI工具“PARAGUIDE”。"
-              },
-              {
-                "t": "p",
-                "x": "研究团队分析了4,161名射血分数保留型心衰患者的临床信息，构建出预测个体对沙库巴曲/缬沙坦治疗反应的模型。在分析53项基础临床特征后，为便于在实际诊疗中使用，将输入变量精简至16项。"
-              },
-              {
-                "t": "p",
-                "x": "在全体患者中，降低心血管死亡和心衰住院的效果并无统计学意义。但AI预测可从治疗中获益的患者占总数的70.8%，在这一群体中，与缬沙坦单药治疗相比风险降低18%（RR 0.82，95% CI 0.69~0.98）。"
-              },
-              {
-                "t": "p",
-                "x": "Park Jin-joo教授表示：“这项研究把‘这种药有没有效’的问题，变成了‘这种药能否帮助眼前这位患者’。”研究结果发表于《npj Digital Medicine》，PARAGUIDE可通过网站免费使用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Una IA predice por paciente el\nefecto de un fármaco cardiaco",
-          "body": "Una IA con 16 datos clínicos detecta qué pacientes se benefician más de un fármaco para la insuficiencia cardiaca.",
-          "mini_headline": "La IA predice el efecto de un fármaco cardiaco",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
-                "cap": "De izquierda a derecha: los profesores Park Jin-joo y Yoon Min-jae, del Servicio de Cardiología del Hospital Bundang de la Universidad Nacional de Seúl; el profesor Kook Woong, del Departamento de Ciencias Matemáticas de la Universidad Nacional de Seúl, y el doctor Kim Won-se, del Instituto de IA de la Universidad Nacional de Seúl (AIIS). Foto: Hospital Bundang de la Universidad Nacional de Seúl"
-              },
-              {
-                "t": "p",
-                "x": "El equipo de los profesores Park Jin-joo y Yoon Min-jae, del Servicio de Cardiología del Hospital Bundang de la Universidad Nacional de Seúl, junto con el profesor Kook Woong, del Departamento de Ciencias Matemáticas de la Universidad Nacional de Seúl, y el doctor Kim Won-se, del Instituto de IA de la Universidad Nacional de Seúl (AIIS), ha desarrollado 'PARAGUIDE', una herramienta de IA que predice el efecto del tratamiento farmacológico en pacientes con insuficiencia cardiaca con fracción de eyección preservada."
-              },
-              {
-                "t": "p",
-                "x": "El equipo analizó los datos clínicos de 4161 pacientes con insuficiencia cardiaca con fracción de eyección preservada y construyó un modelo que predice la respuesta individual al sacubitrilo/valsartán. Tras analizar 53 características clínicas basales, redujo las variables de entrada a 16 para que la herramienta pudiera usarse en la práctica clínica real."
-              },
-              {
-                "t": "p",
-                "x": "En el conjunto de los pacientes, la reducción de la muerte cardiovascular y de la hospitalización por insuficiencia cardiaca no fue estadísticamente significativa. Sin embargo, la IA previó un beneficio del tratamiento en el 70,8% de los pacientes, y en este grupo el riesgo fue un 18% menor que con valsartán en monoterapia (RR 0,82; CI del 95%: 0,69~0,98)."
-              },
-              {
-                "t": "p",
-                "x": "El profesor Park Jin-joo afirmó: \"Este estudio cambia la pregunta '¿funciona este fármaco?' por '¿ayuda este fármaco precisamente a este paciente?'\". Los resultados se publicaron en 'npj Digital Medicine', y PARAGUIDE puede utilizarse gratis a través de un sitio web."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "AI predicts heart failure drug\nbenefit patient by patient",
-          "body": "A new AI uses 16 clinical variables to spot the patients most likely to benefit from a heart failure drug.",
-          "mini_headline": "AI predicts heart drug response",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
-                "cap": "From left: Professors Park Jin-joo and Yoon Min-jae of the Department of Cardiology at Seoul National University Bundang Hospital, Professor Kook Woong of the Department of Mathematical Sciences at Seoul National University, and Dr. Kim Won-se of the Seoul National University AI Institute (AIIS). Photo: Seoul National University Bundang Hospital"
-              },
-              {
-                "t": "p",
-                "x": "A team led by Professors Park Jin-joo and Yoon Min-jae of the Department of Cardiology at Seoul National University Bundang Hospital, together with Professor Kook Woong of Seoul National University's Department of Mathematical Sciences and Dr. Kim Won-se of the Seoul National University AI Institute (AIIS), has developed 'PARAGUIDE', an AI tool that predicts the effect of drug treatment in patients with heart failure with preserved ejection fraction."
-              },
-              {
-                "t": "p",
-                "x": "The team analyzed clinical data from 4,161 patients with heart failure with preserved ejection fraction to build a model that predicts each patient's response to sacubitril/valsartan. After analyzing 53 baseline clinical characteristics, they cut the input variables to 16 so the tool could be used in everyday clinical practice."
-              },
-              {
-                "t": "p",
-                "x": "Across the full patient population, the reduction in cardiovascular death and heart failure hospitalization was not statistically significant. However, the AI predicted a treatment benefit for 70.8% of patients, and in this group the risk was 18% lower than with valsartan alone (RR 0.82, 95% CI 0.69~0.98)."
-              },
-              {
-                "t": "p",
-                "x": "Professor Park Jin-joo said, \"This study turns the question 'Does this drug work?' into 'Does this drug help this particular patient?'\" The results were published in 'npj Digital Medicine', and PARAGUIDE is available free of charge through a website."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "心不全薬の効果を\nAIが患者ごとに予測",
-          "body": "16項目の臨床情報から、心不全治療薬の効果が大きい患者を見分けるAIが開発された。",
-          "mini_headline": "心不全薬の効果をAIで予測",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
-                "cap": "左から盆唐ソウル大学病院循環器内科のパク・ジンジュ教授とユン・ミンジェ教授、ソウル大学数理科学部のクク・ウン教授、ソウル大学AI研究院（AIIS）のキム・ウォンセ博士。写真＝盆唐ソウル大学病院"
-              },
-              {
-                "t": "p",
-                "x": "盆唐ソウル大学病院循環器内科のパク・ジンジュ、ユン・ミンジェ両教授のチームと、ソウル大学数理科学部のクク・ウン教授、ソウル大学AI研究院（AIIS）のキム・ウォンセ博士のチームは、駆出率が保たれた心不全患者の薬物治療効果を予測するAIツール「PARAGUIDE」を開発した。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームは駆出率が保たれた心不全患者4,161人の臨床情報を分析し、サクビトリル/バルサルタンに対する個々の治療反応を予測するモデルを構築した。53の基礎的な臨床特性を分析した後、実際の診療現場で使えるよう入力変数を16個に絞った。"
-              },
-              {
-                "t": "p",
-                "x": "患者全体では、心血管死と心不全入院を減らす効果は統計的に有意ではなかった。しかし、AIが治療の恩恵を見込んだ患者群は全体の70.8%で、この群ではバルサルタン単独治療に比べてリスクが18%低かった（RR 0.82、95% CI 0.69～0.98）。"
-              },
-              {
-                "t": "p",
-                "x": "パク・ジンジュ教授は「今回の研究は『この薬は効くのか』という問いを、『この薬はまさにこの患者の役に立つのか』という問いに変えたものだ」と述べた。結果は『npj Digital Medicine』に掲載され、PARAGUIDEはウェブサイトから無料で利用できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "心衰药物疗效\nAI逐个患者预测",
-          "body": "新开发的AI可凭16项临床信息，找出心衰治疗药物疗效更大的患者。",
-          "mini_headline": "AI预测心衰药效",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
-                "cap": "左起：盆唐首尔大学医院心内科Park Jin-joo、Yoon Min-jae教授，首尔大学数理科学系Kook Woong教授，首尔大学AI研究院（AIIS）Kim Won-se博士。图片来源：盆唐首尔大学医院"
-              },
-              {
-                "t": "p",
-                "x": "盆唐首尔大学医院心内科Park Jin-joo、Yoon Min-jae教授团队与首尔大学数理科学系Kook Woong教授、首尔大学AI研究院（AIIS）Kim Won-se博士团队，开发出可预测射血分数保留型心衰患者药物治疗效果的AI工具“PARAGUIDE”。"
-              },
-              {
-                "t": "p",
-                "x": "研究团队分析了4,161名射血分数保留型心衰患者的临床信息，构建出预测个体对沙库巴曲/缬沙坦治疗反应的模型。在分析53项基础临床特征后，为便于在实际诊疗中使用，将输入变量精简至16项。"
-              },
-              {
-                "t": "p",
-                "x": "在全体患者中，降低心血管死亡和心衰住院的效果并无统计学意义。但AI预测可从治疗中获益的患者占总数的70.8%，在这一群体中，与缬沙坦单药治疗相比风险降低18%（RR 0.82，95% CI 0.69~0.98）。"
-              },
-              {
-                "t": "p",
-                "x": "Park Jin-joo教授表示：“这项研究把‘这种药有没有效’的问题，变成了‘这种药能否帮助眼前这位患者’。”研究结果发表于《npj Digital Medicine》，PARAGUIDE可通过网站免费使用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Una IA predice por paciente el\nefecto de un fármaco cardiaco",
-          "body": "Una IA con 16 datos clínicos detecta qué pacientes se benefician más de un fármaco para la insuficiencia cardiaca.",
-          "mini_headline": "La IA predice el efecto de un fármaco cardiaco",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.kmedinfo.co.kr/news/photo/202611/99050_63326_4653.jpg",
-                "cap": "De izquierda a derecha: los profesores Park Jin-joo y Yoon Min-jae, del Servicio de Cardiología del Hospital Bundang de la Universidad Nacional de Seúl; el profesor Kook Woong, del Departamento de Ciencias Matemáticas de la Universidad Nacional de Seúl, y el doctor Kim Won-se, del Instituto de IA de la Universidad Nacional de Seúl (AIIS). Foto: Hospital Bundang de la Universidad Nacional de Seúl"
-              },
-              {
-                "t": "p",
-                "x": "El equipo de los profesores Park Jin-joo y Yoon Min-jae, del Servicio de Cardiología del Hospital Bundang de la Universidad Nacional de Seúl, junto con el profesor Kook Woong, del Departamento de Ciencias Matemáticas de la Universidad Nacional de Seúl, y el doctor Kim Won-se, del Instituto de IA de la Universidad Nacional de Seúl (AIIS), ha desarrollado 'PARAGUIDE', una herramienta de IA que predice el efecto del tratamiento farmacológico en pacientes con insuficiencia cardiaca con fracción de eyección preservada."
-              },
-              {
-                "t": "p",
-                "x": "El equipo analizó los datos clínicos de 4161 pacientes con insuficiencia cardiaca con fracción de eyección preservada y construyó un modelo que predice la respuesta individual al sacubitrilo/valsartán. Tras analizar 53 características clínicas basales, redujo las variables de entrada a 16 para que la herramienta pudiera usarse en la práctica clínica real."
-              },
-              {
-                "t": "p",
-                "x": "En el conjunto de los pacientes, la reducción de la muerte cardiovascular y de la hospitalización por insuficiencia cardiaca no fue estadísticamente significativa. Sin embargo, la IA previó un beneficio del tratamiento en el 70,8% de los pacientes, y en este grupo el riesgo fue un 18% menor que con valsartán en monoterapia (RR 0,82; CI del 95%: 0,69~0,98)."
-              },
-              {
-                "t": "p",
-                "x": "El profesor Park Jin-joo afirmó: \"Este estudio cambia la pregunta '¿funciona este fármaco?' por '¿ayuda este fármaco precisamente a este paciente?'\". Los resultados se publicaron en 'npj Digital Medicine', y PARAGUIDE puede utilizarse gratis a través de un sitio web."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "eye-ambient-ai-emr-ophthalmology",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "안과 진료실에\n앰비언트 AI 기록",
-      "body": "앰비언트 AI가 EMR 기록을 맡자 안과 진료 시간이 최대 37% 줄었다.",
-      "mini_headline": "안과 진료실의 앰비언트 AI",
-      "tool": "Medicine",
-      "source": "Eye (Nature)",
-      "url": "https://www.nature.com/articles/s41433-026-05028-5",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/ultrasound-preview/article/16542262/thyroid-ultrasound-ai-yields-high-agreement-with-radiologists",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "EMR 기록 업무는 의사의 부담을 키우고 환자와 의사의 상호작용을 줄인다. 전문 데이터를 많이 요구하는 안과는 타격이 특히 크다. 연구진은 표준화한 안과 진료에서 EMR에 구조화해 입력하는 앰비언트 AI-assisted(AI 보조) 기록을 기존 입력 방식과 비교했다."
+            "x": "11월 29일(일) | 오전 9:00~10:00 | S1-SSHN01-2 | E352호"
           },
           {
             "t": "p",
-            "x": "전문의 한 명과 전공의 한 명이 표준화한 안과 시나리오 열 개를 기존 방식과 AI-assisted 방식으로 각각 진행했다. ChatGPT 5.3과 Claude Sonnet 4.6은 TurboScribe로 음성을 받아쓴 다음 구조화된 LLM 출력을 만들었고, Heidi 2.0.1은 통합 오디오 파이프라인을 썼다. 목표는 모두 안과 EMR(Heyex; Heidelberg Engineering)에 구조화된 형태로 입력하는 것이었다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
-            "cap": "그림 1: 진료 시간 구성 요소 — 기존 방식과 AI 보조 기록 비교"
+            "x": "이번 발표에서 연구진은 갑상선 초음파 AI 소프트웨어를 실제 진료 현장에 대규모로 들여온 결과를 공개한다."
           },
           {
             "t": "p",
-            "x": "AI-assisted 기록으로 전체 진료 시간은 전문의가 2.4분(−32%), 전공의가 3.0분(−37%) 줄었다. 기록·검토 시간은 각각 85%와 86%, 환자에게서 눈을 뗀 시간은 83%와 86% 감소했다. 컴퓨터로 향한 시선 이동은 두 의사 모두 72% 줄었다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
-            "cap": "그림 2: AI 시스템별 항목 단위 기록 정확도 평가 분포"
+            "x": "갑상선 초음파에서 AI는 효율과 정확도를 높이고 판독자 간 편차를 줄일 가능성을 보여 왔다. 다만 실제 임상 효과는 영상의학과 의사가 일상 진료에서 그 결과를 믿고 받아들이느냐에 달렸다고 See-Mode Technologies의 발표자 Milad Mohammadzadeh(PhD) 연구팀은 지적했다. 연구팀은 이를 가늠하려고 AI 시스템이 만든 TI-RADS 기술어를 영상의학과 의사가 얼마나 자주 그대로 두는지 전향적으로 평가했다."
           },
           {
             "t": "p",
-            "x": "정확도는 Claude Sonnet 4.6이 98.4 ± 2.9%로 가장 높았고, ChatGPT 5.3(97.0 ± 5.1%)과 Heidi 2.0.1(88.6 ± 9.9%)이 뒤를 이었다. 평가자가 전문의 한 명과 전공의 한 명뿐이어서 결과는 예비적이고, 가설을 세우는 수준으로 봐야 한다."
+            "x": "U.S. 전역 297개 클리닉에 깔린 이 소프트웨어(See-Mode)는 결절 검출과 특성 분석, 판독문 생성을 자동으로 처리한다. 연구진은 검증된 대규모 언어 모델 파이프라인으로 2025년 9월부터 2026년 4월까지 영상의학과 의사가 최종 서명한 판독문을 AI-generated 구조화 판독문과 비교했다."
+          },
+          {
+            "t": "p",
+            "x": "187,000개가 넘는 결절을 다룬 95,000건 이상의 검사에서 영상의학과 의사는 결절의 약 89%에서 AI-generated 기술어를 하나도 바꾸지 않아 AI의 TI-RADS 등급을 그대로 받아들였다. 개별 기술어 일치율은 약 95%~98%로 더 높았다."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 초록에서 \"이처럼 높은 human-AI 일치도는 AI 결과에 대한 신뢰를 쌓는 데 중요하며, 이는 AI를 일상 진료에 장기적으로 성공적으로 통합하는 데 핵심적이다\"라고 썼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ambient AI documentation\nin the eye clinic",
-          "body": "Ambient AI note-taking cut eye consultation time by up to 37%, and Claude Sonnet 4.6 reached 98.4% EMR accuracy.",
-          "mini_headline": "Ambient AI in eye clinics",
+          "headline": "Thyroid ultrasound AI finds\nhigh radiologist agreement",
+          "body": "Across 297 U.S. clinics, a prospective study tracked how often radiologists kept See-Mode AI's TI-RADS descriptors.",
+          "mini_headline": "Thyroid AI, high agreement",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "EMR documentation contributes to physician workload and reduced patient–physician interaction, with ophthalmology particularly affected by specialist data requirements. This study compared ambient AI-assisted documentation for structured EMR import with conventional entry in standardised ophthalmic consultations."
+                "x": "Sunday, November 29 | 9:00 a.m. to 10:00 a.m. | S1-SSHN01-2 | Room E352"
               },
               {
                 "t": "p",
-                "x": "Ten standardised ophthalmic scenarios were performed under classic and AI-assisted conditions by a consultant and a resident. ChatGPT 5.3 and Claude Sonnet 4.6 used TurboScribe transcription followed by structured LLM output; Heidi 2.0.1 used an integrated audio pipeline. All targeted structured import into an ophthalmic EMR (Heyex; Heidelberg Engineering)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
-                "cap": "Fig. 1: Consultation time components: classic versus AI-assisted documentation."
+                "x": "In this scientific presentation, researchers will share findings from a large, real-world deployment of AI software for thyroid ultrasound."
               },
               {
                 "t": "p",
-                "x": "AI-assisted documentation reduced total consultation time by 2.4 min (−32%) for the consultant and 3.0 min (−37%) for the resident. Documentation and review time decreased by 85% and 86%, and off-patient gaze time by 83% and 86%; computer-related gaze shifts decreased by 72% for both clinicians."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
-                "cap": "Fig. 2: Item-level distribution of documentation accuracy ratings by AI system."
+                "x": "AI has shown promise for improving efficiency and accuracy and for reducing inter-reader variability in thyroid ultrasound. However, its clinical impact ultimately depends on whether radiologists trust and adopt its outputs in routine practice, noted presenter Milad Mohammadzadeh, PhD, of See-Mode Technologies and colleagues. To gauge this, the group prospectively assessed how often radiologists kept the TI-RADS descriptors generated by an AI system."
               },
               {
                 "t": "p",
-                "x": "Accuracy was highest for Claude Sonnet 4.6 (98.4 ± 2.9%), followed by ChatGPT 5.3 (97.0 ± 5.1%) and Heidi 2.0.1 (88.6 ± 9.9%). As only one consultant and one resident were assessed, these findings should be regarded as preliminary and hypothesis-generating."
+                "x": "The software (See-Mode) was deployed at 297 clinics across the U.S. and automates nodule detection, characterization, and report generation. The researchers used a validated large language model pipeline to compare radiologists' final signed reports from September 2025 through April 2026 against the AI-generated structured reports."
+              },
+              {
+                "t": "p",
+                "x": "Across more than 95,000 studies covering over 187,000 nodules, radiologists left all AI-generated descriptors unchanged, and therefore agreed with the AI's TI-RADS level, in nearly 89% of nodules. Agreement was even higher for individual descriptors, ranging from about 95% to 98%."
+              },
+              {
+                "t": "p",
+                "x": "\"This high human-AI concordance is important for building trust in AI outputs, which is critical to successful long-term integration of AI into routine clinical practice,\" the researchers wrote in the abstract."
               }
             ]
           }
         },
         "ko": {
-          "headline": "안과 진료실에\n앰비언트 AI 기록",
-          "body": "앰비언트 AI가 EMR 기록을 맡자 안과 진료 시간이 최대 37% 줄었다.",
-          "mini_headline": "안과 진료실의 앰비언트 AI",
+          "headline": "갑상선 초음파 AI,\n의사 일치율 높았다",
+          "body": "U.S. 297곳에서 See-Mode AI의 TI-RADS 유지율을 추적했다.",
+          "mini_headline": "갑상선 AI, 높은 일치율",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "EMR 기록 업무는 의사의 부담을 키우고 환자와 의사의 상호작용을 줄인다. 전문 데이터를 많이 요구하는 안과는 타격이 특히 크다. 연구진은 표준화한 안과 진료에서 EMR에 구조화해 입력하는 앰비언트 AI-assisted(AI 보조) 기록을 기존 입력 방식과 비교했다."
+                "x": "11월 29일(일) | 오전 9:00~10:00 | S1-SSHN01-2 | E352호"
               },
               {
                 "t": "p",
-                "x": "전문의 한 명과 전공의 한 명이 표준화한 안과 시나리오 열 개를 기존 방식과 AI-assisted 방식으로 각각 진행했다. ChatGPT 5.3과 Claude Sonnet 4.6은 TurboScribe로 음성을 받아쓴 다음 구조화된 LLM 출력을 만들었고, Heidi 2.0.1은 통합 오디오 파이프라인을 썼다. 목표는 모두 안과 EMR(Heyex; Heidelberg Engineering)에 구조화된 형태로 입력하는 것이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
-                "cap": "그림 1: 진료 시간 구성 요소 — 기존 방식과 AI 보조 기록 비교"
+                "x": "이번 발표에서 연구진은 갑상선 초음파 AI 소프트웨어를 실제 진료 현장에 대규모로 들여온 결과를 공개한다."
               },
               {
                 "t": "p",
-                "x": "AI-assisted 기록으로 전체 진료 시간은 전문의가 2.4분(−32%), 전공의가 3.0분(−37%) 줄었다. 기록·검토 시간은 각각 85%와 86%, 환자에게서 눈을 뗀 시간은 83%와 86% 감소했다. 컴퓨터로 향한 시선 이동은 두 의사 모두 72% 줄었다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
-                "cap": "그림 2: AI 시스템별 항목 단위 기록 정확도 평가 분포"
+                "x": "갑상선 초음파에서 AI는 효율과 정확도를 높이고 판독자 간 편차를 줄일 가능성을 보여 왔다. 다만 실제 임상 효과는 영상의학과 의사가 일상 진료에서 그 결과를 믿고 받아들이느냐에 달렸다고 See-Mode Technologies의 발표자 Milad Mohammadzadeh(PhD) 연구팀은 지적했다. 연구팀은 이를 가늠하려고 AI 시스템이 만든 TI-RADS 기술어를 영상의학과 의사가 얼마나 자주 그대로 두는지 전향적으로 평가했다."
               },
               {
                 "t": "p",
-                "x": "정확도는 Claude Sonnet 4.6이 98.4 ± 2.9%로 가장 높았고, ChatGPT 5.3(97.0 ± 5.1%)과 Heidi 2.0.1(88.6 ± 9.9%)이 뒤를 이었다. 평가자가 전문의 한 명과 전공의 한 명뿐이어서 결과는 예비적이고, 가설을 세우는 수준으로 봐야 한다."
+                "x": "U.S. 전역 297개 클리닉에 깔린 이 소프트웨어(See-Mode)는 결절 검출과 특성 분석, 판독문 생성을 자동으로 처리한다. 연구진은 검증된 대규모 언어 모델 파이프라인으로 2025년 9월부터 2026년 4월까지 영상의학과 의사가 최종 서명한 판독문을 AI-generated 구조화 판독문과 비교했다."
+              },
+              {
+                "t": "p",
+                "x": "187,000개가 넘는 결절을 다룬 95,000건 이상의 검사에서 영상의학과 의사는 결절의 약 89%에서 AI-generated 기술어를 하나도 바꾸지 않아 AI의 TI-RADS 등급을 그대로 받아들였다. 개별 기술어 일치율은 약 95%~98%로 더 높았다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 초록에서 \"이처럼 높은 human-AI 일치도는 AI 결과에 대한 신뢰를 쌓는 데 중요하며, 이는 AI를 일상 진료에 장기적으로 성공적으로 통합하는 데 핵심적이다\"라고 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "眼科診療に\nアンビエントAI記録",
-          "body": "アンビエントAIがEMR記録を担うと、眼科の診察時間が最大37%短縮した。",
-          "mini_headline": "眼科のアンビエントAI",
+          "headline": "甲状腺エコーのAI\n読影医と高い一致",
+          "body": "U.S.の297施設で、See-Mode AIのTI-RADS記述の保持率を追跡した。",
+          "mini_headline": "甲状腺AI、高い一致率",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "EMRへの記録は医師の負担を増やし、患者と医師のやり取りを減らす一因となっており、専門的なデータが求められる眼科は特に影響を受けやすい。本研究は、標準化した眼科診察において、構造化されたEMR取り込みのためのアンビエントなAI-assisted（AI支援）記録と従来の入力を比較した。"
+                "x": "11月29日(日) | 午前9:00〜10:00 | S1-SSHN01-2 | E352室"
               },
               {
                 "t": "p",
-                "x": "専門医一人と専攻医一人が、標準化した十の眼科シナリオを従来法とAI-assisted条件でそれぞれ実施した。ChatGPT 5.3とClaude Sonnet 4.6はTurboScribeで文字起こしした後に構造化したLLM出力を用い、Heidi 2.0.1は統合型の音声パイプラインを用いた。いずれも眼科用EMR（Heyex; Heidelberg Engineering）への構造化取り込みを目指した。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
-                "cap": "図1：診察時間の内訳――従来法とAI支援記録の比較"
+                "x": "この学術発表で研究者らは、甲状腺超音波向けAIソフトウェアを実臨床で大規模に導入した結果を報告する。"
               },
               {
                 "t": "p",
-                "x": "AI-assisted記録により、総診察時間は専門医で2.4分（−32%）、専攻医で3.0分（−37%）短縮した。記録・確認時間はそれぞれ85%と86%、患者から視線を外す時間は83%と86%減少し、コンピューター関連の視線移動は両医師とも72%減った。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
-                "cap": "図2：AIシステム別の記録精度評価の項目レベル分布"
+                "x": "AIは甲状腺超音波において効率と精度を高め、読影者間のばらつきを減らす可能性を示してきた。しかし臨床的な効果は最終的に、放射線科医が日常診療でその出力を信頼し採用するかどうかにかかっていると、See-Mode Technologiesの発表者Milad Mohammadzadeh(PhD)らは指摘した。これを測るため、グループはAIシステムが生成したTI-RADS記述子を放射線科医がどれほどの頻度で維持したかを前向きに評価した。"
               },
               {
                 "t": "p",
-                "x": "精度が最も高かったのはClaude Sonnet 4.6（98.4 ± 2.9%）で、ChatGPT 5.3（97.0 ± 5.1%）、Heidi 2.0.1（88.6 ± 9.9%）が続いた。評価対象は専門医一人と専攻医一人のみであるため、これらの結果は予備的で仮説生成的なものとみなすべきである。"
+                "x": "このソフトウェア(See-Mode)はU.S.全土の297施設に導入され、結節の検出、性状評価、レポート作成を自動化している。研究者らは検証済みの大規模言語モデルのパイプラインを用い、2025年9月から2026年4月までに放射線科医が最終署名したレポートをAI-generatedの構造化レポートと比較した。"
+              },
+              {
+                "t": "p",
+                "x": "187,000超の結節を含む95,000件以上の検査で、放射線科医は約89%の結節でAI-generatedの記述子をすべてそのまま残し、AIのTI-RADSレベルに同意した。個々の記述子の一致率はさらに高く、約95%から98%だった。"
+              },
+              {
+                "t": "p",
+                "x": "「この高いhuman-AI一致は、AIの出力への信頼を築くうえで重要であり、それはAIを日常臨床に長期的に定着させるために不可欠だ」と研究者らは抄録に記した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "眼科诊室里的\n环境式AI病历记录",
-          "body": "借助环境式AI完成EMR记录，眼科问诊时间最多缩短了37%。",
-          "mini_headline": "眼科诊室的环境式AI",
+          "headline": "甲状腺超声AI\n与医生高度一致",
+          "body": "研究在U.S. 297家诊所追踪See-Mode AI的TI-RADS描述保留率。",
+          "mini_headline": "甲状腺AI，高度一致",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "EMR记录加重了医生的工作负担，并减少了医患互动，眼科因专科数据要求尤其受到影响。本研究在标准化眼科问诊中，比较了用于结构化EMR导入的环境式AI-assisted（AI辅助）记录与传统录入方式。"
+                "x": "11月29日(周日) | 上午9:00至10:00 | S1-SSHN01-2 | E352室"
               },
               {
                 "t": "p",
-                "x": "一名主治医师和一名住院医师分别在传统和AI-assisted条件下完成了十个标准化眼科场景。ChatGPT 5.3和Claude Sonnet 4.6先用TurboScribe转写，再生成结构化LLM输出；Heidi 2.0.1则使用集成音频流程。所有系统均以结构化导入眼科EMR（Heyex；Heidelberg Engineering）为目标。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
-                "cap": "图1：问诊时间构成——传统记录与AI辅助记录对比"
+                "x": "在这场科学报告中，研究人员将分享甲状腺超声AI软件在真实世界大规模部署的结果。"
               },
               {
                 "t": "p",
-                "x": "AI-assisted记录使主治医师的总问诊时间缩短2.4分钟（−32%），住院医师缩短3.0分钟（−37%）。记录与审核时间分别减少85%和86%，视线离开患者的时间分别减少83%和86%；两名医生与电脑相关的视线转移均减少72%。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
-                "cap": "图2：各AI系统文档准确性评分的条目级分布"
+                "x": "AI在甲状腺超声中已显示出提高效率和准确性、减少阅片者间差异的潜力。但See-Mode Technologies的报告人Milad Mohammadzadeh(PhD)及其同事指出，其临床影响最终取决于放射科医生是否在日常实践中信任并采用其输出。为此，团队前瞻性评估了放射科医生保留AI系统生成的TI-RADS描述符的频率。"
               },
               {
                 "t": "p",
-                "x": "准确率最高的是Claude Sonnet 4.6（98.4 ± 2.9%），其次为ChatGPT 5.3（97.0 ± 5.1%）和Heidi 2.0.1（88.6 ± 9.9%）。由于仅评估了一名主治医师和一名住院医师，这些结果应视为初步的、用于提出假设的发现。"
+                "x": "该软件(See-Mode)已部署于U.S.各地297家诊所，可自动完成结节检测、特征描述和报告生成。研究人员使用经过验证的大语言模型流程，将2025年9月至2026年4月放射科医生最终签署的报告与AI-generated结构化报告进行比较。"
+              },
+              {
+                "t": "p",
+                "x": "在覆盖187,000多个结节的95,000多项检查中，放射科医生在近89%的结节上未改动任何AI-generated描述符，因而认同了AI的TI-RADS分级。单项描述符的一致率更高，约为95%至98%。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员在摘要中写道：“这种高度的human-AI一致性对于建立对AI输出的信任很重要，而这对于AI长期成功融入日常临床实践至关重要。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Documentación con IA ambiental\nen la consulta de oftalmología",
-          "body": "La IA ambiental acortó hasta un 37% las consultas de oftalmología y Claude Sonnet 4.6 logró un 98,4% de precisión.",
-          "mini_headline": "IA ambiental en consultas de oftalmología",
+          "headline": "La AI de ecografía tiroidea\nlogra alto acuerdo radiológico",
+          "body": "Un estudio prospectivo en 297 clínicas de U.S. midió cuánto mantienen los radiólogos los TI-RADS de See-Mode AI.",
+          "mini_headline": "AI tiroidea, alto acuerdo",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "La documentación en la EMR contribuye a la carga de trabajo de los médicos y reduce la interacción entre paciente y médico, y la oftalmología se ve especialmente afectada por sus requisitos de datos especializados. Este estudio comparó la documentación ambiental AI-assisted (asistida por IA) para la importación estructurada en la EMR con la introducción convencional en consultas oftalmológicas estandarizadas."
+                "x": "Domingo, 29 de noviembre | 9:00 a.m. a 10:00 a.m. | S1-SSHN01-2 | Sala E352"
               },
               {
                 "t": "p",
-                "x": "Un especialista y un residente realizaron diez escenarios oftalmológicos estandarizados en condiciones clásicas y AI-assisted. ChatGPT 5.3 y Claude Sonnet 4.6 usaron la transcripción de TurboScribe seguida de una salida estructurada de un LLM; Heidi 2.0.1 empleó un flujo de audio integrado. Todos buscaban la importación estructurada en una EMR oftalmológica (Heyex; Heidelberg Engineering)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
-                "cap": "Fig. 1: Componentes del tiempo de consulta: documentación clásica frente a documentación asistida por IA."
+                "x": "En esta presentación científica, los investigadores compartirán los resultados de un despliegue amplio y en condiciones reales de un software de AI para ecografía tiroidea."
               },
               {
                 "t": "p",
-                "x": "La documentación AI-assisted redujo el tiempo total de consulta en 2,4 min (−32%) para el especialista y en 3,0 min (−37%) para el residente. El tiempo de documentación y revisión disminuyó un 85% y un 86%, y el tiempo con la mirada fuera del paciente, un 83% y un 86%; los desplazamientos de la mirada hacia el equipo informático se redujeron un 72% en ambos médicos."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
-                "cap": "Fig. 2: Distribución por ítem de las valoraciones de precisión de la documentación según el sistema de IA."
+                "x": "La AI ha mostrado potencial para mejorar la eficiencia y la precisión y para reducir la variabilidad entre lectores en la ecografía tiroidea. Sin embargo, su impacto clínico depende en última instancia de que los radiólogos confíen en sus resultados y los adopten en la práctica habitual, señalaron el ponente Milad Mohammadzadeh, PhD, de See-Mode Technologies, y sus colegas. Para medirlo, el grupo evaluó de forma prospectiva con qué frecuencia los radiólogos conservaban los descriptores TI-RADS generados por un sistema de AI."
               },
               {
                 "t": "p",
-                "x": "La precisión fue máxima con Claude Sonnet 4.6 (98,4 ± 2,9%), seguido de ChatGPT 5.3 (97,0 ± 5,1%) y Heidi 2.0.1 (88,6 ± 9,9%). Como solo se evaluó a un especialista y a un residente, estos resultados deben considerarse preliminares y generadores de hipótesis."
+                "x": "El software (See-Mode) se implantó en 297 clínicas de Estados Unidos (U.S.) y automatiza la detección de nódulos, su caracterización y la generación de informes. Los investigadores usaron un flujo validado basado en un modelo de lenguaje grande para comparar los informes finales firmados por los radiólogos entre septiembre de 2025 y abril de 2026 con los informes estructurados AI-generated."
+              },
+              {
+                "t": "p",
+                "x": "En más de 95,000 estudios que abarcaban más de 187,000 nódulos, los radiólogos dejaron sin cambios todos los descriptores AI-generated, y por tanto coincidieron con el nivel TI-RADS de la AI, en casi el 89% de los nódulos. La concordancia fue aún mayor en los descriptores individuales, de alrededor del 95% al 98%."
+              },
+              {
+                "t": "p",
+                "x": "\"Esta alta concordancia human-AI es importante para generar confianza en los resultados de la AI, algo clave para integrar con éxito y a largo plazo la AI en la práctica clínica habitual\", escribieron los investigadores en el resumen."
               }
             ]
           }
@@ -1687,145 +901,691 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "안과 진료실에\n앰비언트 AI 기록",
-          "body": "앰비언트 AI가 EMR 기록을 맡자 안과 진료 시간이 최대 37% 줄었다.",
-          "mini_headline": "안과 진료실의 앰비언트 AI",
+          "headline": "갑상선 초음파 AI,\n의사 일치율 높았다",
+          "body": "U.S. 297곳에서 See-Mode AI의 TI-RADS 유지율을 추적했다.",
+          "mini_headline": "갑상선 AI, 높은 일치율",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "EMR 기록 업무는 의사의 업무 부담을 키우고 환자와 의사의 상호작용을 줄이는 요인이며, 전문 데이터 요구가 많은 안과는 그 영향을 특히 크게 받는다. 이 연구는 표준화한 안과 진료에서 구조화된 EMR 입력을 위한 앰비언트 AI-assisted(AI 보조) 기록과 기존 방식의 입력을 비교했다."
+                "x": "11월 29일(일) | 오전 9:00~10:00 | S1-SSHN01-2 | E352호"
               },
               {
                 "t": "p",
-                "x": "전문의 한 명과 전공의 한 명이 표준화한 안과 시나리오 열 개를 기존 방식과 AI-assisted 방식으로 각각 수행했다. ChatGPT 5.3과 Claude Sonnet 4.6은 TurboScribe로 음성을 받아쓴 뒤 구조화된 LLM 출력을 생성했고, Heidi 2.0.1은 통합 오디오 파이프라인을 썼다. 모든 시스템은 안과 EMR(Heyex; Heidelberg Engineering)로의 구조화된 입력을 목표로 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
-                "cap": "그림 1: 진료 시간 구성 요소 — 기존 방식과 AI 보조 기록 비교"
+                "x": "이 학술 발표에서 연구진은 갑상선 초음파용 AI 소프트웨어를 실제 진료 환경에 대규모로 도입한 결과를 공유한다."
               },
               {
                 "t": "p",
-                "x": "AI-assisted 기록은 전체 진료 시간을 전문의는 2.4분(−32%), 전공의는 3.0분(−37%) 줄였다. 기록·검토 시간은 각각 85%와 86%, 환자에게서 시선을 뗀 시간은 83%와 86% 감소했으며, 컴퓨터 쪽으로의 시선 이동은 두 의사 모두 72% 줄었다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
-                "cap": "그림 2: AI 시스템별 항목 단위 기록 정확도 평가 분포"
+                "x": "AI는 갑상선 초음파에서 효율과 정확도를 높이고 판독자 간 편차를 줄일 가능성을 보여 왔다. 그러나 임상적 효과는 결국 영상의학과 의사가 일상 진료에서 그 결과를 신뢰하고 채택하는지에 달려 있다고 See-Mode Technologies의 발표자 Milad Mohammadzadeh(PhD) 연구팀은 지적했다. 이를 가늠하려고 연구팀은 AI 시스템이 생성한 TI-RADS 기술어를 영상의학과 의사가 얼마나 자주 유지하는지 전향적으로 평가했다."
               },
               {
                 "t": "p",
-                "x": "정확도는 Claude Sonnet 4.6이 98.4 ± 2.9%로 가장 높았고, ChatGPT 5.3(97.0 ± 5.1%)과 Heidi 2.0.1(88.6 ± 9.9%)이 뒤를 이었다. 전문의 한 명과 전공의 한 명만 평가했으므로, 이 결과는 예비적이며 가설을 세우는 수준으로 봐야 한다."
+                "x": "이 소프트웨어(See-Mode)는 U.S. 전역 297개 클리닉에 도입돼 결절 검출, 특성 분석, 판독문 생성을 자동화한다. 연구진은 검증된 대규모 언어 모델 파이프라인으로 2025년 9월부터 2026년 4월까지 영상의학과 의사가 최종 서명한 판독문을 AI-generated 구조화 판독문과 비교했다."
+              },
+              {
+                "t": "p",
+                "x": "187,000개가 넘는 결절을 다룬 95,000건 이상의 검사에서 영상의학과 의사는 결절의 약 89%에서 AI-generated 기술어를 하나도 바꾸지 않았고, 따라서 AI의 TI-RADS 등급에 동의했다. 개별 기술어 일치율은 약 95%~98%로 더 높았다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 초록에서 \"이처럼 높은 human-AI 일치도는 AI 결과에 대한 신뢰를 쌓는 데 중요하며, 이는 AI를 일상 진료에 장기적으로 성공적으로 통합하는 데 핵심적이다\"라고 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "眼科診療に\nアンビエントAI記録",
-          "body": "アンビエントAIがEMR記録を担うと、眼科の診察時間が最大37%短縮した。",
-          "mini_headline": "眼科のアンビエントAI",
+          "headline": "甲状腺エコーのAI\n読影医と高い一致",
+          "body": "U.S.の297施設で、See-Mode AIのTI-RADS記述の保持率を追跡した。",
+          "mini_headline": "甲状腺AI、高い一致率",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "EMRへの記録は医師の負担を増やし、患者と医師のやり取りを減らす一因となっており、専門的なデータが求められる眼科は特に影響を受けやすい。本研究は、標準化した眼科診察において、構造化されたEMR取り込みのためのアンビエントなAI-assisted（AI支援）記録と従来の入力を比較した。"
+                "x": "11月29日(日) | 午前9:00〜10:00 | S1-SSHN01-2 | E352室"
               },
               {
                 "t": "p",
-                "x": "専門医一人と専攻医一人が、標準化した十の眼科シナリオを従来法とAI-assisted条件でそれぞれ実施した。ChatGPT 5.3とClaude Sonnet 4.6はTurboScribeで文字起こしした後に構造化したLLM出力を用い、Heidi 2.0.1は統合型の音声パイプラインを用いた。いずれも眼科用EMR（Heyex; Heidelberg Engineering）への構造化取り込みを目指した。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
-                "cap": "図1：診察時間の内訳――従来法とAI支援記録の比較"
+                "x": "この学術発表で研究者らは、甲状腺超音波向けAIソフトウェアを実臨床で大規模に導入した結果を報告する。"
               },
               {
                 "t": "p",
-                "x": "AI-assisted記録により、総診察時間は専門医で2.4分（−32%）、専攻医で3.0分（−37%）短縮した。記録・確認時間はそれぞれ85%と86%、患者から視線を外す時間は83%と86%減少し、コンピューター関連の視線移動は両医師とも72%減った。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
-                "cap": "図2：AIシステム別の記録精度評価の項目レベル分布"
+                "x": "AIは甲状腺超音波において効率と精度を高め、読影者間のばらつきを減らす可能性を示してきた。しかし臨床的な効果は最終的に、放射線科医が日常診療でその出力を信頼し採用するかどうかにかかっていると、See-Mode Technologiesの発表者Milad Mohammadzadeh(PhD)らは指摘した。これを測るため、グループはAIシステムが生成したTI-RADS記述子を放射線科医がどれほどの頻度で維持したかを前向きに評価した。"
               },
               {
                 "t": "p",
-                "x": "精度が最も高かったのはClaude Sonnet 4.6（98.4 ± 2.9%）で、ChatGPT 5.3（97.0 ± 5.1%）、Heidi 2.0.1（88.6 ± 9.9%）が続いた。評価対象は専門医一人と専攻医一人のみであるため、これらの結果は予備的で仮説生成的なものとみなすべきである。"
+                "x": "このソフトウェア(See-Mode)はU.S.全土の297施設に導入され、結節の検出、性状評価、レポート作成を自動化している。研究者らは検証済みの大規模言語モデルのパイプラインを用い、2025年9月から2026年4月までに放射線科医が最終署名したレポートをAI-generatedの構造化レポートと比較した。"
+              },
+              {
+                "t": "p",
+                "x": "187,000超の結節を含む95,000件以上の検査で、放射線科医は約89%の結節でAI-generatedの記述子をすべてそのまま残し、AIのTI-RADSレベルに同意した。個々の記述子の一致率はさらに高く、約95%から98%だった。"
+              },
+              {
+                "t": "p",
+                "x": "「この高いhuman-AI一致は、AIの出力への信頼を築くうえで重要であり、それはAIを日常臨床に長期的に定着させるために不可欠だ」と研究者らは抄録に記した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "眼科诊室里的\n环境式AI病历记录",
-          "body": "借助环境式AI完成EMR记录，眼科问诊时间最多缩短了37%。",
-          "mini_headline": "眼科诊室的环境式AI",
+          "headline": "甲状腺超声AI\n与医生高度一致",
+          "body": "研究在U.S. 297家诊所追踪See-Mode AI的TI-RADS描述保留率。",
+          "mini_headline": "甲状腺AI，高度一致",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "EMR记录加重了医生的工作负担，并减少了医患互动，眼科因专科数据要求尤其受到影响。本研究在标准化眼科问诊中，比较了用于结构化EMR导入的环境式AI-assisted（AI辅助）记录与传统录入方式。"
+                "x": "11月29日(周日) | 上午9:00至10:00 | S1-SSHN01-2 | E352室"
               },
               {
                 "t": "p",
-                "x": "一名主治医师和一名住院医师分别在传统和AI-assisted条件下完成了十个标准化眼科场景。ChatGPT 5.3和Claude Sonnet 4.6先用TurboScribe转写，再生成结构化LLM输出；Heidi 2.0.1则使用集成音频流程。所有系统均以结构化导入眼科EMR（Heyex；Heidelberg Engineering）为目标。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
-                "cap": "图1：问诊时间构成——传统记录与AI辅助记录对比"
+                "x": "在这场科学报告中，研究人员将分享甲状腺超声AI软件在真实世界大规模部署的结果。"
               },
               {
                 "t": "p",
-                "x": "AI-assisted记录使主治医师的总问诊时间缩短2.4分钟（−32%），住院医师缩短3.0分钟（−37%）。记录与审核时间分别减少85%和86%，视线离开患者的时间分别减少83%和86%；两名医生与电脑相关的视线转移均减少72%。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
-                "cap": "图2：各AI系统文档准确性评分的条目级分布"
+                "x": "AI在甲状腺超声中已显示出提高效率和准确性、减少阅片者间差异的潜力。但See-Mode Technologies的报告人Milad Mohammadzadeh(PhD)及其同事指出，其临床影响最终取决于放射科医生是否在日常实践中信任并采用其输出。为此，团队前瞻性评估了放射科医生保留AI系统生成的TI-RADS描述符的频率。"
               },
               {
                 "t": "p",
-                "x": "准确率最高的是Claude Sonnet 4.6（98.4 ± 2.9%），其次为ChatGPT 5.3（97.0 ± 5.1%）和Heidi 2.0.1（88.6 ± 9.9%）。由于仅评估了一名主治医师和一名住院医师，这些结果应视为初步的、用于提出假设的发现。"
+                "x": "该软件(See-Mode)已部署于U.S.各地297家诊所，可自动完成结节检测、特征描述和报告生成。研究人员使用经过验证的大语言模型流程，将2025年9月至2026年4月放射科医生最终签署的报告与AI-generated结构化报告进行比较。"
+              },
+              {
+                "t": "p",
+                "x": "在覆盖187,000多个结节的95,000多项检查中，放射科医生在近89%的结节上未改动任何AI-generated描述符，因而认同了AI的TI-RADS分级。单项描述符的一致率更高，约为95%至98%。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员在摘要中写道：“这种高度的human-AI一致性对于建立对AI输出的信任很重要，而这对于AI长期成功融入日常临床实践至关重要。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Documentación con IA ambiental\nen la consulta de oftalmología",
-          "body": "La IA ambiental acortó hasta un 37% las consultas de oftalmología y Claude Sonnet 4.6 logró un 98,4% de precisión.",
-          "mini_headline": "IA ambiental en consultas de oftalmología",
+          "headline": "La AI de ecografía tiroidea\nlogra alto acuerdo radiológico",
+          "body": "Un estudio prospectivo en 297 clínicas de U.S. midió cuánto mantienen los radiólogos los TI-RADS de See-Mode AI.",
+          "mini_headline": "AI tiroidea, alto acuerdo",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Domingo, 29 de noviembre | 9:00 a.m. a 10:00 a.m. | S1-SSHN01-2 | Sala E352"
+              },
+              {
+                "t": "p",
+                "x": "En esta presentación científica, los investigadores compartirán los resultados de un despliegue amplio y en condiciones reales de un software de AI para ecografía tiroidea."
+              },
+              {
+                "t": "p",
+                "x": "La AI ha mostrado potencial para mejorar la eficiencia y la precisión y para reducir la variabilidad entre lectores en la ecografía tiroidea. Sin embargo, su impacto clínico depende en última instancia de que los radiólogos confíen en sus resultados y los adopten en la práctica habitual, señalaron el ponente Milad Mohammadzadeh, PhD, de See-Mode Technologies, y sus colegas. Para medirlo, el grupo evaluó de forma prospectiva con qué frecuencia los radiólogos conservaban los descriptores TI-RADS generados por un sistema de AI."
+              },
+              {
+                "t": "p",
+                "x": "El software (See-Mode) se implantó en 297 clínicas de Estados Unidos (U.S.) y automatiza la detección de nódulos, su caracterización y la generación de informes. Los investigadores usaron un flujo validado basado en un modelo de lenguaje grande para comparar los informes finales firmados por los radiólogos entre septiembre de 2025 y abril de 2026 con los informes estructurados AI-generated."
+              },
+              {
+                "t": "p",
+                "x": "En más de 95,000 estudios que abarcaban más de 187,000 nódulos, los radiólogos dejaron sin cambios todos los descriptores AI-generated, y por tanto coincidieron con el nivel TI-RADS de la AI, en casi el 89% de los nódulos. La concordancia fue aún mayor en los descriptores individuales, de alrededor del 95% al 98%."
+              },
+              {
+                "t": "p",
+                "x": "\"Esta alta concordancia human-AI es importante para generar confianza en los resultados de la AI, algo clave para integrar con éxito y a largo plazo la AI en la práctica clínica habitual\", escribieron los investigadores en el resumen."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "intelerad-orchestrator-clarity",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "GE HealthCare\n판독 보고서에 AI 계층",
+      "body": "Intelerad의 Clarity가 과거 판독을 요약하고 구술 판독문 초안을 쓴다.",
+      "mini_headline": "GE, InteleOrchestrator에 AI 추가",
+      "tool": "Medicine",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16542651/ge-healthcare-gehc-adds-ai-layer-to-inteleorchestrator",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
+            "cap": ""
+          },
+          {
+            "t": "p",
+            "x": "GE HealthCare(GEHC)가 영상의학과 의사의 요약과 판독문 작성을 돕는 InteleOrchestrator Clarity를 선보인다. 자회사 Intelerad가 만든 엔터프라이즈 워크플로 소프트웨어 InteleOrchestrator 위에 얹는 AI 계층이다."
+          },
+          {
+            "t": "p",
+            "x": "업체 설명으로는 이 소프트웨어가 판독 워크플로 안에서 이전 판독문과 환자 병력을 요약해 출처와 함께 보여 준다. 근거 정보 링크가 달려 있어 의사가 요약 내용을 바로 확인할 수 있다. GEHC는 의사가 소견을 구술하면 InteleOrchestrator Clarity가 구술 내용과 가용 정보를 모아 구조화된 판독문 초안을 만들고, 의사는 이를 검토해 필요한 부분을 고친 뒤 확정한다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "InteleOrchestrator 고객은 지금 InteleOrchestrator Cloud에서 InteleOrchestrator Clarity를 쓸 수 있다. GEHC는 시카고에서 열리는 RSNA 2026 연례 학술대회에서 이 소프트웨어를 시연한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "GE HealthCare adds AI layer\nto radiology reporting",
+          "body": "Intelerad's Clarity gives radiologists source-linked summaries of priors and drafts structured reports from dictation.",
+          "mini_headline": "GE adds AI to InteleOrchestrator",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "GE HealthCare (GEHC) is introducing InteleOrchestrator Clarity, an AI layer for its InteleOrchestrator enterprise workflow software developed by the company's Intelerad unit, to support summarization and reporting for radiologists."
+              },
+              {
+                "t": "p",
+                "x": "The software provides radiologists with source-linked summaries of prior reports and patient history within the reading workflow, with links to the underlying information so radiologists can verify the summarized content, according to the vendor. As radiologists dictate findings, InteleOrchestrator Clarity consolidates the dictation and available information into a structured report draft, which radiologists then review, correct as needed, and finalize, GEHC said."
+              },
+              {
+                "t": "p",
+                "x": "InteleOrchestrator Clarity is now available to InteleOrchestrator customers through InteleOrchestrator Cloud. GEHC will demonstrate the software at the RSNA 2026 annual meeting in Chicago."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "GE HealthCare\n판독 보고서에 AI 계층",
+          "body": "Intelerad의 Clarity가 과거 판독을 요약하고 구술 판독문 초안을 쓴다.",
+          "mini_headline": "GE, InteleOrchestrator에 AI 추가",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "GE HealthCare(GEHC)가 영상의학과 의사의 요약과 판독문 작성을 돕는 InteleOrchestrator Clarity를 선보인다. 자회사 Intelerad가 만든 엔터프라이즈 워크플로 소프트웨어 InteleOrchestrator 위에 얹는 AI 계층이다."
+              },
+              {
+                "t": "p",
+                "x": "업체 설명으로는 이 소프트웨어가 판독 워크플로 안에서 이전 판독문과 환자 병력을 요약해 출처와 함께 보여 준다. 근거 정보 링크가 달려 있어 의사가 요약 내용을 바로 확인할 수 있다. GEHC는 의사가 소견을 구술하면 InteleOrchestrator Clarity가 구술 내용과 가용 정보를 모아 구조화된 판독문 초안을 만들고, 의사는 이를 검토해 필요한 부분을 고친 뒤 확정한다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "InteleOrchestrator 고객은 지금 InteleOrchestrator Cloud에서 InteleOrchestrator Clarity를 쓸 수 있다. GEHC는 시카고에서 열리는 RSNA 2026 연례 학술대회에서 이 소프트웨어를 시연한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "GE HealthCare\n読影レポートにAI層を追加",
+          "body": "InteleradのClarityは過去読影を出典付きで要約し、口述から報告書案を作る。",
+          "mini_headline": "GE、InteleOrchestratorにAIを追加",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "GE HealthCare（GEHC）は、放射線科医の要約作成とレポート作成を支援するInteleOrchestrator Clarityを投入する。同社のIntelerad部門が開発したエンタープライズ向けワークフローソフトウェアInteleOrchestratorに加わるAIレイヤーである。"
+              },
+              {
+                "t": "p",
+                "x": "ベンダーによると、このソフトウェアは読影ワークフローの中で、過去のレポートと患者の病歴を出典にリンクした要約として放射線科医に示す。元の情報へのリンクが付くため、医師は要約の内容を確かめられる。GEHCによれば、放射線科医が所見を口述すると、InteleOrchestrator Clarityが口述内容と利用可能な情報をまとめて構造化レポートの草案を作り、医師がそれを確認し、必要に応じて修正したうえで確定する。"
+              },
+              {
+                "t": "p",
+                "x": "InteleOrchestrator Clarityは現在、InteleOrchestrator Cloudを通じてInteleOrchestratorの顧客が利用できる。GEHCはシカゴで開かれるRSNA 2026年次総会でこのソフトウェアを披露する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "GE HealthCare\n为放射报告加入AI层",
+          "body": "Intelerad的Clarity以附来源的方式摘要既往报告，并据口述起草结构化报告。",
+          "mini_headline": "GE为InteleOrchestrator加入AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "GE HealthCare（GEHC）推出InteleOrchestrator Clarity，为放射科医生的摘要与报告工作提供支持。它是叠加在InteleOrchestrator企业工作流软件之上的AI层，该软件由公司旗下Intelerad部门开发。"
+              },
+              {
+                "t": "p",
+                "x": "据厂商介绍，该软件在阅片工作流中为放射科医生提供既往报告和患者病史的来源链接式摘要，并附上指向原始信息的链接，方便医生核实摘要内容。GEHC表示，放射科医生口述所见时，InteleOrchestrator Clarity会把口述内容与现有信息整合成结构化报告草稿，再由医生审阅、按需修改并最终定稿。"
+              },
+              {
+                "t": "p",
+                "x": "InteleOrchestrator Clarity现已通过InteleOrchestrator Cloud向InteleOrchestrator客户提供。GEHC将在芝加哥举行的RSNA 2026年会上演示该软件。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "GE HealthCare añade una capa\nde IA al informe radiológico",
+          "body": "Clarity, de Intelerad, resume estudios previos con enlaces a fuentes y redacta informes estructurados desde el dictado.",
+          "mini_headline": "GE suma IA a InteleOrchestrator",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "GE HealthCare (GEHC) presenta InteleOrchestrator Clarity, una capa de IA para InteleOrchestrator, su software de flujo de trabajo empresarial desarrollado por su unidad Intelerad, con el fin de apoyar a los radiólogos en la elaboración de resúmenes e informes."
+              },
+              {
+                "t": "p",
+                "x": "Según el fabricante, el software ofrece a los radiólogos, dentro del flujo de lectura, resúmenes de informes previos y del historial del paciente vinculados a sus fuentes, con enlaces a la información original para que puedan verificar el contenido resumido. A medida que el radiólogo dicta los hallazgos, InteleOrchestrator Clarity reúne el dictado y la información disponible en un borrador de informe estructurado, que el radiólogo revisa, corrige si hace falta y finaliza, según GEHC."
+              },
+              {
+                "t": "p",
+                "x": "InteleOrchestrator Clarity ya está disponible para los clientes de InteleOrchestrator a través de InteleOrchestrator Cloud. GEHC mostrará el software en la reunión anual RSNA 2026 en Chicago."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "es": {
+          "headline": "GE HealthCare añade una capa\nde IA al informe radiológico",
+          "body": "Clarity, de Intelerad, resume estudios previos con enlaces a fuentes y redacta informes estructurados desde el dictado.",
+          "mini_headline": "GE suma IA a InteleOrchestrator",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "GE HealthCare (GEHC) presenta InteleOrchestrator Clarity, una capa de IA para InteleOrchestrator, su software de flujo de trabajo empresarial desarrollado por su unidad Intelerad, con el fin de apoyar a los radiólogos en la elaboración de resúmenes e informes."
+              },
+              {
+                "t": "p",
+                "x": "Según el fabricante, el software ofrece a los radiólogos, dentro del flujo de lectura, resúmenes de informes previos y del historial del paciente vinculados a sus fuentes, con enlaces a la información original para que puedan verificar el contenido resumido. A medida que el radiólogo dicta los hallazgos, InteleOrchestrator Clarity reúne el dictado y la información disponible en un borrador de informe estructurado, que el radiólogo revisa, corrige si hace falta y finaliza, según GEHC."
+              },
+              {
+                "t": "p",
+                "x": "InteleOrchestrator Clarity ya está disponible para los clientes de InteleOrchestrator a través de InteleOrchestrator Cloud. GEHC mostrará el software en la reunión anual RSNA 2026 en Chicago."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "GE HealthCare\n판독 보고서에 AI 계층",
+          "body": "Intelerad의 Clarity는 과거 판독 요약과 구술 판독문 초안을 낸다.",
+          "mini_headline": "GE, InteleOrchestrator에 AI 추가",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "GE HealthCare(GEHC)가 영상의학과 의사의 요약·판독문 작성을 돕는 InteleOrchestrator Clarity를 선보인다. 자회사 Intelerad가 개발한 엔터프라이즈 워크플로 소프트웨어 InteleOrchestrator에 얹는 AI 계층이다."
+              },
+              {
+                "t": "p",
+                "x": "업체에 따르면 이 소프트웨어는 판독 워크플로 안에서 이전 판독문과 환자 병력을 출처와 연결된 요약으로 보여 준다. 근거 정보로 가는 링크가 함께 달려 있어 의사가 요약 내용을 직접 확인할 수 있다. GEHC는 의사가 소견을 구술하면 InteleOrchestrator Clarity가 구술 내용과 가용 정보를 모아 구조화된 판독문 초안을 만들고, 의사는 이를 검토해 필요한 부분을 고친 뒤 확정한다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "InteleOrchestrator Clarity는 현재 InteleOrchestrator Cloud를 통해 InteleOrchestrator 고객이 쓸 수 있다. GEHC는 시카고에서 열리는 RSNA 2026 연례 학술대회에서 이 소프트웨어를 시연한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "GE HealthCare\n読影レポートにAI層を追加",
+          "body": "InteleradのClarityは過去読影を出典付きで要約し、口述から報告書案を作る。",
+          "mini_headline": "GE、InteleOrchestratorにAIを追加",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "GE HealthCare（GEHC）は、放射線科医の要約作成とレポート作成を支援するInteleOrchestrator Clarityを投入する。同社のIntelerad部門が開発したエンタープライズ向けワークフローソフトウェアInteleOrchestratorに加わるAIレイヤーである。"
+              },
+              {
+                "t": "p",
+                "x": "ベンダーによると、このソフトウェアは読影ワークフローの中で、過去のレポートと患者の病歴を出典にリンクした要約として放射線科医に示す。元の情報へのリンクが付くため、医師は要約の内容を確かめられる。GEHCによれば、放射線科医が所見を口述すると、InteleOrchestrator Clarityが口述内容と利用可能な情報をまとめて構造化レポートの草案を作り、医師がそれを確認し、必要に応じて修正したうえで確定する。"
+              },
+              {
+                "t": "p",
+                "x": "InteleOrchestrator Clarityは現在、InteleOrchestrator Cloudを通じてInteleOrchestratorの顧客が利用できる。GEHCはシカゴで開かれるRSNA 2026年次総会でこのソフトウェアを披露する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "GE HealthCare\n为放射报告加入AI层",
+          "body": "Intelerad的Clarity以附来源的方式摘要既往报告，并据口述起草结构化报告。",
+          "mini_headline": "GE为InteleOrchestrator加入AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "GE HealthCare（GEHC）推出InteleOrchestrator Clarity，为放射科医生的摘要与报告工作提供支持。它是叠加在InteleOrchestrator企业工作流软件之上的AI层，该软件由公司旗下Intelerad部门开发。"
+              },
+              {
+                "t": "p",
+                "x": "据厂商介绍，该软件在阅片工作流中为放射科医生提供既往报告和患者病史的来源链接式摘要，并附上指向原始信息的链接，方便医生核实摘要内容。GEHC表示，放射科医生口述所见时，InteleOrchestrator Clarity会把口述内容与现有信息整合成结构化报告草稿，再由医生审阅、按需修改并最终定稿。"
+              },
+              {
+                "t": "p",
+                "x": "InteleOrchestrator Clarity现已通过InteleOrchestrator Cloud向InteleOrchestrator客户提供。GEHC将在芝加哥举行的RSNA 2026年会上演示该软件。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npj-tumor-board-ai",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "암 종양위원회에서\nAI가 아직 못 미치는 곳",
+      "body": "연구진은 증례 요약부터 결과 예측까지 AI 과제 세 가지를 정의해 한계를 짚었다.",
+      "mini_headline": "종양위원회 AI의 한계",
+      "tool": "Medicine",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03442-3",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "종양위원회는 병원에서 정기적으로 열리는 회의로, 암 전문의(예: 종양내과, 병리과)가 모여 환자 진료를 논의한다. 이 연구는 종양위원회 증례 요약, 치료 옵션 생성, 회의 결과 예측을 AI 과제로 공식 정의한다. 네 곳 의료기관의 데이터셋을 살피고 DeepSeek, GPT, Gemini, Qwen 계열의 최신 대규모 언어 모델(LLMs)을 전문가 평가로 검증한다."
+          },
+          {
+            "t": "p",
+            "x": "종양내과 전문의들이 과제 전반에서 만든 참조 텍스트는 약 9.6k 건, 인간 판단은 16k 건이다. 임상의들은 LLM-generated 증례 요약을 기관별로 5.0점 만점에 3.57–4.59점으로 평가했다. 권고안 생성은 평균 2.0–3.6점에 그쳐 여전히 더 어려운 과제였다."
+          },
+          {
+            "t": "p",
+            "x": "임상 정렬 분석에서 LLM-as-Judge 지표의 상관계수는 증례 요약 하위 과제에서 약 0.2로 크지 않았고 권고안 생성에서는 약 0.6으로 더 높았다. 연구진이 제안한 TBFact 지표는 더 긴 산문형 자유 텍스트에서 LLM-as-Judge 방식과 견줄 만했다."
+          },
+          {
+            "t": "p",
+            "x": "전문가들은 참조 텍스트와 크게 다른 응답에도 높은 점수를 자주 줬다. 참조 기반 자동 평가 지표의 전제가 흔들리는 대목이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Where AI still falls short\nat cancer tumor boards",
+          "body": "A study defines three AI tumor-board tasks, from case summaries to outcome prediction, and maps where models fall short.",
+          "mini_headline": "AI's tumor board limits",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La documentación en la EMR contribuye a la carga de trabajo de los médicos y reduce la interacción entre paciente y médico, y la oftalmología se ve especialmente afectada por sus requisitos de datos especializados. Este estudio comparó la documentación ambiental AI-assisted (asistida por IA) para la importación estructurada en la EMR con la introducción convencional en consultas oftalmológicas estandarizadas."
+                "x": "Tumor boards, recurring meetings at hospital institutions, assemble cancer specialists (e.g., medical oncology and pathology) to discuss patient care. In this work, we formally define tumor board case summarization, options generation, and meeting outcome prediction as AI tasks. We study datasets from four medical institutions and evaluate state-of-the-art large language models (LLMs) from the DeepSeek, GPT, Gemini, and Qwen families using expert human assessment."
               },
               {
                 "t": "p",
-                "x": "Un especialista y un residente realizaron diez escenarios oftalmológicos estandarizados en condiciones clásicas y AI-assisted. ChatGPT 5.3 y Claude Sonnet 4.6 usaron la transcripción de TurboScribe seguida de una salida estructurada de un LLM; Heidi 2.0.1 empleó un flujo de audio integrado. Todos buscaban la importación estructurada en una EMR oftalmológica (Heyex; Heidelberg Engineering)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
-                "cap": "Fig. 1: Componentes del tiempo de consulta: documentación clásica frente a documentación asistida por IA."
+                "x": "Medical oncologists created ~9.6k reference texts and 16k human judgments across tasks. Clinicians rated LLM-generated case summaries 3.57–4.59 out of 5.0 across institutions, but recommendation generation remained more challenging, with average scores of 2.0–3.6."
               },
               {
                 "t": "p",
-                "x": "La documentación AI-assisted redujo el tiempo total de consulta en 2,4 min (−32%) para el especialista y en 3,0 min (−37%) para el residente. El tiempo de documentación y revisión disminuyó un 85% y un 86%, y el tiempo con la mirada fuera del paciente, un 83% y un 86%; los desplazamientos de la mirada hacia el equipo informático se redujeron un 72% en ambos médicos."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig2_HTML.png",
-                "cap": "Fig. 2: Distribución por ítem de las valoraciones de precisión de la documentación según el sistema de IA."
+                "x": "Clinical alignment analyses showed modest correlations of ~0.2 for case summarization subtasks and higher correlations of ~0.6 for recommendation generation using LLM-as-Judge metrics. Our proposed TBFact metrics were competitive with LLM-as-Judge approaches in longer prose free-text settings."
               },
               {
                 "t": "p",
-                "x": "La precisión fue máxima con Claude Sonnet 4.6 (98,4 ± 2,9%), seguido de ChatGPT 5.3 (97,0 ± 5,1%) y Heidi 2.0.1 (88,6 ± 9,9%). Como solo se evaluó a un especialista y a un residente, estos resultados deben considerarse preliminares y generadores de hipótesis."
+                "x": "Experts also frequently assigned high ratings to responses that differed substantially from their reference texts, challenging assumptions underlying reference-based automatic evaluation metrics."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "암 종양위원회에서\nAI가 아직 못 미치는 곳",
+          "body": "연구진은 증례 요약부터 결과 예측까지 AI 과제 세 가지를 정의해 한계를 짚었다.",
+          "mini_headline": "종양위원회 AI의 한계",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "종양위원회는 병원에서 정기적으로 열리는 회의로, 암 전문의(예: 종양내과, 병리과)가 모여 환자 진료를 논의한다. 이 연구는 종양위원회 증례 요약, 치료 옵션 생성, 회의 결과 예측을 AI 과제로 공식 정의한다. 네 곳 의료기관의 데이터셋을 살피고 DeepSeek, GPT, Gemini, Qwen 계열의 최신 대규모 언어 모델(LLMs)을 전문가 평가로 검증한다."
+              },
+              {
+                "t": "p",
+                "x": "종양내과 전문의들이 과제 전반에서 만든 참조 텍스트는 약 9.6k 건, 인간 판단은 16k 건이다. 임상의들은 LLM-generated 증례 요약을 기관별로 5.0점 만점에 3.57–4.59점으로 평가했다. 권고안 생성은 평균 2.0–3.6점에 그쳐 여전히 더 어려운 과제였다."
+              },
+              {
+                "t": "p",
+                "x": "임상 정렬 분석에서 LLM-as-Judge 지표의 상관계수는 증례 요약 하위 과제에서 약 0.2로 크지 않았고 권고안 생성에서는 약 0.6으로 더 높았다. 연구진이 제안한 TBFact 지표는 더 긴 산문형 자유 텍스트에서 LLM-as-Judge 방식과 견줄 만했다."
+              },
+              {
+                "t": "p",
+                "x": "전문가들은 참조 텍스트와 크게 다른 응답에도 높은 점수를 자주 줬다. 참조 기반 자동 평가 지표의 전제가 흔들리는 대목이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "がん腫瘍会議で\nAIがまだ及ばない点",
+          "body": "ある研究が、症例要約から結果予測まで三つのAI課題を定義し、モデルの弱点を示した。",
+          "mini_headline": "腫瘍会議でのAIの限界",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "腫瘍会議は病院で定期的に開かれる会議で、がんの専門医(例:腫瘍内科、病理)が集まり患者のケアを議論する。本研究では、腫瘍会議の症例要約、選択肢の生成、会議結果の予測をAIタスクとして正式に定義する。四つの医療機関のデータセットを調べ、DeepSeek、GPT、Gemini、Qwenの各系列の最先端大規模言語モデル(LLMs)を専門家による人的評価で検証する。"
+              },
+              {
+                "t": "p",
+                "x": "腫瘍内科医はタスク全体で約9.6k 件の参照テキストと16k 件の人的判断を作成した。臨床医はLLM-generatedの症例要約を施設ごとに5.0点満点中3.57–4.59点と評価したが、推奨の生成はより難しく、平均スコアは2.0–3.6にとどまった。"
+              },
+              {
+                "t": "p",
+                "x": "臨床的整合性の分析では、LLM-as-Judge指標を用いた相関は症例要約のサブタスクで約0.2と控えめだったが、推奨の生成では約0.6と高かった。提案したTBFact指標は、より長い散文の自由記述ではLLM-as-Judge手法に匹敵した。"
+              },
+              {
+                "t": "p",
+                "x": "専門家は参照テキストと大きく異なる回答にも高評価を与えることが多く、参照に基づく自動評価指標の前提に疑問を投げかけた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI在肿瘤委员会\n仍有哪些短板",
+          "body": "一项研究定义了从病例摘要到结局预测的三项AI肿瘤委员会任务，并指出模型短板。",
+          "mini_headline": "肿瘤委员会AI的局限",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "肿瘤委员会是医院机构定期召开的会议，汇集癌症专科医生(如肿瘤内科和病理科)讨论患者诊疗。在本研究中，我们将肿瘤委员会病例摘要、方案生成和会议结果预测正式定义为AI任务。我们研究了来自四家医疗机构的数据集，并通过专家人工评估，评测了DeepSeek、GPT、Gemini和Qwen系列的最先进大语言模型(LLMs)。"
+              },
+              {
+                "t": "p",
+                "x": "肿瘤内科医生在各项任务中创建了约9.6k 份参考文本和16k 条人工判断。各机构临床医生对LLM-generated病例摘要的评分为3.57–4.59分(满分5.0)，但建议生成仍更具挑战，平均得分为2.0–3.6。"
+              },
+              {
+                "t": "p",
+                "x": "临床一致性分析显示，使用LLM-as-Judge指标时，病例摘要子任务的相关性约为0.2，较为有限；建议生成的相关性更高，约为0.6。我们提出的TBFact指标在较长的散文式自由文本场景中可与LLM-as-Judge方法媲美。"
+              },
+              {
+                "t": "p",
+                "x": "专家还经常给与其参考文本差异很大的回答打出高分，这对基于参考的自动评估指标背后的假设提出了挑战。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Dónde la AI aún se queda corta\nen los comités de tumores",
+          "body": "Un estudio define tres tareas de AI en comités de tumores, del resumen de casos a la predicción, y mapea sus fallos.",
+          "mini_headline": "Los límites de la AI en comités de tumores",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Los comités de tumores, reuniones periódicas en instituciones hospitalarias, reúnen a especialistas en cáncer (p. ej., oncología médica y patología) para discutir la atención de los pacientes. En este trabajo, definimos formalmente como tareas de AI el resumen de casos del comité de tumores, la generación de opciones y la predicción del resultado de la reunión. Estudiamos conjuntos de datos de cuatro instituciones médicas y evaluamos modelos de lenguaje grandes (LLMs) de última generación de las familias DeepSeek, GPT, Gemini y Qwen mediante evaluación humana experta."
+              },
+              {
+                "t": "p",
+                "x": "Los oncólogos médicos crearon ~9.6k textos de referencia y 16k juicios humanos en todas las tareas. Los clínicos calificaron los resúmenes de casos LLM-generated entre 3.57–4.59 sobre 5.0 en las distintas instituciones, pero la generación de recomendaciones siguió siendo más difícil, con puntuaciones medias de 2.0–3.6."
+              },
+              {
+                "t": "p",
+                "x": "Los análisis de alineación clínica mostraron correlaciones modestas de ~0.2 para las subtareas de resumen de casos y correlaciones más altas de ~0.6 para la generación de recomendaciones con métricas LLM-as-Judge. Nuestras métricas TBFact propuestas fueron competitivas frente a los enfoques LLM-as-Judge en contextos de texto libre en prosa más extensa."
+              },
+              {
+                "t": "p",
+                "x": "Los expertos también asignaron con frecuencia puntuaciones altas a respuestas que diferían sustancialmente de sus textos de referencia, lo que cuestiona los supuestos en que se basan las métricas de evaluación automática basadas en referencias."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "암 종양위원회에서\nAI가 아직 부족한 곳",
+          "body": "연구는 증례 요약부터 결과 예측까지 세 가지 AI 과제를 정의해 한계를 짚었다.",
+          "mini_headline": "종양위원회 AI의 한계",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "종양위원회는 병원 기관에서 정기적으로 열리는 회의로, 암 전문의(예: 종양내과, 병리과)가 모여 환자 진료를 논의한다. 이 연구에서 우리는 종양위원회 증례 요약, 치료 옵션 생성, 회의 결과 예측을 AI 과제로 공식 정의한다. 네 곳 의료기관의 데이터셋을 살피고, DeepSeek, GPT, Gemini, Qwen 계열의 최신 대규모 언어 모델(LLMs)을 전문가 평가로 검증한다."
+              },
+              {
+                "t": "p",
+                "x": "종양내과 전문의들은 과제 전반에 걸쳐 약 9.6k 건의 참조 텍스트와 16k 건의 인간 판단을 만들었다. 임상의들은 LLM-generated 증례 요약을 기관별로 5.0점 만점에 3.57–4.59점으로 평가했지만, 권고안 생성은 평균 2.0–3.6점으로 여전히 더 어려웠다."
+              },
+              {
+                "t": "p",
+                "x": "임상 정렬 분석에서 LLM-as-Judge 지표를 쓴 상관계수는 증례 요약 하위 과제에서 약 0.2로 크지 않았고, 권고안 생성에서는 약 0.6으로 더 높았다. 우리가 제안한 TBFact 지표는 더 긴 산문형 자유 텍스트 환경에서 LLM-as-Judge 방식에 견줄 만했다."
+              },
+              {
+                "t": "p",
+                "x": "전문가들은 또 참조 텍스트와 크게 다른 응답에도 자주 높은 점수를 줬는데, 이는 참조 기반 자동 평가 지표의 전제를 흔든다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "がん腫瘍会議で\nAIがまだ及ばない点",
+          "body": "ある研究が、症例要約から結果予測まで三つのAI課題を定義し、モデルの弱点を示した。",
+          "mini_headline": "腫瘍会議でのAIの限界",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "腫瘍会議は病院で定期的に開かれる会議で、がんの専門医(例:腫瘍内科、病理)が集まり患者のケアを議論する。本研究では、腫瘍会議の症例要約、選択肢の生成、会議結果の予測をAIタスクとして正式に定義する。四つの医療機関のデータセットを調べ、DeepSeek、GPT、Gemini、Qwenの各系列の最先端大規模言語モデル(LLMs)を専門家による人的評価で検証する。"
+              },
+              {
+                "t": "p",
+                "x": "腫瘍内科医はタスク全体で約9.6k 件の参照テキストと16k 件の人的判断を作成した。臨床医はLLM-generatedの症例要約を施設ごとに5.0点満点中3.57–4.59点と評価したが、推奨の生成はより難しく、平均スコアは2.0–3.6にとどまった。"
+              },
+              {
+                "t": "p",
+                "x": "臨床的整合性の分析では、LLM-as-Judge指標を用いた相関は症例要約のサブタスクで約0.2と控えめだったが、推奨の生成では約0.6と高かった。提案したTBFact指標は、より長い散文の自由記述ではLLM-as-Judge手法に匹敵した。"
+              },
+              {
+                "t": "p",
+                "x": "専門家は参照テキストと大きく異なる回答にも高評価を与えることが多く、参照に基づく自動評価指標の前提に疑問を投げかけた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI在肿瘤委员会\n仍有哪些短板",
+          "body": "一项研究定义了从病例摘要到结局预测的三项AI肿瘤委员会任务，并指出模型短板。",
+          "mini_headline": "肿瘤委员会AI的局限",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "肿瘤委员会是医院机构定期召开的会议，汇集癌症专科医生(如肿瘤内科和病理科)讨论患者诊疗。在本研究中，我们将肿瘤委员会病例摘要、方案生成和会议结果预测正式定义为AI任务。我们研究了来自四家医疗机构的数据集，并通过专家人工评估，评测了DeepSeek、GPT、Gemini和Qwen系列的最先进大语言模型(LLMs)。"
+              },
+              {
+                "t": "p",
+                "x": "肿瘤内科医生在各项任务中创建了约9.6k 份参考文本和16k 条人工判断。各机构临床医生对LLM-generated病例摘要的评分为3.57–4.59分(满分5.0)，但建议生成仍更具挑战，平均得分为2.0–3.6。"
+              },
+              {
+                "t": "p",
+                "x": "临床一致性分析显示，使用LLM-as-Judge指标时，病例摘要子任务的相关性约为0.2，较为有限；建议生成的相关性更高，约为0.6。我们提出的TBFact指标在较长的散文式自由文本场景中可与LLM-as-Judge方法媲美。"
+              },
+              {
+                "t": "p",
+                "x": "专家还经常给与其参考文本差异很大的回答打出高分，这对基于参考的自动评估指标背后的假设提出了挑战。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Dónde la AI aún se queda corta\nen los comités de tumores",
+          "body": "Un estudio define tres tareas de AI en comités de tumores, del resumen de casos a la predicción, y mapea sus fallos.",
+          "mini_headline": "Los límites de la AI en comités de tumores",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Los comités de tumores, reuniones periódicas en instituciones hospitalarias, reúnen a especialistas en cáncer (p. ej., oncología médica y patología) para discutir la atención de los pacientes. En este trabajo, definimos formalmente como tareas de AI el resumen de casos del comité de tumores, la generación de opciones y la predicción del resultado de la reunión. Estudiamos conjuntos de datos de cuatro instituciones médicas y evaluamos modelos de lenguaje grandes (LLMs) de última generación de las familias DeepSeek, GPT, Gemini y Qwen mediante evaluación humana experta."
+              },
+              {
+                "t": "p",
+                "x": "Los oncólogos médicos crearon ~9.6k textos de referencia y 16k juicios humanos en todas las tareas. Los clínicos calificaron los resúmenes de casos LLM-generated entre 3.57–4.59 sobre 5.0 en las distintas instituciones, pero la generación de recomendaciones siguió siendo más difícil, con puntuaciones medias de 2.0–3.6."
+              },
+              {
+                "t": "p",
+                "x": "Los análisis de alineación clínica mostraron correlaciones modestas de ~0.2 para las subtareas de resumen de casos y correlaciones más altas de ~0.6 para la generación de recomendaciones con métricas LLM-as-Judge. Nuestras métricas TBFact propuestas fueron competitivas frente a los enfoques LLM-as-Judge en contextos de texto libre en prosa más extensa."
+              },
+              {
+                "t": "p",
+                "x": "Los expertos también asignaron con frecuencia puntuaciones altas a respuestas que diferían sustancialmente de sus textos de referencia, lo que cuestiona los supuestos en que se basan las métricas de evaluación automática basadas en referencias."
               }
             ]
           }

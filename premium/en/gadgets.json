@@ -13588,6 +13588,134 @@
           "x": "The safer route is ESP32 modules — cheap, hacker-friendly boards behind devices like the M5Stack PaperMono — and Meta's Muse Charm and Muse Gadgets program. Gathin's advice: never give the bots access to something you can't afford to lose, and make lots of backups."
         }
       ]
+    },
+    "gadgets/honor-magic9-promax-global": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
+        },
+        {
+          "t": "p",
+          "x": "HONOR has launched the Magic 9 Pro Max in Malaysia, the phone's first release outside China. It has a recommended price of 5,999 Malaysian Ringgits (~$1,457) and comes only in a 12GB/512GB configuration; pre-orders from November 24 to December 3 get a gift bundle that includes three months of free Google AI Pro."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The camera system is built with cinema camera maker ARRI: a 200MP 1/1.28-inch main camera, a 200MP 85mm telephoto, a 50MP ultrawide and a square 55MP selfie camera. Video is its biggest strength, with 4K/120fps, ARRI Cinema Mode and ARRI Looks, LUT and LogC3 support, the APV codec, and a Magic Color for Video feature that analyzes the colors of a reference clip and applies that look to new footage."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Inside are a Snapdragon 8 Elite Extreme Gen 6 chipset and a 6.8-inch LTPO OLED panel rated up to 10,000 nits peak. MagicOS 11 adds notification summaries and a Payment Trust Space feature, and the phone gets a dedicated camera key plus an AI button for “context-aware” assistance. Double-clicking it triggers Highlight Clip Capture to grab a snippet of a video and then generate subtitles; it doesn't work with DRM-protected video such as Netflix streams."
+        }
+      ]
+    },
+    "gadgets/foundation-phantom-mkii": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
+          "cap": "Source: Foundation Robotics"
+        },
+        {
+          "t": "video",
+          "yt": "la43cmm6YMQ"
+        },
+        {
+          "t": "p",
+          "x": "A humanoid robot said to carry loads as heavy as its own body weight has been unveiled."
+        },
+        {
+          "t": "p",
+          "x": "American robotics company Foundation Future Industries unveiled its 2nd-generation humanoid robot 'Phantom MKII' on the 18th (local time). The robot stands about 183cm tall, weighs about 88kg and can carry loads of up to 90kg. It is designed to run for 4 to 6 hours on a single charge."
+        },
+        {
+          "t": "p",
+          "x": "With an IP67 dust and water resistance rating, it can work in rainy and dusty environments, and it is built so that broken joints can be replaced. It can use AI to learn from human task demonstrations, and it aims to haul heavy objects or take over dangerous work at factories, construction sites and mines. The company plans to start production in early 2027."
+        }
+      ]
+    },
+    "gadgets/gadgets-ax-appliance-center": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
+          "cap": "Lee Min-woo, head of the Industrial Growth Office at the Ministry of Industry and Trade, attends the opening ceremony of the 'Home Appliance AX Commercialization Support Center' at the Electronics Manufacturing Support Center in Yongsan-gu, Seoul, on the 24th. Courtesy of the Ministry of Industry and Trade"
+        },
+        {
+          "t": "p",
+          "x": "On the 24th, the Ministry of Industry and Trade held an opening ceremony for the 'Home Appliance AX Commercialization Support Center' at the Electronics Manufacturing Support Center in Yongsan-gu, Seoul, and announced an 'AI Home Appliance Training Data Roadmap.' The facility supports the full cycle from AX appliance development to commercial product launch and is expected to ease the shortage of AX development equipment and data faced by small and mid-sized appliance companies."
+        },
+        {
+          "t": "p",
+          "x": "The center upgrades the Electronics Manufacturing Support Center, which KEA has run since 2021, into a hub for AX development of home appliances. A total of 170억원 (including 100억원 in government funds) will be invested from 2026 to 2030 to build and open 13 types of equipment, including AI board manufacturing facilities and performance testing equipment, and dedicated engineers will closely support the whole process of design, prototyping, verification and initial mass production. The center will help companies add AI functions while keeping changes to existing product designs to a minimum, and will link them to the use of domestic AI chips."
+        },
+        {
+          "t": "p",
+          "x": "The training data roadmap will build 15 types of common core data from 2027 to 2031, 3 types each year. The 15 core data sets were identified through a corporate demand survey and in-depth interviews, and they will be shared on a dedicated platform from 2028."
+        },
+        {
+          "t": "p",
+          "x": "Products from 5 participating companies were also exhibited on site: Beyond Honeycomb (AI automatic cooking robot), Emma Healthcare (AI baby bed that measures vital signs without contact), Geeksloft (AI headphones), Otiton Medical (smart ear thermometer and diagnostic platform) and Mobilint (domestic on-device AI chips and edge solutions). Lee said, “To sustain the competitiveness of the home appliance industry, AX in manufacturing processes and product innovation must go hand in hand.”"
+        }
+      ]
+    },
+    "gadgets/galaxy-s27u-laser-af-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
+          "cap": "Samsung Galaxy S27 Ultra's design is allegedly a major departure from the Galaxy S26 Ultra."
+        },
+        {
+          "t": "p",
+          "x": "After earlier reports of Samsung ditching the 3x optical zoom camera on the Galaxy S27 Ultra, leaker Ice Universe now alleges that Samsung is also removing the laser autofocus module from its back camera array. The leaker claims the leak is confirmed, which is why recent design renders don't depict the module. If true, it will be the first Galaxy Ultra phone since the Galaxy S21 Ultra to launch without laser autofocus, and the smaller Galaxy S27 Pro won't have one either."
+        },
+        {
+          "t": "p",
+          "x": "Ice Universe alleges the Galaxy S27 Ultra will rely on AI focus technology instead. The leaked rear setup: a 200 MP 1/1.3\" main camera with OIS, a 50 MP 1/2.55\" 5x periscope optical zoom, and a 50 MP 1/2.5\" 120˚ ultrawide."
+        },
+        {
+          "t": "p",
+          "x": "Samsung has included laser autofocus in Galaxy Ultra phones for the past 5 years: the Galaxy S20 Ultra, which relied solely on PDAF, had serious focus hunting issues early on, and Samsung added the laser module in the Galaxy S21 Ultra to mitigate them."
+        }
+      ]
+    },
+    "gadgets/dutch-ap-camera-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
+          "cap": "Image Credits:David Paul Morris/Bloomberg / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The Dutch Data Protection Authority is urging consumers not to buy AI-enabled camera glasses, warning that they compromise the privacy of nearby bystanders and risk the safety of their users."
+        },
+        {
+          "t": "p",
+          "x": "The authority, whose recent statement falls just short of an outright ban, said that use of the internet-enabled and always-on glasses to record people in public is “almost always prohibited.”"
+        },
+        {
+          "t": "p",
+          "x": "Critics have dubbed these smart wearables as “pervert glasses” for their propensity to be used to video people without their permission, particularly to harass women. While some glasses have warning lights when users are recording, privacy advocates have argued that these alerts are not clear enough. Some people have even made phone apps capable of detecting nearby smart glasses wearers."
+        },
+        {
+          "t": "p",
+          "x": "The Dutch data protection authority warned that the glasses also produce wrong results and unsafe results. In one test carried out by the Dutch authority, a pair of unnamed glasses “gave dating advice to an adult who indicated that they are interested in a minor.” The glasses also incorrectly read a medicine label and claimed to have called an ambulance when it had not."
+        },
+        {
+          "t": "p",
+          "x": "The Dutch government’s advice follows a similar move by the Norwegian government, which in September said it was considering a ban on camera-enabled devices."
+        }
+      ]
     }
   }
 }

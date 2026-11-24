@@ -11847,6 +11847,114 @@
           "x": "论文《Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy》（K. Hirashima et al.）已在11月15–20日于芝加哥举行的高性能计算、网络、存储与分析国际会议SC 2026上发表。"
         }
       ]
+    },
+    "science/utokyo-materials-extrapolation-gnn": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+          "cap": "研究团队帮助机器学习模型预测训练数据范围之外材料性质的方法。图片来源：东京大学生产技术研究所（Institute of Industrial Science, The University of Tokyo）"
+        },
+        {
+          "t": "p",
+          "x": "机器学习模型在训练数据范围内预测效果良好，但面对与以往所见截然不同的材料时往往力不从心，这成为材料发现的难题。作者写道：“材料发现本质上是一个外推问题。”"
+        },
+        {
+          "t": "p",
+          "x": "东京大学的研究人员提出了解耦迁移学习：由预训练的图神经网络提取结构特征，再由更简单的回归模型预测目标性质。该方法用截至2018年的Materials Project数据训练，并在截至2021年新增的材料上测试，与广泛使用的端到端图神经网络CGCNN相比，预测误差降低了68%。"
+        },
+        {
+          "t": "p",
+          "x": "当新材料延续熟悉的化学或结构模式时，该方法效果最好；在代表性不足的化学或电子区域则不太可靠。它无需大规模重新训练。研究发表于PRX Intelligence。"
+        }
+      ]
+    },
+    "science/uci-pmpg-fluid-flow-reconstruction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+          "cap": "图片来源：Unsplash/CC0 公有领域"
+        },
+        {
+          "t": "p",
+          "x": "UC Irvine的研究人员开发了PMPG-NN，将神经网络与最小压力梯度原理相结合，能从有限且含噪声的测量数据中重建流场，同时与流体物理保持一致。它不需要直接测量压力。"
+        },
+        {
+          "t": "p",
+          "x": "在球体绕流、相互作用的涡旋以及随时间变化的通道流中测试时，它在强噪声和稀疏数据条件下表现尤为出色，并改进了速度梯度估计。"
+        },
+        {
+          "t": "p",
+          "x": "项目负责人Arash Kheradvar表示：“每一种医学成像技术在可测量的内容上都有固有局限。”作者认为它可用于心血管成像（Echo-PIV和4D Flow MRI）及航空航天领域，但仍需实验和临床验证。研究发表于Physics of Fluids。"
+        }
+      ]
+    },
+    "science/fau-beluga-drone-tracking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+          "cap": "标注比例1%（34张标注图像）时的定性检测结果：带标注的测试图像（A）与训练中未见过的无标注图像（B）。来源：Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
+        },
+        {
+          "t": "p",
+          "x": "佛罗里达大西洋大学的研究人员与加拿大渔业和海洋部、曼尼托巴大学合作，利用深度学习在连续航拍图像中检测和追踪白鲸。"
+        },
+        {
+          "t": "p",
+          "x": "他们使用7,655张高分辨率无人机图像，每头鲸都标注为成年或幼崽，在1%到50%的标注数据比例下训练并比较了五个AI模型。半监督模型SEMI-DETR仅用34张标注图像就达到19.2的平均精度均值，比最佳监督模型相对提升20%。在1%的标注水平下，幼崽检测提升24.3%，成年个体为16.8%。"
+        },
+        {
+          "t": "p",
+          "x": "达到相当性能所需的标注量约少五到10倍。研究发表于《Frontiers in Marine Science》。"
+        }
+      ]
+    },
+    "science/qwen3-quantum-circuit-layers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "研究人员将一个大语言模型的八层替换为可在量子处理器上运行的紧凑模块，在模拟中模型预测文本的能力几乎没有变化，参数量却减少了约16%。"
+        },
+        {
+          "t": "p",
+          "x": "这支来自Multiverse Computing和多伦多大学的团队修改了一个拥有305亿参数的预训练Qwen3模型，移除了连续八个模块（近50亿参数），并以一个仅含145,281个可训练参数的模块取而代之。在WikiText-2上困惑度变差0.9%，在C4上则没有明显差异。"
+        },
+        {
+          "t": "p",
+          "x": "这些电路还在156量子比特的IBM Heron处理器上运行，每个token约需一分半钟。规模大致相同的传统网络几乎在所有比较中都能更好地预测文本。该研究为arXiv预印本。"
+        }
+      ]
+    },
+    "science/science-mit-multilingual-brain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
+          "cap": "Fedorenko实验室的新研究首次利用多语言模型预测多种语言下的大脑反应。图片：iStock"
+        },
+        {
+          "t": "p",
+          "x": "尽管语言世界千差万别，MIT的一项研究发现，人脑可能以一种普遍的方式处理各种语言。在发表于Nature Neuroscience的这项研究中，研究人员利用多语言模型预测人脑对不同语言的反应，并在合计使用21种不同语言的人群中发现了共同的大脑处理过程。"
+        },
+        {
+          "t": "p",
+          "x": "de Varda利用机器学习，将多语言模型的编码与人们执行语言任务时的脑部扫描结合，构建出编码模型。Fedorenko实验室已有12种语言使用者的成像数据，又招募了另外九种语言的使用者，包括韩语、印地语、阿拉伯语和普通话，他们用母语收听《爱丽丝梦游仙境》（Alice in Wonderland）中的故事。"
+        },
+        {
+          "t": "p",
+          "x": "编码模型准确预测了全部21种语言中的大脑反应。用一种语言训练的模型能预测它从未见过的语言的大脑活动：用法语训练的模型也能预测越南语的反应。分析表明，这一共同成分与意义有关。"
+        },
+        {
+          "t": "p",
+          "x": "“大脑的沟通方式中存在某种根本上相似的东西，”资深作者Evelina Fedorenko说。这项研究或有助于临床AI语言工具惠及更多语言的使用者，未来也可能帮助保护濒危语言。"
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "section": "marketing",
   "cards": [
     {
-      "id": "chatgpt-orchestrator-adqueries",
+      "id": "chatgpt-health-ads-webmd",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT 광고 AI가\n광고주 모르게 쿼리 작성",
-      "body": "OpenAI 내부 에이전트가 대화 기록을 보고 짠 광고 쿼리를 광고주는 못 본다.",
-      "mini_headline": "ChatGPT 광고, 숨은 쿼리로 매칭",
+      "headline": "ChatGPT 광고,\n헬스케어에 문 연다",
+      "body": "OpenAI 빗장 풀자 WebMD Ignite가 병원에 ChatGPT 광고를 판다.",
+      "mini_headline": "ChatGPT, 건강 광고 허용",
       "tool": "Marketing",
-      "source": "ADWEEK",
-      "url": "https://www.adweek.com/media/chatgpts-agent-writes-its-own-queries-to-serve-ads-advertisers-dont-get-to-see-them/",
+      "source": "AdExchanger",
+      "url": "https://www.adexchanger.com/marketers/healthcare-ads-are-coming-to-chatgpt/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,179 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
-            "cap": "Picture Alliance via Getty Images"
+            "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
           },
           {
             "t": "p",
-            "x": "ChatGPT 광고 시스템이 2월 출시된 뒤로 광고 구매자들은 작동 방식을 더 알려 달라고 거듭 요구해 왔다. 경영진은 그 내용을 조금씩 풀어놓는 중이다."
+            "x": "OpenAI는 1월 ChatGPT에 곧 광고를 싣겠다며 광고가 “건강, 정신 건강, 정치처럼 민감하거나 규제받는 주제 근처에는 노출될 수 없다”고 밝혔다. 헬스케어 광고는 아예 막았다. 그러다 광고 사업이 자리를 잡자 받는 광고주 범위를 넓히기 시작했다."
           },
           {
             "t": "p",
-            "x": "OpenAI는 자체 AI 에이전트가 짠 검색 쿼리에 맞춰 ChatGPT 광고를 붙인다. 이 AI 연구소에서 광고 시스템을 이끄는 경영진 세 명이 ADWEEK에 한 설명이다."
+            "x": "WebMD의 헬스케어 기업 부문 WebMD Ignite가 화요일 ChatGPT 광고 상품을 내놨다. ChatGPT Ads 최신 정책은 미국(US)에서는 재량을 더 주지만, 다른 나라에서는 건강 관련 광고가 여전히 “원칙적으로 금지”다. OpenAI는 병원·응급진료, 건강보험, 건강기능식품, 소비자용 의료기기 광고를 사안별로 받을 수 있는데, 지금까지는 보험사는 빼고 의료 시스템과 의료 제공자 광고만 허용했다."
           },
           {
             "t": "p",
-            "x": "사용자가 ChatGPT에 프롬프트를 넣으면 OpenAI가 오케스트레이터(orchestrator)라 부르는 AI 에이전트가 대화를 읽고 그 사람이 무엇을 사고 싶어 하는지 가늠한다. 광고 개인화 설정이 허용돼 있으면 이전 대화도 참고할 수 있다. 그다음 검색 쿼리를 직접 쓰고 시스템에서 찾은 광고에 순위를 매겨 가장 알맞은 후보를 경매에 올린다. 경매에서는 광고주 입찰가와 그 광고가 사용자에게 얼마나 쓸모 있을지를 함께 본다."
+            "x": "미국인의 30% 이상이 AI 챗봇에 건강 조언을 구해 봤다. 그래서 의료 제공자들은 LLMs 안에서 “존재하고 발견될 수 있기”를 원한다고 WebMD Ignite 사장 Ann Bilyew는 말했다. 광고는 “홍보가 아닌 정보 제공”이어야 하고, 건강 상태가 “강하게 암시”되기만 해도 그 대화에는 붙지 않는다. 고객사는 조회수와 클릭 수는 보지만 광고가 어떤 콘텐츠 옆에 떴는지는 알 수 없다."
           },
           {
             "t": "p",
-            "x": "광고주는 자기 광고가 왜 노출됐는지 알 길이 없다. 프롬프트 단위 데이터 없이 ChatGPT 광고 성과를 집계한 보고만 받다 보니 많은 광고주가 이 플랫폼을 테스트 예산으로 돌린다. 구매자들은 ChatGPT 광고의 CTR이 Google보다 낮다는 사실도 확인했다. OpenAI의 연환산 광고 매출 $1 billion 은 지금 보유한 것에 비하면 \"훨씬 작은 규모\"다."
+            "x": "WebMD Ignite는 한 대학병원 심장내과 광고로 크리에이티브 변형 약 100가지를 시험하며 검색 광고 성과와 견줘 왔다. Bilyew는 “고객에게 전하는 메시지는 ‘일단 들어가서 배우기 시작하라’는 것”이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ChatGPT's ad agent writes\nqueries advertisers can't see",
-          "body": "OpenAI says an internal agent writes ad-matching queries from chat history, and advertisers never see them.",
-          "mini_headline": "ChatGPT ads use hidden queries",
+          "headline": "ChatGPT opens its ads\nto healthcare marketers",
+          "body": "WebMD Ignite now sells ChatGPT ads to hospitals after OpenAI eased its early ban on health ads.",
+          "mini_headline": "ChatGPT allows health ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
-                "cap": "Picture Alliance via Getty Images"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "Buyers have been clamoring to understand more about ChatGPT’s ads system since it launched in February. Executives have been slowly revealing more."
+                "x": "When OpenAI announced in January that ChatGPT would soon be serving ads, it said ads were “not eligible to appear near sensitive or regulated topics like health, mental health or politics,” and healthcare ads were entirely prohibited. As its ads business matures, it has begun to expand which advertisers it permits."
               },
               {
                 "t": "p",
-                "x": "OpenAI matches ChatGPT ads to search queries written by its own AI agent, three executives who run the AI lab’s ad system told ADWEEK."
+                "x": "On Tuesday, WebMD Ignite, the healthcare enterprise division of WebMD, announced its ChatGPT ads offering. ChatGPT Ads’ latest policies offer more leeway in the US, though health-related ads are still “generally prohibited” in other countries. OpenAI may accept ads case by case for hospital and urgent care, health insurance, dietary supplements and consumer medical devices; so far it has permitted ads only from health systems and providers, not insurers."
               },
               {
                 "t": "p",
-                "x": "When a user writes a prompt in ChatGPT, an AI agent OpenAI calls the orchestrator reads the conversation and works out what the person might want to buy. It can also draw on the user’s previous chats when the user’s ad personalization settings allow it. It then writes its own search queries, ranks the ads it finds in its system, and sends the best candidates to an auction that weighs advertisers’ bids against how useful each ad is likely to be to the user."
+                "x": "Over 30% of Americans have used AI chatbots for health advice, so providers want to be “present and discoverable” in LLMs, said Ann Bilyew, president of WebMD Ignite. Ads must be “informational, not promotional,” and won’t run in conversations where a health condition is even “strongly implied.” Clients see views and clicks, but not the content their ads appear next to."
               },
               {
                 "t": "p",
-                "x": "Advertisers can't see what prompted their ads to appear: they receive only aggregate reporting on ChatGPT ad performance, not prompt-level data, leaving many to treat the platform as test spend. Buyers have found that ChatGPT's ad CTR lags Google's, and OpenAI's $1 billion annualized ad run rate is already \"a much smaller footprint\" than what it has now."
+                "x": "WebMD Ignite has been testing roughly 100 creative variations for an academic medical center’s cardiology division and comparing results to paid search. “Our message to clients is, ‘Look, just get in there and start learning,’” Bilyew said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT 광고 AI가\n광고주 모르게 쿼리 작성",
-          "body": "OpenAI 내부 에이전트가 대화 기록을 보고 짠 광고 쿼리를 광고주는 못 본다.",
-          "mini_headline": "ChatGPT 광고, 숨은 쿼리로 매칭",
+          "headline": "ChatGPT 광고,\n헬스케어에 문 연다",
+          "body": "OpenAI 빗장 풀자 WebMD Ignite가 병원에 ChatGPT 광고를 판다.",
+          "mini_headline": "ChatGPT, 건강 광고 허용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
-                "cap": "Picture Alliance via Getty Images"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "ChatGPT 광고 시스템이 2월 출시된 뒤로 광고 구매자들은 작동 방식을 더 알려 달라고 거듭 요구해 왔다. 경영진은 그 내용을 조금씩 풀어놓는 중이다."
+                "x": "OpenAI는 1월 ChatGPT에 곧 광고를 싣겠다며 광고가 “건강, 정신 건강, 정치처럼 민감하거나 규제받는 주제 근처에는 노출될 수 없다”고 밝혔다. 헬스케어 광고는 아예 막았다. 그러다 광고 사업이 자리를 잡자 받는 광고주 범위를 넓히기 시작했다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 자체 AI 에이전트가 짠 검색 쿼리에 맞춰 ChatGPT 광고를 붙인다. 이 AI 연구소에서 광고 시스템을 이끄는 경영진 세 명이 ADWEEK에 한 설명이다."
+                "x": "WebMD의 헬스케어 기업 부문 WebMD Ignite가 화요일 ChatGPT 광고 상품을 내놨다. ChatGPT Ads 최신 정책은 미국(US)에서는 재량을 더 주지만, 다른 나라에서는 건강 관련 광고가 여전히 “원칙적으로 금지”다. OpenAI는 병원·응급진료, 건강보험, 건강기능식품, 소비자용 의료기기 광고를 사안별로 받을 수 있는데, 지금까지는 보험사는 빼고 의료 시스템과 의료 제공자 광고만 허용했다."
               },
               {
                 "t": "p",
-                "x": "사용자가 ChatGPT에 프롬프트를 넣으면 OpenAI가 오케스트레이터(orchestrator)라 부르는 AI 에이전트가 대화를 읽고 그 사람이 무엇을 사고 싶어 하는지 가늠한다. 광고 개인화 설정이 허용돼 있으면 이전 대화도 참고할 수 있다. 그다음 검색 쿼리를 직접 쓰고 시스템에서 찾은 광고에 순위를 매겨 가장 알맞은 후보를 경매에 올린다. 경매에서는 광고주 입찰가와 그 광고가 사용자에게 얼마나 쓸모 있을지를 함께 본다."
+                "x": "미국인의 30% 이상이 AI 챗봇에 건강 조언을 구해 봤다. 그래서 의료 제공자들은 LLMs 안에서 “존재하고 발견될 수 있기”를 원한다고 WebMD Ignite 사장 Ann Bilyew는 말했다. 광고는 “홍보가 아닌 정보 제공”이어야 하고, 건강 상태가 “강하게 암시”되기만 해도 그 대화에는 붙지 않는다. 고객사는 조회수와 클릭 수는 보지만 광고가 어떤 콘텐츠 옆에 떴는지는 알 수 없다."
               },
               {
                 "t": "p",
-                "x": "광고주는 자기 광고가 왜 노출됐는지 알 길이 없다. 프롬프트 단위 데이터 없이 ChatGPT 광고 성과를 집계한 보고만 받다 보니 많은 광고주가 이 플랫폼을 테스트 예산으로 돌린다. 구매자들은 ChatGPT 광고의 CTR이 Google보다 낮다는 사실도 확인했다. OpenAI의 연환산 광고 매출 $1 billion 은 지금 보유한 것에 비하면 \"훨씬 작은 규모\"다."
+                "x": "WebMD Ignite는 한 대학병원 심장내과 광고로 크리에이티브 변형 약 100가지를 시험하며 검색 광고 성과와 견줘 왔다. Bilyew는 “고객에게 전하는 메시지는 ‘일단 들어가서 배우기 시작하라’는 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPTの広告AIが\n広告主に見えない検索語を書く",
-          "body": "OpenAIによると、社内エージェントが会話履歴から広告クエリを作り、広告主には見えない。",
-          "mini_headline": "ChatGPT広告は非公開クエリで照合",
+          "headline": "ChatGPT広告、\n医療業界に開放",
+          "body": "OpenAIの規制緩和を受け、WebMD Igniteが病院にChatGPT広告を売る。",
+          "mini_headline": "ChatGPT、健康広告を解禁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
-                "cap": "Picture Alliance via Getty Images"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "ChatGPTの広告システムが2月に始まって以来、広告バイヤーはその仕組みをもっと知りたいと求めてきた。幹部は少しずつ詳細を明かしている。"
+                "x": "OpenAIは1月、ChatGPTで近く広告を配信すると発表した際、広告は「健康、メンタルヘルス、政治など、センシティブまたは規制対象のトピックの近くには表示されない」とし、ヘルスケア広告を全面的に禁止していた。広告事業が成熟するにつれ、受け入れる広告主の範囲を広げ始めている。"
               },
               {
                 "t": "p",
-                "x": "OpenAIは自社のAIエージェントが書いた検索クエリにChatGPT広告を照合していると、同AIラボの広告システムを率いる幹部三人がADWEEKに語った。"
+                "x": "火曜日、WebMDのヘルスケア企業部門であるWebMD IgniteがChatGPT広告の提供を発表した。ChatGPT Adsの最新ポリシーは米国(US)ではより大きな裁量を認める一方、他の国では健康関連広告は依然として「原則禁止」だ。OpenAIは病院・救急医療、医療保険、栄養補助食品、消費者向け医療機器の広告を個別に受け付ける可能性があるが、これまで認めたのは保険会社ではなく医療システムと医療提供者の広告のみだ。"
               },
               {
                 "t": "p",
-                "x": "ユーザーがChatGPTにプロンプトを書くと、OpenAIが「オーケストレーター（orchestrator）」と呼ぶAIエージェントが会話を読み、その人が何を買いたいと考えているかを推測する。ユーザーの広告パーソナライズ設定が許せば、過去のチャットも参照できる。続いて独自の検索クエリを書き、システム内で見つけた広告を順位付けし、有力な候補をオークションに送る。オークションでは、広告主の入札額と、各広告がユーザーにとってどれだけ役立ちそうかを比べて判断する。"
+                "x": "米国人の30%以上がAIチャットボットに健康相談をしたことがあり、医療提供者はLLMsの中で「存在し、見つけてもらえる」ことを望んでいると、WebMD Ignite社長のAnn Bilyewは語った。広告は「宣伝ではなく情報提供」でなければならず、健康状態が「強く示唆される」だけの会話にも表示されない。クライアントは閲覧数とクリック数を確認できるが、広告がどのコンテンツの隣に表示されたかは見られない。"
               },
               {
                 "t": "p",
-                "x": "広告主は、何がきっかけで自社の広告が表示されたのかを知ることができない。受け取るのはプロンプト単位のデータではなく、ChatGPT広告の成果に関する集計レポートだけで、多くの広告主はこのプラットフォームをテスト予算として扱っている。バイヤーはChatGPT広告のCTRがGoogleを下回ることを確認しており、OpenAIの年換算広告売上$1 billion は、すでに現在の規模に比べ「はるかに小さな規模」だという。"
+                "x": "WebMD Igniteはある大学医療センターの循環器部門向けに約100通りのクリエイティブを試し、検索広告の成果と比較してきた。「クライアントへのメッセージは『とにかく飛び込んで学び始めよう』だ」とBilyewは述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT广告智能体\n撰写广告主看不到的查询",
-          "body": "OpenAI称，内部智能体根据聊天记录撰写广告匹配查询，广告主无法看到。",
-          "mini_headline": "ChatGPT广告使用隐藏查询",
+          "headline": "ChatGPT广告\n向医疗营销开放",
+          "body": "OpenAI放宽健康广告禁令后，WebMD Ignite开始向医院销售ChatGPT广告。",
+          "mini_headline": "ChatGPT开放健康广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
-                "cap": "Picture Alliance via Getty Images"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "自ChatGPT广告系统2月上线以来，广告买家一直迫切希望进一步了解它。高管们正逐步透露更多信息。"
+                "x": "OpenAI在1月宣布ChatGPT即将投放广告时表示，广告“不得出现在健康、心理健康或政治等敏感或受监管话题附近”，医疗广告则被完全禁止。随着广告业务逐渐成熟，它已开始扩大允许投放的广告主范围。"
               },
               {
                 "t": "p",
-                "x": "负责这家AI实验室广告系统的三位高管向ADWEEK表示，OpenAI会将ChatGPT广告与其自有AI智能体撰写的搜索查询进行匹配。"
+                "x": "周二，WebMD旗下医疗企业部门WebMD Ignite宣布推出ChatGPT广告服务。ChatGPT Ads的最新政策在美国（US）给予更多空间，但在其他国家，健康相关广告仍“原则上禁止”。OpenAI可能会逐案接受医院和急诊、健康保险、膳食补充剂及消费级医疗器械的广告；目前只允许医疗系统和医疗服务提供者投放，保险公司不在其列。"
               },
               {
                 "t": "p",
-                "x": "当用户在ChatGPT中输入提示词时，一个被OpenAI称为“编排器”（orchestrator）的AI智能体会读取对话，判断此人可能想买什么。在用户的广告个性化设置允许时，它还可以参考用户以往的聊天记录。随后，它自行撰写搜索查询，对系统中找到的广告进行排序，并将最佳候选送入竞价；竞价会权衡广告主的出价与每条广告对用户可能的有用程度。"
+                "x": "WebMD Ignite总裁Ann Bilyew表示，超过30%的美国人曾向AI聊天机器人寻求健康建议，因此医疗服务提供者希望在LLMs中“露面并可被发现”。广告必须“提供信息而非推销”，只要对话“强烈暗示”某种健康状况，广告就不会出现。客户能看到浏览量和点击量，但看不到广告旁边出现的内容。"
               },
               {
                 "t": "p",
-                "x": "广告主无法看到是什么触发了自己的广告展示：他们只能收到ChatGPT广告表现的汇总报告，而非提示词级别的数据，因此许多广告主把该平台当作测试预算。买家发现ChatGPT广告的CTR落后于Google，而OpenAI $1 billion 的年化广告收入规模，已经比它现在的体量“小得多”。"
+                "x": "WebMD Ignite一直在为一家学术医疗中心的心脏科测试约100种创意版本，并与付费搜索的效果进行比较。Bilyew说：“我们给客户的建议是：‘直接进场，开始学习。’”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente de ChatGPT escribe\nconsultas ocultas a anunciantes",
-          "body": "OpenAI dice que un agente interno crea consultas publicitarias desde el historial de chat que los anunciantes no ven.",
-          "mini_headline": "Los anuncios de ChatGPT usan consultas ocultas",
+          "headline": "ChatGPT abre sus anuncios\na los anunciantes de salud",
+          "body": "WebMD Ignite vende anuncios de ChatGPT a hospitales tras relajar OpenAI su veto inicial a la publicidad de salud.",
+          "mini_headline": "ChatGPT admite anuncios de salud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
-                "cap": "Picture Alliance via Getty Images"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "Los compradores de medios llevan tiempo pidiendo entender mejor el sistema de anuncios de ChatGPT desde su lanzamiento en febrero. Los directivos han ido revelando más detalles poco a poco."
+                "x": "Cuando OpenAI anunció en enero que ChatGPT pronto mostraría anuncios, dijo que estos “no podrían aparecer cerca de temas sensibles o regulados como la salud, la salud mental o la política”, y prohibió por completo los anuncios sanitarios. A medida que su negocio publicitario madura, ha empezado a ampliar los anunciantes que admite."
               },
               {
                 "t": "p",
-                "x": "OpenAI empareja los anuncios de ChatGPT con consultas de búsqueda redactadas por su propio agente de AI, según dijeron a ADWEEK tres directivos que dirigen el sistema publicitario del laboratorio de AI."
+                "x": "El martes, WebMD Ignite, la división de salud para empresas de WebMD, anunció su oferta de anuncios en ChatGPT. Las últimas políticas de ChatGPT Ads dan más margen en Estados Unidos (US), aunque los anuncios relacionados con la salud siguen “generalmente prohibidos” en otros países. OpenAI puede aceptar caso por caso anuncios de hospitales y urgencias, seguros médicos, suplementos dietéticos y dispositivos médicos de consumo; hasta ahora solo ha permitido anuncios de sistemas de salud y proveedores, no de aseguradoras."
               },
               {
                 "t": "p",
-                "x": "Cuando un usuario escribe un prompt en ChatGPT, un agente de AI que OpenAI llama orquestador (orchestrator) lee la conversación y deduce qué podría querer comprar esa persona. También puede recurrir a chats anteriores del usuario si su configuración de personalización de anuncios lo permite. Después redacta sus propias consultas de búsqueda, clasifica los anuncios que encuentra en su sistema y envía los mejores candidatos a una subasta que sopesa las pujas de los anunciantes frente a la utilidad probable de cada anuncio para el usuario."
+                "x": "Más del 30% de los estadounidenses ha usado chatbots de AI para consultas de salud, por lo que los proveedores quieren estar “presentes y ser localizables” en los LLMs, dijo Ann Bilyew, presidenta de WebMD Ignite. Los anuncios deben ser “informativos, no promocionales”, y no aparecerán en conversaciones donde una afección esté siquiera “fuertemente implícita”. Los clientes ven visualizaciones y clics, pero no el contenido junto al que aparecen sus anuncios."
               },
               {
                 "t": "p",
-                "x": "Los anunciantes no pueden ver qué provocó la aparición de sus anuncios: solo reciben informes agregados sobre el rendimiento de los anuncios en ChatGPT, no datos a nivel de prompt, por lo que muchos tratan la plataforma como gasto de prueba. Los compradores han comprobado que el CTR de los anuncios de ChatGPT está por debajo del de Google, y la tasa anualizada de ingresos publicitarios de OpenAI, de $1 billion (mil millones de dólares), ya es \"una huella mucho menor\" que la que tiene ahora."
+                "x": "WebMD Ignite ha probado unas 100 variaciones creativas para el área de cardiología de un centro médico académico y ha comparado los resultados con la búsqueda pagada. “Nuestro mensaje a los clientes es: ‘Miren, entren y empiecen a aprender’”, dijo Bilyew."
               }
             ]
           }
@@ -199,125 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT 광고 AI가\n광고주 못 보는 쿼리 작성",
-          "body": "OpenAI 내부 에이전트가 대화 기록으로 쓴 광고 쿼리는 광고주가 볼 수 없다.",
-          "mini_headline": "ChatGPT 광고, 숨은 쿼리로 매칭",
+          "headline": "ChatGPT 광고,\n헬스케어에 문 연다",
+          "body": "OpenAI 빗장 풀자 WebMD Ignite가 병원에 ChatGPT 광고를 판다.",
+          "mini_headline": "ChatGPT, 건강 광고 허용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
-                "cap": "Picture Alliance via Getty Images"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "광고 구매자들은 ChatGPT 광고 시스템이 2월 출시된 이후 그 구조를 더 알고 싶다고 거듭 요구해 왔다. 경영진은 조금씩 더 많은 내용을 공개하고 있다."
+                "x": "OpenAI는 1월 ChatGPT에 곧 광고를 싣겠다고 발표하면서 광고가 “건강, 정신 건강, 정치처럼 민감하거나 규제받는 주제 근처에는 노출될 수 없다”고 밝혔고, 헬스케어 광고는 전면 금지했다. 광고 사업이 자리를 잡아 가면서 허용하는 광고주 범위를 넓히기 시작했다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 자체 AI 에이전트가 작성한 검색 쿼리에 맞춰 ChatGPT 광고를 연결한다고, 이 AI 연구소의 광고 시스템을 이끄는 경영진 세 명이 ADWEEK에 밝혔다."
+                "x": "화요일, WebMD의 헬스케어 기업 부문인 WebMD Ignite가 ChatGPT 광고 상품을 발표했다. ChatGPT Ads의 최신 정책은 미국(US)에서 더 많은 재량을 주지만, 다른 국가에서는 건강 관련 광고가 여전히 “원칙적으로 금지”된다. OpenAI는 병원·응급진료, 건강보험, 건강기능식품, 소비자용 의료기기 광고를 사안별로 받을 수 있으며, 지금까지는 보험사가 아닌 의료 시스템과 의료 제공자의 광고만 허용했다."
               },
               {
                 "t": "p",
-                "x": "사용자가 ChatGPT에 프롬프트를 입력하면 OpenAI가 오케스트레이터(orchestrator)라 부르는 AI 에이전트가 대화를 읽고 그 사람이 무엇을 사고 싶어 할지 파악한다. 사용자의 광고 개인화 설정이 허용하면 이전 대화도 참고할 수 있다. 이어 자체 검색 쿼리를 작성하고, 시스템에서 찾은 광고의 순위를 매긴 뒤, 가장 적합한 후보를 경매에 보낸다. 경매는 광고주의 입찰가와 각 광고가 사용자에게 얼마나 유용할지를 함께 따진다."
+                "x": "미국인의 30% 이상이 AI 챗봇에서 건강 조언을 구한 적이 있어 의료 제공자들은 LLMs 안에서 “존재하고 발견될 수 있기”를 원한다고 WebMD Ignite 사장 Ann Bilyew는 말했다. 광고는 “홍보가 아닌 정보 제공”이어야 하며, 건강 상태가 “강하게 암시”되기만 해도 그 대화에는 실리지 않는다. 고객사는 조회수와 클릭 수를 볼 수 있지만 광고가 어떤 콘텐츠 옆에 노출됐는지는 볼 수 없다."
               },
               {
                 "t": "p",
-                "x": "광고주는 무엇 때문에 자신의 광고가 노출됐는지 알 수 없다. 프롬프트 단위 데이터가 아니라 ChatGPT 광고 성과에 대한 집계 보고만 받기 때문에 많은 광고주가 이 플랫폼을 테스트 예산으로 다룬다. 구매자들은 ChatGPT 광고의 CTR이 Google보다 낮다는 점을 확인했고, OpenAI의 연환산 광고 매출 $1 billion 은 이미 지금 보유한 것에 비하면 \"훨씬 작은 규모\"다."
+                "x": "WebMD Ignite는 한 대학병원 심장내과를 위해 약 100가지 크리에이티브 변형을 시험하며 검색 광고 성과와 비교해 왔다. Bilyew는 “고객에게 전하는 메시지는 ‘일단 들어가서 배우기 시작하라’는 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPTの広告AIが\n広告主に見えない検索語を書く",
-          "body": "OpenAIによると、社内エージェントが会話履歴から広告クエリを作り、広告主には見えない。",
-          "mini_headline": "ChatGPT広告は非公開クエリで照合",
+          "headline": "ChatGPT広告、\n医療業界に開放",
+          "body": "OpenAIの規制緩和を受け、WebMD Igniteが病院にChatGPT広告を売る。",
+          "mini_headline": "ChatGPT、健康広告を解禁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
-                "cap": "Picture Alliance via Getty Images"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "ChatGPTの広告システムが2月に始まって以来、広告バイヤーはその仕組みをもっと知りたいと求めてきた。幹部は少しずつ詳細を明かしている。"
+                "x": "OpenAIは1月、ChatGPTで近く広告を配信すると発表した際、広告は「健康、メンタルヘルス、政治など、センシティブまたは規制対象のトピックの近くには表示されない」とし、ヘルスケア広告を全面的に禁止していた。広告事業が成熟するにつれ、受け入れる広告主の範囲を広げ始めている。"
               },
               {
                 "t": "p",
-                "x": "OpenAIは自社のAIエージェントが書いた検索クエリにChatGPT広告を照合していると、同AIラボの広告システムを率いる幹部三人がADWEEKに語った。"
+                "x": "火曜日、WebMDのヘルスケア企業部門であるWebMD IgniteがChatGPT広告の提供を発表した。ChatGPT Adsの最新ポリシーは米国(US)ではより大きな裁量を認める一方、他の国では健康関連広告は依然として「原則禁止」だ。OpenAIは病院・救急医療、医療保険、栄養補助食品、消費者向け医療機器の広告を個別に受け付ける可能性があるが、これまで認めたのは保険会社ではなく医療システムと医療提供者の広告のみだ。"
               },
               {
                 "t": "p",
-                "x": "ユーザーがChatGPTにプロンプトを書くと、OpenAIが「オーケストレーター（orchestrator）」と呼ぶAIエージェントが会話を読み、その人が何を買いたいと考えているかを推測する。ユーザーの広告パーソナライズ設定が許せば、過去のチャットも参照できる。続いて独自の検索クエリを書き、システム内で見つけた広告を順位付けし、有力な候補をオークションに送る。オークションでは、広告主の入札額と、各広告がユーザーにとってどれだけ役立ちそうかを比べて判断する。"
+                "x": "米国人の30%以上がAIチャットボットに健康相談をしたことがあり、医療提供者はLLMsの中で「存在し、見つけてもらえる」ことを望んでいると、WebMD Ignite社長のAnn Bilyewは語った。広告は「宣伝ではなく情報提供」でなければならず、健康状態が「強く示唆される」だけの会話にも表示されない。クライアントは閲覧数とクリック数を確認できるが、広告がどのコンテンツの隣に表示されたかは見られない。"
               },
               {
                 "t": "p",
-                "x": "広告主は、何がきっかけで自社の広告が表示されたのかを知ることができない。受け取るのはプロンプト単位のデータではなく、ChatGPT広告の成果に関する集計レポートだけで、多くの広告主はこのプラットフォームをテスト予算として扱っている。バイヤーはChatGPT広告のCTRがGoogleを下回ることを確認しており、OpenAIの年換算広告売上$1 billion は、すでに現在の規模に比べ「はるかに小さな規模」だという。"
+                "x": "WebMD Igniteはある大学医療センターの循環器部門向けに約100通りのクリエイティブを試し、検索広告の成果と比較してきた。「クライアントへのメッセージは『とにかく飛び込んで学び始めよう』だ」とBilyewは述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT广告智能体\n撰写广告主看不到的查询",
-          "body": "OpenAI称，内部智能体根据聊天记录撰写广告匹配查询，广告主无法看到。",
-          "mini_headline": "ChatGPT广告使用隐藏查询",
+          "headline": "ChatGPT广告\n向医疗营销开放",
+          "body": "OpenAI放宽健康广告禁令后，WebMD Ignite开始向医院销售ChatGPT广告。",
+          "mini_headline": "ChatGPT开放健康广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
-                "cap": "Picture Alliance via Getty Images"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "自ChatGPT广告系统2月上线以来，广告买家一直迫切希望进一步了解它。高管们正逐步透露更多信息。"
+                "x": "OpenAI在1月宣布ChatGPT即将投放广告时表示，广告“不得出现在健康、心理健康或政治等敏感或受监管话题附近”，医疗广告则被完全禁止。随着广告业务逐渐成熟，它已开始扩大允许投放的广告主范围。"
               },
               {
                 "t": "p",
-                "x": "负责这家AI实验室广告系统的三位高管向ADWEEK表示，OpenAI会将ChatGPT广告与其自有AI智能体撰写的搜索查询进行匹配。"
+                "x": "周二，WebMD旗下医疗企业部门WebMD Ignite宣布推出ChatGPT广告服务。ChatGPT Ads的最新政策在美国（US）给予更多空间，但在其他国家，健康相关广告仍“原则上禁止”。OpenAI可能会逐案接受医院和急诊、健康保险、膳食补充剂及消费级医疗器械的广告；目前只允许医疗系统和医疗服务提供者投放，保险公司不在其列。"
               },
               {
                 "t": "p",
-                "x": "当用户在ChatGPT中输入提示词时，一个被OpenAI称为“编排器”（orchestrator）的AI智能体会读取对话，判断此人可能想买什么。在用户的广告个性化设置允许时，它还可以参考用户以往的聊天记录。随后，它自行撰写搜索查询，对系统中找到的广告进行排序，并将最佳候选送入竞价；竞价会权衡广告主的出价与每条广告对用户可能的有用程度。"
+                "x": "WebMD Ignite总裁Ann Bilyew表示，超过30%的美国人曾向AI聊天机器人寻求健康建议，因此医疗服务提供者希望在LLMs中“露面并可被发现”。广告必须“提供信息而非推销”，只要对话“强烈暗示”某种健康状况，广告就不会出现。客户能看到浏览量和点击量，但看不到广告旁边出现的内容。"
               },
               {
                 "t": "p",
-                "x": "广告主无法看到是什么触发了自己的广告展示：他们只能收到ChatGPT广告表现的汇总报告，而非提示词级别的数据，因此许多广告主把该平台当作测试预算。买家发现ChatGPT广告的CTR落后于Google，而OpenAI $1 billion 的年化广告收入规模，已经比它现在的体量“小得多”。"
+                "x": "WebMD Ignite一直在为一家学术医疗中心的心脏科测试约100种创意版本，并与付费搜索的效果进行比较。Bilyew说：“我们给客户的建议是：‘直接进场，开始学习。’”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente de ChatGPT escribe\nconsultas ocultas a anunciantes",
-          "body": "OpenAI dice que un agente interno crea consultas publicitarias desde el historial de chat que los anunciantes no ven.",
-          "mini_headline": "Los anuncios de ChatGPT usan consultas ocultas",
+          "headline": "ChatGPT abre sus anuncios\na los anunciantes de salud",
+          "body": "WebMD Ignite vende anuncios de ChatGPT a hospitales tras relajar OpenAI su veto inicial a la publicidad de salud.",
+          "mini_headline": "ChatGPT admite anuncios de salud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
-                "cap": "Picture Alliance via Getty Images"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "Los compradores de medios llevan tiempo pidiendo entender mejor el sistema de anuncios de ChatGPT desde su lanzamiento en febrero. Los directivos han ido revelando más detalles poco a poco."
+                "x": "Cuando OpenAI anunció en enero que ChatGPT pronto mostraría anuncios, dijo que estos “no podrían aparecer cerca de temas sensibles o regulados como la salud, la salud mental o la política”, y prohibió por completo los anuncios sanitarios. A medida que su negocio publicitario madura, ha empezado a ampliar los anunciantes que admite."
               },
               {
                 "t": "p",
-                "x": "OpenAI empareja los anuncios de ChatGPT con consultas de búsqueda redactadas por su propio agente de AI, según dijeron a ADWEEK tres directivos que dirigen el sistema publicitario del laboratorio de AI."
+                "x": "El martes, WebMD Ignite, la división de salud para empresas de WebMD, anunció su oferta de anuncios en ChatGPT. Las últimas políticas de ChatGPT Ads dan más margen en Estados Unidos (US), aunque los anuncios relacionados con la salud siguen “generalmente prohibidos” en otros países. OpenAI puede aceptar caso por caso anuncios de hospitales y urgencias, seguros médicos, suplementos dietéticos y dispositivos médicos de consumo; hasta ahora solo ha permitido anuncios de sistemas de salud y proveedores, no de aseguradoras."
               },
               {
                 "t": "p",
-                "x": "Cuando un usuario escribe un prompt en ChatGPT, un agente de AI que OpenAI llama orquestador (orchestrator) lee la conversación y deduce qué podría querer comprar esa persona. También puede recurrir a chats anteriores del usuario si su configuración de personalización de anuncios lo permite. Después redacta sus propias consultas de búsqueda, clasifica los anuncios que encuentra en su sistema y envía los mejores candidatos a una subasta que sopesa las pujas de los anunciantes frente a la utilidad probable de cada anuncio para el usuario."
+                "x": "Más del 30% de los estadounidenses ha usado chatbots de AI para consultas de salud, por lo que los proveedores quieren estar “presentes y ser localizables” en los LLMs, dijo Ann Bilyew, presidenta de WebMD Ignite. Los anuncios deben ser “informativos, no promocionales”, y no aparecerán en conversaciones donde una afección esté siquiera “fuertemente implícita”. Los clientes ven visualizaciones y clics, pero no el contenido junto al que aparecen sus anuncios."
               },
               {
                 "t": "p",
-                "x": "Los anunciantes no pueden ver qué provocó la aparición de sus anuncios: solo reciben informes agregados sobre el rendimiento de los anuncios en ChatGPT, no datos a nivel de prompt, por lo que muchos tratan la plataforma como gasto de prueba. Los compradores han comprobado que el CTR de los anuncios de ChatGPT está por debajo del de Google, y la tasa anualizada de ingresos publicitarios de OpenAI, de $1 billion (mil millones de dólares), ya es \"una huella mucho menor\" que la que tiene ahora."
+                "x": "WebMD Ignite ha probado unas 100 variaciones creativas para el área de cardiología de un centro médico académico y ha comparado los resultados con la búsqueda pagada. “Nuestro mensaje a los clientes es: ‘Miren, entren y empiecen a aprender’”, dijo Bilyew."
               }
             ]
           }
@@ -325,15 +315,15 @@
       }
     },
     {
-      "id": "higgsfield-playable-ads",
+      "id": "amazon-chatgpt-ads-crawler-block",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Higgsfield가 낸\nAI-built 게임 광고",
-      "body": "Higgsfield의 기업용 Playable Ads는 AI로 체험형 광고를 만든다.",
-      "mini_headline": "Higgsfield의 AI 플레이어블 광고",
+      "headline": "Amazon ChatGPT\n광고, OpenAI는 차단",
+      "body": "Amazon은 ChatGPT Black Friday 광고 사도 OpenAI 막는다.",
+      "mini_headline": "Amazon, ChatGPT 광고 구매",
       "tool": "Marketing",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/higgsfield-launches-playable-game-ads-built-with-ai/",
+      "source": "Digiday",
+      "url": "https://digiday.com/marketing/amazon-is-buying-chatgpt-ads-while-blocking-openai-crawlers/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -341,295 +331,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
+            "cap": "Ivy Liu"
           },
           {
             "t": "p",
-            "x": "Higgsfield가 AI로 인터랙티브 광고를 만드는 기업 전용 워크플로 playable ads를 새로 내놨다. 개발자가 게임 메커닉을 설명하고 장르와 화면 규격을 고른 다음 크리에이티브 에셋(스프라이트, 텍스처, 효과음 등 최대 100개)을 넣으면 수동 또는 자동 모드로 플레이할 수 있는 경험이 만들어진다."
-          },
-          {
-            "t": "video",
-            "yt": "PG0UVcWVNl0"
+            "x": "Amazon은 ChatGPT가 들여다보지 못하게 막아 온 바로 그 쇼핑객에게 닿으려고 OpenAI에 돈을 낸다. Prime Day 뒤 몇 달 잠잠하던 Amazon이 U.S.(미국)에서 Black Friday 광고를 새로 집행하며 챗봇에 돌아왔다. 광고는 할인 상품을 알리고 사용자를 Amazon으로 보내 구매를 마치게 한다."
           },
           {
             "t": "p",
-            "x": "완성본은 최대 5 MB 크기의 단일 .html 파일로 내보내 AppLovin, Meta, Google App Campaigns, Unity Ads, Pangle(TikTok) 같은 네트워크에 올릴 수 있다. Higgsfield 기술 스태프 Zhangir Yergaliyev는 \"편집할 수 있고, 에이전트에게 게임의 어떤 부분이든 바꿔 달라고 요청할 수 있다. 퍼포먼스 마케팅에서는 게임 변형 수백 개를 쉽게 테스트할 수 있다\"고 말했다."
+            "x": "ChatGPT 쇼핑 기능은 개별 상품 페이지가 아니라 Amazon 검색 결과로 이어진다. 상품과 할인, 최신 가격은 제3자 할인 추적 사이트를 참고해 파악하고, Amazon 웹사이트에 꼭 들어가지는 않는다."
           },
           {
             "t": "p",
-            "x": "스튜디오들이 복제와 법적 문제를 걱정하자 Higgsfield는 App Store와 Google Play 링크를 가져오는 기능을 뺐다. 회사 설명으로는 플레이어블 광고 하나를 손으로 만들면 평균 닷새, 약 $5,000가 들었다. 이 도구로는 첫 버전까지 약 40분이 걸리고 비용은 광고당 $30에서 $40 수준으로 추산된다. 플레이어블 광고 팀은 10명이 채 안 되며 첫 버전을 두 주 만에 만들었다."
+            "x": "eMarketer의 Arielle Feger는 “쇼핑객을 개별 상품 페이지가 아닌 Amazon 검색 결과로 보내면 광고로 돈을 벌 기회가 하나 더 생긴다”고 말했다. Amazon의 U.S. 검색 광고 매출은 올해 $40.57 billion에 이를 전망이다. 그는 “브랜드로서는 같은 고객에게 두 번 돈을 낼 위험이 생긴다”고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "9월 Amazon Ads는 광고주가 Amazon의 DSP로 ChatGPT 광고 지면을 살 수 있는 제휴를 발표했다. 이번 ChatGPT 광고를 Amazon이 OpenAI에서 직접 샀는지 자사 DSP로 샀는지는 분명하지 않다. 두 회사 모두 논평을 거부했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Higgsfield launches AI-built\nplayable game ads",
-          "body": "Higgsfield's enterprise-only Playable Ads workflow uses AI to generate interactive playable ad units.",
-          "mini_headline": "Higgsfield's AI playable ads",
+          "headline": "Amazon buys ChatGPT ads\nbut still blocks OpenAI bots",
+          "body": "Amazon pays for Black Friday ads in ChatGPT to route shoppers back to its store, yet still blocks OpenAI's crawlers.",
+          "mini_headline": "Amazon buys ChatGPT ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
               },
               {
                 "t": "p",
-                "x": "Higgsfield has launched playable ads, a new enterprise-only workflow for creating interactive ads with AI. Developers describe a game mechanic, choose a genre and dimension, add creative assets (up to 100, including sprites, textures and sound effects) and generate a playable experience in manual or auto mode."
-              },
-              {
-                "t": "video",
-                "yt": "PG0UVcWVNl0"
+                "x": "Amazon is paying OpenAI to reach the same shoppers it refuses to let ChatGPT study. After a quiet few months following its Prime Day activity, it has returned to the chatbot with a new round of Black Friday ads in the U.S., promoting its deals and directing users to Amazon to complete purchases."
               },
               {
                 "t": "p",
-                "x": "The finished ad exports as a single .html file up to 5 MB for networks such as AppLovin, Meta, Google App Campaigns, Unity Ads and Pangle (TikTok). \"You can edit and ask an agent to change anything about the game. With performance marketing, it becomes easy to test hundreds of variants of the game,\" said Zhangir Yergaliyev, member of technical staff at Higgsfield."
+                "x": "Rather than linking to individual product pages, ChatGPT’s shopping experience links to Amazon search results, drawing on third-party deal-tracking websites to identify products, discounts and up-to-date pricing — without necessarily accessing Amazon’s own website."
               },
               {
                 "t": "p",
-                "x": "Higgsfield removed App Store and Google Play link import after studios raised copying and legal concerns. The company reported a manual process averaging five days and about $5,000 per playable ad; its tool takes about 40 minutes for a first version, at an estimated $30 to $40 per ad. The playable-ad team has fewer than 10 people and built the first version in two weeks."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Higgsfield가 낸\nAI-built 게임 광고",
-          "body": "Higgsfield의 기업용 Playable Ads는 AI로 체험형 광고를 만든다.",
-          "mini_headline": "Higgsfield의 AI 플레이어블 광고",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
+                "x": "“Sending shoppers to Amazon search results rather than individual product pages also creates another opportunity to make money from advertising,” said Arielle Feger of eMarketer. Amazon’s U.S. search ad revenues are forecasted to reach $40.57 billion this year. “For brands, that creates a risk of paying twice for the same customer,” she added."
               },
               {
                 "t": "p",
-                "x": "Higgsfield가 AI로 인터랙티브 광고를 만드는 기업 전용 워크플로 playable ads를 새로 내놨다. 개발자가 게임 메커닉을 설명하고 장르와 화면 규격을 고른 다음 크리에이티브 에셋(스프라이트, 텍스처, 효과음 등 최대 100개)을 넣으면 수동 또는 자동 모드로 플레이할 수 있는 경험이 만들어진다."
-              },
-              {
-                "t": "video",
-                "yt": "PG0UVcWVNl0"
-              },
-              {
-                "t": "p",
-                "x": "완성본은 최대 5 MB 크기의 단일 .html 파일로 내보내 AppLovin, Meta, Google App Campaigns, Unity Ads, Pangle(TikTok) 같은 네트워크에 올릴 수 있다. Higgsfield 기술 스태프 Zhangir Yergaliyev는 \"편집할 수 있고, 에이전트에게 게임의 어떤 부분이든 바꿔 달라고 요청할 수 있다. 퍼포먼스 마케팅에서는 게임 변형 수백 개를 쉽게 테스트할 수 있다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "스튜디오들이 복제와 법적 문제를 걱정하자 Higgsfield는 App Store와 Google Play 링크를 가져오는 기능을 뺐다. 회사 설명으로는 플레이어블 광고 하나를 손으로 만들면 평균 닷새, 약 $5,000가 들었다. 이 도구로는 첫 버전까지 약 40분이 걸리고 비용은 광고당 $30에서 $40 수준으로 추산된다. 플레이어블 광고 팀은 10명이 채 안 되며 첫 버전을 두 주 만에 만들었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Higgsfieldが投入\nAI-built ゲーム広告",
-          "body": "Higgsfieldの企業向けPlayable AdsはAIで体験型広告を生成する。",
-          "mini_headline": "HiggsfieldのAIプレイアブル広告",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfieldは、AIでインタラクティブ広告を作る企業向けの新ワークフロー「playable ads」を公開した。開発者はゲームのメカニクスを説明し、ジャンルとサイズを選び、クリエイティブ素材（スプライト、テクスチャ、効果音など最大100点）を追加して、手動または自動モードでプレイ可能な体験を生成する。"
-              },
-              {
-                "t": "video",
-                "yt": "PG0UVcWVNl0"
-              },
-              {
-                "t": "p",
-                "x": "完成した広告は最大5 MBの単一の.htmlファイルとして書き出され、AppLovin、Meta、Google App Campaigns、Unity Ads、Pangle（TikTok）などのネットワークで使える。Higgsfieldの技術スタッフ、Zhangir Yergaliyev氏は「編集でき、エージェントにゲームのどんな点でも変更を頼める。パフォーマンスマーケティングでは、ゲームのバリエーションを何百通りも簡単にテストできる」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfieldは、スタジオから模倣や法的な懸念が出たことを受け、App StoreとGoogle Playのリンク取り込み機能を削除した。同社によると、手作業ではプレイアブル広告ごとに平均五日、約$5,000かかっていた。同社のツールでは初版の作成に約40分、費用は広告ごとに推定$30〜$40だ。プレイアブル広告チームは10人未満で、二週間で初版を作り上げた。"
+                "x": "In September, Amazon Ads announced a partnership letting advertisers buy ChatGPT inventory through Amazon’s DSP. It is unclear whether Amazon bought its ChatGPT ads directly from OpenAI or through its own DSP. Both declined to comment."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Higgsfield推出\nAI-built试玩广告",
-          "body": "Higgsfield面向企业的Playable Ads工作流用AI生成可互动的试玩广告。",
-          "mini_headline": "Higgsfield的AI试玩广告",
+          "headline": "ChatGPT广告照买\nAmazon仍拦OpenAI",
+          "body": "Amazon在ChatGPT投放Black Friday广告，却仍屏蔽OpenAI爬虫。",
+          "mini_headline": "Amazon购买ChatGPT广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
               },
               {
                 "t": "p",
-                "x": "Higgsfield推出了playable ads，这是一项仅面向企业的新工作流，用AI制作互动广告。开发者描述游戏机制，选择类型和尺寸，添加创意素材（最多100个，包括精灵图、纹理和音效），即可以手动或自动模式生成可玩的体验。"
-              },
-              {
-                "t": "video",
-                "yt": "PG0UVcWVNl0"
+                "x": "Amazon正付钱给OpenAI，去触达那些它拒绝让ChatGPT研究的购物者。在Prime Day之后沉寂了几个月，它以新一轮U.S. Black Friday广告重返这款聊天机器人，推广促销并引导用户前往Amazon完成购买。"
               },
               {
                 "t": "p",
-                "x": "成品广告可导出为最大5 MB的单个.html文件，用于AppLovin、Meta、Google App Campaigns、Unity Ads和Pangle（TikTok）等广告网络。Higgsfield技术人员Zhangir Yergaliyev表示：“你可以编辑，并让智能体修改游戏的任何内容。在效果营销中，测试数百种游戏变体变得很容易。”"
+                "x": "ChatGPT的购物体验并不链接到单个商品页面，而是链接到Amazon搜索结果，并借助第三方优惠追踪网站来识别商品、折扣和最新价格——不一定需要访问Amazon自己的网站。"
               },
               {
                 "t": "p",
-                "x": "在工作室提出抄袭和法律方面的担忧后，Higgsfield移除了App Store和Google Play链接导入功能。该公司称，人工制作每个试玩广告平均需要五天、约$5,000；其工具制作第一版约需40分钟，每个广告成本估计为$30至$40。试玩广告团队不到10人，用两周时间做出了第一版。"
+                "x": "eMarketer的Arielle Feger说：“把购物者送到Amazon搜索结果而不是单个商品页面，也创造了另一个靠广告赚钱的机会。”预计Amazon今年在U.S.的搜索广告收入将达到$40.57 billion 。她补充说：“对品牌来说，这带来了为同一个顾客付两次钱的风险。”"
+              },
+              {
+                "t": "p",
+                "x": "9月，Amazon Ads宣布一项合作，让广告主可通过Amazon的DSP购买ChatGPT广告库存。目前尚不清楚Amazon是直接从OpenAI购买ChatGPT广告，还是通过自家DSP购买。双方均拒绝置评。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Higgsfield lanza anuncios\njugables AI-built para juegos",
-          "body": "El flujo Playable Ads de Higgsfield, solo para empresas, usa AI para generar anuncios jugables interactivos.",
-          "mini_headline": "Anuncios jugables con AI de Higgsfield",
+          "headline": "Amazon se anuncia en ChatGPT\npero bloquea los bots de OpenAI",
+          "body": "Amazon paga anuncios de Black Friday en ChatGPT para atraer compradores, pero aún bloquea los rastreadores de OpenAI.",
+          "mini_headline": "Amazon compra anuncios en ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
               },
               {
                 "t": "p",
-                "x": "Higgsfield ha lanzado playable ads, un nuevo flujo de trabajo exclusivo para empresas que crea anuncios interactivos con AI. Los desarrolladores describen una mecánica de juego, eligen un género y unas dimensiones, añaden recursos creativos (hasta 100, entre ellos sprites, texturas y efectos de sonido) y generan una experiencia jugable en modo manual o automático."
-              },
-              {
-                "t": "video",
-                "yt": "PG0UVcWVNl0"
+                "x": "Amazon está pagando a OpenAI para llegar a los mismos compradores que se niega a dejar que ChatGPT estudie. Tras unos meses tranquilos después de su actividad en Prime Day, ha vuelto al chatbot con una nueva ronda de anuncios de Black Friday en U.S., en los que promociona sus ofertas y dirige a los usuarios a Amazon para completar sus compras."
               },
               {
                 "t": "p",
-                "x": "El anuncio terminado se exporta como un único archivo .html de hasta 5 MB para redes como AppLovin, Meta, Google App Campaigns, Unity Ads y Pangle (TikTok). \"Puedes editarlo y pedirle a un agente que cambie cualquier cosa del juego. Con el marketing de resultados, resulta fácil probar cientos de variantes del juego\", dijo Zhangir Yergaliyev, miembro del personal técnico de Higgsfield."
+                "x": "En lugar de enlazar a páginas de producto individuales, la experiencia de compra de ChatGPT enlaza a resultados de búsqueda de Amazon y se apoya en sitios externos de seguimiento de ofertas para identificar productos, descuentos y precios actualizados, sin acceder necesariamente al propio sitio web de Amazon."
               },
               {
                 "t": "p",
-                "x": "Higgsfield eliminó la importación de enlaces de App Store y Google Play después de que los estudios plantearan preocupaciones sobre copias y cuestiones legales. La empresa informó de que el proceso manual tarda de media cinco días y cuesta unos $5,000 por anuncio jugable; su herramienta tarda unos 40 minutos en una primera versión, con un coste estimado de $30 a $40 por anuncio. El equipo de anuncios jugables tiene menos de 10 personas y creó la primera versión en dos semanas."
+                "x": "“Enviar a los compradores a resultados de búsqueda de Amazon en lugar de a páginas de producto individuales también crea otra oportunidad de ganar dinero con la publicidad”, dijo Arielle Feger, de eMarketer. Se prevé que los ingresos por anuncios de búsqueda de Amazon en U.S. alcancen los $40.57 billion este año. “Para las marcas, eso crea el riesgo de pagar dos veces por el mismo cliente”, añadió."
+              },
+              {
+                "t": "p",
+                "x": "En septiembre, Amazon Ads anunció una alianza que permite a los anunciantes comprar inventario de ChatGPT a través del DSP de Amazon. No está claro si Amazon compró sus anuncios en ChatGPT directamente a OpenAI o a través de su propio DSP. Ambas declinaron hacer comentarios."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Amazon ChatGPT\n광고, OpenAI는 차단",
+          "body": "Amazon은 ChatGPT Black Friday 광고 사도 OpenAI 막는다.",
+          "mini_headline": "Amazon, ChatGPT 광고 구매",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
+              },
+              {
+                "t": "p",
+                "x": "Amazon은 ChatGPT가 들여다보지 못하게 막아 온 바로 그 쇼핑객에게 닿으려고 OpenAI에 돈을 낸다. Prime Day 뒤 몇 달 잠잠하던 Amazon이 U.S.(미국)에서 Black Friday 광고를 새로 집행하며 챗봇에 돌아왔다. 광고는 할인 상품을 알리고 사용자를 Amazon으로 보내 구매를 마치게 한다."
+              },
+              {
+                "t": "p",
+                "x": "ChatGPT 쇼핑 기능은 개별 상품 페이지가 아니라 Amazon 검색 결과로 이어진다. 상품과 할인, 최신 가격은 제3자 할인 추적 사이트를 참고해 파악하고, Amazon 웹사이트에 꼭 들어가지는 않는다."
+              },
+              {
+                "t": "p",
+                "x": "eMarketer의 Arielle Feger는 “쇼핑객을 개별 상품 페이지가 아닌 Amazon 검색 결과로 보내면 광고로 돈을 벌 기회가 하나 더 생긴다”고 말했다. Amazon의 U.S. 검색 광고 매출은 올해 $40.57 billion에 이를 전망이다. 그는 “브랜드로서는 같은 고객에게 두 번 돈을 낼 위험이 생긴다”고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "9월 Amazon Ads는 광고주가 Amazon의 DSP로 ChatGPT 광고 지면을 살 수 있는 제휴를 발표했다. 이번 ChatGPT 광고를 Amazon이 OpenAI에서 직접 샀는지 자사 DSP로 샀는지는 분명하지 않다. 두 회사 모두 논평을 거부했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AmazonがChatGPT\n広告を買うもOpenAI遮断",
+          "body": "AmazonはChatGPTにBlack Friday広告を出すがOpenAIは遮断する。",
+          "mini_headline": "AmazonがChatGPT広告を購入",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
+              },
+              {
+                "t": "p",
+                "x": "Amazonは、ChatGPTに分析させまいとしている買い物客そのものに届くため、OpenAIに金を払っている。Prime Day後の数カ月は静かだったが、U.S.（米国）でBlack Friday広告を新たに展開してチャットボットに戻り、セール品を宣伝してユーザーをAmazonへ誘導し購入を完了させている。"
+              },
+              {
+                "t": "p",
+                "x": "ChatGPTのショッピング機能は個別の商品ページではなくAmazonの検索結果にリンクする。商品や割引、最新価格は第三者のセール追跡サイトを参照して特定しており、必ずしもAmazon自体のサイトにアクセスするわけではない。"
+              },
+              {
+                "t": "p",
+                "x": "eMarketerのArielle Fegerは「買い物客を個別の商品ページではなくAmazonの検索結果に送ることで、広告で稼ぐ機会がもう一つ生まれる」と述べた。AmazonのU.S.検索広告収入は今年$40.57 billionに達すると予測されている。「ブランドにとっては、同じ顧客に二度払うリスクが生じる」と彼女は付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "9月、Amazon Adsは広告主がAmazonのDSPを通じてChatGPTの広告枠を購入できる提携を発表した。AmazonがChatGPT広告をOpenAIから直接買ったのか、自社のDSP経由で買ったのかは不明だ。両社ともコメントを控えた。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Higgsfield가 낸\nAI-built 게임 광고",
-          "body": "Higgsfield의 기업용 Playable Ads는 AI로 체험형 광고를 만든다.",
-          "mini_headline": "Higgsfield의 AI 플레이어블 광고",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield가 AI로 인터랙티브 광고를 만드는 기업 전용 신규 워크플로 playable ads를 출시했다. 개발자는 게임 메커닉을 설명하고, 장르와 화면 규격을 고른 뒤, 크리에이티브 에셋(스프라이트, 텍스처, 효과음 등 최대 100개)을 추가해 수동 또는 자동 모드로 플레이 가능한 경험을 생성한다."
-              },
-              {
-                "t": "video",
-                "yt": "PG0UVcWVNl0"
-              },
-              {
-                "t": "p",
-                "x": "완성된 광고는 최대 5 MB 크기의 단일 .html 파일로 내보내 AppLovin, Meta, Google App Campaigns, Unity Ads, Pangle(TikTok) 같은 네트워크에 쓸 수 있다. Higgsfield 기술 스태프인 Zhangir Yergaliyev는 \"편집할 수 있고, 에이전트에게 게임의 어떤 부분이든 바꿔 달라고 요청할 수 있다. 퍼포먼스 마케팅에서는 게임 변형 수백 개를 쉽게 테스트할 수 있다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield는 스튜디오들이 복제와 법적 문제를 우려하자 App Store와 Google Play 링크 가져오기 기능을 없앴다. 회사에 따르면 수작업으로는 플레이어블 광고 하나에 평균 닷새, 약 $5,000가 들었다. 이 도구로는 첫 버전에 약 40분이 걸리고, 비용은 광고당 $30에서 $40 수준으로 추산된다. 플레이어블 광고 팀은 10명이 안 되며 첫 버전을 두 주 만에 만들었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Higgsfieldが投入\nAI-built ゲーム広告",
-          "body": "Higgsfieldの企業向けPlayable AdsはAIで体験型広告を生成する。",
-          "mini_headline": "HiggsfieldのAIプレイアブル広告",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfieldは、AIでインタラクティブ広告を作る企業向けの新ワークフロー「playable ads」を公開した。開発者はゲームのメカニクスを説明し、ジャンルとサイズを選び、クリエイティブ素材（スプライト、テクスチャ、効果音など最大100点）を追加して、手動または自動モードでプレイ可能な体験を生成する。"
-              },
-              {
-                "t": "video",
-                "yt": "PG0UVcWVNl0"
-              },
-              {
-                "t": "p",
-                "x": "完成した広告は最大5 MBの単一の.htmlファイルとして書き出され、AppLovin、Meta、Google App Campaigns、Unity Ads、Pangle（TikTok）などのネットワークで使える。Higgsfieldの技術スタッフ、Zhangir Yergaliyev氏は「編集でき、エージェントにゲームのどんな点でも変更を頼める。パフォーマンスマーケティングでは、ゲームのバリエーションを何百通りも簡単にテストできる」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfieldは、スタジオから模倣や法的な懸念が出たことを受け、App StoreとGoogle Playのリンク取り込み機能を削除した。同社によると、手作業ではプレイアブル広告ごとに平均五日、約$5,000かかっていた。同社のツールでは初版の作成に約40分、費用は広告ごとに推定$30〜$40だ。プレイアブル広告チームは10人未満で、二週間で初版を作り上げた。"
-              }
-            ]
-          }
-        },
         "zh": {
-          "headline": "Higgsfield推出\nAI-built试玩广告",
-          "body": "Higgsfield面向企业的Playable Ads工作流用AI生成可互动的试玩广告。",
-          "mini_headline": "Higgsfield的AI试玩广告",
+          "headline": "ChatGPT广告照买\nAmazon仍拦OpenAI",
+          "body": "Amazon在ChatGPT投放Black Friday广告，却仍屏蔽OpenAI爬虫。",
+          "mini_headline": "Amazon购买ChatGPT广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
               },
               {
                 "t": "p",
-                "x": "Higgsfield推出了playable ads，这是一项仅面向企业的新工作流，用AI制作互动广告。开发者描述游戏机制，选择类型和尺寸，添加创意素材（最多100个，包括精灵图、纹理和音效），即可以手动或自动模式生成可玩的体验。"
-              },
-              {
-                "t": "video",
-                "yt": "PG0UVcWVNl0"
+                "x": "Amazon正付钱给OpenAI，去触达那些它拒绝让ChatGPT研究的购物者。在Prime Day之后沉寂了几个月，它以新一轮U.S. Black Friday广告重返这款聊天机器人，推广促销并引导用户前往Amazon完成购买。"
               },
               {
                 "t": "p",
-                "x": "成品广告可导出为最大5 MB的单个.html文件，用于AppLovin、Meta、Google App Campaigns、Unity Ads和Pangle（TikTok）等广告网络。Higgsfield技术人员Zhangir Yergaliyev表示：“你可以编辑，并让智能体修改游戏的任何内容。在效果营销中，测试数百种游戏变体变得很容易。”"
+                "x": "ChatGPT的购物体验并不链接到单个商品页面，而是链接到Amazon搜索结果，并借助第三方优惠追踪网站来识别商品、折扣和最新价格——不一定需要访问Amazon自己的网站。"
               },
               {
                 "t": "p",
-                "x": "在工作室提出抄袭和法律方面的担忧后，Higgsfield移除了App Store和Google Play链接导入功能。该公司称，人工制作每个试玩广告平均需要五天、约$5,000；其工具制作第一版约需40分钟，每个广告成本估计为$30至$40。试玩广告团队不到10人，用两周时间做出了第一版。"
+                "x": "eMarketer的Arielle Feger说：“把购物者送到Amazon搜索结果而不是单个商品页面，也创造了另一个靠广告赚钱的机会。”预计Amazon今年在U.S.的搜索广告收入将达到$40.57 billion 。她补充说：“对品牌来说，这带来了为同一个顾客付两次钱的风险。”"
+              },
+              {
+                "t": "p",
+                "x": "9月，Amazon Ads宣布一项合作，让广告主可通过Amazon的DSP购买ChatGPT广告库存。目前尚不清楚Amazon是直接从OpenAI购买ChatGPT广告，还是通过自家DSP购买。双方均拒绝置评。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Higgsfield lanza anuncios\njugables AI-built para juegos",
-          "body": "El flujo Playable Ads de Higgsfield, solo para empresas, usa AI para generar anuncios jugables interactivos.",
-          "mini_headline": "Anuncios jugables con AI de Higgsfield",
+          "headline": "Amazon se anuncia en ChatGPT\npero bloquea los bots de OpenAI",
+          "body": "Amazon paga anuncios de Black Friday en ChatGPT para atraer compradores, pero aún bloquea los rastreadores de OpenAI.",
+          "mini_headline": "Amazon compra anuncios en ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
               },
               {
                 "t": "p",
-                "x": "Higgsfield ha lanzado playable ads, un nuevo flujo de trabajo exclusivo para empresas que crea anuncios interactivos con AI. Los desarrolladores describen una mecánica de juego, eligen un género y unas dimensiones, añaden recursos creativos (hasta 100, entre ellos sprites, texturas y efectos de sonido) y generan una experiencia jugable en modo manual o automático."
-              },
-              {
-                "t": "video",
-                "yt": "PG0UVcWVNl0"
+                "x": "Amazon está pagando a OpenAI para llegar a los mismos compradores que se niega a dejar que ChatGPT estudie. Tras unos meses tranquilos después de su actividad en Prime Day, ha vuelto al chatbot con una nueva ronda de anuncios de Black Friday en U.S., en los que promociona sus ofertas y dirige a los usuarios a Amazon para completar sus compras."
               },
               {
                 "t": "p",
-                "x": "El anuncio terminado se exporta como un único archivo .html de hasta 5 MB para redes como AppLovin, Meta, Google App Campaigns, Unity Ads y Pangle (TikTok). \"Puedes editarlo y pedirle a un agente que cambie cualquier cosa del juego. Con el marketing de resultados, resulta fácil probar cientos de variantes del juego\", dijo Zhangir Yergaliyev, miembro del personal técnico de Higgsfield."
+                "x": "En lugar de enlazar a páginas de producto individuales, la experiencia de compra de ChatGPT enlaza a resultados de búsqueda de Amazon y se apoya en sitios externos de seguimiento de ofertas para identificar productos, descuentos y precios actualizados, sin acceder necesariamente al propio sitio web de Amazon."
               },
               {
                 "t": "p",
-                "x": "Higgsfield eliminó la importación de enlaces de App Store y Google Play después de que los estudios plantearan preocupaciones sobre copias y cuestiones legales. La empresa informó de que el proceso manual tarda de media cinco días y cuesta unos $5,000 por anuncio jugable; su herramienta tarda unos 40 minutos en una primera versión, con un coste estimado de $30 a $40 por anuncio. El equipo de anuncios jugables tiene menos de 10 personas y creó la primera versión en dos semanas."
+                "x": "“Enviar a los compradores a resultados de búsqueda de Amazon en lugar de a páginas de producto individuales también crea otra oportunidad de ganar dinero con la publicidad”, dijo Arielle Feger, de eMarketer. Se prevé que los ingresos por anuncios de búsqueda de Amazon en U.S. alcancen los $40.57 billion este año. “Para las marcas, eso crea el riesgo de pagar dos veces por el mismo cliente”, añadió."
+              },
+              {
+                "t": "p",
+                "x": "En septiembre, Amazon Ads anunció una alianza que permite a los anunciantes comprar inventario de ChatGPT a través del DSP de Amazon. No está claro si Amazon compró sus anuncios en ChatGPT directamente a OpenAI o a través de su propio DSP. Ambas declinaron hacer comentarios."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Amazon ChatGPT\n광고, OpenAI는 차단",
+          "body": "Amazon은 ChatGPT Black Friday 광고 사도 OpenAI 막는다.",
+          "mini_headline": "Amazon, ChatGPT 광고 구매",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
+              },
+              {
+                "t": "p",
+                "x": "Amazon은 ChatGPT가 들여다보지 못하게 막아 온 바로 그 쇼핑객에게 닿으려고 OpenAI에 돈을 내고 있다. Prime Day 이후 몇 달간 잠잠하던 Amazon은 U.S.(미국)에서 Black Friday 광고를 새로 집행하며 챗봇에 돌아왔고, 할인 상품을 알리고 사용자를 Amazon으로 보내 구매를 마치게 한다."
+              },
+              {
+                "t": "p",
+                "x": "ChatGPT의 쇼핑 기능은 개별 상품 페이지가 아니라 Amazon 검색 결과로 연결된다. 상품과 할인, 최신 가격은 제3자 할인 추적 사이트를 참고해 파악하며, Amazon 웹사이트에 꼭 접속하지는 않는다."
+              },
+              {
+                "t": "p",
+                "x": "eMarketer의 Arielle Feger는 “쇼핑객을 개별 상품 페이지가 아닌 Amazon 검색 결과로 보내면 광고로 돈을 벌 기회가 하나 더 생긴다”고 말했다. Amazon의 U.S. 검색 광고 매출은 올해 $40.57 billion에 이를 것으로 전망된다. 그는 “브랜드로서는 같은 고객에게 두 번 돈을 낼 위험이 생긴다”고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "9월 Amazon Ads는 광고주가 Amazon의 DSP를 통해 ChatGPT 광고 지면을 살 수 있는 제휴를 발표했다. Amazon이 ChatGPT 광고를 OpenAI에서 직접 샀는지, 자사 DSP로 샀는지는 분명하지 않다. 두 회사 모두 논평을 거부했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AmazonがChatGPT\n広告を買うもOpenAI遮断",
+          "body": "AmazonはChatGPTにBlack Friday広告を出すがOpenAIは遮断する。",
+          "mini_headline": "AmazonがChatGPT広告を購入",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
+                "cap": "Ivy Liu"
+              },
+              {
+                "t": "p",
+                "x": "Amazonは、ChatGPTに分析させまいとしている買い物客そのものに届くため、OpenAIに金を払っている。Prime Day後の数カ月は静かだったが、U.S.（米国）でBlack Friday広告を新たに展開してチャットボットに戻り、セール品を宣伝してユーザーをAmazonへ誘導し購入を完了させている。"
+              },
+              {
+                "t": "p",
+                "x": "ChatGPTのショッピング機能は個別の商品ページではなくAmazonの検索結果にリンクする。商品や割引、最新価格は第三者のセール追跡サイトを参照して特定しており、必ずしもAmazon自体のサイトにアクセスするわけではない。"
+              },
+              {
+                "t": "p",
+                "x": "eMarketerのArielle Fegerは「買い物客を個別の商品ページではなくAmazonの検索結果に送ることで、広告で稼ぐ機会がもう一つ生まれる」と述べた。AmazonのU.S.検索広告収入は今年$40.57 billionに達すると予測されている。「ブランドにとっては、同じ顧客に二度払うリスクが生じる」と彼女は付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "9月、Amazon Adsは広告主がAmazonのDSPを通じてChatGPTの広告枠を購入できる提携を発表した。AmazonがChatGPT広告をOpenAIから直接買ったのか、自社のDSP経由で買ったのかは不明だ。両社ともコメントを控えた。"
               }
             ]
           }
@@ -637,15 +637,15 @@
       }
     },
     {
-      "id": "pinterest-msads-inventory",
+      "id": "walmart-meta-muse-blackfriday",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Pinterest 지면을\nMicrosoft에 연다",
-      "body": "Microsoft Advertising 광고가 AI로 Pinterest에 실린다.",
-      "mini_headline": "Microsoft 통한 Pinterest 광고",
+      "headline": "Walmart 특가를\nMeta Muse에서 산다",
+      "body": "Walmart가 Meta Muse에서 Black Friday 특가 쇼핑을 연다.",
+      "mini_headline": "Meta Muse에서 Walmart 특가",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/pinterest-sells-feed-and-search-ad-space-through-microsoft-advertising/",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -653,131 +653,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
-            "cap": "Pinterest는 피드와 검색 광고 지면을 Microsoft Advertising으로 팔되 유럽은 제외했다"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
           },
           {
             "t": "p",
-            "x": "Pinterest가 조건을 갖춘 Microsoft Advertising 캠페인을 홈 피드, 검색 결과, 관련 Pins에 내보낼 수 있는 연동을 발표했다. 게재 위치는 \"맞춤형 맥락 입찰 모델\"이 정하고 새 구매 도구는 따로 필요 없다. 북미, 호주, 뉴질랜드에서 \"우선\" 시작하며 유럽은 빠진다. 출시일, 가격, 대상 조건 목록, 광고 형식, 캠페인 성과는 발표에 담기지 않았다."
+            "x": "Walmart가 Meta와 손잡고 Meta의 AI 에이전트 Muse로 Black Friday 특가 상품을 살 수 있게 한다. 화요일 발표된 제휴에 따라 쇼핑객이 Muse에 원하는 것을 말하면 AI가 상품을 찾고 가격을 비교해 구매까지 마친다. Amazon은 제3자 AI 에이전트가 고객 대신 구매하지 못하게 막아 왔지만, Walmart는 이 방식을 적극 받아들인다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
+            "cap": "이미지 출처: Walmart"
           },
           {
             "t": "p",
-            "x": "이 모델은 Pinterest 검색 쿼리와 맥락 신호, Pinterest가 Pinterest Intelligence라 부르는 체계의 퍼스트파티 의도 데이터를 쓴다. 수요는 Bing, MSN, Xbox, Outlook 등 Microsoft 자산에서 온다. Pinterest가 내세우는 숫자는 월간 활성 이용자 661 million 명, 월간 검색 80 billion 건이다. Amazon(2023), Google(2024), Index Exchange와 Criteo, Programmatic Deals(2026년 10월 26일)에 이은 개방이다. Microsoft는 2026년 2월 자체 DSP인 Microsoft Invest를 접었다."
+            "x": "사용자는 Muse 앱에서 Walmart 계정에 로그인한다. Muse가 Walmart에 요청을 보내면 Walmart가 관련 상품을 돌려주고 장바구니 구성을 돕는다. Muse는 고객의 Walmart 구매 이력이나 다른 개인정보에 접근하지 못한다. 쇼핑객은 지출 한도와 구매 전 승인 여부를 정하고 에이전트가 넣은 주문도 검토할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "이 기능은 Walmart가 10월 내놓은 Agent Gateway로 돌아간다. 외부 AI 어시스턴트가 온라인 스토어에 바로 연결되도록 만든 도구다. Walmart는 이를 더 많은 개발자와 AI 플랫폼에 열 계획이다. Instacart도 Muse와 손잡았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pinterest opens ad space to\nMicrosoft Advertising",
-          "body": "Microsoft Advertising campaigns can run in Pinterest's feed and search, placed by a model using Pinterest's AI signals.",
-          "mini_headline": "Pinterest ads via Microsoft",
+          "headline": "Walmart brings Black Friday\nto Meta's Muse agent",
+          "body": "Walmart lets customers shop its Black Friday deals through Meta's Muse agent via a gateway it controls.",
+          "mini_headline": "Walmart deals on Meta's Muse",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
-                "cap": "Pinterest sells feed and search ad space through Microsoft Advertising, leaving Europe out"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
               },
               {
                 "t": "p",
-                "x": "Pinterest announced an integration that lets eligible Microsoft Advertising campaigns run in its home feed, search results and related Pins, with placement chosen by a \"custom contextual bidding model\" — no new buying tool required. It launches in North America, Australia and New Zealand \"to start\"; Europe is excluded. The announcement gives no launch date, pricing, eligibility list, ad formats or campaign results."
+                "x": "Walmart is teaming up with Meta to let customers shop its Black Friday deals through Muse, Meta’s AI agent. Announced Tuesday, the partnership lets shoppers tell Muse what they want and let the AI find products, compare prices and make purchases. While Amazon has taken steps to stop third-party AI agents from buying for customers, Walmart is leaning into the idea."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
+                "cap": "Image Credits: Walmart"
               },
               {
                 "t": "p",
-                "x": "The model uses Pinterest search queries, contextual signals and first-party intent data drawn from what Pinterest calls Pinterest Intelligence. Demand comes from Microsoft properties including Bing, MSN, Xbox and Outlook. Pinterest cites 661 million monthly active users and 80 billion monthly searches. The move follows openings to Amazon (2023), Google (2024), Index Exchange and Criteo, and Programmatic Deals (October 26, 2026); Microsoft shut its own DSP, Microsoft Invest, in February 2026."
+                "x": "Users sign in to their Walmart account from the Muse app; Muse sends requests to Walmart, which returns relevant products and helps build a cart. Muse doesn’t get access to a customer’s Walmart shopping history or other personal information, and shoppers can set spending limits, require approval before purchases and review orders placed by the agent."
+              },
+              {
+                "t": "p",
+                "x": "The experience is powered by Walmart’s Agent Gateway, launched in October to let outside AI assistants connect directly with its online store; Walmart plans to open it to more developers and AI platforms. Instacart has also joined forces with Muse."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pinterest 지면을\nMicrosoft에 연다",
-          "body": "Microsoft Advertising 광고가 AI로 Pinterest에 실린다.",
-          "mini_headline": "Microsoft 통한 Pinterest 광고",
+          "headline": "Walmart 특가를\nMeta Muse에서 산다",
+          "body": "Walmart가 Meta Muse에서 Black Friday 특가 쇼핑을 연다.",
+          "mini_headline": "Meta Muse에서 Walmart 특가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
-                "cap": "Pinterest는 피드와 검색 광고 지면을 Microsoft Advertising으로 팔되 유럽은 제외했다"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
               },
               {
                 "t": "p",
-                "x": "Pinterest가 조건을 갖춘 Microsoft Advertising 캠페인을 홈 피드, 검색 결과, 관련 Pins에 내보낼 수 있는 연동을 발표했다. 게재 위치는 \"맞춤형 맥락 입찰 모델\"이 정하고 새 구매 도구는 따로 필요 없다. 북미, 호주, 뉴질랜드에서 \"우선\" 시작하며 유럽은 빠진다. 출시일, 가격, 대상 조건 목록, 광고 형식, 캠페인 성과는 발표에 담기지 않았다."
+                "x": "Walmart가 Meta와 손잡고 Meta의 AI 에이전트 Muse로 Black Friday 특가 상품을 살 수 있게 한다. 화요일 발표된 제휴에 따라 쇼핑객이 Muse에 원하는 것을 말하면 AI가 상품을 찾고 가격을 비교해 구매까지 마친다. Amazon은 제3자 AI 에이전트가 고객 대신 구매하지 못하게 막아 왔지만, Walmart는 이 방식을 적극 받아들인다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
+                "cap": "이미지 출처: Walmart"
               },
               {
                 "t": "p",
-                "x": "이 모델은 Pinterest 검색 쿼리와 맥락 신호, Pinterest가 Pinterest Intelligence라 부르는 체계의 퍼스트파티 의도 데이터를 쓴다. 수요는 Bing, MSN, Xbox, Outlook 등 Microsoft 자산에서 온다. Pinterest가 내세우는 숫자는 월간 활성 이용자 661 million 명, 월간 검색 80 billion 건이다. Amazon(2023), Google(2024), Index Exchange와 Criteo, Programmatic Deals(2026년 10월 26일)에 이은 개방이다. Microsoft는 2026년 2월 자체 DSP인 Microsoft Invest를 접었다."
+                "x": "사용자는 Muse 앱에서 Walmart 계정에 로그인한다. Muse가 Walmart에 요청을 보내면 Walmart가 관련 상품을 돌려주고 장바구니 구성을 돕는다. Muse는 고객의 Walmart 구매 이력이나 다른 개인정보에 접근하지 못한다. 쇼핑객은 지출 한도와 구매 전 승인 여부를 정하고 에이전트가 넣은 주문도 검토할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능은 Walmart가 10월 내놓은 Agent Gateway로 돌아간다. 외부 AI 어시스턴트가 온라인 스토어에 바로 연결되도록 만든 도구다. Walmart는 이를 더 많은 개발자와 AI 플랫폼에 열 계획이다. Instacart도 Muse와 손잡았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pinterest、広告枠を\nMicrosoftに開放",
-          "body": "Microsoft Advertisingの広告がAIでPinterestに載る。",
-          "mini_headline": "Microsoft経由のPinterest広告",
+          "headline": "Walmartの特売を\nMetaのMuseで",
+          "body": "WalmartはMetaのMuseを通じてBlack Friday特価を買えるようにした。",
+          "mini_headline": "Walmart特価をMetaのMuseで",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
-                "cap": "Pinterestはフィードと検索の広告枠をMicrosoft Advertising経由で販売し、欧州は対象外とした"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
               },
               {
                 "t": "p",
-                "x": "Pinterestは、条件を満たすMicrosoft Advertisingのキャンペーンをホームフィード、検索結果、関連Pinsに配信できる連携を発表した。掲載位置は「カスタムのコンテクスチュアル入札モデル」が決め、新たな購入ツールは要らない。北米、オーストラリア、ニュージーランドで「まずは」開始し、欧州は対象外だ。発表には開始日、価格、対象条件の一覧、広告フォーマット、キャンペーン実績は含まれていない。"
+                "x": "WalmartはMetaと組み、MetaのAIエージェントMuseを通じて顧客がBlack Fridayのセール品を買えるようにする。火曜日に発表された提携により、買い物客はMuseに欲しいものを伝えるだけで、AIが商品を探し、価格を比較し、購入まで行う。Amazonがサードパーティの AIエージェントによる代理購入を阻む措置を取ってきたのに対し、Walmartはこの考えを積極的に取り入れている。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
+                "cap": "画像提供: Walmart"
               },
               {
                 "t": "p",
-                "x": "このモデルは、Pinterestの検索クエリ、文脈シグナル、そしてPinterestが「Pinterest Intelligence」と呼ぶ仕組みから得たファーストパーティの意図データを使う。需要はBing、MSN、Xbox、OutlookなどMicrosoftの各サービスから来る。Pinterestは月間アクティブユーザー661 million 人、月間検索80 billion 回を掲げる。今回の動きは、Amazon（2023年）、Google（2024年）、Index ExchangeとCriteo、Programmatic Deals（2026年10月26日）への開放に続くものだ。Microsoftは2026年2月に自社DSPのMicrosoft Investを終了している。"
+                "x": "ユーザーはMuseアプリからWalmartアカウントにサインインする。MuseがWalmartにリクエストを送ると、Walmartが関連商品を返し、カート作成を手伝う。MuseはWalmartでの購入履歴やその他の個人情報にはアクセスできず、買い物客は支出上限の設定、購入前の承認、エージェントが行った注文の確認ができる。"
+              },
+              {
+                "t": "p",
+                "x": "この体験を支えるのは、外部のAIアシスタントがオンラインストアに直接接続できるよう10月に始まったWalmartのAgent Gatewayだ。Walmartはこれをより多くの開発者やAIプラットフォームに開放する計画だ。InstacartもMuseと手を組んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pinterest广告位\n向Microsoft开放",
-          "body": "Microsoft Advertising广告依据AI信号投放至Pinterest。",
-          "mini_headline": "经Microsoft投放Pinterest广告",
+          "headline": "Walmart黑五大促\n搬进Meta的Muse",
+          "body": "Walmart通过自有网关，让顾客在Meta的Muse里选购Black Friday优惠。",
+          "mini_headline": "Walmart优惠登陆Meta Muse",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
-                "cap": "Pinterest通过Microsoft Advertising出售信息流和搜索广告位，欧洲不在其列"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
               },
               {
                 "t": "p",
-                "x": "Pinterest宣布了一项集成，符合条件的Microsoft Advertising广告活动可投放到其首页信息流、搜索结果和相关Pins中，投放位置由“定制的情境竞价模型”决定，无需新的购买工具。该集成“首先”在北美、澳大利亚和新西兰推出，欧洲被排除在外。公告未提供上线日期、定价、资格名单、广告格式或广告活动效果。"
+                "x": "Walmart与Meta合作，让顾客通过Meta的AI智能体Muse选购其Black Friday优惠商品。根据周二宣布的合作，购物者只需告诉Muse想要什么，AI就会寻找商品、比较价格并完成购买。Amazon已采取措施阻止第三方AI智能体代客户购物，而Walmart则积极拥抱这一做法。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
+                "cap": "图片来源：Walmart"
               },
               {
                 "t": "p",
-                "x": "该模型使用Pinterest搜索查询、情境信号，以及来自Pinterest所称Pinterest Intelligence的第一方意图数据。需求来自Bing、MSN、Xbox和Outlook等Microsoft旗下产品。Pinterest称其拥有661 million 月活跃用户和80 billion 次月搜索量。此前，Pinterest已向Amazon（2023年）、Google（2024年）、Index Exchange和Criteo以及Programmatic Deals（2026年10月26日）开放；Microsoft已于2026年2月关闭自家DSP Microsoft Invest。"
+                "x": "用户在Muse应用中登录Walmart账户；Muse向Walmart发送请求，Walmart返回相关商品并协助生成购物车。Muse无法获取顾客的Walmart购物记录或其他个人信息，购物者可以设置消费上限、要求购买前确认，并查看智能体下的订单。"
+              },
+              {
+                "t": "p",
+                "x": "这项体验由Walmart于10月推出的Agent Gateway提供支持，该网关让外部AI助手直接连接其线上商店；Walmart计划向更多开发者和AI平台开放。Instacart也已与Muse合作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pinterest abre su inventario a\nMicrosoft Advertising",
-          "body": "Las campañas de Microsoft Advertising llegan al feed y la búsqueda de Pinterest mediante un modelo con señales de AI.",
-          "mini_headline": "Anuncios en Pinterest vía Microsoft",
+          "headline": "Walmart lleva su Black Friday\nal agente Muse de Meta",
+          "body": "Walmart permite comprar ofertas de Black Friday a través del agente Muse de Meta, mediante una pasarela que controla.",
+          "mini_headline": "Ofertas de Walmart en Muse de Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
-                "cap": "Pinterest vende espacio publicitario en el feed y la búsqueda a través de Microsoft Advertising, sin incluir Europa"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
               },
               {
                 "t": "p",
-                "x": "Pinterest anunció una integración que permite que las campañas aptas de Microsoft Advertising se muestren en su feed de inicio, en los resultados de búsqueda y en Pins relacionados, con una ubicación elegida por un \"modelo de puja contextual personalizado\", sin necesidad de una nueva herramienta de compra. Se lanza en Norteamérica, Australia y Nueva Zelanda \"para empezar\"; Europa queda excluida. El anuncio no da fecha de lanzamiento, precios, lista de requisitos, formatos publicitarios ni resultados de campañas."
+                "x": "Walmart se alía con Meta para que sus clientes compren sus ofertas de Black Friday a través de Muse, el agente de AI de Meta. Anunciada el martes, la alianza permite a los compradores decirle a Muse lo que quieren y dejar que la AI encuentre productos, compare precios y realice compras. Mientras Amazon ha tomado medidas para impedir que agentes de AI de terceros compren en nombre de los clientes, Walmart apuesta por la idea."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
+                "cap": "Créditos de imagen: Walmart"
               },
               {
                 "t": "p",
-                "x": "El modelo usa consultas de búsqueda de Pinterest, señales contextuales y datos de intención propios procedentes de lo que Pinterest llama Pinterest Intelligence. La demanda proviene de propiedades de Microsoft como Bing, MSN, Xbox y Outlook. Pinterest cita 661 millones de usuarios activos mensuales y 80 mil millones de búsquedas mensuales. El movimiento sigue a las aperturas a Amazon (2023), Google (2024), Index Exchange y Criteo, y Programmatic Deals (26 de octubre de 2026); Microsoft cerró su propio DSP, Microsoft Invest, en febrero de 2026."
+                "x": "Los usuarios inician sesión en su cuenta de Walmart desde la app de Muse; Muse envía solicitudes a Walmart, que devuelve productos relevantes y ayuda a crear el carrito. Muse no accede al historial de compras de Walmart del cliente ni a otros datos personales, y los compradores pueden fijar límites de gasto, exigir aprobación antes de cada compra y revisar los pedidos hechos por el agente."
+              },
+              {
+                "t": "p",
+                "x": "La experiencia funciona con Agent Gateway de Walmart, lanzado en octubre para que asistentes de AI externos se conecten directamente con su tienda en línea; Walmart planea abrirlo a más desarrolladores y plataformas de AI. Instacart también se ha asociado con Muse."
               }
             ]
           }
@@ -785,93 +833,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Pinterest 지면을\nMicrosoft에 연다",
-          "body": "Microsoft Advertising 광고가 AI로 Pinterest에 실린다.",
-          "mini_headline": "Microsoft 통한 Pinterest 광고",
+          "headline": "Walmart 특가를\nMeta Muse에서 산다",
+          "body": "Walmart가 Meta Muse에서 Black Friday 특가 쇼핑을 연다.",
+          "mini_headline": "Meta Muse에서 Walmart 특가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
-                "cap": "Pinterest는 피드와 검색 광고 지면을 Microsoft Advertising으로 판매하며, 유럽은 제외했다"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
               },
               {
                 "t": "p",
-                "x": "Pinterest는 조건을 충족하는 Microsoft Advertising 캠페인을 홈 피드, 검색 결과, 관련 Pins에 게재할 수 있는 연동을 발표했다. 게재 위치는 \"맞춤형 맥락 입찰 모델\"이 정하며, 새 구매 도구는 필요 없다. 북미, 호주, 뉴질랜드에서 \"우선\" 시작하고 유럽은 제외된다. 발표에는 출시일, 가격, 대상 조건 목록, 광고 형식, 캠페인 성과가 없다."
+                "x": "Walmart가 Meta와 손잡고 고객이 Meta의 AI 에이전트 Muse를 통해 Black Friday 특가 상품을 쇼핑할 수 있게 한다. 화요일 발표된 이번 제휴로 쇼핑객은 Muse에 원하는 것을 말하면 AI가 상품을 찾고 가격을 비교해 구매까지 해 준다. Amazon은 제3자 AI 에이전트가 고객 대신 구매하지 못하도록 조치해 왔지만, Walmart는 이 방식을 적극 받아들이고 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
+                "cap": "이미지 출처: Walmart"
               },
               {
                 "t": "p",
-                "x": "이 모델은 Pinterest 검색 쿼리, 맥락 신호, 그리고 Pinterest가 Pinterest Intelligence라 부르는 체계에서 나온 퍼스트파티 의도 데이터를 쓴다. 수요는 Bing, MSN, Xbox, Outlook 등 Microsoft 자산에서 나온다. Pinterest는 월간 활성 이용자 661 million 명, 월간 검색 80 billion 건을 내세운다. 이번 조치는 Amazon(2023), Google(2024), Index Exchange와 Criteo, Programmatic Deals(2026년 10월 26일)에 이은 개방이다. Microsoft는 2026년 2월 자체 DSP인 Microsoft Invest를 종료했다."
+                "x": "사용자는 Muse 앱에서 Walmart 계정에 로그인한다. Muse가 Walmart에 요청을 보내면 Walmart가 관련 상품을 돌려주고 장바구니 구성을 돕는다. Muse는 고객의 Walmart 구매 이력이나 기타 개인정보에 접근하지 못하며, 쇼핑객은 지출 한도를 정하고, 구매 전 승인을 요구하고, 에이전트가 넣은 주문을 검토할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능은 외부 AI 어시스턴트가 온라인 스토어에 직접 연결되도록 10월 출시한 Walmart의 Agent Gateway로 구동된다. Walmart는 이를 더 많은 개발자와 AI 플랫폼에 개방할 계획이다. Instacart도 Muse와 손잡았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pinterest、広告枠を\nMicrosoftに開放",
-          "body": "Microsoft Advertisingの広告がAIでPinterestに載る。",
-          "mini_headline": "Microsoft経由のPinterest広告",
+          "headline": "Walmartの特売を\nMetaのMuseで",
+          "body": "WalmartはMetaのMuseを通じてBlack Friday特価を買えるようにした。",
+          "mini_headline": "Walmart特価をMetaのMuseで",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
-                "cap": "Pinterestはフィードと検索の広告枠をMicrosoft Advertising経由で販売し、欧州は対象外とした"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
               },
               {
                 "t": "p",
-                "x": "Pinterestは、条件を満たすMicrosoft Advertisingのキャンペーンをホームフィード、検索結果、関連Pinsに配信できる連携を発表した。掲載位置は「カスタムのコンテクスチュアル入札モデル」が決め、新たな購入ツールは要らない。北米、オーストラリア、ニュージーランドで「まずは」開始し、欧州は対象外だ。発表には開始日、価格、対象条件の一覧、広告フォーマット、キャンペーン実績は含まれていない。"
+                "x": "WalmartはMetaと組み、MetaのAIエージェントMuseを通じて顧客がBlack Fridayのセール品を買えるようにする。火曜日に発表された提携により、買い物客はMuseに欲しいものを伝えるだけで、AIが商品を探し、価格を比較し、購入まで行う。Amazonがサードパーティの AIエージェントによる代理購入を阻む措置を取ってきたのに対し、Walmartはこの考えを積極的に取り入れている。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
+                "cap": "画像提供: Walmart"
               },
               {
                 "t": "p",
-                "x": "このモデルは、Pinterestの検索クエリ、文脈シグナル、そしてPinterestが「Pinterest Intelligence」と呼ぶ仕組みから得たファーストパーティの意図データを使う。需要はBing、MSN、Xbox、OutlookなどMicrosoftの各サービスから来る。Pinterestは月間アクティブユーザー661 million 人、月間検索80 billion 回を掲げる。今回の動きは、Amazon（2023年）、Google（2024年）、Index ExchangeとCriteo、Programmatic Deals（2026年10月26日）への開放に続くものだ。Microsoftは2026年2月に自社DSPのMicrosoft Investを終了している。"
+                "x": "ユーザーはMuseアプリからWalmartアカウントにサインインする。MuseがWalmartにリクエストを送ると、Walmartが関連商品を返し、カート作成を手伝う。MuseはWalmartでの購入履歴やその他の個人情報にはアクセスできず、買い物客は支出上限の設定、購入前の承認、エージェントが行った注文の確認ができる。"
+              },
+              {
+                "t": "p",
+                "x": "この体験を支えるのは、外部のAIアシスタントがオンラインストアに直接接続できるよう10月に始まったWalmartのAgent Gatewayだ。Walmartはこれをより多くの開発者やAIプラットフォームに開放する計画だ。InstacartもMuseと手を組んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pinterest广告位\n向Microsoft开放",
-          "body": "Microsoft Advertising广告依据AI信号投放至Pinterest。",
-          "mini_headline": "经Microsoft投放Pinterest广告",
+          "headline": "Walmart黑五大促\n搬进Meta的Muse",
+          "body": "Walmart通过自有网关，让顾客在Meta的Muse里选购Black Friday优惠。",
+          "mini_headline": "Walmart优惠登陆Meta Muse",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
-                "cap": "Pinterest通过Microsoft Advertising出售信息流和搜索广告位，欧洲不在其列"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
               },
               {
                 "t": "p",
-                "x": "Pinterest宣布了一项集成，符合条件的Microsoft Advertising广告活动可投放到其首页信息流、搜索结果和相关Pins中，投放位置由“定制的情境竞价模型”决定，无需新的购买工具。该集成“首先”在北美、澳大利亚和新西兰推出，欧洲被排除在外。公告未提供上线日期、定价、资格名单、广告格式或广告活动效果。"
+                "x": "Walmart与Meta合作，让顾客通过Meta的AI智能体Muse选购其Black Friday优惠商品。根据周二宣布的合作，购物者只需告诉Muse想要什么，AI就会寻找商品、比较价格并完成购买。Amazon已采取措施阻止第三方AI智能体代客户购物，而Walmart则积极拥抱这一做法。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
+                "cap": "图片来源：Walmart"
               },
               {
                 "t": "p",
-                "x": "该模型使用Pinterest搜索查询、情境信号，以及来自Pinterest所称Pinterest Intelligence的第一方意图数据。需求来自Bing、MSN、Xbox和Outlook等Microsoft旗下产品。Pinterest称其拥有661 million 月活跃用户和80 billion 次月搜索量。此前，Pinterest已向Amazon（2023年）、Google（2024年）、Index Exchange和Criteo以及Programmatic Deals（2026年10月26日）开放；Microsoft已于2026年2月关闭自家DSP Microsoft Invest。"
+                "x": "用户在Muse应用中登录Walmart账户；Muse向Walmart发送请求，Walmart返回相关商品并协助生成购物车。Muse无法获取顾客的Walmart购物记录或其他个人信息，购物者可以设置消费上限、要求购买前确认，并查看智能体下的订单。"
+              },
+              {
+                "t": "p",
+                "x": "这项体验由Walmart于10月推出的Agent Gateway提供支持，该网关让外部AI助手直接连接其线上商店；Walmart计划向更多开发者和AI平台开放。Instacart也已与Muse合作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pinterest abre su inventario a\nMicrosoft Advertising",
-          "body": "Las campañas de Microsoft Advertising llegan al feed y la búsqueda de Pinterest mediante un modelo con señales de AI.",
-          "mini_headline": "Anuncios en Pinterest vía Microsoft",
+          "headline": "Walmart lleva su Black Friday\nal agente Muse de Meta",
+          "body": "Walmart permite comprar ofertas de Black Friday a través del agente Muse de Meta, mediante una pasarela que controla.",
+          "mini_headline": "Ofertas de Walmart en Muse de Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
-                "cap": "Pinterest vende espacio publicitario en el feed y la búsqueda a través de Microsoft Advertising, sin incluir Europa"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
               },
               {
                 "t": "p",
-                "x": "Pinterest anunció una integración que permite que las campañas aptas de Microsoft Advertising se muestren en su feed de inicio, en los resultados de búsqueda y en Pins relacionados, con una ubicación elegida por un \"modelo de puja contextual personalizado\", sin necesidad de una nueva herramienta de compra. Se lanza en Norteamérica, Australia y Nueva Zelanda \"para empezar\"; Europa queda excluida. El anuncio no da fecha de lanzamiento, precios, lista de requisitos, formatos publicitarios ni resultados de campañas."
+                "x": "Walmart se alía con Meta para que sus clientes compren sus ofertas de Black Friday a través de Muse, el agente de AI de Meta. Anunciada el martes, la alianza permite a los compradores decirle a Muse lo que quieren y dejar que la AI encuentre productos, compare precios y realice compras. Mientras Amazon ha tomado medidas para impedir que agentes de AI de terceros compren en nombre de los clientes, Walmart apuesta por la idea."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
+                "cap": "Créditos de imagen: Walmart"
               },
               {
                 "t": "p",
-                "x": "El modelo usa consultas de búsqueda de Pinterest, señales contextuales y datos de intención propios procedentes de lo que Pinterest llama Pinterest Intelligence. La demanda proviene de propiedades de Microsoft como Bing, MSN, Xbox y Outlook. Pinterest cita 661 millones de usuarios activos mensuales y 80 mil millones de búsquedas mensuales. El movimiento sigue a las aperturas a Amazon (2023), Google (2024), Index Exchange y Criteo, y Programmatic Deals (26 de octubre de 2026); Microsoft cerró su propio DSP, Microsoft Invest, en febrero de 2026."
+                "x": "Los usuarios inician sesión en su cuenta de Walmart desde la app de Muse; Muse envía solicitudes a Walmart, que devuelve productos relevantes y ayuda a crear el carrito. Muse no accede al historial de compras de Walmart del cliente ni a otros datos personales, y los compradores pueden fijar límites de gasto, exigir aprobación antes de cada compra y revisar los pedidos hechos por el agente."
+              },
+              {
+                "t": "p",
+                "x": "La experiencia funciona con Agent Gateway de Walmart, lanzado en octubre para que asistentes de AI externos se conecten directamente con su tienda en línea; Walmart planea abrirlo a más desarrolladores y plataformas de AI. Instacart también se ha asociado con Muse."
               }
             ]
           }
@@ -879,219 +959,165 @@
       }
     },
     {
-      "id": "chatgpt-shopping-partnership-doc",
+      "id": "creator-deals-no-ai-clauses",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT 쇼핑에서\nOpenAI 제휴문구 삭제",
-      "body": "OpenAI 쇼핑 도움말에서 ChatGPT 상품 결과의 제휴 무관 문구가 빠졌다.",
-      "mini_headline": "ChatGPT 쇼핑, 제휴 무관 문구 삭제",
+      "headline": "브랜드, 크리에이터 계약에\nno-AI 조항 넣는다",
+      "body": "캠페인에 생성형 AI를 못 쓰게 하는 인플루언서 계약이 늘자 크리에이터가 반긴다.",
+      "mini_headline": "크리에이터 계약의 no-AI 조항",
       "tool": "Marketing",
-      "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/chatgpt-product-results-may-be-influenced-by-openai-partnerships-42588.html",
+      "source": "Digiday",
+      "url": "https://digiday.com/future-of-tv/why-brands-are-writing-no-ai-clauses-into-creator-deals/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
           },
           {
             "t": "p",
-            "x": "OpenAI가 Shopping with ChatGPT Search 도움말 문서에서 \"상품 결과는 ChatGPT가 독립적으로 선택하며 광고가 아니고, 어떤 OpenAI 제휴의 영향도 받지 않는다\"는 문장을 고쳤다. 지금은 \"상품 결과는 광고가 아니다. 상품과 판매자를 선정하는 방식은 아래에 설명한다\"라고만 적혀 있다. OpenAI 제휴와 무관하고 그 영향도 받지 않는다는 고지가 사라진 셈이다."
+            "x": "인플루언서 마케팅 계약에 새로 붙기 시작한 부속 조항으로 AI 사용이 있다. 크리에이터 마케팅 회사 Pearpop의 인재 담당 부사장 Kurt Stadelman은 Digiday의 Creator Strategies 행사에서 “이 캠페인 콘텐츠에 크리에이터가 AI를 쓸 수 없다는 문구를 담은 계약이 실제로 점점 늘고 있다”고 말했다."
           },
           {
             "t": "p",
-            "x": "현재 도움말 문서를 과거 보관본과 비교하면 바뀐 부분이 보인다. 두 문서의 diff는 다음과 같다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
-            "cap": "Chatgpt Products Doc Diff(ChatGPT 상품 문서 비교)"
+            "x": "크리에이터들은 오히려 브랜드의 no-AI 요구를 반긴다고 그는 전했다. 생성형 AI에 피드에서 밀려날까 이미 걱정하던 터라 이 조항을 사람이 만든 콘텐츠를 지키겠다는 약속으로 받아들인다. 다만 Pearpop은 콘셉트나 대본을 짜거나 과거 콘텐츠 성과를 분석하는 등 보이지 않는 곳에서는 크리에이터가 여전히 AI 도구를 써도 된다고 명시해야 했다."
           },
           {
             "t": "p",
-            "x": "문서치고는 꽤 큰 변화 같다. 그렇지 않은가?"
-          },
-          {
-            "t": "p",
-            "x": "Juozas Kaziukėnas가 X에 올린 글을 보고 이 변화를 알게 됐다. 그는 \"ChatGPT 쇼핑 도움말 페이지는 더 이상 상품 결과가 어떤 OpenAI 제휴의 영향도 받지 않는다(NOT)고 말하지 않는다\"고 썼다. 그가 이 변경을 찾은 곳은 aivisibilityjournal.com이다."
+            "x": "Stadelman은 크리에이터에게 영구 사용에는 절대 동의하지 말라고 조언했다. 유료 사용권은 석 달로 시작해 여섯 달을 넘기지 말고, net-90 지급 조건은 net-60, 가능하면 net-30으로 당기라고도 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "OpenAI drops a partnership\npledge from ChatGPT shopping",
-          "body": "OpenAI's shopping help page no longer says ChatGPT product results are free of any OpenAI partnership influence.",
-          "mini_headline": "ChatGPT shopping pledge dropped",
+          "headline": "Brands write no-AI clauses\ninto creator contracts",
+          "body": "More influencer deals now bar generative AI in campaign content, and creators welcome the clauses.",
+          "mini_headline": "No-AI clauses in creator deals",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "OpenAI updated its Shopping with ChatGPT Search help documentation to update the line that says \"Product results are selected independently by ChatGPT and are not ads, nor influenced by any OpenAI partnerships.\" It now says, \"Product results are not ads; how products and merchants are selected is described below.\" In short, OpenAI removed the disclaimer that these shopping results are independent of and not influenced by any OpenAI partnerships."
+                "x": "Among the newest addendums in influencer marketing contracts is AI usage. “We actually are seeing more and more contracts including language around the creator not being able to use AI in their content for these campaigns,” said Kurt Stadelman, vp of talent at creator marketing firm Pearpop, at Digiday’s Creator Strategies event."
               },
               {
                 "t": "p",
-                "x": "The live help document when compared to the old archived document shows the change but here is a diff comparing the two:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
-                "cap": "Chatgpt Products Doc Diff"
+                "x": "Creators are actually welcoming brands’ no-AI demands, he said: they already worry about generative AI crowding them out of feeds, so the clauses signal a commitment to human-made content. But Pearpop has had to specify that creators can still use AI tools in the background — to develop a concept or script, or to analyze past content performance."
               },
               {
                 "t": "p",
-                "x": "This seems like a substantial change to its documentation, don't you think?"
-              },
-              {
-                "t": "p",
-                "x": "I spotted this via Juozas Kaziukėnas who posted on X saying, \"ChatGPT shopping help page no longer says product results are NOT influenced by any OpenAI partnerships.\" He spotted this change on aivisibilityjournal.com."
+                "x": "Stadelman also urged creators never to agree to usage in perpetuity, to start paid usage rights at three months and cap them at six, and to push net-90 payment terms toward net-60 or, ideally, net-30."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT 쇼핑에서\nOpenAI 제휴문구 삭제",
-          "body": "OpenAI 쇼핑 도움말에서 ChatGPT 상품 결과의 제휴 무관 문구가 빠졌다.",
-          "mini_headline": "ChatGPT 쇼핑, 제휴 무관 문구 삭제",
+          "headline": "브랜드, 크리에이터 계약에\nno-AI 조항 넣는다",
+          "body": "캠페인에 생성형 AI를 못 쓰게 하는 인플루언서 계약이 늘자 크리에이터가 반긴다.",
+          "mini_headline": "크리에이터 계약의 no-AI 조항",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 Shopping with ChatGPT Search 도움말 문서에서 \"상품 결과는 ChatGPT가 독립적으로 선택하며 광고가 아니고, 어떤 OpenAI 제휴의 영향도 받지 않는다\"는 문장을 고쳤다. 지금은 \"상품 결과는 광고가 아니다. 상품과 판매자를 선정하는 방식은 아래에 설명한다\"라고만 적혀 있다. OpenAI 제휴와 무관하고 그 영향도 받지 않는다는 고지가 사라진 셈이다."
+                "x": "인플루언서 마케팅 계약에 새로 붙기 시작한 부속 조항으로 AI 사용이 있다. 크리에이터 마케팅 회사 Pearpop의 인재 담당 부사장 Kurt Stadelman은 Digiday의 Creator Strategies 행사에서 “이 캠페인 콘텐츠에 크리에이터가 AI를 쓸 수 없다는 문구를 담은 계약이 실제로 점점 늘고 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "현재 도움말 문서를 과거 보관본과 비교하면 바뀐 부분이 보인다. 두 문서의 diff는 다음과 같다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
-                "cap": "Chatgpt Products Doc Diff(ChatGPT 상품 문서 비교)"
+                "x": "크리에이터들은 오히려 브랜드의 no-AI 요구를 반긴다고 그는 전했다. 생성형 AI에 피드에서 밀려날까 이미 걱정하던 터라 이 조항을 사람이 만든 콘텐츠를 지키겠다는 약속으로 받아들인다. 다만 Pearpop은 콘셉트나 대본을 짜거나 과거 콘텐츠 성과를 분석하는 등 보이지 않는 곳에서는 크리에이터가 여전히 AI 도구를 써도 된다고 명시해야 했다."
               },
               {
                 "t": "p",
-                "x": "문서치고는 꽤 큰 변화 같다. 그렇지 않은가?"
-              },
-              {
-                "t": "p",
-                "x": "Juozas Kaziukėnas가 X에 올린 글을 보고 이 변화를 알게 됐다. 그는 \"ChatGPT 쇼핑 도움말 페이지는 더 이상 상품 결과가 어떤 OpenAI 제휴의 영향도 받지 않는다(NOT)고 말하지 않는다\"고 썼다. 그가 이 변경을 찾은 곳은 aivisibilityjournal.com이다."
+                "x": "Stadelman은 크리에이터에게 영구 사용에는 절대 동의하지 말라고 조언했다. 유료 사용권은 석 달로 시작해 여섯 달을 넘기지 말고, net-90 지급 조건은 net-60, 가능하면 net-30으로 당기라고도 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPTショッピング\nOpenAIが提携文言を削除",
-          "body": "OpenAIのヘルプはChatGPTの商品結果が提携の影響を受けないと書かなくなった。",
-          "mini_headline": "ChatGPT買い物、提携文言を削除",
+          "headline": "クリエイター契約に\nno-AI条項が増加",
+          "body": "インフルエンサー契約で生成AIの使用を禁じる例が増え、クリエイターも歓迎している。",
+          "mini_headline": "クリエイター契約にno-AI条項",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "OpenAIは「Shopping with ChatGPT Search」のヘルプ文書で、「商品結果はChatGPTが独自に選んだもので、広告ではなく、いかなるOpenAIの提携の影響も受けていない」という一文を更新した。現在は「商品結果は広告ではない。商品と販売事業者の選び方は以下で説明する」となっている。要するにOpenAIは、これらのショッピング結果がOpenAIの提携から独立し、その影響を受けていないという断り書きを削除した。"
+                "x": "インフルエンサーマーケティング契約に新たに加わる付帯条項の一つがAIの使用だ。クリエイターマーケティング企業Pearpopのタレント担当副社長Kurt Stadelmanは、DigidayのCreator Strategiesイベントで「これらのキャンペーンのコンテンツでクリエイターがAIを使えないとする文言を盛り込む契約が、実際にどんどん増えている」と語った。"
               },
               {
                 "t": "p",
-                "x": "現行のヘルプ文書を以前のアーカイブ版と比べると変更がわかるが、両者を比較したdiffは次のとおりだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
-                "cap": "Chatgpt Products Doc Diff（ChatGPT商品ドキュメントの差分）"
+                "x": "クリエイターはむしろブランドのno-AI要求を歓迎していると彼は言う。生成AIにフィードから押し出されることをすでに懸念しているため、こうした条項は人の手によるコンテンツへのコミットメントの表れになる。ただしPearpopは、コンセプトや台本づくり、過去のコンテンツ実績の分析など、裏方ではクリエイターが引き続きAIツールを使えると明記する必要があった。"
               },
               {
                 "t": "p",
-                "x": "ドキュメントとしてはかなり大きな変更ではないだろうか。"
-              },
-              {
-                "t": "p",
-                "x": "これはJuozas Kaziukėnas氏のXへの投稿で知った。同氏は「ChatGPTのショッピングヘルプページは、商品結果がいかなるOpenAIの提携の影響も受けない（NOT）とは、もう書いていない」と投稿した。同氏はこの変更をaivisibilityjournal.comで見つけた。"
+                "x": "Stadelmanはまた、永久使用には決して同意せず、有償の使用権は三カ月から始めて六カ月を上限とし、net-90の支払条件をnet-60、理想的にはnet-30に縮めるようクリエイターに助言した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT购物页\nOpenAI删去合作声明",
-          "body": "OpenAI购物帮助页不再称ChatGPT商品结果不受任何OpenAI合作影响。",
-          "mini_headline": "ChatGPT购物删去合作声明",
+          "headline": "品牌在达人合同里\n写入no-AI条款",
+          "body": "越来越多网红合约禁止在活动内容中使用生成式AI，创作者对此表示欢迎。",
+          "mini_headline": "达人合约中的no-AI条款",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "OpenAI更新了Shopping with ChatGPT Search帮助文档，修改了其中“商品结果由ChatGPT独立选择，并非广告，也不受任何OpenAI合作关系影响”这句话。现在的表述是：“商品结果并非广告；商品和商家的选择方式见下文说明。”简而言之，OpenAI删除了这些购物结果独立于任何OpenAI合作关系、不受其影响的声明。"
+                "x": "AI使用是网红营销合同中最新出现的附加条款之一。创作者营销公司Pearpop人才副总裁Kurt Stadelman在Digiday的Creator Strategies活动上表示：“我们确实看到越来越多的合同加入相关条款，规定创作者不得在这些活动的内容中使用AI。”"
               },
               {
                 "t": "p",
-                "x": "将当前帮助文档与旧的存档文档相比即可看出变化，下面是两者的diff对比："
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
-                "cap": "Chatgpt Products Doc Diff（ChatGPT商品文档差异对比）"
+                "x": "他说，创作者其实很欢迎品牌的no-AI要求：他们本就担心生成式AI把自己挤出信息流，因此这些条款意味着对人工创作内容的承诺。但Pearpop不得不明确说明，创作者仍可在幕后使用AI工具，比如构思概念或脚本，或分析过往内容的表现。"
               },
               {
                 "t": "p",
-                "x": "这对其文档来说似乎是相当大的改动，你不觉得吗？"
-              },
-              {
-                "t": "p",
-                "x": "我是通过Juozas Kaziukėnas在X上的帖子注意到这一点的，他写道：“ChatGPT购物帮助页面不再说明商品结果‘不’（NOT）受任何OpenAI合作关系影响。”他是在aivisibilityjournal.com上发现这一变化的。"
+                "x": "Stadelman还建议创作者永远不要同意永久授权，付费使用权从三个月起步、以六个月为上限，并把net-90的付款条件争取缩短到net-60，最好是net-30。"
               }
             ]
           }
         },
         "es": {
-          "headline": "OpenAI retira un aviso sobre\nalianzas de compras en ChatGPT",
-          "body": "La ayuda de compras de OpenAI ya no dice que los resultados de ChatGPT estén libres de influencia de sus alianzas.",
-          "mini_headline": "Compras en ChatGPT: se retira un compromiso",
+          "headline": "Marcas añaden cláusulas no-AI\na los contratos de creadores",
+          "body": "Cada vez más acuerdos con influencers prohíben la AI generativa en las campañas, y los creadores las celebran.",
+          "mini_headline": "Cláusulas no-AI en contratos de creadores",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "OpenAI actualizó su documentación de ayuda de Shopping with ChatGPT Search para modificar la frase que decía: \"Los resultados de productos son seleccionados de forma independiente por ChatGPT y no son anuncios, ni están influidos por ninguna alianza de OpenAI\". Ahora dice: \"Los resultados de productos no son anuncios; a continuación se describe cómo se seleccionan los productos y los comercios\". En resumen, OpenAI eliminó la aclaración de que estos resultados de compras son independientes de cualquier alianza de OpenAI y no están influidos por ella."
+                "x": "Entre los anexos más recientes de los contratos de marketing de influencers está el uso de AI. “De hecho, estamos viendo cada vez más contratos que incluyen cláusulas según las cuales el creador no puede usar AI en su contenido para estas campañas”, dijo Kurt Stadelman, vicepresidente de talento de la firma de marketing de creadores Pearpop, en el evento Creator Strategies de Digiday."
               },
               {
                 "t": "p",
-                "x": "El documento de ayuda actual, comparado con el antiguo documento archivado, muestra el cambio, pero aquí hay un diff que compara ambos:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
-                "cap": "Chatgpt Products Doc Diff (comparación de documentos de productos de ChatGPT)"
+                "x": "Según él, los creadores en realidad agradecen las exigencias no-AI de las marcas: ya les preocupa que la AI generativa los desplace de los feeds, así que las cláusulas son una señal de compromiso con el contenido hecho por personas. Pero Pearpop ha tenido que especificar que los creadores aún pueden usar herramientas de AI en segundo plano, para desarrollar un concepto o un guion, o para analizar el rendimiento de contenidos anteriores."
               },
               {
                 "t": "p",
-                "x": "Parece un cambio importante en su documentación, ¿no crees?"
-              },
-              {
-                "t": "p",
-                "x": "Lo vi a través de Juozas Kaziukėnas, que publicó en X: \"La página de ayuda de compras de ChatGPT ya no dice que los resultados de productos NO (NOT) están influidos por ninguna alianza de OpenAI\". Él detectó el cambio en aivisibilityjournal.com."
+                "x": "Stadelman también instó a los creadores a no aceptar nunca usos a perpetuidad, a empezar los derechos de uso pagado en tres meses con un tope de seis, y a llevar los plazos de pago de net-90 hacia net-60 o, idealmente, net-30."
               }
             ]
           }
@@ -1099,141 +1125,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT 쇼핑에서\nOpenAI 제휴문구 삭제",
-          "body": "OpenAI 쇼핑 도움말에서 ChatGPT 상품 결과의 제휴 무관 문구가 빠졌다.",
-          "mini_headline": "ChatGPT 쇼핑, 제휴 무관 문구 삭제",
+          "headline": "브랜드, 크리에이터 계약에\nno-AI 조항 넣는다",
+          "body": "캠페인에 생성형 AI를 금지하는 인플루언서 계약이 늘고 크리에이터는 반긴다.",
+          "mini_headline": "크리에이터 계약의 no-AI 조항",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 Shopping with ChatGPT Search 도움말 문서에서 \"상품 결과는 ChatGPT가 독립적으로 선택하며 광고가 아니고, 어떤 OpenAI 제휴의 영향도 받지 않는다\"는 문장을 고쳤다. 현재 문구는 \"상품 결과는 광고가 아니다. 상품과 판매자를 선정하는 방식은 아래에 설명한다\"이다. 요컨대 OpenAI는 이 쇼핑 결과가 어떤 OpenAI 제휴와도 무관하며 그 영향을 받지 않는다는 고지를 삭제했다."
+                "x": "인플루언서 마케팅 계약에 새로 붙는 부속 조항 가운데 하나가 AI 사용이다. 크리에이터 마케팅 회사 Pearpop의 인재 담당 부사장 Kurt Stadelman은 Digiday의 Creator Strategies 행사에서 “이 캠페인 콘텐츠에 크리에이터가 AI를 쓸 수 없다는 문구를 담은 계약이 실제로 점점 늘고 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "현재 도움말 문서를 과거 보관본과 비교하면 변경 사항이 드러나지만, 두 문서를 비교한 diff는 다음과 같다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
-                "cap": "Chatgpt Products Doc Diff(ChatGPT 상품 문서 비교)"
+                "x": "그는 크리에이터들이 오히려 브랜드의 no-AI 요구를 반기고 있다고 말했다. 생성형 AI가 피드에서 자신들을 밀어낼까 이미 걱정하던 터라, 이 조항을 사람이 만든 콘텐츠에 대한 약속으로 받아들인다는 것이다. 다만 Pearpop은 크리에이터가 콘셉트나 대본을 짜거나 과거 콘텐츠 성과를 분석하는 등 보이지 않는 곳에서는 여전히 AI 도구를 쓸 수 있다고 명시해야 했다."
               },
               {
                 "t": "p",
-                "x": "문서로서는 꽤 큰 변화로 보인다. 그렇지 않은가?"
-              },
-              {
-                "t": "p",
-                "x": "이 변화는 Juozas Kaziukėnas가 X에 올린 글을 통해 알게 됐다. 그는 \"ChatGPT 쇼핑 도움말 페이지는 더 이상 상품 결과가 어떤 OpenAI 제휴의 영향도 받지 않는다(NOT)고 말하지 않는다\"고 썼다. 그는 aivisibilityjournal.com에서 이 변경을 발견했다."
+                "x": "Stadelman은 또 크리에이터에게 영구 사용에는 절대 동의하지 말고, 유료 사용권은 석 달에서 시작해 여섯 달을 상한으로 두며, net-90 지급 조건은 net-60, 가능하면 net-30으로 당기라고 조언했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPTショッピング\nOpenAIが提携文言を削除",
-          "body": "OpenAIのヘルプはChatGPTの商品結果が提携の影響を受けないと書かなくなった。",
-          "mini_headline": "ChatGPT買い物、提携文言を削除",
+          "headline": "クリエイター契約に\nno-AI条項が増加",
+          "body": "インフルエンサー契約で生成AIの使用を禁じる例が増え、クリエイターも歓迎している。",
+          "mini_headline": "クリエイター契約にno-AI条項",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "OpenAIは「Shopping with ChatGPT Search」のヘルプ文書で、「商品結果はChatGPTが独自に選んだもので、広告ではなく、いかなるOpenAIの提携の影響も受けていない」という一文を更新した。現在は「商品結果は広告ではない。商品と販売事業者の選び方は以下で説明する」となっている。要するにOpenAIは、これらのショッピング結果がOpenAIの提携から独立し、その影響を受けていないという断り書きを削除した。"
+                "x": "インフルエンサーマーケティング契約に新たに加わる付帯条項の一つがAIの使用だ。クリエイターマーケティング企業Pearpopのタレント担当副社長Kurt Stadelmanは、DigidayのCreator Strategiesイベントで「これらのキャンペーンのコンテンツでクリエイターがAIを使えないとする文言を盛り込む契約が、実際にどんどん増えている」と語った。"
               },
               {
                 "t": "p",
-                "x": "現行のヘルプ文書を以前のアーカイブ版と比べると変更がわかるが、両者を比較したdiffは次のとおりだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
-                "cap": "Chatgpt Products Doc Diff（ChatGPT商品ドキュメントの差分）"
+                "x": "クリエイターはむしろブランドのno-AI要求を歓迎していると彼は言う。生成AIにフィードから押し出されることをすでに懸念しているため、こうした条項は人の手によるコンテンツへのコミットメントの表れになる。ただしPearpopは、コンセプトや台本づくり、過去のコンテンツ実績の分析など、裏方ではクリエイターが引き続きAIツールを使えると明記する必要があった。"
               },
               {
                 "t": "p",
-                "x": "ドキュメントとしてはかなり大きな変更ではないだろうか。"
-              },
-              {
-                "t": "p",
-                "x": "これはJuozas Kaziukėnas氏のXへの投稿で知った。同氏は「ChatGPTのショッピングヘルプページは、商品結果がいかなるOpenAIの提携の影響も受けない（NOT）とは、もう書いていない」と投稿した。同氏はこの変更をaivisibilityjournal.comで見つけた。"
+                "x": "Stadelmanはまた、永久使用には決して同意せず、有償の使用権は三カ月から始めて六カ月を上限とし、net-90の支払条件をnet-60、理想的にはnet-30に縮めるようクリエイターに助言した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT购物页\nOpenAI删去合作声明",
-          "body": "OpenAI购物帮助页不再称ChatGPT商品结果不受任何OpenAI合作影响。",
-          "mini_headline": "ChatGPT购物删去合作声明",
+          "headline": "品牌在达人合同里\n写入no-AI条款",
+          "body": "越来越多网红合约禁止在活动内容中使用生成式AI，创作者对此表示欢迎。",
+          "mini_headline": "达人合约中的no-AI条款",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "OpenAI更新了Shopping with ChatGPT Search帮助文档，修改了其中“商品结果由ChatGPT独立选择，并非广告，也不受任何OpenAI合作关系影响”这句话。现在的表述是：“商品结果并非广告；商品和商家的选择方式见下文说明。”简而言之，OpenAI删除了这些购物结果独立于任何OpenAI合作关系、不受其影响的声明。"
+                "x": "AI使用是网红营销合同中最新出现的附加条款之一。创作者营销公司Pearpop人才副总裁Kurt Stadelman在Digiday的Creator Strategies活动上表示：“我们确实看到越来越多的合同加入相关条款，规定创作者不得在这些活动的内容中使用AI。”"
               },
               {
                 "t": "p",
-                "x": "将当前帮助文档与旧的存档文档相比即可看出变化，下面是两者的diff对比："
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
-                "cap": "Chatgpt Products Doc Diff（ChatGPT商品文档差异对比）"
+                "x": "他说，创作者其实很欢迎品牌的no-AI要求：他们本就担心生成式AI把自己挤出信息流，因此这些条款意味着对人工创作内容的承诺。但Pearpop不得不明确说明，创作者仍可在幕后使用AI工具，比如构思概念或脚本，或分析过往内容的表现。"
               },
               {
                 "t": "p",
-                "x": "这对其文档来说似乎是相当大的改动，你不觉得吗？"
-              },
-              {
-                "t": "p",
-                "x": "我是通过Juozas Kaziukėnas在X上的帖子注意到这一点的，他写道：“ChatGPT购物帮助页面不再说明商品结果‘不’（NOT）受任何OpenAI合作关系影响。”他是在aivisibilityjournal.com上发现这一变化的。"
+                "x": "Stadelman还建议创作者永远不要同意永久授权，付费使用权从三个月起步、以六个月为上限，并把net-90的付款条件争取缩短到net-60，最好是net-30。"
               }
             ]
           }
         },
         "es": {
-          "headline": "OpenAI retira un aviso sobre\nalianzas de compras en ChatGPT",
-          "body": "La ayuda de compras de OpenAI ya no dice que los resultados de ChatGPT estén libres de influencia de sus alianzas.",
-          "mini_headline": "Compras en ChatGPT: se retira un compromiso",
+          "headline": "Marcas añaden cláusulas no-AI\na los contratos de creadores",
+          "body": "Cada vez más acuerdos con influencers prohíben la AI generativa en las campañas, y los creadores las celebran.",
+          "mini_headline": "Cláusulas no-AI en contratos de creadores",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-shopping-cart-B08BDDsB.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "OpenAI actualizó su documentación de ayuda de Shopping with ChatGPT Search para modificar la frase que decía: \"Los resultados de productos son seleccionados de forma independiente por ChatGPT y no son anuncios, ni están influidos por ninguna alianza de OpenAI\". Ahora dice: \"Los resultados de productos no son anuncios; a continuación se describe cómo se seleccionan los productos y los comercios\". En resumen, OpenAI eliminó la aclaración de que estos resultados de compras son independientes de cualquier alianza de OpenAI y no están influidos por ella."
+                "x": "Entre los anexos más recientes de los contratos de marketing de influencers está el uso de AI. “De hecho, estamos viendo cada vez más contratos que incluyen cláusulas según las cuales el creador no puede usar AI en su contenido para estas campañas”, dijo Kurt Stadelman, vicepresidente de talento de la firma de marketing de creadores Pearpop, en el evento Creator Strategies de Digiday."
               },
               {
                 "t": "p",
-                "x": "El documento de ayuda actual, comparado con el antiguo documento archivado, muestra el cambio, pero aquí hay un diff que compara ambos:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
-                "cap": "Chatgpt Products Doc Diff (comparación de documentos de productos de ChatGPT)"
+                "x": "Según él, los creadores en realidad agradecen las exigencias no-AI de las marcas: ya les preocupa que la AI generativa los desplace de los feeds, así que las cláusulas son una señal de compromiso con el contenido hecho por personas. Pero Pearpop ha tenido que especificar que los creadores aún pueden usar herramientas de AI en segundo plano, para desarrollar un concepto o un guion, o para analizar el rendimiento de contenidos anteriores."
               },
               {
                 "t": "p",
-                "x": "Parece un cambio importante en su documentación, ¿no crees?"
-              },
-              {
-                "t": "p",
-                "x": "Lo vi a través de Juozas Kaziukėnas, que publicó en X: \"La página de ayuda de compras de ChatGPT ya no dice que los resultados de productos NO (NOT) están influidos por ninguna alianza de OpenAI\". Él detectó el cambio en aivisibilityjournal.com."
+                "x": "Stadelman también instó a los creadores a no aceptar nunca usos a perpetuidad, a empezar los derechos de uso pagado en tres meses con un tope de seis, y a llevar los plazos de pago de net-90 hacia net-60 o, idealmente, net-30."
               }
             ]
           }
@@ -1241,15 +1231,15 @@
       }
     },
     {
-      "id": "organicity-d2c-ai",
+      "id": "etnews-ai-fake-doctor-ad-ban",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "오가니시티, 자사몰에\nAI 상담을 넣다",
-      "body": "오가니시티는 리뷰·상담 약 6만 건을 활용한 AI 상담으로 제품 조합을 안내한다.",
-      "mini_headline": "오가니시티 자사몰 AI",
+      "headline": "AI 가짜 의사 광고 금지\n셀러 관리 나선 플랫폼",
+      "body": "네이버는 가상 전문가를 금지했고 G마켓은 기존 상품까지 점검한다.",
+      "mini_headline": "AI 가짜 의사 광고 금지",
       "tool": "Marketing",
-      "source": "바이라인네트워크",
-      "url": "https://byline.network/2026/11/23_291827734-2/",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20261124000360",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1257,179 +1247,179 @@
         "blocks": [
           {
             "t": "p",
-            "x": "‘트라넥삼산 10%’, ‘나이아신아마이드 10%’, ‘PDRN 2500ppm’. 스킨케어 브랜드 ‘오가니시티’는 주요 성분과 함량을 제품명에 내세웁니다. 성분을 찾는 사람은 제품을 쉽게 발견하지만, 어떤 성분을 써야 하는지 모르는 사람에게는 장벽이 됩니다."
+            "x": "오는 27일 'AI 가짜 의사' 식품 광고를 금지하는 법 시행을 앞두고 이커머스 업체들이 판매자 관리에 나섰다. 개정 식품 등의 표시·광고에 관한 법률은 AI로 생성한 실제와 구분하기 어려운 음성·이미지·영상 등으로 전문가가 식품을 추천·보증하는 것으로 오인하게 할 광고를 금지한다. 다만 AI를 사용한 모든 식품 광고가 금지되는 것은 아니다."
           },
           {
             "t": "img",
-            "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
-            "cap": "지난 11일 서울 동대문구에서 만난 송보경 위튼컴퍼니 대표 (출처=바이라인네트워크)"
+            "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
+            "cap": "생성형 AI 제작 이미지."
           },
           {
             "t": "p",
-            "x": "오가니시티는 올해 카페24 기반 자사몰을 구축하고 성분사전, 피부 고민별 제품 탐색, 인공지능(AI) 상담 세 가지 기능을 마련했습니다. 송 대표는 “실제 고객 상담에서는 어떤 제품을 선택해야 하는지뿐 아니라, 다른 제품과 함께 사용해도 되는지, 아침과 저녁 중 언제 사용하는 것이 적절한지 등의 질문이 반복적으로 발생한다”고 설명했습니다. 이렇게 사람이 답했던 질문을 AI가 대신 답합니다."
+            "x": "G마켓은 부당광고 모니터링에 'AI 가상 전문가 추천·보증' 유형을 추가했다. '의사 추천', '약사 추천' 등 문구와 이미지 속 글자까지 인식해 의심 상품을 찾고, 법 시행 전 등록 상품도 같은 기준으로 점검한다."
           },
           {
             "t": "p",
-            "x": "오가니시티는 기술기업 아티웰스와 협력해 네이버 스마트스토어에 쌓인 약 6만 건의 리뷰와 고객 상담 데이터를 AI가 활용할 수 있는 형태로 가공하고, 자체 보유한 성분·제품 정보와 결합했습니다. 고객의 질문에 맞춰 제품 조합과 사용 방법까지 안내합니다."
+            "x": "네이버는 지난 6월 'AI 생성물 사용 기준'을 안내해 의사·약사 등으로 오인될 가상 인물을 상품정보에 넣지 못하게 했고, 식품류에 다른 AI 생성물을 쓰면 표시하도록 했다. 쿠팡과 11번가는 기존 허위·과장 광고 제재 절차로 대응한다."
           },
           {
             "t": "p",
-            "x": "회사의 매출은 2024년 약 4억9800만원에서 2025년 약 16억7800만원으로 늘었습니다. 운영한 지 몇달 되지 않은 자사몰 매출은 스마트스토어 매출의 약 30% 수준까지 높아졌습니다."
+            "x": "남은 과제는 플랫폼 밖 광고다. 판매자가 외부 SNS에 가짜 전문가 광고를 올려 구매자를 유입하면 상세페이지 점검만으로는 발견하기 어렵다. G마켓은 외부 광고도 신고·제보와 자체 모니터링으로 파악하고 있다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "오가니시티, 자사몰에\nAI 상담을 넣다",
-          "body": "오가니시티는 리뷰·상담 약 6만 건을 활용한 AI 상담으로 제품 조합을 안내한다.",
-          "mini_headline": "오가니시티 자사몰 AI",
+          "headline": "AI 가짜 의사 광고 금지\n셀러 관리 나선 플랫폼",
+          "body": "네이버는 가상 전문가를 금지했고 G마켓은 기존 상품까지 점검한다.",
+          "mini_headline": "AI 가짜 의사 광고 금지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "‘트라넥삼산 10%’, ‘나이아신아마이드 10%’, ‘PDRN 2500ppm’. 스킨케어 브랜드 ‘오가니시티’는 주요 성분과 함량을 제품명에 내세웁니다. 성분을 찾는 사람은 제품을 쉽게 발견하지만, 어떤 성분을 써야 하는지 모르는 사람에게는 장벽이 됩니다."
+                "x": "오는 27일 'AI 가짜 의사' 식품 광고를 금지하는 법 시행을 앞두고 이커머스 업체들이 판매자 관리에 나섰다. 개정 식품 등의 표시·광고에 관한 법률은 AI로 생성한 실제와 구분하기 어려운 음성·이미지·영상 등으로 전문가가 식품을 추천·보증하는 것으로 오인하게 할 광고를 금지한다. 다만 AI를 사용한 모든 식품 광고가 금지되는 것은 아니다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
-                "cap": "지난 11일 서울 동대문구에서 만난 송보경 위튼컴퍼니 대표 (출처=바이라인네트워크)"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
+                "cap": "생성형 AI 제작 이미지."
               },
               {
                 "t": "p",
-                "x": "오가니시티는 올해 카페24 기반 자사몰을 구축하고 성분사전, 피부 고민별 제품 탐색, 인공지능(AI) 상담 세 가지 기능을 마련했습니다. 송 대표는 “실제 고객 상담에서는 어떤 제품을 선택해야 하는지뿐 아니라, 다른 제품과 함께 사용해도 되는지, 아침과 저녁 중 언제 사용하는 것이 적절한지 등의 질문이 반복적으로 발생한다”고 설명했습니다. 이렇게 사람이 답했던 질문을 AI가 대신 답합니다."
+                "x": "G마켓은 부당광고 모니터링에 'AI 가상 전문가 추천·보증' 유형을 추가했다. '의사 추천', '약사 추천' 등 문구와 이미지 속 글자까지 인식해 의심 상품을 찾고, 법 시행 전 등록 상품도 같은 기준으로 점검한다."
               },
               {
                 "t": "p",
-                "x": "오가니시티는 기술기업 아티웰스와 협력해 네이버 스마트스토어에 쌓인 약 6만 건의 리뷰와 고객 상담 데이터를 AI가 활용할 수 있는 형태로 가공하고, 자체 보유한 성분·제품 정보와 결합했습니다. 고객의 질문에 맞춰 제품 조합과 사용 방법까지 안내합니다."
+                "x": "네이버는 지난 6월 'AI 생성물 사용 기준'을 안내해 의사·약사 등으로 오인될 가상 인물을 상품정보에 넣지 못하게 했고, 식품류에 다른 AI 생성물을 쓰면 표시하도록 했다. 쿠팡과 11번가는 기존 허위·과장 광고 제재 절차로 대응한다."
               },
               {
                 "t": "p",
-                "x": "회사의 매출은 2024년 약 4억9800만원에서 2025년 약 16억7800만원으로 늘었습니다. 운영한 지 몇달 되지 않은 자사몰 매출은 스마트스토어 매출의 약 30% 수준까지 높아졌습니다."
+                "x": "남은 과제는 플랫폼 밖 광고다. 판매자가 외부 SNS에 가짜 전문가 광고를 올려 구매자를 유입하면 상세페이지 점검만으로는 발견하기 어렵다. G마켓은 외부 광고도 신고·제보와 자체 모니터링으로 파악하고 있다."
               }
             ]
           }
         },
         "en": {
-          "headline": "Organicity adds AI consultation\nto its own online store",
-          "body": "Organicity's AI consultation draws on about 60,000 reviews and inquiries to recommend product combinations.",
-          "mini_headline": "Organicity's in-house store AI",
+          "headline": "Ban on AI fake-doctor ads\nPlatforms tighten seller checks",
+          "body": "Naver has banned virtual experts, and G-Market is checking even products that were already listed.",
+          "mini_headline": "AI fake-doctor ads banned",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "'Tranexamic Acid 10%', 'Niacinamide 10%', 'PDRN 2500ppm'. Skincare brand Organicity puts its key ingredients and their concentrations in its product names. That makes products easy to find for people who search by ingredient, but it is a barrier for people who don't know which ingredient they should use."
+                "x": "Ahead of a law taking effect on the 27th that bans food ads featuring 'AI fake doctors,' e-commerce companies have begun managing their sellers. The amended Act on Labeling and Advertising of Foods bans ads that could mislead people into thinking an expert recommends or endorses a food, using AI-generated voices, images or videos that are hard to tell from reality. Not every food ad that uses AI is banned, however."
               },
               {
                 "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
-                "cap": "Song Bo-kyung, CEO of Witten Company, met in Dongdaemun-gu, Seoul, on the 11th (Source: Byline Network)"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
+                "cap": "Image created with generative AI."
               },
               {
                 "t": "p",
-                "x": "This year Organicity built its own online store on Cafe24 and set up three features: an ingredient dictionary, product search by skin concern, and artificial intelligence (AI) consultation. \"In actual customer consultations, questions come up again and again not only about which product to choose, but also about whether it can be used with other products and whether it is better used in the morning or in the evening,\" Song explained. The AI now answers the questions that people used to answer."
+                "x": "G-Market has added an 'AI virtual expert recommendation/endorsement' category to its monitoring of unfair ads. It finds suspect products by recognizing phrases such as 'doctor recommended' and 'pharmacist recommended,' down to text inside images, and checks products registered before the law takes effect against the same standard."
               },
               {
                 "t": "p",
-                "x": "Working with tech company Artiwealth, Organicity processed about 60,000 reviews and customer consultation records accumulated on Naver Smart Store into a form AI can use, and combined them with its own ingredient and product information. It guides customers through product combinations and even how to use them, based on their questions."
+                "x": "In June, Naver issued 'AI-generated content usage standards' that bar virtual figures who could be mistaken for doctors or pharmacists from product information, and require a label when other AI-generated content is used for food products. Coupang and 11st are responding through their existing sanction procedures for false or exaggerated ads."
               },
               {
                 "t": "p",
-                "x": "The company's revenue grew from about 4억9800만원 in 2024 to about 16억7800만원 in 2025. Sales at its own store, which has been running for only a few months, have risen to about 30% of its Smart Store sales."
+                "x": "The remaining challenge is ads outside the platforms. If sellers post fake-expert ads on outside SNS to draw buyers in, checking product detail pages alone makes them hard to detect. G-Market is also tracking outside ads through reports, tips and its own monitoring."
               }
             ]
           }
         },
         "ja": {
-          "headline": "オーガニシティ、\n自社モールにAI相談導入",
-          "body": "オーガニシティは約6万件のレビューと相談を生かしたAI相談で製品の組み合わせを案内する。",
-          "mini_headline": "オーガニシティの自社モールAI",
+          "headline": "AI偽医師広告を禁止\n出品者管理に動く各社",
+          "body": "ネイバーは仮想専門家を禁止し、Gマーケットは既存商品まで点検する。",
+          "mini_headline": "AI偽医師広告を禁止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "「トラネキサム酸10%」「ナイアシンアミド10%」「PDRN 2500ppm」。スキンケアブランド「オーガニシティ」は、主要成分とその含有量を製品名に掲げる。成分で探す人には製品が見つけやすい一方、どの成分を使うべきかわからない人には壁になる。"
+                "x": "27日に「AI偽医師」による食品広告を禁じる法律の施行を控え、EC各社が出品者の管理に乗り出した。改正された食品等の表示・広告に関する法律は、AIで生成した実物と見分けにくい音声・画像・映像などで、専門家が食品を推薦・保証していると誤認させる広告を禁じる。ただし、AIを使った食品広告がすべて禁止されるわけではない。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
-                "cap": "11日、ソウル・東大門区で会ったウィトゥンカンパニーのソン・ボギョン代表（出典＝バイラインネットワーク）"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
+                "cap": "生成AIで作成した画像。"
               },
               {
                 "t": "p",
-                "x": "オーガニシティは今年、カフェ24を基盤とする自社モールを構築し、成分辞典、肌悩み別の製品探索、人工知能（AI）相談の三つの機能を用意した。ソン代表は「実際の顧客相談では、どの製品を選ぶべきかだけでなく、他の製品と一緒に使ってよいか、朝と夜のどちらに使うのが適切かといった質問が繰り返し寄せられる」と説明した。こうして人が答えていた質問に、AIが代わりに答える。"
+                "x": "Gマーケットは不当広告のモニタリングに「AI仮想専門家による推薦・保証」の類型を追加した。「医師推薦」「薬剤師推薦」などの文言や画像内の文字まで認識して疑わしい商品を探し、法施行前に登録された商品も同じ基準で点検する。"
               },
               {
                 "t": "p",
-                "x": "オーガニシティは技術企業アティウェルスと協力し、NAVERスマートストアに蓄積された約6万件のレビューと顧客相談データをAIが活用できる形に加工し、自社が持つ成分・製品情報と組み合わせた。顧客の質問に合わせ、製品の組み合わせから使い方まで案内する。"
+                "x": "ネイバーは6月に「AI生成物の使用基準」を案内し、医師・薬剤師などと誤認されうる仮想人物を商品情報に載せられないようにしたほか、食品類にその他のAI生成物を使う場合は表示するよう求めた。クーパンと11番街は既存の虚偽・誇大広告への制裁手続きで対応する。"
               },
               {
                 "t": "p",
-                "x": "同社の売上高は2024年の約4억9800만원から2025年には約16억7800만원に増えた。運営開始から数カ月しかたっていない自社モールの売上は、スマートストア売上の約30%の水準まで高まった。"
+                "x": "残る課題はプラットフォーム外の広告だ。出品者が外部のSNSに偽専門家広告を載せて購入者を呼び込めば、詳細ページの点検だけでは見つけにくい。Gマーケットは外部広告についても通報・情報提供と独自モニタリングで把握している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Organicity在官网\n引入AI咨询服务",
-          "body": "Organicity利用约6万条评论与咨询数据，通过AI咨询推荐产品组合。",
-          "mini_headline": "Organicity官网AI咨询",
+          "headline": "禁止AI假医生广告\n平台加强卖家管理",
+          "body": "Naver已禁止使用虚拟专家，G市场连既有商品也一并检查。",
+          "mini_headline": "禁止AI假医生广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "“传明酸10%”“烟酰胺10%”“PDRN 2500ppm”。护肤品牌Organicity把主要成分及含量写进产品名称。按成分找产品的人很容易发现它们，但对不清楚该用哪种成分的人来说，这反而成了门槛。"
+                "x": "禁止“AI假医生”食品广告的法律将于27日起施行，电商企业纷纷着手管理卖家。修订后的《食品等标示·广告法》禁止利用AI生成、难以与真实区分的声音、图像、视频等，让人误以为专家在推荐或担保食品的广告。不过，并非所有使用AI的食品广告都被禁止。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
-                "cap": "11日在首尔东大门区见到的Witten Company代表宋宝京（来源：Byline Network）"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
+                "cap": "生成式AI制作的图片。"
               },
               {
                 "t": "p",
-                "x": "Organicity今年基于Cafe24搭建了自营商城，并推出成分词典、按肌肤困扰查找产品、人工智能（AI）咨询三项功能。宋代表解释说：“在实际的客户咨询中，不仅是该选哪款产品，诸如能否与其他产品一起使用、早上还是晚上用更合适等问题也反复出现。”过去由人回答的这些问题，如今由AI代为回答。"
+                "x": "G市场在不当广告监控中新增了“AI虚拟专家推荐·担保”类型。系统会识别“医生推荐”“药师推荐”等文字乃至图片中的字样来查找可疑商品，法律施行前登记的商品也按同一标准检查。"
               },
               {
                 "t": "p",
-                "x": "Organicity与科技公司Artiwealth合作，将Naver Smart Store上积累的约6万条评论和客户咨询数据加工成AI可用的形式，并与自有的成分和产品信息相结合，根据顾客的问题推荐产品组合乃至使用方法。"
+                "x": "Naver于6月发布“AI生成物使用标准”，禁止在商品信息中放入可能被误认为医生、药师等的虚拟人物，并要求食品类使用其他AI生成内容时进行标注。Coupang和11街则沿用现有的虚假·夸大广告处罚程序应对。"
               },
               {
                 "t": "p",
-                "x": "公司营收从2024年的约4억9800만원增至2025年的约16억7800만원。运营仅数月的自营商城，销售额已升至Smart Store销售额的约30%。"
+                "x": "剩下的难题是平台之外的广告。卖家若在外部SNS发布假专家广告来引流买家，仅靠检查商品详情页很难发现。G市场也在通过举报、线索和自主监控掌握外部广告。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Organicity añade asesoría AI\na su tienda online propia",
-          "body": "Organicity orienta sobre combinaciones de productos con una AI que usa unas 60.000 reseñas y consultas.",
-          "mini_headline": "La AI de la tienda propia de Organicity",
+          "headline": "Veto a falsos médicos de AI\ny plataformas vigilan vendedores",
+          "body": "Naver ha prohibido los expertos virtuales y G-Market revisa incluso los productos ya publicados.",
+          "mini_headline": "Veto a falsos médicos de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "'Ácido tranexámico 10%', 'Niacinamida 10%', 'PDRN 2500ppm'. La marca de cuidado de la piel Organicity destaca en el nombre de sus productos los ingredientes principales y su concentración. Quien busca por ingrediente encuentra los productos con facilidad, pero para quien no sabe qué ingrediente debe usar supone una barrera."
+                "x": "Ante la entrada en vigor el día 27 de una ley que prohíbe los anuncios de alimentos con 'falsos médicos de AI', las empresas de comercio electrónico han empezado a controlar a sus vendedores. La ley reformada sobre etiquetado y publicidad de alimentos prohíbe los anuncios que, mediante voces, imágenes o videos generados con AI y difíciles de distinguir de la realidad, hagan creer que un experto recomienda o avala un alimento. Sin embargo, no se prohíben todos los anuncios de alimentos que usen AI."
               },
               {
                 "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
-                "cap": "Song Bo-kyung, CEO de Witten Company, el día 11 en Dongdaemun-gu, Seúl (fuente: Byline Network)"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
+                "cap": "Imagen creada con AI generativa."
               },
               {
                 "t": "p",
-                "x": "Este año, Organicity creó su propia tienda online sobre Cafe24 y preparó tres funciones: un diccionario de ingredientes, búsqueda de productos por problema de piel y asesoría con inteligencia artificial (AI). \"En las consultas reales de clientes se repiten preguntas no solo sobre qué producto elegir, sino también sobre si se puede usar junto con otros productos o si conviene usarlo por la mañana o por la noche\", explicó Song. Ahora la AI responde a las preguntas que antes contestaban personas."
+                "x": "G-Market ha añadido a su monitoreo de publicidad indebida la categoría 'recomendación o aval de expertos virtuales de AI'. Detecta productos sospechosos reconociendo expresiones como 'recomendado por médicos' o 'recomendado por farmacéuticos', incluso el texto dentro de las imágenes, y revisa con el mismo criterio los productos registrados antes de la entrada en vigor de la ley."
               },
               {
                 "t": "p",
-                "x": "Organicity colaboró con la tecnológica Artiwealth para convertir unas 60.000 reseñas y datos de atención al cliente acumulados en Naver Smart Store en un formato que la AI puede aprovechar, y los combinó con su propia información de ingredientes y productos. Según la pregunta del cliente, orienta sobre combinaciones de productos e incluso sobre el modo de uso."
+                "x": "En junio, Naver difundió unas 'normas de uso de contenido generado por AI' que impiden incluir en la información de producto personajes virtuales que puedan confundirse con médicos o farmacéuticos, y exigen indicarlo cuando se use otro contenido generado por AI en alimentos. Coupang y 11st responden con sus procedimientos habituales de sanción contra la publicidad falsa o exagerada."
               },
               {
                 "t": "p",
-                "x": "Los ingresos de la empresa pasaron de unos 4억9800만원 en 2024 a unos 16억7800만원 en 2025. Las ventas de la tienda propia, que lleva solo unos meses operando, han llegado a cerca del 30% de las ventas en Smart Store."
+                "x": "El reto pendiente son los anuncios fuera de las plataformas. Si un vendedor publica anuncios de falsos expertos en SNS externas para atraer compradores, es difícil detectarlos solo revisando las páginas de detalle. G-Market también rastrea los anuncios externos mediante denuncias, avisos y su propio monitoreo."
               }
             ]
           }
@@ -1437,125 +1427,125 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Organicity adds AI consultation\nto its own online store",
-          "body": "Organicity's AI consultation draws on about 60,000 reviews and inquiries to recommend product combinations.",
-          "mini_headline": "Organicity's in-house store AI",
+          "headline": "Ban on AI fake-doctor ads\nPlatforms tighten seller checks",
+          "body": "Naver has banned virtual experts, and G-Market is checking even products that were already listed.",
+          "mini_headline": "AI fake-doctor ads banned",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "'Tranexamic Acid 10%', 'Niacinamide 10%', 'PDRN 2500ppm'. Skincare brand Organicity puts its key ingredients and their concentrations in its product names. That makes products easy to find for people who search by ingredient, but it is a barrier for people who don't know which ingredient they should use."
+                "x": "Ahead of a law taking effect on the 27th that bans food ads featuring 'AI fake doctors,' e-commerce companies have begun managing their sellers. The amended Act on Labeling and Advertising of Foods bans ads that could mislead people into thinking an expert recommends or endorses a food, using AI-generated voices, images or videos that are hard to tell from reality. Not every food ad that uses AI is banned, however."
               },
               {
                 "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
-                "cap": "Song Bo-kyung, CEO of Witten Company, met in Dongdaemun-gu, Seoul, on the 11th (Source: Byline Network)"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
+                "cap": "Image created with generative AI."
               },
               {
                 "t": "p",
-                "x": "This year Organicity built its own online store on Cafe24 and set up three features: an ingredient dictionary, product search by skin concern, and artificial intelligence (AI) consultation. \"In actual customer consultations, questions come up again and again not only about which product to choose, but also about whether it can be used with other products and whether it is better used in the morning or in the evening,\" Song explained. The AI now answers the questions that people used to answer."
+                "x": "G-Market has added an 'AI virtual expert recommendation/endorsement' category to its monitoring of unfair ads. It finds suspect products by recognizing phrases such as 'doctor recommended' and 'pharmacist recommended,' down to text inside images, and checks products registered before the law takes effect against the same standard."
               },
               {
                 "t": "p",
-                "x": "Working with tech company Artiwealth, Organicity processed about 60,000 reviews and customer consultation records accumulated on Naver Smart Store into a form AI can use, and combined them with its own ingredient and product information. It guides customers through product combinations and even how to use them, based on their questions."
+                "x": "In June, Naver issued 'AI-generated content usage standards' that bar virtual figures who could be mistaken for doctors or pharmacists from product information, and require a label when other AI-generated content is used for food products. Coupang and 11st are responding through their existing sanction procedures for false or exaggerated ads."
               },
               {
                 "t": "p",
-                "x": "The company's revenue grew from about 4억9800만원 in 2024 to about 16억7800만원 in 2025. Sales at its own store, which has been running for only a few months, have risen to about 30% of its Smart Store sales."
+                "x": "The remaining challenge is ads outside the platforms. If sellers post fake-expert ads on outside SNS to draw buyers in, checking product detail pages alone makes them hard to detect. G-Market is also tracking outside ads through reports, tips and its own monitoring."
               }
             ]
           }
         },
         "ja": {
-          "headline": "オーガニシティ、\n自社モールにAI相談導入",
-          "body": "オーガニシティは約6万件のレビューと相談を生かしたAI相談で製品の組み合わせを案内する。",
-          "mini_headline": "オーガニシティの自社モールAI",
+          "headline": "AI偽医師広告を禁止\n出品者管理に動く各社",
+          "body": "ネイバーは仮想専門家を禁止し、Gマーケットは既存商品まで点検する。",
+          "mini_headline": "AI偽医師広告を禁止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "「トラネキサム酸10%」「ナイアシンアミド10%」「PDRN 2500ppm」。スキンケアブランド「オーガニシティ」は、主要成分とその含有量を製品名に掲げる。成分で探す人には製品が見つけやすい一方、どの成分を使うべきかわからない人には壁になる。"
+                "x": "27日に「AI偽医師」による食品広告を禁じる法律の施行を控え、EC各社が出品者の管理に乗り出した。改正された食品等の表示・広告に関する法律は、AIで生成した実物と見分けにくい音声・画像・映像などで、専門家が食品を推薦・保証していると誤認させる広告を禁じる。ただし、AIを使った食品広告がすべて禁止されるわけではない。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
-                "cap": "11日、ソウル・東大門区で会ったウィトゥンカンパニーのソン・ボギョン代表（出典＝バイラインネットワーク）"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
+                "cap": "生成AIで作成した画像。"
               },
               {
                 "t": "p",
-                "x": "オーガニシティは今年、カフェ24を基盤とする自社モールを構築し、成分辞典、肌悩み別の製品探索、人工知能（AI）相談の三つの機能を用意した。ソン代表は「実際の顧客相談では、どの製品を選ぶべきかだけでなく、他の製品と一緒に使ってよいか、朝と夜のどちらに使うのが適切かといった質問が繰り返し寄せられる」と説明した。こうして人が答えていた質問に、AIが代わりに答える。"
+                "x": "Gマーケットは不当広告のモニタリングに「AI仮想専門家による推薦・保証」の類型を追加した。「医師推薦」「薬剤師推薦」などの文言や画像内の文字まで認識して疑わしい商品を探し、法施行前に登録された商品も同じ基準で点検する。"
               },
               {
                 "t": "p",
-                "x": "オーガニシティは技術企業アティウェルスと協力し、NAVERスマートストアに蓄積された約6万件のレビューと顧客相談データをAIが活用できる形に加工し、自社が持つ成分・製品情報と組み合わせた。顧客の質問に合わせ、製品の組み合わせから使い方まで案内する。"
+                "x": "ネイバーは6月に「AI生成物の使用基準」を案内し、医師・薬剤師などと誤認されうる仮想人物を商品情報に載せられないようにしたほか、食品類にその他のAI生成物を使う場合は表示するよう求めた。クーパンと11番街は既存の虚偽・誇大広告への制裁手続きで対応する。"
               },
               {
                 "t": "p",
-                "x": "同社の売上高は2024年の約4억9800만원から2025年には約16억7800만원に増えた。運営開始から数カ月しかたっていない自社モールの売上は、スマートストア売上の約30%の水準まで高まった。"
+                "x": "残る課題はプラットフォーム外の広告だ。出品者が外部のSNSに偽専門家広告を載せて購入者を呼び込めば、詳細ページの点検だけでは見つけにくい。Gマーケットは外部広告についても通報・情報提供と独自モニタリングで把握している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Organicity在官网\n引入AI咨询服务",
-          "body": "Organicity利用约6万条评论与咨询数据，通过AI咨询推荐产品组合。",
-          "mini_headline": "Organicity官网AI咨询",
+          "headline": "禁止AI假医生广告\n平台加强卖家管理",
+          "body": "Naver已禁止使用虚拟专家，G市场连既有商品也一并检查。",
+          "mini_headline": "禁止AI假医生广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "“传明酸10%”“烟酰胺10%”“PDRN 2500ppm”。护肤品牌Organicity把主要成分及含量写进产品名称。按成分找产品的人很容易发现它们，但对不清楚该用哪种成分的人来说，这反而成了门槛。"
+                "x": "禁止“AI假医生”食品广告的法律将于27日起施行，电商企业纷纷着手管理卖家。修订后的《食品等标示·广告法》禁止利用AI生成、难以与真实区分的声音、图像、视频等，让人误以为专家在推荐或担保食品的广告。不过，并非所有使用AI的食品广告都被禁止。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
-                "cap": "11日在首尔东大门区见到的Witten Company代表宋宝京（来源：Byline Network）"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
+                "cap": "生成式AI制作的图片。"
               },
               {
                 "t": "p",
-                "x": "Organicity今年基于Cafe24搭建了自营商城，并推出成分词典、按肌肤困扰查找产品、人工智能（AI）咨询三项功能。宋代表解释说：“在实际的客户咨询中，不仅是该选哪款产品，诸如能否与其他产品一起使用、早上还是晚上用更合适等问题也反复出现。”过去由人回答的这些问题，如今由AI代为回答。"
+                "x": "G市场在不当广告监控中新增了“AI虚拟专家推荐·担保”类型。系统会识别“医生推荐”“药师推荐”等文字乃至图片中的字样来查找可疑商品，法律施行前登记的商品也按同一标准检查。"
               },
               {
                 "t": "p",
-                "x": "Organicity与科技公司Artiwealth合作，将Naver Smart Store上积累的约6万条评论和客户咨询数据加工成AI可用的形式，并与自有的成分和产品信息相结合，根据顾客的问题推荐产品组合乃至使用方法。"
+                "x": "Naver于6月发布“AI生成物使用标准”，禁止在商品信息中放入可能被误认为医生、药师等的虚拟人物，并要求食品类使用其他AI生成内容时进行标注。Coupang和11街则沿用现有的虚假·夸大广告处罚程序应对。"
               },
               {
                 "t": "p",
-                "x": "公司营收从2024年的约4억9800만원增至2025年的约16억7800만원。运营仅数月的自营商城，销售额已升至Smart Store销售额的约30%。"
+                "x": "剩下的难题是平台之外的广告。卖家若在外部SNS发布假专家广告来引流买家，仅靠检查商品详情页很难发现。G市场也在通过举报、线索和自主监控掌握外部广告。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Organicity añade asesoría AI\na su tienda online propia",
-          "body": "Organicity orienta sobre combinaciones de productos con una AI que usa unas 60.000 reseñas y consultas.",
-          "mini_headline": "La AI de la tienda propia de Organicity",
+          "headline": "Veto a falsos médicos de AI\ny plataformas vigilan vendedores",
+          "body": "Naver ha prohibido los expertos virtuales y G-Market revisa incluso los productos ya publicados.",
+          "mini_headline": "Veto a falsos médicos de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "'Ácido tranexámico 10%', 'Niacinamida 10%', 'PDRN 2500ppm'. La marca de cuidado de la piel Organicity destaca en el nombre de sus productos los ingredientes principales y su concentración. Quien busca por ingrediente encuentra los productos con facilidad, pero para quien no sabe qué ingrediente debe usar supone una barrera."
+                "x": "Ante la entrada en vigor el día 27 de una ley que prohíbe los anuncios de alimentos con 'falsos médicos de AI', las empresas de comercio electrónico han empezado a controlar a sus vendedores. La ley reformada sobre etiquetado y publicidad de alimentos prohíbe los anuncios que, mediante voces, imágenes o videos generados con AI y difíciles de distinguir de la realidad, hagan creer que un experto recomienda o avala un alimento. Sin embargo, no se prohíben todos los anuncios de alimentos que usen AI."
               },
               {
                 "t": "img",
-                "src": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
-                "cap": "Song Bo-kyung, CEO de Witten Company, el día 11 en Dongdaemun-gu, Seúl (fuente: Byline Network)"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
+                "cap": "Imagen creada con AI generativa."
               },
               {
                 "t": "p",
-                "x": "Este año, Organicity creó su propia tienda online sobre Cafe24 y preparó tres funciones: un diccionario de ingredientes, búsqueda de productos por problema de piel y asesoría con inteligencia artificial (AI). \"En las consultas reales de clientes se repiten preguntas no solo sobre qué producto elegir, sino también sobre si se puede usar junto con otros productos o si conviene usarlo por la mañana o por la noche\", explicó Song. Ahora la AI responde a las preguntas que antes contestaban personas."
+                "x": "G-Market ha añadido a su monitoreo de publicidad indebida la categoría 'recomendación o aval de expertos virtuales de AI'. Detecta productos sospechosos reconociendo expresiones como 'recomendado por médicos' o 'recomendado por farmacéuticos', incluso el texto dentro de las imágenes, y revisa con el mismo criterio los productos registrados antes de la entrada en vigor de la ley."
               },
               {
                 "t": "p",
-                "x": "Organicity colaboró con la tecnológica Artiwealth para convertir unas 60.000 reseñas y datos de atención al cliente acumulados en Naver Smart Store en un formato que la AI puede aprovechar, y los combinó con su propia información de ingredientes y productos. Según la pregunta del cliente, orienta sobre combinaciones de productos e incluso sobre el modo de uso."
+                "x": "En junio, Naver difundió unas 'normas de uso de contenido generado por AI' que impiden incluir en la información de producto personajes virtuales que puedan confundirse con médicos o farmacéuticos, y exigen indicarlo cuando se use otro contenido generado por AI en alimentos. Coupang y 11st responden con sus procedimientos habituales de sanción contra la publicidad falsa o exagerada."
               },
               {
                 "t": "p",
-                "x": "Los ingresos de la empresa pasaron de unos 4억9800만원 en 2024 a unos 16억7800만원 en 2025. Las ventas de la tienda propia, que lleva solo unos meses operando, han llegado a cerca del 30% de las ventas en Smart Store."
+                "x": "El reto pendiente son los anuncios fuera de las plataformas. Si un vendedor publica anuncios de falsos expertos en SNS externas para atraer compradores, es difícil detectarlos solo revisando las páginas de detalle. G-Market también rastrea los anuncios externos mediante denuncias, avisos y su propio monitoreo."
               }
             ]
           }

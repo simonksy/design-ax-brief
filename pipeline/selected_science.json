@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "section": "science",
   "items": [
     {
-      "title": "Many languages, one common neural code",
-      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
-      "source": "MIT News",
-      "category": "cognition",
+      "title": "Chatbots can quash emerging conspiracy theories",
+      "url": "https://news.cornell.edu/stories/2026/11/chatbots-can-quash-emerging-conspiracy-theories",
+      "source": "Cornell Chronicle",
+      "category": "psychology",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Freshest, highest-credibility cognition result (MIT McGovern, Nature): a multilingual AI model used to compare brain responses across speakers of 21 languages suggests meaning is represented the same way regardless of language.",
-      "published_iso": "2026-11-23T21:15:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202611/mit-mcgovern-languages.jpg",
-      "excerpt": "MIT McGovern (Nature): analyzing speakers of 21 languages with a multilingual AI model, the study finds the human brain may represent meaning in much the same way across languages. Note: brain-model alignment angle (deprioritized)."
+      "rationale": "Fresh primary-source psychology result: AI chatbot conversations talked ~15% of people out of conspiracy beliefs in the immediate aftermath of a crisis, when little information is known yet, which extends debunking-by-dialogue to breaking events.",
+      "published_iso": "2026-11-24T09:45:29-05:00",
+      "og_image": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=Vr-AAGHS",
+      "excerpt": "Cornell researchers found AI chatbot conversations talked about 15% of people out of conspiracy beliefs in the immediate aftermath of a crisis, when little information is known. (Off-list: no on-list outlet had it yet.)"
     },
     {
-      "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
-      "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
-      "source": "MIT News",
-      "category": "research_automation",
-      "tool": "Science",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "rationale": "New method, concrete claim: MIT's SLIC training lets a small generative model design analog integrated circuits as well as or better than frontier LLMs, cutting cost of a hard engineering-design task.",
-      "published_iso": "2026-11-23T05:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-AnalogOptimize-01-Press.jpg",
-      "excerpt": "MIT SLIC training teaches a small generative model to design analog integrated circuits as well as or better than frontier LLMs. Engineering-design angle; may fit gadgets better."
-    },
-    {
-      "title": "Machine learning-driven regulation of the four-electron LiOH pathway in lithium-oxygen batteries with prolonged cycling",
-      "url": "https://www.nature.com/articles/s41467-026-79335-6",
-      "source": "Nature Communications",
+      "title": "Predicting the unknown: A robust approach lets AI extrapolate to undiscovered materials",
+      "url": "https://techxplore.com/news/2026-11-unknown-robust-approach-ai-extrapolate.html",
+      "source": "Tech Xplore",
       "category": "materials",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Primary-source materials result with hard numbers: ML picked a Ni-Co dual-atom catalyst steering Li-O2 batteries to a four-electron LiOH pathway, ~60,000 mAh/g capacity and 2,000+ stable cycles.",
-      "published_iso": "2026-11-18T00:00:00Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
-      "excerpt": "Authors use machine learning to identify a Ni-Co dual-atom catalyst that promotes a four-electron LiOH pathway in Li-O2 batteries, reaching ~60,000 mAh/g capacity and over 2,000 stable cycles."
+      "rationale": "Concrete method with a hard number: University of Tokyo splits structure learning (pretrained GNNs) from property regression and cuts extrapolation error 68% vs CGCNN on newer Materials Project entries (PRX Intelligence), aimed at the out-of-distribution problem in AI materials discovery.",
+      "published_iso": "2026-11-24T16:00:02Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+      "excerpt": "University of Tokyo researchers decouple structure learning (pretrained graph neural networks) from property regression, cutting extrapolation error 68% versus CGCNN on newer Materials Project entries (PRX Intelligence)."
     },
     {
-      "title": "One in four students turn to AI for mental health support",
-      "url": "https://medicalxpress.com/news/2026-11-students-ai-mental-health.html",
-      "source": "Medical Xpress",
-      "category": "psychology",
+      "title": "Physics-guided AI reconstructs fluid flow from sparse, noisy data",
+      "url": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html",
+      "source": "Phys.org",
+      "category": "physics",
+      "tool": "Science",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "New physics-informed method (UC Irvine PMPG-NN, Physics of Fluids): pairs a neural network with the principle of minimum pressure gradient to rebuild physically consistent flow fields from sparse, noisy measurements, with no pressure data needed.",
+      "published_iso": "2026-11-23T23:20:01Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+      "excerpt": "UC Irvine's PMPG-NN couples a neural network with the principle of minimum pressure gradient to reconstruct physically consistent flow fields from sparse, noisy measurements without pressure data (Physics of Fluids)."
+    },
+    {
+      "title": "AI helps researchers track beluga whales using aerial drone images",
+      "url": "https://phys.org/news/2026-11-ai-track-beluga-whales-aerial.html",
+      "source": "Phys.org",
+      "category": "life_science",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Fresh psychology survey (Bath, JMIR Mental Health, n=2,020): about one in four UK students used generative AI for mental-health support in six months, most among those with very low well-being — a behavioral finding, not a clinical one.",
-      "published_iso": "2026-11-23T14:20:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
-      "excerpt": "University of Bath (JMIR Mental Health): survey of 2,020 UK students finds about one in four used generative AI for mental-health support in six months, highest among those with very low well-being. Cross-sectional survey (attitude-survey caveat)."
+      "rationale": "Applied field ecology with a practical payoff: FAU and Fisheries and Oceans Canada use semi-supervised detection (SEMI-DETR) to track belugas and calves across drone imagery with 5-10x less hand labeling (Frontiers in Marine Science).",
+      "published_iso": "2026-11-19T19:40:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+      "excerpt": "Florida Atlantic University and Fisheries and Oceans Canada used semi-supervised deep learning (SEMI-DETR) to detect and track belugas and calves across drone image sequences with 5-10x less hand labeling (Frontiers in Marine Science)."
     },
     {
-      "title": "Neural networks that behave identically reveal hidden structural differences as they learn",
-      "url": "https://techxplore.com/news/2026-11-neural-networks-identically-reveal-hidden.html",
-      "source": "Tech Xplore",
-      "category": "cognition",
+      "title": "Researchers Fit Quantum Circuits Into a 30 Billion-Parameter AI Model",
+      "url": "https://thequantuminsider.com/2026/11/24/researchers-fit-quantum-circuits-into-a-30-billion-parameter-ai-model/",
+      "source": "The Quantum Insider",
+      "category": "quantum",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "NeurIPS 2026 oral (Technion): RNNs with identical behavior hide structural differences that surface only when learning a new task — and the paper proposes tests for the same effect in biological circuits.",
-      "published_iso": "2026-11-17T12:00:00Z",
-      "og_image": null,
-      "excerpt": "Technion (arXiv 2605.04115, NeurIPS 2026 oral): RNNs with identical behavior carry hidden structural differences that surface only when learning a new task and retain traces of past training; proposes tests for biological circuits."
+      "rationale": "Novel hybrid experiment: researchers swap eight layers of a 30B-parameter Qwen3 model for a module that can run on a quantum processor, testing quantum circuits inside a frontier-scale language model. Fills the quantum slot after the DeepMind item was dropped as a repeat.",
+      "published_iso": "2026-11-24T12:23:06+00:00",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png",
+      "excerpt": "Researchers replaced eight layers of the Qwen3 language model with a module that can run on a quantum processor, testing hybrid quantum circuits inside a 30B-parameter model."
     }
   ],
   "dedup": {
     "checks": {
-      "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123": {
+      "https://news.cornell.edu/stories/2026/11/chatbots-can-quash-emerging-conspiracy-theories": {
         "verdict": "new",
-        "nearest": "https://www.psypost.org/human-brains-track-who-did-what-to-whom-in-ways-ai-language-models-dont-fmri-study-suggests/",
+        "nearest": "https://arxiv.org/abs/2611.16667",
         "new_action": ""
       },
-      "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123": {
+      "https://techxplore.com/news/2026-11-unknown-robust-approach-ai-extrapolate.html": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://techxplore.com/news/2026-11-faster-discovery-rethink-ai-role.html",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s41467-026-79335-6": {
+      "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-ai-uncover-overlooked-2d-materials.html",
+        "nearest": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
         "new_action": ""
       },
-      "https://medicalxpress.com/news/2026-11-students-ai-mental-health.html": {
+      "https://phys.org/news/2026-11-ai-track-beluga-whales-aerial.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-11-vulnerable-users-ai-companions-software.html",
+        "nearest": "https://phys.org/news/2026-11-ai-misidentifies-wildlife-species-identification.html",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-11-neural-networks-identically-reveal-hidden.html": {
+      "https://thequantuminsider.com/2026/11/24/researchers-fit-quantum-circuits-into-a-30-billion-parameter-ai-model/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-11-fractal-patterns-reveal-hidden-limits.html",
+        "nearest": "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html",
         "new_action": ""
       }
     },
-    "note": "Dropped: Singularity Hub AI-designed CRISPR rice (likely-repeat of the 2026-10-29 phys.org rice/OpenCRISPR story, and excluded by the run brief for safety). Dropped Quantum Computing Report 'QEC engineer might be a bot' (GQI analysis, no new result; running AI-for-QEC theme already covered on 10-30/11-03). Skipped Phys.org isSPA-vesicle (cryo-EM of influenza hemagglutinin and coronavirus spike; viral-protein structure work, avoided per the biosecurity-classifier precedent). Lower-ranked and not picked: MIT Tech Review philosopher-on-Anthropic-consciousness (commentary), Amazon leaf dynamics (deprioritized ecology, no image), vitamin C sensor, ChatGPT Mandarin questionnaire translation, AI interview-theme coding. The neural-networks pick's history_match (11-07 fractal limits to AI predictability) is a different study (Technion RNN representational structure vs. predictability limits) - new. The students item is a different study from medicine's 11-21 JAMA emotional-support AI piece; it doesn't appear in today's medicine pool. Diversity: 4 outlets (MIT News x2, Nature Communications, Medical Xpress, Tech Xplore); categories cognition x2, research_automation, materials, psychology."
+    "note": "Dropped as repeats: Scientific American Levent Alpoge profile (likely-repeat of the 11-21 SciAm Riemann-proof card; a profile adds no new event). Nature 'end of mathematics' (commentary on the same Riemann running story, nearest 11-21). DeepMind 'Finding faster quantum algorithms with agents and formal verification' (blog post for arXiv 2611.09822, numbered around Nov 10-11; it almost certainly covers the same Google AI + Lean-proof cost-cutting work The Quantum Insider ran on 11-10, carded 11-11; a later official write-up of an already-carded paper is the same story, not a new release; dropped despite the brief's preference because of the earliest-wins rule). Excluded per brief (classifier risk): Nature 'Claude and ChatGPT biology skills' (protein design), Science in Poland protein knot. Not picked on merit: MIT Tech Review philosopher vs Anthropic consciousness (commentary), PsyPost psychopathy-from-memes (second psychology item; Cornell ranked higher), cryoPARES (no og_image; solid backup), Science Advances DNA neurons (no image, molecular computing, less accessible). Cross-section: none of the five picks appear in today's cross-section assignment list; their outlets and topics are science-only. I could not exact-grep published_urls.json with the tools I have (Read only), so the orchestrator should grep it for these 5 URLs before roll. Diversity: 4 outlets (Phys.org x2, Cornell Chronicle, Tech Xplore, The Quantum Insider); 5 distinct categories (psychology, materials, physics, life_science, quantum)."
   }
 }

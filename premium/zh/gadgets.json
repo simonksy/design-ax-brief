@@ -12844,6 +12844,134 @@
           "x": "更安全的路线是ESP32模块——M5Stack PaperMono等设备背后的廉价、对黑客友好的板子——以及Meta的Muse Charm和Muse Gadgets计划。Gathin的建议是：绝不要让机器人接触你输不起的东西，并且多做备份。"
         }
       ]
+    },
+    "gadgets/honor-magic9-promax-global": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
+        },
+        {
+          "t": "p",
+          "x": "HONOR在马来西亚推出Magic 9 Pro Max，这是该机首次在中国以外地区发售。建议售价为5,999马来西亚林吉特（~$1,457），仅有12GB/512GB一种配置；11月24日至12月3日期间预订可获赠礼包，内含三个月免费Google AI Pro。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "相机系统与电影摄影机制造商ARRI合作打造：200MP 1/1.28英寸主摄、200MP 85mm长焦、50MP超广角，以及方形55MP自拍相机。视频是其最大强项，支持4K/120fps、ARRI Cinema Mode与ARRI Looks、LUT和LogC3、APV编解码器，还有Magic Color for Video功能，可分析参考片段的色彩并将同样的风格套用到新素材上。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "机身内部搭载Snapdragon 8 Elite Extreme Gen 6芯片组和6.8英寸LTPO OLED面板，峰值亮度最高10,000尼特。MagicOS 11新增通知摘要和Payment Trust Space功能，手机还配有专用相机键，以及提供“情境感知（context-aware）”协助的AI按键。双击该按键会触发Highlight Clip Capture，截取视频片段并生成字幕；但它不适用于Netflix流媒体等DRM-protected视频。"
+        }
+      ]
+    },
+    "gadgets/foundation-phantom-mkii": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
+          "cap": "来源=Foundation Robotics"
+        },
+        {
+          "t": "video",
+          "yt": "la43cmm6YMQ"
+        },
+        {
+          "t": "p",
+          "x": "一款据称能搬运与自身体重相当的重物的人形机器人亮相。"
+        },
+        {
+          "t": "p",
+          "x": "美国机器人企业Foundation Future Industries于18日（当地时间）发布第2代人形机器人“Phantom MKII”。该机器人身高约183cm，重约88kg，最多可搬运90kg的货物，按充一次电运行4至6小时设计。"
+        },
+        {
+          "t": "p",
+          "x": "它具备IP67防尘防水等级，可在雨水和粉尘较多的环境中作业，并采用可更换故障关节的结构。它能借助AI学习人类的作业示范，目标是在工厂、建筑工地和矿山等场所搬运重物或代替人完成危险作业。公司计划于2027年初开始生产。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ax-appliance-center": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
+          "cap": "产业通商部产业成长室室长Lee Min-woo于24日出席在首尔龙山区电子制造支援中心举行的“家电AX产品化支援中心揭牌仪式”。产业部供图"
+        },
+        {
+          "t": "p",
+          "x": "产业通商部24日在首尔龙山区电子制造支援中心举行“家电AX产品化支援中心”揭牌仪式，并发布“AI家电学习数据构建路线图”。该中心为AX家电从开发到商用产品上市提供全周期支持，有望缓解中小及中坚家电企业在AX开发设备和数据方面的短缺。"
+        },
+        {
+          "t": "p",
+          "x": "该中心由KEA自2021年起运营的电子制造支援中心升级而来，定位为家电产品AX开发基地。2026~2030年将共投入170억원（国费100억원），建设并开放AI主板制造设备、性能测试设备等13类设施，由专职工程师对设计、样机制作、实证和首批量产全过程提供贴身支持。中心将帮助企业在尽量减少现有产品设计改动的前提下加入AI功能，并对接国产AI芯片的应用。"
+        },
+        {
+          "t": "p",
+          "x": "学习数据路线图将于2027~2031年每年构建3类、共15类通用核心数据。通过企业需求调查和深度访谈确定了15项核心数据，计划自2028年起通过专用平台共享。"
+        },
+        {
+          "t": "p",
+          "x": "现场还展出了Beyond Honeycomb（AI自动烹饪机器人）、Emma Healthcare（非接触式生命体征监测AI婴儿床）、Geeksloft（AI耳机）、Otiton Medical（智能耳温计及诊断平台）、Mobilint（国产端侧AI芯片及边缘解决方案）等5家成果企业的产品。Lee Min-woo室长表示：“要延续家电产业的竞争力，制造工艺的AX与产品创新必须同步推进。”"
+        }
+      ]
+    },
+    "gadgets/galaxy-s27u-laser-af-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
+          "cap": "据称Samsung Galaxy S27 Ultra的设计将与Galaxy S26 Ultra大不相同。"
+        },
+        {
+          "t": "p",
+          "x": "此前有报道称Samsung将在Galaxy S27 Ultra上取消3x光学变焦摄像头，如今爆料者Ice Universe又称，Samsung还将从后置摄像头阵列中移除激光自动对焦模块。爆料者表示消息已获证实，这也是近期设计渲染图中没有出现该模块的原因。若属实，它将成为自Galaxy S21 Ultra以来首款不配备激光自动对焦的Galaxy Ultra手机，体型更小的Galaxy S27 Pro同样不会配备。"
+        },
+        {
+          "t": "p",
+          "x": "Ice Universe称，Galaxy S27 Ultra将转而依靠AI对焦技术。爆料的后置配置为：带OIS的200 MP 1/1.3\"主摄、50 MP 1/2.55\" 5x潜望式光学变焦，以及50 MP 1/2.5\" 120˚超广角。"
+        },
+        {
+          "t": "p",
+          "x": "过去5年，Samsung一直在Galaxy Ultra手机上配备激光自动对焦：仅依赖PDAF的Galaxy S20 Ultra早期存在严重的对焦拉风箱问题，Samsung随后在Galaxy S21 Ultra中加入激光模块以缓解这一问题。"
+        }
+      ]
+    },
+    "gadgets/dutch-ap-camera-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
+          "cap": "图片来源：David Paul Morris/Bloomberg / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "荷兰数据保护局正呼吁消费者不要购买AI-enabled（具备AI功能的）摄像眼镜，警告称这类眼镜会侵犯周围旁人的隐私，并危及使用者自身的安全。"
+        },
+        {
+          "t": "p",
+          "x": "该机构最近的声明虽未达到全面禁令的程度，但表示，使用这种联网且始终开启的眼镜在公共场所拍摄他人，“几乎总是被禁止的”。"
+        },
+        {
+          "t": "p",
+          "x": "批评者把这类智能穿戴设备称为“变态眼镜”，因为它们容易被用来在未经许可的情况下拍摄他人，尤其是骚扰女性。虽然部分眼镜在录制时会亮起提示灯，但隐私倡导者认为这些提示不够明显。甚至有人开发了能够检测附近智能眼镜佩戴者的手机应用。"
+        },
+        {
+          "t": "p",
+          "x": "荷兰数据保护局警告称，这类眼镜还会给出错误和不安全的结果。在该机构进行的一项测试中，一副未具名的眼镜“向一名表示对未成年人感兴趣的成年人提供了约会建议”。这副眼镜还读错了药品标签，并声称已呼叫救护车，实际上却没有。"
+        },
+        {
+          "t": "p",
+          "x": "荷兰政府的这一建议，是继挪威政府采取类似举措之后作出的。挪威政府9月表示，正在考虑禁止带摄像头的设备。"
+        }
+      ]
     }
   }
 }

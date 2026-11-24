@@ -1,142 +1,115 @@
 {
- "section": "gadgets",
- "now_iso": "2026-11-23T22:00:42Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "Nothing's upcoming Ear Note is a pair of earbuds with AI transcription",
-   "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-   "source": "The Verge",
-   "category": "gadgets",
-   "published_iso": "2026-11-23T19:04:52+00:00",
-   "excerpt": "Nothing confirmed its Dec 8 AI device is the Ear (note): earbuds that record and transcribe audio with AI, capturing from the buds or from microphones built into the charging case. New fact beyond the 11-21 date tease: official product name and type.",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nothing.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-   "title": "Your next screwdriver might have a camera and an AI brain",
-   "url": "https://www.digitaltrends.com/cool-tech/ai-has-come-for-the-humble-screwdriver/",
-   "source": "Digital Trends",
-   "category": "gadgets",
-   "published_iso": "2026-11-23T03:32:19-08:00",
-   "excerpt": "Arrowmax's Arrowspace S1 uses a camera to identify a screw, light up the right bit, and set a safer torque. Kickstarter pricing starts around $79, with shipping in April 2027.",
-   "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/arrowspace-screwdriver-ai.jpg?resize=1200%2C630&ssl=1"
-  },
-  {
-   "title": "ASUS Zenbook S14 (UX5406AA) Review: The elegant travel partner I’d pick again in a heartbeat",
-   "url": "https://www.digitaltrends.com/computing/asus-zenbook-s14-ux5406aa-review/",
-   "source": "Digital Trends",
-   "category": "gadgets",
-   "published_iso": "2026-11-22T22:40:04-08:00",
-   "excerpt": "Review of the Intel-based ASUS Zenbook S14 (UX5406AA) with a 50-TOPS NPU: a gorgeous 120Hz OLED and all-day battery, but the reviewer says the NPU 'hasn't transformed the way I work'.",
-   "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ASUS-Zenbook-S14-Review-Featured-2.jpg?resize=1200%2C630&ssl=1"
-  },
-  {
-   "title": "I really wanted the Asus ProArt P14 to be my favorite RTX Spark laptop — and it’s painfully close",
-   "url": "https://www.tomsguide.com/computing/laptops/asus-proart-p14-rtx-spark-review",
-   "source": "Tom's Guide",
-   "category": "gadgets",
-   "published_iso": "2026-11-23T13:00:00Z",
-   "excerpt": "Tom's Guide reviews the Asus ProArt P14, an Nvidia RTX Spark 'portable AI studio' laptop: dazzling 3K OLED and 12.5-hour battery, but the slim chassis forces throttled wattage that runs hot under local-AI and creative loads.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
-  },
-  {
-   "title": "Lenovo Pro 9n review: 18-core RTX Spark in a fancy chassis",
-   "url": "https://www.tomshardware.com/laptops/lenovo-pro-9n-review",
-   "source": "Tom's Hardware",
-   "category": "gadgets",
-   "published_iso": "2026-11-22T16:00:00Z",
-   "excerpt": "Tom's Hardware reviews the Lenovo Pro 9n, an 18-core Nvidia RTX Spark AI laptop: elegant OLED workstation with many ports, but expensive, and RTX Spark still needs Windows features to justify its price.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/ZXSfLv5CgGWf6ginq5ZsFA-2560-80.jpg"
-  },
-  {
-   "title": "Copilot+ PCs: Why the NPU is no longer a reason to buy a laptop",
-   "url": "https://www.notebookcheck.net/Copilot-PCs-Why-the-NPU-is-no-longer-a-reason-to-buy-a-laptop.1456843.0.html",
-   "source": "Notebookcheck",
-   "category": "gadgets",
-   "published_iso": "2026-11-23T10:10:00+01:00",
-   "excerpt": "Many holiday laptop deals still carry the Copilot+ PC label, but the NPU barely sets devices apart anymore. Every new chip from AMD, Intel and Qualcomm clears 40 TOPS, Microsoft is quietly retiring the brand, and the most popular local AI apps don't use the NPU at all. Here is what matters more when",
-   "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/copilot-pc-npu-weihnachten-teaser.jpg"
-  },
-  {
-   "title": "Dutch privacy authority urges consumers not to buy 'pervert glasses'",
-   "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
-   "source": "TechCrunch",
-   "category": "gadgets",
-   "published_iso": "2026-11-23T15:29:49+00:00",
-   "excerpt": "The Dutch Data Protection Authority is urging consumers not to buy AI-enabled camera glasses, warning they compromise bystanders' privacy, get information wrong and can create unsafe situations for wearers. Regulator action on AI smart glasses.",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799"
-  },
-  {
-   "title": "이주희 의원, '스마트글라스 불법촬영 방지법' 발의…AI 악용 막는다",
-   "url": "https://www.etnews.com/20261123000222",
-   "source": "전자신문",
-   "category": "gadgets",
-   "published_iso": "2026-11-23T11:09:36+09:00",
-   "excerpt": "국회가 인공지능(AI) 안경을 이용한 불법촬영 등 악용을 막기 위한 입법에 나선다. 스마트글라스로 누군가를 촬영할 때 상대방이 그 사실을 알아볼 수 있도록 기기 제조 기준과 이용자 고지 의무를 함께 마련하려는 취지다. 국회 과학기술정보방송통신위원회 소속 이주희 더불어민주당 의원은 23일 이같은 내용을 골자로 한 정보통신망법·개인정보보호법 일부개정안(스마트글라스 불법촬영 방지법) 2건을 대표발의했다. 현행법에는 스마트글라스 제조·수입 단계에서 촬",
-   "og_image": "https://img.etnews.com/news/article/2026/09/01/news-p.v1.20260901.aaf8449d38c5455daffd647f66cd9590_P2.jpg"
-  },
-  {
-   "title": "우재준 의원, AI글래스로 수능문제 풀었더니…7문제 중 5개 정답",
-   "url": "https://zdnet.co.kr/view/?no=20261123165012",
-   "source": "지디넷코리아",
-   "category": "gadgets",
-   "published_iso": "2026-11-23T17:43:44+09:00",
-   "excerpt": "우재준 의원이 인공지능(AI)글래스를 착용하고 최근 진행된 대학수학능력시험을 모의로 치른 결과, 수학·영어·일본어 영역에서 5분 만에 총 7개 문항을 풀어 5개 정답을 맞혔다.우재준·유영하 국민의힘 의원실은 23일 서울 영등포구 국회의원회관에서 ‘AI글래스 악용 방지 및 공정한 산업 생태계...",
-   "og_image": "https://image.zdnet.co.kr/2026/11/23/e02db46d16fc4e858f098ef8b031280a.gif"
-  },
-  {
-   "title": "\"AI글래스 이용 시험 부정행위 막으려면 식별 마크·NFC 달아야\"",
-   "url": "https://zdnet.co.kr/view/?no=20261123171613",
-   "source": "지디넷코리아",
-   "category": "gadgets",
-   "published_iso": "2026-11-23T17:56:22+09:00",
-   "excerpt": "AI글래스를 이용한 시험 부정행위를 막으려면 제품 설계 단계에서 일반 안경과 구분할 수 있는 장치를 넣어야 한다는 제언이 나왔다. 외관에 식별 마크를 붙이거나 근거리무선통신(NFC) 장치를 내장하고, 이를 제거하거나 훼손하면 흔적이 남도록 설계하는 방식이다.송기봉 한국전자통신연구원 박사는 ...",
-   "og_image": "https://image.zdnet.co.kr/2026/11/23/8482b07898b58207a19050f4cffe2508.jpg"
-  },
-  {
-   "title": "맞춤형 스마트 글라스…브리즘, ‘in*sight’ 공개",
-   "url": "https://zdnet.co.kr/view/?no=20261123122340",
-   "source": "지디넷코리아",
-   "category": "gadgets",
-   "published_iso": "2026-11-23T13:00:01+09:00",
-   "excerpt": "안경 브랜드 브리즘(Breezm)이 3D 얼굴 스캔·정밀 시력검사·피팅을 결합한 맞춤형 오디오 스마트 글라스 'in*sight'를 공개했다. 안경다리 터치로 음악·통화를 쓰고 스마트폰과 연동해 Siri·Gemini 등 AI 음성비서를 호출한다.",
-   "og_image": "https://image.zdnet.co.kr/2026/11/23/11815b888a121e7663cd1cc0e82e5b06.jpg"
-  },
-  {
-   "title": "기가바이트, AI 데스크톱 'AI TOP AERO' 출시…로컬 AI 시장 공략",
-   "url": "https://www.etnews.com/20261123000157",
-   "source": "전자신문",
-   "category": "gadgets",
-   "published_iso": "2026-11-23T10:11:33+09:00",
-   "excerpt": "기가바이트가 NVIDIA RTX Spark N1X 슈퍼칩(20코어 Grace CPU + Blackwell RTX GPU)과 최대 128GB 통합 메모리를 넣은 소형 AI 데스크톱 'AI TOP AERO'를 국내 출시했다. 개인 작업 공간에서 로컬 AI 개발·콘텐츠 제작을 겨냥한다.",
-   "og_image": "https://img.etnews.com/news/article/2026/11/23/news-p.v1.20261123.aa6c0c34734e4dbdbefce2f84cb8c002_P1.jpg"
-  },
-  {
-   "title": "코닉글로리, AI 시험 부정행위 차단 나선다…무선 보안기술 활용",
-   "url": "https://www.etnews.com/20261123000502",
-   "source": "전자신문",
-   "category": "gadgets",
-   "published_iso": "2026-11-23T18:15:45+09:00",
-   "excerpt": "유무선 네트워크 보안 전문기업 코닉글로리가 스마트안경과 초소형 카메라 등 인공지능(AI) 기술을 악용한 시험 부정행위에 대응하기 위해 무선침입방지시스템(WIPS)을 활용한 상시 감시체계 구축 방안을 제시했다. 코닉글로리는 최근 문제가 되고 있는 부정행위가 무선통신을 활용한다는 점에 주목, 시험실마다 WIPS 센서를 설치해 무선 신호를 상시 감시하는 방식을 제안했다. 문제 촬영 장비는 주로 와이파이(Wi-Fi)를 이용하고 음성 수신이나 장비 제어",
-   "og_image": "https://img.etnews.com/news/article/2026/11/23/news-p.v1.20261123.45a4936832b442309f0570ec4dc20c9e_P1.jpg"
-  },
-  {
-   "title": "Flowtica Verso vs. Comulytic Note Pro: This one wins on speed - and price",
-   "url": "https://www.zdnet.com/tech/flowtica-verso-vs-comulytic-note-pro/",
-   "source": "ZDNET",
-   "category": "gadgets",
-   "published_iso": "2026-11-20T20:22:00-05:00",
-   "excerpt": "ZDNET compares two AI voice recorders, the Flowtica Verso (magnetic, always-on e-paper display) and the Comulytic Note Pro, on transcription speed, price and whether an AI recorder needs a screen.",
-   "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg"
-  },
-  {
-   "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-   "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-   "source": "WIRED",
-   "category": "gadgets",
-   "published_iso": "2026-11-23T13:11:48.707Z",
-   "excerpt": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-   "og_image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/191:100/w_1280,c_limit/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
-  }
- ]
+  "section": "gadgets",
+  "now_iso": "2026-11-24T22:00:37Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "Pocketalk X brings hands-free translation in 44 languages to dual displays",
+      "url": "https://www.notebookcheck.net/Pocketalk-X-brings-hands-free-translation-in-44-languages-to-dual-displays.1458761.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-11-24T18:15:00+01:00",
+      "excerpt": "Pocketalk opened preorders for its first desktop AI translation device, the Pocketalk X, with two 10.25-inch touchscreens, directional mics with AI noise cancellation and hands-free two-way translation in 44 languages; the cloud picks an AI translation engine per language pair.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png"
+    },
+    {
+      "title": "Galaxy S27 Ultra: Samsung reportedly cuts huge camera feature in favor of AI",
+      "url": "https://www.notebookcheck.net/Galaxy-S27-Ultra-Samsung-reportedly-cuts-huge-camera-feature-in-favor-of-AI.1458748.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-11-24T08:50:00+01:00",
+      "excerpt": "Leaker Ice Universe claims Samsung will drop the laser autofocus module on the Galaxy S27 Ultra and rely on AI focus technology instead, following the earlier removal of the 3x camera. (Rumor.)",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg"
+    },
+    {
+      "title": "HONOR Magic 9 Pro Max is a video beast, and it's just launched outside China",
+      "url": "https://www.androidauthority.com/honor-magic-9-pro-max-first-global-release-3738621/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-11-24T09:00:17+00:00",
+      "excerpt": "Honor launched the Magic 9 Pro Max in Malaysia, its first release outside China at just under $1,500, with an ARRI-tuned camera, the H1 imaging chip running AI algorithms in the RAW domain, and a dedicated AI button for context-aware actions like Highlight Clip Capture.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+    },
+    {
+      "title": "AI Earbuds Are Being Held Back by Their AI",
+      "url": "https://gizmodo.com/ai-earbuds-plaud-one-nothing-ear-note-2000844612",
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "published_iso": "2026-11-24T17:10:00Z",
+      "excerpt": "Plaud (Plaud One) and Nothing (Ear note) are betting on earbuds as the form factor for AI transcription, translation and agent tasks; the column argues the AI must become reliable before work-critical earbud features are useful.",
+      "og_image": "https://gizmodo.com/app/uploads/2025/09/Nothing-Ear-3-04.jpg"
+    },
+    {
+      "title": "Can an App Tell When Someone Near You Is Wearing Smart Glasses?",
+      "url": "https://www.cnet.com/tech/mobile/if-you-dont-want-smart-glasses-to-spy-try-a-bluetooth-detector-app/",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-11-23T17:00:16-05:00",
+      "excerpt": "Apps such as Zuckoff scan for the Bluetooth signals that AI camera glasses emit, giving bystanders a way to know a pair is nearby; CNET tests how well detection works.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/zuckoff-app.jpg"
+    },
+    {
+      "title": "Your next screwdriver might have a camera and an AI brain",
+      "url": "https://www.digitaltrends.com/cool-tech/ai-has-come-for-the-humble-screwdriver/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-11-23T03:32:19-08:00",
+      "excerpt": "Arrowmax's Arrowspace S1 uses a camera and AI to identify a screw, light up the right bit and set a safer torque; Kickstarter pricing starts around $79 with shipping in April 2027. (Crowdfunding.)",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/arrowspace-screwdriver-ai.jpg?resize=1200%2C630&ssl=1"
+    },
+    {
+      "title": "맞춤형 스마트 글라스…브리즘, 'in*sight' 공개",
+      "url": "https://zdnet.co.kr/view/?no=20261123122340",
+      "source": "ZDNet Korea",
+      "category": "gadgets",
+      "published_iso": "2026-11-23T13:00:01+09:00",
+      "excerpt": "안경 브랜드 브리즘이 3D 얼굴 스캔 기반 맞춤 설계 오디오 스마트 글라스 'in*sight'를 공개했다. 스마트폰과 연동해 시리·제미나이 등 AI 비서를 호출하며, 팝업에서 Even Realities G2·INMO GO3·RayNeo iO 등 AI 글라스도 비교 체험할 수 있다.",
+      "og_image": "https://image.zdnet.co.kr/2026/11/23/11815b888a121e7663cd1cc0e82e5b06.jpg"
+    },
+    {
+      "title": "이주희 의원, '스마트글래스 불법촬영 방지법' 2건 대표발의",
+      "url": "https://zdnet.co.kr/view/?no=20261123110054",
+      "source": "ZDNet Korea",
+      "category": "gadgets",
+      "published_iso": "2026-11-23T11:07:15+09:00",
+      "excerpt": "AI 스마트글래스 몰래 촬영 논란에 촬영 사실 표시 제조 기준과 이용자 고지 의무를 담은 정보통신망법·개인정보보호법 개정안이 발의됐다. 착용형 기기로 촬영 시 불빛·소리 등으로 알리지 않으면 최대 1000만원 과태료.",
+      "og_image": "https://image.zdnet.co.kr/2026/09/16/352f1fab416bd5d83e0e6c75667e414b.jpg"
+    },
+    {
+      "title": "빅웨이브로보틱스, 車 부품 라인에 이족보행 휴머노이드 투입",
+      "url": "https://zdnet.co.kr/view/?no=20261124085224",
+      "source": "ZDNet Korea",
+      "category": "gadgets",
+      "published_iso": "2026-11-24T14:21:27+09:00",
+      "excerpt": "빅웨이브로보틱스가 국내 최초로 이족보행 휴머노이드를 자동차 부품 제조 실증라인에 투입했다. 엔비디아 시뮬레이션에서 강화학습·모방학습한 피지컬 AI 모델을 하드웨어에 배포해 기존 설비와 연동한다.",
+      "og_image": "https://image.zdnet.co.kr/2026/11/24/37a312aea9468b8e198e6b128c698b5b.jpg"
+    },
+    {
+      "title": "자기 몸무게만큼 짐 운반…90kg '괴력 휴머노이드'",
+      "url": "https://www.etnews.com/20261124000443",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-11-25T06:00:00+09:00",
+      "excerpt": "미국 파운데이션 퓨처 인더스트리스가 2세대 휴머노이드 '팬텀 MKII'를 공개했다. 키 183cm·무게 88kg으로 최대 90kg을 운반하고, 1회 충전 4~6시간 작동, IP67 방진·방수를 갖췄다.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png"
+    },
+    {
+      "title": "산업부, '가전 AX제품화지원센터' 개소…5년간 170억원 투입·AI가전 학습데이터 15종 구축",
+      "url": "https://www.etnews.com/20261124000346",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-11-24T14:07:02+09:00",
+      "excerpt": "산업통상부가 중소·중견 기업의 AI 가전 개발부터 상용 출시까지 지원하는 '가전 AX제품화지원센터'를 열고 AI가전 학습데이터 15종 구축 로드맵을 발표했다. 개소식에서는 회전형 디스플레이·카메라·AI를 결합한 긱스로프트 스마트 헤드폰 '페리스피어' 등이 시연됐다.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg"
+    },
+    {
+      "title": "정부, 국가 대표 휴머노이드 뽑는다…10개팀 선발해 성장 지원",
+      "url": "https://www.etnews.com/20261124000347",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-11-24T14:08:12+09:00",
+      "excerpt": "과기정통부가 내년부터 5년간 535억원 규모 '넥스트-X 휴머노이드 챌린지'를 추진해 단계별 경쟁으로 국가대표급 휴머노이드 플랫폼을 발굴하고 실증·시장 진출까지 지원한다.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.ff6d5e3497f8412d935b9c353e5d01e8_P1.jpg"
+    }
+  ]
 }

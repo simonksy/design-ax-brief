@@ -13416,6 +13416,146 @@
           "x": "Computer Use rolls out in English in the US today, and the Gemini Mac app is available to download. OpenAI has also focused on Computer Use recently, pulling well ahead with its Astra model."
         }
       ]
+    },
+    "design/framer-automations-connectors": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "05Os8Cqr7Ic"
+        },
+        {
+          "t": "p",
+          "x": "Introducing Automations, Connectors, and the Slack Agent. Automations are agent workflows that run on their own. You can trigger them on a schedule or by project events like publishing or a form submission. For example, you can run an SEO audit every time you publish and post the results to Slack, send a daily analytics brief, or enrich a form lead and route it to the right place. You control which tools the Agent can use, and you can review past runs."
+        },
+        {
+          "t": "p",
+          "x": "With Connectors, the Agent can connect to tools your team already uses, including Slack, Notion, and Ahrefs, and both read and act in them in chat and inside Automations."
+        },
+        {
+          "t": "p",
+          "x": "With the official Framer Slack app, @Framer in a channel or send it a DM to ask about your site, pull analytics, or make quick edits without opening Framer."
+        },
+        {
+          "t": "p",
+          "x": "To get started, open Site Settings and go to the Automations or Connectors tab."
+        }
+      ]
+    },
+    "design/nyt-photoshop-ai-metadata": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+          "cap": "Photo: Marcin Golba / NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI “in ways that may not be apparent to users.” In an email, photography leaders Meaghan Looram and Josh Haner write that these features “can result in metadata identifying photographs as AI-generated.”"
+        },
+        {
+          "t": "p",
+          "x": "The November update adds an “AI Assisted Editor” view that puts all of Photoshop’s AI features in one toolbar, an AI assistant for step-by-step editing, prompt-based image editing, new AI upscaling options and an AI tool that recomposes images for different canvas sizes. It’s not always clear which tools are AI-powered, and for a newsroom where photo editing is kept to a minimum, AI metadata risks losing readers’ trust."
+        },
+        {
+          "t": "p",
+          "x": "In August, Adobe began rolling out C2PA metadata support that flags images generated or edited with AI. “At this time, we are requiring that all contributing photographers avoid using Adobe Photoshop 2027 (release 28.0.0 and subsequent updates) when working on assignment for The Times,” the email reads. NYT spokesperson Graham James confirmed the requirement. Adobe didn’t immediately respond to The Verge."
+        }
+      ]
+    },
+    "design/cognitive-design-cds-2-3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cognitive Design Systems (CDS) releases Cognitive Design 2.3, the latest version of its AI-powered engineering platform. Its flagship capability is automated Design of Experiments (DoE), letting engineering teams explore design alternatives systematically during the concept phase, up to the Preliminary Design Review (PDR)."
+        },
+        {
+          "t": "p",
+          "x": "“For decades, DoE has come into play late in the engineering workflow, once the main design choices have already been made and every change has become costly,” said CEO Rhushik Matroja. “At CDS, we are convinced that DoE delivers its greatest value at the concept phase, when the decisive choices on a part are still open.”"
+        },
+        {
+          "t": "p",
+          "x": "Engineers define the design parameters and ranges; the software then automatically conducts the parametric sweep within these limits, generating each design variant and evaluating it against structural, manufacturing, cost, and CO2 criteria. All variants are consolidated in Design Explorer, where designers can compare trade-offs, filter candidates against requirements, and justify the selected concept with full traceability."
+        },
+        {
+          "t": "p",
+          "x": "CDS has also published a white paper, “Design of Experiments at the Concept Stage,” setting out a seven-step method leading to a traceable concept selection."
+        }
+      ]
+    },
+    "design/claude-artifacts-desktop-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic now lets you install Claude Artifacts as Mac or Windows apps. The feature is in beta as of today and requires the latest version of Claude for macOS or Windows. You build an Artifact in chat and keep it in the dock without writing any code."
+        },
+        {
+          "t": "p",
+          "x": "The installed apps can use OS APIs, connectors, and Claude itself. That lets an app add menu bar items, create transparent windows, and send notifications, among other things. Examples include custom terminals, file managers, and video editors. Several demos are available to try."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic's Felix Rieseberg wrote on X that you need a Claude account and the Claude app for now, though a free account is enough. If you have an Apple Developer account, you can also have Claude build a standalone app."
+        }
+      ]
+    },
+    "design/maxon-plus-agentic-licence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Maxon is launching a suite of generative tools for 3D work under a separate, optional subscription called Maxon Plus, plus Agentic Licences for Cinema 4D and Autograph that let AI assistants tackle tiresome production tasks while artists stay on the creative work."
+        },
+        {
+          "t": "p",
+          "x": "Its MCP workflow, released on 30 September, became \"the most widely used feature in Cinema 4D's history in the shortest period of time\", says chief product officer Steve Forde, but it ties up the artist's session. The Agentic Licence instead provides a separate headless copy with Redshift, so AI tasks run \"in the back office\" on another machine."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
+          "cap": "(Image credit: Maxon)"
+        },
+        {
+          "t": "p",
+          "x": "Maxon Plus starts at $10/€10 per month. Model Generator creates editable 3D base models from text prompts or reference images, initially powered by Rodin."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
+          "cap": "(Image credit: Maxon)"
+        },
+        {
+          "t": "p",
+          "x": "Clay Builder for ZBrush creates simple low-polygon base meshes, and Texture Generator applies materials and textures from prompts or images."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
+          "cap": "(Image credit: Maxon)"
+        },
+        {
+          "t": "p",
+          "x": "Maxon Review lets teams and clients review interactive 3D work in a browser and leave comments on specific parts of models."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+        },
+        {
+          "t": "p",
+          "x": "\"We do have a complete 'turn all AI off' in our products,\" Forde notes. \"That's a button that we purposely put there.\""
+        }
+      ]
     }
   }
 }

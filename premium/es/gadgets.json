@@ -13632,6 +13632,134 @@
           "x": "La vía más segura son los módulos ESP32 —placas baratas y aptas para hackers que hay detrás de dispositivos como el M5Stack PaperMono— y el programa Muse Charm y Muse Gadgets de Meta. El consejo de Gathin: nunca des a los bots acceso a algo que no puedas permitirte perder, y haz muchas copias de seguridad."
         }
       ]
+    },
+    "gadgets/honor-magic9-promax-global": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
+        },
+        {
+          "t": "p",
+          "x": "HONOR ha lanzado el Magic 9 Pro Max en Malasia, su primer lanzamiento fuera de China. Tiene un precio recomendado de 5,999 ringgits malasios (~$1,457) y solo se vende en una configuración de 12GB/512GB; las reservas del 24 de noviembre al 3 de diciembre reciben un paquete de regalo que incluye tres meses gratis de Google AI Pro."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El sistema de cámaras se ha desarrollado con el fabricante de cámaras de cine ARRI: una cámara principal de 200MP y 1/1.28 pulgadas, un teleobjetivo de 200MP y 85mm, un ultra gran angular de 50MP y una cámara selfie cuadrada de 55MP. El vídeo es su mayor fortaleza, con 4K/120fps, ARRI Cinema Mode y ARRI Looks, compatibilidad con LUT y LogC3, el códec APV y la función Magic Color for Video, que analiza los colores de un clip de referencia y aplica ese estilo a nuevas grabaciones."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En su interior hay un chipset Snapdragon 8 Elite Extreme Gen 6 y un panel LTPO OLED de 6.8 pulgadas con un brillo máximo de hasta 10,000 nits. MagicOS 11 añade resúmenes de notificaciones y la función Payment Trust Space, y el teléfono incorpora una tecla de cámara dedicada y un botón AI para asistencia “context-aware” (según el contexto). Al pulsarlo dos veces se activa Highlight Clip Capture, que recorta un fragmento de un vídeo y genera subtítulos; no funciona con vídeo DRM-protected, como las emisiones de Netflix."
+        }
+      ]
+    },
+    "gadgets/foundation-phantom-mkii": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
+          "cap": "Fuente: Foundation Robotics"
+        },
+        {
+          "t": "video",
+          "yt": "la43cmm6YMQ"
+        },
+        {
+          "t": "p",
+          "x": "Se ha presentado un robot humanoide que, según se afirma, puede transportar cargas tan pesadas como su propio peso."
+        },
+        {
+          "t": "p",
+          "x": "La empresa estadounidense de robótica Foundation Future Industries presentó el día 18 (hora local) su robot humanoide de 2.ª generación, 'Phantom MKII'. Mide unos 183cm, pesa unos 88kg y puede transportar cargas de hasta 90kg. Está diseñado para funcionar entre 4 y 6 horas con una sola carga."
+        },
+        {
+          "t": "p",
+          "x": "Cuenta con la clasificación IP67 de resistencia al polvo y al agua, por lo que puede trabajar en entornos con mucha lluvia y polvo, y su estructura permite sustituir las articulaciones averiadas. Puede usar AI para aprender de demostraciones de tareas hechas por personas, y su objetivo es transportar objetos pesados o asumir trabajos peligrosos en fábricas, obras de construcción y minas. La empresa prevé iniciar la producción a principios de 2027."
+        }
+      ]
+    },
+    "gadgets/gadgets-ax-appliance-center": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
+          "cap": "Lee Min-woo, director de la Oficina de Crecimiento Industrial del Ministerio de Industria y Comercio, asiste el día 24 a la ceremonia de apertura del 'Centro de Apoyo a la Comercialización AX de Electrodomésticos', en el Centro de Apoyo a la Fabricación Electrónica de Yongsan-gu, Seúl. Imagen cedida por el ministerio"
+        },
+        {
+          "t": "p",
+          "x": "El Ministerio de Industria y Comercio celebró el día 24 la ceremonia de apertura del 'Centro de Apoyo a la Comercialización AX de Electrodomésticos' en el Centro de Apoyo a la Fabricación Electrónica de Yongsan-gu, Seúl, y presentó una 'hoja de ruta para la creación de datos de entrenamiento para electrodomésticos AI'. El centro apoya todo el ciclo, desde el desarrollo de electrodomésticos AX hasta el lanzamiento comercial, y se espera que alivie la falta de equipos y datos para el desarrollo AX que sufren las pequeñas y medianas empresas del sector."
+        },
+        {
+          "t": "p",
+          "x": "El centro es una mejora del Centro de Apoyo a la Fabricación Electrónica que KEA gestiona desde 2021, convertido ahora en un núcleo de desarrollo AX para electrodomésticos. Entre 2026 y 2030 se invertirán 170억원 en total (100억원 de fondos públicos) para instalar y abrir 13 tipos de equipos, como instalaciones de fabricación de placas AI y equipos de pruebas de rendimiento, e ingenieros dedicados acompañarán de cerca todo el proceso de diseño, prototipado, validación y producción inicial. El centro ayudará a añadir funciones AI con cambios mínimos en el diseño de los productos existentes y fomentará el uso de semiconductores AI nacionales."
+        },
+        {
+          "t": "p",
+          "x": "La hoja de ruta prevé crear entre 2027 y 2031 un total de 15 tipos de datos básicos comunes, 3 por año. Los 15 conjuntos de datos clave se definieron mediante una encuesta de demanda a empresas y entrevistas en profundidad, y se compartirán a través de una plataforma específica a partir de 2028."
+        },
+        {
+          "t": "p",
+          "x": "En el acto también se expusieron productos de 5 empresas participantes: Beyond Honeycomb (robot de cocina automática con AI), Emma Healthcare (cuna AI que mide constantes vitales sin contacto), Geeksloft (auriculares AI), Otiton Medical (termómetro de oído inteligente y plataforma de diagnóstico) y Mobilint (semiconductores AI nacionales para dispositivos y soluciones edge). Lee afirmó: “Para mantener la competitividad de la industria de electrodomésticos, la AX de los procesos de fabricación y la innovación de los productos deben avanzar juntas”."
+        }
+      ]
+    },
+    "gadgets/galaxy-s27u-laser-af-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
+          "cap": "El diseño del Samsung Galaxy S27 Ultra supondría un cambio importante respecto al Galaxy S26 Ultra."
+        },
+        {
+          "t": "p",
+          "x": "Tras informaciones previas de que Samsung eliminaría la cámara con zoom óptico 3x del Galaxy S27 Ultra, el filtrador Ice Universe afirma ahora que Samsung también quitará el módulo de autofoco láser de su conjunto de cámaras traseras. Según el filtrador, la información está confirmada, y por eso los renders de diseño recientes no muestran el módulo. Si es cierto, será el primer Galaxy Ultra desde el Galaxy S21 Ultra que llegue sin autofoco láser, y el Galaxy S27 Pro, más pequeño, tampoco lo tendrá."
+        },
+        {
+          "t": "p",
+          "x": "Ice Universe sostiene que el Galaxy S27 Ultra recurrirá en su lugar a tecnología de enfoque AI. La configuración trasera filtrada: una cámara principal de 200 MP 1/1.3\" con OIS, un zoom óptico periscópico 5x de 50 MP 1/2.55\" y un ultra gran angular de 50 MP 1/2.5\" y 120˚."
+        },
+        {
+          "t": "p",
+          "x": "Samsung ha incluido autofoco láser en los Galaxy Ultra durante los últimos 5 años: el Galaxy S20 Ultra, que dependía solo del PDAF, tuvo graves problemas de búsqueda de enfoque al principio, y Samsung añadió el módulo láser en el Galaxy S21 Ultra para mitigarlos."
+        }
+      ]
+    },
+    "gadgets/dutch-ap-camera-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
+          "cap": "Créditos de imagen: David Paul Morris/Bloomberg / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "La Autoridad Neerlandesa de Protección de Datos insta a los consumidores a no comprar gafas con cámara con IA (AI-enabled), y advierte que vulneran la privacidad de las personas cercanas y ponen en riesgo la seguridad de sus usuarios."
+        },
+        {
+          "t": "p",
+          "x": "La autoridad, cuya reciente declaración se queda a las puertas de una prohibición total, afirmó que usar estas gafas conectadas a internet y siempre encendidas para grabar a personas en público está “casi siempre prohibido”."
+        },
+        {
+          "t": "p",
+          "x": "Los críticos han apodado a estos dispositivos “gafas de pervertido” por la facilidad con que se usan para grabar a personas sin su permiso, en particular para acosar a mujeres. Aunque algunas gafas tienen luces de aviso cuando graban, los defensores de la privacidad sostienen que esas alertas no son lo bastante claras. Algunas personas incluso han creado aplicaciones móviles capaces de detectar a usuarios de gafas inteligentes cercanos."
+        },
+        {
+          "t": "p",
+          "x": "La autoridad neerlandesa advirtió que las gafas también dan resultados erróneos e inseguros. En una prueba realizada por el organismo, unas gafas sin nombre “dieron consejos para citas a un adulto que indicó estar interesado en un menor”. Las gafas también leyeron mal la etiqueta de un medicamento y afirmaron haber llamado a una ambulancia sin haberlo hecho."
+        },
+        {
+          "t": "p",
+          "x": "El consejo del Gobierno neerlandés sigue a una medida similar del Gobierno noruego, que en septiembre dijo estar estudiando prohibir los dispositivos con cámara."
+        }
+      ]
     }
   }
 }

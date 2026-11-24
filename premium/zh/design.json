@@ -13157,6 +13157,146 @@
           "x": "Computer Use今天起在美国（US）以英语推出，Gemini Mac应用已开放下载。OpenAI最近也在发力Computer Use，凭借其Astra模型大幅领先。"
         }
       ]
+    },
+    "design/framer-automations-connectors": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "05Os8Cqr7Ic"
+        },
+        {
+          "t": "p",
+          "x": "推出Automations、Connectors和Slack Agent。Automations是可自行运行的智能体工作流，可以按计划触发，也可以由发布或表单提交等项目事件触发。例如，你可以在每次发布时运行SEO审查并把结果发到Slack，发送每日分析简报，或者补全表单线索信息并将其分派到合适的位置。你可以控制Agent能使用哪些工具，也可以查看过去的运行记录。"
+        },
+        {
+          "t": "p",
+          "x": "借助Connectors，Agent可以连接团队已在使用的工具，包括Slack、Notion和Ahrefs，并能在聊天和Automations中读取这些工具的内容并在其中执行操作。"
+        },
+        {
+          "t": "p",
+          "x": "通过官方Framer Slack应用，你可以在频道中@Framer或给它发DM，询问网站情况、调取分析数据或进行快速修改，无需打开Framer。"
+        },
+        {
+          "t": "p",
+          "x": "要开始使用，请打开Site Settings，进入Automations或Connectors选项卡。"
+        }
+      ]
+    },
+    "design/nyt-photoshop-ai-metadata": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+          "cap": "图片：Marcin Golba / NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The New York Times正要求自由摄影师不要使用最新版Adobe Photoshop，因为2027更新中的功能以“用户可能察觉不到的方式”使用AI。摄影部门负责人Meaghan Looram和Josh Haner在一封电子邮件中写道，这些功能“可能导致照片被元数据标记为AI-generated（AI生成）”。"
+        },
+        {
+          "t": "p",
+          "x": "11月的更新新增了“AI Assisted Editor”视图，把Photoshop的所有AI功能集中到一个工具栏中，还加入了用于分步编辑的AI助手、基于提示词的图像编辑、新的AI放大选项，以及可按不同画布尺寸重新构图的AI工具。哪些工具属于AI-powered（AI驱动）并不总是一目了然，而对于将照片编辑控制在最低限度的新闻编辑部来说，AI元数据可能让读者失去信任。"
+        },
+        {
+          "t": "p",
+          "x": "8月，Adobe开始推出C2PA元数据支持，用于标记由AI生成或编辑的图像。邮件写道：“目前，我们要求所有供稿摄影师在为The Times执行任务时，避免使用Adobe Photoshop 2027（28.0.0版本及后续更新）。”NYT发言人Graham James证实了这一要求。Adobe未立即回复The Verge。"
+        }
+      ]
+    },
+    "design/cognitive-design-cds-2-3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cognitive Design Systems（CDS）发布了其AI-powered（AI驱动）工程平台的最新版本Cognitive Design 2.3。其核心功能是自动化的Design of Experiments（DoE），让工程团队能在概念阶段直至Preliminary Design Review（PDR）期间系统地探索设计备选方案。"
+        },
+        {
+          "t": "p",
+          "x": "CEO Rhushik Matroja表示：“几十年来，DoE一直在工程流程的后期才登场，那时主要的设计选择已经确定，任何改动都代价高昂。”他还说：“CDS坚信，DoE在概念阶段价值最大，因为那时零件的关键选择仍未敲定。”"
+        },
+        {
+          "t": "p",
+          "x": "工程师定义设计参数及其范围，软件随后在这些限制内自动执行参数扫描，生成每个设计变体，并按结构、制造、成本和CO2标准进行评估。所有变体汇集在Design Explorer中，设计人员可以比较权衡、按需求筛选候选方案，并以完整的可追溯性论证所选概念。"
+        },
+        {
+          "t": "p",
+          "x": "CDS还发布了白皮书《Design of Experiments at the Concept Stage》，提出一套通向可追溯概念选择的七步方法。"
+        }
+      ]
+    },
+    "design/claude-artifacts-desktop-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic现在允许用户将Claude Artifacts安装为Mac或Windows应用。该功能自今日起以测试版形式推出，需要最新版的macOS或Windows版Claude。你可以在聊天中构建一个Artifact，无需编写任何代码就能把它放在程序坞中。"
+        },
+        {
+          "t": "p",
+          "x": "安装后的应用可以使用OS APIs、连接器以及Claude本身。因此，应用可以添加菜单栏项目、创建透明窗口、发送通知等。示例包括自定义终端、文件管理器和视频编辑器，还有多个演示可供试用。"
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic的Felix Rieseberg在X上写道，目前需要Claude账户和Claude应用，不过免费账户就足够。如果你拥有Apple Developer账户，还可以让Claude构建一个独立应用。"
+        }
+      ]
+    },
+    "design/maxon-plus-agentic-licence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Maxon推出一套面向3D创作的生成式工具，归入名为Maxon Plus的独立可选订阅；同时为Cinema 4D和Autograph推出Agentic Licences，让AI助手处理繁琐的制作任务，艺术家则专注于创意工作。"
+        },
+        {
+          "t": "p",
+          "x": "首席产品官Steve Forde表示，9月30日发布的MCP工作流成为“Cinema 4D历史上在最短时间内被最广泛使用的功能”，但它会占用艺术家的会话。Agentic Licence则提供一份附带Redshift的独立无头副本，让AI任务在另一台机器上“在后台”运行。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
+          "cap": "（图片来源：Maxon）"
+        },
+        {
+          "t": "p",
+          "x": "Maxon Plus起价为每月$10/€10。Model Generator可根据文本提示词或参考图像生成可编辑的3D基础模型，初期由Rodin提供支持。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
+          "cap": "（图片来源：Maxon）"
+        },
+        {
+          "t": "p",
+          "x": "ZBrush的Clay Builder可创建简单的低多边形基础网格，Texture Generator则根据提示词或图像应用材质和纹理。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
+          "cap": "（图片来源：Maxon）"
+        },
+        {
+          "t": "p",
+          "x": "借助Maxon Review，团队和客户可以在浏览器中审阅交互式3D作品，并在模型的特定部位留下评论。"
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+        },
+        {
+          "t": "p",
+          "x": "“我们的产品确实有完整的‘关闭所有AI’功能，”Forde指出，“那是我们特意放在那里的按钮。”"
+        }
+      ]
     }
   }
 }

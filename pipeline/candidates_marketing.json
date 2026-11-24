@@ -1,158 +1,214 @@
 {
  "section": "marketing",
- "now_iso": "2026-11-23T22:00:42Z",
+ "now_iso": "2026-11-24T22:00:37Z",
  "window_hours": 72,
  "items": [
   {
-   "title": "ChatGPT's Agent Writes Its Own Queries to Serve Ads. Advertisers Don't Get to See Them",
-   "url": "https://www.adweek.com/media/chatgpts-agent-writes-its-own-queries-to-serve-ads-advertisers-dont-get-to-see-them/",
-   "source": "ADWEEK",
-   "keyword": "ChatGPT ads",
-   "excerpt": "Three OpenAI ad executives told ADWEEK that ChatGPT ads are matched to search queries written by an internal AI agent (the 'orchestrator') from the user's chat history rather than from actual user searches; advertisers do not get to see those generated queries.",
-   "published_iso": "2026-11-23T06:00:00-05:00",
-   "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=600&h=315&crop=1",
-   "category": "marketing"
+   "title": "Healthcare Ads Are Coming To ChatGPT",
+   "url": "https://www.adexchanger.com/marketers/healthcare-ads-are-coming-to-chatgpt/",
+   "source": "AdExchanger",
+   "category": "marketing",
+   "published_iso": "2026-11-24T14:00:01+00:00",
+   "excerpt": "WebMD Ignite launched a ChatGPT ads offering for hospitals and medical providers on Tuesday, after OpenAI loosened ChatGPT Ads' policy that had barred health ads during early testing. The creative format is still limited to an image, brand name and short message, and advertisers can't see which queries their ads appear against.",
+   "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/03/Programmatic-AI-caption-contest-robot-therapy-comic-featured-e1775576280914.jpg"
   },
   {
-   "title": "Plumbing, not intelligence: Index Exchange on what MCP means for buyers",
-   "url": "https://ppc.land/plumbing-not-intelligence-index-exchange-on-what-mcp-means-for-buyers/",
+   "title": "Amazon is buying ChatGPT ads while blocking OpenAI crawlers",
+   "url": "https://digiday.com/marketing/amazon-is-buying-chatgpt-ads-while-blocking-openai-crawlers/",
+   "source": "Digiday",
+   "category": "marketing",
+   "published_iso": "2026-11-24T05:01:00+00:00",
+   "excerpt": "Amazon is running a new round of Black Friday ads in ChatGPT in the U.S. while still blocking OpenAI's crawlers. ChatGPT's shopping results link to Amazon search pages and use third-party deal trackers for pricing, so Amazon is paying a rival platform to send shoppers back to its own marketplace.",
+   "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg"
+  },
+  {
+   "title": "Walmart is letting Meta's Muse shop its shelves — but on its own terms",
+   "url": "https://digiday.com/marketing/walmart-is-letting-metas-muse-shop-its-shelves-but-on-its-own-terms/",
+   "source": "Digiday",
+   "category": "marketing",
+   "published_iso": "2026-11-24T05:01:00+00:00",
+   "excerpt": "Walmart is giving Meta's Muse agent access through a gateway it controls, which sets how AI agents browse, shop and complete purchases on its shelves. The setup lets Walmart join agentic commerce without handing the customer relationship to Meta.",
+   "og_image": "https://digiday.com/wp-content/uploads/sites/3/2024/02/walmart-digiday.jpg"
+  },
+  {
+   "title": "Why brands are writing no-AI clauses into creator deals",
+   "url": "https://digiday.com/future-of-tv/why-brands-are-writing-no-ai-clauses-into-creator-deals/",
+   "source": "Digiday",
+   "category": "marketing",
+   "published_iso": "2026-11-24T05:01:00+00:00",
+   "excerpt": "More influencer contracts now bar creators from using generative AI in campaign content, Pearpop's vp of talent says, and creators welcome the clauses. Brands are having to spell out where AI is still allowed, for example in ideation, scripting and performance analysis.",
+   "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg"
+  },
+  {
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "source": "TechCrunch",
+   "category": "marketing",
+   "published_iso": "2026-11-24T17:00:00+00:00",
+   "excerpt": "Instagram users can now chat with Meta's Muse agent in a DM thread. They can share posts with it and ask it to act, for example finding a Black Friday deal on shoes, which puts Meta's shopping agent where people already discover products.",
+   "og_image": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200"
+  },
+  {
+   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+   "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "source": "TechCrunch",
+   "category": "marketing",
+   "published_iso": "2026-11-24T21:32:38+00:00",
+   "excerpt": "Walmart now lets customers shop its Black Friday deals through Meta's Muse agent. This is the same story as Digiday's Walmart–Muse gateway piece, so pick only one of the two.",
+   "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+  },
+  {
+   "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
+   "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/",
+   "source": "Meta Newsroom",
+   "category": "marketing",
+   "published_iso": "2026-11-24T06:00:40+00:00",
+   "excerpt": "Meta launched its Muse agent in the UK, its first market outside the U.S., with retail partners for agentic shopping. Trade press names M&S, Sainsbury's, Ocado, Argos, JD Sports, ASOS and Debenhams.",
+   "og_image": "https://about.fb.com/wp-content/uploads/2026/11/England_v2a_4x3.png?w=1200"
+  },
+  {
+   "title": "Google Search asks for the wallet, after the inbox and the photo album",
+   "url": "https://ppc.land/google-search-asks-for-the-wallet-after-the-inbox-and-the-photo-album/",
    "source": "PPC Land",
-   "keyword": "agentic media buying",
-   "published_iso": "2026-11-23T21:10:07+00:00",
-   "og_image": "https://ppc.land/content/images/2026/11/index-exchange-mcp-media-buyers-plumbing-pipes-faucet-empty-cup.jpg",
-   "excerpt": "Index Exchange published a media-buyer guide calling Model Context Protocol the plumbing of agentic advertising and saying an MCP server 'has quickly become table stakes', walking through an AI agent diagnosing a stalled programmatic deal with a human approving the fix.",
-   "category": "marketing"
+   "category": "marketing",
+   "published_iso": "2026-11-23T19:43:29+00:00",
+   "excerpt": "Users who opt in can now let Google Wallet spending and card-perk data shape AI Mode answers, with Drive and Gemini chats to follow. Google hasn't said whether the data will also personalize the ads AI Mode already shows in 11 countries, though its privacy policy covers 'including ads'.",
+   "og_image": "https://ppc.land/content/images/2026/11/google-ai-mode-personal-intelligence-wallet-spending-magnifying-glass-open-wallet-envelopes-calendar.jpg"
   },
   {
-   "title": "Pinterest sells feed and search ad space through Microsoft Advertising",
-   "url": "https://ppc.land/pinterest-sells-feed-and-search-ad-space-through-microsoft-advertising/",
+   "title": "Semrush puts a number on the visits that begin with an AI answer",
+   "url": "https://ppc.land/semrush-puts-a-number-on-the-visits-that-begin-with-an-ai-answer/",
    "source": "PPC Land",
-   "keyword": "AI ad bidding",
-   "published_iso": "2026-11-23T19:27:24+00:00",
-   "og_image": "https://ppc.land/content/images/2026/11/pinterest-microsoft-advertising-integration-open-auction-pneumatic-tube-corkboard-europe-excluded.jpg",
-   "excerpt": "Microsoft Advertising campaigns can now extend into Pinterest's open-auction home feed, search and related-Pins inventory, with placements chosen by a custom contextual bidding model built on Pinterest's AI interest signals; rollout starts in North America, Australia and New Zealand, Europe excluded.",
-   "category": "marketing"
+   "category": "marketing",
+   "published_iso": "2026-11-23T21:03:26+00:00",
+   "excerpt": "Semrush launched topic reports for U.S. and UK marketers that estimate how many site visits begin with an AI answer. The model is built on 29 billion keywords and 317 million AI prompts, and it's a modeled estimate rather than measured traffic.",
+   "og_image": "https://ppc.land/content/images/2026/11/semrush-topics-ai-influenced-traffic-speech-bubble-tally-counter-footpaths.jpg"
   },
   {
-   "title": "AI agents can now pay AWS Marketplace sellers per request, in dollars",
-   "url": "https://ppc.land/ai-agents-can-now-pay-aws-marketplace-sellers-per-request-in-dollars/",
+   "title": "80% of UK Black Friday shoppers buy from unfamiliar stores, Criteo finds",
+   "url": "https://ppc.land/80-of-uk-black-friday-shoppers-buy-from-unfamiliar-stores-criteo-finds/",
    "source": "PPC Land",
-   "keyword": "AI checkout conversion",
-   "published_iso": "2026-11-23T21:08:37+00:00",
-   "og_image": "https://ppc.land/content/images/2026/11/aws-marketplace-agentcore-x402-agent-payments-robot-hand-cash-register-receipt.jpg",
-   "excerpt": "AWS added AWS Billing as a payment option in Bedrock AgentCore payments, letting AI agents buy x402-enabled products from AWS Marketplace sellers per request in US dollars on the AWS bill; sellers skip building sign-up, API-key and billing flows.",
-   "category": "marketing"
-  },
-  {
-   "title": "ChatGPT Product Results May Now Be Influenced By OpenAI Partnerships",
-   "url": "https://www.seroundtable.com/chatgpt-product-results-may-be-influenced-by-openai-partnerships-42588.html",
-   "source": "Search Engine Roundtable",
-   "keyword": "ads in AI assistant",
-   "published_iso": "2026-11-23T07:11:00-05:00",
-   "og_image": "https://images.seroundtable.com/chatgpt-products-doc-diff-A9PSMMrd.png",
-   "excerpt": "OpenAI updated its Shopping with ChatGPT Search help documentation to update the line that says \"Product results are selected independently by ChatGPT and are not ads, nor influenced by any OpenAI partnerships.\" It now says, \"Product results are not ads; how products and merchants are selected is de",
-   "category": "marketing"
+   "category": "marketing",
+   "published_iso": "2026-11-23T20:51:27+00:00",
+   "excerpt": "A Criteo survey of 10,500 UK shoppers found 42% would use an AI assistant to choose a gift and 40% are open to it. Criteo pairs this with a 1.5x conversion figure for AI-assisted shoppers that it measured in February.",
+   "og_image": "https://ppc.land/content/images/2026/11/criteo-uk-black-friday-80-percent-unfamiliar-stores-shoppers-crossing-high-street-starburst-windows.jpg"
   },
   {
    "title": "Connect Your ChatGPT Business Hub With ChatGPT Ad Account",
    "url": "https://www.seroundtable.com/chatgpt-business-hub-ad-account-42592.html",
    "source": "Search Engine Roundtable",
-   "keyword": "ChatGPT ads",
+   "category": "marketing",
    "published_iso": "2026-11-22T18:24:00-05:00",
-   "og_image": "https://images.seroundtable.com/chatgpt-business-hub-connect-ad-account-0-6njrIAFj.png",
-   "excerpt": "Did you know that you can connect your ChatGPT Ads account in your new ChatGPT Business Hub?  There is a button at the top of the ChatGPT Business Hub that says, \"Connect an ad account,\" and adds, \"This will let you promote your business and reach more customers across ChatGPT.\"",
-   "category": "marketing"
+   "excerpt": "ChatGPT Business Hub now has a 'Connect an ad account' button, which links a business's verified presence to the ChatGPT Ads Manager so it can 'promote your business and reach more customers across ChatGPT.' This is a small linking step, and it may be the first sign of organic and paid ChatGPT surfaces coming together.",
+   "og_image": "https://images.seroundtable.com/chatgpt-business-hub-connect-ad-account-0-6njrIAFj.png"
   },
   {
-   "title": "KT나스미디어, AI 마케팅 분석 솔루션 바이퍼 3.0 출시",
-   "url": "https://zdnet.co.kr/view/?no=20261123175657",
+   "title": "Google Explains How Links Are Selected & Shown In AI Overviews & AI Mode",
+   "url": "https://www.seroundtable.com/google-ai-overviews-ai-mode-link-selection-42617.html",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "published_iso": "2026-11-24T16:41:00-05:00",
+   "excerpt": "A new Google document, 'Attribution and factuality in Search generative AI features', published with its new Search ranking hub, explains how AI Overviews and AI Mode pick and show source links. It's the first official reference GEO teams have for these choices.",
+   "og_image": "https://images.seroundtable.com/google-ai-ranking-4SCsEIMy.jpg"
+  },
+  {
+   "title": "Microsoft Bing AI Generated Answer Snippet",
+   "url": "https://www.seroundtable.com/bing-ai-generated-answer-42598.html",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "published_iso": "2026-11-24T07:51:00-05:00",
+   "excerpt": "Bing is testing a new answer box labeled 'AI-Generated answer' that is separate from Bing AI Overviews and Copilot Search, adding another AI surface in Microsoft search results.",
+   "og_image": "https://images.seroundtable.com/bing-ai-generated-answer-Eb8xFA7U.png"
+  },
+  {
+   "title": "What Bing's AI Actually Cites: 883,000 Citations Analyzed",
+   "url": "https://www.searchenginejournal.com/what-bings-ai-actually-cites-883000-citations-analyzed/595708/",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "published_iso": "2026-11-24T13:00:08+00:00",
+   "excerpt": "An analysis of 883,000 Bing AI citations across 26 brands found that support docs, PDFs and staff pages are cited more often than blog posts. That suggests which content to prioritize for visibility in AI answers.",
+   "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/bing-ai-306.png"
+  },
+  {
+   "title": "'AI 가짜 의사' 광고 금지 앞두고…이커머스 셀러 관리 시험대",
+   "url": "https://www.etnews.com/20261124000360",
+   "source": "전자신문",
+   "category": "marketing",
+   "published_iso": "2026-11-24T16:00:00+09:00",
+   "excerpt": "AI 가짜 의사 식품 광고를 금지하는 법이 27일 시행되기 전에 네이버는 상품정보에 가상 전문가를 쓰지 못하게 했고, G마켓은 기존 등록 상품까지 점검하고 있다. 쿠팡과 11번가는 기존 허위·과장 광고 제재 절차로 대응한다. 다만 플랫폼 밖 SNS 광고를 입점 상품과 연결하는 경로를 막을 수 있을지가 관건이다.",
+   "og_image": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png"
+  },
+  {
+   "title": "배민, 파트너 대상 통합 광고 관리 '배민애즈' 공개",
+   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717596",
+   "source": "디지털투데이",
+   "category": "marketing",
+   "published_iso": "2026-11-24T09:30:41+09:00",
+   "excerpt": "우아한형제들이 광고 콘퍼런스 B:NEXT 2026에서 통합 광고 관리 서비스 '배민애즈'를 공개했다. 광고 예약부터 집행, 성과 분석까지 한 곳에서 처리하며, AI가 광고 소재를 최적화하고 상품을 추천하고 성과 분석 리포트를 만든다. 우선 음식배달 광고주부터 쓸 수 있고, 주문·쇼핑 데이터 기반 AI 타기팅도 확대할 계획이다.",
+   "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/717596_664852_5412.jpg"
+  },
+  {
+   "title": "어도비, 챗GPT·클로드·제미나이에 고객 경험 AI 에이전트 통합",
+   "url": "https://zdnet.co.kr/view/?no=20261124161527",
    "source": "지디넷코리아",
-   "keyword": "AI ad measurement",
-   "published_iso": "2026-11-23T17:58:57+09:00",
-   "og_image": "https://image.zdnet.co.kr/2026/11/23/004936be368456d381b294580ad1b422.png",
-   "excerpt": "KT그룹 디지털 마케팅 플랫폼 기업 KT나스미디어는 광고 효과 분석 전문성과 AI 기술을 결합한 마케팅 분석 솔루션 바이퍼(VIPer) 3.0을 출시했다고 23일 밝혔다.바이퍼 3.0은 광고주 실제 집행, 성과 데이터와 광고 효과에 영향을 미치는 변수를 분석해 매체별 매출 기여도를 산출하고...",
-   "category": "marketing"
+   "category": "marketing",
+   "published_iso": "2026-11-24T17:47:33+09:00",
+   "excerpt": "어도비가 에이전틱 AI 서비스 'CX 엔터프라이즈 코워커'를 ChatGPT, Claude, Gemini Enterprise, Copilot, Databricks Genie에서 쓸 수 있게 했다. 아마존 애즈, 메타 광고 MCP 서버, 스노우플레이크 등과 연결하는 MCP 통합이 미리 갖춰져 있어, 잠재 고객 확보부터 구매 전환까지 마케팅 업무를 처리한다.",
+   "og_image": "https://image.zdnet.co.kr/2026/11/24/ffcb359da3af8d40cbab76a02400041b.jpg"
+  },
+  {
+   "title": "AI 비서 '피클' 이용자 급증…네이버·카카오, 어디까지 문 열까",
+   "url": "https://zdnet.co.kr/view/?no=20261124161846",
+   "source": "지디넷코리아",
+   "category": "marketing",
+   "published_iso": "2026-11-24T17:49:56+09:00",
+   "excerpt": "이용자 대신 예약하고 고객센터에 문의하는 AI 에이전트 '피클'이 빠르게 늘자, 네이버는 AI 에이전트가 고객센터에 문의하면 응대하지 않기로 했다. 네이버와 카카오 모두 자체 에이전트 출시를 앞두고 있어, 외부 에이전트에 서비스를 얼마나 열지가 국내 에이전틱 커머스의 새 쟁점으로 떠올랐다.",
+   "og_image": "https://image.zdnet.co.kr/2026/11/24/25dc7acb7222ed78589d24ff244c185b.png"
+  },
+  {
+   "title": "로켓툴즈, AI 기반 광고 세팅 추천 기능 선봬… 진짜 성과 데이터 분석해 메타 광고 효율 높인다",
+   "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29805",
+   "source": "매드타임스",
+   "category": "marketing",
+   "published_iso": "2026-11-24T08:23:53+09:00",
+   "excerpt": "이커머스 마테크 기업 로켓툴즈가 광고 성과 분석 솔루션 로켓애널리틱스에 대화형 AI 기반 '광고 세팅 추천' 기능을 넣었다. 브랜드의 실제 광고 성과를 분석해 메타 광고 세팅 방안을 제안하며, 앞으로 AI가 먼저 세팅을 진단하는 선제적 추천으로 고도화할 예정이다.",
+   "og_image": "https://www.madtimes.co.kr/news/thumbnail/202611/29805_73272_2247_v150.jpg"
+  },
+  {
+   "title": "KT나스미디어, AI 기반 광고 성과 분석·예산 최적화 솔루션 '바이퍼 3.0' 출시",
+   "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29788",
+   "source": "매드타임스",
+   "category": "marketing",
+   "published_iso": "2026-11-23T11:22:57+09:00",
+   "excerpt": "KT나스미디어가 '바이퍼 3.0'을 출시했다. 클릭 한 번으로 만드는 'AI 분석 리포트'가 매체별 성과와 예산 분석을 종합해 예산 조정 방향과 실행 우선순위를 제안한다. 넷플릭스 공식 광고 API와 연동한 '리믹스'로 광고 효과도 함께 분석한다.",
+   "og_image": "https://www.madtimes.co.kr/news/thumbnail/202611/29788_73234_2129_v150.jpg"
   },
   {
    "title": "딜로이트, 마케팅·영업 AI 솔루션 출시… 기존 시스템 연결해 업무 효율 높인다",
    "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29790",
    "source": "매드타임스",
-   "keyword": "AI 세일즈",
-   "excerpt": "딜로이트 디지털이 마케팅·영업 업무를 지원하는 AI 에이전트 기반 솔루션 '컨버지 바이 딜로이트 프런트 오피스'를 선보였다. 분산된 기존 시스템을 연결해 AI 도구 도입 효과를 높이는 것이 목표다.",
+   "category": "marketing",
    "published_iso": "2026-11-23T12:26:42+09:00",
-   "og_image": "https://www.madtimes.co.kr/news/thumbnail/202611/29790_73237_2015_v150.jpg",
-   "category": "marketing"
+   "excerpt": "딜로이트 디지털이 조사·제작·실행·모니터링 에이전트로 마케팅 업무를 나눈 AI 에이전트 솔루션과 영업용 '컨버지 세일즈'를 내놨다. 근거로 든 자사 조사에서 브랜드 리더의 97%는 AI 발전 속도를 개인화 마케팅 역량이 따라가지 못한다고 답했다.",
+   "og_image": "https://www.madtimes.co.kr/news/thumbnail/202611/29790_73237_2015_v150.jpg"
   },
   {
-   "title": "B2B 구매자 56% \"AI로 거래 후보 기업 선정\"... 신규 업체 발견은 뉴스레터가 1위",
-   "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29744",
-   "source": "매드타임스",
-   "keyword": "lead scoring AI",
-   "excerpt": "인포마 테크타깃 조사에서 기업용 기술 구매 담당자 절반 이상이 AI로 거래 후보 기업을 추리는 것으로 나타났다. 조사·평가 단계 AI 활용률은 44%였지만 최종 결정은 시연과 고객 사례로 직접 검증했다.",
-   "published_iso": "2026-11-22T00:00:00+09:00",
-   "og_image": "https://www.madtimes.co.kr/news/thumbnail/202611/29744_73107_445_v150.jpg",
-   "category": "marketing"
+   "title": "The RX Assistant Wants to Help Pharmaceutical Brands Use AI to Reach Patients",
+   "url": "https://www.adweek.com/brand-marketing/the-rx-assistant-wants-to-help-pharmaceutical-brands-use-ai-to-reach-patients/",
+   "source": "ADWEEK",
+   "category": "marketing",
+   "published_iso": "2026-11-24T14:41:23-05:00",
+   "excerpt": "The Rx Assistant's Builder is a no-code platform that lets pharma brands build, get regulatory approval for and deploy compliant AI patient and provider support tools across web, voice, email and SMS. Builder was announced on Nov 17, and this is ADWEEK's feature on it.",
+   "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/11/Untitled-Design5.png?w=600&h=315&crop=1"
   },
   {
-   "title": "크리에이터 영상 속 제품까지 분석한다… 넛케이크, AI 소셜 리스닝 도구 출시",
-   "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29794",
-   "source": "매드타임스",
-   "keyword": "creator paid partnership AI",
-   "excerpt": "크리에이터 마케팅 플랫폼 넛케이크가 영상의 화면과 음성을 AI로 분석해 해시태그·설명에 없는 제품·브랜드 노출까지 찾아내는 '넛케이크 인텔리전스'를 출시했다.",
-   "published_iso": "2026-11-24T00:00:00+09:00",
-   "og_image": "https://www.madtimes.co.kr/news/thumbnail/202611/29794_73256_3517_v150.jpg",
-   "category": "marketing"
-  },
-  {
-   "title": "Mastercard, Ant International test AI agent payments in APAC",
-   "url": "https://thepaypers.com/payments/news/mastercard-ant-international-test-ai-agent-payments-in-apac",
-   "source": "The Paypers",
-   "keyword": "AI checkout conversion",
-   "published_iso": "2026-11-23T12:17:39+00:00",
-   "og_image": "https://assets.thepaypers.com/news%20team/mastercard-ant-international-agentic-commerce.jpg",
-   "excerpt": "Mastercard and Antom run a live AI agent purchase and a business pilot that verifies agent identity and spending authority.",
-   "category": "marketing"
-  },
-  {
-   "title": "Higgsfield launches playable game ads built with AI",
-   "url": "https://gamesbeat.com/higgsfield-launches-playable-game-ads-built-with-ai/",
-   "source": "GamesBeat",
-   "keyword": "AI creative automation ads",
-   "off_list": true,
-   "excerpt": "Higgsfield launched Playable Ads, an enterprise-only workflow that generates interactive playable ad units with AI. Off-list outlet: no on-list source covered an AI ad-creative launch in the window.",
-   "published_iso": "2026-11-23T15:30:00+00:00",
-   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg",
-   "category": "marketing"
-  },
-  {
-   "title": "The End of CRM Busywork: How Agentforce Coworker Helps Run Your Small Business",
-   "url": "https://www.salesforce.com/blog/small-business/agentforce-coworker-in-salesforce-suites/",
-   "source": "Salesforce",
-   "keyword": "AI CRM pipeline",
-   "published_iso": "2026-11-23T14:00:00+00:00",
-   "og_image": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image_85408f.png",
-   "excerpt": "Agentforce Coworker is now in Salesforce Suites. See how it automates sales, service, and marketing tasks to help your team scale.",
-   "category": "marketing"
-  },
-  {
-   "title": "韓 스트리밍 이용자, 시간당 7분 광고 수용…AI광고 거부감 낮아",
-   "url": "https://www.etnews.com/20261121000027",
-   "source": "전자신문",
-   "keyword": "AI 광고",
-   "published_iso": "2026-11-21T11:02:18+09:00",
-   "og_image": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.3c1400f927944bf59ecaf48b24c3c0a0_P1.png",
-   "excerpt": "한국 스트리밍 이용자들은 시간당 약 7분의 광고를 수용할 수 있는 것으로 나타났다. 커넥티드TV 등 대화면을 통한 스트리밍 이용이 확대되는 가운데 맞춤형 광고, 인공지능(AI) 기반 광고에 대한 거부감도 비교적 낮은 것으로 조사됐다. 16일 글로벌 애드텤 기업 매그나이트의 보고서에따르면 한국 광고 지원 스트리밍 이용자의 67%는 시간당 평균 7분 가량의 광고를 수용할 수 있다고 답했다. 조사에서 광고 기반 서비스 이용자의 67%는 스트리밍 시간",
-   "category": "marketing"
-  },
-  {
-   "title": "[RE: 자사몰] ‘트라넥삼산 10%’ 모르는 고객은?…오가니시티가 자사몰에 AI를 넣은 이유",
-   "url": "https://byline.network/2026/11/23_291827734-2/",
-   "source": "바이라인네트워크",
-   "keyword": "conversational commerce AI",
-   "published_iso": "2026-11-23T17:41:23+09:00",
-   "og_image": "https://cdn.byline.network/wp-content/uploads/2026/11/20261123_OGC.jpeg",
-   "excerpt": "‘트라넥삼산 10%’, ‘나이아신아마이드 10%’. 주요 성분과 함량을 제품명에 내세운 스킨케어 브랜드 오가니시티가 인공지능(AI)을 활용해 자사몰을 키우고 있습니다. 성분을 잘 모르는 소비자도 피부 고민에 맞는 제품을 찾고, 조합과 사용법까지 안내받도록 한 겁니다. 네이버 스마트스토어에서 축적한 약 6만 건의 리뷰·상담 데이터를 AI에 활용하고, 고객의 요구를 신상품 개발로 연결하는 실험도 이어가고 있습니다.",
-   "category": "marketing"
+   "title": "Inflation, AI, and Tech Outages Will Reshape Holiday Shopping",
+   "url": "https://www.adweek.com/commerce/inflation-ai-and-tech-outages-will-reshape-holiday-shopping/",
+   "source": "ADWEEK",
+   "category": "marketing",
+   "published_iso": "2026-11-24T15:05:36-05:00",
+   "excerpt": "The NRF expects holiday spending to top $1 trillion, with consumers using more budgeting strategies. ADWEEK's takeaway is that shoppers will use AI to research products, but AI won't drive sales this season.",
+   "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/11/GettyImages-2248829912.jpg?w=600&h=315&crop=1"
   }
  ]
 }

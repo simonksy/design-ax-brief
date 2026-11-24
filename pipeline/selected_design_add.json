@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-25",
+  "section": "design",
+  "items": [
+    {
+      "rank": 5,
+      "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
+      "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+      "source": "The Decoder",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "published_iso": "2026-11-24T20:42:29Z",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png",
+      "excerpt": "Claude Artifacts can now be installed as beta desktop apps on Mac and Windows, even with a free account; built in chat without code, they can use OS APIs and connectors to add menu bar items, notifications and transparent windows.",
+      "rationale": "New product release that lets designers ship chat-built prototypes as installable desktop apps with native OS surfaces (menu bar, notifications, transparent windows) — a concrete new prototyping/delivery path, no code required."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/": {
+        "verdict": "new",
+        "nearest": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+        "new_action": ""
+      }
+    }
+  }
+}

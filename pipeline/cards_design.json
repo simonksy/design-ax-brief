@@ -1,329 +1,215 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "section": "design",
   "cards": [
     {
-      "id": "maxon-plus-agentic-licence",
+      "id": "figma-agent-figjam-slides",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Cinema 4D와\nZBrush에 AI 생성",
-      "body": "Maxon이 Cinema 4D·ZBrush용 AI 생성 도구를 내놓는다.",
-      "mini_headline": "Maxon, Cinema 4D에 AI",
-      "tool": "Cinema 4D",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/news/every-3d-artist-should-have-an-ai-assistant-maxon-says-as-it-launches-new-tools-and-agentic-licences",
-      "accent": "#f5a623",
-      "motif": "sphere",
+      "headline": "Figma 에이전트\nFigJam·Slides로",
+      "body": "Figma AI 에이전트가 FigJam과 Slides에서 회의·덱 준비를 거든다.",
+      "mini_headline": "Figma 에이전트, FigJam으로",
+      "tool": "Figma",
+      "source": "Figma Blog",
+      "url": "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/",
+      "accent": "#0070f3",
+      "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Maxon이 3D 작업용 생성형 도구 묶음을 별도 선택형 구독인 Maxon Plus로 내놓는다. Cinema 4D와 Autograph용 Agentic Licences도 함께 선보인다. 아티스트는 창작에 집중하고 번거로운 제작 업무는 AI 어시스턴트가 맡는 구조다."
-          },
-          {
-            "t": "p",
-            "x": "최고제품책임자 Steve Forde에 따르면 9월 30일 공개한 MCP 워크플로는 \"Cinema 4D 역사상 가장 짧은 기간에 가장 널리 쓰인 기능\"이 됐다. 문제는 이 방식이 아티스트의 세션을 붙잡아 둔다는 점이다. Agentic Licence는 Redshift를 포함한 헤드리스 사본을 따로 제공해 AI 작업을 다른 컴퓨터에서 \"백오피스에서\" 돌린다."
-          },
-          {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
-            "cap": "(이미지 제공: Maxon)"
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
           },
           {
             "t": "p",
-            "x": "Maxon Plus 요금은 월 $10/€10부터다. Model Generator는 텍스트 프롬프트나 참고 이미지로 편집 가능한 3D 기본 모델을 만든다. 초기 버전은 Rodin 기반이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
-            "cap": "(이미지 제공: Maxon)"
+            "x": "Figma 에이전트가 이제 FigJam과 Figma Slides에서도 작업을 돕는다. 두 제품 모두 커넥터와 첨부 기능을 지원한다. 디자인 파일, 녹취록, 리서치 노트를 불러온 뒤 에이전트에게 FigJam 보드로 정리하거나 프레젠테이션 초안으로 만들어 달라고 하면 된다."
           },
           {
             "t": "p",
-            "x": "ZBrush용 Clay Builder는 단순한 로우폴리곤 기본 메시를 만든다. Texture Generator는 프롬프트나 이미지를 받아 재질과 텍스처를 입힌다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
-            "cap": "(이미지 제공: Maxon)"
+            "x": "FigJam에서 에이전트는 Notion이나 Google Drive 같은 도구의 맥락을 캔버스로 끌어온다. Figma Design Manager Megan Bednarczyk은 디자인 크리틱을 앞두고 이전 크리틱의 피드백과 경쟁사 사례를 불러올 때 이 기능을 쓴다. 에이전트가 지난 피드백과 합의된 방향, 다가올 크리틱에서 다룰 질문을 요약해 준다. 크리틱이 끝나면 피드백 스티키를 선택하고 Organize → Summarize를 고른다. 결정 사항과 남은 질문, 다음 단계를 담은 Spec이 바로 나온다."
           },
           {
             "t": "p",
-            "x": "Maxon Review에서는 팀과 클라이언트가 브라우저로 인터랙티브 3D 작업물을 검토하고 모델의 특정 부분에 코멘트를 단다."
-          },
-          {
-            "t": "video",
-            "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+            "x": "Specs 엔지니어링 리드 Johnny Dallas는 댓글을 하나하나 읽지 않는다. 스티키를 선택하고 Ask agent를 누른 뒤 프롬프트만으로 v1 스펙을 완성한다."
           },
           {
             "t": "p",
-            "x": "Forde는 \"우리 제품에는 'AI 전부 끄기' 기능이 온전히 들어 있다\"며 \"일부러 넣어 둔 버튼\"이라고 했다."
+            "x": "Figma Slides에서는 에이전트가 Spec, 첨부 파일, 연결된 맥락으로 초안을 만든다. 브랜드 디자이너 Jarrod Barretto는 Generate deck을 누르기 전에 에이전트에게 경영진 스크립트를 개요로 나누게 하고, 스프레드시트 스크린숏으로 막대 차트를 채운다. “차트가 어떻게 보여야 하는지는 아주 정밀하게 정하고, 수학적 정확성은 에이전트에게 맡길 수 있다”는 게 그의 설명이다."
+          },
+          {
+            "t": "p",
+            "x": "Figma 에이전트는 이제 모든 유료 플랜의 FigJam과 Figma Slides에서 정식 제공된다. 두 제품 모두 일부 커넥터와 첨부 기능을 지원한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Maxon brings AI generation\ninto Cinema 4D and ZBrush",
-          "body": "Maxon launches Maxon Plus AI generators for Cinema 4D and ZBrush, plus agentic licences and an AI off switch.",
-          "mini_headline": "Maxon adds AI\nto Cinema 4D",
+          "headline": "Figma agent moves into\nFigJam and Slides",
+          "body": "Figma's AI agent now works in FigJam and Slides, helping explore ideas, prep meetings and build decks.",
+          "mini_headline": "Figma agent hits FigJam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Maxon is launching a suite of generative tools for 3D work under a separate, optional subscription called Maxon Plus, plus Agentic Licences for Cinema 4D and Autograph that let AI assistants tackle tiresome production tasks while artists stay on the creative work."
-              },
-              {
-                "t": "p",
-                "x": "Its MCP workflow, released on 30 September, became \"the most widely used feature in Cinema 4D's history in the shortest period of time\", says chief product officer Steve Forde, but it ties up the artist's session. The Agentic Licence instead provides a separate headless copy with Redshift, so AI tasks run \"in the back office\" on another machine."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
-                "cap": "(Image credit: Maxon)"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Maxon Plus starts at $10/€10 per month. Model Generator creates editable 3D base models from text prompts or reference images, initially powered by Rodin."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
-                "cap": "(Image credit: Maxon)"
+                "x": "The Figma agent can now help in FigJam and Figma Slides. With connectors and attachments in both products, you can bring in design files, transcripts or research notes and ask the agent to organize them on a FigJam board or turn them into a draft presentation."
               },
               {
                 "t": "p",
-                "x": "Clay Builder for ZBrush creates simple low-polygon base meshes, and Texture Generator applies materials and textures from prompts or images."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
-                "cap": "(Image credit: Maxon)"
+                "x": "In FigJam, the agent brings context from tools like Notion or Google Drive onto the canvas. Before a design crit, Figma Design Manager Megan Bednarczyk uses it to pull in feedback from previous crits and competitor examples; the agent summarizes past feedback, the agreed direction and questions for the upcoming crit. Afterward, selecting feedback stickies and choosing Organize → Summarize creates a Spec covering decisions, open questions and next steps."
               },
               {
                 "t": "p",
-                "x": "Maxon Review lets teams and clients review interactive 3D work in a browser and leave comments on specific parts of models."
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+                "x": "Johnny Dallas, engineering lead on Specs, selects stickies, clicks Ask agent and prompts his way to a v1 spec instead of reading every comment by hand."
               },
               {
                 "t": "p",
-                "x": "\"We do have a complete 'turn all AI off' in our products,\" Forde notes. \"That's a button that we purposely put there.\""
+                "x": "In Figma Slides, the agent turns a Spec, attachments or connected context into a first pass. Brand designer Jarrod Barretto has it break an executive script into an outline before clicking Generate deck, and populates bar charts from a spreadsheet screenshot. “I can be really precise about how I want a chart to look while letting the agent take care of the mathematical accuracy,” he says."
+              },
+              {
+                "t": "p",
+                "x": "The Figma agent is now generally available in FigJam and Figma Slides on all paid plans, with select connectors and attachments supported in both."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Cinema 4D와\nZBrush에 AI 생성",
-          "body": "Maxon이 Cinema 4D·ZBrush용 AI 생성 도구를 내놓는다.",
-          "mini_headline": "Maxon, Cinema 4D에 AI",
+          "headline": "Figma 에이전트\nFigJam·Slides로",
+          "body": "Figma AI 에이전트가 FigJam과 Slides에서 회의·덱 준비를 거든다.",
+          "mini_headline": "Figma 에이전트, FigJam으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Maxon이 3D 작업용 생성형 도구 묶음을 별도 선택형 구독인 Maxon Plus로 내놓는다. Cinema 4D와 Autograph용 Agentic Licences도 함께 선보인다. 아티스트는 창작에 집중하고 번거로운 제작 업무는 AI 어시스턴트가 맡는 구조다."
-              },
-              {
-                "t": "p",
-                "x": "최고제품책임자 Steve Forde에 따르면 9월 30일 공개한 MCP 워크플로는 \"Cinema 4D 역사상 가장 짧은 기간에 가장 널리 쓰인 기능\"이 됐다. 문제는 이 방식이 아티스트의 세션을 붙잡아 둔다는 점이다. Agentic Licence는 Redshift를 포함한 헤드리스 사본을 따로 제공해 AI 작업을 다른 컴퓨터에서 \"백오피스에서\" 돌린다."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
-                "cap": "(이미지 제공: Maxon)"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Maxon Plus 요금은 월 $10/€10부터다. Model Generator는 텍스트 프롬프트나 참고 이미지로 편집 가능한 3D 기본 모델을 만든다. 초기 버전은 Rodin 기반이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
-                "cap": "(이미지 제공: Maxon)"
+                "x": "Figma 에이전트가 이제 FigJam과 Figma Slides에서도 작업을 돕는다. 두 제품 모두 커넥터와 첨부 기능을 지원한다. 디자인 파일, 녹취록, 리서치 노트를 불러온 뒤 에이전트에게 FigJam 보드로 정리하거나 프레젠테이션 초안으로 만들어 달라고 하면 된다."
               },
               {
                 "t": "p",
-                "x": "ZBrush용 Clay Builder는 단순한 로우폴리곤 기본 메시를 만든다. Texture Generator는 프롬프트나 이미지를 받아 재질과 텍스처를 입힌다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
-                "cap": "(이미지 제공: Maxon)"
+                "x": "FigJam에서 에이전트는 Notion이나 Google Drive 같은 도구의 맥락을 캔버스로 끌어온다. Figma Design Manager Megan Bednarczyk은 디자인 크리틱을 앞두고 이전 크리틱의 피드백과 경쟁사 사례를 불러올 때 이 기능을 쓴다. 에이전트가 지난 피드백과 합의된 방향, 다가올 크리틱에서 다룰 질문을 요약해 준다. 크리틱이 끝나면 피드백 스티키를 선택하고 Organize → Summarize를 고른다. 결정 사항과 남은 질문, 다음 단계를 담은 Spec이 바로 나온다."
               },
               {
                 "t": "p",
-                "x": "Maxon Review에서는 팀과 클라이언트가 브라우저로 인터랙티브 3D 작업물을 검토하고 모델의 특정 부분에 코멘트를 단다."
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+                "x": "Specs 엔지니어링 리드 Johnny Dallas는 댓글을 하나하나 읽지 않는다. 스티키를 선택하고 Ask agent를 누른 뒤 프롬프트만으로 v1 스펙을 완성한다."
               },
               {
                 "t": "p",
-                "x": "Forde는 \"우리 제품에는 'AI 전부 끄기' 기능이 온전히 들어 있다\"며 \"일부러 넣어 둔 버튼\"이라고 했다."
+                "x": "Figma Slides에서는 에이전트가 Spec, 첨부 파일, 연결된 맥락으로 초안을 만든다. 브랜드 디자이너 Jarrod Barretto는 Generate deck을 누르기 전에 에이전트에게 경영진 스크립트를 개요로 나누게 하고, 스프레드시트 스크린숏으로 막대 차트를 채운다. “차트가 어떻게 보여야 하는지는 아주 정밀하게 정하고, 수학적 정확성은 에이전트에게 맡길 수 있다”는 게 그의 설명이다."
+              },
+              {
+                "t": "p",
+                "x": "Figma 에이전트는 이제 모든 유료 플랜의 FigJam과 Figma Slides에서 정식 제공된다. 두 제품 모두 일부 커넥터와 첨부 기능을 지원한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Cinema 4Dと\nZBrushにAI生成",
-          "body": "MaxonがCinema 4DとZBrush向けにAI生成ツールを投入する。",
-          "mini_headline": "MaxonがCinema 4DにAI",
+          "headline": "Figma エージェント\nFigJamとSlidesへ",
+          "body": "FigmaのAIエージェントがFigJamとSlidesに対応し、会議や資料作成を助ける。",
+          "mini_headline": "Figmaエージェント、FigJamへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Maxonは3D制作向けの生成ツール群を、別料金の任意サブスクリプション「Maxon Plus」として投入する。あわせてCinema 4DとAutograph向けのAgentic Licencesも用意し、アーティストが創作に専念する間、AIアシスタントが面倒な制作作業を担えるようにする。"
-              },
-              {
-                "t": "p",
-                "x": "9月30日に公開したMCPワークフローは「Cinema 4Dの歴史上、最も短期間で最も広く使われた機能」になったと、最高製品責任者のSteve Fordeは語る。ただし、その間アーティストのセッションは占有されてしまう。Agentic Licenceは代わりにRedshift付きの独立したヘッドレス版を提供し、AIのタスクを別のマシン上で「バックオフィスで」実行させる。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
-                "cap": "(画像提供：Maxon)"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Maxon Plusは月額$10/€10からだ。Model Generatorはテキストプロンプトや参照画像から編集可能な3Dベースモデルを生成し、当初はRodinを基盤とする。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
-                "cap": "(画像提供：Maxon)"
+                "x": "Figmaエージェントが、FigJamとFigma Slidesでも使えるようになった。両製品でコネクタと添付ファイルに対応し、デザインファイルや文字起こし、リサーチメモを取り込んで、エージェントにFigJamボード上で整理させたり、プレゼンテーションの下書きにさせたりできる。"
               },
               {
                 "t": "p",
-                "x": "ZBrush向けのClay Builderはシンプルなローポリゴンのベースメッシュを作り、Texture Generatorはプロンプトや画像からマテリアルとテクスチャを適用する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
-                "cap": "(画像提供：Maxon)"
+                "x": "FigJamでは、エージェントがNotionやGoogle Driveなどのツールから文脈をキャンバスに持ち込む。Figma Design ManagerのMegan Bednarczykは、デザインクリットの前に、過去のクリットのフィードバックや競合事例を集めるのに使っている。エージェントは過去のフィードバック、合意した方向性、次のクリットで扱う問いを要約する。クリット後は、フィードバックの付箋を選んでOrganize → Summarizeを選ぶと、決定事項、未解決の問い、次のステップをまとめたSpecが作成される。"
               },
               {
                 "t": "p",
-                "x": "Maxon Reviewを使えば、チームやクライアントがブラウザ上でインタラクティブな3D作品をレビューし、モデルの特定部分にコメントを残せる。"
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+                "x": "Specsのエンジニアリングリード、Johnny Dallasは、コメントを一つずつ手で読む代わりに、付箋を選択してAsk agentをクリックし、プロンプトを重ねてv1の仕様書を仕上げる。"
               },
               {
                 "t": "p",
-                "x": "「当社の製品には『AIをすべてオフにする』機能が完全に備わっている」とFordeは言う。「それは意図的に設けたボタンだ」"
+                "x": "Figma Slidesでは、エージェントがSpecや添付ファイル、接続された文脈から最初のたたき台を作る。ブランドデザイナーのJarrod Barrettoは、Generate deckをクリックする前に経営陣向けの原稿をアウトラインに分解させ、スプレッドシートのスクリーンショットから棒グラフを作成している。「グラフの見た目は細かく指定しつつ、数学的な正確さはエージェントに任せられる」と彼は言う。"
+              },
+              {
+                "t": "p",
+                "x": "Figmaエージェントは現在、すべての有料プランのFigJamとFigma Slidesで一般提供されており、両製品で一部のコネクタと添付ファイルに対応している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Cinema 4D与\nZBrush引入AI生成",
-          "body": "Maxon为Cinema 4D和ZBrush推出AI生成工具，并提供AI关闭开关。",
-          "mini_headline": "Maxon为Cinema 4D加入AI",
+          "headline": "Figma 智能体进驻\nFigJam和Slides",
+          "body": "Figma的AI智能体现已支持FigJam和Slides，协助构思、备会和制作幻灯片。",
+          "mini_headline": "Figma 智能体进驻FigJam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Maxon推出一套面向3D创作的生成式工具，归入名为Maxon Plus的独立可选订阅；同时为Cinema 4D和Autograph推出Agentic Licences，让AI助手处理繁琐的制作任务，艺术家则专注于创意工作。"
-              },
-              {
-                "t": "p",
-                "x": "首席产品官Steve Forde表示，9月30日发布的MCP工作流成为“Cinema 4D历史上在最短时间内被最广泛使用的功能”，但它会占用艺术家的会话。Agentic Licence则提供一份附带Redshift的独立无头副本，让AI任务在另一台机器上“在后台”运行。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
-                "cap": "（图片来源：Maxon）"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Maxon Plus起价为每月$10/€10。Model Generator可根据文本提示词或参考图像生成可编辑的3D基础模型，初期由Rodin提供支持。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
-                "cap": "（图片来源：Maxon）"
+                "x": "Figma智能体现在可以在FigJam和Figma Slides中提供帮助。两款产品都支持连接器和附件，你可以导入设计文件、会议记录或研究笔记，让智能体将其整理到FigJam白板上，或转为演示文稿草稿。"
               },
               {
                 "t": "p",
-                "x": "ZBrush的Clay Builder可创建简单的低多边形基础网格，Texture Generator则根据提示词或图像应用材质和纹理。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
-                "cap": "（图片来源：Maxon）"
+                "x": "在FigJam中，智能体会把Notion或Google Drive等工具中的上下文带到画布上。Figma Design Manager Megan Bednarczyk在设计评审前用它调取以往评审的反馈和竞品案例；智能体会总结过往反馈、已达成共识的方向以及下一次评审要讨论的问题。评审结束后，选中反馈便签并选择Organize → Summarize，即可生成一份涵盖决策、待解问题和后续步骤的Spec。"
               },
               {
                 "t": "p",
-                "x": "借助Maxon Review，团队和客户可以在浏览器中审阅交互式3D作品，并在模型的特定部位留下评论。"
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+                "x": "Specs工程负责人Johnny Dallas会选中便签、点击Ask agent，靠提示词得出v1规格，而不必逐条手动阅读评论。"
               },
               {
                 "t": "p",
-                "x": "“我们的产品确实有完整的‘关闭所有AI’功能，”Forde指出，“那是我们特意放在那里的按钮。”"
+                "x": "在Figma Slides中，智能体可将Spec、附件或已连接的上下文转为初稿。品牌设计师Jarrod Barretto先让它把高管讲稿拆成大纲，再点击Generate deck，并根据电子表格截图填充柱状图。他说：“我可以非常精确地设定图表的样子，同时让智能体负责数学上的准确性。”"
+              },
+              {
+                "t": "p",
+                "x": "Figma智能体现已在所有付费方案的FigJam和Figma Slides中正式上线，两款产品均支持部分连接器和附件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Maxon integra generación con AI\nen Cinema 4D y ZBrush",
-          "body": "Maxon lanza generadores AI de Maxon Plus para Cinema 4D y ZBrush, licencias agénticas y un botón que apaga la AI.",
-          "mini_headline": "Maxon suma AI a Cinema 4D",
+          "headline": "El agente de Figma llega\na FigJam y Slides",
+          "body": "El agente de AI de Figma ya funciona en FigJam y Slides para explorar ideas, preparar reuniones y crear presentaciones.",
+          "mini_headline": "El agente de Figma llega a FigJam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Maxon lanza un conjunto de herramientas generativas para trabajo 3D bajo una suscripción aparte y opcional llamada Maxon Plus, además de Agentic Licences para Cinema 4D y Autograph que permiten a asistentes de AI encargarse de tareas de producción tediosas mientras los artistas se centran en el trabajo creativo."
-              },
-              {
-                "t": "p",
-                "x": "Su flujo de trabajo MCP, lanzado el 30 de septiembre, se convirtió en \"la función más usada de la historia de Cinema 4D en el menor tiempo\", según el director de producto Steve Forde, pero ocupa la sesión del artista. La Agentic Licence ofrece en cambio una copia headless independiente con Redshift, de modo que las tareas de AI se ejecutan \"en la trastienda\" en otra máquina."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
-                "cap": "(Crédito de imagen: Maxon)"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Maxon Plus parte de $10/€10 al mes. Model Generator crea modelos base 3D editables a partir de prompts de texto o imágenes de referencia, inicialmente con tecnología de Rodin."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
-                "cap": "(Crédito de imagen: Maxon)"
+                "x": "El agente de Figma ya puede ayudar en FigJam y Figma Slides. Con conectores y archivos adjuntos en ambos productos, se pueden incorporar archivos de diseño, transcripciones o notas de investigación y pedir al agente que los organice en un tablero de FigJam o los convierta en el borrador de una presentación."
               },
               {
                 "t": "p",
-                "x": "Clay Builder para ZBrush crea mallas base sencillas de bajo poligonaje, y Texture Generator aplica materiales y texturas a partir de prompts o imágenes."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
-                "cap": "(Crédito de imagen: Maxon)"
+                "x": "En FigJam, el agente lleva al lienzo contexto de herramientas como Notion o Google Drive. Antes de una crítica de diseño, Megan Bednarczyk, Figma Design Manager, lo usa para reunir comentarios de críticas anteriores y ejemplos de la competencia; el agente resume los comentarios previos, la dirección acordada y las preguntas para la próxima crítica. Después, al seleccionar las notas adhesivas con comentarios y elegir Organize → Summarize, se crea un Spec que recoge decisiones, preguntas abiertas y próximos pasos."
               },
               {
                 "t": "p",
-                "x": "Maxon Review permite a equipos y clientes revisar trabajos 3D interactivos en un navegador y dejar comentarios sobre partes concretas de los modelos."
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+                "x": "Johnny Dallas, responsable de ingeniería de Specs, selecciona notas adhesivas, hace clic en Ask agent y llega a una especificación v1 a base de prompts, en lugar de leer cada comentario a mano."
               },
               {
                 "t": "p",
-                "x": "\"Tenemos en nuestros productos un 'apagar toda la AI' completo\", señala Forde. \"Es un botón que pusimos ahí a propósito\"."
+                "x": "En Figma Slides, el agente convierte un Spec, archivos adjuntos o contexto conectado en una primera versión. El diseñador de marca Jarrod Barretto le pide dividir un guion para directivos en un esquema antes de hacer clic en Generate deck, y rellena gráficos de barras a partir de una captura de una hoja de cálculo. “Puedo ser muy preciso sobre cómo quiero que se vea un gráfico mientras dejo que el agente se encargue de la exactitud matemática”, afirma."
+              },
+              {
+                "t": "p",
+                "x": "El agente de Figma ya está disponible de forma general en FigJam y Figma Slides en todos los planes de pago, con compatibilidad con determinados conectores y archivos adjuntos en ambos."
               }
             ]
           }
@@ -331,213 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Cinema 4D와\nZBrush에 AI 생성",
-          "body": "Maxon이 Cinema 4D·ZBrush용 AI 생성 도구를 내놓는다.",
-          "mini_headline": "Maxon, Cinema 4D에 AI",
+          "headline": "Figma 에이전트\nFigJam·Slides로",
+          "body": "Figma AI 에이전트가 FigJam과 Slides에서 회의·덱 준비를 돕는다.",
+          "mini_headline": "Figma 에이전트, FigJam으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Maxon이 3D 작업용 생성형 도구 묶음을 별도 선택형 구독인 Maxon Plus로 내놓는다. 여기에 Cinema 4D와 Autograph용 Agentic Licences를 더해, 아티스트가 창작에 집중하는 동안 AI 어시스턴트가 번거로운 제작 업무를 맡도록 한다."
-              },
-              {
-                "t": "p",
-                "x": "최고제품책임자 Steve Forde는 9월 30일 공개한 MCP 워크플로가 \"Cinema 4D 역사상 가장 짧은 기간에 가장 널리 쓰인 기능\"이 됐다고 말한다. 다만 이 방식은 아티스트의 세션을 붙잡아 둔다. Agentic Licence는 대신 Redshift를 포함한 별도 헤드리스 사본을 제공해, AI 작업이 다른 컴퓨터에서 \"백오피스에서\" 돌아가게 한다."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
-                "cap": "(이미지 제공: Maxon)"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Maxon Plus 요금은 월 $10/€10부터다. Model Generator는 텍스트 프롬프트나 참고 이미지로 편집 가능한 3D 기본 모델을 만들며, 처음에는 Rodin을 기반으로 작동한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
-                "cap": "(이미지 제공: Maxon)"
+                "x": "Figma 에이전트가 이제 FigJam과 Figma Slides에서도 작업을 돕는다. 두 제품 모두 커넥터와 첨부 기능을 지원해 디자인 파일, 녹취록, 리서치 노트를 불러온 뒤 에이전트에게 FigJam 보드로 정리하거나 프레젠테이션 초안으로 만들어 달라고 요청할 수 있다."
               },
               {
                 "t": "p",
-                "x": "ZBrush용 Clay Builder는 단순한 로우폴리곤 기본 메시를 만들고, Texture Generator는 프롬프트나 이미지를 바탕으로 재질과 텍스처를 입힌다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
-                "cap": "(이미지 제공: Maxon)"
+                "x": "FigJam에서 에이전트는 Notion이나 Google Drive 같은 도구의 맥락을 캔버스로 가져온다. Figma Design Manager Megan Bednarczyk은 디자인 크리틱을 앞두고 이전 크리틱의 피드백과 경쟁사 사례를 불러오는 데 이 기능을 쓴다. 에이전트는 지난 피드백, 합의된 방향, 다가올 크리틱에서 다룰 질문을 요약한다. 크리틱이 끝난 뒤 피드백 스티키를 선택하고 Organize → Summarize를 고르면 결정 사항, 남은 질문, 다음 단계를 담은 Spec이 만들어진다."
               },
               {
                 "t": "p",
-                "x": "Maxon Review를 쓰면 팀과 클라이언트가 브라우저에서 인터랙티브 3D 작업물을 검토하고 모델의 특정 부분에 코멘트를 남길 수 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+                "x": "Specs 엔지니어링 리드 Johnny Dallas는 댓글을 하나하나 직접 읽는 대신 스티키를 선택하고 Ask agent를 눌러 프롬프트만으로 v1 스펙을 완성한다."
               },
               {
                 "t": "p",
-                "x": "Forde는 \"우리 제품에는 'AI 전부 끄기' 기능이 온전히 들어 있다\"며 \"일부러 넣어 둔 버튼\"이라고 설명한다."
+                "x": "Figma Slides에서 에이전트는 Spec, 첨부 파일, 연결된 맥락을 바탕으로 초안을 만든다. 브랜드 디자이너 Jarrod Barretto는 Generate deck을 누르기 전에 에이전트에게 경영진 스크립트를 개요로 나누게 하고, 스프레드시트 스크린숏으로 막대 차트를 채운다. 그는 “차트가 어떻게 보여야 하는지는 아주 정밀하게 정하고, 수학적 정확성은 에이전트에게 맡길 수 있다”고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "Figma 에이전트는 이제 모든 유료 플랜의 FigJam과 Figma Slides에서 정식 제공되며, 두 제품 모두 일부 커넥터와 첨부 기능을 지원한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Cinema 4Dと\nZBrushにAI生成",
-          "body": "MaxonがCinema 4DとZBrush向けにAI生成ツールを投入する。",
-          "mini_headline": "MaxonがCinema 4DにAI",
+          "headline": "Figma エージェント\nFigJamとSlidesへ",
+          "body": "FigmaのAIエージェントがFigJamとSlidesに対応し、会議や資料作成を助ける。",
+          "mini_headline": "Figmaエージェント、FigJamへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Maxonは3D制作向けの生成ツール群を、別料金の任意サブスクリプション「Maxon Plus」として投入する。あわせてCinema 4DとAutograph向けのAgentic Licencesも用意し、アーティストが創作に専念する間、AIアシスタントが面倒な制作作業を担えるようにする。"
-              },
-              {
-                "t": "p",
-                "x": "9月30日に公開したMCPワークフローは「Cinema 4Dの歴史上、最も短期間で最も広く使われた機能」になったと、最高製品責任者のSteve Fordeは語る。ただし、その間アーティストのセッションは占有されてしまう。Agentic Licenceは代わりにRedshift付きの独立したヘッドレス版を提供し、AIのタスクを別のマシン上で「バックオフィスで」実行させる。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
-                "cap": "(画像提供：Maxon)"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Maxon Plusは月額$10/€10からだ。Model Generatorはテキストプロンプトや参照画像から編集可能な3Dベースモデルを生成し、当初はRodinを基盤とする。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
-                "cap": "(画像提供：Maxon)"
+                "x": "Figmaエージェントが、FigJamとFigma Slidesでも使えるようになった。両製品でコネクタと添付ファイルに対応し、デザインファイルや文字起こし、リサーチメモを取り込んで、エージェントにFigJamボード上で整理させたり、プレゼンテーションの下書きにさせたりできる。"
               },
               {
                 "t": "p",
-                "x": "ZBrush向けのClay Builderはシンプルなローポリゴンのベースメッシュを作り、Texture Generatorはプロンプトや画像からマテリアルとテクスチャを適用する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
-                "cap": "(画像提供：Maxon)"
+                "x": "FigJamでは、エージェントがNotionやGoogle Driveなどのツールから文脈をキャンバスに持ち込む。Figma Design ManagerのMegan Bednarczykは、デザインクリットの前に、過去のクリットのフィードバックや競合事例を集めるのに使っている。エージェントは過去のフィードバック、合意した方向性、次のクリットで扱う問いを要約する。クリット後は、フィードバックの付箋を選んでOrganize → Summarizeを選ぶと、決定事項、未解決の問い、次のステップをまとめたSpecが作成される。"
               },
               {
                 "t": "p",
-                "x": "Maxon Reviewを使えば、チームやクライアントがブラウザ上でインタラクティブな3D作品をレビューし、モデルの特定部分にコメントを残せる。"
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+                "x": "Specsのエンジニアリングリード、Johnny Dallasは、コメントを一つずつ手で読む代わりに、付箋を選択してAsk agentをクリックし、プロンプトを重ねてv1の仕様書を仕上げる。"
               },
               {
                 "t": "p",
-                "x": "「当社の製品には『AIをすべてオフにする』機能が完全に備わっている」とFordeは言う。「それは意図的に設けたボタンだ」"
+                "x": "Figma Slidesでは、エージェントがSpecや添付ファイル、接続された文脈から最初のたたき台を作る。ブランドデザイナーのJarrod Barrettoは、Generate deckをクリックする前に経営陣向けの原稿をアウトラインに分解させ、スプレッドシートのスクリーンショットから棒グラフを作成している。「グラフの見た目は細かく指定しつつ、数学的な正確さはエージェントに任せられる」と彼は言う。"
+              },
+              {
+                "t": "p",
+                "x": "Figmaエージェントは現在、すべての有料プランのFigJamとFigma Slidesで一般提供されており、両製品で一部のコネクタと添付ファイルに対応している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Cinema 4D与\nZBrush引入AI生成",
-          "body": "Maxon为Cinema 4D和ZBrush推出AI生成工具，并提供AI关闭开关。",
-          "mini_headline": "Maxon为Cinema 4D加入AI",
+          "headline": "Figma 智能体进驻\nFigJam和Slides",
+          "body": "Figma的AI智能体现已支持FigJam和Slides，协助构思、备会和制作幻灯片。",
+          "mini_headline": "Figma 智能体进驻FigJam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Maxon推出一套面向3D创作的生成式工具，归入名为Maxon Plus的独立可选订阅；同时为Cinema 4D和Autograph推出Agentic Licences，让AI助手处理繁琐的制作任务，艺术家则专注于创意工作。"
-              },
-              {
-                "t": "p",
-                "x": "首席产品官Steve Forde表示，9月30日发布的MCP工作流成为“Cinema 4D历史上在最短时间内被最广泛使用的功能”，但它会占用艺术家的会话。Agentic Licence则提供一份附带Redshift的独立无头副本，让AI任务在另一台机器上“在后台”运行。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
-                "cap": "（图片来源：Maxon）"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Maxon Plus起价为每月$10/€10。Model Generator可根据文本提示词或参考图像生成可编辑的3D基础模型，初期由Rodin提供支持。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
-                "cap": "（图片来源：Maxon）"
+                "x": "Figma智能体现在可以在FigJam和Figma Slides中提供帮助。两款产品都支持连接器和附件，你可以导入设计文件、会议记录或研究笔记，让智能体将其整理到FigJam白板上，或转为演示文稿草稿。"
               },
               {
                 "t": "p",
-                "x": "ZBrush的Clay Builder可创建简单的低多边形基础网格，Texture Generator则根据提示词或图像应用材质和纹理。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
-                "cap": "（图片来源：Maxon）"
+                "x": "在FigJam中，智能体会把Notion或Google Drive等工具中的上下文带到画布上。Figma Design Manager Megan Bednarczyk在设计评审前用它调取以往评审的反馈和竞品案例；智能体会总结过往反馈、已达成共识的方向以及下一次评审要讨论的问题。评审结束后，选中反馈便签并选择Organize → Summarize，即可生成一份涵盖决策、待解问题和后续步骤的Spec。"
               },
               {
                 "t": "p",
-                "x": "借助Maxon Review，团队和客户可以在浏览器中审阅交互式3D作品，并在模型的特定部位留下评论。"
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+                "x": "Specs工程负责人Johnny Dallas会选中便签、点击Ask agent，靠提示词得出v1规格，而不必逐条手动阅读评论。"
               },
               {
                 "t": "p",
-                "x": "“我们的产品确实有完整的‘关闭所有AI’功能，”Forde指出，“那是我们特意放在那里的按钮。”"
+                "x": "在Figma Slides中，智能体可将Spec、附件或已连接的上下文转为初稿。品牌设计师Jarrod Barretto先让它把高管讲稿拆成大纲，再点击Generate deck，并根据电子表格截图填充柱状图。他说：“我可以非常精确地设定图表的样子，同时让智能体负责数学上的准确性。”"
+              },
+              {
+                "t": "p",
+                "x": "Figma智能体现已在所有付费方案的FigJam和Figma Slides中正式上线，两款产品均支持部分连接器和附件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Maxon integra generación con AI\nen Cinema 4D y ZBrush",
-          "body": "Maxon lanza generadores AI de Maxon Plus para Cinema 4D y ZBrush, licencias agénticas y un botón que apaga la AI.",
-          "mini_headline": "Maxon suma AI a Cinema 4D",
+          "headline": "El agente de Figma llega\na FigJam y Slides",
+          "body": "El agente de AI de Figma ya funciona en FigJam y Slides para explorar ideas, preparar reuniones y crear presentaciones.",
+          "mini_headline": "El agente de Figma llega a FigJam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Maxon lanza un conjunto de herramientas generativas para trabajo 3D bajo una suscripción aparte y opcional llamada Maxon Plus, además de Agentic Licences para Cinema 4D y Autograph que permiten a asistentes de AI encargarse de tareas de producción tediosas mientras los artistas se centran en el trabajo creativo."
-              },
-              {
-                "t": "p",
-                "x": "Su flujo de trabajo MCP, lanzado el 30 de septiembre, se convirtió en \"la función más usada de la historia de Cinema 4D en el menor tiempo\", según el director de producto Steve Forde, pero ocupa la sesión del artista. La Agentic Licence ofrece en cambio una copia headless independiente con Redshift, de modo que las tareas de AI se ejecutan \"en la trastienda\" en otra máquina."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
-                "cap": "(Crédito de imagen: Maxon)"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
               },
               {
                 "t": "p",
-                "x": "Maxon Plus parte de $10/€10 al mes. Model Generator crea modelos base 3D editables a partir de prompts de texto o imágenes de referencia, inicialmente con tecnología de Rodin."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
-                "cap": "(Crédito de imagen: Maxon)"
+                "x": "El agente de Figma ya puede ayudar en FigJam y Figma Slides. Con conectores y archivos adjuntos en ambos productos, se pueden incorporar archivos de diseño, transcripciones o notas de investigación y pedir al agente que los organice en un tablero de FigJam o los convierta en el borrador de una presentación."
               },
               {
                 "t": "p",
-                "x": "Clay Builder para ZBrush crea mallas base sencillas de bajo poligonaje, y Texture Generator aplica materiales y texturas a partir de prompts o imágenes."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
-                "cap": "(Crédito de imagen: Maxon)"
+                "x": "En FigJam, el agente lleva al lienzo contexto de herramientas como Notion o Google Drive. Antes de una crítica de diseño, Megan Bednarczyk, Figma Design Manager, lo usa para reunir comentarios de críticas anteriores y ejemplos de la competencia; el agente resume los comentarios previos, la dirección acordada y las preguntas para la próxima crítica. Después, al seleccionar las notas adhesivas con comentarios y elegir Organize → Summarize, se crea un Spec que recoge decisiones, preguntas abiertas y próximos pasos."
               },
               {
                 "t": "p",
-                "x": "Maxon Review permite a equipos y clientes revisar trabajos 3D interactivos en un navegador y dejar comentarios sobre partes concretas de los modelos."
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+                "x": "Johnny Dallas, responsable de ingeniería de Specs, selecciona notas adhesivas, hace clic en Ask agent y llega a una especificación v1 a base de prompts, en lugar de leer cada comentario a mano."
               },
               {
                 "t": "p",
-                "x": "\"Tenemos en nuestros productos un 'apagar toda la AI' completo\", señala Forde. \"Es un botón que pusimos ahí a propósito\"."
+                "x": "En Figma Slides, el agente convierte un Spec, archivos adjuntos o contexto conectado en una primera versión. El diseñador de marca Jarrod Barretto le pide dividir un guion para directivos en un esquema antes de hacer clic en Generate deck, y rellena gráficos de barras a partir de una captura de una hoja de cálculo. “Puedo ser muy preciso sobre cómo quiero que se vea un gráfico mientras dejo que el agente se encargue de la exactitud matemática”, afirma."
+              },
+              {
+                "t": "p",
+                "x": "El agente de Figma ya está disponible de forma general en FigJam y Figma Slides en todos los planes de pago, con compatibilidad con determinados conectores y archivos adjuntos en ambos."
               }
             ]
           }
@@ -545,15 +355,609 @@
       }
     },
     {
-      "id": "motif-bhom-buro-happold",
+      "id": "framer-automations-connectors",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Motif, AI 형상에\nBHoM을 결합",
-      "body": "Motif 에이전트가 Buro Happold의 BHoM 공학 기법을 불러 쓴다.",
-      "mini_headline": "Motif 에이전트, BHoM 호출",
+      "headline": "Framer 에이전트에\n자동화와 Slack",
+      "body": "Framer 에이전트가 예약·이벤트형 워크플로를 돌리고 Slack에서도 일한다.",
+      "mini_headline": "Framer 에이전트 자동화",
+      "tool": "Framer",
+      "source": "Framer",
+      "url": "https://www.framer.com/updates/automations-connectors-slack",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "05Os8Cqr7Ic"
+          },
+          {
+            "t": "p",
+            "x": "Automations, Connectors, Slack Agent를 소개한다. Automations는 스스로 돌아가는 에이전트 워크플로다. 정해 둔 일정에 맞춰 돌거나, 게시·폼 제출 같은 프로젝트 이벤트가 생길 때 실행된다. 게시할 때마다 SEO 감사를 돌려 결과를 Slack에 올리거나, 매일 분석 브리핑을 보내거나, 폼 리드 정보를 보강해 알맞은 곳으로 넘기는 식이다. Agent가 쓸 도구는 사용자가 정하고, 지난 실행 기록도 검토할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Connectors로 Agent를 Slack, Notion, Ahrefs 등 팀이 이미 쓰는 도구에 연결하면, 채팅과 Automations 안에서 그 도구의 내용을 읽고 직접 작업까지 한다."
+          },
+          {
+            "t": "p",
+            "x": "공식 Framer Slack 앱을 깔면 채널에서 @Framer를 부르거나 DM을 보내 사이트 관련 질문을 하고, 분석 데이터를 불러오고, Framer를 열지 않고도 간단한 수정을 할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "시작하려면 Site Settings에서 Automations 또는 Connectors 탭으로 가면 된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Framer's agent gets\nautomations and Slack",
+          "body": "Framer's agent now runs scheduled or event-triggered workflows and acts in Slack, Notion and Ahrefs via Connectors.",
+          "mini_headline": "Framer agent automations",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "05Os8Cqr7Ic"
+              },
+              {
+                "t": "p",
+                "x": "Introducing Automations, Connectors, and the Slack Agent. Automations are agent workflows that run on their own. You can trigger them on a schedule or by project events like publishing or a form submission. For example, you can run an SEO audit every time you publish and post the results to Slack, send a daily analytics brief, or enrich a form lead and route it to the right place. You control which tools the Agent can use, and you can review past runs."
+              },
+              {
+                "t": "p",
+                "x": "With Connectors, the Agent can connect to tools your team already uses, including Slack, Notion, and Ahrefs, and both read and act in them in chat and inside Automations."
+              },
+              {
+                "t": "p",
+                "x": "With the official Framer Slack app, @Framer in a channel or send it a DM to ask about your site, pull analytics, or make quick edits without opening Framer."
+              },
+              {
+                "t": "p",
+                "x": "To get started, open Site Settings and go to the Automations or Connectors tab."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Framer 에이전트에\n자동화와 Slack",
+          "body": "Framer 에이전트가 예약·이벤트형 워크플로를 돌리고 Slack에서도 일한다.",
+          "mini_headline": "Framer 에이전트 자동화",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "05Os8Cqr7Ic"
+              },
+              {
+                "t": "p",
+                "x": "Automations, Connectors, Slack Agent를 소개한다. Automations는 스스로 돌아가는 에이전트 워크플로다. 정해 둔 일정에 맞춰 돌거나, 게시·폼 제출 같은 프로젝트 이벤트가 생길 때 실행된다. 게시할 때마다 SEO 감사를 돌려 결과를 Slack에 올리거나, 매일 분석 브리핑을 보내거나, 폼 리드 정보를 보강해 알맞은 곳으로 넘기는 식이다. Agent가 쓸 도구는 사용자가 정하고, 지난 실행 기록도 검토할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Connectors로 Agent를 Slack, Notion, Ahrefs 등 팀이 이미 쓰는 도구에 연결하면, 채팅과 Automations 안에서 그 도구의 내용을 읽고 직접 작업까지 한다."
+              },
+              {
+                "t": "p",
+                "x": "공식 Framer Slack 앱을 깔면 채널에서 @Framer를 부르거나 DM을 보내 사이트 관련 질문을 하고, 분석 데이터를 불러오고, Framer를 열지 않고도 간단한 수정을 할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "시작하려면 Site Settings에서 Automations 또는 Connectors 탭으로 가면 된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Framerのエージェントに\n自動化とSlack",
+          "body": "Framerのエージェントが定期・イベント起動のワークフローを実行し、Slackでも動く。",
+          "mini_headline": "Framerエージェントが自動化",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "05Os8Cqr7Ic"
+              },
+              {
+                "t": "p",
+                "x": "Automations、Connectors、そしてSlack Agentを発表する。Automationsは自律的に動くエージェントのワークフローだ。スケジュールに沿って、あるいは公開やフォーム送信といったプロジェクトのイベントをきっかけに起動できる。たとえば公開のたびにSEO監査を実行して結果をSlackに投稿したり、毎日の分析レポートを送ったり、フォームから得たリードの情報を補強して適切な宛先に振り分けたりできる。Agentが使えるツールはユーザーが管理でき、過去の実行履歴も確認できる。"
+              },
+              {
+                "t": "p",
+                "x": "Connectorsにより、AgentはSlack、Notion、Ahrefsなどチームが既に使っているツールに接続し、チャット内やAutomationsの中でそれらを読み取るだけでなく、操作することもできる。"
+              },
+              {
+                "t": "p",
+                "x": "公式のFramer Slackアプリを使えば、チャンネルで@FramerをメンションするかDMを送るだけで、Framerを開かずにサイトについて質問したり、分析データを取得したり、簡単な編集をしたりできる。"
+              },
+              {
+                "t": "p",
+                "x": "始めるには、Site Settingsを開き、AutomationsまたはConnectorsタブに移動する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Framer智能体新增\n自动化与Slack",
+          "body": "Framer智能体可按计划或事件运行工作流，通过Connectors在Slack等处操作。",
+          "mini_headline": "Framer智能体自动化",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "05Os8Cqr7Ic"
+              },
+              {
+                "t": "p",
+                "x": "推出Automations、Connectors和Slack Agent。Automations是可自行运行的智能体工作流，可以按计划触发，也可以由发布或表单提交等项目事件触发。例如，你可以在每次发布时运行SEO审查并把结果发到Slack，发送每日分析简报，或者补全表单线索信息并将其分派到合适的位置。你可以控制Agent能使用哪些工具，也可以查看过去的运行记录。"
+              },
+              {
+                "t": "p",
+                "x": "借助Connectors，Agent可以连接团队已在使用的工具，包括Slack、Notion和Ahrefs，并能在聊天和Automations中读取这些工具的内容并在其中执行操作。"
+              },
+              {
+                "t": "p",
+                "x": "通过官方Framer Slack应用，你可以在频道中@Framer或给它发DM，询问网站情况、调取分析数据或进行快速修改，无需打开Framer。"
+              },
+              {
+                "t": "p",
+                "x": "要开始使用，请打开Site Settings，进入Automations或Connectors选项卡。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El agente de Framer suma\nautomatizaciones y Slack",
+          "body": "El agente de Framer ejecuta flujos programados o por evento y actúa en Slack, Notion y Ahrefs vía Connectors.",
+          "mini_headline": "Automatizaciones del agente de Framer",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "05Os8Cqr7Ic"
+              },
+              {
+                "t": "p",
+                "x": "Presentamos Automations, Connectors y el Slack Agent. Las Automations son flujos de trabajo de agente que se ejecutan por sí solos. Pueden activarse según una programación o por eventos del proyecto, como una publicación o el envío de un formulario. Por ejemplo, se puede ejecutar una auditoría SEO cada vez que se publica y enviar los resultados a Slack, mandar un informe diario de analítica o enriquecer un lead de un formulario y dirigirlo al lugar adecuado. El usuario decide qué herramientas puede usar el Agent y puede revisar las ejecuciones anteriores."
+              },
+              {
+                "t": "p",
+                "x": "Con Connectors, el Agent puede conectarse a herramientas que el equipo ya usa, como Slack, Notion y Ahrefs, y tanto leer como actuar en ellas desde el chat y dentro de Automations."
+              },
+              {
+                "t": "p",
+                "x": "Con la app oficial de Framer para Slack, basta con mencionar a @Framer en un canal o enviarle un DM para preguntar por el sitio, consultar analíticas o hacer ediciones rápidas sin abrir Framer."
+              },
+              {
+                "t": "p",
+                "x": "Para empezar, abra Site Settings y vaya a la pestaña Automations o Connectors."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Framer 에이전트에\n자동화와 Slack",
+          "body": "Framer 에이전트가 예약·이벤트형 워크플로를 돌리고 Slack에서도 일한다.",
+          "mini_headline": "Framer 에이전트 자동화",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "05Os8Cqr7Ic"
+              },
+              {
+                "t": "p",
+                "x": "Automations, Connectors, Slack Agent를 소개한다. Automations는 스스로 실행되는 에이전트 워크플로다. 일정에 따라, 또는 게시나 폼 제출 같은 프로젝트 이벤트를 계기로 실행할 수 있다. 예를 들어 게시할 때마다 SEO 감사를 돌려 결과를 Slack에 올리거나, 매일 분석 브리핑을 보내거나, 폼 리드 정보를 보강해 알맞은 곳으로 보낼 수 있다. Agent가 쓸 수 있는 도구는 사용자가 정하며, 지난 실행 기록도 검토할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Connectors를 쓰면 Agent가 Slack, Notion, Ahrefs 등 팀이 이미 쓰는 도구에 연결해, 채팅과 Automations 안에서 이들 도구의 내용을 읽고 직접 작업까지 할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "공식 Framer Slack 앱을 쓰면 채널에서 @Framer를 호출하거나 DM을 보내 사이트에 관해 묻고, 분석 데이터를 불러오고, Framer를 열지 않고도 간단한 수정을 할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "시작하려면 Site Settings를 열고 Automations 또는 Connectors 탭으로 이동하면 된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Framerのエージェントに\n自動化とSlack",
+          "body": "Framerのエージェントが定期・イベント起動のワークフローを実行し、Slackでも動く。",
+          "mini_headline": "Framerエージェントが自動化",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "05Os8Cqr7Ic"
+              },
+              {
+                "t": "p",
+                "x": "Automations、Connectors、そしてSlack Agentを発表する。Automationsは自律的に動くエージェントのワークフローだ。スケジュールに沿って、あるいは公開やフォーム送信といったプロジェクトのイベントをきっかけに起動できる。たとえば公開のたびにSEO監査を実行して結果をSlackに投稿したり、毎日の分析レポートを送ったり、フォームから得たリードの情報を補強して適切な宛先に振り分けたりできる。Agentが使えるツールはユーザーが管理でき、過去の実行履歴も確認できる。"
+              },
+              {
+                "t": "p",
+                "x": "Connectorsにより、AgentはSlack、Notion、Ahrefsなどチームが既に使っているツールに接続し、チャット内やAutomationsの中でそれらを読み取るだけでなく、操作することもできる。"
+              },
+              {
+                "t": "p",
+                "x": "公式のFramer Slackアプリを使えば、チャンネルで@FramerをメンションするかDMを送るだけで、Framerを開かずにサイトについて質問したり、分析データを取得したり、簡単な編集をしたりできる。"
+              },
+              {
+                "t": "p",
+                "x": "始めるには、Site Settingsを開き、AutomationsまたはConnectorsタブに移動する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Framer智能体新增\n自动化与Slack",
+          "body": "Framer智能体可按计划或事件运行工作流，通过Connectors在Slack等处操作。",
+          "mini_headline": "Framer智能体自动化",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "05Os8Cqr7Ic"
+              },
+              {
+                "t": "p",
+                "x": "推出Automations、Connectors和Slack Agent。Automations是可自行运行的智能体工作流，可以按计划触发，也可以由发布或表单提交等项目事件触发。例如，你可以在每次发布时运行SEO审查并把结果发到Slack，发送每日分析简报，或者补全表单线索信息并将其分派到合适的位置。你可以控制Agent能使用哪些工具，也可以查看过去的运行记录。"
+              },
+              {
+                "t": "p",
+                "x": "借助Connectors，Agent可以连接团队已在使用的工具，包括Slack、Notion和Ahrefs，并能在聊天和Automations中读取这些工具的内容并在其中执行操作。"
+              },
+              {
+                "t": "p",
+                "x": "通过官方Framer Slack应用，你可以在频道中@Framer或给它发DM，询问网站情况、调取分析数据或进行快速修改，无需打开Framer。"
+              },
+              {
+                "t": "p",
+                "x": "要开始使用，请打开Site Settings，进入Automations或Connectors选项卡。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El agente de Framer suma\nautomatizaciones y Slack",
+          "body": "El agente de Framer ejecuta flujos programados o por evento y actúa en Slack, Notion y Ahrefs vía Connectors.",
+          "mini_headline": "Automatizaciones del agente de Framer",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "05Os8Cqr7Ic"
+              },
+              {
+                "t": "p",
+                "x": "Presentamos Automations, Connectors y el Slack Agent. Las Automations son flujos de trabajo de agente que se ejecutan por sí solos. Pueden activarse según una programación o por eventos del proyecto, como una publicación o el envío de un formulario. Por ejemplo, se puede ejecutar una auditoría SEO cada vez que se publica y enviar los resultados a Slack, mandar un informe diario de analítica o enriquecer un lead de un formulario y dirigirlo al lugar adecuado. El usuario decide qué herramientas puede usar el Agent y puede revisar las ejecuciones anteriores."
+              },
+              {
+                "t": "p",
+                "x": "Con Connectors, el Agent puede conectarse a herramientas que el equipo ya usa, como Slack, Notion y Ahrefs, y tanto leer como actuar en ellas desde el chat y dentro de Automations."
+              },
+              {
+                "t": "p",
+                "x": "Con la app oficial de Framer para Slack, basta con mencionar a @Framer en un canal o enviarle un DM para preguntar por el sitio, consultar analíticas o hacer ediciones rápidas sin abrir Framer."
+              },
+              {
+                "t": "p",
+                "x": "Para empezar, abra Site Settings y vaya a la pestaña Automations o Connectors."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "nyt-photoshop-ai-metadata",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "NYT, 사진가에게\n새 Photoshop 자제",
+      "body": "NYT가 AI 메타데이터 우려로 Photoshop 업데이트 보류를 요청했다.",
+      "mini_headline": "NYT, Photoshop 업데이트 보류",
+      "tool": "AI Workflow",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+            "cap": "사진: Marcin Golba / NurPhoto via Getty Images"
+          },
+          {
+            "t": "p",
+            "x": "The New York Times가 프리랜서 사진가들에게 Adobe Photoshop 최신 버전을 쓰지 말라고 요청했다. 2027 업데이트 기능들이 “사용자에게 드러나지 않을 수 있는 방식으로” AI를 쓴다는 이유에서다. 사진 부문 책임자 Meaghan Looram과 Josh Haner는 이메일에 이 기능들이 “사진을 AI-generated(AI 생성)로 식별하는 메타데이터가 붙는 결과를 낳을 수 있다”고 썼다."
+          },
+          {
+            "t": "p",
+            "x": "11월 업데이트에는 Photoshop의 모든 AI 기능을 툴바 하나에 모은 “AI Assisted Editor” 보기, 단계별 편집을 돕는 AI 어시스턴트, 프롬프트 기반 이미지 편집, 새 AI 업스케일링 옵션, 캔버스 크기에 맞춰 이미지를 재구성하는 AI 도구가 들어갔다. 어떤 도구가 AI-powered(AI 기반)인지 늘 분명하지도 않다. 사진 보정을 최소한으로 하는 뉴스룸에선 AI 메타데이터 하나로 독자 신뢰를 잃을 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Adobe는 8월부터 AI로 생성하거나 편집한 이미지를 표시하는 C2PA 메타데이터 지원을 배포하기 시작했다. 이메일에는 “현재로서는 모든 기고 사진가에게 The Times 업무 수행 시 Adobe Photoshop 2027(릴리스 28.0.0 및 이후 업데이트) 사용을 피하도록 요구하고 있다”고 적혀 있다. NYT 대변인 Graham James가 이 요구를 확인했다. Adobe는 The Verge의 문의에 바로 답하지 않았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "NYT tells photographers to\nskip a Photoshop update",
+          "body": "The New York Times told photographers to hold off on a Photoshop update to keep AI metadata off its news photos.",
+          "mini_headline": "NYT pauses Photoshop update",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "Photo: Marcin Golba / NurPhoto via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI “in ways that may not be apparent to users.” In an email, photography leaders Meaghan Looram and Josh Haner write that these features “can result in metadata identifying photographs as AI-generated.”"
+              },
+              {
+                "t": "p",
+                "x": "The November update adds an “AI Assisted Editor” view that puts all of Photoshop’s AI features in one toolbar, an AI assistant for step-by-step editing, prompt-based image editing, new AI upscaling options and an AI tool that recomposes images for different canvas sizes. It’s not always clear which tools are AI-powered, and for a newsroom where photo editing is kept to a minimum, AI metadata risks losing readers’ trust."
+              },
+              {
+                "t": "p",
+                "x": "In August, Adobe began rolling out C2PA metadata support that flags images generated or edited with AI. “At this time, we are requiring that all contributing photographers avoid using Adobe Photoshop 2027 (release 28.0.0 and subsequent updates) when working on assignment for The Times,” the email reads. NYT spokesperson Graham James confirmed the requirement. Adobe didn’t immediately respond to The Verge."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "NYT, 사진가에게\n새 Photoshop 자제",
+          "body": "NYT가 AI 메타데이터 우려로 Photoshop 업데이트 보류를 요청했다.",
+          "mini_headline": "NYT, Photoshop 업데이트 보류",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "사진: Marcin Golba / NurPhoto via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "The New York Times가 프리랜서 사진가들에게 Adobe Photoshop 최신 버전을 쓰지 말라고 요청했다. 2027 업데이트 기능들이 “사용자에게 드러나지 않을 수 있는 방식으로” AI를 쓴다는 이유에서다. 사진 부문 책임자 Meaghan Looram과 Josh Haner는 이메일에 이 기능들이 “사진을 AI-generated(AI 생성)로 식별하는 메타데이터가 붙는 결과를 낳을 수 있다”고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "11월 업데이트에는 Photoshop의 모든 AI 기능을 툴바 하나에 모은 “AI Assisted Editor” 보기, 단계별 편집을 돕는 AI 어시스턴트, 프롬프트 기반 이미지 편집, 새 AI 업스케일링 옵션, 캔버스 크기에 맞춰 이미지를 재구성하는 AI 도구가 들어갔다. 어떤 도구가 AI-powered(AI 기반)인지 늘 분명하지도 않다. 사진 보정을 최소한으로 하는 뉴스룸에선 AI 메타데이터 하나로 독자 신뢰를 잃을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Adobe는 8월부터 AI로 생성하거나 편집한 이미지를 표시하는 C2PA 메타데이터 지원을 배포하기 시작했다. 이메일에는 “현재로서는 모든 기고 사진가에게 The Times 업무 수행 시 Adobe Photoshop 2027(릴리스 28.0.0 및 이후 업데이트) 사용을 피하도록 요구하고 있다”고 적혀 있다. NYT 대변인 Graham James가 이 요구를 확인했다. Adobe는 The Verge의 문의에 바로 답하지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "NYTが写真家に要請\nPhotoshop更新見送り",
+          "body": "NYTは写真へのAIメタデータ付与を避けるため、Photoshop更新の見送りを求めた。",
+          "mini_headline": "NYT、Photoshop更新を保留",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "写真：Marcin Golba / NurPhoto via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "The New York Timesは、フリーランスの写真家にAdobe Photoshopの最新版を使わないよう求めている。2027アップデートの機能が「ユーザーにはわかりにくい形で」AIを使っているためだ。写真部門を率いるMeaghan LooramとJosh Hanerはメールで、これらの機能が「写真をAI-generated（AI生成）と識別するメタデータが付く結果になりうる」と書いている。"
+              },
+              {
+                "t": "p",
+                "x": "11月のアップデートでは、PhotoshopのすべてのAI機能を一つのツールバーにまとめた「AI Assisted Editor」ビュー、段階的な編集を手伝うAIアシスタント、プロンプトによる画像編集、新しいAIアップスケーリングのオプション、さまざまなキャンバスサイズに合わせて画像を再構成するAIツールが加わった。どのツールがAI-powered（AI搭載）なのかは常に明確とは限らず、写真の加工を最小限にとどめる報道の現場にとって、AIメタデータは読者の信頼を失うリスクになる。"
+              },
+              {
+                "t": "p",
+                "x": "Adobeは8月、AIで生成・編集された画像を示すC2PAメタデータへの対応を順次開始した。メールには「現時点で、The Timesの依頼で仕事をする際には、すべての寄稿写真家にAdobe Photoshop 2027（リリース28.0.0およびそれ以降のアップデート）の使用を避けるよう求めている」とある。NYTの広報担当Graham Jamesはこの要請を認めた。AdobeはThe Vergeの問い合わせにすぐには応じなかった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "NYT要求摄影师\n暂缓更新Photoshop",
+          "body": "NYT要求摄影师暂缓Photoshop更新，以免新闻照片带上AI元数据。",
+          "mini_headline": "NYT暂缓Photoshop更新",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "图片：Marcin Golba / NurPhoto via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "The New York Times正要求自由摄影师不要使用最新版Adobe Photoshop，因为2027更新中的功能以“用户可能察觉不到的方式”使用AI。摄影部门负责人Meaghan Looram和Josh Haner在一封电子邮件中写道，这些功能“可能导致照片被元数据标记为AI-generated（AI生成）”。"
+              },
+              {
+                "t": "p",
+                "x": "11月的更新新增了“AI Assisted Editor”视图，把Photoshop的所有AI功能集中到一个工具栏中，还加入了用于分步编辑的AI助手、基于提示词的图像编辑、新的AI放大选项，以及可按不同画布尺寸重新构图的AI工具。哪些工具属于AI-powered（AI驱动）并不总是一目了然，而对于将照片编辑控制在最低限度的新闻编辑部来说，AI元数据可能让读者失去信任。"
+              },
+              {
+                "t": "p",
+                "x": "8月，Adobe开始推出C2PA元数据支持，用于标记由AI生成或编辑的图像。邮件写道：“目前，我们要求所有供稿摄影师在为The Times执行任务时，避免使用Adobe Photoshop 2027（28.0.0版本及后续更新）。”NYT发言人Graham James证实了这一要求。Adobe未立即回复The Verge。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El NYT pide a sus fotógrafos\nno actualizar Photoshop",
+          "body": "The New York Times pidió a sus fotógrafos aplazar una actualización de Photoshop para evitar metadatos de AI.",
+          "mini_headline": "El NYT frena una actualización de Photoshop",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "Foto: Marcin Golba / NurPhoto via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "The New York Times pide a sus fotógrafos independientes que no usen la versión más reciente de Adobe Photoshop porque las funciones de la actualización 2027 usan AI “de maneras que pueden no ser evidentes para los usuarios”. En un correo electrónico, los responsables de fotografía Meaghan Looram y Josh Haner escriben que estas funciones “pueden hacer que los metadatos identifiquen las fotografías como AI-generated (generadas por AI)”."
+              },
+              {
+                "t": "p",
+                "x": "La actualización de noviembre añade una vista “AI Assisted Editor” que reúne todas las funciones de AI de Photoshop en una sola barra de herramientas, un asistente de AI para editar paso a paso, edición de imágenes mediante prompts, nuevas opciones de escalado con AI y una herramienta de AI que recompone imágenes para distintos tamaños de lienzo. No siempre está claro qué herramientas son AI-powered (impulsadas por AI), y para una redacción que reduce al mínimo la edición fotográfica, los metadatos de AI ponen en riesgo la confianza de los lectores."
+              },
+              {
+                "t": "p",
+                "x": "En agosto, Adobe empezó a desplegar la compatibilidad con metadatos C2PA, que señalan las imágenes generadas o editadas con AI. “Por ahora, exigimos a todos los fotógrafos colaboradores que eviten usar Adobe Photoshop 2027 (versión 28.0.0 y actualizaciones posteriores) cuando trabajen en encargos para The Times”, dice el correo. El portavoz del NYT, Graham James, confirmó el requisito. Adobe no respondió de inmediato a The Verge."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "NYT, 사진가에게\n새 Photoshop 자제",
+          "body": "NYT가 AI 메타데이터 우려로 Photoshop 업데이트 보류를 요청했다.",
+          "mini_headline": "NYT, Photoshop 업데이트 보류",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "사진: Marcin Golba / NurPhoto via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "The New York Times는 프리랜서 사진가들에게 Adobe Photoshop 최신 버전을 쓰지 말라고 요청하고 있다. 2027 업데이트의 기능들이 “사용자에게 드러나지 않을 수 있는 방식으로” AI를 사용한다는 이유다. 사진 부문 책임자 Meaghan Looram과 Josh Haner는 이메일에서 이 기능들이 “사진을 AI-generated(AI 생성)로 식별하는 메타데이터가 붙는 결과를 낳을 수 있다”고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "11월 업데이트에는 Photoshop의 모든 AI 기능을 하나의 툴바에 모은 “AI Assisted Editor” 보기, 단계별 편집을 돕는 AI 어시스턴트, 프롬프트 기반 이미지 편집, 새로운 AI 업스케일링 옵션, 다양한 캔버스 크기에 맞춰 이미지를 재구성하는 AI 도구가 추가됐다. 어떤 도구가 AI-powered(AI 기반)인지 늘 분명하지는 않으며, 사진 보정을 최소한으로 유지하는 뉴스룸에서 AI 메타데이터는 독자의 신뢰를 잃을 위험을 안긴다."
+              },
+              {
+                "t": "p",
+                "x": "Adobe는 8월부터 AI로 생성하거나 편집한 이미지를 표시하는 C2PA 메타데이터 지원을 배포하기 시작했다. 이메일에는 “현재로서는 모든 기고 사진가에게 The Times 업무 수행 시 Adobe Photoshop 2027(릴리스 28.0.0 및 이후 업데이트) 사용을 피하도록 요구하고 있다”고 적혀 있다. NYT 대변인 Graham James는 이 요구 사항을 확인했다. Adobe는 The Verge의 문의에 즉시 답하지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "NYTが写真家に要請\nPhotoshop更新見送り",
+          "body": "NYTは写真へのAIメタデータ付与を避けるため、Photoshop更新の見送りを求めた。",
+          "mini_headline": "NYT、Photoshop更新を保留",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "写真：Marcin Golba / NurPhoto via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "The New York Timesは、フリーランスの写真家にAdobe Photoshopの最新版を使わないよう求めている。2027アップデートの機能が「ユーザーにはわかりにくい形で」AIを使っているためだ。写真部門を率いるMeaghan LooramとJosh Hanerはメールで、これらの機能が「写真をAI-generated（AI生成）と識別するメタデータが付く結果になりうる」と書いている。"
+              },
+              {
+                "t": "p",
+                "x": "11月のアップデートでは、PhotoshopのすべてのAI機能を一つのツールバーにまとめた「AI Assisted Editor」ビュー、段階的な編集を手伝うAIアシスタント、プロンプトによる画像編集、新しいAIアップスケーリングのオプション、さまざまなキャンバスサイズに合わせて画像を再構成するAIツールが加わった。どのツールがAI-powered（AI搭載）なのかは常に明確とは限らず、写真の加工を最小限にとどめる報道の現場にとって、AIメタデータは読者の信頼を失うリスクになる。"
+              },
+              {
+                "t": "p",
+                "x": "Adobeは8月、AIで生成・編集された画像を示すC2PAメタデータへの対応を順次開始した。メールには「現時点で、The Timesの依頼で仕事をする際には、すべての寄稿写真家にAdobe Photoshop 2027（リリース28.0.0およびそれ以降のアップデート）の使用を避けるよう求めている」とある。NYTの広報担当Graham Jamesはこの要請を認めた。AdobeはThe Vergeの問い合わせにすぐには応じなかった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "NYT要求摄影师\n暂缓更新Photoshop",
+          "body": "NYT要求摄影师暂缓Photoshop更新，以免新闻照片带上AI元数据。",
+          "mini_headline": "NYT暂缓Photoshop更新",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "图片：Marcin Golba / NurPhoto via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "The New York Times正要求自由摄影师不要使用最新版Adobe Photoshop，因为2027更新中的功能以“用户可能察觉不到的方式”使用AI。摄影部门负责人Meaghan Looram和Josh Haner在一封电子邮件中写道，这些功能“可能导致照片被元数据标记为AI-generated（AI生成）”。"
+              },
+              {
+                "t": "p",
+                "x": "11月的更新新增了“AI Assisted Editor”视图，把Photoshop的所有AI功能集中到一个工具栏中，还加入了用于分步编辑的AI助手、基于提示词的图像编辑、新的AI放大选项，以及可按不同画布尺寸重新构图的AI工具。哪些工具属于AI-powered（AI驱动）并不总是一目了然，而对于将照片编辑控制在最低限度的新闻编辑部来说，AI元数据可能让读者失去信任。"
+              },
+              {
+                "t": "p",
+                "x": "8月，Adobe开始推出C2PA元数据支持，用于标记由AI生成或编辑的图像。邮件写道：“目前，我们要求所有供稿摄影师在为The Times执行任务时，避免使用Adobe Photoshop 2027（28.0.0版本及后续更新）。”NYT发言人Graham James证实了这一要求。Adobe未立即回复The Verge。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El NYT pide a sus fotógrafos\nno actualizar Photoshop",
+          "body": "The New York Times pidió a sus fotógrafos aplazar una actualización de Photoshop para evitar metadatos de AI.",
+          "mini_headline": "El NYT frena una actualización de Photoshop",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+                "cap": "Foto: Marcin Golba / NurPhoto via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "The New York Times pide a sus fotógrafos independientes que no usen la versión más reciente de Adobe Photoshop porque las funciones de la actualización 2027 usan AI “de maneras que pueden no ser evidentes para los usuarios”. En un correo electrónico, los responsables de fotografía Meaghan Looram y Josh Haner escriben que estas funciones “pueden hacer que los metadatos identifiquen las fotografías como AI-generated (generadas por AI)”."
+              },
+              {
+                "t": "p",
+                "x": "La actualización de noviembre añade una vista “AI Assisted Editor” que reúne todas las funciones de AI de Photoshop en una sola barra de herramientas, un asistente de AI para editar paso a paso, edición de imágenes mediante prompts, nuevas opciones de escalado con AI y una herramienta de AI que recompone imágenes para distintos tamaños de lienzo. No siempre está claro qué herramientas son AI-powered (impulsadas por AI), y para una redacción que reduce al mínimo la edición fotográfica, los metadatos de AI ponen en riesgo la confianza de los lectores."
+              },
+              {
+                "t": "p",
+                "x": "En agosto, Adobe empezó a desplegar la compatibilidad con metadatos C2PA, que señalan las imágenes generadas o editadas con AI. “Por ahora, exigimos a todos los fotógrafos colaboradores que eviten usar Adobe Photoshop 2027 (versión 28.0.0 y actualizaciones posteriores) cuando trabajen en encargos para The Times”, dice el correo. El portavoz del NYT, Graham James, confirmó el requisito. Adobe no respondió de inmediato a The Verge."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "cognitive-design-cds-2-3",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "CDS 2.3, 실험\n설계 자동화 추가",
+      "body": "CDS 2.3이 변수를 훑어 변형안을 만들고 구조·제조·비용·CO2로 평가한다.",
+      "mini_headline": "CDS 2.3, 변형안 평가",
       "tool": "Text-to-CAD",
-      "source": "AEC Magazine",
-      "url": "https://aecmag.com/bim/buro-happold-and-motif-bridge-the-bim-collaboration-divide/",
+      "source": "DEVELOP3D",
+      "url": "https://develop3d.com/ai/cognitive-design-2-3-marks-cds-newest-release/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -561,203 +965,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/11/Motif.jpg"
+            "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
           },
           {
             "t": "p",
-            "x": "Buro Happold의 오픈소스 엔지니어링 프레임워크 BHoM이 Motif의 BIM 2.0 플랫폼에 네이티브로 들어간다. AI-driven(AI 기반) 설계와 결정론적 엔지니어링 계산이 이어지는 셈이다. 두 회사는 Buro Happold 런던 사무소 행사에서 이를 시연했다."
+            "x": "Cognitive Design Systems(CDS)가 AI-powered(AI 기반) 엔지니어링 플랫폼 최신판 Cognitive Design 2.3을 내놨다. 핵심은 자동화된 Design of Experiments(DoE)다. 엔지니어링 팀은 콘셉트 단계부터 Preliminary Design Review(PDR)까지 설계 대안을 체계적으로 탐색할 수 있다."
           },
           {
             "t": "p",
-            "x": "Motif는 형상만 가져오는 게 아니라 BHoM의 네이티브 객체를 다루고 그 밑에 깔린 엔지니어링 메서드까지 호출한다. Matt Jezyk는 Motif의 유연한 데이터 모델이 BHoM 클래스와 객체 약 700개를 담을 수 있다고 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/11/IMG_2998.jpg",
-            "cap": "Motif CEO Amar Hanspal"
+            "x": "CEO Rhushik Matroja는 “수십 년 동안 DoE는 엔지니어링 워크플로의 후반, 즉 주요 설계 선택이 이미 끝나 모든 변경에 큰 비용이 드는 시점에야 쓰였다”며 “CDS는 부품에 관한 결정적 선택이 아직 열려 있는 콘셉트 단계에서 DoE가 가장 큰 가치를 낸다고 확신한다”고 말했다."
           },
           {
             "t": "p",
-            "x": "하루짜리 워크숍에서 Buro Happold 엔지니어들은 프롬프트와 스케치로 형태를 뽑아낸 뒤 BHoM으로 구조 해석용 표현을 만들고 부재 크기에 경험칙을 적용했다. 구조 솔버는 돌리지 않았다. Al Fisher는 \"가져오기(import)라는 말로는 제대로 평가되지 않는다\"고 말했다."
+            "x": "엔지니어가 설계 파라미터와 범위를 정하면 소프트웨어가 그 한도 안에서 파라메트릭 스윕을 자동으로 돌린다. 설계 변형안을 하나씩 만들어 구조, 제조, 비용, CO2 기준으로 평가하는 방식이다. 변형안은 모두 Design Explorer에 모인다. 설계자는 여기서 트레이드오프를 비교하고 요구 사항에 맞춰 후보를 걸러 내며, 완전한 추적성을 근거로 선택한 콘셉트를 설명할 수 있다."
           },
           {
             "t": "p",
-            "x": "Motif는 새 API를 내놓고 외부 개발자에게도 플랫폼을 열었다. Fisher가 꼽은 세 가지 지능은 인간의 판단, 확률적 AI, 결정론적 계산으로, 서로를 보완한다. 지금까지 보여 준 것은 유망하지만 범위가 더 좁은 첫걸음이다."
+            "x": "CDS는 추적 가능한 콘셉트 선정까지 이어지는 일곱 단계 방법을 담은 백서 “Design of Experiments at the Concept Stage”도 공개했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Buro Happold and Motif pair\nAI geometry with BHoM",
-          "body": "Motif's sketch-to-geometry agents can call Buro Happold's open-source BHoM engineering methods for member sizing.",
-          "mini_headline": "Motif agents\ncall BHoM calcs",
+          "headline": "Cognitive Design 2.3 adds\nautomated experiments",
+          "body": "Cognitive Design 2.3 sweeps parameters, generates variants and scores each on structure, manufacturing, cost and CO2.",
+          "mini_headline": "CDS 2.3 scores variants",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/Motif.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
               },
               {
                 "t": "p",
-                "x": "Buro Happold's open-source BHoM engineering framework is being integrated natively into Motif's BIM 2.0 platform, connecting AI-driven design with deterministic engineering computation. The two companies demonstrated the work at an event at Buro Happold's London office."
+                "x": "Cognitive Design Systems (CDS) releases Cognitive Design 2.3, the latest version of its AI-powered engineering platform. Its flagship capability is automated Design of Experiments (DoE), letting engineering teams explore design alternatives systematically during the concept phase, up to the Preliminary Design Review (PDR)."
               },
               {
                 "t": "p",
-                "x": "Rather than simply importing geometry, Motif can work with BHoM's native objects and call its underlying engineering methods. Matt Jezyk said Motif's flexible data model could accommodate around 700 BHoM classes and objects."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/IMG_2998.jpg",
-                "cap": "Motif CEO, Amar Hanspal"
+                "x": "“For decades, DoE has come into play late in the engineering workflow, once the main design choices have already been made and every change has become costly,” said CEO Rhushik Matroja. “At CDS, we are convinced that DoE delivers its greatest value at the concept phase, when the decisive choices on a part are still open.”"
               },
               {
                 "t": "p",
-                "x": "In a one-day workshop, Buro Happold engineers generated forms through prompts and sketches, then used BHoM to produce structural analytical representations and apply rules of thumb for member sizing; no structural solver was run. \"The word import doesn't really give it credit,\" said Al Fisher."
+                "x": "Engineers define the design parameters and ranges; the software then automatically conducts the parametric sweep within these limits, generating each design variant and evaluating it against structural, manufacturing, cost, and CO2 criteria. All variants are consolidated in Design Explorer, where designers can compare trade-offs, filter candidates against requirements, and justify the selected concept with full traceability."
               },
               {
                 "t": "p",
-                "x": "Motif also opened its platform to external developers with a new API. Fisher described three complementary forms of intelligence: human judgement, probabilistic AI and deterministic computation. What has been demonstrated so far is a promising but narrower first step."
+                "x": "CDS has also published a white paper, “Design of Experiments at the Concept Stage,” setting out a seven-step method leading to a traceable concept selection."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Motif, AI 형상에\nBHoM을 결합",
-          "body": "Motif 에이전트가 Buro Happold의 BHoM 공학 기법을 불러 쓴다.",
-          "mini_headline": "Motif 에이전트, BHoM 호출",
+          "headline": "CDS 2.3, 실험\n설계 자동화 추가",
+          "body": "CDS 2.3이 변수를 훑어 변형안을 만들고 구조·제조·비용·CO2로 평가한다.",
+          "mini_headline": "CDS 2.3, 변형안 평가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/Motif.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
               },
               {
                 "t": "p",
-                "x": "Buro Happold의 오픈소스 엔지니어링 프레임워크 BHoM이 Motif의 BIM 2.0 플랫폼에 네이티브로 들어간다. AI-driven(AI 기반) 설계와 결정론적 엔지니어링 계산이 이어지는 셈이다. 두 회사는 Buro Happold 런던 사무소 행사에서 이를 시연했다."
+                "x": "Cognitive Design Systems(CDS)가 AI-powered(AI 기반) 엔지니어링 플랫폼 최신판 Cognitive Design 2.3을 내놨다. 핵심은 자동화된 Design of Experiments(DoE)다. 엔지니어링 팀은 콘셉트 단계부터 Preliminary Design Review(PDR)까지 설계 대안을 체계적으로 탐색할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Motif는 형상만 가져오는 게 아니라 BHoM의 네이티브 객체를 다루고 그 밑에 깔린 엔지니어링 메서드까지 호출한다. Matt Jezyk는 Motif의 유연한 데이터 모델이 BHoM 클래스와 객체 약 700개를 담을 수 있다고 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/IMG_2998.jpg",
-                "cap": "Motif CEO Amar Hanspal"
+                "x": "CEO Rhushik Matroja는 “수십 년 동안 DoE는 엔지니어링 워크플로의 후반, 즉 주요 설계 선택이 이미 끝나 모든 변경에 큰 비용이 드는 시점에야 쓰였다”며 “CDS는 부품에 관한 결정적 선택이 아직 열려 있는 콘셉트 단계에서 DoE가 가장 큰 가치를 낸다고 확신한다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "하루짜리 워크숍에서 Buro Happold 엔지니어들은 프롬프트와 스케치로 형태를 뽑아낸 뒤 BHoM으로 구조 해석용 표현을 만들고 부재 크기에 경험칙을 적용했다. 구조 솔버는 돌리지 않았다. Al Fisher는 \"가져오기(import)라는 말로는 제대로 평가되지 않는다\"고 말했다."
+                "x": "엔지니어가 설계 파라미터와 범위를 정하면 소프트웨어가 그 한도 안에서 파라메트릭 스윕을 자동으로 돌린다. 설계 변형안을 하나씩 만들어 구조, 제조, 비용, CO2 기준으로 평가하는 방식이다. 변형안은 모두 Design Explorer에 모인다. 설계자는 여기서 트레이드오프를 비교하고 요구 사항에 맞춰 후보를 걸러 내며, 완전한 추적성을 근거로 선택한 콘셉트를 설명할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Motif는 새 API를 내놓고 외부 개발자에게도 플랫폼을 열었다. Fisher가 꼽은 세 가지 지능은 인간의 판단, 확률적 AI, 결정론적 계산으로, 서로를 보완한다. 지금까지 보여 준 것은 유망하지만 범위가 더 좁은 첫걸음이다."
+                "x": "CDS는 추적 가능한 콘셉트 선정까지 이어지는 일곱 단계 방법을 담은 백서 “Design of Experiments at the Concept Stage”도 공개했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Motif、AI形状に\nBHoMの計算を統合",
-          "body": "MotifのエージェントがBuro HappoldのBHoM手法で部材寸法を決める。",
-          "mini_headline": "MotifがBHoMの計算を呼び出す",
+          "headline": "CDS 2.3が\n実験計画を自動化",
+          "body": "CDS 2.3は変数を掃引して案を生成し、構造・製造・コスト・CO2で評価する。",
+          "mini_headline": "CDS 2.3が設計案を評価",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/Motif.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
               },
               {
                 "t": "p",
-                "x": "Buro HappoldのオープンソースのエンジニアリングフレームワークBHoMが、MotifのBIM 2.0プラットフォームにネイティブ統合され、AI-drivenな設計と決定論的なエンジニアリング計算を結びつける。両社はBuro Happoldのロンドンオフィスで開いたイベントでこの取り組みを披露した。"
+                "x": "Cognitive Design Systems（CDS）は、AI-powered（AI搭載）エンジニアリングプラットフォームの最新版Cognitive Design 2.3をリリースした。目玉機能は自動化されたDesign of Experiments（DoE）で、エンジニアリングチームはコンセプト段階からPreliminary Design Review（PDR）まで、設計の代替案を体系的に検討できる。"
               },
               {
                 "t": "p",
-                "x": "Motifは形状を単に取り込むだけでなく、BHoMのネイティブオブジェクトを扱い、その基盤にあるエンジニアリング手法を呼び出せる。Matt Jezykによれば、Motifの柔軟なデータモデルは約700のBHoMクラスとオブジェクトに対応できるという。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/IMG_2998.jpg",
-                "cap": "Motif CEOのAmar Hanspal"
+                "x": "CEOのRhushik Matrojaは「数十年にわたり、DoEは主要な設計上の選択がすでに済み、あらゆる変更が高くつくようになった、エンジニアリングワークフローの終盤で使われてきた」と述べ、「CDSは、部品に関する決定的な選択がまだ開かれているコンセプト段階でこそ、DoEが最大の価値を発揮すると確信している」と語った。"
               },
               {
                 "t": "p",
-                "x": "一日がかりのワークショップで、Buro Happoldのエンジニアはプロンプトとスケッチから形状を生成し、BHoMで構造解析用の表現を作成して、部材寸法に経験則を適用した。構造ソルバーは実行していない。「インポートという言葉では正当に評価しきれない」とAl Fisherは語った。"
+                "x": "エンジニアが設計パラメータとその範囲を定義すると、ソフトウェアがその範囲内でパラメトリックスイープを自動で実行し、各設計バリアントを生成して、構造、製造、コスト、CO2の基準で評価する。すべてのバリアントはDesign Explorerに集約され、設計者はトレードオフを比較し、要件に照らして候補を絞り込み、完全なトレーサビリティをもって選んだコンセプトの妥当性を示せる。"
               },
               {
                 "t": "p",
-                "x": "Motifは新たなAPIで外部開発者にもプラットフォームを開放した。Fisherは互いに補完し合う三つの知性として、人間の判断、確率的なAI、決定論的な計算を挙げた。これまでに示されたのは、有望ではあるが範囲の狭い第一歩である。"
+                "x": "CDSはまた、追跡可能なコンセプト選定に至る七つのステップの手法をまとめたホワイトペーパー「Design of Experiments at the Concept Stage」も公開した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Buro Happold携手\nMotif连通AI与BHoM",
-          "body": "Motif的草图转几何智能体可调用Buro Happold开源BHoM方法确定构件尺寸。",
-          "mini_headline": "Motif智能体调用BHoM计算",
+          "headline": "CDS 2.3新增\n自动化实验设计",
+          "body": "CDS 2.3可自动扫描参数、生成方案，并按结构、制造、成本和CO2逐一评分。",
+          "mini_headline": "CDS 2.3为方案评分",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/Motif.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
               },
               {
                 "t": "p",
-                "x": "Buro Happold的开源工程框架BHoM正以原生方式集成到Motif的BIM 2.0平台中，把AI-driven设计与确定性的工程计算连接起来。两家公司在Buro Happold伦敦办公室举办的活动上展示了这项工作。"
+                "x": "Cognitive Design Systems（CDS）发布了其AI-powered（AI驱动）工程平台的最新版本Cognitive Design 2.3。其核心功能是自动化的Design of Experiments（DoE），让工程团队能在概念阶段直至Preliminary Design Review（PDR）期间系统地探索设计备选方案。"
               },
               {
                 "t": "p",
-                "x": "Motif并非简单导入几何体，而是可以处理BHoM的原生对象，并调用其底层工程方法。Matt Jezyk表示，Motif灵活的数据模型可容纳约700个BHoM类和对象。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/IMG_2998.jpg",
-                "cap": "Motif CEO Amar Hanspal"
+                "x": "CEO Rhushik Matroja表示：“几十年来，DoE一直在工程流程的后期才登场，那时主要的设计选择已经确定，任何改动都代价高昂。”他还说：“CDS坚信，DoE在概念阶段价值最大，因为那时零件的关键选择仍未敲定。”"
               },
               {
                 "t": "p",
-                "x": "在为期一天的研讨会上，Buro Happold的工程师通过提示词和草图生成形体，再用BHoM生成结构分析表示，并对构件尺寸套用经验法则；整个过程没有运行结构求解器。Al Fisher说：“用‘导入’这个词其实低估了它。”"
+                "x": "工程师定义设计参数及其范围，软件随后在这些限制内自动执行参数扫描，生成每个设计变体，并按结构、制造、成本和CO2标准进行评估。所有变体汇集在Design Explorer中，设计人员可以比较权衡、按需求筛选候选方案，并以完整的可追溯性论证所选概念。"
               },
               {
                 "t": "p",
-                "x": "Motif还通过新的API向外部开发者开放了平台。Fisher描述了三种互补的智能形式：人类判断、概率式AI和确定性计算。目前展示的成果前景可期，但只是范围较窄的第一步。"
+                "x": "CDS还发布了白皮书《Design of Experiments at the Concept Stage》，提出一套通向可追溯概念选择的七步方法。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Buro Happold y Motif unen\ngeometría AI con BHoM",
-          "body": "Los agentes de Motif pueden llamar a los métodos de código abierto BHoM de Buro Happold para dimensionar elementos.",
-          "mini_headline": "Agentes de Motif llaman a BHoM",
+          "headline": "Cognitive Design 2.3 suma\nexperimentos automatizados",
+          "body": "Cognitive Design 2.3 recorre parámetros, genera variantes y evalúa cada una por estructura, fabricación, costo y CO2.",
+          "mini_headline": "CDS 2.3 evalúa variantes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/Motif.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
               },
               {
                 "t": "p",
-                "x": "El framework de ingeniería de código abierto BHoM de Buro Happold se está integrando de forma nativa en la plataforma BIM 2.0 de Motif, lo que conecta el diseño AI-driven con el cálculo de ingeniería determinista. Las dos empresas mostraron el trabajo en un evento en la oficina de Buro Happold en Londres."
+                "x": "Cognitive Design Systems (CDS) lanza Cognitive Design 2.3, la versión más reciente de su plataforma de ingeniería AI-powered (impulsada por AI). Su función principal es el Design of Experiments (DoE) automatizado, que permite a los equipos de ingeniería explorar alternativas de diseño de forma sistemática durante la fase de concepto, hasta la Preliminary Design Review (PDR)."
               },
               {
                 "t": "p",
-                "x": "En lugar de limitarse a importar geometría, Motif puede trabajar con los objetos nativos de BHoM y llamar a sus métodos de ingeniería subyacentes. Matt Jezyk dijo que el modelo de datos flexible de Motif podría albergar unas 700 clases y objetos de BHoM."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/IMG_2998.jpg",
-                "cap": "Amar Hanspal, CEO de Motif"
+                "x": "“Durante décadas, el DoE ha entrado en juego tarde en el flujo de trabajo de ingeniería, cuando las principales decisiones de diseño ya se han tomado y cada cambio se ha vuelto costoso”, dijo el CEO Rhushik Matroja. “En CDS estamos convencidos de que el DoE aporta su mayor valor en la fase de concepto, cuando las decisiones clave sobre una pieza aún están abiertas”."
               },
               {
                 "t": "p",
-                "x": "En un taller de un día, ingenieros de Buro Happold generaron formas mediante prompts y bocetos, y luego usaron BHoM para producir representaciones analíticas estructurales y aplicar reglas empíricas para dimensionar elementos; no se ejecutó ningún solver estructural. \"La palabra importar no le hace justicia\", dijo Al Fisher."
+                "x": "Los ingenieros definen los parámetros de diseño y sus rangos; después, el software realiza automáticamente el barrido paramétrico dentro de esos límites, genera cada variante de diseño y la evalúa según criterios estructurales, de fabricación, de costo y de CO2. Todas las variantes se reúnen en Design Explorer, donde los diseñadores pueden comparar compensaciones, filtrar candidatos según los requisitos y justificar el concepto elegido con plena trazabilidad."
               },
               {
                 "t": "p",
-                "x": "Motif también abrió su plataforma a desarrolladores externos con una nueva API. Fisher describió tres formas complementarias de inteligencia: el juicio humano, la AI probabilística y el cálculo determinista. Lo demostrado hasta ahora es un primer paso prometedor, aunque más acotado."
+                "x": "CDS también ha publicado un libro blanco, “Design of Experiments at the Concept Stage”, que expone un método de siete pasos para llegar a una selección de concepto trazable."
               }
             ]
           }
@@ -765,141 +1139,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Motif, AI 형상에\nBHoM을 결합",
-          "body": "Motif 에이전트가 Buro Happold의 BHoM 공학 기법을 불러 쓴다.",
-          "mini_headline": "Motif 에이전트, BHoM 호출",
+          "headline": "CDS 2.3, 실험\n설계 자동화 추가",
+          "body": "CDS 2.3은 변수를 훑어 변형안을 만들고 구조·제조·비용·CO2로 평가한다.",
+          "mini_headline": "CDS 2.3, 변형안 평가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/Motif.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
               },
               {
                 "t": "p",
-                "x": "Buro Happold의 오픈소스 엔지니어링 프레임워크 BHoM이 Motif의 BIM 2.0 플랫폼에 네이티브로 통합되며, AI-driven(AI 기반) 설계와 결정론적 엔지니어링 계산이 연결된다. 두 회사는 Buro Happold 런던 사무소에서 열린 행사에서 이 작업을 시연했다."
+                "x": "Cognitive Design Systems(CDS)가 AI-powered(AI 기반) 엔지니어링 플랫폼의 최신 버전인 Cognitive Design 2.3을 출시했다. 핵심 기능은 자동화된 Design of Experiments(DoE)로, 엔지니어링 팀이 콘셉트 단계부터 Preliminary Design Review(PDR)까지 설계 대안을 체계적으로 탐색할 수 있게 한다."
               },
               {
                 "t": "p",
-                "x": "Motif는 형상을 단순히 가져오는 데 그치지 않고 BHoM의 네이티브 객체를 다루며 그 바탕의 엔지니어링 메서드를 호출할 수 있다. Matt Jezyk는 Motif의 유연한 데이터 모델이 BHoM 클래스와 객체 약 700개를 수용할 수 있다고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/IMG_2998.jpg",
-                "cap": "Motif CEO Amar Hanspal"
+                "x": "CEO Rhushik Matroja는 “수십 년 동안 DoE는 엔지니어링 워크플로의 후반, 즉 주요 설계 선택이 이미 끝나 모든 변경에 큰 비용이 드는 시점에야 쓰였다”며 “CDS는 부품에 관한 결정적 선택이 아직 열려 있는 콘셉트 단계에서 DoE가 가장 큰 가치를 낸다고 확신한다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "하루 동안 열린 워크숍에서 Buro Happold 엔지니어들은 프롬프트와 스케치로 형태를 생성한 뒤, BHoM으로 구조 해석용 표현을 만들고 부재 크기에 경험칙을 적용했다. 구조 솔버는 돌리지 않았다. Al Fisher는 \"가져오기(import)라는 말로는 제대로 평가되지 않는다\"고 말했다."
+                "x": "엔지니어가 설계 파라미터와 범위를 정하면 소프트웨어가 그 한도 안에서 파라메트릭 스윕을 자동으로 수행해 각 설계 변형안을 만들고 구조, 제조, 비용, CO2 기준으로 평가한다. 모든 변형안은 Design Explorer에 모이며, 설계자는 여기서 트레이드오프를 비교하고 요구 사항에 맞춰 후보를 걸러 내고 완전한 추적성을 바탕으로 선택한 콘셉트의 근거를 제시할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Motif는 새 API로 외부 개발자에게도 플랫폼을 열었다. Fisher는 서로 보완하는 세 가지 지능으로 인간의 판단, 확률적 AI, 결정론적 계산을 꼽았다. 지금까지 시연된 것은 유망하지만 범위가 더 좁은 첫걸음이다."
+                "x": "CDS는 추적 가능한 콘셉트 선정으로 이어지는 일곱 단계 방법을 담은 백서 “Design of Experiments at the Concept Stage”도 공개했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Motif、AI形状に\nBHoMの計算を統合",
-          "body": "MotifのエージェントがBuro HappoldのBHoM手法で部材寸法を決める。",
-          "mini_headline": "MotifがBHoMの計算を呼び出す",
+          "headline": "CDS 2.3が\n実験計画を自動化",
+          "body": "CDS 2.3は変数を掃引して案を生成し、構造・製造・コスト・CO2で評価する。",
+          "mini_headline": "CDS 2.3が設計案を評価",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/Motif.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
               },
               {
                 "t": "p",
-                "x": "Buro HappoldのオープンソースのエンジニアリングフレームワークBHoMが、MotifのBIM 2.0プラットフォームにネイティブ統合され、AI-drivenな設計と決定論的なエンジニアリング計算を結びつける。両社はBuro Happoldのロンドンオフィスで開いたイベントでこの取り組みを披露した。"
+                "x": "Cognitive Design Systems（CDS）は、AI-powered（AI搭載）エンジニアリングプラットフォームの最新版Cognitive Design 2.3をリリースした。目玉機能は自動化されたDesign of Experiments（DoE）で、エンジニアリングチームはコンセプト段階からPreliminary Design Review（PDR）まで、設計の代替案を体系的に検討できる。"
               },
               {
                 "t": "p",
-                "x": "Motifは形状を単に取り込むだけでなく、BHoMのネイティブオブジェクトを扱い、その基盤にあるエンジニアリング手法を呼び出せる。Matt Jezykによれば、Motifの柔軟なデータモデルは約700のBHoMクラスとオブジェクトに対応できるという。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/IMG_2998.jpg",
-                "cap": "Motif CEOのAmar Hanspal"
+                "x": "CEOのRhushik Matrojaは「数十年にわたり、DoEは主要な設計上の選択がすでに済み、あらゆる変更が高くつくようになった、エンジニアリングワークフローの終盤で使われてきた」と述べ、「CDSは、部品に関する決定的な選択がまだ開かれているコンセプト段階でこそ、DoEが最大の価値を発揮すると確信している」と語った。"
               },
               {
                 "t": "p",
-                "x": "一日がかりのワークショップで、Buro Happoldのエンジニアはプロンプトとスケッチから形状を生成し、BHoMで構造解析用の表現を作成して、部材寸法に経験則を適用した。構造ソルバーは実行していない。「インポートという言葉では正当に評価しきれない」とAl Fisherは語った。"
+                "x": "エンジニアが設計パラメータとその範囲を定義すると、ソフトウェアがその範囲内でパラメトリックスイープを自動で実行し、各設計バリアントを生成して、構造、製造、コスト、CO2の基準で評価する。すべてのバリアントはDesign Explorerに集約され、設計者はトレードオフを比較し、要件に照らして候補を絞り込み、完全なトレーサビリティをもって選んだコンセプトの妥当性を示せる。"
               },
               {
                 "t": "p",
-                "x": "Motifは新たなAPIで外部開発者にもプラットフォームを開放した。Fisherは互いに補完し合う三つの知性として、人間の判断、確率的なAI、決定論的な計算を挙げた。これまでに示されたのは、有望ではあるが範囲の狭い第一歩である。"
+                "x": "CDSはまた、追跡可能なコンセプト選定に至る七つのステップの手法をまとめたホワイトペーパー「Design of Experiments at the Concept Stage」も公開した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Buro Happold携手\nMotif连通AI与BHoM",
-          "body": "Motif的草图转几何智能体可调用Buro Happold开源BHoM方法确定构件尺寸。",
-          "mini_headline": "Motif智能体调用BHoM计算",
+          "headline": "CDS 2.3新增\n自动化实验设计",
+          "body": "CDS 2.3可自动扫描参数、生成方案，并按结构、制造、成本和CO2逐一评分。",
+          "mini_headline": "CDS 2.3为方案评分",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/Motif.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
               },
               {
                 "t": "p",
-                "x": "Buro Happold的开源工程框架BHoM正以原生方式集成到Motif的BIM 2.0平台中，把AI-driven设计与确定性的工程计算连接起来。两家公司在Buro Happold伦敦办公室举办的活动上展示了这项工作。"
+                "x": "Cognitive Design Systems（CDS）发布了其AI-powered（AI驱动）工程平台的最新版本Cognitive Design 2.3。其核心功能是自动化的Design of Experiments（DoE），让工程团队能在概念阶段直至Preliminary Design Review（PDR）期间系统地探索设计备选方案。"
               },
               {
                 "t": "p",
-                "x": "Motif并非简单导入几何体，而是可以处理BHoM的原生对象，并调用其底层工程方法。Matt Jezyk表示，Motif灵活的数据模型可容纳约700个BHoM类和对象。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/IMG_2998.jpg",
-                "cap": "Motif CEO Amar Hanspal"
+                "x": "CEO Rhushik Matroja表示：“几十年来，DoE一直在工程流程的后期才登场，那时主要的设计选择已经确定，任何改动都代价高昂。”他还说：“CDS坚信，DoE在概念阶段价值最大，因为那时零件的关键选择仍未敲定。”"
               },
               {
                 "t": "p",
-                "x": "在为期一天的研讨会上，Buro Happold的工程师通过提示词和草图生成形体，再用BHoM生成结构分析表示，并对构件尺寸套用经验法则；整个过程没有运行结构求解器。Al Fisher说：“用‘导入’这个词其实低估了它。”"
+                "x": "工程师定义设计参数及其范围，软件随后在这些限制内自动执行参数扫描，生成每个设计变体，并按结构、制造、成本和CO2标准进行评估。所有变体汇集在Design Explorer中，设计人员可以比较权衡、按需求筛选候选方案，并以完整的可追溯性论证所选概念。"
               },
               {
                 "t": "p",
-                "x": "Motif还通过新的API向外部开发者开放了平台。Fisher描述了三种互补的智能形式：人类判断、概率式AI和确定性计算。目前展示的成果前景可期，但只是范围较窄的第一步。"
+                "x": "CDS还发布了白皮书《Design of Experiments at the Concept Stage》，提出一套通向可追溯概念选择的七步方法。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Buro Happold y Motif unen\ngeometría AI con BHoM",
-          "body": "Los agentes de Motif pueden llamar a los métodos de código abierto BHoM de Buro Happold para dimensionar elementos.",
-          "mini_headline": "Agentes de Motif llaman a BHoM",
+          "headline": "Cognitive Design 2.3 suma\nexperimentos automatizados",
+          "body": "Cognitive Design 2.3 recorre parámetros, genera variantes y evalúa cada una por estructura, fabricación, costo y CO2.",
+          "mini_headline": "CDS 2.3 evalúa variantes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/Motif.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
               },
               {
                 "t": "p",
-                "x": "El framework de ingeniería de código abierto BHoM de Buro Happold se está integrando de forma nativa en la plataforma BIM 2.0 de Motif, lo que conecta el diseño AI-driven con el cálculo de ingeniería determinista. Las dos empresas mostraron el trabajo en un evento en la oficina de Buro Happold en Londres."
+                "x": "Cognitive Design Systems (CDS) lanza Cognitive Design 2.3, la versión más reciente de su plataforma de ingeniería AI-powered (impulsada por AI). Su función principal es el Design of Experiments (DoE) automatizado, que permite a los equipos de ingeniería explorar alternativas de diseño de forma sistemática durante la fase de concepto, hasta la Preliminary Design Review (PDR)."
               },
               {
                 "t": "p",
-                "x": "En lugar de limitarse a importar geometría, Motif puede trabajar con los objetos nativos de BHoM y llamar a sus métodos de ingeniería subyacentes. Matt Jezyk dijo que el modelo de datos flexible de Motif podría albergar unas 700 clases y objetos de BHoM."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/IMG_2998.jpg",
-                "cap": "Amar Hanspal, CEO de Motif"
+                "x": "“Durante décadas, el DoE ha entrado en juego tarde en el flujo de trabajo de ingeniería, cuando las principales decisiones de diseño ya se han tomado y cada cambio se ha vuelto costoso”, dijo el CEO Rhushik Matroja. “En CDS estamos convencidos de que el DoE aporta su mayor valor en la fase de concepto, cuando las decisiones clave sobre una pieza aún están abiertas”."
               },
               {
                 "t": "p",
-                "x": "En un taller de un día, ingenieros de Buro Happold generaron formas mediante prompts y bocetos, y luego usaron BHoM para producir representaciones analíticas estructurales y aplicar reglas empíricas para dimensionar elementos; no se ejecutó ningún solver estructural. \"La palabra importar no le hace justicia\", dijo Al Fisher."
+                "x": "Los ingenieros definen los parámetros de diseño y sus rangos; después, el software realiza automáticamente el barrido paramétrico dentro de esos límites, genera cada variante de diseño y la evalúa según criterios estructurales, de fabricación, de costo y de CO2. Todas las variantes se reúnen en Design Explorer, donde los diseñadores pueden comparar compensaciones, filtrar candidatos según los requisitos y justificar el concepto elegido con plena trazabilidad."
               },
               {
                 "t": "p",
-                "x": "Motif también abrió su plataforma a desarrolladores externos con una nueva API. Fisher describió tres formas complementarias de inteligencia: el juicio humano, la AI probabilística y el cálculo determinista. Lo demostrado hasta ahora es un primer paso prometedor, aunque más acotado."
+                "x": "CDS también ha publicado un libro blanco, “Design of Experiments at the Concept Stage”, que expone un método de siete pasos para llegar a una selección de concepto trazable."
               }
             ]
           }
@@ -907,1295 +1261,311 @@
       }
     },
     {
-      "id": "lexisnexis-verify-ux-patterns",
+      "id": "claude-artifacts-desktop-apps",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 결과 검증을 돕는\nUX 패턴 다섯 가지",
-      "body": "LexisNexis 디자이너가 AI 검증용 UX 패턴 다섯 가지를 정리했다.",
-      "mini_headline": "검증을 위한 AI 디자인",
+      "headline": "Artifacts, 이제\n설치형 데스크톱 앱",
+      "body": "Claude Artifacts가 Mac·Windows용 베타 앱으로 설치된다.",
+      "mini_headline": "Claude Artifacts, 데스크톱으로",
       "tool": "AI Workflow",
-      "source": "LexisNexis Design (Medium)",
-      "url": "https://medium.com/lexisnexis-design/design-for-the-verify-5-ux-patterns-for-trustworthy-ai-a81e530e36e7",
-      "accent": "#ff5a4d",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+      "accent": "#ff2d55",
       "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "AI-hallucinated 콘텐츠, 즉 AI 환각이 얽힌 법원·심판 판결을 추적하는 공개 데이터베이스에는 사례가 2,200건 넘게 쌓였다. 법률·규제 전문가용 AI 도구를 디자인하는 Ulka Patil은 사람들이 AI의 실수를 찾아 확인하고 바로잡게 돕는 일이 디자인 문제라고 본다. 그가 내놓은 패턴은 다섯 가지다."
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:700/1*3LU5T1BniaPrIQMhMQm0fw.png",
-            "cap": "사람들에게 가장 필요한 것부터 시작한다. 패턴은 함께 쓸 때 효과가 가장 크다"
-          },
-          {
-            "t": "p",
-            "x": "1. 출처를 보여 준다: 문서 단위가 아니라 각 주장의 근거가 된 구절까지 정확히 연결한다. 2. 쉬운 말로 설명한다: 중요한 AI 결과에는 AI가 왜 그런 결론을 냈는지 함께 보여 준다."
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:700/1*aNQtDvHSjVY-FJijHeC4Zw.png",
-            "cap": "와이어프레임 · 인용으로 무엇인지 알리고 미리보기로 세부를 보여 주며, 클릭하면 정확한 구절이 열린다"
-          },
-          {
-            "t": "p",
-            "x": "3. 신호에 정직한 라벨을 붙인다: 검토자들은 \"87% 일치\" 같은 원점수보다 높음/중간/낮음 위험 등급을 더 좋아했다. 4. 통제권은 사람에게 둔다: AI 제안은 눈에 보이고 고칠 수 있고 되돌릴 수 있어야 한다. 5. 확인 방식을 일관되게 한다: 같은 라벨은 어느 화면에서든 같은 뜻이어야 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:700/1*MRv8-kY8aUunBtezCoP7jw.png",
-            "cap": "다섯 가지 패턴이 모두 뒷받침하는 전형적인 검증 여정 하나"
-          },
-          {
-            "t": "p",
-            "x": "어떤 AI 경험에든 쓸 만한 간단한 테스트가 있다. 사람들이 답을 이해하고 근거를 확인하며 AI가 얼마나 확신하는지 보고, 작업 흐름을 놓치지 않은 채 실수를 고칠 수 있는가?"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Five UX patterns to help\nusers verify AI output",
-          "body": "A LexisNexis designer shares five UX patterns that help professionals verify AI output when errors are costly.",
-          "mini_headline": "Designing AI\nfor the verify",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "A public database now tracks more than 2,200 court and tribunal decisions involving AI-hallucinated content. Ulka Patil, who designs AI tools for legal and regulatory professionals, argues that helping people spot, check and correct AI mistakes is a design problem, and lays out five patterns."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3LU5T1BniaPrIQMhMQm0fw.png",
-                "cap": "Start with what people need most; the patterns work best together"
-              },
-              {
-                "t": "p",
-                "x": "1. Show where it came from: link to the exact passage behind each claim, not just the document. 2. Explain it in plain language: pair each important AI result with why the AI reached it."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*aNQtDvHSjVY-FJijHeC4Zw.png",
-                "cap": "Wireframe · the citation says what it is, a preview shows the details and a click opens the exact passage"
-              },
-              {
-                "t": "p",
-                "x": "3. Label signals honestly: reviewers preferred High / Medium / Low risk levels to raw scores like \"87% match.\" 4. Keep people in control: keep AI suggestions visible, editable and reversible. 5. Make checking consistent: a label must mean the same thing on every screen."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*MRv8-kY8aUunBtezCoP7jw.png",
-                "cap": "One typical verification journey, supported by all five patterns"
-              },
-              {
-                "t": "p",
-                "x": "A quick test for any AI experience: can people understand the answer, check its evidence, see how sure the AI is and fix mistakes without losing their place?"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 결과 검증을 돕는\nUX 패턴 다섯 가지",
-          "body": "LexisNexis 디자이너가 AI 검증용 UX 패턴 다섯 가지를 정리했다.",
-          "mini_headline": "검증을 위한 AI 디자인",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AI-hallucinated 콘텐츠, 즉 AI 환각이 얽힌 법원·심판 판결을 추적하는 공개 데이터베이스에는 사례가 2,200건 넘게 쌓였다. 법률·규제 전문가용 AI 도구를 디자인하는 Ulka Patil은 사람들이 AI의 실수를 찾아 확인하고 바로잡게 돕는 일이 디자인 문제라고 본다. 그가 내놓은 패턴은 다섯 가지다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3LU5T1BniaPrIQMhMQm0fw.png",
-                "cap": "사람들에게 가장 필요한 것부터 시작한다. 패턴은 함께 쓸 때 효과가 가장 크다"
-              },
-              {
-                "t": "p",
-                "x": "1. 출처를 보여 준다: 문서 단위가 아니라 각 주장의 근거가 된 구절까지 정확히 연결한다. 2. 쉬운 말로 설명한다: 중요한 AI 결과에는 AI가 왜 그런 결론을 냈는지 함께 보여 준다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*aNQtDvHSjVY-FJijHeC4Zw.png",
-                "cap": "와이어프레임 · 인용으로 무엇인지 알리고 미리보기로 세부를 보여 주며, 클릭하면 정확한 구절이 열린다"
-              },
-              {
-                "t": "p",
-                "x": "3. 신호에 정직한 라벨을 붙인다: 검토자들은 \"87% 일치\" 같은 원점수보다 높음/중간/낮음 위험 등급을 더 좋아했다. 4. 통제권은 사람에게 둔다: AI 제안은 눈에 보이고 고칠 수 있고 되돌릴 수 있어야 한다. 5. 확인 방식을 일관되게 한다: 같은 라벨은 어느 화면에서든 같은 뜻이어야 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*MRv8-kY8aUunBtezCoP7jw.png",
-                "cap": "다섯 가지 패턴이 모두 뒷받침하는 전형적인 검증 여정 하나"
-              },
-              {
-                "t": "p",
-                "x": "어떤 AI 경험에든 쓸 만한 간단한 테스트가 있다. 사람들이 답을 이해하고 근거를 확인하며 AI가 얼마나 확신하는지 보고, 작업 흐름을 놓치지 않은 채 실수를 고칠 수 있는가?"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI出力の検証を助ける\n五つのUXパターン",
-          "body": "LexisNexisのデザイナーが、AI出力の検証を助ける五つのUXパターンを紹介する。",
-          "mini_headline": "検証のためのAIデザイン",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AI-hallucinated(AIの幻覚による)コンテンツが絡んだ裁判所や審判所の判断を追跡する公開データベースには、現在2,200件を超える事例が記録されている。法務・規制分野の専門家向けAIツールを設計するUlka Patilは、人がAIの誤りを見つけ、確かめ、正す手助けをすることはデザインの問題だと主張し、五つのパターンを示す。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3LU5T1BniaPrIQMhMQm0fw.png",
-                "cap": "人々が最も必要とするものから始める。パターンは組み合わせると最も効果を発揮する"
-              },
-              {
-                "t": "p",
-                "x": "1. 出典を示す：文書だけでなく、各主張の根拠となる正確な箇所にリンクする。2. 平易な言葉で説明する：重要なAIの結果ごとに、AIがその結論に至った理由を添える。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*aNQtDvHSjVY-FJijHeC4Zw.png",
-                "cap": "ワイヤーフレーム · 引用がそれが何かを示し、プレビューが詳細を表示し、クリックで正確な箇所が開く"
-              },
-              {
-                "t": "p",
-                "x": "3. シグナルに正直なラベルを付ける：レビュアーは「87% 一致」のような生のスコアより、高・中・低のリスクレベルを好んだ。4. 主導権を人に残す：AIの提案を見える状態に保ち、編集でき、元に戻せるようにする。5. 確認を一貫させる：ラベルはどの画面でも同じ意味でなければならない。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*MRv8-kY8aUunBtezCoP7jw.png",
-                "cap": "五つのパターンすべてが支える、典型的な検証の流れの一例"
-              },
-              {
-                "t": "p",
-                "x": "あらゆるAI体験に使える簡単なテストがある。人は答えを理解し、その根拠を確認し、AIの確信度を把握し、作業の流れを見失わずに誤りを直せるだろうか。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "五种UX设计模式\n帮用户核查AI输出",
-          "body": "LexisNexis一位设计师分享五种UX模式，帮助专业人士在出错代价高时核查AI输出。",
-          "mini_headline": "为核查而设计AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "一个公开数据库目前追踪了2,200多起涉及AI-hallucinated（AI幻觉）内容的法院和裁判庭判决。为法律和监管专业人士设计AI工具的Ulka Patil认为，帮助人们发现、核查并纠正AI错误是一个设计问题，并提出了五种模式。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3LU5T1BniaPrIQMhMQm0fw.png",
-                "cap": "从人们最需要的开始；这些模式组合使用效果最好"
-              },
-              {
-                "t": "p",
-                "x": "1. 展示出处：链接到每条论断背后的确切段落，而不仅是文档。2. 用平实的语言解释：为每个重要的AI结果附上AI得出该结果的原因。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*aNQtDvHSjVY-FJijHeC4Zw.png",
-                "cap": "线框图 · 引用说明其内容，预览显示细节，点击即可打开确切段落"
-              },
-              {
-                "t": "p",
-                "x": "3. 诚实标注信号：相比“87% 匹配”这类原始分数，审阅者更喜欢高/中/低风险等级。4. 让人保持掌控：AI建议要可见、可编辑、可撤销。5. 让核查保持一致：同一个标签在每个界面上都必须表示同一含义。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*MRv8-kY8aUunBtezCoP7jw.png",
-                "cap": "一条典型的核查路径，五种模式全部为其提供支撑"
-              },
-              {
-                "t": "p",
-                "x": "任何AI体验都可以用一个快速测试来检验：人们能否理解答案、核查证据、看出AI有多确定，并在不丢失当前位置的情况下纠正错误？"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Cinco patrones UX para ayudar\na verificar resultados de AI",
-          "body": "Una diseñadora de LexisNexis comparte cinco patrones UX para verificar resultados de AI cuando un error sale caro.",
-          "mini_headline": "Diseñar AI para verificar",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Una base de datos pública registra ya más de 2,200 decisiones de tribunales y juzgados con contenido AI-hallucinated, es decir, alucinado por la AI. Ulka Patil, que diseña herramientas de AI para profesionales del ámbito legal y regulatorio, sostiene que ayudar a las personas a detectar, comprobar y corregir los errores de la AI es un problema de diseño, y propone cinco patrones."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3LU5T1BniaPrIQMhMQm0fw.png",
-                "cap": "Empezar por lo que la gente más necesita; los patrones funcionan mejor juntos"
-              },
-              {
-                "t": "p",
-                "x": "1. Mostrar de dónde viene: enlazar el pasaje exacto que respalda cada afirmación, no solo el documento. 2. Explicarlo en lenguaje llano: acompañar cada resultado importante de la AI con el motivo por el que la AI llegó a él."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*aNQtDvHSjVY-FJijHeC4Zw.png",
-                "cap": "Wireframe · la cita indica qué es, una vista previa muestra los detalles y un clic abre el pasaje exacto"
-              },
-              {
-                "t": "p",
-                "x": "3. Etiquetar las señales con honestidad: los revisores preferían niveles de riesgo Alto / Medio / Bajo a puntuaciones brutas como \"87% de coincidencia\". 4. Mantener el control en manos de las personas: las sugerencias de la AI deben ser visibles, editables y reversibles. 5. Hacer coherente la verificación: una etiqueta debe significar lo mismo en todas las pantallas."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*MRv8-kY8aUunBtezCoP7jw.png",
-                "cap": "Un recorrido típico de verificación, respaldado por los cinco patrones"
-              },
-              {
-                "t": "p",
-                "x": "Una prueba rápida para cualquier experiencia de AI: ¿pueden las personas entender la respuesta, comprobar sus pruebas, ver cuán segura está la AI y corregir errores sin perder el hilo?"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 결과 검증을 돕는\nUX 패턴 다섯 가지",
-          "body": "LexisNexis 디자이너가 AI 검증을 돕는 UX 패턴 다섯 가지를 소개한다.",
-          "mini_headline": "검증을 위한 AI 디자인",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AI-hallucinated 콘텐츠, 즉 AI 환각이 얽힌 법원·심판 판결을 추적하는 공개 데이터베이스에는 현재 2,200건이 넘는 사례가 쌓였다. 법률·규제 전문가용 AI 도구를 디자인하는 Ulka Patil은 사람들이 AI의 실수를 발견하고 확인하고 바로잡도록 돕는 일이 디자인 문제라고 주장하며 다섯 가지 패턴을 제시한다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3LU5T1BniaPrIQMhMQm0fw.png",
-                "cap": "사람들에게 가장 필요한 것부터 시작한다. 패턴은 함께 쓸 때 가장 효과적이다"
-              },
-              {
-                "t": "p",
-                "x": "1. 출처를 보여 준다: 문서만이 아니라 각 주장의 근거가 된 정확한 구절에 연결한다. 2. 쉬운 말로 설명한다: 중요한 AI 결과마다 AI가 그 결론에 이른 이유를 함께 보여 준다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*aNQtDvHSjVY-FJijHeC4Zw.png",
-                "cap": "와이어프레임 · 인용은 그것이 무엇인지 알려 주고, 미리보기는 세부를 보여 주며, 클릭하면 정확한 구절이 열린다"
-              },
-              {
-                "t": "p",
-                "x": "3. 신호에 정직하게 라벨을 붙인다: 검토자들은 \"87% 일치\" 같은 원점수보다 높음/중간/낮음 위험 등급을 선호했다. 4. 통제권을 사람에게 둔다: AI 제안을 보이게, 편집할 수 있게, 되돌릴 수 있게 유지한다. 5. 확인 방식을 일관되게 한다: 하나의 라벨은 모든 화면에서 같은 뜻이어야 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*MRv8-kY8aUunBtezCoP7jw.png",
-                "cap": "다섯 가지 패턴이 모두 뒷받침하는 전형적인 검증 여정 하나"
-              },
-              {
-                "t": "p",
-                "x": "어떤 AI 경험에든 쓸 수 있는 간단한 테스트가 있다. 사람들이 답을 이해하고, 근거를 확인하고, AI가 얼마나 확신하는지 보고, 작업 흐름을 잃지 않고 실수를 고칠 수 있는가?"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI出力の検証を助ける\n五つのUXパターン",
-          "body": "LexisNexisのデザイナーが、AI出力の検証を助ける五つのUXパターンを紹介する。",
-          "mini_headline": "検証のためのAIデザイン",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AI-hallucinated(AIの幻覚による)コンテンツが絡んだ裁判所や審判所の判断を追跡する公開データベースには、現在2,200件を超える事例が記録されている。法務・規制分野の専門家向けAIツールを設計するUlka Patilは、人がAIの誤りを見つけ、確かめ、正す手助けをすることはデザインの問題だと主張し、五つのパターンを示す。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3LU5T1BniaPrIQMhMQm0fw.png",
-                "cap": "人々が最も必要とするものから始める。パターンは組み合わせると最も効果を発揮する"
-              },
-              {
-                "t": "p",
-                "x": "1. 出典を示す：文書だけでなく、各主張の根拠となる正確な箇所にリンクする。2. 平易な言葉で説明する：重要なAIの結果ごとに、AIがその結論に至った理由を添える。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*aNQtDvHSjVY-FJijHeC4Zw.png",
-                "cap": "ワイヤーフレーム · 引用がそれが何かを示し、プレビューが詳細を表示し、クリックで正確な箇所が開く"
-              },
-              {
-                "t": "p",
-                "x": "3. シグナルに正直なラベルを付ける：レビュアーは「87% 一致」のような生のスコアより、高・中・低のリスクレベルを好んだ。4. 主導権を人に残す：AIの提案を見える状態に保ち、編集でき、元に戻せるようにする。5. 確認を一貫させる：ラベルはどの画面でも同じ意味でなければならない。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*MRv8-kY8aUunBtezCoP7jw.png",
-                "cap": "五つのパターンすべてが支える、典型的な検証の流れの一例"
-              },
-              {
-                "t": "p",
-                "x": "あらゆるAI体験に使える簡単なテストがある。人は答えを理解し、その根拠を確認し、AIの確信度を把握し、作業の流れを見失わずに誤りを直せるだろうか。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "五种UX设计模式\n帮用户核查AI输出",
-          "body": "LexisNexis一位设计师分享五种UX模式，帮助专业人士在出错代价高时核查AI输出。",
-          "mini_headline": "为核查而设计AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "一个公开数据库目前追踪了2,200多起涉及AI-hallucinated（AI幻觉）内容的法院和裁判庭判决。为法律和监管专业人士设计AI工具的Ulka Patil认为，帮助人们发现、核查并纠正AI错误是一个设计问题，并提出了五种模式。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3LU5T1BniaPrIQMhMQm0fw.png",
-                "cap": "从人们最需要的开始；这些模式组合使用效果最好"
-              },
-              {
-                "t": "p",
-                "x": "1. 展示出处：链接到每条论断背后的确切段落，而不仅是文档。2. 用平实的语言解释：为每个重要的AI结果附上AI得出该结果的原因。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*aNQtDvHSjVY-FJijHeC4Zw.png",
-                "cap": "线框图 · 引用说明其内容，预览显示细节，点击即可打开确切段落"
-              },
-              {
-                "t": "p",
-                "x": "3. 诚实标注信号：相比“87% 匹配”这类原始分数，审阅者更喜欢高/中/低风险等级。4. 让人保持掌控：AI建议要可见、可编辑、可撤销。5. 让核查保持一致：同一个标签在每个界面上都必须表示同一含义。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*MRv8-kY8aUunBtezCoP7jw.png",
-                "cap": "一条典型的核查路径，五种模式全部为其提供支撑"
-              },
-              {
-                "t": "p",
-                "x": "任何AI体验都可以用一个快速测试来检验：人们能否理解答案、核查证据、看出AI有多确定，并在不丢失当前位置的情况下纠正错误？"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Cinco patrones UX para ayudar\na verificar resultados de AI",
-          "body": "Una diseñadora de LexisNexis comparte cinco patrones UX para verificar resultados de AI cuando un error sale caro.",
-          "mini_headline": "Diseñar AI para verificar",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Una base de datos pública registra ya más de 2,200 decisiones de tribunales y juzgados con contenido AI-hallucinated, es decir, alucinado por la AI. Ulka Patil, que diseña herramientas de AI para profesionales del ámbito legal y regulatorio, sostiene que ayudar a las personas a detectar, comprobar y corregir los errores de la AI es un problema de diseño, y propone cinco patrones."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*3LU5T1BniaPrIQMhMQm0fw.png",
-                "cap": "Empezar por lo que la gente más necesita; los patrones funcionan mejor juntos"
-              },
-              {
-                "t": "p",
-                "x": "1. Mostrar de dónde viene: enlazar el pasaje exacto que respalda cada afirmación, no solo el documento. 2. Explicarlo en lenguaje llano: acompañar cada resultado importante de la AI con el motivo por el que la AI llegó a él."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*aNQtDvHSjVY-FJijHeC4Zw.png",
-                "cap": "Wireframe · la cita indica qué es, una vista previa muestra los detalles y un clic abre el pasaje exacto"
-              },
-              {
-                "t": "p",
-                "x": "3. Etiquetar las señales con honestidad: los revisores preferían niveles de riesgo Alto / Medio / Bajo a puntuaciones brutas como \"87% de coincidencia\". 4. Mantener el control en manos de las personas: las sugerencias de la AI deben ser visibles, editables y reversibles. 5. Hacer coherente la verificación: una etiqueta debe significar lo mismo en todas las pantallas."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*MRv8-kY8aUunBtezCoP7jw.png",
-                "cap": "Un recorrido típico de verificación, respaldado por los cinco patrones"
-              },
-              {
-                "t": "p",
-                "x": "Una prueba rápida para cualquier experiencia de AI: ¿pueden las personas entender la respuesta, comprobar sus pruebas, ver cuán segura está la AI y corregir errores sin perder el hilo?"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-agent-spacing-scale",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "코딩 에이전트를\n스페이싱 스케일 안에",
-      "body": "코딩 에이전트에 스페이싱 스케일을 주고 mt-[13px] 같은 임시 값을 막는다.",
-      "mini_headline": "임의 간격 값 금지",
-      "tool": "Design Tokens",
-      "source": "DEV Community",
-      "url": "https://dev.to/sherotree/pin-agent-spacing-to-the-existing-spacing-scale-no-magic-margin-or-padding-values-2je7",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "한 PR이 mt-[13px], gap-[18px], p-[22px]로 툴바를 맞춘다. 테마에는 이미 스페이싱 스케일이 있다. 새 숫자는 그 값과 비슷하지만 스케일 위에 있지 않다. 다음 에이전트는 또 다른 값 묶음을 만들어 낼 것이다."
-          },
-          {
-            "t": "p",
-            "x": "모델은 스크린샷이나 Figma의 픽셀 값을 그대로 베껴 임의 유틸리티나 CSS 리터럴로 붙인다. 거의 맞는 값이 쌓인 묶음(12px, 13px, 14px)은 살짝 느슨한 토큰 하나보다 나중에 정리하기가 더 어렵다."
-          },
-          {
-            "t": "p",
-            "x": "스페이싱 정책은 간단하다. margin, padding, gap에는 기존 스페이싱 스케일을 쓴다. 기능 CSS에 임의 픽셀 유틸리티는 쓰지 않는다. 새 단계가 필요하면 이름을 붙이고 문서화한 토큰 변경으로 추가한다. 앱 다른 곳에서 쓰지 않는 값으로 화면 하나만 \"커닝\"하지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "에이전트에게 레이아웃 작업을 맡길 때는 프롬프트에 스케일을 붙여 넣는다. \"스크린샷 값이 18px 이고 가장 가까운 단계가 16px 이면, 그 단계를 쓰고 차이를 적어 두라\" 같은 식이다. 리뷰 때는 diff에서 [Npx]와 margin·padding의 맨 px 값을 검색한다."
-          },
-          {
-            "t": "p",
-            "x": "기능 파일에 들어간 임의 mt-[13px] / gap-[18px]는 거부한다. 가장 가까운 단계를 골랐다고 문서로 남겼거나 이름 붙은 단계를 추가하는 토큰 PR이라면 받아들인다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Keep coding agents on\nthe spacing scale",
-          "body": "Hand coding agents the design system's spacing scale and reject one-off values like mt-[13px].",
-          "mini_headline": "No magic\nspacing values",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "The PR lines up a toolbar with mt-[13px], gap-[18px], and p-[22px]. The theme already has a spacing scale. The new numbers are close. They are not on the scale, and the next agent will invent another set."
-              },
-              {
-                "t": "p",
-                "x": "The model copies a screenshot or a Figma pixel value and pastes it as an arbitrary utility or a literal in CSS. A stack of near-miss values (12px, 13px, 14px) is harder to tighten later than one slightly loose token."
-              },
-              {
-                "t": "p",
-                "x": "A simple spacing policy: margin, padding, and gap use the existing spacing scale; no arbitrary pixel utilities in feature CSS; a new step is a token change, named and documented; do not \"kern\" a single screen with values the rest of the app does not use."
-              },
-              {
-                "t": "p",
-                "x": "Paste the scale into the prompt when the agent is doing layout, e.g. \"If a screenshot uses 18px and the nearest step is 16px, use the step and note the difference.\" In review, search the diff for [Npx] and bare px in margin and padding."
-              },
-              {
-                "t": "p",
-                "x": "Reject arbitrary mt-[13px] / gap-[18px] in a feature file; accept a documented choice of the nearest step, or a token PR that adds a named step."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "코딩 에이전트를\n스페이싱 스케일 안에",
-          "body": "코딩 에이전트에 스페이싱 스케일을 주고 mt-[13px] 같은 임시 값을 막는다.",
-          "mini_headline": "임의 간격 값 금지",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "한 PR이 mt-[13px], gap-[18px], p-[22px]로 툴바를 맞춘다. 테마에는 이미 스페이싱 스케일이 있다. 새 숫자는 그 값과 비슷하지만 스케일 위에 있지 않다. 다음 에이전트는 또 다른 값 묶음을 만들어 낼 것이다."
-              },
-              {
-                "t": "p",
-                "x": "모델은 스크린샷이나 Figma의 픽셀 값을 그대로 베껴 임의 유틸리티나 CSS 리터럴로 붙인다. 거의 맞는 값이 쌓인 묶음(12px, 13px, 14px)은 살짝 느슨한 토큰 하나보다 나중에 정리하기가 더 어렵다."
-              },
-              {
-                "t": "p",
-                "x": "스페이싱 정책은 간단하다. margin, padding, gap에는 기존 스페이싱 스케일을 쓴다. 기능 CSS에 임의 픽셀 유틸리티는 쓰지 않는다. 새 단계가 필요하면 이름을 붙이고 문서화한 토큰 변경으로 추가한다. 앱 다른 곳에서 쓰지 않는 값으로 화면 하나만 \"커닝\"하지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트에게 레이아웃 작업을 맡길 때는 프롬프트에 스케일을 붙여 넣는다. \"스크린샷 값이 18px 이고 가장 가까운 단계가 16px 이면, 그 단계를 쓰고 차이를 적어 두라\" 같은 식이다. 리뷰 때는 diff에서 [Npx]와 margin·padding의 맨 px 값을 검색한다."
-              },
-              {
-                "t": "p",
-                "x": "기능 파일에 들어간 임의 mt-[13px] / gap-[18px]는 거부한다. 가장 가까운 단계를 골랐다고 문서로 남겼거나 이름 붙은 단계를 추가하는 토큰 PR이라면 받아들인다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "コーディングエージェントを\nスペーシング尺度に",
-          "body": "エージェントにスペーシング尺度を渡し、mt-[13px]のような単発の値は退ける。",
-          "mini_headline": "場当たり的な余白値は使わない",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "あるPRがmt-[13px]、gap-[18px]、p-[22px]でツールバーを揃えている。テーマにはすでにスペーシングスケールがある。新しい数値はそれに近い。だがスケール上の値ではなく、次のエージェントはまた別の値のセットを作り出すだろう。"
-              },
-              {
-                "t": "p",
-                "x": "モデルはスクリーンショットやFigmaのピクセル値を写し取り、任意のユーティリティやCSSのリテラルとして貼り付ける。微妙にずれた値の積み重ね(12px、13px、14px)は、少し緩いトークン一つよりも後から締め直すのが難しい。"
-              },
-              {
-                "t": "p",
-                "x": "シンプルなスペーシングのポリシーはこうだ。margin、padding、gapは既存のスペーシングスケールを使う。機能のCSSでは任意のピクセルユーティリティを使わない。新しい段階はトークンの変更として、名前を付けて文書化する。アプリの他の部分で使わない値で、一つの画面だけを「カーニング」しない。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントがレイアウトを担当するときは、プロンプトにスケールを貼り付ける。たとえば「スクリーンショットが18px を使い、最も近い段階が16px なら、その段階を使って差分を記録せよ」。レビューでは、diffの中から[Npx]や、marginとpaddingの裸のpx値を検索する。"
-              },
-              {
-                "t": "p",
-                "x": "機能ファイル内の任意のmt-[13px] / gap-[18px]は却下する。最も近い段階を選んだと文書に残したもの、または名前付きの段階を追加するトークンPRは受け入れる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "让编程智能体\n守住间距刻度",
-          "body": "把设计系统的间距刻度交给编程智能体，拒绝mt-[13px]这类一次性数值。",
-          "mini_headline": "拒绝随意的间距值",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "这个PR用mt-[13px]、gap-[18px]和p-[22px]来对齐工具栏。主题里早已有一套间距刻度。新数值与之接近，却不在刻度上，下一个智能体还会再发明一套。"
-              },
-              {
-                "t": "p",
-                "x": "模型照抄截图或Figma里的像素值，把它作为任意工具类或CSS字面量粘贴进去。一堆差一点的数值（12px、13px、14px）比一个稍微宽松的token更难在日后收紧。"
-              },
-              {
-                "t": "p",
-                "x": "一套简单的间距规则：margin、padding和gap使用现有的间距刻度；功能CSS中不用任意像素工具类；新增一级属于token变更，要命名并写入文档；不要用应用其余部分没用到的数值去给单个界面“调字距”。"
-              },
-              {
-                "t": "p",
-                "x": "当智能体在做布局时，把刻度贴进提示词，例如：“如果截图用的是18px ，而最近的一级是16px ，就用那一级并注明差异。”评审时，在diff中搜索[Npx]以及margin和padding里的裸px值。"
-              },
-              {
-                "t": "p",
-                "x": "拒绝功能文件中的任意mt-[13px] / gap-[18px]；可以接受有文档说明的就近取级，或新增一个命名级别的token PR。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Mantén a los agentes de código\ndentro de la escala de espaciado",
-          "body": "Da a los agentes de código la escala de espaciado del sistema de diseño y rechaza valores sueltos como mt-[13px].",
-          "mini_headline": "Sin valores de espaciado mágicos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "El PR alinea una barra de herramientas con mt-[13px], gap-[18px] y p-[22px]. El tema ya tiene una escala de espaciado. Los nuevos números se acercan, pero no están en la escala, y el próximo agente inventará otro conjunto."
-              },
-              {
-                "t": "p",
-                "x": "El modelo copia una captura de pantalla o un valor en píxeles de Figma y lo pega como utilidad arbitraria o como literal en CSS. Una pila de valores casi iguales (12px, 13px, 14px) es más difícil de ajustar después que un único token algo holgado."
-              },
-              {
-                "t": "p",
-                "x": "Una política de espaciado sencilla: margin, padding y gap usan la escala de espaciado existente; nada de utilidades de píxeles arbitrarias en el CSS de una funcionalidad; un paso nuevo es un cambio de token, con nombre y documentado; no hay que \"kernear\" una sola pantalla con valores que el resto de la app no usa."
-              },
-              {
-                "t": "p",
-                "x": "Pega la escala en el prompt cuando el agente esté maquetando, por ejemplo: \"Si una captura usa 18px y el paso más cercano es 16px, usa el paso y anota la diferencia\". En la revisión, busca en el diff [Npx] y px sueltos en margin y padding."
-              },
-              {
-                "t": "p",
-                "x": "Rechaza mt-[13px] / gap-[18px] arbitrarios en un archivo de funcionalidad; acepta una elección documentada del paso más cercano o un PR de tokens que añada un paso con nombre."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "코딩 에이전트를\n스페이싱 스케일 안에",
-          "body": "코딩 에이전트에 스페이싱 스케일을 주고 mt-[13px] 같은 임시 값은 막는다.",
-          "mini_headline": "임의 간격 값 금지",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "PR이 mt-[13px], gap-[18px], p-[22px]로 툴바를 정렬한다. 테마에는 이미 스페이싱 스케일이 있다. 새 숫자들은 그 값에 가깝다. 하지만 스케일 위에 있지 않고, 다음 에이전트는 또 다른 값 세트를 만들어 낼 것이다."
-              },
-              {
-                "t": "p",
-                "x": "모델은 스크린샷이나 Figma의 픽셀 값을 베껴 임의 유틸리티나 CSS 리터럴로 붙여 넣는다. 거의 맞는 값이 쌓인 묶음(12px, 13px, 14px)은 살짝 느슨한 토큰 하나보다 나중에 정리하기가 더 어렵다."
-              },
-              {
-                "t": "p",
-                "x": "간단한 스페이싱 정책은 이렇다. margin, padding, gap은 기존 스페이싱 스케일을 쓴다. 기능 CSS에는 임의 픽셀 유틸리티를 쓰지 않는다. 새 단계는 이름을 붙이고 문서화한 토큰 변경으로 추가한다. 앱의 나머지 부분에서 쓰지 않는 값으로 화면 하나만 \"커닝\"하지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트가 레이아웃 작업을 할 때는 프롬프트에 스케일을 붙여 넣는다. 예를 들면 \"스크린샷 값이 18px 이고 가장 가까운 단계가 16px 이면, 그 단계를 쓰고 차이를 적어 두라\"는 식이다. 리뷰에서는 diff에서 [Npx]와 margin·padding의 맨 px 값을 검색한다."
-              },
-              {
-                "t": "p",
-                "x": "기능 파일의 임의 mt-[13px] / gap-[18px]는 거부한다. 가장 가까운 단계를 골랐다고 문서로 남긴 경우나, 이름 붙은 단계를 추가하는 토큰 PR은 받아들인다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "コーディングエージェントを\nスペーシング尺度に",
-          "body": "エージェントにスペーシング尺度を渡し、mt-[13px]のような単発の値は退ける。",
-          "mini_headline": "場当たり的な余白値は使わない",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "あるPRがmt-[13px]、gap-[18px]、p-[22px]でツールバーを揃えている。テーマにはすでにスペーシングスケールがある。新しい数値はそれに近い。だがスケール上の値ではなく、次のエージェントはまた別の値のセットを作り出すだろう。"
-              },
-              {
-                "t": "p",
-                "x": "モデルはスクリーンショットやFigmaのピクセル値を写し取り、任意のユーティリティやCSSのリテラルとして貼り付ける。微妙にずれた値の積み重ね(12px、13px、14px)は、少し緩いトークン一つよりも後から締め直すのが難しい。"
-              },
-              {
-                "t": "p",
-                "x": "シンプルなスペーシングのポリシーはこうだ。margin、padding、gapは既存のスペーシングスケールを使う。機能のCSSでは任意のピクセルユーティリティを使わない。新しい段階はトークンの変更として、名前を付けて文書化する。アプリの他の部分で使わない値で、一つの画面だけを「カーニング」しない。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントがレイアウトを担当するときは、プロンプトにスケールを貼り付ける。たとえば「スクリーンショットが18px を使い、最も近い段階が16px なら、その段階を使って差分を記録せよ」。レビューでは、diffの中から[Npx]や、marginとpaddingの裸のpx値を検索する。"
-              },
-              {
-                "t": "p",
-                "x": "機能ファイル内の任意のmt-[13px] / gap-[18px]は却下する。最も近い段階を選んだと文書に残したもの、または名前付きの段階を追加するトークンPRは受け入れる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "让编程智能体\n守住间距刻度",
-          "body": "把设计系统的间距刻度交给编程智能体，拒绝mt-[13px]这类一次性数值。",
-          "mini_headline": "拒绝随意的间距值",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "这个PR用mt-[13px]、gap-[18px]和p-[22px]来对齐工具栏。主题里早已有一套间距刻度。新数值与之接近，却不在刻度上，下一个智能体还会再发明一套。"
-              },
-              {
-                "t": "p",
-                "x": "模型照抄截图或Figma里的像素值，把它作为任意工具类或CSS字面量粘贴进去。一堆差一点的数值（12px、13px、14px）比一个稍微宽松的token更难在日后收紧。"
-              },
-              {
-                "t": "p",
-                "x": "一套简单的间距规则：margin、padding和gap使用现有的间距刻度；功能CSS中不用任意像素工具类；新增一级属于token变更，要命名并写入文档；不要用应用其余部分没用到的数值去给单个界面“调字距”。"
-              },
-              {
-                "t": "p",
-                "x": "当智能体在做布局时，把刻度贴进提示词，例如：“如果截图用的是18px ，而最近的一级是16px ，就用那一级并注明差异。”评审时，在diff中搜索[Npx]以及margin和padding里的裸px值。"
-              },
-              {
-                "t": "p",
-                "x": "拒绝功能文件中的任意mt-[13px] / gap-[18px]；可以接受有文档说明的就近取级，或新增一个命名级别的token PR。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Mantén a los agentes de código\ndentro de la escala de espaciado",
-          "body": "Da a los agentes de código la escala de espaciado del sistema de diseño y rechaza valores sueltos como mt-[13px].",
-          "mini_headline": "Sin valores de espaciado mágicos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "El PR alinea una barra de herramientas con mt-[13px], gap-[18px] y p-[22px]. El tema ya tiene una escala de espaciado. Los nuevos números se acercan, pero no están en la escala, y el próximo agente inventará otro conjunto."
-              },
-              {
-                "t": "p",
-                "x": "El modelo copia una captura de pantalla o un valor en píxeles de Figma y lo pega como utilidad arbitraria o como literal en CSS. Una pila de valores casi iguales (12px, 13px, 14px) es más difícil de ajustar después que un único token algo holgado."
-              },
-              {
-                "t": "p",
-                "x": "Una política de espaciado sencilla: margin, padding y gap usan la escala de espaciado existente; nada de utilidades de píxeles arbitrarias en el CSS de una funcionalidad; un paso nuevo es un cambio de token, con nombre y documentado; no hay que \"kernear\" una sola pantalla con valores que el resto de la app no usa."
-              },
-              {
-                "t": "p",
-                "x": "Pega la escala en el prompt cuando el agente esté maquetando, por ejemplo: \"Si una captura usa 18px y el paso más cercano es 16px, usa el paso y anota la diferencia\". En la revisión, busca en el diff [Npx] y px sueltos en margin y padding."
-              },
-              {
-                "t": "p",
-                "x": "Rechaza mt-[13px] / gap-[18px] arbitrarios en un archivo de funcionalidad; acepta una elección documentada del paso más cercano o un PR de tokens que añada un paso con nombre."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "skecoplant-axen-design-ai",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "SK에코플랜트, 설계\n특화 AI 'AXen' 가동",
-      "body": "AXen은 축적된 설계 데이터로 배치안을 제안하고 간섭을 찾아 수정안을 낸다.",
-      "mini_headline": "SK에코플랜트\n설계 AI 가동",
-      "tool": "Text-to-CAD",
-      "source": "EBN",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732724",
-      "accent": "#3b6bff",
-      "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.ebn.co.kr/news/photo/202611/1732724_769078_4446.png",
-            "cap": "▶ [제공=SK에코플랜트]"
+            "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
           },
           {
             "t": "p",
-            "x": "SK에코플랜트가 설계 과정에서 반복적으로 발생하는 검토 업무를 인공지능(AI)으로 대체한다. 설계 초기 단계부터 장비 배치와 시설물 간 충돌 가능성을 분석하고 관련 기술자료를 찾는 데 AI를 활용해 업무 시간을 줄인다는 구상이다."
+            "x": "Anthropic이 Claude Artifacts를 Mac이나 Windows 앱으로 설치할 수 있게 했다. 오늘부터 베타로 제공되며, macOS 또는 Windows용 Claude 최신 버전이 있어야 한다. 채팅에서 Artifact를 만들면 코드 한 줄 쓰지 않고 독에 둘 수 있다."
           },
           {
             "t": "p",
-            "x": "23일 SK에코플랜트에 따르면 설계 업무에 특화된 AI 플랫폼 'AXen(엑센)'을 도입해 운영에 들어갔다. 기존에 설계 담당자가 개별적으로 처리하던 자료 검색과 배치안 검토 등을 하나의 플랫폼에서 수행할 수 있도록 한 것이 특징이다."
+            "x": "설치된 앱은 OS APIs와 커넥터, Claude 자체를 쓸 수 있다. 그래서 메뉴 막대 항목을 추가하거나 투명한 창을 만들고 알림을 보내는 일도 가능하다. 사용자 지정 터미널, 파일 관리자, 동영상 편집기가 그 예이고, 직접 써 볼 데모도 여럿 있다."
+          },
+          {
+            "t": "video",
+            "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
           },
           {
             "t": "p",
-            "x": "건설 프로젝트에서는 공간이나 장비 배치가 변경되면 주변 설비와의 간섭 여부를 다시 확인하고 관련 설계 기준과 법규를 검토해야 한다. 변경 내용에 따라 기존 자료를 수정하거나 새로운 배치안을 마련하는 작업도 뒤따른다."
-          },
-          {
-            "t": "p",
-            "x": "AXen은 이러한 과정을 지원하도록 개발됐다. 기존에 축적한 설계 데이터를 바탕으로 공간과 장비 배치안을 제시하고 여러 대안을 비교할 수 있도록 한다. 설비와 시설물이 서로 간섭하는 부분을 분석해 해결 방안을 제안하는 기능도 포함됐다."
-          },
-          {
-            "t": "p",
-            "x": "설계 기준과 법규, 기술정보를 한곳에서 검색할 수 있어 담당자가 자료를 개별적으로 확인하는 과정도 줄일 수 있다. SK에코플랜트는 이를 통해 초기 설계뿐 아니라 설계 변경 과정에서 발생하는 반복 업무를 줄이고 부서 간 검토와 의사결정에 걸리는 시간을 단축할 수 있을 것으로 보고 있다."
-          },
-          {
-            "t": "p",
-            "x": "AI가 제시한 결과를 그대로 확정하는 방식은 아니다. 설계 담당자가 검토한 최종 결과를 데이터로 축적하고 이를 다시 AI의 정확도와 활용성을 높이는 데 활용한다. 플랫폼 명칭인 AXen은 AI 전환을 뜻하는 'AX(AI Transformation)'와 설계(Engineering)를 결합한 것이다."
-          },
-          {
-            "t": "p",
-            "x": "설계 분야의 AI 도입은 SK에코플랜트가 추진 중인 전사적 업무 자동화의 일환이다. AI·반도체 중심으로 사업 영역을 확대하는 가운데 구성원별로 AI 에이전트를 활용하는 '1인 1에이전트' 체계도 도입하고 있다."
-          },
-          {
-            "t": "p",
-            "x": "건설 현장과 계약 관리 업무에도 AI 적용을 준비하고 있다. 사내 AI 에이전트톤(Agenthon)에서 발굴한 현장 원가 통합 조회·분석, 공사 견적 검토, 대외 공문 및 계약 검토 등 20여 개 과제를 대상으로 실무 적용을 위한 개발을 진행 중이다."
-          },
-          {
-            "t": "p",
-            "x": "SK에코플랜트는 AXen을 시작으로 설계 업무에서 AI가 처리할 수 있는 범위를 단계적으로 넓힐 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "SK에코플랜트 관계자는 \"이번 AI 설계 플랫폼은 전사 AX 전환을 설계 업무에 구체적으로 적용한 사례\"라며 \"앞으로도 업무별 특성에 맞는 AI 활용 체계를 확대해 일하는 방식을 혁신하고, 사업 경쟁력과 프로젝트 수행 효율을 지속적으로 높여 나가겠다\"고 말했다."
+            "x": "Anthropic의 Felix Rieseberg는 X에 당분간 Claude 계정과 Claude 앱이 필요하지만 무료 계정이면 충분하다고 썼다. Apple Developer 계정이 있으면 Claude에게 독립 실행형 앱을 만들게 할 수도 있다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "SK에코플랜트, 설계\n특화 AI 'AXen' 가동",
-          "body": "AXen은 축적된 설계 데이터로 배치안을 제안하고 간섭을 찾아 수정안을 낸다.",
-          "mini_headline": "SK에코플랜트\n설계 AI 가동",
+        "en": {
+          "headline": "Claude Artifacts become\ninstallable desktop apps",
+          "body": "Claude Artifacts built in chat now install as beta Mac and Windows apps that can use OS APIs and connectors.",
+          "mini_headline": "Claude Artifacts go desktop",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.ebn.co.kr/news/photo/202611/1732724_769078_4446.png",
-                "cap": "▶ [제공=SK에코플랜트]"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
               },
               {
                 "t": "p",
-                "x": "SK에코플랜트가 설계 과정에서 반복적으로 발생하는 검토 업무를 인공지능(AI)으로 대체한다. 설계 초기 단계부터 장비 배치와 시설물 간 충돌 가능성을 분석하고 관련 기술자료를 찾는 데 AI를 활용해 업무 시간을 줄인다는 구상이다."
+                "x": "Anthropic now lets you install Claude Artifacts as Mac or Windows apps. The feature is in beta as of today and requires the latest version of Claude for macOS or Windows. You build an Artifact in chat and keep it in the dock without writing any code."
               },
               {
                 "t": "p",
-                "x": "23일 SK에코플랜트에 따르면 설계 업무에 특화된 AI 플랫폼 'AXen(엑센)'을 도입해 운영에 들어갔다. 기존에 설계 담당자가 개별적으로 처리하던 자료 검색과 배치안 검토 등을 하나의 플랫폼에서 수행할 수 있도록 한 것이 특징이다."
+                "x": "The installed apps can use OS APIs, connectors, and Claude itself. That lets an app add menu bar items, create transparent windows, and send notifications, among other things. Examples include custom terminals, file managers, and video editors. Several demos are available to try."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
               },
               {
                 "t": "p",
-                "x": "건설 프로젝트에서는 공간이나 장비 배치가 변경되면 주변 설비와의 간섭 여부를 다시 확인하고 관련 설계 기준과 법규를 검토해야 한다. 변경 내용에 따라 기존 자료를 수정하거나 새로운 배치안을 마련하는 작업도 뒤따른다."
-              },
-              {
-                "t": "p",
-                "x": "AXen은 이러한 과정을 지원하도록 개발됐다. 기존에 축적한 설계 데이터를 바탕으로 공간과 장비 배치안을 제시하고 여러 대안을 비교할 수 있도록 한다. 설비와 시설물이 서로 간섭하는 부분을 분석해 해결 방안을 제안하는 기능도 포함됐다."
-              },
-              {
-                "t": "p",
-                "x": "설계 기준과 법규, 기술정보를 한곳에서 검색할 수 있어 담당자가 자료를 개별적으로 확인하는 과정도 줄일 수 있다. SK에코플랜트는 이를 통해 초기 설계뿐 아니라 설계 변경 과정에서 발생하는 반복 업무를 줄이고 부서 간 검토와 의사결정에 걸리는 시간을 단축할 수 있을 것으로 보고 있다."
-              },
-              {
-                "t": "p",
-                "x": "AI가 제시한 결과를 그대로 확정하는 방식은 아니다. 설계 담당자가 검토한 최종 결과를 데이터로 축적하고 이를 다시 AI의 정확도와 활용성을 높이는 데 활용한다. 플랫폼 명칭인 AXen은 AI 전환을 뜻하는 'AX(AI Transformation)'와 설계(Engineering)를 결합한 것이다."
-              },
-              {
-                "t": "p",
-                "x": "설계 분야의 AI 도입은 SK에코플랜트가 추진 중인 전사적 업무 자동화의 일환이다. AI·반도체 중심으로 사업 영역을 확대하는 가운데 구성원별로 AI 에이전트를 활용하는 '1인 1에이전트' 체계도 도입하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "건설 현장과 계약 관리 업무에도 AI 적용을 준비하고 있다. 사내 AI 에이전트톤(Agenthon)에서 발굴한 현장 원가 통합 조회·분석, 공사 견적 검토, 대외 공문 및 계약 검토 등 20여 개 과제를 대상으로 실무 적용을 위한 개발을 진행 중이다."
-              },
-              {
-                "t": "p",
-                "x": "SK에코플랜트는 AXen을 시작으로 설계 업무에서 AI가 처리할 수 있는 범위를 단계적으로 넓힐 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "SK에코플랜트 관계자는 \"이번 AI 설계 플랫폼은 전사 AX 전환을 설계 업무에 구체적으로 적용한 사례\"라며 \"앞으로도 업무별 특성에 맞는 AI 활용 체계를 확대해 일하는 방식을 혁신하고, 사업 경쟁력과 프로젝트 수행 효율을 지속적으로 높여 나가겠다\"고 말했다."
+                "x": "Anthropic's Felix Rieseberg wrote on X that you need a Claude account and the Claude app for now, though a free account is enough. If you have an Apple Developer account, you can also have Claude build a standalone app."
               }
             ]
           }
         },
-        "en": {
-          "headline": "SK ecoplant puts design AI\n'AXen' into operation",
-          "body": "AXen draws on accumulated design data to propose layouts, spot clashes and suggest fixes.",
-          "mini_headline": "SK ecoplant launches design AI",
+        "ko": {
+          "headline": "Artifacts, 이제\n설치형 데스크톱 앱",
+          "body": "Claude Artifacts가 Mac·Windows용 베타 앱으로 설치된다.",
+          "mini_headline": "Claude Artifacts, 데스크톱으로",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.ebn.co.kr/news/photo/202611/1732724_769078_4446.png",
-                "cap": "▶ [Provided by SK ecoplant]"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
               },
               {
                 "t": "p",
-                "x": "SK ecoplant is replacing repetitive review work in the design process with artificial intelligence (AI). The plan is to cut working hours by using AI from the earliest design stage to analyse equipment layouts and possible clashes between facilities, and to find related technical documents."
+                "x": "Anthropic이 Claude Artifacts를 Mac이나 Windows 앱으로 설치할 수 있게 했다. 오늘부터 베타로 제공되며, macOS 또는 Windows용 Claude 최신 버전이 있어야 한다. 채팅에서 Artifact를 만들면 코드 한 줄 쓰지 않고 독에 둘 수 있다."
               },
               {
                 "t": "p",
-                "x": "According to SK ecoplant on the 23rd, the company has introduced and begun operating 'AXen', an AI platform specialised for design work. Its key feature is that tasks such as document searches and layout reviews, previously handled individually by designers, can be carried out on a single platform."
+                "x": "설치된 앱은 OS APIs와 커넥터, Claude 자체를 쓸 수 있다. 그래서 메뉴 막대 항목을 추가하거나 투명한 창을 만들고 알림을 보내는 일도 가능하다. 사용자 지정 터미널, 파일 관리자, 동영상 편집기가 그 예이고, 직접 써 볼 데모도 여럿 있다."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
               },
               {
                 "t": "p",
-                "x": "In construction projects, when the layout of spaces or equipment changes, teams must recheck for interference with surrounding facilities and review the relevant design standards and regulations. Depending on the change, existing documents must also be revised or new layouts prepared."
-              },
-              {
-                "t": "p",
-                "x": "AXen was developed to support this process. Based on accumulated design data, it presents space and equipment layouts and lets users compare multiple alternatives. It also includes a function that analyses where equipment and facilities interfere with each other and proposes solutions."
-              },
-              {
-                "t": "p",
-                "x": "Because design standards, regulations and technical information can be searched in one place, staff also spend less time checking documents individually. SK ecoplant expects this to cut repetitive work not only in early design but also during design changes, and to shorten the time needed for cross-department reviews and decision-making."
-              },
-              {
-                "t": "p",
-                "x": "The AI's output is not simply adopted as final. Final results reviewed by designers are accumulated as data and used again to improve the AI's accuracy and usefulness. The platform name AXen combines 'AX(AI Transformation)', meaning the shift to AI, with design (Engineering)."
-              },
-              {
-                "t": "p",
-                "x": "Bringing AI into design is part of the company-wide work automation SK ecoplant is pursuing. As it expands its business around AI and semiconductors, it is also introducing a '1 person, 1 agent' system in which each employee uses AI agents."
-              },
-              {
-                "t": "p",
-                "x": "It is also preparing to apply AI to construction-site and contract management work. Development for practical use is under way on more than 20 tasks identified at its in-house AI agent hackathon (Agenthon), including integrated lookup and analysis of site costs, construction estimate reviews, and reviews of external official letters and contracts."
-              },
-              {
-                "t": "p",
-                "x": "Starting with AXen, SK ecoplant plans to gradually expand the range of design work that AI can handle."
-              },
-              {
-                "t": "p",
-                "x": "An SK ecoplant official said, \"This AI design platform is a case of concretely applying the company-wide AX transition to design work,\" adding, \"We will continue to expand AI systems suited to the characteristics of each task to innovate the way we work, and steadily raise our business competitiveness and project execution efficiency.\""
+                "x": "Anthropic의 Felix Rieseberg는 X에 당분간 Claude 계정과 Claude 앱이 필요하지만 무료 계정이면 충분하다고 썼다. Apple Developer 계정이 있으면 Claude에게 독립 실행형 앱을 만들게 할 수도 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SKエコプラント、\n設計特化AI「AXen」稼働",
-          "body": "AXenは蓄積した設計データで配置案を示し、干渉を見つけて修正案を出す。",
-          "mini_headline": "SKエコプラントが設計AIを稼働",
+          "headline": "Artifactsが\nデスクトップアプリに",
+          "body": "Claude ArtifactsをMac・Windowsアプリとして導入できる。",
+          "mini_headline": "Claude Artifactsがデスクトップへ",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.ebn.co.kr/news/photo/202611/1732724_769078_4446.png",
-                "cap": "▶ [提供=SKエコプラント]"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
               },
               {
                 "t": "p",
-                "x": "SKエコプラントは、設計プロセスで繰り返し発生する検討業務を人工知能(AI)に置き換える。設計の初期段階から機器配置や施設間の衝突の可能性を分析し、関連する技術資料を探す作業にAIを活用して、業務時間を減らす構想だ。"
+                "x": "Anthropicは、Claude ArtifactsをMacまたはWindowsのアプリとしてインストールできるようにした。この機能は本日からベータ版として提供され、macOSまたはWindows向けClaudeの最新版が必要だ。チャットでArtifactを作り、コードを一切書かずにDockに置いておける。"
               },
               {
                 "t": "p",
-                "x": "SKエコプラントが23日に明らかにしたところによると、同社は設計業務に特化したAIプラットフォーム「AXen(エクセン)」を導入し、運用を開始した。これまで設計担当者が個別に処理していた資料検索や配置案の検討などを、一つのプラットフォーム上で行えるようにした点が特徴だ。"
+                "x": "インストールしたアプリは、OS APIs、コネクタ、そしてClaude自体を利用できる。これにより、メニューバー項目の追加、透明なウィンドウの作成、通知の送信などが可能になる。例としては、カスタムターミナル、ファイルマネージャー、動画エディタなどがある。試せるデモもいくつか用意されている。"
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
               },
               {
                 "t": "p",
-                "x": "建設プロジェクトでは、空間や機器の配置が変わると、周辺設備との干渉の有無を改めて確認し、関連する設計基準や法規を検討しなければならない。変更内容に応じて、既存資料の修正や新たな配置案の作成も続く。"
-              },
-              {
-                "t": "p",
-                "x": "AXenはこうしたプロセスを支援するために開発された。蓄積してきた設計データをもとに空間と機器の配置案を提示し、複数の代替案を比較できるようにする。設備と施設物が互いに干渉する箇所を分析し、解決策を提案する機能も備える。"
-              },
-              {
-                "t": "p",
-                "x": "設計基準や法規、技術情報を一か所で検索できるため、担当者が資料を個別に確認する手間も減らせる。SKエコプラントはこれにより、初期設計だけでなく設計変更の過程で生じる反復業務を減らし、部門間の検討や意思決定にかかる時間を短縮できると見ている。"
-              },
-              {
-                "t": "p",
-                "x": "AIが示した結果をそのまま確定する方式ではない。設計担当者が検討した最終結果をデータとして蓄積し、それを再びAIの精度と活用性の向上に生かす。プラットフォーム名のAXenは、AI転換を意味する「AX(AI Transformation)」と設計(Engineering)を組み合わせたものだ。"
-              },
-              {
-                "t": "p",
-                "x": "設計分野へのAI導入は、SKエコプラントが進める全社的な業務自動化の一環だ。AI・半導体を中心に事業領域を広げるなか、社員一人ひとりがAIエージェントを活用する「1人1エージェント」体制も導入している。"
-              },
-              {
-                "t": "p",
-                "x": "建設現場や契約管理の業務にもAIの適用を準備している。社内のAIエージェントソン(Agenthon)で発掘した、現場原価の統合照会・分析、工事見積もりの検討、対外公文書や契約の検討など20余りの課題を対象に、実務適用に向けた開発を進めている。"
-              },
-              {
-                "t": "p",
-                "x": "SKエコプラントはAXenを皮切りに、設計業務でAIが処理できる範囲を段階的に広げる計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "SKエコプラントの関係者は「今回のAI設計プラットフォームは、全社のAX転換を設計業務に具体的に適用した事例だ」とし、「今後も業務ごとの特性に合ったAI活用体制を拡大して働き方を革新し、事業競争力とプロジェクト遂行の効率を継続的に高めていく」と述べた。"
+                "x": "AnthropicのFelix RiesebergはXで、現時点ではClaudeアカウントとClaudeアプリが必要だが、無料アカウントで十分だと書いた。Apple Developerアカウントを持っていれば、Claudeにスタンドアロンアプリを作らせることもできる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SK ecoplant启用\n设计专用AI“AXen”",
-          "body": "AXen依托积累的设计数据提出布置方案，并找出干涉、给出修改方案。",
-          "mini_headline": "SK ecoplant启用设计AI",
+          "headline": "Artifacts可装为\n桌面应用",
+          "body": "Claude Artifacts现可作为测试版Mac和Windows应用安装。",
+          "mini_headline": "Claude Artifacts登陆桌面",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.ebn.co.kr/news/photo/202611/1732724_769078_4446.png",
-                "cap": "▶ [图片提供=SK ecoplant]"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
               },
               {
                 "t": "p",
-                "x": "SK ecoplant将用人工智能（AI）取代设计过程中反复出现的审查工作。其构想是从设计初期起就借助AI分析设备布置和设施间的碰撞可能，并查找相关技术资料，从而缩短工作时间。"
+                "x": "Anthropic现在允许用户将Claude Artifacts安装为Mac或Windows应用。该功能自今日起以测试版形式推出，需要最新版的macOS或Windows版Claude。你可以在聊天中构建一个Artifact，无需编写任何代码就能把它放在程序坞中。"
               },
               {
                 "t": "p",
-                "x": "据SK ecoplant 23日介绍，公司已引入并开始运行专用于设计业务的AI平台“AXen”。其特点是，过去由设计人员各自处理的资料检索和布置方案审查等工作，现在可以在同一个平台上完成。"
+                "x": "安装后的应用可以使用OS APIs、连接器以及Claude本身。因此，应用可以添加菜单栏项目、创建透明窗口、发送通知等。示例包括自定义终端、文件管理器和视频编辑器，还有多个演示可供试用。"
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
               },
               {
                 "t": "p",
-                "x": "在建设项目中，一旦空间或设备布置发生变化，就要重新确认是否与周边设施发生干涉，并审查相关设计标准和法规。根据变更内容，还需要修改既有资料或制定新的布置方案。"
-              },
-              {
-                "t": "p",
-                "x": "AXen正是为支持这一过程而开发的。它以积累的设计数据为基础提出空间和设备布置方案，并可比较多个备选方案。它还具备分析设备与设施之间相互干涉的部位并提出解决方案的功能。"
-              },
-              {
-                "t": "p",
-                "x": "由于可以在一处检索设计标准、法规和技术信息，负责人逐一核对资料的环节也得以减少。SK ecoplant认为，借此不仅能减少初期设计中的重复工作，也能减少设计变更过程中的重复工作，并缩短部门间审查与决策所需的时间。"
-              },
-              {
-                "t": "p",
-                "x": "AI给出的结果并不会被直接定稿。设计人员审核后的最终结果会作为数据积累下来，再用于提升AI的准确度和实用性。平台名称AXen由意为AI转型的“AX(AI Transformation)”与设计（Engineering）组合而成。"
-              },
-              {
-                "t": "p",
-                "x": "在设计领域引入AI，是SK ecoplant正在推进的全公司业务自动化的一部分。在以AI和半导体为中心扩大业务版图的同时，公司也在推行每位员工使用AI智能体的“1人1智能体”体系。"
-              },
-              {
-                "t": "p",
-                "x": "公司还在准备将AI应用于施工现场和合同管理业务。目前正针对公司内部AI智能体马拉松（Agenthon）中发掘的现场成本综合查询与分析、工程报价审查、对外公文及合同审查等20余项课题，推进面向实际应用的开发。"
-              },
-              {
-                "t": "p",
-                "x": "SK ecoplant计划以AXen为起点，逐步扩大AI在设计业务中可处理的范围。"
-              },
-              {
-                "t": "p",
-                "x": "SK ecoplant相关人士表示：“这次的AI设计平台是将全公司AX转型具体应用于设计业务的案例。”该人士还表示：“今后将继续扩大契合各项业务特点的AI应用体系，革新工作方式，并持续提升业务竞争力和项目执行效率。”"
+                "x": "Anthropic的Felix Rieseberg在X上写道，目前需要Claude账户和Claude应用，不过免费账户就足够。如果你拥有Apple Developer账户，还可以让Claude构建一个独立应用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SK ecoplant pone en marcha\n'AXen', una AI para diseño",
-          "body": "AXen usa datos de diseño acumulados para proponer distribuciones, detectar interferencias y plantear correcciones.",
-          "mini_headline": "SK ecoplant activa una AI de diseño",
+          "headline": "Claude Artifacts se convierten\nen apps de escritorio",
+          "body": "Los Claude Artifacts creados en el chat se instalan como apps beta para Mac y Windows que usan OS APIs y conectores.",
+          "mini_headline": "Claude Artifacts llega al escritorio",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.ebn.co.kr/news/photo/202611/1732724_769078_4446.png",
-                "cap": "▶ [Imagen: SK ecoplant]"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
               },
               {
                 "t": "p",
-                "x": "SK ecoplant sustituye con inteligencia artificial (AI) las tareas de revisión que se repiten en el proceso de diseño. La idea es reducir horas de trabajo usando la AI desde las primeras fases del diseño para analizar la disposición de equipos y los posibles choques entre instalaciones, y para buscar la documentación técnica relacionada."
+                "x": "Anthropic ya permite instalar Claude Artifacts como apps para Mac o Windows. La función está en beta desde hoy y requiere la versión más reciente de Claude para macOS o Windows. Se crea un Artifact en el chat y se mantiene en el Dock sin escribir código."
               },
               {
                 "t": "p",
-                "x": "Según informó SK ecoplant el día 23, la empresa ha implantado y puesto en funcionamiento 'AXen', una plataforma de AI especializada en tareas de diseño. Su rasgo principal es que permite realizar en una sola plataforma tareas como la búsqueda de documentación y la revisión de distribuciones, que antes cada responsable de diseño hacía por separado."
+                "x": "Las apps instaladas pueden usar OS APIs, conectores y el propio Claude. Eso permite a una app añadir elementos a la barra de menús, crear ventanas transparentes y enviar notificaciones, entre otras cosas. Entre los ejemplos hay terminales personalizadas, gestores de archivos y editores de video. Hay varias demos disponibles para probar."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
               },
               {
                 "t": "p",
-                "x": "En los proyectos de construcción, cuando cambia la distribución de espacios o equipos, hay que volver a comprobar si hay interferencias con las instalaciones cercanas y revisar las normas de diseño y la legislación aplicables. Según el cambio, también hay que modificar documentación existente o preparar nuevas distribuciones."
-              },
-              {
-                "t": "p",
-                "x": "AXen se desarrolló para apoyar ese proceso. A partir de los datos de diseño acumulados, propone distribuciones de espacios y equipos y permite comparar varias alternativas. También incluye una función que analiza los puntos donde equipos e instalaciones interfieren entre sí y propone soluciones."
-              },
-              {
-                "t": "p",
-                "x": "Como permite buscar normas de diseño, legislación e información técnica en un solo lugar, también reduce la necesidad de que cada responsable consulte la documentación por su cuenta. SK ecoplant prevé así reducir el trabajo repetitivo no solo en el diseño inicial sino también durante los cambios de diseño, y acortar el tiempo de las revisiones y decisiones entre departamentos."
-              },
-              {
-                "t": "p",
-                "x": "Los resultados que propone la AI no se aprueban tal cual. Los resultados finales revisados por los responsables de diseño se acumulan como datos y se vuelven a usar para mejorar la precisión y la utilidad de la AI. El nombre AXen combina 'AX(AI Transformation)', que significa transformación con AI, y diseño (Engineering)."
-              },
-              {
-                "t": "p",
-                "x": "La adopción de AI en diseño forma parte de la automatización del trabajo que SK ecoplant impulsa en toda la empresa. Mientras amplía su negocio en torno a la AI y los semiconductores, también está implantando un sistema de '1 persona, 1 agente' en el que cada empleado utiliza agentes de AI."
-              },
-              {
-                "t": "p",
-                "x": "También se prepara para aplicar la AI a la gestión de obras y contratos. Está desarrollando, para su uso práctico, más de 20 proyectos surgidos de su Agenthon interno de agentes de AI, como la consulta y el análisis integrados de costos de obra, la revisión de presupuestos de construcción y la revisión de comunicaciones oficiales externas y contratos."
-              },
-              {
-                "t": "p",
-                "x": "Con AXen como punto de partida, SK ecoplant prevé ampliar de forma gradual el alcance de las tareas de diseño que puede asumir la AI."
-              },
-              {
-                "t": "p",
-                "x": "Un responsable de SK ecoplant afirmó: \"Esta plataforma de diseño con AI es un caso de aplicación concreta de la transición AX de toda la empresa al trabajo de diseño\", y añadió: \"Seguiremos ampliando sistemas de uso de AI adaptados a cada tipo de tarea para innovar nuestra forma de trabajar y mejorar de forma continua nuestra competitividad y la eficiencia en la ejecución de proyectos\"."
+                "x": "Felix Rieseberg, de Anthropic, escribió en X que por ahora se necesita una cuenta de Claude y la app de Claude, aunque basta con una cuenta gratuita. Con una cuenta de Apple Developer, también se puede pedir a Claude que cree una app independiente."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "SK ecoplant puts design AI\n'AXen' into operation",
-          "body": "AXen draws on accumulated design data to propose layouts, spot clashes and suggest fixes.",
-          "mini_headline": "SK ecoplant launches design AI",
+        "ko": {
+          "headline": "Artifacts, 이제\n설치형 데스크톱 앱",
+          "body": "Claude Artifacts가 Mac·Windows용 베타 앱으로 설치된다.",
+          "mini_headline": "Claude Artifacts, 데스크톱으로",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.ebn.co.kr/news/photo/202611/1732724_769078_4446.png",
-                "cap": "▶ [Provided by SK ecoplant]"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
               },
               {
                 "t": "p",
-                "x": "SK ecoplant is replacing repetitive review work in the design process with artificial intelligence (AI). The plan is to cut working hours by using AI from the earliest design stage to analyse equipment layouts and possible clashes between facilities, and to find related technical documents."
+                "x": "Anthropic이 Claude Artifacts를 Mac이나 Windows 앱으로 설치할 수 있게 했다. 이 기능은 오늘부터 베타로 제공되며, macOS 또는 Windows용 Claude 최신 버전이 필요하다. 채팅에서 Artifact를 만들고, 코드를 한 줄도 쓰지 않고 독에 둘 수 있다."
               },
               {
                 "t": "p",
-                "x": "According to SK ecoplant on the 23rd, the company has introduced and begun operating 'AXen', an AI platform specialised for design work. Its key feature is that tasks such as document searches and layout reviews, previously handled individually by designers, can be carried out on a single platform."
+                "x": "설치된 앱은 OS APIs, 커넥터, 그리고 Claude 자체를 사용할 수 있다. 덕분에 앱이 메뉴 막대 항목을 추가하고, 투명한 창을 만들고, 알림을 보내는 등의 일을 할 수 있다. 사용자 지정 터미널, 파일 관리자, 동영상 편집기 등이 예시이며, 직접 써 볼 수 있는 데모도 여러 개 있다."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
               },
               {
                 "t": "p",
-                "x": "In construction projects, when the layout of spaces or equipment changes, teams must recheck for interference with surrounding facilities and review the relevant design standards and regulations. Depending on the change, existing documents must also be revised or new layouts prepared."
-              },
-              {
-                "t": "p",
-                "x": "AXen was developed to support this process. Based on accumulated design data, it presents space and equipment layouts and lets users compare multiple alternatives. It also includes a function that analyses where equipment and facilities interfere with each other and proposes solutions."
-              },
-              {
-                "t": "p",
-                "x": "Because design standards, regulations and technical information can be searched in one place, staff also spend less time checking documents individually. SK ecoplant expects this to cut repetitive work not only in early design but also during design changes, and to shorten the time needed for cross-department reviews and decision-making."
-              },
-              {
-                "t": "p",
-                "x": "The AI's output is not simply adopted as final. Final results reviewed by designers are accumulated as data and used again to improve the AI's accuracy and usefulness. The platform name AXen combines 'AX(AI Transformation)', meaning the shift to AI, with design (Engineering)."
-              },
-              {
-                "t": "p",
-                "x": "Bringing AI into design is part of the company-wide work automation SK ecoplant is pursuing. As it expands its business around AI and semiconductors, it is also introducing a '1 person, 1 agent' system in which each employee uses AI agents."
-              },
-              {
-                "t": "p",
-                "x": "It is also preparing to apply AI to construction-site and contract management work. Development for practical use is under way on more than 20 tasks identified at its in-house AI agent hackathon (Agenthon), including integrated lookup and analysis of site costs, construction estimate reviews, and reviews of external official letters and contracts."
-              },
-              {
-                "t": "p",
-                "x": "Starting with AXen, SK ecoplant plans to gradually expand the range of design work that AI can handle."
-              },
-              {
-                "t": "p",
-                "x": "An SK ecoplant official said, \"This AI design platform is a case of concretely applying the company-wide AX transition to design work,\" adding, \"We will continue to expand AI systems suited to the characteristics of each task to innovate the way we work, and steadily raise our business competitiveness and project execution efficiency.\""
+                "x": "Anthropic의 Felix Rieseberg는 X에 당분간은 Claude 계정과 Claude 앱이 필요하지만 무료 계정으로도 충분하다고 썼다. Apple Developer 계정이 있다면 Claude에게 독립 실행형 앱을 만들게 할 수도 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SKエコプラント、\n設計特化AI「AXen」稼働",
-          "body": "AXenは蓄積した設計データで配置案を示し、干渉を見つけて修正案を出す。",
-          "mini_headline": "SKエコプラントが設計AIを稼働",
+          "headline": "Artifactsが\nデスクトップアプリに",
+          "body": "Claude ArtifactsをMac・Windowsアプリとして導入できる。",
+          "mini_headline": "Claude Artifactsがデスクトップへ",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.ebn.co.kr/news/photo/202611/1732724_769078_4446.png",
-                "cap": "▶ [提供=SKエコプラント]"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
               },
               {
                 "t": "p",
-                "x": "SKエコプラントは、設計プロセスで繰り返し発生する検討業務を人工知能(AI)に置き換える。設計の初期段階から機器配置や施設間の衝突の可能性を分析し、関連する技術資料を探す作業にAIを活用して、業務時間を減らす構想だ。"
+                "x": "Anthropicは、Claude ArtifactsをMacまたはWindowsのアプリとしてインストールできるようにした。この機能は本日からベータ版として提供され、macOSまたはWindows向けClaudeの最新版が必要だ。チャットでArtifactを作り、コードを一切書かずにDockに置いておける。"
               },
               {
                 "t": "p",
-                "x": "SKエコプラントが23日に明らかにしたところによると、同社は設計業務に特化したAIプラットフォーム「AXen(エクセン)」を導入し、運用を開始した。これまで設計担当者が個別に処理していた資料検索や配置案の検討などを、一つのプラットフォーム上で行えるようにした点が特徴だ。"
+                "x": "インストールしたアプリは、OS APIs、コネクタ、そしてClaude自体を利用できる。これにより、メニューバー項目の追加、透明なウィンドウの作成、通知の送信などが可能になる。例としては、カスタムターミナル、ファイルマネージャー、動画エディタなどがある。試せるデモもいくつか用意されている。"
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
               },
               {
                 "t": "p",
-                "x": "建設プロジェクトでは、空間や機器の配置が変わると、周辺設備との干渉の有無を改めて確認し、関連する設計基準や法規を検討しなければならない。変更内容に応じて、既存資料の修正や新たな配置案の作成も続く。"
-              },
-              {
-                "t": "p",
-                "x": "AXenはこうしたプロセスを支援するために開発された。蓄積してきた設計データをもとに空間と機器の配置案を提示し、複数の代替案を比較できるようにする。設備と施設物が互いに干渉する箇所を分析し、解決策を提案する機能も備える。"
-              },
-              {
-                "t": "p",
-                "x": "設計基準や法規、技術情報を一か所で検索できるため、担当者が資料を個別に確認する手間も減らせる。SKエコプラントはこれにより、初期設計だけでなく設計変更の過程で生じる反復業務を減らし、部門間の検討や意思決定にかかる時間を短縮できると見ている。"
-              },
-              {
-                "t": "p",
-                "x": "AIが示した結果をそのまま確定する方式ではない。設計担当者が検討した最終結果をデータとして蓄積し、それを再びAIの精度と活用性の向上に生かす。プラットフォーム名のAXenは、AI転換を意味する「AX(AI Transformation)」と設計(Engineering)を組み合わせたものだ。"
-              },
-              {
-                "t": "p",
-                "x": "設計分野へのAI導入は、SKエコプラントが進める全社的な業務自動化の一環だ。AI・半導体を中心に事業領域を広げるなか、社員一人ひとりがAIエージェントを活用する「1人1エージェント」体制も導入している。"
-              },
-              {
-                "t": "p",
-                "x": "建設現場や契約管理の業務にもAIの適用を準備している。社内のAIエージェントソン(Agenthon)で発掘した、現場原価の統合照会・分析、工事見積もりの検討、対外公文書や契約の検討など20余りの課題を対象に、実務適用に向けた開発を進めている。"
-              },
-              {
-                "t": "p",
-                "x": "SKエコプラントはAXenを皮切りに、設計業務でAIが処理できる範囲を段階的に広げる計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "SKエコプラントの関係者は「今回のAI設計プラットフォームは、全社のAX転換を設計業務に具体的に適用した事例だ」とし、「今後も業務ごとの特性に合ったAI活用体制を拡大して働き方を革新し、事業競争力とプロジェクト遂行の効率を継続的に高めていく」と述べた。"
+                "x": "AnthropicのFelix RiesebergはXで、現時点ではClaudeアカウントとClaudeアプリが必要だが、無料アカウントで十分だと書いた。Apple Developerアカウントを持っていれば、Claudeにスタンドアロンアプリを作らせることもできる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SK ecoplant启用\n设计专用AI“AXen”",
-          "body": "AXen依托积累的设计数据提出布置方案，并找出干涉、给出修改方案。",
-          "mini_headline": "SK ecoplant启用设计AI",
+          "headline": "Artifacts可装为\n桌面应用",
+          "body": "Claude Artifacts现可作为测试版Mac和Windows应用安装。",
+          "mini_headline": "Claude Artifacts登陆桌面",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.ebn.co.kr/news/photo/202611/1732724_769078_4446.png",
-                "cap": "▶ [图片提供=SK ecoplant]"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
               },
               {
                 "t": "p",
-                "x": "SK ecoplant将用人工智能（AI）取代设计过程中反复出现的审查工作。其构想是从设计初期起就借助AI分析设备布置和设施间的碰撞可能，并查找相关技术资料，从而缩短工作时间。"
+                "x": "Anthropic现在允许用户将Claude Artifacts安装为Mac或Windows应用。该功能自今日起以测试版形式推出，需要最新版的macOS或Windows版Claude。你可以在聊天中构建一个Artifact，无需编写任何代码就能把它放在程序坞中。"
               },
               {
                 "t": "p",
-                "x": "据SK ecoplant 23日介绍，公司已引入并开始运行专用于设计业务的AI平台“AXen”。其特点是，过去由设计人员各自处理的资料检索和布置方案审查等工作，现在可以在同一个平台上完成。"
+                "x": "安装后的应用可以使用OS APIs、连接器以及Claude本身。因此，应用可以添加菜单栏项目、创建透明窗口、发送通知等。示例包括自定义终端、文件管理器和视频编辑器，还有多个演示可供试用。"
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
               },
               {
                 "t": "p",
-                "x": "在建设项目中，一旦空间或设备布置发生变化，就要重新确认是否与周边设施发生干涉，并审查相关设计标准和法规。根据变更内容，还需要修改既有资料或制定新的布置方案。"
-              },
-              {
-                "t": "p",
-                "x": "AXen正是为支持这一过程而开发的。它以积累的设计数据为基础提出空间和设备布置方案，并可比较多个备选方案。它还具备分析设备与设施之间相互干涉的部位并提出解决方案的功能。"
-              },
-              {
-                "t": "p",
-                "x": "由于可以在一处检索设计标准、法规和技术信息，负责人逐一核对资料的环节也得以减少。SK ecoplant认为，借此不仅能减少初期设计中的重复工作，也能减少设计变更过程中的重复工作，并缩短部门间审查与决策所需的时间。"
-              },
-              {
-                "t": "p",
-                "x": "AI给出的结果并不会被直接定稿。设计人员审核后的最终结果会作为数据积累下来，再用于提升AI的准确度和实用性。平台名称AXen由意为AI转型的“AX(AI Transformation)”与设计（Engineering）组合而成。"
-              },
-              {
-                "t": "p",
-                "x": "在设计领域引入AI，是SK ecoplant正在推进的全公司业务自动化的一部分。在以AI和半导体为中心扩大业务版图的同时，公司也在推行每位员工使用AI智能体的“1人1智能体”体系。"
-              },
-              {
-                "t": "p",
-                "x": "公司还在准备将AI应用于施工现场和合同管理业务。目前正针对公司内部AI智能体马拉松（Agenthon）中发掘的现场成本综合查询与分析、工程报价审查、对外公文及合同审查等20余项课题，推进面向实际应用的开发。"
-              },
-              {
-                "t": "p",
-                "x": "SK ecoplant计划以AXen为起点，逐步扩大AI在设计业务中可处理的范围。"
-              },
-              {
-                "t": "p",
-                "x": "SK ecoplant相关人士表示：“这次的AI设计平台是将全公司AX转型具体应用于设计业务的案例。”该人士还表示：“今后将继续扩大契合各项业务特点的AI应用体系，革新工作方式，并持续提升业务竞争力和项目执行效率。”"
+                "x": "Anthropic的Felix Rieseberg在X上写道，目前需要Claude账户和Claude应用，不过免费账户就足够。如果你拥有Apple Developer账户，还可以让Claude构建一个独立应用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SK ecoplant pone en marcha\n'AXen', una AI para diseño",
-          "body": "AXen usa datos de diseño acumulados para proponer distribuciones, detectar interferencias y plantear correcciones.",
-          "mini_headline": "SK ecoplant activa una AI de diseño",
+          "headline": "Claude Artifacts se convierten\nen apps de escritorio",
+          "body": "Los Claude Artifacts creados en el chat se instalan como apps beta para Mac y Windows que usan OS APIs y conectores.",
+          "mini_headline": "Claude Artifacts llega al escritorio",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.ebn.co.kr/news/photo/202611/1732724_769078_4446.png",
-                "cap": "▶ [Imagen: SK ecoplant]"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
               },
               {
                 "t": "p",
-                "x": "SK ecoplant sustituye con inteligencia artificial (AI) las tareas de revisión que se repiten en el proceso de diseño. La idea es reducir horas de trabajo usando la AI desde las primeras fases del diseño para analizar la disposición de equipos y los posibles choques entre instalaciones, y para buscar la documentación técnica relacionada."
+                "x": "Anthropic ya permite instalar Claude Artifacts como apps para Mac o Windows. La función está en beta desde hoy y requiere la versión más reciente de Claude para macOS o Windows. Se crea un Artifact en el chat y se mantiene en el Dock sin escribir código."
               },
               {
                 "t": "p",
-                "x": "Según informó SK ecoplant el día 23, la empresa ha implantado y puesto en funcionamiento 'AXen', una plataforma de AI especializada en tareas de diseño. Su rasgo principal es que permite realizar en una sola plataforma tareas como la búsqueda de documentación y la revisión de distribuciones, que antes cada responsable de diseño hacía por separado."
+                "x": "Las apps instaladas pueden usar OS APIs, conectores y el propio Claude. Eso permite a una app añadir elementos a la barra de menús, crear ventanas transparentes y enviar notificaciones, entre otras cosas. Entre los ejemplos hay terminales personalizadas, gestores de archivos y editores de video. Hay varias demos disponibles para probar."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
               },
               {
                 "t": "p",
-                "x": "En los proyectos de construcción, cuando cambia la distribución de espacios o equipos, hay que volver a comprobar si hay interferencias con las instalaciones cercanas y revisar las normas de diseño y la legislación aplicables. Según el cambio, también hay que modificar documentación existente o preparar nuevas distribuciones."
-              },
-              {
-                "t": "p",
-                "x": "AXen se desarrolló para apoyar ese proceso. A partir de los datos de diseño acumulados, propone distribuciones de espacios y equipos y permite comparar varias alternativas. También incluye una función que analiza los puntos donde equipos e instalaciones interfieren entre sí y propone soluciones."
-              },
-              {
-                "t": "p",
-                "x": "Como permite buscar normas de diseño, legislación e información técnica en un solo lugar, también reduce la necesidad de que cada responsable consulte la documentación por su cuenta. SK ecoplant prevé así reducir el trabajo repetitivo no solo en el diseño inicial sino también durante los cambios de diseño, y acortar el tiempo de las revisiones y decisiones entre departamentos."
-              },
-              {
-                "t": "p",
-                "x": "Los resultados que propone la AI no se aprueban tal cual. Los resultados finales revisados por los responsables de diseño se acumulan como datos y se vuelven a usar para mejorar la precisión y la utilidad de la AI. El nombre AXen combina 'AX(AI Transformation)', que significa transformación con AI, y diseño (Engineering)."
-              },
-              {
-                "t": "p",
-                "x": "La adopción de AI en diseño forma parte de la automatización del trabajo que SK ecoplant impulsa en toda la empresa. Mientras amplía su negocio en torno a la AI y los semiconductores, también está implantando un sistema de '1 persona, 1 agente' en el que cada empleado utiliza agentes de AI."
-              },
-              {
-                "t": "p",
-                "x": "También se prepara para aplicar la AI a la gestión de obras y contratos. Está desarrollando, para su uso práctico, más de 20 proyectos surgidos de su Agenthon interno de agentes de AI, como la consulta y el análisis integrados de costos de obra, la revisión de presupuestos de construcción y la revisión de comunicaciones oficiales externas y contratos."
-              },
-              {
-                "t": "p",
-                "x": "Con AXen como punto de partida, SK ecoplant prevé ampliar de forma gradual el alcance de las tareas de diseño que puede asumir la AI."
-              },
-              {
-                "t": "p",
-                "x": "Un responsable de SK ecoplant afirmó: \"Esta plataforma de diseño con AI es un caso de aplicación concreta de la transición AX de toda la empresa al trabajo de diseño\", y añadió: \"Seguiremos ampliando sistemas de uso de AI adaptados a cada tipo de tarea para innovar nuestra forma de trabajar y mejorar de forma continua nuestra competitividad y la eficiencia en la ejecución de proyectos\"."
+                "x": "Felix Rieseberg, de Anthropic, escribió en X que por ahora se necesita una cuenta de Claude y la app de Claude, aunque basta con una cuenta gratuita. Con una cuenta de Apple Developer, también se puede pedir a Claude que cree una app independiente."
               }
             ]
           }

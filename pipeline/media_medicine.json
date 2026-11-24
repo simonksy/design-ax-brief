@@ -1,30 +1,7 @@
-{
-  "date": "2026-11-24",
-  "section": "medicine",
-  "media": [
-    {
-      "id": "nhs-edith-breast-ai",
-      "type": "image",
-      "src": "pipeline/media/nhs-edith-breast-ai.jpg"
-    },
-    {
-      "id": "mhra-mental-health-airlock",
-      "type": "image",
-      "src": "pipeline/media/mhra-mental-health-airlock.jpg"
-    },
-    {
-      "id": "photon-chatgpt-rx",
-      "type": "image",
-      "src": "pipeline/media/photon-chatgpt-rx.jpg"
-    },
-    {
-      "id": "heart-failure-drug-ai-kr",
-      "type": "svg"
-    },
-    {
-      "id": "eye-ambient-ai-emr-ophthalmology",
-      "type": "image",
-      "src": "pipeline/media/eye-ambient-ai-emr-ophthalmology.png"
-    }
-  ]
-}
+{"date":"2026-11-25","section":"medicine","media":[
+{"id":"houston-methodist-hdai-readmit","type":"image","src":"pipeline/media/houston-methodist-hdai-readmit.jpg"},
+{"id":"stat-rsna-draft-reports","type":"image","src":"pipeline/media/stat-rsna-draft-reports.jpg"},
+{"id":"seemode-thyroid-tirads","type":"svg"},
+{"id":"intelerad-orchestrator-clarity","type":"image","src":"pipeline/media/intelerad-orchestrator-clarity.jpg"},
+{"id":"npj-tumor-board-ai","type":"svg"}
+]}

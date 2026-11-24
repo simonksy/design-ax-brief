@@ -12536,6 +12536,114 @@
           "x": "The paper, \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\" (K. Hirashima et al.), was presented at SC 2026, the International Conference for High Performance Computing, Networking, Storage and Analysis, held November 15–20 in Chicago."
         }
       ]
+    },
+    "science/utokyo-materials-extrapolation-gnn": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+          "cap": "The team's approach for helping machine-learning models predict material properties beyond their training data. Credit: Institute of Industrial Science, The University of Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "Machine-learning models predict well within their training data but often struggle with materials unlike anything they have seen, a problem for materials discovery. “Materials discovery is inherently an extrapolation problem,” the authors write."
+        },
+        {
+          "t": "p",
+          "x": "University of Tokyo researchers propose decoupled transfer learning: pretrained graph neural networks extract structural features, and a simpler regression model predicts the target property. Trained on Materials Project data up to 2018 and tested on materials added through 2021, the approach cut prediction error by 68% compared with CGCNN, a widely used end-to-end graph neural network."
+        },
+        {
+          "t": "p",
+          "x": "It works best when new materials extend familiar chemical or structural patterns and is less reliable in poorly represented chemical or electronic regimes. No large-scale retraining is needed. The study appears in PRX Intelligence."
+        }
+      ]
+    },
+    "science/uci-pmpg-fluid-flow-reconstruction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "UC Irvine researchers developed PMPG-NN, which combines neural networks with the principle of minimum pressure gradient to reconstruct fluid flow fields from limited, noisy measurements while staying consistent with fluid physics. It does not need direct pressure measurements."
+        },
+        {
+          "t": "p",
+          "x": "Tested on flow around a sphere, interacting vortices and time-dependent channel flow, it performed especially well with heavy noise and sparse data and improved velocity-gradient estimates."
+        },
+        {
+          "t": "p",
+          "x": "“Every medical imaging technique has inherent limitations in what it can measure,” said lead researcher Arash Kheradvar. The authors see uses in cardiovascular imaging (Echo-PIV and 4D Flow MRI) and aerospace, but experimental and clinical validation is still needed. The study appears in Physics of Fluids."
+        }
+      ]
+    },
+    "science/fau-beluga-drone-tracking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+          "cap": "Qualitative detection results at 1% labeling (34 labeled images) on a labeled test image (A) and an unlabeled image unseen during training (B). Credit: Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from Florida Atlantic University, with Fisheries and Oceans Canada and the University of Manitoba, use deep learning to detect and track beluga whales across sequences of aerial images."
+        },
+        {
+          "t": "p",
+          "x": "Working with 7,655 high-resolution drone images, each whale labeled adult or calf, they trained and compared five AI models at labeled-data levels from 1% to 50%. The semi-supervised SEMI-DETR reached a mean average precision of 19.2 with 34 labeled images, a 20% relative improvement over the best supervised model. Calf detection improved 24.3% at the 1% level, versus 16.8% for adults."
+        },
+        {
+          "t": "p",
+          "x": "Comparable performance needed roughly five to 10 times less annotation. The study appears in Frontiers in Marine Science."
+        }
+      ]
+    },
+    "science/qwen3-quantum-circuit-layers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Researchers replaced eight layers of a large language model with a compact module that can run on a quantum processor, cutting the model’s parameter count by about 16% with little change in its ability to predict text in simulations."
+        },
+        {
+          "t": "p",
+          "x": "The team, from Multiverse Computing and the University of Toronto, modified a pretrained Qwen3 model with 30.5 billion parameters, removing eight consecutive blocks — nearly 5 billion parameters — and putting a single module with 145,281 trainable parameters in their place. Perplexity was 0.9% worse on WikiText-2, with no clear difference on C4."
+        },
+        {
+          "t": "p",
+          "x": "The circuits also ran on a 156-qubit IBM Heron processor, taking roughly a minute and a half per token. A conventional network of about the same size predicted text better in nearly every comparison. The study is an arXiv preprint."
+        }
+      ]
+    },
+    "science/science-mit-multilingual-brain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
+          "cap": "A new study from the Fedorenko lab is the first to use multilingual models to predict brain responses across many languages. Image: iStock"
+        },
+        {
+          "t": "p",
+          "x": "Despite so much variety in the linguistic kingdom, an MIT study has found that the human brain may process all sorts of languages in a universal way. In the study published in Nature Neuroscience, the researchers used multilingual models to predict how the human brain responds to various languages, and detected a shared brain process across people who collectively spoke 21 different languages."
+        },
+        {
+          "t": "p",
+          "x": "Using machine learning, de Varda merged the multilingual models' code with scans of people's brains as they performed linguistic tasks, producing encoding models. The Fedorenko lab had imaging data from speakers of 12 languages and recruited speakers of nine more, including Korean, Hindi, Arabic and Mandarin, who listened to stories from \"Alice in Wonderland\" in their native language."
+        },
+        {
+          "t": "p",
+          "x": "The encoding models accurately predicted brain responses in all 21 languages. A model trained in one language could predict brain activity for a language it had never seen: one trained on French also predicted responses in Vietnamese. Analysis suggested the shared component has something to do with meaning."
+        },
+        {
+          "t": "p",
+          "x": "\"There is something fundamentally similar in how the brain communicates,\" says senior author Evelina Fedorenko. The work may help clinical AI language tools reach speakers of more languages, and might one day help preserve endangered ones."
+        }
+      ]
     }
   }
 }

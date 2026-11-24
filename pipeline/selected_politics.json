@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "section": "politics",
   "dedup": {
     "checks": {
-      "https://www.federalregister.gov/public-inspection/2026-23999/additions-to-the-entity-list": {
-        "verdict": "follow-up",
-        "nearest": "https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation",
-        "new_action": "BIS final rule (public inspection 11-23, publication 11-25) adding 7 Megaspeed-linked entities in Malaysia, Singapore and Thailand to the Entity List, with a license requirement for all EAR items and a presumption of denial. The 11-18 card covered the Commerce/DOJ investigation statement, and the 11-13 Yonhap card covered a proposed licensing plan for 7 countries. Neither was a listing rule."
-      },
-      "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/": {
-        "verdict": "new",
-        "nearest": "https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-files-2b-lawsuit-against-open-ai-launches-keeping-kids-safe-initiative/",
-        "new_action": ""
-      },
-      "https://gothamist.com/news/ny-gov-hochul-vetoes-bill-that-would-have-required-ai-accuracy-warnings": {
+      "https://governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot": {
         "verdict": "new",
         "nearest": "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
         "new_action": ""
       },
-      "https://www.yna.co.kr/view/AKR20261123075800017": {
+      "https://ctnewsjunkie.com/2026/11/24/character-ai-auction-ct-challenge/": {
         "verdict": "new",
-        "nearest": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o",
+        "nearest": "https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-files-2b-lawsuit-against-open-ai-launches-keeping-kids-safe-initiative/",
         "new_action": ""
       },
-      "https://www.yna.co.kr/view/AKR20261123087300017": {
+      "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/statement-on-uk-launch-of-meta-muse/": {
+        "verdict": "new",
+        "nearest": "https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/",
+        "new_action": ""
+      },
+      "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12663": {
         "verdict": "new",
         "nearest": "https://www.korea.kr/news/policyNewsView.do?newsId=148976211",
         "new_action": ""
+      },
+      "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790510": {
+        "verdict": "new",
+        "nearest": "https://www.etnews.com/20261103000312",
+        "new_action": ""
       }
     },
-    "note": "Dropped as duplicates or follow-ups with no new action: WIRED and The Verge Grok lawsuit items (cluster c1, the same Oregon/Virginia AG suits; kept Ars Technica, which has the most detail). Decoder 'US spies tracked Alice Huang' (extra reporting on the Nvidia/Megaspeed diversion story published 11-14, 11-18 and 11-21; no new decision). Axios 'Doctors who disagree with AI could face legal jeopardy' (a running story from the Axios 11-14 card; mock-jury research and the AMA's earlier call, no new filing). Jensen Huang reinstatement trio (Verge White House remarks, Axios Hill backlash, Yonhap analysis): corporate/personnel news plus reactions, with no concrete government decision; the testimony is already scheduled per the 11-07 card. Cross-section exclusion: GOV.UK MHRA AI Airlock goes to medicine only, per the brief. Not picked on fit or score: Verge COP31 data-centre item (negotiation reporting, no decision; it was next in line), Lawfare AI black-market essay (analysis), Decoder OpenAI shared-limits proposal (company proposal), Decoder Chinese military nuclear fears (research commentary), ChinaTalk 'Agentic State' (essay). Korean glasses bill: hidden filming and a mandatory recording indicator, a different event from the exam-cheating glasses stories (11-08, 11-10, 11-17, 11-22) and the Dutch watchdog advice (11-20). Cross-section: the brief assigns it to politics only. The full published_urls.json could not be grepped with Read-only tools, so the orchestrator should exact-grep the 5 URLs plus 'Megaspeed', 'Grok', 'Hochul', '이주희', 'NAIS' before roll."
+    "note": "Hochul toy ban (history_match 'related' to the 10-29 companion-chatbot law): this is a separate bill (S.9408A/A.11144B) and a separate signing, a 5-year moratorium on AI-chatbot toys, so it counts as new. PIPC enforcement decree (history_match 'related' to the 11-23 data-centre permit card): only the word 'special case' overlaps; this is a different law and ministry, so new. Character.AI: the 42-AG bankruptcy-court objection is a new filing, and no Character.AI story appears in the 30-day history. ICO Meta Muse goes to politics per the brief; marketing must not run the Meta Newsroom launch. Dropped: the 전자신문 national-exam TF item and the 정책브리핑 고용노동부 exam-cheating release. They are one story (the brief names the primary), and that story has been running since 11-08/11-10/11-16/11-18/11-22, when the 청와대 TF was formed. The 고용노동부 release adds enforcement numbers (6 cases caught), but it was cut on diversity and running-story fatigue, not as an outright duplicate. Also dropped: 전자신문 'AI 가짜 의사' (assigned to marketing only), GOV.UK Sovereign AI Fund (funding noise per the brief), the Verge COP data-centre item (negotiation reporting with no decision; passed over on 11-24 too), POLITICO Europe on phone agents (analysis), and 통일부 홍익 플랫폼 (no decision). Not picked on score: 과기부 AI budget at 16조 (a budget proposal still under review), KISA agent security guidance (next in line), and the Register item on the EC breach (an incident, not policy). Cross-section: published_urls.json (4938 lines) could not be grepped with Read-only tools. 4 of the 5 picks are dated after the 11-24 run's collection window. The PIPC item (11-23 10:00 KST) predates it, so the orchestrator should exact-grep the 5 URLs plus 'Character.AI', 'Muse', 'chatbot toy', '개인정보 보호법 시행령', 'UI/UX 가이드라인' before roll."
   },
   "items": [
     {
-      "title": "Additions to the Entity List (BIS adds 7 Megaspeed-linked entities in Malaysia, Singapore, Thailand)",
-      "url": "https://www.federalregister.gov/public-inspection/2026-23999/additions-to-the-entity-list",
-      "source": "Federal Register / BIS",
+      "title": "As Consumers Begin Their Holiday Shopping Season, Governor Hochul Signs Five-Year Ban on AI Chatbot Toys",
+      "url": "https://governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
+      "source": "Governor of New York",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Geopolitics axis, primary document: a BIS final rule puts 7 Megaspeed-linked firms in Malaysia, Singapore and Thailand on the Entity List over the risk of diverting advanced computing items, with a license requirement and a presumption of denial. This is the first concrete export-control action in the Megaspeed probe.",
-      "published_iso": "2026-11-23T16:15:00-05:00",
+      "rationale": "Policy axis, primary document: New York enacted a five-year moratorium on making, distributing or selling toys with embedded AI chatbots, enforced by the AG with penalties of up to $15,000 per day. It is a hard product ban that hits toy and companion-AI builders directly.",
+      "published_iso": "2026-11-24T15:59:00Z",
       "og_image": null,
-      "excerpt": "BIS final rule (public inspection 11-23, publication 11-25) adds MSFusion, PT Megaspeed International, Speedmatrix, Apex Enterprise Solutions (Singapore), Megaspeed International Pte, Swiftdata and Megaspeed (Thailand) to the Entity List over significant risk of diverting advanced computing commodities; all EAR items need a license, presumption of denial. Effective on public inspection."
+      "excerpt": "Hochul signed S.9408A/A.11144B, a five-year moratorium on making, distributing or selling toys with embedded AI chatbots in New York; AG-enforced civil penalties up to $15,000 per day per violation, effective 90 days after signing."
     },
     {
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
-      "source": "Ars Technica",
+      "title": "Character.AI Auction Of User Chats Faces CT Challenge",
+      "url": "https://ctnewsjunkie.com/2026/11/24/character-ai-auction-ct-challenge/",
+      "source": "CT News Junkie",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Policy/liability axis, new filing: the Oregon and Virginia attorneys general sued SpaceX (owner of X and xAI), alleging that Grok image generation still produces CSAM and nonconsensual intimate imagery. The allegations are attributed to the AGs.",
-      "published_iso": "2026-11-23T21:30:44+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
-      "excerpt": "Oregon and Virginia attorneys general filed suits against SpaceX/X over Grok image generation, alleging the AI still produces CSAM and nonconsensual intimate imagery despite X's claim every output is screened."
+      "rationale": "Privacy and liability axis, new filing: Connecticut AG Tong and 41 other states plus DC asked the bankruptcy court to block Character.AI's planned Dec. 1 auction of chat histories from more than 21M accounts unless deletion and use safeguards are in place. The objection is attributed to the AGs. The outlet is off-list; on-list outlets ran only commentary.",
+      "published_iso": "2026-11-24T14:37:14+00:00",
+      "og_image": "https://ctnewsjunkie.com/wp-content/uploads/2025/03/pexels-photo-9783353-e1790274392871.jpeg",
+      "excerpt": "Connecticut AG Tong, with 41 other states and DC, asks the bankruptcy court to reject Character.AI's planned Dec. 1 auction of chat histories from 21M+ US accounts (2.1M registered to minors) without deletion or use safeguards."
     },
     {
-      "title": "NY Gov. Hochul vetoes bill that would have required AI accuracy warnings",
-      "url": "https://gothamist.com/news/ny-gov-hochul-vetoes-bill-that-would-have-required-ai-accuracy-warnings",
-      "source": "Gothamist",
+      "title": "Statement on UK launch of Meta Muse",
+      "url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/statement-on-uk-launch-of-meta-muse/",
+      "source": "Information Commissioner's Office (UK)",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Policy axis, new executive decision: New York's governor vetoed a bill that would have required AI chatbots to carry accuracy warnings, citing possible free-speech conflicts. This directly affects chatbot builders. The outlet is off-list; no on-list outlet covered the veto.",
-      "published_iso": "2026-11-23T20:43:53.312Z",
-      "og_image": "https://api-prod.gothamist.com/images/362618/fill-1200x650|format-webp|webpquality-85/",
-      "excerpt": "New York Gov. Kathy Hochul vetoed a bill requiring AI chatbots to carry accuracy warnings, saying the measure may run afoul of free-speech protections."
+      "rationale": "Regulator action, primary source: before Meta launched its Muse agentic AI in the UK, the ICO set out Meta's data-protection duties and secured a voluntary monitoring and reporting commitment. In a same-day blog post it reminded all consumer agentic-AI developers of their obligations.",
+      "published_iso": "2026-11-24T00:00:00Z",
+      "og_image": null,
+      "excerpt": "ICO CEO Paul Arnold says the regulator set out Meta's data-protection duties before the UK launch of its Muse agentic AI and that Meta committed to a voluntary monitoring and reporting scheme; a same-day ICO blog reminds consumer agentic-AI developers of their obligations."
     },
     {
-      "title": "AI 안경 '몰카' 막는다…촬영 표시 의무화 법안 발의",
-      "url": "https://www.yna.co.kr/view/AKR20261123075800017",
-      "source": "연합뉴스",
+      "title": "“개인정보 보호법 인공지능 특례” 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고",
+      "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12663",
+      "source": "개인정보보호위원회",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Policy axis, new bill: a National Assembly bill sponsored by Rep. Lee Ju-hee would require AI smart glasses to show a recording indicator and to notify people when filming in private settings. It is a hardware-level obligation for device makers.",
-      "published_iso": "2026-11-23T11:29:45+09:00",
-      "og_image": "https://img7.yna.co.kr/photo/yna/YH/2026/06/10/PYH2026061011640001300_P4.jpg",
-      "excerpt": "AI 스마트안경에 촬영 표시 기능 탑재를 의무화하고 사적 촬영 시 촬영 사실 고지를 의무화하는 법안(이주희 의원 대표발의)이 국회에 발의됐다."
+      "rationale": "Privacy rulemaking axis, official release: PIPC opened pre-announcement of an enforcement decree setting the safeguards, risk assessment and review procedure under which personal data may be processed for AI development. Comments run until 2027-01-04, and the law takes effect 2027-03-09.",
+      "published_iso": "2026-11-23T10:00:00+09:00",
+      "og_image": null,
+      "excerpt": "개인정보위가 AI 개발 목적 개인정보 처리 특례의 안전조치·위험요인평가·심의·의결 절차를 담은 개인정보 보호법 시행령 개정안을 11월 23일부터 2027년 1월 4일까지 입법예고한다(법 2027-03-09 시행)."
     },
     {
-      "title": "배경훈 부총리 \"국가과학AI센터, 과학AI 허브 자리잡도록 지원\"",
-      "url": "https://www.yna.co.kr/view/AKR20261123087300017",
-      "source": "연합뉴스",
+      "title": "행안부, '공공 AI 서비스 UI/UX 가이드라인' 마련… AI 안내·선택 기준 제시",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790510",
+      "source": "대한민국 정책브리핑 (행정안전부)",
       "tool": "Politics",
-      "accent": "#f5a623",
+      "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "National AI strategy axis, official release: a Ministry of Science and ICT plan (11-23 press release) concentrates national science-AI capacity in the National AI Research Center for Science (NAIS), a sovereign-AI R&D program.",
-      "published_iso": "2026-11-23T16:16:39+09:00",
-      "og_image": "https://img1.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316700001300_P4.jpg",
-      "excerpt": "과기정통부가 국가과학인공지능연구센터(NAIS)를 중심으로 국가 과학 AI 역량을 결집하는 계획을 밝혔다 (과기정통부 11-23 보도자료 '국가 과학 인공지능 역량 결집해 초지능 과학 혁신을 선도한다')."
+      "rationale": "Public-sector procurement and design-rule axis, official release: the Ministry of the Interior and Safety (행정안전부) issued 29 design standards for public AI services, covering AI role disclosure, tone, input handling and result verification. These are concrete rules for anyone building government AI interfaces.",
+      "published_iso": "2026-11-24T12:00:00+09:00",
+      "og_image": null,
+      "excerpt": "행정안전부가 11월 25일 '공공 AI 서비스 UI/UX 가이드라인'을 배포한다. AI의 역할·말투부터 정보 입력, 결과 확인까지 29개 설계 기준과 적용 사례를 제시한다."
     }
   ]
 }
