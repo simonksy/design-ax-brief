@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "issue": "중국행 AI 칩, 이제는 경로를 본다",
+    "date": "2026.11.24",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "11-24 재검증: 원문·1차 자료 대조. Verge 11.18 13:01Z(Kress 발언 원문 일치, 이유 미설명), 하원 외교위 보도자료 11.19(ET) — Verge 대신 1차 자료로 출처 교체: 신청 340만 개·BIS 승인 879,000개+·알리바바·텐센트행 승인·'밀수 창구로 의심되는 곳'에 기댄 Nvidia 신청은 Mast 위원장 측 주장. 앞서 뺀 '340만 신청'은 1차 자료에 있어 되살림. Meeks 발언은 Verge(11.19) 인용으로 캡션에만. 캘리포니아: Guardian(11.20)은 403으로 열리지 않아 주 법무부 보도자료(11.19, 소환장 송달일)로 출처·날짜를 바꾸고 Bonta 발언을 원문으로 확인; Megaspeed $5bn 언급은 1차 자료에 없어 뺌. Entity List: Federal Register 공개 열람 11.23 16:15(관보 게재 11.25), 7곳·3곳 Megaspeed 이름 PDF로 확인. Huang은 이후 CEO로 복귀(Verge 11.23)해 Kress는 '당시 임시 CEO'로 표기. 미디어: Guardian의 Nvidia 로고+젠슨 황 사진(VCG/Getty)은 빼고 4장을 Bonta 발언 quote로. 사진 없음.",
+    "sources": [
+      "The Verge — Nvidia isn't selling any more AI chips to China (2026.11.18)",
+      "House Foreign Affairs Committee — Chairman Brian Mast Exercises Legislative Authority to Publicly Release AI Chip License Information for China (2026.11.19)",
+      "The Verge — Trump administration approved more than 879,000 AI chip sales to Chinese companies, per new disclosure (2026.11.19)",
+      "California Department of Justice — Attorney General Bonta Serves Investigative Subpoena on Nvidia (2026.11.19)",
+      "Federal Register / BIS — Additions to the Entity List, 2026-23999 (2026.11.23)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 정책 · 11.18~11.23",
+      "thread": [
+        {
+          "d": "11.18",
+          "t": "출하 중단",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.19",
+          "t": "승인 공개",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.19",
+          "t": "주 소환장",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.23",
+          "t": "명단 지정",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "중국행 AI 칩, 쟁점이 '얼마나 팔까'에서 '어디로 흘러갔나'로 옮겨 간다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "중국행 AI 칩, 경로를 본다",
+      "body": "한 건씩 보면 실적 발표, 의회 자료, 주 조사다. 엿새를 꿰면 몇 개를 팔았나보다 칩이 어디로 갔나가 쟁점이 됐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.11.18",
+      "headline": "Nvidia, H200 출하 멈춰",
+      "body": "작년 12월 백악관 승인을 받은 H200이다. 당시 임시 CEO가 실적 발표에서 밝혔고, 이유는 설명하지 않았다.",
+      "foot": "2026.11.18",
+      "_src": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "_id": "nvidia-h200-china-halt",
+      "quote": "중국에 라이선스 받은\nHopper 데이터센터 제품을\n더는 출하하지 않는다",
+      "quote_by": "Colette Kress · 당시 Nvidia 임시 CEO"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.19",
+      "headline": "승인 규모가\n공개됐다",
+      "body": "Mast 하원 외교위원장(공화)이 허가 자료를 공개했다. 밀수 창구로 의심되는 곳을 낀 Nvidia 신청도 있었다고 했다.",
+      "foot": "2026.11.19",
+      "_src": "https://foreignaffairs.house.gov/news/press-releases/chairman-brian-mast-exercises-legislative-authority-to-publicly-release-ai-chip-license-information-for-china",
+      "_id": "commerce-china-ai-chip-licenses-879k",
+      "stat_top": "중국행 AI 칩 신청 340만 개",
+      "stat_arrow": "상무부 BIS 승인",
+      "stat_bottom": "879,000개+",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.19",
+      "headline": "캘리포니아,\nNvidia에 소환장",
+      "body": "Bonta 주 법무장관은 칩이나 기밀이 중국에 넘어갔는지, Nvidia가 투자자를 오도했는지 묻는다.",
+      "foot": "2026.11.19",
+      "_src": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-serves-investigative-subpoena-nvidia",
+      "_id": "nvidia-california-subpoena",
+      "quote": "중국이 첨단 칩이나 기밀을\n얻게 됐는지 조사하고 있다",
+      "quote_by": "Rob Bonta · 캘리포니아 법무장관"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.23",
+      "headline": "7곳, 수출통제 명단에",
+      "body": "BIS가 첨단 컴퓨팅 품목 전용 위험을 들어 동남아 7곳을 올렸다. 3곳이 Megaspeed 이름이다. 이제 길목을 막는다.",
+      "foot": "2026.11.23",
+      "_src": "https://www.federalregister.gov/public-inspection/2026-23999/additions-to-the-entity-list",
+      "_id": "bis-megaspeed-entitylist",
+      "stat_top": "Entity List 추가",
+      "stat_arrow": "말레이시아·싱가포르·태국",
+      "stat_bottom": "7곳",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
