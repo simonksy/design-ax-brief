@@ -11542,6 +11542,150 @@
           "x": "En el mismo periodo, el Ministerio de Cultura, Deportes y Turismo y la Comisión de Derechos de Autor de Corea celebraron el 19 de noviembre la ceremonia de entrega del ‘Concurso de Escritura 2026 para la Concienciación sobre los Derechos de Autor’, en la que premiaron 49 obras, entre ellas «¿Puedo usarlo?», de Yoon Hye-kyung. Lo que el sector editorial debe proteger no es la cantidad de datos, sino el registro de quién autorizó qué."
         }
       ]
+    },
+    "books/khan-sinchun-ai-interview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261116.92cf81a063174a5cafc74bd1b5615735_P1.jpg",
+          "cap": "El día 16, unas gafas con inteligencia artificial (AI) usadas por un periodista de Kyunghyang Shinmun muestran el examen de matemáticas del CSAT (Suneung) de 2026 y el proceso de resolución. Captura de pantalla de ‘Rokid Glass AI’"
+        },
+        {
+          "t": "p",
+          "x": "Tras descubrirse casos de trampa en exámenes con inteligencia artificial (AI), el debate se ha encendido también en el mundo literario. En todas las convocatorias del Sinchun Munye (concurso literario de Año Nuevo) han aparecido avisos que prohíben la AI o exigen declarar su uso."
+        },
+        {
+          "t": "p",
+          "x": "Kyunghyang Shinmun incluyó en su convocatoria del Sinchun Munye 2027 la frase: «Si se utilizó AI en el proceso de escritura de la obra, deben indicarse de forma concreta las herramientas usadas y el propósito y alcance de su uso». El jurado puede solicitar para las obras finalistas una entrevista telefónica o materiales adicionales, y el premio puede anularse si se omite deliberadamente o se declara en falso el uso de AI."
+        },
+        {
+          "t": "img",
+          "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261124.467f97ebbb514fc19d56194943155a8a_P1.png",
+          "cap": "Convocatoria con las bases del Sinchun Munye 2027 de Kyunghyang Shinmun."
+        },
+        {
+          "t": "p",
+          "x": "El año pasado, las obras presentadas al Sinchun Munye de Kyunghyang Shinmun aumentaron respecto al año anterior en 2289 en poesía y en 132 en narrativa. Este año, el Premio Goncourt de Francia excluyó de su lista final una obra sospechosa de haber sido escrita con AI, y un concurso literario en Corea terminó «sin obra ganadora» después de que una obra sospechosa de usar AI llegara a la ronda final."
+        },
+        {
+          "t": "p",
+          "x": "Este año, la mayoría de los organizadores del Sinchun Munye añadió a sus convocatorias la frase «el jurado podrá verificar mediante entrevistas, entre otros medios, el proceso creativo y el uso de AI de las obras finalistas». Moonji planea añadir pautas de uso de AI a partir del próximo año, y Changbi establece desde el año pasado que «no se pueden presentar obras creadas con AI»."
+        },
+        {
+          "t": "p",
+          "x": "El crítico editorial Kim Sung-shin afirmó que es «una escena que muestra de forma simbólica cómo se han hecho visibles los efectos secundarios de la AI en la literatura y la edición». El Sinchun Munye de Kyunghyang Shinmun, que este año celebra su 79.ª edición, solo admite envíos en línea, con plazo hasta el 4 de diciembre."
+        }
+      ]
+    },
+    "books/japan-ai-piracy-manga-detect": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gadgetreview.com/wp-content/uploads/Japan-Tests-AI-to-Detect-Pirate-Anime-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El gobierno de Japón estima que la piratería en línea de su contenido de video, editorial, musical y de videojuegos causó daños por unos ¥5.7 billones en 2025, frente a unos ¥2 billones en 2022. Los accesos mensuales a los 10 mayores sitios piratas dirigidos a contenido japonés se acercaron a 600 millones en diciembre de 2024."
+        },
+        {
+          "t": "p",
+          "x": "La Agencia de Asuntos Culturales ha estado probando un agente de AI diseñado para identificar sitios web y publicaciones en X sospechosos de distribuir anime y manga sin autorización, según Automaton Media. El gobierno planea avanzar hacia su uso práctico tras más pruebas, y espera nuevos resultados a partir de marzo de 2027."
+        },
+        {
+          "t": "p",
+          "x": "La AI señaló 1,168 publicaciones sospechosas en X en una encuesta del año fiscal 2025; los revisores humanos determinaron que el 84% eran ilegales. De los 1,564 sitios de anime que identificó el sistema, el 89% contenía anime pirata, según se informa. De los 1,935 sitios de manga identificados en la misma encuesta, el 94% ofrecía manga pirata. Esos porcentajes describen solo revisiones humanas de muestras AI-selected (seleccionadas por la AI)."
+        },
+        {
+          "t": "p",
+          "x": "El sistema de AI es un componente de un plan de control más amplio, que incluye la cooperación con fuerzas de seguridad extranjeras. Una investigación China-Japan con participación de CODA llevó, según se informa, al cierre de Bato.to y de unos 60 sitios relacionados."
+        }
+      ]
+    },
+    "books/transept-ai-book-translator": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/transept-founders-scaled.webp",
+          "cap": "Los fundadores de Transept, Vitalii Vlasiuk y Mariia Ivakhnenko"
+        },
+        {
+          "t": "p",
+          "x": "En Praga, Mariia Ivakhnenko y Vitalii Vlasiuk, ambos de Ucrania, han creado Transept, una herramienta de A.I. que traduce libros enteros con el objetivo de preservar la voz del autor. Fundaron la empresa (Ukrainian-founded) en 2025 y siguen siendo todo el equipo."
+        },
+        {
+          "t": "p",
+          "x": "Transept traduce archivos de Word, EPUBs, PDFs y escaneos a 68 idiomas, con glosario de usuario, guía de estilo y memoria de traducción. Un editor de A.I. llamado Literess sugiere correcciones, pero una persona debe aprobar cada cambio, y un informe de autoría muestra qué palabras escribió la A.I. La primera novela traducida con la herramienta, un libro de unas 350 páginas, apareció recientemente en Amazon."
+        },
+        {
+          "t": "p",
+          "x": "Transept no ejecuta modelos de A.I. propios: Claude, de Anthropic, se encarga actualmente de la traducción, mientras que Gemini, de Google, lee los PDFs y escaneos. Una versión gratuita cubre unas 5,500 palabras al mes; los planes de pago van de €9 a €149 al mes."
+        },
+        {
+          "t": "p",
+          "x": "Según los datos de un artículo de investigación, los lectores eligieron la traducción humana publicada en 522 de 772 comparaciones, es decir, unas dos terceras partes de las veces. Jueces de A.I. puntuaron más alto la traducción Pro de Transept en 295 de 386 pasajes, aunque el análisis no ha sido revisado por pares."
+        }
+      ]
+    },
+    "books/naver-webtoon-recsys-paper": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://biz.chosun.com/resizer/v2/HA3DCZRRMQYTAODEG5TDMNZSME.jpg?auth=df10ae749834f22f837c690d31960a8e90157d63903f8c244463f3975df6846c&width=1200&height=630&smart=true"
+        },
+        {
+          "t": "p",
+          "x": "Naver Webtoon anunció el día 24 que un artículo de investigación sobre su modelo fundacional (modelo base) de recomendación de webtoons, de desarrollo propio, fue aceptado en el track industrial de 'ACM RecSys 2026', un congreso sobre sistemas de recomendación con inteligencia artificial (AI)."
+        },
+        {
+          "t": "p",
+          "x": "Según Naver Webtoon, ACM RecSys es uno de los principales congresos de sistemas de recomendación con AI, y su track industrial evalúa la aplicabilidad real en la industria. Este año se presentaron al track industrial 306 artículos, más de 2 veces los del año anterior, y solo se aceptaron 82 (una tasa de aceptación del 26.8%)."
+        },
+        {
+          "t": "p",
+          "x": "Naver Webtoon es la primera empresa coreana y del sector global del webtoon en publicar un artículo sobre un modelo fundacional de recomendación en el track industrial."
+        },
+        {
+          "t": "p",
+          "x": "El artículo trata la técnica de 'post-entrenamiento por fases (Multi-Phase Post-Training)', que optimiza el modelo de recomendación propio para el servicio real a partir de patrones de lectura anonimizados de los usuarios. Mientras los sistemas de recomendación anteriores predecían acciones individuales, como los clics en miniaturas de obras, los investigadores optaron por entrenar adicionalmente un modelo de recomendación preentrenado en tres etapas."
+        },
+        {
+          "t": "p",
+          "x": "En la última etapa aplicaron aprendizaje por refuerzo para que el modelo recomiende no las obras en las que el usuario simplemente haría clic, sino las que tienen más probabilidad de leerse de verdad."
+        },
+        {
+          "t": "p",
+          "x": "En una prueba A/B a gran escala (experimento comparativo) de un mes en el servicio de Naver Webtoon, los clics en obras aumentaron un 16.2% frente al método de recomendación anterior tras aplicar el modelo. La tasa de llegada al último episodio gratuito subió un 17.2% y la de llegada a la compra de episodios de pago, un 13.4%. Con base en estos resultados, Naver Webtoon aplica plenamente el modelo desde abril en 'Alaseo Ttak!', el área de recomendaciones de la página de inicio de su app."
+        },
+        {
+          "t": "p",
+          "x": "Jang Tae-young, responsable de AI de Naver Webtoon, afirmó: «Esta aceptación en ACM RecSys es significativa porque supone el reconocimiento internacional de la capacidad técnica que hemos acumulado en sistemas de recomendación y de los resultados de su aplicación en un servicio real». Y añadió: «Seguiremos ampliando y perfeccionando nuestra tecnología de recomendación personalizada para que los lectores, no solo en Corea sino también en nuestros servicios globales, descubran y disfruten fácilmente de obras diversas según sus gustos»."
+        }
+      ]
+    },
+    "books/books-horst-ki-stylometry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48",
+          "cap": "Foto: TV 2 / NTB"
+        },
+        {
+          "t": "p",
+          "x": "«Summing», «during» y más de cien veces más guiones. Así ha cambiado el lenguaje del favorito del género policíaco desde que empezó a usar IA (KI)."
+        },
+        {
+          "t": "p",
+          "x": "Tu lenguaje cambia cuando usas inteligencia artificial (KI), también de maneras de las que quizá no eres consciente."
+        },
+        {
+          "t": "p",
+          "x": "Desde que el detector Skrivera marcó varias novelas de Jørn Lier Horst por un uso extenso de IA (KI-bruk), el debate se ha encendido. ¿Dónde está el límite entre usar la IA (KI) como herramienta de apoyo y dejar que se encargue de la escritura?"
+        },
+        {
+          "t": "p",
+          "x": "Aftenposten ha analizado las novelas policíacas: – La novela que escribes con IA (KI) no es la misma que habrías escrito sin IA (KI). (El resto del artículo es para suscriptores.)"
+        }
+      ]
     }
   }
 }

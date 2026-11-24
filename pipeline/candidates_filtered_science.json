@@ -1,197 +1,209 @@
 {
   "section": "science",
-  "now_iso": "2026-11-23T22:00:42Z",
+  "now_iso": "2026-11-24T22:00:37Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "AI-assisted method advances high-resolution structure classification of membrane proteins in vesicles",
-      "url": "https://phys.org/news/2026-11-ai-method-advances-high-resolution.html",
-      "source": "Phys.org",
+      "title": "Watch out, AlphaFold: Claude and ChatGPT's new biology skills wow scientists",
+      "url": "https://www.nature.com/articles/d41586-026-03836-z",
+      "source": "Nature",
       "category": "science",
-      "subcategory": "life_science",
-      "published_iso": "2026-11-23T17:20:12Z",
-      "excerpt": "Institute of Biophysics, CAS (PNAS): isSPA-vesicle uses an AI model to fit vesicle-membrane geometry and filter mis-oriented particles, yielding 2.7 Å and 3.1 Å in-membrane structures of influenza hemagglutinin and coronavirus OC43 spike.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/isspa-vesicle-an-ai-as.jpg"
-    },
-    {
-      "title": "Hidden leaf dynamics could improve Amazon rainforest carbon uptake estimates",
-      "url": "https://phys.org/news/2026-11-hidden-leaf-dynamics-amazon-rainforest.html",
-      "source": "Phys.org",
-      "category": "science",
-      "subcategory": "life_science",
-      "published_iso": "2026-11-23T12:00:00Z",
-      "excerpt": "University of Hong Kong (Nature): machine learning on 10 m Sentinel-2 imagery (2019-2021) maps monthly leaf loss across the Amazon; accounting for leaf renewal shifts modeled annual carbon uptake by about 9.4%. Remote-sensing angle (deprioritized ecology).",
-      "og_image": null
-    },
-    {
-      "title": "Researchers use AI to optimize sensor design for ultrasensitive vitamin C detection",
-      "url": "https://phys.org/news/2026-11-ai-optimize-sensor-ultrasensitive-vitamin.html",
-      "source": "Phys.org",
-      "category": "science",
-      "subcategory": "materials",
-      "published_iso": "2026-11-19T12:00:00Z",
-      "excerpt": "Sungkyunkwan University (Chemical Engineering Journal): an ML model trained on 25 experiments picked fabrication settings from 625 combinations for a molecularly imprinted polymer sensor; built sensor reached a 778 pM detection limit and tracked ELISA in urine.",
-      "og_image": null
-    },
-    {
-      "title": "Scientists Use AI-Designed CRISPR to Make Disease-Resistant Rice",
-      "url": "https://singularityhub.com/2026/11/18/scientists-use-ai-designed-crispr-to-make-disease-resistant-rice/",
-      "source": "Singularity Hub",
-      "category": "science",
-      "subcategory": "life_science",
-      "published_iso": "2026-11-18T10:17:56-08:00",
-      "excerpt": "University of Missouri (Bing Yang) adapted Profluent's AI-designed OpenCRISPR-1 for rice, knocking out three SWEET genes with up to 97% efficiency; edited plants resisted three Xoo blight strains and passed edits to offspring.",
-      "og_image": "https://singularityhub.com/uploads/2026/11/rice-terraces-bali.jpeg?auto=webp",
+      "published_iso": "2026-11-24T00:00:00Z",
+      "excerpt": "Anthropic and OpenAI's general language models can now design proteins and predict their sequences and structures, capabilities previously seen only in specialized tools; OpenAI reports GPT-6 designs that bound targets in lab tests.",
+      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03836-z/d41586-026-03836-z_54015654.jpg",
+      "subdomain": "life_science",
       "history_match": {
-        "score": 0.404,
-        "date": "2026-10-29",
-        "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html",
-        "title": "Rice plants can fight off devastating disease after gene editing with AI-designed tool",
-        "band": "likely-repeat"
+        "score": 0.166,
+        "date": "2026-11-07",
+        "url": "https://www.nature.com/articles/d41586-026-03552-8",
+        "title": "AI agents run this automated biology lab that sequences DNA and more",
+        "band": "related"
       }
     },
     {
-      "title": "Many languages, one common neural code",
-      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
-      "source": "MIT News",
+      "title": "Scientists discover protein knot once thought impossible – thanks to AI",
+      "url": "https://scienceinpoland.pl/en/news/news%2C115830%2Cscientists-discover-protein-knot-once-thought-impossible-thanks-ai.html",
+      "source": "Science in Poland",
       "category": "science",
-      "subcategory": "cognition",
-      "published_iso": "2026-11-23T21:15:00Z",
-      "excerpt": "MIT McGovern (Nature): analyzing speakers of 21 languages with a multilingual AI model, the study finds the human brain may represent meaning in much the same way across languages. Note: brain-model alignment angle (deprioritized).",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202611/mit-mcgovern-languages.jpg"
+      "published_iso": "2026-11-24T09:36:38+01:00",
+      "excerpt": "Polish researchers, following up AI structure-prediction 'hallucinations', describe in PNAS a protein family with an eight-crossing knot, the most complex protein knot identified to date. (Off-list: no on-list outlet carried it.)",
+      "og_image": "https://scienceinpoland.pl/sites/default/files/styles/new_720_x_405/public/202611/586b8c4f-7261-4a36-9c83-3d499e0e3c40.jpg?h=52ba8c93&itok=BWx3Whr-",
+      "subdomain": "life_science",
+      "off_list": true
     },
     {
-      "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
-      "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
-      "source": "MIT News",
+      "title": "Supervised deep learning for efficient cryo-EM image alignment in drug discovery with cryoPARES",
+      "url": "https://www.nature.com/articles/s41467-026-78403-1",
+      "source": "Nature Communications",
       "category": "science",
-      "subcategory": "research_automation",
-      "published_iso": "2026-11-23T05:00:00Z",
-      "excerpt": "MIT SLIC training teaches a small generative model to design analog integrated circuits as well as or better than frontier LLMs. Engineering-design angle; may fit gadgets better.",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-AnalogOptimize-01-Press.jpg"
+      "published_iso": "2026-11-18T00:00:00Z",
+      "excerpt": "cryoPARES uses supervised deep learning to align cryo-EM particle images, removing computational bottlenecks and manual intervention for high-throughput structure determination.",
+      "og_image": null,
+      "subdomain": "life_science"
+    },
+    {
+      "title": "Environment-adaptive molecular neural networks enabled by heterogeneous threshold DNA neuron",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aek3182",
+      "source": "Science Advances",
+      "category": "science",
+      "published_iso": "2026-11-18T19:04:36Z",
+      "excerpt": "Researchers build DNA-strand-displacement 'neurons' with heterogeneous thresholds and wire them into molecular neural networks that adapt their computation to the chemical environment (date via Crossref created).",
+      "og_image": null,
+      "subdomain": "life_science",
+      "history_match": {
+        "score": 0.205,
+        "date": "2026-11-17",
+        "url": "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html",
+        "title": "Quantum neural networks with high-dimensional quantum neurons",
+        "band": "related"
+      }
+    },
+    {
+      "title": "AI helps researchers track beluga whales using aerial drone images",
+      "url": "https://phys.org/news/2026-11-ai-track-beluga-whales-aerial.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-11-19T19:40:00Z",
+      "excerpt": "Florida Atlantic University and Fisheries and Oceans Canada used semi-supervised deep learning (SEMI-DETR) to detect and track belugas and calves across drone image sequences with 5-10x less hand labeling (Frontiers in Marine Science).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+      "subdomain": "life_science"
+    },
+    {
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "Google DeepMind",
+      "category": "science",
+      "published_iso": "2026-11-23T17:00:00+00:00",
+      "excerpt": "Teams of Gemini 4 agents improved known quantum algorithms, cutting a fusion-energy circuit cost 11.8x, a photosensitive-molecule simulation 8x and a Cytochrome P450 simulation 2.5x, each proven correct in Lean (arXiv 2611.09822).",
+      "og_image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w1200-h630-n-nu-rw",
+      "subdomain": "quantum",
+      "history_match": {
+        "score": 0.279,
+        "date": "2026-11-11",
+        "url": "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/",
+        "title": "Google Researchers Use AI And Mathematical Proofs to Cut Quantum Computing Requirements",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Researchers Fit Quantum Circuits Into a 30 Billion-Parameter AI Model",
+      "url": "https://thequantuminsider.com/2026/11/24/researchers-fit-quantum-circuits-into-a-30-billion-parameter-ai-model/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "published_iso": "2026-11-24T12:23:06+00:00",
+      "excerpt": "Researchers replaced eight layers of the Qwen3 language model with a module that can run on a quantum processor, testing hybrid quantum circuits inside a 30B-parameter model.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png",
+      "subdomain": "quantum"
+    },
+    {
+      "title": "Machine-learning models can detect elevated psychopathy and sadism from reactions to funny pictures",
+      "url": "https://www.psypost.org/machine-learning-models-can-detect-elevated-psychopathy-and-sadism-from-reactions-to-funny-pictures/",
+      "source": "PsyPost",
+      "category": "science",
+      "published_iso": "2026-11-24T11:00:24+00:00",
+      "excerpt": "Algorithms trained on people's ratings of memes and cartoons flagged elevated psychopathy, sadism and narcissism, while Machiavellianism left no detectable trace.",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+      "subdomain": "psychology"
+    },
+    {
+      "title": "Chatbots can quash emerging conspiracy theories",
+      "url": "https://news.cornell.edu/stories/2026/11/chatbots-can-quash-emerging-conspiracy-theories",
+      "source": "Cornell Chronicle",
+      "category": "science",
+      "published_iso": "2026-11-24T09:45:29-05:00",
+      "excerpt": "Cornell researchers found AI chatbot conversations talked about 15% of people out of conspiracy beliefs in the immediate aftermath of a crisis, when little information is known. (Off-list: no on-list outlet had it yet.)",
+      "og_image": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=Vr-AAGHS",
+      "subdomain": "psychology",
+      "off_list": true
+    },
+    {
+      "title": "Physics-guided AI reconstructs fluid flow from sparse, noisy data",
+      "url": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-11-23T23:20:01Z",
+      "excerpt": "UC Irvine's PMPG-NN couples a neural network with the principle of minimum pressure gradient to reconstruct physically consistent flow fields from sparse, noisy measurements without pressure data (Physics of Fluids).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+      "subdomain": "physics"
+    },
+    {
+      "title": "Predicting the unknown: A robust approach lets AI extrapolate to undiscovered materials",
+      "url": "https://techxplore.com/news/2026-11-unknown-robust-approach-ai-extrapolate.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-11-24T16:00:02Z",
+      "excerpt": "University of Tokyo researchers decouple structure learning (pretrained graph neural networks) from property regression, cutting extrapolation error 68% versus CGCNN on newer Materials Project entries (PRX Intelligence).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+      "subdomain": "materials"
     },
     {
       "title": "A legendary philosopher isn't buying Anthropic's consciousness argument",
       "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
       "source": "MIT Technology Review",
       "category": "science",
-      "subcategory": "cognition",
       "published_iso": "2026-11-23T12:36:08-05:00",
-      "excerpt": "Anthropic warned investors its AI might be conscious; a leading philosopher of mind rejects the argument, probing what AI-welfare research actually shows. Commentary/feature rather than new data.",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600"
+      "excerpt": "Anthropic warned investors its AI might be conscious; a leading philosopher of mind pushes back on the argument and what acting on it would mean.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600",
+      "subdomain": "cognition"
     },
     {
-      "title": "One in four students turn to AI for mental health support",
-      "url": "https://medicalxpress.com/news/2026-11-students-ai-mental-health.html",
-      "source": "Medical Xpress",
+      "title": "AI is 'the end of mathematics as we know it' — where does the field go next?",
+      "url": "https://www.nature.com/articles/d41586-026-03719-3",
+      "source": "Nature",
       "category": "science",
-      "subcategory": "psychology",
-      "published_iso": "2026-11-23T14:20:00Z",
-      "excerpt": "University of Bath (JMIR Mental Health): survey of 2,020 UK students finds about one in four used generative AI for mental-health support in six months, highest among those with very low well-being. Cross-sectional survey (attitude-survey caveat).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg"
-    },
-    {
-      "title": "ChatGPT's translation of mental health questionnaires into Mandarin reveals inconsistent results",
-      "url": "https://medicalxpress.com/news/2026-11-chatgpt-mental-health-questionnaires-mandarin.html",
-      "source": "Medical Xpress",
-      "category": "science",
-      "subcategory": "psychology",
-      "published_iso": "2026-11-19T12:00:00Z",
-      "excerpt": "University of Canterbury (Wei Teng): engineered prompts made ChatGPT's Mandarin K10/PHQ-9 translations more natural, but the same prompt gave inconsistent outputs across user accounts, raising reliability concerns for psychological assessment.",
-      "og_image": null
-    },
-    {
-      "title": "AI can identify themes in human interviews but still misses nuances in meaning",
-      "url": "https://techxplore.com/news/2026-11-ai-themes-human-nuances.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "subcategory": "psychology",
-      "published_iso": "2026-11-17T12:00:00Z",
-      "excerpt": "University of Missouri (Int. J. Qualitative Methods): AURA framework compared BERTopic with human coders on 32 interviews; 11 of 12 human themes matched an AI topic, but AI merged/split themes and missed nuance.",
-      "og_image": null
-    },
-    {
-      "title": "Neural networks that behave identically reveal hidden structural differences as they learn",
-      "url": "https://techxplore.com/news/2026-11-neural-networks-identically-reveal-hidden.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "subcategory": "cognition",
-      "published_iso": "2026-11-17T12:00:00Z",
-      "excerpt": "Technion (arXiv 2605.04115, NeurIPS 2026 oral): RNNs with identical behavior carry hidden structural differences that surface only when learning a new task and retain traces of past training; proposes tests for biological circuits.",
-      "og_image": null,
+      "published_iso": "2026-11-24T00:00:00Z",
+      "excerpt": "After AI-assisted proofs of Riemann-class problems, mathematicians brace for a future in which much of their profession could be delegated to machines.",
+      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03719-3/d41586-026-03719-3_54011178.jpg",
+      "subdomain": "formal_math",
       "history_match": {
-        "score": 0.153,
-        "date": "2026-11-07",
-        "url": "https://phys.org/news/2026-11-fractal-patterns-reveal-hidden-limits.html",
-        "title": "Fractal patterns reveal hidden limits to AI predictability",
+        "score": 0.166,
+        "date": "2026-11-21",
+        "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+        "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math",
         "band": "related"
       }
     },
     {
-      "title": "Your Best Quantum Error Correction Engineer Might Be a Bot",
-      "url": "https://quantumcomputingreport.com/your-best-quantum-error-correction-engineer-might-be-a-bot/",
-      "source": "Quantum Computing Report",
+      "title": "Who is Levent Alpöge, the reclusive genius behind AI's math conquest?",
+      "url": "https://www.scientificamerican.com/article/who-is-levent-alpoege-the-reclusive-genius-behind-ais-math-conquest/",
+      "source": "Scientific American",
       "category": "science",
-      "subcategory": "quantum",
-      "published_iso": "2026-11-19T23:44:15+00:00",
-      "excerpt": "GQI analysis of how AI increasingly assists engineers in designing new quantum error-correction codes and decoders. Analysis piece, no single new result.",
-      "og_image": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-143.png",
+      "published_iso": "2026-11-24T06:00:00-05:00",
+      "excerpt": "Profile of the Anthropic mathematician whose Claude-assisted, Lean-verified Riemann hypothesis proof has upended mathematics.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/2b432115-d492-424c-9ec5-ddbc3781c659/LEAD-LA_webresize.png?m=1795540446.508&w=1200",
+      "subdomain": "formal_math",
       "history_match": {
-        "score": 0.226,
-        "date": "2026-10-30",
-        "url": "https://quantumcomputingreport.com/yonsei-university-researchers-develop-mamba-state-space-neural-decoder-to-enable-real-time-quantum-error-correction/",
-        "title": "Yonsei University Researchers Develop Mamba State-Space Neural Decoder to Enable Real-Time Quantum Error Correction",
-        "band": "related"
+        "score": 0.402,
+        "date": "2026-11-21",
+        "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+        "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math",
+        "band": "likely-repeat"
       }
-    },
-    {
-      "title": "Machine learning-driven regulation of the four-electron LiOH pathway in lithium-oxygen batteries with prolonged cycling",
-      "url": "https://www.nature.com/articles/s41467-026-79335-6",
-      "source": "Nature Communications",
-      "category": "science",
-      "subcategory": "materials",
-      "published_iso": "2026-11-18T00:00:00Z",
-      "excerpt": "Authors use machine learning to identify a Ni-Co dual-atom catalyst that promotes a four-electron LiOH pathway in Li-O2 batteries, reaching ~60,000 mAh/g capacity and over 2,000 stable cycles.",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 13,
+    "kept": 15,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [],
-    "review": 3,
+    "dropped": [
+      {
+        "url": "https://singularityhub.com/2026/11/18/scientists-use-ai-designed-crispr-to-make-disease-resistant-rice/",
+        "title": "Scientists Use AI-Designed CRISPR to Make Disease-Resistant Rice",
+        "match": {
+          "score": 0.509,
+          "date": "2026-10-29",
+          "url": "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html",
+          "title": "Rice plants can fight off devastating disease after gene editing with AI-designed tool"
+        }
+      }
+    ],
+    "review": 5,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-25",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://allenai.org/blog/litpivot"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://allenai.org/blog/olmoearth-v1-3"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "Most AI chatbots stay in the political middle ground, with Grok being an exception",
-      "url": "https://phys.org/news/2026-10-ai-chatbots-stay-political-middle.html"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "Low-power neural chip reads brain signals to identify cognitive and emotional states",
-      "url": "https://techxplore.com/news/2026-10-power-neural-chip-brain-cognitive.html"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "PerturbAI and OpenAI launch AI reasoning agents for biomedical discovery",
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/perturbai-and-openai-launch-ai-reasoning-agents-for-biomedical-discovery/"
-    },
     {
       "date": "2026-10-26",
       "title": "AI agents can form political camps—and changing their conversation partners does little to soften their views",
@@ -861,6 +873,31 @@
       "date": "2026-11-23",
       "title": "AI guardrails falter as tampering drives repeated harassment in simulated conversations",
       "url": "https://techxplore.com/news/2026-11-ai-guardrails-falter-tampering-simulated.html"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "One in four students turn to AI for mental health support",
+      "url": "https://medicalxpress.com/news/2026-11-students-ai-mental-health.html"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
+      "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Many languages, one common neural code",
+      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Neural networks that behave identically reveal hidden structural differences as they learn",
+      "url": "https://techxplore.com/news/2026-11-neural-networks-identically-reveal-hidden.html"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Machine learning-driven regulation of the four-electron LiOH pathway in lithium-oxygen batteries with prolonged cycling",
+      "url": "https://www.nature.com/articles/s41467-026-79335-6"
     }
   ]
 }

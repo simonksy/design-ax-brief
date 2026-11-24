@@ -6086,6 +6086,126 @@
           "x": "별개로 Classic, Elegant, Impact 테마에는 All Deals 탭이 기본으로 켜져 있다. 할인 중인 제품을 최대 30개까지 보여 주는 탭인데, 어떤 제품을 어떤 순서로 올릴지는 Amazon이 정한다. Amazon은 \"All Deals 페이지를 대신 만들고 업데이트한다\"고 설명한다. 브랜드는 Store Settings에서 이 탭을 끄거나 자체 할인 페이지로 바꿀 수 있다."
         }
       ]
+    },
+    "marketing/amazon-chatgpt-ads-crawler-block": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
+          "cap": "Ivy Liu"
+        },
+        {
+          "t": "p",
+          "x": "Amazon은 ChatGPT가 들여다보지 못하게 막아 온 바로 그 쇼핑객에게 닿으려고 OpenAI에 돈을 낸다. Prime Day 뒤 몇 달 잠잠하던 Amazon이 U.S.(미국)에서 Black Friday 광고를 새로 집행하며 챗봇에 돌아왔다. 광고는 할인 상품을 알리고 사용자를 Amazon으로 보내 구매를 마치게 한다."
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT 쇼핑 기능은 개별 상품 페이지가 아니라 Amazon 검색 결과로 이어진다. 상품과 할인, 최신 가격은 제3자 할인 추적 사이트를 참고해 파악하고, Amazon 웹사이트에 꼭 들어가지는 않는다."
+        },
+        {
+          "t": "p",
+          "x": "eMarketer의 Arielle Feger는 “쇼핑객을 개별 상품 페이지가 아닌 Amazon 검색 결과로 보내면 광고로 돈을 벌 기회가 하나 더 생긴다”고 말했다. Amazon의 U.S. 검색 광고 매출은 올해 $40.57 billion에 이를 전망이다. 그는 “브랜드로서는 같은 고객에게 두 번 돈을 낼 위험이 생긴다”고 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "9월 Amazon Ads는 광고주가 Amazon의 DSP로 ChatGPT 광고 지면을 살 수 있는 제휴를 발표했다. 이번 ChatGPT 광고를 Amazon이 OpenAI에서 직접 샀는지 자사 DSP로 샀는지는 분명하지 않다. 두 회사 모두 논평을 거부했다."
+        }
+      ]
+    },
+    "marketing/walmart-meta-muse-blackfriday": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Walmart가 Meta와 손잡고 Meta의 AI 에이전트 Muse로 Black Friday 특가 상품을 살 수 있게 한다. 화요일 발표된 제휴에 따라 쇼핑객이 Muse에 원하는 것을 말하면 AI가 상품을 찾고 가격을 비교해 구매까지 마친다. Amazon은 제3자 AI 에이전트가 고객 대신 구매하지 못하게 막아 왔지만, Walmart는 이 방식을 적극 받아들인다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
+          "cap": "이미지 출처: Walmart"
+        },
+        {
+          "t": "p",
+          "x": "사용자는 Muse 앱에서 Walmart 계정에 로그인한다. Muse가 Walmart에 요청을 보내면 Walmart가 관련 상품을 돌려주고 장바구니 구성을 돕는다. Muse는 고객의 Walmart 구매 이력이나 다른 개인정보에 접근하지 못한다. 쇼핑객은 지출 한도와 구매 전 승인 여부를 정하고 에이전트가 넣은 주문도 검토할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "이 기능은 Walmart가 10월 내놓은 Agent Gateway로 돌아간다. 외부 AI 어시스턴트가 온라인 스토어에 바로 연결되도록 만든 도구다. Walmart는 이를 더 많은 개발자와 AI 플랫폼에 열 계획이다. Instacart도 Muse와 손잡았다."
+        }
+      ]
+    },
+    "marketing/creator-deals-no-ai-clauses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "인플루언서 마케팅 계약에 새로 붙기 시작한 부속 조항으로 AI 사용이 있다. 크리에이터 마케팅 회사 Pearpop의 인재 담당 부사장 Kurt Stadelman은 Digiday의 Creator Strategies 행사에서 “이 캠페인 콘텐츠에 크리에이터가 AI를 쓸 수 없다는 문구를 담은 계약이 실제로 점점 늘고 있다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "크리에이터들은 오히려 브랜드의 no-AI 요구를 반긴다고 그는 전했다. 생성형 AI에 피드에서 밀려날까 이미 걱정하던 터라 이 조항을 사람이 만든 콘텐츠를 지키겠다는 약속으로 받아들인다. 다만 Pearpop은 콘셉트나 대본을 짜거나 과거 콘텐츠 성과를 분석하는 등 보이지 않는 곳에서는 크리에이터가 여전히 AI 도구를 써도 된다고 명시해야 했다."
+        },
+        {
+          "t": "p",
+          "x": "Stadelman은 크리에이터에게 영구 사용에는 절대 동의하지 말라고 조언했다. 유료 사용권은 석 달로 시작해 여섯 달을 넘기지 말고, net-90 지급 조건은 net-60, 가능하면 net-30으로 당기라고도 했다."
+        }
+      ]
+    },
+    "marketing/etnews-ai-fake-doctor-ad-ban": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "오는 27일 'AI 가짜 의사' 식품 광고를 금지하는 법 시행을 앞두고 이커머스 업체들이 판매자 관리에 나섰다. 개정 식품 등의 표시·광고에 관한 법률은 AI로 생성한 실제와 구분하기 어려운 음성·이미지·영상 등으로 전문가가 식품을 추천·보증하는 것으로 오인하게 할 광고를 금지한다. 다만 AI를 사용한 모든 식품 광고가 금지되는 것은 아니다."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
+          "cap": "생성형 AI 제작 이미지."
+        },
+        {
+          "t": "p",
+          "x": "G마켓은 부당광고 모니터링에 'AI 가상 전문가 추천·보증' 유형을 추가했다. '의사 추천', '약사 추천' 등 문구와 이미지 속 글자까지 인식해 의심 상품을 찾고, 법 시행 전 등록 상품도 같은 기준으로 점검한다."
+        },
+        {
+          "t": "p",
+          "x": "네이버는 지난 6월 'AI 생성물 사용 기준'을 안내해 의사·약사 등으로 오인될 가상 인물을 상품정보에 넣지 못하게 했고, 식품류에 다른 AI 생성물을 쓰면 표시하도록 했다. 쿠팡과 11번가는 기존 허위·과장 광고 제재 절차로 대응한다."
+        },
+        {
+          "t": "p",
+          "x": "남은 과제는 플랫폼 밖 광고다. 판매자가 외부 SNS에 가짜 전문가 광고를 올려 구매자를 유입하면 상세페이지 점검만으로는 발견하기 어렵다. G마켓은 외부 광고도 신고·제보와 자체 모니터링으로 파악하고 있다."
+        }
+      ]
+    },
+    "marketing/chatgpt-orchestrator-adqueries": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
+          "cap": "Picture Alliance via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT 광고 시스템이 2월 출시된 뒤로 광고 구매자들은 작동 방식을 더 알려 달라고 거듭 요구해 왔다. 경영진은 그 내용을 조금씩 풀어놓는 중이다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI는 자체 AI 에이전트가 짠 검색 쿼리에 맞춰 ChatGPT 광고를 붙인다. 이 AI 연구소에서 광고 시스템을 이끄는 경영진 세 명이 ADWEEK에 한 설명이다."
+        },
+        {
+          "t": "p",
+          "x": "사용자가 ChatGPT에 프롬프트를 넣으면 OpenAI가 오케스트레이터(orchestrator)라 부르는 AI 에이전트가 대화를 읽고 그 사람이 무엇을 사고 싶어 하는지 가늠한다. 광고 개인화 설정이 허용돼 있으면 이전 대화도 참고할 수 있다. 그다음 검색 쿼리를 직접 쓰고 시스템에서 찾은 광고에 순위를 매겨 가장 알맞은 후보를 경매에 올린다. 경매에서는 광고주 입찰가와 그 광고가 사용자에게 얼마나 쓸모 있을지를 함께 본다."
+        },
+        {
+          "t": "p",
+          "x": "광고주는 자기 광고가 왜 노출됐는지 알 길이 없다. 프롬프트 단위 데이터 없이 ChatGPT 광고 성과를 집계한 보고만 받다 보니 많은 광고주가 이 플랫폼을 테스트 예산으로 돌린다. 구매자들은 ChatGPT 광고의 CTR이 Google보다 낮다는 사실도 확인했다. OpenAI의 연환산 광고 매출 $1 billion 은 지금 보유한 것에 비하면 \"훨씬 작은 규모\"다."
+        }
+      ]
     }
   }
 }

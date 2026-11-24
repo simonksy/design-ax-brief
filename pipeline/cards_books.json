@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "section": "books",
   "cards": [
     {
-      "id": "books-horst-ki-stylometry",
-      "source_lang": "no",
+      "id": "darcos-ia-droit-auteur-loi",
+      "source_lang": "fr",
       "eyebrow": "AI NEWS",
-      "headline": "AI(KI)가 바꾼\n범죄소설 작가의 문체",
-      "body": "Aftenposten이 분석해 보니 Horst의 문체는 AI(KI) 이후 달라졌다.",
-      "mini_headline": "AI(KI)가 바꾼 Horst의 문체",
+      "headline": "AI(IA) 저작권 법안\n국민의회서 또 제동",
+      "body": "IA 저작물 이용 추정 법안이 11월 19일 Assemblée 의제에서 빠졌다.",
+      "mini_headline": "IA 법안, 국민의회서 제동",
       "tool": "Books",
-      "source": "Aftenposten",
-      "url": "https://www.aftenposten.no/kultur/i/7PlEnw/joern-lier-horst-og-ki-dette-er-forskjellene-i-spraaket-hans",
+      "source": "Livres Hebdo",
+      "url": "http://www.livreshebdo.fr/article/loi-sur-lia-et-le-droit-dauteur-laure-darcos-denonce-un-nouveau-blocage-lassemblee",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,211 +19,204 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48",
-            "cap": "사진: TV 2 / NTB"
+            "src": "https://www.livreshebdo.fr/sites/default/files/2026-05/ASSEMBLEE_NATIONALE_BOURBON.jpg"
           },
           {
             "t": "p",
-            "x": "«Summing», «during», 백 배 넘게 늘어난 줄표. 인기 범죄소설 작가가 AI(KI)를 쓰기 시작하자 문체가 이렇게 바뀌었다."
+            "x": "인공지능 업체가 문화 콘텐츠를 썼다고 추정하는 제도를 담은 법안은 11월 19일 수요일 Assemblée nationale(국민의회) 심의를 앞두고 결국 의사일정에서 빠졌다. Laure Darcos 상원의원은 Livres Hebdo에 “오늘 밤 이 법안이 표결될 가능성은 전혀 없다”고 말했다."
           },
           {
             "t": "p",
-            "x": "인공지능(KI)을 쓰면 언어가 바뀐다. 본인도 미처 알아채지 못하는 방식으로."
+            "x": "2025년 12월 12일 발의된 이 법안(n° 220)은 4월 Sénat(상원)를 만장일치로 통과했다. Laure Darcos는 Arthur Mensch와 Yann LeCun이 교섭단체 대표들을 찾아가 상정을 막았다고 말한다. 6월 11일 사회당 몫 의사일정 때는 수정안 110건이 쏟아져 심의가 무산됐는데, 대부분 Renaissance가 낸 것이었다."
           },
           {
             "t": "p",
-            "x": "탐지기 Skrivera가 Jørn Lier Horst의 소설 여러 편에 광범위한 AI 사용(KI-bruk) 판정을 내리자 논쟁이 달아올랐다. AI(KI)를 보조 도구로 쓰는 일과 글쓰기를 통째로 맡기는 일은 어디서 갈리나?"
+            "x": "Boris Vallaud는 Renaissance가 수정안 110건을 철회하는 조건으로 11월 19일 의사일정에 법안을 다시 올리기로 했다. “Mistral을 사실상 비켜 간” 새 문안 덕에 수정안 110건 중 90건이 효력을 잃었다. 그런데도 Mistral AI는 반대 뜻을 밝혔고, Rassemblement national은 하위 수정안을 열 건가량 냈다. Laure Darcos는 “marcheurs와 pro-tech 성향 RN 사이의 명백한 이해 담합”이라고 비판했다."
           },
           {
             "t": "p",
-            "x": "Aftenposten이 그의 범죄소설을 분석했다. – AI(KI)로 쓴 소설은 AI(KI) 없이 썼을 소설과 다르다. (나머지 내용은 구독자만 볼 수 있다.)"
+            "x": "크리스마스(Noël)까지 의사일정이 꽉 차 있어 남은 기회는 2월 10일 공산당 몫 일정뿐이다. 대선을 앞두고 법안 처리는 2월 28일 멈춘다. 이 상원의원은 “하지만 우리는 이 싸움을 결코 포기하지 않을 것”이라고 했다."
           }
         ]
       },
       "text": {
         "_src": {
-          "headline": "Krimforfatterens språk\nendret seg med KI",
-          "body": "Aftenpostens analyse av Jørn Lier Horsts krimbøker viser målbare språkendringer etter at han tok i bruk KI.",
-          "mini_headline": "KI endret Horsts språk",
+          "headline": "Loi IA et droit d'auteur\nnouveau blocage à l'Assemblée",
+          "body": "Le texte présumant l'exploitation des œuvres par l'IA a été retiré de l'ordre du jour de l'Assemblée le 19 novembre.",
+          "mini_headline": "Loi IA bloquée à l'Assemblée",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48",
-                "cap": "Foto: TV 2 / NTB"
+                "src": "https://www.livreshebdo.fr/sites/default/files/2026-05/ASSEMBLEE_NATIONALE_BOURBON.jpg"
               },
               {
                 "t": "p",
-                "x": "Summing, during og over hundre ganger så mange tankestreker. Slik har krimfavorittens språk endret seg etter at han begynte å bruke KI."
+                "x": "La proposition de loi visant à instaurer une présomption d'exploitation des contenus culturels par les fournisseurs d'intelligence artificielle devait être examinée à l'Assemblée nationale mercredi 19 novembre, mais le texte a finalement été écarté de l'ordre du jour. « Il n'y a aucune chance pour que la proposition de loi soit votée ce soir », déclare à Livres Hebdo la sénatrice Laure Darcos."
               },
               {
                 "t": "p",
-                "x": "Språket ditt endrer seg når du bruker kunstig intelligens (KI), også på måter du kanskje ikke er klar over."
+                "x": "Déposée le 12 décembre 2025, la proposition de loi (n° 220) avait été adoptée à l'unanimité au Sénat en avril. Selon Laure Darcos, Arthur Mensch et Yann LeCun sont intervenus auprès des présidents de groupe pour empêcher son inscription ; dans la niche socialiste du 11 juin, 110 amendements, pour la plupart de Renaissance, ont empêché son examen."
               },
               {
                 "t": "p",
-                "x": "Etter at flere av Jørn Lier Horsts romaner ble flagget av detektoren Skrivera for omfattende KI-bruk, har debatten gått varmt. Hvor går grensen mellom å bruke KI som støtteverktøy og å la det ta over skrivejobben?"
+                "x": "Boris Vallaud a accepté de réinscrire le texte dans la niche du 19 novembre, à condition que les 110 amendements Renaissance soient retirés. Une nouvelle rédaction, qui « épargnait quasiment Mistral », a rendu caducs 90 des 110 amendements, mais Mistral AI a exprimé son désaccord et le Rassemblement national a déposé une dizaine de sous-amendements. Laure Darcos dénonce « une vraie collusion d'intérêts entre les marcheurs et le RN pro-tech »."
               },
               {
                 "t": "p",
-                "x": "Aftenposten har analysert krimbøkene: – Romanen du skriver med KI, er ikke den samme som du hadde skrevet uten KI. (Resten av saken er for abonnenter.)"
+                "x": "Toutes les niches d'ici Noël étant complètes, reste la niche communiste du 10 février, avant l'arrêt des adoptions le 28 février en raison de la présidentielle. « Mais nous ne lâcherons jamais ce combat », affirme la sénatrice."
               }
             ]
           },
-          "lang": "no"
+          "lang": "fr"
         },
         "en": {
-          "headline": "Crime author's language\nchanged with AI (KI)",
-          "body": "Aftenposten's analysis of Jørn Lier Horst's crime novels finds measurable language shifts after he took up AI (KI).",
-          "mini_headline": "AI (KI) changed Horst's language",
+          "headline": "AI copyright bill (loi IA)\nstalls again at the Assemblée",
+          "body": "The bill presuming AI (IA) use of creative works was pulled from the Assemblée agenda on November 19.",
+          "mini_headline": "Loi IA stalled at the Assemblée",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48",
-                "cap": "Photo: TV 2 / NTB"
+                "src": "https://www.livreshebdo.fr/sites/default/files/2026-05/ASSEMBLEE_NATIONALE_BOURBON.jpg"
               },
               {
                 "t": "p",
-                "x": "«Summing», «during» and more than a hundred times as many dashes. This is how the crime favourite's language has changed since he began using AI (KI)."
+                "x": "The bill to establish a presumption that artificial intelligence providers exploit cultural content was due to be examined in the Assemblée nationale on Wednesday, November 19, but the text was ultimately dropped from the agenda. “There is no chance the bill will be passed tonight,” Senator Laure Darcos told Livres Hebdo."
               },
               {
                 "t": "p",
-                "x": "Your language changes when you use artificial intelligence (KI), also in ways you may not be aware of."
+                "x": "Filed on December 12, 2025, the bill (n° 220) had been adopted unanimously by the Sénat in April. According to Laure Darcos, Arthur Mensch and Yann LeCun lobbied parliamentary group leaders to keep it off the agenda; during the Socialist group’s reserved session on June 11, 110 amendments, most of them from Renaissance, prevented its examination."
               },
               {
                 "t": "p",
-                "x": "After several of Jørn Lier Horst's novels were flagged by the detector Skrivera for extensive AI use (KI-bruk), the debate has run hot. Where is the line between using AI (KI) as a support tool and letting it take over the writing?"
+                "x": "Boris Vallaud agreed to put the text back on the agenda for the November 19 reserved session, on condition that the 110 Renaissance amendments be withdrawn. A new draft, which “nearly spared Mistral,” made 90 of the 110 amendments void, but Mistral AI voiced its disagreement and the Rassemblement national filed about ten sub-amendments. Laure Darcos denounces “a real collusion of interests between the marcheurs and the pro-tech RN.”"
               },
               {
                 "t": "p",
-                "x": "Aftenposten has analysed the crime novels: – The novel you write with AI (KI) is not the same one you would have written without AI (KI). (The rest of the story is for subscribers.)"
+                "x": "With every reserved session booked until Christmas (Noël), what remains is the Communist group’s session on February 10, before adoptions stop on February 28 because of the presidential election. “But we will never give up this fight,” the senator says."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI(KI)가 바꾼\n범죄소설 작가의 문체",
-          "body": "Aftenposten이 분석해 보니 Horst의 문체는 AI(KI) 이후 달라졌다.",
-          "mini_headline": "AI(KI)가 바꾼 Horst의 문체",
+          "headline": "AI(IA) 저작권 법안\n국민의회서 또 제동",
+          "body": "IA 저작물 이용 추정 법안이 11월 19일 Assemblée 의제에서 빠졌다.",
+          "mini_headline": "IA 법안, 국민의회서 제동",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48",
-                "cap": "사진: TV 2 / NTB"
+                "src": "https://www.livreshebdo.fr/sites/default/files/2026-05/ASSEMBLEE_NATIONALE_BOURBON.jpg"
               },
               {
                 "t": "p",
-                "x": "«Summing», «during», 백 배 넘게 늘어난 줄표. 인기 범죄소설 작가가 AI(KI)를 쓰기 시작하자 문체가 이렇게 바뀌었다."
+                "x": "인공지능 업체가 문화 콘텐츠를 썼다고 추정하는 제도를 담은 법안은 11월 19일 수요일 Assemblée nationale(국민의회) 심의를 앞두고 결국 의사일정에서 빠졌다. Laure Darcos 상원의원은 Livres Hebdo에 “오늘 밤 이 법안이 표결될 가능성은 전혀 없다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "인공지능(KI)을 쓰면 언어가 바뀐다. 본인도 미처 알아채지 못하는 방식으로."
+                "x": "2025년 12월 12일 발의된 이 법안(n° 220)은 4월 Sénat(상원)를 만장일치로 통과했다. Laure Darcos는 Arthur Mensch와 Yann LeCun이 교섭단체 대표들을 찾아가 상정을 막았다고 말한다. 6월 11일 사회당 몫 의사일정 때는 수정안 110건이 쏟아져 심의가 무산됐는데, 대부분 Renaissance가 낸 것이었다."
               },
               {
                 "t": "p",
-                "x": "탐지기 Skrivera가 Jørn Lier Horst의 소설 여러 편에 광범위한 AI 사용(KI-bruk) 판정을 내리자 논쟁이 달아올랐다. AI(KI)를 보조 도구로 쓰는 일과 글쓰기를 통째로 맡기는 일은 어디서 갈리나?"
+                "x": "Boris Vallaud는 Renaissance가 수정안 110건을 철회하는 조건으로 11월 19일 의사일정에 법안을 다시 올리기로 했다. “Mistral을 사실상 비켜 간” 새 문안 덕에 수정안 110건 중 90건이 효력을 잃었다. 그런데도 Mistral AI는 반대 뜻을 밝혔고, Rassemblement national은 하위 수정안을 열 건가량 냈다. Laure Darcos는 “marcheurs와 pro-tech 성향 RN 사이의 명백한 이해 담합”이라고 비판했다."
               },
               {
                 "t": "p",
-                "x": "Aftenposten이 그의 범죄소설을 분석했다. – AI(KI)로 쓴 소설은 AI(KI) 없이 썼을 소설과 다르다. (나머지 내용은 구독자만 볼 수 있다.)"
+                "x": "크리스마스(Noël)까지 의사일정이 꽉 차 있어 남은 기회는 2월 10일 공산당 몫 일정뿐이다. 대선을 앞두고 법안 처리는 2월 28일 멈춘다. 이 상원의원은 “하지만 우리는 이 싸움을 결코 포기하지 않을 것”이라고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ミステリー作家の文体\nAI(KI)で変わった",
-          "body": "Aftenpostenの分析で、HorstのAI(KI)導入後の文体変化が判明した。",
-          "mini_headline": "AI(KI)がHorstの文体を変えた",
+          "headline": "AI(IA)著作権法案\n国民議会で再び頓挫",
+          "body": "IAの著作物利用を推定する法案が11月19日、Assembléeの議題から外された。",
+          "mini_headline": "IA法案、国民議会で頓挫",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48",
-                "cap": "写真：TV 2 / NTB"
+                "src": "https://www.livreshebdo.fr/sites/default/files/2026-05/ASSEMBLEE_NATIONALE_BOURBON.jpg"
               },
               {
                 "t": "p",
-                "x": "「Summing」「during」、そして百倍を超えるダッシュ。人気ミステリー作家の文体は、AI(KI)を使い始めてからこう変わった。"
+                "x": "人工知能事業者による文化コンテンツの利用を推定する制度を設ける法案は、11月19日水曜日にAssemblée nationale（国民議会）で審議される予定だったが、最終的に議事日程から外された。Laure Darcos上院議員はLivres Hebdoに対し「今夜この法案が可決される見込みはまったくない」と語った。"
               },
               {
                 "t": "p",
-                "x": "人工知能（KI）を使うと、言葉は変わる。自分では気づかない形でも変わる。"
+                "x": "2025年12月12日に提出されたこの法案（n° 220）は、4月にSénat（上院）で全会一致で可決されていた。Laure Darcosによれば、Arthur MenschとYann LeCunが会派代表らに働きかけて上程を阻んだ。6月11日の社会党枠の審議日には、大半がRenaissanceによる110件の修正案が審議を妨げた。"
               },
               {
                 "t": "p",
-                "x": "Jørn Lier Horstの小説数作が検出ツールSkriveraによって広範なAI使用（KI-bruk）と判定されて以来、議論が白熱している。AI(KI)を補助ツールとして使うことと、執筆そのものを任せることの境界はどこにあるのか。"
+                "x": "Boris Vallaudは、Renaissanceの修正案110件の撤回を条件に、11月19日の枠で法案を再び議題に載せることを受け入れた。「Mistralをほぼ対象外とした」新たな条文で110件中90件の修正案が無効になったが、Mistral AIは反対を表明し、Rassemblement nationalは十件ほどの下位修正案を提出した。Laure Darcosは「marcheursとpro-techのRNとの間の紛れもない利害の癒着だ」と非難する。"
               },
               {
                 "t": "p",
-                "x": "Aftenpostenはそのミステリー作品を分析した。――AI(KI)を使って書く小説は、AI(KI)なしで書いたであろう小説と同じではない。（記事の続きは購読者限定。）"
+                "x": "クリスマス（Noël）までの審議枠はすべて埋まっており、残るのは2月10日の共産党枠だけだ。大統領選を控え、法案の採択は2月28日で止まる。「それでも私たちはこの闘いを決してあきらめない」と同議員は語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "犯罪小说作家的文风\n因AI(KI)而改变",
-          "body": "Aftenposten分析发现，Horst开始用AI(KI)后，文风出现可量化变化。",
-          "mini_headline": "AI(KI)改变了Horst的文风",
+          "headline": "AI(IA)版权法案\n国民议会再度受阻",
+          "body": "推定IA使用作品的法案于11月19日被撤出Assemblée议程。",
+          "mini_headline": "IA法案在国民议会受阻",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48",
-                "cap": "摄影：TV 2 / NTB"
+                "src": "https://www.livreshebdo.fr/sites/default/files/2026-05/ASSEMBLEE_NATIONALE_BOURBON.jpg"
               },
               {
                 "t": "p",
-                "x": "「Summing」「during」，以及多出一百多倍的破折号。这位犯罪小说名家开始使用AI(KI)后，语言就这样变了。"
+                "x": "这项法案旨在确立人工智能提供商使用文化内容的推定原则，原定于11月19日（星期三）在Assemblée nationale（国民议会）审议，但最终被撤出议程。参议员Laure Darcos对Livres Hebdo表示：“今晚这项法案绝无可能获得表决通过。”"
               },
               {
                 "t": "p",
-                "x": "使用人工智能（KI）时，你的语言会发生变化，有些方式你可能并未察觉。"
+                "x": "该法案（n° 220）于2025年12月12日提交，4月已在Sénat（参议院）获得一致通过。据Laure Darcos称，Arthur Mensch和Yann LeCun曾游说各党团主席，阻止将其列入议程；在6月11日社会党的专属议程日，110项修正案（大多来自Renaissance）使其未能获得审议。"
               },
               {
                 "t": "p",
-                "x": "Jørn Lier Horst的多部小说被检测工具Skrivera标记为大量使用AI（KI-bruk）后，争论持续升温。把AI(KI)当作辅助工具与让它接管写作，界线在哪里？"
+                "x": "Boris Vallaud同意在11月19日的议程日重新列入该法案，条件是撤回Renaissance的那110项修正案。新的文本“几乎放过了Mistral”，使110项修正案中的90项失效，但Mistral AI表示反对，Rassemblement national则提交了约十项次级修正案。Laure Darcos谴责这是“marcheurs与pro-tech的RN之间真正的利益勾结”。"
               },
               {
                 "t": "p",
-                "x": "Aftenposten分析了这些犯罪小说：——用AI(KI)写的小说，与不用AI(KI)时会写出的小说并不相同。（报道其余部分仅限订阅者阅读。）"
+                "x": "由于圣诞节（Noël）前的议程日已全部排满，只剩2月10日共产党的议程日；此后因总统选举，法案通过将于2月28日停止。这位参议员表示：“但我们永远不会放弃这场斗争。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El estilo del autor policíaco\ncambió con la IA (KI)",
-          "body": "Un análisis de Aftenposten muestra cambios medibles en el lenguaje de Jørn Lier Horst tras empezar a usar IA (KI).",
-          "mini_headline": "La IA (KI) cambió el lenguaje de Horst",
+          "headline": "Ley IA y derechos de autor\nnuevo bloqueo en la Assemblée",
+          "body": "El texto que presume el uso de obras por la IA fue retirado del orden del día de la Assemblée el 19 de noviembre.",
+          "mini_headline": "Ley IA bloqueada en la Assemblée",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48",
-                "cap": "Foto: TV 2 / NTB"
+                "src": "https://www.livreshebdo.fr/sites/default/files/2026-05/ASSEMBLEE_NATIONALE_BOURBON.jpg"
               },
               {
                 "t": "p",
-                "x": "«Summing», «during» y más de cien veces más guiones. Así ha cambiado el lenguaje del favorito del género policíaco desde que empezó a usar IA (KI)."
+                "x": "La proposición de ley que busca instaurar una presunción de explotación de contenidos culturales por parte de los proveedores de inteligencia artificial debía examinarse en la Assemblée nationale el miércoles 19 de noviembre, pero finalmente el texto fue retirado del orden del día. «No hay ninguna posibilidad de que la proposición de ley se vote esta noche», declaró a Livres Hebdo la senadora Laure Darcos."
               },
               {
                 "t": "p",
-                "x": "Tu lenguaje cambia cuando usas inteligencia artificial (KI), también de maneras de las que quizá no eres consciente."
+                "x": "Presentada el 12 de diciembre de 2025, la proposición de ley (n° 220) había sido aprobada por unanimidad en el Sénat en abril. Según Laure Darcos, Arthur Mensch y Yann LeCun intervinieron ante los presidentes de grupo para impedir su inclusión; en la sesión reservada socialista del 11 de junio, 110 enmiendas, en su mayoría de Renaissance, impidieron su examen."
               },
               {
                 "t": "p",
-                "x": "Desde que el detector Skrivera marcó varias novelas de Jørn Lier Horst por un uso extenso de IA (KI-bruk), el debate se ha encendido. ¿Dónde está el límite entre usar la IA (KI) como herramienta de apoyo y dejar que se encargue de la escritura?"
+                "x": "Boris Vallaud aceptó volver a incluir el texto en la sesión reservada del 19 de noviembre, a condición de que se retiraran las 110 enmiendas de Renaissance. Una nueva redacción, que «prácticamente eximía a Mistral», dejó sin efecto 90 de las 110 enmiendas, pero Mistral AI expresó su desacuerdo y el Rassemblement national presentó una decena de subenmiendas. Laure Darcos denuncia «una verdadera colusión de intereses entre los marcheurs y el RN pro-tech»."
               },
               {
                 "t": "p",
-                "x": "Aftenposten ha analizado las novelas policíacas: – La novela que escribes con IA (KI) no es la misma que habrías escrito sin IA (KI). (El resto del artículo es para suscriptores.)"
+                "x": "Con todas las sesiones reservadas completas hasta Navidad (Noël), queda la sesión comunista del 10 de febrero, antes de que se detengan las aprobaciones el 28 de febrero por las elecciones presidenciales. «Pero nunca abandonaremos esta lucha», afirma la senadora."
               }
             ]
           }
@@ -231,156 +224,151 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Crime author's language\nchanged with AI (KI)",
-          "body": "Aftenposten's analysis of Jørn Lier Horst's crime novels finds measurable language shifts after he took up AI (KI).",
-          "mini_headline": "AI (KI) changed Horst's language",
+          "headline": "AI copyright bill (loi IA)\nstalls again at the Assemblée",
+          "body": "The bill presuming AI (IA) use of creative works was pulled from the Assemblée agenda on November 19.",
+          "mini_headline": "Loi IA stalled at the Assemblée",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48",
-                "cap": "Photo: TV 2 / NTB"
+                "src": "https://www.livreshebdo.fr/sites/default/files/2026-05/ASSEMBLEE_NATIONALE_BOURBON.jpg"
               },
               {
                 "t": "p",
-                "x": "«Summing», «during» and more than a hundred times as many dashes. This is how the crime favourite's language has changed since he began using AI (KI)."
+                "x": "The bill to establish a presumption that artificial intelligence providers exploit cultural content was due to be examined in the Assemblée nationale on Wednesday, November 19, but the text was ultimately dropped from the agenda. “There is no chance the bill will be passed tonight,” Senator Laure Darcos told Livres Hebdo."
               },
               {
                 "t": "p",
-                "x": "Your language changes when you use artificial intelligence (KI), also in ways you may not be aware of."
+                "x": "Filed on December 12, 2025, the bill (n° 220) had been adopted unanimously by the Sénat in April. According to Laure Darcos, Arthur Mensch and Yann LeCun lobbied parliamentary group leaders to keep it off the agenda; during the Socialist group’s reserved session on June 11, 110 amendments, most of them from Renaissance, prevented its examination."
               },
               {
                 "t": "p",
-                "x": "After several of Jørn Lier Horst's novels were flagged by the detector Skrivera for extensive AI use (KI-bruk), the debate has run hot. Where is the line between using AI (KI) as a support tool and letting it take over the writing?"
+                "x": "Boris Vallaud agreed to put the text back on the agenda for the November 19 reserved session, on condition that the 110 Renaissance amendments be withdrawn. A new draft, which “nearly spared Mistral,” made 90 of the 110 amendments void, but Mistral AI voiced its disagreement and the Rassemblement national filed about ten sub-amendments. Laure Darcos denounces “a real collusion of interests between the marcheurs and the pro-tech RN.”"
               },
               {
                 "t": "p",
-                "x": "Aftenposten has analysed the crime novels: – The novel you write with AI (KI) is not the same one you would have written without AI (KI). (The rest of the story is for subscribers.)"
+                "x": "With every reserved session booked until Christmas (Noël), what remains is the Communist group’s session on February 10, before adoptions stop on February 28 because of the presidential election. “But we will never give up this fight,” the senator says."
               }
             ]
           }
         },
         "ko": {
-          "headline": "범죄소설 작가의 문체\nAI(KI)로 바뀌었다",
-          "body": "Aftenposten 분석 결과 Horst의 문체는 AI(KI) 이후 변했다.",
-          "mini_headline": "AI(KI)가 바꾼 Horst의 문체",
+          "headline": "AI(IA) 저작권 법안\n국민의회서 또 제동",
+          "body": "IA의 저작물 이용 추정 법안이 11월 19일 Assemblée 의제에서 빠졌다.",
+          "mini_headline": "IA 법안, 국민의회서 제동",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48",
-                "cap": "사진: TV 2 / NTB"
+                "src": "https://www.livreshebdo.fr/sites/default/files/2026-05/ASSEMBLEE_NATIONALE_BOURBON.jpg"
               },
               {
                 "t": "p",
-                "x": "«Summing», «during», 그리고 백 배가 넘게 늘어난 줄표. 범죄소설 인기 작가가 AI(KI)를 쓰기 시작한 뒤 그의 문체는 이렇게 바뀌었다."
+                "x": "인공지능 제공업체가 문화 콘텐츠를 이용했다고 추정하는 제도를 도입하려는 법안은 11월 19일 수요일 Assemblée nationale(국민의회)에서 심의될 예정이었으나 결국 의사일정에서 빠졌다. Laure Darcos 상원의원은 Livres Hebdo에 “오늘 밤 이 법안이 표결될 가능성은 전혀 없다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "인공지능(KI)을 쓰면 언어가 달라진다. 미처 의식하지 못하는 방식으로도 그렇다."
+                "x": "2025년 12월 12일 발의된 이 법안(n° 220)은 4월 Sénat(상원)에서 만장일치로 통과됐다. Laure Darcos에 따르면 Arthur Mensch와 Yann LeCun이 교섭단체 대표들을 찾아가 법안 상정을 막았다. 6월 11일 사회당 몫 의사일정에서는 대부분 Renaissance가 낸 수정안 110건 탓에 심의가 무산됐다."
               },
               {
                 "t": "p",
-                "x": "Jørn Lier Horst의 소설 여러 편이 탐지기 Skrivera에서 광범위한 AI 사용(KI-bruk)으로 표시된 뒤 논쟁이 뜨거워졌다. AI(KI)를 보조 도구로 쓰는 것과 글쓰기를 통째로 맡기는 것의 경계는 어디인가?"
+                "x": "Boris Vallaud는 Renaissance의 수정안 110건을 철회한다는 조건으로 11월 19일 의사일정에 법안을 다시 올리기로 했다. “Mistral을 사실상 비켜 간” 새 문안으로 수정안 110건 중 90건이 효력을 잃었지만, Mistral AI가 반대 뜻을 밝혔고 Rassemblement national은 하위 수정안 열 건가량을 냈다. Laure Darcos는 “marcheurs와 pro-tech 성향 RN 사이의 명백한 이해 담합”이라고 비판했다."
               },
               {
                 "t": "p",
-                "x": "Aftenposten은 그의 범죄소설을 분석했다. – AI(KI)로 쓴 소설은 AI(KI) 없이 썼을 소설과 같지 않다. (기사 나머지는 구독자 전용이다.)"
+                "x": "크리스마스(Noël)까지 의사일정이 모두 찼기 때문에 남은 것은 2월 10일 공산당 몫 일정뿐이다. 대선을 앞두고 법안 처리는 2월 28일 멈춘다. 이 상원의원은 “하지만 우리는 이 싸움을 결코 포기하지 않을 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ミステリー作家の文体\nAI(KI)で変わった",
-          "body": "Aftenpostenの分析で、HorstのAI(KI)導入後の文体変化が判明した。",
-          "mini_headline": "AI(KI)がHorstの文体を変えた",
+          "headline": "AI(IA)著作権法案\n国民議会で再び頓挫",
+          "body": "IAの著作物利用を推定する法案が11月19日、Assembléeの議題から外された。",
+          "mini_headline": "IA法案、国民議会で頓挫",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48",
-                "cap": "写真：TV 2 / NTB"
+                "src": "https://www.livreshebdo.fr/sites/default/files/2026-05/ASSEMBLEE_NATIONALE_BOURBON.jpg"
               },
               {
                 "t": "p",
-                "x": "「Summing」「during」、そして百倍を超えるダッシュ。人気ミステリー作家の文体は、AI(KI)を使い始めてからこう変わった。"
+                "x": "人工知能事業者による文化コンテンツの利用を推定する制度を設ける法案は、11月19日水曜日にAssemblée nationale（国民議会）で審議される予定だったが、最終的に議事日程から外された。Laure Darcos上院議員はLivres Hebdoに対し「今夜この法案が可決される見込みはまったくない」と語った。"
               },
               {
                 "t": "p",
-                "x": "人工知能（KI）を使うと、言葉は変わる。自分では気づかない形でも変わる。"
+                "x": "2025年12月12日に提出されたこの法案（n° 220）は、4月にSénat（上院）で全会一致で可決されていた。Laure Darcosによれば、Arthur MenschとYann LeCunが会派代表らに働きかけて上程を阻んだ。6月11日の社会党枠の審議日には、大半がRenaissanceによる110件の修正案が審議を妨げた。"
               },
               {
                 "t": "p",
-                "x": "Jørn Lier Horstの小説数作が検出ツールSkriveraによって広範なAI使用（KI-bruk）と判定されて以来、議論が白熱している。AI(KI)を補助ツールとして使うことと、執筆そのものを任せることの境界はどこにあるのか。"
+                "x": "Boris Vallaudは、Renaissanceの修正案110件の撤回を条件に、11月19日の枠で法案を再び議題に載せることを受け入れた。「Mistralをほぼ対象外とした」新たな条文で110件中90件の修正案が無効になったが、Mistral AIは反対を表明し、Rassemblement nationalは十件ほどの下位修正案を提出した。Laure Darcosは「marcheursとpro-techのRNとの間の紛れもない利害の癒着だ」と非難する。"
               },
               {
                 "t": "p",
-                "x": "Aftenpostenはそのミステリー作品を分析した。――AI(KI)を使って書く小説は、AI(KI)なしで書いたであろう小説と同じではない。（記事の続きは購読者限定。）"
+                "x": "クリスマス（Noël）までの審議枠はすべて埋まっており、残るのは2月10日の共産党枠だけだ。大統領選を控え、法案の採択は2月28日で止まる。「それでも私たちはこの闘いを決してあきらめない」と同議員は語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "犯罪小说作家的文风\n因AI(KI)而改变",
-          "body": "Aftenposten分析发现，Horst开始用AI(KI)后，文风出现可量化变化。",
-          "mini_headline": "AI(KI)改变了Horst的文风",
+          "headline": "AI(IA)版权法案\n国民议会再度受阻",
+          "body": "推定IA使用作品的法案于11月19日被撤出Assemblée议程。",
+          "mini_headline": "IA法案在国民议会受阻",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48",
-                "cap": "摄影：TV 2 / NTB"
+                "src": "https://www.livreshebdo.fr/sites/default/files/2026-05/ASSEMBLEE_NATIONALE_BOURBON.jpg"
               },
               {
                 "t": "p",
-                "x": "「Summing」「during」，以及多出一百多倍的破折号。这位犯罪小说名家开始使用AI(KI)后，语言就这样变了。"
+                "x": "这项法案旨在确立人工智能提供商使用文化内容的推定原则，原定于11月19日（星期三）在Assemblée nationale（国民议会）审议，但最终被撤出议程。参议员Laure Darcos对Livres Hebdo表示：“今晚这项法案绝无可能获得表决通过。”"
               },
               {
                 "t": "p",
-                "x": "使用人工智能（KI）时，你的语言会发生变化，有些方式你可能并未察觉。"
+                "x": "该法案（n° 220）于2025年12月12日提交，4月已在Sénat（参议院）获得一致通过。据Laure Darcos称，Arthur Mensch和Yann LeCun曾游说各党团主席，阻止将其列入议程；在6月11日社会党的专属议程日，110项修正案（大多来自Renaissance）使其未能获得审议。"
               },
               {
                 "t": "p",
-                "x": "Jørn Lier Horst的多部小说被检测工具Skrivera标记为大量使用AI（KI-bruk）后，争论持续升温。把AI(KI)当作辅助工具与让它接管写作，界线在哪里？"
+                "x": "Boris Vallaud同意在11月19日的议程日重新列入该法案，条件是撤回Renaissance的那110项修正案。新的文本“几乎放过了Mistral”，使110项修正案中的90项失效，但Mistral AI表示反对，Rassemblement national则提交了约十项次级修正案。Laure Darcos谴责这是“marcheurs与pro-tech的RN之间真正的利益勾结”。"
               },
               {
                 "t": "p",
-                "x": "Aftenposten分析了这些犯罪小说：——用AI(KI)写的小说，与不用AI(KI)时会写出的小说并不相同。（报道其余部分仅限订阅者阅读。）"
+                "x": "由于圣诞节（Noël）前的议程日已全部排满，只剩2月10日共产党的议程日；此后因总统选举，法案通过将于2月28日停止。这位参议员表示：“但我们永远不会放弃这场斗争。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El estilo del autor policíaco\ncambió con la IA (KI)",
-          "body": "Un análisis de Aftenposten muestra cambios medibles en el lenguaje de Jørn Lier Horst tras empezar a usar IA (KI).",
-          "mini_headline": "La IA (KI) cambió el lenguaje de Horst",
+          "headline": "Ley IA y derechos de autor\nnuevo bloqueo en la Assemblée",
+          "body": "El texto que presume el uso de obras por la IA fue retirado del orden del día de la Assemblée el 19 de noviembre.",
+          "mini_headline": "Ley IA bloqueada en la Assemblée",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://premium.vgc.no/v2/images/2780573d-60ff-36da-affc-a5a346d89369?fit=crop&format=auto&h=3070&w=2048&s=9416add7e7eae3b02c05aa132ded2ae9f9945c48",
-                "cap": "Foto: TV 2 / NTB"
+                "src": "https://www.livreshebdo.fr/sites/default/files/2026-05/ASSEMBLEE_NATIONALE_BOURBON.jpg"
               },
               {
                 "t": "p",
-                "x": "«Summing», «during» y más de cien veces más guiones. Así ha cambiado el lenguaje del favorito del género policíaco desde que empezó a usar IA (KI)."
+                "x": "La proposición de ley que busca instaurar una presunción de explotación de contenidos culturales por parte de los proveedores de inteligencia artificial debía examinarse en la Assemblée nationale el miércoles 19 de noviembre, pero finalmente el texto fue retirado del orden del día. «No hay ninguna posibilidad de que la proposición de ley se vote esta noche», declaró a Livres Hebdo la senadora Laure Darcos."
               },
               {
                 "t": "p",
-                "x": "Tu lenguaje cambia cuando usas inteligencia artificial (KI), también de maneras de las que quizá no eres consciente."
+                "x": "Presentada el 12 de diciembre de 2025, la proposición de ley (n° 220) había sido aprobada por unanimidad en el Sénat en abril. Según Laure Darcos, Arthur Mensch y Yann LeCun intervinieron ante los presidentes de grupo para impedir su inclusión; en la sesión reservada socialista del 11 de junio, 110 enmiendas, en su mayoría de Renaissance, impidieron su examen."
               },
               {
                 "t": "p",
-                "x": "Desde que el detector Skrivera marcó varias novelas de Jørn Lier Horst por un uso extenso de IA (KI-bruk), el debate se ha encendido. ¿Dónde está el límite entre usar la IA (KI) como herramienta de apoyo y dejar que se encargue de la escritura?"
+                "x": "Boris Vallaud aceptó volver a incluir el texto en la sesión reservada del 19 de noviembre, a condición de que se retiraran las 110 enmiendas de Renaissance. Una nueva redacción, que «prácticamente eximía a Mistral», dejó sin efecto 90 de las 110 enmiendas, pero Mistral AI expresó su desacuerdo y el Rassemblement national presentó una decena de subenmiendas. Laure Darcos denuncia «una verdadera colusión de intereses entre los marcheurs y el RN pro-tech»."
               },
               {
                 "t": "p",
-                "x": "Aftenposten ha analizado las novelas policíacas: – La novela que escribes con IA (KI) no es la misma que habrías escrito sin IA (KI). (El resto del artículo es para suscriptores.)"
+                "x": "Con todas las sesiones reservadas completas hasta Navidad (Noël), queda la sesión comunista del 10 de febrero, antes de que se detengan las aprobaciones el 28 de febrero por las elecciones presidenciales. «Pero nunca abandonaremos esta lucha», afirma la senadora."
               }
             ]
           }
@@ -388,1004 +376,15 @@
       }
     },
     {
-      "id": "books-forfatterforbundet-ki-detektor",
-      "source_lang": "no",
-      "eyebrow": "AI NEWS",
-      "headline": "'AI(KI)가 썼다'며\n출판사가 원고 거절",
-      "body": "Forfatterforbundet은 AI(KI) 탐지기에 기대는 관행을 경고했다.",
-      "mini_headline": "'KI-skrevet'으로 거절된 원고",
-      "tool": "Books",
-      "source": "Aftenposten",
-      "url": "https://www.aftenposten.no/meninger/debatt/i/aGwpw7/risikerer-vi-at-teknologien-blir-portvokter-for-litteraturen",
-      "accent": "#7928ca",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
-          },
-          {
-            "t": "p",
-            "x": "Jørn Lier Horst의 책 «Den siste saken»을 계기로 문학계는 스스로를 돌아보는 논쟁에 빠졌다. 그사이 출판사들은 투고 원고에 AI 사용(KI-bruk)이 있는지 검사한다. 출판사가 «AI(KI)가 썼다»는 이유로 원고를 거절한 것 같다며 Forfatterforbundet에 연락해 오는 작가들도 있다. 이들은 «나는 AI(KI)를 쓰지 않았다»고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "Eystein Hanssen 사무총장은 동료들과 노르웨이 서비스 Skrivera를 10–20회 시험했다. AI가 쓴 단편(KI-skrevne)은 70에서 90퍼센트, 빠르게 고쳐 쓴 단편은 30에서 50퍼센트로 나왔다. 70퍼센트 이상 고치면 «사람이 만든 글»로 판정됐다. 사람이 쓴 단편이라도 Jill Walker Rettberg가 지적한 단어가 들어가면 «강한 AI 특징(KI-trekk)»이 붙었다."
-          },
-          {
-            "t": "p",
-            "x": "그는 탐지기와 «humanizere»가 벌이는 군비 경쟁을 그리면서 사람이 쓴 글을 이의 제기 기회도 없이 판정하는 합성 문지기를 경고한다. AI 탐지기(KI-detektorer)를 쓰지 않기로 한 Kulturrådet의 결정은 현명해 보인다."
-          }
-        ]
-      },
-      "text": {
-        "_src": {
-          "headline": "Forlag avviser manus\nsom «skrevet av KI»",
-          "body": "Forfatterforbundet får henvendelser om manus avvist som «skrevet av KI», og advarer mot KI-detektorer som portvokter.",
-          "mini_headline": "Manus avvist som KI-skrevet",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
-              },
-              {
-                "t": "p",
-                "x": "Jørn Lier Horsts bok «Den siste saken» har ført litteraturfeltet inn i en selvransakende debatt. Samtidig tester forlag innkommende manus for KI-bruk. Forfatterforbundet opplever at forfattere henvender seg fordi et forlag kan ha avslått et manus med begrunnelsen «skrevet av KI» – mens forfatteren sier: «Jeg har ikke brukt KI.»"
-              },
-              {
-                "t": "p",
-                "x": "Generalsekretær Eystein Hanssen og kolleger gjorde 10–20 tester av den norske tjenesten Skrivera. KI-skrevne noveller ble flagget med 70 til 90 prosent, raskt omskrevne med 30 til 50 prosent. Var 70 prosent eller mer endret, ble resultatet «menneskeskapt». En menneskeskrevet novelle med ord Jill Walker Rettberg pekte på, ble flagget for «sterke KI-trekk»."
-              },
-              {
-                "t": "p",
-                "x": "Han beskriver et våpenkappløp mellom detektorer og «humanizere», og advarer mot en syntetisk portvokter som vurderer menneskeskapte tekster uten ankemulighet. Kulturrådets beslutning om ikke å bruke KI-detektorer synes klok."
-              }
-            ]
-          },
-          "lang": "no"
-        },
-        "en": {
-          "headline": "Publishers reject manuscripts\nas «written by AI (KI)»",
-          "body": "Forfatterforbundet hears of manuscripts rejected as «written by AI (KI)» and warns about AI detectors as gatekeepers.",
-          "mini_headline": "Manuscripts rejected as AI-written (KI-skrevet)",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
-              },
-              {
-                "t": "p",
-                "x": "Jørn Lier Horst's book «Den siste saken» has drawn the literary field into a soul-searching debate. Meanwhile, publishers are testing incoming manuscripts for AI use (KI-bruk). Forfatterforbundet finds that authors contact it because a publisher may have turned down a manuscript on the grounds that it was «written by AI (KI)» – while the author says: «I have not used AI (KI).»"
-              },
-              {
-                "t": "p",
-                "x": "Secretary general Eystein Hanssen and colleagues ran 10–20 tests of the Norwegian service Skrivera. AI-written short stories (KI-skrevne) were flagged at 70 to 90 percent, quickly rewritten ones at 30 to 50 percent. If 70 percent or more had been changed, the result was «human-made». A human-written short story using words Jill Walker Rettberg had pointed to was flagged for «strong AI traits (KI-trekk)»."
-              },
-              {
-                "t": "p",
-                "x": "He describes an arms race between detectors and «humanizere», and warns against a synthetic gatekeeper that judges human-made texts with no right of appeal. Kulturrådet's decision not to use AI detectors (KI-detektorer) seems wise."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "'AI(KI)가 썼다'며\n출판사가 원고 거절",
-          "body": "Forfatterforbundet은 AI(KI) 탐지기에 기대는 관행을 경고했다.",
-          "mini_headline": "'KI-skrevet'으로 거절된 원고",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
-              },
-              {
-                "t": "p",
-                "x": "Jørn Lier Horst의 책 «Den siste saken»을 계기로 문학계는 스스로를 돌아보는 논쟁에 빠졌다. 그사이 출판사들은 투고 원고에 AI 사용(KI-bruk)이 있는지 검사한다. 출판사가 «AI(KI)가 썼다»는 이유로 원고를 거절한 것 같다며 Forfatterforbundet에 연락해 오는 작가들도 있다. 이들은 «나는 AI(KI)를 쓰지 않았다»고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "Eystein Hanssen 사무총장은 동료들과 노르웨이 서비스 Skrivera를 10–20회 시험했다. AI가 쓴 단편(KI-skrevne)은 70에서 90퍼센트, 빠르게 고쳐 쓴 단편은 30에서 50퍼센트로 나왔다. 70퍼센트 이상 고치면 «사람이 만든 글»로 판정됐다. 사람이 쓴 단편이라도 Jill Walker Rettberg가 지적한 단어가 들어가면 «강한 AI 특징(KI-trekk)»이 붙었다."
-              },
-              {
-                "t": "p",
-                "x": "그는 탐지기와 «humanizere»가 벌이는 군비 경쟁을 그리면서 사람이 쓴 글을 이의 제기 기회도 없이 판정하는 합성 문지기를 경고한다. AI 탐지기(KI-detektorer)를 쓰지 않기로 한 Kulturrådet의 결정은 현명해 보인다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "「AI(KI)が書いた」と\n出版社が原稿を拒否",
-          "body": "Forfatterforbundetは、AI(KI)検出器を門番とする危うさを指摘した。",
-          "mini_headline": "KI-skrevet扱いで原稿却下",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
-              },
-              {
-                "t": "p",
-                "x": "Jørn Lier Horstの本«Den siste saken»は、文学界を自省的な議論へと導いた。同時に出版社は、持ち込まれた原稿のAI使用（KI-bruk）を検査している。Forfatterforbundetには、出版社が«AI(KI)が書いた»という理由で原稿を断ったかもしれないとして、作家から相談が寄せられている。作家は«私はAI(KI)を使っていない»と言う。"
-              },
-              {
-                "t": "p",
-                "x": "事務局長のEystein Hanssenと同僚は、ノルウェーのサービスSkriveraを10–20回テストした。AIが書いた短編（KI-skrevne）は70から90パーセント、素早く書き直したものは30から50パーセントと判定された。70パーセント以上手を加えると、結果は«人間が作成»になった。Jill Walker Rettbergが指摘した語を含む、人間が書いた短編は«強いAIの特徴（KI-trekk）»があると判定された。"
-              },
-              {
-                "t": "p",
-                "x": "彼は検出器と«humanizere»の軍拡競争を描き、人間が作った文章を異議申し立ての手段なく評価する合成の門番に警鐘を鳴らす。AI検出器（KI-detektorer）を使わないというKulturrådetの決定は賢明に思える。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "出版社拒收书稿\n称「由AI(KI)写成」",
-          "body": "Forfatterforbundet警告，不应让AI(KI)检测器充当守门人。",
-          "mini_headline": "书稿被判KI-skrevet遭拒",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
-              },
-              {
-                "t": "p",
-                "x": "Jørn Lier Horst的书«Den siste saken»将文学界带入一场自我反省的辩论。与此同时，出版社正在检测投稿是否使用AI（KI-bruk）。Forfatterforbundet发现，有作家前来求助，因为出版社可能以«由AI(KI)写成»为由拒绝了其书稿——而作家表示：«我没有用过AI(KI)。»"
-              },
-              {
-                "t": "p",
-                "x": "秘书长Eystein Hanssen和同事对挪威服务Skrivera做了10–20次测试。AI写的短篇（KI-skrevne）被标记为70至90%，快速改写过的为30至50%。若改动达70%或以上，结果为«人类创作»。一篇人类写的短篇用了Jill Walker Rettberg指出的词，却被标记为«强烈的AI特征（KI-trekk）»。"
-              },
-              {
-                "t": "p",
-                "x": "他描述了检测器与«humanizere»之间的军备竞赛，并警告一种合成的守门人会在没有申诉途径的情况下评判人类创作的文本。Kulturrådet决定不使用AI检测器（KI-detektorer），这一决定看来是明智的。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Editoriales rechazan textos\ncomo «escritos por IA (KI)»",
-          "body": "Forfatterforbundet conoce casos de manuscritos rechazados como «escritos por IA (KI)» y alerta sobre los detectores.",
-          "mini_headline": "Manuscritos rechazados como KI-skrevet",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
-              },
-              {
-                "t": "p",
-                "x": "El libro de Jørn Lier Horst «Den siste saken» ha llevado al mundo literario a un debate de autoexamen. Al mismo tiempo, las editoriales analizan los manuscritos que reciben en busca de uso de IA (KI-bruk). Forfatterforbundet constata que hay autores que acuden a la asociación porque una editorial podría haber rechazado un manuscrito alegando que estaba «escrito por IA (KI)», mientras el autor dice: «No he usado IA (KI)»."
-              },
-              {
-                "t": "p",
-                "x": "El secretario general Eystein Hanssen y sus colegas hicieron 10–20 pruebas del servicio noruego Skrivera. Los relatos escritos con IA (KI-skrevne) fueron marcados con entre 70 y 90 por ciento, y los reescritos rápidamente, con entre 30 y 50 por ciento. Si se había cambiado el 70 por ciento o más, el resultado era «creado por humanos». Un relato escrito por una persona con palabras que Jill Walker Rettberg había señalado fue marcado por «fuertes rasgos de IA (KI-trekk)»."
-              },
-              {
-                "t": "p",
-                "x": "Describe una carrera armamentística entre detectores y «humanizere», y advierte contra un guardián sintético que evalúa textos creados por personas sin posibilidad de recurso. La decisión de Kulturrådet de no usar detectores de IA (KI-detektorer) parece sensata."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Publishers reject manuscripts\nas «written by AI (KI)»",
-          "body": "Forfatterforbundet hears of manuscripts rejected as «written by AI (KI)» and warns about AI detectors as gatekeepers.",
-          "mini_headline": "Manuscripts rejected as AI-written (KI-skrevet)",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
-              },
-              {
-                "t": "p",
-                "x": "Jørn Lier Horst's book «Den siste saken» has drawn the literary field into a soul-searching debate. Meanwhile, publishers are testing incoming manuscripts for AI use (KI-bruk). Forfatterforbundet finds that authors contact it because a publisher may have turned down a manuscript on the grounds that it was «written by AI (KI)» – while the author says: «I have not used AI (KI).»"
-              },
-              {
-                "t": "p",
-                "x": "Secretary general Eystein Hanssen and colleagues ran 10–20 tests of the Norwegian service Skrivera. AI-written short stories (KI-skrevne) were flagged at 70 to 90 percent, quickly rewritten ones at 30 to 50 percent. If 70 percent or more had been changed, the result was «human-made». A human-written short story using words Jill Walker Rettberg had pointed to was flagged for «strong AI traits (KI-trekk)»."
-              },
-              {
-                "t": "p",
-                "x": "He describes an arms race between detectors and «humanizere», and warns against a synthetic gatekeeper that judges human-made texts with no right of appeal. Kulturrådet's decision not to use AI detectors (KI-detektorer) seems wise."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "'AI(KI)가 썼다'며\n출판사가 원고 거절",
-          "body": "Forfatterforbundet은 AI(KI) 탐지기 의존을 경고했다.",
-          "mini_headline": "'KI-skrevet'으로 거절된 원고",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
-              },
-              {
-                "t": "p",
-                "x": "Jørn Lier Horst의 책 «Den siste saken»은 문학계를 자기 성찰적 논쟁으로 이끌었다. 한편 출판사들은 투고 원고의 AI 사용(KI-bruk) 여부를 검사한다. Forfatterforbundet에는 출판사가 «AI(KI)가 썼다»는 이유로 원고를 거절했을 수 있다며 작가들이 연락해 온다. 작가들은 «나는 AI(KI)를 쓰지 않았다»고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "Eystein Hanssen 사무총장과 동료들은 노르웨이 서비스 Skrivera를 10–20회 시험했다. AI가 쓴 단편(KI-skrevne)은 70에서 90퍼센트로, 빠르게 고쳐 쓴 단편은 30에서 50퍼센트로 표시됐다. 70퍼센트 이상 고치면 결과는 «사람이 만든 글»이었다. Jill Walker Rettberg가 지적한 단어를 쓴 사람의 단편은 «강한 AI 특징(KI-trekk)»으로 표시됐다."
-              },
-              {
-                "t": "p",
-                "x": "그는 탐지기와 «humanizere» 사이의 군비 경쟁을 묘사하며, 사람이 쓴 글을 이의 제기 기회 없이 판정하는 합성 문지기를 경고한다. AI 탐지기(KI-detektorer)를 쓰지 않기로 한 Kulturrådet의 결정은 현명해 보인다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "「AI(KI)が書いた」と\n出版社が原稿を拒否",
-          "body": "Forfatterforbundetは、AI(KI)検出器を門番とする危うさを指摘した。",
-          "mini_headline": "KI-skrevet扱いで原稿却下",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
-              },
-              {
-                "t": "p",
-                "x": "Jørn Lier Horstの本«Den siste saken»は、文学界を自省的な議論へと導いた。同時に出版社は、持ち込まれた原稿のAI使用（KI-bruk）を検査している。Forfatterforbundetには、出版社が«AI(KI)が書いた»という理由で原稿を断ったかもしれないとして、作家から相談が寄せられている。作家は«私はAI(KI)を使っていない»と言う。"
-              },
-              {
-                "t": "p",
-                "x": "事務局長のEystein Hanssenと同僚は、ノルウェーのサービスSkriveraを10–20回テストした。AIが書いた短編（KI-skrevne）は70から90パーセント、素早く書き直したものは30から50パーセントと判定された。70パーセント以上手を加えると、結果は«人間が作成»になった。Jill Walker Rettbergが指摘した語を含む、人間が書いた短編は«強いAIの特徴（KI-trekk）»があると判定された。"
-              },
-              {
-                "t": "p",
-                "x": "彼は検出器と«humanizere»の軍拡競争を描き、人間が作った文章を異議申し立ての手段なく評価する合成の門番に警鐘を鳴らす。AI検出器（KI-detektorer）を使わないというKulturrådetの決定は賢明に思える。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "出版社拒收书稿\n称「由AI(KI)写成」",
-          "body": "Forfatterforbundet警告，不应让AI(KI)检测器充当守门人。",
-          "mini_headline": "书稿被判KI-skrevet遭拒",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
-              },
-              {
-                "t": "p",
-                "x": "Jørn Lier Horst的书«Den siste saken»将文学界带入一场自我反省的辩论。与此同时，出版社正在检测投稿是否使用AI（KI-bruk）。Forfatterforbundet发现，有作家前来求助，因为出版社可能以«由AI(KI)写成»为由拒绝了其书稿——而作家表示：«我没有用过AI(KI)。»"
-              },
-              {
-                "t": "p",
-                "x": "秘书长Eystein Hanssen和同事对挪威服务Skrivera做了10–20次测试。AI写的短篇（KI-skrevne）被标记为70至90%，快速改写过的为30至50%。若改动达70%或以上，结果为«人类创作»。一篇人类写的短篇用了Jill Walker Rettberg指出的词，却被标记为«强烈的AI特征（KI-trekk）»。"
-              },
-              {
-                "t": "p",
-                "x": "他描述了检测器与«humanizere»之间的军备竞赛，并警告一种合成的守门人会在没有申诉途径的情况下评判人类创作的文本。Kulturrådet决定不使用AI检测器（KI-detektorer），这一决定看来是明智的。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Editoriales rechazan textos\ncomo «escritos por IA (KI)»",
-          "body": "Forfatterforbundet conoce casos de manuscritos rechazados como «escritos por IA (KI)» y alerta sobre los detectores.",
-          "mini_headline": "Manuscritos rechazados como KI-skrevet",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://premium.vgc.no/v2/images/c6600ae1-fc0d-34dd-9b3c-683622b4d3ed?fit=crop&format=auto&h=940&w=1280&s=6e80512fdfacec3ff67e71df1c350dfc82a1135b"
-              },
-              {
-                "t": "p",
-                "x": "El libro de Jørn Lier Horst «Den siste saken» ha llevado al mundo literario a un debate de autoexamen. Al mismo tiempo, las editoriales analizan los manuscritos que reciben en busca de uso de IA (KI-bruk). Forfatterforbundet constata que hay autores que acuden a la asociación porque una editorial podría haber rechazado un manuscrito alegando que estaba «escrito por IA (KI)», mientras el autor dice: «No he usado IA (KI)»."
-              },
-              {
-                "t": "p",
-                "x": "El secretario general Eystein Hanssen y sus colegas hicieron 10–20 pruebas del servicio noruego Skrivera. Los relatos escritos con IA (KI-skrevne) fueron marcados con entre 70 y 90 por ciento, y los reescritos rápidamente, con entre 30 y 50 por ciento. Si se había cambiado el 70 por ciento o más, el resultado era «creado por humanos». Un relato escrito por una persona con palabras que Jill Walker Rettberg había señalado fue marcado por «fuertes rasgos de IA (KI-trekk)»."
-              },
-              {
-                "t": "p",
-                "x": "Describe una carrera armamentística entre detectores y «humanizere», y advierte contra un guardián sintético que evalúa textos creados por personas sin posibilidad de recurso. La decisión de Kulturrådet de no usar detectores de IA (KI-detektorer) parece sensata."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "books-crime-punishment-ai-translation",
+      "id": "khan-sinchun-ai-interview",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "'죄와 벌' 한 문장\nAI와 번역가의 차이",
-      "body": "도스토옙스키 번역가가 '죄와 벌' 한 문장으로 AI 번역의 한계를 짚는다.",
-      "mini_headline": "AI와 번역가, 한 문장",
+      "headline": "신춘문예 AI 검증에\n당선 후보 면접까지",
+      "body": "올해 신춘문예 대부분 주최사가 AI 활용 내역을 당선 후보 면접으로 확인한다.",
+      "mini_headline": "신춘문예, AI 면접까지",
       "tool": "Books",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867722_37012.html",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_073230_2_29_Large.jpg"
-          },
-          {
-            "t": "p",
-            "x": "요즘은 외국어를 순식간에 번역해 주는 인공지능 때문에, 외국 소설도 더 쉽게 접근할 수 있게 됐습니다. 최근엔 생성형 AI가 번역한 고전도 책으로 나옵니다."
-          },
-          {
-            "t": "p",
-            "x": "도스토옙스키의 소설 '죄와 벌'에서 주인공 라스콜니코프가 소냐의 발에 입을 맞춘 뒤 하는 말을 러시아 원문으로 입력해 봤습니다. 챗GPT도, 제미나이도, 클로드도, 모두 '절을 했다'고 번역했습니다."
-          },
-          {
-            "t": "p",
-            "x": "하지만 김정아 번역가는 달랐습니다. 당신에게 고개를 숙인 게 아니라 전 인류의 고통 앞에 '고개를 숙인 것'이라는 통찰을 내놨습니다. \"제사상 같은 데 이렇게 절을 하는 느낌이잖아요. 너무 이상한 거죠. 고개를 조아리는 느낌, 이런 느낌인 거죠. 경외의 표현.\""
-          },
-          {
-            "t": "p",
-            "x": "《죄와 벌》, 《백치》, 《악령》, 《카라마조프가의 형제들》까지 매일 새벽 1시에 일어나 6천7백여 쪽을 우리말로 옮기는 데 10여 년이 걸렸습니다. 지난 4일 푸시킨 메달을 받은 김정아 번역가는 AI 번역에는 없는 진심과 울림을 함께 읽어달라고 당부했습니다."
-          },
-          {
-            "t": "p",
-            "x": "\"(AI 번역은) 심장이 없어요. 가슴이 없어요. 안 울려요. 너무너무 매끈해요. 쉽게 읽히긴 더 쉽게 읽히겠죠. 근데 정말 많은 걸 잃게 되겠죠.\""
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "'죄와 벌' 한 문장\nAI와 번역가의 차이",
-          "body": "도스토옙스키 번역가가 '죄와 벌' 한 문장으로 AI 번역의 한계를 짚는다.",
-          "mini_headline": "AI와 번역가, 한 문장",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_073230_2_29_Large.jpg"
-              },
-              {
-                "t": "p",
-                "x": "요즘은 외국어를 순식간에 번역해 주는 인공지능 때문에, 외국 소설도 더 쉽게 접근할 수 있게 됐습니다. 최근엔 생성형 AI가 번역한 고전도 책으로 나옵니다."
-              },
-              {
-                "t": "p",
-                "x": "도스토옙스키의 소설 '죄와 벌'에서 주인공 라스콜니코프가 소냐의 발에 입을 맞춘 뒤 하는 말을 러시아 원문으로 입력해 봤습니다. 챗GPT도, 제미나이도, 클로드도, 모두 '절을 했다'고 번역했습니다."
-              },
-              {
-                "t": "p",
-                "x": "하지만 김정아 번역가는 달랐습니다. 당신에게 고개를 숙인 게 아니라 전 인류의 고통 앞에 '고개를 숙인 것'이라는 통찰을 내놨습니다. \"제사상 같은 데 이렇게 절을 하는 느낌이잖아요. 너무 이상한 거죠. 고개를 조아리는 느낌, 이런 느낌인 거죠. 경외의 표현.\""
-              },
-              {
-                "t": "p",
-                "x": "《죄와 벌》, 《백치》, 《악령》, 《카라마조프가의 형제들》까지 매일 새벽 1시에 일어나 6천7백여 쪽을 우리말로 옮기는 데 10여 년이 걸렸습니다. 지난 4일 푸시킨 메달을 받은 김정아 번역가는 AI 번역에는 없는 진심과 울림을 함께 읽어달라고 당부했습니다."
-              },
-              {
-                "t": "p",
-                "x": "\"(AI 번역은) 심장이 없어요. 가슴이 없어요. 안 울려요. 너무너무 매끈해요. 쉽게 읽히긴 더 쉽게 읽히겠죠. 근데 정말 많은 걸 잃게 되겠죠.\""
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "One 'Crime and Punishment' line\nsets AI apart from a translator",
-          "body": "A Dostoevsky translator uses a single sentence from 'Crime and Punishment' to show the limits of AI translation.",
-          "mini_headline": "AI vs. translator, one sentence",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_073230_2_29_Large.jpg"
-              },
-              {
-                "t": "p",
-                "x": "These days, artificial intelligence that translates foreign languages in an instant has made foreign novels easier to reach. Recently, classics translated by generative AI are also coming out as books."
-              },
-              {
-                "t": "p",
-                "x": "We entered, in the original Russian, what the protagonist Raskolnikov says after kissing Sonya's feet in Dostoevsky's novel 'Crime and Punishment'. ChatGPT, Gemini and Claude all translated it as 'made a deep bow'."
-              },
-              {
-                "t": "p",
-                "x": "But translator Kim Jeong-a was different. She offered the insight that it was not a bow to you, but 'bowing one's head' before the suffering of all humanity. “It feels like doing a full bow before an ancestral-rite table, doesn't it. That's very strange. It's the feeling of lowering one's head, that kind of feeling. An expression of awe.”"
-              },
-              {
-                "t": "p",
-                "x": "From 'Crime and Punishment' and 'The Idiot' to 'Demons' and 'The Brothers Karamazov', she rose at 1 a.m. every day and spent more than 10 years putting more than 6천7백 (six thousand seven hundred) pages into Korean. Kim Jeong-a, who received the Pushkin Medal on the 4th, asked readers to also read the sincerity and resonance that AI translation lacks."
-              },
-              {
-                "t": "p",
-                "x": "“(AI translation) has no heart. It has no feeling. It doesn't resonate. It's far too smooth. It will probably be easier to read. But we will lose a great deal.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "『罪と罰』の一文\nAIと翻訳家の差",
-          "body": "ドストエフスキーの翻訳家が『罪と罰』の一文でAI翻訳の限界を指摘する。",
-          "mini_headline": "AIと翻訳家、一文の差",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_073230_2_29_Large.jpg"
-              },
-              {
-                "t": "p",
-                "x": "外国語を瞬時に翻訳する人工知能のおかげで、最近は外国の小説にも手軽に触れられるようになった。生成AIが翻訳した古典が本として出版されることもある。"
-              },
-              {
-                "t": "p",
-                "x": "ドストエフスキーの小説『罪と罰』で、主人公ラスコーリニコフがソーニャの足に口づけした後に語る言葉を、ロシア語原文で入力してみた。ChatGPTも、Geminiも、Claudeも、いずれも「ひれ伏した」と訳した。"
-              },
-              {
-                "t": "p",
-                "x": "しかし、翻訳家のキム・ジョンアは違った。あなたにひれ伏したのではなく、全人類の苦しみの前に「頭を垂れた」のだという洞察を示した。「祭祀の膳の前でこうしてひれ伏すような感じでしょう。とても変なんです。頭を垂れる感じ、そういう感じなんです。畏敬の表現です」"
-              },
-              {
-                "t": "p",
-                "x": "『罪と罰』『白痴』『悪霊』『カラマーゾフの兄弟』まで、毎日午前1時に起きて6천7백（六千七百）ページ余りを韓国語に移すのに10年余りかかった。去る4日にプーシキン・メダルを受けたキム・ジョンアは、AI翻訳にはない真心と響きも一緒に読んでほしいと呼びかけた。"
-              },
-              {
-                "t": "p",
-                "x": "「（AI翻訳には）心臓がない。胸がない。響かない。あまりにも滑らかすぎる。読みやすさでは確かに読みやすいだろう。でも、本当に多くのものを失うことになるだろう」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "《罪与罚》中的一句\nAI与译者的差距",
-          "body": "一位陀思妥耶夫斯基译者以《罪与罚》中的一句话，指出AI翻译的局限。",
-          "mini_headline": "AI与译者，一句之差",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_073230_2_29_Large.jpg"
-              },
-              {
-                "t": "p",
-                "x": "如今，能瞬间翻译外语的人工智能让外国小说也变得更容易接触。最近，由生成式AI翻译的经典作品也出版成书。"
-              },
-              {
-                "t": "p",
-                "x": "我们把陀思妥耶夫斯基小说《罪与罚》中，主人公拉斯柯尔尼科夫亲吻索尼娅双脚后说的话，以俄语原文输入。ChatGPT、Gemini和Claude都译成了“跪拜”。"
-              },
-              {
-                "t": "p",
-                "x": "但译者Kim Jeong-a不一样。她提出了这样的洞见：不是向你跪拜，而是在全人类的苦难面前“低下了头”。“就像在祭祀供桌前这样跪拜的感觉，对吧？那太奇怪了。是低头致意的感觉，就是这种感觉。是敬畏的表达。”"
-              },
-              {
-                "t": "p",
-                "x": "从《罪与罚》《白痴》《群魔》到《卡拉马佐夫兄弟》，她每天凌晨1点起床，花了10多年把6천7백（六千七百）多页译成韩文。在4日获得普希金奖章的Kim Jeong-a呼吁读者，一并读出AI翻译所没有的真心与共鸣。"
-              },
-              {
-                "t": "p",
-                "x": "“（AI翻译）没有心脏，没有胸怀，打动不了人。太过光滑了。读起来当然会更容易，但真的会失去很多东西。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Una frase de 'Crimen y castigo'\nsepara a la IA del traductor",
-          "body": "Una traductora de Dostoievski muestra con una frase de 'Crimen y castigo' los límites de la traducción con IA.",
-          "mini_headline": "IA y traductora, una frase",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_073230_2_29_Large.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Hoy, gracias a la inteligencia artificial que traduce idiomas extranjeros al instante, las novelas extranjeras son más accesibles. Últimamente también se publican como libros clásicos traducidos por IA generativa."
-              },
-              {
-                "t": "p",
-                "x": "Introdujimos en el ruso original lo que dice el protagonista Raskólnikov tras besar los pies de Sonia en la novela de Dostoievski 'Crimen y castigo'. ChatGPT, Gemini y Claude tradujeron todos 'se postró'."
-              },
-              {
-                "t": "p",
-                "x": "Pero la traductora Kim Jeong-a fue distinta. Aportó la idea de que no se postró ante ti, sino que 'inclinó la cabeza' ante el sufrimiento de toda la humanidad. «Da la sensación de postrarse así ante una mesa de ofrendas a los ancestros. Es muy extraño. Es la sensación de inclinar la cabeza, esa clase de sensación. Una expresión de reverencia»."
-              },
-              {
-                "t": "p",
-                "x": "De 'Crimen y castigo' y 'El idiota' a 'Demonios' y 'Los hermanos Karamázov', se levantó cada día a la 1 de la madrugada y tardó más de 10 años en verter más de 6천7백 (seis mil setecientas) páginas al coreano. Kim Jeong-a, que recibió la medalla Pushkin el día 4, pidió que se lean también la sinceridad y la resonancia que no tiene la traducción con IA."
-              },
-              {
-                "t": "p",
-                "x": "«(La traducción con IA) no tiene corazón. No tiene alma. No conmueve. Es demasiado pulida. Seguramente se leerá con más facilidad. Pero se perderá muchísimo»."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "One 'Crime and Punishment' line\nsets AI apart from a translator",
-          "body": "A Dostoevsky translator uses a single sentence from 'Crime and Punishment' to show the limits of AI translation.",
-          "mini_headline": "AI vs. translator, one sentence",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_073230_2_29_Large.jpg"
-              },
-              {
-                "t": "p",
-                "x": "These days, artificial intelligence that translates foreign languages in an instant has made foreign novels easier to reach. Recently, classics translated by generative AI are also coming out as books."
-              },
-              {
-                "t": "p",
-                "x": "We entered, in the original Russian, what the protagonist Raskolnikov says after kissing Sonya's feet in Dostoevsky's novel 'Crime and Punishment'. ChatGPT, Gemini and Claude all translated it as 'made a deep bow'."
-              },
-              {
-                "t": "p",
-                "x": "But translator Kim Jeong-a was different. She offered the insight that it was not a bow to you, but 'bowing one's head' before the suffering of all humanity. “It feels like doing a full bow before an ancestral-rite table, doesn't it. That's very strange. It's the feeling of lowering one's head, that kind of feeling. An expression of awe.”"
-              },
-              {
-                "t": "p",
-                "x": "From 'Crime and Punishment' and 'The Idiot' to 'Demons' and 'The Brothers Karamazov', she rose at 1 a.m. every day and spent more than 10 years putting more than 6천7백 (six thousand seven hundred) pages into Korean. Kim Jeong-a, who received the Pushkin Medal on the 4th, asked readers to also read the sincerity and resonance that AI translation lacks."
-              },
-              {
-                "t": "p",
-                "x": "“(AI translation) has no heart. It has no feeling. It doesn't resonate. It's far too smooth. It will probably be easier to read. But we will lose a great deal.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "『罪と罰』の一文\nAIと翻訳家の差",
-          "body": "ドストエフスキーの翻訳家が『罪と罰』の一文でAI翻訳の限界を指摘する。",
-          "mini_headline": "AIと翻訳家、一文の差",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_073230_2_29_Large.jpg"
-              },
-              {
-                "t": "p",
-                "x": "外国語を瞬時に翻訳する人工知能のおかげで、最近は外国の小説にも手軽に触れられるようになった。生成AIが翻訳した古典が本として出版されることもある。"
-              },
-              {
-                "t": "p",
-                "x": "ドストエフスキーの小説『罪と罰』で、主人公ラスコーリニコフがソーニャの足に口づけした後に語る言葉を、ロシア語原文で入力してみた。ChatGPTも、Geminiも、Claudeも、いずれも「ひれ伏した」と訳した。"
-              },
-              {
-                "t": "p",
-                "x": "しかし、翻訳家のキム・ジョンアは違った。あなたにひれ伏したのではなく、全人類の苦しみの前に「頭を垂れた」のだという洞察を示した。「祭祀の膳の前でこうしてひれ伏すような感じでしょう。とても変なんです。頭を垂れる感じ、そういう感じなんです。畏敬の表現です」"
-              },
-              {
-                "t": "p",
-                "x": "『罪と罰』『白痴』『悪霊』『カラマーゾフの兄弟』まで、毎日午前1時に起きて6천7백（六千七百）ページ余りを韓国語に移すのに10年余りかかった。去る4日にプーシキン・メダルを受けたキム・ジョンアは、AI翻訳にはない真心と響きも一緒に読んでほしいと呼びかけた。"
-              },
-              {
-                "t": "p",
-                "x": "「（AI翻訳には）心臓がない。胸がない。響かない。あまりにも滑らかすぎる。読みやすさでは確かに読みやすいだろう。でも、本当に多くのものを失うことになるだろう」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "《罪与罚》中的一句\nAI与译者的差距",
-          "body": "一位陀思妥耶夫斯基译者以《罪与罚》中的一句话，指出AI翻译的局限。",
-          "mini_headline": "AI与译者，一句之差",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_073230_2_29_Large.jpg"
-              },
-              {
-                "t": "p",
-                "x": "如今，能瞬间翻译外语的人工智能让外国小说也变得更容易接触。最近，由生成式AI翻译的经典作品也出版成书。"
-              },
-              {
-                "t": "p",
-                "x": "我们把陀思妥耶夫斯基小说《罪与罚》中，主人公拉斯柯尔尼科夫亲吻索尼娅双脚后说的话，以俄语原文输入。ChatGPT、Gemini和Claude都译成了“跪拜”。"
-              },
-              {
-                "t": "p",
-                "x": "但译者Kim Jeong-a不一样。她提出了这样的洞见：不是向你跪拜，而是在全人类的苦难面前“低下了头”。“就像在祭祀供桌前这样跪拜的感觉，对吧？那太奇怪了。是低头致意的感觉，就是这种感觉。是敬畏的表达。”"
-              },
-              {
-                "t": "p",
-                "x": "从《罪与罚》《白痴》《群魔》到《卡拉马佐夫兄弟》，她每天凌晨1点起床，花了10多年把6천7백（六千七百）多页译成韩文。在4日获得普希金奖章的Kim Jeong-a呼吁读者，一并读出AI翻译所没有的真心与共鸣。"
-              },
-              {
-                "t": "p",
-                "x": "“（AI翻译）没有心脏，没有胸怀，打动不了人。太过光滑了。读起来当然会更容易，但真的会失去很多东西。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Una frase de 'Crimen y castigo'\nsepara a la IA del traductor",
-          "body": "Una traductora de Dostoievski muestra con una frase de 'Crimen y castigo' los límites de la traducción con IA.",
-          "mini_headline": "IA y traductora, una frase",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/23/today_20261123_073230_2_29_Large.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Hoy, gracias a la inteligencia artificial que traduce idiomas extranjeros al instante, las novelas extranjeras son más accesibles. Últimamente también se publican como libros clásicos traducidos por IA generativa."
-              },
-              {
-                "t": "p",
-                "x": "Introdujimos en el ruso original lo que dice el protagonista Raskólnikov tras besar los pies de Sonia en la novela de Dostoievski 'Crimen y castigo'. ChatGPT, Gemini y Claude tradujeron todos 'se postró'."
-              },
-              {
-                "t": "p",
-                "x": "Pero la traductora Kim Jeong-a fue distinta. Aportó la idea de que no se postró ante ti, sino que 'inclinó la cabeza' ante el sufrimiento de toda la humanidad. «Da la sensación de postrarse así ante una mesa de ofrendas a los ancestros. Es muy extraño. Es la sensación de inclinar la cabeza, esa clase de sensación. Una expresión de reverencia»."
-              },
-              {
-                "t": "p",
-                "x": "De 'Crimen y castigo' y 'El idiota' a 'Demonios' y 'Los hermanos Karamázov', se levantó cada día a la 1 de la madrugada y tardó más de 10 años en verter más de 6천7백 (seis mil setecientas) páginas al coreano. Kim Jeong-a, que recibió la medalla Pushkin el día 4, pidió que se lean también la sinceridad y la resonancia que no tiene la traducción con IA."
-              },
-              {
-                "t": "p",
-                "x": "«(La traducción con IA) no tiene corazón. No tiene alma. No conmueve. Es demasiado pulida. Seguramente se leerá con más facilidad. Pero se perderá muchísimo»."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "books-ai-slop-academic-names",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "유명 학자 이름으로\nAI slop 논문 게재",
-      "body": "무명 학술지들이 유명 연구자 이름을 붙인 AI-generated 논문을 실었다.",
-      "mini_headline": "유명 학자 이름 단 AI slop",
-      "tool": "Books",
-      "source": "Inside Higher Ed",
-      "url": "https://www.insidehighered.com/news/faculty/books-publishing/2026/11/13/ai-slop-papers-published-under-prominent-academics-names",
-      "accent": "#eb367f",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/alan-said.jpg?itok=ewUbApq4"
-          },
-          {
-            "t": "p",
-            "x": "조사 결과, 잘 알려지지 않은 학술지 여러 곳이 교수들 이름을 달아 “AI slop” 논문을 실어 온 것으로 드러났다. 정작 교수들은 그 논문을 쓴 적이 없다."
-          },
-          {
-            "t": "p",
-            "x": "University of Gothenburg 컴퓨터과학과 교수 Alan Said는 American International Journal of Research and Innovation(AIJRI)에 자기 이름으로 실린 논문이 있다는 Google Scholar 알림을 받았다. “AI-generated처럼 보인다. 내용이 없고, slop 같다”고 그는 말했다. 그가 항의하자 저자 이름이 다른 사람들로 바뀌었다. 결국 저자만 다른 세 가지 버전이 남았다."
-          },
-          {
-            "t": "p",
-            "x": "자매지 AJAMRI는 Fei-Fei Li, Christopher Manning, Michael I. Jordan, Stuart Russell 등 학자들의 이름을 단 논문 수십 편을 실었다. 세 도메인은 모두 2026년에 등록됐는데도 그보다 몇 년 앞선 아카이브를 내걸고 게재료까지 광고한다."
-          },
-          {
-            "t": "p",
-            "x": "“새로 들어온 Ph.D. 학생이 이 학술지에서 내 이름을 보면 거기에 투고해도 OK라고 생각할 수 있다”고 Said는 말했다. Stanford의 Jure Leskovec도 자기 이름이 붙은 논문을 쓰거나 승인한 적이 없다고 확인했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI slop papers appear under\nprominent academics' names",
-          "body": "AI-generated papers bearing top researchers' names appeared in little-known journals that may lure doctoral students.",
-          "mini_headline": "AI slop under top names",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/alan-said.jpg?itok=ewUbApq4"
-              },
-              {
-                "t": "p",
-                "x": "A group of little-known academic journals has been publishing “AI slop” papers under the names of professors who did not write them, an investigation has found."
-              },
-              {
-                "t": "p",
-                "x": "Alan Said, professor of computer science at the University of Gothenburg, got a Google Scholar alert about a paper under his name in the American International Journal of Research and Innovation (AIJRI). “It looks AI-generated. It has no content, it’s like slop,” he said. After he complained, his name was swapped for others, leaving three versions attributed to different authors."
-              },
-              {
-                "t": "p",
-                "x": "A sister journal, AJAMRI, has published dozens of papers attributed to academics including Fei-Fei Li, Christopher Manning, Michael I. Jordan and Stuart Russell. All three domains were registered in 2026 yet show archives from years earlier, and they advertise publication fees."
-              },
-              {
-                "t": "p",
-                "x": "“If a new Ph.D. student were to see my name in this journal, they might think it’s OK to submit there, too,” Said said. Stanford’s Jure Leskovec confirmed he did not write or authorize a paper under his name."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "유명 학자 이름으로\nAI slop 논문 게재",
-          "body": "무명 학술지들이 유명 연구자 이름을 붙인 AI-generated 논문을 실었다.",
-          "mini_headline": "유명 학자 이름 단 AI slop",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/alan-said.jpg?itok=ewUbApq4"
-              },
-              {
-                "t": "p",
-                "x": "조사 결과, 잘 알려지지 않은 학술지 여러 곳이 교수들 이름을 달아 “AI slop” 논문을 실어 온 것으로 드러났다. 정작 교수들은 그 논문을 쓴 적이 없다."
-              },
-              {
-                "t": "p",
-                "x": "University of Gothenburg 컴퓨터과학과 교수 Alan Said는 American International Journal of Research and Innovation(AIJRI)에 자기 이름으로 실린 논문이 있다는 Google Scholar 알림을 받았다. “AI-generated처럼 보인다. 내용이 없고, slop 같다”고 그는 말했다. 그가 항의하자 저자 이름이 다른 사람들로 바뀌었다. 결국 저자만 다른 세 가지 버전이 남았다."
-              },
-              {
-                "t": "p",
-                "x": "자매지 AJAMRI는 Fei-Fei Li, Christopher Manning, Michael I. Jordan, Stuart Russell 등 학자들의 이름을 단 논문 수십 편을 실었다. 세 도메인은 모두 2026년에 등록됐는데도 그보다 몇 년 앞선 아카이브를 내걸고 게재료까지 광고한다."
-              },
-              {
-                "t": "p",
-                "x": "“새로 들어온 Ph.D. 학생이 이 학술지에서 내 이름을 보면 거기에 투고해도 OK라고 생각할 수 있다”고 Said는 말했다. Stanford의 Jure Leskovec도 자기 이름이 붙은 논문을 쓰거나 승인한 적이 없다고 확인했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "著名学者の名を冠した\nAI slop論文",
-          "body": "トップ研究者の名を冠したAI-generated論文が、無名の学術誌に掲載された。",
-          "mini_headline": "著名学者の名でAI slop",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/alan-said.jpg?itok=ewUbApq4"
-              },
-              {
-                "t": "p",
-                "x": "あまり知られていない学術誌のグループが、執筆していない教授たちの名前で「AI slop」論文を掲載していたことが調査で分かった。"
-              },
-              {
-                "t": "p",
-                "x": "University of GothenburgのコンピューターサイエンスのAlan Said教授は、American International Journal of Research and Innovation（AIJRI）に自分の名前で掲載された論文についてGoogle Scholarの通知を受け取った。「AI-generatedに見える。中身がなく、slopのようだ」と彼は語った。彼が抗議すると名前は別の人物に差し替えられ、著者の異なる三つの版が残った。"
-              },
-              {
-                "t": "p",
-                "x": "姉妹誌のAJAMRIは、Fei-Fei Li、Christopher Manning、Michael I. Jordan、Stuart Russellらの名を冠した論文を数十本掲載している。三つのドメインはいずれも2026年に登録されたのに、何年も前からのアーカイブを掲げ、掲載料を宣伝している。"
-              },
-              {
-                "t": "p",
-                "x": "「新しいPh.D.の学生がこの学術誌で私の名前を見たら、自分も投稿してOKだと思うかもしれない」とSaidは述べた。StanfordのJure Leskovecは、自分の名前の論文を書いたことも承認したこともないと認めた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "知名学者被署名\nAI slop论文现身",
-          "body": "署有顶尖研究者姓名的AI-generated论文现身不知名期刊，或会误导博士生。",
-          "mini_headline": "知名学者名下的AI slop",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/alan-said.jpg?itok=ewUbApq4"
-              },
-              {
-                "t": "p",
-                "x": "一项调查发现，一批鲜为人知的学术期刊一直以并未撰写论文的教授的名义发表“AI slop”论文。"
-              },
-              {
-                "t": "p",
-                "x": "University of Gothenburg计算机科学教授Alan Said收到一条Google Scholar提醒，称American International Journal of Research and Innovation（AIJRI）上有一篇署他名字的论文。他说：“看起来是AI-generated。没有内容，就像slop。”他投诉后，署名被换成了别人，留下三个署有不同作者的版本。"
-              },
-              {
-                "t": "p",
-                "x": "姊妹期刊AJAMRI发表了数十篇署名为Fei-Fei Li、Christopher Manning、Michael I. Jordan和Stuart Russell等学者的论文。三个域名均在2026年注册，却展示着早几年的存档，并宣传收取发表费。"
-              },
-              {
-                "t": "p",
-                "x": "“如果一个新的Ph.D.学生在这本期刊上看到我的名字，可能会认为投到那里也OK。”Said说。Stanford的Jure Leskovec证实，他没有撰写或授权任何署他名字的论文。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Artículos «AI slop» aparecen\na nombre de académicos notables",
-          "body": "Artículos AI-generated firmados con nombres de grandes investigadores aparecen en revistas poco conocidas.",
-          "mini_headline": "AI slop con nombres ilustres",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/alan-said.jpg?itok=ewUbApq4"
-              },
-              {
-                "t": "p",
-                "x": "Una investigación ha revelado que un grupo de revistas académicas poco conocidas ha publicado artículos de “AI slop” con los nombres de profesores que no los escribieron."
-              },
-              {
-                "t": "p",
-                "x": "Alan Said, profesor de informática en la University of Gothenburg, recibió una alerta de Google Scholar sobre un artículo con su nombre en el American International Journal of Research and Innovation (AIJRI). “Parece AI-generated. No tiene contenido, es como slop”, dijo. Tras su queja, su nombre se sustituyó por otros, y quedaron tres versiones atribuidas a autores distintos."
-              },
-              {
-                "t": "p",
-                "x": "Una revista hermana, AJAMRI, ha publicado decenas de artículos atribuidos a académicos como Fei-Fei Li, Christopher Manning, Michael I. Jordan y Stuart Russell. Los tres dominios se registraron en 2026, pero muestran archivos de años anteriores, y anuncian tarifas de publicación."
-              },
-              {
-                "t": "p",
-                "x": "“Si un nuevo estudiante de Ph.D. viera mi nombre en esta revista, podría pensar que es OK enviar allí también”, dijo Said. Jure Leskovec, de Stanford, confirmó que no escribió ni autorizó un artículo con su nombre."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "유명 학자 이름으로\nAI slop 논문 게재",
-          "body": "유명 연구자 이름을 단 AI-generated 논문이 무명 학술지에 실렸다.",
-          "mini_headline": "유명 학자 이름 단 AI slop",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/alan-said.jpg?itok=ewUbApq4"
-              },
-              {
-                "t": "p",
-                "x": "잘 알려지지 않은 학술지 여러 곳이 쓰지도 않은 교수들의 이름으로 “AI slop” 논문을 실어 왔다는 사실이 조사로 드러났다."
-              },
-              {
-                "t": "p",
-                "x": "University of Gothenburg 컴퓨터과학과 교수 Alan Said는 American International Journal of Research and Innovation(AIJRI)에 자기 이름으로 실린 논문에 관한 Google Scholar 알림을 받았다. 그는 “AI-generated처럼 보인다. 내용이 없고, slop 같다”고 말했다. 그가 항의하자 이름이 다른 사람들로 바뀌었고, 저자가 각기 다른 세 가지 버전이 남았다."
-              },
-              {
-                "t": "p",
-                "x": "자매지 AJAMRI는 Fei-Fei Li, Christopher Manning, Michael I. Jordan, Stuart Russell 등 학자들의 이름을 단 논문 수십 편을 실었다. 세 도메인 모두 2026년에 등록됐지만 그보다 몇 년 앞선 아카이브를 내걸고 있으며, 게재료를 광고한다."
-              },
-              {
-                "t": "p",
-                "x": "“새로 들어온 Ph.D. 학생이 이 학술지에서 내 이름을 보면 거기에 투고해도 OK라고 생각할 수 있다”고 Said는 말했다. Stanford의 Jure Leskovec는 자기 이름으로 된 논문을 쓰거나 승인한 적이 없다고 확인했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "著名学者の名を冠した\nAI slop論文",
-          "body": "トップ研究者の名を冠したAI-generated論文が、無名の学術誌に掲載された。",
-          "mini_headline": "著名学者の名でAI slop",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/alan-said.jpg?itok=ewUbApq4"
-              },
-              {
-                "t": "p",
-                "x": "あまり知られていない学術誌のグループが、執筆していない教授たちの名前で「AI slop」論文を掲載していたことが調査で分かった。"
-              },
-              {
-                "t": "p",
-                "x": "University of GothenburgのコンピューターサイエンスのAlan Said教授は、American International Journal of Research and Innovation（AIJRI）に自分の名前で掲載された論文についてGoogle Scholarの通知を受け取った。「AI-generatedに見える。中身がなく、slopのようだ」と彼は語った。彼が抗議すると名前は別の人物に差し替えられ、著者の異なる三つの版が残った。"
-              },
-              {
-                "t": "p",
-                "x": "姉妹誌のAJAMRIは、Fei-Fei Li、Christopher Manning、Michael I. Jordan、Stuart Russellらの名を冠した論文を数十本掲載している。三つのドメインはいずれも2026年に登録されたのに、何年も前からのアーカイブを掲げ、掲載料を宣伝している。"
-              },
-              {
-                "t": "p",
-                "x": "「新しいPh.D.の学生がこの学術誌で私の名前を見たら、自分も投稿してOKだと思うかもしれない」とSaidは述べた。StanfordのJure Leskovecは、自分の名前の論文を書いたことも承認したこともないと認めた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "知名学者被署名\nAI slop论文现身",
-          "body": "署有顶尖研究者姓名的AI-generated论文现身不知名期刊，或会误导博士生。",
-          "mini_headline": "知名学者名下的AI slop",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/alan-said.jpg?itok=ewUbApq4"
-              },
-              {
-                "t": "p",
-                "x": "一项调查发现，一批鲜为人知的学术期刊一直以并未撰写论文的教授的名义发表“AI slop”论文。"
-              },
-              {
-                "t": "p",
-                "x": "University of Gothenburg计算机科学教授Alan Said收到一条Google Scholar提醒，称American International Journal of Research and Innovation（AIJRI）上有一篇署他名字的论文。他说：“看起来是AI-generated。没有内容，就像slop。”他投诉后，署名被换成了别人，留下三个署有不同作者的版本。"
-              },
-              {
-                "t": "p",
-                "x": "姊妹期刊AJAMRI发表了数十篇署名为Fei-Fei Li、Christopher Manning、Michael I. Jordan和Stuart Russell等学者的论文。三个域名均在2026年注册，却展示着早几年的存档，并宣传收取发表费。"
-              },
-              {
-                "t": "p",
-                "x": "“如果一个新的Ph.D.学生在这本期刊上看到我的名字，可能会认为投到那里也OK。”Said说。Stanford的Jure Leskovec证实，他没有撰写或授权任何署他名字的论文。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Artículos «AI slop» aparecen\na nombre de académicos notables",
-          "body": "Artículos AI-generated firmados con nombres de grandes investigadores aparecen en revistas poco conocidas.",
-          "mini_headline": "AI slop con nombres ilustres",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/alan-said.jpg?itok=ewUbApq4"
-              },
-              {
-                "t": "p",
-                "x": "Una investigación ha revelado que un grupo de revistas académicas poco conocidas ha publicado artículos de “AI slop” con los nombres de profesores que no los escribieron."
-              },
-              {
-                "t": "p",
-                "x": "Alan Said, profesor de informática en la University of Gothenburg, recibió una alerta de Google Scholar sobre un artículo con su nombre en el American International Journal of Research and Innovation (AIJRI). “Parece AI-generated. No tiene contenido, es como slop”, dijo. Tras su queja, su nombre se sustituyó por otros, y quedaron tres versiones atribuidas a autores distintos."
-              },
-              {
-                "t": "p",
-                "x": "Una revista hermana, AJAMRI, ha publicado decenas de artículos atribuidos a académicos como Fei-Fei Li, Christopher Manning, Michael I. Jordan y Stuart Russell. Los tres dominios se registraron en 2026, pero muestran archivos de años anteriores, y anuncian tarifas de publicación."
-              },
-              {
-                "t": "p",
-                "x": "“Si un nuevo estudiante de Ph.D. viera mi nombre en esta revista, podría pensar que es OK enviar allí también”, dijo Said. Jure Leskovec, de Stanford, confirmó que no escribió ni autorizó un artículo con su nombre."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "books-scholarlykitchen-bot-taxonomy",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "학술 플랫폼용\n공통 봇 분류 체계",
-      "body": "한 기고문이 AI 크롤러·에이전트 트래픽을 가를 공통 봇 분류 체계를 내놨다.",
-      "mini_headline": "봇 분류 체계",
-      "tool": "Books",
-      "source": "The Scholarly Kitchen",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/19/guest-post-building-a-taxonomy-of-bots/",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202611241913001",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -1393,179 +392,585 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg",
-            "cap": "열린 문간에서 키 카드를 든 로봇"
+            "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261116.92cf81a063174a5cafc74bd1b5615735_P1.jpg",
+            "cap": "지난 16일 경향신문 기자가 사용한 인공지능(AI) 안경에 2026년도 수능 수학영역 문제지와 풀이 과정이 표시되고 있다. ‘로키드 글래스 AI’ 화면 캡처"
           },
           {
             "t": "p",
-            "x": "편집자 주: 오늘 글은 LibLynx 데이터 책임자 Michelle Urberg가 썼다. 학술 콘텐츠 플랫폼의 봇 생태계는 갈수록 복잡해지고, 도서관과 출판사가 그 한가운데 있다. 악의적이라 막아야 할 봇도 있지만 ‘좋은 봇’도 많다. 연구자와 학생이 콘텐츠를 활용하도록, 또 보존용으로 아카이브하도록 돕는 봇들이다. 사람 연구자 대신 움직이는 에이전트는 이용 보고서에 넣어야 한다."
+            "x": "인공지능(AI)을 활용한 시험 부정행위가 발각되며 문학계에서도 논의가 불붙고 있다. 신춘문예 공고에 AI를 금지하거나 AI를 사용했을 경우 이를 밝히라는 공지가 빠짐없이 등장했다."
           },
           {
             "t": "p",
-            "x": "이제 봇을 막으면 여파가 꼬리를 문다. 접속이 느려지고 이용자가 잘못 거부되기도 하며 플랫폼 제공자는 계속 시달린다. 기존 목록은 제각각 흩어져 있다. COUNTER 목록이 식별하는 봇은 200개가 채 안 되지만 Cloudflare Bot Directory는 최근 750개에서 1,500개 이상으로 두 배가 됐다. 필자는 봇 분류 체계가 있으면 지식 플랫폼이 콘텐츠 통제권을 되찾고 누가(또는 무엇이) 드나드는지 파악하기 쉬워진다고 본다."
+            "x": "경향신문은 2027 신춘문예 공고에 “작품의 집필 과정에서 AI를 활용한 경우, 사용 도구와 활용 목적 및 범위를 구체적으로 밝혀야 합니다”라는 문구를 넣었다. 심사위원단은 당선 후보작에 대해 유선 면접 또는 추가 자료 제출을 요청할 수 있고, AI 활용 사실을 고의로 누락하거나 허위로 기재하면 당선이 취소될 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261124.467f97ebbb514fc19d56194943155a8a_P1.png",
+            "cap": "2027년 경향신문 신춘문예 응모요령 공고."
           },
           {
             "t": "p",
-            "x": "Charleston Conference 패널에는 David Bietila(University of Chicago Library), Jeremy Morse(Michigan Publishing), Rikki Gracia(IEEE)가 참여했다. 이 패널에서 영감을 얻어 이들은 예비 질문 몇 가지에 합의했다. 봇은 누구이며 자신을 어떻게 밝히는가, 어떤 콘텐츠를 찾는가, 밝힌 목적은 무엇인가(예: 학습, 쇼핑, 색인, 보존), 그 정당성을 얼마나 확신할 수 있는가, turnstile 같은 차단 장치를 우회할 수 있는가."
+            "x": "지난해 경향신문 신춘문예의 응모작은 전년보다 시 부문에서 2289편, 소설 부문에서 132편 증가했다. 올해 프랑스 공쿠르상은 AI 집필 의혹이 제기된 작품을 최종 후보에서 제외했고, 국내 한 문학 공모전은 AI 사용 의심작이 본심에 오르자 ‘당선작 없음’으로 마무리했다."
           },
           {
             "t": "p",
-            "x": "의도를 어떤 대리 지표로 읽을지, 학술 분야 고유의 태그 가운데 무엇을 표준화할지는 아직 숙제다. 커뮤니티가 주도하는 봇 분류 체계가 봇 관리 해법의 한 축이고 덕분에 이용 지표도 더 깨끗해진다는 데 패널리스트 전원이 동의했다."
+            "x": "올해 신춘문예에는 대부분 주최사들이 ‘당선 후보작에 대해서 심사위원들이 작품의 창작 과정 및 AI 활용 내역을 면접 등을 통해 확인할 수 있다’는 문구를 공고에 추가했다. 문학과지성사는 내년부터 AI 사용 가이드라인을 추가할 계획이고, 창비는 지난해부터 ‘AI 제작 작품은 응모할 수 없다’고 했다."
+          },
+          {
+            "t": "p",
+            "x": "김성신 출판평론가는 “문학과 출판에 닥친 AI의 부작용이 가시화된 것을 상징적으로 보여주는 장면”이라고 말했다. 올해 79회를 맞는 경향신문 신춘문예는 온라인으로만 접수하며, 마감은 12월4일까지다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "A shared taxonomy of bots\nfor scholarly platforms",
-          "body": "A guest post proposes a shared taxonomy of bots so publishers can measure and manage AI crawler and agent traffic.",
-          "mini_headline": "A taxonomy of bots",
+        "ko": {
+          "headline": "신춘문예 AI 검증에\n당선 후보 면접까지",
+          "body": "올해 신춘문예 대부분 주최사가 AI 활용 내역을 당선 후보 면접으로 확인한다.",
+          "mini_headline": "신춘문예, AI 면접까지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg",
-                "cap": "Robot holding key card standing at open doorway"
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261116.92cf81a063174a5cafc74bd1b5615735_P1.jpg",
+                "cap": "지난 16일 경향신문 기자가 사용한 인공지능(AI) 안경에 2026년도 수능 수학영역 문제지와 풀이 과정이 표시되고 있다. ‘로키드 글래스 AI’ 화면 캡처"
               },
               {
                 "t": "p",
-                "x": "Editors’ note: Today’s post is by Michelle Urberg, Head of Data at LibLynx. Libraries and publishers face an increasingly complex ecosystem of robotic activity on scholarly content platforms. Some bots are malicious and should be blocked, but many “good bots” help researchers and students engage with content or archive it for preservation; agents acting on behalf of human researchers should be included in usage reports."
+                "x": "인공지능(AI)을 활용한 시험 부정행위가 발각되며 문학계에서도 논의가 불붙고 있다. 신춘문예 공고에 AI를 금지하거나 AI를 사용했을 경우 이를 밝히라는 공지가 빠짐없이 등장했다."
               },
               {
                 "t": "p",
-                "x": "Bot blocking now has cascading effects: time to access is slower, users can be incorrectly rejected, and platform providers continue to be hammered. Existing catalogs are siloed — the COUNTER list identifies just under 200 bots, and the Cloudflare Bot Directory recently doubled from 750 to more than 1,500. The post proposes that a taxonomy of bots can help knowledge platforms take back control over content and understand who (or what) is accessing it."
+                "x": "경향신문은 2027 신춘문예 공고에 “작품의 집필 과정에서 AI를 활용한 경우, 사용 도구와 활용 목적 및 범위를 구체적으로 밝혀야 합니다”라는 문구를 넣었다. 심사위원단은 당선 후보작에 대해 유선 면접 또는 추가 자료 제출을 요청할 수 있고, AI 활용 사실을 고의로 누락하거나 허위로 기재하면 당선이 취소될 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261124.467f97ebbb514fc19d56194943155a8a_P1.png",
+                "cap": "2027년 경향신문 신춘문예 응모요령 공고."
               },
               {
                 "t": "p",
-                "x": "Inspired by a Charleston Conference panel with David Bietila (University of Chicago Library), Jeremy Morse (Michigan Publishing) and Rikki Gracia (IEEE), the group agreed on preliminary questions: who the bot is and how it identifies itself, what content it seeks, its stated purpose (e.g., training, shopping, indexing, archival), how confident we are in its legitimacy, and whether it can evade turnstile mechanisms."
+                "x": "지난해 경향신문 신춘문예의 응모작은 전년보다 시 부문에서 2289편, 소설 부문에서 132편 증가했다. 올해 프랑스 공쿠르상은 AI 집필 의혹이 제기된 작품을 최종 후보에서 제외했고, 국내 한 문학 공모전은 AI 사용 의심작이 본심에 오르자 ‘당선작 없음’으로 마무리했다."
               },
               {
                 "t": "p",
-                "x": "Open issues include how to proxy for intention and what scholarly-specific tags to standardize. All panelists agreed a community-led bot taxonomy is one part of the solution to bot management, with cleaner usage metrics as a result."
+                "x": "올해 신춘문예에는 대부분 주최사들이 ‘당선 후보작에 대해서 심사위원들이 작품의 창작 과정 및 AI 활용 내역을 면접 등을 통해 확인할 수 있다’는 문구를 공고에 추가했다. 문학과지성사는 내년부터 AI 사용 가이드라인을 추가할 계획이고, 창비는 지난해부터 ‘AI 제작 작품은 응모할 수 없다’고 했다."
+              },
+              {
+                "t": "p",
+                "x": "김성신 출판평론가는 “문학과 출판에 닥친 AI의 부작용이 가시화된 것을 상징적으로 보여주는 장면”이라고 말했다. 올해 79회를 맞는 경향신문 신춘문예는 온라인으로만 접수하며, 마감은 12월4일까지다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "학술 플랫폼용\n공통 봇 분류 체계",
-          "body": "한 기고문이 AI 크롤러·에이전트 트래픽을 가를 공통 봇 분류 체계를 내놨다.",
-          "mini_headline": "봇 분류 체계",
+        "en": {
+          "headline": "Literary contests check AI use\nwith finalist interviews",
+          "body": "This year, most Sinchun Munye organizers will check finalists' AI use through interviews.",
+          "mini_headline": "Sinchun Munye adds AI interviews",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg",
-                "cap": "열린 문간에서 키 카드를 든 로봇"
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261116.92cf81a063174a5cafc74bd1b5615735_P1.jpg",
+                "cap": "On the 16th, artificial intelligence (AI) glasses used by a Kyunghyang Shinmun reporter display the math section question paper and solution steps from the 2026 CSAT (Suneung). Screen capture from ‘Rokid Glass AI’"
               },
               {
                 "t": "p",
-                "x": "편집자 주: 오늘 글은 LibLynx 데이터 책임자 Michelle Urberg가 썼다. 학술 콘텐츠 플랫폼의 봇 생태계는 갈수록 복잡해지고, 도서관과 출판사가 그 한가운데 있다. 악의적이라 막아야 할 봇도 있지만 ‘좋은 봇’도 많다. 연구자와 학생이 콘텐츠를 활용하도록, 또 보존용으로 아카이브하도록 돕는 봇들이다. 사람 연구자 대신 움직이는 에이전트는 이용 보고서에 넣어야 한다."
+                "x": "As cases of exam cheating using artificial intelligence (AI) have come to light, debate has flared in the literary world as well. Notices banning AI, or requiring entrants to disclose any AI use, have appeared in every Sinchun Munye (New Year literary contest) announcement."
               },
               {
                 "t": "p",
-                "x": "이제 봇을 막으면 여파가 꼬리를 문다. 접속이 느려지고 이용자가 잘못 거부되기도 하며 플랫폼 제공자는 계속 시달린다. 기존 목록은 제각각 흩어져 있다. COUNTER 목록이 식별하는 봇은 200개가 채 안 되지만 Cloudflare Bot Directory는 최근 750개에서 1,500개 이상으로 두 배가 됐다. 필자는 봇 분류 체계가 있으면 지식 플랫폼이 콘텐츠 통제권을 되찾고 누가(또는 무엇이) 드나드는지 파악하기 쉬워진다고 본다."
+                "x": "Kyunghyang Shinmun added to its 2027 Sinchun Munye announcement the line “If AI was used in writing the work, the tools used and the purpose and scope of use must be stated specifically.” The judging panel may request a phone interview or additional materials for finalist works, and a win can be revoked if AI use is deliberately omitted or falsely reported."
+              },
+              {
+                "t": "img",
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261124.467f97ebbb514fc19d56194943155a8a_P1.png",
+                "cap": "Kyunghyang Shinmun’s 2027 Sinchun Munye submission guidelines."
               },
               {
                 "t": "p",
-                "x": "Charleston Conference 패널에는 David Bietila(University of Chicago Library), Jeremy Morse(Michigan Publishing), Rikki Gracia(IEEE)가 참여했다. 이 패널에서 영감을 얻어 이들은 예비 질문 몇 가지에 합의했다. 봇은 누구이며 자신을 어떻게 밝히는가, 어떤 콘텐츠를 찾는가, 밝힌 목적은 무엇인가(예: 학습, 쇼핑, 색인, 보존), 그 정당성을 얼마나 확신할 수 있는가, turnstile 같은 차단 장치를 우회할 수 있는가."
+                "x": "Last year, entries to the Kyunghyang Shinmun Sinchun Munye rose from the previous year by 2289 in poetry and 132 in fiction. This year, France’s Prix Goncourt removed a work suspected of being written with AI from its final shortlist, and a literary contest in Korea ended with ‘no winner’ after a work suspected of AI use reached the final round."
               },
               {
                 "t": "p",
-                "x": "의도를 어떤 대리 지표로 읽을지, 학술 분야 고유의 태그 가운데 무엇을 표준화할지는 아직 숙제다. 커뮤니티가 주도하는 봇 분류 체계가 봇 관리 해법의 한 축이고 덕분에 이용 지표도 더 깨끗해진다는 데 패널리스트 전원이 동의했다."
+                "x": "This year, most Sinchun Munye organizers added to their announcements the line ‘judges may verify the creative process and AI use of finalist works through interviews and other means.’ Moonji plans to add AI use guidelines starting next year, and Changbi has stated since last year that ‘works produced by AI cannot be submitted.’"
+              },
+              {
+                "t": "p",
+                "x": "Publishing critic Kim Sung-shin said it is “a scene that symbolically shows how the side effects of AI on literature and publishing have become visible.” The Kyunghyang Shinmun Sinchun Munye, now in its 79th edition, accepts entries online only, with a deadline of December 4."
               }
             ]
           }
         },
         "ja": {
-          "headline": "学術プラットフォーム\n向けボット共通分類",
-          "body": "寄稿記事が、AIクローラーやエージェントの通信を管理する共通のボット分類を提案する。",
-          "mini_headline": "ボットの分類体系",
+          "headline": "新春文芸、AI検証で\n当選候補に面接まで",
+          "body": "今年の新春文芸は主催社の大半がAI活用の内容を当選候補との面接で確認する。",
+          "mini_headline": "新春文芸、AI面接まで",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg",
-                "cap": "開いた戸口にキーカードを持って立つロボット"
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261116.92cf81a063174a5cafc74bd1b5615735_P1.jpg",
+                "cap": "16日、京郷新聞の記者が使った人工知能（AI）メガネに、2026年度修能（大学修学能力試験）数学領域の問題用紙と解答過程が表示されている。‘Rokid Glass AI’の画面キャプチャー"
               },
               {
                 "t": "p",
-                "x": "編集部注：本日の記事はLibLynxのデータ責任者Michelle Urbergによるものである。図書館と出版社は、学術コンテンツ・プラットフォーム上でますます複雑化するボット活動の生態系に直面している。悪意があり遮断すべきボットもあるが、多くの「良いボット」は研究者や学生がコンテンツを活用したり、保存のためにアーカイブしたりするのを助けている。人間の研究者の代わりに動くエージェントは、利用統計レポートに含めるべきだ。"
+                "x": "人工知能（AI）を使った試験の不正行為が発覚し、文学界でも議論が熱を帯びている。新春文芸の募集要項には、AIを禁止する、またはAIを使った場合はそれを明記するよう求める告知が漏れなく登場した。"
               },
               {
                 "t": "p",
-                "x": "ボットの遮断は今や連鎖的な影響を生んでいる。アクセスに時間がかかり、利用者が誤って拒否されることもあり、プラットフォーム事業者は負荷にさらされ続けている。既存のカタログはばらばらだ。COUNTERのリストが特定するボットは200弱で、Cloudflare Bot Directoryは最近750から1,500超へと倍増した。記事は、ボットの分類体系があれば、知識プラットフォームがコンテンツの管理権を取り戻し、誰が（あるいは何が）アクセスしているのかを把握できると提案する。"
+                "x": "京郷新聞は2027新春文芸の募集要項に「作品の執筆過程でAIを活用した場合、使用ツールと活用目的および範囲を具体的に明記しなければなりません」という文言を入れた。審査委員団は当選候補作について電話面接や追加資料の提出を求めることができ、AI活用の事実を故意に省いたり虚偽を記載したりした場合は当選が取り消されることがある。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261124.467f97ebbb514fc19d56194943155a8a_P1.png",
+                "cap": "2027年京郷新聞新春文芸の応募要領告知。"
               },
               {
                 "t": "p",
-                "x": "David Bietila（University of Chicago Library）、Jeremy Morse（Michigan Publishing）、Rikki Gracia（IEEE）が登壇したCharleston Conferenceのパネルに触発され、グループは予備的な問いで合意した。ボットは誰で、どう名乗るのか。どんなコンテンツを求めるのか。表明された目的は何か（例：学習、ショッピング、索引付け、アーカイブ）。その正当性をどれほど確信できるか。そしてturnstileの仕組みを回避できるかどうかである。"
+                "x": "昨年の京郷新聞新春文芸の応募作は、前年より詩部門で2289編、小説部門で132編増えた。今年、フランスのゴンクール賞はAI執筆の疑いが持たれた作品を最終候補から外し、国内のある文学公募展はAI使用の疑いがある作品が本審査に残ると「当選作なし」で締めくくった。"
               },
               {
                 "t": "p",
-                "x": "未解決の課題には、意図をどう代理指標で捉えるか、学術分野特有のどのタグを標準化するかが含まれる。パネリスト全員が、コミュニティ主導のボット分類体系はボット管理の解決策の一部であり、その結果として利用指標がよりクリーンになるという点で一致した。"
+                "x": "今年の新春文芸では、大半の主催社が「当選候補作について、審査委員が作品の創作過程とAI活用の内容を面接などで確認できる」という文言を募集要項に加えた。文学と知性社は来年からAI使用ガイドラインを追加する計画で、創批は昨年から「AIで制作した作品は応募できない」としている。"
+              },
+              {
+                "t": "p",
+                "x": "出版評論家のキム・ソンシン氏は「文学と出版に押し寄せたAIの副作用が可視化されたことを象徴的に示す場面だ」と語った。今年で79回目を迎える京郷新聞新春文芸はオンラインでのみ受け付け、締め切りは12月4日だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "学术平台需要\n共享的机器人分类",
-          "body": "一篇客座文章提议建立共享的机器人分类法，帮助出版商衡量和管理AI爬虫与智能体流量。",
-          "mini_headline": "机器人分类法",
+          "headline": "新春文艺严查AI\n入围者还要面试",
+          "body": "今年多数新春文艺主办方将通过面试核实入围作品的AI使用情况。",
+          "mini_headline": "新春文艺：AI面试",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg",
-                "cap": "站在敞开门口、手持门禁卡的机器人"
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261116.92cf81a063174a5cafc74bd1b5615735_P1.jpg",
+                "cap": "16日，《京乡新闻》记者使用的人工智能（AI）眼镜上显示着2026年度修能（韩国高考）数学科目试卷和解题过程。‘Rokid Glass AI’画面截图"
               },
               {
                 "t": "p",
-                "x": "编者按：今天的文章作者是LibLynx数据负责人Michelle Urberg。图书馆和出版商在学术内容平台上面临着日益复杂的机器人活动生态。有些机器人是恶意的，应当拦截；但许多“好机器人”能帮助研究人员和学生使用内容，或将其存档以便保存；代表人类研究者行事的智能体应被纳入使用报告。"
+                "x": "利用人工智能（AI）的考试作弊行为曝光后，文学界的讨论也随之升温。新春文艺的征稿启事中无一例外地出现了禁止使用AI、或要求说明AI使用情况的告示。"
               },
               {
                 "t": "p",
-                "x": "如今，拦截机器人会产生连锁效应：访问变慢，用户可能被错误拒绝，平台提供商仍不断承受冲击。现有目录各自为政——COUNTER列表识别的机器人不到200个，Cloudflare Bot Directory最近从750个翻倍至1,500个以上。文章提出，机器人分类法可以帮助知识平台重新掌控内容，并了解是谁（或是什么）在访问。"
+                "x": "《京乡新闻》在2027新春文艺征稿启事中加入了“如在作品写作过程中使用了AI，须具体说明所用工具、使用目的及范围”的条款。评审团可要求入围作品接受电话面试或提交补充材料；若故意隐瞒或虚报AI使用情况，获奖资格可能被取消。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261124.467f97ebbb514fc19d56194943155a8a_P1.png",
+                "cap": "2027年《京乡新闻》新春文艺投稿须知启事。"
               },
               {
                 "t": "p",
-                "x": "受David Bietila（University of Chicago Library）、Jeremy Morse（Michigan Publishing）和Rikki Gracia（IEEE）参与的Charleston Conference小组讨论启发，该小组就几个初步问题达成一致：机器人是谁、如何表明身份；它寻找什么内容；其声明的用途（例如训练、购物、索引、存档）；我们对其合法性有多大把握；以及它能否绕过turnstile机制。"
+                "x": "去年《京乡新闻》新春文艺的投稿量较前年在诗歌类增加2289篇，小说类增加132篇。今年法国龚古尔奖将涉嫌由AI写作的作品从最终入围名单中剔除；韩国国内一项文学征文在一部疑似使用AI的作品进入终审后，以“无获奖作品”收场。"
               },
               {
                 "t": "p",
-                "x": "尚待解决的问题包括如何用替代指标推断意图，以及应标准化哪些学术领域专属标签。所有小组成员都认为，由社区主导的机器人分类法是机器人管理方案的一部分，其结果是更干净的使用指标。"
+                "x": "今年的新春文艺中，多数主办方在启事中增加了“评委可通过面试等方式核实入围作品的创作过程及AI使用情况”的条款。文学与知性社计划从明年起增加AI使用指南，创批则从去年起规定“AI制作的作品不得投稿”。"
+              },
+              {
+                "t": "p",
+                "x": "出版评论家Kim Sung-shin表示：“这一幕象征性地表明，AI给文学和出版带来的副作用已经显现。”今年迎来第79届的《京乡新闻》新春文艺仅接受线上投稿，截止日期为12月4日。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una taxonomía común de bots\npara plataformas académicas",
-          "body": "Un artículo propone una taxonomía común de bots para medir y gestionar el tráfico de rastreadores y agentes de IA.",
-          "mini_headline": "Una taxonomía de bots",
+          "headline": "Concursos literarios vigilan AI\ncon entrevistas a finalistas",
+          "body": "Este año, la mayoría de organizadores del Sinchun Munye verificará el uso de AI con entrevistas a finalistas.",
+          "mini_headline": "Sinchun Munye: entrevistas por AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg",
-                "cap": "Robot con una tarjeta de acceso de pie en una puerta abierta"
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261116.92cf81a063174a5cafc74bd1b5615735_P1.jpg",
+                "cap": "El día 16, unas gafas con inteligencia artificial (AI) usadas por un periodista de Kyunghyang Shinmun muestran el examen de matemáticas del CSAT (Suneung) de 2026 y el proceso de resolución. Captura de pantalla de ‘Rokid Glass AI’"
               },
               {
                 "t": "p",
-                "x": "Nota de los editores: el artículo de hoy es de Michelle Urberg, responsable de datos de LibLynx. Las bibliotecas y las editoriales se enfrentan a un ecosistema cada vez más complejo de actividad robótica en las plataformas de contenido académico. Algunos bots son maliciosos y deben bloquearse, pero muchos «bots buenos» ayudan a investigadores y estudiantes a interactuar con el contenido o a archivarlo para su preservación; los agentes que actúan en nombre de investigadores humanos deberían incluirse en los informes de uso."
+                "x": "Tras descubrirse casos de trampa en exámenes con inteligencia artificial (AI), el debate se ha encendido también en el mundo literario. En todas las convocatorias del Sinchun Munye (concurso literario de Año Nuevo) han aparecido avisos que prohíben la AI o exigen declarar su uso."
               },
               {
                 "t": "p",
-                "x": "El bloqueo de bots tiene ahora efectos en cascada: el acceso es más lento, los usuarios pueden ser rechazados por error y los proveedores de plataformas siguen sufriendo la sobrecarga. Los catálogos existentes están aislados: la lista de COUNTER identifica algo menos de 200 bots, y el Cloudflare Bot Directory se duplicó hace poco, de 750 a más de 1,500. El artículo propone que una taxonomía de bots puede ayudar a las plataformas de conocimiento a recuperar el control sobre su contenido y entender quién (o qué) accede a él."
+                "x": "Kyunghyang Shinmun incluyó en su convocatoria del Sinchun Munye 2027 la frase: «Si se utilizó AI en el proceso de escritura de la obra, deben indicarse de forma concreta las herramientas usadas y el propósito y alcance de su uso». El jurado puede solicitar para las obras finalistas una entrevista telefónica o materiales adicionales, y el premio puede anularse si se omite deliberadamente o se declara en falso el uso de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261124.467f97ebbb514fc19d56194943155a8a_P1.png",
+                "cap": "Convocatoria con las bases del Sinchun Munye 2027 de Kyunghyang Shinmun."
               },
               {
                 "t": "p",
-                "x": "Inspirado por un panel de la Charleston Conference con David Bietila (University of Chicago Library), Jeremy Morse (Michigan Publishing) y Rikki Gracia (IEEE), el grupo acordó unas preguntas preliminares: quién es el bot y cómo se identifica, qué contenido busca, su propósito declarado (p. ej., entrenamiento, compras, indexación, archivo), qué grado de confianza tenemos en su legitimidad y si puede eludir mecanismos de tipo turnstile."
+                "x": "El año pasado, las obras presentadas al Sinchun Munye de Kyunghyang Shinmun aumentaron respecto al año anterior en 2289 en poesía y en 132 en narrativa. Este año, el Premio Goncourt de Francia excluyó de su lista final una obra sospechosa de haber sido escrita con AI, y un concurso literario en Corea terminó «sin obra ganadora» después de que una obra sospechosa de usar AI llegara a la ronda final."
               },
               {
                 "t": "p",
-                "x": "Entre las cuestiones abiertas están cómo inferir la intención mediante indicadores indirectos y qué etiquetas específicas del ámbito académico estandarizar. Todos los panelistas coincidieron en que una taxonomía de bots impulsada por la comunidad es una parte de la solución para gestionar los bots, con métricas de uso más limpias como resultado."
+                "x": "Este año, la mayoría de los organizadores del Sinchun Munye añadió a sus convocatorias la frase «el jurado podrá verificar mediante entrevistas, entre otros medios, el proceso creativo y el uso de AI de las obras finalistas». Moonji planea añadir pautas de uso de AI a partir del próximo año, y Changbi establece desde el año pasado que «no se pueden presentar obras creadas con AI»."
+              },
+              {
+                "t": "p",
+                "x": "El crítico editorial Kim Sung-shin afirmó que es «una escena que muestra de forma simbólica cómo se han hecho visibles los efectos secundarios de la AI en la literatura y la edición». El Sinchun Munye de Kyunghyang Shinmun, que este año celebra su 79.ª edición, solo admite envíos en línea, con plazo hasta el 4 de diciembre."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Literary contests check AI use\nwith finalist interviews",
+          "body": "This year, most Sinchun Munye organizers will check finalists' AI use through interviews.",
+          "mini_headline": "Sinchun Munye adds AI interviews",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261116.92cf81a063174a5cafc74bd1b5615735_P1.jpg",
+                "cap": "On the 16th, artificial intelligence (AI) glasses used by a Kyunghyang Shinmun reporter display the math section question paper and solution steps from the 2026 CSAT (Suneung). Screen capture from ‘Rokid Glass AI’"
+              },
+              {
+                "t": "p",
+                "x": "As cases of exam cheating using artificial intelligence (AI) have come to light, debate has flared in the literary world as well. Notices banning AI, or requiring entrants to disclose any AI use, have appeared in every Sinchun Munye (New Year literary contest) announcement."
+              },
+              {
+                "t": "p",
+                "x": "Kyunghyang Shinmun added to its 2027 Sinchun Munye announcement the line “If AI was used in writing the work, the tools used and the purpose and scope of use must be stated specifically.” The judging panel may request a phone interview or additional materials for finalist works, and a win can be revoked if AI use is deliberately omitted or falsely reported."
+              },
+              {
+                "t": "img",
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261124.467f97ebbb514fc19d56194943155a8a_P1.png",
+                "cap": "Kyunghyang Shinmun’s 2027 Sinchun Munye submission guidelines."
+              },
+              {
+                "t": "p",
+                "x": "Last year, entries to the Kyunghyang Shinmun Sinchun Munye rose from the previous year by 2289 in poetry and 132 in fiction. This year, France’s Prix Goncourt removed a work suspected of being written with AI from its final shortlist, and a literary contest in Korea ended with ‘no winner’ after a work suspected of AI use reached the final round."
+              },
+              {
+                "t": "p",
+                "x": "This year, most Sinchun Munye organizers added to their announcements the line ‘judges may verify the creative process and AI use of finalist works through interviews and other means.’ Moonji plans to add AI use guidelines starting next year, and Changbi has stated since last year that ‘works produced by AI cannot be submitted.’"
+              },
+              {
+                "t": "p",
+                "x": "Publishing critic Kim Sung-shin said it is “a scene that symbolically shows how the side effects of AI on literature and publishing have become visible.” The Kyunghyang Shinmun Sinchun Munye, now in its 79th edition, accepts entries online only, with a deadline of December 4."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "新春文芸、AI検証で\n当選候補に面接まで",
+          "body": "今年の新春文芸は主催社の大半がAI活用の内容を当選候補との面接で確認する。",
+          "mini_headline": "新春文芸、AI面接まで",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261116.92cf81a063174a5cafc74bd1b5615735_P1.jpg",
+                "cap": "16日、京郷新聞の記者が使った人工知能（AI）メガネに、2026年度修能（大学修学能力試験）数学領域の問題用紙と解答過程が表示されている。‘Rokid Glass AI’の画面キャプチャー"
+              },
+              {
+                "t": "p",
+                "x": "人工知能（AI）を使った試験の不正行為が発覚し、文学界でも議論が熱を帯びている。新春文芸の募集要項には、AIを禁止する、またはAIを使った場合はそれを明記するよう求める告知が漏れなく登場した。"
+              },
+              {
+                "t": "p",
+                "x": "京郷新聞は2027新春文芸の募集要項に「作品の執筆過程でAIを活用した場合、使用ツールと活用目的および範囲を具体的に明記しなければなりません」という文言を入れた。審査委員団は当選候補作について電話面接や追加資料の提出を求めることができ、AI活用の事実を故意に省いたり虚偽を記載したりした場合は当選が取り消されることがある。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261124.467f97ebbb514fc19d56194943155a8a_P1.png",
+                "cap": "2027年京郷新聞新春文芸の応募要領告知。"
+              },
+              {
+                "t": "p",
+                "x": "昨年の京郷新聞新春文芸の応募作は、前年より詩部門で2289編、小説部門で132編増えた。今年、フランスのゴンクール賞はAI執筆の疑いが持たれた作品を最終候補から外し、国内のある文学公募展はAI使用の疑いがある作品が本審査に残ると「当選作なし」で締めくくった。"
+              },
+              {
+                "t": "p",
+                "x": "今年の新春文芸では、大半の主催社が「当選候補作について、審査委員が作品の創作過程とAI活用の内容を面接などで確認できる」という文言を募集要項に加えた。文学と知性社は来年からAI使用ガイドラインを追加する計画で、創批は昨年から「AIで制作した作品は応募できない」としている。"
+              },
+              {
+                "t": "p",
+                "x": "出版評論家のキム・ソンシン氏は「文学と出版に押し寄せたAIの副作用が可視化されたことを象徴的に示す場面だ」と語った。今年で79回目を迎える京郷新聞新春文芸はオンラインでのみ受け付け、締め切りは12月4日だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "新春文艺严查AI\n入围者还要面试",
+          "body": "今年多数新春文艺主办方将通过面试核实入围作品的AI使用情况。",
+          "mini_headline": "新春文艺：AI面试",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261116.92cf81a063174a5cafc74bd1b5615735_P1.jpg",
+                "cap": "16日，《京乡新闻》记者使用的人工智能（AI）眼镜上显示着2026年度修能（韩国高考）数学科目试卷和解题过程。‘Rokid Glass AI’画面截图"
+              },
+              {
+                "t": "p",
+                "x": "利用人工智能（AI）的考试作弊行为曝光后，文学界的讨论也随之升温。新春文艺的征稿启事中无一例外地出现了禁止使用AI、或要求说明AI使用情况的告示。"
+              },
+              {
+                "t": "p",
+                "x": "《京乡新闻》在2027新春文艺征稿启事中加入了“如在作品写作过程中使用了AI，须具体说明所用工具、使用目的及范围”的条款。评审团可要求入围作品接受电话面试或提交补充材料；若故意隐瞒或虚报AI使用情况，获奖资格可能被取消。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261124.467f97ebbb514fc19d56194943155a8a_P1.png",
+                "cap": "2027年《京乡新闻》新春文艺投稿须知启事。"
+              },
+              {
+                "t": "p",
+                "x": "去年《京乡新闻》新春文艺的投稿量较前年在诗歌类增加2289篇，小说类增加132篇。今年法国龚古尔奖将涉嫌由AI写作的作品从最终入围名单中剔除；韩国国内一项文学征文在一部疑似使用AI的作品进入终审后，以“无获奖作品”收场。"
+              },
+              {
+                "t": "p",
+                "x": "今年的新春文艺中，多数主办方在启事中增加了“评委可通过面试等方式核实入围作品的创作过程及AI使用情况”的条款。文学与知性社计划从明年起增加AI使用指南，创批则从去年起规定“AI制作的作品不得投稿”。"
+              },
+              {
+                "t": "p",
+                "x": "出版评论家Kim Sung-shin表示：“这一幕象征性地表明，AI给文学和出版带来的副作用已经显现。”今年迎来第79届的《京乡新闻》新春文艺仅接受线上投稿，截止日期为12月4日。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Concursos literarios vigilan AI\ncon entrevistas a finalistas",
+          "body": "Este año, la mayoría de organizadores del Sinchun Munye verificará el uso de AI con entrevistas a finalistas.",
+          "mini_headline": "Sinchun Munye: entrevistas por AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261116.92cf81a063174a5cafc74bd1b5615735_P1.jpg",
+                "cap": "El día 16, unas gafas con inteligencia artificial (AI) usadas por un periodista de Kyunghyang Shinmun muestran el examen de matemáticas del CSAT (Suneung) de 2026 y el proceso de resolución. Captura de pantalla de ‘Rokid Glass AI’"
+              },
+              {
+                "t": "p",
+                "x": "Tras descubrirse casos de trampa en exámenes con inteligencia artificial (AI), el debate se ha encendido también en el mundo literario. En todas las convocatorias del Sinchun Munye (concurso literario de Año Nuevo) han aparecido avisos que prohíben la AI o exigen declarar su uso."
+              },
+              {
+                "t": "p",
+                "x": "Kyunghyang Shinmun incluyó en su convocatoria del Sinchun Munye 2027 la frase: «Si se utilizó AI en el proceso de escritura de la obra, deben indicarse de forma concreta las herramientas usadas y el propósito y alcance de su uso». El jurado puede solicitar para las obras finalistas una entrevista telefónica o materiales adicionales, y el premio puede anularse si se omite deliberadamente o se declara en falso el uso de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261124.467f97ebbb514fc19d56194943155a8a_P1.png",
+                "cap": "Convocatoria con las bases del Sinchun Munye 2027 de Kyunghyang Shinmun."
+              },
+              {
+                "t": "p",
+                "x": "El año pasado, las obras presentadas al Sinchun Munye de Kyunghyang Shinmun aumentaron respecto al año anterior en 2289 en poesía y en 132 en narrativa. Este año, el Premio Goncourt de Francia excluyó de su lista final una obra sospechosa de haber sido escrita con AI, y un concurso literario en Corea terminó «sin obra ganadora» después de que una obra sospechosa de usar AI llegara a la ronda final."
+              },
+              {
+                "t": "p",
+                "x": "Este año, la mayoría de los organizadores del Sinchun Munye añadió a sus convocatorias la frase «el jurado podrá verificar mediante entrevistas, entre otros medios, el proceso creativo y el uso de AI de las obras finalistas». Moonji planea añadir pautas de uso de AI a partir del próximo año, y Changbi establece desde el año pasado que «no se pueden presentar obras creadas con AI»."
+              },
+              {
+                "t": "p",
+                "x": "El crítico editorial Kim Sung-shin afirmó que es «una escena que muestra de forma simbólica cómo se han hecho visibles los efectos secundarios de la AI en la literatura y la edición». El Sinchun Munye de Kyunghyang Shinmun, que este año celebra su 79.ª edición, solo admite envíos en línea, con plazo hasta el 4 de diciembre."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "japan-ai-piracy-manga-detect",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "일본, AI 에이전트로\n해적판 사이트 탐지 시험",
+      "body": "일본 정부 시험에서 AI가 지목한 만화 사이트 94%에 해적판이 실려 있었다.",
+      "mini_headline": "일본 AI, 만화 해적판 추적",
+      "tool": "Books",
+      "source": "GadgetReview",
+      "url": "https://www.gadgetreview.com/japan-tests-ai-to-detect-pirate-anime-and-manga-sites-at-scale",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.gadgetreview.com/wp-content/uploads/Japan-Tests-AI-to-Detect-Pirate-Anime-scaled.jpg"
+          },
+          {
+            "t": "p",
+            "x": "일본 정부는 자국 영상·출판·음악·게임 콘텐츠의 온라인 불법 복제 피해액을 2025년 약 5.7조 엔으로 추산한다. 2022년 약 2조 엔에서 늘어난 규모다. 일본 콘텐츠를 노린 상위 10개 해적 사이트의 월간 접속 수는 2024년 12월 6억 회에 육박했다."
+          },
+          {
+            "t": "p",
+            "x": "Automaton Media에 따르면 일본 문화청은 무단 애니메이션과 만화를 퍼뜨린다고 의심되는 웹사이트와 X 게시물을 찾는 AI 에이전트를 시험해 왔다. 정부는 추가 시험을 거쳐 실용화를 추진할 계획이며, 추가 결과는 이르면 2027년 3월 나온다."
+          },
+          {
+            "t": "p",
+            "x": "2025 회계연도 조사에서 AI는 의심스러운 X 게시물 1,168건을 찾아냈고, 사람 검토자는 그중 84%를 불법으로 판단했다. 시스템이 찾아낸 애니메이션 웹사이트 1,564곳 중 89%에는 해적판 애니메이션이 있었다고 전해진다. 만화 웹사이트는 1,935곳 중 94%에 해적판 만화가 실려 있었다고 한다. 다만 이 비율은 AI가 고른(AI-selected) 표본을 사람이 검토한 결과다."
+          },
+          {
+            "t": "p",
+            "x": "AI 시스템은 해외 수사기관과의 협력까지 아우르는 더 넓은 단속 계획의 일부다. CODA가 참여한 중일(China-Japan) 공동 수사로 Bato.to와 관련 사이트 약 60곳이 문을 닫은 것으로 알려졌다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Japan tests an AI agent\nto spot pirate manga sites",
+          "body": "In a Japanese government trial, 94% of the manga sites an AI agent flagged were found to host pirated manga.",
+          "mini_headline": "Japan's AI hunts manga pirates",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.gadgetreview.com/wp-content/uploads/Japan-Tests-AI-to-Detect-Pirate-Anime-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Japan’s government estimates that online piracy of its video, publishing, music, and game content caused approximately ¥5.7 trillion in damage in 2025, up from roughly ¥2 trillion in 2022. Monthly accesses to the 10 largest piracy sites targeting Japanese content approached 600 million in December 2024."
+              },
+              {
+                "t": "p",
+                "x": "The Agency for Cultural Affairs has been testing an AI agent designed to identify websites and X posts suspected of distributing unauthorized anime and manga, according to Automaton Media. The government plans to move toward practical use after further testing, with additional findings expected as early as March 2027."
+              },
+              {
+                "t": "p",
+                "x": "The AI flagged 1,168 suspicious X posts in a fiscal 2025 survey; human reviewers determined 84% to be illegal. Of 1,564 anime websites the system identified, 89% reportedly contained pirated anime. Of 1,935 manga websites identified in the same survey, 94% reportedly featured pirated manga. Those percentages describe human reviews of AI-selected samples only."
+              },
+              {
+                "t": "p",
+                "x": "The AI system is one component of a broader enforcement plan, including cooperation with overseas law enforcement. A China-Japan investigation involving CODA led to the reported closure of Bato.to and approximately 60 related sites."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "일본, AI 에이전트로\n해적판 사이트 탐지 시험",
+          "body": "일본 정부 시험에서 AI가 지목한 만화 사이트 94%에 해적판이 실려 있었다.",
+          "mini_headline": "일본 AI, 만화 해적판 추적",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.gadgetreview.com/wp-content/uploads/Japan-Tests-AI-to-Detect-Pirate-Anime-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "일본 정부는 자국 영상·출판·음악·게임 콘텐츠의 온라인 불법 복제 피해액을 2025년 약 5.7조 엔으로 추산한다. 2022년 약 2조 엔에서 늘어난 규모다. 일본 콘텐츠를 노린 상위 10개 해적 사이트의 월간 접속 수는 2024년 12월 6억 회에 육박했다."
+              },
+              {
+                "t": "p",
+                "x": "Automaton Media에 따르면 일본 문화청은 무단 애니메이션과 만화를 퍼뜨린다고 의심되는 웹사이트와 X 게시물을 찾는 AI 에이전트를 시험해 왔다. 정부는 추가 시험을 거쳐 실용화를 추진할 계획이며, 추가 결과는 이르면 2027년 3월 나온다."
+              },
+              {
+                "t": "p",
+                "x": "2025 회계연도 조사에서 AI는 의심스러운 X 게시물 1,168건을 찾아냈고, 사람 검토자는 그중 84%를 불법으로 판단했다. 시스템이 찾아낸 애니메이션 웹사이트 1,564곳 중 89%에는 해적판 애니메이션이 있었다고 전해진다. 만화 웹사이트는 1,935곳 중 94%에 해적판 만화가 실려 있었다고 한다. 다만 이 비율은 AI가 고른(AI-selected) 표본을 사람이 검토한 결과다."
+              },
+              {
+                "t": "p",
+                "x": "AI 시스템은 해외 수사기관과의 협력까지 아우르는 더 넓은 단속 계획의 일부다. CODA가 참여한 중일(China-Japan) 공동 수사로 Bato.to와 관련 사이트 약 60곳이 문을 닫은 것으로 알려졌다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "日本がAIエージェント試験\n海賊版漫画サイトを探知",
+          "body": "日本政府の試験で、AIエージェントが検出した漫画サイトの94%が海賊版を掲載していた。",
+          "mini_headline": "日本のAI、漫画海賊版を追跡",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.gadgetreview.com/wp-content/uploads/Japan-Tests-AI-to-Detect-Pirate-Anime-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "日本政府の推計によると、国内の映像・出版・音楽・ゲームコンテンツのオンライン海賊版による被害額は2025年に約5.7兆円となり、2022年の約2兆円から増えた。日本のコンテンツを狙う上位10の海賊版サイトへの月間アクセス数は、2024年12月に6億回近くに達した。"
+              },
+              {
+                "t": "p",
+                "x": "Automaton Mediaによると、文化庁は無許諾のアニメや漫画を配信している疑いのあるウェブサイトやXの投稿を特定するAIエージェントを試験してきた。政府はさらなる試験を経て実用化を目指す方針で、早ければ2027年3月にも追加の結果が出る見通しだ。"
+              },
+              {
+                "t": "p",
+                "x": "AIは2025年度の調査で疑わしいXの投稿1,168件を検出し、人間の確認担当者はそのうち84%を違法と判断した。システムが特定したアニメサイト1,564件のうち89%には海賊版アニメが含まれていたという。同じ調査で特定された漫画サイト1,935件のうち94%には海賊版漫画が掲載されていたとされる。これらの割合は、AIが選んだ（AI-selected）サンプルを人間が確認した結果にすぎない。"
+              },
+              {
+                "t": "p",
+                "x": "AIシステムは、海外の捜査当局との協力を含むより広範な取り締まり計画の一部だ。CODAが関与した日中（China-Japan）共同捜査により、Bato.toと関連サイト約60件が閉鎖されたと報じられている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "日本试用AI智能体\n追查盗版漫画网站",
+          "body": "在日本政府试验中，AI智能体标记的漫画网站有94%被证实含盗版漫画。",
+          "mini_headline": "日本AI追查漫画盗版",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.gadgetreview.com/wp-content/uploads/Japan-Tests-AI-to-Detect-Pirate-Anime-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "日本政府估计，2025年本国影视、出版、音乐和游戏内容遭受的网络盗版损失约为5.7万亿日元，高于2022年的约2万亿日元。2024年12月，针对日本内容的10大盗版网站月访问量接近6亿次。"
+              },
+              {
+                "t": "p",
+                "x": "据Automaton Media报道，日本文化厅一直在测试一款AI智能体，用于识别涉嫌传播未经授权动画和漫画的网站及X帖子。政府计划在进一步测试后推进实际应用，最早将于2027年3月公布更多结果。"
+              },
+              {
+                "t": "p",
+                "x": "在2025财年的调查中，AI标记了1,168条可疑X帖子，人工审核认定其中84%违法。据报道，在系统识别出的1,564个动画网站中，89%含有盗版动画；在同一调查识别出的1,935个漫画网站中，94%载有盗版漫画。这些比例仅反映人工审核AI筛选（AI-selected）样本的结果。"
+              },
+              {
+                "t": "p",
+                "x": "该AI系统是更广泛执法计划的一部分，其中包括与海外执法机构的合作。据报道，一项有CODA参与的中日（China-Japan）联合调查导致Bato.to及约60个相关网站关闭。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Japón prueba un agente de AI\npara detectar manga pirata",
+          "body": "En una prueba del gobierno japonés, el 94% de los sitios de manga señalados por un agente de AI alojaba manga pirata.",
+          "mini_headline": "La AI de Japón persigue la piratería de manga",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.gadgetreview.com/wp-content/uploads/Japan-Tests-AI-to-Detect-Pirate-Anime-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El gobierno de Japón estima que la piratería en línea de su contenido de video, editorial, musical y de videojuegos causó daños por unos ¥5.7 billones en 2025, frente a unos ¥2 billones en 2022. Los accesos mensuales a los 10 mayores sitios piratas dirigidos a contenido japonés se acercaron a 600 millones en diciembre de 2024."
+              },
+              {
+                "t": "p",
+                "x": "La Agencia de Asuntos Culturales ha estado probando un agente de AI diseñado para identificar sitios web y publicaciones en X sospechosos de distribuir anime y manga sin autorización, según Automaton Media. El gobierno planea avanzar hacia su uso práctico tras más pruebas, y espera nuevos resultados a partir de marzo de 2027."
+              },
+              {
+                "t": "p",
+                "x": "La AI señaló 1,168 publicaciones sospechosas en X en una encuesta del año fiscal 2025; los revisores humanos determinaron que el 84% eran ilegales. De los 1,564 sitios de anime que identificó el sistema, el 89% contenía anime pirata, según se informa. De los 1,935 sitios de manga identificados en la misma encuesta, el 94% ofrecía manga pirata. Esos porcentajes describen solo revisiones humanas de muestras AI-selected (seleccionadas por la AI)."
+              },
+              {
+                "t": "p",
+                "x": "El sistema de AI es un componente de un plan de control más amplio, que incluye la cooperación con fuerzas de seguridad extranjeras. Una investigación China-Japan con participación de CODA llevó, según se informa, al cierre de Bato.to y de unos 60 sitios relacionados."
               }
             ]
           }
@@ -1573,125 +978,875 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "학술 플랫폼용\n공통 봇 분류 체계",
-          "body": "기고문이 AI 크롤러·에이전트 트래픽 관리용 공통 봇 분류 체계를 제안한다.",
-          "mini_headline": "봇 분류 체계",
+          "headline": "일본, AI 에이전트로\n해적판 사이트 탐지 시험",
+          "body": "일본 정부 시험에서 AI가 지목한 만화 사이트의 94%가 해적판을 실었다.",
+          "mini_headline": "일본 AI, 만화 해적판 추적",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg",
-                "cap": "열린 문간에 키 카드를 들고 서 있는 로봇"
+                "src": "https://www.gadgetreview.com/wp-content/uploads/Japan-Tests-AI-to-Detect-Pirate-Anime-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "편집자 주: 오늘 글은 LibLynx 데이터 책임자 Michelle Urberg가 썼다. 도서관과 출판사는 학술 콘텐츠 플랫폼에서 갈수록 복잡해지는 봇 활동 생태계에 맞닥뜨리고 있다. 일부 봇은 악의적이어서 차단해야 하지만, 많은 ‘좋은 봇’은 연구자와 학생이 콘텐츠를 활용하거나 보존을 위해 아카이브하도록 돕는다. 인간 연구자를 대신해 움직이는 에이전트는 이용 보고서에 포함해야 한다."
+                "x": "일본 정부는 자국 영상·출판·음악·게임 콘텐츠의 온라인 불법 복제 피해액이 2025년 약 5.7조 엔으로, 2022년 약 2조 엔에서 늘었다고 추산한다. 일본 콘텐츠를 노린 상위 10개 해적 사이트의 월간 접속 수는 2024년 12월 6억 회에 육박했다."
               },
               {
                 "t": "p",
-                "x": "봇 차단은 이제 연쇄적인 영향을 낳는다. 접속 시간이 느려지고, 이용자가 잘못 거부될 수 있으며, 플랫폼 제공자는 계속 시달린다. 기존 목록은 제각각 흩어져 있다. COUNTER 목록이 식별하는 봇은 200개가 채 안 되고, Cloudflare Bot Directory는 최근 750개에서 1,500개 이상으로 두 배가 됐다. 글은 봇 분류 체계가 지식 플랫폼이 콘텐츠 통제권을 되찾고 누가(또는 무엇이) 접근하는지 파악하는 데 도움이 될 수 있다고 제안한다."
+                "x": "Automaton Media에 따르면 일본 문화청은 무단 애니메이션과 만화를 유포하는 것으로 의심되는 웹사이트와 X 게시물을 찾아내는 AI 에이전트를 시험해 왔다. 정부는 추가 시험을 거쳐 실용화를 추진할 계획이며, 이르면 2027년 3월 추가 결과가 나올 예정이다."
               },
               {
                 "t": "p",
-                "x": "David Bietila(University of Chicago Library), Jeremy Morse(Michigan Publishing), Rikki Gracia(IEEE)가 참여한 Charleston Conference 패널에서 영감을 받아, 이들은 예비 질문에 합의했다. 봇이 누구이고 자신을 어떻게 밝히는지, 어떤 콘텐츠를 찾는지, 밝힌 목적은 무엇인지(예: 학습, 쇼핑, 색인, 보존), 그 정당성을 얼마나 확신할 수 있는지, 그리고 turnstile 같은 차단 장치를 우회할 수 있는지다."
+                "x": "AI는 2025 회계연도 조사에서 의심스러운 X 게시물 1,168건을 찾아냈고, 사람 검토자는 그중 84%를 불법으로 판단했다. 시스템이 찾아낸 애니메이션 웹사이트 1,564곳 중 89%에 해적판 애니메이션이 있었던 것으로 전해진다. 같은 조사에서 찾아낸 만화 웹사이트 1,935곳 중 94%에는 해적판 만화가 실려 있었다고 한다. 이 비율은 AI가 고른(AI-selected) 표본을 사람이 검토한 결과일 뿐이다."
               },
               {
                 "t": "p",
-                "x": "남은 과제로는 의도를 어떤 대리 지표로 파악할지, 학술 분야 고유의 어떤 태그를 표준화할지가 있다. 패널리스트 전원은 커뮤니티 주도의 봇 분류 체계가 봇 관리 해법의 한 부분이며, 그 결과 더 깨끗한 이용 지표를 얻을 수 있다는 데 동의했다."
+                "x": "AI 시스템은 해외 수사기관과의 협력을 포함한 더 넓은 단속 계획의 한 요소다. CODA가 참여한 중일(China-Japan) 공동 수사로 Bato.to와 관련 사이트 약 60곳이 폐쇄된 것으로 알려졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "学術プラットフォーム\n向けボット共通分類",
-          "body": "寄稿記事が、AIクローラーやエージェントの通信を管理する共通のボット分類を提案する。",
-          "mini_headline": "ボットの分類体系",
+          "headline": "日本がAIエージェント試験\n海賊版漫画サイトを探知",
+          "body": "日本政府の試験で、AIエージェントが検出した漫画サイトの94%が海賊版を掲載していた。",
+          "mini_headline": "日本のAI、漫画海賊版を追跡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg",
-                "cap": "開いた戸口にキーカードを持って立つロボット"
+                "src": "https://www.gadgetreview.com/wp-content/uploads/Japan-Tests-AI-to-Detect-Pirate-Anime-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "編集部注：本日の記事はLibLynxのデータ責任者Michelle Urbergによるものである。図書館と出版社は、学術コンテンツ・プラットフォーム上でますます複雑化するボット活動の生態系に直面している。悪意があり遮断すべきボットもあるが、多くの「良いボット」は研究者や学生がコンテンツを活用したり、保存のためにアーカイブしたりするのを助けている。人間の研究者の代わりに動くエージェントは、利用統計レポートに含めるべきだ。"
+                "x": "日本政府の推計によると、国内の映像・出版・音楽・ゲームコンテンツのオンライン海賊版による被害額は2025年に約5.7兆円となり、2022年の約2兆円から増えた。日本のコンテンツを狙う上位10の海賊版サイトへの月間アクセス数は、2024年12月に6億回近くに達した。"
               },
               {
                 "t": "p",
-                "x": "ボットの遮断は今や連鎖的な影響を生んでいる。アクセスに時間がかかり、利用者が誤って拒否されることもあり、プラットフォーム事業者は負荷にさらされ続けている。既存のカタログはばらばらだ。COUNTERのリストが特定するボットは200弱で、Cloudflare Bot Directoryは最近750から1,500超へと倍増した。記事は、ボットの分類体系があれば、知識プラットフォームがコンテンツの管理権を取り戻し、誰が（あるいは何が）アクセスしているのかを把握できると提案する。"
+                "x": "Automaton Mediaによると、文化庁は無許諾のアニメや漫画を配信している疑いのあるウェブサイトやXの投稿を特定するAIエージェントを試験してきた。政府はさらなる試験を経て実用化を目指す方針で、早ければ2027年3月にも追加の結果が出る見通しだ。"
               },
               {
                 "t": "p",
-                "x": "David Bietila（University of Chicago Library）、Jeremy Morse（Michigan Publishing）、Rikki Gracia（IEEE）が登壇したCharleston Conferenceのパネルに触発され、グループは予備的な問いで合意した。ボットは誰で、どう名乗るのか。どんなコンテンツを求めるのか。表明された目的は何か（例：学習、ショッピング、索引付け、アーカイブ）。その正当性をどれほど確信できるか。そしてturnstileの仕組みを回避できるかどうかである。"
+                "x": "AIは2025年度の調査で疑わしいXの投稿1,168件を検出し、人間の確認担当者はそのうち84%を違法と判断した。システムが特定したアニメサイト1,564件のうち89%には海賊版アニメが含まれていたという。同じ調査で特定された漫画サイト1,935件のうち94%には海賊版漫画が掲載されていたとされる。これらの割合は、AIが選んだ（AI-selected）サンプルを人間が確認した結果にすぎない。"
               },
               {
                 "t": "p",
-                "x": "未解決の課題には、意図をどう代理指標で捉えるか、学術分野特有のどのタグを標準化するかが含まれる。パネリスト全員が、コミュニティ主導のボット分類体系はボット管理の解決策の一部であり、その結果として利用指標がよりクリーンになるという点で一致した。"
+                "x": "AIシステムは、海外の捜査当局との協力を含むより広範な取り締まり計画の一部だ。CODAが関与した日中（China-Japan）共同捜査により、Bato.toと関連サイト約60件が閉鎖されたと報じられている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "学术平台需要\n共享的机器人分类",
-          "body": "一篇客座文章提议建立共享的机器人分类法，帮助出版商衡量和管理AI爬虫与智能体流量。",
-          "mini_headline": "机器人分类法",
+          "headline": "日本试用AI智能体\n追查盗版漫画网站",
+          "body": "在日本政府试验中，AI智能体标记的漫画网站有94%被证实含盗版漫画。",
+          "mini_headline": "日本AI追查漫画盗版",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg",
-                "cap": "站在敞开门口、手持门禁卡的机器人"
+                "src": "https://www.gadgetreview.com/wp-content/uploads/Japan-Tests-AI-to-Detect-Pirate-Anime-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "编者按：今天的文章作者是LibLynx数据负责人Michelle Urberg。图书馆和出版商在学术内容平台上面临着日益复杂的机器人活动生态。有些机器人是恶意的，应当拦截；但许多“好机器人”能帮助研究人员和学生使用内容，或将其存档以便保存；代表人类研究者行事的智能体应被纳入使用报告。"
+                "x": "日本政府估计，2025年本国影视、出版、音乐和游戏内容遭受的网络盗版损失约为5.7万亿日元，高于2022年的约2万亿日元。2024年12月，针对日本内容的10大盗版网站月访问量接近6亿次。"
               },
               {
                 "t": "p",
-                "x": "如今，拦截机器人会产生连锁效应：访问变慢，用户可能被错误拒绝，平台提供商仍不断承受冲击。现有目录各自为政——COUNTER列表识别的机器人不到200个，Cloudflare Bot Directory最近从750个翻倍至1,500个以上。文章提出，机器人分类法可以帮助知识平台重新掌控内容，并了解是谁（或是什么）在访问。"
+                "x": "据Automaton Media报道，日本文化厅一直在测试一款AI智能体，用于识别涉嫌传播未经授权动画和漫画的网站及X帖子。政府计划在进一步测试后推进实际应用，最早将于2027年3月公布更多结果。"
               },
               {
                 "t": "p",
-                "x": "受David Bietila（University of Chicago Library）、Jeremy Morse（Michigan Publishing）和Rikki Gracia（IEEE）参与的Charleston Conference小组讨论启发，该小组就几个初步问题达成一致：机器人是谁、如何表明身份；它寻找什么内容；其声明的用途（例如训练、购物、索引、存档）；我们对其合法性有多大把握；以及它能否绕过turnstile机制。"
+                "x": "在2025财年的调查中，AI标记了1,168条可疑X帖子，人工审核认定其中84%违法。据报道，在系统识别出的1,564个动画网站中，89%含有盗版动画；在同一调查识别出的1,935个漫画网站中，94%载有盗版漫画。这些比例仅反映人工审核AI筛选（AI-selected）样本的结果。"
               },
               {
                 "t": "p",
-                "x": "尚待解决的问题包括如何用替代指标推断意图，以及应标准化哪些学术领域专属标签。所有小组成员都认为，由社区主导的机器人分类法是机器人管理方案的一部分，其结果是更干净的使用指标。"
+                "x": "该AI系统是更广泛执法计划的一部分，其中包括与海外执法机构的合作。据报道，一项有CODA参与的中日（China-Japan）联合调查导致Bato.to及约60个相关网站关闭。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una taxonomía común de bots\npara plataformas académicas",
-          "body": "Un artículo propone una taxonomía común de bots para medir y gestionar el tráfico de rastreadores y agentes de IA.",
-          "mini_headline": "Una taxonomía de bots",
+          "headline": "Japón prueba un agente de AI\npara detectar manga pirata",
+          "body": "En una prueba del gobierno japonés, el 94% de los sitios de manga señalados por un agente de AI alojaba manga pirata.",
+          "mini_headline": "La AI de Japón persigue la piratería de manga",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2305058618.jpg",
-                "cap": "Robot con una tarjeta de acceso de pie en una puerta abierta"
+                "src": "https://www.gadgetreview.com/wp-content/uploads/Japan-Tests-AI-to-Detect-Pirate-Anime-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Nota de los editores: el artículo de hoy es de Michelle Urberg, responsable de datos de LibLynx. Las bibliotecas y las editoriales se enfrentan a un ecosistema cada vez más complejo de actividad robótica en las plataformas de contenido académico. Algunos bots son maliciosos y deben bloquearse, pero muchos «bots buenos» ayudan a investigadores y estudiantes a interactuar con el contenido o a archivarlo para su preservación; los agentes que actúan en nombre de investigadores humanos deberían incluirse en los informes de uso."
+                "x": "El gobierno de Japón estima que la piratería en línea de su contenido de video, editorial, musical y de videojuegos causó daños por unos ¥5.7 billones en 2025, frente a unos ¥2 billones en 2022. Los accesos mensuales a los 10 mayores sitios piratas dirigidos a contenido japonés se acercaron a 600 millones en diciembre de 2024."
               },
               {
                 "t": "p",
-                "x": "El bloqueo de bots tiene ahora efectos en cascada: el acceso es más lento, los usuarios pueden ser rechazados por error y los proveedores de plataformas siguen sufriendo la sobrecarga. Los catálogos existentes están aislados: la lista de COUNTER identifica algo menos de 200 bots, y el Cloudflare Bot Directory se duplicó hace poco, de 750 a más de 1,500. El artículo propone que una taxonomía de bots puede ayudar a las plataformas de conocimiento a recuperar el control sobre su contenido y entender quién (o qué) accede a él."
+                "x": "La Agencia de Asuntos Culturales ha estado probando un agente de AI diseñado para identificar sitios web y publicaciones en X sospechosos de distribuir anime y manga sin autorización, según Automaton Media. El gobierno planea avanzar hacia su uso práctico tras más pruebas, y espera nuevos resultados a partir de marzo de 2027."
               },
               {
                 "t": "p",
-                "x": "Inspirado por un panel de la Charleston Conference con David Bietila (University of Chicago Library), Jeremy Morse (Michigan Publishing) y Rikki Gracia (IEEE), el grupo acordó unas preguntas preliminares: quién es el bot y cómo se identifica, qué contenido busca, su propósito declarado (p. ej., entrenamiento, compras, indexación, archivo), qué grado de confianza tenemos en su legitimidad y si puede eludir mecanismos de tipo turnstile."
+                "x": "La AI señaló 1,168 publicaciones sospechosas en X en una encuesta del año fiscal 2025; los revisores humanos determinaron que el 84% eran ilegales. De los 1,564 sitios de anime que identificó el sistema, el 89% contenía anime pirata, según se informa. De los 1,935 sitios de manga identificados en la misma encuesta, el 94% ofrecía manga pirata. Esos porcentajes describen solo revisiones humanas de muestras AI-selected (seleccionadas por la AI)."
               },
               {
                 "t": "p",
-                "x": "Entre las cuestiones abiertas están cómo inferir la intención mediante indicadores indirectos y qué etiquetas específicas del ámbito académico estandarizar. Todos los panelistas coincidieron en que una taxonomía de bots impulsada por la comunidad es una parte de la solución para gestionar los bots, con métricas de uso más limpias como resultado."
+                "x": "El sistema de AI es un componente de un plan de control más amplio, que incluye la cooperación con fuerzas de seguridad extranjeras. Una investigación China-Japan con participación de CODA llevó, según se informa, al cierre de Bato.to y de unos 60 sitios relacionados."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "transept-ai-book-translator",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Transept, AI로\n책 전체를 번역한다",
+      "body": "Transept는 AI로 책 전체를 번역하지만 독자는 아직 인간 번역을 고른다.",
+      "mini_headline": "Transept의 AI 책 번역기",
+      "tool": "Books",
+      "source": "Trending Topics",
+      "url": "https://www.trendingtopics.eu/transept-ai-book-translator-prague/",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/transept-founders-scaled.webp",
+            "cap": "Transept 공동 창업자 Vitalii Vlasiuk과 Mariia Ivakhnenko"
+          },
+          {
+            "t": "p",
+            "x": "프라하에서 우크라이나 출신 Mariia Ivakhnenko와 Vitalii Vlasiuk이 저자의 목소리를 살리면서 책 한 권을 통째로 번역하는 A.I. 도구 Transept를 만들었다. 2025년에 세운 이 Ukrainian-founded 회사는 지금도 두 사람이 전부다."
+          },
+          {
+            "t": "p",
+            "x": "Transept는 Word 파일과 EPUBs, PDFs, 스캔본을 68개 언어로 옮기며 사용자 용어집, 스타일 가이드, 번역 메모리 기능을 갖췄다. Literess라는 A.I. 편집기가 수정안을 내놓지만 변경은 모두 사람이 승인해야 하고, 저작 보고서로는 어느 단어를 A.I.가 썼는지 확인할 수 있다. 이 도구로 번역한 첫 소설, 약 350쪽짜리 책이 최근 Amazon에 나왔다."
+          },
+          {
+            "t": "p",
+            "x": "Transept는 자체 A.I. 모델을 돌리지 않는다. 번역은 현재 Anthropic의 Claude가, PDFs와 스캔본 읽기는 Google의 Gemini가 맡는다. 무료 버전으로는 월 약 5,500단어까지 쓸 수 있고, 유료 요금제는 월 €9에서 €149까지다."
+          },
+          {
+            "t": "p",
+            "x": "한 연구 논문 데이터를 보면 독자들은 772번의 비교 중 522번, 약 삼분의 이 비율로 출간된 인간 번역을 골랐다. A.I. 심사자들은 386개 구절 중 295개에서 Transept의 Pro 번역에 더 높은 점수를 줬다. 다만 이 분석은 동료 평가를 거치지 않았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Transept translates whole\nbooks with AI from Prague",
+          "body": "Ukrainian-founded Transept in Prague translates entire books with AI, yet readers still prefer human translators.",
+          "mini_headline": "Transept's AI book translator",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/transept-founders-scaled.webp",
+                "cap": "Transept founders Vitalii Vlasiuk and Mariia Ivakhnenko"
+              },
+              {
+                "t": "p",
+                "x": "In Prague, Mariia Ivakhnenko and Vitalii Vlasiuk, both from Ukraine, have built Transept, an A.I. tool that translates entire books while aiming to preserve the author’s voice. They founded it in 2025 and are still the entire team."
+              },
+              {
+                "t": "p",
+                "x": "Transept translates Word files, EPUBs, PDFs and scans into 68 languages, with a user glossary, style guide and translation memory. An A.I. editor called Literess suggests corrections, but a human has to approve every change, and an authorship report shows which words the A.I. wrote. The first novel translated with the tool, a book of about 350 pages, recently appeared on Amazon."
+              },
+              {
+                "t": "p",
+                "x": "Transept does not run its own A.I. models: Anthropic’s Claude currently handles the translation work, while Google’s Gemini reads PDFs and scans. A free version covers about 5,500 words a month; paid plans range from €9 to €149 a month."
+              },
+              {
+                "t": "p",
+                "x": "In a research paper’s data, readers picked the published human translation in 522 of 772 comparisons, or about two-thirds of the time. A.I. judges rated Transept’s Pro translation higher on 295 of 386 passages, though the analysis has not been peer-reviewed."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Transept, AI로\n책 전체를 번역한다",
+          "body": "Transept는 AI로 책 전체를 번역하지만 독자는 아직 인간 번역을 고른다.",
+          "mini_headline": "Transept의 AI 책 번역기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/transept-founders-scaled.webp",
+                "cap": "Transept 공동 창업자 Vitalii Vlasiuk과 Mariia Ivakhnenko"
+              },
+              {
+                "t": "p",
+                "x": "프라하에서 우크라이나 출신 Mariia Ivakhnenko와 Vitalii Vlasiuk이 저자의 목소리를 살리면서 책 한 권을 통째로 번역하는 A.I. 도구 Transept를 만들었다. 2025년에 세운 이 Ukrainian-founded 회사는 지금도 두 사람이 전부다."
+              },
+              {
+                "t": "p",
+                "x": "Transept는 Word 파일과 EPUBs, PDFs, 스캔본을 68개 언어로 옮기며 사용자 용어집, 스타일 가이드, 번역 메모리 기능을 갖췄다. Literess라는 A.I. 편집기가 수정안을 내놓지만 변경은 모두 사람이 승인해야 하고, 저작 보고서로는 어느 단어를 A.I.가 썼는지 확인할 수 있다. 이 도구로 번역한 첫 소설, 약 350쪽짜리 책이 최근 Amazon에 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "Transept는 자체 A.I. 모델을 돌리지 않는다. 번역은 현재 Anthropic의 Claude가, PDFs와 스캔본 읽기는 Google의 Gemini가 맡는다. 무료 버전으로는 월 약 5,500단어까지 쓸 수 있고, 유료 요금제는 월 €9에서 €149까지다."
+              },
+              {
+                "t": "p",
+                "x": "한 연구 논문 데이터를 보면 독자들은 772번의 비교 중 522번, 약 삼분의 이 비율로 출간된 인간 번역을 골랐다. A.I. 심사자들은 386개 구절 중 295개에서 Transept의 Pro 번역에 더 높은 점수를 줬다. 다만 이 분석은 동료 평가를 거치지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "TranseptがAIで\n書籍を丸ごと翻訳",
+          "body": "プラハのTranseptはAIで本を丸ごと訳すが、読者はなお人間の翻訳を好む。",
+          "mini_headline": "TranseptのAI書籍翻訳",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/transept-founders-scaled.webp",
+                "cap": "Transeptの創業者Vitalii VlasiukとMariia Ivakhnenko"
+              },
+              {
+                "t": "p",
+                "x": "プラハで、ともにウクライナ出身のMariia IvakhnenkoとVitalii Vlasiukが、著者の文体を保つことを目指して書籍を丸ごと翻訳するA.I.ツール、Transeptを開発した。彼らが2025年に設立したこのUkrainian-foundedの会社は、今も彼らだけでチームを構成している。"
+              },
+              {
+                "t": "p",
+                "x": "TranseptはWordファイル、EPUBs、PDFs、スキャン画像を68言語に翻訳し、ユーザー用語集、スタイルガイド、翻訳メモリを備える。LiteressというA.I.エディターが修正を提案するが、変更はすべて人間が承認する必要があり、著作者レポートはどの語をA.I.が書いたかを示す。このツールで翻訳された最初の小説である約350ページの本が、最近Amazonで発売された。"
+              },
+              {
+                "t": "p",
+                "x": "Transeptは独自のA.I.モデルを運用していない。現在、翻訳はAnthropicのClaudeが担い、PDFsとスキャン画像の読み取りはGoogleのGeminiが担う。無料版は月に約5,500語まで使え、有料プランは月€9から€149までだ。"
+              },
+              {
+                "t": "p",
+                "x": "ある研究論文のデータでは、読者は772回の比較のうち522回、約三分の二の割合で出版済みの人間による翻訳を選んだ。A.I.の評価者は386の文章のうち295でTranseptのPro翻訳を高く評価したが、この分析は査読を経ていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "布拉格Transept\n用AI翻译整本书",
+          "body": "布拉格的Transept用AI翻译整本书，但读者仍更青睐人工译本。",
+          "mini_headline": "Transept的AI图书翻译",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/transept-founders-scaled.webp",
+                "cap": "Transept创始人Vitalii Vlasiuk和Mariia Ivakhnenko"
+              },
+              {
+                "t": "p",
+                "x": "在布拉格，来自乌克兰的Mariia Ivakhnenko和Vitalii Vlasiuk打造了Transept——一款旨在保留作者风格、翻译整本书的A.I.工具。这家Ukrainian-founded公司由他们于2025年创立，至今团队仍只有他们两人。"
+              },
+              {
+                "t": "p",
+                "x": "Transept可将Word文件、EPUBs、PDFs和扫描件翻译成68种语言，并提供用户术语表、风格指南和翻译记忆。名为Literess的A.I.编辑器会提出修改建议，但每处改动都须由人工批准，作者身份报告则会显示哪些词由A.I.写成。用该工具翻译的第一部小说——一本约350页的书——近日已在Amazon上架。"
+              },
+              {
+                "t": "p",
+                "x": "Transept并不运行自有的A.I.模型：目前翻译工作由Anthropic的Claude承担，Google的Gemini则负责读取PDFs和扫描件。免费版每月约可处理5,500词；付费方案为每月€9至€149。"
+              },
+              {
+                "t": "p",
+                "x": "在一篇研究论文的数据中，读者在772次比较里有522次选择了已出版的人工译本，约占三分之二。A.I.评审在386段文字中有295段给Transept的Pro译文打出更高评价，但该分析尚未经过同行评审。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Transept traduce libros enteros\ncon AI desde Praga",
+          "body": "Transept, de Praga, traduce libros enteros con AI, pero los lectores aún prefieren traductores humanos.",
+          "mini_headline": "El traductor de libros con AI de Transept",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/transept-founders-scaled.webp",
+                "cap": "Los fundadores de Transept, Vitalii Vlasiuk y Mariia Ivakhnenko"
+              },
+              {
+                "t": "p",
+                "x": "En Praga, Mariia Ivakhnenko y Vitalii Vlasiuk, ambos de Ucrania, han creado Transept, una herramienta de A.I. que traduce libros enteros con el objetivo de preservar la voz del autor. Fundaron la empresa (Ukrainian-founded) en 2025 y siguen siendo todo el equipo."
+              },
+              {
+                "t": "p",
+                "x": "Transept traduce archivos de Word, EPUBs, PDFs y escaneos a 68 idiomas, con glosario de usuario, guía de estilo y memoria de traducción. Un editor de A.I. llamado Literess sugiere correcciones, pero una persona debe aprobar cada cambio, y un informe de autoría muestra qué palabras escribió la A.I. La primera novela traducida con la herramienta, un libro de unas 350 páginas, apareció recientemente en Amazon."
+              },
+              {
+                "t": "p",
+                "x": "Transept no ejecuta modelos de A.I. propios: Claude, de Anthropic, se encarga actualmente de la traducción, mientras que Gemini, de Google, lee los PDFs y escaneos. Una versión gratuita cubre unas 5,500 palabras al mes; los planes de pago van de €9 a €149 al mes."
+              },
+              {
+                "t": "p",
+                "x": "Según los datos de un artículo de investigación, los lectores eligieron la traducción humana publicada en 522 de 772 comparaciones, es decir, unas dos terceras partes de las veces. Jueces de A.I. puntuaron más alto la traducción Pro de Transept en 295 de 386 pasajes, aunque el análisis no ha sido revisado por pares."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Transept, AI로\n책 전체를 번역한다",
+          "body": "Transept는 AI로 책 전체를 번역하지만 독자는 여전히 인간 번역을 택한다.",
+          "mini_headline": "Transept의 AI 책 번역기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/transept-founders-scaled.webp",
+                "cap": "Transept 공동 창업자 Vitalii Vlasiuk과 Mariia Ivakhnenko"
+              },
+              {
+                "t": "p",
+                "x": "프라하에서 우크라이나 출신의 Mariia Ivakhnenko와 Vitalii Vlasiuk이 저자의 목소리를 지키며 책 전체를 번역하는 A.I. 도구 Transept를 만들었다. 두 사람이 2025년에 세운 이 Ukrainian-founded 회사의 팀원은 지금도 두 사람뿐이다."
+              },
+              {
+                "t": "p",
+                "x": "Transept는 Word 파일과 EPUBs, PDFs, 스캔본을 68개 언어로 번역하며 사용자 용어집, 스타일 가이드, 번역 메모리를 갖췄다. Literess라는 A.I. 편집기가 수정안을 제시하지만 모든 변경은 사람이 승인해야 하고, 저작 보고서는 어떤 단어를 A.I.가 썼는지 보여준다. 이 도구로 번역한 첫 소설인 약 350쪽 분량의 책이 최근 Amazon에 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "Transept는 자체 A.I. 모델을 운영하지 않는다. 현재 번역은 Anthropic의 Claude가 맡고, PDFs와 스캔본 읽기는 Google의 Gemini가 맡는다. 무료 버전은 월 약 5,500단어까지 쓸 수 있고, 유료 요금제는 월 €9에서 €149까지다."
+              },
+              {
+                "t": "p",
+                "x": "한 연구 논문의 데이터에서 독자들은 772번의 비교 중 522번, 약 삼분의 이의 비율로 출간된 인간 번역을 골랐다. A.I. 심사자들은 386개 구절 중 295개에서 Transept의 Pro 번역을 더 높게 평가했지만, 이 분석은 동료 평가를 거치지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "TranseptがAIで\n書籍を丸ごと翻訳",
+          "body": "プラハのTranseptはAIで本を丸ごと訳すが、読者はなお人間の翻訳を好む。",
+          "mini_headline": "TranseptのAI書籍翻訳",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/transept-founders-scaled.webp",
+                "cap": "Transeptの創業者Vitalii VlasiukとMariia Ivakhnenko"
+              },
+              {
+                "t": "p",
+                "x": "プラハで、ともにウクライナ出身のMariia IvakhnenkoとVitalii Vlasiukが、著者の文体を保つことを目指して書籍を丸ごと翻訳するA.I.ツール、Transeptを開発した。彼らが2025年に設立したこのUkrainian-foundedの会社は、今も彼らだけでチームを構成している。"
+              },
+              {
+                "t": "p",
+                "x": "TranseptはWordファイル、EPUBs、PDFs、スキャン画像を68言語に翻訳し、ユーザー用語集、スタイルガイド、翻訳メモリを備える。LiteressというA.I.エディターが修正を提案するが、変更はすべて人間が承認する必要があり、著作者レポートはどの語をA.I.が書いたかを示す。このツールで翻訳された最初の小説である約350ページの本が、最近Amazonで発売された。"
+              },
+              {
+                "t": "p",
+                "x": "Transeptは独自のA.I.モデルを運用していない。現在、翻訳はAnthropicのClaudeが担い、PDFsとスキャン画像の読み取りはGoogleのGeminiが担う。無料版は月に約5,500語まで使え、有料プランは月€9から€149までだ。"
+              },
+              {
+                "t": "p",
+                "x": "ある研究論文のデータでは、読者は772回の比較のうち522回、約三分の二の割合で出版済みの人間による翻訳を選んだ。A.I.の評価者は386の文章のうち295でTranseptのPro翻訳を高く評価したが、この分析は査読を経ていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "布拉格Transept\n用AI翻译整本书",
+          "body": "布拉格的Transept用AI翻译整本书，但读者仍更青睐人工译本。",
+          "mini_headline": "Transept的AI图书翻译",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/transept-founders-scaled.webp",
+                "cap": "Transept创始人Vitalii Vlasiuk和Mariia Ivakhnenko"
+              },
+              {
+                "t": "p",
+                "x": "在布拉格，来自乌克兰的Mariia Ivakhnenko和Vitalii Vlasiuk打造了Transept——一款旨在保留作者风格、翻译整本书的A.I.工具。这家Ukrainian-founded公司由他们于2025年创立，至今团队仍只有他们两人。"
+              },
+              {
+                "t": "p",
+                "x": "Transept可将Word文件、EPUBs、PDFs和扫描件翻译成68种语言，并提供用户术语表、风格指南和翻译记忆。名为Literess的A.I.编辑器会提出修改建议，但每处改动都须由人工批准，作者身份报告则会显示哪些词由A.I.写成。用该工具翻译的第一部小说——一本约350页的书——近日已在Amazon上架。"
+              },
+              {
+                "t": "p",
+                "x": "Transept并不运行自有的A.I.模型：目前翻译工作由Anthropic的Claude承担，Google的Gemini则负责读取PDFs和扫描件。免费版每月约可处理5,500词；付费方案为每月€9至€149。"
+              },
+              {
+                "t": "p",
+                "x": "在一篇研究论文的数据中，读者在772次比较里有522次选择了已出版的人工译本，约占三分之二。A.I.评审在386段文字中有295段给Transept的Pro译文打出更高评价，但该分析尚未经过同行评审。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Transept traduce libros enteros\ncon AI desde Praga",
+          "body": "Transept, de Praga, traduce libros enteros con AI, pero los lectores aún prefieren traductores humanos.",
+          "mini_headline": "El traductor de libros con AI de Transept",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/transept-founders-scaled.webp",
+                "cap": "Los fundadores de Transept, Vitalii Vlasiuk y Mariia Ivakhnenko"
+              },
+              {
+                "t": "p",
+                "x": "En Praga, Mariia Ivakhnenko y Vitalii Vlasiuk, ambos de Ucrania, han creado Transept, una herramienta de A.I. que traduce libros enteros con el objetivo de preservar la voz del autor. Fundaron la empresa (Ukrainian-founded) en 2025 y siguen siendo todo el equipo."
+              },
+              {
+                "t": "p",
+                "x": "Transept traduce archivos de Word, EPUBs, PDFs y escaneos a 68 idiomas, con glosario de usuario, guía de estilo y memoria de traducción. Un editor de A.I. llamado Literess sugiere correcciones, pero una persona debe aprobar cada cambio, y un informe de autoría muestra qué palabras escribió la A.I. La primera novela traducida con la herramienta, un libro de unas 350 páginas, apareció recientemente en Amazon."
+              },
+              {
+                "t": "p",
+                "x": "Transept no ejecuta modelos de A.I. propios: Claude, de Anthropic, se encarga actualmente de la traducción, mientras que Gemini, de Google, lee los PDFs y escaneos. Una versión gratuita cubre unas 5,500 palabras al mes; los planes de pago van de €9 a €149 al mes."
+              },
+              {
+                "t": "p",
+                "x": "Según los datos de un artículo de investigación, los lectores eligieron la traducción humana publicada en 522 de 772 comparaciones, es decir, unas dos terceras partes de las veces. Jueces de A.I. puntuaron más alto la traducción Pro de Transept en 295 de 386 pasajes, aunque el análisis no ha sido revisado por pares."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "naver-webtoon-recsys-paper",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "네이버웹툰 AI 추천 논문\n국제학회 RecSys 채택",
+      "body": "실제 감상으로 이어질 작품을 추천하는 모델로 유료 결제 도달률이 13.4% 늘었다.",
+      "mini_headline": "네이버웹툰 AI 추천 논문",
+      "tool": "Books",
+      "source": "조선비즈",
+      "url": "https://biz.chosun.com/it-science/ict/2026/11/24/Z7QQYIVP4NCCJDQSWG7ZQ5BSB4/",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://biz.chosun.com/resizer/v2/HA3DCZRRMQYTAODEG5TDMNZSME.jpg?auth=df10ae749834f22f837c690d31960a8e90157d63903f8c244463f3975df6846c&width=1200&height=630&smart=true"
+          },
+          {
+            "t": "p",
+            "x": "네이버웹툰은 자체 개발한 웹툰 추천 파운데이션 모델(기반 모델)에 관한 연구 논문이 인공지능(AI) 추천 시스템 학회인 'ACM RecSys 2026(ACM 렉시스 2026)'의 산업 트랙에 채택됐다고 24일 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "네이버웹툰에 따르면, ACM 렉시스는 주요 AI 추천 시스템 학회 중 하나로, 산업 트랙은 산업 현장에서의 실제 적용 가능성을 평가하는 부문이다. 올해 산업 트랙에는 전년 대비 2배 이상 늘어난 306편의 논문이 제출되었으며 82편(채택률 26.8%)만이 채택됐다."
+          },
+          {
+            "t": "p",
+            "x": "국내 기업 및 글로벌 웹툰 업계에서 추천 파운데이션 산업 트랙에 논문을 게재하게 된 곳은 네이버웹툰이 처음이다."
+          },
+          {
+            "t": "p",
+            "x": "이번 논문은 비식별 처리된 독자들의 작품 감상 패턴을 바탕으로 자체 추천 모델을 실제 서비스에 최적화하는 '순차적 사후 학습(Multi-Phase Post-Training)' 기술을 다룬다. 기존 추천 시스템이 작품 썸네일 클릭 등 개별 이용자 행동을 예측한 반면, 연구진은 사전 학습된 추천 모델을 세 단계에 걸쳐 추가 학습시키는 방식을 택했다."
+          },
+          {
+            "t": "p",
+            "x": "마지막 단계에는 강화 학습을 적용해 이용자가 단순히 클릭할 만한 작품이 아니라 실제 감상으로 이어질 가능성이 높은 작품을 추천하도록 했다."
+          },
+          {
+            "t": "p",
+            "x": "네이버웹툰 서비스에서 한 달간 진행된 대규모 A/B 테스트(비교 실험) 결과 해당 모델 적용 후 기존 추천 방식 대비 작품 클릭 수는 16.2% 늘었다. 마지막 무료 회차 도달률은 17.2%, 유료 회차 결제 도달률은 13.4% 증가했다. 네이버웹툰은 이 같은 실험 결과를 바탕으로 지난 4월부터 앱 내 홈 추천 영역인 '알아서 딱!'에 해당 모델을 전면 적용해 운영하고 있다."
+          },
+          {
+            "t": "p",
+            "x": "장태영 네이버웹툰 AI 총괄은 \"이번 ACM 렉시스 채택은 추천 시스템 분야에서 축적해 온 기술적 역량과 실제 서비스 적용 성과를 국제적으로 인정받았다는 점에서 의미가 있다\"며 \"앞으로 한국뿐 아니라 글로벌 서비스에서도 독자들이 개인의 취향에 맞게 다양한 작품을 쉽게 발견하고 즐길 수 있도록 개인화 추천 기술을 확장해 적용하고 고도화해 나갈 것\"이라고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "네이버웹툰 AI 추천 논문\n국제학회 RecSys 채택",
+          "body": "실제 감상으로 이어질 작품을 추천하는 모델로 유료 결제 도달률이 13.4% 늘었다.",
+          "mini_headline": "네이버웹툰 AI 추천 논문",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://biz.chosun.com/resizer/v2/HA3DCZRRMQYTAODEG5TDMNZSME.jpg?auth=df10ae749834f22f837c690d31960a8e90157d63903f8c244463f3975df6846c&width=1200&height=630&smart=true"
+              },
+              {
+                "t": "p",
+                "x": "네이버웹툰은 자체 개발한 웹툰 추천 파운데이션 모델(기반 모델)에 관한 연구 논문이 인공지능(AI) 추천 시스템 학회인 'ACM RecSys 2026(ACM 렉시스 2026)'의 산업 트랙에 채택됐다고 24일 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "네이버웹툰에 따르면, ACM 렉시스는 주요 AI 추천 시스템 학회 중 하나로, 산업 트랙은 산업 현장에서의 실제 적용 가능성을 평가하는 부문이다. 올해 산업 트랙에는 전년 대비 2배 이상 늘어난 306편의 논문이 제출되었으며 82편(채택률 26.8%)만이 채택됐다."
+              },
+              {
+                "t": "p",
+                "x": "국내 기업 및 글로벌 웹툰 업계에서 추천 파운데이션 산업 트랙에 논문을 게재하게 된 곳은 네이버웹툰이 처음이다."
+              },
+              {
+                "t": "p",
+                "x": "이번 논문은 비식별 처리된 독자들의 작품 감상 패턴을 바탕으로 자체 추천 모델을 실제 서비스에 최적화하는 '순차적 사후 학습(Multi-Phase Post-Training)' 기술을 다룬다. 기존 추천 시스템이 작품 썸네일 클릭 등 개별 이용자 행동을 예측한 반면, 연구진은 사전 학습된 추천 모델을 세 단계에 걸쳐 추가 학습시키는 방식을 택했다."
+              },
+              {
+                "t": "p",
+                "x": "마지막 단계에는 강화 학습을 적용해 이용자가 단순히 클릭할 만한 작품이 아니라 실제 감상으로 이어질 가능성이 높은 작품을 추천하도록 했다."
+              },
+              {
+                "t": "p",
+                "x": "네이버웹툰 서비스에서 한 달간 진행된 대규모 A/B 테스트(비교 실험) 결과 해당 모델 적용 후 기존 추천 방식 대비 작품 클릭 수는 16.2% 늘었다. 마지막 무료 회차 도달률은 17.2%, 유료 회차 결제 도달률은 13.4% 증가했다. 네이버웹툰은 이 같은 실험 결과를 바탕으로 지난 4월부터 앱 내 홈 추천 영역인 '알아서 딱!'에 해당 모델을 전면 적용해 운영하고 있다."
+              },
+              {
+                "t": "p",
+                "x": "장태영 네이버웹툰 AI 총괄은 \"이번 ACM 렉시스 채택은 추천 시스템 분야에서 축적해 온 기술적 역량과 실제 서비스 적용 성과를 국제적으로 인정받았다는 점에서 의미가 있다\"며 \"앞으로 한국뿐 아니라 글로벌 서비스에서도 독자들이 개인의 취향에 맞게 다양한 작품을 쉽게 발견하고 즐길 수 있도록 개인화 추천 기술을 확장해 적용하고 고도화해 나갈 것\"이라고 말했다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Naver Webtoon AI recommendation\npaper accepted at RecSys",
+          "body": "A model that recommends titles readers will actually read raised the paid-episode purchase rate by 13.4%.",
+          "mini_headline": "Naver Webtoon AI recommendation paper",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://biz.chosun.com/resizer/v2/HA3DCZRRMQYTAODEG5TDMNZSME.jpg?auth=df10ae749834f22f837c690d31960a8e90157d63903f8c244463f3975df6846c&width=1200&height=630&smart=true"
+              },
+              {
+                "t": "p",
+                "x": "Naver Webtoon said on the 24th that a research paper on its in-house webtoon recommendation foundation model (base model) was accepted to the industry track of 'ACM RecSys 2026', a conference on artificial intelligence (AI) recommender systems."
+              },
+              {
+                "t": "p",
+                "x": "According to Naver Webtoon, ACM RecSys is one of the major AI recommender system conferences, and its industry track evaluates real-world applicability in industry settings. This year, 306 papers, more than 2 times as many as the previous year, were submitted to the industry track, and only 82 (an acceptance rate of 26.8%) were accepted."
+              },
+              {
+                "t": "p",
+                "x": "Naver Webtoon is the first among Korean companies and in the global webtoon industry to publish a recommendation foundation model paper in the industry track."
+              },
+              {
+                "t": "p",
+                "x": "The paper covers 'Multi-Phase Post-Training,' a technique that optimizes the in-house recommendation model for the live service based on de-identified readers’ viewing patterns. While existing recommender systems predicted individual user actions such as clicks on title thumbnails, the researchers chose to further train a pretrained recommendation model over three stages."
+              },
+              {
+                "t": "p",
+                "x": "In the final stage, they applied reinforcement learning so that the model recommends titles likely to lead to actual reading, rather than titles users might simply click."
+              },
+              {
+                "t": "p",
+                "x": "In a month-long, large-scale A/B test (comparison experiment) on the Naver Webtoon service, clicks on titles rose 16.2% compared with the previous recommendation method after the model was applied. The rate of reaching the last free episode rose 17.2%, and the rate of reaching paid-episode purchases rose 13.4%. Based on these results, Naver Webtoon has fully applied the model since April to 'Alaseo Ttak!', the home recommendation area in its app."
+              },
+              {
+                "t": "p",
+                "x": "Jang Tae-young, head of AI at Naver Webtoon, said, “This ACM RecSys acceptance is meaningful in that the technical capabilities we have built up in recommender systems and our results in applying them to a live service have been recognized internationally,” adding, “We will expand and advance our personalized recommendation technology so that readers, not only in Korea but also on our global services, can easily discover and enjoy a variety of titles that suit their individual tastes.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ネイバーウェブトゥーンの\nAI論文がRecSys採択",
+          "body": "実際の閲読につながる作品を薦めるモデルで、有料話の決済到達率が13.4%伸びた。",
+          "mini_headline": "ネイバーウェブトゥーンのAI推薦論文",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://biz.chosun.com/resizer/v2/HA3DCZRRMQYTAODEG5TDMNZSME.jpg?auth=df10ae749834f22f837c690d31960a8e90157d63903f8c244463f3975df6846c&width=1200&height=630&smart=true"
+              },
+              {
+                "t": "p",
+                "x": "ネイバーウェブトゥーンは24日、自社開発したウェブトゥーン推薦ファウンデーションモデル（基盤モデル）に関する研究論文が、人工知能（AI）推薦システムの学会「ACM RecSys 2026」の産業トラックに採択されたと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "ネイバーウェブトゥーンによると、ACM RecSysは主要なAI推薦システム学会の一つで、産業トラックは産業現場での実際の適用可能性を評価する部門だ。今年の産業トラックには前年比2倍以上となる306本の論文が提出され、82本（採択率26.8%）のみが採択された。"
+              },
+              {
+                "t": "p",
+                "x": "国内企業およびグローバルなウェブトゥーン業界で、推薦ファウンデーションモデルの論文を産業トラックに掲載したのはネイバーウェブトゥーンが初めてだ。"
+              },
+              {
+                "t": "p",
+                "x": "今回の論文は、匿名化された読者の作品閲覧パターンをもとに、自社推薦モデルを実際のサービスに最適化する「段階的事後学習（Multi-Phase Post-Training）」技術を扱う。従来の推薦システムが作品サムネイルのクリックなど個々のユーザー行動を予測していたのに対し、研究チームは事前学習済みの推薦モデルを三段階にわたって追加学習させる方式を採った。"
+              },
+              {
+                "t": "p",
+                "x": "最終段階では強化学習を適用し、ユーザーが単にクリックしそうな作品ではなく、実際の閲読につながる可能性が高い作品を推薦するようにした。"
+              },
+              {
+                "t": "p",
+                "x": "ネイバーウェブトゥーンのサービスでひと月にわたり実施した大規模なA/Bテスト（比較実験）の結果、このモデルの適用後、従来の推薦方式と比べて作品のクリック数は16.2%増えた。最後の無料話への到達率は17.2%、有料話の決済到達率は13.4%上昇した。ネイバーウェブトゥーンはこの実験結果をもとに、4月からアプリ内のホーム推薦エリア「알아서 딱!」にこのモデルを全面適用して運用している。"
+              },
+              {
+                "t": "p",
+                "x": "ネイバーウェブトゥーンのチャン・テヨンAI総括は「今回のACM RecSys採択は、推薦システム分野で蓄積してきた技術力と実サービスへの適用成果が国際的に認められたという点で意義がある」とし、「今後は韓国だけでなくグローバルサービスでも、読者が個人の好みに合わせて多様な作品を簡単に見つけて楽しめるよう、パーソナライズ推薦技術の適用を広げ、高度化していく」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Naver Webtoon\nAI推荐论文入选RecSys",
+          "body": "该模型推荐真正会被阅读的作品，使付费章节购买到达率提升13.4%。",
+          "mini_headline": "Naver Webtoon AI推荐论文",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://biz.chosun.com/resizer/v2/HA3DCZRRMQYTAODEG5TDMNZSME.jpg?auth=df10ae749834f22f837c690d31960a8e90157d63903f8c244463f3975df6846c&width=1200&height=630&smart=true"
+              },
+              {
+                "t": "p",
+                "x": "Naver Webtoon于24日表示，其自主研发的网漫推荐基础模型相关研究论文入选人工智能（AI）推荐系统学术会议“ACM RecSys 2026”的产业赛道。"
+              },
+              {
+                "t": "p",
+                "x": "据Naver Webtoon介绍，ACM RecSys是主要的AI推荐系统学术会议之一，产业赛道评估的是研究在产业现场的实际应用可能性。今年产业赛道共收到306篇投稿，是上年的2倍以上，仅82篇（录用率26.8%）被录用。"
+              },
+              {
+                "t": "p",
+                "x": "在韩国企业及全球网漫业界中，Naver Webtoon是首家在产业赛道发表推荐基础模型论文的公司。"
+              },
+              {
+                "t": "p",
+                "x": "该论文探讨了“分阶段后训练（Multi-Phase Post-Training）”技术，即基于去标识化的读者作品阅读模式，将自研推荐模型针对实际服务进行优化。以往的推荐系统预测的是作品缩略图点击等单个用户行为，而研究团队选择对预训练推荐模型分三个阶段进行追加训练。"
+              },
+              {
+                "t": "p",
+                "x": "在最后阶段，团队引入强化学习，使模型推荐的不只是用户可能随手点击的作品，而是更有可能真正被阅读的作品。"
+              },
+              {
+                "t": "p",
+                "x": "在Naver Webtoon服务上进行的为期一个月的大规模A/B测试（对比实验）显示，应用该模型后，作品点击量较原有推荐方式增加16.2%，最后一个免费章节的到达率提升17.2%，付费章节购买到达率提升13.4%。基于上述实验结果，Naver Webtoon自4月起已在应用内首页推荐区“알아서 딱!”全面应用该模型。"
+              },
+              {
+                "t": "p",
+                "x": "Naver Webtoon AI负责人Jang Tae-young表示：“此次入选ACM RecSys，意味着我们在推荐系统领域积累的技术实力和实际服务应用成果获得了国际认可。”他还说：“今后不仅在韩国，在全球服务中我们也将扩大并深化个性化推荐技术，让读者能根据个人喜好轻松发现并享受多样的作品。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Estudio de recomendación con AI\nde Naver Webtoon, en RecSys",
+          "body": "Un modelo que recomienda obras que sí se leerán elevó un 13.4% la tasa de llegada a la compra de episodios de pago.",
+          "mini_headline": "Estudio de AI de Naver Webtoon",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://biz.chosun.com/resizer/v2/HA3DCZRRMQYTAODEG5TDMNZSME.jpg?auth=df10ae749834f22f837c690d31960a8e90157d63903f8c244463f3975df6846c&width=1200&height=630&smart=true"
+              },
+              {
+                "t": "p",
+                "x": "Naver Webtoon anunció el día 24 que un artículo de investigación sobre su modelo fundacional (modelo base) de recomendación de webtoons, de desarrollo propio, fue aceptado en el track industrial de 'ACM RecSys 2026', un congreso sobre sistemas de recomendación con inteligencia artificial (AI)."
+              },
+              {
+                "t": "p",
+                "x": "Según Naver Webtoon, ACM RecSys es uno de los principales congresos de sistemas de recomendación con AI, y su track industrial evalúa la aplicabilidad real en la industria. Este año se presentaron al track industrial 306 artículos, más de 2 veces los del año anterior, y solo se aceptaron 82 (una tasa de aceptación del 26.8%)."
+              },
+              {
+                "t": "p",
+                "x": "Naver Webtoon es la primera empresa coreana y del sector global del webtoon en publicar un artículo sobre un modelo fundacional de recomendación en el track industrial."
+              },
+              {
+                "t": "p",
+                "x": "El artículo trata la técnica de 'post-entrenamiento por fases (Multi-Phase Post-Training)', que optimiza el modelo de recomendación propio para el servicio real a partir de patrones de lectura anonimizados de los usuarios. Mientras los sistemas de recomendación anteriores predecían acciones individuales, como los clics en miniaturas de obras, los investigadores optaron por entrenar adicionalmente un modelo de recomendación preentrenado en tres etapas."
+              },
+              {
+                "t": "p",
+                "x": "En la última etapa aplicaron aprendizaje por refuerzo para que el modelo recomiende no las obras en las que el usuario simplemente haría clic, sino las que tienen más probabilidad de leerse de verdad."
+              },
+              {
+                "t": "p",
+                "x": "En una prueba A/B a gran escala (experimento comparativo) de un mes en el servicio de Naver Webtoon, los clics en obras aumentaron un 16.2% frente al método de recomendación anterior tras aplicar el modelo. La tasa de llegada al último episodio gratuito subió un 17.2% y la de llegada a la compra de episodios de pago, un 13.4%. Con base en estos resultados, Naver Webtoon aplica plenamente el modelo desde abril en 'Alaseo Ttak!', el área de recomendaciones de la página de inicio de su app."
+              },
+              {
+                "t": "p",
+                "x": "Jang Tae-young, responsable de AI de Naver Webtoon, afirmó: «Esta aceptación en ACM RecSys es significativa porque supone el reconocimiento internacional de la capacidad técnica que hemos acumulado en sistemas de recomendación y de los resultados de su aplicación en un servicio real». Y añadió: «Seguiremos ampliando y perfeccionando nuestra tecnología de recomendación personalizada para que los lectores, no solo en Corea sino también en nuestros servicios globales, descubran y disfruten fácilmente de obras diversas según sus gustos»."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Naver Webtoon AI recommendation\npaper accepted at RecSys",
+          "body": "A model that recommends titles readers will actually read raised the paid-episode purchase rate by 13.4%.",
+          "mini_headline": "Naver Webtoon AI recommendation paper",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://biz.chosun.com/resizer/v2/HA3DCZRRMQYTAODEG5TDMNZSME.jpg?auth=df10ae749834f22f837c690d31960a8e90157d63903f8c244463f3975df6846c&width=1200&height=630&smart=true"
+              },
+              {
+                "t": "p",
+                "x": "Naver Webtoon said on the 24th that a research paper on its in-house webtoon recommendation foundation model (base model) was accepted to the industry track of 'ACM RecSys 2026', a conference on artificial intelligence (AI) recommender systems."
+              },
+              {
+                "t": "p",
+                "x": "According to Naver Webtoon, ACM RecSys is one of the major AI recommender system conferences, and its industry track evaluates real-world applicability in industry settings. This year, 306 papers, more than 2 times as many as the previous year, were submitted to the industry track, and only 82 (an acceptance rate of 26.8%) were accepted."
+              },
+              {
+                "t": "p",
+                "x": "Naver Webtoon is the first among Korean companies and in the global webtoon industry to publish a recommendation foundation model paper in the industry track."
+              },
+              {
+                "t": "p",
+                "x": "The paper covers 'Multi-Phase Post-Training,' a technique that optimizes the in-house recommendation model for the live service based on de-identified readers’ viewing patterns. While existing recommender systems predicted individual user actions such as clicks on title thumbnails, the researchers chose to further train a pretrained recommendation model over three stages."
+              },
+              {
+                "t": "p",
+                "x": "In the final stage, they applied reinforcement learning so that the model recommends titles likely to lead to actual reading, rather than titles users might simply click."
+              },
+              {
+                "t": "p",
+                "x": "In a month-long, large-scale A/B test (comparison experiment) on the Naver Webtoon service, clicks on titles rose 16.2% compared with the previous recommendation method after the model was applied. The rate of reaching the last free episode rose 17.2%, and the rate of reaching paid-episode purchases rose 13.4%. Based on these results, Naver Webtoon has fully applied the model since April to 'Alaseo Ttak!', the home recommendation area in its app."
+              },
+              {
+                "t": "p",
+                "x": "Jang Tae-young, head of AI at Naver Webtoon, said, “This ACM RecSys acceptance is meaningful in that the technical capabilities we have built up in recommender systems and our results in applying them to a live service have been recognized internationally,” adding, “We will expand and advance our personalized recommendation technology so that readers, not only in Korea but also on our global services, can easily discover and enjoy a variety of titles that suit their individual tastes.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ネイバーウェブトゥーンの\nAI論文がRecSys採択",
+          "body": "実際の閲読につながる作品を薦めるモデルで、有料話の決済到達率が13.4%伸びた。",
+          "mini_headline": "ネイバーウェブトゥーンのAI推薦論文",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://biz.chosun.com/resizer/v2/HA3DCZRRMQYTAODEG5TDMNZSME.jpg?auth=df10ae749834f22f837c690d31960a8e90157d63903f8c244463f3975df6846c&width=1200&height=630&smart=true"
+              },
+              {
+                "t": "p",
+                "x": "ネイバーウェブトゥーンは24日、自社開発したウェブトゥーン推薦ファウンデーションモデル（基盤モデル）に関する研究論文が、人工知能（AI）推薦システムの学会「ACM RecSys 2026」の産業トラックに採択されたと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "ネイバーウェブトゥーンによると、ACM RecSysは主要なAI推薦システム学会の一つで、産業トラックは産業現場での実際の適用可能性を評価する部門だ。今年の産業トラックには前年比2倍以上となる306本の論文が提出され、82本（採択率26.8%）のみが採択された。"
+              },
+              {
+                "t": "p",
+                "x": "国内企業およびグローバルなウェブトゥーン業界で、推薦ファウンデーションモデルの論文を産業トラックに掲載したのはネイバーウェブトゥーンが初めてだ。"
+              },
+              {
+                "t": "p",
+                "x": "今回の論文は、匿名化された読者の作品閲覧パターンをもとに、自社推薦モデルを実際のサービスに最適化する「段階的事後学習（Multi-Phase Post-Training）」技術を扱う。従来の推薦システムが作品サムネイルのクリックなど個々のユーザー行動を予測していたのに対し、研究チームは事前学習済みの推薦モデルを三段階にわたって追加学習させる方式を採った。"
+              },
+              {
+                "t": "p",
+                "x": "最終段階では強化学習を適用し、ユーザーが単にクリックしそうな作品ではなく、実際の閲読につながる可能性が高い作品を推薦するようにした。"
+              },
+              {
+                "t": "p",
+                "x": "ネイバーウェブトゥーンのサービスでひと月にわたり実施した大規模なA/Bテスト（比較実験）の結果、このモデルの適用後、従来の推薦方式と比べて作品のクリック数は16.2%増えた。最後の無料話への到達率は17.2%、有料話の決済到達率は13.4%上昇した。ネイバーウェブトゥーンはこの実験結果をもとに、4月からアプリ内のホーム推薦エリア「알아서 딱!」にこのモデルを全面適用して運用している。"
+              },
+              {
+                "t": "p",
+                "x": "ネイバーウェブトゥーンのチャン・テヨンAI総括は「今回のACM RecSys採択は、推薦システム分野で蓄積してきた技術力と実サービスへの適用成果が国際的に認められたという点で意義がある」とし、「今後は韓国だけでなくグローバルサービスでも、読者が個人の好みに合わせて多様な作品を簡単に見つけて楽しめるよう、パーソナライズ推薦技術の適用を広げ、高度化していく」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Naver Webtoon\nAI推荐论文入选RecSys",
+          "body": "该模型推荐真正会被阅读的作品，使付费章节购买到达率提升13.4%。",
+          "mini_headline": "Naver Webtoon AI推荐论文",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://biz.chosun.com/resizer/v2/HA3DCZRRMQYTAODEG5TDMNZSME.jpg?auth=df10ae749834f22f837c690d31960a8e90157d63903f8c244463f3975df6846c&width=1200&height=630&smart=true"
+              },
+              {
+                "t": "p",
+                "x": "Naver Webtoon于24日表示，其自主研发的网漫推荐基础模型相关研究论文入选人工智能（AI）推荐系统学术会议“ACM RecSys 2026”的产业赛道。"
+              },
+              {
+                "t": "p",
+                "x": "据Naver Webtoon介绍，ACM RecSys是主要的AI推荐系统学术会议之一，产业赛道评估的是研究在产业现场的实际应用可能性。今年产业赛道共收到306篇投稿，是上年的2倍以上，仅82篇（录用率26.8%）被录用。"
+              },
+              {
+                "t": "p",
+                "x": "在韩国企业及全球网漫业界中，Naver Webtoon是首家在产业赛道发表推荐基础模型论文的公司。"
+              },
+              {
+                "t": "p",
+                "x": "该论文探讨了“分阶段后训练（Multi-Phase Post-Training）”技术，即基于去标识化的读者作品阅读模式，将自研推荐模型针对实际服务进行优化。以往的推荐系统预测的是作品缩略图点击等单个用户行为，而研究团队选择对预训练推荐模型分三个阶段进行追加训练。"
+              },
+              {
+                "t": "p",
+                "x": "在最后阶段，团队引入强化学习，使模型推荐的不只是用户可能随手点击的作品，而是更有可能真正被阅读的作品。"
+              },
+              {
+                "t": "p",
+                "x": "在Naver Webtoon服务上进行的为期一个月的大规模A/B测试（对比实验）显示，应用该模型后，作品点击量较原有推荐方式增加16.2%，最后一个免费章节的到达率提升17.2%，付费章节购买到达率提升13.4%。基于上述实验结果，Naver Webtoon自4月起已在应用内首页推荐区“알아서 딱!”全面应用该模型。"
+              },
+              {
+                "t": "p",
+                "x": "Naver Webtoon AI负责人Jang Tae-young表示：“此次入选ACM RecSys，意味着我们在推荐系统领域积累的技术实力和实际服务应用成果获得了国际认可。”他还说：“今后不仅在韩国，在全球服务中我们也将扩大并深化个性化推荐技术，让读者能根据个人喜好轻松发现并享受多样的作品。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Estudio de recomendación con AI\nde Naver Webtoon, en RecSys",
+          "body": "Un modelo que recomienda obras que sí se leerán elevó un 13.4% la tasa de llegada a la compra de episodios de pago.",
+          "mini_headline": "Estudio de AI de Naver Webtoon",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://biz.chosun.com/resizer/v2/HA3DCZRRMQYTAODEG5TDMNZSME.jpg?auth=df10ae749834f22f837c690d31960a8e90157d63903f8c244463f3975df6846c&width=1200&height=630&smart=true"
+              },
+              {
+                "t": "p",
+                "x": "Naver Webtoon anunció el día 24 que un artículo de investigación sobre su modelo fundacional (modelo base) de recomendación de webtoons, de desarrollo propio, fue aceptado en el track industrial de 'ACM RecSys 2026', un congreso sobre sistemas de recomendación con inteligencia artificial (AI)."
+              },
+              {
+                "t": "p",
+                "x": "Según Naver Webtoon, ACM RecSys es uno de los principales congresos de sistemas de recomendación con AI, y su track industrial evalúa la aplicabilidad real en la industria. Este año se presentaron al track industrial 306 artículos, más de 2 veces los del año anterior, y solo se aceptaron 82 (una tasa de aceptación del 26.8%)."
+              },
+              {
+                "t": "p",
+                "x": "Naver Webtoon es la primera empresa coreana y del sector global del webtoon en publicar un artículo sobre un modelo fundacional de recomendación en el track industrial."
+              },
+              {
+                "t": "p",
+                "x": "El artículo trata la técnica de 'post-entrenamiento por fases (Multi-Phase Post-Training)', que optimiza el modelo de recomendación propio para el servicio real a partir de patrones de lectura anonimizados de los usuarios. Mientras los sistemas de recomendación anteriores predecían acciones individuales, como los clics en miniaturas de obras, los investigadores optaron por entrenar adicionalmente un modelo de recomendación preentrenado en tres etapas."
+              },
+              {
+                "t": "p",
+                "x": "En la última etapa aplicaron aprendizaje por refuerzo para que el modelo recomiende no las obras en las que el usuario simplemente haría clic, sino las que tienen más probabilidad de leerse de verdad."
+              },
+              {
+                "t": "p",
+                "x": "En una prueba A/B a gran escala (experimento comparativo) de un mes en el servicio de Naver Webtoon, los clics en obras aumentaron un 16.2% frente al método de recomendación anterior tras aplicar el modelo. La tasa de llegada al último episodio gratuito subió un 17.2% y la de llegada a la compra de episodios de pago, un 13.4%. Con base en estos resultados, Naver Webtoon aplica plenamente el modelo desde abril en 'Alaseo Ttak!', el área de recomendaciones de la página de inicio de su app."
+              },
+              {
+                "t": "p",
+                "x": "Jang Tae-young, responsable de AI de Naver Webtoon, afirmó: «Esta aceptación en ACM RecSys es significativa porque supone el reconocimiento internacional de la capacidad técnica que hemos acumulado en sistemas de recomendación y de los resultados de su aplicación en un servicio real». Y añadió: «Seguiremos ampliando y perfeccionando nuestra tecnología de recomendación personalizada para que los lectores, no solo en Corea sino también en nuestros servicios globales, descubran y disfruten fácilmente de obras diversas según sus gustos»."
               }
             ]
           }

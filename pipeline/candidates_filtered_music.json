@@ -1,197 +1,218 @@
 {
   "section": "music",
-  "now_iso": "2026-11-23T22:00:42Z",
+  "date": "2026-11-25",
+  "now_iso": "2026-11-24T22:00:37Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "SoundCloud cracks down on ‘AI slop, spam, and excessive uploads’ – weeks after striking AI deals with Moises and ElevenLabs",
-      "url": "https://www.musicbusinessworldwide.com/soundcloud-cracks-down-on-ai-slop-spam-and-excessive-uploads-weeks-after-striking-ai-deals-with-moises-and-elevenlabs/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-11-23T10:16:46+00:00",
-      "excerpt": "SoundCloud CEO Eliah Seton's open letter updates Community Guidelines and Terms of Use to combat AI slop, spam and excessive uploads, with payout recovery among penalties, while defending the platform's new AI partnerships with Moises and ElevenLabs.",
-      "og_image": null,
-      "note": "Related SoundCloud CEO AI-policy Q&A (Billboard) published 11-19; this is the enforcement/terms angle.",
-      "category": "music",
-      "history_match": {
-        "score": 0.25,
-        "date": "2026-11-19",
-        "url": "https://www.billboard.com/pro/soundcloud-ceo-ai-policies-qa/",
-        "title": "SoundCloud CEO Talks AI Policies: 'Wishing Away the Advent of AI Music Is Not a Strategy'",
-        "band": "related"
-      }
-    },
-    {
-      "title": "5 things to know about Suno’s move into AI video, the DistroKid documents, and the fight over v6",
-      "url": "https://www.musicbusinessworldwide.com/5-things-to-know-about-sunos-move-into-ai-video-the-distrokid-documents-and-the-fight-over-v6/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-11-23T10:17:38+00:00",
-      "excerpt": "MBW rounds up Suno's week: the Visuals AI-video tool, DistroKid handing AI-detection documents to UMG and Sony, and the labels' fight to bring Suno's v6 models into the litigation.",
-      "og_image": null,
-      "note": "Suno saturated per planner (only product/ruling/deal); roundup — low priority.",
-      "category": "music",
-      "history_match": {
-        "score": 0.199,
-        "date": "2026-11-18",
-        "url": "https://www.musicbusinessworldwide.com/universal-and-sony-fight-sunos-bid-to-freeze-second-lawsuit-warning-its-latest-ai-models-could-escape-scrutiny-until-at-least-2028/",
-        "title": "Universal and Sony fight Suno's bid to freeze second lawsuit, warning its latest AI models could escape scrutiny until 2028",
-        "band": "related"
-      }
-    },
-    {
-      "title": "TikTok Rolls Out a Manual AI Detection Tool for Users, Officially Launches ‘Likeness Detection’ for Global Creators",
-      "url": "https://www.digitalmusicnews.com/2026/11/23/tiktok-likeness-detection-release/",
-      "source": "Digital Music News",
-      "published_iso": "2026-11-23T19:18:55+00:00",
-      "excerpt": "TikTok launched a public AI-content checker for users and rolled out Likeness Detection globally, letting creators and artists find and remove videos that use their likeness without consent.",
-      "og_image": null,
-      "note": "Same story also at MBW (11-23). Check marketing/gadgets sections for cross-section dup before roll.",
-      "category": "music"
-    },
-    {
-      "title": "Universal Music Lambasts ‘Walled Garden’ Criticism as ‘A Complete Flip of Reality’",
-      "url": "https://www.digitalmusicnews.com/2026/11/20/universal-music-ai-strategy/",
-      "source": "Digital Music News",
-      "published_iso": "2026-11-20T16:37:40+00:00",
-      "excerpt": "At Morgan Stanley's TMT conference, UMG digital chief Michael Nash defended the label's 'walled garden' approach to licensed AI music platforms and outlined superfan D2C plans.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/Michael-Nash-1024x576.webp",
-      "note": "Exec-strategy talk; borderline business.",
-      "category": "music"
-    },
-    {
-      "title": "“They stole a decade of my life and my effort and €230,000 from my pocket”: El Estepario Siberiano threatens legal action against AI scalpers",
-      "url": "https://www.musicradar.com/artists/drummers/they-stole-a-decade-of-my-life-and-my-effort-and-eur230-000-from-my-pocket-el-estepario-siberiano-threatens-legal-action-against-ai-scalpers-and-wants-your-advice",
-      "source": "MusicRadar",
-      "published_iso": "2026-11-23T12:34:54Z",
-      "excerpt": "Drummer El Estepario Siberiano says AI copycat accounts reskinning his videos have cost him €230,000 and is weighing legal action; he recommends creators use Atlantic's AI Watchdog tool.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8aumu47DZgQq59QFR8DYLM-1280-80.jpg",
-      "note": "Legal action threatened + named detection tool (passes 'deepfake denial' bar).",
-      "category": "music"
-    },
-    {
-      "title": "“If you can’t defeat it, you have to join it”: Peter Gabriel makes his stance on AI clear",
-      "url": "https://www.musicradar.com/artists/singers-songwriters/if-you-cant-defeat-it-you-have-to-join-it-peter-gabriel-makes-his-stance-on-ai-clear",
-      "source": "MusicRadar",
-      "published_iso": "2026-11-20T13:53:21Z",
-      "excerpt": "Peter Gabriel reaffirms his AI-aligned vision of music's future, arguing artists must engage with the technology rather than resist it.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/HrzxcFMsfrJ8vLBjPk3E5F-1920-80.png",
-      "note": "Artist opinion — planner says saturated (Bellamy 11-23); low priority.",
-      "category": "music"
-    },
-    {
-      "title": "sonicLAB Updates SSNN With Neural Buffer FM, Expanded Network Controls",
-      "url": "https://www.synthtopia.com/content/2026/11/23/soniclab-updates-ssnn-with-neural-buffer-fm-expanded-network-controls/",
-      "source": "Synthtopia",
-      "published_iso": "2026-11-23T16:00:14+00:00",
-      "excerpt": "sonicLAB's SSNN 2.0, an audio processor built on a live 960-neuron spiking neural network driving eight synthesis engines, adds Neural Buffer FM, more network controls and four voice outputs.",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/11/ssnn-synthesizer.jpg",
-      "note": "Neural synthesizer — different product from Anukari/Neutone.",
-      "category": "music"
-    },
-    {
-      "title": "AI is being used to clone real people's videos",
-      "url": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo",
-      "source": "BBC News",
-      "published_iso": "2026-11-22T05:00:38.473Z",
-      "excerpt": "BBC Verify finds musicians, comedians and dancers having their videos 'reskinned' with AI-generated characters by copycat accounts that monetise the clones.",
-      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ddf0/live/25e92f10-e4f7-11f1-99a1-253766e7ad8b.jpg",
-      "note": "Pairs with El Estepario / Sophie Lloyd (Louder, off-list) AI reskin stories.",
-      "category": "music"
-    },
-    {
-      "title": "WMG and Spotify talk AI remixes and the need for artist consent",
-      "url": "https://musically.com/2026/11/20/wmg-and-spotify-talk-ai-remixes-and-the-need-for-artist-consent/",
+      "title": "Streaming service Tidal is banning fully-AI-generated music",
+      "url": "https://musically.com/2026/11/24/tidal-banning-ai-music/",
       "source": "Music Ally",
-      "published_iso": "2026-11-20T12:30:00+00:00",
-      "excerpt": "At Morgan Stanley's TMT conference, Warner Music Group and Spotify executives said Spotify's AI remix tool is waiting on artist consent frameworks before user testing.",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-53.png?fit=2000%2C1500&ssl=1",
-      "note": "Spotify remix tool in prep covered 11-21 (DMN) — status update only.",
+      "published_iso": "2026-11-24T15:09:56+00:00",
+      "og_image": "https://musically.com/wp-content/uploads/2026/11/joshua-hoehne-WPrTKRw8KRQ-unsplash-scaled.jpg",
+      "excerpt": "Tidal will reject and remove wholly AI-generated tracks from December 9, the first major DSP to ban fully AI music outright; AI-assisted hybrid tracks remain allowed.",
       "category": "music",
       "history_match": {
-        "score": 0.226,
-        "date": "2026-11-02",
-        "url": "https://www.digitalmusicnews.com/2026/10/30/spotify-ai-cover-remix-tool-launch/",
-        "title": "Spotify Reportedly Set to Debut AI Cover & Remix Tool in Early '27",
+        "score": 0.182,
+        "date": "2026-11-13",
+        "url": "https://www.complex.com/music/a/markelibert/knxwledge-streaming-app-albums-removed-distributors",
+        "title": "Knxwledge launches streaming service after distributors remove his music without explanation",
+        "band": "related"
+      },
+      "cluster": "c0"
+    },
+    {
+      "title": "Tidal will start banning AI-generated music next month",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "source": "The Verge",
+      "published_iso": "2026-11-24T17:17:09+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Tidal says it will ban and purge fully AI-generated tracks starting next month, while Spotify, YouTube Music and Apple Music still have not banned AI music.",
+      "category": "music",
+      "cluster": "c0"
+    },
+    {
+      "title": "Tidal Is the First Streaming Service to Ban AI Music",
+      "url": "https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/",
+      "source": "Rolling Stone",
+      "published_iso": "2026-11-24T21:20:28+00:00",
+      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2261659998.jpg?w=1600&h=900&crop=1",
+      "excerpt": "Tidal said it will start removing all wholly AI-generated music from its platform and reject future uploads, deleting an estimated 29 million tracks from December 9.",
+      "category": "music",
+      "history_match": {
+        "score": 0.152,
+        "date": "2026-11-13",
+        "url": "https://www.complex.com/music/a/markelibert/knxwledge-streaming-app-albums-removed-distributors",
+        "title": "Knxwledge launches streaming service after distributors remove his music without explanation",
+        "band": "related"
+      },
+      "cluster": "c0"
+    },
+    {
+      "title": "Dutch collecting society BumaStemra threatens legal action against AI background music supplier YourNeuroTune, alleging it uses Suno",
+      "url": "https://www.musicbusinessworldwide.com/dutch-collecting-society-bumastemra-threatens-legal-action-against-ai-background-music-supplier-yourneurotune-alleging-it-uses-suno/",
+      "source": "Music Business Worldwide",
+      "published_iso": "2026-11-24T15:33:04+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/11/Screenshot-2026-11-24-at-14.51.09-e1795531892999.jpg",
+      "excerpt": "Buma/Stemra says Dutch AI background-music supplier YourNeuroTune sells Suno-generated tracks to businesses as royalty-free music and has threatened legal action — a collecting society moving against an AI music vendor rather than the model maker.",
+      "category": "music",
+      "history_match": {
+        "score": 0.179,
+        "date": "2026-11-24",
+        "url": "https://www.musicradar.com/artists/drummers/they-stole-a-decade-of-my-life-and-my-effort-and-eur230-000-from-my-pocket-el-estepario-siberiano-threatens-legal-action-against-ai-scalpers-and-wants-your-advice",
+        "title": "\"They stole a decade of my life and my effort and €230,000 from my pocket\": El Estepario Siberiano threatens legal action against AI scalpers",
         "band": "related"
       }
     },
     {
-      "title": "Agentic AI in music marketing: ‘superhumans’, safeguards and 7am inbox briefs",
-      "url": "https://musically.com/2026/11/19/agentic-ai-music-marketing/",
-      "source": "Music Ally",
-      "published_iso": "2026-11-19T20:15:38+00:00",
-      "excerpt": "Music Ally examines how music marketers are using agentic AI that breaks tasks into steps across inboxes, spreadsheets and ad platforms, and the safeguards teams are adding.",
-      "og_image": "https://musically.com/wp-content/uploads/2026/11/immo-wegmann-vi1HXPw6hyw-unsplash-scaled.jpg",
-      "note": "Partly paywalled.",
+      "title": "Aussie MPs' new AI proposals 'disguise' pro-big tech copyright reforms as 'a favour to creators', says ARIA boss",
+      "url": "https://completemusicupdate.com/aussie-mps-new-ai-proposals-disguise-pro-big-tech-copyright-reforms-as-a-favour-to-creators-says-aria-boss/",
+      "source": "CMU",
+      "published_iso": "2026-11-24T15:22:22.000Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/aussie-ai.png",
+      "excerpt": "Australia's Joint Select Committee on AI published its report proposing copyright reforms to give AI companies 'certainty'; ARIA says no reform is needed and accuses MPs of gaslighting creators.",
       "category": "music"
     },
     {
-      "title": "정부, AI 학습용 저작물 거래 기준 만든다…26일 공청회",
-      "url": "https://www.newsis.com/view/NISX20261123_0003878775",
+      "title": "ARIA Pushes Back on AI Committee Recommendations",
+      "url": "https://themusicnetwork.com/news/joint-select-committee-ai-report-response",
+      "source": "The Music Network",
+      "published_iso": "2026-11-24T05:23:24.200Z",
+      "og_image": "https://images-r2-1.thebrag.com/tmn/uploads/2026/11/computer-cassidy-cloupet.jpg?v=1795497652258",
+      "excerpt": "ARIA rejected the basis of the copyright recommendations in the Joint Select Committee on Artificial Intelligence's report, released today.",
+      "category": "music",
+      "history_match": {
+        "score": 0.15,
+        "date": "2026-11-09",
+        "url": "https://www.bigissue.com/culture/music/ai-composers-ivors-awards/",
+        "title": "The new Ivors Composer Awards is pushing back against AI",
+        "band": "related"
+      }
+    },
+    {
+      "title": "n-Track Studio 11 released with AI Assistant, VocalTune 2.0 and more",
+      "url": "https://www.kvraudio.com/news/n-track-studio-11-released-with-ai-assistant-vocaltune-2-0-and-more-70122",
+      "source": "KVR Audio",
+      "published_iso": "2026-11-24T00:00:00Z",
+      "og_image": "https://static.kvraudio.com/i/b/kvr_n-track-studio-11_1200x675_border.jpg",
+      "excerpt": "n-Track Studio 11 adds an in-DAW AI assistant that answers recording, editing and mixing questions and can make changes inside your song, plus note-by-note VocalTune 2.0, Spectral Edit and ARA support.",
+      "category": "music",
+      "history_match": {
+        "score": 0.178,
+        "date": "2026-11-03",
+        "url": "https://suno.com/blog/studio-chat-assistant",
+        "title": "Meet Chat: Our In-house Studio Assistant",
+        "band": "related"
+      }
+    },
+    {
+      "title": "iZotope's Nectar 5 introduces a clever new way to add effects to vocals, one word at a time",
+      "url": "https://www.musicradar.com/music-tech/izotopes-nectar-5-introduces-a-clever-new-way-to-add-effects-to-vocals-one-word-at-a-time",
+      "source": "MusicRadar",
+      "published_iso": "2026-11-24T15:55:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pNN68baVuL3U3A5EYkirbV-2142-80.png",
+      "excerpt": "Nectar 5 adds Moments, an AI-powered lyric-transcribing ARA plugin that lets you apply vocal effects to individual words via a text editor, plus an enhanced AI Vocal Assistant that designs a processing chain from your take.",
+      "category": "music"
+    },
+    {
+      "title": "'설죽화' 품은 AI 걸그룹 '서리아'의 실험 [AI & 음악]",
+      "url": "https://www.newsis.com/view/NISX20261124_0003881350",
       "source": "뉴시스",
-      "published_iso": "2026-11-23T10:00:24+09:00",
-      "excerpt": "문화체육관광부가 26일 'AI 학습을 위한 저작물 이용허락 표준계약서(안)' 공청회를 열어 AI 학습용 저작물의 범위·이용기간·이용료 산정 방식 등 거래 기준을 공개한다.",
-      "og_image": "https://img1.newsis.com/2026/11/23/NISI20261123_0002299322_web.jpg",
-      "note": "Korean government AI-training licensing standard contract (applies to music).",
+      "published_iso": "2026-11-24T16:49:19+09:00",
+      "og_image": "https://img1.newsis.com/2026/11/24/NISI20261124_0002301084_web.jpg",
+      "excerpt": "카메라·연습실·스튜디오 없이 음악방송 무대 영상, 브이로그, 브랜드 협업까지 AI로 제작하는 4인조 K-팝 AI 걸그룹 '서리아(SEORIA)'의 제작 방식을 다룬다.",
       "category": "music"
     },
     {
-      "title": "\"감귤·AI·케이팝 만났다\"…제주도 홍보 영상 공개",
-      "url": "https://www.yna.co.kr/view/AKR20261123126500056",
+      "title": "음저협, 30일 'AI 활용 음악 신탁 기준' 회원 공청회",
+      "url": "https://www.newsis.com/view/NISX20261124_0003880398",
+      "source": "뉴시스",
+      "published_iso": "2026-11-24T09:42:54+09:00",
+      "og_image": "https://img1.newsis.com/2026/02/26/NISI20260226_0001057356_web.jpg",
+      "excerpt": "한국음악저작권협회가 30일 'AI 활용 음악 신탁 기준 마련을 위한 회원 공청회'를 열어 AI 활용곡의 저작권 등록·신탁 기준에 창작자 의견을 반영한다.",
+      "category": "music",
+      "history_match": {
+        "score": 0.189,
+        "date": "2026-11-24",
+        "url": "https://www.newsis.com/view/NISX20261123_0003878775",
+        "title": "정부, AI 학습용 저작물 거래 기준 만든다…26일 공청회",
+        "band": "related"
+      }
+    },
+    {
+      "title": "음반업계 100% \"AI 무단 복제 막을 퍼블리시티권 보호 강화해야\"",
+      "url": "https://www.newsis.com/view/NISX20261124_0003880240",
+      "source": "뉴시스",
+      "published_iso": "2026-11-24T09:01:42+09:00",
+      "og_image": "https://img1.newsis.com/2026/02/26/NISI20260226_0001057359_web.jpg",
+      "excerpt": "대음협 AI 정책 설문에서 응답 음반제작·유통사 전원이 AI 시대 아티스트 얼굴·목소리 무단 복제를 막을 퍼블리시티권 보호 강화가 시급하다고 답했다.",
+      "category": "music"
+    },
+    {
+      "title": "대음협, AI 음원에 \"책임 있는 학습·가수 보호·공정 유통을\"",
+      "url": "https://www.yna.co.kr/view/AKR20261124048100005",
       "source": "연합뉴스",
-      "published_iso": "2026-11-23T15:27:45+09:00",
-      "excerpt": "제주도가 작사·작곡부터 노래와 영상까지 전 과정을 생성형 AI로 만든 케이팝 음악영상 '노지(NOZY) - 제주 주얼(JEJU JEWEL)'을 공개했다.",
-      "og_image": null,
-      "note": "AI music video, fully generative K-pop promo.",
+      "published_iso": "2026-11-24T09:49:14+09:00",
+      "og_image": "https://img2.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124048100005_03_i_P4.jpg",
+      "excerpt": "한국대중음악산업협회가 회원사 AI 정책 설문 결과와 함께 '책임 있는 학습·가수 보호·공정 유통' 3대 원칙을 발표했다. 조건 없는 TDM 면책이나 선사용·후보상에 찬성한 기업은 한 곳도 없었다.",
       "category": "music"
     },
     {
-      "title": "Windchime: an Audiovisual Installation with Audio-Language Model implementations",
-      "url": "https://arxiv.org/abs/2611.26759",
+      "title": "IteraSong: LLM-Guided Iterative Symbolic Music Creation in a Web DAW",
+      "url": "https://arxiv.org/abs/2611.29225",
       "source": "arXiv",
-      "published_iso": "2026-11-19T19:54:35Z",
-      "excerpt": "An audiovisual installation where spoken prompts are embedded by an audio-language model to retrieve from 406 artist-authored stems and live-coded Strudel fragments, alongside interactive Three.js scenes controlled via monome grid and arc.",
+      "published_iso": "2026-11-22T04:57:00Z",
       "og_image": null,
-      "note": "Real-time AI music installation (cs.SD).",
+      "excerpt": "A web DAW where an LLM maps natural-language requests onto MCP editing tools across song, track, section and bar scopes, supporting a generate-audition-edit-refine loop on a persistent multi-track project with undo/redo.",
+      "category": "music"
+    },
+    {
+      "title": "ARRANGE: Agentic Skills for Layering Vocals",
+      "url": "https://arxiv.org/abs/2611.29283",
+      "source": "arXiv",
+      "published_iso": "2026-11-22T07:11:03Z",
+      "og_image": null,
+      "excerpt": "An agentic system that adds a singing voice to piano recordings via readable intermediate artifacts and composer approval checkpoints; an editable Score Canvas exposes note, syllable and pronunciation decisions before open audio models render.",
+      "category": "music"
+    },
+    {
+      "title": "PopMelodyGen: A Copyright-Aware Platform for Controllable Pop-Melody Generation",
+      "url": "https://arxiv.org/abs/2611.28686",
+      "source": "arXiv",
+      "published_iso": "2026-11-21T09:18:00Z",
+      "og_image": null,
+      "excerpt": "Pretrains a melody model on rule-synthesized melodies with auditable provenance, then adapts it on a small licensed pop corpus — a copyright-aware route to controllable melody generation with an interactive creator interface.",
       "category": "music"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 13,
+    "kept": 15,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 3,
-    "same_story_pairs": []
+    "review": 6,
+    "same_story_pairs": [
+      [
+        "https://musically.com/2026/11/24/tidal-banning-ai-music/",
+        "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+        0.431
+      ],
+      [
+        "https://musically.com/2026/11/24/tidal-banning-ai-music/",
+        "https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/",
+        0.536
+      ],
+      [
+        "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+        "https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/",
+        0.332
+      ]
+    ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-25",
-      "title": "MuLaCover: Flexible Cover Song Generation via Symbolic Tonal Control",
-      "url": "https://arxiv.org/abs/2610.26684"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "MQAScore: Fine-Grained Text-Music Alignment Evaluation via Large Audio Language Model",
-      "url": "https://arxiv.org/abs/2610.31083"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "Suno v. MLC Subpoena Dispute Boils Over as AI Platform Demands Multiple Years of DSP-Specific Streaming Data",
-      "url": "https://www.digitalmusicnews.com/2026/10/22/suno-mlc-subpoena/"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
-      "url": "https://www.rollingstone.com/music/music-news/elvis-presley-rightsholders-anthropic-lawsuit-infringement-1235647682/"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "Making a track with DEATHPIXIE and Suno | In The Cut",
-      "url": "https://www.youtube.com/watch?v=Mw95nxzYP4E"
-    },
     {
       "date": "2026-10-26",
       "title": "Controllable Mono-to-Stereo Upmixing using Reward-tilted Flows",
@@ -866,6 +887,31 @@
       "date": "2026-11-23",
       "title": "AI Copyright Changes Could Cost MPs Votes in 21 Key Electorates, New Poll Finds",
       "url": "https://themusicnetwork.com/news/ai-copyright-changes-electorates-new-poll"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "TikTok Rolls Out a Manual AI Detection Tool for Users, Officially Launches 'Likeness Detection' for Global Creators",
+      "url": "https://www.digitalmusicnews.com/2026/11/23/tiktok-likeness-detection-release/"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "SoundCloud cracks down on 'AI slop, spam, and excessive uploads' – weeks after striking AI deals with Moises and ElevenLabs",
+      "url": "https://www.musicbusinessworldwide.com/soundcloud-cracks-down-on-ai-slop-spam-and-excessive-uploads-weeks-after-striking-ai-deals-with-moises-and-elevenlabs/"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "\"They stole a decade of my life and my effort and €230,000 from my pocket\": El Estepario Siberiano threatens legal action against AI scalpers",
+      "url": "https://www.musicradar.com/artists/drummers/they-stole-a-decade-of-my-life-and-my-effort-and-eur230-000-from-my-pocket-el-estepario-siberiano-threatens-legal-action-against-ai-scalpers-and-wants-your-advice"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "정부, AI 학습용 저작물 거래 기준 만든다…26일 공청회",
+      "url": "https://www.newsis.com/view/NISX20261123_0003878775"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "sonicLAB Updates SSNN With Neural Buffer FM, Expanded Network Controls",
+      "url": "https://www.synthtopia.com/content/2026/11/23/soniclab-updates-ssnn-with-neural-buffer-fm-expanded-network-controls/"
     }
   ]
 }

@@ -1,221 +1,251 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "section": "gadgets",
   "cards": [
     {
-      "id": "dutch-ap-camera-glasses",
+      "id": "pocketalk-x-desk-translator",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "네덜란드 규제 당국\nAI 카메라 안경 경고",
-      "body": "네덜란드 당국이 주변인 사생활과 안전을 들어 AI 카메라 안경 구매를 만류했다.",
-      "mini_headline": "네덜란드 당국 vs AI 안경",
+      "headline": "Pocketalk X\n책상 위 AI 양방향 번역",
+      "body": "Pocketalk X는 10.25인치 화면 두 개로 44개 언어를 번역한다.",
+      "mini_headline": "Pocketalk X 데스크 번역기",
       "tool": "Gadgets",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Pocketalk-X-brings-hands-free-translation-in-44-languages-to-dual-displays.1458761.0.html",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
-            "cap": "이미지 출처: David Paul Morris/Bloomberg / Getty Images"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
+            "cap": "Pocketalk X는 듀얼 터치스크린과 지향성 마이크를 갖췄다"
           },
           {
             "t": "p",
-            "x": "네덜란드 데이터보호청이 소비자에게 AI 카메라 안경(AI-enabled)을 사지 말라고 당부했다. 주변 사람의 사생활을 침해하고 착용자 안전까지 위협한다는 이유다."
+            "x": "처음 공개한 지 한 해 남짓 만에 일본 번역 기술 전문 기업 Pocketalk가 첫 데스크톱 AI 번역기 Pocketalk X의 상용 출시를 확정했다. 호텔 프런트나 공항, 병원, 식당처럼 말이 통하지 않아 간단한 응대조차 어려운 곳에서 얼굴을 맞댄 대화를 돕는 기기다."
           },
           {
             "t": "p",
-            "x": "데이터보호청은 최근 성명에서 전면 금지 일보 직전까지 갔다. 늘 켜진 채 인터넷에 연결되는 이 안경으로 공공장소에서 사람을 찍는 일은 “거의 언제나 금지된다”고 했다."
+            "x": "카운터에 올려 두는 10.25인치 터치스크린이 두 개라 기기를 주고받지 않아도 양쪽이 각자 번역문을 읽는다. 화면 하나는 떼어 내 본체에서 약 30 cm 떨어진 곳에 둘 수 있어 보호 칸막이가 있는 카운터에도 잘 맞는다."
           },
           {
             "t": "p",
-            "x": "비판론자들은 이 스마트 웨어러블을 “변태 안경”이라 부른다. 동의 없이 사람을 찍는 데, 특히 여성을 괴롭히는 데 쓰이기 쉬워서다. 녹화 중 경고등이 켜지는 안경도 있지만 개인정보 보호 활동가들은 이 신호가 충분히 눈에 띄지 않는다고 지적해 왔다. 근처의 스마트 안경 착용자를 감지하는 휴대폰 앱을 만든 이들까지 나왔다."
+            "x": "44개 언어 양방향 번역과 음성 언어 자동 감지를 지원하고 AI 기반(AI-powered) 노이즈 캔슬링을 갖춘 지향성 마이크도 두 개 달았다. 사람이 다가오면 근접 센서가 화면을 켠다. 번역은 클라우드에서 처리하고 언어 쌍마다 AI 번역 엔진을 자동으로 고르는 방식이라 인터넷에 늘 연결돼 있어야 한다. 듀얼 밴드 Wi-Fi 5는 되지만 셀룰러 연결은 없다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
+            "cap": "Pocketalk X는 44개 언어 핸즈프리 번역을 지원한다"
           },
           {
             "t": "p",
-            "x": "데이터보호청은 이 안경이 틀리거나 위험한 답을 내놓기도 한다고 경고했다. 당국 테스트에서 이름을 밝히지 않은 한 안경은 “미성년자에게 관심이 있다고 밝힌 성인에게 연애 조언을 했다.” 약 라벨을 잘못 읽었고, 구급차를 부르지 않고도 불렀다고 답했다."
+            "x": "무게는 모두 합쳐 약 2.2 kg이며 전원은 45 W 이상 USB-C 어댑터로 공급한다. 2026년 10월 오사카 간사이국제공항 실증 등 현장 시험을 마치고 12월 18일 일본에서 ¥440,000(약 $2,765)에 나온다. 가격에는 두 해치 소프트웨어 이용권이 들어 있고 그 뒤로는 해마다 ¥132,000($830)를 내야 한다. 대여는 월 ¥22,000($138)부터다."
           },
           {
-            "t": "p",
-            "x": "네덜란드 정부의 이번 권고는 노르웨이 정부의 비슷한 행보를 뒤따랐다. 노르웨이 정부는 9월 카메라 탑재 기기 금지를 검토 중이라고 밝혔다."
+            "t": "video",
+            "yt": "1nVgFoCTBD4"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Dutch regulator warns\nagainst AI camera glasses",
-          "body": "The Dutch privacy regulator urges consumers not to buy AI camera glasses, citing bystander privacy and safety.",
-          "mini_headline": "Dutch regulator vs AI glasses",
+          "headline": "Pocketalk X puts two-way\nAI translation on a desk",
+          "body": "Pocketalk X pairs two 10.25-inch touchscreens with hands-free translation across 44 languages.",
+          "mini_headline": "Pocketalk X desk translator",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
-                "cap": "Image Credits:David Paul Morris/Bloomberg / Getty Images"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
+                "cap": "Pocketalk X features dual touchscreens and directional microphones"
               },
               {
                 "t": "p",
-                "x": "The Dutch Data Protection Authority is urging consumers not to buy AI-enabled camera glasses, warning that they compromise the privacy of nearby bystanders and risk the safety of their users."
+                "x": "A little over a year after its initial announcement, Japanese translation technology specialist Pocketalk has confirmed the commercial release of the Pocketalk X, its first desktop AI translation device. It is designed for face-to-face conversations at hotel reception desks, airports, hospitals, restaurants and other places where language barriers complicate simple interactions."
               },
               {
                 "t": "p",
-                "x": "The authority, whose recent statement falls just short of an outright ban, said that use of the internet-enabled and always-on glasses to record people in public is “almost always prohibited.”"
+                "x": "The Pocketalk X comes with two 10.25-inch touchscreens meant to sit on a counter, so both participants can read translations without passing a device back and forth. One screen can be detached and positioned approximately 30 cm from the main unit, suiting counters with protective partitions."
               },
               {
                 "t": "p",
-                "x": "Critics have dubbed these smart wearables as “pervert glasses” for their propensity to be used to video people without their permission, particularly to harass women. While some glasses have warning lights when users are recording, privacy advocates have argued that these alerts are not clear enough. Some people have even made phone apps capable of detecting nearby smart glasses wearers."
+                "x": "It supports two-way translation in 44 languages, automatic spoken-language detection and two directional microphones with AI-powered noise cancellation. A proximity sensor wakes the displays when someone approaches. Translation is handled in the cloud, with the system automatically selecting an AI translation engine according to the language pair, so an internet connection is always required; it has dual-band Wi-Fi 5 but no cellular connectivity."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
+                "cap": "Pocketalk X supports hands-free translation in 44 languages"
               },
               {
                 "t": "p",
-                "x": "The Dutch data protection authority warned that the glasses also produce wrong results and unsafe results. In one test carried out by the Dutch authority, a pair of unnamed glasses “gave dating advice to an adult who indicated that they are interested in a minor.” The glasses also incorrectly read a medicine label and claimed to have called an ambulance when it had not."
+                "x": "The setup weighs approximately 2.2 kg and needs a USB-C power supply of 45 W or higher. After real-world trials, including one at Osaka's Kansai International Airport in October 2026, it goes on sale in Japan on December 18 for ¥440,000 (approximately $2,765), including two years of software access, followed by an annual fee of ¥132,000 ($830). Rental starts at ¥22,000 ($138) per month."
               },
               {
-                "t": "p",
-                "x": "The Dutch government’s advice follows a similar move by the Norwegian government, which in September said it was considering a ban on camera-enabled devices."
+                "t": "video",
+                "yt": "1nVgFoCTBD4"
               }
             ]
           }
         },
         "ko": {
-          "headline": "네덜란드 규제 당국\nAI 카메라 안경 경고",
-          "body": "네덜란드 당국이 주변인 사생활과 안전을 들어 AI 카메라 안경 구매를 만류했다.",
-          "mini_headline": "네덜란드 당국 vs AI 안경",
+          "headline": "Pocketalk X\n책상 위 AI 양방향 번역",
+          "body": "Pocketalk X는 10.25인치 화면 두 개로 44개 언어를 번역한다.",
+          "mini_headline": "Pocketalk X 데스크 번역기",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
-                "cap": "이미지 출처: David Paul Morris/Bloomberg / Getty Images"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
+                "cap": "Pocketalk X는 듀얼 터치스크린과 지향성 마이크를 갖췄다"
               },
               {
                 "t": "p",
-                "x": "네덜란드 데이터보호청이 소비자에게 AI 카메라 안경(AI-enabled)을 사지 말라고 당부했다. 주변 사람의 사생활을 침해하고 착용자 안전까지 위협한다는 이유다."
+                "x": "처음 공개한 지 한 해 남짓 만에 일본 번역 기술 전문 기업 Pocketalk가 첫 데스크톱 AI 번역기 Pocketalk X의 상용 출시를 확정했다. 호텔 프런트나 공항, 병원, 식당처럼 말이 통하지 않아 간단한 응대조차 어려운 곳에서 얼굴을 맞댄 대화를 돕는 기기다."
               },
               {
                 "t": "p",
-                "x": "데이터보호청은 최근 성명에서 전면 금지 일보 직전까지 갔다. 늘 켜진 채 인터넷에 연결되는 이 안경으로 공공장소에서 사람을 찍는 일은 “거의 언제나 금지된다”고 했다."
+                "x": "카운터에 올려 두는 10.25인치 터치스크린이 두 개라 기기를 주고받지 않아도 양쪽이 각자 번역문을 읽는다. 화면 하나는 떼어 내 본체에서 약 30 cm 떨어진 곳에 둘 수 있어 보호 칸막이가 있는 카운터에도 잘 맞는다."
               },
               {
                 "t": "p",
-                "x": "비판론자들은 이 스마트 웨어러블을 “변태 안경”이라 부른다. 동의 없이 사람을 찍는 데, 특히 여성을 괴롭히는 데 쓰이기 쉬워서다. 녹화 중 경고등이 켜지는 안경도 있지만 개인정보 보호 활동가들은 이 신호가 충분히 눈에 띄지 않는다고 지적해 왔다. 근처의 스마트 안경 착용자를 감지하는 휴대폰 앱을 만든 이들까지 나왔다."
+                "x": "44개 언어 양방향 번역과 음성 언어 자동 감지를 지원하고 AI 기반(AI-powered) 노이즈 캔슬링을 갖춘 지향성 마이크도 두 개 달았다. 사람이 다가오면 근접 센서가 화면을 켠다. 번역은 클라우드에서 처리하고 언어 쌍마다 AI 번역 엔진을 자동으로 고르는 방식이라 인터넷에 늘 연결돼 있어야 한다. 듀얼 밴드 Wi-Fi 5는 되지만 셀룰러 연결은 없다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
+                "cap": "Pocketalk X는 44개 언어 핸즈프리 번역을 지원한다"
               },
               {
                 "t": "p",
-                "x": "데이터보호청은 이 안경이 틀리거나 위험한 답을 내놓기도 한다고 경고했다. 당국 테스트에서 이름을 밝히지 않은 한 안경은 “미성년자에게 관심이 있다고 밝힌 성인에게 연애 조언을 했다.” 약 라벨을 잘못 읽었고, 구급차를 부르지 않고도 불렀다고 답했다."
+                "x": "무게는 모두 합쳐 약 2.2 kg이며 전원은 45 W 이상 USB-C 어댑터로 공급한다. 2026년 10월 오사카 간사이국제공항 실증 등 현장 시험을 마치고 12월 18일 일본에서 ¥440,000(약 $2,765)에 나온다. 가격에는 두 해치 소프트웨어 이용권이 들어 있고 그 뒤로는 해마다 ¥132,000($830)를 내야 한다. 대여는 월 ¥22,000($138)부터다."
               },
               {
-                "t": "p",
-                "x": "네덜란드 정부의 이번 권고는 노르웨이 정부의 비슷한 행보를 뒤따랐다. 노르웨이 정부는 9월 카메라 탑재 기기 금지를 검토 중이라고 밝혔다."
+                "t": "video",
+                "yt": "1nVgFoCTBD4"
               }
             ]
           }
         },
         "ja": {
-          "headline": "オランダ当局が\nAIカメラ眼鏡に警告",
-          "body": "オランダ当局が、周囲の人のプライバシーと安全を理由にAIカメラ眼鏡を買わないよう求めた。",
-          "mini_headline": "オランダ当局 vs AIグラス",
+          "headline": "Pocketalk X\n卓上で双方向AI翻訳",
+          "body": "Pocketalk Xは10.25インチの画面2枚で44言語のハンズフリー翻訳に対応する。",
+          "mini_headline": "Pocketalk X 卓上翻訳機",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
-                "cap": "画像クレジット: David Paul Morris/Bloomberg / Getty Images"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
+                "cap": "Pocketalk Xはデュアルタッチスクリーンと指向性マイクを備える"
               },
               {
                 "t": "p",
-                "x": "オランダのデータ保護当局は、AI-enabled(AI搭載)のカメラ眼鏡を購入しないよう消費者に呼びかけている。周囲にいる人々のプライバシーを損ない、利用者自身の安全も脅かすと警告している。"
+                "x": "最初の発表から一年余り、日本の翻訳技術専門企業Pocketalkは、同社初のデスクトップ型AI翻訳機Pocketalk Xの商用発売を正式に決めた。ホテルのフロント、空港、病院、レストランなど、言葉の壁が簡単なやり取りさえ難しくする場所での対面会話を想定している。"
               },
               {
                 "t": "p",
-                "x": "当局の最新の声明は全面禁止の一歩手前にとどまるものの、インターネットにつながり常時オンのこの眼鏡で公共の場の人々を撮影することは「ほぼ常に禁止される」としている。"
+                "x": "Pocketalk Xはカウンターに置く10.25インチのタッチスクリーンを2枚備え、端末を手渡ししなくても双方がそれぞれ翻訳を読める。一方の画面は取り外して本体から約30 cm 離して置けるため、仕切り板のあるカウンターにも向く。"
               },
               {
                 "t": "p",
-                "x": "批判する人々は、こうしたスマートウェアラブルを「変態眼鏡」と呼ぶ。本人の許可なく人を撮影すること、とりわけ女性への嫌がらせに使われやすいためだ。録画中に警告ランプが点く製品もあるが、プライバシー擁護派はその表示が十分に分かりやすくないと主張してきた。近くのスマートグラス装着者を検知できるスマホアプリを作った人までいる。"
+                "x": "44言語の双方向翻訳、話し言葉の自動判別、AI-poweredのノイズキャンセリングを備えた指向性マイク2基に対応する。近接センサーが人の接近を検知すると画面が起動する。翻訳はクラウドで処理し、言語の組み合わせに応じてAI翻訳エンジンを自動で選ぶため、常にインターネット接続が必要だ。デュアルバンドのWi-Fi 5は備えるが、セルラー通信には対応しない。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
+                "cap": "Pocketalk Xは44言語のハンズフリー翻訳に対応する"
               },
               {
                 "t": "p",
-                "x": "オランダのデータ保護当局は、この眼鏡が誤った結果や危険な結果を出すこともあると警告した。当局が実施したあるテストでは、名称非公表の眼鏡が「未成年者に関心があると示した成人に恋愛のアドバイスをした」。さらに薬のラベルを読み間違え、救急車を呼んでいないのに呼んだと主張した。"
+                "x": "本体一式の重さは約2.2 kg、電源には45 W 以上のUSB-C電源が必要だ。2026年10月の大阪・関西国際空港での実証を含む実地試験を経て、12月18日に日本で¥440,000（約$2,765）で発売される。価格には二年間のソフトウェア利用権が含まれ、その後は年額¥132,000（$830）がかかる。レンタルは月額¥22,000（$138）からだ。"
               },
               {
-                "t": "p",
-                "x": "オランダ政府の今回の勧告は、ノルウェー政府の同様の動きに続くものだ。ノルウェー政府は9月、カメラ搭載機器の禁止を検討していると明らかにしていた。"
+                "t": "video",
+                "yt": "1nVgFoCTBD4"
               }
             ]
           }
         },
         "zh": {
-          "headline": "荷兰监管机构\n警告AI摄像眼镜",
-          "body": "荷兰隐私监管机构以旁人隐私和安全为由，呼吁消费者不要购买AI摄像眼镜。",
-          "mini_headline": "荷兰监管机构 vs AI眼镜",
+          "headline": "Pocketalk X\n桌上双向AI翻译",
+          "body": "Pocketalk X配备两块10.25英寸触屏，支持44种语言免提翻译。",
+          "mini_headline": "Pocketalk X桌面翻译机",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
-                "cap": "图片来源：David Paul Morris/Bloomberg / Getty Images"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
+                "cap": "Pocketalk X配备双触摸屏和定向麦克风"
               },
               {
                 "t": "p",
-                "x": "荷兰数据保护局正呼吁消费者不要购买AI-enabled（具备AI功能的）摄像眼镜，警告称这类眼镜会侵犯周围旁人的隐私，并危及使用者自身的安全。"
+                "x": "在首次发布一年多之后，日本翻译技术专业公司Pocketalk确认其首款桌面AI翻译设备Pocketalk X正式商用上市。该设备面向酒店前台、机场、医院、餐厅等语言障碍让简单交流变得复杂的场所，用于面对面交谈。"
               },
               {
                 "t": "p",
-                "x": "该机构最近的声明虽未达到全面禁令的程度，但表示，使用这种联网且始终开启的眼镜在公共场所拍摄他人，“几乎总是被禁止的”。"
+                "x": "Pocketalk X配备两块10.25英寸触摸屏，可放在柜台上，双方无需来回传递设备即可阅读译文。其中一块屏幕可以拆下，放在距主机约30 cm处，适合设有防护隔板的柜台。"
               },
               {
                 "t": "p",
-                "x": "批评者把这类智能穿戴设备称为“变态眼镜”，因为它们容易被用来在未经许可的情况下拍摄他人，尤其是骚扰女性。虽然部分眼镜在录制时会亮起提示灯，但隐私倡导者认为这些提示不够明显。甚至有人开发了能够检测附近智能眼镜佩戴者的手机应用。"
+                "x": "它支持44种语言双向翻译、口语语种自动识别，以及两个带AI-powered降噪功能的定向麦克风。有人靠近时，接近传感器会唤醒屏幕。翻译在云端完成，系统会根据语言组合自动选择AI翻译引擎，因此始终需要联网；设备支持双频Wi-Fi 5，但不支持蜂窝网络。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
+                "cap": "Pocketalk X支持44种语言免提翻译"
               },
               {
                 "t": "p",
-                "x": "荷兰数据保护局警告称，这类眼镜还会给出错误和不安全的结果。在该机构进行的一项测试中，一副未具名的眼镜“向一名表示对未成年人感兴趣的成年人提供了约会建议”。这副眼镜还读错了药品标签，并声称已呼叫救护车，实际上却没有。"
+                "x": "整套设备重约2.2 kg，需要45 W 或以上的USB-C电源。经过包括2026年10月在大阪关西国际机场在内的实地试用后，它将于12月18日在日本发售，售价¥440,000（约$2,765），含两年软件使用权，此后每年收费¥132,000（$830）。租赁价格为每月¥22,000（$138）起。"
               },
               {
-                "t": "p",
-                "x": "荷兰政府的这一建议，是继挪威政府采取类似举措之后作出的。挪威政府9月表示，正在考虑禁止带摄像头的设备。"
+                "t": "video",
+                "yt": "1nVgFoCTBD4"
               }
             ]
           }
         },
         "es": {
-          "headline": "Regulador neerlandés advierte\ncontra gafas de cámara con IA",
-          "body": "El regulador neerlandés de privacidad pide no comprar gafas con cámara e IA por la privacidad ajena y la seguridad.",
-          "mini_headline": "Regulador neerlandés vs gafas IA",
+          "headline": "Pocketalk X lleva la traducción\nbidireccional AI al escritorio",
+          "body": "Pocketalk X combina dos pantallas táctiles de 10.25 pulgadas con traducción manos libres en 44 idiomas.",
+          "mini_headline": "Pocketalk X, traductor de escritorio",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
-                "cap": "Créditos de imagen: David Paul Morris/Bloomberg / Getty Images"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
+                "cap": "Pocketalk X cuenta con dos pantallas táctiles y micrófonos direccionales"
               },
               {
                 "t": "p",
-                "x": "La Autoridad Neerlandesa de Protección de Datos insta a los consumidores a no comprar gafas con cámara con IA (AI-enabled), y advierte que vulneran la privacidad de las personas cercanas y ponen en riesgo la seguridad de sus usuarios."
+                "x": "Algo más de un año después de su primer anuncio, Pocketalk, empresa japonesa especializada en tecnología de traducción, ha confirmado el lanzamiento comercial de Pocketalk X, su primer dispositivo de traducción AI de escritorio. Está pensado para conversaciones cara a cara en recepciones de hotel, aeropuertos, hospitales, restaurantes y otros lugares donde la barrera del idioma complica interacciones sencillas."
               },
               {
                 "t": "p",
-                "x": "La autoridad, cuya reciente declaración se queda a las puertas de una prohibición total, afirmó que usar estas gafas conectadas a internet y siempre encendidas para grabar a personas en público está “casi siempre prohibido”."
+                "x": "Pocketalk X incluye dos pantallas táctiles de 10.25 pulgadas pensadas para colocarse sobre un mostrador, de modo que ambos interlocutores puedan leer las traducciones sin pasarse el dispositivo. Una de las pantallas puede separarse y situarse a unos 30 cm de la unidad principal, lo que la adapta a mostradores con mamparas protectoras."
               },
               {
                 "t": "p",
-                "x": "Los críticos han apodado a estos dispositivos “gafas de pervertido” por la facilidad con que se usan para grabar a personas sin su permiso, en particular para acosar a mujeres. Aunque algunas gafas tienen luces de aviso cuando graban, los defensores de la privacidad sostienen que esas alertas no son lo bastante claras. Algunas personas incluso han creado aplicaciones móviles capaces de detectar a usuarios de gafas inteligentes cercanos."
+                "x": "Admite traducción bidireccional en 44 idiomas, detección automática del idioma hablado y dos micrófonos direccionales con cancelación de ruido AI-powered. Un sensor de proximidad enciende las pantallas cuando alguien se acerca. La traducción se procesa en la nube y el sistema elige automáticamente un motor de traducción AI según el par de idiomas, por lo que siempre necesita conexión a internet; tiene Wi-Fi 5 de doble banda, pero no conectividad móvil."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
+                "cap": "Pocketalk X admite traducción manos libres en 44 idiomas"
               },
               {
                 "t": "p",
-                "x": "La autoridad neerlandesa advirtió que las gafas también dan resultados erróneos e inseguros. En una prueba realizada por el organismo, unas gafas sin nombre “dieron consejos para citas a un adulto que indicó estar interesado en un menor”. Las gafas también leyeron mal la etiqueta de un medicamento y afirmaron haber llamado a una ambulancia sin haberlo hecho."
+                "x": "El conjunto pesa unos 2.2 kg y necesita una fuente de alimentación USB-C de 45 W o más. Tras pruebas reales, entre ellas una en el Aeropuerto Internacional de Kansai, en Osaka, en octubre de 2026, saldrá a la venta en Japón el 18 de diciembre por ¥440,000 (unos $2,765), con dos años de acceso al software incluidos; después se cobrará una cuota anual de ¥132,000 ($830). El alquiler parte de ¥22,000 ($138) al mes."
               },
               {
-                "t": "p",
-                "x": "El consejo del Gobierno neerlandés sigue a una medida similar del Gobierno noruego, que en septiembre dijo estar estudiando prohibir los dispositivos con cámara."
+                "t": "video",
+                "yt": "1nVgFoCTBD4"
               }
             ]
           }
@@ -223,141 +253,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "네덜란드 규제 당국\nAI 카메라 안경 경고",
-          "body": "네덜란드 당국이 주변인 사생활과 안전을 들어 AI 카메라 안경 구매를 만류했다.",
-          "mini_headline": "네덜란드 당국 vs AI 안경",
+          "headline": "Pocketalk X\n책상 위 AI 양방향 번역",
+          "body": "Pocketalk X는 10.25인치 화면 두 개로 44개 언어를 번역한다.",
+          "mini_headline": "Pocketalk X 데스크 번역기",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
-                "cap": "이미지 출처: David Paul Morris/Bloomberg / Getty Images"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
+                "cap": "Pocketalk X는 듀얼 터치스크린과 지향성 마이크를 갖췄다"
               },
               {
                 "t": "p",
-                "x": "네덜란드 데이터보호청은 소비자들에게 AI 카메라 안경(AI-enabled)을 사지 말라고 촉구했다. 주변 사람들의 사생활을 침해하고 착용자의 안전까지 위협한다는 경고다."
+                "x": "첫 발표 후 한 해 남짓 지나, 일본 번역 기술 전문 기업 Pocketalk가 첫 데스크톱 AI 번역 기기인 Pocketalk X의 상용 출시를 확정했다. 호텔 프런트, 공항, 병원, 식당처럼 언어 장벽 때문에 간단한 응대조차 어려운 곳에서 대면 대화를 돕도록 설계했다."
               },
               {
                 "t": "p",
-                "x": "데이터보호청은 최근 성명에서 전면 금지 직전까지 나아갔다. 인터넷에 연결된 채 늘 켜져 있는 이 안경으로 공공장소에서 사람을 촬영하는 행위는 “거의 언제나 금지된다”고 밝혔다."
+                "x": "Pocketalk X는 카운터에 올려 두는 10.25인치 터치스크린 두 개를 갖춰, 기기를 주고받지 않아도 양쪽이 각자 번역문을 읽을 수 있다. 화면 하나는 떼어 내 본체에서 약 30 cm 떨어진 곳에 둘 수 있어 보호 칸막이가 있는 카운터에도 알맞다."
               },
               {
                 "t": "p",
-                "x": "비판론자들은 이 스마트 웨어러블을 “변태 안경”이라 부른다. 동의 없이 사람을 촬영하는 데, 특히 여성을 괴롭히는 데 쓰이기 쉽다는 이유에서다. 일부 안경은 녹화 중에 경고등이 켜지지만, 개인정보 보호 활동가들은 이 신호가 충분히 분명하지 않다고 주장해 왔다. 주변의 스마트 안경 착용자를 감지하는 휴대폰 앱을 만든 사람들까지 있다."
+                "x": "44개 언어 양방향 번역, 음성 언어 자동 감지, AI 기반(AI-powered) 노이즈 캔슬링을 갖춘 지향성 마이크 두 개를 지원한다. 근접 센서는 사람이 다가오면 화면을 켠다. 번역은 클라우드에서 처리하며 언어 쌍에 따라 AI 번역 엔진을 자동으로 고르기 때문에 인터넷 연결이 늘 필요하다. 듀얼 밴드 Wi-Fi 5를 지원하지만 셀룰러 연결은 없다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
+                "cap": "Pocketalk X는 44개 언어 핸즈프리 번역을 지원한다"
               },
               {
                 "t": "p",
-                "x": "네덜란드 데이터보호청은 이 안경이 틀리거나 위험한 결과를 내놓기도 한다고 경고했다. 당국이 진행한 한 테스트에서 이름을 밝히지 않은 한 안경은 “미성년자에게 관심이 있다고 밝힌 성인에게 연애 조언을 했다.” 이 안경은 약 라벨도 잘못 읽었고, 구급차를 부르지 않았는데도 불렀다고 답했다."
+                "x": "전체 무게는 약 2.2 kg, 전원은 45 W 이상의 USB-C 어댑터가 필요하다. 2026년 10월 오사카 간사이국제공항 실증을 비롯한 현장 시험을 거쳐 12월 18일 일본에서 ¥440,000(약 $2,765)에 판매를 시작한다. 이 가격에는 두 해 동안의 소프트웨어 이용권이 포함되며, 이후에는 연간 ¥132,000($830)의 요금이 붙는다. 대여는 월 ¥22,000($138)부터다."
               },
               {
-                "t": "p",
-                "x": "네덜란드 정부의 이번 권고는 노르웨이 정부의 비슷한 움직임에 뒤이은 것이다. 노르웨이 정부는 9월 카메라 탑재 기기 금지를 검토하고 있다고 밝힌 바 있다."
+                "t": "video",
+                "yt": "1nVgFoCTBD4"
               }
             ]
           }
         },
         "ja": {
-          "headline": "オランダ当局が\nAIカメラ眼鏡に警告",
-          "body": "オランダ当局が、周囲の人のプライバシーと安全を理由にAIカメラ眼鏡を買わないよう求めた。",
-          "mini_headline": "オランダ当局 vs AIグラス",
+          "headline": "Pocketalk X\n卓上で双方向AI翻訳",
+          "body": "Pocketalk Xは10.25インチの画面2枚で44言語のハンズフリー翻訳に対応する。",
+          "mini_headline": "Pocketalk X 卓上翻訳機",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
-                "cap": "画像クレジット: David Paul Morris/Bloomberg / Getty Images"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
+                "cap": "Pocketalk Xはデュアルタッチスクリーンと指向性マイクを備える"
               },
               {
                 "t": "p",
-                "x": "オランダのデータ保護当局は、AI-enabled(AI搭載)のカメラ眼鏡を購入しないよう消費者に呼びかけている。周囲にいる人々のプライバシーを損ない、利用者自身の安全も脅かすと警告している。"
+                "x": "最初の発表から一年余り、日本の翻訳技術専門企業Pocketalkは、同社初のデスクトップ型AI翻訳機Pocketalk Xの商用発売を正式に決めた。ホテルのフロント、空港、病院、レストランなど、言葉の壁が簡単なやり取りさえ難しくする場所での対面会話を想定している。"
               },
               {
                 "t": "p",
-                "x": "当局の最新の声明は全面禁止の一歩手前にとどまるものの、インターネットにつながり常時オンのこの眼鏡で公共の場の人々を撮影することは「ほぼ常に禁止される」としている。"
+                "x": "Pocketalk Xはカウンターに置く10.25インチのタッチスクリーンを2枚備え、端末を手渡ししなくても双方がそれぞれ翻訳を読める。一方の画面は取り外して本体から約30 cm 離して置けるため、仕切り板のあるカウンターにも向く。"
               },
               {
                 "t": "p",
-                "x": "批判する人々は、こうしたスマートウェアラブルを「変態眼鏡」と呼ぶ。本人の許可なく人を撮影すること、とりわけ女性への嫌がらせに使われやすいためだ。録画中に警告ランプが点く製品もあるが、プライバシー擁護派はその表示が十分に分かりやすくないと主張してきた。近くのスマートグラス装着者を検知できるスマホアプリを作った人までいる。"
+                "x": "44言語の双方向翻訳、話し言葉の自動判別、AI-poweredのノイズキャンセリングを備えた指向性マイク2基に対応する。近接センサーが人の接近を検知すると画面が起動する。翻訳はクラウドで処理し、言語の組み合わせに応じてAI翻訳エンジンを自動で選ぶため、常にインターネット接続が必要だ。デュアルバンドのWi-Fi 5は備えるが、セルラー通信には対応しない。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
+                "cap": "Pocketalk Xは44言語のハンズフリー翻訳に対応する"
               },
               {
                 "t": "p",
-                "x": "オランダのデータ保護当局は、この眼鏡が誤った結果や危険な結果を出すこともあると警告した。当局が実施したあるテストでは、名称非公表の眼鏡が「未成年者に関心があると示した成人に恋愛のアドバイスをした」。さらに薬のラベルを読み間違え、救急車を呼んでいないのに呼んだと主張した。"
+                "x": "本体一式の重さは約2.2 kg、電源には45 W 以上のUSB-C電源が必要だ。2026年10月の大阪・関西国際空港での実証を含む実地試験を経て、12月18日に日本で¥440,000（約$2,765）で発売される。価格には二年間のソフトウェア利用権が含まれ、その後は年額¥132,000（$830）がかかる。レンタルは月額¥22,000（$138）からだ。"
               },
               {
-                "t": "p",
-                "x": "オランダ政府の今回の勧告は、ノルウェー政府の同様の動きに続くものだ。ノルウェー政府は9月、カメラ搭載機器の禁止を検討していると明らかにしていた。"
+                "t": "video",
+                "yt": "1nVgFoCTBD4"
               }
             ]
           }
         },
         "zh": {
-          "headline": "荷兰监管机构\n警告AI摄像眼镜",
-          "body": "荷兰隐私监管机构以旁人隐私和安全为由，呼吁消费者不要购买AI摄像眼镜。",
-          "mini_headline": "荷兰监管机构 vs AI眼镜",
+          "headline": "Pocketalk X\n桌上双向AI翻译",
+          "body": "Pocketalk X配备两块10.25英寸触屏，支持44种语言免提翻译。",
+          "mini_headline": "Pocketalk X桌面翻译机",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
-                "cap": "图片来源：David Paul Morris/Bloomberg / Getty Images"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
+                "cap": "Pocketalk X配备双触摸屏和定向麦克风"
               },
               {
                 "t": "p",
-                "x": "荷兰数据保护局正呼吁消费者不要购买AI-enabled（具备AI功能的）摄像眼镜，警告称这类眼镜会侵犯周围旁人的隐私，并危及使用者自身的安全。"
+                "x": "在首次发布一年多之后，日本翻译技术专业公司Pocketalk确认其首款桌面AI翻译设备Pocketalk X正式商用上市。该设备面向酒店前台、机场、医院、餐厅等语言障碍让简单交流变得复杂的场所，用于面对面交谈。"
               },
               {
                 "t": "p",
-                "x": "该机构最近的声明虽未达到全面禁令的程度，但表示，使用这种联网且始终开启的眼镜在公共场所拍摄他人，“几乎总是被禁止的”。"
+                "x": "Pocketalk X配备两块10.25英寸触摸屏，可放在柜台上，双方无需来回传递设备即可阅读译文。其中一块屏幕可以拆下，放在距主机约30 cm处，适合设有防护隔板的柜台。"
               },
               {
                 "t": "p",
-                "x": "批评者把这类智能穿戴设备称为“变态眼镜”，因为它们容易被用来在未经许可的情况下拍摄他人，尤其是骚扰女性。虽然部分眼镜在录制时会亮起提示灯，但隐私倡导者认为这些提示不够明显。甚至有人开发了能够检测附近智能眼镜佩戴者的手机应用。"
+                "x": "它支持44种语言双向翻译、口语语种自动识别，以及两个带AI-powered降噪功能的定向麦克风。有人靠近时，接近传感器会唤醒屏幕。翻译在云端完成，系统会根据语言组合自动选择AI翻译引擎，因此始终需要联网；设备支持双频Wi-Fi 5，但不支持蜂窝网络。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
+                "cap": "Pocketalk X支持44种语言免提翻译"
               },
               {
                 "t": "p",
-                "x": "荷兰数据保护局警告称，这类眼镜还会给出错误和不安全的结果。在该机构进行的一项测试中，一副未具名的眼镜“向一名表示对未成年人感兴趣的成年人提供了约会建议”。这副眼镜还读错了药品标签，并声称已呼叫救护车，实际上却没有。"
+                "x": "整套设备重约2.2 kg，需要45 W 或以上的USB-C电源。经过包括2026年10月在大阪关西国际机场在内的实地试用后，它将于12月18日在日本发售，售价¥440,000（约$2,765），含两年软件使用权，此后每年收费¥132,000（$830）。租赁价格为每月¥22,000（$138）起。"
               },
               {
-                "t": "p",
-                "x": "荷兰政府的这一建议，是继挪威政府采取类似举措之后作出的。挪威政府9月表示，正在考虑禁止带摄像头的设备。"
+                "t": "video",
+                "yt": "1nVgFoCTBD4"
               }
             ]
           }
         },
         "es": {
-          "headline": "Regulador neerlandés advierte\ncontra gafas de cámara con IA",
-          "body": "El regulador neerlandés de privacidad pide no comprar gafas con cámara e IA por la privacidad ajena y la seguridad.",
-          "mini_headline": "Regulador neerlandés vs gafas IA",
+          "headline": "Pocketalk X lleva la traducción\nbidireccional AI al escritorio",
+          "body": "Pocketalk X combina dos pantallas táctiles de 10.25 pulgadas con traducción manos libres en 44 idiomas.",
+          "mini_headline": "Pocketalk X, traductor de escritorio",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
-                "cap": "Créditos de imagen: David Paul Morris/Bloomberg / Getty Images"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
+                "cap": "Pocketalk X cuenta con dos pantallas táctiles y micrófonos direccionales"
               },
               {
                 "t": "p",
-                "x": "La Autoridad Neerlandesa de Protección de Datos insta a los consumidores a no comprar gafas con cámara con IA (AI-enabled), y advierte que vulneran la privacidad de las personas cercanas y ponen en riesgo la seguridad de sus usuarios."
+                "x": "Algo más de un año después de su primer anuncio, Pocketalk, empresa japonesa especializada en tecnología de traducción, ha confirmado el lanzamiento comercial de Pocketalk X, su primer dispositivo de traducción AI de escritorio. Está pensado para conversaciones cara a cara en recepciones de hotel, aeropuertos, hospitales, restaurantes y otros lugares donde la barrera del idioma complica interacciones sencillas."
               },
               {
                 "t": "p",
-                "x": "La autoridad, cuya reciente declaración se queda a las puertas de una prohibición total, afirmó que usar estas gafas conectadas a internet y siempre encendidas para grabar a personas en público está “casi siempre prohibido”."
+                "x": "Pocketalk X incluye dos pantallas táctiles de 10.25 pulgadas pensadas para colocarse sobre un mostrador, de modo que ambos interlocutores puedan leer las traducciones sin pasarse el dispositivo. Una de las pantallas puede separarse y situarse a unos 30 cm de la unidad principal, lo que la adapta a mostradores con mamparas protectoras."
               },
               {
                 "t": "p",
-                "x": "Los críticos han apodado a estos dispositivos “gafas de pervertido” por la facilidad con que se usan para grabar a personas sin su permiso, en particular para acosar a mujeres. Aunque algunas gafas tienen luces de aviso cuando graban, los defensores de la privacidad sostienen que esas alertas no son lo bastante claras. Algunas personas incluso han creado aplicaciones móviles capaces de detectar a usuarios de gafas inteligentes cercanos."
+                "x": "Admite traducción bidireccional en 44 idiomas, detección automática del idioma hablado y dos micrófonos direccionales con cancelación de ruido AI-powered. Un sensor de proximidad enciende las pantallas cuando alguien se acerca. La traducción se procesa en la nube y el sistema elige automáticamente un motor de traducción AI según el par de idiomas, por lo que siempre necesita conexión a internet; tiene Wi-Fi 5 de doble banda, pero no conectividad móvil."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
+                "cap": "Pocketalk X admite traducción manos libres en 44 idiomas"
               },
               {
                 "t": "p",
-                "x": "La autoridad neerlandesa advirtió que las gafas también dan resultados erróneos e inseguros. En una prueba realizada por el organismo, unas gafas sin nombre “dieron consejos para citas a un adulto que indicó estar interesado en un menor”. Las gafas también leyeron mal la etiqueta de un medicamento y afirmaron haber llamado a una ambulancia sin haberlo hecho."
+                "x": "El conjunto pesa unos 2.2 kg y necesita una fuente de alimentación USB-C de 45 W o más. Tras pruebas reales, entre ellas una en el Aeropuerto Internacional de Kansai, en Osaka, en octubre de 2026, saldrá a la venta en Japón el 18 de diciembre por ¥440,000 (unos $2,765), con dos años de acceso al software incluidos; después se cobrará una cuota anual de ¥132,000 ($830). El alquiler parte de ¥22,000 ($138) al mes."
               },
               {
-                "t": "p",
-                "x": "El consejo del Gobierno neerlandés sigue a una medida similar del Gobierno noruego, que en septiembre dijo estar estudiando prohibir los dispositivos con cámara."
+                "t": "video",
+                "yt": "1nVgFoCTBD4"
               }
             ]
           }
@@ -365,15 +415,15 @@
       }
     },
     {
-      "id": "paradromics-nvidia-bci",
+      "id": "honor-magic9-promax-global",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Paradromics,\nNvidia로 뇌신호 처리",
-      "body": "Paradromics가 Nvidia 하드웨어·소프트웨어로 뇌 데이터를 처리한다.",
-      "mini_headline": "Nvidia가 Paradromics BCI 지원",
+      "headline": "Honor Magic 9\nPro Max 해외 출시",
+      "body": "Honor Magic 9 Pro Max가 AI 버튼 달고 약 $1,457에 나왔다.",
+      "mini_headline": "Honor Magic 9 Pro Max 해외 출시",
       "tool": "Gadgets",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/honor-magic-9-pro-max-first-global-release-3738621/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -381,149 +431,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
           },
           {
             "t": "p",
-            "x": "미시간에 사는 Mary는 운동신경질환을 앓지만 다임 동전만 한 Paradromics 임플란트로 생각을 합성 음성으로 옮긴다. 지금은 음성 해독에 콘센트에 꽂힌 전자 장비를 가득 실은 카트가 필요하다. 한 해 뒤면 Nvidia 기술 덕분에 이 카트가 휠체어에 올려둘 만한 작은 상자로 줄어든다."
+            "x": "HONOR가 Magic 9 Pro Max를 말레이시아에 출시했다. 중국 밖 출시는 이번이 처음이다. 권장 가격은 5,999 말레이시아 링깃(~$1,457)이고 12GB/512GB 한 가지 구성뿐이다. 11월 24일부터 12월 3일까지 사전 주문하면 Google AI Pro 석 달 무료 이용권이 담긴 사은품 패키지를 준다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
           },
           {
             "t": "p",
-            "x": "오스틴에 본사를 둔 Paradromics는 Nvidia의 하드웨어와 소프트웨어로 뇌 데이터를 처리하려고 이 AI 칩 기업과 손잡았다고 발표했다. 임플란트에 심긴 전극은 400개가 넘고, 컴퓨터는 AI로 환자가 하려는 말을 추론한다. Matt Angle CEO는 뇌-컴퓨터 인터페이스를 엣지 컴퓨팅의 궁극적 사례라고 부른다."
+            "x": "카메라는 시네마 카메라 제조사 ARRI와 함께 만들었다. 200MP 1/1.28인치 메인 카메라에 200MP 85mm 망원, 50MP 초광각, 정사각형 55MP 셀피 카메라를 더한 구성이다. 가장 큰 강점은 영상이다. 4K/120fps, ARRI Cinema Mode와 ARRI Looks, LUT와 LogC3 지원, APV 코덱을 갖췄다. 참조 클립의 색을 분석해 새 영상에 같은 룩을 입히는 Magic Color for Video 기능도 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
           },
           {
             "t": "p",
-            "x": "Paradromics는 저전력 컴퓨팅 모듈인 Nvidia의 Jetson으로 사용자 곁의 작은 기기에서 음성을 해독하고 Nvidia의 AI 센서 처리 소프트웨어 Holoscan으로 카메라·마이크와 지연 적은 상호작용을 구현한다. Nvidia의 파운데이션 모델도 통합할 수 있다. 모델을 로컬에서 돌리니 인터넷 연결도 필요 없다. Synchron과도 협력하는 Nvidia는 이번 파트너십으로 뇌 데이터에 접근하지 않는다."
+            "x": "Snapdragon 8 Elite Extreme Gen 6 칩셋에 최대 10,000니트 피크 밝기를 내는 6.8인치 LTPO OLED 패널을 얹었다. MagicOS 11에는 알림 요약과 Payment Trust Space 기능이 더해졌고 전용 카메라 키와 “상황 인식(context-aware)” 지원용 AI 버튼도 달렸다. 이 버튼을 두 번 누르면 Highlight Clip Capture가 실행돼 영상 일부를 잘라 자막을 만든다. 다만 Netflix 스트림처럼 DRM 보호(DRM-protected)가 걸린 영상에서는 작동하지 않는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Paradromics turns to Nvidia\nto process brain data",
-          "body": "Brain-interface maker Paradromics will process neural data on Nvidia's computing hardware and software.",
-          "mini_headline": "Nvidia powers Paradromics BCI",
+          "headline": "Honor Magic 9 Pro Max\nlaunches outside China",
+          "body": "Honor's Magic 9 Pro Max debuts in Malaysia at about $1,457, with an AI button for context-aware help.",
+          "mini_headline": "Honor Magic 9 Pro Max goes global",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
               },
               {
                 "t": "p",
-                "x": "A Michigan woman named Mary has a Paradromics implant roughly the size of a dime that lets her, despite motor neuron disease, express her thoughts through a synthesized voice. The speech decoding currently requires a cart full of electronics plugged into an outlet; a year from now, thanks to Nvidia technology, that cart will become a small box that can sit on her wheelchair."
+                "x": "HONOR has launched the Magic 9 Pro Max in Malaysia, the phone's first release outside China. It has a recommended price of 5,999 Malaysian Ringgits (~$1,457) and comes only in a 12GB/512GB configuration; pre-orders from November 24 to December 3 get a gift bundle that includes three months of free Google AI Pro."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
               },
               {
                 "t": "p",
-                "x": "Austin-based Paradromics announced a partnership with the AI chipmaker to use Nvidia’s hardware and software to process its brain data. The implant uses more than 400 embedded electrodes, and a computer uses AI to infer what she is trying to say. CEO Matt Angle calls brain-computer interfaces the ultimate case for edge computing."
+                "x": "The camera system is built with cinema camera maker ARRI: a 200MP 1/1.28-inch main camera, a 200MP 85mm telephoto, a 50MP ultrawide and a square 55MP selfie camera. Video is its biggest strength, with 4K/120fps, ARRI Cinema Mode and ARRI Looks, LUT and LogC3 support, the APV codec, and a Magic Color for Video feature that analyzes the colors of a reference clip and applies that look to new footage."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
               },
               {
                 "t": "p",
-                "x": "Paradromics will use Nvidia’s Jetson, a low-powered computing module, to do speech decoding in a small device close to the user, and Holoscan, Nvidia’s AI sensor processing software, for low-lag interaction alongside cameras and microphones. It will also be able to integrate Nvidia’s foundation models; running them locally means users won’t need an internet connection. Nvidia, which also works with Synchron, will not have access to brain data through these partnerships."
+                "x": "Inside are a Snapdragon 8 Elite Extreme Gen 6 chipset and a 6.8-inch LTPO OLED panel rated up to 10,000 nits peak. MagicOS 11 adds notification summaries and a Payment Trust Space feature, and the phone gets a dedicated camera key plus an AI button for “context-aware” assistance. Double-clicking it triggers Highlight Clip Capture to grab a snippet of a video and then generate subtitles; it doesn't work with DRM-protected video such as Netflix streams."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Paradromics,\nNvidia로 뇌신호 처리",
-          "body": "Paradromics가 Nvidia 하드웨어·소프트웨어로 뇌 데이터를 처리한다.",
-          "mini_headline": "Nvidia가 Paradromics BCI 지원",
+          "headline": "Honor Magic 9\nPro Max 해외 출시",
+          "body": "Honor Magic 9 Pro Max가 AI 버튼 달고 약 $1,457에 나왔다.",
+          "mini_headline": "Honor Magic 9 Pro Max 해외 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
               },
               {
                 "t": "p",
-                "x": "미시간에 사는 Mary는 운동신경질환을 앓지만 다임 동전만 한 Paradromics 임플란트로 생각을 합성 음성으로 옮긴다. 지금은 음성 해독에 콘센트에 꽂힌 전자 장비를 가득 실은 카트가 필요하다. 한 해 뒤면 Nvidia 기술 덕분에 이 카트가 휠체어에 올려둘 만한 작은 상자로 줄어든다."
+                "x": "HONOR가 Magic 9 Pro Max를 말레이시아에 출시했다. 중국 밖 출시는 이번이 처음이다. 권장 가격은 5,999 말레이시아 링깃(~$1,457)이고 12GB/512GB 한 가지 구성뿐이다. 11월 24일부터 12월 3일까지 사전 주문하면 Google AI Pro 석 달 무료 이용권이 담긴 사은품 패키지를 준다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
               },
               {
                 "t": "p",
-                "x": "오스틴에 본사를 둔 Paradromics는 Nvidia의 하드웨어와 소프트웨어로 뇌 데이터를 처리하려고 이 AI 칩 기업과 손잡았다고 발표했다. 임플란트에 심긴 전극은 400개가 넘고, 컴퓨터는 AI로 환자가 하려는 말을 추론한다. Matt Angle CEO는 뇌-컴퓨터 인터페이스를 엣지 컴퓨팅의 궁극적 사례라고 부른다."
+                "x": "카메라는 시네마 카메라 제조사 ARRI와 함께 만들었다. 200MP 1/1.28인치 메인 카메라에 200MP 85mm 망원, 50MP 초광각, 정사각형 55MP 셀피 카메라를 더한 구성이다. 가장 큰 강점은 영상이다. 4K/120fps, ARRI Cinema Mode와 ARRI Looks, LUT와 LogC3 지원, APV 코덱을 갖췄다. 참조 클립의 색을 분석해 새 영상에 같은 룩을 입히는 Magic Color for Video 기능도 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
               },
               {
                 "t": "p",
-                "x": "Paradromics는 저전력 컴퓨팅 모듈인 Nvidia의 Jetson으로 사용자 곁의 작은 기기에서 음성을 해독하고 Nvidia의 AI 센서 처리 소프트웨어 Holoscan으로 카메라·마이크와 지연 적은 상호작용을 구현한다. Nvidia의 파운데이션 모델도 통합할 수 있다. 모델을 로컬에서 돌리니 인터넷 연결도 필요 없다. Synchron과도 협력하는 Nvidia는 이번 파트너십으로 뇌 데이터에 접근하지 않는다."
+                "x": "Snapdragon 8 Elite Extreme Gen 6 칩셋에 최대 10,000니트 피크 밝기를 내는 6.8인치 LTPO OLED 패널을 얹었다. MagicOS 11에는 알림 요약과 Payment Trust Space 기능이 더해졌고 전용 카메라 키와 “상황 인식(context-aware)” 지원용 AI 버튼도 달렸다. 이 버튼을 두 번 누르면 Highlight Clip Capture가 실행돼 영상 일부를 잘라 자막을 만든다. 다만 Netflix 스트림처럼 DRM 보호(DRM-protected)가 걸린 영상에서는 작동하지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Paradromics、\n脳データ処理にNvidia",
-          "body": "BCI企業Paradromicsは、Nvidiaのハードとソフトで神経データを処理する。",
-          "mini_headline": "NvidiaがParadromicsのBCIを支える",
+          "headline": "Honor Magic 9\nPro Maxが中国外で発売",
+          "body": "AIボタン搭載のHonor Magic 9 Pro Maxが約$1,457で発売された。",
+          "mini_headline": "Honor Magic 9 Pro Maxが海外へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
               },
               {
                 "t": "p",
-                "x": "ミシガン州に住む女性Maryさんは運動ニューロン疾患を抱えながらも、ダイム硬貨ほどの大きさのParadromicsのインプラントによって、合成音声で考えを表現できる。現在、音声のデコードにはコンセントにつながった電子機器満載のカートが必要だが、一年後にはNvidiaの技術によって、そのカートは車椅子に載せられる小さな箱になる。"
+                "x": "HONORはMagic 9 Pro Maxをマレーシアで発売した。中国以外での発売はこれが初めてだ。推奨価格は5,999マレーシアリンギット（~$1,457）で、構成は12GB/512GBのみ。11月24日から12月3日までの予約購入者には、Google AI Proの無料利用三か月分を含む特典パックが付く。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
               },
               {
                 "t": "p",
-                "x": "オースティンに拠点を置くParadromicsは、Nvidiaのハードウェアとソフトウェアで脳データを処理するため、このAIチップメーカーとの提携を発表した。インプラントには400個以上の電極が埋め込まれており、コンピューターがAIを使って彼女が言おうとしていることを推定する。CEOのMatt Angleは、ブレイン・コンピューター・インターフェースをエッジコンピューティングの究極の事例と呼ぶ。"
+                "x": "カメラシステムはシネマカメラメーカーのARRIと共同で開発した。200MPの1/1.28インチメインカメラ、200MPの85mm望遠、50MPの超広角、正方形の55MPセルフィーカメラという構成だ。最大の強みは動画で、4K/120fps、ARRI Cinema ModeとARRI Looks、LUTとLogC3への対応、APVコーデック、さらに参照クリップの色を分析して新しい映像に同じルックを適用するMagic Color for Video機能を備える。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
               },
               {
                 "t": "p",
-                "x": "Paradromicsは、低消費電力のコンピューティングモジュールであるNvidiaのJetsonを使ってユーザーの近くにある小型デバイスで音声デコードを行い、NvidiaのAIセンサー処理ソフトウェアHoloscanを使ってカメラやマイクと連携した低遅延のやり取りを実現する。Nvidiaの基盤モデルも統合でき、ローカルで動かすためユーザーはインターネット接続を必要としない。Synchronとも協業するNvidiaは、これらの提携を通じて脳データにアクセスすることはない。"
+                "x": "内部にはSnapdragon 8 Elite Extreme Gen 6チップセットと、ピーク輝度最大10,000ニトの6.8インチLTPO OLEDパネルを搭載する。MagicOS 11は通知の要約とPayment Trust Space機能を追加し、専用のカメラキーに加えて「状況に応じた（context-aware）」支援を行うAIボタンも備える。ボタンをダブルクリックするとHighlight Clip Captureが起動し、動画の一部を切り出して字幕を生成する。ただしNetflixのストリームなどDRM-protectedの動画では機能しない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Paradromics\n借Nvidia处理脑数据",
-          "body": "脑机接口公司Paradromics将用Nvidia的计算硬件和软件处理神经数据。",
-          "mini_headline": "Nvidia助力Paradromics BCI",
+          "headline": "Honor Magic 9\nPro Max首度出海",
+          "body": "Honor Magic 9 Pro Max在马来西亚上市，售价约$1,457，配备AI键。",
+          "mini_headline": "Honor Magic 9 Pro Max走向全球",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
               },
               {
                 "t": "p",
-                "x": "密歇根州一位名叫Mary的女性植入了一枚约一角硬币大小的Paradromics植入物，尽管患有运动神经元病，她仍能通过合成语音表达想法。目前，语音解码需要一整车插着电源的电子设备；一年后，借助Nvidia的技术，这辆推车将变成一个可以放在她轮椅上的小盒子。"
+                "x": "HONOR在马来西亚推出Magic 9 Pro Max，这是该机首次在中国以外地区发售。建议售价为5,999马来西亚林吉特（~$1,457），仅有12GB/512GB一种配置；11月24日至12月3日期间预订可获赠礼包，内含三个月免费Google AI Pro。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
               },
               {
                 "t": "p",
-                "x": "总部位于奥斯汀的Paradromics宣布与这家AI芯片制造商合作，使用Nvidia的硬件和软件处理其脑数据。该植入物内嵌400多个电极，计算机借助AI推断她想说的话。CEO Matt Angle称，脑机接口是边缘计算的终极用例。"
+                "x": "相机系统与电影摄影机制造商ARRI合作打造：200MP 1/1.28英寸主摄、200MP 85mm长焦、50MP超广角，以及方形55MP自拍相机。视频是其最大强项，支持4K/120fps、ARRI Cinema Mode与ARRI Looks、LUT和LogC3、APV编解码器，还有Magic Color for Video功能，可分析参考片段的色彩并将同样的风格套用到新素材上。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
               },
               {
                 "t": "p",
-                "x": "Paradromics将使用Nvidia的低功耗计算模块Jetson，在靠近用户的小型设备上完成语音解码，并使用Nvidia的AI传感器处理软件Holoscan，与摄像头和麦克风配合实现低延迟交互。它还能集成Nvidia的基础模型；由于在本地运行，用户无需联网。Nvidia也与Synchron合作，但不会通过这些合作获取脑数据。"
+                "x": "机身内部搭载Snapdragon 8 Elite Extreme Gen 6芯片组和6.8英寸LTPO OLED面板，峰值亮度最高10,000尼特。MagicOS 11新增通知摘要和Payment Trust Space功能，手机还配有专用相机键，以及提供“情境感知（context-aware）”协助的AI按键。双击该按键会触发Highlight Clip Capture，截取视频片段并生成字幕；但它不适用于Netflix流媒体等DRM-protected视频。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Paradromics recurre a Nvidia\npara procesar datos cerebrales",
-          "body": "Paradromics, fabricante de interfaces cerebrales, procesará datos neuronales con hardware y software de Nvidia.",
-          "mini_headline": "Nvidia impulsa la BCI de Paradromics",
+          "headline": "Honor Magic 9 Pro Max\nse lanza fuera de China",
+          "body": "El Honor Magic 9 Pro Max debuta en Malasia por unos $1,457, con un botón AI para ayuda según el contexto.",
+          "mini_headline": "Honor Magic 9 Pro Max llega al mercado global",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
               },
               {
                 "t": "p",
-                "x": "Una mujer de Michigan llamada Mary tiene un implante de Paradromics del tamaño aproximado de una moneda de diez centavos que, pese a su enfermedad de la motoneurona, le permite expresar sus pensamientos mediante una voz sintetizada. Hoy la decodificación del habla requiere un carrito lleno de electrónica enchufado a la corriente; dentro de un año, gracias a la tecnología de Nvidia, ese carrito será una pequeña caja que podrá ir en su silla de ruedas."
+                "x": "HONOR ha lanzado el Magic 9 Pro Max en Malasia, su primer lanzamiento fuera de China. Tiene un precio recomendado de 5,999 ringgits malasios (~$1,457) y solo se vende en una configuración de 12GB/512GB; las reservas del 24 de noviembre al 3 de diciembre reciben un paquete de regalo que incluye tres meses gratis de Google AI Pro."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
               },
               {
                 "t": "p",
-                "x": "Paradromics, con sede en Austin, anunció una alianza con el fabricante de chips de IA para usar el hardware y el software de Nvidia en el procesamiento de sus datos cerebrales. El implante usa más de 400 electrodos integrados, y un equipo informático usa IA para inferir lo que ella intenta decir. El CEO, Matt Angle, considera las interfaces cerebro-computadora el caso definitivo de la computación en el borde."
+                "x": "El sistema de cámaras se ha desarrollado con el fabricante de cámaras de cine ARRI: una cámara principal de 200MP y 1/1.28 pulgadas, un teleobjetivo de 200MP y 85mm, un ultra gran angular de 50MP y una cámara selfie cuadrada de 55MP. El vídeo es su mayor fortaleza, con 4K/120fps, ARRI Cinema Mode y ARRI Looks, compatibilidad con LUT y LogC3, el códec APV y la función Magic Color for Video, que analiza los colores de un clip de referencia y aplica ese estilo a nuevas grabaciones."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
               },
               {
                 "t": "p",
-                "x": "Paradromics usará Jetson, el módulo de cómputo de bajo consumo de Nvidia, para decodificar el habla en un dispositivo pequeño cerca del usuario, y Holoscan, el software de procesamiento de sensores con IA de Nvidia, para una interacción de baja latencia junto con cámaras y micrófonos. También podrá integrar los modelos fundacionales de Nvidia; al ejecutarlos localmente, los usuarios no necesitarán conexión a internet. Nvidia, que también trabaja con Synchron, no tendrá acceso a los datos cerebrales a través de estas alianzas."
+                "x": "En su interior hay un chipset Snapdragon 8 Elite Extreme Gen 6 y un panel LTPO OLED de 6.8 pulgadas con un brillo máximo de hasta 10,000 nits. MagicOS 11 añade resúmenes de notificaciones y la función Payment Trust Space, y el teléfono incorpora una tecla de cámara dedicada y un botón AI para asistencia “context-aware” (según el contexto). Al pulsarlo dos veces se activa Highlight Clip Capture, que recorta un fragmento de un vídeo y genera subtítulos; no funciona con vídeo DRM-protected, como las emisiones de Netflix."
               }
             ]
           }
@@ -531,105 +629,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Paradromics,\nNvidia로 뇌신호 처리",
-          "body": "Paradromics가 Nvidia 하드웨어·소프트웨어로 뇌 데이터를 처리한다.",
-          "mini_headline": "Nvidia가 Paradromics BCI 지원",
+          "headline": "Honor Magic 9\nPro Max 해외 출시",
+          "body": "Honor Magic 9 Pro Max가 AI 버튼 달고 약 $1,457에 나왔다.",
+          "mini_headline": "Honor Magic 9 Pro Max 해외 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
               },
               {
                 "t": "p",
-                "x": "미시간에 사는 Mary는 운동신경질환을 앓고 있지만, 다임 동전만 한 Paradromics 임플란트 덕분에 합성 음성으로 생각을 표현한다. 지금은 음성 해독에 콘센트에 꽂힌 전자 장비를 가득 실은 카트가 필요하지만, 한 해 뒤에는 Nvidia 기술 덕분에 이 카트가 휠체어에 올려둘 수 있는 작은 상자로 바뀐다."
+                "x": "HONOR가 Magic 9 Pro Max를 말레이시아에 출시했다. 중국 밖에서는 첫 출시다. 권장 가격은 5,999 말레이시아 링깃(~$1,457)이며 12GB/512GB 단일 구성으로만 나온다. 11월 24일부터 12월 3일까지 사전 주문하면 Google AI Pro 석 달 무료 이용권이 담긴 사은품 패키지를 받는다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
               },
               {
                 "t": "p",
-                "x": "오스틴에 본사를 둔 Paradromics는 Nvidia의 하드웨어와 소프트웨어로 뇌 데이터를 처리하기 위해 이 AI 칩 기업과 파트너십을 맺었다고 발표했다. 임플란트에는 400개가 넘는 전극이 심겨 있고, 컴퓨터가 AI로 그녀가 하려는 말을 추론한다. Matt Angle CEO는 뇌-컴퓨터 인터페이스를 엣지 컴퓨팅의 궁극적 사례라고 부른다."
+                "x": "카메라 시스템은 시네마 카메라 제조사 ARRI와 함께 만들었다. 200MP 1/1.28인치 메인 카메라, 200MP 85mm 망원, 50MP 초광각, 정사각형 55MP 셀피 카메라로 구성된다. 가장 큰 강점은 영상이다. 4K/120fps, ARRI Cinema Mode와 ARRI Looks, LUT와 LogC3 지원, APV 코덱을 갖췄고, 참조 클립의 색을 분석해 새 영상에 같은 룩을 입히는 Magic Color for Video 기능도 들어갔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
               },
               {
                 "t": "p",
-                "x": "Paradromics는 저전력 컴퓨팅 모듈인 Nvidia의 Jetson으로 사용자 가까이 있는 작은 기기에서 음성 해독을 하고, Nvidia의 AI 센서 처리 소프트웨어 Holoscan으로 카메라·마이크와 함께 지연이 적은 상호작용을 구현한다. Nvidia의 파운데이션 모델도 통합할 수 있으며, 이를 로컬에서 돌리므로 사용자는 인터넷 연결이 필요 없다. Synchron과도 협력하는 Nvidia는 이번 파트너십으로 뇌 데이터에 접근하지 않는다."
+                "x": "내부에는 Snapdragon 8 Elite Extreme Gen 6 칩셋과 최대 10,000니트 피크 밝기의 6.8인치 LTPO OLED 패널이 들어갔다. MagicOS 11은 알림 요약과 Payment Trust Space 기능을 더했고, 전용 카메라 키와 “상황 인식(context-aware)” 지원용 AI 버튼도 달았다. 이 버튼을 두 번 누르면 Highlight Clip Capture가 실행돼 영상 일부를 잘라 자막을 만든다. 다만 Netflix 스트림 같은 DRM 보호(DRM-protected) 영상에서는 작동하지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Paradromics、\n脳データ処理にNvidia",
-          "body": "BCI企業Paradromicsは、Nvidiaのハードとソフトで神経データを処理する。",
-          "mini_headline": "NvidiaがParadromicsのBCIを支える",
+          "headline": "Honor Magic 9\nPro Maxが中国外で発売",
+          "body": "AIボタン搭載のHonor Magic 9 Pro Maxが約$1,457で発売された。",
+          "mini_headline": "Honor Magic 9 Pro Maxが海外へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
               },
               {
                 "t": "p",
-                "x": "ミシガン州に住む女性Maryさんは運動ニューロン疾患を抱えながらも、ダイム硬貨ほどの大きさのParadromicsのインプラントによって、合成音声で考えを表現できる。現在、音声のデコードにはコンセントにつながった電子機器満載のカートが必要だが、一年後にはNvidiaの技術によって、そのカートは車椅子に載せられる小さな箱になる。"
+                "x": "HONORはMagic 9 Pro Maxをマレーシアで発売した。中国以外での発売はこれが初めてだ。推奨価格は5,999マレーシアリンギット（~$1,457）で、構成は12GB/512GBのみ。11月24日から12月3日までの予約購入者には、Google AI Proの無料利用三か月分を含む特典パックが付く。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
               },
               {
                 "t": "p",
-                "x": "オースティンに拠点を置くParadromicsは、Nvidiaのハードウェアとソフトウェアで脳データを処理するため、このAIチップメーカーとの提携を発表した。インプラントには400個以上の電極が埋め込まれており、コンピューターがAIを使って彼女が言おうとしていることを推定する。CEOのMatt Angleは、ブレイン・コンピューター・インターフェースをエッジコンピューティングの究極の事例と呼ぶ。"
+                "x": "カメラシステムはシネマカメラメーカーのARRIと共同で開発した。200MPの1/1.28インチメインカメラ、200MPの85mm望遠、50MPの超広角、正方形の55MPセルフィーカメラという構成だ。最大の強みは動画で、4K/120fps、ARRI Cinema ModeとARRI Looks、LUTとLogC3への対応、APVコーデック、さらに参照クリップの色を分析して新しい映像に同じルックを適用するMagic Color for Video機能を備える。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
               },
               {
                 "t": "p",
-                "x": "Paradromicsは、低消費電力のコンピューティングモジュールであるNvidiaのJetsonを使ってユーザーの近くにある小型デバイスで音声デコードを行い、NvidiaのAIセンサー処理ソフトウェアHoloscanを使ってカメラやマイクと連携した低遅延のやり取りを実現する。Nvidiaの基盤モデルも統合でき、ローカルで動かすためユーザーはインターネット接続を必要としない。Synchronとも協業するNvidiaは、これらの提携を通じて脳データにアクセスすることはない。"
+                "x": "内部にはSnapdragon 8 Elite Extreme Gen 6チップセットと、ピーク輝度最大10,000ニトの6.8インチLTPO OLEDパネルを搭載する。MagicOS 11は通知の要約とPayment Trust Space機能を追加し、専用のカメラキーに加えて「状況に応じた（context-aware）」支援を行うAIボタンも備える。ボタンをダブルクリックするとHighlight Clip Captureが起動し、動画の一部を切り出して字幕を生成する。ただしNetflixのストリームなどDRM-protectedの動画では機能しない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Paradromics\n借Nvidia处理脑数据",
-          "body": "脑机接口公司Paradromics将用Nvidia的计算硬件和软件处理神经数据。",
-          "mini_headline": "Nvidia助力Paradromics BCI",
+          "headline": "Honor Magic 9\nPro Max首度出海",
+          "body": "Honor Magic 9 Pro Max在马来西亚上市，售价约$1,457，配备AI键。",
+          "mini_headline": "Honor Magic 9 Pro Max走向全球",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
               },
               {
                 "t": "p",
-                "x": "密歇根州一位名叫Mary的女性植入了一枚约一角硬币大小的Paradromics植入物，尽管患有运动神经元病，她仍能通过合成语音表达想法。目前，语音解码需要一整车插着电源的电子设备；一年后，借助Nvidia的技术，这辆推车将变成一个可以放在她轮椅上的小盒子。"
+                "x": "HONOR在马来西亚推出Magic 9 Pro Max，这是该机首次在中国以外地区发售。建议售价为5,999马来西亚林吉特（~$1,457），仅有12GB/512GB一种配置；11月24日至12月3日期间预订可获赠礼包，内含三个月免费Google AI Pro。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
               },
               {
                 "t": "p",
-                "x": "总部位于奥斯汀的Paradromics宣布与这家AI芯片制造商合作，使用Nvidia的硬件和软件处理其脑数据。该植入物内嵌400多个电极，计算机借助AI推断她想说的话。CEO Matt Angle称，脑机接口是边缘计算的终极用例。"
+                "x": "相机系统与电影摄影机制造商ARRI合作打造：200MP 1/1.28英寸主摄、200MP 85mm长焦、50MP超广角，以及方形55MP自拍相机。视频是其最大强项，支持4K/120fps、ARRI Cinema Mode与ARRI Looks、LUT和LogC3、APV编解码器，还有Magic Color for Video功能，可分析参考片段的色彩并将同样的风格套用到新素材上。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
               },
               {
                 "t": "p",
-                "x": "Paradromics将使用Nvidia的低功耗计算模块Jetson，在靠近用户的小型设备上完成语音解码，并使用Nvidia的AI传感器处理软件Holoscan，与摄像头和麦克风配合实现低延迟交互。它还能集成Nvidia的基础模型；由于在本地运行，用户无需联网。Nvidia也与Synchron合作，但不会通过这些合作获取脑数据。"
+                "x": "机身内部搭载Snapdragon 8 Elite Extreme Gen 6芯片组和6.8英寸LTPO OLED面板，峰值亮度最高10,000尼特。MagicOS 11新增通知摘要和Payment Trust Space功能，手机还配有专用相机键，以及提供“情境感知（context-aware）”协助的AI按键。双击该按键会触发Highlight Clip Capture，截取视频片段并生成字幕；但它不适用于Netflix流媒体等DRM-protected视频。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Paradromics recurre a Nvidia\npara procesar datos cerebrales",
-          "body": "Paradromics, fabricante de interfaces cerebrales, procesará datos neuronales con hardware y software de Nvidia.",
-          "mini_headline": "Nvidia impulsa la BCI de Paradromics",
+          "headline": "Honor Magic 9 Pro Max\nse lanza fuera de China",
+          "body": "El Honor Magic 9 Pro Max debuta en Malasia por unos $1,457, con un botón AI para ayuda según el contexto.",
+          "mini_headline": "Honor Magic 9 Pro Max llega al mercado global",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/w_2560%2Cc_limit/Nvidia-Powering%2520Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
               },
               {
                 "t": "p",
-                "x": "Una mujer de Michigan llamada Mary tiene un implante de Paradromics del tamaño aproximado de una moneda de diez centavos que, pese a su enfermedad de la motoneurona, le permite expresar sus pensamientos mediante una voz sintetizada. Hoy la decodificación del habla requiere un carrito lleno de electrónica enchufado a la corriente; dentro de un año, gracias a la tecnología de Nvidia, ese carrito será una pequeña caja que podrá ir en su silla de ruedas."
+                "x": "HONOR ha lanzado el Magic 9 Pro Max en Malasia, su primer lanzamiento fuera de China. Tiene un precio recomendado de 5,999 ringgits malasios (~$1,457) y solo se vende en una configuración de 12GB/512GB; las reservas del 24 de noviembre al 3 de diciembre reciben un paquete de regalo que incluye tres meses gratis de Google AI Pro."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
               },
               {
                 "t": "p",
-                "x": "Paradromics, con sede en Austin, anunció una alianza con el fabricante de chips de IA para usar el hardware y el software de Nvidia en el procesamiento de sus datos cerebrales. El implante usa más de 400 electrodos integrados, y un equipo informático usa IA para inferir lo que ella intenta decir. El CEO, Matt Angle, considera las interfaces cerebro-computadora el caso definitivo de la computación en el borde."
+                "x": "El sistema de cámaras se ha desarrollado con el fabricante de cámaras de cine ARRI: una cámara principal de 200MP y 1/1.28 pulgadas, un teleobjetivo de 200MP y 85mm, un ultra gran angular de 50MP y una cámara selfie cuadrada de 55MP. El vídeo es su mayor fortaleza, con 4K/120fps, ARRI Cinema Mode y ARRI Looks, compatibilidad con LUT y LogC3, el códec APV y la función Magic Color for Video, que analiza los colores de un clip de referencia y aplica ese estilo a nuevas grabaciones."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
               },
               {
                 "t": "p",
-                "x": "Paradromics usará Jetson, el módulo de cómputo de bajo consumo de Nvidia, para decodificar el habla en un dispositivo pequeño cerca del usuario, y Holoscan, el software de procesamiento de sensores con IA de Nvidia, para una interacción de baja latencia junto con cámaras y micrófonos. También podrá integrar los modelos fundacionales de Nvidia; al ejecutarlos localmente, los usuarios no necesitarán conexión a internet. Nvidia, que también trabaja con Synchron, no tendrá acceso a los datos cerebrales a través de estas alianzas."
+                "x": "En su interior hay un chipset Snapdragon 8 Elite Extreme Gen 6 y un panel LTPO OLED de 6.8 pulgadas con un brillo máximo de hasta 10,000 nits. MagicOS 11 añade resúmenes de notificaciones y la función Payment Trust Space, y el teléfono incorpora una tecla de cámara dedicada y un botón AI para asistencia “context-aware” (según el contexto). Al pulsarlo dos veces se activa Highlight Clip Capture, que recorta un fragmento de un vídeo y genera subtítulos; no funciona con vídeo DRM-protected, como las emisiones de Netflix."
               }
             ]
           }
@@ -637,371 +767,321 @@
       }
     },
     {
-      "id": "asus-proart-p14-rtxspark",
-      "source_lang": "en",
+      "id": "foundation-phantom-mkii",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "ProArt P14 리뷰\n아깝게도 발열이 문제",
-      "body": "P14는 3K OLED·12.5시간 배터리를 갖췄지만 전력 제한과 발열이 흠이다.",
-      "mini_headline": "Asus ProArt P14, 아쉬운 한 끗",
+      "headline": "90kg 짐 나르는\n휴머노이드 팬텀 MKII",
+      "body": "팬텀 MKII는 최대 90kg을 운반하고 한 번 충전으로 4~6시간 작동한다.",
+      "mini_headline": "90kg 나르는 팬텀 MKII",
       "tool": "Gadgets",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/computing/laptops/asus-proart-p14-rtx-spark-review",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20261124000443",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+            "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
+            "cap": "출처=Foundation Robotics"
+          },
+          {
+            "t": "video",
+            "yt": "la43cmm6YMQ"
           },
           {
             "t": "p",
-            "x": "Asus는 Nvidia의 RTX Spark 칩을 역대 가장 가벼운 14인치 ProArt 섀시에 넣었다. 두께 0.55인치, 무게 3.26파운드다. 3K Lumina Pro OLED 터치스크린, SD 카드 리더, 기대보다 좋은 스피커에 12.5시간 배터리(Tom’s Guide 웹 브라우징 테스트에서 12:32)까지 갖췄다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
-            "cap": "(이미지 출처: Future)"
+            "x": "자기 몸무게만큼 무거운 짐을 운반할 수 있다는 휴머노이드 로봇이 공개됐습니다."
           },
           {
             "t": "p",
-            "x": "다만 섀시를 이만큼 얇게 만들려고 Asus는 전체 전력을 묶어 둬야 했다. 수동 모드에서도 TDP는 최대 80와트로 더 큰 P16의 최대 135와트에 못 미친다. 성능을 끝까지 끌어올리면 더 큰 RTX Spark 노트북에 밀리는 이유다. 그래도 “크리에이티브 작업과 로컬 AI 작업에는 충분히 빠릿하다.” 문제는 부하가 걸릴 때다. 통풍구가 넓게 뚫린 바닥면이 뜨거워진다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
-            "cap": "(이미지 출처: Future)"
+            "x": "미국 로봇기업 파운데이션 퓨처 인더스트리스는 지난 18일(현지시간) 2세대 휴머노이드 로봇 '팬텀 MKII'를 공개했습니다. 이 로봇은 키 약 183cm, 무게 약 88kg으로 최대 90kg의 짐을 운반할 수 있습니다. 한 번 충전하면 4~6시간 작동하도록 설계됐습니다."
           },
           {
             "t": "p",
-            "x": "이동이 잦은 크리에이터와 개발자에게는 올해 가장 끌리는 휴대용 크리에이터 노트북 중 하나다. 하지만 RTX Spark의 역량을 온전히 끌어내지 못하고 가격도 비싸다."
+            "x": "방진·방수 등급 IP67을 갖춰 비와 먼지가 많은 환경에서도 작업할 수 있고, 고장 난 관절을 교체할 수 있는 구조로 제작됐습니다. AI를 활용해 사람의 작업 시연을 학습할 수 있으며, 공장과 건설 현장, 광산 등에서 무거운 물건을 운반하거나 위험한 작업을 대신하는 것을 목표로 하고 있습니다. 회사는 2027년 초 생산을 시작할 계획입니다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Asus ProArt P14 review:\nso close, but it runs hot",
-          "body": "The ProArt P14 has a 3K OLED and 12.5-hour battery, but its slim chassis throttles wattage and runs hot under load.",
-          "mini_headline": "Asus ProArt P14, nearly there",
+        "ko": {
+          "headline": "90kg 짐 나르는\n휴머노이드 팬텀 MKII",
+          "body": "팬텀 MKII는 최대 90kg을 운반하고 한 번 충전으로 4~6시간 작동한다.",
+          "mini_headline": "90kg 나르는 팬텀 MKII",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
+                "cap": "출처=Foundation Robotics"
+              },
+              {
+                "t": "video",
+                "yt": "la43cmm6YMQ"
               },
               {
                 "t": "p",
-                "x": "Asus crammed Nvidia’s RTX Spark chip into the lightest 14-inch ProArt chassis it has ever built, just 0.55 inches thin and 3.26 pounds. It pairs a 3K Lumina Pro OLED touchscreen, an SD card reader, surprisingly good speakers and a 12.5-hour battery life (12:32 in Tom’s Guide’s web browsing test)."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
-                "cap": "(Image credit: Future)"
+                "x": "자기 몸무게만큼 무거운 짐을 운반할 수 있다는 휴머노이드 로봇이 공개됐습니다."
               },
               {
                 "t": "p",
-                "x": "But to keep the chassis this slim, Asus had to rein in the total wattage. Even in manual mode it tops out at an 80-watt TDP, versus up to 135 watts on the bigger P16, so it trails larger RTX Spark machines when you push the silicon. It is still “plenty snappy for creative work and local AI tasks,” but the underside gets hot under load through wide, exposed vents."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
-                "cap": "(Image credit: Future)"
+                "x": "미국 로봇기업 파운데이션 퓨처 인더스트리스는 지난 18일(현지시간) 2세대 휴머노이드 로봇 '팬텀 MKII'를 공개했습니다. 이 로봇은 키 약 183cm, 무게 약 88kg으로 최대 90kg의 짐을 운반할 수 있습니다. 한 번 충전하면 4~6시간 작동하도록 설계됐습니다."
               },
               {
                 "t": "p",
-                "x": "Verdict: one of the most likable portable creator laptops of the year for traveling creatives and developers, but not the fullest representation of what RTX Spark can do — and the price is steep."
+                "x": "방진·방수 등급 IP67을 갖춰 비와 먼지가 많은 환경에서도 작업할 수 있고, 고장 난 관절을 교체할 수 있는 구조로 제작됐습니다. AI를 활용해 사람의 작업 시연을 학습할 수 있으며, 공장과 건설 현장, 광산 등에서 무거운 물건을 운반하거나 위험한 작업을 대신하는 것을 목표로 하고 있습니다. 회사는 2027년 초 생산을 시작할 계획입니다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "ProArt P14 리뷰\n아깝게도 발열이 문제",
-          "body": "P14는 3K OLED·12.5시간 배터리를 갖췄지만 전력 제한과 발열이 흠이다.",
-          "mini_headline": "Asus ProArt P14, 아쉬운 한 끗",
+        "en": {
+          "headline": "Phantom MKII humanoid robot\ncarries loads up to 90kg",
+          "body": "Phantom MKII can carry up to 90kg and runs for 4 to 6 hours on a single charge.",
+          "mini_headline": "Phantom MKII carries 90kg",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
+                "cap": "Source: Foundation Robotics"
+              },
+              {
+                "t": "video",
+                "yt": "la43cmm6YMQ"
               },
               {
                 "t": "p",
-                "x": "Asus는 Nvidia의 RTX Spark 칩을 역대 가장 가벼운 14인치 ProArt 섀시에 넣었다. 두께 0.55인치, 무게 3.26파운드다. 3K Lumina Pro OLED 터치스크린, SD 카드 리더, 기대보다 좋은 스피커에 12.5시간 배터리(Tom’s Guide 웹 브라우징 테스트에서 12:32)까지 갖췄다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
-                "cap": "(이미지 출처: Future)"
+                "x": "A humanoid robot said to carry loads as heavy as its own body weight has been unveiled."
               },
               {
                 "t": "p",
-                "x": "다만 섀시를 이만큼 얇게 만들려고 Asus는 전체 전력을 묶어 둬야 했다. 수동 모드에서도 TDP는 최대 80와트로 더 큰 P16의 최대 135와트에 못 미친다. 성능을 끝까지 끌어올리면 더 큰 RTX Spark 노트북에 밀리는 이유다. 그래도 “크리에이티브 작업과 로컬 AI 작업에는 충분히 빠릿하다.” 문제는 부하가 걸릴 때다. 통풍구가 넓게 뚫린 바닥면이 뜨거워진다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
-                "cap": "(이미지 출처: Future)"
+                "x": "American robotics company Foundation Future Industries unveiled its 2nd-generation humanoid robot 'Phantom MKII' on the 18th (local time). The robot stands about 183cm tall, weighs about 88kg and can carry loads of up to 90kg. It is designed to run for 4 to 6 hours on a single charge."
               },
               {
                 "t": "p",
-                "x": "이동이 잦은 크리에이터와 개발자에게는 올해 가장 끌리는 휴대용 크리에이터 노트북 중 하나다. 하지만 RTX Spark의 역량을 온전히 끌어내지 못하고 가격도 비싸다."
+                "x": "With an IP67 dust and water resistance rating, it can work in rainy and dusty environments, and it is built so that broken joints can be replaced. It can use AI to learn from human task demonstrations, and it aims to haul heavy objects or take over dangerous work at factories, construction sites and mines. The company plans to start production in early 2027."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ProArt P14レビュー\n惜しいが発熱が課題",
-          "body": "P14は3K OLEDと12.5時間駆動を備えるが、薄型ゆえ電力制限と発熱が課題だ。",
-          "mini_headline": "Asus ProArt P14、あと一歩",
+          "headline": "90kgを運ぶ人型ロボ\nPhantom MKII",
+          "body": "Phantom MKIIは最大90kgを運び、一度の充電で4〜6時間動作する。",
+          "mini_headline": "90kgを運ぶPhantom MKII",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
+                "cap": "出典=Foundation Robotics"
+              },
+              {
+                "t": "video",
+                "yt": "la43cmm6YMQ"
               },
               {
                 "t": "p",
-                "x": "AsusはNvidiaのRTX Sparkチップを、同社史上最軽量の14インチProArtシャーシに詰め込んだ。厚さはわずか0.55インチ、重さは3.26ポンドだ。3K Lumina Pro OLEDタッチスクリーン、SDカードリーダー、意外なほど良いスピーカー、12.5時間のバッテリー駆動(Tom’s GuideのWebブラウジングテストで12:32)を備える。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
-                "cap": "(画像クレジット: Future)"
+                "x": "自分の体重と同じほど重い荷物を運べるというヒューマノイドロボットが公開された。"
               },
               {
                 "t": "p",
-                "x": "ただし、シャーシをここまで薄く保つため、Asusは総電力を抑えざるを得なかった。手動モードでもTDPは最大80ワットで、大型のP16の最大135ワットに及ばない。そのためシリコンの性能を引き出そうとすると、より大きなRTX Spark搭載機に後れを取る。それでも「クリエイティブ作業やローカルAIタスクには十分きびきび動く」が、高負荷時には広く露出した通気口のある底面が熱くなる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
-                "cap": "(画像クレジット: Future)"
+                "x": "米ロボット企業Foundation Future Industriesは18日（現地時間）、第2世代ヒューマノイドロボット「Phantom MKII」を公開した。身長約183cm、重さ約88kgで、最大90kgの荷物を運べる。一度の充電で4〜6時間動作するよう設計されている。"
               },
               {
                 "t": "p",
-                "x": "結論:移動の多いクリエイターや開発者にとって、今年最も好感の持てるポータブルなクリエイター向けノートPCの一つだ。ただしRTX Sparkの実力を最大限に示すものではなく、価格も高い。"
+                "x": "防塵・防水等級IP67を備え、雨やほこりの多い環境でも作業でき、故障した関節を交換できる構造になっている。AIを活用して人の作業の実演を学習でき、工場や建設現場、鉱山などで重い物を運んだり危険な作業を代わりに担ったりすることを目指す。同社は2027年初めに生産を始める計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ProArt P14评测\n差一点，但发热明显",
-          "body": "P14配备3K OLED屏和12.5小时续航，但机身纤薄导致功耗受限，高负载时发烫。",
-          "mini_headline": "Asus ProArt P14，差一点",
+          "headline": "搬运90kg的人形机器人\nPhantom MKII",
+          "body": "Phantom MKII最多可搬运90kg，充一次电可运行4至6小时。",
+          "mini_headline": "可搬运90kg的Phantom MKII",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
+                "cap": "来源=Foundation Robotics"
+              },
+              {
+                "t": "video",
+                "yt": "la43cmm6YMQ"
               },
               {
                 "t": "p",
-                "x": "Asus将Nvidia的RTX Spark芯片塞进了其史上最轻的14英寸ProArt机身，厚度仅0.55英寸，重3.26磅。它配备3K Lumina Pro OLED触摸屏、SD读卡器、出人意料的好音箱，以及12.5小时续航（在Tom’s Guide的网页浏览测试中为12:32）。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
-                "cap": "（图片来源：Future）"
+                "x": "一款据称能搬运与自身体重相当的重物的人形机器人亮相。"
               },
               {
                 "t": "p",
-                "x": "但为了让机身保持如此纤薄，Asus不得不限制总功耗。即便在手动模式下，TDP最高也只有80瓦，而更大的P16最高可达135瓦，因此在压榨芯片性能时，它落后于更大的RTX Spark机型。它仍然“足以流畅应对创意工作和本地AI任务”，但在高负载下，底部宽大外露的散热口处会发烫。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
-                "cap": "（图片来源：Future）"
+                "x": "美国机器人企业Foundation Future Industries于18日（当地时间）发布第2代人形机器人“Phantom MKII”。该机器人身高约183cm，重约88kg，最多可搬运90kg的货物，按充一次电运行4至6小时设计。"
               },
               {
                 "t": "p",
-                "x": "结论：对经常出行的创作者和开发者来说，这是今年最讨喜的便携创作者笔记本之一，但它并未完全展现RTX Spark的实力，而且价格不菲。"
+                "x": "它具备IP67防尘防水等级，可在雨水和粉尘较多的环境中作业，并采用可更换故障关节的结构。它能借助AI学习人类的作业示范，目标是在工厂、建筑工地和矿山等场所搬运重物或代替人完成危险作业。公司计划于2027年初开始生产。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Análisis del Asus ProArt P14:\ncasi perfecto, pero se calienta",
-          "body": "El ProArt P14 tiene pantalla OLED 3K y 12,5 horas de batería, pero su chasis fino limita la potencia y se calienta.",
-          "mini_headline": "Asus ProArt P14, a un paso",
+          "headline": "Phantom MKII, el humanoide\nque carga hasta 90kg",
+          "body": "Phantom MKII carga hasta 90kg y funciona entre 4 y 6 horas con una sola carga.",
+          "mini_headline": "Phantom MKII carga 90kg",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
+                "cap": "Fuente: Foundation Robotics"
+              },
+              {
+                "t": "video",
+                "yt": "la43cmm6YMQ"
               },
               {
                 "t": "p",
-                "x": "Asus metió el chip RTX Spark de Nvidia en el chasis ProArt de 14 pulgadas más ligero que ha fabricado, de solo 0,55 pulgadas de grosor y 3,26 libras. Combina una pantalla táctil 3K Lumina Pro OLED, un lector de tarjetas SD, unos altavoces sorprendentemente buenos y 12,5 horas de autonomía (12:32 en la prueba de navegación web de Tom’s Guide)."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
-                "cap": "(Crédito de imagen: Future)"
+                "x": "Se ha presentado un robot humanoide que, según se afirma, puede transportar cargas tan pesadas como su propio peso."
               },
               {
                 "t": "p",
-                "x": "Pero para mantener un chasis tan delgado, Asus tuvo que limitar la potencia total. Incluso en modo manual llega como máximo a un TDP de 80 vatios, frente a los hasta 135 vatios del P16, más grande, por lo que se queda por detrás de equipos RTX Spark mayores cuando se exige al silicio. Aun así, es “de sobra ágil para trabajo creativo y tareas de IA local”, pero la parte inferior se calienta bajo carga a través de unas rejillas anchas y expuestas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
-                "cap": "(Crédito de imagen: Future)"
+                "x": "La empresa estadounidense de robótica Foundation Future Industries presentó el día 18 (hora local) su robot humanoide de 2.ª generación, 'Phantom MKII'. Mide unos 183cm, pesa unos 88kg y puede transportar cargas de hasta 90kg. Está diseñado para funcionar entre 4 y 6 horas con una sola carga."
               },
               {
                 "t": "p",
-                "x": "Veredicto: uno de los portátiles para creadores más agradables del año para creativos y desarrolladores que viajan, pero no la representación más completa de lo que RTX Spark puede hacer, y el precio es elevado."
+                "x": "Cuenta con la clasificación IP67 de resistencia al polvo y al agua, por lo que puede trabajar en entornos con mucha lluvia y polvo, y su estructura permite sustituir las articulaciones averiadas. Puede usar AI para aprender de demostraciones de tareas hechas por personas, y su objetivo es transportar objetos pesados o asumir trabajos peligrosos en fábricas, obras de construcción y minas. La empresa prevé iniciar la producción a principios de 2027."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "ProArt P14 리뷰\n아깝게도 발열이 문제",
-          "body": "P14는 3K OLED·12.5시간 배터리를 갖췄지만 전력 제한과 발열이 흠이다.",
-          "mini_headline": "Asus ProArt P14, 아쉬운 한 끗",
+        "en": {
+          "headline": "Phantom MKII humanoid robot\ncarries loads up to 90kg",
+          "body": "Phantom MKII can carry up to 90kg and runs for 4 to 6 hours on a single charge.",
+          "mini_headline": "Phantom MKII carries 90kg",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
+                "cap": "Source: Foundation Robotics"
+              },
+              {
+                "t": "video",
+                "yt": "la43cmm6YMQ"
               },
               {
                 "t": "p",
-                "x": "Asus는 Nvidia의 RTX Spark 칩을 역대 가장 가벼운 14인치 ProArt 섀시에 넣었다. 두께는 0.55인치, 무게는 3.26파운드에 불과하다. 3K Lumina Pro OLED 터치스크린, SD 카드 리더, 기대 이상으로 좋은 스피커, 12.5시간 배터리(Tom’s Guide 웹 브라우징 테스트에서 12:32)를 갖췄다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
-                "cap": "(이미지 출처: Future)"
+                "x": "A humanoid robot said to carry loads as heavy as its own body weight has been unveiled."
               },
               {
                 "t": "p",
-                "x": "다만 섀시를 이렇게 얇게 유지하려고 Asus는 전체 전력을 묶어야 했다. 수동 모드에서도 TDP는 최대 80와트로, 더 큰 P16의 최대 135와트에 못 미친다. 그래서 성능을 끌어올리면 더 큰 RTX Spark 노트북에 뒤처진다. 그래도 “크리에이티브 작업과 로컬 AI 작업에는 충분히 빠릿하다.” 다만 부하가 걸리면 넓게 드러난 통풍구가 있는 바닥면이 뜨거워진다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
-                "cap": "(이미지 출처: Future)"
+                "x": "American robotics company Foundation Future Industries unveiled its 2nd-generation humanoid robot 'Phantom MKII' on the 18th (local time). The robot stands about 183cm tall, weighs about 88kg and can carry loads of up to 90kg. It is designed to run for 4 to 6 hours on a single charge."
               },
               {
                 "t": "p",
-                "x": "결론: 이동이 잦은 크리에이터와 개발자에게 올해 가장 호감 가는 휴대용 크리에이터 노트북 중 하나지만, RTX Spark의 역량을 온전히 보여주지는 못하며 가격도 비싸다."
+                "x": "With an IP67 dust and water resistance rating, it can work in rainy and dusty environments, and it is built so that broken joints can be replaced. It can use AI to learn from human task demonstrations, and it aims to haul heavy objects or take over dangerous work at factories, construction sites and mines. The company plans to start production in early 2027."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ProArt P14レビュー\n惜しいが発熱が課題",
-          "body": "P14は3K OLEDと12.5時間駆動を備えるが、薄型ゆえ電力制限と発熱が課題だ。",
-          "mini_headline": "Asus ProArt P14、あと一歩",
+          "headline": "90kgを運ぶ人型ロボ\nPhantom MKII",
+          "body": "Phantom MKIIは最大90kgを運び、一度の充電で4〜6時間動作する。",
+          "mini_headline": "90kgを運ぶPhantom MKII",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
+                "cap": "出典=Foundation Robotics"
+              },
+              {
+                "t": "video",
+                "yt": "la43cmm6YMQ"
               },
               {
                 "t": "p",
-                "x": "AsusはNvidiaのRTX Sparkチップを、同社史上最軽量の14インチProArtシャーシに詰め込んだ。厚さはわずか0.55インチ、重さは3.26ポンドだ。3K Lumina Pro OLEDタッチスクリーン、SDカードリーダー、意外なほど良いスピーカー、12.5時間のバッテリー駆動(Tom’s GuideのWebブラウジングテストで12:32)を備える。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
-                "cap": "(画像クレジット: Future)"
+                "x": "自分の体重と同じほど重い荷物を運べるというヒューマノイドロボットが公開された。"
               },
               {
                 "t": "p",
-                "x": "ただし、シャーシをここまで薄く保つため、Asusは総電力を抑えざるを得なかった。手動モードでもTDPは最大80ワットで、大型のP16の最大135ワットに及ばない。そのためシリコンの性能を引き出そうとすると、より大きなRTX Spark搭載機に後れを取る。それでも「クリエイティブ作業やローカルAIタスクには十分きびきび動く」が、高負荷時には広く露出した通気口のある底面が熱くなる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
-                "cap": "(画像クレジット: Future)"
+                "x": "米ロボット企業Foundation Future Industriesは18日（現地時間）、第2世代ヒューマノイドロボット「Phantom MKII」を公開した。身長約183cm、重さ約88kgで、最大90kgの荷物を運べる。一度の充電で4〜6時間動作するよう設計されている。"
               },
               {
                 "t": "p",
-                "x": "結論:移動の多いクリエイターや開発者にとって、今年最も好感の持てるポータブルなクリエイター向けノートPCの一つだ。ただしRTX Sparkの実力を最大限に示すものではなく、価格も高い。"
+                "x": "防塵・防水等級IP67を備え、雨やほこりの多い環境でも作業でき、故障した関節を交換できる構造になっている。AIを活用して人の作業の実演を学習でき、工場や建設現場、鉱山などで重い物を運んだり危険な作業を代わりに担ったりすることを目指す。同社は2027年初めに生産を始める計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ProArt P14评测\n差一点，但发热明显",
-          "body": "P14配备3K OLED屏和12.5小时续航，但机身纤薄导致功耗受限，高负载时发烫。",
-          "mini_headline": "Asus ProArt P14，差一点",
+          "headline": "搬运90kg的人形机器人\nPhantom MKII",
+          "body": "Phantom MKII最多可搬运90kg，充一次电可运行4至6小时。",
+          "mini_headline": "可搬运90kg的Phantom MKII",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
+                "cap": "来源=Foundation Robotics"
+              },
+              {
+                "t": "video",
+                "yt": "la43cmm6YMQ"
               },
               {
                 "t": "p",
-                "x": "Asus将Nvidia的RTX Spark芯片塞进了其史上最轻的14英寸ProArt机身，厚度仅0.55英寸，重3.26磅。它配备3K Lumina Pro OLED触摸屏、SD读卡器、出人意料的好音箱，以及12.5小时续航（在Tom’s Guide的网页浏览测试中为12:32）。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
-                "cap": "（图片来源：Future）"
+                "x": "一款据称能搬运与自身体重相当的重物的人形机器人亮相。"
               },
               {
                 "t": "p",
-                "x": "但为了让机身保持如此纤薄，Asus不得不限制总功耗。即便在手动模式下，TDP最高也只有80瓦，而更大的P16最高可达135瓦，因此在压榨芯片性能时，它落后于更大的RTX Spark机型。它仍然“足以流畅应对创意工作和本地AI任务”，但在高负载下，底部宽大外露的散热口处会发烫。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
-                "cap": "（图片来源：Future）"
+                "x": "美国机器人企业Foundation Future Industries于18日（当地时间）发布第2代人形机器人“Phantom MKII”。该机器人身高约183cm，重约88kg，最多可搬运90kg的货物，按充一次电运行4至6小时设计。"
               },
               {
                 "t": "p",
-                "x": "结论：对经常出行的创作者和开发者来说，这是今年最讨喜的便携创作者笔记本之一，但它并未完全展现RTX Spark的实力，而且价格不菲。"
+                "x": "它具备IP67防尘防水等级，可在雨水和粉尘较多的环境中作业，并采用可更换故障关节的结构。它能借助AI学习人类的作业示范，目标是在工厂、建筑工地和矿山等场所搬运重物或代替人完成危险作业。公司计划于2027年初开始生产。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Análisis del Asus ProArt P14:\ncasi perfecto, pero se calienta",
-          "body": "El ProArt P14 tiene pantalla OLED 3K y 12,5 horas de batería, pero su chasis fino limita la potencia y se calienta.",
-          "mini_headline": "Asus ProArt P14, a un paso",
+          "headline": "Phantom MKII, el humanoide\nque carga hasta 90kg",
+          "body": "Phantom MKII carga hasta 90kg y funciona entre 4 y 6 horas con una sola carga.",
+          "mini_headline": "Phantom MKII carga 90kg",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fBNwp54bW8d4czQsF8guC-2560-80.png"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
+                "cap": "Fuente: Foundation Robotics"
+              },
+              {
+                "t": "video",
+                "yt": "la43cmm6YMQ"
               },
               {
                 "t": "p",
-                "x": "Asus metió el chip RTX Spark de Nvidia en el chasis ProArt de 14 pulgadas más ligero que ha fabricado, de solo 0,55 pulgadas de grosor y 3,26 libras. Combina una pantalla táctil 3K Lumina Pro OLED, un lector de tarjetas SD, unos altavoces sorprendentemente buenos y 12,5 horas de autonomía (12:32 en la prueba de navegación web de Tom’s Guide)."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/vYzazrDK6PNZMxw5AGbZ-1200-80.png",
-                "cap": "(Crédito de imagen: Future)"
+                "x": "Se ha presentado un robot humanoide que, según se afirma, puede transportar cargas tan pesadas como su propio peso."
               },
               {
                 "t": "p",
-                "x": "Pero para mantener un chasis tan delgado, Asus tuvo que limitar la potencia total. Incluso en modo manual llega como máximo a un TDP de 80 vatios, frente a los hasta 135 vatios del P16, más grande, por lo que se queda por detrás de equipos RTX Spark mayores cuando se exige al silicio. Aun así, es “de sobra ágil para trabajo creativo y tareas de IA local”, pero la parte inferior se calienta bajo carga a través de unas rejillas anchas y expuestas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/o4g7S8XJNoYxse7LK4w59-1200-80.png",
-                "cap": "(Crédito de imagen: Future)"
+                "x": "La empresa estadounidense de robótica Foundation Future Industries presentó el día 18 (hora local) su robot humanoide de 2.ª generación, 'Phantom MKII'. Mide unos 183cm, pesa unos 88kg y puede transportar cargas de hasta 90kg. Está diseñado para funcionar entre 4 y 6 horas con una sola carga."
               },
               {
                 "t": "p",
-                "x": "Veredicto: uno de los portátiles para creadores más agradables del año para creativos y desarrolladores que viajan, pero no la representación más completa de lo que RTX Spark puede hacer, y el precio es elevado."
+                "x": "Cuenta con la clasificación IP67 de resistencia al polvo y al agua, por lo que puede trabajar en entornos con mucha lluvia y polvo, y su estructura permite sustituir las articulaciones averiadas. Puede usar AI para aprender de demostraciones de tareas hechas por personas, y su objetivo es transportar objetos pesados o asumir trabajos peligrosos en fábricas, obras de construcción y minas. La empresa prevé iniciar la producción a principios de 2027."
               }
             ]
           }
@@ -1009,15 +1089,15 @@
       }
     },
     {
-      "id": "copilot-pc-npu-buying",
-      "source_lang": "en",
+      "id": "gadgets-ax-appliance-center",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "이제 NPU는\n노트북 구매 이유가 아니다",
-      "body": "칩마다 40 TOPS를 넘고 AI 앱은 NPU를 안 써 Copilot+가 무색하다.",
-      "mini_headline": "Copilot+ NPU, 빛을 잃다",
+      "headline": "AI 가전 상용화 돕는\nAX제품화지원센터 개소",
+      "body": "산업통상부가 중소·중견 기업 AI 가전용 학습데이터 15종 구축 계획을 밝혔다.",
+      "mini_headline": "가전 AX제품화센터 개소",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Copilot-PCs-Why-the-NPU-is-no-longer-a-reason-to-buy-a-laptop.1456843.0.html",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20261124000346",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1025,365 +1105,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
-            "cap": "연말 선물로 노트북을 고른다면 NPU를 구매 기준으로 삼지 말자."
+            "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
+            "cap": "이민우 산업통상부 산업성장실장이 24일 서울 용산구 전자제조지원센터에서 열린 '가전 AX 제품화지원센터 개소식'에 참석했다. 산업부 제공"
           },
           {
             "t": "p",
-            "x": "NPU는 Microsoft의 Copilot+ PCs와 Recall 같은 기능으로 들어가는 입장권이었다. 2026년 말 현재 거의 모든 신형 노트북에 NPU가 들어가 있지만 Copilot+ 브랜드는 희미해졌고, 가장 잘 알려진 로컬 AI 앱들은 이 칩을 아예 쓰지 않는다. Copilot+ 요건은 여전히 40 TOPS가 넘는 NPU와 16GB 램, 256GB SSD다. Surface 책임자 Brett Ostrum은 2026년형 Surface 기기를 더는 Copilot+ PCs로 부르지 않는다고 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
-            "cap": "Windows 11의 AI 기능 중 NPU가 필요한 것과 필요 없는 것."
+            "x": "산업통상부는 24일 서울 용산구 전자제조지원센터에서 '가전 AX제품화지원센터' 개소식을 열고 'AI가전 학습데이터 구축 로드맵'을 발표했다. AX 가전 개발부터 상용제품 출시까지 전 주기를 지원하는 시설로, 중소·중견 가전 기업의 AX 개발 설비 및 데이터 부족 어려움을 해소해 줄 전망이다."
           },
           {
             "t": "p",
-            "x": "AMD의 Ryzen AI 400 시리즈는 50~60 TOPS, Qualcomm의 Snapdragon X2 Elite와 X2 Plus는 80 TOPS, Intel의 Panther Lake는 최대 50 TOPS까지 나온다. 그래도 수치가 높다고 Windows 기능이 더 열리지는 않는다. Ollama, LM Studio, llama.cpp는 NPU가 아니라 GPU와 CPU에서 돈다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
-            "cap": "요즘 노트북 칩은 모두 Copilot+ 기준인 40 TOPS를 넘는다."
+            "x": "센터는 KEA가 2021년부터 운영해 온 전자제조지원센터를 가전제품 AX 개발 거점으로 고도화한 곳이다. 2026~2030년 총 170억원(국비 100억원)을 투입해 AI 보드 제조 설비와 성능 시험장비 등 13종을 구축·개방하고, 전담 엔지니어가 설계·시제품 제작·실증·초도양산 전 과정을 밀착 지원한다. 기존 제품 설계 변경을 최소화하면서 AI 기능을 더하도록 돕고, 국산 AI 반도체 활용을 연계한다."
           },
           {
             "t": "p",
-            "x": "지금 노트북 값을 끌어올리는 건 메모리다. NPU는 구매 이유가 아니라 덤으로 보면 된다. Copilot+ 기능에는 16GB 램이 최소이고, 로컬 언어 모델을 돌리려면 32GB나 별도 GPU를 생각해 두는 게 좋다."
+            "x": "학습데이터 로드맵은 2027~2031년 매년 3종씩 총 15종의 공통 핵심 데이터를 구축한다. 기업 수요조사와 심층 인터뷰로 핵심 데이터 15개를 도출했으며, 2028년부터 전용 플랫폼으로 공유할 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "현장에선 △비욘드허니컴(AI 자동 조리 로봇) △엠마헬스케어(비접촉 생체신호 측정 AI 아기침대) △긱스로프트(AI 헤드폰) △오티톤메디컬(스마트 귀 체온계·진단 플랫폼) △모빌린트(국산 온디바이스 AI 반도체·엣지 솔루션) 등 5개 성과기업 제품 전시도 열렸다. 이민우 실장은 “가전산업의 경쟁력을 이어가려면 제조공정의 AX와 제품의 혁신이 함께 이뤄져야 한다”고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "The NPU is no longer\na reason to buy a laptop",
-          "body": "With every new chip past 40 TOPS and popular local AI apps skipping the NPU, the Copilot+ label barely matters.",
-          "mini_headline": "Copilot+ NPU loses its edge",
+        "ko": {
+          "headline": "AI 가전 상용화 돕는\nAX제품화지원센터 개소",
+          "body": "산업통상부가 중소·중견 기업 AI 가전용 학습데이터 15종 구축 계획을 밝혔다.",
+          "mini_headline": "가전 AX제품화센터 개소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
-                "cap": "A laptop as a holiday gift. The NPU shouldn't be what decides the purchase."
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
+                "cap": "이민우 산업통상부 산업성장실장이 24일 서울 용산구 전자제조지원센터에서 열린 '가전 AX 제품화지원센터 개소식'에 참석했다. 산업부 제공"
               },
               {
                 "t": "p",
-                "x": "The NPU was the ticket to Microsoft's Copilot+ PCs and features such as Recall. By late 2026, almost every new notebook has an NPU, the Copilot+ brand is fading, and the best-known local AI apps don't use the chip at all. Copilot+ still requires an NPU with more than 40 TOPS plus 16GB of RAM and a 256GB SSD; Surface chief Brett Ostrum said the 2026 Surface devices are no longer called Copilot+ PCs."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
-                "cap": "Which Windows 11 AI features need an NPU and which don't."
+                "x": "산업통상부는 24일 서울 용산구 전자제조지원센터에서 '가전 AX제품화지원센터' 개소식을 열고 'AI가전 학습데이터 구축 로드맵'을 발표했다. AX 가전 개발부터 상용제품 출시까지 전 주기를 지원하는 시설로, 중소·중견 가전 기업의 AX 개발 설비 및 데이터 부족 어려움을 해소해 줄 전망이다."
               },
               {
                 "t": "p",
-                "x": "AMD's Ryzen AI 400 series reaches 50 to 60 TOPS, Qualcomm's Snapdragon X2 Elite and X2 Plus 80 TOPS, and Intel's Panther Lake up to 50 TOPS — higher numbers unlock no extra Windows features. Ollama, LM Studio and llama.cpp run on the GPU and CPU, not the NPU."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
-                "cap": "Every current laptop chip clears the 40 TOPS Copilot+ threshold."
+                "x": "센터는 KEA가 2021년부터 운영해 온 전자제조지원센터를 가전제품 AX 개발 거점으로 고도화한 곳이다. 2026~2030년 총 170억원(국비 100억원)을 투입해 AI 보드 제조 설비와 성능 시험장비 등 13종을 구축·개방하고, 전담 엔지니어가 설계·시제품 제작·실증·초도양산 전 과정을 밀착 지원한다. 기존 제품 설계 변경을 최소화하면서 AI 기능을 더하도록 돕고, 국산 AI 반도체 활용을 연계한다."
               },
               {
                 "t": "p",
-                "x": "Memory is what makes laptops more expensive right now. Treat the NPU as a bonus, not a reason to buy: 16GB of RAM is the minimum for Copilot+ features, and for local language models plan on 32GB or a dedicated GPU."
+                "x": "학습데이터 로드맵은 2027~2031년 매년 3종씩 총 15종의 공통 핵심 데이터를 구축한다. 기업 수요조사와 심층 인터뷰로 핵심 데이터 15개를 도출했으며, 2028년부터 전용 플랫폼으로 공유할 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "현장에선 △비욘드허니컴(AI 자동 조리 로봇) △엠마헬스케어(비접촉 생체신호 측정 AI 아기침대) △긱스로프트(AI 헤드폰) △오티톤메디컬(스마트 귀 체온계·진단 플랫폼) △모빌린트(국산 온디바이스 AI 반도체·엣지 솔루션) 등 5개 성과기업 제품 전시도 열렸다. 이민우 실장은 “가전산업의 경쟁력을 이어가려면 제조공정의 AX와 제품의 혁신이 함께 이뤄져야 한다”고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "이제 NPU는\n노트북 구매 이유가 아니다",
-          "body": "칩마다 40 TOPS를 넘고 AI 앱은 NPU를 안 써 Copilot+가 무색하다.",
-          "mini_headline": "Copilot+ NPU, 빛을 잃다",
+        "en": {
+          "headline": "AX commercialization center\nopens for AI home appliances",
+          "body": "The Ministry of Industry and Trade plans to build 15 types of AI appliance training data for small and mid-sized firms.",
+          "mini_headline": "Appliance AX commercialization center opens",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
-                "cap": "연말 선물로 노트북을 고른다면 NPU를 구매 기준으로 삼지 말자."
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
+                "cap": "Lee Min-woo, head of the Industrial Growth Office at the Ministry of Industry and Trade, attends the opening ceremony of the 'Home Appliance AX Commercialization Support Center' at the Electronics Manufacturing Support Center in Yongsan-gu, Seoul, on the 24th. Courtesy of the Ministry of Industry and Trade"
               },
               {
                 "t": "p",
-                "x": "NPU는 Microsoft의 Copilot+ PCs와 Recall 같은 기능으로 들어가는 입장권이었다. 2026년 말 현재 거의 모든 신형 노트북에 NPU가 들어가 있지만 Copilot+ 브랜드는 희미해졌고, 가장 잘 알려진 로컬 AI 앱들은 이 칩을 아예 쓰지 않는다. Copilot+ 요건은 여전히 40 TOPS가 넘는 NPU와 16GB 램, 256GB SSD다. Surface 책임자 Brett Ostrum은 2026년형 Surface 기기를 더는 Copilot+ PCs로 부르지 않는다고 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
-                "cap": "Windows 11의 AI 기능 중 NPU가 필요한 것과 필요 없는 것."
+                "x": "On the 24th, the Ministry of Industry and Trade held an opening ceremony for the 'Home Appliance AX Commercialization Support Center' at the Electronics Manufacturing Support Center in Yongsan-gu, Seoul, and announced an 'AI Home Appliance Training Data Roadmap.' The facility supports the full cycle from AX appliance development to commercial product launch and is expected to ease the shortage of AX development equipment and data faced by small and mid-sized appliance companies."
               },
               {
                 "t": "p",
-                "x": "AMD의 Ryzen AI 400 시리즈는 50~60 TOPS, Qualcomm의 Snapdragon X2 Elite와 X2 Plus는 80 TOPS, Intel의 Panther Lake는 최대 50 TOPS까지 나온다. 그래도 수치가 높다고 Windows 기능이 더 열리지는 않는다. Ollama, LM Studio, llama.cpp는 NPU가 아니라 GPU와 CPU에서 돈다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
-                "cap": "요즘 노트북 칩은 모두 Copilot+ 기준인 40 TOPS를 넘는다."
+                "x": "The center upgrades the Electronics Manufacturing Support Center, which KEA has run since 2021, into a hub for AX development of home appliances. A total of 170억원 (including 100억원 in government funds) will be invested from 2026 to 2030 to build and open 13 types of equipment, including AI board manufacturing facilities and performance testing equipment, and dedicated engineers will closely support the whole process of design, prototyping, verification and initial mass production. The center will help companies add AI functions while keeping changes to existing product designs to a minimum, and will link them to the use of domestic AI chips."
               },
               {
                 "t": "p",
-                "x": "지금 노트북 값을 끌어올리는 건 메모리다. NPU는 구매 이유가 아니라 덤으로 보면 된다. Copilot+ 기능에는 16GB 램이 최소이고, 로컬 언어 모델을 돌리려면 32GB나 별도 GPU를 생각해 두는 게 좋다."
+                "x": "The training data roadmap will build 15 types of common core data from 2027 to 2031, 3 types each year. The 15 core data sets were identified through a corporate demand survey and in-depth interviews, and they will be shared on a dedicated platform from 2028."
+              },
+              {
+                "t": "p",
+                "x": "Products from 5 participating companies were also exhibited on site: Beyond Honeycomb (AI automatic cooking robot), Emma Healthcare (AI baby bed that measures vital signs without contact), Geeksloft (AI headphones), Otiton Medical (smart ear thermometer and diagnostic platform) and Mobilint (domestic on-device AI chips and edge solutions). Lee said, “To sustain the competitiveness of the home appliance industry, AX in manufacturing processes and product innovation must go hand in hand.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "NPUはもう\nノートPCを買う理由ではない",
-          "body": "全チップが40 TOPS超、AIアプリもNPUを使わず、Copilot+は意味が薄い。",
-          "mini_headline": "Copilot+のNPU、優位性を失う",
+          "headline": "AI家電の商用化を支援\nAX製品化支援センター開所",
+          "body": "産業通商部は中小・中堅企業向けAI家電の学習データ15種を構築する計画を示した。",
+          "mini_headline": "家電AX製品化センター開所",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
-                "cap": "ホリデーギフトとしてのノートPC。購入の決め手をNPUにすべきではない。"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
+                "cap": "イ・ミンウ産業通商部産業成長室長が24日、ソウル龍山区の電子製造支援センターで開かれた「家電AX製品化支援センター開所式」に出席した。産業部提供"
               },
               {
                 "t": "p",
-                "x": "NPUは、MicrosoftのCopilot+ PCsやRecallなどの機能への入場券だった。2026年後半の今、ほぼすべての新型ノートPCがNPUを搭載し、Copilot+ブランドは存在感を失いつつあり、最も知られたローカルAIアプリはこのチップをまったく使っていない。Copilot+は今も40 TOPSを超えるNPUに加え、16GBのRAMと256GBのSSDを要件としている。Surface責任者のBrett Ostrumは、2026年のSurfaceデバイスはもはやCopilot+ PCsとは呼ばれないと述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
-                "cap": "Windows 11のAI機能のうち、NPUが必要なものと不要なもの。"
+                "x": "産業通商部は24日、ソウル龍山区の電子製造支援センターで「家電AX製品化支援センター」の開所式を開き、「AI家電学習データ構築ロードマップ」を発表した。AX家電の開発から商用製品の発売まで全周期を支援する施設で、中小・中堅家電企業が抱えるAX開発設備とデータ不足の課題を解消すると見込まれる。"
               },
               {
                 "t": "p",
-                "x": "AMDのRyzen AI 400シリーズは50〜60 TOPS、QualcommのSnapdragon X2 EliteとX2 Plusは80 TOPS、IntelのPanther Lakeは最大50 TOPSに達するが、数値が高くてもWindowsの機能が増えるわけではない。Ollama、LM Studio、llama.cppはNPUではなくGPUとCPUで動作する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
-                "cap": "現行のノートPC向けチップはすべてCopilot+の基準である40 TOPSを超えている。"
+                "x": "同センターは、KEAが2021年から運営してきた電子製造支援センターを家電製品のAX開発拠点へと高度化したものだ。2026〜2030年に総額170억원（国費100억원）を投じ、AIボード製造設備や性能試験装置など13種を構築・開放するほか、専任エンジニアが設計・試作品製作・実証・初期量産の全過程をきめ細かく支援する。既存製品の設計変更を最小限に抑えながらAI機能を加えられるよう支援し、国産AI半導体の活用にもつなげる。"
               },
               {
                 "t": "p",
-                "x": "今ノートPCを高くしているのはメモリだ。NPUは購入理由ではなくおまけと考えるべきだ。Copilot+機能には16GBのRAMが最低限必要で、ローカル言語モデルを使うなら32GBか専用GPUを見込んでおきたい。"
+                "x": "学習データロードマップでは、2027〜2031年に毎年3種ずつ、計15種の共通コアデータを構築する。企業への需要調査と詳細なインタビューを通じてコアデータ15件を選び出しており、2028年から専用プラットフォームで共有する計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "会場では、ビヨンドハニカム（AI自動調理ロボット）、エマヘルスケア（非接触で生体信号を測るAIベビーベッド）、ギークスロフト（AIヘッドホン）、オティトンメディカル（スマート耳式体温計・診断プラットフォーム）、モビリント（国産オンデバイスAI半導体・エッジソリューション）など成果企業5社の製品展示も行われた。イ・ミンウ室長は「家電産業の競争力を維持するには、製造工程のAXと製品の革新が共に進まなければならない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NPU已不再是\n买笔记本的理由",
-          "body": "新芯片普遍超过40 TOPS，本地AI应用也不用NPU，Copilot+标签已无关紧要。",
-          "mini_headline": "Copilot+ NPU优势不再",
+          "headline": "助力AI家电商用化\nAX产品化支援中心揭牌",
+          "body": "产业通商部宣布将为中小及中坚企业构建15类AI家电学习数据。",
+          "mini_headline": "家电AX产品化中心揭牌",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
-                "cap": "笔记本电脑作为节日礼物。NPU不应成为购买的决定因素。"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
+                "cap": "产业通商部产业成长室室长Lee Min-woo于24日出席在首尔龙山区电子制造支援中心举行的“家电AX产品化支援中心揭牌仪式”。产业部供图"
               },
               {
                 "t": "p",
-                "x": "NPU曾是通往Microsoft Copilot+ PCs以及Recall等功能的门票。到2026年底，几乎每台新笔记本都配备了NPU，Copilot+品牌逐渐淡出，而最知名的本地AI应用根本不使用这颗芯片。Copilot+仍要求NPU算力超过40 TOPS，并配备16GB内存和256GB SSD；Surface负责人Brett Ostrum表示，2026年的Surface设备不再称为Copilot+ PCs。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
-                "cap": "Windows 11中哪些AI功能需要NPU，哪些不需要。"
+                "x": "产业通商部24日在首尔龙山区电子制造支援中心举行“家电AX产品化支援中心”揭牌仪式，并发布“AI家电学习数据构建路线图”。该中心为AX家电从开发到商用产品上市提供全周期支持，有望缓解中小及中坚家电企业在AX开发设备和数据方面的短缺。"
               },
               {
                 "t": "p",
-                "x": "AMD的Ryzen AI 400系列达到50至60 TOPS，Qualcomm的Snapdragon X2 Elite和X2 Plus达到80 TOPS，Intel的Panther Lake最高50 TOPS——更高的数字并不会解锁额外的Windows功能。Ollama、LM Studio和llama.cpp运行在GPU和CPU上，而不是NPU。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
-                "cap": "当前所有笔记本芯片都超过了Copilot+ 40 TOPS的门槛。"
+                "x": "该中心由KEA自2021年起运营的电子制造支援中心升级而来，定位为家电产品AX开发基地。2026~2030年将共投入170억원（国费100억원），建设并开放AI主板制造设备、性能测试设备等13类设施，由专职工程师对设计、样机制作、实证和首批量产全过程提供贴身支持。中心将帮助企业在尽量减少现有产品设计改动的前提下加入AI功能，并对接国产AI芯片的应用。"
               },
               {
                 "t": "p",
-                "x": "眼下推高笔记本价格的是内存。应把NPU当作加分项，而不是购买理由：16GB内存是使用Copilot+功能的最低要求，若要运行本地语言模型，应考虑32GB内存或独立GPU。"
+                "x": "学习数据路线图将于2027~2031年每年构建3类、共15类通用核心数据。通过企业需求调查和深度访谈确定了15项核心数据，计划自2028年起通过专用平台共享。"
+              },
+              {
+                "t": "p",
+                "x": "现场还展出了Beyond Honeycomb（AI自动烹饪机器人）、Emma Healthcare（非接触式生命体征监测AI婴儿床）、Geeksloft（AI耳机）、Otiton Medical（智能耳温计及诊断平台）、Mobilint（国产端侧AI芯片及边缘解决方案）等5家成果企业的产品。Lee Min-woo室长表示：“要延续家电产业的竞争力，制造工艺的AX与产品创新必须同步推进。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La NPU ya no es motivo\npara comprar un portátil",
-          "body": "Con todo chip nuevo sobre 40 TOPS y las apps de IA local ignorando la NPU, la etiqueta Copilot+ apenas importa.",
-          "mini_headline": "La NPU de Copilot+ pierde peso",
+          "headline": "Abre un centro AX para llevar\nal mercado electrodomésticos AI",
+          "body": "El Ministerio de Industria y Comercio creará 15 tipos de datos de entrenamiento AI para pymes de electrodomésticos.",
+          "mini_headline": "Abre el centro AX para electrodomésticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
-                "cap": "Un portátil como regalo para las fiestas. La NPU no debería ser lo que decida la compra."
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
+                "cap": "Lee Min-woo, director de la Oficina de Crecimiento Industrial del Ministerio de Industria y Comercio, asiste el día 24 a la ceremonia de apertura del 'Centro de Apoyo a la Comercialización AX de Electrodomésticos', en el Centro de Apoyo a la Fabricación Electrónica de Yongsan-gu, Seúl. Imagen cedida por el ministerio"
               },
               {
                 "t": "p",
-                "x": "La NPU era el pase de entrada a los Copilot+ PCs de Microsoft y a funciones como Recall. A finales de 2026, casi todos los portátiles nuevos tienen NPU, la marca Copilot+ se está desdibujando y las apps de IA local más conocidas no usan ese chip en absoluto. Copilot+ sigue exigiendo una NPU de más de 40 TOPS, además de 16GB de RAM y un SSD de 256GB; el responsable de Surface, Brett Ostrum, dijo que los dispositivos Surface de 2026 ya no se llaman Copilot+ PCs."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
-                "cap": "Qué funciones de IA de Windows 11 necesitan una NPU y cuáles no."
+                "x": "El Ministerio de Industria y Comercio celebró el día 24 la ceremonia de apertura del 'Centro de Apoyo a la Comercialización AX de Electrodomésticos' en el Centro de Apoyo a la Fabricación Electrónica de Yongsan-gu, Seúl, y presentó una 'hoja de ruta para la creación de datos de entrenamiento para electrodomésticos AI'. El centro apoya todo el ciclo, desde el desarrollo de electrodomésticos AX hasta el lanzamiento comercial, y se espera que alivie la falta de equipos y datos para el desarrollo AX que sufren las pequeñas y medianas empresas del sector."
               },
               {
                 "t": "p",
-                "x": "La serie Ryzen AI 400 de AMD alcanza de 50 a 60 TOPS; los Snapdragon X2 Elite y X2 Plus de Qualcomm, 80 TOPS, y Panther Lake de Intel, hasta 50 TOPS: las cifras más altas no desbloquean funciones adicionales de Windows. Ollama, LM Studio y llama.cpp se ejecutan en la GPU y la CPU, no en la NPU."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
-                "cap": "Todos los chips actuales para portátiles superan el umbral de 40 TOPS de Copilot+."
+                "x": "El centro es una mejora del Centro de Apoyo a la Fabricación Electrónica que KEA gestiona desde 2021, convertido ahora en un núcleo de desarrollo AX para electrodomésticos. Entre 2026 y 2030 se invertirán 170억원 en total (100억원 de fondos públicos) para instalar y abrir 13 tipos de equipos, como instalaciones de fabricación de placas AI y equipos de pruebas de rendimiento, e ingenieros dedicados acompañarán de cerca todo el proceso de diseño, prototipado, validación y producción inicial. El centro ayudará a añadir funciones AI con cambios mínimos en el diseño de los productos existentes y fomentará el uso de semiconductores AI nacionales."
               },
               {
                 "t": "p",
-                "x": "Hoy es la memoria lo que encarece los portátiles. Conviene ver la NPU como un extra, no como un motivo de compra: 16GB de RAM es el mínimo para las funciones de Copilot+, y para modelos de lenguaje locales conviene prever 32GB o una GPU dedicada."
+                "x": "La hoja de ruta prevé crear entre 2027 y 2031 un total de 15 tipos de datos básicos comunes, 3 por año. Los 15 conjuntos de datos clave se definieron mediante una encuesta de demanda a empresas y entrevistas en profundidad, y se compartirán a través de una plataforma específica a partir de 2028."
+              },
+              {
+                "t": "p",
+                "x": "En el acto también se expusieron productos de 5 empresas participantes: Beyond Honeycomb (robot de cocina automática con AI), Emma Healthcare (cuna AI que mide constantes vitales sin contacto), Geeksloft (auriculares AI), Otiton Medical (termómetro de oído inteligente y plataforma de diagnóstico) y Mobilint (semiconductores AI nacionales para dispositivos y soluciones edge). Lee afirmó: “Para mantener la competitividad de la industria de electrodomésticos, la AX de los procesos de fabricación y la innovación de los productos deben avanzar juntas”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "이제 NPU는\n노트북 구매 이유가 아니다",
-          "body": "칩마다 40 TOPS를 넘고 AI 앱은 NPU를 안 써 Copilot+가 무색하다.",
-          "mini_headline": "Copilot+ NPU, 빛을 잃다",
+        "en": {
+          "headline": "AX commercialization center\nopens for AI home appliances",
+          "body": "The Ministry of Industry and Trade plans to build 15 types of AI appliance training data for small and mid-sized firms.",
+          "mini_headline": "Appliance AX commercialization center opens",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
-                "cap": "연말 선물로 고르는 노트북. 구매를 결정하는 기준이 NPU여서는 안 된다."
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
+                "cap": "Lee Min-woo, head of the Industrial Growth Office at the Ministry of Industry and Trade, attends the opening ceremony of the 'Home Appliance AX Commercialization Support Center' at the Electronics Manufacturing Support Center in Yongsan-gu, Seoul, on the 24th. Courtesy of the Ministry of Industry and Trade"
               },
               {
                 "t": "p",
-                "x": "NPU는 Microsoft의 Copilot+ PCs와 Recall 같은 기능으로 가는 입장권이었다. 2026년 말 현재 거의 모든 신형 노트북에 NPU가 들어가 있고, Copilot+ 브랜드는 희미해지고 있으며, 가장 잘 알려진 로컬 AI 앱들은 이 칩을 전혀 쓰지 않는다. Copilot+는 여전히 40 TOPS가 넘는 NPU와 16GB 램, 256GB SSD를 요구한다. Surface 책임자 Brett Ostrum은 2026년형 Surface 기기를 더는 Copilot+ PCs로 부르지 않는다고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
-                "cap": "Windows 11의 AI 기능 중 NPU가 필요한 것과 필요 없는 것."
+                "x": "On the 24th, the Ministry of Industry and Trade held an opening ceremony for the 'Home Appliance AX Commercialization Support Center' at the Electronics Manufacturing Support Center in Yongsan-gu, Seoul, and announced an 'AI Home Appliance Training Data Roadmap.' The facility supports the full cycle from AX appliance development to commercial product launch and is expected to ease the shortage of AX development equipment and data faced by small and mid-sized appliance companies."
               },
               {
                 "t": "p",
-                "x": "AMD의 Ryzen AI 400 시리즈는 50~60 TOPS, Qualcomm의 Snapdragon X2 Elite와 X2 Plus는 80 TOPS, Intel의 Panther Lake는 최대 50 TOPS에 이르지만, 수치가 높다고 Windows 기능이 더 열리지는 않는다. Ollama, LM Studio, llama.cpp는 NPU가 아닌 GPU와 CPU에서 돌아간다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
-                "cap": "현재 노트북 칩은 모두 Copilot+ 기준인 40 TOPS를 넘는다."
+                "x": "The center upgrades the Electronics Manufacturing Support Center, which KEA has run since 2021, into a hub for AX development of home appliances. A total of 170억원 (including 100억원 in government funds) will be invested from 2026 to 2030 to build and open 13 types of equipment, including AI board manufacturing facilities and performance testing equipment, and dedicated engineers will closely support the whole process of design, prototyping, verification and initial mass production. The center will help companies add AI functions while keeping changes to existing product designs to a minimum, and will link them to the use of domestic AI chips."
               },
               {
                 "t": "p",
-                "x": "지금 노트북 가격을 끌어올리는 것은 메모리다. NPU는 구매 이유가 아니라 보너스로 여기는 편이 낫다. Copilot+ 기능에는 16GB 램이 최소이고, 로컬 언어 모델을 돌리려면 32GB나 별도 GPU를 염두에 두는 것이 좋다."
+                "x": "The training data roadmap will build 15 types of common core data from 2027 to 2031, 3 types each year. The 15 core data sets were identified through a corporate demand survey and in-depth interviews, and they will be shared on a dedicated platform from 2028."
+              },
+              {
+                "t": "p",
+                "x": "Products from 5 participating companies were also exhibited on site: Beyond Honeycomb (AI automatic cooking robot), Emma Healthcare (AI baby bed that measures vital signs without contact), Geeksloft (AI headphones), Otiton Medical (smart ear thermometer and diagnostic platform) and Mobilint (domestic on-device AI chips and edge solutions). Lee said, “To sustain the competitiveness of the home appliance industry, AX in manufacturing processes and product innovation must go hand in hand.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "NPUはもう\nノートPCを買う理由ではない",
-          "body": "全チップが40 TOPS超、AIアプリもNPUを使わず、Copilot+は意味が薄い。",
-          "mini_headline": "Copilot+のNPU、優位性を失う",
+          "headline": "AI家電の商用化を支援\nAX製品化支援センター開所",
+          "body": "産業通商部は中小・中堅企業向けAI家電の学習データ15種を構築する計画を示した。",
+          "mini_headline": "家電AX製品化センター開所",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
-                "cap": "ホリデーギフトとしてのノートPC。購入の決め手をNPUにすべきではない。"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
+                "cap": "イ・ミンウ産業通商部産業成長室長が24日、ソウル龍山区の電子製造支援センターで開かれた「家電AX製品化支援センター開所式」に出席した。産業部提供"
               },
               {
                 "t": "p",
-                "x": "NPUは、MicrosoftのCopilot+ PCsやRecallなどの機能への入場券だった。2026年後半の今、ほぼすべての新型ノートPCがNPUを搭載し、Copilot+ブランドは存在感を失いつつあり、最も知られたローカルAIアプリはこのチップをまったく使っていない。Copilot+は今も40 TOPSを超えるNPUに加え、16GBのRAMと256GBのSSDを要件としている。Surface責任者のBrett Ostrumは、2026年のSurfaceデバイスはもはやCopilot+ PCsとは呼ばれないと述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
-                "cap": "Windows 11のAI機能のうち、NPUが必要なものと不要なもの。"
+                "x": "産業通商部は24日、ソウル龍山区の電子製造支援センターで「家電AX製品化支援センター」の開所式を開き、「AI家電学習データ構築ロードマップ」を発表した。AX家電の開発から商用製品の発売まで全周期を支援する施設で、中小・中堅家電企業が抱えるAX開発設備とデータ不足の課題を解消すると見込まれる。"
               },
               {
                 "t": "p",
-                "x": "AMDのRyzen AI 400シリーズは50〜60 TOPS、QualcommのSnapdragon X2 EliteとX2 Plusは80 TOPS、IntelのPanther Lakeは最大50 TOPSに達するが、数値が高くてもWindowsの機能が増えるわけではない。Ollama、LM Studio、llama.cppはNPUではなくGPUとCPUで動作する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
-                "cap": "現行のノートPC向けチップはすべてCopilot+の基準である40 TOPSを超えている。"
+                "x": "同センターは、KEAが2021年から運営してきた電子製造支援センターを家電製品のAX開発拠点へと高度化したものだ。2026〜2030年に総額170억원（国費100억원）を投じ、AIボード製造設備や性能試験装置など13種を構築・開放するほか、専任エンジニアが設計・試作品製作・実証・初期量産の全過程をきめ細かく支援する。既存製品の設計変更を最小限に抑えながらAI機能を加えられるよう支援し、国産AI半導体の活用にもつなげる。"
               },
               {
                 "t": "p",
-                "x": "今ノートPCを高くしているのはメモリだ。NPUは購入理由ではなくおまけと考えるべきだ。Copilot+機能には16GBのRAMが最低限必要で、ローカル言語モデルを使うなら32GBか専用GPUを見込んでおきたい。"
+                "x": "学習データロードマップでは、2027〜2031年に毎年3種ずつ、計15種の共通コアデータを構築する。企業への需要調査と詳細なインタビューを通じてコアデータ15件を選び出しており、2028年から専用プラットフォームで共有する計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "会場では、ビヨンドハニカム（AI自動調理ロボット）、エマヘルスケア（非接触で生体信号を測るAIベビーベッド）、ギークスロフト（AIヘッドホン）、オティトンメディカル（スマート耳式体温計・診断プラットフォーム）、モビリント（国産オンデバイスAI半導体・エッジソリューション）など成果企業5社の製品展示も行われた。イ・ミンウ室長は「家電産業の競争力を維持するには、製造工程のAXと製品の革新が共に進まなければならない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NPU已不再是\n买笔记本的理由",
-          "body": "新芯片普遍超过40 TOPS，本地AI应用也不用NPU，Copilot+标签已无关紧要。",
-          "mini_headline": "Copilot+ NPU优势不再",
+          "headline": "助力AI家电商用化\nAX产品化支援中心揭牌",
+          "body": "产业通商部宣布将为中小及中坚企业构建15类AI家电学习数据。",
+          "mini_headline": "家电AX产品化中心揭牌",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
-                "cap": "笔记本电脑作为节日礼物。NPU不应成为购买的决定因素。"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
+                "cap": "产业通商部产业成长室室长Lee Min-woo于24日出席在首尔龙山区电子制造支援中心举行的“家电AX产品化支援中心揭牌仪式”。产业部供图"
               },
               {
                 "t": "p",
-                "x": "NPU曾是通往Microsoft Copilot+ PCs以及Recall等功能的门票。到2026年底，几乎每台新笔记本都配备了NPU，Copilot+品牌逐渐淡出，而最知名的本地AI应用根本不使用这颗芯片。Copilot+仍要求NPU算力超过40 TOPS，并配备16GB内存和256GB SSD；Surface负责人Brett Ostrum表示，2026年的Surface设备不再称为Copilot+ PCs。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
-                "cap": "Windows 11中哪些AI功能需要NPU，哪些不需要。"
+                "x": "产业通商部24日在首尔龙山区电子制造支援中心举行“家电AX产品化支援中心”揭牌仪式，并发布“AI家电学习数据构建路线图”。该中心为AX家电从开发到商用产品上市提供全周期支持，有望缓解中小及中坚家电企业在AX开发设备和数据方面的短缺。"
               },
               {
                 "t": "p",
-                "x": "AMD的Ryzen AI 400系列达到50至60 TOPS，Qualcomm的Snapdragon X2 Elite和X2 Plus达到80 TOPS，Intel的Panther Lake最高50 TOPS——更高的数字并不会解锁额外的Windows功能。Ollama、LM Studio和llama.cpp运行在GPU和CPU上，而不是NPU。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
-                "cap": "当前所有笔记本芯片都超过了Copilot+ 40 TOPS的门槛。"
+                "x": "该中心由KEA自2021年起运营的电子制造支援中心升级而来，定位为家电产品AX开发基地。2026~2030年将共投入170억원（国费100억원），建设并开放AI主板制造设备、性能测试设备等13类设施，由专职工程师对设计、样机制作、实证和首批量产全过程提供贴身支持。中心将帮助企业在尽量减少现有产品设计改动的前提下加入AI功能，并对接国产AI芯片的应用。"
               },
               {
                 "t": "p",
-                "x": "眼下推高笔记本价格的是内存。应把NPU当作加分项，而不是购买理由：16GB内存是使用Copilot+功能的最低要求，若要运行本地语言模型，应考虑32GB内存或独立GPU。"
+                "x": "学习数据路线图将于2027~2031年每年构建3类、共15类通用核心数据。通过企业需求调查和深度访谈确定了15项核心数据，计划自2028年起通过专用平台共享。"
+              },
+              {
+                "t": "p",
+                "x": "现场还展出了Beyond Honeycomb（AI自动烹饪机器人）、Emma Healthcare（非接触式生命体征监测AI婴儿床）、Geeksloft（AI耳机）、Otiton Medical（智能耳温计及诊断平台）、Mobilint（国产端侧AI芯片及边缘解决方案）等5家成果企业的产品。Lee Min-woo室长表示：“要延续家电产业的竞争力，制造工艺的AX与产品创新必须同步推进。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La NPU ya no es motivo\npara comprar un portátil",
-          "body": "Con todo chip nuevo sobre 40 TOPS y las apps de IA local ignorando la NPU, la etiqueta Copilot+ apenas importa.",
-          "mini_headline": "La NPU de Copilot+ pierde peso",
+          "headline": "Abre un centro AX para llevar\nal mercado electrodomésticos AI",
+          "body": "El Ministerio de Industria y Comercio creará 15 tipos de datos de entrenamiento AI para pymes de electrodomésticos.",
+          "mini_headline": "Abre el centro AX para electrodomésticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/d/e/csm_copilot-pc-npu-weihnachten-teaser_c08c48acd1.jpg",
-                "cap": "Un portátil como regalo para las fiestas. La NPU no debería ser lo que decida la compra."
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
+                "cap": "Lee Min-woo, director de la Oficina de Crecimiento Industrial del Ministerio de Industria y Comercio, asiste el día 24 a la ceremonia de apertura del 'Centro de Apoyo a la Comercialización AX de Electrodomésticos', en el Centro de Apoyo a la Fabricación Electrónica de Yongsan-gu, Seúl. Imagen cedida por el ministerio"
               },
               {
                 "t": "p",
-                "x": "La NPU era el pase de entrada a los Copilot+ PCs de Microsoft y a funciones como Recall. A finales de 2026, casi todos los portátiles nuevos tienen NPU, la marca Copilot+ se está desdibujando y las apps de IA local más conocidas no usan ese chip en absoluto. Copilot+ sigue exigiendo una NPU de más de 40 TOPS, además de 16GB de RAM y un SSD de 256GB; el responsable de Surface, Brett Ostrum, dijo que los dispositivos Surface de 2026 ya no se llaman Copilot+ PCs."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_grafik_en_copilot_funktionen_28f8a7c48f.png",
-                "cap": "Qué funciones de IA de Windows 11 necesitan una NPU y cuáles no."
+                "x": "El Ministerio de Industria y Comercio celebró el día 24 la ceremonia de apertura del 'Centro de Apoyo a la Comercialización AX de Electrodomésticos' en el Centro de Apoyo a la Fabricación Electrónica de Yongsan-gu, Seúl, y presentó una 'hoja de ruta para la creación de datos de entrenamiento para electrodomésticos AI'. El centro apoya todo el ciclo, desde el desarrollo de electrodomésticos AX hasta el lanzamiento comercial, y se espera que alivie la falta de equipos y datos para el desarrollo AX que sufren las pequeñas y medianas empresas del sector."
               },
               {
                 "t": "p",
-                "x": "La serie Ryzen AI 400 de AMD alcanza de 50 a 60 TOPS; los Snapdragon X2 Elite y X2 Plus de Qualcomm, 80 TOPS, y Panther Lake de Intel, hasta 50 TOPS: las cifras más altas no desbloquean funciones adicionales de Windows. Ollama, LM Studio y llama.cpp se ejecutan en la GPU y la CPU, no en la NPU."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/5/0/csm_grafik_en_copilot_tops_5a49f1c9cf.png",
-                "cap": "Todos los chips actuales para portátiles superan el umbral de 40 TOPS de Copilot+."
+                "x": "El centro es una mejora del Centro de Apoyo a la Fabricación Electrónica que KEA gestiona desde 2021, convertido ahora en un núcleo de desarrollo AX para electrodomésticos. Entre 2026 y 2030 se invertirán 170억원 en total (100억원 de fondos públicos) para instalar y abrir 13 tipos de equipos, como instalaciones de fabricación de placas AI y equipos de pruebas de rendimiento, e ingenieros dedicados acompañarán de cerca todo el proceso de diseño, prototipado, validación y producción inicial. El centro ayudará a añadir funciones AI con cambios mínimos en el diseño de los productos existentes y fomentará el uso de semiconductores AI nacionales."
               },
               {
                 "t": "p",
-                "x": "Hoy es la memoria lo que encarece los portátiles. Conviene ver la NPU como un extra, no como un motivo de compra: 16GB de RAM es el mínimo para las funciones de Copilot+, y para modelos de lenguaje locales conviene prever 32GB o una GPU dedicada."
+                "x": "La hoja de ruta prevé crear entre 2027 y 2031 un total de 15 tipos de datos básicos comunes, 3 por año. Los 15 conjuntos de datos clave se definieron mediante una encuesta de demanda a empresas y entrevistas en profundidad, y se compartirán a través de una plataforma específica a partir de 2028."
+              },
+              {
+                "t": "p",
+                "x": "En el acto también se expusieron productos de 5 empresas participantes: Beyond Honeycomb (robot de cocina automática con AI), Emma Healthcare (cuna AI que mide constantes vitales sin contacto), Geeksloft (auriculares AI), Otiton Medical (termómetro de oído inteligente y plataforma de diagnóstico) y Mobilint (semiconductores AI nacionales para dispositivos y soluciones edge). Lee afirmó: “Para mantener la competitividad de la industria de electrodomésticos, la AX de los procesos de fabricación y la innovación de los productos deben avanzar juntas”."
               }
             ]
           }
@@ -1391,15 +1411,15 @@
       }
     },
     {
-      "id": "flowtica-verso-comulytic",
+      "id": "galaxy-s27u-laser-af-leak",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Comulytic, 굼뜬\nFlowtica를 제쳤다",
-      "body": "ZDNET은 화면이 느린 Verso보다 $130 미만 Note Pro를 택했다.",
-      "mini_headline": "Note Pro, Flowtica Verso에 승",
+      "headline": "유출: Galaxy S27\nUltra, AI 초점으로",
+      "body": "Galaxy S27 Ultra가 레이저 AF 대신 AI 초점을 쓴다는 설이 나왔다.",
+      "mini_headline": "S27 Ultra 유출: 레이저 AF 대신 AI",
       "tool": "Gadgets",
-      "source": "ZDNET",
-      "url": "https://www.zdnet.com/tech/flowtica-verso-vs-comulytic-note-pro/",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Galaxy-S27-Ultra-Samsung-reportedly-cuts-huge-camera-feature-in-favor-of-AI.1458748.0.html",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -1407,215 +1427,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
-            "cap": "Adrian Kingsley-Hughes/ZDNET"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
+            "cap": "Samsung Galaxy S27 Ultra는 Galaxy S26 Ultra와 디자인이 크게 다를 것으로 알려졌다."
           },
           {
             "t": "p",
-            "x": "새로 나온 Flowtica Verso는 큰 전자종이 터치스크린과 MagSafe 커넥터를 단 AI 음성 녹음기다. ZDNET은 이를 Comulytic의 Note Pro와 비교했다. 둘 다 훌륭하다. 마이크는 Verso가 네 개로 Note Pro의 두 개(통화용 전도 마이크 별도)보다 많지만 녹음 품질은 큰 차이가 없다. Verso의 받아쓰기는 뛰어나고 70시간 배터리 주장도 믿을 만하다. Note Pro는 45시간이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
-            "cap": "Verso에서 Wi-Fi 비밀번호를 입력하는 일은 지연 탓에 답답하다."
+            "x": "Samsung이 Galaxy S27 Ultra에서 3x 광학 줌 카메라를 없앤다는 앞선 보도에 이어 유출자 Ice Universe는 Samsung이 후면 카메라에서 레이저 자동초점 모듈도 뺀다고 주장했다. 이미 확정된 내용이라 최근 디자인 렌더링에도 모듈이 보이지 않는다는 설명이다. 사실이라면 Galaxy S21 Ultra 이후 처음으로 레이저 자동초점이 빠진 Galaxy Ultra 폰이 된다. 더 작은 Galaxy S27 Pro에도 이 모듈은 없다."
           },
           {
             "t": "p",
-            "x": "Verso의 가장 큰 문제는 “정말, 고통스러울 만큼 느리다”는 점이다. 탭한 뒤 반응까지 반 초나 걸려 터치스크린의 장점이 깎여 나가고, “Ask Flowtica” 버튼도 굼떴으며 “인터넷 연결 없음” 메시지까지 떴다. Note Pro는 그냥 잘 작동했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
-            "cap": "Note Pro는 작고 수수하며, 그냥 잘 작동한다."
+            "x": "Ice Universe에 따르면 Galaxy S27 Ultra는 대신 AI 초점 기술에 기댄다. 유출된 후면 구성은 OIS를 갖춘 200 MP 1/1.3\" 메인 카메라, 50 MP 1/2.55\" 5x 잠망경 광학 줌, 50 MP 1/2.5\" 120˚ 초광각이다."
           },
           {
             "t": "p",
-            "x": "Verso의 정가는 $299, Note Pro는 $130 미만이다. Verso의 실시간 받아쓰기, Voice ID, 요약은 구독하지 않으면 한 달 300분으로 묶이지만 Comulytic의 무료 요금제는 기본 요약을 무제한 제공한다. 필자는 당분간 Note Pro를 계속 쓰기로 했다."
+            "x": "Samsung은 지난 5년 동안 Galaxy Ultra 폰에 레이저 자동초점을 넣어 왔다. PDAF에만 의존한 Galaxy S20 Ultra가 출시 초기에 초점 헌팅 문제로 애를 먹자 Samsung은 이를 줄이려고 Galaxy S21 Ultra에 레이저 모듈을 더했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Comulytic Note Pro beats\nthe laggy Flowtica Verso",
-          "body": "ZDNET sticks with the under-$130 Comulytic Note Pro, finding the $299 Flowtica Verso's e-paper screen too slow.",
-          "mini_headline": "Note Pro beats Flowtica Verso",
+          "headline": "Leak: Galaxy S27 Ultra may\ntrade laser autofocus for AI",
+          "body": "Leaker Ice Universe claims Samsung will swap the Galaxy S27 Ultra's laser autofocus for AI focus, an unconfirmed rumor.",
+          "mini_headline": "S27 Ultra leak: AI over laser AF",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
-                "cap": "Adrian Kingsley-Hughes/ZDNET"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
+                "cap": "Samsung Galaxy S27 Ultra's design is allegedly a major departure from the Galaxy S26 Ultra."
               },
               {
                 "t": "p",
-                "x": "The new Flowtica Verso is an AI voice recorder with a big e-paper touchscreen and a MagSafe connector. ZDNET compared it to Comulytic’s Note Pro. Both are excellent: despite the Verso having four microphones to the Note Pro’s two (plus a conduction mic for phone calls), there is no significant difference in recording quality. The Verso’s transcription is excellent and its 70-hour battery claim is believable; the Note Pro offers 45 hours."
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
-                "cap": "Entering a Wi-Fi password on the Verso is frustrating due to lag."
+                "x": "After earlier reports of Samsung ditching the 3x optical zoom camera on the Galaxy S27 Ultra, leaker Ice Universe now alleges that Samsung is also removing the laser autofocus module from its back camera array. The leaker claims the leak is confirmed, which is why recent design renders don't depict the module. If true, it will be the first Galaxy Ultra phone since the Galaxy S21 Ultra to launch without laser autofocus, and the smaller Galaxy S27 Pro won't have one either."
               },
               {
                 "t": "p",
-                "x": "The Verso’s biggest pain point: it is “really, painfully slow.” The half-second lag between tap and reaction undermines the touchscreen, the “Ask Flowtica” button was slow, and it showed “no internet connection” messages. The Note Pro just worked."
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
-                "cap": "The Note Pro is small, unassuming, and just works."
+                "x": "Ice Universe alleges the Galaxy S27 Ultra will rely on AI focus technology instead. The leaked rear setup: a 200 MP 1/1.3\" main camera with OIS, a 50 MP 1/2.55\" 5x periscope optical zoom, and a 50 MP 1/2.5\" 120˚ ultrawide."
               },
               {
                 "t": "p",
-                "x": "The Verso lists at $299; the Note Pro is under $130. The Verso’s live transcription, Voice ID and summaries are limited to 300 minutes a month without a subscription, while Comulytic’s free tier includes unlimited basic summaries. Verdict: the author is sticking with the Note Pro for now."
+                "x": "Samsung has included laser autofocus in Galaxy Ultra phones for the past 5 years: the Galaxy S20 Ultra, which relied solely on PDAF, had serious focus hunting issues early on, and Samsung added the laser module in the Galaxy S21 Ultra to mitigate them."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Comulytic, 굼뜬\nFlowtica를 제쳤다",
-          "body": "ZDNET은 화면이 느린 Verso보다 $130 미만 Note Pro를 택했다.",
-          "mini_headline": "Note Pro, Flowtica Verso에 승",
+          "headline": "유출: Galaxy S27\nUltra, AI 초점으로",
+          "body": "Galaxy S27 Ultra가 레이저 AF 대신 AI 초점을 쓴다는 설이 나왔다.",
+          "mini_headline": "S27 Ultra 유출: 레이저 AF 대신 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
-                "cap": "Adrian Kingsley-Hughes/ZDNET"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
+                "cap": "Samsung Galaxy S27 Ultra는 Galaxy S26 Ultra와 디자인이 크게 다를 것으로 알려졌다."
               },
               {
                 "t": "p",
-                "x": "새로 나온 Flowtica Verso는 큰 전자종이 터치스크린과 MagSafe 커넥터를 단 AI 음성 녹음기다. ZDNET은 이를 Comulytic의 Note Pro와 비교했다. 둘 다 훌륭하다. 마이크는 Verso가 네 개로 Note Pro의 두 개(통화용 전도 마이크 별도)보다 많지만 녹음 품질은 큰 차이가 없다. Verso의 받아쓰기는 뛰어나고 70시간 배터리 주장도 믿을 만하다. Note Pro는 45시간이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
-                "cap": "Verso에서 Wi-Fi 비밀번호를 입력하는 일은 지연 탓에 답답하다."
+                "x": "Samsung이 Galaxy S27 Ultra에서 3x 광학 줌 카메라를 없앤다는 앞선 보도에 이어 유출자 Ice Universe는 Samsung이 후면 카메라에서 레이저 자동초점 모듈도 뺀다고 주장했다. 이미 확정된 내용이라 최근 디자인 렌더링에도 모듈이 보이지 않는다는 설명이다. 사실이라면 Galaxy S21 Ultra 이후 처음으로 레이저 자동초점이 빠진 Galaxy Ultra 폰이 된다. 더 작은 Galaxy S27 Pro에도 이 모듈은 없다."
               },
               {
                 "t": "p",
-                "x": "Verso의 가장 큰 문제는 “정말, 고통스러울 만큼 느리다”는 점이다. 탭한 뒤 반응까지 반 초나 걸려 터치스크린의 장점이 깎여 나가고, “Ask Flowtica” 버튼도 굼떴으며 “인터넷 연결 없음” 메시지까지 떴다. Note Pro는 그냥 잘 작동했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
-                "cap": "Note Pro는 작고 수수하며, 그냥 잘 작동한다."
+                "x": "Ice Universe에 따르면 Galaxy S27 Ultra는 대신 AI 초점 기술에 기댄다. 유출된 후면 구성은 OIS를 갖춘 200 MP 1/1.3\" 메인 카메라, 50 MP 1/2.55\" 5x 잠망경 광학 줌, 50 MP 1/2.5\" 120˚ 초광각이다."
               },
               {
                 "t": "p",
-                "x": "Verso의 정가는 $299, Note Pro는 $130 미만이다. Verso의 실시간 받아쓰기, Voice ID, 요약은 구독하지 않으면 한 달 300분으로 묶이지만 Comulytic의 무료 요금제는 기본 요약을 무제한 제공한다. 필자는 당분간 Note Pro를 계속 쓰기로 했다."
+                "x": "Samsung은 지난 5년 동안 Galaxy Ultra 폰에 레이저 자동초점을 넣어 왔다. PDAF에만 의존한 Galaxy S20 Ultra가 출시 초기에 초점 헌팅 문제로 애를 먹자 Samsung은 이를 줄이려고 Galaxy S21 Ultra에 레이저 모듈을 더했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Comulyticが\n遅いFlowticaに勝る",
-          "body": "ZDNETは画面の遅い$299のVersoより$130未満のNote Proを選ぶ。",
-          "mini_headline": "Note Pro、Flowtica Versoに勝る",
+          "headline": "リーク：Galaxy S27\nUltraはAIフォーカスに",
+          "body": "Galaxy S27 UltraがレーザーAFをAIフォーカスに替えるとの未確認情報が出た。",
+          "mini_headline": "S27 Ultraリーク：レーザーAFよりAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
-                "cap": "Adrian Kingsley-Hughes/ZDNET"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
+                "cap": "Samsung Galaxy S27 Ultraのデザインは、Galaxy S26 Ultraから大きく変わるとされる。"
               },
               {
                 "t": "p",
-                "x": "新しいFlowtica Versoは、大型の電子ペーパー製タッチスクリーンとMagSafeコネクターを備えたAIボイスレコーダーだ。ZDNETはこれをComulyticのNote Proと比較した。どちらも優秀だ。マイクはVersoが四つ、Note Proが二つ(加えて通話用の伝導マイク)だが、録音品質に大きな差はない。Versoの文字起こしは優秀で、70時間というバッテリー持続の公称値も信頼できる。Note Proは45時間だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
-                "cap": "Versoでは遅延のせいでWi-Fiのパスワード入力にいらいらさせられる。"
+                "x": "SamsungがGalaxy S27 Ultraで3x光学ズームカメラを廃止するとの先の報道に続き、リーカーのIce Universeは、Samsungが背面カメラ群からレーザーオートフォーカスモジュールも外すと主張している。リーカーはこの情報が確定済みだとし、最近のデザインレンダリングにモジュールが描かれていないのはそのためだという。事実なら、Galaxy S21 Ultra以降でレーザーオートフォーカスなしに発売される初のGalaxy Ultraとなり、小型のGalaxy S27 Proにも搭載されない。"
               },
               {
                 "t": "p",
-                "x": "Versoの最大の難点は「本当に、つらいほど遅い」ことだ。タップしてから反応するまでの半秒の遅延がタッチスクリーンの利点を損ない、「Ask Flowtica」ボタンも遅く、「インターネット接続なし」というメッセージも表示された。Note Proは普通にきちんと動いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
-                "cap": "Note Proは小さく控えめで、きちんと動く。"
+                "x": "Ice Universeによれば、Galaxy S27 Ultraは代わりにAIフォーカス技術に頼るという。リークされた背面構成は、OIS付きの200 MP 1/1.3\"メインカメラ、50 MP 1/2.55\"の5xペリスコープ光学ズーム、50 MP 1/2.5\"・120˚の超広角だ。"
               },
               {
                 "t": "p",
-                "x": "Versoの定価は$299、Note Proは$130未満だ。Versoのリアルタイム文字起こし、Voice ID、要約はサブスクリプションなしでは月300分までに制限されるが、Comulyticの無料プランには基本要約が無制限で含まれる。結論:筆者は当面Note Proを使い続ける。"
+                "x": "Samsungは過去5年間、Galaxy Ultraにレーザーオートフォーカスを搭載してきた。PDAFのみに頼っていたGalaxy S20 Ultraは発売当初、深刻なフォーカスハンティングの問題を抱えており、Samsungはその緩和のためGalaxy S21 Ultraにレーザーモジュールを追加した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Comulytic录音笔\n胜过卡顿的Flowtica",
-          "body": "ZDNET继续用不到$130的Note Pro，嫌$299的Verso墨水屏太慢。",
-          "mini_headline": "Note Pro胜过Flowtica Verso",
+          "headline": "爆料：Galaxy S27\nUltra或改用AI对焦",
+          "body": "Ice Universe称Galaxy S27 Ultra将改用AI对焦，弃用激光对焦。",
+          "mini_headline": "S27 Ultra爆料：AI取代激光AF",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
-                "cap": "Adrian Kingsley-Hughes/ZDNET"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
+                "cap": "据称Samsung Galaxy S27 Ultra的设计将与Galaxy S26 Ultra大不相同。"
               },
               {
                 "t": "p",
-                "x": "新款Flowtica Verso是一款AI录音设备，配有大尺寸电子纸触摸屏和MagSafe接口。ZDNET将其与Comulytic的Note Pro进行了比较。两者都很出色：尽管Verso有四个麦克风，而Note Pro只有两个（外加一个用于通话的传导麦克风），但录音质量并无明显差别。Verso的转写效果出色，其70小时续航的说法也可信；Note Pro则为45小时。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
-                "cap": "由于延迟，在Verso上输入Wi-Fi密码令人抓狂。"
+                "x": "此前有报道称Samsung将在Galaxy S27 Ultra上取消3x光学变焦摄像头，如今爆料者Ice Universe又称，Samsung还将从后置摄像头阵列中移除激光自动对焦模块。爆料者表示消息已获证实，这也是近期设计渲染图中没有出现该模块的原因。若属实，它将成为自Galaxy S21 Ultra以来首款不配备激光自动对焦的Galaxy Ultra手机，体型更小的Galaxy S27 Pro同样不会配备。"
               },
               {
                 "t": "p",
-                "x": "Verso最大的痛点是它“真的慢得令人痛苦”。从点击到响应之间半秒的延迟削弱了触摸屏的体验，“Ask Flowtica”按钮反应也慢，还出现了“无网络连接”的提示。Note Pro则一直正常工作。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
-                "cap": "Note Pro小巧低调，用起来就是顺手。"
+                "x": "Ice Universe称，Galaxy S27 Ultra将转而依靠AI对焦技术。爆料的后置配置为：带OIS的200 MP 1/1.3\"主摄、50 MP 1/2.55\" 5x潜望式光学变焦，以及50 MP 1/2.5\" 120˚超广角。"
               },
               {
                 "t": "p",
-                "x": "Verso售价$299，Note Pro不到$130。没有订阅的话，Verso的实时转写、Voice ID和摘要功能每月限300分钟，而Comulytic的免费版包含无限次基础摘要。结论：作者目前仍会继续使用Note Pro。"
+                "x": "过去5年，Samsung一直在Galaxy Ultra手机上配备激光自动对焦：仅依赖PDAF的Galaxy S20 Ultra早期存在严重的对焦拉风箱问题，Samsung随后在Galaxy S21 Ultra中加入激光模块以缓解这一问题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Comulytic Note Pro supera\nal lento Flowtica Verso",
-          "body": "ZDNET se queda con el Comulytic Note Pro (menos de $130): la pantalla e-paper del Flowtica Verso ($299) es muy lenta.",
-          "mini_headline": "Note Pro supera a Flowtica Verso",
+          "headline": "Filtración: el Galaxy S27 Ultra\ncambiaría el láser AF por AI",
+          "body": "Ice Universe afirma que Samsung cambiará el autofoco láser del Galaxy S27 Ultra por enfoque AI, un rumor sin confirmar.",
+          "mini_headline": "Filtración del S27 Ultra: AI en lugar de AF láser",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
-                "cap": "Adrian Kingsley-Hughes/ZDNET"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
+                "cap": "El diseño del Samsung Galaxy S27 Ultra supondría un cambio importante respecto al Galaxy S26 Ultra."
               },
               {
                 "t": "p",
-                "x": "El nuevo Flowtica Verso es una grabadora de voz con IA con una gran pantalla táctil de papel electrónico y un conector MagSafe. ZDNET lo comparó con el Note Pro de Comulytic. Ambos son excelentes: aunque el Verso tiene cuatro micrófonos frente a los dos del Note Pro (más un micrófono de conducción para llamadas), no hay una diferencia significativa en la calidad de grabación. La transcripción del Verso es excelente y su promesa de 70 horas de batería resulta creíble; el Note Pro ofrece 45 horas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
-                "cap": "Introducir una contraseña de Wi-Fi en el Verso resulta frustrante por el retardo."
+                "x": "Tras informaciones previas de que Samsung eliminaría la cámara con zoom óptico 3x del Galaxy S27 Ultra, el filtrador Ice Universe afirma ahora que Samsung también quitará el módulo de autofoco láser de su conjunto de cámaras traseras. Según el filtrador, la información está confirmada, y por eso los renders de diseño recientes no muestran el módulo. Si es cierto, será el primer Galaxy Ultra desde el Galaxy S21 Ultra que llegue sin autofoco láser, y el Galaxy S27 Pro, más pequeño, tampoco lo tendrá."
               },
               {
                 "t": "p",
-                "x": "El mayor problema del Verso: es “realmente, dolorosamente lento”. El retardo de medio segundo entre el toque y la reacción resta valor a la pantalla táctil, el botón “Ask Flowtica” era lento y aparecían mensajes de “sin conexión a internet”. El Note Pro, simplemente, funcionó."
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
-                "cap": "El Note Pro es pequeño, discreto y simplemente funciona."
+                "x": "Ice Universe sostiene que el Galaxy S27 Ultra recurrirá en su lugar a tecnología de enfoque AI. La configuración trasera filtrada: una cámara principal de 200 MP 1/1.3\" con OIS, un zoom óptico periscópico 5x de 50 MP 1/2.55\" y un ultra gran angular de 50 MP 1/2.5\" y 120˚."
               },
               {
                 "t": "p",
-                "x": "El Verso tiene un precio de lista de $299; el Note Pro cuesta menos de $130. La transcripción en vivo, Voice ID y los resúmenes del Verso se limitan a 300 minutos al mes sin suscripción, mientras que el plan gratuito de Comulytic incluye resúmenes básicos ilimitados. Veredicto: por ahora, el autor se queda con el Note Pro."
+                "x": "Samsung ha incluido autofoco láser en los Galaxy Ultra durante los últimos 5 años: el Galaxy S20 Ultra, que dependía solo del PDAF, tuvo graves problemas de búsqueda de enfoque al principio, y Samsung añadió el módulo láser en el Galaxy S21 Ultra para mitigarlos."
               }
             ]
           }
@@ -1623,149 +1583,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Comulytic, 굼뜬\nFlowtica를 제쳤다",
-          "body": "ZDNET은 화면이 느린 Verso보다 $130 미만 Note Pro를 택했다.",
-          "mini_headline": "Note Pro, Flowtica Verso에 승",
+          "headline": "유출: Galaxy S27\nUltra, AI 초점으로",
+          "body": "Galaxy S27 Ultra가 레이저 AF 대신 AI 초점을 쓴다는 설이 나왔다.",
+          "mini_headline": "S27 Ultra 유출: 레이저 AF 대신 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
-                "cap": "Adrian Kingsley-Hughes/ZDNET"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
+                "cap": "Samsung Galaxy S27 Ultra의 디자인은 Galaxy S26 Ultra와 크게 달라질 것으로 알려졌다."
               },
               {
                 "t": "p",
-                "x": "새로 나온 Flowtica Verso는 큰 전자종이 터치스크린과 MagSafe 커넥터를 갖춘 AI 음성 녹음기다. ZDNET은 이를 Comulytic의 Note Pro와 비교했다. 둘 다 훌륭하다. Verso의 마이크는 네 개로 Note Pro의 두 개(통화용 전도 마이크 별도)보다 많지만, 녹음 품질에는 큰 차이가 없다. Verso의 받아쓰기는 뛰어나고 70시간 배터리 주장도 믿을 만하다. Note Pro는 45시간이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
-                "cap": "Verso에서 Wi-Fi 비밀번호를 입력하는 일은 지연 탓에 답답하다."
+                "x": "Samsung이 Galaxy S27 Ultra에서 3x 광학 줌 카메라를 없앤다는 앞선 보도에 이어, 유출자 Ice Universe는 Samsung이 후면 카메라 배열에서 레이저 자동초점 모듈도 뺀다고 주장했다. 그는 이 내용이 확정됐으며, 그래서 최근 디자인 렌더링에 모듈이 보이지 않는다고 밝혔다. 사실이라면 Galaxy S21 Ultra 이후 레이저 자동초점 없이 나오는 첫 Galaxy Ultra 폰이 되며, 더 작은 Galaxy S27 Pro에도 이 모듈은 없다."
               },
               {
                 "t": "p",
-                "x": "Verso의 가장 큰 문제는 “정말, 고통스러울 만큼 느리다”는 점이다. 탭하고 반응하기까지 반 초가 걸리는 지연이 터치스크린의 장점을 깎아 먹고, “Ask Flowtica” 버튼도 느렸으며, “인터넷 연결 없음” 메시지까지 떴다. Note Pro는 그냥 잘 작동했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
-                "cap": "Note Pro는 작고 수수하며, 그냥 잘 작동한다."
+                "x": "Ice Universe는 Galaxy S27 Ultra가 그 대신 AI 초점 기술에 기댈 것이라고 주장한다. 유출된 후면 구성은 OIS를 갖춘 200 MP 1/1.3\" 메인 카메라, 50 MP 1/2.55\" 5x 잠망경 광학 줌, 50 MP 1/2.5\" 120˚ 초광각이다."
               },
               {
                 "t": "p",
-                "x": "Verso의 정가는 $299이고 Note Pro는 $130 미만이다. Verso의 실시간 받아쓰기, Voice ID, 요약은 구독 없이는 한 달 300분으로 제한되지만, Comulytic의 무료 요금제에는 기본 요약이 무제한 포함된다. 결론: 필자는 당분간 Note Pro를 계속 쓰기로 했다."
+                "x": "Samsung은 지난 5년 동안 Galaxy Ultra 폰에 레이저 자동초점을 넣어 왔다. PDAF에만 의존한 Galaxy S20 Ultra는 출시 초기에 초점 헌팅 문제가 심각했고, Samsung은 이를 줄이려고 Galaxy S21 Ultra에 레이저 모듈을 더했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Comulyticが\n遅いFlowticaに勝る",
-          "body": "ZDNETは画面の遅い$299のVersoより$130未満のNote Proを選ぶ。",
-          "mini_headline": "Note Pro、Flowtica Versoに勝る",
+          "headline": "リーク：Galaxy S27\nUltraはAIフォーカスに",
+          "body": "Galaxy S27 UltraがレーザーAFをAIフォーカスに替えるとの未確認情報が出た。",
+          "mini_headline": "S27 Ultraリーク：レーザーAFよりAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
-                "cap": "Adrian Kingsley-Hughes/ZDNET"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
+                "cap": "Samsung Galaxy S27 Ultraのデザインは、Galaxy S26 Ultraから大きく変わるとされる。"
               },
               {
                 "t": "p",
-                "x": "新しいFlowtica Versoは、大型の電子ペーパー製タッチスクリーンとMagSafeコネクターを備えたAIボイスレコーダーだ。ZDNETはこれをComulyticのNote Proと比較した。どちらも優秀だ。マイクはVersoが四つ、Note Proが二つ(加えて通話用の伝導マイク)だが、録音品質に大きな差はない。Versoの文字起こしは優秀で、70時間というバッテリー持続の公称値も信頼できる。Note Proは45時間だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
-                "cap": "Versoでは遅延のせいでWi-Fiのパスワード入力にいらいらさせられる。"
+                "x": "SamsungがGalaxy S27 Ultraで3x光学ズームカメラを廃止するとの先の報道に続き、リーカーのIce Universeは、Samsungが背面カメラ群からレーザーオートフォーカスモジュールも外すと主張している。リーカーはこの情報が確定済みだとし、最近のデザインレンダリングにモジュールが描かれていないのはそのためだという。事実なら、Galaxy S21 Ultra以降でレーザーオートフォーカスなしに発売される初のGalaxy Ultraとなり、小型のGalaxy S27 Proにも搭載されない。"
               },
               {
                 "t": "p",
-                "x": "Versoの最大の難点は「本当に、つらいほど遅い」ことだ。タップしてから反応するまでの半秒の遅延がタッチスクリーンの利点を損ない、「Ask Flowtica」ボタンも遅く、「インターネット接続なし」というメッセージも表示された。Note Proは普通にきちんと動いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
-                "cap": "Note Proは小さく控えめで、きちんと動く。"
+                "x": "Ice Universeによれば、Galaxy S27 Ultraは代わりにAIフォーカス技術に頼るという。リークされた背面構成は、OIS付きの200 MP 1/1.3\"メインカメラ、50 MP 1/2.55\"の5xペリスコープ光学ズーム、50 MP 1/2.5\"・120˚の超広角だ。"
               },
               {
                 "t": "p",
-                "x": "Versoの定価は$299、Note Proは$130未満だ。Versoのリアルタイム文字起こし、Voice ID、要約はサブスクリプションなしでは月300分までに制限されるが、Comulyticの無料プランには基本要約が無制限で含まれる。結論:筆者は当面Note Proを使い続ける。"
+                "x": "Samsungは過去5年間、Galaxy Ultraにレーザーオートフォーカスを搭載してきた。PDAFのみに頼っていたGalaxy S20 Ultraは発売当初、深刻なフォーカスハンティングの問題を抱えており、Samsungはその緩和のためGalaxy S21 Ultraにレーザーモジュールを追加した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Comulytic录音笔\n胜过卡顿的Flowtica",
-          "body": "ZDNET继续用不到$130的Note Pro，嫌$299的Verso墨水屏太慢。",
-          "mini_headline": "Note Pro胜过Flowtica Verso",
+          "headline": "爆料：Galaxy S27\nUltra或改用AI对焦",
+          "body": "Ice Universe称Galaxy S27 Ultra将改用AI对焦，弃用激光对焦。",
+          "mini_headline": "S27 Ultra爆料：AI取代激光AF",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
-                "cap": "Adrian Kingsley-Hughes/ZDNET"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
+                "cap": "据称Samsung Galaxy S27 Ultra的设计将与Galaxy S26 Ultra大不相同。"
               },
               {
                 "t": "p",
-                "x": "新款Flowtica Verso是一款AI录音设备，配有大尺寸电子纸触摸屏和MagSafe接口。ZDNET将其与Comulytic的Note Pro进行了比较。两者都很出色：尽管Verso有四个麦克风，而Note Pro只有两个（外加一个用于通话的传导麦克风），但录音质量并无明显差别。Verso的转写效果出色，其70小时续航的说法也可信；Note Pro则为45小时。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
-                "cap": "由于延迟，在Verso上输入Wi-Fi密码令人抓狂。"
+                "x": "此前有报道称Samsung将在Galaxy S27 Ultra上取消3x光学变焦摄像头，如今爆料者Ice Universe又称，Samsung还将从后置摄像头阵列中移除激光自动对焦模块。爆料者表示消息已获证实，这也是近期设计渲染图中没有出现该模块的原因。若属实，它将成为自Galaxy S21 Ultra以来首款不配备激光自动对焦的Galaxy Ultra手机，体型更小的Galaxy S27 Pro同样不会配备。"
               },
               {
                 "t": "p",
-                "x": "Verso最大的痛点是它“真的慢得令人痛苦”。从点击到响应之间半秒的延迟削弱了触摸屏的体验，“Ask Flowtica”按钮反应也慢，还出现了“无网络连接”的提示。Note Pro则一直正常工作。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
-                "cap": "Note Pro小巧低调，用起来就是顺手。"
+                "x": "Ice Universe称，Galaxy S27 Ultra将转而依靠AI对焦技术。爆料的后置配置为：带OIS的200 MP 1/1.3\"主摄、50 MP 1/2.55\" 5x潜望式光学变焦，以及50 MP 1/2.5\" 120˚超广角。"
               },
               {
                 "t": "p",
-                "x": "Verso售价$299，Note Pro不到$130。没有订阅的话，Verso的实时转写、Voice ID和摘要功能每月限300分钟，而Comulytic的免费版包含无限次基础摘要。结论：作者目前仍会继续使用Note Pro。"
+                "x": "过去5年，Samsung一直在Galaxy Ultra手机上配备激光自动对焦：仅依赖PDAF的Galaxy S20 Ultra早期存在严重的对焦拉风箱问题，Samsung随后在Galaxy S21 Ultra中加入激光模块以缓解这一问题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Comulytic Note Pro supera\nal lento Flowtica Verso",
-          "body": "ZDNET se queda con el Comulytic Note Pro (menos de $130): la pantalla e-paper del Flowtica Verso ($299) es muy lenta.",
-          "mini_headline": "Note Pro supera a Flowtica Verso",
+          "headline": "Filtración: el Galaxy S27 Ultra\ncambiaría el láser AF por AI",
+          "body": "Ice Universe afirma que Samsung cambiará el autofoco láser del Galaxy S27 Ultra por enfoque AI, un rumor sin confirmar.",
+          "mini_headline": "Filtración del S27 Ultra: AI en lugar de AF láser",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Flowtica-Verso-vs-Note-Pro.jpg?w=864",
-                "cap": "Adrian Kingsley-Hughes/ZDNET"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
+                "cap": "El diseño del Samsung Galaxy S27 Ultra supondría un cambio importante respecto al Galaxy S26 Ultra."
               },
               {
                 "t": "p",
-                "x": "El nuevo Flowtica Verso es una grabadora de voz con IA con una gran pantalla táctil de papel electrónico y un conector MagSafe. ZDNET lo comparó con el Note Pro de Comulytic. Ambos son excelentes: aunque el Verso tiene cuatro micrófonos frente a los dos del Note Pro (más un micrófono de conducción para llamadas), no hay una diferencia significativa en la calidad de grabación. La transcripción del Verso es excelente y su promesa de 70 horas de batería resulta creíble; el Note Pro ofrece 45 horas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_7003.jpg?w=864",
-                "cap": "Introducir una contraseña de Wi-Fi en el Verso resulta frustrante por el retardo."
+                "x": "Tras informaciones previas de que Samsung eliminaría la cámara con zoom óptico 3x del Galaxy S27 Ultra, el filtrador Ice Universe afirma ahora que Samsung también quitará el módulo de autofoco láser de su conjunto de cámaras traseras. Según el filtrador, la información está confirmada, y por eso los renders de diseño recientes no muestran el módulo. Si es cierto, será el primer Galaxy Ultra desde el Galaxy S21 Ultra que llegue sin autofoco láser, y el Galaxy S27 Pro, más pequeño, tampoco lo tendrá."
               },
               {
                 "t": "p",
-                "x": "El mayor problema del Verso: es “realmente, dolorosamente lento”. El retardo de medio segundo entre el toque y la reacción resta valor a la pantalla táctil, el botón “Ask Flowtica” era lento y aparecían mensajes de “sin conexión a internet”. El Note Pro, simplemente, funcionó."
-              },
-              {
-                "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/img-4111.webp?w=864",
-                "cap": "El Note Pro es pequeño, discreto y simplemente funciona."
+                "x": "Ice Universe sostiene que el Galaxy S27 Ultra recurrirá en su lugar a tecnología de enfoque AI. La configuración trasera filtrada: una cámara principal de 200 MP 1/1.3\" con OIS, un zoom óptico periscópico 5x de 50 MP 1/2.55\" y un ultra gran angular de 50 MP 1/2.5\" y 120˚."
               },
               {
                 "t": "p",
-                "x": "El Verso tiene un precio de lista de $299; el Note Pro cuesta menos de $130. La transcripción en vivo, Voice ID y los resúmenes del Verso se limitan a 300 minutos al mes sin suscripción, mientras que el plan gratuito de Comulytic incluye resúmenes básicos ilimitados. Veredicto: por ahora, el autor se queda con el Note Pro."
+                "x": "Samsung ha incluido autofoco láser en los Galaxy Ultra durante los últimos 5 años: el Galaxy S20 Ultra, que dependía solo del PDAF, tuvo graves problemas de búsqueda de enfoque al principio, y Samsung añadió el módulo láser en el Galaxy S21 Ultra para mitigarlos."
               }
             ]
           }

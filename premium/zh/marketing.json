@@ -6086,6 +6086,126 @@
           "x": "此外，Classic、Elegant和Impact主题默认开启All Deals标签页：它最多展示30个有优惠的产品，由Amazon挑选和排序，Amazon会“为你创建并更新All Deals页面”。品牌可在Store Settings中关闭该标签页，或替换为自己的优惠页面。"
         }
       ]
+    },
+    "marketing/amazon-chatgpt-ads-crawler-block": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
+          "cap": "Ivy Liu"
+        },
+        {
+          "t": "p",
+          "x": "Amazon正付钱给OpenAI，去触达那些它拒绝让ChatGPT研究的购物者。在Prime Day之后沉寂了几个月，它以新一轮U.S. Black Friday广告重返这款聊天机器人，推广促销并引导用户前往Amazon完成购买。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT的购物体验并不链接到单个商品页面，而是链接到Amazon搜索结果，并借助第三方优惠追踪网站来识别商品、折扣和最新价格——不一定需要访问Amazon自己的网站。"
+        },
+        {
+          "t": "p",
+          "x": "eMarketer的Arielle Feger说：“把购物者送到Amazon搜索结果而不是单个商品页面，也创造了另一个靠广告赚钱的机会。”预计Amazon今年在U.S.的搜索广告收入将达到$40.57 billion 。她补充说：“对品牌来说，这带来了为同一个顾客付两次钱的风险。”"
+        },
+        {
+          "t": "p",
+          "x": "9月，Amazon Ads宣布一项合作，让广告主可通过Amazon的DSP购买ChatGPT广告库存。目前尚不清楚Amazon是直接从OpenAI购买ChatGPT广告，还是通过自家DSP购买。双方均拒绝置评。"
+        }
+      ]
+    },
+    "marketing/walmart-meta-muse-blackfriday": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Walmart与Meta合作，让顾客通过Meta的AI智能体Muse选购其Black Friday优惠商品。根据周二宣布的合作，购物者只需告诉Muse想要什么，AI就会寻找商品、比较价格并完成购买。Amazon已采取措施阻止第三方AI智能体代客户购物，而Walmart则积极拥抱这一做法。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
+          "cap": "图片来源：Walmart"
+        },
+        {
+          "t": "p",
+          "x": "用户在Muse应用中登录Walmart账户；Muse向Walmart发送请求，Walmart返回相关商品并协助生成购物车。Muse无法获取顾客的Walmart购物记录或其他个人信息，购物者可以设置消费上限、要求购买前确认，并查看智能体下的订单。"
+        },
+        {
+          "t": "p",
+          "x": "这项体验由Walmart于10月推出的Agent Gateway提供支持，该网关让外部AI助手直接连接其线上商店；Walmart计划向更多开发者和AI平台开放。Instacart也已与Muse合作。"
+        }
+      ]
+    },
+    "marketing/creator-deals-no-ai-clauses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "AI使用是网红营销合同中最新出现的附加条款之一。创作者营销公司Pearpop人才副总裁Kurt Stadelman在Digiday的Creator Strategies活动上表示：“我们确实看到越来越多的合同加入相关条款，规定创作者不得在这些活动的内容中使用AI。”"
+        },
+        {
+          "t": "p",
+          "x": "他说，创作者其实很欢迎品牌的no-AI要求：他们本就担心生成式AI把自己挤出信息流，因此这些条款意味着对人工创作内容的承诺。但Pearpop不得不明确说明，创作者仍可在幕后使用AI工具，比如构思概念或脚本，或分析过往内容的表现。"
+        },
+        {
+          "t": "p",
+          "x": "Stadelman还建议创作者永远不要同意永久授权，付费使用权从三个月起步、以六个月为上限，并把net-90的付款条件争取缩短到net-60，最好是net-30。"
+        }
+      ]
+    },
+    "marketing/etnews-ai-fake-doctor-ad-ban": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "禁止“AI假医生”食品广告的法律将于27日起施行，电商企业纷纷着手管理卖家。修订后的《食品等标示·广告法》禁止利用AI生成、难以与真实区分的声音、图像、视频等，让人误以为专家在推荐或担保食品的广告。不过，并非所有使用AI的食品广告都被禁止。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
+          "cap": "生成式AI制作的图片。"
+        },
+        {
+          "t": "p",
+          "x": "G市场在不当广告监控中新增了“AI虚拟专家推荐·担保”类型。系统会识别“医生推荐”“药师推荐”等文字乃至图片中的字样来查找可疑商品，法律施行前登记的商品也按同一标准检查。"
+        },
+        {
+          "t": "p",
+          "x": "Naver于6月发布“AI生成物使用标准”，禁止在商品信息中放入可能被误认为医生、药师等的虚拟人物，并要求食品类使用其他AI生成内容时进行标注。Coupang和11街则沿用现有的虚假·夸大广告处罚程序应对。"
+        },
+        {
+          "t": "p",
+          "x": "剩下的难题是平台之外的广告。卖家若在外部SNS发布假专家广告来引流买家，仅靠检查商品详情页很难发现。G市场也在通过举报、线索和自主监控掌握外部广告。"
+        }
+      ]
+    },
+    "marketing/chatgpt-orchestrator-adqueries": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/search-chatgpt-geo-best-funded-2026.png?w=1240",
+          "cap": "Picture Alliance via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "自ChatGPT广告系统2月上线以来，广告买家一直迫切希望进一步了解它。高管们正逐步透露更多信息。"
+        },
+        {
+          "t": "p",
+          "x": "负责这家AI实验室广告系统的三位高管向ADWEEK表示，OpenAI会将ChatGPT广告与其自有AI智能体撰写的搜索查询进行匹配。"
+        },
+        {
+          "t": "p",
+          "x": "当用户在ChatGPT中输入提示词时，一个被OpenAI称为“编排器”（orchestrator）的AI智能体会读取对话，判断此人可能想买什么。在用户的广告个性化设置允许时，它还可以参考用户以往的聊天记录。随后，它自行撰写搜索查询，对系统中找到的广告进行排序，并将最佳候选送入竞价；竞价会权衡广告主的出价与每条广告对用户可能的有用程度。"
+        },
+        {
+          "t": "p",
+          "x": "广告主无法看到是什么触发了自己的广告展示：他们只能收到ChatGPT广告表现的汇总报告，而非提示词级别的数据，因此许多广告主把该平台当作测试预算。买家发现ChatGPT广告的CTR落后于Google，而OpenAI $1 billion 的年化广告收入规模，已经比它现在的体量“小得多”。"
+        }
+      ]
     }
   }
 }

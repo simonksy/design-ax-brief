@@ -1,6 +1,31 @@
-{"date":"2026-11-24","section":"music","media":[
-{"id":"music-tiktok-likeness-global","type":"image","src":"pipeline/media/music-tiktok-likeness-global.jpg"},
-{"id":"soundcloud-ai-slop-terms","type":"image","src":"pipeline/media/soundcloud-ai-slop-terms.jpg"},
-{"id":"estepario-ai-reskin-legal","type":"video","src":"pipeline/media/estepario-ai-reskin-legal.mp4","poster":"pipeline/media/estepario-ai-reskin-legal.jpg"},
-{"id":"mcst-ai-training-contract","type":"image","src":"pipeline/media/mcst-ai-training-contract.jpg"},
-{"id":"soniclab-ssnn2-neural-fm","type":"video","src":"pipeline/media/soniclab-ssnn2-neural-fm.mp4","poster":"pipeline/media/soniclab-ssnn2-neural-fm.jpg"}]}
+{
+  "date": "2026-11-25",
+  "section": "music",
+  "media": [
+    {
+      "id": "tidal-ai-music-ban",
+      "type": "image",
+      "src": "pipeline/media/tidal-ai-music-ban.jpg"
+    },
+    {
+      "id": "izotope-nectar5-moments",
+      "type": "image",
+      "src": "pipeline/media/izotope-nectar5-moments.jpg"
+    },
+    {
+      "id": "ntrack-studio11-ai-assistant",
+      "type": "image",
+      "src": "pipeline/media/ntrack-studio11-ai-assistant.jpg"
+    },
+    {
+      "id": "bumastemra-yourneurotune-suno",
+      "type": "image",
+      "src": "pipeline/media/bumastemra-yourneurotune-suno.jpg"
+    },
+    {
+      "id": "seoria-ai-girlgroup",
+      "type": "image",
+      "src": "pipeline/media/seoria-ai-girlgroup.jpg"
+    }
+  ]
+}

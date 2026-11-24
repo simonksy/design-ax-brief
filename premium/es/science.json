@@ -12286,6 +12286,114 @@
           "x": "El artículo \"Architecture-Agnostic Exascale Star-by-Star Simulation of Our Galaxy\" (K. Hirashima et al.) se presentó en SC 2026, la Conferencia Internacional de Computación de Alto Rendimiento, Redes, Almacenamiento y Análisis, celebrada del 15 al 20 de noviembre en Chicago."
         }
       ]
+    },
+    "science/utokyo-materials-extrapolation-gnn": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+          "cap": "El enfoque del equipo para ayudar a los modelos de aprendizaje automático a predecir propiedades de materiales más allá de sus datos de entrenamiento. Crédito: Institute of Industrial Science, The University of Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de aprendizaje automático predicen bien dentro de sus datos de entrenamiento, pero a menudo fallan con materiales distintos a todo lo que han visto, un problema para el descubrimiento de materiales. “El descubrimiento de materiales es intrínsecamente un problema de extrapolación”, escriben los autores."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Tokio proponen un aprendizaje por transferencia desacoplado: redes neuronales de grafos preentrenadas extraen rasgos estructurales y un modelo de regresión más sencillo predice la propiedad objetivo. Entrenado con datos de Materials Project hasta 2018 y evaluado con materiales añadidos hasta 2021, el método redujo el error de predicción un 68% frente a CGCNN, una red neuronal de grafos de extremo a extremo muy utilizada."
+        },
+        {
+          "t": "p",
+          "x": "Funciona mejor cuando los nuevos materiales prolongan patrones químicos o estructurales conocidos y es menos fiable en regímenes químicos o electrónicos poco representados. No requiere un reentrenamiento a gran escala. El estudio se publica en PRX Intelligence."
+        }
+      ]
+    },
+    "science/uci-pmpg-fluid-flow-reconstruction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+          "cap": "Crédito: Unsplash/CC0 Dominio público"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de UC Irvine desarrollaron PMPG-NN, que combina redes neuronales con el principio de mínimo gradiente de presión para reconstruir campos de flujo a partir de mediciones limitadas y ruidosas, sin dejar de ser coherente con la física de fluidos. No necesita mediciones directas de presión."
+        },
+        {
+          "t": "p",
+          "x": "Probado con el flujo alrededor de una esfera, vórtices que interactúan y un flujo en canal dependiente del tiempo, rindió especialmente bien con mucho ruido y datos escasos, y mejoró las estimaciones del gradiente de velocidad."
+        },
+        {
+          "t": "p",
+          "x": "“Toda técnica de imagen médica tiene limitaciones inherentes en lo que puede medir”, afirmó el investigador principal, Arash Kheradvar. Los autores ven aplicaciones en imagen cardiovascular (Echo-PIV y 4D Flow MRI) y en el sector aeroespacial, aunque aún hace falta validación experimental y clínica. El estudio se publica en Physics of Fluids."
+        }
+      ]
+    },
+    "science/fau-beluga-drone-tracking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+          "cap": "Resultados cualitativos de detección con un 1% de etiquetado (34 imágenes etiquetadas) en una imagen de prueba etiquetada (A) y en una imagen sin etiquetar no vista durante el entrenamiento (B). Crédito: Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Florida Atlantic University, junto con Fisheries and Oceans Canada y la Universidad de Manitoba, usan aprendizaje profundo para detectar y seguir belugas a lo largo de secuencias de imágenes aéreas."
+        },
+        {
+          "t": "p",
+          "x": "Con 7.655 imágenes de dron de alta resolución, en las que cada ballena se etiquetó como adulta o cría, entrenaron y compararon cinco modelos de IA con niveles de datos etiquetados del 1% al 50%. El modelo semisupervisado SEMI-DETR alcanzó una precisión media promedio de 19,2 con 34 imágenes etiquetadas, una mejora relativa del 20% sobre el mejor modelo supervisado. La detección de crías mejoró un 24,3% en el nivel del 1%, frente al 16,8% en los adultos."
+        },
+        {
+          "t": "p",
+          "x": "Lograr un rendimiento comparable requirió aproximadamente entre cinco y 10 veces menos anotación. El estudio se publica en Frontiers in Marine Science."
+        }
+      ]
+    },
+    "science/qwen3-quantum-circuit-layers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores sustituyeron ocho capas de un gran modelo de lenguaje por un módulo compacto que puede ejecutarse en un procesador cuántico, lo que redujo el número de parámetros del modelo en torno a un 16% con pocos cambios en su capacidad de predecir texto en simulaciones."
+        },
+        {
+          "t": "p",
+          "x": "El equipo, de Multiverse Computing y la Universidad de Toronto, modificó un modelo Qwen3 preentrenado con 30.500 millones de parámetros: eliminó ocho bloques consecutivos —casi 5.000 millones de parámetros— y colocó en su lugar un único módulo con 145.281 parámetros entrenables. La perplejidad empeoró un 0,9% en WikiText-2, sin una diferencia clara en C4."
+        },
+        {
+          "t": "p",
+          "x": "Los circuitos también se ejecutaron en un procesador IBM Heron de 156 cúbits, con cerca de un minuto y medio por token. Una red convencional de tamaño similar predijo mejor el texto en casi todas las comparaciones. El estudio es un preprint de arXiv."
+        }
+      ]
+    },
+    "science/science-mit-multilingual-brain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
+          "cap": "Un nuevo estudio del laboratorio Fedorenko es el primero en usar modelos multilingües para predecir respuestas cerebrales en muchos idiomas. Imagen: iStock"
+        },
+        {
+          "t": "p",
+          "x": "Pese a la enorme variedad del reino lingüístico, un estudio del MIT ha hallado que el cerebro humano podría procesar todo tipo de idiomas de forma universal. En el estudio, publicado en Nature Neuroscience, los investigadores usaron modelos multilingües para predecir cómo responde el cerebro humano a distintos idiomas y detectaron un proceso cerebral compartido entre personas que, en conjunto, hablaban 21 idiomas diferentes."
+        },
+        {
+          "t": "p",
+          "x": "Mediante aprendizaje automático, de Varda combinó el código de los modelos multilingües con escaneos cerebrales de personas mientras realizaban tareas lingüísticas, y obtuvo modelos de codificación. El laboratorio Fedorenko tenía datos de imagen de hablantes de 12 idiomas y reclutó hablantes de nueve más, entre ellos coreano, hindi, árabe y mandarín, que escucharon historias de \"Alice in Wonderland\" (Alicia en el país de las maravillas) en su lengua materna."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de codificación predijeron con precisión las respuestas cerebrales en los 21 idiomas. Un modelo entrenado en un idioma podía predecir la actividad cerebral en otro que nunca había visto: uno entrenado en francés también predijo respuestas en vietnamita. El análisis indicó que el componente compartido tiene que ver con el significado."
+        },
+        {
+          "t": "p",
+          "x": "\"Hay algo fundamentalmente similar en cómo se comunica el cerebro\", afirma la autora principal, Evelina Fedorenko. El trabajo podría ayudar a que las herramientas clínicas de lenguaje con AI lleguen a hablantes de más idiomas y, algún día, a preservar lenguas en peligro."
+        }
+      ]
     }
   }
 }

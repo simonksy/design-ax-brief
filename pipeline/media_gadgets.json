@@ -1,31 +1,7 @@
-{
- "date": "2026-11-24",
- "section": "gadgets",
- "media": [
-  {
-   "id": "dutch-ap-camera-glasses",
-   "type": "image",
-   "src": "pipeline/media/dutch-ap-camera-glasses.jpg"
-  },
-  {
-   "id": "paradromics-nvidia-bci",
-   "type": "image",
-   "src": "pipeline/media/paradromics-nvidia-bci.jpg"
-  },
-  {
-   "id": "asus-proart-p14-rtxspark",
-   "type": "image",
-   "src": "pipeline/media/asus-proart-p14-rtxspark.jpg"
-  },
-  {
-   "id": "copilot-pc-npu-buying",
-   "type": "image",
-   "src": "pipeline/media/copilot-pc-npu-buying.jpg"
-  },
-  {
-   "id": "flowtica-verso-comulytic",
-   "type": "image",
-   "src": "pipeline/media/flowtica-verso-comulytic.jpg"
-  }
- ]
-}
+{"date":"2026-11-25","section":"gadgets","media":[
+{"id":"pocketalk-x-desk-translator","type":"video","src":"pipeline/media/pocketalk-x-desk-translator.mp4","poster":"pipeline/media/pocketalk-x-desk-translator.jpg"},
+{"id":"honor-magic9-promax-global","type":"image","src":"pipeline/media/honor-magic9-promax-global.jpg"},
+{"id":"foundation-phantom-mkii","type":"video","src":"pipeline/media/foundation-phantom-mkii.mp4","poster":"pipeline/media/foundation-phantom-mkii.jpg"},
+{"id":"gadgets-ax-appliance-center","type":"image","src":"pipeline/media/gadgets-ax-appliance-center.jpg"},
+{"id":"galaxy-s27u-laser-af-leak","type":"image","src":"pipeline/media/galaxy-s27u-laser-af-leak.jpg"}
+]}

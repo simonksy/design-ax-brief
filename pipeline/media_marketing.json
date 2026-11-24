@@ -1,32 +1,31 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "section": "marketing",
   "media": [
     {
-      "id": "chatgpt-orchestrator-adqueries",
+      "id": "chatgpt-health-ads-webmd",
       "type": "image",
-      "src": "pipeline/media/chatgpt-orchestrator-adqueries.jpg"
+      "src": "pipeline/media/chatgpt-health-ads-webmd.jpg"
     },
     {
-      "id": "higgsfield-playable-ads",
-      "type": "video",
-      "src": "pipeline/media/higgsfield-playable-ads.mp4",
-      "poster": "pipeline/media/higgsfield-playable-ads.jpg"
+      "id": "amazon-chatgpt-ads-crawler-block",
+      "type": "image",
+      "src": "pipeline/media/amazon-chatgpt-ads-crawler-block.jpg"
     },
     {
-      "id": "pinterest-msads-inventory",
+      "id": "walmart-meta-muse-blackfriday",
       "type": "image",
-      "src": "pipeline/media/pinterest-msads-inventory.jpg"
+      "src": "pipeline/media/walmart-meta-muse-blackfriday.jpg"
     },
     {
-      "id": "chatgpt-shopping-partnership-doc",
+      "id": "creator-deals-no-ai-clauses",
       "type": "image",
-      "src": "pipeline/media/chatgpt-shopping-partnership-doc.jpg"
+      "src": "pipeline/media/creator-deals-no-ai-clauses.jpg"
     },
     {
-      "id": "organicity-d2c-ai",
+      "id": "etnews-ai-fake-doctor-ad-ban",
       "type": "image",
-      "src": "pipeline/media/organicity-d2c-ai.jpg"
+      "src": "pipeline/media/etnews-ai-fake-doctor-ad-ban.png"
     }
   ]
 }

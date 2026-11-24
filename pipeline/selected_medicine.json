@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "section": "medicine",
   "items": [
     {
@@ -7,95 +7,95 @@
       "category": "medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
-      "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo",
-      "source": "BBC News",
-      "published_iso": "2026-11-23T00:49:22Z",
-      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
-      "excerpt": "NHS England has begun inviting women into EDITH, billed as the world's largest trial of AI in breast cancer screening (around 700,000 women), testing whether AI can replace one of the two human readers of mammograms and spot cancers earlier.",
-      "rationale": "National-scale prospective trial (about 700,000 women) testing AI as a replacement second reader in NHS breast screening; a care-pathway change, not just a model paper."
+      "title": "AI Helped Hospital Lower Readmissions, Deaths After Discharge",
+      "url": "https://www.medpagetoday.com/hospitalbasedmedicine/generalhospitalpractice/124037",
+      "source": "MedPage Today",
+      "published_iso": "2026-11-24T20:10:00Z",
+      "og_image": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
+      "excerpt": "Houston Methodist used HDAI predictive AI (trained on Medicare data) to target post-discharge follow-up for its highest-risk Medicare surgical patients; 30-day post-discharge mortality fell ~35% and readmissions ~18% with no added staff, per an HLTH case study.",
+      "rationale": "Real hospital deployment with patient outcomes (about 35% lower 30-day mortality, 18% fewer readmissions) and no added staff. It changes care operations, not just model metrics."
     },
     {
       "tool": "Medicine",
       "category": "medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "AI in Mental Health Airlock to support safe innovation",
-      "url": "https://www.gov.uk/government/news/ai-in-mental-health-airlock-to-support-safe-innovation",
-      "source": "GOV.UK (MHRA)",
-      "published_iso": "2026-11-23T16:46:00+00:00",
-      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "excerpt": "The MHRA is launching an 'AI in Mental Health Airlock', a new regulatory sandbox to test how safety of AI-enabled digital mental health technologies can be evaluated and regulated.",
-      "rationale": "Primary regulator release: MHRA opens a sandbox specifically for AI mental-health tools, shaping how such devices will be evaluated and approved in the UK (assigned to medicine, not politics)."
-    },
-    {
-      "tool": "Medicine",
-      "category": "medicine",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "title": "Photon pharmacy marketplace integrated with ChatGPT for clinicians",
-      "url": "https://www.fiercehealthcare.com/health-tech/photon-pharmacy-marketplace-integrated-chatgpt-clinicians",
-      "source": "Fierce Healthcare",
-      "published_iso": "2026-11-23T08:30:00-05:00",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
-      "excerpt": "Photon, a prescription infrastructure company, is now available as a plugin for ChatGPT to streamline prescribing for clinicians within a tool they already use. | The patient experience remains the same through Photon. What is new is where the clinician can write a prescription. Clinicians with a Ph",
-      "rationale": "New release that puts e-prescribing inside ChatGPT for clinicians, moving a regulated clinical action into a general-purpose chatbot workflow."
-    },
-    {
-      "tool": "Medicine",
-      "category": "medicine",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "title": "심부전 치료제 효과, AI로 환자별 예측한다",
-      "url": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=99050",
-      "source": "후생신보",
-      "published_iso": "2026-11-23T09:46:58+09:00",
-      "og_image": "https://cdn.kmedinfo.co.kr/news/thumbnail/202611/99050_63326_4653_v150.jpg",
-      "excerpt": "국내 연구진이 16가지 임상정보로 특정 심부전 치료제의 효과가 클 환자를 구분하는 AI 도구를 개발했다. 같은 약이라도 환자별로 달라지는 치료 혜택을 예측한다.",
-      "rationale": "Korean team's AI tool uses 16 routine clinical variables to predict which heart-failure patients benefit most from a specific drug: treatment personalization at the prescribing decision."
+      "title": "AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
+      "url": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/",
+      "source": "STAT",
+      "published_iso": "2026-11-24T09:30:00+00:00",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
+      "excerpt": "Ahead of RSNA 2026 in Chicago, STAT examines AI tools that draft radiology reports from X-rays and CT scans and the open question of whether draft reporting improves care and safety.",
+      "rationale": "Credible pre-RSNA look at the safety and quality question behind AI-drafted radiology reports, a category now moving into clinical workflow."
     },
     {
       "tool": "Medicine",
       "category": "medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "Ambient AI documentation for structured EMR import in ophthalmology: consultation time, physician gaze behaviour and comparative accuracy",
-      "url": "https://www.nature.com/articles/s41433-026-05028-5",
-      "source": "Eye (Nature)",
-      "published_iso": "2026-11-23T00:00:00Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-026-05028-5/MediaObjects/41433_2026_5028_Fig1_HTML.png",
-      "excerpt": "EMR documentation contributes to physician workload and reduced patient–physician interaction, with ophthalmology particularly affected by specialist data requirements. This study compared ambient AI-assisted documentation for structured EMR import with conventional entry in standardised ophthalmic ",
-      "rationale": "Peer-reviewed clinic study measuring whether ambient AI that writes structured EMR fields changes consultation time, where the physician looks (patient vs screen) and record accuracy: direct evidence for clinicians weighing AI documentation in specialist clinics."
+      "title": "Thyroid ultrasound AI yields high agreement with radiologists",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/ultrasound-preview/article/16542262/thyroid-ultrasound-ai-yields-high-agreement-with-radiologists",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-23T12:00:00Z",
+      "og_image": null,
+      "excerpt": "RSNA 2026 preview: a large real-world deployment of See-Mode thyroid ultrasound AI across 297 U.S. clinics prospectively measured how often radiologists kept the AI-generated TI-RADS descriptors.",
+      "rationale": "Prospective real-world evidence from 297 clinics on how often radiologists keep AI TI-RADS output. Directly relevant to practice."
+    },
+    {
+      "tool": "Medicine",
+      "category": "medicine",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "title": "GEHC adds AI layer to InteleOrchestrator",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16542651/ge-healthcare-gehc-adds-ai-layer-to-inteleorchestrator",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-24T16:03:20Z",
+      "og_image": null,
+      "excerpt": "GE HealthCare's Intelerad unit introduces InteleOrchestrator Clarity, an AI layer that gives radiologists source-linked summaries of prior reports and drafts structured reports from dictation for review.",
+      "rationale": "New product release (InteleOrchestrator Clarity) that puts source-linked prior summaries and structured-report drafting inside the radiologist worklist. It is a different product from the 11-04 Vscan Air card."
+    },
+    {
+      "tool": "Medicine",
+      "category": "medicine",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "title": "Challenges in AI based tumor board case summarization and recommendations",
+      "url": "https://www.nature.com/articles/s41746-026-03442-3",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-11-24T03:53:00Z",
+      "og_image": null,
+      "excerpt": "Researchers formally define tumor-board case summarization, treatment-option generation and meeting-outcome prediction as AI tasks and test them on tumor board datasets, mapping where current models fall short.",
+      "rationale": "Peer-reviewed study that maps where current models fall short at multidisciplinary cancer tumor boards, a decision point that affects patients directly."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo": {
+      "https://www.medpagetoday.com/hospitalbasedmedicine/generalhospitalpractice/124037": {
         "verdict": "new",
-        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.gov.uk/government/news/ai-in-mental-health-airlock-to-support-safe-innovation": {
+      "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/": {
         "verdict": "new",
-        "nearest": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.44315",
+        "nearest": "https://www.auntminnie.com/clinical-news/digital-x-ray/news/16050409/hoppr-hoppr-releases-wholebody-msk-xray-report-drafting-model",
         "new_action": ""
       },
-      "https://www.fiercehealthcare.com/health-tech/photon-pharmacy-marketplace-integrated-chatgpt-clinicians": {
+      "https://www.auntminnie.com/resources/conference/rsna/2026/ultrasound-preview/article/16542262/thyroid-ultrasound-ai-yields-high-agreement-with-radiologists": {
         "verdict": "new",
-        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude",
+        "nearest": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425184/ai-triage-algorithms-yield-varied-results-in-realworld-use",
         "new_action": ""
       },
-      "http://www.kmedinfo.co.kr/news/articleView.html?idxno=99050": {
+      "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16542651/ge-healthcare-gehc-adds-ai-layer-to-inteleorchestrator": {
         "verdict": "new",
-        "nearest": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/ai-flags-heart-failure-patients-risk-functional-decline",
+        "nearest": "https://www.auntminnie.com/clinical-news/ultrasound/news/16349404/ge-healthcare-gehc-adds-lung-aortic-stenosis-ai-tools-to-vscan-air",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s41433-026-05028-5": {
+      "https://www.nature.com/articles/s41746-026-03442-3": {
         "verdict": "new",
-        "nearest": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.42403",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "REPLACEMENT 2026-11-24: dropped NEJM AI 'FDA-Authorized AI/ML Tool for Sepsis Prediction' (ai.nejm.org/doi/full/10.1056/AIx2601439) in fact-check, it is only an erratum for a December 2024 paper, not new work; replaced with Eye (Nature) ambient AI documentation study in ophthalmology (s41433-026-05028-5, no history_match; the nearest published items are the 11-07 JAMA AI-scribe note-closure study and the 10-27 MedPage scribe productivity item, which are different studies, settings and outcomes). Replacement alternatives rejected: MIRA (메디게이트, possible overlap with the science 11-22 Nature card, so skipped when unsure), AuntMinnie BUS-Risk-Net/ScreenTrustMRI (second breast-imaging card next to EDITH), Danaher-Microsoft and Innovaccer-Grok (vendor partnership/integration), STAT scribe market (newsletter analysis), 후생신보 tinnitus (would be a 2nd 후생신보 card and a near-twin 'AI patient subtyping' theme to the heart-failure pick), Nature Cancer THREADS and npj lung model (model papers, npj has no og_image), ORION-CMR (11-12 preview, stale). Original note: No candidate URL matches the 30-day medicine history_digest; history_match tags on the kept picks are 'related' bands with different content. Outlets now: BBC, GOV.UK, Fierce Healthcare, 후생신보, Eye/Nature (5 distinct). Orchestrator should exact-grep the replacement URL in published_urls.json across all sections before roll."
+    "note": "Pool 11, no URL repeats against the 30-day history_digest. All history_match tags are 'related' only and are different studies or products. Not picked: NEJM AI sepsis tool (body not retrievable; the brief says to skip it because it may be the 2024 erratum seen on 11-24). Also not picked: npj pancreatic-cyst risk model (a different study from the 11-22 CT biomarker card, but left out for topic spread), npj ICU chest-CT body composition, AuntMinnie ovarian phantom (a test-tool study only), Innovaccer x Grok Voice (vendor integration with no outcomes), and MedCity nursing opinion (an opinion piece). Outlets: MedPage, STAT, AuntMinnie x2, npj Digital Medicine. published_urls.json was not fully grepped across sections; the candidate outlets are medicine-only, so a cross-section clash is unlikely."
   }
 }

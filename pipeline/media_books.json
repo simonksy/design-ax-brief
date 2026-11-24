@@ -1,32 +1,31 @@
 {
- "date": "2026-11-24",
- "section": "books",
- "media": [
-  {
-   "id": "books-horst-ki-stylometry",
-   "type": "image",
-   "src": "pipeline/media/books-horst-ki-stylometry.jpg"
-  },
-  {
-   "id": "books-forfatterforbundet-ki-detektor",
-   "type": "image",
-   "src": "pipeline/media/books-forfatterforbundet-ki-detektor.jpg"
-  },
-  {
-   "id": "books-crime-punishment-ai-translation",
-   "type": "video",
-   "src": "pipeline/media/books-crime-punishment-ai-translation.mp4",
-   "poster": "pipeline/media/books-crime-punishment-ai-translation.jpg"
-  },
-  {
-   "id": "books-ai-slop-academic-names",
-   "type": "image",
-   "src": "pipeline/media/books-ai-slop-academic-names.jpg"
-  },
-  {
-   "id": "books-scholarlykitchen-bot-taxonomy",
-   "type": "image",
-   "src": "pipeline/media/books-scholarlykitchen-bot-taxonomy.jpg"
-  }
- ]
+  "date": "2026-11-25",
+  "section": "books",
+  "media": [
+    {
+      "id": "darcos-ia-droit-auteur-loi",
+      "type": "image",
+      "src": "pipeline/media/darcos-ia-droit-auteur-loi.jpg"
+    },
+    {
+      "id": "khan-sinchun-ai-interview",
+      "type": "image",
+      "src": "pipeline/media/khan-sinchun-ai-interview.jpg"
+    },
+    {
+      "id": "japan-ai-piracy-manga-detect",
+      "type": "image",
+      "src": "pipeline/media/japan-ai-piracy-manga-detect.jpg"
+    },
+    {
+      "id": "transept-ai-book-translator",
+      "type": "image",
+      "src": "pipeline/media/transept-ai-book-translator.jpg"
+    },
+    {
+      "id": "naver-webtoon-recsys-paper",
+      "type": "image",
+      "src": "pipeline/media/naver-webtoon-recsys-paper.jpg"
+    }
+  ]
 }

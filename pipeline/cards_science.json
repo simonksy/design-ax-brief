@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "section": "science",
   "cards": [
     {
-      "id": "science-mit-multilingual-brain",
+      "id": "cornell-chatbot-conspiracy-crisis",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "21개 언어에서\n뇌는 의미를 같게 담는다",
-      "body": "MIT 연구진이 다국어 AI 모델로 보니 뇌는 21개 언어의 의미를 같게 담았다.",
-      "mini_headline": "의미를 담는 하나의 신경 부호",
+      "headline": "챗봇, 갓 생겨난 음모론도\n대화로 풀어낸다",
+      "body": "정보가 적은 위기 직후에도 AI 챗봇과의 대화가 음모론자 약 15%를 설득했다.",
+      "mini_headline": "챗봇 대 새 음모론",
       "tool": "Science",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+      "source": "Cornell Chronicle",
+      "url": "https://news.cornell.edu/stories/2026/11/chatbots-can-quash-emerging-conspiracy-theories",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,179 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
-            "cap": "Fedorenko 연구실의 새 연구는 다국어 모델로 여러 언어의 뇌 반응을 예측한 첫 사례다. 이미지: iStock"
+            "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
           },
           {
             "t": "p",
-            "x": "세상의 언어는 이토록 다양하지만, MIT 연구에 따르면 인간의 뇌는 어떤 언어든 보편적인 방식으로 처리한다. Nature Neuroscience에 실린 이번 연구에서 연구진은 다국어 모델로 여러 언어를 들을 때의 뇌 반응을 예측했다. 21개 언어 사용자 모두에게서 공통된 처리 과정이 나타났다."
+            "x": "2024년 7월 13일 도널드 트럼프가 야외 유세에서 암살 시도를 피한 직후부터 소문이 돌기 시작했다. 며칠 만에 코넬대, MIT, 카네기멜런대 연구진은 사람들이 믿는 음모론을 DebunkBot에 털어놓게 했다. 잘못된 정보를 반박하라는 지시를 받은 AI 기반(AI-powered) 챗봇이다."
           },
           {
             "t": "p",
-            "x": "de Varda는 머신러닝을 써서 다국어 모델의 코드와 언어 과제 중인 사람들의 뇌 스캔을 엮어 인코딩 모델을 만들었다. Fedorenko 연구실에는 이미 12개 언어 화자의 영상 데이터가 있었고, 한국어·힌디어·아랍어·중국어(만다린) 등 아홉 개 언어 화자를 추가로 모집했다. 이들은 『이상한 나라의 앨리스』(Alice in Wonderland) 속 이야기를 모국어로 들었다."
+            "x": "연구팀은 정보가 거의 없는 위기 직후에도 대화를 나누면 사람들의 15%가 음모론에서 벗어난다는 사실을 확인했다. 논문 「Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models」는 11월 23일 Proceedings of the National Academy of Sciences(미국국립과학원회보)에 실렸다."
           },
           {
             "t": "p",
-            "x": "인코딩 모델은 21개 언어 모두에서 뇌 반응을 정확히 예측했다. 한 언어로 학습한 모델이 처음 보는 언어의 뇌 활동까지 예측했는데, 프랑스어로 학습한 모델이 베트남어 반응도 예측해 냈다. 분석 결과로는 이 공통 요소가 의미와 관련된 것으로 보인다."
+            "x": "연구진은 2025년 9월 찰리 커크 암살 이후 같은 실험을 되풀이했다. 참가자는 봇과의 짧은 대화, 팩트 시트, 무관한 대화 중 하나에 무작위로 배정됐다. 두 위기 모두에서 DebunkBot은 음모론 믿음을 낮췄고 효과는 팩트 시트의 약 다섯에서 일곱 배였다. DebunkBot과 대화한 사람들은 이후 트럼프를 겨냥한 또 다른 시도를 두고도 음모론을 덜 믿었다."
           },
           {
             "t": "p",
-            "x": "책임저자 Evelina Fedorenko는 \"뇌가 소통하는 방식에는 근본적으로 비슷한 무언가가 있다\"고 말한다. 이번 연구는 임상용 AI 언어 도구를 더 많은 언어 사용자에게 넓히는 데 보탬이 되고, 언젠가는 사라질 위기의 언어를 지키는 데도 쓰일 수 있다."
+            "x": "“이제 과제는 사람들을 토끼굴에서 끌어내는 일이라기보다, 애초에 대화에 참여하게 만드는 일이다.” 제1저자인 카네기멜런대 토머스 코스텔로의 말이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Brains may encode meaning\nthe same way in 21 languages",
-          "body": "Using a multilingual AI model, an MIT study suggests the brain encodes meaning alike across 21 languages.",
-          "mini_headline": "One neural code for meaning",
+          "headline": "Chatbots can talk people out of\nbrand-new conspiracy theories",
+          "body": "AI chatbot conversations talked about 15% of people out of conspiracy beliefs after a crisis, when little is known.",
+          "mini_headline": "Chatbots vs new conspiracies",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
-                "cap": "A new study from the Fedorenko lab is the first to use multilingual models to predict brain responses across many languages. Image: iStock"
+                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
               },
               {
                 "t": "p",
-                "x": "Despite so much variety in the linguistic kingdom, an MIT study has found that the human brain may process all sorts of languages in a universal way. In the study published in Nature Neuroscience, the researchers used multilingual models to predict how the human brain responds to various languages, and detected a shared brain process across people who collectively spoke 21 different languages."
+                "x": "Rumors began circulating right after Donald Trump survived an assassination attempt at an open-air rally on July 13, 2024. Within days, researchers from Cornell, MIT and Carnegie Mellon University invited people to share their conspiracy beliefs with the DebunkBot, an AI-powered chatbot instructed to counter misinformation."
               },
               {
                 "t": "p",
-                "x": "Using machine learning, de Varda merged the multilingual models' code with scans of people's brains as they performed linguistic tasks, producing encoding models. The Fedorenko lab had imaging data from speakers of 12 languages and recruited speakers of nine more, including Korean, Hindi, Arabic and Mandarin, who listened to stories from \"Alice in Wonderland\" in their native language."
+                "x": "The team found that 15% of people could be talked out of their conspiracy beliefs in the immediate aftermath of a crisis, when very little information is known. The paper, “Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models,” published Nov. 23 in Proceedings of the National Academy of Sciences."
               },
               {
                 "t": "p",
-                "x": "The encoding models accurately predicted brain responses in all 21 languages. A model trained in one language could predict brain activity for a language it had never seen: one trained on French also predicted responses in Vietnamese. Analysis suggested the shared component has something to do with meaning."
+                "x": "The experiment was repeated after the September 2025 assassination of Charlie Kirk. Participants were randomly assigned to a short exchange with the bot, a fact sheet, or an unrelated conversation. After both crises, DebunkBot reduced conspiracy beliefs and was about five to seven times more effective than a fact sheet. People who had talked with it were also less likely to hold conspiratorial beliefs about a later attempt on Trump."
               },
               {
                 "t": "p",
-                "x": "\"There is something fundamentally similar in how the brain communicates,\" says senior author Evelina Fedorenko. The work may help clinical AI language tools reach speakers of more languages, and might one day help preserve endangered ones."
+                "x": "“The challenge now isn’t so much pulling people out of the rabbit hole. It’s getting them to engage in the first place,” said first author Thomas Costello of Carnegie Mellon University."
               }
             ]
           }
         },
         "ko": {
-          "headline": "21개 언어에서\n뇌는 의미를 같게 담는다",
-          "body": "MIT 연구진이 다국어 AI 모델로 보니 뇌는 21개 언어의 의미를 같게 담았다.",
-          "mini_headline": "의미를 담는 하나의 신경 부호",
+          "headline": "챗봇, 갓 생겨난 음모론도\n대화로 풀어낸다",
+          "body": "정보가 적은 위기 직후에도 AI 챗봇과의 대화가 음모론자 약 15%를 설득했다.",
+          "mini_headline": "챗봇 대 새 음모론",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
-                "cap": "Fedorenko 연구실의 새 연구는 다국어 모델로 여러 언어의 뇌 반응을 예측한 첫 사례다. 이미지: iStock"
+                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
               },
               {
                 "t": "p",
-                "x": "세상의 언어는 이토록 다양하지만, MIT 연구에 따르면 인간의 뇌는 어떤 언어든 보편적인 방식으로 처리한다. Nature Neuroscience에 실린 이번 연구에서 연구진은 다국어 모델로 여러 언어를 들을 때의 뇌 반응을 예측했다. 21개 언어 사용자 모두에게서 공통된 처리 과정이 나타났다."
+                "x": "2024년 7월 13일 도널드 트럼프가 야외 유세에서 암살 시도를 피한 직후부터 소문이 돌기 시작했다. 며칠 만에 코넬대, MIT, 카네기멜런대 연구진은 사람들이 믿는 음모론을 DebunkBot에 털어놓게 했다. 잘못된 정보를 반박하라는 지시를 받은 AI 기반(AI-powered) 챗봇이다."
               },
               {
                 "t": "p",
-                "x": "de Varda는 머신러닝을 써서 다국어 모델의 코드와 언어 과제 중인 사람들의 뇌 스캔을 엮어 인코딩 모델을 만들었다. Fedorenko 연구실에는 이미 12개 언어 화자의 영상 데이터가 있었고, 한국어·힌디어·아랍어·중국어(만다린) 등 아홉 개 언어 화자를 추가로 모집했다. 이들은 『이상한 나라의 앨리스』(Alice in Wonderland) 속 이야기를 모국어로 들었다."
+                "x": "연구팀은 정보가 거의 없는 위기 직후에도 대화를 나누면 사람들의 15%가 음모론에서 벗어난다는 사실을 확인했다. 논문 「Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models」는 11월 23일 Proceedings of the National Academy of Sciences(미국국립과학원회보)에 실렸다."
               },
               {
                 "t": "p",
-                "x": "인코딩 모델은 21개 언어 모두에서 뇌 반응을 정확히 예측했다. 한 언어로 학습한 모델이 처음 보는 언어의 뇌 활동까지 예측했는데, 프랑스어로 학습한 모델이 베트남어 반응도 예측해 냈다. 분석 결과로는 이 공통 요소가 의미와 관련된 것으로 보인다."
+                "x": "연구진은 2025년 9월 찰리 커크 암살 이후 같은 실험을 되풀이했다. 참가자는 봇과의 짧은 대화, 팩트 시트, 무관한 대화 중 하나에 무작위로 배정됐다. 두 위기 모두에서 DebunkBot은 음모론 믿음을 낮췄고 효과는 팩트 시트의 약 다섯에서 일곱 배였다. DebunkBot과 대화한 사람들은 이후 트럼프를 겨냥한 또 다른 시도를 두고도 음모론을 덜 믿었다."
               },
               {
                 "t": "p",
-                "x": "책임저자 Evelina Fedorenko는 \"뇌가 소통하는 방식에는 근본적으로 비슷한 무언가가 있다\"고 말한다. 이번 연구는 임상용 AI 언어 도구를 더 많은 언어 사용자에게 넓히는 데 보탬이 되고, 언젠가는 사라질 위기의 언어를 지키는 데도 쓰일 수 있다."
+                "x": "“이제 과제는 사람들을 토끼굴에서 끌어내는 일이라기보다, 애초에 대화에 참여하게 만드는 일이다.” 제1저자인 카네기멜런대 토머스 코스텔로의 말이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "21言語でも脳は\n意味を同じように符号化か",
-          "body": "MITの研究は多言語AIモデルで、脳が21言語の意味を共通に符号化すると示唆した。",
-          "mini_headline": "意味を担う一つの神経コード",
+          "headline": "生まれたての陰謀論から\n人を引き戻すチャットボット",
+          "body": "AIチャットボットとの対話で、情報の乏しい危機直後に陰謀論者の約15%が考えを改めた。",
+          "mini_headline": "チャットボット対新たな陰謀論",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
-                "cap": "Fedorenko研究室の新研究は、多言語モデルで多数の言語にわたる脳の反応を予測した初の例だ。画像：iStock"
+                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
               },
               {
                 "t": "p",
-                "x": "言語の世界はこれほど多様だが、MITの研究によれば、人間の脳はあらゆる言語を普遍的な方法で処理している可能性がある。Nature Neuroscienceに掲載された研究で、研究者らは多言語モデルを使い、さまざまな言語に対する人間の脳の反応を予測し、合わせて21の異なる言語を話す人々に共通する脳内処理を検出した。"
+                "x": "2024年7月13日、ドナルド・トランプ氏が野外集会で暗殺未遂を生き延びた直後から、うわさが広がり始めた。数日のうちに、コーネル大学、MIT、カーネギーメロン大学の研究者たちは、誤情報に反論するよう指示されたAI搭載（AI-powered）のチャットボット「DebunkBot」に、自分の信じる陰謀論を打ち明けるよう人々に呼びかけた。"
               },
               {
                 "t": "p",
-                "x": "de Vardaは機械学習を用いて、多言語モデルのコードと言語課題中の人々の脳スキャンを統合し、エンコーディングモデルを作った。Fedorenko研究室は12言語の話者の画像データを持っており、さらに韓国語、ヒンディー語、アラビア語、標準中国語など九つの言語の話者を募集した。彼らは『不思議の国のアリス』（Alice in Wonderland）の物語を母語で聴いた。"
+                "x": "研究チームは、情報がほとんどない危機直後でも、15%の人が対話によって陰謀論から離れうることを確認した。論文「Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models」は11月23日、Proceedings of the National Academy of Sciences（米国科学アカデミー紀要）に掲載された。"
               },
               {
                 "t": "p",
-                "x": "エンコーディングモデルは21言語すべてで脳の反応を正確に予測した。ある言語で学習したモデルは、見たことのない言語の脳活動も予測できた。フランス語で学習したモデルはベトナム語の反応も予測したのだ。分析からは、この共通成分が意味と関係していることがうかがえる。"
+                "x": "実験は2025年9月のチャーリー・カーク氏暗殺後にも繰り返された。参加者は、ボットとの短いやりとり、ファクトシート、無関係な会話のいずれかに無作為に割り当てられた。どちらの危機の後でも、DebunkBotは陰謀論的な信念を弱め、その効果はファクトシートの約5〜7倍だった。DebunkBotと対話した人は、その後のトランプ氏を狙った別の未遂事件についても陰謀論を抱きにくかった。"
               },
               {
                 "t": "p",
-                "x": "「脳のコミュニケーションの仕方には、根本的に似た何かがある」と責任著者のEvelina Fedorenkoは言う。この成果は臨床向けAI言語ツールがより多くの言語の話者に届く助けとなり、いつか消滅の危機にある言語の保存にも役立つかもしれない。"
+                "x": "「今の課題は、人をウサギの穴から引き戻すことよりも、そもそも対話に参加してもらうことだ」と、筆頭著者であるカーネギーメロン大学のトーマス・コステロ氏は話す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "21种语言中\n大脑或以同样方式编码意义",
-          "body": "MIT一项研究借助多语言AI模型，发现大脑在21种语言中可能以相同方式编码意义。",
-          "mini_headline": "意义共用一套神经编码",
+          "headline": "聊天机器人能把人\n拉出新生阴谋论",
+          "body": "危机刚发生、信息极少时，与AI聊天机器人对话让约15%的人放弃了阴谋论。",
+          "mini_headline": "聊天机器人对抗新阴谋论",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
-                "cap": "Fedorenko实验室的新研究首次利用多语言模型预测多种语言下的大脑反应。图片：iStock"
+                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
               },
               {
                 "t": "p",
-                "x": "尽管语言世界千差万别，MIT的一项研究发现，人脑可能以一种普遍的方式处理各种语言。在发表于Nature Neuroscience的这项研究中，研究人员利用多语言模型预测人脑对不同语言的反应，并在合计使用21种不同语言的人群中发现了共同的大脑处理过程。"
+                "x": "2024年7月13日，唐纳德·特朗普在一场露天集会上遭遇刺杀未遂并幸存，此后谣言随即开始流传。短短几天内，来自康奈尔大学、MIT和卡内基梅隆大学的研究人员邀请人们向DebunkBot讲述自己相信的阴谋论。DebunkBot是一款被设定为反驳错误信息的AI驱动（AI-powered）聊天机器人。"
               },
               {
                 "t": "p",
-                "x": "de Varda利用机器学习，将多语言模型的编码与人们执行语言任务时的脑部扫描结合，构建出编码模型。Fedorenko实验室已有12种语言使用者的成像数据，又招募了另外九种语言的使用者，包括韩语、印地语、阿拉伯语和普通话，他们用母语收听《爱丽丝梦游仙境》（Alice in Wonderland）中的故事。"
+                "x": "团队发现，在危机刚刚发生、信息极少的时候，15%的人可以通过对话放弃阴谋论。论文《Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models》于11月23日发表在《美国国家科学院院刊》（Proceedings of the National Academy of Sciences）上。"
               },
               {
                 "t": "p",
-                "x": "编码模型准确预测了全部21种语言中的大脑反应。用一种语言训练的模型能预测它从未见过的语言的大脑活动：用法语训练的模型也能预测越南语的反应。分析表明，这一共同成分与意义有关。"
+                "x": "研究人员在2025年9月查理·柯克遇刺后重复了这项实验。参与者被随机分配到与机器人简短交流、阅读事实说明或进行无关对话中的一种。两次危机后，DebunkBot都降低了人们对阴谋论的相信程度，效果约为事实说明的五到七倍。与它交谈过的人，对后来针对特朗普的另一次未遂袭击也更不容易产生阴谋论看法。"
               },
               {
                 "t": "p",
-                "x": "“大脑的沟通方式中存在某种根本上相似的东西，”资深作者Evelina Fedorenko说。这项研究或有助于临床AI语言工具惠及更多语言的使用者，未来也可能帮助保护濒危语言。"
+                "x": "“现在的挑战与其说是把人们从兔子洞里拉出来，不如说是让他们一开始就愿意参与对话。”第一作者、卡内基梅隆大学的托马斯·科斯特洛说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El cerebro codificaría igual\nel significado en 21 idiomas",
-          "body": "Un estudio del MIT con AI multilingüe sugiere que el cerebro codifica el significado igual en 21 idiomas.",
-          "mini_headline": "Un código neural para el significado",
+          "headline": "Los chatbots alejan a la gente\nde conspiraciones recién nacidas",
+          "body": "Conversar con un chatbot de IA hizo que cerca del 15% de la gente abandonara creencias conspirativas tras una crisis.",
+          "mini_headline": "Chatbots frente a nuevas conspiraciones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
-                "cap": "Un nuevo estudio del laboratorio Fedorenko es el primero en usar modelos multilingües para predecir respuestas cerebrales en muchos idiomas. Imagen: iStock"
+                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
               },
               {
                 "t": "p",
-                "x": "Pese a la enorme variedad del reino lingüístico, un estudio del MIT ha hallado que el cerebro humano podría procesar todo tipo de idiomas de forma universal. En el estudio, publicado en Nature Neuroscience, los investigadores usaron modelos multilingües para predecir cómo responde el cerebro humano a distintos idiomas y detectaron un proceso cerebral compartido entre personas que, en conjunto, hablaban 21 idiomas diferentes."
+                "x": "Los rumores empezaron a circular justo después de que Donald Trump sobreviviera a un intento de asesinato en un mitin al aire libre el 13 de julio de 2024. En cuestión de días, investigadores de Cornell, el MIT y la Carnegie Mellon University invitaron a la gente a compartir sus creencias conspirativas con DebunkBot, un chatbot impulsado por IA (AI-powered) instruido para rebatir la desinformación."
               },
               {
                 "t": "p",
-                "x": "Mediante aprendizaje automático, de Varda combinó el código de los modelos multilingües con escaneos cerebrales de personas mientras realizaban tareas lingüísticas, y obtuvo modelos de codificación. El laboratorio Fedorenko tenía datos de imagen de hablantes de 12 idiomas y reclutó hablantes de nueve más, entre ellos coreano, hindi, árabe y mandarín, que escucharon historias de \"Alice in Wonderland\" (Alicia en el país de las maravillas) en su lengua materna."
+                "x": "El equipo comprobó que el 15% de las personas podía abandonar sus creencias conspirativas justo después de una crisis, cuando se sabe muy poco. El artículo, “Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models”, se publicó el 23 de noviembre en Proceedings of the National Academy of Sciences."
               },
               {
                 "t": "p",
-                "x": "Los modelos de codificación predijeron con precisión las respuestas cerebrales en los 21 idiomas. Un modelo entrenado en un idioma podía predecir la actividad cerebral en otro que nunca había visto: uno entrenado en francés también predijo respuestas en vietnamita. El análisis indicó que el componente compartido tiene que ver con el significado."
+                "x": "El experimento se repitió tras el asesinato de Charlie Kirk en septiembre de 2025. Los participantes fueron asignados al azar a un breve intercambio con el bot, a una hoja informativa o a una conversación no relacionada. Tras ambas crisis, DebunkBot redujo las creencias conspirativas y fue entre cinco y siete veces más eficaz que una hoja informativa. Quienes habían conversado con él también fueron menos propensos a tener creencias conspirativas sobre un intento posterior contra Trump."
               },
               {
                 "t": "p",
-                "x": "\"Hay algo fundamentalmente similar en cómo se comunica el cerebro\", afirma la autora principal, Evelina Fedorenko. El trabajo podría ayudar a que las herramientas clínicas de lenguaje con AI lleguen a hablantes de más idiomas y, algún día, a preservar lenguas en peligro."
+                "x": "“El reto ahora no es tanto sacar a la gente de la madriguera del conejo, sino lograr que participe en primer lugar”, dijo el primer autor, Thomas Costello, de la Carnegie Mellon University."
               }
             ]
           }
@@ -199,125 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "21개 언어에서\n뇌는 의미를 같게 담는다",
-          "body": "MIT 연구는 다국어 AI 모델로 뇌가 21개 언어 의미를 같게 담는다고 본다.",
-          "mini_headline": "의미를 담는 하나의 신경 부호",
+          "headline": "챗봇, 갓 생겨난 음모론도\n대화로 풀어낸다",
+          "body": "AI 챗봇 대화가 정보가 적은 위기 직후 음모론자 약 15%를 설득했다.",
+          "mini_headline": "챗봇 대 새 음모론",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
-                "cap": "Fedorenko 연구실의 새 연구는 다국어 모델로 여러 언어에 대한 뇌 반응을 예측한 첫 사례다. 이미지: iStock"
+                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
               },
               {
                 "t": "p",
-                "x": "언어의 세계는 이토록 다양하지만, MIT 연구에 따르면 인간의 뇌는 온갖 언어를 보편적인 방식으로 처리할 수 있다. Nature Neuroscience에 실린 이번 연구에서 연구진은 다국어 모델로 여러 언어에 대한 인간 뇌의 반응을 예측했고, 모두 합쳐 21개 언어를 쓰는 사람들에게서 공통된 뇌 처리 과정을 찾아냈다."
+                "x": "2024년 7월 13일 도널드 트럼프가 야외 유세에서 암살 시도를 피한 직후부터 소문이 돌기 시작했다. 며칠 만에 코넬대, MIT, 카네기멜런대 연구진은 사람들에게 자신이 믿는 음모론을 DebunkBot에 털어놓도록 했다. DebunkBot은 잘못된 정보에 반박하도록 지시받은 AI 기반(AI-powered) 챗봇이다."
               },
               {
                 "t": "p",
-                "x": "de Varda는 머신러닝으로 다국어 모델의 코드를 언어 과제를 수행하는 사람들의 뇌 스캔과 결합해 인코딩 모델을 만들었다. Fedorenko 연구실은 12개 언어 화자의 영상 데이터를 갖고 있었고, 한국어·힌디어·아랍어·중국어(만다린) 등 아홉 개 언어 화자를 추가로 모집했다. 이들은 『이상한 나라의 앨리스』(Alice in Wonderland) 속 이야기를 모국어로 들었다."
+                "x": "연구팀은 정보가 거의 없는 위기 직후에도 사람들의 15%가 대화를 거쳐 음모론에서 벗어날 수 있다는 사실을 확인했다. 논문 「Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models」는 11월 23일 Proceedings of the National Academy of Sciences(미국국립과학원회보)에 실렸다."
               },
               {
                 "t": "p",
-                "x": "인코딩 모델은 21개 언어 모두에서 뇌 반응을 정확히 예측했다. 한 언어로 학습한 모델이 처음 보는 언어의 뇌 활동까지 예측했는데, 프랑스어로 학습한 모델이 베트남어 반응도 예측해 냈다. 분석 결과 이 공통 요소는 의미와 관련이 있는 것으로 보인다."
+                "x": "연구진은 2025년 9월 찰리 커크 암살 이후 같은 실험을 반복했다. 참가자는 봇과의 짧은 대화, 팩트 시트, 무관한 대화 중 하나에 무작위로 배정됐다. 두 위기 모두에서 DebunkBot은 음모론 믿음을 낮췄고, 효과는 팩트 시트보다 약 다섯에서 일곱 배 컸다. DebunkBot과 대화한 사람들은 이후 트럼프를 겨냥한 또 다른 시도에 대해서도 음모론을 믿을 가능성이 낮았다."
               },
               {
                 "t": "p",
-                "x": "책임저자 Evelina Fedorenko는 \"뇌가 소통하는 방식에는 근본적으로 비슷한 무언가가 있다\"고 말한다. 이번 연구는 임상용 AI 언어 도구가 더 많은 언어 사용자에게 닿도록 돕고, 언젠가 사라질 위기의 언어를 보존하는 데도 쓰일 수 있다."
+                "x": "“이제 과제는 사람들을 토끼굴에서 끌어내는 일이라기보다, 애초에 대화에 참여하게 만드는 일이다.” 제1저자인 카네기멜런대 토머스 코스텔로의 말이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "21言語でも脳は\n意味を同じように符号化か",
-          "body": "MITの研究は多言語AIモデルで、脳が21言語の意味を共通に符号化すると示唆した。",
-          "mini_headline": "意味を担う一つの神経コード",
+          "headline": "生まれたての陰謀論から\n人を引き戻すチャットボット",
+          "body": "AIチャットボットとの対話で、情報の乏しい危機直後に陰謀論者の約15%が考えを改めた。",
+          "mini_headline": "チャットボット対新たな陰謀論",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
-                "cap": "Fedorenko研究室の新研究は、多言語モデルで多数の言語にわたる脳の反応を予測した初の例だ。画像：iStock"
+                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
               },
               {
                 "t": "p",
-                "x": "言語の世界はこれほど多様だが、MITの研究によれば、人間の脳はあらゆる言語を普遍的な方法で処理している可能性がある。Nature Neuroscienceに掲載された研究で、研究者らは多言語モデルを使い、さまざまな言語に対する人間の脳の反応を予測し、合わせて21の異なる言語を話す人々に共通する脳内処理を検出した。"
+                "x": "2024年7月13日、ドナルド・トランプ氏が野外集会で暗殺未遂を生き延びた直後から、うわさが広がり始めた。数日のうちに、コーネル大学、MIT、カーネギーメロン大学の研究者たちは、誤情報に反論するよう指示されたAI搭載（AI-powered）のチャットボット「DebunkBot」に、自分の信じる陰謀論を打ち明けるよう人々に呼びかけた。"
               },
               {
                 "t": "p",
-                "x": "de Vardaは機械学習を用いて、多言語モデルのコードと言語課題中の人々の脳スキャンを統合し、エンコーディングモデルを作った。Fedorenko研究室は12言語の話者の画像データを持っており、さらに韓国語、ヒンディー語、アラビア語、標準中国語など九つの言語の話者を募集した。彼らは『不思議の国のアリス』（Alice in Wonderland）の物語を母語で聴いた。"
+                "x": "研究チームは、情報がほとんどない危機直後でも、15%の人が対話によって陰謀論から離れうることを確認した。論文「Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models」は11月23日、Proceedings of the National Academy of Sciences（米国科学アカデミー紀要）に掲載された。"
               },
               {
                 "t": "p",
-                "x": "エンコーディングモデルは21言語すべてで脳の反応を正確に予測した。ある言語で学習したモデルは、見たことのない言語の脳活動も予測できた。フランス語で学習したモデルはベトナム語の反応も予測したのだ。分析からは、この共通成分が意味と関係していることがうかがえる。"
+                "x": "実験は2025年9月のチャーリー・カーク氏暗殺後にも繰り返された。参加者は、ボットとの短いやりとり、ファクトシート、無関係な会話のいずれかに無作為に割り当てられた。どちらの危機の後でも、DebunkBotは陰謀論的な信念を弱め、その効果はファクトシートの約5〜7倍だった。DebunkBotと対話した人は、その後のトランプ氏を狙った別の未遂事件についても陰謀論を抱きにくかった。"
               },
               {
                 "t": "p",
-                "x": "「脳のコミュニケーションの仕方には、根本的に似た何かがある」と責任著者のEvelina Fedorenkoは言う。この成果は臨床向けAI言語ツールがより多くの言語の話者に届く助けとなり、いつか消滅の危機にある言語の保存にも役立つかもしれない。"
+                "x": "「今の課題は、人をウサギの穴から引き戻すことよりも、そもそも対話に参加してもらうことだ」と、筆頭著者であるカーネギーメロン大学のトーマス・コステロ氏は話す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "21种语言中\n大脑或以同样方式编码意义",
-          "body": "MIT一项研究借助多语言AI模型，发现大脑在21种语言中可能以相同方式编码意义。",
-          "mini_headline": "意义共用一套神经编码",
+          "headline": "聊天机器人能把人\n拉出新生阴谋论",
+          "body": "危机刚发生、信息极少时，与AI聊天机器人对话让约15%的人放弃了阴谋论。",
+          "mini_headline": "聊天机器人对抗新阴谋论",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
-                "cap": "Fedorenko实验室的新研究首次利用多语言模型预测多种语言下的大脑反应。图片：iStock"
+                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
               },
               {
                 "t": "p",
-                "x": "尽管语言世界千差万别，MIT的一项研究发现，人脑可能以一种普遍的方式处理各种语言。在发表于Nature Neuroscience的这项研究中，研究人员利用多语言模型预测人脑对不同语言的反应，并在合计使用21种不同语言的人群中发现了共同的大脑处理过程。"
+                "x": "2024年7月13日，唐纳德·特朗普在一场露天集会上遭遇刺杀未遂并幸存，此后谣言随即开始流传。短短几天内，来自康奈尔大学、MIT和卡内基梅隆大学的研究人员邀请人们向DebunkBot讲述自己相信的阴谋论。DebunkBot是一款被设定为反驳错误信息的AI驱动（AI-powered）聊天机器人。"
               },
               {
                 "t": "p",
-                "x": "de Varda利用机器学习，将多语言模型的编码与人们执行语言任务时的脑部扫描结合，构建出编码模型。Fedorenko实验室已有12种语言使用者的成像数据，又招募了另外九种语言的使用者，包括韩语、印地语、阿拉伯语和普通话，他们用母语收听《爱丽丝梦游仙境》（Alice in Wonderland）中的故事。"
+                "x": "团队发现，在危机刚刚发生、信息极少的时候，15%的人可以通过对话放弃阴谋论。论文《Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models》于11月23日发表在《美国国家科学院院刊》（Proceedings of the National Academy of Sciences）上。"
               },
               {
                 "t": "p",
-                "x": "编码模型准确预测了全部21种语言中的大脑反应。用一种语言训练的模型能预测它从未见过的语言的大脑活动：用法语训练的模型也能预测越南语的反应。分析表明，这一共同成分与意义有关。"
+                "x": "研究人员在2025年9月查理·柯克遇刺后重复了这项实验。参与者被随机分配到与机器人简短交流、阅读事实说明或进行无关对话中的一种。两次危机后，DebunkBot都降低了人们对阴谋论的相信程度，效果约为事实说明的五到七倍。与它交谈过的人，对后来针对特朗普的另一次未遂袭击也更不容易产生阴谋论看法。"
               },
               {
                 "t": "p",
-                "x": "“大脑的沟通方式中存在某种根本上相似的东西，”资深作者Evelina Fedorenko说。这项研究或有助于临床AI语言工具惠及更多语言的使用者，未来也可能帮助保护濒危语言。"
+                "x": "“现在的挑战与其说是把人们从兔子洞里拉出来，不如说是让他们一开始就愿意参与对话。”第一作者、卡内基梅隆大学的托马斯·科斯特洛说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El cerebro codificaría igual\nel significado en 21 idiomas",
-          "body": "Un estudio del MIT con AI multilingüe sugiere que el cerebro codifica el significado igual en 21 idiomas.",
-          "mini_headline": "Un código neural para el significado",
+          "headline": "Los chatbots alejan a la gente\nde conspiraciones recién nacidas",
+          "body": "Conversar con un chatbot de IA hizo que cerca del 15% de la gente abandonara creencias conspirativas tras una crisis.",
+          "mini_headline": "Chatbots frente a nuevas conspiraciones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/iStock-1393436208.jpg?itok=sfykMxBg",
-                "cap": "Un nuevo estudio del laboratorio Fedorenko es el primero en usar modelos multilingües para predecir respuestas cerebrales en muchos idiomas. Imagen: iStock"
+                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
               },
               {
                 "t": "p",
-                "x": "Pese a la enorme variedad del reino lingüístico, un estudio del MIT ha hallado que el cerebro humano podría procesar todo tipo de idiomas de forma universal. En el estudio, publicado en Nature Neuroscience, los investigadores usaron modelos multilingües para predecir cómo responde el cerebro humano a distintos idiomas y detectaron un proceso cerebral compartido entre personas que, en conjunto, hablaban 21 idiomas diferentes."
+                "x": "Los rumores empezaron a circular justo después de que Donald Trump sobreviviera a un intento de asesinato en un mitin al aire libre el 13 de julio de 2024. En cuestión de días, investigadores de Cornell, el MIT y la Carnegie Mellon University invitaron a la gente a compartir sus creencias conspirativas con DebunkBot, un chatbot impulsado por IA (AI-powered) instruido para rebatir la desinformación."
               },
               {
                 "t": "p",
-                "x": "Mediante aprendizaje automático, de Varda combinó el código de los modelos multilingües con escaneos cerebrales de personas mientras realizaban tareas lingüísticas, y obtuvo modelos de codificación. El laboratorio Fedorenko tenía datos de imagen de hablantes de 12 idiomas y reclutó hablantes de nueve más, entre ellos coreano, hindi, árabe y mandarín, que escucharon historias de \"Alice in Wonderland\" (Alicia en el país de las maravillas) en su lengua materna."
+                "x": "El equipo comprobó que el 15% de las personas podía abandonar sus creencias conspirativas justo después de una crisis, cuando se sabe muy poco. El artículo, “Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models”, se publicó el 23 de noviembre en Proceedings of the National Academy of Sciences."
               },
               {
                 "t": "p",
-                "x": "Los modelos de codificación predijeron con precisión las respuestas cerebrales en los 21 idiomas. Un modelo entrenado en un idioma podía predecir la actividad cerebral en otro que nunca había visto: uno entrenado en francés también predijo respuestas en vietnamita. El análisis indicó que el componente compartido tiene que ver con el significado."
+                "x": "El experimento se repitió tras el asesinato de Charlie Kirk en septiembre de 2025. Los participantes fueron asignados al azar a un breve intercambio con el bot, a una hoja informativa o a una conversación no relacionada. Tras ambas crisis, DebunkBot redujo las creencias conspirativas y fue entre cinco y siete veces más eficaz que una hoja informativa. Quienes habían conversado con él también fueron menos propensos a tener creencias conspirativas sobre un intento posterior contra Trump."
               },
               {
                 "t": "p",
-                "x": "\"Hay algo fundamentalmente similar en cómo se comunica el cerebro\", afirma la autora principal, Evelina Fedorenko. El trabajo podría ayudar a que las herramientas clínicas de lenguaje con AI lleguen a hablantes de más idiomas y, algún día, a preservar lenguas en peligro."
+                "x": "“El reto ahora no es tanto sacar a la gente de la madriguera del conejo, sino lograr que participe en primer lugar”, dijo el primer autor, Thomas Costello, de la Carnegie Mellon University."
               }
             ]
           }
@@ -325,297 +315,15 @@
       }
     },
     {
-      "id": "science-mit-slic-analog-chips",
+      "id": "utokyo-materials-extrapolation-gnn",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "소형 AI, 아날로그 칩\n설계서 LLMs와 대등",
-      "body": "MIT의 SLIC로 소형 모델이 LLMs 못지않게 아날로그 회로를 설계한다.",
-      "mini_headline": "아날로그 칩 설계하는 소형 모델",
+      "headline": "AI, 아직 찾지 못한\n소재까지 외삽한다",
+      "body": "도쿄대가 구조 학습·물성 회귀를 분리해 CGCNN보다 외삽 오차를 68% 줄였다.",
+      "mini_headline": "AI, 새 소재를 외삽하다",
       "tool": "Science",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
-            "cap": "“아날로그 회로 설계를 자동화할 대안을 제시했다”고 Yan Xu는 말한다. 이미지: Jose-Luis Olivares, MIT; Getty Images"
-          },
-          {
-            "t": "p",
-            "x": "MIT가 내놓은 Small LM Iterating on Circuits, 줄여서 SLIC를 쓰면 엔지니어는 소형 언어 모델(LM)을 훈련시켜 최첨단 대형 언어 모델과 같거나 더 나은 수준의 아날로그 회로를 설계할 수 있다. 파라미터는 수십억 개 수준이고, 노트북에서 돌아갈 만큼 가볍다. 학습과 배포를 로컬에서 하니 기업은 기밀 회로 데이터를 프라이버시 걱정 없이 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "SLIC의 바탕은 검증 가능한 보상을 쓰는 멀티턴 강화학습이다. 대형 LLM이 설계 과정의 시연을 생성하면 소형 모델이 이를 모방한다. 그다음 소형 모델은 새 문제를 풀며 파라미터를 추정하고 시뮬레이션을 돌려 설계를 거듭 다듬는다. 추론 과정이 자연어로 적히니 사용자는 모델의 판단을 따라갈 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "시험에서 소형 모델은 연산량의 일부만 쓰고도 최신 GPT 모델(GPT-6-Astra)에 근접한 성능을 냈고, 처음 보는 회로 구조, 더 앞선 공정 노드, 실제 상용 공정에서도 성능을 유지했다. IBM Research, Analog Devices와 함께한 이번 연구는 NeurIPS 2026에서 발표된다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Small AI model matches LLMs\nat analog chip design",
-          "body": "MIT's SLIC training lets a small generative model design analog circuits as well as or better than frontier LLMs.",
-          "mini_headline": "Small model designs analog chips",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
-                "cap": "“We’ve provided an alternative option to automate analog circuit design,” says Yan Xu. Image: Jose-Luis Olivares, MIT; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "The MIT method, called Small LM Iterating on Circuits, or SLIC, enables engineers to train a small language model to perform analog circuit design as well as or better than a frontier large language model. The model uses a few billion parameters, is efficient enough to run on a laptop, and because it is trained and deployed locally it can use a company's confidential circuit data without privacy risks."
-              },
-              {
-                "t": "p",
-                "x": "SLIC uses multi-turn reinforcement learning with verifiable rewards. A large LLM generates demonstrations of the design process for the small model to mimic; the small model then practices on new problems, guessing parameters, running simulations and iteratively refining the design. Its reasoning is described in natural language, so users can follow its decisions."
-              },
-              {
-                "t": "p",
-                "x": "In tests, the small model came close to matching the latest GPT model (GPT-6-Astra) while using a fraction of the compute, and kept its performance on unseen circuit structures, more advanced technology nodes and real commercial processes. The work, with IBM Research and Analog Devices, will be presented at NeurIPS 2026."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "소형 AI, 아날로그 칩\n설계서 LLMs와 대등",
-          "body": "MIT의 SLIC로 소형 모델이 LLMs 못지않게 아날로그 회로를 설계한다.",
-          "mini_headline": "아날로그 칩 설계하는 소형 모델",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
-                "cap": "“아날로그 회로 설계를 자동화할 대안을 제시했다”고 Yan Xu는 말한다. 이미지: Jose-Luis Olivares, MIT; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "MIT가 내놓은 Small LM Iterating on Circuits, 줄여서 SLIC를 쓰면 엔지니어는 소형 언어 모델(LM)을 훈련시켜 최첨단 대형 언어 모델과 같거나 더 나은 수준의 아날로그 회로를 설계할 수 있다. 파라미터는 수십억 개 수준이고, 노트북에서 돌아갈 만큼 가볍다. 학습과 배포를 로컬에서 하니 기업은 기밀 회로 데이터를 프라이버시 걱정 없이 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "SLIC의 바탕은 검증 가능한 보상을 쓰는 멀티턴 강화학습이다. 대형 LLM이 설계 과정의 시연을 생성하면 소형 모델이 이를 모방한다. 그다음 소형 모델은 새 문제를 풀며 파라미터를 추정하고 시뮬레이션을 돌려 설계를 거듭 다듬는다. 추론 과정이 자연어로 적히니 사용자는 모델의 판단을 따라갈 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "시험에서 소형 모델은 연산량의 일부만 쓰고도 최신 GPT 모델(GPT-6-Astra)에 근접한 성능을 냈고, 처음 보는 회로 구조, 더 앞선 공정 노드, 실제 상용 공정에서도 성능을 유지했다. IBM Research, Analog Devices와 함께한 이번 연구는 NeurIPS 2026에서 발표된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "小型AIモデル、アナログ\nチップ設計でLLMsに並ぶ",
-          "body": "MITのSLICで小型モデルがLLMs並みかそれ以上にアナログ回路を設計する。",
-          "mini_headline": "小型モデルがアナログチップを設計",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
-                "cap": "「アナログ回路設計を自動化する別の選択肢を示した」とYan Xuは言う。画像：Jose-Luis Olivares, MIT; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "Small LM Iterating on Circuits、略してSLICと呼ばれるMITの手法により、エンジニアは小型言語モデル（LM）を訓練し、最先端の大規模言語モデルと同等以上にアナログ回路を設計させられる。モデルのパラメータ数は数十億程度で、ノートPCで動くほど効率的だ。ローカルで訓練・展開するため、企業の機密回路データをプライバシー上のリスクなく使える。"
-              },
-              {
-                "t": "p",
-                "x": "SLICは検証可能な報酬を用いたマルチターン強化学習を使う。大規模なLLMが設計プロセスの手本を生成し、小型モデルがそれを模倣する。その後、小型モデルは新しい問題で練習し、パラメータを推測し、シミュレーションを実行しながら設計を反復的に洗練させる。推論は自然言語で記述されるため、ユーザーはその判断を追うことができる。"
-              },
-              {
-                "t": "p",
-                "x": "テストでは、小型モデルはわずかな計算量で最新のGPTモデル（GPT-6-Astra）に迫る性能を示し、未知の回路構造、より先進的な技術ノード、実際の商用プロセスでも性能を保った。IBM Research、Analog Devicesとの共同研究で、NeurIPS 2026で発表される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "小型AI模型设计模拟芯片\n水平比肩LLMs",
-          "body": "MIT的SLIC训练让小型生成模型设计模拟电路的水平比肩甚至超越前沿LLMs。",
-          "mini_headline": "小模型设计模拟芯片",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
-                "cap": "“我们为模拟电路设计自动化提供了另一种选择，”Yan Xu说。图片：Jose-Luis Olivares, MIT; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "这项名为Small LM Iterating on Circuits（简称SLIC）的MIT方法，使工程师能够训练一个小型语言模型（LM），让其完成模拟电路设计的水平达到甚至超过前沿大语言模型。该模型使用数十亿参数，效率足以在笔记本电脑上运行；由于在本地训练和部署，它可以使用企业的机密电路数据而不存在隐私风险。"
-              },
-              {
-                "t": "p",
-                "x": "SLIC采用基于可验证奖励的多轮强化学习。大型LLM生成设计过程的示范供小型模型模仿；随后小型模型在新问题上练习，推测参数、运行仿真并迭代优化设计。其推理过程以自然语言描述，用户可以理解它的决策。"
-              },
-              {
-                "t": "p",
-                "x": "测试中，这个小型模型只用一小部分算力，就接近了最新GPT模型（GPT-6-Astra）的表现，并在未见过的电路结构、更先进的工艺节点和真实商用工艺上保持了性能。该研究与IBM Research和Analog Devices合作完成，将在NeurIPS 2026上发表。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un modelo de AI pequeño iguala\na los LLMs en chips analógicos",
-          "body": "Con SLIC, del MIT, un modelo pequeño diseña circuitos analógicos igual o mejor que los LLMs de frontera.",
-          "mini_headline": "Un modelo pequeño diseña chips analógicos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
-                "cap": "“Hemos aportado una opción alternativa para automatizar el diseño de circuitos analógicos”, dice Yan Xu. Imagen: Jose-Luis Olivares, MIT; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "El método del MIT, llamado Small LM Iterating on Circuits, o SLIC, permite a los ingenieros entrenar un modelo de lenguaje pequeño para diseñar circuitos analógicos igual o mejor que un gran modelo de lenguaje de frontera. El modelo usa unos pocos miles de millones de parámetros, es lo bastante eficiente para funcionar en un portátil y, como se entrena y despliega localmente, puede usar los datos confidenciales de circuitos de una empresa sin riesgos para la privacidad."
-              },
-              {
-                "t": "p",
-                "x": "SLIC utiliza aprendizaje por refuerzo multiturno con recompensas verificables. Un LLM grande genera demostraciones del proceso de diseño para que el modelo pequeño las imite; después, el modelo pequeño practica con problemas nuevos: estima parámetros, ejecuta simulaciones y refina el diseño de forma iterativa. Su razonamiento se describe en lenguaje natural, de modo que los usuarios pueden seguir sus decisiones."
-              },
-              {
-                "t": "p",
-                "x": "En las pruebas, el modelo pequeño se acercó al último modelo GPT (GPT-6-Astra) usando una fracción del cómputo, y mantuvo su rendimiento en estructuras de circuito no vistas, nodos tecnológicos más avanzados y procesos comerciales reales. El trabajo, realizado con IBM Research y Analog Devices, se presentará en NeurIPS 2026."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "소형 AI, 아날로그 칩\n설계서 LLMs와 대등",
-          "body": "MIT의 SLIC로 소형 모델이 LLMs 못지않게 아날로그 회로를 설계한다.",
-          "mini_headline": "아날로그 칩 설계하는 소형 모델",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
-                "cap": "“아날로그 회로 설계를 자동화할 대안을 제시했다”고 Yan Xu는 말한다. 이미지: Jose-Luis Olivares, MIT; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "Small LM Iterating on Circuits, 줄여서 SLIC라는 MIT의 방법을 쓰면 엔지니어는 소형 언어 모델(LM)을 훈련해 최첨단 대형 언어 모델과 같거나 더 나은 수준으로 아날로그 회로를 설계하게 할 수 있다. 이 모델은 수십억 개 수준의 파라미터를 쓰며 노트북에서 돌아갈 만큼 효율적이다. 로컬에서 학습하고 배포하므로 기업의 기밀 회로 데이터를 프라이버시 위험 없이 활용할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "SLIC는 검증 가능한 보상을 활용한 멀티턴 강화학습을 쓴다. 대형 LLM이 설계 과정의 시연을 생성하면 소형 모델이 이를 모방한다. 이어 소형 모델은 새로운 문제로 연습하며 파라미터를 추정하고 시뮬레이션을 돌려 설계를 반복적으로 다듬는다. 추론 과정이 자연어로 서술되므로 사용자는 모델의 판단을 따라갈 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "테스트에서 소형 모델은 일부 연산량만으로 최신 GPT 모델(GPT-6-Astra)에 근접한 성능을 냈고, 처음 보는 회로 구조, 더 앞선 공정 노드, 실제 상용 공정에서도 성능을 유지했다. IBM Research, Analog Devices와 함께한 이번 연구는 NeurIPS 2026에서 발표된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "小型AIモデル、アナログ\nチップ設計でLLMsに並ぶ",
-          "body": "MITのSLICで小型モデルがLLMs並みかそれ以上にアナログ回路を設計する。",
-          "mini_headline": "小型モデルがアナログチップを設計",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
-                "cap": "「アナログ回路設計を自動化する別の選択肢を示した」とYan Xuは言う。画像：Jose-Luis Olivares, MIT; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "Small LM Iterating on Circuits、略してSLICと呼ばれるMITの手法により、エンジニアは小型言語モデル（LM）を訓練し、最先端の大規模言語モデルと同等以上にアナログ回路を設計させられる。モデルのパラメータ数は数十億程度で、ノートPCで動くほど効率的だ。ローカルで訓練・展開するため、企業の機密回路データをプライバシー上のリスクなく使える。"
-              },
-              {
-                "t": "p",
-                "x": "SLICは検証可能な報酬を用いたマルチターン強化学習を使う。大規模なLLMが設計プロセスの手本を生成し、小型モデルがそれを模倣する。その後、小型モデルは新しい問題で練習し、パラメータを推測し、シミュレーションを実行しながら設計を反復的に洗練させる。推論は自然言語で記述されるため、ユーザーはその判断を追うことができる。"
-              },
-              {
-                "t": "p",
-                "x": "テストでは、小型モデルはわずかな計算量で最新のGPTモデル（GPT-6-Astra）に迫る性能を示し、未知の回路構造、より先進的な技術ノード、実際の商用プロセスでも性能を保った。IBM Research、Analog Devicesとの共同研究で、NeurIPS 2026で発表される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "小型AI模型设计模拟芯片\n水平比肩LLMs",
-          "body": "MIT的SLIC训练让小型生成模型设计模拟电路的水平比肩甚至超越前沿LLMs。",
-          "mini_headline": "小模型设计模拟芯片",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
-                "cap": "“我们为模拟电路设计自动化提供了另一种选择，”Yan Xu说。图片：Jose-Luis Olivares, MIT; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "这项名为Small LM Iterating on Circuits（简称SLIC）的MIT方法，使工程师能够训练一个小型语言模型（LM），让其完成模拟电路设计的水平达到甚至超过前沿大语言模型。该模型使用数十亿参数，效率足以在笔记本电脑上运行；由于在本地训练和部署，它可以使用企业的机密电路数据而不存在隐私风险。"
-              },
-              {
-                "t": "p",
-                "x": "SLIC采用基于可验证奖励的多轮强化学习。大型LLM生成设计过程的示范供小型模型模仿；随后小型模型在新问题上练习，推测参数、运行仿真并迭代优化设计。其推理过程以自然语言描述，用户可以理解它的决策。"
-              },
-              {
-                "t": "p",
-                "x": "测试中，这个小型模型只用一小部分算力，就接近了最新GPT模型（GPT-6-Astra）的表现，并在未见过的电路结构、更先进的工艺节点和真实商用工艺上保持了性能。该研究与IBM Research和Analog Devices合作完成，将在NeurIPS 2026上发表。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un modelo de AI pequeño iguala\na los LLMs en chips analógicos",
-          "body": "Con SLIC, del MIT, un modelo pequeño diseña circuitos analógicos igual o mejor que los LLMs de frontera.",
-          "mini_headline": "Un modelo pequeño diseña chips analógicos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202611/MIT-AnalogOptimize-01-Press_0.jpg?itok=sTWAnWZ9",
-                "cap": "“Hemos aportado una opción alternativa para automatizar el diseño de circuitos analógicos”, dice Yan Xu. Imagen: Jose-Luis Olivares, MIT; Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "El método del MIT, llamado Small LM Iterating on Circuits, o SLIC, permite a los ingenieros entrenar un modelo de lenguaje pequeño para diseñar circuitos analógicos igual o mejor que un gran modelo de lenguaje de frontera. El modelo usa unos pocos miles de millones de parámetros, es lo bastante eficiente para funcionar en un portátil y, como se entrena y despliega localmente, puede usar los datos confidenciales de circuitos de una empresa sin riesgos para la privacidad."
-              },
-              {
-                "t": "p",
-                "x": "SLIC utiliza aprendizaje por refuerzo multiturno con recompensas verificables. Un LLM grande genera demostraciones del proceso de diseño para que el modelo pequeño las imite; después, el modelo pequeño practica con problemas nuevos: estima parámetros, ejecuta simulaciones y refina el diseño de forma iterativa. Su razonamiento se describe en lenguaje natural, de modo que los usuarios pueden seguir sus decisiones."
-              },
-              {
-                "t": "p",
-                "x": "En las pruebas, el modelo pequeño se acercó al último modelo GPT (GPT-6-Astra) usando una fracción del cómputo, y mantuvo su rendimiento en estructuras de circuito no vistas, nodos tecnológicos más avanzados y procesos comerciales reales. El trabajo, realizado con IBM Research y Analog Devices, se presentará en NeurIPS 2026."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "science-lio2-dualatom-catalyst",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "머신러닝이 이끄는\n리튬-산소 배터리",
-      "body": "ML이 찾은 Ni-Co 촉매로 Li-O2 전지는 LiOH로 2,000회를 넘겼다.",
-      "mini_headline": "ML로 다듬은 Li-O2 배터리 촉매",
-      "tool": "Science",
-      "source": "Nature Communications",
-      "url": "https://www.nature.com/articles/s41467-026-79335-6",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-11-unknown-robust-approach-ai-extrapolate.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -623,185 +331,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
-            "cap": "Fig. 1: 머신러닝을 이용한 다중 사이트 촉매 설계 원리 탐구."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+            "cap": "머신러닝 모델이 학습 데이터 범위를 넘어 소재 물성을 예측하도록 돕는 연구팀의 접근법. 출처: 도쿄대 생산기술연구소(Institute of Industrial Science, The University of Tokyo)"
           },
           {
             "t": "p",
-            "x": "에너지밀도가 높은 리튬–산소 배터리는 산소 산화환원 반응이 느리고 방전 중간체가 불안정해 아직 실용화되지 못했다. 연구진은 해석 가능한 머신러닝과 밀도범함수이론을 묶은 AI-integrated(AI 통합) 프레임워크를 200건의 문헌 기록으로 학습시켜 수천 개 활성 사이트의 화학 공간을 탐색했다. 선택된 원소 가운데 더 나은 조합으로 꼽힌 것은 Ni-Co 이중원자 촉매였다."
+            "x": "머신러닝 모델은 학습 데이터 범위 안에서는 예측을 잘하지만 본 적 없는 소재 앞에서는 곧잘 헤맨다. 소재 발견에는 이 점이 걸림돌이다. 저자들은 “소재 발견은 본질적으로 외삽 문제”라고 썼다."
           },
           {
             "t": "p",
-            "x": "두 사이트가 시너지를 내며 결합하면 d-band 중심이 재구성돼 열역학적 장벽이 낮아진다. 전해질에 H2O를 정해진 양만큼 넣자 촉매는 기존의 두 전자 Li2O2 경로를 네 전자 LiOH 경로로 바꿨고, 방전 용량은 ~60,000 mAh g−1에 이르렀다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
-            "cap": "Fig. 5: 사이클 안정성과 촉매 과정 분석."
+            "x": "도쿄대 연구진은 분리형 전이학습을 제안했다. 사전학습한 그래프 신경망이 구조 특징을 뽑고 더 단순한 회귀 모델이 목표 물성을 예측한다. 2018년까지의 Materials Project 데이터로 학습시키고 2021년까지 새로 추가된 소재로 시험했더니 널리 쓰이는 엔드투엔드 그래프 신경망 CGCNN보다 예측 오차가 68% 줄었다."
           },
           {
             "t": "p",
-            "x": "네 전자 경로에서 NiCo2-DACs는 전압 감소를 줄이며 2075 사이클의 수명을 달성했다. Co 단일원자 기준 촉매는 790 사이클 만에 고장 났다. 이 구조는 음극에서 보호층이 되어 리튬 덴드라이트가 자라는 것도 막는다."
+            "x": "새 소재가 익숙한 화학·구조 패턴의 연장선에 있을 때 가장 잘 맞고 데이터가 부족한 화학·전자 영역에서는 신뢰도가 떨어진다. 대규모 재학습은 필요 없다. 연구는 PRX Intelligence에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Machine learning steers\nlithium-oxygen batteries",
-          "body": "Machine learning picked a Ni-Co dual-atom catalyst that pushes Li-O2 cells toward LiOH, sustaining over 2,000 cycles.",
-          "mini_headline": "ML tunes Li-O2 battery catalyst",
+          "headline": "AI learns to extrapolate to\nmaterials not yet discovered",
+          "body": "Tokyo researchers separate structure learning from property regression, cutting extrapolation error 68% vs CGCNN.",
+          "mini_headline": "AI extrapolates new materials",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
-                "cap": "Fig. 1: Investigation of multi-site catalyst design principle by machine learning."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+                "cap": "The team's approach for helping machine-learning models predict material properties beyond their training data. Credit: Institute of Industrial Science, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "The practical deployment of high-energy-density lithium–oxygen batteries is restricted by sluggish oxygen redox kinetics and unstable discharge intermediates. The authors report an AI-integrated framework leveraging interpretable machine learning and density functional theory to navigate a chemical space of thousands of active sites, trained on 200 literature records. It identifies Ni-Co dual-atom catalysts as a better configuration among the selected elements."
+                "x": "Machine-learning models predict well within their training data but often struggle with materials unlike anything they have seen, a problem for materials discovery. “Materials discovery is inherently an extrapolation problem,” the authors write."
               },
               {
                 "t": "p",
-                "x": "Synergistic coupling between the dual sites reconfigures the d-band center, lowering thermodynamic barriers. With controlled H2O added to the electrolyte, the catalyst drives a transition from the conventional two-electron Li2O2 pathway to a four-electron LiOH pathway, yielding a discharge capacity of ~60,000 mAh g−1."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
-                "cap": "Fig. 5: Analysis of cycling stability and catalytic process."
+                "x": "University of Tokyo researchers propose decoupled transfer learning: pretrained graph neural networks extract structural features, and a simpler regression model predicts the target property. Trained on Materials Project data up to 2018 and tested on materials added through 2021, the approach cut prediction error by 68% compared with CGCNN, a widely used end-to-end graph neural network."
               },
               {
                 "t": "p",
-                "x": "Under the four-electron pathway the NiCo2-DACs achieve a lifespan of 2075 cycles with reduced voltage decay, versus failure after 790 cycles for the Co single-atom baseline. The architecture also works as a protective layer that suppresses lithium dendrite growth at the negative electrode."
+                "x": "It works best when new materials extend familiar chemical or structural patterns and is less reliable in poorly represented chemical or electronic regimes. No large-scale retraining is needed. The study appears in PRX Intelligence."
               }
             ]
           }
         },
         "ko": {
-          "headline": "머신러닝이 이끄는\n리튬-산소 배터리",
-          "body": "ML이 찾은 Ni-Co 촉매로 Li-O2 전지는 LiOH로 2,000회를 넘겼다.",
-          "mini_headline": "ML로 다듬은 Li-O2 배터리 촉매",
+          "headline": "AI, 아직 찾지 못한\n소재까지 외삽한다",
+          "body": "도쿄대가 구조 학습·물성 회귀를 분리해 CGCNN보다 외삽 오차를 68% 줄였다.",
+          "mini_headline": "AI, 새 소재를 외삽하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
-                "cap": "Fig. 1: 머신러닝을 이용한 다중 사이트 촉매 설계 원리 탐구."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+                "cap": "머신러닝 모델이 학습 데이터 범위를 넘어 소재 물성을 예측하도록 돕는 연구팀의 접근법. 출처: 도쿄대 생산기술연구소(Institute of Industrial Science, The University of Tokyo)"
               },
               {
                 "t": "p",
-                "x": "에너지밀도가 높은 리튬–산소 배터리는 산소 산화환원 반응이 느리고 방전 중간체가 불안정해 아직 실용화되지 못했다. 연구진은 해석 가능한 머신러닝과 밀도범함수이론을 묶은 AI-integrated(AI 통합) 프레임워크를 200건의 문헌 기록으로 학습시켜 수천 개 활성 사이트의 화학 공간을 탐색했다. 선택된 원소 가운데 더 나은 조합으로 꼽힌 것은 Ni-Co 이중원자 촉매였다."
+                "x": "머신러닝 모델은 학습 데이터 범위 안에서는 예측을 잘하지만 본 적 없는 소재 앞에서는 곧잘 헤맨다. 소재 발견에는 이 점이 걸림돌이다. 저자들은 “소재 발견은 본질적으로 외삽 문제”라고 썼다."
               },
               {
                 "t": "p",
-                "x": "두 사이트가 시너지를 내며 결합하면 d-band 중심이 재구성돼 열역학적 장벽이 낮아진다. 전해질에 H2O를 정해진 양만큼 넣자 촉매는 기존의 두 전자 Li2O2 경로를 네 전자 LiOH 경로로 바꿨고, 방전 용량은 ~60,000 mAh g−1에 이르렀다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
-                "cap": "Fig. 5: 사이클 안정성과 촉매 과정 분석."
+                "x": "도쿄대 연구진은 분리형 전이학습을 제안했다. 사전학습한 그래프 신경망이 구조 특징을 뽑고 더 단순한 회귀 모델이 목표 물성을 예측한다. 2018년까지의 Materials Project 데이터로 학습시키고 2021년까지 새로 추가된 소재로 시험했더니 널리 쓰이는 엔드투엔드 그래프 신경망 CGCNN보다 예측 오차가 68% 줄었다."
               },
               {
                 "t": "p",
-                "x": "네 전자 경로에서 NiCo2-DACs는 전압 감소를 줄이며 2075 사이클의 수명을 달성했다. Co 단일원자 기준 촉매는 790 사이클 만에 고장 났다. 이 구조는 음극에서 보호층이 되어 리튬 덴드라이트가 자라는 것도 막는다."
+                "x": "새 소재가 익숙한 화학·구조 패턴의 연장선에 있을 때 가장 잘 맞고 데이터가 부족한 화학·전자 영역에서는 신뢰도가 떨어진다. 대규모 재학습은 필요 없다. 연구는 PRX Intelligence에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "機械学習が導く\nリチウム酸素電池",
-          "body": "MLが選んだNi-Co触媒はLi-O2電池をLiOHへ導き、2,000サイクル超もつ。",
-          "mini_headline": "MLでLi-O2電池の触媒を最適化",
+          "headline": "未発見の材料まで\nAIが外挿して予測",
+          "body": "東京大学の研究者が構造学習と物性回帰を分離し、外挿誤差をCGCNN比で68%削減した。",
+          "mini_headline": "AIが新材料を外挿",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
-                "cap": "Fig. 1: 機械学習による多サイト触媒設計原理の探究。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+                "cap": "学習データの範囲を超えて機械学習モデルが材料特性を予測できるようにする研究チームの手法。提供：東京大学生産技術研究所（Institute of Industrial Science, The University of Tokyo）"
               },
               {
                 "t": "p",
-                "x": "高エネルギー密度のリチウム–酸素電池の実用化は、遅い酸素の酸化還元反応速度と不安定な放電中間体によって制約されている。著者らは、解釈可能な機械学習と密度汎関数理論を活用したAI-integrated（AI統合型）フレームワークを報告した。200件の文献記録で学習し、数千の活性サイトからなる化学空間を探索する。その結果、選択した元素の中でNi-Co二原子触媒がより優れた構成だと特定した。"
+                "x": "機械学習モデルは学習データの範囲内では精度よく予測できるが、見たことのない材料には苦戦しがちで、これが材料探索の課題となっている。「材料探索は本質的に外挿の問題だ」と著者らは記す。"
               },
               {
                 "t": "p",
-                "x": "二つのサイト間の相乗的な結合がd-band中心を再構成し、熱力学的障壁を下げる。電解液に制御した量のH2Oを加えると、触媒は従来の二電子Li2O2経路から四電子LiOH経路への移行を促し、~60,000 mAh g−1の放電容量が得られた。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
-                "cap": "Fig. 5: サイクル安定性と触媒過程の解析。"
+                "x": "東京大学の研究者は、分離型の転移学習を提案した。事前学習済みのグラフニューラルネットワークが構造的特徴を抽出し、より単純な回帰モデルが目的の物性を予測する。2018年までのMaterials Projectのデータで学習し、2021年までに追加された材料で検証したところ、広く使われているエンドツーエンドのグラフニューラルネットワークCGCNNと比べて予測誤差を68%削減した。"
               },
               {
                 "t": "p",
-                "x": "四電子経路でNiCo2-DACsは電圧低下を抑えつつ2075サイクルの寿命を達成した。対照のCo単原子触媒は790サイクルで機能しなくなった。この構造は負極でのリチウムデンドライト成長を抑える保護層としても働く。"
+                "x": "新しい材料がなじみのある化学的・構造的パターンの延長線上にある場合に最もよく機能し、データの乏しい化学的・電子的な領域では信頼性が下がる。大規模な再学習は不要だ。研究成果はPRX Intelligenceに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "机器学习引领\n锂氧电池",
-          "body": "机器学习选出Ni-Co催化剂，推动Li-O2电池转向LiOH，循环超过2,000次。",
-          "mini_headline": "ML优化Li-O2电池催化剂",
+          "headline": "AI学会外推\n预测尚未发现的材料",
+          "body": "东京大学研究人员将结构学习与性质回归分开，外推误差比CGCNN降低68%。",
+          "mini_headline": "AI外推新材料",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
-                "cap": "Fig. 1: 利用机器学习探究多位点催化剂设计原理。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+                "cap": "研究团队帮助机器学习模型预测训练数据范围之外材料性质的方法。图片来源：东京大学生产技术研究所（Institute of Industrial Science, The University of Tokyo）"
               },
               {
                 "t": "p",
-                "x": "高能量密度锂–氧电池的实际应用受制于缓慢的氧氧化还原动力学和不稳定的放电中间体。作者报告了一个AI-integrated（AI集成）框架，结合可解释机器学习与密度泛函理论，在由数千个活性位点构成的化学空间中进行探索，并以200条文献记录进行训练。该框架在所选元素中确定Ni-Co双原子催化剂为更优构型。"
+                "x": "机器学习模型在训练数据范围内预测效果良好，但面对与以往所见截然不同的材料时往往力不从心，这成为材料发现的难题。作者写道：“材料发现本质上是一个外推问题。”"
               },
               {
                 "t": "p",
-                "x": "双位点之间的协同耦合重构了d-band中心，降低了热力学能垒。在电解液中受控加入H2O后，催化剂推动反应从传统的双电子Li2O2路径转向四电子LiOH路径，放电容量达~60,000 mAh g−1。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
-                "cap": "Fig. 5: 循环稳定性与催化过程分析。"
+                "x": "东京大学的研究人员提出了解耦迁移学习：由预训练的图神经网络提取结构特征，再由更简单的回归模型预测目标性质。该方法用截至2018年的Materials Project数据训练，并在截至2021年新增的材料上测试，与广泛使用的端到端图神经网络CGCNN相比，预测误差降低了68%。"
               },
               {
                 "t": "p",
-                "x": "在四电子路径下，NiCo2-DACs实现了2075次循环的寿命，电压衰减更小；作为对照的Co单原子催化剂在790次循环后失效。该结构还可作为保护层，抑制负极锂枝晶的生长。"
+                "x": "当新材料延续熟悉的化学或结构模式时，该方法效果最好；在代表性不足的化学或电子区域则不太可靠。它无需大规模重新训练。研究发表于PRX Intelligence。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El aprendizaje automático guía\nlas baterías de litio-oxígeno",
-          "body": "Un catalizador Ni-Co elegido por aprendizaje automático lleva las celdas Li-O2 hacia LiOH y supera 2,000 ciclos.",
-          "mini_headline": "ML ajusta el catalizador de baterías Li-O2",
+          "headline": "La IA aprende a extrapolar a\nmateriales aún no descubiertos",
+          "body": "Un equipo de Tokio separa el aprendizaje estructural de la regresión y recorta un 68% el error frente a CGCNN.",
+          "mini_headline": "La IA extrapola nuevos materiales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
-                "cap": "Fig. 1: Investigación del principio de diseño de catalizadores multisitio mediante aprendizaje automático."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+                "cap": "El enfoque del equipo para ayudar a los modelos de aprendizaje automático a predecir propiedades de materiales más allá de sus datos de entrenamiento. Crédito: Institute of Industrial Science, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "La implantación práctica de las baterías de litio–oxígeno de alta densidad energética está limitada por la lenta cinética redox del oxígeno y por intermedios de descarga inestables. Los autores presentan un marco AI-integrated (integrado con AI) que combina aprendizaje automático interpretable y teoría del funcional de la densidad para explorar un espacio químico de miles de sitios activos, entrenado con 200 registros de la literatura. El marco identifica los catalizadores Ni-Co de doble átomo como una configuración mejor entre los elementos seleccionados."
+                "x": "Los modelos de aprendizaje automático predicen bien dentro de sus datos de entrenamiento, pero a menudo fallan con materiales distintos a todo lo que han visto, un problema para el descubrimiento de materiales. “El descubrimiento de materiales es intrínsecamente un problema de extrapolación”, escriben los autores."
               },
               {
                 "t": "p",
-                "x": "El acoplamiento sinérgico entre los dos sitios reconfigura el centro de la d-band y reduce las barreras termodinámicas. Al añadir H2O de forma controlada al electrolito, el catalizador impulsa la transición de la vía convencional de dos electrones hacia Li2O2 a una vía de cuatro electrones hacia LiOH, con una capacidad de descarga de ~60,000 mAh g−1."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
-                "cap": "Fig. 5: Análisis de la estabilidad en ciclos y del proceso catalítico."
+                "x": "Investigadores de la Universidad de Tokio proponen un aprendizaje por transferencia desacoplado: redes neuronales de grafos preentrenadas extraen rasgos estructurales y un modelo de regresión más sencillo predice la propiedad objetivo. Entrenado con datos de Materials Project hasta 2018 y evaluado con materiales añadidos hasta 2021, el método redujo el error de predicción un 68% frente a CGCNN, una red neuronal de grafos de extremo a extremo muy utilizada."
               },
               {
                 "t": "p",
-                "x": "Con la vía de cuatro electrones, los NiCo2-DACs alcanzan una vida útil de 2075 ciclos con menor caída de voltaje, frente al fallo tras 790 ciclos de la referencia de átomo único de Co. La arquitectura también funciona como capa protectora que suprime el crecimiento de dendritas de litio en el electrodo negativo."
+                "x": "Funciona mejor cuando los nuevos materiales prolongan patrones químicos o estructurales conocidos y es menos fiable en regímenes químicos o electrónicos poco representados. No requiere un reentrenamiento a gran escala. El estudio se publica en PRX Intelligence."
               }
             ]
           }
@@ -809,129 +487,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "머신러닝이 이끄는\n리튬-산소 배터리",
-          "body": "ML이 찾은 Ni-Co 촉매로 Li-O2 전지는 LiOH로 2,000회를 넘겼다.",
-          "mini_headline": "ML로 다듬은 Li-O2 배터리 촉매",
+          "headline": "AI, 아직 발견되지 않은\n소재까지 외삽한다",
+          "body": "도쿄대가 구조 학습·물성 회귀를 분리해 CGCNN보다 외삽 오차를 68% 줄였다.",
+          "mini_headline": "AI, 새 소재를 외삽하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
-                "cap": "Fig. 1: 머신러닝을 이용한 다중 사이트 촉매 설계 원리 탐구."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+                "cap": "머신러닝 모델이 학습 데이터 범위를 넘어 소재 물성을 예측하도록 돕는 연구팀의 접근법. 출처: 도쿄대 생산기술연구소(Institute of Industrial Science, The University of Tokyo)"
               },
               {
                 "t": "p",
-                "x": "고에너지밀도 리튬–산소 배터리의 실용화는 느린 산소 산화환원 반응 속도와 불안정한 방전 중간체에 가로막혀 있다. 연구진은 해석 가능한 머신러닝과 밀도범함수이론을 결합한 AI-integrated(AI 통합) 프레임워크로 수천 개 활성 사이트의 화학 공간을 탐색했으며, 이 프레임워크는 200건의 문헌 기록으로 학습됐다. 프레임워크는 선택된 원소들 가운데 Ni-Co 이중원자 촉매를 더 나은 구성으로 지목했다."
+                "x": "머신러닝 모델은 학습 데이터 범위 안에서는 예측을 잘하지만, 본 적 없는 소재 앞에서는 흔히 고전한다. 소재 발견에는 걸림돌이다. 저자들은 “소재 발견은 본질적으로 외삽 문제”라고 썼다."
               },
               {
                 "t": "p",
-                "x": "두 사이트 사이의 시너지 결합이 d-band 중심을 재구성해 열역학적 장벽을 낮춘다. 전해질에 H2O를 제어된 양만큼 첨가하자 촉매는 기존의 두 전자 Li2O2 경로를 네 전자 LiOH 경로로 전환시켰고, ~60,000 mAh g−1의 방전 용량을 냈다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
-                "cap": "Fig. 5: 사이클 안정성과 촉매 과정 분석."
+                "x": "도쿄대 연구진은 분리형 전이학습을 제안했다. 사전학습된 그래프 신경망이 구조적 특징을 뽑아내고, 더 단순한 회귀 모델이 목표 물성을 예측하는 방식이다. 2018년까지의 Materials Project 데이터로 학습하고 2021년까지 추가된 소재로 시험한 결과, 널리 쓰이는 엔드투엔드 그래프 신경망 CGCNN보다 예측 오차가 68% 줄었다."
               },
               {
                 "t": "p",
-                "x": "네 전자 경로에서 NiCo2-DACs는 전압 감소를 줄이며 2075 사이클의 수명을 달성했다. 반면 Co 단일원자 기준 촉매는 790 사이클 뒤에 고장 났다. 이 구조는 음극에서 리튬 덴드라이트 성장을 억제하는 보호층 역할도 한다."
+                "x": "새 소재가 익숙한 화학적·구조적 패턴의 연장선에 있을 때 가장 잘 작동하고, 데이터가 부족한 화학적·전자적 영역에서는 신뢰도가 떨어진다. 대규모 재학습은 필요 없다. 연구는 PRX Intelligence에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "機械学習が導く\nリチウム酸素電池",
-          "body": "MLが選んだNi-Co触媒はLi-O2電池をLiOHへ導き、2,000サイクル超もつ。",
-          "mini_headline": "MLでLi-O2電池の触媒を最適化",
+          "headline": "未発見の材料まで\nAIが外挿して予測",
+          "body": "東京大学の研究者が構造学習と物性回帰を分離し、外挿誤差をCGCNN比で68%削減した。",
+          "mini_headline": "AIが新材料を外挿",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
-                "cap": "Fig. 1: 機械学習による多サイト触媒設計原理の探究。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+                "cap": "学習データの範囲を超えて機械学習モデルが材料特性を予測できるようにする研究チームの手法。提供：東京大学生産技術研究所（Institute of Industrial Science, The University of Tokyo）"
               },
               {
                 "t": "p",
-                "x": "高エネルギー密度のリチウム–酸素電池の実用化は、遅い酸素の酸化還元反応速度と不安定な放電中間体によって制約されている。著者らは、解釈可能な機械学習と密度汎関数理論を活用したAI-integrated（AI統合型）フレームワークを報告した。200件の文献記録で学習し、数千の活性サイトからなる化学空間を探索する。その結果、選択した元素の中でNi-Co二原子触媒がより優れた構成だと特定した。"
+                "x": "機械学習モデルは学習データの範囲内では精度よく予測できるが、見たことのない材料には苦戦しがちで、これが材料探索の課題となっている。「材料探索は本質的に外挿の問題だ」と著者らは記す。"
               },
               {
                 "t": "p",
-                "x": "二つのサイト間の相乗的な結合がd-band中心を再構成し、熱力学的障壁を下げる。電解液に制御した量のH2Oを加えると、触媒は従来の二電子Li2O2経路から四電子LiOH経路への移行を促し、~60,000 mAh g−1の放電容量が得られた。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
-                "cap": "Fig. 5: サイクル安定性と触媒過程の解析。"
+                "x": "東京大学の研究者は、分離型の転移学習を提案した。事前学習済みのグラフニューラルネットワークが構造的特徴を抽出し、より単純な回帰モデルが目的の物性を予測する。2018年までのMaterials Projectのデータで学習し、2021年までに追加された材料で検証したところ、広く使われているエンドツーエンドのグラフニューラルネットワークCGCNNと比べて予測誤差を68%削減した。"
               },
               {
                 "t": "p",
-                "x": "四電子経路でNiCo2-DACsは電圧低下を抑えつつ2075サイクルの寿命を達成した。対照のCo単原子触媒は790サイクルで機能しなくなった。この構造は負極でのリチウムデンドライト成長を抑える保護層としても働く。"
+                "x": "新しい材料がなじみのある化学的・構造的パターンの延長線上にある場合に最もよく機能し、データの乏しい化学的・電子的な領域では信頼性が下がる。大規模な再学習は不要だ。研究成果はPRX Intelligenceに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "机器学习引领\n锂氧电池",
-          "body": "机器学习选出Ni-Co催化剂，推动Li-O2电池转向LiOH，循环超过2,000次。",
-          "mini_headline": "ML优化Li-O2电池催化剂",
+          "headline": "AI学会外推\n预测尚未发现的材料",
+          "body": "东京大学研究人员将结构学习与性质回归分开，外推误差比CGCNN降低68%。",
+          "mini_headline": "AI外推新材料",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
-                "cap": "Fig. 1: 利用机器学习探究多位点催化剂设计原理。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+                "cap": "研究团队帮助机器学习模型预测训练数据范围之外材料性质的方法。图片来源：东京大学生产技术研究所（Institute of Industrial Science, The University of Tokyo）"
               },
               {
                 "t": "p",
-                "x": "高能量密度锂–氧电池的实际应用受制于缓慢的氧氧化还原动力学和不稳定的放电中间体。作者报告了一个AI-integrated（AI集成）框架，结合可解释机器学习与密度泛函理论，在由数千个活性位点构成的化学空间中进行探索，并以200条文献记录进行训练。该框架在所选元素中确定Ni-Co双原子催化剂为更优构型。"
+                "x": "机器学习模型在训练数据范围内预测效果良好，但面对与以往所见截然不同的材料时往往力不从心，这成为材料发现的难题。作者写道：“材料发现本质上是一个外推问题。”"
               },
               {
                 "t": "p",
-                "x": "双位点之间的协同耦合重构了d-band中心，降低了热力学能垒。在电解液中受控加入H2O后，催化剂推动反应从传统的双电子Li2O2路径转向四电子LiOH路径，放电容量达~60,000 mAh g−1。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
-                "cap": "Fig. 5: 循环稳定性与催化过程分析。"
+                "x": "东京大学的研究人员提出了解耦迁移学习：由预训练的图神经网络提取结构特征，再由更简单的回归模型预测目标性质。该方法用截至2018年的Materials Project数据训练，并在截至2021年新增的材料上测试，与广泛使用的端到端图神经网络CGCNN相比，预测误差降低了68%。"
               },
               {
                 "t": "p",
-                "x": "在四电子路径下，NiCo2-DACs实现了2075次循环的寿命，电压衰减更小；作为对照的Co单原子催化剂在790次循环后失效。该结构还可作为保护层，抑制负极锂枝晶的生长。"
+                "x": "当新材料延续熟悉的化学或结构模式时，该方法效果最好；在代表性不足的化学或电子区域则不太可靠。它无需大规模重新训练。研究发表于PRX Intelligence。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El aprendizaje automático guía\nlas baterías de litio-oxígeno",
-          "body": "Un catalizador Ni-Co elegido por aprendizaje automático lleva las celdas Li-O2 hacia LiOH y supera 2,000 ciclos.",
-          "mini_headline": "ML ajusta el catalizador de baterías Li-O2",
+          "headline": "La IA aprende a extrapolar a\nmateriales aún no descubiertos",
+          "body": "Un equipo de Tokio separa el aprendizaje estructural de la regresión y recorta un 68% el error frente a CGCNN.",
+          "mini_headline": "La IA extrapola nuevos materiales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig1_HTML.png",
-                "cap": "Fig. 1: Investigación del principio de diseño de catalizadores multisitio mediante aprendizaje automático."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
+                "cap": "El enfoque del equipo para ayudar a los modelos de aprendizaje automático a predecir propiedades de materiales más allá de sus datos de entrenamiento. Crédito: Institute of Industrial Science, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "La implantación práctica de las baterías de litio–oxígeno de alta densidad energética está limitada por la lenta cinética redox del oxígeno y por intermedios de descarga inestables. Los autores presentan un marco AI-integrated (integrado con AI) que combina aprendizaje automático interpretable y teoría del funcional de la densidad para explorar un espacio químico de miles de sitios activos, entrenado con 200 registros de la literatura. El marco identifica los catalizadores Ni-Co de doble átomo como una configuración mejor entre los elementos seleccionados."
+                "x": "Los modelos de aprendizaje automático predicen bien dentro de sus datos de entrenamiento, pero a menudo fallan con materiales distintos a todo lo que han visto, un problema para el descubrimiento de materiales. “El descubrimiento de materiales es intrínsecamente un problema de extrapolación”, escriben los autores."
               },
               {
                 "t": "p",
-                "x": "El acoplamiento sinérgico entre los dos sitios reconfigura el centro de la d-band y reduce las barreras termodinámicas. Al añadir H2O de forma controlada al electrolito, el catalizador impulsa la transición de la vía convencional de dos electrones hacia Li2O2 a una vía de cuatro electrones hacia LiOH, con una capacidad de descarga de ~60,000 mAh g−1."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-79335-6/MediaObjects/41467_2026_79335_Fig5_HTML.png",
-                "cap": "Fig. 5: Análisis de la estabilidad en ciclos y del proceso catalítico."
+                "x": "Investigadores de la Universidad de Tokio proponen un aprendizaje por transferencia desacoplado: redes neuronales de grafos preentrenadas extraen rasgos estructurales y un modelo de regresión más sencillo predice la propiedad objetivo. Entrenado con datos de Materials Project hasta 2018 y evaluado con materiales añadidos hasta 2021, el método redujo el error de predicción un 68% frente a CGCNN, una red neuronal de grafos de extremo a extremo muy utilizada."
               },
               {
                 "t": "p",
-                "x": "Con la vía de cuatro electrones, los NiCo2-DACs alcanzan una vida útil de 2075 ciclos con menor caída de voltaje, frente al fallo tras 790 ciclos de la referencia de átomo único de Co. La arquitectura también funciona como capa protectora que suprime el crecimiento de dendritas de litio en el electrodo negativo."
+                "x": "Funciona mejor cuando los nuevos materiales prolongan patrones químicos o estructurales conocidos y es menos fiable en regímenes químicos o electrónicos poco representados. No requiere un reentrenamiento a gran escala. El estudio se publica en PRX Intelligence."
               }
             ]
           }
@@ -939,15 +597,297 @@
       }
     },
     {
-      "id": "science-bath-students-ai-support",
+      "id": "uci-pmpg-fluid-flow-reconstruction",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "학생 네 명 중 한 명\nAI로 정신건강 지원받아",
-      "body": "Bath대 조사서 UK 학생 2,020명 중 넷에 하나는 AI로 마음을 돌봤다.",
-      "mini_headline": "AI에 기대는 학생들",
+      "headline": "물리 법칙 따르는 AI,\n적은 데이터로 유동 복원",
+      "body": "UC 어바인 PMPG-NN은 최소압력구배 원리로 압력값 없이 유동장을 복원한다.",
+      "mini_headline": "물리 AI, 유체 흐름 복원",
       "tool": "Science",
-      "source": "Medical Xpress",
-      "url": "https://medicalxpress.com/news/2026-11-students-ai-mental-health.html",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+            "cap": "출처: Unsplash/CC0 퍼블릭 도메인"
+          },
+          {
+            "t": "p",
+            "x": "UC 어바인 연구진이 신경망에 최소 압력 구배 원리를 결합한 PMPG-NN을 개발했다. 많지 않고 잡음 섞인 측정값으로도 유체 물리에 맞는 유동장을 재구성하며 압력은 직접 잴 필요가 없다."
+          },
+          {
+            "t": "p",
+            "x": "구 주위 흐름, 서로 얽히는 와류, 시간에 따라 변하는 채널 흐름으로 시험해 보니 잡음이 크고 데이터가 희박한 조건에서 성능이 특히 좋았다. 속도 구배 추정도 나아졌다."
+          },
+          {
+            "t": "p",
+            "x": "연구 책임자 아라시 케라드바르는 “모든 의료 영상 기법은 측정할 수 있는 범위에 본질적인 한계가 있다”고 말했다. 저자들은 심혈관 영상(Echo-PIV, 4D Flow MRI)과 항공우주 분야에서 쓰임새를 내다보지만 실험·임상 검증은 아직 거쳐야 한다. 연구는 Physics of Fluids에 실렸다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Physics-guided AI rebuilds\nfluid flow from sparse data",
+          "body": "UC Irvine's PMPG-NN uses the principle of minimum pressure gradient to rebuild flow fields without pressure data.",
+          "mini_headline": "Physics AI rebuilds fluid flow",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "UC Irvine researchers developed PMPG-NN, which combines neural networks with the principle of minimum pressure gradient to reconstruct fluid flow fields from limited, noisy measurements while staying consistent with fluid physics. It does not need direct pressure measurements."
+              },
+              {
+                "t": "p",
+                "x": "Tested on flow around a sphere, interacting vortices and time-dependent channel flow, it performed especially well with heavy noise and sparse data and improved velocity-gradient estimates."
+              },
+              {
+                "t": "p",
+                "x": "“Every medical imaging technique has inherent limitations in what it can measure,” said lead researcher Arash Kheradvar. The authors see uses in cardiovascular imaging (Echo-PIV and 4D Flow MRI) and aerospace, but experimental and clinical validation is still needed. The study appears in Physics of Fluids."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "물리 법칙 따르는 AI,\n적은 데이터로 유동 복원",
+          "body": "UC 어바인 PMPG-NN은 최소압력구배 원리로 압력값 없이 유동장을 복원한다.",
+          "mini_headline": "물리 AI, 유체 흐름 복원",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+                "cap": "출처: Unsplash/CC0 퍼블릭 도메인"
+              },
+              {
+                "t": "p",
+                "x": "UC 어바인 연구진이 신경망에 최소 압력 구배 원리를 결합한 PMPG-NN을 개발했다. 많지 않고 잡음 섞인 측정값으로도 유체 물리에 맞는 유동장을 재구성하며 압력은 직접 잴 필요가 없다."
+              },
+              {
+                "t": "p",
+                "x": "구 주위 흐름, 서로 얽히는 와류, 시간에 따라 변하는 채널 흐름으로 시험해 보니 잡음이 크고 데이터가 희박한 조건에서 성능이 특히 좋았다. 속도 구배 추정도 나아졌다."
+              },
+              {
+                "t": "p",
+                "x": "연구 책임자 아라시 케라드바르는 “모든 의료 영상 기법은 측정할 수 있는 범위에 본질적인 한계가 있다”고 말했다. 저자들은 심혈관 영상(Echo-PIV, 4D Flow MRI)과 항공우주 분야에서 쓰임새를 내다보지만 실험·임상 검증은 아직 거쳐야 한다. 연구는 Physics of Fluids에 실렸다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "物理に導かれたAIが\n疎なデータで流れを再現",
+          "body": "UCアーバインのPMPG-NNは最小圧力勾配の原理で、圧力データなしに流れ場を再構成する。",
+          "mini_headline": "物理AIが流れを再構成",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+                "cap": "提供：Unsplash/CC0 パブリックドメイン"
+              },
+              {
+                "t": "p",
+                "x": "UCアーバインの研究者は、ニューラルネットワークと最小圧力勾配の原理を組み合わせたPMPG-NNを開発した。限られたノイズの多い計測値から、流体物理と整合する流れ場を再構成する。圧力を直接測定する必要はない。"
+              },
+              {
+                "t": "p",
+                "x": "球まわりの流れ、相互作用する渦、時間変化するチャネル流で検証したところ、ノイズが大きくデータがまばらな条件で特に高い性能を示し、速度勾配の推定も改善した。"
+              },
+              {
+                "t": "p",
+                "x": "「どの医用画像技術にも、測定できるものに本質的な限界がある」と研究を率いたアラシュ・ケラドヴァル氏は言う。著者らは心血管イメージング（Echo-PIVや4D Flow MRI）や航空宇宙での応用を見込むが、実験的・臨床的な検証はまだ必要だ。研究はPhysics of Fluidsに掲載された。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "物理引导的AI\n用稀疏数据重建流场",
+          "body": "UC Irvine的PMPG-NN借助最小压力梯度原理，无需压力数据即可重建流场。",
+          "mini_headline": "物理AI重建流体流动",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+                "cap": "图片来源：Unsplash/CC0 公有领域"
+              },
+              {
+                "t": "p",
+                "x": "UC Irvine的研究人员开发了PMPG-NN，将神经网络与最小压力梯度原理相结合，能从有限且含噪声的测量数据中重建流场，同时与流体物理保持一致。它不需要直接测量压力。"
+              },
+              {
+                "t": "p",
+                "x": "在球体绕流、相互作用的涡旋以及随时间变化的通道流中测试时，它在强噪声和稀疏数据条件下表现尤为出色，并改进了速度梯度估计。"
+              },
+              {
+                "t": "p",
+                "x": "项目负责人Arash Kheradvar表示：“每一种医学成像技术在可测量的内容上都有固有局限。”作者认为它可用于心血管成像（Echo-PIV和4D Flow MRI）及航空航天领域，但仍需实验和临床验证。研究发表于Physics of Fluids。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una IA guiada por la física\nrecrea flujos con datos escasos",
+          "body": "PMPG-NN, de UC Irvine, usa el principio de mínimo gradiente de presión para reconstruir flujos sin datos de presión.",
+          "mini_headline": "IA física reconstruye flujos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+                "cap": "Crédito: Unsplash/CC0 Dominio público"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores de UC Irvine desarrollaron PMPG-NN, que combina redes neuronales con el principio de mínimo gradiente de presión para reconstruir campos de flujo a partir de mediciones limitadas y ruidosas, sin dejar de ser coherente con la física de fluidos. No necesita mediciones directas de presión."
+              },
+              {
+                "t": "p",
+                "x": "Probado con el flujo alrededor de una esfera, vórtices que interactúan y un flujo en canal dependiente del tiempo, rindió especialmente bien con mucho ruido y datos escasos, y mejoró las estimaciones del gradiente de velocidad."
+              },
+              {
+                "t": "p",
+                "x": "“Toda técnica de imagen médica tiene limitaciones inherentes en lo que puede medir”, afirmó el investigador principal, Arash Kheradvar. Los autores ven aplicaciones en imagen cardiovascular (Echo-PIV y 4D Flow MRI) y en el sector aeroespacial, aunque aún hace falta validación experimental y clínica. El estudio se publica en Physics of Fluids."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "물리 법칙 따르는 AI,\n적은 데이터로 유동 복원",
+          "body": "UC 어바인 PMPG-NN은 최소압력구배 원리로 압력값 없이 유동장을 복원한다.",
+          "mini_headline": "물리 AI, 유체 흐름 복원",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+                "cap": "출처: Unsplash/CC0 퍼블릭 도메인"
+              },
+              {
+                "t": "p",
+                "x": "UC 어바인 연구진은 신경망과 최소 압력 구배 원리를 결합한 PMPG-NN을 개발했다. 제한적이고 잡음 섞인 측정값에서 유체 물리에 부합하는 유동장을 재구성하며, 압력을 직접 측정할 필요가 없다."
+              },
+              {
+                "t": "p",
+                "x": "구 주위 흐름, 상호작용하는 와류, 시간에 따라 변하는 채널 흐름으로 시험한 결과, 잡음이 크고 데이터가 희박한 조건에서 특히 좋은 성능을 보였고 속도 구배 추정도 개선했다."
+              },
+              {
+                "t": "p",
+                "x": "연구 책임자 아라시 케라드바르는 “모든 의료 영상 기법은 측정할 수 있는 범위에 본질적인 한계가 있다”고 말했다. 저자들은 심혈관 영상(Echo-PIV, 4D Flow MRI)과 항공우주 분야에서 쓰임새를 내다보지만, 실험·임상 검증은 아직 필요하다. 연구는 Physics of Fluids에 실렸다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "物理に導かれたAIが\n疎なデータで流れを再現",
+          "body": "UCアーバインのPMPG-NNは最小圧力勾配の原理で、圧力データなしに流れ場を再構成する。",
+          "mini_headline": "物理AIが流れを再構成",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+                "cap": "提供：Unsplash/CC0 パブリックドメイン"
+              },
+              {
+                "t": "p",
+                "x": "UCアーバインの研究者は、ニューラルネットワークと最小圧力勾配の原理を組み合わせたPMPG-NNを開発した。限られたノイズの多い計測値から、流体物理と整合する流れ場を再構成する。圧力を直接測定する必要はない。"
+              },
+              {
+                "t": "p",
+                "x": "球まわりの流れ、相互作用する渦、時間変化するチャネル流で検証したところ、ノイズが大きくデータがまばらな条件で特に高い性能を示し、速度勾配の推定も改善した。"
+              },
+              {
+                "t": "p",
+                "x": "「どの医用画像技術にも、測定できるものに本質的な限界がある」と研究を率いたアラシュ・ケラドヴァル氏は言う。著者らは心血管イメージング（Echo-PIVや4D Flow MRI）や航空宇宙での応用を見込むが、実験的・臨床的な検証はまだ必要だ。研究はPhysics of Fluidsに掲載された。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "物理引导的AI\n用稀疏数据重建流场",
+          "body": "UC Irvine的PMPG-NN借助最小压力梯度原理，无需压力数据即可重建流场。",
+          "mini_headline": "物理AI重建流体流动",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+                "cap": "图片来源：Unsplash/CC0 公有领域"
+              },
+              {
+                "t": "p",
+                "x": "UC Irvine的研究人员开发了PMPG-NN，将神经网络与最小压力梯度原理相结合，能从有限且含噪声的测量数据中重建流场，同时与流体物理保持一致。它不需要直接测量压力。"
+              },
+              {
+                "t": "p",
+                "x": "在球体绕流、相互作用的涡旋以及随时间变化的通道流中测试时，它在强噪声和稀疏数据条件下表现尤为出色，并改进了速度梯度估计。"
+              },
+              {
+                "t": "p",
+                "x": "项目负责人Arash Kheradvar表示：“每一种医学成像技术在可测量的内容上都有固有局限。”作者认为它可用于心血管成像（Echo-PIV和4D Flow MRI）及航空航天领域，但仍需实验和临床验证。研究发表于Physics of Fluids。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una IA guiada por la física\nrecrea flujos con datos escasos",
+          "body": "PMPG-NN, de UC Irvine, usa el principio de mínimo gradiente de presión para reconstruir flujos sin datos de presión.",
+          "mini_headline": "IA física reconstruye flujos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
+                "cap": "Crédito: Unsplash/CC0 Dominio público"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores de UC Irvine desarrollaron PMPG-NN, que combina redes neuronales con el principio de mínimo gradiente de presión para reconstruir campos de flujo a partir de mediciones limitadas y ruidosas, sin dejar de ser coherente con la física de fluidos. No necesita mediciones directas de presión."
+              },
+              {
+                "t": "p",
+                "x": "Probado con el flujo alrededor de una esfera, vórtices que interactúan y un flujo en canal dependiente del tiempo, rindió especialmente bien con mucho ruido y datos escasos, y mejoró las estimaciones del gradiente de velocidad."
+              },
+              {
+                "t": "p",
+                "x": "“Toda técnica de imagen médica tiene limitaciones inherentes en lo que puede medir”, afirmó el investigador principal, Arash Kheradvar. Los autores ven aplicaciones en imagen cardiovascular (Echo-PIV y 4D Flow MRI) y en el sector aeroespacial, aunque aún hace falta validación experimental y clínica. El estudio se publica en Physics of Fluids."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "fau-beluga-drone-tracking",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI, 드론 항공 사진 속\n벨루가를 추적한다",
+      "body": "준지도 탐지기가 5~10배 적은 라벨로 드론 사진 속 벨루가와 새끼를 추적한다.",
+      "mini_headline": "드론으로 벨루가 추적하는 AI",
+      "tool": "Science",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-ai-track-beluga-whales-aerial.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -955,155 +895,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
-            "cap": "출처: Unsplash/CC0 Public Domain"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+            "cap": "라벨링 1%(라벨링된 이미지 34장)에서의 정성적 탐지 결과. 라벨이 있는 테스트 이미지(A)와 학습 중 보지 못한 라벨 없는 이미지(B). 출처: Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
           },
           {
             "t": "p",
-            "x": "University of Bath(배스대) 설문에 응답한 학생 네 명 중 한 명은 지난 여섯 달 사이 정신건강 문제로 생성형 AI의 도움을 받은 적이 있었다. JMIR Mental Health에 실린 새 연구다. 학생들은 괴로울 때 조언을 구하거나 자기 정신건강을 이해하려고 AI를 썼고, 개인 치료사나 코치처럼 대하기도 했다. 웰빙 수준이 매우 낮은 학생들의 사용률이 가장 높아, 삼분의 일 넘게 써 봤다고 답했다."
+            "x": "플로리다 애틀랜틱 대학교 연구진은 캐나다 수산해양부, 매니토바 대학교와 함께 딥러닝으로 연속 촬영한 항공 사진 속 벨루가를 찾아내 추적한다."
           },
           {
             "t": "p",
-            "x": "주저자 Dr. Jeffrey Lambert는 \"생성형 AI는 이미 사람들이 정신건강 지원을 찾는 방식을 바꾸고 있다\"고 말했다. 조사 대상은 학생 2,020명이었고, 장애를 신고한 학생일수록 AI를 이렇게 쓰는 경향이 강했다. 연구진은 부정확한 정보와 프라이버시 우려, 위기 상황에 맞지 않는 응답을 위험으로 꼽았다."
+            "x": "연구진은 고래마다 성체·새끼 라벨을 붙인 고해상도 드론 이미지 7,655장으로 라벨 데이터 비율을 1%부터 50%까지 바꿔 가며 AI 모델 다섯 가지를 학습시켜 비교했다. 준지도 모델 SEMI-DETR은 라벨링된 이미지 34장만으로 평균 정밀도 19.2를 기록했다. 가장 좋은 지도학습 모델보다 상대적으로 20% 높은 수치다. 1% 수준에서 새끼 탐지는 24.3%, 성체 탐지는 16.8% 개선됐다."
           },
           {
             "t": "p",
-            "x": "대학은 학생용 가이드라인을 내놓았다. 응답자는 초대 인원의 9.1%였고 조사도 한 대학에서만 이뤄졌다. 지금은 여러 대학이 함께하는 전국 단위 연구가 진행 중이다."
+            "x": "비슷한 성능을 내는 데 드는 주석 작업은 약 다섯에서 10배 적었다. 연구는 Frontiers in Marine Science에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "One in four students use AI\nfor mental health support",
-          "body": "A Bath survey of 2,020 UK students found about one in four used generative AI for mental-health support in six months.",
-          "mini_headline": "Students turn to AI for support",
+          "headline": "AI tracks beluga whales\nacross aerial drone images",
+          "body": "A semi-supervised detector tracks belugas and their calves through drone image sequences with 5-10x less hand labeling.",
+          "mini_headline": "AI tracks belugas by drone",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+                "cap": "Qualitative detection results at 1% labeling (34 labeled images) on a labeled test image (A) and an unlabeled image unseen during training (B). Credit: Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
               },
               {
                 "t": "p",
-                "x": "One in four students responding to a University of Bath survey said they had used generative AI for mental health support in the previous six months, according to a new study in JMIR Mental Health. Students used AI for advice when distressed, to understand their mental health and as a personal therapist or coach. Use was highest among students with very low well-being, with more than a third reporting it."
+                "x": "Researchers from Florida Atlantic University, with Fisheries and Oceans Canada and the University of Manitoba, use deep learning to detect and track beluga whales across sequences of aerial images."
               },
               {
                 "t": "p",
-                "x": "Lead author Dr. Jeffrey Lambert said, \"Generative AI is already changing how people seek support for their mental health.\" The study surveyed 2,020 students and found those with a declared disability were more likely to use AI this way. The researchers highlight risks including inaccurate information, privacy concerns and poor responses when someone is in crisis."
+                "x": "Working with 7,655 high-resolution drone images, each whale labeled adult or calf, they trained and compared five AI models at labeled-data levels from 1% to 50%. The semi-supervised SEMI-DETR reached a mean average precision of 19.2 with 34 labeled images, a 20% relative improvement over the best supervised model. Calf detection improved 24.3% at the 1% level, versus 16.8% for adults."
               },
               {
                 "t": "p",
-                "x": "The university has published guidance for students. Respondents represented 9.1% of those invited, and the study covered a single university; a national, multi-university study is now under way."
+                "x": "Comparable performance needed roughly five to 10 times less annotation. The study appears in Frontiers in Marine Science."
               }
             ]
           }
         },
         "ko": {
-          "headline": "학생 네 명 중 한 명\nAI로 정신건강 지원받아",
-          "body": "Bath대 조사서 UK 학생 2,020명 중 넷에 하나는 AI로 마음을 돌봤다.",
-          "mini_headline": "AI에 기대는 학생들",
+          "headline": "AI, 드론 항공 사진 속\n벨루가를 추적한다",
+          "body": "준지도 탐지기가 5~10배 적은 라벨로 드론 사진 속 벨루가와 새끼를 추적한다.",
+          "mini_headline": "드론으로 벨루가 추적하는 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
-                "cap": "출처: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+                "cap": "라벨링 1%(라벨링된 이미지 34장)에서의 정성적 탐지 결과. 라벨이 있는 테스트 이미지(A)와 학습 중 보지 못한 라벨 없는 이미지(B). 출처: Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
               },
               {
                 "t": "p",
-                "x": "University of Bath(배스대) 설문에 응답한 학생 네 명 중 한 명은 지난 여섯 달 사이 정신건강 문제로 생성형 AI의 도움을 받은 적이 있었다. JMIR Mental Health에 실린 새 연구다. 학생들은 괴로울 때 조언을 구하거나 자기 정신건강을 이해하려고 AI를 썼고, 개인 치료사나 코치처럼 대하기도 했다. 웰빙 수준이 매우 낮은 학생들의 사용률이 가장 높아, 삼분의 일 넘게 써 봤다고 답했다."
+                "x": "플로리다 애틀랜틱 대학교 연구진은 캐나다 수산해양부, 매니토바 대학교와 함께 딥러닝으로 연속 촬영한 항공 사진 속 벨루가를 찾아내 추적한다."
               },
               {
                 "t": "p",
-                "x": "주저자 Dr. Jeffrey Lambert는 \"생성형 AI는 이미 사람들이 정신건강 지원을 찾는 방식을 바꾸고 있다\"고 말했다. 조사 대상은 학생 2,020명이었고, 장애를 신고한 학생일수록 AI를 이렇게 쓰는 경향이 강했다. 연구진은 부정확한 정보와 프라이버시 우려, 위기 상황에 맞지 않는 응답을 위험으로 꼽았다."
+                "x": "연구진은 고래마다 성체·새끼 라벨을 붙인 고해상도 드론 이미지 7,655장으로 라벨 데이터 비율을 1%부터 50%까지 바꿔 가며 AI 모델 다섯 가지를 학습시켜 비교했다. 준지도 모델 SEMI-DETR은 라벨링된 이미지 34장만으로 평균 정밀도 19.2를 기록했다. 가장 좋은 지도학습 모델보다 상대적으로 20% 높은 수치다. 1% 수준에서 새끼 탐지는 24.3%, 성체 탐지는 16.8% 개선됐다."
               },
               {
                 "t": "p",
-                "x": "대학은 학생용 가이드라인을 내놓았다. 응답자는 초대 인원의 9.1%였고 조사도 한 대학에서만 이뤄졌다. 지금은 여러 대학이 함께하는 전국 단위 연구가 진행 중이다."
+                "x": "비슷한 성능을 내는 데 드는 주석 작업은 약 다섯에서 10배 적었다. 연구는 Frontiers in Marine Science에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "学生の四人に一人が\nAIに心の支えを求める",
-          "body": "Bath大のUK学生2,020人調査で、約四人に一人が半年で生成AIを心の支えに使った。",
-          "mini_headline": "AIに支えを求める学生たち",
+          "headline": "AIがドローン空撮で\nベルーガを追跡",
+          "body": "半教師あり検出器が、手作業のラベル付けを5〜10分の1に減らしてベルーガと子を追跡する。",
+          "mini_headline": "AIがドローンでベルーガ追跡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
-                "cap": "出典：Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+                "cap": "ラベル付け1%（ラベル付き画像34枚）での定性的な検出結果。ラベル付きテスト画像（A）と、学習中に見ていないラベルなし画像（B）。出典：Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
               },
               {
                 "t": "p",
-                "x": "University of Bath（バース大学）の調査に回答した学生の四人に一人が、過去六か月間にメンタルヘルスの支えとして生成AIを使ったと答えた。JMIR Mental Healthに掲載された新たな研究による。学生たちは苦しいときの助言を求めたり、自分のメンタルヘルスを理解したり、個人的なセラピストやコーチとしてAIを使っていた。利用はウェルビーイングが非常に低い学生で最も多く、その三分の一超が利用を報告した。"
+                "x": "フロリダ・アトランティック大学の研究者は、カナダ水産海洋省およびマニトバ大学と共同で、深層学習を使って連続した空撮画像からベルーガを検出・追跡している。"
               },
               {
                 "t": "p",
-                "x": "筆頭著者のDr. Jeffrey Lambertは「生成AIは、人々がメンタルヘルスの支援を求める方法をすでに変えつつある」と述べた。研究は2,020人の学生を調査し、障害を申告している学生ほどこうした形でAIを使う傾向があることを明らかにした。研究者らは、不正確な情報、プライバシーへの懸念、危機に陥った人への不適切な応答といったリスクを指摘している。"
+                "x": "研究チームは、各個体を成獣か子かでラベル付けした高解像度ドローン画像7,655枚を用い、ラベル付きデータの割合を1%から50%まで変えて五つのAIモデルを学習・比較した。半教師ありのSEMI-DETRは、ラベル付き画像34枚で平均適合率19.2に達し、最良の教師ありモデルを相対的に20%上回った。1%の水準で子の検出は24.3%向上し、成獣は16.8%だった。"
               },
               {
                 "t": "p",
-                "x": "大学は学生向けのガイダンスを公表した。回答者は招待者の9.1%で、研究は単一の大学を対象としたものだった。現在、複数の大学による全国規模の研究が進行中だ。"
+                "x": "同等の性能に必要なアノテーションは、およそ5分の1から10分の1で済んだ。研究はFrontiers in Marine Scienceに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "四分之一学生\n借助AI获取心理支持",
-          "body": "Bath大学调查2,020名UK学生，约四分之一六个月内曾用生成式AI寻求心理支持。",
-          "mini_headline": "学生转向AI寻求支持",
+          "headline": "AI在无人机航拍中\n追踪白鲸",
+          "body": "一种半监督检测器在无人机图像序列中追踪白鲸及幼崽，人工标注量减少5至10倍。",
+          "mini_headline": "AI借无人机追踪白鲸",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
-                "cap": "来源：Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+                "cap": "标注比例1%（34张标注图像）时的定性检测结果：带标注的测试图像（A）与训练中未见过的无标注图像（B）。来源：Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
               },
               {
                 "t": "p",
-                "x": "根据发表在JMIR Mental Health上的一项新研究，在University of Bath（巴斯大学）的调查中，四分之一的受访学生表示，过去六个月里曾使用生成式AI获取心理健康支持。学生们在苦恼时向AI寻求建议，借助它了解自己的心理健康，或把它当作私人治疗师或教练。在幸福感极低的学生中使用率最高，超过三分之一的人报告曾这样使用。"
+                "x": "佛罗里达大西洋大学的研究人员与加拿大渔业和海洋部、曼尼托巴大学合作，利用深度学习在连续航拍图像中检测和追踪白鲸。"
               },
               {
                 "t": "p",
-                "x": "主要作者Dr. Jeffrey Lambert表示：“生成式AI已经在改变人们寻求心理健康支持的方式。”研究调查了2,020名学生，发现申报了残障的学生更可能以这种方式使用AI。研究人员强调了相关风险，包括信息不准确、隐私担忧，以及在有人陷入危机时回应不当。"
+                "x": "他们使用7,655张高分辨率无人机图像，每头鲸都标注为成年或幼崽，在1%到50%的标注数据比例下训练并比较了五个AI模型。半监督模型SEMI-DETR仅用34张标注图像就达到19.2的平均精度均值，比最佳监督模型相对提升20%。在1%的标注水平下，幼崽检测提升24.3%，成年个体为16.8%。"
               },
               {
                 "t": "p",
-                "x": "该校已为学生发布指南。受访者占受邀人数的9.1%，且研究仅覆盖一所大学；目前一项全国性的多校研究正在进行中。"
+                "x": "达到相当性能所需的标注量约少五到10倍。研究发表于《Frontiers in Marine Science》。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Uno de cada cuatro estudiantes\nusa AI para su salud mental",
-          "body": "Según Bath, cerca de uno de cada cuatro de 2,020 universitarios del UK usó AI para su salud mental en seis meses.",
-          "mini_headline": "Estudiantes recurren a la AI como apoyo",
+          "headline": "La IA sigue a las belugas en\nimágenes aéreas de drones",
+          "body": "Un detector semisupervisado sigue a belugas y sus crías en imágenes de dron con 5-10x menos etiquetado manual.",
+          "mini_headline": "La IA sigue belugas con drones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
-                "cap": "Crédito: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+                "cap": "Resultados cualitativos de detección con un 1% de etiquetado (34 imágenes etiquetadas) en una imagen de prueba etiquetada (A) y en una imagen sin etiquetar no vista durante el entrenamiento (B). Crédito: Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
               },
               {
                 "t": "p",
-                "x": "Uno de cada cuatro estudiantes que respondieron a una encuesta de la University of Bath dijo haber usado AI generativa como apoyo para su salud mental en los seis meses anteriores, según un nuevo estudio publicado en JMIR Mental Health. Los estudiantes usaron la AI para pedir consejo en momentos de angustia, para entender su salud mental y como terapeuta o coach personal. El uso fue mayor entre los estudiantes con un bienestar muy bajo, de los que más de un tercio lo declaró."
+                "x": "Investigadores de la Florida Atlantic University, junto con Fisheries and Oceans Canada y la Universidad de Manitoba, usan aprendizaje profundo para detectar y seguir belugas a lo largo de secuencias de imágenes aéreas."
               },
               {
                 "t": "p",
-                "x": "El autor principal, Dr. Jeffrey Lambert, afirmó: \"La AI generativa ya está cambiando la forma en que las personas buscan apoyo para su salud mental\". El estudio encuestó a 2,020 estudiantes y halló que quienes habían declarado una discapacidad tenían más probabilidades de usar la AI de este modo. Los investigadores señalan riesgos como la información inexacta, la preocupación por la privacidad y las respuestas deficientes cuando alguien está en crisis."
+                "x": "Con 7.655 imágenes de dron de alta resolución, en las que cada ballena se etiquetó como adulta o cría, entrenaron y compararon cinco modelos de IA con niveles de datos etiquetados del 1% al 50%. El modelo semisupervisado SEMI-DETR alcanzó una precisión media promedio de 19,2 con 34 imágenes etiquetadas, una mejora relativa del 20% sobre el mejor modelo supervisado. La detección de crías mejoró un 24,3% en el nivel del 1%, frente al 16,8% en los adultos."
               },
               {
                 "t": "p",
-                "x": "La universidad ha publicado una guía para estudiantes. Los encuestados representaron el 9.1% de los invitados y el estudio abarcó una sola universidad; ya está en marcha un estudio nacional con varias universidades."
+                "x": "Lograr un rendimiento comparable requirió aproximadamente entre cinco y 10 veces menos anotación. El estudio se publica en Frontiers in Marine Science."
               }
             ]
           }
@@ -1111,109 +1051,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "학생 네 명 중 한 명\nAI로 정신건강 지원받아",
-          "body": "Bath대 조사서 UK 학생 2,020명 중 넷에 하나는 AI로 마음을 돌봤다.",
-          "mini_headline": "AI에 기대는 학생들",
+          "headline": "AI, 드론 항공 사진 속\n벨루가를 추적한다",
+          "body": "준지도 탐지기가 5~10배 적은 라벨로 드론 사진 속 벨루가와 새끼를 추적한다.",
+          "mini_headline": "드론으로 벨루가 추적하는 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
-                "cap": "출처: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+                "cap": "라벨링 1%(라벨링된 이미지 34장)에서의 정성적 탐지 결과. 라벨이 있는 테스트 이미지(A)와 학습 중 보지 못한 라벨 없는 이미지(B). 출처: Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
               },
               {
                 "t": "p",
-                "x": "University of Bath(배스대) 설문에 응답한 학생 네 명 중 한 명이 지난 여섯 달 동안 정신건강 지원을 위해 생성형 AI를 쓴 적이 있다고 답했다. JMIR Mental Health에 실린 새 연구 내용이다. 학생들은 괴로울 때 조언을 구하거나 자신의 정신건강을 이해하려고, 또는 개인 치료사나 코치처럼 AI를 활용했다. 사용률은 웰빙 수준이 매우 낮은 학생들에게서 가장 높았는데, 이들 중 삼분의 일 이상이 사용했다고 답했다."
+                "x": "플로리다 애틀랜틱 대학교 연구진은 캐나다 수산해양부, 매니토바 대학교와 함께 딥러닝으로 연속 항공 사진에서 벨루가를 탐지하고 추적한다."
               },
               {
                 "t": "p",
-                "x": "주저자 Dr. Jeffrey Lambert는 \"생성형 AI는 이미 사람들이 정신건강 지원을 찾는 방식을 바꾸고 있다\"고 말했다. 연구는 학생 2,020명을 조사했으며, 장애를 신고한 학생일수록 이런 방식으로 AI를 쓸 가능성이 높았다. 연구진은 부정확한 정보, 프라이버시 우려, 위기 상황에서의 부적절한 응답 등을 위험으로 꼽았다."
+                "x": "연구진은 고래마다 성체 또는 새끼로 라벨을 붙인 고해상도 드론 이미지 7,655장을 활용해, 라벨 데이터 비율 1%부터 50%까지 다섯 가지 AI 모델을 학습시키고 비교했다. 준지도 모델 SEMI-DETR은 라벨링된 이미지 34장으로 평균 정밀도 19.2를 기록해, 가장 좋은 지도학습 모델보다 상대적으로 20% 높았다. 1% 수준에서 새끼 탐지는 24.3% 개선됐고, 성체는 16.8%였다."
               },
               {
                 "t": "p",
-                "x": "대학은 학생용 가이드라인을 발표했다. 응답자는 초대받은 인원의 9.1%였고 연구는 한 대학만 대상으로 했다. 현재 여러 대학이 참여하는 전국 단위 연구가 진행 중이다."
+                "x": "비슷한 성능을 내는 데 필요한 주석 작업은 약 다섯에서 10배 적었다. 연구는 Frontiers in Marine Science에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "学生の四人に一人が\nAIに心の支えを求める",
-          "body": "Bath大のUK学生2,020人調査で、約四人に一人が半年で生成AIを心の支えに使った。",
-          "mini_headline": "AIに支えを求める学生たち",
+          "headline": "AIがドローン空撮で\nベルーガを追跡",
+          "body": "半教師あり検出器が、手作業のラベル付けを5〜10分の1に減らしてベルーガと子を追跡する。",
+          "mini_headline": "AIがドローンでベルーガ追跡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
-                "cap": "出典：Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+                "cap": "ラベル付け1%（ラベル付き画像34枚）での定性的な検出結果。ラベル付きテスト画像（A）と、学習中に見ていないラベルなし画像（B）。出典：Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
               },
               {
                 "t": "p",
-                "x": "University of Bath（バース大学）の調査に回答した学生の四人に一人が、過去六か月間にメンタルヘルスの支えとして生成AIを使ったと答えた。JMIR Mental Healthに掲載された新たな研究による。学生たちは苦しいときの助言を求めたり、自分のメンタルヘルスを理解したり、個人的なセラピストやコーチとしてAIを使っていた。利用はウェルビーイングが非常に低い学生で最も多く、その三分の一超が利用を報告した。"
+                "x": "フロリダ・アトランティック大学の研究者は、カナダ水産海洋省およびマニトバ大学と共同で、深層学習を使って連続した空撮画像からベルーガを検出・追跡している。"
               },
               {
                 "t": "p",
-                "x": "筆頭著者のDr. Jeffrey Lambertは「生成AIは、人々がメンタルヘルスの支援を求める方法をすでに変えつつある」と述べた。研究は2,020人の学生を調査し、障害を申告している学生ほどこうした形でAIを使う傾向があることを明らかにした。研究者らは、不正確な情報、プライバシーへの懸念、危機に陥った人への不適切な応答といったリスクを指摘している。"
+                "x": "研究チームは、各個体を成獣か子かでラベル付けした高解像度ドローン画像7,655枚を用い、ラベル付きデータの割合を1%から50%まで変えて五つのAIモデルを学習・比較した。半教師ありのSEMI-DETRは、ラベル付き画像34枚で平均適合率19.2に達し、最良の教師ありモデルを相対的に20%上回った。1%の水準で子の検出は24.3%向上し、成獣は16.8%だった。"
               },
               {
                 "t": "p",
-                "x": "大学は学生向けのガイダンスを公表した。回答者は招待者の9.1%で、研究は単一の大学を対象としたものだった。現在、複数の大学による全国規模の研究が進行中だ。"
+                "x": "同等の性能に必要なアノテーションは、およそ5分の1から10分の1で済んだ。研究はFrontiers in Marine Scienceに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "四分之一学生\n借助AI获取心理支持",
-          "body": "Bath大学调查2,020名UK学生，约四分之一六个月内曾用生成式AI寻求心理支持。",
-          "mini_headline": "学生转向AI寻求支持",
+          "headline": "AI在无人机航拍中\n追踪白鲸",
+          "body": "一种半监督检测器在无人机图像序列中追踪白鲸及幼崽，人工标注量减少5至10倍。",
+          "mini_headline": "AI借无人机追踪白鲸",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
-                "cap": "来源：Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+                "cap": "标注比例1%（34张标注图像）时的定性检测结果：带标注的测试图像（A）与训练中未见过的无标注图像（B）。来源：Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
               },
               {
                 "t": "p",
-                "x": "根据发表在JMIR Mental Health上的一项新研究，在University of Bath（巴斯大学）的调查中，四分之一的受访学生表示，过去六个月里曾使用生成式AI获取心理健康支持。学生们在苦恼时向AI寻求建议，借助它了解自己的心理健康，或把它当作私人治疗师或教练。在幸福感极低的学生中使用率最高，超过三分之一的人报告曾这样使用。"
+                "x": "佛罗里达大西洋大学的研究人员与加拿大渔业和海洋部、曼尼托巴大学合作，利用深度学习在连续航拍图像中检测和追踪白鲸。"
               },
               {
                 "t": "p",
-                "x": "主要作者Dr. Jeffrey Lambert表示：“生成式AI已经在改变人们寻求心理健康支持的方式。”研究调查了2,020名学生，发现申报了残障的学生更可能以这种方式使用AI。研究人员强调了相关风险，包括信息不准确、隐私担忧，以及在有人陷入危机时回应不当。"
+                "x": "他们使用7,655张高分辨率无人机图像，每头鲸都标注为成年或幼崽，在1%到50%的标注数据比例下训练并比较了五个AI模型。半监督模型SEMI-DETR仅用34张标注图像就达到19.2的平均精度均值，比最佳监督模型相对提升20%。在1%的标注水平下，幼崽检测提升24.3%，成年个体为16.8%。"
               },
               {
                 "t": "p",
-                "x": "该校已为学生发布指南。受访者占受邀人数的9.1%，且研究仅覆盖一所大学；目前一项全国性的多校研究正在进行中。"
+                "x": "达到相当性能所需的标注量约少五到10倍。研究发表于《Frontiers in Marine Science》。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Uno de cada cuatro estudiantes\nusa AI para su salud mental",
-          "body": "Según Bath, cerca de uno de cada cuatro de 2,020 universitarios del UK usó AI para su salud mental en seis meses.",
-          "mini_headline": "Estudiantes recurren a la AI como apoyo",
+          "headline": "La IA sigue a las belugas en\nimágenes aéreas de drones",
+          "body": "Un detector semisupervisado sigue a belugas y sus crías en imágenes de dron con 5-10x menos etiquetado manual.",
+          "mini_headline": "La IA sigue belugas con drones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/student-using-laptop.jpg",
-                "cap": "Crédito: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
+                "cap": "Resultados cualitativos de detección con un 1% de etiquetado (34 imágenes etiquetadas) en una imagen de prueba etiquetada (A) y en una imagen sin etiquetar no vista durante el entrenamiento (B). Crédito: Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
               },
               {
                 "t": "p",
-                "x": "Uno de cada cuatro estudiantes que respondieron a una encuesta de la University of Bath dijo haber usado AI generativa como apoyo para su salud mental en los seis meses anteriores, según un nuevo estudio publicado en JMIR Mental Health. Los estudiantes usaron la AI para pedir consejo en momentos de angustia, para entender su salud mental y como terapeuta o coach personal. El uso fue mayor entre los estudiantes con un bienestar muy bajo, de los que más de un tercio lo declaró."
+                "x": "Investigadores de la Florida Atlantic University, junto con Fisheries and Oceans Canada y la Universidad de Manitoba, usan aprendizaje profundo para detectar y seguir belugas a lo largo de secuencias de imágenes aéreas."
               },
               {
                 "t": "p",
-                "x": "El autor principal, Dr. Jeffrey Lambert, afirmó: \"La AI generativa ya está cambiando la forma en que las personas buscan apoyo para su salud mental\". El estudio encuestó a 2,020 estudiantes y halló que quienes habían declarado una discapacidad tenían más probabilidades de usar la AI de este modo. Los investigadores señalan riesgos como la información inexacta, la preocupación por la privacidad y las respuestas deficientes cuando alguien está en crisis."
+                "x": "Con 7.655 imágenes de dron de alta resolución, en las que cada ballena se etiquetó como adulta o cría, entrenaron y compararon cinco modelos de IA con niveles de datos etiquetados del 1% al 50%. El modelo semisupervisado SEMI-DETR alcanzó una precisión media promedio de 19,2 con 34 imágenes etiquetadas, una mejora relativa del 20% sobre el mejor modelo supervisado. La detección de crías mejoró un 24,3% en el nivel del 1%, frente al 16,8% en los adultos."
               },
               {
                 "t": "p",
-                "x": "La universidad ha publicado una guía para estudiantes. Los encuestados representaron el 9.1% de los invitados y el estudio abarcó una sola universidad; ya está en marcha un estudio nacional con varias universidades."
+                "x": "Lograr un rendimiento comparable requirió aproximadamente entre cinco y 10 veces menos anotación. El estudio se publica en Frontiers in Marine Science."
               }
             ]
           }
@@ -1221,141 +1161,165 @@
       }
     },
     {
-      "id": "science-technion-rnn-hidden-structure",
+      "id": "qwen3-quantum-circuit-layers",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "똑같이 움직이는 신경망\n속 구조는 달랐다",
-      "body": "Technion 연구서 행동이 같은 RNNs도 새로 배울 땐 구조 차이가 드러났다.",
-      "mini_headline": "쌍둥이 신경망, 숨은 차이",
+      "headline": "300억 파라미터 LLM에\n양자 회로를 넣다",
+      "body": "연구진이 300억 파라미터 Qwen3의 8개 층을 양자 프로세서용 모듈로 바꿨다.",
+      "mini_headline": "300억 LLM 속 양자 회로",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-neural-networks-identically-reveal-hidden.html",
+      "source": "The Quantum Insider",
+      "url": "https://thequantuminsider.com/2026/11/24/researchers-fit-quantum-circuits-into-a-30-billion-parameter-ai-model/",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Technion 연구진은 신경망의 수학적 모델로 네트워크 연결의 변화들이 어떻게 맞물려 기능을 바꾸는지 살폈다. 그 결과 네트워크의 기능과 학습은 내부 구조의 서로 다른 면을 드러냈다. Omri Barak 교수와 연구생 Yoav Ger의 논문은 arXiv에 공개됐으며, NeurIPS 2026 구두 발표작으로 뽑혔다. 제출작 30,709편 가운데 112편만 오른 자리다."
+            "t": "img",
+            "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
           },
           {
             "t": "p",
-            "x": "연구 대상은 뇌의 정보 처리 방식을 모델링할 때 쓰는 순환 신경망의 한 유형이었다. 연구진은 네트워크의 행동을 정하는 속성과, 지금 성능엔 영향이 없지만 학습 방식은 바꾸는 \"숨은\" 속성을 나눴다. 한 예에서 두 네트워크는 같은 입력에 똑같이 반응했지만, 같은 조건에서 훈련하자 한쪽은 한동안 개선이 크게 더뎌졌고 다른 쪽은 더 꾸준히 나아졌다."
+            "x": "연구진이 대규모 언어 모델의 층 여덟 개를 양자 프로세서에서 돌아가는 작은 모듈로 바꿨다. 시뮬레이션에서 텍스트 예측 능력은 거의 그대로였고 모델 파라미터 수는 약 16% 줄었다."
           },
           {
             "t": "p",
-            "x": "숨은 속성은 학습 이력의 흔적도 간직할 수 있다. 처음엔 서로 다른 과제로 훈련된 네트워크들이 공통 과제에서 비슷한 성능에 이르러도, 숨은 구조를 보면 각자의 훈련 이력을 여전히 가려낼 수 있었다. 연구진은 생물학적 시스템에서도 비슷한 실험을 해 보자고 제안한다."
+            "x": "Multiverse Computing과 토론토대 연구팀은 파라미터 305억 개의 사전학습 Qwen3 모델을 손봤다. 연속된 블록 여덟 개, 파라미터로는 50억 개 가까이를 들어내고 그 자리에 학습 가능한 파라미터 145,281개짜리 모듈 하나를 넣었다. 퍼플렉서티는 WikiText-2에서 0.9% 나빠졌고 C4에서는 뚜렷한 차이가 없었다."
+          },
+          {
+            "t": "p",
+            "x": "회로는 156큐비트 IBM Heron 프로세서에서도 돌렸는데 토큰 하나당 약 1분 반이 걸렸다. 비슷한 크기의 기존 신경망은 거의 모든 비교에서 텍스트를 더 잘 예측했다. 연구는 arXiv에 사전 공개된 논문이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Identical networks hide\ndifferent inner structures",
-          "body": "Technion finds RNNs that behave identically hide structural differences that surface only when learning a new task.",
-          "mini_headline": "Twin networks, hidden differences",
+          "headline": "Quantum circuits fit inside a\n30B-parameter language model",
+          "body": "Researchers replaced eight layers of the 30B-parameter Qwen3 model with a module that can run on a quantum processor.",
+          "mini_headline": "Quantum circuits in a 30B LLM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Technion researchers examined how changes in a network's connections combine to alter its function, using mathematical models of neural networks, and showed that a network's function and learning reveal different aspects of its internal structure. The paper by Professor Omri Barak and research student Yoav Ger, posted on arXiv, was selected for an oral presentation at NeurIPS 2026 — one of 112 of 30,709 submissions."
+                "t": "img",
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
               },
               {
                 "t": "p",
-                "x": "Studying a type of recurrent neural network used to model how the brain processes information, they distinguished properties that determine the network's behavior from \"hidden\" ones that do not affect current performance but influence how it learns. In one example, two networks responded identically to the same inputs, yet when trained under the same conditions one saw improvement slow considerably for a period while the other improved more steadily."
+                "x": "Researchers replaced eight layers of a large language model with a compact module that can run on a quantum processor, cutting the model’s parameter count by about 16% with little change in its ability to predict text in simulations."
               },
               {
                 "t": "p",
-                "x": "Hidden properties can also retain traces of learning history: networks first trained on different tasks reached similar performance on a shared task, yet their hidden structure still identified each network's training history. The authors suggest similar experiments in biological systems."
+                "x": "The team, from Multiverse Computing and the University of Toronto, modified a pretrained Qwen3 model with 30.5 billion parameters, removing eight consecutive blocks — nearly 5 billion parameters — and putting a single module with 145,281 trainable parameters in their place. Perplexity was 0.9% worse on WikiText-2, with no clear difference on C4."
+              },
+              {
+                "t": "p",
+                "x": "The circuits also ran on a 156-qubit IBM Heron processor, taking roughly a minute and a half per token. A conventional network of about the same size predicted text better in nearly every comparison. The study is an arXiv preprint."
               }
             ]
           }
         },
         "ko": {
-          "headline": "똑같이 움직이는 신경망\n속 구조는 달랐다",
-          "body": "Technion 연구서 행동이 같은 RNNs도 새로 배울 땐 구조 차이가 드러났다.",
-          "mini_headline": "쌍둥이 신경망, 숨은 차이",
+          "headline": "300억 파라미터 LLM에\n양자 회로를 넣다",
+          "body": "연구진이 300억 파라미터 Qwen3의 8개 층을 양자 프로세서용 모듈로 바꿨다.",
+          "mini_headline": "300억 LLM 속 양자 회로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Technion 연구진은 신경망의 수학적 모델로 네트워크 연결의 변화들이 어떻게 맞물려 기능을 바꾸는지 살폈다. 그 결과 네트워크의 기능과 학습은 내부 구조의 서로 다른 면을 드러냈다. Omri Barak 교수와 연구생 Yoav Ger의 논문은 arXiv에 공개됐으며, NeurIPS 2026 구두 발표작으로 뽑혔다. 제출작 30,709편 가운데 112편만 오른 자리다."
+                "t": "img",
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
               },
               {
                 "t": "p",
-                "x": "연구 대상은 뇌의 정보 처리 방식을 모델링할 때 쓰는 순환 신경망의 한 유형이었다. 연구진은 네트워크의 행동을 정하는 속성과, 지금 성능엔 영향이 없지만 학습 방식은 바꾸는 \"숨은\" 속성을 나눴다. 한 예에서 두 네트워크는 같은 입력에 똑같이 반응했지만, 같은 조건에서 훈련하자 한쪽은 한동안 개선이 크게 더뎌졌고 다른 쪽은 더 꾸준히 나아졌다."
+                "x": "연구진이 대규모 언어 모델의 층 여덟 개를 양자 프로세서에서 돌아가는 작은 모듈로 바꿨다. 시뮬레이션에서 텍스트 예측 능력은 거의 그대로였고 모델 파라미터 수는 약 16% 줄었다."
               },
               {
                 "t": "p",
-                "x": "숨은 속성은 학습 이력의 흔적도 간직할 수 있다. 처음엔 서로 다른 과제로 훈련된 네트워크들이 공통 과제에서 비슷한 성능에 이르러도, 숨은 구조를 보면 각자의 훈련 이력을 여전히 가려낼 수 있었다. 연구진은 생물학적 시스템에서도 비슷한 실험을 해 보자고 제안한다."
+                "x": "Multiverse Computing과 토론토대 연구팀은 파라미터 305억 개의 사전학습 Qwen3 모델을 손봤다. 연속된 블록 여덟 개, 파라미터로는 50억 개 가까이를 들어내고 그 자리에 학습 가능한 파라미터 145,281개짜리 모듈 하나를 넣었다. 퍼플렉서티는 WikiText-2에서 0.9% 나빠졌고 C4에서는 뚜렷한 차이가 없었다."
+              },
+              {
+                "t": "p",
+                "x": "회로는 156큐비트 IBM Heron 프로세서에서도 돌렸는데 토큰 하나당 약 1분 반이 걸렸다. 비슷한 크기의 기존 신경망은 거의 모든 비교에서 텍스트를 더 잘 예측했다. 연구는 arXiv에 사전 공개된 논문이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "同じ振る舞いのネットワーク\n隠れた内部構造に違い",
-          "body": "Technionは挙動が同じRNNsにも新課題の学習時だけ表れる構造差があると示した。",
-          "mini_headline": "双子のネットワーク、隠れた違い",
+          "headline": "量子回路が収まる\n300億パラメータのLLM",
+          "body": "300億パラメータのQwen3の8層を、量子プロセッサで動くモジュールに置き換えた。",
+          "mini_headline": "300億LLMに量子回路",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Technionの研究者らは、ニューラルネットワークの数理モデルを用いて、ネットワークの結合の変化がどう組み合わさって機能を変えるのかを調べ、ネットワークの機能と学習が内部構造の異なる側面を明らかにすることを示した。Omri Barak教授と研究生Yoav Gerによる論文はarXivで公開され、NeurIPS 2026の口頭発表に選ばれた。30,709件の投稿のうち112件の一つだ。"
+                "t": "img",
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
               },
               {
                 "t": "p",
-                "x": "研究者らは、脳の情報処理をモデル化するのに使われる再帰型ニューラルネットワークの一種を研究し、ネットワークの振る舞いを決める性質と、現在の性能には影響しないが学習の仕方に影響する「隠れた」性質とを区別した。ある例では、二つのネットワークが同じ入力に同一の反応を示したが、同じ条件で訓練すると、一方は一定期間改善が大きく鈍り、もう一方はより着実に改善した。"
+                "x": "研究者らは大規模言語モデルの8層を、量子プロセッサで実行できる小型モジュールに置き換えた。シミュレーションではテキスト予測能力をほとんど損なわずに、モデルのパラメータ数を約16%削減した。"
               },
               {
                 "t": "p",
-                "x": "隠れた性質は学習履歴の痕跡を保持することもある。最初に異なる課題で訓練されたネットワークは共通の課題で同程度の性能に達したが、その隠れた構造からは依然として各ネットワークの訓練履歴を識別できた。著者らは生物のシステムでも同様の実験を行うことを提案している。"
+                "x": "Multiverse Computingとトロント大学のチームは、305億パラメータの事前学習済みQwen3モデルに手を加え、連続する8ブロック（50億近いパラメータ）を取り除いて、学習可能なパラメータ145,281個の単一モジュールに置き換えた。パープレキシティはWikiText-2で0.9%悪化し、C4では明確な差は見られなかった。"
+              },
+              {
+                "t": "p",
+                "x": "回路は156量子ビットのIBM Heronプロセッサでも実行され、1トークンあたり約1分半かかった。ほぼ同じ規模の従来型ネットワークは、ほぼすべての比較でより高いテキスト予測精度を示した。この研究はarXivのプレプリントである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "表现相同的网络\n暗藏不同内部结构",
-          "body": "Technion发现，表现完全相同的RNNs暗藏结构差异，只在学习新任务时才显现。",
-          "mini_headline": "孪生网络，暗藏差异",
+          "headline": "量子电路装进\n300亿参数语言模型",
+          "body": "研究人员把300亿参数Qwen3模型中的八层，替换为可在量子处理器上运行的模块。",
+          "mini_headline": "300亿参数LLM中的量子电路",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Technion的研究人员利用神经网络的数学模型，考察网络连接的变化如何组合起来改变其功能，并证明网络的功能与学习揭示了其内部结构的不同侧面。这篇由Omri Barak教授和研究生Yoav Ger撰写、发布在arXiv上的论文入选NeurIPS 2026口头报告，是30,709篇投稿中的112篇之一。"
+                "t": "img",
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
               },
               {
                 "t": "p",
-                "x": "他们研究了一类用于模拟大脑信息处理方式的循环神经网络，区分了决定网络行为的属性与“隐藏”属性——后者不影响当前表现，却会影响网络的学习方式。在一个例子中，两个网络对相同输入的反应完全一致，但在相同条件下训练时，其中一个的改进在一段时间内明显放缓，另一个则更稳定地提升。"
+                "x": "研究人员将一个大语言模型的八层替换为可在量子处理器上运行的紧凑模块，在模拟中模型预测文本的能力几乎没有变化，参数量却减少了约16%。"
               },
               {
                 "t": "p",
-                "x": "隐藏属性还能保留学习历史的痕迹：最初在不同任务上训练的网络在一项共同任务上达到相近表现，但其隐藏结构仍能识别出各网络的训练历史。作者建议在生物系统中开展类似实验。"
+                "x": "这支来自Multiverse Computing和多伦多大学的团队修改了一个拥有305亿参数的预训练Qwen3模型，移除了连续八个模块（近50亿参数），并以一个仅含145,281个可训练参数的模块取而代之。在WikiText-2上困惑度变差0.9%，在C4上则没有明显差异。"
+              },
+              {
+                "t": "p",
+                "x": "这些电路还在156量子比特的IBM Heron处理器上运行，每个token约需一分半钟。规模大致相同的传统网络几乎在所有比较中都能更好地预测文本。该研究为arXiv预印本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Redes idénticas ocultan\nestructuras internas distintas",
-          "body": "Según Technion, RNNs que se comportan igual ocultan diferencias que solo surgen al aprender una tarea nueva.",
-          "mini_headline": "Redes gemelas, diferencias ocultas",
+          "headline": "Circuitos cuánticos caben en un\nmodelo de lenguaje de 30B",
+          "body": "Un equipo sustituyó ocho capas del Qwen3 de 30B parámetros por un módulo ejecutable en un procesador cuántico.",
+          "mini_headline": "Circuitos cuánticos en un LLM de 30B",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Investigadores del Technion examinaron, con modelos matemáticos de redes neuronales, cómo se combinan los cambios en las conexiones de una red para alterar su función, y demostraron que la función y el aprendizaje de una red revelan aspectos distintos de su estructura interna. El artículo del profesor Omri Barak y el estudiante de investigación Yoav Ger, publicado en arXiv, fue seleccionado para una presentación oral en NeurIPS 2026: uno de 112 entre 30,709 envíos."
+                "t": "img",
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
               },
               {
                 "t": "p",
-                "x": "Al estudiar un tipo de red neuronal recurrente usado para modelar cómo el cerebro procesa la información, distinguieron las propiedades que determinan el comportamiento de la red de las \"ocultas\", que no afectan al rendimiento actual pero influyen en cómo aprende. En un ejemplo, dos redes respondían de forma idéntica a las mismas entradas, pero al entrenarse en las mismas condiciones una vio cómo su mejora se ralentizaba considerablemente durante un periodo, mientras la otra mejoraba de forma más constante."
+                "x": "Los investigadores sustituyeron ocho capas de un gran modelo de lenguaje por un módulo compacto que puede ejecutarse en un procesador cuántico, lo que redujo el número de parámetros del modelo en torno a un 16% con pocos cambios en su capacidad de predecir texto en simulaciones."
               },
               {
                 "t": "p",
-                "x": "Las propiedades ocultas también pueden conservar huellas del historial de aprendizaje: redes entrenadas primero en tareas distintas alcanzaron un rendimiento similar en una tarea compartida, pero su estructura oculta seguía identificando el historial de entrenamiento de cada red. Los autores proponen experimentos similares en sistemas biológicos."
+                "x": "El equipo, de Multiverse Computing y la Universidad de Toronto, modificó un modelo Qwen3 preentrenado con 30.500 millones de parámetros: eliminó ocho bloques consecutivos —casi 5.000 millones de parámetros— y colocó en su lugar un único módulo con 145.281 parámetros entrenables. La perplejidad empeoró un 0,9% en WikiText-2, sin una diferencia clara en C4."
+              },
+              {
+                "t": "p",
+                "x": "Los circuitos también se ejecutaron en un procesador IBM Heron de 156 cúbits, con cerca de un minuto y medio por token. Una red convencional de tamaño similar predijo mejor el texto en casi todas las comparaciones. El estudio es un preprint de arXiv."
               }
             ]
           }
@@ -1363,89 +1327,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "똑같이 작동하는 신경망,\n속 구조는 달랐다",
-          "body": "Technion: 행동이 같은 RNNs도 새 학습에선 구조 차이가 드러난다.",
-          "mini_headline": "쌍둥이 신경망, 숨은 차이",
+          "headline": "300억 파라미터 LLM에\n양자 회로를 넣다",
+          "body": "연구진이 300억 파라미터 Qwen3의 8개 층을 양자 프로세서용 모듈로 바꿨다.",
+          "mini_headline": "300억 LLM 속 양자 회로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Technion 연구진은 신경망의 수학적 모델을 이용해 네트워크 연결의 변화가 어떻게 결합해 기능을 바꾸는지 살폈고, 네트워크의 기능과 학습이 내부 구조의 서로 다른 측면을 드러낸다는 점을 보였다. Omri Barak 교수와 연구생 Yoav Ger의 논문은 arXiv에 공개됐으며, NeurIPS 2026 구두 발표작으로 뽑혔다. 제출된 30,709편 가운데 112편에 든 것이다."
+                "t": "img",
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
               },
               {
                 "t": "p",
-                "x": "연구진은 뇌의 정보 처리 방식을 모델링하는 데 쓰이는 순환 신경망의 한 유형을 연구하며, 네트워크의 행동을 결정하는 속성과 현재 성능에는 영향을 주지 않지만 학습 방식에 영향을 주는 \"숨은\" 속성을 구분했다. 한 예에서 두 네트워크는 같은 입력에 똑같이 반응했지만, 같은 조건에서 훈련하자 한쪽은 한동안 개선 속도가 크게 느려진 반면 다른 쪽은 더 꾸준히 나아졌다."
+                "x": "연구진이 대규모 언어 모델의 층 여덟 개를 양자 프로세서에서 실행할 수 있는 작은 모듈로 대체해, 시뮬레이션에서 텍스트 예측 능력은 거의 그대로 둔 채 모델 파라미터 수를 약 16% 줄였다."
               },
               {
                 "t": "p",
-                "x": "숨은 속성은 학습 이력의 흔적도 간직할 수 있다. 처음에 서로 다른 과제로 훈련된 네트워크들이 공통 과제에서 비슷한 성능에 이르렀지만, 숨은 구조로는 여전히 각 네트워크의 훈련 이력을 식별할 수 있었다. 연구진은 생물학적 시스템에서도 비슷한 실험을 해 볼 것을 제안한다."
+                "x": "Multiverse Computing과 토론토대 연구팀은 파라미터 305억 개의 사전학습 Qwen3 모델을 수정했다. 연속된 블록 여덟 개, 즉 50억 개 가까운 파라미터를 제거하고 그 자리에 학습 가능한 파라미터 145,281개짜리 모듈 하나를 넣었다. 퍼플렉서티는 WikiText-2에서 0.9% 나빠졌고, C4에서는 뚜렷한 차이가 없었다."
+              },
+              {
+                "t": "p",
+                "x": "회로는 156큐비트 IBM Heron 프로세서에서도 실행됐으며, 토큰 하나당 약 1분 반이 걸렸다. 비슷한 크기의 기존 신경망은 거의 모든 비교에서 텍스트를 더 잘 예측했다. 이 연구는 arXiv 사전 공개 논문이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "同じ振る舞いのネットワーク\n隠れた内部構造に違い",
-          "body": "Technionは挙動が同じRNNsにも新課題の学習時だけ表れる構造差があると示した。",
-          "mini_headline": "双子のネットワーク、隠れた違い",
+          "headline": "量子回路が収まる\n300億パラメータのLLM",
+          "body": "300億パラメータのQwen3の8層を、量子プロセッサで動くモジュールに置き換えた。",
+          "mini_headline": "300億LLMに量子回路",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Technionの研究者らは、ニューラルネットワークの数理モデルを用いて、ネットワークの結合の変化がどう組み合わさって機能を変えるのかを調べ、ネットワークの機能と学習が内部構造の異なる側面を明らかにすることを示した。Omri Barak教授と研究生Yoav Gerによる論文はarXivで公開され、NeurIPS 2026の口頭発表に選ばれた。30,709件の投稿のうち112件の一つだ。"
+                "t": "img",
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
               },
               {
                 "t": "p",
-                "x": "研究者らは、脳の情報処理をモデル化するのに使われる再帰型ニューラルネットワークの一種を研究し、ネットワークの振る舞いを決める性質と、現在の性能には影響しないが学習の仕方に影響する「隠れた」性質とを区別した。ある例では、二つのネットワークが同じ入力に同一の反応を示したが、同じ条件で訓練すると、一方は一定期間改善が大きく鈍り、もう一方はより着実に改善した。"
+                "x": "研究者らは大規模言語モデルの8層を、量子プロセッサで実行できる小型モジュールに置き換えた。シミュレーションではテキスト予測能力をほとんど損なわずに、モデルのパラメータ数を約16%削減した。"
               },
               {
                 "t": "p",
-                "x": "隠れた性質は学習履歴の痕跡を保持することもある。最初に異なる課題で訓練されたネットワークは共通の課題で同程度の性能に達したが、その隠れた構造からは依然として各ネットワークの訓練履歴を識別できた。著者らは生物のシステムでも同様の実験を行うことを提案している。"
+                "x": "Multiverse Computingとトロント大学のチームは、305億パラメータの事前学習済みQwen3モデルに手を加え、連続する8ブロック（50億近いパラメータ）を取り除いて、学習可能なパラメータ145,281個の単一モジュールに置き換えた。パープレキシティはWikiText-2で0.9%悪化し、C4では明確な差は見られなかった。"
+              },
+              {
+                "t": "p",
+                "x": "回路は156量子ビットのIBM Heronプロセッサでも実行され、1トークンあたり約1分半かかった。ほぼ同じ規模の従来型ネットワークは、ほぼすべての比較でより高いテキスト予測精度を示した。この研究はarXivのプレプリントである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "表现相同的网络\n暗藏不同内部结构",
-          "body": "Technion发现，表现完全相同的RNNs暗藏结构差异，只在学习新任务时才显现。",
-          "mini_headline": "孪生网络，暗藏差异",
+          "headline": "量子电路装进\n300亿参数语言模型",
+          "body": "研究人员把300亿参数Qwen3模型中的八层，替换为可在量子处理器上运行的模块。",
+          "mini_headline": "300亿参数LLM中的量子电路",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Technion的研究人员利用神经网络的数学模型，考察网络连接的变化如何组合起来改变其功能，并证明网络的功能与学习揭示了其内部结构的不同侧面。这篇由Omri Barak教授和研究生Yoav Ger撰写、发布在arXiv上的论文入选NeurIPS 2026口头报告，是30,709篇投稿中的112篇之一。"
+                "t": "img",
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
               },
               {
                 "t": "p",
-                "x": "他们研究了一类用于模拟大脑信息处理方式的循环神经网络，区分了决定网络行为的属性与“隐藏”属性——后者不影响当前表现，却会影响网络的学习方式。在一个例子中，两个网络对相同输入的反应完全一致，但在相同条件下训练时，其中一个的改进在一段时间内明显放缓，另一个则更稳定地提升。"
+                "x": "研究人员将一个大语言模型的八层替换为可在量子处理器上运行的紧凑模块，在模拟中模型预测文本的能力几乎没有变化，参数量却减少了约16%。"
               },
               {
                 "t": "p",
-                "x": "隐藏属性还能保留学习历史的痕迹：最初在不同任务上训练的网络在一项共同任务上达到相近表现，但其隐藏结构仍能识别出各网络的训练历史。作者建议在生物系统中开展类似实验。"
+                "x": "这支来自Multiverse Computing和多伦多大学的团队修改了一个拥有305亿参数的预训练Qwen3模型，移除了连续八个模块（近50亿参数），并以一个仅含145,281个可训练参数的模块取而代之。在WikiText-2上困惑度变差0.9%，在C4上则没有明显差异。"
+              },
+              {
+                "t": "p",
+                "x": "这些电路还在156量子比特的IBM Heron处理器上运行，每个token约需一分半钟。规模大致相同的传统网络几乎在所有比较中都能更好地预测文本。该研究为arXiv预印本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Redes idénticas ocultan\nestructuras internas distintas",
-          "body": "Según Technion, RNNs que se comportan igual ocultan diferencias que solo surgen al aprender una tarea nueva.",
-          "mini_headline": "Redes gemelas, diferencias ocultas",
+          "headline": "Circuitos cuánticos caben en un\nmodelo de lenguaje de 30B",
+          "body": "Un equipo sustituyó ocho capas del Qwen3 de 30B parámetros por un módulo ejecutable en un procesador cuántico.",
+          "mini_headline": "Circuitos cuánticos en un LLM de 30B",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Investigadores del Technion examinaron, con modelos matemáticos de redes neuronales, cómo se combinan los cambios en las conexiones de una red para alterar su función, y demostraron que la función y el aprendizaje de una red revelan aspectos distintos de su estructura interna. El artículo del profesor Omri Barak y el estudiante de investigación Yoav Ger, publicado en arXiv, fue seleccionado para una presentación oral en NeurIPS 2026: uno de 112 entre 30,709 envíos."
+                "t": "img",
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
               },
               {
                 "t": "p",
-                "x": "Al estudiar un tipo de red neuronal recurrente usado para modelar cómo el cerebro procesa la información, distinguieron las propiedades que determinan el comportamiento de la red de las \"ocultas\", que no afectan al rendimiento actual pero influyen en cómo aprende. En un ejemplo, dos redes respondían de forma idéntica a las mismas entradas, pero al entrenarse en las mismas condiciones una vio cómo su mejora se ralentizaba considerablemente durante un periodo, mientras la otra mejoraba de forma más constante."
+                "x": "Los investigadores sustituyeron ocho capas de un gran modelo de lenguaje por un módulo compacto que puede ejecutarse en un procesador cuántico, lo que redujo el número de parámetros del modelo en torno a un 16% con pocos cambios en su capacidad de predecir texto en simulaciones."
               },
               {
                 "t": "p",
-                "x": "Las propiedades ocultas también pueden conservar huellas del historial de aprendizaje: redes entrenadas primero en tareas distintas alcanzaron un rendimiento similar en una tarea compartida, pero su estructura oculta seguía identificando el historial de entrenamiento de cada red. Los autores proponen experimentos similares en sistemas biológicos."
+                "x": "El equipo, de Multiverse Computing y la Universidad de Toronto, modificó un modelo Qwen3 preentrenado con 30.500 millones de parámetros: eliminó ocho bloques consecutivos —casi 5.000 millones de parámetros— y colocó en su lugar un único módulo con 145.281 parámetros entrenables. La perplejidad empeoró un 0,9% en WikiText-2, sin una diferencia clara en C4."
+              },
+              {
+                "t": "p",
+                "x": "Los circuitos también se ejecutaron en un procesador IBM Heron de 156 cúbits, con cerca de un minuto y medio por token. Una red convencional de tamaño similar predijo mejor el texto en casi todas las comparaciones. El estudio es un preprint de arXiv."
               }
             ]
           }

@@ -5516,6 +5516,134 @@
           "x": "«Dado que investigaciones previas demuestran que las herramientas de AI agilizan el diagnóstico del ictus, simplifican los flujos de trabajo y mejoran la colaboración entre los equipos médicos, se justifica seguir investigando si estos cambios influyen en los resultados», escribieron los investigadores."
         }
       ]
+    },
+    "medicine/stat-rsna-draft-reports": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Desde hace más de dos décadas, la inteligencia artificial ha tenido un papel creciente en la práctica de la radiología. Hoy, casi todos los radiólogos usan herramientas de AI, ya sea para priorizar las imágenes que interpretan, dictar sus informes o detectar hallazgos en las decenas de X-rays y CTs que leen cada día."
+        },
+        {
+          "t": "p",
+          "x": "Pero el año pasado, en la reunión anual de la Radiological Society of North America, expertos en radiología y desarrolladores empezaron a poner en primer plano un nuevo paradigma en AI: una tecnología, impulsada por modelos de visión y lenguaje, capaz de mirar una imagen y redactar un informe de los hallazgos clínicos que contiene."
+        },
+        {
+          "t": "p",
+          "x": "\"La RSNA del año pasado se centró sobre todo en si es realmente posible que un modelo de AI escriba para los radiólogos un borrador que parezca un informe radiológico real y que sea lo bastante preciso como para que un radiólogo siquiera lo tenga en cuenta\", dijo Michael Braginsky, director de tecnología de Aidoc."
+        },
+        {
+          "t": "p",
+          "x": "Mientras la RSNA se reúne en Chicago, se espera que los actores del sector debatan si los borradores de informes con AI mejorarán la atención. (El resto del artículo es para suscriptores de STAT+.)"
+        }
+      ]
+    },
+    "medicine/seemode-thyroid-tirads": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Domingo, 29 de noviembre | 9:00 a.m. a 10:00 a.m. | S1-SSHN01-2 | Sala E352"
+        },
+        {
+          "t": "p",
+          "x": "En esta presentación científica, los investigadores compartirán los resultados de un despliegue amplio y en condiciones reales de un software de AI para ecografía tiroidea."
+        },
+        {
+          "t": "p",
+          "x": "La AI ha mostrado potencial para mejorar la eficiencia y la precisión y para reducir la variabilidad entre lectores en la ecografía tiroidea. Sin embargo, su impacto clínico depende en última instancia de que los radiólogos confíen en sus resultados y los adopten en la práctica habitual, señalaron el ponente Milad Mohammadzadeh, PhD, de See-Mode Technologies, y sus colegas. Para medirlo, el grupo evaluó de forma prospectiva con qué frecuencia los radiólogos conservaban los descriptores TI-RADS generados por un sistema de AI."
+        },
+        {
+          "t": "p",
+          "x": "El software (See-Mode) se implantó en 297 clínicas de Estados Unidos (U.S.) y automatiza la detección de nódulos, su caracterización y la generación de informes. Los investigadores usaron un flujo validado basado en un modelo de lenguaje grande para comparar los informes finales firmados por los radiólogos entre septiembre de 2025 y abril de 2026 con los informes estructurados AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "En más de 95,000 estudios que abarcaban más de 187,000 nódulos, los radiólogos dejaron sin cambios todos los descriptores AI-generated, y por tanto coincidieron con el nivel TI-RADS de la AI, en casi el 89% de los nódulos. La concordancia fue aún mayor en los descriptores individuales, de alrededor del 95% al 98%."
+        },
+        {
+          "t": "p",
+          "x": "\"Esta alta concordancia human-AI es importante para generar confianza en los resultados de la AI, algo clave para integrar con éxito y a largo plazo la AI en la práctica clínica habitual\", escribieron los investigadores en el resumen."
+        }
+      ]
+    },
+    "medicine/intelerad-orchestrator-clarity": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "GE HealthCare (GEHC) presenta InteleOrchestrator Clarity, una capa de IA para InteleOrchestrator, su software de flujo de trabajo empresarial desarrollado por su unidad Intelerad, con el fin de apoyar a los radiólogos en la elaboración de resúmenes e informes."
+        },
+        {
+          "t": "p",
+          "x": "Según el fabricante, el software ofrece a los radiólogos, dentro del flujo de lectura, resúmenes de informes previos y del historial del paciente vinculados a sus fuentes, con enlaces a la información original para que puedan verificar el contenido resumido. A medida que el radiólogo dicta los hallazgos, InteleOrchestrator Clarity reúne el dictado y la información disponible en un borrador de informe estructurado, que el radiólogo revisa, corrige si hace falta y finaliza, según GEHC."
+        },
+        {
+          "t": "p",
+          "x": "InteleOrchestrator Clarity ya está disponible para los clientes de InteleOrchestrator a través de InteleOrchestrator Cloud. GEHC mostrará el software en la reunión anual RSNA 2026 en Chicago."
+        }
+      ]
+    },
+    "medicine/npj-tumor-board-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los comités de tumores, reuniones periódicas en instituciones hospitalarias, reúnen a especialistas en cáncer (p. ej., oncología médica y patología) para discutir la atención de los pacientes. En este trabajo, definimos formalmente como tareas de AI el resumen de casos del comité de tumores, la generación de opciones y la predicción del resultado de la reunión. Estudiamos conjuntos de datos de cuatro instituciones médicas y evaluamos modelos de lenguaje grandes (LLMs) de última generación de las familias DeepSeek, GPT, Gemini y Qwen mediante evaluación humana experta."
+        },
+        {
+          "t": "p",
+          "x": "Los oncólogos médicos crearon ~9.6k textos de referencia y 16k juicios humanos en todas las tareas. Los clínicos calificaron los resúmenes de casos LLM-generated entre 3.57–4.59 sobre 5.0 en las distintas instituciones, pero la generación de recomendaciones siguió siendo más difícil, con puntuaciones medias de 2.0–3.6."
+        },
+        {
+          "t": "p",
+          "x": "Los análisis de alineación clínica mostraron correlaciones modestas de ~0.2 para las subtareas de resumen de casos y correlaciones más altas de ~0.6 para la generación de recomendaciones con métricas LLM-as-Judge. Nuestras métricas TBFact propuestas fueron competitivas frente a los enfoques LLM-as-Judge en contextos de texto libre en prosa más extensa."
+        },
+        {
+          "t": "p",
+          "x": "Los expertos también asignaron con frecuencia puntuaciones altas a respuestas que diferían sustancialmente de sus textos de referencia, lo que cuestiona los supuestos en que se basan las métricas de evaluación automática basadas en referencias."
+        }
+      ]
+    },
+    "medicine/nhs-edith-breast-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+          "cap": "La profesora Fiona Gilbert, que codirige el ensayo, evaluará si la IA puede mejorar el diagnóstico del cáncer de mama"
+        },
+        {
+          "t": "p",
+          "x": "Casi 700.000 mujeres de todo el Reino Unido serán invitadas a participar en el mayor ensayo del mundo sobre cómo la inteligencia artificial puede ayudar en el cribado del cáncer de mama. El reclutamiento para el ensayo EDITH ya ha comenzado en Cambridge University Hospitals, el primero de 30 centros en el Reino Unido."
+        },
+        {
+          "t": "p",
+          "x": "Actualmente, dos expertos del NHS examinan cada mamografía, pero en el ensayo uno de los lectores humanos será sustituido por la IA. Los investigadores afirman que deben asegurarse de que no cause daños al hacer que se vuelva a citar a mujeres innecesariamente para más pruebas."
+        },
+        {
+          "t": "p",
+          "x": "La profesora Gilbert dijo: \"Millones de mujeres se hacen una mamografía cada año y solo un pequeño número, menos del 1%, tendrá cáncer\". Contó a la BBC que hay un \"enorme déficit\" de radiólogos y que las pruebas de imagen aumentan un 8% al año."
+        },
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/97b7/live/1802e150-e2a1-11f1-8dda-8925a81c3da5.jpg",
+          "cap": "Shirley Essex afirma que el cribado mamario rutinario le salvó la vida"
+        },
+        {
+          "t": "p",
+          "x": "En un brazo del ensayo, un programa de IA calificará las imágenes antes de enviarlas a los expertos del NHS. En otro, las revisará después. El ensayo, de £10m, está financiado por el NIHR y lo dirigen la Universidad de Warwick, la Universidad de Cambridge y Cambridge University Hospitals, en colaboración con NHS England."
+        },
+        {
+          "t": "p",
+          "x": "En el ensayo participan cuatro empresas de IA y se prevé que dure unos tres años."
+        }
+      ]
     }
   }
 }

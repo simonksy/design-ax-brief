@@ -12574,6 +12574,141 @@
           "x": "A las pocas horas del hallazgo, Nicalis informó en X de que Repentance Plus se había actualizado y de que se habían eliminado los archivos de música generada. Aunque las reseñas en Steam aún no se han recuperado y el juego sigue con una valoración “extremadamente negativa”, los usuarios de X parecen conceder a McMillen el beneficio de la duda, probablemente porque se ha mostrado muy crítico con la AI en el desarrollo de videojuegos: en un TikTok de 2024 la calificó de “poco inspirada e insulsa”."
         }
       ]
+    },
+    "games/atari-homebrew-awards-ai-flood": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
+          "cap": "DIMITAR DILKOFF / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Los Atari Homebrew Awards, que habrían celebrado su novena edición, se han cancelado después de que su organizador llegara a un punto muerto sobre cómo tratar las candidaturas que podrían haberse hecho con AI."
+        },
+        {
+          "t": "p",
+          "x": "“Seguir el ritmo de la gran cantidad de desarrollo de juegos asistido por AI se había vuelto cada vez más difícil a medida que avanzaba el año, con algunos desarrolladores que incluso lanzaban varios juegos a la semana con ayuda de la AI”, escribió ZeroPage Homebrew en el foro de Atari Age."
+        },
+        {
+          "t": "p",
+          "x": "La tarea no consistía solo en revisar las candidaturas, sino en decidir qué límite fijar, si acaso, para el uso de AI. Los juegos generados al 100% por AI quedaban descartados, pero ¿qué pasa con los que usaron AI para la música, el arte o la programación? No hay formas sencillas de verificar cuánta AI se ha usado: requiere una declaración honesta, y el software de detección puede dar falsos positivos."
+        },
+        {
+          "t": "p",
+          "x": "“No vi ningún camino a seguir y tomé la difícil decisión de suspender los Atari Homebrew Awards este año”, escribió ZeroPage. La publicación del foro acumula ya cientos de comentarios que debaten el lugar de la AI en la escena homebrew de Atari y más allá."
+        }
+      ]
+    },
+    "games/gta6-recomp-leonida-takedown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apenas un día después de que el filtrador Cyberleek publicara el ejecutable de la build casi completa de Grand Theft Auto 6 para Xbox, al menos dos de los líderes de Leonida, el mayor y más conocido intento de recompilarlo para que funcione en PC, lo han dejado, al parecer bajo presión de Take-Two y Rockstar."
+        },
+        {
+          "t": "p",
+          "x": "El exe abrió la puerta a que los proyectos de recompilación aprovecharan la AI para preparar rápidamente una versión del juego que funcione en PC. Durante una retransmisión en directo, el equipo logró mostrar la pantalla de inicio de GTA 6 en PC, aunque después el juego se bloqueó."
+        },
+        {
+          "t": "p",
+          "x": "“Lo dejo, chicos. Lo siento”, publicó en X NotRexed, al parecer el responsable del proyecto, que después añadió que “que Rockstar tumbara mi servidor fue solo parte del motivo”. Shayder, otro de los líderes, borró todas sus publicaciones en X."
+        },
+        {
+          "t": "p",
+          "x": "Hay otros proyectos similares en marcha, y un nuevo repositorio de GitHub se describe como “una continuación del proyecto NotRexed's Leonida”. La llegada de la AI simplifica y acelera mucho el traslado de juegos de consola a PC, lo que complica las cosas a las empresas que quieren mantener a raya este tipo de proyectos."
+        }
+      ]
+    },
+    "games/shogi-ai-denryusen-sente": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El AI Denryu-sen Project, una NPO, celebró los días 14 y 15 de noviembre la fase principal del 7.º Campeonato Mundial de Shogi AI Denryu-sen, Copa del Ministro de Educación, Cultura, Deportes, Ciencia y Tecnología. Después, Yaneurao, desarrollador de la AI de shogi «Yaneura-ou», expuso en su blog que las AI de shogi se han vuelto tan fuertes que organizar torneos empieza a ser difícil."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En la liga final compitieron 10 equipos. Cada emparejamiento se jugó con ambos bandos como primero y segundo en mover, y el primero, considerado con ventaja, tenía 3 minutos (el segundo, 10 minutos, con 2 segundos añadidos por cada 1 jugada). Pese a unas reglas que favorecen ligeramente al segundo, la tasa de victorias del primero alcanzó cerca del 80%."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En las partidas oficiales de profesionales, la tasa de victorias del primero ha rondado entre el 52 y el 53%. En el Campeonato Mundial de Shogi por Computadora de este año y en el Denryu-sen TSEC, la tasa del primero también fue de aproximadamente entre el 80 y el 90%. También hay reglas que favorecen al segundo: en un sennichite (repetición) se suman 0.4 victorias al primero y 0.6 al segundo."
+        },
+        {
+          "t": "p",
+          "x": "Según Yaneurao, desde hace cerca de medio año los avances de la AI de programación han acelerado también el desarrollo de las AI de shogi. La diferencia entre los mejores se ha reducido, y todas las AI de shogi punteras han llegado a un nivel en el que no pierden como primeras en mover salvo que su libro de aperturas tenga fallos. El próximo reto parece ser crear nuevas reglas que equilibren la diferencia entre el primero y el segundo."
+        }
+      ]
+    },
+    "games/nexon-ai-game-rating": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un consorcio de industria y universidad liderado por Nexon presentó el 20 de noviembre, en el congreso de la Korea Game Law and Policy Society en Busan, los resultados de su primer año de investigación y sus planes sobre tecnología de clasificación de juegos AI-assisted. La AI hace una primera revisión del contenido del juego y las personas toman la decisión final de clasificación."
+        },
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
+          "cap": "©INVEN"
+        },
+        {
+          "t": "p",
+          "x": "Nexon creó un pipeline que preprocesa vídeos de juego, capturas de pantalla, audio y documentos de solicitud de clasificación para evaluar siete criterios principales de contenido. Introducir vídeos largos en la AI elevaba el coste en tokens y los modelos comerciales sufrían criterios fluctuantes, por lo que en 2027 un LLM interno seleccionará solo las escenas necesarias para modelos avanzados más consistentes."
+        },
+        {
+          "t": "img",
+          "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
+          "cap": "©INVEN"
+        },
+        {
+          "t": "p",
+          "x": "Unos 40 etiquetadores de Myongji University juegan los títulos e introducen fotograma a fotograma los motivos de evaluación, y la universidad desarrolla un agente AI de juego autónomo: “El objetivo no es jugar bien, sino navegar y explorar con precisión para clasificar el contenido”."
+        },
+        {
+          "t": "p",
+          "x": "Smilegate aportó 2,894 registros de autoclasificación de STOVE y desde 2028 medirá las tasas de coincidencia con la revisión de los operadores y el tiempo de revisión. “Los resultados de la AI se usarán únicamente como material de referencia complementario para la revisión de los operadores”, dijo el investigador Moon Young-min. Los ponentes coincidieron en que las decisiones finales deben quedar en manos de personas."
+        }
+      ]
+    },
+    "games/sony-playunit-ai-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sony ha patentado una tecnología de AI que permite que una AI juegue por ti mientras haces otras cosas, como cenar. En la patente divulgada por Patentlyze, una función de la consola deja que una AI tome el mando en las partes del juego que elijas y te lo devuelva cuando regreses. Se diferencia de una patente divulgada hace un año, en la que un \"jugador fantasma\" de AI jugaba a tu lado para mostrarte cómo jugar."
+        },
+        {
+          "t": "p",
+          "x": "El juego se divide en unidades de juego, como una aventura, una misión o una sola escena. Un servidor recopila grabaciones de las entradas de mando de jugadores reales y marcadores de eventos que indican cuándo empieza y termina cada tarea, y luego entrena un asistente de AI por cada fragmento mediante una red neuronal convolucional y aprendizaje por refuerzo. Los asistentes que alcanzan aproximadamente la habilidad de un jugador medio se guardan; el resto se descarta."
+        },
+        {
+          "t": "p",
+          "x": "Un panel en pantalla indica si cada actividad admite el juego con AI de forma total, parcial o nula. Seleccionas las tareas y pulsas un botón de juego con AI; al tocar el mando recuperas el control. La consola también puede ofrecer la AI después de que falles una tarea, y puede cederle el control cuando el mando está inactivo."
+        },
+        {
+          "t": "p",
+          "x": "Patentlyze afirmó que ha seguido 174 solicitudes de patente de Sony desde mayo."
+        }
+      ]
     }
   }
 }

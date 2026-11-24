@@ -1,117 +1,89 @@
 {
   "section": "movies",
-  "now_iso": "2026-11-23T22:00:42Z",
+  "now_iso": "2026-11-24T22:00:37Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "AI Film 'Gods Don't Give Gifts' Deemed Ineligible by Academy for Best Animated Feature Oscar",
-      "url": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/",
-      "source": "IndieWire",
-      "published_iso": "2026-11-23T21:42:26+00:00",
-      "excerpt": "The Academy has ruled Gossip Goblin's AI-generated feature 'Gods Don't Give Gifts' ineligible for the Best Animated Feature Oscar race, ahead of its Dec. 4 theatrical release.",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=650",
+      "title": "Discover BOT VFX's hybrid AI VFX pipeline for Young Washington",
+      "url": "https://www.cgchannel.com/2026/11/discover-bot-vfxs-hybrid-ai-vfx-pipeline-for-young-washington/",
+      "source": "CG Channel",
+      "published_iso": "2026-11-24T15:45:00Z",
+      "og_image": null,
+      "excerpt": "BOT VFX delivered 300 shots in 17 weeks for Young Washington, mixing generative AI (FLUX.2 Klein, Wan) with a Maya/Nuke pipeline: AI crowd extensions, muzzle flashes and near-fully generated town shots. Temporal inconsistency, 4K upscaling and bit-depth limits meant heavy cleanup.",
+      "keyword": "AI VFX",
+      "note": "Breakdown video on Vimeo 1236102167; CG Channel has no og:image",
       "category": "movies",
       "history_match": {
-        "score": 0.425,
-        "date": "2026-10-26",
-        "url": "https://deadline.com/2026/10/gossip-goblin-gods-dont-give-gifts-heads-to-afm-sales-1237170580/",
-        "title": "Gossip Goblin's AI Sci-Fi Film 'Gods Don't Give Gifts' Heads To AFM Market For Sales With AGC",
-        "band": "likely-repeat"
+        "score": 0.192,
+        "date": "2026-11-20",
+        "url": "https://www.kentertechhub.com/icnx-westworld-ai-vfx-en/",
+        "title": "Westworld rebuilds the TV-drama creature pipeline with AI sources and VFX compositing",
+        "band": "related"
       }
+    },
+    {
+      "title": "Ahmad Alameldeen Talks 'Safe Zone,' AI, and Starving Victims of War",
+      "url": "https://www.awn.com/animationworld/ahmad-alameldeen-talks-safe-zone-ai-and-starving-victims-war",
+      "source": "Animation World Network",
+      "published_iso": "2026-11-24T09:49:00-08:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081906-1-1280.jpg?itok=FniXCVAW",
+      "excerpt": "The Oscar-qualified animated short 'Safe Zone' pairs hand-drawn graphite and Procreate frames with motion generated in Kling. The director says AI tools struggled most with human emotion, especially a child in distress.",
+      "keyword": "AI animation film",
+      "note": "AWN needs --http1.1 + browser headers",
+      "category": "movies"
+    },
+    {
+      "title": "Maxon Plus Brings Opt-In AI to Cinema 4D and ZBrush",
+      "url": "https://www.awn.com/news/maxon-plus-brings-opt-ai-cinema-4d-and-zbrush",
+      "source": "Animation World Network",
+      "published_iso": "2026-11-23T14:40:31-08:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081896-maxonplus-1-1280.jpg?itok=Sh7fs-q_",
+      "excerpt": "Maxon Plus, sold separately from Maxon One, generates base models, textures and sculpting meshes and adds browser-based 3D review. CEO David McGavran explains why generative AI stays out of the main subscriptions.",
+      "keyword": "AI VFX",
+      "note": "Same story on postPerspective: https://postperspective.com/maxon-plus-intros-new-ai-assisted-tools-and-3d-review-services/",
+      "category": "movies"
+    },
+    {
+      "title": "Screenweaver adds AI-powered production platform to script editor",
+      "url": "https://www.broadcastnow.co.uk/tech-innovation/screenweaver-adds-ai-powered-production-platform-to-script-editor/5222724.article",
+      "source": "Broadcast",
+      "published_iso": "2026-11-24T09:55:00Z",
+      "og_image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/9/2/9/1492929_screenweaverai1_265623.jpg",
+      "excerpt": "Screenweaver's beta production platform turns an ingested script into an editable storyboard (frame, angle, movement, duration), generates AI scenes from it using Seedance, and exports to DaVinci Resolve or Premiere Pro. It plans AI audio and human-vs-AI provenance tracking.",
+      "keyword": "AI storyboard previs",
+      "category": "movies"
+    },
+    {
+      "title": "Doc filmmakers talk using AI as European plans for creating 'transparent' AI tools revealed",
+      "url": "https://www.screendaily.com/features/doc-filmmakers-talk-using-ai-as-european-plans-for-creating-transparent-ai-tools-revealed/5222628.article",
+      "source": "Screen Daily",
+      "published_iso": "2026-11-24T10:40:00Z",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/3/0/1492730_therecce_287543.jpeg",
+      "excerpt": "At IDFA, the first edition to require AI-use disclosure in applications, Brazilian documentary makers describe using AI to 'fabulate' their film's revolutionary climax from archive photos without an on-screen disclaimer. European plans for transparent AI tools were also presented.",
+      "keyword": "AI filmmaking",
+      "note": "IDFA disclosure rule itself covered 11-19; new angle is filmmaker practice + EU transparent-tools plan",
+      "category": "movies"
     },
     {
       "title": "AI Films From Kerala to the Andaman Islands Set for WIF India x Google Flow Filmathon, Screen at IFFI Goa",
       "url": "https://variety.com/2026/film/festivals/ai-films-kerala-andaman-islands-google-flow-filmathon-iffi-1236955693/",
       "source": "Variety",
-      "published_iso": "2026-11-23T08:14:12+00:00",
-      "excerpt": "Five films made with Google Flow were selected for WIF India's first AI Filmathon from 850-plus registrations and will screen at IFFI Goa.",
+      "published_iso": "2026-11-23T08:14:12Z",
       "og_image": "https://variety.com/wp-content/uploads/2026/11/Google-AI.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Five films made with Google Flow were picked from 850+ registrations for WIF India's first AI Filmathon and screen at IFFI Goa.",
+      "keyword": "text-to-video film",
+      "note": "festival AI winners angle (results, not a call)",
       "category": "movies"
     },
     {
-      "title": "Rian Johnson, a Vocal AI Critic, Warns Against Totally 'Demonizing' AI",
-      "url": "https://variety.com/2026/film/news/rian-johnson-demonizing-ai-peter-dinklage-poker-face-dead-1236955765/",
-      "source": "Variety",
-      "published_iso": "2026-11-23T14:00:31+00:00",
-      "excerpt": "Rian Johnson discusses where he draws the line on AI in filmmaking, his Warner Bros. deal and new sci-fi thriller, and confirms the 'Poker Face' revival is dead.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2306414526_703a9f.jpg?w=1000&h=563&crop=1",
-      "category": "movies"
-    },
-    {
-      "title": "AI filmmaking: how director Perry Bhandal works solo using gen AI tools",
-      "url": "https://www.broadcastnow.co.uk/industry-opinions/ai-filmmaking-how-director-perry-bhandal-works-solo-using-gen-ai-tools/5222709.article",
-      "source": "Broadcast",
-      "published_iso": "2026-11-23T15:41:00+00:00",
-      "excerpt": "Indie filmmaker Perry Bhandal, who released the AI-generated feature 'Okay, It's Time To Go', gives a detailed first-hand account of what solo gen-AI feature production actually involves versus his 18-day conventional shoots.",
-      "og_image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/8/9/9/1492899_lethe_450017.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Maxon Plus Intros New AI-Assisted Tools and 3D Review Services",
-      "url": "https://postperspective.com/maxon-plus-intros-new-ai-assisted-tools-and-3d-review-services/",
-      "source": "postPerspective",
-      "published_iso": "2026-11-23T19:08:30+00:00",
-      "excerpt": "Maxon launched Maxon Plus, a suite of connected services including a Model Generator that turns text or a reference image into a 3D base model and a Texture Generator, integrated with Cinema 4D and ZBrush, plus browser-based 3D review.",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/11/Model_generator-copy.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Boris FX releases Silhouette 2027",
-      "url": "https://www.cgchannel.com/2026/11/boris-fx-releases-silhouette-2027/",
-      "source": "CG Channel",
-      "published_iso": "2026-11-22T04:00:36+00:00",
-      "excerpt": "The VFX rotoscoping and paint tool adds new machine-learning nodes such as Body ML that generate editable roto shapes, and a Video Inpaint ML node to speed up object removal.",
-      "og_image": null,
-      "category": "movies"
-    },
-    {
-      "title": "How We Built CorridorKey 2.0 | Live Demo & Q&A",
-      "url": "https://www.youtube.com/watch?v=GOX594srvU4",
-      "source": "Corridor Crew",
-      "published_iso": "2026-11-19T13:46:43-08:00",
-      "excerpt": "Niko and developer Zach Harris break down how Corridor built CorridorKey 2.0, the AI keying tool running on a custom-trained model, with a live demo.",
-      "og_image": "https://i.ytimg.com/vi/GOX594srvU4/maxresdefault.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "We Found a Wild AI Video Conspiracy...",
-      "url": "https://www.youtube.com/watch?v=V0iq6EPfHmw",
-      "source": "Curious Refuge",
-      "published_iso": "2026-11-19T14:43:49-08:00",
-      "excerpt": "Curious Refuge tests Topview's T1 video model against ByteDance Seedance 2.5 and finds matching voices, music, lookalike characters and export metadata suggesting T1 may be a Seedance reskin.",
-      "og_image": "https://i.ytimg.com/vi/V0iq6EPfHmw/maxresdefault.jpg",
-      "category": "movies",
-      "history_match": {
-        "score": 0.267,
-        "date": "2026-11-16",
-        "url": "https://www.youtube.com/watch?v=sh4bkvZQ1WE",
-        "title": "We Tested Kling 4.0 Against Seedance 2.5, and It’s Not Close",
-        "band": "related"
-      }
-    },
-    {
-      "title": "'I've lost her forever': Why German voice actors are refusing to sign Netflix's AI contract",
-      "url": "https://www.dw.com/en/ive-lost-her-forever-why-german-voice-actors-are-refusing-to-sign-netflixs-ai-contract/a-80004381",
-      "source": "DW",
-      "published_iso": "2026-11-23T10:58:22.052Z",
-      "excerpt": "An AI clause in Netflix's German dubbing contracts, which comes with a pay rise, is splitting the dubbing industry over whether it protects performers or allows their voices to be used for AI training.",
-      "og_image": "https://static.dw.com/image/80004535_6.jpg",
-      "category": "movies",
-      "history_match": {
-        "score": 0.289,
-        "date": "2026-11-06",
-        "url": "https://www.voiceoverherald.com/matti-klemm-netflix-lawsuit-ai-training-voice-data/",
-        "title": "Matti Klemm sues Netflix over AI training on his voice",
-        "band": "related"
-      }
-    },
-    {
-      "title": "심형래 감독, AI 기술로 깨운 '디 워: NEW HOPE' 2027년 재개봉 예고",
-      "url": "https://www.cineplay.co.kr/ko-kr/articles/30918",
-      "source": "씨네플레이",
-      "published_iso": "2026-11-23T16:54:00+09:00",
-      "excerpt": "심형래 감독이 힉스필드AI와 협력해 AI 영상 기술로 30분 분량의 미공개 액션 장면을 추가한 '디 워: NEW HOPE'를 2027년 국내외 재개봉한다고 밝히고 예고편을 공개했다.",
-      "og_image": "https://img.youtube.com/vi/V0qbfbg8EdE/maxresdefault.jpg",
+      "title": "생성형 AI로 구현한 2050년 디스토피아…영화 '라파엘' 개봉",
+      "url": "https://www.yna.co.kr/view/AKR20261124107300005",
+      "source": "연합뉴스",
+      "published_iso": "2026-11-24T13:44:25+09:00",
+      "og_image": "https://img2.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124107300005_01_i_P4.jpg",
+      "excerpt": "Mateo AI Studio and MBC C&I's all-generative-AI feature 'Raphael' opens Nov. 25. The crew spent 1 year 2 months using AI and image-editing tools to keep imagery consistent, and the film was shown at Kling AI's Cannes market conference.",
+      "keyword": "AI 영화",
+      "note": "Opening-day notice; no pre-sales/screen-count numbers in body. Reviews are saturated",
       "category": "movies"
     },
     {
@@ -119,52 +91,112 @@
       "url": "https://news.mtn.co.kr/article/2026112008381922080",
       "source": "MTN 머니투데이방송",
       "published_iso": "2026-11-23T08:00:30+09:00",
-      "excerpt": "25일 개봉하는 AI 장편 '라파엘'의 제작사 마테오AI스튜디오는 수백 명이 필요했을 촬영을 10명 안팎으로 제작해 인력 규모를 10분의 1로 줄였다고 밝혔다. AI가 바꾸는 영화 제작비·인력 구조를 짚는다.",
       "og_image": "https://files.mtn.co.kr/article-asset/2026/11/20/2687fc48-4888-4285-9e06-8763e9873af8.jpg",
+      "excerpt": "Raphael's director-producer says the AI feature was made with about 10 people versus the hundreds of crew live-action would need, roughly a tenth of the workforce. The piece looks at how AI changes film production economics.",
+      "keyword": "AI filmmaking",
+      "note": "OFF-LIST (mtn.co.kr): AI production crew/budget data with numbers; no on-list outlet carried it",
       "category": "movies"
     },
     {
-      "title": "이제이비전, AI 인터랙티브 숏드라마 '아쿠아리움 관리자를 위한 지침서' 공개",
-      "url": "https://www.hankyung.com/article/202611234792O",
-      "source": "한국경제",
-      "published_iso": "2026-11-23T16:56:55+09:00",
-      "excerpt": "이제이비전이 시청자 선택에 따라 전개가 갈리는 생성형 AI 인터랙티브 숏드라마 '아쿠아리움 관리자를 위한 지침서'를 공개했다.",
-      "og_image": "https://img.hankyung.com/photo/202611/0D.46518951.1.jpg",
+      "title": "The Chroma Awards Are Back as ElevenLabs' Flagship Competition for AI Creators is Live",
+      "url": "https://nofilmschool.com/chroma-awards-season-2",
+      "source": "No Film School",
+      "published_iso": "2026-11-24T19:30:02Z",
+      "og_image": "https://nofilmschool.com/media-library/image.png?id=68759724&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+      "excerpt": "ElevenLabs' Chroma Awards season 2 is open for AI-made film, music video, ad, game and BTS work, with $450K+ in prizes; entries close Jan. 7, 2027.",
+      "keyword": "AI short film",
+      "note": "SATURATED angle (AI competition calls) - low priority",
       "category": "movies"
+    },
+    {
+      "title": "Rian Johnson, a Vocal AI Critic, Warns Against Totally 'Demonizing' AI and Says His 'Poker Face' Revival With Peter Dinklage Is Dead",
+      "url": "https://variety.com/2026/film/news/rian-johnson-demonizing-ai-peter-dinklage-poker-face-dead-1236955765/",
+      "source": "Variety",
+      "published_iso": "2026-11-23T14:00:31Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2306414526_703a9f.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Rian Johnson, a vocal critic of AI, warns against demonizing it outright. He also discusses his Warner Bros. deal and new sci-fi thriller.",
+      "keyword": "Hollywood AI",
+      "note": "SATURATED angle (director AI opinions) - low priority",
+      "category": "movies"
+    },
+    {
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "source": "The Verge",
+      "published_iso": "2026-11-24T18:15:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&strip=all&crop=20.043648851915%2C0%2C79.914576075467%2C100&w=1200",
+      "excerpt": "After critics' screenings, viewers accused 'The Further Mis-Adventures of Cliff Booth' of 'blatant' gen-AI shots, though some think it is just bad CGI. Netflix has neither confirmed nor denied AI use.",
+      "keyword": "Hollywood AI",
+      "note": "Cliff Booth angle: NO new studio/vendor statement - only take if curator lacks picks (Fincher defense carded 11-22)",
+      "category": "movies",
+      "history_match": {
+        "score": 0.378,
+        "date": "2026-11-22",
+        "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/",
+        "title": "David Fincher Defends Use Of AI Amid 'Cliff Booth' Criticism: \"Well, It Exists. Should We Not Use It?\"",
+        "band": "related"
+      }
+    },
+    {
+      "title": "ByteDance opens Seedance 2.5's 4K video generation API to developers",
+      "url": "https://technode.com/2026/11/17/bytedance-opens-seedance-2-5s-4k-video-generation-api-to-developers/",
+      "source": "TechNode",
+      "published_iso": "2026-11-17T06:28:41Z",
+      "og_image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+      "excerpt": "Volcano Engine, ByteDance's cloud unit, opened API access to the 4K version of its Seedance 2.5 video generation model, widening a release that had been limited.",
+      "keyword": "text-to-video film",
+      "note": "Seedance 2.5 Flash carded earlier; 4K API is a distinct release. Oldest item (7.6 days)",
+      "category": "movies",
+      "history_match": {
+        "score": 0.422,
+        "date": "2026-11-14",
+        "url": "https://pandaily.com/bytedance-seedance-2-5-flash-faster-lower-cost-video-model-volcano-ark-api",
+        "title": "ByteDance Releases Seedance 2.5 Flash, a Faster Video Model Priced About 34% Below Seedance 2.5",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "100% AI 아이돌 '서리아' 공개…지로, AI 콘텐츠 IP 사업 본격화",
+      "url": "https://www.etnews.com/20261124000391",
+      "source": "전자신문",
+      "published_iso": "2026-11-24T14:51:34+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.5f68c247d28d421f9377ad792962aae7_P1.jpg",
+      "excerpt": "Jiro, maker of the Dropshot AI video platform, unveiled the 100% AI-made idol 'Seria' as an original IP to expand into music, film and a feature-length animation, using its own generative tools.",
+      "keyword": "AI animation film",
+      "note": "OFF-LIST (etnews.com): may belong to music section - check cross-section dup",
+      "category": "movies"
+    },
+    {
+      "title": "Netflix AI clause divides Germany's dubbing industry over voice training rights",
+      "url": "https://www.dw.com/en/ive-lost-her-forever-why-german-voice-actors-are-refusing-to-sign-netflixs-ai-contract/a-80004381",
+      "source": "DW",
+      "published_iso": "2026-11-23T10:58:22.052Z",
+      "og_image": "https://static.dw.com/image/80004535_6.jpg",
+      "excerpt": "An AI-training clause in Netflix's German dubbing contracts has split the industry: some voice actors refuse to sign, so familiar star voices are being replaced. Slator reports Netflix has raised dubbing pay while the AI dispute remains.",
+      "keyword": "AI dubbing lip sync",
+      "note": "OFF-LIST (dw.com): on-list Slator story 'Netflix Ups Pay for German Dubbing Actors, AI Dispute Remains' (11-23) URL not resolvable; dubbing deprioritized",
+      "category": "movies",
+      "history_match": {
+        "score": 0.284,
+        "date": "2026-11-06",
+        "url": "https://www.voiceoverherald.com/matti-klemm-netflix-lawsuit-ai-training-voice-data/",
+        "title": "Matti Klemm sues Netflix over AI training on his voice",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 12,
+    "dropped": 1,
+    "kept": 14,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 3,
+    "review": 4,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-25",
-      "title": "Lorem Ipsum Rap | F&C ai Lab",
-      "url": "https://motionographer.com/quickie/lorem-ipsum-rap-fc-ai-lab/"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "Peter Chan Rules Out AI-Generated Content, Says Feature Films Will Survive the Rise of Vertical Dramas",
-      "url": "https://variety.com/2026/film/global/peter-chan-rules-out-ai-generated-content-feature-films-survival-1236922012/"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "IATSE Appoints First Labor & Technology Intelligence Officer",
-      "url": "https://www.animationmagazine.net/2026/10/iatse-appoints-first-labor-technology-intelligence-officer/"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "The Concept Art Awards: Blind Judging by Peers and No AI Allowed",
-      "url": "https://www.awn.com/animationworld/concept-art-awards-blind-judging-peers-and-no-ai-allowed"
-    },
     {
       "date": "2026-10-26",
       "title": "Gossip Goblin's AI Sci-Fi Film 'Gods Don't Give Gifts' Heads To AFM Market For Sales With AGC",
@@ -829,6 +861,31 @@
       "date": "2026-11-23",
       "title": "Can Dubai’s $1 Million AI Film Award Help AI Cinema Be Taken Seriously?",
       "url": "https://www.wired.me/story/can-dubais-dollar1-million-ai-film-award-help-ai-cinema-be-taken-seriously"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "AI filmmaking: how director Perry Bhandal works solo using gen AI tools",
+      "url": "https://www.broadcastnow.co.uk/industry-opinions/ai-filmmaking-how-director-perry-bhandal-works-solo-using-gen-ai-tools/5222709.article"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Boris FX releases Silhouette 2027",
+      "url": "https://www.cgchannel.com/2026/11/boris-fx-releases-silhouette-2027/"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "심형래 감독, AI 기술로 깨운 '디 워: NEW HOPE' 2027년 재개봉 예고",
+      "url": "https://www.cineplay.co.kr/ko-kr/articles/30918"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "AI Film 'Gods Don't Give Gifts' Deemed Ineligible by Academy for Best Animated Feature Oscar",
+      "url": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "How We Built CorridorKey 2.0 | Live Demo & Q&A",
+      "url": "https://www.youtube.com/watch?v=GOX594srvU4"
     }
   ]
 }

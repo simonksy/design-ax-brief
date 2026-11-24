@@ -1,169 +1,196 @@
 {
   "section": "design",
-  "now_iso": "2026-11-23T22:00:42Z",
+  "now_iso": "2026-11-24T22:00:37Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "Every 3D artist should have an AI assistant, Maxon says as it launches new tools and agentic licences",
-      "url": "https://www.creativebloq.com/news/every-3d-artist-should-have-an-ai-assistant-maxon-says-as-it-launches-new-tools-and-agentic-licences",
-      "source": "Creative Bloq",
-      "category": "render",
-      "published_iso": "2026-11-23T16:19:34Z",
-      "excerpt": "Maxon Plus brings AI 3D model generation into Cinema 4D and ZBrush, browser-based 3D review, and new 'agentic licences' for Cinema 4D and Autograph, with an off switch for artists who don't want generation.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/SZhxTWsvwYEKwrFyDuR9dX-2560-80.png"
-    },
-    {
-      "title": "Boris FX releases Silhouette 2027",
-      "url": "https://www.cgchannel.com/2026/11/boris-fx-releases-silhouette-2027/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-11-22T04:00:00Z",
-      "excerpt": "Silhouette 2027 adds ML nodes that bridge AI mattes and manual roto: Body ML generates editable roto shapes for body parts and tracks them, Roto ML fits shapes to AI mattes, plus a Video Inpaint ML node for object removal.",
-      "og_image": null
-    },
-    {
-      "title": "Higgsfield launches playable game ads built with AI",
-      "url": "https://gamesbeat.com/higgsfield-launches-playable-game-ads-built-with-ai/",
-      "source": "GamesBeat",
-      "category": "render",
-      "published_iso": "2026-11-23T15:30:00+00:00",
-      "excerpt": "Higgsfield's enterprise 'playable ads' workflow generates interactive ads from a described mechanic, genre and up to 100 uploaded sprites/textures/sounds; playable games can also be generated via Claude through Higgsfield MCP. (Off-list; overlap risk with games/marketing.)",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/Made-with-Playable-Ads.jpg"
-    },
-    {
-      "title": "Relight and Generative Restyle in Photoshop: hands-on",
-      "url": "https://fstoppers.com/photoshop/understanding-generative-restyle-and-relight-photoshop-905549",
-      "source": "Fstoppers",
-      "category": "render",
-      "published_iso": "2026-11-23T12:03:01-05:00",
-      "excerpt": "Hands-on tests of Photoshop's new Relight (up to three movable AI lights) and Generative Restyle (shifts a scene's mood) on real photos. (Off-list.)",
-      "og_image": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/11/gordonnay201501_jr0068-edit-relight.jpg.webp?itok=3UK3CIcC"
-    },
-    {
-      "title": "See what 6 builders are making with Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/",
-      "source": "Google Blog",
-      "category": "render",
-      "published_iso": "2026-11-23T18:00:00+00:00",
-      "excerpt": "Six creative-coding projects built with Gemini 4 Hydrogen, from rainy sci-fi skies and pixelated koi ponds to an interactive moth. (Gemini is saturated; low priority.)",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/6_Builders_Hydrogen_herosocial_1.width-1300.png"
-    },
-    {
-      "title": "This AI can rebuild the Colosseum in 3D from a single photo",
-      "url": "https://www.zmescience.com/future/this-ai-can-rebuild-the-colosseum-in-3d-from-a-single-photo-and-it-doesnt-stop-there/",
-      "source": "ZME Science",
-      "category": "vr",
-      "published_iso": "2026-11-23T12:07:38+00:00",
-      "excerpt": "'Building Rome from a Single Image' (Applied Intuition + three US universities) turns one photo into an explorable 3D mesh scene, generating even structures hidden behind walls and trees. (Off-list; vr/world-model bucket had no fresh on-list item.)",
-      "og_image": "https://cdn.zmescience.com/wp-content/uploads/2026/11/29cb0a67-20fe-4abf-a5f8-a1db4e91bb5a.jpg"
-    },
-    {
-      "title": "Tripo at Formnext previews detail-focused AI agent aimed at 3D printed part accuracy",
-      "url": "https://all3dp.com/4/tripo-at-formnext-previews-detail-focused-ai-agent-aimed-at-3d-printed-part-accuracy/",
-      "source": "All3DP",
-      "category": "cad",
-      "published_iso": "2026-11-23T13:18:28+00:00",
-      "excerpt": "Tripo's upcoming H3.5 model promises print-ready 3D assets needing little editing, and a new agent, Polipop, aims to automate the path from idea to a fabricated part. Preview, not GA.",
-      "og_image": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=630,gravity=0.5x0.5,format=jpeg/wp-content/uploads/2026/11/23135910/Tripo-at-Formnext-Hero.jpg"
-    },
-    {
-      "title": "Buro Happold and Motif bridge the BIM collaboration divide",
-      "url": "https://aecmag.com/bim/buro-happold-and-motif-bridge-the-bim-collaboration-divide/",
-      "source": "AEC Magazine",
-      "category": "cad",
-      "published_iso": "2026-11-23T12:59:15+00:00",
-      "excerpt": "Buro Happold's open-source BHoM engineering framework is being integrated into Motif's BIM 2.0 platform so Motif's agents, which turn sketches and prompts into geometry, can call deterministic engineering methods for sizing and calcs. Early demo.",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/Motif.jpg"
-    },
-    {
-      "title": "Octave advances AI workflows with engineering partners",
-      "url": "https://www.engineering.com/octave-advances-ai-workflows-with-engineering-partners/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-11-23T11:00:09+00:00",
-      "excerpt": "Octave CoLabs: MAIRE and Fluor are building agentic workflows on their own data to automate planning, P&ID compliance checks and 3D model design reviews. (Plant engineering; weak design hook.)",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/Octave_logo-1.jpg"
-    },
-    {
-      "title": "SK에코플랜트, 설계에도 AI 적용…도면 검토·장비 배치 업무 줄인다 (AXen)",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732724",
-      "source": "EBN",
-      "category": "cad",
-      "published_iso": "2026-11-23T18:46:02+09:00",
-      "excerpt": "SK Ecoplant put its design-specialised AI platform AXen into operation: it proposes space/equipment layouts from accumulated design data, compares alternatives, detects clashes and suggests fixes, and searches codes and standards; designer-approved results feed back into the model. Part of a '1 person 1 agent' push. (Off-list Korean design-AX case.)",
-      "og_image": "https://cdn.ebn.co.kr/news/thumbnail/202611/1732724_769078_4446_v150.jpg"
-    },
-    {
-      "title": "Pin agent spacing to the existing spacing scale — no magic margin or padding values",
-      "url": "https://dev.to/sherotree/pin-agent-spacing-to-the-existing-spacing-scale-no-magic-margin-or-padding-values-2je7",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-11-22T14:30:07Z",
-      "excerpt": "Coding agents sprinkle one-off values like mt-[13px] into layouts; the fix is to hand them the design system's spacing scale and reject off-scale values. (Practitioner post, part of a series.)",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjwnsrx4jyxclqw2b1cvt.png"
-    },
-    {
-      "title": "Give the agent the existing icon component set, not a new icon pack or inline SVG dump",
-      "url": "https://dev.to/sherotree/give-the-agent-the-existing-icon-component-set-not-a-new-icon-pack-or-inline-svg-dump-1fjo",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-11-23T14:32:09Z",
-      "excerpt": "Agents paste 40-line inline SVGs or add a second icon library; point them at the design system's existing Icon components first. (Same series as the spacing post.)",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvv6188e8k0ypqdbakigz.png"
-    },
-    {
-      "title": "Prototypes have always been the most effective specification — especially with AI",
-      "url": "https://uxdesign.cc/prototypes-have-always-been-the-most-effective-specification-10162107b2ee",
-      "source": "UX Collective",
+      "title": "The Figma agent is now available in FigJam and Slides",
+      "url": "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/",
+      "source": "Figma Blog",
       "category": "figma",
-      "published_iso": "2026-11-22T11:36:31Z",
-      "excerpt": "When an AI-built working version costs an afternoon, the prototype replaces the requirements doc as the spec; open questions answer themselves once the team can click the thing. (Essay; date from outlet RSS since article is Cloudflare-gated.)",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*0-aD1rfjLM1wz_vxAi4mcg.png"
+      "published_iso": "2026-11-23T20:54:00Z",
+      "excerpt": "Figma extends its AI agent beyond Figma Design into FigJam and Slides, so it can help explore ideas on the whiteboard, prepare meetings and build presentations from design work.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
     },
     {
-      "title": "Design for the Verify: 5 UX patterns for trustworthy AI",
-      "url": "https://medium.com/lexisnexis-design/design-for-the-verify-5-ux-patterns-for-trustworthy-ai-a81e530e36e7",
-      "source": "LexisNexis Design (Medium)",
+      "title": "Framer adds Automations, Connectors and a Slack Agent to its design agent",
+      "url": "https://www.framer.com/updates/automations-connectors-slack",
+      "source": "Framer",
+      "category": "figma",
+      "published_iso": "2026-11-24T00:00:00Z",
+      "excerpt": "Framer's new Automations are agent workflows that run on a schedule or on project events like publishing or form submissions; Connectors let the Framer agent read and act in Slack, Notion and Ahrefs, and a Slack Agent can query the site, check analytics or make quick edits from Slack.",
+      "og_image": "https://framerusercontent.com/images/sdwZJoA5efRozZNcYG5rHIr2Rk.png?width=1280&height=720"
+    },
+    {
+      "title": "5 Best Claude Skills for Designers in 2026",
+      "url": "https://www.builder.io/blog/claude-skills-for-designers",
+      "source": "Builder.io",
+      "category": "figma",
+      "published_iso": "2026-11-24T16:07:44Z",
+      "excerpt": "Builder.io lists five Claude skills it uses for design work with exact commands: Impeccable for UI polish, /remix for inspiration and Emil Kowalski's skill for motion.",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7db544210c1444d296dc1444620d45d4"
+    },
+    {
+      "title": "How to reverse engineer a website with AI",
+      "url": "https://www.builder.io/blog/reverse-engineer-website",
+      "source": "Builder.io",
+      "category": "figma",
+      "published_iso": "2026-11-24T16:07:44Z",
+      "excerpt": "A walkthrough of finding the element that draws a site's UI, taking it apart in Builder's Agent-Native Design and rebuilding it in your own brand with an AI agent.",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F9e44c4242c9245fa92cfe15700e7842e"
+    },
+    {
+      "title": "30% more code, zero more finished work. Design is next",
+      "url": "https://dev.to/artemkireev/30-more-code-zero-more-finished-work-design-is-next-19g8",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-11-24T16:16:41Z",
+      "excerpt": "Citing a Harvard finding that AI coding agents added 30% more code but no more finished work, the author argues design review is the next bottleneck and how teams should prepare.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1623148709695-eccf61fdd220%3Fixid%3DM3wxMTA5NTI5fDB8MXxzZWFyY2h8MXx8ZnVubmVsfGVufDF8MHx8fDE3OTU1MzY4NTZ8MA%26ixlib%3Drb-4.1.0%26w%3D1600%26fm%3Dwebp%26q%3D78%26fit%3Dmax"
+    },
+    {
+      "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
+      "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+      "source": "The Decoder",
       "category": "workflow",
-      "published_iso": "2026-11-23T20:15:48Z",
-      "excerpt": "LexisNexis's design team lays out five UX patterns that let users verify AI output in a professional legal-research product. (Off-list.)",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*3LU5T1BniaPrIQMhMQm0fw.png"
+      "published_iso": "2026-11-24T20:42:29Z",
+      "excerpt": "Claude Artifacts can now be installed as beta desktop apps on Mac and Windows, even with a free account; built in chat without code, they can use OS APIs and connectors to add menu bar items, notifications and transparent windows.",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+    },
+    {
+      "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+      "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+      "source": "The Decoder",
+      "category": "workflow",
+      "published_iso": "2026-11-24T19:23:41Z",
+      "excerpt": "Two years after launch, MCP passes 700 million monthly SDK downloads; new protocol features such as background tasks, follow-up questions to users and file uploads let agents work more independently across tools.",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png"
     },
     {
       "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
       "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
       "source": "The Decoder",
       "category": "workflow",
-      "published_iso": "2026-11-23T20:39:18+00:00",
-      "excerpt": "GPT-6.2 Sol becomes ChatGPT's default chat model worldwide; OpenAI says image understanding jumped from 47.4 to 71.7 percent in internal tests and difficult-instruction handling reached 78.1 percent.",
+      "published_iso": "2026-11-23T20:39:18Z",
+      "excerpt": "GPT-6.2 Sol becomes ChatGPT's default chat model worldwide; OpenAI says internal image-understanding scores jumped from 47.4 to 71.7 percent and difficult instructions are handled correctly 78.1 percent of the time.",
       "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_chatgpt_pattern-1200x675.png"
     },
     {
-      "title": "Adobe doesn't want to force AI down your throat",
-      "url": "https://www.creativebloq.com/features/its-not-meant-to-replace-your-creativity-adobes-ai-pitch-hasnt-changed-in-two-years-but-the-tools-have",
-      "source": "Creative Bloq",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "source": "The Verge",
       "category": "workflow",
-      "published_iso": "2026-11-22T12:00:00Z",
-      "excerpt": "Adobe VP Deepa Subramaniam on how Adobe's AI tools have changed while its 'creative choice' pitch hasn't, and how it lets creatives opt in or out of generation. (Interview feature.)",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/uuAGGWst5eFVLY3Lmk8zKT-1920-80.jpg"
+      "published_iso": "2026-11-24T16:09:23Z",
+      "excerpt": "The NYT told its photographers to hold off on a Photoshop update because it does not want AI metadata inadvertently attached to its news photos.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200"
     },
     {
-      "title": "Adobe and Microsoft bring AI editing and Express templates to Windows Photos",
-      "url": "https://www.socialsamosa.com/news-2/adobe-and-microsoft-bring-ai-editing-and-express-templates-to-windows-photos-12834689",
-      "source": "Social Samosa",
+      "title": "Ally Financial reinvents customer personas with agentic AI",
+      "url": "https://www.cio.com/article/4249853/ally-financial-reinvents-customer-personas-with-agentic-ai.html",
+      "source": "CIO",
       "category": "workflow",
-      "published_iso": "2026-11-23T18:21:44+05:30",
-      "excerpt": "Adobe AI editing and Adobe Express templates arrive inside Windows Photos, and Photoshop, Premiere, After Effects and Substance 3D Painter (beta) are optimised for Arm Windows PCs including the Surface Laptop Ultra. (Off-list; gadgets overlap risk.)",
-      "og_image": "https://img-cdn.publive.online/fit-in/1200x675/socialsamosa/media/media_files/2026/11/23/48-16-2026-11-23-18-21-38.jpg"
+      "published_iso": "2026-11-24T10:01:00Z",
+      "excerpt": "Ally's designers pick from six agentic AI personas built from profiles of its 11 million-plus customers, add modifiers, and get real-time feedback on digital products before human testing.",
+      "og_image": "https://www.cio.com/wp-content/uploads/2026/11/4249853-0-26167800-1795514704-AllyCharlotteCenter.jpg?quality=50&strip=all&w=1024"
     },
     {
-      "title": "Fotello AI is taking over real estate photo editing",
-      "url": "https://fstoppers.com/artificial-intelligence/ai-now-sends-its-list-human-photo-editors-905615",
-      "source": "Fstoppers",
+      "title": "Figma-first vs Code-first Product Design: When to Use Each",
+      "url": "https://www.eleken.co/blog-posts/figma-first-vs-code-first-product-design",
+      "source": "Eleken",
       "category": "workflow",
-      "published_iso": "2026-11-21T11:03:01-05:00",
-      "excerpt": "Hands-on with Fotello's AI wall-colour fixes, custom sky uploads and AI edit requests, and what the tool means for working real-estate photographers and editors. (Off-list.)",
-      "og_image": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/11/fotello-i-hate-it-but-i-need-it-thumbnail.jpg.webp?itok=Tvg79zsz"
+      "published_iso": "2026-11-24T11:16:58Z",
+      "excerpt": "Because AI coding tools like Claude Code make exploring interfaces in code cheap, Eleken argues designers should test directions in code and refine in Figma, switching as the problem changes.",
+      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6b056c1b8ee334c2d57c726c_cover.webp"
+    },
+    {
+      "title": "Prototypes have always been the most effective specification - especially with AI",
+      "url": "https://uxdesign.cc/prototypes-have-always-been-the-most-effective-specification-10162107b2ee",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-11-22T11:36:31Z",
+      "excerpt": "When building a working version costs an afternoon with AI, the prototype replaces the requirements document as the spec teams review.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*0-aD1rfjLM1wz_vxAi4mcg.png"
+    },
+    {
+      "title": "The attack of the giant AI design slop monster: a survivor's guide",
+      "url": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-11-22T11:36:59Z",
+      "excerpt": "Expanded from a talk at City St George's HCI Design conference, a guide to how AI has reshaped UX design in 2026 and how designers can push back against generic AI-generated output.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*_Ld5gyhF2uDoH6QRw7--CQ.png"
+    },
+    {
+      "title": "Discover BOT VFX's hybrid AI VFX pipeline for Young Washington",
+      "url": "https://www.cgchannel.com/2026/11/discover-bot-vfxs-hybrid-ai-vfx-pipeline-for-young-washington/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-11-24T15:45:42Z",
+      "excerpt": "BOT VFX explains how it blended AI models such as FLUX.2 Klein and Wan, including FLUX-based inpainting, with a traditional Maya-Nuke pipeline for the historical drama Young Washington.",
+      "og_image": null
+    },
+    {
+      "title": "See what 5 builders are making with Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
+      "source": "Google Blog",
+      "category": "render",
+      "published_iso": "2026-11-24T16:00:00Z",
+      "excerpt": "Builders used Gemini 4 Neon, mostly in Google Antigravity, to make a glowing 3D Earth, Three.js butterflies, a hexagon flame shader, an interactive 3D black hole and a pendulum wave simulation.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5_Builders_Neon_herosocial.width-1300.png"
+    },
+    {
+      "title": "Independent filmmakers in India bring big-screen stories to life with Google Flow",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/",
+      "source": "Google Blog",
+      "category": "render",
+      "published_iso": "2026-11-24T14:00:00Z",
+      "excerpt": "Five winning short films from the Women in Film India Filmathon were made with Google Flow, Google's AI filmmaking tool.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_WIF_x_Google_Flow.max-1440x810.png"
+    },
+    {
+      "title": "Cognitive Design 2.3 marks CDS newest release",
+      "url": "https://develop3d.com/ai/cognitive-design-2-3-marks-cds-newest-release/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-11-24T11:12:38Z",
+      "excerpt": "Cognitive Design Systems' AI engineering software adds automated Design of Experiments and a Design Explorer: it sweeps parameter ranges, generates each variant and scores it on structural, manufacturing, cost and CO2 criteria.",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+    },
+    {
+      "title": "Tripo at Formnext Previews Detail-Focused AI Agent Aimed at 3D Printed Part Accuracy",
+      "url": "https://all3dp.com/4/tripo-at-formnext-previews-detail-focused-ai-agent-aimed-at-3d-printed-part-accuracy/",
+      "source": "All3DP",
+      "category": "cad",
+      "published_iso": "2026-11-23T13:18:28Z",
+      "excerpt": "Tripo previewed Polipop, a beta AI agent that builds printable parts from real-world dimensions and checks sliced G-code for overhang and stability issues, alongside its upcoming H3.5 3D generation model.",
+      "og_image": "https://i.all3dp.com/workers/images/fit=scale-down,w=1200,h=675,quality=79,gravity=0.5x0.5,format=auto/wp-content/uploads/2026/11/23135910/Tripo-at-Formnext-Hero.jpg"
+    },
+    {
+      "title": "GPT-4o vs Claude 3.5 vs Sonnet 4 vs LLaVA 7B: 480 Color Tests Reveal AI Blue",
+      "url": "https://dev.to/kenimo49/gpt-4o-vs-claude-35-vs-sonnet-4-vs-llava-7b-480-color-tests-reveal-ai-blue-2f7p",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-11-24T13:00:00Z",
+      "excerpt": "Four vision LLMs rated 40 named colors across 480 observations; pastels and mid-tones broke everywhere, which the author links to why AI-generated UIs drift blue. Dataset is on Zenodo.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fdzwithwd8%2Fimage%2Fupload%2Fv1795400803%2Fdevto-images%2Fai-blue-cover.png"
+    },
+    {
+      "title": "A palette is not a design: our AI Extension Builder now reads what our designers wrote",
+      "url": "https://dev.to/goodbarber/a-palette-is-not-a-design-our-ai-extension-builder-now-reads-what-our-designers-wrote-ni1",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-11-24T14:20:57Z",
+      "excerpt": "GoodBarber's AI Extension Builder now reads designers' written design intent, not just an app's color palette, when generating extensions that match an app's design.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjsjtqb9dkoucgyqcsct2.png"
+    },
+    {
+      "title": "Google's Project Genie Turns Text Into Worlds",
+      "url": "https://www.youtube.com/shorts/-1KPQDIh1Ew",
+      "source": "The AI Advantage",
+      "category": "social",
+      "published_iso": "2026-11-23T18:09:49Z",
+      "excerpt": "The AI Advantage short demos Google DeepMind's Project Genie world model generating explorable worlds from text prompts.",
+      "og_image": "https://i.ytimg.com/vi/-1KPQDIh1Ew/maxresdefault.jpg"
     }
   ]
 }

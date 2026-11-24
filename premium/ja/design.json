@@ -13543,6 +13543,146 @@
           "x": "Computer Useは本日、米国（US）で英語版の提供が始まり、Gemini Macアプリはダウンロード可能だ。OpenAIも最近Computer Useに力を入れており、Astraモデルで大きく先行している。"
         }
       ]
+    },
+    "design/framer-automations-connectors": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "05Os8Cqr7Ic"
+        },
+        {
+          "t": "p",
+          "x": "Automations、Connectors、そしてSlack Agentを発表する。Automationsは自律的に動くエージェントのワークフローだ。スケジュールに沿って、あるいは公開やフォーム送信といったプロジェクトのイベントをきっかけに起動できる。たとえば公開のたびにSEO監査を実行して結果をSlackに投稿したり、毎日の分析レポートを送ったり、フォームから得たリードの情報を補強して適切な宛先に振り分けたりできる。Agentが使えるツールはユーザーが管理でき、過去の実行履歴も確認できる。"
+        },
+        {
+          "t": "p",
+          "x": "Connectorsにより、AgentはSlack、Notion、Ahrefsなどチームが既に使っているツールに接続し、チャット内やAutomationsの中でそれらを読み取るだけでなく、操作することもできる。"
+        },
+        {
+          "t": "p",
+          "x": "公式のFramer Slackアプリを使えば、チャンネルで@FramerをメンションするかDMを送るだけで、Framerを開かずにサイトについて質問したり、分析データを取得したり、簡単な編集をしたりできる。"
+        },
+        {
+          "t": "p",
+          "x": "始めるには、Site Settingsを開き、AutomationsまたはConnectorsタブに移動する。"
+        }
+      ]
+    },
+    "design/nyt-photoshop-ai-metadata": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+          "cap": "写真：Marcin Golba / NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The New York Timesは、フリーランスの写真家にAdobe Photoshopの最新版を使わないよう求めている。2027アップデートの機能が「ユーザーにはわかりにくい形で」AIを使っているためだ。写真部門を率いるMeaghan LooramとJosh Hanerはメールで、これらの機能が「写真をAI-generated（AI生成）と識別するメタデータが付く結果になりうる」と書いている。"
+        },
+        {
+          "t": "p",
+          "x": "11月のアップデートでは、PhotoshopのすべてのAI機能を一つのツールバーにまとめた「AI Assisted Editor」ビュー、段階的な編集を手伝うAIアシスタント、プロンプトによる画像編集、新しいAIアップスケーリングのオプション、さまざまなキャンバスサイズに合わせて画像を再構成するAIツールが加わった。どのツールがAI-powered（AI搭載）なのかは常に明確とは限らず、写真の加工を最小限にとどめる報道の現場にとって、AIメタデータは読者の信頼を失うリスクになる。"
+        },
+        {
+          "t": "p",
+          "x": "Adobeは8月、AIで生成・編集された画像を示すC2PAメタデータへの対応を順次開始した。メールには「現時点で、The Timesの依頼で仕事をする際には、すべての寄稿写真家にAdobe Photoshop 2027（リリース28.0.0およびそれ以降のアップデート）の使用を避けるよう求めている」とある。NYTの広報担当Graham Jamesはこの要請を認めた。AdobeはThe Vergeの問い合わせにすぐには応じなかった。"
+        }
+      ]
+    },
+    "design/cognitive-design-cds-2-3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cognitive Design Systems（CDS）は、AI-powered（AI搭載）エンジニアリングプラットフォームの最新版Cognitive Design 2.3をリリースした。目玉機能は自動化されたDesign of Experiments（DoE）で、エンジニアリングチームはコンセプト段階からPreliminary Design Review（PDR）まで、設計の代替案を体系的に検討できる。"
+        },
+        {
+          "t": "p",
+          "x": "CEOのRhushik Matrojaは「数十年にわたり、DoEは主要な設計上の選択がすでに済み、あらゆる変更が高くつくようになった、エンジニアリングワークフローの終盤で使われてきた」と述べ、「CDSは、部品に関する決定的な選択がまだ開かれているコンセプト段階でこそ、DoEが最大の価値を発揮すると確信している」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "エンジニアが設計パラメータとその範囲を定義すると、ソフトウェアがその範囲内でパラメトリックスイープを自動で実行し、各設計バリアントを生成して、構造、製造、コスト、CO2の基準で評価する。すべてのバリアントはDesign Explorerに集約され、設計者はトレードオフを比較し、要件に照らして候補を絞り込み、完全なトレーサビリティをもって選んだコンセプトの妥当性を示せる。"
+        },
+        {
+          "t": "p",
+          "x": "CDSはまた、追跡可能なコンセプト選定に至る七つのステップの手法をまとめたホワイトペーパー「Design of Experiments at the Concept Stage」も公開した。"
+        }
+      ]
+    },
+    "design/claude-artifacts-desktop-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+        },
+        {
+          "t": "p",
+          "x": "Anthropicは、Claude ArtifactsをMacまたはWindowsのアプリとしてインストールできるようにした。この機能は本日からベータ版として提供され、macOSまたはWindows向けClaudeの最新版が必要だ。チャットでArtifactを作り、コードを一切書かずにDockに置いておける。"
+        },
+        {
+          "t": "p",
+          "x": "インストールしたアプリは、OS APIs、コネクタ、そしてClaude自体を利用できる。これにより、メニューバー項目の追加、透明なウィンドウの作成、通知の送信などが可能になる。例としては、カスタムターミナル、ファイルマネージャー、動画エディタなどがある。試せるデモもいくつか用意されている。"
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+        },
+        {
+          "t": "p",
+          "x": "AnthropicのFelix RiesebergはXで、現時点ではClaudeアカウントとClaudeアプリが必要だが、無料アカウントで十分だと書いた。Apple Developerアカウントを持っていれば、Claudeにスタンドアロンアプリを作らせることもできる。"
+        }
+      ]
+    },
+    "design/maxon-plus-agentic-licence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Maxonは3D制作向けの生成ツール群を、別料金の任意サブスクリプション「Maxon Plus」として投入する。あわせてCinema 4DとAutograph向けのAgentic Licencesも用意し、アーティストが創作に専念する間、AIアシスタントが面倒な制作作業を担えるようにする。"
+        },
+        {
+          "t": "p",
+          "x": "9月30日に公開したMCPワークフローは「Cinema 4Dの歴史上、最も短期間で最も広く使われた機能」になったと、最高製品責任者のSteve Fordeは語る。ただし、その間アーティストのセッションは占有されてしまう。Agentic Licenceは代わりにRedshift付きの独立したヘッドレス版を提供し、AIのタスクを別のマシン上で「バックオフィスで」実行させる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZMDLuxCYPMXkguKDKXSX3W.png",
+          "cap": "(画像提供：Maxon)"
+        },
+        {
+          "t": "p",
+          "x": "Maxon Plusは月額$10/€10からだ。Model Generatorはテキストプロンプトや参照画像から編集可能な3Dベースモデルを生成し、当初はRodinを基盤とする。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dbvk4hAtQ2M5LGxooiEZkV.png",
+          "cap": "(画像提供：Maxon)"
+        },
+        {
+          "t": "p",
+          "x": "ZBrush向けのClay Builderはシンプルなローポリゴンのベースメッシュを作り、Texture Generatorはプロンプトや画像からマテリアルとテクスチャを適用する。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tfkfsHj46imokJUEZ3ab4W.png",
+          "cap": "(画像提供：Maxon)"
+        },
+        {
+          "t": "p",
+          "x": "Maxon Reviewを使えば、チームやクライアントがブラウザ上でインタラクティブな3D作品をレビューし、モデルの特定部分にコメントを残せる。"
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.mos.cms.futurecdn.net/QkwazWxHRqBMaK8PnDkBxA/CatSpeeder_ReviewTool_Comment.mp4"
+        },
+        {
+          "t": "p",
+          "x": "「当社の製品には『AIをすべてオフにする』機能が完全に備わっている」とFordeは言う。「それは意図的に設けたボタンだ」"
+        }
+      ]
     }
   }
 }

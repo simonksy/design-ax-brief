@@ -18853,6 +18853,134 @@
           "x": "더 안전한 길도 있다. M5Stack PaperMono 같은 기기에 들어가는 값싸고 해커 친화적인 보드 ESP32 모듈, 그리고 Meta의 Muse Charm과 Muse Gadgets 프로그램이다. Gathin은 잃으면 안 되는 것에는 봇이 절대 손대지 못하게 하고 백업을 넉넉히 해 두라고 조언한다."
         }
       ]
+    },
+    "gadgets/honor-magic9-promax-global": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
+        },
+        {
+          "t": "p",
+          "x": "HONOR가 Magic 9 Pro Max를 말레이시아에 출시했다. 중국 밖 출시는 이번이 처음이다. 권장 가격은 5,999 말레이시아 링깃(~$1,457)이고 12GB/512GB 한 가지 구성뿐이다. 11월 24일부터 12월 3일까지 사전 주문하면 Google AI Pro 석 달 무료 이용권이 담긴 사은품 패키지를 준다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "카메라는 시네마 카메라 제조사 ARRI와 함께 만들었다. 200MP 1/1.28인치 메인 카메라에 200MP 85mm 망원, 50MP 초광각, 정사각형 55MP 셀피 카메라를 더한 구성이다. 가장 큰 강점은 영상이다. 4K/120fps, ARRI Cinema Mode와 ARRI Looks, LUT와 LogC3 지원, APV 코덱을 갖췄다. 참조 클립의 색을 분석해 새 영상에 같은 룩을 입히는 Magic Color for Video 기능도 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Snapdragon 8 Elite Extreme Gen 6 칩셋에 최대 10,000니트 피크 밝기를 내는 6.8인치 LTPO OLED 패널을 얹었다. MagicOS 11에는 알림 요약과 Payment Trust Space 기능이 더해졌고 전용 카메라 키와 “상황 인식(context-aware)” 지원용 AI 버튼도 달렸다. 이 버튼을 두 번 누르면 Highlight Clip Capture가 실행돼 영상 일부를 잘라 자막을 만든다. 다만 Netflix 스트림처럼 DRM 보호(DRM-protected)가 걸린 영상에서는 작동하지 않는다."
+        }
+      ]
+    },
+    "gadgets/foundation-phantom-mkii": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
+          "cap": "출처=Foundation Robotics"
+        },
+        {
+          "t": "video",
+          "yt": "la43cmm6YMQ"
+        },
+        {
+          "t": "p",
+          "x": "자기 몸무게만큼 무거운 짐을 운반할 수 있다는 휴머노이드 로봇이 공개됐습니다."
+        },
+        {
+          "t": "p",
+          "x": "미국 로봇기업 파운데이션 퓨처 인더스트리스는 지난 18일(현지시간) 2세대 휴머노이드 로봇 '팬텀 MKII'를 공개했습니다. 이 로봇은 키 약 183cm, 무게 약 88kg으로 최대 90kg의 짐을 운반할 수 있습니다. 한 번 충전하면 4~6시간 작동하도록 설계됐습니다."
+        },
+        {
+          "t": "p",
+          "x": "방진·방수 등급 IP67을 갖춰 비와 먼지가 많은 환경에서도 작업할 수 있고, 고장 난 관절을 교체할 수 있는 구조로 제작됐습니다. AI를 활용해 사람의 작업 시연을 학습할 수 있으며, 공장과 건설 현장, 광산 등에서 무거운 물건을 운반하거나 위험한 작업을 대신하는 것을 목표로 하고 있습니다. 회사는 2027년 초 생산을 시작할 계획입니다."
+        }
+      ]
+    },
+    "gadgets/gadgets-ax-appliance-center": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
+          "cap": "이민우 산업통상부 산업성장실장이 24일 서울 용산구 전자제조지원센터에서 열린 '가전 AX 제품화지원센터 개소식'에 참석했다. 산업부 제공"
+        },
+        {
+          "t": "p",
+          "x": "산업통상부는 24일 서울 용산구 전자제조지원센터에서 '가전 AX제품화지원센터' 개소식을 열고 'AI가전 학습데이터 구축 로드맵'을 발표했다. AX 가전 개발부터 상용제품 출시까지 전 주기를 지원하는 시설로, 중소·중견 가전 기업의 AX 개발 설비 및 데이터 부족 어려움을 해소해 줄 전망이다."
+        },
+        {
+          "t": "p",
+          "x": "센터는 KEA가 2021년부터 운영해 온 전자제조지원센터를 가전제품 AX 개발 거점으로 고도화한 곳이다. 2026~2030년 총 170억원(국비 100억원)을 투입해 AI 보드 제조 설비와 성능 시험장비 등 13종을 구축·개방하고, 전담 엔지니어가 설계·시제품 제작·실증·초도양산 전 과정을 밀착 지원한다. 기존 제품 설계 변경을 최소화하면서 AI 기능을 더하도록 돕고, 국산 AI 반도체 활용을 연계한다."
+        },
+        {
+          "t": "p",
+          "x": "학습데이터 로드맵은 2027~2031년 매년 3종씩 총 15종의 공통 핵심 데이터를 구축한다. 기업 수요조사와 심층 인터뷰로 핵심 데이터 15개를 도출했으며, 2028년부터 전용 플랫폼으로 공유할 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "현장에선 △비욘드허니컴(AI 자동 조리 로봇) △엠마헬스케어(비접촉 생체신호 측정 AI 아기침대) △긱스로프트(AI 헤드폰) △오티톤메디컬(스마트 귀 체온계·진단 플랫폼) △모빌린트(국산 온디바이스 AI 반도체·엣지 솔루션) 등 5개 성과기업 제품 전시도 열렸다. 이민우 실장은 “가전산업의 경쟁력을 이어가려면 제조공정의 AX와 제품의 혁신이 함께 이뤄져야 한다”고 말했다."
+        }
+      ]
+    },
+    "gadgets/galaxy-s27u-laser-af-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
+          "cap": "Samsung Galaxy S27 Ultra는 Galaxy S26 Ultra와 디자인이 크게 다를 것으로 알려졌다."
+        },
+        {
+          "t": "p",
+          "x": "Samsung이 Galaxy S27 Ultra에서 3x 광학 줌 카메라를 없앤다는 앞선 보도에 이어 유출자 Ice Universe는 Samsung이 후면 카메라에서 레이저 자동초점 모듈도 뺀다고 주장했다. 이미 확정된 내용이라 최근 디자인 렌더링에도 모듈이 보이지 않는다는 설명이다. 사실이라면 Galaxy S21 Ultra 이후 처음으로 레이저 자동초점이 빠진 Galaxy Ultra 폰이 된다. 더 작은 Galaxy S27 Pro에도 이 모듈은 없다."
+        },
+        {
+          "t": "p",
+          "x": "Ice Universe에 따르면 Galaxy S27 Ultra는 대신 AI 초점 기술에 기댄다. 유출된 후면 구성은 OIS를 갖춘 200 MP 1/1.3\" 메인 카메라, 50 MP 1/2.55\" 5x 잠망경 광학 줌, 50 MP 1/2.5\" 120˚ 초광각이다."
+        },
+        {
+          "t": "p",
+          "x": "Samsung은 지난 5년 동안 Galaxy Ultra 폰에 레이저 자동초점을 넣어 왔다. PDAF에만 의존한 Galaxy S20 Ultra가 출시 초기에 초점 헌팅 문제로 애를 먹자 Samsung은 이를 줄이려고 Galaxy S21 Ultra에 레이저 모듈을 더했다."
+        }
+      ]
+    },
+    "gadgets/dutch-ap-camera-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?w=1024",
+          "cap": "이미지 출처: David Paul Morris/Bloomberg / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "네덜란드 데이터보호청이 소비자에게 AI 카메라 안경(AI-enabled)을 사지 말라고 당부했다. 주변 사람의 사생활을 침해하고 착용자 안전까지 위협한다는 이유다."
+        },
+        {
+          "t": "p",
+          "x": "데이터보호청은 최근 성명에서 전면 금지 일보 직전까지 갔다. 늘 켜진 채 인터넷에 연결되는 이 안경으로 공공장소에서 사람을 찍는 일은 “거의 언제나 금지된다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "비판론자들은 이 스마트 웨어러블을 “변태 안경”이라 부른다. 동의 없이 사람을 찍는 데, 특히 여성을 괴롭히는 데 쓰이기 쉬워서다. 녹화 중 경고등이 켜지는 안경도 있지만 개인정보 보호 활동가들은 이 신호가 충분히 눈에 띄지 않는다고 지적해 왔다. 근처의 스마트 안경 착용자를 감지하는 휴대폰 앱을 만든 이들까지 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "데이터보호청은 이 안경이 틀리거나 위험한 답을 내놓기도 한다고 경고했다. 당국 테스트에서 이름을 밝히지 않은 한 안경은 “미성년자에게 관심이 있다고 밝힌 성인에게 연애 조언을 했다.” 약 라벨을 잘못 읽었고, 구급차를 부르지 않고도 불렀다고 답했다."
+        },
+        {
+          "t": "p",
+          "x": "네덜란드 정부의 이번 권고는 노르웨이 정부의 비슷한 행보를 뒤따랐다. 노르웨이 정부는 9월 카메라 탑재 기기 금지를 검토 중이라고 밝혔다."
+        }
+      ]
     }
   }
 }

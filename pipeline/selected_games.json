@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "section": "games",
   "items": [
     {
-      "title": "Sony patents AI that plays your game while you eat dinner",
-      "url": "https://gamesbeat.com/sony-patents-ai-that-plays-your-game-while-you-eat-dinner/",
-      "source": "GamesBeat",
-      "published_iso": "2026-11-23T13:30:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg",
-      "excerpt": "A newly publicized Sony patent splits a game into play units (quests, missions, scenes) and trains a separate AI helper per unit from real players' runs; the console shows which parts the AI can take over and the player can grab the controller back anytime. Distinct from Sony's earlier 'ghost player' filing.",
+      "title": "What's New for Game Developers: AI Animation and RTX Tools",
+      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/",
+      "source": "NVIDIA Technical Blog",
+      "published_iso": "2026-11-24T17:00:00+00:00",
+      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Featured-War-Thunder-DLSS-5-on.webp",
+      "excerpt": "NVIDIA's Kimodo becomes the first AI motion-generation model integrated into Unreal Engine 5.9 Preview's guided animation framework, letting animators generate character motion in Sequencer from text prompts, spline paths and target poses; the In-Game Inferencing SDK 1.8 adds RTX Spark support, updated llama.cpp/whisper.cpp backends and Parakeet speech recognition.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "A platform holder's patent for per-segment AI stand-in play changes how designers may need to structure content (play units the AI can take over). It is a different company and mechanism from the 11-23 Activision NPC patent."
+      "rationale": "The most actionable item in the pool. Animators can now generate motion in Sequencer from text, splines and poses, and the In-Game Inferencing SDK 1.8 is a new SDK release. Both are new releases, not a recap of the 11-11 UE 5.9 Preview card."
     },
     {
-      "title": "Slotbound: a 200,000-copy Steam hit built with AI coding tools by a near-zero-experience solo developer",
-      "url": "http://www.gamespark.jp/article/2026/11/23/175187.html",
-      "source": "Game*Spark",
-      "published_iso": "2026-11-23T12:00:03+09:00",
-      "og_image": "https://www.gamespark.jp/imgs/ogp_f/1222328.png",
-      "excerpt": "Solo developer Optima Arch, with almost no prior programming or game-dev experience, built the slot-roguelike Slotbound over about eight months using AI coding tools, then hand-tuned systems, balance and UI. It sold 100,000 copies in three days and passed 200,000 in six days on Steam.",
+      "title": "Atari Homebrew Awards canceled over torrent of AI games: 'I saw no path forward'",
+      "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096",
+      "source": "Kotaku",
+      "published_iso": "2026-11-24T21:00:14+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
+      "excerpt": "Organizer ZeroPage Homebrew suspended the ninth Atari Homebrew Awards after a flood of AI-assisted submissions - some developers releasing multiple games a week - made it impossible to set or verify a cutoff for AI use in music, art or code without witch hunts or false positives.",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "A concrete commercial counterexample to the 11-18 'solo AI game-makers aren't making money' piece: AI for code, with balance and UI tuned by hand, sold 200k in six days."
+      "rationale": "A fresh community event that shows the practical problem of verifying AI use in competitions and juried showcases. It is a different organizer and event from the 11-11 educational-program cancellation."
     },
     {
-      "title": "One way to stave off AI clones? Minimise the gap between announcement and launch",
-      "url": "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-11-23T15:07:00+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Tinybuild's Alex Nichiporchik explains how a three-month reveal-to-release window for Probably Stolen was a defence against generative-AI copycats that reverse-engineer demos, as studios rethink the 'announce early, build wishlists' playbook.",
+      "title": "GTA 6 recomp leaders bail out as Take-Two cracks down on illicit efforts to get the game running on PC",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
+      "source": "PC Gamer",
+      "published_iso": "2026-11-24T17:42:34+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg",
+      "excerpt": "After Take-Two's takedowns, the leads of Project Leonida - the best-known effort to use AI to quickly recompile the leaked Xbox build of GTA 6 for PC - quit, though others continue; PC Gamer notes AI makes such ports far faster and tougher for publishers to stop.",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Directly actionable launch tactic: a publisher's real three-month reveal-to-release window used as a defence against AI clones. This is a new case, separate from the 11-14 general IP-protection guide."
+      "rationale": "A concrete event: a publisher takedown against AI-accelerated recompilation of the biggest release of the year. It is a new event in the AI-recomp theme (11-05 Mario Odyssey port, 11-02 Anthropic restriction), not a repeat."
     },
     {
-      "title": "Steam games that disclose AI use tend to sell less - but is the disclosure really the cause?",
-      "url": "https://automaton-media.com/articles/newsjp/20261120-480176/",
+      "title": "Shogi AI has grown so strong that computer shogi tournaments see 80% first-move win rates even with handicaps",
+      "url": "https://automaton-media.com/articles/newsjp/20261123-480506/",
       "source": "AUTOMATON",
-      "published_iso": "2026-11-20T08:09:56+00:00",
-      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg",
-      "excerpt": "A statistical report estimating Steam sales from review counts found titles with AI-use disclosures sell less overall; AUTOMATON's read is that many disclosed titles were set up to lose from the start rather than being hurt by the label itself.",
+      "published_iso": "2026-11-23T08:21:03+00:00",
+      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg",
+      "excerpt": "After the 7th World Shogi AI Denryu-sen finals, YaneuraOu developer Yaneurao warned that shogi AIs are now so strong the first player wins about 80% of games even with a time handicap, making 'first-move-wins' a near certainty and tournaments increasingly hard to run.",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "New sales data on the Steam AI-disclosure label, a decision every studio using AI faces. Earlier cards covered how many games disclose; this one covers what disclosure does to sales."
+      "rationale": "New tournament results showing game-playing AI pushing a classic game toward being solved, with direct consequences for how AI competitions and game balance are designed. Nothing like it has run in the last 30 days."
     },
     {
-      "title": "Chess.com's next move is a new hub for classic games, from mahjong to sudoku",
-      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "source": "The Verge",
-      "published_iso": "2026-11-21T14:00:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200",
-      "excerpt": "Chess.com launched Classic, a hub of classic games from mahjong to sudoku, built by a very small team using AI mainly to speed up coding on top of its existing code base, design system and bot characters; the company says AI was not used for the games' art and design.",
+      "title": "AI Evaluates, Humans Decide: The Next Step in Game Rating Classification",
+      "url": "https://www.invenglobal.com/articles/28903",
+      "source": "Inven Global",
+      "published_iso": "2026-11-20T14:46:32+00:00",
+      "og_image": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
+      "excerpt": "A Nexon-led industry-academic consortium presented first-year results and plans for AI-assisted game rating technology, in which AI pre-evaluates game content and human reviewers make the final classification decision.",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "A shipped product showing a clear split: AI for code on top of an existing design system, with no AI in art or design. It is a practical model for small teams."
+      "rationale": "A new first-year results release on AI pre-screening for age ratings, which affects how studios prepare content for classification. It was yesterday's runner-up and has not been published."
     }
   ],
   "dedup": {
     "checks": {
-      "https://gamesbeat.com/sony-patents-ai-that-plays-your-game-while-you-eat-dinner/": {
+      "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/": {
         "verdict": "new",
-        "nearest": "https://www.thegamer.com/activision-patent-ai-npcs-trained-on-call-of-duty-voice-chat/",
+        "nearest": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
         "new_action": ""
       },
-      "http://www.gamespark.jp/article/2026/11/23/175187.html": {
+      "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096": {
         "verdict": "new",
-        "nearest": "https://mobilegamer.biz/are-the-new-wave-of-solo-ai-game-makers-making-any-money-no-not-really/",
+        "nearest": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
         "new_action": ""
       },
-      "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch": {
+      "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/": {
         "verdict": "new",
-        "nearest": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
+        "nearest": "http://www.gamey.kr/news/articleView.html?idxno=3019481",
         "new_action": ""
       },
-      "https://automaton-media.com/articles/newsjp/20261120-480176/": {
-        "verdict": "new",
-        "nearest": "https://www.destructoid.com/nearly-50-percent-steam-oct-26-admit-ai-slop/",
-        "new_action": ""
-      },
-      "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai": {
+      "https://automaton-media.com/articles/newsjp/20261123-480506/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
+      },
+      "https://www.invenglobal.com/articles/28903": {
+        "verdict": "new",
+        "nearest": "https://www.invenglobal.com/articles/28324/nexon-wins-best-paper-award-at-ictai-2026",
+        "new_action": ""
       }
     },
-    "note": "Dropped: (1) GamesBeat 'Higgsfield playable game ads' is assigned to marketing only by the 11-24 curator brief. (2) Wccftech 'UE 5.9 Preview 2' is a running story: UE 5.9 Preview was published 11-11 (80.lv) and UE 5.9's AI tooling on 11-22 (unrealengine.com). Preview 2 is an incremental build, and it was already dropped on 11-23. (3) blog.google 'Genie 4 on the Gemini API' is a likely-repeat of the 11-20 DeepMind 'Genie 4 is now available' card: it is the same launch week of the same model, not a new version. (4) Inworld 'Voice Isolator' is a likely-repeat of the 11-19 'Introducing SAVA' card (same vendor, same launch week), and audio is incidental to games. (5) Inven Global 'Imitation disputes shift to AI cloning' is commentary on the AI-clone theme already carried 11-14, 11-17 and 11-07, and today's Tinybuild pick covers the theme with a concrete case. Within-pool cluster: inews24 '[AI & LAW] Wrtn Crack/GRAC', Inven Global 'boundaries of games around AI chat apps' and 4Gamer 'Wrtn at G-CON' are one G-STAR/Wrtn story, and none made the top 5. Not picked on score: Dexerto 'Clash Royale hires AI cheat creator' (anecdote in the 11-15 AI-cheat theme, off-whitelist), Inven Global 'AI game rating consortium' (runner-up), Unity 'what to vibe code' (evergreen guidance, no og_image). Cross-section: published_urls.json is too large to exact-grep with Read-only tools, so the orchestrator should grep 'sony-patents-ai-that-plays', '175187', 'stave-off-ai-clones', '20261120-480176' and 'chess-classic-games' across all sections before roll. Note that the theverge.com Chess.com item could also surface in the design/workflow pool. Diversity: 5 distinct outlets (gamesbeat.com, gamespark.jp, gamesindustry.biz, automaton-media.com, theverge.com), 1 each."
+    "note": "Dropped as duplicates: (1) Wccftech 'UE 5.9 Preview 2' is the running UE 5.9 story (11-11 80.lv, 11-22 unrealengine.com). It is an incremental build and was already dropped on 11-23 and 11-24. (2) Inworld 'Voice Isolator' is a likely-repeat of the 11-19 'Introducing SAVA' card (same vendor, same launch week), and audio is incidental to games. (3) Inven Global 'Imitation disputes shift to AI cloning' is commentary on the AI-clone theme already carried 11-14, 11-17 and 11-24. (4) PC Gamer 'The race to port GTA 6 to PC, explained' is the same GTA 6 recomp story as the picked Take-Two crackdown piece. I kept the one reporting the new event, which also holds PC Gamer to one card. (5) Unity 'Asset Store and CLI for AI agents' is a likely continuation of the 11-17 Unity CLI 1.0 card and the 11-22 Unite Tokyo recap ('AI Asset Library search'), and it has no og_image. Not picked on score: Dexerto 'Clash Royale hires AI cheat creator' (an anecdote in the 11-15 AI-cheat theme, off-whitelist), inews24 '[AI & LAW] Wrtn Crack/GRAC' (legal analysis, no new decision). Cross-section: published_urls.json is too large to exact-grep with Read-only tools, so the orchestrator should grep 'ai-animation-and-rtx-tools', 'Kimodo', 'atari-homebrew-awards', 'gta-6-recomp', '20261123-480506' and 'articles/28903' across all sections before roll. The NVIDIA Kimodo item could also surface in the design/movies pools. Diversity: 5 distinct outlets (developer.nvidia.com, kotaku.com, pcgamer.com, automaton-media.com, invenglobal.com), 1 each."
   }
 }

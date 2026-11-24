@@ -1,7 +1,11 @@
-{"date":"2026-11-24","section":"politics","media":[
-{"id":"bis-megaspeed-entitylist","type":"svg"},
-{"id":"grok-spacex-states-suit","type":"image","src":"pipeline/media/grok-spacex-states-suit.jpg"},
-{"id":"hochul-ai-warning-veto","type":"image","src":"pipeline/media/hochul-ai-warning-veto.jpg"},
-{"id":"ai-glasses-recording-bill","type":"image","src":"pipeline/media/ai-glasses-recording-bill.jpg"},
-{"id":"nais-science-ai-hub","type":"image","src":"pipeline/media/nais-science-ai-hub.jpg"}
-]}
+{
+  "date": "2026-11-25",
+  "section": "politics",
+  "media": [
+    {"id": "ny-ai-chatbot-toy-ban", "type": "video", "src": "pipeline/media/ny-ai-chatbot-toy-ban.mp4", "poster": "pipeline/media/ny-ai-chatbot-toy-ban.jpg"},
+    {"id": "characterai-chat-auction-ags", "type": "image", "src": "pipeline/media/characterai-chat-auction-ags.jpg"},
+    {"id": "ico-meta-muse-agent", "type": "svg"},
+    {"id": "pipc-ai-privacy-decree", "type": "svg"},
+    {"id": "mois-public-ai-uiux-guide", "type": "svg"}
+  ]
+}

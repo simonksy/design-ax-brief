@@ -7533,6 +7533,143 @@
           "x": "AIDC special zones will be designated by the Ministry of Science and ICT after a review within 90 days and deliberation and resolution by the AI Committee, and transportation, heat supply, energy storage, telecommunications and security facilities have been added to the supporting infrastructure. A public hearing will be held on the 9th of next month, and the subordinate regulations are set to take effect on March 10 next year, the date the law takes effect."
         }
       ]
+    },
+    "politics/characterai-chat-auction-ags": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ctnewsjunkie.com/wp-content/uploads/2025/03/pexels-photo-9783353-e1790274392871.jpeg",
+          "cap": "CT is challenging a Character.AI plan to auction user info. Credit: Ron Lach / Pexels.com"
+        },
+        {
+          "t": "p",
+          "x": "Attorney General William Tong is challenging Character.AI’s plan to auction off its platform and the private chat histories of more than 21 million U.S. accounts. More than 2.1 million of them are registered to minors."
+        },
+        {
+          "t": "p",
+          "x": "Character.AI plans to auction all chats, together with users’ personal data, including IP addresses and other metadata, on Dec. 1. Whoever buys them would not have to honor consumers’ requests to delete their data, Tong said."
+        },
+        {
+          "t": "p",
+          "x": "Tong said Connecticut, 41 other states, and the District of Columbia had objected to a separate license sale to Disney, and the group is now calling on the bankruptcy court to reject the sale. Character.AI’s press representative did not immediately return an email requesting comment."
+        },
+        {
+          "t": "p",
+          "x": "According to Tong, the records include chats in which users, including minors, shared intimate topics like self-harm, eating disorders or suicidal thoughts with chatbots posing as “therapist” or “physician.”"
+        },
+        {
+          "t": "p",
+          "x": "The states argue bankruptcy doesn’t free a company from privacy laws. They ask the court to deny the proposed auction terms, reject Smirks as the lead bidder and its proposed $350,000 “break-up fee.” At a minimum, any sale must leave out kids’ chats and other sensitive data."
+        }
+      ]
+    },
+    "politics/ico-meta-muse-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Paul Arnold, CEO: “We are aware that Meta has launched its Muse AI product in the UK."
+        },
+        {
+          "t": "p",
+          "x": "Agentic AI has significant potential to benefit people and businesses, from saving time on everyday tasks to driving innovation and growth across the economy. For people to benefit from these technologies with confidence, privacy must be built into consumer-facing agentic products from the outset."
+        },
+        {
+          "t": "p",
+          "x": "We have been clear with Meta about its responsibilities under data protection law prior to launch, particularly the requirement to ensure that users and the wider public can meaningfully understand and control how their personal data is used in the Muse product."
+        },
+        {
+          "t": "p",
+          "x": "Meta has committed to a voluntary monitoring and reporting scheme with the ICO to ensure we can scrutinise the technology, the user experience and feedback as it is developing."
+        },
+        {
+          "t": "p",
+          "x": "Like any organisation developing or deploying AI agents, Meta is responsible for ensuring that its products fully comply with UK data protection law."
+        },
+        {
+          "t": "p",
+          "x": "We have set out our initial expectations about consumer facing agentic AI products, as well as the work under way to understand and manage emerging risks from consumer-facing AI."
+        },
+        {
+          "t": "p",
+          "x": "We are monitoring the rollout of agentic AI products more broadly and continue to engage with major AI developers and deployers to support responsible innovation while ensuring people’s rights are protected.”"
+        }
+      ]
+    },
+    "politics/pipc-ai-privacy-decree": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Personal Information Protection Commission said it has prepared a partial amendment to the Enforcement Decree of the Personal Information Protection Act setting out detailed standards and procedures for a special rule on processing personal data to develop artificial intelligence (AI) technology, and will give advance legislative notice from Nov. 23, 2026 to Jan. 4, 2027."
+        },
+        {
+          "t": "p",
+          "x": "The amendment follows a revision of the Personal Information Protection Act (promulgated ‘26.9.8., effective ’27.3.9.) allowing lawfully collected personal data to be used for AI technology development under certain conditions, and was drafted to specify the safeguards and the review and resolution procedures needed to apply the special rule."
+        },
+        {
+          "t": "p",
+          "x": "First, it makes mandatory the designation of a person responsible for the personal data covered by the special rule, the establishment and implementation of an internal management plan, prevention of use beyond the scope of the review and resolution, restriction and control of access rights, and destruction once the data is no longer needed. The commission may impose additional safeguards proportionate to the level of risk as a condition."
+        },
+        {
+          "t": "p",
+          "x": "Second, a risk assessment must be conducted in advance for AI development involving the use of sensitive or unique identifying information, data subjects who need special protection such as children, or the continuous observation, tracking, evaluation or prediction of data subjects."
+        },
+        {
+          "t": "p",
+          "x": "Third, it sets standards and procedures for review and resolution and creates a separate expert committee to examine cases in advance. Fourth, it simplifies the review and resolution procedure for similar cases, except where new risks of infringement arise or existing risks increase significantly."
+        },
+        {
+          "t": "p",
+          "x": "The commission plans to gather opinions from various sectors and, after review by the Ministry of Government Legislation, complete the decree amendment in time for the law taking effect on March 9, 2027."
+        }
+      ]
+    },
+    "politics/mois-public-ai-uiux-guide": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Ministry of the Interior and Safety (Minister Yun Ho-jung) said it has prepared the “Public AI Service UI/UX Guidelines,” which set design standards for how citizens and public artificial intelligence (AI) communicate, and will distribute them to central government agencies, local governments and public institutions on Nov. 25. They will first apply to conversational services such as civil-petition guidance and consultation."
+        },
+        {
+          "t": "p",
+          "x": "Built on 10 practice principles under 4 core principles, the guidelines consist of 29 design standards in total, including 6 for a “public AI persona” and 23 for “UI/UX by stage of use.”"
+        },
+        {
+          "t": "p",
+          "x": "An AI must first disclose that it is an AI, as in “I am the civil-petition consultation AI of ○○ agency,” explain the scope of support it offers, and explain difficult administrative terms in plain language."
+        },
+        {
+          "t": "p",
+          "x": "The process of use is divided into 5 stages: entry and guidance, information input, AI processing, checking and understanding results, and correction and improvement. If an error occurs or users do not want to use AI, they can seek help through other means or from a counselor."
+        },
+        {
+          "t": "p",
+          "x": "The guidelines also provide 99 detailed requirements (80 mandatory, 19 recommended) covering all 29 design standards, 148 checklist items, and sample prompts and screen application examples."
+        },
+        {
+          "t": "p",
+          "x": "The ministry plans to add accessibility standards by February 2027 and later expand the scope to “agentic AI” and “generative UI.”"
+        }
+      ]
+    },
+    "politics/bis-megaspeed-entitylist": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In this rule, the Bureau of Industry and Security (BIS) amends the Export Administration Regulations (EAR) by adding 7 entities to the Entity List, under the destinations of Malaysia, Singapore, and Thailand. These entities have been determined by the U.S. Government to be acting contrary to the national security or foreign policy interests of the United States. The final rule is scheduled to be published in the Federal Register on November 25, 2026, and is effective on the date of public inspection."
+        },
+        {
+          "t": "p",
+          "x": "The End-User Review Committee (ERC) determined to add MSFusion Sdn. Bhd., PT Megaspeed International, and Speedmatrix Sdn Bhd (Malaysia); Apex Enterprise Solutions (Singapore) Private Limited, Megaspeed International Pte. Ltd, and Swiftdata Pte. Ltd. (Singapore); and Megaspeed (Thailand) Co., Ltd. (Thailand)."
+        },
+        {
+          "t": "p",
+          "x": "These additions are being made because of the significant risk of these entities being or becoming involved in the diversion of advanced computing commodities to unauthorized end uses or end users. These entities will be added with a license requirement for all items subject to the EAR and licenses will be reviewed under a presumption of denial."
+        },
+        {
+          "t": "p",
+          "x": "Megaspeed International Pte. Ltd. is listed with four aliases, including 7Road International. A savings clause lets shipments already en route proceed if completed within 30 days."
+        }
+      ]
     }
   }
 }

@@ -1,191 +1,275 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "section": "games",
   "cards": [
     {
-      "id": "sony-playunit-ai-patent",
+      "id": "nvidia-kimodo-ue59-motion",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sony, 게임 일부를\n대신 플레이할 AI 특허",
-      "body": "Sony 특허는 퀘스트·장면마다 AI를 따로 훈련하고 조작은 언제든 돌려받는다.",
-      "mini_headline": "Sony, 대리 플레이 AI 특허",
+      "headline": "NVIDIA Kimodo\nUE 5.9에 AI 모션",
+      "body": "애니메이터가 Sequencer 안에서 프롬프트·스플라인·포즈로 캐릭터 모션을 짠다.",
+      "mini_headline": "Kimodo AI 모션, UE 5.9 탑재",
       "tool": "Games",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/sony-patents-ai-that-plays-your-game-while-you-eat-dinner/",
+      "source": "NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "이번 달 NVIDIA 게임 개발 업데이트는 War Thunder의 DLSS 5부터 Unreal Engine 5.9 Preview의 Kimodo까지, 개발자가 새 그래픽·애니메이션·로컬 AI 기능을 엔진에 들이도록 돕는다."
+          },
+          {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
+            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
+            "cap": "NVIDIA Kimodo가 Unreal Engine 5.9 Preview의 Sequencer 안에서 캐릭터 모션을 만들어 낸다. 애니메이션 제공: Epic Games"
           },
           {
             "t": "p",
-            "x": "저녁을 먹는 등 다른 일을 하는 사이 AI가 게임을 대신 해 주는 기술로 Sony가 특허를 받았다. Patentlyze가 공개한 특허를 보면 콘솔이 게임에서 고른 구간만 AI에게 컨트롤러를 맡겼다가 플레이어가 돌아오면 다시 넘겨준다. 한 해 전 공개된 특허와는 결이 다르다. 그때는 AI \"고스트 플레이어\"가 옆에서 같이 뛰며 공략법을 보여 주는 방식이었다."
+            "x": "Unreal Engine 5.9 Preview에는 가이드형 애니메이션 프레임워크와 Sequencer 도구 모음이 새로 들어가, 애니메이터가 AI 모션 생성 모델을 직접 다룬다. 여기에 처음 통합된 모델이 Kimodo다. GPU 가속(GPU-accelerated) 모션 생성을 익숙한 타임라인 에디터 작업 방식과 묶었다."
           },
           {
             "t": "p",
-            "x": "게임은 퀘스트, 미션, 단일 장면 같은 플레이 단위로 나뉜다. 서버는 실제 플레이어의 컨트롤러 입력 기록과 각 과제의 시작·종료 시점을 표시한 이벤트 마커를 모은 뒤, 합성곱 신경망과 강화학습으로 단위마다 AI 도우미를 하나씩 훈련한다. 평균 플레이어 수준에 이른 도우미만 남기고 나머지는 버린다."
+            "x": "애니메이터는 텍스트 프롬프트로 동작을 설명하고 캐릭터가 따라갈 스플라인 경로를 그린 뒤, 특정 프레임에 목표 포즈를 지정한다. 모델이 이 제약에 맞춰 모션을 생성하니 캐릭터가 어디로 움직이고 핵심 순간에 어떤 포즈를 취할지는 팀이 정한다."
+          },
+          {
+            "t": "img",
+            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
+            "cap": "NvIGI SDK는 로컬 PC에서 NVIDIA ACE AI 모델을 실행한다"
           },
           {
             "t": "p",
-            "x": "화면의 패널은 각 활동이 AI 플레이를 완전히 지원하는지, 부분적으로 지원하는지, 전혀 지원하지 않는지 표시한다. 과제를 고르고 AI 플레이 버튼을 누르면 되고, 컨트롤러를 만지는 순간 조작은 플레이어에게 돌아온다. 과제에 실패하면 콘솔이 AI를 권하기도 하고, 컨트롤러를 한동안 안 만지면 AI에 조작을 넘기기도 한다."
+            "x": "In-Game Inferencing SDK 1.8은 개발자가 NVIDIA ACE를 온디바이스로 돌리게 해 주는 도구다. 이번 버전에는 RTX Spark 지원, 최신 llama.cpp·whisper.cpp 백엔드, Parakeet 음성 인식, Vulkan priority API가 추가됐다."
+          },
+          {
+            "t": "video",
+            "yt": "geAFyWn6Nio"
           },
           {
             "t": "p",
-            "x": "Patentlyze는 5월 이후 Sony 특허 출원 174건을 추적해 왔다."
+            "x": "Nsight Graphics 2026.4와 Nsight Systems 2026.6에는 DLSS Frame Generation 분석과 에이전트형 AI 도구가 더해졌다. 새 Nsight Graphics MCP 서버를 쓰면 호환 AI 에이전트가 애플리케이션을 캡처해 디버그하고 GPU 트레이스까지 분석한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Sony patents an AI that\ntakes over parts of your game",
-          "body": "Sony's patent trains a separate AI helper for each quest or scene, and players can take the controller back anytime.",
-          "mini_headline": "Sony patents AI stand-in play",
+          "headline": "NVIDIA Kimodo brings AI motion\nto Unreal Engine 5.9",
+          "body": "Animators can generate character motion in Sequencer from text prompts, spline paths and target poses.",
+          "mini_headline": "Kimodo AI motion lands in UE 5.9",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "This month’s NVIDIA game development updates help teams bring new graphics, animation, and local AI capabilities into their engines, from DLSS 5 in War Thunder to Kimodo in Unreal Engine 5.9 Preview."
+              },
+              {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
+                "cap": "NVIDIA Kimodo generates character motion inside Unreal Engine 5.9 Preview’s Sequencer. Animation courtesy of Epic Games"
               },
               {
                 "t": "p",
-                "x": "Sony has patented AI technology that allows AI to play a game for you while you are doing other things like eating your dinner. In the patent publicized by Patentlyze, a console feature lets an AI take the controller for chosen parts of a game, then hand it back when you return. This is different from a patent publicized a year ago, where an AI \"ghost player\" played alongside you to show you how to play."
+                "x": "Unreal Engine 5.9 Preview introduces a guided animation framework and a set of Sequencer tools that help animators work directly with AI motion-generation models. Kimodo is the first model integrated with it, pairing GPU-accelerated motion generation with the familiar timeline editor workflow."
               },
               {
                 "t": "p",
-                "x": "The game is divided into play units such as a quest, a mission or a single scene. A server collects recordings of real players' controller inputs plus event markers for when each task starts and ends, then trains one AI helper per chunk using a convolutional neural network and reinforcement learning. Helpers that reach roughly the skill of an average player are saved; the rest are dropped."
+                "x": "Animators can describe a motion with a text prompt, draw a spline path for the character to follow, and set target poses at specific frames. The model generates motion that follows these constraints, so teams decide where characters move and how they pose at key moments."
+              },
+              {
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
+                "cap": "The NvIGI SDK runs NVIDIA ACE AI models on a local PC"
               },
               {
                 "t": "p",
-                "x": "An on-screen panel labels each activity as fully, partly or not at all available for AI play. You select tasks and press an AI play button; touching the controller returns control to you. The console can also offer the AI after you fail a task, and may hand control to it when the controller is idle."
+                "x": "In-Game Inferencing SDK 1.8, which helps developers run NVIDIA ACE on-device, adds RTX Spark support, newer llama.cpp and whisper.cpp backends, Parakeet speech recognition and the Vulkan priority API."
+              },
+              {
+                "t": "video",
+                "yt": "geAFyWn6Nio"
               },
               {
                 "t": "p",
-                "x": "Patentlyze said it has tracked 174 patent filings from Sony since May."
+                "x": "Nsight Graphics 2026.4 and Nsight Systems 2026.6 add DLSS Frame Generation analysis and agentic AI tooling: a new Nsight Graphics MCP server lets compatible AI agents capture applications, debug captures and analyze GPU traces."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Sony, 게임 일부를\n대신 플레이할 AI 특허",
-          "body": "Sony 특허는 퀘스트·장면마다 AI를 따로 훈련하고 조작은 언제든 돌려받는다.",
-          "mini_headline": "Sony, 대리 플레이 AI 특허",
+          "headline": "NVIDIA Kimodo\nUE 5.9에 AI 모션",
+          "body": "애니메이터가 Sequencer 안에서 프롬프트·스플라인·포즈로 캐릭터 모션을 짠다.",
+          "mini_headline": "Kimodo AI 모션, UE 5.9 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "이번 달 NVIDIA 게임 개발 업데이트는 War Thunder의 DLSS 5부터 Unreal Engine 5.9 Preview의 Kimodo까지, 개발자가 새 그래픽·애니메이션·로컬 AI 기능을 엔진에 들이도록 돕는다."
+              },
+              {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
+                "cap": "NVIDIA Kimodo가 Unreal Engine 5.9 Preview의 Sequencer 안에서 캐릭터 모션을 만들어 낸다. 애니메이션 제공: Epic Games"
               },
               {
                 "t": "p",
-                "x": "저녁을 먹는 등 다른 일을 하는 사이 AI가 게임을 대신 해 주는 기술로 Sony가 특허를 받았다. Patentlyze가 공개한 특허를 보면 콘솔이 게임에서 고른 구간만 AI에게 컨트롤러를 맡겼다가 플레이어가 돌아오면 다시 넘겨준다. 한 해 전 공개된 특허와는 결이 다르다. 그때는 AI \"고스트 플레이어\"가 옆에서 같이 뛰며 공략법을 보여 주는 방식이었다."
+                "x": "Unreal Engine 5.9 Preview에는 가이드형 애니메이션 프레임워크와 Sequencer 도구 모음이 새로 들어가, 애니메이터가 AI 모션 생성 모델을 직접 다룬다. 여기에 처음 통합된 모델이 Kimodo다. GPU 가속(GPU-accelerated) 모션 생성을 익숙한 타임라인 에디터 작업 방식과 묶었다."
               },
               {
                 "t": "p",
-                "x": "게임은 퀘스트, 미션, 단일 장면 같은 플레이 단위로 나뉜다. 서버는 실제 플레이어의 컨트롤러 입력 기록과 각 과제의 시작·종료 시점을 표시한 이벤트 마커를 모은 뒤, 합성곱 신경망과 강화학습으로 단위마다 AI 도우미를 하나씩 훈련한다. 평균 플레이어 수준에 이른 도우미만 남기고 나머지는 버린다."
+                "x": "애니메이터는 텍스트 프롬프트로 동작을 설명하고 캐릭터가 따라갈 스플라인 경로를 그린 뒤, 특정 프레임에 목표 포즈를 지정한다. 모델이 이 제약에 맞춰 모션을 생성하니 캐릭터가 어디로 움직이고 핵심 순간에 어떤 포즈를 취할지는 팀이 정한다."
+              },
+              {
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
+                "cap": "NvIGI SDK는 로컬 PC에서 NVIDIA ACE AI 모델을 실행한다"
               },
               {
                 "t": "p",
-                "x": "화면의 패널은 각 활동이 AI 플레이를 완전히 지원하는지, 부분적으로 지원하는지, 전혀 지원하지 않는지 표시한다. 과제를 고르고 AI 플레이 버튼을 누르면 되고, 컨트롤러를 만지는 순간 조작은 플레이어에게 돌아온다. 과제에 실패하면 콘솔이 AI를 권하기도 하고, 컨트롤러를 한동안 안 만지면 AI에 조작을 넘기기도 한다."
+                "x": "In-Game Inferencing SDK 1.8은 개발자가 NVIDIA ACE를 온디바이스로 돌리게 해 주는 도구다. 이번 버전에는 RTX Spark 지원, 최신 llama.cpp·whisper.cpp 백엔드, Parakeet 음성 인식, Vulkan priority API가 추가됐다."
+              },
+              {
+                "t": "video",
+                "yt": "geAFyWn6Nio"
               },
               {
                 "t": "p",
-                "x": "Patentlyze는 5월 이후 Sony 특허 출원 174건을 추적해 왔다."
+                "x": "Nsight Graphics 2026.4와 Nsight Systems 2026.6에는 DLSS Frame Generation 분석과 에이전트형 AI 도구가 더해졌다. 새 Nsight Graphics MCP 서버를 쓰면 호환 AI 에이전트가 애플리케이션을 캡처해 디버그하고 GPU 트레이스까지 분석한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sony、ゲームの一部を\n代わりに遊ぶAI特許",
-          "body": "Sonyの特許はクエストや場面ごとにAIを個別に訓練し、操作はいつでも取り戻せる。",
-          "mini_headline": "Sony、代理プレイAIを特許化",
+          "headline": "NVIDIA Kimodo\nUE 5.9にAIモーション",
+          "body": "アニメーターはSequencerでプロンプト・スプライン・ポーズから動きを生成できる。",
+          "mini_headline": "Kimodo、UE 5.9にAIモーション",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "今月のNVIDIAゲーム開発アップデートは、War ThunderのDLSS 5からUnreal Engine 5.9 PreviewのKimodoまで、新たなグラフィックス、アニメーション、ローカルAIの機能をエンジンに取り込む助けとなる。"
+              },
+              {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
+                "cap": "NVIDIA KimodoはUnreal Engine 5.9 PreviewのSequencer内でキャラクターのモーションを生成する。アニメーション提供：Epic Games"
               },
               {
                 "t": "p",
-                "x": "Sonyは、夕食を食べるなど他のことをしている間にAIが代わりにゲームをプレイするAI技術の特許を取得した。Patentlyzeが公開したこの特許では、ゲームの選んだ部分でコンソールの機能がAIにコントローラーを任せ、プレイヤーが戻ると操作を返す。一年前に公開された特許とは異なる。そちらはAIの「ゴーストプレイヤー」が隣で一緒にプレイし、遊び方を示すものだった。"
+                "x": "Unreal Engine 5.9 Previewは、ガイド付きアニメーションフレームワークと、アニメーターがAIモーション生成モデルを直接扱えるSequencerツール群を導入した。Kimodoはこれに統合された最初のモデルで、GPUで高速化された（GPU-accelerated）モーション生成を、なじみのあるタイムラインエディターのワークフローと組み合わせる。"
               },
               {
                 "t": "p",
-                "x": "ゲームはクエストやミッション、単一のシーンといったプレイ単位に分けられる。サーバーは実際のプレイヤーによるコントローラー入力の記録と、各タスクの開始・終了を示すイベントマーカーを集め、畳み込みニューラルネットワークと強化学習を使って単位ごとにAIヘルパーを一つずつ訓練する。平均的なプレイヤー程度の腕前に達したヘルパーは保存され、それ以外は破棄される。"
+                "x": "アニメーターはテキストプロンプトで動きを記述し、キャラクターがたどるスプラインパスを描き、特定のフレームに目標ポーズを設定できる。モデルはこれらの制約に沿ったモーションを生成するため、キャラクターがどこへ動き、要所でどんなポーズをとるかはチームが決められる。"
+              },
+              {
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
+                "cap": "NvIGI SDKはNVIDIA ACEのAIモデルをローカルPCで実行する"
               },
               {
                 "t": "p",
-                "x": "画面上のパネルは、各アクティビティがAIプレイに完全に対応するか、一部対応か、まったく対応しないかを表示する。タスクを選んでAIプレイボタンを押せばよく、コントローラーに触れると操作が戻る。コンソールはタスクに失敗した後にAIを提案することもでき、コントローラーが放置されているときにAIへ操作を渡す場合もある。"
+                "x": "開発者がNVIDIA ACEをオンデバイスで動かすためのIn-Game Inferencing SDK 1.8は、RTX Sparkへの対応、新しいllama.cppとwhisper.cppのバックエンド、Parakeet音声認識、Vulkan priority APIを追加した。"
+              },
+              {
+                "t": "video",
+                "yt": "geAFyWn6Nio"
               },
               {
                 "t": "p",
-                "x": "Patentlyzeによると、5月以降Sonyの特許出願174件を追跡してきたという。"
+                "x": "Nsight Graphics 2026.4とNsight Systems 2026.6は、DLSS Frame Generationの解析とエージェント型AIツールを追加した。新しいNsight Graphics MCPサーバーにより、対応するAIエージェントがアプリケーションのキャプチャ、キャプチャのデバッグ、GPUトレースの解析を行える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sony专利：AI可替你\n接管部分游戏",
-          "body": "Sony的专利为每个任务或场景单独训练AI助手，玩家可随时收回手柄。",
-          "mini_headline": "Sony为AI代玩申请专利",
+          "headline": "NVIDIA Kimodo\n为UE 5.9带来AI动作",
+          "body": "动画师可在Sequencer中用文本提示、样条路径和目标姿势生成角色动作。",
+          "mini_headline": "Kimodo AI动作登陆UE 5.9",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "NVIDIA本月的游戏开发更新帮助团队将新的图形、动画和本地AI能力引入引擎，从War Thunder中的DLSS 5到Unreal Engine 5.9 Preview中的Kimodo。"
+              },
+              {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
+                "cap": "NVIDIA Kimodo在Unreal Engine 5.9 Preview的Sequencer中生成角色动作。动画由Epic Games提供"
               },
               {
                 "t": "p",
-                "x": "Sony获得了一项AI技术专利，可在你吃晚饭等做其他事情时让AI替你玩游戏。在Patentlyze披露的这项专利中，主机功能可让AI在游戏中选定的部分接管手柄，并在你回来时交还控制权。这与一年前披露的一项专利不同，后者是由AI“幽灵玩家”在旁陪你一起玩，向你演示玩法。"
+                "x": "Unreal Engine 5.9 Preview引入了一个引导式动画框架和一套Sequencer工具，让动画师可以直接使用AI动作生成模型。Kimodo是首个与之集成的模型，将GPU加速（GPU-accelerated）的动作生成与熟悉的时间线编辑器工作流相结合。"
               },
               {
                 "t": "p",
-                "x": "游戏被划分为任务、关卡或单个场景等游玩单元。服务器收集真实玩家的手柄输入记录，以及标记每项任务开始和结束时间的事件标记，再利用卷积神经网络和强化学习为每个单元训练一个AI助手。大致达到普通玩家水平的助手会被保留，其余则被舍弃。"
+                "x": "动画师可以用文本提示描述动作，绘制角色要沿循的样条路径，并在特定帧设定目标姿势。模型会生成遵循这些约束的动作，因此由团队决定角色往哪里移动、在关键时刻摆出怎样的姿势。"
+              },
+              {
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
+                "cap": "NvIGI SDK在本地PC上运行NVIDIA ACE AI模型"
               },
               {
                 "t": "p",
-                "x": "屏幕上的面板会标注每项活动是完全支持、部分支持还是完全不支持AI游玩。你选好任务并按下AI游玩按钮即可；触碰手柄就会把控制权交还给你。主机还可以在你任务失败后提供AI，并可能在手柄闲置时把控制权交给AI。"
+                "x": "In-Game Inferencing SDK 1.8帮助开发者在设备端运行NVIDIA ACE，新增RTX Spark支持、更新的llama.cpp和whisper.cpp后端、Parakeet语音识别以及Vulkan priority API。"
+              },
+              {
+                "t": "video",
+                "yt": "geAFyWn6Nio"
               },
               {
                 "t": "p",
-                "x": "Patentlyze表示，自5月以来已追踪到Sony提交的174项专利申请。"
+                "x": "Nsight Graphics 2026.4和Nsight Systems 2026.6新增DLSS Frame Generation分析和智能体AI工具：新的Nsight Graphics MCP服务器让兼容的AI智能体能够捕获应用、调试捕获并分析GPU跟踪数据。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sony patenta una AI que\ntoma el control de tu partida",
-          "body": "La patente de Sony entrena una AI por misión o escena, y el jugador puede retomar el mando cuando quiera.",
-          "mini_headline": "Sony patenta una AI que juega por ti",
+          "headline": "NVIDIA Kimodo trae movimiento AI\na Unreal Engine 5.9",
+          "body": "Los animadores pueden generar movimiento en Sequencer con prompts de texto, trayectorias spline y poses objetivo.",
+          "mini_headline": "Kimodo lleva movimiento AI a UE 5.9",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Las actualizaciones de desarrollo de juegos de NVIDIA de este mes ayudan a los equipos a incorporar nuevas capacidades gráficas, de animación y de AI local en sus motores, desde DLSS 5 en War Thunder hasta Kimodo en Unreal Engine 5.9 Preview."
+              },
+              {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
+                "cap": "NVIDIA Kimodo genera movimiento de personajes dentro del Sequencer de Unreal Engine 5.9 Preview. Animación cortesía de Epic Games"
               },
               {
                 "t": "p",
-                "x": "Sony ha patentado una tecnología de AI que permite que una AI juegue por ti mientras haces otras cosas, como cenar. En la patente divulgada por Patentlyze, una función de la consola deja que una AI tome el mando en las partes del juego que elijas y te lo devuelva cuando regreses. Se diferencia de una patente divulgada hace un año, en la que un \"jugador fantasma\" de AI jugaba a tu lado para mostrarte cómo jugar."
+                "x": "Unreal Engine 5.9 Preview introduce un marco de animación guiada y un conjunto de herramientas de Sequencer que permiten a los animadores trabajar directamente con modelos AI de generación de movimiento. Kimodo es el primer modelo integrado en él y combina la generación de movimiento acelerada por GPU (GPU-accelerated) con el flujo de trabajo habitual del editor de línea de tiempo."
               },
               {
                 "t": "p",
-                "x": "El juego se divide en unidades de juego, como una aventura, una misión o una sola escena. Un servidor recopila grabaciones de las entradas de mando de jugadores reales y marcadores de eventos que indican cuándo empieza y termina cada tarea, y luego entrena un asistente de AI por cada fragmento mediante una red neuronal convolucional y aprendizaje por refuerzo. Los asistentes que alcanzan aproximadamente la habilidad de un jugador medio se guardan; el resto se descarta."
+                "x": "Los animadores pueden describir un movimiento con un prompt de texto, trazar una trayectoria spline para que el personaje la siga y fijar poses objetivo en fotogramas concretos. El modelo genera movimiento que respeta estas restricciones, de modo que los equipos deciden hacia dónde se mueven los personajes y cómo posan en los momentos clave."
+              },
+              {
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
+                "cap": "El NvIGI SDK ejecuta modelos AI de NVIDIA ACE en un PC local"
               },
               {
                 "t": "p",
-                "x": "Un panel en pantalla indica si cada actividad admite el juego con AI de forma total, parcial o nula. Seleccionas las tareas y pulsas un botón de juego con AI; al tocar el mando recuperas el control. La consola también puede ofrecer la AI después de que falles una tarea, y puede cederle el control cuando el mando está inactivo."
+                "x": "In-Game Inferencing SDK 1.8, que ayuda a los desarrolladores a ejecutar NVIDIA ACE en el dispositivo, añade compatibilidad con RTX Spark, backends más recientes de llama.cpp y whisper.cpp, reconocimiento de voz Parakeet y la Vulkan priority API."
+              },
+              {
+                "t": "video",
+                "yt": "geAFyWn6Nio"
               },
               {
                 "t": "p",
-                "x": "Patentlyze afirmó que ha seguido 174 solicitudes de patente de Sony desde mayo."
+                "x": "Nsight Graphics 2026.4 y Nsight Systems 2026.6 añaden análisis de DLSS Frame Generation y herramientas de AI agéntica: un nuevo Nsight Graphics MCP server permite a agentes AI compatibles capturar aplicaciones, depurar capturas y analizar trazas de GPU."
               }
             ]
           }
@@ -193,121 +277,177 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Sony, 게임 일부를\n대신 플레이할 AI 특허",
-          "body": "Sony 특허는 퀘스트·장면별 AI를 따로 훈련하며 조작은 언제든 돌려받는다.",
-          "mini_headline": "Sony, 대리 플레이 AI 특허",
+          "headline": "NVIDIA Kimodo\nUE 5.9에 AI 모션",
+          "body": "애니메이터는 Sequencer에서 프롬프트·스플라인·포즈로 캐릭터 모션을 만든다.",
+          "mini_headline": "Kimodo AI 모션, UE 5.9 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "이번 달 NVIDIA 게임 개발 업데이트는 War Thunder의 DLSS 5부터 Unreal Engine 5.9 Preview의 Kimodo까지, 새로운 그래픽·애니메이션·로컬 AI 기능을 엔진에 들여오도록 돕는다."
+              },
+              {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
+                "cap": "NVIDIA Kimodo가 Unreal Engine 5.9 Preview의 Sequencer 안에서 캐릭터 모션을 생성한다. 애니메이션 제공: Epic Games"
               },
               {
                 "t": "p",
-                "x": "Sony가 저녁 식사처럼 다른 일을 하는 동안 AI가 대신 게임을 플레이해 주는 AI 기술 특허를 받았다. Patentlyze가 공개한 이 특허에서는 콘솔 기능이 게임 중 선택한 부분에서 AI에게 컨트롤러를 맡기고, 플레이어가 돌아오면 다시 넘겨준다. 한 해 전 공개된 특허와는 다르다. 당시 특허는 AI \"고스트 플레이어\"가 옆에서 함께 플레이하며 플레이 방법을 보여 주는 방식이었다."
+                "x": "Unreal Engine 5.9 Preview는 가이드형 애니메이션 프레임워크와 Sequencer 도구 모음을 도입해, 애니메이터가 AI 모션 생성 모델을 직접 다룰 수 있게 한다. Kimodo는 여기에 통합된 첫 모델로, GPU 가속(GPU-accelerated) 모션 생성과 익숙한 타임라인 에디터 작업 방식을 결합한다."
               },
               {
                 "t": "p",
-                "x": "게임은 퀘스트, 미션, 단일 장면 같은 플레이 단위로 나뉜다. 서버는 실제 플레이어의 컨트롤러 입력 기록과 각 과제의 시작·종료 시점을 표시한 이벤트 마커를 모은 뒤, 합성곱 신경망과 강화학습으로 단위마다 AI 도우미를 하나씩 훈련한다. 평균적인 플레이어 수준에 이른 도우미는 저장하고 나머지는 버린다."
+                "x": "애니메이터는 텍스트 프롬프트로 동작을 설명하고, 캐릭터가 따라갈 스플라인 경로를 그리고, 특정 프레임에 목표 포즈를 지정할 수 있다. 모델은 이 제약을 따르는 모션을 생성하므로, 캐릭터가 어디로 움직이고 핵심 순간에 어떤 포즈를 취할지는 팀이 정한다."
+              },
+              {
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
+                "cap": "NvIGI SDK는 로컬 PC에서 NVIDIA ACE AI 모델을 실행한다"
               },
               {
                 "t": "p",
-                "x": "화면의 패널은 각 활동이 AI 플레이를 완전히 지원하는지, 부분적으로 지원하는지, 전혀 지원하지 않는지 표시한다. 과제를 고르고 AI 플레이 버튼을 누르면 되고, 컨트롤러를 만지면 조작이 다시 플레이어에게 돌아온다. 콘솔은 과제에 실패한 뒤 AI를 제안할 수도 있고, 컨트롤러가 유휴 상태일 때 AI에 조작을 넘길 수도 있다."
+                "x": "개발자가 NVIDIA ACE를 온디바이스로 실행하도록 돕는 In-Game Inferencing SDK 1.8은 RTX Spark 지원, 최신 llama.cpp·whisper.cpp 백엔드, Parakeet 음성 인식, Vulkan priority API를 추가했다."
+              },
+              {
+                "t": "video",
+                "yt": "geAFyWn6Nio"
               },
               {
                 "t": "p",
-                "x": "Patentlyze는 5월 이후 Sony의 특허 출원 174건을 추적해 왔다고 밝혔다."
+                "x": "Nsight Graphics 2026.4와 Nsight Systems 2026.6은 DLSS Frame Generation 분석과 에이전트형 AI 도구를 추가했다. 새 Nsight Graphics MCP 서버를 쓰면 호환 AI 에이전트가 애플리케이션을 캡처하고, 캡처를 디버그하고, GPU 트레이스를 분석할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sony、ゲームの一部を\n代わりに遊ぶAI特許",
-          "body": "Sonyの特許はクエストや場面ごとにAIを個別に訓練し、操作はいつでも取り戻せる。",
-          "mini_headline": "Sony、代理プレイAIを特許化",
+          "headline": "NVIDIA Kimodo\nUE 5.9にAIモーション",
+          "body": "アニメーターはSequencerでプロンプト・スプライン・ポーズから動きを生成できる。",
+          "mini_headline": "Kimodo、UE 5.9にAIモーション",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "今月のNVIDIAゲーム開発アップデートは、War ThunderのDLSS 5からUnreal Engine 5.9 PreviewのKimodoまで、新たなグラフィックス、アニメーション、ローカルAIの機能をエンジンに取り込む助けとなる。"
+              },
+              {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
+                "cap": "NVIDIA KimodoはUnreal Engine 5.9 PreviewのSequencer内でキャラクターのモーションを生成する。アニメーション提供：Epic Games"
               },
               {
                 "t": "p",
-                "x": "Sonyは、夕食を食べるなど他のことをしている間にAIが代わりにゲームをプレイするAI技術の特許を取得した。Patentlyzeが公開したこの特許では、ゲームの選んだ部分でコンソールの機能がAIにコントローラーを任せ、プレイヤーが戻ると操作を返す。一年前に公開された特許とは異なる。そちらはAIの「ゴーストプレイヤー」が隣で一緒にプレイし、遊び方を示すものだった。"
+                "x": "Unreal Engine 5.9 Previewは、ガイド付きアニメーションフレームワークと、アニメーターがAIモーション生成モデルを直接扱えるSequencerツール群を導入した。Kimodoはこれに統合された最初のモデルで、GPUで高速化された（GPU-accelerated）モーション生成を、なじみのあるタイムラインエディターのワークフローと組み合わせる。"
               },
               {
                 "t": "p",
-                "x": "ゲームはクエストやミッション、単一のシーンといったプレイ単位に分けられる。サーバーは実際のプレイヤーによるコントローラー入力の記録と、各タスクの開始・終了を示すイベントマーカーを集め、畳み込みニューラルネットワークと強化学習を使って単位ごとにAIヘルパーを一つずつ訓練する。平均的なプレイヤー程度の腕前に達したヘルパーは保存され、それ以外は破棄される。"
+                "x": "アニメーターはテキストプロンプトで動きを記述し、キャラクターがたどるスプラインパスを描き、特定のフレームに目標ポーズを設定できる。モデルはこれらの制約に沿ったモーションを生成するため、キャラクターがどこへ動き、要所でどんなポーズをとるかはチームが決められる。"
+              },
+              {
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
+                "cap": "NvIGI SDKはNVIDIA ACEのAIモデルをローカルPCで実行する"
               },
               {
                 "t": "p",
-                "x": "画面上のパネルは、各アクティビティがAIプレイに完全に対応するか、一部対応か、まったく対応しないかを表示する。タスクを選んでAIプレイボタンを押せばよく、コントローラーに触れると操作が戻る。コンソールはタスクに失敗した後にAIを提案することもでき、コントローラーが放置されているときにAIへ操作を渡す場合もある。"
+                "x": "開発者がNVIDIA ACEをオンデバイスで動かすためのIn-Game Inferencing SDK 1.8は、RTX Sparkへの対応、新しいllama.cppとwhisper.cppのバックエンド、Parakeet音声認識、Vulkan priority APIを追加した。"
+              },
+              {
+                "t": "video",
+                "yt": "geAFyWn6Nio"
               },
               {
                 "t": "p",
-                "x": "Patentlyzeによると、5月以降Sonyの特許出願174件を追跡してきたという。"
+                "x": "Nsight Graphics 2026.4とNsight Systems 2026.6は、DLSS Frame Generationの解析とエージェント型AIツールを追加した。新しいNsight Graphics MCPサーバーにより、対応するAIエージェントがアプリケーションのキャプチャ、キャプチャのデバッグ、GPUトレースの解析を行える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sony专利：AI可替你\n接管部分游戏",
-          "body": "Sony的专利为每个任务或场景单独训练AI助手，玩家可随时收回手柄。",
-          "mini_headline": "Sony为AI代玩申请专利",
+          "headline": "NVIDIA Kimodo\n为UE 5.9带来AI动作",
+          "body": "动画师可在Sequencer中用文本提示、样条路径和目标姿势生成角色动作。",
+          "mini_headline": "Kimodo AI动作登陆UE 5.9",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "NVIDIA本月的游戏开发更新帮助团队将新的图形、动画和本地AI能力引入引擎，从War Thunder中的DLSS 5到Unreal Engine 5.9 Preview中的Kimodo。"
+              },
+              {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
+                "cap": "NVIDIA Kimodo在Unreal Engine 5.9 Preview的Sequencer中生成角色动作。动画由Epic Games提供"
               },
               {
                 "t": "p",
-                "x": "Sony获得了一项AI技术专利，可在你吃晚饭等做其他事情时让AI替你玩游戏。在Patentlyze披露的这项专利中，主机功能可让AI在游戏中选定的部分接管手柄，并在你回来时交还控制权。这与一年前披露的一项专利不同，后者是由AI“幽灵玩家”在旁陪你一起玩，向你演示玩法。"
+                "x": "Unreal Engine 5.9 Preview引入了一个引导式动画框架和一套Sequencer工具，让动画师可以直接使用AI动作生成模型。Kimodo是首个与之集成的模型，将GPU加速（GPU-accelerated）的动作生成与熟悉的时间线编辑器工作流相结合。"
               },
               {
                 "t": "p",
-                "x": "游戏被划分为任务、关卡或单个场景等游玩单元。服务器收集真实玩家的手柄输入记录，以及标记每项任务开始和结束时间的事件标记，再利用卷积神经网络和强化学习为每个单元训练一个AI助手。大致达到普通玩家水平的助手会被保留，其余则被舍弃。"
+                "x": "动画师可以用文本提示描述动作，绘制角色要沿循的样条路径，并在特定帧设定目标姿势。模型会生成遵循这些约束的动作，因此由团队决定角色往哪里移动、在关键时刻摆出怎样的姿势。"
+              },
+              {
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
+                "cap": "NvIGI SDK在本地PC上运行NVIDIA ACE AI模型"
               },
               {
                 "t": "p",
-                "x": "屏幕上的面板会标注每项活动是完全支持、部分支持还是完全不支持AI游玩。你选好任务并按下AI游玩按钮即可；触碰手柄就会把控制权交还给你。主机还可以在你任务失败后提供AI，并可能在手柄闲置时把控制权交给AI。"
+                "x": "In-Game Inferencing SDK 1.8帮助开发者在设备端运行NVIDIA ACE，新增RTX Spark支持、更新的llama.cpp和whisper.cpp后端、Parakeet语音识别以及Vulkan priority API。"
+              },
+              {
+                "t": "video",
+                "yt": "geAFyWn6Nio"
               },
               {
                 "t": "p",
-                "x": "Patentlyze表示，自5月以来已追踪到Sony提交的174项专利申请。"
+                "x": "Nsight Graphics 2026.4和Nsight Systems 2026.6新增DLSS Frame Generation分析和智能体AI工具：新的Nsight Graphics MCP服务器让兼容的AI智能体能够捕获应用、调试捕获并分析GPU跟踪数据。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sony patenta una AI que\ntoma el control de tu partida",
-          "body": "La patente de Sony entrena una AI por misión o escena, y el jugador puede retomar el mando cuando quiera.",
-          "mini_headline": "Sony patenta una AI que juega por ti",
+          "headline": "NVIDIA Kimodo trae movimiento AI\na Unreal Engine 5.9",
+          "body": "Los animadores pueden generar movimiento en Sequencer con prompts de texto, trayectorias spline y poses objetivo.",
+          "mini_headline": "Kimodo lleva movimiento AI a UE 5.9",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Las actualizaciones de desarrollo de juegos de NVIDIA de este mes ayudan a los equipos a incorporar nuevas capacidades gráficas, de animación y de AI local en sus motores, desde DLSS 5 en War Thunder hasta Kimodo en Unreal Engine 5.9 Preview."
+              },
+              {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/11/sony-ai.jpg"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
+                "cap": "NVIDIA Kimodo genera movimiento de personajes dentro del Sequencer de Unreal Engine 5.9 Preview. Animación cortesía de Epic Games"
               },
               {
                 "t": "p",
-                "x": "Sony ha patentado una tecnología de AI que permite que una AI juegue por ti mientras haces otras cosas, como cenar. En la patente divulgada por Patentlyze, una función de la consola deja que una AI tome el mando en las partes del juego que elijas y te lo devuelva cuando regreses. Se diferencia de una patente divulgada hace un año, en la que un \"jugador fantasma\" de AI jugaba a tu lado para mostrarte cómo jugar."
+                "x": "Unreal Engine 5.9 Preview introduce un marco de animación guiada y un conjunto de herramientas de Sequencer que permiten a los animadores trabajar directamente con modelos AI de generación de movimiento. Kimodo es el primer modelo integrado en él y combina la generación de movimiento acelerada por GPU (GPU-accelerated) con el flujo de trabajo habitual del editor de línea de tiempo."
               },
               {
                 "t": "p",
-                "x": "El juego se divide en unidades de juego, como una aventura, una misión o una sola escena. Un servidor recopila grabaciones de las entradas de mando de jugadores reales y marcadores de eventos que indican cuándo empieza y termina cada tarea, y luego entrena un asistente de AI por cada fragmento mediante una red neuronal convolucional y aprendizaje por refuerzo. Los asistentes que alcanzan aproximadamente la habilidad de un jugador medio se guardan; el resto se descarta."
+                "x": "Los animadores pueden describir un movimiento con un prompt de texto, trazar una trayectoria spline para que el personaje la siga y fijar poses objetivo en fotogramas concretos. El modelo genera movimiento que respeta estas restricciones, de modo que los equipos deciden hacia dónde se mueven los personajes y cómo posan en los momentos clave."
+              },
+              {
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
+                "cap": "El NvIGI SDK ejecuta modelos AI de NVIDIA ACE en un PC local"
               },
               {
                 "t": "p",
-                "x": "Un panel en pantalla indica si cada actividad admite el juego con AI de forma total, parcial o nula. Seleccionas las tareas y pulsas un botón de juego con AI; al tocar el mando recuperas el control. La consola también puede ofrecer la AI después de que falles una tarea, y puede cederle el control cuando el mando está inactivo."
+                "x": "In-Game Inferencing SDK 1.8, que ayuda a los desarrolladores a ejecutar NVIDIA ACE en el dispositivo, añade compatibilidad con RTX Spark, backends más recientes de llama.cpp y whisper.cpp, reconocimiento de voz Parakeet y la Vulkan priority API."
+              },
+              {
+                "t": "video",
+                "yt": "geAFyWn6Nio"
               },
               {
                 "t": "p",
-                "x": "Patentlyze afirmó que ha seguido 174 solicitudes de patente de Sony desde mayo."
+                "x": "Nsight Graphics 2026.4 y Nsight Systems 2026.6 añaden análisis de DLSS Frame Generation y herramientas de AI agéntica: un nuevo Nsight Graphics MCP server permite a agentes AI compatibles capturar aplicaciones, depurar capturas y analizar trazas de GPU."
               }
             ]
           }
@@ -315,441 +455,321 @@
       }
     },
     {
-      "id": "slotbound-ai-solo-hit",
-      "source_lang": "ja",
+      "id": "atari-homebrew-awards-ai-flood",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "거의 무경험자가 AI로\n만든 게임 20만 장",
-      "body": "AI로 코드를 짠 Slotbound가 Steam에서 6일 만에 20만 장 팔렸다.",
-      "mini_headline": "AI로 만든 Slotbound 20만 장",
+      "headline": "AI 게임 범람에\nAtari 홈브루상 취소",
+      "body": "ZeroPage Homebrew가 AI-assisted 작품 범람에 시상을 접었다.",
+      "mini_headline": "AI 범람에 Atari 홈브루 시상 중단",
       "tool": "Games",
-      "source": "Game*Spark",
-      "url": "http://www.gamespark.jp/article/2026/11/23/175187.html",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "6j0w7Q2Q_LM"
-          },
-          {
-            "t": "p",
-            "x": "『슬롯바운드 - Slotbound』는 Optima Arch가 개발·발매한 로그라이트 오토배틀러 디펜스 게임이다. 슬롯머신을 돌려 유닛을 불러내고 웨이브를 버틴다. 3×3 슬롯에서 라인이 맞으면 유닛이 소환되고, 융합·강화로 레벨과 역할이 올라간다."
-          },
-          {
             "t": "img",
-            "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+            "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
+            "cap": "DIMITAR DILKOFF / Getty Images"
           },
           {
             "t": "p",
-            "x": "'코어'와 '정수', 무작위 '특성', 유닛 '흡수'로 스킬을 물려받는 구조 덕에 운보다 전략이 더 중요하다. 플레이어들은 \"운 게임인 줄 알았는데 운만은 아니다\", \"그만둘 때를 못 찾고 1판만 더…… 하며 하게 된다\" 같은 반응을 보인다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
-            "cap": "가운데 라인을 내리면 왕관이 맞춰진다."
+            "x": "아홉 번째 개최를 앞뒀던 Atari Homebrew Awards가 올해 취소됐다. AI로 만들었을지 모를 출품작을 어떻게 다룰지를 두고 주최 측이 벽에 부딪혀서다."
           },
           {
             "t": "p",
-            "x": "Optima Arch는 이 게임을 혼자 만들었다. 시작 전까지는 프로그래밍도 게임 개발도 거의 해 본 적이 없었는데, AI 코딩 도구를 써서 약 8개월 만에 출시했다고 한다. 게임 시스템과 밸런스 조정, UI 등 재미를 좌우하는 부분은 직접 손봤다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+            "x": "“올해 들어 AI 지원 게임 개발이 대량으로 쏟아지면서 이를 따라가기가 점점 어려워졌습니다. 일부 개발자는 AI의 도움으로 일주일에 여러 개의 게임을 내놓기도 했습니다.” ZeroPage Homebrew는 Atari Age 포럼에 이렇게 썼다."
           },
           {
             "t": "p",
-            "x": "출시 3일 만에 10만 장, 6일 만에 20만 장을 돌파했다. 지금은 스테이지 6개와 엔드리스 모드가 들어 있고, 피드백을 받아 버그 수정과 밸런스 조정, 새 콘텐츠 추가를 계속할 계획이다. PC(Steam)용으로 판매 중이다."
+            "x": "출품작 검토만이 문제가 아니었다. AI 사용에 선을 그을지, 긋는다면 어디에 그을지를 정해야 했다. 100% AI로 생성된 게임이야 논외였지만 음악이나 아트, 코딩에 AI를 쓴 게임은 어떻게 봐야 하나. AI를 얼마나 썼는지 쉽게 검증할 방법도 없다. 개발자가 정직하게 밝혀야 하고, 검사 소프트웨어는 오탐을 낼 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "“앞으로 나아갈 길이 보이지 않아 올해 Atari Homebrew Awards를 중단하는 어려운 결정을 내렸습니다.” ZeroPage는 이렇게 썼다. 이 포럼 글에는 지금 Atari 홈브루 씬 안팎에서 AI가 설 자리를 두고 다투는 댓글이 수백 개 달렸다."
           }
         ]
       },
       "text": {
-        "ja": {
-          "headline": "ほぼ未経験者がAIで\n作ったゲームが20万本",
-          "body": "AIでコードを書いた『Slotbound』は、Steamで6日間に20万本を売り上げた。",
-          "mini_headline": "AI製Slotboundが20万本",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "6j0w7Q2Q_LM"
-              },
-              {
-                "t": "p",
-                "x": "『スロットバウンド - Slotbound』は、Optima Archが開発・発売した、スロットマシンを回してユニットを召喚し、ウェーブを耐え抜くローグライト・オートバトラー防衛ゲーム。3×3のスロットでラインが揃うとユニットが召喚され、融合・強化でレベルや役職が上がっていく。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
-              },
-              {
-                "t": "p",
-                "x": "「コア」や「精髄」、ランダムな「特性」、ユニットの「吸収」によるスキル継承など、運だけでなく戦略性の高さが魅力。プレイヤーからは「運ゲーかと思いきや運だけじゃない」「やめ時が見つからずあと1回だけ……と遊んでしまう」といった声が寄せられている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
-                "cap": "真ん中のラインを下げれば、王冠が揃います。"
-              },
-              {
-                "t": "p",
-                "x": "本作はOptima Arch氏が1人で開発。開発を始めるまでプログラミングやゲーム開発の経験がほとんどない状態から、AIコーディングツールを活用して8ヶ月ほどで本作をリリースしたという。ゲームシステムやバランス調整、UIなどは、ゲームとして楽しめるよう自身が手を加えていった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
-              },
-              {
-                "t": "p",
-                "x": "発売から3日で10万本、6日で20万本を突破。現在は全6ステージとエンドレスモードを収録し、今後もフィードバックを受けて不具合修正やバランス調整、新コンテンツの追加を進めるとのこと。PC（Steam）向けに発売中。"
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "Near-novice dev's AI-made game\nsells 200,000 copies",
-          "body": "Slotbound, whose code was written with AI, sold 200,000 copies on Steam in 6 days.",
-          "mini_headline": "AI-made Slotbound sells 200,000",
+          "headline": "AI game flood cancels the\nAtari Homebrew Awards",
+          "body": "ZeroPage Homebrew suspended its ninth awards after AI-assisted entries made a cutoff for AI use hard to set or vet.",
+          "mini_headline": "AI flood halts Atari homebrew awards",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6j0w7Q2Q_LM"
-              },
-              {
-                "t": "p",
-                "x": "Slotbound, developed and published by Optima Arch, is a roguelite auto-battler defense game in which you spin a slot machine to summon units and survive waves. Lining up a row on the 3×3 slots summons units, which rise in level and role through fusion and upgrades."
-              },
-              {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
+                "cap": "DIMITAR DILKOFF / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Its appeal is strategic depth beyond luck, with \"cores,\" \"essences,\" random \"traits\" and skill inheritance through unit \"absorption.\" Players have said things like \"I thought it was a luck game, but it's not just luck\" and \"I can't find a time to stop and keep playing just 1 more time...\""
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
-                "cap": "Lower the middle line and the crowns line up."
+                "x": "The Atari Homebrew Awards, which would have been in its ninth year, has been canceled after its organizer hit an impasse with how to handle submissions that might have been made with AI."
               },
               {
                 "t": "p",
-                "x": "Optima Arch developed the game as a 1-person project. Starting with almost no programming or game development experience, the developer used AI coding tools and released the game in about 8 months. The developer personally reworked the game systems, balance and UI so it would be fun to play as a game."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+                "x": "“Keeping up with the large number of AI assisted game development had become increasingly difficult as this year wore on with some developers even releasing multiple games a week with the aid of AI,” ZeroPage Homebrew wrote on the Atari Age forum."
               },
               {
                 "t": "p",
-                "x": "It passed 100,000 copies 3 days after launch and 200,000 in 6 days. It currently includes 6 stages and an endless mode, and the developer plans to keep fixing bugs, adjusting balance and adding new content based on feedback. It is out now on PC (Steam)."
+                "x": "The task wasn’t simply going through submissions; it was figuring out what cutoff, if any, to have for AI use. Games 100-percent generated by AI were out of the question, but what about games that used AI for music, art, or coding? There are no easy ways to vet the amount of AI used: it requires honest disclosure, and testing software can lead to false positives."
+              },
+              {
+                "t": "p",
+                "x": "“I saw no path forward and made the difficult decision to suspend the Atari Homebrew Awards this year,” ZeroPage wrote. The forum post now has hundreds of comments debating AI’s place in the Atari homebrew scene and beyond."
               }
             ]
           }
         },
         "ko": {
-          "headline": "거의 무경험자가 AI로\n만든 게임 20만 장",
-          "body": "AI로 코드를 짠 Slotbound가 Steam에서 6일 만에 20만 장 팔렸다.",
-          "mini_headline": "AI로 만든 Slotbound 20만 장",
+          "headline": "AI 게임 범람에\nAtari 홈브루상 취소",
+          "body": "ZeroPage Homebrew가 AI-assisted 작품 범람에 시상을 접었다.",
+          "mini_headline": "AI 범람에 Atari 홈브루 시상 중단",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6j0w7Q2Q_LM"
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
+                "cap": "DIMITAR DILKOFF / Getty Images"
               },
               {
                 "t": "p",
-                "x": "『슬롯바운드 - Slotbound』는 Optima Arch가 개발·발매한 로그라이트 오토배틀러 디펜스 게임이다. 슬롯머신을 돌려 유닛을 불러내고 웨이브를 버틴다. 3×3 슬롯에서 라인이 맞으면 유닛이 소환되고, 융합·강화로 레벨과 역할이 올라간다."
+                "x": "아홉 번째 개최를 앞뒀던 Atari Homebrew Awards가 올해 취소됐다. AI로 만들었을지 모를 출품작을 어떻게 다룰지를 두고 주최 측이 벽에 부딪혀서다."
               },
+              {
+                "t": "p",
+                "x": "“올해 들어 AI 지원 게임 개발이 대량으로 쏟아지면서 이를 따라가기가 점점 어려워졌습니다. 일부 개발자는 AI의 도움으로 일주일에 여러 개의 게임을 내놓기도 했습니다.” ZeroPage Homebrew는 Atari Age 포럼에 이렇게 썼다."
+              },
+              {
+                "t": "p",
+                "x": "출품작 검토만이 문제가 아니었다. AI 사용에 선을 그을지, 긋는다면 어디에 그을지를 정해야 했다. 100% AI로 생성된 게임이야 논외였지만 음악이나 아트, 코딩에 AI를 쓴 게임은 어떻게 봐야 하나. AI를 얼마나 썼는지 쉽게 검증할 방법도 없다. 개발자가 정직하게 밝혀야 하고, 검사 소프트웨어는 오탐을 낼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "“앞으로 나아갈 길이 보이지 않아 올해 Atari Homebrew Awards를 중단하는 어려운 결정을 내렸습니다.” ZeroPage는 이렇게 썼다. 이 포럼 글에는 지금 Atari 홈브루 씬 안팎에서 AI가 설 자리를 두고 다투는 댓글이 수백 개 달렸다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIゲームの氾濫で\nAtari自作ゲーム賞が中止",
+          "body": "ZeroPage HomebrewはAI-assisted作品の増加で賞を中止した。",
+          "mini_headline": "AI氾濫でAtari自作ゲーム賞が中止",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
+                "cap": "DIMITAR DILKOFF / Getty Images"
               },
               {
                 "t": "p",
-                "x": "'코어'와 '정수', 무작위 '특성', 유닛 '흡수'로 스킬을 물려받는 구조 덕에 운보다 전략이 더 중요하다. 플레이어들은 \"운 게임인 줄 알았는데 운만은 아니다\", \"그만둘 때를 못 찾고 1판만 더…… 하며 하게 된다\" 같은 반응을 보인다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
-                "cap": "가운데 라인을 내리면 왕관이 맞춰진다."
+                "x": "第九回となるはずだったAtari Homebrew Awardsが中止された。主催者が、AIで作られた可能性のある応募作をどう扱うかで行き詰まったためだ。"
               },
               {
                 "t": "p",
-                "x": "Optima Arch는 이 게임을 혼자 만들었다. 시작 전까지는 프로그래밍도 게임 개발도 거의 해 본 적이 없었는데, AI 코딩 도구를 써서 약 8개월 만에 출시했다고 한다. 게임 시스템과 밸런스 조정, UI 등 재미를 좌우하는 부분은 직접 손봤다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+                "x": "「今年は時がたつにつれ、大量のAI支援ゲーム開発に追いつくことがますます難しくなりました。AIの助けを借りて週に複数のゲームを出す開発者までいたのです」と、ZeroPage HomebrewはAtari Ageフォーラムに書き込んだ。"
               },
               {
                 "t": "p",
-                "x": "출시 3일 만에 10만 장, 6일 만에 20만 장을 돌파했다. 지금은 스테이지 6개와 엔드리스 모드가 들어 있고, 피드백을 받아 버그 수정과 밸런스 조정, 새 콘텐츠 추가를 계속할 계획이다. PC(Steam)용으로 판매 중이다."
+                "x": "課題は応募作に目を通すことだけではなかった。AIの使用について、そもそも線引きをするのか、するならどこで引くのかを決めることだった。100% AIで生成されたゲームは論外だが、音楽やアート、コーディングにAIを使ったゲームはどうなのか。AIの使用量を確かめる簡単な方法はない。正直な申告が必要で、検査ソフトは誤検出を起こしうる。"
+              },
+              {
+                "t": "p",
+                "x": "「先へ進む道が見えず、今年のAtari Homebrew Awardsを中止するという難しい決断を下しました」とZeroPageは書いた。このフォーラム投稿には現在、Atariの自作ゲームシーンやその外におけるAIの位置づけをめぐって議論する数百件のコメントが寄せられている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "几乎没经验的人用AI\n做的游戏卖出20万份",
-          "body": "用AI写代码的《Slotbound》在Steam上6天卖出20万份。",
-          "mini_headline": "AI制作的Slotbound卖出20万份",
+          "headline": "AI游戏泛滥，\nAtari自制游戏奖停办",
+          "body": "ZeroPage Homebrew因AI-assisted作品难以设限，暂停第九届奖项。",
+          "mini_headline": "AI泛滥致Atari自制游戏奖停办",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6j0w7Q2Q_LM"
-              },
-              {
-                "t": "p",
-                "x": "《Slotbound》是由Optima Arch开发并发行的Roguelite自动战斗塔防游戏，玩家通过转动老虎机召唤单位、抵御一波波敌人。在3×3的老虎机格子上连成一线即可召唤单位，并通过融合与强化提升等级和职阶。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
+                "cap": "DIMITAR DILKOFF / Getty Images"
               },
               {
                 "t": "p",
-                "x": "“核心”“精髓”、随机“特性”以及通过单位“吸收”实现的技能继承等，让游戏不只靠运气，策略性也很高。玩家评价称“本以为是拼运气的游戏，其实不只是运气”“找不到停下来的时机，总想着再玩1次……”。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
-                "cap": "把中间那条线往下拉，王冠就连上了。"
+                "x": "原本将迎来第九届的Atari Homebrew Awards已被取消，原因是主办方在如何处理可能借助AI制作的参赛作品上陷入僵局。"
               },
               {
                 "t": "p",
-                "x": "本作由Optima Arch独自1人开发。据介绍，开发者在开始开发前几乎没有编程或游戏开发经验，借助AI编程工具，用了约8个月便发布了本作。游戏系统、平衡调整和UI等则由开发者亲自打磨，让它作为游戏足够好玩。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+                "x": "“随着今年时间推移，要跟上大量AI辅助的游戏开发变得越来越难，有些开发者甚至借助AI每周发布多款游戏。”ZeroPage Homebrew在Atari Age论坛上写道。"
               },
               {
                 "t": "p",
-                "x": "本作发售3天销量突破10万份，6天突破20万份。目前收录全部6个关卡和无尽模式，今后将根据反馈继续修复问题、调整平衡并追加新内容。现已在PC（Steam）平台发售。"
+                "x": "这项工作不只是审阅参赛作品，而是要决定是否为AI使用设定界限、界限又该划在哪里。100%由AI生成的游戏自然不在考虑之列，但用AI制作音乐、美术或代码的游戏又该如何对待？AI使用程度没有简便的核查方法：这需要诚实披露，而检测软件可能产生误报。"
+              },
+              {
+                "t": "p",
+                "x": "“我看不到前进的路，于是做出了今年暂停Atari Homebrew Awards的艰难决定。”ZeroPage写道。这篇论坛帖子目前已有数百条评论，争论AI在Atari自制游戏圈内外的位置。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un casi novato crea con AI\nun juego que vende 200,000",
-          "body": "Slotbound, cuyo código se escribió con AI, vendió 200,000 copias en Steam en 6 días.",
-          "mini_headline": "Slotbound, hecho con AI, vende 200,000",
+          "headline": "Una avalancha de juegos AI\nanula los Atari Homebrew Awards",
+          "body": "ZeroPage Homebrew suspendió su novena edición: con obras AI-assisted, costaba fijar o verificar un límite de AI.",
+          "mini_headline": "Una avalancha AI frena los premios homebrew de Atari",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6j0w7Q2Q_LM"
-              },
-              {
-                "t": "p",
-                "x": "Slotbound, desarrollado y publicado por Optima Arch, es un juego de defensa roguelite de tipo auto battler en el que se gira una máquina tragamonedas para invocar unidades y resistir oleadas. Al completar una línea en las ranuras de 3×3 se invoca una unidad, que sube de nivel y de rango mediante fusiones y mejoras."
-              },
-              {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
+                "cap": "DIMITAR DILKOFF / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Su atractivo es la estrategia más allá de la suerte, con «núcleos», «esencias», «rasgos» aleatorios y la herencia de habilidades mediante la «absorción» de unidades. Los jugadores han comentado cosas como «parecía un juego de suerte, pero no es solo suerte» y «no encuentro el momento de parar y juego solo 1 vez más...»."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
-                "cap": "Si bajas la línea del medio, se alinean las coronas."
+                "x": "Los Atari Homebrew Awards, que habrían celebrado su novena edición, se han cancelado después de que su organizador llegara a un punto muerto sobre cómo tratar las candidaturas que podrían haberse hecho con AI."
               },
               {
                 "t": "p",
-                "x": "Optima Arch desarrolló el juego como proyecto de 1 persona. Sin apenas experiencia previa en programación ni en desarrollo de juegos, usó herramientas de programación con AI y lanzó el juego en unos 8 meses. Los sistemas de juego, el ajuste del equilibrio y la UI los retocó personalmente para que resultara divertido como juego."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+                "x": "“Seguir el ritmo de la gran cantidad de desarrollo de juegos asistido por AI se había vuelto cada vez más difícil a medida que avanzaba el año, con algunos desarrolladores que incluso lanzaban varios juegos a la semana con ayuda de la AI”, escribió ZeroPage Homebrew en el foro de Atari Age."
               },
               {
                 "t": "p",
-                "x": "Superó las 100,000 copias a los 3 días del lanzamiento y las 200,000 a los 6 días. Actualmente incluye 6 fases y un modo infinito, y se seguirán corrigiendo errores, ajustando el equilibrio y añadiendo contenido nuevo según los comentarios. Ya está a la venta para PC (Steam)."
+                "x": "La tarea no consistía solo en revisar las candidaturas, sino en decidir qué límite fijar, si acaso, para el uso de AI. Los juegos generados al 100% por AI quedaban descartados, pero ¿qué pasa con los que usaron AI para la música, el arte o la programación? No hay formas sencillas de verificar cuánta AI se ha usado: requiere una declaración honesta, y el software de detección puede dar falsos positivos."
+              },
+              {
+                "t": "p",
+                "x": "“No vi ningún camino a seguir y tomé la difícil decisión de suspender los Atari Homebrew Awards este año”, escribió ZeroPage. La publicación del foro acumula ya cientos de comentarios que debaten el lugar de la AI en la escena homebrew de Atari y más allá."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Near-novice dev's AI-made game\nsells 200,000 copies",
-          "body": "Slotbound, whose code was written with AI, sold 200,000 copies on Steam in 6 days.",
-          "mini_headline": "AI-made Slotbound sells 200,000",
+        "ko": {
+          "headline": "AI 게임 범람에\nAtari 홈브루상 취소",
+          "body": "ZeroPage Homebrew가 AI-assisted 작품 탓에 시상을 접었다.",
+          "mini_headline": "AI 범람에 Atari 홈브루 시상 중단",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6j0w7Q2Q_LM"
-              },
-              {
-                "t": "p",
-                "x": "Slotbound, developed and published by Optima Arch, is a roguelite auto-battler defense game in which you spin a slot machine to summon units and survive waves. Lining up a row on the 3×3 slots summons units, which rise in level and role through fusion and upgrades."
-              },
-              {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
+                "cap": "DIMITAR DILKOFF / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Its appeal is strategic depth beyond luck, with \"cores,\" \"essences,\" random \"traits\" and skill inheritance through unit \"absorption.\" Players have said things like \"I thought it was a luck game, but it's not just luck\" and \"I can't find a time to stop and keep playing just 1 more time...\""
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
-                "cap": "Lower the middle line and the crowns line up."
+                "x": "올해로 아홉 번째를 맞을 예정이던 Atari Homebrew Awards가 취소됐다. 주최자가 AI로 만들었을 수 있는 출품작을 어떻게 다룰지를 두고 벽에 부딪혔기 때문이다."
               },
               {
                 "t": "p",
-                "x": "Optima Arch developed the game as a 1-person project. Starting with almost no programming or game development experience, the developer used AI coding tools and released the game in about 8 months. The developer personally reworked the game systems, balance and UI so it would be fun to play as a game."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+                "x": "“올해 들어 AI 지원 게임 개발이 대량으로 쏟아지면서 이를 따라가기가 점점 어려워졌습니다. 일부 개발자는 AI의 도움으로 일주일에 여러 개의 게임을 내놓기도 했습니다.” ZeroPage Homebrew는 Atari Age 포럼에 이렇게 썼다."
               },
               {
                 "t": "p",
-                "x": "It passed 100,000 copies 3 days after launch and 200,000 in 6 days. It currently includes 6 stages and an endless mode, and the developer plans to keep fixing bugs, adjusting balance and adding new content based on feedback. It is out now on PC (Steam)."
+                "x": "문제는 단순히 출품작을 검토하는 데 있지 않았다. AI 사용에 기준선을 둘지, 둔다면 어디에 둘지를 정하는 일이었다. 100% AI로 생성된 게임은 논외였지만, 음악이나 아트, 코딩에 AI를 쓴 게임은 어떻게 볼 것인가? AI 사용량을 검증할 쉬운 방법은 없다. 정직한 공개가 필요하고, 검사 소프트웨어는 오탐을 낼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "“앞으로 나아갈 길이 보이지 않아 올해 Atari Homebrew Awards를 중단하는 어려운 결정을 내렸습니다.” ZeroPage는 이렇게 썼다. 이 포럼 글에는 현재 Atari 홈브루 씬과 그 너머에서 AI가 설 자리를 두고 논쟁하는 댓글이 수백 개 달려 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "거의 무경험자가 AI로\n만든 게임 20만 장",
-          "body": "AI로 코드를 짠 Slotbound는 Steam에서 6일 만에 20만 장 팔렸다.",
-          "mini_headline": "AI로 만든 Slotbound 20만 장",
+        "ja": {
+          "headline": "AIゲームの氾濫で\nAtari自作ゲーム賞が中止",
+          "body": "ZeroPage HomebrewはAI-assisted作品の増加で賞を中止した。",
+          "mini_headline": "AI氾濫でAtari自作ゲーム賞が中止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6j0w7Q2Q_LM"
-              },
-              {
-                "t": "p",
-                "x": "『슬롯바운드 - Slotbound』는 Optima Arch가 개발·발매한 로그라이트 오토배틀러 디펜스 게임으로, 슬롯머신을 돌려 유닛을 소환하고 웨이브를 버텨낸다. 3×3 슬롯에서 라인이 맞으면 유닛이 소환되고, 융합·강화로 레벨과 역할이 올라간다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
+                "cap": "DIMITAR DILKOFF / Getty Images"
               },
               {
                 "t": "p",
-                "x": "'코어'와 '정수', 무작위 '특성', 유닛 '흡수'를 통한 스킬 계승 등 운만이 아니라 높은 전략성이 매력이다. 플레이어들은 \"운 게임인 줄 알았는데 운만은 아니다\", \"그만둘 때를 못 찾고 1판만 더…… 하며 하게 된다\" 같은 반응을 보이고 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
-                "cap": "가운데 라인을 내리면 왕관이 맞춰진다."
+                "x": "第九回となるはずだったAtari Homebrew Awardsが中止された。主催者が、AIで作られた可能性のある応募作をどう扱うかで行き詰まったためだ。"
               },
               {
                 "t": "p",
-                "x": "이 게임은 Optima Arch가 1인으로 개발했다. 개발을 시작하기 전까지 프로그래밍이나 게임 개발 경험이 거의 없었지만, AI 코딩 도구를 활용해 약 8개월 만에 출시했다고 한다. 게임 시스템과 밸런스 조정, UI 등은 게임으로서 즐길 수 있도록 직접 손봤다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+                "x": "「今年は時がたつにつれ、大量のAI支援ゲーム開発に追いつくことがますます難しくなりました。AIの助けを借りて週に複数のゲームを出す開発者までいたのです」と、ZeroPage HomebrewはAtari Ageフォーラムに書き込んだ。"
               },
               {
                 "t": "p",
-                "x": "출시 3일 만에 10만 장, 6일 만에 20만 장을 돌파했다. 현재 총 6개 스테이지와 엔드리스 모드를 수록했으며, 앞으로도 피드백을 받아 버그 수정과 밸런스 조정, 새 콘텐츠 추가를 이어갈 예정이다. PC(Steam)용으로 판매 중이다."
+                "x": "課題は応募作に目を通すことだけではなかった。AIの使用について、そもそも線引きをするのか、するならどこで引くのかを決めることだった。100% AIで生成されたゲームは論外だが、音楽やアート、コーディングにAIを使ったゲームはどうなのか。AIの使用量を確かめる簡単な方法はない。正直な申告が必要で、検査ソフトは誤検出を起こしうる。"
+              },
+              {
+                "t": "p",
+                "x": "「先へ進む道が見えず、今年のAtari Homebrew Awardsを中止するという難しい決断を下しました」とZeroPageは書いた。このフォーラム投稿には現在、Atariの自作ゲームシーンやその外におけるAIの位置づけをめぐって議論する数百件のコメントが寄せられている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "几乎没经验的人用AI\n做的游戏卖出20万份",
-          "body": "用AI写代码的《Slotbound》在Steam上6天卖出20万份。",
-          "mini_headline": "AI制作的Slotbound卖出20万份",
+          "headline": "AI游戏泛滥，\nAtari自制游戏奖停办",
+          "body": "ZeroPage Homebrew因AI-assisted作品难以设限，暂停第九届奖项。",
+          "mini_headline": "AI泛滥致Atari自制游戏奖停办",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6j0w7Q2Q_LM"
-              },
-              {
-                "t": "p",
-                "x": "《Slotbound》是由Optima Arch开发并发行的Roguelite自动战斗塔防游戏，玩家通过转动老虎机召唤单位、抵御一波波敌人。在3×3的老虎机格子上连成一线即可召唤单位，并通过融合与强化提升等级和职阶。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
+                "cap": "DIMITAR DILKOFF / Getty Images"
               },
               {
                 "t": "p",
-                "x": "“核心”“精髓”、随机“特性”以及通过单位“吸收”实现的技能继承等，让游戏不只靠运气，策略性也很高。玩家评价称“本以为是拼运气的游戏，其实不只是运气”“找不到停下来的时机，总想着再玩1次……”。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
-                "cap": "把中间那条线往下拉，王冠就连上了。"
+                "x": "原本将迎来第九届的Atari Homebrew Awards已被取消，原因是主办方在如何处理可能借助AI制作的参赛作品上陷入僵局。"
               },
               {
                 "t": "p",
-                "x": "本作由Optima Arch独自1人开发。据介绍，开发者在开始开发前几乎没有编程或游戏开发经验，借助AI编程工具，用了约8个月便发布了本作。游戏系统、平衡调整和UI等则由开发者亲自打磨，让它作为游戏足够好玩。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+                "x": "“随着今年时间推移，要跟上大量AI辅助的游戏开发变得越来越难，有些开发者甚至借助AI每周发布多款游戏。”ZeroPage Homebrew在Atari Age论坛上写道。"
               },
               {
                 "t": "p",
-                "x": "本作发售3天销量突破10万份，6天突破20万份。目前收录全部6个关卡和无尽模式，今后将根据反馈继续修复问题、调整平衡并追加新内容。现已在PC（Steam）平台发售。"
+                "x": "这项工作不只是审阅参赛作品，而是要决定是否为AI使用设定界限、界限又该划在哪里。100%由AI生成的游戏自然不在考虑之列，但用AI制作音乐、美术或代码的游戏又该如何对待？AI使用程度没有简便的核查方法：这需要诚实披露，而检测软件可能产生误报。"
+              },
+              {
+                "t": "p",
+                "x": "“我看不到前进的路，于是做出了今年暂停Atari Homebrew Awards的艰难决定。”ZeroPage写道。这篇论坛帖子目前已有数百条评论，争论AI在Atari自制游戏圈内外的位置。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un casi novato crea con AI\nun juego que vende 200,000",
-          "body": "Slotbound, cuyo código se escribió con AI, vendió 200,000 copias en Steam en 6 días.",
-          "mini_headline": "Slotbound, hecho con AI, vende 200,000",
+          "headline": "Una avalancha de juegos AI\nanula los Atari Homebrew Awards",
+          "body": "ZeroPage Homebrew suspendió su novena edición: con obras AI-assisted, costaba fijar o verificar un límite de AI.",
+          "mini_headline": "Una avalancha AI frena los premios homebrew de Atari",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6j0w7Q2Q_LM"
-              },
-              {
-                "t": "p",
-                "x": "Slotbound, desarrollado y publicado por Optima Arch, es un juego de defensa roguelite de tipo auto battler en el que se gira una máquina tragamonedas para invocar unidades y resistir oleadas. Al completar una línea en las ranuras de 3×3 se invoca una unidad, que sube de nivel y de rango mediante fusiones y mejoras."
-              },
-              {
                 "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222322.png"
+                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
+                "cap": "DIMITAR DILKOFF / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Su atractivo es la estrategia más allá de la suerte, con «núcleos», «esencias», «rasgos» aleatorios y la herencia de habilidades mediante la «absorción» de unidades. Los jugadores han comentado cosas como «parecía un juego de suerte, pero no es solo suerte» y «no encuentro el momento de parar y juego solo 1 vez más...»."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222324.png",
-                "cap": "Si bajas la línea del medio, se alinean las coronas."
+                "x": "Los Atari Homebrew Awards, que habrían celebrado su novena edición, se han cancelado después de que su organizador llegara a un punto muerto sobre cómo tratar las candidaturas que podrían haberse hecho con AI."
               },
               {
                 "t": "p",
-                "x": "Optima Arch desarrolló el juego como proyecto de 1 persona. Sin apenas experiencia previa en programación ni en desarrollo de juegos, usó herramientas de programación con AI y lanzó el juego en unos 8 meses. Los sistemas de juego, el ajuste del equilibrio y la UI los retocó personalmente para que resultara divertido como juego."
-              },
-              {
-                "t": "img",
-                "src": "https://www.gamespark.jp/imgs/zoom/1222321.png"
+                "x": "“Seguir el ritmo de la gran cantidad de desarrollo de juegos asistido por AI se había vuelto cada vez más difícil a medida que avanzaba el año, con algunos desarrolladores que incluso lanzaban varios juegos a la semana con ayuda de la AI”, escribió ZeroPage Homebrew en el foro de Atari Age."
               },
               {
                 "t": "p",
-                "x": "Superó las 100,000 copias a los 3 días del lanzamiento y las 200,000 a los 6 días. Actualmente incluye 6 fases y un modo infinito, y se seguirán corrigiendo errores, ajustando el equilibrio y añadiendo contenido nuevo según los comentarios. Ya está a la venta para PC (Steam)."
+                "x": "La tarea no consistía solo en revisar las candidaturas, sino en decidir qué límite fijar, si acaso, para el uso de AI. Los juegos generados al 100% por AI quedaban descartados, pero ¿qué pasa con los que usaron AI para la música, el arte o la programación? No hay formas sencillas de verificar cuánta AI se ha usado: requiere una declaración honesta, y el software de detección puede dar falsos positivos."
+              },
+              {
+                "t": "p",
+                "x": "“No vi ningún camino a seguir y tomé la difícil decisión de suspender los Atari Homebrew Awards este año”, escribió ZeroPage. La publicación del foro acumula ya cientos de comentarios que debaten el lugar de la AI en la escena homebrew de Atari y más allá."
               }
             ]
           }
@@ -757,15 +777,15 @@
       }
     },
     {
-      "id": "tinybuild-short-reveal-window",
+      "id": "gta6-recomp-leonida-takedown",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Tinybuild, AI\n복제 전에 출시 서둘러",
-      "body": "Tinybuild는 AI 복제 전 Probably Stolen을 석 달 만에 냈다.",
-      "mini_headline": "AI 복제보다 빠른 출시",
+      "headline": "Take-Two 삭제조치에\nGTA 6 이식 리드 사임",
+      "body": "Xbox→PC AI-assisted 이식 Leonida의 리드 둘 이상이 떠났다.",
+      "mini_headline": "GTA 6 리컴파일 리드 하차",
       "tool": "Games",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -773,203 +793,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
           },
           {
             "t": "p",
-            "x": "\"앞으로 반년 동안 가장 큰 화두는 출시까지 걸리는 시간, 그리고 개발자들이 이제 AI가 자기 게임을 베낄까 봐 두려워한다는 점이 될 것\"이라고 Tinybuild 대표 Alex Nichiporchik는 말한다. 생성형 AI가 나오면서 데모 코드를 리버스 엔지니어링해 개발 중인 게임을 베끼기가 쉬워졌다. Needle in a Haystack Simulator는 X에서 영상 하나가 5000만 회 넘게 조회되자 Steam에 모방작이 잇달아 올라왔다."
+            "x": "유출자 Cyberleek가 거의 완성된 Grand Theft Auto 6 Xbox 빌드의 실행 파일을 공개한 지 불과 하루 만에 Leonida의 리드 가운데 최소 두 명이 손을 뗐다. Leonida는 이 빌드를 PC에서 돌리려는 리컴파일 프로젝트 중 가장 크고 잘 알려진 곳이다. Take-Two와 Rockstar의 압박이 원인으로 보인다."
           },
           {
             "t": "p",
-            "x": "그래서 요즘은 발표와 출시 사이 간격을 최대한 줄이는 게 정석이 됐다. Probably Stolen은 8월 3일 발표 후 10월 28일 나왔다. 벌써 백만 장 넘게 팔렸고 출시 CCU는 80,000명을 넘었다."
-          },
-          {
-            "t": "img",
-            "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-            "cap": "Probably Stolen은 공개 약 석 달 뒤인 10월 28일 출시됐다"
+            "x": "이 exe가 나오면서 리컴파일 프로젝트들은 AI로 PC판을 빠르게 만들어 낼 길을 얻었다. 팀은 라이브 방송에서 PC로 GTA 6 스플래시 화면을 띄우는 데까지 성공했지만, 게임은 곧바로 멈췄다."
           },
           {
             "t": "p",
-            "x": "Nichiporchik는 REA(Reverse Engineer Anything) 같은 도구 때문에 복제 문제가 훨씬 심해졌다며 \"특히 Unity 게임은 소스 코드를 거의 한 번에 뽑아낼 수 있다\"고 말한다. 그래도 개발자가 겁낼 일은 아니라고 한다. \"AI는 실력을 몇 배로 키워 주지만, 영에 천을 곱해도 여전히 영\"이며, 게임의 손맛은 베낄 수 없다는 것이다."
+            "x": "프로젝트 책임자로 보이는 NotRexed는 X에 “여러분, 그만두겠습니다. 죄송합니다.”라고 올린 뒤 “Rockstar가 내 서버를 내린 건 이유의 일부일 뿐”이라고 덧붙였다. 다른 리드 Shayder는 자기 X 게시물을 전부 지웠다."
           },
           {
             "t": "p",
-            "x": "중국 반응도 뜨거웠다. 플레이테스트 활성화 246,000건 중 51%가 중국에서 나왔고, 가격은 미국(US)의 $19.99에 비해 55위안($8.25)이었다."
+            "x": "비슷한 프로젝트가 여럿 돌아가고 있고, 새 GitHub 저장소는 스스로를 “NotRexed's Leonida 프로젝트의 후속”이라고 소개한다. AI 덕분에 콘솔 게임을 PC로 옮기기가 훨씬 쉽고 빨라졌고, 이를 막으려는 기업들의 처지는 더 곤란해졌다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Tinybuild shortens the hype\nwindow to beat AI clones",
-          "body": "Tinybuild gave Probably Stolen just three months from reveal to release, leaving AI copycats little time to clone it.",
-          "mini_headline": "Launch fast to beat AI clones",
+          "headline": "GTA 6 recomp leads quit after\nTake-Two takedowns",
+          "body": "At least two leads of Leonida, an AI-assisted effort to port the leaked Xbox build to PC, quit while others carry on.",
+          "mini_headline": "GTA 6 recomp leads quit",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "\"I think the biggest talking point over the next half year is going to be the time to market, and how devs are now afraid of how AI copies their games,\" says Tinybuild head Alex Nichiporchik. Generative AI makes it easier to copy in-development titles, for example by reverse engineering code from demos; Needle in a Haystack Simulator drew multiple copycats on Steam after a video got more than 50 million views on X."
+                "x": "Just a day after leaker Cyberleek released the executable for the near-complete Xbox build of Grand Theft Auto 6, at least two of the leads of Leonida, the biggest and best-known effort to recompile it to run on PC, have called it quits—seemingly under pressure from Take-Two and Rockstar."
               },
               {
                 "t": "p",
-                "x": "The new wisdom is to keep the gap between announcement and launch to a minimum. Probably Stolen was announced on August 3 and released on October 28, and has already sold more than a million units, with launch CCU climbing above 80,000."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "Probably Stolen was released on October 28, around three months after it was revealed"
+                "x": "The exe opened the door for recomp projects to leverage AI to quickly whip up a version of the game that will run on PC. During a livestream the team got the GTA 6 splash screen to come up on PC, although it crashed after that."
               },
               {
                 "t": "p",
-                "x": "Nichiporchik says the tool REA (Reverse Engineer Anything) has made clones much worse: \"especially for Unity games, you can pretty much one shot the source code.\" Still, he says devs shouldn't be afraid: \"AI will multiply your skills, and zero times a thousand is still zero\" — game feel is impossible to copy."
+                "x": "“I quit guys. I’m sorry,” NotRexed, apparently the head of the project, posted on X, later adding that “Rockstar taking my server down was only part of the reason.” Shayder, another lead, deleted all of their X posts."
               },
               {
                 "t": "p",
-                "x": "The game also took off in China, where 51% of 246,000 playtest activations came from and it was priced at 55 yuan ($8.25) versus $19.99 in the US."
+                "x": "Other such projects are underway, and a new GitHub repository describes itself as “a continuation of NotRexed's Leonida project.” The advent of AI greatly simplifies and speeds up bringing console games to PC, which makes life tougher for companies that want to keep a lid on such projects."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Tinybuild, AI\n복제 전에 출시 서둘러",
-          "body": "Tinybuild는 AI 복제 전 Probably Stolen을 석 달 만에 냈다.",
-          "mini_headline": "AI 복제보다 빠른 출시",
+          "headline": "Take-Two 삭제조치에\nGTA 6 이식 리드 사임",
+          "body": "Xbox→PC AI-assisted 이식 Leonida의 리드 둘 이상이 떠났다.",
+          "mini_headline": "GTA 6 리컴파일 리드 하차",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "\"앞으로 반년 동안 가장 큰 화두는 출시까지 걸리는 시간, 그리고 개발자들이 이제 AI가 자기 게임을 베낄까 봐 두려워한다는 점이 될 것\"이라고 Tinybuild 대표 Alex Nichiporchik는 말한다. 생성형 AI가 나오면서 데모 코드를 리버스 엔지니어링해 개발 중인 게임을 베끼기가 쉬워졌다. Needle in a Haystack Simulator는 X에서 영상 하나가 5000만 회 넘게 조회되자 Steam에 모방작이 잇달아 올라왔다."
+                "x": "유출자 Cyberleek가 거의 완성된 Grand Theft Auto 6 Xbox 빌드의 실행 파일을 공개한 지 불과 하루 만에 Leonida의 리드 가운데 최소 두 명이 손을 뗐다. Leonida는 이 빌드를 PC에서 돌리려는 리컴파일 프로젝트 중 가장 크고 잘 알려진 곳이다. Take-Two와 Rockstar의 압박이 원인으로 보인다."
               },
               {
                 "t": "p",
-                "x": "그래서 요즘은 발표와 출시 사이 간격을 최대한 줄이는 게 정석이 됐다. Probably Stolen은 8월 3일 발표 후 10월 28일 나왔다. 벌써 백만 장 넘게 팔렸고 출시 CCU는 80,000명을 넘었다."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "Probably Stolen은 공개 약 석 달 뒤인 10월 28일 출시됐다"
+                "x": "이 exe가 나오면서 리컴파일 프로젝트들은 AI로 PC판을 빠르게 만들어 낼 길을 얻었다. 팀은 라이브 방송에서 PC로 GTA 6 스플래시 화면을 띄우는 데까지 성공했지만, 게임은 곧바로 멈췄다."
               },
               {
                 "t": "p",
-                "x": "Nichiporchik는 REA(Reverse Engineer Anything) 같은 도구 때문에 복제 문제가 훨씬 심해졌다며 \"특히 Unity 게임은 소스 코드를 거의 한 번에 뽑아낼 수 있다\"고 말한다. 그래도 개발자가 겁낼 일은 아니라고 한다. \"AI는 실력을 몇 배로 키워 주지만, 영에 천을 곱해도 여전히 영\"이며, 게임의 손맛은 베낄 수 없다는 것이다."
+                "x": "프로젝트 책임자로 보이는 NotRexed는 X에 “여러분, 그만두겠습니다. 죄송합니다.”라고 올린 뒤 “Rockstar가 내 서버를 내린 건 이유의 일부일 뿐”이라고 덧붙였다. 다른 리드 Shayder는 자기 X 게시물을 전부 지웠다."
               },
               {
                 "t": "p",
-                "x": "중국 반응도 뜨거웠다. 플레이테스트 활성화 246,000건 중 51%가 중국에서 나왔고, 가격은 미국(US)의 $19.99에 비해 55위안($8.25)이었다."
+                "x": "비슷한 프로젝트가 여럿 돌아가고 있고, 새 GitHub 저장소는 스스로를 “NotRexed's Leonida 프로젝트의 후속”이라고 소개한다. AI 덕분에 콘솔 게임을 PC로 옮기기가 훨씬 쉽고 빨라졌고, 이를 막으려는 기업들의 처지는 더 곤란해졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI模倣に先手を打つ\nTinybuildの告知短縮",
-          "body": "TinybuildはAI模倣の前にProbably Stolenを三か月で発売した。",
-          "mini_headline": "AI模倣に勝つには早期発売",
+          "headline": "Take-Twoの削除で\nGTA 6移植リードが離脱",
+          "body": "Xbox版をPCへ移すAI-assistedのLeonidaで、リード二人以上が抜けた。",
+          "mini_headline": "GTA 6リコンパイルのリードが離脱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "「今後半年で最大の話題になるのは市場投入までの期間と、AIに自分のゲームを模倣されることを開発者が恐れている現状だと思う」と、Tinybuild代表のAlex Nichiporchik氏は語る。生成AIによって、デモからコードをリバースエンジニアリングするなどして開発中のタイトルを模倣しやすくなった。Needle in a Haystack Simulatorは、Xで動画が5000万回以上再生された後、Steamに複数の模倣作が現れた。"
+                "x": "リーカーのCyberleekが、ほぼ完成したGrand Theft Auto 6のXboxビルドの実行ファイルを公開してからわずか一日後、これをPCで動かすためのリコンパイル計画として最大かつ最も知られるLeonidaのリードのうち、少なくとも二人が手を引いた。Take-TwoとRockstarからの圧力を受けたものとみられる。"
               },
               {
                 "t": "p",
-                "x": "新たな定石は、発表から発売までの間隔を最小限に抑えることだ。Probably Stolenは8月3日に発表されて10月28日に発売され、すでに百万本以上を売り上げ、発売時のCCUは80,000を超えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "Probably Stolenは公開から約三か月後の10月28日に発売された"
+                "x": "このexeによって、リコンパイル計画がAIを活用し、PCで動くゲームのバージョンを素早く作り上げる道が開かれた。チームはライブ配信中にPC上でGTA 6のスプラッシュ画面を表示させたが、その後クラッシュした。"
               },
               {
                 "t": "p",
-                "x": "Nichiporchik氏は、REA（Reverse Engineer Anything）というツールによってクローン問題がはるかに悪化したと言う。「特にUnityのゲームなら、ソースコードをほぼ一発で抜き出せる」。それでも開発者は恐れる必要はないと述べる。「AIはスキルを何倍にもするが、ゼロに千を掛けてもゼロのままだ」。ゲームの手触りは模倣できないという。"
+                "x": "「みんな、辞めるよ。ごめん」。プロジェクトの責任者とみられるNotRexedはXにそう投稿し、のちに「Rockstarにサーバーを落とされたのは理由の一部にすぎない」と付け加えた。もう一人のリードであるShayderは、自身のX投稿をすべて削除した。"
               },
               {
                 "t": "p",
-                "x": "本作は中国でも人気を博した。プレイテストのアクティベーション246,000件のうち51%が中国からで、価格は米国（US）の$19.99に対し55元（$8.25）だった。"
+                "x": "同様のプロジェクトはほかにも進行中で、新たなGitHubリポジトリは自らを「NotRexed's Leonidaプロジェクトの継続」と称している。AIの登場によりコンソールゲームのPC移植は大幅に簡単かつ迅速になり、こうしたプロジェクトを抑え込みたい企業にとっては厳しい状況になっている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tinybuild缩短宣传期\n抢在AI克隆之前",
-          "body": "Tinybuild让Probably Stolen公布三个月即发售，AI抄袭者无暇跟进。",
-          "mini_headline": "快速发售，抢先AI克隆",
+          "headline": "遭Take-Two下架后\nGTA 6重编译负责人退出",
+          "body": "将泄露Xbox版移至PC的AI-assisted项目Leonida，至少两名负责人已退出。",
+          "mini_headline": "GTA 6重编译负责人退出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "“我认为未来半年最大的话题将是上市时间，以及开发者如今多么害怕AI抄袭他们的游戏。”Tinybuild负责人Alex Nichiporchik说。生成式AI让抄袭开发中的作品变得更容易，例如对试玩版代码进行逆向工程；Needle in a Haystack Simulator的一段视频在X上播放量超过5000万次后，Steam上出现了多款模仿作品。"
+                "x": "就在爆料者Cyberleek公开近乎完成的Grand Theft Auto 6 Xbox版本可执行文件仅一天后，规模最大、最知名的PC重编译项目Leonida至少有两名负责人宣布退出——似乎是迫于Take-Two和Rockstar的压力。"
               },
               {
                 "t": "p",
-                "x": "新的共识是把公布与发售之间的间隔压到最短。Probably Stolen于8月3日公布、10月28日发售，销量已超过百万份，首发CCU攀升至80,000以上。"
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "Probably Stolen于10月28日发售，距公布约三个月"
+                "x": "这个exe为重编译项目打开了大门，让它们能借助AI迅速做出可在PC上运行的游戏版本。团队在一次直播中让GTA 6的启动画面在PC上显示出来，不过随后便崩溃了。"
               },
               {
                 "t": "p",
-                "x": "Nichiporchik表示，REA（Reverse Engineer Anything）这一工具让克隆问题严重得多：“尤其是Unity游戏，几乎一次就能提取出源代码。”不过他认为开发者不必害怕：“AI会成倍放大你的技能，而零乘以一千仍然是零。”游戏手感是无法复制的。"
+                "x": "“我不干了，伙计们。抱歉。”看似是项目负责人的NotRexed在X上发帖，随后补充说：“Rockstar关掉我的服务器只是部分原因。”另一名负责人Shayder删除了其全部X帖子。"
               },
               {
                 "t": "p",
-                "x": "该游戏在中国也大受欢迎：246,000次试玩激活中有51%来自中国，定价为55元（$8.25），而在美国（US）为$19.99。"
+                "x": "其他类似项目仍在推进，一个新的GitHub仓库自称是“NotRexed's Leonida项目的延续”。AI的出现让主机游戏移植到PC变得更简单、更快速，也让想压住这类项目的公司更加头疼。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tinybuild acorta la promoción\npara adelantarse a clones de AI",
-          "body": "Tinybuild dio a Probably Stolen solo tres meses de anuncio a lanzamiento, y dejó poco margen a los clones de AI.",
-          "mini_headline": "Lanzar rápido para ganar a los clones de AI",
+          "headline": "Tras las retiradas de Take-Two,\ndimiten líderes del recomp GTA 6",
+          "body": "Al menos dos líderes de Leonida, iniciativa AI-assisted para llevar la build filtrada de Xbox a PC, lo dejan.",
+          "mini_headline": "Dimiten líderes del recomp de GTA 6",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "\"Creo que el mayor tema de conversación en el próximo medio año será el tiempo de llegada al mercado y cómo los desarrolladores temen ahora que la AI copie sus juegos\", dice el director de Tinybuild, Alex Nichiporchik. La AI generativa facilita copiar títulos en desarrollo, por ejemplo mediante ingeniería inversa del código de las demos; Needle in a Haystack Simulator atrajo varias copias en Steam después de que un video superara los 50 millones de visualizaciones en X."
+                "x": "Apenas un día después de que el filtrador Cyberleek publicara el ejecutable de la build casi completa de Grand Theft Auto 6 para Xbox, al menos dos de los líderes de Leonida, el mayor y más conocido intento de recompilarlo para que funcione en PC, lo han dejado, al parecer bajo presión de Take-Two y Rockstar."
               },
               {
                 "t": "p",
-                "x": "La nueva norma es reducir al mínimo el intervalo entre el anuncio y el lanzamiento. Probably Stolen se anunció el 3 de agosto y salió el 28 de octubre; ya ha vendido más de un millón de unidades y su CCU de lanzamiento superó los 80,000."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "Probably Stolen salió el 28 de octubre, unos tres meses después de su presentación"
+                "x": "El exe abrió la puerta a que los proyectos de recompilación aprovecharan la AI para preparar rápidamente una versión del juego que funcione en PC. Durante una retransmisión en directo, el equipo logró mostrar la pantalla de inicio de GTA 6 en PC, aunque después el juego se bloqueó."
               },
               {
                 "t": "p",
-                "x": "Nichiporchik afirma que la herramienta REA (Reverse Engineer Anything) ha agravado mucho las copias: \"sobre todo en los juegos de Unity, se puede obtener el código fuente prácticamente de una sola vez\". Aun así, dice que los desarrolladores no deberían tener miedo: \"la AI multiplicará tus habilidades, y cero por mil sigue siendo cero\"; la sensación de juego es imposible de copiar."
+                "x": "“Lo dejo, chicos. Lo siento”, publicó en X NotRexed, al parecer el responsable del proyecto, que después añadió que “que Rockstar tumbara mi servidor fue solo parte del motivo”. Shayder, otro de los líderes, borró todas sus publicaciones en X."
               },
               {
                 "t": "p",
-                "x": "El juego también triunfó en China, de donde procedió el 51% de las 246,000 activaciones de la prueba de juego, con un precio de 55 yuanes ($8.25) frente a $19.99 en Estados Unidos (US)."
+                "x": "Hay otros proyectos similares en marcha, y un nuevo repositorio de GitHub se describe como “una continuación del proyecto NotRexed's Leonida”. La llegada de la AI simplifica y acelera mucho el traslado de juegos de consola a PC, lo que complica las cosas a las empresas que quieren mantener a raya este tipo de proyectos."
               }
             ]
           }
@@ -977,141 +967,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Tinybuild, AI\n복제 전에 출시 서둘러",
-          "body": "Tinybuild는 AI 복제 전 Probably Stolen을 석 달 만에 냈다.",
-          "mini_headline": "AI 복제보다 빠른 출시",
+          "headline": "Take-Two 삭제조치에\nGTA 6 이식 리드 사임",
+          "body": "Xbox→PC AI-assisted 이식 Leonida의 리드 둘 이상이 떠났다.",
+          "mini_headline": "GTA 6 리컴파일 리드 하차",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "\"앞으로 반년 동안 가장 큰 화두는 출시까지 걸리는 시간, 그리고 개발자들이 이제 AI가 자기 게임을 베낄까 봐 두려워한다는 점이 될 것\"이라고 Tinybuild 대표 Alex Nichiporchik는 말한다. 생성형 AI 덕분에 데모의 코드를 리버스 엔지니어링하는 식으로 개발 중인 게임을 베끼기가 쉬워졌다. Needle in a Haystack Simulator는 X에서 한 영상이 5000만 회 넘게 조회된 뒤 Steam에 여러 모방작이 등장했다."
+                "x": "유출자 Cyberleek가 거의 완성된 Grand Theft Auto 6 Xbox 빌드의 실행 파일을 공개한 지 불과 하루 만에, 이를 PC에서 돌아가도록 리컴파일하려는 가장 크고 잘 알려진 프로젝트인 Leonida의 리드 중 최소 두 명이 손을 뗐다. Take-Two와 Rockstar의 압박 때문인 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "새로운 통념은 발표와 출시 사이의 간격을 최소한으로 줄이는 것이다. Probably Stolen은 8월 3일 발표돼 10월 28일 출시됐고, 이미 백만 장 넘게 팔렸으며 출시 CCU는 80,000명을 넘었다."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "Probably Stolen은 공개 약 석 달 뒤인 10월 28일 출시됐다"
+                "x": "이 exe 덕분에 리컴파일 프로젝트들은 AI를 활용해 PC에서 돌아가는 게임 버전을 빠르게 만들어낼 길이 열렸다. 팀은 라이브 방송 중 PC에서 GTA 6 스플래시 화면을 띄우는 데 성공했지만, 그 직후 게임이 멈췄다."
               },
               {
                 "t": "p",
-                "x": "Nichiporchik는 REA(Reverse Engineer Anything) 같은 도구 때문에 복제 문제가 훨씬 심해졌다며 \"특히 Unity 게임은 소스 코드를 거의 한 번에 뽑아낼 수 있다\"고 말한다. 그래도 개발자가 두려워할 필요는 없다고 그는 말한다. \"AI는 실력을 몇 배로 키워 주지만, 영에 천을 곱해도 여전히 영\"이며, 게임의 손맛은 베낄 수 없다는 것이다."
+                "x": "“여러분, 그만두겠습니다. 죄송합니다.” 프로젝트 책임자로 보이는 NotRexed는 X에 이렇게 올렸고, 이후 “Rockstar가 내 서버를 내린 건 이유의 일부일 뿐”이라고 덧붙였다. 또 다른 리드인 Shayder는 자신의 X 게시물을 모두 삭제했다."
               },
               {
                 "t": "p",
-                "x": "이 게임은 중국에서도 인기를 끌었다. 플레이테스트 활성화 246,000건 중 51%가 중국에서 나왔고, 가격은 미국(US)의 $19.99에 비해 55위안($8.25)이었다."
+                "x": "비슷한 프로젝트가 여럿 진행 중이며, 새 GitHub 저장소는 스스로를 “NotRexed's Leonida 프로젝트의 후속”이라고 소개한다. AI의 등장으로 콘솔 게임을 PC로 옮기는 일이 훨씬 쉽고 빨라졌고, 이런 프로젝트를 막으려는 기업들은 더 힘든 처지에 놓였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI模倣に先手を打つ\nTinybuildの告知短縮",
-          "body": "TinybuildはAI模倣の前にProbably Stolenを三か月で発売した。",
-          "mini_headline": "AI模倣に勝つには早期発売",
+          "headline": "Take-Twoの削除で\nGTA 6移植リードが離脱",
+          "body": "Xbox版をPCへ移すAI-assistedのLeonidaで、リード二人以上が抜けた。",
+          "mini_headline": "GTA 6リコンパイルのリードが離脱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "「今後半年で最大の話題になるのは市場投入までの期間と、AIに自分のゲームを模倣されることを開発者が恐れている現状だと思う」と、Tinybuild代表のAlex Nichiporchik氏は語る。生成AIによって、デモからコードをリバースエンジニアリングするなどして開発中のタイトルを模倣しやすくなった。Needle in a Haystack Simulatorは、Xで動画が5000万回以上再生された後、Steamに複数の模倣作が現れた。"
+                "x": "リーカーのCyberleekが、ほぼ完成したGrand Theft Auto 6のXboxビルドの実行ファイルを公開してからわずか一日後、これをPCで動かすためのリコンパイル計画として最大かつ最も知られるLeonidaのリードのうち、少なくとも二人が手を引いた。Take-TwoとRockstarからの圧力を受けたものとみられる。"
               },
               {
                 "t": "p",
-                "x": "新たな定石は、発表から発売までの間隔を最小限に抑えることだ。Probably Stolenは8月3日に発表されて10月28日に発売され、すでに百万本以上を売り上げ、発売時のCCUは80,000を超えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "Probably Stolenは公開から約三か月後の10月28日に発売された"
+                "x": "このexeによって、リコンパイル計画がAIを活用し、PCで動くゲームのバージョンを素早く作り上げる道が開かれた。チームはライブ配信中にPC上でGTA 6のスプラッシュ画面を表示させたが、その後クラッシュした。"
               },
               {
                 "t": "p",
-                "x": "Nichiporchik氏は、REA（Reverse Engineer Anything）というツールによってクローン問題がはるかに悪化したと言う。「特にUnityのゲームなら、ソースコードをほぼ一発で抜き出せる」。それでも開発者は恐れる必要はないと述べる。「AIはスキルを何倍にもするが、ゼロに千を掛けてもゼロのままだ」。ゲームの手触りは模倣できないという。"
+                "x": "「みんな、辞めるよ。ごめん」。プロジェクトの責任者とみられるNotRexedはXにそう投稿し、のちに「Rockstarにサーバーを落とされたのは理由の一部にすぎない」と付け加えた。もう一人のリードであるShayderは、自身のX投稿をすべて削除した。"
               },
               {
                 "t": "p",
-                "x": "本作は中国でも人気を博した。プレイテストのアクティベーション246,000件のうち51%が中国からで、価格は米国（US）の$19.99に対し55元（$8.25）だった。"
+                "x": "同様のプロジェクトはほかにも進行中で、新たなGitHubリポジトリは自らを「NotRexed's Leonidaプロジェクトの継続」と称している。AIの登場によりコンソールゲームのPC移植は大幅に簡単かつ迅速になり、こうしたプロジェクトを抑え込みたい企業にとっては厳しい状況になっている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tinybuild缩短宣传期\n抢在AI克隆之前",
-          "body": "Tinybuild让Probably Stolen公布三个月即发售，AI抄袭者无暇跟进。",
-          "mini_headline": "快速发售，抢先AI克隆",
+          "headline": "遭Take-Two下架后\nGTA 6重编译负责人退出",
+          "body": "将泄露Xbox版移至PC的AI-assisted项目Leonida，至少两名负责人已退出。",
+          "mini_headline": "GTA 6重编译负责人退出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "“我认为未来半年最大的话题将是上市时间，以及开发者如今多么害怕AI抄袭他们的游戏。”Tinybuild负责人Alex Nichiporchik说。生成式AI让抄袭开发中的作品变得更容易，例如对试玩版代码进行逆向工程；Needle in a Haystack Simulator的一段视频在X上播放量超过5000万次后，Steam上出现了多款模仿作品。"
+                "x": "就在爆料者Cyberleek公开近乎完成的Grand Theft Auto 6 Xbox版本可执行文件仅一天后，规模最大、最知名的PC重编译项目Leonida至少有两名负责人宣布退出——似乎是迫于Take-Two和Rockstar的压力。"
               },
               {
                 "t": "p",
-                "x": "新的共识是把公布与发售之间的间隔压到最短。Probably Stolen于8月3日公布、10月28日发售，销量已超过百万份，首发CCU攀升至80,000以上。"
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "Probably Stolen于10月28日发售，距公布约三个月"
+                "x": "这个exe为重编译项目打开了大门，让它们能借助AI迅速做出可在PC上运行的游戏版本。团队在一次直播中让GTA 6的启动画面在PC上显示出来，不过随后便崩溃了。"
               },
               {
                 "t": "p",
-                "x": "Nichiporchik表示，REA（Reverse Engineer Anything）这一工具让克隆问题严重得多：“尤其是Unity游戏，几乎一次就能提取出源代码。”不过他认为开发者不必害怕：“AI会成倍放大你的技能，而零乘以一千仍然是零。”游戏手感是无法复制的。"
+                "x": "“我不干了，伙计们。抱歉。”看似是项目负责人的NotRexed在X上发帖，随后补充说：“Rockstar关掉我的服务器只是部分原因。”另一名负责人Shayder删除了其全部X帖子。"
               },
               {
                 "t": "p",
-                "x": "该游戏在中国也大受欢迎：246,000次试玩激活中有51%来自中国，定价为55元（$8.25），而在美国（US）为$19.99。"
+                "x": "其他类似项目仍在推进，一个新的GitHub仓库自称是“NotRexed's Leonida项目的延续”。AI的出现让主机游戏移植到PC变得更简单、更快速，也让想压住这类项目的公司更加头疼。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tinybuild acorta la promoción\npara adelantarse a clones de AI",
-          "body": "Tinybuild dio a Probably Stolen solo tres meses de anuncio a lanzamiento, y dejó poco margen a los clones de AI.",
-          "mini_headline": "Lanzar rápido para ganar a los clones de AI",
+          "headline": "Tras las retiradas de Take-Two,\ndimiten líderes del recomp GTA 6",
+          "body": "Al menos dos líderes de Leonida, iniciativa AI-assisted para llevar la build filtrada de Xbox a PC, lo dejan.",
+          "mini_headline": "Dimiten líderes del recomp de GTA 6",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably_Stolen_Key_Art_3840x2160_October2026_PNG_Clean.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "\"Creo que el mayor tema de conversación en el próximo medio año será el tiempo de llegada al mercado y cómo los desarrolladores temen ahora que la AI copie sus juegos\", dice el director de Tinybuild, Alex Nichiporchik. La AI generativa facilita copiar títulos en desarrollo, por ejemplo mediante ingeniería inversa del código de las demos; Needle in a Haystack Simulator atrajo varias copias en Steam después de que un video superara los 50 millones de visualizaciones en X."
+                "x": "Apenas un día después de que el filtrador Cyberleek publicara el ejecutable de la build casi completa de Grand Theft Auto 6 para Xbox, al menos dos de los líderes de Leonida, el mayor y más conocido intento de recompilarlo para que funcione en PC, lo han dejado, al parecer bajo presión de Take-Two y Rockstar."
               },
               {
                 "t": "p",
-                "x": "La nueva norma es reducir al mínimo el intervalo entre el anuncio y el lanzamiento. Probably Stolen se anunció el 3 de agosto y salió el 28 de octubre; ya ha vendido más de un millón de unidades y su CCU de lanzamiento superó los 80,000."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Probably-Stolen.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "Probably Stolen salió el 28 de octubre, unos tres meses después de su presentación"
+                "x": "El exe abrió la puerta a que los proyectos de recompilación aprovecharan la AI para preparar rápidamente una versión del juego que funcione en PC. Durante una retransmisión en directo, el equipo logró mostrar la pantalla de inicio de GTA 6 en PC, aunque después el juego se bloqueó."
               },
               {
                 "t": "p",
-                "x": "Nichiporchik afirma que la herramienta REA (Reverse Engineer Anything) ha agravado mucho las copias: \"sobre todo en los juegos de Unity, se puede obtener el código fuente prácticamente de una sola vez\". Aun así, dice que los desarrolladores no deberían tener miedo: \"la AI multiplicará tus habilidades, y cero por mil sigue siendo cero\"; la sensación de juego es imposible de copiar."
+                "x": "“Lo dejo, chicos. Lo siento”, publicó en X NotRexed, al parecer el responsable del proyecto, que después añadió que “que Rockstar tumbara mi servidor fue solo parte del motivo”. Shayder, otro de los líderes, borró todas sus publicaciones en X."
               },
               {
                 "t": "p",
-                "x": "El juego también triunfó en China, de donde procedió el 51% de las 246,000 activaciones de la prueba de juego, con un precio de 55 yuanes ($8.25) frente a $19.99 en Estados Unidos (US)."
+                "x": "Hay otros proyectos similares en marcha, y un nuevo repositorio de GitHub se describe como “una continuación del proyecto NotRexed's Leonida”. La llegada de la AI simplifica y acelera mucho el traslado de juegos de consola a PC, lo que complica las cosas a las empresas que quieren mantener a raya este tipo de proyectos."
               }
             ]
           }
@@ -1119,15 +1089,15 @@
       }
     },
     {
-      "id": "automaton-steam-ai-disclosure",
+      "id": "shogi-ai-denryusen-sente",
       "source_lang": "ja",
       "eyebrow": "AI NEWS",
-      "headline": "AI 공개작 판매 부진\n표시 탓만은 아니다",
-      "body": "AI 공개 Steam 게임은 덜 팔리지만, 상당수는 애초에 불리했을 수 있다.",
-      "mini_headline": "AI 공개와 판매의 관계",
+      "headline": "쇼기 AI 너무 강해져\n선공 승률 8할",
+      "body": "덴류센 결승에서 시간차에도 선공이 약 8할을 이겨 야네우라오가 운영난을 짚었다.",
+      "mini_headline": "쇼기 AI, 선공 8할 승리",
       "tool": "Games",
       "source": "AUTOMATON",
-      "url": "https://automaton-media.com/articles/newsjp/20261120-480176/",
+      "url": "https://automaton-media.com/articles/newsjp/20261123-480506/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1135,221 +1105,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
           },
           {
             "t": "p",
-            "x": "AI 사용을 공개하면 Steam 판매량이 달라지는지, 리뷰 수로 판매량을 추정해 통계로 따져 본 보고서가 나왔다. 2025년 1월부터 2026년 10월까지 출시된 3만1003편이 대상이며, 이 중 약 삼십 퍼센트인 9251편이 AI 사용을 밝혔다."
+            "x": "NPO 법인 AI 덴류센 프로젝트가 11월 14일과 15일 문부과학대신배 제7회 세계 쇼기 AI 덴류센 본선을 열었다. 대회가 끝난 뒤 쇼기 AI ‘야네우라왕’ 개발자 야네우라오 씨는 블로그에 쇼기 AI가 너무 강해져 대회 운영이 어려워지고 있다는 생각을 밝혔다."
           },
           {
             "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
           },
           {
             "t": "p",
-            "x": "추정 판매량 중앙값은 AI 사용을 공개하지 않은 게임이 200장, 공개한 게임이 71장이다. 조건을 맞춘 추정 모델에서도 AI 사용을 공개한 게임은 리뷰 수가 49.5% 적게 나왔다. 그렇다고 인과관계가 입증된 것은 아니다."
-          },
-          {
-            "t": "p",
-            "x": "스토어 페이지 공개부터 출시까지 걸린 기간의 중앙값은 비공개 게임이 167일, 공개 게임이 52일이다. 출시 당일 팔로워 수도 20명 대 6명이었다. Burton은 \"문제의 본질은 AI가 아닐지도 모른다\"고 말하며, 이런 게임 상당수가 퍼블리셔도 팬층도 없는 첫 작품에 준비 기간까지 짧은 \"지는 패턴\"이라고 짚었다."
+            "x": "결승 리그에는 10개 팀이 나섰다. 같은 상대와 선공·후공을 모두 두는 방식이었고, 유리하다고 여겨지는 선공의 제한 시간은 3분(후공은 10분, 1수마다 2초 추가)으로 묶었다. 후공이 조금 유리한 규칙인데도 선공 승률은 약 80%에 달했다."
           },
           {
             "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
           },
           {
             "t": "p",
-            "x": "AI 사용을 밝힌 데 따른 \"페널티\"가 발매 전부터 생길 수 있다는 지적도 덧붙였다. 준비 부족 탓인지 AI 기피 탓인지는 단정할 수 없고, 둘을 떼어 놓기도 어렵다는 입장이다."
+            "x": "과거 프로 기사 공식전에서 선공 승률은 52~53% 안팎이었다. 올해 세계 컴퓨터 쇼기 선수권과 덴류센 TSEC에서도 선공 승률은 약 80~90%를 찍었다. 센니치테(동일 국면 반복)가 나오면 선공에 0.4승, 후공에 0.6승을 주는 등 후공을 배려한 규칙도 이미 있다."
+          },
+          {
+            "t": "p",
+            "x": "야네우라오 씨는 반년쯤 전부터 코딩 AI가 발전하면서 쇼기 AI 개발도 빠르게 나아갔다고 본다. 상위권 실력 차는 줄었고, 상위 쇼기 AI는 모두 정석에 결함만 없으면 선공으로는 지지 않는 수준에 올라섰다고 한다. 선공과 후공의 차이를 메울 새 규칙을 만드는 일이 앞으로의 과제로 남았다."
           }
         ]
       },
       "text": {
         "ja": {
-          "headline": "AI開示作品の低い売上\n原因は表示とは限らない",
-          "body": "AI開示のSteam作品は売上が低いが、多くは元々不利な作品だった可能性がある。",
-          "mini_headline": "AI開示と売上の関係",
+          "headline": "将棋AIが強すぎて\n先手勝率8割に",
+          "body": "電竜戦決勝で持ち時間に差をつけても先手が約8割勝ち、やねうらお氏が運営難を指摘した。",
+          "mini_headline": "将棋AI、先手8割勝つ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Steamにおけるレビュー数から推定したゲームの売上が、AI使用の開示によってどのような影響を受けるのかを統計学的に分析したレポートが公開された。2025年1月から2026年10月にリリースされた3万1003本が対象で、約30％に当たる9251本がAIの利用を開示している。"
+                "x": "NPO法人AI電竜戦プロジェクトは11月14日と15日、文部科学大臣杯第7回世界将棋AI電竜戦本戦を開催した。その後、将棋AI「やねうら王」の開発者であるやねうらお氏は自身のブログにて、将棋AIが強くなりすぎて大会運営が困難になりつつあるという見解を示した。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
               },
               {
                 "t": "p",
-                "x": "推定売上の中央値は、AI使用非開示ゲームで200本、開示したゲームは71本。条件を揃えた推定モデルでも、AI使用を開示したゲームではレビュー数が49.5％減少すると予測された。ただし因果関係を示すものではない。"
-              },
-              {
-                "t": "p",
-                "x": "ストアページ公開からリリースまでの期間の中央値は非開示ゲームで167日、開示ゲームで52日。リリース当日のフォロワー数も20人対6人だった。Burton氏は「問題の本質はAIではないのかもしれない」と語り、そうしたゲームの多くは初めての作品で、パブリッシャーもファン層もなく準備期間も不十分な「負けパターン」にあると指摘。"
+                "x": "決勝リーグでは10チームが競い合った。対局は同じカードで先手・後手の両方がおこなわれ、有利だとされる先手の持ち時間は3分（後手は10分、1手ごとに2秒加算）。やや後手が有利なルールにも関わらず、先手勝率が約80％に達した。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "一方でAI使用を明記する「ペナルティ」は発売前に発生し得るとも述べ、準備不足とAI忌避のどちらが正しいかは断定できず、両者は切り分けが不可能だとしている。"
+                "x": "過去のプロ棋士の公式戦の先手勝率は52～53％前後。今年の世界コンピュータ将棋選手権や電竜戦TSECでも先手勝率は約80～90％を記録した。千日手では先手に0.4勝、後手に0.6勝が加算されるなど、後手に有利なルールも設けられている。"
+              },
+              {
+                "t": "p",
+                "x": "やねうらお氏によると、半年ほど前からコーディングAIの進歩によって将棋AIの開発も急速に発展。上位勢の実力差が縮まり、上位の将棋AIはどれも定跡に欠陥がない限り先手では負けないレベルに到達しているという。今後は先手と後手の差を埋める新たなルール整備が課題となりそうだ。"
               }
             ]
           }
         },
         "en": {
-          "headline": "Low sales for AI-disclosed games\nThe label may not be the cause",
-          "body": "Steam games that disclose AI use sell less, but many may have been at a disadvantage from the start.",
-          "mini_headline": "AI disclosure and sales",
+          "headline": "Shogi AI is now so strong the\nfirst mover wins 8 in 10",
+          "body": "In the Denryu-sen final, the first mover won about 8 in 10 despite less time, and Yaneurao said it strains organizers.",
+          "mini_headline": "Shogi AI: first mover wins 8 in 10",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
               },
               {
                 "t": "p",
-                "x": "A report has been published that statistically analyzes how disclosing AI use affects game sales on Steam, as estimated from review counts. It covers 31,003 games released between January 2025 and October 2026, of which 9251, roughly thirty percent, disclose the use of AI."
+                "x": "The NPO AI Denryu-sen Project held the main tournament of the 7th World Shogi AI Denryu-sen, the Minister of Education, Culture, Sports, Science and Technology Cup, on November 14 and 15. Afterward, Yaneurao, developer of the shogi AI “Yaneura-ou,” wrote on his blog that shogi AIs have grown so strong that running tournaments is becoming difficult."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
               },
               {
                 "t": "p",
-                "x": "Median estimated sales were 200 copies for games that did not disclose AI use and 71 for those that did. Even in an estimation model with matched conditions, games disclosing AI use were predicted to see 49.5% fewer reviews. This does not, however, show causation."
-              },
-              {
-                "t": "p",
-                "x": "The median time from store page launch to release was 167 days for non-disclosing games and 52 days for disclosing games. Followers on release day were also 20 versus 6. Burton said \"the real issue may not be AI,\" pointing out that many of these games are first titles stuck in a \"losing pattern\" with no publisher, no fan base and too little preparation time."
+                "x": "10 teams competed in the final league. Each pairing was played with both sides taking the first and second move, and the first mover, considered to have the advantage, got 3 minutes (the second mover 10 minutes, plus 2 seconds for every 1 move). Despite rules that slightly favor the second mover, the first mover's win rate reached about 80%."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "He also noted that a \"penalty\" for stating AI use can arise before launch, adding that it cannot be determined whether lack of preparation or aversion to AI is the right explanation, and that the two cannot be separated."
+                "x": "In past official games between professional players, the first mover's win rate has been around 52 to 53%. At this year's World Computer Shogi Championship and the Denryu-sen TSEC, the first mover's win rate was about 80 to 90%. Rules favoring the second mover are also in place, such as awarding 0.4 wins to the first mover and 0.6 wins to the second in a sennichite (repetition draw)."
+              },
+              {
+                "t": "p",
+                "x": "According to Yaneurao, advances in coding AI over roughly the past half year have rapidly accelerated shogi AI development as well. The gap between top contenders has narrowed, and the top shogi AIs have all reached a level where they do not lose as the first mover unless their opening book has a flaw. Creating new rules to close the gap between first and second movers looks set to be the next challenge."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 공개작 판매 부진\n표시 탓만은 아니다",
-          "body": "AI 공개 Steam 게임은 덜 팔리지만, 상당수는 애초에 불리했을 수 있다.",
-          "mini_headline": "AI 공개와 판매의 관계",
+          "headline": "쇼기 AI 너무 강해져\n선공 승률 8할",
+          "body": "덴류센 결승에서 시간차에도 선공이 약 8할을 이겨 야네우라오가 운영난을 짚었다.",
+          "mini_headline": "쇼기 AI, 선공 8할 승리",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
               },
               {
                 "t": "p",
-                "x": "AI 사용을 공개하면 Steam 판매량이 달라지는지, 리뷰 수로 판매량을 추정해 통계로 따져 본 보고서가 나왔다. 2025년 1월부터 2026년 10월까지 출시된 3만1003편이 대상이며, 이 중 약 삼십 퍼센트인 9251편이 AI 사용을 밝혔다."
+                "x": "NPO 법인 AI 덴류센 프로젝트가 11월 14일과 15일 문부과학대신배 제7회 세계 쇼기 AI 덴류센 본선을 열었다. 대회가 끝난 뒤 쇼기 AI ‘야네우라왕’ 개발자 야네우라오 씨는 블로그에 쇼기 AI가 너무 강해져 대회 운영이 어려워지고 있다는 생각을 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
               },
               {
                 "t": "p",
-                "x": "추정 판매량 중앙값은 AI 사용을 공개하지 않은 게임이 200장, 공개한 게임이 71장이다. 조건을 맞춘 추정 모델에서도 AI 사용을 공개한 게임은 리뷰 수가 49.5% 적게 나왔다. 그렇다고 인과관계가 입증된 것은 아니다."
-              },
-              {
-                "t": "p",
-                "x": "스토어 페이지 공개부터 출시까지 걸린 기간의 중앙값은 비공개 게임이 167일, 공개 게임이 52일이다. 출시 당일 팔로워 수도 20명 대 6명이었다. Burton은 \"문제의 본질은 AI가 아닐지도 모른다\"고 말하며, 이런 게임 상당수가 퍼블리셔도 팬층도 없는 첫 작품에 준비 기간까지 짧은 \"지는 패턴\"이라고 짚었다."
+                "x": "결승 리그에는 10개 팀이 나섰다. 같은 상대와 선공·후공을 모두 두는 방식이었고, 유리하다고 여겨지는 선공의 제한 시간은 3분(후공은 10분, 1수마다 2초 추가)으로 묶었다. 후공이 조금 유리한 규칙인데도 선공 승률은 약 80%에 달했다."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "AI 사용을 밝힌 데 따른 \"페널티\"가 발매 전부터 생길 수 있다는 지적도 덧붙였다. 준비 부족 탓인지 AI 기피 탓인지는 단정할 수 없고, 둘을 떼어 놓기도 어렵다는 입장이다."
+                "x": "과거 프로 기사 공식전에서 선공 승률은 52~53% 안팎이었다. 올해 세계 컴퓨터 쇼기 선수권과 덴류센 TSEC에서도 선공 승률은 약 80~90%를 찍었다. 센니치테(동일 국면 반복)가 나오면 선공에 0.4승, 후공에 0.6승을 주는 등 후공을 배려한 규칙도 이미 있다."
+              },
+              {
+                "t": "p",
+                "x": "야네우라오 씨는 반년쯤 전부터 코딩 AI가 발전하면서 쇼기 AI 개발도 빠르게 나아갔다고 본다. 상위권 실력 차는 줄었고, 상위 쇼기 AI는 모두 정석에 결함만 없으면 선공으로는 지지 않는 수준에 올라섰다고 한다. 선공과 후공의 차이를 메울 새 규칙을 만드는 일이 앞으로의 과제로 남았다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI披露作品销量偏低\n原因未必在于标注",
-          "body": "披露使用AI的Steam作品销量较低，但其中许多可能原本就处于不利地位。",
-          "mini_headline": "AI披露与销量的关系",
+          "headline": "将棋AI过于强大\n先手胜率达8成",
+          "body": "电龙战决赛中即便设置用时差，先手仍胜约8成，やねうらお指出赛事难办。",
+          "mini_headline": "将棋AI先手胜率达8成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
               },
               {
                 "t": "p",
-                "x": "一份报告发布，以Steam评论数推算游戏销量，统计分析了披露AI使用会对销量产生怎样的影响。分析对象为2025年1月至2026年10月发售的3万1003款游戏，其中约百分之三十、即9251款披露了AI的使用。"
+                "x": "NPO法人AI电龙战项目于11月14日和15日举办了文部科学大臣杯第7届世界将棋AI电龙战正赛。此后，将棋AI“やねうら王”的开发者やねうらお在个人博客中表示，将棋AI已经强到让赛事运营日益困难。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
               },
               {
                 "t": "p",
-                "x": "推算销量的中位数，未披露AI使用的游戏为200份，披露的游戏为71份。在统一条件的推算模型中，披露AI使用的游戏评论数预计也会减少49.5%。不过，这并不代表因果关系。"
-              },
-              {
-                "t": "p",
-                "x": "从商店页面上线到发售的时间中位数，未披露游戏为167天，披露游戏为52天。发售当天的关注者数量也是20人对6人。Burton表示\"问题的本质或许不在于AI\"，并指出这类游戏多为首部作品，既没有发行商也没有粉丝群，准备时间也不足，处于\"失败模式\"之中。"
+                "x": "决赛联赛共有10支队伍参赛。同一对阵双方各执先手、后手对局，被视为占优的先手用时为3分钟（后手为10分钟，每1手加2秒）。尽管规则略微偏向后手，先手胜率仍达到约80%。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "另一方面，他也表示注明AI使用的\"惩罚\"可能在发售前就已出现，无法断定准备不足与回避AI哪一种解释正确，两者无法区分开来。"
+                "x": "过去职业棋士正式比赛的先手胜率约为52～53%。今年的世界电脑将棋锦标赛和电龙战TSEC中，先手胜率也达到约80～90%。规则中还设有偏向后手的条款，例如千日手时先手计0.4胜、后手计0.6胜。"
+              },
+              {
+                "t": "p",
+                "x": "据やねうらお介绍，大约半年前起，编程AI的进步推动将棋AI开发迅速发展。顶尖选手之间的实力差距缩小，顶级将棋AI只要定式没有缺陷，已达到执先手不会输的水平。今后如何制定新规则来弥合先后手差距，将成为课题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ventas bajas de juegos con AI\nLa etiqueta no siempre es causa",
-          "body": "Los juegos de Steam que declaran uso de AI venden menos, pero muchos quizá ya partían en desventaja.",
-          "mini_headline": "Declarar AI y las ventas",
+          "headline": "La AI de shogi es tan fuerte\nque el primero gana 8 de cada 10",
+          "body": "Yaneurao alerta de que, en la final del Denryu-sen, el primero ganó unas 8 de cada 10 pese a tener menos tiempo.",
+          "mini_headline": "Shogi AI: el primero gana 8 de cada 10",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Se ha publicado un informe que analiza estadísticamente cómo afecta la declaración del uso de AI a las ventas de juegos en Steam, estimadas a partir del número de reseñas. Abarca 31,003 juegos lanzados entre enero de 2025 y octubre de 2026, de los cuales 9251, alrededor del treinta por ciento, declaran el uso de AI."
+                "x": "El AI Denryu-sen Project, una NPO, celebró los días 14 y 15 de noviembre la fase principal del 7.º Campeonato Mundial de Shogi AI Denryu-sen, Copa del Ministro de Educación, Cultura, Deportes, Ciencia y Tecnología. Después, Yaneurao, desarrollador de la AI de shogi «Yaneura-ou», expuso en su blog que las AI de shogi se han vuelto tan fuertes que organizar torneos empieza a ser difícil."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
               },
               {
                 "t": "p",
-                "x": "La mediana de ventas estimadas fue de 200 copias para los juegos que no declararon uso de AI y de 71 para los que sí lo hicieron. Incluso en un modelo de estimación con condiciones igualadas, se predijo que los juegos que declaran uso de AI tendrían un 49.5% menos de reseñas. Sin embargo, esto no demuestra causalidad."
-              },
-              {
-                "t": "p",
-                "x": "La mediana del tiempo entre la publicación de la página en la tienda y el lanzamiento fue de 167 días para los juegos que no lo declararon y de 52 días para los que sí. Los seguidores el día del lanzamiento también fueron 20 frente a 6. Burton afirmó que \"quizá el fondo del problema no sea la AI\" y señaló que muchos de esos juegos son primeras obras atrapadas en un \"patrón perdedor\", sin editora, sin base de fans y con poco tiempo de preparación."
+                "x": "En la liga final compitieron 10 equipos. Cada emparejamiento se jugó con ambos bandos como primero y segundo en mover, y el primero, considerado con ventaja, tenía 3 minutos (el segundo, 10 minutos, con 2 segundos añadidos por cada 1 jugada). Pese a unas reglas que favorecen ligeramente al segundo, la tasa de victorias del primero alcanzó cerca del 80%."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "Por otro lado, indicó que la \"penalización\" por declarar el uso de AI puede producirse antes del lanzamiento, y que no se puede determinar si la explicación correcta es la falta de preparación o el rechazo a la AI, ya que ambas no pueden separarse."
+                "x": "En las partidas oficiales de profesionales, la tasa de victorias del primero ha rondado entre el 52 y el 53%. En el Campeonato Mundial de Shogi por Computadora de este año y en el Denryu-sen TSEC, la tasa del primero también fue de aproximadamente entre el 80 y el 90%. También hay reglas que favorecen al segundo: en un sennichite (repetición) se suman 0.4 victorias al primero y 0.6 al segundo."
+              },
+              {
+                "t": "p",
+                "x": "Según Yaneurao, desde hace cerca de medio año los avances de la AI de programación han acelerado también el desarrollo de las AI de shogi. La diferencia entre los mejores se ha reducido, y todas las AI de shogi punteras han llegado a un nivel en el que no pierden como primeras en mover salvo que su libro de aperturas tenga fallos. El próximo reto parece ser crear nuevas reglas que equilibren la diferencia entre el primero y el segundo."
               }
             ]
           }
@@ -1357,153 +1327,153 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Low sales for AI-disclosed games\nThe label may not be the cause",
-          "body": "Steam games that disclose AI use sell less, but many may have been at a disadvantage from the start.",
-          "mini_headline": "AI disclosure and sales",
+          "headline": "Shogi AI is now so strong the\nfirst mover wins 8 in 10",
+          "body": "In the Denryu-sen final, the first mover won about 8 in 10 despite less time, and Yaneurao said it strains organizers.",
+          "mini_headline": "Shogi AI: first mover wins 8 in 10",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
               },
               {
                 "t": "p",
-                "x": "A report has been published that statistically analyzes how disclosing AI use affects game sales on Steam, as estimated from review counts. It covers 31,003 games released between January 2025 and October 2026, of which 9251, roughly thirty percent, disclose the use of AI."
+                "x": "The NPO AI Denryu-sen Project held the main tournament of the 7th World Shogi AI Denryu-sen, the Minister of Education, Culture, Sports, Science and Technology Cup, on November 14 and 15. Afterward, Yaneurao, developer of the shogi AI “Yaneura-ou,” wrote on his blog that shogi AIs have grown so strong that running tournaments is becoming difficult."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
               },
               {
                 "t": "p",
-                "x": "Median estimated sales were 200 copies for games that did not disclose AI use and 71 for those that did. Even in an estimation model with matched conditions, games disclosing AI use were predicted to see 49.5% fewer reviews. This does not, however, show causation."
-              },
-              {
-                "t": "p",
-                "x": "The median time from store page launch to release was 167 days for non-disclosing games and 52 days for disclosing games. Followers on release day were also 20 versus 6. Burton said \"the real issue may not be AI,\" pointing out that many of these games are first titles stuck in a \"losing pattern\" with no publisher, no fan base and too little preparation time."
+                "x": "10 teams competed in the final league. Each pairing was played with both sides taking the first and second move, and the first mover, considered to have the advantage, got 3 minutes (the second mover 10 minutes, plus 2 seconds for every 1 move). Despite rules that slightly favor the second mover, the first mover's win rate reached about 80%."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "He also noted that a \"penalty\" for stating AI use can arise before launch, adding that it cannot be determined whether lack of preparation or aversion to AI is the right explanation, and that the two cannot be separated."
+                "x": "In past official games between professional players, the first mover's win rate has been around 52 to 53%. At this year's World Computer Shogi Championship and the Denryu-sen TSEC, the first mover's win rate was about 80 to 90%. Rules favoring the second mover are also in place, such as awarding 0.4 wins to the first mover and 0.6 wins to the second in a sennichite (repetition draw)."
+              },
+              {
+                "t": "p",
+                "x": "According to Yaneurao, advances in coding AI over roughly the past half year have rapidly accelerated shogi AI development as well. The gap between top contenders has narrowed, and the top shogi AIs have all reached a level where they do not lose as the first mover unless their opening book has a flaw. Creating new rules to close the gap between first and second movers looks set to be the next challenge."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 공개작 판매 부진\n표시 탓만은 아니다",
-          "body": "AI 공개 Steam 게임은 덜 팔리지만, 다수는 원래 불리했을 수 있다.",
-          "mini_headline": "AI 공개와 판매의 관계",
+          "headline": "쇼기 AI 너무 강해져\n선공 승률 8할",
+          "body": "덴류센 결승에서 시간차에도 선공이 약 8할을 이겨 야네우라오가 운영난을 짚었다.",
+          "mini_headline": "쇼기 AI, 선공 8할 승리",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Steam 리뷰 수로 추정한 게임 판매량이 AI 사용 공개에 따라 어떤 영향을 받는지 통계적으로 분석한 보고서가 나왔다. 2025년 1월부터 2026년 10월까지 출시된 3만1003편이 대상이며, 이 가운데 약 삼십 퍼센트에 해당하는 9251편이 AI 사용을 공개했다."
+                "x": "NPO 법인 AI 덴류센 프로젝트는 11월 14일과 15일 문부과학대신배 제7회 세계 쇼기 AI 덴류센 본선을 열었다. 이후 쇼기 AI ‘야네우라왕’의 개발자인 야네우라오 씨는 자신의 블로그에서 쇼기 AI가 지나치게 강해져 대회 운영이 어려워지고 있다는 견해를 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
               },
               {
                 "t": "p",
-                "x": "추정 판매량 중앙값은 AI 사용을 공개하지 않은 게임이 200장, 공개한 게임이 71장이다. 조건을 맞춘 추정 모델에서도 AI 사용을 공개한 게임은 리뷰 수가 49.5% 줄어들 것으로 예측됐다. 다만 인과관계를 보여 주는 결과는 아니다."
-              },
-              {
-                "t": "p",
-                "x": "스토어 페이지 공개부터 출시까지 걸린 기간의 중앙값은 비공개 게임이 167일, 공개 게임이 52일이다. 출시 당일 팔로워 수도 20명 대 6명이었다. Burton은 \"문제의 본질은 AI가 아닐지도 모른다\"고 말하며, 이런 게임 상당수가 첫 작품이고 퍼블리셔도 팬층도 없이 준비 기간마저 부족한 \"지는 패턴\"에 놓여 있다고 짚었다."
+                "x": "결승 리그에서는 10개 팀이 겨뤘다. 같은 대진으로 선공과 후공을 모두 두었고, 유리하다고 여겨지는 선공의 제한 시간은 3분(후공은 10분, 1수마다 2초 추가)이었다. 후공이 약간 유리한 규칙인데도 선공 승률은 약 80%에 달했다."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "한편 AI 사용을 밝히는 데 따른 \"페널티\"는 발매 전에 생길 수 있다고도 밝혔다. 준비 부족과 AI 기피 중 어느 쪽이 맞는지는 단정할 수 없으며, 둘을 떼어 놓을 수 없다는 입장이다."
+                "x": "과거 프로 기사 공식전의 선공 승률은 52~53% 안팎이다. 올해 세계 컴퓨터 쇼기 선수권과 덴류센 TSEC에서도 선공 승률은 약 80~90%를 기록했다. 센니치테(동일 국면 반복)에서는 선공에 0.4승, 후공에 0.6승을 주는 등 후공에 유리한 규칙도 마련돼 있다."
+              },
+              {
+                "t": "p",
+                "x": "야네우라오 씨에 따르면 반년쯤 전부터 코딩 AI가 발전하면서 쇼기 AI 개발도 빠르게 진전했다. 상위권의 실력 차가 줄었고, 상위 쇼기 AI는 모두 정석에 결함이 없는 한 선공으로는 지지 않는 수준에 이르렀다고 한다. 앞으로는 선공과 후공의 차이를 메울 새 규칙 마련이 과제가 될 것으로 보인다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI披露作品销量偏低\n原因未必在于标注",
-          "body": "披露使用AI的Steam作品销量较低，但其中许多可能原本就处于不利地位。",
-          "mini_headline": "AI披露与销量的关系",
+          "headline": "将棋AI过于强大\n先手胜率达8成",
+          "body": "电龙战决赛中即便设置用时差，先手仍胜约8成，やねうらお指出赛事难办。",
+          "mini_headline": "将棋AI先手胜率达8成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
               },
               {
                 "t": "p",
-                "x": "一份报告发布，以Steam评论数推算游戏销量，统计分析了披露AI使用会对销量产生怎样的影响。分析对象为2025年1月至2026年10月发售的3万1003款游戏，其中约百分之三十、即9251款披露了AI的使用。"
+                "x": "NPO法人AI电龙战项目于11月14日和15日举办了文部科学大臣杯第7届世界将棋AI电龙战正赛。此后，将棋AI“やねうら王”的开发者やねうらお在个人博客中表示，将棋AI已经强到让赛事运营日益困难。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
               },
               {
                 "t": "p",
-                "x": "推算销量的中位数，未披露AI使用的游戏为200份，披露的游戏为71份。在统一条件的推算模型中，披露AI使用的游戏评论数预计也会减少49.5%。不过，这并不代表因果关系。"
-              },
-              {
-                "t": "p",
-                "x": "从商店页面上线到发售的时间中位数，未披露游戏为167天，披露游戏为52天。发售当天的关注者数量也是20人对6人。Burton表示\"问题的本质或许不在于AI\"，并指出这类游戏多为首部作品，既没有发行商也没有粉丝群，准备时间也不足，处于\"失败模式\"之中。"
+                "x": "决赛联赛共有10支队伍参赛。同一对阵双方各执先手、后手对局，被视为占优的先手用时为3分钟（后手为10分钟，每1手加2秒）。尽管规则略微偏向后手，先手胜率仍达到约80%。"
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "另一方面，他也表示注明AI使用的\"惩罚\"可能在发售前就已出现，无法断定准备不足与回避AI哪一种解释正确，两者无法区分开来。"
+                "x": "过去职业棋士正式比赛的先手胜率约为52～53%。今年的世界电脑将棋锦标赛和电龙战TSEC中，先手胜率也达到约80～90%。规则中还设有偏向后手的条款，例如千日手时先手计0.4胜、后手计0.6胜。"
+              },
+              {
+                "t": "p",
+                "x": "据やねうらお介绍，大约半年前起，编程AI的进步推动将棋AI开发迅速发展。顶尖选手之间的实力差距缩小，顶级将棋AI只要定式没有缺陷，已达到执先手不会输的水平。今后如何制定新规则来弥合先后手差距，将成为课题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ventas bajas de juegos con AI\nLa etiqueta no siempre es causa",
-          "body": "Los juegos de Steam que declaran uso de AI venden menos, pero muchos quizá ya partían en desventaja.",
-          "mini_headline": "Declarar AI y las ventas",
+          "headline": "La AI de shogi es tan fuerte\nque el primero gana 8 de cada 10",
+          "body": "Yaneurao alerta de que, en la final del Denryu-sen, el primero ganó unas 8 de cada 10 pese a tener menos tiempo.",
+          "mini_headline": "Shogi AI: el primero gana 8 de cada 10",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-header.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
               },
               {
                 "t": "p",
-                "x": "Se ha publicado un informe que analiza estadísticamente cómo afecta la declaración del uso de AI a las ventas de juegos en Steam, estimadas a partir del número de reseñas. Abarca 31,003 juegos lanzados entre enero de 2025 y octubre de 2026, de los cuales 9251, alrededor del treinta por ciento, declaran el uso de AI."
+                "x": "El AI Denryu-sen Project, una NPO, celebró los días 14 y 15 de noviembre la fase principal del 7.º Campeonato Mundial de Shogi AI Denryu-sen, Copa del Ministro de Educación, Cultura, Deportes, Ciencia y Tecnología. Después, Yaneurao, desarrollador de la AI de shogi «Yaneura-ou», expuso en su blog que las AI de shogi se han vuelto tan fuertes que organizar torneos empieza a ser difícil."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-001-1080x734.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
               },
               {
                 "t": "p",
-                "x": "La mediana de ventas estimadas fue de 200 copias para los juegos que no declararon uso de AI y de 71 para los que sí lo hicieron. Incluso en un modelo de estimación con condiciones igualadas, se predijo que los juegos que declaran uso de AI tendrían un 49.5% menos de reseñas. Sin embargo, esto no demuestra causalidad."
-              },
-              {
-                "t": "p",
-                "x": "La mediana del tiempo entre la publicación de la página en la tienda y el lanzamiento fue de 167 días para los juegos que no lo declararon y de 52 días para los que sí. Los seguidores el día del lanzamiento también fueron 20 frente a 6. Burton afirmó que \"quizá el fondo del problema no sea la AI\" y señaló que muchos de esos juegos son primeras obras atrapadas en un \"patrón perdedor\", sin editora, sin base de fans y con poco tiempo de preparación."
+                "x": "En la liga final compitieron 10 equipos. Cada emparejamiento se jugó con ambos bandos como primero y segundo en mover, y el primero, considerado con ventaja, tenía 3 minutos (el segundo, 10 minutos, con 2 segundos añadidos por cada 1 jugada). Pese a unas reglas que favorecen ligeramente al segundo, la tasa de victorias del primero alcanzó cerca del 80%."
               },
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480176-006-1080x609.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
               },
               {
                 "t": "p",
-                "x": "Por otro lado, indicó que la \"penalización\" por declarar el uso de AI puede producirse antes del lanzamiento, y que no se puede determinar si la explicación correcta es la falta de preparación o el rechazo a la AI, ya que ambas no pueden separarse."
+                "x": "En las partidas oficiales de profesionales, la tasa de victorias del primero ha rondado entre el 52 y el 53%. En el Campeonato Mundial de Shogi por Computadora de este año y en el Denryu-sen TSEC, la tasa del primero también fue de aproximadamente entre el 80 y el 90%. También hay reglas que favorecen al segundo: en un sennichite (repetición) se suman 0.4 victorias al primero y 0.6 al segundo."
+              },
+              {
+                "t": "p",
+                "x": "Según Yaneurao, desde hace cerca de medio año los avances de la AI de programación han acelerado también el desarrollo de las AI de shogi. La diferencia entre los mejores se ha reducido, y todas las AI de shogi punteras han llegado a un nivel en el que no pierden como primeras en mover salvo que su libro de aperturas tenga fallos. El próximo reto parece ser crear nuevas reglas que equilibren la diferencia entre el primero y el segundo."
               }
             ]
           }
@@ -1511,225 +1481,225 @@
       }
     },
     {
-      "id": "chesscom-classic-hub-ai",
+      "id": "nexon-ai-game-rating",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Chess.com 새 허브\n코딩만 AI, 아트는 사람",
-      "body": "Chess.com 소수 팀은 Classic 허브 코딩에만 AI를 썼다.",
-      "mini_headline": "Chess.com의 AI-coded Classic 허브",
+      "headline": "Nexon-led 컨소시엄\nAI 게임등급 사전심사",
+      "body": "Nexon-led 컨소시엄이 AI 선평가 등급 기술의 첫해 성과를 공개했다.",
+      "mini_headline": "AI가 게임 등급 사전 심사",
       "tool": "Games",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "Inven Global",
+      "url": "https://www.invenglobal.com/articles/28903",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
-          },
-          {
             "t": "p",
-            "x": "Chess.com이 새 Classic Games 플랫폼을 열며 게임 10종을 더한다. 백개먼, 체커, 바둑, 하츠, 마작, 쇼기, 스도쿠, 솔리테어, 샹치, Scrabble을 대신할 word다. 플랫폼은 웹과 새 iOS·Android 앱에서 공개 베타를 시작한다."
+            "x": "Nexon이 이끄는 산학 컨소시엄이 11월 20일 부산(Busan)에서 열린 한국게임법과정책학회(Korea Game Law and Policy Society) 학술대회에서 AI-assisted 게임 등급 분류 기술의 첫해 연구 성과와 앞으로의 계획을 내놨다. AI가 게임 콘텐츠를 먼저 훑고, 등급은 사람이 최종 결정한다."
           },
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
-            "cap": "Classic Games에는 Martin을 비롯해 Chess.com과 같은 봇이 있다."
+            "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
+            "cap": "©INVEN"
           },
           {
             "t": "p",
-            "x": "Chess.com이 몇 명 안 되는 팀으로 몇 달 만에 새 게임 11종을 내놓을 수 있었던 건 AI 덕이 컸다. 최고성장책임자 Albert Cheng은 Gambit 때와 \"거의 완전히 같은 방식\"을 썼고 AI가 코딩 속도를 높였다고 말한다. \"이 게임들은 Chess.com의 코드베이스와 디자인 시스템, 봇 캐릭터, 레이팅 시스템 위에 만들어졌기 때문에 큰 이점이 있고, AI와 함께 아주 빠르게 움직일 수 있다.\""
-          },
-          {
-            "t": "p",
-            "x": "Cheng에 따르면 Classic Games의 아트와 디자인에는 AI를 쓰지 않았다. \"룩앤필은 사람이 매우 공들여 만들었고, 우리는 그 점이 자랑스럽다.\" 아트와 디자인 쪽은 \"그런 인력을 더 채용하고 있다\"고도 했다."
+            "x": "Nexon은 게임플레이 영상과 스크린샷, 오디오, 등급 신청 서류를 전처리해 일곱 가지 주요 콘텐츠 기준을 평가하는 파이프라인을 만들었다. 긴 영상을 AI에 그대로 넣으면 토큰 비용이 불어나고 상용 모델은 기준이 들쭉날쭉했다. 그래서 2027년에는 내부 LLM이 필요한 장면만 골라 더 일관된 고급 모델에 넘긴다."
           },
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
-            "cap": "Classic Games의 멀티플레이 게임에는 채팅 사이드바가 있다."
+            "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
+            "cap": "©INVEN"
+          },
+          {
+            "t": "p",
+            "x": "명지대학교(Myongji University)에서는 라벨러 약 40명이 게임을 직접 플레이하며 프레임 단위로 평가 근거를 입력한다. 자율 플레이 AI 에이전트도 함께 개발 중이다. “목표는 게임을 잘하는 것이 아니라, 콘텐츠 등급 분류를 위해 정확하게 이동하고 탐색하는 것입니다.”"
+          },
+          {
+            "t": "p",
+            "x": "Smilegate는 STOVE 자체 등급 분류 데이터 2,894건을 내놓았고, 2028년부터 운영자 검토 일치율과 검토 시간을 잰다. 문영민(Moon Young-min) 연구원은 “AI 결과는 운영자 검토를 위한 보조 참고 자료로만 쓰일 것”이라고 말했다. 패널들은 최종 결정을 사람이 쥐고 있어야 한다는 데 의견을 같이했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Chess.com's Classic hub\nleans on AI for code, not art",
-          "body": "A tiny Chess.com team used AI to speed up coding for its Classic hub, but not for the games' art or design.",
-          "mini_headline": "Chess.com's AI-coded Classic hub",
+          "headline": "Nexon-led team shows AI\npre-screening for game ratings",
+          "body": "A Nexon-led consortium shared first-year results on rating tech where AI pre-evaluates content and humans decide.",
+          "mini_headline": "AI pre-screens game ratings",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
-              },
-              {
                 "t": "p",
-                "x": "Chess.com is adding 10 more games — backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word — as part of its new Classic Games platform, launching its public beta on the web and new iOS and Android apps."
+                "x": "An industry-academic consortium led by Nexon revealed its first-year research findings and future plans for AI-assisted game rating technology at the Korea Game Law and Policy Society conference in Busan on November 20. AI performs an initial sweep of game content, while humans make the final rating decision."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic Games has the same bots as Chess.com, including Martin."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
+                "cap": "©INVEN"
               },
               {
                 "t": "p",
-                "x": "AI played a key role in helping Chess.com launch 11 new games in a matter of months with a team of only a few people. Chief growth officer Albert Cheng says they used \"almost entirely the same approach\" as for Gambit, with AI helping to speed up coding. \"Because these games are built on top of the Chess.com code base and design system and bot characters and rating systems, it's a huge advantage and allows us to move very quickly alongside AI.\""
-              },
-              {
-                "t": "p",
-                "x": "AI wasn't used for Classic Games' art and design, Cheng says. \"The look and feel of it is very carefully crafted by humans, and we're proud of that.\" On the art and design side, he adds, \"we're hiring more of those folks.\""
+                "x": "Nexon built a pipeline that pre-processes gameplay videos, screenshots, audio, and rating application documents to evaluate seven major content criteria. Feeding lengthy videos to the AI raised token costs and commercial models suffered from fluctuating criteria, so in 2027 an internal LLM will select only necessary scenes for more consistent advanced models."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Multiplayer games on Classic Games have a chat sidebar."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
+                "cap": "©INVEN"
+              },
+              {
+                "t": "p",
+                "x": "Myongji University’s around 40 labelers play titles and input evaluation rationale frame by frame, and it is developing an autonomous play AI agent: “The objective is not to play well, but to accurately navigate and explore for content rating purposes.”"
+              },
+              {
+                "t": "p",
+                "x": "Smilegate provided 2,894 self-rating data entries from STOVE and from 2028 will measure operator review match rates and review time. “AI results will be used solely as supplementary reference data for operator reviews,” said researcher Moon Young-min. Panelists agreed final decisions must remain with humans."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Chess.com 새 허브\n코딩만 AI, 아트는 사람",
-          "body": "Chess.com 소수 팀은 Classic 허브 코딩에만 AI를 썼다.",
-          "mini_headline": "Chess.com의 AI-coded Classic 허브",
+          "headline": "Nexon-led 컨소시엄\nAI 게임등급 사전심사",
+          "body": "Nexon-led 컨소시엄이 AI 선평가 등급 기술의 첫해 성과를 공개했다.",
+          "mini_headline": "AI가 게임 등급 사전 심사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
-              },
-              {
                 "t": "p",
-                "x": "Chess.com이 새 Classic Games 플랫폼을 열며 게임 10종을 더한다. 백개먼, 체커, 바둑, 하츠, 마작, 쇼기, 스도쿠, 솔리테어, 샹치, Scrabble을 대신할 word다. 플랫폼은 웹과 새 iOS·Android 앱에서 공개 베타를 시작한다."
+                "x": "Nexon이 이끄는 산학 컨소시엄이 11월 20일 부산(Busan)에서 열린 한국게임법과정책학회(Korea Game Law and Policy Society) 학술대회에서 AI-assisted 게임 등급 분류 기술의 첫해 연구 성과와 앞으로의 계획을 내놨다. AI가 게임 콘텐츠를 먼저 훑고, 등급은 사람이 최종 결정한다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic Games에는 Martin을 비롯해 Chess.com과 같은 봇이 있다."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
+                "cap": "©INVEN"
               },
               {
                 "t": "p",
-                "x": "Chess.com이 몇 명 안 되는 팀으로 몇 달 만에 새 게임 11종을 내놓을 수 있었던 건 AI 덕이 컸다. 최고성장책임자 Albert Cheng은 Gambit 때와 \"거의 완전히 같은 방식\"을 썼고 AI가 코딩 속도를 높였다고 말한다. \"이 게임들은 Chess.com의 코드베이스와 디자인 시스템, 봇 캐릭터, 레이팅 시스템 위에 만들어졌기 때문에 큰 이점이 있고, AI와 함께 아주 빠르게 움직일 수 있다.\""
-              },
-              {
-                "t": "p",
-                "x": "Cheng에 따르면 Classic Games의 아트와 디자인에는 AI를 쓰지 않았다. \"룩앤필은 사람이 매우 공들여 만들었고, 우리는 그 점이 자랑스럽다.\" 아트와 디자인 쪽은 \"그런 인력을 더 채용하고 있다\"고도 했다."
+                "x": "Nexon은 게임플레이 영상과 스크린샷, 오디오, 등급 신청 서류를 전처리해 일곱 가지 주요 콘텐츠 기준을 평가하는 파이프라인을 만들었다. 긴 영상을 AI에 그대로 넣으면 토큰 비용이 불어나고 상용 모델은 기준이 들쭉날쭉했다. 그래서 2027년에는 내부 LLM이 필요한 장면만 골라 더 일관된 고급 모델에 넘긴다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic Games의 멀티플레이 게임에는 채팅 사이드바가 있다."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
+                "cap": "©INVEN"
+              },
+              {
+                "t": "p",
+                "x": "명지대학교(Myongji University)에서는 라벨러 약 40명이 게임을 직접 플레이하며 프레임 단위로 평가 근거를 입력한다. 자율 플레이 AI 에이전트도 함께 개발 중이다. “목표는 게임을 잘하는 것이 아니라, 콘텐츠 등급 분류를 위해 정확하게 이동하고 탐색하는 것입니다.”"
+              },
+              {
+                "t": "p",
+                "x": "Smilegate는 STOVE 자체 등급 분류 데이터 2,894건을 내놓았고, 2028년부터 운영자 검토 일치율과 검토 시간을 잰다. 문영민(Moon Young-min) 연구원은 “AI 결과는 운영자 검토를 위한 보조 참고 자료로만 쓰일 것”이라고 말했다. 패널들은 최종 결정을 사람이 쥐고 있어야 한다는 데 의견을 같이했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Chess.comの新ハブ\nAIはコードだけ、絵は人",
-          "body": "Chess.comの小チームはClassicの開発でAIをコードにだけ使った。",
-          "mini_headline": "Chess.comのAI-coded Classicハブ",
+          "headline": "Nexon-led連合が\nAIでレーティング事前審査",
+          "body": "Nexon-ledの連合が、AIが先に評価し人が決める区分技術の初年度成果を示した。",
+          "mini_headline": "AIがゲームのレーティングを事前審査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
-              },
-              {
                 "t": "p",
-                "x": "Chess.comは新しいClassic Gamesプラットフォームの一環として、バックギャモン、チェッカー、囲碁、ハーツ、麻雀、将棋、数独、ソリティア、シャンチー、そしてwordというScrabble代替ゲームの10タイトルを追加する。ウェブと新しいiOS・Androidアプリでパブリックベータを開始する。"
+                "x": "Nexonが率いる産学コンソーシアムは11月20日、釜山（Busan）で開かれた韓国ゲーム法と政策学会（Korea Game Law and Policy Society）の学術大会で、AI-assistedのゲームレーティング技術に関する初年度の研究成果と今後の計画を公表した。AIがゲームコンテンツをまず一通り確認し、最終的なレーティング判断は人が下す。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic GamesにはMartinをはじめChess.comと同じボットがいる。"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
+                "cap": "©INVEN"
               },
               {
                 "t": "p",
-                "x": "AIは、わずか数人のチームでChess.comが数か月のうちに11の新作ゲームを投入するうえで重要な役割を果たした。最高成長責任者のAlbert Cheng氏によると、Gambitのときと「ほぼ完全に同じアプローチ」を取り、AIがコーディングの高速化を助けたという。「これらのゲームはChess.comのコードベース、デザインシステム、ボットキャラクター、レーティングシステムの上に作られているので、大きな強みがあり、AIとともに非常に速く動ける」"
-              },
-              {
-                "t": "p",
-                "x": "Cheng氏によると、Classic GamesのアートとデザインにAIは使われていない。「ルック＆フィールは人間が非常に丁寧に作り込んだもので、私たちはそれを誇りに思っている」。アートとデザインの面では「そうした人材をさらに採用している」と付け加えた。"
+                "x": "Nexonは、ゲームプレイ映像、スクリーンショット、音声、レーティング申請書類を前処理し、七つの主要コンテンツ基準を評価するパイプラインを構築した。長い映像をAIに入力するとトークンコストが膨らみ、商用モデルは基準がぶれる問題があったため、2027年には社内LLMが必要な場面だけを選び、より一貫性のある高度なモデルに渡す。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic Gamesのマルチプレイゲームにはチャットのサイドバーがある。"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
+                "cap": "©INVEN"
+              },
+              {
+                "t": "p",
+                "x": "明知大学（Myongji University）では約40人のラベラーがタイトルをプレイしてフレーム単位で評価根拠を入力しており、自律プレイ型のAIエージェントも開発している。「目的はうまくプレイすることではなく、コンテンツのレーティングのために正確に移動し探索することだ」。"
+              },
+              {
+                "t": "p",
+                "x": "SmilegateはSTOVEの自主レーティングデータ2,894件を提供し、2028年からは運営者による審査との一致率と審査時間を測定する。研究員のムン・ヨンミン（Moon Young-min）氏は「AIの結果は運営者審査の補助的な参考資料としてのみ使う」と述べた。パネリストらは、最終判断は人に委ねるべきだという点で一致した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Chess.com新平台\nAI只写代码，不碰美术",
-          "body": "Chess.com小团队用AI加速Classic平台编码，但美术和设计未用AI。",
-          "mini_headline": "Chess.com的AI-coded Classic平台",
+          "headline": "Nexon-led团队展示\nAI游戏分级预审",
+          "body": "Nexon-led联盟公布首年成果：AI先评估内容，再由人作出分级决定。",
+          "mini_headline": "AI预审游戏分级",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
-              },
-              {
                 "t": "p",
-                "x": "Chess.com正在其全新的Classic Games平台上再增加10款游戏——双陆棋、跳棋、围棋、红心大战、麻将、将棋、数独、纸牌接龙、象棋，以及一款名为word的Scrabble替代游戏。该平台将在网页端和全新的iOS与Android应用上开启公测。"
+                "x": "由Nexon牵头的产学联盟于11月20日在釜山（Busan）举行的韩国游戏法与政策学会（Korea Game Law and Policy Society）学术会议上，公布了AI-assisted游戏分级技术的首年研究成果和未来计划。AI先对游戏内容进行初步筛查，最终分级决定由人作出。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic Games拥有与Chess.com相同的机器人，包括Martin。"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
+                "cap": "©INVEN"
               },
               {
                 "t": "p",
-                "x": "AI在帮助Chess.com以仅有几人的团队在数月内推出11款新游戏方面发挥了关键作用。首席增长官Albert Cheng表示，他们采用了与Gambit“几乎完全相同的方法”，由AI帮助加快编码。“由于这些游戏构建在Chess.com的代码库、设计系统、机器人角色和等级分系统之上，这是巨大的优势，让我们能借助AI非常快速地推进。”"
-              },
-              {
-                "t": "p",
-                "x": "Cheng表示，Classic Games的美术和设计没有使用AI。“它的外观和手感都由人类精心打造，我们为此感到自豪。”他补充说，在美术和设计方面，“我们正在招聘更多这类人才。”"
+                "x": "Nexon搭建了一条流水线，对游戏视频、截图、音频和分级申请文件进行预处理，以评估七项主要内容标准。将冗长视频输入AI会推高token成本，商用模型的判断标准也会波动，因此2027年将由内部LLM只挑选必要场景，交给更稳定的高级模型。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic Games上的多人游戏带有聊天侧边栏。"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
+                "cap": "©INVEN"
+              },
+              {
+                "t": "p",
+                "x": "明知大学（Myongji University）约40名标注员实际游玩作品并逐帧输入评估依据，同时正在开发自主游玩AI智能体：“目标不是玩得好，而是为了内容分级准确地移动和探索。”"
+              },
+              {
+                "t": "p",
+                "x": "Smilegate提供了来自STOVE的2,894条自主分级数据，并将从2028年起测量运营方审核的一致率和审核时间。研究员Moon Young-min表示：“AI结果将仅作为运营方审核的辅助参考资料。”与会嘉宾一致认为，最终决定必须由人作出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El hub Classic de Chess.com\nusa AI en código, no en arte",
-          "body": "Un pequeño equipo de Chess.com usó AI para programar más rápido su hub Classic, pero no para el arte ni el diseño.",
-          "mini_headline": "El hub Classic AI-coded de Chess.com",
+          "headline": "Equipo liderado por Nexon\nmuestra AI que preevalúa juegos",
+          "body": "Un consorcio Nexon-led mostró los resultados de su primer año en clasificación donde la AI preevalúa y deciden humanos.",
+          "mini_headline": "La AI preevalúa la clasificación de juegos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
-              },
-              {
                 "t": "p",
-                "x": "Chess.com añade 10 juegos más —backgammon, damas, go, corazones, mahjong, shogi, sudoku, solitario, xiangqi y una alternativa a Scrabble llamada word— como parte de su nueva plataforma Classic Games, que inicia su beta pública en la web y en nuevas apps para iOS y Android."
+                "x": "Un consorcio de industria y universidad liderado por Nexon presentó el 20 de noviembre, en el congreso de la Korea Game Law and Policy Society en Busan, los resultados de su primer año de investigación y sus planes sobre tecnología de clasificación de juegos AI-assisted. La AI hace una primera revisión del contenido del juego y las personas toman la decisión final de clasificación."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic Games tiene los mismos bots que Chess.com, incluido Martin."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
+                "cap": "©INVEN"
               },
               {
                 "t": "p",
-                "x": "La AI tuvo un papel clave para que Chess.com lanzara 11 juegos nuevos en cuestión de meses con un equipo de solo unas pocas personas. El director de crecimiento, Albert Cheng, dice que usaron \"casi exactamente el mismo enfoque\" que con Gambit, con la AI ayudando a acelerar la programación. \"Como estos juegos se construyen sobre la base de código, el sistema de diseño, los personajes bot y los sistemas de clasificación de Chess.com, es una gran ventaja y nos permite avanzar muy rápido junto con la AI.\""
-              },
-              {
-                "t": "p",
-                "x": "Según Cheng, la AI no se usó para el arte ni el diseño de Classic Games. \"Su aspecto y sensación están elaborados con mucho cuidado por humanos, y estamos orgullosos de ello\". En el apartado de arte y diseño, añade, \"estamos contratando a más personas de ese perfil\"."
+                "x": "Nexon creó un pipeline que preprocesa vídeos de juego, capturas de pantalla, audio y documentos de solicitud de clasificación para evaluar siete criterios principales de contenido. Introducir vídeos largos en la AI elevaba el coste en tokens y los modelos comerciales sufrían criterios fluctuantes, por lo que en 2027 un LLM interno seleccionará solo las escenas necesarias para modelos avanzados más consistentes."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Los juegos multijugador de Classic Games tienen una barra lateral de chat."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
+                "cap": "©INVEN"
+              },
+              {
+                "t": "p",
+                "x": "Unos 40 etiquetadores de Myongji University juegan los títulos e introducen fotograma a fotograma los motivos de evaluación, y la universidad desarrolla un agente AI de juego autónomo: “El objetivo no es jugar bien, sino navegar y explorar con precisión para clasificar el contenido”."
+              },
+              {
+                "t": "p",
+                "x": "Smilegate aportó 2,894 registros de autoclasificación de STOVE y desde 2028 medirá las tasas de coincidencia con la revisión de los operadores y el tiempo de revisión. “Los resultados de la AI se usarán únicamente como material de referencia complementario para la revisión de los operadores”, dijo el investigador Moon Young-min. Los ponentes coincidieron en que las decisiones finales deben quedar en manos de personas."
               }
             ]
           }
@@ -1737,145 +1707,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Chess.com 새 허브\n코딩만 AI, 아트는 사람",
-          "body": "Chess.com 소수 팀은 Classic 허브 코딩에만 AI를 썼다.",
-          "mini_headline": "Chess.com의 AI-coded Classic 허브",
+          "headline": "Nexon-led 컨소시엄\nAI 게임등급 사전심사",
+          "body": "Nexon-led 컨소시엄이 AI 선평가 등급 기술의 첫해 성과를 공개했다.",
+          "mini_headline": "AI가 게임 등급 사전 심사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
-              },
-              {
                 "t": "p",
-                "x": "Chess.com이 새 Classic Games 플랫폼의 일환으로 게임 10종을 추가한다. 백개먼, 체커, 바둑, 하츠, 마작, 쇼기, 스도쿠, 솔리테어, 샹치, 그리고 word라는 Scrabble 대체 게임이다. 이 플랫폼은 웹과 새 iOS·Android 앱에서 공개 베타를 시작한다."
+                "x": "Nexon이 이끄는 산학 컨소시엄은 11월 20일 부산(Busan)에서 열린 한국게임법과정책학회(Korea Game Law and Policy Society) 학술대회에서 AI-assisted 게임 등급 분류 기술의 첫해 연구 성과와 향후 계획을 공개했다. AI가 게임 콘텐츠를 먼저 훑고, 최종 등급 결정은 사람이 내린다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic Games에는 Martin을 비롯해 Chess.com과 같은 봇이 있다."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
+                "cap": "©INVEN"
               },
               {
                 "t": "p",
-                "x": "AI는 Chess.com이 몇 명뿐인 팀으로 몇 달 만에 새 게임 11종을 내놓는 데 핵심 역할을 했다. 최고성장책임자 Albert Cheng은 Gambit 때와 \"거의 완전히 같은 방식\"을 썼고 AI가 코딩 속도를 높였다고 말한다. \"이 게임들은 Chess.com의 코드베이스와 디자인 시스템, 봇 캐릭터, 레이팅 시스템 위에 만들어졌기 때문에 큰 이점이 있고, AI와 함께 아주 빠르게 움직일 수 있다.\""
-              },
-              {
-                "t": "p",
-                "x": "Cheng에 따르면 Classic Games의 아트와 디자인에는 AI를 쓰지 않았다. \"룩앤필은 사람이 매우 공들여 만들었고, 우리는 그 점이 자랑스럽다.\" 아트와 디자인 쪽은 \"그런 인력을 더 채용하고 있다\"고 그는 덧붙인다."
+                "x": "Nexon은 게임플레이 영상, 스크린샷, 오디오, 등급 신청 서류를 전처리해 일곱 가지 주요 콘텐츠 기준을 평가하는 파이프라인을 구축했다. 긴 영상을 AI에 넣으면 토큰 비용이 늘고 상용 모델은 기준이 들쭉날쭉했기 때문에, 2027년에는 내부 LLM이 필요한 장면만 골라 더 일관된 고급 모델에 넘긴다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic Games의 멀티플레이 게임에는 채팅 사이드바가 있다."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
+                "cap": "©INVEN"
+              },
+              {
+                "t": "p",
+                "x": "명지대학교(Myongji University)에서는 약 40명의 라벨러가 게임을 플레이하며 프레임 단위로 평가 근거를 입력하고, 자율 플레이 AI 에이전트도 개발하고 있다. “목표는 게임을 잘하는 것이 아니라, 콘텐츠 등급 분류를 위해 정확하게 이동하고 탐색하는 것입니다.”"
+              },
+              {
+                "t": "p",
+                "x": "Smilegate는 STOVE의 자체 등급 분류 데이터 2,894건을 제공했으며, 2028년부터 운영자 검토 일치율과 검토 시간을 측정한다. 문영민(Moon Young-min) 연구원은 “AI 결과는 운영자 검토를 위한 보조 참고 자료로만 쓰일 것”이라고 말했다. 패널들은 최종 결정이 사람에게 남아 있어야 한다는 데 뜻을 모았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Chess.comの新ハブ\nAIはコードだけ、絵は人",
-          "body": "Chess.comの小チームはClassicの開発でAIをコードにだけ使った。",
-          "mini_headline": "Chess.comのAI-coded Classicハブ",
+          "headline": "Nexon-led連合が\nAIでレーティング事前審査",
+          "body": "Nexon-ledの連合が、AIが先に評価し人が決める区分技術の初年度成果を示した。",
+          "mini_headline": "AIがゲームのレーティングを事前審査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
-              },
-              {
                 "t": "p",
-                "x": "Chess.comは新しいClassic Gamesプラットフォームの一環として、バックギャモン、チェッカー、囲碁、ハーツ、麻雀、将棋、数独、ソリティア、シャンチー、そしてwordというScrabble代替ゲームの10タイトルを追加する。ウェブと新しいiOS・Androidアプリでパブリックベータを開始する。"
+                "x": "Nexonが率いる産学コンソーシアムは11月20日、釜山（Busan）で開かれた韓国ゲーム法と政策学会（Korea Game Law and Policy Society）の学術大会で、AI-assistedのゲームレーティング技術に関する初年度の研究成果と今後の計画を公表した。AIがゲームコンテンツをまず一通り確認し、最終的なレーティング判断は人が下す。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic GamesにはMartinをはじめChess.comと同じボットがいる。"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
+                "cap": "©INVEN"
               },
               {
                 "t": "p",
-                "x": "AIは、わずか数人のチームでChess.comが数か月のうちに11の新作ゲームを投入するうえで重要な役割を果たした。最高成長責任者のAlbert Cheng氏によると、Gambitのときと「ほぼ完全に同じアプローチ」を取り、AIがコーディングの高速化を助けたという。「これらのゲームはChess.comのコードベース、デザインシステム、ボットキャラクター、レーティングシステムの上に作られているので、大きな強みがあり、AIとともに非常に速く動ける」"
-              },
-              {
-                "t": "p",
-                "x": "Cheng氏によると、Classic GamesのアートとデザインにAIは使われていない。「ルック＆フィールは人間が非常に丁寧に作り込んだもので、私たちはそれを誇りに思っている」。アートとデザインの面では「そうした人材をさらに採用している」と付け加えた。"
+                "x": "Nexonは、ゲームプレイ映像、スクリーンショット、音声、レーティング申請書類を前処理し、七つの主要コンテンツ基準を評価するパイプラインを構築した。長い映像をAIに入力するとトークンコストが膨らみ、商用モデルは基準がぶれる問題があったため、2027年には社内LLMが必要な場面だけを選び、より一貫性のある高度なモデルに渡す。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic Gamesのマルチプレイゲームにはチャットのサイドバーがある。"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
+                "cap": "©INVEN"
+              },
+              {
+                "t": "p",
+                "x": "明知大学（Myongji University）では約40人のラベラーがタイトルをプレイしてフレーム単位で評価根拠を入力しており、自律プレイ型のAIエージェントも開発している。「目的はうまくプレイすることではなく、コンテンツのレーティングのために正確に移動し探索することだ」。"
+              },
+              {
+                "t": "p",
+                "x": "SmilegateはSTOVEの自主レーティングデータ2,894件を提供し、2028年からは運営者による審査との一致率と審査時間を測定する。研究員のムン・ヨンミン（Moon Young-min）氏は「AIの結果は運営者審査の補助的な参考資料としてのみ使う」と述べた。パネリストらは、最終判断は人に委ねるべきだという点で一致した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Chess.com新平台\nAI只写代码，不碰美术",
-          "body": "Chess.com小团队用AI加速Classic平台编码，但美术和设计未用AI。",
-          "mini_headline": "Chess.com的AI-coded Classic平台",
+          "headline": "Nexon-led团队展示\nAI游戏分级预审",
+          "body": "Nexon-led联盟公布首年成果：AI先评估内容，再由人作出分级决定。",
+          "mini_headline": "AI预审游戏分级",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
-              },
-              {
                 "t": "p",
-                "x": "Chess.com正在其全新的Classic Games平台上再增加10款游戏——双陆棋、跳棋、围棋、红心大战、麻将、将棋、数独、纸牌接龙、象棋，以及一款名为word的Scrabble替代游戏。该平台将在网页端和全新的iOS与Android应用上开启公测。"
+                "x": "由Nexon牵头的产学联盟于11月20日在釜山（Busan）举行的韩国游戏法与政策学会（Korea Game Law and Policy Society）学术会议上，公布了AI-assisted游戏分级技术的首年研究成果和未来计划。AI先对游戏内容进行初步筛查，最终分级决定由人作出。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic Games拥有与Chess.com相同的机器人，包括Martin。"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
+                "cap": "©INVEN"
               },
               {
                 "t": "p",
-                "x": "AI在帮助Chess.com以仅有几人的团队在数月内推出11款新游戏方面发挥了关键作用。首席增长官Albert Cheng表示，他们采用了与Gambit“几乎完全相同的方法”，由AI帮助加快编码。“由于这些游戏构建在Chess.com的代码库、设计系统、机器人角色和等级分系统之上，这是巨大的优势，让我们能借助AI非常快速地推进。”"
-              },
-              {
-                "t": "p",
-                "x": "Cheng表示，Classic Games的美术和设计没有使用AI。“它的外观和手感都由人类精心打造，我们为此感到自豪。”他补充说，在美术和设计方面，“我们正在招聘更多这类人才。”"
+                "x": "Nexon搭建了一条流水线，对游戏视频、截图、音频和分级申请文件进行预处理，以评估七项主要内容标准。将冗长视频输入AI会推高token成本，商用模型的判断标准也会波动，因此2027年将由内部LLM只挑选必要场景，交给更稳定的高级模型。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic Games上的多人游戏带有聊天侧边栏。"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
+                "cap": "©INVEN"
+              },
+              {
+                "t": "p",
+                "x": "明知大学（Myongji University）约40名标注员实际游玩作品并逐帧输入评估依据，同时正在开发自主游玩AI智能体：“目标不是玩得好，而是为了内容分级准确地移动和探索。”"
+              },
+              {
+                "t": "p",
+                "x": "Smilegate提供了来自STOVE的2,894条自主分级数据，并将从2028年起测量运营方审核的一致率和审核时间。研究员Moon Young-min表示：“AI结果将仅作为运营方审核的辅助参考资料。”与会嘉宾一致认为，最终决定必须由人作出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El hub Classic de Chess.com\nusa AI en código, no en arte",
-          "body": "Un pequeño equipo de Chess.com usó AI para programar más rápido su hub Classic, pero no para el arte ni el diseño.",
-          "mini_headline": "El hub Classic AI-coded de Chess.com",
+          "headline": "Equipo liderado por Nexon\nmuestra AI que preevalúa juegos",
+          "body": "Un consorcio Nexon-led mostró los resultados de su primer año en clasificación donde la AI preevalúa y deciden humanos.",
+          "mini_headline": "La AI preevalúa la clasificación de juegos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200"
-              },
-              {
                 "t": "p",
-                "x": "Chess.com añade 10 juegos más —backgammon, damas, go, corazones, mahjong, shogi, sudoku, solitario, xiangqi y una alternativa a Scrabble llamada word— como parte de su nueva plataforma Classic Games, que inicia su beta pública en la web y en nuevas apps para iOS y Android."
+                "x": "Un consorcio de industria y universidad liderado por Nexon presentó el 20 de noviembre, en el congreso de la Korea Game Law and Policy Society en Busan, los resultados de su primer año de investigación y sus planes sobre tecnología de clasificación de juegos AI-assisted. La AI hace una primera revisión del contenido del juego y las personas toman la decisión final de clasificación."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-word-2.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Classic Games tiene los mismos bots que Chess.com, incluido Martin."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
+                "cap": "©INVEN"
               },
               {
                 "t": "p",
-                "x": "La AI tuvo un papel clave para que Chess.com lanzara 11 juegos nuevos en cuestión de meses con un equipo de solo unas pocas personas. El director de crecimiento, Albert Cheng, dice que usaron \"casi exactamente el mismo enfoque\" que con Gambit, con la AI ayudando a acelerar la programación. \"Como estos juegos se construyen sobre la base de código, el sistema de diseño, los personajes bot y los sistemas de clasificación de Chess.com, es una gran ventaja y nos permite avanzar muy rápido junto con la AI.\""
-              },
-              {
-                "t": "p",
-                "x": "Según Cheng, la AI no se usó para el arte ni el diseño de Classic Games. \"Su aspecto y sensación están elaborados con mucho cuidado por humanos, y estamos orgullosos de ello\". En el apartado de arte y diseño, añade, \"estamos contratando a más personas de ese perfil\"."
+                "x": "Nexon creó un pipeline que preprocesa vídeos de juego, capturas de pantalla, audio y documentos de solicitud de clasificación para evaluar siete criterios principales de contenido. Introducir vídeos largos en la AI elevaba el coste en tokens y los modelos comerciales sufrían criterios fluctuantes, por lo que en 2027 un LLM interno seleccionará solo las escenas necesarias para modelos avanzados más consistentes."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chess-classic-games-hearts-bots.jpeg?quality=90&strip=all&w=2400",
-                "cap": "Los juegos multijugador de Classic Games tienen una barra lateral de chat."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
+                "cap": "©INVEN"
+              },
+              {
+                "t": "p",
+                "x": "Unos 40 etiquetadores de Myongji University juegan los títulos e introducen fotograma a fotograma los motivos de evaluación, y la universidad desarrolla un agente AI de juego autónomo: “El objetivo no es jugar bien, sino navegar y explorar con precisión para clasificar el contenido”."
+              },
+              {
+                "t": "p",
+                "x": "Smilegate aportó 2,894 registros de autoclasificación de STOVE y desde 2028 medirá las tasas de coincidencia con la revisión de los operadores y el tiempo de revisión. “Los resultados de la AI se usarán únicamente como material de referencia complementario para la revisión de los operadores”, dijo el investigador Moon Young-min. Los ponentes coincidieron en que las decisiones finales deben quedar en manos de personas."
               }
             ]
           }
