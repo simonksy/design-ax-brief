@@ -12644,6 +12644,116 @@
           "x": "\"There is something fundamentally similar in how the brain communicates,\" says senior author Evelina Fedorenko. The work may help clinical AI language tools reach speakers of more languages, and might one day help preserve endangered ones."
         }
       ]
+    },
+    "science/meta-meg-typing-decode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Scientists have developed an artificial intelligence system that translates brain activity recorded outside the skull into typed sentences. Reported in Nature Neuroscience, the model decoded memorized sentences with an average character error rate of 29 percent using magnetic brain scans, reaching 18 percent in the top-performing participant."
+        },
+        {
+          "t": "p",
+          "x": "Jarod Lévy, Stéphane d’Ascoli and Jean-Rémi King of Meta AI in Paris and colleagues built Brain2Qwerty, a deep-learning system trained on recordings from 35 skilled Spanish-speaking typists who wore a 64-sensor EEG cap or sat in a 306-sensor magnetoencephalography scanner. MEG outperformed EEG, whose error rate was 65 percent, and Brain2Qwerty cut EEGNet's MEG error rate from 72 to 29 percent."
+        },
+        {
+          "t": "p",
+          "x": "Errors tended to land on physically adjacent keys, suggesting the decoder reads finger motor commands. “This paper sets a new state-of-the-art accuracy for decoding what a person is typing using a noninvasive brain measurement technology,” said Sergey Stavisky of UC Davis, who added that it is “still a long way from being a practical way to communicate.”"
+        },
+        {
+          "t": "p",
+          "x": "The system cannot yet run in real time, relies on keystroke timestamps, and has not been tested on paralyzed users. Five of the study’s seven authors are employed by Meta."
+        }
+      ]
+    },
+    "science/jyvaskyla-metallene-ml-screen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
+          "cap": "Metals collapse into clusters without supporting layers; sandwiching them between TMDs, graphene or BN can yield flat, stable metals. Credit: Mohammad Bagheri"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the University of Jyväskylä used machine learning and high-performance computing to identify more than 300 stable metallene sandwich structures. Metallenes, one-atom-thick layers of elemental metals, tend to collapse into 3D clusters when freestanding."
+        },
+        {
+          "t": "p",
+          "x": "Machine learning trained on first-principles simulation data explored sandwiches combining dozens of metals with common 2D materials such as graphene and transition-metal dichalcogenides. \"Machine learning allowed us to examine more than a thousand heterostructures,\" said postdoctoral researcher Mohammad Bagheri."
+        },
+        {
+          "t": "p",
+          "x": "Selenium-based TMDs stabilized the largest number of metal layers, and room-temperature simulations confirmed selected sandwiches stay intact and metallic. \"The results give experimentalists a practical map,\" said professor Pekka Koskinen. The work appeared in Nano Letters; the dataset is public and calculations ran on the LUMI supercomputer."
+        }
+      ]
+    },
+    "science/nhb-eight-ai-impacts-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "Artificial intelligence (AI) systems are now used by one billion people worldwide. What is their impact on human users? Popular narratives of concern argue that AI may be undermining our cognitive abilities, polluting our information ecosystem, corroding human relationships, damaging our mental health and rendering us vulnerable to persuasion, manipulation, emotional dependence and social engineering."
+        },
+        {
+          "t": "p",
+          "x": "Emerging research has begun to study the impact that AI has on people, via model evaluations, user studies, analysis of consumer chatlogs and agent-based simulations. Here we review this evidence, finding limited evidence for the strongest narratives of concern. However, research is still nascent and many uncertainties remain to be resolved in future work."
+        },
+        {
+          "t": "p",
+          "x": "This Review, by Christopher Summerfield and colleagues, evaluates evidence for eight pressing concerns about how AI is affecting people. It finds modest support for the most alarming claims but calls for deeper scrutiny of the human impact of AI."
+        }
+      ]
+    },
+    "science/psypost-humour-dark-traits-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+          "cap": "[Adobe Stock]"
+        },
+        {
+          "t": "p",
+          "x": "A study in the Journal of Individual Differences indicates that machine-learning models analyzing how funny and cruel people find visual jokes can identify elevated levels of psychopathy and everyday sadism, and to a lesser degree narcissism, though not Machiavellianism."
+        },
+        {
+          "t": "p",
+          "x": "Liubov Glinkina of HSE University in Saint Petersburg and colleagues had 200 Russian speakers rate 71 memes, comics and cartoons on funniness, kindness and target, then compared six classifiers. Psychopathy was detected most reliably, reaching nearly 0.82 accuracy; sadism peaked above 0.70, narcissism at 0.66, and Machiavellianism hovered near the 0.50 chance mark."
+        },
+        {
+          "t": "p",
+          "x": "Random forest and gradient boosting performed best, and image features such as color and text layout did not improve accuracy. “This is a group-level statistical signal, not mind-reading: it cannot diagnose an individual,” Glinkina said, adding that it is “not a lie detector, a screening tool, or anything suitable for hiring.”"
+        }
+      ]
+    },
+    "science/cornell-chatbot-conspiracy-crisis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
+        },
+        {
+          "t": "p",
+          "x": "Rumors began circulating right after Donald Trump survived an assassination attempt at an open-air rally on July 13, 2024. Within days, researchers from Cornell, MIT and Carnegie Mellon University invited people to share their conspiracy beliefs with the DebunkBot, an AI-powered chatbot instructed to counter misinformation."
+        },
+        {
+          "t": "p",
+          "x": "The team found that 15% of people could be talked out of their conspiracy beliefs in the immediate aftermath of a crisis, when very little information is known. The paper, “Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models,” published Nov. 23 in Proceedings of the National Academy of Sciences."
+        },
+        {
+          "t": "p",
+          "x": "The experiment was repeated after the September 2025 assassination of Charlie Kirk. Participants were randomly assigned to a short exchange with the bot, a fact sheet, or an unrelated conversation. After both crises, DebunkBot reduced conspiracy beliefs and was about five to seven times more effective than a fact sheet. People who had talked with it were also less likely to hold conspiratorial beliefs about a later attempt on Trump."
+        },
+        {
+          "t": "p",
+          "x": "“The challenge now isn’t so much pulling people out of the rabbit hole. It’s getting them to engage in the first place,” said first author Thomas Costello of Carnegie Mellon University."
+        }
+      ]
     }
   }
 }

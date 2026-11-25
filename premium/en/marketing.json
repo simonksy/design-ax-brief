@@ -6206,6 +6206,141 @@
           "x": "Advertisers can't see what prompted their ads to appear: they receive only aggregate reporting on ChatGPT ad performance, not prompt-level data, leaving many to treat the platform as test spend. Buyers have found that ChatGPT's ad CTR lags Google's, and OpenAI's $1 billion annualized ad run rate is already \"a much smaller footprint\" than what it has now."
         }
       ]
+    },
+    "marketing/amazon-ads-mcp-dec8": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
+          "cap": "Amazon Ads MCP Server adds optional stateless MCP 2026-07-28 support on Dec 8, old versions stay."
+        },
+        {
+          "t": "p",
+          "x": "Amazon Ads will support version 2026-07-28 of the Model Context Protocol on its MCP Server starting December 8, 2026. Adoption is optional: \"existing clients will not be automatically upgraded,\" and older protocol versions remain supported with no decommission date announced."
+        },
+        {
+          "t": "p",
+          "x": "Clients that opt in drop the initialize handshake and the Mcp-Session-Id header; protocol version and client capabilities travel in each request's _meta field, a new server/discover method reports supported versions, and list results such as tools/list carry ttlMs and cacheScope caching metadata. Endpoints, tools, authentication and access controls are unchanged."
+        },
+        {
+          "t": "p",
+          "x": "Amazon lists five migration steps, ending with testing server/discover, tools/list and representative tools/call requests before production use. Its documentation still lists the server under \"MCP Tools (beta).\" The server opened in closed beta on November 13, 2025, and has since added OAuth 2.1 sign-in, a Lite version at /mcp/lite and Audience Discovery tools."
+        }
+      ]
+    },
+    "marketing/adobe-agents-chatgpt-claude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
+          "cap": "Adobe said on the 24th that its ‘CX Enterprise Coworker’ is now available on major AI platforms. Photo courtesy of Adobe"
+        },
+        {
+          "t": "p",
+          "x": "Adobe is making an artificial intelligence (AI) agent that helps marketers manage customer experience available on major AI platforms such as ChatGPT and Claude. The idea is to let marketers handle everything up to campaign planning and analysis inside the AI they already use, without launching Adobe products separately."
+        },
+        {
+          "t": "p",
+          "x": "Adobe said on the 24th that its AI agent, ‘CX Enterprise Coworker,’ can be used on major AI platforms. It is currently available in ChatGPT, Claude, Gemini (Enterprise) and Copilot, with support for Amazon Quick, IBM and Snowflake planned."
+        },
+        {
+          "t": "p",
+          "x": "CX Enterprise Coworker is an AI agent that handles customer experience (CX) management. It covers every stage of customer management, from acquiring prospects and driving engagement to purchase conversion and growing customer lifetime value. Under human supervision, it analyzes campaign performance and emerging trends and offers audience prediction and customer journey optimization."
+        },
+        {
+          "t": "p",
+          "x": "Adobe says it aims to solve the problem of marketers using AI tools without reflecting their company's context. Anjul Bhambhri, senior vice president of CX orchestration engineering at Adobe, said, “Marketers have often used AI tools individually without fully drawing on organizational context and intelligence.” Bhambhri explained that the tool connects AI tools and workflows based on brand and customer information."
+        },
+        {
+          "t": "p",
+          "x": "Adobe also unveiled new connectors. It provides Model Context Protocol (MCP) servers prebuilt to connect with systems marketers use, such as Amazon Ads, Meta ads and Microsoft Work IQ. Marketers will be able to connect systems without separate integration work and pull data from multiple systems with a single request."
+        },
+        {
+          "t": "p",
+          "x": "Several ad agencies are also building industry-specific solutions on top of the tool. Rao Surapaneni, vice president at Google Cloud, said, “By integrating Adobe CX Enterprise Coworker into Gemini Enterprise, companies can securely use customer data and brand intelligence within their existing work environments.”"
+        }
+      ]
+    },
+    "marketing/sej-fake-deal-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
+        },
+        {
+          "t": "p",
+          "x": "Nine AI models from Anthropic, OpenAI, and Google went Christmas shopping 6,156 times. When one of the listings was an obviously fake deal — a perfect 5.0 from tens of thousands of reviews at a fifth to a quarter of everyone else's price — they bought it 37% of the time. 8 of 9 models bought the fake deal; Claude Opus never did."
+        },
+        {
+          "t": "p",
+          "x": "315 times an AI wrote that a deal looked suspicious, and 137 of those times it bought the fake anyway. Across those doubts, an AI asked a question 10 times, every time about the size of the slippers, and never about the deal it doubted."
+        },
+        {
+          "t": "p",
+          "x": "A fake deal listed first was bought 65% of the time; asked for the best value, the AIs bought the fake 53% of the time, against 19% with no preference. With the fake gone, the 4.9-star listing won 2,277 of 2,915 purchases, 78%. A hidden note telling AIs to pick a listing worked 14 times out of 6,156, all on Gemini 3.5 Flash-Lite."
+        },
+        {
+          "t": "p",
+          "x": "The test ran Nov. 14 and 15 with ten made-up listings per present in the format Shopify uses to send products to AI shopping agents, and cost $69.97 in AI fees. \"If you let an AI do your Christmas shopping this year, check what it picked before you pay.\""
+        }
+      ]
+    },
+    "marketing/amazon-meta-muse-talks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+          "cap": "Meta Muse mascot sitting at laptop"
+        },
+        {
+          "t": "p",
+          "x": "Amazon may be having a change of heart about Meta’s AI agent, Muse. The two tech giants are reportedly discussing a potential deal that would allow Meta’s popular AI agent to connect directly to Amazon’s store."
+        },
+        {
+          "t": "p",
+          "x": "The talks would mark a significant reversal from just two months ago, when Muse users discovered they were unable to purchase products on Amazon and instead received an error message when attempting to check out."
+        },
+        {
+          "t": "p",
+          "x": "According to a Wednesday report by Fortune, citing people familiar with the discussions, Amazon and Meta have held multiple rounds of talks about the matter. Two key issues remain under negotiation: how search results would be presented and how advertising would be handled under a potential agreement."
+        },
+        {
+          "t": "p",
+          "x": "One of Amazon’s biggest concerns is how third-party shopping agents like Muse could affect its advertising business. In October, Amazon CEO Andy Jassy argued that few customers were making purchases through outside shopping agents."
+        },
+        {
+          "t": "p",
+          "x": "Amazon may also have been waiting for Muse to mature before agreeing to integrate it with its marketplace. If Muse places the wrong order or creates a problem with a purchase, Amazon could ultimately be left dealing with frustrated customers and unhappy sellers."
+        },
+        {
+          "t": "p",
+          "x": "Fortune reported that executives are concerned that third-party shopping agents could weaken Amazon’s direct relationship with consumers, according to people familiar with the matter. Any potential agreement between Amazon and Meta would reportedly require approval from both companies’ CEOs, Fortune also reported."
+        }
+      ]
+    },
+    "marketing/chatgpt-health-ads-webmd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
+        },
+        {
+          "t": "p",
+          "x": "When OpenAI announced in January that ChatGPT would soon be serving ads, it said ads were “not eligible to appear near sensitive or regulated topics like health, mental health or politics,” and healthcare ads were entirely prohibited. As its ads business matures, it has begun to expand which advertisers it permits."
+        },
+        {
+          "t": "p",
+          "x": "On Tuesday, WebMD Ignite, the healthcare enterprise division of WebMD, announced its ChatGPT ads offering. ChatGPT Ads’ latest policies offer more leeway in the US, though health-related ads are still “generally prohibited” in other countries. OpenAI may accept ads case by case for hospital and urgent care, health insurance, dietary supplements and consumer medical devices; so far it has permitted ads only from health systems and providers, not insurers."
+        },
+        {
+          "t": "p",
+          "x": "Over 30% of Americans have used AI chatbots for health advice, so providers want to be “present and discoverable” in LLMs, said Ann Bilyew, president of WebMD Ignite. Ads must be “informational, not promotional,” and won’t run in conversations where a health condition is even “strongly implied.” Clients see views and clicks, but not the content their ads appear next to."
+        },
+        {
+          "t": "p",
+          "x": "WebMD Ignite has been testing roughly 100 creative variations for an academic medical center’s cardiology division and comparing results to paid search. “Our message to clients is, ‘Look, just get in there and start learning,’” Bilyew said."
+        }
+      ]
     }
   }
 }

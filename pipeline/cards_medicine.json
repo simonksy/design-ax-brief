@@ -1,363 +1,393 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "medicine",
   "cards": [
     {
-      "id": "houston-methodist-hdai-readmit",
-      "source_lang": "en",
+      "id": "mediwhale-doctornoon-cvd-fda",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Houston 병원 AI,\n퇴원 후 사망 줄였다",
-      "body": "Methodist는 HDAI AI로 30일 사망 35%, 재입원 18%를 줄였다.",
-      "mini_headline": "AI로 퇴원 후 사망 감소",
+      "headline": "메디웨일 망막 AI\nFDA 510(k) 허가",
+      "body": "안저 사진으로 10년 내 심혈관질환 위험을 추정하는 AI가 FDA 허가를 받았다.",
+      "mini_headline": "닥터눈 CVD FDA 허가",
       "tool": "Medicine",
-      "source": "MedPage Today",
-      "url": "https://www.medpagetoday.com/hospitalbasedmedicine/generalhospitalpractice/124037",
+      "source": "메디게이트뉴스",
+      "url": "https://www.medigatenews.com/news/3289123775",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
-            "cap": "가정 방문을 온 의사와 함께 웃는 노년 남성."
+            "src": "https://medigatenews.com/file/news/546012"
           },
           {
             "t": "p",
-            "x": "Las Vegas에서 열린 HLTH 콘퍼런스 사례 발표에 따르면 Texas의 한 병원이 인공지능(AI)의 도움으로 인력을 늘리지 않고 재입원과 퇴원 후 사망을 줄였다."
+            "x": "의료 인공지능(AI) 기업 메디웨일이 망막 기반 심혈관질환 위험 예측 AI 소프트웨어 ‘닥터눈 CVD’가 미국 식품의약국(FDA)으로부터 510(k) 승인(Clearance)을 획득했다고 25일 밝혔다. 회사는 이번 허가를 발판으로 닥터눈 CVD의 미국 의료기관 도입을 본격 추진한다는 방침이다."
           },
           {
             "t": "p",
-            "x": "Houston Methodist Hospital은 예측 AI로 위험도가 가장 높은 Medicare 수술 환자에게 추적 방문을 집중했다. 그 결과 30일 퇴원 후 사망률은 약 35%, 재입원은 약 18% 줄었다고 병원 선임 혁신 컨설턴트 Brenda Campbell(MS, BSN)이 밝혔다."
+            "x": "닥터눈 CVD는 안저카메라로 촬영한 망막 이미지를 AI로 분석해 향후 심혈관질환 발생 위험을 평가하는 의료기기다. 망막 이미지를 분석해 향후 10년 내 첫 죽상경화성 심혈관질환(ASCVD) 발생 위험을 추정하도록 FDA 승인을 받았다."
           },
           {
             "t": "p",
-            "x": "퇴원 후 사망의 관찰 대비 기대(O/E) 비율은 2021~2022년 0.48에서 2025년~2026년 Q1(일부 기간) 0.31로, 재입원은 1.17에서 0.96으로 떨어졌다. 14일 이내 임상의 추적 방문 비율은 사망 위험 최상위군에서 54.6%에서 62.2%로, 재입원 위험 최상위군에서 55.8%에서 64.5%로 올랐다."
+            "x": "분석 결과는 위험 점수와 3단계 위험군으로 제시된다. 의료진은 이 결과를 환자의 다른 임상 정보와 함께 검토해 심혈관 위험평가를 위한 보조 정보로 활용할 수 있다."
           },
           {
             "t": "p",
-            "x": "작업은 2021년 시작됐다. Medicare 전체 데이터로 예측 AI를 학습시킨 Health Data Analytics Institute(HDAI)가 100곳이 넘는 학술 의료기관을 비교해 보니, 이 병원 심혈관 서비스 라인은 원내 사망률이 7위였지만 30일 퇴원 후 사망률은 43위에 머물렀다. 예측 결과는 전자의무기록에 들어갔고, 임상의들은 최고 위험 환자부터 2주 안에 추적 진료를 하라는 요청을 받았다."
+            "x": "최근 미국에서 심혈관질환 위험을 이른 단계에서 평가하고 관리하는 예방적 접근의 중요성이 커지고 있다. 2026년 미국심장학회와 미국심장협회 이상지질혈증 가이드라인도 개인별 위험평가를 바탕으로 한 조기 관리의 중요성을 제시하고 있다."
           },
           {
             "t": "p",
-            "x": "114곳 학술 의료기관 가운데 이 병원의 재입원 순위는 2022년 59위에서 2024년 7위로 올랐다. Campbell은 \"추가 자원 없이 이 일을 해냈다\"고 말했다."
+            "x": "회사 측은 닥터눈 CVD가 미국 의료진의 심혈관 위험평가 도구로 활용돼 심혈관질환 예방에 기여할 것으로 기대했다. 비침습적인 망막 촬영으로 심혈관 위험을 평가하고 예방적 관리로 연결하는 접근법을 제시한다는 구상이다. 미국 1차 의료현장에서 심혈관질환 예방의 진입점으로 자리매김시키겠다는 목표도 내놨다."
+          },
+          {
+            "t": "p",
+            "x": "최태근 메디웨일 대표는 “미국 의료 현장에 채혈이나 방사선 없이, 낮은 비용으로 심혈관 위험을 식별하는 새로운 선택지가 생긴 것”이라며 “대규모 코호트로 입증한 근거 위에 미국 현지 실사용 데이터를 더하고, 파트너 인프라를 통해 일차의료 현장에 빠르게 보급하겠다”고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Houston Methodist AI cuts\npost-discharge deaths",
-          "body": "Houston Methodist used HDAI's predictive AI to target follow-up, cutting 30-day deaths about 35% and readmissions 18%.",
-          "mini_headline": "AI cuts post-discharge deaths",
+        "ko": {
+          "headline": "메디웨일 망막 AI\nFDA 510(k) 허가",
+          "body": "안저 사진으로 10년 내 심혈관질환 위험을 추정하는 AI가 FDA 허가를 받았다.",
+          "mini_headline": "닥터눈 CVD FDA 허가",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
-                "cap": "Senior man laughing with doctor during home visit."
+                "src": "https://medigatenews.com/file/news/546012"
               },
               {
                 "t": "p",
-                "x": "Artificial intelligence (AI) helped one Texas hospital lower readmissions and post-discharge deaths, without adding any new staff, according to a case study presented at the HLTH conference in Las Vegas."
+                "x": "의료 인공지능(AI) 기업 메디웨일이 망막 기반 심혈관질환 위험 예측 AI 소프트웨어 ‘닥터눈 CVD’가 미국 식품의약국(FDA)으로부터 510(k) 승인(Clearance)을 획득했다고 25일 밝혔다. 회사는 이번 허가를 발판으로 닥터눈 CVD의 미국 의료기관 도입을 본격 추진한다는 방침이다."
               },
               {
                 "t": "p",
-                "x": "Using predictive AI to focus follow-up visits on its Medicare surgical patients at highest risk, Houston Methodist Hospital's 30-day post-discharge mortality fell about 35%, and readmissions fell about 18%, Brenda Campbell, MS, BSN, the hospital's senior innovation consultant, said."
+                "x": "닥터눈 CVD는 안저카메라로 촬영한 망막 이미지를 AI로 분석해 향후 심혈관질환 발생 위험을 평가하는 의료기기다. 망막 이미지를 분석해 향후 10년 내 첫 죽상경화성 심혈관질환(ASCVD) 발생 위험을 추정하도록 FDA 승인을 받았다."
               },
               {
                 "t": "p",
-                "x": "Observed-to-expected (O/E) ratios fell from 0.48 in 2021-2022 to 0.31 in 2025-Q1 2026 (a partial period) for post-discharge deaths, and from 1.17 to 0.96 for readmissions. Clinician follow-up visits within 14 days rose from 54.6% to 62.2% in the highest mortality-risk group and from 55.8% to 64.5% in the highest readmission-risk group."
+                "x": "분석 결과는 위험 점수와 3단계 위험군으로 제시된다. 의료진은 이 결과를 환자의 다른 임상 정보와 함께 검토해 심혈관 위험평가를 위한 보조 정보로 활용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "The effort began in 2021. The Health Data Analytics Institute (HDAI), which had trained predictive AI on the entire Medicare data set, found the cardiovascular service line ranked 7th for in-hospital mortality but 43rd for 30-day post-discharge mortality among more than 100 academic medical centers. Predictions were embedded into the electronic medical record, and clinicians were asked to prioritize follow-up within 2 weeks for the highest-risk patients."
+                "x": "최근 미국에서 심혈관질환 위험을 이른 단계에서 평가하고 관리하는 예방적 접근의 중요성이 커지고 있다. 2026년 미국심장학회와 미국심장협회 이상지질혈증 가이드라인도 개인별 위험평가를 바탕으로 한 조기 관리의 중요성을 제시하고 있다."
               },
               {
                 "t": "p",
-                "x": "The hospital's readmission ranking among 114 academic medical centers rose from 59th in 2022 to 7th in 2024. \"We've done this without any additional resources,\" Campbell said."
+                "x": "회사 측은 닥터눈 CVD가 미국 의료진의 심혈관 위험평가 도구로 활용돼 심혈관질환 예방에 기여할 것으로 기대했다. 비침습적인 망막 촬영으로 심혈관 위험을 평가하고 예방적 관리로 연결하는 접근법을 제시한다는 구상이다. 미국 1차 의료현장에서 심혈관질환 예방의 진입점으로 자리매김시키겠다는 목표도 내놨다."
+              },
+              {
+                "t": "p",
+                "x": "최태근 메디웨일 대표는 “미국 의료 현장에 채혈이나 방사선 없이, 낮은 비용으로 심혈관 위험을 식별하는 새로운 선택지가 생긴 것”이라며 “대규모 코호트로 입증한 근거 위에 미국 현지 실사용 데이터를 더하고, 파트너 인프라를 통해 일차의료 현장에 빠르게 보급하겠다”고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Houston 병원 AI,\n퇴원 후 사망 줄였다",
-          "body": "Methodist는 HDAI AI로 30일 사망 35%, 재입원 18%를 줄였다.",
-          "mini_headline": "AI로 퇴원 후 사망 감소",
+        "en": {
+          "headline": "Mediwhale retinal AI wins\nFDA 510(k) clearance",
+          "body": "An AI that estimates the risk of cardiovascular disease within 10 years from fundus photos has received FDA clearance.",
+          "mini_headline": "DrNoon CVD gets FDA clearance",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
-                "cap": "가정 방문을 온 의사와 함께 웃는 노년 남성."
+                "src": "https://medigatenews.com/file/news/546012"
               },
               {
                 "t": "p",
-                "x": "Las Vegas에서 열린 HLTH 콘퍼런스 사례 발표에 따르면 Texas의 한 병원이 인공지능(AI)의 도움으로 인력을 늘리지 않고 재입원과 퇴원 후 사망을 줄였다."
+                "x": "Medical artificial intelligence (AI) company Mediwhale said on the 25th that its retina-based cardiovascular disease risk prediction AI software, ‘DrNoon CVD’, has obtained 510(k) Clearance from the U.S. Food and Drug Administration (FDA). The company plans to use the clearance as a foothold to push in earnest for adoption of DrNoon CVD by U.S. medical institutions."
               },
               {
                 "t": "p",
-                "x": "Houston Methodist Hospital은 예측 AI로 위험도가 가장 높은 Medicare 수술 환자에게 추적 방문을 집중했다. 그 결과 30일 퇴원 후 사망률은 약 35%, 재입원은 약 18% 줄었다고 병원 선임 혁신 컨설턴트 Brenda Campbell(MS, BSN)이 밝혔다."
+                "x": "DrNoon CVD is a medical device that uses AI to analyze retinal images taken with a fundus camera and assess the risk of future cardiovascular disease. It was cleared by the FDA to estimate, by analyzing retinal images, the risk of a first atherosclerotic cardiovascular disease (ASCVD) event within the next 10 years."
               },
               {
                 "t": "p",
-                "x": "퇴원 후 사망의 관찰 대비 기대(O/E) 비율은 2021~2022년 0.48에서 2025년~2026년 Q1(일부 기간) 0.31로, 재입원은 1.17에서 0.96으로 떨어졌다. 14일 이내 임상의 추적 방문 비율은 사망 위험 최상위군에서 54.6%에서 62.2%로, 재입원 위험 최상위군에서 55.8%에서 64.5%로 올랐다."
+                "x": "Results are presented as a risk score and 3 risk tiers. Clinicians can review them alongside the patient's other clinical information and use them as supplementary information for cardiovascular risk assessment."
               },
               {
                 "t": "p",
-                "x": "작업은 2021년 시작됐다. Medicare 전체 데이터로 예측 AI를 학습시킨 Health Data Analytics Institute(HDAI)가 100곳이 넘는 학술 의료기관을 비교해 보니, 이 병원 심혈관 서비스 라인은 원내 사망률이 7위였지만 30일 퇴원 후 사망률은 43위에 머물렀다. 예측 결과는 전자의무기록에 들어갔고, 임상의들은 최고 위험 환자부터 2주 안에 추적 진료를 하라는 요청을 받았다."
+                "x": "In the U.S., preventive approaches that assess and manage cardiovascular risk at an early stage have been gaining importance. The 2026 American College of Cardiology and American Heart Association dyslipidemia guideline also stresses early management based on individual risk assessment."
               },
               {
                 "t": "p",
-                "x": "114곳 학술 의료기관 가운데 이 병원의 재입원 순위는 2022년 59위에서 2024년 7위로 올랐다. Campbell은 \"추가 자원 없이 이 일을 해냈다\"고 말했다."
+                "x": "The company expects DrNoon CVD to serve as a cardiovascular risk assessment tool for U.S. clinicians and contribute to preventing cardiovascular disease. The idea is to offer an approach that assesses cardiovascular risk through non-invasive retinal imaging and links it to preventive care. It also set a goal of establishing the product as an entry point for cardiovascular disease prevention in U.S. primary care settings (tier 1 care)."
+              },
+              {
+                "t": "p",
+                "x": "“U.S. medical practice now has a new option to identify cardiovascular risk at low cost, without blood draws or radiation,” said Mediwhale CEO Choi Tae-geun. “On top of evidence proven in large cohorts, we will add real-world data from the U.S. and roll it out quickly to primary care settings through our partners' infrastructure.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Houston病院のAI\n退院後の死亡を減らす",
-          "body": "MethodistはHDAIの予測AIで30日死亡を約35%、再入院を18%減らした。",
-          "mini_headline": "AIで退院後の死亡が減少",
+          "headline": "Mediwhaleの網膜AI\nFDA 510(k)取得",
+          "body": "眼底写真から10年以内の心血管疾患リスクを推定するAIがFDAの認可を得た。",
+          "mini_headline": "DrNoon CVDがFDA認可",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
-                "cap": "訪問診療中に医師と笑い合う高齢男性。"
+                "src": "https://medigatenews.com/file/news/546012"
               },
               {
                 "t": "p",
-                "x": "Las Vegasで開かれたHLTHカンファレンスで発表された事例研究によると、人工知能(AI)はTexasのある病院で、新たな人員を増やすことなく再入院と退院後の死亡を減らすのに役立った。"
+                "x": "医療人工知能（AI）企業のMediwhaleは25日、網膜画像をもとに心血管疾患リスクを予測するAIソフトウェア「DrNoon CVD」が米国食品医薬品局（FDA）から510(k)認可（Clearance）を取得したと発表した。同社はこの認可を足がかりに、DrNoon CVDの米国医療機関への導入を本格的に進める方針だ。"
               },
               {
                 "t": "p",
-                "x": "Houston Methodist Hospitalは予測AIを使い、リスクが最も高いMedicareの手術患者にフォローアップ訪問を集中させた。その結果、退院後30日死亡率は約35%、再入院は約18%低下したと、同病院のシニアイノベーションコンサルタントであるBrenda Campbell(MS, BSN)は述べた。"
+                "x": "DrNoon CVDは、眼底カメラで撮影した網膜画像をAIで解析し、将来の心血管疾患の発症リスクを評価する医療機器だ。網膜画像の解析により、今後10年以内に初めてアテローム性動脈硬化性心血管疾患（ASCVD）を発症するリスクを推定する用途でFDAの認可を受けた。"
               },
               {
                 "t": "p",
-                "x": "退院後死亡の観察値/期待値(O/E)比は2021〜2022年の0.48から2025年〜2026年Q1(部分期間)には0.31に、再入院では1.17から0.96に低下した。14日以内の臨床医によるフォローアップ受診率は、死亡リスク最上位群で54.6%から62.2%へ、再入院リスク最上位群で55.8%から64.5%へ上昇した。"
+                "x": "解析結果はリスクスコアと3段階のリスク群で示される。医療従事者はこの結果を患者のほかの臨床情報とあわせて確認し、心血管リスク評価の補助情報として活用できる。"
               },
               {
                 "t": "p",
-                "x": "取り組みは2021年に始まった。Medicareの全データで予測AIを学習させていたHealth Data Analytics Institute(HDAI)は、100を超える大学医療センターの中で、同病院の循環器サービスラインが院内死亡率では7位だったのに対し、退院後30日死亡率では43位だったことを突き止めた。予測は電子カルテに組み込まれ、臨床医は最高リスク患者のフォローアップを2週間以内に優先するよう求められた。"
+                "x": "米国では近年、心血管疾患リスクを早い段階で評価・管理する予防的アプローチの重要性が高まっている。2026年の米国心臓病学会と米国心臓協会の脂質異常症ガイドラインも、個人ごとのリスク評価に基づく早期管理の重要性を示している。"
               },
               {
                 "t": "p",
-                "x": "114の大学医療センターの中で、同病院の再入院順位は2022年の59位から2024年には7位に上がった。「追加のリソースなしでこれを成し遂げた」とCampbellは語った。"
+                "x": "同社は、DrNoon CVDが米国の医療従事者の心血管リスク評価ツールとして使われ、心血管疾患の予防に貢献すると期待している。非侵襲的な網膜撮影で心血管リスクを評価し、予防的な管理につなげるアプローチを示す構想だ。米国の1次医療の現場で、心血管疾患予防の入り口として定着させる目標も掲げた。"
+              },
+              {
+                "t": "p",
+                "x": "Mediwhaleのチェ・テグン代表は「米国の医療現場に、採血や放射線なしで、低コストで心血管リスクを見つける新たな選択肢が生まれた」と述べ、「大規模コホートで実証した根拠に米国での実臨床データを加え、パートナーのインフラを通じてプライマリケアの現場に素早く広げていく」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Houston医院AI\n降低出院后死亡",
-          "body": "Methodist借助HDAI预测AI精准随访，30天死亡率降约35%，再入院降18%。",
-          "mini_headline": "AI降低出院后死亡",
+          "headline": "Mediwhale视网膜AI\n获FDA 510(k)许可",
+          "body": "一款通过眼底照片估算10年内心血管疾病风险的AI获得FDA许可。",
+          "mini_headline": "DrNoon CVD获FDA许可",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
-                "cap": "家访时与医生一起大笑的老年男性。"
+                "src": "https://medigatenews.com/file/news/546012"
               },
               {
                 "t": "p",
-                "x": "据在Las Vegas举行的HLTH大会上发布的一项案例研究，人工智能(AI)帮助Texas一家医院在未增加任何新员工的情况下降低了再入院率和出院后死亡率。"
+                "x": "医疗人工智能（AI）企业Mediwhale于25日宣布，其基于视网膜的心血管疾病风险预测AI软件“DrNoon CVD”已获得美国食品药品监督管理局（FDA）510(k)许可（Clearance）。公司计划以此为契机，全面推进DrNoon CVD进入美国医疗机构。"
               },
               {
                 "t": "p",
-                "x": "该院高级创新顾问Brenda Campbell(MS, BSN)表示，Houston Methodist Hospital利用预测AI将随访重点放在风险最高的Medicare手术患者身上，出院后30天死亡率下降约35%，再入院率下降约18%。"
+                "x": "DrNoon CVD是一款医疗器械，利用AI分析眼底相机拍摄的视网膜图像，评估未来发生心血管疾病的风险。它获得FDA许可的用途是：通过分析视网膜图像，估算未来10年内首次发生动脉粥样硬化性心血管疾病（ASCVD）的风险。"
               },
               {
                 "t": "p",
-                "x": "出院后死亡的观察/预期(O/E)比值从2021-2022年的0.48降至2025年至2026年Q1(部分期间)的0.31，再入院的比值从1.17降至0.96。在死亡风险最高组中，14天内临床医生随访比例从54.6%升至62.2%；在再入院风险最高组中，从55.8%升至64.5%。"
+                "x": "分析结果以风险评分和3级风险分组呈现。医务人员可将结果与患者的其他临床信息一并审阅，作为心血管风险评估的辅助信息。"
               },
               {
                 "t": "p",
-                "x": "这项工作始于2021年。Health Data Analytics Institute(HDAI)曾用Medicare全部数据集训练预测AI，发现在100多家学术医疗中心中，该院心血管服务线的院内死亡率排名第7，而出院后30天死亡率仅排第43。预测结果被嵌入电子病历，临床医生被要求在2周内优先为最高风险患者安排随访。"
+                "x": "近来在美国，及早评估和管理心血管疾病风险的预防性方法日益受到重视。2026年美国心脏病学会和美国心脏协会的血脂异常指南也强调了基于个体风险评估的早期管理。"
               },
               {
                 "t": "p",
-                "x": "在114家学术医疗中心中，该院的再入院排名从2022年的第59位升至2024年的第7位。Campbell说：“我们是在没有任何额外资源的情况下做到的。”"
+                "x": "公司期待DrNoon CVD成为美国医务人员的心血管风险评估工具，为心血管疾病预防作出贡献。其设想是通过无创的视网膜拍摄评估心血管风险，并将其与预防性管理相衔接。公司还提出目标，要让它成为美国初级（1级）医疗现场心血管疾病预防的切入点。"
+              },
+              {
+                "t": "p",
+                "x": "Mediwhale首席执行官Choi Tae-geun表示：“美国医疗现场多了一个新选择，无需抽血或放射线，就能以低成本识别心血管风险。”他还说：“我们将在大规模队列验证的证据基础上，加入美国本土的真实世界数据，并借助合作伙伴的基础设施，迅速推广到基层医疗现场。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Houston Methodist reduce con AI\nlas muertes tras el alta",
-          "body": "Con la AI predictiva de HDAI, Houston Methodist redujo un 35% las muertes a 30 días y un 18% los reingresos.",
-          "mini_headline": "La AI reduce muertes tras el alta",
+          "headline": "Mediwhale: AI retinal obtiene\nautorización FDA 510(k)",
+          "body": "Una AI que estima el riesgo cardiovascular a 10 años con fotos de fondo de ojo recibió el aval de la FDA.",
+          "mini_headline": "DrNoon CVD obtiene el aval de la FDA",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
-                "cap": "Hombre mayor riendo con un médico durante una visita a domicilio."
+                "src": "https://medigatenews.com/file/news/546012"
               },
               {
                 "t": "p",
-                "x": "La inteligencia artificial (AI) ayudó a un hospital de Texas a reducir los reingresos y las muertes tras el alta sin sumar personal nuevo, según un estudio de caso presentado en la conferencia HLTH en Las Vegas."
+                "x": "La empresa de inteligencia artificial (AI) médica Mediwhale anunció el día 25 que su software de AI ‘DrNoon CVD’, que predice el riesgo de enfermedad cardiovascular a partir de la retina, obtuvo la autorización 510(k) (Clearance) de la Administración de Alimentos y Medicamentos de Estados Unidos (FDA). La compañía planea usar esta autorización como base para impulsar de lleno la adopción de DrNoon CVD en instituciones médicas de Estados Unidos."
               },
               {
                 "t": "p",
-                "x": "Al usar AI predictiva para concentrar las visitas de seguimiento en sus pacientes quirúrgicos de Medicare de mayor riesgo, la mortalidad a 30 días tras el alta del Houston Methodist Hospital cayó cerca de un 35% y los reingresos, cerca de un 18%, afirmó Brenda Campbell, MS, BSN, consultora sénior de innovación del hospital."
+                "x": "DrNoon CVD es un dispositivo médico que analiza con AI imágenes de la retina tomadas con una cámara de fondo de ojo para evaluar el riesgo futuro de enfermedad cardiovascular. Recibió la autorización de la FDA para estimar, a partir de imágenes de la retina, el riesgo de un primer evento de enfermedad cardiovascular aterosclerótica (ASCVD) en los próximos 10 años."
               },
               {
                 "t": "p",
-                "x": "Las razones observado/esperado (O/E) bajaron de 0.48 en 2021-2022 a 0.31 en 2025-Q1 2026 (un periodo parcial) para las muertes tras el alta, y de 1.17 a 0.96 para los reingresos. Las visitas de seguimiento clínico en un plazo de 14 días subieron del 54.6% al 62.2% en el grupo de mayor riesgo de mortalidad y del 55.8% al 64.5% en el de mayor riesgo de reingreso."
+                "x": "Los resultados se presentan como una puntuación de riesgo y 3 grupos de riesgo. Los médicos pueden revisarlos junto con otra información clínica del paciente y usarlos como información complementaria para evaluar el riesgo cardiovascular."
               },
               {
                 "t": "p",
-                "x": "El trabajo empezó en 2021. El Health Data Analytics Institute (HDAI), que había entrenado AI predictiva con todo el conjunto de datos de Medicare, halló que la línea de servicio cardiovascular ocupaba el puesto 7 en mortalidad hospitalaria, pero el 43 en mortalidad a 30 días tras el alta, entre más de 100 centros médicos académicos. Las predicciones se integraron en la historia clínica electrónica y se pidió a los clínicos priorizar el seguimiento en un plazo de 2 semanas para los pacientes de mayor riesgo."
+                "x": "En Estados Unidos ha crecido la importancia de los enfoques preventivos que evalúan y gestionan el riesgo cardiovascular en etapas tempranas. La guía de dislipidemia de 2026 del Colegio Americano de Cardiología y la Asociación Americana del Corazón también subraya la importancia del manejo temprano basado en la evaluación individual del riesgo."
               },
               {
                 "t": "p",
-                "x": "Entre 114 centros médicos académicos, el hospital pasó del puesto 59 en reingresos en 2022 al 7 en 2024. \"Lo hemos hecho sin recursos adicionales\", dijo Campbell."
+                "x": "La empresa espera que DrNoon CVD sirva a los médicos de Estados Unidos como herramienta de evaluación del riesgo cardiovascular y contribuya a prevenir la enfermedad cardiovascular. La idea es ofrecer un enfoque que evalúe el riesgo cardiovascular mediante una fotografía no invasiva de la retina y lo vincule con un manejo preventivo. También se fijó la meta de consolidarlo como puerta de entrada a la prevención cardiovascular en la atención primaria (nivel 1) de Estados Unidos."
+              },
+              {
+                "t": "p",
+                "x": "“Los centros médicos de Estados Unidos cuentan ahora con una nueva opción para identificar el riesgo cardiovascular a bajo costo, sin extracción de sangre ni radiación”, dijo Choi Tae-geun, director ejecutivo de Mediwhale. “Sobre la evidencia demostrada en grandes cohortes sumaremos datos de uso real en Estados Unidos y lo extenderemos rápidamente a la atención primaria a través de la infraestructura de nuestros socios”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Houston 병원 AI,\n퇴원 후 사망 줄였다",
-          "body": "Methodist는 HDAI AI로 30일 사망 35%, 재입원 18%를 줄였다.",
-          "mini_headline": "AI로 퇴원 후 사망 감소",
+        "en": {
+          "headline": "Mediwhale retinal AI wins\nFDA 510(k) clearance",
+          "body": "An AI that estimates the risk of cardiovascular disease within 10 years from fundus photos has received FDA clearance.",
+          "mini_headline": "DrNoon CVD gets FDA clearance",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
-                "cap": "가정 방문 중 의사와 함께 웃는 노년 남성."
+                "src": "https://medigatenews.com/file/news/546012"
               },
               {
                 "t": "p",
-                "x": "Las Vegas에서 열린 HLTH 콘퍼런스의 사례 발표에 따르면, 인공지능(AI)은 Texas의 한 병원이 신규 인력을 늘리지 않고도 재입원과 퇴원 후 사망을 줄이도록 도왔다."
+                "x": "Medical artificial intelligence (AI) company Mediwhale said on the 25th that its retina-based cardiovascular disease risk prediction AI software, ‘DrNoon CVD’, has obtained 510(k) Clearance from the U.S. Food and Drug Administration (FDA). The company plans to use the clearance as a foothold to push in earnest for adoption of DrNoon CVD by U.S. medical institutions."
               },
               {
                 "t": "p",
-                "x": "Houston Methodist Hospital은 예측 AI로 위험도가 가장 높은 Medicare 수술 환자에게 추적 방문을 집중했고, 그 결과 30일 퇴원 후 사망률은 약 35%, 재입원은 약 18% 줄었다고 병원 선임 혁신 컨설턴트 Brenda Campbell(MS, BSN)이 밝혔다."
+                "x": "DrNoon CVD is a medical device that uses AI to analyze retinal images taken with a fundus camera and assess the risk of future cardiovascular disease. It was cleared by the FDA to estimate, by analyzing retinal images, the risk of a first atherosclerotic cardiovascular disease (ASCVD) event within the next 10 years."
               },
               {
                 "t": "p",
-                "x": "퇴원 후 사망의 관찰 대비 기대(O/E) 비율은 2021~2022년 0.48에서 2025년~2026년 Q1(일부 기간) 0.31로, 재입원은 1.17에서 0.96으로 떨어졌다. 14일 이내 임상의 추적 방문 비율은 사망 위험 최상위군에서 54.6%에서 62.2%로, 재입원 위험 최상위군에서 55.8%에서 64.5%로 올랐다."
+                "x": "Results are presented as a risk score and 3 risk tiers. Clinicians can review them alongside the patient's other clinical information and use them as supplementary information for cardiovascular risk assessment."
               },
               {
                 "t": "p",
-                "x": "이 작업은 2021년에 시작됐다. Medicare 전체 데이터로 예측 AI를 학습시킨 Health Data Analytics Institute(HDAI)는 100곳이 넘는 학술 의료기관 가운데 이 병원 심혈관 서비스 라인이 원내 사망률은 7위였지만 30일 퇴원 후 사망률은 43위라는 점을 확인했다. 예측 결과는 전자의무기록에 탑재됐고, 임상의들은 최고 위험 환자의 추적 진료를 2주 이내에 우선 시행하도록 요청받았다."
+                "x": "In the U.S., preventive approaches that assess and manage cardiovascular risk at an early stage have been gaining importance. The 2026 American College of Cardiology and American Heart Association dyslipidemia guideline also stresses early management based on individual risk assessment."
               },
               {
                 "t": "p",
-                "x": "114곳 학술 의료기관 가운데 이 병원의 재입원 순위는 2022년 59위에서 2024년 7위로 올랐다. Campbell은 \"추가 자원 없이 이 일을 해냈다\"고 말했다."
+                "x": "The company expects DrNoon CVD to serve as a cardiovascular risk assessment tool for U.S. clinicians and contribute to preventing cardiovascular disease. The idea is to offer an approach that assesses cardiovascular risk through non-invasive retinal imaging and links it to preventive care. It also set a goal of establishing the product as an entry point for cardiovascular disease prevention in U.S. primary care settings (tier 1 care)."
+              },
+              {
+                "t": "p",
+                "x": "“U.S. medical practice now has a new option to identify cardiovascular risk at low cost, without blood draws or radiation,” said Mediwhale CEO Choi Tae-geun. “On top of evidence proven in large cohorts, we will add real-world data from the U.S. and roll it out quickly to primary care settings through our partners' infrastructure.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Houston病院のAI\n退院後の死亡を減らす",
-          "body": "MethodistはHDAIの予測AIで30日死亡を約35%、再入院を18%減らした。",
-          "mini_headline": "AIで退院後の死亡が減少",
+          "headline": "Mediwhaleの網膜AI\nFDA 510(k)取得",
+          "body": "眼底写真から10年以内の心血管疾患リスクを推定するAIがFDAの認可を得た。",
+          "mini_headline": "DrNoon CVDがFDA認可",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
-                "cap": "訪問診療中に医師と笑い合う高齢男性。"
+                "src": "https://medigatenews.com/file/news/546012"
               },
               {
                 "t": "p",
-                "x": "Las Vegasで開かれたHLTHカンファレンスで発表された事例研究によると、人工知能(AI)はTexasのある病院で、新たな人員を増やすことなく再入院と退院後の死亡を減らすのに役立った。"
+                "x": "医療人工知能（AI）企業のMediwhaleは25日、網膜画像をもとに心血管疾患リスクを予測するAIソフトウェア「DrNoon CVD」が米国食品医薬品局（FDA）から510(k)認可（Clearance）を取得したと発表した。同社はこの認可を足がかりに、DrNoon CVDの米国医療機関への導入を本格的に進める方針だ。"
               },
               {
                 "t": "p",
-                "x": "Houston Methodist Hospitalは予測AIを使い、リスクが最も高いMedicareの手術患者にフォローアップ訪問を集中させた。その結果、退院後30日死亡率は約35%、再入院は約18%低下したと、同病院のシニアイノベーションコンサルタントであるBrenda Campbell(MS, BSN)は述べた。"
+                "x": "DrNoon CVDは、眼底カメラで撮影した網膜画像をAIで解析し、将来の心血管疾患の発症リスクを評価する医療機器だ。網膜画像の解析により、今後10年以内に初めてアテローム性動脈硬化性心血管疾患（ASCVD）を発症するリスクを推定する用途でFDAの認可を受けた。"
               },
               {
                 "t": "p",
-                "x": "退院後死亡の観察値/期待値(O/E)比は2021〜2022年の0.48から2025年〜2026年Q1(部分期間)には0.31に、再入院では1.17から0.96に低下した。14日以内の臨床医によるフォローアップ受診率は、死亡リスク最上位群で54.6%から62.2%へ、再入院リスク最上位群で55.8%から64.5%へ上昇した。"
+                "x": "解析結果はリスクスコアと3段階のリスク群で示される。医療従事者はこの結果を患者のほかの臨床情報とあわせて確認し、心血管リスク評価の補助情報として活用できる。"
               },
               {
                 "t": "p",
-                "x": "取り組みは2021年に始まった。Medicareの全データで予測AIを学習させていたHealth Data Analytics Institute(HDAI)は、100を超える大学医療センターの中で、同病院の循環器サービスラインが院内死亡率では7位だったのに対し、退院後30日死亡率では43位だったことを突き止めた。予測は電子カルテに組み込まれ、臨床医は最高リスク患者のフォローアップを2週間以内に優先するよう求められた。"
+                "x": "米国では近年、心血管疾患リスクを早い段階で評価・管理する予防的アプローチの重要性が高まっている。2026年の米国心臓病学会と米国心臓協会の脂質異常症ガイドラインも、個人ごとのリスク評価に基づく早期管理の重要性を示している。"
               },
               {
                 "t": "p",
-                "x": "114の大学医療センターの中で、同病院の再入院順位は2022年の59位から2024年には7位に上がった。「追加のリソースなしでこれを成し遂げた」とCampbellは語った。"
+                "x": "同社は、DrNoon CVDが米国の医療従事者の心血管リスク評価ツールとして使われ、心血管疾患の予防に貢献すると期待している。非侵襲的な網膜撮影で心血管リスクを評価し、予防的な管理につなげるアプローチを示す構想だ。米国の1次医療の現場で、心血管疾患予防の入り口として定着させる目標も掲げた。"
+              },
+              {
+                "t": "p",
+                "x": "Mediwhaleのチェ・テグン代表は「米国の医療現場に、採血や放射線なしで、低コストで心血管リスクを見つける新たな選択肢が生まれた」と述べ、「大規模コホートで実証した根拠に米国での実臨床データを加え、パートナーのインフラを通じてプライマリケアの現場に素早く広げていく」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Houston医院AI\n降低出院后死亡",
-          "body": "Methodist借助HDAI预测AI精准随访，30天死亡率降约35%，再入院降18%。",
-          "mini_headline": "AI降低出院后死亡",
+          "headline": "Mediwhale视网膜AI\n获FDA 510(k)许可",
+          "body": "一款通过眼底照片估算10年内心血管疾病风险的AI获得FDA许可。",
+          "mini_headline": "DrNoon CVD获FDA许可",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
-                "cap": "家访时与医生一起大笑的老年男性。"
+                "src": "https://medigatenews.com/file/news/546012"
               },
               {
                 "t": "p",
-                "x": "据在Las Vegas举行的HLTH大会上发布的一项案例研究，人工智能(AI)帮助Texas一家医院在未增加任何新员工的情况下降低了再入院率和出院后死亡率。"
+                "x": "医疗人工智能（AI）企业Mediwhale于25日宣布，其基于视网膜的心血管疾病风险预测AI软件“DrNoon CVD”已获得美国食品药品监督管理局（FDA）510(k)许可（Clearance）。公司计划以此为契机，全面推进DrNoon CVD进入美国医疗机构。"
               },
               {
                 "t": "p",
-                "x": "该院高级创新顾问Brenda Campbell(MS, BSN)表示，Houston Methodist Hospital利用预测AI将随访重点放在风险最高的Medicare手术患者身上，出院后30天死亡率下降约35%，再入院率下降约18%。"
+                "x": "DrNoon CVD是一款医疗器械，利用AI分析眼底相机拍摄的视网膜图像，评估未来发生心血管疾病的风险。它获得FDA许可的用途是：通过分析视网膜图像，估算未来10年内首次发生动脉粥样硬化性心血管疾病（ASCVD）的风险。"
               },
               {
                 "t": "p",
-                "x": "出院后死亡的观察/预期(O/E)比值从2021-2022年的0.48降至2025年至2026年Q1(部分期间)的0.31，再入院的比值从1.17降至0.96。在死亡风险最高组中，14天内临床医生随访比例从54.6%升至62.2%；在再入院风险最高组中，从55.8%升至64.5%。"
+                "x": "分析结果以风险评分和3级风险分组呈现。医务人员可将结果与患者的其他临床信息一并审阅，作为心血管风险评估的辅助信息。"
               },
               {
                 "t": "p",
-                "x": "这项工作始于2021年。Health Data Analytics Institute(HDAI)曾用Medicare全部数据集训练预测AI，发现在100多家学术医疗中心中，该院心血管服务线的院内死亡率排名第7，而出院后30天死亡率仅排第43。预测结果被嵌入电子病历，临床医生被要求在2周内优先为最高风险患者安排随访。"
+                "x": "近来在美国，及早评估和管理心血管疾病风险的预防性方法日益受到重视。2026年美国心脏病学会和美国心脏协会的血脂异常指南也强调了基于个体风险评估的早期管理。"
               },
               {
                 "t": "p",
-                "x": "在114家学术医疗中心中，该院的再入院排名从2022年的第59位升至2024年的第7位。Campbell说：“我们是在没有任何额外资源的情况下做到的。”"
+                "x": "公司期待DrNoon CVD成为美国医务人员的心血管风险评估工具，为心血管疾病预防作出贡献。其设想是通过无创的视网膜拍摄评估心血管风险，并将其与预防性管理相衔接。公司还提出目标，要让它成为美国初级（1级）医疗现场心血管疾病预防的切入点。"
+              },
+              {
+                "t": "p",
+                "x": "Mediwhale首席执行官Choi Tae-geun表示：“美国医疗现场多了一个新选择，无需抽血或放射线，就能以低成本识别心血管风险。”他还说：“我们将在大规模队列验证的证据基础上，加入美国本土的真实世界数据，并借助合作伙伴的基础设施，迅速推广到基层医疗现场。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Houston Methodist reduce con AI\nlas muertes tras el alta",
-          "body": "Con la AI predictiva de HDAI, Houston Methodist redujo un 35% las muertes a 30 días y un 18% los reingresos.",
-          "mini_headline": "La AI reduce muertes tras el alta",
+          "headline": "Mediwhale: AI retinal obtiene\nautorización FDA 510(k)",
+          "body": "Una AI que estima el riesgo cardiovascular a 10 años con fotos de fondo de ojo recibió el aval de la FDA.",
+          "mini_headline": "DrNoon CVD obtiene el aval de la FDA",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
-                "cap": "Hombre mayor riendo con un médico durante una visita a domicilio."
+                "src": "https://medigatenews.com/file/news/546012"
               },
               {
                 "t": "p",
-                "x": "La inteligencia artificial (AI) ayudó a un hospital de Texas a reducir los reingresos y las muertes tras el alta sin sumar personal nuevo, según un estudio de caso presentado en la conferencia HLTH en Las Vegas."
+                "x": "La empresa de inteligencia artificial (AI) médica Mediwhale anunció el día 25 que su software de AI ‘DrNoon CVD’, que predice el riesgo de enfermedad cardiovascular a partir de la retina, obtuvo la autorización 510(k) (Clearance) de la Administración de Alimentos y Medicamentos de Estados Unidos (FDA). La compañía planea usar esta autorización como base para impulsar de lleno la adopción de DrNoon CVD en instituciones médicas de Estados Unidos."
               },
               {
                 "t": "p",
-                "x": "Al usar AI predictiva para concentrar las visitas de seguimiento en sus pacientes quirúrgicos de Medicare de mayor riesgo, la mortalidad a 30 días tras el alta del Houston Methodist Hospital cayó cerca de un 35% y los reingresos, cerca de un 18%, afirmó Brenda Campbell, MS, BSN, consultora sénior de innovación del hospital."
+                "x": "DrNoon CVD es un dispositivo médico que analiza con AI imágenes de la retina tomadas con una cámara de fondo de ojo para evaluar el riesgo futuro de enfermedad cardiovascular. Recibió la autorización de la FDA para estimar, a partir de imágenes de la retina, el riesgo de un primer evento de enfermedad cardiovascular aterosclerótica (ASCVD) en los próximos 10 años."
               },
               {
                 "t": "p",
-                "x": "Las razones observado/esperado (O/E) bajaron de 0.48 en 2021-2022 a 0.31 en 2025-Q1 2026 (un periodo parcial) para las muertes tras el alta, y de 1.17 a 0.96 para los reingresos. Las visitas de seguimiento clínico en un plazo de 14 días subieron del 54.6% al 62.2% en el grupo de mayor riesgo de mortalidad y del 55.8% al 64.5% en el de mayor riesgo de reingreso."
+                "x": "Los resultados se presentan como una puntuación de riesgo y 3 grupos de riesgo. Los médicos pueden revisarlos junto con otra información clínica del paciente y usarlos como información complementaria para evaluar el riesgo cardiovascular."
               },
               {
                 "t": "p",
-                "x": "El trabajo empezó en 2021. El Health Data Analytics Institute (HDAI), que había entrenado AI predictiva con todo el conjunto de datos de Medicare, halló que la línea de servicio cardiovascular ocupaba el puesto 7 en mortalidad hospitalaria, pero el 43 en mortalidad a 30 días tras el alta, entre más de 100 centros médicos académicos. Las predicciones se integraron en la historia clínica electrónica y se pidió a los clínicos priorizar el seguimiento en un plazo de 2 semanas para los pacientes de mayor riesgo."
+                "x": "En Estados Unidos ha crecido la importancia de los enfoques preventivos que evalúan y gestionan el riesgo cardiovascular en etapas tempranas. La guía de dislipidemia de 2026 del Colegio Americano de Cardiología y la Asociación Americana del Corazón también subraya la importancia del manejo temprano basado en la evaluación individual del riesgo."
               },
               {
                 "t": "p",
-                "x": "Entre 114 centros médicos académicos, el hospital pasó del puesto 59 en reingresos en 2022 al 7 en 2024. \"Lo hemos hecho sin recursos adicionales\", dijo Campbell."
+                "x": "La empresa espera que DrNoon CVD sirva a los médicos de Estados Unidos como herramienta de evaluación del riesgo cardiovascular y contribuya a prevenir la enfermedad cardiovascular. La idea es ofrecer un enfoque que evalúe el riesgo cardiovascular mediante una fotografía no invasiva de la retina y lo vincule con un manejo preventivo. También se fijó la meta de consolidarlo como puerta de entrada a la prevención cardiovascular en la atención primaria (nivel 1) de Estados Unidos."
+              },
+              {
+                "t": "p",
+                "x": "“Los centros médicos de Estados Unidos cuentan ahora con una nueva opción para identificar el riesgo cardiovascular a bajo costo, sin extracción de sangre ni radiación”, dijo Choi Tae-geun, director ejecutivo de Mediwhale. “Sobre la evidencia demostrada en grandes cohortes sumaremos datos de uso real en Estados Unidos y lo extenderemos rápidamente a la atención primaria a través de la infraestructura de nuestros socios”."
               }
             ]
           }
@@ -365,195 +395,165 @@
       }
     },
     {
-      "id": "stat-rsna-draft-reports",
+      "id": "abridge-nabla-scribe-crossover",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 쓴 판독 초안,\n진료는 더 안전할까",
-      "body": "RSNA 2026 앞두고 STAT이 X-rays·CT 초안 AI의 안전을 묻는다.",
-      "mini_headline": "AI 판독 초안, 더 안전한가",
+      "headline": "Abridge·Nabla\nAI 기록 도구 맞대결",
+      "body": "의료진 100명이 90일간 AI 기록 도구 Abridge·Nabla를 견줬다.",
+      "mini_headline": "Abridge vs Nabla 기록 도구",
       "tool": "Medicine",
-      "source": "STAT",
-      "url": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/",
+      "source": "JAMIA (Journal of the American Medical Informatics Association)",
+      "url": "https://doi.org/10.1093/jamia/ocag192",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
-            "cap": ""
+            "t": "p",
+            "x": "연구진은 신속 학습 보건 시스템(LHS) 방식으로 앰비언트 AI 기록 시스템(AAS)을 평가했다. 의료진 100명이 90일 동안 Abridge와 Nabla 2개 시스템을 비교했다. 평가에는 클러스터 무작위 교차 비교, 사용 현황과 EHR 기반(EHR-based) 업무 흐름 결과 분석, 문서 품질과 안전성을 확인하는 표준화 모의 진료를 함께 썼다."
           },
           {
             "t": "p",
-            "x": "인공지능이 영상의학 진료에서 맡는 역할은 이십 년 넘게 꾸준히 커졌다. 오늘날 거의 모든 영상의학과 의사가 AI 도구를 쓴다. 판독할 영상을 분류하거나 판독문을 받아쓰거나 매일 읽는 수십 건의 X-rays와 CTs에서 소견을 찾아내는 식이다."
+            "x": "표준화 모의 진료에서 두 시스템의 노트 항목 정확도는 똑같이 76%였고 위해 위험은 매우 낮았다. 무작위 교차 비교에서는 Abridge가 사용성 점수에서 앞섰고(78.5 vs 73) Nabla보다 3:1로 더 많이 선택받았다. Nabla는 자동 음성 인식 오류가 더 잦았다."
           },
           {
             "t": "p",
-            "x": "그런데 지난해 Radiological Society of North America(북미영상의학회) 연례 학술대회에서 영상의학 전문가와 개발자들이 AI의 새 패러다임을 앞세우기 시작했다. 비전-언어 모델로 영상을 읽고 거기서 찾은 임상 소견을 판독문 초안으로 쓰는 기술이다."
+            "x": "임상 진료 16 479건 가운데 AAS를 쓴 비율은 35.7%였다. 전체 EHR 사용 시간은 하루 약 5분 줄었다. 당일 차트 마감은 초기 교차 기간에 약 5% 늘었으나 효과는 갈수록 약해졌다. 의료진 반응은 긍정적이었다(Net Promoter Score [NPS] 53)."
           },
           {
             "t": "p",
-            "x": "Aidoc 최고기술책임자 Michael Braginsky는 \"지난해 RSNA는 주로 AI 모델이 실제 판독문처럼 보이고, 영상의학과 의사가 검토라도 해 볼 만큼 정확한 초안을 쓰는 것이 실제로 가능한지에 초점을 맞췄다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Chicago에서 RSNA가 열리는 동안 업계 관계자들은 AI 판독 초안이 진료를 나아지게 할지를 두고 논쟁을 벌일 전망이다. (기사 나머지는 STAT+ 구독자 전용이다.)"
+            "x": "두 시스템은 문서 정확도가 비슷했고 효율은 소폭 나아졌으며 임상의 만족도는 올라갔다. 사용률이 40%에 못 미친 데에는 문서 지원과 검증 부담 사이의 상충 관계가 반영돼 있다. 연구진은 효율과 문서 품질, 사용 패턴을 계속 지켜봐야 한다고 결론지었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI drafts radiology reports,\nbut is care any safer",
-          "body": "Ahead of RSNA 2026, STAT asks whether AI tools that draft reports from X-rays and CT scans improve care and safety.",
-          "mini_headline": "Is AI report drafting safer",
+          "headline": "Abridge and Nabla scribes\ngo head to head in a trial",
+          "body": "A cluster randomized crossover study of 100 providers over 90 days compared the Abridge and Nabla ambient AI scribes.",
+          "mini_headline": "Abridge vs Nabla scribes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
-                "cap": ""
+                "t": "p",
+                "x": "Researchers evaluated ambient AI scribe systems (AAS) with a rapid learning health system (LHS) approach, comparing 2 systems, Abridge and Nabla, among 100 providers over 90 days. The evaluation combined a cluster randomized crossover comparison, analysis of use and EHR-based workflow outcomes, and standardized simulated encounters to assess documentation quality and safety."
               },
               {
                 "t": "p",
-                "x": "For more than two decades, artificial intelligence has played a growing role in the practice of radiology. Today, nearly every radiologist uses AI tools, whether that's to triage the images they interpret, dictate their reports, or detect findings in the dozens of X-rays and CTs they read every day."
+                "x": "In standardized simulated encounters, both systems achieved 76% note element accuracy with minimal risk for harm. In the randomized crossover comparison, Abridge demonstrated higher usability scores (78.5 vs 73) and was preferred 3:1 over Nabla, which had higher automated speech recognition error rates."
               },
               {
                 "t": "p",
-                "x": "But last year, radiology experts and developers at the annual meeting of the Radiological Society of North America began to foreground a new paradigm in AI: technology, powered by vision-language models, that can look at an image and draft a report of the clinical findings within it."
+                "x": "Across 16 479 clinical encounters, AAS was used in 35.7% of visits. Total EHR time decreased by approximately 5 minutes per day; same-day chart closure increased by approximately 5% during the initial crossover period, but this effect was attenuated. Provider experience was positive (Net Promoter Score [NPS] 53)."
               },
               {
                 "t": "p",
-                "x": "\"Last year's RSNA was mainly focused on whether it's actually possible that an AI model will write a draft for radiologists that would look like an actual radiology report, and that would be accurate enough to be even considered by a radiologist,\" said Michael Braginsky, chief technology officer of Aidoc."
-              },
-              {
-                "t": "p",
-                "x": "As RSNA meets in Chicago, industry insiders are expected to debate whether AI draft reporting will improve care. (The rest of the story is for STAT+ subscribers.)"
+                "x": "Both systems demonstrated comparable documentation accuracy and modest efficiency gains while improving clinician satisfaction. Adoption below 40% reflected the trade-off between documentation support and verification burden. The authors conclude that ongoing monitoring of efficiency, documentation quality, and use patterns is essential."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 쓴 판독 초안,\n진료는 더 안전할까",
-          "body": "RSNA 2026 앞두고 STAT이 X-rays·CT 초안 AI의 안전을 묻는다.",
-          "mini_headline": "AI 판독 초안, 더 안전한가",
+          "headline": "Abridge·Nabla\nAI 기록 도구 맞대결",
+          "body": "의료진 100명이 90일간 AI 기록 도구 Abridge·Nabla를 견줬다.",
+          "mini_headline": "Abridge vs Nabla 기록 도구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
-                "cap": ""
+                "t": "p",
+                "x": "연구진은 신속 학습 보건 시스템(LHS) 방식으로 앰비언트 AI 기록 시스템(AAS)을 평가했다. 의료진 100명이 90일 동안 Abridge와 Nabla 2개 시스템을 비교했다. 평가에는 클러스터 무작위 교차 비교, 사용 현황과 EHR 기반(EHR-based) 업무 흐름 결과 분석, 문서 품질과 안전성을 확인하는 표준화 모의 진료를 함께 썼다."
               },
               {
                 "t": "p",
-                "x": "인공지능이 영상의학 진료에서 맡는 역할은 이십 년 넘게 꾸준히 커졌다. 오늘날 거의 모든 영상의학과 의사가 AI 도구를 쓴다. 판독할 영상을 분류하거나 판독문을 받아쓰거나 매일 읽는 수십 건의 X-rays와 CTs에서 소견을 찾아내는 식이다."
+                "x": "표준화 모의 진료에서 두 시스템의 노트 항목 정확도는 똑같이 76%였고 위해 위험은 매우 낮았다. 무작위 교차 비교에서는 Abridge가 사용성 점수에서 앞섰고(78.5 vs 73) Nabla보다 3:1로 더 많이 선택받았다. Nabla는 자동 음성 인식 오류가 더 잦았다."
               },
               {
                 "t": "p",
-                "x": "그런데 지난해 Radiological Society of North America(북미영상의학회) 연례 학술대회에서 영상의학 전문가와 개발자들이 AI의 새 패러다임을 앞세우기 시작했다. 비전-언어 모델로 영상을 읽고 거기서 찾은 임상 소견을 판독문 초안으로 쓰는 기술이다."
+                "x": "임상 진료 16 479건 가운데 AAS를 쓴 비율은 35.7%였다. 전체 EHR 사용 시간은 하루 약 5분 줄었다. 당일 차트 마감은 초기 교차 기간에 약 5% 늘었으나 효과는 갈수록 약해졌다. 의료진 반응은 긍정적이었다(Net Promoter Score [NPS] 53)."
               },
               {
                 "t": "p",
-                "x": "Aidoc 최고기술책임자 Michael Braginsky는 \"지난해 RSNA는 주로 AI 모델이 실제 판독문처럼 보이고, 영상의학과 의사가 검토라도 해 볼 만큼 정확한 초안을 쓰는 것이 실제로 가능한지에 초점을 맞췄다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Chicago에서 RSNA가 열리는 동안 업계 관계자들은 AI 판독 초안이 진료를 나아지게 할지를 두고 논쟁을 벌일 전망이다. (기사 나머지는 STAT+ 구독자 전용이다.)"
+                "x": "두 시스템은 문서 정확도가 비슷했고 효율은 소폭 나아졌으며 임상의 만족도는 올라갔다. 사용률이 40%에 못 미친 데에는 문서 지원과 검증 부담 사이의 상충 관계가 반영돼 있다. 연구진은 효율과 문서 품질, 사용 패턴을 계속 지켜봐야 한다고 결론지었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが読影レポート作成\n医療は安全になるか",
-          "body": "RSNA 2026を前に、STATがX-rays・CT読影の下書きAIの安全性を問う。",
-          "mini_headline": "AIの読影下書きは安全か",
+          "headline": "AbridgeとNabla\nAI記録ツールを直接比較",
+          "body": "100人の医療者を対象に90日間、AbridgeとNablaのAI記録ツールを比較した。",
+          "mini_headline": "Abridge vs Nabla AI記録",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
-                "cap": ""
+                "t": "p",
+                "x": "研究チームは、迅速学習型ヘルスシステム（LHS）の手法でアンビエントAI記録システム（AAS）を評価し、100人の医療者を対象に90日間、AbridgeとNablaの2つのシステムを比較した。評価では、クラスター無作為化クロスオーバー比較、利用状況とEHRベース（EHR-based）の業務フロー指標の分析、記録の質と安全性をみる標準化模擬診療を組み合わせた。"
               },
               {
                 "t": "p",
-                "x": "人工知能は二十年以上にわたり、放射線診療で役割を広げてきた。今日ではほぼすべての放射線科医がAIツールを使っている。読影する画像のトリアージ、レポートの口述入力、毎日読む数十件のX-raysやCTsからの所見検出などだ。"
+                "x": "標準化模擬診療では、両システムとも記録項目の正確度が76%で、害が生じるリスクは最小限だった。無作為化クロスオーバー比較では、Abridgeの使いやすさスコアが高く（78.5 vs 73）、Nablaに対して3:1で好まれた。Nablaは自動音声認識の誤り率が高かった。"
               },
               {
                 "t": "p",
-                "x": "しかし昨年、Radiological Society of North America(北米放射線学会)の年次総会で、放射線の専門家や開発者はAIの新たなパラダイムを前面に打ち出し始めた。視覚言語モデルを基盤に、画像を見てその中の臨床所見をまとめたレポートの下書きを作成できる技術である。"
+                "x": "16 479件の診療のうち、AASが使われたのは35.7%だった。EHRの総使用時間は一日あたり約5分減った。当日のカルテ完了は初期のクロスオーバー期間に約5%増えたが、この効果は次第に弱まった。医療者の評価は良好だった（Net Promoter Score [NPS] 53）。"
               },
               {
                 "t": "p",
-                "x": "「昨年のRSNAは主に、AIモデルが実際の読影レポートのように見え、放射線科医が検討に値するほど正確な下書きを書くことが本当に可能かどうかに焦点を当てていた」と、Aidocの最高技術責任者Michael Braginskyは語った。"
-              },
-              {
-                "t": "p",
-                "x": "RSNAがChicagoで開かれる中、業界関係者はAIによるレポート下書きが医療を改善するかどうかを議論するとみられる。(記事の続きはSTAT+購読者向けである。)"
+                "x": "両システムは同程度の記録正確度と小幅な効率改善を示し、臨床医の満足度を高めた。利用率が40%を下回ったのは、記録支援と確認負担とのトレードオフを反映している。著者らは、効率、記録の質、利用パターンを継続的に監視することが欠かせないと結論づけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI起草影像报告\n医疗更安全了吗",
-          "body": "RSNA 2026前夕，STAT追问用X-rays和CT起草报告的AI能否提升医疗安全。",
-          "mini_headline": "AI起草报告更安全吗",
+          "headline": "Abridge与Nabla\nAI病历助手正面对决",
+          "body": "涉及100名医疗人员、为期90天的交叉试验比较了Abridge与Nabla的AI记录工具。",
+          "mini_headline": "Abridge vs Nabla AI记录工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
-                "cap": ""
+                "t": "p",
+                "x": "研究人员采用快速学习型卫生系统（LHS）方法评估环境AI病历记录系统（AAS），在100名医疗人员中为期90天比较了Abridge和Nabla这2个系统。评估结合了整群随机交叉比较、使用情况及基于EHR（EHR-based）的工作流程结果分析，以及用于评估文档质量和安全性的标准化模拟诊疗。"
               },
               {
                 "t": "p",
-                "x": "二十多年来，人工智能在放射科实践中的作用日益增长。如今，几乎每位放射科医生都在使用AI工具，无论是对待判读影像进行分诊、口述报告，还是在每天阅读的数十张X-rays和CTs中检出异常。"
+                "x": "在标准化模拟诊疗中，两个系统的病历要素准确率均为76%，造成伤害的风险极小。在随机交叉比较中，Abridge的可用性评分更高（78.5 vs 73），受偏好程度为Nabla的3:1；Nabla的自动语音识别错误率更高。"
               },
               {
                 "t": "p",
-                "x": "但去年，在Radiological Society of North America(北美放射学会)年会上，放射学专家和开发者开始突出AI的一种新范式：由视觉语言模型驱动、能够查看影像并就其中临床发现起草报告的技术。"
+                "x": "在16 479次临床诊疗中，35.7%的就诊使用了AAS。EHR总使用时间每天减少约5分钟；在最初的交叉期内，当日病历完成率提高约5%，但这一效果随后减弱。医疗人员的使用体验积极（Net Promoter Score [NPS] 53）。"
               },
               {
                 "t": "p",
-                "x": "Aidoc首席技术官Michael Braginsky说：“去年的RSNA主要关注AI模型能否真正为放射科医生写出一份看起来像真实放射报告、且准确到值得放射科医生考虑的草稿。”"
-              },
-              {
-                "t": "p",
-                "x": "随着RSNA在Chicago召开，业内人士预计将围绕AI报告草稿能否改善医疗展开争论。(文章其余部分仅向STAT+订阅者开放。)"
+                "x": "两个系统的文档准确性相当，效率提升有限，但提高了临床医生满意度。使用率低于40%，反映出文档支持与核查负担之间的权衡。作者认为，持续监测效率、文档质量和使用模式至关重要。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI redacta informes,\n¿es más segura la atención?",
-          "body": "Antes de RSNA 2026, STAT se pregunta si la AI que redacta informes de X-rays y CT mejora la atención y la seguridad.",
-          "mini_headline": "¿Es más segura la AI que redacta informes?",
+          "headline": "Abridge y Nabla se miden\nen un ensayo cara a cara",
+          "body": "Un ensayo cruzado aleatorizado con 100 profesionales durante 90 días comparó los escribas AI de Abridge y Nabla.",
+          "mini_headline": "Abridge vs Nabla: escribas AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
-                "cap": ""
+                "t": "p",
+                "x": "Los investigadores evaluaron sistemas de escribas de AI ambiental (AAS) con un enfoque de sistema de salud de aprendizaje rápido (LHS), comparando 2 sistemas, Abridge y Nabla, entre 100 profesionales durante 90 días. La evaluación combinó una comparación cruzada aleatorizada por conglomerados, un análisis del uso y de resultados del flujo de trabajo basados en la EHR (EHR-based) y encuentros simulados estandarizados para valorar la calidad y la seguridad de la documentación."
               },
               {
                 "t": "p",
-                "x": "Desde hace más de dos décadas, la inteligencia artificial ha tenido un papel creciente en la práctica de la radiología. Hoy, casi todos los radiólogos usan herramientas de AI, ya sea para priorizar las imágenes que interpretan, dictar sus informes o detectar hallazgos en las decenas de X-rays y CTs que leen cada día."
+                "x": "En los encuentros simulados estandarizados, ambos sistemas lograron un 76% de precisión en los elementos de la nota con un riesgo mínimo de daño. En la comparación cruzada aleatorizada, Abridge obtuvo puntuaciones de usabilidad más altas (78.5 vs 73) y fue preferido 3:1 frente a Nabla, que tuvo tasas de error más altas en el reconocimiento automático de voz."
               },
               {
                 "t": "p",
-                "x": "Pero el año pasado, en la reunión anual de la Radiological Society of North America, expertos en radiología y desarrolladores empezaron a poner en primer plano un nuevo paradigma en AI: una tecnología, impulsada por modelos de visión y lenguaje, capaz de mirar una imagen y redactar un informe de los hallazgos clínicos que contiene."
+                "x": "En 16 479 encuentros clínicos, el AAS se usó en el 35.7% de las visitas. El tiempo total en la EHR disminuyó unos 5 minutos al día; el cierre de historias el mismo día aumentó cerca de un 5% durante el periodo cruzado inicial, pero el efecto se atenuó. La experiencia de los profesionales fue positiva (Net Promoter Score [NPS] 53)."
               },
               {
                 "t": "p",
-                "x": "\"La RSNA del año pasado se centró sobre todo en si es realmente posible que un modelo de AI escriba para los radiólogos un borrador que parezca un informe radiológico real y que sea lo bastante preciso como para que un radiólogo siquiera lo tenga en cuenta\", dijo Michael Braginsky, director de tecnología de Aidoc."
-              },
-              {
-                "t": "p",
-                "x": "Mientras la RSNA se reúne en Chicago, se espera que los actores del sector debatan si los borradores de informes con AI mejorarán la atención. (El resto del artículo es para suscriptores de STAT+.)"
+                "x": "Ambos sistemas mostraron una precisión documental comparable y mejoras de eficiencia modestas, a la vez que aumentaron la satisfacción de los clínicos. Una adopción inferior al 40% reflejó el equilibrio entre el apoyo a la documentación y la carga de verificación. Los autores concluyen que es esencial vigilar de forma continua la eficiencia, la calidad de la documentación y los patrones de uso."
               }
             ]
           }
@@ -561,125 +561,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 판독문 초안,\n진료는 더 안전할까",
-          "body": "RSNA 2026 앞두고 STAT이 X-rays·CT 초안 AI의 안전을 묻는다.",
-          "mini_headline": "AI 판독 초안, 더 안전한가",
+          "headline": "Abridge·Nabla\nAI 기록 도구 시험 대결",
+          "body": "의료진 100명이 90일간 Abridge·Nabla AI 기록 도구를 비교했다.",
+          "mini_headline": "Abridge vs Nabla 기록 도구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
-                "cap": ""
+                "t": "p",
+                "x": "연구진은 신속 학습 보건 시스템(LHS) 방식으로 앰비언트 AI 기록 시스템(AAS)을 평가했다. 의료진 100명을 대상으로 90일간 Abridge와 Nabla 2개 시스템을 비교했다. 평가는 클러스터 무작위 교차 비교, 사용 현황과 EHR 기반(EHR-based) 업무 흐름 결과 분석, 문서 품질과 안전성을 보기 위한 표준화 모의 진료를 결합했다."
               },
               {
                 "t": "p",
-                "x": "이십 년 넘게 인공지능은 영상의학 진료에서 점점 큰 역할을 해 왔다. 오늘날 거의 모든 영상의학과 의사가 AI 도구를 쓴다. 판독할 영상을 분류하거나, 판독문을 받아쓰거나, 매일 읽는 수십 건의 X-rays와 CTs에서 소견을 찾아내는 식이다."
+                "x": "표준화 모의 진료에서 두 시스템 모두 노트 항목 정확도 76%를 기록했고 위해 위험은 매우 낮았다. 무작위 교차 비교에서 Abridge는 사용성 점수가 더 높았고(78.5 vs 73) Nabla보다 3:1로 선호됐다. Nabla는 자동 음성 인식 오류율이 더 높았다."
               },
               {
                 "t": "p",
-                "x": "그러나 지난해 Radiological Society of North America(북미영상의학회) 연례 학술대회에서 영상의학 전문가와 개발자들은 AI의 새로운 패러다임을 전면에 내세우기 시작했다. 비전-언어 모델을 바탕으로 영상을 보고 그 안의 임상 소견을 담은 판독문 초안을 쓰는 기술이다."
+                "x": "임상 진료 16 479건에서 AAS 사용률은 35.7%였다. 전체 EHR 사용 시간은 하루 약 5분 줄었다. 당일 차트 마감은 초기 교차 기간에 약 5% 늘었지만 이 효과는 점차 약해졌다. 의료진 경험은 긍정적이었다(Net Promoter Score [NPS] 53)."
               },
               {
                 "t": "p",
-                "x": "Aidoc 최고기술책임자 Michael Braginsky는 \"지난해 RSNA는 주로 AI 모델이 실제 판독문처럼 보이고, 영상의학과 의사가 검토라도 해 볼 만큼 정확한 초안을 쓰는 것이 실제로 가능한지에 초점을 맞췄다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "RSNA가 Chicago에서 열리는 가운데, 업계 관계자들은 AI 판독 초안이 진료를 개선할지를 두고 논쟁을 벌일 것으로 보인다. (기사 나머지는 STAT+ 구독자 전용이다.)"
+                "x": "두 시스템은 비슷한 문서 정확도와 소폭의 효율 개선을 보였고 임상의 만족도를 높였다. 40%에 못 미치는 사용률은 문서 지원과 검증 부담 사이의 상충 관계를 반영한다. 연구진은 효율, 문서 품질, 사용 패턴을 지속적으로 모니터링해야 한다고 결론지었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが読影レポート作成\n医療は安全になるか",
-          "body": "RSNA 2026を前に、STATがX-rays・CT読影の下書きAIの安全性を問う。",
-          "mini_headline": "AIの読影下書きは安全か",
+          "headline": "AbridgeとNabla\nAI記録ツールを直接比較",
+          "body": "100人の医療者を対象に90日間、AbridgeとNablaのAI記録ツールを比較した。",
+          "mini_headline": "Abridge vs Nabla AI記録",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
-                "cap": ""
+                "t": "p",
+                "x": "研究チームは、迅速学習型ヘルスシステム（LHS）の手法でアンビエントAI記録システム（AAS）を評価し、100人の医療者を対象に90日間、AbridgeとNablaの2つのシステムを比較した。評価では、クラスター無作為化クロスオーバー比較、利用状況とEHRベース（EHR-based）の業務フロー指標の分析、記録の質と安全性をみる標準化模擬診療を組み合わせた。"
               },
               {
                 "t": "p",
-                "x": "人工知能は二十年以上にわたり、放射線診療で役割を広げてきた。今日ではほぼすべての放射線科医がAIツールを使っている。読影する画像のトリアージ、レポートの口述入力、毎日読む数十件のX-raysやCTsからの所見検出などだ。"
+                "x": "標準化模擬診療では、両システムとも記録項目の正確度が76%で、害が生じるリスクは最小限だった。無作為化クロスオーバー比較では、Abridgeの使いやすさスコアが高く（78.5 vs 73）、Nablaに対して3:1で好まれた。Nablaは自動音声認識の誤り率が高かった。"
               },
               {
                 "t": "p",
-                "x": "しかし昨年、Radiological Society of North America(北米放射線学会)の年次総会で、放射線の専門家や開発者はAIの新たなパラダイムを前面に打ち出し始めた。視覚言語モデルを基盤に、画像を見てその中の臨床所見をまとめたレポートの下書きを作成できる技術である。"
+                "x": "16 479件の診療のうち、AASが使われたのは35.7%だった。EHRの総使用時間は一日あたり約5分減った。当日のカルテ完了は初期のクロスオーバー期間に約5%増えたが、この効果は次第に弱まった。医療者の評価は良好だった（Net Promoter Score [NPS] 53）。"
               },
               {
                 "t": "p",
-                "x": "「昨年のRSNAは主に、AIモデルが実際の読影レポートのように見え、放射線科医が検討に値するほど正確な下書きを書くことが本当に可能かどうかに焦点を当てていた」と、Aidocの最高技術責任者Michael Braginskyは語った。"
-              },
-              {
-                "t": "p",
-                "x": "RSNAがChicagoで開かれる中、業界関係者はAIによるレポート下書きが医療を改善するかどうかを議論するとみられる。(記事の続きはSTAT+購読者向けである。)"
+                "x": "両システムは同程度の記録正確度と小幅な効率改善を示し、臨床医の満足度を高めた。利用率が40%を下回ったのは、記録支援と確認負担とのトレードオフを反映している。著者らは、効率、記録の質、利用パターンを継続的に監視することが欠かせないと結論づけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI起草影像报告\n医疗更安全了吗",
-          "body": "RSNA 2026前夕，STAT追问用X-rays和CT起草报告的AI能否提升医疗安全。",
-          "mini_headline": "AI起草报告更安全吗",
+          "headline": "Abridge与Nabla\nAI病历助手正面对决",
+          "body": "涉及100名医疗人员、为期90天的交叉试验比较了Abridge与Nabla的AI记录工具。",
+          "mini_headline": "Abridge vs Nabla AI记录工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
-                "cap": ""
+                "t": "p",
+                "x": "研究人员采用快速学习型卫生系统（LHS）方法评估环境AI病历记录系统（AAS），在100名医疗人员中为期90天比较了Abridge和Nabla这2个系统。评估结合了整群随机交叉比较、使用情况及基于EHR（EHR-based）的工作流程结果分析，以及用于评估文档质量和安全性的标准化模拟诊疗。"
               },
               {
                 "t": "p",
-                "x": "二十多年来，人工智能在放射科实践中的作用日益增长。如今，几乎每位放射科医生都在使用AI工具，无论是对待判读影像进行分诊、口述报告，还是在每天阅读的数十张X-rays和CTs中检出异常。"
+                "x": "在标准化模拟诊疗中，两个系统的病历要素准确率均为76%，造成伤害的风险极小。在随机交叉比较中，Abridge的可用性评分更高（78.5 vs 73），受偏好程度为Nabla的3:1；Nabla的自动语音识别错误率更高。"
               },
               {
                 "t": "p",
-                "x": "但去年，在Radiological Society of North America(北美放射学会)年会上，放射学专家和开发者开始突出AI的一种新范式：由视觉语言模型驱动、能够查看影像并就其中临床发现起草报告的技术。"
+                "x": "在16 479次临床诊疗中，35.7%的就诊使用了AAS。EHR总使用时间每天减少约5分钟；在最初的交叉期内，当日病历完成率提高约5%，但这一效果随后减弱。医疗人员的使用体验积极（Net Promoter Score [NPS] 53）。"
               },
               {
                 "t": "p",
-                "x": "Aidoc首席技术官Michael Braginsky说：“去年的RSNA主要关注AI模型能否真正为放射科医生写出一份看起来像真实放射报告、且准确到值得放射科医生考虑的草稿。”"
-              },
-              {
-                "t": "p",
-                "x": "随着RSNA在Chicago召开，业内人士预计将围绕AI报告草稿能否改善医疗展开争论。(文章其余部分仅向STAT+订阅者开放。)"
+                "x": "两个系统的文档准确性相当，效率提升有限，但提高了临床医生满意度。使用率低于40%，反映出文档支持与核查负担之间的权衡。作者认为，持续监测效率、文档质量和使用模式至关重要。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI redacta informes,\n¿es más segura la atención?",
-          "body": "Antes de RSNA 2026, STAT se pregunta si la AI que redacta informes de X-rays y CT mejora la atención y la seguridad.",
-          "mini_headline": "¿Es más segura la AI que redacta informes?",
+          "headline": "Abridge y Nabla se miden\nen un ensayo cara a cara",
+          "body": "Un ensayo cruzado aleatorizado con 100 profesionales durante 90 días comparó los escribas AI de Abridge y Nabla.",
+          "mini_headline": "Abridge vs Nabla: escribas AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg",
-                "cap": ""
+                "t": "p",
+                "x": "Los investigadores evaluaron sistemas de escribas de AI ambiental (AAS) con un enfoque de sistema de salud de aprendizaje rápido (LHS), comparando 2 sistemas, Abridge y Nabla, entre 100 profesionales durante 90 días. La evaluación combinó una comparación cruzada aleatorizada por conglomerados, un análisis del uso y de resultados del flujo de trabajo basados en la EHR (EHR-based) y encuentros simulados estandarizados para valorar la calidad y la seguridad de la documentación."
               },
               {
                 "t": "p",
-                "x": "Desde hace más de dos décadas, la inteligencia artificial ha tenido un papel creciente en la práctica de la radiología. Hoy, casi todos los radiólogos usan herramientas de AI, ya sea para priorizar las imágenes que interpretan, dictar sus informes o detectar hallazgos en las decenas de X-rays y CTs que leen cada día."
+                "x": "En los encuentros simulados estandarizados, ambos sistemas lograron un 76% de precisión en los elementos de la nota con un riesgo mínimo de daño. En la comparación cruzada aleatorizada, Abridge obtuvo puntuaciones de usabilidad más altas (78.5 vs 73) y fue preferido 3:1 frente a Nabla, que tuvo tasas de error más altas en el reconocimiento automático de voz."
               },
               {
                 "t": "p",
-                "x": "Pero el año pasado, en la reunión anual de la Radiological Society of North America, expertos en radiología y desarrolladores empezaron a poner en primer plano un nuevo paradigma en AI: una tecnología, impulsada por modelos de visión y lenguaje, capaz de mirar una imagen y redactar un informe de los hallazgos clínicos que contiene."
+                "x": "En 16 479 encuentros clínicos, el AAS se usó en el 35.7% de las visitas. El tiempo total en la EHR disminuyó unos 5 minutos al día; el cierre de historias el mismo día aumentó cerca de un 5% durante el periodo cruzado inicial, pero el efecto se atenuó. La experiencia de los profesionales fue positiva (Net Promoter Score [NPS] 53)."
               },
               {
                 "t": "p",
-                "x": "\"La RSNA del año pasado se centró sobre todo en si es realmente posible que un modelo de AI escriba para los radiólogos un borrador que parezca un informe radiológico real y que sea lo bastante preciso como para que un radiólogo siquiera lo tenga en cuenta\", dijo Michael Braginsky, director de tecnología de Aidoc."
-              },
-              {
-                "t": "p",
-                "x": "Mientras la RSNA se reúne en Chicago, se espera que los actores del sector debatan si los borradores de informes con AI mejorarán la atención. (El resto del artículo es para suscriptores de STAT+.)"
+                "x": "Ambos sistemas mostraron una precisión documental comparable y mejoras de eficiencia modestas, a la vez que aumentaron la satisfacción de los clínicos. Una adopción inferior al 40% reflejó el equilibrio entre el apoyo a la documentación y la carga de verificación. Los autores concluyen que es esencial vigilar de forma continua la eficiencia, la calidad de la documentación y los patrones de uso."
               }
             ]
           }
@@ -687,799 +667,201 @@
       }
     },
     {
-      "id": "seemode-thyroid-tirads",
+      "id": "commsmed-ai-uncertainty-physicians",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "갑상선 초음파 AI,\n의사 일치율 높았다",
-      "body": "U.S. 297곳에서 See-Mode AI의 TI-RADS 유지율을 추적했다.",
-      "mini_headline": "갑상선 AI, 높은 일치율",
+      "headline": "AI 불확실성 표시에\n의사 판단 달라진다",
+      "body": "의사 227명 실험서 AI 불확실성 표시 방식이 조언 수용·정확도·신뢰를 갈랐다.",
+      "mini_headline": "AI 불확실성 표시와 신뢰",
       "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/ultrasound-preview/article/16542262/thyroid-ultrasound-ai-yields-high-agreement-with-radiologists",
+      "source": "Communications Medicine",
+      "url": "https://www.nature.com/articles/s43856-026-02008-4",
       "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "11월 29일(일) | 오전 9:00~10:00 | S1-SSHN01-2 | E352호"
-          },
-          {
-            "t": "p",
-            "x": "이번 발표에서 연구진은 갑상선 초음파 AI 소프트웨어를 실제 진료 현장에 대규모로 들여온 결과를 공개한다."
-          },
-          {
-            "t": "p",
-            "x": "갑상선 초음파에서 AI는 효율과 정확도를 높이고 판독자 간 편차를 줄일 가능성을 보여 왔다. 다만 실제 임상 효과는 영상의학과 의사가 일상 진료에서 그 결과를 믿고 받아들이느냐에 달렸다고 See-Mode Technologies의 발표자 Milad Mohammadzadeh(PhD) 연구팀은 지적했다. 연구팀은 이를 가늠하려고 AI 시스템이 만든 TI-RADS 기술어를 영상의학과 의사가 얼마나 자주 그대로 두는지 전향적으로 평가했다."
-          },
-          {
-            "t": "p",
-            "x": "U.S. 전역 297개 클리닉에 깔린 이 소프트웨어(See-Mode)는 결절 검출과 특성 분석, 판독문 생성을 자동으로 처리한다. 연구진은 검증된 대규모 언어 모델 파이프라인으로 2025년 9월부터 2026년 4월까지 영상의학과 의사가 최종 서명한 판독문을 AI-generated 구조화 판독문과 비교했다."
-          },
-          {
-            "t": "p",
-            "x": "187,000개가 넘는 결절을 다룬 95,000건 이상의 검사에서 영상의학과 의사는 결절의 약 89%에서 AI-generated 기술어를 하나도 바꾸지 않아 AI의 TI-RADS 등급을 그대로 받아들였다. 개별 기술어 일치율은 약 95%~98%로 더 높았다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 초록에서 \"이처럼 높은 human-AI 일치도는 AI 결과에 대한 신뢰를 쌓는 데 중요하며, 이는 AI를 일상 진료에 장기적으로 성공적으로 통합하는 데 핵심적이다\"라고 썼다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Thyroid ultrasound AI finds\nhigh radiologist agreement",
-          "body": "Across 297 U.S. clinics, a prospective study tracked how often radiologists kept See-Mode AI's TI-RADS descriptors.",
-          "mini_headline": "Thyroid AI, high agreement",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Sunday, November 29 | 9:00 a.m. to 10:00 a.m. | S1-SSHN01-2 | Room E352"
-              },
-              {
-                "t": "p",
-                "x": "In this scientific presentation, researchers will share findings from a large, real-world deployment of AI software for thyroid ultrasound."
-              },
-              {
-                "t": "p",
-                "x": "AI has shown promise for improving efficiency and accuracy and for reducing inter-reader variability in thyroid ultrasound. However, its clinical impact ultimately depends on whether radiologists trust and adopt its outputs in routine practice, noted presenter Milad Mohammadzadeh, PhD, of See-Mode Technologies and colleagues. To gauge this, the group prospectively assessed how often radiologists kept the TI-RADS descriptors generated by an AI system."
-              },
-              {
-                "t": "p",
-                "x": "The software (See-Mode) was deployed at 297 clinics across the U.S. and automates nodule detection, characterization, and report generation. The researchers used a validated large language model pipeline to compare radiologists' final signed reports from September 2025 through April 2026 against the AI-generated structured reports."
-              },
-              {
-                "t": "p",
-                "x": "Across more than 95,000 studies covering over 187,000 nodules, radiologists left all AI-generated descriptors unchanged, and therefore agreed with the AI's TI-RADS level, in nearly 89% of nodules. Agreement was even higher for individual descriptors, ranging from about 95% to 98%."
-              },
-              {
-                "t": "p",
-                "x": "\"This high human-AI concordance is important for building trust in AI outputs, which is critical to successful long-term integration of AI into routine clinical practice,\" the researchers wrote in the abstract."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "갑상선 초음파 AI,\n의사 일치율 높았다",
-          "body": "U.S. 297곳에서 See-Mode AI의 TI-RADS 유지율을 추적했다.",
-          "mini_headline": "갑상선 AI, 높은 일치율",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "11월 29일(일) | 오전 9:00~10:00 | S1-SSHN01-2 | E352호"
-              },
-              {
-                "t": "p",
-                "x": "이번 발표에서 연구진은 갑상선 초음파 AI 소프트웨어를 실제 진료 현장에 대규모로 들여온 결과를 공개한다."
-              },
-              {
-                "t": "p",
-                "x": "갑상선 초음파에서 AI는 효율과 정확도를 높이고 판독자 간 편차를 줄일 가능성을 보여 왔다. 다만 실제 임상 효과는 영상의학과 의사가 일상 진료에서 그 결과를 믿고 받아들이느냐에 달렸다고 See-Mode Technologies의 발표자 Milad Mohammadzadeh(PhD) 연구팀은 지적했다. 연구팀은 이를 가늠하려고 AI 시스템이 만든 TI-RADS 기술어를 영상의학과 의사가 얼마나 자주 그대로 두는지 전향적으로 평가했다."
-              },
-              {
-                "t": "p",
-                "x": "U.S. 전역 297개 클리닉에 깔린 이 소프트웨어(See-Mode)는 결절 검출과 특성 분석, 판독문 생성을 자동으로 처리한다. 연구진은 검증된 대규모 언어 모델 파이프라인으로 2025년 9월부터 2026년 4월까지 영상의학과 의사가 최종 서명한 판독문을 AI-generated 구조화 판독문과 비교했다."
-              },
-              {
-                "t": "p",
-                "x": "187,000개가 넘는 결절을 다룬 95,000건 이상의 검사에서 영상의학과 의사는 결절의 약 89%에서 AI-generated 기술어를 하나도 바꾸지 않아 AI의 TI-RADS 등급을 그대로 받아들였다. 개별 기술어 일치율은 약 95%~98%로 더 높았다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 초록에서 \"이처럼 높은 human-AI 일치도는 AI 결과에 대한 신뢰를 쌓는 데 중요하며, 이는 AI를 일상 진료에 장기적으로 성공적으로 통합하는 데 핵심적이다\"라고 썼다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "甲状腺エコーのAI\n読影医と高い一致",
-          "body": "U.S.の297施設で、See-Mode AIのTI-RADS記述の保持率を追跡した。",
-          "mini_headline": "甲状腺AI、高い一致率",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "11月29日(日) | 午前9:00〜10:00 | S1-SSHN01-2 | E352室"
-              },
-              {
-                "t": "p",
-                "x": "この学術発表で研究者らは、甲状腺超音波向けAIソフトウェアを実臨床で大規模に導入した結果を報告する。"
-              },
-              {
-                "t": "p",
-                "x": "AIは甲状腺超音波において効率と精度を高め、読影者間のばらつきを減らす可能性を示してきた。しかし臨床的な効果は最終的に、放射線科医が日常診療でその出力を信頼し採用するかどうかにかかっていると、See-Mode Technologiesの発表者Milad Mohammadzadeh(PhD)らは指摘した。これを測るため、グループはAIシステムが生成したTI-RADS記述子を放射線科医がどれほどの頻度で維持したかを前向きに評価した。"
-              },
-              {
-                "t": "p",
-                "x": "このソフトウェア(See-Mode)はU.S.全土の297施設に導入され、結節の検出、性状評価、レポート作成を自動化している。研究者らは検証済みの大規模言語モデルのパイプラインを用い、2025年9月から2026年4月までに放射線科医が最終署名したレポートをAI-generatedの構造化レポートと比較した。"
-              },
-              {
-                "t": "p",
-                "x": "187,000超の結節を含む95,000件以上の検査で、放射線科医は約89%の結節でAI-generatedの記述子をすべてそのまま残し、AIのTI-RADSレベルに同意した。個々の記述子の一致率はさらに高く、約95%から98%だった。"
-              },
-              {
-                "t": "p",
-                "x": "「この高いhuman-AI一致は、AIの出力への信頼を築くうえで重要であり、それはAIを日常臨床に長期的に定着させるために不可欠だ」と研究者らは抄録に記した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "甲状腺超声AI\n与医生高度一致",
-          "body": "研究在U.S. 297家诊所追踪See-Mode AI的TI-RADS描述保留率。",
-          "mini_headline": "甲状腺AI，高度一致",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "11月29日(周日) | 上午9:00至10:00 | S1-SSHN01-2 | E352室"
-              },
-              {
-                "t": "p",
-                "x": "在这场科学报告中，研究人员将分享甲状腺超声AI软件在真实世界大规模部署的结果。"
-              },
-              {
-                "t": "p",
-                "x": "AI在甲状腺超声中已显示出提高效率和准确性、减少阅片者间差异的潜力。但See-Mode Technologies的报告人Milad Mohammadzadeh(PhD)及其同事指出，其临床影响最终取决于放射科医生是否在日常实践中信任并采用其输出。为此，团队前瞻性评估了放射科医生保留AI系统生成的TI-RADS描述符的频率。"
-              },
-              {
-                "t": "p",
-                "x": "该软件(See-Mode)已部署于U.S.各地297家诊所，可自动完成结节检测、特征描述和报告生成。研究人员使用经过验证的大语言模型流程，将2025年9月至2026年4月放射科医生最终签署的报告与AI-generated结构化报告进行比较。"
-              },
-              {
-                "t": "p",
-                "x": "在覆盖187,000多个结节的95,000多项检查中，放射科医生在近89%的结节上未改动任何AI-generated描述符，因而认同了AI的TI-RADS分级。单项描述符的一致率更高，约为95%至98%。"
-              },
-              {
-                "t": "p",
-                "x": "研究人员在摘要中写道：“这种高度的human-AI一致性对于建立对AI输出的信任很重要，而这对于AI长期成功融入日常临床实践至关重要。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI de ecografía tiroidea\nlogra alto acuerdo radiológico",
-          "body": "Un estudio prospectivo en 297 clínicas de U.S. midió cuánto mantienen los radiólogos los TI-RADS de See-Mode AI.",
-          "mini_headline": "AI tiroidea, alto acuerdo",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Domingo, 29 de noviembre | 9:00 a.m. a 10:00 a.m. | S1-SSHN01-2 | Sala E352"
-              },
-              {
-                "t": "p",
-                "x": "En esta presentación científica, los investigadores compartirán los resultados de un despliegue amplio y en condiciones reales de un software de AI para ecografía tiroidea."
-              },
-              {
-                "t": "p",
-                "x": "La AI ha mostrado potencial para mejorar la eficiencia y la precisión y para reducir la variabilidad entre lectores en la ecografía tiroidea. Sin embargo, su impacto clínico depende en última instancia de que los radiólogos confíen en sus resultados y los adopten en la práctica habitual, señalaron el ponente Milad Mohammadzadeh, PhD, de See-Mode Technologies, y sus colegas. Para medirlo, el grupo evaluó de forma prospectiva con qué frecuencia los radiólogos conservaban los descriptores TI-RADS generados por un sistema de AI."
-              },
-              {
-                "t": "p",
-                "x": "El software (See-Mode) se implantó en 297 clínicas de Estados Unidos (U.S.) y automatiza la detección de nódulos, su caracterización y la generación de informes. Los investigadores usaron un flujo validado basado en un modelo de lenguaje grande para comparar los informes finales firmados por los radiólogos entre septiembre de 2025 y abril de 2026 con los informes estructurados AI-generated."
-              },
-              {
-                "t": "p",
-                "x": "En más de 95,000 estudios que abarcaban más de 187,000 nódulos, los radiólogos dejaron sin cambios todos los descriptores AI-generated, y por tanto coincidieron con el nivel TI-RADS de la AI, en casi el 89% de los nódulos. La concordancia fue aún mayor en los descriptores individuales, de alrededor del 95% al 98%."
-              },
-              {
-                "t": "p",
-                "x": "\"Esta alta concordancia human-AI es importante para generar confianza en los resultados de la AI, algo clave para integrar con éxito y a largo plazo la AI en la práctica clínica habitual\", escribieron los investigadores en el resumen."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "갑상선 초음파 AI,\n의사 일치율 높았다",
-          "body": "U.S. 297곳에서 See-Mode AI의 TI-RADS 유지율을 추적했다.",
-          "mini_headline": "갑상선 AI, 높은 일치율",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "11월 29일(일) | 오전 9:00~10:00 | S1-SSHN01-2 | E352호"
-              },
-              {
-                "t": "p",
-                "x": "이 학술 발표에서 연구진은 갑상선 초음파용 AI 소프트웨어를 실제 진료 환경에 대규모로 도입한 결과를 공유한다."
-              },
-              {
-                "t": "p",
-                "x": "AI는 갑상선 초음파에서 효율과 정확도를 높이고 판독자 간 편차를 줄일 가능성을 보여 왔다. 그러나 임상적 효과는 결국 영상의학과 의사가 일상 진료에서 그 결과를 신뢰하고 채택하는지에 달려 있다고 See-Mode Technologies의 발표자 Milad Mohammadzadeh(PhD) 연구팀은 지적했다. 이를 가늠하려고 연구팀은 AI 시스템이 생성한 TI-RADS 기술어를 영상의학과 의사가 얼마나 자주 유지하는지 전향적으로 평가했다."
-              },
-              {
-                "t": "p",
-                "x": "이 소프트웨어(See-Mode)는 U.S. 전역 297개 클리닉에 도입돼 결절 검출, 특성 분석, 판독문 생성을 자동화한다. 연구진은 검증된 대규모 언어 모델 파이프라인으로 2025년 9월부터 2026년 4월까지 영상의학과 의사가 최종 서명한 판독문을 AI-generated 구조화 판독문과 비교했다."
-              },
-              {
-                "t": "p",
-                "x": "187,000개가 넘는 결절을 다룬 95,000건 이상의 검사에서 영상의학과 의사는 결절의 약 89%에서 AI-generated 기술어를 하나도 바꾸지 않았고, 따라서 AI의 TI-RADS 등급에 동의했다. 개별 기술어 일치율은 약 95%~98%로 더 높았다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 초록에서 \"이처럼 높은 human-AI 일치도는 AI 결과에 대한 신뢰를 쌓는 데 중요하며, 이는 AI를 일상 진료에 장기적으로 성공적으로 통합하는 데 핵심적이다\"라고 썼다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "甲状腺エコーのAI\n読影医と高い一致",
-          "body": "U.S.の297施設で、See-Mode AIのTI-RADS記述の保持率を追跡した。",
-          "mini_headline": "甲状腺AI、高い一致率",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "11月29日(日) | 午前9:00〜10:00 | S1-SSHN01-2 | E352室"
-              },
-              {
-                "t": "p",
-                "x": "この学術発表で研究者らは、甲状腺超音波向けAIソフトウェアを実臨床で大規模に導入した結果を報告する。"
-              },
-              {
-                "t": "p",
-                "x": "AIは甲状腺超音波において効率と精度を高め、読影者間のばらつきを減らす可能性を示してきた。しかし臨床的な効果は最終的に、放射線科医が日常診療でその出力を信頼し採用するかどうかにかかっていると、See-Mode Technologiesの発表者Milad Mohammadzadeh(PhD)らは指摘した。これを測るため、グループはAIシステムが生成したTI-RADS記述子を放射線科医がどれほどの頻度で維持したかを前向きに評価した。"
-              },
-              {
-                "t": "p",
-                "x": "このソフトウェア(See-Mode)はU.S.全土の297施設に導入され、結節の検出、性状評価、レポート作成を自動化している。研究者らは検証済みの大規模言語モデルのパイプラインを用い、2025年9月から2026年4月までに放射線科医が最終署名したレポートをAI-generatedの構造化レポートと比較した。"
-              },
-              {
-                "t": "p",
-                "x": "187,000超の結節を含む95,000件以上の検査で、放射線科医は約89%の結節でAI-generatedの記述子をすべてそのまま残し、AIのTI-RADSレベルに同意した。個々の記述子の一致率はさらに高く、約95%から98%だった。"
-              },
-              {
-                "t": "p",
-                "x": "「この高いhuman-AI一致は、AIの出力への信頼を築くうえで重要であり、それはAIを日常臨床に長期的に定着させるために不可欠だ」と研究者らは抄録に記した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "甲状腺超声AI\n与医生高度一致",
-          "body": "研究在U.S. 297家诊所追踪See-Mode AI的TI-RADS描述保留率。",
-          "mini_headline": "甲状腺AI，高度一致",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "11月29日(周日) | 上午9:00至10:00 | S1-SSHN01-2 | E352室"
-              },
-              {
-                "t": "p",
-                "x": "在这场科学报告中，研究人员将分享甲状腺超声AI软件在真实世界大规模部署的结果。"
-              },
-              {
-                "t": "p",
-                "x": "AI在甲状腺超声中已显示出提高效率和准确性、减少阅片者间差异的潜力。但See-Mode Technologies的报告人Milad Mohammadzadeh(PhD)及其同事指出，其临床影响最终取决于放射科医生是否在日常实践中信任并采用其输出。为此，团队前瞻性评估了放射科医生保留AI系统生成的TI-RADS描述符的频率。"
-              },
-              {
-                "t": "p",
-                "x": "该软件(See-Mode)已部署于U.S.各地297家诊所，可自动完成结节检测、特征描述和报告生成。研究人员使用经过验证的大语言模型流程，将2025年9月至2026年4月放射科医生最终签署的报告与AI-generated结构化报告进行比较。"
-              },
-              {
-                "t": "p",
-                "x": "在覆盖187,000多个结节的95,000多项检查中，放射科医生在近89%的结节上未改动任何AI-generated描述符，因而认同了AI的TI-RADS分级。单项描述符的一致率更高，约为95%至98%。"
-              },
-              {
-                "t": "p",
-                "x": "研究人员在摘要中写道：“这种高度的human-AI一致性对于建立对AI输出的信任很重要，而这对于AI长期成功融入日常临床实践至关重要。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI de ecografía tiroidea\nlogra alto acuerdo radiológico",
-          "body": "Un estudio prospectivo en 297 clínicas de U.S. midió cuánto mantienen los radiólogos los TI-RADS de See-Mode AI.",
-          "mini_headline": "AI tiroidea, alto acuerdo",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Domingo, 29 de noviembre | 9:00 a.m. a 10:00 a.m. | S1-SSHN01-2 | Sala E352"
-              },
-              {
-                "t": "p",
-                "x": "En esta presentación científica, los investigadores compartirán los resultados de un despliegue amplio y en condiciones reales de un software de AI para ecografía tiroidea."
-              },
-              {
-                "t": "p",
-                "x": "La AI ha mostrado potencial para mejorar la eficiencia y la precisión y para reducir la variabilidad entre lectores en la ecografía tiroidea. Sin embargo, su impacto clínico depende en última instancia de que los radiólogos confíen en sus resultados y los adopten en la práctica habitual, señalaron el ponente Milad Mohammadzadeh, PhD, de See-Mode Technologies, y sus colegas. Para medirlo, el grupo evaluó de forma prospectiva con qué frecuencia los radiólogos conservaban los descriptores TI-RADS generados por un sistema de AI."
-              },
-              {
-                "t": "p",
-                "x": "El software (See-Mode) se implantó en 297 clínicas de Estados Unidos (U.S.) y automatiza la detección de nódulos, su caracterización y la generación de informes. Los investigadores usaron un flujo validado basado en un modelo de lenguaje grande para comparar los informes finales firmados por los radiólogos entre septiembre de 2025 y abril de 2026 con los informes estructurados AI-generated."
-              },
-              {
-                "t": "p",
-                "x": "En más de 95,000 estudios que abarcaban más de 187,000 nódulos, los radiólogos dejaron sin cambios todos los descriptores AI-generated, y por tanto coincidieron con el nivel TI-RADS de la AI, en casi el 89% de los nódulos. La concordancia fue aún mayor en los descriptores individuales, de alrededor del 95% al 98%."
-              },
-              {
-                "t": "p",
-                "x": "\"Esta alta concordancia human-AI es importante para generar confianza en los resultados de la AI, algo clave para integrar con éxito y a largo plazo la AI en la práctica clínica habitual\", escribieron los investigadores en el resumen."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "intelerad-orchestrator-clarity",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "GE HealthCare\n판독 보고서에 AI 계층",
-      "body": "Intelerad의 Clarity가 과거 판독을 요약하고 구술 판독문 초안을 쓴다.",
-      "mini_headline": "GE, InteleOrchestrator에 AI 추가",
-      "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16542651/ge-healthcare-gehc-adds-ai-layer-to-inteleorchestrator",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
-            "cap": ""
-          },
-          {
-            "t": "p",
-            "x": "GE HealthCare(GEHC)가 영상의학과 의사의 요약과 판독문 작성을 돕는 InteleOrchestrator Clarity를 선보인다. 자회사 Intelerad가 만든 엔터프라이즈 워크플로 소프트웨어 InteleOrchestrator 위에 얹는 AI 계층이다."
-          },
-          {
-            "t": "p",
-            "x": "업체 설명으로는 이 소프트웨어가 판독 워크플로 안에서 이전 판독문과 환자 병력을 요약해 출처와 함께 보여 준다. 근거 정보 링크가 달려 있어 의사가 요약 내용을 바로 확인할 수 있다. GEHC는 의사가 소견을 구술하면 InteleOrchestrator Clarity가 구술 내용과 가용 정보를 모아 구조화된 판독문 초안을 만들고, 의사는 이를 검토해 필요한 부분을 고친 뒤 확정한다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "InteleOrchestrator 고객은 지금 InteleOrchestrator Cloud에서 InteleOrchestrator Clarity를 쓸 수 있다. GEHC는 시카고에서 열리는 RSNA 2026 연례 학술대회에서 이 소프트웨어를 시연한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "GE HealthCare adds AI layer\nto radiology reporting",
-          "body": "Intelerad's Clarity gives radiologists source-linked summaries of priors and drafts structured reports from dictation.",
-          "mini_headline": "GE adds AI to InteleOrchestrator",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "GE HealthCare (GEHC) is introducing InteleOrchestrator Clarity, an AI layer for its InteleOrchestrator enterprise workflow software developed by the company's Intelerad unit, to support summarization and reporting for radiologists."
-              },
-              {
-                "t": "p",
-                "x": "The software provides radiologists with source-linked summaries of prior reports and patient history within the reading workflow, with links to the underlying information so radiologists can verify the summarized content, according to the vendor. As radiologists dictate findings, InteleOrchestrator Clarity consolidates the dictation and available information into a structured report draft, which radiologists then review, correct as needed, and finalize, GEHC said."
-              },
-              {
-                "t": "p",
-                "x": "InteleOrchestrator Clarity is now available to InteleOrchestrator customers through InteleOrchestrator Cloud. GEHC will demonstrate the software at the RSNA 2026 annual meeting in Chicago."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "GE HealthCare\n판독 보고서에 AI 계층",
-          "body": "Intelerad의 Clarity가 과거 판독을 요약하고 구술 판독문 초안을 쓴다.",
-          "mini_headline": "GE, InteleOrchestrator에 AI 추가",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "GE HealthCare(GEHC)가 영상의학과 의사의 요약과 판독문 작성을 돕는 InteleOrchestrator Clarity를 선보인다. 자회사 Intelerad가 만든 엔터프라이즈 워크플로 소프트웨어 InteleOrchestrator 위에 얹는 AI 계층이다."
-              },
-              {
-                "t": "p",
-                "x": "업체 설명으로는 이 소프트웨어가 판독 워크플로 안에서 이전 판독문과 환자 병력을 요약해 출처와 함께 보여 준다. 근거 정보 링크가 달려 있어 의사가 요약 내용을 바로 확인할 수 있다. GEHC는 의사가 소견을 구술하면 InteleOrchestrator Clarity가 구술 내용과 가용 정보를 모아 구조화된 판독문 초안을 만들고, 의사는 이를 검토해 필요한 부분을 고친 뒤 확정한다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "InteleOrchestrator 고객은 지금 InteleOrchestrator Cloud에서 InteleOrchestrator Clarity를 쓸 수 있다. GEHC는 시카고에서 열리는 RSNA 2026 연례 학술대회에서 이 소프트웨어를 시연한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "GE HealthCare\n読影レポートにAI層を追加",
-          "body": "InteleradのClarityは過去読影を出典付きで要約し、口述から報告書案を作る。",
-          "mini_headline": "GE、InteleOrchestratorにAIを追加",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "GE HealthCare（GEHC）は、放射線科医の要約作成とレポート作成を支援するInteleOrchestrator Clarityを投入する。同社のIntelerad部門が開発したエンタープライズ向けワークフローソフトウェアInteleOrchestratorに加わるAIレイヤーである。"
-              },
-              {
-                "t": "p",
-                "x": "ベンダーによると、このソフトウェアは読影ワークフローの中で、過去のレポートと患者の病歴を出典にリンクした要約として放射線科医に示す。元の情報へのリンクが付くため、医師は要約の内容を確かめられる。GEHCによれば、放射線科医が所見を口述すると、InteleOrchestrator Clarityが口述内容と利用可能な情報をまとめて構造化レポートの草案を作り、医師がそれを確認し、必要に応じて修正したうえで確定する。"
-              },
-              {
-                "t": "p",
-                "x": "InteleOrchestrator Clarityは現在、InteleOrchestrator Cloudを通じてInteleOrchestratorの顧客が利用できる。GEHCはシカゴで開かれるRSNA 2026年次総会でこのソフトウェアを披露する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "GE HealthCare\n为放射报告加入AI层",
-          "body": "Intelerad的Clarity以附来源的方式摘要既往报告，并据口述起草结构化报告。",
-          "mini_headline": "GE为InteleOrchestrator加入AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "GE HealthCare（GEHC）推出InteleOrchestrator Clarity，为放射科医生的摘要与报告工作提供支持。它是叠加在InteleOrchestrator企业工作流软件之上的AI层，该软件由公司旗下Intelerad部门开发。"
-              },
-              {
-                "t": "p",
-                "x": "据厂商介绍，该软件在阅片工作流中为放射科医生提供既往报告和患者病史的来源链接式摘要，并附上指向原始信息的链接，方便医生核实摘要内容。GEHC表示，放射科医生口述所见时，InteleOrchestrator Clarity会把口述内容与现有信息整合成结构化报告草稿，再由医生审阅、按需修改并最终定稿。"
-              },
-              {
-                "t": "p",
-                "x": "InteleOrchestrator Clarity现已通过InteleOrchestrator Cloud向InteleOrchestrator客户提供。GEHC将在芝加哥举行的RSNA 2026年会上演示该软件。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "GE HealthCare añade una capa\nde IA al informe radiológico",
-          "body": "Clarity, de Intelerad, resume estudios previos con enlaces a fuentes y redacta informes estructurados desde el dictado.",
-          "mini_headline": "GE suma IA a InteleOrchestrator",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "GE HealthCare (GEHC) presenta InteleOrchestrator Clarity, una capa de IA para InteleOrchestrator, su software de flujo de trabajo empresarial desarrollado por su unidad Intelerad, con el fin de apoyar a los radiólogos en la elaboración de resúmenes e informes."
-              },
-              {
-                "t": "p",
-                "x": "Según el fabricante, el software ofrece a los radiólogos, dentro del flujo de lectura, resúmenes de informes previos y del historial del paciente vinculados a sus fuentes, con enlaces a la información original para que puedan verificar el contenido resumido. A medida que el radiólogo dicta los hallazgos, InteleOrchestrator Clarity reúne el dictado y la información disponible en un borrador de informe estructurado, que el radiólogo revisa, corrige si hace falta y finaliza, según GEHC."
-              },
-              {
-                "t": "p",
-                "x": "InteleOrchestrator Clarity ya está disponible para los clientes de InteleOrchestrator a través de InteleOrchestrator Cloud. GEHC mostrará el software en la reunión anual RSNA 2026 en Chicago."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "GE HealthCare añade una capa\nde IA al informe radiológico",
-          "body": "Clarity, de Intelerad, resume estudios previos con enlaces a fuentes y redacta informes estructurados desde el dictado.",
-          "mini_headline": "GE suma IA a InteleOrchestrator",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "GE HealthCare (GEHC) presenta InteleOrchestrator Clarity, una capa de IA para InteleOrchestrator, su software de flujo de trabajo empresarial desarrollado por su unidad Intelerad, con el fin de apoyar a los radiólogos en la elaboración de resúmenes e informes."
-              },
-              {
-                "t": "p",
-                "x": "Según el fabricante, el software ofrece a los radiólogos, dentro del flujo de lectura, resúmenes de informes previos y del historial del paciente vinculados a sus fuentes, con enlaces a la información original para que puedan verificar el contenido resumido. A medida que el radiólogo dicta los hallazgos, InteleOrchestrator Clarity reúne el dictado y la información disponible en un borrador de informe estructurado, que el radiólogo revisa, corrige si hace falta y finaliza, según GEHC."
-              },
-              {
-                "t": "p",
-                "x": "InteleOrchestrator Clarity ya está disponible para los clientes de InteleOrchestrator a través de InteleOrchestrator Cloud. GEHC mostrará el software en la reunión anual RSNA 2026 en Chicago."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "GE HealthCare\n판독 보고서에 AI 계층",
-          "body": "Intelerad의 Clarity는 과거 판독 요약과 구술 판독문 초안을 낸다.",
-          "mini_headline": "GE, InteleOrchestrator에 AI 추가",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "GE HealthCare(GEHC)가 영상의학과 의사의 요약·판독문 작성을 돕는 InteleOrchestrator Clarity를 선보인다. 자회사 Intelerad가 개발한 엔터프라이즈 워크플로 소프트웨어 InteleOrchestrator에 얹는 AI 계층이다."
-              },
-              {
-                "t": "p",
-                "x": "업체에 따르면 이 소프트웨어는 판독 워크플로 안에서 이전 판독문과 환자 병력을 출처와 연결된 요약으로 보여 준다. 근거 정보로 가는 링크가 함께 달려 있어 의사가 요약 내용을 직접 확인할 수 있다. GEHC는 의사가 소견을 구술하면 InteleOrchestrator Clarity가 구술 내용과 가용 정보를 모아 구조화된 판독문 초안을 만들고, 의사는 이를 검토해 필요한 부분을 고친 뒤 확정한다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "InteleOrchestrator Clarity는 현재 InteleOrchestrator Cloud를 통해 InteleOrchestrator 고객이 쓸 수 있다. GEHC는 시카고에서 열리는 RSNA 2026 연례 학술대회에서 이 소프트웨어를 시연한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "GE HealthCare\n読影レポートにAI層を追加",
-          "body": "InteleradのClarityは過去読影を出典付きで要約し、口述から報告書案を作る。",
-          "mini_headline": "GE、InteleOrchestratorにAIを追加",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "GE HealthCare（GEHC）は、放射線科医の要約作成とレポート作成を支援するInteleOrchestrator Clarityを投入する。同社のIntelerad部門が開発したエンタープライズ向けワークフローソフトウェアInteleOrchestratorに加わるAIレイヤーである。"
-              },
-              {
-                "t": "p",
-                "x": "ベンダーによると、このソフトウェアは読影ワークフローの中で、過去のレポートと患者の病歴を出典にリンクした要約として放射線科医に示す。元の情報へのリンクが付くため、医師は要約の内容を確かめられる。GEHCによれば、放射線科医が所見を口述すると、InteleOrchestrator Clarityが口述内容と利用可能な情報をまとめて構造化レポートの草案を作り、医師がそれを確認し、必要に応じて修正したうえで確定する。"
-              },
-              {
-                "t": "p",
-                "x": "InteleOrchestrator Clarityは現在、InteleOrchestrator Cloudを通じてInteleOrchestratorの顧客が利用できる。GEHCはシカゴで開かれるRSNA 2026年次総会でこのソフトウェアを披露する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "GE HealthCare\n为放射报告加入AI层",
-          "body": "Intelerad的Clarity以附来源的方式摘要既往报告，并据口述起草结构化报告。",
-          "mini_headline": "GE为InteleOrchestrator加入AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/11/viewpoint-ultra-002.Lv0chGkxeK.jpg?auto=format%2Ccompress&bg=ffffff&fit=crop&h=675&q=70&w=1200",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "GE HealthCare（GEHC）推出InteleOrchestrator Clarity，为放射科医生的摘要与报告工作提供支持。它是叠加在InteleOrchestrator企业工作流软件之上的AI层，该软件由公司旗下Intelerad部门开发。"
-              },
-              {
-                "t": "p",
-                "x": "据厂商介绍，该软件在阅片工作流中为放射科医生提供既往报告和患者病史的来源链接式摘要，并附上指向原始信息的链接，方便医生核实摘要内容。GEHC表示，放射科医生口述所见时，InteleOrchestrator Clarity会把口述内容与现有信息整合成结构化报告草稿，再由医生审阅、按需修改并最终定稿。"
-              },
-              {
-                "t": "p",
-                "x": "InteleOrchestrator Clarity现已通过InteleOrchestrator Cloud向InteleOrchestrator客户提供。GEHC将在芝加哥举行的RSNA 2026年会上演示该软件。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "npj-tumor-board-ai",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "암 종양위원회에서\nAI가 아직 못 미치는 곳",
-      "body": "연구진은 증례 요약부터 결과 예측까지 AI 과제 세 가지를 정의해 한계를 짚었다.",
-      "mini_headline": "종양위원회 AI의 한계",
-      "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03442-3",
-      "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "종양위원회는 병원에서 정기적으로 열리는 회의로, 암 전문의(예: 종양내과, 병리과)가 모여 환자 진료를 논의한다. 이 연구는 종양위원회 증례 요약, 치료 옵션 생성, 회의 결과 예측을 AI 과제로 공식 정의한다. 네 곳 의료기관의 데이터셋을 살피고 DeepSeek, GPT, Gemini, Qwen 계열의 최신 대규모 언어 모델(LLMs)을 전문가 평가로 검증한다."
+            "x": "머신러닝 기반 임상 의사결정 지원이 일상 진료에 들어오고 있다. 다만 그 가치는 임상의가 조언을 언제 따르고 언제 무시할지 가려낼 수 있느냐에 달렸다. 사전 등록된 무작위 비네트 실험에서 의사 227명이 패혈증 위험 평가 1,802건을 수행했다. 의사들은 초기 추정치를 먼저 낸 뒤 머신러닝 시스템의 조언을 보고 추정치를 고쳤다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
+            "cap": "Fig. 1: 연구 절차와 표시 조건."
           },
           {
             "t": "p",
-            "x": "종양내과 전문의들이 과제 전반에서 만든 참조 텍스트는 약 9.6k 건, 인간 판단은 16k 건이다. 임상의들은 LLM-generated 증례 요약을 기관별로 5.0점 만점에 3.57–4.59점으로 평가했다. 권고안 생성은 평균 2.0–3.6점에 그쳐 여전히 더 어려운 과제였다."
+            "x": "의사들은 위험 점수만 보는 조건과, 위험 점수에 불확실성 구간을 표시한 아이콘 배열이나 분위수 점 그림을 함께 보는 조건에 무작위로 배정됐다. 두 불확실성 표현은 위험 점수만 볼 때보다 조언 수용을 각각 23%, 21% 높였다. 그러나 잘못된 조언을 받아들이는 경우는 뚜렷하게 줄이지 못했다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
+            "cap": "Fig. 2: 조건별 CDSS 정답 여부에 따른 조언 수용."
           },
           {
             "t": "p",
-            "x": "임상 정렬 분석에서 LLM-as-Judge 지표의 상관계수는 증례 요약 하위 과제에서 약 0.2로 크지 않았고 권고안 생성에서는 약 0.6으로 더 높았다. 연구진이 제안한 TBFact 지표는 더 긴 산문형 자유 텍스트에서 LLM-as-Judge 방식과 견줄 만했다."
-          },
-          {
-            "t": "p",
-            "x": "전문가들은 참조 텍스트와 크게 다른 응답에도 높은 점수를 자주 줬다. 참조 기반 자동 평가 지표의 전제가 흔들리는 대목이다."
+            "x": "두 형식 모두 수정된 위험 추정치를 더 정확하게 만들었고 효과는 분위수 점 그림 쪽이 더 컸다. 신뢰를 높인 것은 아이콘 배열뿐이었다. 의사들은 불확실성이 왜 높아졌는지 알 때만 그 정보를 판단에 실제로 쓸 수 있다고 답했다. 연구진은 표현 형식에 따라 이점이 정확도와 신뢰 중 어느 쪽으로 나타날지가 갈린다고 결론지었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Where AI still falls short\nat cancer tumor boards",
-          "body": "A study defines three AI tumor-board tasks, from case summaries to outcome prediction, and maps where models fall short.",
-          "mini_headline": "AI's tumor board limits",
+          "headline": "How AI shows its uncertainty\nshapes what physicians do",
+          "body": "Among 227 physicians, how an AI displayed its uncertainty changed advice uptake, accuracy and trust.",
+          "mini_headline": "AI uncertainty shapes trust",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Tumor boards, recurring meetings at hospital institutions, assemble cancer specialists (e.g., medical oncology and pathology) to discuss patient care. In this work, we formally define tumor board case summarization, options generation, and meeting outcome prediction as AI tasks. We study datasets from four medical institutions and evaluate state-of-the-art large language models (LLMs) from the DeepSeek, GPT, Gemini, and Qwen families using expert human assessment."
+                "x": "Machine-learning-based clinical decision support is entering routine care, but its value depends on whether clinicians can judge when to follow its advice and when to override it. In a preregistered, randomized vignette experiment, 227 physicians produced 1,802 sepsis risk assessments: they gave an initial estimate, saw advice from a machine-learning system, and revised it."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
+                "cap": "Fig. 1: Study procedure and display conditions."
               },
               {
                 "t": "p",
-                "x": "Medical oncologists created ~9.6k reference texts and 16k human judgments across tasks. Clinicians rated LLM-generated case summaries 3.57–4.59 out of 5.0 across institutions, but recommendation generation remained more challenging, with average scores of 2.0–3.6."
+                "x": "Physicians were randomized to see a risk score alone, or the score together with icon arrays with uncertainty bands or quantile dotplots. Both uncertainty representations increased advice uptake relative to the risk score alone, by 23% and 21%, but uptake of incorrect advice was not reliably reduced."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
+                "cap": "Fig. 2: Advice uptake by CDSS correctness across conditions."
               },
               {
                 "t": "p",
-                "x": "Clinical alignment analyses showed modest correlations of ~0.2 for case summarization subtasks and higher correlations of ~0.6 for recommendation generation using LLM-as-Judge metrics. Our proposed TBFact metrics were competitive with LLM-as-Judge approaches in longer prose free-text settings."
-              },
-              {
-                "t": "p",
-                "x": "Experts also frequently assigned high ratings to responses that differed substantially from their reference texts, challenging assumptions underlying reference-based automatic evaluation metrics."
+                "x": "Both formats improved the accuracy of revised risk estimates, with the larger effect for quantile dotplots, but only icon arrays increased trust. Physicians described uncertainty as actionable only where they could tell why it was elevated. The authors conclude that the representation format determines whether the benefit appears mainly as accuracy or trust."
               }
             ]
           }
         },
         "ko": {
-          "headline": "암 종양위원회에서\nAI가 아직 못 미치는 곳",
-          "body": "연구진은 증례 요약부터 결과 예측까지 AI 과제 세 가지를 정의해 한계를 짚었다.",
-          "mini_headline": "종양위원회 AI의 한계",
+          "headline": "AI 불확실성 표시에\n의사 판단 달라진다",
+          "body": "의사 227명 실험서 AI 불확실성 표시 방식이 조언 수용·정확도·신뢰를 갈랐다.",
+          "mini_headline": "AI 불확실성 표시와 신뢰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "종양위원회는 병원에서 정기적으로 열리는 회의로, 암 전문의(예: 종양내과, 병리과)가 모여 환자 진료를 논의한다. 이 연구는 종양위원회 증례 요약, 치료 옵션 생성, 회의 결과 예측을 AI 과제로 공식 정의한다. 네 곳 의료기관의 데이터셋을 살피고 DeepSeek, GPT, Gemini, Qwen 계열의 최신 대규모 언어 모델(LLMs)을 전문가 평가로 검증한다."
+                "x": "머신러닝 기반 임상 의사결정 지원이 일상 진료에 들어오고 있다. 다만 그 가치는 임상의가 조언을 언제 따르고 언제 무시할지 가려낼 수 있느냐에 달렸다. 사전 등록된 무작위 비네트 실험에서 의사 227명이 패혈증 위험 평가 1,802건을 수행했다. 의사들은 초기 추정치를 먼저 낸 뒤 머신러닝 시스템의 조언을 보고 추정치를 고쳤다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
+                "cap": "Fig. 1: 연구 절차와 표시 조건."
               },
               {
                 "t": "p",
-                "x": "종양내과 전문의들이 과제 전반에서 만든 참조 텍스트는 약 9.6k 건, 인간 판단은 16k 건이다. 임상의들은 LLM-generated 증례 요약을 기관별로 5.0점 만점에 3.57–4.59점으로 평가했다. 권고안 생성은 평균 2.0–3.6점에 그쳐 여전히 더 어려운 과제였다."
+                "x": "의사들은 위험 점수만 보는 조건과, 위험 점수에 불확실성 구간을 표시한 아이콘 배열이나 분위수 점 그림을 함께 보는 조건에 무작위로 배정됐다. 두 불확실성 표현은 위험 점수만 볼 때보다 조언 수용을 각각 23%, 21% 높였다. 그러나 잘못된 조언을 받아들이는 경우는 뚜렷하게 줄이지 못했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
+                "cap": "Fig. 2: 조건별 CDSS 정답 여부에 따른 조언 수용."
               },
               {
                 "t": "p",
-                "x": "임상 정렬 분석에서 LLM-as-Judge 지표의 상관계수는 증례 요약 하위 과제에서 약 0.2로 크지 않았고 권고안 생성에서는 약 0.6으로 더 높았다. 연구진이 제안한 TBFact 지표는 더 긴 산문형 자유 텍스트에서 LLM-as-Judge 방식과 견줄 만했다."
-              },
-              {
-                "t": "p",
-                "x": "전문가들은 참조 텍스트와 크게 다른 응답에도 높은 점수를 자주 줬다. 참조 기반 자동 평가 지표의 전제가 흔들리는 대목이다."
+                "x": "두 형식 모두 수정된 위험 추정치를 더 정확하게 만들었고 효과는 분위수 점 그림 쪽이 더 컸다. 신뢰를 높인 것은 아이콘 배열뿐이었다. 의사들은 불확실성이 왜 높아졌는지 알 때만 그 정보를 판단에 실제로 쓸 수 있다고 답했다. 연구진은 표현 형식에 따라 이점이 정확도와 신뢰 중 어느 쪽으로 나타날지가 갈린다고 결론지었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "がん腫瘍会議で\nAIがまだ及ばない点",
-          "body": "ある研究が、症例要約から結果予測まで三つのAI課題を定義し、モデルの弱点を示した。",
-          "mini_headline": "腫瘍会議でのAIの限界",
+          "headline": "AIの不確実性の示し方が\n医師の判断を左右する",
+          "body": "医師227人の実験で、AIの不確実性の示し方が助言の採用、精度、信頼を変えた。",
+          "mini_headline": "AIの不確実性表示と信頼",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "腫瘍会議は病院で定期的に開かれる会議で、がんの専門医(例:腫瘍内科、病理)が集まり患者のケアを議論する。本研究では、腫瘍会議の症例要約、選択肢の生成、会議結果の予測をAIタスクとして正式に定義する。四つの医療機関のデータセットを調べ、DeepSeek、GPT、Gemini、Qwenの各系列の最先端大規模言語モデル(LLMs)を専門家による人的評価で検証する。"
+                "x": "機械学習に基づく臨床意思決定支援は日常診療に入りつつあるが、その価値は、臨床医が助言に従うべき時と覆すべき時を判断できるかどうかにかかっている。事前登録された無作為化ビネット実験で、227人の医師が1,802件の敗血症リスク評価を行った。医師はまず初期推定を示し、機械学習システムの助言を見たうえで推定を修正した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
+                "cap": "Fig. 1: 研究手順と表示条件。"
               },
               {
                 "t": "p",
-                "x": "腫瘍内科医はタスク全体で約9.6k 件の参照テキストと16k 件の人的判断を作成した。臨床医はLLM-generatedの症例要約を施設ごとに5.0点満点中3.57–4.59点と評価したが、推奨の生成はより難しく、平均スコアは2.0–3.6にとどまった。"
+                "x": "医師は、リスクスコアのみ、またはスコアに不確実性の幅を示すアイコン配列か分位点ドットプロットを加えた表示のいずれかに無作為に割り付けられた。どちらの不確実性表現も、リスクスコアのみの場合と比べて助言の採用をそれぞれ23%、21%高めたが、誤った助言の採用を確実に減らすことはできなかった。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
+                "cap": "Fig. 2: 条件別にみたCDSSの正誤ごとの助言採用。"
               },
               {
                 "t": "p",
-                "x": "臨床的整合性の分析では、LLM-as-Judge指標を用いた相関は症例要約のサブタスクで約0.2と控えめだったが、推奨の生成では約0.6と高かった。提案したTBFact指標は、より長い散文の自由記述ではLLM-as-Judge手法に匹敵した。"
-              },
-              {
-                "t": "p",
-                "x": "専門家は参照テキストと大きく異なる回答にも高評価を与えることが多く、参照に基づく自動評価指標の前提に疑問を投げかけた。"
+                "x": "両形式とも修正後のリスク推定の正確さを高め、効果は分位点ドットプロットのほうが大きかったが、信頼を高めたのはアイコン配列だけだった。医師は、不確実性がなぜ高いのかがわかる場合に限り、それを判断に生かせると述べた。著者らは、表示形式によって利点が主に正確さとして表れるか信頼として表れるかが決まると結論づけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI在肿瘤委员会\n仍有哪些短板",
-          "body": "一项研究定义了从病例摘要到结局预测的三项AI肿瘤委员会任务，并指出模型短板。",
-          "mini_headline": "肿瘤委员会AI的局限",
+          "headline": "AI如何呈现不确定性\n左右医生的决策",
+          "body": "在227名医生中，AI呈现不确定性的方式改变了建议采纳率、准确性和信任度。",
+          "mini_headline": "AI不确定性呈现与信任",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "肿瘤委员会是医院机构定期召开的会议，汇集癌症专科医生(如肿瘤内科和病理科)讨论患者诊疗。在本研究中，我们将肿瘤委员会病例摘要、方案生成和会议结果预测正式定义为AI任务。我们研究了来自四家医疗机构的数据集，并通过专家人工评估，评测了DeepSeek、GPT、Gemini和Qwen系列的最先进大语言模型(LLMs)。"
+                "x": "基于机器学习的临床决策支持正进入常规诊疗，但其价值取决于临床医生能否判断何时采纳建议、何时推翻建议。在一项预注册的随机情景实验中，227名医生完成了1,802次脓毒症风险评估：他们先给出初始估计，再查看机器学习系统的建议，然后修正估计。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
+                "cap": "Fig. 1: 研究流程与显示条件。"
               },
               {
                 "t": "p",
-                "x": "肿瘤内科医生在各项任务中创建了约9.6k 份参考文本和16k 条人工判断。各机构临床医生对LLM-generated病例摘要的评分为3.57–4.59分(满分5.0)，但建议生成仍更具挑战，平均得分为2.0–3.6。"
+                "x": "医生被随机分配查看单独的风险评分，或风险评分加上带不确定性区间的图标阵列或分位数点图。与单独的风险评分相比，两种不确定性呈现方式分别使建议采纳率提高23%和21%，但并未可靠地减少对错误建议的采纳。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
+                "cap": "Fig. 2: 各条件下按CDSS正确与否划分的建议采纳情况。"
               },
               {
                 "t": "p",
-                "x": "临床一致性分析显示，使用LLM-as-Judge指标时，病例摘要子任务的相关性约为0.2，较为有限；建议生成的相关性更高，约为0.6。我们提出的TBFact指标在较长的散文式自由文本场景中可与LLM-as-Judge方法媲美。"
-              },
-              {
-                "t": "p",
-                "x": "专家还经常给与其参考文本差异很大的回答打出高分，这对基于参考的自动评估指标背后的假设提出了挑战。"
+                "x": "两种形式都提高了修正后风险估计的准确性，其中分位数点图效果更大，但只有图标阵列提升了信任。医生表示，只有在能看出不确定性为何升高时，它才具有可操作性。作者认为，呈现形式决定了获益主要体现为准确性还是信任。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Dónde la AI aún se queda corta\nen los comités de tumores",
-          "body": "Un estudio define tres tareas de AI en comités de tumores, del resumen de casos a la predicción, y mapea sus fallos.",
-          "mini_headline": "Los límites de la AI en comités de tumores",
+          "headline": "La forma en que la AI muestra\nsu incertidumbre guía al médico",
+          "body": "Entre 227 médicos, cómo una AI mostraba su incertidumbre cambió la adopción de consejos, la precisión y la confianza.",
+          "mini_headline": "La incertidumbre de la AI y la confianza",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los comités de tumores, reuniones periódicas en instituciones hospitalarias, reúnen a especialistas en cáncer (p. ej., oncología médica y patología) para discutir la atención de los pacientes. En este trabajo, definimos formalmente como tareas de AI el resumen de casos del comité de tumores, la generación de opciones y la predicción del resultado de la reunión. Estudiamos conjuntos de datos de cuatro instituciones médicas y evaluamos modelos de lenguaje grandes (LLMs) de última generación de las familias DeepSeek, GPT, Gemini y Qwen mediante evaluación humana experta."
+                "x": "El apoyo a la decisión clínica basado en aprendizaje automático está entrando en la atención habitual, pero su valor depende de que los clínicos sepan cuándo seguir sus consejos y cuándo descartarlos. En un experimento aleatorizado con viñetas y registro previo, 227 médicos realizaron 1,802 evaluaciones del riesgo de sepsis: dieron una estimación inicial, vieron el consejo de un sistema de aprendizaje automático y la revisaron."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
+                "cap": "Fig. 1: Procedimiento del estudio y condiciones de visualización."
               },
               {
                 "t": "p",
-                "x": "Los oncólogos médicos crearon ~9.6k textos de referencia y 16k juicios humanos en todas las tareas. Los clínicos calificaron los resúmenes de casos LLM-generated entre 3.57–4.59 sobre 5.0 en las distintas instituciones, pero la generación de recomendaciones siguió siendo más difícil, con puntuaciones medias de 2.0–3.6."
+                "x": "Los médicos fueron asignados al azar a ver solo una puntuación de riesgo, o la puntuación junto con matrices de iconos con bandas de incertidumbre o diagramas de puntos por cuantiles. Ambas representaciones de la incertidumbre aumentaron la adopción de consejos frente a la puntuación sola, en un 23% y un 21%, pero la adopción de consejos incorrectos no se redujo de forma fiable."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
+                "cap": "Fig. 2: Adopción de consejos según el acierto del CDSS en cada condición."
               },
               {
                 "t": "p",
-                "x": "Los análisis de alineación clínica mostraron correlaciones modestas de ~0.2 para las subtareas de resumen de casos y correlaciones más altas de ~0.6 para la generación de recomendaciones con métricas LLM-as-Judge. Nuestras métricas TBFact propuestas fueron competitivas frente a los enfoques LLM-as-Judge en contextos de texto libre en prosa más extensa."
-              },
-              {
-                "t": "p",
-                "x": "Los expertos también asignaron con frecuencia puntuaciones altas a respuestas que diferían sustancialmente de sus textos de referencia, lo que cuestiona los supuestos en que se basan las métricas de evaluación automática basadas en referencias."
+                "x": "Ambos formatos mejoraron la precisión de las estimaciones de riesgo revisadas, con un efecto mayor en los diagramas de puntos por cuantiles, pero solo las matrices de iconos aumentaron la confianza. Los médicos describieron la incertidumbre como útil para actuar solo cuando podían saber por qué era elevada. Los autores concluyen que el formato de representación determina si el beneficio se manifiesta sobre todo como precisión o como confianza."
               }
             ]
           }
@@ -1487,105 +869,883 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "암 종양위원회에서\nAI가 아직 부족한 곳",
-          "body": "연구는 증례 요약부터 결과 예측까지 세 가지 AI 과제를 정의해 한계를 짚었다.",
-          "mini_headline": "종양위원회 AI의 한계",
+          "headline": "AI 불확실성 표시 방식이\n의사 판단을 바꾼다",
+          "body": "의사 227명에게서 AI 불확실성 표시 방식이 조언 수용·정확도·신뢰를 바꿨다.",
+          "mini_headline": "AI 불확실성 표시와 신뢰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "종양위원회는 병원 기관에서 정기적으로 열리는 회의로, 암 전문의(예: 종양내과, 병리과)가 모여 환자 진료를 논의한다. 이 연구에서 우리는 종양위원회 증례 요약, 치료 옵션 생성, 회의 결과 예측을 AI 과제로 공식 정의한다. 네 곳 의료기관의 데이터셋을 살피고, DeepSeek, GPT, Gemini, Qwen 계열의 최신 대규모 언어 모델(LLMs)을 전문가 평가로 검증한다."
+                "x": "머신러닝 기반 임상 의사결정 지원이 일상 진료에 들어오고 있지만, 그 가치는 임상의가 조언을 언제 따르고 언제 무시할지 판단할 수 있느냐에 달려 있다. 사전 등록된 무작위 비네트 실험에서 의사 227명이 패혈증 위험 평가 1,802건을 수행했다. 의사들은 먼저 초기 추정치를 내고, 머신러닝 시스템의 조언을 본 뒤 추정치를 수정했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
+                "cap": "Fig. 1: 연구 절차와 표시 조건."
               },
               {
                 "t": "p",
-                "x": "종양내과 전문의들은 과제 전반에 걸쳐 약 9.6k 건의 참조 텍스트와 16k 건의 인간 판단을 만들었다. 임상의들은 LLM-generated 증례 요약을 기관별로 5.0점 만점에 3.57–4.59점으로 평가했지만, 권고안 생성은 평균 2.0–3.6점으로 여전히 더 어려웠다."
+                "x": "의사들은 위험 점수만 보거나, 위험 점수와 함께 불확실성 구간을 표시한 아이콘 배열 또는 분위수 점 그림을 보도록 무작위 배정됐다. 두 불확실성 표현 모두 위험 점수만 볼 때보다 조언 수용을 각각 23%, 21% 높였지만, 잘못된 조언의 수용은 확실하게 줄이지 못했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
+                "cap": "Fig. 2: 조건별 CDSS 정답 여부에 따른 조언 수용."
               },
               {
                 "t": "p",
-                "x": "임상 정렬 분석에서 LLM-as-Judge 지표를 쓴 상관계수는 증례 요약 하위 과제에서 약 0.2로 크지 않았고, 권고안 생성에서는 약 0.6으로 더 높았다. 우리가 제안한 TBFact 지표는 더 긴 산문형 자유 텍스트 환경에서 LLM-as-Judge 방식에 견줄 만했다."
-              },
-              {
-                "t": "p",
-                "x": "전문가들은 또 참조 텍스트와 크게 다른 응답에도 자주 높은 점수를 줬는데, 이는 참조 기반 자동 평가 지표의 전제를 흔든다."
+                "x": "두 형식 모두 수정된 위험 추정치의 정확도를 높였고 효과는 분위수 점 그림에서 더 컸지만, 신뢰를 높인 것은 아이콘 배열뿐이었다. 의사들은 불확실성이 왜 높아졌는지 알 수 있을 때만 그 정보를 실제 판단에 쓸 수 있다고 말했다. 연구진은 표현 형식에 따라 이점이 주로 정확도로 나타날지 신뢰로 나타날지가 결정된다고 결론지었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "がん腫瘍会議で\nAIがまだ及ばない点",
-          "body": "ある研究が、症例要約から結果予測まで三つのAI課題を定義し、モデルの弱点を示した。",
-          "mini_headline": "腫瘍会議でのAIの限界",
+          "headline": "AIの不確実性の示し方が\n医師の判断を左右する",
+          "body": "医師227人の実験で、AIの不確実性の示し方が助言の採用、精度、信頼を変えた。",
+          "mini_headline": "AIの不確実性表示と信頼",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "腫瘍会議は病院で定期的に開かれる会議で、がんの専門医(例:腫瘍内科、病理)が集まり患者のケアを議論する。本研究では、腫瘍会議の症例要約、選択肢の生成、会議結果の予測をAIタスクとして正式に定義する。四つの医療機関のデータセットを調べ、DeepSeek、GPT、Gemini、Qwenの各系列の最先端大規模言語モデル(LLMs)を専門家による人的評価で検証する。"
+                "x": "機械学習に基づく臨床意思決定支援は日常診療に入りつつあるが、その価値は、臨床医が助言に従うべき時と覆すべき時を判断できるかどうかにかかっている。事前登録された無作為化ビネット実験で、227人の医師が1,802件の敗血症リスク評価を行った。医師はまず初期推定を示し、機械学習システムの助言を見たうえで推定を修正した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
+                "cap": "Fig. 1: 研究手順と表示条件。"
               },
               {
                 "t": "p",
-                "x": "腫瘍内科医はタスク全体で約9.6k 件の参照テキストと16k 件の人的判断を作成した。臨床医はLLM-generatedの症例要約を施設ごとに5.0点満点中3.57–4.59点と評価したが、推奨の生成はより難しく、平均スコアは2.0–3.6にとどまった。"
+                "x": "医師は、リスクスコアのみ、またはスコアに不確実性の幅を示すアイコン配列か分位点ドットプロットを加えた表示のいずれかに無作為に割り付けられた。どちらの不確実性表現も、リスクスコアのみの場合と比べて助言の採用をそれぞれ23%、21%高めたが、誤った助言の採用を確実に減らすことはできなかった。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
+                "cap": "Fig. 2: 条件別にみたCDSSの正誤ごとの助言採用。"
               },
               {
                 "t": "p",
-                "x": "臨床的整合性の分析では、LLM-as-Judge指標を用いた相関は症例要約のサブタスクで約0.2と控えめだったが、推奨の生成では約0.6と高かった。提案したTBFact指標は、より長い散文の自由記述ではLLM-as-Judge手法に匹敵した。"
-              },
-              {
-                "t": "p",
-                "x": "専門家は参照テキストと大きく異なる回答にも高評価を与えることが多く、参照に基づく自動評価指標の前提に疑問を投げかけた。"
+                "x": "両形式とも修正後のリスク推定の正確さを高め、効果は分位点ドットプロットのほうが大きかったが、信頼を高めたのはアイコン配列だけだった。医師は、不確実性がなぜ高いのかがわかる場合に限り、それを判断に生かせると述べた。著者らは、表示形式によって利点が主に正確さとして表れるか信頼として表れるかが決まると結論づけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI在肿瘤委员会\n仍有哪些短板",
-          "body": "一项研究定义了从病例摘要到结局预测的三项AI肿瘤委员会任务，并指出模型短板。",
-          "mini_headline": "肿瘤委员会AI的局限",
+          "headline": "AI如何呈现不确定性\n左右医生的决策",
+          "body": "在227名医生中，AI呈现不确定性的方式改变了建议采纳率、准确性和信任度。",
+          "mini_headline": "AI不确定性呈现与信任",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "肿瘤委员会是医院机构定期召开的会议，汇集癌症专科医生(如肿瘤内科和病理科)讨论患者诊疗。在本研究中，我们将肿瘤委员会病例摘要、方案生成和会议结果预测正式定义为AI任务。我们研究了来自四家医疗机构的数据集，并通过专家人工评估，评测了DeepSeek、GPT、Gemini和Qwen系列的最先进大语言模型(LLMs)。"
+                "x": "基于机器学习的临床决策支持正进入常规诊疗，但其价值取决于临床医生能否判断何时采纳建议、何时推翻建议。在一项预注册的随机情景实验中，227名医生完成了1,802次脓毒症风险评估：他们先给出初始估计，再查看机器学习系统的建议，然后修正估计。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
+                "cap": "Fig. 1: 研究流程与显示条件。"
               },
               {
                 "t": "p",
-                "x": "肿瘤内科医生在各项任务中创建了约9.6k 份参考文本和16k 条人工判断。各机构临床医生对LLM-generated病例摘要的评分为3.57–4.59分(满分5.0)，但建议生成仍更具挑战，平均得分为2.0–3.6。"
+                "x": "医生被随机分配查看单独的风险评分，或风险评分加上带不确定性区间的图标阵列或分位数点图。与单独的风险评分相比，两种不确定性呈现方式分别使建议采纳率提高23%和21%，但并未可靠地减少对错误建议的采纳。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
+                "cap": "Fig. 2: 各条件下按CDSS正确与否划分的建议采纳情况。"
               },
               {
                 "t": "p",
-                "x": "临床一致性分析显示，使用LLM-as-Judge指标时，病例摘要子任务的相关性约为0.2，较为有限；建议生成的相关性更高，约为0.6。我们提出的TBFact指标在较长的散文式自由文本场景中可与LLM-as-Judge方法媲美。"
-              },
-              {
-                "t": "p",
-                "x": "专家还经常给与其参考文本差异很大的回答打出高分，这对基于参考的自动评估指标背后的假设提出了挑战。"
+                "x": "两种形式都提高了修正后风险估计的准确性，其中分位数点图效果更大，但只有图标阵列提升了信任。医生表示，只有在能看出不确定性为何升高时，它才具有可操作性。作者认为，呈现形式决定了获益主要体现为准确性还是信任。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Dónde la AI aún se queda corta\nen los comités de tumores",
-          "body": "Un estudio define tres tareas de AI en comités de tumores, del resumen de casos a la predicción, y mapea sus fallos.",
-          "mini_headline": "Los límites de la AI en comités de tumores",
+          "headline": "La forma en que la AI muestra\nsu incertidumbre guía al médico",
+          "body": "Entre 227 médicos, cómo una AI mostraba su incertidumbre cambió la adopción de consejos, la precisión y la confianza.",
+          "mini_headline": "La incertidumbre de la AI y la confianza",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los comités de tumores, reuniones periódicas en instituciones hospitalarias, reúnen a especialistas en cáncer (p. ej., oncología médica y patología) para discutir la atención de los pacientes. En este trabajo, definimos formalmente como tareas de AI el resumen de casos del comité de tumores, la generación de opciones y la predicción del resultado de la reunión. Estudiamos conjuntos de datos de cuatro instituciones médicas y evaluamos modelos de lenguaje grandes (LLMs) de última generación de las familias DeepSeek, GPT, Gemini y Qwen mediante evaluación humana experta."
+                "x": "El apoyo a la decisión clínica basado en aprendizaje automático está entrando en la atención habitual, pero su valor depende de que los clínicos sepan cuándo seguir sus consejos y cuándo descartarlos. En un experimento aleatorizado con viñetas y registro previo, 227 médicos realizaron 1,802 evaluaciones del riesgo de sepsis: dieron una estimación inicial, vieron el consejo de un sistema de aprendizaje automático y la revisaron."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
+                "cap": "Fig. 1: Procedimiento del estudio y condiciones de visualización."
               },
               {
                 "t": "p",
-                "x": "Los oncólogos médicos crearon ~9.6k textos de referencia y 16k juicios humanos en todas las tareas. Los clínicos calificaron los resúmenes de casos LLM-generated entre 3.57–4.59 sobre 5.0 en las distintas instituciones, pero la generación de recomendaciones siguió siendo más difícil, con puntuaciones medias de 2.0–3.6."
+                "x": "Los médicos fueron asignados al azar a ver solo una puntuación de riesgo, o la puntuación junto con matrices de iconos con bandas de incertidumbre o diagramas de puntos por cuantiles. Ambas representaciones de la incertidumbre aumentaron la adopción de consejos frente a la puntuación sola, en un 23% y un 21%, pero la adopción de consejos incorrectos no se redujo de forma fiable."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
+                "cap": "Fig. 2: Adopción de consejos según el acierto del CDSS en cada condición."
               },
               {
                 "t": "p",
-                "x": "Los análisis de alineación clínica mostraron correlaciones modestas de ~0.2 para las subtareas de resumen de casos y correlaciones más altas de ~0.6 para la generación de recomendaciones con métricas LLM-as-Judge. Nuestras métricas TBFact propuestas fueron competitivas frente a los enfoques LLM-as-Judge en contextos de texto libre en prosa más extensa."
+                "x": "Ambos formatos mejoraron la precisión de las estimaciones de riesgo revisadas, con un efecto mayor en los diagramas de puntos por cuantiles, pero solo las matrices de iconos aumentaron la confianza. Los médicos describieron la incertidumbre como útil para actuar solo cuando podían saber por qué era elevada. Los autores concluyen que el formato de representación determina si el beneficio se manifiesta sobre todo como precisión o como confianza."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "alaska-stroke-ai-triage",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "알래스카 소규모 병원\nAI로 뇌졸중 환자 분류",
+      "body": "알래스카 소규모 병원 네트워크가 AI로 멀리 있는 뇌졸중 환자를 빠르게 분류한다.",
+      "mini_headline": "알래스카의 AI 뇌졸중 분류",
+      "tool": "Medicine",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
+            "cap": "알래스카 앵커리지"
+          },
+          {
+            "t": "p",
+            "x": "알래스카에서는 뇌졸중 환자를 앵커리지까지 항공으로 옮기는 데 몇 시간이 걸리기도 한다. 혈전을 제거할 수 있는 주 내 신경중재 전문의 다섯 명은 모두 앵커리지에서 일한다. 소규모 병원 네트워크는 2023년부터 RapidAI의 같은 AI 소프트웨어를 함께 쓰며 뇌졸중 환자를 분류해 알맞은 치료로 더 빨리 연결한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
+            "cap": "앵커리지의 Providence Alaska Medical Center 캠퍼스."
+          },
+          {
+            "t": "p",
+            "x": "올여름 한 환자 사례에서는 CT 촬영 몇 초 만에 앱이 대혈관 폐색 의심 소견을 띄웠다. 의료진은 당직 영상의학과 전문의의 공식 판독이 나오기 이 분 전에 Providence에 이송을 요청했다. AI가 없었다면 적어도 한 시간은 더 걸렸을 것이다. 자원봉사 단체 Alaska Stroke Coalition은 가족 재단 기금으로 병원 여섯 곳에 RapidAI를 추가로 들였다. 비용은 약 $450,000였다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
+            "cap": "RapidAI 앱에서 의료진은 CT 영상과 AI 판독 결과(혈관 폐색)를 보며 판단에 참고한다."
+          },
+          {
+            "t": "p",
+            "x": "이송이 필요 없는 환자를 가려낼 때도 이 도구를 쓴다. 위양성이 나오기도 해서 모든 결과는 여전히 의사가 확인한다. 초기 데이터를 보면 환자가 앵커리지에 도착한 뒤 혈전 제거를 시작하기까지 걸리는 시간이 약 30% 줄었다. 다만 치료 결과 데이터는 아직 없다. 연합은 Rural Health Transformation Program에서 $3.2 million 규모의 지원을 받았다. 알래스카에서는 곧 급성기 병원 21곳과 진료소 두 곳이 RapidAI의 뇌졸중 시스템을 갖춘다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
+            "cap": "RapidAI 앱의 CT 관류 영상. 분홍색은 이미 괴사한 뇌 영역, 초록색은 아직 살릴 수 있는 조직이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Alaska hospitals bet on AI\nto speed stroke care",
+          "body": "A small network of Alaskan hospitals is using AI to triage stroke patients faster across vast distances.",
+          "mini_headline": "AI stroke triage in Alaska",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
+                "cap": "Anchorage, Alaska"
               },
               {
                 "t": "p",
-                "x": "Los expertos también asignaron con frecuencia puntuaciones altas a respuestas que diferían sustancialmente de sus textos de referencia, lo que cuestiona los supuestos en que se basan las métricas de evaluación automática basadas en referencias."
+                "x": "In Alaska, it can take several hours to airlift a stroke patient to Anchorage, home to the state's five neurointerventionalists who can extract clots. Starting in 2023, a small network of hospitals agreed to use the same AI software, from RapidAI, to triage stroke patients and get them to the right care, faster."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
+                "cap": "The Providence Alaska Medical Center campus in Anchorage."
+              },
+              {
+                "t": "p",
+                "x": "For one patient this summer, the app flagged a suspected large vessel occlusion seconds after his CT; his team called Providence for a transfer two minutes before the on-call radiologist delivered the official report. Without the AI assist, it would have taken at least an extra hour. The volunteer Alaska Stroke Coalition used family-foundation funding to buy RapidAI for six additional hospitals, at a cost of about $450,000."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
+                "cap": "In the RapidAI app, providers see CT images and the AI’s interpretation — vessel occlusion — to help make decisions."
+              },
+              {
+                "t": "p",
+                "x": "The tool also helps doctors decide when not to transfer. It has false positives, and a doctor still reviews every output. Early data show about a 30% improvement in time to start clot retrieval once patients reach Anchorage, but no outcome data yet. The coalition received $3.2 million from the Rural Health Transformation Program, and Alaska will soon have 21 acute care hospitals and two clinics with RapidAI's stroke system."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
+                "cap": "A CT perfusion image in the RapidAI app shows pink areas of the brain that are dead, and tissue that’s still salvageable in green."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "알래스카 소규모 병원\nAI로 뇌졸중 환자 분류",
+          "body": "알래스카 소규모 병원 네트워크가 AI로 멀리 있는 뇌졸중 환자를 빠르게 분류한다.",
+          "mini_headline": "알래스카의 AI 뇌졸중 분류",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
+                "cap": "알래스카 앵커리지"
+              },
+              {
+                "t": "p",
+                "x": "알래스카에서는 뇌졸중 환자를 앵커리지까지 항공으로 옮기는 데 몇 시간이 걸리기도 한다. 혈전을 제거할 수 있는 주 내 신경중재 전문의 다섯 명은 모두 앵커리지에서 일한다. 소규모 병원 네트워크는 2023년부터 RapidAI의 같은 AI 소프트웨어를 함께 쓰며 뇌졸중 환자를 분류해 알맞은 치료로 더 빨리 연결한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
+                "cap": "앵커리지의 Providence Alaska Medical Center 캠퍼스."
+              },
+              {
+                "t": "p",
+                "x": "올여름 한 환자 사례에서는 CT 촬영 몇 초 만에 앱이 대혈관 폐색 의심 소견을 띄웠다. 의료진은 당직 영상의학과 전문의의 공식 판독이 나오기 이 분 전에 Providence에 이송을 요청했다. AI가 없었다면 적어도 한 시간은 더 걸렸을 것이다. 자원봉사 단체 Alaska Stroke Coalition은 가족 재단 기금으로 병원 여섯 곳에 RapidAI를 추가로 들였다. 비용은 약 $450,000였다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
+                "cap": "RapidAI 앱에서 의료진은 CT 영상과 AI 판독 결과(혈관 폐색)를 보며 판단에 참고한다."
+              },
+              {
+                "t": "p",
+                "x": "이송이 필요 없는 환자를 가려낼 때도 이 도구를 쓴다. 위양성이 나오기도 해서 모든 결과는 여전히 의사가 확인한다. 초기 데이터를 보면 환자가 앵커리지에 도착한 뒤 혈전 제거를 시작하기까지 걸리는 시간이 약 30% 줄었다. 다만 치료 결과 데이터는 아직 없다. 연합은 Rural Health Transformation Program에서 $3.2 million 규모의 지원을 받았다. 알래스카에서는 곧 급성기 병원 21곳과 진료소 두 곳이 RapidAI의 뇌졸중 시스템을 갖춘다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
+                "cap": "RapidAI 앱의 CT 관류 영상. 분홍색은 이미 괴사한 뇌 영역, 초록색은 아직 살릴 수 있는 조직이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "アラスカの病院、\nAIで脳卒中医療を加速",
+          "body": "アラスカの小規模な病院網が、AIで広大な距離を越えて脳卒中患者を素早く振り分けている。",
+          "mini_headline": "アラスカのAI脳卒中トリアージ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
+                "cap": "アラスカ州アンカレジ"
+              },
+              {
+                "t": "p",
+                "x": "アラスカでは、脳卒中患者をアンカレジへ空輸するのに数時間かかることがある。血栓を除去できる州内の脳神経血管内治療医五人は、いずれもアンカレジにいる。2023年から小規模な病院ネットワークがRapidAIの同じAIソフトウェアを使うことで合意し、脳卒中患者を振り分けて適切な治療へより早くつなげている。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
+                "cap": "アンカレジにあるProvidence Alaska Medical Centerのキャンパス。"
+              },
+              {
+                "t": "p",
+                "x": "この夏のある患者では、CT撮影から数秒後にアプリが大血管閉塞の疑いを示した。医療チームは、当直の放射線科医が正式な報告を出す二分前にProvidenceへ転院を依頼した。AIの支援がなければ、少なくとも一時間は余計にかかっていた。ボランティア団体のAlaska Stroke Coalitionは家族財団の資金を使い、さらに六つの病院向けにRapidAIを約$450,000で購入した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
+                "cap": "RapidAIアプリでは、医療者がCT画像とAIによる解釈（血管閉塞）を見て判断の助けにする。"
+              },
+              {
+                "t": "p",
+                "x": "このツールは、転院させない判断にも役立つ。偽陽性もあり、すべての出力は依然として医師が確認する。初期データでは、患者がアンカレジに到着してから血栓回収を始めるまでの時間が約30%改善したが、転帰データはまだない。同連合はRural Health Transformation Programから$3.2 million の資金を受け、アラスカではまもなく21の急性期病院と二つの診療所がRapidAIの脳卒中システムを備える。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
+                "cap": "RapidAIアプリのCT灌流画像。ピンク色は脳の壊死した領域、緑色はまだ救える組織を示す。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "阿拉斯加医院押注AI\n加快卒中救治",
+          "body": "阿拉斯加一个小型医院网络正借助AI，跨越遥远距离更快地对卒中患者进行分诊。",
+          "mini_headline": "阿拉斯加AI卒中分诊",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
+                "cap": "阿拉斯加州安克雷奇"
+              },
+              {
+                "t": "p",
+                "x": "在阿拉斯加，将一名卒中患者空运到安克雷奇可能需要几个小时；全州能取栓的五名神经介入医生都在安克雷奇。自2023年起，一个小型医院网络同意使用RapidAI的同一款AI软件，对卒中患者进行分诊，让他们更快获得合适的治疗。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
+                "cap": "位于安克雷奇的Providence Alaska Medical Center院区。"
+              },
+              {
+                "t": "p",
+                "x": "今年夏天的一名患者在CT检查后几秒钟，应用就提示疑似大血管闭塞；他的医疗团队在值班放射科医生出具正式报告前两分钟就联系Providence要求转院。若没有AI辅助，至少要多花一小时。志愿组织Alaska Stroke Coalition利用家族基金会的资金，为另外六家医院购买了RapidAI，花费约$450,000。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
+                "cap": "在RapidAI应用中，医务人员可查看CT图像和AI的判读结果（血管闭塞），辅助决策。"
+              },
+              {
+                "t": "p",
+                "x": "该工具也帮助医生判断何时无需转院。它存在假阳性，每项输出仍由医生审核。早期数据显示，患者抵达安克雷奇后开始取栓的时间改善约30%，但尚无疗效数据。该联盟从Rural Health Transformation Program获得$3.2 million 资金，阿拉斯加很快将有21家急症医院和两家诊所使用RapidAI的卒中系统。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
+                "cap": "RapidAI应用中的CT灌注图像：粉色为已坏死的脑区，绿色为仍可挽救的组织。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Hospitales de Alaska usan AI\npara atender antes el ictus",
+          "body": "Una pequeña red de hospitales de Alaska usa AI para clasificar antes a pacientes con ictus a grandes distancias.",
+          "mini_headline": "Triaje de ictus con AI en Alaska",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
+                "cap": "Anchorage, Alaska"
+              },
+              {
+                "t": "p",
+                "x": "En Alaska, trasladar en avión a un paciente con ictus hasta Anchorage, donde trabajan los cinco neurointervencionistas del estado capaces de extraer coágulos, puede llevar varias horas. Desde 2023, una pequeña red de hospitales acordó usar el mismo software de AI, de RapidAI, para clasificar a los pacientes con ictus y llevarlos antes a la atención adecuada."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
+                "cap": "El campus del Providence Alaska Medical Center en Anchorage."
+              },
+              {
+                "t": "p",
+                "x": "En el caso de un paciente este verano, la aplicación señaló una posible oclusión de gran vaso segundos después de su CT; su equipo llamó a Providence para pedir el traslado dos minutos antes de que el radiólogo de guardia entregara el informe oficial. Sin la ayuda de la AI, habría tardado al menos una hora más. La Alaska Stroke Coalition, formada por voluntarios, usó fondos de una fundación familiar para comprar RapidAI para seis hospitales más, con un costo de unos $450,000."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
+                "cap": "En la aplicación RapidAI, los profesionales ven las imágenes de CT y la interpretación de la AI —oclusión de vaso— para apoyar sus decisiones."
+              },
+              {
+                "t": "p",
+                "x": "La herramienta también ayuda a decidir cuándo no trasladar. Tiene falsos positivos, y un médico sigue revisando cada resultado. Los primeros datos muestran una mejora de alrededor del 30% en el tiempo hasta iniciar la extracción del coágulo una vez que los pacientes llegan a Anchorage, aunque aún no hay datos de desenlaces. La coalición recibió $3.2 million del Rural Health Transformation Program, y Alaska pronto tendrá 21 hospitales de agudos y dos clínicas con el sistema de ictus de RapidAI."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
+                "cap": "Una imagen de perfusión por CT en la aplicación RapidAI muestra en rosa las zonas del cerebro que están muertas y en verde el tejido que aún puede salvarse."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "알래스카 병원들,\nAI로 뇌졸중 대응 가속",
+          "body": "알래스카의 소규모 병원 네트워크가 AI로 먼 거리의 뇌졸중 환자를 빨리 분류한다.",
+          "mini_headline": "알래스카의 AI 뇌졸중 분류",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
+                "cap": "알래스카 앵커리지"
+              },
+              {
+                "t": "p",
+                "x": "알래스카에서는 뇌졸중 환자를 앵커리지로 항공 이송하는 데 몇 시간이 걸릴 수 있다. 혈전을 제거할 수 있는 주 내 신경중재 전문의 다섯 명이 모두 앵커리지에 있다. 2023년부터 소규모 병원 네트워크가 RapidAI의 같은 AI 소프트웨어를 함께 쓰기로 하고, 뇌졸중 환자를 분류해 적절한 치료로 더 빨리 연결하고 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
+                "cap": "앵커리지의 Providence Alaska Medical Center 캠퍼스."
+              },
+              {
+                "t": "p",
+                "x": "올여름 한 환자의 경우, 앱이 CT 촬영 몇 초 뒤 대혈관 폐색 의심 소견을 표시했다. 의료진은 당직 영상의학과 전문의가 공식 판독을 내놓기 이 분 전에 Providence에 이송을 요청했다. AI의 도움이 없었다면 적어도 한 시간은 더 걸렸을 것이다. 자원봉사 단체인 Alaska Stroke Coalition은 가족 재단 기금으로 병원 여섯 곳에 RapidAI를 추가로 도입했고, 비용은 약 $450,000였다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
+                "cap": "RapidAI 앱에서 의료진은 CT 영상과 AI의 판독 결과(혈관 폐색)를 보며 결정에 참고한다."
+              },
+              {
+                "t": "p",
+                "x": "이 도구는 이송하지 않아도 되는 경우를 판단하는 데도 쓰인다. 위양성도 있어 모든 결과는 여전히 의사가 검토한다. 초기 데이터에 따르면 환자가 앵커리지에 도착한 뒤 혈전 제거 시작까지 걸리는 시간이 약 30% 개선됐지만, 아직 치료 결과 데이터는 없다. 연합은 Rural Health Transformation Program에서 $3.2 million 규모의 지원을 받았고, 알래스카에서는 곧 급성기 병원 21곳과 진료소 두 곳이 RapidAI의 뇌졸중 시스템을 갖추게 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
+                "cap": "RapidAI 앱의 CT 관류 영상. 분홍색은 이미 괴사한 뇌 영역, 초록색은 아직 살릴 수 있는 조직이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "アラスカの病院、\nAIで脳卒中医療を加速",
+          "body": "アラスカの小規模な病院網が、AIで広大な距離を越えて脳卒中患者を素早く振り分けている。",
+          "mini_headline": "アラスカのAI脳卒中トリアージ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
+                "cap": "アラスカ州アンカレジ"
+              },
+              {
+                "t": "p",
+                "x": "アラスカでは、脳卒中患者をアンカレジへ空輸するのに数時間かかることがある。血栓を除去できる州内の脳神経血管内治療医五人は、いずれもアンカレジにいる。2023年から小規模な病院ネットワークがRapidAIの同じAIソフトウェアを使うことで合意し、脳卒中患者を振り分けて適切な治療へより早くつなげている。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
+                "cap": "アンカレジにあるProvidence Alaska Medical Centerのキャンパス。"
+              },
+              {
+                "t": "p",
+                "x": "この夏のある患者では、CT撮影から数秒後にアプリが大血管閉塞の疑いを示した。医療チームは、当直の放射線科医が正式な報告を出す二分前にProvidenceへ転院を依頼した。AIの支援がなければ、少なくとも一時間は余計にかかっていた。ボランティア団体のAlaska Stroke Coalitionは家族財団の資金を使い、さらに六つの病院向けにRapidAIを約$450,000で購入した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
+                "cap": "RapidAIアプリでは、医療者がCT画像とAIによる解釈（血管閉塞）を見て判断の助けにする。"
+              },
+              {
+                "t": "p",
+                "x": "このツールは、転院させない判断にも役立つ。偽陽性もあり、すべての出力は依然として医師が確認する。初期データでは、患者がアンカレジに到着してから血栓回収を始めるまでの時間が約30%改善したが、転帰データはまだない。同連合はRural Health Transformation Programから$3.2 million の資金を受け、アラスカではまもなく21の急性期病院と二つの診療所がRapidAIの脳卒中システムを備える。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
+                "cap": "RapidAIアプリのCT灌流画像。ピンク色は脳の壊死した領域、緑色はまだ救える組織を示す。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "阿拉斯加医院押注AI\n加快卒中救治",
+          "body": "阿拉斯加一个小型医院网络正借助AI，跨越遥远距离更快地对卒中患者进行分诊。",
+          "mini_headline": "阿拉斯加AI卒中分诊",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
+                "cap": "阿拉斯加州安克雷奇"
+              },
+              {
+                "t": "p",
+                "x": "在阿拉斯加，将一名卒中患者空运到安克雷奇可能需要几个小时；全州能取栓的五名神经介入医生都在安克雷奇。自2023年起，一个小型医院网络同意使用RapidAI的同一款AI软件，对卒中患者进行分诊，让他们更快获得合适的治疗。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
+                "cap": "位于安克雷奇的Providence Alaska Medical Center院区。"
+              },
+              {
+                "t": "p",
+                "x": "今年夏天的一名患者在CT检查后几秒钟，应用就提示疑似大血管闭塞；他的医疗团队在值班放射科医生出具正式报告前两分钟就联系Providence要求转院。若没有AI辅助，至少要多花一小时。志愿组织Alaska Stroke Coalition利用家族基金会的资金，为另外六家医院购买了RapidAI，花费约$450,000。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
+                "cap": "在RapidAI应用中，医务人员可查看CT图像和AI的判读结果（血管闭塞），辅助决策。"
+              },
+              {
+                "t": "p",
+                "x": "该工具也帮助医生判断何时无需转院。它存在假阳性，每项输出仍由医生审核。早期数据显示，患者抵达安克雷奇后开始取栓的时间改善约30%，但尚无疗效数据。该联盟从Rural Health Transformation Program获得$3.2 million 资金，阿拉斯加很快将有21家急症医院和两家诊所使用RapidAI的卒中系统。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
+                "cap": "RapidAI应用中的CT灌注图像：粉色为已坏死的脑区，绿色为仍可挽救的组织。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Hospitales de Alaska usan AI\npara atender antes el ictus",
+          "body": "Una pequeña red de hospitales de Alaska usa AI para clasificar antes a pacientes con ictus a grandes distancias.",
+          "mini_headline": "Triaje de ictus con AI en Alaska",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
+                "cap": "Anchorage, Alaska"
+              },
+              {
+                "t": "p",
+                "x": "En Alaska, trasladar en avión a un paciente con ictus hasta Anchorage, donde trabajan los cinco neurointervencionistas del estado capaces de extraer coágulos, puede llevar varias horas. Desde 2023, una pequeña red de hospitales acordó usar el mismo software de AI, de RapidAI, para clasificar a los pacientes con ictus y llevarlos antes a la atención adecuada."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
+                "cap": "El campus del Providence Alaska Medical Center en Anchorage."
+              },
+              {
+                "t": "p",
+                "x": "En el caso de un paciente este verano, la aplicación señaló una posible oclusión de gran vaso segundos después de su CT; su equipo llamó a Providence para pedir el traslado dos minutos antes de que el radiólogo de guardia entregara el informe oficial. Sin la ayuda de la AI, habría tardado al menos una hora más. La Alaska Stroke Coalition, formada por voluntarios, usó fondos de una fundación familiar para comprar RapidAI para seis hospitales más, con un costo de unos $450,000."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
+                "cap": "En la aplicación RapidAI, los profesionales ven las imágenes de CT y la interpretación de la AI —oclusión de vaso— para apoyar sus decisiones."
+              },
+              {
+                "t": "p",
+                "x": "La herramienta también ayuda a decidir cuándo no trasladar. Tiene falsos positivos, y un médico sigue revisando cada resultado. Los primeros datos muestran una mejora de alrededor del 30% en el tiempo hasta iniciar la extracción del coágulo una vez que los pacientes llegan a Anchorage, aunque aún no hay datos de desenlaces. La coalición recibió $3.2 million del Rural Health Transformation Program, y Alaska pronto tendrá 21 hospitales de agudos y dos clínicas con el sistema de ictus de RapidAI."
+              },
+              {
+                "t": "img",
+                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
+                "cap": "Una imagen de perfusión por CT en la aplicación RapidAI muestra en rosa las zonas del cerebro que están muertas y en verde el tejido que aún puede salvarse."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "a2z-omni-triage-ct",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "FDA, a2z AI 허가\nCT 아홉 소견 분류",
+      "body": "FDA가 CT 아홉 소견을 분류하는 AI a2z-Omni-Triage를 허가했다.",
+      "mini_headline": "FDA, CT 아홉 소견 분류 AI 허가",
+      "tool": "Medicine",
+      "source": "Diagnostic Imaging",
+      "url": "https://www.diagnosticimaging.com/view/fda-emerging-ai-triage-software-nine-findings-abdominopelvic-ct",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
+            "cap": "복부·골반 CT용으로 새로 FDA 허가(FDA-cleared)를 받은 a2z-Omni-Triage 소프트웨어는 천골 골절, 대형 대동맥류, 연조직 농양, 중등도 이상 층상 흉막 삼출 같은 의심 소견을 분류해 판독을 돕는다. (이미지 제공: Adobe Stock)"
+          },
+          {
+            "t": "p",
+            "x": "미국 식품의약국(Food and Drug Administration, FDA)이 복부·골반 CT용 AI 기반(AI-powered) 보조 소프트웨어 a2z-Omni-Triage에 510(k) 허가를 내줬다."
+          },
+          {
+            "t": "p",
+            "x": "개발사 A2z Radiology AI는 a2z-Omni-Triage가 다음 소견이 의심될 때 이를 표시한다고 밝혔다. 기흉, 중등도 이상 층상 흉막 삼출, 복합 흉막 저류, 장 천공, 천골 외 골반 골절, 천골 또는 미골 골절, 연조직 농양, 중등도 이상 수신증, 대형 대동맥류(5 cm 이상)."
+          },
+          {
+            "t": "p",
+            "x": "A2z Radiology AI에 따르면 a2z-Omni-Triage는 조영 증강 CT와 비조영 CT 모두에 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "a2z Radiology AI 최고의료정보책임자(Chief Medical Information Officer) Michael Moritz(MD, CIIP)는 “판독 목록이 긴 바쁜 근무 중에는 일상 검사로 의뢰된 CT도 긴급한 확인이 필요한 것으로 드러날 수 있다”며 “a2z-Omni-Triage는 의심 소견이 있는 검사를 판독 순서에서 앞당겨 준다”고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "FDA clears a2z AI triage\nfor nine findings on CT",
+          "body": "The FDA cleared a2z Radiology AI's a2z-Omni-Triage for adjunctive triage of nine findings on abdominopelvic CT.",
+          "mini_headline": "FDA clears nine-finding CT triage",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
+                "cap": "For abdominopelvic CT scans, the newly FDA-cleared a2z-Omni-Triage software offers adjunctive triage for findings that may be suspicious for sacral fracture, large aortic aneurysm, soft tissue abscess and moderate or large layering pleural effusion and other conditions. (Image courtesy of Adobe Stock.)"
+              },
+              {
+                "t": "p",
+                "x": "The Food and Drug Administration (FDA) has issued 510(k) clearance for a2z-Omni-Triage software, an adjunctive AI-powered software for abdominopelvic CT."
+              },
+              {
+                "t": "p",
+                "x": "A2z Radiology AI, the developer of a2z-Omni-Triage, said the software flags findings that are suspicious for the following: pneumothorax; moderate or large layering pleural effusion; complex pleural collection; bowel perforation; non-sacral pelvic fracture; sacral or coccygeal fracture; soft tissue abscess; moderate or severe hydronephrosis; large aortic aneurysm (5 cm or larger)."
+              },
+              {
+                "t": "p",
+                "x": "The a2z-Omni-Triage software may be utilized for contrast-enhanced and non-contrast CT, according to A2z Radiology AI."
+              },
+              {
+                "t": "p",
+                "x": "“On a busy shift with a long worklist, even a CT ordered as routine can turn out to need urgent attention,” said Michael Moritz, MD, CIIP, Chief Medical Information Officer of a2z Radiology AI. “a2z-Omni-Triage helps bring those studies with suspected findings forward for review.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "FDA, a2z AI 허가\nCT 아홉 소견 분류",
+          "body": "FDA가 CT 아홉 소견을 분류하는 AI a2z-Omni-Triage를 허가했다.",
+          "mini_headline": "FDA, CT 아홉 소견 분류 AI 허가",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
+                "cap": "복부·골반 CT용으로 새로 FDA 허가(FDA-cleared)를 받은 a2z-Omni-Triage 소프트웨어는 천골 골절, 대형 대동맥류, 연조직 농양, 중등도 이상 층상 흉막 삼출 같은 의심 소견을 분류해 판독을 돕는다. (이미지 제공: Adobe Stock)"
+              },
+              {
+                "t": "p",
+                "x": "미국 식품의약국(Food and Drug Administration, FDA)이 복부·골반 CT용 AI 기반(AI-powered) 보조 소프트웨어 a2z-Omni-Triage에 510(k) 허가를 내줬다."
+              },
+              {
+                "t": "p",
+                "x": "개발사 A2z Radiology AI는 a2z-Omni-Triage가 다음 소견이 의심될 때 이를 표시한다고 밝혔다. 기흉, 중등도 이상 층상 흉막 삼출, 복합 흉막 저류, 장 천공, 천골 외 골반 골절, 천골 또는 미골 골절, 연조직 농양, 중등도 이상 수신증, 대형 대동맥류(5 cm 이상)."
+              },
+              {
+                "t": "p",
+                "x": "A2z Radiology AI에 따르면 a2z-Omni-Triage는 조영 증강 CT와 비조영 CT 모두에 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "a2z Radiology AI 최고의료정보책임자(Chief Medical Information Officer) Michael Moritz(MD, CIIP)는 “판독 목록이 긴 바쁜 근무 중에는 일상 검사로 의뢰된 CT도 긴급한 확인이 필요한 것으로 드러날 수 있다”며 “a2z-Omni-Triage는 의심 소견이 있는 검사를 판독 순서에서 앞당겨 준다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "FDA、a2zのAIを認可\nCTで九つの所見を分類",
+          "body": "FDAはCTで九つの所見を分類するAI、a2z-Omni-Triageを認可した。",
+          "mini_headline": "FDA、CTの九所見トリアージを認可",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
+                "cap": "腹部骨盤CTについて、新たにFDA認可（FDA-cleared）を受けたa2z-Omni-Triageソフトウェアは、仙骨骨折、大きな大動脈瘤、軟部組織膿瘍、中等量以上の層状胸水などが疑われる所見の補助的トリアージを行う。（画像提供：Adobe Stock）"
+              },
+              {
+                "t": "p",
+                "x": "米食品医薬品局（Food and Drug Administration、FDA）は、腹部骨盤CT向けのAIを活用した（AI-powered）補助ソフトウェアa2z-Omni-Triageに510(k)認可を与えた。"
+              },
+              {
+                "t": "p",
+                "x": "a2z-Omni-Triageの開発元であるA2z Radiology AIによると、このソフトウェアは次の所見が疑われる場合にフラグを立てる。気胸、中等量以上の層状胸水、複雑性胸水貯留、腸管穿孔、仙骨以外の骨盤骨折、仙骨または尾骨の骨折、軟部組織膿瘍、中等度以上の水腎症、大きな大動脈瘤（5 cm以上）。"
+              },
+              {
+                "t": "p",
+                "x": "A2z Radiology AIによると、a2z-Omni-Triageソフトウェアは造影CTと非造影CTのどちらにも使用できる。"
+              },
+              {
+                "t": "p",
+                "x": "a2z Radiology AIの最高医療情報責任者（Chief Medical Information Officer）であるMichael Moritz（MD、CIIP）は「作業リストが長い忙しいシフトでは、通常の検査としてオーダーされたCTでも緊急の対応が必要だと判明することがある」と述べ、「a2z-Omni-Triageは、疑わしい所見のある検査を読影の順番で前に出す助けになる」と語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "FDA批准a2z AI分诊\n覆盖CT九类征象",
+          "body": "FDA批准AI软件a2z-Omni-Triage用于腹盆部CT九类征象的辅助分诊。",
+          "mini_headline": "FDA批准CT九类征象分诊",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
+                "cap": "针对腹盆部CT扫描，新获FDA许可（FDA-cleared）的a2z-Omni-Triage软件可对疑似骶骨骨折、大型主动脉瘤、软组织脓肿以及中量或大量分层胸腔积液等情况的征象进行辅助分诊。（图片来源：Adobe Stock）"
+              },
+              {
+                "t": "p",
+                "x": "美国食品药品监督管理局（Food and Drug Administration，FDA）已向a2z-Omni-Triage软件授予510(k)许可。这是一款用于腹盆部CT的AI驱动（AI-powered）辅助软件。"
+              },
+              {
+                "t": "p",
+                "x": "a2z-Omni-Triage的开发商A2z Radiology AI表示，该软件会标记疑似以下情况的征象：气胸；中量或大量分层胸腔积液；复杂性胸腔积液；肠穿孔；非骶骨骨盆骨折；骶骨或尾骨骨折；软组织脓肿；中度或重度肾积水；大型主动脉瘤（5 cm或以上）。"
+              },
+              {
+                "t": "p",
+                "x": "据A2z Radiology AI介绍，a2z-Omni-Triage软件可用于增强CT和平扫CT。"
+              },
+              {
+                "t": "p",
+                "x": "a2z Radiology AI首席医疗信息官（Chief Medical Information Officer）Michael Moritz（MD，CIIP）说：“在工作清单很长的繁忙班次中，即便是作为常规检查开具的CT，也可能需要紧急处理。”他还说：“a2z-Omni-Triage有助于把有疑似征象的检查提前送审。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La FDA autoriza la AI de a2z\npara nueve hallazgos en CT",
+          "body": "La FDA autorizó a2z-Omni-Triage, de a2z Radiology AI, para triaje auxiliar de nueve hallazgos en CT abdominopélvica.",
+          "mini_headline": "La FDA autoriza triaje de CT para nueve hallazgos",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
+                "cap": "Para las CT abdominopélvicas, el software a2z-Omni-Triage, recién autorizado por la FDA (FDA-cleared), ofrece triaje auxiliar de hallazgos que pueden ser sospechosos de fractura sacra, aneurisma aórtico grande, absceso de tejidos blandos y derrame pleural estratificado moderado o grande, entre otras afecciones. (Imagen cortesía de Adobe Stock.)"
+              },
+              {
+                "t": "p",
+                "x": "La Administración de Alimentos y Medicamentos (Food and Drug Administration, FDA) otorgó la autorización 510(k) al software a2z-Omni-Triage, un software auxiliar basado en AI (AI-powered) para CT abdominopélvica."
+              },
+              {
+                "t": "p",
+                "x": "A2z Radiology AI, desarrolladora de a2z-Omni-Triage, indicó que el software señala hallazgos sospechosos de lo siguiente: neumotórax; derrame pleural estratificado moderado o grande; colección pleural compleja; perforación intestinal; fractura pélvica no sacra; fractura sacra o coccígea; absceso de tejidos blandos; hidronefrosis moderada o grave; aneurisma aórtico grande (5 cm o más)."
+              },
+              {
+                "t": "p",
+                "x": "Según A2z Radiology AI, el software a2z-Omni-Triage puede utilizarse en CT con contraste y sin contraste."
+              },
+              {
+                "t": "p",
+                "x": "“En un turno con mucho trabajo y una lista larga, incluso una CT solicitada como rutinaria puede resultar necesitada de atención urgente”, dijo Michael Moritz, MD, CIIP, director de información médica (Chief Medical Information Officer) de a2z Radiology AI. “a2z-Omni-Triage ayuda a adelantar para su revisión los estudios con hallazgos sospechosos”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "FDA, a2z AI 허가\nCT 아홉 소견 분류",
+          "body": "FDA가 CT 아홉 소견을 분류하는 AI a2z-Omni-Triage를 허가했다.",
+          "mini_headline": "FDA, CT 아홉 소견 분류 AI 허가",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
+                "cap": "복부·골반 CT에서 새로 FDA 허가(FDA-cleared)를 받은 a2z-Omni-Triage 소프트웨어는 천골 골절, 대형 대동맥류, 연조직 농양, 중등도 이상 층상 흉막 삼출 등이 의심되는 소견을 보조적으로 분류한다. (이미지 제공: Adobe Stock)"
+              },
+              {
+                "t": "p",
+                "x": "미국 식품의약국(Food and Drug Administration, FDA)이 복부·골반 CT용 AI 기반(AI-powered) 보조 소프트웨어 a2z-Omni-Triage에 510(k) 허가를 내줬다."
+              },
+              {
+                "t": "p",
+                "x": "a2z-Omni-Triage 개발사 A2z Radiology AI는 이 소프트웨어가 다음 소견이 의심될 때 표시한다고 밝혔다. 기흉, 중등도 이상 층상 흉막 삼출, 복합 흉막 저류, 장 천공, 천골 외 골반 골절, 천골 또는 미골 골절, 연조직 농양, 중등도 이상 수신증, 대형 대동맥류(5 cm 이상)."
+              },
+              {
+                "t": "p",
+                "x": "A2z Radiology AI에 따르면 a2z-Omni-Triage 소프트웨어는 조영 증강 CT와 비조영 CT에 모두 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "a2z Radiology AI의 최고의료정보책임자(Chief Medical Information Officer)인 Michael Moritz(MD, CIIP)는 “판독 목록이 긴 바쁜 근무 중에는 일상 검사로 의뢰된 CT도 긴급한 확인이 필요한 것으로 드러날 수 있다”며 “a2z-Omni-Triage는 의심 소견이 있는 검사를 판독 순서에서 앞당겨 준다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "FDA、a2zのAIを認可\nCTで九つの所見を分類",
+          "body": "FDAはCTで九つの所見を分類するAI、a2z-Omni-Triageを認可した。",
+          "mini_headline": "FDA、CTの九所見トリアージを認可",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
+                "cap": "腹部骨盤CTについて、新たにFDA認可（FDA-cleared）を受けたa2z-Omni-Triageソフトウェアは、仙骨骨折、大きな大動脈瘤、軟部組織膿瘍、中等量以上の層状胸水などが疑われる所見の補助的トリアージを行う。（画像提供：Adobe Stock）"
+              },
+              {
+                "t": "p",
+                "x": "米食品医薬品局（Food and Drug Administration、FDA）は、腹部骨盤CT向けのAIを活用した（AI-powered）補助ソフトウェアa2z-Omni-Triageに510(k)認可を与えた。"
+              },
+              {
+                "t": "p",
+                "x": "a2z-Omni-Triageの開発元であるA2z Radiology AIによると、このソフトウェアは次の所見が疑われる場合にフラグを立てる。気胸、中等量以上の層状胸水、複雑性胸水貯留、腸管穿孔、仙骨以外の骨盤骨折、仙骨または尾骨の骨折、軟部組織膿瘍、中等度以上の水腎症、大きな大動脈瘤（5 cm以上）。"
+              },
+              {
+                "t": "p",
+                "x": "A2z Radiology AIによると、a2z-Omni-Triageソフトウェアは造影CTと非造影CTのどちらにも使用できる。"
+              },
+              {
+                "t": "p",
+                "x": "a2z Radiology AIの最高医療情報責任者（Chief Medical Information Officer）であるMichael Moritz（MD、CIIP）は「作業リストが長い忙しいシフトでは、通常の検査としてオーダーされたCTでも緊急の対応が必要だと判明することがある」と述べ、「a2z-Omni-Triageは、疑わしい所見のある検査を読影の順番で前に出す助けになる」と語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "FDA批准a2z AI分诊\n覆盖CT九类征象",
+          "body": "FDA批准AI软件a2z-Omni-Triage用于腹盆部CT九类征象的辅助分诊。",
+          "mini_headline": "FDA批准CT九类征象分诊",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
+                "cap": "针对腹盆部CT扫描，新获FDA许可（FDA-cleared）的a2z-Omni-Triage软件可对疑似骶骨骨折、大型主动脉瘤、软组织脓肿以及中量或大量分层胸腔积液等情况的征象进行辅助分诊。（图片来源：Adobe Stock）"
+              },
+              {
+                "t": "p",
+                "x": "美国食品药品监督管理局（Food and Drug Administration，FDA）已向a2z-Omni-Triage软件授予510(k)许可。这是一款用于腹盆部CT的AI驱动（AI-powered）辅助软件。"
+              },
+              {
+                "t": "p",
+                "x": "a2z-Omni-Triage的开发商A2z Radiology AI表示，该软件会标记疑似以下情况的征象：气胸；中量或大量分层胸腔积液；复杂性胸腔积液；肠穿孔；非骶骨骨盆骨折；骶骨或尾骨骨折；软组织脓肿；中度或重度肾积水；大型主动脉瘤（5 cm或以上）。"
+              },
+              {
+                "t": "p",
+                "x": "据A2z Radiology AI介绍，a2z-Omni-Triage软件可用于增强CT和平扫CT。"
+              },
+              {
+                "t": "p",
+                "x": "a2z Radiology AI首席医疗信息官（Chief Medical Information Officer）Michael Moritz（MD，CIIP）说：“在工作清单很长的繁忙班次中，即便是作为常规检查开具的CT，也可能需要紧急处理。”他还说：“a2z-Omni-Triage有助于把有疑似征象的检查提前送审。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La FDA autoriza la AI de a2z\npara nueve hallazgos en CT",
+          "body": "La FDA autorizó a2z-Omni-Triage, de a2z Radiology AI, para triaje auxiliar de nueve hallazgos en CT abdominopélvica.",
+          "mini_headline": "La FDA autoriza triaje de CT para nueve hallazgos",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
+                "cap": "Para las CT abdominopélvicas, el software a2z-Omni-Triage, recién autorizado por la FDA (FDA-cleared), ofrece triaje auxiliar de hallazgos que pueden ser sospechosos de fractura sacra, aneurisma aórtico grande, absceso de tejidos blandos y derrame pleural estratificado moderado o grande, entre otras afecciones. (Imagen cortesía de Adobe Stock.)"
+              },
+              {
+                "t": "p",
+                "x": "La Administración de Alimentos y Medicamentos (Food and Drug Administration, FDA) otorgó la autorización 510(k) al software a2z-Omni-Triage, un software auxiliar basado en AI (AI-powered) para CT abdominopélvica."
+              },
+              {
+                "t": "p",
+                "x": "A2z Radiology AI, desarrolladora de a2z-Omni-Triage, indicó que el software señala hallazgos sospechosos de lo siguiente: neumotórax; derrame pleural estratificado moderado o grande; colección pleural compleja; perforación intestinal; fractura pélvica no sacra; fractura sacra o coccígea; absceso de tejidos blandos; hidronefrosis moderada o grave; aneurisma aórtico grande (5 cm o más)."
+              },
+              {
+                "t": "p",
+                "x": "Según A2z Radiology AI, el software a2z-Omni-Triage puede utilizarse en CT con contraste y sin contraste."
+              },
+              {
+                "t": "p",
+                "x": "“En un turno con mucho trabajo y una lista larga, incluso una CT solicitada como rutinaria puede resultar necesitada de atención urgente”, dijo Michael Moritz, MD, CIIP, director de información médica (Chief Medical Information Officer) de a2z Radiology AI. “a2z-Omni-Triage ayuda a adelantar para su revisión los estudios con hallazgos sospechosos”."
               }
             ]
           }

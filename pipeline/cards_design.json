@@ -1,963 +1,17 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "design",
   "cards": [
     {
-      "id": "figma-agent-figjam-slides",
+      "id": "nomic-cad-drafting-agent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Figma 에이전트\nFigJam·Slides로",
-      "body": "Figma AI 에이전트가 FigJam과 Slides에서 회의·덱 준비를 거든다.",
-      "mini_headline": "Figma 에이전트, FigJam으로",
-      "tool": "Figma",
-      "source": "Figma Blog",
-      "url": "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
-          },
-          {
-            "t": "p",
-            "x": "Figma 에이전트가 이제 FigJam과 Figma Slides에서도 작업을 돕는다. 두 제품 모두 커넥터와 첨부 기능을 지원한다. 디자인 파일, 녹취록, 리서치 노트를 불러온 뒤 에이전트에게 FigJam 보드로 정리하거나 프레젠테이션 초안으로 만들어 달라고 하면 된다."
-          },
-          {
-            "t": "p",
-            "x": "FigJam에서 에이전트는 Notion이나 Google Drive 같은 도구의 맥락을 캔버스로 끌어온다. Figma Design Manager Megan Bednarczyk은 디자인 크리틱을 앞두고 이전 크리틱의 피드백과 경쟁사 사례를 불러올 때 이 기능을 쓴다. 에이전트가 지난 피드백과 합의된 방향, 다가올 크리틱에서 다룰 질문을 요약해 준다. 크리틱이 끝나면 피드백 스티키를 선택하고 Organize → Summarize를 고른다. 결정 사항과 남은 질문, 다음 단계를 담은 Spec이 바로 나온다."
-          },
-          {
-            "t": "p",
-            "x": "Specs 엔지니어링 리드 Johnny Dallas는 댓글을 하나하나 읽지 않는다. 스티키를 선택하고 Ask agent를 누른 뒤 프롬프트만으로 v1 스펙을 완성한다."
-          },
-          {
-            "t": "p",
-            "x": "Figma Slides에서는 에이전트가 Spec, 첨부 파일, 연결된 맥락으로 초안을 만든다. 브랜드 디자이너 Jarrod Barretto는 Generate deck을 누르기 전에 에이전트에게 경영진 스크립트를 개요로 나누게 하고, 스프레드시트 스크린숏으로 막대 차트를 채운다. “차트가 어떻게 보여야 하는지는 아주 정밀하게 정하고, 수학적 정확성은 에이전트에게 맡길 수 있다”는 게 그의 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "Figma 에이전트는 이제 모든 유료 플랜의 FigJam과 Figma Slides에서 정식 제공된다. 두 제품 모두 일부 커넥터와 첨부 기능을 지원한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Figma agent moves into\nFigJam and Slides",
-          "body": "Figma's AI agent now works in FigJam and Slides, helping explore ideas, prep meetings and build decks.",
-          "mini_headline": "Figma agent hits FigJam",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "The Figma agent can now help in FigJam and Figma Slides. With connectors and attachments in both products, you can bring in design files, transcripts or research notes and ask the agent to organize them on a FigJam board or turn them into a draft presentation."
-              },
-              {
-                "t": "p",
-                "x": "In FigJam, the agent brings context from tools like Notion or Google Drive onto the canvas. Before a design crit, Figma Design Manager Megan Bednarczyk uses it to pull in feedback from previous crits and competitor examples; the agent summarizes past feedback, the agreed direction and questions for the upcoming crit. Afterward, selecting feedback stickies and choosing Organize → Summarize creates a Spec covering decisions, open questions and next steps."
-              },
-              {
-                "t": "p",
-                "x": "Johnny Dallas, engineering lead on Specs, selects stickies, clicks Ask agent and prompts his way to a v1 spec instead of reading every comment by hand."
-              },
-              {
-                "t": "p",
-                "x": "In Figma Slides, the agent turns a Spec, attachments or connected context into a first pass. Brand designer Jarrod Barretto has it break an executive script into an outline before clicking Generate deck, and populates bar charts from a spreadsheet screenshot. “I can be really precise about how I want a chart to look while letting the agent take care of the mathematical accuracy,” he says."
-              },
-              {
-                "t": "p",
-                "x": "The Figma agent is now generally available in FigJam and Figma Slides on all paid plans, with select connectors and attachments supported in both."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Figma 에이전트\nFigJam·Slides로",
-          "body": "Figma AI 에이전트가 FigJam과 Slides에서 회의·덱 준비를 거든다.",
-          "mini_headline": "Figma 에이전트, FigJam으로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Figma 에이전트가 이제 FigJam과 Figma Slides에서도 작업을 돕는다. 두 제품 모두 커넥터와 첨부 기능을 지원한다. 디자인 파일, 녹취록, 리서치 노트를 불러온 뒤 에이전트에게 FigJam 보드로 정리하거나 프레젠테이션 초안으로 만들어 달라고 하면 된다."
-              },
-              {
-                "t": "p",
-                "x": "FigJam에서 에이전트는 Notion이나 Google Drive 같은 도구의 맥락을 캔버스로 끌어온다. Figma Design Manager Megan Bednarczyk은 디자인 크리틱을 앞두고 이전 크리틱의 피드백과 경쟁사 사례를 불러올 때 이 기능을 쓴다. 에이전트가 지난 피드백과 합의된 방향, 다가올 크리틱에서 다룰 질문을 요약해 준다. 크리틱이 끝나면 피드백 스티키를 선택하고 Organize → Summarize를 고른다. 결정 사항과 남은 질문, 다음 단계를 담은 Spec이 바로 나온다."
-              },
-              {
-                "t": "p",
-                "x": "Specs 엔지니어링 리드 Johnny Dallas는 댓글을 하나하나 읽지 않는다. 스티키를 선택하고 Ask agent를 누른 뒤 프롬프트만으로 v1 스펙을 완성한다."
-              },
-              {
-                "t": "p",
-                "x": "Figma Slides에서는 에이전트가 Spec, 첨부 파일, 연결된 맥락으로 초안을 만든다. 브랜드 디자이너 Jarrod Barretto는 Generate deck을 누르기 전에 에이전트에게 경영진 스크립트를 개요로 나누게 하고, 스프레드시트 스크린숏으로 막대 차트를 채운다. “차트가 어떻게 보여야 하는지는 아주 정밀하게 정하고, 수학적 정확성은 에이전트에게 맡길 수 있다”는 게 그의 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "Figma 에이전트는 이제 모든 유료 플랜의 FigJam과 Figma Slides에서 정식 제공된다. 두 제품 모두 일부 커넥터와 첨부 기능을 지원한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Figma エージェント\nFigJamとSlidesへ",
-          "body": "FigmaのAIエージェントがFigJamとSlidesに対応し、会議や資料作成を助ける。",
-          "mini_headline": "Figmaエージェント、FigJamへ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Figmaエージェントが、FigJamとFigma Slidesでも使えるようになった。両製品でコネクタと添付ファイルに対応し、デザインファイルや文字起こし、リサーチメモを取り込んで、エージェントにFigJamボード上で整理させたり、プレゼンテーションの下書きにさせたりできる。"
-              },
-              {
-                "t": "p",
-                "x": "FigJamでは、エージェントがNotionやGoogle Driveなどのツールから文脈をキャンバスに持ち込む。Figma Design ManagerのMegan Bednarczykは、デザインクリットの前に、過去のクリットのフィードバックや競合事例を集めるのに使っている。エージェントは過去のフィードバック、合意した方向性、次のクリットで扱う問いを要約する。クリット後は、フィードバックの付箋を選んでOrganize → Summarizeを選ぶと、決定事項、未解決の問い、次のステップをまとめたSpecが作成される。"
-              },
-              {
-                "t": "p",
-                "x": "Specsのエンジニアリングリード、Johnny Dallasは、コメントを一つずつ手で読む代わりに、付箋を選択してAsk agentをクリックし、プロンプトを重ねてv1の仕様書を仕上げる。"
-              },
-              {
-                "t": "p",
-                "x": "Figma Slidesでは、エージェントがSpecや添付ファイル、接続された文脈から最初のたたき台を作る。ブランドデザイナーのJarrod Barrettoは、Generate deckをクリックする前に経営陣向けの原稿をアウトラインに分解させ、スプレッドシートのスクリーンショットから棒グラフを作成している。「グラフの見た目は細かく指定しつつ、数学的な正確さはエージェントに任せられる」と彼は言う。"
-              },
-              {
-                "t": "p",
-                "x": "Figmaエージェントは現在、すべての有料プランのFigJamとFigma Slidesで一般提供されており、両製品で一部のコネクタと添付ファイルに対応している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Figma 智能体进驻\nFigJam和Slides",
-          "body": "Figma的AI智能体现已支持FigJam和Slides，协助构思、备会和制作幻灯片。",
-          "mini_headline": "Figma 智能体进驻FigJam",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Figma智能体现在可以在FigJam和Figma Slides中提供帮助。两款产品都支持连接器和附件，你可以导入设计文件、会议记录或研究笔记，让智能体将其整理到FigJam白板上，或转为演示文稿草稿。"
-              },
-              {
-                "t": "p",
-                "x": "在FigJam中，智能体会把Notion或Google Drive等工具中的上下文带到画布上。Figma Design Manager Megan Bednarczyk在设计评审前用它调取以往评审的反馈和竞品案例；智能体会总结过往反馈、已达成共识的方向以及下一次评审要讨论的问题。评审结束后，选中反馈便签并选择Organize → Summarize，即可生成一份涵盖决策、待解问题和后续步骤的Spec。"
-              },
-              {
-                "t": "p",
-                "x": "Specs工程负责人Johnny Dallas会选中便签、点击Ask agent，靠提示词得出v1规格，而不必逐条手动阅读评论。"
-              },
-              {
-                "t": "p",
-                "x": "在Figma Slides中，智能体可将Spec、附件或已连接的上下文转为初稿。品牌设计师Jarrod Barretto先让它把高管讲稿拆成大纲，再点击Generate deck，并根据电子表格截图填充柱状图。他说：“我可以非常精确地设定图表的样子，同时让智能体负责数学上的准确性。”"
-              },
-              {
-                "t": "p",
-                "x": "Figma智能体现已在所有付费方案的FigJam和Figma Slides中正式上线，两款产品均支持部分连接器和附件。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El agente de Figma llega\na FigJam y Slides",
-          "body": "El agente de AI de Figma ya funciona en FigJam y Slides para explorar ideas, preparar reuniones y crear presentaciones.",
-          "mini_headline": "El agente de Figma llega a FigJam",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "El agente de Figma ya puede ayudar en FigJam y Figma Slides. Con conectores y archivos adjuntos en ambos productos, se pueden incorporar archivos de diseño, transcripciones o notas de investigación y pedir al agente que los organice en un tablero de FigJam o los convierta en el borrador de una presentación."
-              },
-              {
-                "t": "p",
-                "x": "En FigJam, el agente lleva al lienzo contexto de herramientas como Notion o Google Drive. Antes de una crítica de diseño, Megan Bednarczyk, Figma Design Manager, lo usa para reunir comentarios de críticas anteriores y ejemplos de la competencia; el agente resume los comentarios previos, la dirección acordada y las preguntas para la próxima crítica. Después, al seleccionar las notas adhesivas con comentarios y elegir Organize → Summarize, se crea un Spec que recoge decisiones, preguntas abiertas y próximos pasos."
-              },
-              {
-                "t": "p",
-                "x": "Johnny Dallas, responsable de ingeniería de Specs, selecciona notas adhesivas, hace clic en Ask agent y llega a una especificación v1 a base de prompts, en lugar de leer cada comentario a mano."
-              },
-              {
-                "t": "p",
-                "x": "En Figma Slides, el agente convierte un Spec, archivos adjuntos o contexto conectado en una primera versión. El diseñador de marca Jarrod Barretto le pide dividir un guion para directivos en un esquema antes de hacer clic en Generate deck, y rellena gráficos de barras a partir de una captura de una hoja de cálculo. “Puedo ser muy preciso sobre cómo quiero que se vea un gráfico mientras dejo que el agente se encargue de la exactitud matemática”, afirma."
-              },
-              {
-                "t": "p",
-                "x": "El agente de Figma ya está disponible de forma general en FigJam y Figma Slides en todos los planes de pago, con compatibilidad con determinados conectores y archivos adjuntos en ambos."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Figma 에이전트\nFigJam·Slides로",
-          "body": "Figma AI 에이전트가 FigJam과 Slides에서 회의·덱 준비를 돕는다.",
-          "mini_headline": "Figma 에이전트, FigJam으로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Figma 에이전트가 이제 FigJam과 Figma Slides에서도 작업을 돕는다. 두 제품 모두 커넥터와 첨부 기능을 지원해 디자인 파일, 녹취록, 리서치 노트를 불러온 뒤 에이전트에게 FigJam 보드로 정리하거나 프레젠테이션 초안으로 만들어 달라고 요청할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "FigJam에서 에이전트는 Notion이나 Google Drive 같은 도구의 맥락을 캔버스로 가져온다. Figma Design Manager Megan Bednarczyk은 디자인 크리틱을 앞두고 이전 크리틱의 피드백과 경쟁사 사례를 불러오는 데 이 기능을 쓴다. 에이전트는 지난 피드백, 합의된 방향, 다가올 크리틱에서 다룰 질문을 요약한다. 크리틱이 끝난 뒤 피드백 스티키를 선택하고 Organize → Summarize를 고르면 결정 사항, 남은 질문, 다음 단계를 담은 Spec이 만들어진다."
-              },
-              {
-                "t": "p",
-                "x": "Specs 엔지니어링 리드 Johnny Dallas는 댓글을 하나하나 직접 읽는 대신 스티키를 선택하고 Ask agent를 눌러 프롬프트만으로 v1 스펙을 완성한다."
-              },
-              {
-                "t": "p",
-                "x": "Figma Slides에서 에이전트는 Spec, 첨부 파일, 연결된 맥락을 바탕으로 초안을 만든다. 브랜드 디자이너 Jarrod Barretto는 Generate deck을 누르기 전에 에이전트에게 경영진 스크립트를 개요로 나누게 하고, 스프레드시트 스크린숏으로 막대 차트를 채운다. 그는 “차트가 어떻게 보여야 하는지는 아주 정밀하게 정하고, 수학적 정확성은 에이전트에게 맡길 수 있다”고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "Figma 에이전트는 이제 모든 유료 플랜의 FigJam과 Figma Slides에서 정식 제공되며, 두 제품 모두 일부 커넥터와 첨부 기능을 지원한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Figma エージェント\nFigJamとSlidesへ",
-          "body": "FigmaのAIエージェントがFigJamとSlidesに対応し、会議や資料作成を助ける。",
-          "mini_headline": "Figmaエージェント、FigJamへ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Figmaエージェントが、FigJamとFigma Slidesでも使えるようになった。両製品でコネクタと添付ファイルに対応し、デザインファイルや文字起こし、リサーチメモを取り込んで、エージェントにFigJamボード上で整理させたり、プレゼンテーションの下書きにさせたりできる。"
-              },
-              {
-                "t": "p",
-                "x": "FigJamでは、エージェントがNotionやGoogle Driveなどのツールから文脈をキャンバスに持ち込む。Figma Design ManagerのMegan Bednarczykは、デザインクリットの前に、過去のクリットのフィードバックや競合事例を集めるのに使っている。エージェントは過去のフィードバック、合意した方向性、次のクリットで扱う問いを要約する。クリット後は、フィードバックの付箋を選んでOrganize → Summarizeを選ぶと、決定事項、未解決の問い、次のステップをまとめたSpecが作成される。"
-              },
-              {
-                "t": "p",
-                "x": "Specsのエンジニアリングリード、Johnny Dallasは、コメントを一つずつ手で読む代わりに、付箋を選択してAsk agentをクリックし、プロンプトを重ねてv1の仕様書を仕上げる。"
-              },
-              {
-                "t": "p",
-                "x": "Figma Slidesでは、エージェントがSpecや添付ファイル、接続された文脈から最初のたたき台を作る。ブランドデザイナーのJarrod Barrettoは、Generate deckをクリックする前に経営陣向けの原稿をアウトラインに分解させ、スプレッドシートのスクリーンショットから棒グラフを作成している。「グラフの見た目は細かく指定しつつ、数学的な正確さはエージェントに任せられる」と彼は言う。"
-              },
-              {
-                "t": "p",
-                "x": "Figmaエージェントは現在、すべての有料プランのFigJamとFigma Slidesで一般提供されており、両製品で一部のコネクタと添付ファイルに対応している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Figma 智能体进驻\nFigJam和Slides",
-          "body": "Figma的AI智能体现已支持FigJam和Slides，协助构思、备会和制作幻灯片。",
-          "mini_headline": "Figma 智能体进驻FigJam",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Figma智能体现在可以在FigJam和Figma Slides中提供帮助。两款产品都支持连接器和附件，你可以导入设计文件、会议记录或研究笔记，让智能体将其整理到FigJam白板上，或转为演示文稿草稿。"
-              },
-              {
-                "t": "p",
-                "x": "在FigJam中，智能体会把Notion或Google Drive等工具中的上下文带到画布上。Figma Design Manager Megan Bednarczyk在设计评审前用它调取以往评审的反馈和竞品案例；智能体会总结过往反馈、已达成共识的方向以及下一次评审要讨论的问题。评审结束后，选中反馈便签并选择Organize → Summarize，即可生成一份涵盖决策、待解问题和后续步骤的Spec。"
-              },
-              {
-                "t": "p",
-                "x": "Specs工程负责人Johnny Dallas会选中便签、点击Ask agent，靠提示词得出v1规格，而不必逐条手动阅读评论。"
-              },
-              {
-                "t": "p",
-                "x": "在Figma Slides中，智能体可将Spec、附件或已连接的上下文转为初稿。品牌设计师Jarrod Barretto先让它把高管讲稿拆成大纲，再点击Generate deck，并根据电子表格截图填充柱状图。他说：“我可以非常精确地设定图表的样子，同时让智能体负责数学上的准确性。”"
-              },
-              {
-                "t": "p",
-                "x": "Figma智能体现已在所有付费方案的FigJam和Figma Slides中正式上线，两款产品均支持部分连接器和附件。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El agente de Figma llega\na FigJam y Slides",
-          "body": "El agente de AI de Figma ya funciona en FigJam y Slides para explorar ideas, preparar reuniones y crear presentaciones.",
-          "mini_headline": "El agente de Figma llega a FigJam",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "El agente de Figma ya puede ayudar en FigJam y Figma Slides. Con conectores y archivos adjuntos en ambos productos, se pueden incorporar archivos de diseño, transcripciones o notas de investigación y pedir al agente que los organice en un tablero de FigJam o los convierta en el borrador de una presentación."
-              },
-              {
-                "t": "p",
-                "x": "En FigJam, el agente lleva al lienzo contexto de herramientas como Notion o Google Drive. Antes de una crítica de diseño, Megan Bednarczyk, Figma Design Manager, lo usa para reunir comentarios de críticas anteriores y ejemplos de la competencia; el agente resume los comentarios previos, la dirección acordada y las preguntas para la próxima crítica. Después, al seleccionar las notas adhesivas con comentarios y elegir Organize → Summarize, se crea un Spec que recoge decisiones, preguntas abiertas y próximos pasos."
-              },
-              {
-                "t": "p",
-                "x": "Johnny Dallas, responsable de ingeniería de Specs, selecciona notas adhesivas, hace clic en Ask agent y llega a una especificación v1 a base de prompts, en lugar de leer cada comentario a mano."
-              },
-              {
-                "t": "p",
-                "x": "En Figma Slides, el agente convierte un Spec, archivos adjuntos o contexto conectado en una primera versión. El diseñador de marca Jarrod Barretto le pide dividir un guion para directivos en un esquema antes de hacer clic en Generate deck, y rellena gráficos de barras a partir de una captura de una hoja de cálculo. “Puedo ser muy preciso sobre cómo quiero que se vea un gráfico mientras dejo que el agente se encargue de la exactitud matemática”, afirma."
-              },
-              {
-                "t": "p",
-                "x": "El agente de Figma ya está disponible de forma general en FigJam y Figma Slides en todos los planes de pago, con compatibilidad con determinados conectores y archivos adjuntos en ambos."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "framer-automations-connectors",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Framer 에이전트에\n자동화와 Slack",
-      "body": "Framer 에이전트가 예약·이벤트형 워크플로를 돌리고 Slack에서도 일한다.",
-      "mini_headline": "Framer 에이전트 자동화",
-      "tool": "Framer",
-      "source": "Framer",
-      "url": "https://www.framer.com/updates/automations-connectors-slack",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "05Os8Cqr7Ic"
-          },
-          {
-            "t": "p",
-            "x": "Automations, Connectors, Slack Agent를 소개한다. Automations는 스스로 돌아가는 에이전트 워크플로다. 정해 둔 일정에 맞춰 돌거나, 게시·폼 제출 같은 프로젝트 이벤트가 생길 때 실행된다. 게시할 때마다 SEO 감사를 돌려 결과를 Slack에 올리거나, 매일 분석 브리핑을 보내거나, 폼 리드 정보를 보강해 알맞은 곳으로 넘기는 식이다. Agent가 쓸 도구는 사용자가 정하고, 지난 실행 기록도 검토할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Connectors로 Agent를 Slack, Notion, Ahrefs 등 팀이 이미 쓰는 도구에 연결하면, 채팅과 Automations 안에서 그 도구의 내용을 읽고 직접 작업까지 한다."
-          },
-          {
-            "t": "p",
-            "x": "공식 Framer Slack 앱을 깔면 채널에서 @Framer를 부르거나 DM을 보내 사이트 관련 질문을 하고, 분석 데이터를 불러오고, Framer를 열지 않고도 간단한 수정을 할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "시작하려면 Site Settings에서 Automations 또는 Connectors 탭으로 가면 된다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Framer's agent gets\nautomations and Slack",
-          "body": "Framer's agent now runs scheduled or event-triggered workflows and acts in Slack, Notion and Ahrefs via Connectors.",
-          "mini_headline": "Framer agent automations",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "05Os8Cqr7Ic"
-              },
-              {
-                "t": "p",
-                "x": "Introducing Automations, Connectors, and the Slack Agent. Automations are agent workflows that run on their own. You can trigger them on a schedule or by project events like publishing or a form submission. For example, you can run an SEO audit every time you publish and post the results to Slack, send a daily analytics brief, or enrich a form lead and route it to the right place. You control which tools the Agent can use, and you can review past runs."
-              },
-              {
-                "t": "p",
-                "x": "With Connectors, the Agent can connect to tools your team already uses, including Slack, Notion, and Ahrefs, and both read and act in them in chat and inside Automations."
-              },
-              {
-                "t": "p",
-                "x": "With the official Framer Slack app, @Framer in a channel or send it a DM to ask about your site, pull analytics, or make quick edits without opening Framer."
-              },
-              {
-                "t": "p",
-                "x": "To get started, open Site Settings and go to the Automations or Connectors tab."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Framer 에이전트에\n자동화와 Slack",
-          "body": "Framer 에이전트가 예약·이벤트형 워크플로를 돌리고 Slack에서도 일한다.",
-          "mini_headline": "Framer 에이전트 자동화",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "05Os8Cqr7Ic"
-              },
-              {
-                "t": "p",
-                "x": "Automations, Connectors, Slack Agent를 소개한다. Automations는 스스로 돌아가는 에이전트 워크플로다. 정해 둔 일정에 맞춰 돌거나, 게시·폼 제출 같은 프로젝트 이벤트가 생길 때 실행된다. 게시할 때마다 SEO 감사를 돌려 결과를 Slack에 올리거나, 매일 분석 브리핑을 보내거나, 폼 리드 정보를 보강해 알맞은 곳으로 넘기는 식이다. Agent가 쓸 도구는 사용자가 정하고, 지난 실행 기록도 검토할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Connectors로 Agent를 Slack, Notion, Ahrefs 등 팀이 이미 쓰는 도구에 연결하면, 채팅과 Automations 안에서 그 도구의 내용을 읽고 직접 작업까지 한다."
-              },
-              {
-                "t": "p",
-                "x": "공식 Framer Slack 앱을 깔면 채널에서 @Framer를 부르거나 DM을 보내 사이트 관련 질문을 하고, 분석 데이터를 불러오고, Framer를 열지 않고도 간단한 수정을 할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "시작하려면 Site Settings에서 Automations 또는 Connectors 탭으로 가면 된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Framerのエージェントに\n自動化とSlack",
-          "body": "Framerのエージェントが定期・イベント起動のワークフローを実行し、Slackでも動く。",
-          "mini_headline": "Framerエージェントが自動化",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "05Os8Cqr7Ic"
-              },
-              {
-                "t": "p",
-                "x": "Automations、Connectors、そしてSlack Agentを発表する。Automationsは自律的に動くエージェントのワークフローだ。スケジュールに沿って、あるいは公開やフォーム送信といったプロジェクトのイベントをきっかけに起動できる。たとえば公開のたびにSEO監査を実行して結果をSlackに投稿したり、毎日の分析レポートを送ったり、フォームから得たリードの情報を補強して適切な宛先に振り分けたりできる。Agentが使えるツールはユーザーが管理でき、過去の実行履歴も確認できる。"
-              },
-              {
-                "t": "p",
-                "x": "Connectorsにより、AgentはSlack、Notion、Ahrefsなどチームが既に使っているツールに接続し、チャット内やAutomationsの中でそれらを読み取るだけでなく、操作することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "公式のFramer Slackアプリを使えば、チャンネルで@FramerをメンションするかDMを送るだけで、Framerを開かずにサイトについて質問したり、分析データを取得したり、簡単な編集をしたりできる。"
-              },
-              {
-                "t": "p",
-                "x": "始めるには、Site Settingsを開き、AutomationsまたはConnectorsタブに移動する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Framer智能体新增\n自动化与Slack",
-          "body": "Framer智能体可按计划或事件运行工作流，通过Connectors在Slack等处操作。",
-          "mini_headline": "Framer智能体自动化",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "05Os8Cqr7Ic"
-              },
-              {
-                "t": "p",
-                "x": "推出Automations、Connectors和Slack Agent。Automations是可自行运行的智能体工作流，可以按计划触发，也可以由发布或表单提交等项目事件触发。例如，你可以在每次发布时运行SEO审查并把结果发到Slack，发送每日分析简报，或者补全表单线索信息并将其分派到合适的位置。你可以控制Agent能使用哪些工具，也可以查看过去的运行记录。"
-              },
-              {
-                "t": "p",
-                "x": "借助Connectors，Agent可以连接团队已在使用的工具，包括Slack、Notion和Ahrefs，并能在聊天和Automations中读取这些工具的内容并在其中执行操作。"
-              },
-              {
-                "t": "p",
-                "x": "通过官方Framer Slack应用，你可以在频道中@Framer或给它发DM，询问网站情况、调取分析数据或进行快速修改，无需打开Framer。"
-              },
-              {
-                "t": "p",
-                "x": "要开始使用，请打开Site Settings，进入Automations或Connectors选项卡。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El agente de Framer suma\nautomatizaciones y Slack",
-          "body": "El agente de Framer ejecuta flujos programados o por evento y actúa en Slack, Notion y Ahrefs vía Connectors.",
-          "mini_headline": "Automatizaciones del agente de Framer",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "05Os8Cqr7Ic"
-              },
-              {
-                "t": "p",
-                "x": "Presentamos Automations, Connectors y el Slack Agent. Las Automations son flujos de trabajo de agente que se ejecutan por sí solos. Pueden activarse según una programación o por eventos del proyecto, como una publicación o el envío de un formulario. Por ejemplo, se puede ejecutar una auditoría SEO cada vez que se publica y enviar los resultados a Slack, mandar un informe diario de analítica o enriquecer un lead de un formulario y dirigirlo al lugar adecuado. El usuario decide qué herramientas puede usar el Agent y puede revisar las ejecuciones anteriores."
-              },
-              {
-                "t": "p",
-                "x": "Con Connectors, el Agent puede conectarse a herramientas que el equipo ya usa, como Slack, Notion y Ahrefs, y tanto leer como actuar en ellas desde el chat y dentro de Automations."
-              },
-              {
-                "t": "p",
-                "x": "Con la app oficial de Framer para Slack, basta con mencionar a @Framer en un canal o enviarle un DM para preguntar por el sitio, consultar analíticas o hacer ediciones rápidas sin abrir Framer."
-              },
-              {
-                "t": "p",
-                "x": "Para empezar, abra Site Settings y vaya a la pestaña Automations o Connectors."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Framer 에이전트에\n자동화와 Slack",
-          "body": "Framer 에이전트가 예약·이벤트형 워크플로를 돌리고 Slack에서도 일한다.",
-          "mini_headline": "Framer 에이전트 자동화",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "05Os8Cqr7Ic"
-              },
-              {
-                "t": "p",
-                "x": "Automations, Connectors, Slack Agent를 소개한다. Automations는 스스로 실행되는 에이전트 워크플로다. 일정에 따라, 또는 게시나 폼 제출 같은 프로젝트 이벤트를 계기로 실행할 수 있다. 예를 들어 게시할 때마다 SEO 감사를 돌려 결과를 Slack에 올리거나, 매일 분석 브리핑을 보내거나, 폼 리드 정보를 보강해 알맞은 곳으로 보낼 수 있다. Agent가 쓸 수 있는 도구는 사용자가 정하며, 지난 실행 기록도 검토할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Connectors를 쓰면 Agent가 Slack, Notion, Ahrefs 등 팀이 이미 쓰는 도구에 연결해, 채팅과 Automations 안에서 이들 도구의 내용을 읽고 직접 작업까지 할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "공식 Framer Slack 앱을 쓰면 채널에서 @Framer를 호출하거나 DM을 보내 사이트에 관해 묻고, 분석 데이터를 불러오고, Framer를 열지 않고도 간단한 수정을 할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "시작하려면 Site Settings를 열고 Automations 또는 Connectors 탭으로 이동하면 된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Framerのエージェントに\n自動化とSlack",
-          "body": "Framerのエージェントが定期・イベント起動のワークフローを実行し、Slackでも動く。",
-          "mini_headline": "Framerエージェントが自動化",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "05Os8Cqr7Ic"
-              },
-              {
-                "t": "p",
-                "x": "Automations、Connectors、そしてSlack Agentを発表する。Automationsは自律的に動くエージェントのワークフローだ。スケジュールに沿って、あるいは公開やフォーム送信といったプロジェクトのイベントをきっかけに起動できる。たとえば公開のたびにSEO監査を実行して結果をSlackに投稿したり、毎日の分析レポートを送ったり、フォームから得たリードの情報を補強して適切な宛先に振り分けたりできる。Agentが使えるツールはユーザーが管理でき、過去の実行履歴も確認できる。"
-              },
-              {
-                "t": "p",
-                "x": "Connectorsにより、AgentはSlack、Notion、Ahrefsなどチームが既に使っているツールに接続し、チャット内やAutomationsの中でそれらを読み取るだけでなく、操作することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "公式のFramer Slackアプリを使えば、チャンネルで@FramerをメンションするかDMを送るだけで、Framerを開かずにサイトについて質問したり、分析データを取得したり、簡単な編集をしたりできる。"
-              },
-              {
-                "t": "p",
-                "x": "始めるには、Site Settingsを開き、AutomationsまたはConnectorsタブに移動する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Framer智能体新增\n自动化与Slack",
-          "body": "Framer智能体可按计划或事件运行工作流，通过Connectors在Slack等处操作。",
-          "mini_headline": "Framer智能体自动化",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "05Os8Cqr7Ic"
-              },
-              {
-                "t": "p",
-                "x": "推出Automations、Connectors和Slack Agent。Automations是可自行运行的智能体工作流，可以按计划触发，也可以由发布或表单提交等项目事件触发。例如，你可以在每次发布时运行SEO审查并把结果发到Slack，发送每日分析简报，或者补全表单线索信息并将其分派到合适的位置。你可以控制Agent能使用哪些工具，也可以查看过去的运行记录。"
-              },
-              {
-                "t": "p",
-                "x": "借助Connectors，Agent可以连接团队已在使用的工具，包括Slack、Notion和Ahrefs，并能在聊天和Automations中读取这些工具的内容并在其中执行操作。"
-              },
-              {
-                "t": "p",
-                "x": "通过官方Framer Slack应用，你可以在频道中@Framer或给它发DM，询问网站情况、调取分析数据或进行快速修改，无需打开Framer。"
-              },
-              {
-                "t": "p",
-                "x": "要开始使用，请打开Site Settings，进入Automations或Connectors选项卡。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El agente de Framer suma\nautomatizaciones y Slack",
-          "body": "El agente de Framer ejecuta flujos programados o por evento y actúa en Slack, Notion y Ahrefs vía Connectors.",
-          "mini_headline": "Automatizaciones del agente de Framer",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "05Os8Cqr7Ic"
-              },
-              {
-                "t": "p",
-                "x": "Presentamos Automations, Connectors y el Slack Agent. Las Automations son flujos de trabajo de agente que se ejecutan por sí solos. Pueden activarse según una programación o por eventos del proyecto, como una publicación o el envío de un formulario. Por ejemplo, se puede ejecutar una auditoría SEO cada vez que se publica y enviar los resultados a Slack, mandar un informe diario de analítica o enriquecer un lead de un formulario y dirigirlo al lugar adecuado. El usuario decide qué herramientas puede usar el Agent y puede revisar las ejecuciones anteriores."
-              },
-              {
-                "t": "p",
-                "x": "Con Connectors, el Agent puede conectarse a herramientas que el equipo ya usa, como Slack, Notion y Ahrefs, y tanto leer como actuar en ellas desde el chat y dentro de Automations."
-              },
-              {
-                "t": "p",
-                "x": "Con la app oficial de Framer para Slack, basta con mencionar a @Framer en un canal o enviarle un DM para preguntar por el sitio, consultar analíticas o hacer ediciones rápidas sin abrir Framer."
-              },
-              {
-                "t": "p",
-                "x": "Para empezar, abra Site Settings y vaya a la pestaña Automations o Connectors."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "nyt-photoshop-ai-metadata",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "NYT, 사진가에게\n새 Photoshop 자제",
-      "body": "NYT가 AI 메타데이터 우려로 Photoshop 업데이트 보류를 요청했다.",
-      "mini_headline": "NYT, Photoshop 업데이트 보류",
-      "tool": "AI Workflow",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-            "cap": "사진: Marcin Golba / NurPhoto via Getty Images"
-          },
-          {
-            "t": "p",
-            "x": "The New York Times가 프리랜서 사진가들에게 Adobe Photoshop 최신 버전을 쓰지 말라고 요청했다. 2027 업데이트 기능들이 “사용자에게 드러나지 않을 수 있는 방식으로” AI를 쓴다는 이유에서다. 사진 부문 책임자 Meaghan Looram과 Josh Haner는 이메일에 이 기능들이 “사진을 AI-generated(AI 생성)로 식별하는 메타데이터가 붙는 결과를 낳을 수 있다”고 썼다."
-          },
-          {
-            "t": "p",
-            "x": "11월 업데이트에는 Photoshop의 모든 AI 기능을 툴바 하나에 모은 “AI Assisted Editor” 보기, 단계별 편집을 돕는 AI 어시스턴트, 프롬프트 기반 이미지 편집, 새 AI 업스케일링 옵션, 캔버스 크기에 맞춰 이미지를 재구성하는 AI 도구가 들어갔다. 어떤 도구가 AI-powered(AI 기반)인지 늘 분명하지도 않다. 사진 보정을 최소한으로 하는 뉴스룸에선 AI 메타데이터 하나로 독자 신뢰를 잃을 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Adobe는 8월부터 AI로 생성하거나 편집한 이미지를 표시하는 C2PA 메타데이터 지원을 배포하기 시작했다. 이메일에는 “현재로서는 모든 기고 사진가에게 The Times 업무 수행 시 Adobe Photoshop 2027(릴리스 28.0.0 및 이후 업데이트) 사용을 피하도록 요구하고 있다”고 적혀 있다. NYT 대변인 Graham James가 이 요구를 확인했다. Adobe는 The Verge의 문의에 바로 답하지 않았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "NYT tells photographers to\nskip a Photoshop update",
-          "body": "The New York Times told photographers to hold off on a Photoshop update to keep AI metadata off its news photos.",
-          "mini_headline": "NYT pauses Photoshop update",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "Photo: Marcin Golba / NurPhoto via Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI “in ways that may not be apparent to users.” In an email, photography leaders Meaghan Looram and Josh Haner write that these features “can result in metadata identifying photographs as AI-generated.”"
-              },
-              {
-                "t": "p",
-                "x": "The November update adds an “AI Assisted Editor” view that puts all of Photoshop’s AI features in one toolbar, an AI assistant for step-by-step editing, prompt-based image editing, new AI upscaling options and an AI tool that recomposes images for different canvas sizes. It’s not always clear which tools are AI-powered, and for a newsroom where photo editing is kept to a minimum, AI metadata risks losing readers’ trust."
-              },
-              {
-                "t": "p",
-                "x": "In August, Adobe began rolling out C2PA metadata support that flags images generated or edited with AI. “At this time, we are requiring that all contributing photographers avoid using Adobe Photoshop 2027 (release 28.0.0 and subsequent updates) when working on assignment for The Times,” the email reads. NYT spokesperson Graham James confirmed the requirement. Adobe didn’t immediately respond to The Verge."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "NYT, 사진가에게\n새 Photoshop 자제",
-          "body": "NYT가 AI 메타데이터 우려로 Photoshop 업데이트 보류를 요청했다.",
-          "mini_headline": "NYT, Photoshop 업데이트 보류",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "사진: Marcin Golba / NurPhoto via Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "The New York Times가 프리랜서 사진가들에게 Adobe Photoshop 최신 버전을 쓰지 말라고 요청했다. 2027 업데이트 기능들이 “사용자에게 드러나지 않을 수 있는 방식으로” AI를 쓴다는 이유에서다. 사진 부문 책임자 Meaghan Looram과 Josh Haner는 이메일에 이 기능들이 “사진을 AI-generated(AI 생성)로 식별하는 메타데이터가 붙는 결과를 낳을 수 있다”고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "11월 업데이트에는 Photoshop의 모든 AI 기능을 툴바 하나에 모은 “AI Assisted Editor” 보기, 단계별 편집을 돕는 AI 어시스턴트, 프롬프트 기반 이미지 편집, 새 AI 업스케일링 옵션, 캔버스 크기에 맞춰 이미지를 재구성하는 AI 도구가 들어갔다. 어떤 도구가 AI-powered(AI 기반)인지 늘 분명하지도 않다. 사진 보정을 최소한으로 하는 뉴스룸에선 AI 메타데이터 하나로 독자 신뢰를 잃을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Adobe는 8월부터 AI로 생성하거나 편집한 이미지를 표시하는 C2PA 메타데이터 지원을 배포하기 시작했다. 이메일에는 “현재로서는 모든 기고 사진가에게 The Times 업무 수행 시 Adobe Photoshop 2027(릴리스 28.0.0 및 이후 업데이트) 사용을 피하도록 요구하고 있다”고 적혀 있다. NYT 대변인 Graham James가 이 요구를 확인했다. Adobe는 The Verge의 문의에 바로 답하지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NYTが写真家に要請\nPhotoshop更新見送り",
-          "body": "NYTは写真へのAIメタデータ付与を避けるため、Photoshop更新の見送りを求めた。",
-          "mini_headline": "NYT、Photoshop更新を保留",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "写真：Marcin Golba / NurPhoto via Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "The New York Timesは、フリーランスの写真家にAdobe Photoshopの最新版を使わないよう求めている。2027アップデートの機能が「ユーザーにはわかりにくい形で」AIを使っているためだ。写真部門を率いるMeaghan LooramとJosh Hanerはメールで、これらの機能が「写真をAI-generated（AI生成）と識別するメタデータが付く結果になりうる」と書いている。"
-              },
-              {
-                "t": "p",
-                "x": "11月のアップデートでは、PhotoshopのすべてのAI機能を一つのツールバーにまとめた「AI Assisted Editor」ビュー、段階的な編集を手伝うAIアシスタント、プロンプトによる画像編集、新しいAIアップスケーリングのオプション、さまざまなキャンバスサイズに合わせて画像を再構成するAIツールが加わった。どのツールがAI-powered（AI搭載）なのかは常に明確とは限らず、写真の加工を最小限にとどめる報道の現場にとって、AIメタデータは読者の信頼を失うリスクになる。"
-              },
-              {
-                "t": "p",
-                "x": "Adobeは8月、AIで生成・編集された画像を示すC2PAメタデータへの対応を順次開始した。メールには「現時点で、The Timesの依頼で仕事をする際には、すべての寄稿写真家にAdobe Photoshop 2027（リリース28.0.0およびそれ以降のアップデート）の使用を避けるよう求めている」とある。NYTの広報担当Graham Jamesはこの要請を認めた。AdobeはThe Vergeの問い合わせにすぐには応じなかった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "NYT要求摄影师\n暂缓更新Photoshop",
-          "body": "NYT要求摄影师暂缓Photoshop更新，以免新闻照片带上AI元数据。",
-          "mini_headline": "NYT暂缓Photoshop更新",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "图片：Marcin Golba / NurPhoto via Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "The New York Times正要求自由摄影师不要使用最新版Adobe Photoshop，因为2027更新中的功能以“用户可能察觉不到的方式”使用AI。摄影部门负责人Meaghan Looram和Josh Haner在一封电子邮件中写道，这些功能“可能导致照片被元数据标记为AI-generated（AI生成）”。"
-              },
-              {
-                "t": "p",
-                "x": "11月的更新新增了“AI Assisted Editor”视图，把Photoshop的所有AI功能集中到一个工具栏中，还加入了用于分步编辑的AI助手、基于提示词的图像编辑、新的AI放大选项，以及可按不同画布尺寸重新构图的AI工具。哪些工具属于AI-powered（AI驱动）并不总是一目了然，而对于将照片编辑控制在最低限度的新闻编辑部来说，AI元数据可能让读者失去信任。"
-              },
-              {
-                "t": "p",
-                "x": "8月，Adobe开始推出C2PA元数据支持，用于标记由AI生成或编辑的图像。邮件写道：“目前，我们要求所有供稿摄影师在为The Times执行任务时，避免使用Adobe Photoshop 2027（28.0.0版本及后续更新）。”NYT发言人Graham James证实了这一要求。Adobe未立即回复The Verge。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El NYT pide a sus fotógrafos\nno actualizar Photoshop",
-          "body": "The New York Times pidió a sus fotógrafos aplazar una actualización de Photoshop para evitar metadatos de AI.",
-          "mini_headline": "El NYT frena una actualización de Photoshop",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "Foto: Marcin Golba / NurPhoto via Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "The New York Times pide a sus fotógrafos independientes que no usen la versión más reciente de Adobe Photoshop porque las funciones de la actualización 2027 usan AI “de maneras que pueden no ser evidentes para los usuarios”. En un correo electrónico, los responsables de fotografía Meaghan Looram y Josh Haner escriben que estas funciones “pueden hacer que los metadatos identifiquen las fotografías como AI-generated (generadas por AI)”."
-              },
-              {
-                "t": "p",
-                "x": "La actualización de noviembre añade una vista “AI Assisted Editor” que reúne todas las funciones de AI de Photoshop en una sola barra de herramientas, un asistente de AI para editar paso a paso, edición de imágenes mediante prompts, nuevas opciones de escalado con AI y una herramienta de AI que recompone imágenes para distintos tamaños de lienzo. No siempre está claro qué herramientas son AI-powered (impulsadas por AI), y para una redacción que reduce al mínimo la edición fotográfica, los metadatos de AI ponen en riesgo la confianza de los lectores."
-              },
-              {
-                "t": "p",
-                "x": "En agosto, Adobe empezó a desplegar la compatibilidad con metadatos C2PA, que señalan las imágenes generadas o editadas con AI. “Por ahora, exigimos a todos los fotógrafos colaboradores que eviten usar Adobe Photoshop 2027 (versión 28.0.0 y actualizaciones posteriores) cuando trabajen en encargos para The Times”, dice el correo. El portavoz del NYT, Graham James, confirmó el requisito. Adobe no respondió de inmediato a The Verge."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "NYT, 사진가에게\n새 Photoshop 자제",
-          "body": "NYT가 AI 메타데이터 우려로 Photoshop 업데이트 보류를 요청했다.",
-          "mini_headline": "NYT, Photoshop 업데이트 보류",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "사진: Marcin Golba / NurPhoto via Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "The New York Times는 프리랜서 사진가들에게 Adobe Photoshop 최신 버전을 쓰지 말라고 요청하고 있다. 2027 업데이트의 기능들이 “사용자에게 드러나지 않을 수 있는 방식으로” AI를 사용한다는 이유다. 사진 부문 책임자 Meaghan Looram과 Josh Haner는 이메일에서 이 기능들이 “사진을 AI-generated(AI 생성)로 식별하는 메타데이터가 붙는 결과를 낳을 수 있다”고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "11월 업데이트에는 Photoshop의 모든 AI 기능을 하나의 툴바에 모은 “AI Assisted Editor” 보기, 단계별 편집을 돕는 AI 어시스턴트, 프롬프트 기반 이미지 편집, 새로운 AI 업스케일링 옵션, 다양한 캔버스 크기에 맞춰 이미지를 재구성하는 AI 도구가 추가됐다. 어떤 도구가 AI-powered(AI 기반)인지 늘 분명하지는 않으며, 사진 보정을 최소한으로 유지하는 뉴스룸에서 AI 메타데이터는 독자의 신뢰를 잃을 위험을 안긴다."
-              },
-              {
-                "t": "p",
-                "x": "Adobe는 8월부터 AI로 생성하거나 편집한 이미지를 표시하는 C2PA 메타데이터 지원을 배포하기 시작했다. 이메일에는 “현재로서는 모든 기고 사진가에게 The Times 업무 수행 시 Adobe Photoshop 2027(릴리스 28.0.0 및 이후 업데이트) 사용을 피하도록 요구하고 있다”고 적혀 있다. NYT 대변인 Graham James는 이 요구 사항을 확인했다. Adobe는 The Verge의 문의에 즉시 답하지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NYTが写真家に要請\nPhotoshop更新見送り",
-          "body": "NYTは写真へのAIメタデータ付与を避けるため、Photoshop更新の見送りを求めた。",
-          "mini_headline": "NYT、Photoshop更新を保留",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "写真：Marcin Golba / NurPhoto via Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "The New York Timesは、フリーランスの写真家にAdobe Photoshopの最新版を使わないよう求めている。2027アップデートの機能が「ユーザーにはわかりにくい形で」AIを使っているためだ。写真部門を率いるMeaghan LooramとJosh Hanerはメールで、これらの機能が「写真をAI-generated（AI生成）と識別するメタデータが付く結果になりうる」と書いている。"
-              },
-              {
-                "t": "p",
-                "x": "11月のアップデートでは、PhotoshopのすべてのAI機能を一つのツールバーにまとめた「AI Assisted Editor」ビュー、段階的な編集を手伝うAIアシスタント、プロンプトによる画像編集、新しいAIアップスケーリングのオプション、さまざまなキャンバスサイズに合わせて画像を再構成するAIツールが加わった。どのツールがAI-powered（AI搭載）なのかは常に明確とは限らず、写真の加工を最小限にとどめる報道の現場にとって、AIメタデータは読者の信頼を失うリスクになる。"
-              },
-              {
-                "t": "p",
-                "x": "Adobeは8月、AIで生成・編集された画像を示すC2PAメタデータへの対応を順次開始した。メールには「現時点で、The Timesの依頼で仕事をする際には、すべての寄稿写真家にAdobe Photoshop 2027（リリース28.0.0およびそれ以降のアップデート）の使用を避けるよう求めている」とある。NYTの広報担当Graham Jamesはこの要請を認めた。AdobeはThe Vergeの問い合わせにすぐには応じなかった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "NYT要求摄影师\n暂缓更新Photoshop",
-          "body": "NYT要求摄影师暂缓Photoshop更新，以免新闻照片带上AI元数据。",
-          "mini_headline": "NYT暂缓Photoshop更新",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "图片：Marcin Golba / NurPhoto via Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "The New York Times正要求自由摄影师不要使用最新版Adobe Photoshop，因为2027更新中的功能以“用户可能察觉不到的方式”使用AI。摄影部门负责人Meaghan Looram和Josh Haner在一封电子邮件中写道，这些功能“可能导致照片被元数据标记为AI-generated（AI生成）”。"
-              },
-              {
-                "t": "p",
-                "x": "11月的更新新增了“AI Assisted Editor”视图，把Photoshop的所有AI功能集中到一个工具栏中，还加入了用于分步编辑的AI助手、基于提示词的图像编辑、新的AI放大选项，以及可按不同画布尺寸重新构图的AI工具。哪些工具属于AI-powered（AI驱动）并不总是一目了然，而对于将照片编辑控制在最低限度的新闻编辑部来说，AI元数据可能让读者失去信任。"
-              },
-              {
-                "t": "p",
-                "x": "8月，Adobe开始推出C2PA元数据支持，用于标记由AI生成或编辑的图像。邮件写道：“目前，我们要求所有供稿摄影师在为The Times执行任务时，避免使用Adobe Photoshop 2027（28.0.0版本及后续更新）。”NYT发言人Graham James证实了这一要求。Adobe未立即回复The Verge。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El NYT pide a sus fotógrafos\nno actualizar Photoshop",
-          "body": "The New York Times pidió a sus fotógrafos aplazar una actualización de Photoshop para evitar metadatos de AI.",
-          "mini_headline": "El NYT frena una actualización de Photoshop",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-                "cap": "Foto: Marcin Golba / NurPhoto via Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "The New York Times pide a sus fotógrafos independientes que no usen la versión más reciente de Adobe Photoshop porque las funciones de la actualización 2027 usan AI “de maneras que pueden no ser evidentes para los usuarios”. En un correo electrónico, los responsables de fotografía Meaghan Looram y Josh Haner escriben que estas funciones “pueden hacer que los metadatos identifiquen las fotografías como AI-generated (generadas por AI)”."
-              },
-              {
-                "t": "p",
-                "x": "La actualización de noviembre añade una vista “AI Assisted Editor” que reúne todas las funciones de AI de Photoshop en una sola barra de herramientas, un asistente de AI para editar paso a paso, edición de imágenes mediante prompts, nuevas opciones de escalado con AI y una herramienta de AI que recompone imágenes para distintos tamaños de lienzo. No siempre está claro qué herramientas son AI-powered (impulsadas por AI), y para una redacción que reduce al mínimo la edición fotográfica, los metadatos de AI ponen en riesgo la confianza de los lectores."
-              },
-              {
-                "t": "p",
-                "x": "En agosto, Adobe empezó a desplegar la compatibilidad con metadatos C2PA, que señalan las imágenes generadas o editadas con AI. “Por ahora, exigimos a todos los fotógrafos colaboradores que eviten usar Adobe Photoshop 2027 (versión 28.0.0 y actualizaciones posteriores) cuando trabajen en encargos para The Times”, dice el correo. El portavoz del NYT, Graham James, confirmó el requisito. Adobe no respondió de inmediato a The Verge."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "cognitive-design-cds-2-3",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "CDS 2.3, 실험\n설계 자동화 추가",
-      "body": "CDS 2.3이 변수를 훑어 변형안을 만들고 구조·제조·비용·CO2로 평가한다.",
-      "mini_headline": "CDS 2.3, 변형안 평가",
+      "headline": "Nomic AI 에이전트가\n편집형 CAD 도면 그린다",
+      "body": "Nomic 에이전트가 자연어 요청을 CAD 표준 DWG/DXF와 PDF로 그린다.",
+      "mini_headline": "Nomic 에이전트가 CAD 제도",
       "tool": "Text-to-CAD",
-      "source": "DEVELOP3D",
-      "url": "https://develop3d.com/ai/cognitive-design-2-3-marks-cds-newest-release/",
+      "source": "AEC Magazine",
+      "url": "https://aecmag.com/cad/nomic-extends-ai-agents-into-cad-drafting-and-bim/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -965,173 +19,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+            "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
           },
           {
             "t": "p",
-            "x": "Cognitive Design Systems(CDS)가 AI-powered(AI 기반) 엔지니어링 플랫폼 최신판 Cognitive Design 2.3을 내놨다. 핵심은 자동화된 Design of Experiments(DoE)다. 엔지니어링 팀은 콘셉트 단계부터 Preliminary Design Review(PDR)까지 설계 대안을 체계적으로 탐색할 수 있다."
+            "x": "AEC 업계용 AI-powered 도면 검토 소프트웨어를 만드는 Nomic이 플랫폼에 CAD 자동 제도 기능을 더했다. 원하는 도면을 자연어로 설명하거나 고칠 기존 도면을 넣으면 AI 에이전트가 편집 가능한 CAD 파일과 검토용 PDF 출력본을 함께 돌려준다."
           },
           {
             "t": "p",
-            "x": "CEO Rhushik Matroja는 “수십 년 동안 DoE는 엔지니어링 워크플로의 후반, 즉 주요 설계 선택이 이미 끝나 모든 변경에 큰 비용이 드는 시점에야 쓰였다”며 “CDS는 부품에 관한 결정적 선택이 아직 열려 있는 콘셉트 단계에서 DoE가 가장 큰 가치를 낸다고 확신한다”고 말했다."
+            "x": "기존 도면 예시나 회사 표제란을 주면 Nomic은 레이어, 선 굵기, 해칭, 블록, 텍스트·치수 스타일 같은 기존 CAD 표준에 맞춰 도면을 그린다. 소프트웨어는 DWG, DXF, DGN 형식을 지원한다."
           },
           {
             "t": "p",
-            "x": "엔지니어가 설계 파라미터와 범위를 정하면 소프트웨어가 그 한도 안에서 파라메트릭 스윕을 자동으로 돌린다. 설계 변형안을 하나씩 만들어 구조, 제조, 비용, CO2 기준으로 평가하는 방식이다. 변형안은 모두 Design Explorer에 모인다. 설계자는 여기서 트레이드오프를 비교하고 요구 사항에 맞춰 후보를 걸러 내며, 완전한 추적성을 근거로 선택한 콘셉트를 설명할 수 있다."
+            "x": "에이전트는 도면 검토 의견서를 읽고 해당 도면을 고친 뒤 바뀐 부분에 리비전 클라우드를 자동으로 그려 넣는다. 수정할 때마다 새 버전으로 저장하므로 원본 파일은 그대로 남는다. 단계마다 도면을 렌더링해 글자 겹침이나 주석 위치 오류 같은 문제도 잡아낸다."
           },
           {
             "t": "p",
-            "x": "CDS는 추적 가능한 콘셉트 선정까지 이어지는 일곱 단계 방법을 담은 백서 “Design of Experiments at the Concept Stage”도 공개했다."
+            "x": "Nomic은 Autodesk Revit과 AutoCAD용 애드인도 배포한다. Revit에서는 덕트와 구조 프레임 사이 간섭을 찾아 일부를 해결하고, AutoCAD에서는 열린 도면에 상세도를 그리거나 수정 사항을 반영한다. 어느 쪽이든 사람이 승인해야 변경이 적용된다."
+          },
+          {
+            "t": "p",
+            "x": "Nomic의 제도 기능은 지금 바로 쓸 수 있다. Revit과 AutoCAD 애드인은 현재 고객에게 차례로 배포되고 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Cognitive Design 2.3 adds\nautomated experiments",
-          "body": "Cognitive Design 2.3 sweeps parameters, generates variants and scores each on structure, manufacturing, cost and CO2.",
-          "mini_headline": "CDS 2.3 scores variants",
+          "headline": "Nomic's AI agents now draft\neditable CAD drawings",
+          "body": "Nomic's agent turns a plain-language request into an editable DWG/DXF file and PDF that follows company CAD standards.",
+          "mini_headline": "Nomic agents draft CAD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
               },
               {
                 "t": "p",
-                "x": "Cognitive Design Systems (CDS) releases Cognitive Design 2.3, the latest version of its AI-powered engineering platform. Its flagship capability is automated Design of Experiments (DoE), letting engineering teams explore design alternatives systematically during the concept phase, up to the Preliminary Design Review (PDR)."
+                "x": "Nomic, the developer of AI-powered drawing review software for the AEC industry, has extended its platform to include automated CAD drafting. Users can describe a drawing in natural language or supply an existing drawing for revision, with the AI agent returning an editable CAD file together with a plotted PDF for review."
               },
               {
                 "t": "p",
-                "x": "“For decades, DoE has come into play late in the engineering workflow, once the main design choices have already been made and every change has become costly,” said CEO Rhushik Matroja. “At CDS, we are convinced that DoE delivers its greatest value at the concept phase, when the decisive choices on a part are still open.”"
+                "x": "By supplying examples of existing drawings or a company title block, users can instruct Nomic to generate drawings that adhere to established CAD standards, including layers, line weights, hatching, blocks, text and dimension styles. The software supports DWG, DXF and DGN."
               },
               {
                 "t": "p",
-                "x": "Engineers define the design parameters and ranges; the software then automatically conducts the parametric sweep within these limits, generating each design variant and evaluating it against structural, manufacturing, cost, and CO2 criteria. All variants are consolidated in Design Explorer, where designers can compare trade-offs, filter candidates against requirements, and justify the selected concept with full traceability."
+                "x": "The agent can interpret plan review letters, revise affected drawings and automatically add revision clouds to highlight changes. Each revision is saved as a new version, leaving the original file intact. It renders the drawing after each step to identify issues such as overlapping text and misplaced annotations."
               },
               {
                 "t": "p",
-                "x": "CDS has also published a white paper, “Design of Experiments at the Concept Stage,” setting out a seven-step method leading to a traceable concept selection."
+                "x": "Nomic is rolling out add-ins for Autodesk Revit and AutoCAD. In Revit, the agent can identify clashes between ductwork and structural framing and resolve some of those clashes; within AutoCAD, it can generate details or implement revisions in an open drawing. In both applications, changes require human approval before being implemented."
+              },
+              {
+                "t": "p",
+                "x": "Nomic's drafting capabilities are available now. The Revit and AutoCAD add-ins are currently being rolled out to customers."
               }
             ]
           }
         },
         "ko": {
-          "headline": "CDS 2.3, 실험\n설계 자동화 추가",
-          "body": "CDS 2.3이 변수를 훑어 변형안을 만들고 구조·제조·비용·CO2로 평가한다.",
-          "mini_headline": "CDS 2.3, 변형안 평가",
+          "headline": "Nomic AI 에이전트가\n편집형 CAD 도면 그린다",
+          "body": "Nomic 에이전트가 자연어 요청을 CAD 표준 DWG/DXF와 PDF로 그린다.",
+          "mini_headline": "Nomic 에이전트가 CAD 제도",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
               },
               {
                 "t": "p",
-                "x": "Cognitive Design Systems(CDS)가 AI-powered(AI 기반) 엔지니어링 플랫폼 최신판 Cognitive Design 2.3을 내놨다. 핵심은 자동화된 Design of Experiments(DoE)다. 엔지니어링 팀은 콘셉트 단계부터 Preliminary Design Review(PDR)까지 설계 대안을 체계적으로 탐색할 수 있다."
+                "x": "AEC 업계용 AI-powered 도면 검토 소프트웨어를 만드는 Nomic이 플랫폼에 CAD 자동 제도 기능을 더했다. 원하는 도면을 자연어로 설명하거나 고칠 기존 도면을 넣으면 AI 에이전트가 편집 가능한 CAD 파일과 검토용 PDF 출력본을 함께 돌려준다."
               },
               {
                 "t": "p",
-                "x": "CEO Rhushik Matroja는 “수십 년 동안 DoE는 엔지니어링 워크플로의 후반, 즉 주요 설계 선택이 이미 끝나 모든 변경에 큰 비용이 드는 시점에야 쓰였다”며 “CDS는 부품에 관한 결정적 선택이 아직 열려 있는 콘셉트 단계에서 DoE가 가장 큰 가치를 낸다고 확신한다”고 말했다."
+                "x": "기존 도면 예시나 회사 표제란을 주면 Nomic은 레이어, 선 굵기, 해칭, 블록, 텍스트·치수 스타일 같은 기존 CAD 표준에 맞춰 도면을 그린다. 소프트웨어는 DWG, DXF, DGN 형식을 지원한다."
               },
               {
                 "t": "p",
-                "x": "엔지니어가 설계 파라미터와 범위를 정하면 소프트웨어가 그 한도 안에서 파라메트릭 스윕을 자동으로 돌린다. 설계 변형안을 하나씩 만들어 구조, 제조, 비용, CO2 기준으로 평가하는 방식이다. 변형안은 모두 Design Explorer에 모인다. 설계자는 여기서 트레이드오프를 비교하고 요구 사항에 맞춰 후보를 걸러 내며, 완전한 추적성을 근거로 선택한 콘셉트를 설명할 수 있다."
+                "x": "에이전트는 도면 검토 의견서를 읽고 해당 도면을 고친 뒤 바뀐 부분에 리비전 클라우드를 자동으로 그려 넣는다. 수정할 때마다 새 버전으로 저장하므로 원본 파일은 그대로 남는다. 단계마다 도면을 렌더링해 글자 겹침이나 주석 위치 오류 같은 문제도 잡아낸다."
               },
               {
                 "t": "p",
-                "x": "CDS는 추적 가능한 콘셉트 선정까지 이어지는 일곱 단계 방법을 담은 백서 “Design of Experiments at the Concept Stage”도 공개했다."
+                "x": "Nomic은 Autodesk Revit과 AutoCAD용 애드인도 배포한다. Revit에서는 덕트와 구조 프레임 사이 간섭을 찾아 일부를 해결하고, AutoCAD에서는 열린 도면에 상세도를 그리거나 수정 사항을 반영한다. 어느 쪽이든 사람이 승인해야 변경이 적용된다."
+              },
+              {
+                "t": "p",
+                "x": "Nomic의 제도 기능은 지금 바로 쓸 수 있다. Revit과 AutoCAD 애드인은 현재 고객에게 차례로 배포되고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "CDS 2.3が\n実験計画を自動化",
-          "body": "CDS 2.3は変数を掃引して案を生成し、構造・製造・コスト・CO2で評価する。",
-          "mini_headline": "CDS 2.3が設計案を評価",
+          "headline": "NomicのAIエージェント\n編集可能なCAD図面を作成",
+          "body": "Nomicのエージェントは依頼から社内CAD標準の編集可能なDWG/DXFとPDFを作る。",
+          "mini_headline": "Nomicのエージェント、CADを製図",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
               },
               {
                 "t": "p",
-                "x": "Cognitive Design Systems（CDS）は、AI-powered（AI搭載）エンジニアリングプラットフォームの最新版Cognitive Design 2.3をリリースした。目玉機能は自動化されたDesign of Experiments（DoE）で、エンジニアリングチームはコンセプト段階からPreliminary Design Review（PDR）まで、設計の代替案を体系的に検討できる。"
+                "x": "AEC業界向けにAI-poweredの図面レビューソフトを開発するNomicが、プラットフォームにCAD製図の自動化機能を加えた。ユーザーが図面を自然言語で説明するか、修正したい既存図面を渡すと、AIエージェントが編集可能なCADファイルとレビュー用に出力したPDFを返す。"
               },
               {
                 "t": "p",
-                "x": "CEOのRhushik Matrojaは「数十年にわたり、DoEは主要な設計上の選択がすでに済み、あらゆる変更が高くつくようになった、エンジニアリングワークフローの終盤で使われてきた」と述べ、「CDSは、部品に関する決定的な選択がまだ開かれているコンセプト段階でこそ、DoEが最大の価値を発揮すると確信している」と語った。"
+                "x": "既存図面の例や社内の表題欄を与えれば、レイヤー、線の太さ、ハッチング、ブロック、文字・寸法スタイルといった既定のCAD標準に従う図面をNomicに作らせることができる。ソフトはDWG、DXF、DGNに対応する。"
               },
               {
                 "t": "p",
-                "x": "エンジニアが設計パラメータとその範囲を定義すると、ソフトウェアがその範囲内でパラメトリックスイープを自動で実行し、各設計バリアントを生成して、構造、製造、コスト、CO2の基準で評価する。すべてのバリアントはDesign Explorerに集約され、設計者はトレードオフを比較し、要件に照らして候補を絞り込み、完全なトレーサビリティをもって選んだコンセプトの妥当性を示せる。"
+                "x": "エージェントは図面審査の指摘書を読み取り、該当する図面を修正し、変更箇所を示すリビジョンクラウドを自動で付ける。修正のたびに新しいバージョンとして保存され、元のファイルはそのまま残る。各ステップの後に図面をレンダリングし、文字の重なりや注記の位置ずれといった問題を見つける。"
               },
               {
                 "t": "p",
-                "x": "CDSはまた、追跡可能なコンセプト選定に至る七つのステップの手法をまとめたホワイトペーパー「Design of Experiments at the Concept Stage」も公開した。"
+                "x": "NomicはAutodesk RevitとAutoCAD向けのアドインを順次提供している。Revitではダクトと構造フレームの干渉を検出し、その一部を解消できる。AutoCADでは開いている図面に詳細図を作成したり、修正を反映したりできる。どちらのアプリでも、変更の適用には人の承認が必要だ。"
+              },
+              {
+                "t": "p",
+                "x": "Nomicの製図機能はすでに利用できる。RevitとAutoCADのアドインは現在、顧客向けに順次展開中だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CDS 2.3新增\n自动化实验设计",
-          "body": "CDS 2.3可自动扫描参数、生成方案，并按结构、制造、成本和CO2逐一评分。",
-          "mini_headline": "CDS 2.3为方案评分",
+          "headline": "Nomic的AI智能体\n能绘制可编辑CAD图纸",
+          "body": "Nomic智能体可将自然语言需求转为符合企业CAD标准的可编辑DWG/DXF文件和PDF。",
+          "mini_headline": "Nomic智能体绘制CAD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
               },
               {
                 "t": "p",
-                "x": "Cognitive Design Systems（CDS）发布了其AI-powered（AI驱动）工程平台的最新版本Cognitive Design 2.3。其核心功能是自动化的Design of Experiments（DoE），让工程团队能在概念阶段直至Preliminary Design Review（PDR）期间系统地探索设计备选方案。"
+                "x": "Nomic是面向AEC行业的AI-powered图纸审查软件开发商，现已将平台扩展到自动CAD绘图。用户可用自然语言描述所需图纸，或提供需要修改的现有图纸，AI智能体会返回可编辑的CAD文件，并附上供审阅的出图PDF。"
               },
               {
                 "t": "p",
-                "x": "CEO Rhushik Matroja表示：“几十年来，DoE一直在工程流程的后期才登场，那时主要的设计选择已经确定，任何改动都代价高昂。”他还说：“CDS坚信，DoE在概念阶段价值最大，因为那时零件的关键选择仍未敲定。”"
+                "x": "用户提供现有图纸示例或公司图框后，即可让Nomic生成符合既定CAD标准的图纸，包括图层、线宽、填充、图块、文字和标注样式。该软件支持DWG、DXF和DGN。"
               },
               {
                 "t": "p",
-                "x": "工程师定义设计参数及其范围，软件随后在这些限制内自动执行参数扫描，生成每个设计变体，并按结构、制造、成本和CO2标准进行评估。所有变体汇集在Design Explorer中，设计人员可以比较权衡、按需求筛选候选方案，并以完整的可追溯性论证所选概念。"
+                "x": "智能体能解读图纸审查意见书，修改受影响的图纸，并自动添加修订云线以标出改动。每次修订都另存为新版本，原文件保持不变。它在每一步之后都会渲染图纸，以发现文字重叠、注释错位等问题。"
               },
               {
                 "t": "p",
-                "x": "CDS还发布了白皮书《Design of Experiments at the Concept Stage》，提出一套通向可追溯概念选择的七步方法。"
+                "x": "Nomic正在推出Autodesk Revit和AutoCAD插件。在Revit中，智能体可识别风管与结构框架之间的碰撞，并解决其中一部分；在AutoCAD中，它可在打开的图纸里生成详图或落实修订。在这两款软件中，改动都须经人工批准后才会生效。"
+              },
+              {
+                "t": "p",
+                "x": "Nomic的绘图功能现已上线。Revit和AutoCAD插件正陆续向客户推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cognitive Design 2.3 suma\nexperimentos automatizados",
-          "body": "Cognitive Design 2.3 recorre parámetros, genera variantes y evalúa cada una por estructura, fabricación, costo y CO2.",
-          "mini_headline": "CDS 2.3 evalúa variantes",
+          "headline": "Los agentes AI de Nomic ya\ncrean planos CAD editables",
+          "body": "El agente de Nomic convierte una petición escrita en un DWG/DXF editable y un PDF fieles al estándar CAD corporativo.",
+          "mini_headline": "Los agentes de Nomic delinean en CAD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
               },
               {
                 "t": "p",
-                "x": "Cognitive Design Systems (CDS) lanza Cognitive Design 2.3, la versión más reciente de su plataforma de ingeniería AI-powered (impulsada por AI). Su función principal es el Design of Experiments (DoE) automatizado, que permite a los equipos de ingeniería explorar alternativas de diseño de forma sistemática durante la fase de concepto, hasta la Preliminary Design Review (PDR)."
+                "x": "Nomic, desarrolladora de software AI-powered de revisión de planos para el sector AEC, ha ampliado su plataforma con delineación CAD automatizada. Los usuarios pueden describir un plano en lenguaje natural o aportar un plano existente para revisarlo, y el agente de AI devuelve un archivo CAD editable junto con un PDF trazado para su revisión."
               },
               {
                 "t": "p",
-                "x": "“Durante décadas, el DoE ha entrado en juego tarde en el flujo de trabajo de ingeniería, cuando las principales decisiones de diseño ya se han tomado y cada cambio se ha vuelto costoso”, dijo el CEO Rhushik Matroja. “En CDS estamos convencidos de que el DoE aporta su mayor valor en la fase de concepto, cuando las decisiones clave sobre una pieza aún están abiertas”."
+                "x": "Al aportar ejemplos de planos existentes o el cajetín de la empresa, los usuarios pueden indicar a Nomic que genere planos que respeten los estándares CAD establecidos, incluidos capas, grosores de línea, sombreados, bloques y estilos de texto y de cota. El software admite DWG, DXF y DGN."
               },
               {
                 "t": "p",
-                "x": "Los ingenieros definen los parámetros de diseño y sus rangos; después, el software realiza automáticamente el barrido paramétrico dentro de esos límites, genera cada variante de diseño y la evalúa según criterios estructurales, de fabricación, de costo y de CO2. Todas las variantes se reúnen en Design Explorer, donde los diseñadores pueden comparar compensaciones, filtrar candidatos según los requisitos y justificar el concepto elegido con plena trazabilidad."
+                "x": "El agente puede interpretar cartas de revisión de planos, corregir los planos afectados y añadir automáticamente nubes de revisión para resaltar los cambios. Cada revisión se guarda como una nueva versión y el archivo original queda intacto. Tras cada paso, renderiza el plano para detectar problemas como textos superpuestos o anotaciones mal colocadas."
               },
               {
                 "t": "p",
-                "x": "CDS también ha publicado un libro blanco, “Design of Experiments at the Concept Stage”, que expone un método de siete pasos para llegar a una selección de concepto trazable."
+                "x": "Nomic está desplegando complementos para Autodesk Revit y AutoCAD. En Revit, el agente puede detectar interferencias entre conductos y estructura y resolver algunas de ellas; en AutoCAD, puede generar detalles o aplicar revisiones en un plano abierto. En ambas aplicaciones, los cambios requieren la aprobación de una persona antes de aplicarse."
+              },
+              {
+                "t": "p",
+                "x": "Las funciones de delineación de Nomic ya están disponibles. Los complementos para Revit y AutoCAD se están desplegando entre los clientes."
               }
             ]
           }
@@ -1139,121 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "CDS 2.3, 실험\n설계 자동화 추가",
-          "body": "CDS 2.3은 변수를 훑어 변형안을 만들고 구조·제조·비용·CO2로 평가한다.",
-          "mini_headline": "CDS 2.3, 변형안 평가",
+          "headline": "Nomic AI 에이전트가\n편집형 CAD 도면 작성",
+          "body": "Nomic 에이전트는 자연어 요청을 CAD 표준 DWG/DXF와 PDF로 만든다.",
+          "mini_headline": "Nomic 에이전트, CAD 제도",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
               },
               {
                 "t": "p",
-                "x": "Cognitive Design Systems(CDS)가 AI-powered(AI 기반) 엔지니어링 플랫폼의 최신 버전인 Cognitive Design 2.3을 출시했다. 핵심 기능은 자동화된 Design of Experiments(DoE)로, 엔지니어링 팀이 콘셉트 단계부터 Preliminary Design Review(PDR)까지 설계 대안을 체계적으로 탐색할 수 있게 한다."
+                "x": "AEC 업계용 AI-powered 도면 검토 소프트웨어를 만드는 Nomic이 플랫폼에 CAD 자동 제도 기능을 더했다. 사용자가 원하는 도면을 자연어로 설명하거나 수정할 기존 도면을 넣으면, AI 에이전트가 편집 가능한 CAD 파일과 검토용으로 출력한 PDF를 함께 돌려준다."
               },
               {
                 "t": "p",
-                "x": "CEO Rhushik Matroja는 “수십 년 동안 DoE는 엔지니어링 워크플로의 후반, 즉 주요 설계 선택이 이미 끝나 모든 변경에 큰 비용이 드는 시점에야 쓰였다”며 “CDS는 부품에 관한 결정적 선택이 아직 열려 있는 콘셉트 단계에서 DoE가 가장 큰 가치를 낸다고 확신한다”고 말했다."
+                "x": "기존 도면 예시나 회사 표제란을 제공하면 Nomic이 레이어, 선 굵기, 해칭, 블록, 텍스트·치수 스타일 등 기존 CAD 표준을 따르는 도면을 만들도록 지시할 수 있다. 소프트웨어는 DWG, DXF, DGN을 지원한다."
               },
               {
                 "t": "p",
-                "x": "엔지니어가 설계 파라미터와 범위를 정하면 소프트웨어가 그 한도 안에서 파라메트릭 스윕을 자동으로 수행해 각 설계 변형안을 만들고 구조, 제조, 비용, CO2 기준으로 평가한다. 모든 변형안은 Design Explorer에 모이며, 설계자는 여기서 트레이드오프를 비교하고 요구 사항에 맞춰 후보를 걸러 내고 완전한 추적성을 바탕으로 선택한 콘셉트의 근거를 제시할 수 있다."
+                "x": "에이전트는 도면 검토 의견서를 해석해 해당 도면을 고치고, 변경 부분을 표시하는 리비전 클라우드를 자동으로 추가한다. 수정본은 매번 새 버전으로 저장되어 원본 파일은 그대로 남는다. 단계마다 도면을 렌더링해 글자 겹침이나 주석 위치 오류 같은 문제를 찾아낸다."
               },
               {
                 "t": "p",
-                "x": "CDS는 추적 가능한 콘셉트 선정으로 이어지는 일곱 단계 방법을 담은 백서 “Design of Experiments at the Concept Stage”도 공개했다."
+                "x": "Nomic은 Autodesk Revit과 AutoCAD용 애드인을 배포하고 있다. Revit에서는 덕트와 구조 프레임 사이의 간섭을 찾아 그중 일부를 해결하고, AutoCAD에서는 열린 도면에 상세도를 만들거나 수정 사항을 반영한다. 두 프로그램 모두 변경 사항은 사람이 승인해야 적용된다."
+              },
+              {
+                "t": "p",
+                "x": "Nomic의 제도 기능은 지금 바로 쓸 수 있다. Revit과 AutoCAD 애드인은 현재 고객에게 순차 배포 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "CDS 2.3が\n実験計画を自動化",
-          "body": "CDS 2.3は変数を掃引して案を生成し、構造・製造・コスト・CO2で評価する。",
-          "mini_headline": "CDS 2.3が設計案を評価",
+          "headline": "NomicのAIエージェント\n編集可能なCAD図面を作成",
+          "body": "Nomicのエージェントは依頼から社内CAD標準の編集可能なDWG/DXFとPDFを作る。",
+          "mini_headline": "Nomicのエージェント、CADを製図",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
               },
               {
                 "t": "p",
-                "x": "Cognitive Design Systems（CDS）は、AI-powered（AI搭載）エンジニアリングプラットフォームの最新版Cognitive Design 2.3をリリースした。目玉機能は自動化されたDesign of Experiments（DoE）で、エンジニアリングチームはコンセプト段階からPreliminary Design Review（PDR）まで、設計の代替案を体系的に検討できる。"
+                "x": "AEC業界向けにAI-poweredの図面レビューソフトを開発するNomicが、プラットフォームにCAD製図の自動化機能を加えた。ユーザーが図面を自然言語で説明するか、修正したい既存図面を渡すと、AIエージェントが編集可能なCADファイルとレビュー用に出力したPDFを返す。"
               },
               {
                 "t": "p",
-                "x": "CEOのRhushik Matrojaは「数十年にわたり、DoEは主要な設計上の選択がすでに済み、あらゆる変更が高くつくようになった、エンジニアリングワークフローの終盤で使われてきた」と述べ、「CDSは、部品に関する決定的な選択がまだ開かれているコンセプト段階でこそ、DoEが最大の価値を発揮すると確信している」と語った。"
+                "x": "既存図面の例や社内の表題欄を与えれば、レイヤー、線の太さ、ハッチング、ブロック、文字・寸法スタイルといった既定のCAD標準に従う図面をNomicに作らせることができる。ソフトはDWG、DXF、DGNに対応する。"
               },
               {
                 "t": "p",
-                "x": "エンジニアが設計パラメータとその範囲を定義すると、ソフトウェアがその範囲内でパラメトリックスイープを自動で実行し、各設計バリアントを生成して、構造、製造、コスト、CO2の基準で評価する。すべてのバリアントはDesign Explorerに集約され、設計者はトレードオフを比較し、要件に照らして候補を絞り込み、完全なトレーサビリティをもって選んだコンセプトの妥当性を示せる。"
+                "x": "エージェントは図面審査の指摘書を読み取り、該当する図面を修正し、変更箇所を示すリビジョンクラウドを自動で付ける。修正のたびに新しいバージョンとして保存され、元のファイルはそのまま残る。各ステップの後に図面をレンダリングし、文字の重なりや注記の位置ずれといった問題を見つける。"
               },
               {
                 "t": "p",
-                "x": "CDSはまた、追跡可能なコンセプト選定に至る七つのステップの手法をまとめたホワイトペーパー「Design of Experiments at the Concept Stage」も公開した。"
+                "x": "NomicはAutodesk RevitとAutoCAD向けのアドインを順次提供している。Revitではダクトと構造フレームの干渉を検出し、その一部を解消できる。AutoCADでは開いている図面に詳細図を作成したり、修正を反映したりできる。どちらのアプリでも、変更の適用には人の承認が必要だ。"
+              },
+              {
+                "t": "p",
+                "x": "Nomicの製図機能はすでに利用できる。RevitとAutoCADのアドインは現在、顧客向けに順次展開中だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CDS 2.3新增\n自动化实验设计",
-          "body": "CDS 2.3可自动扫描参数、生成方案，并按结构、制造、成本和CO2逐一评分。",
-          "mini_headline": "CDS 2.3为方案评分",
+          "headline": "Nomic的AI智能体\n能绘制可编辑CAD图纸",
+          "body": "Nomic智能体可将自然语言需求转为符合企业CAD标准的可编辑DWG/DXF文件和PDF。",
+          "mini_headline": "Nomic智能体绘制CAD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
               },
               {
                 "t": "p",
-                "x": "Cognitive Design Systems（CDS）发布了其AI-powered（AI驱动）工程平台的最新版本Cognitive Design 2.3。其核心功能是自动化的Design of Experiments（DoE），让工程团队能在概念阶段直至Preliminary Design Review（PDR）期间系统地探索设计备选方案。"
+                "x": "Nomic是面向AEC行业的AI-powered图纸审查软件开发商，现已将平台扩展到自动CAD绘图。用户可用自然语言描述所需图纸，或提供需要修改的现有图纸，AI智能体会返回可编辑的CAD文件，并附上供审阅的出图PDF。"
               },
               {
                 "t": "p",
-                "x": "CEO Rhushik Matroja表示：“几十年来，DoE一直在工程流程的后期才登场，那时主要的设计选择已经确定，任何改动都代价高昂。”他还说：“CDS坚信，DoE在概念阶段价值最大，因为那时零件的关键选择仍未敲定。”"
+                "x": "用户提供现有图纸示例或公司图框后，即可让Nomic生成符合既定CAD标准的图纸，包括图层、线宽、填充、图块、文字和标注样式。该软件支持DWG、DXF和DGN。"
               },
               {
                 "t": "p",
-                "x": "工程师定义设计参数及其范围，软件随后在这些限制内自动执行参数扫描，生成每个设计变体，并按结构、制造、成本和CO2标准进行评估。所有变体汇集在Design Explorer中，设计人员可以比较权衡、按需求筛选候选方案，并以完整的可追溯性论证所选概念。"
+                "x": "智能体能解读图纸审查意见书，修改受影响的图纸，并自动添加修订云线以标出改动。每次修订都另存为新版本，原文件保持不变。它在每一步之后都会渲染图纸，以发现文字重叠、注释错位等问题。"
               },
               {
                 "t": "p",
-                "x": "CDS还发布了白皮书《Design of Experiments at the Concept Stage》，提出一套通向可追溯概念选择的七步方法。"
+                "x": "Nomic正在推出Autodesk Revit和AutoCAD插件。在Revit中，智能体可识别风管与结构框架之间的碰撞，并解决其中一部分；在AutoCAD中，它可在打开的图纸里生成详图或落实修订。在这两款软件中，改动都须经人工批准后才会生效。"
+              },
+              {
+                "t": "p",
+                "x": "Nomic的绘图功能现已上线。Revit和AutoCAD插件正陆续向客户推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cognitive Design 2.3 suma\nexperimentos automatizados",
-          "body": "Cognitive Design 2.3 recorre parámetros, genera variantes y evalúa cada una por estructura, fabricación, costo y CO2.",
-          "mini_headline": "CDS 2.3 evalúa variantes",
+          "headline": "Los agentes AI de Nomic ya\ncrean planos CAD editables",
+          "body": "El agente de Nomic convierte una petición escrita en un DWG/DXF editable y un PDF fieles al estándar CAD corporativo.",
+          "mini_headline": "Los agentes de Nomic delinean en CAD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
               },
               {
                 "t": "p",
-                "x": "Cognitive Design Systems (CDS) lanza Cognitive Design 2.3, la versión más reciente de su plataforma de ingeniería AI-powered (impulsada por AI). Su función principal es el Design of Experiments (DoE) automatizado, que permite a los equipos de ingeniería explorar alternativas de diseño de forma sistemática durante la fase de concepto, hasta la Preliminary Design Review (PDR)."
+                "x": "Nomic, desarrolladora de software AI-powered de revisión de planos para el sector AEC, ha ampliado su plataforma con delineación CAD automatizada. Los usuarios pueden describir un plano en lenguaje natural o aportar un plano existente para revisarlo, y el agente de AI devuelve un archivo CAD editable junto con un PDF trazado para su revisión."
               },
               {
                 "t": "p",
-                "x": "“Durante décadas, el DoE ha entrado en juego tarde en el flujo de trabajo de ingeniería, cuando las principales decisiones de diseño ya se han tomado y cada cambio se ha vuelto costoso”, dijo el CEO Rhushik Matroja. “En CDS estamos convencidos de que el DoE aporta su mayor valor en la fase de concepto, cuando las decisiones clave sobre una pieza aún están abiertas”."
+                "x": "Al aportar ejemplos de planos existentes o el cajetín de la empresa, los usuarios pueden indicar a Nomic que genere planos que respeten los estándares CAD establecidos, incluidos capas, grosores de línea, sombreados, bloques y estilos de texto y de cota. El software admite DWG, DXF y DGN."
               },
               {
                 "t": "p",
-                "x": "Los ingenieros definen los parámetros de diseño y sus rangos; después, el software realiza automáticamente el barrido paramétrico dentro de esos límites, genera cada variante de diseño y la evalúa según criterios estructurales, de fabricación, de costo y de CO2. Todas las variantes se reúnen en Design Explorer, donde los diseñadores pueden comparar compensaciones, filtrar candidatos según los requisitos y justificar el concepto elegido con plena trazabilidad."
+                "x": "El agente puede interpretar cartas de revisión de planos, corregir los planos afectados y añadir automáticamente nubes de revisión para resaltar los cambios. Cada revisión se guarda como una nueva versión y el archivo original queda intacto. Tras cada paso, renderiza el plano para detectar problemas como textos superpuestos o anotaciones mal colocadas."
               },
               {
                 "t": "p",
-                "x": "CDS también ha publicado un libro blanco, “Design of Experiments at the Concept Stage”, que expone un método de siete pasos para llegar a una selección de concepto trazable."
+                "x": "Nomic está desplegando complementos para Autodesk Revit y AutoCAD. En Revit, el agente puede detectar interferencias entre conductos y estructura y resolver algunas de ellas; en AutoCAD, puede generar detalles o aplicar revisiones en un plano abierto. En ambas aplicaciones, los cambios requieren la aprobación de una persona antes de aplicarse."
+              },
+              {
+                "t": "p",
+                "x": "Las funciones de delineación de Nomic ya están disponibles. Los complementos para Revit y AutoCAD se están desplegando entre los clientes."
               }
             ]
           }
@@ -1261,189 +355,213 @@
       }
     },
     {
-      "id": "claude-artifacts-desktop-apps",
+      "id": "canva-mcp-agent-apis",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Artifacts, 이제\n설치형 데스크톱 앱",
-      "body": "Claude Artifacts가 Mac·Windows용 베타 앱으로 설치된다.",
-      "mini_headline": "Claude Artifacts, 데스크톱으로",
-      "tool": "AI Workflow",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
-      "accent": "#ff2d55",
+      "headline": "Canva, 디자인 도구를\n외부 AI 에이전트에 연다",
+      "body": "Canva가 MCP 서버를 정식 출시하며 에이전트용 APIs와 CLI도 내놨다.",
+      "mini_headline": "Canva, AI 에이전트에 개방",
+      "tool": "Figma",
+      "source": "Dataconomy",
+      "url": "https://dataconomy.com/2026/11/25/canva-opens-design-tools-to-ai-agents-and-developers/",
+      "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+            "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
           },
           {
             "t": "p",
-            "x": "Anthropic이 Claude Artifacts를 Mac이나 Windows 앱으로 설치할 수 있게 했다. 오늘부터 베타로 제공되며, macOS 또는 Windows용 Claude 최신 버전이 있어야 한다. 채팅에서 Artifact를 만들면 코드 한 줄 쓰지 않고 독에 둘 수 있다."
+            "x": "Canva가 Model Context Protocol 서버를 정식 출시했다. AI 에이전트와 외부 개발자가 다른 소프트웨어 안에서 Canva 디자인 도구를 쓰도록 새 APIs도 내놓았다. Anthropic과 새로 손잡으면서 Canva가 Claude 안의 디자인 레이어가 된다는 게 회사 설명이다."
           },
           {
             "t": "p",
-            "x": "설치된 앱은 OS APIs와 커넥터, Claude 자체를 쓸 수 있다. 그래서 메뉴 막대 항목을 추가하거나 투명한 창을 만들고 알림을 보내는 일도 가능하다. 사용자 지정 터미널, 파일 관리자, 동영상 편집기가 그 예이고, 직접 써 볼 데모도 여럿 있다."
-          },
-          {
-            "t": "video",
-            "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+            "x": "Canva는 MCP 서버를 에이전트가 일하는 방식에 맞춰 새로 짰다. 겹치는 도구를 합쳐 작은 모델로 돌아가는 에이전트도 알맞은 기능을 고르기 쉽게 했다. 에이전트는 편집 가능한 디자인·이미지·영상을 만들고, 배경을 지우고, 평면 이미지를 레이어 파일로 바꾸며, 완성본 크기를 조정하거나 내보낸다."
           },
           {
             "t": "p",
-            "x": "Anthropic의 Felix Rieseberg는 X에 당분간 Claude 계정과 Claude 앱이 필요하지만 무료 계정이면 충분하다고 썼다. Apple Developer 계정이 있으면 Claude에게 독립 실행형 앱을 만들게 할 수도 있다."
+            "x": "채팅으로 Instagram 게시물을 요청하면 브랜드 색상과 폰트가 적용된 편집 가능한 Canva 디자인이 나온다. 보이스오버를 넣은 짧은 제품 영상도 만들어 편집 가능한 타임라인으로 돌려준다."
+          },
+          {
+            "t": "p",
+            "x": "개발자는 새 REST APIs로 같은 기능을 쓰고, 명령줄 도구로 대량 작업도 처리한다. 새 서비스 계정과 API 과금 방식이 생겨 직원이 로그인하지 않아도 자동화 워크플로가 돌아간다. Canva는 자체 이미지 생성 모델 Craft도 API와 MCP로 연다."
+          },
+          {
+            "t": "p",
+            "x": "Canva에 따르면 10월 이후 MCP로 들어온 가입자는 500,000명에 가깝고, 사용량은 한 달 새 93% 늘었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Claude Artifacts become\ninstallable desktop apps",
-          "body": "Claude Artifacts built in chat now install as beta Mac and Windows apps that can use OS APIs and connectors.",
-          "mini_headline": "Claude Artifacts go desktop",
+          "headline": "Canva opens its design tools\nto outside AI agents",
+          "body": "Canva made its MCP server generally available and added APIs and a CLI so outside agents can build editable designs.",
+          "mini_headline": "Canva opens to AI agents",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
               },
               {
                 "t": "p",
-                "x": "Anthropic now lets you install Claude Artifacts as Mac or Windows apps. The feature is in beta as of today and requires the latest version of Claude for macOS or Windows. You build an Artifact in chat and keep it in the dock without writing any code."
+                "x": "Canva has made its Model Context Protocol server generally available and launched new APIs that let AI agents and outside developers use its design tools inside other software. The company said a new partnership with Anthropic makes Canva the design layer within Claude."
               },
               {
                 "t": "p",
-                "x": "The installed apps can use OS APIs, connectors, and Claude itself. That lets an app add menu bar items, create transparent windows, and send notifications, among other things. Examples include custom terminals, file managers, and video editors. Several demos are available to try."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+                "x": "Canva rebuilt its MCP server around agent behavior by combining overlapping tools so agents using smaller models can select the appropriate function. Agents can create editable designs, images and videos, remove backgrounds, convert flat images into layered files, and resize or export finished work."
               },
               {
                 "t": "p",
-                "x": "Anthropic's Felix Rieseberg wrote on X that you need a Claude account and the Claude app for now, though a free account is enough. If you have an Apple Developer account, you can also have Claude build a standalone app."
+                "x": "Users can request an Instagram post in a chat and receive an editable Canva design using a brand's colors and fonts. Agents can also create short product videos with voiceovers and return them on editable timelines."
+              },
+              {
+                "t": "p",
+                "x": "Developers can access the same functions through new REST APIs, while a command-line tool supports bulk work. New service accounts and API billing allow automated workflows to operate without an employee signed in. Canva is opening Craft, its in-house image-generation model, through the API and MCP."
+              },
+              {
+                "t": "p",
+                "x": "Canva said nearly 500,000 people have signed up through MCP since October, while usage grew 93% in one month."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Artifacts, 이제\n설치형 데스크톱 앱",
-          "body": "Claude Artifacts가 Mac·Windows용 베타 앱으로 설치된다.",
-          "mini_headline": "Claude Artifacts, 데스크톱으로",
+          "headline": "Canva, 디자인 도구를\n외부 AI 에이전트에 연다",
+          "body": "Canva가 MCP 서버를 정식 출시하며 에이전트용 APIs와 CLI도 내놨다.",
+          "mini_headline": "Canva, AI 에이전트에 개방",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
               },
               {
                 "t": "p",
-                "x": "Anthropic이 Claude Artifacts를 Mac이나 Windows 앱으로 설치할 수 있게 했다. 오늘부터 베타로 제공되며, macOS 또는 Windows용 Claude 최신 버전이 있어야 한다. 채팅에서 Artifact를 만들면 코드 한 줄 쓰지 않고 독에 둘 수 있다."
+                "x": "Canva가 Model Context Protocol 서버를 정식 출시했다. AI 에이전트와 외부 개발자가 다른 소프트웨어 안에서 Canva 디자인 도구를 쓰도록 새 APIs도 내놓았다. Anthropic과 새로 손잡으면서 Canva가 Claude 안의 디자인 레이어가 된다는 게 회사 설명이다."
               },
               {
                 "t": "p",
-                "x": "설치된 앱은 OS APIs와 커넥터, Claude 자체를 쓸 수 있다. 그래서 메뉴 막대 항목을 추가하거나 투명한 창을 만들고 알림을 보내는 일도 가능하다. 사용자 지정 터미널, 파일 관리자, 동영상 편집기가 그 예이고, 직접 써 볼 데모도 여럿 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+                "x": "Canva는 MCP 서버를 에이전트가 일하는 방식에 맞춰 새로 짰다. 겹치는 도구를 합쳐 작은 모델로 돌아가는 에이전트도 알맞은 기능을 고르기 쉽게 했다. 에이전트는 편집 가능한 디자인·이미지·영상을 만들고, 배경을 지우고, 평면 이미지를 레이어 파일로 바꾸며, 완성본 크기를 조정하거나 내보낸다."
               },
               {
                 "t": "p",
-                "x": "Anthropic의 Felix Rieseberg는 X에 당분간 Claude 계정과 Claude 앱이 필요하지만 무료 계정이면 충분하다고 썼다. Apple Developer 계정이 있으면 Claude에게 독립 실행형 앱을 만들게 할 수도 있다."
+                "x": "채팅으로 Instagram 게시물을 요청하면 브랜드 색상과 폰트가 적용된 편집 가능한 Canva 디자인이 나온다. 보이스오버를 넣은 짧은 제품 영상도 만들어 편집 가능한 타임라인으로 돌려준다."
+              },
+              {
+                "t": "p",
+                "x": "개발자는 새 REST APIs로 같은 기능을 쓰고, 명령줄 도구로 대량 작업도 처리한다. 새 서비스 계정과 API 과금 방식이 생겨 직원이 로그인하지 않아도 자동화 워크플로가 돌아간다. Canva는 자체 이미지 생성 모델 Craft도 API와 MCP로 연다."
+              },
+              {
+                "t": "p",
+                "x": "Canva에 따르면 10월 이후 MCP로 들어온 가입자는 500,000명에 가깝고, 사용량은 한 달 새 93% 늘었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Artifactsが\nデスクトップアプリに",
-          "body": "Claude ArtifactsをMac・Windowsアプリとして導入できる。",
-          "mini_headline": "Claude Artifactsがデスクトップへ",
+          "headline": "Canva、デザイン機能を\n外部AIエージェントに開放",
+          "body": "CanvaはMCPサーバーを正式公開し、外部エージェント向けにAPIsとCLIを追加した。",
+          "mini_headline": "Canva、AIエージェントに開放",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
               },
               {
                 "t": "p",
-                "x": "Anthropicは、Claude ArtifactsをMacまたはWindowsのアプリとしてインストールできるようにした。この機能は本日からベータ版として提供され、macOSまたはWindows向けClaudeの最新版が必要だ。チャットでArtifactを作り、コードを一切書かずにDockに置いておける。"
+                "x": "CanvaはModel Context Protocolサーバーを正式公開し、AIエージェントや外部開発者が他のソフトウェア内でCanvaのデザインツールを使える新しいAPIsを投入した。同社によると、Anthropicとの新たな提携により、CanvaはClaude内のデザインレイヤーになる。"
               },
               {
                 "t": "p",
-                "x": "インストールしたアプリは、OS APIs、コネクタ、そしてClaude自体を利用できる。これにより、メニューバー項目の追加、透明なウィンドウの作成、通知の送信などが可能になる。例としては、カスタムターミナル、ファイルマネージャー、動画エディタなどがある。試せるデモもいくつか用意されている。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+                "x": "CanvaはMCPサーバーをエージェントの動き方に合わせて作り直し、重複するツールをまとめて、小型モデルを使うエージェントでも適切な機能を選べるようにした。エージェントは編集可能なデザインや画像、動画を作り、背景を除去し、平面画像をレイヤー付きファイルに変換し、完成品のサイズ変更や書き出しもできる。"
               },
               {
                 "t": "p",
-                "x": "AnthropicのFelix RiesebergはXで、現時点ではClaudeアカウントとClaudeアプリが必要だが、無料アカウントで十分だと書いた。Apple Developerアカウントを持っていれば、Claudeにスタンドアロンアプリを作らせることもできる。"
+                "x": "ユーザーはチャットでInstagram投稿を頼むと、ブランドの色とフォントを使った編集可能なCanvaデザインを受け取れる。エージェントはナレーション付きの短い製品動画も作り、編集可能なタイムラインで返す。"
+              },
+              {
+                "t": "p",
+                "x": "開発者は新しいREST APIsで同じ機能を利用でき、コマンドラインツールで一括作業もこなせる。新しいサービスアカウントとAPI課金により、社員がサインインしていなくても自動化ワークフローが動く。Canvaは自社の画像生成モデルCraftもAPIとMCPで開放する。"
+              },
+              {
+                "t": "p",
+                "x": "Canvaによると、10月以降MCP経由で500,000人近くが登録し、利用はひと月で93%増えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Artifacts可装为\n桌面应用",
-          "body": "Claude Artifacts现可作为测试版Mac和Windows应用安装。",
-          "mini_headline": "Claude Artifacts登陆桌面",
+          "headline": "Canva向外部AI智能体\n开放设计工具",
+          "body": "Canva正式推出MCP服务器，并新增APIs和CLI，让外部智能体能生成可编辑设计。",
+          "mini_headline": "Canva向AI智能体开放",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
               },
               {
                 "t": "p",
-                "x": "Anthropic现在允许用户将Claude Artifacts安装为Mac或Windows应用。该功能自今日起以测试版形式推出，需要最新版的macOS或Windows版Claude。你可以在聊天中构建一个Artifact，无需编写任何代码就能把它放在程序坞中。"
+                "x": "Canva正式推出Model Context Protocol服务器，并发布新的APIs，让AI智能体和外部开发者能在其他软件中使用其设计工具。公司表示，与Anthropic的新合作使Canva成为Claude中的设计层。"
               },
               {
                 "t": "p",
-                "x": "安装后的应用可以使用OS APIs、连接器以及Claude本身。因此，应用可以添加菜单栏项目、创建透明窗口、发送通知等。示例包括自定义终端、文件管理器和视频编辑器，还有多个演示可供试用。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+                "x": "Canva围绕智能体的行为方式重建了MCP服务器，合并了功能重叠的工具，让使用较小模型的智能体也能选对功能。智能体可以创建可编辑的设计、图片和视频，去除背景，把平面图片转换为分层文件，并调整成品尺寸或导出。"
               },
               {
                 "t": "p",
-                "x": "Anthropic的Felix Rieseberg在X上写道，目前需要Claude账户和Claude应用，不过免费账户就足够。如果你拥有Apple Developer账户，还可以让Claude构建一个独立应用。"
+                "x": "用户可以在聊天中请求一条Instagram帖子，并收到采用品牌色彩和字体的可编辑Canva设计。智能体还能制作带旁白的产品短视频，并以可编辑时间线的形式返回。"
+              },
+              {
+                "t": "p",
+                "x": "开发者可通过新的REST APIs使用相同功能，命令行工具则支持批量作业。新的服务账户和API计费让自动化工作流无需员工登录即可运行。Canva还将通过API和MCP开放其自研图像生成模型Craft。"
+              },
+              {
+                "t": "p",
+                "x": "Canva表示，自10月以来已有近500,000人通过MCP注册，使用量在一个月内增长了93%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude Artifacts se convierten\nen apps de escritorio",
-          "body": "Los Claude Artifacts creados en el chat se instalan como apps beta para Mac y Windows que usan OS APIs y conectores.",
-          "mini_headline": "Claude Artifacts llega al escritorio",
+          "headline": "Canva abre sus herramientas\nde diseño a agentes AI externos",
+          "body": "Canva abrió a todos su servidor MCP y sumó APIs y una CLI para que agentes externos creen diseños editables.",
+          "mini_headline": "Canva se abre a agentes AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
               },
               {
                 "t": "p",
-                "x": "Anthropic ya permite instalar Claude Artifacts como apps para Mac o Windows. La función está en beta desde hoy y requiere la versión más reciente de Claude para macOS o Windows. Se crea un Artifact en el chat y se mantiene en el Dock sin escribir código."
+                "x": "Canva ha puesto a disposición general su servidor de Model Context Protocol y ha lanzado nuevas APIs que permiten a agentes de AI y a desarrolladores externos usar sus herramientas de diseño dentro de otro software. La empresa indicó que una nueva alianza con Anthropic convierte a Canva en la capa de diseño dentro de Claude."
               },
               {
                 "t": "p",
-                "x": "Las apps instaladas pueden usar OS APIs, conectores y el propio Claude. Eso permite a una app añadir elementos a la barra de menús, crear ventanas transparentes y enviar notificaciones, entre otras cosas. Entre los ejemplos hay terminales personalizadas, gestores de archivos y editores de video. Hay varias demos disponibles para probar."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+                "x": "Canva reconstruyó su servidor MCP en torno al comportamiento de los agentes, combinando herramientas que se solapaban para que los agentes que usan modelos más pequeños puedan elegir la función adecuada. Los agentes pueden crear diseños, imágenes y videos editables, eliminar fondos, convertir imágenes planas en archivos por capas y redimensionar o exportar el trabajo terminado."
               },
               {
                 "t": "p",
-                "x": "Felix Rieseberg, de Anthropic, escribió en X que por ahora se necesita una cuenta de Claude y la app de Claude, aunque basta con una cuenta gratuita. Con una cuenta de Apple Developer, también se puede pedir a Claude que cree una app independiente."
+                "x": "Los usuarios pueden pedir una publicación de Instagram en un chat y recibir un diseño editable de Canva con los colores y las fuentes de la marca. Los agentes también pueden crear videos cortos de producto con locución y entregarlos en líneas de tiempo editables."
+              },
+              {
+                "t": "p",
+                "x": "Los desarrolladores pueden acceder a las mismas funciones mediante nuevas REST APIs, mientras que una herramienta de línea de comandos permite el trabajo masivo. Las nuevas cuentas de servicio y la facturación por API permiten que los flujos automatizados funcionen sin un empleado con sesión iniciada. Canva abre Craft, su modelo propio de generación de imágenes, a través de la API y MCP."
+              },
+              {
+                "t": "p",
+                "x": "Canva dijo que casi 500,000 personas se han registrado a través de MCP desde octubre, mientras que el uso creció un 93% en un mes."
               }
             ]
           }
@@ -1451,121 +569,1203 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Artifacts, 이제\n설치형 데스크톱 앱",
-          "body": "Claude Artifacts가 Mac·Windows용 베타 앱으로 설치된다.",
-          "mini_headline": "Claude Artifacts, 데스크톱으로",
+          "headline": "Canva, 디자인 도구를\n외부 AI 에이전트에 개방",
+          "body": "Canva가 MCP 서버를 정식 출시하고 에이전트용 APIs와 CLI를 더했다.",
+          "mini_headline": "Canva, AI 에이전트에 개방",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
               },
               {
                 "t": "p",
-                "x": "Anthropic이 Claude Artifacts를 Mac이나 Windows 앱으로 설치할 수 있게 했다. 이 기능은 오늘부터 베타로 제공되며, macOS 또는 Windows용 Claude 최신 버전이 필요하다. 채팅에서 Artifact를 만들고, 코드를 한 줄도 쓰지 않고 독에 둘 수 있다."
+                "x": "Canva가 Model Context Protocol 서버를 정식 출시하고, AI 에이전트와 외부 개발자가 다른 소프트웨어 안에서 Canva 디자인 도구를 쓸 수 있는 새 APIs를 내놓았다. 회사는 Anthropic과의 새 파트너십으로 Canva가 Claude 안의 디자인 레이어가 된다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "설치된 앱은 OS APIs, 커넥터, 그리고 Claude 자체를 사용할 수 있다. 덕분에 앱이 메뉴 막대 항목을 추가하고, 투명한 창을 만들고, 알림을 보내는 등의 일을 할 수 있다. 사용자 지정 터미널, 파일 관리자, 동영상 편집기 등이 예시이며, 직접 써 볼 수 있는 데모도 여러 개 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+                "x": "Canva는 MCP 서버를 에이전트의 작동 방식에 맞춰 다시 만들었다. 겹치는 도구를 합쳐 작은 모델을 쓰는 에이전트도 알맞은 기능을 고를 수 있게 했다. 에이전트는 편집 가능한 디자인·이미지·영상을 만들고, 배경을 지우고, 평면 이미지를 레이어 파일로 바꾸고, 완성본의 크기를 조정하거나 내보낼 수 있다."
               },
               {
                 "t": "p",
-                "x": "Anthropic의 Felix Rieseberg는 X에 당분간은 Claude 계정과 Claude 앱이 필요하지만 무료 계정으로도 충분하다고 썼다. Apple Developer 계정이 있다면 Claude에게 독립 실행형 앱을 만들게 할 수도 있다."
+                "x": "사용자는 채팅에서 Instagram 게시물을 요청해 브랜드 색상과 폰트를 적용한 편집 가능한 Canva 디자인을 받을 수 있다. 에이전트는 보이스오버를 넣은 짧은 제품 영상도 만들어 편집 가능한 타임라인으로 돌려준다."
+              },
+              {
+                "t": "p",
+                "x": "개발자는 새 REST APIs로 같은 기능에 접근할 수 있고, 명령줄 도구로 대량 작업도 처리할 수 있다. 새 서비스 계정과 API 과금 방식 덕분에 직원이 로그인하지 않아도 자동화 워크플로가 돌아간다. Canva는 자체 이미지 생성 모델 Craft도 API와 MCP로 개방한다."
+              },
+              {
+                "t": "p",
+                "x": "Canva는 10월 이후 MCP를 통한 가입자가 500,000명 가까이 되며, 사용량은 한 달 만에 93% 늘었다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Artifactsが\nデスクトップアプリに",
-          "body": "Claude ArtifactsをMac・Windowsアプリとして導入できる。",
-          "mini_headline": "Claude Artifactsがデスクトップへ",
+          "headline": "Canva、デザイン機能を\n外部AIエージェントに開放",
+          "body": "CanvaはMCPサーバーを正式公開し、外部エージェント向けにAPIsとCLIを追加した。",
+          "mini_headline": "Canva、AIエージェントに開放",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
               },
               {
                 "t": "p",
-                "x": "Anthropicは、Claude ArtifactsをMacまたはWindowsのアプリとしてインストールできるようにした。この機能は本日からベータ版として提供され、macOSまたはWindows向けClaudeの最新版が必要だ。チャットでArtifactを作り、コードを一切書かずにDockに置いておける。"
+                "x": "CanvaはModel Context Protocolサーバーを正式公開し、AIエージェントや外部開発者が他のソフトウェア内でCanvaのデザインツールを使える新しいAPIsを投入した。同社によると、Anthropicとの新たな提携により、CanvaはClaude内のデザインレイヤーになる。"
               },
               {
                 "t": "p",
-                "x": "インストールしたアプリは、OS APIs、コネクタ、そしてClaude自体を利用できる。これにより、メニューバー項目の追加、透明なウィンドウの作成、通知の送信などが可能になる。例としては、カスタムターミナル、ファイルマネージャー、動画エディタなどがある。試せるデモもいくつか用意されている。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+                "x": "CanvaはMCPサーバーをエージェントの動き方に合わせて作り直し、重複するツールをまとめて、小型モデルを使うエージェントでも適切な機能を選べるようにした。エージェントは編集可能なデザインや画像、動画を作り、背景を除去し、平面画像をレイヤー付きファイルに変換し、完成品のサイズ変更や書き出しもできる。"
               },
               {
                 "t": "p",
-                "x": "AnthropicのFelix RiesebergはXで、現時点ではClaudeアカウントとClaudeアプリが必要だが、無料アカウントで十分だと書いた。Apple Developerアカウントを持っていれば、Claudeにスタンドアロンアプリを作らせることもできる。"
+                "x": "ユーザーはチャットでInstagram投稿を頼むと、ブランドの色とフォントを使った編集可能なCanvaデザインを受け取れる。エージェントはナレーション付きの短い製品動画も作り、編集可能なタイムラインで返す。"
+              },
+              {
+                "t": "p",
+                "x": "開発者は新しいREST APIsで同じ機能を利用でき、コマンドラインツールで一括作業もこなせる。新しいサービスアカウントとAPI課金により、社員がサインインしていなくても自動化ワークフローが動く。Canvaは自社の画像生成モデルCraftもAPIとMCPで開放する。"
+              },
+              {
+                "t": "p",
+                "x": "Canvaによると、10月以降MCP経由で500,000人近くが登録し、利用はひと月で93%増えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Artifacts可装为\n桌面应用",
-          "body": "Claude Artifacts现可作为测试版Mac和Windows应用安装。",
-          "mini_headline": "Claude Artifacts登陆桌面",
+          "headline": "Canva向外部AI智能体\n开放设计工具",
+          "body": "Canva正式推出MCP服务器，并新增APIs和CLI，让外部智能体能生成可编辑设计。",
+          "mini_headline": "Canva向AI智能体开放",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
               },
               {
                 "t": "p",
-                "x": "Anthropic现在允许用户将Claude Artifacts安装为Mac或Windows应用。该功能自今日起以测试版形式推出，需要最新版的macOS或Windows版Claude。你可以在聊天中构建一个Artifact，无需编写任何代码就能把它放在程序坞中。"
+                "x": "Canva正式推出Model Context Protocol服务器，并发布新的APIs，让AI智能体和外部开发者能在其他软件中使用其设计工具。公司表示，与Anthropic的新合作使Canva成为Claude中的设计层。"
               },
               {
                 "t": "p",
-                "x": "安装后的应用可以使用OS APIs、连接器以及Claude本身。因此，应用可以添加菜单栏项目、创建透明窗口、发送通知等。示例包括自定义终端、文件管理器和视频编辑器，还有多个演示可供试用。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+                "x": "Canva围绕智能体的行为方式重建了MCP服务器，合并了功能重叠的工具，让使用较小模型的智能体也能选对功能。智能体可以创建可编辑的设计、图片和视频，去除背景，把平面图片转换为分层文件，并调整成品尺寸或导出。"
               },
               {
                 "t": "p",
-                "x": "Anthropic的Felix Rieseberg在X上写道，目前需要Claude账户和Claude应用，不过免费账户就足够。如果你拥有Apple Developer账户，还可以让Claude构建一个独立应用。"
+                "x": "用户可以在聊天中请求一条Instagram帖子，并收到采用品牌色彩和字体的可编辑Canva设计。智能体还能制作带旁白的产品短视频，并以可编辑时间线的形式返回。"
+              },
+              {
+                "t": "p",
+                "x": "开发者可通过新的REST APIs使用相同功能，命令行工具则支持批量作业。新的服务账户和API计费让自动化工作流无需员工登录即可运行。Canva还将通过API和MCP开放其自研图像生成模型Craft。"
+              },
+              {
+                "t": "p",
+                "x": "Canva表示，自10月以来已有近500,000人通过MCP注册，使用量在一个月内增长了93%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude Artifacts se convierten\nen apps de escritorio",
-          "body": "Los Claude Artifacts creados en el chat se instalan como apps beta para Mac y Windows que usan OS APIs y conectores.",
-          "mini_headline": "Claude Artifacts llega al escritorio",
+          "headline": "Canva abre sus herramientas\nde diseño a agentes AI externos",
+          "body": "Canva abrió a todos su servidor MCP y sumó APIs y una CLI para que agentes externos creen diseños editables.",
+          "mini_headline": "Canva se abre a agentes AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png"
+                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
               },
               {
                 "t": "p",
-                "x": "Anthropic ya permite instalar Claude Artifacts como apps para Mac o Windows. La función está en beta desde hoy y requiere la versión más reciente de Claude para macOS o Windows. Se crea un Artifact en el chat y se mantiene en el Dock sin escribir código."
+                "x": "Canva ha puesto a disposición general su servidor de Model Context Protocol y ha lanzado nuevas APIs que permiten a agentes de AI y a desarrolladores externos usar sus herramientas de diseño dentro de otro software. La empresa indicó que una nueva alianza con Anthropic convierte a Canva en la capa de diseño dentro de Claude."
               },
               {
                 "t": "p",
-                "x": "Las apps instaladas pueden usar OS APIs, conectores y el propio Claude. Eso permite a una app añadir elementos a la barra de menús, crear ventanas transparentes y enviar notificaciones, entre otras cosas. Entre los ejemplos hay terminales personalizadas, gestores de archivos y editores de video. Hay varias demos disponibles para probar."
+                "x": "Canva reconstruyó su servidor MCP en torno al comportamiento de los agentes, combinando herramientas que se solapaban para que los agentes que usan modelos más pequeños puedan elegir la función adecuada. Los agentes pueden crear diseños, imágenes y videos editables, eliminar fondos, convertir imágenes planas en archivos por capas y redimensionar o exportar el trabajo terminado."
               },
+              {
+                "t": "p",
+                "x": "Los usuarios pueden pedir una publicación de Instagram en un chat y recibir un diseño editable de Canva con los colores y las fuentes de la marca. Los agentes también pueden crear videos cortos de producto con locución y entregarlos en líneas de tiempo editables."
+              },
+              {
+                "t": "p",
+                "x": "Los desarrolladores pueden acceder a las mismas funciones mediante nuevas REST APIs, mientras que una herramienta de línea de comandos permite el trabajo masivo. Las nuevas cuentas de servicio y la facturación por API permiten que los flujos automatizados funcionen sin un empleado con sesión iniciada. Canva abre Craft, su modelo propio de generación de imágenes, a través de la API y MCP."
+              },
+              {
+                "t": "p",
+                "x": "Canva dijo que casi 500,000 personas se han registrado a través de MCP desde octubre, mientras que el uso creció un 93% en un mes."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "nvidia-nemotron-image-svg",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "NVIDIA 시각 에이전트\n이미지 모델 공개",
+      "body": "NVIDIA가 SVG·HTML 에이전트용 30B 이미지 생성기 가중치를 풀었다.",
+      "mini_headline": "NVIDIA 이미지 모델 공개",
+      "tool": "KeyShot",
+      "source": "Hugging Face (NVIDIA)",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
+          },
+          {
+            "t": "p",
+            "x": "Nemotron-Labs-VisualCreation은 표현력 있는 래스터 이미지와 편집 가능한 시각 결과물을 만드는 에이전트형 프레임워크다. 웹페이지, 프레젠테이션, 문서, 차트에 과학 도표까지 다룬다. Pixel as Code 인터페이스가 생성·렌더링·시각 검토를 거치며 학습된 시각 토큰과 명시적 프로그램을 이어 준다."
+          },
+          {
+            "t": "img",
+            "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
+            "cap": "래스터 외형과 편집 가능한 구조가 생성·렌더링 인터페이스 하나를 같이 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "Nemotron-Labs-Image-30B-A3B는 이 프레임워크에서 래스터 이미지를 맡는 자기회귀 생성기로, Nemotron 3 Nano에서 초기화했다. 전체 파라미터는 30B, 활성 파라미터는 3B 규모다. 첫 공개에는 이미지 생성기와 짝을 이루는 시각 토크나이저가 들어 있고, VisualCreation 하네스와 Nemotron-Labs-VisionCode는 법적 검토가 끝나면 공개한다."
+          },
+          {
+            "t": "p",
+            "x": "Nemotron-Labs-VisualCreation의 점수는 GenEval 92.86, WISE Verified 91.50이다. BizGenEval에서는 86.0을 받아 GPT Image 2(83.2)와 Nano Banana Pro(76.7)를 앞섰다."
+          },
+          {
+            "t": "p",
+            "x": "모델은 NVIDIA License를 따르며 비상업적 연구·평가 용도로만 쓸 수 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "NVIDIA releases image model\nfrom its visual-agent framework",
+          "body": "NVIDIA released weights for a 30B image generator from an agent framework that also builds editable SVG and HTML.",
+          "mini_headline": "NVIDIA releases image model",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreation is an agentic framework for creating expressive raster images and editable visual artifacts, including webpages, presentations, documents, charts, and scientific figures. Its Pixel as Code interface connects learned visual tokens and explicit programs through generation, rendering, and visual inspection."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
+                "cap": "Raster appearance and editable structure share a generation-and-rendering interface."
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-Image-30B-A3B is its raster image-generation component, an autoregressive generator initialized from Nemotron 3 Nano, with 30B total and 3B active parameters. The initial release covers the image generator and its bundled visual tokenizer; the VisualCreation harness and Nemotron-Labs-VisionCode will be released upon legal clearance."
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreation reaches 92.86 on GenEval and 91.50 on WISE Verified. On BizGenEval, it scores 86.0, compared with 83.2 for GPT Image 2 and 76.7 for Nano Banana Pro."
+              },
+              {
+                "t": "p",
+                "x": "The model is licensed for non-commercial research and evaluation under the NVIDIA License."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "NVIDIA发布视觉智能体\n框架中的图像模型",
+          "body": "NVIDIA公开30B 图像生成器权重，所属智能体框架还能生成可编辑SVG和HTML。",
+          "mini_headline": "NVIDIA发布图像模型",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreation是一个智能体框架，用于创作富有表现力的光栅图像，以及网页、演示文稿、文档、图表和科学插图等可编辑视觉成果。其Pixel as Code接口通过生成、渲染和视觉检查，将学习得到的视觉词元与显式程序连接起来。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
+                "cap": "光栅外观与可编辑结构共用一套生成与渲染接口。"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-Image-30B-A3B是其中的光栅图像生成组件，是一个以Nemotron 3 Nano初始化的自回归生成器，总参数30B，激活参数3B。首批发布内容为图像生成器及其配套的视觉分词器；VisualCreation运行框架与Nemotron-Labs-VisionCode将在完成法律审核后发布。"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreation在GenEval上得分92.86，在WISE Verified上得分91.50。在BizGenEval上，它得分86.0，GPT Image 2为83.2，Nano Banana Pro为76.7。"
+              },
+              {
+                "t": "p",
+                "x": "该模型依据NVIDIA License授权，用于非商业研究和评估。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "NVIDIA lanza modelo de imágenes\nde su marco de agentes visuales",
+          "body": "NVIDIA publicó pesos de un generador de imágenes de 30B de un marco de agentes que también crea SVG y HTML editables.",
+          "mini_headline": "NVIDIA lanza un modelo de imagen",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreation es un marco agéntico para crear imágenes rasterizadas expresivas y artefactos visuales editables, como páginas web, presentaciones, documentos, gráficos y figuras científicas. Su interfaz Pixel as Code conecta tokens visuales aprendidos y programas explícitos mediante generación, renderizado e inspección visual."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
+                "cap": "La apariencia rasterizada y la estructura editable comparten una interfaz de generación y renderizado."
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-Image-30B-A3B es su componente de generación de imágenes rasterizadas, un generador autorregresivo inicializado a partir de Nemotron 3 Nano, con 30B de parámetros totales y 3B activos. La versión inicial incluye el generador de imágenes y su tokenizador visual integrado; el arnés VisualCreation y Nemotron-Labs-VisionCode se publicarán cuando obtengan la autorización legal."
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreation alcanza 92.86 en GenEval y 91.50 en WISE Verified. En BizGenEval obtiene 86.0, frente a 83.2 de GPT Image 2 y 76.7 de Nano Banana Pro."
+              },
+              {
+                "t": "p",
+                "x": "El modelo tiene licencia para investigación y evaluación no comerciales bajo la NVIDIA License."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "NVIDIA 시각 에이전트\n이미지 모델 공개",
+          "body": "NVIDIA가 SVG·HTML 에이전트용 30B 이미지 생성기 가중치를 풀었다.",
+          "mini_headline": "NVIDIA 이미지 모델 공개",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreation은 표현력 있는 래스터 이미지와 편집 가능한 시각 결과물을 만드는 에이전트형 프레임워크다. 웹페이지, 프레젠테이션, 문서, 차트에 과학 도표까지 다룬다. Pixel as Code 인터페이스가 생성·렌더링·시각 검토를 거치며 학습된 시각 토큰과 명시적 프로그램을 이어 준다."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
+                "cap": "래스터 외형과 편집 가능한 구조가 생성·렌더링 인터페이스 하나를 같이 쓴다."
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-Image-30B-A3B는 이 프레임워크에서 래스터 이미지를 맡는 자기회귀 생성기로, Nemotron 3 Nano에서 초기화했다. 전체 파라미터는 30B, 활성 파라미터는 3B 규모다. 첫 공개에는 이미지 생성기와 짝을 이루는 시각 토크나이저가 들어 있고, VisualCreation 하네스와 Nemotron-Labs-VisionCode는 법적 검토가 끝나면 공개한다."
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreation의 점수는 GenEval 92.86, WISE Verified 91.50이다. BizGenEval에서는 86.0을 받아 GPT Image 2(83.2)와 Nano Banana Pro(76.7)를 앞섰다."
+              },
+              {
+                "t": "p",
+                "x": "모델은 NVIDIA License를 따르며 비상업적 연구·평가 용도로만 쓸 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "NVIDIAが画像モデル\n視覚エージェント基盤から",
+          "body": "NVIDIAがSVGやHTMLも作るエージェント基盤の30B 画像生成器の重みを公開した。",
+          "mini_headline": "NVIDIAが画像モデルを公開",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreationは、表現力のあるラスター画像と、編集可能なビジュアル成果物を生み出すエージェント型フレームワークである。対象はウェブページ、プレゼンテーション、文書、チャート、科学図版に及ぶ。Pixel as Codeインターフェースは、生成、レンダリング、視覚的な検査を通じて、学習済みの視覚トークンと明示的なプログラムを結びつける。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
+                "cap": "ラスターの見た目と編集可能な構造が、生成とレンダリングのインターフェースを共有する。"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-Image-30B-A3Bはそのラスター画像生成コンポーネントで、Nemotron 3 Nanoから初期化された自己回帰型の生成器である。総パラメータは30B 、アクティブパラメータは3B である。初回リリースには画像生成器と同梱の視覚トークナイザーが含まれ、VisualCreationハーネスとNemotron-Labs-VisionCodeは法的な確認が済み次第公開される。"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreationはGenEvalで92.86、WISE Verifiedで91.50を記録した。BizGenEvalでは86.0で、GPT Image 2の83.2、Nano Banana Proの76.7を上回る。"
+              },
+              {
+                "t": "p",
+                "x": "このモデルはNVIDIA Licenseのもと、非商用の研究と評価に限って利用できる。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "zh": {
+          "headline": "NVIDIA发布视觉智能体\n框架中的图像模型",
+          "body": "NVIDIA公开30B 图像生成器权重，所属智能体框架还能生成可编辑SVG和HTML。",
+          "mini_headline": "NVIDIA发布图像模型",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreation是一个智能体框架，用于创作富有表现力的光栅图像，以及网页、演示文稿、文档、图表和科学插图等可编辑视觉成果。其Pixel as Code接口通过生成、渲染和视觉检查，将学习得到的视觉词元与显式程序连接起来。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
+                "cap": "光栅外观与可编辑结构共用一套生成与渲染接口。"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-Image-30B-A3B是其中的光栅图像生成组件，是一个以Nemotron 3 Nano初始化的自回归生成器，总参数30B，激活参数3B。首批发布内容为图像生成器及其配套的视觉分词器；VisualCreation运行框架与Nemotron-Labs-VisionCode将在完成法律审核后发布。"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreation在GenEval上得分92.86，在WISE Verified上得分91.50。在BizGenEval上，它得分86.0，GPT Image 2为83.2，Nano Banana Pro为76.7。"
+              },
+              {
+                "t": "p",
+                "x": "该模型依据NVIDIA License授权，用于非商业研究和评估。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "NVIDIA lanza modelo de imágenes\nde su marco de agentes visuales",
+          "body": "NVIDIA publicó pesos de un generador de imágenes de 30B de un marco de agentes que también crea SVG y HTML editables.",
+          "mini_headline": "NVIDIA lanza un modelo de imagen",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreation es un marco agéntico para crear imágenes rasterizadas expresivas y artefactos visuales editables, como páginas web, presentaciones, documentos, gráficos y figuras científicas. Su interfaz Pixel as Code conecta tokens visuales aprendidos y programas explícitos mediante generación, renderizado e inspección visual."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
+                "cap": "La apariencia rasterizada y la estructura editable comparten una interfaz de generación y renderizado."
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-Image-30B-A3B es su componente de generación de imágenes rasterizadas, un generador autorregresivo inicializado a partir de Nemotron 3 Nano, con 30B de parámetros totales y 3B activos. La versión inicial incluye el generador de imágenes y su tokenizador visual integrado; el arnés VisualCreation y Nemotron-Labs-VisionCode se publicarán cuando obtengan la autorización legal."
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreation alcanza 92.86 en GenEval y 91.50 en WISE Verified. En BizGenEval obtiene 86.0, frente a 83.2 de GPT Image 2 y 76.7 de Nano Banana Pro."
+              },
+              {
+                "t": "p",
+                "x": "El modelo tiene licencia para investigación y evaluación no comerciales bajo la NVIDIA License."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "NVIDIA 이미지 모델\n비주얼 에이전트서 공개",
+          "body": "NVIDIA가 SVG·HTML 에이전트의 30B 이미지 생성기 가중치를 공개했다.",
+          "mini_headline": "NVIDIA 이미지 모델 공개",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreation은 표현력 있는 래스터 이미지와 편집 가능한 시각 결과물을 만드는 에이전트형 프레임워크다. 웹페이지, 프레젠테이션, 문서, 차트, 과학 도표까지 다룬다. Pixel as Code 인터페이스는 생성, 렌더링, 시각 검토를 거치며 학습된 시각 토큰과 명시적 프로그램을 잇는다."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
+                "cap": "래스터 외형과 편집 가능한 구조가 하나의 생성·렌더링 인터페이스를 공유한다."
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-Image-30B-A3B는 이 프레임워크의 래스터 이미지 생성 요소로, Nemotron 3 Nano에서 초기화한 자기회귀 생성기다. 전체 파라미터는 30B , 활성 파라미터는 3B 규모다. 첫 공개에는 이미지 생성기와 함께 묶인 시각 토크나이저가 포함되며, VisualCreation 하네스와 Nemotron-Labs-VisionCode는 법적 검토를 마친 뒤 공개된다."
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreation은 GenEval에서 92.86, WISE Verified에서 91.50을 기록했다. BizGenEval에서는 86.0으로, GPT Image 2의 83.2와 Nano Banana Pro의 76.7을 앞섰다."
+              },
+              {
+                "t": "p",
+                "x": "이 모델은 NVIDIA License에 따라 비상업적 연구와 평가 용도로만 쓸 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "NVIDIAが画像モデル\n視覚エージェント基盤から",
+          "body": "NVIDIAがSVGやHTMLも作るエージェント基盤の30B 画像生成器の重みを公開した。",
+          "mini_headline": "NVIDIAが画像モデルを公開",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreationは、表現力のあるラスター画像と、編集可能なビジュアル成果物を生み出すエージェント型フレームワークである。対象はウェブページ、プレゼンテーション、文書、チャート、科学図版に及ぶ。Pixel as Codeインターフェースは、生成、レンダリング、視覚的な検査を通じて、学習済みの視覚トークンと明示的なプログラムを結びつける。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
+                "cap": "ラスターの見た目と編集可能な構造が、生成とレンダリングのインターフェースを共有する。"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-Image-30B-A3Bはそのラスター画像生成コンポーネントで、Nemotron 3 Nanoから初期化された自己回帰型の生成器である。総パラメータは30B 、アクティブパラメータは3B である。初回リリースには画像生成器と同梱の視覚トークナイザーが含まれ、VisualCreationハーネスとNemotron-Labs-VisionCodeは法的な確認が済み次第公開される。"
+              },
+              {
+                "t": "p",
+                "x": "Nemotron-Labs-VisualCreationはGenEvalで92.86、WISE Verifiedで91.50を記録した。BizGenEvalでは86.0で、GPT Image 2の83.2、Nano Banana Proの76.7を上回る。"
+              },
+              {
+                "t": "p",
+                "x": "このモデルはNVIDIA Licenseのもと、非商用の研究と評価に限って利用できる。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "higgsfield-magi2-video-sound",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Sand AI MAGI-2\n영상·소리 함께 만든다",
+      "body": "Higgsfield 독점 MAGI-2가 4~30초 1080p 유성 영상을 뽑는다.",
+      "mini_headline": "MAGI-2, 소리 내장",
+      "tool": "KeyShot",
+      "source": "Higgsfield",
+      "url": "https://higgsfield.ai/blog/higgsfield-magi-2",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+          },
+          {
+            "t": "p",
+            "x": "Sand AI의 새 영상 모델 MAGI-2를 Higgsfield 웹 앱과 API에서 쓸 수 있다. 이미지·영상·오디오 레퍼런스나 시작 프레임(종료 프레임은 선택)을 넣으면 영상과 소리를 한꺼번에 만든다. 클립 길이는 4~30초, 해상도는 1080p이고 화면비는 여섯 가지다."
+          },
+          {
+            "t": "p",
+            "x": "References에는 이미지 최대 10장, 영상 5개, 오디오 파일 5개까지 넣고 Frames에는 시작 프레임과 선택 사항인 종료 프레임을 넣는다. 오디오는 Sound 토글로 켜고 끈다. MAGI-2에는 720p 옵션이 없어 크레딧을 아끼려면 클립 길이를 줄여야 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+          },
+          {
+            "t": "p",
+            "x": "Frames에서는 시작 이미지에 이미 담긴 장면과 원하는 움직임을 적는다. References에서는 Image 1, Video 1, Audio 1처럼 입력마다 붙은 라벨로 부른다. 프롬프트는 클립 하나에 동작 한두 가지와 카메라 움직임 하나 정도로 묶는다."
+          },
+          {
+            "t": "p",
+            "x": "10초 클립 기준으로 웹 앱에서는 25크레딧, Plus 요금제로 약 $1.23, API로는 $0.80이 든다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Sand AI's MAGI-2 generates\nvideo and sound together",
+          "body": "MAGI-2, now exclusive to Higgsfield, generates 1080p clips of 4 to 30 seconds with video and sound made together.",
+          "mini_headline": "MAGI-2 adds built-in sound",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/11/artifact_mac_win_apps.mp4"
+                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
               },
               {
                 "t": "p",
-                "x": "Felix Rieseberg, de Anthropic, escribió en X que por ahora se necesita una cuenta de Claude y la app de Claude, aunque basta con una cuenta gratuita. Con una cuenta de Apple Developer, también se puede pedir a Claude que cree una app independiente."
+                "x": "MAGI-2 is Sand AI's new video model, available through the Higgsfield web app and API. It generates video and sound together, guided by image, video, and audio references or a start frame with an optional end frame. Clips run from 4 to 30 seconds at 1080p in six aspect ratios."
+              },
+              {
+                "t": "p",
+                "x": "References accept up to 10 images, 5 videos, and 5 audio files, and Frames take a start frame with an optional end frame. The Sound toggle turns audio on or off. MAGI-2 has no 720p option, so a shorter clip is the way to use fewer credits."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+              },
+              {
+                "t": "p",
+                "x": "In Frames, describe the scene already shown in the start image and the intended movement. In References, refer to each input by its label, such as Image 1, Video 1, or Audio 1. Limit the prompt to one or two actions and one camera movement per clip."
+              },
+              {
+                "t": "p",
+                "x": "A 10-second clip costs 25 credits in the web app, approximately $1.23 on Plus, or $0.80 through the API."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Sand AI MAGI-2\n영상·소리 함께 만든다",
+          "body": "Higgsfield 독점 MAGI-2가 4~30초 1080p 유성 영상을 뽑는다.",
+          "mini_headline": "MAGI-2, 소리 내장",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Sand AI의 새 영상 모델 MAGI-2를 Higgsfield 웹 앱과 API에서 쓸 수 있다. 이미지·영상·오디오 레퍼런스나 시작 프레임(종료 프레임은 선택)을 넣으면 영상과 소리를 한꺼번에 만든다. 클립 길이는 4~30초, 해상도는 1080p이고 화면비는 여섯 가지다."
+              },
+              {
+                "t": "p",
+                "x": "References에는 이미지 최대 10장, 영상 5개, 오디오 파일 5개까지 넣고 Frames에는 시작 프레임과 선택 사항인 종료 프레임을 넣는다. 오디오는 Sound 토글로 켜고 끈다. MAGI-2에는 720p 옵션이 없어 크레딧을 아끼려면 클립 길이를 줄여야 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+              },
+              {
+                "t": "p",
+                "x": "Frames에서는 시작 이미지에 이미 담긴 장면과 원하는 움직임을 적는다. References에서는 Image 1, Video 1, Audio 1처럼 입력마다 붙은 라벨로 부른다. 프롬프트는 클립 하나에 동작 한두 가지와 카메라 움직임 하나 정도로 묶는다."
+              },
+              {
+                "t": "p",
+                "x": "10초 클립 기준으로 웹 앱에서는 25크레딧, Plus 요금제로 약 $1.23, API로는 $0.80이 든다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Sand AIのMAGI-2\n映像と音を同時に生成",
+          "body": "Higgsfield独占のMAGI-2は、4〜30秒・1080pの映像を音と同時に作る。",
+          "mini_headline": "MAGI-2、音声生成を内蔵",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+              },
+              {
+                "t": "p",
+                "x": "MAGI-2はSand AIの新しい動画モデルで、HiggsfieldのウェブアプリとAPIで利用できる。画像・動画・音声のリファレンス、または開始フレーム（終了フレームは任意）をもとに、映像と音を同時に生成する。クリップは1080pで4〜30秒、アスペクト比は六種類だ。"
+              },
+              {
+                "t": "p",
+                "x": "Referencesには最大10枚の画像、5本の動画、5つの音声ファイルを指定でき、Framesには開始フレームと任意の終了フレームを渡す。Soundトグルで音声のオン・オフを切り替える。MAGI-2には720pの選択肢がないため、クレジットを節約するにはクリップを短くすることになる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+              },
+              {
+                "t": "p",
+                "x": "Framesでは、開始画像にすでに写っている場面と意図する動きを記述する。Referencesでは、Image 1、Video 1、Audio 1のように各入力をラベルで指定する。プロンプトはクリップごとに一つか二つの動作と、一つのカメラの動きに絞る。"
+              },
+              {
+                "t": "p",
+                "x": "10秒のクリップはウェブアプリで25クレジット、Plusでは約$1.23、API経由では$0.80かかる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Sand AI的MAGI-2\n可同时生成视频和声音",
+          "body": "Higgsfield独家的MAGI-2可生成4至30秒、音画同步的1080p片段。",
+          "mini_headline": "MAGI-2内置声音",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+              },
+              {
+                "t": "p",
+                "x": "MAGI-2是Sand AI的新视频模型，可通过Higgsfield网页应用和API使用。它依据图像、视频和音频参考，或起始帧（结束帧可选），同时生成视频和声音。片段时长4至30秒，分辨率1080p，提供六种画面比例。"
+              },
+              {
+                "t": "p",
+                "x": "References最多可接受10张图像、5段视频和5个音频文件；Frames接受起始帧和可选的结束帧。Sound开关用于开启或关闭音频。MAGI-2没有720p选项，因此想少用积分，就要缩短片段。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+              },
+              {
+                "t": "p",
+                "x": "在Frames中，描述起始图像里已有的场景以及想要的运动。在References中，按标签称呼每个输入，例如Image 1、Video 1或Audio 1。每个片段的提示词限于一到两个动作和一个镜头运动。"
+              },
+              {
+                "t": "p",
+                "x": "一段10秒的片段在网页应用中需25积分，使用Plus约合$1.23，通过API则为$0.80。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "MAGI-2 de Sand AI genera\nvideo y sonido a la vez",
+          "body": "MAGI-2, ahora exclusivo de Higgsfield, genera clips 1080p de 4 a 30 segundos con video y sonido creados a la vez.",
+          "mini_headline": "MAGI-2 incorpora sonido",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+              },
+              {
+                "t": "p",
+                "x": "MAGI-2 es el nuevo modelo de video de Sand AI, disponible en la aplicación web y la API de Higgsfield. Genera video y sonido a la vez, guiado por referencias de imagen, video y audio, o por un fotograma inicial con un fotograma final opcional. Los clips duran de 4 a 30 segundos en 1080p, con seis relaciones de aspecto."
+              },
+              {
+                "t": "p",
+                "x": "References admite hasta 10 imágenes, 5 videos y 5 archivos de audio, y Frames recibe un fotograma inicial con un fotograma final opcional. El interruptor Sound activa o desactiva el audio. MAGI-2 no tiene opción de 720p, así que la forma de gastar menos créditos es hacer un clip más corto."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+              },
+              {
+                "t": "p",
+                "x": "En Frames, describa la escena que ya aparece en la imagen inicial y el movimiento deseado. En References, nombre cada entrada por su etiqueta, como Image 1, Video 1 o Audio 1. Limite el prompt a una o dos acciones y un movimiento de cámara por clip."
+              },
+              {
+                "t": "p",
+                "x": "Un clip de 10 segundos cuesta 25 créditos en la aplicación web, unos $1.23 con Plus, o $0.80 a través de la API."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Sand AI MAGI-2\n영상·소리 함께 생성",
+          "body": "Higgsfield 독점 MAGI-2는 4~30초 1080p 유성 영상을 만든다.",
+          "mini_headline": "MAGI-2, 소리 내장",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+              },
+              {
+                "t": "p",
+                "x": "MAGI-2는 Sand AI의 새 영상 모델로, Higgsfield 웹 앱과 API에서 쓸 수 있다. 이미지·영상·오디오 레퍼런스나 시작 프레임(종료 프레임은 선택)을 바탕으로 영상과 소리를 함께 생성한다. 클립은 4~30초, 1080p이며 화면비는 여섯 가지다."
+              },
+              {
+                "t": "p",
+                "x": "References에는 이미지 최대 10장, 영상 5개, 오디오 파일 5개를 넣을 수 있고, Frames에는 시작 프레임과 선택적 종료 프레임을 넣는다. Sound 토글로 오디오를 켜고 끈다. MAGI-2에는 720p 옵션이 없어, 크레딧을 덜 쓰려면 클립을 짧게 만들어야 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+              },
+              {
+                "t": "p",
+                "x": "Frames에서는 시작 이미지에 이미 담긴 장면과 원하는 움직임을 설명한다. References에서는 Image 1, Video 1, Audio 1처럼 각 입력을 라벨로 부른다. 프롬프트는 클립마다 한두 가지 동작과 카메라 움직임 하나로 제한한다."
+              },
+              {
+                "t": "p",
+                "x": "10초 클립은 웹 앱에서 25크레딧, Plus 요금제로는 약 $1.23, API로는 $0.80이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Sand AIのMAGI-2\n映像と音を同時に生成",
+          "body": "Higgsfield独占のMAGI-2は、4〜30秒・1080pの映像を音と同時に作る。",
+          "mini_headline": "MAGI-2、音声生成を内蔵",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+              },
+              {
+                "t": "p",
+                "x": "MAGI-2はSand AIの新しい動画モデルで、HiggsfieldのウェブアプリとAPIで利用できる。画像・動画・音声のリファレンス、または開始フレーム（終了フレームは任意）をもとに、映像と音を同時に生成する。クリップは1080pで4〜30秒、アスペクト比は六種類だ。"
+              },
+              {
+                "t": "p",
+                "x": "Referencesには最大10枚の画像、5本の動画、5つの音声ファイルを指定でき、Framesには開始フレームと任意の終了フレームを渡す。Soundトグルで音声のオン・オフを切り替える。MAGI-2には720pの選択肢がないため、クレジットを節約するにはクリップを短くすることになる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+              },
+              {
+                "t": "p",
+                "x": "Framesでは、開始画像にすでに写っている場面と意図する動きを記述する。Referencesでは、Image 1、Video 1、Audio 1のように各入力をラベルで指定する。プロンプトはクリップごとに一つか二つの動作と、一つのカメラの動きに絞る。"
+              },
+              {
+                "t": "p",
+                "x": "10秒のクリップはウェブアプリで25クレジット、Plusでは約$1.23、API経由では$0.80かかる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Sand AI的MAGI-2\n可同时生成视频和声音",
+          "body": "Higgsfield独家的MAGI-2可生成4至30秒、音画同步的1080p片段。",
+          "mini_headline": "MAGI-2内置声音",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+              },
+              {
+                "t": "p",
+                "x": "MAGI-2是Sand AI的新视频模型，可通过Higgsfield网页应用和API使用。它依据图像、视频和音频参考，或起始帧（结束帧可选），同时生成视频和声音。片段时长4至30秒，分辨率1080p，提供六种画面比例。"
+              },
+              {
+                "t": "p",
+                "x": "References最多可接受10张图像、5段视频和5个音频文件；Frames接受起始帧和可选的结束帧。Sound开关用于开启或关闭音频。MAGI-2没有720p选项，因此想少用积分，就要缩短片段。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+              },
+              {
+                "t": "p",
+                "x": "在Frames中，描述起始图像里已有的场景以及想要的运动。在References中，按标签称呼每个输入，例如Image 1、Video 1或Audio 1。每个片段的提示词限于一到两个动作和一个镜头运动。"
+              },
+              {
+                "t": "p",
+                "x": "一段10秒的片段在网页应用中需25积分，使用Plus约合$1.23，通过API则为$0.80。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "MAGI-2 de Sand AI genera\nvideo y sonido a la vez",
+          "body": "MAGI-2, ahora exclusivo de Higgsfield, genera clips 1080p de 4 a 30 segundos con video y sonido creados a la vez.",
+          "mini_headline": "MAGI-2 incorpora sonido",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+              },
+              {
+                "t": "p",
+                "x": "MAGI-2 es el nuevo modelo de video de Sand AI, disponible en la aplicación web y la API de Higgsfield. Genera video y sonido a la vez, guiado por referencias de imagen, video y audio, o por un fotograma inicial con un fotograma final opcional. Los clips duran de 4 a 30 segundos en 1080p, con seis relaciones de aspecto."
+              },
+              {
+                "t": "p",
+                "x": "References admite hasta 10 imágenes, 5 videos y 5 archivos de audio, y Frames recibe un fotograma inicial con un fotograma final opcional. El interruptor Sound activa o desactiva el audio. MAGI-2 no tiene opción de 720p, así que la forma de gastar menos créditos es hacer un clip más corto."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+              },
+              {
+                "t": "p",
+                "x": "En Frames, describa la escena que ya aparece en la imagen inicial y el movimiento deseado. En References, nombre cada entrada por su etiqueta, como Image 1, Video 1 o Audio 1. Limite el prompt a una o dos acciones y un movimiento de cámara por clip."
+              },
+              {
+                "t": "p",
+                "x": "Un clip de 10 segundos cuesta 25 créditos en la aplicación web, unos $1.23 con Plus, o $0.80 a través de la API."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "claude-skills-over-mcp",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "MCP 서버, 도구와\n스킬 함께 배포",
+      "body": "Claude의 Skills over MCP 공개 베타로 서버가 스킬도 배포한다.",
+      "mini_headline": "MCP 서버, 스킬 배포",
+      "tool": "Figma",
+      "source": "Claude (Anthropic)",
+      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+          },
+          {
+            "t": "p",
+            "x": "Claude에서 Skills over MCP가 공개 베타로 나와 MCP 서버가 도구와 함께 스킬을 배포할 수 있게 됐다. Tasks와 Elicitation은 정식 출시됐고 File Uploads도 곧 배포된다."
+          },
+          {
+            "t": "p",
+            "x": "Skills over MCP를 쓰면 서버가 도구와 함께 스킬을 올려 Claude가 더 길고 여러 단계로 된 작업을 맡게 돕는다. Claude는 필요할 때만 스킬을 불러오므로 컨텍스트를 적게 쓴다. 서버가 업데이트되면 스킬도 함께 바뀌어 사용자가 따로 설치할 게 없다. Shopify는 Claude가 판매자의 온라인 스토어를 처음부터 끝까지 디자인하고 업데이트하도록 돕는다."
+          },
+          {
+            "t": "img",
+            "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+          },
+          {
+            "t": "p",
+            "x": "Tasks를 쓰면 서버가 오래 걸리는 작업이나 에이전트 루프 전체를 돌리는 동안에도 Claude는 하던 일을 계속한다. Elicitation은 서버가 잠깐 멈춰 폼이나 링크로 사용자 입력을 받은 뒤 멈춘 자리부터 다시 진행하게 한다. File Uploads는 PDFs, 스프레드시트, 이미지를 컨텍스트 창을 거치지 않고 서버로 바로 보낸다."
+          },
+          {
+            "t": "p",
+            "x": "이 기능들은 공개 MCP 사양과 그 확장에 속해서, 이를 지원하는 서버라면 Claude뿐 아니라 호환되는 어떤 클라이언트에서도 작동한다. MCP SDK의 월간 다운로드는 현재 7억 회를 넘는다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "MCP servers can now ship\nskills alongside tools",
+          "body": "Claude opened Skills over MCP in public beta, so MCP servers can package skills alongside the tools they expose.",
+          "mini_headline": "MCP servers ship skills",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+              },
+              {
+                "t": "p",
+                "x": "Skills over MCP is now in public beta in Claude, so MCP servers can ship skills alongside their tools. Tasks and Elicitation are now generally available, and File Uploads is rolling out soon."
+              },
+              {
+                "t": "p",
+                "x": "With Skills over MCP, servers can publish skills alongside their tools to help Claude take on longer, multi-step work. Claude loads a skill only when it's needed, keeping context use low. Skills update with the server, so users have nothing separate to install. Shopify helps Claude design and update a merchant's online store end to end."
+              },
+              {
+                "t": "img",
+                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+              },
+              {
+                "t": "p",
+                "x": "With Tasks, servers can run operations that take time, or even full agent loops, while Claude keeps working. With Elicitation, a server can pause to ask the user for input through a form or link, then continue where it left off. File Uploads sends PDFs, spreadsheets, and images to a server without passing them through the context window."
+              },
+              {
+                "t": "p",
+                "x": "These features are part of the open MCP spec and its extensions, so a server that supports them works in any compatible client, not just Claude. MCP now sees over 700 million monthly SDK downloads."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "MCP 서버, 도구와\n스킬 함께 배포",
+          "body": "Claude의 Skills over MCP 공개 베타로 서버가 스킬도 배포한다.",
+          "mini_headline": "MCP 서버, 스킬 배포",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+              },
+              {
+                "t": "p",
+                "x": "Claude에서 Skills over MCP가 공개 베타로 나와 MCP 서버가 도구와 함께 스킬을 배포할 수 있게 됐다. Tasks와 Elicitation은 정식 출시됐고 File Uploads도 곧 배포된다."
+              },
+              {
+                "t": "p",
+                "x": "Skills over MCP를 쓰면 서버가 도구와 함께 스킬을 올려 Claude가 더 길고 여러 단계로 된 작업을 맡게 돕는다. Claude는 필요할 때만 스킬을 불러오므로 컨텍스트를 적게 쓴다. 서버가 업데이트되면 스킬도 함께 바뀌어 사용자가 따로 설치할 게 없다. Shopify는 Claude가 판매자의 온라인 스토어를 처음부터 끝까지 디자인하고 업데이트하도록 돕는다."
+              },
+              {
+                "t": "img",
+                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+              },
+              {
+                "t": "p",
+                "x": "Tasks를 쓰면 서버가 오래 걸리는 작업이나 에이전트 루프 전체를 돌리는 동안에도 Claude는 하던 일을 계속한다. Elicitation은 서버가 잠깐 멈춰 폼이나 링크로 사용자 입력을 받은 뒤 멈춘 자리부터 다시 진행하게 한다. File Uploads는 PDFs, 스프레드시트, 이미지를 컨텍스트 창을 거치지 않고 서버로 바로 보낸다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능들은 공개 MCP 사양과 그 확장에 속해서, 이를 지원하는 서버라면 Claude뿐 아니라 호환되는 어떤 클라이언트에서도 작동한다. MCP SDK의 월간 다운로드는 현재 7억 회를 넘는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MCPサーバー、ツールと\n共にスキルも配布可能に",
+          "body": "ClaudeのSkills over MCP公開ベータで、サーバーがスキルも配れる。",
+          "mini_headline": "MCPサーバーがスキルを配布",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+              },
+              {
+                "t": "p",
+                "x": "ClaudeでSkills over MCPが公開ベータとなり、MCPサーバーがツールと共にスキルを配布できるようになった。TasksとElicitationは一般提供が始まり、File Uploadsも近く展開される。"
+              },
+              {
+                "t": "p",
+                "x": "Skills over MCPにより、サーバーはツールと共にスキルを公開でき、Claudeがより長い多段階の作業をこなせるよう支援する。Claudeは必要なときだけスキルを読み込むため、コンテキストの使用量を低く抑えられる。スキルはサーバーと一緒に更新されるので、ユーザーが別途インストールするものはない。ShopifyはClaudeが販売者のオンラインストアを最初から最後までデザインし、更新するのを支援する。"
+              },
+              {
+                "t": "img",
+                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+              },
+              {
+                "t": "p",
+                "x": "Tasksでは、時間のかかる処理やエージェントループ全体をサーバーが実行している間も、Claudeは作業を続けられる。Elicitationでは、サーバーが一時停止してフォームやリンクでユーザーに入力を求め、中断したところから再開できる。File UploadsはPDFs、スプレッドシート、画像を、コンテキストウィンドウを経由せずにサーバーへ送る。"
+              },
+              {
+                "t": "p",
+                "x": "これらの機能はオープンなMCP仕様とその拡張の一部であるため、対応するサーバーはClaudeに限らず、互換性のあるあらゆるクライアントで動作する。MCPのSDKは現在、月7億回以上ダウンロードされている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "MCP服务器现可随工具\n一并提供技能",
+          "body": "Claude推出Skills over MCP公开测试版，MCP服务器可随工具打包技能。",
+          "mini_headline": "MCP服务器提供技能",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+              },
+              {
+                "t": "p",
+                "x": "Skills over MCP已在Claude中进入公开测试，MCP服务器可以随工具一并提供技能。Tasks和Elicitation现已正式可用，File Uploads也即将推出。"
+              },
+              {
+                "t": "p",
+                "x": "借助Skills over MCP，服务器可随工具发布技能，帮助Claude承担更长、多步骤的工作。Claude只在需要时加载技能，从而保持较低的上下文占用。技能随服务器一同更新，用户无需另行安装。Shopify帮助Claude从头到尾设计并更新商家的网店。"
+              },
+              {
+                "t": "img",
+                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+              },
+              {
+                "t": "p",
+                "x": "借助Tasks，服务器可以运行耗时操作，甚至完整的智能体循环，而Claude可以继续工作。借助Elicitation，服务器可以暂停，通过表单或链接请用户输入，再从中断处继续。File Uploads可将PDFs、电子表格和图片发送给服务器，而无需经过上下文窗口。"
+              },
+              {
+                "t": "p",
+                "x": "这些功能属于开放的MCP规范及其扩展，因此支持它们的服务器可在任何兼容客户端中运行，而不只是Claude。MCP的SDK月下载量现已超过7亿次。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los servidores MCP ya incluyen\nhabilidades junto a herramientas",
+          "body": "Claude abrió Skills over MCP en beta pública: los servidores MCP pueden incluir habilidades junto a sus herramientas.",
+          "mini_headline": "Los servidores MCP suman habilidades",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+              },
+              {
+                "t": "p",
+                "x": "Skills over MCP ya está en beta pública en Claude, así que los servidores MCP pueden distribuir habilidades junto a sus herramientas. Tasks y Elicitation ya están disponibles de forma general, y File Uploads llegará pronto."
+              },
+              {
+                "t": "p",
+                "x": "Con Skills over MCP, los servidores pueden publicar habilidades junto a sus herramientas para ayudar a Claude a asumir trabajos más largos y de varios pasos. Claude carga una habilidad solo cuando la necesita, lo que mantiene bajo el uso de contexto. Las habilidades se actualizan con el servidor, así que los usuarios no tienen nada aparte que instalar. Shopify ayuda a Claude a diseñar y actualizar de principio a fin la tienda en línea de un comerciante."
+              },
+              {
+                "t": "img",
+                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+              },
+              {
+                "t": "p",
+                "x": "Con Tasks, los servidores pueden ejecutar operaciones que llevan tiempo, o incluso bucles de agente completos, mientras Claude sigue trabajando. Con Elicitation, un servidor puede pausar para pedir datos al usuario mediante un formulario o un enlace y luego continuar donde lo dejó. File Uploads envía PDFs, hojas de cálculo e imágenes a un servidor sin pasarlos por la ventana de contexto."
+              },
+              {
+                "t": "p",
+                "x": "Estas funciones forman parte de la especificación abierta de MCP y sus extensiones, así que un servidor que las admita funciona en cualquier cliente compatible, no solo en Claude. MCP registra ya más de 700 millones de descargas mensuales del SDK."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "MCP 서버, 이제 도구와\n함께 스킬도 배포",
+          "body": "Claude가 Skills over MCP 공개 베타로 서버 스킬 배포를 열었다.",
+          "mini_headline": "MCP 서버, 스킬 배포",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+              },
+              {
+                "t": "p",
+                "x": "Claude에서 Skills over MCP가 공개 베타로 나와, MCP 서버가 도구와 함께 스킬을 배포할 수 있게 됐다. Tasks와 Elicitation은 정식 출시됐고, File Uploads도 곧 배포된다."
+              },
+              {
+                "t": "p",
+                "x": "Skills over MCP를 쓰면 서버가 도구와 함께 스킬을 게시해 Claude가 더 길고 여러 단계로 이뤄진 작업을 맡도록 돕는다. Claude는 필요할 때만 스킬을 불러와 컨텍스트 사용량을 낮게 유지한다. 스킬은 서버와 함께 업데이트되므로 사용자가 따로 설치할 것이 없다. Shopify는 Claude가 판매자의 온라인 스토어를 처음부터 끝까지 디자인하고 업데이트하도록 돕는다."
+              },
+              {
+                "t": "img",
+                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+              },
+              {
+                "t": "p",
+                "x": "Tasks를 쓰면 서버가 시간이 걸리는 작업이나 에이전트 루프 전체를 돌리는 동안에도 Claude는 계속 일한다. Elicitation을 쓰면 서버가 잠시 멈추고 폼이나 링크로 사용자 입력을 받은 뒤 멈춘 곳부터 이어 간다. File Uploads는 PDFs, 스프레드시트, 이미지를 컨텍스트 창을 거치지 않고 서버로 보낸다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능들은 공개 MCP 사양과 그 확장에 속하므로, 이를 지원하는 서버는 Claude뿐 아니라 호환되는 어떤 클라이언트에서도 작동한다. MCP SDK의 월간 다운로드는 현재 7억 회를 넘는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MCPサーバー、ツールと\n共にスキルも配布可能に",
+          "body": "ClaudeのSkills over MCP公開ベータで、サーバーがスキルも配れる。",
+          "mini_headline": "MCPサーバーがスキルを配布",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+              },
+              {
+                "t": "p",
+                "x": "ClaudeでSkills over MCPが公開ベータとなり、MCPサーバーがツールと共にスキルを配布できるようになった。TasksとElicitationは一般提供が始まり、File Uploadsも近く展開される。"
+              },
+              {
+                "t": "p",
+                "x": "Skills over MCPにより、サーバーはツールと共にスキルを公開でき、Claudeがより長い多段階の作業をこなせるよう支援する。Claudeは必要なときだけスキルを読み込むため、コンテキストの使用量を低く抑えられる。スキルはサーバーと一緒に更新されるので、ユーザーが別途インストールするものはない。ShopifyはClaudeが販売者のオンラインストアを最初から最後までデザインし、更新するのを支援する。"
+              },
+              {
+                "t": "img",
+                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+              },
+              {
+                "t": "p",
+                "x": "Tasksでは、時間のかかる処理やエージェントループ全体をサーバーが実行している間も、Claudeは作業を続けられる。Elicitationでは、サーバーが一時停止してフォームやリンクでユーザーに入力を求め、中断したところから再開できる。File UploadsはPDFs、スプレッドシート、画像を、コンテキストウィンドウを経由せずにサーバーへ送る。"
+              },
+              {
+                "t": "p",
+                "x": "これらの機能はオープンなMCP仕様とその拡張の一部であるため、対応するサーバーはClaudeに限らず、互換性のあるあらゆるクライアントで動作する。MCPのSDKは現在、月7億回以上ダウンロードされている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "MCP服务器现可随工具\n一并提供技能",
+          "body": "Claude推出Skills over MCP公开测试版，MCP服务器可随工具打包技能。",
+          "mini_headline": "MCP服务器提供技能",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+              },
+              {
+                "t": "p",
+                "x": "Skills over MCP已在Claude中进入公开测试，MCP服务器可以随工具一并提供技能。Tasks和Elicitation现已正式可用，File Uploads也即将推出。"
+              },
+              {
+                "t": "p",
+                "x": "借助Skills over MCP，服务器可随工具发布技能，帮助Claude承担更长、多步骤的工作。Claude只在需要时加载技能，从而保持较低的上下文占用。技能随服务器一同更新，用户无需另行安装。Shopify帮助Claude从头到尾设计并更新商家的网店。"
+              },
+              {
+                "t": "img",
+                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+              },
+              {
+                "t": "p",
+                "x": "借助Tasks，服务器可以运行耗时操作，甚至完整的智能体循环，而Claude可以继续工作。借助Elicitation，服务器可以暂停，通过表单或链接请用户输入，再从中断处继续。File Uploads可将PDFs、电子表格和图片发送给服务器，而无需经过上下文窗口。"
+              },
+              {
+                "t": "p",
+                "x": "这些功能属于开放的MCP规范及其扩展，因此支持它们的服务器可在任何兼容客户端中运行，而不只是Claude。MCP的SDK月下载量现已超过7亿次。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los servidores MCP ya incluyen\nhabilidades junto a herramientas",
+          "body": "Claude abrió Skills over MCP en beta pública: los servidores MCP pueden incluir habilidades junto a sus herramientas.",
+          "mini_headline": "Los servidores MCP suman habilidades",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+              },
+              {
+                "t": "p",
+                "x": "Skills over MCP ya está en beta pública en Claude, así que los servidores MCP pueden distribuir habilidades junto a sus herramientas. Tasks y Elicitation ya están disponibles de forma general, y File Uploads llegará pronto."
+              },
+              {
+                "t": "p",
+                "x": "Con Skills over MCP, los servidores pueden publicar habilidades junto a sus herramientas para ayudar a Claude a asumir trabajos más largos y de varios pasos. Claude carga una habilidad solo cuando la necesita, lo que mantiene bajo el uso de contexto. Las habilidades se actualizan con el servidor, así que los usuarios no tienen nada aparte que instalar. Shopify ayuda a Claude a diseñar y actualizar de principio a fin la tienda en línea de un comerciante."
+              },
+              {
+                "t": "img",
+                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+              },
+              {
+                "t": "p",
+                "x": "Con Tasks, los servidores pueden ejecutar operaciones que llevan tiempo, o incluso bucles de agente completos, mientras Claude sigue trabajando. Con Elicitation, un servidor puede pausar para pedir datos al usuario mediante un formulario o un enlace y luego continuar donde lo dejó. File Uploads envía PDFs, hojas de cálculo e imágenes a un servidor sin pasarlos por la ventana de contexto."
+              },
+              {
+                "t": "p",
+                "x": "Estas funciones forman parte de la especificación abierta de MCP y sus extensiones, así que un servidor que las admita funciona en cualquier cliente compatible, no solo en Claude. MCP registra ya más de 700 millones de descargas mensuales del SDK."
               }
             ]
           }

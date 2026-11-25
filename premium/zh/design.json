@@ -13297,6 +13297,147 @@
           "x": "“我们的产品确实有完整的‘关闭所有AI’功能，”Forde指出，“那是我们特意放在那里的按钮。”"
         }
       ]
+    },
+    "design/canva-mcp-agent-apis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Canva正式推出Model Context Protocol服务器，并发布新的APIs，让AI智能体和外部开发者能在其他软件中使用其设计工具。公司表示，与Anthropic的新合作使Canva成为Claude中的设计层。"
+        },
+        {
+          "t": "p",
+          "x": "Canva围绕智能体的行为方式重建了MCP服务器，合并了功能重叠的工具，让使用较小模型的智能体也能选对功能。智能体可以创建可编辑的设计、图片和视频，去除背景，把平面图片转换为分层文件，并调整成品尺寸或导出。"
+        },
+        {
+          "t": "p",
+          "x": "用户可以在聊天中请求一条Instagram帖子，并收到采用品牌色彩和字体的可编辑Canva设计。智能体还能制作带旁白的产品短视频，并以可编辑时间线的形式返回。"
+        },
+        {
+          "t": "p",
+          "x": "开发者可通过新的REST APIs使用相同功能，命令行工具则支持批量作业。新的服务账户和API计费让自动化工作流无需员工登录即可运行。Canva还将通过API和MCP开放其自研图像生成模型Craft。"
+        },
+        {
+          "t": "p",
+          "x": "Canva表示，自10月以来已有近500,000人通过MCP注册，使用量在一个月内增长了93%。"
+        }
+      ]
+    },
+    "design/nvidia-nemotron-image-svg": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
+        },
+        {
+          "t": "p",
+          "x": "Nemotron-Labs-VisualCreation是一个智能体框架，用于创作富有表现力的光栅图像，以及网页、演示文稿、文档、图表和科学插图等可编辑视觉成果。其Pixel as Code接口通过生成、渲染和视觉检查，将学习得到的视觉词元与显式程序连接起来。"
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
+          "cap": "光栅外观与可编辑结构共用一套生成与渲染接口。"
+        },
+        {
+          "t": "p",
+          "x": "Nemotron-Labs-Image-30B-A3B是其中的光栅图像生成组件，是一个以Nemotron 3 Nano初始化的自回归生成器，总参数30B，激活参数3B。首批发布内容为图像生成器及其配套的视觉分词器；VisualCreation运行框架与Nemotron-Labs-VisionCode将在完成法律审核后发布。"
+        },
+        {
+          "t": "p",
+          "x": "Nemotron-Labs-VisualCreation在GenEval上得分92.86，在WISE Verified上得分91.50。在BizGenEval上，它得分86.0，GPT Image 2为83.2，Nano Banana Pro为76.7。"
+        },
+        {
+          "t": "p",
+          "x": "该模型依据NVIDIA License授权，用于非商业研究和评估。"
+        }
+      ]
+    },
+    "design/higgsfield-magi2-video-sound": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+        },
+        {
+          "t": "p",
+          "x": "MAGI-2是Sand AI的新视频模型，可通过Higgsfield网页应用和API使用。它依据图像、视频和音频参考，或起始帧（结束帧可选），同时生成视频和声音。片段时长4至30秒，分辨率1080p，提供六种画面比例。"
+        },
+        {
+          "t": "p",
+          "x": "References最多可接受10张图像、5段视频和5个音频文件；Frames接受起始帧和可选的结束帧。Sound开关用于开启或关闭音频。MAGI-2没有720p选项，因此想少用积分，就要缩短片段。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+        },
+        {
+          "t": "p",
+          "x": "在Frames中，描述起始图像里已有的场景以及想要的运动。在References中，按标签称呼每个输入，例如Image 1、Video 1或Audio 1。每个片段的提示词限于一到两个动作和一个镜头运动。"
+        },
+        {
+          "t": "p",
+          "x": "一段10秒的片段在网页应用中需25积分，使用Plus约合$1.23，通过API则为$0.80。"
+        }
+      ]
+    },
+    "design/claude-skills-over-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+        },
+        {
+          "t": "p",
+          "x": "Skills over MCP已在Claude中进入公开测试，MCP服务器可以随工具一并提供技能。Tasks和Elicitation现已正式可用，File Uploads也即将推出。"
+        },
+        {
+          "t": "p",
+          "x": "借助Skills over MCP，服务器可随工具发布技能，帮助Claude承担更长、多步骤的工作。Claude只在需要时加载技能，从而保持较低的上下文占用。技能随服务器一同更新，用户无需另行安装。Shopify帮助Claude从头到尾设计并更新商家的网店。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+        },
+        {
+          "t": "p",
+          "x": "借助Tasks，服务器可以运行耗时操作，甚至完整的智能体循环，而Claude可以继续工作。借助Elicitation，服务器可以暂停，通过表单或链接请用户输入，再从中断处继续。File Uploads可将PDFs、电子表格和图片发送给服务器，而无需经过上下文窗口。"
+        },
+        {
+          "t": "p",
+          "x": "这些功能属于开放的MCP规范及其扩展，因此支持它们的服务器可在任何兼容客户端中运行，而不只是Claude。MCP的SDK月下载量现已超过7亿次。"
+        }
+      ]
+    },
+    "design/figma-agent-figjam-slides": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Figma智能体现在可以在FigJam和Figma Slides中提供帮助。两款产品都支持连接器和附件，你可以导入设计文件、会议记录或研究笔记，让智能体将其整理到FigJam白板上，或转为演示文稿草稿。"
+        },
+        {
+          "t": "p",
+          "x": "在FigJam中，智能体会把Notion或Google Drive等工具中的上下文带到画布上。Figma Design Manager Megan Bednarczyk在设计评审前用它调取以往评审的反馈和竞品案例；智能体会总结过往反馈、已达成共识的方向以及下一次评审要讨论的问题。评审结束后，选中反馈便签并选择Organize → Summarize，即可生成一份涵盖决策、待解问题和后续步骤的Spec。"
+        },
+        {
+          "t": "p",
+          "x": "Specs工程负责人Johnny Dallas会选中便签、点击Ask agent，靠提示词得出v1规格，而不必逐条手动阅读评论。"
+        },
+        {
+          "t": "p",
+          "x": "在Figma Slides中，智能体可将Spec、附件或已连接的上下文转为初稿。品牌设计师Jarrod Barretto先让它把高管讲稿拆成大纲，再点击Generate deck，并根据电子表格截图填充柱状图。他说：“我可以非常精确地设定图表的样子，同时让智能体负责数学上的准确性。”"
+        },
+        {
+          "t": "p",
+          "x": "Figma智能体现已在所有付费方案的FigJam和Figma Slides中正式上线，两款产品均支持部分连接器和附件。"
+        }
+      ]
     }
   }
 }

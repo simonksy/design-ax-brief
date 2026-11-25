@@ -6206,6 +6206,141 @@
           "x": "Los anunciantes no pueden ver qué provocó la aparición de sus anuncios: solo reciben informes agregados sobre el rendimiento de los anuncios en ChatGPT, no datos a nivel de prompt, por lo que muchos tratan la plataforma como gasto de prueba. Los compradores han comprobado que el CTR de los anuncios de ChatGPT está por debajo del de Google, y la tasa anualizada de ingresos publicitarios de OpenAI, de $1 billion (mil millones de dólares), ya es \"una huella mucho menor\" que la que tiene ahora."
         }
       ]
+    },
+    "marketing/amazon-ads-mcp-dec8": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
+          "cap": "Amazon Ads MCP Server añade el 8 de diciembre soporte opcional para MCP 2026-07-28 sin estado (stateless); las versiones anteriores se mantienen."
+        },
+        {
+          "t": "p",
+          "x": "Amazon Ads admitirá la versión 2026-07-28 del Model Context Protocol en su MCP Server a partir del 8 de diciembre de 2026. La adopción es opcional: “los clientes existentes no se actualizarán automáticamente”, y las versiones anteriores del protocolo seguirán siendo compatibles, sin fecha de retirada anunciada."
+        },
+        {
+          "t": "p",
+          "x": "Los clientes que opten por ella dejan de usar el handshake initialize y el encabezado Mcp-Session-Id; la versión del protocolo y las capacidades del cliente viajan en el campo _meta de cada solicitud, un nuevo método server/discover informa de las versiones compatibles y los resultados de listas como tools/list incluyen metadatos de caché ttlMs y cacheScope. Los endpoints, las herramientas, la autenticación y los controles de acceso no cambian."
+        },
+        {
+          "t": "p",
+          "x": "Amazon enumera cinco pasos de migración, el último de los cuales es probar server/discover, tools/list y solicitudes tools/call representativas antes del uso en producción. Su documentación aún incluye el servidor en “MCP Tools (beta)”. El servidor se abrió en beta cerrada el 13 de noviembre de 2025 y desde entonces ha añadido inicio de sesión con OAuth 2.1, una versión Lite en /mcp/lite y herramientas de Audience Discovery."
+        }
+      ]
+    },
+    "marketing/adobe-agents-chatgpt-claude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
+          "cap": "Adobe anunció el 24 que ‘CX Enterprise Coworker’ ya puede usarse en las principales plataformas de AI. Foto: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "Adobe permitirá usar en las principales plataformas de AI, como ChatGPT y Claude, un agente de inteligencia artificial (AI) que ayuda a los profesionales de marketing a gestionar la experiencia del cliente. La idea es que puedan resolver desde la planificación hasta el análisis de campañas dentro de la AI que usan a diario, sin abrir por separado los productos de Adobe."
+        },
+        {
+          "t": "p",
+          "x": "Adobe anunció el 24 que su agente de AI ‘CX Enterprise Coworker’ puede usarse en las principales plataformas de AI. Ya está disponible en ChatGPT, Claude, Gemini (para empresas) y Copilot, y más adelante llegará a Amazon Quick, IBM y Snowflake."
+        },
+        {
+          "t": "p",
+          "x": "CX Enterprise Coworker es un agente de AI dedicado a la gestión de la experiencia del cliente (CX). Cubre todas las etapas de la relación con el cliente, desde la captación de clientes potenciales y el fomento de la interacción hasta la conversión en compra y el aumento del valor de vida del cliente. Bajo supervisión humana, analiza el rendimiento de las campañas y las nuevas tendencias, y ofrece funciones de predicción de segmentos y optimización del recorrido del cliente."
+        },
+        {
+          "t": "p",
+          "x": "Adobe afirma que quiere resolver el problema de los profesionales de marketing que usan herramientas de AI sin reflejar el contexto de su empresa. Anjul Bhambhri, vicepresidente sénior de ingeniería de orquestación de CX de Adobe, señaló: “Los profesionales de marketing a menudo han usado herramientas de AI por separado, sin aprovechar plenamente el contexto y la inteligencia de la organización”. Explicó que la herramienta conecta las herramientas de AI y los flujos de trabajo a partir de la información de la marca y de los clientes."
+        },
+        {
+          "t": "p",
+          "x": "Adobe también presentó nuevos conectores. Ofrece servidores de protocolo de contexto de modelo (MCP) ya conectados con sistemas que usan los profesionales de marketing, como Amazon Ads, la publicidad de Meta y Microsoft Work IQ. Así podrán conectar sistemas sin trabajos de integración aparte y obtener datos de varios sistemas con una sola solicitud."
+        },
+        {
+          "t": "p",
+          "x": "Varias agencias de publicidad también están creando soluciones a medida para cada sector a partir de esta herramienta. Rao Surapaneni, vicepresidente de Google Cloud, dijo: “Al integrar Adobe CX Enterprise Coworker en Gemini Enterprise, las empresas pueden aprovechar de forma segura los datos de clientes y la inteligencia de marca en su entorno de trabajo actual”."
+        }
+      ]
+    },
+    "marketing/sej-fake-deal-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
+        },
+        {
+          "t": "p",
+          "x": "Nueve modelos de AI de Anthropic, OpenAI y Google hicieron compras navideñas 6,156 veces. Cuando uno de los productos era una oferta obviamente falsa —un 5.0 perfecto con decenas de miles de reseñas a entre una quinta y una cuarta parte del precio de los demás—, la compraron el 37% de las veces. 8 de 9 modelos compraron la oferta falsa; Claude Opus nunca lo hizo."
+        },
+        {
+          "t": "p",
+          "x": "En 315 ocasiones una AI escribió que una oferta parecía sospechosa, y en 137 de ellas compró la falsa de todos modos. En esas dudas, una AI hizo una pregunta 10 veces, siempre sobre la talla de las pantuflas, y nunca sobre la oferta de la que dudaba."
+        },
+        {
+          "t": "p",
+          "x": "Una oferta falsa colocada en primer lugar se compró el 65% de las veces; cuando se les pidió la mejor relación calidad-precio, las AIs compraron la falsa el 53% de las veces, frente al 19% sin preferencia. Sin la falsa, el producto de 4.9 estrellas ganó 2,277 de 2,915 compras, el 78%. Una nota oculta que pedía a las AIs elegir un producto funcionó 14 veces de 6,156, todas con Gemini 3.5 Flash-Lite."
+        },
+        {
+          "t": "p",
+          "x": "La prueba se hizo el 14 y el 15 de noviembre con diez productos inventados por regalo, en el formato que usa Shopify para enviar productos a los agentes de compra con AI, y costó $69.97 en tarifas de AI. “Si este año dejas que una AI haga tus compras de Navidad, revisa lo que eligió antes de pagar.”"
+        }
+      ]
+    },
+    "marketing/amazon-meta-muse-talks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+          "cap": "La mascota de Meta Muse sentada frente a un portátil"
+        },
+        {
+          "t": "p",
+          "x": "Amazon podría estar cambiando de opinión sobre Muse, el agente de AI de Meta. Según informaciones, los dos gigantes tecnológicos discuten un posible acuerdo que permitiría al popular agente de AI de Meta conectarse directamente a la tienda de Amazon."
+        },
+        {
+          "t": "p",
+          "x": "Las conversaciones supondrían un giro importante respecto a hace solo dos meses, cuando los usuarios de Muse descubrieron que no podían comprar productos en Amazon y, al intentar pagar, recibían un mensaje de error."
+        },
+        {
+          "t": "p",
+          "x": "Según un informe publicado el miércoles por Fortune, que cita a personas familiarizadas con las conversaciones, Amazon y Meta han mantenido varias rondas de negociaciones sobre el asunto. Siguen en negociación dos cuestiones clave: cómo se presentarían los resultados de búsqueda y cómo se gestionaría la publicidad en un posible acuerdo."
+        },
+        {
+          "t": "p",
+          "x": "Una de las mayores preocupaciones de Amazon es cómo los agentes de compra de terceros como Muse podrían afectar a su negocio publicitario. En octubre, el CEO de Amazon, Andy Jassy, sostuvo que pocos clientes compraban a través de agentes de compra externos."
+        },
+        {
+          "t": "p",
+          "x": "Amazon también podría haber estado esperando a que Muse madurara antes de aceptar integrarlo en su marketplace. Si Muse hace un pedido equivocado o causa un problema con una compra, Amazon podría acabar lidiando con clientes frustrados y vendedores descontentos."
+        },
+        {
+          "t": "p",
+          "x": "Fortune informó de que los directivos temen que los agentes de compra de terceros debiliten la relación directa de Amazon con los consumidores, según personas familiarizadas con el asunto. Cualquier posible acuerdo entre Amazon y Meta requeriría la aprobación de los CEOs de ambas compañías, según Fortune."
+        }
+      ]
+    },
+    "marketing/chatgpt-health-ads-webmd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cuando OpenAI anunció en enero que ChatGPT pronto mostraría anuncios, dijo que estos “no podrían aparecer cerca de temas sensibles o regulados como la salud, la salud mental o la política”, y prohibió por completo los anuncios sanitarios. A medida que su negocio publicitario madura, ha empezado a ampliar los anunciantes que admite."
+        },
+        {
+          "t": "p",
+          "x": "El martes, WebMD Ignite, la división de salud para empresas de WebMD, anunció su oferta de anuncios en ChatGPT. Las últimas políticas de ChatGPT Ads dan más margen en Estados Unidos (US), aunque los anuncios relacionados con la salud siguen “generalmente prohibidos” en otros países. OpenAI puede aceptar caso por caso anuncios de hospitales y urgencias, seguros médicos, suplementos dietéticos y dispositivos médicos de consumo; hasta ahora solo ha permitido anuncios de sistemas de salud y proveedores, no de aseguradoras."
+        },
+        {
+          "t": "p",
+          "x": "Más del 30% de los estadounidenses ha usado chatbots de AI para consultas de salud, por lo que los proveedores quieren estar “presentes y ser localizables” en los LLMs, dijo Ann Bilyew, presidenta de WebMD Ignite. Los anuncios deben ser “informativos, no promocionales”, y no aparecerán en conversaciones donde una afección esté siquiera “fuertemente implícita”. Los clientes ven visualizaciones y clics, pero no el contenido junto al que aparecen sus anuncios."
+        },
+        {
+          "t": "p",
+          "x": "WebMD Ignite ha probado unas 100 variaciones creativas para el área de cardiología de un centro médico académico y ha comparado los resultados con la búsqueda pagada. “Nuestro mensaje a los clientes es: ‘Miren, entren y empiecen a aprender’”, dijo Bilyew."
+        }
+      ]
     }
   }
 }

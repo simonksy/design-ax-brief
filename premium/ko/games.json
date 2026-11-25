@@ -17402,6 +17402,136 @@
           "x": "Patentlyze는 5월 이후 Sony 특허 출원 174건을 추적해 왔다."
         }
       ]
+    },
+    "games/ubisoft-genai-pitch-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "이미지 출처: Ubisoft"
+        },
+        {
+          "t": "p",
+          "x": "Ubisoft에서 새 프로젝트를 제안하는 팀은 생성형 AI가 게임 개발 속도를 어떻게 높일지 설명해야 하고, 쓰지 않겠다면 그 이유를 자세히 밝혀야 한다. Vertical Slice에 익명으로 이야기한 여러 현직 직원에 따르면 이 내용이 빠진 기획안은 승인을 받지 못한다."
+        },
+        {
+          "t": "p",
+          "x": "한 소식통은 경영진이 생성형 AI를 대놓고 의무화하지는 않아도 전방위로 밀어붙인다고 말했다. 또 다른 직원은 \"AI를 쓰면 '작고 린하며 민첩한 팀'이 기획안을 만드는 속도가 빨라진다는 말을 들었다 ... 쓰지 않을 생각이라면 이유가 있어야 했다\"고 전하며 Ubisoft가 생성형 AI를 이제 \"피할 수 없는 것\"으로 본다고 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "지난주 Teammates 개발팀을 품은 생성형 AI 전담 자회사 Motherbrain이 출범한 직후 나온 보도다. 직원 수는 2022년 9월 20,700명에서 2026년 9월 15,500명으로 줄었다. 한 직원은 \"Ubisoft는 위에서 내려오는 AI 정신병이라는 악몽에 빠져 있다\"고 말했다. Ubisoft는 논평 요청에 응답하지 않았다."
+        }
+      ]
+    },
+    "games/muvluv-ai-translation-refusals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
+          "cap": "© aNCHOR inc"
+        },
+        {
+          "t": "p",
+          "x": "AI는 게임 번역을 대신 맡을 수준이 아니다. 사람이 검수하지 않으면 Muv-Luv Girls Gaiden 같은 일이 벌어진다. 이 게임이 막 내놓은 영어판에는 \"노골적인 성적 콘텐츠\" 번역을 거부한다는 문구가 곳곳에 박혀 있다."
+        },
+        {
+          "t": "p",
+          "x": "Girls Gaiden은 오래 이어져 온 일본 에로게 프랜차이즈의 방치형 RPG 가챠 스핀오프로, 2025년 일본에서 전연령판과 성인판으로 출시됐다. Steam 페이지 일본어 공지에도 일부 번역을 AI 도구로 마쳤다고 적혀 있다. 팬들이 찾아낸 바로는 대사가 AI 도구를 거쳐 검수 없이 그대로 게임에 들어가면서 \"노골적인 성적 콘텐츠는 번역해 드릴 수 없습니다\" 같은 문장이 셀 수 없이 남았다."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
+          "cap": "© Antares1368 / X"
+        },
+        {
+          "t": "p",
+          "x": "Steam에 나온 전연령판 평가는 '대체로 부정적(Mostly Negative)'이고 리뷰 대부분이 번역 품질을 문제 삼는다. 개발사 Moedoki는 지난해 \"원어민 번역가에 견줄 만한 수준의 번역 품질\"에 이르러야만 AI 번역을 검토하겠다고 밝혔다."
+        }
+      ]
+    },
+    "games/corcos-claude-civ-clone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
+          "cap": "이미지 출처: 2K/Firaxis"
+        },
+        {
+          "t": "p",
+          "x": "DOGE 경로로 임명된 Sam Corcos는 2025년 재무부 특별 고문으로 합류해 최고정보책임자(CIO)가 됐다. 부처를 덮친 사이버 보안 침해 사고로 강도 높은 조사가 이어지는데도 그는 자리를 지키며 \"Civilization을 사랑하는 사람들을 위해 만든 헥스 맵 기반 역사 4X\" 게임 Legatum을 바이브 코딩한다."
+        },
+        {
+          "t": "p",
+          "x": "\"Legatum은 대부분 AI 코딩 에이전트로 만들었고, 아트는 전부 AI로 생성했다(AI-generated)\"고 GitHub readme에 적혀 있다. 아트 대부분은 ChatGPT를 거쳐 OpenAI의 이미지 모델로 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "재무부 산하 기관 FinCEN이 \"시스템 일부에 대한 무단 접근으로 이어진\" \"사이버 보안 사고\"에 대응하는 사이 최근 며칠 동안 업데이트가 수십 건 올라왔다. Corcos는 \"컴퓨터가 알아서 하고 있다. 주로 Opus 5.5가 여러 반복 루프를 지휘한다\"고 트윗했다. 하지만 404 Media가 짚었듯 그는 기능마다 Claude에 꾸준히 피드백을 준다. \"재무부 CIO는 일은 안 하고 바이브코딩하느라 바쁘다\"는 GitHub 이슈는 \"주제 무관(off-topic)\"으로 닫혔고 그 답변마저 Claude가 썼다."
+        }
+      ]
+    },
+    "games/clashroyale-ai-cheat-hire": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Clash Royale 개발사 Supercell이 게임 내 부정행위를 단속하려고 고급 AI 치트 툴 제작자를 데려왔다."
+        },
+        {
+          "t": "p",
+          "x": "Clash Royale에서 AI 치트는 점점 큰 논란거리다. 갈수록 정교해지는 봇이 숙련된 인간 플레이어를 앞선다는 보도까지 나온다. 플레이어들 사이에서는 'Clasher'라는 AI 조작 계정(AI-controlled)이 글로벌 리더보드 정상에 올랐다는 주장이 퍼졌다. Clash Royale은 11월 20일 X에서 AI나 다른 도구로 치트를 쓰면 \"왕실 범죄\"라고 경고했다."
+        },
+        {
+          "t": "p",
+          "x": "11월 21일에는 이렇게 발표했다. \"AI 치트 툴 제작자를 붙잡았다. 그는 전적으로 자신의 자유의지로 Clash Royale 팀과 손잡기로 했다. Arena에서 본 가장 정교한 치트 툴을 만든 사람보다 치터를 잡는 데 더 적합한 사람이 있을까? 우리는 함께 이런 행위를 몰아낼 새로운 기술을 만들고 있다.\""
+        },
+        {
+          "t": "p",
+          "x": "Supercell은 해당 인물의 신원도, 그가 'Clasher'의 배후인지도 밝히지 않았다. Supercell은 공정 플레이 단속에 이미 자동 탐지와 사람의 검토를 함께 쓴다."
+        }
+      ]
+    },
+    "games/nvidia-kimodo-ue59-motion": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "이번 달 NVIDIA 게임 개발 업데이트는 War Thunder의 DLSS 5부터 Unreal Engine 5.9 Preview의 Kimodo까지, 개발자가 새 그래픽·애니메이션·로컬 AI 기능을 엔진에 들이도록 돕는다."
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
+          "cap": "NVIDIA Kimodo가 Unreal Engine 5.9 Preview의 Sequencer 안에서 캐릭터 모션을 만들어 낸다. 애니메이션 제공: Epic Games"
+        },
+        {
+          "t": "p",
+          "x": "Unreal Engine 5.9 Preview에는 가이드형 애니메이션 프레임워크와 Sequencer 도구 모음이 새로 들어가, 애니메이터가 AI 모션 생성 모델을 직접 다룬다. 여기에 처음 통합된 모델이 Kimodo다. GPU 가속(GPU-accelerated) 모션 생성을 익숙한 타임라인 에디터 작업 방식과 묶었다."
+        },
+        {
+          "t": "p",
+          "x": "애니메이터는 텍스트 프롬프트로 동작을 설명하고 캐릭터가 따라갈 스플라인 경로를 그린 뒤, 특정 프레임에 목표 포즈를 지정한다. 모델이 이 제약에 맞춰 모션을 생성하니 캐릭터가 어디로 움직이고 핵심 순간에 어떤 포즈를 취할지는 팀이 정한다."
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
+          "cap": "NvIGI SDK는 로컬 PC에서 NVIDIA ACE AI 모델을 실행한다"
+        },
+        {
+          "t": "p",
+          "x": "In-Game Inferencing SDK 1.8은 개발자가 NVIDIA ACE를 온디바이스로 돌리게 해 주는 도구다. 이번 버전에는 RTX Spark 지원, 최신 llama.cpp·whisper.cpp 백엔드, Parakeet 음성 인식, Vulkan priority API가 추가됐다."
+        },
+        {
+          "t": "video",
+          "yt": "geAFyWn6Nio"
+        },
+        {
+          "t": "p",
+          "x": "Nsight Graphics 2026.4와 Nsight Systems 2026.6에는 DLSS Frame Generation 분석과 에이전트형 AI 도구가 더해졌다. 새 Nsight Graphics MCP 서버를 쓰면 호환 AI 에이전트가 애플리케이션을 캡처해 디버그하고 GPU 트레이스까지 분석한다."
+        }
+      ]
     }
   }
 }

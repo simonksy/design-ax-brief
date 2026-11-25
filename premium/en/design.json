@@ -13556,6 +13556,147 @@
           "x": "\"We do have a complete 'turn all AI off' in our products,\" Forde notes. \"That's a button that we purposely put there.\""
         }
       ]
+    },
+    "design/canva-mcp-agent-apis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Canva has made its Model Context Protocol server generally available and launched new APIs that let AI agents and outside developers use its design tools inside other software. The company said a new partnership with Anthropic makes Canva the design layer within Claude."
+        },
+        {
+          "t": "p",
+          "x": "Canva rebuilt its MCP server around agent behavior by combining overlapping tools so agents using smaller models can select the appropriate function. Agents can create editable designs, images and videos, remove backgrounds, convert flat images into layered files, and resize or export finished work."
+        },
+        {
+          "t": "p",
+          "x": "Users can request an Instagram post in a chat and receive an editable Canva design using a brand's colors and fonts. Agents can also create short product videos with voiceovers and return them on editable timelines."
+        },
+        {
+          "t": "p",
+          "x": "Developers can access the same functions through new REST APIs, while a command-line tool supports bulk work. New service accounts and API billing allow automated workflows to operate without an employee signed in. Canva is opening Craft, its in-house image-generation model, through the API and MCP."
+        },
+        {
+          "t": "p",
+          "x": "Canva said nearly 500,000 people have signed up through MCP since October, while usage grew 93% in one month."
+        }
+      ]
+    },
+    "design/nvidia-nemotron-image-svg": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
+        },
+        {
+          "t": "p",
+          "x": "Nemotron-Labs-VisualCreation is an agentic framework for creating expressive raster images and editable visual artifacts, including webpages, presentations, documents, charts, and scientific figures. Its Pixel as Code interface connects learned visual tokens and explicit programs through generation, rendering, and visual inspection."
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
+          "cap": "Raster appearance and editable structure share a generation-and-rendering interface."
+        },
+        {
+          "t": "p",
+          "x": "Nemotron-Labs-Image-30B-A3B is its raster image-generation component, an autoregressive generator initialized from Nemotron 3 Nano, with 30B total and 3B active parameters. The initial release covers the image generator and its bundled visual tokenizer; the VisualCreation harness and Nemotron-Labs-VisionCode will be released upon legal clearance."
+        },
+        {
+          "t": "p",
+          "x": "Nemotron-Labs-VisualCreation reaches 92.86 on GenEval and 91.50 on WISE Verified. On BizGenEval, it scores 86.0, compared with 83.2 for GPT Image 2 and 76.7 for Nano Banana Pro."
+        },
+        {
+          "t": "p",
+          "x": "The model is licensed for non-commercial research and evaluation under the NVIDIA License."
+        }
+      ]
+    },
+    "design/higgsfield-magi2-video-sound": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+        },
+        {
+          "t": "p",
+          "x": "MAGI-2 is Sand AI's new video model, available through the Higgsfield web app and API. It generates video and sound together, guided by image, video, and audio references or a start frame with an optional end frame. Clips run from 4 to 30 seconds at 1080p in six aspect ratios."
+        },
+        {
+          "t": "p",
+          "x": "References accept up to 10 images, 5 videos, and 5 audio files, and Frames take a start frame with an optional end frame. The Sound toggle turns audio on or off. MAGI-2 has no 720p option, so a shorter clip is the way to use fewer credits."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+        },
+        {
+          "t": "p",
+          "x": "In Frames, describe the scene already shown in the start image and the intended movement. In References, refer to each input by its label, such as Image 1, Video 1, or Audio 1. Limit the prompt to one or two actions and one camera movement per clip."
+        },
+        {
+          "t": "p",
+          "x": "A 10-second clip costs 25 credits in the web app, approximately $1.23 on Plus, or $0.80 through the API."
+        }
+      ]
+    },
+    "design/claude-skills-over-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+        },
+        {
+          "t": "p",
+          "x": "Skills over MCP is now in public beta in Claude, so MCP servers can ship skills alongside their tools. Tasks and Elicitation are now generally available, and File Uploads is rolling out soon."
+        },
+        {
+          "t": "p",
+          "x": "With Skills over MCP, servers can publish skills alongside their tools to help Claude take on longer, multi-step work. Claude loads a skill only when it's needed, keeping context use low. Skills update with the server, so users have nothing separate to install. Shopify helps Claude design and update a merchant's online store end to end."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+        },
+        {
+          "t": "p",
+          "x": "With Tasks, servers can run operations that take time, or even full agent loops, while Claude keeps working. With Elicitation, a server can pause to ask the user for input through a form or link, then continue where it left off. File Uploads sends PDFs, spreadsheets, and images to a server without passing them through the context window."
+        },
+        {
+          "t": "p",
+          "x": "These features are part of the open MCP spec and its extensions, so a server that supports them works in any compatible client, not just Claude. MCP now sees over 700 million monthly SDK downloads."
+        }
+      ]
+    },
+    "design/figma-agent-figjam-slides": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "The Figma agent can now help in FigJam and Figma Slides. With connectors and attachments in both products, you can bring in design files, transcripts or research notes and ask the agent to organize them on a FigJam board or turn them into a draft presentation."
+        },
+        {
+          "t": "p",
+          "x": "In FigJam, the agent brings context from tools like Notion or Google Drive onto the canvas. Before a design crit, Figma Design Manager Megan Bednarczyk uses it to pull in feedback from previous crits and competitor examples; the agent summarizes past feedback, the agreed direction and questions for the upcoming crit. Afterward, selecting feedback stickies and choosing Organize → Summarize creates a Spec covering decisions, open questions and next steps."
+        },
+        {
+          "t": "p",
+          "x": "Johnny Dallas, engineering lead on Specs, selects stickies, clicks Ask agent and prompts his way to a v1 spec instead of reading every comment by hand."
+        },
+        {
+          "t": "p",
+          "x": "In Figma Slides, the agent turns a Spec, attachments or connected context into a first pass. Brand designer Jarrod Barretto has it break an executive script into an outline before clicking Generate deck, and populates bar charts from a spreadsheet screenshot. “I can be really precise about how I want a chart to look while letting the agent take care of the mathematical accuracy,” he says."
+        },
+        {
+          "t": "p",
+          "x": "The Figma agent is now generally available in FigJam and Figma Slides on all paid plans, with select connectors and attachments supported in both."
+        }
+      ]
     }
   }
 }

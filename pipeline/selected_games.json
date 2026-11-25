@@ -1,96 +1,107 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "games",
+  "user_selection": null,
   "items": [
     {
-      "title": "What's New for Game Developers: AI Animation and RTX Tools",
-      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/",
-      "source": "NVIDIA Technical Blog",
-      "published_iso": "2026-11-24T17:00:00+00:00",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Featured-War-Thunder-DLSS-5-on.webp",
-      "excerpt": "NVIDIA's Kimodo becomes the first AI motion-generation model integrated into Unreal Engine 5.9 Preview's guided animation framework, letting animators generate character motion in Sequencer from text prompts, spline paths and target poses; the In-Game Inferencing SDK 1.8 adds RTX Spark support, updated llama.cpp/whisper.cpp backends and Parakeet speech recognition.",
+      "rank": 1,
       "tool": "Games",
+      "category": "games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "The most actionable item in the pool. Animators can now generate motion in Sequencer from text, splines and poses, and the In-Game Inferencing SDK 1.8 is a new SDK release. Both are new releases, not a recap of the 11-11 UE 5.9 Preview card."
+      "title": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a touching tribute, but some fans call it gross and bleak",
+      "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
+      "source": "PC Gamer",
+      "published_iso": "2026-11-25T20:23:51Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L-2560-80.jpg",
+      "excerpt": "Legendary football pundit John Motson will return to the series, in AI form, in today",
+      "rationale": "EA ships an AI-recreated voice of the late John Motson in FC 27. It is the biggest AI-voice decision of the week from a top-tier publisher, and the article covers both the estate's consent and the fan backlash."
     },
     {
-      "title": "Atari Homebrew Awards canceled over torrent of AI games: 'I saw no path forward'",
-      "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096",
-      "source": "Kotaku",
-      "published_iso": "2026-11-24T21:00:14+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
-      "excerpt": "Organizer ZeroPage Homebrew suspended the ninth Atari Homebrew Awards after a flood of AI-assisted submissions - some developers releasing multiple games a week - made it impossible to set or verify a cutoff for AI use in music, art or code without witch hunts or false positives.",
+      "rank": 2,
       "tool": "Games",
+      "category": "games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "A fresh community event that shows the practical problem of verifying AI use in competitions and juried showcases. It is a different organizer and event from the 11-11 educational-program cancellation."
+      "title": "Ubisoft staff must justify not using generative AI in pitches, report claims",
+      "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-11-25T20:19:40+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Ubisoft teams pitching new projects are reportedly being asked to explain how generative AI would help them make games …",
+      "rationale": "A new internal greenlight rule at Ubisoft: pitches have to explain why they do not use genAI. This is a concrete process mandate, not more Motherbrain coverage."
     },
     {
-      "title": "GTA 6 recomp leaders bail out as Take-Two cracks down on illicit efforts to get the game running on PC",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
-      "source": "PC Gamer",
-      "published_iso": "2026-11-24T17:42:34+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg",
-      "excerpt": "After Take-Two's takedowns, the leads of Project Leonida - the best-known effort to use AI to quickly recompile the leaked Xbox build of GTA 6 for PC - quit, though others continue; PC Gamer notes AI makes such ports far faster and tougher for publishers to stop.",
+      "rank": 3,
       "tool": "Games",
+      "category": "games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "A concrete event: a publisher takedown against AI-accelerated recompilation of the biggest release of the year. It is a new event in the AI-recomp theme (11-05 Mario Odyssey port, 11-02 Anthropic restriction), not a repeat."
+      "title": "The Japanese Erotic Visual Novel That's Filled With AI's Prudish Refusals To Translate Explicit Sexual Content",
+      "url": "https://kotaku.com/the-japanese-erotic-visual-novel-thats-filled-with-ais-prudish-refusals-to-translate-explicit-sexual-content-2001000228",
+      "source": "Kotaku",
+      "published_iso": "2026-11-25T11:00:09+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden-1200x675.jpg",
+      "excerpt": "Muv-Luv Girls Gaiden has put out a disastrous English-language version",
+      "rationale": "A shipped commercial localization contains LLM refusal text where the translation should be. It is a concrete failure case for anyone using AI translation in production."
     },
     {
-      "title": "Shogi AI has grown so strong that computer shogi tournaments see 80% first-move win rates even with handicaps",
-      "url": "https://automaton-media.com/articles/newsjp/20261123-480506/",
-      "source": "AUTOMATON",
-      "published_iso": "2026-11-23T08:21:03+00:00",
-      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg",
-      "excerpt": "After the 7th World Shogi AI Denryu-sen finals, YaneuraOu developer Yaneurao warned that shogi AIs are now so strong the first player wins about 80% of games even with a time handicap, making 'first-move-wins' a near certainty and tournaments increasingly hard to run.",
+      "rank": 4,
       "tool": "Games",
+      "category": "games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "New tournament results showing game-playing AI pushing a classic game toward being solved, with direct consequences for how AI competitions and game balance are designed. Nothing like it has run in the last 30 days."
+      "title": "US Treasury official using Claude to create a Civilization clone tries to shut down worries he's too busy vibecoding during cybersecurity breach: \"The computers are doing it on their own\"",
+      "url": "https://www.gamesradar.com/games/strategy/us-treasury-official-using-claude-to-create-a-civilization-clone-tries-to-shut-down-worries-hes-too-busy-vibecoding-during-cybersecurity-breach-the-computers-are-doing-it-on-their-own/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-11-25T21:41:14Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77-1920-80.jpg",
+      "excerpt": "Sam Corcos is vibe-coding Legatum, a \"historical 4X on a hex map, built for people who love Civilization\"",
+      "rationale": "A senior government official is publicly vibe-coding a 4X game with Claude, which shows how far agent-built games have spread beyond the industry. The story is new and not covered in any section."
     },
     {
-      "title": "AI Evaluates, Humans Decide: The Next Step in Game Rating Classification",
-      "url": "https://www.invenglobal.com/articles/28903",
-      "source": "Inven Global",
-      "published_iso": "2026-11-20T14:46:32+00:00",
-      "og_image": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
-      "excerpt": "A Nexon-led industry-academic consortium presented first-year results and plans for AI-assisted game rating technology, in which AI pre-evaluates game content and human reviewers make the final classification decision.",
+      "rank": 5,
       "tool": "Games",
+      "category": "games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "A new first-year results release on AI pre-screening for age ratings, which affects how studios prepare content for classification. It was yesterday's runner-up and has not been published."
+      "title": "Clash Royale recruits creator of AI cheating tool to help catch cheaters",
+      "url": "https://www.dexerto.com/gaming/clash-royale-recruits-creator-of-ai-cheating-tool-to-help-catch-cheaters-3430356/",
+      "source": "Dexerto",
+      "published_iso": "2026-11-21T21:15:18.000Z",
+      "og_image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg",
+      "excerpt": "Clash Royale developer Supercell has recruited the creator of an advanced AI cheating tool to help crack down on cheating in the game.",
+      "rationale": "Supercell hired the developer of an AI cheat tool to work on its anti-cheat. This is a concrete new move in AI cheating versus AI detection, and it is a different event from the 11-15 Call of Duty warning."
     }
   ],
   "dedup": {
     "checks": {
-      "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/": {
+      "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/": {
         "verdict": "new",
-        "nearest": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
+        "nearest": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/",
         "new_action": ""
       },
-      "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096": {
+      "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims": {
         "verdict": "new",
-        "nearest": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
+        "nearest": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
         "new_action": ""
       },
-      "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/": {
+      "https://kotaku.com/the-japanese-erotic-visual-novel-thats-filled-with-ais-prudish-refusals-to-translate-explicit-sexual-content-2001000228": {
         "verdict": "new",
-        "nearest": "http://www.gamey.kr/news/articleView.html?idxno=3019481",
+        "nearest": "https://automaton-media.com/en/news/steinsgate-developer-mages-says-ai-translation-is-a-long-way-from-being-viable-for-visual-novels/",
         "new_action": ""
       },
-      "https://automaton-media.com/articles/newsjp/20261123-480506/": {
+      "https://www.gamesradar.com/games/strategy/us-treasury-official-using-claude-to-create-a-civilization-clone-tries-to-shut-down-worries-hes-too-busy-vibecoding-during-cybersecurity-breach-the-computers-are-doing-it-on-their-own/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.invenglobal.com/articles/28903": {
+      "https://www.dexerto.com/gaming/clash-royale-recruits-creator-of-ai-cheating-tool-to-help-catch-cheaters-3430356/": {
         "verdict": "new",
-        "nearest": "https://www.invenglobal.com/articles/28324/nexon-wins-best-paper-award-at-ictai-2026",
+        "nearest": "https://gameriv.com/call-of-duty-warns-ai-powered-cheats-are-becoming-harder-to-detect/",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: (1) Wccftech 'UE 5.9 Preview 2' is the running UE 5.9 story (11-11 80.lv, 11-22 unrealengine.com). It is an incremental build and was already dropped on 11-23 and 11-24. (2) Inworld 'Voice Isolator' is a likely-repeat of the 11-19 'Introducing SAVA' card (same vendor, same launch week), and audio is incidental to games. (3) Inven Global 'Imitation disputes shift to AI cloning' is commentary on the AI-clone theme already carried 11-14, 11-17 and 11-24. (4) PC Gamer 'The race to port GTA 6 to PC, explained' is the same GTA 6 recomp story as the picked Take-Two crackdown piece. I kept the one reporting the new event, which also holds PC Gamer to one card. (5) Unity 'Asset Store and CLI for AI agents' is a likely continuation of the 11-17 Unity CLI 1.0 card and the 11-22 Unite Tokyo recap ('AI Asset Library search'), and it has no og_image. Not picked on score: Dexerto 'Clash Royale hires AI cheat creator' (an anecdote in the 11-15 AI-cheat theme, off-whitelist), inews24 '[AI & LAW] Wrtn Crack/GRAC' (legal analysis, no new decision). Cross-section: published_urls.json is too large to exact-grep with Read-only tools, so the orchestrator should grep 'ai-animation-and-rtx-tools', 'Kimodo', 'atari-homebrew-awards', 'gta-6-recomp', '20261123-480506' and 'articles/28903' across all sections before roll. The NVIDIA Kimodo item could also surface in the design/movies pools. Diversity: 5 distinct outlets (developer.nvidia.com, kotaku.com, pcgamer.com, automaton-media.com, invenglobal.com), 1 each."
+    "note": "Dropped: GamesIndustry.biz EA FC 27/Motson (same story as the PC Gamer pick, cluster c0; brief says keep one). 4Gamer Epic Fortnite Blueprints-to-Verse (same as the 11-22 unrealengine.com UE6 post). Wccftech Apex Neural Rendering DF test (analysis of the Apex launch already published 11-13). Wccftech UE 5.9 Preview 2 (same running story as the 11-11 UE 5.9 preview and 11-22 UE6 AI tooling post; no new standalone announcement). Unity Asset Store + CLI agents (overlaps 11-17 Unity CLI 1.0 and the 11-22 Unite Tokyo AI Asset Library item; broken og_image). Not picked on score: Inworld Voice Isolator (audio tooling with weak game angle, 11-18), inews24 AI & LAW and Inven Global AI cloning (analysis pieces), NVIDIA DLSS 5 Where Winds Meet Q&A (same format as the 11-04 War Thunder DLSS 5 interview), Roblox AI builders blog (corporate overview). Cross-section: a manual check of the politics history and today's pool found no Corcos/Treasury story. published_urls.json is too large to grep with the available tools, so an exact cross-section URL grep was not run. All five pick URLs are dated 11-21 to 11-25 and absent from the games 30-day history_digest. Outlets: 5 distinct (PC Gamer, GamesIndustry.biz, Kotaku, GamesRadar+, Dexerto)."
   }
 }

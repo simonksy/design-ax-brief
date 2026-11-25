@@ -1,7 +1,31 @@
-{"date":"2026-11-25","section":"gadgets","media":[
-{"id":"pocketalk-x-desk-translator","type":"video","src":"pipeline/media/pocketalk-x-desk-translator.mp4","poster":"pipeline/media/pocketalk-x-desk-translator.jpg"},
-{"id":"honor-magic9-promax-global","type":"image","src":"pipeline/media/honor-magic9-promax-global.jpg"},
-{"id":"foundation-phantom-mkii","type":"video","src":"pipeline/media/foundation-phantom-mkii.mp4","poster":"pipeline/media/foundation-phantom-mkii.jpg"},
-{"id":"gadgets-ax-appliance-center","type":"image","src":"pipeline/media/gadgets-ax-appliance-center.jpg"},
-{"id":"galaxy-s27u-laser-af-leak","type":"image","src":"pipeline/media/galaxy-s27u-laser-af-leak.jpg"}
-]}
+{
+ "date": "2026-11-26",
+ "section": "gadgets",
+ "media": [
+  {
+   "id": "savage-orrorin-glasses",
+   "type": "image",
+   "src": "pipeline/media/savage-orrorin-glasses.jpg"
+  },
+  {
+   "id": "wyze-window-bird-cam",
+   "type": "image",
+   "src": "pipeline/media/wyze-window-bird-cam.jpg"
+  },
+  {
+   "id": "amazon-ai-toys-petition",
+   "type": "image",
+   "src": "pipeline/media/amazon-ai-toys-petition.jpg"
+  },
+  {
+   "id": "rogbid-loop-memo-band",
+   "type": "image",
+   "src": "pipeline/media/rogbid-loop-memo-band.jpg"
+  },
+  {
+   "id": "google-home-nov25-update",
+   "type": "image",
+   "src": "pipeline/media/google-home-nov25-update.jpg"
+  }
+ ]
+}

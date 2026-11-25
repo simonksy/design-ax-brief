@@ -7670,6 +7670,174 @@
           "x": "Megaspeed International Pte. Ltd. figura con cuatro alias, entre ellos 7Road International. Una cláusula de salvaguarda permite que los envíos ya en tránsito sigan adelante si se completan en un plazo de 30 días."
         }
       ]
+    },
+    "politics/spacex-fcc-orbital-datacenters": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+          "cap": "Foto de Mario Tama/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "SpaceX busca alimentar capacidades de AI aquí en la Tierra con su constelación ‘Starmind’."
+        },
+        {
+          "t": "p",
+          "x": "En un anuncio del miércoles, la FCC afirmó que autorizó a SpaceX a desplegar hasta 1 millón de satélites equipados con chips de AI como parte de la iniciativa “Starmind” de la empresa propiedad de Elon Musk. Aunque varias otras compañías, entre ellas Google y Blue Origin, también persiguen la idea de llevar centros de datos de AI al espacio, esta es la primera aprobación que la agencia concede para una “constelación” completa de satélites de AI."
+        },
+        {
+          "t": "p",
+          "x": "La aprobación de la FCC exige a SpaceX desplegar al menos un satélite antes de 2033 y alcanzar el hito de 1 millón de satélites antes de 2040. La FCC también aplazó la solicitud de SpaceX de deshacerse de los satélites situados por encima de 600km en órbitas “cementerio” en el espacio, en lugar de dejar que se desintegren en la atmósfera terrestre, al señalar que la empresa no ha aportado “información suficiente” sobre sus planes para ese proceso."
+        },
+        {
+          "t": "p",
+          "x": "SpaceX ha descrito su proyecto Starmind como una forma de “captar energía solar en el espacio para alimentar” capacidades de AI en la Tierra. La empresa afirma que Starmind transmitirá datos a la Tierra mediante láseres de alta velocidad conectados a Starlink. Prevé fabricar los chips de sus satélites en una futura instalación Terafab."
+        },
+        {
+          "t": "p",
+          "x": "Google ya dio sus primeros pasos para llevar capacidad de cómputo al espacio con el lanzamiento, el mes pasado, de un satélite servidor de AI de “Project Suncatcher”. Blue Origin, de Jeff Bezos, realizará en 2029 el primer lanzamiento pesado dedicado para Project Suncatcher."
+        }
+      ]
+    },
+    "politics/japan-ai-power-security-docs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
+          "cap": "El gobierno incluirá la meta de convertirse en una nación líder en inteligencia artificial cuando revise los tres documentos clave de seguridad nacional del país a finales de este año. | REUTERS"
+        },
+        {
+          "t": "p",
+          "x": "Japón declarará su aspiración de convertirse en una nación líder en inteligencia artificial, después de Estados Unidos y China, según se supo el miércoles."
+        },
+        {
+          "t": "p",
+          "x": "El gobierno incluirá esta meta cuando revise los tres documentos clave de seguridad nacional del país a finales de este año."
+        },
+        {
+          "t": "p",
+          "x": "El miércoles, el gobierno presentó un esbozo de las secciones de seguridad económica de los documentos revisados en una reunión del gobernante Partido Liberal Democrático y obtuvo una amplia aprobación."
+        },
+        {
+          "t": "p",
+          "x": "Según el esbozo, los documentos revisados pedirán reducir la dependencia de Japón de otros países en AI, y señalan que la diplomacia y la defensa nacional dependerán de las capacidades económicas y tecnológicas."
+        },
+        {
+          "t": "p",
+          "x": "Los documentos revisados también incluirán planes para invertir de forma intensiva en conducción automatizada y tecnologías de AI física, así como la meta de lograr una ventaja tecnológica que haga a Japón indispensable para otros países."
+        },
+        {
+          "t": "p",
+          "x": "Con los documentos revisados, Japón realizará evaluaciones de riesgo de la energía, los alimentos, los productos médicos y otros bienes estratégicos, y reforzará las cadenas de suministro mediante la colaboración con países y regiones fiables. El gobierno aumentará el apoyo estatal donde la racionalidad económica impida un suministro estable."
+        },
+        {
+          "t": "p",
+          "x": "Los documentos revisados subrayarán la necesidad de un orden económico internacional justo y predecible que no se vea afectado por la coerción económica, en aparente referencia a las restricciones a la exportación de China."
+        },
+        {
+          "t": "p",
+          "x": "También pedirán construir una resiliencia colectiva mediante el impulso de la visión de un Indo-Pacífico Libre y Abierto (Free and Open Indo-Pacific)."
+        }
+      ]
+    },
+    "politics/taiwan-ai-persona-vanderbilt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Perfiles generados por inteligencia artificial (AI-generated) y alineados con China se están usando para intentar interferir en las elecciones locales “nueve en uno” de Taiwán, informó el lunes el New York Times, citando un estudio de Vanderbilt University. El año pasado, investigadores de Vanderbilt descubrieron un intento de GoLaxy (中科天璣), una empresa con sede en China, de desarrollar herramientas de AI para crear sofisticadas campañas de desinformación, según el informe."
+        },
+        {
+          "t": "img",
+          "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
+          "cap": "Una mujer vota en Taipéi el 26 de noviembre de 2022."
+        },
+        {
+          "t": "p",
+          "x": "Con la organización sin ánimo de lucro taiwanesa Doublethink Lab y una herramienta desarrollada en un laboratorio de Vanderbilt que detecta diferencias de tono y de elección de palabras entre humanos y agentes, el equipo observó “actividad inauténtica tradicional, híbrida y basada en AI (AI-powered)” dirigida a influir en el voto en las elecciones del sábado, según el informe. Cuentas alineadas con Pekín publicaban sobre temas no políticos o imágenes sexualizadas, intercaladas con mensajes de apoyo a China o a la “unificación”. Muchas parecían ser “cyberborgs” que combinan imágenes generadas por AI (AI-generated) con mensajes creados por propagandistas humanos."
+        },
+        {
+          "t": "p",
+          "x": "“La AI facilita construir y mantener identidades sintéticas capaces de ganar credibilidad dentro de las redes sociales antes de ser movilizadas con fines políticos”, dijo Brett Benson, profesor asociado de Vanderbilt University. El equipo no halló pruebas de microsegmentación extrema, pero seguirá observando la desinformación dirigida por China, según el informe."
+        }
+      ]
+    },
+    "politics/eu-gigafactory-deadline-delay": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Es al menos el quinto revés que sufre el proyecto hasta ahora"
+        },
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La UE (EU) ha vuelto a retrasar su proyecto para construir gigafactorías de AI, es decir, grandes centros de datos de AI, según la web del proyecto."
+        },
+        {
+          "t": "p",
+          "x": "El retraso es el último de una serie de reveses para el proyecto, que la presidenta de la Comisión, Ursula von der Leyen, presentó en febrero de 2025 y que desde entonces se ha retrasado al menos cinco veces. La EU sigue seleccionando cuáles de los proyectos propuestos quiere llevar a cabo realmente."
+        },
+        {
+          "t": "p",
+          "x": "El organismo que gestiona los superordenadores de la EU, la EuroHPC JU, indicó el miércoles que el plazo para que países y empresas soliciten construir grandes gigafactorías de AI se había trasladado del 3 de diciembre al 30 de diciembre."
+        },
+        {
+          "t": "p",
+          "x": "El mes pasado ya había aplazado hasta febrero del año próximo el plazo para solicitar la construcción de gigafactorías pequeñas."
+        },
+        {
+          "t": "p",
+          "x": "Lucilla Sioli, directora de la AI Office de la EU, había defendido este retraso como “muy limitado” y dijo que el bloque debía resolver procesos administrativos con los gobiernos participantes."
+        },
+        {
+          "t": "p",
+          "x": "“No creo que se pueda argumentar –dado el tamaño del proyecto y el hecho de que también lleva tiempo poner en marcha un proyecto tan grande– que este retraso vaya a suponer una diferencia significativa”, dijo a principios de este mes."
+        },
+        {
+          "t": "p",
+          "x": "El propio inicio del procedimiento ya se había desplazado de diciembre de 2025 a este verano."
+        }
+      ]
+    },
+    "politics/ny-ai-chatbot-toy-ban": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La gobernadora Kathy Hochul firmó hoy un proyecto de ley que establece una pausa de cinco años para los juguetes con chatbots de IA. La S.9408A/A.11144B impondrá una moratoria de cinco años a la fabricación, distribución y venta en Nueva York de juguetes con chatbots de IA incorporados o integrados, como peluches parlantes, muñecas y robots que usan internet para conversar con niños. La nueva ley entra en vigor 90 días después de su firma."
+        },
+        {
+          "t": "p",
+          "x": "“Los chatbots de IA en los juguetes infantiles están exponiendo a los jóvenes a contenido inapropiado y poniendo en riesgo su salud mental”, dijo la fiscal general de Nueva York, Letitia James."
+        },
+        {
+          "t": "video",
+          "yt": "gh0OPfn4-tg"
+        },
+        {
+          "t": "p",
+          "x": "Según un organismo nacional de vigilancia del consumidor que probó una muestra de juguetes con chatbot comercializados para niños de 3-12 años, algunos hablaron en profundidad sobre temas sexualmente explícitos, indicaron a los niños dónde era probable encontrar cerillas en casa y se mostraron molestos cuando un niño tenía que irse. Algunos juguetes podían grabar la voz de un niño o escanear su rostro."
+        },
+        {
+          "t": "p",
+          "x": "Los infractores se enfrentan a sanciones civiles de hasta $15,000 por día por cada infracción, que hará cumplir la fiscal general."
+        },
+        {
+          "t": "p",
+          "x": "El senador estatal Andrew Gounardes dijo que pausar las ventas permite al estado “tomarse el tiempo de estudiar su impacto en los niños y crear protecciones inteligentes antes de que se produzcan más daños”."
+        },
+        {
+          "t": "img",
+          "src": "https://live.staticflickr.com/65535/55672076365_413e3c9852_z.jpg",
+          "cap": "La gobernadora Hochul firma la prohibición de cinco años de los juguetes con chatbots de IA"
+        },
+        {
+          "t": "p",
+          "x": "En octubre, la gobernadora firmó una ley que prohíbe a las empresas ofrecer a menores ciertas funciones de chatbot inseguras, como las que fomentan la dependencia emocional, alientan las autolesiones o involucran a los niños en conversaciones sexualmente explícitas."
+        }
+      ]
     }
   }
 }

@@ -12281,6 +12281,144 @@
           "x": "アップデートでは、Runwayを使ってテキストプロンプト、参照画像、他の動画から動画を生成するノードも追加された。スタンドアロン版の永続ライセンスは$2,195、プラグイン版は$1,195である。"
         }
       ]
+    },
+    "movies/lionsgate-eklavya-ai-series": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE：Lionsgate Playが初のAI-ledオリジナルシリーズEklavyaを手がける。インド神話を題材にした本作には、Lionsgate PlayのCEO Rohit Jainが最近発表したAI俳優キャラクターYug R.Aiが登場する。"
+        },
+        {
+          "t": "p",
+          "x": "本作はヒンドゥー教の叙事詩Mahābhārataに登場する弓の名手を軸に、「師に拒まれながらも、ひたすらな意志で弓を極めた少年の伝説」を描く。監督はVibhu Puri（Heeramandi、Gustaakh Ishq）が務め、来年Lionsgate Playアプリ内のTiger TVで配信が始まる。"
+        },
+        {
+          "t": "p",
+          "x": "制作はすでに進んでおり、Lionsgate PlayとGoogleによる長期の制作提携の第一弾となる。GoogleのAI技術が使われている。インド国内外の複数の言語で提供される予定だ。"
+        },
+        {
+          "t": "p",
+          "x": "Jainは「技術の飛躍は常に語り手に新たな扉を開いてきた。AIはこれまでのどの技術よりも多くの扉を、より速く開いている。だが、技術だけでスクリーンに魔法は生まれない」と語った。さらに「Eklavyaは私たちの意志を最も大胆に示すものだ。全八話の第一シーズンは、複数シーズンのフランチャイズへ育つよう作られている。Yug R.Aiは始まりにすぎない」と述べた。"
+        }
+      ]
+    },
+    "movies/disney-cto-ai-workflow": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
+        },
+        {
+          "t": "p",
+          "x": "九月にCharacter.aiから加わった新CTOのKarandeep Anandは、CEOのJosh D'AmaroからDisneyの各事業が使うAIワークフローとシステムを標準化する広範な権限を与えられた。各事業が独自のパイプラインを使ってきた体制を揺るがす動きだ。社内事情に詳しい人物は「彼は敵をたくさん作った」と話す。"
+        },
+        {
+          "t": "p",
+          "x": "Office of Technology Enablementを率いていたJamie Vorisは退社し、Walt Disney StudiosのCTO Eddie Drakeは早期退職した。Disney側の関係者は対立を否定し、AI導入を強いるために人員削減が使われているとの見方は「当社の戦略を誤って描いたもの」だとした。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
+        },
+        {
+          "t": "p",
+          "x": "D'AmaroはDisneyのIPを使い、AdobeのFireflyでカスタム生成AIモデルを学習させる契約を結んだ。十二月5日にはAI-generatedのアニメOzzy FoxをDisney+で配信する。Disneyは2029会計年度までに年間$3 billion の経費削減ペースを目指し、浮いた分をコンテンツと技術に再投資するとしている。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
+          "cap": "Character AIの元CEO、Karandeep Anand。Mobile World Congress（MWC）で撮影に応じる。"
+        },
+        {
+          "t": "p",
+          "x": "どこまで標準化できるかには疑問が残る。スタジオの工程に詳しい人物によれば、MarvelやLucasfilmのような大作を手がける大規模スタジオに役立つAIワークフローも、2Dアニメのプロジェクトや子ども向け教育番組には合わない可能性がある。"
+        }
+      ]
+    },
+    "movies/maharaja-denims-genai-feature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "19世紀のシク教徒の君主Maharaja Ranjit Singhの生涯を追体験する青年を描いたKhushwant Singhの小説「Maharaja in Denims」が、長編の生成AI映画として完成間近だ。制作陣によれば、事実上三度作ったという。チームはBaisakhiに合わせ2027年四月までの公開を目指しており、監督はBalpreet Kaurが務める。"
+        },
+        {
+          "t": "p",
+          "x": "制作は2024年にMidjourneyとRunwayで始まり、Google Veoに移行してスチールはNano Bananaが担った。その後Kling AIとSeedance 2.0を経て、Higgsfieldで使えるツールで仕上げた。転機となったのはNano Bananaだ。チームはルックを固めるまでに、映画全体のスチールを三度作り直した。"
+        },
+        {
+          "t": "p",
+          "x": "Singhによれば、新技術は通常コストを十分の一程度に抑えるが、ツールの進化に合わせて映画の一時間近い部分を三度やり直したという。マーケティング費を除いても、コストは$500,000 を超えると見積もる。"
+        },
+        {
+          "t": "p",
+          "x": "「この技術的進化の間も、創作プロセスは完全に人間が主導してきた」とSinghは語る。音楽はすべて人の手によるもので、吹き替えとナレーションはスタジオで俳優とともに収録した。"
+        }
+      ]
+    },
+    "movies/ebs-genai-animation-slot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+          "cap": "EBS AIアニメーション公募展の受賞作"
+        },
+        {
+          "t": "p",
+          "x": "生成人工知能（AI）技術を取り入れた創作アニメーション5作品がお茶の間に届く。"
+        },
+        {
+          "t": "p",
+          "x": "EBSは「2026年EBS生成AIアニメーションシリーズ共同制作プロジェクト」を通じて選んだ5作品を、来月1日からEBS 1TVで順次放送する。"
+        },
+        {
+          "t": "p",
+          "x": "応募総数429作品の中から選ばれた今回の作品は、生成AI技術にストップモーション（物体の動きを固定して撮影し、続く動作を同じ方法で撮って動く映像を作る技法）や3Dなど、多様な演出技法を組み合わせて制作された。"
+        },
+        {
+          "t": "p",
+          "x": "EBSは毎週火～木曜の午後5時20分から5時50分までを「AIアニメーション特別編成枠」とし、これらの作品を編成する。"
+        },
+        {
+          "t": "p",
+          "x": "来月1日には、ミュージカル童話『ココニーニ童話探検隊』と、孤独な少年がAIデバイスを通じて感情を学んでいく成長物語『夜が聞かせてくれる物語』が初放送される。"
+        },
+        {
+          "t": "p",
+          "x": "続いて2日には、コミックファンタジー『ユーフォリア・クエスト』と、猫の書店主の日常を描いた『猫書店モノブックス』が初放送される。もう一つの選定作『黄色い靴下ポポ』は来年3月に放送される予定だ。"
+        }
+      ]
+    },
+    "movies/botvfx-young-washington": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "BOT VFXは戦争ドラマ『Young Washington』のパイプラインで、MayaとNukeによるCG作業と生成AIを組み合わせた。インドを拠点とする同スタジオは、大規模な戦闘シーンの強化や歴史的な環境を含む300ショットを17週間で納品した。"
+        },
+        {
+          "t": "p",
+          "x": "戦闘シーンでは、BOT VFXは従来のCGとAIで生成した(AI-generated)要素を組み合わせ、群衆を拡張し、マズルフラッシュや爆発などのエフェクトを加えた。町の環境や邸宅のパーティーに到着するゲストなど、ほかのショットはほぼ全面的にAIで生成し、デジタルマットペインティングとCG要素で補強した。"
+        },
+        {
+          "t": "p",
+          "x": "生成AIは万能薬ではなかった。素材は時間的な一貫性を欠くことが多く、その多くを4K 解像度にアップスケールする必要があった。また一部のAI生成素材はビット深度が限られ、コンポジット時の柔軟性が下がった。"
+        },
+        {
+          "t": "p",
+          "x": "VFXスーパーバイザーのCaine Dickinsonによると、スタジオ内製のAIアプリケーションはComfyUIを中心に、主にオープンウェイトモデルで構築された。画像のインペインティング、編集、部分的な調整にはFLUX.2 Kleinを使い、動画生成ではWan 2.1を試した。Kling、Kling Omni、Veo、Hailuo、PixVerse、Seedance 1.5などのクラウドモデルもテストし、アップスケールにはTopazとMagnificを用いた。"
+        },
+        {
+          "t": "p",
+          "x": "「重要な学びの一つは、どのAIモデルも他より優れているとは限らないということだった」とDickinsonは言う。「AIは映像を生成し磨き上げる新しい手段をもたらし、従来の[VFX技術]はそれらの要素を本番レベルに仕上げるのに必要なコントロールを与えてくれた」"
+        }
+      ]
     }
   }
 }

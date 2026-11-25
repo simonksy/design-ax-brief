@@ -1,7 +1,31 @@
-{"date":"2026-11-25","section":"movies","media":[
-{"id":"botvfx-young-washington","type":"video","src":"pipeline/media/botvfx-young-washington.mp4","poster":"pipeline/media/botvfx-young-washington.jpg"},
-{"id":"screenweaver-production-platform","type":"image","src":"pipeline/media/screenweaver-production-platform.jpg"},
-{"id":"safe-zone-kling-short","type":"video","src":"pipeline/media/safe-zone-kling-short.mp4","poster":"pipeline/media/safe-zone-kling-short.jpg"},
-{"id":"google-flow-filmathon-iffi","type":"image","src":"pipeline/media/google-flow-filmathon-iffi.jpg"},
-{"id":"idfa-transparent-ai-tools","type":"image","src":"pipeline/media/idfa-transparent-ai-tools.jpg"}
-]}
+{
+  "date": "2026-11-26",
+  "section": "movies",
+  "media": [
+    {
+      "id": "google-mychannel-patent",
+      "type": "image",
+      "src": "pipeline/media/google-mychannel-patent.png"
+    },
+    {
+      "id": "lionsgate-eklavya-ai-series",
+      "type": "image",
+      "src": "pipeline/media/lionsgate-eklavya-ai-series.png"
+    },
+    {
+      "id": "disney-cto-ai-workflow",
+      "type": "image",
+      "src": "pipeline/media/disney-cto-ai-workflow.jpg"
+    },
+    {
+      "id": "maharaja-denims-genai-feature",
+      "type": "image",
+      "src": "pipeline/media/maharaja-denims-genai-feature.jpg"
+    },
+    {
+      "id": "ebs-genai-animation-slot",
+      "type": "image",
+      "src": "pipeline/media/ebs-genai-animation-slot.jpg"
+    }
+  ]
+}

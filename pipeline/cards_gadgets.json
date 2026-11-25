@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "gadgets",
   "cards": [
     {
-      "id": "pocketalk-x-desk-translator",
+      "id": "savage-orrorin-glasses",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Pocketalk X\n책상 위 AI 양방향 번역",
-      "body": "Pocketalk X는 10.25인치 화면 두 개로 44개 언어를 번역한다.",
-      "mini_headline": "Pocketalk X 데스크 번역기",
+      "headline": "Savage $799 안경\n45g에 핀치 조작",
+      "body": "Savage의 45g Orrorin은 양안 풀컬러 화면과 핀치 입력을 갖췄다.",
+      "mini_headline": "핀치 조작 $799 안경",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Pocketalk-X-brings-hands-free-translation-in-44-languages-to-dual-displays.1458761.0.html",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/25/smart-glasses-promise-vision-pro-style-controls/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,233 +19,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
-            "cap": "Pocketalk X는 듀얼 터치스크린과 지향성 마이크를 갖췄다"
+            "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
           },
           {
             "t": "p",
-            "x": "처음 공개한 지 한 해 남짓 만에 일본 번역 기술 전문 기업 Pocketalk가 첫 데스크톱 AI 번역기 Pocketalk X의 상용 출시를 확정했다. 호텔 프런트나 공항, 병원, 식당처럼 말이 통하지 않아 간단한 응대조차 어려운 곳에서 얼굴을 맞댄 대화를 돕는 기기다."
+            "x": "홍콩 스타트업 Savage Technology가 첫 제품 \"Orrorin Glasses\"를 발표했다. 무게 45그램에 불과한 프레임에 Vision Pro-style 핀치 조작과 양안 풀컬러 디스플레이를 담았다."
           },
           {
             "t": "p",
-            "x": "카운터에 올려 두는 10.25인치 터치스크린이 두 개라 기기를 주고받지 않아도 양쪽이 각자 번역문을 읽는다. 화면 하나는 떼어 내 본체에서 약 30 cm 떨어진 곳에 둘 수 있어 보호 칸막이가 있는 카운터에도 잘 맞는다."
+            "x": "회사 설명으로는 이 안경이 \"Vision Pro–level interaction\"(Vision Pro 수준의 상호작용)을 내면서도 외장 배터리까지 더한 Apple 헤드셋보다 약 25배 가볍다. 다만 Orrorin이 할 수 있는 일은 훨씬 적다."
           },
           {
             "t": "p",
-            "x": "44개 언어 양방향 번역과 음성 언어 자동 감지를 지원하고 AI 기반(AI-powered) 노이즈 캔슬링을 갖춘 지향성 마이크도 두 개 달았다. 사람이 다가오면 근접 센서가 화면을 켠다. 번역은 클라우드에서 처리하고 언어 쌍마다 AI 번역 엔진을 자동으로 고르는 방식이라 인터넷에 늘 연결돼 있어야 한다. 듀얼 밴드 Wi-Fi 5는 되지만 셀룰러 연결은 없다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
-            "cap": "Pocketalk X는 44개 언어 핸즈프리 번역을 지원한다"
+            "x": "Savage에 따르면 링이나 손목 밴드, 컨트롤러 없이 몸 옆에서 손가락을 살짝 집기만 하면 인터페이스를 다룬다. 시선 추적은 Vision Pro와 달리 인터페이스 요소를 고르는 데 쓰지 않는다. 착용자가 눈을 돌리면 화면을 흐리게 지우는 용도다."
           },
           {
             "t": "p",
-            "x": "무게는 모두 합쳐 약 2.2 kg이며 전원은 45 W 이상 USB-C 어댑터로 공급한다. 2026년 10월 오사카 간사이국제공항 실증 등 현장 시험을 마치고 12월 18일 일본에서 ¥440,000(약 $2,765)에 나온다. 가격에는 두 해치 소프트웨어 이용권이 들어 있고 그 뒤로는 해마다 ¥132,000($830)를 내야 한다. 대여는 월 ¥22,000($138)부터다."
+            "x": "Meta Ray-Ban Display는 같은 $799이지만 오른쪽 눈에만 화면이 있고 Neural Band 손목 밴드가 필요하다. Orrorin은 위치 추적과 공간 매핑이 없어 Vision Pro처럼 가상 창을 방 안에 고정할 수 없다."
           },
           {
-            "t": "video",
-            "yt": "1nVgFoCTBD4"
+            "t": "p",
+            "x": "Bill Pei와 Elena Shi가 공동 창업한 Savage는 아직 엔지니어링 검증 단계다. 서드파티 앱은 물론 Claude Code, Codex 같은 AI 에이전트와도 연동된다며 개발자를 겨냥한다."
+          },
+          {
+            "t": "p",
+            "x": "Orrorin 예약금은 $29부터이며 $799 가격에 포함된다. Savage는 Founder Edition 구매자에게 2027년 3월, Early Bird 구매자에게 2027년 5월부터 배송을 시작할 것으로 내다본다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pocketalk X puts two-way\nAI translation on a desk",
-          "body": "Pocketalk X pairs two 10.25-inch touchscreens with hands-free translation across 44 languages.",
-          "mini_headline": "Pocketalk X desk translator",
+          "headline": "Savage's $799 Orrorin Glasses\nbring pinch controls to 45g",
+          "body": "Savage Technology's 45-gram Orrorin Glasses pair full-color displays for both eyes with Vision Pro-style pinch input.",
+          "mini_headline": "$799 glasses\nwith pinch controls",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
-                "cap": "Pocketalk X features dual touchscreens and directional microphones"
+                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
               },
               {
                 "t": "p",
-                "x": "A little over a year after its initial announcement, Japanese translation technology specialist Pocketalk has confirmed the commercial release of the Pocketalk X, its first desktop AI translation device. It is designed for face-to-face conversations at hotel reception desks, airports, hospitals, restaurants and other places where language barriers complicate simple interactions."
+                "x": "Hong Kong startup Savage Technology has announced its first product, \"Orrorin Glasses,\" promising Vision Pro-style pinch controls and full-color displays for both eyes in a frame weighing just 45 grams."
               },
               {
                 "t": "p",
-                "x": "The Pocketalk X comes with two 10.25-inch touchscreens meant to sit on a counter, so both participants can read translations without passing a device back and forth. One screen can be detached and positioned approximately 30 cm from the main unit, suiting counters with protective partitions."
+                "x": "The company describes the glasses as offering \"Vision Pro–level interaction\" and being around 25 times lighter than Apple's headset, including its external battery, although Orrorin offers substantially fewer capabilities."
               },
               {
                 "t": "p",
-                "x": "It supports two-way translation in 44 languages, automatic spoken-language detection and two directional microphones with AI-powered noise cancellation. A proximity sensor wakes the displays when someone approaches. Translation is handled in the cloud, with the system automatically selecting an AI translation engine according to the language pair, so an internet connection is always required; it has dual-band Wi-Fi 5 but no cellular connectivity."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
-                "cap": "Pocketalk X supports hands-free translation in 44 languages"
+                "x": "Savage says small pinches performed at the user's side control the interface without a ring, wristband, or controller. Eye tracking makes the display fade when the wearer looks away, rather than selecting interface elements as it does on Vision Pro."
               },
               {
                 "t": "p",
-                "x": "The setup weighs approximately 2.2 kg and needs a USB-C power supply of 45 W or higher. After real-world trials, including one at Osaka's Kansai International Airport in October 2026, it goes on sale in Japan on December 18 for ¥440,000 (approximately $2,765), including two years of software access, followed by an annual fee of ¥132,000 ($830). Rental starts at ¥22,000 ($138) per month."
+                "x": "The Meta Ray-Ban Display costs the same $799 but has a screen for only the right eye and requires a Neural Band wristband. Orrorin lacks positional tracking and spatial mapping, so it cannot anchor virtual windows in a room like Vision Pro."
               },
               {
-                "t": "video",
-                "yt": "1nVgFoCTBD4"
+                "t": "p",
+                "x": "Co-founded by Bill Pei and Elena Shi, Savage remains in engineering validation and is targeting developers with third-party apps and interaction with AI agents such as Claude Code and Codex."
+              },
+              {
+                "t": "p",
+                "x": "Orrorin reservations start at $29 toward the $799 price. Savage estimates shipments will begin in March 2027 for Founder Edition buyers and May 2027 for Early Bird buyers."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pocketalk X\n책상 위 AI 양방향 번역",
-          "body": "Pocketalk X는 10.25인치 화면 두 개로 44개 언어를 번역한다.",
-          "mini_headline": "Pocketalk X 데스크 번역기",
+          "headline": "Savage $799 안경\n45g에 핀치 조작",
+          "body": "Savage의 45g Orrorin은 양안 풀컬러 화면과 핀치 입력을 갖췄다.",
+          "mini_headline": "핀치 조작 $799 안경",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
-                "cap": "Pocketalk X는 듀얼 터치스크린과 지향성 마이크를 갖췄다"
+                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
               },
               {
                 "t": "p",
-                "x": "처음 공개한 지 한 해 남짓 만에 일본 번역 기술 전문 기업 Pocketalk가 첫 데스크톱 AI 번역기 Pocketalk X의 상용 출시를 확정했다. 호텔 프런트나 공항, 병원, 식당처럼 말이 통하지 않아 간단한 응대조차 어려운 곳에서 얼굴을 맞댄 대화를 돕는 기기다."
+                "x": "홍콩 스타트업 Savage Technology가 첫 제품 \"Orrorin Glasses\"를 발표했다. 무게 45그램에 불과한 프레임에 Vision Pro-style 핀치 조작과 양안 풀컬러 디스플레이를 담았다."
               },
               {
                 "t": "p",
-                "x": "카운터에 올려 두는 10.25인치 터치스크린이 두 개라 기기를 주고받지 않아도 양쪽이 각자 번역문을 읽는다. 화면 하나는 떼어 내 본체에서 약 30 cm 떨어진 곳에 둘 수 있어 보호 칸막이가 있는 카운터에도 잘 맞는다."
+                "x": "회사 설명으로는 이 안경이 \"Vision Pro–level interaction\"(Vision Pro 수준의 상호작용)을 내면서도 외장 배터리까지 더한 Apple 헤드셋보다 약 25배 가볍다. 다만 Orrorin이 할 수 있는 일은 훨씬 적다."
               },
               {
                 "t": "p",
-                "x": "44개 언어 양방향 번역과 음성 언어 자동 감지를 지원하고 AI 기반(AI-powered) 노이즈 캔슬링을 갖춘 지향성 마이크도 두 개 달았다. 사람이 다가오면 근접 센서가 화면을 켠다. 번역은 클라우드에서 처리하고 언어 쌍마다 AI 번역 엔진을 자동으로 고르는 방식이라 인터넷에 늘 연결돼 있어야 한다. 듀얼 밴드 Wi-Fi 5는 되지만 셀룰러 연결은 없다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
-                "cap": "Pocketalk X는 44개 언어 핸즈프리 번역을 지원한다"
+                "x": "Savage에 따르면 링이나 손목 밴드, 컨트롤러 없이 몸 옆에서 손가락을 살짝 집기만 하면 인터페이스를 다룬다. 시선 추적은 Vision Pro와 달리 인터페이스 요소를 고르는 데 쓰지 않는다. 착용자가 눈을 돌리면 화면을 흐리게 지우는 용도다."
               },
               {
                 "t": "p",
-                "x": "무게는 모두 합쳐 약 2.2 kg이며 전원은 45 W 이상 USB-C 어댑터로 공급한다. 2026년 10월 오사카 간사이국제공항 실증 등 현장 시험을 마치고 12월 18일 일본에서 ¥440,000(약 $2,765)에 나온다. 가격에는 두 해치 소프트웨어 이용권이 들어 있고 그 뒤로는 해마다 ¥132,000($830)를 내야 한다. 대여는 월 ¥22,000($138)부터다."
+                "x": "Meta Ray-Ban Display는 같은 $799이지만 오른쪽 눈에만 화면이 있고 Neural Band 손목 밴드가 필요하다. Orrorin은 위치 추적과 공간 매핑이 없어 Vision Pro처럼 가상 창을 방 안에 고정할 수 없다."
               },
               {
-                "t": "video",
-                "yt": "1nVgFoCTBD4"
+                "t": "p",
+                "x": "Bill Pei와 Elena Shi가 공동 창업한 Savage는 아직 엔지니어링 검증 단계다. 서드파티 앱은 물론 Claude Code, Codex 같은 AI 에이전트와도 연동된다며 개발자를 겨냥한다."
+              },
+              {
+                "t": "p",
+                "x": "Orrorin 예약금은 $29부터이며 $799 가격에 포함된다. Savage는 Founder Edition 구매자에게 2027년 3월, Early Bird 구매자에게 2027년 5월부터 배송을 시작할 것으로 내다본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pocketalk X\n卓上で双方向AI翻訳",
-          "body": "Pocketalk Xは10.25インチの画面2枚で44言語のハンズフリー翻訳に対応する。",
-          "mini_headline": "Pocketalk X 卓上翻訳機",
+          "headline": "Savage $799の眼鏡\n45gでピンチ操作",
+          "body": "Savageの45g Orrorinは両目フルカラー表示とピンチ操作を備える。",
+          "mini_headline": "ピンチ操作の$799眼鏡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
-                "cap": "Pocketalk Xはデュアルタッチスクリーンと指向性マイクを備える"
+                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
               },
               {
                 "t": "p",
-                "x": "最初の発表から一年余り、日本の翻訳技術専門企業Pocketalkは、同社初のデスクトップ型AI翻訳機Pocketalk Xの商用発売を正式に決めた。ホテルのフロント、空港、病院、レストランなど、言葉の壁が簡単なやり取りさえ難しくする場所での対面会話を想定している。"
+                "x": "香港のスタートアップSavage Technologyが初の製品「Orrorin Glasses」を発表した。重さわずか45グラムのフレームに、Vision Pro-styleのピンチ操作と両目用のフルカラーディスプレイを搭載するという。"
               },
               {
                 "t": "p",
-                "x": "Pocketalk Xはカウンターに置く10.25インチのタッチスクリーンを2枚備え、端末を手渡ししなくても双方がそれぞれ翻訳を読める。一方の画面は取り外して本体から約30 cm 離して置けるため、仕切り板のあるカウンターにも向く。"
+                "x": "同社はこの眼鏡が「Vision Pro–level interaction」(Vision Pro並みの操作体験)を提供し、外部バッテリーを含むAppleのヘッドセットより約25倍軽いと説明する。ただしOrrorinの機能はかなり少ない。"
               },
               {
                 "t": "p",
-                "x": "44言語の双方向翻訳、話し言葉の自動判別、AI-poweredのノイズキャンセリングを備えた指向性マイク2基に対応する。近接センサーが人の接近を検知すると画面が起動する。翻訳はクラウドで処理し、言語の組み合わせに応じてAI翻訳エンジンを自動で選ぶため、常にインターネット接続が必要だ。デュアルバンドのWi-Fi 5は備えるが、セルラー通信には対応しない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
-                "cap": "Pocketalk Xは44言語のハンズフリー翻訳に対応する"
+                "x": "Savageによれば、体の横で小さくつまむ動作だけで、リングやリストバンド、コントローラーなしにインターフェースを操作できる。視線追跡はVision Proのようにインターフェース要素の選択には使われず、装着者が目をそらすと表示がフェードする。"
               },
               {
                 "t": "p",
-                "x": "本体一式の重さは約2.2 kg、電源には45 W 以上のUSB-C電源が必要だ。2026年10月の大阪・関西国際空港での実証を含む実地試験を経て、12月18日に日本で¥440,000（約$2,765）で発売される。価格には二年間のソフトウェア利用権が含まれ、その後は年額¥132,000（$830）がかかる。レンタルは月額¥22,000（$138）からだ。"
+                "x": "Meta Ray-Ban Displayは同じ$799だが、画面は右目のみでNeural Bandリストバンドが必要だ。Orrorinは位置トラッキングと空間マッピングを持たないため、Vision Proのように仮想ウィンドウを部屋に固定できない。"
               },
               {
-                "t": "video",
-                "yt": "1nVgFoCTBD4"
+                "t": "p",
+                "x": "Bill PeiとElena Shiが共同創業したSavageは、まだエンジニアリング検証段階にある。サードパーティ製アプリや、Claude Code、CodexといったAIエージェントとの連携を打ち出し、開発者を狙う。"
+              },
+              {
+                "t": "p",
+                "x": "Orrorinの予約は$29からで、$799の価格に充当される。Savageは出荷開始をFounder Edition購入者向けに2027年3月、Early Bird購入者向けに2027年5月と見込む。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pocketalk X\n桌上双向AI翻译",
-          "body": "Pocketalk X配备两块10.25英寸触屏，支持44种语言免提翻译。",
-          "mini_headline": "Pocketalk X桌面翻译机",
+          "headline": "Savage $799眼镜\n45g机身支持捏合操控",
+          "body": "Savage的45g Orrorin眼镜为双眼配备全彩显示屏，并支持捏合操控。",
+          "mini_headline": "支持捏合操控的$799眼镜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
-                "cap": "Pocketalk X配备双触摸屏和定向麦克风"
+                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
               },
               {
                 "t": "p",
-                "x": "在首次发布一年多之后，日本翻译技术专业公司Pocketalk确认其首款桌面AI翻译设备Pocketalk X正式商用上市。该设备面向酒店前台、机场、医院、餐厅等语言障碍让简单交流变得复杂的场所，用于面对面交谈。"
+                "x": "香港初创公司Savage Technology发布首款产品“Orrorin Glasses”，在仅重45克的镜框中提供Vision Pro-style捏合操控和双眼全彩显示屏。"
               },
               {
                 "t": "p",
-                "x": "Pocketalk X配备两块10.25英寸触摸屏，可放在柜台上，双方无需来回传递设备即可阅读译文。其中一块屏幕可以拆下，放在距主机约30 cm处，适合设有防护隔板的柜台。"
+                "x": "该公司称这款眼镜提供“Vision Pro–level interaction”（Vision Pro级交互），比含外置电池的Apple头显轻约25倍，但Orrorin的功能要少得多。"
               },
               {
                 "t": "p",
-                "x": "它支持44种语言双向翻译、口语语种自动识别，以及两个带AI-powered降噪功能的定向麦克风。有人靠近时，接近传感器会唤醒屏幕。翻译在云端完成，系统会根据语言组合自动选择AI翻译引擎，因此始终需要联网；设备支持双频Wi-Fi 5，但不支持蜂窝网络。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
-                "cap": "Pocketalk X支持44种语言免提翻译"
+                "x": "Savage表示，用户只需在身体一侧做出细微的捏合动作，无需戒指、腕带或控制器即可操控界面。眼动追踪不像Vision Pro那样用于选择界面元素，而是在佩戴者移开视线时让显示内容淡出。"
               },
               {
                 "t": "p",
-                "x": "整套设备重约2.2 kg，需要45 W 或以上的USB-C电源。经过包括2026年10月在大阪关西国际机场在内的实地试用后，它将于12月18日在日本发售，售价¥440,000（约$2,765），含两年软件使用权，此后每年收费¥132,000（$830）。租赁价格为每月¥22,000（$138）起。"
+                "x": "Meta Ray-Ban Display售价同为$799，但只有右眼有屏幕，并需搭配Neural Band腕带。Orrorin缺少位置追踪和空间映射，因此无法像Vision Pro那样把虚拟窗口固定在房间里。"
               },
               {
-                "t": "video",
-                "yt": "1nVgFoCTBD4"
+                "t": "p",
+                "x": "Savage由Bill Pei和Elena Shi联合创立，目前仍处于工程验证阶段，主打第三方应用以及与Claude Code、Codex等AI智能体的交互，面向开发者。"
+              },
+              {
+                "t": "p",
+                "x": "Orrorin预订金$29起，可抵扣$799售价。Savage预计Founder Edition买家将于2027年3月开始收到发货，Early Bird买家则为2027年5月。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pocketalk X lleva la traducción\nbidireccional AI al escritorio",
-          "body": "Pocketalk X combina dos pantallas táctiles de 10.25 pulgadas con traducción manos libres en 44 idiomas.",
-          "mini_headline": "Pocketalk X, traductor de escritorio",
+          "headline": "Las Orrorin Glasses de $799\nllevan el gesto de pinza a 45g",
+          "body": "Las Orrorin Glasses de Savage Technology pesan 45 gramos y combinan pantallas a todo color con control por pinza.",
+          "mini_headline": "Gafas de $799 con control por pinza",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
-                "cap": "Pocketalk X cuenta con dos pantallas táctiles y micrófonos direccionales"
+                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Algo más de un año después de su primer anuncio, Pocketalk, empresa japonesa especializada en tecnología de traducción, ha confirmado el lanzamiento comercial de Pocketalk X, su primer dispositivo de traducción AI de escritorio. Está pensado para conversaciones cara a cara en recepciones de hotel, aeropuertos, hospitales, restaurantes y otros lugares donde la barrera del idioma complica interacciones sencillas."
+                "x": "La startup de Hong Kong Savage Technology ha anunciado su primer producto, \"Orrorin Glasses\", que promete controles por pinza Vision Pro-style y pantallas a todo color para ambos ojos en una montura de solo 45 gramos."
               },
               {
                 "t": "p",
-                "x": "Pocketalk X incluye dos pantallas táctiles de 10.25 pulgadas pensadas para colocarse sobre un mostrador, de modo que ambos interlocutores puedan leer las traducciones sin pasarse el dispositivo. Una de las pantallas puede separarse y situarse a unos 30 cm de la unidad principal, lo que la adapta a mostradores con mamparas protectoras."
+                "x": "La empresa describe las gafas como una propuesta de \"Vision Pro–level interaction\" (interacción al nivel de Vision Pro) y afirma que son unas 25 veces más ligeras que el visor de Apple, incluida su batería externa, aunque Orrorin ofrece bastantes menos funciones."
               },
               {
                 "t": "p",
-                "x": "Admite traducción bidireccional en 44 idiomas, detección automática del idioma hablado y dos micrófonos direccionales con cancelación de ruido AI-powered. Un sensor de proximidad enciende las pantallas cuando alguien se acerca. La traducción se procesa en la nube y el sistema elige automáticamente un motor de traducción AI según el par de idiomas, por lo que siempre necesita conexión a internet; tiene Wi-Fi 5 de doble banda, pero no conectividad móvil."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
-                "cap": "Pocketalk X admite traducción manos libres en 44 idiomas"
+                "x": "Savage afirma que pequeños gestos de pinza realizados a un costado del cuerpo controlan la interfaz sin anillo, pulsera ni mando. El seguimiento ocular hace que la pantalla se desvanezca cuando el usuario aparta la mirada, en lugar de seleccionar elementos de la interfaz como en Vision Pro."
               },
               {
                 "t": "p",
-                "x": "El conjunto pesa unos 2.2 kg y necesita una fuente de alimentación USB-C de 45 W o más. Tras pruebas reales, entre ellas una en el Aeropuerto Internacional de Kansai, en Osaka, en octubre de 2026, saldrá a la venta en Japón el 18 de diciembre por ¥440,000 (unos $2,765), con dos años de acceso al software incluidos; después se cobrará una cuota anual de ¥132,000 ($830). El alquiler parte de ¥22,000 ($138) al mes."
+                "x": "Las Meta Ray-Ban Display cuestan los mismos $799, pero solo tienen pantalla en el ojo derecho y requieren la pulsera Neural Band. Orrorin carece de seguimiento posicional y mapeo espacial, por lo que no puede anclar ventanas virtuales en una habitación como Vision Pro."
               },
               {
-                "t": "video",
-                "yt": "1nVgFoCTBD4"
+                "t": "p",
+                "x": "Cofundada por Bill Pei y Elena Shi, Savage sigue en fase de validación de ingeniería y se dirige a desarrolladores con apps de terceros e interacción con agentes AI como Claude Code y Codex."
+              },
+              {
+                "t": "p",
+                "x": "Las reservas de Orrorin empiezan en $29, que se descuentan del precio de $799. Savage calcula que los envíos comenzarán en marzo de 2027 para los compradores de Founder Edition y en mayo de 2027 para los de Early Bird."
               }
             ]
           }
@@ -253,161 +241,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Pocketalk X\n책상 위 AI 양방향 번역",
-          "body": "Pocketalk X는 10.25인치 화면 두 개로 44개 언어를 번역한다.",
-          "mini_headline": "Pocketalk X 데스크 번역기",
+          "headline": "Savage $799 안경\n45g에 핀치 조작",
+          "body": "Savage의 45g Orrorin은 양안 풀컬러 화면과 핀치 입력을 갖췄다.",
+          "mini_headline": "핀치 조작 $799 안경",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
-                "cap": "Pocketalk X는 듀얼 터치스크린과 지향성 마이크를 갖췄다"
+                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
               },
               {
                 "t": "p",
-                "x": "첫 발표 후 한 해 남짓 지나, 일본 번역 기술 전문 기업 Pocketalk가 첫 데스크톱 AI 번역 기기인 Pocketalk X의 상용 출시를 확정했다. 호텔 프런트, 공항, 병원, 식당처럼 언어 장벽 때문에 간단한 응대조차 어려운 곳에서 대면 대화를 돕도록 설계했다."
+                "x": "홍콩 스타트업 Savage Technology가 첫 제품 \"Orrorin Glasses\"를 발표했다. 무게가 45그램에 불과한 프레임에 Vision Pro-style 핀치 조작과 양안 풀컬러 디스플레이를 담았다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Pocketalk X는 카운터에 올려 두는 10.25인치 터치스크린 두 개를 갖춰, 기기를 주고받지 않아도 양쪽이 각자 번역문을 읽을 수 있다. 화면 하나는 떼어 내 본체에서 약 30 cm 떨어진 곳에 둘 수 있어 보호 칸막이가 있는 카운터에도 알맞다."
+                "x": "회사는 이 안경이 \"Vision Pro–level interaction\"(Vision Pro 수준의 상호작용)을 제공하며, 외장 배터리를 포함한 Apple 헤드셋보다 약 25배 가볍다고 설명한다. 다만 Orrorin이 제공하는 기능은 훨씬 적다."
               },
               {
                 "t": "p",
-                "x": "44개 언어 양방향 번역, 음성 언어 자동 감지, AI 기반(AI-powered) 노이즈 캔슬링을 갖춘 지향성 마이크 두 개를 지원한다. 근접 센서는 사람이 다가오면 화면을 켠다. 번역은 클라우드에서 처리하며 언어 쌍에 따라 AI 번역 엔진을 자동으로 고르기 때문에 인터넷 연결이 늘 필요하다. 듀얼 밴드 Wi-Fi 5를 지원하지만 셀룰러 연결은 없다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
-                "cap": "Pocketalk X는 44개 언어 핸즈프리 번역을 지원한다"
+                "x": "Savage에 따르면 사용자가 몸 옆에서 손가락을 작게 집는 동작만으로 링이나 손목 밴드, 컨트롤러 없이 인터페이스를 조작할 수 있다. 시선 추적은 Vision Pro처럼 인터페이스 요소를 고르는 데 쓰이지 않고, 착용자가 시선을 돌리면 화면이 흐려지며 사라지게 한다."
               },
               {
                 "t": "p",
-                "x": "전체 무게는 약 2.2 kg, 전원은 45 W 이상의 USB-C 어댑터가 필요하다. 2026년 10월 오사카 간사이국제공항 실증을 비롯한 현장 시험을 거쳐 12월 18일 일본에서 ¥440,000(약 $2,765)에 판매를 시작한다. 이 가격에는 두 해 동안의 소프트웨어 이용권이 포함되며, 이후에는 연간 ¥132,000($830)의 요금이 붙는다. 대여는 월 ¥22,000($138)부터다."
+                "x": "Meta Ray-Ban Display는 같은 $799이지만 오른쪽 눈에만 화면이 있고 Neural Band 손목 밴드가 필요하다. Orrorin은 위치 추적과 공간 매핑이 없어 Vision Pro처럼 가상 창을 방 안에 고정할 수 없다."
               },
               {
-                "t": "video",
-                "yt": "1nVgFoCTBD4"
+                "t": "p",
+                "x": "Bill Pei와 Elena Shi가 공동 창업한 Savage는 아직 엔지니어링 검증 단계에 있으며, 서드파티 앱과 Claude Code, Codex 같은 AI 에이전트와의 연동을 내세워 개발자를 겨냥한다."
+              },
+              {
+                "t": "p",
+                "x": "Orrorin 예약금은 $29부터이며 $799 가격에 포함된다. Savage는 Founder Edition 구매자에게 2027년 3월, Early Bird 구매자에게 2027년 5월부터 배송이 시작될 것으로 예상한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pocketalk X\n卓上で双方向AI翻訳",
-          "body": "Pocketalk Xは10.25インチの画面2枚で44言語のハンズフリー翻訳に対応する。",
-          "mini_headline": "Pocketalk X 卓上翻訳機",
+          "headline": "Savage $799の眼鏡\n45gでピンチ操作",
+          "body": "Savageの45g Orrorinは両目フルカラー表示とピンチ操作を備える。",
+          "mini_headline": "ピンチ操作の$799眼鏡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
-                "cap": "Pocketalk Xはデュアルタッチスクリーンと指向性マイクを備える"
+                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
               },
               {
                 "t": "p",
-                "x": "最初の発表から一年余り、日本の翻訳技術専門企業Pocketalkは、同社初のデスクトップ型AI翻訳機Pocketalk Xの商用発売を正式に決めた。ホテルのフロント、空港、病院、レストランなど、言葉の壁が簡単なやり取りさえ難しくする場所での対面会話を想定している。"
+                "x": "香港のスタートアップSavage Technologyが初の製品「Orrorin Glasses」を発表した。重さわずか45グラムのフレームに、Vision Pro-styleのピンチ操作と両目用のフルカラーディスプレイを搭載するという。"
               },
               {
                 "t": "p",
-                "x": "Pocketalk Xはカウンターに置く10.25インチのタッチスクリーンを2枚備え、端末を手渡ししなくても双方がそれぞれ翻訳を読める。一方の画面は取り外して本体から約30 cm 離して置けるため、仕切り板のあるカウンターにも向く。"
+                "x": "同社はこの眼鏡が「Vision Pro–level interaction」(Vision Pro並みの操作体験)を提供し、外部バッテリーを含むAppleのヘッドセットより約25倍軽いと説明する。ただしOrrorinの機能はかなり少ない。"
               },
               {
                 "t": "p",
-                "x": "44言語の双方向翻訳、話し言葉の自動判別、AI-poweredのノイズキャンセリングを備えた指向性マイク2基に対応する。近接センサーが人の接近を検知すると画面が起動する。翻訳はクラウドで処理し、言語の組み合わせに応じてAI翻訳エンジンを自動で選ぶため、常にインターネット接続が必要だ。デュアルバンドのWi-Fi 5は備えるが、セルラー通信には対応しない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
-                "cap": "Pocketalk Xは44言語のハンズフリー翻訳に対応する"
+                "x": "Savageによれば、体の横で小さくつまむ動作だけで、リングやリストバンド、コントローラーなしにインターフェースを操作できる。視線追跡はVision Proのようにインターフェース要素の選択には使われず、装着者が目をそらすと表示がフェードする。"
               },
               {
                 "t": "p",
-                "x": "本体一式の重さは約2.2 kg、電源には45 W 以上のUSB-C電源が必要だ。2026年10月の大阪・関西国際空港での実証を含む実地試験を経て、12月18日に日本で¥440,000（約$2,765）で発売される。価格には二年間のソフトウェア利用権が含まれ、その後は年額¥132,000（$830）がかかる。レンタルは月額¥22,000（$138）からだ。"
+                "x": "Meta Ray-Ban Displayは同じ$799だが、画面は右目のみでNeural Bandリストバンドが必要だ。Orrorinは位置トラッキングと空間マッピングを持たないため、Vision Proのように仮想ウィンドウを部屋に固定できない。"
               },
               {
-                "t": "video",
-                "yt": "1nVgFoCTBD4"
+                "t": "p",
+                "x": "Bill PeiとElena Shiが共同創業したSavageは、まだエンジニアリング検証段階にある。サードパーティ製アプリや、Claude Code、CodexといったAIエージェントとの連携を打ち出し、開発者を狙う。"
+              },
+              {
+                "t": "p",
+                "x": "Orrorinの予約は$29からで、$799の価格に充当される。Savageは出荷開始をFounder Edition購入者向けに2027年3月、Early Bird購入者向けに2027年5月と見込む。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pocketalk X\n桌上双向AI翻译",
-          "body": "Pocketalk X配备两块10.25英寸触屏，支持44种语言免提翻译。",
-          "mini_headline": "Pocketalk X桌面翻译机",
+          "headline": "Savage $799眼镜\n45g机身支持捏合操控",
+          "body": "Savage的45g Orrorin眼镜为双眼配备全彩显示屏，并支持捏合操控。",
+          "mini_headline": "支持捏合操控的$799眼镜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
-                "cap": "Pocketalk X配备双触摸屏和定向麦克风"
+                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
               },
               {
                 "t": "p",
-                "x": "在首次发布一年多之后，日本翻译技术专业公司Pocketalk确认其首款桌面AI翻译设备Pocketalk X正式商用上市。该设备面向酒店前台、机场、医院、餐厅等语言障碍让简单交流变得复杂的场所，用于面对面交谈。"
+                "x": "香港初创公司Savage Technology发布首款产品“Orrorin Glasses”，在仅重45克的镜框中提供Vision Pro-style捏合操控和双眼全彩显示屏。"
               },
               {
                 "t": "p",
-                "x": "Pocketalk X配备两块10.25英寸触摸屏，可放在柜台上，双方无需来回传递设备即可阅读译文。其中一块屏幕可以拆下，放在距主机约30 cm处，适合设有防护隔板的柜台。"
+                "x": "该公司称这款眼镜提供“Vision Pro–level interaction”（Vision Pro级交互），比含外置电池的Apple头显轻约25倍，但Orrorin的功能要少得多。"
               },
               {
                 "t": "p",
-                "x": "它支持44种语言双向翻译、口语语种自动识别，以及两个带AI-powered降噪功能的定向麦克风。有人靠近时，接近传感器会唤醒屏幕。翻译在云端完成，系统会根据语言组合自动选择AI翻译引擎，因此始终需要联网；设备支持双频Wi-Fi 5，但不支持蜂窝网络。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
-                "cap": "Pocketalk X支持44种语言免提翻译"
+                "x": "Savage表示，用户只需在身体一侧做出细微的捏合动作，无需戒指、腕带或控制器即可操控界面。眼动追踪不像Vision Pro那样用于选择界面元素，而是在佩戴者移开视线时让显示内容淡出。"
               },
               {
                 "t": "p",
-                "x": "整套设备重约2.2 kg，需要45 W 或以上的USB-C电源。经过包括2026年10月在大阪关西国际机场在内的实地试用后，它将于12月18日在日本发售，售价¥440,000（约$2,765），含两年软件使用权，此后每年收费¥132,000（$830）。租赁价格为每月¥22,000（$138）起。"
+                "x": "Meta Ray-Ban Display售价同为$799，但只有右眼有屏幕，并需搭配Neural Band腕带。Orrorin缺少位置追踪和空间映射，因此无法像Vision Pro那样把虚拟窗口固定在房间里。"
               },
               {
-                "t": "video",
-                "yt": "1nVgFoCTBD4"
+                "t": "p",
+                "x": "Savage由Bill Pei和Elena Shi联合创立，目前仍处于工程验证阶段，主打第三方应用以及与Claude Code、Codex等AI智能体的交互，面向开发者。"
+              },
+              {
+                "t": "p",
+                "x": "Orrorin预订金$29起，可抵扣$799售价。Savage预计Founder Edition买家将于2027年3月开始收到发货，Early Bird买家则为2027年5月。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pocketalk X lleva la traducción\nbidireccional AI al escritorio",
-          "body": "Pocketalk X combina dos pantallas táctiles de 10.25 pulgadas con traducción manos libres en 44 idiomas.",
-          "mini_headline": "Pocketalk X, traductor de escritorio",
+          "headline": "Las Orrorin Glasses de $799\nllevan el gesto de pinza a 45g",
+          "body": "Las Orrorin Glasses de Savage Technology pesan 45 gramos y combinan pantallas a todo color con control por pinza.",
+          "mini_headline": "Gafas de $799 con control por pinza",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
-                "cap": "Pocketalk X cuenta con dos pantallas táctiles y micrófonos direccionales"
+                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Algo más de un año después de su primer anuncio, Pocketalk, empresa japonesa especializada en tecnología de traducción, ha confirmado el lanzamiento comercial de Pocketalk X, su primer dispositivo de traducción AI de escritorio. Está pensado para conversaciones cara a cara en recepciones de hotel, aeropuertos, hospitales, restaurantes y otros lugares donde la barrera del idioma complica interacciones sencillas."
+                "x": "La startup de Hong Kong Savage Technology ha anunciado su primer producto, \"Orrorin Glasses\", que promete controles por pinza Vision Pro-style y pantallas a todo color para ambos ojos en una montura de solo 45 gramos."
               },
               {
                 "t": "p",
-                "x": "Pocketalk X incluye dos pantallas táctiles de 10.25 pulgadas pensadas para colocarse sobre un mostrador, de modo que ambos interlocutores puedan leer las traducciones sin pasarse el dispositivo. Una de las pantallas puede separarse y situarse a unos 30 cm de la unidad principal, lo que la adapta a mostradores con mamparas protectoras."
+                "x": "La empresa describe las gafas como una propuesta de \"Vision Pro–level interaction\" (interacción al nivel de Vision Pro) y afirma que son unas 25 veces más ligeras que el visor de Apple, incluida su batería externa, aunque Orrorin ofrece bastantes menos funciones."
               },
               {
                 "t": "p",
-                "x": "Admite traducción bidireccional en 44 idiomas, detección automática del idioma hablado y dos micrófonos direccionales con cancelación de ruido AI-powered. Un sensor de proximidad enciende las pantallas cuando alguien se acerca. La traducción se procesa en la nube y el sistema elige automáticamente un motor de traducción AI según el par de idiomas, por lo que siempre necesita conexión a internet; tiene Wi-Fi 5 de doble banda, pero no conectividad móvil."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
-                "cap": "Pocketalk X admite traducción manos libres en 44 idiomas"
+                "x": "Savage afirma que pequeños gestos de pinza realizados a un costado del cuerpo controlan la interfaz sin anillo, pulsera ni mando. El seguimiento ocular hace que la pantalla se desvanezca cuando el usuario aparta la mirada, en lugar de seleccionar elementos de la interfaz como en Vision Pro."
               },
               {
                 "t": "p",
-                "x": "El conjunto pesa unos 2.2 kg y necesita una fuente de alimentación USB-C de 45 W o más. Tras pruebas reales, entre ellas una en el Aeropuerto Internacional de Kansai, en Osaka, en octubre de 2026, saldrá a la venta en Japón el 18 de diciembre por ¥440,000 (unos $2,765), con dos años de acceso al software incluidos; después se cobrará una cuota anual de ¥132,000 ($830). El alquiler parte de ¥22,000 ($138) al mes."
+                "x": "Las Meta Ray-Ban Display cuestan los mismos $799, pero solo tienen pantalla en el ojo derecho y requieren la pulsera Neural Band. Orrorin carece de seguimiento posicional y mapeo espacial, por lo que no puede anclar ventanas virtuales en una habitación como Vision Pro."
               },
               {
-                "t": "video",
-                "yt": "1nVgFoCTBD4"
+                "t": "p",
+                "x": "Cofundada por Bill Pei y Elena Shi, Savage sigue en fase de validación de ingeniería y se dirige a desarrolladores con apps de terceros e interacción con agentes AI como Claude Code y Codex."
+              },
+              {
+                "t": "p",
+                "x": "Las reservas de Orrorin empiezan en $29, que se descuentan del precio de $799. Savage calcula que los envíos comenzarán en marzo de 2027 para los compradores de Founder Edition y en mayo de 2027 para los de Early Bird."
               }
             ]
           }
@@ -415,15 +395,15 @@
       }
     },
     {
-      "id": "honor-magic9-promax-global",
+      "id": "wyze-window-bird-cam",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Honor Magic 9\nPro Max 해외 출시",
-      "body": "Honor Magic 9 Pro Max가 AI 버튼 달고 약 $1,457에 나왔다.",
-      "mini_headline": "Honor Magic 9 Pro Max 해외 출시",
+      "headline": "Wyze $70 모이통\n실내에서 새 종 식별",
+      "body": "Wyze $70 Window Bird Cam은 창밖 모이통과 실내 카메라를 묶었다.",
+      "mini_headline": "Wyze의 AI 창문 새 카메라",
       "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/honor-magic-9-pro-max-first-global-release-3738621/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -431,197 +411,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
           },
           {
             "t": "p",
-            "x": "HONOR가 Magic 9 Pro Max를 말레이시아에 출시했다. 중국 밖 출시는 이번이 처음이다. 권장 가격은 5,999 말레이시아 링깃(~$1,457)이고 12GB/512GB 한 가지 구성뿐이다. 11월 24일부터 12월 3일까지 사전 주문하면 Google AI Pro 석 달 무료 이용권이 담긴 사은품 패키지를 준다."
+            "x": "Wyze가 새 Window Bird Cam을 발표했다. 창문 안쪽에 다는 카메라와 유리 바깥쪽에 붙이는 모이통을 한 세트로 묶은 제품이다. Wyze는 식별 기능을 더해 주는 새 구독 서비스 Bird Watch도 함께 내놓는다."
+          },
+          {
+            "t": "p",
+            "x": "Window Bird Cam은 오늘부터 회사 온라인 스토어에서 $69.98에 판다. 상자에는 흡착판이 달린 실외 모이통과 작은 씨앗 받침, 덮개가 들어 있다. $14.98짜리 Window Bird Cam Perch는 별도 옵션이다."
           },
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
           },
           {
             "t": "p",
-            "x": "카메라는 시네마 카메라 제조사 ARRI와 함께 만들었다. 200MP 1/1.28인치 메인 카메라에 200MP 85mm 망원, 50MP 초광각, 정사각형 55MP 셀피 카메라를 더한 구성이다. 가장 큰 강점은 영상이다. 4K/120fps, ARRI Cinema Mode와 ARRI Looks, LUT와 LogC3 지원, APV 코덱을 갖췄다. 참조 클립의 색을 분석해 새 영상에 같은 룩을 입히는 Magic Color for Video 기능도 있다."
+            "x": "Bird Cam은 집 안에 두고 USB 전원을 꽂는 방식이라 배터리도, 방수 설계도 필요 없다. 렌즈 초점을 4~8인치 거리에 맞춰 새는 또렷하고 마당 나머지는 부드럽게 흐려진다."
           },
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
           },
           {
             "t": "p",
-            "x": "Snapdragon 8 Elite Extreme Gen 6 칩셋에 최대 10,000니트 피크 밝기를 내는 6.8인치 LTPO OLED 패널을 얹었다. MagicOS 11에는 알림 요약과 Payment Trust Space 기능이 더해졌고 전용 카메라 키와 “상황 인식(context-aware)” 지원용 AI 버튼도 달렸다. 이 버튼을 두 번 누르면 Highlight Clip Capture가 실행돼 영상 일부를 잘라 자막을 만든다. 다만 Netflix 스트림처럼 DRM 보호(DRM-protected)가 걸린 영상에서는 작동하지 않는다."
+            "x": "Bird Cam은 기본 상태로도 움직임을 감지하고 오 분 간격 제한 아래 새 도착 알림을 보내며 최대 512GB microSD 카드에 30fps 영상을 로컬로 저장한다. 월 $6.99 또는 연 $69.99인 Bird Watch를 쓰면 신뢰도 점수가 붙은 종 식별(ID)과 대화형 새 위키, 60일 클라우드 영상 보관이 더해지고 알림 간격 제한도 사라진다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Honor Magic 9 Pro Max\nlaunches outside China",
-          "body": "Honor's Magic 9 Pro Max debuts in Malaysia at about $1,457, with an AI button for context-aware help.",
-          "mini_headline": "Honor Magic 9 Pro Max goes global",
+          "headline": "Wyze's $70 window feeder\nnames birds from indoors",
+          "body": "Wyze's $70 Window Bird Cam pairs an outside feeder with an indoor camera, and a Bird Watch plan adds species ID.",
+          "mini_headline": "Wyze's AI\nwindow bird cam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "HONOR has launched the Magic 9 Pro Max in Malaysia, the phone's first release outside China. It has a recommended price of 5,999 Malaysian Ringgits (~$1,457) and comes only in a 12GB/512GB configuration; pre-orders from November 24 to December 3 get a gift bundle that includes three months of free Google AI Pro."
+                "x": "Wyze announced its new Window Bird Cam, which pairs a window-mounted camera with a feeder that attaches to the outside of the glass. Alongside the kit, Wyze is launching a new subscription service called Bird Watch, which adds identification capabilities."
+              },
+              {
+                "t": "p",
+                "x": "The Window Bird Cam is available today through the company's online store for $69.98 and includes the outdoor feeder with suction cups, a small seed tray, and a cover. An optional $14.98 Window Bird Cam Perch is also sold."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "The camera system is built with cinema camera maker ARRI: a 200MP 1/1.28-inch main camera, a 200MP 85mm telephoto, a 50MP ultrawide and a square 55MP selfie camera. Video is its biggest strength, with 4K/120fps, ARRI Cinema Mode and ARRI Looks, LUT and LogC3 support, the APV codec, and a Magic Color for Video feature that analyzes the colors of a reference clip and applies that look to new footage."
+                "x": "Installed inside the home and plugged into USB power, the Bird Cam doesn't need a battery or weatherproofing. Its lens is designed to focus at a distance of 4 to 8 inches so birds look crisp while the rest of your yard is softly blurred."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Inside are a Snapdragon 8 Elite Extreme Gen 6 chipset and a 6.8-inch LTPO OLED panel rated up to 10,000 nits peak. MagicOS 11 adds notification summaries and a Payment Trust Space feature, and the phone gets a dedicated camera key plus an AI button for “context-aware” assistance. Double-clicking it triggers Highlight Clip Capture to grab a snippet of a video and then generate subtitles; it doesn't work with DRM-protected video such as Netflix streams."
+                "x": "Out of the box, the Bird Cam detects motion, sends bird arrival notifications with a five-minute cooldown, and records 30fps video locally to a microSD card up to 512GB. Bird Watch, at $6.99 per month or $69.99 per year, adds species identification with a confidence score, an interactive bird wiki, 60 days of cloud video, and no notification cooldown."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Honor Magic 9\nPro Max 해외 출시",
-          "body": "Honor Magic 9 Pro Max가 AI 버튼 달고 약 $1,457에 나왔다.",
-          "mini_headline": "Honor Magic 9 Pro Max 해외 출시",
+          "headline": "Wyze $70 모이통\n실내에서 새 종 식별",
+          "body": "Wyze $70 Window Bird Cam은 창밖 모이통과 실내 카메라를 묶었다.",
+          "mini_headline": "Wyze의 AI 창문 새 카메라",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "HONOR가 Magic 9 Pro Max를 말레이시아에 출시했다. 중국 밖 출시는 이번이 처음이다. 권장 가격은 5,999 말레이시아 링깃(~$1,457)이고 12GB/512GB 한 가지 구성뿐이다. 11월 24일부터 12월 3일까지 사전 주문하면 Google AI Pro 석 달 무료 이용권이 담긴 사은품 패키지를 준다."
+                "x": "Wyze가 새 Window Bird Cam을 발표했다. 창문 안쪽에 다는 카메라와 유리 바깥쪽에 붙이는 모이통을 한 세트로 묶은 제품이다. Wyze는 식별 기능을 더해 주는 새 구독 서비스 Bird Watch도 함께 내놓는다."
+              },
+              {
+                "t": "p",
+                "x": "Window Bird Cam은 오늘부터 회사 온라인 스토어에서 $69.98에 판다. 상자에는 흡착판이 달린 실외 모이통과 작은 씨앗 받침, 덮개가 들어 있다. $14.98짜리 Window Bird Cam Perch는 별도 옵션이다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "카메라는 시네마 카메라 제조사 ARRI와 함께 만들었다. 200MP 1/1.28인치 메인 카메라에 200MP 85mm 망원, 50MP 초광각, 정사각형 55MP 셀피 카메라를 더한 구성이다. 가장 큰 강점은 영상이다. 4K/120fps, ARRI Cinema Mode와 ARRI Looks, LUT와 LogC3 지원, APV 코덱을 갖췄다. 참조 클립의 색을 분석해 새 영상에 같은 룩을 입히는 Magic Color for Video 기능도 있다."
+                "x": "Bird Cam은 집 안에 두고 USB 전원을 꽂는 방식이라 배터리도, 방수 설계도 필요 없다. 렌즈 초점을 4~8인치 거리에 맞춰 새는 또렷하고 마당 나머지는 부드럽게 흐려진다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Snapdragon 8 Elite Extreme Gen 6 칩셋에 최대 10,000니트 피크 밝기를 내는 6.8인치 LTPO OLED 패널을 얹었다. MagicOS 11에는 알림 요약과 Payment Trust Space 기능이 더해졌고 전용 카메라 키와 “상황 인식(context-aware)” 지원용 AI 버튼도 달렸다. 이 버튼을 두 번 누르면 Highlight Clip Capture가 실행돼 영상 일부를 잘라 자막을 만든다. 다만 Netflix 스트림처럼 DRM 보호(DRM-protected)가 걸린 영상에서는 작동하지 않는다."
+                "x": "Bird Cam은 기본 상태로도 움직임을 감지하고 오 분 간격 제한 아래 새 도착 알림을 보내며 최대 512GB microSD 카드에 30fps 영상을 로컬로 저장한다. 월 $6.99 또는 연 $69.99인 Bird Watch를 쓰면 신뢰도 점수가 붙은 종 식별(ID)과 대화형 새 위키, 60일 클라우드 영상 보관이 더해지고 알림 간격 제한도 사라진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Honor Magic 9\nPro Maxが中国外で発売",
-          "body": "AIボタン搭載のHonor Magic 9 Pro Maxが約$1,457で発売された。",
-          "mini_headline": "Honor Magic 9 Pro Maxが海外へ",
+          "headline": "Wyze $70の窓用給餌器\n室内から鳥を判別",
+          "body": "Wyzeの$70 Window Bird Camは窓外の給餌器と室内カメラを組み合わせる。",
+          "mini_headline": "WyzeのAI窓用バードカメラ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "HONORはMagic 9 Pro Maxをマレーシアで発売した。中国以外での発売はこれが初めてだ。推奨価格は5,999マレーシアリンギット（~$1,457）で、構成は12GB/512GBのみ。11月24日から12月3日までの予約購入者には、Google AI Proの無料利用三か月分を含む特典パックが付く。"
+                "x": "Wyzeは新製品Window Bird Camを発表した。窓に取り付けるカメラと、ガラスの外側に貼り付ける給餌器を組み合わせたものだ。あわせてWyzeは、識別機能を追加する新しいサブスクリプションサービスBird Watchを開始する。"
+              },
+              {
+                "t": "p",
+                "x": "Window Bird Camは本日から同社のオンラインストアで$69.98で販売され、吸盤付きの屋外用給餌器、小さな餌皿、カバーが付属する。オプションとして$14.98のWindow Bird Cam Perchも販売される。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "カメラシステムはシネマカメラメーカーのARRIと共同で開発した。200MPの1/1.28インチメインカメラ、200MPの85mm望遠、50MPの超広角、正方形の55MPセルフィーカメラという構成だ。最大の強みは動画で、4K/120fps、ARRI Cinema ModeとARRI Looks、LUTとLogC3への対応、APVコーデック、さらに参照クリップの色を分析して新しい映像に同じルックを適用するMagic Color for Video機能を備える。"
+                "x": "Bird Camは屋内に設置してUSB電源につなぐため、バッテリーや防水仕様は不要だ。レンズは4〜8インチの距離で焦点が合うよう設計されており、鳥はくっきりと、庭のほかの部分は柔らかくぼけて映る。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "内部にはSnapdragon 8 Elite Extreme Gen 6チップセットと、ピーク輝度最大10,000ニトの6.8インチLTPO OLEDパネルを搭載する。MagicOS 11は通知の要約とPayment Trust Space機能を追加し、専用のカメラキーに加えて「状況に応じた（context-aware）」支援を行うAIボタンも備える。ボタンをダブルクリックするとHighlight Clip Captureが起動し、動画の一部を切り出して字幕を生成する。ただしNetflixのストリームなどDRM-protectedの動画では機能しない。"
+                "x": "Bird Camは購入時の状態で動きを検知し、五分間のクールダウン付きで鳥の飛来を通知し、最大512GBのmicroSDカードに30fpsの動画をローカル録画する。月額$6.99または年額$69.99のBird Watchは、信頼度スコア付きの種の識別(ID)、インタラクティブな鳥のwiki、60日間のクラウド動画保存を追加し、通知のクールダウンもなくす。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Honor Magic 9\nPro Max首度出海",
-          "body": "Honor Magic 9 Pro Max在马来西亚上市，售价约$1,457，配备AI键。",
-          "mini_headline": "Honor Magic 9 Pro Max走向全球",
+          "headline": "Wyze $70窗外喂鸟器\n在室内识别鸟种",
+          "body": "Wyze的$70 Window Bird Cam把喂鸟器装在窗外、摄像头装在室内。",
+          "mini_headline": "Wyze的AI窗边观鸟相机",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "HONOR在马来西亚推出Magic 9 Pro Max，这是该机首次在中国以外地区发售。建议售价为5,999马来西亚林吉特（~$1,457），仅有12GB/512GB一种配置；11月24日至12月3日期间预订可获赠礼包，内含三个月免费Google AI Pro。"
+                "x": "Wyze发布新款Window Bird Cam，将装在窗户内侧的摄像头与贴在玻璃外侧的喂鸟器配套使用。Wyze同时推出名为Bird Watch的新订阅服务，增加识别功能。"
+              },
+              {
+                "t": "p",
+                "x": "Window Bird Cam今日起在该公司网店以$69.98发售，包含带吸盘的户外喂鸟器、小型食盘和顶盖。另有售价$14.98的可选配件Window Bird Cam Perch。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "相机系统与电影摄影机制造商ARRI合作打造：200MP 1/1.28英寸主摄、200MP 85mm长焦、50MP超广角，以及方形55MP自拍相机。视频是其最大强项，支持4K/120fps、ARRI Cinema Mode与ARRI Looks、LUT和LogC3、APV编解码器，还有Magic Color for Video功能，可分析参考片段的色彩并将同样的风格套用到新素材上。"
+                "x": "Bird Cam安装在室内并接USB供电，因此无需电池或防水设计。其镜头设计为在4至8英寸距离对焦，让鸟儿清晰呈现，而院子的其余部分则柔和虚化。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "机身内部搭载Snapdragon 8 Elite Extreme Gen 6芯片组和6.8英寸LTPO OLED面板，峰值亮度最高10,000尼特。MagicOS 11新增通知摘要和Payment Trust Space功能，手机还配有专用相机键，以及提供“情境感知（context-aware）”协助的AI按键。双击该按键会触发Highlight Clip Capture，截取视频片段并生成字幕；但它不适用于Netflix流媒体等DRM-protected视频。"
+                "x": "开箱即用状态下，Bird Cam可检测移动，以五分钟冷却间隔推送鸟类到访通知，并以30fps将视频本地录制到最高512GB的microSD卡。Bird Watch每月$6.99或每年$69.99，提供带置信度评分的鸟种识别（ID）、互动式鸟类wiki、60天云端视频存储，并取消通知冷却间隔。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Honor Magic 9 Pro Max\nse lanza fuera de China",
-          "body": "El Honor Magic 9 Pro Max debuta en Malasia por unos $1,457, con un botón AI para ayuda según el contexto.",
-          "mini_headline": "Honor Magic 9 Pro Max llega al mercado global",
+          "headline": "El comedero de $70 de Wyze\nidentifica aves desde dentro",
+          "body": "La Window Bird Cam de $70 de Wyze une un comedero exterior y una cámara interior; Bird Watch añade ID de especies.",
+          "mini_headline": "La cámara AI de Wyze para ventanas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "HONOR ha lanzado el Magic 9 Pro Max en Malasia, su primer lanzamiento fuera de China. Tiene un precio recomendado de 5,999 ringgits malasios (~$1,457) y solo se vende en una configuración de 12GB/512GB; las reservas del 24 de noviembre al 3 de diciembre reciben un paquete de regalo que incluye tres meses gratis de Google AI Pro."
+                "x": "Wyze anunció su nueva Window Bird Cam, que combina una cámara montada en la ventana con un comedero que se adhiere a la parte exterior del cristal. Junto con el kit, Wyze lanza un nuevo servicio de suscripción llamado Bird Watch, que añade funciones de identificación."
+              },
+              {
+                "t": "p",
+                "x": "La Window Bird Cam ya está disponible en la tienda en línea de la compañía por $69.98 e incluye el comedero exterior con ventosas, una pequeña bandeja para semillas y una cubierta. También se vende un accesorio opcional, la Window Bird Cam Perch, por $14.98."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "El sistema de cámaras se ha desarrollado con el fabricante de cámaras de cine ARRI: una cámara principal de 200MP y 1/1.28 pulgadas, un teleobjetivo de 200MP y 85mm, un ultra gran angular de 50MP y una cámara selfie cuadrada de 55MP. El vídeo es su mayor fortaleza, con 4K/120fps, ARRI Cinema Mode y ARRI Looks, compatibilidad con LUT y LogC3, el códec APV y la función Magic Color for Video, que analiza los colores de un clip de referencia y aplica ese estilo a nuevas grabaciones."
+                "x": "Al instalarse dentro de casa y conectarse a una toma USB, la Bird Cam no necesita batería ni protección contra la intemperie. Su lente está diseñada para enfocar a una distancia de 4 a 8 pulgadas, de modo que las aves se ven nítidas mientras el resto del jardín queda suavemente desenfocado."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "En su interior hay un chipset Snapdragon 8 Elite Extreme Gen 6 y un panel LTPO OLED de 6.8 pulgadas con un brillo máximo de hasta 10,000 nits. MagicOS 11 añade resúmenes de notificaciones y la función Payment Trust Space, y el teléfono incorpora una tecla de cámara dedicada y un botón AI para asistencia “context-aware” (según el contexto). Al pulsarlo dos veces se activa Highlight Clip Capture, que recorta un fragmento de un vídeo y genera subtítulos; no funciona con vídeo DRM-protected, como las emisiones de Netflix."
+                "x": "De serie, la Bird Cam detecta movimiento, envía avisos de llegada de aves con un intervalo de espera de cinco minutos y graba vídeo a 30fps de forma local en una tarjeta microSD de hasta 512GB. Bird Watch, por $6.99 al mes o $69.99 al año, añade identificación de especies (ID) con un índice de confianza, una wiki interactiva de aves, 60 días de vídeo en la nube y la eliminación del intervalo de espera entre avisos."
               }
             ]
           }
@@ -629,137 +633,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Honor Magic 9\nPro Max 해외 출시",
-          "body": "Honor Magic 9 Pro Max가 AI 버튼 달고 약 $1,457에 나왔다.",
-          "mini_headline": "Honor Magic 9 Pro Max 해외 출시",
+          "headline": "Wyze $70 모이통\n실내에서 새 종 식별",
+          "body": "Wyze $70 Window Bird Cam은 창밖 모이통과 실내 카메라를 묶었다.",
+          "mini_headline": "Wyze의 AI 창문 새 카메라",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "HONOR가 Magic 9 Pro Max를 말레이시아에 출시했다. 중국 밖에서는 첫 출시다. 권장 가격은 5,999 말레이시아 링깃(~$1,457)이며 12GB/512GB 단일 구성으로만 나온다. 11월 24일부터 12월 3일까지 사전 주문하면 Google AI Pro 석 달 무료 이용권이 담긴 사은품 패키지를 받는다."
+                "x": "Wyze가 새 Window Bird Cam을 발표했다. 창문 안쪽에 다는 카메라와 유리 바깥쪽에 붙이는 모이통을 한 세트로 묶은 제품이다. Wyze는 이와 함께 식별 기능을 더하는 새 구독 서비스 Bird Watch도 내놓는다."
+              },
+              {
+                "t": "p",
+                "x": "Window Bird Cam은 오늘부터 회사 온라인 스토어에서 $69.98에 판매하며, 흡착판이 달린 실외 모이통과 작은 씨앗 받침, 덮개가 들어 있다. 선택 사양인 $14.98짜리 Window Bird Cam Perch도 따로 판매한다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "카메라 시스템은 시네마 카메라 제조사 ARRI와 함께 만들었다. 200MP 1/1.28인치 메인 카메라, 200MP 85mm 망원, 50MP 초광각, 정사각형 55MP 셀피 카메라로 구성된다. 가장 큰 강점은 영상이다. 4K/120fps, ARRI Cinema Mode와 ARRI Looks, LUT와 LogC3 지원, APV 코덱을 갖췄고, 참조 클립의 색을 분석해 새 영상에 같은 룩을 입히는 Magic Color for Video 기능도 들어갔다."
+                "x": "Bird Cam은 집 안에 설치해 USB 전원에 연결하므로 배터리나 방수 설계가 필요 없다. 렌즈는 4~8인치 거리에 초점이 맞도록 설계돼 새는 또렷하게, 마당의 나머지 부분은 부드럽게 흐려 보인다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "내부에는 Snapdragon 8 Elite Extreme Gen 6 칩셋과 최대 10,000니트 피크 밝기의 6.8인치 LTPO OLED 패널이 들어갔다. MagicOS 11은 알림 요약과 Payment Trust Space 기능을 더했고, 전용 카메라 키와 “상황 인식(context-aware)” 지원용 AI 버튼도 달았다. 이 버튼을 두 번 누르면 Highlight Clip Capture가 실행돼 영상 일부를 잘라 자막을 만든다. 다만 Netflix 스트림 같은 DRM 보호(DRM-protected) 영상에서는 작동하지 않는다."
+                "x": "Bird Cam은 기본 상태로도 움직임을 감지하고, 오 분 간격 제한을 두고 새 도착 알림을 보내며, 최대 512GB microSD 카드에 30fps 영상을 로컬로 저장한다. 월 $6.99 또는 연 $69.99인 Bird Watch는 신뢰도 점수와 함께 종 식별(ID)을 제공하고, 대화형 새 위키와 60일 클라우드 영상 보관을 더하며 알림 간격 제한도 없앤다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Honor Magic 9\nPro Maxが中国外で発売",
-          "body": "AIボタン搭載のHonor Magic 9 Pro Maxが約$1,457で発売された。",
-          "mini_headline": "Honor Magic 9 Pro Maxが海外へ",
+          "headline": "Wyze $70の窓用給餌器\n室内から鳥を判別",
+          "body": "Wyzeの$70 Window Bird Camは窓外の給餌器と室内カメラを組み合わせる。",
+          "mini_headline": "WyzeのAI窓用バードカメラ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "HONORはMagic 9 Pro Maxをマレーシアで発売した。中国以外での発売はこれが初めてだ。推奨価格は5,999マレーシアリンギット（~$1,457）で、構成は12GB/512GBのみ。11月24日から12月3日までの予約購入者には、Google AI Proの無料利用三か月分を含む特典パックが付く。"
+                "x": "Wyzeは新製品Window Bird Camを発表した。窓に取り付けるカメラと、ガラスの外側に貼り付ける給餌器を組み合わせたものだ。あわせてWyzeは、識別機能を追加する新しいサブスクリプションサービスBird Watchを開始する。"
+              },
+              {
+                "t": "p",
+                "x": "Window Bird Camは本日から同社のオンラインストアで$69.98で販売され、吸盤付きの屋外用給餌器、小さな餌皿、カバーが付属する。オプションとして$14.98のWindow Bird Cam Perchも販売される。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "カメラシステムはシネマカメラメーカーのARRIと共同で開発した。200MPの1/1.28インチメインカメラ、200MPの85mm望遠、50MPの超広角、正方形の55MPセルフィーカメラという構成だ。最大の強みは動画で、4K/120fps、ARRI Cinema ModeとARRI Looks、LUTとLogC3への対応、APVコーデック、さらに参照クリップの色を分析して新しい映像に同じルックを適用するMagic Color for Video機能を備える。"
+                "x": "Bird Camは屋内に設置してUSB電源につなぐため、バッテリーや防水仕様は不要だ。レンズは4〜8インチの距離で焦点が合うよう設計されており、鳥はくっきりと、庭のほかの部分は柔らかくぼけて映る。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "内部にはSnapdragon 8 Elite Extreme Gen 6チップセットと、ピーク輝度最大10,000ニトの6.8インチLTPO OLEDパネルを搭載する。MagicOS 11は通知の要約とPayment Trust Space機能を追加し、専用のカメラキーに加えて「状況に応じた（context-aware）」支援を行うAIボタンも備える。ボタンをダブルクリックするとHighlight Clip Captureが起動し、動画の一部を切り出して字幕を生成する。ただしNetflixのストリームなどDRM-protectedの動画では機能しない。"
+                "x": "Bird Camは購入時の状態で動きを検知し、五分間のクールダウン付きで鳥の飛来を通知し、最大512GBのmicroSDカードに30fpsの動画をローカル録画する。月額$6.99または年額$69.99のBird Watchは、信頼度スコア付きの種の識別(ID)、インタラクティブな鳥のwiki、60日間のクラウド動画保存を追加し、通知のクールダウンもなくす。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Honor Magic 9\nPro Max首度出海",
-          "body": "Honor Magic 9 Pro Max在马来西亚上市，售价约$1,457，配备AI键。",
-          "mini_headline": "Honor Magic 9 Pro Max走向全球",
+          "headline": "Wyze $70窗外喂鸟器\n在室内识别鸟种",
+          "body": "Wyze的$70 Window Bird Cam把喂鸟器装在窗外、摄像头装在室内。",
+          "mini_headline": "Wyze的AI窗边观鸟相机",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "HONOR在马来西亚推出Magic 9 Pro Max，这是该机首次在中国以外地区发售。建议售价为5,999马来西亚林吉特（~$1,457），仅有12GB/512GB一种配置；11月24日至12月3日期间预订可获赠礼包，内含三个月免费Google AI Pro。"
+                "x": "Wyze发布新款Window Bird Cam，将装在窗户内侧的摄像头与贴在玻璃外侧的喂鸟器配套使用。Wyze同时推出名为Bird Watch的新订阅服务，增加识别功能。"
+              },
+              {
+                "t": "p",
+                "x": "Window Bird Cam今日起在该公司网店以$69.98发售，包含带吸盘的户外喂鸟器、小型食盘和顶盖。另有售价$14.98的可选配件Window Bird Cam Perch。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "相机系统与电影摄影机制造商ARRI合作打造：200MP 1/1.28英寸主摄、200MP 85mm长焦、50MP超广角，以及方形55MP自拍相机。视频是其最大强项，支持4K/120fps、ARRI Cinema Mode与ARRI Looks、LUT和LogC3、APV编解码器，还有Magic Color for Video功能，可分析参考片段的色彩并将同样的风格套用到新素材上。"
+                "x": "Bird Cam安装在室内并接USB供电，因此无需电池或防水设计。其镜头设计为在4至8英寸距离对焦，让鸟儿清晰呈现，而院子的其余部分则柔和虚化。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "机身内部搭载Snapdragon 8 Elite Extreme Gen 6芯片组和6.8英寸LTPO OLED面板，峰值亮度最高10,000尼特。MagicOS 11新增通知摘要和Payment Trust Space功能，手机还配有专用相机键，以及提供“情境感知（context-aware）”协助的AI按键。双击该按键会触发Highlight Clip Capture，截取视频片段并生成字幕；但它不适用于Netflix流媒体等DRM-protected视频。"
+                "x": "开箱即用状态下，Bird Cam可检测移动，以五分钟冷却间隔推送鸟类到访通知，并以30fps将视频本地录制到最高512GB的microSD卡。Bird Watch每月$6.99或每年$69.99，提供带置信度评分的鸟种识别（ID）、互动式鸟类wiki、60天云端视频存储，并取消通知冷却间隔。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Honor Magic 9 Pro Max\nse lanza fuera de China",
-          "body": "El Honor Magic 9 Pro Max debuta en Malasia por unos $1,457, con un botón AI para ayuda según el contexto.",
-          "mini_headline": "Honor Magic 9 Pro Max llega al mercado global",
+          "headline": "El comedero de $70 de Wyze\nidentifica aves desde dentro",
+          "body": "La Window Bird Cam de $70 de Wyze une un comedero exterior y una cámara interior; Bird Watch añade ID de especies.",
+          "mini_headline": "La cámara AI de Wyze para ventanas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-launch.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "HONOR ha lanzado el Magic 9 Pro Max en Malasia, su primer lanzamiento fuera de China. Tiene un precio recomendado de 5,999 ringgits malasios (~$1,457) y solo se vende en una configuración de 12GB/512GB; las reservas del 24 de noviembre al 3 de diciembre reciben un paquete de regalo que incluye tres meses gratis de Google AI Pro."
+                "x": "Wyze anunció su nueva Window Bird Cam, que combina una cámara montada en la ventana con un comedero que se adhiere a la parte exterior del cristal. Junto con el kit, Wyze lanza un nuevo servicio de suscripción llamado Bird Watch, que añade funciones de identificación."
+              },
+              {
+                "t": "p",
+                "x": "La Window Bird Cam ya está disponible en la tienda en línea de la compañía por $69.98 e incluye el comedero exterior con ventosas, una pequeña bandeja para semillas y una cubierta. También se vende un accesorio opcional, la Window Bird Cam Perch, por $14.98."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max-6.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "El sistema de cámaras se ha desarrollado con el fabricante de cámaras de cine ARRI: una cámara principal de 200MP y 1/1.28 pulgadas, un teleobjetivo de 200MP y 85mm, un ultra gran angular de 50MP y una cámara selfie cuadrada de 55MP. El vídeo es su mayor fortaleza, con 4K/120fps, ARRI Cinema Mode y ARRI Looks, compatibilidad con LUT y LogC3, el códec APV y la función Magic Color for Video, que analiza los colores de un clip de referencia y aplica ese estilo a nuevas grabaciones."
+                "x": "Al instalarse dentro de casa y conectarse a una toma USB, la Bird Cam no necesita batería ni protección contra la intemperie. Su lente está diseñada para enfocar a una distancia de 4 a 8 pulgadas, de modo que las aves se ven nítidas mientras el resto del jardín queda suavemente desenfocado."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/HONOR-Magic-9-Pro-Max_2.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "En su interior hay un chipset Snapdragon 8 Elite Extreme Gen 6 y un panel LTPO OLED de 6.8 pulgadas con un brillo máximo de hasta 10,000 nits. MagicOS 11 añade resúmenes de notificaciones y la función Payment Trust Space, y el teléfono incorpora una tecla de cámara dedicada y un botón AI para asistencia “context-aware” (según el contexto). Al pulsarlo dos veces se activa Highlight Clip Capture, que recorta un fragmento de un vídeo y genera subtítulos; no funciona con vídeo DRM-protected, como las emisiones de Netflix."
+                "x": "De serie, la Bird Cam detecta movimiento, envía avisos de llegada de aves con un intervalo de espera de cinco minutos y graba vídeo a 30fps de forma local en una tarjeta microSD de hasta 512GB. Bird Watch, por $6.99 al mes o $69.99 al año, añade identificación de especies (ID) con un índice de confianza, una wiki interactiva de aves, 60 días de vídeo en la nube y la eliminación del intervalo de espera entre avisos."
               }
             ]
           }
@@ -767,321 +787,391 @@
       }
     },
     {
-      "id": "foundation-phantom-mkii",
-      "source_lang": "ko",
+      "id": "amazon-ai-toys-petition",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "90kg 짐 나르는\n휴머노이드 팬텀 MKII",
-      "body": "팬텀 MKII는 최대 90kg을 운반하고 한 번 충전으로 4~6시간 작동한다.",
-      "mini_headline": "90kg 나르는 팬텀 MKII",
+      "headline": "아동 단체, Amazon에\nAI 장난감 퇴출 촉구",
+      "body": "아동 단체가 13세+ 챗봇과 연결된 3세+ 토끼 등 AI 장난감 퇴출을 촉구했다.",
+      "mini_headline": "Amazon에 AI 장난감 퇴출 요구",
       "tool": "Gadgets",
-      "source": "전자신문",
-      "url": "https://www.etnews.com/20261124000443",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/cool-tech/child-safety-groups-across-the-world-are-begging-amazon-to-remove-ai-toys-for-kids/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
-            "cap": "출처=Foundation Robotics"
-          },
-          {
-            "t": "video",
-            "yt": "la43cmm6YMQ"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
           },
           {
             "t": "p",
-            "x": "자기 몸무게만큼 무거운 짐을 운반할 수 있다는 휴머노이드 로봇이 공개됐습니다."
+            "x": "2026년 11월 23일, 150곳이 넘는 아동 권익 단체와 전문가로 이뤄진 연합이 Amazon과 eBay에 서한을 보내 이번 연말 시즌 AI 장난감 판매를 멈추고 이미 산 가정에는 환불해 달라고 촉구했다(via Fairplay)."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
           },
           {
             "t": "p",
-            "x": "미국 로봇기업 파운데이션 퓨처 인더스트리스는 지난 18일(현지시간) 2세대 휴머노이드 로봇 '팬텀 MKII'를 공개했습니다. 이 로봇은 키 약 183cm, 무게 약 88kg으로 최대 90kg의 짐을 운반할 수 있습니다. 한 번 충전하면 4~6시간 작동하도록 설계됐습니다."
+            "x": "연합은 16세 미만 아동을 겨냥했거나 아동이 쓸 가능성이 높은 AI 챗봇 내장 장난감을 독립 테스트로 안전성이 확인될 때까지 전부 팔지 말라고 요구한다. \"friend\"(친구) 표시 삭제, 서로 어긋나는 연령 표시 정정, 구매자 대상 경고와 환불도 요구 사항에 들어갔다. Amazon과 eBay는 크리스마스까지 답해야 한다."
           },
           {
             "t": "p",
-            "x": "방진·방수 등급 IP67을 갖춰 비와 먼지가 많은 환경에서도 작업할 수 있고, 고장 난 관절을 교체할 수 있는 구조로 제작됐습니다. AI를 활용해 사람의 작업 시연을 학습할 수 있으며, 공장과 건설 현장, 광산 등에서 무거운 물건을 운반하거나 위험한 작업을 대신하는 것을 목표로 하고 있습니다. 회사는 2027년 초 생산을 시작할 계획입니다."
+            "x": "3세 이상용 봉제 토끼 인형 하나는 ChatGPT 같은 범용 챗봇에 연결되는데, 이 챗봇 약관상 사용자는 최소 13세 이상이어야 한다. 장난감 속 AI는 언제든 행동이 달라질 수 있다. 연합은 AI 장난감이 어린아이를 성적인 대화로 끌어들이고 칼과 성냥을 어디서 찾는지 알려 줬다고 지적한다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+          },
+          {
+            "t": "p",
+            "x": "캘리포니아주는 2027년 1월부터 16세 미만 아동용 컴패니언 챗봇 장난감을 금지한다. 아동 장난감 속 AI 챗봇을 전국에서 금지하는 법안도 의회에 올라 있다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "90kg 짐 나르는\n휴머노이드 팬텀 MKII",
-          "body": "팬텀 MKII는 최대 90kg을 운반하고 한 번 충전으로 4~6시간 작동한다.",
-          "mini_headline": "90kg 나르는 팬텀 MKII",
+        "en": {
+          "headline": "Child safety groups urge\nAmazon to pull AI toys",
+          "body": "Child safety groups urge Amazon to pull AI toys, including a bunny for ages 3+ reportedly tied to 13+ chatbots.",
+          "mini_headline": "Amazon urged\nto pull AI toys",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
-                "cap": "출처=Foundation Robotics"
-              },
-              {
-                "t": "video",
-                "yt": "la43cmm6YMQ"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "자기 몸무게만큼 무거운 짐을 운반할 수 있다는 휴머노이드 로봇이 공개됐습니다."
+                "x": "On November 23, 2026, a coalition of more than 150 child advocacy groups and experts sent a letter to Amazon and eBay urging them to stop selling AI toys this holiday season and to refund families who already bought one (via Fairplay)."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
               },
               {
                 "t": "p",
-                "x": "미국 로봇기업 파운데이션 퓨처 인더스트리스는 지난 18일(현지시간) 2세대 휴머노이드 로봇 '팬텀 MKII'를 공개했습니다. 이 로봇은 키 약 183cm, 무게 약 88kg으로 최대 90kg의 짐을 운반할 수 있습니다. 한 번 충전하면 4~6시간 작동하도록 설계됐습니다."
+                "x": "The coalition wants every toy with a built-in AI chatbot aimed at, or likely to be used by, kids under 16 pulled until independent testing shows they're safe. It also wants \"friend\" tags dropped, contradictory age labels fixed, and buyers warned and offered refunds. Amazon and eBay have until Christmas to reply."
               },
               {
                 "t": "p",
-                "x": "방진·방수 등급 IP67을 갖춰 비와 먼지가 많은 환경에서도 작업할 수 있고, 고장 난 관절을 교체할 수 있는 구조로 제작됐습니다. AI를 활용해 사람의 작업 시연을 학습할 수 있으며, 공장과 건설 현장, 광산 등에서 무거운 물건을 운반하거나 위험한 작업을 대신하는 것을 목표로 하고 있습니다. 회사는 2027년 초 생산을 시작할 계획입니다."
+                "x": "One plush bunny for ages 3 and up is connected to general-purpose chatbots like ChatGPT, whose own terms require users to be at least 13. The AI inside these toys can change its behavior at any point, and the coalition says AI toys have drawn young kids into sexual conversations and told them where to find knives and matches."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "California bans toys with companion chatbots for kids under 16 starting in January 2027, and a bill to ban AI chatbots in kids' toys nationwide is in Congress."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Phantom MKII humanoid robot\ncarries loads up to 90kg",
-          "body": "Phantom MKII can carry up to 90kg and runs for 4 to 6 hours on a single charge.",
-          "mini_headline": "Phantom MKII carries 90kg",
+        "ko": {
+          "headline": "아동 단체, Amazon에\nAI 장난감 퇴출 촉구",
+          "body": "아동 단체가 13세+ 챗봇과 연결된 3세+ 토끼 등 AI 장난감 퇴출을 촉구했다.",
+          "mini_headline": "Amazon에 AI 장난감 퇴출 요구",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
-                "cap": "Source: Foundation Robotics"
-              },
-              {
-                "t": "video",
-                "yt": "la43cmm6YMQ"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "A humanoid robot said to carry loads as heavy as its own body weight has been unveiled."
+                "x": "2026년 11월 23일, 150곳이 넘는 아동 권익 단체와 전문가로 이뤄진 연합이 Amazon과 eBay에 서한을 보내 이번 연말 시즌 AI 장난감 판매를 멈추고 이미 산 가정에는 환불해 달라고 촉구했다(via Fairplay)."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
               },
               {
                 "t": "p",
-                "x": "American robotics company Foundation Future Industries unveiled its 2nd-generation humanoid robot 'Phantom MKII' on the 18th (local time). The robot stands about 183cm tall, weighs about 88kg and can carry loads of up to 90kg. It is designed to run for 4 to 6 hours on a single charge."
+                "x": "연합은 16세 미만 아동을 겨냥했거나 아동이 쓸 가능성이 높은 AI 챗봇 내장 장난감을 독립 테스트로 안전성이 확인될 때까지 전부 팔지 말라고 요구한다. \"friend\"(친구) 표시 삭제, 서로 어긋나는 연령 표시 정정, 구매자 대상 경고와 환불도 요구 사항에 들어갔다. Amazon과 eBay는 크리스마스까지 답해야 한다."
               },
               {
                 "t": "p",
-                "x": "With an IP67 dust and water resistance rating, it can work in rainy and dusty environments, and it is built so that broken joints can be replaced. It can use AI to learn from human task demonstrations, and it aims to haul heavy objects or take over dangerous work at factories, construction sites and mines. The company plans to start production in early 2027."
+                "x": "3세 이상용 봉제 토끼 인형 하나는 ChatGPT 같은 범용 챗봇에 연결되는데, 이 챗봇 약관상 사용자는 최소 13세 이상이어야 한다. 장난감 속 AI는 언제든 행동이 달라질 수 있다. 연합은 AI 장난감이 어린아이를 성적인 대화로 끌어들이고 칼과 성냥을 어디서 찾는지 알려 줬다고 지적한다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "캘리포니아주는 2027년 1월부터 16세 미만 아동용 컴패니언 챗봇 장난감을 금지한다. 아동 장난감 속 AI 챗봇을 전국에서 금지하는 법안도 의회에 올라 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "90kgを運ぶ人型ロボ\nPhantom MKII",
-          "body": "Phantom MKIIは最大90kgを運び、一度の充電で4〜6時間動作する。",
-          "mini_headline": "90kgを運ぶPhantom MKII",
+          "headline": "児童団体がAmazonに\nAI玩具の撤去を要求",
+          "body": "児童団体は13歳以上向けチャットボットとつながる3歳以上向けうさぎなどAI玩具撤去を求めた。",
+          "mini_headline": "AmazonにAI玩具撤去要求",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
-                "cap": "出典=Foundation Robotics"
-              },
-              {
-                "t": "video",
-                "yt": "la43cmm6YMQ"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "自分の体重と同じほど重い荷物を運べるというヒューマノイドロボットが公開された。"
+                "x": "2026年11月23日、150以上の児童擁護団体と専門家からなる連合が、AmazonとeBayに書簡を送り、このホリデーシーズンのAI玩具の販売停止と、すでに購入した家庭への返金を求めた(via Fairplay)。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
               },
               {
                 "t": "p",
-                "x": "米ロボット企業Foundation Future Industriesは18日（現地時間）、第2世代ヒューマノイドロボット「Phantom MKII」を公開した。身長約183cm、重さ約88kgで、最大90kgの荷物を運べる。一度の充電で4〜6時間動作するよう設計されている。"
+                "x": "連合は、16歳未満の子どもを対象とする、または子どもが使う可能性が高いAIチャットボット内蔵の玩具すべてを、独立したテストで安全性が示されるまで撤去するよう求めている。さらに「friend」(友達)表示の削除、矛盾する対象年齢表示の修正、購入者への警告と返金も求めた。AmazonとeBayはクリスマスまでに回答する必要がある。"
               },
               {
                 "t": "p",
-                "x": "防塵・防水等級IP67を備え、雨やほこりの多い環境でも作業でき、故障した関節を交換できる構造になっている。AIを活用して人の作業の実演を学習でき、工場や建設現場、鉱山などで重い物を運んだり危険な作業を代わりに担ったりすることを目指す。同社は2027年初めに生産を始める計画だ。"
+                "x": "3歳以上向けのうさぎのぬいぐるみの一つは、ChatGPTのような汎用チャットボットに接続されているが、そのChatGPT自身の規約は利用者が13歳以上であることを求めている。こうした玩具に内蔵されたAIはいつでも挙動が変わりうる。連合によれば、AI玩具は幼い子どもを性的な会話に引き込み、ナイフやマッチのある場所を教えたこともあるという。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "カリフォルニア州は2027年1月から16歳未満向けのコンパニオンチャットボット搭載玩具を禁止し、子ども向け玩具へのAIチャットボット搭載を全国で禁じる法案が議会に提出されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "搬运90kg的人形机器人\nPhantom MKII",
-          "body": "Phantom MKII最多可搬运90kg，充一次电可运行4至6小时。",
-          "mini_headline": "可搬运90kg的Phantom MKII",
+          "headline": "儿童团体促Amazon\n下架AI玩具",
+          "body": "儿童安全团体敦促Amazon下架AI玩具，包括一款据称接入13岁+聊天机器人的3岁+兔子。",
+          "mini_headline": "Amazon被促下架AI玩具",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
-                "cap": "来源=Foundation Robotics"
-              },
-              {
-                "t": "video",
-                "yt": "la43cmm6YMQ"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "一款据称能搬运与自身体重相当的重物的人形机器人亮相。"
+                "x": "2026年11月23日，由150多个儿童权益团体和专家组成的联盟致信Amazon和eBay，敦促两家公司在本次假日季停止销售AI玩具，并向已购买的家庭退款（via Fairplay）。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
               },
               {
                 "t": "p",
-                "x": "美国机器人企业Foundation Future Industries于18日（当地时间）发布第2代人形机器人“Phantom MKII”。该机器人身高约183cm，重约88kg，最多可搬运90kg的货物，按充一次电运行4至6小时设计。"
+                "x": "联盟要求，所有面向16岁以下儿童或可能被其使用、内置AI聊天机器人的玩具，在独立测试证明安全之前一律下架。联盟还要求删除“friend”（朋友）标签、修正相互矛盾的年龄标注，并向买家发出警告、提供退款。Amazon和eBay须在圣诞节前作出回复。"
               },
               {
                 "t": "p",
-                "x": "它具备IP67防尘防水等级，可在雨水和粉尘较多的环境中作业，并采用可更换故障关节的结构。它能借助AI学习人类的作业示范，目标是在工厂、建筑工地和矿山等场所搬运重物或代替人完成危险作业。公司计划于2027年初开始生产。"
+                "x": "一款适合3岁及以上儿童的毛绒兔子接入了ChatGPT等通用聊天机器人，而ChatGPT自身条款要求用户至少年满13岁。这些玩具内置的AI随时可能改变行为，联盟称AI玩具曾将幼儿引入涉性对话，并告诉他们去哪里找刀和火柴。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "加利福尼亚州将从2027年1月起禁止面向16岁以下儿童的陪伴型聊天机器人玩具，国会也在审议一项在全国范围内禁止儿童玩具搭载AI聊天机器人的法案。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Phantom MKII, el humanoide\nque carga hasta 90kg",
-          "body": "Phantom MKII carga hasta 90kg y funciona entre 4 y 6 horas con una sola carga.",
-          "mini_headline": "Phantom MKII carga 90kg",
+          "headline": "Defensores de la infancia piden\na Amazon retirar juguetes con AI",
+          "body": "Defensores de la infancia piden a Amazon retirar juguetes AI, como un conejo para 3+ al parecer ligado a chatbots 13+.",
+          "mini_headline": "Piden a Amazon retirar juguetes AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
-                "cap": "Fuente: Foundation Robotics"
-              },
-              {
-                "t": "video",
-                "yt": "la43cmm6YMQ"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Se ha presentado un robot humanoide que, según se afirma, puede transportar cargas tan pesadas como su propio peso."
+                "x": "El 23 de noviembre de 2026, una coalición de más de 150 grupos de defensa de la infancia y expertos envió una carta a Amazon y eBay en la que les pide dejar de vender juguetes con AI esta temporada navideña y reembolsar a las familias que ya compraron uno (via Fairplay)."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
               },
               {
                 "t": "p",
-                "x": "La empresa estadounidense de robótica Foundation Future Industries presentó el día 18 (hora local) su robot humanoide de 2.ª generación, 'Phantom MKII'. Mide unos 183cm, pesa unos 88kg y puede transportar cargas de hasta 90kg. Está diseñado para funcionar entre 4 y 6 horas con una sola carga."
+                "x": "La coalición quiere que se retire todo juguete con un chatbot de AI integrado dirigido a menores de 16 años, o que probablemente usen, hasta que pruebas independientes demuestren que es seguro. También pide eliminar las etiquetas de \"friend\" (amigo), corregir las indicaciones de edad contradictorias y advertir a los compradores y ofrecerles reembolsos. Amazon y eBay tienen hasta Navidad para responder."
               },
               {
                 "t": "p",
-                "x": "Cuenta con la clasificación IP67 de resistencia al polvo y al agua, por lo que puede trabajar en entornos con mucha lluvia y polvo, y su estructura permite sustituir las articulaciones averiadas. Puede usar AI para aprender de demostraciones de tareas hechas por personas, y su objetivo es transportar objetos pesados o asumir trabajos peligrosos en fábricas, obras de construcción y minas. La empresa prevé iniciar la producción a principios de 2027."
+                "x": "Un conejo de peluche para mayores de 3 años está conectado a chatbots de uso general como ChatGPT, cuyos propios términos exigen que los usuarios tengan al menos 13 años. La AI de estos juguetes puede cambiar su comportamiento en cualquier momento, y la coalición afirma que los juguetes con AI han arrastrado a niños pequeños a conversaciones sexuales y les han dicho dónde encontrar cuchillos y cerillas."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "California prohíbe a partir de enero de 2027 los juguetes con chatbots de compañía para menores de 16 años, y en el Congreso hay un proyecto de ley para prohibir los chatbots de AI en juguetes infantiles en todo el país."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Phantom MKII humanoid robot\ncarries loads up to 90kg",
-          "body": "Phantom MKII can carry up to 90kg and runs for 4 to 6 hours on a single charge.",
-          "mini_headline": "Phantom MKII carries 90kg",
+        "ko": {
+          "headline": "아동 단체, Amazon에\nAI 장난감 퇴출 촉구",
+          "body": "아동 단체가 13세+ 챗봇과 연결된 3세+ 토끼 등 AI 장난감 퇴출을 촉구했다.",
+          "mini_headline": "Amazon에 AI 장난감 퇴출 요구",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
-                "cap": "Source: Foundation Robotics"
-              },
-              {
-                "t": "video",
-                "yt": "la43cmm6YMQ"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "A humanoid robot said to carry loads as heavy as its own body weight has been unveiled."
+                "x": "2026년 11월 23일, 150곳이 넘는 아동 권익 단체와 전문가로 이뤄진 연합이 Amazon과 eBay에 서한을 보내 이번 연말 시즌 AI 장난감 판매를 중단하고 이미 구매한 가정에 환불해 달라고 촉구했다(via Fairplay)."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
               },
               {
                 "t": "p",
-                "x": "American robotics company Foundation Future Industries unveiled its 2nd-generation humanoid robot 'Phantom MKII' on the 18th (local time). The robot stands about 183cm tall, weighs about 88kg and can carry loads of up to 90kg. It is designed to run for 4 to 6 hours on a single charge."
+                "x": "연합은 16세 미만 아동을 겨냥했거나 아동이 쓸 가능성이 높은 AI 챗봇 내장 장난감을 독립 테스트로 안전성이 확인될 때까지 모두 판매 중단하라고 요구한다. 또 \"friend\"(친구) 표시를 없애고, 서로 모순되는 연령 표시를 바로잡고, 구매자에게 경고와 환불을 제공하라고 요구했다. Amazon과 eBay는 크리스마스까지 답해야 한다."
               },
               {
                 "t": "p",
-                "x": "With an IP67 dust and water resistance rating, it can work in rainy and dusty environments, and it is built so that broken joints can be replaced. It can use AI to learn from human task demonstrations, and it aims to haul heavy objects or take over dangerous work at factories, construction sites and mines. The company plans to start production in early 2027."
+                "x": "3세 이상용 봉제 토끼 인형 하나는 ChatGPT 같은 범용 챗봇에 연결되는데, 이 챗봇의 약관은 사용자가 최소 13세 이상일 것을 요구한다. 이런 장난감 속 AI는 언제든 행동이 바뀔 수 있으며, 연합은 AI 장난감이 어린아이들을 성적인 대화로 끌어들이고 칼과 성냥을 어디서 찾을 수 있는지 알려 줬다고 지적한다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "캘리포니아주는 2027년 1월부터 16세 미만 아동용 컴패니언 챗봇 장난감을 금지하며, 아동 장난감 속 AI 챗봇을 전국적으로 금지하는 법안이 의회에 올라 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "90kgを運ぶ人型ロボ\nPhantom MKII",
-          "body": "Phantom MKIIは最大90kgを運び、一度の充電で4〜6時間動作する。",
-          "mini_headline": "90kgを運ぶPhantom MKII",
+          "headline": "児童団体がAmazonに\nAI玩具の撤去を要求",
+          "body": "児童団体は13歳以上向けチャットボットとつながる3歳以上向けうさぎなどAI玩具撤去を求めた。",
+          "mini_headline": "AmazonにAI玩具撤去要求",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
-                "cap": "出典=Foundation Robotics"
-              },
-              {
-                "t": "video",
-                "yt": "la43cmm6YMQ"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "自分の体重と同じほど重い荷物を運べるというヒューマノイドロボットが公開された。"
+                "x": "2026年11月23日、150以上の児童擁護団体と専門家からなる連合が、AmazonとeBayに書簡を送り、このホリデーシーズンのAI玩具の販売停止と、すでに購入した家庭への返金を求めた(via Fairplay)。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
               },
               {
                 "t": "p",
-                "x": "米ロボット企業Foundation Future Industriesは18日（現地時間）、第2世代ヒューマノイドロボット「Phantom MKII」を公開した。身長約183cm、重さ約88kgで、最大90kgの荷物を運べる。一度の充電で4〜6時間動作するよう設計されている。"
+                "x": "連合は、16歳未満の子どもを対象とする、または子どもが使う可能性が高いAIチャットボット内蔵の玩具すべてを、独立したテストで安全性が示されるまで撤去するよう求めている。さらに「friend」(友達)表示の削除、矛盾する対象年齢表示の修正、購入者への警告と返金も求めた。AmazonとeBayはクリスマスまでに回答する必要がある。"
               },
               {
                 "t": "p",
-                "x": "防塵・防水等級IP67を備え、雨やほこりの多い環境でも作業でき、故障した関節を交換できる構造になっている。AIを活用して人の作業の実演を学習でき、工場や建設現場、鉱山などで重い物を運んだり危険な作業を代わりに担ったりすることを目指す。同社は2027年初めに生産を始める計画だ。"
+                "x": "3歳以上向けのうさぎのぬいぐるみの一つは、ChatGPTのような汎用チャットボットに接続されているが、そのChatGPT自身の規約は利用者が13歳以上であることを求めている。こうした玩具に内蔵されたAIはいつでも挙動が変わりうる。連合によれば、AI玩具は幼い子どもを性的な会話に引き込み、ナイフやマッチのある場所を教えたこともあるという。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "カリフォルニア州は2027年1月から16歳未満向けのコンパニオンチャットボット搭載玩具を禁止し、子ども向け玩具へのAIチャットボット搭載を全国で禁じる法案が議会に提出されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "搬运90kg的人形机器人\nPhantom MKII",
-          "body": "Phantom MKII最多可搬运90kg，充一次电可运行4至6小时。",
-          "mini_headline": "可搬运90kg的Phantom MKII",
+          "headline": "儿童团体促Amazon\n下架AI玩具",
+          "body": "儿童安全团体敦促Amazon下架AI玩具，包括一款据称接入13岁+聊天机器人的3岁+兔子。",
+          "mini_headline": "Amazon被促下架AI玩具",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
-                "cap": "来源=Foundation Robotics"
-              },
-              {
-                "t": "video",
-                "yt": "la43cmm6YMQ"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "一款据称能搬运与自身体重相当的重物的人形机器人亮相。"
+                "x": "2026年11月23日，由150多个儿童权益团体和专家组成的联盟致信Amazon和eBay，敦促两家公司在本次假日季停止销售AI玩具，并向已购买的家庭退款（via Fairplay）。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
               },
               {
                 "t": "p",
-                "x": "美国机器人企业Foundation Future Industries于18日（当地时间）发布第2代人形机器人“Phantom MKII”。该机器人身高约183cm，重约88kg，最多可搬运90kg的货物，按充一次电运行4至6小时设计。"
+                "x": "联盟要求，所有面向16岁以下儿童或可能被其使用、内置AI聊天机器人的玩具，在独立测试证明安全之前一律下架。联盟还要求删除“friend”（朋友）标签、修正相互矛盾的年龄标注，并向买家发出警告、提供退款。Amazon和eBay须在圣诞节前作出回复。"
               },
               {
                 "t": "p",
-                "x": "它具备IP67防尘防水等级，可在雨水和粉尘较多的环境中作业，并采用可更换故障关节的结构。它能借助AI学习人类的作业示范，目标是在工厂、建筑工地和矿山等场所搬运重物或代替人完成危险作业。公司计划于2027年初开始生产。"
+                "x": "一款适合3岁及以上儿童的毛绒兔子接入了ChatGPT等通用聊天机器人，而ChatGPT自身条款要求用户至少年满13岁。这些玩具内置的AI随时可能改变行为，联盟称AI玩具曾将幼儿引入涉性对话，并告诉他们去哪里找刀和火柴。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "加利福尼亚州将从2027年1月起禁止面向16岁以下儿童的陪伴型聊天机器人玩具，国会也在审议一项在全国范围内禁止儿童玩具搭载AI聊天机器人的法案。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Phantom MKII, el humanoide\nque carga hasta 90kg",
-          "body": "Phantom MKII carga hasta 90kg y funciona entre 4 y 6 horas con una sola carga.",
-          "mini_headline": "Phantom MKII carga 90kg",
+          "headline": "Defensores de la infancia piden\na Amazon retirar juguetes con AI",
+          "body": "Defensores de la infancia piden a Amazon retirar juguetes AI, como un conejo para 3+ al parecer ligado a chatbots 13+.",
+          "mini_headline": "Piden a Amazon retirar juguetes AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.3129cfde98f74c0d81394e2d887dab6e_P1.png",
-                "cap": "Fuente: Foundation Robotics"
-              },
-              {
-                "t": "video",
-                "yt": "la43cmm6YMQ"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Se ha presentado un robot humanoide que, según se afirma, puede transportar cargas tan pesadas como su propio peso."
+                "x": "El 23 de noviembre de 2026, una coalición de más de 150 grupos de defensa de la infancia y expertos envió una carta a Amazon y eBay en la que les pide dejar de vender juguetes con AI esta temporada navideña y reembolsar a las familias que ya compraron uno (via Fairplay)."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
               },
               {
                 "t": "p",
-                "x": "La empresa estadounidense de robótica Foundation Future Industries presentó el día 18 (hora local) su robot humanoide de 2.ª generación, 'Phantom MKII'. Mide unos 183cm, pesa unos 88kg y puede transportar cargas de hasta 90kg. Está diseñado para funcionar entre 4 y 6 horas con una sola carga."
+                "x": "La coalición quiere que se retire todo juguete con un chatbot de AI integrado dirigido a menores de 16 años, o que probablemente usen, hasta que pruebas independientes demuestren que es seguro. También pide eliminar las etiquetas de \"friend\" (amigo), corregir las indicaciones de edad contradictorias y advertir a los compradores y ofrecerles reembolsos. Amazon y eBay tienen hasta Navidad para responder."
               },
               {
                 "t": "p",
-                "x": "Cuenta con la clasificación IP67 de resistencia al polvo y al agua, por lo que puede trabajar en entornos con mucha lluvia y polvo, y su estructura permite sustituir las articulaciones averiadas. Puede usar AI para aprender de demostraciones de tareas hechas por personas, y su objetivo es transportar objetos pesados o asumir trabajos peligrosos en fábricas, obras de construcción y minas. La empresa prevé iniciar la producción a principios de 2027."
+                "x": "Un conejo de peluche para mayores de 3 años está conectado a chatbots de uso general como ChatGPT, cuyos propios términos exigen que los usuarios tengan al menos 13 años. La AI de estos juguetes puede cambiar su comportamiento en cualquier momento, y la coalición afirma que los juguetes con AI han arrastrado a niños pequeños a conversaciones sexuales y les han dicho dónde encontrar cuchillos y cerillas."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "California prohíbe a partir de enero de 2027 los juguetes con chatbots de compañía para menores de 16 años, y en el Congreso hay un proyecto de ley para prohibir los chatbots de AI en juguetes infantiles en todo el país."
               }
             ]
           }
@@ -1089,15 +1179,15 @@
       }
     },
     {
-      "id": "gadgets-ax-appliance-center",
-      "source_lang": "ko",
+      "id": "rogbid-loop-memo-band",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 가전 상용화 돕는\nAX제품화지원센터 개소",
-      "body": "산업통상부가 중소·중견 기업 AI 가전용 학습데이터 15종 구축 계획을 밝혔다.",
-      "mini_headline": "가전 AX제품화센터 개소",
+      "headline": "Loop Memo, 손목에\n음성 녹음기를 얹다",
+      "body": "Rogbid Loop Memo는 원터치 녹음·건강 추적에 구독료가 없는 밴드다.",
+      "mini_headline": "손목 위의 음성 녹음기",
       "tool": "Gadgets",
-      "source": "전자신문",
-      "url": "https://www.etnews.com/20261124000346",
+      "source": "The Gadgeteer",
+      "url": "https://the-gadgeteer.com/2026/11/25/rogbid-loop-memo-voice-recorder-band/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1105,305 +1195,455 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
-            "cap": "이민우 산업통상부 산업성장실장이 24일 서울 용산구 전자제조지원센터에서 열린 '가전 AX 제품화지원센터 개소식'에 참석했다. 산업부 제공"
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
           },
           {
             "t": "p",
-            "x": "산업통상부는 24일 서울 용산구 전자제조지원센터에서 '가전 AX제품화지원센터' 개소식을 열고 'AI가전 학습데이터 구축 로드맵'을 발표했다. AX 가전 개발부터 상용제품 출시까지 전 주기를 지원하는 시설로, 중소·중견 가전 기업의 AX 개발 설비 및 데이터 부족 어려움을 해소해 줄 전망이다."
+            "x": "손목에 차고 다니는데 구독료는 한 푼도 받지 않는 음성 녹음기라면 반길 만하다. Rogbid의 Loop Memo는 한 번 누르면 녹음되고 전용 앱이 그 오디오를 받아쓰기와 요약, 할 일 목록으로 바꿔 준다."
           },
           {
             "t": "p",
-            "x": "센터는 KEA가 2021년부터 운영해 온 전자제조지원센터를 가전제품 AX 개발 거점으로 고도화한 곳이다. 2026~2030년 총 170억원(국비 100억원)을 투입해 AI 보드 제조 설비와 성능 시험장비 등 13종을 구축·개방하고, 전담 엔지니어가 설계·시제품 제작·실증·초도양산 전 과정을 밀착 지원한다. 기존 제품 설계 변경을 최소화하면서 AI 기능을 더하도록 돕고, 국산 AI 반도체 활용을 연계한다."
+            "x": "가격은 Rogbid 자체 스토어 기준 Phantom Black 색상이 $79.99다. AI 받아쓰기와 요약이 이 값에 들어 있어 월 사용료는 따로 없다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
           },
           {
             "t": "p",
-            "x": "학습데이터 로드맵은 2027~2031년 매년 3종씩 총 15종의 공통 핵심 데이터를 구축한다. 기업 수요조사와 심층 인터뷰로 핵심 데이터 15개를 도출했으며, 2028년부터 전용 플랫폼으로 공유할 계획이다."
+            "x": "AI 노이즈 캔슬링은 화자가 방 건너편에 앉아 있어도 목소리를 또렷하게 끌어낸다. 내부 저장 공간 1 GB로 휴대폰 없이 최대 10시간을 녹음한다. 요약은 마인드맵으로 만들어 TXT, PDF, Word 파일로 내보낸다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
           },
           {
             "t": "p",
-            "x": "현장에선 △비욘드허니컴(AI 자동 조리 로봇) △엠마헬스케어(비접촉 생체신호 측정 AI 아기침대) △긱스로프트(AI 헤드폰) △오티톤메디컬(스마트 귀 체온계·진단 플랫폼) △모빌린트(국산 온디바이스 AI 반도체·엣지 솔루션) 등 5개 성과기업 제품 전시도 열렸다. 이민우 실장은 “가전산업의 경쟁력을 이어가려면 제조공정의 AX와 제품의 혁신이 함께 이뤄져야 한다”고 말했다."
+            "x": "간판은 녹음기지만 Memo는 심박수, 심박 변이도, 스트레스, 수면 단계를 추적하고 100개가 넘는 운동 모드도 갖췄다. 22그램, IP67 등급인 이 트래커는 220 mAh 배터리로 대기 시 최대 50일 간다고 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
+          },
+          {
+            "t": "p",
+            "x": "화면 없는 제품 중 가장 가까운 경쟁작인 Amazfit의 Helio Strap은 $99.99인데 녹음 기능이 아예 없다. Memo는 이보다 $20 싸면서 마이크까지 더했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "AI 가전 상용화 돕는\nAX제품화지원센터 개소",
-          "body": "산업통상부가 중소·중견 기업 AI 가전용 학습데이터 15종 구축 계획을 밝혔다.",
-          "mini_headline": "가전 AX제품화센터 개소",
+        "en": {
+          "headline": "Rogbid's Loop Memo puts\na voice recorder on your wrist",
+          "body": "Rogbid's Loop Memo is a smart band that records voice with one press and tracks health, with no subscription fee.",
+          "mini_headline": "A voice recorder\nfor your wrist",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
-                "cap": "이민우 산업통상부 산업성장실장이 24일 서울 용산구 전자제조지원센터에서 열린 '가전 AX 제품화지원센터 개소식'에 참석했다. 산업부 제공"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "산업통상부는 24일 서울 용산구 전자제조지원센터에서 '가전 AX제품화지원센터' 개소식을 열고 'AI가전 학습데이터 구축 로드맵'을 발표했다. AX 가전 개발부터 상용제품 출시까지 전 주기를 지원하는 시설로, 중소·중견 가전 기업의 AX 개발 설비 및 데이터 부족 어려움을 해소해 줄 전망이다."
+                "x": "A voice recorder that lives on your wrist and never asks for a subscription fee is a pitch I can get behind. Rogbid's Loop Memo records with one press, then turns that audio into transcripts, summaries, and to-do lists in its companion app."
               },
               {
                 "t": "p",
-                "x": "센터는 KEA가 2021년부터 운영해 온 전자제조지원센터를 가전제품 AX 개발 거점으로 고도화한 곳이다. 2026~2030년 총 170억원(국비 100억원)을 투입해 AI 보드 제조 설비와 성능 시험장비 등 13종을 구축·개방하고, 전담 엔지니어가 설계·시제품 제작·실증·초도양산 전 과정을 밀착 지원한다. 기존 제품 설계 변경을 최소화하면서 AI 기능을 더하도록 돕고, 국산 AI 반도체 활용을 연계한다."
+                "x": "The band costs $79.99 in Phantom Black at Rogbid's own store, and that price covers the AI transcription and summaries with no monthly fee stacked on top."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
               },
               {
                 "t": "p",
-                "x": "학습데이터 로드맵은 2027~2031년 매년 3종씩 총 15종의 공통 핵심 데이터를 구축한다. 기업 수요조사와 심층 인터뷰로 핵심 데이터 15개를 도출했으며, 2028년부터 전용 플랫폼으로 공유할 계획이다."
+                "x": "AI noise cancellation works to pull voices forward even when the speaker sits across a room. There's 1 GB of storage inside, good for up to 10 hours of recording with no phone nearby, and summaries can become mind maps exported as TXT, PDF, or Word files."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
               },
               {
                 "t": "p",
-                "x": "현장에선 △비욘드허니컴(AI 자동 조리 로봇) △엠마헬스케어(비접촉 생체신호 측정 AI 아기침대) △긱스로프트(AI 헤드폰) △오티톤메디컬(스마트 귀 체온계·진단 플랫폼) △모빌린트(국산 온디바이스 AI 반도체·엣지 솔루션) 등 5개 성과기업 제품 전시도 열렸다. 이민우 실장은 “가전산업의 경쟁력을 이어가려면 제조공정의 AX와 제품의 혁신이 함께 이뤄져야 한다”고 말했다."
+                "x": "Under the recorder pitch, the Memo tracks heart rate, heart rate variability, stress, and sleep stages, and carries more than 100 sports modes. The 22-gram, IP67 tracker's 220 mAh battery is quoted at up to 50 days on standby."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "The closest screenless rival, Amazfit's Helio Strap, runs $99.99 and skips recording entirely, so the Memo undercuts it by $20 while adding the microphone."
               }
             ]
           }
         },
-        "en": {
-          "headline": "AX commercialization center\nopens for AI home appliances",
-          "body": "The Ministry of Industry and Trade plans to build 15 types of AI appliance training data for small and mid-sized firms.",
-          "mini_headline": "Appliance AX commercialization center opens",
+        "ko": {
+          "headline": "Loop Memo, 손목에\n음성 녹음기를 얹다",
+          "body": "Rogbid Loop Memo는 원터치 녹음·건강 추적에 구독료가 없는 밴드다.",
+          "mini_headline": "손목 위의 음성 녹음기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
-                "cap": "Lee Min-woo, head of the Industrial Growth Office at the Ministry of Industry and Trade, attends the opening ceremony of the 'Home Appliance AX Commercialization Support Center' at the Electronics Manufacturing Support Center in Yongsan-gu, Seoul, on the 24th. Courtesy of the Ministry of Industry and Trade"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "On the 24th, the Ministry of Industry and Trade held an opening ceremony for the 'Home Appliance AX Commercialization Support Center' at the Electronics Manufacturing Support Center in Yongsan-gu, Seoul, and announced an 'AI Home Appliance Training Data Roadmap.' The facility supports the full cycle from AX appliance development to commercial product launch and is expected to ease the shortage of AX development equipment and data faced by small and mid-sized appliance companies."
+                "x": "손목에 차고 다니는데 구독료는 한 푼도 받지 않는 음성 녹음기라면 반길 만하다. Rogbid의 Loop Memo는 한 번 누르면 녹음되고 전용 앱이 그 오디오를 받아쓰기와 요약, 할 일 목록으로 바꿔 준다."
               },
               {
                 "t": "p",
-                "x": "The center upgrades the Electronics Manufacturing Support Center, which KEA has run since 2021, into a hub for AX development of home appliances. A total of 170억원 (including 100억원 in government funds) will be invested from 2026 to 2030 to build and open 13 types of equipment, including AI board manufacturing facilities and performance testing equipment, and dedicated engineers will closely support the whole process of design, prototyping, verification and initial mass production. The center will help companies add AI functions while keeping changes to existing product designs to a minimum, and will link them to the use of domestic AI chips."
+                "x": "가격은 Rogbid 자체 스토어 기준 Phantom Black 색상이 $79.99다. AI 받아쓰기와 요약이 이 값에 들어 있어 월 사용료는 따로 없다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
               },
               {
                 "t": "p",
-                "x": "The training data roadmap will build 15 types of common core data from 2027 to 2031, 3 types each year. The 15 core data sets were identified through a corporate demand survey and in-depth interviews, and they will be shared on a dedicated platform from 2028."
+                "x": "AI 노이즈 캔슬링은 화자가 방 건너편에 앉아 있어도 목소리를 또렷하게 끌어낸다. 내부 저장 공간 1 GB로 휴대폰 없이 최대 10시간을 녹음한다. 요약은 마인드맵으로 만들어 TXT, PDF, Word 파일로 내보낸다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
               },
               {
                 "t": "p",
-                "x": "Products from 5 participating companies were also exhibited on site: Beyond Honeycomb (AI automatic cooking robot), Emma Healthcare (AI baby bed that measures vital signs without contact), Geeksloft (AI headphones), Otiton Medical (smart ear thermometer and diagnostic platform) and Mobilint (domestic on-device AI chips and edge solutions). Lee said, “To sustain the competitiveness of the home appliance industry, AX in manufacturing processes and product innovation must go hand in hand.”"
+                "x": "간판은 녹음기지만 Memo는 심박수, 심박 변이도, 스트레스, 수면 단계를 추적하고 100개가 넘는 운동 모드도 갖췄다. 22그램, IP67 등급인 이 트래커는 220 mAh 배터리로 대기 시 최대 50일 간다고 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "화면 없는 제품 중 가장 가까운 경쟁작인 Amazfit의 Helio Strap은 $99.99인데 녹음 기능이 아예 없다. Memo는 이보다 $20 싸면서 마이크까지 더했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI家電の商用化を支援\nAX製品化支援センター開所",
-          "body": "産業通商部は中小・中堅企業向けAI家電の学習データ15種を構築する計画を示した。",
-          "mini_headline": "家電AX製品化センター開所",
+          "headline": "Loop Memo、\n手首にボイスレコーダー",
+          "body": "RogbidのLoop Memoはワンプッシュ録音と健康管理を備え、サブスク料金も不要だ。",
+          "mini_headline": "手首に載るボイスレコーダー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
-                "cap": "イ・ミンウ産業通商部産業成長室長が24日、ソウル龍山区の電子製造支援センターで開かれた「家電AX製品化支援センター開所式」に出席した。産業部提供"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "産業通商部は24日、ソウル龍山区の電子製造支援センターで「家電AX製品化支援センター」の開所式を開き、「AI家電学習データ構築ロードマップ」を発表した。AX家電の開発から商用製品の発売まで全周期を支援する施設で、中小・中堅家電企業が抱えるAX開発設備とデータ不足の課題を解消すると見込まれる。"
+                "x": "手首に着けたまま使え、サブスクリプション料金を一切求めないボイスレコーダーなら、支持したくなる提案だ。RogbidのLoop Memoはワンプッシュで録音し、その音声をコンパニオンアプリで文字起こし、要約、やることリストに変換する。"
               },
               {
                 "t": "p",
-                "x": "同センターは、KEAが2021年から運営してきた電子製造支援センターを家電製品のAX開発拠点へと高度化したものだ。2026〜2030年に総額170억원（国費100억원）を投じ、AIボード製造設備や性能試験装置など13種を構築・開放するほか、専任エンジニアが設計・試作品製作・実証・初期量産の全過程をきめ細かく支援する。既存製品の設計変更を最小限に抑えながらAI機能を加えられるよう支援し、国産AI半導体の活用にもつなげる。"
+                "x": "価格はRogbid公式ストアでPhantom Blackが$79.99で、この価格にAI文字起こしと要約が含まれ、月額料金は上乗せされない。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
               },
               {
                 "t": "p",
-                "x": "学習データロードマップでは、2027〜2031年に毎年3種ずつ、計15種の共通コアデータを構築する。企業への需要調査と詳細なインタビューを通じてコアデータ15件を選び出しており、2028年から専用プラットフォームで共有する計画だ。"
+                "x": "AIノイズキャンセリングにより、話し手が部屋の反対側に座っていても声をくっきり拾う。本体に1 GBのストレージを備え、スマートフォンが近くになくても最大10時間録音できる。要約はマインドマップにしてTXT、PDF、Wordファイルとして書き出せる。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
               },
               {
                 "t": "p",
-                "x": "会場では、ビヨンドハニカム（AI自動調理ロボット）、エマヘルスケア（非接触で生体信号を測るAIベビーベッド）、ギークスロフト（AIヘッドホン）、オティトンメディカル（スマート耳式体温計・診断プラットフォーム）、モビリント（国産オンデバイスAI半導体・エッジソリューション）など成果企業5社の製品展示も行われた。イ・ミンウ室長は「家電産業の競争力を維持するには、製造工程のAXと製品の革新が共に進まなければならない」と述べた。"
+                "x": "レコーダーという売りの裏で、Memoは心拍数、心拍変動、ストレス、睡眠段階を記録し、100種類以上のスポーツモードを備える。重さ22グラム、IP67のこのトラッカーは220 mAhのバッテリーで、待機時最大50日もつとされる。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "最も近い画面なしのライバル、AmazfitのHelio Strapは$99.99で録音機能を一切持たない。Memoはそれより$20安く、さらにマイクも備える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "助力AI家电商用化\nAX产品化支援中心揭牌",
-          "body": "产业通商部宣布将为中小及中坚企业构建15类AI家电学习数据。",
-          "mini_headline": "家电AX产品化中心揭牌",
+          "headline": "Loop Memo：\n把录音笔戴上手腕",
+          "body": "Rogbid的Loop Memo是一款智能手环，一键录音并追踪健康，无需订阅费。",
+          "mini_headline": "戴在手腕上的录音笔",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
-                "cap": "产业通商部产业成长室室长Lee Min-woo于24日出席在首尔龙山区电子制造支援中心举行的“家电AX产品化支援中心揭牌仪式”。产业部供图"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "产业通商部24日在首尔龙山区电子制造支援中心举行“家电AX产品化支援中心”揭牌仪式，并发布“AI家电学习数据构建路线图”。该中心为AX家电从开发到商用产品上市提供全周期支持，有望缓解中小及中坚家电企业在AX开发设备和数据方面的短缺。"
+                "x": "一款戴在手腕上、从不要求订阅费的录音设备，是我愿意支持的卖点。Rogbid的Loop Memo一键即可录音，随后在配套应用中把音频转成文字稿、摘要和待办清单。"
               },
               {
                 "t": "p",
-                "x": "该中心由KEA自2021年起运营的电子制造支援中心升级而来，定位为家电产品AX开发基地。2026~2030年将共投入170억원（国费100억원），建设并开放AI主板制造设备、性能测试设备等13类设施，由专职工程师对设计、样机制作、实证和首批量产全过程提供贴身支持。中心将帮助企业在尽量减少现有产品设计改动的前提下加入AI功能，并对接国产AI芯片的应用。"
+                "x": "这款手环在Rogbid官方商店的Phantom Black版售价$79.99，该价格已涵盖AI转写和摘要，无需额外支付月费。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
               },
               {
                 "t": "p",
-                "x": "学习数据路线图将于2027~2031年每年构建3类、共15类通用核心数据。通过企业需求调查和深度访谈确定了15项核心数据，计划自2028年起通过专用平台共享。"
+                "x": "即使说话者坐在房间另一头，AI降噪也能突出人声。机身内置1 GB存储，无需手机在旁即可录音最长10小时，摘要还可生成思维导图，并导出为TXT、PDF或Word文件。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
               },
               {
                 "t": "p",
-                "x": "现场还展出了Beyond Honeycomb（AI自动烹饪机器人）、Emma Healthcare（非接触式生命体征监测AI婴儿床）、Geeksloft（AI耳机）、Otiton Medical（智能耳温计及诊断平台）、Mobilint（国产端侧AI芯片及边缘解决方案）等5家成果企业的产品。Lee Min-woo室长表示：“要延续家电产业的竞争力，制造工艺的AX与产品创新必须同步推进。”"
+                "x": "除了录音这一卖点，Memo还能追踪心率、心率变异性、压力和睡眠阶段，并提供100多种运动模式。这款重22克、具备IP67防护的手环搭载220 mAh电池，官方称待机最长可达50天。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "最接近的无屏竞品Amazfit的Helio Strap售价$99.99，且完全没有录音功能，因此Memo便宜$20，还多了麦克风。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Abre un centro AX para llevar\nal mercado electrodomésticos AI",
-          "body": "El Ministerio de Industria y Comercio creará 15 tipos de datos de entrenamiento AI para pymes de electrodomésticos.",
-          "mini_headline": "Abre el centro AX para electrodomésticos",
+          "headline": "El Loop Memo de Rogbid pone\nuna grabadora en tu muñeca",
+          "body": "El Loop Memo de Rogbid es una pulsera inteligente que graba voz con una pulsación y mide la salud, sin suscripción.",
+          "mini_headline": "Una grabadora de voz para la muñeca",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
-                "cap": "Lee Min-woo, director de la Oficina de Crecimiento Industrial del Ministerio de Industria y Comercio, asiste el día 24 a la ceremonia de apertura del 'Centro de Apoyo a la Comercialización AX de Electrodomésticos', en el Centro de Apoyo a la Fabricación Electrónica de Yongsan-gu, Seúl. Imagen cedida por el ministerio"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "El Ministerio de Industria y Comercio celebró el día 24 la ceremonia de apertura del 'Centro de Apoyo a la Comercialización AX de Electrodomésticos' en el Centro de Apoyo a la Fabricación Electrónica de Yongsan-gu, Seúl, y presentó una 'hoja de ruta para la creación de datos de entrenamiento para electrodomésticos AI'. El centro apoya todo el ciclo, desde el desarrollo de electrodomésticos AX hasta el lanzamiento comercial, y se espera que alivie la falta de equipos y datos para el desarrollo AX que sufren las pequeñas y medianas empresas del sector."
+                "x": "Una grabadora de voz que vive en tu muñeca y nunca pide una cuota de suscripción es una propuesta que puedo respaldar. El Loop Memo de Rogbid graba con una sola pulsación y luego convierte ese audio en transcripciones, resúmenes y listas de tareas en su aplicación complementaria."
               },
               {
                 "t": "p",
-                "x": "El centro es una mejora del Centro de Apoyo a la Fabricación Electrónica que KEA gestiona desde 2021, convertido ahora en un núcleo de desarrollo AX para electrodomésticos. Entre 2026 y 2030 se invertirán 170억원 en total (100억원 de fondos públicos) para instalar y abrir 13 tipos de equipos, como instalaciones de fabricación de placas AI y equipos de pruebas de rendimiento, e ingenieros dedicados acompañarán de cerca todo el proceso de diseño, prototipado, validación y producción inicial. El centro ayudará a añadir funciones AI con cambios mínimos en el diseño de los productos existentes y fomentará el uso de semiconductores AI nacionales."
+                "x": "La pulsera cuesta $79.99 en color Phantom Black en la tienda propia de Rogbid, y ese precio cubre la transcripción y los resúmenes con AI sin ninguna cuota mensual adicional."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
               },
               {
                 "t": "p",
-                "x": "La hoja de ruta prevé crear entre 2027 y 2031 un total de 15 tipos de datos básicos comunes, 3 por año. Los 15 conjuntos de datos clave se definieron mediante una encuesta de demanda a empresas y entrevistas en profundidad, y se compartirán a través de una plataforma específica a partir de 2028."
+                "x": "La cancelación de ruido con AI destaca las voces incluso cuando el interlocutor está sentado al otro lado de la sala. Tiene 1 GB de almacenamiento interno, suficiente para hasta 10 horas de grabación sin un teléfono cerca, y los resúmenes pueden convertirse en mapas mentales exportables como archivos TXT, PDF o Word."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
               },
               {
                 "t": "p",
-                "x": "En el acto también se expusieron productos de 5 empresas participantes: Beyond Honeycomb (robot de cocina automática con AI), Emma Healthcare (cuna AI que mide constantes vitales sin contacto), Geeksloft (auriculares AI), Otiton Medical (termómetro de oído inteligente y plataforma de diagnóstico) y Mobilint (semiconductores AI nacionales para dispositivos y soluciones edge). Lee afirmó: “Para mantener la competitividad de la industria de electrodomésticos, la AX de los procesos de fabricación y la innovación de los productos deben avanzar juntas”."
+                "x": "Más allá de la grabadora, el Memo registra la frecuencia cardiaca, la variabilidad de la frecuencia cardiaca, el estrés y las fases del sueño, e incluye más de 100 modos deportivos. La batería de 220 mAh de este rastreador de 22 gramos con certificación IP67 promete hasta 50 días en reposo."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Su rival sin pantalla más cercano, el Helio Strap de Amazfit, cuesta $99.99 y no graba en absoluto, así que el Memo es $20 más barato y además añade el micrófono."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "AX commercialization center\nopens for AI home appliances",
-          "body": "The Ministry of Industry and Trade plans to build 15 types of AI appliance training data for small and mid-sized firms.",
-          "mini_headline": "Appliance AX commercialization center opens",
+        "ko": {
+          "headline": "Loop Memo, 손목에\n음성 녹음기를 얹다",
+          "body": "Rogbid Loop Memo는 원터치 녹음·건강 추적에 구독료가 없는 밴드다.",
+          "mini_headline": "손목 위의 음성 녹음기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
-                "cap": "Lee Min-woo, head of the Industrial Growth Office at the Ministry of Industry and Trade, attends the opening ceremony of the 'Home Appliance AX Commercialization Support Center' at the Electronics Manufacturing Support Center in Yongsan-gu, Seoul, on the 24th. Courtesy of the Ministry of Industry and Trade"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "On the 24th, the Ministry of Industry and Trade held an opening ceremony for the 'Home Appliance AX Commercialization Support Center' at the Electronics Manufacturing Support Center in Yongsan-gu, Seoul, and announced an 'AI Home Appliance Training Data Roadmap.' The facility supports the full cycle from AX appliance development to commercial product launch and is expected to ease the shortage of AX development equipment and data faced by small and mid-sized appliance companies."
+                "x": "손목에 차고 다니면서 구독료를 한 번도 요구하지 않는 음성 녹음기라면 충분히 반길 만한 제안이다. Rogbid의 Loop Memo는 한 번 눌러 녹음하고, 그 오디오를 전용 앱에서 받아쓰기와 요약, 할 일 목록으로 바꿔 준다."
               },
               {
                 "t": "p",
-                "x": "The center upgrades the Electronics Manufacturing Support Center, which KEA has run since 2021, into a hub for AX development of home appliances. A total of 170억원 (including 100억원 in government funds) will be invested from 2026 to 2030 to build and open 13 types of equipment, including AI board manufacturing facilities and performance testing equipment, and dedicated engineers will closely support the whole process of design, prototyping, verification and initial mass production. The center will help companies add AI functions while keeping changes to existing product designs to a minimum, and will link them to the use of domestic AI chips."
+                "x": "이 밴드는 Rogbid 자체 스토어에서 Phantom Black 색상이 $79.99이며, 이 가격에 AI 받아쓰기와 요약이 포함돼 월 사용료가 따로 붙지 않는다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
               },
               {
                 "t": "p",
-                "x": "The training data roadmap will build 15 types of common core data from 2027 to 2031, 3 types each year. The 15 core data sets were identified through a corporate demand survey and in-depth interviews, and they will be shared on a dedicated platform from 2028."
+                "x": "AI 노이즈 캔슬링은 화자가 방 건너편에 앉아 있어도 목소리를 또렷하게 끌어낸다. 내부 저장 공간은 1 GB로 휴대폰 없이 최대 10시간까지 녹음할 수 있으며, 요약은 마인드맵으로 만들어 TXT, PDF, Word 파일로 내보낼 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
               },
               {
                 "t": "p",
-                "x": "Products from 5 participating companies were also exhibited on site: Beyond Honeycomb (AI automatic cooking robot), Emma Healthcare (AI baby bed that measures vital signs without contact), Geeksloft (AI headphones), Otiton Medical (smart ear thermometer and diagnostic platform) and Mobilint (domestic on-device AI chips and edge solutions). Lee said, “To sustain the competitiveness of the home appliance industry, AX in manufacturing processes and product innovation must go hand in hand.”"
+                "x": "녹음기라는 간판 아래에서 Memo는 심박수, 심박 변이도, 스트레스, 수면 단계를 추적하고 100개가 넘는 운동 모드를 갖췄다. 22그램, IP67 등급의 이 트래커는 220 mAh 배터리로 대기 시 최대 50일을 버틴다고 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "가장 가까운 화면 없는 경쟁 제품인 Amazfit의 Helio Strap은 $99.99이며 녹음 기능이 아예 없다. Memo는 이보다 $20 싸면서 마이크까지 더했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI家電の商用化を支援\nAX製品化支援センター開所",
-          "body": "産業通商部は中小・中堅企業向けAI家電の学習データ15種を構築する計画を示した。",
-          "mini_headline": "家電AX製品化センター開所",
+          "headline": "Loop Memo、\n手首にボイスレコーダー",
+          "body": "RogbidのLoop Memoはワンプッシュ録音と健康管理を備え、サブスク料金も不要だ。",
+          "mini_headline": "手首に載るボイスレコーダー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
-                "cap": "イ・ミンウ産業通商部産業成長室長が24日、ソウル龍山区の電子製造支援センターで開かれた「家電AX製品化支援センター開所式」に出席した。産業部提供"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "産業通商部は24日、ソウル龍山区の電子製造支援センターで「家電AX製品化支援センター」の開所式を開き、「AI家電学習データ構築ロードマップ」を発表した。AX家電の開発から商用製品の発売まで全周期を支援する施設で、中小・中堅家電企業が抱えるAX開発設備とデータ不足の課題を解消すると見込まれる。"
+                "x": "手首に着けたまま使え、サブスクリプション料金を一切求めないボイスレコーダーなら、支持したくなる提案だ。RogbidのLoop Memoはワンプッシュで録音し、その音声をコンパニオンアプリで文字起こし、要約、やることリストに変換する。"
               },
               {
                 "t": "p",
-                "x": "同センターは、KEAが2021年から運営してきた電子製造支援センターを家電製品のAX開発拠点へと高度化したものだ。2026〜2030年に総額170억원（国費100억원）を投じ、AIボード製造設備や性能試験装置など13種を構築・開放するほか、専任エンジニアが設計・試作品製作・実証・初期量産の全過程をきめ細かく支援する。既存製品の設計変更を最小限に抑えながらAI機能を加えられるよう支援し、国産AI半導体の活用にもつなげる。"
+                "x": "価格はRogbid公式ストアでPhantom Blackが$79.99で、この価格にAI文字起こしと要約が含まれ、月額料金は上乗せされない。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
               },
               {
                 "t": "p",
-                "x": "学習データロードマップでは、2027〜2031年に毎年3種ずつ、計15種の共通コアデータを構築する。企業への需要調査と詳細なインタビューを通じてコアデータ15件を選び出しており、2028年から専用プラットフォームで共有する計画だ。"
+                "x": "AIノイズキャンセリングにより、話し手が部屋の反対側に座っていても声をくっきり拾う。本体に1 GBのストレージを備え、スマートフォンが近くになくても最大10時間録音できる。要約はマインドマップにしてTXT、PDF、Wordファイルとして書き出せる。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
               },
               {
                 "t": "p",
-                "x": "会場では、ビヨンドハニカム（AI自動調理ロボット）、エマヘルスケア（非接触で生体信号を測るAIベビーベッド）、ギークスロフト（AIヘッドホン）、オティトンメディカル（スマート耳式体温計・診断プラットフォーム）、モビリント（国産オンデバイスAI半導体・エッジソリューション）など成果企業5社の製品展示も行われた。イ・ミンウ室長は「家電産業の競争力を維持するには、製造工程のAXと製品の革新が共に進まなければならない」と述べた。"
+                "x": "レコーダーという売りの裏で、Memoは心拍数、心拍変動、ストレス、睡眠段階を記録し、100種類以上のスポーツモードを備える。重さ22グラム、IP67のこのトラッカーは220 mAhのバッテリーで、待機時最大50日もつとされる。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "最も近い画面なしのライバル、AmazfitのHelio Strapは$99.99で録音機能を一切持たない。Memoはそれより$20安く、さらにマイクも備える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "助力AI家电商用化\nAX产品化支援中心揭牌",
-          "body": "产业通商部宣布将为中小及中坚企业构建15类AI家电学习数据。",
-          "mini_headline": "家电AX产品化中心揭牌",
+          "headline": "Loop Memo：\n把录音笔戴上手腕",
+          "body": "Rogbid的Loop Memo是一款智能手环，一键录音并追踪健康，无需订阅费。",
+          "mini_headline": "戴在手腕上的录音笔",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
-                "cap": "产业通商部产业成长室室长Lee Min-woo于24日出席在首尔龙山区电子制造支援中心举行的“家电AX产品化支援中心揭牌仪式”。产业部供图"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "产业通商部24日在首尔龙山区电子制造支援中心举行“家电AX产品化支援中心”揭牌仪式，并发布“AI家电学习数据构建路线图”。该中心为AX家电从开发到商用产品上市提供全周期支持，有望缓解中小及中坚家电企业在AX开发设备和数据方面的短缺。"
+                "x": "一款戴在手腕上、从不要求订阅费的录音设备，是我愿意支持的卖点。Rogbid的Loop Memo一键即可录音，随后在配套应用中把音频转成文字稿、摘要和待办清单。"
               },
               {
                 "t": "p",
-                "x": "该中心由KEA自2021年起运营的电子制造支援中心升级而来，定位为家电产品AX开发基地。2026~2030年将共投入170억원（国费100억원），建设并开放AI主板制造设备、性能测试设备等13类设施，由专职工程师对设计、样机制作、实证和首批量产全过程提供贴身支持。中心将帮助企业在尽量减少现有产品设计改动的前提下加入AI功能，并对接国产AI芯片的应用。"
+                "x": "这款手环在Rogbid官方商店的Phantom Black版售价$79.99，该价格已涵盖AI转写和摘要，无需额外支付月费。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
               },
               {
                 "t": "p",
-                "x": "学习数据路线图将于2027~2031年每年构建3类、共15类通用核心数据。通过企业需求调查和深度访谈确定了15项核心数据，计划自2028年起通过专用平台共享。"
+                "x": "即使说话者坐在房间另一头，AI降噪也能突出人声。机身内置1 GB存储，无需手机在旁即可录音最长10小时，摘要还可生成思维导图，并导出为TXT、PDF或Word文件。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
               },
               {
                 "t": "p",
-                "x": "现场还展出了Beyond Honeycomb（AI自动烹饪机器人）、Emma Healthcare（非接触式生命体征监测AI婴儿床）、Geeksloft（AI耳机）、Otiton Medical（智能耳温计及诊断平台）、Mobilint（国产端侧AI芯片及边缘解决方案）等5家成果企业的产品。Lee Min-woo室长表示：“要延续家电产业的竞争力，制造工艺的AX与产品创新必须同步推进。”"
+                "x": "除了录音这一卖点，Memo还能追踪心率、心率变异性、压力和睡眠阶段，并提供100多种运动模式。这款重22克、具备IP67防护的手环搭载220 mAh电池，官方称待机最长可达50天。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "最接近的无屏竞品Amazfit的Helio Strap售价$99.99，且完全没有录音功能，因此Memo便宜$20，还多了麦克风。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Abre un centro AX para llevar\nal mercado electrodomésticos AI",
-          "body": "El Ministerio de Industria y Comercio creará 15 tipos de datos de entrenamiento AI para pymes de electrodomésticos.",
-          "mini_headline": "Abre el centro AX para electrodomésticos",
+          "headline": "El Loop Memo de Rogbid pone\nuna grabadora en tu muñeca",
+          "body": "El Loop Memo de Rogbid es una pulsera inteligente que graba voz con una pulsación y mide la salud, sin suscripción.",
+          "mini_headline": "Una grabadora de voz para la muñeca",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.8c132d54ee4f4622a970c1d9511465a1_P1.jpg",
-                "cap": "Lee Min-woo, director de la Oficina de Crecimiento Industrial del Ministerio de Industria y Comercio, asiste el día 24 a la ceremonia de apertura del 'Centro de Apoyo a la Comercialización AX de Electrodomésticos', en el Centro de Apoyo a la Fabricación Electrónica de Yongsan-gu, Seúl. Imagen cedida por el ministerio"
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "El Ministerio de Industria y Comercio celebró el día 24 la ceremonia de apertura del 'Centro de Apoyo a la Comercialización AX de Electrodomésticos' en el Centro de Apoyo a la Fabricación Electrónica de Yongsan-gu, Seúl, y presentó una 'hoja de ruta para la creación de datos de entrenamiento para electrodomésticos AI'. El centro apoya todo el ciclo, desde el desarrollo de electrodomésticos AX hasta el lanzamiento comercial, y se espera que alivie la falta de equipos y datos para el desarrollo AX que sufren las pequeñas y medianas empresas del sector."
+                "x": "Una grabadora de voz que vive en tu muñeca y nunca pide una cuota de suscripción es una propuesta que puedo respaldar. El Loop Memo de Rogbid graba con una sola pulsación y luego convierte ese audio en transcripciones, resúmenes y listas de tareas en su aplicación complementaria."
               },
               {
                 "t": "p",
-                "x": "El centro es una mejora del Centro de Apoyo a la Fabricación Electrónica que KEA gestiona desde 2021, convertido ahora en un núcleo de desarrollo AX para electrodomésticos. Entre 2026 y 2030 se invertirán 170억원 en total (100억원 de fondos públicos) para instalar y abrir 13 tipos de equipos, como instalaciones de fabricación de placas AI y equipos de pruebas de rendimiento, e ingenieros dedicados acompañarán de cerca todo el proceso de diseño, prototipado, validación y producción inicial. El centro ayudará a añadir funciones AI con cambios mínimos en el diseño de los productos existentes y fomentará el uso de semiconductores AI nacionales."
+                "x": "La pulsera cuesta $79.99 en color Phantom Black en la tienda propia de Rogbid, y ese precio cubre la transcripción y los resúmenes con AI sin ninguna cuota mensual adicional."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
               },
               {
                 "t": "p",
-                "x": "La hoja de ruta prevé crear entre 2027 y 2031 un total de 15 tipos de datos básicos comunes, 3 por año. Los 15 conjuntos de datos clave se definieron mediante una encuesta de demanda a empresas y entrevistas en profundidad, y se compartirán a través de una plataforma específica a partir de 2028."
+                "x": "La cancelación de ruido con AI destaca las voces incluso cuando el interlocutor está sentado al otro lado de la sala. Tiene 1 GB de almacenamiento interno, suficiente para hasta 10 horas de grabación sin un teléfono cerca, y los resúmenes pueden convertirse en mapas mentales exportables como archivos TXT, PDF o Word."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
               },
               {
                 "t": "p",
-                "x": "En el acto también se expusieron productos de 5 empresas participantes: Beyond Honeycomb (robot de cocina automática con AI), Emma Healthcare (cuna AI que mide constantes vitales sin contacto), Geeksloft (auriculares AI), Otiton Medical (termómetro de oído inteligente y plataforma de diagnóstico) y Mobilint (semiconductores AI nacionales para dispositivos y soluciones edge). Lee afirmó: “Para mantener la competitividad de la industria de electrodomésticos, la AX de los procesos de fabricación y la innovación de los productos deben avanzar juntas”."
+                "x": "Más allá de la grabadora, el Memo registra la frecuencia cardiaca, la variabilidad de la frecuencia cardiaca, el estrés y las fases del sueño, e incluye más de 100 modos deportivos. La batería de 220 mAh de este rastreador de 22 gramos con certificación IP67 promete hasta 50 días en reposo."
+              },
+              {
+                "t": "img",
+                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Su rival sin pantalla más cercano, el Helio Strap de Amazfit, cuesta $99.99 y no graba en absoluto, así que el Memo es $20 más barato y además añade el micrófono."
               }
             ]
           }
@@ -1411,171 +1651,237 @@
       }
     },
     {
-      "id": "galaxy-s27u-laser-af-leak",
+      "id": "google-home-nov25-update",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "유출: Galaxy S27\nUltra, AI 초점으로",
-      "body": "Galaxy S27 Ultra가 레이저 AF 대신 AI 초점을 쓴다는 설이 나왔다.",
-      "mini_headline": "S27 Ultra 유출: 레이저 AF 대신 AI",
+      "headline": "Google Home 개선\nGemini 기능 추가",
+      "body": "Google Home이 Nest Cam·Gemini 등을 개선한 업데이트를 낸다.",
+      "mini_headline": "Google Home, Gemini 기능 추가",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Galaxy-S27-Ultra-Samsung-reportedly-cuts-huge-camera-feature-in-favor-of-AI.1458748.0.html",
-      "accent": "#f5a623",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/",
+      "accent": "#eb367f",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
-            "cap": "Samsung Galaxy S27 Ultra는 Galaxy S26 Ultra와 디자인이 크게 다를 것으로 알려졌다."
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
           },
           {
             "t": "p",
-            "x": "Samsung이 Galaxy S27 Ultra에서 3x 광학 줌 카메라를 없앤다는 앞선 보도에 이어 유출자 Ice Universe는 Samsung이 후면 카메라에서 레이저 자동초점 모듈도 뺀다고 주장했다. 이미 확정된 내용이라 최근 디자인 렌더링에도 모듈이 보이지 않는다는 설명이다. 사실이라면 Galaxy S21 Ultra 이후 처음으로 레이저 자동초점이 빠진 Galaxy Ultra 폰이 된다. 더 작은 Galaxy S27 Pro에도 이 모듈은 없다."
+            "x": "Google Home이 또 대형 업데이트를 내놓는다. 이번에는 Nest Cam, Nest Thermostarts, Gemini 등 곳곳에 기능을 넣고 손질을 더했다."
           },
           {
             "t": "p",
-            "x": "Ice Universe에 따르면 Galaxy S27 Ultra는 대신 AI 초점 기술에 기댄다. 유출된 후면 구성은 OIS를 갖춘 200 MP 1/1.3\" 메인 카메라, 50 MP 1/2.55\" 5x 잠망경 광학 줌, 50 MP 1/2.5\" 120˚ 초광각이다."
+            "x": "Google의 정기 변경 로그에 따르면 11월 25일 업데이트가 지금 배포되고 있다. 개선은 Gemini for Home 얼리 액세스 프로그램부터 전반에 걸쳐 있다. “Hey Google, tell me a story”(이야기 들려줘)가 돌아와, Gemini가 중간중간 사용자가 요청하는 변경을 반영해 이야기를 지어낸다. Gemini 스마트홈 명령은 더 빨라지고 성능도 좋아졌다. 조명 몇 개를 끈 뒤 “turn them back on”(다시 켜 줘)이라고만 말하면 되는 맥락 기반 후속 명령도 지원한다. 스마트 디스플레이에서는 Gemini의 출처도 볼 수 있다."
           },
           {
             "t": "p",
-            "x": "Samsung은 지난 5년 동안 Galaxy Ultra 폰에 레이저 자동초점을 넣어 왔다. PDAF에만 의존한 Galaxy S20 Ultra가 출시 초기에 초점 헌팅 문제로 애를 먹자 Samsung은 이를 줄이려고 Galaxy S21 Ultra에 레이저 모듈을 더했다."
+            "x": "Nest Cam은 Android에서 영상 기록 재생과 가로 화면 조작이 나아졌고 관리자가 여러 명인 가정용 피드백 기능도 손봤다. Nest Cam Outdoor (2nd gen)에는 30초 보안 사이렌이 생기는데, Walmart의 Onn Outdoor 카메라와 Floodlight에서도 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Google Home은 이제 Walmart Onn 카메라에서 Familiar Faces를 지원한다. Nest Thermostat에서는 온도 조절 일정을 다른 요일로 복사할 수 있게 됐다."
+          },
+          {
+            "t": "p",
+            "x": "그 밖에 Google Home에 들어가는 업데이트는 이렇다. iOS 앱의 조명 색상 휠, iOS와 Android에서 Google Home Speaker 설정 문제 해결, Android에서 Stereo Pair 및 Speaker Group 제어 문제 해결, Google TV 오디오 출력 및 상태 개선, Android에서 스피커와 스마트 디스플레이 간 음악 전송 개선이다."
+          },
+          {
+            "t": "p",
+            "x": "이번 변경 사항은 Android와 iOS용 최신 Google Home 업데이트로 제공되며, Gemini 관련 변경은 사용자 눈에 띄지 않게 서버 쪽에서 적용된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Leak: Galaxy S27 Ultra may\ntrade laser autofocus for AI",
-          "body": "Leaker Ice Universe claims Samsung will swap the Galaxy S27 Ultra's laser autofocus for AI focus, an unconfirmed rumor.",
-          "mini_headline": "S27 Ultra leak: AI over laser AF",
+          "headline": "Google Home update adds\nNest Cam and Gemini features",
+          "body": "Google Home is rolling out another big update with improvements across Nest Cam, Nest Thermostat, the app and Gemini.",
+          "mini_headline": "Google Home\nadds Gemini features",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
-                "cap": "Samsung Galaxy S27 Ultra's design is allegedly a major departure from the Galaxy S26 Ultra."
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "After earlier reports of Samsung ditching the 3x optical zoom camera on the Galaxy S27 Ultra, leaker Ice Universe now alleges that Samsung is also removing the laser autofocus module from its back camera array. The leaker claims the leak is confirmed, which is why recent design renders don't depict the module. If true, it will be the first Galaxy Ultra phone since the Galaxy S21 Ultra to launch without laser autofocus, and the smaller Galaxy S27 Pro won't have one either."
+                "x": "Google Home is rolling out another big update, this time adding features and bringing improvements across Nest Cam, Nest Thermostarts, Gemini, and more."
               },
               {
                 "t": "p",
-                "x": "Ice Universe alleges the Galaxy S27 Ultra will rely on AI focus technology instead. The leaked rear setup: a 200 MP 1/1.3\" main camera with OIS, a 50 MP 1/2.55\" 5x periscope optical zoom, and a 50 MP 1/2.5\" 120˚ ultrawide."
+                "x": "Detailed on Google’s usual changelog, the November 25 update is now rolling out and makes improvements across the board, starting with the Gemini for Home early access program. “Hey Google, tell me a story” is returning with Gemini able to create stories that are tailored to any adjustments you make as the story goes on. Gemini smart home commands are getting further speed and performance improvements and contextual follow-ups such as being able to say “turn them back on” after turning off some lights. You can also now see Gemini sources on smart displays."
               },
               {
                 "t": "p",
-                "x": "Samsung has included laser autofocus in Galaxy Ultra phones for the past 5 years: the Galaxy S20 Ultra, which relied solely on PDAF, had serious focus hunting issues early on, and Samsung added the laser module in the Galaxy S21 Ultra to mitigate them."
+                "x": "Nest Cam gets improvements for video history playback and landscape controls on Android and feedback improvements for homes with multiple admins. Nest Cam Outdoor (2nd gen) also gets a 30-second security siren that’s also supported on Walmart’s Onn Outdoor camera and Floodlight."
+              },
+              {
+                "t": "p",
+                "x": "Google Home now supports Familiar Faces on Walmart Onn cameras. Nest Thermostat users can now copy thermostat schedules across days."
+              },
+              {
+                "t": "p",
+                "x": "Other updates heading to Google Home include: color wheel for lights in the iOS app; fixed setup issues with Google Home Speaker on iOS and Android; fixed Stereo Pair & Speaker Group controls on Android; improvements for Google TV audio output & status; better music transfer between speakers & smart displays from Android."
+              },
+              {
+                "t": "p",
+                "x": "The latest Google Home updates on Android and iOS deliver these updates, while Gemini changes happen behind the scenes."
               }
             ]
           }
         },
         "ko": {
-          "headline": "유출: Galaxy S27\nUltra, AI 초점으로",
-          "body": "Galaxy S27 Ultra가 레이저 AF 대신 AI 초점을 쓴다는 설이 나왔다.",
-          "mini_headline": "S27 Ultra 유출: 레이저 AF 대신 AI",
+          "headline": "Google Home 개선\nGemini 기능 추가",
+          "body": "Google Home이 Nest Cam·Gemini 등을 개선한 업데이트를 낸다.",
+          "mini_headline": "Google Home, Gemini 기능 추가",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
-                "cap": "Samsung Galaxy S27 Ultra는 Galaxy S26 Ultra와 디자인이 크게 다를 것으로 알려졌다."
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Samsung이 Galaxy S27 Ultra에서 3x 광학 줌 카메라를 없앤다는 앞선 보도에 이어 유출자 Ice Universe는 Samsung이 후면 카메라에서 레이저 자동초점 모듈도 뺀다고 주장했다. 이미 확정된 내용이라 최근 디자인 렌더링에도 모듈이 보이지 않는다는 설명이다. 사실이라면 Galaxy S21 Ultra 이후 처음으로 레이저 자동초점이 빠진 Galaxy Ultra 폰이 된다. 더 작은 Galaxy S27 Pro에도 이 모듈은 없다."
+                "x": "Google Home이 또 대형 업데이트를 내놓는다. 이번에는 Nest Cam, Nest Thermostarts, Gemini 등 곳곳에 기능을 넣고 손질을 더했다."
               },
               {
                 "t": "p",
-                "x": "Ice Universe에 따르면 Galaxy S27 Ultra는 대신 AI 초점 기술에 기댄다. 유출된 후면 구성은 OIS를 갖춘 200 MP 1/1.3\" 메인 카메라, 50 MP 1/2.55\" 5x 잠망경 광학 줌, 50 MP 1/2.5\" 120˚ 초광각이다."
+                "x": "Google의 정기 변경 로그에 따르면 11월 25일 업데이트가 지금 배포되고 있다. 개선은 Gemini for Home 얼리 액세스 프로그램부터 전반에 걸쳐 있다. “Hey Google, tell me a story”(이야기 들려줘)가 돌아와, Gemini가 중간중간 사용자가 요청하는 변경을 반영해 이야기를 지어낸다. Gemini 스마트홈 명령은 더 빨라지고 성능도 좋아졌다. 조명 몇 개를 끈 뒤 “turn them back on”(다시 켜 줘)이라고만 말하면 되는 맥락 기반 후속 명령도 지원한다. 스마트 디스플레이에서는 Gemini의 출처도 볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "Samsung은 지난 5년 동안 Galaxy Ultra 폰에 레이저 자동초점을 넣어 왔다. PDAF에만 의존한 Galaxy S20 Ultra가 출시 초기에 초점 헌팅 문제로 애를 먹자 Samsung은 이를 줄이려고 Galaxy S21 Ultra에 레이저 모듈을 더했다."
+                "x": "Nest Cam은 Android에서 영상 기록 재생과 가로 화면 조작이 나아졌고 관리자가 여러 명인 가정용 피드백 기능도 손봤다. Nest Cam Outdoor (2nd gen)에는 30초 보안 사이렌이 생기는데, Walmart의 Onn Outdoor 카메라와 Floodlight에서도 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Google Home은 이제 Walmart Onn 카메라에서 Familiar Faces를 지원한다. Nest Thermostat에서는 온도 조절 일정을 다른 요일로 복사할 수 있게 됐다."
+              },
+              {
+                "t": "p",
+                "x": "그 밖에 Google Home에 들어가는 업데이트는 이렇다. iOS 앱의 조명 색상 휠, iOS와 Android에서 Google Home Speaker 설정 문제 해결, Android에서 Stereo Pair 및 Speaker Group 제어 문제 해결, Google TV 오디오 출력 및 상태 개선, Android에서 스피커와 스마트 디스플레이 간 음악 전송 개선이다."
+              },
+              {
+                "t": "p",
+                "x": "이번 변경 사항은 Android와 iOS용 최신 Google Home 업데이트로 제공되며, Gemini 관련 변경은 사용자 눈에 띄지 않게 서버 쪽에서 적용된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "リーク：Galaxy S27\nUltraはAIフォーカスに",
-          "body": "Galaxy S27 UltraがレーザーAFをAIフォーカスに替えるとの未確認情報が出た。",
-          "mini_headline": "S27 Ultraリーク：レーザーAFよりAI",
+          "headline": "Google Home更新\nGeminiなど強化",
+          "body": "Google HomeがNest Cam、Geminiなどを改善する大型更新を配信中だ。",
+          "mini_headline": "Google HomeにGemini新機能",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
-                "cap": "Samsung Galaxy S27 Ultraのデザインは、Galaxy S26 Ultraから大きく変わるとされる。"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "SamsungがGalaxy S27 Ultraで3x光学ズームカメラを廃止するとの先の報道に続き、リーカーのIce Universeは、Samsungが背面カメラ群からレーザーオートフォーカスモジュールも外すと主張している。リーカーはこの情報が確定済みだとし、最近のデザインレンダリングにモジュールが描かれていないのはそのためだという。事実なら、Galaxy S21 Ultra以降でレーザーオートフォーカスなしに発売される初のGalaxy Ultraとなり、小型のGalaxy S27 Proにも搭載されない。"
+                "x": "Google Homeがまたも大型アップデートを配信している。今回はNest Cam、Nest Thermostarts、Geminiなど幅広い分野で機能追加と改善が行われる。"
               },
               {
                 "t": "p",
-                "x": "Ice Universeによれば、Galaxy S27 Ultraは代わりにAIフォーカス技術に頼るという。リークされた背面構成は、OIS付きの200 MP 1/1.3\"メインカメラ、50 MP 1/2.55\"の5xペリスコープ光学ズーム、50 MP 1/2.5\"・120˚の超広角だ。"
+                "x": "Googleの恒例の変更履歴によると、11月25日のアップデートは現在配信中で、Gemini for Homeのアーリーアクセスプログラムをはじめ全面的な改善が施されている。「Hey Google, tell me a story」(お話を聞かせて)が復活し、Geminiは物語の進行中に加えた変更に合わせて話を作れるようになった。Geminiのスマートホームコマンドは速度と性能がさらに向上し、照明をいくつか消した後に「turn them back on」(また点けて)と言えるような文脈に沿った追加指示にも対応する。スマートディスプレイでGeminiの情報源も確認できるようになった。"
               },
               {
                 "t": "p",
-                "x": "Samsungは過去5年間、Galaxy Ultraにレーザーオートフォーカスを搭載してきた。PDAFのみに頼っていたGalaxy S20 Ultraは発売当初、深刻なフォーカスハンティングの問題を抱えており、Samsungはその緩和のためGalaxy S21 Ultraにレーザーモジュールを追加した。"
+                "x": "Nest CamはAndroidでの動画履歴の再生と横向き操作が改善され、管理者が複数いる家庭向けのフィードバックも改善された。Nest Cam Outdoor (2nd gen)には30秒間のセキュリティサイレンが追加され、これはWalmartのOnn OutdoorカメラとFloodlightでもサポートされる。"
+              },
+              {
+                "t": "p",
+                "x": "Google HomeはWalmart OnnカメラでFamiliar Facesに対応した。Nest Thermostatのユーザーは、サーモスタットのスケジュールを曜日間でコピーできるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "このほかGoogle Homeには次の更新が届く。iOSアプリでの照明のカラーホイール、iOSとAndroidでのGoogle Home Speakerのセットアップ問題の修正、AndroidでのStereo PairとSpeaker Groupの操作の修正、Google TVの音声出力とステータスの改善、Androidからのスピーカーとスマートディスプレイ間の音楽転送の改善だ。"
+              },
+              {
+                "t": "p",
+                "x": "これらはAndroidとiOS向けの最新Google Homeアップデートで提供され、Geminiの変更は裏側で行われる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "爆料：Galaxy S27\nUltra或改用AI对焦",
-          "body": "Ice Universe称Galaxy S27 Ultra将改用AI对焦，弃用激光对焦。",
-          "mini_headline": "S27 Ultra爆料：AI取代激光AF",
+          "headline": "Google Home更新\nGemini等功能升级",
+          "body": "Google Home再推大更新，Nest Cam、恒温器、应用和Gemini均获改进。",
+          "mini_headline": "Google Home新增Gemini功能",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
-                "cap": "据称Samsung Galaxy S27 Ultra的设计将与Galaxy S26 Ultra大不相同。"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "此前有报道称Samsung将在Galaxy S27 Ultra上取消3x光学变焦摄像头，如今爆料者Ice Universe又称，Samsung还将从后置摄像头阵列中移除激光自动对焦模块。爆料者表示消息已获证实，这也是近期设计渲染图中没有出现该模块的原因。若属实，它将成为自Galaxy S21 Ultra以来首款不配备激光自动对焦的Galaxy Ultra手机，体型更小的Galaxy S27 Pro同样不会配备。"
+                "x": "Google Home正在推送又一次大型更新，这次为Nest Cam、Nest Thermostarts、Gemini等带来新功能和改进。"
               },
               {
                 "t": "p",
-                "x": "Ice Universe称，Galaxy S27 Ultra将转而依靠AI对焦技术。爆料的后置配置为：带OIS的200 MP 1/1.3\"主摄、50 MP 1/2.55\" 5x潜望式光学变焦，以及50 MP 1/2.5\" 120˚超广角。"
+                "x": "据Google惯常发布的更新日志，11月25日的更新现已开始推送，带来全面改进，首先是Gemini for Home抢先体验计划。“Hey Google, tell me a story”（给我讲个故事）功能回归，Gemini可根据你在故事进行中提出的任何调整来定制故事。Gemini智能家居指令的速度和性能进一步提升，并支持上下文追问，例如关掉几盏灯后可以说“turn them back on”（把它们重新打开）。现在还能在智能显示屏上查看Gemini的信息来源。"
               },
               {
                 "t": "p",
-                "x": "过去5年，Samsung一直在Galaxy Ultra手机上配备激光自动对焦：仅依赖PDAF的Galaxy S20 Ultra早期存在严重的对焦拉风箱问题，Samsung随后在Galaxy S21 Ultra中加入激光模块以缓解这一问题。"
+                "x": "Nest Cam在Android上改进了视频历史回放和横屏控制，并为有多名管理员的家庭改进了反馈。Nest Cam Outdoor (2nd gen)还新增30秒安全警报器，Walmart的Onn Outdoor摄像头和Floodlight也支持该功能。"
+              },
+              {
+                "t": "p",
+                "x": "Google Home现已在Walmart Onn摄像头上支持Familiar Faces。Nest Thermostat用户现在可以在不同日期之间复制温控日程。"
+              },
+              {
+                "t": "p",
+                "x": "Google Home的其他更新包括：iOS应用中的灯光色轮；修复iOS和Android上Google Home Speaker的设置问题；修复Android上的Stereo Pair和Speaker Group控制；改进Google TV音频输出和状态；改进从Android在扬声器与智能显示屏之间转移音乐。"
+              },
+              {
+                "t": "p",
+                "x": "这些更新通过Android和iOS上最新版Google Home提供，而Gemini的变化则在后台完成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Filtración: el Galaxy S27 Ultra\ncambiaría el láser AF por AI",
-          "body": "Ice Universe afirma que Samsung cambiará el autofoco láser del Galaxy S27 Ultra por enfoque AI, un rumor sin confirmar.",
-          "mini_headline": "Filtración del S27 Ultra: AI en lugar de AF láser",
+          "headline": "Google Home suma funciones\na Nest Cam y Gemini",
+          "body": "Google Home lanza otra gran actualización con mejoras en Nest Cam, Nest Thermostat, la app y Gemini.",
+          "mini_headline": "Google Home suma funciones de Gemini",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
-                "cap": "El diseño del Samsung Galaxy S27 Ultra supondría un cambio importante respecto al Galaxy S26 Ultra."
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Tras informaciones previas de que Samsung eliminaría la cámara con zoom óptico 3x del Galaxy S27 Ultra, el filtrador Ice Universe afirma ahora que Samsung también quitará el módulo de autofoco láser de su conjunto de cámaras traseras. Según el filtrador, la información está confirmada, y por eso los renders de diseño recientes no muestran el módulo. Si es cierto, será el primer Galaxy Ultra desde el Galaxy S21 Ultra que llegue sin autofoco láser, y el Galaxy S27 Pro, más pequeño, tampoco lo tendrá."
+                "x": "Google Home está desplegando otra gran actualización, que esta vez añade funciones e introduce mejoras en Nest Cam, Nest Thermostarts, Gemini y más."
               },
               {
                 "t": "p",
-                "x": "Ice Universe sostiene que el Galaxy S27 Ultra recurrirá en su lugar a tecnología de enfoque AI. La configuración trasera filtrada: una cámara principal de 200 MP 1/1.3\" con OIS, un zoom óptico periscópico 5x de 50 MP 1/2.55\" y un ultra gran angular de 50 MP 1/2.5\" y 120˚."
+                "x": "Según el registro de cambios habitual de Google, la actualización del 25 de noviembre ya se está desplegando e introduce mejoras generales, empezando por el programa de acceso anticipado de Gemini for Home. Vuelve “Hey Google, tell me a story” (cuéntame una historia), con Gemini capaz de crear historias que se adaptan a cualquier cambio que hagas a medida que avanza el relato. Los comandos de hogar inteligente de Gemini reciben nuevas mejoras de velocidad y rendimiento, además de seguimientos contextuales, como poder decir “turn them back on” (vuelve a encenderlas) después de apagar algunas luces. Ahora también se pueden ver las fuentes de Gemini en las pantallas inteligentes."
               },
               {
                 "t": "p",
-                "x": "Samsung ha incluido autofoco láser en los Galaxy Ultra durante los últimos 5 años: el Galaxy S20 Ultra, que dependía solo del PDAF, tuvo graves problemas de búsqueda de enfoque al principio, y Samsung añadió el módulo láser en el Galaxy S21 Ultra para mitigarlos."
+                "x": "Nest Cam recibe mejoras en la reproducción del historial de vídeo y en los controles en horizontal en Android, así como mejoras de comentarios para hogares con varios administradores. Nest Cam Outdoor (2nd gen) también obtiene una sirena de seguridad de 30 segundos, compatible además con la cámara Onn Outdoor y la Floodlight de Walmart."
+              },
+              {
+                "t": "p",
+                "x": "Google Home ahora admite Familiar Faces en las cámaras Onn de Walmart. Los usuarios de Nest Thermostat ya pueden copiar los horarios del termostato entre días."
+              },
+              {
+                "t": "p",
+                "x": "Otras novedades que llegan a Google Home incluyen: rueda de color para las luces en la app de iOS; solución de problemas de configuración con Google Home Speaker en iOS y Android; corrección de los controles de Stereo Pair y Speaker Group en Android; mejoras en la salida de audio y el estado de Google TV; y una mejor transferencia de música entre altavoces y pantallas inteligentes desde Android."
+              },
+              {
+                "t": "p",
+                "x": "Las últimas actualizaciones de Google Home para Android e iOS incluyen estas novedades, mientras que los cambios de Gemini se aplican en segundo plano."
               }
             ]
           }
@@ -1583,109 +1889,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "유출: Galaxy S27\nUltra, AI 초점으로",
-          "body": "Galaxy S27 Ultra가 레이저 AF 대신 AI 초점을 쓴다는 설이 나왔다.",
-          "mini_headline": "S27 Ultra 유출: 레이저 AF 대신 AI",
+          "headline": "Google Home 개선\nGemini 기능 추가",
+          "body": "Google Home이 Nest Cam·Gemini 등을 개선한 업데이트를 낸다.",
+          "mini_headline": "Google Home, Gemini 기능 추가",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
-                "cap": "Samsung Galaxy S27 Ultra의 디자인은 Galaxy S26 Ultra와 크게 달라질 것으로 알려졌다."
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Samsung이 Galaxy S27 Ultra에서 3x 광학 줌 카메라를 없앤다는 앞선 보도에 이어, 유출자 Ice Universe는 Samsung이 후면 카메라 배열에서 레이저 자동초점 모듈도 뺀다고 주장했다. 그는 이 내용이 확정됐으며, 그래서 최근 디자인 렌더링에 모듈이 보이지 않는다고 밝혔다. 사실이라면 Galaxy S21 Ultra 이후 레이저 자동초점 없이 나오는 첫 Galaxy Ultra 폰이 되며, 더 작은 Galaxy S27 Pro에도 이 모듈은 없다."
+                "x": "Google Home이 또 한 번 대형 업데이트를 배포한다. 이번에는 Nest Cam, Nest Thermostarts, Gemini 등 전반에 걸쳐 기능을 추가하고 개선을 더했다."
               },
               {
                 "t": "p",
-                "x": "Ice Universe는 Galaxy S27 Ultra가 그 대신 AI 초점 기술에 기댈 것이라고 주장한다. 유출된 후면 구성은 OIS를 갖춘 200 MP 1/1.3\" 메인 카메라, 50 MP 1/2.55\" 5x 잠망경 광학 줌, 50 MP 1/2.5\" 120˚ 초광각이다."
+                "x": "Google의 정기 변경 로그에 따르면 11월 25일 업데이트가 현재 배포 중이며, Gemini for Home 얼리 액세스 프로그램을 시작으로 전반적인 개선이 이뤄졌다. “Hey Google, tell me a story”(이야기 들려줘)가 돌아와, Gemini가 이야기가 진행되는 동안 사용자가 요청하는 변경에 맞춰 이야기를 만들어 낸다. Gemini 스마트홈 명령은 속도와 성능이 더 좋아지고, 조명 몇 개를 끈 뒤 “turn them back on”(다시 켜 줘)이라고 말할 수 있는 맥락 기반 후속 명령도 지원한다. 이제 스마트 디스플레이에서 Gemini의 출처도 볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "Samsung은 지난 5년 동안 Galaxy Ultra 폰에 레이저 자동초점을 넣어 왔다. PDAF에만 의존한 Galaxy S20 Ultra는 출시 초기에 초점 헌팅 문제가 심각했고, Samsung은 이를 줄이려고 Galaxy S21 Ultra에 레이저 모듈을 더했다."
+                "x": "Nest Cam은 Android에서 영상 기록 재생과 가로 화면 조작이 개선되고, 관리자가 여러 명인 가정을 위한 피드백 기능도 나아졌다. Nest Cam Outdoor (2nd gen)에는 30초 보안 사이렌이 추가되며, 이 기능은 Walmart의 Onn Outdoor 카메라와 Floodlight에서도 지원된다."
+              },
+              {
+                "t": "p",
+                "x": "Google Home은 이제 Walmart Onn 카메라에서 Familiar Faces를 지원한다. Nest Thermostat 사용자는 이제 온도 조절 일정을 요일 간에 복사할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Google Home에 적용되는 그 밖의 업데이트는 다음과 같다. iOS 앱의 조명 색상 휠, iOS와 Android에서 Google Home Speaker 설정 문제 해결, Android에서 Stereo Pair 및 Speaker Group 제어 문제 해결, Google TV 오디오 출력 및 상태 개선, Android에서 스피커와 스마트 디스플레이 간 음악 전송 개선이다."
+              },
+              {
+                "t": "p",
+                "x": "이번 변경 사항은 Android와 iOS용 최신 Google Home 업데이트로 제공되며, Gemini 관련 변경은 사용자 눈에 띄지 않게 서버 측에서 이뤄진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "リーク：Galaxy S27\nUltraはAIフォーカスに",
-          "body": "Galaxy S27 UltraがレーザーAFをAIフォーカスに替えるとの未確認情報が出た。",
-          "mini_headline": "S27 Ultraリーク：レーザーAFよりAI",
+          "headline": "Google Home更新\nGeminiなど強化",
+          "body": "Google HomeがNest Cam、Geminiなどを改善する大型更新を配信中だ。",
+          "mini_headline": "Google HomeにGemini新機能",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
-                "cap": "Samsung Galaxy S27 Ultraのデザインは、Galaxy S26 Ultraから大きく変わるとされる。"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "SamsungがGalaxy S27 Ultraで3x光学ズームカメラを廃止するとの先の報道に続き、リーカーのIce Universeは、Samsungが背面カメラ群からレーザーオートフォーカスモジュールも外すと主張している。リーカーはこの情報が確定済みだとし、最近のデザインレンダリングにモジュールが描かれていないのはそのためだという。事実なら、Galaxy S21 Ultra以降でレーザーオートフォーカスなしに発売される初のGalaxy Ultraとなり、小型のGalaxy S27 Proにも搭載されない。"
+                "x": "Google Homeがまたも大型アップデートを配信している。今回はNest Cam、Nest Thermostarts、Geminiなど幅広い分野で機能追加と改善が行われる。"
               },
               {
                 "t": "p",
-                "x": "Ice Universeによれば、Galaxy S27 Ultraは代わりにAIフォーカス技術に頼るという。リークされた背面構成は、OIS付きの200 MP 1/1.3\"メインカメラ、50 MP 1/2.55\"の5xペリスコープ光学ズーム、50 MP 1/2.5\"・120˚の超広角だ。"
+                "x": "Googleの恒例の変更履歴によると、11月25日のアップデートは現在配信中で、Gemini for Homeのアーリーアクセスプログラムをはじめ全面的な改善が施されている。「Hey Google, tell me a story」(お話を聞かせて)が復活し、Geminiは物語の進行中に加えた変更に合わせて話を作れるようになった。Geminiのスマートホームコマンドは速度と性能がさらに向上し、照明をいくつか消した後に「turn them back on」(また点けて)と言えるような文脈に沿った追加指示にも対応する。スマートディスプレイでGeminiの情報源も確認できるようになった。"
               },
               {
                 "t": "p",
-                "x": "Samsungは過去5年間、Galaxy Ultraにレーザーオートフォーカスを搭載してきた。PDAFのみに頼っていたGalaxy S20 Ultraは発売当初、深刻なフォーカスハンティングの問題を抱えており、Samsungはその緩和のためGalaxy S21 Ultraにレーザーモジュールを追加した。"
+                "x": "Nest CamはAndroidでの動画履歴の再生と横向き操作が改善され、管理者が複数いる家庭向けのフィードバックも改善された。Nest Cam Outdoor (2nd gen)には30秒間のセキュリティサイレンが追加され、これはWalmartのOnn OutdoorカメラとFloodlightでもサポートされる。"
+              },
+              {
+                "t": "p",
+                "x": "Google HomeはWalmart OnnカメラでFamiliar Facesに対応した。Nest Thermostatのユーザーは、サーモスタットのスケジュールを曜日間でコピーできるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "このほかGoogle Homeには次の更新が届く。iOSアプリでの照明のカラーホイール、iOSとAndroidでのGoogle Home Speakerのセットアップ問題の修正、AndroidでのStereo PairとSpeaker Groupの操作の修正、Google TVの音声出力とステータスの改善、Androidからのスピーカーとスマートディスプレイ間の音楽転送の改善だ。"
+              },
+              {
+                "t": "p",
+                "x": "これらはAndroidとiOS向けの最新Google Homeアップデートで提供され、Geminiの変更は裏側で行われる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "爆料：Galaxy S27\nUltra或改用AI对焦",
-          "body": "Ice Universe称Galaxy S27 Ultra将改用AI对焦，弃用激光对焦。",
-          "mini_headline": "S27 Ultra爆料：AI取代激光AF",
+          "headline": "Google Home更新\nGemini等功能升级",
+          "body": "Google Home再推大更新，Nest Cam、恒温器、应用和Gemini均获改进。",
+          "mini_headline": "Google Home新增Gemini功能",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
-                "cap": "据称Samsung Galaxy S27 Ultra的设计将与Galaxy S26 Ultra大不相同。"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "此前有报道称Samsung将在Galaxy S27 Ultra上取消3x光学变焦摄像头，如今爆料者Ice Universe又称，Samsung还将从后置摄像头阵列中移除激光自动对焦模块。爆料者表示消息已获证实，这也是近期设计渲染图中没有出现该模块的原因。若属实，它将成为自Galaxy S21 Ultra以来首款不配备激光自动对焦的Galaxy Ultra手机，体型更小的Galaxy S27 Pro同样不会配备。"
+                "x": "Google Home正在推送又一次大型更新，这次为Nest Cam、Nest Thermostarts、Gemini等带来新功能和改进。"
               },
               {
                 "t": "p",
-                "x": "Ice Universe称，Galaxy S27 Ultra将转而依靠AI对焦技术。爆料的后置配置为：带OIS的200 MP 1/1.3\"主摄、50 MP 1/2.55\" 5x潜望式光学变焦，以及50 MP 1/2.5\" 120˚超广角。"
+                "x": "据Google惯常发布的更新日志，11月25日的更新现已开始推送，带来全面改进，首先是Gemini for Home抢先体验计划。“Hey Google, tell me a story”（给我讲个故事）功能回归，Gemini可根据你在故事进行中提出的任何调整来定制故事。Gemini智能家居指令的速度和性能进一步提升，并支持上下文追问，例如关掉几盏灯后可以说“turn them back on”（把它们重新打开）。现在还能在智能显示屏上查看Gemini的信息来源。"
               },
               {
                 "t": "p",
-                "x": "过去5年，Samsung一直在Galaxy Ultra手机上配备激光自动对焦：仅依赖PDAF的Galaxy S20 Ultra早期存在严重的对焦拉风箱问题，Samsung随后在Galaxy S21 Ultra中加入激光模块以缓解这一问题。"
+                "x": "Nest Cam在Android上改进了视频历史回放和横屏控制，并为有多名管理员的家庭改进了反馈。Nest Cam Outdoor (2nd gen)还新增30秒安全警报器，Walmart的Onn Outdoor摄像头和Floodlight也支持该功能。"
+              },
+              {
+                "t": "p",
+                "x": "Google Home现已在Walmart Onn摄像头上支持Familiar Faces。Nest Thermostat用户现在可以在不同日期之间复制温控日程。"
+              },
+              {
+                "t": "p",
+                "x": "Google Home的其他更新包括：iOS应用中的灯光色轮；修复iOS和Android上Google Home Speaker的设置问题；修复Android上的Stereo Pair和Speaker Group控制；改进Google TV音频输出和状态；改进从Android在扬声器与智能显示屏之间转移音乐。"
+              },
+              {
+                "t": "p",
+                "x": "这些更新通过Android和iOS上最新版Google Home提供，而Gemini的变化则在后台完成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Filtración: el Galaxy S27 Ultra\ncambiaría el láser AF por AI",
-          "body": "Ice Universe afirma que Samsung cambiará el autofoco láser del Galaxy S27 Ultra por enfoque AI, un rumor sin confirmar.",
-          "mini_headline": "Filtración del S27 Ultra: AI en lugar de AF láser",
+          "headline": "Google Home suma funciones\na Nest Cam y Gemini",
+          "body": "Google Home lanza otra gran actualización con mejoras en Nest Cam, Nest Thermostat, la app y Gemini.",
+          "mini_headline": "Google Home suma funciones de Gemini",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-to-lose-laser-autofocus-module.jpg",
-                "cap": "El diseño del Samsung Galaxy S27 Ultra supondría un cambio importante respecto al Galaxy S26 Ultra."
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Tras informaciones previas de que Samsung eliminaría la cámara con zoom óptico 3x del Galaxy S27 Ultra, el filtrador Ice Universe afirma ahora que Samsung también quitará el módulo de autofoco láser de su conjunto de cámaras traseras. Según el filtrador, la información está confirmada, y por eso los renders de diseño recientes no muestran el módulo. Si es cierto, será el primer Galaxy Ultra desde el Galaxy S21 Ultra que llegue sin autofoco láser, y el Galaxy S27 Pro, más pequeño, tampoco lo tendrá."
+                "x": "Google Home está desplegando otra gran actualización, que esta vez añade funciones e introduce mejoras en Nest Cam, Nest Thermostarts, Gemini y más."
               },
               {
                 "t": "p",
-                "x": "Ice Universe sostiene que el Galaxy S27 Ultra recurrirá en su lugar a tecnología de enfoque AI. La configuración trasera filtrada: una cámara principal de 200 MP 1/1.3\" con OIS, un zoom óptico periscópico 5x de 50 MP 1/2.55\" y un ultra gran angular de 50 MP 1/2.5\" y 120˚."
+                "x": "Según el registro de cambios habitual de Google, la actualización del 25 de noviembre ya se está desplegando e introduce mejoras generales, empezando por el programa de acceso anticipado de Gemini for Home. Vuelve “Hey Google, tell me a story” (cuéntame una historia), con Gemini capaz de crear historias que se adaptan a cualquier cambio que hagas a medida que avanza el relato. Los comandos de hogar inteligente de Gemini reciben nuevas mejoras de velocidad y rendimiento, además de seguimientos contextuales, como poder decir “turn them back on” (vuelve a encenderlas) después de apagar algunas luces. Ahora también se pueden ver las fuentes de Gemini en las pantallas inteligentes."
               },
               {
                 "t": "p",
-                "x": "Samsung ha incluido autofoco láser en los Galaxy Ultra durante los últimos 5 años: el Galaxy S20 Ultra, que dependía solo del PDAF, tuvo graves problemas de búsqueda de enfoque al principio, y Samsung añadió el módulo láser en el Galaxy S21 Ultra para mitigarlos."
+                "x": "Nest Cam recibe mejoras en la reproducción del historial de vídeo y en los controles en horizontal en Android, así como mejoras de comentarios para hogares con varios administradores. Nest Cam Outdoor (2nd gen) también obtiene una sirena de seguridad de 30 segundos, compatible además con la cámara Onn Outdoor y la Floodlight de Walmart."
+              },
+              {
+                "t": "p",
+                "x": "Google Home ahora admite Familiar Faces en las cámaras Onn de Walmart. Los usuarios de Nest Thermostat ya pueden copiar los horarios del termostato entre días."
+              },
+              {
+                "t": "p",
+                "x": "Otras novedades que llegan a Google Home incluyen: rueda de color para las luces en la app de iOS; solución de problemas de configuración con Google Home Speaker en iOS y Android; corrección de los controles de Stereo Pair y Speaker Group en Android; mejoras en la salida de audio y el estado de Google TV; y una mejor transferencia de música entre altavoces y pantallas inteligentes desde Android."
+              },
+              {
+                "t": "p",
+                "x": "Las últimas actualizaciones de Google Home para Android e iOS incluyen estas novedades, mientras que los cambios de Gemini se aplican en segundo plano."
               }
             ]
           }

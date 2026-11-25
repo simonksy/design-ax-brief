@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "games",
   "cards": [
     {
-      "id": "nvidia-kimodo-ue59-motion",
+      "id": "eafc-motson-ai-voice",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "NVIDIA Kimodo\nUE 5.9에 AI 모션",
-      "body": "애니메이터가 Sequencer 안에서 프롬프트·스플라인·포즈로 캐릭터 모션을 짠다.",
-      "mini_headline": "Kimodo AI 모션, UE 5.9 탑재",
+      "headline": "EA Sports FC에\nAI로 Motson 부활",
+      "body": "EA Sports FC가 AI로 Motson을 되살리자 팬 반응이 갈렸다.",
+      "mini_headline": "EA, AI로 Motson 부활",
       "tool": "Games",
-      "source": "NVIDIA Technical Blog",
-      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,257 +19,179 @@
         "blocks": [
           {
             "t": "p",
-            "x": "이번 달 NVIDIA 게임 개발 업데이트는 War Thunder의 DLSS 5부터 Unreal Engine 5.9 Preview의 Kimodo까지, 개발자가 새 그래픽·애니메이션·로컬 AI 기능을 엔진에 들이도록 돕는다."
+            "x": "전설적인 축구 해설가 John Motson이 오늘 나오는 EA FC 27 타이틀 업데이트에서 AI로 되살아나 시리즈에 돌아온다."
           },
           {
             "t": "img",
-            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
-            "cap": "NVIDIA Kimodo가 Unreal Engine 5.9 Preview의 Sequencer 안에서 캐릭터 모션을 만들어 낸다. 애니메이션 제공: Epic Games"
+            "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+            "cap": "이미지 출처: Getty Images - 사진 Laurence Griffiths/Getty Images"
           },
           {
             "t": "p",
-            "x": "Unreal Engine 5.9 Preview에는 가이드형 애니메이션 프레임워크와 Sequencer 도구 모음이 새로 들어가, 애니메이터가 AI 모션 생성 모델을 직접 다룬다. 여기에 처음 통합된 모델이 Kimodo다. GPU 가속(GPU-accelerated) 모션 생성을 익숙한 타임라인 에디터 작업 방식과 묶었다."
+            "x": "2023년 77세로 세상을 떠난 BBC의 전설적 축구 해설가 John \"Motty\" Motson이 \"본인의 원본 음성과, 본인 녹음으로 학습한 AI 재현 음성(AI-recreation)을 섞는\" 방식으로 EA Sports FC 27에 들어간다. 발표에 따르면 \"거의 10년 분량의 게임 내 녹음\"에 \"새로운 AI 도구\"를 더했다. EA 축구 시리즈와 그의 인연은 FIFA Soccer 96까지 거슬러 올라간다."
           },
           {
             "t": "p",
-            "x": "애니메이터는 텍스트 프롬프트로 동작을 설명하고 캐릭터가 따라갈 스플라인 경로를 그린 뒤, 특정 프레임에 목표 포즈를 지정한다. 모델이 이 제약에 맞춰 모션을 생성하니 캐릭터가 어디로 움직이고 핵심 순간에 어떤 포즈를 취할지는 팀이 정한다."
-          },
-          {
-            "t": "img",
-            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
-            "cap": "NvIGI SDK는 로컬 PC에서 NVIDIA ACE AI 모델을 실행한다"
+            "x": "\"아버지는 게임의 목소리가 되는 일을 무척 사랑하셨고, 이 감동적인 헌사로 게임 속에 아버지의 기억을 지켜준 EA Sports FC 팀에 깊이 감사한다\"고 John의 아들 Fred가 말했다. BBC 보도에 따르면 EA는 유족에게 액수를 밝히지 않은 금액을 지급했다."
           },
           {
             "t": "p",
-            "x": "In-Game Inferencing SDK 1.8은 개발자가 NVIDIA ACE를 온디바이스로 돌리게 해 주는 도구다. 이번 버전에는 RTX Spark 지원, 최신 llama.cpp·whisper.cpp 백엔드, Parakeet 음성 인식, Vulkan priority API가 추가됐다."
-          },
-          {
-            "t": "video",
-            "yt": "geAFyWn6Nio"
-          },
-          {
-            "t": "p",
-            "x": "Nsight Graphics 2026.4와 Nsight Systems 2026.6에는 DLSS Frame Generation 분석과 에이전트형 AI 도구가 더해졌다. 새 Nsight Graphics MCP 서버를 쓰면 호환 AI 에이전트가 애플리케이션을 캡처해 디버그하고 GPU 트레이스까지 분석한다."
+            "x": "모두가 반기지는 않는다. EA Sports FC 서브레딧에서는 \"수치스럽다\", \"무례하다\", \"역겹다\", \"너무 암울하다\"는 반응이 나왔고, 한 레딧 이용자는 \"우리는 정말 빌어먹게 암울한 세상에 살고 있다\"고 썼다. Save Our Voices Now의 Peter Caulfield은 \"본인이 명시적으로 동의하지 않았다면 어떤 형태의 AI 복제도 허용해서는 안 된다\"고 말했다. Red Hook Studios는 반대로 내레이터 Wayne June의 목소리를 AI로 재현하는 일은 절대 없다고 못 박았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "NVIDIA Kimodo brings AI motion\nto Unreal Engine 5.9",
-          "body": "Animators can generate character motion in Sequencer from text prompts, spline paths and target poses.",
-          "mini_headline": "Kimodo AI motion lands in UE 5.9",
+          "headline": "EA Sports FC brings back\nJohn Motson's voice with AI",
+          "body": "EA Sports FC revives late BBC commentator John Motson with AI; his family approves, some fans call it bleak.",
+          "mini_headline": "EA revives Motson with AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "This month’s NVIDIA game development updates help teams bring new graphics, animation, and local AI capabilities into their engines, from DLSS 5 in War Thunder to Kimodo in Unreal Engine 5.9 Preview."
+                "x": "Legendary football pundit John Motson will return to the series, in AI form, in today's EA FC 27 title update."
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
-                "cap": "NVIDIA Kimodo generates character motion inside Unreal Engine 5.9 Preview’s Sequencer. Animation courtesy of Epic Games"
+                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+                "cap": "Image credit: Getty Images - Photo by Laurence Griffiths/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.9 Preview introduces a guided animation framework and a set of Sequencer tools that help animators work directly with AI motion-generation models. Kimodo is the first model integrated with it, pairing GPU-accelerated motion generation with the familiar timeline editor workflow."
+                "x": "Legendary BBC football commentator John \"Motty\" Motson, who died in 2023 at age 77, is being added to EA Sports FC 27 through \"a mix of both his original audio and an AI-recreation trained by recordings of the man himself.\" The announcement says \"almost 10 years of in-game recordings\" were used with \"new AI tools.\" His history with EA's football series goes back to FIFA Soccer 96."
               },
               {
                 "t": "p",
-                "x": "Animators can describe a motion with a text prompt, draw a spline path for the character to follow, and set target poses at specific frames. The model generates motion that follows these constraints, so teams decide where characters move and how they pose at key moments."
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
-                "cap": "The NvIGI SDK runs NVIDIA ACE AI models on a local PC"
+                "x": "\"My father adored being the voice of the game, and we are so grateful to the team at EA Sports FC for this touching tribute and preserving his memory in-game,\" John's son Fred said. The BBC reports EA paid the family an undisclosed sum."
               },
               {
                 "t": "p",
-                "x": "In-Game Inferencing SDK 1.8, which helps developers run NVIDIA ACE on-device, adds RTX Spark support, newer llama.cpp and whisper.cpp backends, Parakeet speech recognition and the Vulkan priority API."
-              },
-              {
-                "t": "video",
-                "yt": "geAFyWn6Nio"
-              },
-              {
-                "t": "p",
-                "x": "Nsight Graphics 2026.4 and Nsight Systems 2026.6 add DLSS Frame Generation analysis and agentic AI tooling: a new Nsight Graphics MCP server lets compatible AI agents capture applications, debug captures and analyze GPU traces."
+                "x": "Not everyone shares that enthusiasm: on the EA Sports FC subreddit some call it \"shameful,\" \"disrespectful,\" \"gross,\" and \"bloody dark.\" \"What a bleak fucking world we live in,\" one redditor wrote. Peter Caulfield of Save Our Voices Now said \"unless you have specifically agreed to it, AI cloning of any kind should not be allowed.\" Red Hook Studios, by contrast, said it would never use AI to recreate narrator Wayne June's voice."
               }
             ]
           }
         },
         "ko": {
-          "headline": "NVIDIA Kimodo\nUE 5.9에 AI 모션",
-          "body": "애니메이터가 Sequencer 안에서 프롬프트·스플라인·포즈로 캐릭터 모션을 짠다.",
-          "mini_headline": "Kimodo AI 모션, UE 5.9 탑재",
+          "headline": "EA Sports FC에\nAI로 Motson 부활",
+          "body": "EA Sports FC가 AI로 Motson을 되살리자 팬 반응이 갈렸다.",
+          "mini_headline": "EA, AI로 Motson 부활",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "이번 달 NVIDIA 게임 개발 업데이트는 War Thunder의 DLSS 5부터 Unreal Engine 5.9 Preview의 Kimodo까지, 개발자가 새 그래픽·애니메이션·로컬 AI 기능을 엔진에 들이도록 돕는다."
+                "x": "전설적인 축구 해설가 John Motson이 오늘 나오는 EA FC 27 타이틀 업데이트에서 AI로 되살아나 시리즈에 돌아온다."
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
-                "cap": "NVIDIA Kimodo가 Unreal Engine 5.9 Preview의 Sequencer 안에서 캐릭터 모션을 만들어 낸다. 애니메이션 제공: Epic Games"
+                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+                "cap": "이미지 출처: Getty Images - 사진 Laurence Griffiths/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.9 Preview에는 가이드형 애니메이션 프레임워크와 Sequencer 도구 모음이 새로 들어가, 애니메이터가 AI 모션 생성 모델을 직접 다룬다. 여기에 처음 통합된 모델이 Kimodo다. GPU 가속(GPU-accelerated) 모션 생성을 익숙한 타임라인 에디터 작업 방식과 묶었다."
+                "x": "2023년 77세로 세상을 떠난 BBC의 전설적 축구 해설가 John \"Motty\" Motson이 \"본인의 원본 음성과, 본인 녹음으로 학습한 AI 재현 음성(AI-recreation)을 섞는\" 방식으로 EA Sports FC 27에 들어간다. 발표에 따르면 \"거의 10년 분량의 게임 내 녹음\"에 \"새로운 AI 도구\"를 더했다. EA 축구 시리즈와 그의 인연은 FIFA Soccer 96까지 거슬러 올라간다."
               },
               {
                 "t": "p",
-                "x": "애니메이터는 텍스트 프롬프트로 동작을 설명하고 캐릭터가 따라갈 스플라인 경로를 그린 뒤, 특정 프레임에 목표 포즈를 지정한다. 모델이 이 제약에 맞춰 모션을 생성하니 캐릭터가 어디로 움직이고 핵심 순간에 어떤 포즈를 취할지는 팀이 정한다."
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
-                "cap": "NvIGI SDK는 로컬 PC에서 NVIDIA ACE AI 모델을 실행한다"
+                "x": "\"아버지는 게임의 목소리가 되는 일을 무척 사랑하셨고, 이 감동적인 헌사로 게임 속에 아버지의 기억을 지켜준 EA Sports FC 팀에 깊이 감사한다\"고 John의 아들 Fred가 말했다. BBC 보도에 따르면 EA는 유족에게 액수를 밝히지 않은 금액을 지급했다."
               },
               {
                 "t": "p",
-                "x": "In-Game Inferencing SDK 1.8은 개발자가 NVIDIA ACE를 온디바이스로 돌리게 해 주는 도구다. 이번 버전에는 RTX Spark 지원, 최신 llama.cpp·whisper.cpp 백엔드, Parakeet 음성 인식, Vulkan priority API가 추가됐다."
-              },
-              {
-                "t": "video",
-                "yt": "geAFyWn6Nio"
-              },
-              {
-                "t": "p",
-                "x": "Nsight Graphics 2026.4와 Nsight Systems 2026.6에는 DLSS Frame Generation 분석과 에이전트형 AI 도구가 더해졌다. 새 Nsight Graphics MCP 서버를 쓰면 호환 AI 에이전트가 애플리케이션을 캡처해 디버그하고 GPU 트레이스까지 분석한다."
+                "x": "모두가 반기지는 않는다. EA Sports FC 서브레딧에서는 \"수치스럽다\", \"무례하다\", \"역겹다\", \"너무 암울하다\"는 반응이 나왔고, 한 레딧 이용자는 \"우리는 정말 빌어먹게 암울한 세상에 살고 있다\"고 썼다. Save Our Voices Now의 Peter Caulfield은 \"본인이 명시적으로 동의하지 않았다면 어떤 형태의 AI 복제도 허용해서는 안 된다\"고 말했다. Red Hook Studios는 반대로 내레이터 Wayne June의 목소리를 AI로 재현하는 일은 절대 없다고 못 박았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NVIDIA Kimodo\nUE 5.9にAIモーション",
-          "body": "アニメーターはSequencerでプロンプト・スプライン・ポーズから動きを生成できる。",
-          "mini_headline": "Kimodo、UE 5.9にAIモーション",
+          "headline": "EA Sports FC\nAIでMotsonの声復活",
+          "body": "EA Sports FCがAIでMotsonの声を復活、遺族は賛同し一部ファンは反発した。",
+          "mini_headline": "EA、AIでMotsonを復活",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "今月のNVIDIAゲーム開発アップデートは、War ThunderのDLSS 5からUnreal Engine 5.9 PreviewのKimodoまで、新たなグラフィックス、アニメーション、ローカルAIの機能をエンジンに取り込む助けとなる。"
+                "x": "伝説的なサッカー解説者John Motsonが、本日配信のEA FC 27タイトルアップデートでAIの姿となってシリーズに復帰する。"
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
-                "cap": "NVIDIA KimodoはUnreal Engine 5.9 PreviewのSequencer内でキャラクターのモーションを生成する。アニメーション提供：Epic Games"
+                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+                "cap": "画像提供: Getty Images - 撮影 Laurence Griffiths/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.9 Previewは、ガイド付きアニメーションフレームワークと、アニメーターがAIモーション生成モデルを直接扱えるSequencerツール群を導入した。Kimodoはこれに統合された最初のモデルで、GPUで高速化された（GPU-accelerated）モーション生成を、なじみのあるタイムラインエディターのワークフローと組み合わせる。"
+                "x": "2023年に77歳で亡くなったBBCの伝説的サッカー実況者John「Motty」Motsonが、「本人のオリジナル音声と、本人の録音で学習したAIによる再現音声（AI-recreation）を組み合わせて」EA Sports FC 27に追加される。発表によると、「ほぼ10年分のゲーム内録音」が「新しいAIツール」とともに使われた。EAのサッカーシリーズとの関わりはFIFA Soccer 96にさかのぼる。"
               },
               {
                 "t": "p",
-                "x": "アニメーターはテキストプロンプトで動きを記述し、キャラクターがたどるスプラインパスを描き、特定のフレームに目標ポーズを設定できる。モデルはこれらの制約に沿ったモーションを生成するため、キャラクターがどこへ動き、要所でどんなポーズをとるかはチームが決められる。"
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
-                "cap": "NvIGI SDKはNVIDIA ACEのAIモデルをローカルPCで実行する"
+                "x": "「父はゲームの声であることを心から愛していました。この心のこもったトリビュートでゲームの中に父の記憶を残してくれたEA Sports FCのチームに深く感謝しています」とJohnの息子Fredは語った。BBCによると、EAは遺族に非公開の金額を支払った。"
               },
               {
                 "t": "p",
-                "x": "開発者がNVIDIA ACEをオンデバイスで動かすためのIn-Game Inferencing SDK 1.8は、RTX Sparkへの対応、新しいllama.cppとwhisper.cppのバックエンド、Parakeet音声認識、Vulkan priority APIを追加した。"
-              },
-              {
-                "t": "video",
-                "yt": "geAFyWn6Nio"
-              },
-              {
-                "t": "p",
-                "x": "Nsight Graphics 2026.4とNsight Systems 2026.6は、DLSS Frame Generationの解析とエージェント型AIツールを追加した。新しいNsight Graphics MCPサーバーにより、対応するAIエージェントがアプリケーションのキャプチャ、キャプチャのデバッグ、GPUトレースの解析を行える。"
+                "x": "誰もが歓迎しているわけではない。EA Sports FCのsubredditでは「恥ずべき」「無礼だ」「気持ち悪い」「ひどく暗い」との声が上がり、あるRedditユーザーは「なんてクソみたいに暗い世界に生きているんだ」と書いた。Save Our Voices NowのPeter Caulfieldは「本人が明確に同意していない限り、いかなる形のAIクローンも認められるべきではない」と述べた。一方、Red Hook Studiosはナレーターを務めるWayne Juneの声をAIで再現することは決してないとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NVIDIA Kimodo\n为UE 5.9带来AI动作",
-          "body": "动画师可在Sequencer中用文本提示、样条路径和目标姿势生成角色动作。",
-          "mini_headline": "Kimodo AI动作登陆UE 5.9",
+          "headline": "EA Sports FC\n用AI重现Motson声音",
+          "body": "EA Sports FC用AI重现已故BBC解说员Motson，家人认可，部分球迷反感。",
+          "mini_headline": "EA用AI让Motson回归",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "NVIDIA本月的游戏开发更新帮助团队将新的图形、动画和本地AI能力引入引擎，从War Thunder中的DLSS 5到Unreal Engine 5.9 Preview中的Kimodo。"
+                "x": "传奇足球评论员John Motson将以AI形式回归该系列，出现在今天的EA FC 27版本更新中。"
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
-                "cap": "NVIDIA Kimodo在Unreal Engine 5.9 Preview的Sequencer中生成角色动作。动画由Epic Games提供"
+                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+                "cap": "图片来源：Getty Images - 摄影 Laurence Griffiths/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.9 Preview引入了一个引导式动画框架和一套Sequencer工具，让动画师可以直接使用AI动作生成模型。Kimodo是首个与之集成的模型，将GPU加速（GPU-accelerated）的动作生成与熟悉的时间线编辑器工作流相结合。"
+                "x": "BBC传奇足球解说员John “Motty” Motson于2023年去世，享年77岁。他将通过“结合其原始音频与用本人录音训练的AI重建声音（AI-recreation）”的方式加入EA Sports FC 27。公告称，“近10年的游戏内录音”与“新的AI工具”一同被使用。他与EA足球系列的渊源可追溯到FIFA Soccer 96。"
               },
               {
                 "t": "p",
-                "x": "动画师可以用文本提示描述动作，绘制角色要沿循的样条路径，并在特定帧设定目标姿势。模型会生成遵循这些约束的动作，因此由团队决定角色往哪里移动、在关键时刻摆出怎样的姿势。"
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
-                "cap": "NvIGI SDK在本地PC上运行NVIDIA ACE AI模型"
+                "x": "“父亲非常热爱担任这款游戏的声音，我们由衷感谢EA Sports FC团队献上这份动人的致敬，并在游戏中留住他的记忆。”John的儿子Fred说。据BBC报道，EA向其家人支付了一笔未公开的款项。"
               },
               {
                 "t": "p",
-                "x": "In-Game Inferencing SDK 1.8帮助开发者在设备端运行NVIDIA ACE，新增RTX Spark支持、更新的llama.cpp和whisper.cpp后端、Parakeet语音识别以及Vulkan priority API。"
-              },
-              {
-                "t": "video",
-                "yt": "geAFyWn6Nio"
-              },
-              {
-                "t": "p",
-                "x": "Nsight Graphics 2026.4和Nsight Systems 2026.6新增DLSS Frame Generation分析和智能体AI工具：新的Nsight Graphics MCP服务器让兼容的AI智能体能够捕获应用、调试捕获并分析GPU跟踪数据。"
+                "x": "并非所有人都同样热情：在EA Sports FC的subreddit上，有人称之为“可耻”“不尊重”“恶心”和“太黑暗了”。一名Reddit用户写道：“我们活在一个多么该死的阴暗世界。”Save Our Voices Now的Peter Caulfield表示：“除非本人明确同意，否则任何形式的AI克隆都不应被允许。”相比之下，Red Hook Studios表示绝不会用AI重现旁白Wayne June的声音。"
               }
             ]
           }
         },
         "es": {
-          "headline": "NVIDIA Kimodo trae movimiento AI\na Unreal Engine 5.9",
-          "body": "Los animadores pueden generar movimiento en Sequencer con prompts de texto, trayectorias spline y poses objetivo.",
-          "mini_headline": "Kimodo lleva movimiento AI a UE 5.9",
+          "headline": "EA Sports FC recupera la voz\nde John Motson con AI",
+          "body": "EA Sports FC revive con AI al difunto John Motson, de la BBC; su familia lo aprueba y hay fans que lo ven sombrío.",
+          "mini_headline": "EA revive a Motson con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Las actualizaciones de desarrollo de juegos de NVIDIA de este mes ayudan a los equipos a incorporar nuevas capacidades gráficas, de animación y de AI local en sus motores, desde DLSS 5 en War Thunder hasta Kimodo en Unreal Engine 5.9 Preview."
+                "x": "El legendario comentarista de fútbol John Motson volverá a la serie, en forma de AI, en la actualización de EA FC 27 que se publica hoy."
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
-                "cap": "NVIDIA Kimodo genera movimiento de personajes dentro del Sequencer de Unreal Engine 5.9 Preview. Animación cortesía de Epic Games"
+                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+                "cap": "Crédito de imagen: Getty Images - Foto de Laurence Griffiths/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.9 Preview introduce un marco de animación guiada y un conjunto de herramientas de Sequencer que permiten a los animadores trabajar directamente con modelos AI de generación de movimiento. Kimodo es el primer modelo integrado en él y combina la generación de movimiento acelerada por GPU (GPU-accelerated) con el flujo de trabajo habitual del editor de línea de tiempo."
+                "x": "El legendario comentarista de fútbol de la BBC John \"Motty\" Motson, fallecido en 2023 a los 77 años, se incorpora a EA Sports FC 27 mediante \"una mezcla de su audio original y una AI-recreation (recreación por AI) entrenada con grabaciones de él mismo\". El anuncio indica que se usaron \"casi 10 años de grabaciones in-game\" con \"nuevas herramientas de AI\". Su historia con la serie de fútbol de EA se remonta a FIFA Soccer 96."
               },
               {
                 "t": "p",
-                "x": "Los animadores pueden describir un movimiento con un prompt de texto, trazar una trayectoria spline para que el personaje la siga y fijar poses objetivo en fotogramas concretos. El modelo genera movimiento que respeta estas restricciones, de modo que los equipos deciden hacia dónde se mueven los personajes y cómo posan en los momentos clave."
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
-                "cap": "El NvIGI SDK ejecuta modelos AI de NVIDIA ACE en un PC local"
+                "x": "\"Mi padre adoraba ser la voz del juego, y estamos muy agradecidos al equipo de EA Sports FC por este conmovedor homenaje y por preservar su memoria in-game\", dijo Fred, hijo de John. La BBC informa de que EA pagó a la familia una suma no revelada."
               },
               {
                 "t": "p",
-                "x": "In-Game Inferencing SDK 1.8, que ayuda a los desarrolladores a ejecutar NVIDIA ACE en el dispositivo, añade compatibilidad con RTX Spark, backends más recientes de llama.cpp y whisper.cpp, reconocimiento de voz Parakeet y la Vulkan priority API."
-              },
-              {
-                "t": "video",
-                "yt": "geAFyWn6Nio"
-              },
-              {
-                "t": "p",
-                "x": "Nsight Graphics 2026.4 y Nsight Systems 2026.6 añaden análisis de DLSS Frame Generation y herramientas de AI agéntica: un nuevo Nsight Graphics MCP server permite a agentes AI compatibles capturar aplicaciones, depurar capturas y analizar trazas de GPU."
+                "x": "No todos comparten ese entusiasmo: en el subreddit de EA Sports FC algunos lo califican de \"vergonzoso\", \"irrespetuoso\", \"asqueroso\" y \"jodidamente oscuro\". \"Qué mundo tan jodidamente sombrío en el que vivimos\", escribió un redditor. Peter Caulfield, de Save Our Voices Now, afirmó que \"a menos que lo hayas aceptado expresamente, no debería permitirse la clonación por AI de ningún tipo\". Red Hook Studios, en cambio, dijo que nunca usaría AI para recrear la voz del narrador Wayne June."
               }
             ]
           }
@@ -277,177 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "NVIDIA Kimodo\nUE 5.9에 AI 모션",
-          "body": "애니메이터는 Sequencer에서 프롬프트·스플라인·포즈로 캐릭터 모션을 만든다.",
-          "mini_headline": "Kimodo AI 모션, UE 5.9 탑재",
+          "headline": "EA Sports FC에\nAI로 Motson 부활",
+          "body": "EA Sports FC가 AI로 Motson을 되살렸고 팬 반응은 엇갈린다.",
+          "mini_headline": "EA, AI로 Motson 부활",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "이번 달 NVIDIA 게임 개발 업데이트는 War Thunder의 DLSS 5부터 Unreal Engine 5.9 Preview의 Kimodo까지, 새로운 그래픽·애니메이션·로컬 AI 기능을 엔진에 들여오도록 돕는다."
+                "x": "전설적인 축구 해설가 John Motson이 오늘 배포되는 EA FC 27 타이틀 업데이트에서 AI 형태로 시리즈에 돌아온다."
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
-                "cap": "NVIDIA Kimodo가 Unreal Engine 5.9 Preview의 Sequencer 안에서 캐릭터 모션을 생성한다. 애니메이션 제공: Epic Games"
+                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+                "cap": "이미지 출처: Getty Images - 사진 Laurence Griffiths/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.9 Preview는 가이드형 애니메이션 프레임워크와 Sequencer 도구 모음을 도입해, 애니메이터가 AI 모션 생성 모델을 직접 다룰 수 있게 한다. Kimodo는 여기에 통합된 첫 모델로, GPU 가속(GPU-accelerated) 모션 생성과 익숙한 타임라인 에디터 작업 방식을 결합한다."
+                "x": "2023년 77세로 세상을 떠난 BBC의 전설적 축구 해설가 John \"Motty\" Motson이 \"본인의 원본 음성과, 본인 녹음으로 학습한 AI 재현 음성(AI-recreation)을 섞는\" 방식으로 EA Sports FC 27에 추가된다. 발표에 따르면 \"거의 10년 분량의 게임 내 녹음\"을 \"새로운 AI 도구\"와 함께 활용했다. EA 축구 시리즈와 그의 인연은 FIFA Soccer 96까지 거슬러 올라간다."
               },
               {
                 "t": "p",
-                "x": "애니메이터는 텍스트 프롬프트로 동작을 설명하고, 캐릭터가 따라갈 스플라인 경로를 그리고, 특정 프레임에 목표 포즈를 지정할 수 있다. 모델은 이 제약을 따르는 모션을 생성하므로, 캐릭터가 어디로 움직이고 핵심 순간에 어떤 포즈를 취할지는 팀이 정한다."
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
-                "cap": "NvIGI SDK는 로컬 PC에서 NVIDIA ACE AI 모델을 실행한다"
+                "x": "\"아버지는 게임의 목소리가 되는 일을 무척 사랑하셨고, 이 감동적인 헌사로 게임 속에 아버지의 기억을 지켜준 EA Sports FC 팀에 깊이 감사한다\"고 John의 아들 Fred가 말했다. BBC는 EA가 유족에게 액수를 밝히지 않은 금액을 지급했다고 보도했다."
               },
               {
                 "t": "p",
-                "x": "개발자가 NVIDIA ACE를 온디바이스로 실행하도록 돕는 In-Game Inferencing SDK 1.8은 RTX Spark 지원, 최신 llama.cpp·whisper.cpp 백엔드, Parakeet 음성 인식, Vulkan priority API를 추가했다."
-              },
-              {
-                "t": "video",
-                "yt": "geAFyWn6Nio"
-              },
-              {
-                "t": "p",
-                "x": "Nsight Graphics 2026.4와 Nsight Systems 2026.6은 DLSS Frame Generation 분석과 에이전트형 AI 도구를 추가했다. 새 Nsight Graphics MCP 서버를 쓰면 호환 AI 에이전트가 애플리케이션을 캡처하고, 캡처를 디버그하고, GPU 트레이스를 분석할 수 있다."
+                "x": "모두가 반기는 것은 아니다. EA Sports FC 서브레딧에서는 \"수치스럽다\", \"무례하다\", \"역겹다\", \"너무 암울하다\"는 반응이 나왔고, 한 레딧 이용자는 \"우리는 정말 빌어먹게 암울한 세상에 살고 있다\"고 썼다. Save Our Voices Now의 Peter Caulfield은 \"본인이 명시적으로 동의하지 않았다면 어떤 형태의 AI 복제도 허용해서는 안 된다\"고 말했다. 반면 Red Hook Studios는 내레이터 Wayne June의 목소리를 AI로 재현하는 일은 절대 없을 것이라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NVIDIA Kimodo\nUE 5.9にAIモーション",
-          "body": "アニメーターはSequencerでプロンプト・スプライン・ポーズから動きを生成できる。",
-          "mini_headline": "Kimodo、UE 5.9にAIモーション",
+          "headline": "EA Sports FC\nAIでMotsonの声復活",
+          "body": "EA Sports FCがAIでMotsonの声を復活、遺族は賛同し一部ファンは反発した。",
+          "mini_headline": "EA、AIでMotsonを復活",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "今月のNVIDIAゲーム開発アップデートは、War ThunderのDLSS 5からUnreal Engine 5.9 PreviewのKimodoまで、新たなグラフィックス、アニメーション、ローカルAIの機能をエンジンに取り込む助けとなる。"
+                "x": "伝説的なサッカー解説者John Motsonが、本日配信のEA FC 27タイトルアップデートでAIの姿となってシリーズに復帰する。"
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
-                "cap": "NVIDIA KimodoはUnreal Engine 5.9 PreviewのSequencer内でキャラクターのモーションを生成する。アニメーション提供：Epic Games"
+                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+                "cap": "画像提供: Getty Images - 撮影 Laurence Griffiths/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.9 Previewは、ガイド付きアニメーションフレームワークと、アニメーターがAIモーション生成モデルを直接扱えるSequencerツール群を導入した。Kimodoはこれに統合された最初のモデルで、GPUで高速化された（GPU-accelerated）モーション生成を、なじみのあるタイムラインエディターのワークフローと組み合わせる。"
+                "x": "2023年に77歳で亡くなったBBCの伝説的サッカー実況者John「Motty」Motsonが、「本人のオリジナル音声と、本人の録音で学習したAIによる再現音声（AI-recreation）を組み合わせて」EA Sports FC 27に追加される。発表によると、「ほぼ10年分のゲーム内録音」が「新しいAIツール」とともに使われた。EAのサッカーシリーズとの関わりはFIFA Soccer 96にさかのぼる。"
               },
               {
                 "t": "p",
-                "x": "アニメーターはテキストプロンプトで動きを記述し、キャラクターがたどるスプラインパスを描き、特定のフレームに目標ポーズを設定できる。モデルはこれらの制約に沿ったモーションを生成するため、キャラクターがどこへ動き、要所でどんなポーズをとるかはチームが決められる。"
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
-                "cap": "NvIGI SDKはNVIDIA ACEのAIモデルをローカルPCで実行する"
+                "x": "「父はゲームの声であることを心から愛していました。この心のこもったトリビュートでゲームの中に父の記憶を残してくれたEA Sports FCのチームに深く感謝しています」とJohnの息子Fredは語った。BBCによると、EAは遺族に非公開の金額を支払った。"
               },
               {
                 "t": "p",
-                "x": "開発者がNVIDIA ACEをオンデバイスで動かすためのIn-Game Inferencing SDK 1.8は、RTX Sparkへの対応、新しいllama.cppとwhisper.cppのバックエンド、Parakeet音声認識、Vulkan priority APIを追加した。"
-              },
-              {
-                "t": "video",
-                "yt": "geAFyWn6Nio"
-              },
-              {
-                "t": "p",
-                "x": "Nsight Graphics 2026.4とNsight Systems 2026.6は、DLSS Frame Generationの解析とエージェント型AIツールを追加した。新しいNsight Graphics MCPサーバーにより、対応するAIエージェントがアプリケーションのキャプチャ、キャプチャのデバッグ、GPUトレースの解析を行える。"
+                "x": "誰もが歓迎しているわけではない。EA Sports FCのsubredditでは「恥ずべき」「無礼だ」「気持ち悪い」「ひどく暗い」との声が上がり、あるRedditユーザーは「なんてクソみたいに暗い世界に生きているんだ」と書いた。Save Our Voices NowのPeter Caulfieldは「本人が明確に同意していない限り、いかなる形のAIクローンも認められるべきではない」と述べた。一方、Red Hook Studiosはナレーターを務めるWayne Juneの声をAIで再現することは決してないとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NVIDIA Kimodo\n为UE 5.9带来AI动作",
-          "body": "动画师可在Sequencer中用文本提示、样条路径和目标姿势生成角色动作。",
-          "mini_headline": "Kimodo AI动作登陆UE 5.9",
+          "headline": "EA Sports FC\n用AI重现Motson声音",
+          "body": "EA Sports FC用AI重现已故BBC解说员Motson，家人认可，部分球迷反感。",
+          "mini_headline": "EA用AI让Motson回归",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "NVIDIA本月的游戏开发更新帮助团队将新的图形、动画和本地AI能力引入引擎，从War Thunder中的DLSS 5到Unreal Engine 5.9 Preview中的Kimodo。"
+                "x": "传奇足球评论员John Motson将以AI形式回归该系列，出现在今天的EA FC 27版本更新中。"
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
-                "cap": "NVIDIA Kimodo在Unreal Engine 5.9 Preview的Sequencer中生成角色动作。动画由Epic Games提供"
+                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+                "cap": "图片来源：Getty Images - 摄影 Laurence Griffiths/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.9 Preview引入了一个引导式动画框架和一套Sequencer工具，让动画师可以直接使用AI动作生成模型。Kimodo是首个与之集成的模型，将GPU加速（GPU-accelerated）的动作生成与熟悉的时间线编辑器工作流相结合。"
+                "x": "BBC传奇足球解说员John “Motty” Motson于2023年去世，享年77岁。他将通过“结合其原始音频与用本人录音训练的AI重建声音（AI-recreation）”的方式加入EA Sports FC 27。公告称，“近10年的游戏内录音”与“新的AI工具”一同被使用。他与EA足球系列的渊源可追溯到FIFA Soccer 96。"
               },
               {
                 "t": "p",
-                "x": "动画师可以用文本提示描述动作，绘制角色要沿循的样条路径，并在特定帧设定目标姿势。模型会生成遵循这些约束的动作，因此由团队决定角色往哪里移动、在关键时刻摆出怎样的姿势。"
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
-                "cap": "NvIGI SDK在本地PC上运行NVIDIA ACE AI模型"
+                "x": "“父亲非常热爱担任这款游戏的声音，我们由衷感谢EA Sports FC团队献上这份动人的致敬，并在游戏中留住他的记忆。”John的儿子Fred说。据BBC报道，EA向其家人支付了一笔未公开的款项。"
               },
               {
                 "t": "p",
-                "x": "In-Game Inferencing SDK 1.8帮助开发者在设备端运行NVIDIA ACE，新增RTX Spark支持、更新的llama.cpp和whisper.cpp后端、Parakeet语音识别以及Vulkan priority API。"
-              },
-              {
-                "t": "video",
-                "yt": "geAFyWn6Nio"
-              },
-              {
-                "t": "p",
-                "x": "Nsight Graphics 2026.4和Nsight Systems 2026.6新增DLSS Frame Generation分析和智能体AI工具：新的Nsight Graphics MCP服务器让兼容的AI智能体能够捕获应用、调试捕获并分析GPU跟踪数据。"
+                "x": "并非所有人都同样热情：在EA Sports FC的subreddit上，有人称之为“可耻”“不尊重”“恶心”和“太黑暗了”。一名Reddit用户写道：“我们活在一个多么该死的阴暗世界。”Save Our Voices Now的Peter Caulfield表示：“除非本人明确同意，否则任何形式的AI克隆都不应被允许。”相比之下，Red Hook Studios表示绝不会用AI重现旁白Wayne June的声音。"
               }
             ]
           }
         },
         "es": {
-          "headline": "NVIDIA Kimodo trae movimiento AI\na Unreal Engine 5.9",
-          "body": "Los animadores pueden generar movimiento en Sequencer con prompts de texto, trayectorias spline y poses objetivo.",
-          "mini_headline": "Kimodo lleva movimiento AI a UE 5.9",
+          "headline": "EA Sports FC recupera la voz\nde John Motson con AI",
+          "body": "EA Sports FC revive con AI al difunto John Motson, de la BBC; su familia lo aprueba y hay fans que lo ven sombrío.",
+          "mini_headline": "EA revive a Motson con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Las actualizaciones de desarrollo de juegos de NVIDIA de este mes ayudan a los equipos a incorporar nuevas capacidades gráficas, de animación y de AI local en sus motores, desde DLSS 5 en War Thunder hasta Kimodo en Unreal Engine 5.9 Preview."
+                "x": "El legendario comentarista de fútbol John Motson volverá a la serie, en forma de AI, en la actualización de EA FC 27 que se publica hoy."
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
-                "cap": "NVIDIA Kimodo genera movimiento de personajes dentro del Sequencer de Unreal Engine 5.9 Preview. Animación cortesía de Epic Games"
+                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+                "cap": "Crédito de imagen: Getty Images - Foto de Laurence Griffiths/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.9 Preview introduce un marco de animación guiada y un conjunto de herramientas de Sequencer que permiten a los animadores trabajar directamente con modelos AI de generación de movimiento. Kimodo es el primer modelo integrado en él y combina la generación de movimiento acelerada por GPU (GPU-accelerated) con el flujo de trabajo habitual del editor de línea de tiempo."
+                "x": "El legendario comentarista de fútbol de la BBC John \"Motty\" Motson, fallecido en 2023 a los 77 años, se incorpora a EA Sports FC 27 mediante \"una mezcla de su audio original y una AI-recreation (recreación por AI) entrenada con grabaciones de él mismo\". El anuncio indica que se usaron \"casi 10 años de grabaciones in-game\" con \"nuevas herramientas de AI\". Su historia con la serie de fútbol de EA se remonta a FIFA Soccer 96."
               },
               {
                 "t": "p",
-                "x": "Los animadores pueden describir un movimiento con un prompt de texto, trazar una trayectoria spline para que el personaje la siga y fijar poses objetivo en fotogramas concretos. El modelo genera movimiento que respeta estas restricciones, de modo que los equipos deciden hacia dónde se mueven los personajes y cómo posan en los momentos clave."
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
-                "cap": "El NvIGI SDK ejecuta modelos AI de NVIDIA ACE en un PC local"
+                "x": "\"Mi padre adoraba ser la voz del juego, y estamos muy agradecidos al equipo de EA Sports FC por este conmovedor homenaje y por preservar su memoria in-game\", dijo Fred, hijo de John. La BBC informa de que EA pagó a la familia una suma no revelada."
               },
               {
                 "t": "p",
-                "x": "In-Game Inferencing SDK 1.8, que ayuda a los desarrolladores a ejecutar NVIDIA ACE en el dispositivo, añade compatibilidad con RTX Spark, backends más recientes de llama.cpp y whisper.cpp, reconocimiento de voz Parakeet y la Vulkan priority API."
-              },
-              {
-                "t": "video",
-                "yt": "geAFyWn6Nio"
-              },
-              {
-                "t": "p",
-                "x": "Nsight Graphics 2026.4 y Nsight Systems 2026.6 añaden análisis de DLSS Frame Generation y herramientas de AI agéntica: un nuevo Nsight Graphics MCP server permite a agentes AI compatibles capturar aplicaciones, depurar capturas y analizar trazas de GPU."
+                "x": "No todos comparten ese entusiasmo: en el subreddit de EA Sports FC algunos lo califican de \"vergonzoso\", \"irrespetuoso\", \"asqueroso\" y \"jodidamente oscuro\". \"Qué mundo tan jodidamente sombrío en el que vivimos\", escribió un redditor. Peter Caulfield, de Save Our Voices Now, afirmó que \"a menos que lo hayas aceptado expresamente, no debería permitirse la clonación por AI de ningún tipo\". Red Hook Studios, en cambio, dijo que nunca usaría AI para recrear la voz del narrador Wayne June."
               }
             ]
           }
@@ -455,15 +325,15 @@
       }
     },
     {
-      "id": "atari-homebrew-awards-ai-flood",
+      "id": "ubisoft-genai-pitch-rule",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 게임 범람에\nAtari 홈브루상 취소",
-      "body": "ZeroPage Homebrew가 AI-assisted 작품 범람에 시상을 접었다.",
-      "mini_headline": "AI 범람에 Atari 홈브루 시상 중단",
+      "headline": "Ubisoft 기획안,\n생성형 AI 안 쓰면 해명",
+      "body": "Ubisoft가 신작 기획안마다 생성형 AI 활용 계획을 요구한다.",
+      "mini_headline": "Ubisoft 기획안, genAI 시험대",
       "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -471,179 +341,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
-            "cap": "DIMITAR DILKOFF / Getty Images"
+            "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "cap": "이미지 출처: Ubisoft"
           },
           {
             "t": "p",
-            "x": "아홉 번째 개최를 앞뒀던 Atari Homebrew Awards가 올해 취소됐다. AI로 만들었을지 모를 출품작을 어떻게 다룰지를 두고 주최 측이 벽에 부딪혀서다."
+            "x": "Ubisoft에서 새 프로젝트를 제안하는 팀은 생성형 AI가 게임 개발 속도를 어떻게 높일지 설명해야 하고, 쓰지 않겠다면 그 이유를 자세히 밝혀야 한다. Vertical Slice에 익명으로 이야기한 여러 현직 직원에 따르면 이 내용이 빠진 기획안은 승인을 받지 못한다."
           },
           {
             "t": "p",
-            "x": "“올해 들어 AI 지원 게임 개발이 대량으로 쏟아지면서 이를 따라가기가 점점 어려워졌습니다. 일부 개발자는 AI의 도움으로 일주일에 여러 개의 게임을 내놓기도 했습니다.” ZeroPage Homebrew는 Atari Age 포럼에 이렇게 썼다."
+            "x": "한 소식통은 경영진이 생성형 AI를 대놓고 의무화하지는 않아도 전방위로 밀어붙인다고 말했다. 또 다른 직원은 \"AI를 쓰면 '작고 린하며 민첩한 팀'이 기획안을 만드는 속도가 빨라진다는 말을 들었다 ... 쓰지 않을 생각이라면 이유가 있어야 했다\"고 전하며 Ubisoft가 생성형 AI를 이제 \"피할 수 없는 것\"으로 본다고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "출품작 검토만이 문제가 아니었다. AI 사용에 선을 그을지, 긋는다면 어디에 그을지를 정해야 했다. 100% AI로 생성된 게임이야 논외였지만 음악이나 아트, 코딩에 AI를 쓴 게임은 어떻게 봐야 하나. AI를 얼마나 썼는지 쉽게 검증할 방법도 없다. 개발자가 정직하게 밝혀야 하고, 검사 소프트웨어는 오탐을 낼 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "“앞으로 나아갈 길이 보이지 않아 올해 Atari Homebrew Awards를 중단하는 어려운 결정을 내렸습니다.” ZeroPage는 이렇게 썼다. 이 포럼 글에는 지금 Atari 홈브루 씬 안팎에서 AI가 설 자리를 두고 다투는 댓글이 수백 개 달렸다."
+            "x": "지난주 Teammates 개발팀을 품은 생성형 AI 전담 자회사 Motherbrain이 출범한 직후 나온 보도다. 직원 수는 2022년 9월 20,700명에서 2026년 9월 15,500명으로 줄었다. 한 직원은 \"Ubisoft는 위에서 내려오는 AI 정신병이라는 악몽에 빠져 있다\"고 말했다. Ubisoft는 논평 요청에 응답하지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI game flood cancels the\nAtari Homebrew Awards",
-          "body": "ZeroPage Homebrew suspended its ninth awards after AI-assisted entries made a cutoff for AI use hard to set or vet.",
-          "mini_headline": "AI flood halts Atari homebrew awards",
+          "headline": "Ubisoft pitches must justify\nskipping generative AI",
+          "body": "Ubisoft teams pitching new projects are reportedly asked to explain how generative AI would help them make games faster.",
+          "mini_headline": "Ubisoft pitches face genAI test",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
-                "cap": "DIMITAR DILKOFF / Getty Images"
+                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Image credit: Ubisoft"
               },
               {
                 "t": "p",
-                "x": "The Atari Homebrew Awards, which would have been in its ninth year, has been canceled after its organizer hit an impasse with how to handle submissions that might have been made with AI."
+                "x": "Ubisoft teams pitching new projects are reportedly being asked to explain how generative AI would help them make games faster, and if they don't plan to use it, they have to give a detailed reason why. According to multiple current employees who spoke anonymously to Vertical Slice, pitches that do not set this out will not be approved."
               },
               {
                 "t": "p",
-                "x": "“Keeping up with the large number of AI assisted game development had become increasingly difficult as this year wore on with some developers even releasing multiple games a week with the aid of AI,” ZeroPage Homebrew wrote on the Atari Age forum."
+                "x": "One source said leadership isn't outright mandating generative AI but is all-in on it. \"We were told that using AI will increase the speed at which pitches can be made by 'small lean agile teams' ... If you planned on not using it, you would have to have a reason,\" another said, adding that Ubisoft believes generative AI is now \"unavoidable.\""
               },
               {
                 "t": "p",
-                "x": "The task wasn’t simply going through submissions; it was figuring out what cutoff, if any, to have for AI use. Games 100-percent generated by AI were out of the question, but what about games that used AI for music, art, or coding? There are no easy ways to vet the amount of AI used: it requires honest disclosure, and testing software can lead to false positives."
-              },
-              {
-                "t": "p",
-                "x": "“I saw no path forward and made the difficult decision to suspend the Atari Homebrew Awards this year,” ZeroPage wrote. The forum post now has hundreds of comments debating AI’s place in the Atari homebrew scene and beyond."
+                "x": "The report follows last week's launch of Motherbrain, a dedicated generative AI subsidiary housing the team behind Teammates. Headcount fell from 20,700 in September 2022 to 15,500 in September 2026. \"Ubisoft is in a top-down nightmare of AI psychosis,\" one employee said. Ubisoft had not responded to requests for comment."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 게임 범람에\nAtari 홈브루상 취소",
-          "body": "ZeroPage Homebrew가 AI-assisted 작품 범람에 시상을 접었다.",
-          "mini_headline": "AI 범람에 Atari 홈브루 시상 중단",
+          "headline": "Ubisoft 기획안,\n생성형 AI 안 쓰면 해명",
+          "body": "Ubisoft가 신작 기획안마다 생성형 AI 활용 계획을 요구한다.",
+          "mini_headline": "Ubisoft 기획안, genAI 시험대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
-                "cap": "DIMITAR DILKOFF / Getty Images"
+                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Ubisoft"
               },
               {
                 "t": "p",
-                "x": "아홉 번째 개최를 앞뒀던 Atari Homebrew Awards가 올해 취소됐다. AI로 만들었을지 모를 출품작을 어떻게 다룰지를 두고 주최 측이 벽에 부딪혀서다."
+                "x": "Ubisoft에서 새 프로젝트를 제안하는 팀은 생성형 AI가 게임 개발 속도를 어떻게 높일지 설명해야 하고, 쓰지 않겠다면 그 이유를 자세히 밝혀야 한다. Vertical Slice에 익명으로 이야기한 여러 현직 직원에 따르면 이 내용이 빠진 기획안은 승인을 받지 못한다."
               },
               {
                 "t": "p",
-                "x": "“올해 들어 AI 지원 게임 개발이 대량으로 쏟아지면서 이를 따라가기가 점점 어려워졌습니다. 일부 개발자는 AI의 도움으로 일주일에 여러 개의 게임을 내놓기도 했습니다.” ZeroPage Homebrew는 Atari Age 포럼에 이렇게 썼다."
+                "x": "한 소식통은 경영진이 생성형 AI를 대놓고 의무화하지는 않아도 전방위로 밀어붙인다고 말했다. 또 다른 직원은 \"AI를 쓰면 '작고 린하며 민첩한 팀'이 기획안을 만드는 속도가 빨라진다는 말을 들었다 ... 쓰지 않을 생각이라면 이유가 있어야 했다\"고 전하며 Ubisoft가 생성형 AI를 이제 \"피할 수 없는 것\"으로 본다고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "출품작 검토만이 문제가 아니었다. AI 사용에 선을 그을지, 긋는다면 어디에 그을지를 정해야 했다. 100% AI로 생성된 게임이야 논외였지만 음악이나 아트, 코딩에 AI를 쓴 게임은 어떻게 봐야 하나. AI를 얼마나 썼는지 쉽게 검증할 방법도 없다. 개발자가 정직하게 밝혀야 하고, 검사 소프트웨어는 오탐을 낼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "“앞으로 나아갈 길이 보이지 않아 올해 Atari Homebrew Awards를 중단하는 어려운 결정을 내렸습니다.” ZeroPage는 이렇게 썼다. 이 포럼 글에는 지금 Atari 홈브루 씬 안팎에서 AI가 설 자리를 두고 다투는 댓글이 수백 개 달렸다."
+                "x": "지난주 Teammates 개발팀을 품은 생성형 AI 전담 자회사 Motherbrain이 출범한 직후 나온 보도다. 직원 수는 2022년 9월 20,700명에서 2026년 9월 15,500명으로 줄었다. 한 직원은 \"Ubisoft는 위에서 내려오는 AI 정신병이라는 악몽에 빠져 있다\"고 말했다. Ubisoft는 논평 요청에 응답하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIゲームの氾濫で\nAtari自作ゲーム賞が中止",
-          "body": "ZeroPage HomebrewはAI-assisted作品の増加で賞を中止した。",
-          "mini_headline": "AI氾濫でAtari自作ゲーム賞が中止",
+          "headline": "Ubisoftの企画、\n生成AI不使用なら説明",
+          "body": "Ubisoftは新企画の提案時、生成AIで開発をどう速めるかの説明を求めているという。",
+          "mini_headline": "Ubisoft企画にgenAIの関門",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
-                "cap": "DIMITAR DILKOFF / Getty Images"
+                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像提供: Ubisoft"
               },
               {
                 "t": "p",
-                "x": "第九回となるはずだったAtari Homebrew Awardsが中止された。主催者が、AIで作られた可能性のある応募作をどう扱うかで行き詰まったためだ。"
+                "x": "Ubisoftで新規プロジェクトを提案するチームは、生成AIがゲーム開発をどう速めるかの説明を求められており、使わない場合はその理由を詳しく示さなければならないという。Vertical Sliceに匿名で語った複数の現役社員によれば、この点を記していない企画は承認されない。"
               },
               {
                 "t": "p",
-                "x": "「今年は時がたつにつれ、大量のAI支援ゲーム開発に追いつくことがますます難しくなりました。AIの助けを借りて週に複数のゲームを出す開発者までいたのです」と、ZeroPage HomebrewはAtari Ageフォーラムに書き込んだ。"
+                "x": "ある関係者は、経営陣は生成AIを明確に義務づけてはいないものの、全面的に注力していると話す。別の社員は「AIを使えば『小規模でリーンかつアジャイルなチーム』による企画づくりのスピードが上がると言われた……使わないつもりなら理由が必要だった」と語り、Ubisoftは生成AIをもはや「避けられないもの」と考えていると付け加えた。"
               },
               {
                 "t": "p",
-                "x": "課題は応募作に目を通すことだけではなかった。AIの使用について、そもそも線引きをするのか、するならどこで引くのかを決めることだった。100% AIで生成されたゲームは論外だが、音楽やアート、コーディングにAIを使ったゲームはどうなのか。AIの使用量を確かめる簡単な方法はない。正直な申告が必要で、検査ソフトは誤検出を起こしうる。"
-              },
-              {
-                "t": "p",
-                "x": "「先へ進む道が見えず、今年のAtari Homebrew Awardsを中止するという難しい決断を下しました」とZeroPageは書いた。このフォーラム投稿には現在、Atariの自作ゲームシーンやその外におけるAIの位置づけをめぐって議論する数百件のコメントが寄せられている。"
+                "x": "今回の報道は、Teammatesの開発チームを擁する生成AI専門子会社Motherbrainが先週発足したのに続くものだ。従業員数は2022年9月の20,700人から2026年9月には15,500人に減った。ある社員は「Ubisoftはトップダウンで進むAI精神病の悪夢の中にある」と述べた。Ubisoftはコメント要請に応じていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI游戏泛滥，\nAtari自制游戏奖停办",
-          "body": "ZeroPage Homebrew因AI-assisted作品难以设限，暂停第九届奖项。",
-          "mini_headline": "AI泛滥致Atari自制游戏奖停办",
+          "headline": "Ubisoft立项提案\n不用生成式AI须说明",
+          "body": "据报道，Ubisoft要求新项目提案说明生成式AI如何帮团队更快做游戏。",
+          "mini_headline": "Ubisoft提案面临genAI考验",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
-                "cap": "DIMITAR DILKOFF / Getty Images"
+                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：Ubisoft"
               },
               {
                 "t": "p",
-                "x": "原本将迎来第九届的Atari Homebrew Awards已被取消，原因是主办方在如何处理可能借助AI制作的参赛作品上陷入僵局。"
+                "x": "据报道，Ubisoft提出新项目的团队被要求说明生成式AI将如何帮助他们更快地制作游戏；如果不打算使用，必须详细说明原因。据多名匿名接受Vertical Slice采访的现任员工称，未阐明这一点的提案将不会获批。"
               },
               {
                 "t": "p",
-                "x": "“随着今年时间推移，要跟上大量AI辅助的游戏开发变得越来越难，有些开发者甚至借助AI每周发布多款游戏。”ZeroPage Homebrew在Atari Age论坛上写道。"
+                "x": "一名消息人士称，管理层并未直接强制使用生成式AI，但已全力押注。另一人说：“我们被告知，使用AI将提高‘小型精益敏捷团队’制作提案的速度……如果你打算不用，就必须给出理由。”并补充说，Ubisoft认为生成式AI如今已“不可避免”。"
               },
               {
                 "t": "p",
-                "x": "这项工作不只是审阅参赛作品，而是要决定是否为AI使用设定界限、界限又该划在哪里。100%由AI生成的游戏自然不在考虑之列，但用AI制作音乐、美术或代码的游戏又该如何对待？AI使用程度没有简便的核查方法：这需要诚实披露，而检测软件可能产生误报。"
-              },
-              {
-                "t": "p",
-                "x": "“我看不到前进的路，于是做出了今年暂停Atari Homebrew Awards的艰难决定。”ZeroPage写道。这篇论坛帖子目前已有数百条评论，争论AI在Atari自制游戏圈内外的位置。"
+                "x": "此次报道发布前，Ubisoft上周刚成立专门的生成式AI子公司Motherbrain，Teammates背后的团队也归入其中。员工人数从2022年9月的20,700人降至2026年9月的15,500人。一名员工说：“Ubisoft正陷入一场自上而下的AI精神病噩梦。”Ubisoft尚未回应置评请求。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una avalancha de juegos AI\nanula los Atari Homebrew Awards",
-          "body": "ZeroPage Homebrew suspendió su novena edición: con obras AI-assisted, costaba fijar o verificar un límite de AI.",
-          "mini_headline": "Una avalancha AI frena los premios homebrew de Atari",
+          "headline": "Ubisoft pide justificar\nno usar IA generativa",
+          "body": "Ubisoft pediría a sus equipos que expliquen en cada propuesta cómo la IA generativa acelerará sus juegos.",
+          "mini_headline": "Las propuestas de Ubisoft, ante la prueba genAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
-                "cap": "DIMITAR DILKOFF / Getty Images"
+                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de imagen: Ubisoft"
               },
               {
                 "t": "p",
-                "x": "Los Atari Homebrew Awards, que habrían celebrado su novena edición, se han cancelado después de que su organizador llegara a un punto muerto sobre cómo tratar las candidaturas que podrían haberse hecho con AI."
+                "x": "A los equipos de Ubisoft que proponen nuevos proyectos se les estaría pidiendo que expliquen cómo la IA generativa les ayudaría a crear juegos más rápido y, si no piensan usarla, deben dar una razón detallada. Según varios empleados actuales que hablaron de forma anónima con Vertical Slice, las propuestas que no lo expongan no serán aprobadas."
               },
               {
                 "t": "p",
-                "x": "“Seguir el ritmo de la gran cantidad de desarrollo de juegos asistido por AI se había vuelto cada vez más difícil a medida que avanzaba el año, con algunos desarrolladores que incluso lanzaban varios juegos a la semana con ayuda de la AI”, escribió ZeroPage Homebrew en el foro de Atari Age."
+                "x": "Una fuente afirmó que la dirección no impone de forma directa la IA generativa, pero apuesta todo por ella. \"Nos dijeron que usar IA aumentará la velocidad con la que 'equipos pequeños, eficientes y ágiles' pueden preparar propuestas ... Si pensabas no usarla, tenías que tener una razón\", dijo otra fuente, que añadió que Ubisoft cree que la IA generativa es ya \"inevitable\"."
               },
               {
                 "t": "p",
-                "x": "La tarea no consistía solo en revisar las candidaturas, sino en decidir qué límite fijar, si acaso, para el uso de AI. Los juegos generados al 100% por AI quedaban descartados, pero ¿qué pasa con los que usaron AI para la música, el arte o la programación? No hay formas sencillas de verificar cuánta AI se ha usado: requiere una declaración honesta, y el software de detección puede dar falsos positivos."
-              },
-              {
-                "t": "p",
-                "x": "“No vi ningún camino a seguir y tomé la difícil decisión de suspender los Atari Homebrew Awards este año”, escribió ZeroPage. La publicación del foro acumula ya cientos de comentarios que debaten el lugar de la AI en la escena homebrew de Atari y más allá."
+                "x": "El informe llega tras el lanzamiento, la semana pasada, de Motherbrain, una filial dedicada a la IA generativa que acoge al equipo detrás de Teammates. La plantilla pasó de 20,700 personas en septiembre de 2022 a 15,500 en septiembre de 2026. \"Ubisoft vive una pesadilla de psicosis por la IA impuesta desde arriba\", dijo un empleado. Ubisoft no había respondido a las solicitudes de comentarios."
               }
             ]
           }
@@ -651,125 +497,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 게임 범람에\nAtari 홈브루상 취소",
-          "body": "ZeroPage Homebrew가 AI-assisted 작품 탓에 시상을 접었다.",
-          "mini_headline": "AI 범람에 Atari 홈브루 시상 중단",
+          "headline": "Ubisoft 기획안,\n생성형 AI 안 쓰면 해명",
+          "body": "Ubisoft가 신작 기획안에 생성형 AI 활용 방안을 요구한다고 한다.",
+          "mini_headline": "Ubisoft 기획안의 genAI 시험대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
-                "cap": "DIMITAR DILKOFF / Getty Images"
+                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Ubisoft"
               },
               {
                 "t": "p",
-                "x": "올해로 아홉 번째를 맞을 예정이던 Atari Homebrew Awards가 취소됐다. 주최자가 AI로 만들었을 수 있는 출품작을 어떻게 다룰지를 두고 벽에 부딪혔기 때문이다."
+                "x": "Ubisoft에서 새 프로젝트를 제안하는 팀은 생성형 AI가 게임 개발 속도를 어떻게 높일지 설명하라는 요구를 받고 있으며, 쓰지 않을 계획이라면 그 이유를 자세히 밝혀야 한다고 한다. Vertical Slice에 익명으로 이야기한 여러 현직 직원에 따르면 이 내용을 담지 않은 기획안은 승인되지 않는다."
               },
               {
                 "t": "p",
-                "x": "“올해 들어 AI 지원 게임 개발이 대량으로 쏟아지면서 이를 따라가기가 점점 어려워졌습니다. 일부 개발자는 AI의 도움으로 일주일에 여러 개의 게임을 내놓기도 했습니다.” ZeroPage Homebrew는 Atari Age 포럼에 이렇게 썼다."
+                "x": "한 소식통은 경영진이 생성형 AI를 대놓고 의무화하지는 않지만 전면적으로 밀고 있다고 말했다. 또 다른 직원은 \"AI를 쓰면 '작고 린하며 민첩한 팀'이 기획안을 만드는 속도가 빨라진다는 말을 들었다 ... 쓰지 않을 생각이라면 이유가 있어야 했다\"고 전하며, Ubisoft가 생성형 AI를 이제 \"피할 수 없는 것\"으로 본다고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "문제는 단순히 출품작을 검토하는 데 있지 않았다. AI 사용에 기준선을 둘지, 둔다면 어디에 둘지를 정하는 일이었다. 100% AI로 생성된 게임은 논외였지만, 음악이나 아트, 코딩에 AI를 쓴 게임은 어떻게 볼 것인가? AI 사용량을 검증할 쉬운 방법은 없다. 정직한 공개가 필요하고, 검사 소프트웨어는 오탐을 낼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "“앞으로 나아갈 길이 보이지 않아 올해 Atari Homebrew Awards를 중단하는 어려운 결정을 내렸습니다.” ZeroPage는 이렇게 썼다. 이 포럼 글에는 현재 Atari 홈브루 씬과 그 너머에서 AI가 설 자리를 두고 논쟁하는 댓글이 수백 개 달려 있다."
+                "x": "이번 보도는 지난주 Teammates 개발팀을 품은 생성형 AI 전담 자회사 Motherbrain이 출범한 직후에 나왔다. 직원 수는 2022년 9월 20,700명에서 2026년 9월 15,500명으로 줄었다. 한 직원은 \"Ubisoft는 위에서 내려오는 AI 정신병이라는 악몽에 빠져 있다\"고 말했다. Ubisoft는 논평 요청에 응답하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIゲームの氾濫で\nAtari自作ゲーム賞が中止",
-          "body": "ZeroPage HomebrewはAI-assisted作品の増加で賞を中止した。",
-          "mini_headline": "AI氾濫でAtari自作ゲーム賞が中止",
+          "headline": "Ubisoftの企画、\n生成AI不使用なら説明",
+          "body": "Ubisoftは新企画の提案時、生成AIで開発をどう速めるかの説明を求めているという。",
+          "mini_headline": "Ubisoft企画にgenAIの関門",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
-                "cap": "DIMITAR DILKOFF / Getty Images"
+                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像提供: Ubisoft"
               },
               {
                 "t": "p",
-                "x": "第九回となるはずだったAtari Homebrew Awardsが中止された。主催者が、AIで作られた可能性のある応募作をどう扱うかで行き詰まったためだ。"
+                "x": "Ubisoftで新規プロジェクトを提案するチームは、生成AIがゲーム開発をどう速めるかの説明を求められており、使わない場合はその理由を詳しく示さなければならないという。Vertical Sliceに匿名で語った複数の現役社員によれば、この点を記していない企画は承認されない。"
               },
               {
                 "t": "p",
-                "x": "「今年は時がたつにつれ、大量のAI支援ゲーム開発に追いつくことがますます難しくなりました。AIの助けを借りて週に複数のゲームを出す開発者までいたのです」と、ZeroPage HomebrewはAtari Ageフォーラムに書き込んだ。"
+                "x": "ある関係者は、経営陣は生成AIを明確に義務づけてはいないものの、全面的に注力していると話す。別の社員は「AIを使えば『小規模でリーンかつアジャイルなチーム』による企画づくりのスピードが上がると言われた……使わないつもりなら理由が必要だった」と語り、Ubisoftは生成AIをもはや「避けられないもの」と考えていると付け加えた。"
               },
               {
                 "t": "p",
-                "x": "課題は応募作に目を通すことだけではなかった。AIの使用について、そもそも線引きをするのか、するならどこで引くのかを決めることだった。100% AIで生成されたゲームは論外だが、音楽やアート、コーディングにAIを使ったゲームはどうなのか。AIの使用量を確かめる簡単な方法はない。正直な申告が必要で、検査ソフトは誤検出を起こしうる。"
-              },
-              {
-                "t": "p",
-                "x": "「先へ進む道が見えず、今年のAtari Homebrew Awardsを中止するという難しい決断を下しました」とZeroPageは書いた。このフォーラム投稿には現在、Atariの自作ゲームシーンやその外におけるAIの位置づけをめぐって議論する数百件のコメントが寄せられている。"
+                "x": "今回の報道は、Teammatesの開発チームを擁する生成AI専門子会社Motherbrainが先週発足したのに続くものだ。従業員数は2022年9月の20,700人から2026年9月には15,500人に減った。ある社員は「Ubisoftはトップダウンで進むAI精神病の悪夢の中にある」と述べた。Ubisoftはコメント要請に応じていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI游戏泛滥，\nAtari自制游戏奖停办",
-          "body": "ZeroPage Homebrew因AI-assisted作品难以设限，暂停第九届奖项。",
-          "mini_headline": "AI泛滥致Atari自制游戏奖停办",
+          "headline": "Ubisoft立项提案\n不用生成式AI须说明",
+          "body": "据报道，Ubisoft要求新项目提案说明生成式AI如何帮团队更快做游戏。",
+          "mini_headline": "Ubisoft提案面临genAI考验",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
-                "cap": "DIMITAR DILKOFF / Getty Images"
+                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：Ubisoft"
               },
               {
                 "t": "p",
-                "x": "原本将迎来第九届的Atari Homebrew Awards已被取消，原因是主办方在如何处理可能借助AI制作的参赛作品上陷入僵局。"
+                "x": "据报道，Ubisoft提出新项目的团队被要求说明生成式AI将如何帮助他们更快地制作游戏；如果不打算使用，必须详细说明原因。据多名匿名接受Vertical Slice采访的现任员工称，未阐明这一点的提案将不会获批。"
               },
               {
                 "t": "p",
-                "x": "“随着今年时间推移，要跟上大量AI辅助的游戏开发变得越来越难，有些开发者甚至借助AI每周发布多款游戏。”ZeroPage Homebrew在Atari Age论坛上写道。"
+                "x": "一名消息人士称，管理层并未直接强制使用生成式AI，但已全力押注。另一人说：“我们被告知，使用AI将提高‘小型精益敏捷团队’制作提案的速度……如果你打算不用，就必须给出理由。”并补充说，Ubisoft认为生成式AI如今已“不可避免”。"
               },
               {
                 "t": "p",
-                "x": "这项工作不只是审阅参赛作品，而是要决定是否为AI使用设定界限、界限又该划在哪里。100%由AI生成的游戏自然不在考虑之列，但用AI制作音乐、美术或代码的游戏又该如何对待？AI使用程度没有简便的核查方法：这需要诚实披露，而检测软件可能产生误报。"
-              },
-              {
-                "t": "p",
-                "x": "“我看不到前进的路，于是做出了今年暂停Atari Homebrew Awards的艰难决定。”ZeroPage写道。这篇论坛帖子目前已有数百条评论，争论AI在Atari自制游戏圈内外的位置。"
+                "x": "此次报道发布前，Ubisoft上周刚成立专门的生成式AI子公司Motherbrain，Teammates背后的团队也归入其中。员工人数从2022年9月的20,700人降至2026年9月的15,500人。一名员工说：“Ubisoft正陷入一场自上而下的AI精神病噩梦。”Ubisoft尚未回应置评请求。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una avalancha de juegos AI\nanula los Atari Homebrew Awards",
-          "body": "ZeroPage Homebrew suspendió su novena edición: con obras AI-assisted, costaba fijar o verificar un límite de AI.",
-          "mini_headline": "Una avalancha AI frena los premios homebrew de Atari",
+          "headline": "Ubisoft pide justificar\nno usar IA generativa",
+          "body": "Ubisoft pediría a sus equipos que expliquen en cada propuesta cómo la IA generativa acelerará sus juegos.",
+          "mini_headline": "Las propuestas de Ubisoft, ante la prueba genAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg",
-                "cap": "DIMITAR DILKOFF / Getty Images"
+                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de imagen: Ubisoft"
               },
               {
                 "t": "p",
-                "x": "Los Atari Homebrew Awards, que habrían celebrado su novena edición, se han cancelado después de que su organizador llegara a un punto muerto sobre cómo tratar las candidaturas que podrían haberse hecho con AI."
+                "x": "A los equipos de Ubisoft que proponen nuevos proyectos se les estaría pidiendo que expliquen cómo la IA generativa les ayudaría a crear juegos más rápido y, si no piensan usarla, deben dar una razón detallada. Según varios empleados actuales que hablaron de forma anónima con Vertical Slice, las propuestas que no lo expongan no serán aprobadas."
               },
               {
                 "t": "p",
-                "x": "“Seguir el ritmo de la gran cantidad de desarrollo de juegos asistido por AI se había vuelto cada vez más difícil a medida que avanzaba el año, con algunos desarrolladores que incluso lanzaban varios juegos a la semana con ayuda de la AI”, escribió ZeroPage Homebrew en el foro de Atari Age."
+                "x": "Una fuente afirmó que la dirección no impone de forma directa la IA generativa, pero apuesta todo por ella. \"Nos dijeron que usar IA aumentará la velocidad con la que 'equipos pequeños, eficientes y ágiles' pueden preparar propuestas ... Si pensabas no usarla, tenías que tener una razón\", dijo otra fuente, que añadió que Ubisoft cree que la IA generativa es ya \"inevitable\"."
               },
               {
                 "t": "p",
-                "x": "La tarea no consistía solo en revisar las candidaturas, sino en decidir qué límite fijar, si acaso, para el uso de AI. Los juegos generados al 100% por AI quedaban descartados, pero ¿qué pasa con los que usaron AI para la música, el arte o la programación? No hay formas sencillas de verificar cuánta AI se ha usado: requiere una declaración honesta, y el software de detección puede dar falsos positivos."
-              },
-              {
-                "t": "p",
-                "x": "“No vi ningún camino a seguir y tomé la difícil decisión de suspender los Atari Homebrew Awards este año”, escribió ZeroPage. La publicación del foro acumula ya cientos de comentarios que debaten el lugar de la AI en la escena homebrew de Atari y más allá."
+                "x": "El informe llega tras el lanzamiento, la semana pasada, de Motherbrain, una filial dedicada a la IA generativa que acoge al equipo detrás de Teammates. La plantilla pasó de 20,700 personas en septiembre de 2022 a 15,500 en septiembre de 2026. \"Ubisoft vive una pesadilla de psicosis por la IA impuesta desde arriba\", dijo un empleado. Ubisoft no había respondido a las solicitudes de comentarios."
               }
             ]
           }
@@ -777,15 +607,15 @@
       }
     },
     {
-      "id": "gta6-recomp-leonida-takedown",
+      "id": "muvluv-ai-translation-refusals",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Take-Two 삭제조치에\nGTA 6 이식 리드 사임",
-      "body": "Xbox→PC AI-assisted 이식 Leonida의 리드 둘 이상이 떠났다.",
-      "mini_headline": "GTA 6 리컴파일 리드 하차",
+      "headline": "AI 번역 거부 문구가\nMuv-Luv 영문판에",
+      "body": "Muv-Luv 외전 영문판에 성적 내용 번역을 거부한 AI 답변이 실렸다.",
+      "mini_headline": "Muv-Luv에 실린 AI 번역 거부문",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/the-japanese-erotic-visual-novel-thats-filled-with-ais-prudish-refusals-to-translate-explicit-sexual-content-2001000228",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -793,173 +623,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
+            "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
+            "cap": "© aNCHOR inc"
           },
           {
             "t": "p",
-            "x": "유출자 Cyberleek가 거의 완성된 Grand Theft Auto 6 Xbox 빌드의 실행 파일을 공개한 지 불과 하루 만에 Leonida의 리드 가운데 최소 두 명이 손을 뗐다. Leonida는 이 빌드를 PC에서 돌리려는 리컴파일 프로젝트 중 가장 크고 잘 알려진 곳이다. Take-Two와 Rockstar의 압박이 원인으로 보인다."
+            "x": "AI는 게임 번역을 대신 맡을 수준이 아니다. 사람이 검수하지 않으면 Muv-Luv Girls Gaiden 같은 일이 벌어진다. 이 게임이 막 내놓은 영어판에는 \"노골적인 성적 콘텐츠\" 번역을 거부한다는 문구가 곳곳에 박혀 있다."
           },
           {
             "t": "p",
-            "x": "이 exe가 나오면서 리컴파일 프로젝트들은 AI로 PC판을 빠르게 만들어 낼 길을 얻었다. 팀은 라이브 방송에서 PC로 GTA 6 스플래시 화면을 띄우는 데까지 성공했지만, 게임은 곧바로 멈췄다."
+            "x": "Girls Gaiden은 오래 이어져 온 일본 에로게 프랜차이즈의 방치형 RPG 가챠 스핀오프로, 2025년 일본에서 전연령판과 성인판으로 출시됐다. Steam 페이지 일본어 공지에도 일부 번역을 AI 도구로 마쳤다고 적혀 있다. 팬들이 찾아낸 바로는 대사가 AI 도구를 거쳐 검수 없이 그대로 게임에 들어가면서 \"노골적인 성적 콘텐츠는 번역해 드릴 수 없습니다\" 같은 문장이 셀 수 없이 남았다."
+          },
+          {
+            "t": "img",
+            "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
+            "cap": "© Antares1368 / X"
           },
           {
             "t": "p",
-            "x": "프로젝트 책임자로 보이는 NotRexed는 X에 “여러분, 그만두겠습니다. 죄송합니다.”라고 올린 뒤 “Rockstar가 내 서버를 내린 건 이유의 일부일 뿐”이라고 덧붙였다. 다른 리드 Shayder는 자기 X 게시물을 전부 지웠다."
-          },
-          {
-            "t": "p",
-            "x": "비슷한 프로젝트가 여럿 돌아가고 있고, 새 GitHub 저장소는 스스로를 “NotRexed's Leonida 프로젝트의 후속”이라고 소개한다. AI 덕분에 콘솔 게임을 PC로 옮기기가 훨씬 쉽고 빨라졌고, 이를 막으려는 기업들의 처지는 더 곤란해졌다."
+            "x": "Steam에 나온 전연령판 평가는 '대체로 부정적(Mostly Negative)'이고 리뷰 대부분이 번역 품질을 문제 삼는다. 개발사 Moedoki는 지난해 \"원어민 번역가에 견줄 만한 수준의 번역 품질\"에 이르러야만 AI 번역을 검토하겠다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "GTA 6 recomp leads quit after\nTake-Two takedowns",
-          "body": "At least two leads of Leonida, an AI-assisted effort to port the leaked Xbox build to PC, quit while others carry on.",
-          "mini_headline": "GTA 6 recomp leads quit",
+          "headline": "AI refusals end up inside\nMuv-Luv's English release",
+          "body": "Muv-Luv Girls Gaiden shipped an English version filled with AI refusals to translate its explicit sexual content.",
+          "mini_headline": "AI refusals ship in Muv-Luv",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
+                "cap": "© aNCHOR inc"
               },
               {
                 "t": "p",
-                "x": "Just a day after leaker Cyberleek released the executable for the near-complete Xbox build of Grand Theft Auto 6, at least two of the leads of Leonida, the biggest and best-known effort to recompile it to run on PC, have called it quits—seemingly under pressure from Take-Two and Rockstar."
+                "x": "AI is not capable of taking over translation duties for a game, and without human oversight you may get something like Muv-Luv Girls Gaiden, which has just put out an English-language version consisting of in-game text declaring its refusal to translate \"explicit sexual content.\""
               },
               {
                 "t": "p",
-                "x": "The exe opened the door for recomp projects to leverage AI to quickly whip up a version of the game that will run on PC. During a livestream the team got the GTA 6 splash screen to come up on PC, although it crashed after that."
+                "x": "Girls Gaiden is an idle RPG gacha spin-off of the long-running Japanese eroge franchise, released in Japan in 2025 in all-ages and explicit versions. A Japanese-language notice on its Steam page confirms certain translations were completed using AI tools. Fans found dialogue was dropped into AI tools and back into the game unchecked, leaving countless lines like \"I can't provide a translation for explicit sexual content.\""
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
+                "cap": "© Antares1368 / X"
               },
               {
                 "t": "p",
-                "x": "“I quit guys. I’m sorry,” NotRexed, apparently the head of the project, posted on X, later adding that “Rockstar taking my server down was only part of the reason.” Shayder, another lead, deleted all of their X posts."
-              },
-              {
-                "t": "p",
-                "x": "Other such projects are underway, and a new GitHub repository describes itself as “a continuation of NotRexed's Leonida project.” The advent of AI greatly simplifies and speeds up bringing console games to PC, which makes life tougher for companies that want to keep a lid on such projects."
+                "x": "The all-ages Steam release has a Mostly Negative rating, with most reviews citing translation quality. Developer Moedoki said last year it would consider AI translation only at \"translation quality to a level comparable to that of native translators.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Take-Two 삭제조치에\nGTA 6 이식 리드 사임",
-          "body": "Xbox→PC AI-assisted 이식 Leonida의 리드 둘 이상이 떠났다.",
-          "mini_headline": "GTA 6 리컴파일 리드 하차",
+          "headline": "AI 번역 거부 문구가\nMuv-Luv 영문판에",
+          "body": "Muv-Luv 외전 영문판에 성적 내용 번역을 거부한 AI 답변이 실렸다.",
+          "mini_headline": "Muv-Luv에 실린 AI 번역 거부문",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
+                "cap": "© aNCHOR inc"
               },
               {
                 "t": "p",
-                "x": "유출자 Cyberleek가 거의 완성된 Grand Theft Auto 6 Xbox 빌드의 실행 파일을 공개한 지 불과 하루 만에 Leonida의 리드 가운데 최소 두 명이 손을 뗐다. Leonida는 이 빌드를 PC에서 돌리려는 리컴파일 프로젝트 중 가장 크고 잘 알려진 곳이다. Take-Two와 Rockstar의 압박이 원인으로 보인다."
+                "x": "AI는 게임 번역을 대신 맡을 수준이 아니다. 사람이 검수하지 않으면 Muv-Luv Girls Gaiden 같은 일이 벌어진다. 이 게임이 막 내놓은 영어판에는 \"노골적인 성적 콘텐츠\" 번역을 거부한다는 문구가 곳곳에 박혀 있다."
               },
               {
                 "t": "p",
-                "x": "이 exe가 나오면서 리컴파일 프로젝트들은 AI로 PC판을 빠르게 만들어 낼 길을 얻었다. 팀은 라이브 방송에서 PC로 GTA 6 스플래시 화면을 띄우는 데까지 성공했지만, 게임은 곧바로 멈췄다."
+                "x": "Girls Gaiden은 오래 이어져 온 일본 에로게 프랜차이즈의 방치형 RPG 가챠 스핀오프로, 2025년 일본에서 전연령판과 성인판으로 출시됐다. Steam 페이지 일본어 공지에도 일부 번역을 AI 도구로 마쳤다고 적혀 있다. 팬들이 찾아낸 바로는 대사가 AI 도구를 거쳐 검수 없이 그대로 게임에 들어가면서 \"노골적인 성적 콘텐츠는 번역해 드릴 수 없습니다\" 같은 문장이 셀 수 없이 남았다."
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
+                "cap": "© Antares1368 / X"
               },
               {
                 "t": "p",
-                "x": "프로젝트 책임자로 보이는 NotRexed는 X에 “여러분, 그만두겠습니다. 죄송합니다.”라고 올린 뒤 “Rockstar가 내 서버를 내린 건 이유의 일부일 뿐”이라고 덧붙였다. 다른 리드 Shayder는 자기 X 게시물을 전부 지웠다."
-              },
-              {
-                "t": "p",
-                "x": "비슷한 프로젝트가 여럿 돌아가고 있고, 새 GitHub 저장소는 스스로를 “NotRexed's Leonida 프로젝트의 후속”이라고 소개한다. AI 덕분에 콘솔 게임을 PC로 옮기기가 훨씬 쉽고 빨라졌고, 이를 막으려는 기업들의 처지는 더 곤란해졌다."
+                "x": "Steam에 나온 전연령판 평가는 '대체로 부정적(Mostly Negative)'이고 리뷰 대부분이 번역 품질을 문제 삼는다. 개발사 Moedoki는 지난해 \"원어민 번역가에 견줄 만한 수준의 번역 품질\"에 이르러야만 AI 번역을 검토하겠다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Take-Twoの削除で\nGTA 6移植リードが離脱",
-          "body": "Xbox版をPCへ移すAI-assistedのLeonidaで、リード二人以上が抜けた。",
-          "mini_headline": "GTA 6リコンパイルのリードが離脱",
+          "headline": "AIの翻訳拒否文が\nMuv-Luv英語版に",
+          "body": "Muv-Luv Girls Gaidenの英語版に性描写の翻訳を拒むAIの応答が並んだ。",
+          "mini_headline": "Muv-Luvに残ったAIの翻訳拒否",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
+                "cap": "© aNCHOR inc"
               },
               {
                 "t": "p",
-                "x": "リーカーのCyberleekが、ほぼ完成したGrand Theft Auto 6のXboxビルドの実行ファイルを公開してからわずか一日後、これをPCで動かすためのリコンパイル計画として最大かつ最も知られるLeonidaのリードのうち、少なくとも二人が手を引いた。Take-TwoとRockstarからの圧力を受けたものとみられる。"
+                "x": "AIはゲームの翻訳業務を肩代わりできる段階になく、人の確認がなければMuv-Luv Girls Gaidenのような事態になりかねない。同作は、「露骨な性的コンテンツ」の翻訳を拒否すると宣言するゲーム内テキストで構成された英語版を出したばかりだ。"
               },
               {
                 "t": "p",
-                "x": "このexeによって、リコンパイル計画がAIを活用し、PCで動くゲームのバージョンを素早く作り上げる道が開かれた。チームはライブ配信中にPC上でGTA 6のスプラッシュ画面を表示させたが、その後クラッシュした。"
+                "x": "Girls Gaidenは長寿の日本のエロゲフランチャイズから生まれた放置系RPGのガチャ派生作品で、2025年に日本で全年齢版と成人向け版が発売された。Steamページの日本語の告知は、一部の翻訳をAIツールで行ったことを認めている。ファンは、台詞がAIツールに流し込まれ、確認されないままゲームに戻されたことで、「露骨な性的コンテンツの翻訳は提供できません」といった文が無数に残っていることを見つけた。"
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
+                "cap": "© Antares1368 / X"
               },
               {
                 "t": "p",
-                "x": "「みんな、辞めるよ。ごめん」。プロジェクトの責任者とみられるNotRexedはXにそう投稿し、のちに「Rockstarにサーバーを落とされたのは理由の一部にすぎない」と付け加えた。もう一人のリードであるShayderは、自身のX投稿をすべて削除した。"
-              },
-              {
-                "t": "p",
-                "x": "同様のプロジェクトはほかにも進行中で、新たなGitHubリポジトリは自らを「NotRexed's Leonidaプロジェクトの継続」と称している。AIの登場によりコンソールゲームのPC移植は大幅に簡単かつ迅速になり、こうしたプロジェクトを抑え込みたい企業にとっては厳しい状況になっている。"
+                "x": "全年齢版のSteamリリースは「やや不評（Mostly Negative）」の評価で、レビューの多くが翻訳品質を挙げている。開発元のMoedokiは昨年、「ネイティブ翻訳者に匹敵する水準の翻訳品質」に達した場合に限りAI翻訳を検討すると述べていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "遭Take-Two下架后\nGTA 6重编译负责人退出",
-          "body": "将泄露Xbox版移至PC的AI-assisted项目Leonida，至少两名负责人已退出。",
-          "mini_headline": "GTA 6重编译负责人退出",
+          "headline": "AI拒译回复\n混进Muv-Luv英文版",
+          "body": "Muv-Luv Girls Gaiden英文版充斥AI拒绝翻译露骨性内容的回复。",
+          "mini_headline": "AI拒译回复混入Muv-Luv",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
+                "cap": "© aNCHOR inc"
               },
               {
                 "t": "p",
-                "x": "就在爆料者Cyberleek公开近乎完成的Grand Theft Auto 6 Xbox版本可执行文件仅一天后，规模最大、最知名的PC重编译项目Leonida至少有两名负责人宣布退出——似乎是迫于Take-Two和Rockstar的压力。"
+                "x": "AI还无法接手游戏的翻译工作，缺少人工把关，就可能出现Muv-Luv Girls Gaiden这样的情况：该作刚推出的英文版里，满是宣称拒绝翻译“露骨性内容”的游戏内文本。"
               },
               {
                 "t": "p",
-                "x": "这个exe为重编译项目打开了大门，让它们能借助AI迅速做出可在PC上运行的游戏版本。团队在一次直播中让GTA 6的启动画面在PC上显示出来，不过随后便崩溃了。"
+                "x": "Girls Gaiden是长寿日本黄油系列的放置类RPG抽卡衍生作，2025年在日本推出全年龄版和成人版。其Steam页面上的日文公告确认部分翻译借助AI工具完成。玩家发现，对白被丢进AI工具后未经检查就放回游戏，留下无数类似“我无法提供露骨性内容的翻译”的句子。"
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
+                "cap": "© Antares1368 / X"
               },
               {
                 "t": "p",
-                "x": "“我不干了，伙计们。抱歉。”看似是项目负责人的NotRexed在X上发帖，随后补充说：“Rockstar关掉我的服务器只是部分原因。”另一名负责人Shayder删除了其全部X帖子。"
-              },
-              {
-                "t": "p",
-                "x": "其他类似项目仍在推进，一个新的GitHub仓库自称是“NotRexed's Leonida项目的延续”。AI的出现让主机游戏移植到PC变得更简单、更快速，也让想压住这类项目的公司更加头疼。"
+                "x": "全年龄版在Steam上的评价为“多半差评（Mostly Negative）”，多数评测都提到翻译质量。开发商Moedoki去年曾表示，只有在“翻译质量达到可与母语译者相媲美的水平”时才会考虑AI翻译。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tras las retiradas de Take-Two,\ndimiten líderes del recomp GTA 6",
-          "body": "Al menos dos líderes de Leonida, iniciativa AI-assisted para llevar la build filtrada de Xbox a PC, lo dejan.",
-          "mini_headline": "Dimiten líderes del recomp de GTA 6",
+          "headline": "Las negativas de la IA acaban\nen el Muv-Luv en inglés",
+          "body": "Muv-Luv Girls Gaiden salió en inglés lleno de negativas de la IA a traducir su contenido sexual explícito.",
+          "mini_headline": "Negativas de IA en Muv-Luv",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
+                "cap": "© aNCHOR inc"
               },
               {
                 "t": "p",
-                "x": "Apenas un día después de que el filtrador Cyberleek publicara el ejecutable de la build casi completa de Grand Theft Auto 6 para Xbox, al menos dos de los líderes de Leonida, el mayor y más conocido intento de recompilarlo para que funcione en PC, lo han dejado, al parecer bajo presión de Take-Two y Rockstar."
+                "x": "La IA no es capaz de asumir la traducción de un juego, y sin supervisión humana se puede acabar con algo como Muv-Luv Girls Gaiden, que acaba de publicar una versión en inglés compuesta por texto del juego que declara su negativa a traducir \"contenido sexual explícito\"."
               },
               {
                 "t": "p",
-                "x": "El exe abrió la puerta a que los proyectos de recompilación aprovecharan la AI para preparar rápidamente una versión del juego que funcione en PC. Durante una retransmisión en directo, el equipo logró mostrar la pantalla de inicio de GTA 6 en PC, aunque después el juego se bloqueó."
+                "x": "Girls Gaiden es un spin-off gacha de RPG idle de la veterana franquicia japonesa de eroge, lanzado en Japón en 2025 en versiones para todas las edades y explícita. Un aviso en japonés en su página de Steam confirma que algunas traducciones se completaron con herramientas de IA. Los fans descubrieron que los diálogos pasaron por herramientas de IA y volvieron al juego sin revisión, lo que dejó incontables líneas como \"No puedo ofrecer una traducción de contenido sexual explícito\"."
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
+                "cap": "© Antares1368 / X"
               },
               {
                 "t": "p",
-                "x": "“Lo dejo, chicos. Lo siento”, publicó en X NotRexed, al parecer el responsable del proyecto, que después añadió que “que Rockstar tumbara mi servidor fue solo parte del motivo”. Shayder, otro de los líderes, borró todas sus publicaciones en X."
-              },
-              {
-                "t": "p",
-                "x": "Hay otros proyectos similares en marcha, y un nuevo repositorio de GitHub se describe como “una continuación del proyecto NotRexed's Leonida”. La llegada de la AI simplifica y acelera mucho el traslado de juegos de consola a PC, lo que complica las cosas a las empresas que quieren mantener a raya este tipo de proyectos."
+                "x": "La versión para todas las edades en Steam tiene una valoración Mostly Negative, y la mayoría de las reseñas citan la calidad de la traducción. La desarrolladora Moedoki dijo el año pasado que solo consideraría la traducción con IA con \"una calidad de traducción comparable a la de traductores nativos\"."
               }
             ]
           }
@@ -967,121 +809,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Take-Two 삭제조치에\nGTA 6 이식 리드 사임",
-          "body": "Xbox→PC AI-assisted 이식 Leonida의 리드 둘 이상이 떠났다.",
-          "mini_headline": "GTA 6 리컴파일 리드 하차",
+          "headline": "AI 번역 거부 문구가\nMuv-Luv 영문판에",
+          "body": "Muv-Luv 외전 영문판에 성적 내용 번역을 거부한 AI 답변이 실렸다.",
+          "mini_headline": "Muv-Luv에 실린 AI 번역 거부문",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
+                "cap": "© aNCHOR inc"
               },
               {
                 "t": "p",
-                "x": "유출자 Cyberleek가 거의 완성된 Grand Theft Auto 6 Xbox 빌드의 실행 파일을 공개한 지 불과 하루 만에, 이를 PC에서 돌아가도록 리컴파일하려는 가장 크고 잘 알려진 프로젝트인 Leonida의 리드 중 최소 두 명이 손을 뗐다. Take-Two와 Rockstar의 압박 때문인 것으로 보인다."
+                "x": "AI는 게임 번역을 대신 맡을 수준이 아니며, 사람의 검수가 없으면 Muv-Luv Girls Gaiden 같은 결과가 나올 수 있다. 이 게임은 \"노골적인 성적 콘텐츠\" 번역을 거부한다고 선언하는 게임 내 텍스트로 채워진 영어판을 막 내놓았다."
               },
               {
                 "t": "p",
-                "x": "이 exe 덕분에 리컴파일 프로젝트들은 AI를 활용해 PC에서 돌아가는 게임 버전을 빠르게 만들어낼 길이 열렸다. 팀은 라이브 방송 중 PC에서 GTA 6 스플래시 화면을 띄우는 데 성공했지만, 그 직후 게임이 멈췄다."
+                "x": "Girls Gaiden은 오래 이어져 온 일본 에로게 프랜차이즈의 방치형 RPG 가챠 스핀오프로, 2025년 일본에서 전연령판과 성인판으로 출시됐다. Steam 페이지의 일본어 공지는 일부 번역을 AI 도구로 완성했다고 확인한다. 팬들은 대사가 AI 도구에 들어갔다가 검수 없이 그대로 게임에 돌아온 탓에 \"노골적인 성적 콘텐츠는 번역해 드릴 수 없습니다\" 같은 문장이 셀 수 없이 남았다는 사실을 발견했다."
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
+                "cap": "© Antares1368 / X"
               },
               {
                 "t": "p",
-                "x": "“여러분, 그만두겠습니다. 죄송합니다.” 프로젝트 책임자로 보이는 NotRexed는 X에 이렇게 올렸고, 이후 “Rockstar가 내 서버를 내린 건 이유의 일부일 뿐”이라고 덧붙였다. 또 다른 리드인 Shayder는 자신의 X 게시물을 모두 삭제했다."
-              },
-              {
-                "t": "p",
-                "x": "비슷한 프로젝트가 여럿 진행 중이며, 새 GitHub 저장소는 스스로를 “NotRexed's Leonida 프로젝트의 후속”이라고 소개한다. AI의 등장으로 콘솔 게임을 PC로 옮기는 일이 훨씬 쉽고 빨라졌고, 이런 프로젝트를 막으려는 기업들은 더 힘든 처지에 놓였다."
+                "x": "전연령판 Steam 출시작은 '대체로 부정적(Mostly Negative)' 평가를 받고 있으며, 리뷰 대부분이 번역 품질을 지적한다. 개발사 Moedoki는 지난해 \"원어민 번역가에 견줄 만한 수준의 번역 품질\"에 이르러야만 AI 번역을 검토하겠다고 밝힌 바 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Take-Twoの削除で\nGTA 6移植リードが離脱",
-          "body": "Xbox版をPCへ移すAI-assistedのLeonidaで、リード二人以上が抜けた。",
-          "mini_headline": "GTA 6リコンパイルのリードが離脱",
+          "headline": "AIの翻訳拒否文が\nMuv-Luv英語版に",
+          "body": "Muv-Luv Girls Gaidenの英語版に性描写の翻訳を拒むAIの応答が並んだ。",
+          "mini_headline": "Muv-Luvに残ったAIの翻訳拒否",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
+                "cap": "© aNCHOR inc"
               },
               {
                 "t": "p",
-                "x": "リーカーのCyberleekが、ほぼ完成したGrand Theft Auto 6のXboxビルドの実行ファイルを公開してからわずか一日後、これをPCで動かすためのリコンパイル計画として最大かつ最も知られるLeonidaのリードのうち、少なくとも二人が手を引いた。Take-TwoとRockstarからの圧力を受けたものとみられる。"
+                "x": "AIはゲームの翻訳業務を肩代わりできる段階になく、人の確認がなければMuv-Luv Girls Gaidenのような事態になりかねない。同作は、「露骨な性的コンテンツ」の翻訳を拒否すると宣言するゲーム内テキストで構成された英語版を出したばかりだ。"
               },
               {
                 "t": "p",
-                "x": "このexeによって、リコンパイル計画がAIを活用し、PCで動くゲームのバージョンを素早く作り上げる道が開かれた。チームはライブ配信中にPC上でGTA 6のスプラッシュ画面を表示させたが、その後クラッシュした。"
+                "x": "Girls Gaidenは長寿の日本のエロゲフランチャイズから生まれた放置系RPGのガチャ派生作品で、2025年に日本で全年齢版と成人向け版が発売された。Steamページの日本語の告知は、一部の翻訳をAIツールで行ったことを認めている。ファンは、台詞がAIツールに流し込まれ、確認されないままゲームに戻されたことで、「露骨な性的コンテンツの翻訳は提供できません」といった文が無数に残っていることを見つけた。"
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
+                "cap": "© Antares1368 / X"
               },
               {
                 "t": "p",
-                "x": "「みんな、辞めるよ。ごめん」。プロジェクトの責任者とみられるNotRexedはXにそう投稿し、のちに「Rockstarにサーバーを落とされたのは理由の一部にすぎない」と付け加えた。もう一人のリードであるShayderは、自身のX投稿をすべて削除した。"
-              },
-              {
-                "t": "p",
-                "x": "同様のプロジェクトはほかにも進行中で、新たなGitHubリポジトリは自らを「NotRexed's Leonidaプロジェクトの継続」と称している。AIの登場によりコンソールゲームのPC移植は大幅に簡単かつ迅速になり、こうしたプロジェクトを抑え込みたい企業にとっては厳しい状況になっている。"
+                "x": "全年齢版のSteamリリースは「やや不評（Mostly Negative）」の評価で、レビューの多くが翻訳品質を挙げている。開発元のMoedokiは昨年、「ネイティブ翻訳者に匹敵する水準の翻訳品質」に達した場合に限りAI翻訳を検討すると述べていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "遭Take-Two下架后\nGTA 6重编译负责人退出",
-          "body": "将泄露Xbox版移至PC的AI-assisted项目Leonida，至少两名负责人已退出。",
-          "mini_headline": "GTA 6重编译负责人退出",
+          "headline": "AI拒译回复\n混进Muv-Luv英文版",
+          "body": "Muv-Luv Girls Gaiden英文版充斥AI拒绝翻译露骨性内容的回复。",
+          "mini_headline": "AI拒译回复混入Muv-Luv",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
+                "cap": "© aNCHOR inc"
               },
               {
                 "t": "p",
-                "x": "就在爆料者Cyberleek公开近乎完成的Grand Theft Auto 6 Xbox版本可执行文件仅一天后，规模最大、最知名的PC重编译项目Leonida至少有两名负责人宣布退出——似乎是迫于Take-Two和Rockstar的压力。"
+                "x": "AI还无法接手游戏的翻译工作，缺少人工把关，就可能出现Muv-Luv Girls Gaiden这样的情况：该作刚推出的英文版里，满是宣称拒绝翻译“露骨性内容”的游戏内文本。"
               },
               {
                 "t": "p",
-                "x": "这个exe为重编译项目打开了大门，让它们能借助AI迅速做出可在PC上运行的游戏版本。团队在一次直播中让GTA 6的启动画面在PC上显示出来，不过随后便崩溃了。"
+                "x": "Girls Gaiden是长寿日本黄油系列的放置类RPG抽卡衍生作，2025年在日本推出全年龄版和成人版。其Steam页面上的日文公告确认部分翻译借助AI工具完成。玩家发现，对白被丢进AI工具后未经检查就放回游戏，留下无数类似“我无法提供露骨性内容的翻译”的句子。"
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
+                "cap": "© Antares1368 / X"
               },
               {
                 "t": "p",
-                "x": "“我不干了，伙计们。抱歉。”看似是项目负责人的NotRexed在X上发帖，随后补充说：“Rockstar关掉我的服务器只是部分原因。”另一名负责人Shayder删除了其全部X帖子。"
-              },
-              {
-                "t": "p",
-                "x": "其他类似项目仍在推进，一个新的GitHub仓库自称是“NotRexed's Leonida项目的延续”。AI的出现让主机游戏移植到PC变得更简单、更快速，也让想压住这类项目的公司更加头疼。"
+                "x": "全年龄版在Steam上的评价为“多半差评（Mostly Negative）”，多数评测都提到翻译质量。开发商Moedoki去年曾表示，只有在“翻译质量达到可与母语译者相媲美的水平”时才会考虑AI翻译。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tras las retiradas de Take-Two,\ndimiten líderes del recomp GTA 6",
-          "body": "Al menos dos líderes de Leonida, iniciativa AI-assisted para llevar la build filtrada de Xbox a PC, lo dejan.",
-          "mini_headline": "Dimiten líderes del recomp de GTA 6",
+          "headline": "Las negativas de la IA acaban\nen el Muv-Luv en inglés",
+          "body": "Muv-Luv Girls Gaiden salió en inglés lleno de negativas de la IA a traducir su contenido sexual explícito.",
+          "mini_headline": "Negativas de IA en Muv-Luv",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
+                "cap": "© aNCHOR inc"
               },
               {
                 "t": "p",
-                "x": "Apenas un día después de que el filtrador Cyberleek publicara el ejecutable de la build casi completa de Grand Theft Auto 6 para Xbox, al menos dos de los líderes de Leonida, el mayor y más conocido intento de recompilarlo para que funcione en PC, lo han dejado, al parecer bajo presión de Take-Two y Rockstar."
+                "x": "La IA no es capaz de asumir la traducción de un juego, y sin supervisión humana se puede acabar con algo como Muv-Luv Girls Gaiden, que acaba de publicar una versión en inglés compuesta por texto del juego que declara su negativa a traducir \"contenido sexual explícito\"."
               },
               {
                 "t": "p",
-                "x": "El exe abrió la puerta a que los proyectos de recompilación aprovecharan la AI para preparar rápidamente una versión del juego que funcione en PC. Durante una retransmisión en directo, el equipo logró mostrar la pantalla de inicio de GTA 6 en PC, aunque después el juego se bloqueó."
+                "x": "Girls Gaiden es un spin-off gacha de RPG idle de la veterana franquicia japonesa de eroge, lanzado en Japón en 2025 en versiones para todas las edades y explícita. Un aviso en japonés en su página de Steam confirma que algunas traducciones se completaron con herramientas de IA. Los fans descubrieron que los diálogos pasaron por herramientas de IA y volvieron al juego sin revisión, lo que dejó incontables líneas como \"No puedo ofrecer una traducción de contenido sexual explícito\"."
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
+                "cap": "© Antares1368 / X"
               },
               {
                 "t": "p",
-                "x": "“Lo dejo, chicos. Lo siento”, publicó en X NotRexed, al parecer el responsable del proyecto, que después añadió que “que Rockstar tumbara mi servidor fue solo parte del motivo”. Shayder, otro de los líderes, borró todas sus publicaciones en X."
-              },
-              {
-                "t": "p",
-                "x": "Hay otros proyectos similares en marcha, y un nuevo repositorio de GitHub se describe como “una continuación del proyecto NotRexed's Leonida”. La llegada de la AI simplifica y acelera mucho el traslado de juegos de consola a PC, lo que complica las cosas a las empresas que quieren mantener a raya este tipo de proyectos."
+                "x": "La versión para todas las edades en Steam tiene una valoración Mostly Negative, y la mayoría de las reseñas citan la calidad de la traducción. La desarrolladora Moedoki dijo el año pasado que solo consideraría la traducción con IA con \"una calidad de traducción comparable a la de traductores nativos\"."
               }
             ]
           }
@@ -1089,15 +939,15 @@
       }
     },
     {
-      "id": "shogi-ai-denryusen-sente",
-      "source_lang": "ja",
+      "id": "corcos-claude-civ-clone",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "쇼기 AI 너무 강해져\n선공 승률 8할",
-      "body": "덴류센 결승에서 시간차에도 선공이 약 8할을 이겨 야네우라오가 운영난을 짚었다.",
-      "mini_headline": "쇼기 AI, 선공 8할 승리",
+      "headline": "재무부 CIO의 바이브코딩\nClaude로 Civ 복제",
+      "body": "보안 사고 와중에 재무부 CIO가 Claude로 4X 게임 Legatum을 만든다.",
+      "mini_headline": "재무부 관료의 Civ 바이브 코딩",
       "tool": "Games",
-      "source": "AUTOMATON",
-      "url": "https://automaton-media.com/articles/newsjp/20261123-480506/",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/strategy/us-treasury-official-using-claude-to-create-a-civilization-clone-tries-to-shut-down-worries-hes-too-busy-vibecoding-during-cybersecurity-breach-the-computers-are-doing-it-on-their-own/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1105,375 +955,265 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
+            "cap": "이미지 출처: 2K/Firaxis"
           },
           {
             "t": "p",
-            "x": "NPO 법인 AI 덴류센 프로젝트가 11월 14일과 15일 문부과학대신배 제7회 세계 쇼기 AI 덴류센 본선을 열었다. 대회가 끝난 뒤 쇼기 AI ‘야네우라왕’ 개발자 야네우라오 씨는 블로그에 쇼기 AI가 너무 강해져 대회 운영이 어려워지고 있다는 생각을 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
+            "x": "DOGE 경로로 임명된 Sam Corcos는 2025년 재무부 특별 고문으로 합류해 최고정보책임자(CIO)가 됐다. 부처를 덮친 사이버 보안 침해 사고로 강도 높은 조사가 이어지는데도 그는 자리를 지키며 \"Civilization을 사랑하는 사람들을 위해 만든 헥스 맵 기반 역사 4X\" 게임 Legatum을 바이브 코딩한다."
           },
           {
             "t": "p",
-            "x": "결승 리그에는 10개 팀이 나섰다. 같은 상대와 선공·후공을 모두 두는 방식이었고, 유리하다고 여겨지는 선공의 제한 시간은 3분(후공은 10분, 1수마다 2초 추가)으로 묶었다. 후공이 조금 유리한 규칙인데도 선공 승률은 약 80%에 달했다."
-          },
-          {
-            "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
+            "x": "\"Legatum은 대부분 AI 코딩 에이전트로 만들었고, 아트는 전부 AI로 생성했다(AI-generated)\"고 GitHub readme에 적혀 있다. 아트 대부분은 ChatGPT를 거쳐 OpenAI의 이미지 모델로 만들었다."
           },
           {
             "t": "p",
-            "x": "과거 프로 기사 공식전에서 선공 승률은 52~53% 안팎이었다. 올해 세계 컴퓨터 쇼기 선수권과 덴류센 TSEC에서도 선공 승률은 약 80~90%를 찍었다. 센니치테(동일 국면 반복)가 나오면 선공에 0.4승, 후공에 0.6승을 주는 등 후공을 배려한 규칙도 이미 있다."
-          },
-          {
-            "t": "p",
-            "x": "야네우라오 씨는 반년쯤 전부터 코딩 AI가 발전하면서 쇼기 AI 개발도 빠르게 나아갔다고 본다. 상위권 실력 차는 줄었고, 상위 쇼기 AI는 모두 정석에 결함만 없으면 선공으로는 지지 않는 수준에 올라섰다고 한다. 선공과 후공의 차이를 메울 새 규칙을 만드는 일이 앞으로의 과제로 남았다."
+            "x": "재무부 산하 기관 FinCEN이 \"시스템 일부에 대한 무단 접근으로 이어진\" \"사이버 보안 사고\"에 대응하는 사이 최근 며칠 동안 업데이트가 수십 건 올라왔다. Corcos는 \"컴퓨터가 알아서 하고 있다. 주로 Opus 5.5가 여러 반복 루프를 지휘한다\"고 트윗했다. 하지만 404 Media가 짚었듯 그는 기능마다 Claude에 꾸준히 피드백을 준다. \"재무부 CIO는 일은 안 하고 바이브코딩하느라 바쁘다\"는 GitHub 이슈는 \"주제 무관(off-topic)\"으로 닫혔고 그 답변마저 Claude가 썼다."
           }
         ]
       },
       "text": {
-        "ja": {
-          "headline": "将棋AIが強すぎて\n先手勝率8割に",
-          "body": "電竜戦決勝で持ち時間に差をつけても先手が約8割勝ち、やねうらお氏が運営難を指摘した。",
-          "mini_headline": "将棋AI、先手8割勝つ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
-              },
-              {
-                "t": "p",
-                "x": "NPO法人AI電竜戦プロジェクトは11月14日と15日、文部科学大臣杯第7回世界将棋AI電竜戦本戦を開催した。その後、将棋AI「やねうら王」の開発者であるやねうらお氏は自身のブログにて、将棋AIが強くなりすぎて大会運営が困難になりつつあるという見解を示した。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
-              },
-              {
-                "t": "p",
-                "x": "決勝リーグでは10チームが競い合った。対局は同じカードで先手・後手の両方がおこなわれ、有利だとされる先手の持ち時間は3分（後手は10分、1手ごとに2秒加算）。やや後手が有利なルールにも関わらず、先手勝率が約80％に達した。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
-              },
-              {
-                "t": "p",
-                "x": "過去のプロ棋士の公式戦の先手勝率は52～53％前後。今年の世界コンピュータ将棋選手権や電竜戦TSECでも先手勝率は約80～90％を記録した。千日手では先手に0.4勝、後手に0.6勝が加算されるなど、後手に有利なルールも設けられている。"
-              },
-              {
-                "t": "p",
-                "x": "やねうらお氏によると、半年ほど前からコーディングAIの進歩によって将棋AIの開発も急速に発展。上位勢の実力差が縮まり、上位の将棋AIはどれも定跡に欠陥がない限り先手では負けないレベルに到達しているという。今後は先手と後手の差を埋める新たなルール整備が課題となりそうだ。"
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "Shogi AI is now so strong the\nfirst mover wins 8 in 10",
-          "body": "In the Denryu-sen final, the first mover won about 8 in 10 despite less time, and Yaneurao said it strains organizers.",
-          "mini_headline": "Shogi AI: first mover wins 8 in 10",
+          "headline": "A Treasury official vibe-codes\na Civ clone with Claude",
+          "body": "Treasury official Sam Corcos is vibe-coding Legatum, a Civilization-style 4X, with Claude amid breach worries.",
+          "mini_headline": "Treasury official vibe-codes Civ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
+                "cap": "Image credit: 2K/Firaxis"
               },
               {
                 "t": "p",
-                "x": "The NPO AI Denryu-sen Project held the main tournament of the 7th World Shogi AI Denryu-sen, the Minister of Education, Culture, Sports, Science and Technology Cup, on November 14 and 15. Afterward, Yaneurao, developer of the shogi AI “Yaneura-ou,” wrote on his blog that shogi AIs have grown so strong that running tournaments is becoming difficult."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
+                "x": "Sam Corcos, appointed via DOGE, joined the Treasury Department as special advisor in 2025 and became its chief information officer. He remains in that position amid a heavily scrutinized cybersecurity breach at the department, while vibe-coding Legatum, a \"historical 4X on a hex map, built for people who love Civilization.\""
               },
               {
                 "t": "p",
-                "x": "10 teams competed in the final league. Each pairing was played with both sides taking the first and second move, and the first mover, considered to have the advantage, got 3 minutes (the second mover 10 minutes, plus 2 seconds for every 1 move). Despite rules that slightly favor the second mover, the first mover's win rate reached about 80%."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
+                "x": "\"Legatum is built largely with AI coding agents, and all of its art is AI-generated,\" its GitHub readme says, with most art from OpenAI's image models through ChatGPT."
               },
               {
                 "t": "p",
-                "x": "In past official games between professional players, the first mover's win rate has been around 52 to 53%. At this year's World Computer Shogi Championship and the Denryu-sen TSEC, the first mover's win rate was about 80 to 90%. Rules favoring the second mover are also in place, such as awarding 0.4 wins to the first mover and 0.6 wins to the second in a sennichite (repetition draw)."
-              },
-              {
-                "t": "p",
-                "x": "According to Yaneurao, advances in coding AI over roughly the past half year have rapidly accelerated shogi AI development as well. The gap between top contenders has narrowed, and the top shogi AIs have all reached a level where they do not lose as the first mover unless their opening book has a flaw. Creating new rules to close the gap between first and second movers looks set to be the next challenge."
+                "x": "Dozens of updates landed in the past few days while FinCEN, a Treasury bureau, deals with a \"cybersecurity incident\" that \"resulted in unauthorized access to a limited subset of its systems.\" Corcos tweeted that \"the computers are doing it on their own. Mostly Opus 5.5 orchestrating a bunch of iterative loops,\" though, as 404 Media notes, he regularly gives Claude feedback on features. A GitHub issue reading \"Treasury CIO is too busy vibecoding instead of doing his job\" was closed as \"off-topic\" — a response also generated by Claude."
               }
             ]
           }
         },
         "ko": {
-          "headline": "쇼기 AI 너무 강해져\n선공 승률 8할",
-          "body": "덴류센 결승에서 시간차에도 선공이 약 8할을 이겨 야네우라오가 운영난을 짚었다.",
-          "mini_headline": "쇼기 AI, 선공 8할 승리",
+          "headline": "재무부 CIO의 바이브코딩\nClaude로 Civ 복제",
+          "body": "보안 사고 와중에 재무부 CIO가 Claude로 4X 게임 Legatum을 만든다.",
+          "mini_headline": "재무부 관료의 Civ 바이브 코딩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
+                "cap": "이미지 출처: 2K/Firaxis"
               },
               {
                 "t": "p",
-                "x": "NPO 법인 AI 덴류센 프로젝트가 11월 14일과 15일 문부과학대신배 제7회 세계 쇼기 AI 덴류센 본선을 열었다. 대회가 끝난 뒤 쇼기 AI ‘야네우라왕’ 개발자 야네우라오 씨는 블로그에 쇼기 AI가 너무 강해져 대회 운영이 어려워지고 있다는 생각을 밝혔다."
+                "x": "DOGE 경로로 임명된 Sam Corcos는 2025년 재무부 특별 고문으로 합류해 최고정보책임자(CIO)가 됐다. 부처를 덮친 사이버 보안 침해 사고로 강도 높은 조사가 이어지는데도 그는 자리를 지키며 \"Civilization을 사랑하는 사람들을 위해 만든 헥스 맵 기반 역사 4X\" 게임 Legatum을 바이브 코딩한다."
               },
+              {
+                "t": "p",
+                "x": "\"Legatum은 대부분 AI 코딩 에이전트로 만들었고, 아트는 전부 AI로 생성했다(AI-generated)\"고 GitHub readme에 적혀 있다. 아트 대부분은 ChatGPT를 거쳐 OpenAI의 이미지 모델로 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "재무부 산하 기관 FinCEN이 \"시스템 일부에 대한 무단 접근으로 이어진\" \"사이버 보안 사고\"에 대응하는 사이 최근 며칠 동안 업데이트가 수십 건 올라왔다. Corcos는 \"컴퓨터가 알아서 하고 있다. 주로 Opus 5.5가 여러 반복 루프를 지휘한다\"고 트윗했다. 하지만 404 Media가 짚었듯 그는 기능마다 Claude에 꾸준히 피드백을 준다. \"재무부 CIO는 일은 안 하고 바이브코딩하느라 바쁘다\"는 GitHub 이슈는 \"주제 무관(off-topic)\"으로 닫혔고 그 답변마저 Claude가 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "財務省高官が\nClaudeでCiv風ゲーム",
+          "body": "財務省のSam Corcosが侵害騒動の中Claudeで4XのLegatumを開発中だ。",
+          "mini_headline": "財務省高官がCivをバイブコーディング",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
+                "cap": "画像提供: 2K/Firaxis"
               },
               {
                 "t": "p",
-                "x": "결승 리그에는 10개 팀이 나섰다. 같은 상대와 선공·후공을 모두 두는 방식이었고, 유리하다고 여겨지는 선공의 제한 시간은 3분(후공은 10분, 1수마다 2초 추가)으로 묶었다. 후공이 조금 유리한 규칙인데도 선공 승률은 약 80%에 달했다."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
+                "x": "DOGEを通じて任命されたSam Corcosは、2025年に特別顧問として財務省に加わり、最高情報責任者（CIO）に就いた。同省で厳しく追及されているサイバーセキュリティ侵害のさなかにもその職にとどまりつつ、「Civilizationを愛する人のために作られた、ヘックスマップ上の歴史4X」であるLegatumをバイブコーディングしている。"
               },
               {
                 "t": "p",
-                "x": "과거 프로 기사 공식전에서 선공 승률은 52~53% 안팎이었다. 올해 세계 컴퓨터 쇼기 선수권과 덴류센 TSEC에서도 선공 승률은 약 80~90%를 찍었다. 센니치테(동일 국면 반복)가 나오면 선공에 0.4승, 후공에 0.6승을 주는 등 후공을 배려한 규칙도 이미 있다."
+                "x": "GitHubのreadmeには「Legatumは大部分をAIコーディングエージェントで構築し、アートはすべてAI生成（AI-generated）だ」とあり、アートの大半はChatGPTを通じてOpenAIの画像モデルで作られた。"
               },
               {
                 "t": "p",
-                "x": "야네우라오 씨는 반년쯤 전부터 코딩 AI가 발전하면서 쇼기 AI 개발도 빠르게 나아갔다고 본다. 상위권 실력 차는 줄었고, 상위 쇼기 AI는 모두 정석에 결함만 없으면 선공으로는 지지 않는 수준에 올라섰다고 한다. 선공과 후공의 차이를 메울 새 규칙을 만드는 일이 앞으로의 과제로 남았다."
+                "x": "財務省の一部局であるFinCENが「システムの限られた一部への不正アクセスにつながった」「サイバーセキュリティインシデント」に対応する間にも、ここ数日で数十件のアップデートが投入された。Corcosは「コンピューターが勝手にやっている。主にOpus 5.5が多数の反復ループを統括している」とツイートしたが、404 Mediaが指摘するように、彼は機能についてClaudeに定期的にフィードバックを与えている。「財務省CIOは仕事をせずにバイブコーディングで忙しい」というGitHubのissueは「off-topic（話題外）」として閉じられたが、この返答もClaudeが生成したものだった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "将棋AI过于强大\n先手胜率达8成",
-          "body": "电龙战决赛中即便设置用时差，先手仍胜约8成，やねうらお指出赛事难办。",
-          "mini_headline": "将棋AI先手胜率达8成",
+          "headline": "财政部官员用Claude\n氛围编程仿Civ游戏",
+          "body": "财政部官员Sam Corcos在入侵风波中用Claude氛围编程4X游戏Legatum。",
+          "mini_headline": "财政部官员氛围编程Civ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
+                "cap": "图片来源：2K/Firaxis"
               },
               {
                 "t": "p",
-                "x": "NPO法人AI电龙战项目于11月14日和15日举办了文部科学大臣杯第7届世界将棋AI电龙战正赛。此后，将棋AI“やねうら王”的开发者やねうらお在个人博客中表示，将棋AI已经强到让赛事运营日益困难。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
+                "x": "经DOGE任命的Sam Corcos于2025年以特别顾问身份加入财政部，并成为其首席信息官（CIO）。在该部门遭遇备受审视的网络安全入侵事件之际，他仍在任，同时用氛围编程开发Legatum——一款“基于六边形地图的历史4X游戏，为热爱Civilization的人打造”。"
               },
               {
                 "t": "p",
-                "x": "决赛联赛共有10支队伍参赛。同一对阵双方各执先手、后手对局，被视为占优的先手用时为3分钟（后手为10分钟，每1手加2秒）。尽管规则略微偏向后手，先手胜率仍达到约80%。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
+                "x": "其GitHub readme写道：“Legatum主要由AI编程代理构建，所有美术均为AI生成（AI-generated）。”大部分美术来自通过ChatGPT调用的OpenAI图像模型。"
               },
               {
                 "t": "p",
-                "x": "过去职业棋士正式比赛的先手胜率约为52～53%。今年的世界电脑将棋锦标赛和电龙战TSEC中，先手胜率也达到约80～90%。规则中还设有偏向后手的条款，例如千日手时先手计0.4胜、后手计0.6胜。"
-              },
-              {
-                "t": "p",
-                "x": "据やねうらお介绍，大约半年前起，编程AI的进步推动将棋AI开发迅速发展。顶尖选手之间的实力差距缩小，顶级将棋AI只要定式没有缺陷，已达到执先手不会输的水平。今后如何制定新规则来弥合先后手差距，将成为课题。"
+                "x": "过去几天里，该项目更新了数十次，而财政部下属机构FinCEN正在处理一起“导致其部分有限系统遭未授权访问”的“网络安全事件”。Corcos发推称“电脑在自己干活，主要是Opus 5.5在统筹一堆迭代循环”，但正如404 Media指出的，他经常就功能向Claude提供反馈。一条写着“财政部CIO忙着氛围编程，不干正事”的GitHub issue被以“off-topic（离题）”为由关闭——这条回复同样由Claude生成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI de shogi es tan fuerte\nque el primero gana 8 de cada 10",
-          "body": "Yaneurao alerta de que, en la final del Denryu-sen, el primero ganó unas 8 de cada 10 pese a tener menos tiempo.",
-          "mini_headline": "Shogi AI: el primero gana 8 de cada 10",
+          "headline": "Un alto cargo del Tesoro crea\ncon Claude un clon de Civ",
+          "body": "Sam Corcos, del Tesoro, hace vibe-coding con Claude de Legatum, un 4X al estilo Civilization, en plena brecha.",
+          "mini_headline": "Un cargo del Tesoro hace vibe-coding de un Civ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
+                "cap": "Crédito de imagen: 2K/Firaxis"
               },
               {
                 "t": "p",
-                "x": "El AI Denryu-sen Project, una NPO, celebró los días 14 y 15 de noviembre la fase principal del 7.º Campeonato Mundial de Shogi AI Denryu-sen, Copa del Ministro de Educación, Cultura, Deportes, Ciencia y Tecnología. Después, Yaneurao, desarrollador de la AI de shogi «Yaneura-ou», expuso en su blog que las AI de shogi se han vuelto tan fuertes que organizar torneos empieza a ser difícil."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
+                "x": "Sam Corcos, nombrado a través de DOGE, se incorporó al Departamento del Tesoro como asesor especial en 2025 y pasó a ser su director de sistemas de información. Sigue en ese puesto en medio de una brecha de ciberseguridad en el departamento sometida a un intenso escrutinio, mientras hace vibe-coding de Legatum, un \"4X histórico sobre un mapa hexagonal, creado para quienes adoran Civilization\"."
               },
               {
                 "t": "p",
-                "x": "En la liga final compitieron 10 equipos. Cada emparejamiento se jugó con ambos bandos como primero y segundo en mover, y el primero, considerado con ventaja, tenía 3 minutos (el segundo, 10 minutos, con 2 segundos añadidos por cada 1 jugada). Pese a unas reglas que favorecen ligeramente al segundo, la tasa de victorias del primero alcanzó cerca del 80%."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
+                "x": "\"Legatum está construido en gran parte con agentes de programación de AI, y todo su arte es AI-generated (generado por AI)\", indica su readme de GitHub; la mayor parte del arte procede de los modelos de imagen de OpenAI a través de ChatGPT."
               },
               {
                 "t": "p",
-                "x": "En las partidas oficiales de profesionales, la tasa de victorias del primero ha rondado entre el 52 y el 53%. En el Campeonato Mundial de Shogi por Computadora de este año y en el Denryu-sen TSEC, la tasa del primero también fue de aproximadamente entre el 80 y el 90%. También hay reglas que favorecen al segundo: en un sennichite (repetición) se suman 0.4 victorias al primero y 0.6 al segundo."
-              },
-              {
-                "t": "p",
-                "x": "Según Yaneurao, desde hace cerca de medio año los avances de la AI de programación han acelerado también el desarrollo de las AI de shogi. La diferencia entre los mejores se ha reducido, y todas las AI de shogi punteras han llegado a un nivel en el que no pierden como primeras en mover salvo que su libro de aperturas tenga fallos. El próximo reto parece ser crear nuevas reglas que equilibren la diferencia entre el primero y el segundo."
+                "x": "Decenas de actualizaciones llegaron en los últimos días mientras FinCEN, una oficina del Tesoro, gestiona un \"incidente de ciberseguridad\" que \"derivó en un acceso no autorizado a un subconjunto limitado de sus sistemas\". Corcos tuiteó que \"los ordenadores lo hacen solos. Sobre todo Opus 5.5 orquestando un montón de bucles iterativos\", aunque, como señala 404 Media, suele dar a Claude comentarios sobre funciones. Un issue de GitHub que decía \"El CIO del Tesoro está demasiado ocupado haciendo vibecoding en vez de hacer su trabajo\" se cerró como \"off-topic\", una respuesta también generada por Claude."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Shogi AI is now so strong the\nfirst mover wins 8 in 10",
-          "body": "In the Denryu-sen final, the first mover won about 8 in 10 despite less time, and Yaneurao said it strains organizers.",
-          "mini_headline": "Shogi AI: first mover wins 8 in 10",
+        "ko": {
+          "headline": "재무부 CIO의 바이브코딩\nClaude로 Civ 복제",
+          "body": "재무부 CIO가 보안 사고 속 Claude로 4X 게임 Legatum을 만든다.",
+          "mini_headline": "재무부 관료의 Civ 바이브 코딩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
+                "cap": "이미지 출처: 2K/Firaxis"
               },
               {
                 "t": "p",
-                "x": "The NPO AI Denryu-sen Project held the main tournament of the 7th World Shogi AI Denryu-sen, the Minister of Education, Culture, Sports, Science and Technology Cup, on November 14 and 15. Afterward, Yaneurao, developer of the shogi AI “Yaneura-ou,” wrote on his blog that shogi AIs have grown so strong that running tournaments is becoming difficult."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
+                "x": "DOGE를 통해 임명된 Sam Corcos는 2025년 재무부 특별 고문으로 합류해 최고정보책임자(CIO)가 됐다. 그는 부처를 둘러싼 사이버 보안 침해 사고로 강도 높은 조사가 이어지는 가운데에도 자리를 지키며, \"Civilization을 사랑하는 사람들을 위해 만든 헥스 맵 기반 역사 4X\" 게임 Legatum을 바이브 코딩하고 있다."
               },
               {
                 "t": "p",
-                "x": "10 teams competed in the final league. Each pairing was played with both sides taking the first and second move, and the first mover, considered to have the advantage, got 3 minutes (the second mover 10 minutes, plus 2 seconds for every 1 move). Despite rules that slightly favor the second mover, the first mover's win rate reached about 80%."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
+                "x": "\"Legatum은 대부분 AI 코딩 에이전트로 만들었고, 아트는 전부 AI로 생성했다(AI-generated)\"고 GitHub readme는 밝힌다. 아트 대부분은 ChatGPT를 거쳐 OpenAI의 이미지 모델로 만들었다."
               },
               {
                 "t": "p",
-                "x": "In past official games between professional players, the first mover's win rate has been around 52 to 53%. At this year's World Computer Shogi Championship and the Denryu-sen TSEC, the first mover's win rate was about 80 to 90%. Rules favoring the second mover are also in place, such as awarding 0.4 wins to the first mover and 0.6 wins to the second in a sennichite (repetition draw)."
-              },
-              {
-                "t": "p",
-                "x": "According to Yaneurao, advances in coding AI over roughly the past half year have rapidly accelerated shogi AI development as well. The gap between top contenders has narrowed, and the top shogi AIs have all reached a level where they do not lose as the first mover unless their opening book has a flaw. Creating new rules to close the gap between first and second movers looks set to be the next challenge."
+                "x": "재무부 산하 기관 FinCEN이 \"시스템 일부에 대한 무단 접근으로 이어진\" \"사이버 보안 사고\"에 대응하는 동안, 최근 며칠 사이 수십 건의 업데이트가 올라왔다. Corcos는 \"컴퓨터가 알아서 하고 있다. 주로 Opus 5.5가 여러 반복 루프를 지휘한다\"고 트윗했지만, 404 Media가 짚었듯 그는 기능에 관해 Claude에 꾸준히 피드백을 준다. \"재무부 CIO는 일은 안 하고 바이브코딩하느라 바쁘다\"는 GitHub 이슈는 \"주제 무관(off-topic)\"으로 닫혔는데, 이 답변 역시 Claude가 생성했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "쇼기 AI 너무 강해져\n선공 승률 8할",
-          "body": "덴류센 결승에서 시간차에도 선공이 약 8할을 이겨 야네우라오가 운영난을 짚었다.",
-          "mini_headline": "쇼기 AI, 선공 8할 승리",
+        "ja": {
+          "headline": "財務省高官が\nClaudeでCiv風ゲーム",
+          "body": "財務省のSam Corcosが侵害騒動の中Claudeで4XのLegatumを開発中だ。",
+          "mini_headline": "財務省高官がCivをバイブコーディング",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
+                "cap": "画像提供: 2K/Firaxis"
               },
               {
                 "t": "p",
-                "x": "NPO 법인 AI 덴류센 프로젝트는 11월 14일과 15일 문부과학대신배 제7회 세계 쇼기 AI 덴류센 본선을 열었다. 이후 쇼기 AI ‘야네우라왕’의 개발자인 야네우라오 씨는 자신의 블로그에서 쇼기 AI가 지나치게 강해져 대회 운영이 어려워지고 있다는 견해를 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
+                "x": "DOGEを通じて任命されたSam Corcosは、2025年に特別顧問として財務省に加わり、最高情報責任者（CIO）に就いた。同省で厳しく追及されているサイバーセキュリティ侵害のさなかにもその職にとどまりつつ、「Civilizationを愛する人のために作られた、ヘックスマップ上の歴史4X」であるLegatumをバイブコーディングしている。"
               },
               {
                 "t": "p",
-                "x": "결승 리그에서는 10개 팀이 겨뤘다. 같은 대진으로 선공과 후공을 모두 두었고, 유리하다고 여겨지는 선공의 제한 시간은 3분(후공은 10분, 1수마다 2초 추가)이었다. 후공이 약간 유리한 규칙인데도 선공 승률은 약 80%에 달했다."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
+                "x": "GitHubのreadmeには「Legatumは大部分をAIコーディングエージェントで構築し、アートはすべてAI生成（AI-generated）だ」とあり、アートの大半はChatGPTを通じてOpenAIの画像モデルで作られた。"
               },
               {
                 "t": "p",
-                "x": "과거 프로 기사 공식전의 선공 승률은 52~53% 안팎이다. 올해 세계 컴퓨터 쇼기 선수권과 덴류센 TSEC에서도 선공 승률은 약 80~90%를 기록했다. 센니치테(동일 국면 반복)에서는 선공에 0.4승, 후공에 0.6승을 주는 등 후공에 유리한 규칙도 마련돼 있다."
-              },
-              {
-                "t": "p",
-                "x": "야네우라오 씨에 따르면 반년쯤 전부터 코딩 AI가 발전하면서 쇼기 AI 개발도 빠르게 진전했다. 상위권의 실력 차가 줄었고, 상위 쇼기 AI는 모두 정석에 결함이 없는 한 선공으로는 지지 않는 수준에 이르렀다고 한다. 앞으로는 선공과 후공의 차이를 메울 새 규칙 마련이 과제가 될 것으로 보인다."
+                "x": "財務省の一部局であるFinCENが「システムの限られた一部への不正アクセスにつながった」「サイバーセキュリティインシデント」に対応する間にも、ここ数日で数十件のアップデートが投入された。Corcosは「コンピューターが勝手にやっている。主にOpus 5.5が多数の反復ループを統括している」とツイートしたが、404 Mediaが指摘するように、彼は機能についてClaudeに定期的にフィードバックを与えている。「財務省CIOは仕事をせずにバイブコーディングで忙しい」というGitHubのissueは「off-topic（話題外）」として閉じられたが、この返答もClaudeが生成したものだった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "将棋AI过于强大\n先手胜率达8成",
-          "body": "电龙战决赛中即便设置用时差，先手仍胜约8成，やねうらお指出赛事难办。",
-          "mini_headline": "将棋AI先手胜率达8成",
+          "headline": "财政部官员用Claude\n氛围编程仿Civ游戏",
+          "body": "财政部官员Sam Corcos在入侵风波中用Claude氛围编程4X游戏Legatum。",
+          "mini_headline": "财政部官员氛围编程Civ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
+                "cap": "图片来源：2K/Firaxis"
               },
               {
                 "t": "p",
-                "x": "NPO法人AI电龙战项目于11月14日和15日举办了文部科学大臣杯第7届世界将棋AI电龙战正赛。此后，将棋AI“やねうら王”的开发者やねうらお在个人博客中表示，将棋AI已经强到让赛事运营日益困难。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
+                "x": "经DOGE任命的Sam Corcos于2025年以特别顾问身份加入财政部，并成为其首席信息官（CIO）。在该部门遭遇备受审视的网络安全入侵事件之际，他仍在任，同时用氛围编程开发Legatum——一款“基于六边形地图的历史4X游戏，为热爱Civilization的人打造”。"
               },
               {
                 "t": "p",
-                "x": "决赛联赛共有10支队伍参赛。同一对阵双方各执先手、后手对局，被视为占优的先手用时为3分钟（后手为10分钟，每1手加2秒）。尽管规则略微偏向后手，先手胜率仍达到约80%。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
+                "x": "其GitHub readme写道：“Legatum主要由AI编程代理构建，所有美术均为AI生成（AI-generated）。”大部分美术来自通过ChatGPT调用的OpenAI图像模型。"
               },
               {
                 "t": "p",
-                "x": "过去职业棋士正式比赛的先手胜率约为52～53%。今年的世界电脑将棋锦标赛和电龙战TSEC中，先手胜率也达到约80～90%。规则中还设有偏向后手的条款，例如千日手时先手计0.4胜、后手计0.6胜。"
-              },
-              {
-                "t": "p",
-                "x": "据やねうらお介绍，大约半年前起，编程AI的进步推动将棋AI开发迅速发展。顶尖选手之间的实力差距缩小，顶级将棋AI只要定式没有缺陷，已达到执先手不会输的水平。今后如何制定新规则来弥合先后手差距，将成为课题。"
+                "x": "过去几天里，该项目更新了数十次，而财政部下属机构FinCEN正在处理一起“导致其部分有限系统遭未授权访问”的“网络安全事件”。Corcos发推称“电脑在自己干活，主要是Opus 5.5在统筹一堆迭代循环”，但正如404 Media指出的，他经常就功能向Claude提供反馈。一条写着“财政部CIO忙着氛围编程，不干正事”的GitHub issue被以“off-topic（离题）”为由关闭——这条回复同样由Claude生成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI de shogi es tan fuerte\nque el primero gana 8 de cada 10",
-          "body": "Yaneurao alerta de que, en la final del Denryu-sen, el primero ganó unas 8 de cada 10 pese a tener menos tiempo.",
-          "mini_headline": "Shogi AI: el primero gana 8 de cada 10",
+          "headline": "Un alto cargo del Tesoro crea\ncon Claude un clon de Civ",
+          "body": "Sam Corcos, del Tesoro, hace vibe-coding con Claude de Legatum, un 4X al estilo Civilization, en plena brecha.",
+          "mini_headline": "Un cargo del Tesoro hace vibe-coding de un Civ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
+                "cap": "Crédito de imagen: 2K/Firaxis"
               },
               {
                 "t": "p",
-                "x": "El AI Denryu-sen Project, una NPO, celebró los días 14 y 15 de noviembre la fase principal del 7.º Campeonato Mundial de Shogi AI Denryu-sen, Copa del Ministro de Educación, Cultura, Deportes, Ciencia y Tecnología. Después, Yaneurao, desarrollador de la AI de shogi «Yaneura-ou», expuso en su blog que las AI de shogi se han vuelto tan fuertes que organizar torneos empieza a ser difícil."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-001-1080x360.jpg"
+                "x": "Sam Corcos, nombrado a través de DOGE, se incorporó al Departamento del Tesoro como asesor especial en 2025 y pasó a ser su director de sistemas de información. Sigue en ese puesto en medio de una brecha de ciberseguridad en el departamento sometida a un intenso escrutinio, mientras hace vibe-coding de Legatum, un \"4X histórico sobre un mapa hexagonal, creado para quienes adoran Civilization\"."
               },
               {
                 "t": "p",
-                "x": "En la liga final compitieron 10 equipos. Cada emparejamiento se jugó con ambos bandos como primero y segundo en mover, y el primero, considerado con ventaja, tenía 3 minutos (el segundo, 10 minutos, con 2 segundos añadidos por cada 1 jugada). Pese a unas reglas que favorecen ligeramente al segundo, la tasa de victorias del primero alcanzó cerca del 80%."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-002-1080x608.jpg"
+                "x": "\"Legatum está construido en gran parte con agentes de programación de AI, y todo su arte es AI-generated (generado por AI)\", indica su readme de GitHub; la mayor parte del arte procede de los modelos de imagen de OpenAI a través de ChatGPT."
               },
               {
                 "t": "p",
-                "x": "En las partidas oficiales de profesionales, la tasa de victorias del primero ha rondado entre el 52 y el 53%. En el Campeonato Mundial de Shogi por Computadora de este año y en el Denryu-sen TSEC, la tasa del primero también fue de aproximadamente entre el 80 y el 90%. También hay reglas que favorecen al segundo: en un sennichite (repetición) se suman 0.4 victorias al primero y 0.6 al segundo."
-              },
-              {
-                "t": "p",
-                "x": "Según Yaneurao, desde hace cerca de medio año los avances de la AI de programación han acelerado también el desarrollo de las AI de shogi. La diferencia entre los mejores se ha reducido, y todas las AI de shogi punteras han llegado a un nivel en el que no pierden como primeras en mover salvo que su libro de aperturas tenga fallos. El próximo reto parece ser crear nuevas reglas que equilibren la diferencia entre el primero y el segundo."
+                "x": "Decenas de actualizaciones llegaron en los últimos días mientras FinCEN, una oficina del Tesoro, gestiona un \"incidente de ciberseguridad\" que \"derivó en un acceso no autorizado a un subconjunto limitado de sus sistemas\". Corcos tuiteó que \"los ordenadores lo hacen solos. Sobre todo Opus 5.5 orquestando un montón de bucles iterativos\", aunque, como señala 404 Media, suele dar a Claude comentarios sobre funciones. Un issue de GitHub que decía \"El CIO del Tesoro está demasiado ocupado haciendo vibecoding en vez de hacer su trabajo\" se cerró como \"off-topic\", una respuesta también generada por Claude."
               }
             ]
           }
@@ -1481,225 +1221,189 @@
       }
     },
     {
-      "id": "nexon-ai-game-rating",
+      "id": "clashroyale-ai-cheat-hire",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Nexon-led 컨소시엄\nAI 게임등급 사전심사",
-      "body": "Nexon-led 컨소시엄이 AI 선평가 등급 기술의 첫해 성과를 공개했다.",
-      "mini_headline": "AI가 게임 등급 사전 심사",
+      "headline": "Clash Royale,\nAI 치트 제작자 영입",
+      "body": "Supercell이 고급 AI 치트 툴 제작자를 부정행위 단속에 영입했다.",
+      "mini_headline": "Clash Royale, AI 치트 제작자 영입",
       "tool": "Games",
-      "source": "Inven Global",
-      "url": "https://www.invenglobal.com/articles/28903",
+      "source": "Dexerto",
+      "url": "https://www.dexerto.com/gaming/clash-royale-recruits-creator-of-ai-cheating-tool-to-help-catch-cheaters-3430356/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "Nexon이 이끄는 산학 컨소시엄이 11월 20일 부산(Busan)에서 열린 한국게임법과정책학회(Korea Game Law and Policy Society) 학술대회에서 AI-assisted 게임 등급 분류 기술의 첫해 연구 성과와 앞으로의 계획을 내놨다. AI가 게임 콘텐츠를 먼저 훑고, 등급은 사람이 최종 결정한다."
-          },
-          {
             "t": "img",
-            "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
-            "cap": "©INVEN"
+            "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
           },
           {
             "t": "p",
-            "x": "Nexon은 게임플레이 영상과 스크린샷, 오디오, 등급 신청 서류를 전처리해 일곱 가지 주요 콘텐츠 기준을 평가하는 파이프라인을 만들었다. 긴 영상을 AI에 그대로 넣으면 토큰 비용이 불어나고 상용 모델은 기준이 들쭉날쭉했다. 그래서 2027년에는 내부 LLM이 필요한 장면만 골라 더 일관된 고급 모델에 넘긴다."
-          },
-          {
-            "t": "img",
-            "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
-            "cap": "©INVEN"
+            "x": "Clash Royale 개발사 Supercell이 게임 내 부정행위를 단속하려고 고급 AI 치트 툴 제작자를 데려왔다."
           },
           {
             "t": "p",
-            "x": "명지대학교(Myongji University)에서는 라벨러 약 40명이 게임을 직접 플레이하며 프레임 단위로 평가 근거를 입력한다. 자율 플레이 AI 에이전트도 함께 개발 중이다. “목표는 게임을 잘하는 것이 아니라, 콘텐츠 등급 분류를 위해 정확하게 이동하고 탐색하는 것입니다.”"
+            "x": "Clash Royale에서 AI 치트는 점점 큰 논란거리다. 갈수록 정교해지는 봇이 숙련된 인간 플레이어를 앞선다는 보도까지 나온다. 플레이어들 사이에서는 'Clasher'라는 AI 조작 계정(AI-controlled)이 글로벌 리더보드 정상에 올랐다는 주장이 퍼졌다. Clash Royale은 11월 20일 X에서 AI나 다른 도구로 치트를 쓰면 \"왕실 범죄\"라고 경고했다."
           },
           {
             "t": "p",
-            "x": "Smilegate는 STOVE 자체 등급 분류 데이터 2,894건을 내놓았고, 2028년부터 운영자 검토 일치율과 검토 시간을 잰다. 문영민(Moon Young-min) 연구원은 “AI 결과는 운영자 검토를 위한 보조 참고 자료로만 쓰일 것”이라고 말했다. 패널들은 최종 결정을 사람이 쥐고 있어야 한다는 데 의견을 같이했다."
+            "x": "11월 21일에는 이렇게 발표했다. \"AI 치트 툴 제작자를 붙잡았다. 그는 전적으로 자신의 자유의지로 Clash Royale 팀과 손잡기로 했다. Arena에서 본 가장 정교한 치트 툴을 만든 사람보다 치터를 잡는 데 더 적합한 사람이 있을까? 우리는 함께 이런 행위를 몰아낼 새로운 기술을 만들고 있다.\""
+          },
+          {
+            "t": "p",
+            "x": "Supercell은 해당 인물의 신원도, 그가 'Clasher'의 배후인지도 밝히지 않았다. Supercell은 공정 플레이 단속에 이미 자동 탐지와 사람의 검토를 함께 쓴다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nexon-led team shows AI\npre-screening for game ratings",
-          "body": "A Nexon-led consortium shared first-year results on rating tech where AI pre-evaluates content and humans decide.",
-          "mini_headline": "AI pre-screens game ratings",
+          "headline": "Clash Royale recruits the\nmaker of an AI cheat tool",
+          "body": "Supercell has recruited the creator of an advanced AI cheating tool to help crack down on cheating in Clash Royale.",
+          "mini_headline": "Clash Royale hires AI cheat maker",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "An industry-academic consortium led by Nexon revealed its first-year research findings and future plans for AI-assisted game rating technology at the Korea Game Law and Policy Society conference in Busan on November 20. AI performs an initial sweep of game content, while humans make the final rating decision."
-              },
-              {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
-                "cap": "©INVEN"
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
               },
               {
                 "t": "p",
-                "x": "Nexon built a pipeline that pre-processes gameplay videos, screenshots, audio, and rating application documents to evaluate seven major content criteria. Feeding lengthy videos to the AI raised token costs and commercial models suffered from fluctuating criteria, so in 2027 an internal LLM will select only necessary scenes for more consistent advanced models."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
-                "cap": "©INVEN"
+                "x": "Clash Royale developer Supercell has recruited the creator of an advanced AI cheating tool to help crack down on cheating in the game."
               },
               {
                 "t": "p",
-                "x": "Myongji University’s around 40 labelers play titles and input evaluation rationale frame by frame, and it is developing an autonomous play AI agent: “The objective is not to play well, but to accurately navigate and explore for content rating purposes.”"
+                "x": "AI cheating has become a growing controversy in Clash Royale, with increasingly sophisticated bots reportedly capable of outperforming skilled human players. Players highlighted claims that an AI-controlled account named 'Clasher' had reached the top of the global leaderboard. On November 20, Clash Royale warned on X that using AI or other tools to cheat was a \"royal crime.\""
               },
               {
                 "t": "p",
-                "x": "Smilegate provided 2,894 self-rating data entries from STOVE and from 2028 will measure operator review match rates and review time. “AI results will be used solely as supplementary reference data for operator reviews,” said researcher Moon Young-min. Panelists agreed final decisions must remain with humans."
+                "x": "On November 21, it announced: \"The creator of the AI cheating tool has been caught. He's agreed, entirely of his own free will, to join forces with the Clash Royale team. And who better to help us catch cheaters than the person who built the most advanced cheating tool we've seen in the Arena? Together, we're building new technology to outlaw this behaviour.\""
+              },
+              {
+                "t": "p",
+                "x": "Supercell has not identified the individual nor said if they were behind 'Clasher'. Its fair-play measures already combine automated detection with human moderation."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Nexon-led 컨소시엄\nAI 게임등급 사전심사",
-          "body": "Nexon-led 컨소시엄이 AI 선평가 등급 기술의 첫해 성과를 공개했다.",
-          "mini_headline": "AI가 게임 등급 사전 심사",
+          "headline": "Clash Royale,\nAI 치트 제작자 영입",
+          "body": "Supercell이 고급 AI 치트 툴 제작자를 부정행위 단속에 영입했다.",
+          "mini_headline": "Clash Royale, AI 치트 제작자 영입",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Nexon이 이끄는 산학 컨소시엄이 11월 20일 부산(Busan)에서 열린 한국게임법과정책학회(Korea Game Law and Policy Society) 학술대회에서 AI-assisted 게임 등급 분류 기술의 첫해 연구 성과와 앞으로의 계획을 내놨다. AI가 게임 콘텐츠를 먼저 훑고, 등급은 사람이 최종 결정한다."
-              },
-              {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
-                "cap": "©INVEN"
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
               },
               {
                 "t": "p",
-                "x": "Nexon은 게임플레이 영상과 스크린샷, 오디오, 등급 신청 서류를 전처리해 일곱 가지 주요 콘텐츠 기준을 평가하는 파이프라인을 만들었다. 긴 영상을 AI에 그대로 넣으면 토큰 비용이 불어나고 상용 모델은 기준이 들쭉날쭉했다. 그래서 2027년에는 내부 LLM이 필요한 장면만 골라 더 일관된 고급 모델에 넘긴다."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
-                "cap": "©INVEN"
+                "x": "Clash Royale 개발사 Supercell이 게임 내 부정행위를 단속하려고 고급 AI 치트 툴 제작자를 데려왔다."
               },
               {
                 "t": "p",
-                "x": "명지대학교(Myongji University)에서는 라벨러 약 40명이 게임을 직접 플레이하며 프레임 단위로 평가 근거를 입력한다. 자율 플레이 AI 에이전트도 함께 개발 중이다. “목표는 게임을 잘하는 것이 아니라, 콘텐츠 등급 분류를 위해 정확하게 이동하고 탐색하는 것입니다.”"
+                "x": "Clash Royale에서 AI 치트는 점점 큰 논란거리다. 갈수록 정교해지는 봇이 숙련된 인간 플레이어를 앞선다는 보도까지 나온다. 플레이어들 사이에서는 'Clasher'라는 AI 조작 계정(AI-controlled)이 글로벌 리더보드 정상에 올랐다는 주장이 퍼졌다. Clash Royale은 11월 20일 X에서 AI나 다른 도구로 치트를 쓰면 \"왕실 범죄\"라고 경고했다."
               },
               {
                 "t": "p",
-                "x": "Smilegate는 STOVE 자체 등급 분류 데이터 2,894건을 내놓았고, 2028년부터 운영자 검토 일치율과 검토 시간을 잰다. 문영민(Moon Young-min) 연구원은 “AI 결과는 운영자 검토를 위한 보조 참고 자료로만 쓰일 것”이라고 말했다. 패널들은 최종 결정을 사람이 쥐고 있어야 한다는 데 의견을 같이했다."
+                "x": "11월 21일에는 이렇게 발표했다. \"AI 치트 툴 제작자를 붙잡았다. 그는 전적으로 자신의 자유의지로 Clash Royale 팀과 손잡기로 했다. Arena에서 본 가장 정교한 치트 툴을 만든 사람보다 치터를 잡는 데 더 적합한 사람이 있을까? 우리는 함께 이런 행위를 몰아낼 새로운 기술을 만들고 있다.\""
+              },
+              {
+                "t": "p",
+                "x": "Supercell은 해당 인물의 신원도, 그가 'Clasher'의 배후인지도 밝히지 않았다. Supercell은 공정 플레이 단속에 이미 자동 탐지와 사람의 검토를 함께 쓴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nexon-led連合が\nAIでレーティング事前審査",
-          "body": "Nexon-ledの連合が、AIが先に評価し人が決める区分技術の初年度成果を示した。",
-          "mini_headline": "AIがゲームのレーティングを事前審査",
+          "headline": "Clash Royale、\nAIチート作者を起用",
+          "body": "SupercellはClash Royaleの不正対策にAIチートツールの作者を迎えた。",
+          "mini_headline": "Clash RoyaleがAIチート作者を採用",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Nexonが率いる産学コンソーシアムは11月20日、釜山（Busan）で開かれた韓国ゲーム法と政策学会（Korea Game Law and Policy Society）の学術大会で、AI-assistedのゲームレーティング技術に関する初年度の研究成果と今後の計画を公表した。AIがゲームコンテンツをまず一通り確認し、最終的なレーティング判断は人が下す。"
-              },
-              {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
-                "cap": "©INVEN"
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
               },
               {
                 "t": "p",
-                "x": "Nexonは、ゲームプレイ映像、スクリーンショット、音声、レーティング申請書類を前処理し、七つの主要コンテンツ基準を評価するパイプラインを構築した。長い映像をAIに入力するとトークンコストが膨らみ、商用モデルは基準がぶれる問題があったため、2027年には社内LLMが必要な場面だけを選び、より一貫性のある高度なモデルに渡す。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
-                "cap": "©INVEN"
+                "x": "Clash Royaleの開発元Supercellは、ゲーム内の不正行為を取り締まるため、高度なAIチートツールの作者を迎え入れた。"
               },
               {
                 "t": "p",
-                "x": "明知大学（Myongji University）では約40人のラベラーがタイトルをプレイしてフレーム単位で評価根拠を入力しており、自律プレイ型のAIエージェントも開発している。「目的はうまくプレイすることではなく、コンテンツのレーティングのために正確に移動し探索することだ」。"
+                "x": "Clash RoyaleではAIによるチートが大きな論争になりつつあり、ますます高度化するボットは熟練した人間のプレイヤーをしのぐとも伝えられる。プレイヤーたちは、「Clasher」というAI操作のアカウント（AI-controlled）がグローバルリーダーボードの首位に立ったとの主張を取り上げた。Clash Royaleは11月20日、AIなどのツールを使ったチートは「王室の罪」だとXで警告した。"
               },
               {
                 "t": "p",
-                "x": "SmilegateはSTOVEの自主レーティングデータ2,894件を提供し、2028年からは運営者による審査との一致率と審査時間を測定する。研究員のムン・ヨンミン（Moon Young-min）氏は「AIの結果は運営者審査の補助的な参考資料としてのみ使う」と述べた。パネリストらは、最終判断は人に委ねるべきだという点で一致した。"
+                "x": "11月21日には次のように発表した。「AIチートツールの作者を捕まえた。彼は完全に自らの意思で、Clash Royaleチームと手を組むことに同意した。Arenaで見た中で最も高度なチートツールを作った人物ほど、チーターを捕まえるのに適した人はいないだろう。私たちは共に、この行為を締め出す新しい技術を開発している」"
+              },
+              {
+                "t": "p",
+                "x": "Supercellは人物の名前も、その人物が「Clasher」の背後にいたかどうかも明らかにしていない。同社のフェアプレー対策はすでに自動検出と人の手によるモデレーションを組み合わせている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nexon-led团队展示\nAI游戏分级预审",
-          "body": "Nexon-led联盟公布首年成果：AI先评估内容，再由人作出分级决定。",
-          "mini_headline": "AI预审游戏分级",
+          "headline": "Clash Royale\n招募AI作弊工具作者",
+          "body": "Supercell招募高级AI作弊工具的作者，协助打击Clash Royale中的作弊。",
+          "mini_headline": "Clash Royale招募AI作弊工具作者",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "由Nexon牵头的产学联盟于11月20日在釜山（Busan）举行的韩国游戏法与政策学会（Korea Game Law and Policy Society）学术会议上，公布了AI-assisted游戏分级技术的首年研究成果和未来计划。AI先对游戏内容进行初步筛查，最终分级决定由人作出。"
-              },
-              {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
-                "cap": "©INVEN"
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
               },
               {
                 "t": "p",
-                "x": "Nexon搭建了一条流水线，对游戏视频、截图、音频和分级申请文件进行预处理，以评估七项主要内容标准。将冗长视频输入AI会推高token成本，商用模型的判断标准也会波动，因此2027年将由内部LLM只挑选必要场景，交给更稳定的高级模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
-                "cap": "©INVEN"
+                "x": "Clash Royale开发商Supercell招募了一款高级AI作弊工具的作者，协助打击游戏中的作弊行为。"
               },
               {
                 "t": "p",
-                "x": "明知大学（Myongji University）约40名标注员实际游玩作品并逐帧输入评估依据，同时正在开发自主游玩AI智能体：“目标不是玩得好，而是为了内容分级准确地移动和探索。”"
+                "x": "AI作弊在Clash Royale中日益引发争议，据报道越来越精密的机器人已能胜过熟练的人类玩家。玩家们关注到有说法称，一个名为“Clasher”的AI操控账号（AI-controlled）登上了全球排行榜榜首。11月20日，Clash Royale在X上警告称，使用AI或其他工具作弊是“皇家罪行”。"
               },
               {
                 "t": "p",
-                "x": "Smilegate提供了来自STOVE的2,894条自主分级数据，并将从2028年起测量运营方审核的一致率和审核时间。研究员Moon Young-min表示：“AI结果将仅作为运营方审核的辅助参考资料。”与会嘉宾一致认为，最终决定必须由人作出。"
+                "x": "11月21日，官方宣布：“AI作弊工具的作者已被抓获。他完全出于自愿，同意与Clash Royale团队联手。还有谁比打造出我们在Arena中见过最先进作弊工具的人更适合帮我们抓作弊者呢？我们正携手打造新技术，让这种行为无处遁形。”"
+              },
+              {
+                "t": "p",
+                "x": "Supercell没有公开此人身份，也未说明其是否就是“Clasher”的幕后操控者。其公平竞赛措施本就结合了自动检测与人工审核。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Equipo liderado por Nexon\nmuestra AI que preevalúa juegos",
-          "body": "Un consorcio Nexon-led mostró los resultados de su primer año en clasificación donde la AI preevalúa y deciden humanos.",
-          "mini_headline": "La AI preevalúa la clasificación de juegos",
+          "headline": "Clash Royale ficha al creador\nde una trampa basada en AI",
+          "body": "Supercell ha fichado al creador de una avanzada herramienta de trampas con AI para frenar las trampas en Clash Royale.",
+          "mini_headline": "Clash Royale ficha a un creador de trampas con AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Un consorcio de industria y universidad liderado por Nexon presentó el 20 de noviembre, en el congreso de la Korea Game Law and Policy Society en Busan, los resultados de su primer año de investigación y sus planes sobre tecnología de clasificación de juegos AI-assisted. La AI hace una primera revisión del contenido del juego y las personas toman la decisión final de clasificación."
-              },
-              {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
-                "cap": "©INVEN"
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
               },
               {
                 "t": "p",
-                "x": "Nexon creó un pipeline que preprocesa vídeos de juego, capturas de pantalla, audio y documentos de solicitud de clasificación para evaluar siete criterios principales de contenido. Introducir vídeos largos en la AI elevaba el coste en tokens y los modelos comerciales sufrían criterios fluctuantes, por lo que en 2027 un LLM interno seleccionará solo las escenas necesarias para modelos avanzados más consistentes."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
-                "cap": "©INVEN"
+                "x": "Supercell, desarrolladora de Clash Royale, ha fichado al creador de una avanzada herramienta de trampas con AI para ayudar a frenar las trampas en el juego."
               },
               {
                 "t": "p",
-                "x": "Unos 40 etiquetadores de Myongji University juegan los títulos e introducen fotograma a fotograma los motivos de evaluación, y la universidad desarrolla un agente AI de juego autónomo: “El objetivo no es jugar bien, sino navegar y explorar con precisión para clasificar el contenido”."
+                "x": "Las trampas con AI se han convertido en una polémica creciente en Clash Royale, con bots cada vez más sofisticados que, según se informa, pueden superar a jugadores humanos expertos. Los jugadores destacaron afirmaciones de que una cuenta AI-controlled (controlada por AI) llamada 'Clasher' había llegado a lo más alto de la clasificación mundial. El 20 de noviembre, Clash Royale advirtió en X de que usar AI u otras herramientas para hacer trampas era un \"crimen real\"."
               },
               {
                 "t": "p",
-                "x": "Smilegate aportó 2,894 registros de autoclasificación de STOVE y desde 2028 medirá las tasas de coincidencia con la revisión de los operadores y el tiempo de revisión. “Los resultados de la AI se usarán únicamente como material de referencia complementario para la revisión de los operadores”, dijo el investigador Moon Young-min. Los ponentes coincidieron en que las decisiones finales deben quedar en manos de personas."
+                "x": "El 21 de noviembre anunció: \"El creador de la herramienta de trampas con AI ha sido atrapado. Ha aceptado, totalmente por voluntad propia, unir fuerzas con el equipo de Clash Royale. ¿Y quién mejor para ayudarnos a atrapar tramposos que la persona que creó la herramienta de trampas más avanzada que hemos visto en la Arena? Juntos estamos desarrollando nueva tecnología para prohibir este comportamiento.\""
+              },
+              {
+                "t": "p",
+                "x": "Supercell no ha identificado a la persona ni ha dicho si estaba detrás de 'Clasher'. Sus medidas de fair-play ya combinan detección automatizada con moderación humana."
               }
             ]
           }
@@ -1707,145 +1411,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Nexon-led 컨소시엄\nAI 게임등급 사전심사",
-          "body": "Nexon-led 컨소시엄이 AI 선평가 등급 기술의 첫해 성과를 공개했다.",
-          "mini_headline": "AI가 게임 등급 사전 심사",
+          "headline": "Clash Royale,\nAI 치트 제작자 영입",
+          "body": "Supercell이 고급 AI 치트 툴 제작자를 부정행위 단속에 영입했다.",
+          "mini_headline": "Clash Royale, AI 치트 제작자 영입",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Nexon이 이끄는 산학 컨소시엄은 11월 20일 부산(Busan)에서 열린 한국게임법과정책학회(Korea Game Law and Policy Society) 학술대회에서 AI-assisted 게임 등급 분류 기술의 첫해 연구 성과와 향후 계획을 공개했다. AI가 게임 콘텐츠를 먼저 훑고, 최종 등급 결정은 사람이 내린다."
-              },
-              {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
-                "cap": "©INVEN"
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
               },
               {
                 "t": "p",
-                "x": "Nexon은 게임플레이 영상, 스크린샷, 오디오, 등급 신청 서류를 전처리해 일곱 가지 주요 콘텐츠 기준을 평가하는 파이프라인을 구축했다. 긴 영상을 AI에 넣으면 토큰 비용이 늘고 상용 모델은 기준이 들쭉날쭉했기 때문에, 2027년에는 내부 LLM이 필요한 장면만 골라 더 일관된 고급 모델에 넘긴다."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
-                "cap": "©INVEN"
+                "x": "Clash Royale 개발사 Supercell이 게임 내 부정행위를 단속하기 위해 고급 AI 치트 툴 제작자를 영입했다."
               },
               {
                 "t": "p",
-                "x": "명지대학교(Myongji University)에서는 약 40명의 라벨러가 게임을 플레이하며 프레임 단위로 평가 근거를 입력하고, 자율 플레이 AI 에이전트도 개발하고 있다. “목표는 게임을 잘하는 것이 아니라, 콘텐츠 등급 분류를 위해 정확하게 이동하고 탐색하는 것입니다.”"
+                "x": "Clash Royale에서는 AI 치트가 점점 큰 논란이 되고 있으며, 갈수록 정교해지는 봇이 숙련된 인간 플레이어를 능가한다는 보도도 나온다. 플레이어들은 'Clasher'라는 AI 조작 계정(AI-controlled)이 글로벌 리더보드 정상에 올랐다는 주장을 부각했다. Clash Royale은 11월 20일 X에서 AI나 다른 도구로 치트를 쓰는 것은 \"왕실 범죄\"라고 경고했다."
               },
               {
                 "t": "p",
-                "x": "Smilegate는 STOVE의 자체 등급 분류 데이터 2,894건을 제공했으며, 2028년부터 운영자 검토 일치율과 검토 시간을 측정한다. 문영민(Moon Young-min) 연구원은 “AI 결과는 운영자 검토를 위한 보조 참고 자료로만 쓰일 것”이라고 말했다. 패널들은 최종 결정이 사람에게 남아 있어야 한다는 데 뜻을 모았다."
+                "x": "11월 21일에는 이렇게 발표했다. \"AI 치트 툴 제작자를 붙잡았다. 그는 전적으로 자신의 자유의지로 Clash Royale 팀과 손잡기로 했다. Arena에서 본 가장 정교한 치트 툴을 만든 사람보다 치터를 잡는 데 더 적합한 사람이 있을까? 우리는 함께 이런 행위를 몰아낼 새로운 기술을 만들고 있다.\""
+              },
+              {
+                "t": "p",
+                "x": "Supercell은 해당 인물의 신원도, 그가 'Clasher'의 배후인지도 밝히지 않았다. Supercell의 공정 플레이 대책은 이미 자동 탐지와 사람의 검토를 함께 쓰고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nexon-led連合が\nAIでレーティング事前審査",
-          "body": "Nexon-ledの連合が、AIが先に評価し人が決める区分技術の初年度成果を示した。",
-          "mini_headline": "AIがゲームのレーティングを事前審査",
+          "headline": "Clash Royale、\nAIチート作者を起用",
+          "body": "SupercellはClash Royaleの不正対策にAIチートツールの作者を迎えた。",
+          "mini_headline": "Clash RoyaleがAIチート作者を採用",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Nexonが率いる産学コンソーシアムは11月20日、釜山（Busan）で開かれた韓国ゲーム法と政策学会（Korea Game Law and Policy Society）の学術大会で、AI-assistedのゲームレーティング技術に関する初年度の研究成果と今後の計画を公表した。AIがゲームコンテンツをまず一通り確認し、最終的なレーティング判断は人が下す。"
-              },
-              {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
-                "cap": "©INVEN"
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
               },
               {
                 "t": "p",
-                "x": "Nexonは、ゲームプレイ映像、スクリーンショット、音声、レーティング申請書類を前処理し、七つの主要コンテンツ基準を評価するパイプラインを構築した。長い映像をAIに入力するとトークンコストが膨らみ、商用モデルは基準がぶれる問題があったため、2027年には社内LLMが必要な場面だけを選び、より一貫性のある高度なモデルに渡す。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
-                "cap": "©INVEN"
+                "x": "Clash Royaleの開発元Supercellは、ゲーム内の不正行為を取り締まるため、高度なAIチートツールの作者を迎え入れた。"
               },
               {
                 "t": "p",
-                "x": "明知大学（Myongji University）では約40人のラベラーがタイトルをプレイしてフレーム単位で評価根拠を入力しており、自律プレイ型のAIエージェントも開発している。「目的はうまくプレイすることではなく、コンテンツのレーティングのために正確に移動し探索することだ」。"
+                "x": "Clash RoyaleではAIによるチートが大きな論争になりつつあり、ますます高度化するボットは熟練した人間のプレイヤーをしのぐとも伝えられる。プレイヤーたちは、「Clasher」というAI操作のアカウント（AI-controlled）がグローバルリーダーボードの首位に立ったとの主張を取り上げた。Clash Royaleは11月20日、AIなどのツールを使ったチートは「王室の罪」だとXで警告した。"
               },
               {
                 "t": "p",
-                "x": "SmilegateはSTOVEの自主レーティングデータ2,894件を提供し、2028年からは運営者による審査との一致率と審査時間を測定する。研究員のムン・ヨンミン（Moon Young-min）氏は「AIの結果は運営者審査の補助的な参考資料としてのみ使う」と述べた。パネリストらは、最終判断は人に委ねるべきだという点で一致した。"
+                "x": "11月21日には次のように発表した。「AIチートツールの作者を捕まえた。彼は完全に自らの意思で、Clash Royaleチームと手を組むことに同意した。Arenaで見た中で最も高度なチートツールを作った人物ほど、チーターを捕まえるのに適した人はいないだろう。私たちは共に、この行為を締め出す新しい技術を開発している」"
+              },
+              {
+                "t": "p",
+                "x": "Supercellは人物の名前も、その人物が「Clasher」の背後にいたかどうかも明らかにしていない。同社のフェアプレー対策はすでに自動検出と人の手によるモデレーションを組み合わせている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nexon-led团队展示\nAI游戏分级预审",
-          "body": "Nexon-led联盟公布首年成果：AI先评估内容，再由人作出分级决定。",
-          "mini_headline": "AI预审游戏分级",
+          "headline": "Clash Royale\n招募AI作弊工具作者",
+          "body": "Supercell招募高级AI作弊工具的作者，协助打击Clash Royale中的作弊。",
+          "mini_headline": "Clash Royale招募AI作弊工具作者",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "由Nexon牵头的产学联盟于11月20日在釜山（Busan）举行的韩国游戏法与政策学会（Korea Game Law and Policy Society）学术会议上，公布了AI-assisted游戏分级技术的首年研究成果和未来计划。AI先对游戏内容进行初步筛查，最终分级决定由人作出。"
-              },
-              {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
-                "cap": "©INVEN"
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
               },
               {
                 "t": "p",
-                "x": "Nexon搭建了一条流水线，对游戏视频、截图、音频和分级申请文件进行预处理，以评估七项主要内容标准。将冗长视频输入AI会推高token成本，商用模型的判断标准也会波动，因此2027年将由内部LLM只挑选必要场景，交给更稳定的高级模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
-                "cap": "©INVEN"
+                "x": "Clash Royale开发商Supercell招募了一款高级AI作弊工具的作者，协助打击游戏中的作弊行为。"
               },
               {
                 "t": "p",
-                "x": "明知大学（Myongji University）约40名标注员实际游玩作品并逐帧输入评估依据，同时正在开发自主游玩AI智能体：“目标不是玩得好，而是为了内容分级准确地移动和探索。”"
+                "x": "AI作弊在Clash Royale中日益引发争议，据报道越来越精密的机器人已能胜过熟练的人类玩家。玩家们关注到有说法称，一个名为“Clasher”的AI操控账号（AI-controlled）登上了全球排行榜榜首。11月20日，Clash Royale在X上警告称，使用AI或其他工具作弊是“皇家罪行”。"
               },
               {
                 "t": "p",
-                "x": "Smilegate提供了来自STOVE的2,894条自主分级数据，并将从2028年起测量运营方审核的一致率和审核时间。研究员Moon Young-min表示：“AI结果将仅作为运营方审核的辅助参考资料。”与会嘉宾一致认为，最终决定必须由人作出。"
+                "x": "11月21日，官方宣布：“AI作弊工具的作者已被抓获。他完全出于自愿，同意与Clash Royale团队联手。还有谁比打造出我们在Arena中见过最先进作弊工具的人更适合帮我们抓作弊者呢？我们正携手打造新技术，让这种行为无处遁形。”"
+              },
+              {
+                "t": "p",
+                "x": "Supercell没有公开此人身份，也未说明其是否就是“Clasher”的幕后操控者。其公平竞赛措施本就结合了自动检测与人工审核。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Equipo liderado por Nexon\nmuestra AI que preevalúa juegos",
-          "body": "Un consorcio Nexon-led mostró los resultados de su primer año en clasificación donde la AI preevalúa y deciden humanos.",
-          "mini_headline": "La AI preevalúa la clasificación de juegos",
+          "headline": "Clash Royale ficha al creador\nde una trampa basada en AI",
+          "body": "Supercell ha fichado al creador de una avanzada herramienta de trampas con AI para frenar las trampas en Clash Royale.",
+          "mini_headline": "Clash Royale ficha a un creador de trampas con AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Un consorcio de industria y universidad liderado por Nexon presentó el 20 de noviembre, en el congreso de la Korea Game Law and Policy Society en Busan, los resultados de su primer año de investigación y sus planes sobre tecnología de clasificación de juegos AI-assisted. La AI hace una primera revisión del contenido del juego y las personas toman la decisión final de clasificación."
-              },
-              {
                 "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg",
-                "cap": "©INVEN"
+                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
               },
               {
                 "t": "p",
-                "x": "Nexon creó un pipeline que preprocesa vídeos de juego, capturas de pantalla, audio y documentos de solicitud de clasificación para evaluar siete criterios principales de contenido. Introducir vídeos largos en la AI elevaba el coste en tokens y los modelos comerciales sufrían criterios fluctuantes, por lo que en 2027 un LLM interno seleccionará solo las escenas necesarias para modelos avanzados más consistentes."
-              },
-              {
-                "t": "img",
-                "src": "https://static.invenglobal.com/upload/image/2026/11/20/r1795186093030461.jpeg",
-                "cap": "©INVEN"
+                "x": "Supercell, desarrolladora de Clash Royale, ha fichado al creador de una avanzada herramienta de trampas con AI para ayudar a frenar las trampas en el juego."
               },
               {
                 "t": "p",
-                "x": "Unos 40 etiquetadores de Myongji University juegan los títulos e introducen fotograma a fotograma los motivos de evaluación, y la universidad desarrolla un agente AI de juego autónomo: “El objetivo no es jugar bien, sino navegar y explorar con precisión para clasificar el contenido”."
+                "x": "Las trampas con AI se han convertido en una polémica creciente en Clash Royale, con bots cada vez más sofisticados que, según se informa, pueden superar a jugadores humanos expertos. Los jugadores destacaron afirmaciones de que una cuenta AI-controlled (controlada por AI) llamada 'Clasher' había llegado a lo más alto de la clasificación mundial. El 20 de noviembre, Clash Royale advirtió en X de que usar AI u otras herramientas para hacer trampas era un \"crimen real\"."
               },
               {
                 "t": "p",
-                "x": "Smilegate aportó 2,894 registros de autoclasificación de STOVE y desde 2028 medirá las tasas de coincidencia con la revisión de los operadores y el tiempo de revisión. “Los resultados de la AI se usarán únicamente como material de referencia complementario para la revisión de los operadores”, dijo el investigador Moon Young-min. Los ponentes coincidieron en que las decisiones finales deben quedar en manos de personas."
+                "x": "El 21 de noviembre anunció: \"El creador de la herramienta de trampas con AI ha sido atrapado. Ha aceptado, totalmente por voluntad propia, unir fuerzas con el equipo de Clash Royale. ¿Y quién mejor para ayudarnos a atrapar tramposos que la persona que creó la herramienta de trampas más avanzada que hemos visto en la Arena? Juntos estamos desarrollando nueva tecnología para prohibir este comportamiento.\""
+              },
+              {
+                "t": "p",
+                "x": "Supercell no ha identificado a la persona ni ha dicho si estaba detrás de 'Clasher'. Sus medidas de fair-play ya combinan detección automatizada con moderación humana."
               }
             ]
           }

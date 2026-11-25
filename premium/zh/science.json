@@ -11955,6 +11955,116 @@
           "x": "“大脑的沟通方式中存在某种根本上相似的东西，”资深作者Evelina Fedorenko说。这项研究或有助于临床AI语言工具惠及更多语言的使用者，未来也可能帮助保护濒危语言。"
         }
       ]
+    },
+    "science/meta-meg-typing-decode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "科学家开发出一套人工智能系统，可将在颅骨外记录的脑活动转换为打出的句子。据发表于Nature Neuroscience的研究，该模型借助脑磁扫描解码背诵过的句子，平均字符错误率为百分之二十九，表现最好的参与者降至百分之十八。"
+        },
+        {
+          "t": "p",
+          "x": "巴黎Meta AI的Jarod Lévy、Stéphane d’Ascoli、Jean-Rémi King及其同事构建了Brain2Qwerty。这一深度学习系统的训练数据来自35名熟练的西班牙语打字员，他们佩戴64个传感器的EEG帽，或坐在306个传感器的脑磁图扫描仪中。MEG的表现优于错误率为65%的EEG，Brain2Qwerty还把EEGNet的MEG错误率从72%降至百分之二十九。"
+        },
+        {
+          "t": "p",
+          "x": "错误往往落在物理位置相邻的按键上，表明解码器读取的是手指运动指令。UC Davis的Sergey Stavisky说：“这篇论文在用非侵入式脑测量技术解码一个人正在打什么字方面，创下了新的最高准确率。”他补充说，这“距离成为实用的交流方式还有很长的路要走”。"
+        },
+        {
+          "t": "p",
+          "x": "该系统目前还无法实时运行，依赖按键时间戳，也尚未在瘫痪用户身上测试。研究的七位作者中有五位受雇于Meta。"
+        }
+      ]
+    },
+    "science/jyvaskyla-metallene-ml-screen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
+          "cap": "没有支撑层时，金属会坍缩成团簇；将其夹在TMDs、石墨烯或BN之间，可得到平整、稳定的金属。Credit: Mohammad Bagheri"
+        },
+        {
+          "t": "p",
+          "x": "University of Jyväskylä的研究人员利用机器学习和高性能计算，识别出300多种稳定的金属烯夹层结构。金属烯是由单质金属构成、仅一个原子厚的层，独立存在时容易坍缩成3D 团簇。"
+        },
+        {
+          "t": "p",
+          "x": "基于第一性原理模拟数据训练的机器学习，探索了数十种金属与石墨烯、过渡金属二硫族化合物等常见2D 材料组合而成的夹层结构。博士后研究员Mohammad Bagheri表示：“机器学习让我们得以考察一千多种异质结构。”"
+        },
+        {
+          "t": "p",
+          "x": "硒基TMDs稳定的金属层数量最多，室温模拟证实部分选定的夹层结构保持完整并具有金属性。Pekka Koskinen教授表示：“这些结果为实验人员提供了一张实用的地图。”该研究发表于Nano Letters；数据集已公开，计算在LUMI超级计算机上完成。"
+        }
+      ]
+    },
+    "science/nhb-eight-ai-impacts-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "人工智能（AI）系统如今在全球拥有十亿用户。它们对人类用户有何影响？流行的担忧叙事认为，AI可能正在削弱我们的认知能力、污染信息生态、侵蚀人际关系、损害心理健康，并使我们更容易受到说服、操纵、情感依赖和社会工程的影响。"
+        },
+        {
+          "t": "p",
+          "x": "新兴研究已开始通过模型评估、用户研究、消费者聊天记录分析和基于智能体的模拟，考察AI对人的影响。本文综述了这些证据，发现支持最强烈担忧叙事的证据有限。不过，相关研究仍处于起步阶段，许多不确定性有待未来研究解决。"
+        },
+        {
+          "t": "p",
+          "x": "这篇由Christopher Summerfield及其同事撰写的综述（Review）评估了关于AI如何影响人的八项紧迫担忧的证据。综述发现，最令人警惕的说法仅获得有限支持，但呼吁更深入地审视AI对人类的影响。"
+        }
+      ]
+    },
+    "science/psypost-humour-dark-traits-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+          "cap": "[Adobe Stock]"
+        },
+        {
+          "t": "p",
+          "x": "发表在Journal of Individual Differences上的一项研究表明，分析人们觉得视觉笑话有多好笑、多残忍的机器学习模型，能够识别较高水平的精神病态和日常施虐性，对自恋的识别程度较低，但无法识别马基雅维利主义（Machiavellianism）。"
+        },
+        {
+          "t": "p",
+          "x": "圣彼得堡HSE University的Liubov Glinkina及其同事让200名说俄语的人从好笑程度、善意程度和针对对象等方面为71幅表情包、连环画和卡通评分，然后比较了六种分类器。精神病态的检测最为可靠，准确率接近0.82；施虐性最高超过0.70，自恋为0.66，而马基雅维利主义则徘徊在0.50的随机水平附近。"
+        },
+        {
+          "t": "p",
+          "x": "随机森林和梯度提升表现最好，而颜色和文字布局等图像特征并未提高准确率。Glinkina说：“这是群体层面的统计信号，不是读心术：它无法诊断个人。”她补充说，它“不是测谎仪，不是筛查工具，也不适合用于招聘”。"
+        }
+      ]
+    },
+    "science/cornell-chatbot-conspiracy-crisis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
+        },
+        {
+          "t": "p",
+          "x": "2024年7月13日，唐纳德·特朗普在一场露天集会上遭遇刺杀未遂并幸存，此后谣言随即开始流传。短短几天内，来自康奈尔大学、MIT和卡内基梅隆大学的研究人员邀请人们向DebunkBot讲述自己相信的阴谋论。DebunkBot是一款被设定为反驳错误信息的AI驱动（AI-powered）聊天机器人。"
+        },
+        {
+          "t": "p",
+          "x": "团队发现，在危机刚刚发生、信息极少的时候，15%的人可以通过对话放弃阴谋论。论文《Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models》于11月23日发表在《美国国家科学院院刊》（Proceedings of the National Academy of Sciences）上。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员在2025年9月查理·柯克遇刺后重复了这项实验。参与者被随机分配到与机器人简短交流、阅读事实说明或进行无关对话中的一种。两次危机后，DebunkBot都降低了人们对阴谋论的相信程度，效果约为事实说明的五到七倍。与它交谈过的人，对后来针对特朗普的另一次未遂袭击也更不容易产生阴谋论看法。"
+        },
+        {
+          "t": "p",
+          "x": "“现在的挑战与其说是把人们从兔子洞里拉出来，不如说是让他们一开始就愿意参与对话。”第一作者、卡内基梅隆大学的托马斯·科斯特洛说。"
+        }
+      ]
     }
   }
 }

@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "politics",
   "dedup": {
     "checks": {
-      "https://governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot": {
+      "https://www.yna.co.kr/view/AKR20261125107000017": {
         "verdict": "new",
-        "nearest": "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
+        "nearest": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
         "new_action": ""
       },
-      "https://ctnewsjunkie.com/2026/11/24/character-ai-auction-ct-challenge/": {
+      "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers": {
         "verdict": "new",
-        "nearest": "https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-files-2b-lawsuit-against-open-ai-launches-keeping-kids-safe-initiative/",
+        "nearest": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
         "new_action": ""
       },
-      "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/statement-on-uk-launch-of-meta-muse/": {
+      "https://www.japantimes.co.jp/news/2026/11/25/japan/ai-nation-aim/": {
         "verdict": "new",
-        "nearest": "https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/",
+        "nearest": "https://www.yna.co.kr/view/AKR20261112066200009",
         "new_action": ""
       },
-      "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12663": {
+      "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868404": {
         "verdict": "new",
-        "nearest": "https://www.korea.kr/news/policyNewsView.do?newsId=148976211",
+        "nearest": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868133",
         "new_action": ""
       },
-      "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790510": {
+      "https://www.rapporteur.com/news/eu-delays-planned-ai-gigafactories-again/": {
         "verdict": "new",
-        "nearest": "https://www.etnews.com/20261103000312",
+        "nearest": "https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/",
         "new_action": ""
       }
     },
-    "note": "Hochul toy ban (history_match 'related' to the 10-29 companion-chatbot law): this is a separate bill (S.9408A/A.11144B) and a separate signing, a 5-year moratorium on AI-chatbot toys, so it counts as new. PIPC enforcement decree (history_match 'related' to the 11-23 data-centre permit card): only the word 'special case' overlaps; this is a different law and ministry, so new. Character.AI: the 42-AG bankruptcy-court objection is a new filing, and no Character.AI story appears in the 30-day history. ICO Meta Muse goes to politics per the brief; marketing must not run the Meta Newsroom launch. Dropped: the 전자신문 national-exam TF item and the 정책브리핑 고용노동부 exam-cheating release. They are one story (the brief names the primary), and that story has been running since 11-08/11-10/11-16/11-18/11-22, when the 청와대 TF was formed. The 고용노동부 release adds enforcement numbers (6 cases caught), but it was cut on diversity and running-story fatigue, not as an outright duplicate. Also dropped: 전자신문 'AI 가짜 의사' (assigned to marketing only), GOV.UK Sovereign AI Fund (funding noise per the brief), the Verge COP data-centre item (negotiation reporting with no decision; passed over on 11-24 too), POLITICO Europe on phone agents (analysis), and 통일부 홍익 플랫폼 (no decision). Not picked on score: 과기부 AI budget at 16조 (a budget proposal still under review), KISA agent security guidance (next in line), and the Register item on the EC breach (an incident, not policy). Cross-section: published_urls.json (4938 lines) could not be grepped with Read-only tools. 4 of the 5 picks are dated after the 11-24 run's collection window. The PIPC item (11-23 10:00 KST) predates it, so the orchestrator should exact-grep the 5 URLs plus 'Character.AI', 'Muse', 'chatbot toy', '개인정보 보호법 시행령', 'UI/UX 가이드라인' before roll."
+    "note": "Re-pick: the MCST AI-training licence standard contract (pSeq=22865) was dropped. The orchestrator's cross-section grep found the same story, the 11-26 public hearing, already published in music on 2026-11-24. The replacement is the Rapporteur item on EU AI gigafactories being delayed again. It carries a history_match ('related') to the 11-10 POLITICO Europe analysis 'EU countries still can't get it together on AI'. That card was general commentary on EU AI coordination. This one reports a new decision: EuroHPC JU moved the gigafactory application deadline from 3 Dec to 30 Dec. So it is new, with that card as nearest. I chose it over the MEPs' nudifier letter because the letter overlaps the GOSRN card on AI sexual imagery and is a letter, not a decision. GOSRN: the 11-regulator joint statement is a new multilateral regulator release, distinct from the 11-24 Grok state lawsuit. SpaceX FCC: a new regulatory approval of orbital AI data centres, accepted as AI-infrastructure policy per the brief. Japan: a new government decision to write the AI-power goal into its security documents; the 11-15 Japan item was the AI safety law. Taipei Times (history_match 'related' to 11-21 'Taiwan tells Meta' and 11-22 'Puma Shen indictment'): the Vanderbilt AI-persona study is a different event, so new. Dropped: BBC Taiwan AI fakes (same cluster, analysis), TorrentFreak NVIDIA (books only per the brief), EU EUR50bn sovereign fund (funding noise), Yonhap 주진우 micro-camera data (running exam-cheating story, no decision), The Decoder on chip curbs (analysis on the running export-control story). Not picked: Rapporteur MEP nudifier letter, BBC Mims Davies, MIT TR open records. The orchestrator's cross-section grep was clean for the 4 retained picks. The replacement still needs an exact-grep for its URL and 'gigafactor' across all sections before roll."
   },
   "items": [
     {
-      "title": "As Consumers Begin Their Holiday Shopping Season, Governor Hochul Signs Five-Year Ban on AI Chatbot Toys",
-      "url": "https://governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
-      "source": "Governor of New York",
+      "title": "방미심위 등 11개국 규제기관 \"AI 성적이미지, 개발단계부터 막아야\" — GOSRN 공동 입장문 채택",
+      "url": "https://www.yna.co.kr/view/AKR20261125107000017",
+      "source": "연합뉴스",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Policy axis, primary document: New York enacted a five-year moratorium on making, distributing or selling toys with embedded AI chatbots, enforced by the AG with penalties of up to $15,000 per day. It is a hard product ban that hits toy and companion-AI builders directly.",
-      "published_iso": "2026-11-24T15:59:00Z",
-      "og_image": null,
-      "excerpt": "Hochul signed S.9408A/A.11144B, a five-year moratorium on making, distributing or selling toys with embedded AI chatbots in New York; AG-enforced civil penalties up to $15,000 per day per violation, effective 90 days after signing."
+      "rationale": "Safety regulation, joint regulator release: 11 online-safety regulators, including Korea's, Ofcom, eSafety and ARCOM, called for safeguards against sexual imagery built in at the design and development stage of AI systems, plus age verification and fast takedown. Image-model builders in all of these markets are on notice.",
+      "published_iso": "2026-11-25T14:55:51+09:00",
+      "og_image": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
+      "excerpt": "한국 방미심위, 영국 오프컴, 호주 e세이프티위원회, 프랑스 ARCOM 등 11개 온라인 안전 규제기관이 시드니 GOSRN 연례회의에서 AI 생성 아동 성착취물·비동의 성적 이미지 대응 공동 입장문을 채택했다. AI 시스템 설계·개발 단계 안전장치, 연령 확인 강화, 신속 삭제 절차를 요구했다."
     },
     {
-      "title": "Character.AI Auction Of User Chats Faces CT Challenge",
-      "url": "https://ctnewsjunkie.com/2026/11/24/character-ai-auction-ct-challenge/",
-      "source": "CT News Junkie",
+      "title": "FCC signs off on SpaceX's plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Privacy and liability axis, new filing: Connecticut AG Tong and 41 other states plus DC asked the bankruptcy court to block Character.AI's planned Dec. 1 auction of chat histories from more than 21M accounts unless deletion and use safeguards are in place. The objection is attributed to the AGs. The outlet is off-list; on-list outlets ran only commentary.",
-      "published_iso": "2026-11-24T14:37:14+00:00",
-      "og_image": "https://ctnewsjunkie.com/wp-content/uploads/2025/03/pexels-photo-9783353-e1790274392871.jpeg",
-      "excerpt": "Connecticut AG Tong, with 41 other states and DC, asks the bankruptcy court to reject Character.AI's planned Dec. 1 auction of chat histories from 21M+ US accounts (2.1M registered to minors) without deletion or use safeguards."
+      "rationale": "AI infrastructure, regulatory decision: the FCC approved SpaceX's application to deploy up to one million satellites for orbital AI data centres. It is the first major regulatory green light for moving AI compute into space.",
+      "published_iso": "2026-11-25T17:44:51Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+      "excerpt": "The FCC approved SpaceX's application to deploy up to one million satellites for orbital AI data centers, a regulatory green light in the race by big tech to move AI compute into space."
     },
     {
-      "title": "Statement on UK launch of Meta Muse",
-      "url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/statement-on-uk-launch-of-meta-muse/",
-      "source": "Information Commissioner's Office (UK)",
+      "title": "Japan to declare aim to become AI nation after U.S. and China",
+      "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/ai-nation-aim/",
+      "source": "The Japan Times",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Regulator action, primary source: before Meta launched its Muse agentic AI in the UK, the ICO set out Meta's data-protection duties and secured a voluntary monitoring and reporting commitment. In a same-day blog post it reminded all consumer agentic-AI developers of their obligations.",
-      "published_iso": "2026-11-24T00:00:00Z",
-      "og_image": null,
-      "excerpt": "ICO CEO Paul Arnold says the regulator set out Meta's data-protection duties before the UK launch of its Muse agentic AI and that Meta committed to a voluntary monitoring and reporting scheme; a same-day ICO blog reminds consumer agentic-AI developers of their obligations."
+      "rationale": "AI geopolitics, national strategy: Japan will write the goal of becoming the third AI power after the US and China into its three core national security documents when it revises them, making AI part of its defence and security doctrine.",
+      "published_iso": "2026-11-25T21:17:51+09:00",
+      "og_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
+      "excerpt": "Japan's government will write the goal of becoming the world's third AI power after the US and China into its three key national security documents when it revises them later this year."
     },
     {
-      "title": "“개인정보 보호법 인공지능 특례” 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고",
-      "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12663",
-      "source": "개인정보보호위원회",
+      "title": "US report warns of Chinese AI persona tactics targeting Taiwan elections",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868404",
+      "source": "Taipei Times",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Privacy rulemaking axis, official release: PIPC opened pre-announcement of an enforcement decree setting the safeguards, risk assessment and review procedure under which personal data may be processed for AI development. Comments run until 2027-01-04, and the law takes effect 2027-03-09.",
-      "published_iso": "2026-11-23T10:00:00+09:00",
-      "og_image": null,
-      "excerpt": "개인정보위가 AI 개발 목적 개인정보 처리 특례의 안전조치·위험요인평가·심의·의결 절차를 담은 개인정보 보호법 시행령 개정안을 11월 23일부터 2027년 1월 4일까지 입법예고한다(법 2027-03-09 시행)."
+      "rationale": "AI in elections: a Vanderbilt University study, as reported, finds China-aligned AI-generated personas targeting Taiwan's Nov. 28 local elections. The findings are attributed to the researchers. It is the only elections-axis pick today, two days before the vote.",
+      "published_iso": "2026-11-26T00:00:00+08:00",
+      "og_image": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
+      "excerpt": "AI-generated personas aligned with China are being used to interfere in Taiwan's Nov. 28 nine-in-one local elections, according to a Vanderbilt University study reported by the New York Times; researchers previously traced a GoLaxy persona operation."
     },
     {
-      "title": "행안부, '공공 AI 서비스 UI/UX 가이드라인' 마련… AI 안내·선택 기준 제시",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790510",
-      "source": "대한민국 정책브리핑 (행정안전부)",
+      "title": "EU delays planned AI gigafactories again",
+      "url": "https://www.rapporteur.com/news/eu-delays-planned-ai-gigafactories-again/",
+      "source": "Rapporteur (Euractiv)",
       "tool": "Politics",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Public-sector procurement and design-rule axis, official release: the Ministry of the Interior and Safety (행정안전부) issued 29 design standards for public AI services, covering AI role disclosure, tone, input handling and result verification. These are concrete rules for anyone building government AI interfaces.",
-      "published_iso": "2026-11-24T12:00:00+09:00",
+      "rationale": "Sovereign AI, new decision: EuroHPC JU pushed the application deadline for building EU AI gigafactories from 3 December to 30 December. It is at least the fifth delay to the sovereign compute programme announced in February 2025, and it moves the timeline for bidders and host countries.",
+      "published_iso": "2026-11-25T18:07:13+01:00",
       "og_image": null,
-      "excerpt": "행정안전부가 11월 25일 '공공 AI 서비스 UI/UX 가이드라인'을 배포한다. AI의 역할·말투부터 정보 입력, 결과 확인까지 29개 설계 기준과 적용 사례를 제시한다."
+      "excerpt": "EuroHPC JU moved the deadline for countries and companies to apply to build EU AI gigafactories from 3 December to 30 December — at least the fifth delay to the sovereign AI compute project von der Leyen pitched in February 2025."
     }
   ]
 }

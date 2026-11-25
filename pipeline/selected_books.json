@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "books",
   "items": [
     {
-      "title": "Loi sur l'IA et le droit d'auteur : Laure Darcos dénonce un nouveau blocage à l'Assemblée nationale",
-      "url": "http://www.livreshebdo.fr/article/loi-sur-lia-et-le-droit-dauteur-laure-darcos-denonce-un-nouveau-blocage-lassemblee",
-      "source": "Livres Hebdo",
-      "category": "books",
+      "rank": 1,
+      "title": "NVIDIA Seeded Pirated Books and Shared Them With Adobe, Authors Allege",
+      "url": "https://torrentfreak.com/nvidia-seeded-pirated-books-and-shared-them-with-adobe-authors-allege/",
+      "source": "TorrentFreak",
+      "published_iso": "2026-11-25T08:57:04+00:00",
+      "og_image": "https://torrentfreak.com/images/matrix-fea.jpg",
+      "excerpt": "Book authors' amended complaint accuses NVIDIA of seeding pirated books via BitTorrent after downloading them from Anna's Archive and LibGen for AI training, and of sharing them with partners including Adobe.",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "published_iso": "2026-11-19T17:18:01+01:00",
-      "og_image": "https://www.livreshebdo.fr/sites/default/files/2026-05/ASSEMBLEE_NATIONALE_BOURBON.jpg",
-      "excerpt": "The bill creating a presumption that AI providers exploited cultural works was pulled from the National Assembly agenda on 19 November; Senator Laure Darcos denounces a new blockage.",
-      "rationale": "A concrete legislative event: France's bill presuming AI training use of authors' works was pulled from the Assembly agenda. It directly affects authors' ability to claim against AI firms and has not been carded in any section."
+      "rationale": "New court filing in an authors-v-AI-training case: an amended complaint alleging NVIDIA seeded pirated books and passed them to Adobe. Assigned to books only by the cross-section plan."
     },
     {
-      "title": "\"이 소설, 정말 당신이 썼나요?\"···AI 사용 확인에 면접까지, 달라진 신춘문예",
-      "url": "https://www.khan.co.kr/article/202611241913001",
-      "source": "경향신문",
-      "category": "books",
+      "rank": 2,
+      "title": "Society of Authors to form AI focus group to work on new charter",
+      "url": "https://www.thebookseller.com/news/society-of-authors-to-form-ai-focus-group-to-work-on-new-charter",
+      "source": "The Bookseller",
+      "published_iso": "2026-11-25T16:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+      "excerpt": "The Society of Authors is forming an AI focus group to draft a new charter, after its earlier 'Ethical AI Charter' sparked member backlash and was retracted.",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "published_iso": "2026-11-24T19:13:00+09:00",
-      "og_image": "https://img.khan.co.kr/news/2026/11/24/news-p.v1.20261116.92cf81a063174a5cafc74bd1b5615735_P1.jpg",
-      "excerpt": "신춘문예를 공모하는 신문사 일부와 문학상을 운영하는 출판사들이 AI 사용 여부 확인 절차에 당선 후보 면접까지 도입하고 있다.",
-      "rationale": "Follow-up with a new concrete step: Korean newspaper contests and publisher-run literary prizes now add AI-use verification and finalist interviews. The 11-16 card only reported that AI manuscripts would not be accepted."
+      "rationale": "The UK's largest authors' union is restarting its AI policy after its first charter was retracted. That directly shapes the AI terms authors will negotiate, and it is a fresh announcement."
     },
     {
-      "title": "Japan Tests AI to Detect Pirate Anime and Manga Sites at Scale",
-      "url": "https://www.gadgetreview.com/japan-tests-ai-to-detect-pirate-anime-and-manga-sites-at-scale",
-      "source": "GadgetReview",
-      "category": "books",
+      "rank": 3,
+      "title": "\"Not a win – but it is not a dead loss\": Industry responds to Joint Select Committee on AI report",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/11/25/346273/not-a-win-but-it-is-not-a-dead-loss-industry-responds-to-joint-select-committee-on-ai-report/",
+      "source": "Books+Publishing",
+      "published_iso": "2026-11-24T23:37:10+00:00",
+      "og_image": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/10/APA-ASA-Hachette-and-authors-400x327.jpg",
+      "excerpt": "Australia's Joint Select Committee on AI recommended strengthening copyright, but the APA and ASA say the report does not rule out an 'opt-out' approach to AI training on books.",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "published_iso": "2026-11-24T14:32:31-05:00",
-      "og_image": "https://www.gadgetreview.com/wp-content/uploads/Japan-Tests-AI-to-Detect-Pirate-Anime-scaled.jpg",
-      "excerpt": "A Japanese government AI agent flagged pirate manga and anime sites, with up to 94% of flagged manga sites confirmed illegal, as piracy damage nears 5.7 trillion yen.",
-      "rationale": "New government trial results: an AI agent flagged pirate manga sites at up to 94% precision. This is a different initiative from the 10-28 Ministry of Finance shared-platform proposal."
+      "rationale": "A new parliamentary report: Australia's Joint Select Committee recommends strengthening copyright but leaves an opt-out route for AI training on books open. This is the official release itself, not a follow-on to the earlier campaign card."
     },
     {
-      "title": "Transept: Two Ukrainian Founders Build an A.I. Book Translator in Prague",
-      "url": "https://www.trendingtopics.eu/transept-ai-book-translator-prague/",
-      "source": "Trending Topics",
-      "category": "books",
+      "rank": 4,
+      "title": "Les industries culturelles ouvrent une consultation citoyenne sur l'IA",
+      "url": "https://actualitte.com/article/135412/usages-numeriques/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia",
+      "source": "ActuaLitté",
+      "published_iso": "2026-11-24T11:51:00+01:00",
+      "og_image": "https://actualitte.com/uploads/images/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia-6b056b9ca678b284982426.jpg",
+      "excerpt": "Eleven French cultural-industry bodies including the SNE publishers' union, the writers' CPE and Sofia launch a Make.org citizen consultation on AI and human creation, running 23 Nov 2026 to 17 Jan 2027.",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "published_iso": "2026-11-24T07:28:19+00:00",
-      "og_image": "https://www.trendingtopics.eu/wp-content/uploads/2026/11/transept-founders-scaled-social.jpg",
-      "excerpt": "Prague-based start-up Transept translates entire books with AI; the piece covers which language models it uses, what it costs and why readers still prefer human translators.",
-      "rationale": "A new whole-book AI translation product, with its models, its costs and reader resistance. It is unrelated to the 11-08 DOU e-reader card that the tagger matched it to, and distinct from HiveMind and Inkflock."
+      "rationale": "Eleven French cultural bodies, led by the SNE publishers' union, have opened a public consultation on AI that runs until 17 January. Readers can take part, and it widens the brief beyond English-language markets."
     },
     {
-      "title": "네이버웹툰, AI 추천 기술 논문 국제학회 채택…\"유료 결제 도달률 13.4% 증가\"",
-      "url": "https://biz.chosun.com/it-science/ict/2026/11/24/Z7QQYIVP4NCCJDQSWG7ZQ5BSB4/",
-      "source": "조선비즈",
-      "category": "books",
+      "rank": 5,
+      "title": "\"우리 아이가 동화책 주인공으로\"…AI로 만드는 맞춤 동화",
+      "url": "https://www.hankyung.com/article/202611250350g",
+      "source": "한국경제",
+      "published_iso": "2026-11-25T17:49:25+09:00",
+      "og_image": "https://img.hankyung.com/photo/202611/01.46542839.1.jpg",
+      "excerpt": "하얀꿈ENM이 아이의 일상 사연을 공모받아 AI로 맞춤형 동화책을 제작한다. 첫 체험 10가족을 선정했고, 그림책 기반 영상·오프라인 체험으로 확장을 검토 중이다.",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "published_iso": "2026-11-24T05:49:34Z",
-      "og_image": "https://biz.chosun.com/resizer/v2/HA3DCZRRMQYTAODEG5TDMNZSME.jpg?auth=df10ae749834f22f837c690d31960a8e90157d63903f8c244463f3975df6846c&width=1200&height=630&smart=true",
-      "excerpt": "네이버웹툰의 AI 추천 모델 논문이 ACM RecSys 2026 산업 트랙에 채택됐다. 끝까지 읽을 작품을 예측하는 추천으로 유료 결제 도달률이 13.4% 늘었다.",
-      "rationale": "A new research result from a major platform, with a measured effect: Naver Webtoon's completion-prediction recommender raised the paid-conversion reach rate by 13.4%. No earlier card covers Naver Webtoon recommendation."
+      "rationale": "A Korean publisher launches a product that makes personalised AI picture books. It covers the product and making side of AI in books, which balances the four policy and legal picks."
     }
   ],
   "dedup": {
     "checks": {
-      "http://www.livreshebdo.fr/article/loi-sur-lia-et-le-droit-dauteur-laure-darcos-denonce-un-nouveau-blocage-lassemblee": {
+      "https://torrentfreak.com/nvidia-seeded-pirated-books-and-shared-them-with-adobe-authors-allege/": {
         "verdict": "new",
-        "nearest": "http://knpp.co.kr/news/597241",
+        "nearest": "https://www.vitallaw.com/news/copyright-news-anthropic-and-meta-self-helped-themselves-to-ai-training-materials-new-lawsuit-asserts/ipm01eea3882904794aa786ea89a4f8e8a780",
         "new_action": ""
       },
-      "https://www.khan.co.kr/article/202611241913001": {
-        "verdict": "follow-up",
-        "nearest": "https://www.munhwa.com/article/11631030",
-        "new_action": "Newspapers and publisher literary prizes introduce AI-use verification procedures and finalist interviews (new screening process, beyond the 11-16 'no AI manuscripts' rule)."
-      },
-      "https://www.gadgetreview.com/japan-tests-ai-to-detect-pirate-anime-and-manga-sites-at-scale": {
+      "https://www.thebookseller.com/news/society-of-authors-to-form-ai-focus-group-to-work-on-new-charter": {
         "verdict": "new",
-        "nearest": "https://automaton-media.com/en/nongaming-news/japans-ministry-of-finance-proposes-shared-manga-platform-where-global-fans-can-access-multiple-publishers-in-one-place-the-idea-involves-ai-translation/",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101763-university-presses-sign-charter-promising-integrity-vigilance-over-ai.html",
         "new_action": ""
       },
-      "https://www.trendingtopics.eu/transept-ai-book-translator-prague/": {
+      "https://www.booksandpublishing.com.au/articles/2026/11/25/346273/not-a-win-but-it-is-not-a-dead-loss-industry-responds-to-joint-select-committee-on-ai-report/": {
         "verdict": "new",
-        "nearest": "https://dev.ua/en/news/zasnovnyk-dou-ta-djinni-rozrobyv-vlasnu-shi-chytalku-1793793467",
+        "nearest": "https://www.booksandpublishing.com.au/articles/2026/11/17/344957/australian-society-of-authors-media-organisations-launch-not-ais-to-take-campaign/",
         "new_action": ""
       },
-      "https://biz.chosun.com/it-science/ict/2026/11/24/Z7QQYIVP4NCCJDQSWG7ZQ5BSB4/": {
+      "https://actualitte.com/article/135412/usages-numeriques/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "http://www.livreshebdo.fr/article/loi-sur-lia-et-le-droit-dauteur-laure-darcos-denonce-un-nouveau-blocage-lassemblee",
+        "new_action": ""
+      },
+      "https://www.hankyung.com/article/202611250350g": {
+        "verdict": "new",
+        "nearest": "https://techcrunch.com/2026/11/06/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates or follow-ups with no new event. (1) Scholarly Kitchen 'AI Training is Copyright Infringement' (ROSS) is analysis of the already-carded ROSS ruling; the 11-24 curator note records the same drop. (2) Scholarly Kitchen IFRRO CEO interview is commentary on the IFRRO study carded 10-30. (3) Comics Beat 'GlobalComix pivot' is analysis of the GlobalComix refresh carded 11-20. (4) 아주경제 '딸깍 출판' is a column on the same trend as the 11-18 아주 card on surging AI manuscripts and the 11-04 딸깍도서 card. (5) Dong-A English HiveMind Aurorah is the same announcement as the 11-13 it.donga card. Not picked on judgement: Getbackers voice-comic apology (a reaction to the 11-20 MangaNow story, not a new release); Not AI's to Take survey (follow-up to the 11-22 campaign card; body paywalled); Tamil Nadu publisher arrest (fourth card on a running story, and the 16 Nov arrest overlaps the 11-16 suspension card; off-list outlet); Publishing Ireland conference roundup (11-16, generic); Livres Hebdo citizens' consultation (kept as next backfill; skipped so the picks are not two French-policy cards from one outlet). Cross-section: checked the politics 30-day digest; there are no Darcos/French AI-copyright bill, Japan piracy AI or Naver Webtoon items. Diversity: 5 distinct outlets. Three are off-list (경향, GadgetReview, Trending Topics, 조선비즈 — the pool's on-list fresh items were mostly analysis or repeats), so enrichment should verify bodies."
+    "note": "Australia committee card: its history_match (RTE 11-18, Irish committee) is a different country and body; the closer 11-22 Not AI's to Take campaign card is named as nearest, and the committee report is a new official release. Dropped as duplicates of published stories: PW literary translators' amicus brief (same story as the 11-13 Publishing Perspectives '50+ amicus briefs' card); Scholarly Kitchen IFRRO interview (follow-up commentary on the 10-30 IFRRO study); ajunews '딸깍 출판' column (follow-up of the 11-18 ajunews AI-manuscripts card); Dong-A English HiveMind/Aurorah (same as the 11-13 it.donga card); Getbackers PR-video apology (reaction to the 11-20 MangaNow card, no new release); Not AI's to Take voter survey (running campaign already published 11-22; kept the committee report as the single Australia item). Cross-section: Yonhap MCST AI-training standard-contract hearing excluded (assigned to politics). Passed over on score: Pangram bias analysis (follow-up to the Esquire and 404 Media Pangram cards), Scholarly Kitchen ROSS and just-in-time essays, ActuaLitté manga reportage and translation op-ed (commentary), McAvoy narration remarks (commentary), IPG/LBF training event, Digital Reader cover tests (possible advertorial), Dong-A librarian copyright training (minor). Picks checked against the politics 30-day history and today's politics pool (only NVIDIA overlaps, and it is assigned to books). Exact-URL check against published_urls.json books section: none present. Hankyung URL compared in full: 202611250350g is not 202611169483i."
   }
 }

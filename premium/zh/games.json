@@ -12582,6 +12582,136 @@
           "x": "Patentlyze表示，自5月以来已追踪到Sony提交的174项专利申请。"
         }
       ]
+    },
+    "games/ubisoft-genai-pitch-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "图片来源：Ubisoft"
+        },
+        {
+          "t": "p",
+          "x": "据报道，Ubisoft提出新项目的团队被要求说明生成式AI将如何帮助他们更快地制作游戏；如果不打算使用，必须详细说明原因。据多名匿名接受Vertical Slice采访的现任员工称，未阐明这一点的提案将不会获批。"
+        },
+        {
+          "t": "p",
+          "x": "一名消息人士称，管理层并未直接强制使用生成式AI，但已全力押注。另一人说：“我们被告知，使用AI将提高‘小型精益敏捷团队’制作提案的速度……如果你打算不用，就必须给出理由。”并补充说，Ubisoft认为生成式AI如今已“不可避免”。"
+        },
+        {
+          "t": "p",
+          "x": "此次报道发布前，Ubisoft上周刚成立专门的生成式AI子公司Motherbrain，Teammates背后的团队也归入其中。员工人数从2022年9月的20,700人降至2026年9月的15,500人。一名员工说：“Ubisoft正陷入一场自上而下的AI精神病噩梦。”Ubisoft尚未回应置评请求。"
+        }
+      ]
+    },
+    "games/muvluv-ai-translation-refusals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
+          "cap": "© aNCHOR inc"
+        },
+        {
+          "t": "p",
+          "x": "AI还无法接手游戏的翻译工作，缺少人工把关，就可能出现Muv-Luv Girls Gaiden这样的情况：该作刚推出的英文版里，满是宣称拒绝翻译“露骨性内容”的游戏内文本。"
+        },
+        {
+          "t": "p",
+          "x": "Girls Gaiden是长寿日本黄油系列的放置类RPG抽卡衍生作，2025年在日本推出全年龄版和成人版。其Steam页面上的日文公告确认部分翻译借助AI工具完成。玩家发现，对白被丢进AI工具后未经检查就放回游戏，留下无数类似“我无法提供露骨性内容的翻译”的句子。"
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
+          "cap": "© Antares1368 / X"
+        },
+        {
+          "t": "p",
+          "x": "全年龄版在Steam上的评价为“多半差评（Mostly Negative）”，多数评测都提到翻译质量。开发商Moedoki去年曾表示，只有在“翻译质量达到可与母语译者相媲美的水平”时才会考虑AI翻译。"
+        }
+      ]
+    },
+    "games/corcos-claude-civ-clone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
+          "cap": "图片来源：2K/Firaxis"
+        },
+        {
+          "t": "p",
+          "x": "经DOGE任命的Sam Corcos于2025年以特别顾问身份加入财政部，并成为其首席信息官（CIO）。在该部门遭遇备受审视的网络安全入侵事件之际，他仍在任，同时用氛围编程开发Legatum——一款“基于六边形地图的历史4X游戏，为热爱Civilization的人打造”。"
+        },
+        {
+          "t": "p",
+          "x": "其GitHub readme写道：“Legatum主要由AI编程代理构建，所有美术均为AI生成（AI-generated）。”大部分美术来自通过ChatGPT调用的OpenAI图像模型。"
+        },
+        {
+          "t": "p",
+          "x": "过去几天里，该项目更新了数十次，而财政部下属机构FinCEN正在处理一起“导致其部分有限系统遭未授权访问”的“网络安全事件”。Corcos发推称“电脑在自己干活，主要是Opus 5.5在统筹一堆迭代循环”，但正如404 Media指出的，他经常就功能向Claude提供反馈。一条写着“财政部CIO忙着氛围编程，不干正事”的GitHub issue被以“off-topic（离题）”为由关闭——这条回复同样由Claude生成。"
+        }
+      ]
+    },
+    "games/clashroyale-ai-cheat-hire": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Clash Royale开发商Supercell招募了一款高级AI作弊工具的作者，协助打击游戏中的作弊行为。"
+        },
+        {
+          "t": "p",
+          "x": "AI作弊在Clash Royale中日益引发争议，据报道越来越精密的机器人已能胜过熟练的人类玩家。玩家们关注到有说法称，一个名为“Clasher”的AI操控账号（AI-controlled）登上了全球排行榜榜首。11月20日，Clash Royale在X上警告称，使用AI或其他工具作弊是“皇家罪行”。"
+        },
+        {
+          "t": "p",
+          "x": "11月21日，官方宣布：“AI作弊工具的作者已被抓获。他完全出于自愿，同意与Clash Royale团队联手。还有谁比打造出我们在Arena中见过最先进作弊工具的人更适合帮我们抓作弊者呢？我们正携手打造新技术，让这种行为无处遁形。”"
+        },
+        {
+          "t": "p",
+          "x": "Supercell没有公开此人身份，也未说明其是否就是“Clasher”的幕后操控者。其公平竞赛措施本就结合了自动检测与人工审核。"
+        }
+      ]
+    },
+    "games/nvidia-kimodo-ue59-motion": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NVIDIA本月的游戏开发更新帮助团队将新的图形、动画和本地AI能力引入引擎，从War Thunder中的DLSS 5到Unreal Engine 5.9 Preview中的Kimodo。"
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
+          "cap": "NVIDIA Kimodo在Unreal Engine 5.9 Preview的Sequencer中生成角色动作。动画由Epic Games提供"
+        },
+        {
+          "t": "p",
+          "x": "Unreal Engine 5.9 Preview引入了一个引导式动画框架和一套Sequencer工具，让动画师可以直接使用AI动作生成模型。Kimodo是首个与之集成的模型，将GPU加速（GPU-accelerated）的动作生成与熟悉的时间线编辑器工作流相结合。"
+        },
+        {
+          "t": "p",
+          "x": "动画师可以用文本提示描述动作，绘制角色要沿循的样条路径，并在特定帧设定目标姿势。模型会生成遵循这些约束的动作，因此由团队决定角色往哪里移动、在关键时刻摆出怎样的姿势。"
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
+          "cap": "NvIGI SDK在本地PC上运行NVIDIA ACE AI模型"
+        },
+        {
+          "t": "p",
+          "x": "In-Game Inferencing SDK 1.8帮助开发者在设备端运行NVIDIA ACE，新增RTX Spark支持、更新的llama.cpp和whisper.cpp后端、Parakeet语音识别以及Vulkan priority API。"
+        },
+        {
+          "t": "video",
+          "yt": "geAFyWn6Nio"
+        },
+        {
+          "t": "p",
+          "x": "Nsight Graphics 2026.4和Nsight Systems 2026.6新增DLSS Frame Generation分析和智能体AI工具：新的Nsight Graphics MCP服务器让兼容的AI智能体能够捕获应用、调试捕获并分析GPU跟踪数据。"
+        }
+      ]
     }
   }
 }

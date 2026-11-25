@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "science",
   "items": [
     {
-      "title": "Chatbots can quash emerging conspiracy theories",
-      "url": "https://news.cornell.edu/stories/2026/11/chatbots-can-quash-emerging-conspiracy-theories",
-      "source": "Cornell Chronicle",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "category": "research_automation",
+      "tool": "Science",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "Primary-source release with a hard number: new Mass Spec Skills let Gemini agents drive established tools and public databases to interpret tandem mass spectra, lifting exact-match identification on a 100-compound benchmark from under 4% to about 97%.",
+      "published_iso": "2026-11-25T17:00:00Z",
+      "og_image": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+      "excerpt": "DeepMind released Mass Spec Skills, letting Gemini agents interpret tandem mass spectra by driving established tools and public chemical databases. On a 100-compound benchmark exact-match identification rose to about 97%, from under 4% without the skills."
+    },
+    {
+      "title": "Scientists at Meta decode typed sentences from brain activity without surgically implanted chips",
+      "url": "https://www.psypost.org/scientists-at-meta-decode-typed-sentences-from-brain-activity-without-surgically-implanted-chips/",
+      "source": "PsyPost",
+      "category": "cognition",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Peer-reviewed Nature Neuroscience result from Meta: MEG plus a trained model reconstructs typed sentences from outside the skull, a non-invasive brain-to-text milestone that trails implants on accuracy but needs no surgery.",
+      "published_iso": "2026-11-25T12:00:00Z",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg",
+      "excerpt": "A Nature Neuroscience study from Meta shows magnetoencephalography plus a trained model can reconstruct typed sentences from outside the skull, without implants. Accuracy trails invasive interfaces but needs no surgery."
+    },
+    {
+      "title": "Stabilizing atomically thin metals with sandwich structures: Machine learning expands the search",
+      "url": "https://phys.org/news/2026-11-stabilizing-atomically-thin-metals-sandwich.html",
+      "source": "Phys.org",
+      "category": "materials",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Concrete ML-for-materials screen: Jyvaskyla models trained on first-principles data sift over a thousand metallene sandwich heterostructures and find 300+ stable candidates that stay metallic at room temperature in simulation (Nano Letters).",
+      "published_iso": "2026-11-25T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
+      "excerpt": "University of Jyvaskyla researchers trained machine-learning models on first-principles data to screen over a thousand metallene 'sandwich' heterostructures, finding more than 300 stable candidates (Nano Letters). Selected structures stayed intact and metallic in room-temperature simulations."
+    },
+    {
+      "title": "Empirical evidence for eight ways that AI is impacting people",
+      "url": "https://www.nature.com/articles/s41562-026-02615-0",
+      "source": "Nature Human Behaviour",
+      "category": "cognition",
+      "tool": "Science",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "rationale": "High-credibility evidence review in Nature Human Behaviour that tests eight widely repeated claims about AI's effects on people and finds only modest support for the most alarming ones; a useful corrective anchor for the section's many AI-and-people stories.",
+      "published_iso": "2026-11-24T00:00:00Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png",
+      "excerpt": "A review weighs the actual evidence behind eight widely repeated concerns about AI's effect on people, finding only modest support for the most alarming claims. The authors call for sharper empirical scrutiny of human impact."
+    },
+    {
+      "title": "Machine-learning models can detect elevated psychopathy and sadism from reactions to funny pictures",
+      "url": "https://www.psypost.org/machine-learning-models-can-detect-elevated-psychopathy-and-sadism-from-reactions-to-funny-pictures/",
+      "source": "PsyPost",
       "category": "psychology",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Fresh primary-source psychology result: AI chatbot conversations talked ~15% of people out of conspiracy beliefs in the immediate aftermath of a crisis, when little information is known yet, which extends debunking-by-dialogue to breaking events.",
-      "published_iso": "2026-11-24T09:45:29-05:00",
-      "og_image": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=Vr-AAGHS",
-      "excerpt": "Cornell researchers found AI chatbot conversations talked about 15% of people out of conspiracy beliefs in the immediate aftermath of a crisis, when little information is known. (Off-list: no on-list outlet had it yet.)"
-    },
-    {
-      "title": "Predicting the unknown: A robust approach lets AI extrapolate to undiscovered materials",
-      "url": "https://techxplore.com/news/2026-11-unknown-robust-approach-ai-extrapolate.html",
-      "source": "Tech Xplore",
-      "category": "materials",
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "Concrete method with a hard number: University of Tokyo splits structure learning (pretrained GNNs) from property regression and cuts extrapolation error 68% vs CGCNN on newer Materials Project entries (PRX Intelligence), aimed at the out-of-distribution problem in AI materials discovery.",
-      "published_iso": "2026-11-24T16:00:02Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
-      "excerpt": "University of Tokyo researchers decouple structure learning (pretrained graph neural networks) from property regression, cutting extrapolation error 68% versus CGCNN on newer Materials Project entries (PRX Intelligence)."
-    },
-    {
-      "title": "Physics-guided AI reconstructs fluid flow from sparse, noisy data",
-      "url": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html",
-      "source": "Phys.org",
-      "category": "physics",
-      "tool": "Science",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "rationale": "New physics-informed method (UC Irvine PMPG-NN, Physics of Fluids): pairs a neural network with the principle of minimum pressure gradient to rebuild physically consistent flow fields from sparse, noisy measurements, with no pressure data needed.",
-      "published_iso": "2026-11-23T23:20:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
-      "excerpt": "UC Irvine's PMPG-NN couples a neural network with the principle of minimum pressure gradient to reconstruct physically consistent flow fields from sparse, noisy measurements without pressure data (Physics of Fluids)."
-    },
-    {
-      "title": "AI helps researchers track beluga whales using aerial drone images",
-      "url": "https://phys.org/news/2026-11-ai-track-beluga-whales-aerial.html",
-      "source": "Phys.org",
-      "category": "life_science",
-      "tool": "Science",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "Applied field ecology with a practical payoff: FAU and Fisheries and Oceans Canada use semi-supervised detection (SEMI-DETR) to track belugas and calves across drone imagery with 5-10x less hand labeling (Frontiers in Marine Science).",
-      "published_iso": "2026-11-19T19:40:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
-      "excerpt": "Florida Atlantic University and Fisheries and Oceans Canada used semi-supervised deep learning (SEMI-DETR) to detect and track belugas and calves across drone image sequences with 5-10x less hand labeling (Frontiers in Marine Science)."
-    },
-    {
-      "title": "Researchers Fit Quantum Circuits Into a 30 Billion-Parameter AI Model",
-      "url": "https://thequantuminsider.com/2026/11/24/researchers-fit-quantum-circuits-into-a-30-billion-parameter-ai-model/",
-      "source": "The Quantum Insider",
-      "category": "quantum",
-      "tool": "Science",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "rationale": "Novel hybrid experiment: researchers swap eight layers of a 30B-parameter Qwen3 model for a module that can run on a quantum processor, testing quantum circuits inside a frontier-scale language model. Fills the quantum slot after the DeepMind item was dropped as a repeat.",
-      "published_iso": "2026-11-24T12:23:06+00:00",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png",
-      "excerpt": "Researchers replaced eight layers of the Qwen3 language model with a module that can run on a quantum processor, testing hybrid quantum circuits inside a 30B-parameter model."
+      "rationale": "Novel psychology finding: classifiers trained only on how people rate cartoons and memes flag elevated psychopathy, sadism and narcissism (but not Machiavellianism), showing how much personality leaks from humour preferences.",
+      "published_iso": "2026-11-24T11:00:24Z",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+      "excerpt": "Algorithms trained on how people rate cartoons and memes picked out elevated psychopathy, sadism and narcissism from humour preferences alone. Machiavellianism left no detectable trace."
     }
   ],
   "dedup": {
     "checks": {
-      "https://news.cornell.edu/stories/2026/11/chatbots-can-quash-emerging-conspiracy-theories": {
+      "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/": {
+        "verdict": "follow-up",
+        "nearest": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+        "new_action": "New release: DeepMind's Mass Spec Skills for Antigravity (tandem-MS interpretation, ~97% exact match on a 100-compound benchmark), a separate skill set from the 11-04 cheminformatics post"
+      },
+      "https://www.psypost.org/scientists-at-meta-decode-typed-sentences-from-brain-activity-without-surgically-implanted-chips/": {
         "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2611.16667",
+        "nearest": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-11-unknown-robust-approach-ai-extrapolate.html": {
+      "https://phys.org/news/2026-11-stabilizing-atomically-thin-metals-sandwich.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-11-faster-discovery-rethink-ai-role.html",
+        "nearest": "https://phys.org/news/2026-10-ai-uncover-overlooked-2d-materials.html",
         "new_action": ""
       },
-      "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html": {
+      "https://www.nature.com/articles/s41562-026-02615-0": {
         "verdict": "new",
-        "nearest": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+        "nearest": "https://www.psypost.org/prior-expertise-may-determine-whether-ai-builds-skills-or-substitutes-for-them-field-experiment-suggests/",
         "new_action": ""
       },
-      "https://phys.org/news/2026-11-ai-track-beluga-whales-aerial.html": {
+      "https://www.psypost.org/machine-learning-models-can-detect-elevated-psychopathy-and-sadism-from-reactions-to-funny-pictures/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-11-ai-misidentifies-wildlife-species-identification.html",
-        "new_action": ""
-      },
-      "https://thequantuminsider.com/2026/11/24/researchers-fit-quantum-circuits-into-a-30-billion-parameter-ai-model/": {
-        "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html",
+        "nearest": "https://www.psypost.org/people-project-a-specific-racial-identity-onto-artificial-intelligence-study-finds/",
         "new_action": ""
       }
     },
-    "note": "Dropped as repeats: Scientific American Levent Alpoge profile (likely-repeat of the 11-21 SciAm Riemann-proof card; a profile adds no new event). Nature 'end of mathematics' (commentary on the same Riemann running story, nearest 11-21). DeepMind 'Finding faster quantum algorithms with agents and formal verification' (blog post for arXiv 2611.09822, numbered around Nov 10-11; it almost certainly covers the same Google AI + Lean-proof cost-cutting work The Quantum Insider ran on 11-10, carded 11-11; a later official write-up of an already-carded paper is the same story, not a new release; dropped despite the brief's preference because of the earliest-wins rule). Excluded per brief (classifier risk): Nature 'Claude and ChatGPT biology skills' (protein design), Science in Poland protein knot. Not picked on merit: MIT Tech Review philosopher vs Anthropic consciousness (commentary), PsyPost psychopathy-from-memes (second psychology item; Cornell ranked higher), cryoPARES (no og_image; solid backup), Science Advances DNA neurons (no image, molecular computing, less accessible). Cross-section: none of the five picks appear in today's cross-section assignment list; their outlets and topics are science-only. I could not exact-grep published_urls.json with the tools I have (Read only), so the orchestrator should grep it for these 5 URLs before roll. Diversity: 4 outlets (Phys.org x2, Cornell Chronicle, Tech Xplore, The Quantum Insider); 5 distinct categories (psychology, materials, physics, life_science, quantum)."
+    "note": "Dropped as repeats: DeepMind 'Finding faster quantum algorithms with agents and formal verification' (blog for arXiv 2611.09822 = the Google AI + Lean-proof cost-cutting work carded 11-11 via The Quantum Insider; also dropped on 11-25 for the same reason; earliest-wins overrides the brief's preference). Singularity Hub AI-designed CRISPR rice (likely-repeat of the 10-29 Phys.org rice/OpenCRISPR card; also brief-excluded). Physics World 'Suppressing starlight reveals new exoplanets' (related to the 11-06 Universe Today JWST 'digital twin' starlight-removal card, plausibly the same work; AI angle also thin per excerpt - not risked). Excluded per brief (classifier risk / cross-section): Live Science AI-designed insulin-receptor protein, Nature Claude/ChatGPT biology skills, Nature ORIDTP peptides. Not picked on merit: EurekAlert Birmingham ML artificial enzymes (no og_image; related to 11-02 enzyme card but a distinct palladium-cage chemistry study - good backup), Singularity Hub LLM gene-editor (vague excerpt, no named study), Google Research social reasoning, Phys.org zero-one law proof, isSPA-vesicle cryo-EM, ScienceDaily consciousness theory (AI incidental), MIT TR philosopher vs Anthropic (commentary), Universe Today orbital AI data centers (avoid overlap with politics' SpaceX FCC orbital data-centre item), arXiv AGB/FRB/filaments (no images). Cross-section: none of the five picks are on today's cross-section assignment list. published_urls.json was too large to exact-grep with Read-only tools; orchestrator should grep these 5 URLs (plus 'Mass Spec Skills', 'Brain2Qwerty'/Meta typing decode, 'metallene') across all sections before roll. Diversity: 4 outlets (PsyPost x2, Google DeepMind, Phys.org, Nature Human Behaviour); categories research_automation, cognition x2, materials, psychology."
   }
 }

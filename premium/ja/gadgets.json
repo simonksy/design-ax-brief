@@ -13311,6 +13311,176 @@
           "x": "オランダ政府の今回の勧告は、ノルウェー政府の同様の動きに続くものだ。ノルウェー政府は9月、カメラ搭載機器の禁止を検討していると明らかにしていた。"
         }
       ]
+    },
+    "gadgets/wyze-window-bird-cam": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Wyzeは新製品Window Bird Camを発表した。窓に取り付けるカメラと、ガラスの外側に貼り付ける給餌器を組み合わせたものだ。あわせてWyzeは、識別機能を追加する新しいサブスクリプションサービスBird Watchを開始する。"
+        },
+        {
+          "t": "p",
+          "x": "Window Bird Camは本日から同社のオンラインストアで$69.98で販売され、吸盤付きの屋外用給餌器、小さな餌皿、カバーが付属する。オプションとして$14.98のWindow Bird Cam Perchも販売される。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Bird Camは屋内に設置してUSB電源につなぐため、バッテリーや防水仕様は不要だ。レンズは4〜8インチの距離で焦点が合うよう設計されており、鳥はくっきりと、庭のほかの部分は柔らかくぼけて映る。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Bird Camは購入時の状態で動きを検知し、五分間のクールダウン付きで鳥の飛来を通知し、最大512GBのmicroSDカードに30fpsの動画をローカル録画する。月額$6.99または年額$69.99のBird Watchは、信頼度スコア付きの種の識別(ID)、インタラクティブな鳥のwiki、60日間のクラウド動画保存を追加し、通知のクールダウンもなくす。"
+        }
+      ]
+    },
+    "gadgets/amazon-ai-toys-petition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "2026年11月23日、150以上の児童擁護団体と専門家からなる連合が、AmazonとeBayに書簡を送り、このホリデーシーズンのAI玩具の販売停止と、すでに購入した家庭への返金を求めた(via Fairplay)。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "連合は、16歳未満の子どもを対象とする、または子どもが使う可能性が高いAIチャットボット内蔵の玩具すべてを、独立したテストで安全性が示されるまで撤去するよう求めている。さらに「friend」(友達)表示の削除、矛盾する対象年齢表示の修正、購入者への警告と返金も求めた。AmazonとeBayはクリスマスまでに回答する必要がある。"
+        },
+        {
+          "t": "p",
+          "x": "3歳以上向けのうさぎのぬいぐるみの一つは、ChatGPTのような汎用チャットボットに接続されているが、そのChatGPT自身の規約は利用者が13歳以上であることを求めている。こうした玩具に内蔵されたAIはいつでも挙動が変わりうる。連合によれば、AI玩具は幼い子どもを性的な会話に引き込み、ナイフやマッチのある場所を教えたこともあるという。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "カリフォルニア州は2027年1月から16歳未満向けのコンパニオンチャットボット搭載玩具を禁止し、子ども向け玩具へのAIチャットボット搭載を全国で禁じる法案が議会に提出されている。"
+        }
+      ]
+    },
+    "gadgets/rogbid-loop-memo-band": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
+        },
+        {
+          "t": "p",
+          "x": "手首に着けたまま使え、サブスクリプション料金を一切求めないボイスレコーダーなら、支持したくなる提案だ。RogbidのLoop Memoはワンプッシュで録音し、その音声をコンパニオンアプリで文字起こし、要約、やることリストに変換する。"
+        },
+        {
+          "t": "p",
+          "x": "価格はRogbid公式ストアでPhantom Blackが$79.99で、この価格にAI文字起こしと要約が含まれ、月額料金は上乗せされない。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
+        },
+        {
+          "t": "p",
+          "x": "AIノイズキャンセリングにより、話し手が部屋の反対側に座っていても声をくっきり拾う。本体に1 GBのストレージを備え、スマートフォンが近くになくても最大10時間録音できる。要約はマインドマップにしてTXT、PDF、Wordファイルとして書き出せる。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "レコーダーという売りの裏で、Memoは心拍数、心拍変動、ストレス、睡眠段階を記録し、100種類以上のスポーツモードを備える。重さ22グラム、IP67のこのトラッカーは220 mAhのバッテリーで、待機時最大50日もつとされる。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "最も近い画面なしのライバル、AmazfitのHelio Strapは$99.99で録音機能を一切持たない。Memoはそれより$20安く、さらにマイクも備える。"
+        }
+      ]
+    },
+    "gadgets/google-home-nov25-update": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Google Homeがまたも大型アップデートを配信している。今回はNest Cam、Nest Thermostarts、Geminiなど幅広い分野で機能追加と改善が行われる。"
+        },
+        {
+          "t": "p",
+          "x": "Googleの恒例の変更履歴によると、11月25日のアップデートは現在配信中で、Gemini for Homeのアーリーアクセスプログラムをはじめ全面的な改善が施されている。「Hey Google, tell me a story」(お話を聞かせて)が復活し、Geminiは物語の進行中に加えた変更に合わせて話を作れるようになった。Geminiのスマートホームコマンドは速度と性能がさらに向上し、照明をいくつか消した後に「turn them back on」(また点けて)と言えるような文脈に沿った追加指示にも対応する。スマートディスプレイでGeminiの情報源も確認できるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "Nest CamはAndroidでの動画履歴の再生と横向き操作が改善され、管理者が複数いる家庭向けのフィードバックも改善された。Nest Cam Outdoor (2nd gen)には30秒間のセキュリティサイレンが追加され、これはWalmartのOnn OutdoorカメラとFloodlightでもサポートされる。"
+        },
+        {
+          "t": "p",
+          "x": "Google HomeはWalmart OnnカメラでFamiliar Facesに対応した。Nest Thermostatのユーザーは、サーモスタットのスケジュールを曜日間でコピーできるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "このほかGoogle Homeには次の更新が届く。iOSアプリでの照明のカラーホイール、iOSとAndroidでのGoogle Home Speakerのセットアップ問題の修正、AndroidでのStereo PairとSpeaker Groupの操作の修正、Google TVの音声出力とステータスの改善、Androidからのスピーカーとスマートディスプレイ間の音楽転送の改善だ。"
+        },
+        {
+          "t": "p",
+          "x": "これらはAndroidとiOS向けの最新Google Homeアップデートで提供され、Geminiの変更は裏側で行われる。"
+        }
+      ]
+    },
+    "gadgets/pocketalk-x-desk-translator": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
+          "cap": "Pocketalk Xはデュアルタッチスクリーンと指向性マイクを備える"
+        },
+        {
+          "t": "p",
+          "x": "最初の発表から一年余り、日本の翻訳技術専門企業Pocketalkは、同社初のデスクトップ型AI翻訳機Pocketalk Xの商用発売を正式に決めた。ホテルのフロント、空港、病院、レストランなど、言葉の壁が簡単なやり取りさえ難しくする場所での対面会話を想定している。"
+        },
+        {
+          "t": "p",
+          "x": "Pocketalk Xはカウンターに置く10.25インチのタッチスクリーンを2枚備え、端末を手渡ししなくても双方がそれぞれ翻訳を読める。一方の画面は取り外して本体から約30 cm 離して置けるため、仕切り板のあるカウンターにも向く。"
+        },
+        {
+          "t": "p",
+          "x": "44言語の双方向翻訳、話し言葉の自動判別、AI-poweredのノイズキャンセリングを備えた指向性マイク2基に対応する。近接センサーが人の接近を検知すると画面が起動する。翻訳はクラウドで処理し、言語の組み合わせに応じてAI翻訳エンジンを自動で選ぶため、常にインターネット接続が必要だ。デュアルバンドのWi-Fi 5は備えるが、セルラー通信には対応しない。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
+          "cap": "Pocketalk Xは44言語のハンズフリー翻訳に対応する"
+        },
+        {
+          "t": "p",
+          "x": "本体一式の重さは約2.2 kg、電源には45 W 以上のUSB-C電源が必要だ。2026年10月の大阪・関西国際空港での実証を含む実地試験を経て、12月18日に日本で¥440,000（約$2,765）で発売される。価格には二年間のソフトウェア利用権が含まれ、その後は年額¥132,000（$830）がかかる。レンタルは月額¥22,000（$138）からだ。"
+        },
+        {
+          "t": "video",
+          "yt": "1nVgFoCTBD4"
+        }
+      ]
     }
   }
 }

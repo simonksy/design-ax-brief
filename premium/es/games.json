@@ -12709,6 +12709,136 @@
           "x": "Patentlyze afirmó que ha seguido 174 solicitudes de patente de Sony desde mayo."
         }
       ]
+    },
+    "games/ubisoft-genai-pitch-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Crédito de imagen: Ubisoft"
+        },
+        {
+          "t": "p",
+          "x": "A los equipos de Ubisoft que proponen nuevos proyectos se les estaría pidiendo que expliquen cómo la IA generativa les ayudaría a crear juegos más rápido y, si no piensan usarla, deben dar una razón detallada. Según varios empleados actuales que hablaron de forma anónima con Vertical Slice, las propuestas que no lo expongan no serán aprobadas."
+        },
+        {
+          "t": "p",
+          "x": "Una fuente afirmó que la dirección no impone de forma directa la IA generativa, pero apuesta todo por ella. \"Nos dijeron que usar IA aumentará la velocidad con la que 'equipos pequeños, eficientes y ágiles' pueden preparar propuestas ... Si pensabas no usarla, tenías que tener una razón\", dijo otra fuente, que añadió que Ubisoft cree que la IA generativa es ya \"inevitable\"."
+        },
+        {
+          "t": "p",
+          "x": "El informe llega tras el lanzamiento, la semana pasada, de Motherbrain, una filial dedicada a la IA generativa que acoge al equipo detrás de Teammates. La plantilla pasó de 20,700 personas en septiembre de 2022 a 15,500 en septiembre de 2026. \"Ubisoft vive una pesadilla de psicosis por la IA impuesta desde arriba\", dijo un empleado. Ubisoft no había respondido a las solicitudes de comentarios."
+        }
+      ]
+    },
+    "games/muvluv-ai-translation-refusals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
+          "cap": "© aNCHOR inc"
+        },
+        {
+          "t": "p",
+          "x": "La IA no es capaz de asumir la traducción de un juego, y sin supervisión humana se puede acabar con algo como Muv-Luv Girls Gaiden, que acaba de publicar una versión en inglés compuesta por texto del juego que declara su negativa a traducir \"contenido sexual explícito\"."
+        },
+        {
+          "t": "p",
+          "x": "Girls Gaiden es un spin-off gacha de RPG idle de la veterana franquicia japonesa de eroge, lanzado en Japón en 2025 en versiones para todas las edades y explícita. Un aviso en japonés en su página de Steam confirma que algunas traducciones se completaron con herramientas de IA. Los fans descubrieron que los diálogos pasaron por herramientas de IA y volvieron al juego sin revisión, lo que dejó incontables líneas como \"No puedo ofrecer una traducción de contenido sexual explícito\"."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
+          "cap": "© Antares1368 / X"
+        },
+        {
+          "t": "p",
+          "x": "La versión para todas las edades en Steam tiene una valoración Mostly Negative, y la mayoría de las reseñas citan la calidad de la traducción. La desarrolladora Moedoki dijo el año pasado que solo consideraría la traducción con IA con \"una calidad de traducción comparable a la de traductores nativos\"."
+        }
+      ]
+    },
+    "games/corcos-claude-civ-clone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
+          "cap": "Crédito de imagen: 2K/Firaxis"
+        },
+        {
+          "t": "p",
+          "x": "Sam Corcos, nombrado a través de DOGE, se incorporó al Departamento del Tesoro como asesor especial en 2025 y pasó a ser su director de sistemas de información. Sigue en ese puesto en medio de una brecha de ciberseguridad en el departamento sometida a un intenso escrutinio, mientras hace vibe-coding de Legatum, un \"4X histórico sobre un mapa hexagonal, creado para quienes adoran Civilization\"."
+        },
+        {
+          "t": "p",
+          "x": "\"Legatum está construido en gran parte con agentes de programación de AI, y todo su arte es AI-generated (generado por AI)\", indica su readme de GitHub; la mayor parte del arte procede de los modelos de imagen de OpenAI a través de ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "Decenas de actualizaciones llegaron en los últimos días mientras FinCEN, una oficina del Tesoro, gestiona un \"incidente de ciberseguridad\" que \"derivó en un acceso no autorizado a un subconjunto limitado de sus sistemas\". Corcos tuiteó que \"los ordenadores lo hacen solos. Sobre todo Opus 5.5 orquestando un montón de bucles iterativos\", aunque, como señala 404 Media, suele dar a Claude comentarios sobre funciones. Un issue de GitHub que decía \"El CIO del Tesoro está demasiado ocupado haciendo vibecoding en vez de hacer su trabajo\" se cerró como \"off-topic\", una respuesta también generada por Claude."
+        }
+      ]
+    },
+    "games/clashroyale-ai-cheat-hire": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Supercell, desarrolladora de Clash Royale, ha fichado al creador de una avanzada herramienta de trampas con AI para ayudar a frenar las trampas en el juego."
+        },
+        {
+          "t": "p",
+          "x": "Las trampas con AI se han convertido en una polémica creciente en Clash Royale, con bots cada vez más sofisticados que, según se informa, pueden superar a jugadores humanos expertos. Los jugadores destacaron afirmaciones de que una cuenta AI-controlled (controlada por AI) llamada 'Clasher' había llegado a lo más alto de la clasificación mundial. El 20 de noviembre, Clash Royale advirtió en X de que usar AI u otras herramientas para hacer trampas era un \"crimen real\"."
+        },
+        {
+          "t": "p",
+          "x": "El 21 de noviembre anunció: \"El creador de la herramienta de trampas con AI ha sido atrapado. Ha aceptado, totalmente por voluntad propia, unir fuerzas con el equipo de Clash Royale. ¿Y quién mejor para ayudarnos a atrapar tramposos que la persona que creó la herramienta de trampas más avanzada que hemos visto en la Arena? Juntos estamos desarrollando nueva tecnología para prohibir este comportamiento.\""
+        },
+        {
+          "t": "p",
+          "x": "Supercell no ha identificado a la persona ni ha dicho si estaba detrás de 'Clasher'. Sus medidas de fair-play ya combinan detección automatizada con moderación humana."
+        }
+      ]
+    },
+    "games/nvidia-kimodo-ue59-motion": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las actualizaciones de desarrollo de juegos de NVIDIA de este mes ayudan a los equipos a incorporar nuevas capacidades gráficas, de animación y de AI local en sus motores, desde DLSS 5 en War Thunder hasta Kimodo en Unreal Engine 5.9 Preview."
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Vampire_GaiA2_29.7s_halfrez.gif",
+          "cap": "NVIDIA Kimodo genera movimiento de personajes dentro del Sequencer de Unreal Engine 5.9 Preview. Animación cortesía de Epic Games"
+        },
+        {
+          "t": "p",
+          "x": "Unreal Engine 5.9 Preview introduce un marco de animación guiada y un conjunto de herramientas de Sequencer que permiten a los animadores trabajar directamente con modelos AI de generación de movimiento. Kimodo es el primer modelo integrado en él y combina la generación de movimiento acelerada por GPU (GPU-accelerated) con el flujo de trabajo habitual del editor de línea de tiempo."
+        },
+        {
+          "t": "p",
+          "x": "Los animadores pueden describir un movimiento con un prompt de texto, trazar una trayectoria spline para que el personaje la siga y fijar poses objetivo en fotogramas concretos. El modelo genera movimiento que respeta estas restricciones, de modo que los equipos deciden hacia dónde se mueven los personajes y cómo posan en los momentos clave."
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-12.webp",
+          "cap": "El NvIGI SDK ejecuta modelos AI de NVIDIA ACE en un PC local"
+        },
+        {
+          "t": "p",
+          "x": "In-Game Inferencing SDK 1.8, que ayuda a los desarrolladores a ejecutar NVIDIA ACE en el dispositivo, añade compatibilidad con RTX Spark, backends más recientes de llama.cpp y whisper.cpp, reconocimiento de voz Parakeet y la Vulkan priority API."
+        },
+        {
+          "t": "video",
+          "yt": "geAFyWn6Nio"
+        },
+        {
+          "t": "p",
+          "x": "Nsight Graphics 2026.4 y Nsight Systems 2026.6 añaden análisis de DLSS Frame Generation y herramientas de AI agéntica: un nuevo Nsight Graphics MCP server permite a agentes AI compatibles capturar aplicaciones, depurar capturas y analizar trazas de GPU."
+        }
+      ]
     }
   }
 }
