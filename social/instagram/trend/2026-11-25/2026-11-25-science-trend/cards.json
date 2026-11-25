@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI, 물리 계산을 대신하다",
+    "date": "2026.11.25",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "원문 대조: MIT 기사 본문(2026.11.20, 에너지 소산 제약·Azizan 인용) 직접 확인. phys.org 3건은 봇 차단이라 run 보강본 전문(full)과 수집 기록 published_iso로 날짜·수치 확인(허리케인 11.19, 은하 11.22, 유동 11.23). 385개·2022.6~2026.5·NOAA 대비·과소예측, 100년→10만 년·약 20배, 압력 무측정 확인. 사진은 은하 카드에만 두고 나머지는 stat·quote로.",
+    "sources": [
+      "Phys.org — Putting Google's AI hurricane model to the test (2026.11.19)",
+      "MIT News — New approach enables physically consistent AI models of chaotic systems (2026.11.20)",
+      "Phys.org — Milky Way simulation reaches record resolution with the help of three supercomputers (2026.11.22)",
+      "Phys.org — Physics-guided AI reconstructs fluid flow from sparse, noisy data (2026.11.23)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 과학 · 11.19~11.23",
+      "thread": [
+        {
+          "d": "11.19",
+          "t": "허리케인",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.20",
+          "t": "혼돈계",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.22",
+          "t": "우리은하",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "11.23",
+          "t": "유체 흐름",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI가 물리 시뮬레이션을 대신하고, 관건은 물리 법칙을 지키느냐로 옮겨 간다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "AI, 물리 계산을\n대신하다",
+      "body": "한 건씩 보면 분야별 성과다. 태풍·혼돈계·은하·유체까지 닷새 사이 AI가 계산을 맡았고, 물리를 지키는 법이 쟁점이 됐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "kind": "stat",
+      "eyebrow": "2026.11.19",
+      "headline": "허리케인 AI,\n독립 검증대에",
+      "body": "Albany 연구진이 사이클론 385개로 검증했다. Google 모델은 NOAA보다 정확했지만 강도는 낮춰 잡았다.",
+      "foot": "2026.11.19",
+      "_src": "https://phys.org/news/2026-11-google-ai-hurricane.html",
+      "_id": "science-weathernext-hurricane-test",
+      "stat_top": "NOAA 허리케인 모델",
+      "stat_arrow": "사이클론 385개, 1~5일 강도 예보",
+      "stat_bottom": "전 구간 AI 우위",
+      "stat_strike": false,
+      "n": 2
+    },
+    {
+      "kind": "quote",
+      "eyebrow": "2026.11.20",
+      "headline": "혼돈은 두고\n폭주는 막는다",
+      "body": "MIT LIDS가 에너지 소산을 강한 제약으로 걸었다. 혼돈은 살리되 예측값이 끝없이 커지지 않는다.",
+      "foot": "2026.11.20",
+      "_src": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+      "_id": "mit-lids-chaos-surrogate",
+      "quote": "혼돈이라고\n무엇이든 일어나는\n것은 아니다",
+      "quote_by": "Navid Azizan · MIT 기계공학과 교수",
+      "n": 3
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.22",
+      "headline": "우리은하를\n별 단위로",
+      "body": "AI가 초신성 주변 가스의 10만 년 뒤를 대신 예측했다. 별 하나하나까지 돌리는 은하 계산이 약 20배 빨라졌다.",
+      "foot": "2026.11.22",
+      "_src": "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html",
+      "_id": "science-milkyway-ai-surrogate",
+      "media": "pipeline/media/science-milkyway-ai-surrogate.jpg"
+    },
+    {
+      "kind": "stat",
+      "eyebrow": "2026.11.23",
+      "headline": "재지 않은 압력,\n물리로 채운다",
+      "body": "UC 어바인 PMPG-NN은 최소 압력 구배 원리를 신경망에 넣었다. 잡음 많고 드문 측정값으로도 유동장을 복원한다.",
+      "foot": "2026.11.23",
+      "_src": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html",
+      "_id": "uci-pmpg-fluid-flow-reconstruction",
+      "stat_top": "압력 직접 측정",
+      "stat_arrow": "최소 압력 구배 원리로 대신",
+      "stat_bottom": "PMPG-NN",
+      "stat_strike": true,
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

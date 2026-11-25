@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "빨라졌나 말고, 나아졌나",
+    "date": "2026.11.25",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Northwell 뇌졸중 11.23→11.11, UH Cleveland 경보 11.20→11.19, STAT 11.25→11.24, MedPage 11.25→11.24)하고 시간순으로 재배열. 수치 154건 중 19건(12%), 다섯 종·876명·60분 내 CT 혈관조영, Braginsky 인용, 30일 사망 약 35%·재입원 약 18%·추가 인력 없음은 보강 원문 텍스트로 확인(AuntMinnie·MedPage는 curl 차단, STAT은 직접 확인). 사진은 Houston 한 장만 남김.",
+    "sources": [
+      "AuntMinnie — AI may not improve patient outcomes for stroke (2026.11.11)",
+      "AuntMinnie — How often do AI alerts meaningfully impact patient care? (2026.11.19)",
+      "STAT — AI can now draft radiology reports. Will it make care better, and safer? (2026.11.24)",
+      "MedPage Today — AI Helped Hospital Lower Readmissions, Deaths After Discharge (2026.11.24)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 11.11~11.24",
+      "thread": [
+        {
+          "d": "11.11",
+          "t": "뇌졸중",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.19",
+          "t": "경보 12%",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.24",
+          "t": "판독 초안",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.24",
+          "t": "퇴원 후",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "의료 AI의 성적표가 정확도·속도에서 환자 결과로 옮겨 간다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "빨라졌나 말고\n나아졌나",
+      "body": "한 건씩 보면 연구 하나다. 그런데 두 주 사이 뇌졸중·경보·판독 초안·퇴원 관리가 같은 질문을 받았다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.11",
+      "headline": "빨라진 건\n검사뿐이었다",
+      "body": "Northwell 뇌졸중 센터, AI 도구 다섯 종 도입 전후 876명 비교. 60분 내 CT 혈관조영은 늘고 예후는 그대로.",
+      "foot": "2026.11.11",
+      "_src": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425178/ai-may-not-improve-patient-outcomes-for-stroke",
+      "_id": "northwell-stroke-ai-outcomes",
+      "stat_top": "60분 내 CT 혈관조영",
+      "stat_arrow": "AI 다섯 종 도입 뒤 크게 늘었지만",
+      "stat_bottom": "예후 변화 없음",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.19",
+      "headline": "경보는 울렸다\n진료는 그대로",
+      "body": "UH Cleveland가 한 해 상용 영상 AI 경보 154건을 다시 봤다. 진료를 바꾼 건 19건, 나머지도 일손은 먹었다.",
+      "foot": "2026.11.19",
+      "_src": "https://www.auntminnie.com/resources/conference/rsna/2026/imaging-informatics-preview/article/16542076/how-often-do-ai-alerts-meaningfully-impact-patient-care",
+      "_id": "uhcleveland-ai-alerts-impact",
+      "stat_top": "AI 경보 154건",
+      "stat_arrow": "한 해 동안, 진료 방침을 바꾼 것",
+      "stat_bottom": "19건 · 12%",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.24",
+      "headline": "판독 초안도\n같은 질문 앞에",
+      "body": "X-rays·CT를 읽고 판독문 초안을 쓰는 AI. 쓸 수 있느냐를 넘어, RSNA에선 진료가 나아지느냐를 다툰다.",
+      "foot": "2026.11.24",
+      "_src": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/",
+      "_id": "stat-rsna-draft-reports",
+      "quote": "지난해 RSNA는\n쓸 만한 초안이 가능한지가\n주된 관심이었다",
+      "quote_by": "Michael Braginsky · Aidoc CTO, STAT 인용"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.24",
+      "headline": "결과로 답한\n병원",
+      "body": "Houston Methodist는 예측 AI로 고위험 환자에게 추적 방문을 집중해 30일 사망 약 35%, 재입원 약 18%를 줄였다.",
+      "foot": "2026.11.24",
+      "_src": "https://www.medpagetoday.com/hospitalbasedmedicine/generalhospitalpractice/124037",
+      "_id": "houston-methodist-hdai-readmit",
+      "media": "pipeline/media/houston-methodist-hdai-readmit.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
