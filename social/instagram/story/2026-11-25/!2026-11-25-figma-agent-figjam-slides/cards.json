@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "issue": "Figma 에이전트, FigJam·Slides에도 정식 제공",
+    "date": "2026.11.23",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "Figma 공식 블로그(Jinen Kamdar, Figma 제품 디렉터) 원문 대조. 게재일: 페이지 표기 November 23, 2026 · JSON-LD datePublished 2026-11-23T20:54Z → 초안 날짜 2026.11.25를 2026.11.23으로 정정. 확인: FigJam·Figma Slides 모든 유료 플랜 정식 제공(generally available), 두 제품 모두 일부(select) 커넥터·첨부 지원, 커넥터 예시 Notion·Google Drive, 스티키 선택→Ask agent→결정·다음 단계·미해결 질문을 담은 Spec 초안(Johnny Dallas, Specs 엔지니어링 리드), 대본을 슬라이드 개요로 쪼갠 뒤 Generate deck(Jarrod Barretto, Figma 브랜드 디자이너), 스프레드시트 스크린샷·CSV로 막대 차트 채움. 인용은 Johnny Dallas 발언('read every comment… miss some of the quotes… a lot of cleanup') 번역. 사례는 모두 Figma 사내 직원이라 본문에 그렇게 밝힘. 영상: 원문에 임베드된 Figma 공식 Vimeo 영상 4개(1248808053 히어로, 1249173960 FigJam 맥락, 1249174473 스티키→스펙, 1249174475 Slides 차트)에서 4초씩 잘라 3:2(960×640)로 씀. 초안의 pipeline/media 영상(같은 히어로 8초 컷)은 버리고 장마다 다른 영상을 씀.",
+    "sources": [
+      "Figma Blog — The Figma agent is now available in FigJam and Slides (2026.11.23)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "video": "src/figjam-sticky-organize.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "AI × 디자인 · 2026.11.23",
+      "headline": "에이전트, 보드·발표로",
+      "body": "Figma가 자사 AI 에이전트를 화이트보드 FigJam과 발표 도구 Figma Slides에도 정식으로 풀었다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "video": "src/figjam-drive-context.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "무엇이 달라지나",
+      "headline": "흩어진 자료를 보드로",
+      "body": "커넥터로 Notion·Google Drive 자료를, 첨부로 스크린샷과 파일을 불러와 캔버스 위에 모아 준다.",
+      "foot": "2026.11.23",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "video": "src/figjam-stickies-to-spec.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "회의가 끝나면",
+      "headline": "스티키를 스펙 초안으로",
+      "body": "스티키와 댓글을 골라 맡기면 결정 사항, 다음 단계, 남은 질문을 정리한 스펙 초안을 보드에 만든다.",
+      "foot": "2026.11.23",
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "예전엔 리뷰가 끝나면 댓글을 전부 읽었다.\n놓치는 말도 있었고, 뒷정리가 많았다.",
+      "quote_by": "Johnny Dallas · Figma Specs 엔지니어링 리드",
+      "eyebrow": "직접 써 보니",
+      "headline": "뒷정리가 줄었다",
+      "body": "이제는 스티키를 골라 초안부터 받는다. 스펙이 피드백 옆에 남아 무엇을 왜 정했는지 되짚기도 쉽다.",
+      "foot": "2026.11.23",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "video": "src/slides-csv-chart.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "Slides에서는",
+      "headline": "차트는 에이전트가",
+      "body": "원고를 덱 초안으로 쪼개고, 표 캡처나 CSV로 차트를 채운다. 모든 유료 플랜에서 바로 쓸 수 있다.",
+      "foot": "2026.11.23",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

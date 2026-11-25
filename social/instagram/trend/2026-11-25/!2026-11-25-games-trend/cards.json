@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "issue": "AI 게임 홍수, 사람 손이 표식이 되다",
+    "date": "2026.11.25",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "원문 재대조(11-25): 게재일 RPS 11.19, Inven Global 11.19, AUTOMATON 11.20(JST, Game Oracle 보고서 공개는 11.18), The Verge 11.22, Kotaku 11.24(UTC 21:00·ET 같은 날, ZeroPage의 X 공지는 11.23). 고침: 3장 출처를 GamesRadar 재인용(11.20)에서 1차 기사 Inven Global(11.19)로 바꾸고 날짜·스레드를 11.19로; 'Handmade from start to finish'는 Shift Up 내부 원칙이며 중간 작업(조명 변형 테스트·텍스처 웨더링·리토폴로지 폴리곤 감축)에 AI를 쓴다는 대목 확인. 4장 제목 'AI 표시작은 덜 팔린다'가 인과처럼 읽혀, 원문이 강조한 단서(준비 기간·팔로워를 맞추면 리뷰 감소 49.5%→16%, 인과 아님)를 본문에 넣고 제목을 '덜 팔리긴 한다'로. 3만1003본·약 30%(9251본)·중앙값 200 대 71 확인. 5장 '들키자'는 McMillen이 '몰랐다'고 한 것과 어긋나 '드러나자'로; Suno 메타데이터·GTA 패러디 구간·Nicalis 몇 시간 뒤 삭제 확인. 6장 '9회째'·한 주에 여러 편·'I saw no path forward' 확인(AtariAge 원글은 Cloudflare로 못 열어 Kotaku 인용). 미디어: 2장 영상은 개발자 PolyCube 개인 YouTube(Ya8rzhoFOVM)라 quote로, 6장 사진은 Kotaku의 Getty(DIMITAR DILKOFF)라 quote로 바꿈. Shift Up 이미지는 출처가 문제의 AI 뮤직비디오 장면일 수 있어 쓰지 않음. 사진 없음.",
+    "sources": [
+      "Rock Paper Shotgun — Fish with a sniper rifle takes aim at Tim Sweeney's hopes and dreams, as genAI-free meme game tops Epic Games' vibe-coding megajam (2026.11.19)",
+      "Inven Global — 'Handmade from Start to Finish': Kim Hyung-tae and Shinji Mikami on Game Design and AI (2026.11.19)",
+      "AUTOMATON — Steamでは「AI使用開示作品」の売上が低い傾向あり。でもほんとに開示のせいなのか (2026.11.20)",
+      "The Verge — Binding of Isaac developer removes AI music from Repentance Plus (2026.11.22)",
+      "Kotaku — Atari Homebrew Awards canceled over torrent of AI games: 'I saw no path forward' (2026.11.24)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 게임 · 11.19~11.24",
+      "thread": [
+        {
+          "d": "11.19",
+          "t": "무AI 1위",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.19",
+          "t": "수작업",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.20",
+          "t": "판매 격차",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.22",
+          "t": "AI 음악",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "11.24",
+          "t": "시상 중단",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "AI 게임이 쏟아질수록 '누가 만들었나'가 판을 가른다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "AI 게임 홍수,\n사람 손이 표식으로",
+      "body": "한 건씩은 해프닝 같다. 그런데 엿새 새 잼·스튜디오·스토어·시상식이 같은 질문 앞에 섰다. 누가 만들었나.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.11.19",
+      "headline": "AI 잼 인기 1위는\nAI 없이 만든 게임",
+      "body": "Epic AI MegaJam 출품작을 인기순으로 놓으면 맨 위가 LSD:FIH다. 개발자는 생성형 AI를 일부러 안 썼다.",
+      "foot": "2026.11.19",
+      "_src": "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam",
+      "_id": "megajam-lsd-fih-chart",
+      "quote": "AI 없이\n나흘 만에 만들었다",
+      "quote_by": "PolyCube · LSD:FIH 개발자"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.19",
+      "headline": "Shift Up,\n반발 뒤 새 원칙",
+      "body": "AI 뮤직비디오 반발 뒤 김형태 대표가 밝힌 원칙이다. 다만 조명 테스트·텍스처 웨더링 같은 중간 작업엔 AI를 쓴다.",
+      "foot": "2026.11.19",
+      "_src": "https://www.invenglobal.com/articles/28842/handmade-from-start-to-finish-kim-hyung-tae-and-shinji-mikami-on-game-design-and-ai",
+      "_id": "shiftup-bloodrain-handmade",
+      "quote": "처음부터 끝까지\n손으로 만든다",
+      "quote_by": "김형태 · Shift Up 대표 (Inven Global)"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.20",
+      "headline": "AI 표시작,\n덜 팔리긴 한다",
+      "body": "Game Oracle이 3만1003본을 봤다. 준비 기간·팔로워 수를 맞추면 리뷰 감소폭은 49.5%에서 16%로 준다.",
+      "foot": "2026.11.20",
+      "_src": "https://automaton-media.com/articles/newsjp/20261120-480176/",
+      "_id": "automaton-steam-ai-disclosure",
+      "stat_top": "AI 미표시 200본",
+      "stat_arrow": "추정 판매 중앙값",
+      "stat_bottom": "AI 표시 71본",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.22",
+      "headline": "Isaac, AI 음악\n드러나자 바로 뺐다",
+      "body": "GTA 패러디 구간 음원에 Suno 메타데이터가 남아 있었다. 리뷰 폭탄 속에 Nicalis가 몇 시간 만에 지웠다.",
+      "foot": "2026.11.22",
+      "_src": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "_id": "isaac-repentance-ai-music",
+      "stat_top": "Suno 메타데이터 발견",
+      "stat_arrow": "몇 시간 뒤 업데이트",
+      "stat_bottom": "음원 삭제",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "quote",
+      "eyebrow": "2026.11.24",
+      "headline": "AI 게임 범람에\nAtari 홈브루상 중단",
+      "body": "한 주에 여러 편을 내는 개발자까지 나왔다. AI를 얼마나 썼는지 가릴 길이 없어 9회째 시상을 접었다.",
+      "foot": "2026.11.24",
+      "_src": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096",
+      "_id": "atari-homebrew-awards-ai-flood",
+      "quote": "앞으로 나아갈 길이\n보이지 않았다",
+      "quote_by": "ZeroPage Homebrew · 시상식 주최"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
