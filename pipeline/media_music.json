@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-25",
-  "section": "music",
-  "media": [
-    {
-      "id": "tidal-ai-music-ban",
-      "type": "image",
-      "src": "pipeline/media/tidal-ai-music-ban.jpg"
-    },
-    {
-      "id": "izotope-nectar5-moments",
-      "type": "image",
-      "src": "pipeline/media/izotope-nectar5-moments.jpg"
-    },
-    {
-      "id": "ntrack-studio11-ai-assistant",
-      "type": "image",
-      "src": "pipeline/media/ntrack-studio11-ai-assistant.jpg"
-    },
-    {
-      "id": "bumastemra-yourneurotune-suno",
-      "type": "image",
-      "src": "pipeline/media/bumastemra-yourneurotune-suno.jpg"
-    },
-    {
-      "id": "seoria-ai-girlgroup",
-      "type": "image",
-      "src": "pipeline/media/seoria-ai-girlgroup.jpg"
-    }
-  ]
-}
+{"date":"2026-11-26","section":"music","media":[
+{"id":"suno-chicks-amended-complaint","type":"image","src":"pipeline/media/suno-chicks-amended-complaint.jpg"},
+{"id":"audiotool-flow-music-nxs","type":"video","src":"pipeline/media/audiotool-flow-music-nxs.mp4","poster":"pipeline/media/audiotool-flow-music-nxs.jpg"},
+{"id":"music-daeumhyup-ai-principles","type":"image","src":"pipeline/media/music-daeumhyup-ai-principles.jpg"},
+{"id":"tone3000-daisy-nam-pedal","type":"image","src":"pipeline/media/tone3000-daisy-nam-pedal.jpg"},
+{"id":"incrementdet-ai-music-detector","type":"image","src":"pipeline/media/incrementdet-ai-music-detector.png"}
+]}

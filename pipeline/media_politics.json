@@ -1,11 +1,7 @@
-{
-  "date": "2026-11-25",
-  "section": "politics",
-  "media": [
-    {"id": "ny-ai-chatbot-toy-ban", "type": "video", "src": "pipeline/media/ny-ai-chatbot-toy-ban.mp4", "poster": "pipeline/media/ny-ai-chatbot-toy-ban.jpg"},
-    {"id": "characterai-chat-auction-ags", "type": "image", "src": "pipeline/media/characterai-chat-auction-ags.jpg"},
-    {"id": "ico-meta-muse-agent", "type": "svg"},
-    {"id": "pipc-ai-privacy-decree", "type": "svg"},
-    {"id": "mois-public-ai-uiux-guide", "type": "svg"}
-  ]
-}
+{"date":"2026-11-26","section":"politics","media":[
+{"id":"gosrn-ai-imagery-statement","type":"svg"},
+{"id":"spacex-fcc-orbital-datacenters","type":"image","src":"pipeline/media/spacex-fcc-orbital-datacenters.jpg"},
+{"id":"japan-ai-power-security-docs","type":"image","src":"pipeline/media/japan-ai-power-security-docs.jpg"},
+{"id":"taiwan-ai-persona-vanderbilt","type":"image","src":"pipeline/media/taiwan-ai-persona-vanderbilt.jpg"},
+{"id":"eu-gigafactory-deadline-delay","type":"svg"}
+]}

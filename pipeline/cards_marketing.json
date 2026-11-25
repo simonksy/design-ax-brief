@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "marketing",
   "cards": [
     {
-      "id": "chatgpt-health-ads-webmd",
+      "id": "reddit-max-agent-buying",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT 광고,\n헬스케어에 문 연다",
-      "body": "OpenAI 빗장 풀자 WebMD Ignite가 병원에 ChatGPT 광고를 판다.",
-      "mini_headline": "ChatGPT, 건강 광고 허용",
+      "headline": "Reddit Max에\n에이전트 간 광고 구매",
+      "body": "Reddit Max가 내년 MCP 서버와 에이전트 간 광고 구매를 시험한다.",
+      "mini_headline": "Reddit, 에이전트 광고 구매 시험",
       "tool": "Marketing",
-      "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/marketers/healthcare-ads-are-coming-to-chatgpt/",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/reddit-ad-growth-plans-search-shopping-ai-agents-2026-11",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,173 +19,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
+            "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
+            "cap": "Reddit COO Jen Wong이 내세운 2027년 광고 성장 전략의 중심은 검색, 쇼핑, AI 에이전트다."
           },
           {
             "t": "p",
-            "x": "OpenAI는 1월 ChatGPT에 곧 광고를 싣겠다며 광고가 “건강, 정신 건강, 정치처럼 민감하거나 규제받는 주제 근처에는 노출될 수 없다”고 밝혔다. 헬스케어 광고는 아예 막았다. 그러다 광고 사업이 자리를 잡자 받는 광고주 범위를 넓히기 시작했다."
+            "x": "Reddit이 검색, 쇼핑, AI 에이전트를 축으로 새 광고 전략을 내놓았다. 최고운영책임자(COO) Jen Wong은 CMO Insider에 업계 흐름에 맞춰 Reddit도 에이전트 기반 광고 구매로 간다고 말했다. 내년에는 자동 구매 플랫폼 Reddit Max 안에서 모델 컨텍스트 프로토콜(MCP) 서버와 에이전트 간(agent-to-agent) 광고 구매 기능을 시험하기 시작할 계획이다."
           },
           {
             "t": "p",
-            "x": "WebMD의 헬스케어 기업 부문 WebMD Ignite가 화요일 ChatGPT 광고 상품을 내놨다. ChatGPT Ads 최신 정책은 미국(US)에서는 재량을 더 주지만, 다른 나라에서는 건강 관련 광고가 여전히 “원칙적으로 금지”다. OpenAI는 병원·응급진료, 건강보험, 건강기능식품, 소비자용 의료기기 광고를 사안별로 받을 수 있는데, 지금까지는 보험사는 빼고 의료 시스템과 의료 제공자 광고만 허용했다."
+            "x": "Reddit은 이달 미국(US)에서 검색 결과 페이지 광고를 시험하기 시작했다. 키워드 입찰을 파는 방식이 아니라 사용자 검색어와 관련 있을 때 광고가 자동으로 붙는다. 서브레딧(subreddit) 토론을 AI로 모아 제품 리뷰 페이지로 엮는 Reddit Reviews도 선보였다. Wong은 마케터들에게 최신 제품 카탈로그를 꾸준히 올려 Reddit의 제품 지식 그래프를 채우라고 조언했다."
           },
           {
             "t": "p",
-            "x": "미국인의 30% 이상이 AI 챗봇에 건강 조언을 구해 봤다. 그래서 의료 제공자들은 LLMs 안에서 “존재하고 발견될 수 있기”를 원한다고 WebMD Ignite 사장 Ann Bilyew는 말했다. 광고는 “홍보가 아닌 정보 제공”이어야 하고, 건강 상태가 “강하게 암시”되기만 해도 그 대화에는 붙지 않는다. 고객사는 조회수와 클릭 수는 보지만 광고가 어떤 콘텐츠 옆에 떴는지는 알 수 없다."
+            "x": "3분기 광고 매출은 8억4700만 달러로 전년보다 54% 늘었다. 광고 사업의 60% 이상은 이제 “성과 지향(performance oriented)”이다. 미국(US) 일간 활성 사용자는 전년보다 2% 줄었고, Reddit이 밝힌 전 세계 일간 활성 사용자는 1억3000만 명이다."
+          },
+          {
+            "t": "img",
+            "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
+            "cap": "Reddit 마스코트 Snoo가 올여름 뉴욕 브랜드 보데가 팝업에 나왔다."
           },
           {
             "t": "p",
-            "x": "WebMD Ignite는 한 대학병원 심장내과 광고로 크리에이티브 변형 약 100가지를 시험하며 검색 광고 성과와 견줘 왔다. Bilyew는 “고객에게 전하는 메시지는 ‘일단 들어가서 배우기 시작하라’는 것”이라고 말했다."
+            "x": "퍼포먼스 마케팅 에이전시 Tinuiti의 VP Jack Johnston은 “Reddit은 이미 그 자체로 점점 더 성과 채널이 되고 있지만, 충분히 활용되지 못하고 제대로 평가받지 못하는 경우가 많다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ChatGPT opens its ads\nto healthcare marketers",
-          "body": "WebMD Ignite now sells ChatGPT ads to hospitals after OpenAI eased its early ban on health ads.",
-          "mini_headline": "ChatGPT allows health ads",
+          "headline": "Reddit plans agent-to-agent\nad buying in Reddit Max",
+          "body": "Reddit will test an MCP server and agent-to-agent ad buying inside Reddit Max next year, COO Jen Wong says.",
+          "mini_headline": "Reddit tests agent ad buying",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
+                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
+                "cap": "Reddit COO Jen Wong's 2027 ad growth agenda centers on search, shopping, and AI agents."
               },
               {
                 "t": "p",
-                "x": "When OpenAI announced in January that ChatGPT would soon be serving ads, it said ads were “not eligible to appear near sensitive or regulated topics like health, mental health or politics,” and healthcare ads were entirely prohibited. As its ads business matures, it has begun to expand which advertisers it permits."
+                "x": "Reddit has a new ads agenda: search, shopping, and AI agents. Chief Operating Officer Jen Wong told CMO Insider that next year Reddit wants to start testing a model context protocol (MCP) server and agent-to-agent ad buying capabilities within its Reddit Max automated buying platform, as it follows the industry into agentic ad buying."
               },
               {
                 "t": "p",
-                "x": "On Tuesday, WebMD Ignite, the healthcare enterprise division of WebMD, announced its ChatGPT ads offering. ChatGPT Ads’ latest policies offer more leeway in the US, though health-related ads are still “generally prohibited” in other countries. OpenAI may accept ads case by case for hospital and urgent care, health insurance, dietary supplements and consumer medical devices; so far it has permitted ads only from health systems and providers, not insurers."
+                "x": "This month Reddit began testing ads on its search results pages in the US, auto-placing them when they're relevant to users' queries rather than selling keyword bids. It also launched Reddit Reviews, which uses AI to compile subreddit discussions into product review pages; Wong advised marketers to keep uploading fresh product catalogs to feed Reddit's product knowledge graph."
               },
               {
                 "t": "p",
-                "x": "Over 30% of Americans have used AI chatbots for health advice, so providers want to be “present and discoverable” in LLMs, said Ann Bilyew, president of WebMD Ignite. Ads must be “informational, not promotional,” and won’t run in conversations where a health condition is even “strongly implied.” Clients see views and clicks, but not the content their ads appear next to."
+                "x": "Ad revenue rose 54% year over year to $847 million in the third quarter, and over 60% of the ad business is now \"performance oriented.\" US daily active users fell 2% year over year; Reddit reported 130 million global daily active users."
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
+                "cap": "Reddit's mascot Snoo made an appearance at the brand's bodega pop-up in New York City this summer."
               },
               {
                 "t": "p",
-                "x": "WebMD Ignite has been testing roughly 100 creative variations for an academic medical center’s cardiology division and comparing results to paid search. “Our message to clients is, ‘Look, just get in there and start learning,’” Bilyew said."
+                "x": "\"Reddit is already increasingly becoming a performance channel in its own right, but it is often underutilized and underappreciated,\" said Jack Johnston, a VP at performance marketing agency Tinuiti."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT 광고,\n헬스케어에 문 연다",
-          "body": "OpenAI 빗장 풀자 WebMD Ignite가 병원에 ChatGPT 광고를 판다.",
-          "mini_headline": "ChatGPT, 건강 광고 허용",
+          "headline": "Reddit Max에\n에이전트 간 광고 구매",
+          "body": "Reddit Max가 내년 MCP 서버와 에이전트 간 광고 구매를 시험한다.",
+          "mini_headline": "Reddit, 에이전트 광고 구매 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
+                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
+                "cap": "Reddit COO Jen Wong이 내세운 2027년 광고 성장 전략의 중심은 검색, 쇼핑, AI 에이전트다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 1월 ChatGPT에 곧 광고를 싣겠다며 광고가 “건강, 정신 건강, 정치처럼 민감하거나 규제받는 주제 근처에는 노출될 수 없다”고 밝혔다. 헬스케어 광고는 아예 막았다. 그러다 광고 사업이 자리를 잡자 받는 광고주 범위를 넓히기 시작했다."
+                "x": "Reddit이 검색, 쇼핑, AI 에이전트를 축으로 새 광고 전략을 내놓았다. 최고운영책임자(COO) Jen Wong은 CMO Insider에 업계 흐름에 맞춰 Reddit도 에이전트 기반 광고 구매로 간다고 말했다. 내년에는 자동 구매 플랫폼 Reddit Max 안에서 모델 컨텍스트 프로토콜(MCP) 서버와 에이전트 간(agent-to-agent) 광고 구매 기능을 시험하기 시작할 계획이다."
               },
               {
                 "t": "p",
-                "x": "WebMD의 헬스케어 기업 부문 WebMD Ignite가 화요일 ChatGPT 광고 상품을 내놨다. ChatGPT Ads 최신 정책은 미국(US)에서는 재량을 더 주지만, 다른 나라에서는 건강 관련 광고가 여전히 “원칙적으로 금지”다. OpenAI는 병원·응급진료, 건강보험, 건강기능식품, 소비자용 의료기기 광고를 사안별로 받을 수 있는데, 지금까지는 보험사는 빼고 의료 시스템과 의료 제공자 광고만 허용했다."
+                "x": "Reddit은 이달 미국(US)에서 검색 결과 페이지 광고를 시험하기 시작했다. 키워드 입찰을 파는 방식이 아니라 사용자 검색어와 관련 있을 때 광고가 자동으로 붙는다. 서브레딧(subreddit) 토론을 AI로 모아 제품 리뷰 페이지로 엮는 Reddit Reviews도 선보였다. Wong은 마케터들에게 최신 제품 카탈로그를 꾸준히 올려 Reddit의 제품 지식 그래프를 채우라고 조언했다."
               },
               {
                 "t": "p",
-                "x": "미국인의 30% 이상이 AI 챗봇에 건강 조언을 구해 봤다. 그래서 의료 제공자들은 LLMs 안에서 “존재하고 발견될 수 있기”를 원한다고 WebMD Ignite 사장 Ann Bilyew는 말했다. 광고는 “홍보가 아닌 정보 제공”이어야 하고, 건강 상태가 “강하게 암시”되기만 해도 그 대화에는 붙지 않는다. 고객사는 조회수와 클릭 수는 보지만 광고가 어떤 콘텐츠 옆에 떴는지는 알 수 없다."
+                "x": "3분기 광고 매출은 8억4700만 달러로 전년보다 54% 늘었다. 광고 사업의 60% 이상은 이제 “성과 지향(performance oriented)”이다. 미국(US) 일간 활성 사용자는 전년보다 2% 줄었고, Reddit이 밝힌 전 세계 일간 활성 사용자는 1억3000만 명이다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
+                "cap": "Reddit 마스코트 Snoo가 올여름 뉴욕 브랜드 보데가 팝업에 나왔다."
               },
               {
                 "t": "p",
-                "x": "WebMD Ignite는 한 대학병원 심장내과 광고로 크리에이티브 변형 약 100가지를 시험하며 검색 광고 성과와 견줘 왔다. Bilyew는 “고객에게 전하는 메시지는 ‘일단 들어가서 배우기 시작하라’는 것”이라고 말했다."
+                "x": "퍼포먼스 마케팅 에이전시 Tinuiti의 VP Jack Johnston은 “Reddit은 이미 그 자체로 점점 더 성과 채널이 되고 있지만, 충분히 활용되지 못하고 제대로 평가받지 못하는 경우가 많다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT広告、\n医療業界に開放",
-          "body": "OpenAIの規制緩和を受け、WebMD Igniteが病院にChatGPT広告を売る。",
-          "mini_headline": "ChatGPT、健康広告を解禁",
+          "headline": "Reddit Maxで\nエージェント間の広告購入へ",
+          "body": "Redditは来年Reddit MaxでMCPサーバーとエージェント間広告購入を試す。",
+          "mini_headline": "Reddit、エージェント広告購入を試験",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
+                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
+                "cap": "Reddit COOのJen Wongが掲げる2027年の広告成長戦略は、検索、ショッピング、AIエージェントが柱だ。"
               },
               {
                 "t": "p",
-                "x": "OpenAIは1月、ChatGPTで近く広告を配信すると発表した際、広告は「健康、メンタルヘルス、政治など、センシティブまたは規制対象のトピックの近くには表示されない」とし、ヘルスケア広告を全面的に禁止していた。広告事業が成熟するにつれ、受け入れる広告主の範囲を広げ始めている。"
+                "x": "Redditは検索、ショッピング、AIエージェントを軸とする新たな広告戦略を打ち出した。最高執行責任者(COO)のJen WongはCMO Insiderに対し、業界に続いてエージェント型の広告購入へ進むなか、Redditは来年、自動購入プラットフォームReddit Max内でモデル・コンテキスト・プロトコル(MCP)サーバーとエージェント間(agent-to-agent)の広告購入機能の試験を始めたいと語った。"
               },
               {
                 "t": "p",
-                "x": "火曜日、WebMDのヘルスケア企業部門であるWebMD IgniteがChatGPT広告の提供を発表した。ChatGPT Adsの最新ポリシーは米国(US)ではより大きな裁量を認める一方、他の国では健康関連広告は依然として「原則禁止」だ。OpenAIは病院・救急医療、医療保険、栄養補助食品、消費者向け医療機器の広告を個別に受け付ける可能性があるが、これまで認めたのは保険会社ではなく医療システムと医療提供者の広告のみだ。"
+                "x": "Redditは今月、米国(US)で検索結果ページへの広告の試験を始めた。キーワード入札を販売するのではなく、ユーザーの検索内容に関連する場合に広告を自動配置する。また、AIでサブレディット(subreddit)の議論をまとめて製品レビューページにするReddit Reviewsも始めた。Wongはマーケターに対し、Redditの製品ナレッジグラフに情報を供給するため、最新の製品カタログをアップロードし続けるよう助言した。"
               },
               {
                 "t": "p",
-                "x": "米国人の30%以上がAIチャットボットに健康相談をしたことがあり、医療提供者はLLMsの中で「存在し、見つけてもらえる」ことを望んでいると、WebMD Ignite社長のAnn Bilyewは語った。広告は「宣伝ではなく情報提供」でなければならず、健康状態が「強く示唆される」だけの会話にも表示されない。クライアントは閲覧数とクリック数を確認できるが、広告がどのコンテンツの隣に表示されたかは見られない。"
+                "x": "第3四半期の広告収入は前年同期比54%増の8億4700万ドルとなり、広告事業の60%超がいまや「パフォーマンス志向(performance oriented)」だ。米国(US)の1日当たりアクティブユーザーは前年同期比2%減少した。Redditが発表した世界の1日当たりアクティブユーザーは1億3000万人だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
+                "cap": "Redditのマスコット、Snooが今夏、ニューヨーク市で開かれた同ブランドのボデガ型ポップアップに登場した。"
               },
               {
                 "t": "p",
-                "x": "WebMD Igniteはある大学医療センターの循環器部門向けに約100通りのクリエイティブを試し、検索広告の成果と比較してきた。「クライアントへのメッセージは『とにかく飛び込んで学び始めよう』だ」とBilyewは述べた。"
+                "x": "「Redditはすでにそれ自体がパフォーマンスチャネルになりつつあるが、十分に活用されず、正当に評価されていないことが多い」と、パフォーマンスマーケティング代理店TinuitiのVP、Jack Johnstonは述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT广告\n向医疗营销开放",
-          "body": "OpenAI放宽健康广告禁令后，WebMD Ignite开始向医院销售ChatGPT广告。",
-          "mini_headline": "ChatGPT开放健康广告",
+          "headline": "Reddit Max将引入\n智能体间广告购买",
+          "body": "Reddit明年将在Reddit Max中测试MCP服务器与智能体间广告购买。",
+          "mini_headline": "Reddit测试智能体广告购买",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
+                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
+                "cap": "Reddit COO Jen Wong的2027年广告增长议程以搜索、购物和AI智能体为核心。"
               },
               {
                 "t": "p",
-                "x": "OpenAI在1月宣布ChatGPT即将投放广告时表示，广告“不得出现在健康、心理健康或政治等敏感或受监管话题附近”，医疗广告则被完全禁止。随着广告业务逐渐成熟，它已开始扩大允许投放的广告主范围。"
+                "x": "Reddit推出了新的广告议程：搜索、购物和AI智能体。首席运营官(COO) Jen Wong对CMO Insider表示，随着行业转向智能体式广告购买，Reddit明年希望在其自动化购买平台Reddit Max中开始测试模型上下文协议(MCP)服务器和智能体间(agent-to-agent)广告购买功能。"
               },
               {
                 "t": "p",
-                "x": "周二，WebMD旗下医疗企业部门WebMD Ignite宣布推出ChatGPT广告服务。ChatGPT Ads的最新政策在美国（US）给予更多空间，但在其他国家，健康相关广告仍“原则上禁止”。OpenAI可能会逐案接受医院和急诊、健康保险、膳食补充剂及消费级医疗器械的广告；目前只允许医疗系统和医疗服务提供者投放，保险公司不在其列。"
+                "x": "本月，Reddit开始在美国(US)测试搜索结果页广告，在与用户查询相关时自动投放，而不是出售关键词竞价。它还推出了Reddit Reviews，利用AI将subreddit讨论汇总成产品评测页面；Wong建议营销人员持续上传最新的产品目录，为Reddit的产品知识图谱提供数据。"
               },
               {
                 "t": "p",
-                "x": "WebMD Ignite总裁Ann Bilyew表示，超过30%的美国人曾向AI聊天机器人寻求健康建议，因此医疗服务提供者希望在LLMs中“露面并可被发现”。广告必须“提供信息而非推销”，只要对话“强烈暗示”某种健康状况，广告就不会出现。客户能看到浏览量和点击量，但看不到广告旁边出现的内容。"
+                "x": "第三季度广告收入同比增长54%，达到8.47亿美元，广告业务中超过60%如今属于“效果导向”(performance oriented)。美国(US)日活跃用户同比下降2%；Reddit公布的全球日活跃用户为1.3亿。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
+                "cap": "Reddit吉祥物Snoo今夏现身该品牌在纽约市举办的便利店快闪活动。"
               },
               {
                 "t": "p",
-                "x": "WebMD Ignite一直在为一家学术医疗中心的心脏科测试约100种创意版本，并与付费搜索的效果进行比较。Bilyew说：“我们给客户的建议是：‘直接进场，开始学习。’”"
+                "x": "“Reddit本身已日益成为一个效果渠道，但它常常未被充分利用，也未被充分重视，”效果营销机构Tinuiti的VP Jack Johnston表示。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT abre sus anuncios\na los anunciantes de salud",
-          "body": "WebMD Ignite vende anuncios de ChatGPT a hospitales tras relajar OpenAI su veto inicial a la publicidad de salud.",
-          "mini_headline": "ChatGPT admite anuncios de salud",
+          "headline": "Reddit planea compra de anuncios\nentre agentes en Reddit Max",
+          "body": "Reddit probará el próximo año un servidor MCP y compra de anuncios entre agentes en Reddit Max, según su COO, Jen Wong.",
+          "mini_headline": "Reddit prueba la compra de anuncios con agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
+                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
+                "cap": "La agenda de crecimiento publicitario de 2027 de Jen Wong, COO de Reddit, se centra en búsqueda, compras y agentes de AI."
               },
               {
                 "t": "p",
-                "x": "Cuando OpenAI anunció en enero que ChatGPT pronto mostraría anuncios, dijo que estos “no podrían aparecer cerca de temas sensibles o regulados como la salud, la salud mental o la política”, y prohibió por completo los anuncios sanitarios. A medida que su negocio publicitario madura, ha empezado a ampliar los anunciantes que admite."
+                "x": "Reddit tiene una nueva agenda publicitaria: búsqueda, compras y agentes de AI. La directora de operaciones (COO), Jen Wong, dijo a CMO Insider que el próximo año Reddit quiere empezar a probar un servidor de protocolo de contexto de modelo (MCP) y funciones de compra de anuncios entre agentes (agent-to-agent) dentro de Reddit Max, su plataforma de compra automatizada, en línea con el giro del sector hacia la compra de anuncios mediante agentes."
               },
               {
                 "t": "p",
-                "x": "El martes, WebMD Ignite, la división de salud para empresas de WebMD, anunció su oferta de anuncios en ChatGPT. Las últimas políticas de ChatGPT Ads dan más margen en Estados Unidos (US), aunque los anuncios relacionados con la salud siguen “generalmente prohibidos” en otros países. OpenAI puede aceptar caso por caso anuncios de hospitales y urgencias, seguros médicos, suplementos dietéticos y dispositivos médicos de consumo; hasta ahora solo ha permitido anuncios de sistemas de salud y proveedores, no de aseguradoras."
+                "x": "Este mes Reddit empezó a probar anuncios en sus páginas de resultados de búsqueda en Estados Unidos (US), que se colocan automáticamente cuando son relevantes para las consultas de los usuarios, en lugar de vender pujas por palabras clave. También lanzó Reddit Reviews, que usa AI para reunir conversaciones de subreddits en páginas de reseñas de productos; Wong aconsejó a los profesionales de marketing seguir subiendo catálogos de productos actualizados para alimentar el grafo de conocimiento de productos de Reddit."
               },
               {
                 "t": "p",
-                "x": "Más del 30% de los estadounidenses ha usado chatbots de AI para consultas de salud, por lo que los proveedores quieren estar “presentes y ser localizables” en los LLMs, dijo Ann Bilyew, presidenta de WebMD Ignite. Los anuncios deben ser “informativos, no promocionales”, y no aparecerán en conversaciones donde una afección esté siquiera “fuertemente implícita”. Los clientes ven visualizaciones y clics, pero no el contenido junto al que aparecen sus anuncios."
+                "x": "Los ingresos publicitarios subieron un 54% interanual, hasta 847 millones de dólares en el tercer trimestre, y más del 60% del negocio publicitario está ahora “orientado al rendimiento”. Los usuarios activos diarios en Estados Unidos (US) cayeron un 2% interanual; Reddit informó de 130 millones de usuarios activos diarios en todo el mundo."
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
+                "cap": "Snoo, la mascota de Reddit, apareció este verano en la tienda temporal tipo bodega de la marca en Nueva York."
               },
               {
                 "t": "p",
-                "x": "WebMD Ignite ha probado unas 100 variaciones creativas para el área de cardiología de un centro médico académico y ha comparado los resultados con la búsqueda pagada. “Nuestro mensaje a los clientes es: ‘Miren, entren y empiecen a aprender’”, dijo Bilyew."
+                "x": "“Reddit ya se está convirtiendo cada vez más en un canal de rendimiento por derecho propio, pero a menudo está infrautilizado y poco valorado”, dijo Jack Johnston, VP de la agencia de marketing de rendimiento Tinuiti."
               }
             ]
           }
@@ -193,121 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT 광고,\n헬스케어에 문 연다",
-          "body": "OpenAI 빗장 풀자 WebMD Ignite가 병원에 ChatGPT 광고를 판다.",
-          "mini_headline": "ChatGPT, 건강 광고 허용",
+          "headline": "Reddit Max에\n에이전트 간 광고 구매",
+          "body": "Reddit Max가 내년 MCP 서버와 에이전트 간 광고 구매를 시험한다.",
+          "mini_headline": "Reddit, 에이전트 광고 구매 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
+                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
+                "cap": "Reddit COO Jen Wong의 2027년 광고 성장 전략은 검색, 쇼핑, AI 에이전트에 집중한다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 1월 ChatGPT에 곧 광고를 싣겠다고 발표하면서 광고가 “건강, 정신 건강, 정치처럼 민감하거나 규제받는 주제 근처에는 노출될 수 없다”고 밝혔고, 헬스케어 광고는 전면 금지했다. 광고 사업이 자리를 잡아 가면서 허용하는 광고주 범위를 넓히기 시작했다."
+                "x": "Reddit이 검색, 쇼핑, AI 에이전트를 축으로 한 새 광고 전략을 내놓았다. 최고운영책임자(COO) Jen Wong은 CMO Insider에 Reddit이 업계를 따라 에이전트 기반 광고 구매로 나아가면서, 내년 자동 구매 플랫폼 Reddit Max 안에서 모델 컨텍스트 프로토콜(MCP) 서버와 에이전트 간(agent-to-agent) 광고 구매 기능 테스트를 시작하려 한다고 말했다."
               },
               {
                 "t": "p",
-                "x": "화요일, WebMD의 헬스케어 기업 부문인 WebMD Ignite가 ChatGPT 광고 상품을 발표했다. ChatGPT Ads의 최신 정책은 미국(US)에서 더 많은 재량을 주지만, 다른 국가에서는 건강 관련 광고가 여전히 “원칙적으로 금지”된다. OpenAI는 병원·응급진료, 건강보험, 건강기능식품, 소비자용 의료기기 광고를 사안별로 받을 수 있으며, 지금까지는 보험사가 아닌 의료 시스템과 의료 제공자의 광고만 허용했다."
+                "x": "Reddit은 이달 미국(US)에서 검색 결과 페이지 광고 테스트를 시작했다. 키워드 입찰을 파는 대신 사용자 검색어와 관련이 있을 때 광고를 자동으로 배치한다. AI로 서브레딧(subreddit) 토론을 모아 제품 리뷰 페이지로 정리하는 Reddit Reviews도 내놓았다. Wong은 Reddit의 제품 지식 그래프에 정보를 공급하도록 마케터들이 최신 제품 카탈로그를 계속 올려야 한다고 조언했다."
               },
               {
                 "t": "p",
-                "x": "미국인의 30% 이상이 AI 챗봇에서 건강 조언을 구한 적이 있어 의료 제공자들은 LLMs 안에서 “존재하고 발견될 수 있기”를 원한다고 WebMD Ignite 사장 Ann Bilyew는 말했다. 광고는 “홍보가 아닌 정보 제공”이어야 하며, 건강 상태가 “강하게 암시”되기만 해도 그 대화에는 실리지 않는다. 고객사는 조회수와 클릭 수를 볼 수 있지만 광고가 어떤 콘텐츠 옆에 노출됐는지는 볼 수 없다."
+                "x": "3분기 광고 매출은 전년 대비 54% 늘어난 8억4700만 달러였고, 광고 사업의 60% 이상이 이제 “성과 지향(performance oriented)”이다. 미국(US) 일간 활성 사용자는 전년 대비 2% 줄었다. Reddit이 발표한 전 세계 일간 활성 사용자는 1억3000만 명이다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
+                "cap": "Reddit 마스코트 Snoo가 올여름 뉴욕에서 열린 브랜드 보데가 팝업에 등장했다."
               },
               {
                 "t": "p",
-                "x": "WebMD Ignite는 한 대학병원 심장내과를 위해 약 100가지 크리에이티브 변형을 시험하며 검색 광고 성과와 비교해 왔다. Bilyew는 “고객에게 전하는 메시지는 ‘일단 들어가서 배우기 시작하라’는 것”이라고 말했다."
+                "x": "“Reddit은 이미 그 자체로 점점 더 성과 채널이 되고 있지만, 충분히 활용되지 못하고 제대로 평가받지 못하는 경우가 많다”고 퍼포먼스 마케팅 에이전시 Tinuiti의 VP Jack Johnston은 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT広告、\n医療業界に開放",
-          "body": "OpenAIの規制緩和を受け、WebMD Igniteが病院にChatGPT広告を売る。",
-          "mini_headline": "ChatGPT、健康広告を解禁",
+          "headline": "Reddit Maxで\nエージェント間の広告購入へ",
+          "body": "Redditは来年Reddit MaxでMCPサーバーとエージェント間広告購入を試す。",
+          "mini_headline": "Reddit、エージェント広告購入を試験",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
+                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
+                "cap": "Reddit COOのJen Wongが掲げる2027年の広告成長戦略は、検索、ショッピング、AIエージェントが柱だ。"
               },
               {
                 "t": "p",
-                "x": "OpenAIは1月、ChatGPTで近く広告を配信すると発表した際、広告は「健康、メンタルヘルス、政治など、センシティブまたは規制対象のトピックの近くには表示されない」とし、ヘルスケア広告を全面的に禁止していた。広告事業が成熟するにつれ、受け入れる広告主の範囲を広げ始めている。"
+                "x": "Redditは検索、ショッピング、AIエージェントを軸とする新たな広告戦略を打ち出した。最高執行責任者(COO)のJen WongはCMO Insiderに対し、業界に続いてエージェント型の広告購入へ進むなか、Redditは来年、自動購入プラットフォームReddit Max内でモデル・コンテキスト・プロトコル(MCP)サーバーとエージェント間(agent-to-agent)の広告購入機能の試験を始めたいと語った。"
               },
               {
                 "t": "p",
-                "x": "火曜日、WebMDのヘルスケア企業部門であるWebMD IgniteがChatGPT広告の提供を発表した。ChatGPT Adsの最新ポリシーは米国(US)ではより大きな裁量を認める一方、他の国では健康関連広告は依然として「原則禁止」だ。OpenAIは病院・救急医療、医療保険、栄養補助食品、消費者向け医療機器の広告を個別に受け付ける可能性があるが、これまで認めたのは保険会社ではなく医療システムと医療提供者の広告のみだ。"
+                "x": "Redditは今月、米国(US)で検索結果ページへの広告の試験を始めた。キーワード入札を販売するのではなく、ユーザーの検索内容に関連する場合に広告を自動配置する。また、AIでサブレディット(subreddit)の議論をまとめて製品レビューページにするReddit Reviewsも始めた。Wongはマーケターに対し、Redditの製品ナレッジグラフに情報を供給するため、最新の製品カタログをアップロードし続けるよう助言した。"
               },
               {
                 "t": "p",
-                "x": "米国人の30%以上がAIチャットボットに健康相談をしたことがあり、医療提供者はLLMsの中で「存在し、見つけてもらえる」ことを望んでいると、WebMD Ignite社長のAnn Bilyewは語った。広告は「宣伝ではなく情報提供」でなければならず、健康状態が「強く示唆される」だけの会話にも表示されない。クライアントは閲覧数とクリック数を確認できるが、広告がどのコンテンツの隣に表示されたかは見られない。"
+                "x": "第3四半期の広告収入は前年同期比54%増の8億4700万ドルとなり、広告事業の60%超がいまや「パフォーマンス志向(performance oriented)」だ。米国(US)の1日当たりアクティブユーザーは前年同期比2%減少した。Redditが発表した世界の1日当たりアクティブユーザーは1億3000万人だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
+                "cap": "Redditのマスコット、Snooが今夏、ニューヨーク市で開かれた同ブランドのボデガ型ポップアップに登場した。"
               },
               {
                 "t": "p",
-                "x": "WebMD Igniteはある大学医療センターの循環器部門向けに約100通りのクリエイティブを試し、検索広告の成果と比較してきた。「クライアントへのメッセージは『とにかく飛び込んで学び始めよう』だ」とBilyewは述べた。"
+                "x": "「Redditはすでにそれ自体がパフォーマンスチャネルになりつつあるが、十分に活用されず、正当に評価されていないことが多い」と、パフォーマンスマーケティング代理店TinuitiのVP、Jack Johnstonは述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT广告\n向医疗营销开放",
-          "body": "OpenAI放宽健康广告禁令后，WebMD Ignite开始向医院销售ChatGPT广告。",
-          "mini_headline": "ChatGPT开放健康广告",
+          "headline": "Reddit Max将引入\n智能体间广告购买",
+          "body": "Reddit明年将在Reddit Max中测试MCP服务器与智能体间广告购买。",
+          "mini_headline": "Reddit测试智能体广告购买",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
+                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
+                "cap": "Reddit COO Jen Wong的2027年广告增长议程以搜索、购物和AI智能体为核心。"
               },
               {
                 "t": "p",
-                "x": "OpenAI在1月宣布ChatGPT即将投放广告时表示，广告“不得出现在健康、心理健康或政治等敏感或受监管话题附近”，医疗广告则被完全禁止。随着广告业务逐渐成熟，它已开始扩大允许投放的广告主范围。"
+                "x": "Reddit推出了新的广告议程：搜索、购物和AI智能体。首席运营官(COO) Jen Wong对CMO Insider表示，随着行业转向智能体式广告购买，Reddit明年希望在其自动化购买平台Reddit Max中开始测试模型上下文协议(MCP)服务器和智能体间(agent-to-agent)广告购买功能。"
               },
               {
                 "t": "p",
-                "x": "周二，WebMD旗下医疗企业部门WebMD Ignite宣布推出ChatGPT广告服务。ChatGPT Ads的最新政策在美国（US）给予更多空间，但在其他国家，健康相关广告仍“原则上禁止”。OpenAI可能会逐案接受医院和急诊、健康保险、膳食补充剂及消费级医疗器械的广告；目前只允许医疗系统和医疗服务提供者投放，保险公司不在其列。"
+                "x": "本月，Reddit开始在美国(US)测试搜索结果页广告，在与用户查询相关时自动投放，而不是出售关键词竞价。它还推出了Reddit Reviews，利用AI将subreddit讨论汇总成产品评测页面；Wong建议营销人员持续上传最新的产品目录，为Reddit的产品知识图谱提供数据。"
               },
               {
                 "t": "p",
-                "x": "WebMD Ignite总裁Ann Bilyew表示，超过30%的美国人曾向AI聊天机器人寻求健康建议，因此医疗服务提供者希望在LLMs中“露面并可被发现”。广告必须“提供信息而非推销”，只要对话“强烈暗示”某种健康状况，广告就不会出现。客户能看到浏览量和点击量，但看不到广告旁边出现的内容。"
+                "x": "第三季度广告收入同比增长54%，达到8.47亿美元，广告业务中超过60%如今属于“效果导向”(performance oriented)。美国(US)日活跃用户同比下降2%；Reddit公布的全球日活跃用户为1.3亿。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
+                "cap": "Reddit吉祥物Snoo今夏现身该品牌在纽约市举办的便利店快闪活动。"
               },
               {
                 "t": "p",
-                "x": "WebMD Ignite一直在为一家学术医疗中心的心脏科测试约100种创意版本，并与付费搜索的效果进行比较。Bilyew说：“我们给客户的建议是：‘直接进场，开始学习。’”"
+                "x": "“Reddit本身已日益成为一个效果渠道，但它常常未被充分利用，也未被充分重视，”效果营销机构Tinuiti的VP Jack Johnston表示。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT abre sus anuncios\na los anunciantes de salud",
-          "body": "WebMD Ignite vende anuncios de ChatGPT a hospitales tras relajar OpenAI su veto inicial a la publicidad de salud.",
-          "mini_headline": "ChatGPT admite anuncios de salud",
+          "headline": "Reddit planea compra de anuncios\nentre agentes en Reddit Max",
+          "body": "Reddit probará el próximo año un servidor MCP y compra de anuncios entre agentes en Reddit Max, según su COO, Jen Wong.",
+          "mini_headline": "Reddit prueba la compra de anuncios con agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
+                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
+                "cap": "La agenda de crecimiento publicitario de 2027 de Jen Wong, COO de Reddit, se centra en búsqueda, compras y agentes de AI."
               },
               {
                 "t": "p",
-                "x": "Cuando OpenAI anunció en enero que ChatGPT pronto mostraría anuncios, dijo que estos “no podrían aparecer cerca de temas sensibles o regulados como la salud, la salud mental o la política”, y prohibió por completo los anuncios sanitarios. A medida que su negocio publicitario madura, ha empezado a ampliar los anunciantes que admite."
+                "x": "Reddit tiene una nueva agenda publicitaria: búsqueda, compras y agentes de AI. La directora de operaciones (COO), Jen Wong, dijo a CMO Insider que el próximo año Reddit quiere empezar a probar un servidor de protocolo de contexto de modelo (MCP) y funciones de compra de anuncios entre agentes (agent-to-agent) dentro de Reddit Max, su plataforma de compra automatizada, en línea con el giro del sector hacia la compra de anuncios mediante agentes."
               },
               {
                 "t": "p",
-                "x": "El martes, WebMD Ignite, la división de salud para empresas de WebMD, anunció su oferta de anuncios en ChatGPT. Las últimas políticas de ChatGPT Ads dan más margen en Estados Unidos (US), aunque los anuncios relacionados con la salud siguen “generalmente prohibidos” en otros países. OpenAI puede aceptar caso por caso anuncios de hospitales y urgencias, seguros médicos, suplementos dietéticos y dispositivos médicos de consumo; hasta ahora solo ha permitido anuncios de sistemas de salud y proveedores, no de aseguradoras."
+                "x": "Este mes Reddit empezó a probar anuncios en sus páginas de resultados de búsqueda en Estados Unidos (US), que se colocan automáticamente cuando son relevantes para las consultas de los usuarios, en lugar de vender pujas por palabras clave. También lanzó Reddit Reviews, que usa AI para reunir conversaciones de subreddits en páginas de reseñas de productos; Wong aconsejó a los profesionales de marketing seguir subiendo catálogos de productos actualizados para alimentar el grafo de conocimiento de productos de Reddit."
               },
               {
                 "t": "p",
-                "x": "Más del 30% de los estadounidenses ha usado chatbots de AI para consultas de salud, por lo que los proveedores quieren estar “presentes y ser localizables” en los LLMs, dijo Ann Bilyew, presidenta de WebMD Ignite. Los anuncios deben ser “informativos, no promocionales”, y no aparecerán en conversaciones donde una afección esté siquiera “fuertemente implícita”. Los clientes ven visualizaciones y clics, pero no el contenido junto al que aparecen sus anuncios."
+                "x": "Los ingresos publicitarios subieron un 54% interanual, hasta 847 millones de dólares en el tercer trimestre, y más del 60% del negocio publicitario está ahora “orientado al rendimiento”. Los usuarios activos diarios en Estados Unidos (US) cayeron un 2% interanual; Reddit informó de 130 millones de usuarios activos diarios en todo el mundo."
+              },
+              {
+                "t": "img",
+                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
+                "cap": "Snoo, la mascota de Reddit, apareció este verano en la tienda temporal tipo bodega de la marca en Nueva York."
               },
               {
                 "t": "p",
-                "x": "WebMD Ignite ha probado unas 100 variaciones creativas para el área de cardiología de un centro médico académico y ha comparado los resultados con la búsqueda pagada. “Nuestro mensaje a los clientes es: ‘Miren, entren y empiecen a aprender’”, dijo Bilyew."
+                "x": "“Reddit ya se está convirtiendo cada vez más en un canal de rendimiento por derecho propio, pero a menudo está infrautilizado y poco valorado”, dijo Jack Johnston, VP de la agencia de marketing de rendimiento Tinuiti."
               }
             ]
           }
@@ -315,15 +375,15 @@
       }
     },
     {
-      "id": "amazon-chatgpt-ads-crawler-block",
+      "id": "amazon-ads-mcp-dec8",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Amazon ChatGPT\n광고, OpenAI는 차단",
-      "body": "Amazon은 ChatGPT Black Friday 광고 사도 OpenAI 막는다.",
-      "mini_headline": "Amazon, ChatGPT 광고 구매",
+      "headline": "Amazon Ads MCP\n12월 8일 선택형 갱신",
+      "body": "Amazon Ads MCP는 12월 8일 선택 갱신되고 구버전은 기한 없이 남는다.",
+      "mini_headline": "Amazon Ads MCP 12월 8일 갱신",
       "tool": "Marketing",
-      "source": "Digiday",
-      "url": "https://digiday.com/marketing/amazon-is-buying-chatgpt-ads-while-blocking-openai-crawlers/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/ai-agents-linked-to-amazon-ads-get-an-optional-upgrade-on-december-8/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -331,305 +391,265 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
-            "cap": "Ivy Liu"
+            "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
+            "cap": "Amazon Ads MCP Server가 12월 8일부터 무상태(stateless) MCP 2026-07-28을 선택적으로 지원한다. 구버전은 그대로 남는다."
           },
           {
             "t": "p",
-            "x": "Amazon은 ChatGPT가 들여다보지 못하게 막아 온 바로 그 쇼핑객에게 닿으려고 OpenAI에 돈을 낸다. Prime Day 뒤 몇 달 잠잠하던 Amazon이 U.S.(미국)에서 Black Friday 광고를 새로 집행하며 챗봇에 돌아왔다. 광고는 할인 상품을 알리고 사용자를 Amazon으로 보내 구매를 마치게 한다."
+            "x": "Amazon Ads는 2026년 12월 8일부터 MCP Server에서 Model Context Protocol 2026-07-28 버전을 지원한다. 도입은 선택 사항이다. “기존 클라이언트는 자동으로 업그레이드되지 않으며”, 이전 프로토콜 버전도 계속 지원한다. 지원 종료일은 발표하지 않았다."
           },
           {
             "t": "p",
-            "x": "ChatGPT 쇼핑 기능은 개별 상품 페이지가 아니라 Amazon 검색 결과로 이어진다. 상품과 할인, 최신 가격은 제3자 할인 추적 사이트를 참고해 파악하고, Amazon 웹사이트에 꼭 들어가지는 않는다."
+            "x": "업그레이드한 클라이언트는 initialize 핸드셰이크와 Mcp-Session-Id 헤더 없이 동작한다. 프로토콜 버전과 클라이언트 기능은 요청마다 _meta 필드에 실어 보낸다. 지원 버전은 새 server/discover 메서드가 알려주고, tools/list 같은 목록 결과에는 ttlMs와 cacheScope 캐싱 메타데이터가 붙는다. 엔드포인트, 도구, 인증, 접근 제어는 그대로다."
           },
           {
             "t": "p",
-            "x": "eMarketer의 Arielle Feger는 “쇼핑객을 개별 상품 페이지가 아닌 Amazon 검색 결과로 보내면 광고로 돈을 벌 기회가 하나 더 생긴다”고 말했다. Amazon의 U.S. 검색 광고 매출은 올해 $40.57 billion에 이를 전망이다. 그는 “브랜드로서는 같은 고객에게 두 번 돈을 낼 위험이 생긴다”고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "9월 Amazon Ads는 광고주가 Amazon의 DSP로 ChatGPT 광고 지면을 살 수 있는 제휴를 발표했다. 이번 ChatGPT 광고를 Amazon이 OpenAI에서 직접 샀는지 자사 DSP로 샀는지는 분명하지 않다. 두 회사 모두 논평을 거부했다."
+            "x": "Amazon이 제시한 마이그레이션 절차는 다섯 단계다. 마지막은 실제 운영에 앞서 server/discover, tools/list, 대표적인 tools/call 요청을 시험해 보는 단계다. 문서상 이 서버는 여전히 “MCP Tools (beta)” 항목에 올라 있다. 2025년 11월 13일 비공개 베타로 문을 연 뒤 OAuth 2.1 로그인, /mcp/lite의 Lite 버전, Audience Discovery 도구가 차례로 추가됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Amazon buys ChatGPT ads\nbut still blocks OpenAI bots",
-          "body": "Amazon pays for Black Friday ads in ChatGPT to route shoppers back to its store, yet still blocks OpenAI's crawlers.",
-          "mini_headline": "Amazon buys ChatGPT ads",
+          "headline": "Amazon Ads MCP server gets\nan optional upgrade on Dec. 8",
+          "body": "Amazon Ads' MCP server gets an optional protocol upgrade on December 8; older versions keep working with no end date.",
+          "mini_headline": "Amazon Ads MCP upgrade Dec. 8",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
-                "cap": "Ivy Liu"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
+                "cap": "Amazon Ads MCP Server adds optional stateless MCP 2026-07-28 support on Dec 8, old versions stay."
               },
               {
                 "t": "p",
-                "x": "Amazon is paying OpenAI to reach the same shoppers it refuses to let ChatGPT study. After a quiet few months following its Prime Day activity, it has returned to the chatbot with a new round of Black Friday ads in the U.S., promoting its deals and directing users to Amazon to complete purchases."
+                "x": "Amazon Ads will support version 2026-07-28 of the Model Context Protocol on its MCP Server starting December 8, 2026. Adoption is optional: \"existing clients will not be automatically upgraded,\" and older protocol versions remain supported with no decommission date announced."
               },
               {
                 "t": "p",
-                "x": "Rather than linking to individual product pages, ChatGPT’s shopping experience links to Amazon search results, drawing on third-party deal-tracking websites to identify products, discounts and up-to-date pricing — without necessarily accessing Amazon’s own website."
+                "x": "Clients that opt in drop the initialize handshake and the Mcp-Session-Id header; protocol version and client capabilities travel in each request's _meta field, a new server/discover method reports supported versions, and list results such as tools/list carry ttlMs and cacheScope caching metadata. Endpoints, tools, authentication and access controls are unchanged."
               },
               {
                 "t": "p",
-                "x": "“Sending shoppers to Amazon search results rather than individual product pages also creates another opportunity to make money from advertising,” said Arielle Feger of eMarketer. Amazon’s U.S. search ad revenues are forecasted to reach $40.57 billion this year. “For brands, that creates a risk of paying twice for the same customer,” she added."
-              },
-              {
-                "t": "p",
-                "x": "In September, Amazon Ads announced a partnership letting advertisers buy ChatGPT inventory through Amazon’s DSP. It is unclear whether Amazon bought its ChatGPT ads directly from OpenAI or through its own DSP. Both declined to comment."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "ChatGPT广告照买\nAmazon仍拦OpenAI",
-          "body": "Amazon在ChatGPT投放Black Friday广告，却仍屏蔽OpenAI爬虫。",
-          "mini_headline": "Amazon购买ChatGPT广告",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
-                "cap": "Ivy Liu"
-              },
-              {
-                "t": "p",
-                "x": "Amazon正付钱给OpenAI，去触达那些它拒绝让ChatGPT研究的购物者。在Prime Day之后沉寂了几个月，它以新一轮U.S. Black Friday广告重返这款聊天机器人，推广促销并引导用户前往Amazon完成购买。"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT的购物体验并不链接到单个商品页面，而是链接到Amazon搜索结果，并借助第三方优惠追踪网站来识别商品、折扣和最新价格——不一定需要访问Amazon自己的网站。"
-              },
-              {
-                "t": "p",
-                "x": "eMarketer的Arielle Feger说：“把购物者送到Amazon搜索结果而不是单个商品页面，也创造了另一个靠广告赚钱的机会。”预计Amazon今年在U.S.的搜索广告收入将达到$40.57 billion 。她补充说：“对品牌来说，这带来了为同一个顾客付两次钱的风险。”"
-              },
-              {
-                "t": "p",
-                "x": "9月，Amazon Ads宣布一项合作，让广告主可通过Amazon的DSP购买ChatGPT广告库存。目前尚不清楚Amazon是直接从OpenAI购买ChatGPT广告，还是通过自家DSP购买。双方均拒绝置评。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Amazon se anuncia en ChatGPT\npero bloquea los bots de OpenAI",
-          "body": "Amazon paga anuncios de Black Friday en ChatGPT para atraer compradores, pero aún bloquea los rastreadores de OpenAI.",
-          "mini_headline": "Amazon compra anuncios en ChatGPT",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
-                "cap": "Ivy Liu"
-              },
-              {
-                "t": "p",
-                "x": "Amazon está pagando a OpenAI para llegar a los mismos compradores que se niega a dejar que ChatGPT estudie. Tras unos meses tranquilos después de su actividad en Prime Day, ha vuelto al chatbot con una nueva ronda de anuncios de Black Friday en U.S., en los que promociona sus ofertas y dirige a los usuarios a Amazon para completar sus compras."
-              },
-              {
-                "t": "p",
-                "x": "En lugar de enlazar a páginas de producto individuales, la experiencia de compra de ChatGPT enlaza a resultados de búsqueda de Amazon y se apoya en sitios externos de seguimiento de ofertas para identificar productos, descuentos y precios actualizados, sin acceder necesariamente al propio sitio web de Amazon."
-              },
-              {
-                "t": "p",
-                "x": "“Enviar a los compradores a resultados de búsqueda de Amazon en lugar de a páginas de producto individuales también crea otra oportunidad de ganar dinero con la publicidad”, dijo Arielle Feger, de eMarketer. Se prevé que los ingresos por anuncios de búsqueda de Amazon en U.S. alcancen los $40.57 billion este año. “Para las marcas, eso crea el riesgo de pagar dos veces por el mismo cliente”, añadió."
-              },
-              {
-                "t": "p",
-                "x": "En septiembre, Amazon Ads anunció una alianza que permite a los anunciantes comprar inventario de ChatGPT a través del DSP de Amazon. No está claro si Amazon compró sus anuncios en ChatGPT directamente a OpenAI o a través de su propio DSP. Ambas declinaron hacer comentarios."
+                "x": "Amazon lists five migration steps, ending with testing server/discover, tools/list and representative tools/call requests before production use. Its documentation still lists the server under \"MCP Tools (beta).\" The server opened in closed beta on November 13, 2025, and has since added OAuth 2.1 sign-in, a Lite version at /mcp/lite and Audience Discovery tools."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Amazon ChatGPT\n광고, OpenAI는 차단",
-          "body": "Amazon은 ChatGPT Black Friday 광고 사도 OpenAI 막는다.",
-          "mini_headline": "Amazon, ChatGPT 광고 구매",
+          "headline": "Amazon Ads MCP\n12월 8일 선택형 갱신",
+          "body": "Amazon Ads MCP는 12월 8일 선택 갱신되고 구버전은 기한 없이 남는다.",
+          "mini_headline": "Amazon Ads MCP 12월 8일 갱신",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
-                "cap": "Ivy Liu"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
+                "cap": "Amazon Ads MCP Server가 12월 8일부터 무상태(stateless) MCP 2026-07-28을 선택적으로 지원한다. 구버전은 그대로 남는다."
               },
               {
                 "t": "p",
-                "x": "Amazon은 ChatGPT가 들여다보지 못하게 막아 온 바로 그 쇼핑객에게 닿으려고 OpenAI에 돈을 낸다. Prime Day 뒤 몇 달 잠잠하던 Amazon이 U.S.(미국)에서 Black Friday 광고를 새로 집행하며 챗봇에 돌아왔다. 광고는 할인 상품을 알리고 사용자를 Amazon으로 보내 구매를 마치게 한다."
+                "x": "Amazon Ads는 2026년 12월 8일부터 MCP Server에서 Model Context Protocol 2026-07-28 버전을 지원한다. 도입은 선택 사항이다. “기존 클라이언트는 자동으로 업그레이드되지 않으며”, 이전 프로토콜 버전도 계속 지원한다. 지원 종료일은 발표하지 않았다."
               },
               {
                 "t": "p",
-                "x": "ChatGPT 쇼핑 기능은 개별 상품 페이지가 아니라 Amazon 검색 결과로 이어진다. 상품과 할인, 최신 가격은 제3자 할인 추적 사이트를 참고해 파악하고, Amazon 웹사이트에 꼭 들어가지는 않는다."
+                "x": "업그레이드한 클라이언트는 initialize 핸드셰이크와 Mcp-Session-Id 헤더 없이 동작한다. 프로토콜 버전과 클라이언트 기능은 요청마다 _meta 필드에 실어 보낸다. 지원 버전은 새 server/discover 메서드가 알려주고, tools/list 같은 목록 결과에는 ttlMs와 cacheScope 캐싱 메타데이터가 붙는다. 엔드포인트, 도구, 인증, 접근 제어는 그대로다."
               },
               {
                 "t": "p",
-                "x": "eMarketer의 Arielle Feger는 “쇼핑객을 개별 상품 페이지가 아닌 Amazon 검색 결과로 보내면 광고로 돈을 벌 기회가 하나 더 생긴다”고 말했다. Amazon의 U.S. 검색 광고 매출은 올해 $40.57 billion에 이를 전망이다. 그는 “브랜드로서는 같은 고객에게 두 번 돈을 낼 위험이 생긴다”고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "9월 Amazon Ads는 광고주가 Amazon의 DSP로 ChatGPT 광고 지면을 살 수 있는 제휴를 발표했다. 이번 ChatGPT 광고를 Amazon이 OpenAI에서 직접 샀는지 자사 DSP로 샀는지는 분명하지 않다. 두 회사 모두 논평을 거부했다."
+                "x": "Amazon이 제시한 마이그레이션 절차는 다섯 단계다. 마지막은 실제 운영에 앞서 server/discover, tools/list, 대표적인 tools/call 요청을 시험해 보는 단계다. 문서상 이 서버는 여전히 “MCP Tools (beta)” 항목에 올라 있다. 2025년 11월 13일 비공개 베타로 문을 연 뒤 OAuth 2.1 로그인, /mcp/lite의 Lite 버전, Audience Discovery 도구가 차례로 추가됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AmazonがChatGPT\n広告を買うもOpenAI遮断",
-          "body": "AmazonはChatGPTにBlack Friday広告を出すがOpenAIは遮断する。",
-          "mini_headline": "AmazonがChatGPT広告を購入",
+          "headline": "Amazon Ads MCP\n12月8日に任意更新",
+          "body": "Amazon Ads MCPサーバーは12月8日に任意で更新され、旧版も期限なく使える。",
+          "mini_headline": "Amazon Ads MCP、12月8日更新",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
-                "cap": "Ivy Liu"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
+                "cap": "Amazon Ads MCP Serverは12月8日、ステートレス(stateless)なMCP 2026-07-28への任意対応を追加し、旧バージョンも残る。"
               },
               {
                 "t": "p",
-                "x": "Amazonは、ChatGPTに分析させまいとしている買い物客そのものに届くため、OpenAIに金を払っている。Prime Day後の数カ月は静かだったが、U.S.（米国）でBlack Friday広告を新たに展開してチャットボットに戻り、セール品を宣伝してユーザーをAmazonへ誘導し購入を完了させている。"
+                "x": "Amazon Adsは2026年12月8日から、MCP ServerでModel Context Protocolのバージョン2026-07-28をサポートする。導入は任意で、「既存のクライアントが自動的にアップグレードされることはない」。旧プロトコルバージョンも引き続きサポートされ、廃止日は発表されていない。"
               },
               {
                 "t": "p",
-                "x": "ChatGPTのショッピング機能は個別の商品ページではなくAmazonの検索結果にリンクする。商品や割引、最新価格は第三者のセール追跡サイトを参照して特定しており、必ずしもAmazon自体のサイトにアクセスするわけではない。"
+                "x": "移行を選んだクライアントはinitializeハンドシェイクとMcp-Session-Idヘッダーが不要になる。プロトコルバージョンとクライアント機能は各リクエストの_metaフィールドで送られ、新しいserver/discoverメソッドが対応バージョンを返し、tools/listなどのリスト結果にはttlMsとcacheScopeのキャッシュメタデータが付く。エンドポイント、ツール、認証、アクセス制御は変わらない。"
               },
               {
                 "t": "p",
-                "x": "eMarketerのArielle Fegerは「買い物客を個別の商品ページではなくAmazonの検索結果に送ることで、広告で稼ぐ機会がもう一つ生まれる」と述べた。AmazonのU.S.検索広告収入は今年$40.57 billionに達すると予測されている。「ブランドにとっては、同じ顧客に二度払うリスクが生じる」と彼女は付け加えた。"
+                "x": "Amazonは五つの移行手順を示しており、最後は本番利用の前にserver/discover、tools/list、代表的なtools/callリクエストをテストすることだ。同社のドキュメントでは、このサーバーは今も「MCP Tools (beta)」の項目に載っている。サーバーは2025年11月13日にクローズドベータとして公開され、その後OAuth 2.1によるサインイン、/mcp/liteのLite版、Audience Discoveryツールが加わった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Amazon Ads MCP\n12月8日可选升级",
+          "body": "Amazon Ads MCP服务器将于12月8日推出可选升级，旧版本继续可用且无截止日期。",
+          "mini_headline": "Amazon Ads MCP 12月8日升级",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
+                "cap": "Amazon Ads MCP Server于12月8日新增对无状态(stateless) MCP 2026-07-28的可选支持，旧版本保留。"
               },
               {
                 "t": "p",
-                "x": "9月、Amazon Adsは広告主がAmazonのDSPを通じてChatGPTの広告枠を購入できる提携を発表した。AmazonがChatGPT広告をOpenAIから直接買ったのか、自社のDSP経由で買ったのかは不明だ。両社ともコメントを控えた。"
+                "x": "Amazon Ads将从2026年12月8日起在其MCP Server上支持Model Context Protocol 2026-07-28版本。是否采用由用户自行选择：“现有客户端不会被自动升级”，旧协议版本也将继续获得支持，且未公布停用日期。"
+              },
+              {
+                "t": "p",
+                "x": "选择升级的客户端不再需要initialize握手和Mcp-Session-Id标头；协议版本和客户端能力通过每个请求的_meta字段传递，新的server/discover方法会报告支持的版本，tools/list等列表结果附带ttlMs和cacheScope缓存元数据。端点、工具、身份验证和访问控制保持不变。"
+              },
+              {
+                "t": "p",
+                "x": "Amazon列出了五个迁移步骤，最后一步是在投入生产前测试server/discover、tools/list和具有代表性的tools/call请求。其文档仍将该服务器列在“MCP Tools (beta)”之下。该服务器于2025年11月13日开启封闭测试，此后陆续增加了OAuth 2.1登录、位于/mcp/lite的Lite版本以及Audience Discovery工具。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Amazon Ads MCP: actualización\nopcional el 8 de diciembre",
+          "body": "El servidor MCP de Amazon Ads tendrá una mejora opcional el 8 de diciembre; las versiones previas no caducan.",
+          "mini_headline": "Mejora de Amazon Ads MCP el 8 de diciembre",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
+                "cap": "Amazon Ads MCP Server añade el 8 de diciembre soporte opcional para MCP 2026-07-28 sin estado (stateless); las versiones anteriores se mantienen."
+              },
+              {
+                "t": "p",
+                "x": "Amazon Ads admitirá la versión 2026-07-28 del Model Context Protocol en su MCP Server a partir del 8 de diciembre de 2026. La adopción es opcional: “los clientes existentes no se actualizarán automáticamente”, y las versiones anteriores del protocolo seguirán siendo compatibles, sin fecha de retirada anunciada."
+              },
+              {
+                "t": "p",
+                "x": "Los clientes que opten por ella dejan de usar el handshake initialize y el encabezado Mcp-Session-Id; la versión del protocolo y las capacidades del cliente viajan en el campo _meta de cada solicitud, un nuevo método server/discover informa de las versiones compatibles y los resultados de listas como tools/list incluyen metadatos de caché ttlMs y cacheScope. Los endpoints, las herramientas, la autenticación y los controles de acceso no cambian."
+              },
+              {
+                "t": "p",
+                "x": "Amazon enumera cinco pasos de migración, el último de los cuales es probar server/discover, tools/list y solicitudes tools/call representativas antes del uso en producción. Su documentación aún incluye el servidor en “MCP Tools (beta)”. El servidor se abrió en beta cerrada el 13 de noviembre de 2025 y desde entonces ha añadido inicio de sesión con OAuth 2.1, una versión Lite en /mcp/lite y herramientas de Audience Discovery."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "zh": {
-          "headline": "ChatGPT广告照买\nAmazon仍拦OpenAI",
-          "body": "Amazon在ChatGPT投放Black Friday广告，却仍屏蔽OpenAI爬虫。",
-          "mini_headline": "Amazon购买ChatGPT广告",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
-                "cap": "Ivy Liu"
-              },
-              {
-                "t": "p",
-                "x": "Amazon正付钱给OpenAI，去触达那些它拒绝让ChatGPT研究的购物者。在Prime Day之后沉寂了几个月，它以新一轮U.S. Black Friday广告重返这款聊天机器人，推广促销并引导用户前往Amazon完成购买。"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT的购物体验并不链接到单个商品页面，而是链接到Amazon搜索结果，并借助第三方优惠追踪网站来识别商品、折扣和最新价格——不一定需要访问Amazon自己的网站。"
-              },
-              {
-                "t": "p",
-                "x": "eMarketer的Arielle Feger说：“把购物者送到Amazon搜索结果而不是单个商品页面，也创造了另一个靠广告赚钱的机会。”预计Amazon今年在U.S.的搜索广告收入将达到$40.57 billion 。她补充说：“对品牌来说，这带来了为同一个顾客付两次钱的风险。”"
-              },
-              {
-                "t": "p",
-                "x": "9月，Amazon Ads宣布一项合作，让广告主可通过Amazon的DSP购买ChatGPT广告库存。目前尚不清楚Amazon是直接从OpenAI购买ChatGPT广告，还是通过自家DSP购买。双方均拒绝置评。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Amazon se anuncia en ChatGPT\npero bloquea los bots de OpenAI",
-          "body": "Amazon paga anuncios de Black Friday en ChatGPT para atraer compradores, pero aún bloquea los rastreadores de OpenAI.",
-          "mini_headline": "Amazon compra anuncios en ChatGPT",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
-                "cap": "Ivy Liu"
-              },
-              {
-                "t": "p",
-                "x": "Amazon está pagando a OpenAI para llegar a los mismos compradores que se niega a dejar que ChatGPT estudie. Tras unos meses tranquilos después de su actividad en Prime Day, ha vuelto al chatbot con una nueva ronda de anuncios de Black Friday en U.S., en los que promociona sus ofertas y dirige a los usuarios a Amazon para completar sus compras."
-              },
-              {
-                "t": "p",
-                "x": "En lugar de enlazar a páginas de producto individuales, la experiencia de compra de ChatGPT enlaza a resultados de búsqueda de Amazon y se apoya en sitios externos de seguimiento de ofertas para identificar productos, descuentos y precios actualizados, sin acceder necesariamente al propio sitio web de Amazon."
-              },
-              {
-                "t": "p",
-                "x": "“Enviar a los compradores a resultados de búsqueda de Amazon en lugar de a páginas de producto individuales también crea otra oportunidad de ganar dinero con la publicidad”, dijo Arielle Feger, de eMarketer. Se prevé que los ingresos por anuncios de búsqueda de Amazon en U.S. alcancen los $40.57 billion este año. “Para las marcas, eso crea el riesgo de pagar dos veces por el mismo cliente”, añadió."
-              },
-              {
-                "t": "p",
-                "x": "En septiembre, Amazon Ads anunció una alianza que permite a los anunciantes comprar inventario de ChatGPT a través del DSP de Amazon. No está claro si Amazon compró sus anuncios en ChatGPT directamente a OpenAI o a través de su propio DSP. Ambas declinaron hacer comentarios."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "Amazon ChatGPT\n광고, OpenAI는 차단",
-          "body": "Amazon은 ChatGPT Black Friday 광고 사도 OpenAI 막는다.",
-          "mini_headline": "Amazon, ChatGPT 광고 구매",
+          "headline": "Amazon Ads MCP\n12월 8일 선택형 갱신",
+          "body": "Amazon Ads MCP는 12월 8일 선택 갱신되고 구버전은 기한 없이 남는다.",
+          "mini_headline": "Amazon Ads MCP 12월 8일 갱신",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
-                "cap": "Ivy Liu"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
+                "cap": "Amazon Ads MCP Server가 12월 8일 무상태(stateless) MCP 2026-07-28 선택 지원을 추가하며, 구버전은 그대로 남는다."
               },
               {
                 "t": "p",
-                "x": "Amazon은 ChatGPT가 들여다보지 못하게 막아 온 바로 그 쇼핑객에게 닿으려고 OpenAI에 돈을 내고 있다. Prime Day 이후 몇 달간 잠잠하던 Amazon은 U.S.(미국)에서 Black Friday 광고를 새로 집행하며 챗봇에 돌아왔고, 할인 상품을 알리고 사용자를 Amazon으로 보내 구매를 마치게 한다."
+                "x": "Amazon Ads는 2026년 12월 8일부터 MCP Server에서 Model Context Protocol 2026-07-28 버전을 지원한다. 도입은 선택 사항이다. “기존 클라이언트는 자동으로 업그레이드되지 않으며”, 이전 프로토콜 버전도 계속 지원하고 지원 종료일은 발표하지 않았다."
               },
               {
                 "t": "p",
-                "x": "ChatGPT의 쇼핑 기능은 개별 상품 페이지가 아니라 Amazon 검색 결과로 연결된다. 상품과 할인, 최신 가격은 제3자 할인 추적 사이트를 참고해 파악하며, Amazon 웹사이트에 꼭 접속하지는 않는다."
+                "x": "업그레이드를 택한 클라이언트는 initialize 핸드셰이크와 Mcp-Session-Id 헤더를 쓰지 않는다. 프로토콜 버전과 클라이언트 기능은 각 요청의 _meta 필드에 담겨 전달되고, 새 server/discover 메서드가 지원 버전을 알려주며, tools/list 같은 목록 결과에는 ttlMs와 cacheScope 캐싱 메타데이터가 붙는다. 엔드포인트, 도구, 인증, 접근 제어는 바뀌지 않는다."
               },
               {
                 "t": "p",
-                "x": "eMarketer의 Arielle Feger는 “쇼핑객을 개별 상품 페이지가 아닌 Amazon 검색 결과로 보내면 광고로 돈을 벌 기회가 하나 더 생긴다”고 말했다. Amazon의 U.S. 검색 광고 매출은 올해 $40.57 billion에 이를 것으로 전망된다. 그는 “브랜드로서는 같은 고객에게 두 번 돈을 낼 위험이 생긴다”고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "9월 Amazon Ads는 광고주가 Amazon의 DSP를 통해 ChatGPT 광고 지면을 살 수 있는 제휴를 발표했다. Amazon이 ChatGPT 광고를 OpenAI에서 직접 샀는지, 자사 DSP로 샀는지는 분명하지 않다. 두 회사 모두 논평을 거부했다."
+                "x": "Amazon은 다섯 단계의 마이그레이션 절차를 제시했으며, 마지막 단계는 실제 운영 전에 server/discover, tools/list, 대표적인 tools/call 요청을 테스트하는 것이다. 문서에는 이 서버가 여전히 “MCP Tools (beta)” 항목에 올라 있다. 서버는 2025년 11월 13일 비공개 베타로 문을 열었고, 이후 OAuth 2.1 로그인, /mcp/lite의 Lite 버전, Audience Discovery 도구를 추가했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AmazonがChatGPT\n広告を買うもOpenAI遮断",
-          "body": "AmazonはChatGPTにBlack Friday広告を出すがOpenAIは遮断する。",
-          "mini_headline": "AmazonがChatGPT広告を購入",
+          "headline": "Amazon Ads MCP\n12月8日に任意更新",
+          "body": "Amazon Ads MCPサーバーは12月8日に任意で更新され、旧版も期限なく使える。",
+          "mini_headline": "Amazon Ads MCP、12月8日更新",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg?w=1030&h=579&crop=1",
-                "cap": "Ivy Liu"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
+                "cap": "Amazon Ads MCP Serverは12月8日、ステートレス(stateless)なMCP 2026-07-28への任意対応を追加し、旧バージョンも残る。"
               },
               {
                 "t": "p",
-                "x": "Amazonは、ChatGPTに分析させまいとしている買い物客そのものに届くため、OpenAIに金を払っている。Prime Day後の数カ月は静かだったが、U.S.（米国）でBlack Friday広告を新たに展開してチャットボットに戻り、セール品を宣伝してユーザーをAmazonへ誘導し購入を完了させている。"
+                "x": "Amazon Adsは2026年12月8日から、MCP ServerでModel Context Protocolのバージョン2026-07-28をサポートする。導入は任意で、「既存のクライアントが自動的にアップグレードされることはない」。旧プロトコルバージョンも引き続きサポートされ、廃止日は発表されていない。"
               },
               {
                 "t": "p",
-                "x": "ChatGPTのショッピング機能は個別の商品ページではなくAmazonの検索結果にリンクする。商品や割引、最新価格は第三者のセール追跡サイトを参照して特定しており、必ずしもAmazon自体のサイトにアクセスするわけではない。"
+                "x": "移行を選んだクライアントはinitializeハンドシェイクとMcp-Session-Idヘッダーが不要になる。プロトコルバージョンとクライアント機能は各リクエストの_metaフィールドで送られ、新しいserver/discoverメソッドが対応バージョンを返し、tools/listなどのリスト結果にはttlMsとcacheScopeのキャッシュメタデータが付く。エンドポイント、ツール、認証、アクセス制御は変わらない。"
               },
               {
                 "t": "p",
-                "x": "eMarketerのArielle Fegerは「買い物客を個別の商品ページではなくAmazonの検索結果に送ることで、広告で稼ぐ機会がもう一つ生まれる」と述べた。AmazonのU.S.検索広告収入は今年$40.57 billionに達すると予測されている。「ブランドにとっては、同じ顧客に二度払うリスクが生じる」と彼女は付け加えた。"
+                "x": "Amazonは五つの移行手順を示しており、最後は本番利用の前にserver/discover、tools/list、代表的なtools/callリクエストをテストすることだ。同社のドキュメントでは、このサーバーは今も「MCP Tools (beta)」の項目に載っている。サーバーは2025年11月13日にクローズドベータとして公開され、その後OAuth 2.1によるサインイン、/mcp/liteのLite版、Audience Discoveryツールが加わった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Amazon Ads MCP\n12月8日可选升级",
+          "body": "Amazon Ads MCP服务器将于12月8日推出可选升级，旧版本继续可用且无截止日期。",
+          "mini_headline": "Amazon Ads MCP 12月8日升级",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
+                "cap": "Amazon Ads MCP Server于12月8日新增对无状态(stateless) MCP 2026-07-28的可选支持，旧版本保留。"
               },
               {
                 "t": "p",
-                "x": "9月、Amazon Adsは広告主がAmazonのDSPを通じてChatGPTの広告枠を購入できる提携を発表した。AmazonがChatGPT広告をOpenAIから直接買ったのか、自社のDSP経由で買ったのかは不明だ。両社ともコメントを控えた。"
+                "x": "Amazon Ads将从2026年12月8日起在其MCP Server上支持Model Context Protocol 2026-07-28版本。是否采用由用户自行选择：“现有客户端不会被自动升级”，旧协议版本也将继续获得支持，且未公布停用日期。"
+              },
+              {
+                "t": "p",
+                "x": "选择升级的客户端不再需要initialize握手和Mcp-Session-Id标头；协议版本和客户端能力通过每个请求的_meta字段传递，新的server/discover方法会报告支持的版本，tools/list等列表结果附带ttlMs和cacheScope缓存元数据。端点、工具、身份验证和访问控制保持不变。"
+              },
+              {
+                "t": "p",
+                "x": "Amazon列出了五个迁移步骤，最后一步是在投入生产前测试server/discover、tools/list和具有代表性的tools/call请求。其文档仍将该服务器列在“MCP Tools (beta)”之下。该服务器于2025年11月13日开启封闭测试，此后陆续增加了OAuth 2.1登录、位于/mcp/lite的Lite版本以及Audience Discovery工具。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Amazon Ads MCP: actualización\nopcional el 8 de diciembre",
+          "body": "El servidor MCP de Amazon Ads tendrá una mejora opcional el 8 de diciembre; las versiones previas no caducan.",
+          "mini_headline": "Mejora de Amazon Ads MCP el 8 de diciembre",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
+                "cap": "Amazon Ads MCP Server añade el 8 de diciembre soporte opcional para MCP 2026-07-28 sin estado (stateless); las versiones anteriores se mantienen."
+              },
+              {
+                "t": "p",
+                "x": "Amazon Ads admitirá la versión 2026-07-28 del Model Context Protocol en su MCP Server a partir del 8 de diciembre de 2026. La adopción es opcional: “los clientes existentes no se actualizarán automáticamente”, y las versiones anteriores del protocolo seguirán siendo compatibles, sin fecha de retirada anunciada."
+              },
+              {
+                "t": "p",
+                "x": "Los clientes que opten por ella dejan de usar el handshake initialize y el encabezado Mcp-Session-Id; la versión del protocolo y las capacidades del cliente viajan en el campo _meta de cada solicitud, un nuevo método server/discover informa de las versiones compatibles y los resultados de listas como tools/list incluyen metadatos de caché ttlMs y cacheScope. Los endpoints, las herramientas, la autenticación y los controles de acceso no cambian."
+              },
+              {
+                "t": "p",
+                "x": "Amazon enumera cinco pasos de migración, el último de los cuales es probar server/discover, tools/list y solicitudes tools/call representativas antes del uso en producción. Su documentación aún incluye el servidor en “MCP Tools (beta)”. El servidor se abrió en beta cerrada el 13 de noviembre de 2025 y desde entonces ha añadido inicio de sesión con OAuth 2.1, una versión Lite en /mcp/lite y herramientas de Audience Discovery."
               }
             ]
           }
@@ -637,321 +657,401 @@
       }
     },
     {
-      "id": "walmart-meta-muse-blackfriday",
-      "source_lang": "en",
+      "id": "adobe-agents-chatgpt-claude",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Walmart 특가를\nMeta Muse에서 산다",
-      "body": "Walmart가 Meta Muse에서 Black Friday 특가 쇼핑을 연다.",
-      "mini_headline": "Meta Muse에서 Walmart 특가",
+      "headline": "어도비 마케팅 에이전트\n챗GPT·클로드에서 쓴다",
+      "body": "어도비가 마케팅 AI 에이전트를 챗GPT·클로드·제미나이·코파일럿에서 쓰게 했다.",
+      "mini_headline": "어도비 CX 코워커, 챗GPT로",
       "tool": "Marketing",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "source": "서울경제",
+      "url": "https://www.sedaily.com/article/20118433",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+            "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
+            "cap": "어도비가 24일 ‘CX 엔터프라이즈 코워커’를 주요 AI 플랫폼에서 이용할 수 있게 됐다고 밝혔다. 사진 제공=어도비"
           },
           {
             "t": "p",
-            "x": "Walmart가 Meta와 손잡고 Meta의 AI 에이전트 Muse로 Black Friday 특가 상품을 살 수 있게 한다. 화요일 발표된 제휴에 따라 쇼핑객이 Muse에 원하는 것을 말하면 AI가 상품을 찾고 가격을 비교해 구매까지 마친다. Amazon은 제3자 AI 에이전트가 고객 대신 구매하지 못하게 막아 왔지만, Walmart는 이 방식을 적극 받아들인다."
-          },
-          {
-            "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
-            "cap": "이미지 출처: Walmart"
+            "x": "어도비가 마케팅 담당자의 고객 경험 관리 업무를 돕는 인공지능(AI) 에이전트를 챗GPT와 클로드 등 주요 AI 플랫폼에서 사용할 수 있도록 한다. 마케터가 어도비 제품을 따로 실행하지 않고 평소 사용하는 AI 안에서 캠페인 기획과 분석까지 해결할 수 있도록 지원한다는 구상이다."
           },
           {
             "t": "p",
-            "x": "사용자는 Muse 앱에서 Walmart 계정에 로그인한다. Muse가 Walmart에 요청을 보내면 Walmart가 관련 상품을 돌려주고 장바구니 구성을 돕는다. Muse는 고객의 Walmart 구매 이력이나 다른 개인정보에 접근하지 못한다. 쇼핑객은 지출 한도와 구매 전 승인 여부를 정하고 에이전트가 넣은 주문도 검토할 수 있다."
+            "x": "어도비는 24일 자사 AI 에이전트 ‘CX 엔터프라이즈 코워커’를 주요 AI 플랫폼에서 이용할 수 있다고 밝혔다. 현재 챗GPT·클로드·제미나이(엔터프라이즈용)·코파일럿에서 쓸 수 있으며 향후 아마존 퀵과 IBM, 스노우플레이크에서도 지원할 예정이다."
           },
           {
             "t": "p",
-            "x": "이 기능은 Walmart가 10월 내놓은 Agent Gateway로 돌아간다. 외부 AI 어시스턴트가 온라인 스토어에 바로 연결되도록 만든 도구다. Walmart는 이를 더 많은 개발자와 AI 플랫폼에 열 계획이다. Instacart도 Muse와 손잡았다."
+            "x": "CX 엔터프라이즈 코워커는 고객 경험(CX) 관리를 맡는 AI 에이전트다. 잠재 고객 확보와 참여 유도·구매 전환·고객 생애 가치 증대까지 고객 관리 전 단계를 다룬다. 사람의 감독 하에 캠페인 성과와 새로운 트렌드를 분석하고 고객군 예측 및 고객 여정 최적화 기능을 제공한다."
+          },
+          {
+            "t": "p",
+            "x": "어도비는 마케터가 회사의 맥락을 반영하지 못한 채 AI 도구를 사용하는 문제를 풀겠다는 입장이다. 안줄 밤브리 어도비 CX 오케스트레이션 엔지니어링 수석 부사장은 “마케터들은 조직적 맥락과 인텔리전스를 충분히 활용하지 못한 채 AI툴을 개별적으로 사용하는 경우가 많았다”고 진단했다. 그는 이 도구가 브랜드와 고객 정보를 바탕으로 AI 도구와 업무 흐름을 연결한다고 설명했다."
+          },
+          {
+            "t": "p",
+            "x": "어도비는 신규 커넥터도 공개했다. 아마존 애즈·메타 광고·마이크로소프트 워크IQ 등 마케터가 쓰는 시스템과 미리 연결된 모델 컨텍스트 프로토콜(MCP) 서버를 제공한다. 마케터는 별도 연동 작업 없이 시스템을 연결하고 한 번의 요청으로 여러 시스템에서 데이터를 가져올 수 있게 된다."
+          },
+          {
+            "t": "p",
+            "x": "여러 광고 에이전시도 이 도구를 바탕으로 산업별 맞춤형 솔루션을 만들고 있다. 라오 수라파네니 구글 클라우드 부사장은 “어도비 CX 엔터프라이즈 코워커를 기업용 제미나이에 통합하면서 기업은 기존 업무 환경에서 고객 데이터와 브랜드 인텔리전스를 안전하게 활용할 수 있다”고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Walmart brings Black Friday\nto Meta's Muse agent",
-          "body": "Walmart lets customers shop its Black Friday deals through Meta's Muse agent via a gateway it controls.",
-          "mini_headline": "Walmart deals on Meta's Muse",
+        "ko": {
+          "headline": "어도비 마케팅 에이전트\n챗GPT·클로드에서 쓴다",
+          "body": "어도비가 마케팅 AI 에이전트를 챗GPT·클로드·제미나이·코파일럿에서 쓰게 했다.",
+          "mini_headline": "어도비 CX 코워커, 챗GPT로",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
+                "cap": "어도비가 24일 ‘CX 엔터프라이즈 코워커’를 주요 AI 플랫폼에서 이용할 수 있게 됐다고 밝혔다. 사진 제공=어도비"
               },
               {
                 "t": "p",
-                "x": "Walmart is teaming up with Meta to let customers shop its Black Friday deals through Muse, Meta’s AI agent. Announced Tuesday, the partnership lets shoppers tell Muse what they want and let the AI find products, compare prices and make purchases. While Amazon has taken steps to stop third-party AI agents from buying for customers, Walmart is leaning into the idea."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
-                "cap": "Image Credits: Walmart"
+                "x": "어도비가 마케팅 담당자의 고객 경험 관리 업무를 돕는 인공지능(AI) 에이전트를 챗GPT와 클로드 등 주요 AI 플랫폼에서 사용할 수 있도록 한다. 마케터가 어도비 제품을 따로 실행하지 않고 평소 사용하는 AI 안에서 캠페인 기획과 분석까지 해결할 수 있도록 지원한다는 구상이다."
               },
               {
                 "t": "p",
-                "x": "Users sign in to their Walmart account from the Muse app; Muse sends requests to Walmart, which returns relevant products and helps build a cart. Muse doesn’t get access to a customer’s Walmart shopping history or other personal information, and shoppers can set spending limits, require approval before purchases and review orders placed by the agent."
+                "x": "어도비는 24일 자사 AI 에이전트 ‘CX 엔터프라이즈 코워커’를 주요 AI 플랫폼에서 이용할 수 있다고 밝혔다. 현재 챗GPT·클로드·제미나이(엔터프라이즈용)·코파일럿에서 쓸 수 있으며 향후 아마존 퀵과 IBM, 스노우플레이크에서도 지원할 예정이다."
               },
               {
                 "t": "p",
-                "x": "The experience is powered by Walmart’s Agent Gateway, launched in October to let outside AI assistants connect directly with its online store; Walmart plans to open it to more developers and AI platforms. Instacart has also joined forces with Muse."
+                "x": "CX 엔터프라이즈 코워커는 고객 경험(CX) 관리를 맡는 AI 에이전트다. 잠재 고객 확보와 참여 유도·구매 전환·고객 생애 가치 증대까지 고객 관리 전 단계를 다룬다. 사람의 감독 하에 캠페인 성과와 새로운 트렌드를 분석하고 고객군 예측 및 고객 여정 최적화 기능을 제공한다."
+              },
+              {
+                "t": "p",
+                "x": "어도비는 마케터가 회사의 맥락을 반영하지 못한 채 AI 도구를 사용하는 문제를 풀겠다는 입장이다. 안줄 밤브리 어도비 CX 오케스트레이션 엔지니어링 수석 부사장은 “마케터들은 조직적 맥락과 인텔리전스를 충분히 활용하지 못한 채 AI툴을 개별적으로 사용하는 경우가 많았다”고 진단했다. 그는 이 도구가 브랜드와 고객 정보를 바탕으로 AI 도구와 업무 흐름을 연결한다고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "어도비는 신규 커넥터도 공개했다. 아마존 애즈·메타 광고·마이크로소프트 워크IQ 등 마케터가 쓰는 시스템과 미리 연결된 모델 컨텍스트 프로토콜(MCP) 서버를 제공한다. 마케터는 별도 연동 작업 없이 시스템을 연결하고 한 번의 요청으로 여러 시스템에서 데이터를 가져올 수 있게 된다."
+              },
+              {
+                "t": "p",
+                "x": "여러 광고 에이전시도 이 도구를 바탕으로 산업별 맞춤형 솔루션을 만들고 있다. 라오 수라파네니 구글 클라우드 부사장은 “어도비 CX 엔터프라이즈 코워커를 기업용 제미나이에 통합하면서 기업은 기존 업무 환경에서 고객 데이터와 브랜드 인텔리전스를 안전하게 활용할 수 있다”고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Walmart 특가를\nMeta Muse에서 산다",
-          "body": "Walmart가 Meta Muse에서 Black Friday 특가 쇼핑을 연다.",
-          "mini_headline": "Meta Muse에서 Walmart 특가",
+        "en": {
+          "headline": "Adobe's marketing agent comes\nto ChatGPT and Claude",
+          "body": "Adobe has made its marketing AI agent available in ChatGPT, Claude, Gemini and Copilot.",
+          "mini_headline": "Adobe CX Coworker comes to ChatGPT",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
+                "cap": "Adobe said on the 24th that its ‘CX Enterprise Coworker’ is now available on major AI platforms. Photo courtesy of Adobe"
               },
               {
                 "t": "p",
-                "x": "Walmart가 Meta와 손잡고 Meta의 AI 에이전트 Muse로 Black Friday 특가 상품을 살 수 있게 한다. 화요일 발표된 제휴에 따라 쇼핑객이 Muse에 원하는 것을 말하면 AI가 상품을 찾고 가격을 비교해 구매까지 마친다. Amazon은 제3자 AI 에이전트가 고객 대신 구매하지 못하게 막아 왔지만, Walmart는 이 방식을 적극 받아들인다."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
-                "cap": "이미지 출처: Walmart"
+                "x": "Adobe is making an artificial intelligence (AI) agent that helps marketers manage customer experience available on major AI platforms such as ChatGPT and Claude. The idea is to let marketers handle everything up to campaign planning and analysis inside the AI they already use, without launching Adobe products separately."
               },
               {
                 "t": "p",
-                "x": "사용자는 Muse 앱에서 Walmart 계정에 로그인한다. Muse가 Walmart에 요청을 보내면 Walmart가 관련 상품을 돌려주고 장바구니 구성을 돕는다. Muse는 고객의 Walmart 구매 이력이나 다른 개인정보에 접근하지 못한다. 쇼핑객은 지출 한도와 구매 전 승인 여부를 정하고 에이전트가 넣은 주문도 검토할 수 있다."
+                "x": "Adobe said on the 24th that its AI agent, ‘CX Enterprise Coworker,’ can be used on major AI platforms. It is currently available in ChatGPT, Claude, Gemini (Enterprise) and Copilot, with support for Amazon Quick, IBM and Snowflake planned."
               },
               {
                 "t": "p",
-                "x": "이 기능은 Walmart가 10월 내놓은 Agent Gateway로 돌아간다. 외부 AI 어시스턴트가 온라인 스토어에 바로 연결되도록 만든 도구다. Walmart는 이를 더 많은 개발자와 AI 플랫폼에 열 계획이다. Instacart도 Muse와 손잡았다."
+                "x": "CX Enterprise Coworker is an AI agent that handles customer experience (CX) management. It covers every stage of customer management, from acquiring prospects and driving engagement to purchase conversion and growing customer lifetime value. Under human supervision, it analyzes campaign performance and emerging trends and offers audience prediction and customer journey optimization."
+              },
+              {
+                "t": "p",
+                "x": "Adobe says it aims to solve the problem of marketers using AI tools without reflecting their company's context. Anjul Bhambhri, senior vice president of CX orchestration engineering at Adobe, said, “Marketers have often used AI tools individually without fully drawing on organizational context and intelligence.” Bhambhri explained that the tool connects AI tools and workflows based on brand and customer information."
+              },
+              {
+                "t": "p",
+                "x": "Adobe also unveiled new connectors. It provides Model Context Protocol (MCP) servers prebuilt to connect with systems marketers use, such as Amazon Ads, Meta ads and Microsoft Work IQ. Marketers will be able to connect systems without separate integration work and pull data from multiple systems with a single request."
+              },
+              {
+                "t": "p",
+                "x": "Several ad agencies are also building industry-specific solutions on top of the tool. Rao Surapaneni, vice president at Google Cloud, said, “By integrating Adobe CX Enterprise Coworker into Gemini Enterprise, companies can securely use customer data and brand intelligence within their existing work environments.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Walmartの特売を\nMetaのMuseで",
-          "body": "WalmartはMetaのMuseを通じてBlack Friday特価を買えるようにした。",
-          "mini_headline": "Walmart特価をMetaのMuseで",
+          "headline": "Adobeのマーケ支援AI\nChatGPTなどで利用可能",
+          "body": "AdobeのマーケAIがChatGPT・Claude・Geminiなどに対応した。",
+          "mini_headline": "Adobe CX Coworker、ChatGPTへ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
+                "cap": "Adobeは24日、「CX Enterprise Coworker」を主要AIプラットフォームで利用できるようになったと発表した。写真提供＝Adobe"
               },
               {
                 "t": "p",
-                "x": "WalmartはMetaと組み、MetaのAIエージェントMuseを通じて顧客がBlack Fridayのセール品を買えるようにする。火曜日に発表された提携により、買い物客はMuseに欲しいものを伝えるだけで、AIが商品を探し、価格を比較し、購入まで行う。Amazonがサードパーティの AIエージェントによる代理購入を阻む措置を取ってきたのに対し、Walmartはこの考えを積極的に取り入れている。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
-                "cap": "画像提供: Walmart"
+                "x": "Adobeは、マーケティング担当者の顧客体験管理業務を支援する人工知能(AI)エージェントを、ChatGPTやClaudeなど主要AIプラットフォームで使えるようにする。マーケターがAdobe製品を別途立ち上げることなく、普段使っているAIの中でキャンペーンの企画から分析まで完結できるよう支援する構想だ。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはMuseアプリからWalmartアカウントにサインインする。MuseがWalmartにリクエストを送ると、Walmartが関連商品を返し、カート作成を手伝う。MuseはWalmartでの購入履歴やその他の個人情報にはアクセスできず、買い物客は支出上限の設定、購入前の承認、エージェントが行った注文の確認ができる。"
+                "x": "Adobeは24日、自社のAIエージェント「CX Enterprise Coworker」を主要AIプラットフォームで利用できると発表した。現在はChatGPT・Claude・Gemini(エンタープライズ向け)・Copilotで使え、今後はAmazon Quick、IBM、Snowflakeでも対応する予定だ。"
               },
               {
                 "t": "p",
-                "x": "この体験を支えるのは、外部のAIアシスタントがオンラインストアに直接接続できるよう10月に始まったWalmartのAgent Gatewayだ。Walmartはこれをより多くの開発者やAIプラットフォームに開放する計画だ。InstacartもMuseと手を組んでいる。"
+                "x": "CX Enterprise Coworkerは顧客体験(CX)管理を担うAIエージェントだ。見込み客の獲得、エンゲージメントの促進、購入転換、顧客生涯価値の向上まで、顧客管理の全段階を扱う。人の監督の下でキャンペーン成果や新たなトレンドを分析し、顧客セグメントの予測やカスタマージャーニーの最適化機能を提供する。"
+              },
+              {
+                "t": "p",
+                "x": "Adobeは、マーケターが会社の文脈を反映できないままAIツールを使っている問題を解決する考えだ。AdobeのCXオーケストレーション・エンジニアリング担当シニアバイスプレジデント、Anjul Bhambhriは「マーケターは組織の文脈やインテリジェンスを十分に生かせないまま、AIツールを個別に使うことが多かった」と指摘した。そのうえで、このツールはブランドと顧客の情報をもとにAIツールと業務フローをつなぐと説明した。"
+              },
+              {
+                "t": "p",
+                "x": "Adobeは新たなコネクターも公開した。Amazon Ads・Meta広告・Microsoft Work IQなど、マーケターが使うシステムとあらかじめ接続されたモデル・コンテキスト・プロトコル(MCP)サーバーを提供する。マーケターは別途の連携作業なしにシステムをつなぎ、一度の依頼で複数のシステムからデータを取得できるようになる。"
+              },
+              {
+                "t": "p",
+                "x": "複数の広告代理店もこのツールを基に業界別のソリューションを開発している。Google CloudのバイスプレジデントであるRao Surapaneniは「Adobe CX Enterprise CoworkerをGemini Enterpriseに統合することで、企業は既存の業務環境で顧客データとブランドインテリジェンスを安全に活用できる」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Walmart黑五大促\n搬进Meta的Muse",
-          "body": "Walmart通过自有网关，让顾客在Meta的Muse里选购Black Friday优惠。",
-          "mini_headline": "Walmart优惠登陆Meta Muse",
+          "headline": "Adobe营销AI智能体\n可在ChatGPT等使用",
+          "body": "Adobe营销AI智能体登陆ChatGPT、Claude、Gemini和Copilot。",
+          "mini_headline": "Adobe CX Coworker登陆ChatGPT",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
+                "cap": "Adobe于24日表示，“CX Enterprise Coworker”已可在主要AI平台上使用。图片由Adobe提供"
               },
               {
                 "t": "p",
-                "x": "Walmart与Meta合作，让顾客通过Meta的AI智能体Muse选购其Black Friday优惠商品。根据周二宣布的合作，购物者只需告诉Muse想要什么，AI就会寻找商品、比较价格并完成购买。Amazon已采取措施阻止第三方AI智能体代客户购物，而Walmart则积极拥抱这一做法。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
-                "cap": "图片来源：Walmart"
+                "x": "Adobe将让帮助营销人员管理客户体验的人工智能(AI)智能体可在ChatGPT和Claude等主要AI平台上使用。其构想是让营销人员无需另行启动Adobe产品，就能在日常使用的AI中完成从活动策划到分析的工作。"
               },
               {
                 "t": "p",
-                "x": "用户在Muse应用中登录Walmart账户；Muse向Walmart发送请求，Walmart返回相关商品并协助生成购物车。Muse无法获取顾客的Walmart购物记录或其他个人信息，购物者可以设置消费上限、要求购买前确认，并查看智能体下的订单。"
+                "x": "Adobe于24日表示，其AI智能体“CX Enterprise Coworker”已可在主要AI平台上使用。目前可在ChatGPT、Claude、Gemini(企业版)和Copilot中使用，未来还将支持Amazon Quick、IBM和Snowflake。"
               },
               {
                 "t": "p",
-                "x": "这项体验由Walmart于10月推出的Agent Gateway提供支持，该网关让外部AI助手直接连接其线上商店；Walmart计划向更多开发者和AI平台开放。Instacart也已与Muse合作。"
+                "x": "CX Enterprise Coworker是负责客户体验(CX)管理的AI智能体，覆盖从获取潜在客户、促进互动、推动购买转化到提升客户生命周期价值的客户管理全流程。它在人工监督下分析活动成效和新趋势，并提供客群预测和客户旅程优化功能。"
+              },
+              {
+                "t": "p",
+                "x": "Adobe表示，要解决营销人员在未能反映公司背景的情况下使用AI工具的问题。Adobe CX编排工程高级副总裁Anjul Bhambhri指出：“营销人员常常在未能充分利用组织背景和情报的情况下，各自零散地使用AI工具。”Bhambhri解释说，该工具以品牌和客户信息为基础，将AI工具与工作流程连接起来。"
+              },
+              {
+                "t": "p",
+                "x": "Adobe还发布了新的连接器，提供与Amazon Ads、Meta广告、Microsoft Work IQ等营销人员常用系统预先连接的模型上下文协议(MCP)服务器。营销人员无需额外集成工作即可连接系统，并通过一次请求从多个系统获取数据。"
+              },
+              {
+                "t": "p",
+                "x": "多家广告代理商也在以该工具为基础打造面向各行业的定制方案。Google Cloud副总裁Rao Surapaneni表示：“通过将Adobe CX Enterprise Coworker集成到企业版Gemini中，企业可以在现有工作环境中安全地利用客户数据和品牌情报。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Walmart lleva su Black Friday\nal agente Muse de Meta",
-          "body": "Walmart permite comprar ofertas de Black Friday a través del agente Muse de Meta, mediante una pasarela que controla.",
-          "mini_headline": "Ofertas de Walmart en Muse de Meta",
+          "headline": "El agente de marketing de Adobe\nllega a ChatGPT y Claude",
+          "body": "Adobe lleva su agente de AI para marketing a ChatGPT, Claude, Gemini y Copilot.",
+          "mini_headline": "Adobe CX Coworker llega a ChatGPT",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
+                "cap": "Adobe anunció el 24 que ‘CX Enterprise Coworker’ ya puede usarse en las principales plataformas de AI. Foto: Adobe"
               },
               {
                 "t": "p",
-                "x": "Walmart se alía con Meta para que sus clientes compren sus ofertas de Black Friday a través de Muse, el agente de AI de Meta. Anunciada el martes, la alianza permite a los compradores decirle a Muse lo que quieren y dejar que la AI encuentre productos, compare precios y realice compras. Mientras Amazon ha tomado medidas para impedir que agentes de AI de terceros compren en nombre de los clientes, Walmart apuesta por la idea."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
-                "cap": "Créditos de imagen: Walmart"
+                "x": "Adobe permitirá usar en las principales plataformas de AI, como ChatGPT y Claude, un agente de inteligencia artificial (AI) que ayuda a los profesionales de marketing a gestionar la experiencia del cliente. La idea es que puedan resolver desde la planificación hasta el análisis de campañas dentro de la AI que usan a diario, sin abrir por separado los productos de Adobe."
               },
               {
                 "t": "p",
-                "x": "Los usuarios inician sesión en su cuenta de Walmart desde la app de Muse; Muse envía solicitudes a Walmart, que devuelve productos relevantes y ayuda a crear el carrito. Muse no accede al historial de compras de Walmart del cliente ni a otros datos personales, y los compradores pueden fijar límites de gasto, exigir aprobación antes de cada compra y revisar los pedidos hechos por el agente."
+                "x": "Adobe anunció el 24 que su agente de AI ‘CX Enterprise Coworker’ puede usarse en las principales plataformas de AI. Ya está disponible en ChatGPT, Claude, Gemini (para empresas) y Copilot, y más adelante llegará a Amazon Quick, IBM y Snowflake."
               },
               {
                 "t": "p",
-                "x": "La experiencia funciona con Agent Gateway de Walmart, lanzado en octubre para que asistentes de AI externos se conecten directamente con su tienda en línea; Walmart planea abrirlo a más desarrolladores y plataformas de AI. Instacart también se ha asociado con Muse."
+                "x": "CX Enterprise Coworker es un agente de AI dedicado a la gestión de la experiencia del cliente (CX). Cubre todas las etapas de la relación con el cliente, desde la captación de clientes potenciales y el fomento de la interacción hasta la conversión en compra y el aumento del valor de vida del cliente. Bajo supervisión humana, analiza el rendimiento de las campañas y las nuevas tendencias, y ofrece funciones de predicción de segmentos y optimización del recorrido del cliente."
+              },
+              {
+                "t": "p",
+                "x": "Adobe afirma que quiere resolver el problema de los profesionales de marketing que usan herramientas de AI sin reflejar el contexto de su empresa. Anjul Bhambhri, vicepresidente sénior de ingeniería de orquestación de CX de Adobe, señaló: “Los profesionales de marketing a menudo han usado herramientas de AI por separado, sin aprovechar plenamente el contexto y la inteligencia de la organización”. Explicó que la herramienta conecta las herramientas de AI y los flujos de trabajo a partir de la información de la marca y de los clientes."
+              },
+              {
+                "t": "p",
+                "x": "Adobe también presentó nuevos conectores. Ofrece servidores de protocolo de contexto de modelo (MCP) ya conectados con sistemas que usan los profesionales de marketing, como Amazon Ads, la publicidad de Meta y Microsoft Work IQ. Así podrán conectar sistemas sin trabajos de integración aparte y obtener datos de varios sistemas con una sola solicitud."
+              },
+              {
+                "t": "p",
+                "x": "Varias agencias de publicidad también están creando soluciones a medida para cada sector a partir de esta herramienta. Rao Surapaneni, vicepresidente de Google Cloud, dijo: “Al integrar Adobe CX Enterprise Coworker en Gemini Enterprise, las empresas pueden aprovechar de forma segura los datos de clientes y la inteligencia de marca en su entorno de trabajo actual”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Walmart 특가를\nMeta Muse에서 산다",
-          "body": "Walmart가 Meta Muse에서 Black Friday 특가 쇼핑을 연다.",
-          "mini_headline": "Meta Muse에서 Walmart 특가",
+        "en": {
+          "headline": "Adobe's marketing agent comes\nto ChatGPT and Claude",
+          "body": "Adobe has made its marketing AI agent available in ChatGPT, Claude, Gemini and Copilot.",
+          "mini_headline": "Adobe CX Coworker comes to ChatGPT",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
+                "cap": "Adobe said on the 24th that its ‘CX Enterprise Coworker’ is now available on major AI platforms. Photo courtesy of Adobe"
               },
               {
                 "t": "p",
-                "x": "Walmart가 Meta와 손잡고 고객이 Meta의 AI 에이전트 Muse를 통해 Black Friday 특가 상품을 쇼핑할 수 있게 한다. 화요일 발표된 이번 제휴로 쇼핑객은 Muse에 원하는 것을 말하면 AI가 상품을 찾고 가격을 비교해 구매까지 해 준다. Amazon은 제3자 AI 에이전트가 고객 대신 구매하지 못하도록 조치해 왔지만, Walmart는 이 방식을 적극 받아들이고 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
-                "cap": "이미지 출처: Walmart"
+                "x": "Adobe is making an artificial intelligence (AI) agent that helps marketers manage customer experience available on major AI platforms such as ChatGPT and Claude. The idea is to let marketers handle everything up to campaign planning and analysis inside the AI they already use, without launching Adobe products separately."
               },
               {
                 "t": "p",
-                "x": "사용자는 Muse 앱에서 Walmart 계정에 로그인한다. Muse가 Walmart에 요청을 보내면 Walmart가 관련 상품을 돌려주고 장바구니 구성을 돕는다. Muse는 고객의 Walmart 구매 이력이나 기타 개인정보에 접근하지 못하며, 쇼핑객은 지출 한도를 정하고, 구매 전 승인을 요구하고, 에이전트가 넣은 주문을 검토할 수 있다."
+                "x": "Adobe said on the 24th that its AI agent, ‘CX Enterprise Coworker,’ can be used on major AI platforms. It is currently available in ChatGPT, Claude, Gemini (Enterprise) and Copilot, with support for Amazon Quick, IBM and Snowflake planned."
               },
               {
                 "t": "p",
-                "x": "이 기능은 외부 AI 어시스턴트가 온라인 스토어에 직접 연결되도록 10월 출시한 Walmart의 Agent Gateway로 구동된다. Walmart는 이를 더 많은 개발자와 AI 플랫폼에 개방할 계획이다. Instacart도 Muse와 손잡았다."
+                "x": "CX Enterprise Coworker is an AI agent that handles customer experience (CX) management. It covers every stage of customer management, from acquiring prospects and driving engagement to purchase conversion and growing customer lifetime value. Under human supervision, it analyzes campaign performance and emerging trends and offers audience prediction and customer journey optimization."
+              },
+              {
+                "t": "p",
+                "x": "Adobe says it aims to solve the problem of marketers using AI tools without reflecting their company's context. Anjul Bhambhri, senior vice president of CX orchestration engineering at Adobe, said, “Marketers have often used AI tools individually without fully drawing on organizational context and intelligence.” Bhambhri explained that the tool connects AI tools and workflows based on brand and customer information."
+              },
+              {
+                "t": "p",
+                "x": "Adobe also unveiled new connectors. It provides Model Context Protocol (MCP) servers prebuilt to connect with systems marketers use, such as Amazon Ads, Meta ads and Microsoft Work IQ. Marketers will be able to connect systems without separate integration work and pull data from multiple systems with a single request."
+              },
+              {
+                "t": "p",
+                "x": "Several ad agencies are also building industry-specific solutions on top of the tool. Rao Surapaneni, vice president at Google Cloud, said, “By integrating Adobe CX Enterprise Coworker into Gemini Enterprise, companies can securely use customer data and brand intelligence within their existing work environments.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Walmartの特売を\nMetaのMuseで",
-          "body": "WalmartはMetaのMuseを通じてBlack Friday特価を買えるようにした。",
-          "mini_headline": "Walmart特価をMetaのMuseで",
+          "headline": "Adobeのマーケ支援AI\nChatGPTなどで利用可能",
+          "body": "AdobeのマーケAIがChatGPT・Claude・Geminiなどに対応した。",
+          "mini_headline": "Adobe CX Coworker、ChatGPTへ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
+                "cap": "Adobeは24日、「CX Enterprise Coworker」を主要AIプラットフォームで利用できるようになったと発表した。写真提供＝Adobe"
               },
               {
                 "t": "p",
-                "x": "WalmartはMetaと組み、MetaのAIエージェントMuseを通じて顧客がBlack Fridayのセール品を買えるようにする。火曜日に発表された提携により、買い物客はMuseに欲しいものを伝えるだけで、AIが商品を探し、価格を比較し、購入まで行う。Amazonがサードパーティの AIエージェントによる代理購入を阻む措置を取ってきたのに対し、Walmartはこの考えを積極的に取り入れている。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
-                "cap": "画像提供: Walmart"
+                "x": "Adobeは、マーケティング担当者の顧客体験管理業務を支援する人工知能(AI)エージェントを、ChatGPTやClaudeなど主要AIプラットフォームで使えるようにする。マーケターがAdobe製品を別途立ち上げることなく、普段使っているAIの中でキャンペーンの企画から分析まで完結できるよう支援する構想だ。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはMuseアプリからWalmartアカウントにサインインする。MuseがWalmartにリクエストを送ると、Walmartが関連商品を返し、カート作成を手伝う。MuseはWalmartでの購入履歴やその他の個人情報にはアクセスできず、買い物客は支出上限の設定、購入前の承認、エージェントが行った注文の確認ができる。"
+                "x": "Adobeは24日、自社のAIエージェント「CX Enterprise Coworker」を主要AIプラットフォームで利用できると発表した。現在はChatGPT・Claude・Gemini(エンタープライズ向け)・Copilotで使え、今後はAmazon Quick、IBM、Snowflakeでも対応する予定だ。"
               },
               {
                 "t": "p",
-                "x": "この体験を支えるのは、外部のAIアシスタントがオンラインストアに直接接続できるよう10月に始まったWalmartのAgent Gatewayだ。Walmartはこれをより多くの開発者やAIプラットフォームに開放する計画だ。InstacartもMuseと手を組んでいる。"
+                "x": "CX Enterprise Coworkerは顧客体験(CX)管理を担うAIエージェントだ。見込み客の獲得、エンゲージメントの促進、購入転換、顧客生涯価値の向上まで、顧客管理の全段階を扱う。人の監督の下でキャンペーン成果や新たなトレンドを分析し、顧客セグメントの予測やカスタマージャーニーの最適化機能を提供する。"
+              },
+              {
+                "t": "p",
+                "x": "Adobeは、マーケターが会社の文脈を反映できないままAIツールを使っている問題を解決する考えだ。AdobeのCXオーケストレーション・エンジニアリング担当シニアバイスプレジデント、Anjul Bhambhriは「マーケターは組織の文脈やインテリジェンスを十分に生かせないまま、AIツールを個別に使うことが多かった」と指摘した。そのうえで、このツールはブランドと顧客の情報をもとにAIツールと業務フローをつなぐと説明した。"
+              },
+              {
+                "t": "p",
+                "x": "Adobeは新たなコネクターも公開した。Amazon Ads・Meta広告・Microsoft Work IQなど、マーケターが使うシステムとあらかじめ接続されたモデル・コンテキスト・プロトコル(MCP)サーバーを提供する。マーケターは別途の連携作業なしにシステムをつなぎ、一度の依頼で複数のシステムからデータを取得できるようになる。"
+              },
+              {
+                "t": "p",
+                "x": "複数の広告代理店もこのツールを基に業界別のソリューションを開発している。Google CloudのバイスプレジデントであるRao Surapaneniは「Adobe CX Enterprise CoworkerをGemini Enterpriseに統合することで、企業は既存の業務環境で顧客データとブランドインテリジェンスを安全に活用できる」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Walmart黑五大促\n搬进Meta的Muse",
-          "body": "Walmart通过自有网关，让顾客在Meta的Muse里选购Black Friday优惠。",
-          "mini_headline": "Walmart优惠登陆Meta Muse",
+          "headline": "Adobe营销AI智能体\n可在ChatGPT等使用",
+          "body": "Adobe营销AI智能体登陆ChatGPT、Claude、Gemini和Copilot。",
+          "mini_headline": "Adobe CX Coworker登陆ChatGPT",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
+                "cap": "Adobe于24日表示，“CX Enterprise Coworker”已可在主要AI平台上使用。图片由Adobe提供"
               },
               {
                 "t": "p",
-                "x": "Walmart与Meta合作，让顾客通过Meta的AI智能体Muse选购其Black Friday优惠商品。根据周二宣布的合作，购物者只需告诉Muse想要什么，AI就会寻找商品、比较价格并完成购买。Amazon已采取措施阻止第三方AI智能体代客户购物，而Walmart则积极拥抱这一做法。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
-                "cap": "图片来源：Walmart"
+                "x": "Adobe将让帮助营销人员管理客户体验的人工智能(AI)智能体可在ChatGPT和Claude等主要AI平台上使用。其构想是让营销人员无需另行启动Adobe产品，就能在日常使用的AI中完成从活动策划到分析的工作。"
               },
               {
                 "t": "p",
-                "x": "用户在Muse应用中登录Walmart账户；Muse向Walmart发送请求，Walmart返回相关商品并协助生成购物车。Muse无法获取顾客的Walmart购物记录或其他个人信息，购物者可以设置消费上限、要求购买前确认，并查看智能体下的订单。"
+                "x": "Adobe于24日表示，其AI智能体“CX Enterprise Coworker”已可在主要AI平台上使用。目前可在ChatGPT、Claude、Gemini(企业版)和Copilot中使用，未来还将支持Amazon Quick、IBM和Snowflake。"
               },
               {
                 "t": "p",
-                "x": "这项体验由Walmart于10月推出的Agent Gateway提供支持，该网关让外部AI助手直接连接其线上商店；Walmart计划向更多开发者和AI平台开放。Instacart也已与Muse合作。"
+                "x": "CX Enterprise Coworker是负责客户体验(CX)管理的AI智能体，覆盖从获取潜在客户、促进互动、推动购买转化到提升客户生命周期价值的客户管理全流程。它在人工监督下分析活动成效和新趋势，并提供客群预测和客户旅程优化功能。"
+              },
+              {
+                "t": "p",
+                "x": "Adobe表示，要解决营销人员在未能反映公司背景的情况下使用AI工具的问题。Adobe CX编排工程高级副总裁Anjul Bhambhri指出：“营销人员常常在未能充分利用组织背景和情报的情况下，各自零散地使用AI工具。”Bhambhri解释说，该工具以品牌和客户信息为基础，将AI工具与工作流程连接起来。"
+              },
+              {
+                "t": "p",
+                "x": "Adobe还发布了新的连接器，提供与Amazon Ads、Meta广告、Microsoft Work IQ等营销人员常用系统预先连接的模型上下文协议(MCP)服务器。营销人员无需额外集成工作即可连接系统，并通过一次请求从多个系统获取数据。"
+              },
+              {
+                "t": "p",
+                "x": "多家广告代理商也在以该工具为基础打造面向各行业的定制方案。Google Cloud副总裁Rao Surapaneni表示：“通过将Adobe CX Enterprise Coworker集成到企业版Gemini中，企业可以在现有工作环境中安全地利用客户数据和品牌情报。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Walmart lleva su Black Friday\nal agente Muse de Meta",
-          "body": "Walmart permite comprar ofertas de Black Friday a través del agente Muse de Meta, mediante una pasarela que controla.",
-          "mini_headline": "Ofertas de Walmart en Muse de Meta",
+          "headline": "El agente de marketing de Adobe\nllega a ChatGPT y Claude",
+          "body": "Adobe lleva su agente de AI para marketing a ChatGPT, Claude, Gemini y Copilot.",
+          "mini_headline": "Adobe CX Coworker llega a ChatGPT",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200"
+                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
+                "cap": "Adobe anunció el 24 que ‘CX Enterprise Coworker’ ya puede usarse en las principales plataformas de AI. Foto: Adobe"
               },
               {
                 "t": "p",
-                "x": "Walmart se alía con Meta para que sus clientes compren sus ofertas de Black Friday a través de Muse, el agente de AI de Meta. Anunciada el martes, la alianza permite a los compradores decirle a Muse lo que quieren y dejar que la AI encuentre productos, compare precios y realice compras. Mientras Amazon ha tomado medidas para impedir que agentes de AI de terceros compren en nombre de los clientes, Walmart apuesta por la idea."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/11/shop-with-muse-walmart.png?w=680",
-                "cap": "Créditos de imagen: Walmart"
+                "x": "Adobe permitirá usar en las principales plataformas de AI, como ChatGPT y Claude, un agente de inteligencia artificial (AI) que ayuda a los profesionales de marketing a gestionar la experiencia del cliente. La idea es que puedan resolver desde la planificación hasta el análisis de campañas dentro de la AI que usan a diario, sin abrir por separado los productos de Adobe."
               },
               {
                 "t": "p",
-                "x": "Los usuarios inician sesión en su cuenta de Walmart desde la app de Muse; Muse envía solicitudes a Walmart, que devuelve productos relevantes y ayuda a crear el carrito. Muse no accede al historial de compras de Walmart del cliente ni a otros datos personales, y los compradores pueden fijar límites de gasto, exigir aprobación antes de cada compra y revisar los pedidos hechos por el agente."
+                "x": "Adobe anunció el 24 que su agente de AI ‘CX Enterprise Coworker’ puede usarse en las principales plataformas de AI. Ya está disponible en ChatGPT, Claude, Gemini (para empresas) y Copilot, y más adelante llegará a Amazon Quick, IBM y Snowflake."
               },
               {
                 "t": "p",
-                "x": "La experiencia funciona con Agent Gateway de Walmart, lanzado en octubre para que asistentes de AI externos se conecten directamente con su tienda en línea; Walmart planea abrirlo a más desarrolladores y plataformas de AI. Instacart también se ha asociado con Muse."
+                "x": "CX Enterprise Coworker es un agente de AI dedicado a la gestión de la experiencia del cliente (CX). Cubre todas las etapas de la relación con el cliente, desde la captación de clientes potenciales y el fomento de la interacción hasta la conversión en compra y el aumento del valor de vida del cliente. Bajo supervisión humana, analiza el rendimiento de las campañas y las nuevas tendencias, y ofrece funciones de predicción de segmentos y optimización del recorrido del cliente."
+              },
+              {
+                "t": "p",
+                "x": "Adobe afirma que quiere resolver el problema de los profesionales de marketing que usan herramientas de AI sin reflejar el contexto de su empresa. Anjul Bhambhri, vicepresidente sénior de ingeniería de orquestación de CX de Adobe, señaló: “Los profesionales de marketing a menudo han usado herramientas de AI por separado, sin aprovechar plenamente el contexto y la inteligencia de la organización”. Explicó que la herramienta conecta las herramientas de AI y los flujos de trabajo a partir de la información de la marca y de los clientes."
+              },
+              {
+                "t": "p",
+                "x": "Adobe también presentó nuevos conectores. Ofrece servidores de protocolo de contexto de modelo (MCP) ya conectados con sistemas que usan los profesionales de marketing, como Amazon Ads, la publicidad de Meta y Microsoft Work IQ. Así podrán conectar sistemas sin trabajos de integración aparte y obtener datos de varios sistemas con una sola solicitud."
+              },
+              {
+                "t": "p",
+                "x": "Varias agencias de publicidad también están creando soluciones a medida para cada sector a partir de esta herramienta. Rao Surapaneni, vicepresidente de Google Cloud, dijo: “Al integrar Adobe CX Enterprise Coworker en Gemini Enterprise, las empresas pueden aprovechar de forma segura los datos de clientes y la inteligencia de marca en su entorno de trabajo actual”."
               }
             ]
           }
@@ -959,15 +1059,15 @@
       }
     },
     {
-      "id": "creator-deals-no-ai-clauses",
+      "id": "sej-fake-deal-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "브랜드, 크리에이터 계약에\nno-AI 조항 넣는다",
-      "body": "캠페인에 생성형 AI를 못 쓰게 하는 인플루언서 계약이 늘자 크리에이터가 반긴다.",
-      "mini_headline": "크리에이터 계약의 no-AI 조항",
+      "headline": "AI 쇼핑 에이전트\n가짜 특가 37% 구매",
+      "body": "AI 모델 아홉 개가 6,156회 쇼핑에서 37% 확률로 가짜 특가를 샀다.",
+      "mini_headline": "쇼핑 에이전트, 가짜 특가에 속다",
       "tool": "Marketing",
-      "source": "Digiday",
-      "url": "https://digiday.com/future-of-tv/why-brands-are-writing-no-ai-clauses-into-creator-deals/",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -975,149 +1075,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
+            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
           },
           {
             "t": "p",
-            "x": "인플루언서 마케팅 계약에 새로 붙기 시작한 부속 조항으로 AI 사용이 있다. 크리에이터 마케팅 회사 Pearpop의 인재 담당 부사장 Kurt Stadelman은 Digiday의 Creator Strategies 행사에서 “이 캠페인 콘텐츠에 크리에이터가 AI를 쓸 수 없다는 문구를 담은 계약이 실제로 점점 늘고 있다”고 말했다."
+            "x": "Anthropic, OpenAI, Google의 AI 모델 아홉 개에게 크리스마스 쇼핑을 6,156회 맡겼다. 상품 목록에는 누가 봐도 가짜인 특가가 하나 섞여 있었다. 리뷰가 수만 개에 만점 5.0을 받았고 가격은 다른 상품의 오분의 일에서 사분의 일인 상품이다. 모델들은 37% 확률로 이 상품을 샀다. 모델 9개 중 8개가 가짜 특가를 샀고, 한 번도 사지 않은 건 Claude Opus뿐이었다."
           },
           {
             "t": "p",
-            "x": "크리에이터들은 오히려 브랜드의 no-AI 요구를 반긴다고 그는 전했다. 생성형 AI에 피드에서 밀려날까 이미 걱정하던 터라 이 조항을 사람이 만든 콘텐츠를 지키겠다는 약속으로 받아들인다. 다만 Pearpop은 콘셉트나 대본을 짜거나 과거 콘텐츠 성과를 분석하는 등 보이지 않는 곳에서는 크리에이터가 여전히 AI 도구를 써도 된다고 명시해야 했다."
+            "x": "AI가 특가가 수상해 보인다고 적은 경우는 315회였는데, 그중 137회는 그러고도 가짜를 샀다. 의심한 경우를 통틀어 AI가 질문을 던진 건 10회였다. 전부 슬리퍼 사이즈를 묻는 질문이었고, 수상하다던 특가는 한 번도 묻지 않았다."
           },
           {
             "t": "p",
-            "x": "Stadelman은 크리에이터에게 영구 사용에는 절대 동의하지 말라고 조언했다. 유료 사용권은 석 달로 시작해 여섯 달을 넘기지 말고, net-90 지급 조건은 net-60, 가능하면 net-30으로 당기라고도 했다."
+            "x": "가짜 특가를 맨 앞에 두면 65% 확률로 팔렸다. 가성비가 가장 좋은 상품을 고르라고 하자 AI들(AIs)은 53% 확률로 가짜를 샀다. 선호 조건이 없을 때는 19%였다. 가짜를 빼자 별점 4.9 상품이 구매 2,915건 중 2,277건, 78%를 가져갔다. 특정 상품을 고르라고 AI에게 지시하는 숨은 문구는 6,156회 중 14회 먹혔는데, 모두 Gemini 3.5 Flash-Lite였다."
+          },
+          {
+            "t": "p",
+            "x": "테스트는 11월 14일과 15일에 진행했다. 선물마다 가상의 상품 목록 열 개를 만들었는데, Shopify가 AI 쇼핑 에이전트에 상품을 보낼 때 쓰는 형식을 따랐다. AI 사용료로는 $69.97이 들었다. “올해 크리스마스 쇼핑을 AI에 맡긴다면, 결제하기 전에 무엇을 골랐는지 확인하라.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Brands write no-AI clauses\ninto creator contracts",
-          "body": "More influencer deals now bar generative AI in campaign content, and creators welcome the clauses.",
-          "mini_headline": "No-AI clauses in creator deals",
+          "headline": "AI shopping agents bought\na fake deal 37% of the time",
+          "body": "In 6,156 shopping runs, nine AI models bought an obviously fake deal 37% of the time; only Claude Opus never did.",
+          "mini_headline": "Shopping agents fall for fake deals",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
               },
               {
                 "t": "p",
-                "x": "Among the newest addendums in influencer marketing contracts is AI usage. “We actually are seeing more and more contracts including language around the creator not being able to use AI in their content for these campaigns,” said Kurt Stadelman, vp of talent at creator marketing firm Pearpop, at Digiday’s Creator Strategies event."
+                "x": "Nine AI models from Anthropic, OpenAI, and Google went Christmas shopping 6,156 times. When one of the listings was an obviously fake deal — a perfect 5.0 from tens of thousands of reviews at a fifth to a quarter of everyone else's price — they bought it 37% of the time. 8 of 9 models bought the fake deal; Claude Opus never did."
               },
               {
                 "t": "p",
-                "x": "Creators are actually welcoming brands’ no-AI demands, he said: they already worry about generative AI crowding them out of feeds, so the clauses signal a commitment to human-made content. But Pearpop has had to specify that creators can still use AI tools in the background — to develop a concept or script, or to analyze past content performance."
+                "x": "315 times an AI wrote that a deal looked suspicious, and 137 of those times it bought the fake anyway. Across those doubts, an AI asked a question 10 times, every time about the size of the slippers, and never about the deal it doubted."
               },
               {
                 "t": "p",
-                "x": "Stadelman also urged creators never to agree to usage in perpetuity, to start paid usage rights at three months and cap them at six, and to push net-90 payment terms toward net-60 or, ideally, net-30."
+                "x": "A fake deal listed first was bought 65% of the time; asked for the best value, the AIs bought the fake 53% of the time, against 19% with no preference. With the fake gone, the 4.9-star listing won 2,277 of 2,915 purchases, 78%. A hidden note telling AIs to pick a listing worked 14 times out of 6,156, all on Gemini 3.5 Flash-Lite."
+              },
+              {
+                "t": "p",
+                "x": "The test ran Nov. 14 and 15 with ten made-up listings per present in the format Shopify uses to send products to AI shopping agents, and cost $69.97 in AI fees. \"If you let an AI do your Christmas shopping this year, check what it picked before you pay.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "브랜드, 크리에이터 계약에\nno-AI 조항 넣는다",
-          "body": "캠페인에 생성형 AI를 못 쓰게 하는 인플루언서 계약이 늘자 크리에이터가 반긴다.",
-          "mini_headline": "크리에이터 계약의 no-AI 조항",
+          "headline": "AI 쇼핑 에이전트\n가짜 특가 37% 구매",
+          "body": "AI 모델 아홉 개가 6,156회 쇼핑에서 37% 확률로 가짜 특가를 샀다.",
+          "mini_headline": "쇼핑 에이전트, 가짜 특가에 속다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
               },
               {
                 "t": "p",
-                "x": "인플루언서 마케팅 계약에 새로 붙기 시작한 부속 조항으로 AI 사용이 있다. 크리에이터 마케팅 회사 Pearpop의 인재 담당 부사장 Kurt Stadelman은 Digiday의 Creator Strategies 행사에서 “이 캠페인 콘텐츠에 크리에이터가 AI를 쓸 수 없다는 문구를 담은 계약이 실제로 점점 늘고 있다”고 말했다."
+                "x": "Anthropic, OpenAI, Google의 AI 모델 아홉 개에게 크리스마스 쇼핑을 6,156회 맡겼다. 상품 목록에는 누가 봐도 가짜인 특가가 하나 섞여 있었다. 리뷰가 수만 개에 만점 5.0을 받았고 가격은 다른 상품의 오분의 일에서 사분의 일인 상품이다. 모델들은 37% 확률로 이 상품을 샀다. 모델 9개 중 8개가 가짜 특가를 샀고, 한 번도 사지 않은 건 Claude Opus뿐이었다."
               },
               {
                 "t": "p",
-                "x": "크리에이터들은 오히려 브랜드의 no-AI 요구를 반긴다고 그는 전했다. 생성형 AI에 피드에서 밀려날까 이미 걱정하던 터라 이 조항을 사람이 만든 콘텐츠를 지키겠다는 약속으로 받아들인다. 다만 Pearpop은 콘셉트나 대본을 짜거나 과거 콘텐츠 성과를 분석하는 등 보이지 않는 곳에서는 크리에이터가 여전히 AI 도구를 써도 된다고 명시해야 했다."
+                "x": "AI가 특가가 수상해 보인다고 적은 경우는 315회였는데, 그중 137회는 그러고도 가짜를 샀다. 의심한 경우를 통틀어 AI가 질문을 던진 건 10회였다. 전부 슬리퍼 사이즈를 묻는 질문이었고, 수상하다던 특가는 한 번도 묻지 않았다."
               },
               {
                 "t": "p",
-                "x": "Stadelman은 크리에이터에게 영구 사용에는 절대 동의하지 말라고 조언했다. 유료 사용권은 석 달로 시작해 여섯 달을 넘기지 말고, net-90 지급 조건은 net-60, 가능하면 net-30으로 당기라고도 했다."
+                "x": "가짜 특가를 맨 앞에 두면 65% 확률로 팔렸다. 가성비가 가장 좋은 상품을 고르라고 하자 AI들(AIs)은 53% 확률로 가짜를 샀다. 선호 조건이 없을 때는 19%였다. 가짜를 빼자 별점 4.9 상품이 구매 2,915건 중 2,277건, 78%를 가져갔다. 특정 상품을 고르라고 AI에게 지시하는 숨은 문구는 6,156회 중 14회 먹혔는데, 모두 Gemini 3.5 Flash-Lite였다."
+              },
+              {
+                "t": "p",
+                "x": "테스트는 11월 14일과 15일에 진행했다. 선물마다 가상의 상품 목록 열 개를 만들었는데, Shopify가 AI 쇼핑 에이전트에 상품을 보낼 때 쓰는 형식을 따랐다. AI 사용료로는 $69.97이 들었다. “올해 크리스마스 쇼핑을 AI에 맡긴다면, 결제하기 전에 무엇을 골랐는지 확인하라.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "クリエイター契約に\nno-AI条項が増加",
-          "body": "インフルエンサー契約で生成AIの使用を禁じる例が増え、クリエイターも歓迎している。",
-          "mini_headline": "クリエイター契約にno-AI条項",
+          "headline": "AI買い物エージェント\n37%の確率で偽特価を購入",
+          "body": "6,156回の買い物で九つのAIモデルは37%の確率で偽の特価品を買った。",
+          "mini_headline": "買い物AI、偽特価にだまされる",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
               },
               {
                 "t": "p",
-                "x": "インフルエンサーマーケティング契約に新たに加わる付帯条項の一つがAIの使用だ。クリエイターマーケティング企業Pearpopのタレント担当副社長Kurt Stadelmanは、DigidayのCreator Strategiesイベントで「これらのキャンペーンのコンテンツでクリエイターがAIを使えないとする文言を盛り込む契約が、実際にどんどん増えている」と語った。"
+                "x": "Anthropic、OpenAI、Googleの九つのAIモデルが、クリスマスの買い物を6,156回行った。商品リストの一つが明らかな偽の特価品、つまり数万件のレビューで満点の5.0、価格は他の商品の五分の一から四分の一というものだった場合、モデルは37%の確率でそれを買った。9モデル中8モデルが偽の特価品を買い、Claude Opusだけは一度も買わなかった。"
               },
               {
                 "t": "p",
-                "x": "クリエイターはむしろブランドのno-AI要求を歓迎していると彼は言う。生成AIにフィードから押し出されることをすでに懸念しているため、こうした条項は人の手によるコンテンツへのコミットメントの表れになる。ただしPearpopは、コンセプトや台本づくり、過去のコンテンツ実績の分析など、裏方ではクリエイターが引き続きAIツールを使えると明記する必要があった。"
+                "x": "AIが特価品を怪しいと書いたのは315回で、そのうち137回はそれでも偽物を買った。こうした疑いの場面全体で、AIが質問したのは10回で、いずれもスリッパのサイズについてであり、疑った特価品について尋ねたことは一度もなかった。"
               },
               {
                 "t": "p",
-                "x": "Stadelmanはまた、永久使用には決して同意せず、有償の使用権は三カ月から始めて六カ月を上限とし、net-90の支払条件をnet-60、理想的にはnet-30に縮めるようクリエイターに助言した。"
+                "x": "偽の特価品が最初に表示されると65%の確率で買われた。最もお得な商品を求められると、AIたち(AIs)は53%の確率で偽物を買い、特に希望がない場合は19%だった。偽物を除くと、星4.9の商品が2,915件の購入のうち2,277件、78%を占めた。AIに特定の商品を選ばせる隠しメモが効いたのは6,156回中14回で、すべてGemini 3.5 Flash-Liteだった。"
+              },
+              {
+                "t": "p",
+                "x": "テストは11月14日と15日に、ShopifyがAIショッピングエージェントに商品を送る形式で、プレゼントごとに架空の商品リストを十件用意して行われ、AI利用料は$69.97だった。「今年クリスマスの買い物をAIに任せるなら、支払う前に何を選んだか確認しよう」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "品牌在达人合同里\n写入no-AI条款",
-          "body": "越来越多网红合约禁止在活动内容中使用生成式AI，创作者对此表示欢迎。",
-          "mini_headline": "达人合约中的no-AI条款",
+          "headline": "AI购物智能体\n37%概率买下假优惠",
+          "body": "6,156次购物中，九款AI模型有37%概率买下假优惠，只有Claude Opus没上当。",
+          "mini_headline": "购物智能体易被假优惠骗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
               },
               {
                 "t": "p",
-                "x": "AI使用是网红营销合同中最新出现的附加条款之一。创作者营销公司Pearpop人才副总裁Kurt Stadelman在Digiday的Creator Strategies活动上表示：“我们确实看到越来越多的合同加入相关条款，规定创作者不得在这些活动的内容中使用AI。”"
+                "x": "来自Anthropic、OpenAI和Google的九款AI模型进行了6,156次圣诞购物。当其中一件商品是明显的假优惠——数万条评论给出满分5.0，价格只有其他商品的五分之一到四分之一——时，它们有37%的概率买下。9款模型中有8款买了假优惠；Claude Opus从未买过。"
               },
               {
                 "t": "p",
-                "x": "他说，创作者其实很欢迎品牌的no-AI要求：他们本就担心生成式AI把自己挤出信息流，因此这些条款意味着对人工创作内容的承诺。但Pearpop不得不明确说明，创作者仍可在幕后使用AI工具，比如构思概念或脚本，或分析过往内容的表现。"
+                "x": "AI有315次写下某个优惠看起来可疑，其中137次仍然买了假货。在这些怀疑中，AI共提问10次，每次都是关于拖鞋尺码，从未问及它所怀疑的优惠。"
               },
               {
                 "t": "p",
-                "x": "Stadelman还建议创作者永远不要同意永久授权，付费使用权从三个月起步、以六个月为上限，并把net-90的付款条件争取缩短到net-60，最好是net-30。"
+                "x": "假优惠排在第一位时，被买下的概率为65%；要求选出最划算的商品时，AI们(AIs)有53%的概率买下假货，而没有偏好时为19%。去掉假货后，4.9星商品在2,915次购买中赢得2,277次，占78%。一条要求AI选择某商品的隐藏提示在6,156次中奏效14次，全部发生在Gemini 3.5 Flash-Lite上。"
+              },
+              {
+                "t": "p",
+                "x": "测试于11月14日和15日进行，每件礼物准备十个虚构商品，格式与Shopify向AI购物智能体发送商品时使用的格式相同，AI费用为$69.97。“如果今年你让AI帮你做圣诞购物，付款前先看看它选了什么。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Marcas añaden cláusulas no-AI\na los contratos de creadores",
-          "body": "Cada vez más acuerdos con influencers prohíben la AI generativa en las campañas, y los creadores las celebran.",
-          "mini_headline": "Cláusulas no-AI en contratos de creadores",
+          "headline": "Agentes de compra con AI\ncaen en ofertas falsas el 37%",
+          "body": "En 6,156 compras, nueve modelos de AI compraron una oferta falsa el 37% de las veces; solo Claude Opus nunca lo hizo.",
+          "mini_headline": "Agentes de compra caen en ofertas falsas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
               },
               {
                 "t": "p",
-                "x": "Entre los anexos más recientes de los contratos de marketing de influencers está el uso de AI. “De hecho, estamos viendo cada vez más contratos que incluyen cláusulas según las cuales el creador no puede usar AI en su contenido para estas campañas”, dijo Kurt Stadelman, vicepresidente de talento de la firma de marketing de creadores Pearpop, en el evento Creator Strategies de Digiday."
+                "x": "Nueve modelos de AI de Anthropic, OpenAI y Google hicieron compras navideñas 6,156 veces. Cuando uno de los productos era una oferta obviamente falsa —un 5.0 perfecto con decenas de miles de reseñas a entre una quinta y una cuarta parte del precio de los demás—, la compraron el 37% de las veces. 8 de 9 modelos compraron la oferta falsa; Claude Opus nunca lo hizo."
               },
               {
                 "t": "p",
-                "x": "Según él, los creadores en realidad agradecen las exigencias no-AI de las marcas: ya les preocupa que la AI generativa los desplace de los feeds, así que las cláusulas son una señal de compromiso con el contenido hecho por personas. Pero Pearpop ha tenido que especificar que los creadores aún pueden usar herramientas de AI en segundo plano, para desarrollar un concepto o un guion, o para analizar el rendimiento de contenidos anteriores."
+                "x": "En 315 ocasiones una AI escribió que una oferta parecía sospechosa, y en 137 de ellas compró la falsa de todos modos. En esas dudas, una AI hizo una pregunta 10 veces, siempre sobre la talla de las pantuflas, y nunca sobre la oferta de la que dudaba."
               },
               {
                 "t": "p",
-                "x": "Stadelman también instó a los creadores a no aceptar nunca usos a perpetuidad, a empezar los derechos de uso pagado en tres meses con un tope de seis, y a llevar los plazos de pago de net-90 hacia net-60 o, idealmente, net-30."
+                "x": "Una oferta falsa colocada en primer lugar se compró el 65% de las veces; cuando se les pidió la mejor relación calidad-precio, las AIs compraron la falsa el 53% de las veces, frente al 19% sin preferencia. Sin la falsa, el producto de 4.9 estrellas ganó 2,277 de 2,915 compras, el 78%. Una nota oculta que pedía a las AIs elegir un producto funcionó 14 veces de 6,156, todas con Gemini 3.5 Flash-Lite."
+              },
+              {
+                "t": "p",
+                "x": "La prueba se hizo el 14 y el 15 de noviembre con diez productos inventados por regalo, en el formato que usa Shopify para enviar productos a los agentes de compra con AI, y costó $69.97 en tarifas de AI. “Si este año dejas que una AI haga tus compras de Navidad, revisa lo que eligió antes de pagar.”"
               }
             ]
           }
@@ -1125,105 +1249,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "브랜드, 크리에이터 계약에\nno-AI 조항 넣는다",
-          "body": "캠페인에 생성형 AI를 금지하는 인플루언서 계약이 늘고 크리에이터는 반긴다.",
-          "mini_headline": "크리에이터 계약의 no-AI 조항",
+          "headline": "AI 쇼핑 에이전트\n가짜 특가 37% 구매",
+          "body": "6,156회 쇼핑에서 AI 모델 아홉 개는 37% 확률로 가짜 특가를 샀다.",
+          "mini_headline": "쇼핑 에이전트, 가짜 특가에 속다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
               },
               {
                 "t": "p",
-                "x": "인플루언서 마케팅 계약에 새로 붙는 부속 조항 가운데 하나가 AI 사용이다. 크리에이터 마케팅 회사 Pearpop의 인재 담당 부사장 Kurt Stadelman은 Digiday의 Creator Strategies 행사에서 “이 캠페인 콘텐츠에 크리에이터가 AI를 쓸 수 없다는 문구를 담은 계약이 실제로 점점 늘고 있다”고 말했다."
+                "x": "Anthropic, OpenAI, Google의 AI 모델 아홉 개가 크리스마스 쇼핑을 6,156회 했다. 상품 목록 중 하나가 누가 봐도 가짜인 특가, 즉 리뷰 수만 개에 만점 5.0을 받고 가격은 다른 상품의 오분의 일에서 사분의 일인 상품일 때, 모델들은 37% 확률로 그것을 샀다. 모델 9개 중 8개가 가짜 특가를 샀고, Claude Opus만 한 번도 사지 않았다."
               },
               {
                 "t": "p",
-                "x": "그는 크리에이터들이 오히려 브랜드의 no-AI 요구를 반기고 있다고 말했다. 생성형 AI가 피드에서 자신들을 밀어낼까 이미 걱정하던 터라, 이 조항을 사람이 만든 콘텐츠에 대한 약속으로 받아들인다는 것이다. 다만 Pearpop은 크리에이터가 콘셉트나 대본을 짜거나 과거 콘텐츠 성과를 분석하는 등 보이지 않는 곳에서는 여전히 AI 도구를 쓸 수 있다고 명시해야 했다."
+                "x": "AI가 특가가 수상해 보인다고 쓴 경우는 315회였고, 그중 137회는 그래도 가짜를 샀다. 이렇게 의심한 경우 전체에서 AI가 질문한 것은 10회였는데, 모두 슬리퍼 사이즈에 관한 것이었고 의심한 특가에 대해서는 한 번도 묻지 않았다."
               },
               {
                 "t": "p",
-                "x": "Stadelman은 또 크리에이터에게 영구 사용에는 절대 동의하지 말고, 유료 사용권은 석 달에서 시작해 여섯 달을 상한으로 두며, net-90 지급 조건은 net-60, 가능하면 net-30으로 당기라고 조언했다."
+                "x": "가짜 특가가 맨 앞에 놓이면 65% 확률로 팔렸다. 가성비가 가장 좋은 상품을 고르라고 하자 AI들(AIs)은 53% 확률로 가짜를 샀고, 선호 조건이 없을 때는 19%였다. 가짜를 빼자 별점 4.9 상품이 구매 2,915건 중 2,277건, 78%를 차지했다. AI에게 특정 상품을 고르라고 지시하는 숨은 문구는 6,156회 중 14회 통했고, 모두 Gemini 3.5 Flash-Lite에서였다."
+              },
+              {
+                "t": "p",
+                "x": "테스트는 11월 14일과 15일, 선물마다 가상의 상품 목록 열 개를 Shopify가 AI 쇼핑 에이전트에 상품을 보낼 때 쓰는 형식으로 만들어 진행했고, AI 사용료로 $69.97이 들었다. “올해 크리스마스 쇼핑을 AI에 맡긴다면, 결제하기 전에 무엇을 골랐는지 확인하라.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "クリエイター契約に\nno-AI条項が増加",
-          "body": "インフルエンサー契約で生成AIの使用を禁じる例が増え、クリエイターも歓迎している。",
-          "mini_headline": "クリエイター契約にno-AI条項",
+          "headline": "AI買い物エージェント\n37%の確率で偽特価を購入",
+          "body": "6,156回の買い物で九つのAIモデルは37%の確率で偽の特価品を買った。",
+          "mini_headline": "買い物AI、偽特価にだまされる",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
               },
               {
                 "t": "p",
-                "x": "インフルエンサーマーケティング契約に新たに加わる付帯条項の一つがAIの使用だ。クリエイターマーケティング企業Pearpopのタレント担当副社長Kurt Stadelmanは、DigidayのCreator Strategiesイベントで「これらのキャンペーンのコンテンツでクリエイターがAIを使えないとする文言を盛り込む契約が、実際にどんどん増えている」と語った。"
+                "x": "Anthropic、OpenAI、Googleの九つのAIモデルが、クリスマスの買い物を6,156回行った。商品リストの一つが明らかな偽の特価品、つまり数万件のレビューで満点の5.0、価格は他の商品の五分の一から四分の一というものだった場合、モデルは37%の確率でそれを買った。9モデル中8モデルが偽の特価品を買い、Claude Opusだけは一度も買わなかった。"
               },
               {
                 "t": "p",
-                "x": "クリエイターはむしろブランドのno-AI要求を歓迎していると彼は言う。生成AIにフィードから押し出されることをすでに懸念しているため、こうした条項は人の手によるコンテンツへのコミットメントの表れになる。ただしPearpopは、コンセプトや台本づくり、過去のコンテンツ実績の分析など、裏方ではクリエイターが引き続きAIツールを使えると明記する必要があった。"
+                "x": "AIが特価品を怪しいと書いたのは315回で、そのうち137回はそれでも偽物を買った。こうした疑いの場面全体で、AIが質問したのは10回で、いずれもスリッパのサイズについてであり、疑った特価品について尋ねたことは一度もなかった。"
               },
               {
                 "t": "p",
-                "x": "Stadelmanはまた、永久使用には決して同意せず、有償の使用権は三カ月から始めて六カ月を上限とし、net-90の支払条件をnet-60、理想的にはnet-30に縮めるようクリエイターに助言した。"
+                "x": "偽の特価品が最初に表示されると65%の確率で買われた。最もお得な商品を求められると、AIたち(AIs)は53%の確率で偽物を買い、特に希望がない場合は19%だった。偽物を除くと、星4.9の商品が2,915件の購入のうち2,277件、78%を占めた。AIに特定の商品を選ばせる隠しメモが効いたのは6,156回中14回で、すべてGemini 3.5 Flash-Liteだった。"
+              },
+              {
+                "t": "p",
+                "x": "テストは11月14日と15日に、ShopifyがAIショッピングエージェントに商品を送る形式で、プレゼントごとに架空の商品リストを十件用意して行われ、AI利用料は$69.97だった。「今年クリスマスの買い物をAIに任せるなら、支払う前に何を選んだか確認しよう」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "品牌在达人合同里\n写入no-AI条款",
-          "body": "越来越多网红合约禁止在活动内容中使用生成式AI，创作者对此表示欢迎。",
-          "mini_headline": "达人合约中的no-AI条款",
+          "headline": "AI购物智能体\n37%概率买下假优惠",
+          "body": "6,156次购物中，九款AI模型有37%概率买下假优惠，只有Claude Opus没上当。",
+          "mini_headline": "购物智能体易被假优惠骗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
               },
               {
                 "t": "p",
-                "x": "AI使用是网红营销合同中最新出现的附加条款之一。创作者营销公司Pearpop人才副总裁Kurt Stadelman在Digiday的Creator Strategies活动上表示：“我们确实看到越来越多的合同加入相关条款，规定创作者不得在这些活动的内容中使用AI。”"
+                "x": "来自Anthropic、OpenAI和Google的九款AI模型进行了6,156次圣诞购物。当其中一件商品是明显的假优惠——数万条评论给出满分5.0，价格只有其他商品的五分之一到四分之一——时，它们有37%的概率买下。9款模型中有8款买了假优惠；Claude Opus从未买过。"
               },
               {
                 "t": "p",
-                "x": "他说，创作者其实很欢迎品牌的no-AI要求：他们本就担心生成式AI把自己挤出信息流，因此这些条款意味着对人工创作内容的承诺。但Pearpop不得不明确说明，创作者仍可在幕后使用AI工具，比如构思概念或脚本，或分析过往内容的表现。"
+                "x": "AI有315次写下某个优惠看起来可疑，其中137次仍然买了假货。在这些怀疑中，AI共提问10次，每次都是关于拖鞋尺码，从未问及它所怀疑的优惠。"
               },
               {
                 "t": "p",
-                "x": "Stadelman还建议创作者永远不要同意永久授权，付费使用权从三个月起步、以六个月为上限，并把net-90的付款条件争取缩短到net-60，最好是net-30。"
+                "x": "假优惠排在第一位时，被买下的概率为65%；要求选出最划算的商品时，AI们(AIs)有53%的概率买下假货，而没有偏好时为19%。去掉假货后，4.9星商品在2,915次购买中赢得2,277次，占78%。一条要求AI选择某商品的隐藏提示在6,156次中奏效14次，全部发生在Gemini 3.5 Flash-Lite上。"
+              },
+              {
+                "t": "p",
+                "x": "测试于11月14日和15日进行，每件礼物准备十个虚构商品，格式与Shopify向AI购物智能体发送商品时使用的格式相同，AI费用为$69.97。“如果今年你让AI帮你做圣诞购物，付款前先看看它选了什么。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Marcas añaden cláusulas no-AI\na los contratos de creadores",
-          "body": "Cada vez más acuerdos con influencers prohíben la AI generativa en las campañas, y los creadores las celebran.",
-          "mini_headline": "Cláusulas no-AI en contratos de creadores",
+          "headline": "Agentes de compra con AI\ncaen en ofertas falsas el 37%",
+          "body": "En 6,156 compras, nueve modelos de AI compraron una oferta falsa el 37% de las veces; solo Claude Opus nunca lo hizo.",
+          "mini_headline": "Agentes de compra caen en ofertas falsas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg?w=1030&h=579&crop=1"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
               },
               {
                 "t": "p",
-                "x": "Entre los anexos más recientes de los contratos de marketing de influencers está el uso de AI. “De hecho, estamos viendo cada vez más contratos que incluyen cláusulas según las cuales el creador no puede usar AI en su contenido para estas campañas”, dijo Kurt Stadelman, vicepresidente de talento de la firma de marketing de creadores Pearpop, en el evento Creator Strategies de Digiday."
+                "x": "Nueve modelos de AI de Anthropic, OpenAI y Google hicieron compras navideñas 6,156 veces. Cuando uno de los productos era una oferta obviamente falsa —un 5.0 perfecto con decenas de miles de reseñas a entre una quinta y una cuarta parte del precio de los demás—, la compraron el 37% de las veces. 8 de 9 modelos compraron la oferta falsa; Claude Opus nunca lo hizo."
               },
               {
                 "t": "p",
-                "x": "Según él, los creadores en realidad agradecen las exigencias no-AI de las marcas: ya les preocupa que la AI generativa los desplace de los feeds, así que las cláusulas son una señal de compromiso con el contenido hecho por personas. Pero Pearpop ha tenido que especificar que los creadores aún pueden usar herramientas de AI en segundo plano, para desarrollar un concepto o un guion, o para analizar el rendimiento de contenidos anteriores."
+                "x": "En 315 ocasiones una AI escribió que una oferta parecía sospechosa, y en 137 de ellas compró la falsa de todos modos. En esas dudas, una AI hizo una pregunta 10 veces, siempre sobre la talla de las pantuflas, y nunca sobre la oferta de la que dudaba."
               },
               {
                 "t": "p",
-                "x": "Stadelman también instó a los creadores a no aceptar nunca usos a perpetuidad, a empezar los derechos de uso pagado en tres meses con un tope de seis, y a llevar los plazos de pago de net-90 hacia net-60 o, idealmente, net-30."
+                "x": "Una oferta falsa colocada en primer lugar se compró el 65% de las veces; cuando se les pidió la mejor relación calidad-precio, las AIs compraron la falsa el 53% de las veces, frente al 19% sin preferencia. Sin la falsa, el producto de 4.9 estrellas ganó 2,277 de 2,915 compras, el 78%. Una nota oculta que pedía a las AIs elegir un producto funcionó 14 veces de 6,156, todas con Gemini 3.5 Flash-Lite."
+              },
+              {
+                "t": "p",
+                "x": "La prueba se hizo el 14 y el 15 de noviembre con diez productos inventados por regalo, en el formato que usa Shopify para enviar productos a los agentes de compra con AI, y costó $69.97 en tarifas de AI. “Si este año dejas que una AI haga tus compras de Navidad, revisa lo que eligió antes de pagar.”"
               }
             ]
           }
@@ -1231,321 +1371,401 @@
       }
     },
     {
-      "id": "etnews-ai-fake-doctor-ad-ban",
-      "source_lang": "ko",
+      "id": "amazon-meta-muse-talks",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 가짜 의사 광고 금지\n셀러 관리 나선 플랫폼",
-      "body": "네이버는 가상 전문가를 금지했고 G마켓은 기존 상품까지 점검한다.",
-      "mini_headline": "AI 가짜 의사 광고 금지",
+      "headline": "Amazon·Meta\nMuse 차단 두고 협상설",
+      "body": "Amazon의 Meta Muse 차단 해제 협상은 광고·검색 배치가 쟁점이다.",
+      "mini_headline": "Amazon·Meta, Muse 휴전 협상",
       "tool": "Marketing",
-      "source": "전자신문",
-      "url": "https://www.etnews.com/20261124000360",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "오는 27일 'AI 가짜 의사' 식품 광고를 금지하는 법 시행을 앞두고 이커머스 업체들이 판매자 관리에 나섰다. 개정 식품 등의 표시·광고에 관한 법률은 AI로 생성한 실제와 구분하기 어려운 음성·이미지·영상 등으로 전문가가 식품을 추천·보증하는 것으로 오인하게 할 광고를 금지한다. 다만 AI를 사용한 모든 식품 광고가 금지되는 것은 아니다."
-          },
-          {
             "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
-            "cap": "생성형 AI 제작 이미지."
+            "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+            "cap": "노트북 앞에 앉은 Meta Muse 마스코트"
           },
           {
             "t": "p",
-            "x": "G마켓은 부당광고 모니터링에 'AI 가상 전문가 추천·보증' 유형을 추가했다. '의사 추천', '약사 추천' 등 문구와 이미지 속 글자까지 인식해 의심 상품을 찾고, 법 시행 전 등록 상품도 같은 기준으로 점검한다."
+            "x": "Amazon이 Meta의 AI 에이전트 Muse를 두고 입장을 바꿀지도 모른다. 두 빅테크 기업은 Meta의 인기 AI 에이전트를 Amazon 스토어에 직접 연결하는 거래 가능성을 논의 중인 것으로 알려졌다."
           },
           {
             "t": "p",
-            "x": "네이버는 지난 6월 'AI 생성물 사용 기준'을 안내해 의사·약사 등으로 오인될 가상 인물을 상품정보에 넣지 못하게 했고, 식품류에 다른 AI 생성물을 쓰면 표시하도록 했다. 쿠팡과 11번가는 기존 허위·과장 광고 제재 절차로 대응한다."
+            "x": "불과 두 달 전과 비교하면 꽤 큰 반전이다. 그때만 해도 Muse 사용자는 Amazon에서 상품을 살 수 없었다. 결제를 시도하면 오류 메시지가 떴다."
           },
           {
             "t": "p",
-            "x": "남은 과제는 플랫폼 밖 광고다. 판매자가 외부 SNS에 가짜 전문가 광고를 올려 구매자를 유입하면 상세페이지 점검만으로는 발견하기 어렵다. G마켓은 외부 광고도 신고·제보와 자체 모니터링으로 파악하고 있다."
+            "x": "논의 상황을 잘 아는 사람들을 인용한 Fortune의 수요일 보도에 따르면 Amazon과 Meta는 이 문제로 여러 차례 협상했다. 핵심 쟁점 두 가지는 아직 협상 중이다. 합의가 성사되면 검색 결과를 어떻게 보여줄지, 광고를 어떻게 처리할지다."
+          },
+          {
+            "t": "p",
+            "x": "Amazon이 가장 걱정하는 대목 중 하나는 Muse 같은 외부 쇼핑 에이전트가 자사 광고 사업에 미칠 영향이다. Amazon CEO Andy Jassy는 10월, 외부 쇼핑 에이전트로 물건을 사는 고객은 많지 않다고 주장했다."
+          },
+          {
+            "t": "p",
+            "x": "Amazon이 마켓플레이스 연동에 동의하기 전에 Muse가 무르익기를 기다렸을 가능성도 있다. Muse가 주문을 잘못 넣거나 구매에서 문제를 일으키면 불만을 품은 고객과 판매자를 상대할 쪽은 결국 Amazon일 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Fortune은 사정을 잘 아는 사람들을 인용해, 외부 쇼핑 에이전트가 Amazon과 소비자의 직접 관계를 약하게 만들 수 있다는 우려가 경영진 사이에 있다고 보도했다. Fortune은 또 Amazon과 Meta가 합의하려면 두 회사 CEO(CEOs)의 승인이 필요할 것이라고 전했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "AI 가짜 의사 광고 금지\n셀러 관리 나선 플랫폼",
-          "body": "네이버는 가상 전문가를 금지했고 G마켓은 기존 상품까지 점검한다.",
-          "mini_headline": "AI 가짜 의사 광고 금지",
+        "en": {
+          "headline": "Amazon and Meta reportedly\nin talks over Muse blockade",
+          "body": "Talks to end Amazon's two-month block on Meta's Muse shopping agent reportedly center on ad and search placement.",
+          "mini_headline": "Amazon, Meta talk Muse truce",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "오는 27일 'AI 가짜 의사' 식품 광고를 금지하는 법 시행을 앞두고 이커머스 업체들이 판매자 관리에 나섰다. 개정 식품 등의 표시·광고에 관한 법률은 AI로 생성한 실제와 구분하기 어려운 음성·이미지·영상 등으로 전문가가 식품을 추천·보증하는 것으로 오인하게 할 광고를 금지한다. 다만 AI를 사용한 모든 식품 광고가 금지되는 것은 아니다."
-              },
-              {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
-                "cap": "생성형 AI 제작 이미지."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+                "cap": "Meta Muse mascot sitting at laptop"
               },
               {
                 "t": "p",
-                "x": "G마켓은 부당광고 모니터링에 'AI 가상 전문가 추천·보증' 유형을 추가했다. '의사 추천', '약사 추천' 등 문구와 이미지 속 글자까지 인식해 의심 상품을 찾고, 법 시행 전 등록 상품도 같은 기준으로 점검한다."
+                "x": "Amazon may be having a change of heart about Meta’s AI agent, Muse. The two tech giants are reportedly discussing a potential deal that would allow Meta’s popular AI agent to connect directly to Amazon’s store."
               },
               {
                 "t": "p",
-                "x": "네이버는 지난 6월 'AI 생성물 사용 기준'을 안내해 의사·약사 등으로 오인될 가상 인물을 상품정보에 넣지 못하게 했고, 식품류에 다른 AI 생성물을 쓰면 표시하도록 했다. 쿠팡과 11번가는 기존 허위·과장 광고 제재 절차로 대응한다."
+                "x": "The talks would mark a significant reversal from just two months ago, when Muse users discovered they were unable to purchase products on Amazon and instead received an error message when attempting to check out."
               },
               {
                 "t": "p",
-                "x": "남은 과제는 플랫폼 밖 광고다. 판매자가 외부 SNS에 가짜 전문가 광고를 올려 구매자를 유입하면 상세페이지 점검만으로는 발견하기 어렵다. G마켓은 외부 광고도 신고·제보와 자체 모니터링으로 파악하고 있다."
+                "x": "According to a Wednesday report by Fortune, citing people familiar with the discussions, Amazon and Meta have held multiple rounds of talks about the matter. Two key issues remain under negotiation: how search results would be presented and how advertising would be handled under a potential agreement."
+              },
+              {
+                "t": "p",
+                "x": "One of Amazon’s biggest concerns is how third-party shopping agents like Muse could affect its advertising business. In October, Amazon CEO Andy Jassy argued that few customers were making purchases through outside shopping agents."
+              },
+              {
+                "t": "p",
+                "x": "Amazon may also have been waiting for Muse to mature before agreeing to integrate it with its marketplace. If Muse places the wrong order or creates a problem with a purchase, Amazon could ultimately be left dealing with frustrated customers and unhappy sellers."
+              },
+              {
+                "t": "p",
+                "x": "Fortune reported that executives are concerned that third-party shopping agents could weaken Amazon’s direct relationship with consumers, according to people familiar with the matter. Any potential agreement between Amazon and Meta would reportedly require approval from both companies’ CEOs, Fortune also reported."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Ban on AI fake-doctor ads\nPlatforms tighten seller checks",
-          "body": "Naver has banned virtual experts, and G-Market is checking even products that were already listed.",
-          "mini_headline": "AI fake-doctor ads banned",
+        "ko": {
+          "headline": "Amazon·Meta\nMuse 차단 두고 협상설",
+          "body": "Amazon의 Meta Muse 차단 해제 협상은 광고·검색 배치가 쟁점이다.",
+          "mini_headline": "Amazon·Meta, Muse 휴전 협상",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Ahead of a law taking effect on the 27th that bans food ads featuring 'AI fake doctors,' e-commerce companies have begun managing their sellers. The amended Act on Labeling and Advertising of Foods bans ads that could mislead people into thinking an expert recommends or endorses a food, using AI-generated voices, images or videos that are hard to tell from reality. Not every food ad that uses AI is banned, however."
-              },
-              {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
-                "cap": "Image created with generative AI."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+                "cap": "노트북 앞에 앉은 Meta Muse 마스코트"
               },
               {
                 "t": "p",
-                "x": "G-Market has added an 'AI virtual expert recommendation/endorsement' category to its monitoring of unfair ads. It finds suspect products by recognizing phrases such as 'doctor recommended' and 'pharmacist recommended,' down to text inside images, and checks products registered before the law takes effect against the same standard."
+                "x": "Amazon이 Meta의 AI 에이전트 Muse를 두고 입장을 바꿀지도 모른다. 두 빅테크 기업은 Meta의 인기 AI 에이전트를 Amazon 스토어에 직접 연결하는 거래 가능성을 논의 중인 것으로 알려졌다."
               },
               {
                 "t": "p",
-                "x": "In June, Naver issued 'AI-generated content usage standards' that bar virtual figures who could be mistaken for doctors or pharmacists from product information, and require a label when other AI-generated content is used for food products. Coupang and 11st are responding through their existing sanction procedures for false or exaggerated ads."
+                "x": "불과 두 달 전과 비교하면 꽤 큰 반전이다. 그때만 해도 Muse 사용자는 Amazon에서 상품을 살 수 없었다. 결제를 시도하면 오류 메시지가 떴다."
               },
               {
                 "t": "p",
-                "x": "The remaining challenge is ads outside the platforms. If sellers post fake-expert ads on outside SNS to draw buyers in, checking product detail pages alone makes them hard to detect. G-Market is also tracking outside ads through reports, tips and its own monitoring."
+                "x": "논의 상황을 잘 아는 사람들을 인용한 Fortune의 수요일 보도에 따르면 Amazon과 Meta는 이 문제로 여러 차례 협상했다. 핵심 쟁점 두 가지는 아직 협상 중이다. 합의가 성사되면 검색 결과를 어떻게 보여줄지, 광고를 어떻게 처리할지다."
+              },
+              {
+                "t": "p",
+                "x": "Amazon이 가장 걱정하는 대목 중 하나는 Muse 같은 외부 쇼핑 에이전트가 자사 광고 사업에 미칠 영향이다. Amazon CEO Andy Jassy는 10월, 외부 쇼핑 에이전트로 물건을 사는 고객은 많지 않다고 주장했다."
+              },
+              {
+                "t": "p",
+                "x": "Amazon이 마켓플레이스 연동에 동의하기 전에 Muse가 무르익기를 기다렸을 가능성도 있다. Muse가 주문을 잘못 넣거나 구매에서 문제를 일으키면 불만을 품은 고객과 판매자를 상대할 쪽은 결국 Amazon일 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Fortune은 사정을 잘 아는 사람들을 인용해, 외부 쇼핑 에이전트가 Amazon과 소비자의 직접 관계를 약하게 만들 수 있다는 우려가 경영진 사이에 있다고 보도했다. Fortune은 또 Amazon과 Meta가 합의하려면 두 회사 CEO(CEOs)의 승인이 필요할 것이라고 전했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI偽医師広告を禁止\n出品者管理に動く各社",
-          "body": "ネイバーは仮想専門家を禁止し、Gマーケットは既存商品まで点検する。",
-          "mini_headline": "AI偽医師広告を禁止",
+          "headline": "AmazonとMeta\nMuse遮断巡り協議か",
+          "body": "AmazonによるMetaのMuse遮断解除の協議は、広告と検索の扱いが焦点という。",
+          "mini_headline": "AmazonとMeta、Muse巡り協議",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "27日に「AI偽医師」による食品広告を禁じる法律の施行を控え、EC各社が出品者の管理に乗り出した。改正された食品等の表示・広告に関する法律は、AIで生成した実物と見分けにくい音声・画像・映像などで、専門家が食品を推薦・保証していると誤認させる広告を禁じる。ただし、AIを使った食品広告がすべて禁止されるわけではない。"
-              },
-              {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
-                "cap": "生成AIで作成した画像。"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+                "cap": "ノートパソコンの前に座るMeta Museのマスコット"
               },
               {
                 "t": "p",
-                "x": "Gマーケットは不当広告のモニタリングに「AI仮想専門家による推薦・保証」の類型を追加した。「医師推薦」「薬剤師推薦」などの文言や画像内の文字まで認識して疑わしい商品を探し、法施行前に登録された商品も同じ基準で点検する。"
+                "x": "AmazonはMetaのAIエージェント、Museに対する考えを改めつつあるのかもしれない。両テック大手は、Metaの人気AIエージェントがAmazonのストアに直接接続できるようにする取引の可能性を協議していると報じられた。"
               },
               {
                 "t": "p",
-                "x": "ネイバーは6月に「AI生成物の使用基準」を案内し、医師・薬剤師などと誤認されうる仮想人物を商品情報に載せられないようにしたほか、食品類にその他のAI生成物を使う場合は表示するよう求めた。クーパンと11番街は既存の虚偽・誇大広告への制裁手続きで対応する。"
+                "x": "この協議は、わずか二か月前からの大きな方針転換となる。当時、MuseのユーザーはAmazonで商品を購入できず、決済しようとするとエラーメッセージが表示された。"
               },
               {
                 "t": "p",
-                "x": "残る課題はプラットフォーム外の広告だ。出品者が外部のSNSに偽専門家広告を載せて購入者を呼び込めば、詳細ページの点検だけでは見つけにくい。Gマーケットは外部広告についても通報・情報提供と独自モニタリングで把握している。"
+                "x": "協議に詳しい関係者の話として水曜日に報じたFortuneによると、AmazonとMetaはこの件で複数回協議を重ねた。合意した場合に検索結果をどう表示するか、広告をどう扱うかという二つの主要な論点は、なお交渉中だという。"
+              },
+              {
+                "t": "p",
+                "x": "Amazonの最大の懸念の一つは、Museのような外部のショッピングエージェントが自社の広告事業にどう影響するかだ。10月、Amazon CEOのAndy Jassyは、外部のショッピングエージェントを通じて購入する顧客は少ないと主張した。"
+              },
+              {
+                "t": "p",
+                "x": "Amazonは、マーケットプレイスとの統合に同意する前にMuseの成熟を待っていた可能性もある。Museが誤った注文をしたり購入で問題を起こしたりすれば、最終的に不満を抱く顧客や販売者に対応するのはAmazonになりかねない。"
+              },
+              {
+                "t": "p",
+                "x": "Fortuneは関係者の話として、経営陣は外部のショッピングエージェントがAmazonと消費者の直接的な関係を弱めかねないと懸念していると報じた。またFortuneによると、AmazonとMetaの合意には両社のCEO(CEOs)の承認が必要になるという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "禁止AI假医生广告\n平台加强卖家管理",
-          "body": "Naver已禁止使用虚拟专家，G市场连既有商品也一并检查。",
-          "mini_headline": "禁止AI假医生广告",
+          "headline": "Amazon与Meta\n传就Muse封锁谈判",
+          "body": "据报道，Amazon与Meta就解除对Muse为期两个月的封锁谈判，焦点在广告与搜索位置。",
+          "mini_headline": "Amazon与Meta洽谈Muse和解",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "禁止“AI假医生”食品广告的法律将于27日起施行，电商企业纷纷着手管理卖家。修订后的《食品等标示·广告法》禁止利用AI生成、难以与真实区分的声音、图像、视频等，让人误以为专家在推荐或担保食品的广告。不过，并非所有使用AI的食品广告都被禁止。"
-              },
-              {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
-                "cap": "生成式AI制作的图片。"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+                "cap": "坐在笔记本电脑前的Meta Muse吉祥物"
               },
               {
                 "t": "p",
-                "x": "G市场在不当广告监控中新增了“AI虚拟专家推荐·担保”类型。系统会识别“医生推荐”“药师推荐”等文字乃至图片中的字样来查找可疑商品，法律施行前登记的商品也按同一标准检查。"
+                "x": "Amazon对Meta的AI智能体Muse的态度或许正在转变。据报道，这两家科技巨头正在商讨一项潜在协议，让Meta这款广受欢迎的AI智能体直接接入Amazon商店。"
               },
               {
                 "t": "p",
-                "x": "Naver于6月发布“AI生成物使用标准”，禁止在商品信息中放入可能被误认为医生、药师等的虚拟人物，并要求食品类使用其他AI生成内容时进行标注。Coupang和11街则沿用现有的虚假·夸大广告处罚程序应对。"
+                "x": "与仅仅两个月前相比，这些谈判将是一次重大转向。当时Muse用户发现无法在Amazon上购买商品，尝试结账时收到的是错误提示。"
               },
               {
                 "t": "p",
-                "x": "剩下的难题是平台之外的广告。卖家若在外部SNS发布假专家广告来引流买家，仅靠检查商品详情页很难发现。G市场也在通过举报、线索和自主监控掌握外部广告。"
+                "x": "据Fortune周三援引知情人士的报道，Amazon与Meta已就此事进行了多轮谈判。仍在谈判中的两个关键问题是：在潜在协议下如何呈现搜索结果，以及如何处理广告。"
+              },
+              {
+                "t": "p",
+                "x": "Amazon最大的担忧之一，是Muse这样的第三方购物智能体可能对其广告业务造成的影响。10月，Amazon CEO Andy Jassy曾表示，通过外部购物智能体购物的顾客很少。"
+              },
+              {
+                "t": "p",
+                "x": "Amazon可能也在等待Muse成熟后再同意将其接入自己的市场。如果Muse下错订单或在购买中出现问题，最终可能要由Amazon来应对不满的顾客和卖家。"
+              },
+              {
+                "t": "p",
+                "x": "Fortune援引知情人士报道称，高管们担心第三方购物智能体可能削弱Amazon与消费者的直接关系。Fortune还报道称，Amazon与Meta之间的任何潜在协议都需要两家公司CEO(CEOs)的批准。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Veto a falsos médicos de AI\ny plataformas vigilan vendedores",
-          "body": "Naver ha prohibido los expertos virtuales y G-Market revisa incluso los productos ya publicados.",
-          "mini_headline": "Veto a falsos médicos de AI",
+          "headline": "Amazon y Meta negociarían\nel fin del bloqueo a Muse",
+          "body": "Amazon y Meta negociarían el fin del bloqueo de dos meses a Muse, con la publicidad y la búsqueda como ejes.",
+          "mini_headline": "Amazon y Meta negocian sobre Muse",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Ante la entrada en vigor el día 27 de una ley que prohíbe los anuncios de alimentos con 'falsos médicos de AI', las empresas de comercio electrónico han empezado a controlar a sus vendedores. La ley reformada sobre etiquetado y publicidad de alimentos prohíbe los anuncios que, mediante voces, imágenes o videos generados con AI y difíciles de distinguir de la realidad, hagan creer que un experto recomienda o avala un alimento. Sin embargo, no se prohíben todos los anuncios de alimentos que usen AI."
-              },
-              {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
-                "cap": "Imagen creada con AI generativa."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+                "cap": "La mascota de Meta Muse sentada frente a un portátil"
               },
               {
                 "t": "p",
-                "x": "G-Market ha añadido a su monitoreo de publicidad indebida la categoría 'recomendación o aval de expertos virtuales de AI'. Detecta productos sospechosos reconociendo expresiones como 'recomendado por médicos' o 'recomendado por farmacéuticos', incluso el texto dentro de las imágenes, y revisa con el mismo criterio los productos registrados antes de la entrada en vigor de la ley."
+                "x": "Amazon podría estar cambiando de opinión sobre Muse, el agente de AI de Meta. Según informaciones, los dos gigantes tecnológicos discuten un posible acuerdo que permitiría al popular agente de AI de Meta conectarse directamente a la tienda de Amazon."
               },
               {
                 "t": "p",
-                "x": "En junio, Naver difundió unas 'normas de uso de contenido generado por AI' que impiden incluir en la información de producto personajes virtuales que puedan confundirse con médicos o farmacéuticos, y exigen indicarlo cuando se use otro contenido generado por AI en alimentos. Coupang y 11st responden con sus procedimientos habituales de sanción contra la publicidad falsa o exagerada."
+                "x": "Las conversaciones supondrían un giro importante respecto a hace solo dos meses, cuando los usuarios de Muse descubrieron que no podían comprar productos en Amazon y, al intentar pagar, recibían un mensaje de error."
               },
               {
                 "t": "p",
-                "x": "El reto pendiente son los anuncios fuera de las plataformas. Si un vendedor publica anuncios de falsos expertos en SNS externas para atraer compradores, es difícil detectarlos solo revisando las páginas de detalle. G-Market también rastrea los anuncios externos mediante denuncias, avisos y su propio monitoreo."
+                "x": "Según un informe publicado el miércoles por Fortune, que cita a personas familiarizadas con las conversaciones, Amazon y Meta han mantenido varias rondas de negociaciones sobre el asunto. Siguen en negociación dos cuestiones clave: cómo se presentarían los resultados de búsqueda y cómo se gestionaría la publicidad en un posible acuerdo."
+              },
+              {
+                "t": "p",
+                "x": "Una de las mayores preocupaciones de Amazon es cómo los agentes de compra de terceros como Muse podrían afectar a su negocio publicitario. En octubre, el CEO de Amazon, Andy Jassy, sostuvo que pocos clientes compraban a través de agentes de compra externos."
+              },
+              {
+                "t": "p",
+                "x": "Amazon también podría haber estado esperando a que Muse madurara antes de aceptar integrarlo en su marketplace. Si Muse hace un pedido equivocado o causa un problema con una compra, Amazon podría acabar lidiando con clientes frustrados y vendedores descontentos."
+              },
+              {
+                "t": "p",
+                "x": "Fortune informó de que los directivos temen que los agentes de compra de terceros debiliten la relación directa de Amazon con los consumidores, según personas familiarizadas con el asunto. Cualquier posible acuerdo entre Amazon y Meta requeriría la aprobación de los CEOs de ambas compañías, según Fortune."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Ban on AI fake-doctor ads\nPlatforms tighten seller checks",
-          "body": "Naver has banned virtual experts, and G-Market is checking even products that were already listed.",
-          "mini_headline": "AI fake-doctor ads banned",
+        "ko": {
+          "headline": "Amazon·Meta\nMuse 차단 두고 협상설",
+          "body": "Amazon의 Meta Muse 차단 해제 협상은 광고·검색 배치가 쟁점이다.",
+          "mini_headline": "Amazon·Meta, Muse 휴전 협상",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Ahead of a law taking effect on the 27th that bans food ads featuring 'AI fake doctors,' e-commerce companies have begun managing their sellers. The amended Act on Labeling and Advertising of Foods bans ads that could mislead people into thinking an expert recommends or endorses a food, using AI-generated voices, images or videos that are hard to tell from reality. Not every food ad that uses AI is banned, however."
-              },
-              {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
-                "cap": "Image created with generative AI."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+                "cap": "노트북 앞에 앉은 Meta Muse 마스코트"
               },
               {
                 "t": "p",
-                "x": "G-Market has added an 'AI virtual expert recommendation/endorsement' category to its monitoring of unfair ads. It finds suspect products by recognizing phrases such as 'doctor recommended' and 'pharmacist recommended,' down to text inside images, and checks products registered before the law takes effect against the same standard."
+                "x": "Amazon이 Meta의 AI 에이전트 Muse에 대한 입장을 바꿀 수도 있다. 두 거대 기술기업은 Meta의 인기 AI 에이전트가 Amazon 스토어에 직접 연결될 수 있도록 하는 잠재적 거래를 논의 중인 것으로 알려졌다."
               },
               {
                 "t": "p",
-                "x": "In June, Naver issued 'AI-generated content usage standards' that bar virtual figures who could be mistaken for doctors or pharmacists from product information, and require a label when other AI-generated content is used for food products. Coupang and 11st are responding through their existing sanction procedures for false or exaggerated ads."
+                "x": "이 협상은 불과 두 달 전과 비교하면 상당한 반전이다. 당시 Muse 사용자들은 Amazon에서 상품을 살 수 없었고, 결제를 시도하면 오류 메시지가 떴다."
               },
               {
                 "t": "p",
-                "x": "The remaining challenge is ads outside the platforms. If sellers post fake-expert ads on outside SNS to draw buyers in, checking product detail pages alone makes them hard to detect. G-Market is also tracking outside ads through reports, tips and its own monitoring."
+                "x": "논의 상황을 잘 아는 사람들을 인용한 Fortune의 수요일 보도에 따르면, Amazon과 Meta는 이 문제를 두고 여러 차례 협상을 했다. 핵심 쟁점 두 가지는 아직 협상 중이다. 잠재적 합의에서 검색 결과를 어떻게 보여줄지, 광고를 어떻게 처리할지다."
+              },
+              {
+                "t": "p",
+                "x": "Amazon의 가장 큰 우려 중 하나는 Muse 같은 외부 쇼핑 에이전트가 자사 광고 사업에 미칠 영향이다. 10월 Amazon CEO Andy Jassy는 외부 쇼핑 에이전트를 통해 구매하는 고객이 많지 않다고 주장했다."
+              },
+              {
+                "t": "p",
+                "x": "Amazon은 마켓플레이스 연동에 동의하기 전에 Muse가 성숙하기를 기다렸을 수도 있다. Muse가 잘못 주문하거나 구매에 문제를 일으키면, 결국 불만스러운 고객과 판매자를 상대해야 하는 쪽은 Amazon이 될 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Fortune은 사정을 잘 아는 사람들을 인용해, 경영진이 외부 쇼핑 에이전트가 Amazon과 소비자의 직접적인 관계를 약화할 수 있다고 우려한다고 보도했다. Fortune은 또 Amazon과 Meta 간 합의가 성사되려면 두 회사 CEO(CEOs)의 승인이 필요할 것이라고 전했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI偽医師広告を禁止\n出品者管理に動く各社",
-          "body": "ネイバーは仮想専門家を禁止し、Gマーケットは既存商品まで点検する。",
-          "mini_headline": "AI偽医師広告を禁止",
+          "headline": "AmazonとMeta\nMuse遮断巡り協議か",
+          "body": "AmazonによるMetaのMuse遮断解除の協議は、広告と検索の扱いが焦点という。",
+          "mini_headline": "AmazonとMeta、Muse巡り協議",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "27日に「AI偽医師」による食品広告を禁じる法律の施行を控え、EC各社が出品者の管理に乗り出した。改正された食品等の表示・広告に関する法律は、AIで生成した実物と見分けにくい音声・画像・映像などで、専門家が食品を推薦・保証していると誤認させる広告を禁じる。ただし、AIを使った食品広告がすべて禁止されるわけではない。"
-              },
-              {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
-                "cap": "生成AIで作成した画像。"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+                "cap": "ノートパソコンの前に座るMeta Museのマスコット"
               },
               {
                 "t": "p",
-                "x": "Gマーケットは不当広告のモニタリングに「AI仮想専門家による推薦・保証」の類型を追加した。「医師推薦」「薬剤師推薦」などの文言や画像内の文字まで認識して疑わしい商品を探し、法施行前に登録された商品も同じ基準で点検する。"
+                "x": "AmazonはMetaのAIエージェント、Museに対する考えを改めつつあるのかもしれない。両テック大手は、Metaの人気AIエージェントがAmazonのストアに直接接続できるようにする取引の可能性を協議していると報じられた。"
               },
               {
                 "t": "p",
-                "x": "ネイバーは6月に「AI生成物の使用基準」を案内し、医師・薬剤師などと誤認されうる仮想人物を商品情報に載せられないようにしたほか、食品類にその他のAI生成物を使う場合は表示するよう求めた。クーパンと11番街は既存の虚偽・誇大広告への制裁手続きで対応する。"
+                "x": "この協議は、わずか二か月前からの大きな方針転換となる。当時、MuseのユーザーはAmazonで商品を購入できず、決済しようとするとエラーメッセージが表示された。"
               },
               {
                 "t": "p",
-                "x": "残る課題はプラットフォーム外の広告だ。出品者が外部のSNSに偽専門家広告を載せて購入者を呼び込めば、詳細ページの点検だけでは見つけにくい。Gマーケットは外部広告についても通報・情報提供と独自モニタリングで把握している。"
+                "x": "協議に詳しい関係者の話として水曜日に報じたFortuneによると、AmazonとMetaはこの件で複数回協議を重ねた。合意した場合に検索結果をどう表示するか、広告をどう扱うかという二つの主要な論点は、なお交渉中だという。"
+              },
+              {
+                "t": "p",
+                "x": "Amazonの最大の懸念の一つは、Museのような外部のショッピングエージェントが自社の広告事業にどう影響するかだ。10月、Amazon CEOのAndy Jassyは、外部のショッピングエージェントを通じて購入する顧客は少ないと主張した。"
+              },
+              {
+                "t": "p",
+                "x": "Amazonは、マーケットプレイスとの統合に同意する前にMuseの成熟を待っていた可能性もある。Museが誤った注文をしたり購入で問題を起こしたりすれば、最終的に不満を抱く顧客や販売者に対応するのはAmazonになりかねない。"
+              },
+              {
+                "t": "p",
+                "x": "Fortuneは関係者の話として、経営陣は外部のショッピングエージェントがAmazonと消費者の直接的な関係を弱めかねないと懸念していると報じた。またFortuneによると、AmazonとMetaの合意には両社のCEO(CEOs)の承認が必要になるという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "禁止AI假医生广告\n平台加强卖家管理",
-          "body": "Naver已禁止使用虚拟专家，G市场连既有商品也一并检查。",
-          "mini_headline": "禁止AI假医生广告",
+          "headline": "Amazon与Meta\n传就Muse封锁谈判",
+          "body": "据报道，Amazon与Meta就解除对Muse为期两个月的封锁谈判，焦点在广告与搜索位置。",
+          "mini_headline": "Amazon与Meta洽谈Muse和解",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "禁止“AI假医生”食品广告的法律将于27日起施行，电商企业纷纷着手管理卖家。修订后的《食品等标示·广告法》禁止利用AI生成、难以与真实区分的声音、图像、视频等，让人误以为专家在推荐或担保食品的广告。不过，并非所有使用AI的食品广告都被禁止。"
-              },
-              {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
-                "cap": "生成式AI制作的图片。"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+                "cap": "坐在笔记本电脑前的Meta Muse吉祥物"
               },
               {
                 "t": "p",
-                "x": "G市场在不当广告监控中新增了“AI虚拟专家推荐·担保”类型。系统会识别“医生推荐”“药师推荐”等文字乃至图片中的字样来查找可疑商品，法律施行前登记的商品也按同一标准检查。"
+                "x": "Amazon对Meta的AI智能体Muse的态度或许正在转变。据报道，这两家科技巨头正在商讨一项潜在协议，让Meta这款广受欢迎的AI智能体直接接入Amazon商店。"
               },
               {
                 "t": "p",
-                "x": "Naver于6月发布“AI生成物使用标准”，禁止在商品信息中放入可能被误认为医生、药师等的虚拟人物，并要求食品类使用其他AI生成内容时进行标注。Coupang和11街则沿用现有的虚假·夸大广告处罚程序应对。"
+                "x": "与仅仅两个月前相比，这些谈判将是一次重大转向。当时Muse用户发现无法在Amazon上购买商品，尝试结账时收到的是错误提示。"
               },
               {
                 "t": "p",
-                "x": "剩下的难题是平台之外的广告。卖家若在外部SNS发布假专家广告来引流买家，仅靠检查商品详情页很难发现。G市场也在通过举报、线索和自主监控掌握外部广告。"
+                "x": "据Fortune周三援引知情人士的报道，Amazon与Meta已就此事进行了多轮谈判。仍在谈判中的两个关键问题是：在潜在协议下如何呈现搜索结果，以及如何处理广告。"
+              },
+              {
+                "t": "p",
+                "x": "Amazon最大的担忧之一，是Muse这样的第三方购物智能体可能对其广告业务造成的影响。10月，Amazon CEO Andy Jassy曾表示，通过外部购物智能体购物的顾客很少。"
+              },
+              {
+                "t": "p",
+                "x": "Amazon可能也在等待Muse成熟后再同意将其接入自己的市场。如果Muse下错订单或在购买中出现问题，最终可能要由Amazon来应对不满的顾客和卖家。"
+              },
+              {
+                "t": "p",
+                "x": "Fortune援引知情人士报道称，高管们担心第三方购物智能体可能削弱Amazon与消费者的直接关系。Fortune还报道称，Amazon与Meta之间的任何潜在协议都需要两家公司CEO(CEOs)的批准。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Veto a falsos médicos de AI\ny plataformas vigilan vendedores",
-          "body": "Naver ha prohibido los expertos virtuales y G-Market revisa incluso los productos ya publicados.",
-          "mini_headline": "Veto a falsos médicos de AI",
+          "headline": "Amazon y Meta negociarían\nel fin del bloqueo a Muse",
+          "body": "Amazon y Meta negociarían el fin del bloqueo de dos meses a Muse, con la publicidad y la búsqueda como ejes.",
+          "mini_headline": "Amazon y Meta negocian sobre Muse",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Ante la entrada en vigor el día 27 de una ley que prohíbe los anuncios de alimentos con 'falsos médicos de AI', las empresas de comercio electrónico han empezado a controlar a sus vendedores. La ley reformada sobre etiquetado y publicidad de alimentos prohíbe los anuncios que, mediante voces, imágenes o videos generados con AI y difíciles de distinguir de la realidad, hagan creer que un experto recomienda o avala un alimento. Sin embargo, no se prohíben todos los anuncios de alimentos que usen AI."
-              },
-              {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
-                "cap": "Imagen creada con AI generativa."
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+                "cap": "La mascota de Meta Muse sentada frente a un portátil"
               },
               {
                 "t": "p",
-                "x": "G-Market ha añadido a su monitoreo de publicidad indebida la categoría 'recomendación o aval de expertos virtuales de AI'. Detecta productos sospechosos reconociendo expresiones como 'recomendado por médicos' o 'recomendado por farmacéuticos', incluso el texto dentro de las imágenes, y revisa con el mismo criterio los productos registrados antes de la entrada en vigor de la ley."
+                "x": "Amazon podría estar cambiando de opinión sobre Muse, el agente de AI de Meta. Según informaciones, los dos gigantes tecnológicos discuten un posible acuerdo que permitiría al popular agente de AI de Meta conectarse directamente a la tienda de Amazon."
               },
               {
                 "t": "p",
-                "x": "En junio, Naver difundió unas 'normas de uso de contenido generado por AI' que impiden incluir en la información de producto personajes virtuales que puedan confundirse con médicos o farmacéuticos, y exigen indicarlo cuando se use otro contenido generado por AI en alimentos. Coupang y 11st responden con sus procedimientos habituales de sanción contra la publicidad falsa o exagerada."
+                "x": "Las conversaciones supondrían un giro importante respecto a hace solo dos meses, cuando los usuarios de Muse descubrieron que no podían comprar productos en Amazon y, al intentar pagar, recibían un mensaje de error."
               },
               {
                 "t": "p",
-                "x": "El reto pendiente son los anuncios fuera de las plataformas. Si un vendedor publica anuncios de falsos expertos en SNS externas para atraer compradores, es difícil detectarlos solo revisando las páginas de detalle. G-Market también rastrea los anuncios externos mediante denuncias, avisos y su propio monitoreo."
+                "x": "Según un informe publicado el miércoles por Fortune, que cita a personas familiarizadas con las conversaciones, Amazon y Meta han mantenido varias rondas de negociaciones sobre el asunto. Siguen en negociación dos cuestiones clave: cómo se presentarían los resultados de búsqueda y cómo se gestionaría la publicidad en un posible acuerdo."
+              },
+              {
+                "t": "p",
+                "x": "Una de las mayores preocupaciones de Amazon es cómo los agentes de compra de terceros como Muse podrían afectar a su negocio publicitario. En octubre, el CEO de Amazon, Andy Jassy, sostuvo que pocos clientes compraban a través de agentes de compra externos."
+              },
+              {
+                "t": "p",
+                "x": "Amazon también podría haber estado esperando a que Muse madurara antes de aceptar integrarlo en su marketplace. Si Muse hace un pedido equivocado o causa un problema con una compra, Amazon podría acabar lidiando con clientes frustrados y vendedores descontentos."
+              },
+              {
+                "t": "p",
+                "x": "Fortune informó de que los directivos temen que los agentes de compra de terceros debiliten la relación directa de Amazon con los consumidores, según personas familiarizadas con el asunto. Cualquier posible acuerdo entre Amazon y Meta requeriría la aprobación de los CEOs de ambas compañías, según Fortune."
               }
             ]
           }

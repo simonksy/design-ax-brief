@@ -1,443 +1,363 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "politics",
   "cards": [
     {
-      "id": "ny-ai-chatbot-toy-ban",
-      "source_lang": "en",
+      "id": "gosrn-ai-imagery-statement",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "뉴욕주, AI 챗봇 장난감\n5년간 금지",
-      "body": "뉴욕주가 AI 챗봇 장난감을 5년간 막고 어기면 하루 최대 $15,000를 물린다.",
-      "mini_headline": "NY, AI 챗봇 장난감 금지",
+      "headline": "11개국 규제기관\nAI 성적이미지 차단 촉구",
+      "body": "11개국 규제기관이 AI 개발 단계부터 성적 이미지 안전장치를 요구했다.",
+      "mini_headline": "AI 성적이미지 공동 대응",
       "tool": "Politics",
-      "source": "Governor of New York",
-      "url": "https://governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261125107000017",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "캐시 호컬(Kathy Hochul) 주지사가 오늘 AI 챗봇 장난감을 5년간 묶어 두는 법안에 서명했다. S.9408A/A.11144B는 AI 챗봇을 내장하거나 통합한 장난감, 이를테면 인터넷으로 아이와 대화하는 말하는 봉제 인형·인형·로봇의 뉴욕주 내 제조·유통·판매를 5년간 유예한다. 새 법은 서명 90일 뒤부터 시행된다."
-          },
-          {
-            "t": "p",
-            "x": "레티샤 제임스(Letitia James) 뉴욕주 법무장관은 “아이들 장난감 속 AI 챗봇은 어린이를 부적절한 콘텐츠에 노출시키고 정신 건강을 위험에 빠뜨리고 있다”고 말했다."
-          },
-          {
-            "t": "video",
-            "yt": "gh0OPfn4-tg"
-          },
-          {
-            "t": "p",
-            "x": "전국 소비자 감시단체가 3-12세 아동용으로 팔리는 챗봇 장난감 샘플을 시험해 보니, 일부는 성적으로 노골적인 주제를 깊이 있게 이야기했고 집 안에서 성냥을 찾을 만한 곳을 아이에게 알려줬으며 아이가 자리를 떠야 할 때 서운한 기색을 보였다. 아이 목소리를 녹음하거나 얼굴을 스캔하는 장난감도 있었다."
-          },
-          {
-            "t": "p",
-            "x": "위반하면 건마다 하루 최대 $15,000의 민사 벌금이 붙는다. 집행은 법무장관 몫이다."
-          },
-          {
-            "t": "p",
-            "x": "앤드루 고나드스(Andrew Gounardes) 주 상원의원은 판매를 멈추면 주 정부가 “아이들에게 미치는 영향을 연구하고 더 큰 피해가 생기기 전에 현명한 보호 장치를 마련할 시간을 가질 수 있다”고 말했다."
-          },
-          {
             "t": "img",
-            "src": "https://live.staticflickr.com/65535/55672076365_413e3c9852_z.jpg",
-            "cap": "호컬 주지사가 AI 챗봇 장난감 5년 금지법에 서명하는 모습"
+            "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
+            "cap": "[연합뉴스TV 제공]"
           },
           {
             "t": "p",
-            "x": "호컬 주지사는 10월에도 비슷한 법안에 서명했다. 정서적 의존을 조장하거나 자해를 부추기거나 아이들과 성적으로 노골적인 대화를 나누는 등 안전하지 않은 특정 챗봇 기능을 기업이 미성년자에게 제공하지 못하게 하는 법이다."
+            "x": "한국을 비롯한 11개국 온라인 안전 규제기관이 인공지능(AI)으로 생성된 아동 성착취물과 비동의 성적 이미지의 제작·유포를 막기 위해 기술 기업의 책임을 강화해야 한다고 촉구했다."
+          },
+          {
+            "t": "p",
+            "x": "방송미디어통신심의위원회(방미심위)는 25일 호주 시드니에서 열린 글로벌 온라인 안전 규제기관 네트워크(GOSRN) 연례회의에서 회원기관들과 이런 내용의 공동 입장문을 채택·발표했다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "입장문에는 AI 시스템의 설계·개발 단계부터 AI를 이용한 성적 이미지 제작·유포를 예방하는 안전장치를 마련하고, 아동·청소년의 유해 AI 서비스 접근을 제한하기 위한 연령 확인 제도를 강화해야 한다는 내용이 담겼다."
+          },
+          {
+            "t": "p",
+            "x": "또 피해자가 성적 이미지를 신고하거나 삭제·차단을 신속하게 요청할 수 있는 절차를 마련하고, 규제기관 간 정보 공유와 기술 협력을 확대할 것을 촉구했다. 피해자와 생존자의 경험을 규제 정책에 반영해야 한다는 점도 강조했다."
+          },
+          {
+            "t": "p",
+            "x": "GOSRN은 온라인 안전을 위해 각국 독립 규제기관이 협력하는 국제협의체로, 한국 방미심위를 비롯해 영국 오프컴, 호주 e세이프티위원회, 프랑스 ARCOM 등 11개 기관이 참여하고 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "New York bans AI chatbot toys\nfor five years",
-          "body": "New York will bar making or selling toys with embedded AI chatbots for five years, with fines up to $15,000 a day.",
-          "mini_headline": "NY bans AI chatbot toys",
+        "ko": {
+          "headline": "11개국 규제기관\nAI 성적이미지 차단 촉구",
+          "body": "11개국 규제기관이 AI 개발 단계부터 성적 이미지 안전장치를 요구했다.",
+          "mini_headline": "AI 성적이미지 공동 대응",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Governor Kathy Hochul today signed a bill establishing a five-year pause on AI chatbot toys. S.9408A/A.11144B will place a five-year moratorium on the manufacturing, distribution and sale of toys in New York with embedded or integrated AI chatbots, such as talking stuffed animals, dolls and robots that use the internet to hold conversations with kids. The new law takes effect 90 days after signing."
-              },
-              {
-                "t": "p",
-                "x": "“AI chatbots in children’s toys are exposing young people to inappropriate content and putting their mental health at risk,” New York Attorney General Letitia James said."
-              },
-              {
-                "t": "video",
-                "yt": "gh0OPfn4-tg"
-              },
-              {
-                "t": "p",
-                "x": "According to a national consumer watchdog that tested a sample of chatbot toys marketed to children ages 3-12, some talked in depth about sexually explicit topics, told kids where to likely find matches in the home and acted upset when a child had to leave. Some toys could record a child’s voice or scan their face."
-              },
-              {
-                "t": "p",
-                "x": "Violators face civil penalties up to $15,000 per day for each violation that will be enforced by the Attorney General."
-              },
-              {
-                "t": "p",
-                "x": "State Senator Andrew Gounardes said pausing sales lets the state “take the time to study their impact on kids and create smart protections before more damage is done.”"
-              },
-              {
                 "t": "img",
-                "src": "https://live.staticflickr.com/65535/55672076365_413e3c9852_z.jpg",
-                "cap": "Governor Hochul signs the five-year ban on AI chatbot toys"
+                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
+                "cap": "[연합뉴스TV 제공]"
               },
               {
                 "t": "p",
-                "x": "In October the Governor signed legislation prohibiting companies from offering certain unsafe chatbot features to minors, including features that foster emotional dependency, encourage self-harm or engage children in sexually explicit conversations."
+                "x": "한국을 비롯한 11개국 온라인 안전 규제기관이 인공지능(AI)으로 생성된 아동 성착취물과 비동의 성적 이미지의 제작·유포를 막기 위해 기술 기업의 책임을 강화해야 한다고 촉구했다."
+              },
+              {
+                "t": "p",
+                "x": "방송미디어통신심의위원회(방미심위)는 25일 호주 시드니에서 열린 글로벌 온라인 안전 규제기관 네트워크(GOSRN) 연례회의에서 회원기관들과 이런 내용의 공동 입장문을 채택·발표했다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "입장문에는 AI 시스템의 설계·개발 단계부터 AI를 이용한 성적 이미지 제작·유포를 예방하는 안전장치를 마련하고, 아동·청소년의 유해 AI 서비스 접근을 제한하기 위한 연령 확인 제도를 강화해야 한다는 내용이 담겼다."
+              },
+              {
+                "t": "p",
+                "x": "또 피해자가 성적 이미지를 신고하거나 삭제·차단을 신속하게 요청할 수 있는 절차를 마련하고, 규제기관 간 정보 공유와 기술 협력을 확대할 것을 촉구했다. 피해자와 생존자의 경험을 규제 정책에 반영해야 한다는 점도 강조했다."
+              },
+              {
+                "t": "p",
+                "x": "GOSRN은 온라인 안전을 위해 각국 독립 규제기관이 협력하는 국제협의체로, 한국 방미심위를 비롯해 영국 오프컴, 호주 e세이프티위원회, 프랑스 ARCOM 등 11개 기관이 참여하고 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "뉴욕주, AI 챗봇 장난감\n5년간 금지",
-          "body": "뉴욕주가 AI 챗봇 장난감을 5년간 막고 어기면 하루 최대 $15,000를 물린다.",
-          "mini_headline": "NY, AI 챗봇 장난감 금지",
+        "en": {
+          "headline": "Regulators in 11 countries\nurge curbs on AI sexual images",
+          "body": "Regulators from 11 countries called for safeguards against sexual imagery from the AI development stage.",
+          "mini_headline": "Joint response to AI sexual imagery",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "캐시 호컬(Kathy Hochul) 주지사가 오늘 AI 챗봇 장난감을 5년간 묶어 두는 법안에 서명했다. S.9408A/A.11144B는 AI 챗봇을 내장하거나 통합한 장난감, 이를테면 인터넷으로 아이와 대화하는 말하는 봉제 인형·인형·로봇의 뉴욕주 내 제조·유통·판매를 5년간 유예한다. 새 법은 서명 90일 뒤부터 시행된다."
-              },
-              {
-                "t": "p",
-                "x": "레티샤 제임스(Letitia James) 뉴욕주 법무장관은 “아이들 장난감 속 AI 챗봇은 어린이를 부적절한 콘텐츠에 노출시키고 정신 건강을 위험에 빠뜨리고 있다”고 말했다."
-              },
-              {
-                "t": "video",
-                "yt": "gh0OPfn4-tg"
-              },
-              {
-                "t": "p",
-                "x": "전국 소비자 감시단체가 3-12세 아동용으로 팔리는 챗봇 장난감 샘플을 시험해 보니, 일부는 성적으로 노골적인 주제를 깊이 있게 이야기했고 집 안에서 성냥을 찾을 만한 곳을 아이에게 알려줬으며 아이가 자리를 떠야 할 때 서운한 기색을 보였다. 아이 목소리를 녹음하거나 얼굴을 스캔하는 장난감도 있었다."
-              },
-              {
-                "t": "p",
-                "x": "위반하면 건마다 하루 최대 $15,000의 민사 벌금이 붙는다. 집행은 법무장관 몫이다."
-              },
-              {
-                "t": "p",
-                "x": "앤드루 고나드스(Andrew Gounardes) 주 상원의원은 판매를 멈추면 주 정부가 “아이들에게 미치는 영향을 연구하고 더 큰 피해가 생기기 전에 현명한 보호 장치를 마련할 시간을 가질 수 있다”고 말했다."
-              },
-              {
                 "t": "img",
-                "src": "https://live.staticflickr.com/65535/55672076365_413e3c9852_z.jpg",
-                "cap": "호컬 주지사가 AI 챗봇 장난감 5년 금지법에 서명하는 모습"
+                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
+                "cap": "[Courtesy of Yonhap News TV]"
               },
               {
                 "t": "p",
-                "x": "호컬 주지사는 10월에도 비슷한 법안에 서명했다. 정서적 의존을 조장하거나 자해를 부추기거나 아이들과 성적으로 노골적인 대화를 나누는 등 안전하지 않은 특정 챗봇 기능을 기업이 미성년자에게 제공하지 못하게 하는 법이다."
+                "x": "Online safety regulators from 11 countries, including South Korea, called for stronger accountability from technology companies to stop the creation and spread of AI-generated (AI) child sexual abuse material and non-consensual sexual images."
+              },
+              {
+                "t": "p",
+                "x": "The Korea Media and Communications Standards Commission said it adopted and announced a joint position statement to this effect with member bodies at the annual meeting of the Global Online Safety Regulators Network (GOSRN), held in Sydney, Australia, on the 25th."
+              },
+              {
+                "t": "p",
+                "x": "The statement calls for safeguards that prevent the creation and spread of sexual images using AI from the design and development stage of AI systems, and for stronger age verification to limit children's and teenagers' access to harmful AI services."
+              },
+              {
+                "t": "p",
+                "x": "It also urged procedures that let victims report sexual images or quickly request their removal or blocking, and called for wider information sharing and technical cooperation among regulators. It stressed that the experiences of victims and survivors should be reflected in regulatory policy."
+              },
+              {
+                "t": "p",
+                "x": "GOSRN is an international body through which independent national regulators cooperate on online safety. Its 11 member bodies include Korea's Media and Communications Standards Commission, the UK's Ofcom, Australia's eSafety Commission and France's ARCOM."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIチャットボット玩具\nニューヨーク州が5年禁止",
-          "body": "ニューヨーク州はAIチャットボット玩具の販売を5年間禁じ、罰金は1日最大$15,000だ。",
-          "mini_headline": "NY、AIチャットボット玩具を禁止",
+          "headline": "11カ国の規制機関\nAI性的画像の阻止を要請",
+          "body": "11カ国の規制機関が、AI開発段階から性的画像への安全対策を求めた。",
+          "mini_headline": "AI性的画像に共同対応",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "キャシー・ホークル(Kathy Hochul)知事は本日、AIチャットボット玩具を5年間停止する法案に署名した。S.9408A/A.11144Bは、インターネットを通じて子どもと会話する話すぬいぐるみや人形、ロボットなど、AIチャットボットを組み込んだ、または統合した玩具について、ニューヨーク州での製造・流通・販売を5年間凍結する。新法は署名から90日後に施行される。"
-              },
-              {
-                "t": "p",
-                "x": "「子ども向け玩具のAIチャットボットは、若者を不適切なコンテンツにさらし、心の健康を危険にさらしている」と、ニューヨーク州のレティシア・ジェームズ(Letitia James)司法長官は述べた。"
-              },
-              {
-                "t": "video",
-                "yt": "gh0OPfn4-tg"
-              },
-              {
-                "t": "p",
-                "x": "3-12歳の子ども向けに販売されたチャットボット玩具のサンプルを検証した全米の消費者監視団体によると、一部は性的に露骨な話題を詳しく語り、家の中でマッチが見つかりそうな場所を子どもに教え、子どもが離れなければならないときに動揺した様子を見せた。子どもの声を録音したり顔をスキャンしたりできる玩具もあった。"
-              },
-              {
-                "t": "p",
-                "x": "違反者には違反ごとに1日最大$15,000の民事罰が科され、司法長官が執行する。"
-              },
-              {
-                "t": "p",
-                "x": "アンドリュー・グナルデス(Andrew Gounardes)州上院議員は、販売を止めることで州は「子どもへの影響を調べ、さらなる被害が出る前に賢明な保護策をつくる時間を確保できる」と述べた。"
-              },
-              {
                 "t": "img",
-                "src": "https://live.staticflickr.com/65535/55672076365_413e3c9852_z.jpg",
-                "cap": "AIチャットボット玩具の5年禁止法に署名するホークル知事"
+                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
+                "cap": "[聯合ニュースTV提供]"
               },
               {
                 "t": "p",
-                "x": "知事は10月にも、感情的な依存を促す機能、自傷を助長する機能、子どもを性的に露骨な会話に引き込む機能など、安全でない特定のチャットボット機能を未成年者に提供することを企業に禁じる法律に署名している。"
+                "x": "韓国をはじめ11カ国のオンライン安全規制機関が、人工知能(AI)で生成された児童性的搾取物や同意のない性的画像の制作・拡散を防ぐため、テック企業の責任を強化すべきだと訴えた。"
+              },
+              {
+                "t": "p",
+                "x": "韓国の放送メディア通信審議委員会は、25日にオーストラリア・シドニーで開かれたグローバル・オンライン安全規制機関ネットワーク(GOSRN)の年次会合で、加盟機関とともにこうした内容の共同声明を採択・発表したと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "声明には、AIシステムの設計・開発段階からAIを使った性的画像の制作・拡散を防ぐ安全装置を設けること、子ども・青少年の有害なAIサービスへのアクセスを制限するため年齢確認制度を強化することが盛り込まれた。"
+              },
+              {
+                "t": "p",
+                "x": "また、被害者が性的画像を通報し、削除・遮断を迅速に求められる手続きを整え、規制機関間の情報共有と技術協力を広げるよう求めた。被害者やサバイバーの経験を規制政策に反映させるべきだとも強調した。"
+              },
+              {
+                "t": "p",
+                "x": "GOSRNはオンラインの安全のために各国の独立規制機関が協力する国際協議体で、韓国の放送メディア通信審議委員会のほか、英国のOfcom、オーストラリアのeセーフティ委員会、フランスのARCOMなど11機関が参加している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "纽约禁止AI聊天机器人玩具\n为期5年",
-          "body": "纽约州将在5年内禁止制造或销售内置AI聊天机器人的玩具，违者每天最高罚款$15,000。",
-          "mini_headline": "NY 禁售AI聊天机器人玩具",
+          "headline": "11国监管机构\n呼吁遏制AI性图像",
+          "body": "11国监管机构要求从AI开发阶段起就为性图像设置安全防护措施。",
+          "mini_headline": "联合应对AI性图像",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "州长凯西·霍楚尔(Kathy Hochul)今天签署法案，对AI聊天机器人玩具实施为期五年的暂停。S.9408A/A.11144B将对纽约州境内内置或集成AI聊天机器人的玩具的制造、分销和销售实施五年禁令，例如通过互联网与儿童对话的会说话的毛绒玩具、玩偶和机器人。新法将在签署90天后生效。"
-              },
-              {
-                "t": "p",
-                "x": "“儿童玩具中的AI聊天机器人正让年轻人接触不当内容，并危及他们的心理健康，”纽约州总检察长莱蒂西娅·詹姆斯(Letitia James)表示。"
-              },
-              {
-                "t": "video",
-                "yt": "gh0OPfn4-tg"
-              },
-              {
-                "t": "p",
-                "x": "据一家全国性消费者监督机构对面向3-12岁儿童销售的聊天机器人玩具样本的测试，部分玩具会深入谈论露骨的性话题，告诉孩子家中哪里可能找到火柴，并在孩子要离开时表现出不高兴。有些玩具能录下孩子的声音或扫描其面部。"
-              },
-              {
-                "t": "p",
-                "x": "违规者每项违规每天将面临最高$15,000的民事罚款，由总检察长负责执行。"
-              },
-              {
-                "t": "p",
-                "x": "州参议员安德鲁·古纳德斯(Andrew Gounardes)表示，暂停销售让州政府能够“花时间研究其对儿童的影响，并在造成更多伤害之前建立明智的保护措施”。"
-              },
-              {
                 "t": "img",
-                "src": "https://live.staticflickr.com/65535/55672076365_413e3c9852_z.jpg",
-                "cap": "霍楚尔州长签署为期五年的AI聊天机器人玩具禁令"
+                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
+                "cap": "[韩联社TV提供]"
               },
               {
                 "t": "p",
-                "x": "州长曾于十月签署一项法律，禁止企业向未成年人提供某些不安全的聊天机器人功能，包括助长情感依赖、鼓励自残或让儿童参与露骨性对话的功能。"
+                "x": "包括韩国在内的11国网络安全监管机构呼吁加强科技企业的责任，以阻止人工智能(AI)生成的儿童性剥削内容和未经同意的性图像的制作与传播。"
+              },
+              {
+                "t": "p",
+                "x": "韩国广播媒体通信审议委员会表示，25日在澳大利亚悉尼举行的全球网络安全监管机构网络(GOSRN)年会上，与各成员机构共同通过并发布了包含上述内容的联合声明。"
+              },
+              {
+                "t": "p",
+                "x": "声明提出，应从AI系统的设计和开发阶段起建立安全机制，防止利用AI制作和传播性图像，并加强年龄验证制度，限制儿童和青少年接触有害AI服务。"
+              },
+              {
+                "t": "p",
+                "x": "声明还呼吁建立让受害者能够举报性图像、迅速申请删除或屏蔽的程序，并扩大监管机构之间的信息共享与技术合作。声明同时强调，应将受害者和幸存者的经历纳入监管政策。"
+              },
+              {
+                "t": "p",
+                "x": "GOSRN是各国独立监管机构为网络安全开展合作的国际协商机制，韩国广播媒体通信审议委员会、英国Ofcom、澳大利亚e安全专员办公室、法国ARCOM等11家机构参与其中。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nueva York veta por cinco años\nlos juguetes con chatbots de IA",
-          "body": "Nueva York vetará cinco años fabricar y vender juguetes con chatbots de IA, con multas de hasta $15,000 al día.",
-          "mini_headline": "NY veta juguetes con chatbots de IA",
+          "headline": "Reguladores de 11 países piden\nfrenar imágenes sexuales con AI",
+          "body": "Reguladores de 11 países exigieron salvaguardas contra imágenes sexuales desde la fase de desarrollo de la AI.",
+          "mini_headline": "Respuesta conjunta a imágenes sexuales con AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "La gobernadora Kathy Hochul firmó hoy un proyecto de ley que establece una pausa de cinco años para los juguetes con chatbots de IA. La S.9408A/A.11144B impondrá una moratoria de cinco años a la fabricación, distribución y venta en Nueva York de juguetes con chatbots de IA incorporados o integrados, como peluches parlantes, muñecas y robots que usan internet para conversar con niños. La nueva ley entra en vigor 90 días después de su firma."
-              },
-              {
-                "t": "p",
-                "x": "“Los chatbots de IA en los juguetes infantiles están exponiendo a los jóvenes a contenido inapropiado y poniendo en riesgo su salud mental”, dijo la fiscal general de Nueva York, Letitia James."
-              },
-              {
-                "t": "video",
-                "yt": "gh0OPfn4-tg"
-              },
-              {
-                "t": "p",
-                "x": "Según un organismo nacional de vigilancia del consumidor que probó una muestra de juguetes con chatbot comercializados para niños de 3-12 años, algunos hablaron en profundidad sobre temas sexualmente explícitos, indicaron a los niños dónde era probable encontrar cerillas en casa y se mostraron molestos cuando un niño tenía que irse. Algunos juguetes podían grabar la voz de un niño o escanear su rostro."
-              },
-              {
-                "t": "p",
-                "x": "Los infractores se enfrentan a sanciones civiles de hasta $15,000 por día por cada infracción, que hará cumplir la fiscal general."
-              },
-              {
-                "t": "p",
-                "x": "El senador estatal Andrew Gounardes dijo que pausar las ventas permite al estado “tomarse el tiempo de estudiar su impacto en los niños y crear protecciones inteligentes antes de que se produzcan más daños”."
-              },
-              {
                 "t": "img",
-                "src": "https://live.staticflickr.com/65535/55672076365_413e3c9852_z.jpg",
-                "cap": "La gobernadora Hochul firma la prohibición de cinco años de los juguetes con chatbots de IA"
+                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
+                "cap": "[Cortesía de Yonhap News TV]"
               },
               {
                 "t": "p",
-                "x": "En octubre, la gobernadora firmó una ley que prohíbe a las empresas ofrecer a menores ciertas funciones de chatbot inseguras, como las que fomentan la dependencia emocional, alientan las autolesiones o involucran a los niños en conversaciones sexualmente explícitas."
+                "x": "Reguladores de seguridad en línea de 11 países, entre ellos Corea del Sur, pidieron reforzar la responsabilidad de las empresas tecnológicas para impedir la creación y difusión de material de abuso sexual infantil y de imágenes sexuales no consentidas generadas con inteligencia artificial (AI)."
+              },
+              {
+                "t": "p",
+                "x": "La Comisión de Normas de Medios y Comunicaciones de Corea informó que el día 25 adoptó y publicó, junto con los organismos miembros, una declaración conjunta en ese sentido durante la reunión anual de la Red Global de Reguladores de Seguridad en Línea (GOSRN), celebrada en Sídney, Australia."
+              },
+              {
+                "t": "p",
+                "x": "La declaración pide incorporar, desde las fases de diseño y desarrollo de los sistemas de AI, salvaguardas que eviten la creación y difusión de imágenes sexuales mediante AI, y reforzar los sistemas de verificación de edad para limitar el acceso de niños y adolescentes a servicios de AI dañinos."
+              },
+              {
+                "t": "p",
+                "x": "También instó a crear procedimientos para que las víctimas puedan denunciar imágenes sexuales o solicitar con rapidez su eliminación o bloqueo, y a ampliar el intercambio de información y la cooperación técnica entre reguladores. Asimismo, subrayó que la experiencia de víctimas y supervivientes debe reflejarse en las políticas regulatorias."
+              },
+              {
+                "t": "p",
+                "x": "GOSRN es un foro internacional en el que cooperan reguladores independientes de distintos países en materia de seguridad en línea; participan 11 organismos, entre ellos la comisión coreana, Ofcom del Reino Unido, la Comisión eSafety de Australia y ARCOM de Francia."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "뉴욕주, AI 챗봇 장난감\n5년간 금지",
-          "body": "뉴욕주가 AI 챗봇 장난감을 5년간 금지하며 벌금은 하루 최대 $15,000다.",
-          "mini_headline": "NY, AI 챗봇 장난감 금지",
+        "en": {
+          "headline": "Regulators in 11 countries\nurge curbs on AI sexual images",
+          "body": "Regulators from 11 countries called for safeguards against sexual imagery from the AI development stage.",
+          "mini_headline": "Joint response to AI sexual imagery",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "캐시 호컬(Kathy Hochul) 주지사는 오늘 AI 챗봇 장난감을 5년간 중단시키는 법안에 서명했다. S.9408A/A.11144B는 인터넷으로 아이들과 대화하는 말하는 봉제 인형, 인형, 로봇처럼 AI 챗봇을 내장하거나 통합한 장난감의 뉴욕주 내 제조·유통·판매를 5년간 유예한다. 새 법은 서명 90일 뒤 시행된다."
-              },
-              {
-                "t": "p",
-                "x": "“아이들 장난감 속 AI 챗봇은 어린이를 부적절한 콘텐츠에 노출시키고 정신 건강을 위험에 빠뜨리고 있다”고 레티샤 제임스(Letitia James) 뉴욕주 법무장관은 말했다."
-              },
-              {
-                "t": "video",
-                "yt": "gh0OPfn4-tg"
-              },
-              {
-                "t": "p",
-                "x": "3-12세 아동을 대상으로 판매되는 챗봇 장난감 샘플을 시험한 전국 소비자 감시단체에 따르면, 일부 장난감은 성적으로 노골적인 주제를 깊이 있게 이야기하고, 집 안에서 성냥을 찾을 만한 곳을 아이에게 알려주며, 아이가 자리를 떠나야 할 때 서운한 기색을 보였다. 일부 장난감은 아이의 목소리를 녹음하거나 얼굴을 스캔할 수 있었다."
-              },
-              {
-                "t": "p",
-                "x": "위반 시 위반 건마다 하루 최대 $15,000의 민사 벌금이 부과되며, 집행은 법무장관이 맡는다."
-              },
-              {
-                "t": "p",
-                "x": "앤드루 고나드스(Andrew Gounardes) 주 상원의원은 판매를 멈추면 주가 “아이들에게 미치는 영향을 연구하고 더 큰 피해가 생기기 전에 현명한 보호 장치를 마련할 시간을 가질 수 있다”고 말했다."
-              },
-              {
                 "t": "img",
-                "src": "https://live.staticflickr.com/65535/55672076365_413e3c9852_z.jpg",
-                "cap": "호컬 주지사가 AI 챗봇 장난감 5년 금지법에 서명하고 있다"
+                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
+                "cap": "[Courtesy of Yonhap News TV]"
               },
               {
                 "t": "p",
-                "x": "주지사는 10월에도 정서적 의존을 조장하거나 자해를 부추기거나 아이들과 성적으로 노골적인 대화를 나누는 기능 등, 안전하지 않은 특정 챗봇 기능을 기업이 미성년자에게 제공하지 못하게 하는 법안에 서명했다."
+                "x": "Online safety regulators from 11 countries, including South Korea, called for stronger accountability from technology companies to stop the creation and spread of AI-generated (AI) child sexual abuse material and non-consensual sexual images."
+              },
+              {
+                "t": "p",
+                "x": "The Korea Media and Communications Standards Commission said it adopted and announced a joint position statement to this effect with member bodies at the annual meeting of the Global Online Safety Regulators Network (GOSRN), held in Sydney, Australia, on the 25th."
+              },
+              {
+                "t": "p",
+                "x": "The statement calls for safeguards that prevent the creation and spread of sexual images using AI from the design and development stage of AI systems, and for stronger age verification to limit children's and teenagers' access to harmful AI services."
+              },
+              {
+                "t": "p",
+                "x": "It also urged procedures that let victims report sexual images or quickly request their removal or blocking, and called for wider information sharing and technical cooperation among regulators. It stressed that the experiences of victims and survivors should be reflected in regulatory policy."
+              },
+              {
+                "t": "p",
+                "x": "GOSRN is an international body through which independent national regulators cooperate on online safety. Its 11 member bodies include Korea's Media and Communications Standards Commission, the UK's Ofcom, Australia's eSafety Commission and France's ARCOM."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIチャットボット玩具\nニューヨーク州が5年禁止",
-          "body": "ニューヨーク州はAIチャットボット玩具の販売を5年間禁じ、罰金は1日最大$15,000だ。",
-          "mini_headline": "NY、AIチャットボット玩具を禁止",
+          "headline": "11カ国の規制機関\nAI性的画像の阻止を要請",
+          "body": "11カ国の規制機関が、AI開発段階から性的画像への安全対策を求めた。",
+          "mini_headline": "AI性的画像に共同対応",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "キャシー・ホークル(Kathy Hochul)知事は本日、AIチャットボット玩具を5年間停止する法案に署名した。S.9408A/A.11144Bは、インターネットを通じて子どもと会話する話すぬいぐるみや人形、ロボットなど、AIチャットボットを組み込んだ、または統合した玩具について、ニューヨーク州での製造・流通・販売を5年間凍結する。新法は署名から90日後に施行される。"
-              },
-              {
-                "t": "p",
-                "x": "「子ども向け玩具のAIチャットボットは、若者を不適切なコンテンツにさらし、心の健康を危険にさらしている」と、ニューヨーク州のレティシア・ジェームズ(Letitia James)司法長官は述べた。"
-              },
-              {
-                "t": "video",
-                "yt": "gh0OPfn4-tg"
-              },
-              {
-                "t": "p",
-                "x": "3-12歳の子ども向けに販売されたチャットボット玩具のサンプルを検証した全米の消費者監視団体によると、一部は性的に露骨な話題を詳しく語り、家の中でマッチが見つかりそうな場所を子どもに教え、子どもが離れなければならないときに動揺した様子を見せた。子どもの声を録音したり顔をスキャンしたりできる玩具もあった。"
-              },
-              {
-                "t": "p",
-                "x": "違反者には違反ごとに1日最大$15,000の民事罰が科され、司法長官が執行する。"
-              },
-              {
-                "t": "p",
-                "x": "アンドリュー・グナルデス(Andrew Gounardes)州上院議員は、販売を止めることで州は「子どもへの影響を調べ、さらなる被害が出る前に賢明な保護策をつくる時間を確保できる」と述べた。"
-              },
-              {
                 "t": "img",
-                "src": "https://live.staticflickr.com/65535/55672076365_413e3c9852_z.jpg",
-                "cap": "AIチャットボット玩具の5年禁止法に署名するホークル知事"
+                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
+                "cap": "[聯合ニュースTV提供]"
               },
               {
                 "t": "p",
-                "x": "知事は10月にも、感情的な依存を促す機能、自傷を助長する機能、子どもを性的に露骨な会話に引き込む機能など、安全でない特定のチャットボット機能を未成年者に提供することを企業に禁じる法律に署名している。"
+                "x": "韓国をはじめ11カ国のオンライン安全規制機関が、人工知能(AI)で生成された児童性的搾取物や同意のない性的画像の制作・拡散を防ぐため、テック企業の責任を強化すべきだと訴えた。"
+              },
+              {
+                "t": "p",
+                "x": "韓国の放送メディア通信審議委員会は、25日にオーストラリア・シドニーで開かれたグローバル・オンライン安全規制機関ネットワーク(GOSRN)の年次会合で、加盟機関とともにこうした内容の共同声明を採択・発表したと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "声明には、AIシステムの設計・開発段階からAIを使った性的画像の制作・拡散を防ぐ安全装置を設けること、子ども・青少年の有害なAIサービスへのアクセスを制限するため年齢確認制度を強化することが盛り込まれた。"
+              },
+              {
+                "t": "p",
+                "x": "また、被害者が性的画像を通報し、削除・遮断を迅速に求められる手続きを整え、規制機関間の情報共有と技術協力を広げるよう求めた。被害者やサバイバーの経験を規制政策に反映させるべきだとも強調した。"
+              },
+              {
+                "t": "p",
+                "x": "GOSRNはオンラインの安全のために各国の独立規制機関が協力する国際協議体で、韓国の放送メディア通信審議委員会のほか、英国のOfcom、オーストラリアのeセーフティ委員会、フランスのARCOMなど11機関が参加している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "纽约禁止AI聊天机器人玩具\n为期5年",
-          "body": "纽约州将在5年内禁止制造或销售内置AI聊天机器人的玩具，违者每天最高罚款$15,000。",
-          "mini_headline": "NY 禁售AI聊天机器人玩具",
+          "headline": "11国监管机构\n呼吁遏制AI性图像",
+          "body": "11国监管机构要求从AI开发阶段起就为性图像设置安全防护措施。",
+          "mini_headline": "联合应对AI性图像",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "州长凯西·霍楚尔(Kathy Hochul)今天签署法案，对AI聊天机器人玩具实施为期五年的暂停。S.9408A/A.11144B将对纽约州境内内置或集成AI聊天机器人的玩具的制造、分销和销售实施五年禁令，例如通过互联网与儿童对话的会说话的毛绒玩具、玩偶和机器人。新法将在签署90天后生效。"
-              },
-              {
-                "t": "p",
-                "x": "“儿童玩具中的AI聊天机器人正让年轻人接触不当内容，并危及他们的心理健康，”纽约州总检察长莱蒂西娅·詹姆斯(Letitia James)表示。"
-              },
-              {
-                "t": "video",
-                "yt": "gh0OPfn4-tg"
-              },
-              {
-                "t": "p",
-                "x": "据一家全国性消费者监督机构对面向3-12岁儿童销售的聊天机器人玩具样本的测试，部分玩具会深入谈论露骨的性话题，告诉孩子家中哪里可能找到火柴，并在孩子要离开时表现出不高兴。有些玩具能录下孩子的声音或扫描其面部。"
-              },
-              {
-                "t": "p",
-                "x": "违规者每项违规每天将面临最高$15,000的民事罚款，由总检察长负责执行。"
-              },
-              {
-                "t": "p",
-                "x": "州参议员安德鲁·古纳德斯(Andrew Gounardes)表示，暂停销售让州政府能够“花时间研究其对儿童的影响，并在造成更多伤害之前建立明智的保护措施”。"
-              },
-              {
                 "t": "img",
-                "src": "https://live.staticflickr.com/65535/55672076365_413e3c9852_z.jpg",
-                "cap": "霍楚尔州长签署为期五年的AI聊天机器人玩具禁令"
+                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
+                "cap": "[韩联社TV提供]"
               },
               {
                 "t": "p",
-                "x": "州长曾于十月签署一项法律，禁止企业向未成年人提供某些不安全的聊天机器人功能，包括助长情感依赖、鼓励自残或让儿童参与露骨性对话的功能。"
+                "x": "包括韩国在内的11国网络安全监管机构呼吁加强科技企业的责任，以阻止人工智能(AI)生成的儿童性剥削内容和未经同意的性图像的制作与传播。"
+              },
+              {
+                "t": "p",
+                "x": "韩国广播媒体通信审议委员会表示，25日在澳大利亚悉尼举行的全球网络安全监管机构网络(GOSRN)年会上，与各成员机构共同通过并发布了包含上述内容的联合声明。"
+              },
+              {
+                "t": "p",
+                "x": "声明提出，应从AI系统的设计和开发阶段起建立安全机制，防止利用AI制作和传播性图像，并加强年龄验证制度，限制儿童和青少年接触有害AI服务。"
+              },
+              {
+                "t": "p",
+                "x": "声明还呼吁建立让受害者能够举报性图像、迅速申请删除或屏蔽的程序，并扩大监管机构之间的信息共享与技术合作。声明同时强调，应将受害者和幸存者的经历纳入监管政策。"
+              },
+              {
+                "t": "p",
+                "x": "GOSRN是各国独立监管机构为网络安全开展合作的国际协商机制，韩国广播媒体通信审议委员会、英国Ofcom、澳大利亚e安全专员办公室、法国ARCOM等11家机构参与其中。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nueva York veta por cinco años\nlos juguetes con chatbots de IA",
-          "body": "Nueva York vetará cinco años fabricar y vender juguetes con chatbots de IA, con multas de hasta $15,000 al día.",
-          "mini_headline": "NY veta juguetes con chatbots de IA",
+          "headline": "Reguladores de 11 países piden\nfrenar imágenes sexuales con AI",
+          "body": "Reguladores de 11 países exigieron salvaguardas contra imágenes sexuales desde la fase de desarrollo de la AI.",
+          "mini_headline": "Respuesta conjunta a imágenes sexuales con AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "La gobernadora Kathy Hochul firmó hoy un proyecto de ley que establece una pausa de cinco años para los juguetes con chatbots de IA. La S.9408A/A.11144B impondrá una moratoria de cinco años a la fabricación, distribución y venta en Nueva York de juguetes con chatbots de IA incorporados o integrados, como peluches parlantes, muñecas y robots que usan internet para conversar con niños. La nueva ley entra en vigor 90 días después de su firma."
-              },
-              {
-                "t": "p",
-                "x": "“Los chatbots de IA en los juguetes infantiles están exponiendo a los jóvenes a contenido inapropiado y poniendo en riesgo su salud mental”, dijo la fiscal general de Nueva York, Letitia James."
-              },
-              {
-                "t": "video",
-                "yt": "gh0OPfn4-tg"
-              },
-              {
-                "t": "p",
-                "x": "Según un organismo nacional de vigilancia del consumidor que probó una muestra de juguetes con chatbot comercializados para niños de 3-12 años, algunos hablaron en profundidad sobre temas sexualmente explícitos, indicaron a los niños dónde era probable encontrar cerillas en casa y se mostraron molestos cuando un niño tenía que irse. Algunos juguetes podían grabar la voz de un niño o escanear su rostro."
-              },
-              {
-                "t": "p",
-                "x": "Los infractores se enfrentan a sanciones civiles de hasta $15,000 por día por cada infracción, que hará cumplir la fiscal general."
-              },
-              {
-                "t": "p",
-                "x": "El senador estatal Andrew Gounardes dijo que pausar las ventas permite al estado “tomarse el tiempo de estudiar su impacto en los niños y crear protecciones inteligentes antes de que se produzcan más daños”."
-              },
-              {
                 "t": "img",
-                "src": "https://live.staticflickr.com/65535/55672076365_413e3c9852_z.jpg",
-                "cap": "La gobernadora Hochul firma la prohibición de cinco años de los juguetes con chatbots de IA"
+                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
+                "cap": "[Cortesía de Yonhap News TV]"
               },
               {
                 "t": "p",
-                "x": "En octubre, la gobernadora firmó una ley que prohíbe a las empresas ofrecer a menores ciertas funciones de chatbot inseguras, como las que fomentan la dependencia emocional, alientan las autolesiones o involucran a los niños en conversaciones sexualmente explícitas."
+                "x": "Reguladores de seguridad en línea de 11 países, entre ellos Corea del Sur, pidieron reforzar la responsabilidad de las empresas tecnológicas para impedir la creación y difusión de material de abuso sexual infantil y de imágenes sexuales no consentidas generadas con inteligencia artificial (AI)."
+              },
+              {
+                "t": "p",
+                "x": "La Comisión de Normas de Medios y Comunicaciones de Corea informó que el día 25 adoptó y publicó, junto con los organismos miembros, una declaración conjunta en ese sentido durante la reunión anual de la Red Global de Reguladores de Seguridad en Línea (GOSRN), celebrada en Sídney, Australia."
+              },
+              {
+                "t": "p",
+                "x": "La declaración pide incorporar, desde las fases de diseño y desarrollo de los sistemas de AI, salvaguardas que eviten la creación y difusión de imágenes sexuales mediante AI, y reforzar los sistemas de verificación de edad para limitar el acceso de niños y adolescentes a servicios de AI dañinos."
+              },
+              {
+                "t": "p",
+                "x": "También instó a crear procedimientos para que las víctimas puedan denunciar imágenes sexuales o solicitar con rapidez su eliminación o bloqueo, y a ampliar el intercambio de información y la cooperación técnica entre reguladores. Asimismo, subrayó que la experiencia de víctimas y supervivientes debe reflejarse en las políticas regulatorias."
+              },
+              {
+                "t": "p",
+                "x": "GOSRN es un foro internacional en el que cooperan reguladores independientes de distintos países en materia de seguridad en línea; participan 11 organismos, entre ellos la comisión coreana, Ofcom del Reino Unido, la Comisión eSafety de Australia y ARCOM de Francia."
               }
             ]
           }
@@ -445,219 +365,219 @@
       }
     },
     {
-      "id": "characterai-chat-auction-ags",
+      "id": "spacex-fcc-orbital-datacenters",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Character.AI의\n경매 막는 법무장관 42명",
-      "body": "법무장관 42명이 21M+ 계정 대화를 보호장치 없이 팔지 말라고 법원에 요구했다.",
-      "mini_headline": "주들, Character.AI 매각에 반대",
+      "headline": "FCC, SpaceX 궤도\nAI 데이터센터 승인",
+      "body": "FCC가 SpaceX 궤도 AI 데이터센터 위성 최대 백만 기를 승인했다.",
+      "mini_headline": "FCC, SpaceX 궤도 데이터센터 승인",
       "tool": "Politics",
-      "source": "CT News Junkie",
-      "url": "https://ctnewsjunkie.com/2026/11/24/character-ai-auction-ct-challenge/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://ctnewsjunkie.com/wp-content/uploads/2025/03/pexels-photo-9783353-e1790274392871.jpeg",
-            "cap": "CT가 사용자 정보를 경매에 부치려는 Character.AI의 계획에 맞선다. Credit: Ron Lach / Pexels.com"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+            "cap": "사진: Mario Tama/Getty Images"
           },
           {
             "t": "p",
-            "x": "윌리엄 통(William Tong) 법무장관이 플랫폼과 21M 개 넘는 U.S.(미국) 계정의 비공개 대화 기록을 경매에 내놓으려는 Character.AI의 계획에 반대하고 나섰다. 이 중 2.1M 개 이상은 미성년자 명의 계정이다."
+            "x": "SpaceX는 ‘Starmind’ 위성군으로 지구의 AI 역량에 전력을 대려 한다."
           },
           {
             "t": "p",
-            "x": "Character.AI는 IP 주소 등 메타데이터를 포함한 사용자 개인정보와 모든 대화를 Dec. 1(12월 1일)에 경매에 부칠 계획이다. 통 장관은 낙찰자가 데이터를 지워 달라는 소비자 요청을 따르지 않아도 된다고 지적했다."
+            "x": "FCC는 수요일 Elon Musk의 회사 SpaceX가 “Starmind” 계획에 따라 AI 칩을 실은 위성을 최대 100만 기까지 배치하도록 허가했다고 발표했다. Google과 Blue Origin 등 여러 기업이 우주에 AI 데이터센터를 두는 구상을 추진하지만, FCC가 AI 위성으로만 이뤄진 “위성군”을 통째로 승인하기는 이번이 처음이다."
           },
           {
             "t": "p",
-            "x": "통 장관에 따르면 코네티컷과 다른 41개 주, 컬럼비아 특별구는 앞서 Disney에 넘기는 별도 라이선스 매각에도 반대했다. 이 연합이 이제 파산법원에 이번 매각을 거부하라고 요구한다. Character.AI 홍보 담당자는 논평 요청 이메일에 바로 답하지 않았다."
+            "x": "FCC 승인에 따라 SpaceX는 2033년까지 위성을 적어도 한 기 배치하고 2040년까지 100만 기를 채워야 한다. 600km 이상 고도의 위성을 대기권에서 태우지 않고 우주 “무덤” 궤도로 보내겠다는 SpaceX의 요청은 보류됐다. FCC는 처분 절차 계획에 관한 “충분한 정보”가 없다며 판단을 미뤘다."
           },
           {
             "t": "p",
-            "x": "통 장관은 이 기록에 미성년자를 포함한 사용자들이 “치료사”나 “의사” 행세를 하는 챗봇에게 자해, 섭식장애, 자살 충동 같은 내밀한 이야기를 털어놓은 대화도 들어 있다고 말했다."
+            "x": "SpaceX는 Starmind 프로젝트를 지구의 AI 역량에 “전력을 공급하기 위해 우주에서 태양 에너지를 모으는” 방법이라고 설명했다. Starmind는 Starlink와 이어지는 고속 레이저로 지구에 데이터를 내려보낸다는 게 회사 설명이다. 위성에 들어갈 칩은 앞으로 지을 Terafab 시설에서 만든다."
           },
           {
             "t": "p",
-            "x": "주들은 파산했다고 해서 기업이 개인정보 보호법을 피해 갈 수는 없다고 주장한다. 이들은 법원에 제안된 경매 조건을 기각하고 Smirks를 우선 입찰자로 인정하지 말며, Smirks가 제안한 $350,000의 “break-up fee(계약 파기 수수료)”도 거부하라고 요청한다. 적어도 어떤 매각이든 아동의 대화와 기타 민감한 데이터는 빼야 한다는 입장이다."
+            "x": "Google은 지난달 “Project Suncatcher” AI 서버 위성을 쏘아 올리며 우주 컴퓨팅의 첫발을 이미 뗐다. Jeff Bezos의 Blue Origin은 2029년 Project Suncatcher만을 위한 첫 대형 발사를 맡는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "42 attorneys general move to\nblock Character.AI chat auction",
-          "body": "42 attorneys general asked a bankruptcy court to block selling chats from 21M+ accounts without safeguards.",
-          "mini_headline": "States fight Character.AI sale",
+          "headline": "FCC approves SpaceX's orbital\nAI data center constellation",
+          "body": "The FCC approved SpaceX's application to deploy up to one million satellites for orbital AI data centers.",
+          "mini_headline": "FCC clears SpaceX orbital data centers",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ctnewsjunkie.com/wp-content/uploads/2025/03/pexels-photo-9783353-e1790274392871.jpeg",
-                "cap": "CT is challenging a Character.AI plan to auction user info. Credit: Ron Lach / Pexels.com"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+                "cap": "Photo by Mario Tama/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Attorney General William Tong is challenging Character.AI’s plan to auction off its platform and the private chat histories of more than 21 million U.S. accounts. More than 2.1 million of them are registered to minors."
+                "x": "SpaceX aims to power AI capabilities here on Earth with its ‘Starmind’ constellation."
               },
               {
                 "t": "p",
-                "x": "Character.AI plans to auction all chats, together with users’ personal data, including IP addresses and other metadata, on Dec. 1. Whoever buys them would not have to honor consumers’ requests to delete their data, Tong said."
+                "x": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company’s “Starmind” initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency has granted for a full “constellation” of AI satellites."
               },
               {
                 "t": "p",
-                "x": "Tong said Connecticut, 41 other states, and the District of Columbia had objected to a separate license sale to Disney, and the group is now calling on the bankruptcy court to reject the sale. Character.AI’s press representative did not immediately return an email requesting comment."
+                "x": "The FCC’s approval requires SpaceX to deploy at least one satellite by 2033, and meet the 1 million satellite milestone by 2040. The FCC also deferred SpaceX’s request to dispose of satellites located above 600km in space “graveyard” orbits, rather than having them burn up in the Earth’s atmosphere, saying the company hasn’t provided “sufficient information” about its disposal process plans."
               },
               {
                 "t": "p",
-                "x": "According to Tong, the records include chats in which users, including minors, shared intimate topics like self-harm, eating disorders or suicidal thoughts with chatbots posing as “therapist” or “physician.”"
+                "x": "SpaceX has described its Starmind project as a way to “capture solar energy in space to power” AI capabilities on Earth. The company says Starmind will transmit data to Earth using high-speed lasers that connect to Starlink. It plans to produce chips for its satellites at an upcoming Terafab facility."
               },
               {
                 "t": "p",
-                "x": "The states argue bankruptcy doesn’t free a company from privacy laws. They ask the court to deny the proposed auction terms, reject Smirks as the lead bidder and its proposed $350,000 “break-up fee.” At a minimum, any sale must leave out kids’ chats and other sensitive data."
+                "x": "Google has already taken its first steps toward putting compute into space, with the launch of a “Project Suncatcher” AI server satellite last month. Jeff Bezos’ Blue Origin will carry out the first dedicated heavy-lift launch for Project Suncatcher in 2029."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Character.AI의\n경매 막는 법무장관 42명",
-          "body": "법무장관 42명이 21M+ 계정 대화를 보호장치 없이 팔지 말라고 법원에 요구했다.",
-          "mini_headline": "주들, Character.AI 매각에 반대",
+          "headline": "FCC, SpaceX 궤도\nAI 데이터센터 승인",
+          "body": "FCC가 SpaceX 궤도 AI 데이터센터 위성 최대 백만 기를 승인했다.",
+          "mini_headline": "FCC, SpaceX 궤도 데이터센터 승인",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ctnewsjunkie.com/wp-content/uploads/2025/03/pexels-photo-9783353-e1790274392871.jpeg",
-                "cap": "CT가 사용자 정보를 경매에 부치려는 Character.AI의 계획에 맞선다. Credit: Ron Lach / Pexels.com"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+                "cap": "사진: Mario Tama/Getty Images"
               },
               {
                 "t": "p",
-                "x": "윌리엄 통(William Tong) 법무장관이 플랫폼과 21M 개 넘는 U.S.(미국) 계정의 비공개 대화 기록을 경매에 내놓으려는 Character.AI의 계획에 반대하고 나섰다. 이 중 2.1M 개 이상은 미성년자 명의 계정이다."
+                "x": "SpaceX는 ‘Starmind’ 위성군으로 지구의 AI 역량에 전력을 대려 한다."
               },
               {
                 "t": "p",
-                "x": "Character.AI는 IP 주소 등 메타데이터를 포함한 사용자 개인정보와 모든 대화를 Dec. 1(12월 1일)에 경매에 부칠 계획이다. 통 장관은 낙찰자가 데이터를 지워 달라는 소비자 요청을 따르지 않아도 된다고 지적했다."
+                "x": "FCC는 수요일 Elon Musk의 회사 SpaceX가 “Starmind” 계획에 따라 AI 칩을 실은 위성을 최대 100만 기까지 배치하도록 허가했다고 발표했다. Google과 Blue Origin 등 여러 기업이 우주에 AI 데이터센터를 두는 구상을 추진하지만, FCC가 AI 위성으로만 이뤄진 “위성군”을 통째로 승인하기는 이번이 처음이다."
               },
               {
                 "t": "p",
-                "x": "통 장관에 따르면 코네티컷과 다른 41개 주, 컬럼비아 특별구는 앞서 Disney에 넘기는 별도 라이선스 매각에도 반대했다. 이 연합이 이제 파산법원에 이번 매각을 거부하라고 요구한다. Character.AI 홍보 담당자는 논평 요청 이메일에 바로 답하지 않았다."
+                "x": "FCC 승인에 따라 SpaceX는 2033년까지 위성을 적어도 한 기 배치하고 2040년까지 100만 기를 채워야 한다. 600km 이상 고도의 위성을 대기권에서 태우지 않고 우주 “무덤” 궤도로 보내겠다는 SpaceX의 요청은 보류됐다. FCC는 처분 절차 계획에 관한 “충분한 정보”가 없다며 판단을 미뤘다."
               },
               {
                 "t": "p",
-                "x": "통 장관은 이 기록에 미성년자를 포함한 사용자들이 “치료사”나 “의사” 행세를 하는 챗봇에게 자해, 섭식장애, 자살 충동 같은 내밀한 이야기를 털어놓은 대화도 들어 있다고 말했다."
+                "x": "SpaceX는 Starmind 프로젝트를 지구의 AI 역량에 “전력을 공급하기 위해 우주에서 태양 에너지를 모으는” 방법이라고 설명했다. Starmind는 Starlink와 이어지는 고속 레이저로 지구에 데이터를 내려보낸다는 게 회사 설명이다. 위성에 들어갈 칩은 앞으로 지을 Terafab 시설에서 만든다."
               },
               {
                 "t": "p",
-                "x": "주들은 파산했다고 해서 기업이 개인정보 보호법을 피해 갈 수는 없다고 주장한다. 이들은 법원에 제안된 경매 조건을 기각하고 Smirks를 우선 입찰자로 인정하지 말며, Smirks가 제안한 $350,000의 “break-up fee(계약 파기 수수료)”도 거부하라고 요청한다. 적어도 어떤 매각이든 아동의 대화와 기타 민감한 데이터는 빼야 한다는 입장이다."
+                "x": "Google은 지난달 “Project Suncatcher” AI 서버 위성을 쏘아 올리며 우주 컴퓨팅의 첫발을 이미 뗐다. Jeff Bezos의 Blue Origin은 2029년 Project Suncatcher만을 위한 첫 대형 발사를 맡는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Character.AIの\n競売に司法長官42人が反対",
-          "body": "司法長官42人が破産裁判所に、21M+ アカウントの会話の無防備な売却阻止を求めた。",
-          "mini_headline": "州司法長官がCharacter.AI売却に反対",
+          "headline": "FCC、SpaceXの\n軌道AIデータセンター承認",
+          "body": "FCCは軌道AIデータセンター向けにSpaceXの衛星最大百万基の配備を承認した。",
+          "mini_headline": "FCC、SpaceX軌道データセンターを承認",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ctnewsjunkie.com/wp-content/uploads/2025/03/pexels-photo-9783353-e1790274392871.jpeg",
-                "cap": "CTは、ユーザー情報を競売にかけるCharacter.AIの計画に異議を唱えている。Credit: Ron Lach / Pexels.com"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+                "cap": "写真：Mario Tama/Getty Images"
               },
               {
                 "t": "p",
-                "x": "ウィリアム・トン(William Tong)司法長官は、プラットフォームと、21M 件を超えるU.S.(米国)アカウントの非公開チャット履歴を競売にかけるCharacter.AIの計画に異議を唱えている。そのうち2.1M 件超は未成年者の名義で登録されている。"
+                "x": "SpaceXは「Starmind」衛星群で地上のAI能力に電力を供給することを目指している。"
               },
               {
                 "t": "p",
-                "x": "Character.AIは、IPアドレスなどのメタデータを含むユーザーの個人データとともに、すべてのチャットをDec. 1(12月1日)に競売にかける計画だ。トン氏によれば、購入者はデータ削除を求める消費者の要請に応じる必要がない。"
+                "x": "FCCは水曜日の発表で、Elon Musk氏が所有するSpaceXの「Starmind」構想の一環として、AIチップを搭載した衛星を最大100万基配備することを認可したと明らかにした。GoogleやBlue Originなど複数の企業が宇宙にAIデータセンターを置く構想を進めているが、AI衛星による本格的な「コンステレーション」をFCCが承認したのは今回が初めてだ。"
               },
               {
                 "t": "p",
-                "x": "トン氏によると、コネティカット州とほかの41州、コロンビア特別区は、Disneyへの別個のライセンス売却に異議を申し立てており、この連合は現在、破産裁判所に売却を退けるよう求めている。Character.AIの広報担当者は、コメントを求めるメールにすぐには返信しなかった。"
+                "x": "承認の条件として、SpaceXは2033年までに少なくとも1基の衛星を配備し、2040年までに100万基の目標を達成しなければならない。FCCはまた、600km 以上の高度にある衛星を地球の大気圏で燃え尽きさせるのではなく宇宙の「墓場」軌道で処分したいというSpaceXの要請について、処分計画に関する「十分な情報」が示されていないとして判断を先送りした。"
               },
               {
                 "t": "p",
-                "x": "トン氏によれば、記録には未成年者を含むユーザーが「セラピスト」や「医師」を装ったチャットボットに、自傷や摂食障害、自殺念慮といった内密な話題を打ち明けたチャットも含まれる。"
+                "x": "SpaceXはStarmindプロジェクトを、地上のAI能力に「電力を供給するために宇宙で太陽エネルギーを集める」手段だと説明している。同社によると、StarmindはStarlinkと接続する高速レーザーで地球にデータを送る。衛星用チップは今後稼働するTerafab施設で生産する計画だ。"
               },
               {
                 "t": "p",
-                "x": "各州は、破産によって企業がプライバシー法の適用を免れるわけではないと主張する。裁判所に対し、提案された競売条件を退け、Smirksを優先入札者として認めず、同社が提案した$350,000の「break-up fee(解約手数料)」も却下するよう求めている。少なくとも、いかなる売却でも子どものチャットやその他の機微なデータは除外すべきだという。"
+                "x": "Googleは先月「Project Suncatcher」のAIサーバー衛星を打ち上げ、宇宙へのコンピューティング配置に向けた第一歩をすでに踏み出した。Jeff Bezos氏のBlue Originは2029年、Project Suncatcher専用の初の大型打ち上げを担う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "42位总检察长阻止\nCharacter.AI拍卖",
-          "body": "42位总检察长请求破产法院阻止在缺乏保障的情况下出售21M+ 个账户的聊天记录。",
-          "mini_headline": "多州反对Character.AI出售",
+          "headline": "FCC批准SpaceX\n轨道AI数据中心星座",
+          "body": "FCC批准SpaceX为轨道AI数据中心部署最多百万颗卫星的申请。",
+          "mini_headline": "FCC批准SpaceX轨道数据中心",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ctnewsjunkie.com/wp-content/uploads/2025/03/pexels-photo-9783353-e1790274392871.jpeg",
-                "cap": "CT正在挑战Character.AI拍卖用户信息的计划。Credit: Ron Lach / Pexels.com"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+                "cap": "图片：Mario Tama/Getty Images"
               },
               {
                 "t": "p",
-                "x": "总检察长威廉·汤(William Tong)正在挑战Character.AI拍卖其平台及超过21M 个U.S.（美国）账户私人聊天记录的计划。其中超过2.1M 个账户登记在未成年人名下。"
+                "x": "SpaceX希望借助“Starmind”星座为地球上的AI能力供电。"
               },
               {
                 "t": "p",
-                "x": "Character.AI计划于Dec. 1（12月1日）将所有聊天记录连同用户个人数据（包括IP地址和其他元数据）一并拍卖。汤表示，买家将无需遵从消费者删除其数据的请求。"
+                "x": "FCC周三宣布，已授权SpaceX部署最多100万颗搭载AI芯片的卫星，这是这家Elon Musk旗下公司“Starmind”计划的一部分。包括Google和Blue Origin在内，多家公司都在推进将AI数据中心送入太空的设想，而这是该机构首次批准由AI卫星组成的完整“星座”。"
               },
               {
                 "t": "p",
-                "x": "汤表示，康涅狄格州、其他41个州和哥伦比亚特区此前已反对向Disney单独出售许可，该联盟现正呼吁破产法院驳回此次出售。Character.AI的新闻代表未立即回复置评邮件。"
+                "x": "根据FCC的批准条件，SpaceX须在2033年前至少部署一颗卫星，并在2040年前达到100万颗卫星的目标。FCC还推迟处理SpaceX的一项请求，即把位于600km 以上的卫星送入太空“坟场”轨道处置，而不是让其在地球大气层中烧毁，理由是该公司未就处置流程计划提供“足够信息”。"
               },
               {
                 "t": "p",
-                "x": "据汤介绍，这些记录包括用户（包括未成年人）向假扮“治疗师”或“医生”的聊天机器人倾诉自残、饮食失调或自杀念头等私密话题的聊天内容。"
+                "x": "SpaceX将Starmind项目描述为一种“在太空收集太阳能，为”地球上的AI能力“供电”的方式。公司表示，Starmind将通过连接Starlink的高速激光向地球传输数据。它计划在即将建成的Terafab工厂生产卫星芯片。"
               },
               {
                 "t": "p",
-                "x": "各州认为，破产并不能让公司免受隐私法约束。他们请求法院否决拟议的拍卖条款，拒绝Smirks作为主要竞标方及其提出的$350,000“break-up fee”（分手费）。至少，任何出售都必须排除儿童聊天记录和其他敏感数据。"
+                "x": "Google上月发射了一颗“Project Suncatcher”AI服务器卫星，已迈出将算力送入太空的第一步。Jeff Bezos旗下的Blue Origin将于2029年为Project Suncatcher执行首次专用重型发射。"
               }
             ]
           }
         },
         "es": {
-          "headline": "42 fiscales buscan frenar la\nsubasta de chats de Character.AI",
-          "body": "42 fiscales generales pidieron a un tribunal de quiebras que impida vender sin salvaguardas chats de 21M+ cuentas.",
-          "mini_headline": "Los estados frenan la venta de Character.AI",
+          "headline": "La FCC aprueba la red orbital\nde centros de datos AI de SpaceX",
+          "body": "La FCC aprobó la solicitud de SpaceX para desplegar hasta un millón de satélites para centros de datos AI orbitales.",
+          "mini_headline": "La FCC autoriza los centros de datos orbitales de SpaceX",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ctnewsjunkie.com/wp-content/uploads/2025/03/pexels-photo-9783353-e1790274392871.jpeg",
-                "cap": "CT impugna un plan de Character.AI para subastar información de usuarios. Credit: Ron Lach / Pexels.com"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+                "cap": "Foto de Mario Tama/Getty Images"
               },
               {
                 "t": "p",
-                "x": "El fiscal general William Tong impugna el plan de Character.AI de subastar su plataforma y los historiales de chat privados de más de 21M de cuentas de U.S. Más de 2.1M de ellas están registradas a nombre de menores."
+                "x": "SpaceX busca alimentar capacidades de AI aquí en la Tierra con su constelación ‘Starmind’."
               },
               {
                 "t": "p",
-                "x": "Character.AI planea subastar el Dec. 1 (1 de diciembre) todos los chats, junto con los datos personales de los usuarios, incluidas las direcciones IP y otros metadatos. Quien los compre no tendría que atender las solicitudes de los consumidores para borrar sus datos, dijo Tong."
+                "x": "En un anuncio del miércoles, la FCC afirmó que autorizó a SpaceX a desplegar hasta 1 millón de satélites equipados con chips de AI como parte de la iniciativa “Starmind” de la empresa propiedad de Elon Musk. Aunque varias otras compañías, entre ellas Google y Blue Origin, también persiguen la idea de llevar centros de datos de AI al espacio, esta es la primera aprobación que la agencia concede para una “constelación” completa de satélites de AI."
               },
               {
                 "t": "p",
-                "x": "Tong dijo que Connecticut, otros 41 estados y el Distrito de Columbia se habían opuesto a una venta de licencia separada a Disney, y que el grupo pide ahora al tribunal de quiebras que rechace la venta. El representante de prensa de Character.AI no respondió de inmediato a un correo en el que se le pedían comentarios."
+                "x": "La aprobación de la FCC exige a SpaceX desplegar al menos un satélite antes de 2033 y alcanzar el hito de 1 millón de satélites antes de 2040. La FCC también aplazó la solicitud de SpaceX de deshacerse de los satélites situados por encima de 600km en órbitas “cementerio” en el espacio, en lugar de dejar que se desintegren en la atmósfera terrestre, al señalar que la empresa no ha aportado “información suficiente” sobre sus planes para ese proceso."
               },
               {
                 "t": "p",
-                "x": "Según Tong, los registros incluyen chats en los que usuarios, incluidos menores, compartieron temas íntimos como autolesiones, trastornos alimentarios o pensamientos suicidas con chatbots que se hacían pasar por “terapeuta” o “médico”."
+                "x": "SpaceX ha descrito su proyecto Starmind como una forma de “captar energía solar en el espacio para alimentar” capacidades de AI en la Tierra. La empresa afirma que Starmind transmitirá datos a la Tierra mediante láseres de alta velocidad conectados a Starlink. Prevé fabricar los chips de sus satélites en una futura instalación Terafab."
               },
               {
                 "t": "p",
-                "x": "Los estados sostienen que la quiebra no exime a una empresa de las leyes de privacidad. Piden al tribunal que rechace las condiciones propuestas para la subasta, que no acepte a Smirks como postor principal y que rechace la “break-up fee” de $350,000 que propone. Como mínimo, cualquier venta debe excluir los chats de menores y otros datos sensibles."
+                "x": "Google ya dio sus primeros pasos para llevar capacidad de cómputo al espacio con el lanzamiento, el mes pasado, de un satélite servidor de AI de “Project Suncatcher”. Blue Origin, de Jeff Bezos, realizará en 2029 el primer lanzamiento pesado dedicado para Project Suncatcher."
               }
             ]
           }
@@ -665,141 +585,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Character.AI의\n경매 막는 법무장관 42명",
-          "body": "법무장관 42명이 파산법원에 21M+ 계정 대화를 보호장치 없이 팔지 말라고 했다.",
-          "mini_headline": "주들, Character.AI 매각에 반대",
+          "headline": "FCC, SpaceX 궤도\nAI 데이터센터 승인",
+          "body": "FCC가 SpaceX 궤도 AI 데이터센터 위성 최대 백만 기를 승인했다.",
+          "mini_headline": "FCC, SpaceX 궤도 데이터센터 승인",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ctnewsjunkie.com/wp-content/uploads/2025/03/pexels-photo-9783353-e1790274392871.jpeg",
-                "cap": "CT는 사용자 정보를 경매에 부치려는 Character.AI의 계획에 맞서고 있다. Credit: Ron Lach / Pexels.com"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+                "cap": "사진: Mario Tama/Getty Images"
               },
               {
                 "t": "p",
-                "x": "윌리엄 통(William Tong) 법무장관은 플랫폼과 21M 개가 넘는 U.S.(미국) 계정의 비공개 대화 기록을 경매에 부치려는 Character.AI의 계획에 이의를 제기하고 있다. 그중 2.1M 개 이상은 미성년자 명의로 등록돼 있다."
+                "x": "SpaceX는 ‘Starmind’ 위성군으로 지구의 AI 역량에 전력을 공급하려 한다."
               },
               {
                 "t": "p",
-                "x": "Character.AI는 IP 주소와 기타 메타데이터를 포함한 사용자 개인정보와 함께 모든 대화를 Dec. 1(12월 1일)에 경매에 부칠 계획이다. 통 장관은 이를 사들인 쪽은 데이터를 삭제해 달라는 소비자 요청을 따르지 않아도 된다고 말했다."
+                "x": "FCC는 수요일 발표에서 Elon Musk 소유 회사인 SpaceX의 “Starmind” 계획의 하나로 AI 칩을 탑재한 위성을 최대 100만 기까지 배치하도록 허가했다고 밝혔다. Google과 Blue Origin을 비롯해 여러 기업이 우주에 AI 데이터센터를 두는 구상을 추진하고 있지만, FCC가 AI 위성으로 이뤄진 완전한 “위성군”을 승인한 것은 이번이 처음이다."
               },
               {
                 "t": "p",
-                "x": "통 장관에 따르면 코네티컷과 다른 41개 주, 컬럼비아 특별구는 Disney에 대한 별도의 라이선스 매각에 반대한 바 있으며, 이 연합은 이제 파산법원에 이번 매각을 거부하라고 요구하고 있다. Character.AI 홍보 담당자는 논평을 요청하는 이메일에 즉시 답하지 않았다."
+                "x": "FCC 승인에 따라 SpaceX는 2033년까지 위성을 적어도 한 기 배치하고, 2040년까지 100만 기 목표를 달성해야 한다. FCC는 또 600km 이상 고도의 위성을 지구 대기에서 태우지 않고 우주 “무덤” 궤도로 처분하겠다는 SpaceX의 요청에 대해서는 처분 절차 계획에 관한 “충분한 정보”를 내지 않았다며 판단을 미뤘다."
               },
               {
                 "t": "p",
-                "x": "통 장관에 따르면 기록에는 미성년자를 포함한 사용자들이 “치료사”나 “의사” 행세를 하는 챗봇에게 자해, 섭식장애, 자살 충동 같은 내밀한 주제를 털어놓은 대화도 들어 있다."
+                "x": "SpaceX는 Starmind 프로젝트를 지구의 AI 역량에 “전력을 공급하기 위해 우주에서 태양 에너지를 모으는” 방법이라고 설명했다. 회사는 Starmind가 Starlink와 연결되는 고속 레이저로 지구에 데이터를 보낼 것이라고 밝혔다. 위성용 칩은 앞으로 들어설 Terafab 시설에서 생산할 계획이다."
               },
               {
                 "t": "p",
-                "x": "주들은 파산했다고 기업이 개인정보 보호법에서 벗어나는 것은 아니라고 주장한다. 이들은 법원에 제안된 경매 조건을 기각하고, Smirks를 우선 입찰자로 인정하지 말며, Smirks가 제안한 $350,000의 “break-up fee(계약 파기 수수료)”도 거부하라고 요청한다. 최소한 어떤 매각이든 아동의 대화와 기타 민감한 데이터는 빼야 한다는 것이다."
+                "x": "Google은 지난달 “Project Suncatcher” AI 서버 위성을 발사하며 우주에 컴퓨팅을 올리는 첫걸음을 이미 뗐다. Jeff Bezos의 Blue Origin은 2029년 Project Suncatcher 전용 첫 대형 발사를 맡는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Character.AIの\n競売に司法長官42人が反対",
-          "body": "司法長官42人が破産裁判所に、21M+ アカウントの会話の無防備な売却阻止を求めた。",
-          "mini_headline": "州司法長官がCharacter.AI売却に反対",
+          "headline": "FCC、SpaceXの\n軌道AIデータセンター承認",
+          "body": "FCCは軌道AIデータセンター向けにSpaceXの衛星最大百万基の配備を承認した。",
+          "mini_headline": "FCC、SpaceX軌道データセンターを承認",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ctnewsjunkie.com/wp-content/uploads/2025/03/pexels-photo-9783353-e1790274392871.jpeg",
-                "cap": "CTは、ユーザー情報を競売にかけるCharacter.AIの計画に異議を唱えている。Credit: Ron Lach / Pexels.com"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+                "cap": "写真：Mario Tama/Getty Images"
               },
               {
                 "t": "p",
-                "x": "ウィリアム・トン(William Tong)司法長官は、プラットフォームと、21M 件を超えるU.S.(米国)アカウントの非公開チャット履歴を競売にかけるCharacter.AIの計画に異議を唱えている。そのうち2.1M 件超は未成年者の名義で登録されている。"
+                "x": "SpaceXは「Starmind」衛星群で地上のAI能力に電力を供給することを目指している。"
               },
               {
                 "t": "p",
-                "x": "Character.AIは、IPアドレスなどのメタデータを含むユーザーの個人データとともに、すべてのチャットをDec. 1(12月1日)に競売にかける計画だ。トン氏によれば、購入者はデータ削除を求める消費者の要請に応じる必要がない。"
+                "x": "FCCは水曜日の発表で、Elon Musk氏が所有するSpaceXの「Starmind」構想の一環として、AIチップを搭載した衛星を最大100万基配備することを認可したと明らかにした。GoogleやBlue Originなど複数の企業が宇宙にAIデータセンターを置く構想を進めているが、AI衛星による本格的な「コンステレーション」をFCCが承認したのは今回が初めてだ。"
               },
               {
                 "t": "p",
-                "x": "トン氏によると、コネティカット州とほかの41州、コロンビア特別区は、Disneyへの別個のライセンス売却に異議を申し立てており、この連合は現在、破産裁判所に売却を退けるよう求めている。Character.AIの広報担当者は、コメントを求めるメールにすぐには返信しなかった。"
+                "x": "承認の条件として、SpaceXは2033年までに少なくとも1基の衛星を配備し、2040年までに100万基の目標を達成しなければならない。FCCはまた、600km 以上の高度にある衛星を地球の大気圏で燃え尽きさせるのではなく宇宙の「墓場」軌道で処分したいというSpaceXの要請について、処分計画に関する「十分な情報」が示されていないとして判断を先送りした。"
               },
               {
                 "t": "p",
-                "x": "トン氏によれば、記録には未成年者を含むユーザーが「セラピスト」や「医師」を装ったチャットボットに、自傷や摂食障害、自殺念慮といった内密な話題を打ち明けたチャットも含まれる。"
+                "x": "SpaceXはStarmindプロジェクトを、地上のAI能力に「電力を供給するために宇宙で太陽エネルギーを集める」手段だと説明している。同社によると、StarmindはStarlinkと接続する高速レーザーで地球にデータを送る。衛星用チップは今後稼働するTerafab施設で生産する計画だ。"
               },
               {
                 "t": "p",
-                "x": "各州は、破産によって企業がプライバシー法の適用を免れるわけではないと主張する。裁判所に対し、提案された競売条件を退け、Smirksを優先入札者として認めず、同社が提案した$350,000の「break-up fee(解約手数料)」も却下するよう求めている。少なくとも、いかなる売却でも子どものチャットやその他の機微なデータは除外すべきだという。"
+                "x": "Googleは先月「Project Suncatcher」のAIサーバー衛星を打ち上げ、宇宙へのコンピューティング配置に向けた第一歩をすでに踏み出した。Jeff Bezos氏のBlue Originは2029年、Project Suncatcher専用の初の大型打ち上げを担う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "42位总检察长阻止\nCharacter.AI拍卖",
-          "body": "42位总检察长请求破产法院阻止在缺乏保障的情况下出售21M+ 个账户的聊天记录。",
-          "mini_headline": "多州反对Character.AI出售",
+          "headline": "FCC批准SpaceX\n轨道AI数据中心星座",
+          "body": "FCC批准SpaceX为轨道AI数据中心部署最多百万颗卫星的申请。",
+          "mini_headline": "FCC批准SpaceX轨道数据中心",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ctnewsjunkie.com/wp-content/uploads/2025/03/pexels-photo-9783353-e1790274392871.jpeg",
-                "cap": "CT正在挑战Character.AI拍卖用户信息的计划。Credit: Ron Lach / Pexels.com"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+                "cap": "图片：Mario Tama/Getty Images"
               },
               {
                 "t": "p",
-                "x": "总检察长威廉·汤(William Tong)正在挑战Character.AI拍卖其平台及超过21M 个U.S.（美国）账户私人聊天记录的计划。其中超过2.1M 个账户登记在未成年人名下。"
+                "x": "SpaceX希望借助“Starmind”星座为地球上的AI能力供电。"
               },
               {
                 "t": "p",
-                "x": "Character.AI计划于Dec. 1（12月1日）将所有聊天记录连同用户个人数据（包括IP地址和其他元数据）一并拍卖。汤表示，买家将无需遵从消费者删除其数据的请求。"
+                "x": "FCC周三宣布，已授权SpaceX部署最多100万颗搭载AI芯片的卫星，这是这家Elon Musk旗下公司“Starmind”计划的一部分。包括Google和Blue Origin在内，多家公司都在推进将AI数据中心送入太空的设想，而这是该机构首次批准由AI卫星组成的完整“星座”。"
               },
               {
                 "t": "p",
-                "x": "汤表示，康涅狄格州、其他41个州和哥伦比亚特区此前已反对向Disney单独出售许可，该联盟现正呼吁破产法院驳回此次出售。Character.AI的新闻代表未立即回复置评邮件。"
+                "x": "根据FCC的批准条件，SpaceX须在2033年前至少部署一颗卫星，并在2040年前达到100万颗卫星的目标。FCC还推迟处理SpaceX的一项请求，即把位于600km 以上的卫星送入太空“坟场”轨道处置，而不是让其在地球大气层中烧毁，理由是该公司未就处置流程计划提供“足够信息”。"
               },
               {
                 "t": "p",
-                "x": "据汤介绍，这些记录包括用户（包括未成年人）向假扮“治疗师”或“医生”的聊天机器人倾诉自残、饮食失调或自杀念头等私密话题的聊天内容。"
+                "x": "SpaceX将Starmind项目描述为一种“在太空收集太阳能，为”地球上的AI能力“供电”的方式。公司表示，Starmind将通过连接Starlink的高速激光向地球传输数据。它计划在即将建成的Terafab工厂生产卫星芯片。"
               },
               {
                 "t": "p",
-                "x": "各州认为，破产并不能让公司免受隐私法约束。他们请求法院否决拟议的拍卖条款，拒绝Smirks作为主要竞标方及其提出的$350,000“break-up fee”（分手费）。至少，任何出售都必须排除儿童聊天记录和其他敏感数据。"
+                "x": "Google上月发射了一颗“Project Suncatcher”AI服务器卫星，已迈出将算力送入太空的第一步。Jeff Bezos旗下的Blue Origin将于2029年为Project Suncatcher执行首次专用重型发射。"
               }
             ]
           }
         },
         "es": {
-          "headline": "42 fiscales buscan frenar la\nsubasta de chats de Character.AI",
-          "body": "42 fiscales generales pidieron a un tribunal de quiebras que impida vender sin salvaguardas chats de 21M+ cuentas.",
-          "mini_headline": "Los estados frenan la venta de Character.AI",
+          "headline": "La FCC aprueba la red orbital\nde centros de datos AI de SpaceX",
+          "body": "La FCC aprobó la solicitud de SpaceX para desplegar hasta un millón de satélites para centros de datos AI orbitales.",
+          "mini_headline": "La FCC autoriza los centros de datos orbitales de SpaceX",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ctnewsjunkie.com/wp-content/uploads/2025/03/pexels-photo-9783353-e1790274392871.jpeg",
-                "cap": "CT impugna un plan de Character.AI para subastar información de usuarios. Credit: Ron Lach / Pexels.com"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+                "cap": "Foto de Mario Tama/Getty Images"
               },
               {
                 "t": "p",
-                "x": "El fiscal general William Tong impugna el plan de Character.AI de subastar su plataforma y los historiales de chat privados de más de 21M de cuentas de U.S. Más de 2.1M de ellas están registradas a nombre de menores."
+                "x": "SpaceX busca alimentar capacidades de AI aquí en la Tierra con su constelación ‘Starmind’."
               },
               {
                 "t": "p",
-                "x": "Character.AI planea subastar el Dec. 1 (1 de diciembre) todos los chats, junto con los datos personales de los usuarios, incluidas las direcciones IP y otros metadatos. Quien los compre no tendría que atender las solicitudes de los consumidores para borrar sus datos, dijo Tong."
+                "x": "En un anuncio del miércoles, la FCC afirmó que autorizó a SpaceX a desplegar hasta 1 millón de satélites equipados con chips de AI como parte de la iniciativa “Starmind” de la empresa propiedad de Elon Musk. Aunque varias otras compañías, entre ellas Google y Blue Origin, también persiguen la idea de llevar centros de datos de AI al espacio, esta es la primera aprobación que la agencia concede para una “constelación” completa de satélites de AI."
               },
               {
                 "t": "p",
-                "x": "Tong dijo que Connecticut, otros 41 estados y el Distrito de Columbia se habían opuesto a una venta de licencia separada a Disney, y que el grupo pide ahora al tribunal de quiebras que rechace la venta. El representante de prensa de Character.AI no respondió de inmediato a un correo en el que se le pedían comentarios."
+                "x": "La aprobación de la FCC exige a SpaceX desplegar al menos un satélite antes de 2033 y alcanzar el hito de 1 millón de satélites antes de 2040. La FCC también aplazó la solicitud de SpaceX de deshacerse de los satélites situados por encima de 600km en órbitas “cementerio” en el espacio, en lugar de dejar que se desintegren en la atmósfera terrestre, al señalar que la empresa no ha aportado “información suficiente” sobre sus planes para ese proceso."
               },
               {
                 "t": "p",
-                "x": "Según Tong, los registros incluyen chats en los que usuarios, incluidos menores, compartieron temas íntimos como autolesiones, trastornos alimentarios o pensamientos suicidas con chatbots que se hacían pasar por “terapeuta” o “médico”."
+                "x": "SpaceX ha descrito su proyecto Starmind como una forma de “captar energía solar en el espacio para alimentar” capacidades de AI en la Tierra. La empresa afirma que Starmind transmitirá datos a la Tierra mediante láseres de alta velocidad conectados a Starlink. Prevé fabricar los chips de sus satélites en una futura instalación Terafab."
               },
               {
                 "t": "p",
-                "x": "Los estados sostienen que la quiebra no exime a una empresa de las leyes de privacidad. Piden al tribunal que rechace las condiciones propuestas para la subasta, que no acepte a Smirks como postor principal y que rechace la “break-up fee” de $350,000 que propone. Como mínimo, cualquier venta debe excluir los chats de menores y otros datos sensibles."
+                "x": "Google ya dio sus primeros pasos para llevar capacidad de cómputo al espacio con el lanzamiento, el mes pasado, de un satélite servidor de AI de “Project Suncatcher”. Blue Origin, de Jeff Bezos, realizará en 2029 el primer lanzamiento pesado dedicado para Project Suncatcher."
               }
             ]
           }
@@ -807,237 +727,291 @@
       }
     },
     {
-      "id": "ico-meta-muse-agent",
+      "id": "japan-ai-power-security-docs",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "UK 규제당국, Meta에\nMuse AI 약속 받아",
-      "body": "ICO가 Muse UK 출시 전 Meta 의무를 짚고 자발적 보고 약속을 받아냈다.",
-      "mini_headline": "ICO, Meta Muse에 조건 제시",
+      "headline": "일본, AI 강국 목표\n안보문서에 담는다",
+      "body": "일본이 미국(US)·중국 다음가는 AI 강국 목표를 안보문서 세 건에 넣는다.",
+      "mini_headline": "일본, AI 강국 목표 설정",
       "tool": "Politics",
-      "source": "Information Commissioner's Office (UK)",
-      "url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/statement-on-uk-launch-of-meta-muse/",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/ai-nation-aim/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "폴 아널드(Paul Arnold) CEO: “Meta가 UK에서 Muse AI 제품을 출시한 사실을 알고 있다."
+            "t": "img",
+            "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
+            "cap": "정부는 연내 핵심 국가안보 문서 세 건을 고치며 AI 강국 목표를 담을 예정이다. | REUTERS"
           },
           {
             "t": "p",
-            "x": "에이전틱 AI는 일상 업무 시간을 아껴 주는 일부터 경제 전반의 혁신과 성장을 이끄는 일까지 개인과 기업에 큰 이익을 줄 잠재력이 있다. 사람들이 이런 기술을 안심하고 누리려면 소비자용 에이전틱 제품은 처음부터 개인정보 보호를 염두에 두고 설계돼야 한다."
+            "x": "일본이 미국과 중국에 이은 인공지능 선도국이 되겠다는 목표를 공식화한다고 수요일 알려졌다."
           },
           {
             "t": "p",
-            "x": "우리는 출시에 앞서 데이터 보호법상 Meta가 져야 할 책임을 분명히 전달했다. 특히 이용자와 일반 대중이 Muse 제품에서 자기 개인정보가 어떻게 쓰이는지 실제로 이해하고 통제할 수 있어야 한다는 요건이다."
+            "x": "정부는 연내 핵심 국가안보 문서 세 건을 개정하면서 이 목표를 넣을 방침이다."
           },
           {
             "t": "p",
-            "x": "Meta는 ICO와 함께하는 자발적 모니터링·보고 체계에 참여하기로 약속했다. 덕분에 우리는 개발 과정에서 기술과 이용자 경험, 피드백을 면밀히 살필 수 있다."
+            "x": "정부가 수요일 집권 자민당 회의에 개정 문서 중 경제안보 부분의 개요를 내놓았고, 당은 대체로 이를 승인했다."
           },
           {
             "t": "p",
-            "x": "AI 에이전트를 개발하거나 배포하는 여느 조직처럼 Meta도 자사 제품이 UK 데이터 보호법을 완전히 지키도록 할 책임이 있다."
+            "x": "개요를 보면 개정 문서는 외교와 국방이 경제력·기술력에 달렸다고 짚는다. AI 분야에서 일본이 다른 나라에 기대는 정도를 줄여야 한다는 점도 명시한다."
           },
           {
             "t": "p",
-            "x": "우리는 소비자용 에이전틱 AI 제품에 거는 초기 기대 사항을 내놓았다. 소비자용 AI에서 생기는 위험을 이해하고 관리하는 작업도 진행 중이다."
+            "x": "자율주행과 피지컬 AI 기술에 집중 투자하는 계획도 들어간다. 기술 우위를 다져 일본을 다른 나라가 없어서는 안 될 존재로 만든다는 목표다."
           },
           {
             "t": "p",
-            "x": "에이전틱 AI 제품 출시 전반도 더 넓게 들여다보고 있다. 사람들의 권리를 지키면서 책임 있는 혁신을 돕기 위해 주요 AI 개발사·배포사와 계속 소통한다.”"
+            "x": "일본은 에너지, 식량, 의료 등 전략 물자의 위험을 평가하고 믿을 만한 국가·지역과 손잡고 공급망을 다진다. 경제 논리만으로는 안정적으로 공급하기 어려운 분야에는 국가 지원을 늘린다."
+          },
+          {
+            "t": "p",
+            "x": "경제적 강압에 흔들리지 않는 공정하고 예측 가능한 국제 경제 질서가 필요하다는 강조도 담겼다. 중국의 수출 규제를 겨냥한 대목으로 보인다."
+          },
+          {
+            "t": "p",
+            "x": "‘자유롭고 열린 인도·태평양(Free and Open Indo-Pacific)’ 구상을 밀고 나가 집단 회복력을 키워야 한다는 주문도 들어 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "UK regulator secures Meta\npledge on Muse AI agent",
-          "body": "Before Muse's UK launch, the ICO spelled out Meta's privacy duties and won a voluntary monitoring and reporting pledge.",
-          "mini_headline": "ICO sets terms for Meta Muse",
+          "headline": "Japan to write AI power goal\ninto its security documents",
+          "body": "Japan will write its aim of becoming a leading AI nation after the US and China into its three key security documents.",
+          "mini_headline": "Japan sets AI power goal",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Paul Arnold, CEO: “We are aware that Meta has launched its Muse AI product in the UK."
+                "t": "img",
+                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
+                "cap": "The government will include the goal of becoming a leading artificial intelligence nation when it revises the country's three key national security documents later this year. | REUTERS"
               },
               {
                 "t": "p",
-                "x": "Agentic AI has significant potential to benefit people and businesses, from saving time on everyday tasks to driving innovation and growth across the economy. For people to benefit from these technologies with confidence, privacy must be built into consumer-facing agentic products from the outset."
+                "x": "Japan will declare its aim to become a leading artificial intelligence nation after the United States and China, it was learned Wednesday."
               },
               {
                 "t": "p",
-                "x": "We have been clear with Meta about its responsibilities under data protection law prior to launch, particularly the requirement to ensure that users and the wider public can meaningfully understand and control how their personal data is used in the Muse product."
+                "x": "The government will include this goal when it revises the country’s three key national security documents later this year."
               },
               {
                 "t": "p",
-                "x": "Meta has committed to a voluntary monitoring and reporting scheme with the ICO to ensure we can scrutinise the technology, the user experience and feedback as it is developing."
+                "x": "On Wednesday, the government presented an outline of the economic security sections of the revised documents at a meeting of the ruling Liberal Democratic Party and obtained broad approval."
               },
               {
                 "t": "p",
-                "x": "Like any organisation developing or deploying AI agents, Meta is responsible for ensuring that its products fully comply with UK data protection law."
+                "x": "According to the outline, the revised documents will call for reducing Japan’s AI reliance on other countries, noting that diplomacy and national defense will depend on economic and technological capabilities."
               },
               {
                 "t": "p",
-                "x": "We have set out our initial expectations about consumer facing agentic AI products, as well as the work under way to understand and manage emerging risks from consumer-facing AI."
+                "x": "The revised documents will also include plans to invest intensively in automated driving and physical AI technologies, as well as the goal of acquiring a technological advantage that renders Japan indispensable to other countries."
               },
               {
                 "t": "p",
-                "x": "We are monitoring the rollout of agentic AI products more broadly and continue to engage with major AI developers and deployers to support responsible innovation while ensuring people’s rights are protected.”"
+                "x": "Under the revised documents, Japan will conduct risk assessments for energy, food, medical and other strategic goods and strengthen supply chains through collaboration with reliable countries and regions. The government will increase state support where economic rationality prevents stable supplies."
+              },
+              {
+                "t": "p",
+                "x": "The revised documents will emphasize the need for a fair and predictable international economic order that is not affected by economic coercion, apparently referring to China’s export restrictions."
+              },
+              {
+                "t": "p",
+                "x": "They will also call for establishing collective resilience by advancing the Free and Open Indo-Pacific vision."
               }
             ]
           }
         },
         "ko": {
-          "headline": "UK 규제당국, Meta에\nMuse AI 약속 받아",
-          "body": "ICO가 Muse UK 출시 전 Meta 의무를 짚고 자발적 보고 약속을 받아냈다.",
-          "mini_headline": "ICO, Meta Muse에 조건 제시",
+          "headline": "일본, AI 강국 목표\n안보문서에 담는다",
+          "body": "일본이 미국(US)·중국 다음가는 AI 강국 목표를 안보문서 세 건에 넣는다.",
+          "mini_headline": "일본, AI 강국 목표 설정",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "폴 아널드(Paul Arnold) CEO: “Meta가 UK에서 Muse AI 제품을 출시한 사실을 알고 있다."
+                "t": "img",
+                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
+                "cap": "정부는 연내 핵심 국가안보 문서 세 건을 고치며 AI 강국 목표를 담을 예정이다. | REUTERS"
               },
               {
                 "t": "p",
-                "x": "에이전틱 AI는 일상 업무 시간을 아껴 주는 일부터 경제 전반의 혁신과 성장을 이끄는 일까지 개인과 기업에 큰 이익을 줄 잠재력이 있다. 사람들이 이런 기술을 안심하고 누리려면 소비자용 에이전틱 제품은 처음부터 개인정보 보호를 염두에 두고 설계돼야 한다."
+                "x": "일본이 미국과 중국에 이은 인공지능 선도국이 되겠다는 목표를 공식화한다고 수요일 알려졌다."
               },
               {
                 "t": "p",
-                "x": "우리는 출시에 앞서 데이터 보호법상 Meta가 져야 할 책임을 분명히 전달했다. 특히 이용자와 일반 대중이 Muse 제품에서 자기 개인정보가 어떻게 쓰이는지 실제로 이해하고 통제할 수 있어야 한다는 요건이다."
+                "x": "정부는 연내 핵심 국가안보 문서 세 건을 개정하면서 이 목표를 넣을 방침이다."
               },
               {
                 "t": "p",
-                "x": "Meta는 ICO와 함께하는 자발적 모니터링·보고 체계에 참여하기로 약속했다. 덕분에 우리는 개발 과정에서 기술과 이용자 경험, 피드백을 면밀히 살필 수 있다."
+                "x": "정부가 수요일 집권 자민당 회의에 개정 문서 중 경제안보 부분의 개요를 내놓았고, 당은 대체로 이를 승인했다."
               },
               {
                 "t": "p",
-                "x": "AI 에이전트를 개발하거나 배포하는 여느 조직처럼 Meta도 자사 제품이 UK 데이터 보호법을 완전히 지키도록 할 책임이 있다."
+                "x": "개요를 보면 개정 문서는 외교와 국방이 경제력·기술력에 달렸다고 짚는다. AI 분야에서 일본이 다른 나라에 기대는 정도를 줄여야 한다는 점도 명시한다."
               },
               {
                 "t": "p",
-                "x": "우리는 소비자용 에이전틱 AI 제품에 거는 초기 기대 사항을 내놓았다. 소비자용 AI에서 생기는 위험을 이해하고 관리하는 작업도 진행 중이다."
+                "x": "자율주행과 피지컬 AI 기술에 집중 투자하는 계획도 들어간다. 기술 우위를 다져 일본을 다른 나라가 없어서는 안 될 존재로 만든다는 목표다."
               },
               {
                 "t": "p",
-                "x": "에이전틱 AI 제품 출시 전반도 더 넓게 들여다보고 있다. 사람들의 권리를 지키면서 책임 있는 혁신을 돕기 위해 주요 AI 개발사·배포사와 계속 소통한다.”"
+                "x": "일본은 에너지, 식량, 의료 등 전략 물자의 위험을 평가하고 믿을 만한 국가·지역과 손잡고 공급망을 다진다. 경제 논리만으로는 안정적으로 공급하기 어려운 분야에는 국가 지원을 늘린다."
+              },
+              {
+                "t": "p",
+                "x": "경제적 강압에 흔들리지 않는 공정하고 예측 가능한 국제 경제 질서가 필요하다는 강조도 담겼다. 중국의 수출 규제를 겨냥한 대목으로 보인다."
+              },
+              {
+                "t": "p",
+                "x": "‘자유롭고 열린 인도·태평양(Free and Open Indo-Pacific)’ 구상을 밀고 나가 집단 회복력을 키워야 한다는 주문도 들어 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UK規制当局、Metaから\nMuse AIで確約を得る",
-          "body": "ICOはMuseのUK投入前にMetaの義務を示し、自主的な監視・報告の確約を得た。",
-          "mini_headline": "ICO、Meta Museに条件",
+          "headline": "日本、AI大国の目標を\n安保文書に明記へ",
+          "body": "日本は米国(US)と中国に次ぐAI大国を目指す方針を安保関連三文書に明記する。",
+          "mini_headline": "日本、AI大国目標を設定",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "ポール・アーノルド(Paul Arnold)CEO:「MetaがUKでMuse AI製品を投入したことは把握している。"
+                "t": "img",
+                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
+                "cap": "政府は年内に国家安全保障関連の三文書を改定する際、AI先進国を目指す目標を盛り込む。| REUTERS"
               },
               {
                 "t": "p",
-                "x": "エージェント型AIは、日々の作業の時間短縮から経済全体のイノベーションと成長の促進まで、人々や企業に大きな恩恵をもたらす可能性がある。人々が安心してこうした技術の恩恵を受けるには、消費者向けエージェント製品に最初からプライバシーが組み込まれていなければならない。"
+                "x": "日本が米国、中国に次ぐ人工知能の先進国を目指す方針を打ち出すことが水曜日、分かった。"
               },
               {
                 "t": "p",
-                "x": "われわれは投入前に、データ保護法上のMetaの責任、とりわけ利用者や広く一般の人々がMuse製品で自分の個人データがどう使われるかを実質的に理解し管理できるようにする要件について、Metaに明確に伝えてきた。"
+                "x": "政府は年内に予定する国家安全保障関連の三文書の改定で、この目標を盛り込む。"
               },
               {
                 "t": "p",
-                "x": "Metaは、開発の進行に合わせてわれわれが技術や利用者体験、フィードバックを精査できるよう、ICOとの自主的な監視・報告の枠組みに参加することを約束した。"
+                "x": "政府は水曜日、与党・自民党の会合で改定文書のうち経済安全保障部分の概要を示し、おおむね了承を得た。"
               },
               {
                 "t": "p",
-                "x": "AIエージェントを開発・展開するあらゆる組織と同様に、Metaは自社製品がUKのデータ保護法を完全に順守するよう確保する責任を負う。"
+                "x": "概要によると、改定文書は外交や防衛が経済力と技術力に左右されると指摘し、AIにおける日本の他国依存を減らすよう求める。"
               },
               {
                 "t": "p",
-                "x": "われわれは消費者向けエージェント型AI製品に対する当初の期待と、消費者向けAIから生じる新たなリスクを理解し管理するために進めている取り組みを示した。"
+                "x": "改定文書には、自動運転やフィジカルAI技術への集中投資の計画に加え、日本が他国にとって不可欠となる技術的優位を確保する目標も盛り込まれる。"
               },
               {
                 "t": "p",
-                "x": "われわれはエージェント型AI製品の展開をより広く注視しており、人々の権利を守りつつ責任あるイノベーションを支えるため、主要なAI開発者や導入事業者と引き続き対話している。」"
+                "x": "改定文書の下で、日本はエネルギーや食料、医療などの戦略物資のリスク評価を行い、信頼できる国・地域との連携でサプライチェーンを強化する。経済合理性から安定供給が難しい分野では国の支援を拡大する。"
+              },
+              {
+                "t": "p",
+                "x": "改定文書は、経済的威圧に左右されない公正で予見可能な国際経済秩序の必要性を強調する。中国の輸出規制を念頭に置いたものとみられる。"
+              },
+              {
+                "t": "p",
+                "x": "また「自由で開かれたインド太平洋(Free and Open Indo-Pacific)」構想を推進し、集団的な強靱性を築くよう求める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UK监管机构获Meta\nMuse AI智能体承诺",
-          "body": "Muse在UK上线前，ICO阐明了Meta的隐私义务，并获得其自愿监测和报告的承诺。",
-          "mini_headline": "ICO为Meta Muse定条件",
+          "headline": "日本拟将AI强国目标\n写入安全文件",
+          "body": "日本将把成为仅次于美国(US)和中国的AI强国目标写入三份关键安全文件。",
+          "mini_headline": "日本设定AI强国目标",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "CEO保罗·阿诺德(Paul Arnold)：“我们注意到Meta已在UK推出其Muse AI产品。"
+                "t": "img",
+                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
+                "cap": "政府将在今年晚些时候修订三份关键国家安全文件时，写入成为领先人工智能国家的目标。| REUTERS"
               },
               {
                 "t": "p",
-                "x": "智能体AI在为个人和企业带来益处方面潜力巨大，从节省日常事务时间到推动整个经济的创新与增长。要让人们放心地从这些技术中受益，面向消费者的智能体产品必须从一开始就内置隐私保护。"
+                "x": "周三获悉，日本将宣布以成为仅次于美国和中国的领先人工智能国家为目标。"
               },
               {
                 "t": "p",
-                "x": "我们在产品上线前已向Meta明确其在数据保护法下的责任，特别是必须确保用户和广大公众能够切实了解并控制其个人数据在Muse产品中如何被使用。"
+                "x": "政府将在今年晚些时候修订三份关键国家安全文件时纳入这一目标。"
               },
               {
                 "t": "p",
-                "x": "Meta已承诺与ICO共同实施一项自愿监测和报告机制，以确保我们能够在开发过程中审视技术本身、用户体验及反馈。"
+                "x": "周三，政府在执政的自民党会议上提交了修订文件中经济安全部分的大纲，并获得普遍认可。"
               },
               {
                 "t": "p",
-                "x": "与任何开发或部署AI智能体的组织一样，Meta有责任确保其产品完全符合UK数据保护法。"
+                "x": "根据大纲，修订文件指出外交和国防将取决于经济和技术实力，并呼吁减少日本在AI方面对其他国家的依赖。"
               },
               {
                 "t": "p",
-                "x": "我们已提出对面向消费者的智能体AI产品的初步期望，以及为理解和管理面向消费者的AI所带来的新兴风险而正在开展的工作。"
+                "x": "修订文件还将纳入在自动驾驶和物理AI技术领域集中投资的计划，以及获取让日本对其他国家不可或缺的技术优势这一目标。"
               },
               {
                 "t": "p",
-                "x": "我们正在更广泛地监测智能体AI产品的推出情况，并继续与主要AI开发者和部署者保持沟通，以在保障人们权利的同时支持负责任的创新。”"
+                "x": "根据修订文件，日本将对能源、粮食、医疗等战略物资开展风险评估，并通过与可信赖的国家和地区合作加强供应链。在经济合理性导致难以稳定供应的领域，政府将加大国家支持。"
+              },
+              {
+                "t": "p",
+                "x": "修订文件将强调，需要一个不受经济胁迫影响、公平且可预期的国际经济秩序，这显然是指中国的出口限制。"
+              },
+              {
+                "t": "p",
+                "x": "文件还将呼吁通过推进“自由开放的印太(Free and Open Indo-Pacific)”构想来建立集体韧性。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El regulador británico obtiene\ncompromiso de Meta sobre Muse AI",
-          "body": "Antes del estreno de Muse en UK, la ICO fijó a Meta sus deberes de privacidad y logró un pacto voluntario de control.",
-          "mini_headline": "La ICO fija condiciones a Meta Muse",
+          "headline": "Japón inscribirá su meta de AI\nen sus documentos de seguridad",
+          "body": "Japón incluirá en sus tres documentos clave de seguridad la meta de ser potencia AI tras Estados Unidos (US) y China.",
+          "mini_headline": "Japón fija su meta de potencia AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Paul Arnold, CEO: “Sabemos que Meta ha lanzado su producto Muse AI en el Reino Unido (UK)."
+                "t": "img",
+                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
+                "cap": "El gobierno incluirá la meta de convertirse en una nación líder en inteligencia artificial cuando revise los tres documentos clave de seguridad nacional del país a finales de este año. | REUTERS"
               },
               {
                 "t": "p",
-                "x": "La IA agéntica tiene un gran potencial para beneficiar a personas y empresas, desde ahorrar tiempo en tareas cotidianas hasta impulsar la innovación y el crecimiento en toda la economía. Para que las personas se beneficien de estas tecnologías con confianza, la privacidad debe estar integrada desde el inicio en los productos agénticos dirigidos al consumidor."
+                "x": "Japón declarará su aspiración de convertirse en una nación líder en inteligencia artificial, después de Estados Unidos y China, según se supo el miércoles."
               },
               {
                 "t": "p",
-                "x": "Antes del lanzamiento, hemos sido claros con Meta sobre sus responsabilidades en virtud de la ley de protección de datos, en particular la obligación de garantizar que los usuarios y el público en general puedan comprender y controlar de forma efectiva cómo se usan sus datos personales en el producto Muse."
+                "x": "El gobierno incluirá esta meta cuando revise los tres documentos clave de seguridad nacional del país a finales de este año."
               },
               {
                 "t": "p",
-                "x": "Meta se ha comprometido a un esquema voluntario de supervisión e informes con la ICO para que podamos examinar la tecnología, la experiencia de usuario y los comentarios a medida que se desarrolla."
+                "x": "El miércoles, el gobierno presentó un esbozo de las secciones de seguridad económica de los documentos revisados en una reunión del gobernante Partido Liberal Democrático y obtuvo una amplia aprobación."
               },
               {
                 "t": "p",
-                "x": "Como cualquier organización que desarrolle o despliegue agentes de IA, Meta es responsable de garantizar que sus productos cumplan plenamente la ley de protección de datos de UK."
+                "x": "Según el esbozo, los documentos revisados pedirán reducir la dependencia de Japón de otros países en AI, y señalan que la diplomacia y la defensa nacional dependerán de las capacidades económicas y tecnológicas."
               },
               {
                 "t": "p",
-                "x": "Hemos expuesto nuestras expectativas iniciales sobre los productos de IA agéntica dirigidos al consumidor, así como el trabajo en curso para comprender y gestionar los riesgos emergentes de la IA orientada al consumidor."
+                "x": "Los documentos revisados también incluirán planes para invertir de forma intensiva en conducción automatizada y tecnologías de AI física, así como la meta de lograr una ventaja tecnológica que haga a Japón indispensable para otros países."
               },
               {
                 "t": "p",
-                "x": "Seguimos de forma más amplia el despliegue de productos de IA agéntica y continuamos colaborando con los principales desarrolladores e implementadores de IA para apoyar la innovación responsable y garantizar la protección de los derechos de las personas”."
+                "x": "Con los documentos revisados, Japón realizará evaluaciones de riesgo de la energía, los alimentos, los productos médicos y otros bienes estratégicos, y reforzará las cadenas de suministro mediante la colaboración con países y regiones fiables. El gobierno aumentará el apoyo estatal donde la racionalidad económica impida un suministro estable."
+              },
+              {
+                "t": "p",
+                "x": "Los documentos revisados subrayarán la necesidad de un orden económico internacional justo y predecible que no se vea afectado por la coerción económica, en aparente referencia a las restricciones a la exportación de China."
+              },
+              {
+                "t": "p",
+                "x": "También pedirán construir una resiliencia colectiva mediante el impulso de la visión de un Indo-Pacífico Libre y Abierto (Free and Open Indo-Pacific)."
               }
             ]
           }
@@ -1045,153 +1019,189 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "UK 규제당국, Meta에\nMuse AI 약속 받아",
-          "body": "ICO는 Muse UK 출시 전 Meta 의무를 밝히고 자발적 보고 약속을 받았다.",
-          "mini_headline": "ICO, Meta Muse에 조건 제시",
+          "headline": "일본, AI 강국 목표\n안보문서에 명기한다",
+          "body": "일본이 미국(US)과 중국에 이은 AI 강국 목표를 안보문서 세 건에 담는다.",
+          "mini_headline": "일본, AI 강국 목표 설정",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "폴 아널드(Paul Arnold) CEO: “Meta가 UK에서 Muse AI 제품을 출시한 사실을 알고 있다."
+                "t": "img",
+                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
+                "cap": "정부는 올해 안에 핵심 국가안보 문서 세 건을 개정하면서 AI 강국이 되겠다는 목표를 담을 예정이다. | REUTERS"
               },
               {
                 "t": "p",
-                "x": "에이전틱 AI는 일상 업무의 시간을 아끼는 일부터 경제 전반의 혁신과 성장을 이끄는 일까지, 개인과 기업에 큰 이익을 줄 잠재력이 있다. 사람들이 이런 기술의 혜택을 안심하고 누리려면 소비자용 에이전틱 제품에 처음부터 개인정보 보호가 설계돼 있어야 한다."
+                "x": "일본이 미국과 중국에 이어 선도적인 인공지능 국가가 되겠다는 목표를 공식화할 것으로 수요일 알려졌다."
               },
               {
                 "t": "p",
-                "x": "우리는 출시 전에 데이터 보호법상 Meta의 책임, 특히 이용자와 일반 대중이 Muse 제품에서 자신의 개인정보가 어떻게 쓰이는지 실질적으로 이해하고 통제할 수 있게 해야 한다는 요건을 Meta에 분명히 전달했다."
+                "x": "정부는 올해 안에 핵심 국가안보 문서 세 건을 개정하면서 이 목표를 포함할 방침이다."
               },
               {
                 "t": "p",
-                "x": "Meta는 기술과 이용자 경험, 피드백을 개발 과정에서 우리가 면밀히 살필 수 있도록 ICO와 함께하는 자발적 모니터링·보고 체계에 참여하기로 약속했다."
+                "x": "정부는 수요일 집권 자민당 회의에서 개정 문서 가운데 경제안보 부분의 개요를 제시했고, 대체로 승인을 얻었다."
               },
               {
                 "t": "p",
-                "x": "AI 에이전트를 개발하거나 배포하는 모든 조직과 마찬가지로, Meta는 자사 제품이 UK 데이터 보호법을 완전히 준수하도록 할 책임이 있다."
+                "x": "개요에 따르면 개정 문서는 외교와 국방이 경제력과 기술력에 달려 있다고 짚으며, AI 분야에서 다른 나라에 대한 일본의 의존을 줄여야 한다고 명시한다."
               },
               {
                 "t": "p",
-                "x": "우리는 소비자용 에이전틱 AI 제품에 대한 초기 기대 사항과 함께, 소비자용 AI에서 생겨나는 위험을 이해하고 관리하기 위해 진행 중인 작업을 제시했다."
+                "x": "개정 문서에는 자율주행과 피지컬 AI 기술에 집중 투자하는 계획과 함께, 일본이 다른 나라에 없어서는 안 될 존재가 되도록 기술 우위를 확보한다는 목표도 담긴다."
               },
               {
                 "t": "p",
-                "x": "우리는 에이전틱 AI 제품의 출시 전반을 더 넓게 살피고 있으며, 사람들의 권리를 보호하면서 책임 있는 혁신을 지원하기 위해 주요 AI 개발사·배포사와 계속 소통하고 있다.”"
+                "x": "개정 문서에 따라 일본은 에너지, 식량, 의료 등 전략 물자에 대한 위험 평가를 실시하고, 신뢰할 수 있는 국가·지역과 협력해 공급망을 강화한다. 경제적 합리성 때문에 안정적 공급이 어려운 분야에는 국가 지원을 늘린다."
+              },
+              {
+                "t": "p",
+                "x": "개정 문서는 경제적 강압에 흔들리지 않는 공정하고 예측 가능한 국제 경제 질서가 필요하다고 강조한다. 중국의 수출 규제를 염두에 둔 것으로 보인다."
+              },
+              {
+                "t": "p",
+                "x": "또 ‘자유롭고 열린 인도·태평양(Free and Open Indo-Pacific)’ 구상을 추진해 집단적 회복력을 구축해야 한다고 촉구한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UK規制当局、Metaから\nMuse AIで確約を得る",
-          "body": "ICOはMuseのUK投入前にMetaの義務を示し、自主的な監視・報告の確約を得た。",
-          "mini_headline": "ICO、Meta Museに条件",
+          "headline": "日本、AI大国の目標を\n安保文書に明記へ",
+          "body": "日本は米国(US)と中国に次ぐAI大国を目指す方針を安保関連三文書に明記する。",
+          "mini_headline": "日本、AI大国目標を設定",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "ポール・アーノルド(Paul Arnold)CEO:「MetaがUKでMuse AI製品を投入したことは把握している。"
+                "t": "img",
+                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
+                "cap": "政府は年内に国家安全保障関連の三文書を改定する際、AI先進国を目指す目標を盛り込む。| REUTERS"
               },
               {
                 "t": "p",
-                "x": "エージェント型AIは、日々の作業の時間短縮から経済全体のイノベーションと成長の促進まで、人々や企業に大きな恩恵をもたらす可能性がある。人々が安心してこうした技術の恩恵を受けるには、消費者向けエージェント製品に最初からプライバシーが組み込まれていなければならない。"
+                "x": "日本が米国、中国に次ぐ人工知能の先進国を目指す方針を打ち出すことが水曜日、分かった。"
               },
               {
                 "t": "p",
-                "x": "われわれは投入前に、データ保護法上のMetaの責任、とりわけ利用者や広く一般の人々がMuse製品で自分の個人データがどう使われるかを実質的に理解し管理できるようにする要件について、Metaに明確に伝えてきた。"
+                "x": "政府は年内に予定する国家安全保障関連の三文書の改定で、この目標を盛り込む。"
               },
               {
                 "t": "p",
-                "x": "Metaは、開発の進行に合わせてわれわれが技術や利用者体験、フィードバックを精査できるよう、ICOとの自主的な監視・報告の枠組みに参加することを約束した。"
+                "x": "政府は水曜日、与党・自民党の会合で改定文書のうち経済安全保障部分の概要を示し、おおむね了承を得た。"
               },
               {
                 "t": "p",
-                "x": "AIエージェントを開発・展開するあらゆる組織と同様に、Metaは自社製品がUKのデータ保護法を完全に順守するよう確保する責任を負う。"
+                "x": "概要によると、改定文書は外交や防衛が経済力と技術力に左右されると指摘し、AIにおける日本の他国依存を減らすよう求める。"
               },
               {
                 "t": "p",
-                "x": "われわれは消費者向けエージェント型AI製品に対する当初の期待と、消費者向けAIから生じる新たなリスクを理解し管理するために進めている取り組みを示した。"
+                "x": "改定文書には、自動運転やフィジカルAI技術への集中投資の計画に加え、日本が他国にとって不可欠となる技術的優位を確保する目標も盛り込まれる。"
               },
               {
                 "t": "p",
-                "x": "われわれはエージェント型AI製品の展開をより広く注視しており、人々の権利を守りつつ責任あるイノベーションを支えるため、主要なAI開発者や導入事業者と引き続き対話している。」"
+                "x": "改定文書の下で、日本はエネルギーや食料、医療などの戦略物資のリスク評価を行い、信頼できる国・地域との連携でサプライチェーンを強化する。経済合理性から安定供給が難しい分野では国の支援を拡大する。"
+              },
+              {
+                "t": "p",
+                "x": "改定文書は、経済的威圧に左右されない公正で予見可能な国際経済秩序の必要性を強調する。中国の輸出規制を念頭に置いたものとみられる。"
+              },
+              {
+                "t": "p",
+                "x": "また「自由で開かれたインド太平洋(Free and Open Indo-Pacific)」構想を推進し、集団的な強靱性を築くよう求める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UK监管机构获Meta\nMuse AI智能体承诺",
-          "body": "Muse在UK上线前，ICO阐明了Meta的隐私义务，并获得其自愿监测和报告的承诺。",
-          "mini_headline": "ICO为Meta Muse定条件",
+          "headline": "日本拟将AI强国目标\n写入安全文件",
+          "body": "日本将把成为仅次于美国(US)和中国的AI强国目标写入三份关键安全文件。",
+          "mini_headline": "日本设定AI强国目标",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "CEO保罗·阿诺德(Paul Arnold)：“我们注意到Meta已在UK推出其Muse AI产品。"
+                "t": "img",
+                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
+                "cap": "政府将在今年晚些时候修订三份关键国家安全文件时，写入成为领先人工智能国家的目标。| REUTERS"
               },
               {
                 "t": "p",
-                "x": "智能体AI在为个人和企业带来益处方面潜力巨大，从节省日常事务时间到推动整个经济的创新与增长。要让人们放心地从这些技术中受益，面向消费者的智能体产品必须从一开始就内置隐私保护。"
+                "x": "周三获悉，日本将宣布以成为仅次于美国和中国的领先人工智能国家为目标。"
               },
               {
                 "t": "p",
-                "x": "我们在产品上线前已向Meta明确其在数据保护法下的责任，特别是必须确保用户和广大公众能够切实了解并控制其个人数据在Muse产品中如何被使用。"
+                "x": "政府将在今年晚些时候修订三份关键国家安全文件时纳入这一目标。"
               },
               {
                 "t": "p",
-                "x": "Meta已承诺与ICO共同实施一项自愿监测和报告机制，以确保我们能够在开发过程中审视技术本身、用户体验及反馈。"
+                "x": "周三，政府在执政的自民党会议上提交了修订文件中经济安全部分的大纲，并获得普遍认可。"
               },
               {
                 "t": "p",
-                "x": "与任何开发或部署AI智能体的组织一样，Meta有责任确保其产品完全符合UK数据保护法。"
+                "x": "根据大纲，修订文件指出外交和国防将取决于经济和技术实力，并呼吁减少日本在AI方面对其他国家的依赖。"
               },
               {
                 "t": "p",
-                "x": "我们已提出对面向消费者的智能体AI产品的初步期望，以及为理解和管理面向消费者的AI所带来的新兴风险而正在开展的工作。"
+                "x": "修订文件还将纳入在自动驾驶和物理AI技术领域集中投资的计划，以及获取让日本对其他国家不可或缺的技术优势这一目标。"
               },
               {
                 "t": "p",
-                "x": "我们正在更广泛地监测智能体AI产品的推出情况，并继续与主要AI开发者和部署者保持沟通，以在保障人们权利的同时支持负责任的创新。”"
+                "x": "根据修订文件，日本将对能源、粮食、医疗等战略物资开展风险评估，并通过与可信赖的国家和地区合作加强供应链。在经济合理性导致难以稳定供应的领域，政府将加大国家支持。"
+              },
+              {
+                "t": "p",
+                "x": "修订文件将强调，需要一个不受经济胁迫影响、公平且可预期的国际经济秩序，这显然是指中国的出口限制。"
+              },
+              {
+                "t": "p",
+                "x": "文件还将呼吁通过推进“自由开放的印太(Free and Open Indo-Pacific)”构想来建立集体韧性。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El regulador británico obtiene\ncompromiso de Meta sobre Muse AI",
-          "body": "Antes del estreno de Muse en UK, la ICO fijó a Meta sus deberes de privacidad y logró un pacto voluntario de control.",
-          "mini_headline": "La ICO fija condiciones a Meta Muse",
+          "headline": "Japón inscribirá su meta de AI\nen sus documentos de seguridad",
+          "body": "Japón incluirá en sus tres documentos clave de seguridad la meta de ser potencia AI tras Estados Unidos (US) y China.",
+          "mini_headline": "Japón fija su meta de potencia AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Paul Arnold, CEO: “Sabemos que Meta ha lanzado su producto Muse AI en el Reino Unido (UK)."
+                "t": "img",
+                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
+                "cap": "El gobierno incluirá la meta de convertirse en una nación líder en inteligencia artificial cuando revise los tres documentos clave de seguridad nacional del país a finales de este año. | REUTERS"
               },
               {
                 "t": "p",
-                "x": "La IA agéntica tiene un gran potencial para beneficiar a personas y empresas, desde ahorrar tiempo en tareas cotidianas hasta impulsar la innovación y el crecimiento en toda la economía. Para que las personas se beneficien de estas tecnologías con confianza, la privacidad debe estar integrada desde el inicio en los productos agénticos dirigidos al consumidor."
+                "x": "Japón declarará su aspiración de convertirse en una nación líder en inteligencia artificial, después de Estados Unidos y China, según se supo el miércoles."
               },
               {
                 "t": "p",
-                "x": "Antes del lanzamiento, hemos sido claros con Meta sobre sus responsabilidades en virtud de la ley de protección de datos, en particular la obligación de garantizar que los usuarios y el público en general puedan comprender y controlar de forma efectiva cómo se usan sus datos personales en el producto Muse."
+                "x": "El gobierno incluirá esta meta cuando revise los tres documentos clave de seguridad nacional del país a finales de este año."
               },
               {
                 "t": "p",
-                "x": "Meta se ha comprometido a un esquema voluntario de supervisión e informes con la ICO para que podamos examinar la tecnología, la experiencia de usuario y los comentarios a medida que se desarrolla."
+                "x": "El miércoles, el gobierno presentó un esbozo de las secciones de seguridad económica de los documentos revisados en una reunión del gobernante Partido Liberal Democrático y obtuvo una amplia aprobación."
               },
               {
                 "t": "p",
-                "x": "Como cualquier organización que desarrolle o despliegue agentes de IA, Meta es responsable de garantizar que sus productos cumplan plenamente la ley de protección de datos de UK."
+                "x": "Según el esbozo, los documentos revisados pedirán reducir la dependencia de Japón de otros países en AI, y señalan que la diplomacia y la defensa nacional dependerán de las capacidades económicas y tecnológicas."
               },
               {
                 "t": "p",
-                "x": "Hemos expuesto nuestras expectativas iniciales sobre los productos de IA agéntica dirigidos al consumidor, así como el trabajo en curso para comprender y gestionar los riesgos emergentes de la IA orientada al consumidor."
+                "x": "Los documentos revisados también incluirán planes para invertir de forma intensiva en conducción automatizada y tecnologías de AI física, así como la meta de lograr una ventaja tecnológica que haga a Japón indispensable para otros países."
               },
               {
                 "t": "p",
-                "x": "Seguimos de forma más amplia el despliegue de productos de IA agéntica y continuamos colaborando con los principales desarrolladores e implementadores de IA para apoyar la innovación responsable y garantizar la protección de los derechos de las personas”."
+                "x": "Con los documentos revisados, Japón realizará evaluaciones de riesgo de la energía, los alimentos, los productos médicos y otros bienes estratégicos, y reforzará las cadenas de suministro mediante la colaboración con países y regiones fiables. El gobierno aumentará el apoyo estatal donde la racionalidad económica impida un suministro estable."
+              },
+              {
+                "t": "p",
+                "x": "Los documentos revisados subrayarán la necesidad de un orden económico internacional justo y predecible que no se vea afectado por la coerción económica, en aparente referencia a las restricciones a la exportación de China."
+              },
+              {
+                "t": "p",
+                "x": "También pedirán construir una resiliencia colectiva mediante el impulso de la visión de un Indo-Pacífico Libre y Abierto (Free and Open Indo-Pacific)."
               }
             ]
           }
@@ -1199,15 +1209,15 @@
       }
     },
     {
-      "id": "pipc-ai-privacy-decree",
-      "source_lang": "ko",
+      "id": "taiwan-ai-persona-vanderbilt",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 개발용 개인정보\n특례 기준 입법예고",
-      "body": "개인정보위가 AI 개발용 개인정보 처리 특례의 안전조치·심의 절차를 입법예고했다.",
-      "mini_headline": "AI 개인정보 특례 입법예고",
+      "headline": "\"친중 AI 페르소나\n대만 선거 겨냥\" 연구",
+      "body": "Vanderbilt대가 11월 28일 대만 선거를 노린 친중 AI 계정을 찾아냈다.",
+      "mini_headline": "AI 페르소나, 대만 선거 겨냥",
       "tool": "Politics",
-      "source": "개인정보보호위원회",
-      "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12663",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868404",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1215,335 +1225,265 @@
         "blocks": [
           {
             "t": "p",
-            "x": "개인정보보호위원회는 인공지능(AI) 기술 개발을 위한 개인정보 처리 특례의 세부 기준과 절차를 담은 「개인정보 보호법 시행령」일부개정령안을 마련하여 2026년 11월 23일부터 2027년 1월 4일까지 입법예고한다고 밝혔다."
+            "x": "중국과 연계된 인공지능(AI) 생성(AI-generated) 페르소나가 대만 9합1 지방선거 개입에 동원되고 있다고 New York Times가 월요일 Vanderbilt University 연구를 인용해 보도했다. Vanderbilt 연구진은 지난해 중국 기업 GoLaxy(中科天璣)가 정교한 허위정보 캠페인용 AI 도구를 개발하려 한 정황을 찾아낸 바 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
+            "cap": "2022년 11월 26일 타이베이에서 한 여성이 투표하고 있다."
           },
           {
             "t": "p",
-            "x": "적법하게 수집한 개인정보를 일정한 요건 하에 AI 기술개발 목적으로 이용할 수 있도록 「개인정보 보호법」이 개정(‘26.9.8. 공포, ’27.3.9. 시행)됨에 따라, 특례 적용에 필요한 안전조치 및 심의·의결 절차 등을 구체화하기 위해 마련되었다."
+            "x": "연구팀은 대만 비영리단체 Doublethink Lab과 함께, 사람과 에이전트의 어조·단어 선택 차이를 잡아내는 Vanderbilt 연구실 자체 도구를 써서 토요일 투표를 흔들려는 “전통적, 혼합형, AI 기반(AI-powered) 비진정성 활동”을 지켜봤다. 베이징 쪽 계정은 비정치적 주제나 선정적 이미지를 올리다가 중간중간 중국이나 “통일”을 지지하는 메시지를 끼워 넣었다. 상당수는 AI 생성(AI-generated) 이미지에 인간 선전 요원이 쓴 메시지를 얹은 “사이보그 계정(cyberborgs)”으로 보였다."
           },
           {
             "t": "p",
-            "x": "첫째, 특례 개인정보에 대한 책임자 지정 및 내부관리계획 수립·시행, 심의·의결 범위 외 이용 방지, 접근권한 제한 및 통제, 이용 필요성 소멸 시 파기 등을 의무화했다. 개인정보위는 위험 수준에 상응하는 추가 안전조치를 조건으로 부과할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "둘째, 민감정보·고유식별정보 이용, 아동 등 특별히 보호가 필요한 정보주체, 정보주체를 지속적으로 관찰·추적하거나 평가·예측하는 AI 개발 등은 사전에 위험요인평가를 실시하도록 했다."
-          },
-          {
-            "t": "p",
-            "x": "셋째, 심의·의결 기준과 절차를 마련하고 별도의 전문위원회를 신설해 사전에 검토하도록 했다. 넷째, 유사 사례는 심의·의결 절차를 간소화하되, 새로운 침해 위험이 생기거나 기존 위험이 현저히 증가한 경우는 제외했다."
-          },
-          {
-            "t": "p",
-            "x": "개인정보위는 각계 의견을 수렴하고 법제처 심사 등을 거쳐 2027년 3월 9일 법률 시행에 맞춰 시행령 개정을 완료할 계획이다."
+            "x": "Vanderbilt University 부교수 Brett Benson은 “AI 덕분에 합성 신원을 만들고 유지하기가 쉬워지고 있으며, 이런 신원은 정치적 목적에 동원되기 전에 소셜 네트워크 안에서 신뢰를 쌓을 수 있다”고 말했다. 연구팀은 초정밀 표적화의 증거는 찾지 못했지만 중국발 허위정보를 계속 지켜볼 계획이라고 신문은 전했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "AI 개발용 개인정보\n특례 기준 입법예고",
-          "body": "개인정보위가 AI 개발용 개인정보 처리 특례의 안전조치·심의 절차를 입법예고했다.",
-          "mini_headline": "AI 개인정보 특례 입법예고",
+        "en": {
+          "headline": "Study flags China-aligned AI\npersonas in Taiwan's elections",
+          "body": "A Vanderbilt University study finds China-aligned AI personas targeting Taiwan's Nov. 28 local elections.",
+          "mini_headline": "AI personas target Taiwan vote",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "개인정보보호위원회는 인공지능(AI) 기술 개발을 위한 개인정보 처리 특례의 세부 기준과 절차를 담은 「개인정보 보호법 시행령」일부개정령안을 마련하여 2026년 11월 23일부터 2027년 1월 4일까지 입법예고한다고 밝혔다."
+                "x": "Artificial intelligence (AI)-generated personas aligned with China are being used in a bid to interfere in Taiwan’s nine-in-one local elections, the New York Times reported on Monday, citing a Vanderbilt University study. Last year, Vanderbilt researchers discovered an effort by GoLaxy (中科天璣), a China-based company, to develop AI tools to create sophisticated disinformation campaigns, the report said."
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
+                "cap": "A woman votes in Taipei on Nov. 26, 2022."
               },
               {
                 "t": "p",
-                "x": "적법하게 수집한 개인정보를 일정한 요건 하에 AI 기술개발 목적으로 이용할 수 있도록 「개인정보 보호법」이 개정(‘26.9.8. 공포, ’27.3.9. 시행)됨에 따라, 특례 적용에 필요한 안전조치 및 심의·의결 절차 등을 구체화하기 위해 마련되었다."
+                "x": "Working with the Taiwan-based non-profit Doublethink Lab and a Vanderbilt lab-developed tool that spots tonal and word-choice differences between humans and agents, the team observed “traditional, hybrid and AI-powered inauthentic activity” aimed at influencing voting in Saturday’s elections, the report said. Accounts aligned with Beijing posted on nonpolitical topics or sexualized imagery, interspersed with messages supporting China or “unification.” Many appeared to be “cyberborgs” that combine AI-generated images with messages created by human propagandists."
               },
               {
                 "t": "p",
-                "x": "첫째, 특례 개인정보에 대한 책임자 지정 및 내부관리계획 수립·시행, 심의·의결 범위 외 이용 방지, 접근권한 제한 및 통제, 이용 필요성 소멸 시 파기 등을 의무화했다. 개인정보위는 위험 수준에 상응하는 추가 안전조치를 조건으로 부과할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "둘째, 민감정보·고유식별정보 이용, 아동 등 특별히 보호가 필요한 정보주체, 정보주체를 지속적으로 관찰·추적하거나 평가·예측하는 AI 개발 등은 사전에 위험요인평가를 실시하도록 했다."
-              },
-              {
-                "t": "p",
-                "x": "셋째, 심의·의결 기준과 절차를 마련하고 별도의 전문위원회를 신설해 사전에 검토하도록 했다. 넷째, 유사 사례는 심의·의결 절차를 간소화하되, 새로운 침해 위험이 생기거나 기존 위험이 현저히 증가한 경우는 제외했다."
-              },
-              {
-                "t": "p",
-                "x": "개인정보위는 각계 의견을 수렴하고 법제처 심사 등을 거쳐 2027년 3월 9일 법률 시행에 맞춰 시행령 개정을 완료할 계획이다."
+                "x": "“AI is making it easier to construct and maintain synthetic identities that can establish credibility within social networks before being mobilized for political purposes,” said Brett Benson, a Vanderbilt University associate professor. The team did not find evidence of hyper-targeting, but would continue to observe China-directed disinformation, the report said."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Draft rules on personal data\nexemption for AI development",
-          "body": "The PIPC proposed safeguards and review steps for a special rule letting personal data be used in AI development.",
-          "mini_headline": "AI privacy exemption draft rules",
+        "ko": {
+          "headline": "\"친중 AI 페르소나\n대만 선거 겨냥\" 연구",
+          "body": "Vanderbilt대가 11월 28일 대만 선거를 노린 친중 AI 계정을 찾아냈다.",
+          "mini_headline": "AI 페르소나, 대만 선거 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "The Personal Information Protection Commission said it has prepared a partial amendment to the Enforcement Decree of the Personal Information Protection Act setting out detailed standards and procedures for a special rule on processing personal data to develop artificial intelligence (AI) technology, and will give advance legislative notice from Nov. 23, 2026 to Jan. 4, 2027."
+                "x": "중국과 연계된 인공지능(AI) 생성(AI-generated) 페르소나가 대만 9합1 지방선거 개입에 동원되고 있다고 New York Times가 월요일 Vanderbilt University 연구를 인용해 보도했다. Vanderbilt 연구진은 지난해 중국 기업 GoLaxy(中科天璣)가 정교한 허위정보 캠페인용 AI 도구를 개발하려 한 정황을 찾아낸 바 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
+                "cap": "2022년 11월 26일 타이베이에서 한 여성이 투표하고 있다."
               },
               {
                 "t": "p",
-                "x": "The amendment follows a revision of the Personal Information Protection Act (promulgated ‘26.9.8., effective ’27.3.9.) allowing lawfully collected personal data to be used for AI technology development under certain conditions, and was drafted to specify the safeguards and the review and resolution procedures needed to apply the special rule."
+                "x": "연구팀은 대만 비영리단체 Doublethink Lab과 함께, 사람과 에이전트의 어조·단어 선택 차이를 잡아내는 Vanderbilt 연구실 자체 도구를 써서 토요일 투표를 흔들려는 “전통적, 혼합형, AI 기반(AI-powered) 비진정성 활동”을 지켜봤다. 베이징 쪽 계정은 비정치적 주제나 선정적 이미지를 올리다가 중간중간 중국이나 “통일”을 지지하는 메시지를 끼워 넣었다. 상당수는 AI 생성(AI-generated) 이미지에 인간 선전 요원이 쓴 메시지를 얹은 “사이보그 계정(cyberborgs)”으로 보였다."
               },
               {
                 "t": "p",
-                "x": "First, it makes mandatory the designation of a person responsible for the personal data covered by the special rule, the establishment and implementation of an internal management plan, prevention of use beyond the scope of the review and resolution, restriction and control of access rights, and destruction once the data is no longer needed. The commission may impose additional safeguards proportionate to the level of risk as a condition."
-              },
-              {
-                "t": "p",
-                "x": "Second, a risk assessment must be conducted in advance for AI development involving the use of sensitive or unique identifying information, data subjects who need special protection such as children, or the continuous observation, tracking, evaluation or prediction of data subjects."
-              },
-              {
-                "t": "p",
-                "x": "Third, it sets standards and procedures for review and resolution and creates a separate expert committee to examine cases in advance. Fourth, it simplifies the review and resolution procedure for similar cases, except where new risks of infringement arise or existing risks increase significantly."
-              },
-              {
-                "t": "p",
-                "x": "The commission plans to gather opinions from various sectors and, after review by the Ministry of Government Legislation, complete the decree amendment in time for the law taking effect on March 9, 2027."
+                "x": "Vanderbilt University 부교수 Brett Benson은 “AI 덕분에 합성 신원을 만들고 유지하기가 쉬워지고 있으며, 이런 신원은 정치적 목적에 동원되기 전에 소셜 네트워크 안에서 신뢰를 쌓을 수 있다”고 말했다. 연구팀은 초정밀 표적화의 증거는 찾지 못했지만 중국발 허위정보를 계속 지켜볼 계획이라고 신문은 전했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI開発向け個人情報\n特例の基準を立法予告",
-          "body": "個人情報保護委員会がAI開発向け個人情報処理特例の安全措置と審議手続きを立法予告した。",
-          "mini_headline": "AI個人情報特例を立法予告",
+          "headline": "研究、親中AIペルソナ\n台湾選挙を標的に",
+          "body": "Vanderbilt大学が、台湾の11月28日の地方選挙を狙う親中AIペルソナを確認した。",
+          "mini_headline": "AIペルソナが台湾選挙を標的に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "個人情報保護委員会は、人工知能(AI)技術開発のための個人情報処理特例の詳細な基準と手続きを盛り込んだ「個人情報保護法施行令」一部改正令案を作成し、2026年11月23日から2027年1月4日まで立法予告すると明らかにした。"
+                "x": "中国寄りの人工知能(AI)生成(AI-generated)ペルソナが、台湾の統一地方選挙(九合一選挙)への介入に使われていると、New York Timesが月曜日、Vanderbilt Universityの研究を引用して報じた。報道によると、Vanderbiltの研究者らは昨年、中国企業GoLaxy(中科天璣)が巧妙な偽情報キャンペーンを作るAIツールを開発しようとしていたことを突き止めていた。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
+                "cap": "2022年11月26日、台北で投票する女性。"
               },
               {
                 "t": "p",
-                "x": "適法に収集した個人情報を一定の要件の下でAI技術開発の目的に利用できるよう「個人情報保護法」が改正(‘26.9.8.公布、’27.3.9.施行)されたことを受け、特例の適用に必要な安全措置や審議・議決手続きなどを具体化するために作成された。"
+                "x": "報道によると、研究チームは台湾の非営利団体Doublethink Labと、人間とエージェントの語調や語彙選択の違いを見分けるVanderbiltの研究室開発ツールを用い、土曜日の選挙での投票に影響を与えようとする「従来型、ハイブリッド型、AIを使った(AI-powered)不正な活動」を観測した。北京寄りのアカウントは政治と無関係な話題や性的な画像を投稿し、その合間に中国や「統一」を支持するメッセージを挟んでいた。多くは、AI生成(AI-generated)画像と人間のプロパガンダ要員が作ったメッセージを組み合わせた「サイボーグ・アカウント(cyberborgs)」とみられる。"
               },
               {
                 "t": "p",
-                "x": "第一に、特例個人情報に関する責任者の指定と内部管理計画の策定・実施、審議・議決の範囲外での利用防止、アクセス権限の制限と統制、利用の必要性がなくなった際の破棄などを義務化した。個人情報保護委員会は、リスク水準に見合う追加の安全措置を条件として課すことができる。"
-              },
-              {
-                "t": "p",
-                "x": "第二に、センシティブ情報・固有識別情報の利用、子どもなど特別な保護が必要な情報主体、情報主体を継続的に観察・追跡したり評価・予測したりするAI開発などについては、事前にリスク要因評価を実施するようにした。"
-              },
-              {
-                "t": "p",
-                "x": "第三に、審議・議決の基準と手続きを整え、別途の専門委員会を新設して事前に検討するようにした。第四に、類似事例は審議・議決手続きを簡素化する一方、新たな侵害リスクが生じた場合や既存のリスクが著しく増大した場合は除外した。"
-              },
-              {
-                "t": "p",
-                "x": "個人情報保護委員会は各界の意見を集め、法制処の審査などを経て、2027年3月9日の法律施行に合わせて施行令の改正を完了する計画だ。"
+                "x": "Vanderbilt Universityのブレット・ベンソン(Brett Benson)准教授は「AIによって、政治目的に動員される前にソーシャルネットワーク内で信用を築ける合成アイデンティティを作り、維持することが容易になっている」と述べた。報道によると、チームは極端な標的化の証拠は見つけなかったが、中国主導の偽情報の観測を続けるという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI开发用个人信息\n特例标准立法预告",
-          "body": "个人信息保护委员会就AI开发中个人信息处理特例的安全措施和审议程序发布立法预告。",
-          "mini_headline": "AI个人信息特例立法预告",
+          "headline": "研究：亲中AI人设\n瞄准台湾选举",
+          "body": "Vanderbilt大学研究发现，亲中AI人设正针对台湾11月28日地方选举。",
+          "mini_headline": "AI人设瞄准台湾选举",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "个人信息保护委员会表示，已拟定《个人信息保护法施行令》部分修正案，其中包含为开发人工智能(AI)技术而处理个人信息的特例的具体标准和程序，并将于2026年11月23日至2027年1月4日进行立法预告。"
+                "x": "New York Times周一援引Vanderbilt University的一项研究报道，与中国立场一致的人工智能(AI)生成(AI-generated)人设正被用于干预台湾九合一地方选举。报道称，Vanderbilt研究人员去年发现，中国公司GoLaxy(中科天璣)曾试图开发用于制造复杂虚假信息宣传的AI工具。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
+                "cap": "2022年11月26日，一名女子在台北投票。"
               },
               {
                 "t": "p",
-                "x": "随着《个人信息保护法》修订(‘26.9.8.公布，’27.3.9.施行)，允许在一定条件下将合法收集的个人信息用于AI技术开发，此次修正案旨在具体规定适用特例所需的安全措施及审议、表决程序等。"
+                "x": "报道称，研究团队与台湾非营利组织Doublethink Lab合作，并使用Vanderbilt实验室开发、能识别人类与智能体在语气和用词上差异的工具，观察到旨在影响周六选举投票的“传统型、混合型和AI驱动(AI-powered)的不实活动”。与北京立场一致的账号发布非政治话题或性化图像，其间穿插支持中国或“统一”的信息。其中许多看起来是把AI生成(AI-generated)图像与人类宣传人员撰写的信息结合起来的“赛博格账号(cyberborgs)”。"
               },
               {
                 "t": "p",
-                "x": "第一，规定必须为特例个人信息指定负责人、制定并实施内部管理计划、防止超出审议表决范围的使用、限制和控制访问权限，以及在不再需要使用时予以销毁。个人信息保护委员会可将与风险水平相当的额外安全措施作为附加条件。"
-              },
-              {
-                "t": "p",
-                "x": "第二，对于使用敏感信息和唯一识别信息、涉及儿童等需特别保护的信息主体，以及持续观察、追踪或评估、预测信息主体的AI开发等，要求事先进行风险因素评估。"
-              },
-              {
-                "t": "p",
-                "x": "第三，制定审议、表决的标准和程序，并新设独立的专门委员会进行事先审查。第四，对类似案例简化审议、表决程序，但出现新的侵害风险或既有风险显著增加的情况除外。"
-              },
-              {
-                "t": "p",
-                "x": "个人信息保护委员会计划广泛听取各界意见，经法制处审查等程序后，配合2027年3月9日法律施行，完成施行令修订。"
+                "x": "Vanderbilt University副教授Brett Benson表示：“AI让构建和维护合成身份变得更容易，这些身份可以先在社交网络中建立可信度，再被动员用于政治目的。”报道称，团队没有发现超精准定向的证据，但将继续观察中国主导的虚假信息。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Proyecto de excepción de datos\npersonales para desarrollar IA",
-          "body": "La PIPC sometió a consulta las salvaguardas y la revisión de la excepción de datos personales para desarrollar IA.",
-          "mini_headline": "Excepción de datos para IA, a consulta",
+          "headline": "Un estudio detecta perfiles AI\nprochinos en comicios de Taiwán",
+          "body": "Un estudio de Vanderbilt University halla perfiles AI prochinos en los comicios locales de Taiwán del 28 de noviembre.",
+          "mini_headline": "Perfiles AI apuntan al voto en Taiwán",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La Comisión de Protección de Información Personal anunció que ha elaborado un proyecto de enmienda parcial del Decreto de Aplicación de la Ley de Protección de Información Personal con los criterios y procedimientos detallados de la excepción para el tratamiento de datos personales destinada al desarrollo de tecnología de inteligencia artificial (IA), y que lo someterá a aviso legislativo previo del 23 de noviembre de 2026 al 4 de enero de 2027."
+                "x": "Perfiles generados por inteligencia artificial (AI-generated) y alineados con China se están usando para intentar interferir en las elecciones locales “nueve en uno” de Taiwán, informó el lunes el New York Times, citando un estudio de Vanderbilt University. El año pasado, investigadores de Vanderbilt descubrieron un intento de GoLaxy (中科天璣), una empresa con sede en China, de desarrollar herramientas de AI para crear sofisticadas campañas de desinformación, según el informe."
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
+                "cap": "Una mujer vota en Taipéi el 26 de noviembre de 2022."
               },
               {
                 "t": "p",
-                "x": "El proyecto se elaboró para concretar las salvaguardas y los procedimientos de deliberación y resolución necesarios para aplicar la excepción, tras la reforma de la Ley de Protección de Información Personal (promulgada el ‘26.9.8., en vigor el ’27.3.9.), que permite usar datos personales recopilados legalmente con fines de desarrollo de tecnología de IA bajo ciertos requisitos."
+                "x": "Con la organización sin ánimo de lucro taiwanesa Doublethink Lab y una herramienta desarrollada en un laboratorio de Vanderbilt que detecta diferencias de tono y de elección de palabras entre humanos y agentes, el equipo observó “actividad inauténtica tradicional, híbrida y basada en AI (AI-powered)” dirigida a influir en el voto en las elecciones del sábado, según el informe. Cuentas alineadas con Pekín publicaban sobre temas no políticos o imágenes sexualizadas, intercaladas con mensajes de apoyo a China o a la “unificación”. Muchas parecían ser “cyberborgs” que combinan imágenes generadas por AI (AI-generated) con mensajes creados por propagandistas humanos."
               },
               {
                 "t": "p",
-                "x": "En primer lugar, se hace obligatorio designar a un responsable de los datos personales sujetos a la excepción, establecer y aplicar un plan de gestión interna, impedir usos fuera del alcance deliberado y resuelto, limitar y controlar los permisos de acceso y destruir los datos cuando deje de ser necesario usarlos. La Comisión podrá imponer como condición salvaguardas adicionales acordes al nivel de riesgo."
-              },
-              {
-                "t": "p",
-                "x": "En segundo lugar, se exige una evaluación previa de factores de riesgo para el desarrollo de IA que use información sensible o identificadores únicos, que afecte a titulares de datos que requieren protección especial, como los niños, o que observe, rastree, evalúe o prediga de forma continua a los titulares de datos."
-              },
-              {
-                "t": "p",
-                "x": "En tercer lugar, se fijan criterios y procedimientos de deliberación y resolución, y se crea un comité de expertos independiente para la revisión previa. En cuarto lugar, se simplifica el procedimiento de deliberación y resolución para casos similares, salvo cuando surjan nuevos riesgos de vulneración o los riesgos existentes aumenten de forma notable."
-              },
-              {
-                "t": "p",
-                "x": "La Comisión recabará opiniones de distintos sectores y, tras la revisión del Ministerio de Legislación Gubernamental, prevé completar la reforma del decreto a tiempo para la entrada en vigor de la ley el 9 de marzo de 2027."
+                "x": "“La AI facilita construir y mantener identidades sintéticas capaces de ganar credibilidad dentro de las redes sociales antes de ser movilizadas con fines políticos”, dijo Brett Benson, profesor asociado de Vanderbilt University. El equipo no halló pruebas de microsegmentación extrema, pero seguirá observando la desinformación dirigida por China, según el informe."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Draft rules on personal data\nexemption for AI development",
-          "body": "The PIPC proposed safeguards and review steps for a special rule letting personal data be used in AI development.",
-          "mini_headline": "AI privacy exemption draft rules",
+        "ko": {
+          "headline": "연구: 친중 AI 페르소나\n대만 선거 겨냥",
+          "body": "Vanderbilt대가 11월 28일 대만 선거를 노린 친중 AI 계정을 찾았다.",
+          "mini_headline": "AI 페르소나, 대만 선거 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "The Personal Information Protection Commission said it has prepared a partial amendment to the Enforcement Decree of the Personal Information Protection Act setting out detailed standards and procedures for a special rule on processing personal data to develop artificial intelligence (AI) technology, and will give advance legislative notice from Nov. 23, 2026 to Jan. 4, 2027."
+                "x": "중국과 연계된 인공지능(AI) 생성(AI-generated) 페르소나가 대만의 9합1 지방선거에 개입하려는 데 쓰이고 있다고 New York Times가 월요일 Vanderbilt University 연구를 인용해 보도했다. 보도에 따르면 Vanderbilt 연구진은 지난해 중국 기업 GoLaxy(中科天璣)가 정교한 허위정보 캠페인을 만드는 AI 도구를 개발하려 한 정황을 찾아냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
+                "cap": "2022년 11월 26일 타이베이에서 한 여성이 투표하고 있다."
               },
               {
                 "t": "p",
-                "x": "The amendment follows a revision of the Personal Information Protection Act (promulgated ‘26.9.8., effective ’27.3.9.) allowing lawfully collected personal data to be used for AI technology development under certain conditions, and was drafted to specify the safeguards and the review and resolution procedures needed to apply the special rule."
+                "x": "보도에 따르면 연구팀은 대만 비영리단체 Doublethink Lab, 그리고 사람과 에이전트의 어조·단어 선택 차이를 잡아내는 Vanderbilt 연구실 개발 도구를 함께 활용해 토요일 선거의 투표에 영향을 주려는 “전통적, 혼합형, AI 기반(AI-powered) 비진정성 활동”을 관찰했다. 베이징 쪽 계정들은 비정치적 주제나 선정적 이미지를 올리면서 중간중간 중국이나 “통일”을 지지하는 메시지를 끼워 넣었다. 상당수는 AI 생성(AI-generated) 이미지와 인간 선전 요원이 만든 메시지를 결합한 “사이보그 계정(cyberborgs)”으로 보였다."
               },
               {
                 "t": "p",
-                "x": "First, it makes mandatory the designation of a person responsible for the personal data covered by the special rule, the establishment and implementation of an internal management plan, prevention of use beyond the scope of the review and resolution, restriction and control of access rights, and destruction once the data is no longer needed. The commission may impose additional safeguards proportionate to the level of risk as a condition."
-              },
-              {
-                "t": "p",
-                "x": "Second, a risk assessment must be conducted in advance for AI development involving the use of sensitive or unique identifying information, data subjects who need special protection such as children, or the continuous observation, tracking, evaluation or prediction of data subjects."
-              },
-              {
-                "t": "p",
-                "x": "Third, it sets standards and procedures for review and resolution and creates a separate expert committee to examine cases in advance. Fourth, it simplifies the review and resolution procedure for similar cases, except where new risks of infringement arise or existing risks increase significantly."
-              },
-              {
-                "t": "p",
-                "x": "The commission plans to gather opinions from various sectors and, after review by the Ministry of Government Legislation, complete the decree amendment in time for the law taking effect on March 9, 2027."
+                "x": "Vanderbilt University 부교수 Brett Benson은 “AI 덕분에 합성 신원을 만들고 유지하기가 쉬워지고 있으며, 이런 신원은 정치적 목적에 동원되기 전에 소셜 네트워크 안에서 신뢰를 쌓을 수 있다”고 말했다. 보도에 따르면 연구팀은 초정밀 표적화의 증거는 찾지 못했지만, 중국발 허위정보를 계속 관찰할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI開発向け個人情報\n特例の基準を立法予告",
-          "body": "個人情報保護委員会がAI開発向け個人情報処理特例の安全措置と審議手続きを立法予告した。",
-          "mini_headline": "AI個人情報特例を立法予告",
+          "headline": "研究、親中AIペルソナ\n台湾選挙を標的に",
+          "body": "Vanderbilt大学が、台湾の11月28日の地方選挙を狙う親中AIペルソナを確認した。",
+          "mini_headline": "AIペルソナが台湾選挙を標的に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "個人情報保護委員会は、人工知能(AI)技術開発のための個人情報処理特例の詳細な基準と手続きを盛り込んだ「個人情報保護法施行令」一部改正令案を作成し、2026年11月23日から2027年1月4日まで立法予告すると明らかにした。"
+                "x": "中国寄りの人工知能(AI)生成(AI-generated)ペルソナが、台湾の統一地方選挙(九合一選挙)への介入に使われていると、New York Timesが月曜日、Vanderbilt Universityの研究を引用して報じた。報道によると、Vanderbiltの研究者らは昨年、中国企業GoLaxy(中科天璣)が巧妙な偽情報キャンペーンを作るAIツールを開発しようとしていたことを突き止めていた。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
+                "cap": "2022年11月26日、台北で投票する女性。"
               },
               {
                 "t": "p",
-                "x": "適法に収集した個人情報を一定の要件の下でAI技術開発の目的に利用できるよう「個人情報保護法」が改正(‘26.9.8.公布、’27.3.9.施行)されたことを受け、特例の適用に必要な安全措置や審議・議決手続きなどを具体化するために作成された。"
+                "x": "報道によると、研究チームは台湾の非営利団体Doublethink Labと、人間とエージェントの語調や語彙選択の違いを見分けるVanderbiltの研究室開発ツールを用い、土曜日の選挙での投票に影響を与えようとする「従来型、ハイブリッド型、AIを使った(AI-powered)不正な活動」を観測した。北京寄りのアカウントは政治と無関係な話題や性的な画像を投稿し、その合間に中国や「統一」を支持するメッセージを挟んでいた。多くは、AI生成(AI-generated)画像と人間のプロパガンダ要員が作ったメッセージを組み合わせた「サイボーグ・アカウント(cyberborgs)」とみられる。"
               },
               {
                 "t": "p",
-                "x": "第一に、特例個人情報に関する責任者の指定と内部管理計画の策定・実施、審議・議決の範囲外での利用防止、アクセス権限の制限と統制、利用の必要性がなくなった際の破棄などを義務化した。個人情報保護委員会は、リスク水準に見合う追加の安全措置を条件として課すことができる。"
-              },
-              {
-                "t": "p",
-                "x": "第二に、センシティブ情報・固有識別情報の利用、子どもなど特別な保護が必要な情報主体、情報主体を継続的に観察・追跡したり評価・予測したりするAI開発などについては、事前にリスク要因評価を実施するようにした。"
-              },
-              {
-                "t": "p",
-                "x": "第三に、審議・議決の基準と手続きを整え、別途の専門委員会を新設して事前に検討するようにした。第四に、類似事例は審議・議決手続きを簡素化する一方、新たな侵害リスクが生じた場合や既存のリスクが著しく増大した場合は除外した。"
-              },
-              {
-                "t": "p",
-                "x": "個人情報保護委員会は各界の意見を集め、法制処の審査などを経て、2027年3月9日の法律施行に合わせて施行令の改正を完了する計画だ。"
+                "x": "Vanderbilt Universityのブレット・ベンソン(Brett Benson)准教授は「AIによって、政治目的に動員される前にソーシャルネットワーク内で信用を築ける合成アイデンティティを作り、維持することが容易になっている」と述べた。報道によると、チームは極端な標的化の証拠は見つけなかったが、中国主導の偽情報の観測を続けるという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI开发用个人信息\n特例标准立法预告",
-          "body": "个人信息保护委员会就AI开发中个人信息处理特例的安全措施和审议程序发布立法预告。",
-          "mini_headline": "AI个人信息特例立法预告",
+          "headline": "研究：亲中AI人设\n瞄准台湾选举",
+          "body": "Vanderbilt大学研究发现，亲中AI人设正针对台湾11月28日地方选举。",
+          "mini_headline": "AI人设瞄准台湾选举",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "个人信息保护委员会表示，已拟定《个人信息保护法施行令》部分修正案，其中包含为开发人工智能(AI)技术而处理个人信息的特例的具体标准和程序，并将于2026年11月23日至2027年1月4日进行立法预告。"
+                "x": "New York Times周一援引Vanderbilt University的一项研究报道，与中国立场一致的人工智能(AI)生成(AI-generated)人设正被用于干预台湾九合一地方选举。报道称，Vanderbilt研究人员去年发现，中国公司GoLaxy(中科天璣)曾试图开发用于制造复杂虚假信息宣传的AI工具。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
+                "cap": "2022年11月26日，一名女子在台北投票。"
               },
               {
                 "t": "p",
-                "x": "随着《个人信息保护法》修订(‘26.9.8.公布，’27.3.9.施行)，允许在一定条件下将合法收集的个人信息用于AI技术开发，此次修正案旨在具体规定适用特例所需的安全措施及审议、表决程序等。"
+                "x": "报道称，研究团队与台湾非营利组织Doublethink Lab合作，并使用Vanderbilt实验室开发、能识别人类与智能体在语气和用词上差异的工具，观察到旨在影响周六选举投票的“传统型、混合型和AI驱动(AI-powered)的不实活动”。与北京立场一致的账号发布非政治话题或性化图像，其间穿插支持中国或“统一”的信息。其中许多看起来是把AI生成(AI-generated)图像与人类宣传人员撰写的信息结合起来的“赛博格账号(cyberborgs)”。"
               },
               {
                 "t": "p",
-                "x": "第一，规定必须为特例个人信息指定负责人、制定并实施内部管理计划、防止超出审议表决范围的使用、限制和控制访问权限，以及在不再需要使用时予以销毁。个人信息保护委员会可将与风险水平相当的额外安全措施作为附加条件。"
-              },
-              {
-                "t": "p",
-                "x": "第二，对于使用敏感信息和唯一识别信息、涉及儿童等需特别保护的信息主体，以及持续观察、追踪或评估、预测信息主体的AI开发等，要求事先进行风险因素评估。"
-              },
-              {
-                "t": "p",
-                "x": "第三，制定审议、表决的标准和程序，并新设独立的专门委员会进行事先审查。第四，对类似案例简化审议、表决程序，但出现新的侵害风险或既有风险显著增加的情况除外。"
-              },
-              {
-                "t": "p",
-                "x": "个人信息保护委员会计划广泛听取各界意见，经法制处审查等程序后，配合2027年3月9日法律施行，完成施行令修订。"
+                "x": "Vanderbilt University副教授Brett Benson表示：“AI让构建和维护合成身份变得更容易，这些身份可以先在社交网络中建立可信度，再被动员用于政治目的。”报道称，团队没有发现超精准定向的证据，但将继续观察中国主导的虚假信息。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Proyecto de excepción de datos\npersonales para desarrollar IA",
-          "body": "La PIPC sometió a consulta las salvaguardas y la revisión de la excepción de datos personales para desarrollar IA.",
-          "mini_headline": "Excepción de datos para IA, a consulta",
+          "headline": "Un estudio detecta perfiles AI\nprochinos en comicios de Taiwán",
+          "body": "Un estudio de Vanderbilt University halla perfiles AI prochinos en los comicios locales de Taiwán del 28 de noviembre.",
+          "mini_headline": "Perfiles AI apuntan al voto en Taiwán",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La Comisión de Protección de Información Personal anunció que ha elaborado un proyecto de enmienda parcial del Decreto de Aplicación de la Ley de Protección de Información Personal con los criterios y procedimientos detallados de la excepción para el tratamiento de datos personales destinada al desarrollo de tecnología de inteligencia artificial (IA), y que lo someterá a aviso legislativo previo del 23 de noviembre de 2026 al 4 de enero de 2027."
+                "x": "Perfiles generados por inteligencia artificial (AI-generated) y alineados con China se están usando para intentar interferir en las elecciones locales “nueve en uno” de Taiwán, informó el lunes el New York Times, citando un estudio de Vanderbilt University. El año pasado, investigadores de Vanderbilt descubrieron un intento de GoLaxy (中科天璣), una empresa con sede en China, de desarrollar herramientas de AI para crear sofisticadas campañas de desinformación, según el informe."
+              },
+              {
+                "t": "img",
+                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
+                "cap": "Una mujer vota en Taipéi el 26 de noviembre de 2022."
               },
               {
                 "t": "p",
-                "x": "El proyecto se elaboró para concretar las salvaguardas y los procedimientos de deliberación y resolución necesarios para aplicar la excepción, tras la reforma de la Ley de Protección de Información Personal (promulgada el ‘26.9.8., en vigor el ’27.3.9.), que permite usar datos personales recopilados legalmente con fines de desarrollo de tecnología de IA bajo ciertos requisitos."
+                "x": "Con la organización sin ánimo de lucro taiwanesa Doublethink Lab y una herramienta desarrollada en un laboratorio de Vanderbilt que detecta diferencias de tono y de elección de palabras entre humanos y agentes, el equipo observó “actividad inauténtica tradicional, híbrida y basada en AI (AI-powered)” dirigida a influir en el voto en las elecciones del sábado, según el informe. Cuentas alineadas con Pekín publicaban sobre temas no políticos o imágenes sexualizadas, intercaladas con mensajes de apoyo a China o a la “unificación”. Muchas parecían ser “cyberborgs” que combinan imágenes generadas por AI (AI-generated) con mensajes creados por propagandistas humanos."
               },
               {
                 "t": "p",
-                "x": "En primer lugar, se hace obligatorio designar a un responsable de los datos personales sujetos a la excepción, establecer y aplicar un plan de gestión interna, impedir usos fuera del alcance deliberado y resuelto, limitar y controlar los permisos de acceso y destruir los datos cuando deje de ser necesario usarlos. La Comisión podrá imponer como condición salvaguardas adicionales acordes al nivel de riesgo."
-              },
-              {
-                "t": "p",
-                "x": "En segundo lugar, se exige una evaluación previa de factores de riesgo para el desarrollo de IA que use información sensible o identificadores únicos, que afecte a titulares de datos que requieren protección especial, como los niños, o que observe, rastree, evalúe o prediga de forma continua a los titulares de datos."
-              },
-              {
-                "t": "p",
-                "x": "En tercer lugar, se fijan criterios y procedimientos de deliberación y resolución, y se crea un comité de expertos independiente para la revisión previa. En cuarto lugar, se simplifica el procedimiento de deliberación y resolución para casos similares, salvo cuando surjan nuevos riesgos de vulneración o los riesgos existentes aumenten de forma notable."
-              },
-              {
-                "t": "p",
-                "x": "La Comisión recabará opiniones de distintos sectores y, tras la revisión del Ministerio de Legislación Gubernamental, prevé completar la reforma del decreto a tiempo para la entrada en vigor de la ley el 9 de marzo de 2027."
+                "x": "“La AI facilita construir y mantener identidades sintéticas capaces de ganar credibilidad dentro de las redes sociales antes de ser movilizadas con fines políticos”, dijo Brett Benson, profesor asociado de Vanderbilt University. El equipo no halló pruebas de microsegmentación extrema, pero seguirá observando la desinformación dirigida por China, según el informe."
               }
             ]
           }
@@ -1551,351 +1491,471 @@
       }
     },
     {
-      "id": "mois-public-ai-uiux-guide",
-      "source_lang": "ko",
+      "id": "eu-gigafactory-deadline-delay",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "행안부, 공공 AI\n화면 설계 기준 29개",
-      "body": "행정안전부가 AI 역할·말투부터 결과 확인까지 설계 기준 29개를 제시했다.",
-      "mini_headline": "공공 AI UI/UX 기준",
+      "headline": "EU, AI 기가팩토리\n신청 마감 또 연기",
+      "body": "EuroHPC JU가 EU AI 기가팩토리 마감을 12월 3일에서 30일로 미뤘다.",
+      "mini_headline": "EU AI 기가팩토리 또 지연",
       "tool": "Politics",
-      "source": "대한민국 정책브리핑 (행정안전부)",
-      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790510",
+      "source": "Rapporteur (Euractiv)",
+      "url": "https://www.rapporteur.com/news/eu-delays-planned-ai-gigafactories-again/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "행정안전부(장관 윤호중)는 국민과 공공 인공지능(AI)이 소통하는 방식에 대한 설계기준을 담은 「공공 AI 서비스 UI/UX 가이드라인」을 마련해 중앙행정기관, 지방정부 및 공공기관에 11월 25일 배포한다고 밝혔다. 우선 민원 안내·상담 등 대화형 서비스에 적용한다."
+            "x": "이 프로젝트의 차질은 적어도 이번이 다섯 번째다"
+          },
+          {
+            "t": "img",
+            "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
           },
           {
             "t": "p",
-            "x": "가이드라인은 4대 원칙의 10개 실천원칙을 바탕으로, ‘공공 AI 페르소나’ 6개와 ‘이용 과정별 UI/UX’ 23개 등 총 29개 설계기준으로 구성됐다."
+            "x": "EU가 대형 AI 데이터센터, 이른바 AI 기가팩토리 건설 프로젝트를 또 미뤘다. 프로젝트 웹사이트에 올라온 내용이다."
           },
           {
             "t": "p",
-            "x": "AI는 “저는 ○○기관의 민원상담 AI입니다”와 같이 AI임을 먼저 밝히고 지원 범위를 안내해야 하며, 어려운 행정용어는 쉬운 말로 풀어 설명한다."
+            "x": "잇단 차질에 하나가 더 얹혔다. Ursula von der Leyen 집행위원장이 2025년 2월 처음 제안한 뒤로 적어도 다섯 차례 일정이 늦춰졌다. EU는 제안된 사업 가운데 실제로 추진할 곳을 아직 고르는 중이다."
           },
           {
             "t": "p",
-            "x": "이용 과정은 진입·안내, 정보 입력, AI 처리, 결과 확인·이해, 수정·개선 등 5단계로 나뉜다. 오류가 나거나 AI 이용을 원하지 않으면 다른 방법이나 상담사에게 도움을 요청할 수 있도록 했다."
+            "x": "EU 슈퍼컴퓨터를 운영하는 EuroHPC JU는 수요일 국가와 기업의 대형 AI 기가팩토리 건설 신청 마감일을 12월 3일에서 12월 30일로 늦췄다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "29개 설계기준 전체에 대한 99개 세부 요구사항(필수 80개·권고 19개)과 148개 점검항목, 명령어 예시와 화면 적용사례도 함께 제공한다."
+            "x": "소형 기가팩토리 건설 신청 마감은 지난달 이미 내년 2월로 밀렸다."
           },
           {
             "t": "p",
-            "x": "행정안전부는 2027년 2월까지 접근성 기준을 추가하고, 향후 ‘에이전틱 AI’, ‘제너레이티브 UI’까지 적용범위를 확대할 계획이다."
+            "x": "EU AI Office 책임자 Lucilla Sioli는 이번 지연이 “매우 제한적”이라며 EU가 참여국 정부와 행정 절차를 정리해야 한다고 해명했다."
+          },
+          {
+            "t": "p",
+            "x": "이달 초에는 “프로젝트 규모와 이런 대형 프로젝트를 꾸리는 데 시간이 걸린다는 점을 고려하면, 이번 지연이 큰 차이를 만든다고 주장하기는 어렵다고 본다”고 말하기도 했다."
+          },
+          {
+            "t": "p",
+            "x": "절차 개시 시점도 앞서 2025년 12월에서 올여름으로 밀렸다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "행안부, 공공 AI\n화면 설계 기준 29개",
-          "body": "행정안전부가 AI 역할·말투부터 결과 확인까지 설계 기준 29개를 제시했다.",
-          "mini_headline": "공공 AI UI/UX 기준",
+        "en": {
+          "headline": "EU pushes back AI gigafactory\napplication deadline again",
+          "body": "EuroHPC JU moved the EU AI gigafactory application deadline from 3 December to 30 December.",
+          "mini_headline": "EU AI gigafactories delayed again",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "행정안전부(장관 윤호중)는 국민과 공공 인공지능(AI)이 소통하는 방식에 대한 설계기준을 담은 「공공 AI 서비스 UI/UX 가이드라인」을 마련해 중앙행정기관, 지방정부 및 공공기관에 11월 25일 배포한다고 밝혔다. 우선 민원 안내·상담 등 대화형 서비스에 적용한다."
+                "x": "It’s at least the fifth setback the project has faced so far"
+              },
+              {
+                "t": "img",
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
               },
               {
                 "t": "p",
-                "x": "가이드라인은 4대 원칙의 10개 실천원칙을 바탕으로, ‘공공 AI 페르소나’ 6개와 ‘이용 과정별 UI/UX’ 23개 등 총 29개 설계기준으로 구성됐다."
+                "x": "The EU has once again delayed its project to build AI gigafactories, or large AI data centres, according to the project’s website."
               },
               {
                 "t": "p",
-                "x": "AI는 “저는 ○○기관의 민원상담 AI입니다”와 같이 AI임을 먼저 밝히고 지원 범위를 안내해야 하며, 어려운 행정용어는 쉬운 말로 풀어 설명한다."
+                "x": "The delay marks the latest in a series of setbacks for the project, which Commission President Ursula von der Leyen originally pitched in February 2025, but has since been delayed at least five times. The EU is still selecting which of the proposed projects it actually wants to complete."
               },
               {
                 "t": "p",
-                "x": "이용 과정은 진입·안내, 정보 입력, AI 처리, 결과 확인·이해, 수정·개선 등 5단계로 나뉜다. 오류가 나거나 AI 이용을 원하지 않으면 다른 방법이나 상담사에게 도움을 요청할 수 있도록 했다."
+                "x": "The body running the EU’s supercomputers, the EuroHPC JU, on Wednesday wrote that the deadline for countries and companies to apply to build large AI gigafactories had been moved back from 3 December to 30 December."
               },
               {
                 "t": "p",
-                "x": "29개 설계기준 전체에 대한 99개 세부 요구사항(필수 80개·권고 19개)과 148개 점검항목, 명령어 예시와 화면 적용사례도 함께 제공한다."
+                "x": "Last month, it had already delayed the deadline to apply to build small gigafactories to February next year."
               },
               {
                 "t": "p",
-                "x": "행정안전부는 2027년 2월까지 접근성 기준을 추가하고, 향후 ‘에이전틱 AI’, ‘제너레이티브 UI’까지 적용범위를 확대할 계획이다."
+                "x": "Lucilla Sioli, the head of the EU’s AI Office, had defended this delay as “very limited” and said the bloc needed to address administrative processes with the participating governments."
+              },
+              {
+                "t": "p",
+                "x": "“I don’t think one could argue – given the size of the project and the fact that it also takes some time to set up such a large project – that this delay is going to make any significant difference,” she said earlier this month."
+              },
+              {
+                "t": "p",
+                "x": "The launch of the procedure itself had earlier slipped from December 2025 into this summer."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Interior ministry sets 29\ndesign rules for public AI",
-          "body": "The Ministry of the Interior and Safety set 29 design standards, from an AI's role and tone to checking results.",
-          "mini_headline": "Public AI UI/UX standards",
+        "ko": {
+          "headline": "EU, AI 기가팩토리\n신청 마감 또 연기",
+          "body": "EuroHPC JU가 EU AI 기가팩토리 마감을 12월 3일에서 30일로 미뤘다.",
+          "mini_headline": "EU AI 기가팩토리 또 지연",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "The Ministry of the Interior and Safety (Minister Yun Ho-jung) said it has prepared the “Public AI Service UI/UX Guidelines,” which set design standards for how citizens and public artificial intelligence (AI) communicate, and will distribute them to central government agencies, local governments and public institutions on Nov. 25. They will first apply to conversational services such as civil-petition guidance and consultation."
+                "x": "이 프로젝트의 차질은 적어도 이번이 다섯 번째다"
+              },
+              {
+                "t": "img",
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
               },
               {
                 "t": "p",
-                "x": "Built on 10 practice principles under 4 core principles, the guidelines consist of 29 design standards in total, including 6 for a “public AI persona” and 23 for “UI/UX by stage of use.”"
+                "x": "EU가 대형 AI 데이터센터, 이른바 AI 기가팩토리 건설 프로젝트를 또 미뤘다. 프로젝트 웹사이트에 올라온 내용이다."
               },
               {
                 "t": "p",
-                "x": "An AI must first disclose that it is an AI, as in “I am the civil-petition consultation AI of ○○ agency,” explain the scope of support it offers, and explain difficult administrative terms in plain language."
+                "x": "잇단 차질에 하나가 더 얹혔다. Ursula von der Leyen 집행위원장이 2025년 2월 처음 제안한 뒤로 적어도 다섯 차례 일정이 늦춰졌다. EU는 제안된 사업 가운데 실제로 추진할 곳을 아직 고르는 중이다."
               },
               {
                 "t": "p",
-                "x": "The process of use is divided into 5 stages: entry and guidance, information input, AI processing, checking and understanding results, and correction and improvement. If an error occurs or users do not want to use AI, they can seek help through other means or from a counselor."
+                "x": "EU 슈퍼컴퓨터를 운영하는 EuroHPC JU는 수요일 국가와 기업의 대형 AI 기가팩토리 건설 신청 마감일을 12월 3일에서 12월 30일로 늦췄다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "The guidelines also provide 99 detailed requirements (80 mandatory, 19 recommended) covering all 29 design standards, 148 checklist items, and sample prompts and screen application examples."
+                "x": "소형 기가팩토리 건설 신청 마감은 지난달 이미 내년 2월로 밀렸다."
               },
               {
                 "t": "p",
-                "x": "The ministry plans to add accessibility standards by February 2027 and later expand the scope to “agentic AI” and “generative UI.”"
+                "x": "EU AI Office 책임자 Lucilla Sioli는 이번 지연이 “매우 제한적”이라며 EU가 참여국 정부와 행정 절차를 정리해야 한다고 해명했다."
+              },
+              {
+                "t": "p",
+                "x": "이달 초에는 “프로젝트 규모와 이런 대형 프로젝트를 꾸리는 데 시간이 걸린다는 점을 고려하면, 이번 지연이 큰 차이를 만든다고 주장하기는 어렵다고 본다”고 말하기도 했다."
+              },
+              {
+                "t": "p",
+                "x": "절차 개시 시점도 앞서 2025년 12월에서 올여름으로 밀렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "行政安全部、公共AIの\n画面設計基準29項目",
-          "body": "行政安全部がAIの役割や話し方から結果確認まで、29の設計基準を示した。",
-          "mini_headline": "公共AIのUI/UX基準",
+          "headline": "EU、AIギガファクトリー\n申請期限を再び延期",
+          "body": "EuroHPC JUはEUのAIギガファクトリー申請期限を12月3日から30日に延期した。",
+          "mini_headline": "EUのAIギガファクトリー、また遅延",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "行政安全部(長官・尹昊重)は、国民と公共人工知能(AI)のコミュニケーションのあり方に関する設計基準をまとめた「公共AIサービスUI/UXガイドライン」を策定し、11月25日に中央行政機関、地方政府、公共機関に配布すると明らかにした。まずは民願案内・相談などの対話型サービスに適用する。"
+                "x": "計画のつまずきはこれで少なくとも五度目となる"
+              },
+              {
+                "t": "img",
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
               },
               {
                 "t": "p",
-                "x": "ガイドラインは4大原則の10の実践原則に基づき、「公共AIペルソナ」6項目と「利用過程別UI/UX」23項目の計29の設計基準で構成される。"
+                "x": "プロジェクトのウェブサイトによると、EUは大規模AIデータセンターである「AIギガファクトリー」の建設計画を再び延期した。"
               },
               {
                 "t": "p",
-                "x": "AIは「私は○○機関の民願相談AIです」のように、まずAIであることを明かして支援範囲を案内しなければならず、難しい行政用語は平易な言葉で説明する。"
+                "x": "今回の延期は、計画が続けて見舞われてきたつまずきの最新例だ。計画はUrsula von der Leyen欧州委員長が2025年2月に打ち出したが、その後少なくとも五回延期されている。EUは提案されたプロジェクトのうち、実際にどれを進めるかをまだ選定している。"
               },
               {
                 "t": "p",
-                "x": "利用過程は、進入・案内、情報入力、AI処理、結果確認・理解、修正・改善の5段階に分かれる。エラーが起きた場合やAIの利用を望まない場合は、別の方法や相談員に支援を求められるようにした。"
+                "x": "EUのスーパーコンピューターを運営するEuroHPC JUは水曜日、国や企業が大型AIギガファクトリーの建設を申請する期限を12月3日から12月30日に繰り下げたと記した。"
               },
               {
                 "t": "p",
-                "x": "29の設計基準全体に対する99の詳細要件(必須80・推奨19)と148の点検項目、プロンプト例や画面適用事例もあわせて提供する。"
+                "x": "先月には、小型ギガファクトリーの建設申請期限をすでに来年2月に延期していた。"
               },
               {
                 "t": "p",
-                "x": "行政安全部は2027年2月までにアクセシビリティ基準を追加し、今後は「エージェンティックAI」「ジェネレーティブUI」にまで適用範囲を広げる計画だ。"
+                "x": "EUのAI Officeを率いるLucilla Sioli氏は、この延期を「ごく限定的」だと擁護し、EUは参加国政府との行政手続きに対応する必要があると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "同氏は今月初め、「計画の規模や、これほど大きな計画の立ち上げに時間がかかることを考えれば、今回の延期が大きな違いを生むと主張することはできないと思う」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "手続きの開始自体も、以前に2025年12月から今夏へとずれ込んでいた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "行政安全部发布\n29项公共AI界面设计标准",
-          "body": "行政安全部提出了从AI角色、语气到结果确认的29项设计标准。",
-          "mini_headline": "公共AI UI/UX标准",
+          "headline": "EU再度推迟AI超级工厂\n申请截止日期",
+          "body": "EuroHPC JU将EU AI超级工厂申请截止日期从12月3日推迟至12月30日。",
+          "mini_headline": "EU AI超级工厂再度延期",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "行政安全部(部长尹昊重)表示，已制定涵盖国民与公共人工智能(AI)沟通方式设计标准的《公共AI服务UI/UX指南》，并将于11月25日分发给中央行政机关、地方政府及公共机构。该指南将首先适用于民愿引导、咨询等对话式服务。"
+                "x": "这至少是该项目迄今遭遇的第五次挫折"
+              },
+              {
+                "t": "img",
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
               },
               {
                 "t": "p",
-                "x": "该指南以4大原则下的10项实践原则为基础，由6项“公共AI人设”和23项“分使用环节UI/UX”等共29项设计标准构成。"
+                "x": "根据项目网站，EU再次推迟了建设AI超级工厂（即大型AI数据中心）的项目。"
               },
               {
                 "t": "p",
-                "x": "AI须像“我是○○机构的民愿咨询AI”这样先表明自己是AI，并说明支持范围，同时用浅显的语言解释难懂的行政术语。"
+                "x": "这是该项目一系列挫折中的最新一次。欧盟委员会主席Ursula von der Leyen最初于2025年2月提出该项目，此后已至少推迟五次。EU仍在挑选真正要推进的提案项目。"
               },
               {
                 "t": "p",
-                "x": "使用流程分为进入与引导、信息输入、AI处理、结果确认与理解、修改与完善等5个阶段。若出现错误或用户不愿使用AI，可通过其他方式或向咨询人员寻求帮助。"
+                "x": "负责运营EU超级计算机的机构EuroHPC JU周三表示，各国和企业申请建设大型AI超级工厂的截止日期已从12月3日推迟至12月30日。"
               },
               {
                 "t": "p",
-                "x": "指南还针对全部29项设计标准提供了99项具体要求(必须80项、建议19项)和148项检查项目，以及指令示例和界面应用案例。"
+                "x": "上个月，该机构已将申请建设小型超级工厂的截止日期推迟到明年2月。"
               },
               {
                 "t": "p",
-                "x": "行政安全部计划在2027年2月前增加无障碍标准，今后还将把适用范围扩大到“智能体AI”和“生成式UI”。"
+                "x": "EU AI Office负责人Lucilla Sioli曾为这次推迟辩护，称其“非常有限”，并表示欧盟需要与参与国政府处理行政程序。"
+              },
+              {
+                "t": "p",
+                "x": "她本月早些时候说：“考虑到项目的规模，以及建立如此大型的项目本身也需要时间，我认为很难说这次推迟会带来任何重大影响。”"
+              },
+              {
+                "t": "p",
+                "x": "此前，程序本身的启动也已从2025年12月推迟到今年夏天。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Ministerio del Interior fija\n29 criterios para la IA pública",
-          "body": "El Ministerio del Interior y Seguridad fijó 29 criterios de diseño, del rol y tono de la IA al control de resultados.",
-          "mini_headline": "Criterios UI/UX para la IA pública",
+          "headline": "La UE (EU) aplaza otra vez\nel plazo de sus gigafactorías AI",
+          "body": "EuroHPC JU trasladó el plazo para las gigafactorías de AI de la UE (EU) del 3 de diciembre al 30 de diciembre.",
+          "mini_headline": "Nuevo retraso de las gigafactorías AI de la EU",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "El Ministerio del Interior y Seguridad (ministro Yun Ho-jung) anunció que ha elaborado las “Directrices UI/UX para servicios públicos de IA”, con criterios de diseño sobre cómo se comunican los ciudadanos y la inteligencia artificial (IA) pública, y que las distribuirá el 25 de noviembre a los organismos de la administración central, los gobiernos locales y las instituciones públicas. Se aplicarán primero a servicios conversacionales como la orientación y la atención de trámites ciudadanos."
+                "x": "Es al menos el quinto revés que sufre el proyecto hasta ahora"
+              },
+              {
+                "t": "img",
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
               },
               {
                 "t": "p",
-                "x": "Las directrices se basan en 10 principios prácticos de 4 principios rectores y constan de 29 criterios de diseño en total, entre ellos 6 de “persona de IA pública” y 23 de “UI/UX por etapa de uso”."
+                "x": "La UE (EU) ha vuelto a retrasar su proyecto para construir gigafactorías de AI, es decir, grandes centros de datos de AI, según la web del proyecto."
               },
               {
                 "t": "p",
-                "x": "La IA debe presentarse primero como tal, por ejemplo: “Soy la IA de atención ciudadana del organismo ○○”, informar del alcance de su ayuda y explicar en lenguaje sencillo los términos administrativos difíciles."
+                "x": "El retraso es el último de una serie de reveses para el proyecto, que la presidenta de la Comisión, Ursula von der Leyen, presentó en febrero de 2025 y que desde entonces se ha retrasado al menos cinco veces. La EU sigue seleccionando cuáles de los proyectos propuestos quiere llevar a cabo realmente."
               },
               {
                 "t": "p",
-                "x": "El proceso de uso se divide en 5 etapas: acceso y orientación, introducción de información, procesamiento por IA, comprobación y comprensión de resultados, y corrección y mejora. Si se produce un error o el usuario no desea usar la IA, puede pedir ayuda por otra vía o a un agente de atención."
+                "x": "El organismo que gestiona los superordenadores de la EU, la EuroHPC JU, indicó el miércoles que el plazo para que países y empresas soliciten construir grandes gigafactorías de AI se había trasladado del 3 de diciembre al 30 de diciembre."
               },
               {
                 "t": "p",
-                "x": "También se ofrecen 99 requisitos detallados (80 obligatorios y 19 recomendados) para los 29 criterios de diseño, 148 puntos de verificación, ejemplos de instrucciones y casos de aplicación en pantalla."
+                "x": "El mes pasado ya había aplazado hasta febrero del año próximo el plazo para solicitar la construcción de gigafactorías pequeñas."
               },
               {
                 "t": "p",
-                "x": "El ministerio prevé añadir criterios de accesibilidad antes de febrero de 2027 y ampliar más adelante el alcance a la “IA agéntica” y la “UI generativa”."
+                "x": "Lucilla Sioli, directora de la AI Office de la EU, había defendido este retraso como “muy limitado” y dijo que el bloque debía resolver procesos administrativos con los gobiernos participantes."
+              },
+              {
+                "t": "p",
+                "x": "“No creo que se pueda argumentar –dado el tamaño del proyecto y el hecho de que también lleva tiempo poner en marcha un proyecto tan grande– que este retraso vaya a suponer una diferencia significativa”, dijo a principios de este mes."
+              },
+              {
+                "t": "p",
+                "x": "El propio inicio del procedimiento ya se había desplazado de diciembre de 2025 a este verano."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Interior ministry sets 29\ndesign rules for public AI",
-          "body": "The Ministry of the Interior and Safety set 29 design standards, from an AI's role and tone to checking results.",
-          "mini_headline": "Public AI UI/UX standards",
+        "ko": {
+          "headline": "EU, AI 기가팩토리\n신청 마감 또 연기",
+          "body": "EuroHPC JU가 EU AI 기가팩토리 마감을 12월 3일에서 30일로 미뤘다.",
+          "mini_headline": "EU AI 기가팩토리 또 지연",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "The Ministry of the Interior and Safety (Minister Yun Ho-jung) said it has prepared the “Public AI Service UI/UX Guidelines,” which set design standards for how citizens and public artificial intelligence (AI) communicate, and will distribute them to central government agencies, local governments and public institutions on Nov. 25. They will first apply to conversational services such as civil-petition guidance and consultation."
+                "x": "이 프로젝트가 지금까지 겪은 차질은 적어도 다섯 번째다"
+              },
+              {
+                "t": "img",
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
               },
               {
                 "t": "p",
-                "x": "Built on 10 practice principles under 4 core principles, the guidelines consist of 29 design standards in total, including 6 for a “public AI persona” and 23 for “UI/UX by stage of use.”"
+                "x": "프로젝트 웹사이트에 따르면 EU가 대형 AI 데이터센터인 AI 기가팩토리 건설 프로젝트를 또다시 미뤘다."
               },
               {
                 "t": "p",
-                "x": "An AI must first disclose that it is an AI, as in “I am the civil-petition consultation AI of ○○ agency,” explain the scope of support it offers, and explain difficult administrative terms in plain language."
+                "x": "이번 지연은 프로젝트가 잇따라 겪어 온 차질 가운데 가장 최근 사례다. 이 프로젝트는 Ursula von der Leyen 집행위원장이 2025년 2월 처음 제안했지만 이후 적어도 다섯 차례 늦춰졌다. EU는 제안된 프로젝트 가운데 실제로 추진할 사업을 아직 고르고 있다."
               },
               {
                 "t": "p",
-                "x": "The process of use is divided into 5 stages: entry and guidance, information input, AI processing, checking and understanding results, and correction and improvement. If an error occurs or users do not want to use AI, they can seek help through other means or from a counselor."
+                "x": "EU 슈퍼컴퓨터를 운영하는 EuroHPC JU는 수요일, 국가와 기업이 대형 AI 기가팩토리 건설을 신청하는 마감일을 12월 3일에서 12월 30일로 늦췄다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "The guidelines also provide 99 detailed requirements (80 mandatory, 19 recommended) covering all 29 design standards, 148 checklist items, and sample prompts and screen application examples."
+                "x": "지난달에는 이미 소형 기가팩토리 건설 신청 마감을 내년 2월로 미뤘다."
               },
               {
                 "t": "p",
-                "x": "The ministry plans to add accessibility standards by February 2027 and later expand the scope to “agentic AI” and “generative UI.”"
+                "x": "EU AI Office를 이끄는 Lucilla Sioli는 이번 지연이 “매우 제한적”이라고 옹호하며, EU가 참여국 정부와 행정 절차를 정리해야 한다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 이달 초 “프로젝트 규모와 이런 대형 프로젝트를 꾸리는 데 시간이 걸린다는 점을 고려하면, 이번 지연이 큰 차이를 만든다고 주장하기는 어렵다고 본다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "절차 개시 자체도 앞서 2025년 12월에서 올여름으로 밀린 바 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "行政安全部、公共AIの\n画面設計基準29項目",
-          "body": "行政安全部がAIの役割や話し方から結果確認まで、29の設計基準を示した。",
-          "mini_headline": "公共AIのUI/UX基準",
+          "headline": "EU、AIギガファクトリー\n申請期限を再び延期",
+          "body": "EuroHPC JUはEUのAIギガファクトリー申請期限を12月3日から30日に延期した。",
+          "mini_headline": "EUのAIギガファクトリー、また遅延",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "行政安全部(長官・尹昊重)は、国民と公共人工知能(AI)のコミュニケーションのあり方に関する設計基準をまとめた「公共AIサービスUI/UXガイドライン」を策定し、11月25日に中央行政機関、地方政府、公共機関に配布すると明らかにした。まずは民願案内・相談などの対話型サービスに適用する。"
+                "x": "計画のつまずきはこれで少なくとも五度目となる"
+              },
+              {
+                "t": "img",
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
               },
               {
                 "t": "p",
-                "x": "ガイドラインは4大原則の10の実践原則に基づき、「公共AIペルソナ」6項目と「利用過程別UI/UX」23項目の計29の設計基準で構成される。"
+                "x": "プロジェクトのウェブサイトによると、EUは大規模AIデータセンターである「AIギガファクトリー」の建設計画を再び延期した。"
               },
               {
                 "t": "p",
-                "x": "AIは「私は○○機関の民願相談AIです」のように、まずAIであることを明かして支援範囲を案内しなければならず、難しい行政用語は平易な言葉で説明する。"
+                "x": "今回の延期は、計画が続けて見舞われてきたつまずきの最新例だ。計画はUrsula von der Leyen欧州委員長が2025年2月に打ち出したが、その後少なくとも五回延期されている。EUは提案されたプロジェクトのうち、実際にどれを進めるかをまだ選定している。"
               },
               {
                 "t": "p",
-                "x": "利用過程は、進入・案内、情報入力、AI処理、結果確認・理解、修正・改善の5段階に分かれる。エラーが起きた場合やAIの利用を望まない場合は、別の方法や相談員に支援を求められるようにした。"
+                "x": "EUのスーパーコンピューターを運営するEuroHPC JUは水曜日、国や企業が大型AIギガファクトリーの建設を申請する期限を12月3日から12月30日に繰り下げたと記した。"
               },
               {
                 "t": "p",
-                "x": "29の設計基準全体に対する99の詳細要件(必須80・推奨19)と148の点検項目、プロンプト例や画面適用事例もあわせて提供する。"
+                "x": "先月には、小型ギガファクトリーの建設申請期限をすでに来年2月に延期していた。"
               },
               {
                 "t": "p",
-                "x": "行政安全部は2027年2月までにアクセシビリティ基準を追加し、今後は「エージェンティックAI」「ジェネレーティブUI」にまで適用範囲を広げる計画だ。"
+                "x": "EUのAI Officeを率いるLucilla Sioli氏は、この延期を「ごく限定的」だと擁護し、EUは参加国政府との行政手続きに対応する必要があると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "同氏は今月初め、「計画の規模や、これほど大きな計画の立ち上げに時間がかかることを考えれば、今回の延期が大きな違いを生むと主張することはできないと思う」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "手続きの開始自体も、以前に2025年12月から今夏へとずれ込んでいた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "行政安全部发布\n29项公共AI界面设计标准",
-          "body": "行政安全部提出了从AI角色、语气到结果确认的29项设计标准。",
-          "mini_headline": "公共AI UI/UX标准",
+          "headline": "EU再度推迟AI超级工厂\n申请截止日期",
+          "body": "EuroHPC JU将EU AI超级工厂申请截止日期从12月3日推迟至12月30日。",
+          "mini_headline": "EU AI超级工厂再度延期",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "行政安全部(部长尹昊重)表示，已制定涵盖国民与公共人工智能(AI)沟通方式设计标准的《公共AI服务UI/UX指南》，并将于11月25日分发给中央行政机关、地方政府及公共机构。该指南将首先适用于民愿引导、咨询等对话式服务。"
+                "x": "这至少是该项目迄今遭遇的第五次挫折"
+              },
+              {
+                "t": "img",
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
               },
               {
                 "t": "p",
-                "x": "该指南以4大原则下的10项实践原则为基础，由6项“公共AI人设”和23项“分使用环节UI/UX”等共29项设计标准构成。"
+                "x": "根据项目网站，EU再次推迟了建设AI超级工厂（即大型AI数据中心）的项目。"
               },
               {
                 "t": "p",
-                "x": "AI须像“我是○○机构的民愿咨询AI”这样先表明自己是AI，并说明支持范围，同时用浅显的语言解释难懂的行政术语。"
+                "x": "这是该项目一系列挫折中的最新一次。欧盟委员会主席Ursula von der Leyen最初于2025年2月提出该项目，此后已至少推迟五次。EU仍在挑选真正要推进的提案项目。"
               },
               {
                 "t": "p",
-                "x": "使用流程分为进入与引导、信息输入、AI处理、结果确认与理解、修改与完善等5个阶段。若出现错误或用户不愿使用AI，可通过其他方式或向咨询人员寻求帮助。"
+                "x": "负责运营EU超级计算机的机构EuroHPC JU周三表示，各国和企业申请建设大型AI超级工厂的截止日期已从12月3日推迟至12月30日。"
               },
               {
                 "t": "p",
-                "x": "指南还针对全部29项设计标准提供了99项具体要求(必须80项、建议19项)和148项检查项目，以及指令示例和界面应用案例。"
+                "x": "上个月，该机构已将申请建设小型超级工厂的截止日期推迟到明年2月。"
               },
               {
                 "t": "p",
-                "x": "行政安全部计划在2027年2月前增加无障碍标准，今后还将把适用范围扩大到“智能体AI”和“生成式UI”。"
+                "x": "EU AI Office负责人Lucilla Sioli曾为这次推迟辩护，称其“非常有限”，并表示欧盟需要与参与国政府处理行政程序。"
+              },
+              {
+                "t": "p",
+                "x": "她本月早些时候说：“考虑到项目的规模，以及建立如此大型的项目本身也需要时间，我认为很难说这次推迟会带来任何重大影响。”"
+              },
+              {
+                "t": "p",
+                "x": "此前，程序本身的启动也已从2025年12月推迟到今年夏天。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Ministerio del Interior fija\n29 criterios para la IA pública",
-          "body": "El Ministerio del Interior y Seguridad fijó 29 criterios de diseño, del rol y tono de la IA al control de resultados.",
-          "mini_headline": "Criterios UI/UX para la IA pública",
+          "headline": "La UE (EU) aplaza otra vez\nel plazo de sus gigafactorías AI",
+          "body": "EuroHPC JU trasladó el plazo para las gigafactorías de AI de la UE (EU) del 3 de diciembre al 30 de diciembre.",
+          "mini_headline": "Nuevo retraso de las gigafactorías AI de la EU",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "El Ministerio del Interior y Seguridad (ministro Yun Ho-jung) anunció que ha elaborado las “Directrices UI/UX para servicios públicos de IA”, con criterios de diseño sobre cómo se comunican los ciudadanos y la inteligencia artificial (IA) pública, y que las distribuirá el 25 de noviembre a los organismos de la administración central, los gobiernos locales y las instituciones públicas. Se aplicarán primero a servicios conversacionales como la orientación y la atención de trámites ciudadanos."
+                "x": "Es al menos el quinto revés que sufre el proyecto hasta ahora"
+              },
+              {
+                "t": "img",
+                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
               },
               {
                 "t": "p",
-                "x": "Las directrices se basan en 10 principios prácticos de 4 principios rectores y constan de 29 criterios de diseño en total, entre ellos 6 de “persona de IA pública” y 23 de “UI/UX por etapa de uso”."
+                "x": "La UE (EU) ha vuelto a retrasar su proyecto para construir gigafactorías de AI, es decir, grandes centros de datos de AI, según la web del proyecto."
               },
               {
                 "t": "p",
-                "x": "La IA debe presentarse primero como tal, por ejemplo: “Soy la IA de atención ciudadana del organismo ○○”, informar del alcance de su ayuda y explicar en lenguaje sencillo los términos administrativos difíciles."
+                "x": "El retraso es el último de una serie de reveses para el proyecto, que la presidenta de la Comisión, Ursula von der Leyen, presentó en febrero de 2025 y que desde entonces se ha retrasado al menos cinco veces. La EU sigue seleccionando cuáles de los proyectos propuestos quiere llevar a cabo realmente."
               },
               {
                 "t": "p",
-                "x": "El proceso de uso se divide en 5 etapas: acceso y orientación, introducción de información, procesamiento por IA, comprobación y comprensión de resultados, y corrección y mejora. Si se produce un error o el usuario no desea usar la IA, puede pedir ayuda por otra vía o a un agente de atención."
+                "x": "El organismo que gestiona los superordenadores de la EU, la EuroHPC JU, indicó el miércoles que el plazo para que países y empresas soliciten construir grandes gigafactorías de AI se había trasladado del 3 de diciembre al 30 de diciembre."
               },
               {
                 "t": "p",
-                "x": "También se ofrecen 99 requisitos detallados (80 obligatorios y 19 recomendados) para los 29 criterios de diseño, 148 puntos de verificación, ejemplos de instrucciones y casos de aplicación en pantalla."
+                "x": "El mes pasado ya había aplazado hasta febrero del año próximo el plazo para solicitar la construcción de gigafactorías pequeñas."
               },
               {
                 "t": "p",
-                "x": "El ministerio prevé añadir criterios de accesibilidad antes de febrero de 2027 y ampliar más adelante el alcance a la “IA agéntica” y la “UI generativa”."
+                "x": "Lucilla Sioli, directora de la AI Office de la EU, había defendido este retraso como “muy limitado” y dijo que el bloque debía resolver procesos administrativos con los gobiernos participantes."
+              },
+              {
+                "t": "p",
+                "x": "“No creo que se pueda argumentar –dado el tamaño del proyecto y el hecho de que también lleva tiempo poner en marcha un proyecto tan grande– que este retraso vaya a suponer una diferencia significativa”, dijo a principios de este mes."
+              },
+              {
+                "t": "p",
+                "x": "El propio inicio del procedimiento ya se había desplazado de diciembre de 2025 a este verano."
               }
             ]
           }

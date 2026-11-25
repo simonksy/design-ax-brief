@@ -1,106 +1,96 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "marketing",
   "items": [
     {
-      "rank": 1,
-      "title": "Healthcare Ads Are Coming To ChatGPT",
-      "url": "https://www.adexchanger.com/marketers/healthcare-ads-are-coming-to-chatgpt/",
-      "source": "AdExchanger",
-      "category": "marketing",
+      "title": "Reddit's new recipe for ad growth: search, shopping, and AI agents",
+      "url": "https://www.businessinsider.com/reddit-ad-growth-plans-search-shopping-ai-agents-2026-11",
+      "source": "Business Insider",
+      "published_iso": "2026-11-25T13:00:00+00:00",
+      "og_image": "https://i.insider.com/6b05accbd6c5d341c9b4caea?width=1200&format=jpeg",
+      "excerpt": "Reddit COO Jen Wong says Reddit will test an MCP server and agent-to-agent ad buying inside its Reddit Max automated buying platform next year, alongside search and shopping ad growth.",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "published_iso": "2026-11-24T14:00:01+00:00",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/03/Programmatic-AI-caption-contest-robot-therapy-comic-featured-e1775576280914.jpg",
-      "excerpt": "WebMD Ignite launched a ChatGPT ads offering for hospitals and medical providers on Tuesday, after OpenAI loosened ChatGPT Ads' policy that had barred health ads during early testing. The creative format is still limited to an image, brand name and short message, and advertisers can't see which queries their ads appear against.",
-      "rationale": "OpenAI has opened ChatGPT Ads to health advertisers, a category it previously barred, and WebMD Ignite is already selling the inventory to hospitals. That opens a new ad surface for a large, regulated vertical."
+      "rationale": "Concrete plan for agent-to-agent ad buying and an MCP server on a major ad platform — changes how buyers will plan Reddit spend."
     },
     {
-      "rank": 2,
-      "title": "Amazon is buying ChatGPT ads while blocking OpenAI crawlers",
-      "url": "https://digiday.com/marketing/amazon-is-buying-chatgpt-ads-while-blocking-openai-crawlers/",
-      "source": "Digiday",
-      "category": "marketing",
+      "title": "AI agents linked to Amazon Ads get an optional upgrade on December 8",
+      "url": "https://ppc.land/ai-agents-linked-to-amazon-ads-get-an-optional-upgrade-on-december-8/",
+      "source": "PPC Land",
+      "published_iso": "2026-11-25T21:34:12+01:00",
+      "og_image": "https://ppc.land/content/images/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
+      "excerpt": "Agent builders connected to Amazon Ads' MCP server get an optional protocol upgrade on December 8; older protocol versions keep working with no end date.",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-11-24T05:01:00+00:00",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/09/amazon-count-digiday.jpg",
-      "excerpt": "Amazon is running a new round of Black Friday ads in ChatGPT in the U.S. while still blocking OpenAI's crawlers. ChatGPT's shopping results link to Amazon search pages and use third-party deal trackers for pricing, so Amazon is paying a rival platform to send shoppers back to its own marketplace.",
-      "rationale": "The largest retailer is paying for ChatGPT ad placement while keeping its catalog out of OpenAI's crawl, an early template for how big sellers balance paid and organic presence in AI assistants."
+      "rationale": "Dated, actionable change for teams running agents against the Amazon Ads MCP server."
     },
     {
-      "rank": 3,
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-      "source": "TechCrunch",
-      "category": "marketing",
+      "title": "어도비 마케팅 AI 에이전트, 챗GPT·클로드에서 쓴다",
+      "url": "https://www.sedaily.com/article/20118433",
+      "source": "서울경제",
+      "published_iso": "2026-11-25T05:00:00+09:00",
+      "og_image": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_Z1.jpg",
+      "excerpt": "Adobe is making its marketing AI agents usable inside ChatGPT and Claude so marketers can plan and analyze campaigns without opening Adobe apps.",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "published_iso": "2026-11-24T21:32:38+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200",
-      "excerpt": "Walmart now lets customers shop its Black Friday deals through Meta's Muse agent, with access running through a Walmart-controlled gateway that sets how AI agents browse, shop and complete purchases on its shelves.",
-      "rationale": "The biggest U.S. retailer is putting its Black Friday deals into Meta's shopping agent but routing it through its own gateway, so it joins agentic commerce on its own terms. This is the one Walmart x Muse card for the section (TechCrunch picked over Digiday to keep Digiday at two cards)."
+      "rationale": "New release: Adobe's campaign-planning agents now run inside ChatGPT and Claude — a workflow shift for marketers; adds a Korean-language outlet."
     },
     {
-      "rank": 4,
-      "title": "Why brands are writing no-AI clauses into creator deals",
-      "url": "https://digiday.com/future-of-tv/why-brands-are-writing-no-ai-clauses-into-creator-deals/",
-      "source": "Digiday",
-      "category": "marketing",
+      "title": "AI Shopping Agents Bought A Fake Deal 37% Of The Time – Claude Opus Never Did",
+      "url": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/",
+      "source": "Search Engine Journal",
+      "published_iso": "2026-11-25T20:00:32+00:00",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp",
+      "excerpt": "Nine AI models went Christmas shopping 6,156 times. They bought an obviously fake deal 37% of the time. Only Claude Opus never did.",
       "tool": "Marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "published_iso": "2026-11-24T05:01:00+00:00",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Digiday_1030x600.jpg",
-      "excerpt": "More influencer contracts now bar creators from using generative AI in campaign content, Pearpop's vp of talent says, and creators welcome the clauses. Brands are having to spell out where AI is still allowed, for example in ideation, scripting and performance analysis.",
-      "rationale": "Paid creator contracts are starting to say where AI may and may not be used, which affects how brands brief creators and how they approve sponsored content."
+      "rationale": "Fresh large-sample study on how shopping agents respond to promotions — directly relevant to Cyber Week pricing and promo tactics."
     },
     {
-      "rank": 5,
-      "title": "'AI 가짜 의사' 광고 금지 앞두고…이커머스 셀러 관리 시험대",
-      "url": "https://www.etnews.com/20261124000360",
-      "source": "전자신문",
-      "category": "marketing",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch",
+      "published_iso": "2026-11-25T14:10:18+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+      "excerpt": "Amazon and Meta are discussing a potential deal to end a two-month blockade of Meta's Muse shopping agent on Amazon's store; advertising and search placement are reported as key sticking points.",
       "tool": "Marketing",
       "accent": "#eb367f",
       "motif": "frame",
-      "published_iso": "2026-11-24T16:00:00+09:00",
-      "og_image": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.f995c19eff93482fbcdfd9169dfb00db_P1.png",
-      "excerpt": "AI 가짜 의사 식품 광고를 금지하는 법이 27일 시행되기 전에 네이버는 상품정보에 가상 전문가를 쓰지 못하게 했고, G마켓은 기존 등록 상품까지 점검하고 있다. 쿠팡과 11번가는 기존 허위·과장 광고 제재 절차로 대응한다. 다만 플랫폼 밖 SNS 광고를 입점 상품과 연결하는 경로를 막을 수 있을지가 관건이다.",
-      "rationale": "Ahead of the 11-27 ban, Korean marketplaces are applying new seller rules: Naver now bans virtual experts in product info and G마켓 is re-checking existing listings. Sellers who use AI spokespeople have to change their ad creative now."
+      "rationale": "The one Muse pick for today: a new development (deal talks) where ad and search placement are the bargaining chips in agentic commerce."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.adexchanger.com/marketers/healthcare-ads-are-coming-to-chatgpt/": {
+      "https://www.businessinsider.com/reddit-ad-growth-plans-search-shopping-ai-agents-2026-11": {
         "verdict": "new",
-        "nearest": "https://www.adweek.com/media/chatgpts-agent-writes-its-own-queries-to-serve-ads-advertisers-dont-get-to-see-them/",
+        "nearest": "https://www.adexchanger.com/marketers/reddit-taps-qloo-to-strengthen-its-predictive-targeting/",
         "new_action": ""
       },
-      "https://digiday.com/marketing/amazon-is-buying-chatgpt-ads-while-blocking-openai-crawlers/": {
+      "https://ppc.land/ai-agents-linked-to-amazon-ads-get-an-optional-upgrade-on-december-8/": {
         "verdict": "new",
-        "nearest": "https://www.businessinsider.com/ai-agents-holiday-shopping-not-yet-trusted-consumers-retailers",
+        "nearest": "https://ppc.land/google-ads-mcp-server-gains-4-write-tools-still-cant-change-budgets/",
         "new_action": ""
       },
-      "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/": {
+      "https://www.sedaily.com/article/20118433": {
         "verdict": "new",
-        "nearest": "https://www.businessinsider.com/ai-agents-holiday-shopping-not-yet-trusted-consumers-retailers",
+        "nearest": "https://ppc.land/supermetrics-lets-claude-build-ad-campaigns-on-6-platforms-paused-by-default/",
         "new_action": ""
       },
-      "https://digiday.com/future-of-tv/why-brands-are-writing-no-ai-clauses-into-creator-deals/": {
+      "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/": {
         "verdict": "new",
-        "nearest": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+        "nearest": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
         "new_action": ""
       },
-      "https://www.etnews.com/20261124000360": {
-        "verdict": "follow-up",
-        "nearest": "https://www.news1.kr/economy/trend/6359058",
-        "new_action": "With the fake-AI-doctor food ad ban taking effect 11-27, Naver issued a new policy banning virtual experts in product information and G마켓 started re-checking existing listings. These are new platform rules, separate from the 11-20 소비자원 MOU and the 11-10 K-beauty review."
+      "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/": {
+        "verdict": "new",
+        "nearest": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+        "new_action": ""
       }
     },
-    "note": "Dropped as duplicate: Meta Newsroom 'Introducing Muse in the UK' (same event as the ICO statement, assigned to politics per the brief); Digiday 'Walmart is letting Meta's Muse shop its shelves' (cluster c2, same story as the TechCrunch Walmart x Muse pick, one source only); SER 'Connect Your ChatGPT Business Hub With ChatGPT Ad Account' (continues the 11-22 Digiday Business Hub story and was already dropped on 11-24 for the same reason). Bing 'AI-Generated answer' snippet was tagged likely-repeat against the 11-21 Bing 'Made with AI' label card; it is a different test, but it is a search product with no ad angle, so out of scope. Walmart x Muse is not the 11-21 Loblaw x Muse card (different retailer and deal) or the 11-22 Marketing Dive 'Walmart mulls advertising' piece (executive commentary, not a launch). Healthcare ChatGPT ads (an OpenAI ads policy change plus WebMD Ignite's launch) differs from the 11-24 Adweek orchestrator card (ad-matching mechanics). Amazon's ChatGPT ads differ from the 10-27 SER Amazon DSP card (Amazon as the buying route vs. Amazon as an advertiser). Not picked on merit: TechCrunch Muse in Instagram DMs (a second Muse card would be too much; it is a consumer agent feature with a thin ad angle); PPC Land Google Wallet in AI Mode (personalization, and the ad use is speculative); Semrush AI-influenced traffic (vendor tool, modeled estimates); Criteo UK survey (survey PR, AI secondary); SER Google AI Overviews link selection and SEJ Bing citation analysis (pure SEO/GEO, no paid surface, excluded by the marketing note); ADWEEK Rx Assistant Builder (vendor promo, announced 11-17); ADWEEK holiday outlook (AI incidental). Cross-section: the 전자신문 fake-doctor item is taken here per the 11-25 assignment (politics must not pick it). published_urls.json is too large to read without grep, so I did not exact-match it. I relied on the brief's cross-section assignments, and none of the picks is named for another section. Outlets: AdExchanger, Digiday x2, TechCrunch, 전자신문 (4 distinct)."
+    "note": "Dropped: #7 Meta Newsroom 'Muse in the UK' (already covered via 11-25 politics ICO card, per brief); #16 Verge Google AI video feeds patent (assigned to movies); #6 PPC Land 'Amazon blocks 20 of 24 AI agents' (brief: keep at most one of it vs TechCrunch Amazon-Meta talks; also overlaps 11-25 Digiday 'Amazon blocking OpenAI crawlers' and 11-22 PPC Land Amazon AI-answers share); #1 ADWEEK Muse 150x traffic and #13 CNBC Muse/Instagram ad boost (max one Muse item; also close to 11-14 PPC Land 'agent traffic two-company town'); #9 ADWEEK Ask Target (likely the same assistant as 11-20 Retail Dive 'Target's AI shopping assistant is driving sales'); #11 Salesforce ANZ Cyber Week data (regional rehash of 11-15 Salesforce AI-first holiday data); #3 SEJ ChatGPT Ads results (advice/analysis, no new event; adjacent to 11-03 and 11-24 ChatGPT ads cards); #10 SER Google Ads dynamic conversion values (liaison comment, AI incidental); #15 DC360 Adobe holiday spend and #8 Digiday shopper AI adoption (general holiday data, AI not the driver). Five distinct outlets in the final picks."
   }
 }

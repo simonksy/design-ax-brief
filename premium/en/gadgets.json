@@ -13716,6 +13716,176 @@
           "x": "The Dutch government’s advice follows a similar move by the Norwegian government, which in September said it was considering a ban on camera-enabled devices."
         }
       ]
+    },
+    "gadgets/wyze-window-bird-cam": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Wyze announced its new Window Bird Cam, which pairs a window-mounted camera with a feeder that attaches to the outside of the glass. Alongside the kit, Wyze is launching a new subscription service called Bird Watch, which adds identification capabilities."
+        },
+        {
+          "t": "p",
+          "x": "The Window Bird Cam is available today through the company's online store for $69.98 and includes the outdoor feeder with suction cups, a small seed tray, and a cover. An optional $14.98 Window Bird Cam Perch is also sold."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Installed inside the home and plugged into USB power, the Bird Cam doesn't need a battery or weatherproofing. Its lens is designed to focus at a distance of 4 to 8 inches so birds look crisp while the rest of your yard is softly blurred."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Out of the box, the Bird Cam detects motion, sends bird arrival notifications with a five-minute cooldown, and records 30fps video locally to a microSD card up to 512GB. Bird Watch, at $6.99 per month or $69.99 per year, adds species identification with a confidence score, an interactive bird wiki, 60 days of cloud video, and no notification cooldown."
+        }
+      ]
+    },
+    "gadgets/amazon-ai-toys-petition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "On November 23, 2026, a coalition of more than 150 child advocacy groups and experts sent a letter to Amazon and eBay urging them to stop selling AI toys this holiday season and to refund families who already bought one (via Fairplay)."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "The coalition wants every toy with a built-in AI chatbot aimed at, or likely to be used by, kids under 16 pulled until independent testing shows they're safe. It also wants \"friend\" tags dropped, contradictory age labels fixed, and buyers warned and offered refunds. Amazon and eBay have until Christmas to reply."
+        },
+        {
+          "t": "p",
+          "x": "One plush bunny for ages 3 and up is connected to general-purpose chatbots like ChatGPT, whose own terms require users to be at least 13. The AI inside these toys can change its behavior at any point, and the coalition says AI toys have drawn young kids into sexual conversations and told them where to find knives and matches."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "California bans toys with companion chatbots for kids under 16 starting in January 2027, and a bill to ban AI chatbots in kids' toys nationwide is in Congress."
+        }
+      ]
+    },
+    "gadgets/rogbid-loop-memo-band": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A voice recorder that lives on your wrist and never asks for a subscription fee is a pitch I can get behind. Rogbid's Loop Memo records with one press, then turns that audio into transcripts, summaries, and to-do lists in its companion app."
+        },
+        {
+          "t": "p",
+          "x": "The band costs $79.99 in Phantom Black at Rogbid's own store, and that price covers the AI transcription and summaries with no monthly fee stacked on top."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
+        },
+        {
+          "t": "p",
+          "x": "AI noise cancellation works to pull voices forward even when the speaker sits across a room. There's 1 GB of storage inside, good for up to 10 hours of recording with no phone nearby, and summaries can become mind maps exported as TXT, PDF, or Word files."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Under the recorder pitch, the Memo tracks heart rate, heart rate variability, stress, and sleep stages, and carries more than 100 sports modes. The 22-gram, IP67 tracker's 220 mAh battery is quoted at up to 50 days on standby."
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The closest screenless rival, Amazfit's Helio Strap, runs $99.99 and skips recording entirely, so the Memo undercuts it by $20 while adding the microphone."
+        }
+      ]
+    },
+    "gadgets/google-home-nov25-update": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Google Home is rolling out another big update, this time adding features and bringing improvements across Nest Cam, Nest Thermostarts, Gemini, and more."
+        },
+        {
+          "t": "p",
+          "x": "Detailed on Google’s usual changelog, the November 25 update is now rolling out and makes improvements across the board, starting with the Gemini for Home early access program. “Hey Google, tell me a story” is returning with Gemini able to create stories that are tailored to any adjustments you make as the story goes on. Gemini smart home commands are getting further speed and performance improvements and contextual follow-ups such as being able to say “turn them back on” after turning off some lights. You can also now see Gemini sources on smart displays."
+        },
+        {
+          "t": "p",
+          "x": "Nest Cam gets improvements for video history playback and landscape controls on Android and feedback improvements for homes with multiple admins. Nest Cam Outdoor (2nd gen) also gets a 30-second security siren that’s also supported on Walmart’s Onn Outdoor camera and Floodlight."
+        },
+        {
+          "t": "p",
+          "x": "Google Home now supports Familiar Faces on Walmart Onn cameras. Nest Thermostat users can now copy thermostat schedules across days."
+        },
+        {
+          "t": "p",
+          "x": "Other updates heading to Google Home include: color wheel for lights in the iOS app; fixed setup issues with Google Home Speaker on iOS and Android; fixed Stereo Pair & Speaker Group controls on Android; improvements for Google TV audio output & status; better music transfer between speakers & smart displays from Android."
+        },
+        {
+          "t": "p",
+          "x": "The latest Google Home updates on Android and iOS deliver these updates, while Gemini changes happen behind the scenes."
+        }
+      ]
+    },
+    "gadgets/pocketalk-x-desk-translator": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
+          "cap": "Pocketalk X features dual touchscreens and directional microphones"
+        },
+        {
+          "t": "p",
+          "x": "A little over a year after its initial announcement, Japanese translation technology specialist Pocketalk has confirmed the commercial release of the Pocketalk X, its first desktop AI translation device. It is designed for face-to-face conversations at hotel reception desks, airports, hospitals, restaurants and other places where language barriers complicate simple interactions."
+        },
+        {
+          "t": "p",
+          "x": "The Pocketalk X comes with two 10.25-inch touchscreens meant to sit on a counter, so both participants can read translations without passing a device back and forth. One screen can be detached and positioned approximately 30 cm from the main unit, suiting counters with protective partitions."
+        },
+        {
+          "t": "p",
+          "x": "It supports two-way translation in 44 languages, automatic spoken-language detection and two directional microphones with AI-powered noise cancellation. A proximity sensor wakes the displays when someone approaches. Translation is handled in the cloud, with the system automatically selecting an AI translation engine according to the language pair, so an internet connection is always required; it has dual-band Wi-Fi 5 but no cellular connectivity."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
+          "cap": "Pocketalk X supports hands-free translation in 44 languages"
+        },
+        {
+          "t": "p",
+          "x": "The setup weighs approximately 2.2 kg and needs a USB-C power supply of 45 W or higher. After real-world trials, including one at Osaka's Kansai International Airport in October 2026, it goes on sale in Japan on December 18 for ¥440,000 (approximately $2,765), including two years of software access, followed by an annual fee of ¥132,000 ($830). Rental starts at ¥22,000 ($138) per month."
+        },
+        {
+          "t": "video",
+          "yt": "1nVgFoCTBD4"
+        }
+      ]
     }
   }
 }

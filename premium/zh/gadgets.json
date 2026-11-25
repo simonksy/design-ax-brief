@@ -12972,6 +12972,176 @@
           "x": "荷兰政府的这一建议，是继挪威政府采取类似举措之后作出的。挪威政府9月表示，正在考虑禁止带摄像头的设备。"
         }
       ]
+    },
+    "gadgets/wyze-window-bird-cam": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Wyze发布新款Window Bird Cam，将装在窗户内侧的摄像头与贴在玻璃外侧的喂鸟器配套使用。Wyze同时推出名为Bird Watch的新订阅服务，增加识别功能。"
+        },
+        {
+          "t": "p",
+          "x": "Window Bird Cam今日起在该公司网店以$69.98发售，包含带吸盘的户外喂鸟器、小型食盘和顶盖。另有售价$14.98的可选配件Window Bird Cam Perch。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Bird Cam安装在室内并接USB供电，因此无需电池或防水设计。其镜头设计为在4至8英寸距离对焦，让鸟儿清晰呈现，而院子的其余部分则柔和虚化。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "开箱即用状态下，Bird Cam可检测移动，以五分钟冷却间隔推送鸟类到访通知，并以30fps将视频本地录制到最高512GB的microSD卡。Bird Watch每月$6.99或每年$69.99，提供带置信度评分的鸟种识别（ID）、互动式鸟类wiki、60天云端视频存储，并取消通知冷却间隔。"
+        }
+      ]
+    },
+    "gadgets/amazon-ai-toys-petition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "2026年11月23日，由150多个儿童权益团体和专家组成的联盟致信Amazon和eBay，敦促两家公司在本次假日季停止销售AI玩具，并向已购买的家庭退款（via Fairplay）。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "联盟要求，所有面向16岁以下儿童或可能被其使用、内置AI聊天机器人的玩具，在独立测试证明安全之前一律下架。联盟还要求删除“friend”（朋友）标签、修正相互矛盾的年龄标注，并向买家发出警告、提供退款。Amazon和eBay须在圣诞节前作出回复。"
+        },
+        {
+          "t": "p",
+          "x": "一款适合3岁及以上儿童的毛绒兔子接入了ChatGPT等通用聊天机器人，而ChatGPT自身条款要求用户至少年满13岁。这些玩具内置的AI随时可能改变行为，联盟称AI玩具曾将幼儿引入涉性对话，并告诉他们去哪里找刀和火柴。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "加利福尼亚州将从2027年1月起禁止面向16岁以下儿童的陪伴型聊天机器人玩具，国会也在审议一项在全国范围内禁止儿童玩具搭载AI聊天机器人的法案。"
+        }
+      ]
+    },
+    "gadgets/rogbid-loop-memo-band": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
+        },
+        {
+          "t": "p",
+          "x": "一款戴在手腕上、从不要求订阅费的录音设备，是我愿意支持的卖点。Rogbid的Loop Memo一键即可录音，随后在配套应用中把音频转成文字稿、摘要和待办清单。"
+        },
+        {
+          "t": "p",
+          "x": "这款手环在Rogbid官方商店的Phantom Black版售价$79.99，该价格已涵盖AI转写和摘要，无需额外支付月费。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
+        },
+        {
+          "t": "p",
+          "x": "即使说话者坐在房间另一头，AI降噪也能突出人声。机身内置1 GB存储，无需手机在旁即可录音最长10小时，摘要还可生成思维导图，并导出为TXT、PDF或Word文件。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "除了录音这一卖点，Memo还能追踪心率、心率变异性、压力和睡眠阶段，并提供100多种运动模式。这款重22克、具备IP67防护的手环搭载220 mAh电池，官方称待机最长可达50天。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "最接近的无屏竞品Amazfit的Helio Strap售价$99.99，且完全没有录音功能，因此Memo便宜$20，还多了麦克风。"
+        }
+      ]
+    },
+    "gadgets/google-home-nov25-update": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Google Home正在推送又一次大型更新，这次为Nest Cam、Nest Thermostarts、Gemini等带来新功能和改进。"
+        },
+        {
+          "t": "p",
+          "x": "据Google惯常发布的更新日志，11月25日的更新现已开始推送，带来全面改进，首先是Gemini for Home抢先体验计划。“Hey Google, tell me a story”（给我讲个故事）功能回归，Gemini可根据你在故事进行中提出的任何调整来定制故事。Gemini智能家居指令的速度和性能进一步提升，并支持上下文追问，例如关掉几盏灯后可以说“turn them back on”（把它们重新打开）。现在还能在智能显示屏上查看Gemini的信息来源。"
+        },
+        {
+          "t": "p",
+          "x": "Nest Cam在Android上改进了视频历史回放和横屏控制，并为有多名管理员的家庭改进了反馈。Nest Cam Outdoor (2nd gen)还新增30秒安全警报器，Walmart的Onn Outdoor摄像头和Floodlight也支持该功能。"
+        },
+        {
+          "t": "p",
+          "x": "Google Home现已在Walmart Onn摄像头上支持Familiar Faces。Nest Thermostat用户现在可以在不同日期之间复制温控日程。"
+        },
+        {
+          "t": "p",
+          "x": "Google Home的其他更新包括：iOS应用中的灯光色轮；修复iOS和Android上Google Home Speaker的设置问题；修复Android上的Stereo Pair和Speaker Group控制；改进Google TV音频输出和状态；改进从Android在扬声器与智能显示屏之间转移音乐。"
+        },
+        {
+          "t": "p",
+          "x": "这些更新通过Android和iOS上最新版Google Home提供，而Gemini的变化则在后台完成。"
+        }
+      ]
+    },
+    "gadgets/pocketalk-x-desk-translator": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser42.png",
+          "cap": "Pocketalk X配备双触摸屏和定向麦克风"
+        },
+        {
+          "t": "p",
+          "x": "在首次发布一年多之后，日本翻译技术专业公司Pocketalk确认其首款桌面AI翻译设备Pocketalk X正式商用上市。该设备面向酒店前台、机场、医院、餐厅等语言障碍让简单交流变得复杂的场所，用于面对面交谈。"
+        },
+        {
+          "t": "p",
+          "x": "Pocketalk X配备两块10.25英寸触摸屏，可放在柜台上，双方无需来回传递设备即可阅读译文。其中一块屏幕可以拆下，放在距主机约30 cm处，适合设有防护隔板的柜台。"
+        },
+        {
+          "t": "p",
+          "x": "它支持44种语言双向翻译、口语语种自动识别，以及两个带AI-powered降噪功能的定向麦克风。有人靠近时，接近传感器会唤醒屏幕。翻译在云端完成，系统会根据语言组合自动选择AI翻译引擎，因此始终需要联网；设备支持双频Wi-Fi 5，但不支持蜂窝网络。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/4/csm_Selecting-Espanol-on-a-Sleek-Translation-Device_1945aff244.png",
+          "cap": "Pocketalk X支持44种语言免提翻译"
+        },
+        {
+          "t": "p",
+          "x": "整套设备重约2.2 kg，需要45 W 或以上的USB-C电源。经过包括2026年10月在大阪关西国际机场在内的实地试用后，它将于12月18日在日本发售，售价¥440,000（约$2,765），含两年软件使用权，此后每年收费¥132,000（$830）。租赁价格为每月¥22,000（$138）起。"
+        },
+        {
+          "t": "video",
+          "yt": "1nVgFoCTBD4"
+        }
+      ]
     }
   }
 }

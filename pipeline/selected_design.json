@@ -1,107 +1,106 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "design",
-  "user_selection": null,
   "items": [
     {
       "rank": 1,
-      "title": "The Figma agent is now available in FigJam and Slides",
-      "url": "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/",
-      "source": "Figma Blog",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "published_iso": "2026-11-23T20:54:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma extends its AI agent beyond Figma Design into FigJam and Slides, so it can help explore ideas on the whiteboard, prepare meetings and build presentations from design work.",
-      "rationale": "Primary-source launch that puts the Figma agent into two more daily surfaces (FigJam whiteboarding, Slides decks) — immediately usable by designers tomorrow."
-    },
-    {
-      "rank": 2,
-      "title": "Framer adds Automations, Connectors and a Slack Agent to its design agent",
-      "url": "https://www.framer.com/updates/automations-connectors-slack",
-      "source": "Framer",
-      "category": "figma",
-      "tool": "Framer",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "published_iso": "2026-11-24T00:00:00Z",
-      "og_image": "https://framerusercontent.com/images/sdwZJoA5efRozZNcYG5rHIr2Rk.png?width=1280&height=720",
-      "excerpt": "Framer's new Automations are agent workflows that run on a schedule or on project events like publishing or form submissions; Connectors let the Framer agent read and act in Slack, Notion and Ahrefs, and a Slack Agent can query the site, check analytics or make quick edits from Slack.",
-      "rationale": "New Framer release turning its site agent into scheduled/event-driven automations with Slack, Notion and Ahrefs connectors — concrete new capability for web designers."
-    },
-    {
-      "rank": 3,
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "source": "The Verge",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-11-24T16:09:23Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
-      "excerpt": "The NYT told its photographers to hold off on a Photoshop update because it does not want AI metadata inadvertently attached to its news photos.",
-      "rationale": "A major newsroom halting a Photoshop update over AI provenance metadata is a fresh, practical warning for any image pro whose files carry content credentials."
-    },
-    {
-      "rank": 4,
-      "title": "Cognitive Design 2.3 marks CDS newest release",
-      "url": "https://develop3d.com/ai/cognitive-design-2-3-marks-cds-newest-release/",
-      "source": "DEVELOP3D",
+      "title": "Nomic extends AI agents into CAD drafting and BIM",
+      "url": "https://aecmag.com/cad/nomic-extends-ai-agents-into-cad-drafting-and-bim/",
+      "source": "AEC Magazine",
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-11-24T11:12:38Z",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/11/Cognitive-Design-2.3.jpg",
-      "excerpt": "Cognitive Design Systems' AI engineering software adds automated Design of Experiments and a Design Explorer: it sweeps parameter ranges, generates each variant and scores it on structural, manufacturing, cost and CO2 criteria.",
-      "rationale": "New version release adding automated design-of-experiments and multi-criteria variant scoring — covers the CAD/product-design side of the section."
+      "published_iso": "2026-11-25T17:05:37+00:00",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg",
+      "excerpt": "Nomic's AI drawing-review platform now drafts too: describe a drawing in natural language or supply one for revision and the agent returns an editable DWG/DXF file plus a plotted PDF, following company CAD standards (layers, line weights, hatching, dimension styles), and works directly inside Revit and AutoCAD.",
+      "rationale": "Concrete new capability: natural-language drafting that outputs standards-compliant editable DWG/DXF inside Revit and AutoCAD — directly changes drafting workflows."
+    },
+    {
+      "rank": 2,
+      "title": "Canva opens design tools to AI agents and developers",
+      "url": "https://dataconomy.com/2026/11/25/canva-opens-design-tools-to-ai-agents-and-developers/",
+      "source": "Dataconomy",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "published_iso": "2026-11-25T10:18:32+01:00",
+      "og_image": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg",
+      "excerpt": "Canva made its rebuilt MCP server generally available and launched new APIs, service accounts and a CLI so outside agents can create editable designs, images and short videos, remove backgrounds, layer flat images and resize/export, with its Craft image model exposed via API and MCP; Canva also becomes the design layer inside Claude.",
+      "rationale": "Major design platform GA of MCP server + APIs/CLI lets agents produce editable Canva designs — high actionability for design teams automating production."
+    },
+    {
+      "rank": 3,
+      "title": "NVIDIA releases open weights for Nemotron-Labs-Image-30B-A3B, an image model that also outputs editable SVG/HTML structure",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+      "source": "Hugging Face (NVIDIA)",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "published_iso": "2026-11-24T21:55:46+00:00",
+      "og_image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nvidia/Nemotron-Labs-Image-30B-A3B.png",
+      "excerpt": "NVIDIA published the public release snapshot of Nemotron-Labs-Image, a 30B (3B active) autoregressive text-to-image model whose shared interface generates both raster images and editable structure (SVG, HTML/CSS, plots, document markup); NVIDIA's benchmarks put it ahead of GPT Image 2 and Nano Banana Pro on GenEval and text-rendering tests.",
+      "rationale": "Primary-source open-weights release; one model producing both raster and editable SVG/HTML is directly useful for designers needing editable output."
+    },
+    {
+      "rank": 4,
+      "title": "Meet MAGI-2: Sand AI's New Video Model With Built-In Sound, Exclusively on Higgsfield",
+      "url": "https://higgsfield.ai/blog/higgsfield-magi-2",
+      "source": "Higgsfield",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "published_iso": "2026-11-25T11:35:00+00:00",
+      "og_image": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=jpeg,onerror=redirect,width=1200,quality=85/https://cdn.sanity.io/images/s479xw3z/production/f689aa41f411d5bc9ed082194a49c21c7848d5d4-2720x1536.jpg",
+      "excerpt": "Sand AI's MAGI-2 video model lands exclusively on Higgsfield, generating video and synchronized sound together in 4-30 second clips at 1080p, with reference inputs, settings and pricing documented for creators.",
+      "rationale": "New video model with native synced audio, available now with documented settings/pricing; assigned to design (not movies) by the cross-section brief."
     },
     {
       "rank": 5,
-      "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
-      "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
-      "source": "The Decoder",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff2d55",
+      "title": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+      "source": "Claude (Anthropic)",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#2ec5c5",
       "motif": "frame",
-      "published_iso": "2026-11-24T20:42:29Z",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png",
-      "excerpt": "Claude Artifacts can now be installed as beta desktop apps on Mac and Windows, even with a free account; built in chat without code, they can use OS APIs and connectors to add menu bar items, notifications and transparent windows.",
-      "rationale": "New product release that lets designers ship chat-built prototypes as installable desktop apps with native OS surfaces (menu bar, notifications, transparent windows) — a concrete new prototyping/delivery path, no code required."
+      "published_iso": "2026-11-24T17:53:00+00:00",
+      "og_image": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og",
+      "excerpt": "Skills over MCP is in public beta in Claude, so MCP servers (including design-tool servers) can ship skills alongside their tools; Tasks and Elicitation are now generally available and File Uploads is rolling out. The Decoder reports MCP SDK downloads topped 700 million a month.",
+      "rationale": "Platform release that changes how design-tool MCP servers (Figma, Canva, Webflow) package workflows: skills ship with the server, plus GA Tasks/Elicitation."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/": {
+      "https://aecmag.com/cad/nomic-extends-ai-agents-into-cad-drafting-and-bim/": {
         "verdict": "new",
-        "nearest": "https://www.figma.com/release-notes/?title=generate-multiple-images-from-a-single-prompt",
+        "nearest": "https://aecmag.com/bim/qonic-ai-launches-inside-bim-platform/",
         "new_action": ""
       },
-      "https://www.framer.com/updates/automations-connectors-slack": {
+      "https://dataconomy.com/2026/11/25/canva-opens-design-tools-to-ai-agents-and-developers/": {
         "verdict": "new",
-        "nearest": "https://www.framer.com/updates/image-shader-generation",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
         "new_action": ""
       },
-      "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features": {
+      "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B": {
         "verdict": "new",
-        "nearest": "https://www.cgchannel.com/2026/11/adobe-releases-photoshop-28-0/",
+        "nearest": "https://www.intelligentliving.co/moss-image-open-source-model/",
         "new_action": ""
       },
-      "https://develop3d.com/ai/cognitive-design-2-3-marks-cds-newest-release/": {
+      "https://higgsfield.ai/blog/higgsfield-magi-2": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://wccftech.com/higgsfield-miracle-promises-real-time-ai-video-editing-turning-any-clip-into-editable-layers/",
         "new_action": ""
       },
-      "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/": {
+      "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more": {
         "verdict": "new",
-        "nearest": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+        "nearest": "https://aecmag.com/automation/autom8labs-launches-aec-skills-for-ai-agents/",
         "new_action": ""
       }
     },
-    "note": "Pre-dropped by story_dedup: all3dp Tripo Formnext agent (same as 11-18 VoxelMatters Tripo H3.5/Polipop). Excluded per cross-section brief: BOT VFX Young Washington (movies only), Google Flow WIF India filmathon (movies only). Figma FigJam/Slides is a new surface launch, not the 11-19 image-gen release note; Framer Automations is a different release from the 11-13 image/shader update; NYT Photoshop advisory is a new event (newsroom directive) distinct from the 11-11 Photoshop 28.0 release; Framer's 'related' match to IronCAD automation is word overlap only. RE-PICK: CIO 'Ally Financial reinvents customer personas with agentic AI' removed — first published 2026-11-17 (republished 11-24), stale for the 72h window. Replaced with The Decoder 'Claude Artifacts as standalone desktop apps' (11-24 product release); its 'related' match (11-23 Gemini runs Mac apps) is a different vendor/product, and it is distinct from the 11-17 'Claude builds interactive websites inside canvas graphics' and 11-11 'Open your apps in Claude' cards (new capability: installable desktop apps with OS APIs). Skipped on scoring: Builder.io Claude-skills listicle (overlaps 10-26 Impeccable card, evergreen), Builder.io reverse-engineer tutorial (vendor promo), Eleken Figma-first vs code-first (evergreen, close to 11-04 Eleken code-prototyping card), UX Collective essays x2 and DEV '30% more code' (opinion), MCP 700M / ChatGPT GPT-6.2 Sol (general AI platform news, design incidental; MCP item partly usage-stat noise), Gemini 4 Neon builders (showcase), AI Blue color test (dated models), GoodBarber (vendor post), Project Genie short (demo of existing product). Cross-section check: full exact-grep of published_urls.json across all sections (incl. 'Artifacts' desktop apps in gadgets) was not run (no shell in this agent); orchestrator should confirm before roll."
+    "note": "Dropped as duplicate: DEV Community 'Pin agent border-radius to radius tokens' (likely-repeat of the 11-24 sherotree spacing-scale card, same author/series/technique). Not picked (not dups): Higgsfield GPU Harness (second Higgsfield item, outlet cap kept MAGI-2 per cross-section assignment); Picsart hub (would be 3rd render); Anthropic adoption study (not design-specific); Crystal Palace backlash, UX Collective/LexisNexis essays, Builder.io listicle, Gemini Canvas tips, Webflow tutorial, Gemini 4 Neon showcase, Vercel Cozey case study (low novelty/actionability); Amap ABot-World and Onmalgeum (off-list, weaker design angle). Cross-section: exact-checked published_urls.json marketing block — no Canva MCP card; MAGI-2 is design-only per brief. Nearest refs are related-band only, all distinct products/events."
   }
 }

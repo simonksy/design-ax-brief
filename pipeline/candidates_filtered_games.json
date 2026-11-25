@@ -1,80 +1,149 @@
 {
   "section": "games",
-  "now_iso": "2026-11-24T22:00:37Z",
+  "now_iso": "2026-11-25T22:03:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Atari Homebrew Awards canceled over torrent of AI games: 'I saw no path forward'",
-      "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096",
+      "title": "EA Sports FC 27 adds AI-recreated voice of late commentator John Motson",
+      "url": "https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "keyword": "AI voice acting games",
+      "published_iso": "2026-11-25T20:48:20+00:00",
+      "excerpt": "Electronic Arts is bringing back the voice of the late football commentator John Motson in EA Sports FC 27, recreated u…",
+      "og_image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-25-at-20.38.28.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "cluster": "c0"
+    },
+    {
+      "title": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it",
+      "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
+      "source": "PC Gamer",
+      "category": "games",
+      "keyword": "AI voice acting games",
+      "published_iso": "2026-11-25T20:23:51Z",
+      "excerpt": "Legendary football pundit John Motson will return to the series, in AI form, in today",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L-2560-80.jpg",
+      "cluster": "c0"
+    },
+    {
+      "title": "Ubisoft staff must justify not using generative AI in pitches, report claims",
+      "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "keyword": "AI game",
+      "published_iso": "2026-11-25T20:19:40+00:00",
+      "excerpt": "Ubisoft teams pitching new projects are reportedly being asked to explain how generative AI would help them make games …",
+      "og_image": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "history_match": {
+        "score": 0.159,
+        "date": "2026-11-20",
+        "url": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
+        "title": "Ubisoft Creates Generative AI Game Studio Called 'Motherbrain' as Part of New Operating Model",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Apex Neural Rendering Gives NVIDIA DLSS A Run For Its Money In Digital Foundry’s Testing, Introduces Game-Changing Comparison Tool",
+      "url": "https://wccftech.com/apex-neural-rendering-gives-nvidia-dlss-a-run-for-its-money-in-digital-foundrys-testing-introduces-game-changing-comparison-tool/",
+      "source": "Wccftech",
+      "category": "games",
+      "keyword": "neural game engine",
+      "published_iso": "2026-11-25T16:45:06+00:00",
+      "excerpt": "Apex Neural Rendering rivals NVIDIA DLSS in Digital Foundry's testing and introduces a new tool for frame-accurate image quality comparisons.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-75.jpg",
+      "history_match": {
+        "score": 0.31,
+        "date": "2026-11-13",
+        "url": "https://wccftech.com/apex-neural-rendering-challenges-nvidia-dlss-with-up-to-2-4x-faster-frame-generation-62-lower-vram-usage-and-broad-gpu-support/",
+        "title": "Apex Neural Rendering Challenges NVIDIA DLSS With Up To 2.4X Faster Frame Generation, 62% Lower VRAM Usage, And Broad GPU Support",
+        "band": "related"
+      }
+    },
+    {
+      "title": "The Japanese Erotic Visual Novel That's Filled With AI's Prudish Refusals To Translate Explicit Sexual Content",
+      "url": "https://kotaku.com/the-japanese-erotic-visual-novel-thats-filled-with-ais-prudish-refusals-to-translate-explicit-sexual-content-2001000228",
       "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-11-24T21:00:14+00:00",
-      "excerpt": "Organizer ZeroPage Homebrew suspended the ninth Atari Homebrew Awards after a flood of AI-assisted submissions - some developers releasing multiple games a week - made it impossible to set or verify a cutoff for AI use in music, art or code without witch hunts or false positives.",
-      "og_image": "https://kotaku.com/app/uploads/2026/11/GettyImages-2178400107-e1795551443398.jpg"
+      "keyword": "AI localization games",
+      "published_iso": "2026-11-25T11:00:09+00:00",
+      "excerpt": "Muv-Luv Girls Gaiden has put out a disastrous English-language version",
+      "og_image": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden-1200x675.jpg"
     },
     {
-      "title": "What's New for Game Developers: AI Animation and RTX Tools",
-      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/",
-      "source": "NVIDIA Technical Blog",
+      "title": "US Treasury official using Claude to create a Civilization clone tries to shut down worries he",
+      "url": "https://www.gamesradar.com/games/strategy/us-treasury-official-using-claude-to-create-a-civilization-clone-tries-to-shut-down-worries-hes-too-busy-vibecoding-during-cybersecurity-breach-the-computers-are-doing-it-on-their-own/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-11-24T17:00:00+00:00",
-      "excerpt": "NVIDIA's Kimodo becomes the first AI motion-generation model integrated into Unreal Engine 5.9 Preview's guided animation framework, letting animators generate character motion in Sequencer from text prompts, spline paths and target poses; the In-Game Inferencing SDK 1.8 adds RTX Spark support, updated llama.cpp/whisper.cpp backends and Parakeet speech recognition.",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/Featured-War-Thunder-DLSS-5-on.webp",
+      "keyword": "vibe coding games",
+      "published_iso": "2026-11-25T21:41:14Z",
+      "excerpt": "Sam Corcos is vibe-coding Legatum, a \"historical 4X on a hex map, built for people who love Civilization\"",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77-1920-80.jpg"
+    },
+    {
+      "title": "「フォートナイト」の2万以上のBlueprintをわずか2週間でVerseに移植。Epic Gamesが「Unreal Engine 6」への移行に向けたAI活用の成果を公開",
+      "url": "https://www.4gamer.net/games/144/G014484/20261125017/",
+      "source": "4Gamer.net",
+      "category": "games",
+      "keyword": "Unreal Engine AI",
+      "published_iso": "2026-11-25T14:26:01+09:00",
+      "excerpt": "Epic Gamesは，「Unreal Engine 6」に向けたAI活用の成果を公開した。5か月で開発方針を転換した同社は，「フォートナイト」の2万以上のBlueprintのVerse移植にAIを…",
+      "og_image": "https://www.4gamer.net/games/144/G014484/20261125017/SS/001.jpg",
       "history_match": {
-        "score": 0.193,
-        "date": "2026-11-11",
-        "url": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
-        "title": "Unreal Engine 5.9 Preview Is Out & It Was Built With AI",
+        "score": 0.312,
+        "date": "2026-11-22",
+        "url": "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6",
+        "title": "Epic: AI to convert UE5 projects to UE6; Fortnite's 20,000+ Blueprints ported to ~3M lines of Verse by AI; UE 5.9 gets UE6 AI tooling (Python, MCP)",
         "band": "related"
       }
-    },
-    {
-      "title": "The race to port GTA 6 to PC, explained",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-11-24T21:47:58+00:00",
-      "excerpt": "PC Gamer explains why unofficial GTA 6 PC ports are arriving within days of the leaked Xbox executable: AI coding tools like Claude have drastically sped up static recompilation, producing buggier but fast, functional ports - and making it far harder for publishers to contain them.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/zBXjPfrsDijbDn8itHz9CE-2000-80.jpg",
-      "history_match": {
-        "score": 0.228,
-        "date": "2026-11-05",
-        "url": "http://www.gamey.kr/news/articleView.html?idxno=3019481",
-        "title": "Power Moon Recomp: an unofficial native PC port of Super Mario Odyssey, built with the Claude coding agent, runs at 4K/60",
-        "band": "related"
-      }
-    },
-    {
-      "title": "GTA 6 recomp leaders bail out as Take-Two cracks down on illicit efforts to get the game running on PC",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-11-24T17:42:34+00:00",
-      "excerpt": "After Take-Two's takedowns, the leads of Project Leonida - the best-known effort to use AI to quickly recompile the leaked Xbox build of GTA 6 for PC - quit, though others continue; PC Gamer notes AI makes such ports far faster and tougher for publishers to stop.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
-    },
-    {
-      "title": "Shogi AI has grown so strong that computer shogi tournaments see 80% first-move win rates even with handicaps",
-      "url": "https://automaton-media.com/articles/newsjp/20261123-480506/",
-      "source": "AUTOMATON",
-      "category": "games",
-      "published_iso": "2026-11-23T08:21:03+00:00",
-      "excerpt": "After the 7th World Shogi AI Denryu-sen finals, YaneuraOu developer Yaneurao warned that shogi AIs are now so strong the first player wins about 80% of games even with a time handicap, making 'first-move-wins' a near certainty and tournaments increasingly hard to run.",
-      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480506-header.jpg"
     },
     {
       "title": "Unity Asset Store and CLI: Let Your AI Agent Find and Add Assets",
       "url": "https://unity.com/blog/unity-asset-store-ai-generators-coding-agents",
       "source": "Unity",
       "category": "games",
-      "published_iso": "2026-11-23T00:00:00+00:00",
-      "excerpt": "Unity connected the Asset Store to the Unity CLI so coding agents can search the store, pull single prefabs out of packs and generate missing assets with 60+ AI models directly from the command line.",
-      "og_image": null,
+      "keyword": "Unity Muse",
+      "published_iso": "2026-11-23",
+      "excerpt": "The Unity CLI and Asset Store lets coding agents search the store, pull single prefabs from packs, and generate missing assets with 60+ AI models.",
+      "og_image": "htttps://unity.com/unity-logo-2024.png",
       "history_match": {
-        "score": 0.277,
+        "score": 0.282,
         "date": "2026-11-17",
         "url": "https://unity.com/the-unity-cli-1.0-is-here",
         "title": "Unity CLI 1.0 is here",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Introducing Voice Isolator",
+      "url": "https://inworld.ai/blog/introducing-voice-isolator",
+      "source": "Inworld AI",
+      "category": "games",
+      "keyword": "Inworld AI",
+      "published_iso": "2026-11-18",
+      "excerpt": "Remove background noise while keeping speech, laughter and breaths. Two 48 kHz models, for offline processing and for realtime streaming, with code and weights under Apache 2.0.",
+      "og_image": "https://inworld.ai/opengraph-image.jpg?opengraph-image.3etui4_c_jrz1.jpg",
+      "history_match": {
+        "score": 0.319,
+        "date": "2026-11-19",
+        "url": "https://inworld.ai/blog/introducing-sava",
+        "title": "Introducing SAVA",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Unreal Engine 5.9 Preview 2 Brings Browser-Based Gaming To Blueprint-Only Projects, Enables AI Workflows By Default And Improves Rendering",
+      "url": "https://wccftech.com/unreal-engine-5-9-preview-2-brings-browser-based-gaming-to-blueprint-only-projects-enables-ai-workflows-by-default-and-improves-rendering/",
+      "source": "Wccftech",
+      "category": "games",
+      "keyword": "Unreal Engine AI",
+      "published_iso": "2026-11-22T16:16:43+00:00",
+      "excerpt": "Unreal Engine 5.9 Preview 2 brings Blueprint-only web games, default AI toolsets, WebGPU improvements, and faster cinematic workflows.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-60.jpg",
+      "history_match": {
+        "score": 0.304,
+        "date": "2026-11-11",
+        "url": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
+        "title": "Unreal Engine 5.9 Preview Is Out & It Was Built With AI",
         "band": "related"
       }
     },
@@ -83,55 +152,15 @@
       "url": "https://www.dexerto.com/gaming/clash-royale-recruits-creator-of-ai-cheating-tool-to-help-catch-cheaters-3430356/",
       "source": "Dexerto",
       "category": "games",
-      "published_iso": "2026-11-21T21:15:18+00:00",
-      "excerpt": "Supercell said the creator of an advanced AI cheating tool for Clash Royale was caught and has agreed to join the team building new anti-cheat technology, a day after warning that AI cheating would get players banished from the Arena.",
+      "keyword": "AI bug detection games",
+      "published_iso": "2026-11-21T21:15:18.000Z",
+      "excerpt": "Clash Royale developer Supercell has recruited the creator of an advanced AI cheating tool to help crack down on cheating in the game.",
       "og_image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg",
       "history_match": {
-        "score": 0.246,
+        "score": 0.19,
         "date": "2026-11-15",
         "url": "https://gameriv.com/call-of-duty-warns-ai-powered-cheats-are-becoming-harder-to-detect/",
         "title": "Call of Duty Warns AI-Powered Cheats Are Becoming Harder to Detect",
-        "band": "related"
-      }
-    },
-    {
-      "title": "AI Evaluates, Humans Decide: The Next Step in Game Rating Classification",
-      "url": "https://www.invenglobal.com/articles/28903",
-      "source": "Inven Global",
-      "category": "games",
-      "published_iso": "2026-11-20T14:46:32+00:00",
-      "excerpt": "A Nexon-led industry-academic consortium presented first-year results and plans for AI-assisted game rating technology, in which AI pre-evaluates game content and human reviewers make the final classification decision.",
-      "og_image": "https://static.invenglobal.com/upload/image/2026/11/20/i1795186088393256.jpeg"
-    },
-    {
-      "title": "Introducing Voice Isolator",
-      "url": "https://inworld.ai/blog/introducing-voice-isolator",
-      "source": "Inworld AI",
-      "category": "games",
-      "published_iso": "2026-11-18T00:00:00+00:00",
-      "excerpt": "Inworld released Voice Isolator, two 48 kHz models (offline and realtime streaming) that strip background noise while keeping speech, laughter and breaths, with code and weights under Apache 2.0 - a separate release from its SAVA launch.",
-      "og_image": "https://inworld.ai/opengraph-image.jpg?opengraph-image.3etui4_c_jrz1.jpg",
-      "history_match": {
-        "score": 0.44,
-        "date": "2026-11-19",
-        "url": "https://inworld.ai/blog/introducing-sava",
-        "title": "Introducing SAVA",
-        "band": "likely-repeat"
-      }
-    },
-    {
-      "title": "Unreal Engine 5.9 Preview 2 Brings Browser-Based Gaming To Blueprint-Only Projects, Enables AI Workflows By Default And Improves Rendering",
-      "url": "https://wccftech.com/unreal-engine-5-9-preview-2-brings-browser-based-gaming-to-blueprint-only-projects-enables-ai-workflows-by-default-and-improves-rendering/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-11-22T16:16:43+00:00",
-      "excerpt": "Epic's new UE 5.9 Preview 2 build turns on the default AI toolsets, adds Blueprint-only web game export with WebGPU improvements, and speeds up cinematic workflows - a new build, not a recap of the UE6 Blueprints announcement.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-60.jpg",
-      "history_match": {
-        "score": 0.313,
-        "date": "2026-11-11",
-        "url": "https://80.lv/articles/unreal-engine-5-9-preview-is-out-it-was-built-with-ai/",
-        "title": "Unreal Engine 5.9 Preview Is Out & It Was Built With AI",
         "band": "related"
       }
     },
@@ -140,8 +169,9 @@
       "url": "https://www.inews24.com/view/2028994",
       "source": "아이뉴스24",
       "category": "games",
+      "keyword": "AI 게임",
       "published_iso": "2026-11-23T08:00:00+09:00",
-      "excerpt": "With Wrtn's AI chatbot Crack as G-STAR's first non-game main sponsor, Korea's Game Rating and Administration Committee says AI chat alone is not a game but paid-currency probability mechanics can be; a new youth-protection bill would review 'relational AI services' by their design, while the EU moves to post-hoc liability.",
+      "excerpt": "지스타 2026에서 AI 게임이 간판으로 떠오른 가운데, 국내 게임물 심의는 '설계' 단계를, EU 제조물책임 규정은 AI '결함'을 묻는 방향이라는 법적 쟁점 정리.",
       "og_image": "https://image.inews24.com/v1/e8d8785d57e7af.jpg"
     },
     {
@@ -149,38 +179,50 @@
       "url": "https://www.invenglobal.com/articles/28912",
       "source": "Inven Global",
       "category": "games",
+      "keyword": "AI game",
       "published_iso": "2026-11-20T21:45:48+00:00",
-      "excerpt": "Korean legal experts say the focus of game imitation disputes is moving from genre/rule-copying 'like games' to AI cloning, where AI is used to replicate games in their entirety.",
+      "excerpt": "The focal point of game imitation disputes is shifting from 'like games,' which copy genres and rules, to 'AI cloning,' which uses artificial intelligence to replicate games in their entirety.",
       "og_image": "https://static.invenglobal.com/upload/image/2026/11/20/r1795211230112218.jpeg"
+    },
+    {
+      "title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
+      "url": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5/",
+      "source": "NVIDIA Technical Blog",
+      "category": "games",
+      "keyword": "neural game engine",
+      "published_iso": "2026-11-24T14:00:00+00:00",
+      "excerpt": "Where Winds Meet moves between distant mountain landscapes, bustling streets, and quiet moments with its characters. For Everstone Studio, bringing more realistic lighting and materials to this wuxia…",
+      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-11.webp"
+    },
+    {
+      "title": "How AI Powers Our Builders",
+      "url": "https://about.roblox.com/newsroom/2026/11/how-ai-powers-our-builders-speed-scale-and-security",
+      "source": "Roblox",
+      "category": "games",
+      "keyword": "AI mod UGC",
+      "published_iso": "2026-11-20T12:00:00.000Z",
+      "excerpt": "Learn how Roblox uses AI to increase speed, scale, and security",
+      "og_image": "https://cms-media.roblox.com/assets/ffcc66c6-3e6b-4b1a-a3bb-b58c544d3796.webp"
     }
   ],
   "dedup": {
-    "dropped": 4,
-    "kept": 12,
+    "dropped": 5,
+    "kept": 15,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 6,
-    "same_story_pairs": []
+    "review": 7,
+    "same_story_pairs": [
+      [
+        "https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson",
+        "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
+        0.482
+      ]
+    ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-26",
-      "title": "\"AI로 복제게임 만들어 유포하겠다\" 인디 개발자에 협박",
-      "url": "https://www.gamemeca.com/view.php?gid=1781995"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "Indie Game Dev Cancels Vibe-Coded Zombie Shooter After San Francisco Officials Condemn 'Dehumanizing' Game Set in City's Tenderloin Neighborhood",
-      "url": "https://www.ign.com/articles/indie-game-dev-takes-down-vibe-coded-zombie-shooter-after-san-francisco-officials-condemn-dehumanizing-game"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "The Onslaught Of Lazy Browser Ports Hit A Wall Thanks To New Update",
-      "url": "https://www.thegamer.com/claude-openai-update-browser-ports-recomps-harder/"
-    },
     {
       "date": "2026-10-27",
       "title": "Remix launches platform for anyone to build their own game on desktop, web or mobile",
@@ -850,6 +892,31 @@
       "date": "2026-11-24",
       "title": "Chess.com's next move is a new hub for classic games, from mahjong to sudoku",
       "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Shogi AI has grown so strong that computer shogi tournaments see 80% first-move win rates even with handicaps",
+      "url": "https://automaton-media.com/articles/newsjp/20261123-480506/"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "What's New for Game Developers: AI Animation and RTX Tools",
+      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools/"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Atari Homebrew Awards canceled over torrent of AI games: 'I saw no path forward'",
+      "url": "https://kotaku.com/atari-homebrew-awards-canceled-over-torrent-of-ai-games-i-saw-no-path-forward-2001000096"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "AI Evaluates, Humans Decide: The Next Step in Game Rating Classification",
+      "url": "https://www.invenglobal.com/articles/28903"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "GTA 6 recomp leaders bail out as Take-Two cracks down on illicit efforts to get the game running on PC",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/"
     }
   ]
 }

@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-25",
-  "section": "books",
-  "media": [
-    {
-      "id": "darcos-ia-droit-auteur-loi",
-      "type": "image",
-      "src": "pipeline/media/darcos-ia-droit-auteur-loi.jpg"
-    },
-    {
-      "id": "khan-sinchun-ai-interview",
-      "type": "image",
-      "src": "pipeline/media/khan-sinchun-ai-interview.jpg"
-    },
-    {
-      "id": "japan-ai-piracy-manga-detect",
-      "type": "image",
-      "src": "pipeline/media/japan-ai-piracy-manga-detect.jpg"
-    },
-    {
-      "id": "transept-ai-book-translator",
-      "type": "image",
-      "src": "pipeline/media/transept-ai-book-translator.jpg"
-    },
-    {
-      "id": "naver-webtoon-recsys-paper",
-      "type": "image",
-      "src": "pipeline/media/naver-webtoon-recsys-paper.jpg"
-    }
-  ]
+ "date": "2026-11-26",
+ "section": "books",
+ "media": [
+  {
+   "id": "nvidia-adobe-pirated-books",
+   "type": "image",
+   "src": "pipeline/media/nvidia-adobe-pirated-books.jpg"
+  },
+  {
+   "id": "soa-ai-charter-focus-group",
+   "type": "image",
+   "src": "pipeline/media/soa-ai-charter-focus-group.jpg"
+  },
+  {
+   "id": "australia-ai-committee-optout",
+   "type": "image",
+   "src": "pipeline/media/australia-ai-committee-optout.jpg"
+  },
+  {
+   "id": "france-culture-ia-consultation",
+   "type": "image",
+   "src": "pipeline/media/france-culture-ia-consultation.jpg"
+  },
+  {
+   "id": "hayankkum-ai-fairytale",
+   "type": "image",
+   "src": "pipeline/media/hayankkum-ai-fairytale.jpg"
+  }
+ ]
 }

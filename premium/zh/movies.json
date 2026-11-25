@@ -11873,6 +11873,144 @@
           "x": "此次更新还加入了借助Runway、通过文本提示、参考图像或其他视频生成视频的节点。独立版永久许可证售价$2,195，插件版售价$1,195。"
         }
       ]
+    },
+    "movies/lionsgate-eklavya-ai-series": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE：Lionsgate Play正推出旗下首部AI-led原创剧集Eklavya。该剧以印度神话为背景，将由Lionsgate Play CEO Rohit Jain近期发布的AI演员角色Yug R.Ai出演。"
+        },
+        {
+          "t": "p",
+          "x": "该剧以印度教史诗Mahābhārata中的一位弓箭手为原型，讲述“一个被师父拒之门外、凭借纯粹意志练成箭术的少年的传说”。Vibhu Puri（Heeramandi、Gustaakh Ishq）将执导该剧，剧集将于明年在Lionsgate Play应用内的Tiger TV首播。"
+        },
+        {
+          "t": "p",
+          "x": "该剧已开机，这标志着Lionsgate Play与Google长期制作合作的开端，剧中使用了Google的AI技术。剧集将提供多种印度语言及国际语言版本。"
+        },
+        {
+          "t": "p",
+          "x": "Jain表示：“每一次技术飞跃都为讲故事的人打开了新的大门，而AI比以往任何技术都打开得更多、更快，但仅靠技术并不能在银幕上创造魔法。”他还说：“Eklavya是我们最大胆的意向宣言，首季共八集，旨在发展为多季系列，而Yug R.Ai只是开始。”"
+        }
+      ]
+    },
+    "movies/disney-cto-ai-workflow": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
+        },
+        {
+          "t": "p",
+          "x": "九月从Character.ai加盟的新任CTO Karandeep Anand获CEO Josh D'Amaro授予广泛权力，要将Disney各业务部门使用的AI工作流程和系统标准化，这撼动了各部门原有的自有制作管线。一位了解公司情况的人士说：“他树敌不少。”"
+        },
+        {
+          "t": "p",
+          "x": "曾执掌Office of Technology Enablement的Jamie Voris已离职，Walt Disney Studios CTO Eddie Drake则提前退休。一位Disney消息人士否认存在僵局，称所谓借裁员强推AI的说法是“对我们战略的错误描述”。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
+        },
+        {
+          "t": "p",
+          "x": "D'Amaro已签署协议，用Disney IP在Adobe的Firefly上训练定制生成式AI模型，并将于十二月5日在Disney+推出AI-generated动画Ozzy Fox。Disney表示，目标是到2029财年实现每年$3 billion 的成本节约，节省资金将再投入内容和技术。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
+          "cap": "Character AI前CEO Karandeep Anand在Mobile World Congress（MWC）期间留影。"
+        },
+        {
+          "t": "p",
+          "x": "能标准化到何种程度仍存疑问：一位熟悉该公司制片流程的人士表示，可能惠及Marvel或Lucasfilm等大片制作大型制片厂的AI工作流程，未必适用于2D动画项目或儿童教育节目。"
+        }
+      ]
+    },
+    "movies/maharaja-denims-genai-feature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Khushwant Singh的小说《Maharaja in Denims》讲述一名年轻人重历19世纪锡克统治者Maharaja Ranjit Singh一生的故事，其长篇生成式AI电影版即将完成——片方称，这部片实际上拍了三遍。团队希望赶在Baisakhi节、于2027年四月前上映，导演为Balpreet Kaur。"
+        },
+        {
+          "t": "p",
+          "x": "该片于2024年开始用Midjourney和Runway制作，后转向Google Veo，由Nano Banana负责静帧，之后又历经Kling AI和Seedance 2.0，最终在Higgsfield提供的工具上收尾。Nano Banana成为转折点。团队在确定视觉风格前，把全片静帧重做了三遍。"
+        },
+        {
+          "t": "p",
+          "x": "Singh说，新技术通常能把成本降到十分之一左右，但随着工具进步，团队把影片近一小时的内容重做了三遍。他估计，不计营销费用，成本超过$500,000。"
+        },
+        {
+          "t": "p",
+          "x": "Singh说：“在整个技术演进过程中，创作过程始终完全由人主导。”影片音乐全部由人创作，配音和旁白均由演员在录音棚录制。"
+        }
+      ]
+    },
+    "movies/ebs-genai-animation-slot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+          "cap": "EBS AI动画大赛获奖作品"
+        },
+        {
+          "t": "p",
+          "x": "5部融合生成式人工智能（AI）技术的原创动画即将登上电视荧屏。"
+        },
+        {
+          "t": "p",
+          "x": "EBS将从下月1日起，在EBS 1TV陆续播出通过“2026年EBS生成式AI动画系列联合制作项目”选出的5部作品。"
+        },
+        {
+          "t": "p",
+          "x": "此次入选作品从总计429部参赛作品中脱颖而出，在生成式AI技术基础上结合了定格动画（将物体的动作固定拍摄，再以同样方法拍摄后续连续动作，从而制作出动态影像的技法）、3D等多种表现手法。"
+        },
+        {
+          "t": "p",
+          "x": "EBS将每周二至周四下午5时20分至5时50分定为“AI动画特别编排时段”，安排播出上述作品。"
+        },
+        {
+          "t": "p",
+          "x": "下月1日将首播音乐童话《可可尼尼童话探险队》，以及讲述孤独少年通过AI设备学习情感的成长故事《夜晚讲述的故事》。"
+        },
+        {
+          "t": "p",
+          "x": "2日将接着首播喜剧奇幻作品《Euphoria Quest》和描绘猫咪书店店主日常的《猫咪书店Monobooks》。另一部入选作品《黄袜子波波》预计明年3月播出。"
+        }
+      ]
+    },
+    "movies/botvfx-young-washington": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "BOT VFX为战争剧《Young Washington》打造的流程，将Maya和Nuke中的CG制作与生成式AI相结合。这家总部位于印度的工作室在17周内交付了300个镜头，包括大规模战斗场面增强和历史场景。"
+        },
+        {
+          "t": "p",
+          "x": "在战斗段落中，BOT VFX将传统CG与AI生成（AI-generated）元素结合，用于扩充人群，并添加枪口火焰和爆炸等效果。其他镜头，包括小镇环境和宾客抵达豪宅派对的场景，几乎完全由AI生成，再辅以数字绘景和CG元素。"
+        },
+        {
+          "t": "p",
+          "x": "生成式AI并非万能：原始素材常常缺乏时间一致性，其中很多需要放大到4K 分辨率，部分AI生成素材的位深有限，也降低了合成阶段的灵活性。"
+        },
+        {
+          "t": "p",
+          "x": "VFX总监Caine Dickinson表示，工作室内部的AI应用以ComfyUI为核心构建，主要采用开放权重模型：FLUX.2 Klein用于图像修补、编辑和局部精修，Wan 2.1则用于探索视频生成。团队还测试了Kling、Kling Omni、Veo、Hailuo、PixVerse和Seedance 1.5等云端模型，并使用Topaz和Magnific进行放大。"
+        },
+        {
+          "t": "p",
+          "x": "“我们的一个重要体会是，没有哪一个AI模型一定比其他模型更好，”Dickinson说，“AI提供了生成和打磨图像的新方法，而传统的[VFX技术]则给了我们把这些元素提升到可投产标准所需的控制力。”"
+        }
+      ]
     }
   }
 }

@@ -11551,6 +11551,152 @@
           "x": "鉴于近期涉及Rihanna和Taylor Swift的深度伪造诈骗，Digital Music News认为Likeness Detection的实际效果值得关注。"
         }
       ]
+    },
+    "music/audiotool-flow-music-nxs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmagimg.speedgabia.com/2026/11/img-1795578765929-bdc57c3994449c6a.webp",
+          "cap": "图片：Audiotool"
+        },
+        {
+          "t": "p",
+          "x": "基于浏览器的DAW Audiotool宣布与Google Flow Music集成。"
+        },
+        {
+          "t": "p",
+          "x": "Audiotool推出了名为“NXS (NEXUS Plugins)”的全新插件系统。NXS可在Audiotool中运行用Google Flow Music的Spaces创建的插件。Audiotool表示，它是首个原生支持Google Flow Music插件的DAW。"
+        },
+        {
+          "t": "p",
+          "x": "Spaces是Google Flow Music的一项功能，用户无需编写代码即可打造自定义的数字乐器和效果器。用户可以把Spaces插件拖进Audiotool项目，立即开始创作音乐，无需另行下载或安装。"
+        },
+        {
+          "t": "p",
+          "x": "NXS插件默认支持多人协作。在共享项目中，多人可以实时演奏并调节同一件乐器。MIDI控制器可以映射到插件参数，在音轨中进行控制，也可以施加自动化。"
+        },
+        {
+          "t": "video",
+          "yt": "emGVyeEOxoQ"
+        },
+        {
+          "t": "p",
+          "x": "插件在服务器上离线渲染，因此项目在任何地方都能回放。创作者可以发布插件、分享项目供他人混音，并邀请协作者。未来几周内，Audiotool计划为NXS加入多路音频输出和MIDI输出等功能。"
+        },
+        {
+          "t": "p",
+          "x": "Audiotool CEO Andreas Jacobi表示：“音乐软件一直都有固定的工作流程和功能组合，但每个人的工作方式都不一样。借助Google Flow Music和NXS，Audiotool用户可以让自己的DAW按照自己的方式工作。”"
+        },
+        {
+          "t": "p",
+          "x": "NXS现已在Audiotool上线。"
+        }
+      ]
+    },
+    "music/music-daeumhyup-ai-principles": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img2.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124048100005_03_i_P4.jpg",
+          "cap": "运用AI的音乐［AI生成图片］"
+        },
+        {
+          "t": "p",
+          "x": "韩国大众音乐产业协会（大音协）面向会员公司开展了“AI政策问卷调查”，并于24日公布了调查结果及据此提出的3大原则。参与AI工作组的20家会员公司中有14家作出回应；按Circle Chart统计，这些公司去年在年度“Top 100”专辑销量中的占比达83.4%。"
+        },
+        {
+          "t": "p",
+          "x": "没有一家企业赞成引入无条件的文本与数据挖掘（TDM）免责条款，也没有企业表示会积极参与“先使用、后补偿”模式。100%的受访企业认为需要加强公开权保护措施；14家中有9家（64%）在发行与分销合同中设有条款，一旦发现欺诈性音源，将追究供货方的责任。"
+        },
+        {
+          "t": "img",
+          "src": "https://img4.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124048100005_01_i_P4.jpg",
+          "cap": "AI时代保护音乐产业的3大原则［韩国大众音乐产业协会提供］"
+        },
+        {
+          "t": "p",
+          "x": "大音协提出了▲负责任的AI训练 ▲保护艺人权利 ▲公平的发行与结算这3大原则，并强调应制定合理标准，“区分AI单纯生成的音源与AI辅助的音源”。"
+        },
+        {
+          "t": "p",
+          "x": "韩国音乐著作权协会（音著协）将于30日举行“为制定AI运用音乐信托标准的会员听证会”。音著协曾于8月实施允许登记AI运用音乐的规定，但在采纳国会和文化体育观光部的意见后予以撤回。"
+        }
+      ]
+    },
+    "music/tone3000-daisy-nam-pedal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/bWFNSFhARwYzmvoxs9obzY-1920-80.jpg",
+          "cap": "TONE3000 Daisy Audio DIY踏板"
+        },
+        {
+          "t": "p",
+          "x": "TONE3000与Daisy Audio合作推出一款DIY踏板套件：这是一台功能完整、可在家中自行组装的捕获与IR播放器，并可接入不断壮大的Neural Amp Modeler（NAM）音色网络。"
+        },
+        {
+          "t": "p",
+          "x": "NAM A2被普遍认为是当今最出色的建模技术之一，在盲听测试中胜过业内大牌产品。它是一个开源平台，玩家可以免费创建、下载和使用音箱与效果器的捕获。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NqPTzAAx9CZShiVwBFHWsY.jpg",
+          "cap": "图片来源：TONE3000"
+        },
+        {
+          "t": "p",
+          "x": "从固件、配套应用到原理图、电路板和钻孔模板，这款踏板的每个部分都是开源的。它可存储四个预设，配有三段EQ，以及Input、Output和Noise Gate控制。它可以加载任意NAM A2捕获、叠加多个捕获，或将主模型送入Impulse Response。"
+        },
+        {
+          "t": "video",
+          "yt": "Rrxt4IpQ4Ic"
+        },
+        {
+          "t": "p",
+          "x": "整套约有150个焊点，基于Daisy Audio Seed3模块（$34.99）打造。其余硬件来自Tayda Electronics，价格为$42.99，整套套件合计$77.98。"
+        }
+      ]
+    },
+    "music/incrementdet-ai-music-detector": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI生成音乐（AI-generated music）在音乐流媒体平台上已十分常见，听众往往无法将其与人类创作的音乐区分开来。基于固定生成器集合训练的检测器在面对未见过的生成器时常常失效，而更新通用检测器通常需要大量训练数据和算力。"
+        },
+        {
+          "t": "p",
+          "x": "IncrementDET通过一个名为“注册”（enrollment）的过程逐一学习新的生成器。它为每个生成器训练一个被称为“针”（needle）的线性分类器，用来将该生成器的样本与一组固定的人类参考曲目区分开。注册新生成器时只增加一根针，原有的针保持不变；Sidak校正则让整体误报率维持在目标水平。"
+        },
+        {
+          "t": "p",
+          "x": "作者还构建了EvoMusicFake-17K 数据集，收录了来自六个近期生成器和四个人类音乐平台的器乐作品。与SpecTTTra相比，IncrementDET只需少量样本就能更准确地学习新生成器，对未见过的生成器泛化更好，对已学过的生成器也能更好地保持性能，而且更新成本大幅降低。"
+        }
+      ]
+    },
+    "music/tidal-ai-music-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2261659998.jpg?w=1600&h=900&crop=1",
+          "cap": "Tidal宣布将于12月开始移除完全由AI生成的音乐。"
+        },
+        {
+          "t": "p",
+          "x": "Tidal公布了一项雄心勃勃的计划，禁止所有完全由人工智能生成的音乐。自12月9日起，这家流媒体服务将开始拒绝一切用AI制作的音乐上传，并移除平台上现有的此类音乐。Tidal负责人Robert Anderson表示，到2027年初所有AI曲目都将被清除。"
+        },
+        {
+          "t": "p",
+          "x": "该政策仅适用于完全用Suno、Lyria和Udio等AI工具制作的音乐；借助AI工具辅助制作的曲目仍获允许，“但不能是其唯一产出”。Anderson指出，这一决定使Tidal成为首个禁止AI音乐的数字流媒体平台。此前，Tidal已于今年夏天开始为AI-generated曲目添加标签并取消其变现资格。"
+        },
+        {
+          "t": "p",
+          "x": "Tidal估计，目前平台上有27至2900万首AI曲目（约占全部曲库的百分之六），过去90天内所有上传内容中有43%被标记为完全AI-generated。Anderson表示，政策生效后预计每天将拒绝80,000至85,000首歌曲。Tidal已下架超过65,000首因涉嫌冒用艺人名义而被标记的曲目。"
+        },
+        {
+          "t": "p",
+          "x": "Tidal已与Ircam Amplify合作测试其检测工具。一位发言人表示：“少量误报在所难免，但凭借我们的申诉流程和不断改进的检测技术，我们对这一做法充满信心。”分销商也将被禁止交付此类曲目；若元数据显示曲目完全由AI工具生成，交付将被拒绝。"
+        }
+      ]
     }
   }
 }

@@ -12394,6 +12394,116 @@
           "x": "\"Hay algo fundamentalmente similar en cómo se comunica el cerebro\", afirma la autora principal, Evelina Fedorenko. El trabajo podría ayudar a que las herramientas clínicas de lenguaje con AI lleguen a hablantes de más idiomas y, algún día, a preservar lenguas en peligro."
         }
       ]
+    },
+    "science/meta-meg-typing-decode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de científicos ha desarrollado un sistema de inteligencia artificial que traduce en frases tecleadas la actividad cerebral registrada fuera del cráneo. Según el estudio publicado en Nature Neuroscience, el modelo decodificó frases memorizadas con una tasa media de error de caracteres del 29 por ciento mediante escáneres magnéticos del cerebro, y llegó al 18 por ciento en el participante con mejor rendimiento."
+        },
+        {
+          "t": "p",
+          "x": "Jarod Lévy, Stéphane d’Ascoli y Jean-Rémi King, de Meta AI en París, y sus colegas crearon Brain2Qwerty, un sistema de aprendizaje profundo entrenado con registros de 35 mecanógrafos expertos hispanohablantes que llevaban un gorro EEG de 64 sensores o se sentaban en un escáner de magnetoencefalografía de 306 sensores. La MEG superó a la EEG, cuya tasa de error fue del 65 por ciento, y Brain2Qwerty redujo la tasa de error de EEGNet con MEG del 72 al 29 por ciento."
+        },
+        {
+          "t": "p",
+          "x": "Los errores tendían a caer en teclas físicamente adyacentes, lo que sugiere que el decodificador lee órdenes motoras de los dedos. “Este artículo establece una nueva precisión de vanguardia para decodificar lo que una persona teclea mediante una tecnología no invasiva de medición cerebral”, dijo Sergey Stavisky, de UC Davis, quien añadió que “todavía está muy lejos de ser una forma práctica de comunicarse”."
+        },
+        {
+          "t": "p",
+          "x": "El sistema aún no funciona en tiempo real, depende de las marcas de tiempo de las pulsaciones y no se ha probado con usuarios paralizados. Cinco de los siete autores del estudio trabajan para Meta."
+        }
+      ]
+    },
+    "science/jyvaskyla-metallene-ml-screen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
+          "cap": "Sin capas de soporte, los metales colapsan en cúmulos; intercalarlos entre TMDs, grafeno o BN puede dar metales planos y estables. Credit: Mohammad Bagheri"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la University of Jyväskylä usaron aprendizaje automático y computación de alto rendimiento para identificar más de 300 estructuras estables de sándwich de metaleno. Los metalenos, capas de metales elementales de un átomo de grosor, tienden a colapsar en cúmulos 3D cuando están aislados."
+        },
+        {
+          "t": "p",
+          "x": "El aprendizaje automático, entrenado con datos de simulaciones de primeros principios, exploró sándwiches que combinan decenas de metales con materiales 2D comunes como el grafeno y los dicalcogenuros de metales de transición. “El aprendizaje automático nos permitió examinar más de mil heteroestructuras”, dijo el investigador posdoctoral Mohammad Bagheri."
+        },
+        {
+          "t": "p",
+          "x": "Los TMDs basados en selenio estabilizaron el mayor número de capas metálicas, y simulaciones a temperatura ambiente confirmaron que algunos sándwiches seleccionados se mantienen intactos y metálicos. “Los resultados ofrecen a los experimentadores un mapa práctico”, dijo el profesor Pekka Koskinen. El trabajo se publicó en Nano Letters; el conjunto de datos es público y los cálculos se realizaron en el supercomputador LUMI."
+        }
+      ]
+    },
+    "science/nhb-eight-ai-impacts-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "Los sistemas de inteligencia artificial (AI) ya los usan mil millones de personas en todo el mundo. ¿Qué impacto tienen en sus usuarios? Las narrativas de preocupación más difundidas sostienen que la AI podría estar minando nuestras capacidades cognitivas, contaminando nuestro ecosistema informativo, corroyendo las relaciones humanas, dañando nuestra salud mental y volviéndonos vulnerables a la persuasión, la manipulación, la dependencia emocional y la ingeniería social."
+        },
+        {
+          "t": "p",
+          "x": "Una investigación emergente ha empezado a estudiar el impacto de la AI en las personas mediante evaluaciones de modelos, estudios con usuarios, análisis de registros de chat de consumidores y simulaciones basadas en agentes. Aquí revisamos esa evidencia y encontramos pruebas limitadas para las narrativas de preocupación más fuertes. Sin embargo, la investigación aún es incipiente y quedan muchas incertidumbres por resolver en trabajos futuros."
+        },
+        {
+          "t": "p",
+          "x": "Esta revisión (Review), de Christopher Summerfield y sus colegas, evalúa la evidencia sobre ocho preocupaciones urgentes acerca de cómo la AI está afectando a las personas. Encuentra un apoyo modesto para las afirmaciones más alarmantes, pero pide examinar más a fondo el impacto humano de la AI."
+        }
+      ]
+    },
+    "science/psypost-humour-dark-traits-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+          "cap": "[Adobe Stock]"
+        },
+        {
+          "t": "p",
+          "x": "Un estudio publicado en Journal of Individual Differences indica que los modelos de aprendizaje automático que analizan cuán graciosos y crueles encuentran las personas los chistes visuales pueden identificar niveles elevados de psicopatía y sadismo cotidiano y, en menor grado, de narcisismo, aunque no de maquiavelismo (Machiavellianism)."
+        },
+        {
+          "t": "p",
+          "x": "Liubov Glinkina, de la HSE University de San Petersburgo, y sus colegas pidieron a 200 hablantes de ruso que valoraran 71 memes, cómics y viñetas según su gracia, su amabilidad y su blanco, y luego compararon seis clasificadores. La psicopatía se detectó con mayor fiabilidad, con una precisión cercana a 0.82; el sadismo alcanzó su máximo por encima de 0.70, el narcisismo llegó a 0.66 y el maquiavelismo rondó la marca de azar de 0.50."
+        },
+        {
+          "t": "p",
+          "x": "Random forest y gradient boosting obtuvieron el mejor rendimiento, y las características de imagen como el color y la disposición del texto no mejoraron la precisión. “Es una señal estadística a nivel de grupo, no lectura de la mente: no puede diagnosticar a un individuo”, dijo Glinkina, y añadió que “no es un detector de mentiras, ni una herramienta de cribado, ni nada adecuado para la contratación”."
+        }
+      ]
+    },
+    "science/cornell-chatbot-conspiracy-crisis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
+        },
+        {
+          "t": "p",
+          "x": "Los rumores empezaron a circular justo después de que Donald Trump sobreviviera a un intento de asesinato en un mitin al aire libre el 13 de julio de 2024. En cuestión de días, investigadores de Cornell, el MIT y la Carnegie Mellon University invitaron a la gente a compartir sus creencias conspirativas con DebunkBot, un chatbot impulsado por IA (AI-powered) instruido para rebatir la desinformación."
+        },
+        {
+          "t": "p",
+          "x": "El equipo comprobó que el 15% de las personas podía abandonar sus creencias conspirativas justo después de una crisis, cuando se sabe muy poco. El artículo, “Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models”, se publicó el 23 de noviembre en Proceedings of the National Academy of Sciences."
+        },
+        {
+          "t": "p",
+          "x": "El experimento se repitió tras el asesinato de Charlie Kirk en septiembre de 2025. Los participantes fueron asignados al azar a un breve intercambio con el bot, a una hoja informativa o a una conversación no relacionada. Tras ambas crisis, DebunkBot redujo las creencias conspirativas y fue entre cinco y siete veces más eficaz que una hoja informativa. Quienes habían conversado con él también fueron menos propensos a tener creencias conspirativas sobre un intento posterior contra Trump."
+        },
+        {
+          "t": "p",
+          "x": "“El reto ahora no es tanto sacar a la gente de la madriguera del conejo, sino lograr que participe en primer lugar”, dijo el primer autor, Thomas Costello, de la Carnegie Mellon University."
+        }
+      ]
     }
   }
 }

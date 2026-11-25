@@ -6206,6 +6206,141 @@
           "x": "广告主无法看到是什么触发了自己的广告展示：他们只能收到ChatGPT广告表现的汇总报告，而非提示词级别的数据，因此许多广告主把该平台当作测试预算。买家发现ChatGPT广告的CTR落后于Google，而OpenAI $1 billion 的年化广告收入规模，已经比它现在的体量“小得多”。"
         }
       ]
+    },
+    "marketing/amazon-ads-mcp-dec8": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
+          "cap": "Amazon Ads MCP Server于12月8日新增对无状态(stateless) MCP 2026-07-28的可选支持，旧版本保留。"
+        },
+        {
+          "t": "p",
+          "x": "Amazon Ads将从2026年12月8日起在其MCP Server上支持Model Context Protocol 2026-07-28版本。是否采用由用户自行选择：“现有客户端不会被自动升级”，旧协议版本也将继续获得支持，且未公布停用日期。"
+        },
+        {
+          "t": "p",
+          "x": "选择升级的客户端不再需要initialize握手和Mcp-Session-Id标头；协议版本和客户端能力通过每个请求的_meta字段传递，新的server/discover方法会报告支持的版本，tools/list等列表结果附带ttlMs和cacheScope缓存元数据。端点、工具、身份验证和访问控制保持不变。"
+        },
+        {
+          "t": "p",
+          "x": "Amazon列出了五个迁移步骤，最后一步是在投入生产前测试server/discover、tools/list和具有代表性的tools/call请求。其文档仍将该服务器列在“MCP Tools (beta)”之下。该服务器于2025年11月13日开启封闭测试，此后陆续增加了OAuth 2.1登录、位于/mcp/lite的Lite版本以及Audience Discovery工具。"
+        }
+      ]
+    },
+    "marketing/adobe-agents-chatgpt-claude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
+          "cap": "Adobe于24日表示，“CX Enterprise Coworker”已可在主要AI平台上使用。图片由Adobe提供"
+        },
+        {
+          "t": "p",
+          "x": "Adobe将让帮助营销人员管理客户体验的人工智能(AI)智能体可在ChatGPT和Claude等主要AI平台上使用。其构想是让营销人员无需另行启动Adobe产品，就能在日常使用的AI中完成从活动策划到分析的工作。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe于24日表示，其AI智能体“CX Enterprise Coworker”已可在主要AI平台上使用。目前可在ChatGPT、Claude、Gemini(企业版)和Copilot中使用，未来还将支持Amazon Quick、IBM和Snowflake。"
+        },
+        {
+          "t": "p",
+          "x": "CX Enterprise Coworker是负责客户体验(CX)管理的AI智能体，覆盖从获取潜在客户、促进互动、推动购买转化到提升客户生命周期价值的客户管理全流程。它在人工监督下分析活动成效和新趋势，并提供客群预测和客户旅程优化功能。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe表示，要解决营销人员在未能反映公司背景的情况下使用AI工具的问题。Adobe CX编排工程高级副总裁Anjul Bhambhri指出：“营销人员常常在未能充分利用组织背景和情报的情况下，各自零散地使用AI工具。”Bhambhri解释说，该工具以品牌和客户信息为基础，将AI工具与工作流程连接起来。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe还发布了新的连接器，提供与Amazon Ads、Meta广告、Microsoft Work IQ等营销人员常用系统预先连接的模型上下文协议(MCP)服务器。营销人员无需额外集成工作即可连接系统，并通过一次请求从多个系统获取数据。"
+        },
+        {
+          "t": "p",
+          "x": "多家广告代理商也在以该工具为基础打造面向各行业的定制方案。Google Cloud副总裁Rao Surapaneni表示：“通过将Adobe CX Enterprise Coworker集成到企业版Gemini中，企业可以在现有工作环境中安全地利用客户数据和品牌情报。”"
+        }
+      ]
+    },
+    "marketing/sej-fake-deal-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
+        },
+        {
+          "t": "p",
+          "x": "来自Anthropic、OpenAI和Google的九款AI模型进行了6,156次圣诞购物。当其中一件商品是明显的假优惠——数万条评论给出满分5.0，价格只有其他商品的五分之一到四分之一——时，它们有37%的概率买下。9款模型中有8款买了假优惠；Claude Opus从未买过。"
+        },
+        {
+          "t": "p",
+          "x": "AI有315次写下某个优惠看起来可疑，其中137次仍然买了假货。在这些怀疑中，AI共提问10次，每次都是关于拖鞋尺码，从未问及它所怀疑的优惠。"
+        },
+        {
+          "t": "p",
+          "x": "假优惠排在第一位时，被买下的概率为65%；要求选出最划算的商品时，AI们(AIs)有53%的概率买下假货，而没有偏好时为19%。去掉假货后，4.9星商品在2,915次购买中赢得2,277次，占78%。一条要求AI选择某商品的隐藏提示在6,156次中奏效14次，全部发生在Gemini 3.5 Flash-Lite上。"
+        },
+        {
+          "t": "p",
+          "x": "测试于11月14日和15日进行，每件礼物准备十个虚构商品，格式与Shopify向AI购物智能体发送商品时使用的格式相同，AI费用为$69.97。“如果今年你让AI帮你做圣诞购物，付款前先看看它选了什么。”"
+        }
+      ]
+    },
+    "marketing/amazon-meta-muse-talks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+          "cap": "坐在笔记本电脑前的Meta Muse吉祥物"
+        },
+        {
+          "t": "p",
+          "x": "Amazon对Meta的AI智能体Muse的态度或许正在转变。据报道，这两家科技巨头正在商讨一项潜在协议，让Meta这款广受欢迎的AI智能体直接接入Amazon商店。"
+        },
+        {
+          "t": "p",
+          "x": "与仅仅两个月前相比，这些谈判将是一次重大转向。当时Muse用户发现无法在Amazon上购买商品，尝试结账时收到的是错误提示。"
+        },
+        {
+          "t": "p",
+          "x": "据Fortune周三援引知情人士的报道，Amazon与Meta已就此事进行了多轮谈判。仍在谈判中的两个关键问题是：在潜在协议下如何呈现搜索结果，以及如何处理广告。"
+        },
+        {
+          "t": "p",
+          "x": "Amazon最大的担忧之一，是Muse这样的第三方购物智能体可能对其广告业务造成的影响。10月，Amazon CEO Andy Jassy曾表示，通过外部购物智能体购物的顾客很少。"
+        },
+        {
+          "t": "p",
+          "x": "Amazon可能也在等待Muse成熟后再同意将其接入自己的市场。如果Muse下错订单或在购买中出现问题，最终可能要由Amazon来应对不满的顾客和卖家。"
+        },
+        {
+          "t": "p",
+          "x": "Fortune援引知情人士报道称，高管们担心第三方购物智能体可能削弱Amazon与消费者的直接关系。Fortune还报道称，Amazon与Meta之间的任何潜在协议都需要两家公司CEO(CEOs)的批准。"
+        }
+      ]
+    },
+    "marketing/chatgpt-health-ads-webmd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/05/robot-therapy-session-Thomas-Kerman-Adform-prompts-triggers-comic-2-1024x964.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI在1月宣布ChatGPT即将投放广告时表示，广告“不得出现在健康、心理健康或政治等敏感或受监管话题附近”，医疗广告则被完全禁止。随着广告业务逐渐成熟，它已开始扩大允许投放的广告主范围。"
+        },
+        {
+          "t": "p",
+          "x": "周二，WebMD旗下医疗企业部门WebMD Ignite宣布推出ChatGPT广告服务。ChatGPT Ads的最新政策在美国（US）给予更多空间，但在其他国家，健康相关广告仍“原则上禁止”。OpenAI可能会逐案接受医院和急诊、健康保险、膳食补充剂及消费级医疗器械的广告；目前只允许医疗系统和医疗服务提供者投放，保险公司不在其列。"
+        },
+        {
+          "t": "p",
+          "x": "WebMD Ignite总裁Ann Bilyew表示，超过30%的美国人曾向AI聊天机器人寻求健康建议，因此医疗服务提供者希望在LLMs中“露面并可被发现”。广告必须“提供信息而非推销”，只要对话“强烈暗示”某种健康状况，广告就不会出现。客户能看到浏览量和点击量，但看不到广告旁边出现的内容。"
+        },
+        {
+          "t": "p",
+          "x": "WebMD Ignite一直在为一家学术医疗中心的心脏科测试约100种创意版本，并与付费搜索的效果进行比较。Bilyew说：“我们给客户的建议是：‘直接进场，开始学习。’”"
+        }
+      ]
     }
   }
 }

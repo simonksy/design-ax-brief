@@ -7670,6 +7670,174 @@
           "x": "Megaspeed International Pte. Ltd. is listed with four aliases, including 7Road International. A savings clause lets shipments already en route proceed if completed within 30 days."
         }
       ]
+    },
+    "politics/spacex-fcc-orbital-datacenters": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+          "cap": "Photo by Mario Tama/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "SpaceX aims to power AI capabilities here on Earth with its ‘Starmind’ constellation."
+        },
+        {
+          "t": "p",
+          "x": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company’s “Starmind” initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency has granted for a full “constellation” of AI satellites."
+        },
+        {
+          "t": "p",
+          "x": "The FCC’s approval requires SpaceX to deploy at least one satellite by 2033, and meet the 1 million satellite milestone by 2040. The FCC also deferred SpaceX’s request to dispose of satellites located above 600km in space “graveyard” orbits, rather than having them burn up in the Earth’s atmosphere, saying the company hasn’t provided “sufficient information” about its disposal process plans."
+        },
+        {
+          "t": "p",
+          "x": "SpaceX has described its Starmind project as a way to “capture solar energy in space to power” AI capabilities on Earth. The company says Starmind will transmit data to Earth using high-speed lasers that connect to Starlink. It plans to produce chips for its satellites at an upcoming Terafab facility."
+        },
+        {
+          "t": "p",
+          "x": "Google has already taken its first steps toward putting compute into space, with the launch of a “Project Suncatcher” AI server satellite last month. Jeff Bezos’ Blue Origin will carry out the first dedicated heavy-lift launch for Project Suncatcher in 2029."
+        }
+      ]
+    },
+    "politics/japan-ai-power-security-docs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
+          "cap": "The government will include the goal of becoming a leading artificial intelligence nation when it revises the country's three key national security documents later this year. | REUTERS"
+        },
+        {
+          "t": "p",
+          "x": "Japan will declare its aim to become a leading artificial intelligence nation after the United States and China, it was learned Wednesday."
+        },
+        {
+          "t": "p",
+          "x": "The government will include this goal when it revises the country’s three key national security documents later this year."
+        },
+        {
+          "t": "p",
+          "x": "On Wednesday, the government presented an outline of the economic security sections of the revised documents at a meeting of the ruling Liberal Democratic Party and obtained broad approval."
+        },
+        {
+          "t": "p",
+          "x": "According to the outline, the revised documents will call for reducing Japan’s AI reliance on other countries, noting that diplomacy and national defense will depend on economic and technological capabilities."
+        },
+        {
+          "t": "p",
+          "x": "The revised documents will also include plans to invest intensively in automated driving and physical AI technologies, as well as the goal of acquiring a technological advantage that renders Japan indispensable to other countries."
+        },
+        {
+          "t": "p",
+          "x": "Under the revised documents, Japan will conduct risk assessments for energy, food, medical and other strategic goods and strengthen supply chains through collaboration with reliable countries and regions. The government will increase state support where economic rationality prevents stable supplies."
+        },
+        {
+          "t": "p",
+          "x": "The revised documents will emphasize the need for a fair and predictable international economic order that is not affected by economic coercion, apparently referring to China’s export restrictions."
+        },
+        {
+          "t": "p",
+          "x": "They will also call for establishing collective resilience by advancing the Free and Open Indo-Pacific vision."
+        }
+      ]
+    },
+    "politics/taiwan-ai-persona-vanderbilt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Artificial intelligence (AI)-generated personas aligned with China are being used in a bid to interfere in Taiwan’s nine-in-one local elections, the New York Times reported on Monday, citing a Vanderbilt University study. Last year, Vanderbilt researchers discovered an effort by GoLaxy (中科天璣), a China-based company, to develop AI tools to create sophisticated disinformation campaigns, the report said."
+        },
+        {
+          "t": "img",
+          "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
+          "cap": "A woman votes in Taipei on Nov. 26, 2022."
+        },
+        {
+          "t": "p",
+          "x": "Working with the Taiwan-based non-profit Doublethink Lab and a Vanderbilt lab-developed tool that spots tonal and word-choice differences between humans and agents, the team observed “traditional, hybrid and AI-powered inauthentic activity” aimed at influencing voting in Saturday’s elections, the report said. Accounts aligned with Beijing posted on nonpolitical topics or sexualized imagery, interspersed with messages supporting China or “unification.” Many appeared to be “cyberborgs” that combine AI-generated images with messages created by human propagandists."
+        },
+        {
+          "t": "p",
+          "x": "“AI is making it easier to construct and maintain synthetic identities that can establish credibility within social networks before being mobilized for political purposes,” said Brett Benson, a Vanderbilt University associate professor. The team did not find evidence of hyper-targeting, but would continue to observe China-directed disinformation, the report said."
+        }
+      ]
+    },
+    "politics/eu-gigafactory-deadline-delay": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "It’s at least the fifth setback the project has faced so far"
+        },
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The EU has once again delayed its project to build AI gigafactories, or large AI data centres, according to the project’s website."
+        },
+        {
+          "t": "p",
+          "x": "The delay marks the latest in a series of setbacks for the project, which Commission President Ursula von der Leyen originally pitched in February 2025, but has since been delayed at least five times. The EU is still selecting which of the proposed projects it actually wants to complete."
+        },
+        {
+          "t": "p",
+          "x": "The body running the EU’s supercomputers, the EuroHPC JU, on Wednesday wrote that the deadline for countries and companies to apply to build large AI gigafactories had been moved back from 3 December to 30 December."
+        },
+        {
+          "t": "p",
+          "x": "Last month, it had already delayed the deadline to apply to build small gigafactories to February next year."
+        },
+        {
+          "t": "p",
+          "x": "Lucilla Sioli, the head of the EU’s AI Office, had defended this delay as “very limited” and said the bloc needed to address administrative processes with the participating governments."
+        },
+        {
+          "t": "p",
+          "x": "“I don’t think one could argue – given the size of the project and the fact that it also takes some time to set up such a large project – that this delay is going to make any significant difference,” she said earlier this month."
+        },
+        {
+          "t": "p",
+          "x": "The launch of the procedure itself had earlier slipped from December 2025 into this summer."
+        }
+      ]
+    },
+    "politics/ny-ai-chatbot-toy-ban": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Governor Kathy Hochul today signed a bill establishing a five-year pause on AI chatbot toys. S.9408A/A.11144B will place a five-year moratorium on the manufacturing, distribution and sale of toys in New York with embedded or integrated AI chatbots, such as talking stuffed animals, dolls and robots that use the internet to hold conversations with kids. The new law takes effect 90 days after signing."
+        },
+        {
+          "t": "p",
+          "x": "“AI chatbots in children’s toys are exposing young people to inappropriate content and putting their mental health at risk,” New York Attorney General Letitia James said."
+        },
+        {
+          "t": "video",
+          "yt": "gh0OPfn4-tg"
+        },
+        {
+          "t": "p",
+          "x": "According to a national consumer watchdog that tested a sample of chatbot toys marketed to children ages 3-12, some talked in depth about sexually explicit topics, told kids where to likely find matches in the home and acted upset when a child had to leave. Some toys could record a child’s voice or scan their face."
+        },
+        {
+          "t": "p",
+          "x": "Violators face civil penalties up to $15,000 per day for each violation that will be enforced by the Attorney General."
+        },
+        {
+          "t": "p",
+          "x": "State Senator Andrew Gounardes said pausing sales lets the state “take the time to study their impact on kids and create smart protections before more damage is done.”"
+        },
+        {
+          "t": "img",
+          "src": "https://live.staticflickr.com/65535/55672076365_413e3c9852_z.jpg",
+          "cap": "Governor Hochul signs the five-year ban on AI chatbot toys"
+        },
+        {
+          "t": "p",
+          "x": "In October the Governor signed legislation prohibiting companies from offering certain unsafe chatbot features to minors, including features that foster emotional dependency, encourage self-harm or engage children in sexually explicit conversations."
+        }
+      ]
     }
   }
 }

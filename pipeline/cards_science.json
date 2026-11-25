@@ -1,191 +1,257 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "science",
   "cards": [
     {
-      "id": "cornell-chatbot-conspiracy-crisis",
+      "id": "deepmind-mass-spec-skills",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "챗봇, 갓 생겨난 음모론도\n대화로 풀어낸다",
-      "body": "정보가 적은 위기 직후에도 AI 챗봇과의 대화가 음모론자 약 15%를 설득했다.",
-      "mini_headline": "챗봇 대 새 음모론",
+      "headline": "DeepMind 에이전트\n질량분석으로 분자 식별",
+      "body": "Mass Spec Skills로 100종 식별률이 4% 미만에서 약 97%가 됐다.",
+      "mini_headline": "Gemini가 질량 스펙트럼을 읽다",
       "tool": "Science",
-      "source": "Cornell Chronicle",
-      "url": "https://news.cornell.edu/stories/2026/11/chatbots-can-quash-emerging-conspiracy-theories",
-      "accent": "#2ec5c5",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Google DeepMind가 Google Antigravity용 Mass Spec Skills를 내놓는다. Gemini의 화학 추론에 기존 질량분석 도구와 공개 화학 데이터베이스를 엮은 도메인 스킬 모음이다. 스펙트럼 검색으로 주석이 붙는 스펙트럼은 평균 약 5%뿐이고, 나머지는 질량분석의 ‘암흑물질’로 불려 왔다."
+          },
+          {
             "t": "img",
-            "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
+            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+            "cap": "그림 1. 신호를 준비해 참조 라이브러리를 검색하고, 분자식을 추론해 후보 구조 순위를 매긴 뒤 교차 검증과 보정을 거친다."
           },
           {
             "t": "p",
-            "x": "2024년 7월 13일 도널드 트럼프가 야외 유세에서 암살 시도를 피한 직후부터 소문이 돌기 시작했다. 며칠 만에 코넬대, MIT, 카네기멜런대 연구진은 사람들이 믿는 음모론을 DebunkBot에 털어놓게 했다. 잘못된 정보를 반박하라는 지시를 받은 AI 기반(AI-powered) 챗봇이다."
+            "x": "에이전트는 프롬프트 하나만 받아 주석 없는 탠덤 질량 스펙트럼에서 출발하고, 화학 구조 제안과 검증 가능한 보고서까지 내놓는다. 어느 실행에서는 분자식 C20H21ClN6O를 밝혀내고 PubChem 이성질체 845개에 순위를 매긴 다음 단편화 경로를 검증해 실제 분자(CID 137835447)를 골라냈다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+            "cap": "그림 2. 프롬프트 하나로 구조 규명을 처음부터 끝까지 해낸다."
           },
           {
             "t": "p",
-            "x": "연구팀은 정보가 거의 없는 위기 직후에도 대화를 나누면 사람들의 15%가 음모론에서 벗어난다는 사실을 확인했다. 논문 「Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models」는 11월 23일 Proceedings of the National Academy of Sciences(미국국립과학원회보)에 실렸다."
+            "x": "MoNA의 Enamine REAL MS/MS 컬렉션에서 뽑은 화합물 100개 시험에서 인터넷 접속도 스킬도 없이 돌린 Gemini 3.8 Flash, Gemini 4 Argon, Gemini 4 Carbon은 모두 정확도가 4% 미만에 그쳤다. Mass Spec Skills를 붙이자 세 모델 모두 시도의 약 97%에서 정확한 분자를 찾아 검증했고, Flash는 생성 토큰이 네 배 가까이 줄었다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+            "cap": "그림 5a. 벤치마크 스펙트럼 100개의 정확 일치 식별 정확도."
           },
           {
             "t": "p",
-            "x": "연구진은 2025년 9월 찰리 커크 암살 이후 같은 실험을 되풀이했다. 참가자는 봇과의 짧은 대화, 팩트 시트, 무관한 대화 중 하나에 무작위로 배정됐다. 두 위기 모두에서 DebunkBot은 음모론 믿음을 낮췄고 효과는 팩트 시트의 약 다섯에서 일곱 배였다. DebunkBot과 대화한 사람들은 이후 트럼프를 겨냥한 또 다른 시도를 두고도 음모론을 덜 믿었다."
-          },
-          {
-            "t": "p",
-            "x": "“이제 과제는 사람들을 토끼굴에서 끌어내는 일이라기보다, 애초에 대화에 참여하게 만드는 일이다.” 제1저자인 카네기멜런대 토머스 코스텔로의 말이다."
+            "x": "거울상 분자나 아주 비슷한 일부 이성질체는 LC-MS/MS 스펙트럼만으로 가려내지 못한다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월 동안 무료로 준다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Chatbots can talk people out of\nbrand-new conspiracy theories",
-          "body": "AI chatbot conversations talked about 15% of people out of conspiracy beliefs after a crisis, when little is known.",
-          "mini_headline": "Chatbots vs new conspiracies",
+          "headline": "DeepMind agents identify\nmolecules from mass spectra",
+          "body": "On a 100-compound benchmark, Mass Spec Skills raised exact-match identification from under 4% to about 97%.",
+          "mini_headline": "Gemini reads mass spectra",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google DeepMind is sharing Mass Spec Skills for Google Antigravity, a suite of domain skills that pair Gemini's chemical reasoning with established mass spectrometry tools and public chemical databases. Spectral searches annotate on average only about 5% of measured spectra; the rest has been called the \"dark matter\" of mass spectrometry."
+              },
+              {
                 "t": "img",
-                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+                "cap": "Figure 1. Prepare the signal, search reference libraries, deduce the formula and rank candidate structures, then cross-check and refine."
               },
               {
                 "t": "p",
-                "x": "Rumors began circulating right after Donald Trump survived an assassination attempt at an open-air rally on July 13, 2024. Within days, researchers from Cornell, MIT and Carnegie Mellon University invited people to share their conspiracy beliefs with the DebunkBot, an AI-powered chatbot instructed to counter misinformation."
+                "x": "From a single prompt, the agent can take an unannotated tandem mass spectrum to a proposed chemical structure and an auditable report. In one run it identified the formula C20H21ClN6O, ranked 845 PubChem isomers and singled out the true molecule (CID 137835447) by testing fragmentation pathways."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+                "cap": "Figure 2. A single prompt runs structure elucidation end to end."
               },
               {
                 "t": "p",
-                "x": "The team found that 15% of people could be talked out of their conspiracy beliefs in the immediate aftermath of a crisis, when very little information is known. The paper, “Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models,” published Nov. 23 in Proceedings of the National Academy of Sciences."
+                "x": "On 100 compounds from the Enamine REAL MS/MS collection in MoNA, accuracy without internet access or skills remained below 4% across Gemini 3.8 Flash, Gemini 4 Argon and Gemini 4 Carbon. With the Mass Spec Skills, all three identified and verified the exact molecule in around 97% of attempts, and generated tokens fell by nearly four times on Flash."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+                "cap": "Figure 5a. Exact-match identification accuracy on 100 benchmark spectra."
               },
               {
                 "t": "p",
-                "x": "The experiment was repeated after the September 2025 assassination of Charlie Kirk. Participants were randomly assigned to a short exchange with the bot, a fact sheet, or an unrelated conversation. After both crises, DebunkBot reduced conspiracy beliefs and was about five to seven times more effective than a fact sheet. People who had talked with it were also less likely to hold conspiratorial beliefs about a later attempt on Trump."
-              },
-              {
-                "t": "p",
-                "x": "“The challenge now isn’t so much pulling people out of the rabbit hole. It’s getting them to engage in the first place,” said first author Thomas Costello of Carnegie Mellon University."
+                "x": "Mirror-image molecules and some closely related isomers cannot be told apart from an LC-MS/MS spectrum alone. DeepMind is offering 10,000 scientists the highest Antigravity usage tier free for 6 months."
               }
             ]
           }
         },
         "ko": {
-          "headline": "챗봇, 갓 생겨난 음모론도\n대화로 풀어낸다",
-          "body": "정보가 적은 위기 직후에도 AI 챗봇과의 대화가 음모론자 약 15%를 설득했다.",
-          "mini_headline": "챗봇 대 새 음모론",
+          "headline": "DeepMind 에이전트\n질량분석으로 분자 식별",
+          "body": "Mass Spec Skills로 100종 식별률이 4% 미만에서 약 97%가 됐다.",
+          "mini_headline": "Gemini가 질량 스펙트럼을 읽다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google DeepMind가 Google Antigravity용 Mass Spec Skills를 내놓는다. Gemini의 화학 추론에 기존 질량분석 도구와 공개 화학 데이터베이스를 엮은 도메인 스킬 모음이다. 스펙트럼 검색으로 주석이 붙는 스펙트럼은 평균 약 5%뿐이고, 나머지는 질량분석의 ‘암흑물질’로 불려 왔다."
+              },
+              {
                 "t": "img",
-                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+                "cap": "그림 1. 신호를 준비해 참조 라이브러리를 검색하고, 분자식을 추론해 후보 구조 순위를 매긴 뒤 교차 검증과 보정을 거친다."
               },
               {
                 "t": "p",
-                "x": "2024년 7월 13일 도널드 트럼프가 야외 유세에서 암살 시도를 피한 직후부터 소문이 돌기 시작했다. 며칠 만에 코넬대, MIT, 카네기멜런대 연구진은 사람들이 믿는 음모론을 DebunkBot에 털어놓게 했다. 잘못된 정보를 반박하라는 지시를 받은 AI 기반(AI-powered) 챗봇이다."
+                "x": "에이전트는 프롬프트 하나만 받아 주석 없는 탠덤 질량 스펙트럼에서 출발하고, 화학 구조 제안과 검증 가능한 보고서까지 내놓는다. 어느 실행에서는 분자식 C20H21ClN6O를 밝혀내고 PubChem 이성질체 845개에 순위를 매긴 다음 단편화 경로를 검증해 실제 분자(CID 137835447)를 골라냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+                "cap": "그림 2. 프롬프트 하나로 구조 규명을 처음부터 끝까지 해낸다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 정보가 거의 없는 위기 직후에도 대화를 나누면 사람들의 15%가 음모론에서 벗어난다는 사실을 확인했다. 논문 「Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models」는 11월 23일 Proceedings of the National Academy of Sciences(미국국립과학원회보)에 실렸다."
+                "x": "MoNA의 Enamine REAL MS/MS 컬렉션에서 뽑은 화합물 100개 시험에서 인터넷 접속도 스킬도 없이 돌린 Gemini 3.8 Flash, Gemini 4 Argon, Gemini 4 Carbon은 모두 정확도가 4% 미만에 그쳤다. Mass Spec Skills를 붙이자 세 모델 모두 시도의 약 97%에서 정확한 분자를 찾아 검증했고, Flash는 생성 토큰이 네 배 가까이 줄었다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+                "cap": "그림 5a. 벤치마크 스펙트럼 100개의 정확 일치 식별 정확도."
               },
               {
                 "t": "p",
-                "x": "연구진은 2025년 9월 찰리 커크 암살 이후 같은 실험을 되풀이했다. 참가자는 봇과의 짧은 대화, 팩트 시트, 무관한 대화 중 하나에 무작위로 배정됐다. 두 위기 모두에서 DebunkBot은 음모론 믿음을 낮췄고 효과는 팩트 시트의 약 다섯에서 일곱 배였다. DebunkBot과 대화한 사람들은 이후 트럼프를 겨냥한 또 다른 시도를 두고도 음모론을 덜 믿었다."
-              },
-              {
-                "t": "p",
-                "x": "“이제 과제는 사람들을 토끼굴에서 끌어내는 일이라기보다, 애초에 대화에 참여하게 만드는 일이다.” 제1저자인 카네기멜런대 토머스 코스텔로의 말이다."
+                "x": "거울상 분자나 아주 비슷한 일부 이성질체는 LC-MS/MS 스펙트럼만으로 가려내지 못한다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월 동안 무료로 준다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "生まれたての陰謀論から\n人を引き戻すチャットボット",
-          "body": "AIチャットボットとの対話で、情報の乏しい危機直後に陰謀論者の約15%が考えを改めた。",
-          "mini_headline": "チャットボット対新たな陰謀論",
+          "headline": "DeepMindエージェント\n質量スペクトルで分子特定",
+          "body": "Mass Spec Skillsで100化合物の識別率は4%未満から約97%に向上した。",
+          "mini_headline": "Geminiが質量スペクトルを読む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google DeepMindは、Google Antigravity向けのMass Spec Skillsを公開している。Geminiの化学的推論を、確立された質量分析ツールや公開化学データベースと組み合わせたドメインスキル群だ。スペクトル検索で注釈が付くのは測定スペクトルの平均わずか約5%で、残りは質量分析の「ダークマター」と呼ばれてきた。"
+              },
+              {
                 "t": "img",
-                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+                "cap": "図1. シグナルを整え、参照ライブラリを検索し、分子式を推定して候補構造を順位付けし、照合と精緻化を行う。"
               },
               {
                 "t": "p",
-                "x": "2024年7月13日、ドナルド・トランプ氏が野外集会で暗殺未遂を生き延びた直後から、うわさが広がり始めた。数日のうちに、コーネル大学、MIT、カーネギーメロン大学の研究者たちは、誤情報に反論するよう指示されたAI搭載（AI-powered）のチャットボット「DebunkBot」に、自分の信じる陰謀論を打ち明けるよう人々に呼びかけた。"
+                "x": "エージェントは一つのプロンプトから、注釈のないタンデム質量スペクトルを出発点に、化学構造の提案と監査可能なレポートまで到達できる。ある実行では分子式C20H21ClN6Oを特定し、PubChemの異性体845個を順位付けしたうえで、フラグメンテーション経路を検証して真の分子(CID 137835447)を突き止めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+                "cap": "図2. 一つのプロンプトで構造解析を最初から最後まで実行する。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、情報がほとんどない危機直後でも、15%の人が対話によって陰謀論から離れうることを確認した。論文「Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models」は11月23日、Proceedings of the National Academy of Sciences（米国科学アカデミー紀要）に掲載された。"
+                "x": "MoNAのEnamine REAL MS/MSコレクションから選んだ100化合物では、インターネット接続もスキルもない状態の正解率が、Gemini 3.8 Flash、Gemini 4 Argon、Gemini 4 Carbonのいずれでも4%未満にとどまった。Mass Spec Skillsを使うと、三つのモデルとも約97%の試行で正確な分子を特定・検証し、Flashでは生成トークンが四分の一近くまで減った。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+                "cap": "図5a. ベンチマークスペクトル100件における完全一致の識別精度。"
               },
               {
                 "t": "p",
-                "x": "実験は2025年9月のチャーリー・カーク氏暗殺後にも繰り返された。参加者は、ボットとの短いやりとり、ファクトシート、無関係な会話のいずれかに無作為に割り当てられた。どちらの危機の後でも、DebunkBotは陰謀論的な信念を弱め、その効果はファクトシートの約5〜7倍だった。DebunkBotと対話した人は、その後のトランプ氏を狙った別の未遂事件についても陰謀論を抱きにくかった。"
-              },
-              {
-                "t": "p",
-                "x": "「今の課題は、人をウサギの穴から引き戻すことよりも、そもそも対話に参加してもらうことだ」と、筆頭著者であるカーネギーメロン大学のトーマス・コステロ氏は話す。"
+                "x": "鏡像分子や一部のよく似た異性体は、LC-MS/MSスペクトルだけでは区別できない。DeepMindは科学者10,000人に、Antigravityの最上位利用枠を6カ月間無料で提供する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "聊天机器人能把人\n拉出新生阴谋论",
-          "body": "危机刚发生、信息极少时，与AI聊天机器人对话让约15%的人放弃了阴谋论。",
-          "mini_headline": "聊天机器人对抗新阴谋论",
+          "headline": "DeepMind智能体\n从质谱中识别分子",
+          "body": "在100种化合物基准上，Mass Spec Skills将识别率从不足4%提升至约97%。",
+          "mini_headline": "Gemini读懂质谱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google DeepMind正在为Google Antigravity开放Mass Spec Skills。这是一套领域技能，将Gemini的化学推理与成熟的质谱工具和公共化学数据库相结合。谱图检索平均只能注释约5%的实测谱图，其余部分被称为质谱的“暗物质”。"
+              },
+              {
                 "t": "img",
-                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+                "cap": "图1. 准备信号、检索参考谱库、推导分子式并为候选结构排序，然后交叉核对并完善。"
               },
               {
                 "t": "p",
-                "x": "2024年7月13日，唐纳德·特朗普在一场露天集会上遭遇刺杀未遂并幸存，此后谣言随即开始流传。短短几天内，来自康奈尔大学、MIT和卡内基梅隆大学的研究人员邀请人们向DebunkBot讲述自己相信的阴谋论。DebunkBot是一款被设定为反驳错误信息的AI驱动（AI-powered）聊天机器人。"
+                "x": "只需一条提示，智能体就能从一张未注释的串联质谱出发，得出候选化学结构和一份可审计的报告。在一次运行中，它确定了分子式C20H21ClN6O，对845个PubChem同分异构体进行排序，并通过检验碎裂途径锁定了真实分子（CID 137835447）。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+                "cap": "图2. 一条提示即可端到端完成结构解析。"
               },
               {
                 "t": "p",
-                "x": "团队发现，在危机刚刚发生、信息极少的时候，15%的人可以通过对话放弃阴谋论。论文《Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models》于11月23日发表在《美国国家科学院院刊》（Proceedings of the National Academy of Sciences）上。"
+                "x": "在MoNA的Enamine REAL MS/MS集合中选取的100个化合物上，不联网、不用技能时，Gemini 3.8 Flash、Gemini 4 Argon和Gemini 4 Carbon的准确率都低于4%。使用Mass Spec Skills后，三个模型均在约97%的尝试中识别并验证了确切分子，Flash生成的词元数量减少近四倍。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+                "cap": "图5a. 100张基准谱图上的精确匹配识别准确率。"
               },
               {
                 "t": "p",
-                "x": "研究人员在2025年9月查理·柯克遇刺后重复了这项实验。参与者被随机分配到与机器人简短交流、阅读事实说明或进行无关对话中的一种。两次危机后，DebunkBot都降低了人们对阴谋论的相信程度，效果约为事实说明的五到七倍。与它交谈过的人，对后来针对特朗普的另一次未遂袭击也更不容易产生阴谋论看法。"
-              },
-              {
-                "t": "p",
-                "x": "“现在的挑战与其说是把人们从兔子洞里拉出来，不如说是让他们一开始就愿意参与对话。”第一作者、卡内基梅隆大学的托马斯·科斯特洛说。"
+                "x": "仅凭LC-MS/MS谱图，无法区分镜像分子和部分结构极为相近的同分异构体。DeepMind将向10,000名科学家免费提供6个月的Antigravity最高使用等级。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los chatbots alejan a la gente\nde conspiraciones recién nacidas",
-          "body": "Conversar con un chatbot de IA hizo que cerca del 15% de la gente abandonara creencias conspirativas tras una crisis.",
-          "mini_headline": "Chatbots frente a nuevas conspiraciones",
+          "headline": "Agentes de DeepMind identifican\nmoléculas en espectros de masas",
+          "body": "En una prueba con 100 compuestos, Mass Spec Skills elevó la identificación exacta de menos del 4% a cerca del 97%.",
+          "mini_headline": "Gemini lee espectros de masas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google DeepMind comparte Mass Spec Skills para Google Antigravity, un conjunto de habilidades de dominio que combinan el razonamiento químico de Gemini con herramientas consolidadas de espectrometría de masas y bases de datos químicas públicas. Las búsquedas espectrales anotan en promedio solo alrededor del 5% de los espectros medidos; el resto se ha llamado la “materia oscura” de la espectrometría de masas."
+              },
+              {
                 "t": "img",
-                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+                "cap": "Figura 1. Preparar la señal, buscar en bibliotecas de referencia, deducir la fórmula y clasificar estructuras candidatas; después, contrastar y refinar."
               },
               {
                 "t": "p",
-                "x": "Los rumores empezaron a circular justo después de que Donald Trump sobreviviera a un intento de asesinato en un mitin al aire libre el 13 de julio de 2024. En cuestión de días, investigadores de Cornell, el MIT y la Carnegie Mellon University invitaron a la gente a compartir sus creencias conspirativas con DebunkBot, un chatbot impulsado por IA (AI-powered) instruido para rebatir la desinformación."
+                "x": "A partir de un solo prompt, el agente puede llevar un espectro de masas en tándem sin anotar hasta una estructura química propuesta y un informe auditable. En una ejecución identificó la fórmula C20H21ClN6O, clasificó 845 isómeros de PubChem y señaló la molécula verdadera (CID 137835447) al poner a prueba rutas de fragmentación."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+                "cap": "Figura 2. Un solo prompt ejecuta la elucidación estructural de principio a fin."
               },
               {
                 "t": "p",
-                "x": "El equipo comprobó que el 15% de las personas podía abandonar sus creencias conspirativas justo después de una crisis, cuando se sabe muy poco. El artículo, “Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models”, se publicó el 23 de noviembre en Proceedings of the National Academy of Sciences."
+                "x": "Con 100 compuestos de la colección Enamine REAL MS/MS en MoNA, la precisión sin acceso a internet ni habilidades se mantuvo por debajo del 4% en Gemini 3.8 Flash, Gemini 4 Argon y Gemini 4 Carbon. Con Mass Spec Skills, los tres identificaron y verificaron la molécula exacta en cerca del 97% de los intentos, y los tokens generados se redujeron casi cuatro veces en Flash."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+                "cap": "Figura 5a. Precisión de identificación exacta en 100 espectros de referencia."
               },
               {
                 "t": "p",
-                "x": "El experimento se repitió tras el asesinato de Charlie Kirk en septiembre de 2025. Los participantes fueron asignados al azar a un breve intercambio con el bot, a una hoja informativa o a una conversación no relacionada. Tras ambas crisis, DebunkBot redujo las creencias conspirativas y fue entre cinco y siete veces más eficaz que una hoja informativa. Quienes habían conversado con él también fueron menos propensos a tener creencias conspirativas sobre un intento posterior contra Trump."
-              },
-              {
-                "t": "p",
-                "x": "“El reto ahora no es tanto sacar a la gente de la madriguera del conejo, sino lograr que participe en primer lugar”, dijo el primer autor, Thomas Costello, de la Carnegie Mellon University."
+                "x": "Las moléculas especulares y algunos isómeros muy parecidos no pueden distinguirse solo con un espectro LC-MS/MS. DeepMind ofrece a 10,000 científicos el nivel de uso más alto de Antigravity gratis durante 6 meses."
               }
             ]
           }
@@ -193,121 +259,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "챗봇, 갓 생겨난 음모론도\n대화로 풀어낸다",
-          "body": "AI 챗봇 대화가 정보가 적은 위기 직후 음모론자 약 15%를 설득했다.",
-          "mini_headline": "챗봇 대 새 음모론",
+          "headline": "DeepMind 에이전트\n질량분석으로 분자 식별",
+          "body": "Mass Spec Skills로 100종 식별률이 4% 미만에서 약 97%가 됐다.",
+          "mini_headline": "Gemini가 질량 스펙트럼을 읽다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google DeepMind가 Google Antigravity용 Mass Spec Skills를 공개한다. Gemini의 화학적 추론을 기존 질량분석 도구, 공개 화학 데이터베이스와 결합한 도메인 스킬 모음이다. 스펙트럼 검색으로 주석이 달리는 것은 측정된 스펙트럼의 평균 약 5%에 불과하며, 나머지는 질량분석의 ‘암흑물질’로 불려 왔다."
+              },
+              {
                 "t": "img",
-                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+                "cap": "그림 1. 신호를 준비하고 참조 라이브러리를 검색한 뒤, 분자식을 추론해 후보 구조의 순위를 매기고, 교차 검증과 보정을 거친다."
               },
               {
                 "t": "p",
-                "x": "2024년 7월 13일 도널드 트럼프가 야외 유세에서 암살 시도를 피한 직후부터 소문이 돌기 시작했다. 며칠 만에 코넬대, MIT, 카네기멜런대 연구진은 사람들에게 자신이 믿는 음모론을 DebunkBot에 털어놓도록 했다. DebunkBot은 잘못된 정보에 반박하도록 지시받은 AI 기반(AI-powered) 챗봇이다."
+                "x": "에이전트는 프롬프트 하나로 주석 없는 탠덤 질량 스펙트럼에서 출발해 화학 구조 제안과 검증 가능한 보고서까지 만들어 낸다. 한 실행에서는 분자식 C20H21ClN6O를 밝히고 PubChem 이성질체 845개의 순위를 매긴 뒤, 단편화 경로를 검증해 실제 분자(CID 137835447)를 골라냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+                "cap": "그림 2. 프롬프트 하나로 구조 규명 전 과정을 수행한다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 정보가 거의 없는 위기 직후에도 사람들의 15%가 대화를 거쳐 음모론에서 벗어날 수 있다는 사실을 확인했다. 논문 「Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models」는 11월 23일 Proceedings of the National Academy of Sciences(미국국립과학원회보)에 실렸다."
+                "x": "MoNA의 Enamine REAL MS/MS 컬렉션에서 뽑은 화합물 100개를 대상으로, 인터넷 접속이나 스킬 없이 돌린 Gemini 3.8 Flash, Gemini 4 Argon, Gemini 4 Carbon의 정확도는 모두 4% 미만에 머물렀다. Mass Spec Skills를 쓰자 세 모델 모두 시도의 약 97%에서 정확한 분자를 식별하고 검증했으며, Flash에서는 생성 토큰이 네 배 가까이 줄었다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+                "cap": "그림 5a. 벤치마크 스펙트럼 100개에 대한 정확 일치 식별 정확도."
               },
               {
                 "t": "p",
-                "x": "연구진은 2025년 9월 찰리 커크 암살 이후 같은 실험을 반복했다. 참가자는 봇과의 짧은 대화, 팩트 시트, 무관한 대화 중 하나에 무작위로 배정됐다. 두 위기 모두에서 DebunkBot은 음모론 믿음을 낮췄고, 효과는 팩트 시트보다 약 다섯에서 일곱 배 컸다. DebunkBot과 대화한 사람들은 이후 트럼프를 겨냥한 또 다른 시도에 대해서도 음모론을 믿을 가능성이 낮았다."
-              },
-              {
-                "t": "p",
-                "x": "“이제 과제는 사람들을 토끼굴에서 끌어내는 일이라기보다, 애초에 대화에 참여하게 만드는 일이다.” 제1저자인 카네기멜런대 토머스 코스텔로의 말이다."
+                "x": "거울상 분자와 일부 매우 비슷한 이성질체는 LC-MS/MS 스펙트럼만으로는 구별할 수 없다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월간 무료로 제공한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "生まれたての陰謀論から\n人を引き戻すチャットボット",
-          "body": "AIチャットボットとの対話で、情報の乏しい危機直後に陰謀論者の約15%が考えを改めた。",
-          "mini_headline": "チャットボット対新たな陰謀論",
+          "headline": "DeepMindエージェント\n質量スペクトルで分子特定",
+          "body": "Mass Spec Skillsで100化合物の識別率は4%未満から約97%に向上した。",
+          "mini_headline": "Geminiが質量スペクトルを読む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google DeepMindは、Google Antigravity向けのMass Spec Skillsを公開している。Geminiの化学的推論を、確立された質量分析ツールや公開化学データベースと組み合わせたドメインスキル群だ。スペクトル検索で注釈が付くのは測定スペクトルの平均わずか約5%で、残りは質量分析の「ダークマター」と呼ばれてきた。"
+              },
+              {
                 "t": "img",
-                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+                "cap": "図1. シグナルを整え、参照ライブラリを検索し、分子式を推定して候補構造を順位付けし、照合と精緻化を行う。"
               },
               {
                 "t": "p",
-                "x": "2024年7月13日、ドナルド・トランプ氏が野外集会で暗殺未遂を生き延びた直後から、うわさが広がり始めた。数日のうちに、コーネル大学、MIT、カーネギーメロン大学の研究者たちは、誤情報に反論するよう指示されたAI搭載（AI-powered）のチャットボット「DebunkBot」に、自分の信じる陰謀論を打ち明けるよう人々に呼びかけた。"
+                "x": "エージェントは一つのプロンプトから、注釈のないタンデム質量スペクトルを出発点に、化学構造の提案と監査可能なレポートまで到達できる。ある実行では分子式C20H21ClN6Oを特定し、PubChemの異性体845個を順位付けしたうえで、フラグメンテーション経路を検証して真の分子(CID 137835447)を突き止めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+                "cap": "図2. 一つのプロンプトで構造解析を最初から最後まで実行する。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、情報がほとんどない危機直後でも、15%の人が対話によって陰謀論から離れうることを確認した。論文「Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models」は11月23日、Proceedings of the National Academy of Sciences（米国科学アカデミー紀要）に掲載された。"
+                "x": "MoNAのEnamine REAL MS/MSコレクションから選んだ100化合物では、インターネット接続もスキルもない状態の正解率が、Gemini 3.8 Flash、Gemini 4 Argon、Gemini 4 Carbonのいずれでも4%未満にとどまった。Mass Spec Skillsを使うと、三つのモデルとも約97%の試行で正確な分子を特定・検証し、Flashでは生成トークンが四分の一近くまで減った。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+                "cap": "図5a. ベンチマークスペクトル100件における完全一致の識別精度。"
               },
               {
                 "t": "p",
-                "x": "実験は2025年9月のチャーリー・カーク氏暗殺後にも繰り返された。参加者は、ボットとの短いやりとり、ファクトシート、無関係な会話のいずれかに無作為に割り当てられた。どちらの危機の後でも、DebunkBotは陰謀論的な信念を弱め、その効果はファクトシートの約5〜7倍だった。DebunkBotと対話した人は、その後のトランプ氏を狙った別の未遂事件についても陰謀論を抱きにくかった。"
-              },
-              {
-                "t": "p",
-                "x": "「今の課題は、人をウサギの穴から引き戻すことよりも、そもそも対話に参加してもらうことだ」と、筆頭著者であるカーネギーメロン大学のトーマス・コステロ氏は話す。"
+                "x": "鏡像分子や一部のよく似た異性体は、LC-MS/MSスペクトルだけでは区別できない。DeepMindは科学者10,000人に、Antigravityの最上位利用枠を6カ月間無料で提供する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "聊天机器人能把人\n拉出新生阴谋论",
-          "body": "危机刚发生、信息极少时，与AI聊天机器人对话让约15%的人放弃了阴谋论。",
-          "mini_headline": "聊天机器人对抗新阴谋论",
+          "headline": "DeepMind智能体\n从质谱中识别分子",
+          "body": "在100种化合物基准上，Mass Spec Skills将识别率从不足4%提升至约97%。",
+          "mini_headline": "Gemini读懂质谱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google DeepMind正在为Google Antigravity开放Mass Spec Skills。这是一套领域技能，将Gemini的化学推理与成熟的质谱工具和公共化学数据库相结合。谱图检索平均只能注释约5%的实测谱图，其余部分被称为质谱的“暗物质”。"
+              },
+              {
                 "t": "img",
-                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+                "cap": "图1. 准备信号、检索参考谱库、推导分子式并为候选结构排序，然后交叉核对并完善。"
               },
               {
                 "t": "p",
-                "x": "2024年7月13日，唐纳德·特朗普在一场露天集会上遭遇刺杀未遂并幸存，此后谣言随即开始流传。短短几天内，来自康奈尔大学、MIT和卡内基梅隆大学的研究人员邀请人们向DebunkBot讲述自己相信的阴谋论。DebunkBot是一款被设定为反驳错误信息的AI驱动（AI-powered）聊天机器人。"
+                "x": "只需一条提示，智能体就能从一张未注释的串联质谱出发，得出候选化学结构和一份可审计的报告。在一次运行中，它确定了分子式C20H21ClN6O，对845个PubChem同分异构体进行排序，并通过检验碎裂途径锁定了真实分子（CID 137835447）。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+                "cap": "图2. 一条提示即可端到端完成结构解析。"
               },
               {
                 "t": "p",
-                "x": "团队发现，在危机刚刚发生、信息极少的时候，15%的人可以通过对话放弃阴谋论。论文《Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models》于11月23日发表在《美国国家科学院院刊》（Proceedings of the National Academy of Sciences）上。"
+                "x": "在MoNA的Enamine REAL MS/MS集合中选取的100个化合物上，不联网、不用技能时，Gemini 3.8 Flash、Gemini 4 Argon和Gemini 4 Carbon的准确率都低于4%。使用Mass Spec Skills后，三个模型均在约97%的尝试中识别并验证了确切分子，Flash生成的词元数量减少近四倍。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+                "cap": "图5a. 100张基准谱图上的精确匹配识别准确率。"
               },
               {
                 "t": "p",
-                "x": "研究人员在2025年9月查理·柯克遇刺后重复了这项实验。参与者被随机分配到与机器人简短交流、阅读事实说明或进行无关对话中的一种。两次危机后，DebunkBot都降低了人们对阴谋论的相信程度，效果约为事实说明的五到七倍。与它交谈过的人，对后来针对特朗普的另一次未遂袭击也更不容易产生阴谋论看法。"
-              },
-              {
-                "t": "p",
-                "x": "“现在的挑战与其说是把人们从兔子洞里拉出来，不如说是让他们一开始就愿意参与对话。”第一作者、卡内基梅隆大学的托马斯·科斯特洛说。"
+                "x": "仅凭LC-MS/MS谱图，无法区分镜像分子和部分结构极为相近的同分异构体。DeepMind将向10,000名科学家免费提供6个月的Antigravity最高使用等级。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los chatbots alejan a la gente\nde conspiraciones recién nacidas",
-          "body": "Conversar con un chatbot de IA hizo que cerca del 15% de la gente abandonara creencias conspirativas tras una crisis.",
-          "mini_headline": "Chatbots frente a nuevas conspiraciones",
+          "headline": "Agentes de DeepMind identifican\nmoléculas en espectros de masas",
+          "body": "En una prueba con 100 compuestos, Mass Spec Skills elevó la identificación exacta de menos del 4% a cerca del 97%.",
+          "mini_headline": "Gemini lee espectros de masas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google DeepMind comparte Mass Spec Skills para Google Antigravity, un conjunto de habilidades de dominio que combinan el razonamiento químico de Gemini con herramientas consolidadas de espectrometría de masas y bases de datos químicas públicas. Las búsquedas espectrales anotan en promedio solo alrededor del 5% de los espectros medidos; el resto se ha llamado la “materia oscura” de la espectrometría de masas."
+              },
+              {
                 "t": "img",
-                "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2026-11/2026_1487_debunkingemergingcon_final_n.jpg?itok=TZDHZbw4"
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+                "cap": "Figura 1. Preparar la señal, buscar en bibliotecas de referencia, deducir la fórmula y clasificar estructuras candidatas; después, contrastar y refinar."
               },
               {
                 "t": "p",
-                "x": "Los rumores empezaron a circular justo después de que Donald Trump sobreviviera a un intento de asesinato en un mitin al aire libre el 13 de julio de 2024. En cuestión de días, investigadores de Cornell, el MIT y la Carnegie Mellon University invitaron a la gente a compartir sus creencias conspirativas con DebunkBot, un chatbot impulsado por IA (AI-powered) instruido para rebatir la desinformación."
+                "x": "A partir de un solo prompt, el agente puede llevar un espectro de masas en tándem sin anotar hasta una estructura química propuesta y un informe auditable. En una ejecución identificó la fórmula C20H21ClN6O, clasificó 845 isómeros de PubChem y señaló la molécula verdadera (CID 137835447) al poner a prueba rutas de fragmentación."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+                "cap": "Figura 2. Un solo prompt ejecuta la elucidación estructural de principio a fin."
               },
               {
                 "t": "p",
-                "x": "El equipo comprobó que el 15% de las personas podía abandonar sus creencias conspirativas justo después de una crisis, cuando se sabe muy poco. El artículo, “Reducing Belief in Conspiracy Theories as They Unfold Using Large Language Models”, se publicó el 23 de noviembre en Proceedings of the National Academy of Sciences."
+                "x": "Con 100 compuestos de la colección Enamine REAL MS/MS en MoNA, la precisión sin acceso a internet ni habilidades se mantuvo por debajo del 4% en Gemini 3.8 Flash, Gemini 4 Argon y Gemini 4 Carbon. Con Mass Spec Skills, los tres identificaron y verificaron la molécula exacta en cerca del 97% de los intentos, y los tokens generados se redujeron casi cuatro veces en Flash."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+                "cap": "Figura 5a. Precisión de identificación exacta en 100 espectros de referencia."
               },
               {
                 "t": "p",
-                "x": "El experimento se repitió tras el asesinato de Charlie Kirk en septiembre de 2025. Los participantes fueron asignados al azar a un breve intercambio con el bot, a una hoja informativa o a una conversación no relacionada. Tras ambas crisis, DebunkBot redujo las creencias conspirativas y fue entre cinco y siete veces más eficaz que una hoja informativa. Quienes habían conversado con él también fueron menos propensos a tener creencias conspirativas sobre un intento posterior contra Trump."
-              },
-              {
-                "t": "p",
-                "x": "“El reto ahora no es tanto sacar a la gente de la madriguera del conejo, sino lograr que participe en primer lugar”, dijo el primer autor, Thomas Costello, de la Carnegie Mellon University."
+                "x": "Las moléculas especulares y algunos isómeros muy parecidos no pueden distinguirse solo con un espectro LC-MS/MS. DeepMind ofrece a 10,000 científicos el nivel de uso más alto de Antigravity gratis durante 6 meses."
               }
             ]
           }
@@ -315,15 +425,15 @@
       }
     },
     {
-      "id": "utokyo-materials-extrapolation-gnn",
+      "id": "meta-meg-typing-decode",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI, 아직 찾지 못한\n소재까지 외삽한다",
-      "body": "도쿄대가 구조 학습·물성 회귀를 분리해 CGCNN보다 외삽 오차를 68% 줄였다.",
-      "mini_headline": "AI, 새 소재를 외삽하다",
+      "headline": "Meta, 뇌 이식 없이\n타이핑한 문장 해독",
+      "body": "MEG 스캔과 학습 모델로 수술 없이 두개골 밖에서 입력한 문장을 되살렸다.",
+      "mini_headline": "이식 없이 뇌 신호를 텍스트로",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-11-unknown-robust-approach-ai-extrapolate.html",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/scientists-at-meta-decode-typed-sentences-from-brain-activity-without-surgically-implanted-chips/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -331,155 +441,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
-            "cap": "머신러닝 모델이 학습 데이터 범위를 넘어 소재 물성을 예측하도록 돕는 연구팀의 접근법. 출처: 도쿄대 생산기술연구소(Institute of Industrial Science, The University of Tokyo)"
+            "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
           },
           {
             "t": "p",
-            "x": "머신러닝 모델은 학습 데이터 범위 안에서는 예측을 잘하지만 본 적 없는 소재 앞에서는 곧잘 헤맨다. 소재 발견에는 이 점이 걸림돌이다. 저자들은 “소재 발견은 본질적으로 외삽 문제”라고 썼다."
+            "x": "과학자들이 두개골 밖에서 기록한 뇌 활동을 타이핑한 문장으로 바꾸는 인공지능 시스템을 내놨다. Nature Neuroscience에 실린 연구를 보면 이 모델은 참가자 본인의 뇌 스캔으로 외운 문장을 평균 문자 오류율 29퍼센트로 해독했고, 성적이 가장 좋은 참가자는 18퍼센트까지 내려갔다."
           },
           {
             "t": "p",
-            "x": "도쿄대 연구진은 분리형 전이학습을 제안했다. 사전학습한 그래프 신경망이 구조 특징을 뽑고 더 단순한 회귀 모델이 목표 물성을 예측한다. 2018년까지의 Materials Project 데이터로 학습시키고 2021년까지 새로 추가된 소재로 시험했더니 널리 쓰이는 엔드투엔드 그래프 신경망 CGCNN보다 예측 오차가 68% 줄었다."
+            "x": "파리 Meta AI의 Jarod Lévy, Stéphane d’Ascoli, Jean-Rémi King과 동료들이 만든 Brain2Qwerty는 딥러닝 시스템이다. 스페인어를 쓰는 숙련 타자수 35명이 센서 64개짜리 EEG 캡을 쓰거나 센서 306개짜리 뇌자도 스캐너에 앉아 남긴 기록으로 학습했다. 오류율이 65퍼센트였던 EEG보다 MEG가 나았고, Brain2Qwerty는 EEGNet의 MEG 오류율을 72에서 29퍼센트로 끌어내렸다."
           },
           {
             "t": "p",
-            "x": "새 소재가 익숙한 화학·구조 패턴의 연장선에 있을 때 가장 잘 맞고 데이터가 부족한 화학·전자 영역에서는 신뢰도가 떨어진다. 대규모 재학습은 필요 없다. 연구는 PRX Intelligence에 실렸다."
+            "x": "오류가 물리적으로 이웃한 키에 몰리는 것으로 보아 디코더는 손가락 운동 명령을 읽는 듯하다. UC Davis의 Sergey Stavisky는 “이 논문은 비침습 뇌 측정 기술로 사람이 무엇을 타이핑하는지 해독하는 정확도에서 새로운 최고 수준을 세웠다”면서도 “실용적인 소통 수단이 되기까지는 아직 갈 길이 멀다”고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "시스템은 아직 실시간으로 돌지 않고 키 입력 타임스탬프에 기대며, 마비 환자에게는 시험하지 않았다. 저자 일곱 명 가운데 다섯 명이 Meta 소속이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI learns to extrapolate to\nmaterials not yet discovered",
-          "body": "Tokyo researchers separate structure learning from property regression, cutting extrapolation error 68% vs CGCNN.",
-          "mini_headline": "AI extrapolates new materials",
+          "headline": "Meta decodes typed sentences\nwithout a brain implant",
+          "body": "MEG scans plus a trained model reconstructed typed sentences from outside the skull, with no surgery needed.",
+          "mini_headline": "Brain-to-text, no implant",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
-                "cap": "The team's approach for helping machine-learning models predict material properties beyond their training data. Credit: Institute of Industrial Science, The University of Tokyo"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
               },
               {
                 "t": "p",
-                "x": "Machine-learning models predict well within their training data but often struggle with materials unlike anything they have seen, a problem for materials discovery. “Materials discovery is inherently an extrapolation problem,” the authors write."
+                "x": "Scientists have developed an artificial intelligence system that translates brain activity recorded outside the skull into typed sentences. Reported in Nature Neuroscience, the model decoded memorized sentences with an average character error rate of 29 percent using magnetic brain scans, reaching 18 percent in the top-performing participant."
               },
               {
                 "t": "p",
-                "x": "University of Tokyo researchers propose decoupled transfer learning: pretrained graph neural networks extract structural features, and a simpler regression model predicts the target property. Trained on Materials Project data up to 2018 and tested on materials added through 2021, the approach cut prediction error by 68% compared with CGCNN, a widely used end-to-end graph neural network."
+                "x": "Jarod Lévy, Stéphane d’Ascoli and Jean-Rémi King of Meta AI in Paris and colleagues built Brain2Qwerty, a deep-learning system trained on recordings from 35 skilled Spanish-speaking typists who wore a 64-sensor EEG cap or sat in a 306-sensor magnetoencephalography scanner. MEG outperformed EEG, whose error rate was 65 percent, and Brain2Qwerty cut EEGNet's MEG error rate from 72 to 29 percent."
               },
               {
                 "t": "p",
-                "x": "It works best when new materials extend familiar chemical or structural patterns and is less reliable in poorly represented chemical or electronic regimes. No large-scale retraining is needed. The study appears in PRX Intelligence."
+                "x": "Errors tended to land on physically adjacent keys, suggesting the decoder reads finger motor commands. “This paper sets a new state-of-the-art accuracy for decoding what a person is typing using a noninvasive brain measurement technology,” said Sergey Stavisky of UC Davis, who added that it is “still a long way from being a practical way to communicate.”"
+              },
+              {
+                "t": "p",
+                "x": "The system cannot yet run in real time, relies on keystroke timestamps, and has not been tested on paralyzed users. Five of the study’s seven authors are employed by Meta."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, 아직 찾지 못한\n소재까지 외삽한다",
-          "body": "도쿄대가 구조 학습·물성 회귀를 분리해 CGCNN보다 외삽 오차를 68% 줄였다.",
-          "mini_headline": "AI, 새 소재를 외삽하다",
+          "headline": "Meta, 뇌 이식 없이\n타이핑한 문장 해독",
+          "body": "MEG 스캔과 학습 모델로 수술 없이 두개골 밖에서 입력한 문장을 되살렸다.",
+          "mini_headline": "이식 없이 뇌 신호를 텍스트로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
-                "cap": "머신러닝 모델이 학습 데이터 범위를 넘어 소재 물성을 예측하도록 돕는 연구팀의 접근법. 출처: 도쿄대 생산기술연구소(Institute of Industrial Science, The University of Tokyo)"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
               },
               {
                 "t": "p",
-                "x": "머신러닝 모델은 학습 데이터 범위 안에서는 예측을 잘하지만 본 적 없는 소재 앞에서는 곧잘 헤맨다. 소재 발견에는 이 점이 걸림돌이다. 저자들은 “소재 발견은 본질적으로 외삽 문제”라고 썼다."
+                "x": "과학자들이 두개골 밖에서 기록한 뇌 활동을 타이핑한 문장으로 바꾸는 인공지능 시스템을 내놨다. Nature Neuroscience에 실린 연구를 보면 이 모델은 참가자 본인의 뇌 스캔으로 외운 문장을 평균 문자 오류율 29퍼센트로 해독했고, 성적이 가장 좋은 참가자는 18퍼센트까지 내려갔다."
               },
               {
                 "t": "p",
-                "x": "도쿄대 연구진은 분리형 전이학습을 제안했다. 사전학습한 그래프 신경망이 구조 특징을 뽑고 더 단순한 회귀 모델이 목표 물성을 예측한다. 2018년까지의 Materials Project 데이터로 학습시키고 2021년까지 새로 추가된 소재로 시험했더니 널리 쓰이는 엔드투엔드 그래프 신경망 CGCNN보다 예측 오차가 68% 줄었다."
+                "x": "파리 Meta AI의 Jarod Lévy, Stéphane d’Ascoli, Jean-Rémi King과 동료들이 만든 Brain2Qwerty는 딥러닝 시스템이다. 스페인어를 쓰는 숙련 타자수 35명이 센서 64개짜리 EEG 캡을 쓰거나 센서 306개짜리 뇌자도 스캐너에 앉아 남긴 기록으로 학습했다. 오류율이 65퍼센트였던 EEG보다 MEG가 나았고, Brain2Qwerty는 EEGNet의 MEG 오류율을 72에서 29퍼센트로 끌어내렸다."
               },
               {
                 "t": "p",
-                "x": "새 소재가 익숙한 화학·구조 패턴의 연장선에 있을 때 가장 잘 맞고 데이터가 부족한 화학·전자 영역에서는 신뢰도가 떨어진다. 대규모 재학습은 필요 없다. 연구는 PRX Intelligence에 실렸다."
+                "x": "오류가 물리적으로 이웃한 키에 몰리는 것으로 보아 디코더는 손가락 운동 명령을 읽는 듯하다. UC Davis의 Sergey Stavisky는 “이 논문은 비침습 뇌 측정 기술로 사람이 무엇을 타이핑하는지 해독하는 정확도에서 새로운 최고 수준을 세웠다”면서도 “실용적인 소통 수단이 되기까지는 아직 갈 길이 멀다”고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "시스템은 아직 실시간으로 돌지 않고 키 입력 타임스탬프에 기대며, 마비 환자에게는 시험하지 않았다. 저자 일곱 명 가운데 다섯 명이 Meta 소속이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "未発見の材料まで\nAIが外挿して予測",
-          "body": "東京大学の研究者が構造学習と物性回帰を分離し、外挿誤差をCGCNN比で68%削減した。",
-          "mini_headline": "AIが新材料を外挿",
+          "headline": "Meta、脳に埋め込まず\n入力した文を解読",
+          "body": "MEGスキャンと学習済みモデルで、手術なしに頭蓋の外から入力文を再構成した。",
+          "mini_headline": "埋め込みなしで脳から文字へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
-                "cap": "学習データの範囲を超えて機械学習モデルが材料特性を予測できるようにする研究チームの手法。提供：東京大学生産技術研究所（Institute of Industrial Science, The University of Tokyo）"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
               },
               {
                 "t": "p",
-                "x": "機械学習モデルは学習データの範囲内では精度よく予測できるが、見たことのない材料には苦戦しがちで、これが材料探索の課題となっている。「材料探索は本質的に外挿の問題だ」と著者らは記す。"
+                "x": "研究者らは、頭蓋の外で記録した脳活動をタイプされた文章に変換する人工知能システムを開発した。Nature Neuroscienceに掲載された研究によると、このモデルは脳磁気スキャンを用いて暗記した文章を平均文字誤り率29パーセントで解読し、最も成績の良い参加者では18パーセントに達した。"
               },
               {
                 "t": "p",
-                "x": "東京大学の研究者は、分離型の転移学習を提案した。事前学習済みのグラフニューラルネットワークが構造的特徴を抽出し、より単純な回帰モデルが目的の物性を予測する。2018年までのMaterials Projectのデータで学習し、2021年までに追加された材料で検証したところ、広く使われているエンドツーエンドのグラフニューラルネットワークCGCNNと比べて予測誤差を68%削減した。"
+                "x": "パリのMeta AIに所属するJarod Lévy、Stéphane d’Ascoli、Jean-Rémi Kingらは、Brain2Qwertyを構築した。スペイン語を話す熟練タイピスト35人が、64センサーのEEGキャップを装着するか、306センサーの脳磁図スキャナーに座って得た記録で学習した深層学習システムだ。MEGは誤り率65パーセントのEEGを上回り、Brain2QwertyはEEGNetのMEG誤り率を72から29パーセントに下げた。"
               },
               {
                 "t": "p",
-                "x": "新しい材料がなじみのある化学的・構造的パターンの延長線上にある場合に最もよく機能し、データの乏しい化学的・電子的な領域では信頼性が下がる。大規模な再学習は不要だ。研究成果はPRX Intelligenceに掲載された。"
+                "x": "誤りは物理的に隣接するキーに集中する傾向があり、デコーダーが指の運動指令を読み取っていることを示唆する。UC DavisのSergey Stavisky氏は「この論文は、非侵襲的な脳計測技術で人が何をタイプしているかを解読する精度において、新たな最高水準を打ち立てた」と述べつつ、「実用的なコミュニケーション手段になるにはまだ長い道のりがある」と付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "このシステムはまだリアルタイムでは動作せず、キー入力のタイムスタンプに依存しており、まひのある利用者では試されていない。研究の著者七人のうち五人はMetaに雇用されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI学会外推\n预测尚未发现的材料",
-          "body": "东京大学研究人员将结构学习与性质回归分开，外推误差比CGCNN降低68%。",
-          "mini_headline": "AI外推新材料",
+          "headline": "Meta无需脑植入\n即可解码打字句子",
+          "body": "借助MEG扫描与训练好的模型，研究者无需手术即从颅外重建了所打句子。",
+          "mini_headline": "无需植入，脑信号转文字",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
-                "cap": "研究团队帮助机器学习模型预测训练数据范围之外材料性质的方法。图片来源：东京大学生产技术研究所（Institute of Industrial Science, The University of Tokyo）"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
               },
               {
                 "t": "p",
-                "x": "机器学习模型在训练数据范围内预测效果良好，但面对与以往所见截然不同的材料时往往力不从心，这成为材料发现的难题。作者写道：“材料发现本质上是一个外推问题。”"
+                "x": "科学家开发出一套人工智能系统，可将在颅骨外记录的脑活动转换为打出的句子。据发表于Nature Neuroscience的研究，该模型借助脑磁扫描解码背诵过的句子，平均字符错误率为百分之二十九，表现最好的参与者降至百分之十八。"
               },
               {
                 "t": "p",
-                "x": "东京大学的研究人员提出了解耦迁移学习：由预训练的图神经网络提取结构特征，再由更简单的回归模型预测目标性质。该方法用截至2018年的Materials Project数据训练，并在截至2021年新增的材料上测试，与广泛使用的端到端图神经网络CGCNN相比，预测误差降低了68%。"
+                "x": "巴黎Meta AI的Jarod Lévy、Stéphane d’Ascoli、Jean-Rémi King及其同事构建了Brain2Qwerty。这一深度学习系统的训练数据来自35名熟练的西班牙语打字员，他们佩戴64个传感器的EEG帽，或坐在306个传感器的脑磁图扫描仪中。MEG的表现优于错误率为65%的EEG，Brain2Qwerty还把EEGNet的MEG错误率从72%降至百分之二十九。"
               },
               {
                 "t": "p",
-                "x": "当新材料延续熟悉的化学或结构模式时，该方法效果最好；在代表性不足的化学或电子区域则不太可靠。它无需大规模重新训练。研究发表于PRX Intelligence。"
+                "x": "错误往往落在物理位置相邻的按键上，表明解码器读取的是手指运动指令。UC Davis的Sergey Stavisky说：“这篇论文在用非侵入式脑测量技术解码一个人正在打什么字方面，创下了新的最高准确率。”他补充说，这“距离成为实用的交流方式还有很长的路要走”。"
+              },
+              {
+                "t": "p",
+                "x": "该系统目前还无法实时运行，依赖按键时间戳，也尚未在瘫痪用户身上测试。研究的七位作者中有五位受雇于Meta。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA aprende a extrapolar a\nmateriales aún no descubiertos",
-          "body": "Un equipo de Tokio separa el aprendizaje estructural de la regresión y recorta un 68% el error frente a CGCNN.",
-          "mini_headline": "La IA extrapola nuevos materiales",
+          "headline": "Meta descifra frases tecleadas\nsin implante cerebral",
+          "body": "Escáneres de MEG y un modelo entrenado reconstruyeron frases tecleadas desde fuera del cráneo, sin cirugía.",
+          "mini_headline": "Del cerebro al texto, sin implante",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
-                "cap": "El enfoque del equipo para ayudar a los modelos de aprendizaje automático a predecir propiedades de materiales más allá de sus datos de entrenamiento. Crédito: Institute of Industrial Science, The University of Tokyo"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
               },
               {
                 "t": "p",
-                "x": "Los modelos de aprendizaje automático predicen bien dentro de sus datos de entrenamiento, pero a menudo fallan con materiales distintos a todo lo que han visto, un problema para el descubrimiento de materiales. “El descubrimiento de materiales es intrínsecamente un problema de extrapolación”, escriben los autores."
+                "x": "Un equipo de científicos ha desarrollado un sistema de inteligencia artificial que traduce en frases tecleadas la actividad cerebral registrada fuera del cráneo. Según el estudio publicado en Nature Neuroscience, el modelo decodificó frases memorizadas con una tasa media de error de caracteres del 29 por ciento mediante escáneres magnéticos del cerebro, y llegó al 18 por ciento en el participante con mejor rendimiento."
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Universidad de Tokio proponen un aprendizaje por transferencia desacoplado: redes neuronales de grafos preentrenadas extraen rasgos estructurales y un modelo de regresión más sencillo predice la propiedad objetivo. Entrenado con datos de Materials Project hasta 2018 y evaluado con materiales añadidos hasta 2021, el método redujo el error de predicción un 68% frente a CGCNN, una red neuronal de grafos de extremo a extremo muy utilizada."
+                "x": "Jarod Lévy, Stéphane d’Ascoli y Jean-Rémi King, de Meta AI en París, y sus colegas crearon Brain2Qwerty, un sistema de aprendizaje profundo entrenado con registros de 35 mecanógrafos expertos hispanohablantes que llevaban un gorro EEG de 64 sensores o se sentaban en un escáner de magnetoencefalografía de 306 sensores. La MEG superó a la EEG, cuya tasa de error fue del 65 por ciento, y Brain2Qwerty redujo la tasa de error de EEGNet con MEG del 72 al 29 por ciento."
               },
               {
                 "t": "p",
-                "x": "Funciona mejor cuando los nuevos materiales prolongan patrones químicos o estructurales conocidos y es menos fiable en regímenes químicos o electrónicos poco representados. No requiere un reentrenamiento a gran escala. El estudio se publica en PRX Intelligence."
+                "x": "Los errores tendían a caer en teclas físicamente adyacentes, lo que sugiere que el decodificador lee órdenes motoras de los dedos. “Este artículo establece una nueva precisión de vanguardia para decodificar lo que una persona teclea mediante una tecnología no invasiva de medición cerebral”, dijo Sergey Stavisky, de UC Davis, quien añadió que “todavía está muy lejos de ser una forma práctica de comunicarse”."
+              },
+              {
+                "t": "p",
+                "x": "El sistema aún no funciona en tiempo real, depende de las marcas de tiempo de las pulsaciones y no se ha probado con usuarios paralizados. Cinco de los siete autores del estudio trabajan para Meta."
               }
             ]
           }
@@ -487,109 +615,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, 아직 발견되지 않은\n소재까지 외삽한다",
-          "body": "도쿄대가 구조 학습·물성 회귀를 분리해 CGCNN보다 외삽 오차를 68% 줄였다.",
-          "mini_headline": "AI, 새 소재를 외삽하다",
+          "headline": "Meta, 뇌 이식 없이\n타이핑한 문장 해독",
+          "body": "MEG 스캔과 학습된 모델로 수술 없이 두개골 밖에서 입력 문장을 복원했다.",
+          "mini_headline": "이식 없이 뇌에서 텍스트로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
-                "cap": "머신러닝 모델이 학습 데이터 범위를 넘어 소재 물성을 예측하도록 돕는 연구팀의 접근법. 출처: 도쿄대 생산기술연구소(Institute of Industrial Science, The University of Tokyo)"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
               },
               {
                 "t": "p",
-                "x": "머신러닝 모델은 학습 데이터 범위 안에서는 예측을 잘하지만, 본 적 없는 소재 앞에서는 흔히 고전한다. 소재 발견에는 걸림돌이다. 저자들은 “소재 발견은 본질적으로 외삽 문제”라고 썼다."
+                "x": "과학자들이 두개골 밖에서 기록한 뇌 활동을 타이핑한 문장으로 옮기는 인공지능 시스템을 개발했다. Nature Neuroscience에 실린 연구에 따르면 이 모델은 자기 뇌 스캔으로 암기한 문장을 평균 문자 오류율 29퍼센트로 해독했고, 성적이 가장 좋은 참가자에게서는 18퍼센트까지 낮아졌다."
               },
               {
                 "t": "p",
-                "x": "도쿄대 연구진은 분리형 전이학습을 제안했다. 사전학습된 그래프 신경망이 구조적 특징을 뽑아내고, 더 단순한 회귀 모델이 목표 물성을 예측하는 방식이다. 2018년까지의 Materials Project 데이터로 학습하고 2021년까지 추가된 소재로 시험한 결과, 널리 쓰이는 엔드투엔드 그래프 신경망 CGCNN보다 예측 오차가 68% 줄었다."
+                "x": "파리 Meta AI의 Jarod Lévy, Stéphane d’Ascoli, Jean-Rémi King과 동료들은 Brain2Qwerty를 만들었다. 스페인어를 쓰는 숙련 타자수 35명이 64개 센서의 EEG 캡을 쓰거나 306개 센서의 뇌자도 스캐너에 앉아 남긴 기록으로 학습한 딥러닝 시스템이다. MEG는 오류율 65퍼센트를 보인 EEG보다 나았고, Brain2Qwerty는 EEGNet의 MEG 오류율을 72에서 29퍼센트로 낮췄다."
               },
               {
                 "t": "p",
-                "x": "새 소재가 익숙한 화학적·구조적 패턴의 연장선에 있을 때 가장 잘 작동하고, 데이터가 부족한 화학적·전자적 영역에서는 신뢰도가 떨어진다. 대규모 재학습은 필요 없다. 연구는 PRX Intelligence에 실렸다."
+                "x": "오류는 물리적으로 인접한 키에 몰리는 경향이 있어, 디코더가 손가락 운동 명령을 읽고 있음을 시사한다. UC Davis의 Sergey Stavisky는 “이 논문은 비침습 뇌 측정 기술로 사람이 무엇을 타이핑하는지 해독하는 정확도에서 새로운 최고 수준을 세웠다”고 말하면서도, “실용적인 소통 수단이 되기까지는 아직 갈 길이 멀다”고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "이 시스템은 아직 실시간으로 작동하지 못하고 키 입력 타임스탬프에 의존하며, 마비 환자를 대상으로는 시험하지 않았다. 연구 저자 일곱 명 중 다섯 명이 Meta 소속이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "未発見の材料まで\nAIが外挿して予測",
-          "body": "東京大学の研究者が構造学習と物性回帰を分離し、外挿誤差をCGCNN比で68%削減した。",
-          "mini_headline": "AIが新材料を外挿",
+          "headline": "Meta、脳に埋め込まず\n入力した文を解読",
+          "body": "MEGスキャンと学習済みモデルで、手術なしに頭蓋の外から入力文を再構成した。",
+          "mini_headline": "埋め込みなしで脳から文字へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
-                "cap": "学習データの範囲を超えて機械学習モデルが材料特性を予測できるようにする研究チームの手法。提供：東京大学生産技術研究所（Institute of Industrial Science, The University of Tokyo）"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
               },
               {
                 "t": "p",
-                "x": "機械学習モデルは学習データの範囲内では精度よく予測できるが、見たことのない材料には苦戦しがちで、これが材料探索の課題となっている。「材料探索は本質的に外挿の問題だ」と著者らは記す。"
+                "x": "研究者らは、頭蓋の外で記録した脳活動をタイプされた文章に変換する人工知能システムを開発した。Nature Neuroscienceに掲載された研究によると、このモデルは脳磁気スキャンを用いて暗記した文章を平均文字誤り率29パーセントで解読し、最も成績の良い参加者では18パーセントに達した。"
               },
               {
                 "t": "p",
-                "x": "東京大学の研究者は、分離型の転移学習を提案した。事前学習済みのグラフニューラルネットワークが構造的特徴を抽出し、より単純な回帰モデルが目的の物性を予測する。2018年までのMaterials Projectのデータで学習し、2021年までに追加された材料で検証したところ、広く使われているエンドツーエンドのグラフニューラルネットワークCGCNNと比べて予測誤差を68%削減した。"
+                "x": "パリのMeta AIに所属するJarod Lévy、Stéphane d’Ascoli、Jean-Rémi Kingらは、Brain2Qwertyを構築した。スペイン語を話す熟練タイピスト35人が、64センサーのEEGキャップを装着するか、306センサーの脳磁図スキャナーに座って得た記録で学習した深層学習システムだ。MEGは誤り率65パーセントのEEGを上回り、Brain2QwertyはEEGNetのMEG誤り率を72から29パーセントに下げた。"
               },
               {
                 "t": "p",
-                "x": "新しい材料がなじみのある化学的・構造的パターンの延長線上にある場合に最もよく機能し、データの乏しい化学的・電子的な領域では信頼性が下がる。大規模な再学習は不要だ。研究成果はPRX Intelligenceに掲載された。"
+                "x": "誤りは物理的に隣接するキーに集中する傾向があり、デコーダーが指の運動指令を読み取っていることを示唆する。UC DavisのSergey Stavisky氏は「この論文は、非侵襲的な脳計測技術で人が何をタイプしているかを解読する精度において、新たな最高水準を打ち立てた」と述べつつ、「実用的なコミュニケーション手段になるにはまだ長い道のりがある」と付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "このシステムはまだリアルタイムでは動作せず、キー入力のタイムスタンプに依存しており、まひのある利用者では試されていない。研究の著者七人のうち五人はMetaに雇用されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI学会外推\n预测尚未发现的材料",
-          "body": "东京大学研究人员将结构学习与性质回归分开，外推误差比CGCNN降低68%。",
-          "mini_headline": "AI外推新材料",
+          "headline": "Meta无需脑植入\n即可解码打字句子",
+          "body": "借助MEG扫描与训练好的模型，研究者无需手术即从颅外重建了所打句子。",
+          "mini_headline": "无需植入，脑信号转文字",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
-                "cap": "研究团队帮助机器学习模型预测训练数据范围之外材料性质的方法。图片来源：东京大学生产技术研究所（Institute of Industrial Science, The University of Tokyo）"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
               },
               {
                 "t": "p",
-                "x": "机器学习模型在训练数据范围内预测效果良好，但面对与以往所见截然不同的材料时往往力不从心，这成为材料发现的难题。作者写道：“材料发现本质上是一个外推问题。”"
+                "x": "科学家开发出一套人工智能系统，可将在颅骨外记录的脑活动转换为打出的句子。据发表于Nature Neuroscience的研究，该模型借助脑磁扫描解码背诵过的句子，平均字符错误率为百分之二十九，表现最好的参与者降至百分之十八。"
               },
               {
                 "t": "p",
-                "x": "东京大学的研究人员提出了解耦迁移学习：由预训练的图神经网络提取结构特征，再由更简单的回归模型预测目标性质。该方法用截至2018年的Materials Project数据训练，并在截至2021年新增的材料上测试，与广泛使用的端到端图神经网络CGCNN相比，预测误差降低了68%。"
+                "x": "巴黎Meta AI的Jarod Lévy、Stéphane d’Ascoli、Jean-Rémi King及其同事构建了Brain2Qwerty。这一深度学习系统的训练数据来自35名熟练的西班牙语打字员，他们佩戴64个传感器的EEG帽，或坐在306个传感器的脑磁图扫描仪中。MEG的表现优于错误率为65%的EEG，Brain2Qwerty还把EEGNet的MEG错误率从72%降至百分之二十九。"
               },
               {
                 "t": "p",
-                "x": "当新材料延续熟悉的化学或结构模式时，该方法效果最好；在代表性不足的化学或电子区域则不太可靠。它无需大规模重新训练。研究发表于PRX Intelligence。"
+                "x": "错误往往落在物理位置相邻的按键上，表明解码器读取的是手指运动指令。UC Davis的Sergey Stavisky说：“这篇论文在用非侵入式脑测量技术解码一个人正在打什么字方面，创下了新的最高准确率。”他补充说，这“距离成为实用的交流方式还有很长的路要走”。"
+              },
+              {
+                "t": "p",
+                "x": "该系统目前还无法实时运行，依赖按键时间戳，也尚未在瘫痪用户身上测试。研究的七位作者中有五位受雇于Meta。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA aprende a extrapolar a\nmateriales aún no descubiertos",
-          "body": "Un equipo de Tokio separa el aprendizaje estructural de la regresión y recorta un 68% el error frente a CGCNN.",
-          "mini_headline": "La IA extrapola nuevos materiales",
+          "headline": "Meta descifra frases tecleadas\nsin implante cerebral",
+          "body": "Escáneres de MEG y un modelo entrenado reconstruyeron frases tecleadas desde fuera del cráneo, sin cirugía.",
+          "mini_headline": "Del cerebro al texto, sin implante",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-the-unknown.jpg",
-                "cap": "El enfoque del equipo para ayudar a los modelos de aprendizaje automático a predecir propiedades de materiales más allá de sus datos de entrenamiento. Crédito: Institute of Industrial Science, The University of Tokyo"
+                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
               },
               {
                 "t": "p",
-                "x": "Los modelos de aprendizaje automático predicen bien dentro de sus datos de entrenamiento, pero a menudo fallan con materiales distintos a todo lo que han visto, un problema para el descubrimiento de materiales. “El descubrimiento de materiales es intrínsecamente un problema de extrapolación”, escriben los autores."
+                "x": "Un equipo de científicos ha desarrollado un sistema de inteligencia artificial que traduce en frases tecleadas la actividad cerebral registrada fuera del cráneo. Según el estudio publicado en Nature Neuroscience, el modelo decodificó frases memorizadas con una tasa media de error de caracteres del 29 por ciento mediante escáneres magnéticos del cerebro, y llegó al 18 por ciento en el participante con mejor rendimiento."
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Universidad de Tokio proponen un aprendizaje por transferencia desacoplado: redes neuronales de grafos preentrenadas extraen rasgos estructurales y un modelo de regresión más sencillo predice la propiedad objetivo. Entrenado con datos de Materials Project hasta 2018 y evaluado con materiales añadidos hasta 2021, el método redujo el error de predicción un 68% frente a CGCNN, una red neuronal de grafos de extremo a extremo muy utilizada."
+                "x": "Jarod Lévy, Stéphane d’Ascoli y Jean-Rémi King, de Meta AI en París, y sus colegas crearon Brain2Qwerty, un sistema de aprendizaje profundo entrenado con registros de 35 mecanógrafos expertos hispanohablantes que llevaban un gorro EEG de 64 sensores o se sentaban en un escáner de magnetoencefalografía de 306 sensores. La MEG superó a la EEG, cuya tasa de error fue del 65 por ciento, y Brain2Qwerty redujo la tasa de error de EEGNet con MEG del 72 al 29 por ciento."
               },
               {
                 "t": "p",
-                "x": "Funciona mejor cuando los nuevos materiales prolongan patrones químicos o estructurales conocidos y es menos fiable en regímenes químicos o electrónicos poco representados. No requiere un reentrenamiento a gran escala. El estudio se publica en PRX Intelligence."
+                "x": "Los errores tendían a caer en teclas físicamente adyacentes, lo que sugiere que el decodificador lee órdenes motoras de los dedos. “Este artículo establece una nueva precisión de vanguardia para decodificar lo que una persona teclea mediante una tecnología no invasiva de medición cerebral”, dijo Sergey Stavisky, de UC Davis, quien añadió que “todavía está muy lejos de ser una forma práctica de comunicarse”."
+              },
+              {
+                "t": "p",
+                "x": "El sistema aún no funciona en tiempo real, depende de las marcas de tiempo de las pulsaciones y no se ha probado con usuarios paralizados. Cinco de los siete autores del estudio trabajan para Meta."
               }
             ]
           }
@@ -597,297 +737,15 @@
       }
     },
     {
-      "id": "uci-pmpg-fluid-flow-reconstruction",
+      "id": "jyvaskyla-metallene-ml-screen",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "물리 법칙 따르는 AI,\n적은 데이터로 유동 복원",
-      "body": "UC 어바인 PMPG-NN은 최소압력구배 원리로 압력값 없이 유동장을 복원한다.",
-      "mini_headline": "물리 AI, 유체 흐름 복원",
+      "headline": "머신러닝이 찾은 300+\n안정 박막금속 샌드위치",
+      "body": "Jyvaskyla 모델이 샌드위치 천여 개에서 안정 후보 300개 넘게 찾았다.",
+      "mini_headline": "ML이 찾은 안정 메탈렌",
       "tool": "Science",
       "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
-            "cap": "출처: Unsplash/CC0 퍼블릭 도메인"
-          },
-          {
-            "t": "p",
-            "x": "UC 어바인 연구진이 신경망에 최소 압력 구배 원리를 결합한 PMPG-NN을 개발했다. 많지 않고 잡음 섞인 측정값으로도 유체 물리에 맞는 유동장을 재구성하며 압력은 직접 잴 필요가 없다."
-          },
-          {
-            "t": "p",
-            "x": "구 주위 흐름, 서로 얽히는 와류, 시간에 따라 변하는 채널 흐름으로 시험해 보니 잡음이 크고 데이터가 희박한 조건에서 성능이 특히 좋았다. 속도 구배 추정도 나아졌다."
-          },
-          {
-            "t": "p",
-            "x": "연구 책임자 아라시 케라드바르는 “모든 의료 영상 기법은 측정할 수 있는 범위에 본질적인 한계가 있다”고 말했다. 저자들은 심혈관 영상(Echo-PIV, 4D Flow MRI)과 항공우주 분야에서 쓰임새를 내다보지만 실험·임상 검증은 아직 거쳐야 한다. 연구는 Physics of Fluids에 실렸다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Physics-guided AI rebuilds\nfluid flow from sparse data",
-          "body": "UC Irvine's PMPG-NN uses the principle of minimum pressure gradient to rebuild flow fields without pressure data.",
-          "mini_headline": "Physics AI rebuilds fluid flow",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "UC Irvine researchers developed PMPG-NN, which combines neural networks with the principle of minimum pressure gradient to reconstruct fluid flow fields from limited, noisy measurements while staying consistent with fluid physics. It does not need direct pressure measurements."
-              },
-              {
-                "t": "p",
-                "x": "Tested on flow around a sphere, interacting vortices and time-dependent channel flow, it performed especially well with heavy noise and sparse data and improved velocity-gradient estimates."
-              },
-              {
-                "t": "p",
-                "x": "“Every medical imaging technique has inherent limitations in what it can measure,” said lead researcher Arash Kheradvar. The authors see uses in cardiovascular imaging (Echo-PIV and 4D Flow MRI) and aerospace, but experimental and clinical validation is still needed. The study appears in Physics of Fluids."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "물리 법칙 따르는 AI,\n적은 데이터로 유동 복원",
-          "body": "UC 어바인 PMPG-NN은 최소압력구배 원리로 압력값 없이 유동장을 복원한다.",
-          "mini_headline": "물리 AI, 유체 흐름 복원",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
-                "cap": "출처: Unsplash/CC0 퍼블릭 도메인"
-              },
-              {
-                "t": "p",
-                "x": "UC 어바인 연구진이 신경망에 최소 압력 구배 원리를 결합한 PMPG-NN을 개발했다. 많지 않고 잡음 섞인 측정값으로도 유체 물리에 맞는 유동장을 재구성하며 압력은 직접 잴 필요가 없다."
-              },
-              {
-                "t": "p",
-                "x": "구 주위 흐름, 서로 얽히는 와류, 시간에 따라 변하는 채널 흐름으로 시험해 보니 잡음이 크고 데이터가 희박한 조건에서 성능이 특히 좋았다. 속도 구배 추정도 나아졌다."
-              },
-              {
-                "t": "p",
-                "x": "연구 책임자 아라시 케라드바르는 “모든 의료 영상 기법은 측정할 수 있는 범위에 본질적인 한계가 있다”고 말했다. 저자들은 심혈관 영상(Echo-PIV, 4D Flow MRI)과 항공우주 분야에서 쓰임새를 내다보지만 실험·임상 검증은 아직 거쳐야 한다. 연구는 Physics of Fluids에 실렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "物理に導かれたAIが\n疎なデータで流れを再現",
-          "body": "UCアーバインのPMPG-NNは最小圧力勾配の原理で、圧力データなしに流れ場を再構成する。",
-          "mini_headline": "物理AIが流れを再構成",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
-                "cap": "提供：Unsplash/CC0 パブリックドメイン"
-              },
-              {
-                "t": "p",
-                "x": "UCアーバインの研究者は、ニューラルネットワークと最小圧力勾配の原理を組み合わせたPMPG-NNを開発した。限られたノイズの多い計測値から、流体物理と整合する流れ場を再構成する。圧力を直接測定する必要はない。"
-              },
-              {
-                "t": "p",
-                "x": "球まわりの流れ、相互作用する渦、時間変化するチャネル流で検証したところ、ノイズが大きくデータがまばらな条件で特に高い性能を示し、速度勾配の推定も改善した。"
-              },
-              {
-                "t": "p",
-                "x": "「どの医用画像技術にも、測定できるものに本質的な限界がある」と研究を率いたアラシュ・ケラドヴァル氏は言う。著者らは心血管イメージング（Echo-PIVや4D Flow MRI）や航空宇宙での応用を見込むが、実験的・臨床的な検証はまだ必要だ。研究はPhysics of Fluidsに掲載された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "物理引导的AI\n用稀疏数据重建流场",
-          "body": "UC Irvine的PMPG-NN借助最小压力梯度原理，无需压力数据即可重建流场。",
-          "mini_headline": "物理AI重建流体流动",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
-                "cap": "图片来源：Unsplash/CC0 公有领域"
-              },
-              {
-                "t": "p",
-                "x": "UC Irvine的研究人员开发了PMPG-NN，将神经网络与最小压力梯度原理相结合，能从有限且含噪声的测量数据中重建流场，同时与流体物理保持一致。它不需要直接测量压力。"
-              },
-              {
-                "t": "p",
-                "x": "在球体绕流、相互作用的涡旋以及随时间变化的通道流中测试时，它在强噪声和稀疏数据条件下表现尤为出色，并改进了速度梯度估计。"
-              },
-              {
-                "t": "p",
-                "x": "项目负责人Arash Kheradvar表示：“每一种医学成像技术在可测量的内容上都有固有局限。”作者认为它可用于心血管成像（Echo-PIV和4D Flow MRI）及航空航天领域，但仍需实验和临床验证。研究发表于Physics of Fluids。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Una IA guiada por la física\nrecrea flujos con datos escasos",
-          "body": "PMPG-NN, de UC Irvine, usa el principio de mínimo gradiente de presión para reconstruir flujos sin datos de presión.",
-          "mini_headline": "IA física reconstruye flujos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
-                "cap": "Crédito: Unsplash/CC0 Dominio público"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de UC Irvine desarrollaron PMPG-NN, que combina redes neuronales con el principio de mínimo gradiente de presión para reconstruir campos de flujo a partir de mediciones limitadas y ruidosas, sin dejar de ser coherente con la física de fluidos. No necesita mediciones directas de presión."
-              },
-              {
-                "t": "p",
-                "x": "Probado con el flujo alrededor de una esfera, vórtices que interactúan y un flujo en canal dependiente del tiempo, rindió especialmente bien con mucho ruido y datos escasos, y mejoró las estimaciones del gradiente de velocidad."
-              },
-              {
-                "t": "p",
-                "x": "“Toda técnica de imagen médica tiene limitaciones inherentes en lo que puede medir”, afirmó el investigador principal, Arash Kheradvar. Los autores ven aplicaciones en imagen cardiovascular (Echo-PIV y 4D Flow MRI) y en el sector aeroespacial, aunque aún hace falta validación experimental y clínica. El estudio se publica en Physics of Fluids."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "물리 법칙 따르는 AI,\n적은 데이터로 유동 복원",
-          "body": "UC 어바인 PMPG-NN은 최소압력구배 원리로 압력값 없이 유동장을 복원한다.",
-          "mini_headline": "물리 AI, 유체 흐름 복원",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
-                "cap": "출처: Unsplash/CC0 퍼블릭 도메인"
-              },
-              {
-                "t": "p",
-                "x": "UC 어바인 연구진은 신경망과 최소 압력 구배 원리를 결합한 PMPG-NN을 개발했다. 제한적이고 잡음 섞인 측정값에서 유체 물리에 부합하는 유동장을 재구성하며, 압력을 직접 측정할 필요가 없다."
-              },
-              {
-                "t": "p",
-                "x": "구 주위 흐름, 상호작용하는 와류, 시간에 따라 변하는 채널 흐름으로 시험한 결과, 잡음이 크고 데이터가 희박한 조건에서 특히 좋은 성능을 보였고 속도 구배 추정도 개선했다."
-              },
-              {
-                "t": "p",
-                "x": "연구 책임자 아라시 케라드바르는 “모든 의료 영상 기법은 측정할 수 있는 범위에 본질적인 한계가 있다”고 말했다. 저자들은 심혈관 영상(Echo-PIV, 4D Flow MRI)과 항공우주 분야에서 쓰임새를 내다보지만, 실험·임상 검증은 아직 필요하다. 연구는 Physics of Fluids에 실렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "物理に導かれたAIが\n疎なデータで流れを再現",
-          "body": "UCアーバインのPMPG-NNは最小圧力勾配の原理で、圧力データなしに流れ場を再構成する。",
-          "mini_headline": "物理AIが流れを再構成",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
-                "cap": "提供：Unsplash/CC0 パブリックドメイン"
-              },
-              {
-                "t": "p",
-                "x": "UCアーバインの研究者は、ニューラルネットワークと最小圧力勾配の原理を組み合わせたPMPG-NNを開発した。限られたノイズの多い計測値から、流体物理と整合する流れ場を再構成する。圧力を直接測定する必要はない。"
-              },
-              {
-                "t": "p",
-                "x": "球まわりの流れ、相互作用する渦、時間変化するチャネル流で検証したところ、ノイズが大きくデータがまばらな条件で特に高い性能を示し、速度勾配の推定も改善した。"
-              },
-              {
-                "t": "p",
-                "x": "「どの医用画像技術にも、測定できるものに本質的な限界がある」と研究を率いたアラシュ・ケラドヴァル氏は言う。著者らは心血管イメージング（Echo-PIVや4D Flow MRI）や航空宇宙での応用を見込むが、実験的・臨床的な検証はまだ必要だ。研究はPhysics of Fluidsに掲載された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "物理引导的AI\n用稀疏数据重建流场",
-          "body": "UC Irvine的PMPG-NN借助最小压力梯度原理，无需压力数据即可重建流场。",
-          "mini_headline": "物理AI重建流体流动",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
-                "cap": "图片来源：Unsplash/CC0 公有领域"
-              },
-              {
-                "t": "p",
-                "x": "UC Irvine的研究人员开发了PMPG-NN，将神经网络与最小压力梯度原理相结合，能从有限且含噪声的测量数据中重建流场，同时与流体物理保持一致。它不需要直接测量压力。"
-              },
-              {
-                "t": "p",
-                "x": "在球体绕流、相互作用的涡旋以及随时间变化的通道流中测试时，它在强噪声和稀疏数据条件下表现尤为出色，并改进了速度梯度估计。"
-              },
-              {
-                "t": "p",
-                "x": "项目负责人Arash Kheradvar表示：“每一种医学成像技术在可测量的内容上都有固有局限。”作者认为它可用于心血管成像（Echo-PIV和4D Flow MRI）及航空航天领域，但仍需实验和临床验证。研究发表于Physics of Fluids。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Una IA guiada por la física\nrecrea flujos con datos escasos",
-          "body": "PMPG-NN, de UC Irvine, usa el principio de mínimo gradiente de presión para reconstruir flujos sin datos de presión.",
-          "mini_headline": "IA física reconstruye flujos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/flow.jpg",
-                "cap": "Crédito: Unsplash/CC0 Dominio público"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de UC Irvine desarrollaron PMPG-NN, que combina redes neuronales con el principio de mínimo gradiente de presión para reconstruir campos de flujo a partir de mediciones limitadas y ruidosas, sin dejar de ser coherente con la física de fluidos. No necesita mediciones directas de presión."
-              },
-              {
-                "t": "p",
-                "x": "Probado con el flujo alrededor de una esfera, vórtices que interactúan y un flujo en canal dependiente del tiempo, rindió especialmente bien con mucho ruido y datos escasos, y mejoró las estimaciones del gradiente de velocidad."
-              },
-              {
-                "t": "p",
-                "x": "“Toda técnica de imagen médica tiene limitaciones inherentes en lo que puede medir”, afirmó el investigador principal, Arash Kheradvar. Los autores ven aplicaciones en imagen cardiovascular (Echo-PIV y 4D Flow MRI) y en el sector aeroespacial, aunque aún hace falta validación experimental y clínica. El estudio se publica en Physics of Fluids."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "fau-beluga-drone-tracking",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI, 드론 항공 사진 속\n벨루가를 추적한다",
-      "body": "준지도 탐지기가 5~10배 적은 라벨로 드론 사진 속 벨루가와 새끼를 추적한다.",
-      "mini_headline": "드론으로 벨루가 추적하는 AI",
-      "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-ai-track-beluga-whales-aerial.html",
+      "url": "https://phys.org/news/2026-11-stabilizing-atomically-thin-metals-sandwich.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -895,155 +753,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
-            "cap": "라벨링 1%(라벨링된 이미지 34장)에서의 정성적 탐지 결과. 라벨이 있는 테스트 이미지(A)와 학습 중 보지 못한 라벨 없는 이미지(B). 출처: Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
+            "cap": "금속은 받침층이 없으면 덩어리로 뭉친다. TMDs, 그래핀, BN 사이에 끼우면 평평하고 안정적인 금속이 된다. Credit: Mohammad Bagheri"
           },
           {
             "t": "p",
-            "x": "플로리다 애틀랜틱 대학교 연구진은 캐나다 수산해양부, 매니토바 대학교와 함께 딥러닝으로 연속 촬영한 항공 사진 속 벨루가를 찾아내 추적한다."
+            "x": "University of Jyväskylä 연구진이 머신러닝과 고성능 컴퓨팅으로 안정적인 메탈렌 샌드위치 구조 300개 이상을 찾아냈다. 메탈렌은 원소 금속 원자가 한 층 두께로 깔린 층인데, 홀로 두면 3D 덩어리로 뭉치기 쉽다."
           },
           {
             "t": "p",
-            "x": "연구진은 고래마다 성체·새끼 라벨을 붙인 고해상도 드론 이미지 7,655장으로 라벨 데이터 비율을 1%부터 50%까지 바꿔 가며 AI 모델 다섯 가지를 학습시켜 비교했다. 준지도 모델 SEMI-DETR은 라벨링된 이미지 34장만으로 평균 정밀도 19.2를 기록했다. 가장 좋은 지도학습 모델보다 상대적으로 20% 높은 수치다. 1% 수준에서 새끼 탐지는 24.3%, 성체 탐지는 16.8% 개선됐다."
+            "x": "연구진은 제일원리 시뮬레이션 데이터로 머신러닝을 학습시켜, 금속 수십 종을 그래핀이나 전이금속 칼코게나이드 같은 흔한 2D 소재와 짝지은 샌드위치를 탐색했다. 박사후연구원 Mohammad Bagheri는 “머신러닝 덕분에 천 개가 넘는 이종구조를 살펴볼 수 있었다”고 말했다."
           },
           {
             "t": "p",
-            "x": "비슷한 성능을 내는 데 드는 주석 작업은 약 다섯에서 10배 적었다. 연구는 Frontiers in Marine Science에 실렸다."
+            "x": "금속층을 가장 많이 안정화한 것은 셀레늄 기반 TMDs였다. 상온 시뮬레이션에서도 선별한 샌드위치는 형태와 금속성을 유지했다. Pekka Koskinen 교수는 “이 결과는 실험 연구자에게 실용적인 지도가 된다”고 말했다. 연구는 Nano Letters에 실렸다. 데이터셋은 공개됐고, 계산은 LUMI 슈퍼컴퓨터로 돌렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI tracks beluga whales\nacross aerial drone images",
-          "body": "A semi-supervised detector tracks belugas and their calves through drone image sequences with 5-10x less hand labeling.",
-          "mini_headline": "AI tracks belugas by drone",
+          "headline": "Machine learning finds 300+\nstable thin-metal sandwiches",
+          "body": "Jyvaskyla's models screened over a thousand metallene sandwiches and found more than 300 stable candidates.",
+          "mini_headline": "ML finds stable metallenes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
-                "cap": "Qualitative detection results at 1% labeling (34 labeled images) on a labeled test image (A) and an unlabeled image unseen during training (B). Credit: Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
+                "cap": "Metals collapse into clusters without supporting layers; sandwiching them between TMDs, graphene or BN can yield flat, stable metals. Credit: Mohammad Bagheri"
               },
               {
                 "t": "p",
-                "x": "Researchers from Florida Atlantic University, with Fisheries and Oceans Canada and the University of Manitoba, use deep learning to detect and track beluga whales across sequences of aerial images."
+                "x": "Researchers at the University of Jyväskylä used machine learning and high-performance computing to identify more than 300 stable metallene sandwich structures. Metallenes, one-atom-thick layers of elemental metals, tend to collapse into 3D clusters when freestanding."
               },
               {
                 "t": "p",
-                "x": "Working with 7,655 high-resolution drone images, each whale labeled adult or calf, they trained and compared five AI models at labeled-data levels from 1% to 50%. The semi-supervised SEMI-DETR reached a mean average precision of 19.2 with 34 labeled images, a 20% relative improvement over the best supervised model. Calf detection improved 24.3% at the 1% level, versus 16.8% for adults."
+                "x": "Machine learning trained on first-principles simulation data explored sandwiches combining dozens of metals with common 2D materials such as graphene and transition-metal dichalcogenides. \"Machine learning allowed us to examine more than a thousand heterostructures,\" said postdoctoral researcher Mohammad Bagheri."
               },
               {
                 "t": "p",
-                "x": "Comparable performance needed roughly five to 10 times less annotation. The study appears in Frontiers in Marine Science."
+                "x": "Selenium-based TMDs stabilized the largest number of metal layers, and room-temperature simulations confirmed selected sandwiches stay intact and metallic. \"The results give experimentalists a practical map,\" said professor Pekka Koskinen. The work appeared in Nano Letters; the dataset is public and calculations ran on the LUMI supercomputer."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, 드론 항공 사진 속\n벨루가를 추적한다",
-          "body": "준지도 탐지기가 5~10배 적은 라벨로 드론 사진 속 벨루가와 새끼를 추적한다.",
-          "mini_headline": "드론으로 벨루가 추적하는 AI",
+          "headline": "머신러닝이 찾은 300+\n안정 박막금속 샌드위치",
+          "body": "Jyvaskyla 모델이 샌드위치 천여 개에서 안정 후보 300개 넘게 찾았다.",
+          "mini_headline": "ML이 찾은 안정 메탈렌",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
-                "cap": "라벨링 1%(라벨링된 이미지 34장)에서의 정성적 탐지 결과. 라벨이 있는 테스트 이미지(A)와 학습 중 보지 못한 라벨 없는 이미지(B). 출처: Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
+                "cap": "금속은 받침층이 없으면 덩어리로 뭉친다. TMDs, 그래핀, BN 사이에 끼우면 평평하고 안정적인 금속이 된다. Credit: Mohammad Bagheri"
               },
               {
                 "t": "p",
-                "x": "플로리다 애틀랜틱 대학교 연구진은 캐나다 수산해양부, 매니토바 대학교와 함께 딥러닝으로 연속 촬영한 항공 사진 속 벨루가를 찾아내 추적한다."
+                "x": "University of Jyväskylä 연구진이 머신러닝과 고성능 컴퓨팅으로 안정적인 메탈렌 샌드위치 구조 300개 이상을 찾아냈다. 메탈렌은 원소 금속 원자가 한 층 두께로 깔린 층인데, 홀로 두면 3D 덩어리로 뭉치기 쉽다."
               },
               {
                 "t": "p",
-                "x": "연구진은 고래마다 성체·새끼 라벨을 붙인 고해상도 드론 이미지 7,655장으로 라벨 데이터 비율을 1%부터 50%까지 바꿔 가며 AI 모델 다섯 가지를 학습시켜 비교했다. 준지도 모델 SEMI-DETR은 라벨링된 이미지 34장만으로 평균 정밀도 19.2를 기록했다. 가장 좋은 지도학습 모델보다 상대적으로 20% 높은 수치다. 1% 수준에서 새끼 탐지는 24.3%, 성체 탐지는 16.8% 개선됐다."
+                "x": "연구진은 제일원리 시뮬레이션 데이터로 머신러닝을 학습시켜, 금속 수십 종을 그래핀이나 전이금속 칼코게나이드 같은 흔한 2D 소재와 짝지은 샌드위치를 탐색했다. 박사후연구원 Mohammad Bagheri는 “머신러닝 덕분에 천 개가 넘는 이종구조를 살펴볼 수 있었다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "비슷한 성능을 내는 데 드는 주석 작업은 약 다섯에서 10배 적었다. 연구는 Frontiers in Marine Science에 실렸다."
+                "x": "금속층을 가장 많이 안정화한 것은 셀레늄 기반 TMDs였다. 상온 시뮬레이션에서도 선별한 샌드위치는 형태와 금속성을 유지했다. Pekka Koskinen 교수는 “이 결과는 실험 연구자에게 실용적인 지도가 된다”고 말했다. 연구는 Nano Letters에 실렸다. 데이터셋은 공개됐고, 계산은 LUMI 슈퍼컴퓨터로 돌렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIがドローン空撮で\nベルーガを追跡",
-          "body": "半教師あり検出器が、手作業のラベル付けを5〜10分の1に減らしてベルーガと子を追跡する。",
-          "mini_headline": "AIがドローンでベルーガ追跡",
+          "headline": "機械学習が見つけた300+\n安定な薄層金属サンドイッチ",
+          "body": "Jyvaskylaのモデルは千を超えるメタレン積層を調べ、300超の安定候補を得た。",
+          "mini_headline": "MLが安定メタレンを発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
-                "cap": "ラベル付け1%（ラベル付き画像34枚）での定性的な検出結果。ラベル付きテスト画像（A）と、学習中に見ていないラベルなし画像（B）。出典：Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
+                "cap": "金属は支える層がないとクラスターに崩れるが、TMDs、グラフェン、BNで挟むと平らで安定した金属が得られる。Credit: Mohammad Bagheri"
               },
               {
                 "t": "p",
-                "x": "フロリダ・アトランティック大学の研究者は、カナダ水産海洋省およびマニトバ大学と共同で、深層学習を使って連続した空撮画像からベルーガを検出・追跡している。"
+                "x": "University of Jyväskyläの研究者らは、機械学習と高性能計算を用いて、300を超える安定なメタレン・サンドイッチ構造を特定した。メタレンは元素金属が原子一層の厚さで並んだ層で、単独では3D クラスターに崩れやすい。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、各個体を成獣か子かでラベル付けした高解像度ドローン画像7,655枚を用い、ラベル付きデータの割合を1%から50%まで変えて五つのAIモデルを学習・比較した。半教師ありのSEMI-DETRは、ラベル付き画像34枚で平均適合率19.2に達し、最良の教師ありモデルを相対的に20%上回った。1%の水準で子の検出は24.3%向上し、成獣は16.8%だった。"
+                "x": "第一原理シミュレーションのデータで学習した機械学習により、数十種類の金属とグラフェンや遷移金属ダイカルコゲナイドなど一般的な2D 材料を組み合わせたサンドイッチを探索した。ポスドク研究員のMohammad Bagheri氏は「機械学習のおかげで千を超えるヘテロ構造を調べることができた」と語る。"
               },
               {
                 "t": "p",
-                "x": "同等の性能に必要なアノテーションは、およそ5分の1から10分の1で済んだ。研究はFrontiers in Marine Scienceに掲載された。"
+                "x": "セレン系のTMDsが最も多くの金属層を安定化し、室温シミュレーションでは選ばれたサンドイッチが崩れずに金属性を保つことが確かめられた。Pekka Koskinen教授は「この結果は実験研究者に実用的な地図を与える」と述べた。成果はNano Lettersに掲載され、データセットは公開されている。計算はLUMIスーパーコンピューターで行われた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI在无人机航拍中\n追踪白鲸",
-          "body": "一种半监督检测器在无人机图像序列中追踪白鲸及幼崽，人工标注量减少5至10倍。",
-          "mini_headline": "AI借无人机追踪白鲸",
+          "headline": "机器学习找到300+种\n稳定的薄层金属夹层",
+          "body": "Jyvaskyla的模型筛选了一千多种金属烯夹层，找到300多个稳定候选。",
+          "mini_headline": "ML找到稳定金属烯",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
-                "cap": "标注比例1%（34张标注图像）时的定性检测结果：带标注的测试图像（A）与训练中未见过的无标注图像（B）。来源：Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
+                "cap": "没有支撑层时，金属会坍缩成团簇；将其夹在TMDs、石墨烯或BN之间，可得到平整、稳定的金属。Credit: Mohammad Bagheri"
               },
               {
                 "t": "p",
-                "x": "佛罗里达大西洋大学的研究人员与加拿大渔业和海洋部、曼尼托巴大学合作，利用深度学习在连续航拍图像中检测和追踪白鲸。"
+                "x": "University of Jyväskylä的研究人员利用机器学习和高性能计算，识别出300多种稳定的金属烯夹层结构。金属烯是由单质金属构成、仅一个原子厚的层，独立存在时容易坍缩成3D 团簇。"
               },
               {
                 "t": "p",
-                "x": "他们使用7,655张高分辨率无人机图像，每头鲸都标注为成年或幼崽，在1%到50%的标注数据比例下训练并比较了五个AI模型。半监督模型SEMI-DETR仅用34张标注图像就达到19.2的平均精度均值，比最佳监督模型相对提升20%。在1%的标注水平下，幼崽检测提升24.3%，成年个体为16.8%。"
+                "x": "基于第一性原理模拟数据训练的机器学习，探索了数十种金属与石墨烯、过渡金属二硫族化合物等常见2D 材料组合而成的夹层结构。博士后研究员Mohammad Bagheri表示：“机器学习让我们得以考察一千多种异质结构。”"
               },
               {
                 "t": "p",
-                "x": "达到相当性能所需的标注量约少五到10倍。研究发表于《Frontiers in Marine Science》。"
+                "x": "硒基TMDs稳定的金属层数量最多，室温模拟证实部分选定的夹层结构保持完整并具有金属性。Pekka Koskinen教授表示：“这些结果为实验人员提供了一张实用的地图。”该研究发表于Nano Letters；数据集已公开，计算在LUMI超级计算机上完成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA sigue a las belugas en\nimágenes aéreas de drones",
-          "body": "Un detector semisupervisado sigue a belugas y sus crías en imágenes de dron con 5-10x menos etiquetado manual.",
-          "mini_headline": "La IA sigue belugas con drones",
+          "headline": "Aprendizaje automático halla\n300+ capas metálicas estables",
+          "body": "Los modelos de Jyvaskyla analizaron más de mil sándwiches de metaleno y hallaron más de 300 candidatos estables.",
+          "mini_headline": "El ML halla metalenos estables",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
-                "cap": "Resultados cualitativos de detección con un 1% de etiquetado (34 imágenes etiquetadas) en una imagen de prueba etiquetada (A) y en una imagen sin etiquetar no vista durante el entrenamiento (B). Crédito: Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
+                "cap": "Sin capas de soporte, los metales colapsan en cúmulos; intercalarlos entre TMDs, grafeno o BN puede dar metales planos y estables. Credit: Mohammad Bagheri"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Florida Atlantic University, junto con Fisheries and Oceans Canada y la Universidad de Manitoba, usan aprendizaje profundo para detectar y seguir belugas a lo largo de secuencias de imágenes aéreas."
+                "x": "Investigadores de la University of Jyväskylä usaron aprendizaje automático y computación de alto rendimiento para identificar más de 300 estructuras estables de sándwich de metaleno. Los metalenos, capas de metales elementales de un átomo de grosor, tienden a colapsar en cúmulos 3D cuando están aislados."
               },
               {
                 "t": "p",
-                "x": "Con 7.655 imágenes de dron de alta resolución, en las que cada ballena se etiquetó como adulta o cría, entrenaron y compararon cinco modelos de IA con niveles de datos etiquetados del 1% al 50%. El modelo semisupervisado SEMI-DETR alcanzó una precisión media promedio de 19,2 con 34 imágenes etiquetadas, una mejora relativa del 20% sobre el mejor modelo supervisado. La detección de crías mejoró un 24,3% en el nivel del 1%, frente al 16,8% en los adultos."
+                "x": "El aprendizaje automático, entrenado con datos de simulaciones de primeros principios, exploró sándwiches que combinan decenas de metales con materiales 2D comunes como el grafeno y los dicalcogenuros de metales de transición. “El aprendizaje automático nos permitió examinar más de mil heteroestructuras”, dijo el investigador posdoctoral Mohammad Bagheri."
               },
               {
                 "t": "p",
-                "x": "Lograr un rendimiento comparable requirió aproximadamente entre cinco y 10 veces menos anotación. El estudio se publica en Frontiers in Marine Science."
+                "x": "Los TMDs basados en selenio estabilizaron el mayor número de capas metálicas, y simulaciones a temperatura ambiente confirmaron que algunos sándwiches seleccionados se mantienen intactos y metálicos. “Los resultados ofrecen a los experimentadores un mapa práctico”, dijo el profesor Pekka Koskinen. El trabajo se publicó en Nano Letters; el conjunto de datos es público y los cálculos se realizaron en el supercomputador LUMI."
               }
             ]
           }
@@ -1051,109 +909,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, 드론 항공 사진 속\n벨루가를 추적한다",
-          "body": "준지도 탐지기가 5~10배 적은 라벨로 드론 사진 속 벨루가와 새끼를 추적한다.",
-          "mini_headline": "드론으로 벨루가 추적하는 AI",
+          "headline": "머신러닝이 찾은 300+\n안정 박막금속 샌드위치",
+          "body": "Jyvaskyla 모델이 천여 샌드위치에서 300개 넘는 안정 후보를 찾았다.",
+          "mini_headline": "ML이 찾은 안정 메탈렌",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
-                "cap": "라벨링 1%(라벨링된 이미지 34장)에서의 정성적 탐지 결과. 라벨이 있는 테스트 이미지(A)와 학습 중 보지 못한 라벨 없는 이미지(B). 출처: Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
+                "cap": "금속은 받침층이 없으면 덩어리로 뭉친다. TMDs, 그래핀, BN 사이에 끼우면 평평하고 안정적인 금속을 얻을 수 있다. Credit: Mohammad Bagheri"
               },
               {
                 "t": "p",
-                "x": "플로리다 애틀랜틱 대학교 연구진은 캐나다 수산해양부, 매니토바 대학교와 함께 딥러닝으로 연속 항공 사진에서 벨루가를 탐지하고 추적한다."
+                "x": "University of Jyväskylä 연구진이 머신러닝과 고성능 컴퓨팅으로 안정적인 메탈렌 샌드위치 구조 300개 이상을 찾아냈다. 메탈렌은 원소 금속이 원자 한 층 두께로 이룬 층으로, 홀로 서 있으면 3D 덩어리로 뭉치는 경향이 있다."
               },
               {
                 "t": "p",
-                "x": "연구진은 고래마다 성체 또는 새끼로 라벨을 붙인 고해상도 드론 이미지 7,655장을 활용해, 라벨 데이터 비율 1%부터 50%까지 다섯 가지 AI 모델을 학습시키고 비교했다. 준지도 모델 SEMI-DETR은 라벨링된 이미지 34장으로 평균 정밀도 19.2를 기록해, 가장 좋은 지도학습 모델보다 상대적으로 20% 높았다. 1% 수준에서 새끼 탐지는 24.3% 개선됐고, 성체는 16.8%였다."
+                "x": "제일원리 시뮬레이션 데이터로 학습한 머신러닝은 수십 종의 금속을 그래핀, 전이금속 칼코게나이드 같은 흔한 2D 소재와 조합한 샌드위치를 탐색했다. 박사후연구원 Mohammad Bagheri는 “머신러닝 덕분에 천 개가 넘는 이종구조를 살펴볼 수 있었다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "비슷한 성능을 내는 데 필요한 주석 작업은 약 다섯에서 10배 적었다. 연구는 Frontiers in Marine Science에 실렸다."
+                "x": "셀레늄 기반 TMDs가 가장 많은 금속층을 안정화했고, 상온 시뮬레이션에서 선별한 샌드위치가 형태와 금속성을 유지한다는 점도 확인했다. Pekka Koskinen 교수는 “이 결과는 실험 연구자에게 실용적인 지도가 된다”고 말했다. 연구는 Nano Letters에 실렸고, 데이터셋은 공개돼 있으며 계산은 LUMI 슈퍼컴퓨터에서 수행했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIがドローン空撮で\nベルーガを追跡",
-          "body": "半教師あり検出器が、手作業のラベル付けを5〜10分の1に減らしてベルーガと子を追跡する。",
-          "mini_headline": "AIがドローンでベルーガ追跡",
+          "headline": "機械学習が見つけた300+\n安定な薄層金属サンドイッチ",
+          "body": "Jyvaskylaのモデルは千を超えるメタレン積層を調べ、300超の安定候補を得た。",
+          "mini_headline": "MLが安定メタレンを発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
-                "cap": "ラベル付け1%（ラベル付き画像34枚）での定性的な検出結果。ラベル付きテスト画像（A）と、学習中に見ていないラベルなし画像（B）。出典：Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
+                "cap": "金属は支える層がないとクラスターに崩れるが、TMDs、グラフェン、BNで挟むと平らで安定した金属が得られる。Credit: Mohammad Bagheri"
               },
               {
                 "t": "p",
-                "x": "フロリダ・アトランティック大学の研究者は、カナダ水産海洋省およびマニトバ大学と共同で、深層学習を使って連続した空撮画像からベルーガを検出・追跡している。"
+                "x": "University of Jyväskyläの研究者らは、機械学習と高性能計算を用いて、300を超える安定なメタレン・サンドイッチ構造を特定した。メタレンは元素金属が原子一層の厚さで並んだ層で、単独では3D クラスターに崩れやすい。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、各個体を成獣か子かでラベル付けした高解像度ドローン画像7,655枚を用い、ラベル付きデータの割合を1%から50%まで変えて五つのAIモデルを学習・比較した。半教師ありのSEMI-DETRは、ラベル付き画像34枚で平均適合率19.2に達し、最良の教師ありモデルを相対的に20%上回った。1%の水準で子の検出は24.3%向上し、成獣は16.8%だった。"
+                "x": "第一原理シミュレーションのデータで学習した機械学習により、数十種類の金属とグラフェンや遷移金属ダイカルコゲナイドなど一般的な2D 材料を組み合わせたサンドイッチを探索した。ポスドク研究員のMohammad Bagheri氏は「機械学習のおかげで千を超えるヘテロ構造を調べることができた」と語る。"
               },
               {
                 "t": "p",
-                "x": "同等の性能に必要なアノテーションは、およそ5分の1から10分の1で済んだ。研究はFrontiers in Marine Scienceに掲載された。"
+                "x": "セレン系のTMDsが最も多くの金属層を安定化し、室温シミュレーションでは選ばれたサンドイッチが崩れずに金属性を保つことが確かめられた。Pekka Koskinen教授は「この結果は実験研究者に実用的な地図を与える」と述べた。成果はNano Lettersに掲載され、データセットは公開されている。計算はLUMIスーパーコンピューターで行われた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI在无人机航拍中\n追踪白鲸",
-          "body": "一种半监督检测器在无人机图像序列中追踪白鲸及幼崽，人工标注量减少5至10倍。",
-          "mini_headline": "AI借无人机追踪白鲸",
+          "headline": "机器学习找到300+种\n稳定的薄层金属夹层",
+          "body": "Jyvaskyla的模型筛选了一千多种金属烯夹层，找到300多个稳定候选。",
+          "mini_headline": "ML找到稳定金属烯",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
-                "cap": "标注比例1%（34张标注图像）时的定性检测结果：带标注的测试图像（A）与训练中未见过的无标注图像（B）。来源：Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
+                "cap": "没有支撑层时，金属会坍缩成团簇；将其夹在TMDs、石墨烯或BN之间，可得到平整、稳定的金属。Credit: Mohammad Bagheri"
               },
               {
                 "t": "p",
-                "x": "佛罗里达大西洋大学的研究人员与加拿大渔业和海洋部、曼尼托巴大学合作，利用深度学习在连续航拍图像中检测和追踪白鲸。"
+                "x": "University of Jyväskylä的研究人员利用机器学习和高性能计算，识别出300多种稳定的金属烯夹层结构。金属烯是由单质金属构成、仅一个原子厚的层，独立存在时容易坍缩成3D 团簇。"
               },
               {
                 "t": "p",
-                "x": "他们使用7,655张高分辨率无人机图像，每头鲸都标注为成年或幼崽，在1%到50%的标注数据比例下训练并比较了五个AI模型。半监督模型SEMI-DETR仅用34张标注图像就达到19.2的平均精度均值，比最佳监督模型相对提升20%。在1%的标注水平下，幼崽检测提升24.3%，成年个体为16.8%。"
+                "x": "基于第一性原理模拟数据训练的机器学习，探索了数十种金属与石墨烯、过渡金属二硫族化合物等常见2D 材料组合而成的夹层结构。博士后研究员Mohammad Bagheri表示：“机器学习让我们得以考察一千多种异质结构。”"
               },
               {
                 "t": "p",
-                "x": "达到相当性能所需的标注量约少五到10倍。研究发表于《Frontiers in Marine Science》。"
+                "x": "硒基TMDs稳定的金属层数量最多，室温模拟证实部分选定的夹层结构保持完整并具有金属性。Pekka Koskinen教授表示：“这些结果为实验人员提供了一张实用的地图。”该研究发表于Nano Letters；数据集已公开，计算在LUMI超级计算机上完成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA sigue a las belugas en\nimágenes aéreas de drones",
-          "body": "Un detector semisupervisado sigue a belugas y sus crías en imágenes de dron con 5-10x menos etiquetado manual.",
-          "mini_headline": "La IA sigue belugas con drones",
+          "headline": "Aprendizaje automático halla\n300+ capas metálicas estables",
+          "body": "Los modelos de Jyvaskyla analizaron más de mil sándwiches de metaleno y hallaron más de 300 candidatos estables.",
+          "mini_headline": "El ML halla metalenos estables",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-researchers-t.jpg",
-                "cap": "Resultados cualitativos de detección con un 1% de etiquetado (34 imágenes etiquetadas) en una imagen de prueba etiquetada (A) y en una imagen sin etiquetar no vista durante el entrenamiento (B). Crédito: Frontiers in Marine Science (2026). DOI: 10.3389/fmars.2026.1913328"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
+                "cap": "Sin capas de soporte, los metales colapsan en cúmulos; intercalarlos entre TMDs, grafeno o BN puede dar metales planos y estables. Credit: Mohammad Bagheri"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Florida Atlantic University, junto con Fisheries and Oceans Canada y la Universidad de Manitoba, usan aprendizaje profundo para detectar y seguir belugas a lo largo de secuencias de imágenes aéreas."
+                "x": "Investigadores de la University of Jyväskylä usaron aprendizaje automático y computación de alto rendimiento para identificar más de 300 estructuras estables de sándwich de metaleno. Los metalenos, capas de metales elementales de un átomo de grosor, tienden a colapsar en cúmulos 3D cuando están aislados."
               },
               {
                 "t": "p",
-                "x": "Con 7.655 imágenes de dron de alta resolución, en las que cada ballena se etiquetó como adulta o cría, entrenaron y compararon cinco modelos de IA con niveles de datos etiquetados del 1% al 50%. El modelo semisupervisado SEMI-DETR alcanzó una precisión media promedio de 19,2 con 34 imágenes etiquetadas, una mejora relativa del 20% sobre el mejor modelo supervisado. La detección de crías mejoró un 24,3% en el nivel del 1%, frente al 16,8% en los adultos."
+                "x": "El aprendizaje automático, entrenado con datos de simulaciones de primeros principios, exploró sándwiches que combinan decenas de metales con materiales 2D comunes como el grafeno y los dicalcogenuros de metales de transición. “El aprendizaje automático nos permitió examinar más de mil heteroestructuras”, dijo el investigador posdoctoral Mohammad Bagheri."
               },
               {
                 "t": "p",
-                "x": "Lograr un rendimiento comparable requirió aproximadamente entre cinco y 10 veces menos anotación. El estudio se publica en Frontiers in Marine Science."
+                "x": "Los TMDs basados en selenio estabilizaron el mayor número de capas metálicas, y simulaciones a temperatura ambiente confirmaron que algunos sándwiches seleccionados se mantienen intactos y metálicos. “Los resultados ofrecen a los experimentadores un mapa práctico”, dijo el profesor Pekka Koskinen. El trabajo se publicó en Nano Letters; el conjunto de datos es público y los cálculos se realizaron en el supercomputador LUMI."
               }
             ]
           }
@@ -1161,15 +1019,15 @@
       }
     },
     {
-      "id": "qwen3-quantum-circuit-layers",
+      "id": "nhb-eight-ai-impacts-review",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "300억 파라미터 LLM에\n양자 회로를 넣다",
-      "body": "연구진이 300억 파라미터 Qwen3의 8개 층을 양자 프로세서용 모듈로 바꿨다.",
-      "mini_headline": "300억 LLM 속 양자 회로",
+      "headline": "AI 영향을 둘러싼\n여덟 가지 주장 검증",
+      "body": "Nature Human Behaviour 리뷰는 AI 우려의 근거가 약하다고 봤다.",
+      "mini_headline": "AI를 둘러싼 우려 여덟 가지를 따지다",
       "tool": "Science",
-      "source": "The Quantum Insider",
-      "url": "https://thequantuminsider.com/2026/11/24/researchers-fit-quantum-circuits-into-a-30-billion-parameter-ai-model/",
+      "source": "Nature Human Behaviour",
+      "url": "https://www.nature.com/articles/s41562-026-02615-0",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1177,149 +1035,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
+            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
           },
           {
             "t": "p",
-            "x": "연구진이 대규모 언어 모델의 층 여덟 개를 양자 프로세서에서 돌아가는 작은 모듈로 바꿨다. 시뮬레이션에서 텍스트 예측 능력은 거의 그대로였고 모델 파라미터 수는 약 16% 줄었다."
+            "x": "인공지능(AI) 시스템을 쓰는 사람은 이제 전 세계 십억 명에 이른다. 이들에게 AI는 어떤 영향을 줄까? 널리 퍼진 우려는 AI가 우리 인지 능력을 떨어뜨리고 정보 생태계를 오염시키며, 인간관계를 좀먹고 정신 건강을 해치고, 사람을 설득·조작·정서적 의존·사회공학에 취약하게 만들 수 있다는 것이다."
           },
           {
             "t": "p",
-            "x": "Multiverse Computing과 토론토대 연구팀은 파라미터 305억 개의 사전학습 Qwen3 모델을 손봤다. 연속된 블록 여덟 개, 파라미터로는 50억 개 가까이를 들어내고 그 자리에 학습 가능한 파라미터 145,281개짜리 모듈 하나를 넣었다. 퍼플렉서티는 WikiText-2에서 0.9% 나빠졌고 C4에서는 뚜렷한 차이가 없었다."
+            "x": "최근 연구들은 모델 평가, 사용자 연구, 소비자 채팅 로그 분석, 에이전트 기반 시뮬레이션으로 AI가 사람에게 주는 영향을 살피기 시작했다. 리뷰는 이 증거를 검토한 뒤 가장 강한 우려를 뒷받침할 증거는 제한적이라고 결론지었다. 연구가 아직 초기 단계라 풀어야 할 불확실성도 많이 남았다."
           },
           {
             "t": "p",
-            "x": "회로는 156큐비트 IBM Heron 프로세서에서도 돌렸는데 토큰 하나당 약 1분 반이 걸렸다. 비슷한 크기의 기존 신경망은 거의 모든 비교에서 텍스트를 더 잘 예측했다. 연구는 arXiv에 사전 공개된 논문이다."
+            "x": "Christopher Summerfield와 동료들이 쓴 이 리뷰(Review)는 AI가 사람에게 끼치는 영향을 두고 제기된 시급한 우려 여덟 가지의 증거를 평가한다. 가장 걱정스러운 주장일수록 근거가 크지 않다고 보면서도, AI가 인간에게 주는 영향을 더 깊이 살펴봐야 한다고 촉구한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Quantum circuits fit inside a\n30B-parameter language model",
-          "body": "Researchers replaced eight layers of the 30B-parameter Qwen3 model with a module that can run on a quantum processor.",
-          "mini_headline": "Quantum circuits in a 30B LLM",
+          "headline": "Review tests eight claims\nabout how AI affects people",
+          "body": "A Nature Human Behaviour review finds only modest support for the most alarming claims about AI's effects on people.",
+          "mini_headline": "Eight AI fears, tested",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Researchers replaced eight layers of a large language model with a compact module that can run on a quantum processor, cutting the model’s parameter count by about 16% with little change in its ability to predict text in simulations."
+                "x": "Artificial intelligence (AI) systems are now used by one billion people worldwide. What is their impact on human users? Popular narratives of concern argue that AI may be undermining our cognitive abilities, polluting our information ecosystem, corroding human relationships, damaging our mental health and rendering us vulnerable to persuasion, manipulation, emotional dependence and social engineering."
               },
               {
                 "t": "p",
-                "x": "The team, from Multiverse Computing and the University of Toronto, modified a pretrained Qwen3 model with 30.5 billion parameters, removing eight consecutive blocks — nearly 5 billion parameters — and putting a single module with 145,281 trainable parameters in their place. Perplexity was 0.9% worse on WikiText-2, with no clear difference on C4."
+                "x": "Emerging research has begun to study the impact that AI has on people, via model evaluations, user studies, analysis of consumer chatlogs and agent-based simulations. Here we review this evidence, finding limited evidence for the strongest narratives of concern. However, research is still nascent and many uncertainties remain to be resolved in future work."
               },
               {
                 "t": "p",
-                "x": "The circuits also ran on a 156-qubit IBM Heron processor, taking roughly a minute and a half per token. A conventional network of about the same size predicted text better in nearly every comparison. The study is an arXiv preprint."
+                "x": "This Review, by Christopher Summerfield and colleagues, evaluates evidence for eight pressing concerns about how AI is affecting people. It finds modest support for the most alarming claims but calls for deeper scrutiny of the human impact of AI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "300억 파라미터 LLM에\n양자 회로를 넣다",
-          "body": "연구진이 300억 파라미터 Qwen3의 8개 층을 양자 프로세서용 모듈로 바꿨다.",
-          "mini_headline": "300억 LLM 속 양자 회로",
+          "headline": "AI 영향을 둘러싼\n여덟 가지 주장 검증",
+          "body": "Nature Human Behaviour 리뷰는 AI 우려의 근거가 약하다고 봤다.",
+          "mini_headline": "AI를 둘러싼 우려 여덟 가지를 따지다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "연구진이 대규모 언어 모델의 층 여덟 개를 양자 프로세서에서 돌아가는 작은 모듈로 바꿨다. 시뮬레이션에서 텍스트 예측 능력은 거의 그대로였고 모델 파라미터 수는 약 16% 줄었다."
+                "x": "인공지능(AI) 시스템을 쓰는 사람은 이제 전 세계 십억 명에 이른다. 이들에게 AI는 어떤 영향을 줄까? 널리 퍼진 우려는 AI가 우리 인지 능력을 떨어뜨리고 정보 생태계를 오염시키며, 인간관계를 좀먹고 정신 건강을 해치고, 사람을 설득·조작·정서적 의존·사회공학에 취약하게 만들 수 있다는 것이다."
               },
               {
                 "t": "p",
-                "x": "Multiverse Computing과 토론토대 연구팀은 파라미터 305억 개의 사전학습 Qwen3 모델을 손봤다. 연속된 블록 여덟 개, 파라미터로는 50억 개 가까이를 들어내고 그 자리에 학습 가능한 파라미터 145,281개짜리 모듈 하나를 넣었다. 퍼플렉서티는 WikiText-2에서 0.9% 나빠졌고 C4에서는 뚜렷한 차이가 없었다."
+                "x": "최근 연구들은 모델 평가, 사용자 연구, 소비자 채팅 로그 분석, 에이전트 기반 시뮬레이션으로 AI가 사람에게 주는 영향을 살피기 시작했다. 리뷰는 이 증거를 검토한 뒤 가장 강한 우려를 뒷받침할 증거는 제한적이라고 결론지었다. 연구가 아직 초기 단계라 풀어야 할 불확실성도 많이 남았다."
               },
               {
                 "t": "p",
-                "x": "회로는 156큐비트 IBM Heron 프로세서에서도 돌렸는데 토큰 하나당 약 1분 반이 걸렸다. 비슷한 크기의 기존 신경망은 거의 모든 비교에서 텍스트를 더 잘 예측했다. 연구는 arXiv에 사전 공개된 논문이다."
+                "x": "Christopher Summerfield와 동료들이 쓴 이 리뷰(Review)는 AI가 사람에게 끼치는 영향을 두고 제기된 시급한 우려 여덟 가지의 증거를 평가한다. 가장 걱정스러운 주장일수록 근거가 크지 않다고 보면서도, AI가 인간에게 주는 영향을 더 깊이 살펴봐야 한다고 촉구한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "量子回路が収まる\n300億パラメータのLLM",
-          "body": "300億パラメータのQwen3の8層を、量子プロセッサで動くモジュールに置き換えた。",
-          "mini_headline": "300億LLMに量子回路",
+          "headline": "AIが人に与える影響\n八つの主張を検証",
+          "body": "Nature Human Behaviourの総説はAIへの深刻な懸念の根拠は弱いとした。",
+          "mini_headline": "AIをめぐる八つの懸念を検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "研究者らは大規模言語モデルの8層を、量子プロセッサで実行できる小型モジュールに置き換えた。シミュレーションではテキスト予測能力をほとんど損なわずに、モデルのパラメータ数を約16%削減した。"
+                "x": "人工知能(AI)システムは今や世界で十億人に使われている。人間の利用者にどんな影響を与えているのか。広く流布する懸念の語りは、AIが私たちの認知能力を損ない、情報生態系を汚染し、人間関係をむしばみ、心の健康を害し、説得や操作、感情的依存、ソーシャルエンジニアリングに対して私たちを脆弱にしている可能性があると主張する。"
               },
               {
                 "t": "p",
-                "x": "Multiverse Computingとトロント大学のチームは、305億パラメータの事前学習済みQwen3モデルに手を加え、連続する8ブロック（50億近いパラメータ）を取り除いて、学習可能なパラメータ145,281個の単一モジュールに置き換えた。パープレキシティはWikiText-2で0.9%悪化し、C4では明確な差は見られなかった。"
+                "x": "新たな研究は、モデル評価、ユーザー研究、消費者のチャットログ分析、エージェントベースのシミュレーションを通じて、AIが人に与える影響を調べ始めている。本総説はこうした証拠を検討し、最も強い懸念の語りを支持する証拠は限られていると結論づけた。ただし研究はまだ始まったばかりで、今後の研究で解決すべき不確実性が多く残る。"
               },
               {
                 "t": "p",
-                "x": "回路は156量子ビットのIBM Heronプロセッサでも実行され、1トークンあたり約1分半かかった。ほぼ同じ規模の従来型ネットワークは、ほぼすべての比較でより高いテキスト予測精度を示した。この研究はarXivのプレプリントである。"
+                "x": "Christopher Summerfieldらによるこの総説(Review)は、AIが人に与える影響をめぐる八つの差し迫った懸念について証拠を評価した。最も警戒すべき主張への支持は控えめだとしつつ、AIが人間に与える影響をより深く検証するよう求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "量子电路装进\n300亿参数语言模型",
-          "body": "研究人员把300亿参数Qwen3模型中的八层，替换为可在量子处理器上运行的模块。",
-          "mini_headline": "300亿参数LLM中的量子电路",
+          "headline": "AI如何影响人？\n综述检验八种说法",
+          "body": "Nature Human Behaviour综述发现，AI影响最惊人的说法仅获有限支持。",
+          "mini_headline": "检验八种AI担忧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "研究人员将一个大语言模型的八层替换为可在量子处理器上运行的紧凑模块，在模拟中模型预测文本的能力几乎没有变化，参数量却减少了约16%。"
+                "x": "人工智能（AI）系统如今在全球拥有十亿用户。它们对人类用户有何影响？流行的担忧叙事认为，AI可能正在削弱我们的认知能力、污染信息生态、侵蚀人际关系、损害心理健康，并使我们更容易受到说服、操纵、情感依赖和社会工程的影响。"
               },
               {
                 "t": "p",
-                "x": "这支来自Multiverse Computing和多伦多大学的团队修改了一个拥有305亿参数的预训练Qwen3模型，移除了连续八个模块（近50亿参数），并以一个仅含145,281个可训练参数的模块取而代之。在WikiText-2上困惑度变差0.9%，在C4上则没有明显差异。"
+                "x": "新兴研究已开始通过模型评估、用户研究、消费者聊天记录分析和基于智能体的模拟，考察AI对人的影响。本文综述了这些证据，发现支持最强烈担忧叙事的证据有限。不过，相关研究仍处于起步阶段，许多不确定性有待未来研究解决。"
               },
               {
                 "t": "p",
-                "x": "这些电路还在156量子比特的IBM Heron处理器上运行，每个token约需一分半钟。规模大致相同的传统网络几乎在所有比较中都能更好地预测文本。该研究为arXiv预印本。"
+                "x": "这篇由Christopher Summerfield及其同事撰写的综述（Review）评估了关于AI如何影响人的八项紧迫担忧的证据。综述发现，最令人警惕的说法仅获得有限支持，但呼吁更深入地审视AI对人类的影响。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Circuitos cuánticos caben en un\nmodelo de lenguaje de 30B",
-          "body": "Un equipo sustituyó ocho capas del Qwen3 de 30B parámetros por un módulo ejecutable en un procesador cuántico.",
-          "mini_headline": "Circuitos cuánticos en un LLM de 30B",
+          "headline": "Una revisión examina ocho ideas\nsobre cómo nos afecta la AI",
+          "body": "Una revisión en Nature Human Behaviour halla un apoyo modesto a las tesis más alarmantes sobre los efectos de la AI.",
+          "mini_headline": "Ocho temores sobre la AI, a prueba",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Los investigadores sustituyeron ocho capas de un gran modelo de lenguaje por un módulo compacto que puede ejecutarse en un procesador cuántico, lo que redujo el número de parámetros del modelo en torno a un 16% con pocos cambios en su capacidad de predecir texto en simulaciones."
+                "x": "Los sistemas de inteligencia artificial (AI) ya los usan mil millones de personas en todo el mundo. ¿Qué impacto tienen en sus usuarios? Las narrativas de preocupación más difundidas sostienen que la AI podría estar minando nuestras capacidades cognitivas, contaminando nuestro ecosistema informativo, corroyendo las relaciones humanas, dañando nuestra salud mental y volviéndonos vulnerables a la persuasión, la manipulación, la dependencia emocional y la ingeniería social."
               },
               {
                 "t": "p",
-                "x": "El equipo, de Multiverse Computing y la Universidad de Toronto, modificó un modelo Qwen3 preentrenado con 30.500 millones de parámetros: eliminó ocho bloques consecutivos —casi 5.000 millones de parámetros— y colocó en su lugar un único módulo con 145.281 parámetros entrenables. La perplejidad empeoró un 0,9% en WikiText-2, sin una diferencia clara en C4."
+                "x": "Una investigación emergente ha empezado a estudiar el impacto de la AI en las personas mediante evaluaciones de modelos, estudios con usuarios, análisis de registros de chat de consumidores y simulaciones basadas en agentes. Aquí revisamos esa evidencia y encontramos pruebas limitadas para las narrativas de preocupación más fuertes. Sin embargo, la investigación aún es incipiente y quedan muchas incertidumbres por resolver en trabajos futuros."
               },
               {
                 "t": "p",
-                "x": "Los circuitos también se ejecutaron en un procesador IBM Heron de 156 cúbits, con cerca de un minuto y medio por token. Una red convencional de tamaño similar predijo mejor el texto en casi todas las comparaciones. El estudio es un preprint de arXiv."
+                "x": "Esta revisión (Review), de Christopher Summerfield y sus colegas, evalúa la evidencia sobre ocho preocupaciones urgentes acerca de cómo la AI está afectando a las personas. Encuentra un apoyo modesto para las afirmaciones más alarmantes, pero pide examinar más a fondo el impacto humano de la AI."
               }
             ]
           }
@@ -1327,105 +1185,387 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "300억 파라미터 LLM에\n양자 회로를 넣다",
-          "body": "연구진이 300억 파라미터 Qwen3의 8개 층을 양자 프로세서용 모듈로 바꿨다.",
-          "mini_headline": "300억 LLM 속 양자 회로",
+          "headline": "AI 영향을 둘러싼\n여덟 가지 주장 검증",
+          "body": "Nature Human Behaviour 리뷰는 AI 우려의 근거가 약하다고 봤다.",
+          "mini_headline": "AI를 둘러싼 여덟 가지 우려, 검증",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "연구진이 대규모 언어 모델의 층 여덟 개를 양자 프로세서에서 실행할 수 있는 작은 모듈로 대체해, 시뮬레이션에서 텍스트 예측 능력은 거의 그대로 둔 채 모델 파라미터 수를 약 16% 줄였다."
+                "x": "인공지능(AI) 시스템은 이제 전 세계 십억 명이 사용한다. 인간 사용자에게는 어떤 영향을 미칠까? 널리 퍼진 우려의 서사는 AI가 우리의 인지 능력을 약화하고, 정보 생태계를 오염시키고, 인간관계를 좀먹고, 정신 건강을 해치며, 설득·조작·정서적 의존·사회공학에 취약하게 만들 수 있다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "Multiverse Computing과 토론토대 연구팀은 파라미터 305억 개의 사전학습 Qwen3 모델을 수정했다. 연속된 블록 여덟 개, 즉 50억 개 가까운 파라미터를 제거하고 그 자리에 학습 가능한 파라미터 145,281개짜리 모듈 하나를 넣었다. 퍼플렉서티는 WikiText-2에서 0.9% 나빠졌고, C4에서는 뚜렷한 차이가 없었다."
+                "x": "새로운 연구들은 모델 평가, 사용자 연구, 소비자 채팅 로그 분석, 에이전트 기반 시뮬레이션으로 AI가 사람에게 미치는 영향을 살피기 시작했다. 이 리뷰는 그 증거를 검토한 끝에 가장 강한 우려의 서사를 뒷받침하는 증거는 제한적이라고 결론지었다. 다만 연구는 아직 초기 단계이며, 앞으로 풀어야 할 불확실성이 많이 남아 있다."
               },
               {
                 "t": "p",
-                "x": "회로는 156큐비트 IBM Heron 프로세서에서도 실행됐으며, 토큰 하나당 약 1분 반이 걸렸다. 비슷한 크기의 기존 신경망은 거의 모든 비교에서 텍스트를 더 잘 예측했다. 이 연구는 arXiv 사전 공개 논문이다."
+                "x": "Christopher Summerfield와 동료들이 쓴 이 리뷰(Review)는 AI가 사람에게 미치는 영향에 관한 여덟 가지 시급한 우려의 증거를 평가한다. 가장 우려스러운 주장에 대한 근거는 크지 않다고 보면서도, AI가 인간에게 미치는 영향을 더 깊이 살펴봐야 한다고 촉구한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "量子回路が収まる\n300億パラメータのLLM",
-          "body": "300億パラメータのQwen3の8層を、量子プロセッサで動くモジュールに置き換えた。",
-          "mini_headline": "300億LLMに量子回路",
+          "headline": "AIが人に与える影響\n八つの主張を検証",
+          "body": "Nature Human Behaviourの総説はAIへの深刻な懸念の根拠は弱いとした。",
+          "mini_headline": "AIをめぐる八つの懸念を検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "研究者らは大規模言語モデルの8層を、量子プロセッサで実行できる小型モジュールに置き換えた。シミュレーションではテキスト予測能力をほとんど損なわずに、モデルのパラメータ数を約16%削減した。"
+                "x": "人工知能(AI)システムは今や世界で十億人に使われている。人間の利用者にどんな影響を与えているのか。広く流布する懸念の語りは、AIが私たちの認知能力を損ない、情報生態系を汚染し、人間関係をむしばみ、心の健康を害し、説得や操作、感情的依存、ソーシャルエンジニアリングに対して私たちを脆弱にしている可能性があると主張する。"
               },
               {
                 "t": "p",
-                "x": "Multiverse Computingとトロント大学のチームは、305億パラメータの事前学習済みQwen3モデルに手を加え、連続する8ブロック（50億近いパラメータ）を取り除いて、学習可能なパラメータ145,281個の単一モジュールに置き換えた。パープレキシティはWikiText-2で0.9%悪化し、C4では明確な差は見られなかった。"
+                "x": "新たな研究は、モデル評価、ユーザー研究、消費者のチャットログ分析、エージェントベースのシミュレーションを通じて、AIが人に与える影響を調べ始めている。本総説はこうした証拠を検討し、最も強い懸念の語りを支持する証拠は限られていると結論づけた。ただし研究はまだ始まったばかりで、今後の研究で解決すべき不確実性が多く残る。"
               },
               {
                 "t": "p",
-                "x": "回路は156量子ビットのIBM Heronプロセッサでも実行され、1トークンあたり約1分半かかった。ほぼ同じ規模の従来型ネットワークは、ほぼすべての比較でより高いテキスト予測精度を示した。この研究はarXivのプレプリントである。"
+                "x": "Christopher Summerfieldらによるこの総説(Review)は、AIが人に与える影響をめぐる八つの差し迫った懸念について証拠を評価した。最も警戒すべき主張への支持は控えめだとしつつ、AIが人間に与える影響をより深く検証するよう求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "量子电路装进\n300亿参数语言模型",
-          "body": "研究人员把300亿参数Qwen3模型中的八层，替换为可在量子处理器上运行的模块。",
-          "mini_headline": "300亿参数LLM中的量子电路",
+          "headline": "AI如何影响人？\n综述检验八种说法",
+          "body": "Nature Human Behaviour综述发现，AI影响最惊人的说法仅获有限支持。",
+          "mini_headline": "检验八种AI担忧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "研究人员将一个大语言模型的八层替换为可在量子处理器上运行的紧凑模块，在模拟中模型预测文本的能力几乎没有变化，参数量却减少了约16%。"
+                "x": "人工智能（AI）系统如今在全球拥有十亿用户。它们对人类用户有何影响？流行的担忧叙事认为，AI可能正在削弱我们的认知能力、污染信息生态、侵蚀人际关系、损害心理健康，并使我们更容易受到说服、操纵、情感依赖和社会工程的影响。"
               },
               {
                 "t": "p",
-                "x": "这支来自Multiverse Computing和多伦多大学的团队修改了一个拥有305亿参数的预训练Qwen3模型，移除了连续八个模块（近50亿参数），并以一个仅含145,281个可训练参数的模块取而代之。在WikiText-2上困惑度变差0.9%，在C4上则没有明显差异。"
+                "x": "新兴研究已开始通过模型评估、用户研究、消费者聊天记录分析和基于智能体的模拟，考察AI对人的影响。本文综述了这些证据，发现支持最强烈担忧叙事的证据有限。不过，相关研究仍处于起步阶段，许多不确定性有待未来研究解决。"
               },
               {
                 "t": "p",
-                "x": "这些电路还在156量子比特的IBM Heron处理器上运行，每个token约需一分半钟。规模大致相同的传统网络几乎在所有比较中都能更好地预测文本。该研究为arXiv预印本。"
+                "x": "这篇由Christopher Summerfield及其同事撰写的综述（Review）评估了关于AI如何影响人的八项紧迫担忧的证据。综述发现，最令人警惕的说法仅获得有限支持，但呼吁更深入地审视AI对人类的影响。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Circuitos cuánticos caben en un\nmodelo de lenguaje de 30B",
-          "body": "Un equipo sustituyó ocho capas del Qwen3 de 30B parámetros por un módulo ejecutable en un procesador cuántico.",
-          "mini_headline": "Circuitos cuánticos en un LLM de 30B",
+          "headline": "Una revisión examina ocho ideas\nsobre cómo nos afecta la AI",
+          "body": "Una revisión en Nature Human Behaviour halla un apoyo modesto a las tesis más alarmantes sobre los efectos de la AI.",
+          "mini_headline": "Ocho temores sobre la AI, a prueba",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-7.16.58-AM.png"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Los investigadores sustituyeron ocho capas de un gran modelo de lenguaje por un módulo compacto que puede ejecutarse en un procesador cuántico, lo que redujo el número de parámetros del modelo en torno a un 16% con pocos cambios en su capacidad de predecir texto en simulaciones."
+                "x": "Los sistemas de inteligencia artificial (AI) ya los usan mil millones de personas en todo el mundo. ¿Qué impacto tienen en sus usuarios? Las narrativas de preocupación más difundidas sostienen que la AI podría estar minando nuestras capacidades cognitivas, contaminando nuestro ecosistema informativo, corroyendo las relaciones humanas, dañando nuestra salud mental y volviéndonos vulnerables a la persuasión, la manipulación, la dependencia emocional y la ingeniería social."
               },
               {
                 "t": "p",
-                "x": "El equipo, de Multiverse Computing y la Universidad de Toronto, modificó un modelo Qwen3 preentrenado con 30.500 millones de parámetros: eliminó ocho bloques consecutivos —casi 5.000 millones de parámetros— y colocó en su lugar un único módulo con 145.281 parámetros entrenables. La perplejidad empeoró un 0,9% en WikiText-2, sin una diferencia clara en C4."
+                "x": "Una investigación emergente ha empezado a estudiar el impacto de la AI en las personas mediante evaluaciones de modelos, estudios con usuarios, análisis de registros de chat de consumidores y simulaciones basadas en agentes. Aquí revisamos esa evidencia y encontramos pruebas limitadas para las narrativas de preocupación más fuertes. Sin embargo, la investigación aún es incipiente y quedan muchas incertidumbres por resolver en trabajos futuros."
               },
               {
                 "t": "p",
-                "x": "Los circuitos también se ejecutaron en un procesador IBM Heron de 156 cúbits, con cerca de un minuto y medio por token. Una red convencional de tamaño similar predijo mejor el texto en casi todas las comparaciones. El estudio es un preprint de arXiv."
+                "x": "Esta revisión (Review), de Christopher Summerfield y sus colegas, evalúa la evidencia sobre ocho preocupaciones urgentes acerca de cómo la AI está afectando a las personas. Encuentra un apoyo modesto para las afirmaciones más alarmantes, pero pide examinar más a fondo el impacto humano de la AI."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "psypost-humour-dark-traits-ml",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "웃긴 그림 반응이\n사이코패시·가학성 드러낸다",
+      "body": "모델은 밈 평가로 사이코패시·가학성·자기애는 잡았지만 마키아벨리즘은 놓쳤다.",
+      "mini_headline": "유머가 드러내는 어두운 특성",
+      "tool": "Science",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/machine-learning-models-can-detect-elevated-psychopathy-and-sadism-from-reactions-to-funny-pictures/",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+            "cap": "[Adobe Stock]"
+          },
+          {
+            "t": "p",
+            "x": "Journal of Individual Differences에 실린 연구에서, 사람들이 시각적 농담을 얼마나 웃기고 잔인하게 느끼는지 분석한 머신러닝 모델은 높은 수준의 사이코패시와 일상적 가학성을 가려냈다. 나르시시즘은 그보다 덜한 정도로 식별했고, 마키아벨리즘(Machiavellianism)은 식별하지 못했다."
+          },
+          {
+            "t": "p",
+            "x": "상트페테르부르크 HSE University의 Liubov Glinkina와 동료들은 러시아어 사용자 200명에게 밈, 코믹스, 카툰 71개를 재미, 친절함, 대상 기준으로 평가하게 한 뒤 분류기 여섯 개를 비교했다. 가장 안정적으로 잡힌 것은 사이코패시로 정확도가 0.82 가까이 올라갔다. 가학성은 최고 0.70을 넘었고 나르시시즘은 0.66이었으며, 마키아벨리즘은 우연 수준인 0.50 근처에 머물렀다."
+          },
+          {
+            "t": "p",
+            "x": "성능은 랜덤 포레스트와 그래디언트 부스팅이 가장 좋았고, 색상이나 텍스트 배치 같은 이미지 특징을 넣어도 정확도는 오르지 않았다. Glinkina는 “이것은 집단 수준의 통계적 신호이지 독심술이 아니다. 개인을 진단할 수는 없다”며, 이것이 “거짓말 탐지기도, 선별 도구도, 채용에 쓸 만한 무엇도 아니다”라고 덧붙였다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Reactions to funny pictures\nreveal psychopathy and sadism",
+          "body": "Models trained on cartoon and meme ratings detected psychopathy, sadism and narcissism, but not Machiavellianism.",
+          "mini_headline": "Humour reveals dark traits",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "A study in the Journal of Individual Differences indicates that machine-learning models analyzing how funny and cruel people find visual jokes can identify elevated levels of psychopathy and everyday sadism, and to a lesser degree narcissism, though not Machiavellianism."
+              },
+              {
+                "t": "p",
+                "x": "Liubov Glinkina of HSE University in Saint Petersburg and colleagues had 200 Russian speakers rate 71 memes, comics and cartoons on funniness, kindness and target, then compared six classifiers. Psychopathy was detected most reliably, reaching nearly 0.82 accuracy; sadism peaked above 0.70, narcissism at 0.66, and Machiavellianism hovered near the 0.50 chance mark."
+              },
+              {
+                "t": "p",
+                "x": "Random forest and gradient boosting performed best, and image features such as color and text layout did not improve accuracy. “This is a group-level statistical signal, not mind-reading: it cannot diagnose an individual,” Glinkina said, adding that it is “not a lie detector, a screening tool, or anything suitable for hiring.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "웃긴 그림 반응이\n사이코패시·가학성 드러낸다",
+          "body": "모델은 밈 평가로 사이코패시·가학성·자기애는 잡았지만 마키아벨리즘은 놓쳤다.",
+          "mini_headline": "유머가 드러내는 어두운 특성",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "Journal of Individual Differences에 실린 연구에서, 사람들이 시각적 농담을 얼마나 웃기고 잔인하게 느끼는지 분석한 머신러닝 모델은 높은 수준의 사이코패시와 일상적 가학성을 가려냈다. 나르시시즘은 그보다 덜한 정도로 식별했고, 마키아벨리즘(Machiavellianism)은 식별하지 못했다."
+              },
+              {
+                "t": "p",
+                "x": "상트페테르부르크 HSE University의 Liubov Glinkina와 동료들은 러시아어 사용자 200명에게 밈, 코믹스, 카툰 71개를 재미, 친절함, 대상 기준으로 평가하게 한 뒤 분류기 여섯 개를 비교했다. 가장 안정적으로 잡힌 것은 사이코패시로 정확도가 0.82 가까이 올라갔다. 가학성은 최고 0.70을 넘었고 나르시시즘은 0.66이었으며, 마키아벨리즘은 우연 수준인 0.50 근처에 머물렀다."
+              },
+              {
+                "t": "p",
+                "x": "성능은 랜덤 포레스트와 그래디언트 부스팅이 가장 좋았고, 색상이나 텍스트 배치 같은 이미지 특징을 넣어도 정확도는 오르지 않았다. Glinkina는 “이것은 집단 수준의 통계적 신호이지 독심술이 아니다. 개인을 진단할 수는 없다”며, 이것이 “거짓말 탐지기도, 선별 도구도, 채용에 쓸 만한 무엇도 아니다”라고 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "面白い画像への反応が\nサイコパシーと加虐性を映す",
+          "body": "ミーム評価の学習モデルは精神病質・加虐性・自己愛を捉え、マキャベリズムは捉えなかった。",
+          "mini_headline": "ユーモアが暗い特性を映す",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "Journal of Individual Differencesに掲載された研究によると、人々が視覚的なジョークをどれほど面白く、また残酷だと感じるかを分析する機械学習モデルは、サイコパシーと日常的サディズムの高さを、また程度は下がるもののナルシシズムを識別できたが、マキャベリズム(Machiavellianism)は識別できなかった。"
+              },
+              {
+                "t": "p",
+                "x": "サンクトペテルブルクにあるHSE UniversityのLiubov Glinkinaらは、ロシア語話者200人にミーム、コミック、漫画71点を面白さ、優しさ、標的の観点で評価させ、六つの分類器を比較した。サイコパシーが最も安定して検出され、正解率は0.82近くに達した。サディズムは最高で0.70を超え、ナルシシズムは0.66、マキャベリズムは偶然水準の0.50付近にとどまった。"
+              },
+              {
+                "t": "p",
+                "x": "ランダムフォレストと勾配ブースティングが最も良い成績を示し、色や文字配置といった画像の特徴は精度を高めなかった。Glinkina氏は「これは集団レベルの統計的シグナルであって読心術ではない。個人を診断することはできない」と述べ、「うそ発見器でも、スクリーニングツールでも、採用に適したものでもない」と付け加えた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "对搞笑图片的反应\n揭示精神病态与施虐性",
+          "body": "基于漫画和表情包评分训练的模型能识别精神病态、施虐性和自恋，但无法识别马基雅维利主义。",
+          "mini_headline": "幽默反应暴露黑暗人格",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "发表在Journal of Individual Differences上的一项研究表明，分析人们觉得视觉笑话有多好笑、多残忍的机器学习模型，能够识别较高水平的精神病态和日常施虐性，对自恋的识别程度较低，但无法识别马基雅维利主义（Machiavellianism）。"
+              },
+              {
+                "t": "p",
+                "x": "圣彼得堡HSE University的Liubov Glinkina及其同事让200名说俄语的人从好笑程度、善意程度和针对对象等方面为71幅表情包、连环画和卡通评分，然后比较了六种分类器。精神病态的检测最为可靠，准确率接近0.82；施虐性最高超过0.70，自恋为0.66，而马基雅维利主义则徘徊在0.50的随机水平附近。"
+              },
+              {
+                "t": "p",
+                "x": "随机森林和梯度提升表现最好，而颜色和文字布局等图像特征并未提高准确率。Glinkina说：“这是群体层面的统计信号，不是读心术：它无法诊断个人。”她补充说，它“不是测谎仪，不是筛查工具，也不适合用于招聘”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las reacciones al humor gráfico\nrevelan psicopatía y sadismo",
+          "body": "Modelos basados en valoraciones de viñetas y memes detectaron psicopatía, sadismo y narcisismo, pero no maquiavelismo.",
+          "mini_headline": "El humor revela rasgos oscuros",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "Un estudio publicado en Journal of Individual Differences indica que los modelos de aprendizaje automático que analizan cuán graciosos y crueles encuentran las personas los chistes visuales pueden identificar niveles elevados de psicopatía y sadismo cotidiano y, en menor grado, de narcisismo, aunque no de maquiavelismo (Machiavellianism)."
+              },
+              {
+                "t": "p",
+                "x": "Liubov Glinkina, de la HSE University de San Petersburgo, y sus colegas pidieron a 200 hablantes de ruso que valoraran 71 memes, cómics y viñetas según su gracia, su amabilidad y su blanco, y luego compararon seis clasificadores. La psicopatía se detectó con mayor fiabilidad, con una precisión cercana a 0.82; el sadismo alcanzó su máximo por encima de 0.70, el narcisismo llegó a 0.66 y el maquiavelismo rondó la marca de azar de 0.50."
+              },
+              {
+                "t": "p",
+                "x": "Random forest y gradient boosting obtuvieron el mejor rendimiento, y las características de imagen como el color y la disposición del texto no mejoraron la precisión. “Es una señal estadística a nivel de grupo, no lectura de la mente: no puede diagnosticar a un individuo”, dijo Glinkina, y añadió que “no es un detector de mentiras, ni una herramienta de cribado, ni nada adecuado para la contratación”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "웃긴 그림 반응이\n사이코패시·가학성 드러낸다",
+          "body": "모델은 밈 평가로 사이코패시·가학성·자기애를 잡았으나 마키아벨리즘은 못 잡았다.",
+          "mini_headline": "유머가 드러내는 어두운 특성",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "Journal of Individual Differences에 실린 연구에 따르면, 사람들이 시각적 농담을 얼마나 웃기고 잔인하게 느끼는지 분석한 머신러닝 모델은 높은 수준의 사이코패시와 일상적 가학성을, 그보다 덜한 정도로는 나르시시즘을 식별할 수 있었지만 마키아벨리즘(Machiavellianism)은 식별하지 못했다."
+              },
+              {
+                "t": "p",
+                "x": "상트페테르부르크 HSE University의 Liubov Glinkina와 동료들은 러시아어 사용자 200명에게 밈, 코믹스, 카툰 71개를 재미, 친절함, 대상 기준으로 평가하게 한 뒤 분류기 여섯 개를 비교했다. 사이코패시가 가장 안정적으로 감지돼 정확도가 0.82 가까이 이르렀고, 가학성은 최고 0.70을 넘었으며, 나르시시즘은 0.66, 마키아벨리즘은 우연 수준인 0.50 근처에 머물렀다."
+              },
+              {
+                "t": "p",
+                "x": "랜덤 포레스트와 그래디언트 부스팅이 가장 좋은 성능을 냈고, 색상이나 텍스트 배치 같은 이미지 특징은 정확도를 높이지 못했다. Glinkina는 “이것은 집단 수준의 통계적 신호이지 독심술이 아니다. 개인을 진단할 수는 없다”며, 이것이 “거짓말 탐지기도, 선별 도구도, 채용에 쓸 만한 무엇도 아니다”라고 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "面白い画像への反応が\nサイコパシーと加虐性を映す",
+          "body": "ミーム評価の学習モデルは精神病質・加虐性・自己愛を捉え、マキャベリズムは捉えなかった。",
+          "mini_headline": "ユーモアが暗い特性を映す",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "Journal of Individual Differencesに掲載された研究によると、人々が視覚的なジョークをどれほど面白く、また残酷だと感じるかを分析する機械学習モデルは、サイコパシーと日常的サディズムの高さを、また程度は下がるもののナルシシズムを識別できたが、マキャベリズム(Machiavellianism)は識別できなかった。"
+              },
+              {
+                "t": "p",
+                "x": "サンクトペテルブルクにあるHSE UniversityのLiubov Glinkinaらは、ロシア語話者200人にミーム、コミック、漫画71点を面白さ、優しさ、標的の観点で評価させ、六つの分類器を比較した。サイコパシーが最も安定して検出され、正解率は0.82近くに達した。サディズムは最高で0.70を超え、ナルシシズムは0.66、マキャベリズムは偶然水準の0.50付近にとどまった。"
+              },
+              {
+                "t": "p",
+                "x": "ランダムフォレストと勾配ブースティングが最も良い成績を示し、色や文字配置といった画像の特徴は精度を高めなかった。Glinkina氏は「これは集団レベルの統計的シグナルであって読心術ではない。個人を診断することはできない」と述べ、「うそ発見器でも、スクリーニングツールでも、採用に適したものでもない」と付け加えた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "对搞笑图片的反应\n揭示精神病态与施虐性",
+          "body": "基于漫画和表情包评分训练的模型能识别精神病态、施虐性和自恋，但无法识别马基雅维利主义。",
+          "mini_headline": "幽默反应暴露黑暗人格",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "发表在Journal of Individual Differences上的一项研究表明，分析人们觉得视觉笑话有多好笑、多残忍的机器学习模型，能够识别较高水平的精神病态和日常施虐性，对自恋的识别程度较低，但无法识别马基雅维利主义（Machiavellianism）。"
+              },
+              {
+                "t": "p",
+                "x": "圣彼得堡HSE University的Liubov Glinkina及其同事让200名说俄语的人从好笑程度、善意程度和针对对象等方面为71幅表情包、连环画和卡通评分，然后比较了六种分类器。精神病态的检测最为可靠，准确率接近0.82；施虐性最高超过0.70，自恋为0.66，而马基雅维利主义则徘徊在0.50的随机水平附近。"
+              },
+              {
+                "t": "p",
+                "x": "随机森林和梯度提升表现最好，而颜色和文字布局等图像特征并未提高准确率。Glinkina说：“这是群体层面的统计信号，不是读心术：它无法诊断个人。”她补充说，它“不是测谎仪，不是筛查工具，也不适合用于招聘”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las reacciones al humor gráfico\nrevelan psicopatía y sadismo",
+          "body": "Modelos basados en valoraciones de viñetas y memes detectaron psicopatía, sadismo y narcisismo, pero no maquiavelismo.",
+          "mini_headline": "El humor revela rasgos oscuros",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
+                "cap": "[Adobe Stock]"
+              },
+              {
+                "t": "p",
+                "x": "Un estudio publicado en Journal of Individual Differences indica que los modelos de aprendizaje automático que analizan cuán graciosos y crueles encuentran las personas los chistes visuales pueden identificar niveles elevados de psicopatía y sadismo cotidiano y, en menor grado, de narcisismo, aunque no de maquiavelismo (Machiavellianism)."
+              },
+              {
+                "t": "p",
+                "x": "Liubov Glinkina, de la HSE University de San Petersburgo, y sus colegas pidieron a 200 hablantes de ruso que valoraran 71 memes, cómics y viñetas según su gracia, su amabilidad y su blanco, y luego compararon seis clasificadores. La psicopatía se detectó con mayor fiabilidad, con una precisión cercana a 0.82; el sadismo alcanzó su máximo por encima de 0.70, el narcisismo llegó a 0.66 y el maquiavelismo rondó la marca de azar de 0.50."
+              },
+              {
+                "t": "p",
+                "x": "Random forest y gradient boosting obtuvieron el mejor rendimiento, y las características de imagen como el color y la disposición del texto no mejoraron la precisión. “Es una señal estadística a nivel de grupo, no lectura de la mente: no puede diagnosticar a un individuo”, dijo Glinkina, y añadió que “no es un detector de mentiras, ni una herramienta de cribado, ni nada adecuado para la contratación”."
               }
             ]
           }

@@ -5644,6 +5644,142 @@
           "x": "Four AI companies are involved in the trial, which is expected to last around three years."
         }
       ]
+    },
+    "medicine/abridge-nabla-scribe-crossover": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers evaluated ambient AI scribe systems (AAS) with a rapid learning health system (LHS) approach, comparing 2 systems, Abridge and Nabla, among 100 providers over 90 days. The evaluation combined a cluster randomized crossover comparison, analysis of use and EHR-based workflow outcomes, and standardized simulated encounters to assess documentation quality and safety."
+        },
+        {
+          "t": "p",
+          "x": "In standardized simulated encounters, both systems achieved 76% note element accuracy with minimal risk for harm. In the randomized crossover comparison, Abridge demonstrated higher usability scores (78.5 vs 73) and was preferred 3:1 over Nabla, which had higher automated speech recognition error rates."
+        },
+        {
+          "t": "p",
+          "x": "Across 16 479 clinical encounters, AAS was used in 35.7% of visits. Total EHR time decreased by approximately 5 minutes per day; same-day chart closure increased by approximately 5% during the initial crossover period, but this effect was attenuated. Provider experience was positive (Net Promoter Score [NPS] 53)."
+        },
+        {
+          "t": "p",
+          "x": "Both systems demonstrated comparable documentation accuracy and modest efficiency gains while improving clinician satisfaction. Adoption below 40% reflected the trade-off between documentation support and verification burden. The authors conclude that ongoing monitoring of efficiency, documentation quality, and use patterns is essential."
+        }
+      ]
+    },
+    "medicine/commsmed-ai-uncertainty-physicians": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Machine-learning-based clinical decision support is entering routine care, but its value depends on whether clinicians can judge when to follow its advice and when to override it. In a preregistered, randomized vignette experiment, 227 physicians produced 1,802 sepsis risk assessments: they gave an initial estimate, saw advice from a machine-learning system, and revised it."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
+          "cap": "Fig. 1: Study procedure and display conditions."
+        },
+        {
+          "t": "p",
+          "x": "Physicians were randomized to see a risk score alone, or the score together with icon arrays with uncertainty bands or quantile dotplots. Both uncertainty representations increased advice uptake relative to the risk score alone, by 23% and 21%, but uptake of incorrect advice was not reliably reduced."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
+          "cap": "Fig. 2: Advice uptake by CDSS correctness across conditions."
+        },
+        {
+          "t": "p",
+          "x": "Both formats improved the accuracy of revised risk estimates, with the larger effect for quantile dotplots, but only icon arrays increased trust. Physicians described uncertainty as actionable only where they could tell why it was elevated. The authors conclude that the representation format determines whether the benefit appears mainly as accuracy or trust."
+        }
+      ]
+    },
+    "medicine/alaska-stroke-ai-triage": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
+          "cap": "Anchorage, Alaska"
+        },
+        {
+          "t": "p",
+          "x": "In Alaska, it can take several hours to airlift a stroke patient to Anchorage, home to the state's five neurointerventionalists who can extract clots. Starting in 2023, a small network of hospitals agreed to use the same AI software, from RapidAI, to triage stroke patients and get them to the right care, faster."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
+          "cap": "The Providence Alaska Medical Center campus in Anchorage."
+        },
+        {
+          "t": "p",
+          "x": "For one patient this summer, the app flagged a suspected large vessel occlusion seconds after his CT; his team called Providence for a transfer two minutes before the on-call radiologist delivered the official report. Without the AI assist, it would have taken at least an extra hour. The volunteer Alaska Stroke Coalition used family-foundation funding to buy RapidAI for six additional hospitals, at a cost of about $450,000."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
+          "cap": "In the RapidAI app, providers see CT images and the AI’s interpretation — vessel occlusion — to help make decisions."
+        },
+        {
+          "t": "p",
+          "x": "The tool also helps doctors decide when not to transfer. It has false positives, and a doctor still reviews every output. Early data show about a 30% improvement in time to start clot retrieval once patients reach Anchorage, but no outcome data yet. The coalition received $3.2 million from the Rural Health Transformation Program, and Alaska will soon have 21 acute care hospitals and two clinics with RapidAI's stroke system."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
+          "cap": "A CT perfusion image in the RapidAI app shows pink areas of the brain that are dead, and tissue that’s still salvageable in green."
+        }
+      ]
+    },
+    "medicine/a2z-omni-triage-ct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
+          "cap": "For abdominopelvic CT scans, the newly FDA-cleared a2z-Omni-Triage software offers adjunctive triage for findings that may be suspicious for sacral fracture, large aortic aneurysm, soft tissue abscess and moderate or large layering pleural effusion and other conditions. (Image courtesy of Adobe Stock.)"
+        },
+        {
+          "t": "p",
+          "x": "The Food and Drug Administration (FDA) has issued 510(k) clearance for a2z-Omni-Triage software, an adjunctive AI-powered software for abdominopelvic CT."
+        },
+        {
+          "t": "p",
+          "x": "A2z Radiology AI, the developer of a2z-Omni-Triage, said the software flags findings that are suspicious for the following: pneumothorax; moderate or large layering pleural effusion; complex pleural collection; bowel perforation; non-sacral pelvic fracture; sacral or coccygeal fracture; soft tissue abscess; moderate or severe hydronephrosis; large aortic aneurysm (5 cm or larger)."
+        },
+        {
+          "t": "p",
+          "x": "The a2z-Omni-Triage software may be utilized for contrast-enhanced and non-contrast CT, according to A2z Radiology AI."
+        },
+        {
+          "t": "p",
+          "x": "“On a busy shift with a long worklist, even a CT ordered as routine can turn out to need urgent attention,” said Michael Moritz, MD, CIIP, Chief Medical Information Officer of a2z Radiology AI. “a2z-Omni-Triage helps bring those studies with suspected findings forward for review.”"
+        }
+      ]
+    },
+    "medicine/houston-methodist-hdai-readmit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg",
+          "cap": "Senior man laughing with doctor during home visit."
+        },
+        {
+          "t": "p",
+          "x": "Artificial intelligence (AI) helped one Texas hospital lower readmissions and post-discharge deaths, without adding any new staff, according to a case study presented at the HLTH conference in Las Vegas."
+        },
+        {
+          "t": "p",
+          "x": "Using predictive AI to focus follow-up visits on its Medicare surgical patients at highest risk, Houston Methodist Hospital's 30-day post-discharge mortality fell about 35%, and readmissions fell about 18%, Brenda Campbell, MS, BSN, the hospital's senior innovation consultant, said."
+        },
+        {
+          "t": "p",
+          "x": "Observed-to-expected (O/E) ratios fell from 0.48 in 2021-2022 to 0.31 in 2025-Q1 2026 (a partial period) for post-discharge deaths, and from 1.17 to 0.96 for readmissions. Clinician follow-up visits within 14 days rose from 54.6% to 62.2% in the highest mortality-risk group and from 55.8% to 64.5% in the highest readmission-risk group."
+        },
+        {
+          "t": "p",
+          "x": "The effort began in 2021. The Health Data Analytics Institute (HDAI), which had trained predictive AI on the entire Medicare data set, found the cardiovascular service line ranked 7th for in-hospital mortality but 43rd for 30-day post-discharge mortality among more than 100 academic medical centers. Predictions were embedded into the electronic medical record, and clinicians were asked to prioritize follow-up within 2 weeks for the highest-risk patients."
+        },
+        {
+          "t": "p",
+          "x": "The hospital's readmission ranking among 114 academic medical centers rose from 59th in 2022 to 7th in 2024. \"We've done this without any additional resources,\" Campbell said."
+        }
+      ]
     }
   }
 }

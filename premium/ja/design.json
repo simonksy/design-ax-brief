@@ -13683,6 +13683,147 @@
           "x": "「当社の製品には『AIをすべてオフにする』機能が完全に備わっている」とFordeは言う。「それは意図的に設けたボタンだ」"
         }
       ]
+    },
+    "design/canva-mcp-agent-apis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
+        },
+        {
+          "t": "p",
+          "x": "CanvaはModel Context Protocolサーバーを正式公開し、AIエージェントや外部開発者が他のソフトウェア内でCanvaのデザインツールを使える新しいAPIsを投入した。同社によると、Anthropicとの新たな提携により、CanvaはClaude内のデザインレイヤーになる。"
+        },
+        {
+          "t": "p",
+          "x": "CanvaはMCPサーバーをエージェントの動き方に合わせて作り直し、重複するツールをまとめて、小型モデルを使うエージェントでも適切な機能を選べるようにした。エージェントは編集可能なデザインや画像、動画を作り、背景を除去し、平面画像をレイヤー付きファイルに変換し、完成品のサイズ変更や書き出しもできる。"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーはチャットでInstagram投稿を頼むと、ブランドの色とフォントを使った編集可能なCanvaデザインを受け取れる。エージェントはナレーション付きの短い製品動画も作り、編集可能なタイムラインで返す。"
+        },
+        {
+          "t": "p",
+          "x": "開発者は新しいREST APIsで同じ機能を利用でき、コマンドラインツールで一括作業もこなせる。新しいサービスアカウントとAPI課金により、社員がサインインしていなくても自動化ワークフローが動く。Canvaは自社の画像生成モデルCraftもAPIとMCPで開放する。"
+        },
+        {
+          "t": "p",
+          "x": "Canvaによると、10月以降MCP経由で500,000人近くが登録し、利用はひと月で93%増えた。"
+        }
+      ]
+    },
+    "design/nvidia-nemotron-image-svg": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
+        },
+        {
+          "t": "p",
+          "x": "Nemotron-Labs-VisualCreationは、表現力のあるラスター画像と、編集可能なビジュアル成果物を生み出すエージェント型フレームワークである。対象はウェブページ、プレゼンテーション、文書、チャート、科学図版に及ぶ。Pixel as Codeインターフェースは、生成、レンダリング、視覚的な検査を通じて、学習済みの視覚トークンと明示的なプログラムを結びつける。"
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
+          "cap": "ラスターの見た目と編集可能な構造が、生成とレンダリングのインターフェースを共有する。"
+        },
+        {
+          "t": "p",
+          "x": "Nemotron-Labs-Image-30B-A3Bはそのラスター画像生成コンポーネントで、Nemotron 3 Nanoから初期化された自己回帰型の生成器である。総パラメータは30B 、アクティブパラメータは3B である。初回リリースには画像生成器と同梱の視覚トークナイザーが含まれ、VisualCreationハーネスとNemotron-Labs-VisionCodeは法的な確認が済み次第公開される。"
+        },
+        {
+          "t": "p",
+          "x": "Nemotron-Labs-VisualCreationはGenEvalで92.86、WISE Verifiedで91.50を記録した。BizGenEvalでは86.0で、GPT Image 2の83.2、Nano Banana Proの76.7を上回る。"
+        },
+        {
+          "t": "p",
+          "x": "このモデルはNVIDIA Licenseのもと、非商用の研究と評価に限って利用できる。"
+        }
+      ]
+    },
+    "design/higgsfield-magi2-video-sound": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+        },
+        {
+          "t": "p",
+          "x": "MAGI-2はSand AIの新しい動画モデルで、HiggsfieldのウェブアプリとAPIで利用できる。画像・動画・音声のリファレンス、または開始フレーム（終了フレームは任意）をもとに、映像と音を同時に生成する。クリップは1080pで4〜30秒、アスペクト比は六種類だ。"
+        },
+        {
+          "t": "p",
+          "x": "Referencesには最大10枚の画像、5本の動画、5つの音声ファイルを指定でき、Framesには開始フレームと任意の終了フレームを渡す。Soundトグルで音声のオン・オフを切り替える。MAGI-2には720pの選択肢がないため、クレジットを節約するにはクリップを短くすることになる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+        },
+        {
+          "t": "p",
+          "x": "Framesでは、開始画像にすでに写っている場面と意図する動きを記述する。Referencesでは、Image 1、Video 1、Audio 1のように各入力をラベルで指定する。プロンプトはクリップごとに一つか二つの動作と、一つのカメラの動きに絞る。"
+        },
+        {
+          "t": "p",
+          "x": "10秒のクリップはウェブアプリで25クレジット、Plusでは約$1.23、API経由では$0.80かかる。"
+        }
+      ]
+    },
+    "design/claude-skills-over-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+        },
+        {
+          "t": "p",
+          "x": "ClaudeでSkills over MCPが公開ベータとなり、MCPサーバーがツールと共にスキルを配布できるようになった。TasksとElicitationは一般提供が始まり、File Uploadsも近く展開される。"
+        },
+        {
+          "t": "p",
+          "x": "Skills over MCPにより、サーバーはツールと共にスキルを公開でき、Claudeがより長い多段階の作業をこなせるよう支援する。Claudeは必要なときだけスキルを読み込むため、コンテキストの使用量を低く抑えられる。スキルはサーバーと一緒に更新されるので、ユーザーが別途インストールするものはない。ShopifyはClaudeが販売者のオンラインストアを最初から最後までデザインし、更新するのを支援する。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+        },
+        {
+          "t": "p",
+          "x": "Tasksでは、時間のかかる処理やエージェントループ全体をサーバーが実行している間も、Claudeは作業を続けられる。Elicitationでは、サーバーが一時停止してフォームやリンクでユーザーに入力を求め、中断したところから再開できる。File UploadsはPDFs、スプレッドシート、画像を、コンテキストウィンドウを経由せずにサーバーへ送る。"
+        },
+        {
+          "t": "p",
+          "x": "これらの機能はオープンなMCP仕様とその拡張の一部であるため、対応するサーバーはClaudeに限らず、互換性のあるあらゆるクライアントで動作する。MCPのSDKは現在、月7億回以上ダウンロードされている。"
+        }
+      ]
+    },
+    "design/figma-agent-figjam-slides": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/788c8b94cba16df5c795728f974aca117a196962-1694x948.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Figmaエージェントが、FigJamとFigma Slidesでも使えるようになった。両製品でコネクタと添付ファイルに対応し、デザインファイルや文字起こし、リサーチメモを取り込んで、エージェントにFigJamボード上で整理させたり、プレゼンテーションの下書きにさせたりできる。"
+        },
+        {
+          "t": "p",
+          "x": "FigJamでは、エージェントがNotionやGoogle Driveなどのツールから文脈をキャンバスに持ち込む。Figma Design ManagerのMegan Bednarczykは、デザインクリットの前に、過去のクリットのフィードバックや競合事例を集めるのに使っている。エージェントは過去のフィードバック、合意した方向性、次のクリットで扱う問いを要約する。クリット後は、フィードバックの付箋を選んでOrganize → Summarizeを選ぶと、決定事項、未解決の問い、次のステップをまとめたSpecが作成される。"
+        },
+        {
+          "t": "p",
+          "x": "Specsのエンジニアリングリード、Johnny Dallasは、コメントを一つずつ手で読む代わりに、付箋を選択してAsk agentをクリックし、プロンプトを重ねてv1の仕様書を仕上げる。"
+        },
+        {
+          "t": "p",
+          "x": "Figma Slidesでは、エージェントがSpecや添付ファイル、接続された文脈から最初のたたき台を作る。ブランドデザイナーのJarrod Barrettoは、Generate deckをクリックする前に経営陣向けの原稿をアウトラインに分解させ、スプレッドシートのスクリーンショットから棒グラフを作成している。「グラフの見た目は細かく指定しつつ、数学的な正確さはエージェントに任せられる」と彼は言う。"
+        },
+        {
+          "t": "p",
+          "x": "Figmaエージェントは現在、すべての有料プランのFigJamとFigma Slidesで一般提供されており、両製品で一部のコネクタと添付ファイルに対応している。"
+        }
+      ]
     }
   }
 }

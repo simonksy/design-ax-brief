@@ -17542,6 +17542,144 @@
           "x": "Runway로 텍스트 프롬프트·참조 이미지·다른 영상에서 영상을 생성하는 노드도 추가됐다. 가격은 스탠드얼론 영구 라이선스 $2,195, 플러그인 $1,195다."
         }
       ]
+    },
+    "movies/lionsgate-eklavya-ai-series": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE: Lionsgate Play가 첫 AI-led 오리지널 시리즈 Eklavya를 선보인다. 인도 신화에서 출발한 이 시리즈에는 Lionsgate Play CEO Rohit Jain이 최근 공개한 AI 배우 캐릭터 Yug R.Ai가 나온다."
+        },
+        {
+          "t": "p",
+          "x": "작품은 힌두 서사시 Mahābhārata 속 궁수 캐릭터를 바탕으로 “스승에게 거절당했지만 순전한 의지로 활을 익힌 소년의 전설”을 그린다. 연출은 Vibhu Puri(Heeramandi, Gustaakh Ishq)가 맡았다. 첫 공개 무대는 내년 Lionsgate Play 앱 안의 Tiger TV다."
+        },
+        {
+          "t": "p",
+          "x": "제작은 이미 시작됐다. Lionsgate Play와 Google의 장기 제작 협약도 이 작품에서 출발하며, Google의 AI 기술이 쓰인다. 인도의 여러 언어와 해외 여러 언어로 나올 예정이다."
+        },
+        {
+          "t": "p",
+          "x": "Jain은 “기술의 도약은 언제나 이야기꾼에게 새로운 문을 열어 줬고, AI는 그 어떤 기술보다 더 많은 문을 더 빠르게 열고 있다. 하지만 기술만으로 화면 속 마법이 만들어지지는 않는다”고 말했다. 그는 “Eklavya는 우리의 의지를 가장 대담하게 보여 주는 작품으로, 여덟 편짜리 첫 시즌을 여러 시즌의 프랜차이즈로 키우도록 설계했다. Yug R.Ai는 시작일 뿐이다”라고 덧붙였다."
+        }
+      ]
+    },
+    "movies/disney-cto-ai-workflow": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
+        },
+        {
+          "t": "p",
+          "x": "구월 Character.ai에서 합류한 신임 CTO Karandeep Anand는 CEO Josh D'Amaro에게서 Disney 각 사업부의 AI 워크플로와 시스템을 표준화할 폭넓은 권한을 받았다. 사업부마다 자체 파이프라인을 써 온 관행을 흔드는 조치다. 회사 사정에 밝은 한 인사는 “그는 적을 잔뜩 만들었다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "Office of Technology Enablement를 이끌던 Jamie Voris는 회사를 떠났고, Walt Disney Studios CTO Eddie Drake는 조기 은퇴했다. Disney 측 관계자는 갈등설을 부인했다. 인력을 줄여 AI 도입을 밀어붙인다는 주장에는 “우리 전략을 잘못 묘사한 것”이라고 반박했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
+        },
+        {
+          "t": "p",
+          "x": "D'Amaro는 Disney IP로 Adobe Firefly에서 맞춤형 생성형 AI 모델을 학습시키는 계약을 맺었다. 십이월 5일에는 AI-generated 만화 Ozzy Fox가 Disney+에 공개된다. Disney는 2029 회계연도까지 연간 $3 billion 규모의 비용 절감을 노리며, 아낀 돈은 콘텐츠와 기술에 다시 투자한다고 밝혔다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
+          "cap": "Mobile World Congress(MWC) 현장에서 사진 촬영에 응한 Character AI 전 CEO Karandeep Anand."
+        },
+        {
+          "t": "p",
+          "x": "표준화가 어디까지 가능할지는 아직 물음표다. 스튜디오 공정을 잘 아는 한 인사는 Marvel이나 Lucasfilm처럼 블록버스터를 만드는 대형 스튜디오에 맞는 AI 워크플로가 2D 애니메이션 프로젝트나 어린이 교육 프로그램에는 맞지 않을 수 있다고 했다."
+        }
+      ]
+    },
+    "movies/maharaja-denims-genai-feature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Khushwant Singh의 소설 “Maharaja in Denims”가 장편 생성형 AI 영화로 완성을 앞뒀다. 19세기 시크교 통치자 Maharaja Ranjit Singh의 삶을 다시 사는 청년 이야기다. 제작진은 사실상 세 번 만든 영화라고 말한다. 연출은 Balpreet Kaur가 맡았고, 팀은 Baisakhi에 맞춰 2027년 사월까지 개봉하길 바란다."
+        },
+        {
+          "t": "p",
+          "x": "제작은 2024년 Midjourney와 Runway로 출발해 Google Veo로 넘어갔고, 스틸 이미지는 Nano Banana로 뽑았다. 이후 Kling AI와 Seedance 2.0을 거쳐 Higgsfield에서 쓸 수 있는 도구로 마무리했다. 전환점은 Nano Banana였다. 팀은 룩을 확정하기까지 영화 전체 스틸을 세 번이나 다시 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "Singh은 새 기술이 보통 비용을 십분의 일 수준으로 줄여 준다고 말한다. 다만 도구가 좋아지면서 영화의 한 시간 가까운 분량을 세 번 다시 작업해야 했다. 마케팅을 빼고도 비용은 $500,000를 넘었다고 그는 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Singh은 “이 모든 기술적 진화 속에서도 창작 과정은 전적으로 사람이 이끌었다”고 말한다. 음악은 전부 사람이 만들었고, 더빙과 내레이션도 스튜디오에서 배우들과 녹음했다."
+        }
+      ]
+    },
+    "movies/ebs-genai-animation-slot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+          "cap": "EBS AI 애니메이션 공모전 수상작"
+        },
+        {
+          "t": "p",
+          "x": "생성형 인공지능(AI) 기술을 접목한 창작 애니메이션 5편이 안방극장을 찾는다."
+        },
+        {
+          "t": "p",
+          "x": "EBS는 '2026년 EBS 생성형 AI 애니메이션 시리즈 공동제작 프로젝트'를 통해 선정한 작품 5편을 다음 달 1일부터 EBS 1TV에서 순차 방영한다."
+        },
+        {
+          "t": "p",
+          "x": "총 429편의 출품작 가운데 선발된 이번 선정작들은 생성형 AI 기술에 스톱모션(물체의 움직임을 고정해 촬영하고 연속되는 다음 동작을 같은 방법으로 찍어 움직이는 영상을 만드는 기법), 3D 등 다양한 연출 기법을 결합해 제작됐다."
+        },
+        {
+          "t": "p",
+          "x": "EBS는 매주 화~목요일 오후 5시 20분부터 5시 50분까지를 'AI 애니메이션 특별 편성 시간대'로 정해 해당 작품들을 배치한다."
+        },
+        {
+          "t": "p",
+          "x": "다음 달 1일에는 뮤지컬 동화 '코코니니 동화탐험대'와 외로운 소년이 AI 디바이스를 통해 감정을 배워가는 성장물 '밤이 들려주는 이야기'가 처음 방송된다."
+        },
+        {
+          "t": "p",
+          "x": "이어 2일에는 코믹 판타지 '유포리아 퀘스트'와 고양이 책방 주인의 일상을 그린 '고양이서점 모노북스'가 첫 방송 된다. 또 다른 선정작 '노란 양말 포포'는 내년 3월 방영될 예정이다."
+        }
+      ]
+    },
+    "movies/botvfx-young-washington": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "BOT VFX는 전쟁 드라마 Young Washington 파이프라인에서 Maya와 Nuke의 CG 작업에 생성형 AI를 섞었다. 인도에 있는 이 스튜디오는 17주 동안 숏 300개를 납품했는데, 대규모 전투 장면 보강과 역사적 배경 작업도 여기에 들어갔다."
+        },
+        {
+          "t": "p",
+          "x": "전투 시퀀스에서 BOT VFX는 전통 CG와 AI로 만든(AI-generated) 요소를 함께 써서 군중을 늘리고 총구 섬광, 폭발 같은 효과를 더했다. 마을 배경이나 저택 파티에 도착하는 손님들 같은 숏은 거의 전부 AI로 생성한 뒤 디지털 매트 페인팅과 CG 요소로 보강했다."
+        },
+        {
+          "t": "p",
+          "x": "생성형 AI가 만능은 아니었다. 원본 소재는 시간적 일관성이 떨어질 때가 많았고 상당수는 4K 해상도로 업스케일해야 했다. 비트 심도가 낮은 AI 생성 소재도 있어 합성 단계에서 손댈 여지가 줄었다."
+        },
+        {
+          "t": "p",
+          "x": "VFX 슈퍼바이저 Caine Dickinson에 따르면 스튜디오 내부 AI 애플리케이션은 ComfyUI를 중심에 두고 주로 오픈 웨이트 모델로 꾸렸다. 이미지 인페인팅과 편집, 부분 보정은 FLUX.2 Klein이 맡았고 영상 생성에는 Wan 2.1을 시험했다. Kling, Kling Omni, Veo, Hailuo, PixVerse, Seedance 1.5 같은 클라우드 모델도 테스트했으며 업스케일에는 Topaz와 Magnific을 썼다."
+        },
+        {
+          "t": "p",
+          "x": "“우리가 얻은 핵심 교훈 중 하나는 어느 한 AI 모델이 다른 모델보다 반드시 낫지는 않다는 점이었다”고 Dickinson은 말한다. “AI는 이미지를 생성하고 다듬는 새로운 방법을 제공했고, 전통적인 [VFX 기법]은 그 요소들을 프로덕션 수준으로 끌어올리는 데 필요한 통제력을 주었다.”"
+        }
+      ]
     }
   }
 }

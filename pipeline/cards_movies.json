@@ -1,191 +1,215 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "movies",
   "cards": [
     {
-      "id": "botvfx-young-washington",
+      "id": "google-mychannel-patent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "BOT VFX, 생성AI를\n전쟁극 공정에 섞다",
-      "body": "BOT VFX는 AI와 Maya·Nuke를 섞어 17주에 300개 숏을 냈다.",
-      "mini_headline": "BOT VFX의 하이브리드 AI 파이프라인",
+      "headline": "Google 특허 출원\n끝없는 AI-made 영상",
+      "body": "Google My Channel 특허는 시청자 데이터로 AI 영상 피드를 짠다.",
+      "mini_headline": "Google AI 영상 피드 특허",
       "tool": "Movies",
-      "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/11/discover-bot-vfxs-hybrid-ai-vfx-pipeline-for-young-washington/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "BOT VFX는 전쟁 드라마 Young Washington 파이프라인에서 Maya와 Nuke의 CG 작업에 생성형 AI를 섞었다. 인도에 있는 이 스튜디오는 17주 동안 숏 300개를 납품했는데, 대규모 전투 장면 보강과 역사적 배경 작업도 여기에 들어갔다."
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
           },
           {
             "t": "p",
-            "x": "전투 시퀀스에서 BOT VFX는 전통 CG와 AI로 만든(AI-generated) 요소를 함께 써서 군중을 늘리고 총구 섬광, 폭발 같은 효과를 더했다. 마을 배경이나 저택 파티에 도착하는 손님들 같은 숏은 거의 전부 AI로 생성한 뒤 디지털 매트 페인팅과 CG 요소로 보강했다."
+            "x": "Google은 지난해 My Channel이라는 시스템의 특허를 출원했다. 회사가 파악한 사용자 정보로 개인 맞춤형 AI-generated 영상과 광고를 채워 넣은 피드를 만드는 시스템이다. 특허는 거절됐지만, Google이 이의를 제기하거나 수정본을 다시 낼 여지는 남아 있다."
           },
           {
             "t": "p",
-            "x": "생성형 AI가 만능은 아니었다. 원본 소재는 시간적 일관성이 떨어질 때가 많았고 상당수는 4K 해상도로 업스케일해야 했다. 비트 심도가 낮은 AI 생성 소재도 있어 합성 단계에서 손댈 여지가 줄었다."
+            "x": "Patentlyze가 처음 발견한 이 특허는 지난해 오월 출원돼 지난주 공개됐다. 문서를 보면 My Channel은 개인의 인구통계 데이터와 시청 기록으로 프롬프트를 직접 짜고, 이를 LLM에 넣어 그 사람의 관심사에 맞춘 AI 영상을 생성한다. IP 주소, GPS 위치, 사용자 나이 같은 맥락 데이터도 모으며 최신 뉴스를 프롬프트 재료로 쓰기도 한다. 생성은 모두 Google 서버에서 이뤄진다."
           },
           {
             "t": "p",
-            "x": "VFX 슈퍼바이저 Caine Dickinson에 따르면 스튜디오 내부 AI 애플리케이션은 ComfyUI를 중심에 두고 주로 오픈 웨이트 모델로 꾸렸다. 이미지 인페인팅과 편집, 부분 보정은 FLUX.2 Klein이 맡았고 영상 생성에는 Wan 2.1을 시험했다. Kling, Kling Omni, Veo, Hailuo, PixVerse, Seedance 1.5 같은 클라우드 모델도 테스트했으며 업스케일에는 Topaz와 Magnific을 썼다."
+            "x": "My Channel은 여러 장르의 영화를 통째로 찍어낼 수 있고 다른 스트리밍 서비스와도 연결된다고 특허는 설명한다. 가장 불안한 대목은 따로 있다. 사용자의 디지털 아바타를 만들어 쏟아지는 콘텐츠 속 “주인공이나 주연 캐릭터”로 세운다는 언급이다."
+          },
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
           },
           {
             "t": "p",
-            "x": "“우리가 얻은 핵심 교훈 중 하나는 어느 한 AI 모델이 다른 모델보다 반드시 낫지는 않다는 점이었다”고 Dickinson은 말한다. “AI는 이미지를 생성하고 다듬는 새로운 방법을 제공했고, 전통적인 [VFX 기법]은 그 요소들을 프로덕션 수준으로 끌어올리는 데 필요한 통제력을 주었다.”"
+            "x": "The Verge는 이런 발상이 예술을 즐기는 일의 가치와 어긋나고, 결국 시청자가 자기 취향에 맞춰 만들어지지 않은 작품을 멀리하게 만든다고 지적한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "BOT VFX blends gen AI into\nYoung Washington's pipeline",
-          "body": "BOT VFX delivered 300 shots in 17 weeks by mixing FLUX.2 Klein and Wan with Maya and Nuke.",
-          "mini_headline": "BOT VFX's hybrid\nAI pipeline",
+          "headline": "Google files for an endless\nfeed of AI-made videos",
+          "body": "Google's 'My Channel' patent, rejected for now, would turn viewer data into prompts for a personalized AI video feed.",
+          "mini_headline": "Google's AI video feed patent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "BOT VFX’s pipeline for war drama Young Washington combined CG work in Maya and Nuke with generative AI. The India-based studio delivered 300 shots in 17 weeks, including large-scale battle enhancements and historical environments."
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "In the battle sequences, BOT VFX combined traditional CG with AI-generated elements to extend crowds and add effects like muzzle flashes and explosions. Other shots, including town environments and guests arriving at a mansion party, were generated almost entirely with AI, augmented with digital matte painting and CG elements."
+                "x": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but Google might appeal or resubmit an amended version."
               },
               {
                 "t": "p",
-                "x": "Generative AI wasn’t a magic bullet: the raw material was often temporally inconsistent, much of it had to be upscaled to 4K, and the limited bit depth of some AI-generated material reduced flexibility during compositing."
+                "x": "First spotted by Patentlyze, the patent — filed last May and published last week — describes how My Channel would use a person's demographic data and viewing history to create its own prompts that would then be fed into an LLM to help generate AI videos tailored to that person's interests. The system would also capture contextual data like IP addresses, GPS locations and details about the user's age, and could base prompts on current news; all generation would take place on Google's servers."
               },
               {
                 "t": "p",
-                "x": "VFX Supervisor Caine Dickinson says the studio’s internal AI application was built around ComfyUI, primarily with open-weight models: FLUX.2 Klein for image inpainting, editing and targeted refinement, while Wan 2.1 was explored for video generation. Cloud models including Kling, Kling Omni, Veo, Hailuo, PixVerse and Seedance 1.5 were also tested, with Topaz and Magnific for upscaling."
+                "x": "According to the patent, My Channel could churn out entire movies of various genres and connect to other streaming services. Most unsettling are its mentions of creating digital avatars of users and turning them into “the protagonist or lead character” in the content it pumps out."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "“One of our key learnings was that no single AI model was necessarily better than the others,” says Dickinson. “AI provided new ways to generate and refine imagery, while traditional [VFX techniques] gave us the control needed to bring those elements to a production-ready standard.”"
+                "x": "The Verge argues the idea is at odds with what makes engaging with art worthwhile, and would discourage viewers from engaging with anything not crafted to their assumed tastes."
               }
             ]
           }
         },
         "ko": {
-          "headline": "BOT VFX, 생성AI를\n전쟁극 공정에 섞다",
-          "body": "BOT VFX는 AI와 Maya·Nuke를 섞어 17주에 300개 숏을 냈다.",
-          "mini_headline": "BOT VFX의 하이브리드 AI 파이프라인",
+          "headline": "Google 특허 출원\n끝없는 AI-made 영상",
+          "body": "Google My Channel 특허는 시청자 데이터로 AI 영상 피드를 짠다.",
+          "mini_headline": "Google AI 영상 피드 특허",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "BOT VFX는 전쟁 드라마 Young Washington 파이프라인에서 Maya와 Nuke의 CG 작업에 생성형 AI를 섞었다. 인도에 있는 이 스튜디오는 17주 동안 숏 300개를 납품했는데, 대규모 전투 장면 보강과 역사적 배경 작업도 여기에 들어갔다."
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "전투 시퀀스에서 BOT VFX는 전통 CG와 AI로 만든(AI-generated) 요소를 함께 써서 군중을 늘리고 총구 섬광, 폭발 같은 효과를 더했다. 마을 배경이나 저택 파티에 도착하는 손님들 같은 숏은 거의 전부 AI로 생성한 뒤 디지털 매트 페인팅과 CG 요소로 보강했다."
+                "x": "Google은 지난해 My Channel이라는 시스템의 특허를 출원했다. 회사가 파악한 사용자 정보로 개인 맞춤형 AI-generated 영상과 광고를 채워 넣은 피드를 만드는 시스템이다. 특허는 거절됐지만, Google이 이의를 제기하거나 수정본을 다시 낼 여지는 남아 있다."
               },
               {
                 "t": "p",
-                "x": "생성형 AI가 만능은 아니었다. 원본 소재는 시간적 일관성이 떨어질 때가 많았고 상당수는 4K 해상도로 업스케일해야 했다. 비트 심도가 낮은 AI 생성 소재도 있어 합성 단계에서 손댈 여지가 줄었다."
+                "x": "Patentlyze가 처음 발견한 이 특허는 지난해 오월 출원돼 지난주 공개됐다. 문서를 보면 My Channel은 개인의 인구통계 데이터와 시청 기록으로 프롬프트를 직접 짜고, 이를 LLM에 넣어 그 사람의 관심사에 맞춘 AI 영상을 생성한다. IP 주소, GPS 위치, 사용자 나이 같은 맥락 데이터도 모으며 최신 뉴스를 프롬프트 재료로 쓰기도 한다. 생성은 모두 Google 서버에서 이뤄진다."
               },
               {
                 "t": "p",
-                "x": "VFX 슈퍼바이저 Caine Dickinson에 따르면 스튜디오 내부 AI 애플리케이션은 ComfyUI를 중심에 두고 주로 오픈 웨이트 모델로 꾸렸다. 이미지 인페인팅과 편집, 부분 보정은 FLUX.2 Klein이 맡았고 영상 생성에는 Wan 2.1을 시험했다. Kling, Kling Omni, Veo, Hailuo, PixVerse, Seedance 1.5 같은 클라우드 모델도 테스트했으며 업스케일에는 Topaz와 Magnific을 썼다."
+                "x": "My Channel은 여러 장르의 영화를 통째로 찍어낼 수 있고 다른 스트리밍 서비스와도 연결된다고 특허는 설명한다. 가장 불안한 대목은 따로 있다. 사용자의 디지털 아바타를 만들어 쏟아지는 콘텐츠 속 “주인공이나 주연 캐릭터”로 세운다는 언급이다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "“우리가 얻은 핵심 교훈 중 하나는 어느 한 AI 모델이 다른 모델보다 반드시 낫지는 않다는 점이었다”고 Dickinson은 말한다. “AI는 이미지를 생성하고 다듬는 새로운 방법을 제공했고, 전통적인 [VFX 기법]은 그 요소들을 프로덕션 수준으로 끌어올리는 데 필요한 통제력을 주었다.”"
+                "x": "The Verge는 이런 발상이 예술을 즐기는 일의 가치와 어긋나고, 결국 시청자가 자기 취향에 맞춰 만들어지지 않은 작품을 멀리하게 만든다고 지적한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "BOT VFX、生成AIを\n戦争劇の工程に融合",
-          "body": "BOT VFXはAIとMaya・Nukeを組み合わせ、17週で300ショットを納品した。",
-          "mini_headline": "BOT VFXのハイブリッドAIパイプライン",
+          "headline": "Googleが特許出願\nAI-made動画を無限に",
+          "body": "Googleの「My Channel」特許は視聴者データからAI動画フィードを作る構想だ。",
+          "mini_headline": "GoogleのAI動画フィード特許",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "BOT VFXは戦争ドラマ『Young Washington』のパイプラインで、MayaとNukeによるCG作業と生成AIを組み合わせた。インドを拠点とする同スタジオは、大規模な戦闘シーンの強化や歴史的な環境を含む300ショットを17週間で納品した。"
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "戦闘シーンでは、BOT VFXは従来のCGとAIで生成した(AI-generated)要素を組み合わせ、群衆を拡張し、マズルフラッシュや爆発などのエフェクトを加えた。町の環境や邸宅のパーティーに到着するゲストなど、ほかのショットはほぼ全面的にAIで生成し、デジタルマットペインティングとCG要素で補強した。"
+                "x": "Googleは昨年、ユーザーについて把握している情報をもとに、個人向けのAI-generated動画や広告で埋め尽くしたフィードを作るMy Channelというシステムの特許を出願した。特許は拒絶されたが、Googleが不服を申し立てるか、修正版を再提出する可能性はある。"
               },
               {
                 "t": "p",
-                "x": "生成AIは万能薬ではなかった。素材は時間的な一貫性を欠くことが多く、その多くを4K 解像度にアップスケールする必要があった。また一部のAI生成素材はビット深度が限られ、コンポジット時の柔軟性が下がった。"
+                "x": "Patentlyzeが最初に見つけたこの特許は、昨年五月に出願され、先週公開された。My Channelは個人の属性データと視聴履歴から独自のプロンプトを作り、それをLLMに入力して本人の関心に合わせたAI動画を生成する仕組みだという。IPアドレスやGPS位置情報、ユーザーの年齢といった文脈データも収集し、最新ニュースをプロンプトの材料にすることもできる。生成はすべてGoogleのサーバー上で行われる。"
               },
               {
                 "t": "p",
-                "x": "VFXスーパーバイザーのCaine Dickinsonによると、スタジオ内製のAIアプリケーションはComfyUIを中心に、主にオープンウェイトモデルで構築された。画像のインペインティング、編集、部分的な調整にはFLUX.2 Kleinを使い、動画生成ではWan 2.1を試した。Kling、Kling Omni、Veo、Hailuo、PixVerse、Seedance 1.5などのクラウドモデルもテストし、アップスケールにはTopazとMagnificを用いた。"
+                "x": "特許によれば、My Channelはさまざまなジャンルの映画を丸ごと量産し、他のストリーミングサービスとも連携できる。最も不穏なのは、ユーザーのデジタルアバターを作り、生み出すコンテンツの「主人公あるいは主役キャラクター」に据えるという記述だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "「重要な学びの一つは、どのAIモデルも他より優れているとは限らないということだった」とDickinsonは言う。「AIは映像を生成し磨き上げる新しい手段をもたらし、従来の[VFX技術]はそれらの要素を本番レベルに仕上げるのに必要なコントロールを与えてくれた」"
+                "x": "The Vergeは、この発想は芸術に触れる価値と相容れず、想定された好みに合わせて作られていないものから視聴者を遠ざけると論じている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "BOT VFX将生成式AI\n融入战争剧制作流程",
-          "body": "BOT VFX结合AI与Maya、Nuke，在17周内交付了300个镜头。",
-          "mini_headline": "BOT VFX的混合AI流程",
+          "headline": "Google申请专利\n无尽推送AI-made视频",
+          "body": "Google的“My Channel”专利拟将观众数据转为提示词，生成个性化AI视频流。",
+          "mini_headline": "Google的AI视频流专利",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "BOT VFX为战争剧《Young Washington》打造的流程，将Maya和Nuke中的CG制作与生成式AI相结合。这家总部位于印度的工作室在17周内交付了300个镜头，包括大规模战斗场面增强和历史场景。"
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "在战斗段落中，BOT VFX将传统CG与AI生成（AI-generated）元素结合，用于扩充人群，并添加枪口火焰和爆炸等效果。其他镜头，包括小镇环境和宾客抵达豪宅派对的场景，几乎完全由AI生成，再辅以数字绘景和CG元素。"
+                "x": "去年，Google为一个名为My Channel的系统申请了专利，该系统旨在根据公司掌握的用户信息，生成充满个性化AI-generated视频和广告的内容流。该专利已被驳回，但Google可能提出申诉或提交修改后的版本。"
               },
               {
                 "t": "p",
-                "x": "生成式AI并非万能：原始素材常常缺乏时间一致性，其中很多需要放大到4K 分辨率，部分AI生成素材的位深有限，也降低了合成阶段的灵活性。"
+                "x": "这项专利由Patentlyze率先发现，于去年五月提交、上周公开。专利描述，My Channel会利用个人的人口统计数据和观看记录生成提示词，再输入LLM，生成符合其兴趣的AI视频。该系统还会采集IP地址、GPS位置及用户年龄等情境数据，并可依据时事新闻生成提示词；所有生成均在Google的服务器上完成。"
               },
               {
                 "t": "p",
-                "x": "VFX总监Caine Dickinson表示，工作室内部的AI应用以ComfyUI为核心构建，主要采用开放权重模型：FLUX.2 Klein用于图像修补、编辑和局部精修，Wan 2.1则用于探索视频生成。团队还测试了Kling、Kling Omni、Veo、Hailuo、PixVerse和Seedance 1.5等云端模型，并使用Topaz和Magnific进行放大。"
+                "x": "根据专利，My Channel可以批量产出各种类型的完整电影，并接入其他流媒体服务。最令人不安的是，专利提到要为用户创建数字分身，并让其成为所产出内容中的“主角或主要角色”。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "“我们的一个重要体会是，没有哪一个AI模型一定比其他模型更好，”Dickinson说，“AI提供了生成和打磨图像的新方法，而传统的[VFX技术]则给了我们把这些元素提升到可投产标准所需的控制力。”"
+                "x": "The Verge认为，这一构想与艺术体验的价值背道而驰，还会让观众疏远任何并非按其假定口味打造的作品。"
               }
             ]
           }
         },
         "es": {
-          "headline": "BOT VFX integra IA generativa\nen el flujo de Young Washington",
-          "body": "BOT VFX entregó 300 planos en 17 semanas combinando FLUX.2 Klein y Wan con Maya y Nuke.",
-          "mini_headline": "El pipeline híbrido de IA de BOT VFX",
+          "headline": "Google busca patentar un feed\ninfinito de videos AI-made",
+          "body": "La patente 'My Channel' de Google, rechazada por ahora, usaría datos del público para un feed de videos AI a medida.",
+          "mini_headline": "La patente de feed AI de Google",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El pipeline de BOT VFX para el drama bélico Young Washington combinó trabajo de CG en Maya y Nuke con IA generativa. El estudio, con sede en India, entregó 300 planos en 17 semanas, incluidas mejoras de batallas a gran escala y entornos históricos."
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "En las secuencias de batalla, BOT VFX combinó CG tradicional con elementos generados por IA (AI-generated) para ampliar multitudes y añadir efectos como fogonazos de disparos y explosiones. Otros planos, como los entornos del pueblo y la llegada de invitados a una fiesta en una mansión, se generaron casi por completo con IA y se complementaron con matte painting digital y elementos de CG."
+                "x": "El año pasado, Google solicitó la patente de un sistema llamado My Channel, diseñado para crear feeds llenos de videos y anuncios AI-generated personalizados a partir de la información que la empresa tiene sobre sus usuarios. La patente fue rechazada, pero Google podría apelar o presentar una versión modificada."
               },
               {
                 "t": "p",
-                "x": "La IA generativa no fue una solución mágica: el material en bruto a menudo carecía de coherencia temporal, gran parte tuvo que reescalarse a 4K y la profundidad de bits limitada de parte del material generado por IA redujo la flexibilidad durante la composición."
+                "x": "Detectada primero por Patentlyze, la patente —presentada en mayo del año pasado y publicada la semana pasada— describe cómo My Channel usaría los datos demográficos y el historial de visualización de una persona para crear sus propios prompts, que luego se introducirían en un LLM para generar videos con AI adaptados a sus intereses. El sistema también recogería datos de contexto como direcciones IP, ubicaciones GPS y detalles sobre la edad del usuario, y podría basar los prompts en noticias de actualidad; toda la generación ocurriría en los servidores de Google."
               },
               {
                 "t": "p",
-                "x": "El supervisor de VFX Caine Dickinson explica que la aplicación interna de IA del estudio se construyó en torno a ComfyUI, principalmente con modelos de pesos abiertos: FLUX.2 Klein para inpainting, edición y refinamiento puntual de imágenes, mientras que Wan 2.1 se exploró para la generación de video. También se probaron modelos en la nube como Kling, Kling Omni, Veo, Hailuo, PixVerse y Seedance 1.5, con Topaz y Magnific para el reescalado."
+                "x": "Según la patente, My Channel podría producir películas enteras de distintos géneros y conectarse con otros servicios de streaming. Lo más inquietante son sus menciones a crear avatares digitales de los usuarios y convertirlos en “el protagonista o personaje principal” del contenido que genera."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "“Una de nuestras lecciones clave fue que ningún modelo de IA era necesariamente mejor que los demás”, dice Dickinson. “La IA aportó nuevas formas de generar y refinar imágenes, mientras que las técnicas tradicionales [de VFX] nos dieron el control necesario para llevar esos elementos a un estándar listo para producción.”"
+                "x": "The Verge sostiene que la idea choca con lo que hace valioso el contacto con el arte y que alejaría a los espectadores de todo lo que no esté hecho a la medida de sus supuestos gustos."
               }
             ]
           }
@@ -193,121 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "BOT VFX, 생성AI를\n전쟁극 공정에 섞다",
-          "body": "BOT VFX는 AI와 Maya·Nuke를 섞어 17주에 300개 숏을 냈다.",
-          "mini_headline": "BOT VFX의 하이브리드 AI 파이프라인",
+          "headline": "Google 특허 출원\n끝없는 AI-made 영상",
+          "body": "Google My Channel 특허는 시청자 데이터로 AI 영상 피드를 만든다.",
+          "mini_headline": "Google AI 영상 피드 특허",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "BOT VFX는 전쟁 드라마 Young Washington의 파이프라인에서 Maya와 Nuke의 CG 작업을 생성형 AI와 결합했다. 인도에 기반을 둔 이 스튜디오는 대규모 전투 장면 보강과 역사적 배경을 포함해 17주 동안 300개 숏을 납품했다."
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "전투 시퀀스에서 BOT VFX는 전통적인 CG와 AI로 만든(AI-generated) 요소를 결합해 군중을 늘리고 총구 섬광과 폭발 같은 효과를 더했다. 마을 배경과 저택 파티에 도착하는 손님들 같은 다른 숏은 거의 전적으로 AI로 생성했고, 디지털 매트 페인팅과 CG 요소로 보강했다."
+                "x": "Google은 지난해 사용자에 관해 회사가 아는 정보를 바탕으로 개인 맞춤형 AI-generated 영상과 광고로 채운 피드를 만드는 My Channel이라는 시스템의 특허를 출원했다. 특허는 거절됐지만 Google이 이의를 제기하거나 수정본을 다시 낼 가능성이 있다."
               },
               {
                 "t": "p",
-                "x": "생성형 AI가 만능 해법은 아니었다. 원본 소재는 시간적 일관성이 떨어지는 경우가 많았고, 상당수는 4K 해상도로 업스케일해야 했으며, 일부 AI 생성 소재는 비트 심도가 제한적이어서 합성 단계의 유연성이 줄었다."
+                "x": "Patentlyze가 처음 발견한 이 특허는 지난해 오월 출원돼 지난주 공개됐다. 특허에 따르면 My Channel은 개인의 인구통계 데이터와 시청 기록으로 자체 프롬프트를 만들고, 이를 LLM에 넣어 그 사람의 관심사에 맞춘 AI 영상을 생성한다. 시스템은 IP 주소, GPS 위치, 사용자 나이 같은 맥락 데이터도 수집하고 최신 뉴스를 프롬프트의 바탕으로 삼을 수 있으며, 모든 생성은 Google 서버에서 이뤄진다."
               },
               {
                 "t": "p",
-                "x": "VFX 슈퍼바이저 Caine Dickinson은 스튜디오 내부 AI 애플리케이션을 ComfyUI 중심으로, 주로 오픈 웨이트 모델로 구축했다고 말한다. 이미지 인페인팅과 편집, 부분 보정에는 FLUX.2 Klein을 썼고, 영상 생성에는 Wan 2.1을 시험했다. Kling, Kling Omni, Veo, Hailuo, PixVerse, Seedance 1.5 같은 클라우드 모델도 테스트했으며, 업스케일에는 Topaz와 Magnific을 활용했다."
+                "x": "특허에 따르면 My Channel은 다양한 장르의 영화를 통째로 찍어낼 수 있고 다른 스트리밍 서비스와도 연결된다. 가장 불안한 대목은 사용자의 디지털 아바타를 만들어, 쏟아내는 콘텐츠 속 “주인공이나 주연 캐릭터”로 삼는다는 언급이다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "“우리가 얻은 핵심 교훈 중 하나는 어느 한 AI 모델이 다른 모델보다 반드시 낫지는 않다는 점이었다”고 Dickinson은 말한다. “AI는 이미지를 생성하고 다듬는 새로운 방법을 제공했고, 전통적인 [VFX 기법]은 그 요소들을 프로덕션 수준으로 끌어올리는 데 필요한 통제력을 주었다.”"
+                "x": "The Verge는 이 아이디어가 예술을 즐기는 일의 가치와 어긋나며, 시청자가 자기 취향에 맞춰 만들어지지 않은 작품을 멀리하게 만들 것이라고 지적한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "BOT VFX、生成AIを\n戦争劇の工程に融合",
-          "body": "BOT VFXはAIとMaya・Nukeを組み合わせ、17週で300ショットを納品した。",
-          "mini_headline": "BOT VFXのハイブリッドAIパイプライン",
+          "headline": "Googleが特許出願\nAI-made動画を無限に",
+          "body": "Googleの「My Channel」特許は視聴者データからAI動画フィードを作る構想だ。",
+          "mini_headline": "GoogleのAI動画フィード特許",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "BOT VFXは戦争ドラマ『Young Washington』のパイプラインで、MayaとNukeによるCG作業と生成AIを組み合わせた。インドを拠点とする同スタジオは、大規模な戦闘シーンの強化や歴史的な環境を含む300ショットを17週間で納品した。"
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "戦闘シーンでは、BOT VFXは従来のCGとAIで生成した(AI-generated)要素を組み合わせ、群衆を拡張し、マズルフラッシュや爆発などのエフェクトを加えた。町の環境や邸宅のパーティーに到着するゲストなど、ほかのショットはほぼ全面的にAIで生成し、デジタルマットペインティングとCG要素で補強した。"
+                "x": "Googleは昨年、ユーザーについて把握している情報をもとに、個人向けのAI-generated動画や広告で埋め尽くしたフィードを作るMy Channelというシステムの特許を出願した。特許は拒絶されたが、Googleが不服を申し立てるか、修正版を再提出する可能性はある。"
               },
               {
                 "t": "p",
-                "x": "生成AIは万能薬ではなかった。素材は時間的な一貫性を欠くことが多く、その多くを4K 解像度にアップスケールする必要があった。また一部のAI生成素材はビット深度が限られ、コンポジット時の柔軟性が下がった。"
+                "x": "Patentlyzeが最初に見つけたこの特許は、昨年五月に出願され、先週公開された。My Channelは個人の属性データと視聴履歴から独自のプロンプトを作り、それをLLMに入力して本人の関心に合わせたAI動画を生成する仕組みだという。IPアドレスやGPS位置情報、ユーザーの年齢といった文脈データも収集し、最新ニュースをプロンプトの材料にすることもできる。生成はすべてGoogleのサーバー上で行われる。"
               },
               {
                 "t": "p",
-                "x": "VFXスーパーバイザーのCaine Dickinsonによると、スタジオ内製のAIアプリケーションはComfyUIを中心に、主にオープンウェイトモデルで構築された。画像のインペインティング、編集、部分的な調整にはFLUX.2 Kleinを使い、動画生成ではWan 2.1を試した。Kling、Kling Omni、Veo、Hailuo、PixVerse、Seedance 1.5などのクラウドモデルもテストし、アップスケールにはTopazとMagnificを用いた。"
+                "x": "特許によれば、My Channelはさまざまなジャンルの映画を丸ごと量産し、他のストリーミングサービスとも連携できる。最も不穏なのは、ユーザーのデジタルアバターを作り、生み出すコンテンツの「主人公あるいは主役キャラクター」に据えるという記述だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "「重要な学びの一つは、どのAIモデルも他より優れているとは限らないということだった」とDickinsonは言う。「AIは映像を生成し磨き上げる新しい手段をもたらし、従来の[VFX技術]はそれらの要素を本番レベルに仕上げるのに必要なコントロールを与えてくれた」"
+                "x": "The Vergeは、この発想は芸術に触れる価値と相容れず、想定された好みに合わせて作られていないものから視聴者を遠ざけると論じている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "BOT VFX将生成式AI\n融入战争剧制作流程",
-          "body": "BOT VFX结合AI与Maya、Nuke，在17周内交付了300个镜头。",
-          "mini_headline": "BOT VFX的混合AI流程",
+          "headline": "Google申请专利\n无尽推送AI-made视频",
+          "body": "Google的“My Channel”专利拟将观众数据转为提示词，生成个性化AI视频流。",
+          "mini_headline": "Google的AI视频流专利",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "BOT VFX为战争剧《Young Washington》打造的流程，将Maya和Nuke中的CG制作与生成式AI相结合。这家总部位于印度的工作室在17周内交付了300个镜头，包括大规模战斗场面增强和历史场景。"
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "在战斗段落中，BOT VFX将传统CG与AI生成（AI-generated）元素结合，用于扩充人群，并添加枪口火焰和爆炸等效果。其他镜头，包括小镇环境和宾客抵达豪宅派对的场景，几乎完全由AI生成，再辅以数字绘景和CG元素。"
+                "x": "去年，Google为一个名为My Channel的系统申请了专利，该系统旨在根据公司掌握的用户信息，生成充满个性化AI-generated视频和广告的内容流。该专利已被驳回，但Google可能提出申诉或提交修改后的版本。"
               },
               {
                 "t": "p",
-                "x": "生成式AI并非万能：原始素材常常缺乏时间一致性，其中很多需要放大到4K 分辨率，部分AI生成素材的位深有限，也降低了合成阶段的灵活性。"
+                "x": "这项专利由Patentlyze率先发现，于去年五月提交、上周公开。专利描述，My Channel会利用个人的人口统计数据和观看记录生成提示词，再输入LLM，生成符合其兴趣的AI视频。该系统还会采集IP地址、GPS位置及用户年龄等情境数据，并可依据时事新闻生成提示词；所有生成均在Google的服务器上完成。"
               },
               {
                 "t": "p",
-                "x": "VFX总监Caine Dickinson表示，工作室内部的AI应用以ComfyUI为核心构建，主要采用开放权重模型：FLUX.2 Klein用于图像修补、编辑和局部精修，Wan 2.1则用于探索视频生成。团队还测试了Kling、Kling Omni、Veo、Hailuo、PixVerse和Seedance 1.5等云端模型，并使用Topaz和Magnific进行放大。"
+                "x": "根据专利，My Channel可以批量产出各种类型的完整电影，并接入其他流媒体服务。最令人不安的是，专利提到要为用户创建数字分身，并让其成为所产出内容中的“主角或主要角色”。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "“我们的一个重要体会是，没有哪一个AI模型一定比其他模型更好，”Dickinson说，“AI提供了生成和打磨图像的新方法，而传统的[VFX技术]则给了我们把这些元素提升到可投产标准所需的控制力。”"
+                "x": "The Verge认为，这一构想与艺术体验的价值背道而驰，还会让观众疏远任何并非按其假定口味打造的作品。"
               }
             ]
           }
         },
         "es": {
-          "headline": "BOT VFX integra IA generativa\nen el flujo de Young Washington",
-          "body": "BOT VFX entregó 300 planos en 17 semanas combinando FLUX.2 Klein y Wan con Maya y Nuke.",
-          "mini_headline": "El pipeline híbrido de IA de BOT VFX",
+          "headline": "Google busca patentar un feed\ninfinito de videos AI-made",
+          "body": "La patente 'My Channel' de Google, rechazada por ahora, usaría datos del público para un feed de videos AI a medida.",
+          "mini_headline": "La patente de feed AI de Google",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El pipeline de BOT VFX para el drama bélico Young Washington combinó trabajo de CG en Maya y Nuke con IA generativa. El estudio, con sede en India, entregó 300 planos en 17 semanas, incluidas mejoras de batallas a gran escala y entornos históricos."
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "En las secuencias de batalla, BOT VFX combinó CG tradicional con elementos generados por IA (AI-generated) para ampliar multitudes y añadir efectos como fogonazos de disparos y explosiones. Otros planos, como los entornos del pueblo y la llegada de invitados a una fiesta en una mansión, se generaron casi por completo con IA y se complementaron con matte painting digital y elementos de CG."
+                "x": "El año pasado, Google solicitó la patente de un sistema llamado My Channel, diseñado para crear feeds llenos de videos y anuncios AI-generated personalizados a partir de la información que la empresa tiene sobre sus usuarios. La patente fue rechazada, pero Google podría apelar o presentar una versión modificada."
               },
               {
                 "t": "p",
-                "x": "La IA generativa no fue una solución mágica: el material en bruto a menudo carecía de coherencia temporal, gran parte tuvo que reescalarse a 4K y la profundidad de bits limitada de parte del material generado por IA redujo la flexibilidad durante la composición."
+                "x": "Detectada primero por Patentlyze, la patente —presentada en mayo del año pasado y publicada la semana pasada— describe cómo My Channel usaría los datos demográficos y el historial de visualización de una persona para crear sus propios prompts, que luego se introducirían en un LLM para generar videos con AI adaptados a sus intereses. El sistema también recogería datos de contexto como direcciones IP, ubicaciones GPS y detalles sobre la edad del usuario, y podría basar los prompts en noticias de actualidad; toda la generación ocurriría en los servidores de Google."
               },
               {
                 "t": "p",
-                "x": "El supervisor de VFX Caine Dickinson explica que la aplicación interna de IA del estudio se construyó en torno a ComfyUI, principalmente con modelos de pesos abiertos: FLUX.2 Klein para inpainting, edición y refinamiento puntual de imágenes, mientras que Wan 2.1 se exploró para la generación de video. También se probaron modelos en la nube como Kling, Kling Omni, Veo, Hailuo, PixVerse y Seedance 1.5, con Topaz y Magnific para el reescalado."
+                "x": "Según la patente, My Channel podría producir películas enteras de distintos géneros y conectarse con otros servicios de streaming. Lo más inquietante son sus menciones a crear avatares digitales de los usuarios y convertirlos en “el protagonista o personaje principal” del contenido que genera."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "“Una de nuestras lecciones clave fue que ningún modelo de IA era necesariamente mejor que los demás”, dice Dickinson. “La IA aportó nuevas formas de generar y refinar imágenes, mientras que las técnicas tradicionales [de VFX] nos dieron el control necesario para llevar esos elementos a un estándar listo para producción.”"
+                "x": "The Verge sostiene que la idea choca con lo que hace valioso el contacto con el arte y que alejaría a los espectadores de todo lo que no esté hecho a la medida de sus supuestos gustos."
               }
             ]
           }
@@ -315,237 +355,189 @@
       }
     },
     {
-      "id": "screenweaver-production-platform",
+      "id": "lionsgate-eklavya-ai-series",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "대본으로 만드는\nAI-generated 씬",
-      "body": "Screenweaver는 대본을 스토리보드로 옮겨 Seedance로 영상화한다.",
-      "mini_headline": "Screenweaver, 대본을 AI 장면으로",
+      "headline": "Lionsgate Play\n첫 AI-led 시리즈",
+      "body": "Mahabharata 궁수 이야기 Eklavya의 주연은 Yug R.Ai가 맡는다.",
+      "mini_headline": "Lionsgate Play의 AI-led 시리즈",
       "tool": "Movies",
-      "source": "Broadcast",
-      "url": "https://www.broadcastnow.co.uk/tech-innovation/screenweaver-adds-ai-powered-production-platform-to-script-editor/5222724.article",
+      "source": "Deadline",
+      "url": "https://deadline.com/2026/11/lionsgate-play-eklavya-ai-series-tiger-tv-1237232555/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/2/9/1492929_screenweaverai1_265623.jpg"
+            "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
           },
           {
             "t": "p",
-            "x": "Screenweaver가 AI 기반(AI-powered) 제작 플랫폼을 내놨다."
+            "x": "EXCLUSIVE: Lionsgate Play가 첫 AI-led 오리지널 시리즈 Eklavya를 선보인다. 인도 신화에서 출발한 이 시리즈에는 Lionsgate Play CEO Rohit Jain이 최근 공개한 AI 배우 캐릭터 Yug R.Ai가 나온다."
           },
           {
             "t": "p",
-            "x": "스크립트 에디터에 제작 도구를 붙인 형태로, 지금은 베타 단계다. 스크립트 에디터는 계속 무료다. 제작 플랫폼은 정해진 양의 토큰을 주는 구독제이며 토큰은 따로 충전할 수 있다."
+            "x": "작품은 힌두 서사시 Mahābhārata 속 궁수 캐릭터를 바탕으로 “스승에게 거절당했지만 순전한 의지로 활을 익힌 소년의 전설”을 그린다. 연출은 Vibhu Puri(Heeramandi, Gustaakh Ishq)가 맡았다. 첫 공개 무대는 내년 Lionsgate Play 앱 안의 Tiger TV다."
           },
           {
             "t": "p",
-            "x": "사용자가 대본을 불러오면 Screenweaver 플랫폼이 스토리보드를 만든다. 각 숏은 사람이 완전히 제어하며 프레임, 앵글, 움직임, 길이 등을 고칠 수 있다. 이 스토리보드로 AI 생성(AI-generated) 장면을 만들 수 있고, 프롬프트 작성도 도와준다."
-          },
-          {
-            "t": "img",
-            "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/3/0/1492930_screenweaverai_488164.jpg"
+            "x": "제작은 이미 시작됐다. Lionsgate Play와 Google의 장기 제작 협약도 이 작품에서 출발하며, Google의 AI 기술이 쓰인다. 인도의 여러 언어와 해외 여러 언어로 나올 예정이다."
           },
           {
             "t": "p",
-            "x": "완성한 영상은 DaVinci Resolve나 Premiere Pro로 내보내 편집하면 된다. 전면 AI 워크플로에도, 하이브리드 방식에도 맞는 플랫폼이다."
-          },
-          {
-            "t": "p",
-            "x": "Screenweaver는 AI 생성 오디오 기능을 더할 계획이다. 저작권 문제에 대비해 사용자가 만든 부분과 AI가 만든 부분을 추적하는 기능도 넣을 예정이다. 지금은 IP 보호 장치를 일부 내장한 Seedance AI 모델을 쓴다."
+            "x": "Jain은 “기술의 도약은 언제나 이야기꾼에게 새로운 문을 열어 줬고, AI는 그 어떤 기술보다 더 많은 문을 더 빠르게 열고 있다. 하지만 기술만으로 화면 속 마법이 만들어지지는 않는다”고 말했다. 그는 “Eklavya는 우리의 의지를 가장 대담하게 보여 주는 작품으로, 여덟 편짜리 첫 시즌을 여러 시즌의 프랜차이즈로 키우도록 설계했다. Yug R.Ai는 시작일 뿐이다”라고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Screenweaver turns scripts\ninto AI-generated scenes",
-          "body": "Screenweaver's beta builds an editable storyboard from a script and generates its scenes with Seedance.",
-          "mini_headline": "Screenweaver: script\nto AI scenes",
+          "headline": "Lionsgate Play sets Eklavya\nas its first AI-led series",
+          "body": "Lionsgate Play's first AI-led original, 'Eklavya', is based on the Mahabharata archer and stars AI actor Yug R.Ai.",
+          "mini_headline": "Lionsgate Play's AI-led series",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/2/9/1492929_screenweaverai1_265623.jpg"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
               },
               {
                 "t": "p",
-                "x": "Screenweaver has launched an AI-powered production platform."
+                "x": "EXCLUSIVE: Lionsgate Play is setting its first AI-led original series, Eklavya. The series, based around Indian mythology, will feature Yug R.Ai, the AI actor character that Lionsgate Play CEO Rohit Jain recently unveiled."
               },
               {
                 "t": "p",
-                "x": "The company has added the production tools to its script editor, and they are currently in beta. The script editor will continue to be free, while the production platform involves a subscription that gives a set number of tokens that can be topped up."
+                "x": "It is based around an archer character from the Hindu epic Mahābhārata, following “the myth of the legend of a boy turned away by his guru, who went on to master the bow through sheer will.” Vibhu Puri (Heeramandi, Gustaakh Ishq) will direct the show, which will premiere next year on Tiger TV within the Lionsgate Play app."
               },
               {
                 "t": "p",
-                "x": "Users can ingest their script, and the Screenweaver platform can then generate a storyboard with full human control over each shot. This includes editing the frame, angle, movement, duration and more. It can also then create AI-generated scenes from this storyboard, assisting the user by helping with prompt writing."
-              },
-              {
-                "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/3/0/1492930_screenweaverai_488164.jpg"
+                "x": "Production is underway, marking the start of a long-term production pact between Lionsgate Play and Google, whose AI technology is being used. It will be offered in multiple Indian and international languages."
               },
               {
                 "t": "p",
-                "x": "The resulting videos can be exported to DaVinci Resolve or Premiere Pro for editing. The platform can be used for full AI workflows or in a hybrid setup."
-              },
-              {
-                "t": "p",
-                "x": "There are plans to add AI-generated audio to Screenweaver, as well as tracking of what is created by a user and what is AI, to help with copyrighting. It currently uses the Seedance AI model, which has some IP protections built in."
+                "x": "“Every leap in technology has opened new doors for storytellers, and AI is opening more of them, faster, than anything before it, but technology alone doesn't create magic on screen,” said Jain. “Eklavya is our boldest statement of intent, an eight-episode first season built to grow into a multi-season franchise, and Yug R.Ai is just the beginning.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "대본으로 만드는\nAI-generated 씬",
-          "body": "Screenweaver는 대본을 스토리보드로 옮겨 Seedance로 영상화한다.",
-          "mini_headline": "Screenweaver, 대본을 AI 장면으로",
+          "headline": "Lionsgate Play\n첫 AI-led 시리즈",
+          "body": "Mahabharata 궁수 이야기 Eklavya의 주연은 Yug R.Ai가 맡는다.",
+          "mini_headline": "Lionsgate Play의 AI-led 시리즈",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/2/9/1492929_screenweaverai1_265623.jpg"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
               },
               {
                 "t": "p",
-                "x": "Screenweaver가 AI 기반(AI-powered) 제작 플랫폼을 내놨다."
+                "x": "EXCLUSIVE: Lionsgate Play가 첫 AI-led 오리지널 시리즈 Eklavya를 선보인다. 인도 신화에서 출발한 이 시리즈에는 Lionsgate Play CEO Rohit Jain이 최근 공개한 AI 배우 캐릭터 Yug R.Ai가 나온다."
               },
               {
                 "t": "p",
-                "x": "스크립트 에디터에 제작 도구를 붙인 형태로, 지금은 베타 단계다. 스크립트 에디터는 계속 무료다. 제작 플랫폼은 정해진 양의 토큰을 주는 구독제이며 토큰은 따로 충전할 수 있다."
+                "x": "작품은 힌두 서사시 Mahābhārata 속 궁수 캐릭터를 바탕으로 “스승에게 거절당했지만 순전한 의지로 활을 익힌 소년의 전설”을 그린다. 연출은 Vibhu Puri(Heeramandi, Gustaakh Ishq)가 맡았다. 첫 공개 무대는 내년 Lionsgate Play 앱 안의 Tiger TV다."
               },
               {
                 "t": "p",
-                "x": "사용자가 대본을 불러오면 Screenweaver 플랫폼이 스토리보드를 만든다. 각 숏은 사람이 완전히 제어하며 프레임, 앵글, 움직임, 길이 등을 고칠 수 있다. 이 스토리보드로 AI 생성(AI-generated) 장면을 만들 수 있고, 프롬프트 작성도 도와준다."
-              },
-              {
-                "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/3/0/1492930_screenweaverai_488164.jpg"
+                "x": "제작은 이미 시작됐다. Lionsgate Play와 Google의 장기 제작 협약도 이 작품에서 출발하며, Google의 AI 기술이 쓰인다. 인도의 여러 언어와 해외 여러 언어로 나올 예정이다."
               },
               {
                 "t": "p",
-                "x": "완성한 영상은 DaVinci Resolve나 Premiere Pro로 내보내 편집하면 된다. 전면 AI 워크플로에도, 하이브리드 방식에도 맞는 플랫폼이다."
-              },
-              {
-                "t": "p",
-                "x": "Screenweaver는 AI 생성 오디오 기능을 더할 계획이다. 저작권 문제에 대비해 사용자가 만든 부분과 AI가 만든 부분을 추적하는 기능도 넣을 예정이다. 지금은 IP 보호 장치를 일부 내장한 Seedance AI 모델을 쓴다."
+                "x": "Jain은 “기술의 도약은 언제나 이야기꾼에게 새로운 문을 열어 줬고, AI는 그 어떤 기술보다 더 많은 문을 더 빠르게 열고 있다. 하지만 기술만으로 화면 속 마법이 만들어지지는 않는다”고 말했다. 그는 “Eklavya는 우리의 의지를 가장 대담하게 보여 주는 작품으로, 여덟 편짜리 첫 시즌을 여러 시즌의 프랜차이즈로 키우도록 설계했다. Yug R.Ai는 시작일 뿐이다”라고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "台本から生む\nAI-generated場面",
-          "body": "Screenweaverは台本から絵コンテを作り、Seedanceで場面を生成する。",
-          "mini_headline": "Screenweaver:台本からAI場面へ",
+          "headline": "Lionsgate Play\n初のAI-ledシリーズ",
+          "body": "Mahabharataの弓使いを描くEklavyaは、AI俳優Yug R.Aiが主演だ。",
+          "mini_headline": "Lionsgate PlayのAI-ledシリーズ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/2/9/1492929_screenweaverai1_265623.jpg"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
               },
               {
                 "t": "p",
-                "x": "ScreenweaverがAI搭載(AI-powered)の制作プラットフォームを公開した。"
+                "x": "EXCLUSIVE：Lionsgate Playが初のAI-ledオリジナルシリーズEklavyaを手がける。インド神話を題材にした本作には、Lionsgate PlayのCEO Rohit Jainが最近発表したAI俳優キャラクターYug R.Aiが登場する。"
               },
               {
                 "t": "p",
-                "x": "同社はスクリプトエディターに制作ツールを追加し、現在はベータ版として提供している。スクリプトエディターは引き続き無料で、制作プラットフォームは一定量のトークンが付与されるサブスクリプション制となり、トークンは追加購入できる。"
+                "x": "本作はヒンドゥー教の叙事詩Mahābhārataに登場する弓の名手を軸に、「師に拒まれながらも、ひたすらな意志で弓を極めた少年の伝説」を描く。監督はVibhu Puri（Heeramandi、Gustaakh Ishq）が務め、来年Lionsgate Playアプリ内のTiger TVで配信が始まる。"
               },
               {
                 "t": "p",
-                "x": "ユーザーが脚本を取り込むと、Screenweaverのプラットフォームがストーリーボードを生成し、各ショットを人間が完全にコントロールできる。フレーム、アングル、動き、尺などを編集できる。さらにこのストーリーボードからAI生成(AI-generated)の場面を作ることもでき、プロンプト作成も支援する。"
-              },
-              {
-                "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/3/0/1492930_screenweaverai_488164.jpg"
+                "x": "制作はすでに進んでおり、Lionsgate PlayとGoogleによる長期の制作提携の第一弾となる。GoogleのAI技術が使われている。インド国内外の複数の言語で提供される予定だ。"
               },
               {
                 "t": "p",
-                "x": "生成された動画はDaVinci ResolveやPremiere Proに書き出して編集できる。フルAIのワークフローにも、ハイブリッド構成にも使える。"
-              },
-              {
-                "t": "p",
-                "x": "ScreenweaverにはAI生成オーディオを追加する計画があり、著作権対応のため、ユーザーが作ったものとAIが作ったものを追跡する機能も加える予定だ。現在は、一定のIP保護機能を備えたSeedanceのAIモデルを使っている。"
+                "x": "Jainは「技術の飛躍は常に語り手に新たな扉を開いてきた。AIはこれまでのどの技術よりも多くの扉を、より速く開いている。だが、技術だけでスクリーンに魔法は生まれない」と語った。さらに「Eklavyaは私たちの意志を最も大胆に示すものだ。全八話の第一シーズンは、複数シーズンのフランチャイズへ育つよう作られている。Yug R.Aiは始まりにすぎない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "把剧本变成\nAI-generated场景",
-          "body": "Screenweaver测试版可由剧本生成可编辑分镜，并用Seedance生成场景。",
-          "mini_headline": "Screenweaver：从剧本到AI场景",
+          "headline": "Lionsgate Play\n首部AI-led剧集",
+          "body": "Eklavya取材自Mahabharata中的弓箭手，由AI演员Yug R.Ai主演。",
+          "mini_headline": "Lionsgate Play的AI-led剧集",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/2/9/1492929_screenweaverai1_265623.jpg"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
               },
               {
                 "t": "p",
-                "x": "Screenweaver推出了一个AI驱动（AI-powered）的制作平台。"
+                "x": "EXCLUSIVE：Lionsgate Play正推出旗下首部AI-led原创剧集Eklavya。该剧以印度神话为背景，将由Lionsgate Play CEO Rohit Jain近期发布的AI演员角色Yug R.Ai出演。"
               },
               {
                 "t": "p",
-                "x": "该公司在其剧本编辑器中加入了制作工具，目前处于测试阶段。剧本编辑器将继续免费，制作平台则采用订阅制，提供固定数量的token，并可充值补充。"
+                "x": "该剧以印度教史诗Mahābhārata中的一位弓箭手为原型，讲述“一个被师父拒之门外、凭借纯粹意志练成箭术的少年的传说”。Vibhu Puri（Heeramandi、Gustaakh Ishq）将执导该剧，剧集将于明年在Lionsgate Play应用内的Tiger TV首播。"
               },
               {
                 "t": "p",
-                "x": "用户导入剧本后，Screenweaver平台可生成分镜，并让人完全掌控每个镜头，包括编辑画面、角度、运动、时长等。随后还能根据分镜生成AI生成（AI-generated）场景，并协助用户撰写提示词。"
-              },
-              {
-                "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/3/0/1492930_screenweaverai_488164.jpg"
+                "x": "该剧已开机，这标志着Lionsgate Play与Google长期制作合作的开端，剧中使用了Google的AI技术。剧集将提供多种印度语言及国际语言版本。"
               },
               {
                 "t": "p",
-                "x": "生成的视频可导出到DaVinci Resolve或Premiere Pro进行剪辑。该平台既可用于全AI工作流程，也可用于混合模式。"
-              },
-              {
-                "t": "p",
-                "x": "Screenweaver计划加入AI生成音频，并追踪哪些内容由用户创作、哪些由AI生成，以帮助处理版权问题。目前平台使用内置部分IP保护机制的Seedance AI模型。"
+                "x": "Jain表示：“每一次技术飞跃都为讲故事的人打开了新的大门，而AI比以往任何技术都打开得更多、更快，但仅靠技术并不能在银幕上创造魔法。”他还说：“Eklavya是我们最大胆的意向宣言，首季共八集，旨在发展为多季系列，而Yug R.Ai只是开始。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Screenweaver convierte guiones\nen escenas AI-generated",
-          "body": "La beta de Screenweaver crea un storyboard editable a partir de un guion y genera sus escenas con Seedance.",
-          "mini_headline": "Screenweaver: del guion a escenas con IA",
+          "headline": "Lionsgate Play anuncia Eklavya,\nsu primera serie AI-led",
+          "body": "Eklavya, primera serie AI-led de Lionsgate Play, sigue a un arquero del Mahabharata y la protagoniza Yug R.Ai.",
+          "mini_headline": "La serie AI-led de Lionsgate Play",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/2/9/1492929_screenweaverai1_265623.jpg"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
               },
               {
                 "t": "p",
-                "x": "Screenweaver ha lanzado una plataforma de producción impulsada por IA (AI-powered)."
+                "x": "EXCLUSIVE: Lionsgate Play prepara su primera serie original AI-led, Eklavya. La serie, basada en la mitología india, contará con Yug R.Ai, el personaje de actor AI que el CEO de Lionsgate Play, Rohit Jain, presentó recientemente."
               },
               {
                 "t": "p",
-                "x": "La empresa ha añadido las herramientas de producción a su editor de guiones, y actualmente están en beta. El editor de guiones seguirá siendo gratuito, mientras que la plataforma de producción funciona con una suscripción que otorga un número fijo de tokens que se pueden recargar."
+                "x": "Se basa en un personaje arquero de la epopeya hindú Mahābhārata y sigue “el mito de la leyenda de un niño rechazado por su gurú, que llegó a dominar el arco por pura voluntad”. Vibhu Puri (Heeramandi, Gustaakh Ishq) dirigirá la serie, que se estrenará el próximo año en Tiger TV, dentro de la app de Lionsgate Play."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden cargar su guion y la plataforma Screenweaver genera un storyboard con pleno control humano sobre cada plano. Esto incluye editar el encuadre, el ángulo, el movimiento, la duración y más. Después puede crear escenas generadas por IA (AI-generated) a partir de ese storyboard y ayuda al usuario a redactar los prompts."
-              },
-              {
-                "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/3/0/1492930_screenweaverai_488164.jpg"
+                "x": "La producción ya está en marcha y marca el inicio de un acuerdo de producción a largo plazo entre Lionsgate Play y Google, cuya tecnología de AI se está utilizando. Se ofrecerá en varios idiomas indios e internacionales."
               },
               {
                 "t": "p",
-                "x": "Los videos resultantes se pueden exportar a DaVinci Resolve o Premiere Pro para su edición. La plataforma puede usarse para flujos de trabajo totalmente con IA o en un esquema híbrido."
-              },
-              {
-                "t": "p",
-                "x": "Está previsto añadir a Screenweaver audio generado por IA, así como un registro de qué crea el usuario y qué crea la IA, para facilitar la gestión de derechos de autor. Actualmente usa el modelo de IA Seedance, que incorpora algunas protecciones de propiedad intelectual (IP)."
+                "x": "“Cada salto tecnológico ha abierto nuevas puertas a los narradores, y la AI está abriendo más, y más rápido, que nada antes, pero la tecnología por sí sola no crea magia en pantalla”, dijo Jain. “Eklavya es nuestra declaración de intenciones más audaz, una primera temporada de ocho episodios pensada para crecer hasta convertirse en una franquicia de varias temporadas, y Yug R.Ai es solo el comienzo”."
               }
             ]
           }
@@ -553,153 +545,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "대본으로 만드는\nAI-generated 씬",
-          "body": "Screenweaver는 대본을 스토리보드로 옮겨 Seedance로 영상화한다.",
-          "mini_headline": "Screenweaver: 대본에서 AI 장면으로",
+          "headline": "Lionsgate Play\n첫 AI-led 시리즈",
+          "body": "Eklavya는 Mahabharata 궁수 이야기로, Yug R.Ai가 주연한다.",
+          "mini_headline": "Lionsgate Play의 AI-led 시리즈",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/2/9/1492929_screenweaverai1_265623.jpg"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
               },
               {
                 "t": "p",
-                "x": "Screenweaver가 AI 기반(AI-powered) 제작 플랫폼을 출시했다."
+                "x": "EXCLUSIVE: Lionsgate Play가 첫 AI-led 오리지널 시리즈 Eklavya를 선보인다. 인도 신화를 바탕으로 한 이 시리즈에는 Lionsgate Play CEO Rohit Jain이 최근 공개한 AI 배우 캐릭터 Yug R.Ai가 출연한다."
               },
               {
                 "t": "p",
-                "x": "회사는 스크립트 에디터에 제작 도구를 추가했으며, 현재 베타 단계다. 스크립트 에디터는 계속 무료로 제공하고, 제작 플랫폼은 정해진 양의 토큰을 주는 구독제로 운영하며 토큰은 추가로 충전할 수 있다."
+                "x": "작품은 힌두 서사시 Mahābhārata에 나오는 궁수 캐릭터를 바탕으로 “스승에게 거절당했지만 순전한 의지로 활을 익힌 소년의 전설”을 따라간다. Vibhu Puri(Heeramandi, Gustaakh Ishq)가 연출을 맡고, 내년 Lionsgate Play 앱 안의 Tiger TV에서 처음 공개된다."
               },
               {
                 "t": "p",
-                "x": "사용자가 대본을 불러오면 Screenweaver 플랫폼이 스토리보드를 생성하고, 사람이 각 숏을 완전히 제어할 수 있다. 프레임, 앵글, 움직임, 길이 등을 편집할 수 있다. 이어 이 스토리보드를 바탕으로 AI 생성(AI-generated) 장면을 만들 수 있으며, 프롬프트 작성도 돕는다."
-              },
-              {
-                "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/3/0/1492930_screenweaverai_488164.jpg"
+                "x": "제작은 이미 진행 중이며, 이는 Lionsgate Play와 Google의 장기 제작 협약의 출발점이다. 작품에는 Google의 AI 기술이 쓰인다. 인도의 여러 언어와 해외 여러 언어로 제공될 예정이다."
               },
               {
                 "t": "p",
-                "x": "완성된 영상은 DaVinci Resolve나 Premiere Pro로 내보내 편집할 수 있다. 플랫폼은 전면 AI 워크플로에도, 하이브리드 방식에도 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Screenweaver에는 AI 생성 오디오를 추가하고, 저작권 문제에 대비해 사용자가 만든 부분과 AI가 만든 부분을 추적하는 기능도 넣을 계획이다. 현재는 일부 IP 보호 장치가 내장된 Seedance AI 모델을 사용한다."
+                "x": "Jain은 “기술의 도약은 언제나 이야기꾼에게 새로운 문을 열어 줬고, AI는 그 어떤 기술보다 더 많은 문을 더 빠르게 열고 있다. 하지만 기술만으로 화면 속 마법이 만들어지지는 않는다”고 말했다. 이어 “Eklavya는 우리의 의지를 가장 대담하게 보여 주는 작품으로, 여덟 편짜리 첫 시즌을 여러 시즌의 프랜차이즈로 키우도록 설계했다. Yug R.Ai는 시작일 뿐이다”라고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "台本から生む\nAI-generated場面",
-          "body": "Screenweaverは台本から絵コンテを作り、Seedanceで場面を生成する。",
-          "mini_headline": "Screenweaver:台本からAI場面へ",
+          "headline": "Lionsgate Play\n初のAI-ledシリーズ",
+          "body": "Mahabharataの弓使いを描くEklavyaは、AI俳優Yug R.Aiが主演だ。",
+          "mini_headline": "Lionsgate PlayのAI-ledシリーズ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/2/9/1492929_screenweaverai1_265623.jpg"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
               },
               {
                 "t": "p",
-                "x": "ScreenweaverがAI搭載(AI-powered)の制作プラットフォームを公開した。"
+                "x": "EXCLUSIVE：Lionsgate Playが初のAI-ledオリジナルシリーズEklavyaを手がける。インド神話を題材にした本作には、Lionsgate PlayのCEO Rohit Jainが最近発表したAI俳優キャラクターYug R.Aiが登場する。"
               },
               {
                 "t": "p",
-                "x": "同社はスクリプトエディターに制作ツールを追加し、現在はベータ版として提供している。スクリプトエディターは引き続き無料で、制作プラットフォームは一定量のトークンが付与されるサブスクリプション制となり、トークンは追加購入できる。"
+                "x": "本作はヒンドゥー教の叙事詩Mahābhārataに登場する弓の名手を軸に、「師に拒まれながらも、ひたすらな意志で弓を極めた少年の伝説」を描く。監督はVibhu Puri（Heeramandi、Gustaakh Ishq）が務め、来年Lionsgate Playアプリ内のTiger TVで配信が始まる。"
               },
               {
                 "t": "p",
-                "x": "ユーザーが脚本を取り込むと、Screenweaverのプラットフォームがストーリーボードを生成し、各ショットを人間が完全にコントロールできる。フレーム、アングル、動き、尺などを編集できる。さらにこのストーリーボードからAI生成(AI-generated)の場面を作ることもでき、プロンプト作成も支援する。"
-              },
-              {
-                "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/3/0/1492930_screenweaverai_488164.jpg"
+                "x": "制作はすでに進んでおり、Lionsgate PlayとGoogleによる長期の制作提携の第一弾となる。GoogleのAI技術が使われている。インド国内外の複数の言語で提供される予定だ。"
               },
               {
                 "t": "p",
-                "x": "生成された動画はDaVinci ResolveやPremiere Proに書き出して編集できる。フルAIのワークフローにも、ハイブリッド構成にも使える。"
-              },
-              {
-                "t": "p",
-                "x": "ScreenweaverにはAI生成オーディオを追加する計画があり、著作権対応のため、ユーザーが作ったものとAIが作ったものを追跡する機能も加える予定だ。現在は、一定のIP保護機能を備えたSeedanceのAIモデルを使っている。"
+                "x": "Jainは「技術の飛躍は常に語り手に新たな扉を開いてきた。AIはこれまでのどの技術よりも多くの扉を、より速く開いている。だが、技術だけでスクリーンに魔法は生まれない」と語った。さらに「Eklavyaは私たちの意志を最も大胆に示すものだ。全八話の第一シーズンは、複数シーズンのフランチャイズへ育つよう作られている。Yug R.Aiは始まりにすぎない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "把剧本变成\nAI-generated场景",
-          "body": "Screenweaver测试版可由剧本生成可编辑分镜，并用Seedance生成场景。",
-          "mini_headline": "Screenweaver：从剧本到AI场景",
+          "headline": "Lionsgate Play\n首部AI-led剧集",
+          "body": "Eklavya取材自Mahabharata中的弓箭手，由AI演员Yug R.Ai主演。",
+          "mini_headline": "Lionsgate Play的AI-led剧集",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/2/9/1492929_screenweaverai1_265623.jpg"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
               },
               {
                 "t": "p",
-                "x": "Screenweaver推出了一个AI驱动（AI-powered）的制作平台。"
+                "x": "EXCLUSIVE：Lionsgate Play正推出旗下首部AI-led原创剧集Eklavya。该剧以印度神话为背景，将由Lionsgate Play CEO Rohit Jain近期发布的AI演员角色Yug R.Ai出演。"
               },
               {
                 "t": "p",
-                "x": "该公司在其剧本编辑器中加入了制作工具，目前处于测试阶段。剧本编辑器将继续免费，制作平台则采用订阅制，提供固定数量的token，并可充值补充。"
+                "x": "该剧以印度教史诗Mahābhārata中的一位弓箭手为原型，讲述“一个被师父拒之门外、凭借纯粹意志练成箭术的少年的传说”。Vibhu Puri（Heeramandi、Gustaakh Ishq）将执导该剧，剧集将于明年在Lionsgate Play应用内的Tiger TV首播。"
               },
               {
                 "t": "p",
-                "x": "用户导入剧本后，Screenweaver平台可生成分镜，并让人完全掌控每个镜头，包括编辑画面、角度、运动、时长等。随后还能根据分镜生成AI生成（AI-generated）场景，并协助用户撰写提示词。"
-              },
-              {
-                "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/3/0/1492930_screenweaverai_488164.jpg"
+                "x": "该剧已开机，这标志着Lionsgate Play与Google长期制作合作的开端，剧中使用了Google的AI技术。剧集将提供多种印度语言及国际语言版本。"
               },
               {
                 "t": "p",
-                "x": "生成的视频可导出到DaVinci Resolve或Premiere Pro进行剪辑。该平台既可用于全AI工作流程，也可用于混合模式。"
-              },
-              {
-                "t": "p",
-                "x": "Screenweaver计划加入AI生成音频，并追踪哪些内容由用户创作、哪些由AI生成，以帮助处理版权问题。目前平台使用内置部分IP保护机制的Seedance AI模型。"
+                "x": "Jain表示：“每一次技术飞跃都为讲故事的人打开了新的大门，而AI比以往任何技术都打开得更多、更快，但仅靠技术并不能在银幕上创造魔法。”他还说：“Eklavya是我们最大胆的意向宣言，首季共八集，旨在发展为多季系列，而Yug R.Ai只是开始。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Screenweaver convierte guiones\nen escenas AI-generated",
-          "body": "La beta de Screenweaver crea un storyboard editable a partir de un guion y genera sus escenas con Seedance.",
-          "mini_headline": "Screenweaver: del guion a escenas con IA",
+          "headline": "Lionsgate Play anuncia Eklavya,\nsu primera serie AI-led",
+          "body": "Eklavya, primera serie AI-led de Lionsgate Play, sigue a un arquero del Mahabharata y la protagoniza Yug R.Ai.",
+          "mini_headline": "La serie AI-led de Lionsgate Play",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/2/9/1492929_screenweaverai1_265623.jpg"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
               },
               {
                 "t": "p",
-                "x": "Screenweaver ha lanzado una plataforma de producción impulsada por IA (AI-powered)."
+                "x": "EXCLUSIVE: Lionsgate Play prepara su primera serie original AI-led, Eklavya. La serie, basada en la mitología india, contará con Yug R.Ai, el personaje de actor AI que el CEO de Lionsgate Play, Rohit Jain, presentó recientemente."
               },
               {
                 "t": "p",
-                "x": "La empresa ha añadido las herramientas de producción a su editor de guiones, y actualmente están en beta. El editor de guiones seguirá siendo gratuito, mientras que la plataforma de producción funciona con una suscripción que otorga un número fijo de tokens que se pueden recargar."
+                "x": "Se basa en un personaje arquero de la epopeya hindú Mahābhārata y sigue “el mito de la leyenda de un niño rechazado por su gurú, que llegó a dominar el arco por pura voluntad”. Vibhu Puri (Heeramandi, Gustaakh Ishq) dirigirá la serie, que se estrenará el próximo año en Tiger TV, dentro de la app de Lionsgate Play."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden cargar su guion y la plataforma Screenweaver genera un storyboard con pleno control humano sobre cada plano. Esto incluye editar el encuadre, el ángulo, el movimiento, la duración y más. Después puede crear escenas generadas por IA (AI-generated) a partir de ese storyboard y ayuda al usuario a redactar los prompts."
-              },
-              {
-                "t": "img",
-                "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/9/3/0/1492930_screenweaverai_488164.jpg"
+                "x": "La producción ya está en marcha y marca el inicio de un acuerdo de producción a largo plazo entre Lionsgate Play y Google, cuya tecnología de AI se está utilizando. Se ofrecerá en varios idiomas indios e internacionales."
               },
               {
                 "t": "p",
-                "x": "Los videos resultantes se pueden exportar a DaVinci Resolve o Premiere Pro para su edición. La plataforma puede usarse para flujos de trabajo totalmente con IA o en un esquema híbrido."
-              },
-              {
-                "t": "p",
-                "x": "Está previsto añadir a Screenweaver audio generado por IA, así como un registro de qué crea el usuario y qué crea la IA, para facilitar la gestión de derechos de autor. Actualmente usa el modelo de IA Seedance, que incorpora algunas protecciones de propiedad intelectual (IP)."
+                "x": "“Cada salto tecnológico ha abierto nuevas puertas a los narradores, y la AI está abriendo más, y más rápido, que nada antes, pero la tecnología por sí sola no crea magia en pantalla”, dijo Jain. “Eklavya es nuestra declaración de intenciones más audaz, una primera temporada de ocho episodios pensada para crecer hasta convertirse en una franquicia de varias temporadas, y Yug R.Ai es solo el comienzo”."
               }
             ]
           }
@@ -707,15 +667,15 @@
       }
     },
     {
-      "id": "safe-zone-kling-short",
+      "id": "disney-cto-ai-workflow",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "오스카 자격 얻은 단편\n손그림에 Kling 더했다",
-      "body": "감독은 AI 도구가 인간 감정, 특히 고통받는 아이에 가장 약했다고 말한다.",
-      "mini_headline": "Safe Zone, 손그림과 Kling의 결합",
+      "headline": "Disney 단일 AI\n구상에 내부 반발",
+      "body": "Disney CTO의 AI 통일안, Marvel엔 맞아도 2D엔 안 맞을 수 있다.",
+      "mini_headline": "Disney의 단일 워크플로 AI 추진",
       "tool": "Movies",
-      "source": "Animation World Network",
-      "url": "https://www.awn.com/animationworld/ahmad-alameldeen-talks-safe-zone-ai-and-starving-victims-war",
+      "source": "TheWrap",
+      "url": "https://www.thewrap.com/industry-news/business/disney-ceo-josh-dmaro-ai-strategy-cto-karandeep-anand-exclusive/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -723,227 +683,227 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.awn.com/sites/default/files/image/attached/1081906-1-1280.jpg",
-            "cap": "'Safe Zone.' 이미지 제공: Ahmad Alameldeen."
+            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
           },
           {
             "t": "p",
-            "x": "인도주의 구호 현장에서 오래 일한 Ahmad Alameldeen의 첫 애니메이션 영화 Safe Zone은 포위된 도시 아래 하수관에 숨은 굶주린 여덟 살 소녀와 어머니의 이야기다. 소녀는 저격수가 지켜보는 줄도 모르고 단 하나뿐인 구호 꾸러미를 향해 달린다. 이 작품은 제99회 아카데미 시상식 단편 애니메이션 부문 자격을 얻었다."
-          },
-          {
-            "t": "video",
-            "yt": "LvqR4xty-uE"
+            "x": "구월 Character.ai에서 합류한 신임 CTO Karandeep Anand는 CEO Josh D'Amaro에게서 Disney 각 사업부의 AI 워크플로와 시스템을 표준화할 폭넓은 권한을 받았다. 사업부마다 자체 파이프라인을 써 온 관행을 흔드는 조치다. 회사 사정에 밝은 한 인사는 “그는 적을 잔뜩 만들었다”고 했다."
           },
           {
             "t": "p",
-            "x": "제작진은 흑연으로 손수 그린 원화와 Procreate로 만든 디지털 일러스트에서 출발해 Kling으로 움직임을 입혔다. Alameldeen은 “아티스트들을 고용해 모든 프레임을 손으로 그리게 했다”며 “AI는 사실적인 질감과 움직임을 맡았다… AI는 우리 그림과 계획을 바탕으로 작업했고, 스스로 아무것도 지어내지 않았다”고 말했다."
+            "x": "Office of Technology Enablement를 이끌던 Jamie Voris는 회사를 떠났고, Walt Disney Studios CTO Eddie Drake는 조기 은퇴했다. Disney 측 관계자는 갈등설을 부인했다. 인력을 줄여 AI 도입을 밀어붙인다는 주장에는 “우리 전략을 잘못 묘사한 것”이라고 반박했다."
           },
           {
             "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081906-5-1280.jpg?itok=cHcJl6DQ"
+            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
           },
           {
             "t": "p",
-            "x": "그는 Kling을 “우리 같은 소규모 팀에게 가장 현실적인 선택지”라고 부른다. 원하는 사실감을 낼 예산이 없었고, 그게 아니면 두 해 넘게 기다려야 했다."
+            "x": "D'Amaro는 Disney IP로 Adobe Firefly에서 맞춤형 생성형 AI 모델을 학습시키는 계약을 맺었다. 십이월 5일에는 AI-generated 만화 Ozzy Fox가 Disney+에 공개된다. Disney는 2029 회계연도까지 연간 $3 billion 규모의 비용 절감을 노리며, 아낀 돈은 콘텐츠와 기술에 다시 투자한다고 밝혔다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
+            "cap": "Mobile World Congress(MWC) 현장에서 사진 촬영에 응한 Character AI 전 CEO Karandeep Anand."
           },
           {
             "t": "p",
-            "x": "그는 “가장 분명하게 배운 점은 AI 도구가 인간의 감정, 그중에서도 고통받는 아이 표현에 정말 애를 먹었다는 것”이라고 말한다. 석 달가량 테스트한 끝에 팀은 하이브리드 방식으로 돌아섰다. “AI 도구는 겉모습을 따라 할 수는 있지만, 겁에 질리거나 굶주린 아이가 무엇을 느끼는지는 이해하지 못한다.”"
+            "x": "표준화가 어디까지 가능할지는 아직 물음표다. 스튜디오 공정을 잘 아는 한 인사는 Marvel이나 Lucasfilm처럼 블록버스터를 만드는 대형 스튜디오에 맞는 AI 워크플로가 2D 애니메이션 프로젝트나 어린이 교육 프로그램에는 맞지 않을 수 있다고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Oscar-qualified Safe Zone\npairs hand drawing with Kling",
-          "body": "Director Ahmad Alameldeen says AI tools struggled most with human emotion, especially a child in distress.",
-          "mini_headline": "Safe Zone pairs\nhand drawing, Kling",
+          "headline": "Disney pushes a single AI\nvision, and meets resistance",
+          "body": "Disney's new CTO pushes one AI workflow across units, but an insider says what suits Marvel may not fit 2D animation.",
+          "mini_headline": "Disney's one-workflow AI push",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081906-1-1280.jpg",
-                "cap": "'Safe Zone.' Images courtesy of Ahmad Alameldeen."
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "Safe Zone, the first animated film from humanitarian aid veteran Ahmad Alameldeen, follows a starving eight-year-old girl and her mother hiding in a sewer pipe beneath a besieged city, as the girl runs toward a single aid parcel, unaware of a sniper watching. It is qualified for the Animated Short Film category at the 99th Academy Awards."
-              },
-              {
-                "t": "video",
-                "yt": "LvqR4xty-uE"
+                "x": "Since joining in September from Character.ai, new CTO Karandeep Anand was granted broad powers by CEO Josh D'Amaro to standardize the AI workflows and systems used by Disney's different businesses — a shakeup from their own proprietary pipelines. “He's made a bunch of enemies,” said a person familiar with the company."
               },
               {
                 "t": "p",
-                "x": "The team began with original hand-drawn graphite artwork and digital illustrations made in Procreate, then used Kling to add movement. “We employed artists to draw every frame by hand,” says Alameldeen. “The AI did the realistic look and the motion… It worked from our drawings and our plan, and it did not invent anything on its own.”"
+                "x": "Jamie Voris, who ran the Office of Technology Enablement, has left, and Walt Disney Studios CTO Eddie Drake took early retirement. A Disney source denied a standoff, calling the suggestion that workforce reductions are being used to force AI adoption “a mischaracterization of our strategy.”"
               },
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081906-5-1280.jpg?itok=cHcJl6DQ"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "He calls Kling “the most practical option for a small team like ours.” Without the budget for the realism he wanted, the alternative was waiting two or more years."
+                "x": "D'Amaro has signed a deal to train custom generative AI models on Adobe's Firefly with Disney IP, and on Dec. 5 brings the AI-generated cartoon Ozzy Fox to Disney+. Disney says it targets $3 billion in annual run-rate savings by fiscal 2029, to be reinvested in content and technology."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
+                "cap": "Former CEO of Character AI Karandeep Anand poses for a photo during the Mobile World Congress (MWC)."
               },
               {
                 "t": "p",
-                "x": "“The clearest thing we learned was that AI tools really struggled with human emotion, and most of all with a child in distress,” he notes. After about three months of testing, the team moved to the hybrid method. “An AI tool can copy a look, but it cannot understand what a frightened or starving child feels.”"
+                "x": "Questions remain over how much can be standardized: AI workflows that may benefit a large studio making blockbusters like Marvel or Lucasfilm may not work on a 2D animation project or educational kids' show, said a person familiar with the studio processes."
               }
             ]
           }
         },
         "ko": {
-          "headline": "오스카 자격 얻은 단편\n손그림에 Kling 더했다",
-          "body": "감독은 AI 도구가 인간 감정, 특히 고통받는 아이에 가장 약했다고 말한다.",
-          "mini_headline": "Safe Zone, 손그림과 Kling의 결합",
+          "headline": "Disney 단일 AI\n구상에 내부 반발",
+          "body": "Disney CTO의 AI 통일안, Marvel엔 맞아도 2D엔 안 맞을 수 있다.",
+          "mini_headline": "Disney의 단일 워크플로 AI 추진",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081906-1-1280.jpg",
-                "cap": "'Safe Zone.' 이미지 제공: Ahmad Alameldeen."
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "인도주의 구호 현장에서 오래 일한 Ahmad Alameldeen의 첫 애니메이션 영화 Safe Zone은 포위된 도시 아래 하수관에 숨은 굶주린 여덟 살 소녀와 어머니의 이야기다. 소녀는 저격수가 지켜보는 줄도 모르고 단 하나뿐인 구호 꾸러미를 향해 달린다. 이 작품은 제99회 아카데미 시상식 단편 애니메이션 부문 자격을 얻었다."
-              },
-              {
-                "t": "video",
-                "yt": "LvqR4xty-uE"
+                "x": "구월 Character.ai에서 합류한 신임 CTO Karandeep Anand는 CEO Josh D'Amaro에게서 Disney 각 사업부의 AI 워크플로와 시스템을 표준화할 폭넓은 권한을 받았다. 사업부마다 자체 파이프라인을 써 온 관행을 흔드는 조치다. 회사 사정에 밝은 한 인사는 “그는 적을 잔뜩 만들었다”고 했다."
               },
               {
                 "t": "p",
-                "x": "제작진은 흑연으로 손수 그린 원화와 Procreate로 만든 디지털 일러스트에서 출발해 Kling으로 움직임을 입혔다. Alameldeen은 “아티스트들을 고용해 모든 프레임을 손으로 그리게 했다”며 “AI는 사실적인 질감과 움직임을 맡았다… AI는 우리 그림과 계획을 바탕으로 작업했고, 스스로 아무것도 지어내지 않았다”고 말했다."
+                "x": "Office of Technology Enablement를 이끌던 Jamie Voris는 회사를 떠났고, Walt Disney Studios CTO Eddie Drake는 조기 은퇴했다. Disney 측 관계자는 갈등설을 부인했다. 인력을 줄여 AI 도입을 밀어붙인다는 주장에는 “우리 전략을 잘못 묘사한 것”이라고 반박했다."
               },
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081906-5-1280.jpg?itok=cHcJl6DQ"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "그는 Kling을 “우리 같은 소규모 팀에게 가장 현실적인 선택지”라고 부른다. 원하는 사실감을 낼 예산이 없었고, 그게 아니면 두 해 넘게 기다려야 했다."
+                "x": "D'Amaro는 Disney IP로 Adobe Firefly에서 맞춤형 생성형 AI 모델을 학습시키는 계약을 맺었다. 십이월 5일에는 AI-generated 만화 Ozzy Fox가 Disney+에 공개된다. Disney는 2029 회계연도까지 연간 $3 billion 규모의 비용 절감을 노리며, 아낀 돈은 콘텐츠와 기술에 다시 투자한다고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
+                "cap": "Mobile World Congress(MWC) 현장에서 사진 촬영에 응한 Character AI 전 CEO Karandeep Anand."
               },
               {
                 "t": "p",
-                "x": "그는 “가장 분명하게 배운 점은 AI 도구가 인간의 감정, 그중에서도 고통받는 아이 표현에 정말 애를 먹었다는 것”이라고 말한다. 석 달가량 테스트한 끝에 팀은 하이브리드 방식으로 돌아섰다. “AI 도구는 겉모습을 따라 할 수는 있지만, 겁에 질리거나 굶주린 아이가 무엇을 느끼는지는 이해하지 못한다.”"
+                "x": "표준화가 어디까지 가능할지는 아직 물음표다. 스튜디오 공정을 잘 아는 한 인사는 Marvel이나 Lucasfilm처럼 블록버스터를 만드는 대형 스튜디오에 맞는 AI 워크플로가 2D 애니메이션 프로젝트나 어린이 교육 프로그램에는 맞지 않을 수 있다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "オスカー資格の短編\n手描きにKlingを融合",
-          "body": "Alameldeen監督は、AIが最も苦手だったのは人の感情、特に苦しむ子どもだと語る。",
-          "mini_headline": "Safe Zone:手描きとKlingの融合",
+          "headline": "Disney、AI一本化に\n社内から反発",
+          "body": "Disney新CTOがAI統一を進めるが、Marvel向けは2Dに合わないとの声もある。",
+          "mini_headline": "DisneyのAIワークフロー一本化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081906-1-1280.jpg",
-                "cap": "『Safe Zone』画像提供:Ahmad Alameldeen"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "人道支援のベテランAhmad Alameldeenによる初のアニメーション映画『Safe Zone』は、包囲された都市の地下の下水管に身を潜める飢えた8歳の少女と母親を描く。少女は狙撃手に見られていることに気づかないまま、ただ一つの支援物資に向かって走る。本作は第99回アカデミー賞の短編アニメーション部門の資格を得ている。"
-              },
-              {
-                "t": "video",
-                "yt": "LvqR4xty-uE"
+                "x": "九月にCharacter.aiから加わった新CTOのKarandeep Anandは、CEOのJosh D'AmaroからDisneyの各事業が使うAIワークフローとシステムを標準化する広範な権限を与えられた。各事業が独自のパイプラインを使ってきた体制を揺るがす動きだ。社内事情に詳しい人物は「彼は敵をたくさん作った」と話す。"
               },
               {
                 "t": "p",
-                "x": "チームはまず黒鉛で手描きしたオリジナル原画とProcreateで制作したデジタルイラストを用意し、Klingで動きを加えた。「アーティストを雇い、すべてのフレームを手で描いてもらった」とAlameldeenは言う。「AIはリアルな見た目と動きを担当した…AIは私たちの絵と計画に基づいて作業し、自ら何かを生み出すことはなかった」"
+                "x": "Office of Technology Enablementを率いていたJamie Vorisは退社し、Walt Disney StudiosのCTO Eddie Drakeは早期退職した。Disney側の関係者は対立を否定し、AI導入を強いるために人員削減が使われているとの見方は「当社の戦略を誤って描いたもの」だとした。"
               },
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081906-5-1280.jpg?itok=cHcJl6DQ"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "彼はKlingを「私たちのような小規模チームにとって最も現実的な選択肢」と呼ぶ。望むリアリズムを実現する予算がなく、代わりの道は2年以上待つことだった。"
+                "x": "D'AmaroはDisneyのIPを使い、AdobeのFireflyでカスタム生成AIモデルを学習させる契約を結んだ。十二月5日にはAI-generatedのアニメOzzy FoxをDisney+で配信する。Disneyは2029会計年度までに年間$3 billion の経費削減ペースを目指し、浮いた分をコンテンツと技術に再投資するとしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
+                "cap": "Character AIの元CEO、Karandeep Anand。Mobile World Congress（MWC）で撮影に応じる。"
               },
               {
                 "t": "p",
-                "x": "「最もはっきり分かったのは、AIツールが人間の感情、とりわけ苦しむ子どもの表現に本当に苦戦したことだ」と彼は指摘する。約3か月のテストを経て、チームはハイブリッド方式に移行した。「AIツールは見た目をまねることはできても、怯えた子どもや飢えた子どもが何を感じているかは理解できない」"
+                "x": "どこまで標準化できるかには疑問が残る。スタジオの工程に詳しい人物によれば、MarvelやLucasfilmのような大作を手がける大規模スタジオに役立つAIワークフローも、2Dアニメのプロジェクトや子ども向け教育番組には合わない可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "获奥斯卡参评资格短片\n手绘结合Kling",
-          "body": "导演Ahmad Alameldeen称，AI工具最难驾驭人类情感，尤其是受苦的孩子。",
-          "mini_headline": "Safe Zone：手绘与Kling结合",
+          "headline": "Disney推统一AI路线\n遭遇内部阻力",
+          "body": "Disney新任CTO力推统一AI流程，但知情人称适合Marvel的未必适合2D动画。",
+          "mini_headline": "Disney力推统一AI流程",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081906-1-1280.jpg",
-                "cap": "《Safe Zone》。图片由Ahmad Alameldeen提供。"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "《Safe Zone》是资深人道主义援助工作者Ahmad Alameldeen的首部动画电影，讲述一名饥饿的八岁女孩和母亲藏身于被围困城市地下的污水管中，女孩奔向唯一一个援助包裹，却不知有狙击手正在注视。该片已获得第99届奥斯卡金像奖动画短片类别的参评资格。"
-              },
-              {
-                "t": "video",
-                "yt": "LvqR4xty-uE"
+                "x": "九月从Character.ai加盟的新任CTO Karandeep Anand获CEO Josh D'Amaro授予广泛权力，要将Disney各业务部门使用的AI工作流程和系统标准化，这撼动了各部门原有的自有制作管线。一位了解公司情况的人士说：“他树敌不少。”"
               },
               {
                 "t": "p",
-                "x": "团队先用石墨手绘原画和在Procreate中制作的数字插画打底，再用Kling添加动态。“我们请艺术家手绘了每一帧，”Alameldeen说，“AI负责逼真的质感和动作……它以我们的画稿和规划为基础工作，没有自行创造任何东西。”"
+                "x": "曾执掌Office of Technology Enablement的Jamie Voris已离职，Walt Disney Studios CTO Eddie Drake则提前退休。一位Disney消息人士否认存在僵局，称所谓借裁员强推AI的说法是“对我们战略的错误描述”。"
               },
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081906-5-1280.jpg?itok=cHcJl6DQ"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "他称Kling是“像我们这样的小团队最实际的选择”。由于没有足够预算实现他想要的真实感，另一种选择就是等待两年或更久。"
+                "x": "D'Amaro已签署协议，用Disney IP在Adobe的Firefly上训练定制生成式AI模型，并将于十二月5日在Disney+推出AI-generated动画Ozzy Fox。Disney表示，目标是到2029财年实现每年$3 billion 的成本节约，节省资金将再投入内容和技术。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
+                "cap": "Character AI前CEO Karandeep Anand在Mobile World Congress（MWC）期间留影。"
               },
               {
                 "t": "p",
-                "x": "“我们学到的最清楚的一点是，AI工具在表现人类情感方面非常吃力，尤其是处于痛苦中的孩子，”他指出。经过大约三个月的测试，团队转向了混合方法。“AI工具可以模仿外观，但无法理解一个受惊或挨饿的孩子的感受。”"
+                "x": "能标准化到何种程度仍存疑问：一位熟悉该公司制片流程的人士表示，可能惠及Marvel或Lucasfilm等大片制作大型制片厂的AI工作流程，未必适用于2D动画项目或儿童教育节目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Safe Zone, apta para el Óscar,\nune dibujo a mano y Kling",
-          "body": "El director Ahmad Alameldeen dice que a la IA le costó sobre todo la emoción humana, en especial un niño angustiado.",
-          "mini_headline": "Safe Zone une dibujo a mano y Kling",
+          "headline": "Disney busca una sola visión AI\ny encuentra resistencia",
+          "body": "El nuevo CTO de Disney impulsa un único flujo AI, pero según una fuente lo que sirve a Marvel quizá no encaje en 2D.",
+          "mini_headline": "Disney y su flujo AI único",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081906-1-1280.jpg",
-                "cap": "'Safe Zone'. Imágenes cortesía de Ahmad Alameldeen."
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "Safe Zone, la primera película animada de Ahmad Alameldeen, veterano de la ayuda humanitaria, sigue a una niña hambrienta de ocho años y a su madre, escondidas en una tubería de alcantarillado bajo una ciudad sitiada, mientras la niña corre hacia un único paquete de ayuda sin saber que un francotirador la observa. Está habilitada para la categoría de Cortometraje de Animación en la 99.ª edición de los Premios de la Academia."
-              },
-              {
-                "t": "video",
-                "yt": "LvqR4xty-uE"
+                "x": "Desde que llegó en septiembre procedente de Character.ai, el nuevo CTO Karandeep Anand recibió del CEO Josh D'Amaro amplios poderes para estandarizar los flujos de trabajo y sistemas de AI que usan los distintos negocios de Disney, un cambio frente a sus propias canalizaciones internas. “Se ha ganado muchos enemigos”, dijo una persona conocedora de la empresa."
               },
               {
                 "t": "p",
-                "x": "El equipo partió de dibujos originales hechos a mano con grafito y de ilustraciones digitales creadas en Procreate, y luego usó Kling para añadir movimiento. “Contratamos a artistas para dibujar cada fotograma a mano”, dice Alameldeen. “La IA se encargó del aspecto realista y del movimiento… Trabajó a partir de nuestros dibujos y de nuestro plan, y no inventó nada por su cuenta.”"
+                "x": "Jamie Voris, que dirigía la Office of Technology Enablement, se ha marchado, y el CTO de Walt Disney Studios, Eddie Drake, se acogió a la jubilación anticipada. Una fuente de Disney negó un enfrentamiento y calificó la idea de que se usan recortes de plantilla para forzar la adopción de AI como “una tergiversación de nuestra estrategia”."
               },
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081906-5-1280.jpg?itok=cHcJl6DQ"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "Llama a Kling “la opción más práctica para un equipo pequeño como el nuestro”. Sin presupuesto para el realismo que buscaba, la alternativa era esperar dos años o más."
+                "x": "D'Amaro firmó un acuerdo para entrenar modelos de AI generativa a medida en Firefly de Adobe con IP de Disney, y el 5 de diciembre estrena en Disney+ la caricatura AI-generated Ozzy Fox. Disney dice que aspira a un ritmo de ahorro anual de $3 billion para el año fiscal 2029, que se reinvertirá en contenido y tecnología."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
+                "cap": "Karandeep Anand, ex CEO de Character AI, posa para una foto durante el Mobile World Congress (MWC)."
               },
               {
                 "t": "p",
-                "x": "“Lo más claro que aprendimos fue que las herramientas de IA tenían verdaderas dificultades con la emoción humana, y sobre todo con un niño angustiado”, señala. Tras unos tres meses de pruebas, el equipo pasó al método híbrido. “Una herramienta de IA puede copiar un aspecto, pero no puede entender lo que siente un niño asustado o hambriento.”"
+                "x": "Quedan dudas sobre cuánto se puede estandarizar: los flujos de trabajo de AI que pueden beneficiar a un gran estudio de superproducciones como Marvel o Lucasfilm quizá no funcionen en un proyecto de animación 2D o en un programa educativo infantil, dijo una persona conocedora de los procesos del estudio."
               }
             ]
           }
@@ -951,157 +911,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "오스카 자격 얻은 단편\n손그림에 Kling 더했다",
-          "body": "감독은 AI 도구가 인간 감정, 특히 고통받는 아이에 가장 약했다고 말한다.",
-          "mini_headline": "Safe Zone, 손그림과 Kling의 결합",
+          "headline": "Disney 단일 AI\n구상에 내부 반발",
+          "body": "Disney CTO의 AI 통일안은 Marvel엔 맞아도 2D엔 어긋날 수 있다.",
+          "mini_headline": "Disney의 단일 워크플로 AI 추진",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081906-1-1280.jpg",
-                "cap": "'Safe Zone.' 이미지 제공: Ahmad Alameldeen."
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "인도주의 구호 분야 베테랑 Ahmad Alameldeen의 첫 애니메이션 영화 Safe Zone은 포위된 도시 아래 하수관에 숨은 굶주린 여덟 살 소녀와 어머니를 따라간다. 소녀는 저격수가 지켜보는 줄도 모른 채 단 하나의 구호 꾸러미를 향해 달려간다. 이 작품은 제99회 아카데미 시상식 단편 애니메이션 부문 자격을 얻었다."
-              },
-              {
-                "t": "video",
-                "yt": "LvqR4xty-uE"
+                "x": "구월 Character.ai에서 합류한 신임 CTO Karandeep Anand는 CEO Josh D'Amaro로부터 Disney 각 사업부가 쓰는 AI 워크플로와 시스템을 표준화할 폭넓은 권한을 받았다. 사업부마다 자체 파이프라인을 써 온 관행을 뒤흔드는 조치다. 회사 사정에 밝은 한 인사는 “그는 적을 잔뜩 만들었다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "제작진은 흑연으로 손수 그린 원화와 Procreate로 만든 디지털 일러스트에서 출발해 Kling으로 움직임을 더했다. Alameldeen은 “아티스트들을 고용해 모든 프레임을 손으로 그리게 했다”며 “AI는 사실적인 질감과 움직임을 맡았다… AI는 우리 그림과 계획을 바탕으로 작업했고, 스스로 아무것도 지어내지 않았다”고 말했다."
+                "x": "Office of Technology Enablement를 이끌던 Jamie Voris는 회사를 떠났고, Walt Disney Studios CTO Eddie Drake는 조기 은퇴했다. Disney 측 관계자는 대립설을 부인하며, 인력 감축으로 AI 도입을 강요하고 있다는 주장은 “우리 전략을 잘못 묘사한 것”이라고 했다."
               },
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081906-5-1280.jpg?itok=cHcJl6DQ"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "그는 Kling을 “우리 같은 소규모 팀에게 가장 현실적인 선택지”라고 부른다. 원하는 사실감을 구현할 예산이 없었기에, 대안은 두 해 이상 기다리는 것이었다."
+                "x": "D'Amaro는 Disney IP로 Adobe Firefly에서 맞춤형 생성형 AI 모델을 학습시키는 계약을 맺었고, 십이월 5일에는 AI-generated 만화 Ozzy Fox를 Disney+에 선보인다. Disney는 2029 회계연도까지 연간 $3 billion 규모의 비용 절감을 목표로 하며, 절감액은 콘텐츠와 기술에 재투자한다고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
+                "cap": "Character AI 전 CEO Karandeep Anand가 Mobile World Congress(MWC) 중 사진 촬영에 응하고 있다."
               },
               {
                 "t": "p",
-                "x": "그는 “가장 분명하게 배운 점은 AI 도구가 인간의 감정, 그중에서도 고통받는 아이 표현에 정말 애를 먹었다는 것”이라고 말한다. 약 석 달의 테스트 끝에 팀은 하이브리드 방식으로 전환했다. “AI 도구는 겉모습을 따라 할 수는 있지만, 겁에 질리거나 굶주린 아이가 무엇을 느끼는지는 이해하지 못한다.”"
+                "x": "표준화가 어디까지 가능할지는 여전히 의문이다. 스튜디오 공정에 밝은 한 인사는 Marvel이나 Lucasfilm처럼 블록버스터를 만드는 대형 스튜디오에 도움이 될 AI 워크플로가 2D 애니메이션 프로젝트나 어린이 교육 프로그램에는 맞지 않을 수 있다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "オスカー資格の短編\n手描きにKlingを融合",
-          "body": "Alameldeen監督は、AIが最も苦手だったのは人の感情、特に苦しむ子どもだと語る。",
-          "mini_headline": "Safe Zone:手描きとKlingの融合",
+          "headline": "Disney、AI一本化に\n社内から反発",
+          "body": "Disney新CTOがAI統一を進めるが、Marvel向けは2Dに合わないとの声もある。",
+          "mini_headline": "DisneyのAIワークフロー一本化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081906-1-1280.jpg",
-                "cap": "『Safe Zone』画像提供:Ahmad Alameldeen"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "人道支援のベテランAhmad Alameldeenによる初のアニメーション映画『Safe Zone』は、包囲された都市の地下の下水管に身を潜める飢えた8歳の少女と母親を描く。少女は狙撃手に見られていることに気づかないまま、ただ一つの支援物資に向かって走る。本作は第99回アカデミー賞の短編アニメーション部門の資格を得ている。"
-              },
-              {
-                "t": "video",
-                "yt": "LvqR4xty-uE"
+                "x": "九月にCharacter.aiから加わった新CTOのKarandeep Anandは、CEOのJosh D'AmaroからDisneyの各事業が使うAIワークフローとシステムを標準化する広範な権限を与えられた。各事業が独自のパイプラインを使ってきた体制を揺るがす動きだ。社内事情に詳しい人物は「彼は敵をたくさん作った」と話す。"
               },
               {
                 "t": "p",
-                "x": "チームはまず黒鉛で手描きしたオリジナル原画とProcreateで制作したデジタルイラストを用意し、Klingで動きを加えた。「アーティストを雇い、すべてのフレームを手で描いてもらった」とAlameldeenは言う。「AIはリアルな見た目と動きを担当した…AIは私たちの絵と計画に基づいて作業し、自ら何かを生み出すことはなかった」"
+                "x": "Office of Technology Enablementを率いていたJamie Vorisは退社し、Walt Disney StudiosのCTO Eddie Drakeは早期退職した。Disney側の関係者は対立を否定し、AI導入を強いるために人員削減が使われているとの見方は「当社の戦略を誤って描いたもの」だとした。"
               },
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081906-5-1280.jpg?itok=cHcJl6DQ"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "彼はKlingを「私たちのような小規模チームにとって最も現実的な選択肢」と呼ぶ。望むリアリズムを実現する予算がなく、代わりの道は2年以上待つことだった。"
+                "x": "D'AmaroはDisneyのIPを使い、AdobeのFireflyでカスタム生成AIモデルを学習させる契約を結んだ。十二月5日にはAI-generatedのアニメOzzy FoxをDisney+で配信する。Disneyは2029会計年度までに年間$3 billion の経費削減ペースを目指し、浮いた分をコンテンツと技術に再投資するとしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
+                "cap": "Character AIの元CEO、Karandeep Anand。Mobile World Congress（MWC）で撮影に応じる。"
               },
               {
                 "t": "p",
-                "x": "「最もはっきり分かったのは、AIツールが人間の感情、とりわけ苦しむ子どもの表現に本当に苦戦したことだ」と彼は指摘する。約3か月のテストを経て、チームはハイブリッド方式に移行した。「AIツールは見た目をまねることはできても、怯えた子どもや飢えた子どもが何を感じているかは理解できない」"
+                "x": "どこまで標準化できるかには疑問が残る。スタジオの工程に詳しい人物によれば、MarvelやLucasfilmのような大作を手がける大規模スタジオに役立つAIワークフローも、2Dアニメのプロジェクトや子ども向け教育番組には合わない可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "获奥斯卡参评资格短片\n手绘结合Kling",
-          "body": "导演Ahmad Alameldeen称，AI工具最难驾驭人类情感，尤其是受苦的孩子。",
-          "mini_headline": "Safe Zone：手绘与Kling结合",
+          "headline": "Disney推统一AI路线\n遭遇内部阻力",
+          "body": "Disney新任CTO力推统一AI流程，但知情人称适合Marvel的未必适合2D动画。",
+          "mini_headline": "Disney力推统一AI流程",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081906-1-1280.jpg",
-                "cap": "《Safe Zone》。图片由Ahmad Alameldeen提供。"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "《Safe Zone》是资深人道主义援助工作者Ahmad Alameldeen的首部动画电影，讲述一名饥饿的八岁女孩和母亲藏身于被围困城市地下的污水管中，女孩奔向唯一一个援助包裹，却不知有狙击手正在注视。该片已获得第99届奥斯卡金像奖动画短片类别的参评资格。"
-              },
-              {
-                "t": "video",
-                "yt": "LvqR4xty-uE"
+                "x": "九月从Character.ai加盟的新任CTO Karandeep Anand获CEO Josh D'Amaro授予广泛权力，要将Disney各业务部门使用的AI工作流程和系统标准化，这撼动了各部门原有的自有制作管线。一位了解公司情况的人士说：“他树敌不少。”"
               },
               {
                 "t": "p",
-                "x": "团队先用石墨手绘原画和在Procreate中制作的数字插画打底，再用Kling添加动态。“我们请艺术家手绘了每一帧，”Alameldeen说，“AI负责逼真的质感和动作……它以我们的画稿和规划为基础工作，没有自行创造任何东西。”"
+                "x": "曾执掌Office of Technology Enablement的Jamie Voris已离职，Walt Disney Studios CTO Eddie Drake则提前退休。一位Disney消息人士否认存在僵局，称所谓借裁员强推AI的说法是“对我们战略的错误描述”。"
               },
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081906-5-1280.jpg?itok=cHcJl6DQ"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "他称Kling是“像我们这样的小团队最实际的选择”。由于没有足够预算实现他想要的真实感，另一种选择就是等待两年或更久。"
+                "x": "D'Amaro已签署协议，用Disney IP在Adobe的Firefly上训练定制生成式AI模型，并将于十二月5日在Disney+推出AI-generated动画Ozzy Fox。Disney表示，目标是到2029财年实现每年$3 billion 的成本节约，节省资金将再投入内容和技术。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
+                "cap": "Character AI前CEO Karandeep Anand在Mobile World Congress（MWC）期间留影。"
               },
               {
                 "t": "p",
-                "x": "“我们学到的最清楚的一点是，AI工具在表现人类情感方面非常吃力，尤其是处于痛苦中的孩子，”他指出。经过大约三个月的测试，团队转向了混合方法。“AI工具可以模仿外观，但无法理解一个受惊或挨饿的孩子的感受。”"
+                "x": "能标准化到何种程度仍存疑问：一位熟悉该公司制片流程的人士表示，可能惠及Marvel或Lucasfilm等大片制作大型制片厂的AI工作流程，未必适用于2D动画项目或儿童教育节目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Safe Zone, apta para el Óscar,\nune dibujo a mano y Kling",
-          "body": "El director Ahmad Alameldeen dice que a la IA le costó sobre todo la emoción humana, en especial un niño angustiado.",
-          "mini_headline": "Safe Zone une dibujo a mano y Kling",
+          "headline": "Disney busca una sola visión AI\ny encuentra resistencia",
+          "body": "El nuevo CTO de Disney impulsa un único flujo AI, pero según una fuente lo que sirve a Marvel quizá no encaje en 2D.",
+          "mini_headline": "Disney y su flujo AI único",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/image/attached/1081906-1-1280.jpg",
-                "cap": "'Safe Zone'. Imágenes cortesía de Ahmad Alameldeen."
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "Safe Zone, la primera película animada de Ahmad Alameldeen, veterano de la ayuda humanitaria, sigue a una niña hambrienta de ocho años y a su madre, escondidas en una tubería de alcantarillado bajo una ciudad sitiada, mientras la niña corre hacia un único paquete de ayuda sin saber que un francotirador la observa. Está habilitada para la categoría de Cortometraje de Animación en la 99.ª edición de los Premios de la Academia."
-              },
-              {
-                "t": "video",
-                "yt": "LvqR4xty-uE"
+                "x": "Desde que llegó en septiembre procedente de Character.ai, el nuevo CTO Karandeep Anand recibió del CEO Josh D'Amaro amplios poderes para estandarizar los flujos de trabajo y sistemas de AI que usan los distintos negocios de Disney, un cambio frente a sus propias canalizaciones internas. “Se ha ganado muchos enemigos”, dijo una persona conocedora de la empresa."
               },
               {
                 "t": "p",
-                "x": "El equipo partió de dibujos originales hechos a mano con grafito y de ilustraciones digitales creadas en Procreate, y luego usó Kling para añadir movimiento. “Contratamos a artistas para dibujar cada fotograma a mano”, dice Alameldeen. “La IA se encargó del aspecto realista y del movimiento… Trabajó a partir de nuestros dibujos y de nuestro plan, y no inventó nada por su cuenta.”"
+                "x": "Jamie Voris, que dirigía la Office of Technology Enablement, se ha marchado, y el CTO de Walt Disney Studios, Eddie Drake, se acogió a la jubilación anticipada. Una fuente de Disney negó un enfrentamiento y calificó la idea de que se usan recortes de plantilla para forzar la adopción de AI como “una tergiversación de nuestra estrategia”."
               },
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081906-5-1280.jpg?itok=cHcJl6DQ"
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
               },
               {
                 "t": "p",
-                "x": "Llama a Kling “la opción más práctica para un equipo pequeño como el nuestro”. Sin presupuesto para el realismo que buscaba, la alternativa era esperar dos años o más."
+                "x": "D'Amaro firmó un acuerdo para entrenar modelos de AI generativa a medida en Firefly de Adobe con IP de Disney, y el 5 de diciembre estrena en Disney+ la caricatura AI-generated Ozzy Fox. Disney dice que aspira a un ritmo de ahorro anual de $3 billion para el año fiscal 2029, que se reinvertirá en contenido y tecnología."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
+                "cap": "Karandeep Anand, ex CEO de Character AI, posa para una foto durante el Mobile World Congress (MWC)."
               },
               {
                 "t": "p",
-                "x": "“Lo más claro que aprendimos fue que las herramientas de IA tenían verdaderas dificultades con la emoción humana, y sobre todo con un niño angustiado”, señala. Tras unos tres meses de pruebas, el equipo pasó al método híbrido. “Una herramienta de IA puede copiar un aspecto, pero no puede entender lo que siente un niño asustado o hambriento.”"
+                "x": "Quedan dudas sobre cuánto se puede estandarizar: los flujos de trabajo de AI que pueden beneficiar a un gran estudio de superproducciones como Marvel o Lucasfilm quizá no funcionen en un proyecto de animación 2D o en un programa educativo infantil, dijo una persona conocedora de los procesos del estudio."
               }
             ]
           }
@@ -1109,15 +1069,15 @@
       }
     },
     {
-      "id": "google-flow-filmathon-iffi",
+      "id": "maharaja-denims-genai-feature",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google Flow 영화\n다섯 편 IFFI서 상영",
-      "body": "850건 넘는 등록 중 Google Flow 영화 5편이 WIF 결선에 올랐다.",
-      "mini_headline": "IFFI Goa에 간 Google Flow 영화",
+      "headline": "AI 영화 Maharaja\n2027년 사월 개봉",
+      "body": "Singh 원작 AI 영화는 $500,000 넘게 들여 사실상 세 번 만들었다.",
+      "mini_headline": "Maharaja in Denims, 2027년 개봉",
       "tool": "Movies",
       "source": "Variety",
-      "url": "https://variety.com/2026/film/festivals/ai-films-kerala-andaman-islands-google-flow-filmathon-iffi-1236955693/",
+      "url": "https://variety.com/2026/film/news/generative-ai-feature-maharaja-in-denims-april-2027-release-1236957865/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1125,173 +1085,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/11/Google-AI.jpg?w=1000&h=667&crop=1"
+            "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
           },
           {
             "t": "p",
-            "x": "Google의 AI 크리에이티브 작업 공간 Google Flow로 만든 영화 다섯 편이 첫 WIF India x Google Flow Filmathon 결선에 올라, Goa에서 열리는 인도국제영화제(IFFI)에서 상영된다. 다섯 편 중 세 편은 여성이 만들었다."
+            "x": "Khushwant Singh의 소설 “Maharaja in Denims”가 장편 생성형 AI 영화로 완성을 앞뒀다. 19세기 시크교 통치자 Maharaja Ranjit Singh의 삶을 다시 사는 청년 이야기다. 제작진은 사실상 세 번 만든 영화라고 말한다. 연출은 Balpreet Kaur가 맡았고, 팀은 Baisakhi에 맞춰 2027년 사월까지 개봉하길 바란다."
           },
           {
             "t": "p",
-            "x": "공모에는 850건 넘는 등록이 몰렸다. Tier 1 도시가 60%, Tier 2가 30%, Tier 3 도시가 10%를 차지했다."
+            "x": "제작은 2024년 Midjourney와 Runway로 출발해 Google Veo로 넘어갔고, 스틸 이미지는 Nano Banana로 뽑았다. 이후 Kling AI와 Seedance 2.0을 거쳐 Higgsfield에서 쓸 수 있는 도구로 마무리했다. 전환점은 Nano Banana였다. 팀은 룩을 확정하기까지 영화 전체 스틸을 세 번이나 다시 만들었다."
           },
           {
             "t": "p",
-            "x": "결선작은 Kerala 출신 Aswathi Naduthodi의 “Bombay Mumbai – Vada Pav”와 Syam Manohar의 타밀어 블랙코미디 “Kuli”, Port Blair 출신 Promita Banerjee의 힌디어 포크 호러 “Sikkal”, Nikhil Shinde의 애니메이션 “Pedals of Joy”, Srishti Chaudhary의 대사 없는 애니메이션 “Nazar”다. “Nazar”는 캐릭터 시트와 스토리보드를 Google Flow 안에서 디자인했다."
+            "x": "Singh은 새 기술이 보통 비용을 십분의 일 수준으로 줄여 준다고 말한다. 다만 도구가 좋아지면서 영화의 한 시간 가까운 분량을 세 번 다시 작업해야 했다. 마케팅을 빼고도 비용은 $500,000를 넘었다고 그는 밝혔다."
           },
           {
             "t": "p",
-            "x": "WIF India의 프로그램·개발 디렉터 Rabia Chopra는 “영화에서 목소리를 내는 데 값비싼 카메라나 업계 인맥, 심지어 정식 영화 교육 배경도 필요하지 않아야 한다”고 말했다. 결선작은 Shakun Batra와 Pan Nalin 등 일곱 명으로 꾸린 심사위원단이 골랐다."
+            "x": "Singh은 “이 모든 기술적 진화 속에서도 창작 과정은 전적으로 사람이 이끌었다”고 말한다. 음악은 전부 사람이 만들었고, 더빙과 내레이션도 스튜디오에서 배우들과 녹음했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Five Google Flow films\nscreen at IFFI Goa",
-          "body": "Five films made with Google Flow were picked from 850+ registrations for WIF India's first AI Filmathon.",
-          "mini_headline": "Google Flow films\nat IFFI Goa",
+          "headline": "AI feature Maharaja in Denims\nsets an April 2027 release",
+          "body": "The $500,000-plus generative AI adaptation of Khushwant Singh's novel had to be made three times, its makers say.",
+          "mini_headline": "Maharaja in Denims sets 2027 date",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Google-AI.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "Five films made using Google Flow, an AI creative workspace from Google, are finalists at the inaugural WIF India x Google Flow Filmathon and will screen at the International Film Festival of India (IFFI) in Goa. Women made three of the five selected films."
+                "x": "“Maharaja in Denims,” Khushwant Singh's novel about a young man who relives the life of 19th-century Sikh ruler Maharaja Ranjit Singh, is nearing the finish line as a feature-length generative AI film – one its makers say they effectively had to make three times. The team hopes to release it by April 2027, in time for Baisakhi; Balpreet Kaur directs."
               },
               {
                 "t": "p",
-                "x": "The open call attracted more than 850 registrations: 60% from Tier 1 cities, 30% from Tier 2 and 10% from Tier 3."
+                "x": "Production began in 2024 with Midjourney and Runway, shifted to Google Veo, with Nano Banana handling stills, then moved through Kling AI and Seedance 2.0 before wrapping on tools available on Higgsfield. Nano Banana proved the turning point. The team rebuilt the stills for the entire film three times before locking a look."
               },
               {
                 "t": "p",
-                "x": "The finalists: Aswathi Naduthodi’s “Bombay Mumbai – Vada Pav” and Syam Manohar’s Tamil black comedy “Kuli” from Kerala; Promita Banerjee’s Hindi folk-horror “Sikkal” from Port Blair; Nikhil Shinde’s animated “Pedals of Joy”; and Srishti Chaudhary’s dialogue-free animated “Nazar,” whose character sheets and storyboards were designed inside Google Flow."
+                "x": "Singh says new technology usually cuts costs to around a tenth, but the team redid close to an hour of the film three times as the tools improved. He puts the cost at more than $500,000, excluding marketing."
               },
               {
                 "t": "p",
-                "x": "“You shouldn’t need an expensive camera, an industry network or even a formal filmmaking background to have a voice in cinema,” said Rabia Chopra, WIF India’s director of programs and development. A seven-member jury including Shakun Batra and Pan Nalin chose the finalists."
+                "x": "“Throughout this technological evolution, the creative process has remained entirely human-led,” Singh says. The music is entirely human-made, with dubbing and narration recorded with actors in the studio."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google Flow 영화\n다섯 편 IFFI서 상영",
-          "body": "850건 넘는 등록 중 Google Flow 영화 5편이 WIF 결선에 올랐다.",
-          "mini_headline": "IFFI Goa에 간 Google Flow 영화",
+          "headline": "AI 영화 Maharaja\n2027년 사월 개봉",
+          "body": "Singh 원작 AI 영화는 $500,000 넘게 들여 사실상 세 번 만들었다.",
+          "mini_headline": "Maharaja in Denims, 2027년 개봉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Google-AI.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "Google의 AI 크리에이티브 작업 공간 Google Flow로 만든 영화 다섯 편이 첫 WIF India x Google Flow Filmathon 결선에 올라, Goa에서 열리는 인도국제영화제(IFFI)에서 상영된다. 다섯 편 중 세 편은 여성이 만들었다."
+                "x": "Khushwant Singh의 소설 “Maharaja in Denims”가 장편 생성형 AI 영화로 완성을 앞뒀다. 19세기 시크교 통치자 Maharaja Ranjit Singh의 삶을 다시 사는 청년 이야기다. 제작진은 사실상 세 번 만든 영화라고 말한다. 연출은 Balpreet Kaur가 맡았고, 팀은 Baisakhi에 맞춰 2027년 사월까지 개봉하길 바란다."
               },
               {
                 "t": "p",
-                "x": "공모에는 850건 넘는 등록이 몰렸다. Tier 1 도시가 60%, Tier 2가 30%, Tier 3 도시가 10%를 차지했다."
+                "x": "제작은 2024년 Midjourney와 Runway로 출발해 Google Veo로 넘어갔고, 스틸 이미지는 Nano Banana로 뽑았다. 이후 Kling AI와 Seedance 2.0을 거쳐 Higgsfield에서 쓸 수 있는 도구로 마무리했다. 전환점은 Nano Banana였다. 팀은 룩을 확정하기까지 영화 전체 스틸을 세 번이나 다시 만들었다."
               },
               {
                 "t": "p",
-                "x": "결선작은 Kerala 출신 Aswathi Naduthodi의 “Bombay Mumbai – Vada Pav”와 Syam Manohar의 타밀어 블랙코미디 “Kuli”, Port Blair 출신 Promita Banerjee의 힌디어 포크 호러 “Sikkal”, Nikhil Shinde의 애니메이션 “Pedals of Joy”, Srishti Chaudhary의 대사 없는 애니메이션 “Nazar”다. “Nazar”는 캐릭터 시트와 스토리보드를 Google Flow 안에서 디자인했다."
+                "x": "Singh은 새 기술이 보통 비용을 십분의 일 수준으로 줄여 준다고 말한다. 다만 도구가 좋아지면서 영화의 한 시간 가까운 분량을 세 번 다시 작업해야 했다. 마케팅을 빼고도 비용은 $500,000를 넘었다고 그는 밝혔다."
               },
               {
                 "t": "p",
-                "x": "WIF India의 프로그램·개발 디렉터 Rabia Chopra는 “영화에서 목소리를 내는 데 값비싼 카메라나 업계 인맥, 심지어 정식 영화 교육 배경도 필요하지 않아야 한다”고 말했다. 결선작은 Shakun Batra와 Pan Nalin 등 일곱 명으로 꾸린 심사위원단이 골랐다."
+                "x": "Singh은 “이 모든 기술적 진화 속에서도 창작 과정은 전적으로 사람이 이끌었다”고 말한다. 음악은 전부 사람이 만들었고, 더빙과 내레이션도 스튜디오에서 배우들과 녹음했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Flow映画\n5本がIFFIで上映",
-          "body": "Google Flow製の5本が850件超の登録からAI Filmathonで選ばれた。",
-          "mini_headline": "IFFI GoaでGoogle Flow映画上映",
+          "headline": "AI映画Maharaja\n2027年四月公開へ",
+          "body": "Khushwant Singh原作のAI映画は$500,000 超を投じ、三度作り直した。",
+          "mini_headline": "Maharaja in Denims、2027年公開へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Google-AI.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "GoogleのAIクリエイティブワークスペース「Google Flow」で制作された5本の映画が、第1回WIF India x Google Flow Filmathonのファイナリストとなり、Goaで開かれるインド国際映画祭(IFFI)で上映される。選ばれた5本のうち3本は女性の作品だ。"
+                "x": "19世紀のシク教徒の君主Maharaja Ranjit Singhの生涯を追体験する青年を描いたKhushwant Singhの小説「Maharaja in Denims」が、長編の生成AI映画として完成間近だ。制作陣によれば、事実上三度作ったという。チームはBaisakhiに合わせ2027年四月までの公開を目指しており、監督はBalpreet Kaurが務める。"
               },
               {
                 "t": "p",
-                "x": "公募には850件を超える登録があり、60%がTier 1都市、30%がTier 2、10%がTier 3からだった。"
+                "x": "制作は2024年にMidjourneyとRunwayで始まり、Google Veoに移行してスチールはNano Bananaが担った。その後Kling AIとSeedance 2.0を経て、Higgsfieldで使えるツールで仕上げた。転機となったのはNano Bananaだ。チームはルックを固めるまでに、映画全体のスチールを三度作り直した。"
               },
               {
                 "t": "p",
-                "x": "ファイナリストは以下の通り。Kerala出身のAswathi Naduthodiによる「Bombay Mumbai – Vada Pav」とSyam Manoharのタミル語ブラックコメディ「Kuli」、Port Blair出身のPromita Banerjeeによるヒンディー語フォークホラー「Sikkal」、Nikhil Shindeのアニメーション「Pedals of Joy」、そしてSrishti Chaudharyの台詞のないアニメーション「Nazar」。「Nazar」のキャラクターシートと絵コンテはGoogle Flow内でデザインされた。"
+                "x": "Singhによれば、新技術は通常コストを十分の一程度に抑えるが、ツールの進化に合わせて映画の一時間近い部分を三度やり直したという。マーケティング費を除いても、コストは$500,000 を超えると見積もる。"
               },
               {
                 "t": "p",
-                "x": "「高価なカメラも業界の人脈も、正式な映画制作の経歴さえなくても、映画の世界で声を上げられるべきだ」と、WIF Indiaのプログラム・開発ディレクター、Rabia Chopraは述べた。ファイナリストはShakun BatraやPan Nalinを含む7人の審査員が選んだ。"
+                "x": "「この技術的進化の間も、創作プロセスは完全に人間が主導してきた」とSinghは語る。音楽はすべて人の手によるもので、吹き替えとナレーションはスタジオで俳優とともに収録した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Flow影片\n五部亮相IFFI果阿",
-          "body": "五部Google Flow影片从逾850份报名中入选WIF首届AI电影马拉松。",
-          "mini_headline": "Google Flow影片亮相IFFI",
+          "headline": "AI电影Maharaja\n定于2027年四月上映",
+          "body": "Khushwant Singh小说改编的AI电影耗资逾$500,000，片方称拍了三遍。",
+          "mini_headline": "Maharaja in Denims定档2027年",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Google-AI.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "五部使用Google旗下AI创意工作空间Google Flow制作的影片入围首届WIF India x Google Flow Filmathon决赛，并将在果阿（Goa）举行的印度国际电影节（IFFI）上放映。五部入选作品中有三部由女性创作。"
+                "x": "Khushwant Singh的小说《Maharaja in Denims》讲述一名年轻人重历19世纪锡克统治者Maharaja Ranjit Singh一生的故事，其长篇生成式AI电影版即将完成——片方称，这部片实际上拍了三遍。团队希望赶在Baisakhi节、于2027年四月前上映，导演为Balpreet Kaur。"
               },
               {
                 "t": "p",
-                "x": "此次公开征集共收到850多份报名：60%来自Tier 1城市，30%来自Tier 2，10%来自Tier 3。"
+                "x": "该片于2024年开始用Midjourney和Runway制作，后转向Google Veo，由Nano Banana负责静帧，之后又历经Kling AI和Seedance 2.0，最终在Higgsfield提供的工具上收尾。Nano Banana成为转折点。团队在确定视觉风格前，把全片静帧重做了三遍。"
               },
               {
                 "t": "p",
-                "x": "入围作品包括：来自Kerala的Aswathi Naduthodi的《Bombay Mumbai – Vada Pav》和Syam Manohar的泰米尔语黑色喜剧《Kuli》；来自Port Blair的Promita Banerjee的印地语民俗恐怖片《Sikkal》；Nikhil Shinde的动画《Pedals of Joy》；以及Srishti Chaudhary的无对白动画《Nazar》，其角色设定表和分镜均在Google Flow中设计完成。"
+                "x": "Singh说，新技术通常能把成本降到十分之一左右，但随着工具进步，团队把影片近一小时的内容重做了三遍。他估计，不计营销费用，成本超过$500,000。"
               },
               {
                 "t": "p",
-                "x": "“在电影中发声，不应需要昂贵的摄影机、行业人脉，甚至正规的电影制作背景，”WIF India项目与发展总监Rabia Chopra说。由Shakun Batra和Pan Nalin等七人组成的评审团选出了入围作品。"
+                "x": "Singh说：“在整个技术演进过程中，创作过程始终完全由人主导。”影片音乐全部由人创作，配音和旁白均由演员在录音棚录制。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cinco películas de Google Flow\nse proyectan en IFFI Goa",
-          "body": "Cinco películas hechas con Google Flow salieron de más de 850 inscripciones al primer AI Filmathon de WIF India.",
-          "mini_headline": "Películas de Google Flow en IFFI Goa",
+          "headline": "El filme AI Maharaja in Denims\nse estrenará en abril de 2027",
+          "body": "La adaptación AI de la novela de Khushwant Singh, de más de $500,000, se hizo tres veces, según sus creadores.",
+          "mini_headline": "Maharaja in Denims llega en 2027",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Google-AI.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "Cinco películas realizadas con Google Flow, un espacio de trabajo creativo con IA de Google, son finalistas del primer WIF India x Google Flow Filmathon y se proyectarán en el Festival Internacional de Cine de la India (IFFI) en Goa. Mujeres realizaron tres de las cinco películas seleccionadas."
+                "x": "“Maharaja in Denims”, la novela de Khushwant Singh sobre un joven que revive la vida del gobernante sij del siglo 19 Maharaja Ranjit Singh, está cerca de completarse como largometraje de AI generativa, una película que, según sus creadores, en la práctica tuvieron que hacer tres veces. El equipo espera estrenarla en abril de 2027, a tiempo para Baisakhi; la dirige Balpreet Kaur."
               },
               {
                 "t": "p",
-                "x": "La convocatoria abierta atrajo más de 850 inscripciones: el 60% de ciudades Tier 1, el 30% de Tier 2 y el 10% de Tier 3."
+                "x": "La producción comenzó en 2024 con Midjourney y Runway, pasó a Google Veo, con Nano Banana a cargo de las imágenes fijas, y luego atravesó Kling AI y Seedance 2.0 antes de cerrarse con herramientas disponibles en Higgsfield. Nano Banana resultó ser el punto de inflexión. El equipo rehízo las imágenes fijas de toda la película tres veces antes de fijar un estilo."
               },
               {
                 "t": "p",
-                "x": "Las finalistas: “Bombay Mumbai – Vada Pav”, de Aswathi Naduthodi, y la comedia negra en tamil “Kuli”, de Syam Manohar, desde Kerala; el folk horror en hindi “Sikkal”, de Promita Banerjee, desde Port Blair; la animación “Pedals of Joy”, de Nikhil Shinde; y la animación sin diálogos “Nazar”, de Srishti Chaudhary, cuyas hojas de personaje y storyboards se diseñaron dentro de Google Flow."
+                "x": "Singh dice que la nueva tecnología suele reducir los costos a una décima parte, pero el equipo rehízo cerca de una hora de la película tres veces a medida que mejoraban las herramientas. Él calcula el costo en más de $500,000, sin incluir el marketing."
               },
               {
                 "t": "p",
-                "x": "“No debería hacer falta una cámara cara, una red de contactos en la industria ni siquiera una formación cinematográfica formal para tener voz en el cine”, dijo Rabia Chopra, directora de programas y desarrollo de WIF India. Un jurado de siete miembros, entre ellos Shakun Batra y Pan Nalin, eligió a las finalistas."
+                "x": "“A lo largo de esta evolución tecnológica, el proceso creativo ha estado enteramente dirigido por humanos”, dice Singh. La música es totalmente hecha por humanos, y el doblaje y la narración se grabaron con actores en el estudio."
               }
             ]
           }
@@ -1299,121 +1259,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google Flow 영화\n다섯 편 IFFI서 상영",
-          "body": "850건 넘는 등록 중 Google Flow 영화 5편이 WIF 결선에 올랐다.",
-          "mini_headline": "IFFI Goa에 간 Google Flow 영화",
+          "headline": "AI 영화 Maharaja\n2027년 사월 개봉",
+          "body": "$500,000 넘게 들인 Singh 원작 AI 영화는 사실상 세 번 만들어졌다.",
+          "mini_headline": "Maharaja in Denims, 2027년 개봉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Google-AI.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "Google의 AI 크리에이티브 작업 공간인 Google Flow로 만든 영화 다섯 편이 첫 WIF India x Google Flow Filmathon 결선에 올랐고, Goa에서 열리는 인도국제영화제(IFFI)에서 상영된다. 선정작 다섯 편 중 세 편은 여성이 만들었다."
+                "x": "19세기 시크교 통치자 Maharaja Ranjit Singh의 삶을 다시 사는 청년을 그린 Khushwant Singh의 소설 “Maharaja in Denims”가 장편 생성형 AI 영화로 완성을 앞두고 있다. 제작진은 사실상 세 번 만든 영화라고 말한다. 팀은 Baisakhi에 맞춰 2027년 사월까지 개봉하기를 바라며, 연출은 Balpreet Kaur가 맡았다."
               },
               {
                 "t": "p",
-                "x": "공모에는 850건이 넘는 등록이 몰렸다. 60%는 Tier 1 도시, 30%는 Tier 2, 10%는 Tier 3 도시에서 나왔다."
+                "x": "제작은 2024년 Midjourney와 Runway로 시작해 Google Veo로 옮겨 갔고, 스틸 이미지는 Nano Banana가 맡았다. 이후 Kling AI와 Seedance 2.0을 거쳐 Higgsfield에서 쓸 수 있는 도구로 마무리했다. 전환점은 Nano Banana였다. 팀은 룩을 확정하기 전까지 영화 전체의 스틸을 세 번 다시 만들었다."
               },
               {
                 "t": "p",
-                "x": "결선작은 다음과 같다. Kerala 출신 Aswathi Naduthodi의 “Bombay Mumbai – Vada Pav”와 Syam Manohar의 타밀어 블랙코미디 “Kuli”, Port Blair 출신 Promita Banerjee의 힌디어 포크 호러 “Sikkal”, Nikhil Shinde의 애니메이션 “Pedals of Joy”, 그리고 Srishti Chaudhary의 대사 없는 애니메이션 “Nazar”다. “Nazar”의 캐릭터 시트와 스토리보드는 Google Flow 안에서 디자인됐다."
+                "x": "Singh은 새 기술이 보통 비용을 십분의 일 수준으로 줄여 주지만, 도구가 좋아지면서 영화의 한 시간 가까운 분량을 세 번 다시 작업했다고 말한다. 그는 마케팅을 빼고도 비용이 $500,000를 넘는다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "WIF India의 프로그램·개발 디렉터 Rabia Chopra는 “영화에서 목소리를 내는 데 값비싼 카메라나 업계 인맥, 심지어 정식 영화 교육 배경도 필요하지 않아야 한다”고 말했다. Shakun Batra와 Pan Nalin을 포함한 일곱 명의 심사위원단이 결선작을 골랐다."
+                "x": "Singh은 “이 모든 기술적 진화 속에서도 창작 과정은 전적으로 사람이 이끌었다”고 말한다. 음악은 모두 사람이 만들었고, 더빙과 내레이션은 스튜디오에서 배우들과 녹음했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Flow映画\n5本がIFFIで上映",
-          "body": "Google Flow製の5本が850件超の登録からAI Filmathonで選ばれた。",
-          "mini_headline": "IFFI GoaでGoogle Flow映画上映",
+          "headline": "AI映画Maharaja\n2027年四月公開へ",
+          "body": "Khushwant Singh原作のAI映画は$500,000 超を投じ、三度作り直した。",
+          "mini_headline": "Maharaja in Denims、2027年公開へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Google-AI.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "GoogleのAIクリエイティブワークスペース「Google Flow」で制作された5本の映画が、第1回WIF India x Google Flow Filmathonのファイナリストとなり、Goaで開かれるインド国際映画祭(IFFI)で上映される。選ばれた5本のうち3本は女性の作品だ。"
+                "x": "19世紀のシク教徒の君主Maharaja Ranjit Singhの生涯を追体験する青年を描いたKhushwant Singhの小説「Maharaja in Denims」が、長編の生成AI映画として完成間近だ。制作陣によれば、事実上三度作ったという。チームはBaisakhiに合わせ2027年四月までの公開を目指しており、監督はBalpreet Kaurが務める。"
               },
               {
                 "t": "p",
-                "x": "公募には850件を超える登録があり、60%がTier 1都市、30%がTier 2、10%がTier 3からだった。"
+                "x": "制作は2024年にMidjourneyとRunwayで始まり、Google Veoに移行してスチールはNano Bananaが担った。その後Kling AIとSeedance 2.0を経て、Higgsfieldで使えるツールで仕上げた。転機となったのはNano Bananaだ。チームはルックを固めるまでに、映画全体のスチールを三度作り直した。"
               },
               {
                 "t": "p",
-                "x": "ファイナリストは以下の通り。Kerala出身のAswathi Naduthodiによる「Bombay Mumbai – Vada Pav」とSyam Manoharのタミル語ブラックコメディ「Kuli」、Port Blair出身のPromita Banerjeeによるヒンディー語フォークホラー「Sikkal」、Nikhil Shindeのアニメーション「Pedals of Joy」、そしてSrishti Chaudharyの台詞のないアニメーション「Nazar」。「Nazar」のキャラクターシートと絵コンテはGoogle Flow内でデザインされた。"
+                "x": "Singhによれば、新技術は通常コストを十分の一程度に抑えるが、ツールの進化に合わせて映画の一時間近い部分を三度やり直したという。マーケティング費を除いても、コストは$500,000 を超えると見積もる。"
               },
               {
                 "t": "p",
-                "x": "「高価なカメラも業界の人脈も、正式な映画制作の経歴さえなくても、映画の世界で声を上げられるべきだ」と、WIF Indiaのプログラム・開発ディレクター、Rabia Chopraは述べた。ファイナリストはShakun BatraやPan Nalinを含む7人の審査員が選んだ。"
+                "x": "「この技術的進化の間も、創作プロセスは完全に人間が主導してきた」とSinghは語る。音楽はすべて人の手によるもので、吹き替えとナレーションはスタジオで俳優とともに収録した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Flow影片\n五部亮相IFFI果阿",
-          "body": "五部Google Flow影片从逾850份报名中入选WIF首届AI电影马拉松。",
-          "mini_headline": "Google Flow影片亮相IFFI",
+          "headline": "AI电影Maharaja\n定于2027年四月上映",
+          "body": "Khushwant Singh小说改编的AI电影耗资逾$500,000，片方称拍了三遍。",
+          "mini_headline": "Maharaja in Denims定档2027年",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Google-AI.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "五部使用Google旗下AI创意工作空间Google Flow制作的影片入围首届WIF India x Google Flow Filmathon决赛，并将在果阿（Goa）举行的印度国际电影节（IFFI）上放映。五部入选作品中有三部由女性创作。"
+                "x": "Khushwant Singh的小说《Maharaja in Denims》讲述一名年轻人重历19世纪锡克统治者Maharaja Ranjit Singh一生的故事，其长篇生成式AI电影版即将完成——片方称，这部片实际上拍了三遍。团队希望赶在Baisakhi节、于2027年四月前上映，导演为Balpreet Kaur。"
               },
               {
                 "t": "p",
-                "x": "此次公开征集共收到850多份报名：60%来自Tier 1城市，30%来自Tier 2，10%来自Tier 3。"
+                "x": "该片于2024年开始用Midjourney和Runway制作，后转向Google Veo，由Nano Banana负责静帧，之后又历经Kling AI和Seedance 2.0，最终在Higgsfield提供的工具上收尾。Nano Banana成为转折点。团队在确定视觉风格前，把全片静帧重做了三遍。"
               },
               {
                 "t": "p",
-                "x": "入围作品包括：来自Kerala的Aswathi Naduthodi的《Bombay Mumbai – Vada Pav》和Syam Manohar的泰米尔语黑色喜剧《Kuli》；来自Port Blair的Promita Banerjee的印地语民俗恐怖片《Sikkal》；Nikhil Shinde的动画《Pedals of Joy》；以及Srishti Chaudhary的无对白动画《Nazar》，其角色设定表和分镜均在Google Flow中设计完成。"
+                "x": "Singh说，新技术通常能把成本降到十分之一左右，但随着工具进步，团队把影片近一小时的内容重做了三遍。他估计，不计营销费用，成本超过$500,000。"
               },
               {
                 "t": "p",
-                "x": "“在电影中发声，不应需要昂贵的摄影机、行业人脉，甚至正规的电影制作背景，”WIF India项目与发展总监Rabia Chopra说。由Shakun Batra和Pan Nalin等七人组成的评审团选出了入围作品。"
+                "x": "Singh说：“在整个技术演进过程中，创作过程始终完全由人主导。”影片音乐全部由人创作，配音和旁白均由演员在录音棚录制。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cinco películas de Google Flow\nse proyectan en IFFI Goa",
-          "body": "Cinco películas hechas con Google Flow salieron de más de 850 inscripciones al primer AI Filmathon de WIF India.",
-          "mini_headline": "Películas de Google Flow en IFFI Goa",
+          "headline": "El filme AI Maharaja in Denims\nse estrenará en abril de 2027",
+          "body": "La adaptación AI de la novela de Khushwant Singh, de más de $500,000, se hizo tres veces, según sus creadores.",
+          "mini_headline": "Maharaja in Denims llega en 2027",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Google-AI.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "Cinco películas realizadas con Google Flow, un espacio de trabajo creativo con IA de Google, son finalistas del primer WIF India x Google Flow Filmathon y se proyectarán en el Festival Internacional de Cine de la India (IFFI) en Goa. Mujeres realizaron tres de las cinco películas seleccionadas."
+                "x": "“Maharaja in Denims”, la novela de Khushwant Singh sobre un joven que revive la vida del gobernante sij del siglo 19 Maharaja Ranjit Singh, está cerca de completarse como largometraje de AI generativa, una película que, según sus creadores, en la práctica tuvieron que hacer tres veces. El equipo espera estrenarla en abril de 2027, a tiempo para Baisakhi; la dirige Balpreet Kaur."
               },
               {
                 "t": "p",
-                "x": "La convocatoria abierta atrajo más de 850 inscripciones: el 60% de ciudades Tier 1, el 30% de Tier 2 y el 10% de Tier 3."
+                "x": "La producción comenzó en 2024 con Midjourney y Runway, pasó a Google Veo, con Nano Banana a cargo de las imágenes fijas, y luego atravesó Kling AI y Seedance 2.0 antes de cerrarse con herramientas disponibles en Higgsfield. Nano Banana resultó ser el punto de inflexión. El equipo rehízo las imágenes fijas de toda la película tres veces antes de fijar un estilo."
               },
               {
                 "t": "p",
-                "x": "Las finalistas: “Bombay Mumbai – Vada Pav”, de Aswathi Naduthodi, y la comedia negra en tamil “Kuli”, de Syam Manohar, desde Kerala; el folk horror en hindi “Sikkal”, de Promita Banerjee, desde Port Blair; la animación “Pedals of Joy”, de Nikhil Shinde; y la animación sin diálogos “Nazar”, de Srishti Chaudhary, cuyas hojas de personaje y storyboards se diseñaron dentro de Google Flow."
+                "x": "Singh dice que la nueva tecnología suele reducir los costos a una décima parte, pero el equipo rehízo cerca de una hora de la película tres veces a medida que mejoraban las herramientas. Él calcula el costo en más de $500,000, sin incluir el marketing."
               },
               {
                 "t": "p",
-                "x": "“No debería hacer falta una cámara cara, una red de contactos en la industria ni siquiera una formación cinematográfica formal para tener voz en el cine”, dijo Rabia Chopra, directora de programas y desarrollo de WIF India. Un jurado de siete miembros, entre ellos Shakun Batra y Pan Nalin, eligió a las finalistas."
+                "x": "“A lo largo de esta evolución tecnológica, el proceso creativo ha estado enteramente dirigido por humanos”, dice Singh. La música es totalmente hecha por humanos, y el doblaje y la narración se grabaron con actores en el estudio."
               }
             ]
           }
@@ -1421,371 +1381,401 @@
       }
     },
     {
-      "id": "idfa-transparent-ai-tools",
-      "source_lang": "en",
+      "id": "ebs-genai-animation-slot",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "유럽, 창작자 위한\n투명한 AI 도구 구상",
-      "body": "AI 사용 공개를 처음 요구한 IDFA에서 유럽 투명 AI 도구 계획이 나왔다.",
-      "mini_headline": "유럽의 투명한 AI 도구 계획",
+      "headline": "EBS, 생성형 AI\n애니메이션 5편 내달 방영",
+      "body": "EBS가 429편 중 고른 AI 애니메이션 5편을 12월 1일부터 방영한다.",
+      "mini_headline": "EBS AI 애니 5편 방영",
       "tool": "Movies",
-      "source": "Screen Daily",
-      "url": "https://www.screendaily.com/features/doc-filmmakers-talk-using-ai-as-european-plans-for-creating-transparent-ai-tools-revealed/5222628.article",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261125087600005",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/3/7/1492737_morrograndestill_469790_crop.jpg",
-            "cap": "‘Morro Grande’ (출처: IDFA/ Coevos Filmes)"
+            "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+            "cap": "EBS AI 애니메이션 공모전 수상작"
           },
           {
             "t": "p",
-            "x": "브라질 감독 Rita Toledo와 Isabel Joffily는 현지 아마추어 사진가의 허락을 받아 그의 아카이브 이미지를 AI 프로그램에 넣고, IDFA 국제 경쟁 부문에서 상영된 Morro Grande에 쓸 새 이미지를 만들었다. Joffily는 “우리는 AI로 우리의 혁명적 순간을 만들었다”고 말했다. 이 이미지들은 AI로 생성된(AI-generated) 티가 뚜렷하지 않은 데다 영화에 고지 문구도 없다."
+            "x": "생성형 인공지능(AI) 기술을 접목한 창작 애니메이션 5편이 안방극장을 찾는다."
           },
           {
             "t": "p",
-            "x": "IDFA는 올해 처음으로 감독들에게 출품 신청서에 AI 사용(AI-use) 여부를 분명히 밝히게 했다. Toledo와 Joffily는 단서를 달아 이를 신고했다."
-          },
-          {
-            "t": "img",
-            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/780xAny/7/3/0/1492730_therecce_287543.jpeg",
-            "cap": "‘The Recce’ (출처: IDFA/Daniel Mann)"
+            "x": "EBS는 '2026년 EBS 생성형 AI 애니메이션 시리즈 공동제작 프로젝트'를 통해 선정한 작품 5편을 다음 달 1일부터 EBS 1TV에서 순차 방영한다."
           },
           {
             "t": "p",
-            "x": "Daniel Mann은 The Recce에서 1904년 우간다 측량 조사의 문서 기록을 프롬프트로 AI에 묘사하게 했지만 이 사실을 공개하지 않았다. “누가 봐도 AI다… 나는 슬롭을 원했다.”"
+            "x": "총 429편의 출품작 가운데 선발된 이번 선정작들은 생성형 AI 기술에 스톱모션(물체의 움직임을 고정해 촬영하고 연속되는 다음 동작을 같은 방법으로 찍어 움직이는 영상을 만드는 기법), 3D 등 다양한 연출 기법을 결합해 제작됐다."
           },
           {
             "t": "p",
-            "x": "노르웨이과학기술대학교의 Michaela Pňaček(ová)는 창작·문화 작업용 공정하고 투명한 AI 도구를 만드는 EU 지원(EU-funded) 파트너십을 소개했다. 파트너 아홉 곳이 참여한다. 그는 “우리는 OpenAI와 경쟁할 수 있는 프로젝트가 아니다”라면서도, 권리 관계가 분명한 소규모 EU 주권 데이터로 “매우 투명하고 문서화되고 재학습된 모델” 위에 도구를 만들겠다고 말했다. 프로젝트는 지금 첫해 연구 단계다."
+            "x": "EBS는 매주 화~목요일 오후 5시 20분부터 5시 50분까지를 'AI 애니메이션 특별 편성 시간대'로 정해 해당 작품들을 배치한다."
+          },
+          {
+            "t": "p",
+            "x": "다음 달 1일에는 뮤지컬 동화 '코코니니 동화탐험대'와 외로운 소년이 AI 디바이스를 통해 감정을 배워가는 성장물 '밤이 들려주는 이야기'가 처음 방송된다."
+          },
+          {
+            "t": "p",
+            "x": "이어 2일에는 코믹 판타지 '유포리아 퀘스트'와 고양이 책방 주인의 일상을 그린 '고양이서점 모노북스'가 첫 방송 된다. 또 다른 선정작 '노란 양말 포포'는 내년 3월 방영될 예정이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Europe plans transparent\nAI tools for creatives",
-          "body": "At IDFA's first edition to require AI-use disclosure, European plans for transparent AI tools were presented.",
-          "mini_headline": "Europe plans\ntransparent AI tools",
+        "ko": {
+          "headline": "EBS, 생성형 AI\n애니메이션 5편 내달 방영",
+          "body": "EBS가 429편 중 고른 AI 애니메이션 5편을 12월 1일부터 방영한다.",
+          "mini_headline": "EBS AI 애니 5편 방영",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/3/7/1492737_morrograndestill_469790_crop.jpg",
-                "cap": "‘Morro Grande’ (Source: IDFA/ Coevos Filmes)"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+                "cap": "EBS AI 애니메이션 공모전 수상작"
               },
               {
                 "t": "p",
-                "x": "Brazilian filmmakers Rita Toledo and Isabel Joffily fed a local amateur photographer’s archive images, with his permission, into an AI programme to create new images for Morro Grande, which played in IDFA’s International competition. “We used AI to make our revolutionary moment,” said Joffily. The images are not clearly AI-generated, and the film carries no disclaimer."
+                "x": "생성형 인공지능(AI) 기술을 접목한 창작 애니메이션 5편이 안방극장을 찾는다."
               },
               {
                 "t": "p",
-                "x": "This year is the first edition of IDFA that has required filmmakers to make clear in their applications if AI was used. Toledo and Joffily declared it, with reservations."
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/780xAny/7/3/0/1492730_therecce_287543.jpeg",
-                "cap": "‘The Recce’ (Source: IDFA/Daniel Mann)"
+                "x": "EBS는 '2026년 EBS 생성형 AI 애니메이션 시리즈 공동제작 프로젝트'를 통해 선정한 작품 5편을 다음 달 1일부터 EBS 1TV에서 순차 방영한다."
               },
               {
                 "t": "p",
-                "x": "Daniel Mann prompted AI to depict written records from a 1904 survey of Uganda for The Recce, and didn’t disclose it: “It’s so overtly AI… I was looking for slop.”"
+                "x": "총 429편의 출품작 가운데 선발된 이번 선정작들은 생성형 AI 기술에 스톱모션(물체의 움직임을 고정해 촬영하고 연속되는 다음 동작을 같은 방법으로 찍어 움직이는 영상을 만드는 기법), 3D 등 다양한 연출 기법을 결합해 제작됐다."
               },
               {
                 "t": "p",
-                "x": "Michaela Pňaček(ová) of the Norwegian University of Science and Technology presented an EU-funded partnership of nine partners building fair and transparent AI tools for creative and cultural work. “We’re not a project that can compete with OpenAI,” she said, but it will build tools on “very transparent, documented, retrained models” with small-scale EU sovereign clear-rights data. The project is in its year one research phase."
+                "x": "EBS는 매주 화~목요일 오후 5시 20분부터 5시 50분까지를 'AI 애니메이션 특별 편성 시간대'로 정해 해당 작품들을 배치한다."
+              },
+              {
+                "t": "p",
+                "x": "다음 달 1일에는 뮤지컬 동화 '코코니니 동화탐험대'와 외로운 소년이 AI 디바이스를 통해 감정을 배워가는 성장물 '밤이 들려주는 이야기'가 처음 방송된다."
+              },
+              {
+                "t": "p",
+                "x": "이어 2일에는 코믹 판타지 '유포리아 퀘스트'와 고양이 책방 주인의 일상을 그린 '고양이서점 모노북스'가 첫 방송 된다. 또 다른 선정작 '노란 양말 포포'는 내년 3월 방영될 예정이다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "유럽, 창작자 위한\n투명한 AI 도구 구상",
-          "body": "AI 사용 공개를 처음 요구한 IDFA에서 유럽 투명 AI 도구 계획이 나왔다.",
-          "mini_headline": "유럽의 투명한 AI 도구 계획",
+        "en": {
+          "headline": "EBS to air 5 generative AI\nanimations next month",
+          "body": "EBS will air 5 generative AI animations, selected from 429 entries, starting Dec. 1.",
+          "mini_headline": "EBS to air 5 AI animations",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/3/7/1492737_morrograndestill_469790_crop.jpg",
-                "cap": "‘Morro Grande’ (출처: IDFA/ Coevos Filmes)"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+                "cap": "Winning entries from the EBS AI animation contest"
               },
               {
                 "t": "p",
-                "x": "브라질 감독 Rita Toledo와 Isabel Joffily는 현지 아마추어 사진가의 허락을 받아 그의 아카이브 이미지를 AI 프로그램에 넣고, IDFA 국제 경쟁 부문에서 상영된 Morro Grande에 쓸 새 이미지를 만들었다. Joffily는 “우리는 AI로 우리의 혁명적 순간을 만들었다”고 말했다. 이 이미지들은 AI로 생성된(AI-generated) 티가 뚜렷하지 않은 데다 영화에 고지 문구도 없다."
+                "x": "5 original animations that incorporate generative artificial intelligence (AI) technology are coming to home screens."
               },
               {
                 "t": "p",
-                "x": "IDFA는 올해 처음으로 감독들에게 출품 신청서에 AI 사용(AI-use) 여부를 분명히 밝히게 했다. Toledo와 Joffily는 단서를 달아 이를 신고했다."
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/780xAny/7/3/0/1492730_therecce_287543.jpeg",
-                "cap": "‘The Recce’ (출처: IDFA/Daniel Mann)"
+                "x": "EBS will air the 5 works selected through its '2026 EBS Generative AI Animation Series Co-production Project' in sequence on EBS 1TV from the 1st of next month."
               },
               {
                 "t": "p",
-                "x": "Daniel Mann은 The Recce에서 1904년 우간다 측량 조사의 문서 기록을 프롬프트로 AI에 묘사하게 했지만 이 사실을 공개하지 않았다. “누가 봐도 AI다… 나는 슬롭을 원했다.”"
+                "x": "Chosen from a total of 429 entries, the selected works combine generative AI technology with a range of directing techniques, including stop-motion (a technique that films an object in a fixed pose, then shoots each successive movement the same way to create moving footage) and 3D."
               },
               {
                 "t": "p",
-                "x": "노르웨이과학기술대학교의 Michaela Pňaček(ová)는 창작·문화 작업용 공정하고 투명한 AI 도구를 만드는 EU 지원(EU-funded) 파트너십을 소개했다. 파트너 아홉 곳이 참여한다. 그는 “우리는 OpenAI와 경쟁할 수 있는 프로젝트가 아니다”라면서도, 권리 관계가 분명한 소규모 EU 주권 데이터로 “매우 투명하고 문서화되고 재학습된 모델” 위에 도구를 만들겠다고 말했다. 프로젝트는 지금 첫해 연구 단계다."
+                "x": "EBS has designated 5:20 p.m. to 5:50 p.m. every Tuesday through Thursday as a 'special AI animation programming slot' for the works."
+              },
+              {
+                "t": "p",
+                "x": "On the 1st of next month, the musical fairy tale 'Kokonini Fairy Tale Expedition' will premiere along with 'The Story the Night Tells', a coming-of-age story about a lonely boy who learns emotions through an AI device."
+              },
+              {
+                "t": "p",
+                "x": "On the 2nd, the comic fantasy 'Euphoria Quest' and 'Cat Bookstore Monobooks', about the daily life of a cat who runs a bookshop, will premiere. Another selected work, 'Popo the Yellow Socks', is scheduled to air in March next year."
               }
             ]
           }
         },
         "ja": {
-          "headline": "欧州、創作者向けの\n透明なAIツール構想",
-          "body": "AI使用の開示を初めて義務づけたIDFAで、欧州の透明なAIツール計画が示された。",
-          "mini_headline": "欧州の透明なAIツール計画",
+          "headline": "EBS、生成AIアニメ\n5作品を来月放送",
+          "body": "EBSは応募429作から選んだAIアニメ5作品を12月1日から放送する。",
+          "mini_headline": "EBS、AIアニメ5作品を放送",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/3/7/1492737_morrograndestill_469790_crop.jpg",
-                "cap": "『Morro Grande』(出典:IDFA/ Coevos Filmes)"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+                "cap": "EBS AIアニメーション公募展の受賞作"
               },
               {
                 "t": "p",
-                "x": "ブラジルの映画作家Rita ToledoとIsabel Joffilyは、地元のアマチュア写真家のアーカイブ画像を本人の許可を得てAIプログラムに読み込ませ、IDFAのインターナショナル・コンペティションで上映された『Morro Grande』のために新たな画像を作った。「AIを使って私たちの革命的な瞬間をつくった」とJoffilyは語った。画像はAI生成(AI-generated)とははっきり分からず、映画には但し書きもない。"
+                "x": "生成人工知能（AI）技術を取り入れた創作アニメーション5作品がお茶の間に届く。"
               },
               {
                 "t": "p",
-                "x": "今年は、IDFAが応募書類でAI使用(AI-use)の有無を明記するよう映画作家に求めた初めての回となった。ToledoとJoffilyは留保付きで申告した。"
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/780xAny/7/3/0/1492730_therecce_287543.jpeg",
-                "cap": "『The Recce』(出典:IDFA/Daniel Mann)"
+                "x": "EBSは「2026年EBS生成AIアニメーションシリーズ共同制作プロジェクト」を通じて選んだ5作品を、来月1日からEBS 1TVで順次放送する。"
               },
               {
                 "t": "p",
-                "x": "Daniel Mannは『The Recce』で、1904年のウガンダ測量調査の文書記録をAIにプロンプトで描写させたが、それを開示しなかった。「あからさまにAIだ…私はスロップを求めていた」"
+                "x": "応募総数429作品の中から選ばれた今回の作品は、生成AI技術にストップモーション（物体の動きを固定して撮影し、続く動作を同じ方法で撮って動く映像を作る技法）や3Dなど、多様な演出技法を組み合わせて制作された。"
               },
               {
                 "t": "p",
-                "x": "ノルウェー科学技術大学のMichaela Pňaček(ová)は、創作・文化分野向けに公正で透明なAIツールを開発する、9つのパートナーによるEU資金(EU-funded)のパートナーシップを紹介した。「私たちはOpenAIと競えるプロジェクトではない」としつつ、権利関係が明確な小規模のEU主権データを用い、「非常に透明で、文書化され、再学習されたモデル」を基盤にツールを構築するという。プロジェクトは1年目の研究段階にある。"
+                "x": "EBSは毎週火～木曜の午後5時20分から5時50分までを「AIアニメーション特別編成枠」とし、これらの作品を編成する。"
+              },
+              {
+                "t": "p",
+                "x": "来月1日には、ミュージカル童話『ココニーニ童話探検隊』と、孤独な少年がAIデバイスを通じて感情を学んでいく成長物語『夜が聞かせてくれる物語』が初放送される。"
+              },
+              {
+                "t": "p",
+                "x": "続いて2日には、コミックファンタジー『ユーフォリア・クエスト』と、猫の書店主の日常を描いた『猫書店モノブックス』が初放送される。もう一つの選定作『黄色い靴下ポポ』は来年3月に放送される予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "欧洲拟为创作者打造\n透明的AI工具",
-          "body": "在首次要求披露AI使用情况的IDFA上，欧洲介绍了透明AI工具计划。",
-          "mini_headline": "欧洲的透明AI工具计划",
+          "headline": "EBS：5部生成式AI\n动画下月开播",
+          "body": "EBS从429部投稿中选出5部AI动画，将于12月1日起播出。",
+          "mini_headline": "EBS将播出5部AI动画",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/3/7/1492737_morrograndestill_469790_crop.jpg",
-                "cap": "《Morro Grande》（来源：IDFA/ Coevos Filmes）"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+                "cap": "EBS AI动画大赛获奖作品"
               },
               {
                 "t": "p",
-                "x": "巴西电影人Rita Toledo和Isabel Joffily在征得一位当地业余摄影师同意后，将他的档案图像输入AI程序，为在IDFA国际竞赛单元放映的《Morro Grande》生成新图像。“我们用AI创造了我们的革命时刻，”Joffily说。这些图像并不明显是AI生成（AI-generated）的，影片也没有附带任何免责声明。"
+                "x": "5部融合生成式人工智能（AI）技术的原创动画即将登上电视荧屏。"
               },
               {
                 "t": "p",
-                "x": "今年是IDFA首次要求电影人在申请中明确说明是否使用AI（AI-use）。Toledo和Joffily有所保留地作了申报。"
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/780xAny/7/3/0/1492730_therecce_287543.jpeg",
-                "cap": "《The Recce》（来源：IDFA/Daniel Mann）"
+                "x": "EBS将从下月1日起，在EBS 1TV陆续播出通过“2026年EBS生成式AI动画系列联合制作项目”选出的5部作品。"
               },
               {
                 "t": "p",
-                "x": "Daniel Mann在《The Recce》中用提示词让AI描绘1904年乌干达一次勘测的文字记录，并且没有披露：“它的AI痕迹太明显了……我要的就是粗劣内容（slop）。”"
+                "x": "此次入选作品从总计429部参赛作品中脱颖而出，在生成式AI技术基础上结合了定格动画（将物体的动作固定拍摄，再以同样方法拍摄后续连续动作，从而制作出动态影像的技法）、3D等多种表现手法。"
               },
               {
                 "t": "p",
-                "x": "挪威科技大学的Michaela Pňaček(ová)介绍了一个由欧盟资助（EU-funded）、共有九个合作方的伙伴项目，致力于为创意和文化工作打造公平、透明的AI工具。“我们不是一个能与OpenAI竞争的项目，”她说，但项目将基于小规模、权利清晰的EU主权数据，在“高度透明、有文档记录、经过重新训练的模型”之上构建工具。该项目目前处于第一年的研究阶段。"
+                "x": "EBS将每周二至周四下午5时20分至5时50分定为“AI动画特别编排时段”，安排播出上述作品。"
+              },
+              {
+                "t": "p",
+                "x": "下月1日将首播音乐童话《可可尼尼童话探险队》，以及讲述孤独少年通过AI设备学习情感的成长故事《夜晚讲述的故事》。"
+              },
+              {
+                "t": "p",
+                "x": "2日将接着首播喜剧奇幻作品《Euphoria Quest》和描绘猫咪书店店主日常的《猫咪书店Monobooks》。另一部入选作品《黄袜子波波》预计明年3月播出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Europa planea herramientas de\nIA transparentes para creativos",
-          "body": "En la primera edición de IDFA que exigió declarar el uso de IA se presentaron planes europeos de IA transparente.",
-          "mini_headline": "Europa planea herramientas de IA transparentes",
+          "headline": "EBS emitirá 5 animaciones\nde AI generativa el próximo mes",
+          "body": "EBS emitirá desde el 1 de diciembre 5 animaciones AI elegidas entre 429 obras presentadas.",
+          "mini_headline": "EBS emitirá 5 animaciones de AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/3/7/1492737_morrograndestill_469790_crop.jpg",
-                "cap": "‘Morro Grande’ (Fuente: IDFA/ Coevos Filmes)"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+                "cap": "Obras ganadoras del concurso de animación AI de EBS"
               },
               {
                 "t": "p",
-                "x": "Las cineastas brasileñas Rita Toledo e Isabel Joffily introdujeron, con su permiso, imágenes de archivo de un fotógrafo aficionado local en un programa de IA para crear nuevas imágenes para Morro Grande, que se proyectó en la competición Internacional de IDFA. “Usamos la IA para crear nuestro momento revolucionario”, dijo Joffily. Las imágenes no se perciben claramente como generadas por IA (AI-generated) y la película no incluye ningún aviso."
+                "x": "5 animaciones originales que incorporan tecnología de inteligencia artificial (AI) generativa llegan a la televisión."
               },
               {
                 "t": "p",
-                "x": "Este año es la primera edición de IDFA que exige a los cineastas indicar con claridad en sus solicitudes si usaron IA (AI-use). Toledo y Joffily lo declararon, con reservas."
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/780xAny/7/3/0/1492730_therecce_287543.jpeg",
-                "cap": "‘The Recce’ (Fuente: IDFA/Daniel Mann)"
+                "x": "EBS emitirá de forma escalonada en EBS 1TV, a partir del día 1 del próximo mes, las 5 obras seleccionadas mediante el 'Proyecto de coproducción de series de animación con AI generativa de EBS 2026'."
               },
               {
                 "t": "p",
-                "x": "Daniel Mann pidió a la IA, mediante prompts, que representara registros escritos de un estudio topográfico de Uganda de 1904 para The Recce, y no lo declaró: “Es tan descaradamente IA… Buscaba slop”."
+                "x": "Elegidas entre un total de 429 obras presentadas, las seleccionadas combinan la tecnología de AI generativa con diversas técnicas de dirección, como el stop motion (técnica que fotografía un objeto en una posición fija y capta del mismo modo cada movimiento sucesivo para crear imágenes en movimiento) y el 3D."
               },
               {
                 "t": "p",
-                "x": "Michaela Pňaček(ová), de la Universidad Noruega de Ciencia y Tecnología, presentó una alianza financiada por la UE (EU-funded) con nueve socios que desarrolla herramientas de IA justas y transparentes para el trabajo creativo y cultural. “No somos un proyecto que pueda competir con OpenAI”, dijo, pero creará herramientas sobre “modelos muy transparentes, documentados y reentrenados” con datos soberanos de la UE a pequeña escala y con derechos claros. El proyecto está en su fase de investigación del primer año."
+                "x": "EBS ha fijado la franja de martes a jueves, de 5:20 a 5:50 de la tarde, como 'franja especial de animación AI' para programar estas obras."
+              },
+              {
+                "t": "p",
+                "x": "El día 1 del próximo mes se estrenarán el cuento musical 'Kokonini, expedición de cuentos' y 'La historia que cuenta la noche', un relato de crecimiento sobre un niño solitario que aprende emociones a través de un dispositivo AI."
+              },
+              {
+                "t": "p",
+                "x": "Después, el día 2 se estrenarán la fantasía cómica 'Euphoria Quest' y 'Monobooks, la librería de los gatos', sobre la vida diaria del gato dueño de una librería. Otra obra seleccionada, 'Popo, el calcetín amarillo', se emitirá en marzo del próximo año."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "유럽, 창작자 위한\n투명한 AI 도구 구상",
-          "body": "AI 사용 공개를 처음 요구한 IDFA에서 유럽 투명 AI 도구 계획이 나왔다.",
-          "mini_headline": "유럽의 투명한 AI 도구 계획",
+        "en": {
+          "headline": "EBS to air 5 generative AI\nanimations next month",
+          "body": "EBS will air 5 generative AI animations, selected from 429 entries, starting Dec. 1.",
+          "mini_headline": "EBS to air 5 AI animations",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/3/7/1492737_morrograndestill_469790_crop.jpg",
-                "cap": "‘Morro Grande’ (출처: IDFA/ Coevos Filmes)"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+                "cap": "Winning entries from the EBS AI animation contest"
               },
               {
                 "t": "p",
-                "x": "브라질 감독 Rita Toledo와 Isabel Joffily는 현지 아마추어 사진가의 아카이브 이미지를 그의 허락을 받아 AI 프로그램에 넣어, IDFA 국제 경쟁 부문에서 상영된 Morro Grande에 쓸 새 이미지를 만들었다. Joffily는 “우리는 AI로 우리의 혁명적 순간을 만들었다”고 말했다. 이 이미지들은 AI로 생성된(AI-generated) 것이 뚜렷하게 드러나지 않으며, 영화에는 고지 문구도 없다."
+                "x": "5 original animations that incorporate generative artificial intelligence (AI) technology are coming to home screens."
               },
               {
                 "t": "p",
-                "x": "올해 IDFA는 처음으로 감독들에게 출품 신청서에 AI 사용(AI-use) 여부를 명확히 밝히도록 요구했다. Toledo와 Joffily는 단서를 달아 이를 신고했다."
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/780xAny/7/3/0/1492730_therecce_287543.jpeg",
-                "cap": "‘The Recce’ (출처: IDFA/Daniel Mann)"
+                "x": "EBS will air the 5 works selected through its '2026 EBS Generative AI Animation Series Co-production Project' in sequence on EBS 1TV from the 1st of next month."
               },
               {
                 "t": "p",
-                "x": "Daniel Mann은 The Recce에서 1904년 우간다 측량 조사의 문서 기록을 AI에 프롬프트로 묘사하게 했고, 이를 공개하지 않았다. “누가 봐도 AI다… 나는 슬롭을 원했다.”"
+                "x": "Chosen from a total of 429 entries, the selected works combine generative AI technology with a range of directing techniques, including stop-motion (a technique that films an object in a fixed pose, then shoots each successive movement the same way to create moving footage) and 3D."
               },
               {
                 "t": "p",
-                "x": "노르웨이과학기술대학교의 Michaela Pňaček(ová)는 창작·문화 작업을 위한 공정하고 투명한 AI 도구를 만드는, 아홉 개 파트너가 참여한 EU 지원(EU-funded) 파트너십을 소개했다. 그는 “우리는 OpenAI와 경쟁할 수 있는 프로젝트가 아니다”라면서도, 권리 관계가 명확한 소규모 EU 주권 데이터로 “매우 투명하고 문서화되고 재학습된 모델” 위에 도구를 만들 것이라고 말했다. 프로젝트는 현재 첫해 연구 단계다."
+                "x": "EBS has designated 5:20 p.m. to 5:50 p.m. every Tuesday through Thursday as a 'special AI animation programming slot' for the works."
+              },
+              {
+                "t": "p",
+                "x": "On the 1st of next month, the musical fairy tale 'Kokonini Fairy Tale Expedition' will premiere along with 'The Story the Night Tells', a coming-of-age story about a lonely boy who learns emotions through an AI device."
+              },
+              {
+                "t": "p",
+                "x": "On the 2nd, the comic fantasy 'Euphoria Quest' and 'Cat Bookstore Monobooks', about the daily life of a cat who runs a bookshop, will premiere. Another selected work, 'Popo the Yellow Socks', is scheduled to air in March next year."
               }
             ]
           }
         },
         "ja": {
-          "headline": "欧州、創作者向けの\n透明なAIツール構想",
-          "body": "AI使用の開示を初めて義務づけたIDFAで、欧州の透明なAIツール計画が示された。",
-          "mini_headline": "欧州の透明なAIツール計画",
+          "headline": "EBS、生成AIアニメ\n5作品を来月放送",
+          "body": "EBSは応募429作から選んだAIアニメ5作品を12月1日から放送する。",
+          "mini_headline": "EBS、AIアニメ5作品を放送",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/3/7/1492737_morrograndestill_469790_crop.jpg",
-                "cap": "『Morro Grande』(出典:IDFA/ Coevos Filmes)"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+                "cap": "EBS AIアニメーション公募展の受賞作"
               },
               {
                 "t": "p",
-                "x": "ブラジルの映画作家Rita ToledoとIsabel Joffilyは、地元のアマチュア写真家のアーカイブ画像を本人の許可を得てAIプログラムに読み込ませ、IDFAのインターナショナル・コンペティションで上映された『Morro Grande』のために新たな画像を作った。「AIを使って私たちの革命的な瞬間をつくった」とJoffilyは語った。画像はAI生成(AI-generated)とははっきり分からず、映画には但し書きもない。"
+                "x": "生成人工知能（AI）技術を取り入れた創作アニメーション5作品がお茶の間に届く。"
               },
               {
                 "t": "p",
-                "x": "今年は、IDFAが応募書類でAI使用(AI-use)の有無を明記するよう映画作家に求めた初めての回となった。ToledoとJoffilyは留保付きで申告した。"
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/780xAny/7/3/0/1492730_therecce_287543.jpeg",
-                "cap": "『The Recce』(出典:IDFA/Daniel Mann)"
+                "x": "EBSは「2026年EBS生成AIアニメーションシリーズ共同制作プロジェクト」を通じて選んだ5作品を、来月1日からEBS 1TVで順次放送する。"
               },
               {
                 "t": "p",
-                "x": "Daniel Mannは『The Recce』で、1904年のウガンダ測量調査の文書記録をAIにプロンプトで描写させたが、それを開示しなかった。「あからさまにAIだ…私はスロップを求めていた」"
+                "x": "応募総数429作品の中から選ばれた今回の作品は、生成AI技術にストップモーション（物体の動きを固定して撮影し、続く動作を同じ方法で撮って動く映像を作る技法）や3Dなど、多様な演出技法を組み合わせて制作された。"
               },
               {
                 "t": "p",
-                "x": "ノルウェー科学技術大学のMichaela Pňaček(ová)は、創作・文化分野向けに公正で透明なAIツールを開発する、9つのパートナーによるEU資金(EU-funded)のパートナーシップを紹介した。「私たちはOpenAIと競えるプロジェクトではない」としつつ、権利関係が明確な小規模のEU主権データを用い、「非常に透明で、文書化され、再学習されたモデル」を基盤にツールを構築するという。プロジェクトは1年目の研究段階にある。"
+                "x": "EBSは毎週火～木曜の午後5時20分から5時50分までを「AIアニメーション特別編成枠」とし、これらの作品を編成する。"
+              },
+              {
+                "t": "p",
+                "x": "来月1日には、ミュージカル童話『ココニーニ童話探検隊』と、孤独な少年がAIデバイスを通じて感情を学んでいく成長物語『夜が聞かせてくれる物語』が初放送される。"
+              },
+              {
+                "t": "p",
+                "x": "続いて2日には、コミックファンタジー『ユーフォリア・クエスト』と、猫の書店主の日常を描いた『猫書店モノブックス』が初放送される。もう一つの選定作『黄色い靴下ポポ』は来年3月に放送される予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "欧洲拟为创作者打造\n透明的AI工具",
-          "body": "在首次要求披露AI使用情况的IDFA上，欧洲介绍了透明AI工具计划。",
-          "mini_headline": "欧洲的透明AI工具计划",
+          "headline": "EBS：5部生成式AI\n动画下月开播",
+          "body": "EBS从429部投稿中选出5部AI动画，将于12月1日起播出。",
+          "mini_headline": "EBS将播出5部AI动画",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/3/7/1492737_morrograndestill_469790_crop.jpg",
-                "cap": "《Morro Grande》（来源：IDFA/ Coevos Filmes）"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+                "cap": "EBS AI动画大赛获奖作品"
               },
               {
                 "t": "p",
-                "x": "巴西电影人Rita Toledo和Isabel Joffily在征得一位当地业余摄影师同意后，将他的档案图像输入AI程序，为在IDFA国际竞赛单元放映的《Morro Grande》生成新图像。“我们用AI创造了我们的革命时刻，”Joffily说。这些图像并不明显是AI生成（AI-generated）的，影片也没有附带任何免责声明。"
+                "x": "5部融合生成式人工智能（AI）技术的原创动画即将登上电视荧屏。"
               },
               {
                 "t": "p",
-                "x": "今年是IDFA首次要求电影人在申请中明确说明是否使用AI（AI-use）。Toledo和Joffily有所保留地作了申报。"
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/780xAny/7/3/0/1492730_therecce_287543.jpeg",
-                "cap": "《The Recce》（来源：IDFA/Daniel Mann）"
+                "x": "EBS将从下月1日起，在EBS 1TV陆续播出通过“2026年EBS生成式AI动画系列联合制作项目”选出的5部作品。"
               },
               {
                 "t": "p",
-                "x": "Daniel Mann在《The Recce》中用提示词让AI描绘1904年乌干达一次勘测的文字记录，并且没有披露：“它的AI痕迹太明显了……我要的就是粗劣内容（slop）。”"
+                "x": "此次入选作品从总计429部参赛作品中脱颖而出，在生成式AI技术基础上结合了定格动画（将物体的动作固定拍摄，再以同样方法拍摄后续连续动作，从而制作出动态影像的技法）、3D等多种表现手法。"
               },
               {
                 "t": "p",
-                "x": "挪威科技大学的Michaela Pňaček(ová)介绍了一个由欧盟资助（EU-funded）、共有九个合作方的伙伴项目，致力于为创意和文化工作打造公平、透明的AI工具。“我们不是一个能与OpenAI竞争的项目，”她说，但项目将基于小规模、权利清晰的EU主权数据，在“高度透明、有文档记录、经过重新训练的模型”之上构建工具。该项目目前处于第一年的研究阶段。"
+                "x": "EBS将每周二至周四下午5时20分至5时50分定为“AI动画特别编排时段”，安排播出上述作品。"
+              },
+              {
+                "t": "p",
+                "x": "下月1日将首播音乐童话《可可尼尼童话探险队》，以及讲述孤独少年通过AI设备学习情感的成长故事《夜晚讲述的故事》。"
+              },
+              {
+                "t": "p",
+                "x": "2日将接着首播喜剧奇幻作品《Euphoria Quest》和描绘猫咪书店店主日常的《猫咪书店Monobooks》。另一部入选作品《黄袜子波波》预计明年3月播出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Europa planea herramientas de\nIA transparentes para creativos",
-          "body": "En la primera edición de IDFA que exigió declarar el uso de IA se presentaron planes europeos de IA transparente.",
-          "mini_headline": "Europa planea herramientas de IA transparentes",
+          "headline": "EBS emitirá 5 animaciones\nde AI generativa el próximo mes",
+          "body": "EBS emitirá desde el 1 de diciembre 5 animaciones AI elegidas entre 429 obras presentadas.",
+          "mini_headline": "EBS emitirá 5 animaciones de AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/3/7/1492737_morrograndestill_469790_crop.jpg",
-                "cap": "‘Morro Grande’ (Fuente: IDFA/ Coevos Filmes)"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+                "cap": "Obras ganadoras del concurso de animación AI de EBS"
               },
               {
                 "t": "p",
-                "x": "Las cineastas brasileñas Rita Toledo e Isabel Joffily introdujeron, con su permiso, imágenes de archivo de un fotógrafo aficionado local en un programa de IA para crear nuevas imágenes para Morro Grande, que se proyectó en la competición Internacional de IDFA. “Usamos la IA para crear nuestro momento revolucionario”, dijo Joffily. Las imágenes no se perciben claramente como generadas por IA (AI-generated) y la película no incluye ningún aviso."
+                "x": "5 animaciones originales que incorporan tecnología de inteligencia artificial (AI) generativa llegan a la televisión."
               },
               {
                 "t": "p",
-                "x": "Este año es la primera edición de IDFA que exige a los cineastas indicar con claridad en sus solicitudes si usaron IA (AI-use). Toledo y Joffily lo declararon, con reservas."
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/780xAny/7/3/0/1492730_therecce_287543.jpeg",
-                "cap": "‘The Recce’ (Fuente: IDFA/Daniel Mann)"
+                "x": "EBS emitirá de forma escalonada en EBS 1TV, a partir del día 1 del próximo mes, las 5 obras seleccionadas mediante el 'Proyecto de coproducción de series de animación con AI generativa de EBS 2026'."
               },
               {
                 "t": "p",
-                "x": "Daniel Mann pidió a la IA, mediante prompts, que representara registros escritos de un estudio topográfico de Uganda de 1904 para The Recce, y no lo declaró: “Es tan descaradamente IA… Buscaba slop”."
+                "x": "Elegidas entre un total de 429 obras presentadas, las seleccionadas combinan la tecnología de AI generativa con diversas técnicas de dirección, como el stop motion (técnica que fotografía un objeto en una posición fija y capta del mismo modo cada movimiento sucesivo para crear imágenes en movimiento) y el 3D."
               },
               {
                 "t": "p",
-                "x": "Michaela Pňaček(ová), de la Universidad Noruega de Ciencia y Tecnología, presentó una alianza financiada por la UE (EU-funded) con nueve socios que desarrolla herramientas de IA justas y transparentes para el trabajo creativo y cultural. “No somos un proyecto que pueda competir con OpenAI”, dijo, pero creará herramientas sobre “modelos muy transparentes, documentados y reentrenados” con datos soberanos de la UE a pequeña escala y con derechos claros. El proyecto está en su fase de investigación del primer año."
+                "x": "EBS ha fijado la franja de martes a jueves, de 5:20 a 5:50 de la tarde, como 'franja especial de animación AI' para programar estas obras."
+              },
+              {
+                "t": "p",
+                "x": "El día 1 del próximo mes se estrenarán el cuento musical 'Kokonini, expedición de cuentos' y 'La historia que cuenta la noche', un relato de crecimiento sobre un niño solitario que aprende emociones a través de un dispositivo AI."
+              },
+              {
+                "t": "p",
+                "x": "Después, el día 2 se estrenarán la fantasía cómica 'Euphoria Quest' y 'Monobooks, la librería de los gatos', sobre la vida diaria del gato dueño de una librería. Otra obra seleccionada, 'Popo, el calcetín amarillo', se emitirá en marzo del próximo año."
               }
             ]
           }

@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "movies",
   "items": [
     {
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "Discover BOT VFX's hybrid AI VFX pipeline for Young Washington",
-      "url": "https://www.cgchannel.com/2026/11/discover-bot-vfxs-hybrid-ai-vfx-pipeline-for-young-washington/",
-      "source": "CG Channel",
-      "published_iso": "2026-11-24T15:45:00Z",
-      "og_image": null,
-      "excerpt": "BOT VFX delivered 300 shots in 17 weeks for Young Washington, mixing generative AI (FLUX.2 Klein, Wan) with a Maya/Nuke pipeline: AI crowd extensions, muzzle flashes and near-fully generated town shots. Temporal inconsistency, 4K upscaling and bit-depth limits meant heavy cleanup.",
-      "rationale": "A concrete production breakdown (300 shots, 17 weeks) showing exactly where gen-AI fit into a Maya/Nuke pipeline and where it needed cleanup. Assigned to movies only by the brief."
+      "title": "Google's patent for custom AI video feeds paints a bleak picture of entertainment's future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "source": "The Verge",
+      "published_iso": "2026-11-25T21:51:26+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&w=1200",
+      "excerpt": "Google filed a patent for 'My Channel', a system that would use a viewer's demographic data and viewing history to write its own prompts and generate personalized AI videos and ads in an endless feed. The patent has been rejected for now, but Google could appeal or resubmit.",
+      "rationale": "A concrete filing showing a platform designing for fully generated, per-viewer video, a direct signal for anyone making content for streaming feeds. The brief assigns this story to movies only."
     },
     {
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "title": "Screenweaver adds AI-powered production platform to script editor",
-      "url": "https://www.broadcastnow.co.uk/tech-innovation/screenweaver-adds-ai-powered-production-platform-to-script-editor/5222724.article",
-      "source": "Broadcast",
-      "published_iso": "2026-11-24T09:55:00Z",
-      "og_image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/9/2/9/1492929_screenweaverai1_265623.jpg",
-      "excerpt": "Screenweaver's beta production platform turns an ingested script into an editable storyboard (frame, angle, movement, duration), generates AI scenes from it using Seedance, and exports to DaVinci Resolve or Premiere Pro. It plans AI audio and human-vs-AI provenance tracking.",
-      "rationale": "A new tool release that goes from script to editable storyboard to generated scenes and exports to Resolve/Premiere, a usable previs workflow."
+      "title": "Lionsgate Play Sets 'Eklavya' As First AI-Led Series",
+      "url": "https://deadline.com/2026/11/lionsgate-play-eklavya-ai-series-tiger-tv-1237232555/",
+      "source": "Deadline",
+      "published_iso": "2026-11-25T06:15:00+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024",
+      "excerpt": "Lionsgate Play's first AI-led original series, 'Eklavya', is based on the Mahabharata archer and stars Yug R.Ai, the AI actor character recently unveiled by CEO Rohit Jain. It will roll out on Tiger TV, and Variety reports a Google Cloud partnership.",
+      "rationale": "A major studio-branded streamer commissions an AI-led series with an AI actor lead, a new production announcement with a named platform and partner."
     },
     {
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "Ahmad Alameldeen Talks 'Safe Zone,' AI, and Starving Victims of War",
-      "url": "https://www.awn.com/animationworld/ahmad-alameldeen-talks-safe-zone-ai-and-starving-victims-war",
-      "source": "Animation World Network",
-      "published_iso": "2026-11-24T09:49:00-08:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081906-1-1280.jpg?itok=FniXCVAW",
-      "excerpt": "The Oscar-qualified animated short 'Safe Zone' pairs hand-drawn graphite and Procreate frames with motion generated in Kling. The director says AI tools struggled most with human emotion, especially a child in distress.",
-      "rationale": "A hybrid workflow from an Oscar-qualified short: hand-drawn and Procreate keyframes animated in Kling, with a specific account of where the AI failed (human emotion)."
+      "title": "Josh D'Amaro Is Dragging Disney Into the AI Era, Kicking and Screaming",
+      "url": "https://www.thewrap.com/industry-news/business/disney-ceo-josh-dmaro-ai-strategy-cto-karandeep-anand-exclusive/",
+      "source": "TheWrap",
+      "published_iso": "2026-11-25T14:00:00+00:00",
+      "og_image": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1024&height=576&fit=bounds",
+      "excerpt": "New CTO Karandeep Anand is pushing one AI vision across Disney's business units, which is causing tension. Machine learning is already speeding up pre- and post-production, including a Disney Research/ILM tool that cuts render compute by nearly a third. People inside question whether one AI workflow can fit both Marvel blockbusters and 2D animation.",
+      "rationale": "Inside reporting on how Disney is rolling AI into pre- and post-production, with a concrete Disney Research/ILM render tool that cuts compute by nearly a third."
     },
     {
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "title": "AI Films From Kerala to the Andaman Islands Set for WIF India x Google Flow Filmathon, Screen at IFFI Goa",
-      "url": "https://variety.com/2026/film/festivals/ai-films-kerala-andaman-islands-google-flow-filmathon-iffi-1236955693/",
+      "title": "Generative AI Indian Feature 'Maharaja in Denims' Sets April 2027 Release",
+      "url": "https://variety.com/2026/film/news/generative-ai-feature-maharaja-in-denims-april-2027-release-1236957865/",
       "source": "Variety",
-      "published_iso": "2026-11-23T08:14:12Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/11/Google-AI.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Five films made with Google Flow were picked from 850+ registrations for WIF India's first AI Filmathon and screen at IFFI Goa.",
-      "rationale": "Results, not a call for entries: five Google Flow films picked from 850+ registrations screen at a major festival (IFFI Goa). Assigned to movies only by the brief."
+      "published_iso": "2026-11-25T12:17:16+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Khushwant Singh's novel about a young man reliving the life of Sikh ruler Maharaja Ranjit Singh is nearing completion as a $500,000-plus generative AI feature. The makers say they effectively had to make it three times, and are aiming for an April 2027 release.",
+      "rationale": "A dated release for a $500K+ generative-AI literary adaptation, plus a candid production note that model churn forced three remakes."
     },
     {
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "title": "Doc filmmakers talk using AI as European plans for creating 'transparent' AI tools revealed",
-      "url": "https://www.screendaily.com/features/doc-filmmakers-talk-using-ai-as-european-plans-for-creating-transparent-ai-tools-revealed/5222628.article",
-      "source": "Screen Daily",
-      "published_iso": "2026-11-24T10:40:00Z",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/3/0/1492730_therecce_287543.jpeg",
-      "excerpt": "At IDFA, the first edition to require AI-use disclosure in applications, Brazilian documentary makers describe using AI to 'fabulate' their film's revolutionary climax from archive photos without an on-screen disclaimer. European plans for transparent AI tools were also presented.",
-      "rationale": "A new European plan for transparent AI filmmaking tools, unveiled at IDFA, plus documentary makers describing how they actually used AI with archive photos. Relevant to anyone working under disclosure rules."
+      "title": "EBS, 생성형 AI 기반 애니메이션 5편 내달 순차 방영",
+      "url": "https://www.yna.co.kr/view/AKR20261125087600005",
+      "source": "연합뉴스",
+      "published_iso": "2026-11-25T11:32:28+09:00",
+      "og_image": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+      "excerpt": "EBS picked 5 of 429 entries in its 2026 generative-AI animation co-production project. The shows mix generative AI with stop-motion and 3D, and from Dec. 1 they air on EBS 1TV in a dedicated AI-animation slot, Tue-Thu 5:20-5:50 p.m.",
+      "rationale": "A public broadcaster opens a regular AI-animation slot with five hybrid (gen-AI plus stop-motion/3D) shows picked from 429 entries, giving AI animation a broadcast outlet."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.cgchannel.com/2026/11/discover-bot-vfxs-hybrid-ai-vfx-pipeline-for-young-washington/": {
+      "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent": {
         "verdict": "new",
-        "nearest": "https://www.kentertechhub.com/icnx-westworld-ai-vfx-en/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.broadcastnow.co.uk/tech-innovation/screenweaver-adds-ai-powered-production-platform-to-script-editor/5222724.article": {
+      "https://deadline.com/2026/11/lionsgate-play-eklavya-ai-series-tiger-tv-1237232555/": {
         "verdict": "new",
-        "nearest": "https://www.awn.com/news/topview-launches-film-studio-hybrid-ai-production-platform",
+        "nearest": "https://senalnews.com/en/content/animaj-unveiled-flipmove-an-artist-led-ai-animation-workflow",
         "new_action": ""
       },
-      "https://www.awn.com/animationworld/ahmad-alameldeen-talks-safe-zone-ai-and-starving-victims-war": {
+      "https://www.thewrap.com/industry-news/business/disney-ceo-josh-dmaro-ai-strategy-cto-karandeep-anand-exclusive/": {
         "verdict": "new",
-        "nearest": "https://www.broadcastnow.co.uk/industry-opinions/ai-filmmaking-how-director-perry-bhandal-works-solo-using-gen-ai-tools/5222709.article",
+        "nearest": "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html",
         "new_action": ""
       },
-      "https://variety.com/2026/film/festivals/ai-films-kerala-andaman-islands-google-flow-filmathon-iffi-1236955693/": {
+      "https://variety.com/2026/film/news/generative-ai-feature-maharaja-in-denims-april-2027-release-1236957865/": {
         "verdict": "new",
-        "nearest": "https://www.vanguardngr.com/2026/11/idris-elba-google-launch-free-ai-filmmaking-programme-in-five-african-countries/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.screendaily.com/features/doc-filmmakers-talk-using-ai-as-european-plans-for-creating-transparent-ai-tools-revealed/5222628.article": {
-        "verdict": "follow-up",
-        "nearest": "https://www.documentary.org/column/synthesis-idfa-requesting-ai-disclosures-film-submissions-what-comes-next",
-        "new_action": "European plans to build 'transparent' AI tools for filmmakers were presented at IDFA. This is a new announcement; the 11-19 card covered only IDFA's AI-disclosure requirement."
+      "https://www.yna.co.kr/view/AKR20261125087600005": {
+        "verdict": "new",
+        "nearest": "https://www.news1.kr/life-culture/general-cultural/6343262",
+        "new_action": ""
       }
     },
-    "note": "Dropped as duplicates or running stories: The Verge on Fincher's 'Cliff Booth' AI backlash (same running story as the 11-22 Deadline card; no new studio or vendor statement); TechNode Seedance 2.5 4K API (likely-repeat of the 10-29 Seedance 2.5 4K launch and 11-14 Flash cards; API access widens an existing release, and the item is 7.6 days old); Yonhap '라파엘' opening and MTN '라파엘' economics piece (same film as the 11-22 Korea Times review; the MTN piece is analysis); DW German Netflix AI dubbing clause (related to the 11-06 Matti Klemm v. Netflix card; reporting with no new filing). Cross-section exclusions per the brief: AWN Maxon Plus (published in design on 11-24) and etnews AI idol '서리아' (music only). Dropped on strength: Rian Johnson interview (saturated celebrity-opinion beat) and the ElevenLabs Chroma Awards season 2 call (saturated competition-call angle). Diversity: 5 distinct outlets (CG Channel, Broadcast, AWN, Variety, Screen Daily), one card each. Cross-section: published_urls.json was not exact-grepped (Read-only tools); all picks are movie-native, published 11-23/24, and the two that overlap with other sections (BOT VFX, Google Flow Filmathon) are assigned to movies by the brief."
+    "note": "Dropped as published-story repeats: the Fincher 'Cliff Booth' cluster (Variety, TheWrap, The Verge) because Fincher's AI defense ran 11-22 via Deadline and the new interview and backlash pieces add commentary, not a new release or decision. Dropped Screen Daily 'Gods Don't Give Gifts' appeal (likely-repeat of the 11-24 IndieWire ineligibility card; only an intent to appeal, nothing filed). Dropped AI타임스 ElevenLabs 'The Collaboration 2026' as the same seven-director AI short project carried 11-05 (Korea JoongAng Daily) and 11-19 (ppss, Nov 27 screening). Dropped Pandaily MAGI-2 (brief assigns it to design only). Skipped KOBIS 'Raphael' opening-day figures (a raw stats page with no article or image; Raphael was reviewed 11-22). Skipped Curious Refuge course promo and the ElevenLabs Chroma Awards S2 entry call (low novelty, promotional). Cross-section: none of the picks are in the brief's cross-section list. published_urls.json could not be grepped in this agent (Read-only tools); the picks are 11-25 URLs not in this section's 30-day digest."
   }
 }

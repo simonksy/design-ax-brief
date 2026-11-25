@@ -1,158 +1,101 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "section": "music",
   "items": [
     {
-      "title": "Tidal Is the First Streaming Service to Ban AI Music",
-      "url": "https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/",
-      "source": "Rolling Stone",
+      "rank": 1,
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "First major DSP to ban fully AI-generated tracks outright (removal from Dec 9, ~29M tracks); hybrid AI-assisted work stays allowed, which changes how creators label and distribute.",
-      "published_iso": "2026-11-24T21:20:28+00:00",
-      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2261659998.jpg?w=1600&h=900&crop=1",
-      "excerpt": "Tidal said it will start removing all wholly AI-generated music from its platform and reject future uploads, deleting an estimated 29 million tracks from December 9."
+      "title": "The Chicks join Jason Isbell's class action against Suno, as amended complaint adds 16 plaintiffs and targets v6",
+      "url": "https://www.musicbusinessworldwide.com/the-chicks-join-jason-isbells-class-action-against-suno-as-amended-complaint-adds-16-plaintiffs-and-targets-v6/",
+      "source": "Music Business Worldwide",
+      "published_iso": "2026-11-25T17:59:34+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg",
+      "excerpt": "An amended complaint filed in Boston federal court on Nov 24 adds 16 plaintiffs - The Chicks, Carl Craig, David Longstreth, Phil Elverum, Ezra Furman and others - to Isbell's proposed class action against Suno, with right-of-publicity claims in 14 states plus Illinois BIPA and new allegations covering Suno v6.",
+      "rationale": "New court filing (Nov 24 amended complaint) widens the biggest artist-identity case against Suno to 16 more acts and to the v6 model."
     },
     {
-      "title": "iZotope's Nectar 5 introduces a clever new way to add effects to vocals, one word at a time",
-      "url": "https://www.musicradar.com/music-tech/izotopes-nectar-5-introduces-a-clever-new-way-to-add-effects-to-vocals-one-word-at-a-time",
-      "source": "MusicRadar",
+      "rank": 2,
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "New release with a directly usable workflow: AI lyric transcription lets producers apply vocal effects per word from a text editor, plus an AI vocal chain assistant.",
-      "published_iso": "2026-11-24T15:55:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/pNN68baVuL3U3A5EYkirbV-2142-80.png",
-      "excerpt": "Nectar 5 adds Moments, an AI-powered lyric-transcribing ARA plugin that lets you apply vocal effects to individual words via a text editor, plus an enhanced AI Vocal Assistant that designs a processing chain from your take."
+      "title": "Audiotool Integrates Google Flow Music, Lets Users Play Vibe-Coded Instruments Together in a Browser DAW",
+      "url": "https://mixing.co.kr/en/44791",
+      "source": "월간 믹싱 (Mixing)",
+      "published_iso": "2026-11-25T14:13:26+09:00",
+      "og_image": "https://mmagimg.speedgabia.com/2026/11/img-1795578765929-bdc57c3994449c6a.webp",
+      "excerpt": "Browser DAW Audiotool now hosts instruments and effects built in Google Flow Music's Spaces via its new NXS plugin system, with real-time multiplayer, MIDI mapping and automation; available now.",
+      "rationale": "Shipping release: AI-built instruments from Google Flow Music become playable, multiplayer plugins in a browser DAW today."
     },
     {
-      "title": "n-Track Studio 11 released with AI Assistant, VocalTune 2.0 and more",
-      "url": "https://www.kvraudio.com/news/n-track-studio-11-released-with-ai-assistant-vocaltune-2-0-and-more-70122",
-      "source": "KVR Audio",
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "DAW release with an in-app AI assistant that answers mixing questions and edits the song directly — actionable for home producers.",
-      "published_iso": "2026-11-24T00:00:00Z",
-      "og_image": "https://static.kvraudio.com/i/b/kvr_n-track-studio-11_1200x675_border.jpg",
-      "excerpt": "n-Track Studio 11 adds an in-DAW AI assistant that answers recording, editing and mixing questions and can make changes inside your song, plus note-by-note VocalTune 2.0, Spectral Edit and ARA support."
-    },
-    {
-      "title": "Dutch collecting society BumaStemra threatens legal action against AI background music supplier YourNeuroTune, alleging it uses Suno",
-      "url": "https://www.musicbusinessworldwide.com/dutch-collecting-society-bumastemra-threatens-legal-action-against-ai-background-music-supplier-yourneurotune-alleging-it-uses-suno/",
-      "source": "Music Business Worldwide",
+      "rank": 3,
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "New enforcement angle: a collecting society targets a vendor reselling Suno output as royalty-free business music, not the model maker — relevant to anyone licensing AI background music.",
-      "published_iso": "2026-11-24T15:33:04+00:00",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/11/Screenshot-2026-11-24-at-14.51.09-e1795531892999.jpg",
-      "excerpt": "Buma/Stemra says Dutch AI background-music supplier YourNeuroTune sells Suno-generated tracks to businesses as royalty-free music and has threatened legal action — a collecting society moving against an AI music vendor rather than the model maker."
+      "title": "대음협, AI 음원에 \"책임 있는 학습·가수 보호·공정 유통을\"",
+      "url": "https://www.yna.co.kr/view/AKR20261124048100005",
+      "source": "연합뉴스",
+      "published_iso": "2026-11-24T09:49:14+09:00",
+      "og_image": "https://img2.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124048100005_03_i_P4.jpg",
+      "excerpt": "Korea's music industry association (대음협) surveyed 14 member labels (83.4% of top-100 album sales): none back unconditional TDM exemptions or 'use first, pay later'; 100% want stronger publicity rights; 9 of 14 already have fraud-liability clauses in distribution contracts. It issued three AI policy principles.",
+      "rationale": "Korean labels' first formal AI position with hard survey data, landing in the same week as the government's AI-training licensing hearing."
     },
     {
-      "title": "'설죽화' 품은 AI 걸그룹 '서리아'의 실험 [AI & 음악]",
-      "url": "https://www.newsis.com/view/NISX20261124_0003881350",
-      "source": "뉴시스",
+      "rank": 4,
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Korean production case study: a 4-member AI K-pop group making stage videos, vlogs and brand collabs without camera or studio — concrete look at an end-to-end AI idol pipeline (assigned to music per curator brief).",
-      "published_iso": "2026-11-24T16:49:19+09:00",
-      "og_image": "https://img1.newsis.com/2026/11/24/NISI20261124_0002301084_web.jpg",
-      "excerpt": "카메라·연습실·스튜디오 없이 음악방송 무대 영상, 브이로그, 브랜드 협업까지 AI로 제작하는 4인조 K-팝 AI 걸그룹 '서리아(SEORIA)'의 제작 방식을 다룬다."
-    }
-  ],
-  "picks": [
-    {
-      "title": "Tidal Is the First Streaming Service to Ban AI Music",
-      "url": "https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/",
-      "source": "Rolling Stone",
-      "tool": "Music",
-      "accent": "#ff2d55",
-      "motif": "sphere",
-      "rationale": "First major DSP to ban fully AI-generated tracks outright (removal from Dec 9, ~29M tracks); hybrid AI-assisted work stays allowed, which changes how creators label and distribute.",
-      "published_iso": "2026-11-24T21:20:28+00:00",
-      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2261659998.jpg?w=1600&h=900&crop=1",
-      "excerpt": "Tidal said it will start removing all wholly AI-generated music from its platform and reject future uploads, deleting an estimated 29 million tracks from December 9."
+      "title": "The amp modeler world's biggest disruptor has launched a DIY pedal kit that hosts NAM A2 captures",
+      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+      "source": "Guitar World",
+      "published_iso": "2026-11-24T17:09:13+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/bWFNSFhARwYzmvoxs9obzY-1920-80.jpg",
+      "excerpt": "TONE3000 and Daisy Audio launched a roughly $78 DIY pedal kit on the Seed3 module that runs Neural Amp Modeler (NAM) A2 neural captures, stacks them and pairs them with impulse responses.",
+      "rationale": "New hardware: a ~$78 kit puts neural amp captures in a pedal, the cheapest NAM A2 host so far."
     },
     {
-      "title": "iZotope's Nectar 5 introduces a clever new way to add effects to vocals, one word at a time",
-      "url": "https://www.musicradar.com/music-tech/izotopes-nectar-5-introduces-a-clever-new-way-to-add-effects-to-vocals-one-word-at-a-time",
-      "source": "MusicRadar",
-      "tool": "Music",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "rationale": "New release with a directly usable workflow: AI lyric transcription lets producers apply vocal effects per word from a text editor, plus an AI vocal chain assistant.",
-      "published_iso": "2026-11-24T15:55:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/pNN68baVuL3U3A5EYkirbV-2142-80.png",
-      "excerpt": "Nectar 5 adds Moments, an AI-powered lyric-transcribing ARA plugin that lets you apply vocal effects to individual words via a text editor, plus an enhanced AI Vocal Assistant that designs a processing chain from your take."
-    },
-    {
-      "title": "n-Track Studio 11 released with AI Assistant, VocalTune 2.0 and more",
-      "url": "https://www.kvraudio.com/news/n-track-studio-11-released-with-ai-assistant-vocaltune-2-0-and-more-70122",
-      "source": "KVR Audio",
+      "rank": 5,
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "DAW release with an in-app AI assistant that answers mixing questions and edits the song directly — actionable for home producers.",
-      "published_iso": "2026-11-24T00:00:00Z",
-      "og_image": "https://static.kvraudio.com/i/b/kvr_n-track-studio-11_1200x675_border.jpg",
-      "excerpt": "n-Track Studio 11 adds an in-DAW AI assistant that answers recording, editing and mixing questions and can make changes inside your song, plus note-by-note VocalTune 2.0, Spectral Edit and ARA support."
-    },
-    {
-      "title": "Dutch collecting society BumaStemra threatens legal action against AI background music supplier YourNeuroTune, alleging it uses Suno",
-      "url": "https://www.musicbusinessworldwide.com/dutch-collecting-society-bumastemra-threatens-legal-action-against-ai-background-music-supplier-yourneurotune-alleging-it-uses-suno/",
-      "source": "Music Business Worldwide",
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "New enforcement angle: a collecting society targets a vendor reselling Suno output as royalty-free business music, not the model maker — relevant to anyone licensing AI background music.",
-      "published_iso": "2026-11-24T15:33:04+00:00",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/11/Screenshot-2026-11-24-at-14.51.09-e1795531892999.jpg",
-      "excerpt": "Buma/Stemra says Dutch AI background-music supplier YourNeuroTune sells Suno-generated tracks to businesses as royalty-free music and has threatened legal action — a collecting society moving against an AI music vendor rather than the model maker."
-    },
-    {
-      "title": "'설죽화' 품은 AI 걸그룹 '서리아'의 실험 [AI & 음악]",
-      "url": "https://www.newsis.com/view/NISX20261124_0003881350",
-      "source": "뉴시스",
-      "tool": "Music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "rationale": "Korean production case study: a 4-member AI K-pop group making stage videos, vlogs and brand collabs without camera or studio — concrete look at an end-to-end AI idol pipeline (assigned to music per curator brief).",
-      "published_iso": "2026-11-24T16:49:19+09:00",
-      "og_image": "https://img1.newsis.com/2026/11/24/NISI20261124_0002301084_web.jpg",
-      "excerpt": "카메라·연습실·스튜디오 없이 음악방송 무대 영상, 브이로그, 브랜드 협업까지 AI로 제작하는 4인조 K-팝 AI 걸그룹 '서리아(SEORIA)'의 제작 방식을 다룬다."
+      "title": "IncrementDET: Continual AI-Generated Music Detection via Enrollment",
+      "url": "https://arxiv.org/abs/2611.32023",
+      "source": "arXiv",
+      "published_iso": "2026-11-24T06:05:02Z",
+      "og_image": null,
+      "excerpt": "A detector that learns each new AI music generator by 'enrollment' - adding one linear classifier per generator against human reference tracks - so platforms can catch unseen generators without retraining a universal model.",
+      "rationale": "Research answer to the detector-lag problem platforms keep hitting: add new generators one at a time instead of retraining a universal model."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/": {
+      "https://www.musicbusinessworldwide.com/the-chicks-join-jason-isbells-class-action-against-suno-as-amended-complaint-adds-16-plaintiffs-and-targets-v6/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.billboard.com/pro/suno-responds-jason-isbell-ai-music-lawsuit/",
+        "new_action": "Amended complaint filed Nov 24 in Boston federal court adding 16 named plaintiffs (The Chicks et al.), right-of-publicity claims in 14 states + Illinois BIPA, and new claims covering Suno v6."
+      },
+      "https://mixing.co.kr/en/44791": {
         "verdict": "new",
-        "nearest": "https://www.complex.com/music/a/markelibert/knxwledge-streaming-app-albums-removed-distributors",
+        "nearest": "https://musictech.com/news/gear/sonura-flow/",
         "new_action": ""
       },
-      "https://www.musicradar.com/music-tech/izotopes-nectar-5-introduces-a-clever-new-way-to-add-effects-to-vocals-one-word-at-a-time": {
+      "https://www.yna.co.kr/view/AKR20261124048100005": {
         "verdict": "new",
-        "nearest": "https://musictech.com/news/gear/izotope-photon/",
+        "nearest": "https://www.newsis.com/view/NISX20261123_0003878775",
         "new_action": ""
       },
-      "https://www.kvraudio.com/news/n-track-studio-11-released-with-ai-assistant-vocaltune-2-0-and-more-70122": {
+      "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit": {
         "verdict": "new",
-        "nearest": "https://suno.com/blog/studio-chat-assistant",
+        "nearest": "https://www.soundonsound.com/news/heritage-audios-i73-pro-gains-nam-a2-support",
         "new_action": ""
       },
-      "https://www.musicbusinessworldwide.com/dutch-collecting-society-bumastemra-threatens-legal-action-against-ai-background-music-supplier-yourneurotune-alleging-it-uses-suno/": {
+      "https://arxiv.org/abs/2611.32023": {
         "verdict": "new",
-        "nearest": "https://www.musicradar.com/artists/drummers/they-stole-a-decade-of-my-life-and-my-effort-and-eur230-000-from-my-pocket-el-estepario-siberiano-threatens-legal-action-against-ai-scalpers-and-wants-your-advice",
-        "new_action": ""
-      },
-      "https://www.newsis.com/view/NISX20261124_0003881350": {
-        "verdict": "new",
-        "nearest": "https://www.koreajoongangdaily.com/entertainment/seoul-music-forum-explores-humanism-in-ai-age-with-one-in-four-kpop-acts-now-virtual/12949369",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Tidal ban cluster c0 (Music Ally, The Verge, Rolling Stone) is one story — kept Rolling Stone only (most concrete: Dec 9 date, ~29M tracks); dropped Music Ally and The Verge as within-pool duplicates. Its history_match to Knxwledge (11-13) is a different event. Not picked (not duplicates, lower priority): ARIA/CMU + The Music Network on the Australian Joint Select Committee AI report (one story; report release is a new official event but the Australian AI-copyright fight already ran 11-09, 11-17, 11-20, 11-23); 대음협 survey (뉴시스/연합뉴스, one story); 음저협 AI 신탁 기준 공청회 (뉴시스); arXiv IteraSong/ARRANGE/PopMelodyGen (no og_image, lower actionability). BumaStemra's related match (El Estepario, 11-24) is a different dispute; n-Track's related match (Suno Chat, 11-03) is a different product. Outlets: Rolling Stone, MusicRadar, KVR Audio, MBW, 뉴시스 (5 distinct). Cross-section: 서리아 assigned to music only per curator brief. published_urls.json was not exact-grepped (Read-only tools); none of the 5 URLs appear in the music history_digest."
+    "note": "Dropped as same running story: Spotify Artist Profile Protection 'now available to all' (DMN) - clarification of the 11-18 TechCrunch launch, no new release; Guardian Kate Bush/Grace Jones open letter and CMU ARIA-vs-committee item - reactions in the Australian AI-copyright fight already carried 11-09/11-17/11-20/11-23 (keep at most one; neither is a new official decision); MusicRadar 'AI revolution for electronic instruments' - feature/analysis on the vibe-coded modding story (Akai 10-29, Behringer 10-29). Skipped on quality: Musixmatch Pro (AI licensing not shipped, AI incidental), KOMCA Nov 30 hearing notice (held for when the hearing produces standards; also second Mixing item), Khan idol-AI analysis, Paul Kim MV (AI role thin), H3ARUS debut, KBS composers report, heywavv/음별/Truffle (press-release tone, off-list), MADlibs (second arXiv). Outlets: MBW, Mixing, Yonhap, Guitar World, arXiv - 5 distinct. None of the picks appear in the curator_brief cross-section assignments."
   }
 }

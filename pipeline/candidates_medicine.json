@@ -1,115 +1,142 @@
 {
   "section": "medicine",
-  "now_iso": "2026-11-24T22:00:37Z",
+  "now_iso": "2026-11-25T22:03:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "AI Helped Hospital Lower Readmissions, Deaths After Discharge",
-      "url": "https://www.medpagetoday.com/hospitalbasedmedicine/generalhospitalpractice/124037",
-      "source": "MedPage Today",
+      "title": "메디웨일, 망막 기반 심혈관 위험 예측 AI '닥터눈 CVD' 미국 FDA 510(k) 허가",
+      "url": "https://www.medigatenews.com/news/3289123775",
+      "source": "메디게이트뉴스",
       "category": "medicine",
-      "published_iso": "2026-11-24T20:10:00Z",
-      "excerpt": "Houston Methodist used HDAI predictive AI (trained on Medicare data) to target post-discharge follow-up for its highest-risk Medicare surgical patients; 30-day post-discharge mortality fell ~35% and readmissions ~18% with no added staff, per an HLTH case study.",
-      "og_image": "https://assets.medpagetoday.net/media/images/124xxx/124037.jpg"
+      "published_iso": "2026-11-25T11:19:00+09:00",
+      "excerpt": "메디웨일의 망막 사진 기반 AI '닥터눈 CVD'가 FDA 510(k) 허가를 받았다. 안저 사진으로 10년 내 첫 죽상경화성 심혈관질환(ASCVD) 발생 위험을 추정해 위험 점수와 3단계 위험군을 제시하며, 회사는 미국 1차 의료기관 보급을 추진한다.",
+      "og_image": "https://medigatenews.com/file/news/546012"
     },
     {
-      "title": "AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
-      "url": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/",
+      "title": "JW Pharmaceutical advances oral STAT6 inhibitor as global competition heats up",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33976",
+      "source": "Korea Biomedical Review",
+      "category": "medicine",
+      "published_iso": "2026-11-25T10:21:04+09:00",
+      "excerpt": "JW Pharmaceutical's oral small-molecule STAT6 inhibitor for eosinophilic esophagitis, discovered on its AI drug-discovery platform JWave, was selected for Korea's national drug development program and enters preclinical development with 18 months of government support.",
+      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33976_37174_1447_v150.jpg"
+    },
+    {
+      "title": "Rapid comparative evaluation of 2 ambient artificial intelligence applications in a learning health system",
+      "url": "https://doi.org/10.1093/jamia/ocag192",
+      "source": "JAMIA (Journal of the American Medical Informatics Association)",
+      "category": "medicine",
+      "published_iso": "2026-11-23T19:29:20Z",
+      "excerpt": "A learning-health-system evaluation compared two ambient AI scribes (Abridge and Nabla) among 100 providers over 90 days using a cluster randomized crossover design plus EHR workflow outcomes and simulated encounters, measuring satisfaction, efficiency, documentation quality, usability and patient sentiment. (Off-list outlet: academic.oup.com; date from Crossref created.)",
+      "og_image": null
+    },
+    {
+      "title": "Validation of Computer Vision in the Operating Room for Ambient Documentation",
+      "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/10.1001/jamasurg.2026.5500",
+      "source": "JAMA Surgery",
+      "category": "medicine",
+      "published_iso": "2026-11-18T16:00:20Z",
+      "excerpt": "Stanford Health Care study in JAMA Surgery validates computer-vision ambient timestamp documentation (Aimbient) across a variety of operating-room procedures, reporting human-level accuracy for automated OR documentation. (Date from Crossref created; JAMA HTML behind Cloudflare.)",
+      "og_image": null
+    },
+    {
+      "title": "AI matches radiologists on prostate cancer MRI across 22 countries",
+      "url": "https://www.auntminnie.com/clinical-news/mri/article/16542693/ai-matches-radiologists-on-prostate-cancer-mri-across-22-countries",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-11-24T20:00:55Z",
+      "excerpt": "The SCARLET-1 study in Radiology analyzed 22,445 prostate MRI exams from 21,252 men at 46 sites in 22 countries; the AI system matched standard-of-care radiologist readings (83%-87.9% agreement across three external datasets). Check vs 2026-10-14 AuntMinnie prostate-MRI AI item for possible same-study overlap.",
+      "og_image": null
+    },
+    {
+      "title": "DKI may improve care in mild newborn HIE cases",
+      "url": "https://www.auntminnie.com/clinical-news/mri/article/16543044/dki-may-improve-care-in-mild-newborn-hie-cases",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-11-25T18:35:57Z",
+      "excerpt": "A machine-learning model combining diffusion kurtosis MRI with clinical data from 740 newborns at four hospitals predicted 24-month neurodevelopmental outcomes in mild hypoxic-ischemic encephalopathy with AUC 0.92, beating clinical-only (0.85) or imaging-only (0.86) models (Radiology, Nov. 24). Pediatric brain MRI - note neuro-MRI saturation.",
+      "og_image": null
+    },
+    {
+      "title": "Predictive uncertainty representations in clinical AI shape physicians' advice uptake, accuracy, and trust",
+      "url": "https://www.nature.com/articles/s43856-026-02008-4",
+      "source": "Communications Medicine",
+      "category": "medicine",
+      "published_iso": "2026-11-25T18:34:21Z",
+      "excerpt": "227 physicians assessed patient cases with an AI sepsis-type risk estimate shown with or without representations of the model's predictive uncertainty; how uncertainty was displayed changed how often doctors took the AI's advice, their accuracy and their trust.",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png"
+    },
+    {
+      "title": "Multimodal AI for bacterial vs viral upper respiratory tract infection multicentre development and internal validation",
+      "url": "https://www.nature.com/articles/s41746-026-03492-7",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-11-25T11:05:14Z",
+      "excerpt": "A multimodal AI model fusing pharyngeal images with clinical data was developed and internally validated across multiple centres to distinguish Group A streptococcus pharyngitis from viral upper respiratory infections, aiming to guide appropriate antibiotic use.",
+      "og_image": null
+    },
+    {
+      "title": "De novo design of high-potency dual-target therapeutic peptides with ORIDTP",
+      "url": "https://www.nature.com/articles/s41586-026-11338-1",
+      "source": "Nature",
+      "category": "medicine",
+      "published_iso": "2026-11-25T16:03:47Z",
+      "excerpt": "The AI platform ORIDTP designs de novo dual-target therapeutic peptides, producing anti-obesity, antidiabetic and anticancer peptide candidates with strong in vivo efficacy. Disease-targeted preclinical drug design (science/medicine boundary - medicine per _note since diseases are specified).",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11338-1/MediaObjects/41586_2026_11338_Fig1_HTML.png"
+    },
+    {
+      "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
+      "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/",
       "source": "STAT",
       "category": "medicine",
       "published_iso": "2026-11-24T09:30:00+00:00",
-      "excerpt": "Ahead of RSNA 2026 in Chicago, STAT examines AI tools that draft radiology reports from X-rays and CT scans and the open question of whether draft reporting improves care and safety.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_21105563-1024x576.jpeg"
+      "excerpt": "In Alaska, a small network of hospitals is betting on AI tools to triage stroke patients and get them to the right care faster across vast distances. (Stroke imaging saturation 11-23 - deployment angle only.)",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg"
     },
     {
-      "title": "AI-assisted chest CT scan analysis of body composition at ICU admission and 6-month mortality",
-      "url": "https://www.nature.com/articles/s41746-026-03509-1",
-      "source": "npj Digital Medicine",
+      "title": "Samjin Pharm, Ontact Health launch AI-assisted echocardiography service",
+      "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33959",
+      "source": "Korea Biomedical Review",
       "category": "medicine",
-      "published_iso": "2026-11-24T13:24:00Z",
-      "excerpt": "Secondary analysis of a single-center prospective cohort of 509 ICU patients: automated AI body-composition analysis of admission chest CT, a measure rarely taken manually, was linked to 6-month survival.",
-      "og_image": null
+      "published_iso": "2026-11-24T13:19:45+09:00",
+      "excerpt": "Samjin Pharmaceutical and Ontact Health launched SoniX EchoPilot, an AI echocardiography service that auto-classifies images, selects optimal views, performs measurements and strain analysis, and returns specialist-reviewed reports to cut clinician workload and inter-examiner variability.",
+      "og_image": "https://cdn.koreabiomed.com/news/thumbnail/202611/33959_37160_1858_v150.jpg"
     },
     {
-      "title": "Challenges in AI based tumor board case summarization and recommendations",
-      "url": "https://www.nature.com/articles/s41746-026-03442-3",
-      "source": "npj Digital Medicine",
-      "category": "medicine",
-      "published_iso": "2026-11-24T03:53:00Z",
-      "excerpt": "Researchers formally define tumor-board case summarization, treatment-option generation and meeting-outcome prediction as AI tasks and test them on tumor board datasets, mapping where current models fall short.",
-      "og_image": null
-    },
-    {
-      "title": "Artificial intelligence model for pancreatic cancer risk prediction in patients with pancreatic cystic lesions",
-      "url": "https://www.nature.com/articles/s41746-026-03441-4",
-      "source": "npj Digital Medicine",
-      "category": "medicine",
-      "published_iso": "2026-11-23T07:06:00Z",
-      "excerpt": "A developed and validated AI model stratifies pancreatic cancer risk in patients with pancreatic cystic lesions, aiming to replace complex, limited-accuracy existing approaches to cyst management.",
-      "og_image": null
-    },
-    {
-      "title": "Thyroid ultrasound AI yields high agreement with radiologists",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/ultrasound-preview/article/16542262/thyroid-ultrasound-ai-yields-high-agreement-with-radiologists",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-11-23T12:00:00Z",
-      "excerpt": "RSNA 2026 preview: a large real-world deployment of See-Mode thyroid ultrasound AI across 297 U.S. clinics prospectively measured how often radiologists kept the AI-generated TI-RADS descriptors.",
-      "og_image": null
-    },
-    {
-      "title": "GEHC adds AI layer to InteleOrchestrator",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16542651/ge-healthcare-gehc-adds-ai-layer-to-inteleorchestrator",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-11-24T16:03:20Z",
-      "excerpt": "GE HealthCare's Intelerad unit introduces InteleOrchestrator Clarity, an AI layer that gives radiologists source-linked summaries of prior reports and drafts structured reports from dictation for review.",
-      "og_image": null
-    },
-    {
-      "title": "Modular phantom tests AI on ovarian mass ultrasound",
-      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/ultrasound-preview/article/16542358/modular-phantom-tests-ai-on-ovarian-mass-ultrasound",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-11-23T12:00:00Z",
-      "excerpt": "RSNA 2026 preview: University of Twente researchers built an O-RADS-based transvaginal ultrasound phantom to enable controlled testing of computer-aided diagnosis software for ovarian masses.",
-      "og_image": null
-    },
-    {
-      "title": "FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIx2601439",
-      "source": "NEJM AI",
-      "category": "medicine",
-      "published_iso": "2026-11-19T15:00:16Z",
-      "excerpt": "NEJM AI paper describing the development and validation of an FDA-authorized AI/ML tool for sepsis prediction (Crossref created 2026-11-19; body not retrievable - verify details).",
-      "og_image": "https://ai.nejm.org/pb-assets/ai-site/images/system/NEJM_AI_200px-1717172950127.png"
-    },
-    {
-      "title": "뷰노 '펀더스 AI' 브라질 상륙, K-의료AI 남미 영토 확장 본격화",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017116",
+      "title": "숫자로 본 '니어닥' 6개월, 국내 진료실 'AI 차팅' 시대 본격 개막",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017266",
       "source": "의학신문",
       "category": "medicine",
-      "published_iso": "2026-11-23T16:02:49+09:00",
-      "excerpt": "뷰노가 브라질 국가위생감시국(ANVISA)으로부터 안저영상 판독 보조 AI 'VUNO Med-Fundus AI' 의료기기 인허가를 받아 현지 출시한다. 알베르트 아인슈타인 병원이 현지 검증을 수행했다.",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3017116_417981_239.jpg"
+      "published_iso": "2026-11-25T09:14:41+09:00",
+      "excerpt": "스튜디오키코의 앰비언트 AI 스크라이브 '니어닥'이 출시 6개월 만에 563개 의료기관, 누적 114만 건 진료에 쓰였다. 의사 1인당 월평균 713건, 유료 전환율 74%이며, 의료진 120명 설문에서 차트 1건 작성 시간이 3분 48초에서 1분 8초로 약 70% 줄었다(회사 발표·설문 기반).",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3017266_418126_132.png"
     },
     {
-      "title": "의사·약사·간호사 등 국가시험 AI 활용 부정행위 대응법 추진",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017104",
+      "title": "조기위암 침윤 깊이 예측까지…웨이센 '웨이메드 엔도', AI 내시경 패러다임 전환 예고",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017272",
       "source": "의학신문",
       "category": "medicine",
-      "published_iso": "2026-11-23T14:03:17+09:00",
-      "excerpt": "생성형 AI·스마트안경을 활용한 시험 부정행위에 대응해 이만희 복지위원장이 의료인 국가시험 부정행위 응시 제한을 최대 3회에서 5회로 늘리는 의료법·약사법·간호법 개정안을 대표발의했다.",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3017104_417964_4514.jpg"
+      "published_iso": "2026-11-25T09:42:37+09:00",
+      "excerpt": "KDDW 2026에서 강남세브란스병원 연구진이 웨이센 AI 내시경 '웨이메드 엔도'로 조기위암의 침윤 깊이를 예측한 연구와 실사용 임상 경험을 발표했다. 내시경 절제와 수술 중 치료 방식을 가르는 지표를 AI가 뒷받침한다는 내용이다.",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3017272_418134_4224.jpg"
     },
     {
-      "title": "심평원, AI 활용 '고가약 사전 심사 기간 단축' 추진",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016859",
+      "title": "일산백병원, 메디웨일 AI 안저 분석 시스템 '닥터눈' 전격 도입",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017164",
       "source": "의학신문",
       "category": "medicine",
-      "published_iso": "2026-11-19T16:00:00+09:00",
-      "excerpt": "건강보험심사평가원이 AI로 급여 인정 가능성이 높은 고가약 사전심사 사례를 선별해 대기시간을 줄이고, 청구 데이터로 희귀질환 의심 환자를 찾는 파운데이션 모델도 검토한다. 적용 시점은 미정.",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3016859_417760_1917.jpg"
+      "published_iso": "2026-11-24T09:57:37+09:00",
+      "excerpt": "인제대 일산백병원이 메디웨일의 AI 안저 영상 분석 솔루션 '닥터눈'을 진료 현장에 도입해 안과를 넘어 전신질환 위험 예측에 활용한다. (Same company as the 11-25 FDA 510(k) item - pick one.)",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202611/3017164_418024_5716.jpg"
+    },
+    {
+      "title": "서울백강병원, 간호·간병통합병동에 AI 모니터링 도입",
+      "url": "https://www.kmedinfo.co.kr/news/articleView.html?idxno=99096",
+      "source": "e-의료정보",
+      "category": "medicine",
+      "published_iso": "2026-11-24T09:02:06+09:00",
+      "excerpt": "서울백강병원이 간호·간병통합서비스 병동 30병상에 대웅제약·씨어스의 AI 환자 모니터링 '씽크'를 도입해 실시간 생체신호 관찰이 가능한 스마트병동 운영을 시작했다(간호 업무 부담 경감 목적, 성과 수치 없음).",
+      "og_image": "https://cdn.kmedinfo.co.kr/news/thumbnail/202611/99096_63365_144_v150.jpg"
     },
     {
       "title": "'책임' 대신 '판단' 택한 의학한림원…\"AI 책임은 함께 나눠야\"",
@@ -121,31 +148,40 @@
       "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044821_3048858_251_v150.jpg"
     },
     {
-      "title": "측정부터 리포트까지 AI가…삼진제약, 심장초음파 솔루션 론칭",
-      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044799",
-      "source": "청년의사",
+      "title": "FDA Clears Emerging AI Triage Software for Nine Findings on Abdominopelvic CT",
+      "url": "https://www.diagnosticimaging.com/view/fda-emerging-ai-triage-software-nine-findings-abdominopelvic-ct",
+      "source": "Diagnostic Imaging",
       "category": "medicine",
-      "published_iso": "2026-11-23T16:01:16+09:00",
-      "excerpt": "삼진제약과 온택트헬스가 영상 자동 분류·최적 영상 선택·자동 측정·스트레인 분석과 전문의 감수 리포트를 제공하는 심장초음파 AI 분석 솔루션 'SoniX EchoPilot'을 론칭했다.",
-      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202611/3044799_3048832_014_v150.jpg"
+      "published_iso": "2026-11-20T16:45:00Z",
+      "excerpt": "FDA cleared a2z Radiology's a2z-Omni-Triage, AI software for adjunctive triage of nine acute findings on abdominopelvic CT. (Off-list outlet: no on-list coverage found.)",
+      "og_image": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg"
     },
     {
-      "title": "Innovaccer integrates Grok Voice into Gravity Voice AI agents",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/innovaccer-integrates-grok-voice-gravity-voice-ai-agents",
+      "title": "FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIx2601439",
+      "source": "NEJM AI",
+      "category": "medicine",
+      "published_iso": "2026-11-19T15:00:16Z",
+      "excerpt": "NEJM AI paper describing the development and validation of an FDA-authorized AI/ML sepsis prediction tool (Crossref created 2026-11-19; body not retrievable - verify details).",
+      "og_image": "https://ai.nejm.org/pb-assets/ai-site/images/system/NEJM_AI_200px-1717172950127.png"
+    },
+    {
+      "title": "AI rules for doctors must include organisational responsibility",
+      "url": "https://www.bmj.com/content/395/bmj-2026-101504",
+      "source": "The BMJ",
+      "category": "medicine",
+      "published_iso": "2026-11-23T11:30:12Z",
+      "excerpt": "BMJ correspondence responding to proposed rules for clinicians using AI: beyond individual clinical duties, healthcare organisations that place AI systems in clinical workflows must also assume responsibility (liability/governance angle; letter).",
+      "og_image": "https://www.bmj.com/sites/default/files/highwire/bmj/395/8501.cover-source.jpg"
+    },
+    {
+      "title": "Weekly Rundown: Waystar integrates into Google Cloud's Gemini for healthcare; Oracle debuts AI agents for clinical trials",
+      "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-waystar-integrates-google-clouds-gemini-healthcare-oracle-debuts-ai",
       "source": "Fierce Healthcare",
       "category": "medicine",
-      "published_iso": "2026-11-23T13:00:00-05:00",
-      "excerpt": "Innovaccer is adding xAI's Grok Voice to its Gravity Voice AI agents for autonomous patient engagement calls (vendor upgrade; check for measured outcomes).",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2232514171.jpg?VersionId=VwvVk9PfSFHEStjWC3XS9.q9WGuNS0P1"
-    },
-    {
-      "title": "The Future of AI in Nursing Must Begin with the Outcomes We Intend to Achieve",
-      "url": "https://medcitynews.com/2026/11/the-future-of-ai-in-nursing-must-begin-with-the-outcomes-we-intend-to-achieve/",
-      "source": "MedCity News",
-      "category": "medicine",
-      "published_iso": "2026-11-23T21:13:25+00:00",
-      "excerpt": "Opinion: for nursing, AI's value lies in whether it contributes to defined clinical and workforce outcomes rather than adoption for its own sake (opinion - low priority).",
-      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2026/06/nurse.jpg"
+      "published_iso": "2026-11-25T13:00:00-05:00",
+      "excerpt": "Weekly health-tech brief: Oracle Life Science AI Agents for clinical-trial portfolio monitoring and planning; Amazon Connect Health adds agentic patient-access tasks (Temple Health handling thousands of verification calls weekly); Artera agentic intake; ChatGPT Health expands. Vendor roundup - low priority.",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2217168478.jpg?VersionId=0phAnpOmLcGCkwxate79_jHGSX6nTo0S"
     }
   ]
 }

@@ -12268,6 +12268,144 @@
           "x": "La actualización también añade nodos para generar vídeo a partir de prompts de texto, imágenes de referencia u otros vídeos mediante Runway. Las licencias perpetuas de la versión independiente cuestan $2,195; el plugin cuesta $1,195."
         }
       ]
+    },
+    "movies/lionsgate-eklavya-ai-series": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE: Lionsgate Play prepara su primera serie original AI-led, Eklavya. La serie, basada en la mitología india, contará con Yug R.Ai, el personaje de actor AI que el CEO de Lionsgate Play, Rohit Jain, presentó recientemente."
+        },
+        {
+          "t": "p",
+          "x": "Se basa en un personaje arquero de la epopeya hindú Mahābhārata y sigue “el mito de la leyenda de un niño rechazado por su gurú, que llegó a dominar el arco por pura voluntad”. Vibhu Puri (Heeramandi, Gustaakh Ishq) dirigirá la serie, que se estrenará el próximo año en Tiger TV, dentro de la app de Lionsgate Play."
+        },
+        {
+          "t": "p",
+          "x": "La producción ya está en marcha y marca el inicio de un acuerdo de producción a largo plazo entre Lionsgate Play y Google, cuya tecnología de AI se está utilizando. Se ofrecerá en varios idiomas indios e internacionales."
+        },
+        {
+          "t": "p",
+          "x": "“Cada salto tecnológico ha abierto nuevas puertas a los narradores, y la AI está abriendo más, y más rápido, que nada antes, pero la tecnología por sí sola no crea magia en pantalla”, dijo Jain. “Eklavya es nuestra declaración de intenciones más audaz, una primera temporada de ocho episodios pensada para crecer hasta convertirse en una franquicia de varias temporadas, y Yug R.Ai es solo el comienzo”."
+        }
+      ]
+    },
+    "movies/disney-cto-ai-workflow": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
+        },
+        {
+          "t": "p",
+          "x": "Desde que llegó en septiembre procedente de Character.ai, el nuevo CTO Karandeep Anand recibió del CEO Josh D'Amaro amplios poderes para estandarizar los flujos de trabajo y sistemas de AI que usan los distintos negocios de Disney, un cambio frente a sus propias canalizaciones internas. “Se ha ganado muchos enemigos”, dijo una persona conocedora de la empresa."
+        },
+        {
+          "t": "p",
+          "x": "Jamie Voris, que dirigía la Office of Technology Enablement, se ha marchado, y el CTO de Walt Disney Studios, Eddie Drake, se acogió a la jubilación anticipada. Una fuente de Disney negó un enfrentamiento y calificó la idea de que se usan recortes de plantilla para forzar la adopción de AI como “una tergiversación de nuestra estrategia”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
+        },
+        {
+          "t": "p",
+          "x": "D'Amaro firmó un acuerdo para entrenar modelos de AI generativa a medida en Firefly de Adobe con IP de Disney, y el 5 de diciembre estrena en Disney+ la caricatura AI-generated Ozzy Fox. Disney dice que aspira a un ritmo de ahorro anual de $3 billion para el año fiscal 2029, que se reinvertirá en contenido y tecnología."
+        },
+        {
+          "t": "img",
+          "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
+          "cap": "Karandeep Anand, ex CEO de Character AI, posa para una foto durante el Mobile World Congress (MWC)."
+        },
+        {
+          "t": "p",
+          "x": "Quedan dudas sobre cuánto se puede estandarizar: los flujos de trabajo de AI que pueden beneficiar a un gran estudio de superproducciones como Marvel o Lucasfilm quizá no funcionen en un proyecto de animación 2D o en un programa educativo infantil, dijo una persona conocedora de los procesos del estudio."
+        }
+      ]
+    },
+    "movies/maharaja-denims-genai-feature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "“Maharaja in Denims”, la novela de Khushwant Singh sobre un joven que revive la vida del gobernante sij del siglo 19 Maharaja Ranjit Singh, está cerca de completarse como largometraje de AI generativa, una película que, según sus creadores, en la práctica tuvieron que hacer tres veces. El equipo espera estrenarla en abril de 2027, a tiempo para Baisakhi; la dirige Balpreet Kaur."
+        },
+        {
+          "t": "p",
+          "x": "La producción comenzó en 2024 con Midjourney y Runway, pasó a Google Veo, con Nano Banana a cargo de las imágenes fijas, y luego atravesó Kling AI y Seedance 2.0 antes de cerrarse con herramientas disponibles en Higgsfield. Nano Banana resultó ser el punto de inflexión. El equipo rehízo las imágenes fijas de toda la película tres veces antes de fijar un estilo."
+        },
+        {
+          "t": "p",
+          "x": "Singh dice que la nueva tecnología suele reducir los costos a una décima parte, pero el equipo rehízo cerca de una hora de la película tres veces a medida que mejoraban las herramientas. Él calcula el costo en más de $500,000, sin incluir el marketing."
+        },
+        {
+          "t": "p",
+          "x": "“A lo largo de esta evolución tecnológica, el proceso creativo ha estado enteramente dirigido por humanos”, dice Singh. La música es totalmente hecha por humanos, y el doblaje y la narración se grabaron con actores en el estudio."
+        }
+      ]
+    },
+    "movies/ebs-genai-animation-slot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
+          "cap": "Obras ganadoras del concurso de animación AI de EBS"
+        },
+        {
+          "t": "p",
+          "x": "5 animaciones originales que incorporan tecnología de inteligencia artificial (AI) generativa llegan a la televisión."
+        },
+        {
+          "t": "p",
+          "x": "EBS emitirá de forma escalonada en EBS 1TV, a partir del día 1 del próximo mes, las 5 obras seleccionadas mediante el 'Proyecto de coproducción de series de animación con AI generativa de EBS 2026'."
+        },
+        {
+          "t": "p",
+          "x": "Elegidas entre un total de 429 obras presentadas, las seleccionadas combinan la tecnología de AI generativa con diversas técnicas de dirección, como el stop motion (técnica que fotografía un objeto en una posición fija y capta del mismo modo cada movimiento sucesivo para crear imágenes en movimiento) y el 3D."
+        },
+        {
+          "t": "p",
+          "x": "EBS ha fijado la franja de martes a jueves, de 5:20 a 5:50 de la tarde, como 'franja especial de animación AI' para programar estas obras."
+        },
+        {
+          "t": "p",
+          "x": "El día 1 del próximo mes se estrenarán el cuento musical 'Kokonini, expedición de cuentos' y 'La historia que cuenta la noche', un relato de crecimiento sobre un niño solitario que aprende emociones a través de un dispositivo AI."
+        },
+        {
+          "t": "p",
+          "x": "Después, el día 2 se estrenarán la fantasía cómica 'Euphoria Quest' y 'Monobooks, la librería de los gatos', sobre la vida diaria del gato dueño de una librería. Otra obra seleccionada, 'Popo, el calcetín amarillo', se emitirá en marzo del próximo año."
+        }
+      ]
+    },
+    "movies/botvfx-young-washington": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El pipeline de BOT VFX para el drama bélico Young Washington combinó trabajo de CG en Maya y Nuke con IA generativa. El estudio, con sede en India, entregó 300 planos en 17 semanas, incluidas mejoras de batallas a gran escala y entornos históricos."
+        },
+        {
+          "t": "p",
+          "x": "En las secuencias de batalla, BOT VFX combinó CG tradicional con elementos generados por IA (AI-generated) para ampliar multitudes y añadir efectos como fogonazos de disparos y explosiones. Otros planos, como los entornos del pueblo y la llegada de invitados a una fiesta en una mansión, se generaron casi por completo con IA y se complementaron con matte painting digital y elementos de CG."
+        },
+        {
+          "t": "p",
+          "x": "La IA generativa no fue una solución mágica: el material en bruto a menudo carecía de coherencia temporal, gran parte tuvo que reescalarse a 4K y la profundidad de bits limitada de parte del material generado por IA redujo la flexibilidad durante la composición."
+        },
+        {
+          "t": "p",
+          "x": "El supervisor de VFX Caine Dickinson explica que la aplicación interna de IA del estudio se construyó en torno a ComfyUI, principalmente con modelos de pesos abiertos: FLUX.2 Klein para inpainting, edición y refinamiento puntual de imágenes, mientras que Wan 2.1 se exploró para la generación de video. También se probaron modelos en la nube como Kling, Kling Omni, Veo, Hailuo, PixVerse y Seedance 1.5, con Topaz y Magnific para el reescalado."
+        },
+        {
+          "t": "p",
+          "x": "“Una de nuestras lecciones clave fue que ningún modelo de IA era necesariamente mejor que los demás”, dice Dickinson. “La IA aportó nuevas formas de generar y refinar imágenes, mientras que las técnicas tradicionales [de VFX] nos dieron el control necesario para llevar esos elementos a un estándar listo para producción.”"
+        }
+      ]
     }
   }
 }
