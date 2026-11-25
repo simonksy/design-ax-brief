@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "issue": "AI 영화, 상은 따로 받는다",
+    "date": "2026.11.26",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(인디포커스 11.23→11.17, WIRED ME 11.23→11.18, Variety 11.25→11.23, IndieWire 11.24→11.23). 시간순으로 오스카 카드를 맨 뒤로. 스틸은 오스카 카드 하나만 남기고 셋은 stat. 수치 30분 미만·300만 원, $1M·70%·5~7분·3,500편, 850건+·5편·여성 3편, 적격 38편·12월 4일 개봉 확인.",
+    "sources": [
+      "인디포커스 — 제44회 부산국제단편영화제, '인공지능(AI)경쟁' 신설 (2026.11.17)",
+      "WIRED Middle East — Can Dubai's $1 Million AI Film Award Help AI Cinema Be Taken Seriously? (2026.11.18)",
+      "Variety — AI Films From Kerala to the Andaman Islands Set for WIF India x Google Flow Filmathon, Screen at IFFI Goa (2026.11.23)",
+      "IndieWire — AI Film 'Gods Don't Give Gifts' Deemed Ineligible by Academy for Best Animated Feature Oscar (2026.11.23)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 11.17~11.23",
+      "thread": [
+        {
+          "d": "11.17",
+          "t": "부산 신설",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.18",
+          "t": "두바이 $1M",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.23",
+          "t": "IFFI 상영",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.23",
+          "t": "오스카 제외",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "AI 영화는 기존 시상식 밖에서 자기 몫의 상과 무대를 따로 만든다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI 영화, 상은 따로",
+      "body": "영화제 하나의 신설은 작은 소식이다. 같은 주 부산·두바이·고아가 AI 전용 경쟁을 열 때, 오스카는 AI 장편을 뺐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.17",
+      "headline": "부산, AI경쟁 부문 신설",
+      "body": "부산국제단편영화제가 내년 4월 제44회에 AI경쟁을 처음 연다. AI 사용 사실과 도구를 밝혀야 출품할 수 있다.",
+      "foot": "2026.11.17",
+      "_src": "http://www.indifocus.kr/84113",
+      "_id": "bisff-ai-competition",
+      "stat_top": "생성형 AI 단편 · 30분 미만",
+      "stat_arrow": "인공지능상·Artefact MK2상",
+      "stat_bottom": "상금 각 300만 원",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.18",
+      "headline": "상금 $1M, AI 영화상 2회",
+      "body": "두바이 AI 영화상이 두 번째 공모를 연다. 5~7분 한 편에 $1M, 70% 이상을 Seedance로 만들어야 한다.",
+      "foot": "2026.11.18",
+      "_src": "https://www.wired.me/story/can-dubais-dollar1-million-ai-film-award-help-ai-cinema-be-taken-seriously",
+      "_id": "dubai-ai-film-award-2nd",
+      "stat_top": "1회 출품 3,500편",
+      "stat_arrow": "5~7분 한 편에",
+      "stat_bottom": "$1 million",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.23",
+      "headline": "Google Flow 영화, IFFI로",
+      "body": "WIF India와 Google Flow의 첫 필름어톤. 결선 5편 중 3편을 여성 감독이 만들었고 고아 IFFI에서 상영한다.",
+      "foot": "2026.11.23",
+      "_src": "https://variety.com/2026/film/festivals/ai-films-kerala-andaman-islands-google-flow-filmathon-iffi-1236955693/",
+      "_id": "google-flow-filmathon-iffi",
+      "stat_top": "등록 850건+",
+      "stat_arrow": "7인 심사위원",
+      "stat_bottom": "결선 5편",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.23",
+      "headline": "오스카는 문을 닫았다",
+      "body": "첫 완전 AI 극장 영화 'Gods Don't Give Gifts'가 애니 장편상 적격 38편에서 빠졌다. 제작진은 이의를 낸다.",
+      "foot": "2026.11.23",
+      "_src": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/",
+      "_id": "gods-dont-give-gifts-oscar-ineligible",
+      "media": "pipeline/media/gods-dont-give-gifts-oscar-ineligible.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

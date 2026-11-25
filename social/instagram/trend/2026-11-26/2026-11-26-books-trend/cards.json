@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "허락 먼저, 법은 아직",
+    "date": "2026.11.26",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "원문 4건 대조(호주 B+P 11.25 기사는 유료라 공개 리드만): 날짜를 원문 게재일로 고침(Not AI's 11.22→11.17, Darcos 11.25→11.19, B+P 보고서 11.26→11.25). 시간순 재배열. 1,200명+·상원 4월 만장일치·11월 19일 의제 제외·저작권자·출판권자 동의 전제 확인. knpp 기사의 '법안'은 학술도서 지원 개정안이라 AI 동의와 무관 — 협약만 다룸. 사진은 호주 위원회 출석 사진 한 장만, 나머지 quote·stat.",
+    "sources": [
+      "Books+Publishing — Australian Society of Authors, Australian Publishers Association among orgs launching “Not AI’s to Take” campaign (2026.11.17)",
+      "Livres Hebdo — Loi sur l'IA et le droit d'auteur : Laure Darcos dénonce un nouveau blocage à l'Assemblée nationale (2026.11.19)",
+      "한국공공정책신문 — AI 학습에 내 책이 쓰인다면? 출판계 저작권 보호·지원 법안 본격 시동 (2026.11.23)",
+      "Books+Publishing — “Not a win – but it is not a dead loss”: Industry responds to Joint Select Committee on AI report (2026.11.25)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 책 · 11.17~11.25",
+      "thread": [
+        {
+          "d": "11.17",
+          "t": "허락 청원",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.19",
+          "t": "법안 제동",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.23",
+          "t": "동의 협약",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.25",
+          "t": "위원회",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "출판계는 AI 학습 전 '허락'을 제도에 넣으려 하지만, 아직 어디서도 법이 되지 못했다",
+      "eyebrow": "흐름 · 책",
+      "headline": "허락 먼저,\n법은 아직",
+      "body": "한 건씩 보면 나라별 소식이다. 아흐레 사이 호주·프랑스·한국에서 같은 요구가 나왔고, 어디서도 법이 되지 못했다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.11.17",
+      "headline": "호주, 허락 먼저 청원",
+      "body": "작가협회·출판협회 등이 'Not AI's to Take'를 띄웠다. 청원 서명은 기사 시점 1,200명을 넘었다.",
+      "foot": "2026.11.17",
+      "_src": "https://www.booksandpublishing.com.au/articles/2026/11/17/344957/australian-society-of-authors-media-organisations-launch-not-ais-to-take-campaign/",
+      "_id": "books-not-ais-to-take",
+      "quote": "먼저 허락받고\n대가를 합의하기 전엔\n창작물을 쓸 수 없다",
+      "quote_by": "Not AI's to Take · 캠페인 단체들"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.19",
+      "headline": "프랑스, 법안 또 멈춰",
+      "body": "AI 업체의 저작물 이용을 추정하는 법안. 4월 상원은 만장일치였지만 국민의회 의제에서 다시 빠졌다.",
+      "foot": "2026.11.19",
+      "_src": "http://www.livreshebdo.fr/article/loi-sur-lia-et-le-droit-dauteur-laure-darcos-denonce-un-nouveau-blocage-lassemblee",
+      "_id": "darcos-ia-droit-auteur-loi",
+      "stat_top": "상원 만장일치 통과",
+      "stat_arrow": "11월 19일 국민의회에선",
+      "stat_bottom": "의제에서 제외",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.23",
+      "headline": "한국은 협약으로 먼저",
+      "body": "출협과 셀렉트스타가 AI 학습용 출판데이터 협약을 맺었다. 저작권자·출판권자 동의가 전제다.",
+      "foot": "2026.11.23",
+      "_src": "http://knpp.co.kr/news/597241",
+      "_id": "publishing-act-ai-consent-bill",
+      "stat_top": "출판물 포괄 허락",
+      "stat_arrow": "출협·셀렉트스타 협약의 전제",
+      "stat_bottom": "권리자 동의 먼저",
+      "stat_strike": true
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.25",
+      "headline": "호주 보고서, 문은 반쯤",
+      "body": "의회 AI 합동특별위원회가 저작권 강화를 권고했다. 출판계는 opt-out 라이선스 우려가 가시지 않았다고 했다.",
+      "foot": "2026.11.25",
+      "_src": "https://www.booksandpublishing.com.au/articles/2026/11/25/346273/not-a-win-but-it-is-not-a-dead-loss-industry-responds-to-joint-select-committee-on-ai-report/",
+      "_id": "australia-ai-committee-optout",
+      "media": "pipeline/media/australia-ai-committee-optout.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
