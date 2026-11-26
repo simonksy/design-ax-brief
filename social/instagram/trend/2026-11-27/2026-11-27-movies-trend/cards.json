@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "AI 장편, 극장 문 앞에",
+    "date": "2026.11.27",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 5건 curl 대조: 날짜를 원문 게재일로 고침(Korea Times 11.22→11.16, IndieWire 11.24→11.23, 씨네플레이 11.24→11.23, Variety 11.26→11.25, Deadline 11.27→11.26 UTC). 수치 138분·14개월·11월 25일, 38편·12월 4일, 30분·2027년, 세 번·$500,000·십분의 일·2027년 사월, Les Arcs 12월·개발/후반 작업 확인. 사진은 Raphael 한 장만, 디 워는 영상, 나머지는 quote·stat.",
+    "sources": [
+      "The Korea Times — [REVIEW] AI movie 'Raphael' impresses visually, lacks fresh plot (2026.11.16)",
+      "IndieWire — AI Film 'Gods Don't Give Gifts' Ineligible for Animated Feature Oscar (2026.11.23)",
+      "씨네플레이 — 심형래 감독, AI 기술로 깨운 '디 워: NEW HOPE' 2027년 재개봉 예고 (2026.11.23)",
+      "Variety — Generative AI Feature 'Maharaja in Denims' Sets April 2027 Release (2026.11.25)",
+      "Deadline — Michel Hazanavicius To Unveil The Third Hand Footage At Les Arcs (2026.11.26)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 영화 · 11.16~11.26",
+      "thread": [
+        {
+          "d": "11.16",
+          "t": "Raphael",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.23",
+          "t": "부적격",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.23",
+          "t": "디 워",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.25",
+          "t": "세 번",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.26",
+          "t": "거장",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "AI로 만든 장편이 극장 개봉 일정을 잡기 시작했다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI 장편,\n극장 문 앞에",
+      "body": "한 편씩 보면 화제작 하나다. 열흘 새 한국·인도·미국 AI 장편이 개봉일을 잡고, 아카데미와 거장이 각자 답을 내놨다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.16",
+      "headline": "AI 장편 Raphael\n25일 극장 개봉",
+      "body": "실제 배우 촬영 없이 14개월 만에 완성한 138분짜리 한국 첫 생성형 AI 장편. 영상은 매끈하나 서사는 익숙하다.",
+      "foot": "2026.11.16",
+      "_src": "https://www.koreatimes.co.kr/entertainment/films/20261116/ai-movie-raphael-impresses-visually-lacks-fresh-plot",
+      "_id": "raphael-mbc-ai-feature-review",
+      "stat_top": "실제 배우 촬영 없이",
+      "stat_arrow": "14개월 만에 완성",
+      "stat_bottom": "138분 장편",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.23",
+      "headline": "아카데미 문턱에\n걸린 AI 장편",
+      "body": "애니 장편 자격작 38편 명단에 Gods Don't Give Gifts는 없었다. 제작진은 이의를 내고 12월 4일 개봉한다.",
+      "foot": "2026.11.23",
+      "_src": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/",
+      "_id": "gods-dont-give-gifts-oscar-ineligible",
+      "quote": "‘Best AI Movie’\n부문을 고려할\n때일까?",
+      "quote_by": "Edward Saatchi · Fable Studios 프로듀서"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.23",
+      "headline": "'디 워', AI로\n30분 더해 재개봉",
+      "body": "심형래 감독이 힉스필드AI와 19년 전 못 담은 액션 30분을 보탰다. 2027년 국내·북미 극장 개봉을 추진한다.",
+      "foot": "2026.11.23",
+      "_src": "https://www.cineplay.co.kr/ko-kr/articles/30918",
+      "_id": "dwar-newhope-ai-rerelease",
+      "video": "pipeline/media/dwar-newhope-ai-rerelease.mp4"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.25",
+      "headline": "세 번 만든 AI 장편\n2027년 사월 개봉",
+      "body": "도구가 좋아질 때마다 한 시간 가까운 분량을 세 번 다시 작업했다. 마케팅을 빼고도 $500,000 넘게 들었다.",
+      "foot": "2026.11.25",
+      "_src": "https://variety.com/2026/film/news/generative-ai-feature-maharaja-in-denims-april-2027-release-1236957865/",
+      "_id": "maharaja-denims-genai-feature",
+      "stat_top": "보통은 비용 십분의 일",
+      "stat_arrow": "한 시간 분량을 세 번 다시",
+      "stat_bottom": "$500,000+",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.11.26",
+      "headline": "오스카 감독도\nAI 제작법 공개",
+      "body": "Hazanavicius가 신작 The Third Hand에 AI를 쓴 방법을 12월 Les Arcs에서 공개한다. 촬영은 전통 방식이다.",
+      "foot": "2026.11.26",
+      "_src": "https://deadline.com/2026/11/michel-hazanavicius-exclusive-footage-third-hand-ai-1237234059/",
+      "_id": "hazanavicius-third-hand-lesarcs",
+      "stat_top": "촬영은 전통 세트 그대로",
+      "stat_arrow": "The Third Hand의 AI는",
+      "stat_bottom": "개발·후반 작업",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

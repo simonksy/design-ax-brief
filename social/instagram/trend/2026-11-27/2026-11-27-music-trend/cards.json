@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "Suno로 피했더니 법정이 다가온다",
+    "date": "2026.11.27",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조(MBW 2건은 Cloudflare 차단이라 RSS pubDate·수집 시각·보강 본문으로 확인): 날짜를 원문 게재일로 고침(Fstoppers 11.23→11.22, BumaStemra 11.25→11.24, Chicks 11.26→11.25, CMU 11.27→11.26). 수치 15년·1만 달러·수백 건, 25일 정오 시한, 원고 16명·11.24 보스턴 연방법원, Kelley 판사 기각 신청 불허 확인. 스틸은 판사봉 1장만, BumaStemra는 Laan 발언 quote, Chicks는 stat.",
+    "sources": [
+      "Fstoppers — Copyright Trolls Pushed Me to AI Music, And It's Incredible (2026.11.22)",
+      "Music Business Worldwide — Dutch collecting society BumaStemra threatens legal action against AI background music supplier YourNeuroTune, alleging it uses Suno (2026.11.24)",
+      "Music Business Worldwide — The Chicks join Jason Isbell's class action against Suno, as amended complaint adds 16 plaintiffs and targets v6 (2026.11.25)",
+      "Complete Music Update — Judge declines to dismiss Suno publicity rights case as sixteen more musicians join the legal battle (2026.11.26)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 11.22~11.26",
+      "thread": [
+        {
+          "d": "11.22",
+          "t": "신고 피난",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.24",
+          "t": "공급사 경고",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.25",
+          "t": "원고 16명",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "11.26",
+          "t": "기각 불발",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "저작권 신고를 피해 Suno로 가는 사이, Suno 음악을 둘러싼 권리 다툼이 법정으로 번진다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "Suno로 피했더니\n법정이 다가온다",
+      "body": "한 건씩 보면 유튜버 후기, 네덜란드 경고, 미국 소송이다. 이어 보면 피난처라던 Suno 음악에 권리 청구가 몰린다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.22",
+      "headline": "산 음원도 신고,\n그래서 Suno로",
+      "body": "15년 넘게 영상을 만든 Fstoppers 대표. 1만 달러 넘게 산 음원에도 신고가 수백 건 쌓이자 처음 Suno 음악을 썼다.",
+      "foot": "2026.11.22",
+      "_src": "https://fstoppers.com/artificial-intelligence/copyright-trolls-pushed-me-ai-music-and-its-incredible-905613",
+      "_id": "fstoppers-suno-youtube-switch",
+      "video": "pipeline/media/fstoppers-suno-youtube-switch.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.24",
+      "headline": "Suno 배경음악에\n저작권 단체 경고",
+      "body": "네덜란드 BumaStemra가 Suno를 쓴 배경음악 공급사 YourNeuroTune에 25일 정오까지 안 멈추면 소송한다고 했다.",
+      "foot": "2026.11.24",
+      "_src": "https://www.musicbusinessworldwide.com/dutch-collecting-society-bumastemra-threatens-legal-action-against-ai-background-music-supplier-yourneurotune-alleging-it-uses-suno/",
+      "_id": "bumastemra-yourneurotune-suno",
+      "quote": "우리 회원들 작업이 없었다면\n존재하지 않았을 음악으로\n돈을 번다",
+      "quote_by": "Michiel Laan · BumaStemra 최고상업책임자"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.25",
+      "headline": "The Chicks 등\n16명 소송 합류",
+      "body": "24일 보스턴 연방법원에 낸 수정 소장. Isbell 소송에 원고 16명이 더해졌고, 라이선스 음악만 학습했다는 v6도 겨눴다.",
+      "foot": "2026.11.25",
+      "_src": "https://www.musicbusinessworldwide.com/the-chicks-join-jason-isbells-class-action-against-suno-as-amended-complaint-adds-16-plaintiffs-and-targets-v6/",
+      "_id": "suno-chicks-amended-complaint",
+      "stat_top": "Isbell 퍼블리시티권 소송",
+      "stat_arrow": "11.24 수정 소장",
+      "stat_bottom": "원고 +16명",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.26",
+      "headline": "Suno 기각 신청,\n법원이 막았다",
+      "body": "Angel Kelley 판사가 수정 소장을 이유로 Suno의 기각 신청을 받아들이지 않았다. 저작권 아닌 퍼블리시티권 소송이다.",
+      "foot": "2026.11.26",
+      "_src": "https://completemusicupdate.com/judge-declines-to-dismiss-suno-publicity-rights-case-as-sixteen-more-musicians-join-the-legal-battle/",
+      "_id": "music-suno-dismissal-denied",
+      "media": "pipeline/media/music-suno-dismissal-denied.png"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

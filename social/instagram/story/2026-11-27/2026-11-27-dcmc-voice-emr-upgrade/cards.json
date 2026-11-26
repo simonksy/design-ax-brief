@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "issue": "대구가톨릭대의료원 음성 EMR 고도화",
+    "date": "2026.11.27",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://www.medigatenews.com/news/1869758664"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 의료 · 2026.11.27",
+      "headline": "대구가톨릭대의료원 음성 EMR 고도화",
+      "body": "대구가톨릭대학교의료원이 인공지능(AI) 음성인식 기반 의무기록 작성 솔루션 ‘보이스 EMR(Voice Electronic…",
+      "foot": "밀어서 보기 →",
+      "media": "pipeline/media/dcmc-voice-emr-upgrade.jpg",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "대구가톨릭대의료원 음성 EMR 고도화",
+      "body": "의료원은 2024년 대구·경북 지역 최초로 보이스 EMR을 도입해 영상의학과와 핵의학과 등에서 운영해 왔다. 기존 시스템은 의료진의…",
+      "foot": "2026.11.27",
+      "media": "pipeline/media/dcmc-voice-emr-upgrade.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "대구가톨릭대의료원 음성 EMR 고도화",
+      "body": "고도화된 보이스 EMR은 의료진과 환자 간 진료 대화에서 의학적으로 의미 있는 정보를 선별한다. 이를 의료진별 서식에 맞춰…",
+      "foot": "2026.11.27",
+      "media": "pipeline/media/dcmc-voice-emr-upgrade.jpg",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "대구가톨릭대의료원 음성 EMR 고도화",
+      "body": "실제 진료 현장에서 시스템을 사용한 한 교수는 환자의 신체 상태를 측정하는 과정에서 모니터가 아닌 환자 상태를 더욱 세심하게 살필 수…",
+      "foot": "2026.11.27",
+      "media": "pipeline/media/dcmc-voice-emr-upgrade.jpg",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "대구가톨릭대의료원 음성 EMR 고도화",
+      "body": "의료원은 입원 병동에서 음성 기반 전자간호기록 시스템 ‘보이스 ENR(Voice Electronic Nursing Record)’도…",
+      "foot": "2026.11.27",
+      "media": "pipeline/media/dcmc-voice-emr-upgrade.jpg",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
