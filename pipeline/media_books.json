@@ -1,31 +1,31 @@
 {
- "date": "2026-11-26",
- "section": "books",
- "media": [
-  {
-   "id": "nvidia-adobe-pirated-books",
-   "type": "image",
-   "src": "pipeline/media/nvidia-adobe-pirated-books.jpg"
-  },
-  {
-   "id": "soa-ai-charter-focus-group",
-   "type": "image",
-   "src": "pipeline/media/soa-ai-charter-focus-group.jpg"
-  },
-  {
-   "id": "australia-ai-committee-optout",
-   "type": "image",
-   "src": "pipeline/media/australia-ai-committee-optout.jpg"
-  },
-  {
-   "id": "france-culture-ia-consultation",
-   "type": "image",
-   "src": "pipeline/media/france-culture-ia-consultation.jpg"
-  },
-  {
-   "id": "hayankkum-ai-fairytale",
-   "type": "image",
-   "src": "pipeline/media/hayankkum-ai-fairytale.jpg"
-  }
- ]
+  "date": "2026-11-27",
+  "section": "books",
+  "media": [
+    {
+      "id": "booxen-korean-books-scan",
+      "type": "image",
+      "src": "pipeline/media/booxen-korean-books-scan.jpg"
+    },
+    {
+      "id": "mertens-wild-horse-ai-denial",
+      "type": "image",
+      "src": "pipeline/media/mertens-wild-horse-ai-denial.jpg"
+    },
+    {
+      "id": "belgium-sans-ia-label",
+      "type": "image",
+      "src": "pipeline/media/belgium-sans-ia-label.jpg"
+    },
+    {
+      "id": "anthropic-payout-milan",
+      "type": "image",
+      "src": "pipeline/media/anthropic-payout-milan.jpg"
+    },
+    {
+      "id": "ifwg-ipi-ai-contract-ban",
+      "type": "image",
+      "src": "pipeline/media/ifwg-ipi-ai-contract-ban.jpg"
+    }
+  ]
 }

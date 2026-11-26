@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "movies",
   "cards": [
     {
-      "id": "google-mychannel-patent",
+      "id": "luma-brandkit-character-library",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google 특허 출원\n끝없는 AI-made 영상",
-      "body": "Google My Channel 특허는 시청자 데이터로 AI 영상 피드를 짠다.",
-      "mini_headline": "Google AI 영상 피드 특허",
+      "headline": "Luma, 브랜드와\n캐릭터 일관성 지킨다",
+      "body": "Luma Brand Kit·Character Library가 로고·캐릭터를 지킨다.",
+      "mini_headline": "Luma, 캐릭터 흔들림 잡는다",
       "tool": "Movies",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "source": "Luma AI",
+      "url": "https://lumalabs.ai/news/brand-kit-character-library",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,197 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
+            "src": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+            "cap": "Brand Kit와 Character Library 소개"
           },
           {
             "t": "p",
-            "x": "Google은 지난해 My Channel이라는 시스템의 특허를 출원했다. 회사가 파악한 사용자 정보로 개인 맞춤형 AI-generated 영상과 광고를 채워 넣은 피드를 만드는 시스템이다. 특허는 거절됐지만, Google이 이의를 제기하거나 수정본을 다시 낼 여지는 남아 있다."
+            "x": "브랜드를 지키는 사람에게 왜 AI에 100% 뛰어들지 않느냐고 물으면 답은 늘 같다. AI가 너무 즉흥적이라서다. 로고는 미묘하게 어긋나고 제품에는 원래 없던 디테일이 붙는다. 브랜드 캐릭터의 얼굴은 세 번째 장면쯤 가면 사촌처럼 변해 있다. Luma가 내놓는 두 기능, Brand Kit와 Character Library는 바로 이 문제를 겨냥한다."
           },
           {
             "t": "p",
-            "x": "Patentlyze가 처음 발견한 이 특허는 지난해 오월 출원돼 지난주 공개됐다. 문서를 보면 My Channel은 개인의 인구통계 데이터와 시청 기록으로 프롬프트를 직접 짜고, 이를 LLM에 넣어 그 사람의 관심사에 맞춘 AI 영상을 생성한다. IP 주소, GPS 위치, 사용자 나이 같은 맥락 데이터도 모으며 최신 뉴스를 프롬프트 재료로 쓰기도 한다. 생성은 모두 Google 서버에서 이뤄진다."
+            "x": "로고와 글꼴, 제품을 Luma Brand Kit에 올리면 이후 모든 생성물이 이를 따른다. 공식 브랜드 가이드라인이 없으면 웹사이트 URL만 넣어도 에이전트가 검토용 초안을 만들어 준다. Brand Kit는 어느 보드에든 붙여 모든 생성의 기준으로 삼을 수 있다. Brand Kits 개수에도 제한이 없다."
           },
           {
             "t": "p",
-            "x": "My Channel은 여러 장르의 영화를 통째로 찍어낼 수 있고 다른 스트리밍 서비스와도 연결된다고 특허는 설명한다. 가장 불안한 대목은 따로 있다. 사용자의 디지털 아바타를 만들어 쏟아지는 콘텐츠 속 “주인공이나 주연 캐릭터”로 세운다는 언급이다."
-          },
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
+            "x": "Assets는 캐릭터·아바타·모델을 모아 두는 디지털 라이브러리로, 얼굴과 몸, 의상, 배경, 표정의 기준이 여기에 담긴다. 캐릭터는 보드에서 \"@\"로 불러온다. Luma는 피부와 머리카락이 한층 사실적으로 보이도록 모델을 손봤다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "The Verge는 이런 발상이 예술을 즐기는 일의 가치와 어긋나고, 결국 시청자가 자기 취향에 맞춰 만들어지지 않은 작품을 멀리하게 만든다고 지적한다."
+            "x": "두 기능은 Luma의 에이전트형 제작 시스템 안에서 돌아가며, 결과물이 사용자가 정한 브랜드·캐릭터 규칙에 맞는지 평가한다. 해시태그로 브랜드 키트를, @로 캐릭터를 불러와 Luma에 브리프를 건네면 에이전트와 함께 100개 에셋 규모의 캠페인을 완성하는 식이다. Enterprise 전용 기능도 아니어서 Luma 사용자라면 누구나 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google files for an endless\nfeed of AI-made videos",
-          "body": "Google's 'My Channel' patent, rejected for now, would turn viewer data into prompts for a personalized AI video feed.",
-          "mini_headline": "Google's AI video feed patent",
+          "headline": "Luma keeps brands and\ncharacters consistent",
+          "body": "Luma's Brand Kit and Character Library keep logos, fonts, products and characters consistent across generations.",
+          "mini_headline": "Luma tackles character drift",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+                "cap": "Introducing Brand Kit and Character Library"
               },
               {
                 "t": "p",
-                "x": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but Google might appeal or resubmit an amended version."
+                "x": "Ask anyone who guards a brand why they haven't gone 100% in on AI, and you'll hear the same thing: AI improvises. The logo goes slightly off, the product grows a detail it never had, the brand character's face looks like their cousin by the third scene. Luma is launching two features to change that: Brand Kit and Character Library."
               },
               {
                 "t": "p",
-                "x": "First spotted by Patentlyze, the patent — filed last May and published last week — describes how My Channel would use a person's demographic data and viewing history to create its own prompts that would then be fed into an LLM to help generate AI videos tailored to that person's interests. The system would also capture contextual data like IP addresses, GPS locations and details about the user's age, and could base prompts on current news; all generation would take place on Google's servers."
+                "x": "Upload your logos, fonts and products into a Luma Brand Kit and every generation afterwards holds to them. Without a formal brand guideline, you can add your website URL and the agent will create a draft for you to review. A Brand Kit can be tied to any board as the source of truth for any generation, with no limit on the number of Brand Kits."
               },
               {
                 "t": "p",
-                "x": "According to the patent, My Channel could churn out entire movies of various genres and connect to other streaming services. Most unsettling are its mentions of creating digital avatars of users and turning them into “the protagonist or lead character” in the content it pumps out."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
+                "x": "Assets act as a digital library for characters, avatars and models, holding the source of truth for face, body, wardrobe, environments and expressions. Characters can be \"@\" referenced in boards, and Luma says it has evolved its models to make skin and hair look even more real."
               },
               {
                 "t": "p",
-                "x": "The Verge argues the idea is at odds with what makes engaging with art worthwhile, and would discourage viewers from engaging with anything not crafted to their assumed tastes."
+                "x": "Because both are built into Luma's agentic creation system, they can evaluate alignment to the brand and character rules you've set: pull in a brand kit with a hashtag, a character with an @, tell Luma your brief and work with the agent to finish a 100 asset campaign. The features are available to everyone on Luma, not locked behind Enterprise."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google 특허 출원\n끝없는 AI-made 영상",
-          "body": "Google My Channel 특허는 시청자 데이터로 AI 영상 피드를 짠다.",
-          "mini_headline": "Google AI 영상 피드 특허",
+          "headline": "Luma, 브랜드와\n캐릭터 일관성 지킨다",
+          "body": "Luma Brand Kit·Character Library가 로고·캐릭터를 지킨다.",
+          "mini_headline": "Luma, 캐릭터 흔들림 잡는다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+                "cap": "Brand Kit와 Character Library 소개"
               },
               {
                 "t": "p",
-                "x": "Google은 지난해 My Channel이라는 시스템의 특허를 출원했다. 회사가 파악한 사용자 정보로 개인 맞춤형 AI-generated 영상과 광고를 채워 넣은 피드를 만드는 시스템이다. 특허는 거절됐지만, Google이 이의를 제기하거나 수정본을 다시 낼 여지는 남아 있다."
+                "x": "브랜드를 지키는 사람에게 왜 AI에 100% 뛰어들지 않느냐고 물으면 답은 늘 같다. AI가 너무 즉흥적이라서다. 로고는 미묘하게 어긋나고 제품에는 원래 없던 디테일이 붙는다. 브랜드 캐릭터의 얼굴은 세 번째 장면쯤 가면 사촌처럼 변해 있다. Luma가 내놓는 두 기능, Brand Kit와 Character Library는 바로 이 문제를 겨냥한다."
               },
               {
                 "t": "p",
-                "x": "Patentlyze가 처음 발견한 이 특허는 지난해 오월 출원돼 지난주 공개됐다. 문서를 보면 My Channel은 개인의 인구통계 데이터와 시청 기록으로 프롬프트를 직접 짜고, 이를 LLM에 넣어 그 사람의 관심사에 맞춘 AI 영상을 생성한다. IP 주소, GPS 위치, 사용자 나이 같은 맥락 데이터도 모으며 최신 뉴스를 프롬프트 재료로 쓰기도 한다. 생성은 모두 Google 서버에서 이뤄진다."
+                "x": "로고와 글꼴, 제품을 Luma Brand Kit에 올리면 이후 모든 생성물이 이를 따른다. 공식 브랜드 가이드라인이 없으면 웹사이트 URL만 넣어도 에이전트가 검토용 초안을 만들어 준다. Brand Kit는 어느 보드에든 붙여 모든 생성의 기준으로 삼을 수 있다. Brand Kits 개수에도 제한이 없다."
               },
               {
                 "t": "p",
-                "x": "My Channel은 여러 장르의 영화를 통째로 찍어낼 수 있고 다른 스트리밍 서비스와도 연결된다고 특허는 설명한다. 가장 불안한 대목은 따로 있다. 사용자의 디지털 아바타를 만들어 쏟아지는 콘텐츠 속 “주인공이나 주연 캐릭터”로 세운다는 언급이다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
+                "x": "Assets는 캐릭터·아바타·모델을 모아 두는 디지털 라이브러리로, 얼굴과 몸, 의상, 배경, 표정의 기준이 여기에 담긴다. 캐릭터는 보드에서 \"@\"로 불러온다. Luma는 피부와 머리카락이 한층 사실적으로 보이도록 모델을 손봤다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "The Verge는 이런 발상이 예술을 즐기는 일의 가치와 어긋나고, 결국 시청자가 자기 취향에 맞춰 만들어지지 않은 작품을 멀리하게 만든다고 지적한다."
+                "x": "두 기능은 Luma의 에이전트형 제작 시스템 안에서 돌아가며, 결과물이 사용자가 정한 브랜드·캐릭터 규칙에 맞는지 평가한다. 해시태그로 브랜드 키트를, @로 캐릭터를 불러와 Luma에 브리프를 건네면 에이전트와 함께 100개 에셋 규모의 캠페인을 완성하는 식이다. Enterprise 전용 기능도 아니어서 Luma 사용자라면 누구나 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Googleが特許出願\nAI-made動画を無限に",
-          "body": "Googleの「My Channel」特許は視聴者データからAI動画フィードを作る構想だ。",
-          "mini_headline": "GoogleのAI動画フィード特許",
+          "headline": "Luma、ブランドと\nキャラクターを統一",
+          "body": "LumaのBrand KitとCharacter Libraryがロゴや人物を統一する。",
+          "mini_headline": "Luma、キャラのブレに対処",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+                "cap": "Brand KitとCharacter Libraryを発表"
               },
               {
                 "t": "p",
-                "x": "Googleは昨年、ユーザーについて把握している情報をもとに、個人向けのAI-generated動画や広告で埋め尽くしたフィードを作るMy Channelというシステムの特許を出願した。特許は拒絶されたが、Googleが不服を申し立てるか、修正版を再提出する可能性はある。"
+                "x": "ブランドを守る立場の人に、なぜAIに100%踏み込まないのかと尋ねれば、返ってくる答えは同じだ。AIはアドリブをするからである。ロゴは微妙にずれ、製品にはなかったはずのディテールが加わり、ブランドキャラクターの顔は三つ目のシーンになるといとこのような別人に見えてくる。Lumaはこれを変えるため、Brand KitとCharacter Libraryという二つの機能を投入する。"
               },
               {
                 "t": "p",
-                "x": "Patentlyzeが最初に見つけたこの特許は、昨年五月に出願され、先週公開された。My Channelは個人の属性データと視聴履歴から独自のプロンプトを作り、それをLLMに入力して本人の関心に合わせたAI動画を生成する仕組みだという。IPアドレスやGPS位置情報、ユーザーの年齢といった文脈データも収集し、最新ニュースをプロンプトの材料にすることもできる。生成はすべてGoogleのサーバー上で行われる。"
+                "x": "ロゴやフォント、製品をLuma Brand Kitに登録すれば、以降のすべての生成がそれに従う。正式なブランドガイドラインがなくても、ウェブサイトのURLを入れればエージェントが確認用の草案を作る。Brand Kitはどのボードにも紐づけて全生成の基準にでき、Brand Kitsの数に上限はない。"
               },
               {
                 "t": "p",
-                "x": "特許によれば、My Channelはさまざまなジャンルの映画を丸ごと量産し、他のストリーミングサービスとも連携できる。最も不穏なのは、ユーザーのデジタルアバターを作り、生み出すコンテンツの「主人公あるいは主役キャラクター」に据えるという記述だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
+                "x": "Assetsはキャラクター、アバター、モデルのためのデジタルライブラリとして機能し、顔、体、衣装、背景、表情の基準を保持する。キャラクターはボード内で\"@\"で参照でき、Lumaは肌や髪がさらにリアルに見えるようモデルを進化させたという。"
               },
               {
                 "t": "p",
-                "x": "The Vergeは、この発想は芸術に触れる価値と相容れず、想定された好みに合わせて作られていないものから視聴者を遠ざけると論じている。"
+                "x": "どちらもLumaのエージェント型制作システムに組み込まれているため、設定したブランドやキャラクターのルールに沿っているかを評価できる。ハッシュタグでブランドキットを、@でキャラクターを呼び出し、Lumaにブリーフを伝え、エージェントと協力して100アセット規模のキャンペーンを仕上げる。この機能はEnterprise限定ではなく、Lumaの全ユーザーが使える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google申请专利\n无尽推送AI-made视频",
-          "body": "Google的“My Channel”专利拟将观众数据转为提示词，生成个性化AI视频流。",
-          "mini_headline": "Google的AI视频流专利",
+          "headline": "Luma让品牌与\n角色保持一致",
+          "body": "Luma的Brand Kit与Character Library让标志和角色保持一致。",
+          "mini_headline": "Luma应对角色走样",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+                "cap": "推出Brand Kit与Character Library"
               },
               {
                 "t": "p",
-                "x": "去年，Google为一个名为My Channel的系统申请了专利，该系统旨在根据公司掌握的用户信息，生成充满个性化AI-generated视频和广告的内容流。该专利已被驳回，但Google可能提出申诉或提交修改后的版本。"
+                "x": "问任何一位守护品牌的人，为什么还没有100%投入AI，答案都一样：AI会即兴发挥。标志会略微走样，产品会多出原本没有的细节，品牌角色的脸到第三个场景就像换成了他的表亲。Luma推出两项功能来改变这一点：Brand Kit和Character Library。"
               },
               {
                 "t": "p",
-                "x": "这项专利由Patentlyze率先发现，于去年五月提交、上周公开。专利描述，My Channel会利用个人的人口统计数据和观看记录生成提示词，再输入LLM，生成符合其兴趣的AI视频。该系统还会采集IP地址、GPS位置及用户年龄等情境数据，并可依据时事新闻生成提示词；所有生成均在Google的服务器上完成。"
+                "x": "把标志、字体和产品上传到Luma Brand Kit，之后的每一次生成都会遵循它们。如果没有正式的品牌规范，可以填入网站URL，由智能体生成一份草稿供你审阅。Brand Kit可以绑定到任意看板，作为所有生成内容的依据，Brand Kits的数量没有上限。"
               },
               {
                 "t": "p",
-                "x": "根据专利，My Channel可以批量产出各种类型的完整电影，并接入其他流媒体服务。最令人不安的是，专利提到要为用户创建数字分身，并让其成为所产出内容中的“主角或主要角色”。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
+                "x": "Assets是角色、虚拟形象和模特的数字资料库，保存面部、身体、服装、场景和表情的基准。角色可以在看板中用\"@\"引用，Luma表示已改进模型，让皮肤和头发看起来更加真实。"
               },
               {
                 "t": "p",
-                "x": "The Verge认为，这一构想与艺术体验的价值背道而驰，还会让观众疏远任何并非按其假定口味打造的作品。"
+                "x": "由于两项功能都内置于Luma的智能体创作系统，它们可以评估作品是否符合你设定的品牌和角色规则：用话题标签调用品牌套件，用@调用角色，把需求告诉Luma，再与智能体合作完成一个包含100个素材的营销活动。这些功能向所有Luma用户开放，并不限于Enterprise。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google busca patentar un feed\ninfinito de videos AI-made",
-          "body": "La patente 'My Channel' de Google, rechazada por ahora, usaría datos del público para un feed de videos AI a medida.",
-          "mini_headline": "La patente de feed AI de Google",
+          "headline": "Luma mantiene la coherencia\nde marcas y personajes",
+          "body": "Brand Kit y Character Library de Luma mantienen coherentes logos, fuentes, productos y personajes en cada generación.",
+          "mini_headline": "Luma aborda la deriva de personajes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+                "cap": "Presentamos Brand Kit y Character Library"
               },
               {
                 "t": "p",
-                "x": "El año pasado, Google solicitó la patente de un sistema llamado My Channel, diseñado para crear feeds llenos de videos y anuncios AI-generated personalizados a partir de la información que la empresa tiene sobre sus usuarios. La patente fue rechazada, pero Google podría apelar o presentar una versión modificada."
+                "x": "Si se pregunta a cualquier responsable de una marca por qué no ha apostado al 100% por la AI, la respuesta es la misma: la AI improvisa. El logotipo se desvía un poco, el producto gana un detalle que nunca tuvo y, para la tercera escena, la cara del personaje de la marca parece la de un primo. Luma lanza dos funciones para cambiarlo: Brand Kit y Character Library."
               },
               {
                 "t": "p",
-                "x": "Detectada primero por Patentlyze, la patente —presentada en mayo del año pasado y publicada la semana pasada— describe cómo My Channel usaría los datos demográficos y el historial de visualización de una persona para crear sus propios prompts, que luego se introducirían en un LLM para generar videos con AI adaptados a sus intereses. El sistema también recogería datos de contexto como direcciones IP, ubicaciones GPS y detalles sobre la edad del usuario, y podría basar los prompts en noticias de actualidad; toda la generación ocurriría en los servidores de Google."
+                "x": "Basta con subir logotipos, fuentes y productos a un Luma Brand Kit para que todas las generaciones posteriores los respeten. Si no existe una guía de marca formal, se puede añadir la URL del sitio web y el agente creará un borrador para revisarlo. Un Brand Kit puede vincularse a cualquier tablero como fuente de verdad para cualquier generación, sin límite en el número de Brand Kits."
               },
               {
                 "t": "p",
-                "x": "Según la patente, My Channel podría producir películas enteras de distintos géneros y conectarse con otros servicios de streaming. Lo más inquietante son sus menciones a crear avatares digitales de los usuarios y convertirlos en “el protagonista o personaje principal” del contenido que genera."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
+                "x": "Assets funciona como una biblioteca digital de personajes, avatares y modelos, y guarda la fuente de verdad del rostro, el cuerpo, el vestuario, los entornos y las expresiones. Los personajes pueden referenciarse con \"@\" en los tableros, y Luma afirma que ha mejorado sus modelos para que la piel y el cabello se vean aún más reales."
               },
               {
                 "t": "p",
-                "x": "The Verge sostiene que la idea choca con lo que hace valioso el contacto con el arte y que alejaría a los espectadores de todo lo que no esté hecho a la medida de sus supuestos gustos."
+                "x": "Como ambas funciones están integradas en el sistema de creación agéntica de Luma, pueden evaluar la alineación con las reglas de marca y personaje definidas: se incorpora un brand kit con un hashtag y un personaje con una @, se le da a Luma el encargo y se trabaja con el agente hasta completar una campaña de 100 piezas. Las funciones están disponibles para todos en Luma, no reservadas a Enterprise."
               }
             ]
           }
@@ -217,137 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google 특허 출원\n끝없는 AI-made 영상",
-          "body": "Google My Channel 특허는 시청자 데이터로 AI 영상 피드를 만든다.",
-          "mini_headline": "Google AI 영상 피드 특허",
+          "headline": "Luma, 브랜드와\n캐릭터 일관성 지킨다",
+          "body": "Luma Brand Kit·Character Library가 로고·캐릭터를 지킨다.",
+          "mini_headline": "Luma, 캐릭터 흔들림 잡는다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+                "cap": "Brand Kit와 Character Library 소개"
               },
               {
                 "t": "p",
-                "x": "Google은 지난해 사용자에 관해 회사가 아는 정보를 바탕으로 개인 맞춤형 AI-generated 영상과 광고로 채운 피드를 만드는 My Channel이라는 시스템의 특허를 출원했다. 특허는 거절됐지만 Google이 이의를 제기하거나 수정본을 다시 낼 가능성이 있다."
+                "x": "브랜드를 지키는 사람에게 왜 AI에 100% 뛰어들지 않느냐고 물으면 답은 같다. AI가 즉흥적으로 군다는 것이다. 로고는 미묘하게 어긋나고, 제품에는 원래 없던 디테일이 생기며, 브랜드 캐릭터의 얼굴은 세 번째 장면쯤 되면 사촌처럼 보인다. Luma는 이를 바꾸기 위해 Brand Kit와 Character Library라는 두 기능을 내놓는다."
               },
               {
                 "t": "p",
-                "x": "Patentlyze가 처음 발견한 이 특허는 지난해 오월 출원돼 지난주 공개됐다. 특허에 따르면 My Channel은 개인의 인구통계 데이터와 시청 기록으로 자체 프롬프트를 만들고, 이를 LLM에 넣어 그 사람의 관심사에 맞춘 AI 영상을 생성한다. 시스템은 IP 주소, GPS 위치, 사용자 나이 같은 맥락 데이터도 수집하고 최신 뉴스를 프롬프트의 바탕으로 삼을 수 있으며, 모든 생성은 Google 서버에서 이뤄진다."
+                "x": "로고와 글꼴, 제품을 Luma Brand Kit에 올리면 이후 모든 생성물이 이를 따른다. 공식 브랜드 가이드라인이 없다면 웹사이트 URL을 넣으면 된다. 에이전트가 검토용 초안을 만들어 준다. Brand Kit는 어느 보드에든 연결해 모든 생성의 기준으로 삼을 수 있고, Brand Kits 개수에는 제한이 없다."
               },
               {
                 "t": "p",
-                "x": "특허에 따르면 My Channel은 다양한 장르의 영화를 통째로 찍어낼 수 있고 다른 스트리밍 서비스와도 연결된다. 가장 불안한 대목은 사용자의 디지털 아바타를 만들어, 쏟아내는 콘텐츠 속 “주인공이나 주연 캐릭터”로 삼는다는 언급이다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
+                "x": "Assets는 캐릭터와 아바타, 모델을 위한 디지털 라이브러리 역할을 하며 얼굴과 몸, 의상, 배경, 표정의 기준을 담는다. 캐릭터는 보드에서 \"@\"로 불러올 수 있고, Luma는 피부와 머리카락이 한층 더 사실적으로 보이도록 모델을 발전시켰다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "The Verge는 이 아이디어가 예술을 즐기는 일의 가치와 어긋나며, 시청자가 자기 취향에 맞춰 만들어지지 않은 작품을 멀리하게 만들 것이라고 지적한다."
+                "x": "두 기능 모두 Luma의 에이전트형 제작 시스템에 들어 있어, 사용자가 정한 브랜드·캐릭터 규칙에 맞는지 평가할 수 있다. 해시태그로 브랜드 키트를, @로 캐릭터를 불러오고 Luma에 브리프를 전한 뒤 에이전트와 함께 100개 에셋 규모의 캠페인을 완성하는 식이다. 이 기능은 Enterprise 전용이 아니라 Luma의 모든 사용자에게 열려 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Googleが特許出願\nAI-made動画を無限に",
-          "body": "Googleの「My Channel」特許は視聴者データからAI動画フィードを作る構想だ。",
-          "mini_headline": "GoogleのAI動画フィード特許",
+          "headline": "Luma、ブランドと\nキャラクターを統一",
+          "body": "LumaのBrand KitとCharacter Libraryがロゴや人物を統一する。",
+          "mini_headline": "Luma、キャラのブレに対処",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+                "cap": "Brand KitとCharacter Libraryを発表"
               },
               {
                 "t": "p",
-                "x": "Googleは昨年、ユーザーについて把握している情報をもとに、個人向けのAI-generated動画や広告で埋め尽くしたフィードを作るMy Channelというシステムの特許を出願した。特許は拒絶されたが、Googleが不服を申し立てるか、修正版を再提出する可能性はある。"
+                "x": "ブランドを守る立場の人に、なぜAIに100%踏み込まないのかと尋ねれば、返ってくる答えは同じだ。AIはアドリブをするからである。ロゴは微妙にずれ、製品にはなかったはずのディテールが加わり、ブランドキャラクターの顔は三つ目のシーンになるといとこのような別人に見えてくる。Lumaはこれを変えるため、Brand KitとCharacter Libraryという二つの機能を投入する。"
               },
               {
                 "t": "p",
-                "x": "Patentlyzeが最初に見つけたこの特許は、昨年五月に出願され、先週公開された。My Channelは個人の属性データと視聴履歴から独自のプロンプトを作り、それをLLMに入力して本人の関心に合わせたAI動画を生成する仕組みだという。IPアドレスやGPS位置情報、ユーザーの年齢といった文脈データも収集し、最新ニュースをプロンプトの材料にすることもできる。生成はすべてGoogleのサーバー上で行われる。"
+                "x": "ロゴやフォント、製品をLuma Brand Kitに登録すれば、以降のすべての生成がそれに従う。正式なブランドガイドラインがなくても、ウェブサイトのURLを入れればエージェントが確認用の草案を作る。Brand Kitはどのボードにも紐づけて全生成の基準にでき、Brand Kitsの数に上限はない。"
               },
               {
                 "t": "p",
-                "x": "特許によれば、My Channelはさまざまなジャンルの映画を丸ごと量産し、他のストリーミングサービスとも連携できる。最も不穏なのは、ユーザーのデジタルアバターを作り、生み出すコンテンツの「主人公あるいは主役キャラクター」に据えるという記述だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
+                "x": "Assetsはキャラクター、アバター、モデルのためのデジタルライブラリとして機能し、顔、体、衣装、背景、表情の基準を保持する。キャラクターはボード内で\"@\"で参照でき、Lumaは肌や髪がさらにリアルに見えるようモデルを進化させたという。"
               },
               {
                 "t": "p",
-                "x": "The Vergeは、この発想は芸術に触れる価値と相容れず、想定された好みに合わせて作られていないものから視聴者を遠ざけると論じている。"
+                "x": "どちらもLumaのエージェント型制作システムに組み込まれているため、設定したブランドやキャラクターのルールに沿っているかを評価できる。ハッシュタグでブランドキットを、@でキャラクターを呼び出し、Lumaにブリーフを伝え、エージェントと協力して100アセット規模のキャンペーンを仕上げる。この機能はEnterprise限定ではなく、Lumaの全ユーザーが使える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google申请专利\n无尽推送AI-made视频",
-          "body": "Google的“My Channel”专利拟将观众数据转为提示词，生成个性化AI视频流。",
-          "mini_headline": "Google的AI视频流专利",
+          "headline": "Luma让品牌与\n角色保持一致",
+          "body": "Luma的Brand Kit与Character Library让标志和角色保持一致。",
+          "mini_headline": "Luma应对角色走样",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+                "cap": "推出Brand Kit与Character Library"
               },
               {
                 "t": "p",
-                "x": "去年，Google为一个名为My Channel的系统申请了专利，该系统旨在根据公司掌握的用户信息，生成充满个性化AI-generated视频和广告的内容流。该专利已被驳回，但Google可能提出申诉或提交修改后的版本。"
+                "x": "问任何一位守护品牌的人，为什么还没有100%投入AI，答案都一样：AI会即兴发挥。标志会略微走样，产品会多出原本没有的细节，品牌角色的脸到第三个场景就像换成了他的表亲。Luma推出两项功能来改变这一点：Brand Kit和Character Library。"
               },
               {
                 "t": "p",
-                "x": "这项专利由Patentlyze率先发现，于去年五月提交、上周公开。专利描述，My Channel会利用个人的人口统计数据和观看记录生成提示词，再输入LLM，生成符合其兴趣的AI视频。该系统还会采集IP地址、GPS位置及用户年龄等情境数据，并可依据时事新闻生成提示词；所有生成均在Google的服务器上完成。"
+                "x": "把标志、字体和产品上传到Luma Brand Kit，之后的每一次生成都会遵循它们。如果没有正式的品牌规范，可以填入网站URL，由智能体生成一份草稿供你审阅。Brand Kit可以绑定到任意看板，作为所有生成内容的依据，Brand Kits的数量没有上限。"
               },
               {
                 "t": "p",
-                "x": "根据专利，My Channel可以批量产出各种类型的完整电影，并接入其他流媒体服务。最令人不安的是，专利提到要为用户创建数字分身，并让其成为所产出内容中的“主角或主要角色”。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
+                "x": "Assets是角色、虚拟形象和模特的数字资料库，保存面部、身体、服装、场景和表情的基准。角色可以在看板中用\"@\"引用，Luma表示已改进模型，让皮肤和头发看起来更加真实。"
               },
               {
                 "t": "p",
-                "x": "The Verge认为，这一构想与艺术体验的价值背道而驰，还会让观众疏远任何并非按其假定口味打造的作品。"
+                "x": "由于两项功能都内置于Luma的智能体创作系统，它们可以评估作品是否符合你设定的品牌和角色规则：用话题标签调用品牌套件，用@调用角色，把需求告诉Luma，再与智能体合作完成一个包含100个素材的营销活动。这些功能向所有Luma用户开放，并不限于Enterprise。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google busca patentar un feed\ninfinito de videos AI-made",
-          "body": "La patente 'My Channel' de Google, rechazada por ahora, usaría datos del público para un feed de videos AI a medida.",
-          "mini_headline": "La patente de feed AI de Google",
+          "headline": "Luma mantiene la coherencia\nde marcas y personajes",
+          "body": "Brand Kit y Character Library de Luma mantienen coherentes logos, fuentes, productos y personajes en cada generación.",
+          "mini_headline": "Luma aborda la deriva de personajes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+                "cap": "Presentamos Brand Kit y Character Library"
               },
               {
                 "t": "p",
-                "x": "El año pasado, Google solicitó la patente de un sistema llamado My Channel, diseñado para crear feeds llenos de videos y anuncios AI-generated personalizados a partir de la información que la empresa tiene sobre sus usuarios. La patente fue rechazada, pero Google podría apelar o presentar una versión modificada."
+                "x": "Si se pregunta a cualquier responsable de una marca por qué no ha apostado al 100% por la AI, la respuesta es la misma: la AI improvisa. El logotipo se desvía un poco, el producto gana un detalle que nunca tuvo y, para la tercera escena, la cara del personaje de la marca parece la de un primo. Luma lanza dos funciones para cambiarlo: Brand Kit y Character Library."
               },
               {
                 "t": "p",
-                "x": "Detectada primero por Patentlyze, la patente —presentada en mayo del año pasado y publicada la semana pasada— describe cómo My Channel usaría los datos demográficos y el historial de visualización de una persona para crear sus propios prompts, que luego se introducirían en un LLM para generar videos con AI adaptados a sus intereses. El sistema también recogería datos de contexto como direcciones IP, ubicaciones GPS y detalles sobre la edad del usuario, y podría basar los prompts en noticias de actualidad; toda la generación ocurriría en los servidores de Google."
+                "x": "Basta con subir logotipos, fuentes y productos a un Luma Brand Kit para que todas las generaciones posteriores los respeten. Si no existe una guía de marca formal, se puede añadir la URL del sitio web y el agente creará un borrador para revisarlo. Un Brand Kit puede vincularse a cualquier tablero como fuente de verdad para cualquier generación, sin límite en el número de Brand Kits."
               },
               {
                 "t": "p",
-                "x": "Según la patente, My Channel podría producir películas enteras de distintos géneros y conectarse con otros servicios de streaming. Lo más inquietante son sus menciones a crear avatares digitales de los usuarios y convertirlos en “el protagonista o personaje principal” del contenido que genera."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
+                "x": "Assets funciona como una biblioteca digital de personajes, avatares y modelos, y guarda la fuente de verdad del rostro, el cuerpo, el vestuario, los entornos y las expresiones. Los personajes pueden referenciarse con \"@\" en los tableros, y Luma afirma que ha mejorado sus modelos para que la piel y el cabello se vean aún más reales."
               },
               {
                 "t": "p",
-                "x": "The Verge sostiene que la idea choca con lo que hace valioso el contacto con el arte y que alejaría a los espectadores de todo lo que no esté hecho a la medida de sus supuestos gustos."
+                "x": "Como ambas funciones están integradas en el sistema de creación agéntica de Luma, pueden evaluar la alineación con las reglas de marca y personaje definidas: se incorpora un brand kit con un hashtag y un personaje con una @, se le da a Luma el encargo y se trabaja con el agente hasta completar una campaña de 100 piezas. Las funciones están disponibles para todos en Luma, no reservadas a Enterprise."
               }
             ]
           }
@@ -355,15 +325,15 @@
       }
     },
     {
-      "id": "lionsgate-eklavya-ai-series",
+      "id": "movies-microdrama-mpa-20bn",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Lionsgate Play\n첫 AI-led 시리즈",
-      "body": "Mahabharata 궁수 이야기 Eklavya의 주연은 Yug R.Ai가 맡는다.",
-      "mini_headline": "Lionsgate Play의 AI-led 시리즈",
+      "headline": "마이크로드라마 $20bn\nAI가 대부분 만든다",
+      "body": "중국 밖 신작 약 75%는 AI-made지만 중국 AI 작품 매출은 20%뿐이다.",
+      "mini_headline": "마이크로드라마 매출 $20bn 돌파",
       "tool": "Movies",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/11/lionsgate-play-eklavya-ai-series-tiger-tv-1237232555/",
+      "source": "Screen Daily",
+      "url": "https://www.screendaily.com/news/microdrama-revenues-hit-20bn-in-2026-but-profits-remain-elusive-outside-china/5222807.article",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -371,173 +341,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
+            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/1/1493181_reelshortshowbox_896332.jpg"
           },
           {
             "t": "p",
-            "x": "EXCLUSIVE: Lionsgate Play가 첫 AI-led 오리지널 시리즈 Eklavya를 선보인다. 인도 신화에서 출발한 이 시리즈에는 Lionsgate Play CEO Rohit Jain이 최근 공개한 AI 배우 캐릭터 Yug R.Ai가 나온다."
+            "x": "Media Partners Asia(MPA)의 두 번째 Micro-Drama Economy 보고서에 따르면 2026년 전 세계 마이크로드라마 매출은 전년 대비 24% 늘어난 $20bn 규모로 커졌지만 중국 밖에서는 여전히 돈을 벌기 어렵다. 전체 매출은 2031년 $32bn 규모에 이를 전망이다. 중국은 올해 전체의 76%인 $15.2bn 규모를 올릴 것으로 보이고, 중국 밖 전용 앱 매출은 $4.87bn 규모다."
           },
           {
             "t": "p",
-            "x": "작품은 힌두 서사시 Mahābhārata 속 궁수 캐릭터를 바탕으로 “스승에게 거절당했지만 순전한 의지로 활을 익힌 소년의 전설”을 그린다. 연출은 Vibhu Puri(Heeramandi, Gustaakh Ishq)가 맡았다. 첫 공개 무대는 내년 Lionsgate Play 앱 안의 Tiger TV다."
+            "x": "중국 밖에서는 매출의 56%가 마케팅에 쓰이고 18%가 앱스토어와 결제 업체로 빠진다. 한 달에 돈을 내는 이용자도 12명 중 한 명꼴이라 마진이 얇다. 지난해 DramaBox의 순이익률은 3.2%였고 ReelShort는 $12m 규모의 손실을 봤다. 중국 밖 매출의 65%는 ReelShort, Kunlun, NetShort, DramaBox가 가져간다."
           },
           {
             "t": "p",
-            "x": "제작은 이미 시작됐다. Lionsgate Play와 Google의 장기 제작 협약도 이 작품에서 출발하며, Google의 AI 기술이 쓰인다. 인도의 여러 언어와 해외 여러 언어로 나올 예정이다."
-          },
-          {
-            "t": "p",
-            "x": "Jain은 “기술의 도약은 언제나 이야기꾼에게 새로운 문을 열어 줬고, AI는 그 어떤 기술보다 더 많은 문을 더 빠르게 열고 있다. 하지만 기술만으로 화면 속 마법이 만들어지지는 않는다”고 말했다. 그는 “Eklavya는 우리의 의지를 가장 대담하게 보여 주는 작품으로, 여덟 편짜리 첫 시즌을 여러 시즌의 프랜차이즈로 키우도록 설계했다. Yug R.Ai는 시작일 뿐이다”라고 덧붙였다."
+            "x": "중국 밖 앱에 올라온 신작은 2025년 약 100,000편에서 2026년 440,000편으로 늘었다. 이 가운데 약 75%가 AI로 만든(AI-made) 작품이고, 제작비는 \"로스앤젤레스(Los Angeles)에서 촬영한 시리즈의 약 십분의 일\" 수준이다. 중국은 2026년 공개작 10편 중 약 아홉 편이 AI 작품인데도 올해 매출 비중은 20%에 그친다. 집계한 여섯 개 플랫폼 중 다섯 곳에서는 상위 50편 대부분이 아직 실사(Live-action) 작품이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Lionsgate Play sets Eklavya\nas its first AI-led series",
-          "body": "Lionsgate Play's first AI-led original, 'Eklavya', is based on the Mahabharata archer and stars AI actor Yug R.Ai.",
-          "mini_headline": "Lionsgate Play's AI-led series",
+          "headline": "Microdramas reach $20bn\nas AI drives most output",
+          "body": "About 75% of new microdramas outside China are AI-made, yet in China AI titles earn only 20% of revenue.",
+          "mini_headline": "Microdrama revenue hits $20bn",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/1/1493181_reelshortshowbox_896332.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE: Lionsgate Play is setting its first AI-led original series, Eklavya. The series, based around Indian mythology, will feature Yug R.Ai, the AI actor character that Lionsgate Play CEO Rohit Jain recently unveiled."
+                "x": "Global microdrama revenue has hit $20bn in 2026, rising 24% year-on-year, but the business struggles to make profit outside of China, according to Media Partners Asia's (MPA) second Micro-Drama Economy report. Total revenue will reach $32bn by 2031. China is projected to generate $15.2bn this year, 76% of the total, while dedicated apps outside China earn $4.87bn."
               },
               {
                 "t": "p",
-                "x": "It is based around an archer character from the Hindu epic Mahābhārata, following “the myth of the legend of a boy turned away by his guru, who went on to master the bow through sheer will.” Vibhu Puri (Heeramandi, Gustaakh Ishq) will direct the show, which will premiere next year on Tiger TV within the Lionsgate Play app."
+                "x": "Outside China, 56% is spent on marketing and a further 18% goes to app stores and payment providers; about one user in 12 pays in a given month, so margins remain thin. DramaBox recorded a net margin of 3.2% last year while ReelShort lost $12m. ReelShort, Kunlun, NetShort and DramaBox account for 65% of revenue outside China."
               },
               {
                 "t": "p",
-                "x": "Production is underway, marking the start of a long-term production pact between Lionsgate Play and Google, whose AI technology is being used. It will be offered in multiple Indian and international languages."
-              },
-              {
-                "t": "p",
-                "x": "“Every leap in technology has opened new doors for storytellers, and AI is opening more of them, faster, than anything before it, but technology alone doesn't create magic on screen,” said Jain. “Eklavya is our boldest statement of intent, an eight-episode first season built to grow into a multi-season franchise, and Yug R.Ai is just the beginning.”"
+                "x": "New titles listed on apps outside China increased from around 100,000 in 2025 to 440,000 in 2026. Some 75% were made using AI, with an AI-made title costing \"about a tenth of a series filmed in Los Angeles\". In China, AI accounts for about nine out of 10 titles released in 2026, but only 20% of the year's revenue. Live-action still holds most of the top 50 titles on five of the six platforms tracked."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Lionsgate Play\n첫 AI-led 시리즈",
-          "body": "Mahabharata 궁수 이야기 Eklavya의 주연은 Yug R.Ai가 맡는다.",
-          "mini_headline": "Lionsgate Play의 AI-led 시리즈",
+          "headline": "마이크로드라마 $20bn\nAI가 대부분 만든다",
+          "body": "중국 밖 신작 약 75%는 AI-made지만 중국 AI 작품 매출은 20%뿐이다.",
+          "mini_headline": "마이크로드라마 매출 $20bn 돌파",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/1/1493181_reelshortshowbox_896332.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE: Lionsgate Play가 첫 AI-led 오리지널 시리즈 Eklavya를 선보인다. 인도 신화에서 출발한 이 시리즈에는 Lionsgate Play CEO Rohit Jain이 최근 공개한 AI 배우 캐릭터 Yug R.Ai가 나온다."
+                "x": "Media Partners Asia(MPA)의 두 번째 Micro-Drama Economy 보고서에 따르면 2026년 전 세계 마이크로드라마 매출은 전년 대비 24% 늘어난 $20bn 규모로 커졌지만 중국 밖에서는 여전히 돈을 벌기 어렵다. 전체 매출은 2031년 $32bn 규모에 이를 전망이다. 중국은 올해 전체의 76%인 $15.2bn 규모를 올릴 것으로 보이고, 중국 밖 전용 앱 매출은 $4.87bn 규모다."
               },
               {
                 "t": "p",
-                "x": "작품은 힌두 서사시 Mahābhārata 속 궁수 캐릭터를 바탕으로 “스승에게 거절당했지만 순전한 의지로 활을 익힌 소년의 전설”을 그린다. 연출은 Vibhu Puri(Heeramandi, Gustaakh Ishq)가 맡았다. 첫 공개 무대는 내년 Lionsgate Play 앱 안의 Tiger TV다."
+                "x": "중국 밖에서는 매출의 56%가 마케팅에 쓰이고 18%가 앱스토어와 결제 업체로 빠진다. 한 달에 돈을 내는 이용자도 12명 중 한 명꼴이라 마진이 얇다. 지난해 DramaBox의 순이익률은 3.2%였고 ReelShort는 $12m 규모의 손실을 봤다. 중국 밖 매출의 65%는 ReelShort, Kunlun, NetShort, DramaBox가 가져간다."
               },
               {
                 "t": "p",
-                "x": "제작은 이미 시작됐다. Lionsgate Play와 Google의 장기 제작 협약도 이 작품에서 출발하며, Google의 AI 기술이 쓰인다. 인도의 여러 언어와 해외 여러 언어로 나올 예정이다."
-              },
-              {
-                "t": "p",
-                "x": "Jain은 “기술의 도약은 언제나 이야기꾼에게 새로운 문을 열어 줬고, AI는 그 어떤 기술보다 더 많은 문을 더 빠르게 열고 있다. 하지만 기술만으로 화면 속 마법이 만들어지지는 않는다”고 말했다. 그는 “Eklavya는 우리의 의지를 가장 대담하게 보여 주는 작품으로, 여덟 편짜리 첫 시즌을 여러 시즌의 프랜차이즈로 키우도록 설계했다. Yug R.Ai는 시작일 뿐이다”라고 덧붙였다."
+                "x": "중국 밖 앱에 올라온 신작은 2025년 약 100,000편에서 2026년 440,000편으로 늘었다. 이 가운데 약 75%가 AI로 만든(AI-made) 작품이고, 제작비는 \"로스앤젤레스(Los Angeles)에서 촬영한 시리즈의 약 십분의 일\" 수준이다. 중국은 2026년 공개작 10편 중 약 아홉 편이 AI 작품인데도 올해 매출 비중은 20%에 그친다. 집계한 여섯 개 플랫폼 중 다섯 곳에서는 상위 50편 대부분이 아직 실사(Live-action) 작품이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Lionsgate Play\n初のAI-ledシリーズ",
-          "body": "Mahabharataの弓使いを描くEklavyaは、AI俳優Yug R.Aiが主演だ。",
-          "mini_headline": "Lionsgate PlayのAI-ledシリーズ",
+          "headline": "マイクロドラマ $20bn\nAIが制作の大半を担う",
+          "body": "中国外の新作の約75%はAI-madeだが、中国でAI作品の収益は20%にとどまる。",
+          "mini_headline": "マイクロドラマ収益が$20bn に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/1/1493181_reelshortshowbox_896332.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE：Lionsgate Playが初のAI-ledオリジナルシリーズEklavyaを手がける。インド神話を題材にした本作には、Lionsgate PlayのCEO Rohit Jainが最近発表したAI俳優キャラクターYug R.Aiが登場する。"
+                "x": "Media Partners Asia（MPA）の二回目となるMicro-Drama Economyレポートによると、2026年の世界のマイクロドラマ収益は前年比24%増の$20bn に達したが、中国以外では利益を出すのに苦戦している。総収益は2031年までに$32bn に達する見通しだ。中国は今年、全体の76%にあたる$15.2bn を生み出すと予測され、中国以外の専用アプリの収益は$4.87bn である。"
               },
               {
                 "t": "p",
-                "x": "本作はヒンドゥー教の叙事詩Mahābhārataに登場する弓の名手を軸に、「師に拒まれながらも、ひたすらな意志で弓を極めた少年の伝説」を描く。監督はVibhu Puri（Heeramandi、Gustaakh Ishq）が務め、来年Lionsgate Playアプリ内のTiger TVで配信が始まる。"
+                "x": "中国以外では56%がマーケティングに費やされ、さらに18%がアプリストアや決済事業者に渡る。ある月に課金するユーザーは12人に一人程度で、利益率は薄いままだ。DramaBoxは昨年3.2%の純利益率を記録した一方、ReelShortは$12m の損失を出した。ReelShort、Kunlun、NetShort、DramaBoxで中国以外の収益の65%を占める。"
               },
               {
                 "t": "p",
-                "x": "制作はすでに進んでおり、Lionsgate PlayとGoogleによる長期の制作提携の第一弾となる。GoogleのAI技術が使われている。インド国内外の複数の言語で提供される予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "Jainは「技術の飛躍は常に語り手に新たな扉を開いてきた。AIはこれまでのどの技術よりも多くの扉を、より速く開いている。だが、技術だけでスクリーンに魔法は生まれない」と語った。さらに「Eklavyaは私たちの意志を最も大胆に示すものだ。全八話の第一シーズンは、複数シーズンのフランチャイズへ育つよう作られている。Yug R.Aiは始まりにすぎない」と述べた。"
+                "x": "中国以外のアプリに掲載された新作は、2025年の約100,000本から2026年には440,000本に増えた。そのうち約75%がAIで制作され、AIで作った（AI-made）作品のコストは「ロサンゼルス（Los Angeles）で撮影したシリーズの約十分の一」だという。中国では2026年に公開された作品の10本中約九本をAIが占めるが、年間収益に占める割合は20%にすぎない。追跡対象の六つのプラットフォームのうち五つでは、上位50作品の大半を今も実写（Live-action）作品が占めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Lionsgate Play\n首部AI-led剧集",
-          "body": "Eklavya取材自Mahabharata中的弓箭手，由AI演员Yug R.Ai主演。",
-          "mini_headline": "Lionsgate Play的AI-led剧集",
+          "headline": "微短剧收入达 $20bn\nAI主导多数产出",
+          "body": "中国以外约75%新微短剧为AI-made，中国AI作品却只占20%收入。",
+          "mini_headline": "微短剧收入达 $20bn",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/1/1493181_reelshortshowbox_896332.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE：Lionsgate Play正推出旗下首部AI-led原创剧集Eklavya。该剧以印度神话为背景，将由Lionsgate Play CEO Rohit Jain近期发布的AI演员角色Yug R.Ai出演。"
+                "x": "根据Media Partners Asia（MPA）第二份Micro-Drama Economy报告，2026年全球微短剧收入已达 $20bn ，同比增长24%，但这门生意在中国以外难以盈利。到2031年，总收入将达到 $32bn 。预计中国今年将贡献 $15.2bn ，占总额的76%，而中国以外的专门应用收入为 $4.87bn 。"
               },
               {
                 "t": "p",
-                "x": "该剧以印度教史诗Mahābhārata中的一位弓箭手为原型，讲述“一个被师父拒之门外、凭借纯粹意志练成箭术的少年的传说”。Vibhu Puri（Heeramandi、Gustaakh Ishq）将执导该剧，剧集将于明年在Lionsgate Play应用内的Tiger TV首播。"
+                "x": "在中国以外，56%的收入用于营销，另有18%流向应用商店和支付服务商；每月付费的用户约为每12人中一人，因此利润率依然微薄。DramaBox去年净利润率为3.2%，ReelShort则亏损 $12m 。ReelShort、Kunlun、NetShort和DramaBox占中国以外收入的65%。"
               },
               {
                 "t": "p",
-                "x": "该剧已开机，这标志着Lionsgate Play与Google长期制作合作的开端，剧中使用了Google的AI技术。剧集将提供多种印度语言及国际语言版本。"
-              },
-              {
-                "t": "p",
-                "x": "Jain表示：“每一次技术飞跃都为讲故事的人打开了新的大门，而AI比以往任何技术都打开得更多、更快，但仅靠技术并不能在银幕上创造魔法。”他还说：“Eklavya是我们最大胆的意向宣言，首季共八集，旨在发展为多季系列，而Yug R.Ai只是开始。”"
+                "x": "中国以外应用上架的新作从2025年的约100,000部增至2026年的440,000部。其中约75%使用AI制作，一部AI制作（AI-made）作品的成本“约为在洛杉矶（Los Angeles）拍摄的剧集的十分之一”。在中国，2026年上线的作品中每10部约有九部是AI作品，但只贡献了全年收入的20%。在追踪的六个平台中，有五个平台的前50名作品仍以真人实拍（Live-action）为主。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lionsgate Play anuncia Eklavya,\nsu primera serie AI-led",
-          "body": "Eklavya, primera serie AI-led de Lionsgate Play, sigue a un arquero del Mahabharata y la protagoniza Yug R.Ai.",
-          "mini_headline": "La serie AI-led de Lionsgate Play",
+          "headline": "Los microdramas llegan a $20bn\ny la AI ya genera la mayoría",
+          "body": "Cerca del 75% de los nuevos microdramas fuera de China son AI-made, pero en China la AI solo da el 20% del ingreso.",
+          "mini_headline": "Los microdramas facturan $20bn",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/1/1493181_reelshortshowbox_896332.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE: Lionsgate Play prepara su primera serie original AI-led, Eklavya. La serie, basada en la mitología india, contará con Yug R.Ai, el personaje de actor AI que el CEO de Lionsgate Play, Rohit Jain, presentó recientemente."
+                "x": "Los ingresos mundiales de los microdramas alcanzaron $20bn en 2026, un 24% más que el año anterior, pero el negocio tiene dificultades para ser rentable fuera de China, según el segundo informe Micro-Drama Economy de Media Partners Asia (MPA). Los ingresos totales llegarán a $32bn en 2031. Se prevé que China genere $15.2bn este año, el 76% del total, mientras que las aplicaciones dedicadas fuera de China ingresan $4.87bn."
               },
               {
                 "t": "p",
-                "x": "Se basa en un personaje arquero de la epopeya hindú Mahābhārata y sigue “el mito de la leyenda de un niño rechazado por su gurú, que llegó a dominar el arco por pura voluntad”. Vibhu Puri (Heeramandi, Gustaakh Ishq) dirigirá la serie, que se estrenará el próximo año en Tiger TV, dentro de la app de Lionsgate Play."
+                "x": "Fuera de China, el 56% se destina a marketing y otro 18% va a las tiendas de aplicaciones y a los proveedores de pago; aproximadamente uno de cada 12 usuarios paga en un mes determinado, por lo que los márgenes siguen siendo estrechos. DramaBox registró un margen neto del 3.2% el año pasado, mientras que ReelShort perdió $12m. ReelShort, Kunlun, NetShort y DramaBox suman el 65% de los ingresos fuera de China."
               },
               {
                 "t": "p",
-                "x": "La producción ya está en marcha y marca el inicio de un acuerdo de producción a largo plazo entre Lionsgate Play y Google, cuya tecnología de AI se está utilizando. Se ofrecerá en varios idiomas indios e internacionales."
-              },
-              {
-                "t": "p",
-                "x": "“Cada salto tecnológico ha abierto nuevas puertas a los narradores, y la AI está abriendo más, y más rápido, que nada antes, pero la tecnología por sí sola no crea magia en pantalla”, dijo Jain. “Eklavya es nuestra declaración de intenciones más audaz, una primera temporada de ocho episodios pensada para crecer hasta convertirse en una franquicia de varias temporadas, y Yug R.Ai es solo el comienzo”."
+                "x": "Los nuevos títulos publicados en aplicaciones fuera de China pasaron de unos 100,000 en 2025 a 440,000 en 2026. Alrededor del 75% se hizo con AI, y un título hecho con AI (AI-made) cuesta \"aproximadamente una décima parte de una serie rodada en Los Angeles\". En China, la AI representa cerca de nueve de cada 10 títulos estrenados en 2026, pero solo el 20% de los ingresos del año. La imagen real (Live-action) sigue ocupando la mayoría de los 50 títulos principales en cinco de las seis plataformas analizadas."
               }
             ]
           }
@@ -545,121 +491,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Lionsgate Play\n첫 AI-led 시리즈",
-          "body": "Eklavya는 Mahabharata 궁수 이야기로, Yug R.Ai가 주연한다.",
-          "mini_headline": "Lionsgate Play의 AI-led 시리즈",
+          "headline": "마이크로드라마 $20bn\nAI가 대부분 만든다",
+          "body": "중국 밖 신작 약 75%는 AI-made지만 중국 AI 작품 매출은 20%뿐이다.",
+          "mini_headline": "마이크로드라마 매출 $20bn 돌파",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/1/1493181_reelshortshowbox_896332.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE: Lionsgate Play가 첫 AI-led 오리지널 시리즈 Eklavya를 선보인다. 인도 신화를 바탕으로 한 이 시리즈에는 Lionsgate Play CEO Rohit Jain이 최근 공개한 AI 배우 캐릭터 Yug R.Ai가 출연한다."
+                "x": "Media Partners Asia(MPA)의 두 번째 Micro-Drama Economy 보고서에 따르면 2026년 전 세계 마이크로드라마 매출은 전년 대비 24% 늘어난 $20bn 규모에 이르렀지만, 중국 밖에서는 수익을 내기 어려운 상황이다. 전체 매출은 2031년까지 $32bn 규모에 이를 전망이다. 중국은 올해 전체의 76%인 $15.2bn 규모를 올릴 것으로 예상되며, 중국 밖 전용 앱의 매출은 $4.87bn 규모다."
               },
               {
                 "t": "p",
-                "x": "작품은 힌두 서사시 Mahābhārata에 나오는 궁수 캐릭터를 바탕으로 “스승에게 거절당했지만 순전한 의지로 활을 익힌 소년의 전설”을 따라간다. Vibhu Puri(Heeramandi, Gustaakh Ishq)가 연출을 맡고, 내년 Lionsgate Play 앱 안의 Tiger TV에서 처음 공개된다."
+                "x": "중국 밖에서는 매출의 56%가 마케팅에 쓰이고 18%가 앱스토어와 결제 업체로 빠진다. 한 달에 돈을 내는 이용자는 12명 중 한 명꼴이어서 마진이 얇다. DramaBox는 지난해 순이익률 3.2%를 기록했고 ReelShort는 $12m 규모의 손실을 냈다. ReelShort, Kunlun, NetShort, DramaBox가 중국 밖 매출의 65%를 차지한다."
               },
               {
                 "t": "p",
-                "x": "제작은 이미 진행 중이며, 이는 Lionsgate Play와 Google의 장기 제작 협약의 출발점이다. 작품에는 Google의 AI 기술이 쓰인다. 인도의 여러 언어와 해외 여러 언어로 제공될 예정이다."
-              },
-              {
-                "t": "p",
-                "x": "Jain은 “기술의 도약은 언제나 이야기꾼에게 새로운 문을 열어 줬고, AI는 그 어떤 기술보다 더 많은 문을 더 빠르게 열고 있다. 하지만 기술만으로 화면 속 마법이 만들어지지는 않는다”고 말했다. 이어 “Eklavya는 우리의 의지를 가장 대담하게 보여 주는 작품으로, 여덟 편짜리 첫 시즌을 여러 시즌의 프랜차이즈로 키우도록 설계했다. Yug R.Ai는 시작일 뿐이다”라고 했다."
+                "x": "중국 밖 앱에 올라온 신작은 2025년 약 100,000편에서 2026년 440,000편으로 늘었다. 이 가운데 약 75%가 AI로 만들어졌고, AI로 만든(AI-made) 작품의 제작비는 \"로스앤젤레스(Los Angeles)에서 촬영한 시리즈의 약 십분의 일\" 수준이다. 중국에서는 2026년 공개작 10편 중 약 아홉 편이 AI 작품이지만, 올해 매출에서 차지하는 몫은 20%에 그친다. 집계 대상 여섯 개 플랫폼 중 다섯 곳에서는 여전히 실사(Live-action) 작품이 상위 50편의 대부분을 차지한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Lionsgate Play\n初のAI-ledシリーズ",
-          "body": "Mahabharataの弓使いを描くEklavyaは、AI俳優Yug R.Aiが主演だ。",
-          "mini_headline": "Lionsgate PlayのAI-ledシリーズ",
+          "headline": "マイクロドラマ $20bn\nAIが制作の大半を担う",
+          "body": "中国外の新作の約75%はAI-madeだが、中国でAI作品の収益は20%にとどまる。",
+          "mini_headline": "マイクロドラマ収益が$20bn に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/1/1493181_reelshortshowbox_896332.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE：Lionsgate Playが初のAI-ledオリジナルシリーズEklavyaを手がける。インド神話を題材にした本作には、Lionsgate PlayのCEO Rohit Jainが最近発表したAI俳優キャラクターYug R.Aiが登場する。"
+                "x": "Media Partners Asia（MPA）の二回目となるMicro-Drama Economyレポートによると、2026年の世界のマイクロドラマ収益は前年比24%増の$20bn に達したが、中国以外では利益を出すのに苦戦している。総収益は2031年までに$32bn に達する見通しだ。中国は今年、全体の76%にあたる$15.2bn を生み出すと予測され、中国以外の専用アプリの収益は$4.87bn である。"
               },
               {
                 "t": "p",
-                "x": "本作はヒンドゥー教の叙事詩Mahābhārataに登場する弓の名手を軸に、「師に拒まれながらも、ひたすらな意志で弓を極めた少年の伝説」を描く。監督はVibhu Puri（Heeramandi、Gustaakh Ishq）が務め、来年Lionsgate Playアプリ内のTiger TVで配信が始まる。"
+                "x": "中国以外では56%がマーケティングに費やされ、さらに18%がアプリストアや決済事業者に渡る。ある月に課金するユーザーは12人に一人程度で、利益率は薄いままだ。DramaBoxは昨年3.2%の純利益率を記録した一方、ReelShortは$12m の損失を出した。ReelShort、Kunlun、NetShort、DramaBoxで中国以外の収益の65%を占める。"
               },
               {
                 "t": "p",
-                "x": "制作はすでに進んでおり、Lionsgate PlayとGoogleによる長期の制作提携の第一弾となる。GoogleのAI技術が使われている。インド国内外の複数の言語で提供される予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "Jainは「技術の飛躍は常に語り手に新たな扉を開いてきた。AIはこれまでのどの技術よりも多くの扉を、より速く開いている。だが、技術だけでスクリーンに魔法は生まれない」と語った。さらに「Eklavyaは私たちの意志を最も大胆に示すものだ。全八話の第一シーズンは、複数シーズンのフランチャイズへ育つよう作られている。Yug R.Aiは始まりにすぎない」と述べた。"
+                "x": "中国以外のアプリに掲載された新作は、2025年の約100,000本から2026年には440,000本に増えた。そのうち約75%がAIで制作され、AIで作った（AI-made）作品のコストは「ロサンゼルス（Los Angeles）で撮影したシリーズの約十分の一」だという。中国では2026年に公開された作品の10本中約九本をAIが占めるが、年間収益に占める割合は20%にすぎない。追跡対象の六つのプラットフォームのうち五つでは、上位50作品の大半を今も実写（Live-action）作品が占めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Lionsgate Play\n首部AI-led剧集",
-          "body": "Eklavya取材自Mahabharata中的弓箭手，由AI演员Yug R.Ai主演。",
-          "mini_headline": "Lionsgate Play的AI-led剧集",
+          "headline": "微短剧收入达 $20bn\nAI主导多数产出",
+          "body": "中国以外约75%新微短剧为AI-made，中国AI作品却只占20%收入。",
+          "mini_headline": "微短剧收入达 $20bn",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/1/1493181_reelshortshowbox_896332.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE：Lionsgate Play正推出旗下首部AI-led原创剧集Eklavya。该剧以印度神话为背景，将由Lionsgate Play CEO Rohit Jain近期发布的AI演员角色Yug R.Ai出演。"
+                "x": "根据Media Partners Asia（MPA）第二份Micro-Drama Economy报告，2026年全球微短剧收入已达 $20bn ，同比增长24%，但这门生意在中国以外难以盈利。到2031年，总收入将达到 $32bn 。预计中国今年将贡献 $15.2bn ，占总额的76%，而中国以外的专门应用收入为 $4.87bn 。"
               },
               {
                 "t": "p",
-                "x": "该剧以印度教史诗Mahābhārata中的一位弓箭手为原型，讲述“一个被师父拒之门外、凭借纯粹意志练成箭术的少年的传说”。Vibhu Puri（Heeramandi、Gustaakh Ishq）将执导该剧，剧集将于明年在Lionsgate Play应用内的Tiger TV首播。"
+                "x": "在中国以外，56%的收入用于营销，另有18%流向应用商店和支付服务商；每月付费的用户约为每12人中一人，因此利润率依然微薄。DramaBox去年净利润率为3.2%，ReelShort则亏损 $12m 。ReelShort、Kunlun、NetShort和DramaBox占中国以外收入的65%。"
               },
               {
                 "t": "p",
-                "x": "该剧已开机，这标志着Lionsgate Play与Google长期制作合作的开端，剧中使用了Google的AI技术。剧集将提供多种印度语言及国际语言版本。"
-              },
-              {
-                "t": "p",
-                "x": "Jain表示：“每一次技术飞跃都为讲故事的人打开了新的大门，而AI比以往任何技术都打开得更多、更快，但仅靠技术并不能在银幕上创造魔法。”他还说：“Eklavya是我们最大胆的意向宣言，首季共八集，旨在发展为多季系列，而Yug R.Ai只是开始。”"
+                "x": "中国以外应用上架的新作从2025年的约100,000部增至2026年的440,000部。其中约75%使用AI制作，一部AI制作（AI-made）作品的成本“约为在洛杉矶（Los Angeles）拍摄的剧集的十分之一”。在中国，2026年上线的作品中每10部约有九部是AI作品，但只贡献了全年收入的20%。在追踪的六个平台中，有五个平台的前50名作品仍以真人实拍（Live-action）为主。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lionsgate Play anuncia Eklavya,\nsu primera serie AI-led",
-          "body": "Eklavya, primera serie AI-led de Lionsgate Play, sigue a un arquero del Mahabharata y la protagoniza Yug R.Ai.",
-          "mini_headline": "La serie AI-led de Lionsgate Play",
+          "headline": "Los microdramas llegan a $20bn\ny la AI ya genera la mayoría",
+          "body": "Cerca del 75% de los nuevos microdramas fuera de China son AI-made, pero en China la AI solo da el 20% del ingreso.",
+          "mini_headline": "Los microdramas facturan $20bn",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/1/1493181_reelshortshowbox_896332.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE: Lionsgate Play prepara su primera serie original AI-led, Eklavya. La serie, basada en la mitología india, contará con Yug R.Ai, el personaje de actor AI que el CEO de Lionsgate Play, Rohit Jain, presentó recientemente."
+                "x": "Los ingresos mundiales de los microdramas alcanzaron $20bn en 2026, un 24% más que el año anterior, pero el negocio tiene dificultades para ser rentable fuera de China, según el segundo informe Micro-Drama Economy de Media Partners Asia (MPA). Los ingresos totales llegarán a $32bn en 2031. Se prevé que China genere $15.2bn este año, el 76% del total, mientras que las aplicaciones dedicadas fuera de China ingresan $4.87bn."
               },
               {
                 "t": "p",
-                "x": "Se basa en un personaje arquero de la epopeya hindú Mahābhārata y sigue “el mito de la leyenda de un niño rechazado por su gurú, que llegó a dominar el arco por pura voluntad”. Vibhu Puri (Heeramandi, Gustaakh Ishq) dirigirá la serie, que se estrenará el próximo año en Tiger TV, dentro de la app de Lionsgate Play."
+                "x": "Fuera de China, el 56% se destina a marketing y otro 18% va a las tiendas de aplicaciones y a los proveedores de pago; aproximadamente uno de cada 12 usuarios paga en un mes determinado, por lo que los márgenes siguen siendo estrechos. DramaBox registró un margen neto del 3.2% el año pasado, mientras que ReelShort perdió $12m. ReelShort, Kunlun, NetShort y DramaBox suman el 65% de los ingresos fuera de China."
               },
               {
                 "t": "p",
-                "x": "La producción ya está en marcha y marca el inicio de un acuerdo de producción a largo plazo entre Lionsgate Play y Google, cuya tecnología de AI se está utilizando. Se ofrecerá en varios idiomas indios e internacionales."
-              },
-              {
-                "t": "p",
-                "x": "“Cada salto tecnológico ha abierto nuevas puertas a los narradores, y la AI está abriendo más, y más rápido, que nada antes, pero la tecnología por sí sola no crea magia en pantalla”, dijo Jain. “Eklavya es nuestra declaración de intenciones más audaz, una primera temporada de ocho episodios pensada para crecer hasta convertirse en una franquicia de varias temporadas, y Yug R.Ai es solo el comienzo”."
+                "x": "Los nuevos títulos publicados en aplicaciones fuera de China pasaron de unos 100,000 en 2025 a 440,000 en 2026. Alrededor del 75% se hizo con AI, y un título hecho con AI (AI-made) cuesta \"aproximadamente una décima parte de una serie rodada en Los Angeles\". En China, la AI representa cerca de nueve de cada 10 títulos estrenados en 2026, pero solo el 20% de los ingresos del año. La imagen real (Live-action) sigue ocupando la mayoría de los 50 títulos principales en cinco de las seis plataformas analizadas."
               }
             ]
           }
@@ -667,15 +597,15 @@
       }
     },
     {
-      "id": "disney-cto-ai-workflow",
+      "id": "hazanavicius-third-hand-lesarcs",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Disney 단일 AI\n구상에 내부 반발",
-      "body": "Disney CTO의 AI 통일안, Marvel엔 맞아도 2D엔 안 맞을 수 있다.",
-      "mini_headline": "Disney의 단일 워크플로 AI 추진",
+      "headline": "Hazanavicius,\n신작 AI 활용 공개",
+      "body": "Hazanavicius가 The Third Hand 영상과 AI 제작법을 공개한다.",
+      "mini_headline": "Hazanavicius, AI 제작법 공개",
       "tool": "Movies",
-      "source": "TheWrap",
-      "url": "https://www.thewrap.com/industry-news/business/disney-ceo-josh-dmaro-ai-strategy-cto-karandeep-anand-exclusive/",
+      "source": "Deadline",
+      "url": "https://deadline.com/2026/11/michel-hazanavicius-exclusive-footage-third-hand-ai-1237234059/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -683,227 +613,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
+            "src": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg?w=1024",
+            "cap": "Michel Hazanavicius"
           },
           {
             "t": "p",
-            "x": "구월 Character.ai에서 합류한 신임 CTO Karandeep Anand는 CEO Josh D'Amaro에게서 Disney 각 사업부의 AI 워크플로와 시스템을 표준화할 폭넓은 권한을 받았다. 사업부마다 자체 파이프라인을 써 온 관행을 흔드는 조치다. 회사 사정에 밝은 한 인사는 “그는 적을 잔뜩 만들었다”고 했다."
+            "x": "Michel Hazanavicius가 12월 Les Arcs Film Festival의 AI 사례 연구 세션에서 신작 The Third Hand의 독점 영상을 공개한다. 오스카 수상(Oscar-winning) 감독은 후반 작업 회사 Digital District와 함께 영상을 소개하며 이 영화에 AI를 어떤 방법과 도구로 썼는지 설명한다."
           },
           {
             "t": "p",
-            "x": "Office of Technology Enablement를 이끌던 Jamie Voris는 회사를 떠났고, Walt Disney Studios CTO Eddie Drake는 조기 은퇴했다. Disney 측 관계자는 갈등설을 부인했다. 인력을 줄여 AI 도입을 밀어붙인다는 주장에는 “우리 전략을 잘못 묘사한 것”이라고 반박했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
+            "x": "Hazanavicius와 제작진은 개발 단계와 후반 작업 일부에 AI를 썼다. 실제 촬영은 전통적인 세트와 방식 그대로 진행했다."
           },
           {
             "t": "p",
-            "x": "D'Amaro는 Disney IP로 Adobe Firefly에서 맞춤형 생성형 AI 모델을 학습시키는 계약을 맺었다. 십이월 5일에는 AI-generated 만화 Ozzy Fox가 Disney+에 공개된다. Disney는 2029 회계연도까지 연간 $3 billion 규모의 비용 절감을 노리며, 아낀 돈은 콘텐츠와 기술에 다시 투자한다고 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
-            "cap": "Mobile World Congress(MWC) 현장에서 사진 촬영에 응한 Character AI 전 CEO Karandeep Anand."
+            "x": "The Third Hand에서 François Civil은 제일차 세계대전 중 다친 프랑스 군인을 맡았다. 미친 과학자의 실험실에서 눈을 떠 보니, 과학자가 복부에 독일군의 손을 이식해 둔 상태다. \"fantastique\" 컬러 무성영화를 내건 이 영화로 Hazanavicius는 The Artist 이후 다시 무성영화 장르로 돌아온다."
           },
           {
             "t": "p",
-            "x": "표준화가 어디까지 가능할지는 아직 물음표다. 스튜디오 공정을 잘 아는 한 인사는 Marvel이나 Lucasfilm처럼 블록버스터를 만드는 대형 스튜디오에 맞는 AI 워크플로가 2D 애니메이션 프로젝트나 어린이 교육 프로그램에는 맞지 않을 수 있다고 했다."
+            "x": "사례 연구가 끝나면 유럽의회 의원(Member of the European Parliament) David Cormand와 함께, 창작자 권리와 문화 주권을 지키며 유럽이 AI를 어떻게 규제할지 논의한다. Les Arcs Film Festival은 12월 12일부터 19일까지 열린다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Disney pushes a single AI\nvision, and meets resistance",
-          "body": "Disney's new CTO pushes one AI workflow across units, but an insider says what suits Marvel may not fit 2D animation.",
-          "mini_headline": "Disney's one-workflow AI push",
+          "headline": "Hazanavicius to reveal AI\nbehind The Third Hand",
+          "body": "Michel Hazanavicius will screen footage of The Third Hand at Les Arcs and explain the AI tools used to make it.",
+          "mini_headline": "Hazanavicius opens his AI method",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg?w=1024",
+                "cap": "Michel Hazanavicius"
               },
               {
                 "t": "p",
-                "x": "Since joining in September from Character.ai, new CTO Karandeep Anand was granted broad powers by CEO Josh D'Amaro to standardize the AI workflows and systems used by Disney's different businesses — a shakeup from their own proprietary pipelines. “He's made a bunch of enemies,” said a person familiar with the company."
+                "x": "Michel Hazanavicius will unveil exclusive footage of his upcoming film The Third Hand as part of an AI case study at the Les Arcs Film Festival in December. The Oscar-winning director and post-production company Digital District will present the footage as they explain their method and tools for using AI on the film."
               },
               {
                 "t": "p",
-                "x": "Jamie Voris, who ran the Office of Technology Enablement, has left, and Walt Disney Studios CTO Eddie Drake took early retirement. A Disney source denied a standoff, calling the suggestion that workforce reductions are being used to force AI adoption “a mischaracterization of our strategy.”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
+                "x": "Hazanavicius and his team turned to the technology for parts of the development and post-production stages, while the actual shoot used traditional sets and filming methods."
               },
               {
                 "t": "p",
-                "x": "D'Amaro has signed a deal to train custom generative AI models on Adobe's Firefly with Disney IP, and on Dec. 5 brings the AI-generated cartoon Ozzy Fox to Disney+. Disney says it targets $3 billion in annual run-rate savings by fiscal 2029, to be reinvested in content and technology."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
-                "cap": "Former CEO of Character AI Karandeep Anand poses for a photo during the Mobile World Congress (MWC)."
+                "x": "The Third Hand stars François Civil as a French soldier wounded in World War One who wakes up in the laboratory of a mad scientist who has grafted a German hand onto his abdomen. Billed as a \"fantastique\", silent film in color, it marks Hazanavicius' return to the silent genre after The Artist."
               },
               {
                 "t": "p",
-                "x": "Questions remain over how much can be standardized: AI workflows that may benefit a large studio making blockbusters like Marvel or Lucasfilm may not work on a 2D animation project or educational kids' show, said a person familiar with the studio processes."
+                "x": "The case study will be followed by a discussion with David Cormand, Member of the European Parliament, on how Europe can regulate AI while protecting creators' rights and cultural sovereignty. The Les Arcs Film Festival runs from December 12 to 19."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Disney 단일 AI\n구상에 내부 반발",
-          "body": "Disney CTO의 AI 통일안, Marvel엔 맞아도 2D엔 안 맞을 수 있다.",
-          "mini_headline": "Disney의 단일 워크플로 AI 추진",
+          "headline": "Hazanavicius,\n신작 AI 활용 공개",
+          "body": "Hazanavicius가 The Third Hand 영상과 AI 제작법을 공개한다.",
+          "mini_headline": "Hazanavicius, AI 제작법 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg?w=1024",
+                "cap": "Michel Hazanavicius"
               },
               {
                 "t": "p",
-                "x": "구월 Character.ai에서 합류한 신임 CTO Karandeep Anand는 CEO Josh D'Amaro에게서 Disney 각 사업부의 AI 워크플로와 시스템을 표준화할 폭넓은 권한을 받았다. 사업부마다 자체 파이프라인을 써 온 관행을 흔드는 조치다. 회사 사정에 밝은 한 인사는 “그는 적을 잔뜩 만들었다”고 했다."
+                "x": "Michel Hazanavicius가 12월 Les Arcs Film Festival의 AI 사례 연구 세션에서 신작 The Third Hand의 독점 영상을 공개한다. 오스카 수상(Oscar-winning) 감독은 후반 작업 회사 Digital District와 함께 영상을 소개하며 이 영화에 AI를 어떤 방법과 도구로 썼는지 설명한다."
               },
               {
                 "t": "p",
-                "x": "Office of Technology Enablement를 이끌던 Jamie Voris는 회사를 떠났고, Walt Disney Studios CTO Eddie Drake는 조기 은퇴했다. Disney 측 관계자는 갈등설을 부인했다. 인력을 줄여 AI 도입을 밀어붙인다는 주장에는 “우리 전략을 잘못 묘사한 것”이라고 반박했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
+                "x": "Hazanavicius와 제작진은 개발 단계와 후반 작업 일부에 AI를 썼다. 실제 촬영은 전통적인 세트와 방식 그대로 진행했다."
               },
               {
                 "t": "p",
-                "x": "D'Amaro는 Disney IP로 Adobe Firefly에서 맞춤형 생성형 AI 모델을 학습시키는 계약을 맺었다. 십이월 5일에는 AI-generated 만화 Ozzy Fox가 Disney+에 공개된다. Disney는 2029 회계연도까지 연간 $3 billion 규모의 비용 절감을 노리며, 아낀 돈은 콘텐츠와 기술에 다시 투자한다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
-                "cap": "Mobile World Congress(MWC) 현장에서 사진 촬영에 응한 Character AI 전 CEO Karandeep Anand."
+                "x": "The Third Hand에서 François Civil은 제일차 세계대전 중 다친 프랑스 군인을 맡았다. 미친 과학자의 실험실에서 눈을 떠 보니, 과학자가 복부에 독일군의 손을 이식해 둔 상태다. \"fantastique\" 컬러 무성영화를 내건 이 영화로 Hazanavicius는 The Artist 이후 다시 무성영화 장르로 돌아온다."
               },
               {
                 "t": "p",
-                "x": "표준화가 어디까지 가능할지는 아직 물음표다. 스튜디오 공정을 잘 아는 한 인사는 Marvel이나 Lucasfilm처럼 블록버스터를 만드는 대형 스튜디오에 맞는 AI 워크플로가 2D 애니메이션 프로젝트나 어린이 교육 프로그램에는 맞지 않을 수 있다고 했다."
+                "x": "사례 연구가 끝나면 유럽의회 의원(Member of the European Parliament) David Cormand와 함께, 창작자 권리와 문화 주권을 지키며 유럽이 AI를 어떻게 규제할지 논의한다. Les Arcs Film Festival은 12월 12일부터 19일까지 열린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Disney、AI一本化に\n社内から反発",
-          "body": "Disney新CTOがAI統一を進めるが、Marvel向けは2Dに合わないとの声もある。",
-          "mini_headline": "DisneyのAIワークフロー一本化",
+          "headline": "Hazanavicius\n新作のAI手法を公開",
+          "body": "HazanaviciusがThe Third Handの映像とAI制作手法を明かす。",
+          "mini_headline": "Hazanavicius、AI手法を公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg?w=1024",
+                "cap": "Michel Hazanavicius"
               },
               {
                 "t": "p",
-                "x": "九月にCharacter.aiから加わった新CTOのKarandeep Anandは、CEOのJosh D'AmaroからDisneyの各事業が使うAIワークフローとシステムを標準化する広範な権限を与えられた。各事業が独自のパイプラインを使ってきた体制を揺るがす動きだ。社内事情に詳しい人物は「彼は敵をたくさん作った」と話す。"
+                "x": "Michel Hazanaviciusは12月のLes Arcs Film Festivalで、AIのケーススタディの一環として新作The Third Handの独占映像を公開する。オスカー受賞（Oscar-winning）監督である彼とポストプロダクション会社Digital Districtが映像を披露し、この映画でAIを使った手法とツールを説明する。"
               },
               {
                 "t": "p",
-                "x": "Office of Technology Enablementを率いていたJamie Vorisは退社し、Walt Disney StudiosのCTO Eddie Drakeは早期退職した。Disney側の関係者は対立を否定し、AI導入を強いるために人員削減が使われているとの見方は「当社の戦略を誤って描いたもの」だとした。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
+                "x": "Hazanaviciusとチームは開発段階とポストプロダクションの一部でこの技術を用いたが、実際の撮影は従来のセットと撮影手法で行った。"
               },
               {
                 "t": "p",
-                "x": "D'AmaroはDisneyのIPを使い、AdobeのFireflyでカスタム生成AIモデルを学習させる契約を結んだ。十二月5日にはAI-generatedのアニメOzzy FoxをDisney+で配信する。Disneyは2029会計年度までに年間$3 billion の経費削減ペースを目指し、浮いた分をコンテンツと技術に再投資するとしている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
-                "cap": "Character AIの元CEO、Karandeep Anand。Mobile World Congress（MWC）で撮影に応じる。"
+                "x": "The Third Handでは、François Civilが第一次世界大戦で負傷したフランス兵を演じる。彼が目を覚ますとそこはマッドサイエンティストの研究室で、腹部にはドイツ兵の手が移植されていた。\"fantastique\"のカラー無声映画とうたう本作は、The Artist以来となるHazanaviciusの無声映画への回帰作だ。"
               },
               {
                 "t": "p",
-                "x": "どこまで標準化できるかには疑問が残る。スタジオの工程に詳しい人物によれば、MarvelやLucasfilmのような大作を手がける大規模スタジオに役立つAIワークフローも、2Dアニメのプロジェクトや子ども向け教育番組には合わない可能性がある。"
+                "x": "ケーススタディの後には、欧州議会議員（Member of the European Parliament）のDavid Cormandを迎え、欧州がクリエイターの権利と文化的主権を守りながらAIをどう規制できるかを議論する。Les Arcs Film Festivalは12月12日から19日まで開かれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Disney推统一AI路线\n遭遇内部阻力",
-          "body": "Disney新任CTO力推统一AI流程，但知情人称适合Marvel的未必适合2D动画。",
-          "mini_headline": "Disney力推统一AI流程",
+          "headline": "Hazanavicius\n将公开新片AI制作法",
+          "body": "Hazanavicius将放映The Third Hand片段并讲解AI工具。",
+          "mini_headline": "Hazanavicius公开AI制作方法",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg?w=1024",
+                "cap": "Michel Hazanavicius"
               },
               {
                 "t": "p",
-                "x": "九月从Character.ai加盟的新任CTO Karandeep Anand获CEO Josh D'Amaro授予广泛权力，要将Disney各业务部门使用的AI工作流程和系统标准化，这撼动了各部门原有的自有制作管线。一位了解公司情况的人士说：“他树敌不少。”"
+                "x": "Michel Hazanavicius将于12月在Les Arcs Film Festival的一场AI案例研究中，独家展示新片The Third Hand的片段。这位奥斯卡获奖（Oscar-winning）导演将与后期制作公司Digital District一同放映片段，并讲解他们在片中使用AI的方法和工具。"
               },
               {
                 "t": "p",
-                "x": "曾执掌Office of Technology Enablement的Jamie Voris已离职，Walt Disney Studios CTO Eddie Drake则提前退休。一位Disney消息人士否认存在僵局，称所谓借裁员强推AI的说法是“对我们战略的错误描述”。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
+                "x": "Hazanavicius和团队在部分开发和后期制作环节使用了这项技术，实际拍摄则采用传统布景和拍摄方式。"
               },
               {
                 "t": "p",
-                "x": "D'Amaro已签署协议，用Disney IP在Adobe的Firefly上训练定制生成式AI模型，并将于十二月5日在Disney+推出AI-generated动画Ozzy Fox。Disney表示，目标是到2029财年实现每年$3 billion 的成本节约，节省资金将再投入内容和技术。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
-                "cap": "Character AI前CEO Karandeep Anand在Mobile World Congress（MWC）期间留影。"
+                "x": "The Third Hand由François Civil主演，他饰演一名在第一次世界大战中负伤的法国士兵，醒来时身处一位疯狂科学家的实验室，对方已把一只德国人的手移植到他的腹部。影片定位为\"fantastique\"彩色默片，是Hazanavicius继The Artist之后重返默片类型之作。"
               },
               {
                 "t": "p",
-                "x": "能标准化到何种程度仍存疑问：一位熟悉该公司制片流程的人士表示，可能惠及Marvel或Lucasfilm等大片制作大型制片厂的AI工作流程，未必适用于2D动画项目或儿童教育节目。"
+                "x": "案例研究之后，将与欧洲议会议员（Member of the European Parliament）David Cormand展开讨论，探讨欧洲如何在保护创作者权利和文化主权的同时监管AI。Les Arcs Film Festival将于12月12日至19日举行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Disney busca una sola visión AI\ny encuentra resistencia",
-          "body": "El nuevo CTO de Disney impulsa un único flujo AI, pero según una fuente lo que sirve a Marvel quizá no encaje en 2D.",
-          "mini_headline": "Disney y su flujo AI único",
+          "headline": "Hazanavicius mostrará la AI\ndetrás de The Third Hand",
+          "body": "Michel Hazanavicius proyectará imágenes de The Third Hand en Les Arcs y explicará las herramientas de AI usadas.",
+          "mini_headline": "Hazanavicius abre su método con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg?w=1024",
+                "cap": "Michel Hazanavicius"
               },
               {
                 "t": "p",
-                "x": "Desde que llegó en septiembre procedente de Character.ai, el nuevo CTO Karandeep Anand recibió del CEO Josh D'Amaro amplios poderes para estandarizar los flujos de trabajo y sistemas de AI que usan los distintos negocios de Disney, un cambio frente a sus propias canalizaciones internas. “Se ha ganado muchos enemigos”, dijo una persona conocedora de la empresa."
+                "x": "Michel Hazanavicius presentará imágenes exclusivas de su próxima película, The Third Hand, dentro de un estudio de caso sobre AI en el Les Arcs Film Festival en diciembre. El director ganador del Oscar (Oscar-winning) y la empresa de posproducción Digital District mostrarán las imágenes mientras explican el método y las herramientas con que usaron la AI en la película."
               },
               {
                 "t": "p",
-                "x": "Jamie Voris, que dirigía la Office of Technology Enablement, se ha marchado, y el CTO de Walt Disney Studios, Eddie Drake, se acogió a la jubilación anticipada. Una fuente de Disney negó un enfrentamiento y calificó la idea de que se usan recortes de plantilla para forzar la adopción de AI como “una tergiversación de nuestra estrategia”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
+                "x": "Hazanavicius y su equipo recurrieron a la tecnología en partes de las etapas de desarrollo y posproducción, mientras que el rodaje se hizo con decorados y métodos de filmación tradicionales."
               },
               {
                 "t": "p",
-                "x": "D'Amaro firmó un acuerdo para entrenar modelos de AI generativa a medida en Firefly de Adobe con IP de Disney, y el 5 de diciembre estrena en Disney+ la caricatura AI-generated Ozzy Fox. Disney dice que aspira a un ritmo de ahorro anual de $3 billion para el año fiscal 2029, que se reinvertirá en contenido y tecnología."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
-                "cap": "Karandeep Anand, ex CEO de Character AI, posa para una foto durante el Mobile World Congress (MWC)."
+                "x": "The Third Hand está protagonizada por François Civil, que interpreta a un soldado francés herido en la Primera Guerra Mundial que despierta en el laboratorio de un científico loco que le ha injertado una mano alemana en el abdomen. Presentada como una película muda en color de corte \"fantastique\", marca el regreso de Hazanavicius al cine mudo después de The Artist."
               },
               {
                 "t": "p",
-                "x": "Quedan dudas sobre cuánto se puede estandarizar: los flujos de trabajo de AI que pueden beneficiar a un gran estudio de superproducciones como Marvel o Lucasfilm quizá no funcionen en un proyecto de animación 2D o en un programa educativo infantil, dijo una persona conocedora de los procesos del estudio."
+                "x": "Al estudio de caso le seguirá un debate con David Cormand, miembro del Parlamento Europeo (Member of the European Parliament), sobre cómo Europa puede regular la AI protegiendo los derechos de los creadores y la soberanía cultural. El Les Arcs Film Festival se celebra del 12 al 19 de diciembre."
               }
             ]
           }
@@ -911,157 +793,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Disney 단일 AI\n구상에 내부 반발",
-          "body": "Disney CTO의 AI 통일안은 Marvel엔 맞아도 2D엔 어긋날 수 있다.",
-          "mini_headline": "Disney의 단일 워크플로 AI 추진",
+          "headline": "Hazanavicius,\n신작 AI 활용 공개",
+          "body": "Hazanavicius가 The Third Hand 영상과 AI 제작법을 공개한다.",
+          "mini_headline": "Hazanavicius, AI 제작법 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg?w=1024",
+                "cap": "Michel Hazanavicius"
               },
               {
                 "t": "p",
-                "x": "구월 Character.ai에서 합류한 신임 CTO Karandeep Anand는 CEO Josh D'Amaro로부터 Disney 각 사업부가 쓰는 AI 워크플로와 시스템을 표준화할 폭넓은 권한을 받았다. 사업부마다 자체 파이프라인을 써 온 관행을 뒤흔드는 조치다. 회사 사정에 밝은 한 인사는 “그는 적을 잔뜩 만들었다”고 말했다."
+                "x": "Michel Hazanavicius가 12월 Les Arcs Film Festival에서 열리는 AI 사례 연구 세션에서 신작 The Third Hand의 독점 영상을 공개한다. 오스카 수상(Oscar-winning) 감독인 그는 후반 작업 회사 Digital District와 함께 영상을 선보이며 이 영화에 AI를 활용한 방법과 도구를 설명할 예정이다."
               },
               {
                 "t": "p",
-                "x": "Office of Technology Enablement를 이끌던 Jamie Voris는 회사를 떠났고, Walt Disney Studios CTO Eddie Drake는 조기 은퇴했다. Disney 측 관계자는 대립설을 부인하며, 인력 감축으로 AI 도입을 강요하고 있다는 주장은 “우리 전략을 잘못 묘사한 것”이라고 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
+                "x": "Hazanavicius와 제작진은 개발 단계와 후반 작업의 일부에 이 기술을 썼고, 실제 촬영은 전통적인 세트와 촬영 방식으로 진행했다."
               },
               {
                 "t": "p",
-                "x": "D'Amaro는 Disney IP로 Adobe Firefly에서 맞춤형 생성형 AI 모델을 학습시키는 계약을 맺었고, 십이월 5일에는 AI-generated 만화 Ozzy Fox를 Disney+에 선보인다. Disney는 2029 회계연도까지 연간 $3 billion 규모의 비용 절감을 목표로 하며, 절감액은 콘텐츠와 기술에 재투자한다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
-                "cap": "Character AI 전 CEO Karandeep Anand가 Mobile World Congress(MWC) 중 사진 촬영에 응하고 있다."
+                "x": "The Third Hand에서 François Civil은 제일차 세계대전에서 부상한 프랑스 군인을 연기한다. 그는 미친 과학자의 실험실에서 깨어나고, 과학자는 그의 복부에 독일군의 손을 이식해 놓았다. \"fantastique\" 컬러 무성영화를 표방한 이 작품은 The Artist 이후 Hazanavicius가 다시 무성영화 장르로 돌아오는 작품이다."
               },
               {
                 "t": "p",
-                "x": "표준화가 어디까지 가능할지는 여전히 의문이다. 스튜디오 공정에 밝은 한 인사는 Marvel이나 Lucasfilm처럼 블록버스터를 만드는 대형 스튜디오에 도움이 될 AI 워크플로가 2D 애니메이션 프로젝트나 어린이 교육 프로그램에는 맞지 않을 수 있다고 말했다."
+                "x": "사례 연구에 이어 유럽의회 의원(Member of the European Parliament) David Cormand와 함께 유럽이 창작자의 권리와 문화 주권을 지키면서 AI를 어떻게 규제할 수 있을지 논의한다. Les Arcs Film Festival은 12월 12일부터 19일까지 열린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Disney、AI一本化に\n社内から反発",
-          "body": "Disney新CTOがAI統一を進めるが、Marvel向けは2Dに合わないとの声もある。",
-          "mini_headline": "DisneyのAIワークフロー一本化",
+          "headline": "Hazanavicius\n新作のAI手法を公開",
+          "body": "HazanaviciusがThe Third Handの映像とAI制作手法を明かす。",
+          "mini_headline": "Hazanavicius、AI手法を公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg?w=1024",
+                "cap": "Michel Hazanavicius"
               },
               {
                 "t": "p",
-                "x": "九月にCharacter.aiから加わった新CTOのKarandeep Anandは、CEOのJosh D'AmaroからDisneyの各事業が使うAIワークフローとシステムを標準化する広範な権限を与えられた。各事業が独自のパイプラインを使ってきた体制を揺るがす動きだ。社内事情に詳しい人物は「彼は敵をたくさん作った」と話す。"
+                "x": "Michel Hazanaviciusは12月のLes Arcs Film Festivalで、AIのケーススタディの一環として新作The Third Handの独占映像を公開する。オスカー受賞（Oscar-winning）監督である彼とポストプロダクション会社Digital Districtが映像を披露し、この映画でAIを使った手法とツールを説明する。"
               },
               {
                 "t": "p",
-                "x": "Office of Technology Enablementを率いていたJamie Vorisは退社し、Walt Disney StudiosのCTO Eddie Drakeは早期退職した。Disney側の関係者は対立を否定し、AI導入を強いるために人員削減が使われているとの見方は「当社の戦略を誤って描いたもの」だとした。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
+                "x": "Hazanaviciusとチームは開発段階とポストプロダクションの一部でこの技術を用いたが、実際の撮影は従来のセットと撮影手法で行った。"
               },
               {
                 "t": "p",
-                "x": "D'AmaroはDisneyのIPを使い、AdobeのFireflyでカスタム生成AIモデルを学習させる契約を結んだ。十二月5日にはAI-generatedのアニメOzzy FoxをDisney+で配信する。Disneyは2029会計年度までに年間$3 billion の経費削減ペースを目指し、浮いた分をコンテンツと技術に再投資するとしている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
-                "cap": "Character AIの元CEO、Karandeep Anand。Mobile World Congress（MWC）で撮影に応じる。"
+                "x": "The Third Handでは、François Civilが第一次世界大戦で負傷したフランス兵を演じる。彼が目を覚ますとそこはマッドサイエンティストの研究室で、腹部にはドイツ兵の手が移植されていた。\"fantastique\"のカラー無声映画とうたう本作は、The Artist以来となるHazanaviciusの無声映画への回帰作だ。"
               },
               {
                 "t": "p",
-                "x": "どこまで標準化できるかには疑問が残る。スタジオの工程に詳しい人物によれば、MarvelやLucasfilmのような大作を手がける大規模スタジオに役立つAIワークフローも、2Dアニメのプロジェクトや子ども向け教育番組には合わない可能性がある。"
+                "x": "ケーススタディの後には、欧州議会議員（Member of the European Parliament）のDavid Cormandを迎え、欧州がクリエイターの権利と文化的主権を守りながらAIをどう規制できるかを議論する。Les Arcs Film Festivalは12月12日から19日まで開かれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Disney推统一AI路线\n遭遇内部阻力",
-          "body": "Disney新任CTO力推统一AI流程，但知情人称适合Marvel的未必适合2D动画。",
-          "mini_headline": "Disney力推统一AI流程",
+          "headline": "Hazanavicius\n将公开新片AI制作法",
+          "body": "Hazanavicius将放映The Third Hand片段并讲解AI工具。",
+          "mini_headline": "Hazanavicius公开AI制作方法",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg?w=1024",
+                "cap": "Michel Hazanavicius"
               },
               {
                 "t": "p",
-                "x": "九月从Character.ai加盟的新任CTO Karandeep Anand获CEO Josh D'Amaro授予广泛权力，要将Disney各业务部门使用的AI工作流程和系统标准化，这撼动了各部门原有的自有制作管线。一位了解公司情况的人士说：“他树敌不少。”"
+                "x": "Michel Hazanavicius将于12月在Les Arcs Film Festival的一场AI案例研究中，独家展示新片The Third Hand的片段。这位奥斯卡获奖（Oscar-winning）导演将与后期制作公司Digital District一同放映片段，并讲解他们在片中使用AI的方法和工具。"
               },
               {
                 "t": "p",
-                "x": "曾执掌Office of Technology Enablement的Jamie Voris已离职，Walt Disney Studios CTO Eddie Drake则提前退休。一位Disney消息人士否认存在僵局，称所谓借裁员强推AI的说法是“对我们战略的错误描述”。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
+                "x": "Hazanavicius和团队在部分开发和后期制作环节使用了这项技术，实际拍摄则采用传统布景和拍摄方式。"
               },
               {
                 "t": "p",
-                "x": "D'Amaro已签署协议，用Disney IP在Adobe的Firefly上训练定制生成式AI模型，并将于十二月5日在Disney+推出AI-generated动画Ozzy Fox。Disney表示，目标是到2029财年实现每年$3 billion 的成本节约，节省资金将再投入内容和技术。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
-                "cap": "Character AI前CEO Karandeep Anand在Mobile World Congress（MWC）期间留影。"
+                "x": "The Third Hand由François Civil主演，他饰演一名在第一次世界大战中负伤的法国士兵，醒来时身处一位疯狂科学家的实验室，对方已把一只德国人的手移植到他的腹部。影片定位为\"fantastique\"彩色默片，是Hazanavicius继The Artist之后重返默片类型之作。"
               },
               {
                 "t": "p",
-                "x": "能标准化到何种程度仍存疑问：一位熟悉该公司制片流程的人士表示，可能惠及Marvel或Lucasfilm等大片制作大型制片厂的AI工作流程，未必适用于2D动画项目或儿童教育节目。"
+                "x": "案例研究之后，将与欧洲议会议员（Member of the European Parliament）David Cormand展开讨论，探讨欧洲如何在保护创作者权利和文化主权的同时监管AI。Les Arcs Film Festival将于12月12日至19日举行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Disney busca una sola visión AI\ny encuentra resistencia",
-          "body": "El nuevo CTO de Disney impulsa un único flujo AI, pero según una fuente lo que sirve a Marvel quizá no encaje en 2D.",
-          "mini_headline": "Disney y su flujo AI único",
+          "headline": "Hazanavicius mostrará la AI\ndetrás de The Third Hand",
+          "body": "Michel Hazanavicius proyectará imágenes de The Third Hand en Les Arcs y explicará las herramientas de AI usadas.",
+          "mini_headline": "Hazanavicius abre su método con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1200&height=675&fit=bounds"
+                "src": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg?w=1024",
+                "cap": "Michel Hazanavicius"
               },
               {
                 "t": "p",
-                "x": "Desde que llegó en septiembre procedente de Character.ai, el nuevo CTO Karandeep Anand recibió del CEO Josh D'Amaro amplios poderes para estandarizar los flujos de trabajo y sistemas de AI que usan los distintos negocios de Disney, un cambio frente a sus propias canalizaciones internas. “Se ha ganado muchos enemigos”, dijo una persona conocedora de la empresa."
+                "x": "Michel Hazanavicius presentará imágenes exclusivas de su próxima película, The Third Hand, dentro de un estudio de caso sobre AI en el Les Arcs Film Festival en diciembre. El director ganador del Oscar (Oscar-winning) y la empresa de posproducción Digital District mostrarán las imágenes mientras explican el método y las herramientas con que usaron la AI en la película."
               },
               {
                 "t": "p",
-                "x": "Jamie Voris, que dirigía la Office of Technology Enablement, se ha marchado, y el CTO de Walt Disney Studios, Eddie Drake, se acogió a la jubilación anticipada. Una fuente de Disney negó un enfrentamiento y calificó la idea de que se usan recortes de plantilla para forzar la adopción de AI como “una tergiversación de nuestra estrategia”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/112426-Disney-timeline.jpg?width=948&height=1024&fit=bounds"
+                "x": "Hazanavicius y su equipo recurrieron a la tecnología en partes de las etapas de desarrollo y posproducción, mientras que el rodaje se hizo con decorados y métodos de filmación tradicionales."
               },
               {
                 "t": "p",
-                "x": "D'Amaro firmó un acuerdo para entrenar modelos de AI generativa a medida en Firefly de Adobe con IP de Disney, y el 5 de diciembre estrena en Disney+ la caricatura AI-generated Ozzy Fox. Disney dice que aspira a un ritmo de ahorro anual de $3 billion para el año fiscal 2029, que se reinvertirá en contenido y tecnología."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thewrap.com/wp-content/uploads/2026/11/GettyImages-2264142092-scaled.jpg?width=1024&height=683&fit=bounds",
-                "cap": "Karandeep Anand, ex CEO de Character AI, posa para una foto durante el Mobile World Congress (MWC)."
+                "x": "The Third Hand está protagonizada por François Civil, que interpreta a un soldado francés herido en la Primera Guerra Mundial que despierta en el laboratorio de un científico loco que le ha injertado una mano alemana en el abdomen. Presentada como una película muda en color de corte \"fantastique\", marca el regreso de Hazanavicius al cine mudo después de The Artist."
               },
               {
                 "t": "p",
-                "x": "Quedan dudas sobre cuánto se puede estandarizar: los flujos de trabajo de AI que pueden beneficiar a un gran estudio de superproducciones como Marvel o Lucasfilm quizá no funcionen en un proyecto de animación 2D o en un programa educativo infantil, dijo una persona conocedora de los procesos del estudio."
+                "x": "Al estudio de caso le seguirá un debate con David Cormand, miembro del Parlamento Europeo (Member of the European Parliament), sobre cómo Europa puede regular la AI protegiendo los derechos de los creadores y la soberanía cultural. El Les Arcs Film Festival se celebra del 12 al 19 de diciembre."
               }
             ]
           }
@@ -1069,15 +919,15 @@
       }
     },
     {
-      "id": "maharaja-denims-genai-feature",
+      "id": "dw-netflix-german-dubbing-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 영화 Maharaja\n2027년 사월 개봉",
-      "body": "Singh 원작 AI 영화는 $500,000 넘게 들여 사실상 세 번 만들었다.",
-      "mini_headline": "Maharaja in Denims, 2027년 개봉",
+      "headline": "할리우드의 독일 목소리\nNetflix AI 거부",
+      "body": "독일 성우가 Netflix AI 조항 거부로 Cameron Diaz 더빙을 멈춘다.",
+      "mini_headline": "독일 성우들, Netflix AI 거부",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/news/generative-ai-feature-maharaja-in-denims-april-2027-release-1236957865/",
+      "source": "DW",
+      "url": "https://www.dw.com/en/ive-lost-her-forever-why-german-voice-actors-are-refusing-to-sign-netflixs-ai-contract/a-80004381",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1085,173 +935,215 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
+            "src": "https://static.dw.com/image/80004535_6.jpg",
+            "cap": "Katrin Fröhlich는 앞으로 Netflix에서 Cameron Diaz의 독일어 목소리를 맡지 않는다"
           },
           {
             "t": "p",
-            "x": "Khushwant Singh의 소설 “Maharaja in Denims”가 장편 생성형 AI 영화로 완성을 앞뒀다. 19세기 시크교 통치자 Maharaja Ranjit Singh의 삶을 다시 사는 청년 이야기다. 제작진은 사실상 세 번 만든 영화라고 말한다. 연출은 Balpreet Kaur가 맡았고, 팀은 Baisakhi에 맞춰 2027년 사월까지 개봉하길 바란다."
+            "x": "30년 넘게 Cameron Diaz는 독일 화면에서 Katrin Fröhlich의 목소리로 말해 왔다. Fröhlich와 동료 성우 Anne Helm(Margot Robbie 담당), Luise Helm(Scarlett Johansson 담당)은 영상을 올려 더는 목소리를 내주지 않겠다고 밝혔다. Netflix가 자사 AI 학습에 목소리를 쓸 수 있게 한 조항 때문에 계약서에 서명하지 않기로 했다."
+          },
+          {
+            "t": "img",
+            "src": "https://static.dw.com/image/80004579_6.jpg",
+            "cap": "Katrin Fröhlich"
           },
           {
             "t": "p",
-            "x": "제작은 2024년 Midjourney와 Runway로 출발해 Google Veo로 넘어갔고, 스틸 이미지는 Nano Banana로 뽑았다. 이후 Kling AI와 Seedance 2.0을 거쳐 Higgsfield에서 쓸 수 있는 도구로 마무리했다. 전환점은 Nano Banana였다. 팀은 룩을 확정하기까지 영화 전체 스틸을 세 번이나 다시 만들었다."
+            "x": "문제의 조항은 독일 영화·TV 배우 노조 BFFS가 협상한 결과로, 2026년 1월부터 Netflix 계약서에 들어갔다. Netflix는 이 조항으로 녹음본을 자체 시스템 학습에 쓸 수 있다. 다만 녹음본으로 AI 생성(AI-generated) 음성을 만들 때는 배우에게 따로 명시적 동의를 받아야 한다. 이사 Till Völger는 \"법이 보장하지 않는 계약상 권리를 만들어 냈다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "Singh은 새 기술이 보통 비용을 십분의 일 수준으로 줄여 준다고 말한다. 다만 도구가 좋아지면서 영화의 한 시간 가까운 분량을 세 번 다시 작업해야 했다. 마케팅을 빼고도 비용은 $500,000를 넘었다고 그는 밝혔다."
+            "x": "Jason Momoa의 독일어 목소리를 맡아 온 Matti Klemm도 서명을 거부했다. 시민권협회(Society for Civil Rights, GFF)의 도움을 받아, 자기 목소리가 학습에 어떻게 쓰였는지 밝혀 달라며 Netflix에 소송까지 냈다. Netflix는 사람의 연기가 \"우리에게 중요하며 앞으로도 그렇다\"고 밝혔다."
           },
           {
-            "t": "p",
-            "x": "Singh은 “이 모든 기술적 진화 속에서도 창작 과정은 전적으로 사람이 이끌었다”고 말한다. 음악은 전부 사람이 만들었고, 더빙과 내레이션도 스튜디오에서 배우들과 녹음했다."
+            "t": "img",
+            "src": "https://static.dw.com/image/80004594_6.jpg",
+            "cap": "Matti Klemm"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI feature Maharaja in Denims\nsets an April 2027 release",
-          "body": "The $500,000-plus generative AI adaptation of Khushwant Singh's novel had to be made three times, its makers say.",
-          "mini_headline": "Maharaja in Denims sets 2027 date",
+          "headline": "German voices of Hollywood\nrefuse Netflix AI clause",
+          "body": "German voice actors refusing Netflix's AI voice-training clause will no longer dub stars like Cameron Diaz on Netflix.",
+          "mini_headline": "German dubbers reject Netflix AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
+                "src": "https://static.dw.com/image/80004535_6.jpg",
+                "cap": "Katrin Fröhlich will no longer be the German voice of Cameron Diaz on Netflix"
               },
               {
                 "t": "p",
-                "x": "“Maharaja in Denims,” Khushwant Singh's novel about a young man who relives the life of 19th-century Sikh ruler Maharaja Ranjit Singh, is nearing the finish line as a feature-length generative AI film – one its makers say they effectively had to make three times. The team hopes to release it by April 2027, in time for Baisakhi; Balpreet Kaur directs."
+                "x": "For more than 30 years, Cameron Diaz has spoken on German screens with the voice of Katrin Fröhlich. Fröhlich and fellow voice actors Anne Helm (Margot Robbie) and Luise Helm (Scarlett Johansson) published a video saying they wouldn't provide their voices anymore: they refuse to sign Netflix's contract, which contains a clause that lets it use their voices for training its AI."
+              },
+              {
+                "t": "img",
+                "src": "https://static.dw.com/image/80004579_6.jpg",
+                "cap": "Katrin Fröhlich"
               },
               {
                 "t": "p",
-                "x": "Production began in 2024 with Midjourney and Runway, shifted to Google Veo, with Nano Banana handling stills, then moved through Kling AI and Seedance 2.0 before wrapping on tools available on Higgsfield. Nano Banana proved the turning point. The team rebuilt the stills for the entire film three times before locking a look."
+                "x": "The clause has been in Netflix's contracts since January 2026 and was negotiated by BFFS, Germany's union for film and television actors. It allows Netflix to train its own systems with recordings, but actors must give separate, explicit consent before recordings are used to create AI-generated voices. \"We've created a contractual right that the law doesn't provide,\" said board member Till Völger."
               },
               {
                 "t": "p",
-                "x": "Singh says new technology usually cuts costs to around a tenth, but the team redid close to an hour of the film three times as the tools improved. He puts the cost at more than $500,000, excluding marketing."
+                "x": "Matti Klemm, the German voice of Jason Momoa, is also refusing to sign and is taking Netflix to court, backed by the Society for Civil Rights (GFF), to find out how his voice has been used for training. Netflix says human performance \"is and remains important to us.\""
               },
               {
-                "t": "p",
-                "x": "“Throughout this technological evolution, the creative process has remained entirely human-led,” Singh says. The music is entirely human-made, with dubbing and narration recorded with actors in the studio."
+                "t": "img",
+                "src": "https://static.dw.com/image/80004594_6.jpg",
+                "cap": "Matti Klemm"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 영화 Maharaja\n2027년 사월 개봉",
-          "body": "Singh 원작 AI 영화는 $500,000 넘게 들여 사실상 세 번 만들었다.",
-          "mini_headline": "Maharaja in Denims, 2027년 개봉",
+          "headline": "할리우드의 독일 목소리\nNetflix AI 거부",
+          "body": "독일 성우가 Netflix AI 조항 거부로 Cameron Diaz 더빙을 멈춘다.",
+          "mini_headline": "독일 성우들, Netflix AI 거부",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
+                "src": "https://static.dw.com/image/80004535_6.jpg",
+                "cap": "Katrin Fröhlich는 앞으로 Netflix에서 Cameron Diaz의 독일어 목소리를 맡지 않는다"
               },
               {
                 "t": "p",
-                "x": "Khushwant Singh의 소설 “Maharaja in Denims”가 장편 생성형 AI 영화로 완성을 앞뒀다. 19세기 시크교 통치자 Maharaja Ranjit Singh의 삶을 다시 사는 청년 이야기다. 제작진은 사실상 세 번 만든 영화라고 말한다. 연출은 Balpreet Kaur가 맡았고, 팀은 Baisakhi에 맞춰 2027년 사월까지 개봉하길 바란다."
+                "x": "30년 넘게 Cameron Diaz는 독일 화면에서 Katrin Fröhlich의 목소리로 말해 왔다. Fröhlich와 동료 성우 Anne Helm(Margot Robbie 담당), Luise Helm(Scarlett Johansson 담당)은 영상을 올려 더는 목소리를 내주지 않겠다고 밝혔다. Netflix가 자사 AI 학습에 목소리를 쓸 수 있게 한 조항 때문에 계약서에 서명하지 않기로 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://static.dw.com/image/80004579_6.jpg",
+                "cap": "Katrin Fröhlich"
               },
               {
                 "t": "p",
-                "x": "제작은 2024년 Midjourney와 Runway로 출발해 Google Veo로 넘어갔고, 스틸 이미지는 Nano Banana로 뽑았다. 이후 Kling AI와 Seedance 2.0을 거쳐 Higgsfield에서 쓸 수 있는 도구로 마무리했다. 전환점은 Nano Banana였다. 팀은 룩을 확정하기까지 영화 전체 스틸을 세 번이나 다시 만들었다."
+                "x": "문제의 조항은 독일 영화·TV 배우 노조 BFFS가 협상한 결과로, 2026년 1월부터 Netflix 계약서에 들어갔다. Netflix는 이 조항으로 녹음본을 자체 시스템 학습에 쓸 수 있다. 다만 녹음본으로 AI 생성(AI-generated) 음성을 만들 때는 배우에게 따로 명시적 동의를 받아야 한다. 이사 Till Völger는 \"법이 보장하지 않는 계약상 권리를 만들어 냈다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "Singh은 새 기술이 보통 비용을 십분의 일 수준으로 줄여 준다고 말한다. 다만 도구가 좋아지면서 영화의 한 시간 가까운 분량을 세 번 다시 작업해야 했다. 마케팅을 빼고도 비용은 $500,000를 넘었다고 그는 밝혔다."
+                "x": "Jason Momoa의 독일어 목소리를 맡아 온 Matti Klemm도 서명을 거부했다. 시민권협회(Society for Civil Rights, GFF)의 도움을 받아, 자기 목소리가 학습에 어떻게 쓰였는지 밝혀 달라며 Netflix에 소송까지 냈다. Netflix는 사람의 연기가 \"우리에게 중요하며 앞으로도 그렇다\"고 밝혔다."
               },
               {
-                "t": "p",
-                "x": "Singh은 “이 모든 기술적 진화 속에서도 창작 과정은 전적으로 사람이 이끌었다”고 말한다. 음악은 전부 사람이 만들었고, 더빙과 내레이션도 스튜디오에서 배우들과 녹음했다."
+                "t": "img",
+                "src": "https://static.dw.com/image/80004594_6.jpg",
+                "cap": "Matti Klemm"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI映画Maharaja\n2027年四月公開へ",
-          "body": "Khushwant Singh原作のAI映画は$500,000 超を投じ、三度作り直した。",
-          "mini_headline": "Maharaja in Denims、2027年公開へ",
+          "headline": "ハリウッドのドイツ語声優\nNetflixのAI条項拒否",
+          "body": "NetflixのAI条項を拒むドイツの声優がCameron Diazの吹き替えを降りる。",
+          "mini_headline": "独声優、NetflixのAIを拒否",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
+                "src": "https://static.dw.com/image/80004535_6.jpg",
+                "cap": "Katrin Fröhlichは今後、NetflixでCameron Diazのドイツ語の声を担当しない"
               },
               {
                 "t": "p",
-                "x": "19世紀のシク教徒の君主Maharaja Ranjit Singhの生涯を追体験する青年を描いたKhushwant Singhの小説「Maharaja in Denims」が、長編の生成AI映画として完成間近だ。制作陣によれば、事実上三度作ったという。チームはBaisakhiに合わせ2027年四月までの公開を目指しており、監督はBalpreet Kaurが務める。"
+                "x": "30年以上にわたり、Cameron Diazはドイツの画面でKatrin Fröhlichの声で話してきた。Fröhlichと同僚の声優Anne Helm（Margot Robbie担当）、Luise Helm（Scarlett Johansson担当）は動画を公開し、今後は声を提供しないと表明した。NetflixがAIの学習に彼女たちの声を使えるとする条項を含む契約に、署名を拒んでいるのだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.dw.com/image/80004579_6.jpg",
+                "cap": "Katrin Fröhlich"
               },
               {
                 "t": "p",
-                "x": "制作は2024年にMidjourneyとRunwayで始まり、Google Veoに移行してスチールはNano Bananaが担った。その後Kling AIとSeedance 2.0を経て、Higgsfieldで使えるツールで仕上げた。転機となったのはNano Bananaだ。チームはルックを固めるまでに、映画全体のスチールを三度作り直した。"
+                "x": "この条項は2026年1月からNetflixの契約に盛り込まれており、ドイツの映画・テレビ俳優の労働組合BFFSが交渉したものだ。Netflixは録音を使って自社システムを学習させられるが、録音をAI生成（AI-generated）音声の作成に使う前には、俳優から別途明示的な同意を得なければならない。理事のTill Völgerは「法律が定めていない契約上の権利を作った」と述べた。"
               },
               {
                 "t": "p",
-                "x": "Singhによれば、新技術は通常コストを十分の一程度に抑えるが、ツールの進化に合わせて映画の一時間近い部分を三度やり直したという。マーケティング費を除いても、コストは$500,000 を超えると見積もる。"
+                "x": "Jason Momoaのドイツ語の声を担当するMatti Klemmも署名を拒み、市民権協会（Society for Civil Rights、GFF）の支援を受けて、自分の声が学習にどう使われたかを明らかにするためNetflixを提訴している。Netflixは、人間の演技は「私たちにとって重要であり、今後もそうだ」としている。"
               },
               {
-                "t": "p",
-                "x": "「この技術的進化の間も、創作プロセスは完全に人間が主導してきた」とSinghは語る。音楽はすべて人の手によるもので、吹き替えとナレーションはスタジオで俳優とともに収録した。"
+                "t": "img",
+                "src": "https://static.dw.com/image/80004594_6.jpg",
+                "cap": "Matti Klemm"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI电影Maharaja\n定于2027年四月上映",
-          "body": "Khushwant Singh小说改编的AI电影耗资逾$500,000，片方称拍了三遍。",
-          "mini_headline": "Maharaja in Denims定档2027年",
+          "headline": "好莱坞明星的德语配音\n拒签Netflix AI条款",
+          "body": "拒绝Netflix AI训练条款的德国配音演员将不再为Cameron Diaz等配音。",
+          "mini_headline": "德国配音演员拒绝Netflix AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
+                "src": "https://static.dw.com/image/80004535_6.jpg",
+                "cap": "Katrin Fröhlich今后将不再在Netflix上担任Cameron Diaz的德语配音"
               },
               {
                 "t": "p",
-                "x": "Khushwant Singh的小说《Maharaja in Denims》讲述一名年轻人重历19世纪锡克统治者Maharaja Ranjit Singh一生的故事，其长篇生成式AI电影版即将完成——片方称，这部片实际上拍了三遍。团队希望赶在Baisakhi节、于2027年四月前上映，导演为Balpreet Kaur。"
+                "x": "30多年来，Cameron Diaz在德国银幕上一直用Katrin Fröhlich的声音说话。Fröhlich与配音同行Anne Helm（Margot Robbie的配音）和Luise Helm（Scarlett Johansson的配音）发布视频，表示将不再提供声音：她们拒绝签署Netflix的合同，因为其中有一项条款允许Netflix用她们的声音训练其AI。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.dw.com/image/80004579_6.jpg",
+                "cap": "Katrin Fröhlich"
               },
               {
                 "t": "p",
-                "x": "该片于2024年开始用Midjourney和Runway制作，后转向Google Veo，由Nano Banana负责静帧，之后又历经Kling AI和Seedance 2.0，最终在Higgsfield提供的工具上收尾。Nano Banana成为转折点。团队在确定视觉风格前，把全片静帧重做了三遍。"
+                "x": "该条款自2026年1月起写入Netflix的合同，由德国影视演员工会BFFS谈判达成。条款允许Netflix用录音训练自家系统，但在用录音制作AI生成（AI-generated）的声音之前，必须另行取得演员的明确同意。理事会成员Till Völger说：“我们创造了一项法律并未提供的合同权利。”"
               },
               {
                 "t": "p",
-                "x": "Singh说，新技术通常能把成本降到十分之一左右，但随着工具进步，团队把影片近一小时的内容重做了三遍。他估计，不计营销费用，成本超过$500,000。"
+                "x": "Jason Momoa的德语配音Matti Klemm也拒绝签约，并在公民权利协会（Society for Civil Rights，GFF）的支持下起诉Netflix，以查明他的声音如何被用于训练。Netflix表示，人的表演“对我们来说现在重要，将来也依然重要”。"
               },
               {
-                "t": "p",
-                "x": "Singh说：“在整个技术演进过程中，创作过程始终完全由人主导。”影片音乐全部由人创作，配音和旁白均由演员在录音棚录制。"
+                "t": "img",
+                "src": "https://static.dw.com/image/80004594_6.jpg",
+                "cap": "Matti Klemm"
               }
             ]
           }
         },
         "es": {
-          "headline": "El filme AI Maharaja in Denims\nse estrenará en abril de 2027",
-          "body": "La adaptación AI de la novela de Khushwant Singh, de más de $500,000, se hizo tres veces, según sus creadores.",
-          "mini_headline": "Maharaja in Denims llega en 2027",
+          "headline": "Las voces alemanas de Hollywood\nrechazan la AI de Netflix",
+          "body": "Los actores de voz alemanes que rechazan la cláusula de AI de Netflix ya no doblarán a estrellas como Cameron Diaz.",
+          "mini_headline": "Dobladores alemanes rechazan la AI de Netflix",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
+                "src": "https://static.dw.com/image/80004535_6.jpg",
+                "cap": "Katrin Fröhlich dejará de ser la voz alemana de Cameron Diaz en Netflix"
               },
               {
                 "t": "p",
-                "x": "“Maharaja in Denims”, la novela de Khushwant Singh sobre un joven que revive la vida del gobernante sij del siglo 19 Maharaja Ranjit Singh, está cerca de completarse como largometraje de AI generativa, una película que, según sus creadores, en la práctica tuvieron que hacer tres veces. El equipo espera estrenarla en abril de 2027, a tiempo para Baisakhi; la dirige Balpreet Kaur."
+                "x": "Durante más de 30 años, Cameron Diaz ha hablado en las pantallas alemanas con la voz de Katrin Fröhlich. Fröhlich y sus colegas Anne Helm (Margot Robbie) y Luise Helm (Scarlett Johansson) publicaron un video en el que anuncian que dejarán de prestar sus voces: se niegan a firmar el contrato de Netflix, que incluye una cláusula que le permite usar sus voces para entrenar su AI."
+              },
+              {
+                "t": "img",
+                "src": "https://static.dw.com/image/80004579_6.jpg",
+                "cap": "Katrin Fröhlich"
               },
               {
                 "t": "p",
-                "x": "La producción comenzó en 2024 con Midjourney y Runway, pasó a Google Veo, con Nano Banana a cargo de las imágenes fijas, y luego atravesó Kling AI y Seedance 2.0 antes de cerrarse con herramientas disponibles en Higgsfield. Nano Banana resultó ser el punto de inflexión. El equipo rehízo las imágenes fijas de toda la película tres veces antes de fijar un estilo."
+                "x": "La cláusula figura en los contratos de Netflix desde enero de 2026 y fue negociada por BFFS, el sindicato alemán de actores de cine y televisión. Permite a Netflix entrenar sus propios sistemas con grabaciones, pero los actores deben dar un consentimiento aparte y explícito antes de que esas grabaciones se usen para crear voces generadas por AI (AI-generated). \"Hemos creado un derecho contractual que la ley no contempla\", dijo Till Völger, miembro de la junta directiva."
               },
               {
                 "t": "p",
-                "x": "Singh dice que la nueva tecnología suele reducir los costos a una décima parte, pero el equipo rehízo cerca de una hora de la película tres veces a medida que mejoraban las herramientas. Él calcula el costo en más de $500,000, sin incluir el marketing."
+                "x": "Matti Klemm, la voz alemana de Jason Momoa, también se niega a firmar y ha llevado a Netflix a los tribunales, con el respaldo de la Sociedad por los Derechos Civiles (Society for Civil Rights, GFF), para saber cómo se ha usado su voz en el entrenamiento. Netflix afirma que la interpretación humana \"es y sigue siendo importante para nosotros\"."
               },
               {
-                "t": "p",
-                "x": "“A lo largo de esta evolución tecnológica, el proceso creativo ha estado enteramente dirigido por humanos”, dice Singh. La música es totalmente hecha por humanos, y el doblaje y la narración se grabaron con actores en el estudio."
+                "t": "img",
+                "src": "https://static.dw.com/image/80004594_6.jpg",
+                "cap": "Matti Klemm"
               }
             ]
           }
@@ -1259,121 +1151,149 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 영화 Maharaja\n2027년 사월 개봉",
-          "body": "$500,000 넘게 들인 Singh 원작 AI 영화는 사실상 세 번 만들어졌다.",
-          "mini_headline": "Maharaja in Denims, 2027년 개봉",
+          "headline": "할리우드의 독일 목소리\nNetflix AI 거부",
+          "body": "독일 성우가 Netflix AI 조항 거부로 Cameron Diaz 더빙을 멈춘다.",
+          "mini_headline": "독일 성우들, Netflix AI 거부",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
+                "src": "https://static.dw.com/image/80004535_6.jpg",
+                "cap": "Katrin Fröhlich는 앞으로 Netflix에서 Cameron Diaz의 독일어 목소리를 맡지 않는다"
               },
               {
                 "t": "p",
-                "x": "19세기 시크교 통치자 Maharaja Ranjit Singh의 삶을 다시 사는 청년을 그린 Khushwant Singh의 소설 “Maharaja in Denims”가 장편 생성형 AI 영화로 완성을 앞두고 있다. 제작진은 사실상 세 번 만든 영화라고 말한다. 팀은 Baisakhi에 맞춰 2027년 사월까지 개봉하기를 바라며, 연출은 Balpreet Kaur가 맡았다."
+                "x": "30년 넘게 Cameron Diaz는 독일 화면에서 Katrin Fröhlich의 목소리로 말해 왔다. Fröhlich와 동료 성우 Anne Helm(Margot Robbie 담당), Luise Helm(Scarlett Johansson 담당)은 영상을 올려 더는 목소리를 제공하지 않겠다고 밝혔다. Netflix가 자사 AI 학습에 목소리를 쓸 수 있도록 한 조항이 담긴 계약서에 서명하지 않겠다는 것이다."
+              },
+              {
+                "t": "img",
+                "src": "https://static.dw.com/image/80004579_6.jpg",
+                "cap": "Katrin Fröhlich"
               },
               {
                 "t": "p",
-                "x": "제작은 2024년 Midjourney와 Runway로 시작해 Google Veo로 옮겨 갔고, 스틸 이미지는 Nano Banana가 맡았다. 이후 Kling AI와 Seedance 2.0을 거쳐 Higgsfield에서 쓸 수 있는 도구로 마무리했다. 전환점은 Nano Banana였다. 팀은 룩을 확정하기 전까지 영화 전체의 스틸을 세 번 다시 만들었다."
+                "x": "이 조항은 2026년 1월부터 Netflix 계약서에 들어갔으며, 독일 영화·TV 배우 노조 BFFS가 협상한 것이다. 조항에 따라 Netflix는 녹음본으로 자체 시스템을 학습시킬 수 있지만, 녹음본으로 AI 생성(AI-generated) 음성을 만들려면 배우에게서 별도의 명시적 동의를 받아야 한다. 이사 Till Völger는 \"법이 보장하지 않는 계약상 권리를 만들어 냈다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "Singh은 새 기술이 보통 비용을 십분의 일 수준으로 줄여 주지만, 도구가 좋아지면서 영화의 한 시간 가까운 분량을 세 번 다시 작업했다고 말한다. 그는 마케팅을 빼고도 비용이 $500,000를 넘는다고 밝혔다."
+                "x": "Jason Momoa의 독일어 목소리인 Matti Klemm도 서명을 거부하고, 시민권협회(Society for Civil Rights, GFF)의 지원을 받아 자신의 목소리가 학습에 어떻게 쓰였는지 밝히려고 Netflix를 상대로 소송을 냈다. Netflix는 사람의 연기가 \"우리에게 중요하며 앞으로도 그렇다\"고 밝혔다."
               },
               {
-                "t": "p",
-                "x": "Singh은 “이 모든 기술적 진화 속에서도 창작 과정은 전적으로 사람이 이끌었다”고 말한다. 음악은 모두 사람이 만들었고, 더빙과 내레이션은 스튜디오에서 배우들과 녹음했다."
+                "t": "img",
+                "src": "https://static.dw.com/image/80004594_6.jpg",
+                "cap": "Matti Klemm"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI映画Maharaja\n2027年四月公開へ",
-          "body": "Khushwant Singh原作のAI映画は$500,000 超を投じ、三度作り直した。",
-          "mini_headline": "Maharaja in Denims、2027年公開へ",
+          "headline": "ハリウッドのドイツ語声優\nNetflixのAI条項拒否",
+          "body": "NetflixのAI条項を拒むドイツの声優がCameron Diazの吹き替えを降りる。",
+          "mini_headline": "独声優、NetflixのAIを拒否",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
+                "src": "https://static.dw.com/image/80004535_6.jpg",
+                "cap": "Katrin Fröhlichは今後、NetflixでCameron Diazのドイツ語の声を担当しない"
               },
               {
                 "t": "p",
-                "x": "19世紀のシク教徒の君主Maharaja Ranjit Singhの生涯を追体験する青年を描いたKhushwant Singhの小説「Maharaja in Denims」が、長編の生成AI映画として完成間近だ。制作陣によれば、事実上三度作ったという。チームはBaisakhiに合わせ2027年四月までの公開を目指しており、監督はBalpreet Kaurが務める。"
+                "x": "30年以上にわたり、Cameron Diazはドイツの画面でKatrin Fröhlichの声で話してきた。Fröhlichと同僚の声優Anne Helm（Margot Robbie担当）、Luise Helm（Scarlett Johansson担当）は動画を公開し、今後は声を提供しないと表明した。NetflixがAIの学習に彼女たちの声を使えるとする条項を含む契約に、署名を拒んでいるのだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.dw.com/image/80004579_6.jpg",
+                "cap": "Katrin Fröhlich"
               },
               {
                 "t": "p",
-                "x": "制作は2024年にMidjourneyとRunwayで始まり、Google Veoに移行してスチールはNano Bananaが担った。その後Kling AIとSeedance 2.0を経て、Higgsfieldで使えるツールで仕上げた。転機となったのはNano Bananaだ。チームはルックを固めるまでに、映画全体のスチールを三度作り直した。"
+                "x": "この条項は2026年1月からNetflixの契約に盛り込まれており、ドイツの映画・テレビ俳優の労働組合BFFSが交渉したものだ。Netflixは録音を使って自社システムを学習させられるが、録音をAI生成（AI-generated）音声の作成に使う前には、俳優から別途明示的な同意を得なければならない。理事のTill Völgerは「法律が定めていない契約上の権利を作った」と述べた。"
               },
               {
                 "t": "p",
-                "x": "Singhによれば、新技術は通常コストを十分の一程度に抑えるが、ツールの進化に合わせて映画の一時間近い部分を三度やり直したという。マーケティング費を除いても、コストは$500,000 を超えると見積もる。"
+                "x": "Jason Momoaのドイツ語の声を担当するMatti Klemmも署名を拒み、市民権協会（Society for Civil Rights、GFF）の支援を受けて、自分の声が学習にどう使われたかを明らかにするためNetflixを提訴している。Netflixは、人間の演技は「私たちにとって重要であり、今後もそうだ」としている。"
               },
               {
-                "t": "p",
-                "x": "「この技術的進化の間も、創作プロセスは完全に人間が主導してきた」とSinghは語る。音楽はすべて人の手によるもので、吹き替えとナレーションはスタジオで俳優とともに収録した。"
+                "t": "img",
+                "src": "https://static.dw.com/image/80004594_6.jpg",
+                "cap": "Matti Klemm"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI电影Maharaja\n定于2027年四月上映",
-          "body": "Khushwant Singh小说改编的AI电影耗资逾$500,000，片方称拍了三遍。",
-          "mini_headline": "Maharaja in Denims定档2027年",
+          "headline": "好莱坞明星的德语配音\n拒签Netflix AI条款",
+          "body": "拒绝Netflix AI训练条款的德国配音演员将不再为Cameron Diaz等配音。",
+          "mini_headline": "德国配音演员拒绝Netflix AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
+                "src": "https://static.dw.com/image/80004535_6.jpg",
+                "cap": "Katrin Fröhlich今后将不再在Netflix上担任Cameron Diaz的德语配音"
               },
               {
                 "t": "p",
-                "x": "Khushwant Singh的小说《Maharaja in Denims》讲述一名年轻人重历19世纪锡克统治者Maharaja Ranjit Singh一生的故事，其长篇生成式AI电影版即将完成——片方称，这部片实际上拍了三遍。团队希望赶在Baisakhi节、于2027年四月前上映，导演为Balpreet Kaur。"
+                "x": "30多年来，Cameron Diaz在德国银幕上一直用Katrin Fröhlich的声音说话。Fröhlich与配音同行Anne Helm（Margot Robbie的配音）和Luise Helm（Scarlett Johansson的配音）发布视频，表示将不再提供声音：她们拒绝签署Netflix的合同，因为其中有一项条款允许Netflix用她们的声音训练其AI。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.dw.com/image/80004579_6.jpg",
+                "cap": "Katrin Fröhlich"
               },
               {
                 "t": "p",
-                "x": "该片于2024年开始用Midjourney和Runway制作，后转向Google Veo，由Nano Banana负责静帧，之后又历经Kling AI和Seedance 2.0，最终在Higgsfield提供的工具上收尾。Nano Banana成为转折点。团队在确定视觉风格前，把全片静帧重做了三遍。"
+                "x": "该条款自2026年1月起写入Netflix的合同，由德国影视演员工会BFFS谈判达成。条款允许Netflix用录音训练自家系统，但在用录音制作AI生成（AI-generated）的声音之前，必须另行取得演员的明确同意。理事会成员Till Völger说：“我们创造了一项法律并未提供的合同权利。”"
               },
               {
                 "t": "p",
-                "x": "Singh说，新技术通常能把成本降到十分之一左右，但随着工具进步，团队把影片近一小时的内容重做了三遍。他估计，不计营销费用，成本超过$500,000。"
+                "x": "Jason Momoa的德语配音Matti Klemm也拒绝签约，并在公民权利协会（Society for Civil Rights，GFF）的支持下起诉Netflix，以查明他的声音如何被用于训练。Netflix表示，人的表演“对我们来说现在重要，将来也依然重要”。"
               },
               {
-                "t": "p",
-                "x": "Singh说：“在整个技术演进过程中，创作过程始终完全由人主导。”影片音乐全部由人创作，配音和旁白均由演员在录音棚录制。"
+                "t": "img",
+                "src": "https://static.dw.com/image/80004594_6.jpg",
+                "cap": "Matti Klemm"
               }
             ]
           }
         },
         "es": {
-          "headline": "El filme AI Maharaja in Denims\nse estrenará en abril de 2027",
-          "body": "La adaptación AI de la novela de Khushwant Singh, de más de $500,000, se hizo tres veces, según sus creadores.",
-          "mini_headline": "Maharaja in Denims llega en 2027",
+          "headline": "Las voces alemanas de Hollywood\nrechazan la AI de Netflix",
+          "body": "Los actores de voz alemanes que rechazan la cláusula de AI de Netflix ya no doblarán a estrellas como Cameron Diaz.",
+          "mini_headline": "Dobladores alemanes rechazan la AI de Netflix",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=667&crop=1"
+                "src": "https://static.dw.com/image/80004535_6.jpg",
+                "cap": "Katrin Fröhlich dejará de ser la voz alemana de Cameron Diaz en Netflix"
               },
               {
                 "t": "p",
-                "x": "“Maharaja in Denims”, la novela de Khushwant Singh sobre un joven que revive la vida del gobernante sij del siglo 19 Maharaja Ranjit Singh, está cerca de completarse como largometraje de AI generativa, una película que, según sus creadores, en la práctica tuvieron que hacer tres veces. El equipo espera estrenarla en abril de 2027, a tiempo para Baisakhi; la dirige Balpreet Kaur."
+                "x": "Durante más de 30 años, Cameron Diaz ha hablado en las pantallas alemanas con la voz de Katrin Fröhlich. Fröhlich y sus colegas Anne Helm (Margot Robbie) y Luise Helm (Scarlett Johansson) publicaron un video en el que anuncian que dejarán de prestar sus voces: se niegan a firmar el contrato de Netflix, que incluye una cláusula que le permite usar sus voces para entrenar su AI."
+              },
+              {
+                "t": "img",
+                "src": "https://static.dw.com/image/80004579_6.jpg",
+                "cap": "Katrin Fröhlich"
               },
               {
                 "t": "p",
-                "x": "La producción comenzó en 2024 con Midjourney y Runway, pasó a Google Veo, con Nano Banana a cargo de las imágenes fijas, y luego atravesó Kling AI y Seedance 2.0 antes de cerrarse con herramientas disponibles en Higgsfield. Nano Banana resultó ser el punto de inflexión. El equipo rehízo las imágenes fijas de toda la película tres veces antes de fijar un estilo."
+                "x": "La cláusula figura en los contratos de Netflix desde enero de 2026 y fue negociada por BFFS, el sindicato alemán de actores de cine y televisión. Permite a Netflix entrenar sus propios sistemas con grabaciones, pero los actores deben dar un consentimiento aparte y explícito antes de que esas grabaciones se usen para crear voces generadas por AI (AI-generated). \"Hemos creado un derecho contractual que la ley no contempla\", dijo Till Völger, miembro de la junta directiva."
               },
               {
                 "t": "p",
-                "x": "Singh dice que la nueva tecnología suele reducir los costos a una décima parte, pero el equipo rehízo cerca de una hora de la película tres veces a medida que mejoraban las herramientas. Él calcula el costo en más de $500,000, sin incluir el marketing."
+                "x": "Matti Klemm, la voz alemana de Jason Momoa, también se niega a firmar y ha llevado a Netflix a los tribunales, con el respaldo de la Sociedad por los Derechos Civiles (Society for Civil Rights, GFF), para saber cómo se ha usado su voz en el entrenamiento. Netflix afirma que la interpretación humana \"es y sigue siendo importante para nosotros\"."
               },
               {
-                "t": "p",
-                "x": "“A lo largo de esta evolución tecnológica, el proceso creativo ha estado enteramente dirigido por humanos”, dice Singh. La música es totalmente hecha por humanos, y el doblaje y la narración se grabaron con actores en el estudio."
+                "t": "img",
+                "src": "https://static.dw.com/image/80004594_6.jpg",
+                "cap": "Matti Klemm"
               }
             ]
           }
@@ -1381,15 +1301,15 @@
       }
     },
     {
-      "id": "ebs-genai-animation-slot",
+      "id": "elevenlabs-collaboration-2026-siff",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "EBS, 생성형 AI\n애니메이션 5편 내달 방영",
-      "body": "EBS가 429편 중 고른 AI 애니메이션 5편을 12월 1일부터 방영한다.",
-      "mini_headline": "EBS AI 애니 5편 방영",
+      "headline": "일레븐랩스, AI 단편\n'더 시그널' 오디오 맡아",
+      "body": "일레븐랩스가 서울독립영화제 AI 단편 프로젝트의 오디오 기술 파트너로 참여했다.",
+      "mini_headline": "일레븐랩스, AI 단편 오디오",
       "tool": "Movies",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261125087600005",
+      "source": "AI타임스",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217771",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1397,227 +1317,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
-            "cap": "EBS AI 애니메이션 공모전 수상작"
+            "src": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png"
           },
           {
             "t": "p",
-            "x": "생성형 인공지능(AI) 기술을 접목한 창작 애니메이션 5편이 안방극장을 찾는다."
+            "x": "일레븐랩스가 국내 AI 영화 프로젝트 ‘더 콜라보레이션 2026(The Collaboration 2026)’에 기술 파트너로 참여했다고 25일 밝혔다."
           },
           {
             "t": "p",
-            "x": "EBS는 '2026년 EBS 생성형 AI 애니메이션 시리즈 공동제작 프로젝트'를 통해 선정한 작품 5편을 다음 달 1일부터 EBS 1TV에서 순차 방영한다."
+            "x": "이 프로젝트에서 일레븐랩스는 영화 '순수의 시대'로 잘 알려진 안상훈 감독과 박현신 AI 감독팀의 단편영화 ‘더 시그널’ 제작에 AI 오디오 제작 도구를 제공했다."
           },
           {
             "t": "p",
-            "x": "총 429편의 출품작 가운데 선발된 이번 선정작들은 생성형 AI 기술에 스톱모션(물체의 움직임을 고정해 촬영하고 연속되는 다음 동작을 같은 방법으로 찍어 움직이는 영상을 만드는 기법), 3D 등 다양한 연출 기법을 결합해 제작됐다."
+            "x": "더 콜라보레이션 2026은 크리에이티브망고와 제52회 서울독립영화제 측이 공동 주최하는 AI 단편 극영화 프로젝트로, 안상훈, 이명세, 장철수 등 7명의 한국 영화 감독들과 박현신, 이반석, 홍진욱 등 AI 감독들이 일레븐랩스를 비롯한 글로벌 AI 기술 기업들과 협업해 총 7편의 단편 영화를 완성했다."
           },
           {
             "t": "p",
-            "x": "EBS는 매주 화~목요일 오후 5시 20분부터 5시 50분까지를 'AI 애니메이션 특별 편성 시간대'로 정해 해당 작품들을 배치한다."
+            "x": "프로젝트 결과물은 오는 27일 서울 CGV 압구정 상영관에서 공개된다. 당일 단편 영화 7편의 상영과 함께 팀별 제작기와 AI 기술 기업의 테크 키노트가 진행된다."
           },
           {
             "t": "p",
-            "x": "다음 달 1일에는 뮤지컬 동화 '코코니니 동화탐험대'와 외로운 소년이 AI 디바이스를 통해 감정을 배워가는 성장물 '밤이 들려주는 이야기'가 처음 방송된다."
-          },
-          {
-            "t": "p",
-            "x": "이어 2일에는 코믹 판타지 '유포리아 퀘스트'와 고양이 책방 주인의 일상을 그린 '고양이서점 모노북스'가 첫 방송 된다. 또 다른 선정작 '노란 양말 포포'는 내년 3월 방영될 예정이다."
+            "x": "홍상원 일레븐랩스 일본&한국 GTM 리드는 “한국의 대표 영화감독들과 AI 크리에이터들이 새로운 영화적 문법을 실험하는 뜻깊은 프로젝트에 공식 제작 지원 파트너로 함께 하게 됐다”며 “앞으로도 창작자들이 기술 제약 없이 상상을 현실로 구현할 수 있도록 다양한 프로젝트를 지원할 것”이라고 밝혔다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "EBS, 생성형 AI\n애니메이션 5편 내달 방영",
-          "body": "EBS가 429편 중 고른 AI 애니메이션 5편을 12월 1일부터 방영한다.",
-          "mini_headline": "EBS AI 애니 5편 방영",
+          "headline": "일레븐랩스, AI 단편\n'더 시그널' 오디오 맡아",
+          "body": "일레븐랩스가 서울독립영화제 AI 단편 프로젝트의 오디오 기술 파트너로 참여했다.",
+          "mini_headline": "일레븐랩스, AI 단편 오디오",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
-                "cap": "EBS AI 애니메이션 공모전 수상작"
+                "src": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png"
               },
               {
                 "t": "p",
-                "x": "생성형 인공지능(AI) 기술을 접목한 창작 애니메이션 5편이 안방극장을 찾는다."
+                "x": "일레븐랩스가 국내 AI 영화 프로젝트 ‘더 콜라보레이션 2026(The Collaboration 2026)’에 기술 파트너로 참여했다고 25일 밝혔다."
               },
               {
                 "t": "p",
-                "x": "EBS는 '2026년 EBS 생성형 AI 애니메이션 시리즈 공동제작 프로젝트'를 통해 선정한 작품 5편을 다음 달 1일부터 EBS 1TV에서 순차 방영한다."
+                "x": "이 프로젝트에서 일레븐랩스는 영화 '순수의 시대'로 잘 알려진 안상훈 감독과 박현신 AI 감독팀의 단편영화 ‘더 시그널’ 제작에 AI 오디오 제작 도구를 제공했다."
               },
               {
                 "t": "p",
-                "x": "총 429편의 출품작 가운데 선발된 이번 선정작들은 생성형 AI 기술에 스톱모션(물체의 움직임을 고정해 촬영하고 연속되는 다음 동작을 같은 방법으로 찍어 움직이는 영상을 만드는 기법), 3D 등 다양한 연출 기법을 결합해 제작됐다."
+                "x": "더 콜라보레이션 2026은 크리에이티브망고와 제52회 서울독립영화제 측이 공동 주최하는 AI 단편 극영화 프로젝트로, 안상훈, 이명세, 장철수 등 7명의 한국 영화 감독들과 박현신, 이반석, 홍진욱 등 AI 감독들이 일레븐랩스를 비롯한 글로벌 AI 기술 기업들과 협업해 총 7편의 단편 영화를 완성했다."
               },
               {
                 "t": "p",
-                "x": "EBS는 매주 화~목요일 오후 5시 20분부터 5시 50분까지를 'AI 애니메이션 특별 편성 시간대'로 정해 해당 작품들을 배치한다."
+                "x": "프로젝트 결과물은 오는 27일 서울 CGV 압구정 상영관에서 공개된다. 당일 단편 영화 7편의 상영과 함께 팀별 제작기와 AI 기술 기업의 테크 키노트가 진행된다."
               },
               {
                 "t": "p",
-                "x": "다음 달 1일에는 뮤지컬 동화 '코코니니 동화탐험대'와 외로운 소년이 AI 디바이스를 통해 감정을 배워가는 성장물 '밤이 들려주는 이야기'가 처음 방송된다."
-              },
-              {
-                "t": "p",
-                "x": "이어 2일에는 코믹 판타지 '유포리아 퀘스트'와 고양이 책방 주인의 일상을 그린 '고양이서점 모노북스'가 첫 방송 된다. 또 다른 선정작 '노란 양말 포포'는 내년 3월 방영될 예정이다."
+                "x": "홍상원 일레븐랩스 일본&한국 GTM 리드는 “한국의 대표 영화감독들과 AI 크리에이터들이 새로운 영화적 문법을 실험하는 뜻깊은 프로젝트에 공식 제작 지원 파트너로 함께 하게 됐다”며 “앞으로도 창작자들이 기술 제약 없이 상상을 현실로 구현할 수 있도록 다양한 프로젝트를 지원할 것”이라고 밝혔다."
               }
             ]
           }
         },
         "en": {
-          "headline": "EBS to air 5 generative AI\nanimations next month",
-          "body": "EBS will air 5 generative AI animations, selected from 429 entries, starting Dec. 1.",
-          "mini_headline": "EBS to air 5 AI animations",
+          "headline": "ElevenLabs handles audio for\nAI short 'The Signal'",
+          "body": "ElevenLabs joined an AI short film project of the Seoul Independent Film Festival as its audio technology partner.",
+          "mini_headline": "ElevenLabs, audio for an AI short",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
-                "cap": "Winning entries from the EBS AI animation contest"
+                "src": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png"
               },
               {
                 "t": "p",
-                "x": "5 original animations that incorporate generative artificial intelligence (AI) technology are coming to home screens."
+                "x": "ElevenLabs said on the 25th that it has joined the Korean AI film project 'The Collaboration 2026' as a technology partner."
               },
               {
                 "t": "p",
-                "x": "EBS will air the 5 works selected through its '2026 EBS Generative AI Animation Series Co-production Project' in sequence on EBS 1TV from the 1st of next month."
+                "x": "In the project, ElevenLabs provided AI audio production tools for 'The Signal', a short film by director Ahn Sang-hoon, best known for the film 'Empire of Lust', and AI director Park Hyun-shin's team."
               },
               {
                 "t": "p",
-                "x": "Chosen from a total of 429 entries, the selected works combine generative AI technology with a range of directing techniques, including stop-motion (a technique that films an object in a fixed pose, then shoots each successive movement the same way to create moving footage) and 3D."
+                "x": "The Collaboration 2026 is an AI short fiction film project co-hosted by Creative Mango and the 52nd Seoul Independent Film Festival. 7 Korean film directors, including Ahn Sang-hoon, Lee Myung-se and Jang Cheol-soo, worked with AI directors such as Park Hyun-shin, Lee Ban-seok and Hong Jin-wook and with global AI technology companies including ElevenLabs to complete a total of 7 short films."
               },
               {
                 "t": "p",
-                "x": "EBS has designated 5:20 p.m. to 5:50 p.m. every Tuesday through Thursday as a 'special AI animation programming slot' for the works."
+                "x": "The results will be unveiled on the 27th at CGV Apgujeong in Seoul. Alongside screenings of the 7 short films, the day will include making-of talks from each team and tech keynotes from the AI technology companies."
               },
               {
                 "t": "p",
-                "x": "On the 1st of next month, the musical fairy tale 'Kokonini Fairy Tale Expedition' will premiere along with 'The Story the Night Tells', a coming-of-age story about a lonely boy who learns emotions through an AI device."
-              },
-              {
-                "t": "p",
-                "x": "On the 2nd, the comic fantasy 'Euphoria Quest' and 'Cat Bookstore Monobooks', about the daily life of a cat who runs a bookshop, will premiere. Another selected work, 'Popo the Yellow Socks', is scheduled to air in March next year."
+                "x": "\"We are pleased to join, as an official production support partner, a meaningful project in which Korea's leading film directors and AI creators experiment with a new cinematic grammar,\" said Hong Sang-won, Japan & Korea GTM Lead at ElevenLabs. \"We will continue to support a variety of projects so that creators can turn their imagination into reality without technical limits.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "EBS、生成AIアニメ\n5作品を来月放送",
-          "body": "EBSは応募429作から選んだAIアニメ5作品を12月1日から放送する。",
-          "mini_headline": "EBS、AIアニメ5作品を放送",
+          "headline": "ElevenLabsが\nAI短編の音声を担当",
+          "body": "ElevenLabsがソウル独立映画祭のAI短編企画に音声技術パートナーとして参加した。",
+          "mini_headline": "ElevenLabs、AI短編の音声",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
-                "cap": "EBS AIアニメーション公募展の受賞作"
+                "src": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png"
               },
               {
                 "t": "p",
-                "x": "生成人工知能（AI）技術を取り入れた創作アニメーション5作品がお茶の間に届く。"
+                "x": "ElevenLabsは25日、韓国のAI映画プロジェクト「ザ・コラボレーション2026（The Collaboration 2026）」に技術パートナーとして参加したと発表した。"
               },
               {
                 "t": "p",
-                "x": "EBSは「2026年EBS生成AIアニメーションシリーズ共同制作プロジェクト」を通じて選んだ5作品を、来月1日からEBS 1TVで順次放送する。"
+                "x": "このプロジェクトでElevenLabsは、映画『純粋の時代』で知られるアン・サンフン監督とパク・ヒョンシンAI監督チームによる短編映画『ザ・シグナル』の制作に、AI音声制作ツールを提供した。"
               },
               {
                 "t": "p",
-                "x": "応募総数429作品の中から選ばれた今回の作品は、生成AI技術にストップモーション（物体の動きを固定して撮影し、続く動作を同じ方法で撮って動く映像を作る技法）や3Dなど、多様な演出技法を組み合わせて制作された。"
+                "x": "ザ・コラボレーション2026は、クリエイティブマンゴーと第52回ソウル独立映画祭が共催するAI短編劇映画プロジェクトだ。アン・サンフン、イ・ミョンセ、チャン・チョルスら韓国の映画監督7人と、パク・ヒョンシン、イ・バンソク、ホン・ジヌクらAI監督が、ElevenLabsをはじめとするグローバルAI技術企業と協業し、計7本の短編映画を完成させた。"
               },
               {
                 "t": "p",
-                "x": "EBSは毎週火～木曜の午後5時20分から5時50分までを「AIアニメーション特別編成枠」とし、これらの作品を編成する。"
+                "x": "プロジェクトの成果は27日、ソウルのCGV狎鴎亭で公開される。当日は短編映画7本の上映に加え、チームごとの制作秘話とAI技術企業によるテックキーノートが行われる。"
               },
               {
                 "t": "p",
-                "x": "来月1日には、ミュージカル童話『ココニーニ童話探検隊』と、孤独な少年がAIデバイスを通じて感情を学んでいく成長物語『夜が聞かせてくれる物語』が初放送される。"
-              },
-              {
-                "t": "p",
-                "x": "続いて2日には、コミックファンタジー『ユーフォリア・クエスト』と、猫の書店主の日常を描いた『猫書店モノブックス』が初放送される。もう一つの選定作『黄色い靴下ポポ』は来年3月に放送される予定だ。"
+                "x": "ElevenLabsの日本・韓国GTMリード、ホン・サンウォン氏は「韓国を代表する映画監督とAIクリエイターが新しい映画文法を試す意義深いプロジェクトに、公式制作支援パートナーとして参加することになった」と述べ、「今後もクリエイターが技術的な制約なく想像を形にできるよう、さまざまなプロジェクトを支援していく」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EBS：5部生成式AI\n动画下月开播",
-          "body": "EBS从429部投稿中选出5部AI动画，将于12月1日起播出。",
-          "mini_headline": "EBS将播出5部AI动画",
+          "headline": "ElevenLabs负责\nAI短片《信号》音频",
+          "body": "ElevenLabs以音频技术合作伙伴身份参与首尔独立电影节AI短片项目。",
+          "mini_headline": "ElevenLabs助力AI短片音频",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
-                "cap": "EBS AI动画大赛获奖作品"
+                "src": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png"
               },
               {
                 "t": "p",
-                "x": "5部融合生成式人工智能（AI）技术的原创动画即将登上电视荧屏。"
+                "x": "ElevenLabs于25日宣布，已作为技术合作伙伴参与韩国AI电影项目“The Collaboration 2026”。"
               },
               {
                 "t": "p",
-                "x": "EBS将从下月1日起，在EBS 1TV陆续播出通过“2026年EBS生成式AI动画系列联合制作项目”选出的5部作品。"
+                "x": "在该项目中，ElevenLabs为以电影《纯真时代》闻名的导演Ahn Sang-hoon与AI导演Park Hyun-shin团队的短片《信号》（The Signal）提供了AI音频制作工具。"
               },
               {
                 "t": "p",
-                "x": "此次入选作品从总计429部参赛作品中脱颖而出，在生成式AI技术基础上结合了定格动画（将物体的动作固定拍摄，再以同样方法拍摄后续连续动作，从而制作出动态影像的技法）、3D等多种表现手法。"
+                "x": "The Collaboration 2026是由Creative Mango与第52届首尔独立电影节联合主办的AI短篇剧情片项目。Ahn Sang-hoon、Lee Myung-se、Jang Cheol-soo等7位韩国电影导演，与Park Hyun-shin、Lee Ban-seok、Hong Jin-wook等AI导演携手ElevenLabs等全球AI技术企业，共完成了7部短片。"
               },
               {
                 "t": "p",
-                "x": "EBS将每周二至周四下午5时20分至5时50分定为“AI动画特别编排时段”，安排播出上述作品。"
+                "x": "项目成果将于27日在首尔CGV狎鸥亭影厅公开。当天除放映7部短片外，还将举行各团队的创作分享和AI技术企业的技术主题演讲。"
               },
               {
                 "t": "p",
-                "x": "下月1日将首播音乐童话《可可尼尼童话探险队》，以及讲述孤独少年通过AI设备学习情感的成长故事《夜晚讲述的故事》。"
-              },
-              {
-                "t": "p",
-                "x": "2日将接着首播喜剧奇幻作品《Euphoria Quest》和描绘猫咪书店店主日常的《猫咪书店Monobooks》。另一部入选作品《黄袜子波波》预计明年3月播出。"
+                "x": "ElevenLabs日本及韩国GTM负责人Hong Sang-won表示：“很荣幸以官方制作支持合作伙伴的身份，参与韩国代表性电影导演与AI创作者探索全新电影语法的这一项目。”他还说：“今后我们将继续支持各类项目，让创作者不受技术限制地把想象变为现实。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "EBS emitirá 5 animaciones\nde AI generativa el próximo mes",
-          "body": "EBS emitirá desde el 1 de diciembre 5 animaciones AI elegidas entre 429 obras presentadas.",
-          "mini_headline": "EBS emitirá 5 animaciones de AI",
+          "headline": "ElevenLabs pone el audio del\ncorto de AI 'The Signal'",
+          "body": "ElevenLabs se sumó como socio de audio a un proyecto de cortos con AI del Festival de Cine Independiente de Seúl.",
+          "mini_headline": "ElevenLabs, audio para un corto de AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
-                "cap": "Obras ganadoras del concurso de animación AI de EBS"
+                "src": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png"
               },
               {
                 "t": "p",
-                "x": "5 animaciones originales que incorporan tecnología de inteligencia artificial (AI) generativa llegan a la televisión."
+                "x": "ElevenLabs anunció el día 25 que se ha unido como socio tecnológico al proyecto coreano de cine con AI 'The Collaboration 2026'."
               },
               {
                 "t": "p",
-                "x": "EBS emitirá de forma escalonada en EBS 1TV, a partir del día 1 del próximo mes, las 5 obras seleccionadas mediante el 'Proyecto de coproducción de series de animación con AI generativa de EBS 2026'."
+                "x": "En el proyecto, ElevenLabs aportó herramientas de producción de audio con AI para el cortometraje 'The Signal', del equipo formado por el director Ahn Sang-hoon, conocido por la película 'Empire of Lust', y el director de AI Park Hyun-shin."
               },
               {
                 "t": "p",
-                "x": "Elegidas entre un total de 429 obras presentadas, las seleccionadas combinan la tecnología de AI generativa con diversas técnicas de dirección, como el stop motion (técnica que fotografía un objeto en una posición fija y capta del mismo modo cada movimiento sucesivo para crear imágenes en movimiento) y el 3D."
+                "x": "The Collaboration 2026 es un proyecto de cortometrajes de ficción con AI organizado conjuntamente por Creative Mango y el 52.º Festival de Cine Independiente de Seúl. 7 directores de cine coreanos, entre ellos Ahn Sang-hoon, Lee Myung-se y Jang Cheol-soo, trabajaron con directores de AI como Park Hyun-shin, Lee Ban-seok y Hong Jin-wook y con empresas globales de tecnología de AI, entre ellas ElevenLabs, para completar un total de 7 cortometrajes."
               },
               {
                 "t": "p",
-                "x": "EBS ha fijado la franja de martes a jueves, de 5:20 a 5:50 de la tarde, como 'franja especial de animación AI' para programar estas obras."
+                "x": "Los resultados se presentarán el día 27 en la sala CGV Apgujeong de Seúl. Ese día, además de proyectarse los 7 cortometrajes, cada equipo contará su proceso de producción y las empresas de tecnología de AI ofrecerán conferencias técnicas."
               },
               {
                 "t": "p",
-                "x": "El día 1 del próximo mes se estrenarán el cuento musical 'Kokonini, expedición de cuentos' y 'La historia que cuenta la noche', un relato de crecimiento sobre un niño solitario que aprende emociones a través de un dispositivo AI."
-              },
-              {
-                "t": "p",
-                "x": "Después, el día 2 se estrenarán la fantasía cómica 'Euphoria Quest' y 'Monobooks, la librería de los gatos', sobre la vida diaria del gato dueño de una librería. Otra obra seleccionada, 'Popo, el calcetín amarillo', se emitirá en marzo del próximo año."
+                "x": "\"Nos complace participar como socio oficial de apoyo a la producción en un proyecto significativo en el que destacados directores de cine coreanos y creadores de AI experimentan con un nuevo lenguaje cinematográfico\", dijo Hong Sang-won, GTM Lead para Japón y Corea de ElevenLabs. \"Seguiremos apoyando proyectos diversos para que los creadores puedan hacer realidad su imaginación sin limitaciones técnicas\", añadió."
               }
             ]
           }
@@ -1625,157 +1515,137 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "EBS to air 5 generative AI\nanimations next month",
-          "body": "EBS will air 5 generative AI animations, selected from 429 entries, starting Dec. 1.",
-          "mini_headline": "EBS to air 5 AI animations",
+          "headline": "ElevenLabs handles audio for\nAI short 'The Signal'",
+          "body": "ElevenLabs joined an AI short film project of the Seoul Independent Film Festival as its audio technology partner.",
+          "mini_headline": "ElevenLabs, audio for an AI short",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
-                "cap": "Winning entries from the EBS AI animation contest"
+                "src": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png"
               },
               {
                 "t": "p",
-                "x": "5 original animations that incorporate generative artificial intelligence (AI) technology are coming to home screens."
+                "x": "ElevenLabs said on the 25th that it has joined the Korean AI film project 'The Collaboration 2026' as a technology partner."
               },
               {
                 "t": "p",
-                "x": "EBS will air the 5 works selected through its '2026 EBS Generative AI Animation Series Co-production Project' in sequence on EBS 1TV from the 1st of next month."
+                "x": "In the project, ElevenLabs provided AI audio production tools for 'The Signal', a short film by director Ahn Sang-hoon, best known for the film 'Empire of Lust', and AI director Park Hyun-shin's team."
               },
               {
                 "t": "p",
-                "x": "Chosen from a total of 429 entries, the selected works combine generative AI technology with a range of directing techniques, including stop-motion (a technique that films an object in a fixed pose, then shoots each successive movement the same way to create moving footage) and 3D."
+                "x": "The Collaboration 2026 is an AI short fiction film project co-hosted by Creative Mango and the 52nd Seoul Independent Film Festival. 7 Korean film directors, including Ahn Sang-hoon, Lee Myung-se and Jang Cheol-soo, worked with AI directors such as Park Hyun-shin, Lee Ban-seok and Hong Jin-wook and with global AI technology companies including ElevenLabs to complete a total of 7 short films."
               },
               {
                 "t": "p",
-                "x": "EBS has designated 5:20 p.m. to 5:50 p.m. every Tuesday through Thursday as a 'special AI animation programming slot' for the works."
+                "x": "The results will be unveiled on the 27th at CGV Apgujeong in Seoul. Alongside screenings of the 7 short films, the day will include making-of talks from each team and tech keynotes from the AI technology companies."
               },
               {
                 "t": "p",
-                "x": "On the 1st of next month, the musical fairy tale 'Kokonini Fairy Tale Expedition' will premiere along with 'The Story the Night Tells', a coming-of-age story about a lonely boy who learns emotions through an AI device."
-              },
-              {
-                "t": "p",
-                "x": "On the 2nd, the comic fantasy 'Euphoria Quest' and 'Cat Bookstore Monobooks', about the daily life of a cat who runs a bookshop, will premiere. Another selected work, 'Popo the Yellow Socks', is scheduled to air in March next year."
+                "x": "\"We are pleased to join, as an official production support partner, a meaningful project in which Korea's leading film directors and AI creators experiment with a new cinematic grammar,\" said Hong Sang-won, Japan & Korea GTM Lead at ElevenLabs. \"We will continue to support a variety of projects so that creators can turn their imagination into reality without technical limits.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "EBS、生成AIアニメ\n5作品を来月放送",
-          "body": "EBSは応募429作から選んだAIアニメ5作品を12月1日から放送する。",
-          "mini_headline": "EBS、AIアニメ5作品を放送",
+          "headline": "ElevenLabsが\nAI短編の音声を担当",
+          "body": "ElevenLabsがソウル独立映画祭のAI短編企画に音声技術パートナーとして参加した。",
+          "mini_headline": "ElevenLabs、AI短編の音声",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
-                "cap": "EBS AIアニメーション公募展の受賞作"
+                "src": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png"
               },
               {
                 "t": "p",
-                "x": "生成人工知能（AI）技術を取り入れた創作アニメーション5作品がお茶の間に届く。"
+                "x": "ElevenLabsは25日、韓国のAI映画プロジェクト「ザ・コラボレーション2026（The Collaboration 2026）」に技術パートナーとして参加したと発表した。"
               },
               {
                 "t": "p",
-                "x": "EBSは「2026年EBS生成AIアニメーションシリーズ共同制作プロジェクト」を通じて選んだ5作品を、来月1日からEBS 1TVで順次放送する。"
+                "x": "このプロジェクトでElevenLabsは、映画『純粋の時代』で知られるアン・サンフン監督とパク・ヒョンシンAI監督チームによる短編映画『ザ・シグナル』の制作に、AI音声制作ツールを提供した。"
               },
               {
                 "t": "p",
-                "x": "応募総数429作品の中から選ばれた今回の作品は、生成AI技術にストップモーション（物体の動きを固定して撮影し、続く動作を同じ方法で撮って動く映像を作る技法）や3Dなど、多様な演出技法を組み合わせて制作された。"
+                "x": "ザ・コラボレーション2026は、クリエイティブマンゴーと第52回ソウル独立映画祭が共催するAI短編劇映画プロジェクトだ。アン・サンフン、イ・ミョンセ、チャン・チョルスら韓国の映画監督7人と、パク・ヒョンシン、イ・バンソク、ホン・ジヌクらAI監督が、ElevenLabsをはじめとするグローバルAI技術企業と協業し、計7本の短編映画を完成させた。"
               },
               {
                 "t": "p",
-                "x": "EBSは毎週火～木曜の午後5時20分から5時50分までを「AIアニメーション特別編成枠」とし、これらの作品を編成する。"
+                "x": "プロジェクトの成果は27日、ソウルのCGV狎鴎亭で公開される。当日は短編映画7本の上映に加え、チームごとの制作秘話とAI技術企業によるテックキーノートが行われる。"
               },
               {
                 "t": "p",
-                "x": "来月1日には、ミュージカル童話『ココニーニ童話探検隊』と、孤独な少年がAIデバイスを通じて感情を学んでいく成長物語『夜が聞かせてくれる物語』が初放送される。"
-              },
-              {
-                "t": "p",
-                "x": "続いて2日には、コミックファンタジー『ユーフォリア・クエスト』と、猫の書店主の日常を描いた『猫書店モノブックス』が初放送される。もう一つの選定作『黄色い靴下ポポ』は来年3月に放送される予定だ。"
+                "x": "ElevenLabsの日本・韓国GTMリード、ホン・サンウォン氏は「韓国を代表する映画監督とAIクリエイターが新しい映画文法を試す意義深いプロジェクトに、公式制作支援パートナーとして参加することになった」と述べ、「今後もクリエイターが技術的な制約なく想像を形にできるよう、さまざまなプロジェクトを支援していく」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EBS：5部生成式AI\n动画下月开播",
-          "body": "EBS从429部投稿中选出5部AI动画，将于12月1日起播出。",
-          "mini_headline": "EBS将播出5部AI动画",
+          "headline": "ElevenLabs负责\nAI短片《信号》音频",
+          "body": "ElevenLabs以音频技术合作伙伴身份参与首尔独立电影节AI短片项目。",
+          "mini_headline": "ElevenLabs助力AI短片音频",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
-                "cap": "EBS AI动画大赛获奖作品"
+                "src": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png"
               },
               {
                 "t": "p",
-                "x": "5部融合生成式人工智能（AI）技术的原创动画即将登上电视荧屏。"
+                "x": "ElevenLabs于25日宣布，已作为技术合作伙伴参与韩国AI电影项目“The Collaboration 2026”。"
               },
               {
                 "t": "p",
-                "x": "EBS将从下月1日起，在EBS 1TV陆续播出通过“2026年EBS生成式AI动画系列联合制作项目”选出的5部作品。"
+                "x": "在该项目中，ElevenLabs为以电影《纯真时代》闻名的导演Ahn Sang-hoon与AI导演Park Hyun-shin团队的短片《信号》（The Signal）提供了AI音频制作工具。"
               },
               {
                 "t": "p",
-                "x": "此次入选作品从总计429部参赛作品中脱颖而出，在生成式AI技术基础上结合了定格动画（将物体的动作固定拍摄，再以同样方法拍摄后续连续动作，从而制作出动态影像的技法）、3D等多种表现手法。"
+                "x": "The Collaboration 2026是由Creative Mango与第52届首尔独立电影节联合主办的AI短篇剧情片项目。Ahn Sang-hoon、Lee Myung-se、Jang Cheol-soo等7位韩国电影导演，与Park Hyun-shin、Lee Ban-seok、Hong Jin-wook等AI导演携手ElevenLabs等全球AI技术企业，共完成了7部短片。"
               },
               {
                 "t": "p",
-                "x": "EBS将每周二至周四下午5时20分至5时50分定为“AI动画特别编排时段”，安排播出上述作品。"
+                "x": "项目成果将于27日在首尔CGV狎鸥亭影厅公开。当天除放映7部短片外，还将举行各团队的创作分享和AI技术企业的技术主题演讲。"
               },
               {
                 "t": "p",
-                "x": "下月1日将首播音乐童话《可可尼尼童话探险队》，以及讲述孤独少年通过AI设备学习情感的成长故事《夜晚讲述的故事》。"
-              },
-              {
-                "t": "p",
-                "x": "2日将接着首播喜剧奇幻作品《Euphoria Quest》和描绘猫咪书店店主日常的《猫咪书店Monobooks》。另一部入选作品《黄袜子波波》预计明年3月播出。"
+                "x": "ElevenLabs日本及韩国GTM负责人Hong Sang-won表示：“很荣幸以官方制作支持合作伙伴的身份，参与韩国代表性电影导演与AI创作者探索全新电影语法的这一项目。”他还说：“今后我们将继续支持各类项目，让创作者不受技术限制地把想象变为现实。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "EBS emitirá 5 animaciones\nde AI generativa el próximo mes",
-          "body": "EBS emitirá desde el 1 de diciembre 5 animaciones AI elegidas entre 429 obras presentadas.",
-          "mini_headline": "EBS emitirá 5 animaciones de AI",
+          "headline": "ElevenLabs pone el audio del\ncorto de AI 'The Signal'",
+          "body": "ElevenLabs se sumó como socio de audio a un proyecto de cortos con AI del Festival de Cine Independiente de Seúl.",
+          "mini_headline": "ElevenLabs, audio para un corto de AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
-                "cap": "Obras ganadoras del concurso de animación AI de EBS"
+                "src": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png"
               },
               {
                 "t": "p",
-                "x": "5 animaciones originales que incorporan tecnología de inteligencia artificial (AI) generativa llegan a la televisión."
+                "x": "ElevenLabs anunció el día 25 que se ha unido como socio tecnológico al proyecto coreano de cine con AI 'The Collaboration 2026'."
               },
               {
                 "t": "p",
-                "x": "EBS emitirá de forma escalonada en EBS 1TV, a partir del día 1 del próximo mes, las 5 obras seleccionadas mediante el 'Proyecto de coproducción de series de animación con AI generativa de EBS 2026'."
+                "x": "En el proyecto, ElevenLabs aportó herramientas de producción de audio con AI para el cortometraje 'The Signal', del equipo formado por el director Ahn Sang-hoon, conocido por la película 'Empire of Lust', y el director de AI Park Hyun-shin."
               },
               {
                 "t": "p",
-                "x": "Elegidas entre un total de 429 obras presentadas, las seleccionadas combinan la tecnología de AI generativa con diversas técnicas de dirección, como el stop motion (técnica que fotografía un objeto en una posición fija y capta del mismo modo cada movimiento sucesivo para crear imágenes en movimiento) y el 3D."
+                "x": "The Collaboration 2026 es un proyecto de cortometrajes de ficción con AI organizado conjuntamente por Creative Mango y el 52.º Festival de Cine Independiente de Seúl. 7 directores de cine coreanos, entre ellos Ahn Sang-hoon, Lee Myung-se y Jang Cheol-soo, trabajaron con directores de AI como Park Hyun-shin, Lee Ban-seok y Hong Jin-wook y con empresas globales de tecnología de AI, entre ellas ElevenLabs, para completar un total de 7 cortometrajes."
               },
               {
                 "t": "p",
-                "x": "EBS ha fijado la franja de martes a jueves, de 5:20 a 5:50 de la tarde, como 'franja especial de animación AI' para programar estas obras."
+                "x": "Los resultados se presentarán el día 27 en la sala CGV Apgujeong de Seúl. Ese día, además de proyectarse los 7 cortometrajes, cada equipo contará su proceso de producción y las empresas de tecnología de AI ofrecerán conferencias técnicas."
               },
               {
                 "t": "p",
-                "x": "El día 1 del próximo mes se estrenarán el cuento musical 'Kokonini, expedición de cuentos' y 'La historia que cuenta la noche', un relato de crecimiento sobre un niño solitario que aprende emociones a través de un dispositivo AI."
-              },
-              {
-                "t": "p",
-                "x": "Después, el día 2 se estrenarán la fantasía cómica 'Euphoria Quest' y 'Monobooks, la librería de los gatos', sobre la vida diaria del gato dueño de una librería. Otra obra seleccionada, 'Popo, el calcetín amarillo', se emitirá en marzo del próximo año."
+                "x": "\"Nos complace participar como socio oficial de apoyo a la producción en un proyecto significativo en el que destacados directores de cine coreanos y creadores de AI experimentan con un nuevo lenguaje cinematográfico\", dijo Hong Sang-won, GTM Lead para Japón y Corea de ElevenLabs. \"Seguiremos apoyando proyectos diversos para que los creadores puedan hacer realidad su imaginación sin limitaciones técnicas\", añadió."
               }
             ]
           }

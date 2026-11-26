@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "politics",
   "dedup": {
     "checks": {
-      "https://www.yna.co.kr/view/AKR20261125107000017": {
-        "verdict": "new",
-        "nearest": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
-        "new_action": ""
-      },
-      "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers": {
+      "https://www.federalregister.gov/documents/2026/11/27/2026-24107/american-si-exports-program-on-demand-consortia-for-specific-foreign-opportunities": {
         "verdict": "new",
         "nearest": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
         "new_action": ""
       },
-      "https://www.japantimes.co.jp/news/2026/11/25/japan/ai-nation-aim/": {
+      "https://www.etnews.com/20261126000303": {
         "verdict": "new",
-        "nearest": "https://www.yna.co.kr/view/AKR20261112066200009",
+        "nearest": "https://www.courthousenews.com/anthropic-must-face-claims-its-claude-max-pitch-misled-users/",
         "new_action": ""
       },
-      "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868404": {
+      "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt": {
         "verdict": "new",
-        "nearest": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868133",
+        "nearest": "https://www.rapporteur.com/news/commission-updates-election-guidelines-for-ai-deepfake-risks/",
         "new_action": ""
       },
-      "https://www.rapporteur.com/news/eu-delays-planned-ai-gigafactories-again/": {
+      "https://www.yna.co.kr/view/AKR20261126137500001": {
         "verdict": "new",
-        "nearest": "https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/",
+        "nearest": "https://www.etnews.com/20261106000224",
         "new_action": ""
+      },
+      "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/": {
+        "verdict": "follow-up",
+        "nearest": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/statement-on-uk-launch-of-meta-muse/",
+        "new_action": "A second UK regulator, the Financial Conduct Authority, publicly said Meta declined its request to jointly test the Muse agent before the UK launch. The FCA is seeking to understand how the agent makes payments and acts autonomously. The 11-25 card was the ICO's data-protection statement."
       }
     },
-    "note": "Re-pick: the MCST AI-training licence standard contract (pSeq=22865) was dropped. The orchestrator's cross-section grep found the same story, the 11-26 public hearing, already published in music on 2026-11-24. The replacement is the Rapporteur item on EU AI gigafactories being delayed again. It carries a history_match ('related') to the 11-10 POLITICO Europe analysis 'EU countries still can't get it together on AI'. That card was general commentary on EU AI coordination. This one reports a new decision: EuroHPC JU moved the gigafactory application deadline from 3 Dec to 30 Dec. So it is new, with that card as nearest. I chose it over the MEPs' nudifier letter because the letter overlaps the GOSRN card on AI sexual imagery and is a letter, not a decision. GOSRN: the 11-regulator joint statement is a new multilateral regulator release, distinct from the 11-24 Grok state lawsuit. SpaceX FCC: a new regulatory approval of orbital AI data centres, accepted as AI-infrastructure policy per the brief. Japan: a new government decision to write the AI-power goal into its security documents; the 11-15 Japan item was the AI safety law. Taipei Times (history_match 'related' to 11-21 'Taiwan tells Meta' and 11-22 'Puma Shen indictment'): the Vanderbilt AI-persona study is a different event, so new. Dropped: BBC Taiwan AI fakes (same cluster, analysis), TorrentFreak NVIDIA (books only per the brief), EU EUR50bn sovereign fund (funding noise), Yonhap 주진우 micro-camera data (running exam-cheating story, no decision), The Decoder on chip curbs (analysis on the running export-control story). Not picked: Rapporteur MEP nudifier letter, BBC Mims Davies, MIT TR open records. The orchestrator's cross-section grep was clean for the 4 retained picks. The replacement still needs an exact-grep for its URL and 'gigafactor' across all sections before roll."
+    "note": "Dropped as running-story duplicates: The Decoder on Nvidia halting server shipments to Malaysia, Singapore, Thailand and Indonesia. It is a company reaction to the SE-Asia licence curbs already carded on 11-13 (Yonhap) and 11-24 (BIS Entity List), so there is no new government action. The Decoder on Z.AI and Moonshot delaying models is analysis of the same export-control and distillation story. Not picked on merit: the Rapporteur MEPs' nudifier letter (a letter, not a decision; it overlaps the 11-26 GOSRN card), GOV.UK compute-demand report (compute noise), GOV.UK FCDO Thrive £27m programme (a strong alternate if a swap is needed), Guardian court-cases AI misuse (investigative tally), The Register India cradle-to-grave (proposal or vision), The Register ARTEX (threat intel, close to the 11-17 FBI/AWS card), and MIT TR open records (feature). Cross-section notes: the brief assigns Apple Siri to politics only and Meta Muse/FCA to politics only. I could not grep published_urls.json across all sections because it is too large for Read, so the orchestrator should exact-grep these 5 URLs plus 'SI Exports', 'M.AX', '시리', 'Sánchez' and 'Muse' before roll."
   },
   "items": [
     {
-      "title": "방미심위 등 11개국 규제기관 \"AI 성적이미지, 개발단계부터 막아야\" — GOSRN 공동 입장문 채택",
-      "url": "https://www.yna.co.kr/view/AKR20261125107000017",
-      "source": "연합뉴스",
+      "title": "American SI Exports Program; On-Demand Consortia for Specific Foreign Opportunities (Commerce/ITA notice)",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24107/american-si-exports-program-on-demand-consortia-for-specific-foreign-opportunities",
+      "source": "Federal Register (U.S. Department of Commerce, ITA)",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Safety regulation, joint regulator release: 11 online-safety regulators, including Korea's, Ofcom, eSafety and ARCOM, called for safeguards against sexual imagery built in at the design and development stage of AI systems, plus age verification and fast takedown. Image-model builders in all of these markets are on notice.",
-      "published_iso": "2026-11-25T14:55:51+09:00",
-      "og_image": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
-      "excerpt": "한국 방미심위, 영국 오프컴, 호주 e세이프티위원회, 프랑스 ARCOM 등 11개 온라인 안전 규제기관이 시드니 GOSRN 연례회의에서 AI 생성 아동 성착취물·비동의 성적 이미지 대응 공동 입장문을 채택했다. AI 시스템 설계·개발 단계 안전장치, 연령 확인 강화, 신속 삭제 절차를 요구했다."
+      "rationale": "AI geopolitics, primary document: Commerce opens an On-Demand Consortia pathway under the EO 14320 SI Exports Program. From Nov 30, industry consortia can apply to have full-stack US AI export packages designated for specific foreign deals.",
+      "published_iso": "2026-11-25T13:45:00Z",
+      "og_image": "https://www.federalregister.gov/assets/open_graph_site_banner.png",
+      "excerpt": "Commerce's International Trade Administration sets up an On-Demand Consortia pathway under the Super Intelligence (SI) Exports Program created by EO 14320, so industry consortia can apply from Nov 30 to have full-stack US AI export packages designated for specific foreign opportunities. It also adds re-designation/de-designation rules and plans to reopen the Pre-Set Consortia pathway. (Filed for public inspection 11-25 08:45 ET; published in the FR 11-27.)"
     },
     {
-      "title": "FCC signs off on SpaceX's plan to put up to 1 million data center satellites into space",
-      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "source": "The Verge",
+      "title": "공정위, 애플 '시리' AI기능 지연…부당광고 혐의 심의 착수",
+      "url": "https://www.etnews.com/20261126000303",
+      "source": "전자신문",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "AI infrastructure, regulatory decision: the FCC approved SpaceX's application to deploy up to one million satellites for orbital AI data centres. It is the first major regulatory green light for moving AI compute into space.",
-      "published_iso": "2026-11-25T17:44:51Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
-      "excerpt": "The FCC approved SpaceX's application to deploy up to one million satellites for orbital AI data centers, a regulatory green light in the race by big tech to move AI compute into space."
+      "rationale": "AI regulation, enforcement: the KFTC examiner's report alleging Apple advertised Apple Intelligence features as usable before they shipped went to the full commission. It proposes a fine based on 3.35 trillion won in related sales. Apple disputes the findings.",
+      "published_iso": "2026-11-26T13:44:24+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png",
+      "excerpt": "공정위 심사관이 애플·애플코리아가 아이폰16 판매 때 제공 시기가 불확실한 '애플 인텔리전스' AI 기능(개인 맥락 시리 등 4개)을 정상 이용 가능한 것처럼 광고했다며 표시광고법 위반 심사보고서를 24일 위원회에 상정했다. 관련 매출액 3조3527억원 기준 과징금 의견을 냈고, 애플은 결론에 동의하지 않는다는 입장이다."
     },
     {
-      "title": "Japan to declare aim to become AI nation after U.S. and China",
-      "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/ai-nation-aim/",
-      "source": "The Japan Times",
+      "title": "Spanish opposition criticised for AI video of Pedro Sánchez in Morocco shirt",
+      "url": "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt",
+      "source": "The Guardian",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "AI geopolitics, national strategy: Japan will write the goal of becoming the third AI power after the US and China into its three core national security documents when it revises them, making AI part of its defence and security doctrine.",
-      "published_iso": "2026-11-25T21:17:51+09:00",
-      "og_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
-      "excerpt": "Japan's government will write the goal of becoming the world's third AI power after the US and China into its three key national security documents when it revises them later this year."
+      "rationale": "AI in elections: an AI-altered campaign clip posted without disclosure days before Spain's general election. Critics cited by the Guardian say it may fall short of EU AI Act Article 50 transparency duties. It is an early real-world test of the deepfake-labelling rule.",
+      "published_iso": "2026-11-26T14:33:00Z",
+      "og_image": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop",
+      "excerpt": "Spain's People's Party posted an AI-altered version of a Sánchez campaign clip making it appear he put on a Morocco shirt, without any AI disclosure, prompting criticism that it may fall short of EU AI Act Article 50 transparency obligations days before Sunday's general election."
     },
     {
-      "title": "US report warns of Chinese AI persona tactics targeting Taiwan elections",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868404",
-      "source": "Taipei Times",
+      "title": "산자위, 산업 AI전환·활용 촉진법안(M.AX법) 의결…제조업 지원",
+      "url": "https://www.yna.co.kr/view/AKR20261126137500001",
+      "source": "연합뉴스",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "AI in elections: a Vanderbilt University study, as reported, finds China-aligned AI-generated personas targeting Taiwan's Nov. 28 local elections. The findings are attributed to the researchers. It is the only elections-axis pick today, two days before the vote.",
-      "published_iso": "2026-11-26T00:00:00+08:00",
-      "og_image": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
-      "excerpt": "AI-generated personas aligned with China are being used to interfere in Taiwan's Nov. 28 nine-in-one local elections, according to a Vanderbilt University study reported by the New York Times; researchers previously traced a GoLaxy persona operation."
+      "rationale": "Legislation, committee vote: the Assembly industry committee passed the Industrial AI Transformation Act (M.AX Act) by cross-party agreement. It gives a legal basis to the manufacturing AI alliance and tacit-knowledge data support, and the bill now moves to the Legislation and Judiciary Committee and then the plenary.",
+      "published_iso": "2026-11-26T15:44:39+09:00",
+      "og_image": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
+      "excerpt": "국회 산자위가 26일 전체회의에서 '산업 인공지능 전환 및 활용 촉진법'(M.AX법)을 여야 합의로 의결했다. 제조업 AI 전환 얼라이언스와 암묵지 데이터 지원사업의 법적 근거를 마련했고, 외국인투자 안보심의 근거 신설 등도 함께 의결돼 법사위·본회의로 넘어간다."
     },
     {
-      "title": "EU delays planned AI gigafactories again",
-      "url": "https://www.rapporteur.com/news/eu-delays-planned-ai-gigafactories-again/",
-      "source": "Rapporteur (Euractiv)",
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "source": "WIRED",
       "tool": "Politics",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Sovereign AI, new decision: EuroHPC JU pushed the application deadline for building EU AI gigafactories from 3 December to 30 December. It is at least the fifth delay to the sovereign compute programme announced in February 2025, and it moves the timeline for bidders and host countries.",
-      "published_iso": "2026-11-25T18:07:13+01:00",
-      "og_image": null,
-      "excerpt": "EuroHPC JU moved the deadline for countries and companies to apply to build EU AI gigafactories from 3 December to 30 December — at least the fifth delay to the sovereign AI compute project von der Leyen pitched in February 2025."
+      "rationale": "Agent regulation, follow-up: after the ICO's 11-25 statement, the FCA now says Meta declined joint pre-launch testing of the Muse agent. The FCA wants to understand how the agent makes payments and acts autonomously, which signals scrutiny of payment-capable agents.",
+      "published_iso": "2026-11-26T10:51:27Z",
+      "og_image": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg",
+      "excerpt": "The UK Financial Conduct Authority said Meta declined its request for joint testing of the Muse personal AI agent before its UK launch; the FCA wants to understand how agents make payments and act autonomously in consumers' interest."
     }
   ]
 }

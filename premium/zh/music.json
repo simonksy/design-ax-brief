@@ -11697,6 +11697,128 @@
           "x": "Tidal已与Ircam Amplify合作测试其检测工具。一位发言人表示：“少量误报在所难免，但凭借我们的申诉流程和不断改进的检测技术，我们对这一做法充满信心。”分销商也将被禁止交付此类曲目；若元数据显示曲目完全由AI工具生成，交付将被拒绝。"
         }
       ]
+    },
+    "music/ua-universe-luna-addons": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft2.jpg",
+          "cap": "UA Universe：面向LUNA的全新开发者平台与社区 · 来源：Universal Audio"
+        },
+        {
+          "t": "p",
+          "x": "UA Universe目前处于公开测试阶段，用户可借助其JavaScript-based开发套件，创建并分享自定义的LUNA工作流工具和增强功能。借助UA Universe，用户可以在LUNA中通过文本提示调用Claude Code、Codex等AI助手来定制使用体验，并与在线社区分享自己的工具。"
+        },
+        {
+          "t": "p",
+          "x": "它不支持制作乐器或处理类插件，但这款新SDK可用于开发各类插件和自定义功能，提升在不同录音和制作场景下的使用体验。这些插件可实时读取并修改当前的LUNA工程，功能涵盖参数控制和MIDI编辑等。"
+        },
+        {
+          "t": "p",
+          "x": "插件执行的所有操作都会记录在LUNA的撤销历史中，便于在设计工作流时逐步追踪。它还提供模拟环境，可在正式用于LUNA之前测试和调试插件。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-interdaw.jpg",
+          "cap": "@cp666-dev 开发的InterDAW插件 · 来源：Universal Audio"
+        },
+        {
+          "t": "p",
+          "x": "这意味着你可以在LUNA中复刻熟悉工作流的某些环节。正如Reaper社区那样，UA Universe社区里很可能会出现Logic Pro或Pro Tools风格的皮肤，让用户在不同DAW之间切换更加顺畅。"
+        },
+        {
+          "t": "p",
+          "x": "上手时需要先运行LUNA，然后用入门提示词安装LUNA Builder Tools。目前已有用户发布了新的插件，包括具备扫选拼接等功能的工具，甚至还有能把Ableton Live工程导入LUNA的工具。"
+        }
+      ]
+    },
+    "music/cyanite-concierge-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
+          "cap": "Cyanite Concierge功能截图"
+        },
+        {
+          "t": "p",
+          "x": "我们一直在报道对话式AI及其在Spotify等各类面向消费者服务中的应用。但音乐行业也有大量B2B用途，Cyanite就是最新的例子。"
+        },
+        {
+          "t": "p",
+          "x": "该公司多年来一直用AI分析音乐曲库并为其打标签。其最新产品Cyanite Concierge旨在让这些曲库更易于搜索。"
+        }
+      ]
+    },
+    "music/mit-tangimap-controls": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-TangiMap.png",
+          "cap": "插图：一个立方体仿佛从笔记本电脑屏幕中跳出，电脑连接着一台调音台，由两只手操控。"
+        },
+        {
+          "t": "p",
+          "x": "由一名MIT研究生兼MIT计算机科学与人工智能实验室（CSAIL）研究员共同开发的新系统“TangiMap”，通过把数字控件映射到实体输入设备上，为日常设备的物理控件实现个性化，让修图、动画、音乐演奏和3D建模等工作变得更具动感和触感。正如DJ的打击垫可以在触发提示点、循环和采样之间切换，TangiMap赋予设备控件全新的角色。"
+        },
+        {
+          "t": "p",
+          "x": "TangiMap依靠AI智能体寻找并利用与所用软件、用户习惯以及操控该程序的设备相关的上下文信息，信息来源包括程序的API、MCP服务器，或由视觉语言模型解读的截图。随后，智能体借助大语言模型把这些信息写入文件，再将数字功能映射到物理控件上。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员把一台标准调音台改造成Adobe Lightroom的修图控制器；对混音软件也做了同样的处理，让表演者能用旋钮和推子实时调整音乐；还把一台更简单的调音台映射到Blender，并在Adobe的Character Animator中实时操控角色。Yunyi Zhu与合著者Chang Xiao在ACM Symposium on User Interface Software and Technology上展示了这一工具。"
+        }
+      ]
+    },
+    "music/madlibs-genmusic-distribution": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MADlibs: Analyzing the Distribution of Generative Music（生成式音乐的分布分析）——Matthew Keating、Noah Schaffer、Michael Casey和Nikhil Singh（Dartmouth College）。"
+        },
+        {
+          "t": "p",
+          "x": "文本生成音乐模型究竟能创作出什么音乐？这个问题的答案关系到个体创作者、社群，乃至更广泛的音乐文化。MADlibs是一个框架，用于衡量最先进音乐生成器的表达支持范围，即模型在整个提示空间中实际会产出的音乐行为子集。作者研究了三个广泛使用的模型：MusicGen、ACE-Step和DiffRhythm。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.31462v1/banner.png",
+          "cap": "图1：MADlibs端到端流程。我们采用五种不同的提示策略生成10,000条提示词，作为三个文本生成音乐模型的输入，随后对所有模型的输出进行MIR分析。"
+        },
+        {
+          "t": "p",
+          "x": "提示词借助自然语言处理方法和现有字幕语料库生成，随后用MIR技术从调性、节拍、速度、配器和力度等方面研究输出空间。"
+        },
+        {
+          "t": "p",
+          "x": "研究发现：面对相同的提示空间，文本生成音乐模型并不是可以互换的乐器。每个模型都习得了独特的属性，限制了通过提示能够得到的音乐——例如默认使用某些速度、无法生成静默，或过度采样经典乐队编制。由于用户每次只用一个提示与模型交互，这些偏差往往不易察觉，却会累积塑造AI-assisted音乐的听感，并可能带来“隐藏在普遍可描述性承诺背后的新的听觉单一文化”。"
+        }
+      ]
+    },
+    "music/suno-chicks-amended-complaint": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg",
+          "cap": "图片来源：Zulfugar Graphics/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "根据24日（周二）向波士顿（Boston）联邦法院提交的修正诉状，又有一批艺人加入了Jason Isbell针对Suno提起的拟议集体诉讼。其中包括The Chicks、David Longstreth、Carl Craig、Phil Elverum和Ezra Furman，以及Willie Colón和Sam Moore的在世配偶，新增原告共16名。"
+        },
+        {
+          "t": "p",
+          "x": "该案不涉及版权主张。诉状指控Suno未经同意，将音乐人的身份特征编码进其AI模型，并在用户输入他们的名字时，生成让人联想到他们的歌曲、文字描述和封面图片。诉状援引的是US（美国）14个州和波多黎各（Puerto Rico）的公开权法律，以及伊利诺伊州（Illinois）的BIPA。此次提交距Suno请求法院驳回此案已过去21天。"
+        },
+        {
+          "t": "p",
+          "x": "修正诉状新增了使用Suno九月推出的v6模型所做的演示。诉状写道：“Suno声称，基于与BMG、Warner、Believe及其子公司TuneCore的协议，其v6模型只用授权音乐进行训练。”“然而，Franz Nicolay从未给予这样的同意。”提示词“Emily Strayer”生成了带有“滚动班卓琴”的歌曲。"
+        },
+        {
+          "t": "p",
+          "x": "诉状保留了原诉状的17项诉由，并请求禁令救济、损害赔偿、返还原状及追缴利润。"
+        }
+      ]
     }
   }
 }

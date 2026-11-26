@@ -13534,6 +13534,144 @@
           "x": "El agente de Figma ya está disponible de forma general en FigJam y Figma Slides en todos los planes de pago, con compatibilidad con determinados conectores y archivos adjuntos en ambos."
         }
       ]
+    },
+    "design/gstar3d-cloud-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Modusolution (director general: Jung Chung-gu), empresa especializada en soluciones de CAD y gestión del ciclo de vida del producto (PLM), participó en la '8.ª Exposición Internacional de Fabricación Inteligente y Tecnología de AI (SMATEC 2026)', celebrada en el Centro de Convenciones de Suwon, donde presentó soluciones de diseño y colaboración, entre ellas su solución de 3D CAD en la nube 'Gstar3D'. En la muestra llamaron la atención las funciones de modelado basadas en lenguaje natural e imágenes de Gstar3D, que se acerca a su lanzamiento oficial."
+        },
+        {
+          "t": "p",
+          "x": "Gstar3D permite realizar modelado 3D, gestión de datos de diseño y colaboración en un navegador web sin instalar software adicional. Los usuarios pueden generar un modelo 3D dando órdenes en lenguaje natural o cargando archivos de imagen de planos en formato JPG o PNG. Los modelos generados incluyen un historial de operaciones (Feature History) que gestiona la geometría del diseño y el proceso de modificación, y pueden exportarse a formatos estándar de archivo 3D CAD como STEP."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "En el recinto, un visitante generó un modelo 3D a partir de una imagen de plano, lo convirtió en un archivo STEP y se llevó el resultado. Con su programa 'Early User', Modusolution ofrecerá licencias gratuitas de 1 año a un máximo de 100 personas y aplicará las opiniones recogidas a la mejora del producto y la atención a los usuarios."
+        },
+        {
+          "t": "p",
+          "x": "También presentó el 2D CAD 'GstarCAD', la plataforma para compartir planos y colaborar 'GstarCAD 365', el visor de archivos 3D CAD '3D FastView' y 'Creo' y 'Windchill' de PTC. \"Seguiremos ofreciendo soluciones adecuadas al entorno de diseño nacional, incorporando las opiniones de los usuarios\", dijo un responsable de Modusolution."
+        }
+      ]
+    },
+    "design/modulebuild-ai-editor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
+        },
+        {
+          "t": "p",
+          "x": "El diseñador sénior de UI/UX Bohdan Matviyev está cansado de las herramientas de AI actuales que intentan sustituir al especialista y encierran el trabajo en el marco del chat y los prompts en lugar de ofrecer control total sobre los elementos. Por eso creó su propio editor, module.build, que combina diseño y desarrollo en un solo espacio. Lo presenta como un entorno personal donde la AI actúa como asistente, no como piloto automático."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden combinar modelos como Claude, Codex y Kimi con sus propias suscripciones o APIs, sin créditos internos del servicio. El lienzo de diseño, el tablero de cocreación, las presentaciones, el 3D, la animación y el código comparten un mismo entorno con memoria compartida. Las herramientas internas ADE y MCP leen maquetaciones, tokens y componentes directamente de los archivos de diseño, con integración con GitHub y Vercel; la generación de imágenes funciona con nodos de ComfyUI."
+        },
+        {
+          "t": "p",
+          "x": "Matviyev afirmó que Figma limita las solicitudes MCP y que el protocolo envía toda la pantalla como contexto incluso para una solicitud pequeña; module.build solo transmite la información puntual. A diferencia de Paper, aún no tiene colaboración en tiempo real, pero evita los límites de CSS de Paper y las ralentizaciones con archivos grandes. El servicio está en pruebas alfa cerradas."
+        }
+      ]
+    },
+    "design/midjourney-niji-v8": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
+        },
+        {
+          "t": "p",
+          "x": "Midjourney anunció \"Niji V8\", un modelo de generación de imágenes de estilo anime, el 25 de noviembre, hora de Japón. Ofrece mayor fidelidad a los prompts y funciones de edición que mantienen la coherencia de los personajes. Se puede usar añadiendo \"--niji 8\" al final del prompt en Discord o seleccionando \"Niji 8\" en los ajustes de versión."
+        },
+        {
+          "t": "p",
+          "x": "Niji es un modelo de generación de imágenes especializado en crear personajes y escenas de estilo anime. Niji 8 combina la expresión estética de Niji 7 con la diversidad de Niji 6 y prioriza una gama más amplia de candidatos a partir del mismo prompt en lugar de generar repetidamente personajes similares. Ofrece la mayor velocidad de generación de la historia de la serie y una mayor coherencia en la composición y los elementos de la imagen."
+        },
+        {
+          "t": "p",
+          "x": "Para usar un personaje favorito en escenas distintas, se pueden aprovechar las funciones de edición de imágenes generadas. Permiten indicar una imagen de referencia del personaje y una imagen de fondo, y luego pedir a la AI que represente al personaje en otro lugar o pose."
+        },
+        {
+          "t": "img",
+          "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
+        }
+      ]
+    },
+    "design/seoul-biennale-ratti-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
+          "cap": "Carlo Ratti, comisario de la Bienal de Arquitectura de Venecia"
+        },
+        {
+          "t": "p",
+          "x": "El arquitecto italiano Carlo Ratti ha sido nombrado comisario de la Bienal de Arquitectura y Urbanismo de Seúl del próximo año, para la que planea un enfoque \"poco convencional, AI-based\" (basado en AI). La bienal, que se celebrará a partir del 24 de septiembre de 2027, servirá a Ratti para cuestionar el papel actual del comisario. El título, el tema y el equipo curatorial completo del evento no se darán a conocer hasta el 8 de diciembre."
+        },
+        {
+          "t": "p",
+          "x": "En concreto, utilizará un asistente de AI con el objetivo de desafiar los métodos tradicionales de desarrollo de exposiciones, destacando herramientas emergentes que pueden ayudar a los comisarios."
+        },
+        {
+          "t": "img",
+          "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
+          "cap": "Carlo Ratti (derecha) fue nombrado por el alcalde de Seúl, Oh Se Hoon (izquierda)"
+        },
+        {
+          "t": "p",
+          "x": "\"Seúl es quizá el mejor lugar del mundo para preguntarse cómo la inteligencia artificial y la sabiduría colectiva de sus ciudadanos podrían dar forma juntas a la ciudad\", dijo. \"En el próximo evento previo a la bienal empezaremos a presentar a las personas que se unirán a nosotros, y creo que habrá algunas sorpresas: ¡uno de los comisarios adjuntos ni siquiera es humano!\""
+        },
+        {
+          "t": "p",
+          "x": "Ratti, director de Carlo Ratti Associati y profesor del MIT, sucede a Thomas Heatherwick, que fue comisario de la edición de 2025. Él comisarió la Bienal de Arquitectura de Venecia de 2025, con el tema Intelligens. Natural. Artificial. Collective."
+        }
+      ]
+    },
+    "design/nomic-cad-drafting-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nomic, desarrolladora de software AI-powered de revisión de planos para el sector AEC, ha ampliado su plataforma con delineación CAD automatizada. Los usuarios pueden describir un plano en lenguaje natural o aportar un plano existente para revisarlo, y el agente de AI devuelve un archivo CAD editable junto con un PDF trazado para su revisión."
+        },
+        {
+          "t": "p",
+          "x": "Al aportar ejemplos de planos existentes o el cajetín de la empresa, los usuarios pueden indicar a Nomic que genere planos que respeten los estándares CAD establecidos, incluidos capas, grosores de línea, sombreados, bloques y estilos de texto y de cota. El software admite DWG, DXF y DGN."
+        },
+        {
+          "t": "p",
+          "x": "El agente puede interpretar cartas de revisión de planos, corregir los planos afectados y añadir automáticamente nubes de revisión para resaltar los cambios. Cada revisión se guarda como una nueva versión y el archivo original queda intacto. Tras cada paso, renderiza el plano para detectar problemas como textos superpuestos o anotaciones mal colocadas."
+        },
+        {
+          "t": "p",
+          "x": "Nomic está desplegando complementos para Autodesk Revit y AutoCAD. En Revit, el agente puede detectar interferencias entre conductos y estructura y resolver algunas de ellas; en AutoCAD, puede generar detalles o aplicar revisiones en un plano abierto. En ambas aplicaciones, los cambios requieren la aprobación de una persona antes de aplicarse."
+        },
+        {
+          "t": "p",
+          "x": "Las funciones de delineación de Nomic ya están disponibles. Los complementos para Revit y AutoCAD se están desplegando entre los clientes."
+        }
+      ]
     }
   }
 }

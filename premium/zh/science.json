@@ -12065,6 +12065,128 @@
           "x": "“现在的挑战与其说是把人们从兔子洞里拉出来，不如说是让他们一开始就愿意参与对话。”第一作者、卡内基梅隆大学的托马斯·科斯特洛说。"
         }
       ]
+    },
+    "science/ifaw-wildlife-app-helsinki": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+          "cap": "应用示意图。来源：Jani Närhi / University of Helsinki"
+        },
+        {
+          "t": "p",
+          "x": "University of Helsinki的研究人员与国际爱护动物基金会（International Fund for Animal Welfare，IFAW）合作，用近40,000张野生动物制品图像训练了AI模型。这些模型能把源自大象、穿山甲和老虎的制品，与外观相似的日常物品区分开来。"
+        },
+        {
+          "t": "p",
+          "x": "表现最好的模型总体准确率达84%，对老虎和穿山甲制品的准确率超过90%。一款研究原型智能手机应用在独立的实际筛查测试中达到91.3%的准确率。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+          "cap": "应用界面。来源：Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+        },
+        {
+          "t": "p",
+          "x": "该工具旨在标记可疑的网上商品信息，交由专家审核；合法性判定与执法决定仍由具备资质的主管部门作出。下一步包括提高准确率、覆盖更多物种和制品、与NGOs及网络平台开展试点，并建立向执法机构移交的工作流程。"
+        },
+        {
+          "t": "p",
+          "x": "该研究由Ritwik Kulkarni主导，发表于Conservation Biology（DOI: 10.1111/cobi.70407）。"
+        }
+      ]
+    },
+    "science/strathclyde-copepod-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+          "cap": "模型模拟的桡足类浮游动物分布。来源：Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+        },
+        {
+          "t": "p",
+          "x": "University of Strathclyde的研究人员构建了一个高分辨率机器学习模型，用于预测浮游动物——位于海洋食物链底层的微小漂浮动物——可能如何应对不断变化的海洋条件。该模型以数十年的Continuous Plankton Recorder调查数据训练，并结合了区域气候预测。"
+        },
+        {
+          "t": "p",
+          "x": "研究聚焦于桡足类，它们是鲱鱼等鱼类的主要食物来源。在高排放情景下，桡足类丰度预计到2050年下降58–72%，到2100年下降84–93%，降幅大于低分辨率全球模型的估计，表明Northwest European Shelf海域可能比想象中更脆弱。模型还识别出了可能的区域避难所。"
+        },
+        {
+          "t": "p",
+          "x": "这些下降与海温上升、营养盐水平降低以及与AMOC减弱相关的环流变化有关。第一作者Dr. Emma Tyldesley的团队强调，这是一项基于情景的研究，而非预测；这些预测还将纳入Likely Suspects Framework，作为野生大西洋鲑幼鱼摄食条件的指标。"
+        }
+      ]
+    },
+    "science/psypost-ai-label-ratings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+        },
+        {
+          "t": "p",
+          "x": "一项在德国进行的在线实验发现，将一段简短的营养文字标注为由人工智能撰写，并未显著改变参与者对它的评价。不过，在阅读AI-labeled文本的人中，只有约42%表示文中提到了来源。论文发表于Applied Psychology: Health and Well-Being。"
+        },
+        {
+          "t": "p",
+          "x": "Laura M. König及其同事分析了774名成年人，他们阅读了三篇经营养学家核查的ChatGPT-generated文本之一，文本附有或不附“本文由人工智能ChatGPT撰写。”的说明。"
+        },
+        {
+          "t": "p",
+          "x": "各组评分之间没有统计学上的显著差异。AI-labeled文本的可信度评分略低，但在7-point量表上，信任度平均仍高于5。在撰写WhatsApp摘要的569名参与者中，只有17人提到AI是来源。"
+        },
+        {
+          "t": "p",
+          "x": "作者总结称：“结果表明，AI聊天机器人已成为公众接受和信任的营养相关信息来源。”他们指出，这些文本质量较高，对于质量较低的信息，标签的作用可能更大。"
+        }
+      ]
+    },
+    "science/natcomms-neural-decoding-leakage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "神经解码是一种被广泛使用的机器学习技术，用于研究行为、知觉和认知如何在神经活动中得到表征。然而，若应用不当，就可能发生数据泄漏，即测试集的信息污染训练集，导致对解码性能的估计出现偏差，并可能使生物学结论失效。"
+        },
+        {
+          "t": "p",
+          "x": "我们表明，包括降维在内的常见有监督和无监督预处理步骤，都可能在神经解码研究中引入泄漏。我们发现，在某些情况下，泄漏反而会使解码性能低于无偏估计，并给出了解释其成因的理论分析。我们还表明，对于具有自相关的神经时间序列，随机k-fold交叉验证可能大幅高估解码性能。基于这些发现，我们为避免神经解码中的数据泄漏提供了详细建议。"
+        }
+      ]
+    },
+    "science/deepmind-mass-spec-skills": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google DeepMind正在为Google Antigravity开放Mass Spec Skills。这是一套领域技能，将Gemini的化学推理与成熟的质谱工具和公共化学数据库相结合。谱图检索平均只能注释约5%的实测谱图，其余部分被称为质谱的“暗物质”。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+          "cap": "图1. 准备信号、检索参考谱库、推导分子式并为候选结构排序，然后交叉核对并完善。"
+        },
+        {
+          "t": "p",
+          "x": "只需一条提示，智能体就能从一张未注释的串联质谱出发，得出候选化学结构和一份可审计的报告。在一次运行中，它确定了分子式C20H21ClN6O，对845个PubChem同分异构体进行排序，并通过检验碎裂途径锁定了真实分子（CID 137835447）。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+          "cap": "图2. 一条提示即可端到端完成结构解析。"
+        },
+        {
+          "t": "p",
+          "x": "在MoNA的Enamine REAL MS/MS集合中选取的100个化合物上，不联网、不用技能时，Gemini 3.8 Flash、Gemini 4 Argon和Gemini 4 Carbon的准确率都低于4%。使用Mass Spec Skills后，三个模型均在约97%的尝试中识别并验证了确切分子，Flash生成的词元数量减少近四倍。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+          "cap": "图5a. 100张基准谱图上的精确匹配识别准确率。"
+        },
+        {
+          "t": "p",
+          "x": "仅凭LC-MS/MS谱图，无法区分镜像分子和部分结构极为相近的同分异构体。DeepMind将向10,000名科学家免费提供6个月的Antigravity最高使用等级。"
+        }
+      ]
     }
   }
 }

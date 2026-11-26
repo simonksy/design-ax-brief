@@ -13886,6 +13886,133 @@
           "yt": "1nVgFoCTBD4"
         }
       ]
+    },
+    "gadgets/hp-omnibook-ultra16-rtxspark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+          "cap": "HP 'OmniBook Ultra 16'"
+        },
+        {
+          "t": "p",
+          "x": "HP Korea on the 24th launched the 'HP OmniBook Ultra 16' in Korea, a laptop built for high-performance artificial intelligence (AI) work."
+        },
+        {
+          "t": "p",
+          "x": "The HP OmniBook Ultra 16 is powered by Nvidia's 'RTX Spark N1X' platform. It has a 20-core Grace central processing unit (CPU), a 6144-core Blackwell graphics processing unit (GPU) and up to 128GB of unified memory."
+        },
+        {
+          "t": "p",
+          "x": "It can run large AI models without a cloud connection and supports AI agents that automatically carry out multi-step tasks such as data analysis and writing code. It can also be used for high-resolution video editing, three-dimensional (3D) content creation and demanding games."
+        },
+        {
+          "t": "p",
+          "x": "It ships with Windows 11 Pro, providing features needed for professional work such as data encryption, virtualization and remote access. It has a 16-inch 3K organic light-emitting diode (OLED) touch display and a 99-watt-hour (Wh) battery that allows up to 17 hours of use."
+        },
+        {
+          "t": "p",
+          "x": "The cooling system has also been strengthened for long, high-load work. It is the first HP consumer laptop to adopt a 'Tower Hinge and Trunk' design, which improves airflow and heat dissipation. Customers who buy in Korea receive a free 3-year warranty."
+        },
+        {
+          "t": "p",
+          "x": "Kang Yong-nam, CEO of HP Korea, said, “As AI evolves beyond simple question-and-answer toward intelligent agents that support creative and business work, the PC's role is expanding into a platform for running and developing these AI workflows.”"
+        },
+        {
+          "t": "p",
+          "x": "He added, “Through the OmniBook Ultra 16, users in Korea will experience a new way of working and creating with AI.”"
+        }
+      ]
+    },
+    "gadgets/usc-stress-ring-ondevice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "A University of Southern California team led by assistant professor Yasser Khan and his PhD student Farhad Hassan built an AI-powered ring that uses near-infrared light to track sweat activity beneath the skin. Their findings were published in Science Advances."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+          "cap": "USC Khan Lab"
+        },
+        {
+          "t": "p",
+          "x": "“This is the first time that someone is showing that stress can be measured with light,” Khan said. In experiments with four participants, the optical signals showed an average 86 percent agreement over time with a commercial gel-based EDA sensor. The same optical system also captures heart rate and heart rate variability. A temperature sensor and accelerometer help the ring tell psychological stress apart from movement or heat-induced sweating."
+        },
+        {
+          "t": "p",
+          "x": "The machine-learning model runs on the ring itself, so raw biometric data does not have to travel to an outside server. “The quantized INT8 model occupied 27.65 kB. Simultaneous sensing and inference implementation required 174.47 kB of program flash and 27.63 kB of static RAM,” writes the team. The ring processes data locally and only sends the final verdict, such as stressed or relaxed, to the paired phone."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+          "cap": "Science Advances / USC"
+        },
+        {
+          "t": "p",
+          "x": "Khan plans a yearlong follow-up with 40 participants in an office setting. The technology is in the patent process and may later be offered for commercial licensing through USC’s Stevens Center for Innovation."
+        }
+      ]
+    },
+    "gadgets/meta-glasses-south-africa-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
+        },
+        {
+          "t": "p",
+          "x": "Essilor Luxottica and Meta are bringing their Ray-Ban Meta and Oakley Meta smart eyewear collections to South Africa from the end of November, introducing local consumers to a new category of AI-powered wearable technology."
+        },
+        {
+          "t": "p",
+          "x": "The Ray-Ban Meta collection will arrive in its third generation, with Wayfarer, Aviator and Zena styles. Wearers can capture photos and videos, listen to music and podcasts, make calls, send messages and translate conversations. The built-in Meta AI function also allows users to ask questions about what they are seeing, using voice commands."
+        },
+        {
+          "t": "p",
+          "x": "The Oakley Meta collection is aimed at sports and outdoor use. The HSTN includes a 3K Ultra HD camera, open-ear speakers and an IPX4 rating. The Vanguard, geared towards running and cycling, has a 12MP ultra-wide camera with a 122-degree field of view, an IP67 rating, and integration with Strava and Garmin."
+        },
+        {
+          "t": "p",
+          "x": "The collections will be available through selected Essilor Luxottica optical retail partners, Oakley stores and online. Suggested entry-level prices: Ray-Ban Meta Optics (Gen 2) R8,999; Ray-Ban Meta (Gen 3) R8,599; Oakley Meta Vanguard R10,599; Oakley Meta HSTN R8,399."
+        }
+      ]
+    },
+    "gadgets/savage-orrorin-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Hong Kong startup Savage Technology has announced its first product, \"Orrorin Glasses,\" promising Vision Pro-style pinch controls and full-color displays for both eyes in a frame weighing just 45 grams."
+        },
+        {
+          "t": "p",
+          "x": "The company describes the glasses as offering \"Vision Pro–level interaction\" and being around 25 times lighter than Apple's headset, including its external battery, although Orrorin offers substantially fewer capabilities."
+        },
+        {
+          "t": "p",
+          "x": "Savage says small pinches performed at the user's side control the interface without a ring, wristband, or controller. Eye tracking makes the display fade when the wearer looks away, rather than selecting interface elements as it does on Vision Pro."
+        },
+        {
+          "t": "p",
+          "x": "The Meta Ray-Ban Display costs the same $799 but has a screen for only the right eye and requires a Neural Band wristband. Orrorin lacks positional tracking and spatial mapping, so it cannot anchor virtual windows in a room like Vision Pro."
+        },
+        {
+          "t": "p",
+          "x": "Co-founded by Bill Pei and Elena Shi, Savage remains in engineering validation and is targeting developers with third-party apps and interaction with AI agents such as Claude Code and Codex."
+        },
+        {
+          "t": "p",
+          "x": "Orrorin reservations start at $29 toward the $799 price. Savage estimates shipments will begin in March 2027 for Founder Edition buyers and May 2027 for Early Bird buyers."
+        }
+      ]
     }
   }
 }

@@ -1,1305 +1,17 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "science",
   "cards": [
     {
-      "id": "deepmind-mass-spec-skills",
+      "id": "astra-quantum-gravity-stanford",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "DeepMind 에이전트\n질량분석으로 분자 식별",
-      "body": "Mass Spec Skills로 100종 식별률이 4% 미만에서 약 97%가 됐다.",
-      "mini_headline": "Gemini가 질량 스펙트럼을 읽다",
+      "headline": "GPT-6 Astra와\n양자중력 쫓는 물리학자",
+      "body": "Venkatesa Chandrasekaran은 GPT-6 Astra와 계산했다.",
+      "mini_headline": "AI가 돕는 양자중력 탐구",
       "tool": "Science",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Google DeepMind가 Google Antigravity용 Mass Spec Skills를 내놓는다. Gemini의 화학 추론에 기존 질량분석 도구와 공개 화학 데이터베이스를 엮은 도메인 스킬 모음이다. 스펙트럼 검색으로 주석이 붙는 스펙트럼은 평균 약 5%뿐이고, 나머지는 질량분석의 ‘암흑물질’로 불려 왔다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
-            "cap": "그림 1. 신호를 준비해 참조 라이브러리를 검색하고, 분자식을 추론해 후보 구조 순위를 매긴 뒤 교차 검증과 보정을 거친다."
-          },
-          {
-            "t": "p",
-            "x": "에이전트는 프롬프트 하나만 받아 주석 없는 탠덤 질량 스펙트럼에서 출발하고, 화학 구조 제안과 검증 가능한 보고서까지 내놓는다. 어느 실행에서는 분자식 C20H21ClN6O를 밝혀내고 PubChem 이성질체 845개에 순위를 매긴 다음 단편화 경로를 검증해 실제 분자(CID 137835447)를 골라냈다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
-            "cap": "그림 2. 프롬프트 하나로 구조 규명을 처음부터 끝까지 해낸다."
-          },
-          {
-            "t": "p",
-            "x": "MoNA의 Enamine REAL MS/MS 컬렉션에서 뽑은 화합물 100개 시험에서 인터넷 접속도 스킬도 없이 돌린 Gemini 3.8 Flash, Gemini 4 Argon, Gemini 4 Carbon은 모두 정확도가 4% 미만에 그쳤다. Mass Spec Skills를 붙이자 세 모델 모두 시도의 약 97%에서 정확한 분자를 찾아 검증했고, Flash는 생성 토큰이 네 배 가까이 줄었다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
-            "cap": "그림 5a. 벤치마크 스펙트럼 100개의 정확 일치 식별 정확도."
-          },
-          {
-            "t": "p",
-            "x": "거울상 분자나 아주 비슷한 일부 이성질체는 LC-MS/MS 스펙트럼만으로 가려내지 못한다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월 동안 무료로 준다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "DeepMind agents identify\nmolecules from mass spectra",
-          "body": "On a 100-compound benchmark, Mass Spec Skills raised exact-match identification from under 4% to about 97%.",
-          "mini_headline": "Gemini reads mass spectra",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google DeepMind is sharing Mass Spec Skills for Google Antigravity, a suite of domain skills that pair Gemini's chemical reasoning with established mass spectrometry tools and public chemical databases. Spectral searches annotate on average only about 5% of measured spectra; the rest has been called the \"dark matter\" of mass spectrometry."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
-                "cap": "Figure 1. Prepare the signal, search reference libraries, deduce the formula and rank candidate structures, then cross-check and refine."
-              },
-              {
-                "t": "p",
-                "x": "From a single prompt, the agent can take an unannotated tandem mass spectrum to a proposed chemical structure and an auditable report. In one run it identified the formula C20H21ClN6O, ranked 845 PubChem isomers and singled out the true molecule (CID 137835447) by testing fragmentation pathways."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
-                "cap": "Figure 2. A single prompt runs structure elucidation end to end."
-              },
-              {
-                "t": "p",
-                "x": "On 100 compounds from the Enamine REAL MS/MS collection in MoNA, accuracy without internet access or skills remained below 4% across Gemini 3.8 Flash, Gemini 4 Argon and Gemini 4 Carbon. With the Mass Spec Skills, all three identified and verified the exact molecule in around 97% of attempts, and generated tokens fell by nearly four times on Flash."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
-                "cap": "Figure 5a. Exact-match identification accuracy on 100 benchmark spectra."
-              },
-              {
-                "t": "p",
-                "x": "Mirror-image molecules and some closely related isomers cannot be told apart from an LC-MS/MS spectrum alone. DeepMind is offering 10,000 scientists the highest Antigravity usage tier free for 6 months."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "DeepMind 에이전트\n질량분석으로 분자 식별",
-          "body": "Mass Spec Skills로 100종 식별률이 4% 미만에서 약 97%가 됐다.",
-          "mini_headline": "Gemini가 질량 스펙트럼을 읽다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google DeepMind가 Google Antigravity용 Mass Spec Skills를 내놓는다. Gemini의 화학 추론에 기존 질량분석 도구와 공개 화학 데이터베이스를 엮은 도메인 스킬 모음이다. 스펙트럼 검색으로 주석이 붙는 스펙트럼은 평균 약 5%뿐이고, 나머지는 질량분석의 ‘암흑물질’로 불려 왔다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
-                "cap": "그림 1. 신호를 준비해 참조 라이브러리를 검색하고, 분자식을 추론해 후보 구조 순위를 매긴 뒤 교차 검증과 보정을 거친다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트는 프롬프트 하나만 받아 주석 없는 탠덤 질량 스펙트럼에서 출발하고, 화학 구조 제안과 검증 가능한 보고서까지 내놓는다. 어느 실행에서는 분자식 C20H21ClN6O를 밝혀내고 PubChem 이성질체 845개에 순위를 매긴 다음 단편화 경로를 검증해 실제 분자(CID 137835447)를 골라냈다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
-                "cap": "그림 2. 프롬프트 하나로 구조 규명을 처음부터 끝까지 해낸다."
-              },
-              {
-                "t": "p",
-                "x": "MoNA의 Enamine REAL MS/MS 컬렉션에서 뽑은 화합물 100개 시험에서 인터넷 접속도 스킬도 없이 돌린 Gemini 3.8 Flash, Gemini 4 Argon, Gemini 4 Carbon은 모두 정확도가 4% 미만에 그쳤다. Mass Spec Skills를 붙이자 세 모델 모두 시도의 약 97%에서 정확한 분자를 찾아 검증했고, Flash는 생성 토큰이 네 배 가까이 줄었다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
-                "cap": "그림 5a. 벤치마크 스펙트럼 100개의 정확 일치 식별 정확도."
-              },
-              {
-                "t": "p",
-                "x": "거울상 분자나 아주 비슷한 일부 이성질체는 LC-MS/MS 스펙트럼만으로 가려내지 못한다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월 동안 무료로 준다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "DeepMindエージェント\n質量スペクトルで分子特定",
-          "body": "Mass Spec Skillsで100化合物の識別率は4%未満から約97%に向上した。",
-          "mini_headline": "Geminiが質量スペクトルを読む",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google DeepMindは、Google Antigravity向けのMass Spec Skillsを公開している。Geminiの化学的推論を、確立された質量分析ツールや公開化学データベースと組み合わせたドメインスキル群だ。スペクトル検索で注釈が付くのは測定スペクトルの平均わずか約5%で、残りは質量分析の「ダークマター」と呼ばれてきた。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
-                "cap": "図1. シグナルを整え、参照ライブラリを検索し、分子式を推定して候補構造を順位付けし、照合と精緻化を行う。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントは一つのプロンプトから、注釈のないタンデム質量スペクトルを出発点に、化学構造の提案と監査可能なレポートまで到達できる。ある実行では分子式C20H21ClN6Oを特定し、PubChemの異性体845個を順位付けしたうえで、フラグメンテーション経路を検証して真の分子(CID 137835447)を突き止めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
-                "cap": "図2. 一つのプロンプトで構造解析を最初から最後まで実行する。"
-              },
-              {
-                "t": "p",
-                "x": "MoNAのEnamine REAL MS/MSコレクションから選んだ100化合物では、インターネット接続もスキルもない状態の正解率が、Gemini 3.8 Flash、Gemini 4 Argon、Gemini 4 Carbonのいずれでも4%未満にとどまった。Mass Spec Skillsを使うと、三つのモデルとも約97%の試行で正確な分子を特定・検証し、Flashでは生成トークンが四分の一近くまで減った。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
-                "cap": "図5a. ベンチマークスペクトル100件における完全一致の識別精度。"
-              },
-              {
-                "t": "p",
-                "x": "鏡像分子や一部のよく似た異性体は、LC-MS/MSスペクトルだけでは区別できない。DeepMindは科学者10,000人に、Antigravityの最上位利用枠を6カ月間無料で提供する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "DeepMind智能体\n从质谱中识别分子",
-          "body": "在100种化合物基准上，Mass Spec Skills将识别率从不足4%提升至约97%。",
-          "mini_headline": "Gemini读懂质谱",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google DeepMind正在为Google Antigravity开放Mass Spec Skills。这是一套领域技能，将Gemini的化学推理与成熟的质谱工具和公共化学数据库相结合。谱图检索平均只能注释约5%的实测谱图，其余部分被称为质谱的“暗物质”。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
-                "cap": "图1. 准备信号、检索参考谱库、推导分子式并为候选结构排序，然后交叉核对并完善。"
-              },
-              {
-                "t": "p",
-                "x": "只需一条提示，智能体就能从一张未注释的串联质谱出发，得出候选化学结构和一份可审计的报告。在一次运行中，它确定了分子式C20H21ClN6O，对845个PubChem同分异构体进行排序，并通过检验碎裂途径锁定了真实分子（CID 137835447）。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
-                "cap": "图2. 一条提示即可端到端完成结构解析。"
-              },
-              {
-                "t": "p",
-                "x": "在MoNA的Enamine REAL MS/MS集合中选取的100个化合物上，不联网、不用技能时，Gemini 3.8 Flash、Gemini 4 Argon和Gemini 4 Carbon的准确率都低于4%。使用Mass Spec Skills后，三个模型均在约97%的尝试中识别并验证了确切分子，Flash生成的词元数量减少近四倍。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
-                "cap": "图5a. 100张基准谱图上的精确匹配识别准确率。"
-              },
-              {
-                "t": "p",
-                "x": "仅凭LC-MS/MS谱图，无法区分镜像分子和部分结构极为相近的同分异构体。DeepMind将向10,000名科学家免费提供6个月的Antigravity最高使用等级。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Agentes de DeepMind identifican\nmoléculas en espectros de masas",
-          "body": "En una prueba con 100 compuestos, Mass Spec Skills elevó la identificación exacta de menos del 4% a cerca del 97%.",
-          "mini_headline": "Gemini lee espectros de masas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google DeepMind comparte Mass Spec Skills para Google Antigravity, un conjunto de habilidades de dominio que combinan el razonamiento químico de Gemini con herramientas consolidadas de espectrometría de masas y bases de datos químicas públicas. Las búsquedas espectrales anotan en promedio solo alrededor del 5% de los espectros medidos; el resto se ha llamado la “materia oscura” de la espectrometría de masas."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
-                "cap": "Figura 1. Preparar la señal, buscar en bibliotecas de referencia, deducir la fórmula y clasificar estructuras candidatas; después, contrastar y refinar."
-              },
-              {
-                "t": "p",
-                "x": "A partir de un solo prompt, el agente puede llevar un espectro de masas en tándem sin anotar hasta una estructura química propuesta y un informe auditable. En una ejecución identificó la fórmula C20H21ClN6O, clasificó 845 isómeros de PubChem y señaló la molécula verdadera (CID 137835447) al poner a prueba rutas de fragmentación."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
-                "cap": "Figura 2. Un solo prompt ejecuta la elucidación estructural de principio a fin."
-              },
-              {
-                "t": "p",
-                "x": "Con 100 compuestos de la colección Enamine REAL MS/MS en MoNA, la precisión sin acceso a internet ni habilidades se mantuvo por debajo del 4% en Gemini 3.8 Flash, Gemini 4 Argon y Gemini 4 Carbon. Con Mass Spec Skills, los tres identificaron y verificaron la molécula exacta en cerca del 97% de los intentos, y los tokens generados se redujeron casi cuatro veces en Flash."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
-                "cap": "Figura 5a. Precisión de identificación exacta en 100 espectros de referencia."
-              },
-              {
-                "t": "p",
-                "x": "Las moléculas especulares y algunos isómeros muy parecidos no pueden distinguirse solo con un espectro LC-MS/MS. DeepMind ofrece a 10,000 científicos el nivel de uso más alto de Antigravity gratis durante 6 meses."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "DeepMind 에이전트\n질량분석으로 분자 식별",
-          "body": "Mass Spec Skills로 100종 식별률이 4% 미만에서 약 97%가 됐다.",
-          "mini_headline": "Gemini가 질량 스펙트럼을 읽다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google DeepMind가 Google Antigravity용 Mass Spec Skills를 공개한다. Gemini의 화학적 추론을 기존 질량분석 도구, 공개 화학 데이터베이스와 결합한 도메인 스킬 모음이다. 스펙트럼 검색으로 주석이 달리는 것은 측정된 스펙트럼의 평균 약 5%에 불과하며, 나머지는 질량분석의 ‘암흑물질’로 불려 왔다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
-                "cap": "그림 1. 신호를 준비하고 참조 라이브러리를 검색한 뒤, 분자식을 추론해 후보 구조의 순위를 매기고, 교차 검증과 보정을 거친다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트는 프롬프트 하나로 주석 없는 탠덤 질량 스펙트럼에서 출발해 화학 구조 제안과 검증 가능한 보고서까지 만들어 낸다. 한 실행에서는 분자식 C20H21ClN6O를 밝히고 PubChem 이성질체 845개의 순위를 매긴 뒤, 단편화 경로를 검증해 실제 분자(CID 137835447)를 골라냈다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
-                "cap": "그림 2. 프롬프트 하나로 구조 규명 전 과정을 수행한다."
-              },
-              {
-                "t": "p",
-                "x": "MoNA의 Enamine REAL MS/MS 컬렉션에서 뽑은 화합물 100개를 대상으로, 인터넷 접속이나 스킬 없이 돌린 Gemini 3.8 Flash, Gemini 4 Argon, Gemini 4 Carbon의 정확도는 모두 4% 미만에 머물렀다. Mass Spec Skills를 쓰자 세 모델 모두 시도의 약 97%에서 정확한 분자를 식별하고 검증했으며, Flash에서는 생성 토큰이 네 배 가까이 줄었다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
-                "cap": "그림 5a. 벤치마크 스펙트럼 100개에 대한 정확 일치 식별 정확도."
-              },
-              {
-                "t": "p",
-                "x": "거울상 분자와 일부 매우 비슷한 이성질체는 LC-MS/MS 스펙트럼만으로는 구별할 수 없다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월간 무료로 제공한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "DeepMindエージェント\n質量スペクトルで分子特定",
-          "body": "Mass Spec Skillsで100化合物の識別率は4%未満から約97%に向上した。",
-          "mini_headline": "Geminiが質量スペクトルを読む",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google DeepMindは、Google Antigravity向けのMass Spec Skillsを公開している。Geminiの化学的推論を、確立された質量分析ツールや公開化学データベースと組み合わせたドメインスキル群だ。スペクトル検索で注釈が付くのは測定スペクトルの平均わずか約5%で、残りは質量分析の「ダークマター」と呼ばれてきた。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
-                "cap": "図1. シグナルを整え、参照ライブラリを検索し、分子式を推定して候補構造を順位付けし、照合と精緻化を行う。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントは一つのプロンプトから、注釈のないタンデム質量スペクトルを出発点に、化学構造の提案と監査可能なレポートまで到達できる。ある実行では分子式C20H21ClN6Oを特定し、PubChemの異性体845個を順位付けしたうえで、フラグメンテーション経路を検証して真の分子(CID 137835447)を突き止めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
-                "cap": "図2. 一つのプロンプトで構造解析を最初から最後まで実行する。"
-              },
-              {
-                "t": "p",
-                "x": "MoNAのEnamine REAL MS/MSコレクションから選んだ100化合物では、インターネット接続もスキルもない状態の正解率が、Gemini 3.8 Flash、Gemini 4 Argon、Gemini 4 Carbonのいずれでも4%未満にとどまった。Mass Spec Skillsを使うと、三つのモデルとも約97%の試行で正確な分子を特定・検証し、Flashでは生成トークンが四分の一近くまで減った。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
-                "cap": "図5a. ベンチマークスペクトル100件における完全一致の識別精度。"
-              },
-              {
-                "t": "p",
-                "x": "鏡像分子や一部のよく似た異性体は、LC-MS/MSスペクトルだけでは区別できない。DeepMindは科学者10,000人に、Antigravityの最上位利用枠を6カ月間無料で提供する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "DeepMind智能体\n从质谱中识别分子",
-          "body": "在100种化合物基准上，Mass Spec Skills将识别率从不足4%提升至约97%。",
-          "mini_headline": "Gemini读懂质谱",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google DeepMind正在为Google Antigravity开放Mass Spec Skills。这是一套领域技能，将Gemini的化学推理与成熟的质谱工具和公共化学数据库相结合。谱图检索平均只能注释约5%的实测谱图，其余部分被称为质谱的“暗物质”。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
-                "cap": "图1. 准备信号、检索参考谱库、推导分子式并为候选结构排序，然后交叉核对并完善。"
-              },
-              {
-                "t": "p",
-                "x": "只需一条提示，智能体就能从一张未注释的串联质谱出发，得出候选化学结构和一份可审计的报告。在一次运行中，它确定了分子式C20H21ClN6O，对845个PubChem同分异构体进行排序，并通过检验碎裂途径锁定了真实分子（CID 137835447）。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
-                "cap": "图2. 一条提示即可端到端完成结构解析。"
-              },
-              {
-                "t": "p",
-                "x": "在MoNA的Enamine REAL MS/MS集合中选取的100个化合物上，不联网、不用技能时，Gemini 3.8 Flash、Gemini 4 Argon和Gemini 4 Carbon的准确率都低于4%。使用Mass Spec Skills后，三个模型均在约97%的尝试中识别并验证了确切分子，Flash生成的词元数量减少近四倍。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
-                "cap": "图5a. 100张基准谱图上的精确匹配识别准确率。"
-              },
-              {
-                "t": "p",
-                "x": "仅凭LC-MS/MS谱图，无法区分镜像分子和部分结构极为相近的同分异构体。DeepMind将向10,000名科学家免费提供6个月的Antigravity最高使用等级。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Agentes de DeepMind identifican\nmoléculas en espectros de masas",
-          "body": "En una prueba con 100 compuestos, Mass Spec Skills elevó la identificación exacta de menos del 4% a cerca del 97%.",
-          "mini_headline": "Gemini lee espectros de masas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google DeepMind comparte Mass Spec Skills para Google Antigravity, un conjunto de habilidades de dominio que combinan el razonamiento químico de Gemini con herramientas consolidadas de espectrometría de masas y bases de datos químicas públicas. Las búsquedas espectrales anotan en promedio solo alrededor del 5% de los espectros medidos; el resto se ha llamado la “materia oscura” de la espectrometría de masas."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
-                "cap": "Figura 1. Preparar la señal, buscar en bibliotecas de referencia, deducir la fórmula y clasificar estructuras candidatas; después, contrastar y refinar."
-              },
-              {
-                "t": "p",
-                "x": "A partir de un solo prompt, el agente puede llevar un espectro de masas en tándem sin anotar hasta una estructura química propuesta y un informe auditable. En una ejecución identificó la fórmula C20H21ClN6O, clasificó 845 isómeros de PubChem y señaló la molécula verdadera (CID 137835447) al poner a prueba rutas de fragmentación."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
-                "cap": "Figura 2. Un solo prompt ejecuta la elucidación estructural de principio a fin."
-              },
-              {
-                "t": "p",
-                "x": "Con 100 compuestos de la colección Enamine REAL MS/MS en MoNA, la precisión sin acceso a internet ni habilidades se mantuvo por debajo del 4% en Gemini 3.8 Flash, Gemini 4 Argon y Gemini 4 Carbon. Con Mass Spec Skills, los tres identificaron y verificaron la molécula exacta en cerca del 97% de los intentos, y los tokens generados se redujeron casi cuatro veces en Flash."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
-                "cap": "Figura 5a. Precisión de identificación exacta en 100 espectros de referencia."
-              },
-              {
-                "t": "p",
-                "x": "Las moléculas especulares y algunos isómeros muy parecidos no pueden distinguirse solo con un espectro LC-MS/MS. DeepMind ofrece a 10,000 científicos el nivel de uso más alto de Antigravity gratis durante 6 meses."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "meta-meg-typing-decode",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Meta, 뇌 이식 없이\n타이핑한 문장 해독",
-      "body": "MEG 스캔과 학습 모델로 수술 없이 두개골 밖에서 입력한 문장을 되살렸다.",
-      "mini_headline": "이식 없이 뇌 신호를 텍스트로",
-      "tool": "Science",
-      "source": "PsyPost",
-      "url": "https://www.psypost.org/scientists-at-meta-decode-typed-sentences-from-brain-activity-without-surgically-implanted-chips/",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
-          },
-          {
-            "t": "p",
-            "x": "과학자들이 두개골 밖에서 기록한 뇌 활동을 타이핑한 문장으로 바꾸는 인공지능 시스템을 내놨다. Nature Neuroscience에 실린 연구를 보면 이 모델은 참가자 본인의 뇌 스캔으로 외운 문장을 평균 문자 오류율 29퍼센트로 해독했고, 성적이 가장 좋은 참가자는 18퍼센트까지 내려갔다."
-          },
-          {
-            "t": "p",
-            "x": "파리 Meta AI의 Jarod Lévy, Stéphane d’Ascoli, Jean-Rémi King과 동료들이 만든 Brain2Qwerty는 딥러닝 시스템이다. 스페인어를 쓰는 숙련 타자수 35명이 센서 64개짜리 EEG 캡을 쓰거나 센서 306개짜리 뇌자도 스캐너에 앉아 남긴 기록으로 학습했다. 오류율이 65퍼센트였던 EEG보다 MEG가 나았고, Brain2Qwerty는 EEGNet의 MEG 오류율을 72에서 29퍼센트로 끌어내렸다."
-          },
-          {
-            "t": "p",
-            "x": "오류가 물리적으로 이웃한 키에 몰리는 것으로 보아 디코더는 손가락 운동 명령을 읽는 듯하다. UC Davis의 Sergey Stavisky는 “이 논문은 비침습 뇌 측정 기술로 사람이 무엇을 타이핑하는지 해독하는 정확도에서 새로운 최고 수준을 세웠다”면서도 “실용적인 소통 수단이 되기까지는 아직 갈 길이 멀다”고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "시스템은 아직 실시간으로 돌지 않고 키 입력 타임스탬프에 기대며, 마비 환자에게는 시험하지 않았다. 저자 일곱 명 가운데 다섯 명이 Meta 소속이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Meta decodes typed sentences\nwithout a brain implant",
-          "body": "MEG scans plus a trained model reconstructed typed sentences from outside the skull, with no surgery needed.",
-          "mini_headline": "Brain-to-text, no implant",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Scientists have developed an artificial intelligence system that translates brain activity recorded outside the skull into typed sentences. Reported in Nature Neuroscience, the model decoded memorized sentences with an average character error rate of 29 percent using magnetic brain scans, reaching 18 percent in the top-performing participant."
-              },
-              {
-                "t": "p",
-                "x": "Jarod Lévy, Stéphane d’Ascoli and Jean-Rémi King of Meta AI in Paris and colleagues built Brain2Qwerty, a deep-learning system trained on recordings from 35 skilled Spanish-speaking typists who wore a 64-sensor EEG cap or sat in a 306-sensor magnetoencephalography scanner. MEG outperformed EEG, whose error rate was 65 percent, and Brain2Qwerty cut EEGNet's MEG error rate from 72 to 29 percent."
-              },
-              {
-                "t": "p",
-                "x": "Errors tended to land on physically adjacent keys, suggesting the decoder reads finger motor commands. “This paper sets a new state-of-the-art accuracy for decoding what a person is typing using a noninvasive brain measurement technology,” said Sergey Stavisky of UC Davis, who added that it is “still a long way from being a practical way to communicate.”"
-              },
-              {
-                "t": "p",
-                "x": "The system cannot yet run in real time, relies on keystroke timestamps, and has not been tested on paralyzed users. Five of the study’s seven authors are employed by Meta."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Meta, 뇌 이식 없이\n타이핑한 문장 해독",
-          "body": "MEG 스캔과 학습 모델로 수술 없이 두개골 밖에서 입력한 문장을 되살렸다.",
-          "mini_headline": "이식 없이 뇌 신호를 텍스트로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
-              },
-              {
-                "t": "p",
-                "x": "과학자들이 두개골 밖에서 기록한 뇌 활동을 타이핑한 문장으로 바꾸는 인공지능 시스템을 내놨다. Nature Neuroscience에 실린 연구를 보면 이 모델은 참가자 본인의 뇌 스캔으로 외운 문장을 평균 문자 오류율 29퍼센트로 해독했고, 성적이 가장 좋은 참가자는 18퍼센트까지 내려갔다."
-              },
-              {
-                "t": "p",
-                "x": "파리 Meta AI의 Jarod Lévy, Stéphane d’Ascoli, Jean-Rémi King과 동료들이 만든 Brain2Qwerty는 딥러닝 시스템이다. 스페인어를 쓰는 숙련 타자수 35명이 센서 64개짜리 EEG 캡을 쓰거나 센서 306개짜리 뇌자도 스캐너에 앉아 남긴 기록으로 학습했다. 오류율이 65퍼센트였던 EEG보다 MEG가 나았고, Brain2Qwerty는 EEGNet의 MEG 오류율을 72에서 29퍼센트로 끌어내렸다."
-              },
-              {
-                "t": "p",
-                "x": "오류가 물리적으로 이웃한 키에 몰리는 것으로 보아 디코더는 손가락 운동 명령을 읽는 듯하다. UC Davis의 Sergey Stavisky는 “이 논문은 비침습 뇌 측정 기술로 사람이 무엇을 타이핑하는지 해독하는 정확도에서 새로운 최고 수준을 세웠다”면서도 “실용적인 소통 수단이 되기까지는 아직 갈 길이 멀다”고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "시스템은 아직 실시간으로 돌지 않고 키 입력 타임스탬프에 기대며, 마비 환자에게는 시험하지 않았다. 저자 일곱 명 가운데 다섯 명이 Meta 소속이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Meta、脳に埋め込まず\n入力した文を解読",
-          "body": "MEGスキャンと学習済みモデルで、手術なしに頭蓋の外から入力文を再構成した。",
-          "mini_headline": "埋め込みなしで脳から文字へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
-              },
-              {
-                "t": "p",
-                "x": "研究者らは、頭蓋の外で記録した脳活動をタイプされた文章に変換する人工知能システムを開発した。Nature Neuroscienceに掲載された研究によると、このモデルは脳磁気スキャンを用いて暗記した文章を平均文字誤り率29パーセントで解読し、最も成績の良い参加者では18パーセントに達した。"
-              },
-              {
-                "t": "p",
-                "x": "パリのMeta AIに所属するJarod Lévy、Stéphane d’Ascoli、Jean-Rémi Kingらは、Brain2Qwertyを構築した。スペイン語を話す熟練タイピスト35人が、64センサーのEEGキャップを装着するか、306センサーの脳磁図スキャナーに座って得た記録で学習した深層学習システムだ。MEGは誤り率65パーセントのEEGを上回り、Brain2QwertyはEEGNetのMEG誤り率を72から29パーセントに下げた。"
-              },
-              {
-                "t": "p",
-                "x": "誤りは物理的に隣接するキーに集中する傾向があり、デコーダーが指の運動指令を読み取っていることを示唆する。UC DavisのSergey Stavisky氏は「この論文は、非侵襲的な脳計測技術で人が何をタイプしているかを解読する精度において、新たな最高水準を打ち立てた」と述べつつ、「実用的なコミュニケーション手段になるにはまだ長い道のりがある」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "このシステムはまだリアルタイムでは動作せず、キー入力のタイムスタンプに依存しており、まひのある利用者では試されていない。研究の著者七人のうち五人はMetaに雇用されている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Meta无需脑植入\n即可解码打字句子",
-          "body": "借助MEG扫描与训练好的模型，研究者无需手术即从颅外重建了所打句子。",
-          "mini_headline": "无需植入，脑信号转文字",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
-              },
-              {
-                "t": "p",
-                "x": "科学家开发出一套人工智能系统，可将在颅骨外记录的脑活动转换为打出的句子。据发表于Nature Neuroscience的研究，该模型借助脑磁扫描解码背诵过的句子，平均字符错误率为百分之二十九，表现最好的参与者降至百分之十八。"
-              },
-              {
-                "t": "p",
-                "x": "巴黎Meta AI的Jarod Lévy、Stéphane d’Ascoli、Jean-Rémi King及其同事构建了Brain2Qwerty。这一深度学习系统的训练数据来自35名熟练的西班牙语打字员，他们佩戴64个传感器的EEG帽，或坐在306个传感器的脑磁图扫描仪中。MEG的表现优于错误率为65%的EEG，Brain2Qwerty还把EEGNet的MEG错误率从72%降至百分之二十九。"
-              },
-              {
-                "t": "p",
-                "x": "错误往往落在物理位置相邻的按键上，表明解码器读取的是手指运动指令。UC Davis的Sergey Stavisky说：“这篇论文在用非侵入式脑测量技术解码一个人正在打什么字方面，创下了新的最高准确率。”他补充说，这“距离成为实用的交流方式还有很长的路要走”。"
-              },
-              {
-                "t": "p",
-                "x": "该系统目前还无法实时运行，依赖按键时间戳，也尚未在瘫痪用户身上测试。研究的七位作者中有五位受雇于Meta。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Meta descifra frases tecleadas\nsin implante cerebral",
-          "body": "Escáneres de MEG y un modelo entrenado reconstruyeron frases tecleadas desde fuera del cráneo, sin cirugía.",
-          "mini_headline": "Del cerebro al texto, sin implante",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Un equipo de científicos ha desarrollado un sistema de inteligencia artificial que traduce en frases tecleadas la actividad cerebral registrada fuera del cráneo. Según el estudio publicado en Nature Neuroscience, el modelo decodificó frases memorizadas con una tasa media de error de caracteres del 29 por ciento mediante escáneres magnéticos del cerebro, y llegó al 18 por ciento en el participante con mejor rendimiento."
-              },
-              {
-                "t": "p",
-                "x": "Jarod Lévy, Stéphane d’Ascoli y Jean-Rémi King, de Meta AI en París, y sus colegas crearon Brain2Qwerty, un sistema de aprendizaje profundo entrenado con registros de 35 mecanógrafos expertos hispanohablantes que llevaban un gorro EEG de 64 sensores o se sentaban en un escáner de magnetoencefalografía de 306 sensores. La MEG superó a la EEG, cuya tasa de error fue del 65 por ciento, y Brain2Qwerty redujo la tasa de error de EEGNet con MEG del 72 al 29 por ciento."
-              },
-              {
-                "t": "p",
-                "x": "Los errores tendían a caer en teclas físicamente adyacentes, lo que sugiere que el decodificador lee órdenes motoras de los dedos. “Este artículo establece una nueva precisión de vanguardia para decodificar lo que una persona teclea mediante una tecnología no invasiva de medición cerebral”, dijo Sergey Stavisky, de UC Davis, quien añadió que “todavía está muy lejos de ser una forma práctica de comunicarse”."
-              },
-              {
-                "t": "p",
-                "x": "El sistema aún no funciona en tiempo real, depende de las marcas de tiempo de las pulsaciones y no se ha probado con usuarios paralizados. Cinco de los siete autores del estudio trabajan para Meta."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Meta, 뇌 이식 없이\n타이핑한 문장 해독",
-          "body": "MEG 스캔과 학습된 모델로 수술 없이 두개골 밖에서 입력 문장을 복원했다.",
-          "mini_headline": "이식 없이 뇌에서 텍스트로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
-              },
-              {
-                "t": "p",
-                "x": "과학자들이 두개골 밖에서 기록한 뇌 활동을 타이핑한 문장으로 옮기는 인공지능 시스템을 개발했다. Nature Neuroscience에 실린 연구에 따르면 이 모델은 자기 뇌 스캔으로 암기한 문장을 평균 문자 오류율 29퍼센트로 해독했고, 성적이 가장 좋은 참가자에게서는 18퍼센트까지 낮아졌다."
-              },
-              {
-                "t": "p",
-                "x": "파리 Meta AI의 Jarod Lévy, Stéphane d’Ascoli, Jean-Rémi King과 동료들은 Brain2Qwerty를 만들었다. 스페인어를 쓰는 숙련 타자수 35명이 64개 센서의 EEG 캡을 쓰거나 306개 센서의 뇌자도 스캐너에 앉아 남긴 기록으로 학습한 딥러닝 시스템이다. MEG는 오류율 65퍼센트를 보인 EEG보다 나았고, Brain2Qwerty는 EEGNet의 MEG 오류율을 72에서 29퍼센트로 낮췄다."
-              },
-              {
-                "t": "p",
-                "x": "오류는 물리적으로 인접한 키에 몰리는 경향이 있어, 디코더가 손가락 운동 명령을 읽고 있음을 시사한다. UC Davis의 Sergey Stavisky는 “이 논문은 비침습 뇌 측정 기술로 사람이 무엇을 타이핑하는지 해독하는 정확도에서 새로운 최고 수준을 세웠다”고 말하면서도, “실용적인 소통 수단이 되기까지는 아직 갈 길이 멀다”고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "이 시스템은 아직 실시간으로 작동하지 못하고 키 입력 타임스탬프에 의존하며, 마비 환자를 대상으로는 시험하지 않았다. 연구 저자 일곱 명 중 다섯 명이 Meta 소속이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Meta、脳に埋め込まず\n入力した文を解読",
-          "body": "MEGスキャンと学習済みモデルで、手術なしに頭蓋の外から入力文を再構成した。",
-          "mini_headline": "埋め込みなしで脳から文字へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
-              },
-              {
-                "t": "p",
-                "x": "研究者らは、頭蓋の外で記録した脳活動をタイプされた文章に変換する人工知能システムを開発した。Nature Neuroscienceに掲載された研究によると、このモデルは脳磁気スキャンを用いて暗記した文章を平均文字誤り率29パーセントで解読し、最も成績の良い参加者では18パーセントに達した。"
-              },
-              {
-                "t": "p",
-                "x": "パリのMeta AIに所属するJarod Lévy、Stéphane d’Ascoli、Jean-Rémi Kingらは、Brain2Qwertyを構築した。スペイン語を話す熟練タイピスト35人が、64センサーのEEGキャップを装着するか、306センサーの脳磁図スキャナーに座って得た記録で学習した深層学習システムだ。MEGは誤り率65パーセントのEEGを上回り、Brain2QwertyはEEGNetのMEG誤り率を72から29パーセントに下げた。"
-              },
-              {
-                "t": "p",
-                "x": "誤りは物理的に隣接するキーに集中する傾向があり、デコーダーが指の運動指令を読み取っていることを示唆する。UC DavisのSergey Stavisky氏は「この論文は、非侵襲的な脳計測技術で人が何をタイプしているかを解読する精度において、新たな最高水準を打ち立てた」と述べつつ、「実用的なコミュニケーション手段になるにはまだ長い道のりがある」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "このシステムはまだリアルタイムでは動作せず、キー入力のタイムスタンプに依存しており、まひのある利用者では試されていない。研究の著者七人のうち五人はMetaに雇用されている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Meta无需脑植入\n即可解码打字句子",
-          "body": "借助MEG扫描与训练好的模型，研究者无需手术即从颅外重建了所打句子。",
-          "mini_headline": "无需植入，脑信号转文字",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
-              },
-              {
-                "t": "p",
-                "x": "科学家开发出一套人工智能系统，可将在颅骨外记录的脑活动转换为打出的句子。据发表于Nature Neuroscience的研究，该模型借助脑磁扫描解码背诵过的句子，平均字符错误率为百分之二十九，表现最好的参与者降至百分之十八。"
-              },
-              {
-                "t": "p",
-                "x": "巴黎Meta AI的Jarod Lévy、Stéphane d’Ascoli、Jean-Rémi King及其同事构建了Brain2Qwerty。这一深度学习系统的训练数据来自35名熟练的西班牙语打字员，他们佩戴64个传感器的EEG帽，或坐在306个传感器的脑磁图扫描仪中。MEG的表现优于错误率为65%的EEG，Brain2Qwerty还把EEGNet的MEG错误率从72%降至百分之二十九。"
-              },
-              {
-                "t": "p",
-                "x": "错误往往落在物理位置相邻的按键上，表明解码器读取的是手指运动指令。UC Davis的Sergey Stavisky说：“这篇论文在用非侵入式脑测量技术解码一个人正在打什么字方面，创下了新的最高准确率。”他补充说，这“距离成为实用的交流方式还有很长的路要走”。"
-              },
-              {
-                "t": "p",
-                "x": "该系统目前还无法实时运行，依赖按键时间戳，也尚未在瘫痪用户身上测试。研究的七位作者中有五位受雇于Meta。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Meta descifra frases tecleadas\nsin implante cerebral",
-          "body": "Escáneres de MEG y un modelo entrenado reconstruyeron frases tecleadas desde fuera del cráneo, sin cirugía.",
-          "mini_headline": "Del cerebro al texto, sin implante",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Un equipo de científicos ha desarrollado un sistema de inteligencia artificial que traduce en frases tecleadas la actividad cerebral registrada fuera del cráneo. Según el estudio publicado en Nature Neuroscience, el modelo decodificó frases memorizadas con una tasa media de error de caracteres del 29 por ciento mediante escáneres magnéticos del cerebro, y llegó al 18 por ciento en el participante con mejor rendimiento."
-              },
-              {
-                "t": "p",
-                "x": "Jarod Lévy, Stéphane d’Ascoli y Jean-Rémi King, de Meta AI en París, y sus colegas crearon Brain2Qwerty, un sistema de aprendizaje profundo entrenado con registros de 35 mecanógrafos expertos hispanohablantes que llevaban un gorro EEG de 64 sensores o se sentaban en un escáner de magnetoencefalografía de 306 sensores. La MEG superó a la EEG, cuya tasa de error fue del 65 por ciento, y Brain2Qwerty redujo la tasa de error de EEGNet con MEG del 72 al 29 por ciento."
-              },
-              {
-                "t": "p",
-                "x": "Los errores tendían a caer en teclas físicamente adyacentes, lo que sugiere que el decodificador lee órdenes motoras de los dedos. “Este artículo establece una nueva precisión de vanguardia para decodificar lo que una persona teclea mediante una tecnología no invasiva de medición cerebral”, dijo Sergey Stavisky, de UC Davis, quien añadió que “todavía está muy lejos de ser una forma práctica de comunicarse”."
-              },
-              {
-                "t": "p",
-                "x": "El sistema aún no funciona en tiempo real, depende de las marcas de tiempo de las pulsaciones y no se ha probado con usuarios paralizados. Cinco de los siete autores del estudio trabajan para Meta."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "jyvaskyla-metallene-ml-screen",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "머신러닝이 찾은 300+\n안정 박막금속 샌드위치",
-      "body": "Jyvaskyla 모델이 샌드위치 천여 개에서 안정 후보 300개 넘게 찾았다.",
-      "mini_headline": "ML이 찾은 안정 메탈렌",
-      "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-stabilizing-atomically-thin-metals-sandwich.html",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
-            "cap": "금속은 받침층이 없으면 덩어리로 뭉친다. TMDs, 그래핀, BN 사이에 끼우면 평평하고 안정적인 금속이 된다. Credit: Mohammad Bagheri"
-          },
-          {
-            "t": "p",
-            "x": "University of Jyväskylä 연구진이 머신러닝과 고성능 컴퓨팅으로 안정적인 메탈렌 샌드위치 구조 300개 이상을 찾아냈다. 메탈렌은 원소 금속 원자가 한 층 두께로 깔린 층인데, 홀로 두면 3D 덩어리로 뭉치기 쉽다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 제일원리 시뮬레이션 데이터로 머신러닝을 학습시켜, 금속 수십 종을 그래핀이나 전이금속 칼코게나이드 같은 흔한 2D 소재와 짝지은 샌드위치를 탐색했다. 박사후연구원 Mohammad Bagheri는 “머신러닝 덕분에 천 개가 넘는 이종구조를 살펴볼 수 있었다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "금속층을 가장 많이 안정화한 것은 셀레늄 기반 TMDs였다. 상온 시뮬레이션에서도 선별한 샌드위치는 형태와 금속성을 유지했다. Pekka Koskinen 교수는 “이 결과는 실험 연구자에게 실용적인 지도가 된다”고 말했다. 연구는 Nano Letters에 실렸다. 데이터셋은 공개됐고, 계산은 LUMI 슈퍼컴퓨터로 돌렸다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Machine learning finds 300+\nstable thin-metal sandwiches",
-          "body": "Jyvaskyla's models screened over a thousand metallene sandwiches and found more than 300 stable candidates.",
-          "mini_headline": "ML finds stable metallenes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
-                "cap": "Metals collapse into clusters without supporting layers; sandwiching them between TMDs, graphene or BN can yield flat, stable metals. Credit: Mohammad Bagheri"
-              },
-              {
-                "t": "p",
-                "x": "Researchers at the University of Jyväskylä used machine learning and high-performance computing to identify more than 300 stable metallene sandwich structures. Metallenes, one-atom-thick layers of elemental metals, tend to collapse into 3D clusters when freestanding."
-              },
-              {
-                "t": "p",
-                "x": "Machine learning trained on first-principles simulation data explored sandwiches combining dozens of metals with common 2D materials such as graphene and transition-metal dichalcogenides. \"Machine learning allowed us to examine more than a thousand heterostructures,\" said postdoctoral researcher Mohammad Bagheri."
-              },
-              {
-                "t": "p",
-                "x": "Selenium-based TMDs stabilized the largest number of metal layers, and room-temperature simulations confirmed selected sandwiches stay intact and metallic. \"The results give experimentalists a practical map,\" said professor Pekka Koskinen. The work appeared in Nano Letters; the dataset is public and calculations ran on the LUMI supercomputer."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "머신러닝이 찾은 300+\n안정 박막금속 샌드위치",
-          "body": "Jyvaskyla 모델이 샌드위치 천여 개에서 안정 후보 300개 넘게 찾았다.",
-          "mini_headline": "ML이 찾은 안정 메탈렌",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
-                "cap": "금속은 받침층이 없으면 덩어리로 뭉친다. TMDs, 그래핀, BN 사이에 끼우면 평평하고 안정적인 금속이 된다. Credit: Mohammad Bagheri"
-              },
-              {
-                "t": "p",
-                "x": "University of Jyväskylä 연구진이 머신러닝과 고성능 컴퓨팅으로 안정적인 메탈렌 샌드위치 구조 300개 이상을 찾아냈다. 메탈렌은 원소 금속 원자가 한 층 두께로 깔린 층인데, 홀로 두면 3D 덩어리로 뭉치기 쉽다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 제일원리 시뮬레이션 데이터로 머신러닝을 학습시켜, 금속 수십 종을 그래핀이나 전이금속 칼코게나이드 같은 흔한 2D 소재와 짝지은 샌드위치를 탐색했다. 박사후연구원 Mohammad Bagheri는 “머신러닝 덕분에 천 개가 넘는 이종구조를 살펴볼 수 있었다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "금속층을 가장 많이 안정화한 것은 셀레늄 기반 TMDs였다. 상온 시뮬레이션에서도 선별한 샌드위치는 형태와 금속성을 유지했다. Pekka Koskinen 교수는 “이 결과는 실험 연구자에게 실용적인 지도가 된다”고 말했다. 연구는 Nano Letters에 실렸다. 데이터셋은 공개됐고, 계산은 LUMI 슈퍼컴퓨터로 돌렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "機械学習が見つけた300+\n安定な薄層金属サンドイッチ",
-          "body": "Jyvaskylaのモデルは千を超えるメタレン積層を調べ、300超の安定候補を得た。",
-          "mini_headline": "MLが安定メタレンを発見",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
-                "cap": "金属は支える層がないとクラスターに崩れるが、TMDs、グラフェン、BNで挟むと平らで安定した金属が得られる。Credit: Mohammad Bagheri"
-              },
-              {
-                "t": "p",
-                "x": "University of Jyväskyläの研究者らは、機械学習と高性能計算を用いて、300を超える安定なメタレン・サンドイッチ構造を特定した。メタレンは元素金属が原子一層の厚さで並んだ層で、単独では3D クラスターに崩れやすい。"
-              },
-              {
-                "t": "p",
-                "x": "第一原理シミュレーションのデータで学習した機械学習により、数十種類の金属とグラフェンや遷移金属ダイカルコゲナイドなど一般的な2D 材料を組み合わせたサンドイッチを探索した。ポスドク研究員のMohammad Bagheri氏は「機械学習のおかげで千を超えるヘテロ構造を調べることができた」と語る。"
-              },
-              {
-                "t": "p",
-                "x": "セレン系のTMDsが最も多くの金属層を安定化し、室温シミュレーションでは選ばれたサンドイッチが崩れずに金属性を保つことが確かめられた。Pekka Koskinen教授は「この結果は実験研究者に実用的な地図を与える」と述べた。成果はNano Lettersに掲載され、データセットは公開されている。計算はLUMIスーパーコンピューターで行われた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "机器学习找到300+种\n稳定的薄层金属夹层",
-          "body": "Jyvaskyla的模型筛选了一千多种金属烯夹层，找到300多个稳定候选。",
-          "mini_headline": "ML找到稳定金属烯",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
-                "cap": "没有支撑层时，金属会坍缩成团簇；将其夹在TMDs、石墨烯或BN之间，可得到平整、稳定的金属。Credit: Mohammad Bagheri"
-              },
-              {
-                "t": "p",
-                "x": "University of Jyväskylä的研究人员利用机器学习和高性能计算，识别出300多种稳定的金属烯夹层结构。金属烯是由单质金属构成、仅一个原子厚的层，独立存在时容易坍缩成3D 团簇。"
-              },
-              {
-                "t": "p",
-                "x": "基于第一性原理模拟数据训练的机器学习，探索了数十种金属与石墨烯、过渡金属二硫族化合物等常见2D 材料组合而成的夹层结构。博士后研究员Mohammad Bagheri表示：“机器学习让我们得以考察一千多种异质结构。”"
-              },
-              {
-                "t": "p",
-                "x": "硒基TMDs稳定的金属层数量最多，室温模拟证实部分选定的夹层结构保持完整并具有金属性。Pekka Koskinen教授表示：“这些结果为实验人员提供了一张实用的地图。”该研究发表于Nano Letters；数据集已公开，计算在LUMI超级计算机上完成。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Aprendizaje automático halla\n300+ capas metálicas estables",
-          "body": "Los modelos de Jyvaskyla analizaron más de mil sándwiches de metaleno y hallaron más de 300 candidatos estables.",
-          "mini_headline": "El ML halla metalenos estables",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
-                "cap": "Sin capas de soporte, los metales colapsan en cúmulos; intercalarlos entre TMDs, grafeno o BN puede dar metales planos y estables. Credit: Mohammad Bagheri"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de la University of Jyväskylä usaron aprendizaje automático y computación de alto rendimiento para identificar más de 300 estructuras estables de sándwich de metaleno. Los metalenos, capas de metales elementales de un átomo de grosor, tienden a colapsar en cúmulos 3D cuando están aislados."
-              },
-              {
-                "t": "p",
-                "x": "El aprendizaje automático, entrenado con datos de simulaciones de primeros principios, exploró sándwiches que combinan decenas de metales con materiales 2D comunes como el grafeno y los dicalcogenuros de metales de transición. “El aprendizaje automático nos permitió examinar más de mil heteroestructuras”, dijo el investigador posdoctoral Mohammad Bagheri."
-              },
-              {
-                "t": "p",
-                "x": "Los TMDs basados en selenio estabilizaron el mayor número de capas metálicas, y simulaciones a temperatura ambiente confirmaron que algunos sándwiches seleccionados se mantienen intactos y metálicos. “Los resultados ofrecen a los experimentadores un mapa práctico”, dijo el profesor Pekka Koskinen. El trabajo se publicó en Nano Letters; el conjunto de datos es público y los cálculos se realizaron en el supercomputador LUMI."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "머신러닝이 찾은 300+\n안정 박막금속 샌드위치",
-          "body": "Jyvaskyla 모델이 천여 샌드위치에서 300개 넘는 안정 후보를 찾았다.",
-          "mini_headline": "ML이 찾은 안정 메탈렌",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
-                "cap": "금속은 받침층이 없으면 덩어리로 뭉친다. TMDs, 그래핀, BN 사이에 끼우면 평평하고 안정적인 금속을 얻을 수 있다. Credit: Mohammad Bagheri"
-              },
-              {
-                "t": "p",
-                "x": "University of Jyväskylä 연구진이 머신러닝과 고성능 컴퓨팅으로 안정적인 메탈렌 샌드위치 구조 300개 이상을 찾아냈다. 메탈렌은 원소 금속이 원자 한 층 두께로 이룬 층으로, 홀로 서 있으면 3D 덩어리로 뭉치는 경향이 있다."
-              },
-              {
-                "t": "p",
-                "x": "제일원리 시뮬레이션 데이터로 학습한 머신러닝은 수십 종의 금속을 그래핀, 전이금속 칼코게나이드 같은 흔한 2D 소재와 조합한 샌드위치를 탐색했다. 박사후연구원 Mohammad Bagheri는 “머신러닝 덕분에 천 개가 넘는 이종구조를 살펴볼 수 있었다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "셀레늄 기반 TMDs가 가장 많은 금속층을 안정화했고, 상온 시뮬레이션에서 선별한 샌드위치가 형태와 금속성을 유지한다는 점도 확인했다. Pekka Koskinen 교수는 “이 결과는 실험 연구자에게 실용적인 지도가 된다”고 말했다. 연구는 Nano Letters에 실렸고, 데이터셋은 공개돼 있으며 계산은 LUMI 슈퍼컴퓨터에서 수행했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "機械学習が見つけた300+\n安定な薄層金属サンドイッチ",
-          "body": "Jyvaskylaのモデルは千を超えるメタレン積層を調べ、300超の安定候補を得た。",
-          "mini_headline": "MLが安定メタレンを発見",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
-                "cap": "金属は支える層がないとクラスターに崩れるが、TMDs、グラフェン、BNで挟むと平らで安定した金属が得られる。Credit: Mohammad Bagheri"
-              },
-              {
-                "t": "p",
-                "x": "University of Jyväskyläの研究者らは、機械学習と高性能計算を用いて、300を超える安定なメタレン・サンドイッチ構造を特定した。メタレンは元素金属が原子一層の厚さで並んだ層で、単独では3D クラスターに崩れやすい。"
-              },
-              {
-                "t": "p",
-                "x": "第一原理シミュレーションのデータで学習した機械学習により、数十種類の金属とグラフェンや遷移金属ダイカルコゲナイドなど一般的な2D 材料を組み合わせたサンドイッチを探索した。ポスドク研究員のMohammad Bagheri氏は「機械学習のおかげで千を超えるヘテロ構造を調べることができた」と語る。"
-              },
-              {
-                "t": "p",
-                "x": "セレン系のTMDsが最も多くの金属層を安定化し、室温シミュレーションでは選ばれたサンドイッチが崩れずに金属性を保つことが確かめられた。Pekka Koskinen教授は「この結果は実験研究者に実用的な地図を与える」と述べた。成果はNano Lettersに掲載され、データセットは公開されている。計算はLUMIスーパーコンピューターで行われた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "机器学习找到300+种\n稳定的薄层金属夹层",
-          "body": "Jyvaskyla的模型筛选了一千多种金属烯夹层，找到300多个稳定候选。",
-          "mini_headline": "ML找到稳定金属烯",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
-                "cap": "没有支撑层时，金属会坍缩成团簇；将其夹在TMDs、石墨烯或BN之间，可得到平整、稳定的金属。Credit: Mohammad Bagheri"
-              },
-              {
-                "t": "p",
-                "x": "University of Jyväskylä的研究人员利用机器学习和高性能计算，识别出300多种稳定的金属烯夹层结构。金属烯是由单质金属构成、仅一个原子厚的层，独立存在时容易坍缩成3D 团簇。"
-              },
-              {
-                "t": "p",
-                "x": "基于第一性原理模拟数据训练的机器学习，探索了数十种金属与石墨烯、过渡金属二硫族化合物等常见2D 材料组合而成的夹层结构。博士后研究员Mohammad Bagheri表示：“机器学习让我们得以考察一千多种异质结构。”"
-              },
-              {
-                "t": "p",
-                "x": "硒基TMDs稳定的金属层数量最多，室温模拟证实部分选定的夹层结构保持完整并具有金属性。Pekka Koskinen教授表示：“这些结果为实验人员提供了一张实用的地图。”该研究发表于Nano Letters；数据集已公开，计算在LUMI超级计算机上完成。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Aprendizaje automático halla\n300+ capas metálicas estables",
-          "body": "Los modelos de Jyvaskyla analizaron más de mil sándwiches de metaleno y hallaron más de 300 candidatos estables.",
-          "mini_headline": "El ML halla metalenos estables",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
-                "cap": "Sin capas de soporte, los metales colapsan en cúmulos; intercalarlos entre TMDs, grafeno o BN puede dar metales planos y estables. Credit: Mohammad Bagheri"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de la University of Jyväskylä usaron aprendizaje automático y computación de alto rendimiento para identificar más de 300 estructuras estables de sándwich de metaleno. Los metalenos, capas de metales elementales de un átomo de grosor, tienden a colapsar en cúmulos 3D cuando están aislados."
-              },
-              {
-                "t": "p",
-                "x": "El aprendizaje automático, entrenado con datos de simulaciones de primeros principios, exploró sándwiches que combinan decenas de metales con materiales 2D comunes como el grafeno y los dicalcogenuros de metales de transición. “El aprendizaje automático nos permitió examinar más de mil heteroestructuras”, dijo el investigador posdoctoral Mohammad Bagheri."
-              },
-              {
-                "t": "p",
-                "x": "Los TMDs basados en selenio estabilizaron el mayor número de capas metálicas, y simulaciones a temperatura ambiente confirmaron que algunos sándwiches seleccionados se mantienen intactos y metálicos. “Los resultados ofrecen a los experimentadores un mapa práctico”, dijo el profesor Pekka Koskinen. El trabajo se publicó en Nano Letters; el conjunto de datos es público y los cálculos se realizaron en el supercomputador LUMI."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "nhb-eight-ai-impacts-review",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 영향을 둘러싼\n여덟 가지 주장 검증",
-      "body": "Nature Human Behaviour 리뷰는 AI 우려의 근거가 약하다고 봤다.",
-      "mini_headline": "AI를 둘러싼 우려 여덟 가지를 따지다",
-      "tool": "Science",
-      "source": "Nature Human Behaviour",
-      "url": "https://www.nature.com/articles/s41562-026-02615-0",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
-          },
-          {
-            "t": "p",
-            "x": "인공지능(AI) 시스템을 쓰는 사람은 이제 전 세계 십억 명에 이른다. 이들에게 AI는 어떤 영향을 줄까? 널리 퍼진 우려는 AI가 우리 인지 능력을 떨어뜨리고 정보 생태계를 오염시키며, 인간관계를 좀먹고 정신 건강을 해치고, 사람을 설득·조작·정서적 의존·사회공학에 취약하게 만들 수 있다는 것이다."
-          },
-          {
-            "t": "p",
-            "x": "최근 연구들은 모델 평가, 사용자 연구, 소비자 채팅 로그 분석, 에이전트 기반 시뮬레이션으로 AI가 사람에게 주는 영향을 살피기 시작했다. 리뷰는 이 증거를 검토한 뒤 가장 강한 우려를 뒷받침할 증거는 제한적이라고 결론지었다. 연구가 아직 초기 단계라 풀어야 할 불확실성도 많이 남았다."
-          },
-          {
-            "t": "p",
-            "x": "Christopher Summerfield와 동료들이 쓴 이 리뷰(Review)는 AI가 사람에게 끼치는 영향을 두고 제기된 시급한 우려 여덟 가지의 증거를 평가한다. 가장 걱정스러운 주장일수록 근거가 크지 않다고 보면서도, AI가 인간에게 주는 영향을 더 깊이 살펴봐야 한다고 촉구한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Review tests eight claims\nabout how AI affects people",
-          "body": "A Nature Human Behaviour review finds only modest support for the most alarming claims about AI's effects on people.",
-          "mini_headline": "Eight AI fears, tested",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
-              },
-              {
-                "t": "p",
-                "x": "Artificial intelligence (AI) systems are now used by one billion people worldwide. What is their impact on human users? Popular narratives of concern argue that AI may be undermining our cognitive abilities, polluting our information ecosystem, corroding human relationships, damaging our mental health and rendering us vulnerable to persuasion, manipulation, emotional dependence and social engineering."
-              },
-              {
-                "t": "p",
-                "x": "Emerging research has begun to study the impact that AI has on people, via model evaluations, user studies, analysis of consumer chatlogs and agent-based simulations. Here we review this evidence, finding limited evidence for the strongest narratives of concern. However, research is still nascent and many uncertainties remain to be resolved in future work."
-              },
-              {
-                "t": "p",
-                "x": "This Review, by Christopher Summerfield and colleagues, evaluates evidence for eight pressing concerns about how AI is affecting people. It finds modest support for the most alarming claims but calls for deeper scrutiny of the human impact of AI."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 영향을 둘러싼\n여덟 가지 주장 검증",
-          "body": "Nature Human Behaviour 리뷰는 AI 우려의 근거가 약하다고 봤다.",
-          "mini_headline": "AI를 둘러싼 우려 여덟 가지를 따지다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
-              },
-              {
-                "t": "p",
-                "x": "인공지능(AI) 시스템을 쓰는 사람은 이제 전 세계 십억 명에 이른다. 이들에게 AI는 어떤 영향을 줄까? 널리 퍼진 우려는 AI가 우리 인지 능력을 떨어뜨리고 정보 생태계를 오염시키며, 인간관계를 좀먹고 정신 건강을 해치고, 사람을 설득·조작·정서적 의존·사회공학에 취약하게 만들 수 있다는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "최근 연구들은 모델 평가, 사용자 연구, 소비자 채팅 로그 분석, 에이전트 기반 시뮬레이션으로 AI가 사람에게 주는 영향을 살피기 시작했다. 리뷰는 이 증거를 검토한 뒤 가장 강한 우려를 뒷받침할 증거는 제한적이라고 결론지었다. 연구가 아직 초기 단계라 풀어야 할 불확실성도 많이 남았다."
-              },
-              {
-                "t": "p",
-                "x": "Christopher Summerfield와 동료들이 쓴 이 리뷰(Review)는 AI가 사람에게 끼치는 영향을 두고 제기된 시급한 우려 여덟 가지의 증거를 평가한다. 가장 걱정스러운 주장일수록 근거가 크지 않다고 보면서도, AI가 인간에게 주는 영향을 더 깊이 살펴봐야 한다고 촉구한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIが人に与える影響\n八つの主張を検証",
-          "body": "Nature Human Behaviourの総説はAIへの深刻な懸念の根拠は弱いとした。",
-          "mini_headline": "AIをめぐる八つの懸念を検証",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
-              },
-              {
-                "t": "p",
-                "x": "人工知能(AI)システムは今や世界で十億人に使われている。人間の利用者にどんな影響を与えているのか。広く流布する懸念の語りは、AIが私たちの認知能力を損ない、情報生態系を汚染し、人間関係をむしばみ、心の健康を害し、説得や操作、感情的依存、ソーシャルエンジニアリングに対して私たちを脆弱にしている可能性があると主張する。"
-              },
-              {
-                "t": "p",
-                "x": "新たな研究は、モデル評価、ユーザー研究、消費者のチャットログ分析、エージェントベースのシミュレーションを通じて、AIが人に与える影響を調べ始めている。本総説はこうした証拠を検討し、最も強い懸念の語りを支持する証拠は限られていると結論づけた。ただし研究はまだ始まったばかりで、今後の研究で解決すべき不確実性が多く残る。"
-              },
-              {
-                "t": "p",
-                "x": "Christopher Summerfieldらによるこの総説(Review)は、AIが人に与える影響をめぐる八つの差し迫った懸念について証拠を評価した。最も警戒すべき主張への支持は控えめだとしつつ、AIが人間に与える影響をより深く検証するよう求めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI如何影响人？\n综述检验八种说法",
-          "body": "Nature Human Behaviour综述发现，AI影响最惊人的说法仅获有限支持。",
-          "mini_headline": "检验八种AI担忧",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
-              },
-              {
-                "t": "p",
-                "x": "人工智能（AI）系统如今在全球拥有十亿用户。它们对人类用户有何影响？流行的担忧叙事认为，AI可能正在削弱我们的认知能力、污染信息生态、侵蚀人际关系、损害心理健康，并使我们更容易受到说服、操纵、情感依赖和社会工程的影响。"
-              },
-              {
-                "t": "p",
-                "x": "新兴研究已开始通过模型评估、用户研究、消费者聊天记录分析和基于智能体的模拟，考察AI对人的影响。本文综述了这些证据，发现支持最强烈担忧叙事的证据有限。不过，相关研究仍处于起步阶段，许多不确定性有待未来研究解决。"
-              },
-              {
-                "t": "p",
-                "x": "这篇由Christopher Summerfield及其同事撰写的综述（Review）评估了关于AI如何影响人的八项紧迫担忧的证据。综述发现，最令人警惕的说法仅获得有限支持，但呼吁更深入地审视AI对人类的影响。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Una revisión examina ocho ideas\nsobre cómo nos afecta la AI",
-          "body": "Una revisión en Nature Human Behaviour halla un apoyo modesto a las tesis más alarmantes sobre los efectos de la AI.",
-          "mini_headline": "Ocho temores sobre la AI, a prueba",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
-              },
-              {
-                "t": "p",
-                "x": "Los sistemas de inteligencia artificial (AI) ya los usan mil millones de personas en todo el mundo. ¿Qué impacto tienen en sus usuarios? Las narrativas de preocupación más difundidas sostienen que la AI podría estar minando nuestras capacidades cognitivas, contaminando nuestro ecosistema informativo, corroyendo las relaciones humanas, dañando nuestra salud mental y volviéndonos vulnerables a la persuasión, la manipulación, la dependencia emocional y la ingeniería social."
-              },
-              {
-                "t": "p",
-                "x": "Una investigación emergente ha empezado a estudiar el impacto de la AI en las personas mediante evaluaciones de modelos, estudios con usuarios, análisis de registros de chat de consumidores y simulaciones basadas en agentes. Aquí revisamos esa evidencia y encontramos pruebas limitadas para las narrativas de preocupación más fuertes. Sin embargo, la investigación aún es incipiente y quedan muchas incertidumbres por resolver en trabajos futuros."
-              },
-              {
-                "t": "p",
-                "x": "Esta revisión (Review), de Christopher Summerfield y sus colegas, evalúa la evidencia sobre ocho preocupaciones urgentes acerca de cómo la AI está afectando a las personas. Encuentra un apoyo modesto para las afirmaciones más alarmantes, pero pide examinar más a fondo el impacto humano de la AI."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 영향을 둘러싼\n여덟 가지 주장 검증",
-          "body": "Nature Human Behaviour 리뷰는 AI 우려의 근거가 약하다고 봤다.",
-          "mini_headline": "AI를 둘러싼 여덟 가지 우려, 검증",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
-              },
-              {
-                "t": "p",
-                "x": "인공지능(AI) 시스템은 이제 전 세계 십억 명이 사용한다. 인간 사용자에게는 어떤 영향을 미칠까? 널리 퍼진 우려의 서사는 AI가 우리의 인지 능력을 약화하고, 정보 생태계를 오염시키고, 인간관계를 좀먹고, 정신 건강을 해치며, 설득·조작·정서적 의존·사회공학에 취약하게 만들 수 있다고 주장한다."
-              },
-              {
-                "t": "p",
-                "x": "새로운 연구들은 모델 평가, 사용자 연구, 소비자 채팅 로그 분석, 에이전트 기반 시뮬레이션으로 AI가 사람에게 미치는 영향을 살피기 시작했다. 이 리뷰는 그 증거를 검토한 끝에 가장 강한 우려의 서사를 뒷받침하는 증거는 제한적이라고 결론지었다. 다만 연구는 아직 초기 단계이며, 앞으로 풀어야 할 불확실성이 많이 남아 있다."
-              },
-              {
-                "t": "p",
-                "x": "Christopher Summerfield와 동료들이 쓴 이 리뷰(Review)는 AI가 사람에게 미치는 영향에 관한 여덟 가지 시급한 우려의 증거를 평가한다. 가장 우려스러운 주장에 대한 근거는 크지 않다고 보면서도, AI가 인간에게 미치는 영향을 더 깊이 살펴봐야 한다고 촉구한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIが人に与える影響\n八つの主張を検証",
-          "body": "Nature Human Behaviourの総説はAIへの深刻な懸念の根拠は弱いとした。",
-          "mini_headline": "AIをめぐる八つの懸念を検証",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
-              },
-              {
-                "t": "p",
-                "x": "人工知能(AI)システムは今や世界で十億人に使われている。人間の利用者にどんな影響を与えているのか。広く流布する懸念の語りは、AIが私たちの認知能力を損ない、情報生態系を汚染し、人間関係をむしばみ、心の健康を害し、説得や操作、感情的依存、ソーシャルエンジニアリングに対して私たちを脆弱にしている可能性があると主張する。"
-              },
-              {
-                "t": "p",
-                "x": "新たな研究は、モデル評価、ユーザー研究、消費者のチャットログ分析、エージェントベースのシミュレーションを通じて、AIが人に与える影響を調べ始めている。本総説はこうした証拠を検討し、最も強い懸念の語りを支持する証拠は限られていると結論づけた。ただし研究はまだ始まったばかりで、今後の研究で解決すべき不確実性が多く残る。"
-              },
-              {
-                "t": "p",
-                "x": "Christopher Summerfieldらによるこの総説(Review)は、AIが人に与える影響をめぐる八つの差し迫った懸念について証拠を評価した。最も警戒すべき主張への支持は控えめだとしつつ、AIが人間に与える影響をより深く検証するよう求めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI如何影响人？\n综述检验八种说法",
-          "body": "Nature Human Behaviour综述发现，AI影响最惊人的说法仅获有限支持。",
-          "mini_headline": "检验八种AI担忧",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
-              },
-              {
-                "t": "p",
-                "x": "人工智能（AI）系统如今在全球拥有十亿用户。它们对人类用户有何影响？流行的担忧叙事认为，AI可能正在削弱我们的认知能力、污染信息生态、侵蚀人际关系、损害心理健康，并使我们更容易受到说服、操纵、情感依赖和社会工程的影响。"
-              },
-              {
-                "t": "p",
-                "x": "新兴研究已开始通过模型评估、用户研究、消费者聊天记录分析和基于智能体的模拟，考察AI对人的影响。本文综述了这些证据，发现支持最强烈担忧叙事的证据有限。不过，相关研究仍处于起步阶段，许多不确定性有待未来研究解决。"
-              },
-              {
-                "t": "p",
-                "x": "这篇由Christopher Summerfield及其同事撰写的综述（Review）评估了关于AI如何影响人的八项紧迫担忧的证据。综述发现，最令人警惕的说法仅获得有限支持，但呼吁更深入地审视AI对人类的影响。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Una revisión examina ocho ideas\nsobre cómo nos afecta la AI",
-          "body": "Una revisión en Nature Human Behaviour halla un apoyo modesto a las tesis más alarmantes sobre los efectos de la AI.",
-          "mini_headline": "Ocho temores sobre la AI, a prueba",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png"
-              },
-              {
-                "t": "p",
-                "x": "Los sistemas de inteligencia artificial (AI) ya los usan mil millones de personas en todo el mundo. ¿Qué impacto tienen en sus usuarios? Las narrativas de preocupación más difundidas sostienen que la AI podría estar minando nuestras capacidades cognitivas, contaminando nuestro ecosistema informativo, corroyendo las relaciones humanas, dañando nuestra salud mental y volviéndonos vulnerables a la persuasión, la manipulación, la dependencia emocional y la ingeniería social."
-              },
-              {
-                "t": "p",
-                "x": "Una investigación emergente ha empezado a estudiar el impacto de la AI en las personas mediante evaluaciones de modelos, estudios con usuarios, análisis de registros de chat de consumidores y simulaciones basadas en agentes. Aquí revisamos esa evidencia y encontramos pruebas limitadas para las narrativas de preocupación más fuertes. Sin embargo, la investigación aún es incipiente y quedan muchas incertidumbres por resolver en trabajos futuros."
-              },
-              {
-                "t": "p",
-                "x": "Esta revisión (Review), de Christopher Summerfield y sus colegas, evalúa la evidencia sobre ocho preocupaciones urgentes acerca de cómo la AI está afectando a las personas. Encuentra un apoyo modesto para las afirmaciones más alarmantes, pero pide examinar más a fondo el impacto humano de la AI."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "psypost-humour-dark-traits-ml",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "웃긴 그림 반응이\n사이코패시·가학성 드러낸다",
-      "body": "모델은 밈 평가로 사이코패시·가학성·자기애는 잡았지만 마키아벨리즘은 놓쳤다.",
-      "mini_headline": "유머가 드러내는 어두운 특성",
-      "tool": "Science",
-      "source": "PsyPost",
-      "url": "https://www.psypost.org/machine-learning-models-can-detect-elevated-psychopathy-and-sadism-from-reactions-to-funny-pictures/",
+      "source": "The Quantum Insider",
+      "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -1307,155 +19,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
-            "cap": "[Adobe Stock]"
+            "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
           },
           {
             "t": "p",
-            "x": "Journal of Individual Differences에 실린 연구에서, 사람들이 시각적 농담을 얼마나 웃기고 잔인하게 느끼는지 분석한 머신러닝 모델은 높은 수준의 사이코패시와 일상적 가학성을 가려냈다. 나르시시즘은 그보다 덜한 정도로 식별했고, 마키아벨리즘(Machiavellianism)은 식별하지 못했다."
+            "x": "Stanford의 한 물리학자가 빛의 경로를 이용해, 무한대로 발산하기 쉬운 계산에서 유한한 답을 끌어내는 양자중력 이론을 내놓았다. 접근법이 맞는다면 양자역학과 Einstein의 일반상대성이론을 잇는 실마리가 될 수 있다. 블랙홀 엔트로피의 이미 알려진 양자 보정도 재현한다."
           },
           {
             "t": "p",
-            "x": "상트페테르부르크 HSE University의 Liubov Glinkina와 동료들은 러시아어 사용자 200명에게 밈, 코믹스, 카툰 71개를 재미, 친절함, 대상 기준으로 평가하게 한 뒤 분류기 여섯 개를 비교했다. 가장 안정적으로 잡힌 것은 사이코패시로 정확도가 0.82 가까이 올라갔다. 가학성은 최고 0.70을 넘었고 나르시시즘은 0.66이었으며, 마키아벨리즘은 우연 수준인 0.50 근처에 머물렀다."
+            "x": "Venkatesa Chandrasekaran은 arXiv에 올린 프리프린트에서 중력자 두 개가 생겼다 사라질 때 벌어지는 일을 계산했다. 파장이 임의로 짧은 파동까지 넣어도 답은 유한했다. 같은 계산에 근사를 쓰면 무한대가 나왔다."
           },
           {
             "t": "p",
-            "x": "성능은 랜덤 포레스트와 그래디언트 부스팅이 가장 좋았고, 색상이나 텍스트 배치 같은 이미지 특징을 넣어도 정확도는 오르지 않았다. Glinkina는 “이것은 집단 수준의 통계적 신호이지 독심술이 아니다. 개인을 진단할 수는 없다”며, 이것이 “거짓말 탐지기도, 선별 도구도, 채용에 쓸 만한 무엇도 아니다”라고 덧붙였다."
+            "x": "Chandrasekaran은 논문 감사의 글에서 OpenAI 모델 GPT-6 Astra와 몇 달간 주고받은 작업으로 논문의 계산과 증명 여럿을 발전시켰다고 밝혔다. 사용량은 모두 약 4억 토큰이었고 컴퓨팅 자원은 OpenAI가 댔다고 한다."
+          },
+          {
+            "t": "p",
+            "x": "계산의 틀은 인과 다이아몬드, 곧 빛이 지날 수 있는 경로로 둘러싸인 영역이다. 이런 영역이 최대 크기일 때 구별 가능한 양자 상태를 유한한 개수만 담을 수 있다는 결과가 나왔다. 큰 블랙홀에서는 Bekenstein-Hawking 엔트로피와 함께 Ashoke Sen의 이전 계산과 맞아떨어지는 보정을 재현한다."
+          },
+          {
+            "t": "p",
+            "x": "이론 연구라 실험 검증은 없고, 동료 심사도 거치지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Reactions to funny pictures\nreveal psychopathy and sadism",
-          "body": "Models trained on cartoon and meme ratings detected psychopathy, sadism and narcissism, but not Machiavellianism.",
-          "mini_headline": "Humour reveals dark traits",
+          "headline": "GPT-6 Astra helps a physicist\nchase quantum gravity",
+          "body": "Venkatesa Chandrasekaran says GPT-6 Astra helped with calculations and proofs in a new quantum gravity preprint.",
+          "mini_headline": "AI helps chase quantum gravity",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
               },
               {
                 "t": "p",
-                "x": "A study in the Journal of Individual Differences indicates that machine-learning models analyzing how funny and cruel people find visual jokes can identify elevated levels of psychopathy and everyday sadism, and to a lesser degree narcissism, though not Machiavellianism."
+                "x": "A Stanford physicist has proposed a quantum theory of gravity that uses the paths of light to get a finite answer for a calculation that can otherwise run to infinity. If the approach holds up, it could help reconcile quantum mechanics with Einstein's general relativity. The study also reproduces a known quantum correction to the entropy of a black hole."
               },
               {
                 "t": "p",
-                "x": "Liubov Glinkina of HSE University in Saint Petersburg and colleagues had 200 Russian speakers rate 71 memes, comics and cartoons on funniness, kindness and target, then compared six classifiers. Psychopathy was detected most reliably, reaching nearly 0.82 accuracy; sadism peaked above 0.70, narcissism at 0.66, and Machiavellianism hovered near the 0.50 chance mark."
+                "x": "In a preprint posted on arXiv, Venkatesa Chandrasekaran calculated what happens when two gravitons are created and then disappear. The calculation gave a finite answer even after accounting for waves of arbitrarily short wavelength; an approximation applied to the same calculation produced an infinity."
               },
               {
                 "t": "p",
-                "x": "Random forest and gradient boosting performed best, and image features such as color and text layout did not improve accuracy. “This is a group-level statistical signal, not mind-reading: it cannot diagnose an individual,” Glinkina said, adding that it is “not a lie detector, a screening tool, or anything suitable for hiring.”"
+                "x": "Chandrasekaran said in the paper's acknowledgments that he developed several of its calculations and proofs through months of back-and-forth work with GPT-6 Astra, an OpenAI model. He put the total at about 400 million tokens and said OpenAI provided the computing resources."
+              },
+              {
+                "t": "p",
+                "x": "The proposal uses causal diamonds, regions bounded by paths light could take, to set up the calculations. It finds such a region with a maximum size can hold only a finite number of distinguishable quantum states, and for a large black hole it recovers the Bekenstein-Hawking entropy plus a correction matching an earlier calculation by Ashoke Sen."
+              },
+              {
+                "t": "p",
+                "x": "The paper is theoretical, presents no experimental test, and has not been peer reviewed."
               }
             ]
           }
         },
         "ko": {
-          "headline": "웃긴 그림 반응이\n사이코패시·가학성 드러낸다",
-          "body": "모델은 밈 평가로 사이코패시·가학성·자기애는 잡았지만 마키아벨리즘은 놓쳤다.",
-          "mini_headline": "유머가 드러내는 어두운 특성",
+          "headline": "GPT-6 Astra와\n양자중력 쫓는 물리학자",
+          "body": "Venkatesa Chandrasekaran은 GPT-6 Astra와 계산했다.",
+          "mini_headline": "AI가 돕는 양자중력 탐구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
               },
               {
                 "t": "p",
-                "x": "Journal of Individual Differences에 실린 연구에서, 사람들이 시각적 농담을 얼마나 웃기고 잔인하게 느끼는지 분석한 머신러닝 모델은 높은 수준의 사이코패시와 일상적 가학성을 가려냈다. 나르시시즘은 그보다 덜한 정도로 식별했고, 마키아벨리즘(Machiavellianism)은 식별하지 못했다."
+                "x": "Stanford의 한 물리학자가 빛의 경로를 이용해, 무한대로 발산하기 쉬운 계산에서 유한한 답을 끌어내는 양자중력 이론을 내놓았다. 접근법이 맞는다면 양자역학과 Einstein의 일반상대성이론을 잇는 실마리가 될 수 있다. 블랙홀 엔트로피의 이미 알려진 양자 보정도 재현한다."
               },
               {
                 "t": "p",
-                "x": "상트페테르부르크 HSE University의 Liubov Glinkina와 동료들은 러시아어 사용자 200명에게 밈, 코믹스, 카툰 71개를 재미, 친절함, 대상 기준으로 평가하게 한 뒤 분류기 여섯 개를 비교했다. 가장 안정적으로 잡힌 것은 사이코패시로 정확도가 0.82 가까이 올라갔다. 가학성은 최고 0.70을 넘었고 나르시시즘은 0.66이었으며, 마키아벨리즘은 우연 수준인 0.50 근처에 머물렀다."
+                "x": "Venkatesa Chandrasekaran은 arXiv에 올린 프리프린트에서 중력자 두 개가 생겼다 사라질 때 벌어지는 일을 계산했다. 파장이 임의로 짧은 파동까지 넣어도 답은 유한했다. 같은 계산에 근사를 쓰면 무한대가 나왔다."
               },
               {
                 "t": "p",
-                "x": "성능은 랜덤 포레스트와 그래디언트 부스팅이 가장 좋았고, 색상이나 텍스트 배치 같은 이미지 특징을 넣어도 정확도는 오르지 않았다. Glinkina는 “이것은 집단 수준의 통계적 신호이지 독심술이 아니다. 개인을 진단할 수는 없다”며, 이것이 “거짓말 탐지기도, 선별 도구도, 채용에 쓸 만한 무엇도 아니다”라고 덧붙였다."
+                "x": "Chandrasekaran은 논문 감사의 글에서 OpenAI 모델 GPT-6 Astra와 몇 달간 주고받은 작업으로 논문의 계산과 증명 여럿을 발전시켰다고 밝혔다. 사용량은 모두 약 4억 토큰이었고 컴퓨팅 자원은 OpenAI가 댔다고 한다."
+              },
+              {
+                "t": "p",
+                "x": "계산의 틀은 인과 다이아몬드, 곧 빛이 지날 수 있는 경로로 둘러싸인 영역이다. 이런 영역이 최대 크기일 때 구별 가능한 양자 상태를 유한한 개수만 담을 수 있다는 결과가 나왔다. 큰 블랙홀에서는 Bekenstein-Hawking 엔트로피와 함께 Ashoke Sen의 이전 계산과 맞아떨어지는 보정을 재현한다."
+              },
+              {
+                "t": "p",
+                "x": "이론 연구라 실험 검증은 없고, 동료 심사도 거치지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "面白い画像への反応が\nサイコパシーと加虐性を映す",
-          "body": "ミーム評価の学習モデルは精神病質・加虐性・自己愛を捉え、マキャベリズムは捉えなかった。",
-          "mini_headline": "ユーモアが暗い特性を映す",
+          "headline": "GPT-6 Astraが\n物理学者の量子重力研究を支援",
+          "body": "Venkatesa ChandrasekaranはGPT-6 Astraと計算を進めた。",
+          "mini_headline": "AIが量子重力の探究を支援",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
               },
               {
                 "t": "p",
-                "x": "Journal of Individual Differencesに掲載された研究によると、人々が視覚的なジョークをどれほど面白く、また残酷だと感じるかを分析する機械学習モデルは、サイコパシーと日常的サディズムの高さを、また程度は下がるもののナルシシズムを識別できたが、マキャベリズム(Machiavellianism)は識別できなかった。"
+                "x": "Stanfordの物理学者が、光の経路を使うことで、本来なら無限大に発散しうる計算に有限の答えを与える量子重力理論を提案した。この手法が成り立てば、量子力学とEinsteinの一般相対性理論の統合に役立つ可能性がある。研究はブラックホールのエントロピーに対する既知の量子補正も再現している。"
               },
               {
                 "t": "p",
-                "x": "サンクトペテルブルクにあるHSE UniversityのLiubov Glinkinaらは、ロシア語話者200人にミーム、コミック、漫画71点を面白さ、優しさ、標的の観点で評価させ、六つの分類器を比較した。サイコパシーが最も安定して検出され、正解率は0.82近くに達した。サディズムは最高で0.70を超え、ナルシシズムは0.66、マキャベリズムは偶然水準の0.50付近にとどまった。"
+                "x": "Venkatesa ChandrasekaranはarXivに投稿したプレプリントで、二つの重力子が生成されて消滅する過程を計算した。この計算は、任意に短い波長の波まで考慮しても有限の答えを与えた。同じ計算に近似を適用すると無限大が生じた。"
               },
               {
                 "t": "p",
-                "x": "ランダムフォレストと勾配ブースティングが最も良い成績を示し、色や文字配置といった画像の特徴は精度を高めなかった。Glinkina氏は「これは集団レベルの統計的シグナルであって読心術ではない。個人を診断することはできない」と述べ、「うそ発見器でも、スクリーニングツールでも、採用に適したものでもない」と付け加えた。"
+                "x": "Chandrasekaranは論文の謝辞で、OpenAIのモデルであるGPT-6 Astraとの数か月にわたるやり取りを通じて、論文の計算と証明のいくつかを練り上げたと述べている。使用量は合計で約4億トークンに上り、計算資源はOpenAIが提供したという。"
+              },
+              {
+                "t": "p",
+                "x": "この提案では、光がたどりうる経路で囲まれた領域である因果ダイヤモンドを用いて計算を組み立てる。最大サイズを持つこうした領域には区別可能な量子状態が有限個しか収まらないことを示し、大きなブラックホールについてはBekenstein-Hawkingエントロピーに加え、Ashoke Senによる以前の計算と一致する補正を再現する。"
+              },
+              {
+                "t": "p",
+                "x": "論文は理論研究であり、実験による検証は示しておらず、査読も受けていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "对搞笑图片的反应\n揭示精神病态与施虐性",
-          "body": "基于漫画和表情包评分训练的模型能识别精神病态、施虐性和自恋，但无法识别马基雅维利主义。",
-          "mini_headline": "幽默反应暴露黑暗人格",
+          "headline": "GPT-6 Astra\n助物理学家探索量子引力",
+          "body": "Venkatesa Chandrasekaran称GPT-6 Astra协助了计算与证明。",
+          "mini_headline": "AI助力探索量子引力",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
               },
               {
                 "t": "p",
-                "x": "发表在Journal of Individual Differences上的一项研究表明，分析人们觉得视觉笑话有多好笑、多残忍的机器学习模型，能够识别较高水平的精神病态和日常施虐性，对自恋的识别程度较低，但无法识别马基雅维利主义（Machiavellianism）。"
+                "x": "Stanford的一位物理学家提出了一种量子引力理论，利用光的路径，为一个原本可能发散到无穷大的计算给出有限的答案。如果这一方法站得住，可能有助于调和量子力学与Einstein的广义相对论。该研究还重现了黑洞熵的一个已知量子修正。"
               },
               {
                 "t": "p",
-                "x": "圣彼得堡HSE University的Liubov Glinkina及其同事让200名说俄语的人从好笑程度、善意程度和针对对象等方面为71幅表情包、连环画和卡通评分，然后比较了六种分类器。精神病态的检测最为可靠，准确率接近0.82；施虐性最高超过0.70，自恋为0.66，而马基雅维利主义则徘徊在0.50的随机水平附近。"
+                "x": "Venkatesa Chandrasekaran在arXiv上发布的预印本中，计算了两个引力子产生后又消失的过程。即使计入波长任意短的波，该计算仍给出有限的答案；而对同一计算采用近似时，结果是无穷大。"
               },
               {
                 "t": "p",
-                "x": "随机森林和梯度提升表现最好，而颜色和文字布局等图像特征并未提高准确率。Glinkina说：“这是群体层面的统计信号，不是读心术：它无法诊断个人。”她补充说，它“不是测谎仪，不是筛查工具，也不适合用于招聘”。"
+                "x": "Chandrasekaran在论文致谢中表示，他与OpenAI的模型GPT-6 Astra经过数月的反复协作，完成了文中若干计算和证明。他称总用量约为4亿个词元，计算资源由OpenAI提供。"
+              },
+              {
+                "t": "p",
+                "x": "该方案借助因果钻石——由光可能经过的路径所围成的区域——来构建计算。研究发现，具有最大尺寸的此类区域只能容纳有限数量的可区分量子态；对于大型黑洞，它重现了Bekenstein-Hawking熵，以及与Ashoke Sen早先计算相吻合的修正。"
+              },
+              {
+                "t": "p",
+                "x": "该论文为理论研究，未提出实验检验，也尚未经过同行评审。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las reacciones al humor gráfico\nrevelan psicopatía y sadismo",
-          "body": "Modelos basados en valoraciones de viñetas y memes detectaron psicopatía, sadismo y narcisismo, pero no maquiavelismo.",
-          "mini_headline": "El humor revela rasgos oscuros",
+          "headline": "GPT-6 Astra ayuda a un físico\na buscar la gravedad cuántica",
+          "body": "Venkatesa Chandrasekaran dice que GPT-6 Astra lo ayudó con cálculos y pruebas sobre gravedad cuántica.",
+          "mini_headline": "Una AI ayuda a explorar la gravedad cuántica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
               },
               {
                 "t": "p",
-                "x": "Un estudio publicado en Journal of Individual Differences indica que los modelos de aprendizaje automático que analizan cuán graciosos y crueles encuentran las personas los chistes visuales pueden identificar niveles elevados de psicopatía y sadismo cotidiano y, en menor grado, de narcisismo, aunque no de maquiavelismo (Machiavellianism)."
+                "x": "Un físico de Stanford ha propuesto una teoría cuántica de la gravedad que usa las trayectorias de la luz para obtener una respuesta finita en un cálculo que, de otro modo, puede tender al infinito. Si el enfoque se sostiene, podría ayudar a conciliar la mecánica cuántica con la relatividad general de Einstein. El estudio también reproduce una corrección cuántica conocida a la entropía de un agujero negro."
               },
               {
                 "t": "p",
-                "x": "Liubov Glinkina, de la HSE University de San Petersburgo, y sus colegas pidieron a 200 hablantes de ruso que valoraran 71 memes, cómics y viñetas según su gracia, su amabilidad y su blanco, y luego compararon seis clasificadores. La psicopatía se detectó con mayor fiabilidad, con una precisión cercana a 0.82; el sadismo alcanzó su máximo por encima de 0.70, el narcisismo llegó a 0.66 y el maquiavelismo rondó la marca de azar de 0.50."
+                "x": "En una preimpresión publicada en arXiv, Venkatesa Chandrasekaran calculó qué ocurre cuando dos gravitones se crean y luego desaparecen. El cálculo dio una respuesta finita incluso al considerar ondas de longitud de onda arbitrariamente corta; una aproximación aplicada al mismo cálculo produjo un infinito."
               },
               {
                 "t": "p",
-                "x": "Random forest y gradient boosting obtuvieron el mejor rendimiento, y las características de imagen como el color y la disposición del texto no mejoraron la precisión. “Es una señal estadística a nivel de grupo, no lectura de la mente: no puede diagnosticar a un individuo”, dijo Glinkina, y añadió que “no es un detector de mentiras, ni una herramienta de cribado, ni nada adecuado para la contratación”."
+                "x": "Chandrasekaran indicó en los agradecimientos del artículo que desarrolló varios de sus cálculos y demostraciones a lo largo de meses de trabajo de ida y vuelta con GPT-6 Astra, un modelo de OpenAI. Cifró el total en unos 400 millones de tokens y dijo que OpenAI aportó los recursos de cómputo."
+              },
+              {
+                "t": "p",
+                "x": "La propuesta usa diamantes causales, regiones delimitadas por trayectorias que podría seguir la luz, para plantear los cálculos. Concluye que una región así con un tamaño máximo solo puede contener un número finito de estados cuánticos distinguibles y, para un agujero negro grande, recupera la entropía de Bekenstein-Hawking más una corrección que coincide con un cálculo anterior de Ashoke Sen."
+              },
+              {
+                "t": "p",
+                "x": "El artículo es teórico, no presenta ninguna prueba experimental y no ha pasado revisión por pares."
               }
             ]
           }
@@ -1463,109 +217,1295 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "웃긴 그림 반응이\n사이코패시·가학성 드러낸다",
-          "body": "모델은 밈 평가로 사이코패시·가학성·자기애를 잡았으나 마키아벨리즘은 못 잡았다.",
-          "mini_headline": "유머가 드러내는 어두운 특성",
+          "headline": "GPT-6 Astra와\n양자중력 쫓는 물리학자",
+          "body": "Venkatesa Chandrasekaran은 GPT-6 Astra와 계산했다.",
+          "mini_headline": "AI가 돕는 양자중력 탐구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
               },
               {
                 "t": "p",
-                "x": "Journal of Individual Differences에 실린 연구에 따르면, 사람들이 시각적 농담을 얼마나 웃기고 잔인하게 느끼는지 분석한 머신러닝 모델은 높은 수준의 사이코패시와 일상적 가학성을, 그보다 덜한 정도로는 나르시시즘을 식별할 수 있었지만 마키아벨리즘(Machiavellianism)은 식별하지 못했다."
+                "x": "Stanford의 한 물리학자가 빛의 경로를 이용해, 자칫 무한대로 발산할 수 있는 계산에서 유한한 답을 얻는 양자중력 이론을 제안했다. 이 접근법이 유효하다면 양자역학과 Einstein의 일반상대성이론을 조화시키는 데 도움이 될 수 있다. 연구는 블랙홀 엔트로피에 대해 이미 알려진 양자 보정도 재현한다."
               },
               {
                 "t": "p",
-                "x": "상트페테르부르크 HSE University의 Liubov Glinkina와 동료들은 러시아어 사용자 200명에게 밈, 코믹스, 카툰 71개를 재미, 친절함, 대상 기준으로 평가하게 한 뒤 분류기 여섯 개를 비교했다. 사이코패시가 가장 안정적으로 감지돼 정확도가 0.82 가까이 이르렀고, 가학성은 최고 0.70을 넘었으며, 나르시시즘은 0.66, 마키아벨리즘은 우연 수준인 0.50 근처에 머물렀다."
+                "x": "Venkatesa Chandrasekaran은 arXiv에 올린 프리프린트에서 중력자 두 개가 생겨났다가 사라질 때 일어나는 일을 계산했다. 이 계산은 파장이 임의로 짧은 파동까지 고려해도 유한한 답을 냈다. 같은 계산에 근사를 적용하면 무한대가 나왔다."
               },
               {
                 "t": "p",
-                "x": "랜덤 포레스트와 그래디언트 부스팅이 가장 좋은 성능을 냈고, 색상이나 텍스트 배치 같은 이미지 특징은 정확도를 높이지 못했다. Glinkina는 “이것은 집단 수준의 통계적 신호이지 독심술이 아니다. 개인을 진단할 수는 없다”며, 이것이 “거짓말 탐지기도, 선별 도구도, 채용에 쓸 만한 무엇도 아니다”라고 덧붙였다."
+                "x": "Chandrasekaran은 논문 감사의 글에서 OpenAI 모델인 GPT-6 Astra와 몇 달간 주고받은 작업을 통해 논문의 계산과 증명 여럿을 발전시켰다고 밝혔다. 그는 사용량이 모두 약 4억 토큰이었고, 컴퓨팅 자원은 OpenAI가 제공했다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "이 제안은 빛이 지날 수 있는 경로로 둘러싸인 영역인 인과 다이아몬드를 이용해 계산을 세운다. 최대 크기를 가진 이런 영역에는 구별 가능한 양자 상태가 유한한 개수만 담길 수 있다는 결과를 얻었고, 큰 블랙홀에 대해서는 Bekenstein-Hawking 엔트로피와 함께 Ashoke Sen의 이전 계산과 일치하는 보정을 재현한다."
+              },
+              {
+                "t": "p",
+                "x": "이 논문은 이론 연구로, 실험 검증을 제시하지 않으며 동료 심사도 거치지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "面白い画像への反応が\nサイコパシーと加虐性を映す",
-          "body": "ミーム評価の学習モデルは精神病質・加虐性・自己愛を捉え、マキャベリズムは捉えなかった。",
-          "mini_headline": "ユーモアが暗い特性を映す",
+          "headline": "GPT-6 Astraが\n物理学者の量子重力研究を支援",
+          "body": "Venkatesa ChandrasekaranはGPT-6 Astraと計算を進めた。",
+          "mini_headline": "AIが量子重力の探究を支援",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
               },
               {
                 "t": "p",
-                "x": "Journal of Individual Differencesに掲載された研究によると、人々が視覚的なジョークをどれほど面白く、また残酷だと感じるかを分析する機械学習モデルは、サイコパシーと日常的サディズムの高さを、また程度は下がるもののナルシシズムを識別できたが、マキャベリズム(Machiavellianism)は識別できなかった。"
+                "x": "Stanfordの物理学者が、光の経路を使うことで、本来なら無限大に発散しうる計算に有限の答えを与える量子重力理論を提案した。この手法が成り立てば、量子力学とEinsteinの一般相対性理論の統合に役立つ可能性がある。研究はブラックホールのエントロピーに対する既知の量子補正も再現している。"
               },
               {
                 "t": "p",
-                "x": "サンクトペテルブルクにあるHSE UniversityのLiubov Glinkinaらは、ロシア語話者200人にミーム、コミック、漫画71点を面白さ、優しさ、標的の観点で評価させ、六つの分類器を比較した。サイコパシーが最も安定して検出され、正解率は0.82近くに達した。サディズムは最高で0.70を超え、ナルシシズムは0.66、マキャベリズムは偶然水準の0.50付近にとどまった。"
+                "x": "Venkatesa ChandrasekaranはarXivに投稿したプレプリントで、二つの重力子が生成されて消滅する過程を計算した。この計算は、任意に短い波長の波まで考慮しても有限の答えを与えた。同じ計算に近似を適用すると無限大が生じた。"
               },
               {
                 "t": "p",
-                "x": "ランダムフォレストと勾配ブースティングが最も良い成績を示し、色や文字配置といった画像の特徴は精度を高めなかった。Glinkina氏は「これは集団レベルの統計的シグナルであって読心術ではない。個人を診断することはできない」と述べ、「うそ発見器でも、スクリーニングツールでも、採用に適したものでもない」と付け加えた。"
+                "x": "Chandrasekaranは論文の謝辞で、OpenAIのモデルであるGPT-6 Astraとの数か月にわたるやり取りを通じて、論文の計算と証明のいくつかを練り上げたと述べている。使用量は合計で約4億トークンに上り、計算資源はOpenAIが提供したという。"
+              },
+              {
+                "t": "p",
+                "x": "この提案では、光がたどりうる経路で囲まれた領域である因果ダイヤモンドを用いて計算を組み立てる。最大サイズを持つこうした領域には区別可能な量子状態が有限個しか収まらないことを示し、大きなブラックホールについてはBekenstein-Hawkingエントロピーに加え、Ashoke Senによる以前の計算と一致する補正を再現する。"
+              },
+              {
+                "t": "p",
+                "x": "論文は理論研究であり、実験による検証は示しておらず、査読も受けていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "对搞笑图片的反应\n揭示精神病态与施虐性",
-          "body": "基于漫画和表情包评分训练的模型能识别精神病态、施虐性和自恋，但无法识别马基雅维利主义。",
-          "mini_headline": "幽默反应暴露黑暗人格",
+          "headline": "GPT-6 Astra\n助物理学家探索量子引力",
+          "body": "Venkatesa Chandrasekaran称GPT-6 Astra协助了计算与证明。",
+          "mini_headline": "AI助力探索量子引力",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
               },
               {
                 "t": "p",
-                "x": "发表在Journal of Individual Differences上的一项研究表明，分析人们觉得视觉笑话有多好笑、多残忍的机器学习模型，能够识别较高水平的精神病态和日常施虐性，对自恋的识别程度较低，但无法识别马基雅维利主义（Machiavellianism）。"
+                "x": "Stanford的一位物理学家提出了一种量子引力理论，利用光的路径，为一个原本可能发散到无穷大的计算给出有限的答案。如果这一方法站得住，可能有助于调和量子力学与Einstein的广义相对论。该研究还重现了黑洞熵的一个已知量子修正。"
               },
               {
                 "t": "p",
-                "x": "圣彼得堡HSE University的Liubov Glinkina及其同事让200名说俄语的人从好笑程度、善意程度和针对对象等方面为71幅表情包、连环画和卡通评分，然后比较了六种分类器。精神病态的检测最为可靠，准确率接近0.82；施虐性最高超过0.70，自恋为0.66，而马基雅维利主义则徘徊在0.50的随机水平附近。"
+                "x": "Venkatesa Chandrasekaran在arXiv上发布的预印本中，计算了两个引力子产生后又消失的过程。即使计入波长任意短的波，该计算仍给出有限的答案；而对同一计算采用近似时，结果是无穷大。"
               },
               {
                 "t": "p",
-                "x": "随机森林和梯度提升表现最好，而颜色和文字布局等图像特征并未提高准确率。Glinkina说：“这是群体层面的统计信号，不是读心术：它无法诊断个人。”她补充说，它“不是测谎仪，不是筛查工具，也不适合用于招聘”。"
+                "x": "Chandrasekaran在论文致谢中表示，他与OpenAI的模型GPT-6 Astra经过数月的反复协作，完成了文中若干计算和证明。他称总用量约为4亿个词元，计算资源由OpenAI提供。"
+              },
+              {
+                "t": "p",
+                "x": "该方案借助因果钻石——由光可能经过的路径所围成的区域——来构建计算。研究发现，具有最大尺寸的此类区域只能容纳有限数量的可区分量子态；对于大型黑洞，它重现了Bekenstein-Hawking熵，以及与Ashoke Sen早先计算相吻合的修正。"
+              },
+              {
+                "t": "p",
+                "x": "该论文为理论研究，未提出实验检验，也尚未经过同行评审。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las reacciones al humor gráfico\nrevelan psicopatía y sadismo",
-          "body": "Modelos basados en valoraciones de viñetas y memes detectaron psicopatía, sadismo y narcisismo, pero no maquiavelismo.",
-          "mini_headline": "El humor revela rasgos oscuros",
+          "headline": "GPT-6 Astra ayuda a un físico\na buscar la gravedad cuántica",
+          "body": "Venkatesa Chandrasekaran dice que GPT-6 Astra lo ayudó con cálculos y pruebas sobre gravedad cuántica.",
+          "mini_headline": "Una AI ayuda a explorar la gravedad cuántica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
-                "cap": "[Adobe Stock]"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
               },
               {
                 "t": "p",
-                "x": "Un estudio publicado en Journal of Individual Differences indica que los modelos de aprendizaje automático que analizan cuán graciosos y crueles encuentran las personas los chistes visuales pueden identificar niveles elevados de psicopatía y sadismo cotidiano y, en menor grado, de narcisismo, aunque no de maquiavelismo (Machiavellianism)."
+                "x": "Un físico de Stanford ha propuesto una teoría cuántica de la gravedad que usa las trayectorias de la luz para obtener una respuesta finita en un cálculo que, de otro modo, puede tender al infinito. Si el enfoque se sostiene, podría ayudar a conciliar la mecánica cuántica con la relatividad general de Einstein. El estudio también reproduce una corrección cuántica conocida a la entropía de un agujero negro."
               },
               {
                 "t": "p",
-                "x": "Liubov Glinkina, de la HSE University de San Petersburgo, y sus colegas pidieron a 200 hablantes de ruso que valoraran 71 memes, cómics y viñetas según su gracia, su amabilidad y su blanco, y luego compararon seis clasificadores. La psicopatía se detectó con mayor fiabilidad, con una precisión cercana a 0.82; el sadismo alcanzó su máximo por encima de 0.70, el narcisismo llegó a 0.66 y el maquiavelismo rondó la marca de azar de 0.50."
+                "x": "En una preimpresión publicada en arXiv, Venkatesa Chandrasekaran calculó qué ocurre cuando dos gravitones se crean y luego desaparecen. El cálculo dio una respuesta finita incluso al considerar ondas de longitud de onda arbitrariamente corta; una aproximación aplicada al mismo cálculo produjo un infinito."
               },
               {
                 "t": "p",
-                "x": "Random forest y gradient boosting obtuvieron el mejor rendimiento, y las características de imagen como el color y la disposición del texto no mejoraron la precisión. “Es una señal estadística a nivel de grupo, no lectura de la mente: no puede diagnosticar a un individuo”, dijo Glinkina, y añadió que “no es un detector de mentiras, ni una herramienta de cribado, ni nada adecuado para la contratación”."
+                "x": "Chandrasekaran indicó en los agradecimientos del artículo que desarrolló varios de sus cálculos y demostraciones a lo largo de meses de trabajo de ida y vuelta con GPT-6 Astra, un modelo de OpenAI. Cifró el total en unos 400 millones de tokens y dijo que OpenAI aportó los recursos de cómputo."
+              },
+              {
+                "t": "p",
+                "x": "La propuesta usa diamantes causales, regiones delimitadas por trayectorias que podría seguir la luz, para plantear los cálculos. Concluye que una región así con un tamaño máximo solo puede contener un número finito de estados cuánticos distinguibles y, para un agujero negro grande, recupera la entropía de Bekenstein-Hawking más una corrección que coincide con un cálculo anterior de Ashoke Sen."
+              },
+              {
+                "t": "p",
+                "x": "El artículo es teórico, no presenta ninguna prueba experimental y no ha pasado revisión por pares."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ifaw-wildlife-app-helsinki",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI로 불법 야생동물\n제품 찾는 스마트폰 앱",
+      "body": "Helsinki·IFAW 앱 시제품의 야생동물 제품 인식 정확도는 91.3%다.",
+      "mini_headline": "AI 앱, 불법 야생동물 제품 포착",
+      "tool": "Science",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-smartphone-app-ai-illegal-wildlife.html",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+            "cap": "앱 일러스트. 출처: Jani Närhi / University of Helsinki"
+          },
+          {
+            "t": "p",
+            "x": "University of Helsinki 연구진은 국제동물복지기금(International Fund for Animal Welfare, IFAW)과 함께 야생동물 제품 이미지 약 40,000장으로 AI 모델을 학습시켰다. 모델은 코끼리·천산갑·호랑이로 만든 제품을 겉보기에 비슷한 일상용품과 가려낸다."
+          },
+          {
+            "t": "p",
+            "x": "성능이 가장 좋은 모델의 전체 정확도는 84%였고 호랑이·천산갑 제품에서는 90%를 넘었다. 연구용 시제품 스마트폰 앱은 별도로 치른 실전 선별 시험에서 정확도 91.3%를 냈다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+            "cap": "앱 인터페이스. 출처: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+          },
+          {
+            "t": "p",
+            "x": "도구는 의심스러운 온라인 판매 게시물을 골라 전문가에게 넘기는 데 쓰고, 합법성 판단과 단속 결정은 자격을 갖춘 당국이 맡는다. 연구진은 앞으로 정확도를 높이고 대상 종과 제품을 늘리며, NGOs·온라인 플랫폼과 시범 운영을 하고 단속 기관으로 넘기는 절차도 만들 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "Ritwik Kulkarni가 이끈 이 연구는 Conservation Biology에 실렸다(DOI: 10.1111/cobi.70407)."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "A phone app spots illegal\nwildlife products with AI",
+          "body": "A Helsinki and IFAW phone prototype recognized elephant, pangolin and tiger products with 91.3% accuracy.",
+          "mini_headline": "AI app spots illegal wildlife goods",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+                "cap": "Illustration of the app. Credit: Jani Närhi / University of Helsinki"
+              },
+              {
+                "t": "p",
+                "x": "Researchers at the University of Helsinki, in collaboration with the International Fund for Animal Welfare (IFAW), trained AI models on nearly 40,000 images of wildlife products. The models can distinguish products derived from elephants, pangolins and tigers from visually similar everyday objects."
+              },
+              {
+                "t": "p",
+                "x": "The best model reached 84% overall accuracy and over 90% for tiger and pangolin products. A research prototype smartphone app reached 91.3% accuracy in independent practical screening tests."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+                "cap": "Interface of the app. Credit: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+              },
+              {
+                "t": "p",
+                "x": "The tool is meant to flag suspicious online listings for expert review; decisions on legality and enforcement remain with qualified authorities. Next steps include improving accuracy, covering more species and products, piloting with NGOs and online platforms, and building referral workflows to enforcement agencies."
+              },
+              {
+                "t": "p",
+                "x": "The study, led by Ritwik Kulkarni, appears in Conservation Biology (DOI: 10.1111/cobi.70407)."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI로 불법 야생동물\n제품 찾는 스마트폰 앱",
+          "body": "Helsinki·IFAW 앱 시제품의 야생동물 제품 인식 정확도는 91.3%다.",
+          "mini_headline": "AI 앱, 불법 야생동물 제품 포착",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+                "cap": "앱 일러스트. 출처: Jani Närhi / University of Helsinki"
+              },
+              {
+                "t": "p",
+                "x": "University of Helsinki 연구진은 국제동물복지기금(International Fund for Animal Welfare, IFAW)과 함께 야생동물 제품 이미지 약 40,000장으로 AI 모델을 학습시켰다. 모델은 코끼리·천산갑·호랑이로 만든 제품을 겉보기에 비슷한 일상용품과 가려낸다."
+              },
+              {
+                "t": "p",
+                "x": "성능이 가장 좋은 모델의 전체 정확도는 84%였고 호랑이·천산갑 제품에서는 90%를 넘었다. 연구용 시제품 스마트폰 앱은 별도로 치른 실전 선별 시험에서 정확도 91.3%를 냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+                "cap": "앱 인터페이스. 출처: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+              },
+              {
+                "t": "p",
+                "x": "도구는 의심스러운 온라인 판매 게시물을 골라 전문가에게 넘기는 데 쓰고, 합법성 판단과 단속 결정은 자격을 갖춘 당국이 맡는다. 연구진은 앞으로 정확도를 높이고 대상 종과 제품을 늘리며, NGOs·온라인 플랫폼과 시범 운영을 하고 단속 기관으로 넘기는 절차도 만들 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "Ritwik Kulkarni가 이끈 이 연구는 Conservation Biology에 실렸다(DOI: 10.1111/cobi.70407)."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIで違法な野生動物\n製品を見抜くスマホアプリ",
+          "body": "HelsinkiとIFAWのアプリ試作品は野生動物製品を91.3%の精度で識別した。",
+          "mini_headline": "AIアプリが違法な野生動物製品を検出",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+                "cap": "アプリのイメージ図。クレジット：Jani Närhi / University of Helsinki"
+              },
+              {
+                "t": "p",
+                "x": "University of Helsinkiの研究者らは国際動物福祉基金（International Fund for Animal Welfare、IFAW）と共同で、野生動物製品の画像約40,000枚を使ってAIモデルを訓練した。モデルは、ゾウ、センザンコウ、トラに由来する製品を、見た目の似た日用品と区別できる。"
+              },
+              {
+                "t": "p",
+                "x": "最も優れたモデルは全体で84%の精度を達成し、トラとセンザンコウの製品では90%を超えた。研究用の試作スマートフォンアプリは、独立した実践的スクリーニング試験で91.3%の精度に達した。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+                "cap": "アプリの画面。クレジット：Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+              },
+              {
+                "t": "p",
+                "x": "このツールは不審なオンライン出品を専門家の確認に回すためのもので、合法性の判断や取り締まりは資格を持つ当局が担う。今後は精度の向上、対象となる種と製品の拡大、NGOsやオンラインプラットフォームとの試験運用、取り締まり機関への通報手順の構築を進める。"
+              },
+              {
+                "t": "p",
+                "x": "Ritwik Kulkarniが率いた研究は、Conservation Biologyに掲載された（DOI: 10.1111/cobi.70407）。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "手机应用借助AI\n识别非法野生动物制品",
+          "body": "Helsinki与IFAW的手机原型以91.3%准确率识别象、穿山甲和虎制品。",
+          "mini_headline": "AI应用识别非法野生动物制品",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+                "cap": "应用示意图。来源：Jani Närhi / University of Helsinki"
+              },
+              {
+                "t": "p",
+                "x": "University of Helsinki的研究人员与国际爱护动物基金会（International Fund for Animal Welfare，IFAW）合作，用近40,000张野生动物制品图像训练了AI模型。这些模型能把源自大象、穿山甲和老虎的制品，与外观相似的日常物品区分开来。"
+              },
+              {
+                "t": "p",
+                "x": "表现最好的模型总体准确率达84%，对老虎和穿山甲制品的准确率超过90%。一款研究原型智能手机应用在独立的实际筛查测试中达到91.3%的准确率。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+                "cap": "应用界面。来源：Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+              },
+              {
+                "t": "p",
+                "x": "该工具旨在标记可疑的网上商品信息，交由专家审核；合法性判定与执法决定仍由具备资质的主管部门作出。下一步包括提高准确率、覆盖更多物种和制品、与NGOs及网络平台开展试点，并建立向执法机构移交的工作流程。"
+              },
+              {
+                "t": "p",
+                "x": "该研究由Ritwik Kulkarni主导，发表于Conservation Biology（DOI: 10.1111/cobi.70407）。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una app móvil detecta productos\nilegales de fauna con AI",
+          "body": "Un prototipo móvil de Helsinki e IFAW reconoció productos de elefante, pangolín y tigre con un 91.3% de precisión.",
+          "mini_headline": "Una app con AI detecta productos ilegales de fauna",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+                "cap": "Ilustración de la app. Crédito: Jani Närhi / University of Helsinki"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores de la University of Helsinki, en colaboración con el Fondo Internacional para el Bienestar Animal (International Fund for Animal Welfare, IFAW), entrenaron modelos de AI con casi 40,000 imágenes de productos de fauna silvestre. Los modelos pueden distinguir los productos derivados de elefantes, pangolines y tigres de objetos cotidianos visualmente similares."
+              },
+              {
+                "t": "p",
+                "x": "El mejor modelo alcanzó un 84% de precisión global y más del 90% en productos de tigre y pangolín. Un prototipo de investigación de app para smartphone alcanzó un 91.3% de precisión en pruebas prácticas de cribado independientes."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+                "cap": "Interfaz de la app. Crédito: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+              },
+              {
+                "t": "p",
+                "x": "La herramienta busca señalar anuncios en línea sospechosos para que los revisen expertos; las decisiones sobre legalidad y aplicación de la ley siguen en manos de autoridades cualificadas. Los próximos pasos incluyen mejorar la precisión, abarcar más especies y productos, hacer pruebas piloto con NGOs y plataformas en línea, y crear flujos de derivación hacia los organismos encargados de hacer cumplir la ley."
+              },
+              {
+                "t": "p",
+                "x": "El estudio, dirigido por Ritwik Kulkarni, se publica en Conservation Biology (DOI: 10.1111/cobi.70407)."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI로 불법 야생동물\n제품 찾는 스마트폰 앱",
+          "body": "Helsinki·IFAW 앱 시제품의 야생동물 제품 인식 정확도는 91.3%다.",
+          "mini_headline": "AI 앱, 불법 야생동물 제품 포착",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+                "cap": "앱 일러스트. 출처: Jani Närhi / University of Helsinki"
+              },
+              {
+                "t": "p",
+                "x": "University of Helsinki 연구진은 국제동물복지기금(International Fund for Animal Welfare, IFAW)과 함께 야생동물 제품 이미지 약 40,000장으로 AI 모델을 학습시켰다. 이 모델은 코끼리·천산갑·호랑이에서 나온 제품을 겉보기에 비슷한 일상용품과 구별할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "가장 성능이 좋은 모델은 전체 정확도 84%를 기록했고, 호랑이와 천산갑 제품에서는 90%를 넘었다. 연구용 시제품 스마트폰 앱은 독립적인 실전 선별 시험에서 91.3%의 정확도를 보였다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+                "cap": "앱 인터페이스. 출처: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+              },
+              {
+                "t": "p",
+                "x": "이 도구는 의심스러운 온라인 판매 게시물을 가려 전문가 검토로 넘기는 용도이며, 합법성 판단과 단속 결정은 자격을 갖춘 당국이 맡는다. 다음 단계로는 정확도 개선, 대상 종과 제품 확대, NGOs 및 온라인 플랫폼과의 시범 운영, 단속 기관으로 연계하는 절차 구축이 있다."
+              },
+              {
+                "t": "p",
+                "x": "Ritwik Kulkarni가 이끈 이 연구는 Conservation Biology에 실렸다(DOI: 10.1111/cobi.70407)."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIで違法な野生動物\n製品を見抜くスマホアプリ",
+          "body": "HelsinkiとIFAWのアプリ試作品は野生動物製品を91.3%の精度で識別した。",
+          "mini_headline": "AIアプリが違法な野生動物製品を検出",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+                "cap": "アプリのイメージ図。クレジット：Jani Närhi / University of Helsinki"
+              },
+              {
+                "t": "p",
+                "x": "University of Helsinkiの研究者らは国際動物福祉基金（International Fund for Animal Welfare、IFAW）と共同で、野生動物製品の画像約40,000枚を使ってAIモデルを訓練した。モデルは、ゾウ、センザンコウ、トラに由来する製品を、見た目の似た日用品と区別できる。"
+              },
+              {
+                "t": "p",
+                "x": "最も優れたモデルは全体で84%の精度を達成し、トラとセンザンコウの製品では90%を超えた。研究用の試作スマートフォンアプリは、独立した実践的スクリーニング試験で91.3%の精度に達した。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+                "cap": "アプリの画面。クレジット：Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+              },
+              {
+                "t": "p",
+                "x": "このツールは不審なオンライン出品を専門家の確認に回すためのもので、合法性の判断や取り締まりは資格を持つ当局が担う。今後は精度の向上、対象となる種と製品の拡大、NGOsやオンラインプラットフォームとの試験運用、取り締まり機関への通報手順の構築を進める。"
+              },
+              {
+                "t": "p",
+                "x": "Ritwik Kulkarniが率いた研究は、Conservation Biologyに掲載された（DOI: 10.1111/cobi.70407）。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "手机应用借助AI\n识别非法野生动物制品",
+          "body": "Helsinki与IFAW的手机原型以91.3%准确率识别象、穿山甲和虎制品。",
+          "mini_headline": "AI应用识别非法野生动物制品",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+                "cap": "应用示意图。来源：Jani Närhi / University of Helsinki"
+              },
+              {
+                "t": "p",
+                "x": "University of Helsinki的研究人员与国际爱护动物基金会（International Fund for Animal Welfare，IFAW）合作，用近40,000张野生动物制品图像训练了AI模型。这些模型能把源自大象、穿山甲和老虎的制品，与外观相似的日常物品区分开来。"
+              },
+              {
+                "t": "p",
+                "x": "表现最好的模型总体准确率达84%，对老虎和穿山甲制品的准确率超过90%。一款研究原型智能手机应用在独立的实际筛查测试中达到91.3%的准确率。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+                "cap": "应用界面。来源：Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+              },
+              {
+                "t": "p",
+                "x": "该工具旨在标记可疑的网上商品信息，交由专家审核；合法性判定与执法决定仍由具备资质的主管部门作出。下一步包括提高准确率、覆盖更多物种和制品、与NGOs及网络平台开展试点，并建立向执法机构移交的工作流程。"
+              },
+              {
+                "t": "p",
+                "x": "该研究由Ritwik Kulkarni主导，发表于Conservation Biology（DOI: 10.1111/cobi.70407）。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una app móvil detecta productos\nilegales de fauna con AI",
+          "body": "Un prototipo móvil de Helsinki e IFAW reconoció productos de elefante, pangolín y tigre con un 91.3% de precisión.",
+          "mini_headline": "Una app con AI detecta productos ilegales de fauna",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+                "cap": "Ilustración de la app. Crédito: Jani Närhi / University of Helsinki"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores de la University of Helsinki, en colaboración con el Fondo Internacional para el Bienestar Animal (International Fund for Animal Welfare, IFAW), entrenaron modelos de AI con casi 40,000 imágenes de productos de fauna silvestre. Los modelos pueden distinguir los productos derivados de elefantes, pangolines y tigres de objetos cotidianos visualmente similares."
+              },
+              {
+                "t": "p",
+                "x": "El mejor modelo alcanzó un 84% de precisión global y más del 90% en productos de tigre y pangolín. Un prototipo de investigación de app para smartphone alcanzó un 91.3% de precisión en pruebas prácticas de cribado independientes."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+                "cap": "Interfaz de la app. Crédito: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+              },
+              {
+                "t": "p",
+                "x": "La herramienta busca señalar anuncios en línea sospechosos para que los revisen expertos; las decisiones sobre legalidad y aplicación de la ley siguen en manos de autoridades cualificadas. Los próximos pasos incluyen mejorar la precisión, abarcar más especies y productos, hacer pruebas piloto con NGOs y plataformas en línea, y crear flujos de derivación hacia los organismos encargados de hacer cumplir la ley."
+              },
+              {
+                "t": "p",
+                "x": "El estudio, dirigido por Ritwik Kulkarni, se publica en Conservation Biology (DOI: 10.1111/cobi.70407)."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "strathclyde-copepod-model",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 모델, 2050년까지\n플랑크톤 급감 전망",
+      "body": "Strathclyde는 NW 유럽 요각류가 2050년 58-72% 준다고 본다.",
+      "mini_headline": "2050년 플랑크톤 급감 가능성",
+      "tool": "Science",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-11-tool-climate-reshape-marine-ecosystems.html",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+            "cap": "모델로 산출한 요각류 동물플랑크톤 분포. 출처: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+          },
+          {
+            "t": "p",
+            "x": "University of Strathclyde 연구진이 해양 먹이사슬의 바탕인 작은 부유 동물, 동물플랑크톤이 바뀌는 바다에 어떻게 반응할지 내다보는 고해상도 머신러닝 모델을 만들었다. 모델은 수십 년 치 Continuous Plankton Recorder 조사 자료로 학습했고 지역 기후 전망과 결합했다."
+          },
+          {
+            "t": "p",
+            "x": "연구가 주목한 대상은 청어 같은 어류의 주요 먹이인 요각류다. 고배출 시나리오에서 요각류 개체 수는 2050년까지 58–72%, 2100년까지 84–93% 줄 것으로 전망됐다. 저해상도 전 지구 모델이 내놓은 수치보다 감소폭이 커서, Northwest European Shelf 해역이 생각보다 취약할 수 있다는 신호로 읽힌다. 지역마다 피난처가 될 만한 곳도 모델이 짚어냈다."
+          },
+          {
+            "t": "p",
+            "x": "해수 온도 상승과 영양염 감소, 약해지는 AMOC에 얽힌 순환 변화가 감소와 맞물려 있다. 제1저자 Dr. Emma Tyldesley 연구팀은 예측이 아니라 시나리오에 기댄 연구라고 못 박는다. 전망치는 어린 야생 대서양연어의 먹이 여건을 가늠하는 지표로 Likely Suspects Framework에도 들어간다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI model projects a steep\nplankton decline by 2050",
+          "body": "A Strathclyde machine-learning model projects NW European copepods falling 58-72% by 2050 under high emissions.",
+          "mini_headline": "Plankton could plunge by 2050",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+                "cap": "Modeled copepod zooplankton distributions. Credit: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+              },
+              {
+                "t": "p",
+                "x": "Researchers at the University of Strathclyde built a high-resolution machine learning model that projects how zooplankton, the small drifting animals at the base of marine food chains, may respond to changing ocean conditions. It was trained on decades of Continuous Plankton Recorder survey data and combined with regional climate projections."
+              },
+              {
+                "t": "p",
+                "x": "The study focused on copepods, a major food source for fish such as herring. Under a high-emissions scenario, copepod abundance is projected to fall by 58–72% by 2050 and 84–93% by 2100, larger declines than lower-resolution global models suggest, indicating the Northwest European Shelf seas may be more vulnerable than thought. The model also identified possible regional refuges."
+              },
+              {
+                "t": "p",
+                "x": "The declines are linked to rising sea temperatures, lower nutrient levels and circulation changes tied to a weakening AMOC. Lead author Dr. Emma Tyldesley's team stresses it is a scenario-based study, not a prediction; the projections will also feed the Likely Suspects Framework as an indicator of feeding conditions for young wild Atlantic salmon."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 모델, 2050년까지\n플랑크톤 급감 전망",
+          "body": "Strathclyde는 NW 유럽 요각류가 2050년 58-72% 준다고 본다.",
+          "mini_headline": "2050년 플랑크톤 급감 가능성",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+                "cap": "모델로 산출한 요각류 동물플랑크톤 분포. 출처: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+              },
+              {
+                "t": "p",
+                "x": "University of Strathclyde 연구진이 해양 먹이사슬의 바탕인 작은 부유 동물, 동물플랑크톤이 바뀌는 바다에 어떻게 반응할지 내다보는 고해상도 머신러닝 모델을 만들었다. 모델은 수십 년 치 Continuous Plankton Recorder 조사 자료로 학습했고 지역 기후 전망과 결합했다."
+              },
+              {
+                "t": "p",
+                "x": "연구가 주목한 대상은 청어 같은 어류의 주요 먹이인 요각류다. 고배출 시나리오에서 요각류 개체 수는 2050년까지 58–72%, 2100년까지 84–93% 줄 것으로 전망됐다. 저해상도 전 지구 모델이 내놓은 수치보다 감소폭이 커서, Northwest European Shelf 해역이 생각보다 취약할 수 있다는 신호로 읽힌다. 지역마다 피난처가 될 만한 곳도 모델이 짚어냈다."
+              },
+              {
+                "t": "p",
+                "x": "해수 온도 상승과 영양염 감소, 약해지는 AMOC에 얽힌 순환 변화가 감소와 맞물려 있다. 제1저자 Dr. Emma Tyldesley 연구팀은 예측이 아니라 시나리오에 기댄 연구라고 못 박는다. 전망치는 어린 야생 대서양연어의 먹이 여건을 가늠하는 지표로 Likely Suspects Framework에도 들어간다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIモデル、2050年までに\nプランクトン急減を予測",
+          "body": "Strathclydeの予測ではNW欧州のカイアシ類が2050年までに58-72%減る。",
+          "mini_headline": "2050年までにプランクトン急減も",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+                "cap": "モデルで推定したカイアシ類動物プランクトンの分布。クレジット：Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+              },
+              {
+                "t": "p",
+                "x": "University of Strathclydeの研究者らは、海洋食物連鎖の土台となる小さな浮遊動物である動物プランクトンが、変化する海洋環境にどう応答しうるかを予測する高解像度の機械学習モデルを構築した。モデルは数十年分のContinuous Plankton Recorder調査データで訓練され、地域の気候予測と組み合わされた。"
+              },
+              {
+                "t": "p",
+                "x": "研究はニシンなどの魚の主要な餌であるカイアシ類に焦点を当てた。高排出シナリオでは、カイアシ類の個体数は2050年までに58–72%、2100年までに84–93%減ると予測され、解像度の低い全球モデルが示すより大きな減少となった。これはNorthwest European Shelfの海域が考えられていた以上に脆弱である可能性を示す。モデルは地域的な避難場所となりうる海域も特定した。"
+              },
+              {
+                "t": "p",
+                "x": "減少は海水温の上昇、栄養塩の低下、弱まりつつあるAMOCに伴う循環の変化と結びついている。筆頭著者Dr. Emma Tyldesleyのチームは、これは予測ではなくシナリオに基づく研究だと強調する。予測結果は、若い野生のタイセイヨウサケの摂餌条件を示す指標としてLikely Suspects Frameworkにも活用される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI模型预测2050年前\n浮游生物将大幅减少",
+          "body": "Strathclyde模型预测，高排放下NW欧洲桡足类到2050年将减少58-72%。",
+          "mini_headline": "2050年前浮游生物或将骤减",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+                "cap": "模型模拟的桡足类浮游动物分布。来源：Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+              },
+              {
+                "t": "p",
+                "x": "University of Strathclyde的研究人员构建了一个高分辨率机器学习模型，用于预测浮游动物——位于海洋食物链底层的微小漂浮动物——可能如何应对不断变化的海洋条件。该模型以数十年的Continuous Plankton Recorder调查数据训练，并结合了区域气候预测。"
+              },
+              {
+                "t": "p",
+                "x": "研究聚焦于桡足类，它们是鲱鱼等鱼类的主要食物来源。在高排放情景下，桡足类丰度预计到2050年下降58–72%，到2100年下降84–93%，降幅大于低分辨率全球模型的估计，表明Northwest European Shelf海域可能比想象中更脆弱。模型还识别出了可能的区域避难所。"
+              },
+              {
+                "t": "p",
+                "x": "这些下降与海温上升、营养盐水平降低以及与AMOC减弱相关的环流变化有关。第一作者Dr. Emma Tyldesley的团队强调，这是一项基于情景的研究，而非预测；这些预测还将纳入Likely Suspects Framework，作为野生大西洋鲑幼鱼摄食条件的指标。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un modelo de AI prevé una fuerte\ncaída del plancton para 2050",
+          "body": "Un modelo de Strathclyde prevé que los copépodos del NW europeo caigan un 58-72% para 2050 con altas emisiones.",
+          "mini_headline": "El plancton podría desplomarse para 2050",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+                "cap": "Distribuciones modeladas del zooplancton copépodo. Crédito: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores de la University of Strathclyde crearon un modelo de aprendizaje automático de alta resolución que proyecta cómo podría responder el zooplancton, los pequeños animales a la deriva que forman la base de las cadenas tróficas marinas, a los cambios en las condiciones del océano. Se entrenó con décadas de datos de muestreo del Continuous Plankton Recorder y se combinó con proyecciones climáticas regionales."
+              },
+              {
+                "t": "p",
+                "x": "El estudio se centró en los copépodos, una fuente de alimento clave para peces como el arenque. En un escenario de altas emisiones, se prevé que su abundancia caiga un 58–72% para 2050 y un 84–93% para 2100, descensos mayores que los que sugieren los modelos globales de menor resolución, lo que indica que los mares de la Northwest European Shelf podrían ser más vulnerables de lo que se creía. El modelo también identificó posibles refugios regionales."
+              },
+              {
+                "t": "p",
+                "x": "Los descensos se vinculan al aumento de la temperatura del mar, a menores niveles de nutrientes y a cambios en la circulación asociados a un AMOC debilitado. El equipo de la autora principal, Dr. Emma Tyldesley, subraya que se trata de un estudio basado en escenarios y no de una predicción; las proyecciones también alimentarán el Likely Suspects Framework como indicador de las condiciones de alimentación de los salmones atlánticos salvajes jóvenes."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 모델, 2050년까지\n플랑크톤 급감 전망",
+          "body": "Strathclyde는 NW 유럽 요각류가 2050년 58-72% 준다고 본다.",
+          "mini_headline": "2050년 플랑크톤 급감 가능성",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+                "cap": "모델로 산출한 요각류 동물플랑크톤 분포. 출처: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+              },
+              {
+                "t": "p",
+                "x": "University of Strathclyde 연구진은 해양 먹이사슬의 바탕을 이루는 작은 부유 동물인 동물플랑크톤이 변하는 해양 환경에 어떻게 반응할지 내다보는 고해상도 머신러닝 모델을 만들었다. 모델은 수십 년 치 Continuous Plankton Recorder 조사 자료로 학습했고, 지역 기후 전망과 결합했다."
+              },
+              {
+                "t": "p",
+                "x": "연구는 청어 같은 어류의 주요 먹이인 요각류에 초점을 맞췄다. 고배출 시나리오에서 요각류 개체 수는 2050년까지 58–72%, 2100년까지 84–93% 줄 것으로 전망됐다. 이는 저해상도 전 지구 모델이 제시하는 것보다 큰 감소폭으로, Northwest European Shelf 해역이 생각보다 취약할 수 있음을 시사한다. 모델은 지역별 피난처가 될 만한 곳도 찾아냈다."
+              },
+              {
+                "t": "p",
+                "x": "감소는 해수 온도 상승, 영양염 감소, 약해지는 AMOC와 연관된 순환 변화와 관련이 있다. 제1저자 Dr. Emma Tyldesley 연구팀은 이것이 예측이 아니라 시나리오 기반 연구라고 강조한다. 이 전망은 어린 야생 대서양연어의 먹이 여건을 보여주는 지표로 Likely Suspects Framework에도 반영된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIモデル、2050年までに\nプランクトン急減を予測",
+          "body": "Strathclydeの予測ではNW欧州のカイアシ類が2050年までに58-72%減る。",
+          "mini_headline": "2050年までにプランクトン急減も",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+                "cap": "モデルで推定したカイアシ類動物プランクトンの分布。クレジット：Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+              },
+              {
+                "t": "p",
+                "x": "University of Strathclydeの研究者らは、海洋食物連鎖の土台となる小さな浮遊動物である動物プランクトンが、変化する海洋環境にどう応答しうるかを予測する高解像度の機械学習モデルを構築した。モデルは数十年分のContinuous Plankton Recorder調査データで訓練され、地域の気候予測と組み合わされた。"
+              },
+              {
+                "t": "p",
+                "x": "研究はニシンなどの魚の主要な餌であるカイアシ類に焦点を当てた。高排出シナリオでは、カイアシ類の個体数は2050年までに58–72%、2100年までに84–93%減ると予測され、解像度の低い全球モデルが示すより大きな減少となった。これはNorthwest European Shelfの海域が考えられていた以上に脆弱である可能性を示す。モデルは地域的な避難場所となりうる海域も特定した。"
+              },
+              {
+                "t": "p",
+                "x": "減少は海水温の上昇、栄養塩の低下、弱まりつつあるAMOCに伴う循環の変化と結びついている。筆頭著者Dr. Emma Tyldesleyのチームは、これは予測ではなくシナリオに基づく研究だと強調する。予測結果は、若い野生のタイセイヨウサケの摂餌条件を示す指標としてLikely Suspects Frameworkにも活用される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI模型预测2050年前\n浮游生物将大幅减少",
+          "body": "Strathclyde模型预测，高排放下NW欧洲桡足类到2050年将减少58-72%。",
+          "mini_headline": "2050年前浮游生物或将骤减",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+                "cap": "模型模拟的桡足类浮游动物分布。来源：Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+              },
+              {
+                "t": "p",
+                "x": "University of Strathclyde的研究人员构建了一个高分辨率机器学习模型，用于预测浮游动物——位于海洋食物链底层的微小漂浮动物——可能如何应对不断变化的海洋条件。该模型以数十年的Continuous Plankton Recorder调查数据训练，并结合了区域气候预测。"
+              },
+              {
+                "t": "p",
+                "x": "研究聚焦于桡足类，它们是鲱鱼等鱼类的主要食物来源。在高排放情景下，桡足类丰度预计到2050年下降58–72%，到2100年下降84–93%，降幅大于低分辨率全球模型的估计，表明Northwest European Shelf海域可能比想象中更脆弱。模型还识别出了可能的区域避难所。"
+              },
+              {
+                "t": "p",
+                "x": "这些下降与海温上升、营养盐水平降低以及与AMOC减弱相关的环流变化有关。第一作者Dr. Emma Tyldesley的团队强调，这是一项基于情景的研究，而非预测；这些预测还将纳入Likely Suspects Framework，作为野生大西洋鲑幼鱼摄食条件的指标。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un modelo de AI prevé una fuerte\ncaída del plancton para 2050",
+          "body": "Un modelo de Strathclyde prevé que los copépodos del NW europeo caigan un 58-72% para 2050 con altas emisiones.",
+          "mini_headline": "El plancton podría desplomarse para 2050",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+                "cap": "Distribuciones modeladas del zooplancton copépodo. Crédito: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores de la University of Strathclyde crearon un modelo de aprendizaje automático de alta resolución que proyecta cómo podría responder el zooplancton, los pequeños animales a la deriva que forman la base de las cadenas tróficas marinas, a los cambios en las condiciones del océano. Se entrenó con décadas de datos de muestreo del Continuous Plankton Recorder y se combinó con proyecciones climáticas regionales."
+              },
+              {
+                "t": "p",
+                "x": "El estudio se centró en los copépodos, una fuente de alimento clave para peces como el arenque. En un escenario de altas emisiones, se prevé que su abundancia caiga un 58–72% para 2050 y un 84–93% para 2100, descensos mayores que los que sugieren los modelos globales de menor resolución, lo que indica que los mares de la Northwest European Shelf podrían ser más vulnerables de lo que se creía. El modelo también identificó posibles refugios regionales."
+              },
+              {
+                "t": "p",
+                "x": "Los descensos se vinculan al aumento de la temperatura del mar, a menores niveles de nutrientes y a cambios en la circulación asociados a un AMOC debilitado. El equipo de la autora principal, Dr. Emma Tyldesley, subraya que se trata de un estudio basado en escenarios y no de una predicción; las proyecciones también alimentarán el Likely Suspects Framework como indicador de las condiciones de alimentación de los salmones atlánticos salvajes jóvenes."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "psypost-ai-label-ratings",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI-generated\n표시, 평가엔 영향 미미",
+      "body": "독일 연구에서 AI-generated 표시는 약 42%만 알아채 효과가 미미했다.",
+      "mini_headline": "AI 표시는 대부분 눈에 안 띈다",
+      "tool": "Science",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/marking-an-informational-text-as-ai-generated-does-not-influence-its-ratings-study-finds/",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+          },
+          {
+            "t": "p",
+            "x": "독일의 한 온라인 실험에서 짧은 영양 정보 글에 인공지능이 썼다는 표시를 붙여도 참가자 평가는 의미 있게 달라지지 않았다. 다만 AI-labeled 글을 읽은 사람 가운데 출처가 언급됐다고 답한 비율은 약 42%에 그쳤다. 논문은 Applied Psychology: Health and Well-Being에 실렸다."
+          },
+          {
+            "t": "p",
+            "x": "Laura M. König 연구팀은 성인 774명을 분석했다. 참가자가 읽은 글은 영양학자가 검토한 ChatGPT-generated 글 세 편 중 하나였고, “이 글은 인공지능인 ChatGPT가 작성했습니다.”라는 문구가 붙은 글도 없는 글도 있었다."
+          },
+          {
+            "t": "p",
+            "x": "평가에서 통계적으로 유의한 차이는 없었다. AI-labeled 글은 신뢰도가 약간 낮게 나왔지만 평균은 7-point 척도에서 5를 넘었다. WhatsApp 요약을 쓴 참가자 569명 가운데 AI를 출처로 꼽은 사람은 17명뿐이었다."
+          },
+          {
+            "t": "p",
+            "x": "저자들은 “연구 결과는 AI 챗봇이 대중에게 영양 관련 정보의 출처로 받아들여지고 신뢰받고 있음을 보여준다”고 결론지었다. 실험 글의 품질이 높았다는 점도 짚으며, 품질이 낮은 정보에서는 표시가 더 중요할 수 있다고 덧붙였다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "An AI-generated label barely\nshifts how readers rate advice",
+          "body": "In a German study, an AI-generated label on nutrition advice barely moved ratings, as only about 42% noticed it.",
+          "mini_headline": "AI labels go largely unnoticed",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+              },
+              {
+                "t": "p",
+                "x": "An online experiment conducted in Germany found that labeling a short nutrition text as written by artificial intelligence did not meaningfully change how participants rated it. However, only about 42% of those who read the AI-labeled text reported that a source had been mentioned. The paper was published in Applied Psychology: Health and Well-Being."
+              },
+              {
+                "t": "p",
+                "x": "Laura M. König and colleagues analyzed 774 adults who read one of three ChatGPT-generated texts, checked by a nutritional scientist, with or without the note “This text was written by ChatGPT, an artificial intelligence.”"
+              },
+              {
+                "t": "p",
+                "x": "There were no statistically significant differences in ratings. AI-labeled texts got slightly lower trustworthiness ratings, but trust averaged above 5 on a 7-point scale. Only 17 of 569 participants who wrote a WhatsApp summary mentioned AI as the source."
+              },
+              {
+                "t": "p",
+                "x": "“The results point toward AI chatbots being an accepted and trusted source for nutrition-related information in the population,” the authors concluded. They note the texts were high quality, and labels might matter more for lower-quality information."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI-generated\n표시, 평가엔 영향 미미",
+          "body": "독일 연구에서 AI-generated 표시는 약 42%만 알아채 효과가 미미했다.",
+          "mini_headline": "AI 표시는 대부분 눈에 안 띈다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+              },
+              {
+                "t": "p",
+                "x": "독일의 한 온라인 실험에서 짧은 영양 정보 글에 인공지능이 썼다는 표시를 붙여도 참가자 평가는 의미 있게 달라지지 않았다. 다만 AI-labeled 글을 읽은 사람 가운데 출처가 언급됐다고 답한 비율은 약 42%에 그쳤다. 논문은 Applied Psychology: Health and Well-Being에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "Laura M. König 연구팀은 성인 774명을 분석했다. 참가자가 읽은 글은 영양학자가 검토한 ChatGPT-generated 글 세 편 중 하나였고, “이 글은 인공지능인 ChatGPT가 작성했습니다.”라는 문구가 붙은 글도 없는 글도 있었다."
+              },
+              {
+                "t": "p",
+                "x": "평가에서 통계적으로 유의한 차이는 없었다. AI-labeled 글은 신뢰도가 약간 낮게 나왔지만 평균은 7-point 척도에서 5를 넘었다. WhatsApp 요약을 쓴 참가자 569명 가운데 AI를 출처로 꼽은 사람은 17명뿐이었다."
+              },
+              {
+                "t": "p",
+                "x": "저자들은 “연구 결과는 AI 챗봇이 대중에게 영양 관련 정보의 출처로 받아들여지고 신뢰받고 있음을 보여준다”고 결론지었다. 실험 글의 품질이 높았다는 점도 짚으며, 품질이 낮은 정보에서는 표시가 더 중요할 수 있다고 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-generated表示\n読者の評価はほぼ変わらず",
+          "body": "ドイツの研究で約42%しか気づかず、AI-generated表示は評価をほぼ変えなかった。",
+          "mini_headline": "AI表示の多くは気づかれない",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+              },
+              {
+                "t": "p",
+                "x": "ドイツで行われたオンライン実験で、栄養に関する短い文章に人工知能が書いたと表示しても、参加者の評価に意味のある変化は見られなかった。ただし、AI-labeledの文章を読んだ人のうち、出典が示されていたと答えたのは約42%にとどまった。論文はApplied Psychology: Health and Well-Beingに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "Laura M. Königらは、栄養学者が確認したChatGPT-generatedの文章三つのうち一つを読んだ成人774人を分析した。文章には「この文章は人工知能であるChatGPTが書きました」という注記が付く場合と付かない場合があった。"
+              },
+              {
+                "t": "p",
+                "x": "評価に統計的に有意な差はなかった。AI-labeledの文章は信頼性の評価がやや低かったが、信頼の平均は7-point尺度で5を上回った。WhatsAppで要約を書いた参加者569人のうち、AIを出典として挙げたのは17人だけだった。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは「結果は、AIチャットボットが一般の人々にとって、栄養関連情報の受け入れられ信頼された情報源になっていることを示している」と結論づけた。ただし文章の質は高く、質の低い情報ではラベルがより重要になりうると指摘している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI-generated标签\n几乎不改变读者对建议的评价",
+          "body": "德国研究中，营养建议上的AI-generated标签几乎未改变评分，仅约42%的人注意到。",
+          "mini_headline": "AI标签大多未被注意",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+              },
+              {
+                "t": "p",
+                "x": "一项在德国进行的在线实验发现，将一段简短的营养文字标注为由人工智能撰写，并未显著改变参与者对它的评价。不过，在阅读AI-labeled文本的人中，只有约42%表示文中提到了来源。论文发表于Applied Psychology: Health and Well-Being。"
+              },
+              {
+                "t": "p",
+                "x": "Laura M. König及其同事分析了774名成年人，他们阅读了三篇经营养学家核查的ChatGPT-generated文本之一，文本附有或不附“本文由人工智能ChatGPT撰写。”的说明。"
+              },
+              {
+                "t": "p",
+                "x": "各组评分之间没有统计学上的显著差异。AI-labeled文本的可信度评分略低，但在7-point量表上，信任度平均仍高于5。在撰写WhatsApp摘要的569名参与者中，只有17人提到AI是来源。"
+              },
+              {
+                "t": "p",
+                "x": "作者总结称：“结果表明，AI聊天机器人已成为公众接受和信任的营养相关信息来源。”他们指出，这些文本质量较高，对于质量较低的信息，标签的作用可能更大。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una etiqueta AI-generated apenas\ncambia la valoración de consejos",
+          "body": "En un estudio alemán, una etiqueta AI-generated apenas cambió las valoraciones: solo cerca del 42% la notó.",
+          "mini_headline": "Las etiquetas de AI pasan casi inadvertidas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Un experimento en línea realizado en Alemania halló que etiquetar un breve texto sobre nutrición como escrito por inteligencia artificial no cambió de forma significativa cómo lo valoraron los participantes. Sin embargo, solo cerca del 42% de quienes leyeron el texto AI-labeled indicó que se había mencionado una fuente. El artículo se publicó en Applied Psychology: Health and Well-Being."
+              },
+              {
+                "t": "p",
+                "x": "Laura M. König y sus colegas analizaron a 774 adultos que leyeron uno de tres textos ChatGPT-generated, revisados por un especialista en nutrición, con o sin la nota “Este texto fue escrito por ChatGPT, una inteligencia artificial.”"
+              },
+              {
+                "t": "p",
+                "x": "No hubo diferencias estadísticamente significativas en las valoraciones. Los textos AI-labeled recibieron valoraciones de credibilidad ligeramente inferiores, pero la confianza promedió más de 5 en una escala de 7 puntos. Solo 17 de los 569 participantes que escribieron un resumen para WhatsApp mencionaron la AI como fuente."
+              },
+              {
+                "t": "p",
+                "x": "“Los resultados apuntan a que los chatbots de AI son una fuente aceptada y de confianza para la información relacionada con la nutrición en la población”, concluyeron los autores. Señalan que los textos eran de alta calidad y que las etiquetas podrían importar más en información de menor calidad."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI-generated\n표시, 평가엔 영향 미미",
+          "body": "독일 연구에서 AI-generated 표시는 약 42%만 알아채 효과가 미미했다.",
+          "mini_headline": "AI 표시는 대부분 눈에 안 띈다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+              },
+              {
+                "t": "p",
+                "x": "독일에서 진행된 온라인 실험에서, 짧은 영양 정보 글에 인공지능이 썼다는 표시를 붙여도 참가자의 평가는 의미 있게 달라지지 않았다. 다만 AI-labeled 글을 읽은 사람 가운데 출처가 언급됐다고 답한 비율은 약 42%에 그쳤다. 논문은 Applied Psychology: Health and Well-Being에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "Laura M. König 연구팀은 영양학자가 검토한 ChatGPT-generated 글 세 편 중 하나를 읽은 성인 774명을 분석했다. 글에는 “이 글은 인공지능인 ChatGPT가 작성했습니다.”라는 문구가 붙거나 붙지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "평가에서 통계적으로 유의한 차이는 없었다. AI-labeled 글은 신뢰도 평가가 약간 낮았지만, 신뢰도 평균은 7-point 척도에서 5를 넘었다. WhatsApp 요약을 쓴 참가자 569명 가운데 AI를 출처로 언급한 사람은 17명뿐이었다."
+              },
+              {
+                "t": "p",
+                "x": "저자들은 “연구 결과는 AI 챗봇이 대중에게 영양 관련 정보의 출처로 받아들여지고 신뢰받고 있음을 보여준다”고 결론지었다. 이들은 실험에 쓴 글의 품질이 높았으며, 품질이 낮은 정보에서는 표시가 더 중요할 수 있다고 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-generated表示\n読者の評価はほぼ変わらず",
+          "body": "ドイツの研究で約42%しか気づかず、AI-generated表示は評価をほぼ変えなかった。",
+          "mini_headline": "AI表示の多くは気づかれない",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+              },
+              {
+                "t": "p",
+                "x": "ドイツで行われたオンライン実験で、栄養に関する短い文章に人工知能が書いたと表示しても、参加者の評価に意味のある変化は見られなかった。ただし、AI-labeledの文章を読んだ人のうち、出典が示されていたと答えたのは約42%にとどまった。論文はApplied Psychology: Health and Well-Beingに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "Laura M. Königらは、栄養学者が確認したChatGPT-generatedの文章三つのうち一つを読んだ成人774人を分析した。文章には「この文章は人工知能であるChatGPTが書きました」という注記が付く場合と付かない場合があった。"
+              },
+              {
+                "t": "p",
+                "x": "評価に統計的に有意な差はなかった。AI-labeledの文章は信頼性の評価がやや低かったが、信頼の平均は7-point尺度で5を上回った。WhatsAppで要約を書いた参加者569人のうち、AIを出典として挙げたのは17人だけだった。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは「結果は、AIチャットボットが一般の人々にとって、栄養関連情報の受け入れられ信頼された情報源になっていることを示している」と結論づけた。ただし文章の質は高く、質の低い情報ではラベルがより重要になりうると指摘している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI-generated标签\n几乎不改变读者对建议的评价",
+          "body": "德国研究中，营养建议上的AI-generated标签几乎未改变评分，仅约42%的人注意到。",
+          "mini_headline": "AI标签大多未被注意",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+              },
+              {
+                "t": "p",
+                "x": "一项在德国进行的在线实验发现，将一段简短的营养文字标注为由人工智能撰写，并未显著改变参与者对它的评价。不过，在阅读AI-labeled文本的人中，只有约42%表示文中提到了来源。论文发表于Applied Psychology: Health and Well-Being。"
+              },
+              {
+                "t": "p",
+                "x": "Laura M. König及其同事分析了774名成年人，他们阅读了三篇经营养学家核查的ChatGPT-generated文本之一，文本附有或不附“本文由人工智能ChatGPT撰写。”的说明。"
+              },
+              {
+                "t": "p",
+                "x": "各组评分之间没有统计学上的显著差异。AI-labeled文本的可信度评分略低，但在7-point量表上，信任度平均仍高于5。在撰写WhatsApp摘要的569名参与者中，只有17人提到AI是来源。"
+              },
+              {
+                "t": "p",
+                "x": "作者总结称：“结果表明，AI聊天机器人已成为公众接受和信任的营养相关信息来源。”他们指出，这些文本质量较高，对于质量较低的信息，标签的作用可能更大。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una etiqueta AI-generated apenas\ncambia la valoración de consejos",
+          "body": "En un estudio alemán, una etiqueta AI-generated apenas cambió las valoraciones: solo cerca del 42% la notó.",
+          "mini_headline": "Las etiquetas de AI pasan casi inadvertidas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Un experimento en línea realizado en Alemania halló que etiquetar un breve texto sobre nutrición como escrito por inteligencia artificial no cambió de forma significativa cómo lo valoraron los participantes. Sin embargo, solo cerca del 42% de quienes leyeron el texto AI-labeled indicó que se había mencionado una fuente. El artículo se publicó en Applied Psychology: Health and Well-Being."
+              },
+              {
+                "t": "p",
+                "x": "Laura M. König y sus colegas analizaron a 774 adultos que leyeron uno de tres textos ChatGPT-generated, revisados por un especialista en nutrición, con o sin la nota “Este texto fue escrito por ChatGPT, una inteligencia artificial.”"
+              },
+              {
+                "t": "p",
+                "x": "No hubo diferencias estadísticamente significativas en las valoraciones. Los textos AI-labeled recibieron valoraciones de credibilidad ligeramente inferiores, pero la confianza promedió más de 5 en una escala de 7 puntos. Solo 17 de los 569 participantes que escribieron un resumen para WhatsApp mencionaron la AI como fuente."
+              },
+              {
+                "t": "p",
+                "x": "“Los resultados apuntan a que los chatbots de AI son una fuente aceptada y de confianza para la información relacionada con la nutrición en la población”, concluyeron los autores. Señalan que los textos eran de alta calidad y que las etiquetas podrían importar más en información de menor calidad."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "natcomms-neural-decoding-leakage",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "데이터 누출이 AI\n뇌 해독 결과를 왜곡",
+      "body": "전처리와 교차검증의 누출은 머신러닝 뇌 해독 정확도를 부풀리거나 깎을 수 있다.",
+      "mini_headline": "누출이 뇌 해독을 왜곡한다",
+      "tool": "Science",
+      "source": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-79123-2",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "신경 해독은 행동·지각·인지가 신경 활동에 어떻게 표상되는지 연구하는 데 널리 쓰이는 머신러닝 기법이다. 하지만 조심해서 쓰지 않으면 테스트 세트의 정보가 훈련 세트에 섞여 드는 데이터 누출이 생길 수 있다. 그러면 해독 성능 추정이 한쪽으로 치우치고, 생물학적 결론까지 무너질 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "우리는 차원 축소를 비롯해 흔히 쓰는 지도·비지도 전처리 단계가 신경 해독 연구에 누출을 끌어들일 수 있음을 보인다. 경우에 따라 누출이 오히려 편향 없는 추정치보다 해독 성능을 낮추기도 하는데, 그 까닭은 이론 분석으로 설명한다. 자기상관이 있는 신경 시계열이라면 무작위 k-fold 교차검증이 해독 성능을 크게 부풀릴 수 있다는 점도 보인다. 이를 근거로 신경 해독에서 데이터 누출을 피하는 구체적인 권고안을 내놓는다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Data leakage can skew\nAI brain-decoding results",
+          "body": "Leakage from preprocessing and cross-validation can both inflate and deflate machine-learning brain-decoding accuracy.",
+          "mini_headline": "Leakage skews brain decoding",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Neural decoding is a widely-used machine learning technique for investigating how behavior, perception and cognition are represented in neural activity. However without careful application data leakage can occur, where information from the test set contaminates the training set, leading to biased estimates of decoding performance and potentially invalidating biological conclusions."
+              },
+              {
+                "t": "p",
+                "x": "Here we show that leakage can be introduced in neural decoding studies by common supervised and unsupervised preprocessing steps, including dimensionality reduction. We reveal that in some cases leakage can paradoxically decrease decoding performance relative to unbiased estimates, and we provide theoretical analyses explaining how this occurs. We also show that, for autocorrelated neural time series, randomized k-fold cross-validation can dramatically overstate decoding performance. Based on these findings, we provide detailed recommendations for avoiding data leakage in neural decoding."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "데이터 누출이 AI\n뇌 해독 결과를 왜곡",
+          "body": "전처리와 교차검증의 누출은 머신러닝 뇌 해독 정확도를 부풀리거나 깎을 수 있다.",
+          "mini_headline": "누출이 뇌 해독을 왜곡한다",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "신경 해독은 행동·지각·인지가 신경 활동에 어떻게 표상되는지 연구하는 데 널리 쓰이는 머신러닝 기법이다. 하지만 조심해서 쓰지 않으면 테스트 세트의 정보가 훈련 세트에 섞여 드는 데이터 누출이 생길 수 있다. 그러면 해독 성능 추정이 한쪽으로 치우치고, 생물학적 결론까지 무너질 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "우리는 차원 축소를 비롯해 흔히 쓰는 지도·비지도 전처리 단계가 신경 해독 연구에 누출을 끌어들일 수 있음을 보인다. 경우에 따라 누출이 오히려 편향 없는 추정치보다 해독 성능을 낮추기도 하는데, 그 까닭은 이론 분석으로 설명한다. 자기상관이 있는 신경 시계열이라면 무작위 k-fold 교차검증이 해독 성능을 크게 부풀릴 수 있다는 점도 보인다. 이를 근거로 신경 해독에서 데이터 누출을 피하는 구체적인 권고안을 내놓는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "データ漏洩が\nAI脳デコード結果を歪めうる",
+          "body": "前処理や交差検証での漏洩は、機械学習による脳デコード精度を過大にも過小にも見せうる。",
+          "mini_headline": "漏洩が脳デコードを歪める",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "ニューラルデコーディングは、行動、知覚、認知が神経活動にどう表現されているかを調べるために広く使われる機械学習の手法である。しかし慎重に適用しなければ、テストセットの情報が訓練セットに混入するデータ漏洩が起こりうる。その結果、デコーディング性能の推定に偏りが生じ、生物学的な結論が無効になるおそれがある。"
+              },
+              {
+                "t": "p",
+                "x": "本研究では、次元削減を含む一般的な教師あり・教師なしの前処理によって、ニューラルデコーディング研究に漏洩が持ち込まれうることを示す。場合によっては漏洩が逆説的に、偏りのない推定値よりもデコーディング性能を低下させることを明らかにし、その仕組みを説明する理論的分析を示す。また、自己相関を持つ神経時系列では、ランダムなk-fold交差検証がデコーディング性能を大幅に過大評価しうることも示す。これらの結果に基づき、ニューラルデコーディングでデータ漏洩を避けるための詳細な推奨事項を提示する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "数据泄漏可能扭曲\nAI脑解码结果",
+          "body": "预处理与交叉验证中的数据泄漏，可能高估也可能低估机器学习脑解码准确率。",
+          "mini_headline": "泄漏扭曲脑解码",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "神经解码是一种被广泛使用的机器学习技术，用于研究行为、知觉和认知如何在神经活动中得到表征。然而，若应用不当，就可能发生数据泄漏，即测试集的信息污染训练集，导致对解码性能的估计出现偏差，并可能使生物学结论失效。"
+              },
+              {
+                "t": "p",
+                "x": "我们表明，包括降维在内的常见有监督和无监督预处理步骤，都可能在神经解码研究中引入泄漏。我们发现，在某些情况下，泄漏反而会使解码性能低于无偏估计，并给出了解释其成因的理论分析。我们还表明，对于具有自相关的神经时间序列，随机k-fold交叉验证可能大幅高估解码性能。基于这些发现，我们为避免神经解码中的数据泄漏提供了详细建议。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Fugas de datos pueden sesgar la\ndecodificación cerebral con AI",
+          "body": "Las fugas en preprocesamiento y validación cruzada pueden inflar o reducir la precisión de decodificación cerebral.",
+          "mini_headline": "Las fugas sesgan la decodificación cerebral",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "La decodificación neural es una técnica de aprendizaje automático muy utilizada para investigar cómo se representan el comportamiento, la percepción y la cognición en la actividad neural. Sin embargo, si no se aplica con cuidado, puede producirse una fuga de datos, en la que información del conjunto de prueba contamina el conjunto de entrenamiento, lo que sesga las estimaciones del rendimiento de decodificación y puede invalidar conclusiones biológicas."
+              },
+              {
+                "t": "p",
+                "x": "Aquí mostramos que en los estudios de decodificación neural pueden introducirse fugas mediante pasos habituales de preprocesamiento supervisado y no supervisado, incluida la reducción de dimensionalidad. Revelamos que, en algunos casos, la fuga puede reducir paradójicamente el rendimiento de decodificación respecto a las estimaciones no sesgadas, y aportamos análisis teóricos que explican cómo ocurre. También mostramos que, en series temporales neurales autocorrelacionadas, la validación cruzada k-fold aleatoria puede sobrestimar drásticamente el rendimiento de decodificación. A partir de estos hallazgos, ofrecemos recomendaciones detalladas para evitar la fuga de datos en la decodificación neural."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "데이터 누출이 AI\n뇌 해독 결과를 왜곡",
+          "body": "전처리와 교차검증의 누출은 머신러닝 뇌 해독 정확도를 부풀리거나 깎을 수 있다.",
+          "mini_headline": "누출이 뇌 해독을 왜곡한다",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "신경 해독은 행동·지각·인지가 신경 활동에 어떻게 표상되는지 연구하는 데 널리 쓰이는 머신러닝 기법이다. 그러나 신중하게 적용하지 않으면 테스트 세트의 정보가 훈련 세트를 오염시키는 데이터 누출이 생길 수 있다. 이는 해독 성능을 편향되게 추정하게 만들고, 생물학적 결론을 무효로 만들 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "우리는 차원 축소를 포함해 흔히 쓰는 지도·비지도 전처리 단계가 신경 해독 연구에 누출을 끌어들일 수 있음을 보인다. 일부 경우에는 누출이 역설적으로 편향 없는 추정치보다 해독 성능을 낮출 수 있음을 밝히고, 이런 일이 일어나는 이유를 설명하는 이론적 분석을 제시한다. 또 자기상관이 있는 신경 시계열에서는 무작위 k-fold 교차검증이 해독 성능을 크게 부풀릴 수 있음을 보인다. 이 결과를 바탕으로 신경 해독에서 데이터 누출을 피하기 위한 구체적인 권고안을 제시한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "データ漏洩が\nAI脳デコード結果を歪めうる",
+          "body": "前処理や交差検証での漏洩は、機械学習による脳デコード精度を過大にも過小にも見せうる。",
+          "mini_headline": "漏洩が脳デコードを歪める",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "ニューラルデコーディングは、行動、知覚、認知が神経活動にどう表現されているかを調べるために広く使われる機械学習の手法である。しかし慎重に適用しなければ、テストセットの情報が訓練セットに混入するデータ漏洩が起こりうる。その結果、デコーディング性能の推定に偏りが生じ、生物学的な結論が無効になるおそれがある。"
+              },
+              {
+                "t": "p",
+                "x": "本研究では、次元削減を含む一般的な教師あり・教師なしの前処理によって、ニューラルデコーディング研究に漏洩が持ち込まれうることを示す。場合によっては漏洩が逆説的に、偏りのない推定値よりもデコーディング性能を低下させることを明らかにし、その仕組みを説明する理論的分析を示す。また、自己相関を持つ神経時系列では、ランダムなk-fold交差検証がデコーディング性能を大幅に過大評価しうることも示す。これらの結果に基づき、ニューラルデコーディングでデータ漏洩を避けるための詳細な推奨事項を提示する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "数据泄漏可能扭曲\nAI脑解码结果",
+          "body": "预处理与交叉验证中的数据泄漏，可能高估也可能低估机器学习脑解码准确率。",
+          "mini_headline": "泄漏扭曲脑解码",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "神经解码是一种被广泛使用的机器学习技术，用于研究行为、知觉和认知如何在神经活动中得到表征。然而，若应用不当，就可能发生数据泄漏，即测试集的信息污染训练集，导致对解码性能的估计出现偏差，并可能使生物学结论失效。"
+              },
+              {
+                "t": "p",
+                "x": "我们表明，包括降维在内的常见有监督和无监督预处理步骤，都可能在神经解码研究中引入泄漏。我们发现，在某些情况下，泄漏反而会使解码性能低于无偏估计，并给出了解释其成因的理论分析。我们还表明，对于具有自相关的神经时间序列，随机k-fold交叉验证可能大幅高估解码性能。基于这些发现，我们为避免神经解码中的数据泄漏提供了详细建议。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Fugas de datos pueden sesgar la\ndecodificación cerebral con AI",
+          "body": "Las fugas en preprocesamiento y validación cruzada pueden inflar o reducir la precisión de decodificación cerebral.",
+          "mini_headline": "Las fugas sesgan la decodificación cerebral",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "La decodificación neural es una técnica de aprendizaje automático muy utilizada para investigar cómo se representan el comportamiento, la percepción y la cognición en la actividad neural. Sin embargo, si no se aplica con cuidado, puede producirse una fuga de datos, en la que información del conjunto de prueba contamina el conjunto de entrenamiento, lo que sesga las estimaciones del rendimiento de decodificación y puede invalidar conclusiones biológicas."
+              },
+              {
+                "t": "p",
+                "x": "Aquí mostramos que en los estudios de decodificación neural pueden introducirse fugas mediante pasos habituales de preprocesamiento supervisado y no supervisado, incluida la reducción de dimensionalidad. Revelamos que, en algunos casos, la fuga puede reducir paradójicamente el rendimiento de decodificación respecto a las estimaciones no sesgadas, y aportamos análisis teóricos que explican cómo ocurre. También mostramos que, en series temporales neurales autocorrelacionadas, la validación cruzada k-fold aleatoria puede sobrestimar drásticamente el rendimiento de decodificación. A partir de estos hallazgos, ofrecemos recomendaciones detalladas para evitar la fuga de datos en la decodificación neural."
               }
             ]
           }

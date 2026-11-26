@@ -13142,6 +13142,133 @@
           "yt": "1nVgFoCTBD4"
         }
       ]
+    },
+    "gadgets/hp-omnibook-ultra16-rtxspark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+          "cap": "HP“OmniBook Ultra 16”"
+        },
+        {
+          "t": "p",
+          "x": "HP Korea于24日在韩国推出专为高性能人工智能（AI）任务打造的笔记本电脑“HP OmniBook Ultra 16”。"
+        },
+        {
+          "t": "p",
+          "x": "HP OmniBook Ultra 16搭载NVIDIA“RTX Spark N1X”平台，配备20核Grace中央处理器（CPU）、6144核Blackwell图形处理器（GPU）以及最高128GB 统一内存。"
+        },
+        {
+          "t": "p",
+          "x": "无需连接云端即可运行大规模AI模型，并支持可自动执行数据分析、代码编写等多步骤任务的AI智能体。也可用于高分辨率视频剪辑、三维（3D）内容制作和高配置游戏。"
+        },
+        {
+          "t": "p",
+          "x": "预装Windows 11 Pro，提供数据加密、虚拟化、远程访问等专业工作所需的功能。配备16英寸3K 有机发光二极管（OLED）触控屏，搭载99瓦时（Wh）电池，最长可使用17小时。"
+        },
+        {
+          "t": "p",
+          "x": "还针对长时间高负载任务强化了散热系统。作为首款采用“Tower Hinge and Trunk”结构的HP消费级笔记本电脑，它提升了气流和散热效率。在韩国购买的用户可享受3年免费保修服务。"
+        },
+        {
+          "t": "p",
+          "x": "HP Korea总裁Kang Yong-nam表示：“随着AI从简单的问答演进为以支持创作与工作的智能体为中心，PC的角色正在扩展为运行和开发此类AI工作流程的平台。”"
+        },
+        {
+          "t": "p",
+          "x": "他补充说：“韩国用户将通过OmniBook Ultra 16体验与AI一起工作和创作的新方式。”"
+        }
+      ]
+    },
+    "gadgets/usc-stress-ring-ondevice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "由University of Southern California（南加州大学）助理教授Yasser Khan及其PhD学生Farhad Hassan领导的团队，打造了一款AI-powered（AI驱动）戒指，利用近红外光追踪皮下汗液活动。研究成果发表在Science Advances上。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+          "cap": "USC Khan Lab"
+        },
+        {
+          "t": "p",
+          "x": "Khan说：“这是第一次有人证明压力可以用光来测量。”在四名参与者的实验中，光学信号与商用凝胶式EDA传感器随时间的平均一致性为86%。同一光学系统还能捕捉心率和心率变异性。温度传感器和加速度计帮助戒指将心理压力与运动或受热引起的出汗区分开来。"
+        },
+        {
+          "t": "p",
+          "x": "机器学习模型直接在戒指上运行，因此原始生物特征数据无需传输到外部服务器。团队写道：“量化后的INT8模型占用27.65 kB。同时实现感知与推理需要174.47 kB 程序闪存和27.63 kB 静态RAM。”戒指在本地处理数据，只把“紧张”或“放松”等最终判断发送到配对的手机。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+          "cap": "Science Advances / USC"
+        },
+        {
+          "t": "p",
+          "x": "Khan计划在办公环境中对40名参与者开展为期一年的跟踪研究。该技术正在申请专利，日后可能通过USC的Stevens Center for Innovation提供商业授权。"
+        }
+      ]
+    },
+    "gadgets/meta-glasses-south-africa-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
+        },
+        {
+          "t": "p",
+          "x": "Essilor Luxottica与Meta将从十一月底起把Ray-Ban Meta和Oakley Meta智能眼镜系列引入南非，向当地消费者推出AI-powered（AI驱动）可穿戴技术这一新品类。"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta系列将以第三代产品登场，包括Wayfarer、Aviator和Zena款式。佩戴者可以拍摄照片和视频、收听音乐和播客、拨打电话、发送消息以及翻译对话。内置的Meta AI功能还允许用户通过语音指令询问眼前所见之物。"
+        },
+        {
+          "t": "p",
+          "x": "Oakley Meta系列面向运动和户外使用。HSTN配备3K Ultra HD摄像头和开放式扬声器，并具备IPX4 防护等级。专为跑步和骑行设计的Vanguard配备视场角122度的12MP 超广角摄像头，具备IP67 防护等级，并可与Strava和Garmin集成。"
+        },
+        {
+          "t": "p",
+          "x": "该系列将通过部分Essilor Luxottica眼镜零售合作伙伴、Oakley门店和线上渠道销售。建议入门价格：Ray-Ban Meta Optics (Gen 2) R8,999；Ray-Ban Meta (Gen 3) R8,599；Oakley Meta Vanguard R10,599；Oakley Meta HSTN R8,399。"
+        }
+      ]
+    },
+    "gadgets/savage-orrorin-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "香港初创公司Savage Technology发布首款产品“Orrorin Glasses”，在仅重45克的镜框中提供Vision Pro-style捏合操控和双眼全彩显示屏。"
+        },
+        {
+          "t": "p",
+          "x": "该公司称这款眼镜提供“Vision Pro–level interaction”（Vision Pro级交互），比含外置电池的Apple头显轻约25倍，但Orrorin的功能要少得多。"
+        },
+        {
+          "t": "p",
+          "x": "Savage表示，用户只需在身体一侧做出细微的捏合动作，无需戒指、腕带或控制器即可操控界面。眼动追踪不像Vision Pro那样用于选择界面元素，而是在佩戴者移开视线时让显示内容淡出。"
+        },
+        {
+          "t": "p",
+          "x": "Meta Ray-Ban Display售价同为$799，但只有右眼有屏幕，并需搭配Neural Band腕带。Orrorin缺少位置追踪和空间映射，因此无法像Vision Pro那样把虚拟窗口固定在房间里。"
+        },
+        {
+          "t": "p",
+          "x": "Savage由Bill Pei和Elena Shi联合创立，目前仍处于工程验证阶段，主打第三方应用以及与Claude Code、Codex等AI智能体的交互，面向开发者。"
+        },
+        {
+          "t": "p",
+          "x": "Orrorin预订金$29起，可抵扣$799售价。Savage预计Founder Edition买家将于2027年3月开始收到发货，Early Bird买家则为2027年5月。"
+        }
+      ]
     }
   }
 }

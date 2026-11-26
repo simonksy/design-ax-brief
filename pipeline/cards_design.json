@@ -1,17 +1,389 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "design",
   "cards": [
     {
-      "id": "nomic-cad-drafting-agent",
+      "id": "ming-image-design-rgba",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Nomic AI 에이전트가\n편집형 CAD 도면 그린다",
-      "body": "Nomic 에이전트가 자연어 요청을 CAD 표준 DWG/DXF와 PDF로 그린다.",
-      "mini_headline": "Nomic 에이전트가 CAD 제도",
+      "headline": "Ming-Image 0.2\n디자인을 RGBA 레이어로",
+      "body": "inclusionAI의 6B 오픈 모델이 디자인을 글자까지 투명 레이어로 쪼갠다.",
+      "mini_headline": "Ming-Image, 디자인을 레이어로 분리",
+      "tool": "KeyShot",
+      "source": "Hugging Face (inclusionAI)",
+      "url": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Ming-Image-0.2-Design이 업그레이드를 거쳐 오픈소스로 나왔다. 복잡한 구도와 조명, 텍스트 렌더링이 나아졌고 이커머스 히어로 이미지나 UI 디자인 시안, 공간 렌더링 제작에 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "이전 세대 레이어 분해 모델인 Ming-Image-0.1-Design-Layer도 이미 디자인 이미지를 투명 레이어로 나눴다. 이번에는 분해 단위를 글자까지 잘게 쪼개 후속 편집과 애니메이션에 쓸 에셋을 내준다. 웹 디자인 쪽에서는 Ming-Image-0.2-Design이 Ling-3.2-flash와 짝을 이뤄 디자인 콘셉트를 인터랙티브 페이지로 옮긴다."
+          },
+          {
+            "t": "img",
+            "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+            "cap": "Ming-Image-0.2-Design은 AA-Image-T2I v2.1 오픈 웨이트 종합 리더보드에서 선두에 올랐다"
+          },
+          {
+            "t": "p",
+            "x": "예비 평가에서 Ming은 Artificial Analysis 텍스트-이미지 종합 리더보드의 오픈 웨이트 모델 가운데 선두에 섰다(2026년 11월 25일 기준). 6B(DiT) 모델은 기본 해상도 2048 × 2048, 샘플링 스텝 12회로 돌아가고 80 GiB VRAM을 갖춘 CUDA GPU 한 대에서 검증을 마쳤다."
+          },
+          {
+            "t": "img",
+            "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+            "cap": "웹 디자인 예시. 여러 섹션으로 짠 레이아웃에 시각 스타일이 고르게 이어진다."
+          },
+          {
+            "t": "p",
+            "x": "모델은 MIT License로 풀렸다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Ming-Image 0.2 splits designs\ninto editable RGBA layers",
+          "body": "inclusionAI's open 6B model drafts design images and breaks them into transparent layers down to single characters.",
+          "mini_headline": "Ming-Image splits designs into layers",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "This release upgrades and open-sources Ming-Image-0.2-Design. The new version improves complex composition, lighting, and text rendering, and can be used to create e-commerce hero images, UI design drafts, and spatial renderings."
+              },
+              {
+                "t": "p",
+                "x": "The previous-generation layer decomposition model, Ming-Image-0.1-Design-Layer, already separates design images into transparent layers. This upgrade further refines decomposition down to character parts, providing assets for downstream editing and animation. For web design, Ming-Image-0.2-Design works with Ling-3.2-flash to turn design concepts into interactive pages."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+                "cap": "Ming-Image-0.2-Design ranked first on the AA-Image-T2I v2.1 overall open-weights leaderboard"
+              },
+              {
+                "t": "p",
+                "x": "Preliminary evaluation results show Ming ranks first among open-weight models on the overall Artificial Analysis text-to-image leaderboard (as of Nov 25, 2026). The 6B (DiT) model runs at 2048 × 2048 by default with 12 sampling steps, validated on one CUDA GPU with 80 GiB VRAM."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+                "cap": "Web design: multi-section layouts and a cohesive visual style."
+              },
+              {
+                "t": "p",
+                "x": "The model is released under the MIT License."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Ming-Image 0.2\n디자인을 RGBA 레이어로",
+          "body": "inclusionAI의 6B 오픈 모델이 디자인을 글자까지 투명 레이어로 쪼갠다.",
+          "mini_headline": "Ming-Image, 디자인을 레이어로 분리",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Ming-Image-0.2-Design이 업그레이드를 거쳐 오픈소스로 나왔다. 복잡한 구도와 조명, 텍스트 렌더링이 나아졌고 이커머스 히어로 이미지나 UI 디자인 시안, 공간 렌더링 제작에 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이전 세대 레이어 분해 모델인 Ming-Image-0.1-Design-Layer도 이미 디자인 이미지를 투명 레이어로 나눴다. 이번에는 분해 단위를 글자까지 잘게 쪼개 후속 편집과 애니메이션에 쓸 에셋을 내준다. 웹 디자인 쪽에서는 Ming-Image-0.2-Design이 Ling-3.2-flash와 짝을 이뤄 디자인 콘셉트를 인터랙티브 페이지로 옮긴다."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+                "cap": "Ming-Image-0.2-Design은 AA-Image-T2I v2.1 오픈 웨이트 종합 리더보드에서 선두에 올랐다"
+              },
+              {
+                "t": "p",
+                "x": "예비 평가에서 Ming은 Artificial Analysis 텍스트-이미지 종합 리더보드의 오픈 웨이트 모델 가운데 선두에 섰다(2026년 11월 25일 기준). 6B(DiT) 모델은 기본 해상도 2048 × 2048, 샘플링 스텝 12회로 돌아가고 80 GiB VRAM을 갖춘 CUDA GPU 한 대에서 검증을 마쳤다."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+                "cap": "웹 디자인 예시. 여러 섹션으로 짠 레이아웃에 시각 스타일이 고르게 이어진다."
+              },
+              {
+                "t": "p",
+                "x": "모델은 MIT License로 풀렸다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Ming-Image 0.2\nRGBAレイヤーへ分解",
+          "body": "inclusionAIの6B オープンモデルはデザインを文字単位の透明レイヤーに分ける。",
+          "mini_headline": "Ming-Image、デザインをレイヤー分解",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "今回のリリースでは Ming-Image-0.2-Design をアップグレードし、オープンソース化した。新バージョンは複雑な構図、ライティング、テキストレンダリングを改善し、通販サイト向けのヒーロー画像、UIデザイン案、空間レンダリングの制作に使える。"
+              },
+              {
+                "t": "p",
+                "x": "前世代のレイヤー分解モデル Ming-Image-0.1-Design-Layer は、すでにデザイン画像を透明レイヤーに分離できた。今回のアップグレードでは分解を文字パーツ単位まで細分化し、後工程の編集やアニメーションに使える素材を提供する。ウェブデザインでは、Ming-Image-0.2-Design が Ling-3.2-flash と連携し、デザインコンセプトをインタラクティブなページに変える。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+                "cap": "Ming-Image-0.2-Design は AA-Image-T2I v2.1 のオープンウェイト総合リーダーボードで首位となった"
+              },
+              {
+                "t": "p",
+                "x": "予備評価の結果、Ming は Artificial Analysis のテキストから画像を生成する総合リーダーボードで、オープンウェイトモデルの中で首位に立った（2026年11月25日時点）。6B (DiT) モデルは標準で 2048 × 2048、サンプリング 12 ステップで動作し、80 GiB VRAM を備えた CUDA GPU 一基で検証済みだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+                "cap": "ウェブデザイン：複数セクションのレイアウトと統一感のあるビジュアルスタイル。"
+              },
+              {
+                "t": "p",
+                "x": "モデルは MIT License で公開されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ming-Image 0.2\n设计拆成可编辑RGBA图层",
+          "body": "inclusionAI的开源6B 模型可生成设计图，并将其拆分为细至单个字符的透明图层。",
+          "mini_headline": "Ming-Image 将设计拆为图层",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "此次发布升级并开源了 Ming-Image-0.2-Design。新版本改进了复杂构图、光影和文字渲染，可用于制作电商主图、UI 设计稿和空间效果图。"
+              },
+              {
+                "t": "p",
+                "x": "上一代图层拆分模型 Ming-Image-0.1-Design-Layer 已能将设计图拆分为透明图层。此次升级进一步将拆分细化到字符部件，为后续编辑和动画提供素材。在网页设计方面，Ming-Image-0.2-Design 可与 Ling-3.2-flash 配合，将设计概念转化为可交互页面。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+                "cap": "Ming-Image-0.2-Design 在 AA-Image-T2I v2.1 开放权重综合排行榜上位居榜首"
+              },
+              {
+                "t": "p",
+                "x": "初步评测结果显示，Ming 在 Artificial Analysis 文生图综合排行榜的开放权重模型中位列榜首（截至2026年11月25日）。这款 6B (DiT) 模型默认以 2048 × 2048 分辨率、12 个采样步数运行，已在一块配备 80 GiB VRAM 的 CUDA GPU 上完成验证。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+                "cap": "网页设计：多版块布局与统一的视觉风格。"
+              },
+              {
+                "t": "p",
+                "x": "该模型以 MIT License 发布。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ming-Image 0.2 separa diseños\nen capas RGBA editables",
+          "body": "El modelo abierto 6B de inclusionAI crea imágenes de diseño y las divide en capas transparentes hasta cada carácter.",
+          "mini_headline": "Ming-Image separa diseños en capas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Esta versión actualiza y libera como código abierto Ming-Image-0.2-Design. La nueva versión mejora la composición compleja, la iluminación y el renderizado de texto, y sirve para crear imágenes principales de comercio electrónico, borradores de diseño de UI y renders espaciales."
+              },
+              {
+                "t": "p",
+                "x": "El modelo de descomposición en capas de la generación anterior, Ming-Image-0.1-Design-Layer, ya separa imágenes de diseño en capas transparentes. Esta actualización afina la descomposición hasta partes de caracteres y aporta recursos para la edición y la animación posteriores. En diseño web, Ming-Image-0.2-Design trabaja con Ling-3.2-flash para convertir conceptos de diseño en páginas interactivas."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+                "cap": "Ming-Image-0.2-Design ocupó el primer puesto en la clasificación general de pesos abiertos AA-Image-T2I v2.1"
+              },
+              {
+                "t": "p",
+                "x": "Los resultados preliminares muestran que Ming ocupa el primer lugar entre los modelos de pesos abiertos en la clasificación general de texto a imagen de Artificial Analysis (a 25 de noviembre de 2026). El modelo de 6B (DiT) funciona por defecto a 2048 × 2048 con 12 pasos de muestreo y se validó en una GPU CUDA con 80 GiB de VRAM."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+                "cap": "Diseño web: maquetaciones de varias secciones y un estilo visual coherente."
+              },
+              {
+                "t": "p",
+                "x": "El modelo se publica bajo la MIT License."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Ming-Image 0.2\n디자인을 RGBA 레이어로",
+          "body": "inclusionAI의 6B 오픈 모델은 디자인을 글자까지 투명 레이어로 나눈다.",
+          "mini_headline": "Ming-Image, 디자인을 레이어로 분리",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "이번 릴리스는 Ming-Image-0.2-Design을 업그레이드해 오픈소스로 공개한다. 새 버전은 복잡한 구도와 조명, 텍스트 렌더링을 개선했으며 이커머스 히어로 이미지, UI 디자인 시안, 공간 렌더링 제작에 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이전 세대 레이어 분해 모델인 Ming-Image-0.1-Design-Layer는 이미 디자인 이미지를 투명 레이어로 분리했다. 이번 업그레이드는 분해 단위를 글자 부분까지 세분화해 후속 편집과 애니메이션에 쓸 에셋을 제공한다. 웹 디자인에서는 Ming-Image-0.2-Design이 Ling-3.2-flash와 함께 디자인 콘셉트를 인터랙티브 페이지로 바꾼다."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+                "cap": "Ming-Image-0.2-Design은 AA-Image-T2I v2.1 오픈 웨이트 종합 리더보드에서 선두에 올랐다"
+              },
+              {
+                "t": "p",
+                "x": "예비 평가 결과 Ming은 Artificial Analysis 텍스트-이미지 종합 리더보드에서 오픈 웨이트 모델 가운데 선두를 차지했다(2026년 11월 25일 기준). 6B(DiT) 모델은 기본 2048 × 2048 해상도와 샘플링 스텝 12회로 작동하며, 80 GiB VRAM을 갖춘 CUDA GPU 한 대에서 검증됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+                "cap": "웹 디자인: 여러 섹션으로 된 레이아웃과 일관된 시각 스타일."
+              },
+              {
+                "t": "p",
+                "x": "모델은 MIT License로 공개됐다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Ming-Image 0.2\nRGBAレイヤーへ分解",
+          "body": "inclusionAIの6B オープンモデルはデザインを文字単位の透明レイヤーに分ける。",
+          "mini_headline": "Ming-Image、デザインをレイヤー分解",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "今回のリリースでは Ming-Image-0.2-Design をアップグレードし、オープンソース化した。新バージョンは複雑な構図、ライティング、テキストレンダリングを改善し、通販サイト向けのヒーロー画像、UIデザイン案、空間レンダリングの制作に使える。"
+              },
+              {
+                "t": "p",
+                "x": "前世代のレイヤー分解モデル Ming-Image-0.1-Design-Layer は、すでにデザイン画像を透明レイヤーに分離できた。今回のアップグレードでは分解を文字パーツ単位まで細分化し、後工程の編集やアニメーションに使える素材を提供する。ウェブデザインでは、Ming-Image-0.2-Design が Ling-3.2-flash と連携し、デザインコンセプトをインタラクティブなページに変える。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+                "cap": "Ming-Image-0.2-Design は AA-Image-T2I v2.1 のオープンウェイト総合リーダーボードで首位となった"
+              },
+              {
+                "t": "p",
+                "x": "予備評価の結果、Ming は Artificial Analysis のテキストから画像を生成する総合リーダーボードで、オープンウェイトモデルの中で首位に立った（2026年11月25日時点）。6B (DiT) モデルは標準で 2048 × 2048、サンプリング 12 ステップで動作し、80 GiB VRAM を備えた CUDA GPU 一基で検証済みだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+                "cap": "ウェブデザイン：複数セクションのレイアウトと統一感のあるビジュアルスタイル。"
+              },
+              {
+                "t": "p",
+                "x": "モデルは MIT License で公開されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ming-Image 0.2\n设计拆成可编辑RGBA图层",
+          "body": "inclusionAI的开源6B 模型可生成设计图，并将其拆分为细至单个字符的透明图层。",
+          "mini_headline": "Ming-Image 将设计拆为图层",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "此次发布升级并开源了 Ming-Image-0.2-Design。新版本改进了复杂构图、光影和文字渲染，可用于制作电商主图、UI 设计稿和空间效果图。"
+              },
+              {
+                "t": "p",
+                "x": "上一代图层拆分模型 Ming-Image-0.1-Design-Layer 已能将设计图拆分为透明图层。此次升级进一步将拆分细化到字符部件，为后续编辑和动画提供素材。在网页设计方面，Ming-Image-0.2-Design 可与 Ling-3.2-flash 配合，将设计概念转化为可交互页面。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+                "cap": "Ming-Image-0.2-Design 在 AA-Image-T2I v2.1 开放权重综合排行榜上位居榜首"
+              },
+              {
+                "t": "p",
+                "x": "初步评测结果显示，Ming 在 Artificial Analysis 文生图综合排行榜的开放权重模型中位列榜首（截至2026年11月25日）。这款 6B (DiT) 模型默认以 2048 × 2048 分辨率、12 个采样步数运行，已在一块配备 80 GiB VRAM 的 CUDA GPU 上完成验证。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+                "cap": "网页设计：多版块布局与统一的视觉风格。"
+              },
+              {
+                "t": "p",
+                "x": "该模型以 MIT License 发布。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ming-Image 0.2 separa diseños\nen capas RGBA editables",
+          "body": "El modelo abierto 6B de inclusionAI crea imágenes de diseño y las divide en capas transparentes hasta cada carácter.",
+          "mini_headline": "Ming-Image separa diseños en capas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Esta versión actualiza y libera como código abierto Ming-Image-0.2-Design. La nueva versión mejora la composición compleja, la iluminación y el renderizado de texto, y sirve para crear imágenes principales de comercio electrónico, borradores de diseño de UI y renders espaciales."
+              },
+              {
+                "t": "p",
+                "x": "El modelo de descomposición en capas de la generación anterior, Ming-Image-0.1-Design-Layer, ya separa imágenes de diseño en capas transparentes. Esta actualización afina la descomposición hasta partes de caracteres y aporta recursos para la edición y la animación posteriores. En diseño web, Ming-Image-0.2-Design trabaja con Ling-3.2-flash para convertir conceptos de diseño en páginas interactivas."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+                "cap": "Ming-Image-0.2-Design ocupó el primer puesto en la clasificación general de pesos abiertos AA-Image-T2I v2.1"
+              },
+              {
+                "t": "p",
+                "x": "Los resultados preliminares muestran que Ming ocupa el primer lugar entre los modelos de pesos abiertos en la clasificación general de texto a imagen de Artificial Analysis (a 25 de noviembre de 2026). El modelo de 6B (DiT) funciona por defecto a 2048 × 2048 con 12 pasos de muestreo y se validó en una GPU CUDA con 80 GiB de VRAM."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+                "cap": "Diseño web: maquetaciones de varias secciones y un estilo visual coherente."
+              },
+              {
+                "t": "p",
+                "x": "El modelo se publica bajo la MIT License."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gstar3d-cloud-cad",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "모두솔루션 지스타3D\n말과 도면으로 3D 설계",
+      "body": "자연어 명령이나 도면 이미지로 피처 히스토리를 갖춘 3D 모델을 만든다.",
+      "mini_headline": "지스타3D, 말로 3D 설계",
       "tool": "Text-to-CAD",
-      "source": "AEC Magazine",
-      "url": "https://aecmag.com/cad/nomic-extends-ai-agents-into-cad-drafting-and-bim/",
+      "source": "etnews",
+      "url": "https://www.etnews.com/20261126000198",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,335 +391,335 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
+            "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
           },
           {
             "t": "p",
-            "x": "AEC 업계용 AI-powered 도면 검토 소프트웨어를 만드는 Nomic이 플랫폼에 CAD 자동 제도 기능을 더했다. 원하는 도면을 자연어로 설명하거나 고칠 기존 도면을 넣으면 AI 에이전트가 편집 가능한 CAD 파일과 검토용 PDF 출력본을 함께 돌려준다."
+            "x": "CAD·제품수명주기관리(PLM) 솔루션 전문기업 모두솔루션(대표 정충구)이 수원컨벤션센터에서 열린 '제8회 국제 스마트제조·AI 기술전(SMATEC 2026)'에 참가해 클라우드 기반 3D CAD 솔루션 '지스타3D(Gstar3D)'를 비롯한 설계·협업 솔루션을 소개했다. 이번 전시에서는 정식 출시를 앞둔 지스타3D의 자연어·이미지 기반 모델링 기능이 주목받았다."
           },
           {
             "t": "p",
-            "x": "기존 도면 예시나 회사 표제란을 주면 Nomic은 레이어, 선 굵기, 해칭, 블록, 텍스트·치수 스타일 같은 기존 CAD 표준에 맞춰 도면을 그린다. 소프트웨어는 DWG, DXF, DGN 형식을 지원한다."
+            "x": "지스타3D는 별도 소프트웨어 설치 없이 웹 브라우저에서 3D 모델링과 설계 데이터 관리, 협업을 수행할 수 있다. 사용자가 자연어로 명령하거나 JPG·PNG 형식의 도면 이미지 파일을 입력하면 3D 모델을 생성할 수 있다. 생성된 모델에는 설계 형상과 수정 과정을 관리하는 피처 히스토리(Feature History)가 구성되며 STEP 등 표준 3D CAD 파일 형식으로 내보낼 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
           },
           {
             "t": "p",
-            "x": "에이전트는 도면 검토 의견서를 읽고 해당 도면을 고친 뒤 바뀐 부분에 리비전 클라우드를 자동으로 그려 넣는다. 수정할 때마다 새 버전으로 저장하므로 원본 파일은 그대로 남는다. 단계마다 도면을 렌더링해 글자 겹침이나 주석 위치 오류 같은 문제도 잡아낸다."
+            "x": "전시 현장에서는 한 참관객이 도면 이미지로 3D 모델을 생성한 후 STEP 파일로 변환한 결과물을 가져가기도 했다. 모두솔루션은 '얼리 유저(Early User)' 프로그램으로 최대 100명에게 1년 무료 사용권을 제공하고, 수집한 의견을 제품 개선과 사용자 지원에 반영할 계획이다."
           },
           {
             "t": "p",
-            "x": "Nomic은 Autodesk Revit과 AutoCAD용 애드인도 배포한다. Revit에서는 덕트와 구조 프레임 사이 간섭을 찾아 일부를 해결하고, AutoCAD에서는 열린 도면에 상세도를 그리거나 수정 사항을 반영한다. 어느 쪽이든 사람이 승인해야 변경이 적용된다."
-          },
-          {
-            "t": "p",
-            "x": "Nomic의 제도 기능은 지금 바로 쓸 수 있다. Revit과 AutoCAD 애드인은 현재 고객에게 차례로 배포되고 있다."
+            "x": "이와 함께 2D CAD '지스타캐드(GstarCAD)', 도면 공유·협업 플랫폼 '지스타CAD 365', 3D CAD 파일 뷰어 '3D FastView'와 PTC의 '크레오(Creo)'·'윈칠(Windchill)'도 소개했다. 모두솔루션 관계자는 “사용자 의견을 반영해 국내 설계 환경에 적합한 솔루션을 지속적으로 제공하겠다”고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Nomic's AI agents now draft\neditable CAD drawings",
-          "body": "Nomic's agent turns a plain-language request into an editable DWG/DXF file and PDF that follows company CAD standards.",
-          "mini_headline": "Nomic agents draft CAD",
+        "ko": {
+          "headline": "모두솔루션 지스타3D\n말과 도면으로 3D 설계",
+          "body": "자연어 명령이나 도면 이미지로 피처 히스토리를 갖춘 3D 모델을 만든다.",
+          "mini_headline": "지스타3D, 말로 3D 설계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "Nomic, the developer of AI-powered drawing review software for the AEC industry, has extended its platform to include automated CAD drafting. Users can describe a drawing in natural language or supply an existing drawing for revision, with the AI agent returning an editable CAD file together with a plotted PDF for review."
+                "x": "CAD·제품수명주기관리(PLM) 솔루션 전문기업 모두솔루션(대표 정충구)이 수원컨벤션센터에서 열린 '제8회 국제 스마트제조·AI 기술전(SMATEC 2026)'에 참가해 클라우드 기반 3D CAD 솔루션 '지스타3D(Gstar3D)'를 비롯한 설계·협업 솔루션을 소개했다. 이번 전시에서는 정식 출시를 앞둔 지스타3D의 자연어·이미지 기반 모델링 기능이 주목받았다."
               },
               {
                 "t": "p",
-                "x": "By supplying examples of existing drawings or a company title block, users can instruct Nomic to generate drawings that adhere to established CAD standards, including layers, line weights, hatching, blocks, text and dimension styles. The software supports DWG, DXF and DGN."
+                "x": "지스타3D는 별도 소프트웨어 설치 없이 웹 브라우저에서 3D 모델링과 설계 데이터 관리, 협업을 수행할 수 있다. 사용자가 자연어로 명령하거나 JPG·PNG 형식의 도면 이미지 파일을 입력하면 3D 모델을 생성할 수 있다. 생성된 모델에는 설계 형상과 수정 과정을 관리하는 피처 히스토리(Feature History)가 구성되며 STEP 등 표준 3D CAD 파일 형식으로 내보낼 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
               },
               {
                 "t": "p",
-                "x": "The agent can interpret plan review letters, revise affected drawings and automatically add revision clouds to highlight changes. Each revision is saved as a new version, leaving the original file intact. It renders the drawing after each step to identify issues such as overlapping text and misplaced annotations."
+                "x": "전시 현장에서는 한 참관객이 도면 이미지로 3D 모델을 생성한 후 STEP 파일로 변환한 결과물을 가져가기도 했다. 모두솔루션은 '얼리 유저(Early User)' 프로그램으로 최대 100명에게 1년 무료 사용권을 제공하고, 수집한 의견을 제품 개선과 사용자 지원에 반영할 계획이다."
               },
               {
                 "t": "p",
-                "x": "Nomic is rolling out add-ins for Autodesk Revit and AutoCAD. In Revit, the agent can identify clashes between ductwork and structural framing and resolve some of those clashes; within AutoCAD, it can generate details or implement revisions in an open drawing. In both applications, changes require human approval before being implemented."
-              },
-              {
-                "t": "p",
-                "x": "Nomic's drafting capabilities are available now. The Revit and AutoCAD add-ins are currently being rolled out to customers."
+                "x": "이와 함께 2D CAD '지스타캐드(GstarCAD)', 도면 공유·협업 플랫폼 '지스타CAD 365', 3D CAD 파일 뷰어 '3D FastView'와 PTC의 '크레오(Creo)'·'윈칠(Windchill)'도 소개했다. 모두솔루션 관계자는 “사용자 의견을 반영해 국내 설계 환경에 적합한 솔루션을 지속적으로 제공하겠다”고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Nomic AI 에이전트가\n편집형 CAD 도면 그린다",
-          "body": "Nomic 에이전트가 자연어 요청을 CAD 표준 DWG/DXF와 PDF로 그린다.",
-          "mini_headline": "Nomic 에이전트가 CAD 제도",
+        "en": {
+          "headline": "Modusolution Gstar3D\n3D design from text and drawings",
+          "body": "The tool builds 3D models with feature history from natural-language commands or drawing images.",
+          "mini_headline": "Gstar3D designs 3D from words",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "AEC 업계용 AI-powered 도면 검토 소프트웨어를 만드는 Nomic이 플랫폼에 CAD 자동 제도 기능을 더했다. 원하는 도면을 자연어로 설명하거나 고칠 기존 도면을 넣으면 AI 에이전트가 편집 가능한 CAD 파일과 검토용 PDF 출력본을 함께 돌려준다."
+                "x": "Modusolution (CEO Jung Chung-gu), a company specializing in CAD and product lifecycle management (PLM) solutions, took part in the '8th International Smart Manufacturing & AI Technology Exhibition (SMATEC 2026)' at the Suwon Convention Center, where it presented design and collaboration solutions including its cloud-based 3D CAD solution 'Gstar3D'. At the show, the natural-language and image-based modeling features of Gstar3D, which is nearing its official launch, drew attention."
               },
               {
                 "t": "p",
-                "x": "기존 도면 예시나 회사 표제란을 주면 Nomic은 레이어, 선 굵기, 해칭, 블록, 텍스트·치수 스타일 같은 기존 CAD 표준에 맞춰 도면을 그린다. 소프트웨어는 DWG, DXF, DGN 형식을 지원한다."
+                "x": "Gstar3D lets users carry out 3D modeling, design data management and collaboration in a web browser without installing separate software. Users can generate a 3D model by giving natural-language commands or entering drawing image files in JPG or PNG format. Generated models include a Feature History that manages the design geometry and revision process, and can be exported to standard 3D CAD file formats such as STEP."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
               },
               {
                 "t": "p",
-                "x": "에이전트는 도면 검토 의견서를 읽고 해당 도면을 고친 뒤 바뀐 부분에 리비전 클라우드를 자동으로 그려 넣는다. 수정할 때마다 새 버전으로 저장하므로 원본 파일은 그대로 남는다. 단계마다 도면을 렌더링해 글자 겹침이나 주석 위치 오류 같은 문제도 잡아낸다."
+                "x": "At the exhibition, one visitor generated a 3D model from a drawing image, converted it to a STEP file and took the result home. Through its 'Early User' program, Modusolution plans to offer free 1-year licenses to up to 100 people and reflect the feedback it collects in product improvements and user support."
               },
               {
                 "t": "p",
-                "x": "Nomic은 Autodesk Revit과 AutoCAD용 애드인도 배포한다. Revit에서는 덕트와 구조 프레임 사이 간섭을 찾아 일부를 해결하고, AutoCAD에서는 열린 도면에 상세도를 그리거나 수정 사항을 반영한다. 어느 쪽이든 사람이 승인해야 변경이 적용된다."
-              },
-              {
-                "t": "p",
-                "x": "Nomic의 제도 기능은 지금 바로 쓸 수 있다. Revit과 AutoCAD 애드인은 현재 고객에게 차례로 배포되고 있다."
+                "x": "The company also introduced the 2D CAD 'GstarCAD', the drawing sharing and collaboration platform 'GstarCAD 365', the 3D CAD file viewer '3D FastView', and PTC's 'Creo' and 'Windchill'. \"We will reflect user feedback and keep providing solutions suited to the domestic design environment,\" a Modusolution official said."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NomicのAIエージェント\n編集可能なCAD図面を作成",
-          "body": "Nomicのエージェントは依頼から社内CAD標準の編集可能なDWG/DXFとPDFを作る。",
-          "mini_headline": "Nomicのエージェント、CADを製図",
+          "headline": "Gstar3D\n言葉と図面で3D設計",
+          "body": "自然言語の指示や図面画像から、フィーチャー履歴を備えた3Dモデルを作る。",
+          "mini_headline": "Gstar3D、言葉で3D設計",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "AEC業界向けにAI-poweredの図面レビューソフトを開発するNomicが、プラットフォームにCAD製図の自動化機能を加えた。ユーザーが図面を自然言語で説明するか、修正したい既存図面を渡すと、AIエージェントが編集可能なCADファイルとレビュー用に出力したPDFを返す。"
+                "x": "CAD・製品ライフサイクル管理（PLM）ソリューション専門企業のモドゥソリューション（代表：チョン・チュング）は、水原コンベンションセンターで開かれた「第8回国際スマート製造・AI技術展（SMATEC 2026）」に出展し、クラウドベースの3D CADソリューション「Gstar3D」をはじめとする設計・協業ソリューションを紹介した。今回の展示では、正式リリースを控えたGstar3Dの自然言語・画像ベースのモデリング機能が注目を集めた。"
               },
               {
                 "t": "p",
-                "x": "既存図面の例や社内の表題欄を与えれば、レイヤー、線の太さ、ハッチング、ブロック、文字・寸法スタイルといった既定のCAD標準に従う図面をNomicに作らせることができる。ソフトはDWG、DXF、DGNに対応する。"
+                "x": "Gstar3Dは、別途ソフトウェアをインストールすることなく、ウェブブラウザ上で3Dモデリングや設計データ管理、協業を行える。ユーザーが自然言語で指示したり、JPG・PNG形式の図面画像ファイルを入力したりすると、3Dモデルを生成できる。生成されたモデルには設計形状と修正過程を管理するフィーチャー履歴（Feature History）が構成され、STEPなど標準の3D CADファイル形式でエクスポートできる。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
               },
               {
                 "t": "p",
-                "x": "エージェントは図面審査の指摘書を読み取り、該当する図面を修正し、変更箇所を示すリビジョンクラウドを自動で付ける。修正のたびに新しいバージョンとして保存され、元のファイルはそのまま残る。各ステップの後に図面をレンダリングし、文字の重なりや注記の位置ずれといった問題を見つける。"
+                "x": "展示会場では、ある来場者が図面画像から3Dモデルを生成し、STEPファイルに変換した成果物を持ち帰る場面もあった。モドゥソリューションは「アーリーユーザー（Early User）」プログラムを通じて最大100人に1年間の無料利用権を提供し、集めた意見を製品改善とユーザーサポートに反映する計画だ。"
               },
               {
                 "t": "p",
-                "x": "NomicはAutodesk RevitとAutoCAD向けのアドインを順次提供している。Revitではダクトと構造フレームの干渉を検出し、その一部を解消できる。AutoCADでは開いている図面に詳細図を作成したり、修正を反映したりできる。どちらのアプリでも、変更の適用には人の承認が必要だ。"
-              },
-              {
-                "t": "p",
-                "x": "Nomicの製図機能はすでに利用できる。RevitとAutoCADのアドインは現在、顧客向けに順次展開中だ。"
+                "x": "あわせて、2D CAD「GstarCAD」、図面共有・協業プラットフォーム「GstarCAD 365」、3D CADファイルビューア「3D FastView」、PTCの「Creo」「Windchill」も紹介した。モドゥソリューションの関係者は「ユーザーの意見を反映し、国内の設計環境に適したソリューションを継続して提供していく」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nomic的AI智能体\n能绘制可编辑CAD图纸",
-          "body": "Nomic智能体可将自然语言需求转为符合企业CAD标准的可编辑DWG/DXF文件和PDF。",
-          "mini_headline": "Nomic智能体绘制CAD",
+          "headline": "Gstar3D\n用语言和图纸做3D设计",
+          "body": "用户可通过自然语言指令或图纸图片，生成带有特征历史的3D模型。",
+          "mini_headline": "Gstar3D：用语言做3D设计",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "Nomic是面向AEC行业的AI-powered图纸审查软件开发商，现已将平台扩展到自动CAD绘图。用户可用自然语言描述所需图纸，或提供需要修改的现有图纸，AI智能体会返回可编辑的CAD文件，并附上供审阅的出图PDF。"
+                "x": "CAD·产品生命周期管理（PLM）解决方案专业企业 Modusolution（代表 Jung Chung-gu）参加了在水原会展中心举行的“第8届国际智能制造·AI技术展（SMATEC 2026）”，介绍了基于云的3D CAD解决方案“Gstar3D”等设计与协作解决方案。本次展会上，即将正式上市的Gstar3D所具备的自然语言与图像建模功能备受关注。"
               },
               {
                 "t": "p",
-                "x": "用户提供现有图纸示例或公司图框后，即可让Nomic生成符合既定CAD标准的图纸，包括图层、线宽、填充、图块、文字和标注样式。该软件支持DWG、DXF和DGN。"
+                "x": "Gstar3D无需另行安装软件，即可在网页浏览器中完成3D建模、设计数据管理和协作。用户只需用自然语言下达指令，或输入JPG·PNG格式的图纸图片文件，即可生成3D模型。生成的模型包含管理设计形状与修改过程的特征历史（Feature History），并可导出为STEP等标准3D CAD文件格式。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
               },
               {
                 "t": "p",
-                "x": "智能体能解读图纸审查意见书，修改受影响的图纸，并自动添加修订云线以标出改动。每次修订都另存为新版本，原文件保持不变。它在每一步之后都会渲染图纸，以发现文字重叠、注释错位等问题。"
+                "x": "展会现场，一位参观者用图纸图片生成3D模型后，带走了转换成STEP文件的成果。Modusolution计划通过“早期用户（Early User）”计划，为最多100人提供1年免费使用权，并将收集到的意见用于产品改进和用户支持。"
               },
               {
                 "t": "p",
-                "x": "Nomic正在推出Autodesk Revit和AutoCAD插件。在Revit中，智能体可识别风管与结构框架之间的碰撞，并解决其中一部分；在AutoCAD中，它可在打开的图纸里生成详图或落实修订。在这两款软件中，改动都须经人工批准后才会生效。"
-              },
-              {
-                "t": "p",
-                "x": "Nomic的绘图功能现已上线。Revit和AutoCAD插件正陆续向客户推出。"
+                "x": "此外，该公司还介绍了2D CAD“GstarCAD”、图纸共享与协作平台“GstarCAD 365”、3D CAD文件查看器“3D FastView”以及PTC的“Creo”“Windchill”。Modusolution相关负责人表示：“将听取用户意见，持续提供适合国内设计环境的解决方案。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los agentes AI de Nomic ya\ncrean planos CAD editables",
-          "body": "El agente de Nomic convierte una petición escrita en un DWG/DXF editable y un PDF fieles al estándar CAD corporativo.",
-          "mini_headline": "Los agentes de Nomic delinean en CAD",
+          "headline": "Gstar3D de Modusolution:\ndiseño 3D con palabras y planos",
+          "body": "Crea modelos 3D con historial de operaciones a partir de comandos en lenguaje natural o imágenes de planos.",
+          "mini_headline": "Gstar3D: diseño 3D con palabras",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "Nomic, desarrolladora de software AI-powered de revisión de planos para el sector AEC, ha ampliado su plataforma con delineación CAD automatizada. Los usuarios pueden describir un plano en lenguaje natural o aportar un plano existente para revisarlo, y el agente de AI devuelve un archivo CAD editable junto con un PDF trazado para su revisión."
+                "x": "Modusolution (director general: Jung Chung-gu), empresa especializada en soluciones de CAD y gestión del ciclo de vida del producto (PLM), participó en la '8.ª Exposición Internacional de Fabricación Inteligente y Tecnología de AI (SMATEC 2026)', celebrada en el Centro de Convenciones de Suwon, donde presentó soluciones de diseño y colaboración, entre ellas su solución de 3D CAD en la nube 'Gstar3D'. En la muestra llamaron la atención las funciones de modelado basadas en lenguaje natural e imágenes de Gstar3D, que se acerca a su lanzamiento oficial."
               },
               {
                 "t": "p",
-                "x": "Al aportar ejemplos de planos existentes o el cajetín de la empresa, los usuarios pueden indicar a Nomic que genere planos que respeten los estándares CAD establecidos, incluidos capas, grosores de línea, sombreados, bloques y estilos de texto y de cota. El software admite DWG, DXF y DGN."
+                "x": "Gstar3D permite realizar modelado 3D, gestión de datos de diseño y colaboración en un navegador web sin instalar software adicional. Los usuarios pueden generar un modelo 3D dando órdenes en lenguaje natural o cargando archivos de imagen de planos en formato JPG o PNG. Los modelos generados incluyen un historial de operaciones (Feature History) que gestiona la geometría del diseño y el proceso de modificación, y pueden exportarse a formatos estándar de archivo 3D CAD como STEP."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
               },
               {
                 "t": "p",
-                "x": "El agente puede interpretar cartas de revisión de planos, corregir los planos afectados y añadir automáticamente nubes de revisión para resaltar los cambios. Cada revisión se guarda como una nueva versión y el archivo original queda intacto. Tras cada paso, renderiza el plano para detectar problemas como textos superpuestos o anotaciones mal colocadas."
+                "x": "En el recinto, un visitante generó un modelo 3D a partir de una imagen de plano, lo convirtió en un archivo STEP y se llevó el resultado. Con su programa 'Early User', Modusolution ofrecerá licencias gratuitas de 1 año a un máximo de 100 personas y aplicará las opiniones recogidas a la mejora del producto y la atención a los usuarios."
               },
               {
                 "t": "p",
-                "x": "Nomic está desplegando complementos para Autodesk Revit y AutoCAD. En Revit, el agente puede detectar interferencias entre conductos y estructura y resolver algunas de ellas; en AutoCAD, puede generar detalles o aplicar revisiones en un plano abierto. En ambas aplicaciones, los cambios requieren la aprobación de una persona antes de aplicarse."
-              },
-              {
-                "t": "p",
-                "x": "Las funciones de delineación de Nomic ya están disponibles. Los complementos para Revit y AutoCAD se están desplegando entre los clientes."
+                "x": "También presentó el 2D CAD 'GstarCAD', la plataforma para compartir planos y colaborar 'GstarCAD 365', el visor de archivos 3D CAD '3D FastView' y 'Creo' y 'Windchill' de PTC. \"Seguiremos ofreciendo soluciones adecuadas al entorno de diseño nacional, incorporando las opiniones de los usuarios\", dijo un responsable de Modusolution."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Nomic AI 에이전트가\n편집형 CAD 도면 작성",
-          "body": "Nomic 에이전트는 자연어 요청을 CAD 표준 DWG/DXF와 PDF로 만든다.",
-          "mini_headline": "Nomic 에이전트, CAD 제도",
+        "en": {
+          "headline": "Modusolution Gstar3D\n3D design from text and drawings",
+          "body": "The tool builds 3D models with feature history from natural-language commands or drawing images.",
+          "mini_headline": "Gstar3D designs 3D from words",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "AEC 업계용 AI-powered 도면 검토 소프트웨어를 만드는 Nomic이 플랫폼에 CAD 자동 제도 기능을 더했다. 사용자가 원하는 도면을 자연어로 설명하거나 수정할 기존 도면을 넣으면, AI 에이전트가 편집 가능한 CAD 파일과 검토용으로 출력한 PDF를 함께 돌려준다."
+                "x": "Modusolution (CEO Jung Chung-gu), a company specializing in CAD and product lifecycle management (PLM) solutions, took part in the '8th International Smart Manufacturing & AI Technology Exhibition (SMATEC 2026)' at the Suwon Convention Center, where it presented design and collaboration solutions including its cloud-based 3D CAD solution 'Gstar3D'. At the show, the natural-language and image-based modeling features of Gstar3D, which is nearing its official launch, drew attention."
               },
               {
                 "t": "p",
-                "x": "기존 도면 예시나 회사 표제란을 제공하면 Nomic이 레이어, 선 굵기, 해칭, 블록, 텍스트·치수 스타일 등 기존 CAD 표준을 따르는 도면을 만들도록 지시할 수 있다. 소프트웨어는 DWG, DXF, DGN을 지원한다."
+                "x": "Gstar3D lets users carry out 3D modeling, design data management and collaboration in a web browser without installing separate software. Users can generate a 3D model by giving natural-language commands or entering drawing image files in JPG or PNG format. Generated models include a Feature History that manages the design geometry and revision process, and can be exported to standard 3D CAD file formats such as STEP."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
               },
               {
                 "t": "p",
-                "x": "에이전트는 도면 검토 의견서를 해석해 해당 도면을 고치고, 변경 부분을 표시하는 리비전 클라우드를 자동으로 추가한다. 수정본은 매번 새 버전으로 저장되어 원본 파일은 그대로 남는다. 단계마다 도면을 렌더링해 글자 겹침이나 주석 위치 오류 같은 문제를 찾아낸다."
+                "x": "At the exhibition, one visitor generated a 3D model from a drawing image, converted it to a STEP file and took the result home. Through its 'Early User' program, Modusolution plans to offer free 1-year licenses to up to 100 people and reflect the feedback it collects in product improvements and user support."
               },
               {
                 "t": "p",
-                "x": "Nomic은 Autodesk Revit과 AutoCAD용 애드인을 배포하고 있다. Revit에서는 덕트와 구조 프레임 사이의 간섭을 찾아 그중 일부를 해결하고, AutoCAD에서는 열린 도면에 상세도를 만들거나 수정 사항을 반영한다. 두 프로그램 모두 변경 사항은 사람이 승인해야 적용된다."
-              },
-              {
-                "t": "p",
-                "x": "Nomic의 제도 기능은 지금 바로 쓸 수 있다. Revit과 AutoCAD 애드인은 현재 고객에게 순차 배포 중이다."
+                "x": "The company also introduced the 2D CAD 'GstarCAD', the drawing sharing and collaboration platform 'GstarCAD 365', the 3D CAD file viewer '3D FastView', and PTC's 'Creo' and 'Windchill'. \"We will reflect user feedback and keep providing solutions suited to the domestic design environment,\" a Modusolution official said."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NomicのAIエージェント\n編集可能なCAD図面を作成",
-          "body": "Nomicのエージェントは依頼から社内CAD標準の編集可能なDWG/DXFとPDFを作る。",
-          "mini_headline": "Nomicのエージェント、CADを製図",
+          "headline": "Gstar3D\n言葉と図面で3D設計",
+          "body": "自然言語の指示や図面画像から、フィーチャー履歴を備えた3Dモデルを作る。",
+          "mini_headline": "Gstar3D、言葉で3D設計",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "AEC業界向けにAI-poweredの図面レビューソフトを開発するNomicが、プラットフォームにCAD製図の自動化機能を加えた。ユーザーが図面を自然言語で説明するか、修正したい既存図面を渡すと、AIエージェントが編集可能なCADファイルとレビュー用に出力したPDFを返す。"
+                "x": "CAD・製品ライフサイクル管理（PLM）ソリューション専門企業のモドゥソリューション（代表：チョン・チュング）は、水原コンベンションセンターで開かれた「第8回国際スマート製造・AI技術展（SMATEC 2026）」に出展し、クラウドベースの3D CADソリューション「Gstar3D」をはじめとする設計・協業ソリューションを紹介した。今回の展示では、正式リリースを控えたGstar3Dの自然言語・画像ベースのモデリング機能が注目を集めた。"
               },
               {
                 "t": "p",
-                "x": "既存図面の例や社内の表題欄を与えれば、レイヤー、線の太さ、ハッチング、ブロック、文字・寸法スタイルといった既定のCAD標準に従う図面をNomicに作らせることができる。ソフトはDWG、DXF、DGNに対応する。"
+                "x": "Gstar3Dは、別途ソフトウェアをインストールすることなく、ウェブブラウザ上で3Dモデリングや設計データ管理、協業を行える。ユーザーが自然言語で指示したり、JPG・PNG形式の図面画像ファイルを入力したりすると、3Dモデルを生成できる。生成されたモデルには設計形状と修正過程を管理するフィーチャー履歴（Feature History）が構成され、STEPなど標準の3D CADファイル形式でエクスポートできる。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
               },
               {
                 "t": "p",
-                "x": "エージェントは図面審査の指摘書を読み取り、該当する図面を修正し、変更箇所を示すリビジョンクラウドを自動で付ける。修正のたびに新しいバージョンとして保存され、元のファイルはそのまま残る。各ステップの後に図面をレンダリングし、文字の重なりや注記の位置ずれといった問題を見つける。"
+                "x": "展示会場では、ある来場者が図面画像から3Dモデルを生成し、STEPファイルに変換した成果物を持ち帰る場面もあった。モドゥソリューションは「アーリーユーザー（Early User）」プログラムを通じて最大100人に1年間の無料利用権を提供し、集めた意見を製品改善とユーザーサポートに反映する計画だ。"
               },
               {
                 "t": "p",
-                "x": "NomicはAutodesk RevitとAutoCAD向けのアドインを順次提供している。Revitではダクトと構造フレームの干渉を検出し、その一部を解消できる。AutoCADでは開いている図面に詳細図を作成したり、修正を反映したりできる。どちらのアプリでも、変更の適用には人の承認が必要だ。"
-              },
-              {
-                "t": "p",
-                "x": "Nomicの製図機能はすでに利用できる。RevitとAutoCADのアドインは現在、顧客向けに順次展開中だ。"
+                "x": "あわせて、2D CAD「GstarCAD」、図面共有・協業プラットフォーム「GstarCAD 365」、3D CADファイルビューア「3D FastView」、PTCの「Creo」「Windchill」も紹介した。モドゥソリューションの関係者は「ユーザーの意見を反映し、国内の設計環境に適したソリューションを継続して提供していく」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nomic的AI智能体\n能绘制可编辑CAD图纸",
-          "body": "Nomic智能体可将自然语言需求转为符合企业CAD标准的可编辑DWG/DXF文件和PDF。",
-          "mini_headline": "Nomic智能体绘制CAD",
+          "headline": "Gstar3D\n用语言和图纸做3D设计",
+          "body": "用户可通过自然语言指令或图纸图片，生成带有特征历史的3D模型。",
+          "mini_headline": "Gstar3D：用语言做3D设计",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "Nomic是面向AEC行业的AI-powered图纸审查软件开发商，现已将平台扩展到自动CAD绘图。用户可用自然语言描述所需图纸，或提供需要修改的现有图纸，AI智能体会返回可编辑的CAD文件，并附上供审阅的出图PDF。"
+                "x": "CAD·产品生命周期管理（PLM）解决方案专业企业 Modusolution（代表 Jung Chung-gu）参加了在水原会展中心举行的“第8届国际智能制造·AI技术展（SMATEC 2026）”，介绍了基于云的3D CAD解决方案“Gstar3D”等设计与协作解决方案。本次展会上，即将正式上市的Gstar3D所具备的自然语言与图像建模功能备受关注。"
               },
               {
                 "t": "p",
-                "x": "用户提供现有图纸示例或公司图框后，即可让Nomic生成符合既定CAD标准的图纸，包括图层、线宽、填充、图块、文字和标注样式。该软件支持DWG、DXF和DGN。"
+                "x": "Gstar3D无需另行安装软件，即可在网页浏览器中完成3D建模、设计数据管理和协作。用户只需用自然语言下达指令，或输入JPG·PNG格式的图纸图片文件，即可生成3D模型。生成的模型包含管理设计形状与修改过程的特征历史（Feature History），并可导出为STEP等标准3D CAD文件格式。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
               },
               {
                 "t": "p",
-                "x": "智能体能解读图纸审查意见书，修改受影响的图纸，并自动添加修订云线以标出改动。每次修订都另存为新版本，原文件保持不变。它在每一步之后都会渲染图纸，以发现文字重叠、注释错位等问题。"
+                "x": "展会现场，一位参观者用图纸图片生成3D模型后，带走了转换成STEP文件的成果。Modusolution计划通过“早期用户（Early User）”计划，为最多100人提供1年免费使用权，并将收集到的意见用于产品改进和用户支持。"
               },
               {
                 "t": "p",
-                "x": "Nomic正在推出Autodesk Revit和AutoCAD插件。在Revit中，智能体可识别风管与结构框架之间的碰撞，并解决其中一部分；在AutoCAD中，它可在打开的图纸里生成详图或落实修订。在这两款软件中，改动都须经人工批准后才会生效。"
-              },
-              {
-                "t": "p",
-                "x": "Nomic的绘图功能现已上线。Revit和AutoCAD插件正陆续向客户推出。"
+                "x": "此外，该公司还介绍了2D CAD“GstarCAD”、图纸共享与协作平台“GstarCAD 365”、3D CAD文件查看器“3D FastView”以及PTC的“Creo”“Windchill”。Modusolution相关负责人表示：“将听取用户意见，持续提供适合国内设计环境的解决方案。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los agentes AI de Nomic ya\ncrean planos CAD editables",
-          "body": "El agente de Nomic convierte una petición escrita en un DWG/DXF editable y un PDF fieles al estándar CAD corporativo.",
-          "mini_headline": "Los agentes de Nomic delinean en CAD",
+          "headline": "Gstar3D de Modusolution:\ndiseño 3D con palabras y planos",
+          "body": "Crea modelos 3D con historial de operaciones a partir de comandos en lenguaje natural o imágenes de planos.",
+          "mini_headline": "Gstar3D: diseño 3D con palabras",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
               },
               {
                 "t": "p",
-                "x": "Nomic, desarrolladora de software AI-powered de revisión de planos para el sector AEC, ha ampliado su plataforma con delineación CAD automatizada. Los usuarios pueden describir un plano en lenguaje natural o aportar un plano existente para revisarlo, y el agente de AI devuelve un archivo CAD editable junto con un PDF trazado para su revisión."
+                "x": "Modusolution (director general: Jung Chung-gu), empresa especializada en soluciones de CAD y gestión del ciclo de vida del producto (PLM), participó en la '8.ª Exposición Internacional de Fabricación Inteligente y Tecnología de AI (SMATEC 2026)', celebrada en el Centro de Convenciones de Suwon, donde presentó soluciones de diseño y colaboración, entre ellas su solución de 3D CAD en la nube 'Gstar3D'. En la muestra llamaron la atención las funciones de modelado basadas en lenguaje natural e imágenes de Gstar3D, que se acerca a su lanzamiento oficial."
               },
               {
                 "t": "p",
-                "x": "Al aportar ejemplos de planos existentes o el cajetín de la empresa, los usuarios pueden indicar a Nomic que genere planos que respeten los estándares CAD establecidos, incluidos capas, grosores de línea, sombreados, bloques y estilos de texto y de cota. El software admite DWG, DXF y DGN."
+                "x": "Gstar3D permite realizar modelado 3D, gestión de datos de diseño y colaboración en un navegador web sin instalar software adicional. Los usuarios pueden generar un modelo 3D dando órdenes en lenguaje natural o cargando archivos de imagen de planos en formato JPG o PNG. Los modelos generados incluyen un historial de operaciones (Feature History) que gestiona la geometría del diseño y el proceso de modificación, y pueden exportarse a formatos estándar de archivo 3D CAD como STEP."
+              },
+              {
+                "t": "img",
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
               },
               {
                 "t": "p",
-                "x": "El agente puede interpretar cartas de revisión de planos, corregir los planos afectados y añadir automáticamente nubes de revisión para resaltar los cambios. Cada revisión se guarda como una nueva versión y el archivo original queda intacto. Tras cada paso, renderiza el plano para detectar problemas como textos superpuestos o anotaciones mal colocadas."
+                "x": "En el recinto, un visitante generó un modelo 3D a partir de una imagen de plano, lo convirtió en un archivo STEP y se llevó el resultado. Con su programa 'Early User', Modusolution ofrecerá licencias gratuitas de 1 año a un máximo de 100 personas y aplicará las opiniones recogidas a la mejora del producto y la atención a los usuarios."
               },
               {
                 "t": "p",
-                "x": "Nomic está desplegando complementos para Autodesk Revit y AutoCAD. En Revit, el agente puede detectar interferencias entre conductos y estructura y resolver algunas de ellas; en AutoCAD, puede generar detalles o aplicar revisiones en un plano abierto. En ambas aplicaciones, los cambios requieren la aprobación de una persona antes de aplicarse."
-              },
-              {
-                "t": "p",
-                "x": "Las funciones de delineación de Nomic ya están disponibles. Los complementos para Revit y AutoCAD se están desplegando entre los clientes."
+                "x": "También presentó el 2D CAD 'GstarCAD', la plataforma para compartir planos y colaborar 'GstarCAD 365', el visor de archivos 3D CAD '3D FastView' y 'Creo' y 'Windchill' de PTC. \"Seguiremos ofreciendo soluciones adecuadas al entorno de diseño nacional, incorporando las opiniones de los usuarios\", dijo un responsable de Modusolution."
               }
             ]
           }
@@ -355,15 +727,15 @@
       }
     },
     {
-      "id": "canva-mcp-agent-apis",
+      "id": "modulebuild-ai-editor",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Canva, 디자인 도구를\n외부 AI 에이전트에 연다",
-      "body": "Canva가 MCP 서버를 정식 출시하며 에이전트용 APIs와 CLI도 내놨다.",
-      "mini_headline": "Canva, AI 에이전트에 개방",
+      "headline": "module.build\nAI 주도권은 디자이너에게",
+      "body": "디자인·코드를 한 캔버스에 모으고 내 계정 Claude·Codex·Kimi를 쓴다.",
+      "mini_headline": "module.build, 디자이너가 AI를 쥔다",
       "tool": "Figma",
-      "source": "Dataconomy",
-      "url": "https://dataconomy.com/2026/11/25/canva-opens-design-tools-to-ai-agents-and-developers/",
+      "source": "dev.ua",
+      "url": "https://dev.ua/en/news/ukrainskyi-dyzainer-stvoryv-shi-redaktor-modulebuild-1795684607",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -371,197 +743,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
+            "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
           },
           {
             "t": "p",
-            "x": "Canva가 Model Context Protocol 서버를 정식 출시했다. AI 에이전트와 외부 개발자가 다른 소프트웨어 안에서 Canva 디자인 도구를 쓰도록 새 APIs도 내놓았다. Anthropic과 새로 손잡으면서 Canva가 Claude 안의 디자인 레이어가 된다는 게 회사 설명이다."
+            "x": "시니어 UI/UX 디자이너 보흐단 마트비예우(Bohdan Matviyev)는 요즘 AI 도구에 지쳤다. 요소를 마음대로 다루게 해 주기는커녕 작업을 채팅과 프롬프트 틀에 가두고 전문가 자리까지 넘봐서다. 그래서 디자인과 개발을 한 공간에 합친 에디터 module.build를 직접 만들었다. AI가 자동조종 장치가 아니라 조수로 일하는 개인 작업 환경이라는 게 그의 설명이다."
           },
           {
             "t": "p",
-            "x": "Canva는 MCP 서버를 에이전트가 일하는 방식에 맞춰 새로 짰다. 겹치는 도구를 합쳐 작은 모델로 돌아가는 에이전트도 알맞은 기능을 고르기 쉽게 했다. 에이전트는 편집 가능한 디자인·이미지·영상을 만들고, 배경을 지우고, 평면 이미지를 레이어 파일로 바꾸며, 완성본 크기를 조정하거나 내보낸다."
+            "x": "서비스 내부 크레딧은 따로 없다. 사용자는 자신의 구독이나 APIs로 Claude, Codex, Kimi 같은 모델을 섞어 쓴다. 디자인 캔버스, 공동 창작 보드, 프레젠테이션, 3D, 애니메이션, 코드가 메모리를 공유하는 한 환경에 모여 있다. 내부 ADE와 MCP 도구가 디자인 파일의 레이아웃, 토큰, 컴포넌트를 직접 읽고 GitHub·Vercel과도 연결된다. 이미지 생성은 ComfyUI 노드로 돌린다."
           },
           {
             "t": "p",
-            "x": "채팅으로 Instagram 게시물을 요청하면 브랜드 색상과 폰트가 적용된 편집 가능한 Canva 디자인이 나온다. 보이스오버를 넣은 짧은 제품 영상도 만들어 편집 가능한 타임라인으로 돌려준다."
-          },
-          {
-            "t": "p",
-            "x": "개발자는 새 REST APIs로 같은 기능을 쓰고, 명령줄 도구로 대량 작업도 처리한다. 새 서비스 계정과 API 과금 방식이 생겨 직원이 로그인하지 않아도 자동화 워크플로가 돌아간다. Canva는 자체 이미지 생성 모델 Craft도 API와 MCP로 연다."
-          },
-          {
-            "t": "p",
-            "x": "Canva에 따르면 10월 이후 MCP로 들어온 가입자는 500,000명에 가깝고, 사용량은 한 달 새 93% 늘었다."
+            "x": "Matviyev는 Figma가 MCP 요청을 제한하고, 이 프로토콜이 작은 요청에도 화면 전체를 컨텍스트로 보낸다고 말했다. module.build는 필요한 지점의 정보만 넘긴다. Paper처럼 실시간 협업을 지원하지는 않지만 Paper의 CSS 제약이나 대용량 파일에서 느려지는 문제는 피했다. 지금은 비공개 알파 테스트 중이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Canva opens its design tools\nto outside AI agents",
-          "body": "Canva made its MCP server generally available and added APIs and a CLI so outside agents can build editable designs.",
-          "mini_headline": "Canva opens to AI agents",
+          "headline": "module.build keeps designers\nin charge of the AI",
+          "body": "The closed-alpha editor merges design and code on one canvas, running Claude, Codex or Kimi on the user's own account.",
+          "mini_headline": "module.build keeps designers in charge",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
+                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
               },
               {
                 "t": "p",
-                "x": "Canva has made its Model Context Protocol server generally available and launched new APIs that let AI agents and outside developers use its design tools inside other software. The company said a new partnership with Anthropic makes Canva the design layer within Claude."
+                "x": "Senior UI/UX Designer Bohdan Matviyev is tired of modern AI tools that try to replace a specialist, forcing work into the framework of chat and prompts instead of full control over elements. So he created his own editor, module.build, which combines design and development in a single space. He positions it as a personal environment where AI acts as an assistant, not an autopilot."
               },
               {
                 "t": "p",
-                "x": "Canva rebuilt its MCP server around agent behavior by combining overlapping tools so agents using smaller models can select the appropriate function. Agents can create editable designs, images and videos, remove backgrounds, convert flat images into layered files, and resize or export finished work."
+                "x": "Users can combine models such as Claude, Codex and Kimi using their own subscriptions or APIs without internal service credits. Design canvas, co-creation board, presentations, 3D, animation and code share one environment with shared memory. Internal ADE and MCP tools read layouts, tokens and components directly from design files, with GitHub and Vercel integration; image generation runs on ComfyUI nodes."
               },
               {
                 "t": "p",
-                "x": "Users can request an Instagram post in a chat and receive an editable Canva design using a brand's colors and fonts. Agents can also create short product videos with voiceovers and return them on editable timelines."
-              },
-              {
-                "t": "p",
-                "x": "Developers can access the same functions through new REST APIs, while a command-line tool supports bulk work. New service accounts and API billing allow automated workflows to operate without an employee signed in. Canva is opening Craft, its in-house image-generation model, through the API and MCP."
-              },
-              {
-                "t": "p",
-                "x": "Canva said nearly 500,000 people have signed up through MCP since October, while usage grew 93% in one month."
+                "x": "Matviyev said Figma limits MCP requests and the protocol sends the whole screen as context even for a small request; module.build passes only point information. Unlike Paper, it has no real-time collaboration yet, but avoids Paper's CSS limits and slowdowns on large files. The service is in closed alpha testing."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Canva, 디자인 도구를\n외부 AI 에이전트에 연다",
-          "body": "Canva가 MCP 서버를 정식 출시하며 에이전트용 APIs와 CLI도 내놨다.",
-          "mini_headline": "Canva, AI 에이전트에 개방",
+          "headline": "module.build\nAI 주도권은 디자이너에게",
+          "body": "디자인·코드를 한 캔버스에 모으고 내 계정 Claude·Codex·Kimi를 쓴다.",
+          "mini_headline": "module.build, 디자이너가 AI를 쥔다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
+                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
               },
               {
                 "t": "p",
-                "x": "Canva가 Model Context Protocol 서버를 정식 출시했다. AI 에이전트와 외부 개발자가 다른 소프트웨어 안에서 Canva 디자인 도구를 쓰도록 새 APIs도 내놓았다. Anthropic과 새로 손잡으면서 Canva가 Claude 안의 디자인 레이어가 된다는 게 회사 설명이다."
+                "x": "시니어 UI/UX 디자이너 보흐단 마트비예우(Bohdan Matviyev)는 요즘 AI 도구에 지쳤다. 요소를 마음대로 다루게 해 주기는커녕 작업을 채팅과 프롬프트 틀에 가두고 전문가 자리까지 넘봐서다. 그래서 디자인과 개발을 한 공간에 합친 에디터 module.build를 직접 만들었다. AI가 자동조종 장치가 아니라 조수로 일하는 개인 작업 환경이라는 게 그의 설명이다."
               },
               {
                 "t": "p",
-                "x": "Canva는 MCP 서버를 에이전트가 일하는 방식에 맞춰 새로 짰다. 겹치는 도구를 합쳐 작은 모델로 돌아가는 에이전트도 알맞은 기능을 고르기 쉽게 했다. 에이전트는 편집 가능한 디자인·이미지·영상을 만들고, 배경을 지우고, 평면 이미지를 레이어 파일로 바꾸며, 완성본 크기를 조정하거나 내보낸다."
+                "x": "서비스 내부 크레딧은 따로 없다. 사용자는 자신의 구독이나 APIs로 Claude, Codex, Kimi 같은 모델을 섞어 쓴다. 디자인 캔버스, 공동 창작 보드, 프레젠테이션, 3D, 애니메이션, 코드가 메모리를 공유하는 한 환경에 모여 있다. 내부 ADE와 MCP 도구가 디자인 파일의 레이아웃, 토큰, 컴포넌트를 직접 읽고 GitHub·Vercel과도 연결된다. 이미지 생성은 ComfyUI 노드로 돌린다."
               },
               {
                 "t": "p",
-                "x": "채팅으로 Instagram 게시물을 요청하면 브랜드 색상과 폰트가 적용된 편집 가능한 Canva 디자인이 나온다. 보이스오버를 넣은 짧은 제품 영상도 만들어 편집 가능한 타임라인으로 돌려준다."
-              },
-              {
-                "t": "p",
-                "x": "개발자는 새 REST APIs로 같은 기능을 쓰고, 명령줄 도구로 대량 작업도 처리한다. 새 서비스 계정과 API 과금 방식이 생겨 직원이 로그인하지 않아도 자동화 워크플로가 돌아간다. Canva는 자체 이미지 생성 모델 Craft도 API와 MCP로 연다."
-              },
-              {
-                "t": "p",
-                "x": "Canva에 따르면 10월 이후 MCP로 들어온 가입자는 500,000명에 가깝고, 사용량은 한 달 새 93% 늘었다."
+                "x": "Matviyev는 Figma가 MCP 요청을 제한하고, 이 프로토콜이 작은 요청에도 화면 전체를 컨텍스트로 보낸다고 말했다. module.build는 필요한 지점의 정보만 넘긴다. Paper처럼 실시간 협업을 지원하지는 않지만 Paper의 CSS 제약이나 대용량 파일에서 느려지는 문제는 피했다. 지금은 비공개 알파 테스트 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Canva、デザイン機能を\n外部AIエージェントに開放",
-          "body": "CanvaはMCPサーバーを正式公開し、外部エージェント向けにAPIsとCLIを追加した。",
-          "mini_headline": "Canva、AIエージェントに開放",
+          "headline": "module.build\nAIの主導権はデザイナーに",
+          "body": "デザインとコードを一画面に統合し、自前のClaude・Codex・Kimiで動く。",
+          "mini_headline": "module.build、主導権はデザイナーに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
+                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
               },
               {
                 "t": "p",
-                "x": "CanvaはModel Context Protocolサーバーを正式公開し、AIエージェントや外部開発者が他のソフトウェア内でCanvaのデザインツールを使える新しいAPIsを投入した。同社によると、Anthropicとの新たな提携により、CanvaはClaude内のデザインレイヤーになる。"
+                "x": "シニアUI/UXデザイナーのボフダン・マトヴィエフ（Bohdan Matviyev）は、要素を完全にコントロールさせる代わりに、作業をチャットとプロンプトの枠に押し込めて専門家を置き換えようとする最近のAIツールにうんざりしていた。そこで、デザインと開発を一つの空間にまとめた独自のエディタ module.build を作った。彼はこれを、AIが自動操縦ではなくアシスタントとして働く個人向けの環境と位置づけている。"
               },
               {
                 "t": "p",
-                "x": "CanvaはMCPサーバーをエージェントの動き方に合わせて作り直し、重複するツールをまとめて、小型モデルを使うエージェントでも適切な機能を選べるようにした。エージェントは編集可能なデザインや画像、動画を作り、背景を除去し、平面画像をレイヤー付きファイルに変換し、完成品のサイズ変更や書き出しもできる。"
+                "x": "ユーザーは、サービス内クレジットを使わず、自身のサブスクリプションやAPIsを使ってClaude、Codex、Kimiなどのモデルを組み合わせられる。デザインキャンバス、共同制作ボード、プレゼンテーション、3D、アニメーション、コードが、共有メモリを持つ一つの環境に同居する。内部のADEとMCPツールはデザインファイルからレイアウト、トークン、コンポーネントを直接読み取り、GitHubやVercelと連携する。画像生成はComfyUIのノードで動く。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはチャットでInstagram投稿を頼むと、ブランドの色とフォントを使った編集可能なCanvaデザインを受け取れる。エージェントはナレーション付きの短い製品動画も作り、編集可能なタイムラインで返す。"
-              },
-              {
-                "t": "p",
-                "x": "開発者は新しいREST APIsで同じ機能を利用でき、コマンドラインツールで一括作業もこなせる。新しいサービスアカウントとAPI課金により、社員がサインインしていなくても自動化ワークフローが動く。Canvaは自社の画像生成モデルCraftもAPIとMCPで開放する。"
-              },
-              {
-                "t": "p",
-                "x": "Canvaによると、10月以降MCP経由で500,000人近くが登録し、利用はひと月で93%増えた。"
+                "x": "Matviyevによると、FigmaはMCPのリクエストを制限しており、このプロトコルは小さなリクエストでも画面全体をコンテキストとして送るが、module.buildはポイントの情報だけを渡す。Paperと違ってリアルタイム共同編集はまだないものの、PaperのCSSの制約や大きなファイルでの動作の重さは避けている。サービスはクローズドアルファテスト中だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Canva向外部AI智能体\n开放设计工具",
-          "body": "Canva正式推出MCP服务器，并新增APIs和CLI，让外部智能体能生成可编辑设计。",
-          "mini_headline": "Canva向AI智能体开放",
+          "headline": "module.build\n让设计师掌控AI",
+          "body": "该编辑器将设计与代码合于一块画布，用自有账号运行Claude、Codex或Kimi。",
+          "mini_headline": "module.build让设计师掌控AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
+                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
               },
               {
                 "t": "p",
-                "x": "Canva正式推出Model Context Protocol服务器，并发布新的APIs，让AI智能体和外部开发者能在其他软件中使用其设计工具。公司表示，与Anthropic的新合作使Canva成为Claude中的设计层。"
+                "x": "资深UI/UX设计师Bohdan Matviyev厌倦了当下那些试图取代专业人士的AI工具——它们把工作塞进聊天和提示词的框架，而不是让人完全掌控各个元素。于是他自己打造了编辑器module.build，将设计与开发整合到同一空间。他将其定位为一个个人环境，AI在其中充当助手，而非自动驾驶。"
               },
               {
                 "t": "p",
-                "x": "Canva围绕智能体的行为方式重建了MCP服务器，合并了功能重叠的工具，让使用较小模型的智能体也能选对功能。智能体可以创建可编辑的设计、图片和视频，去除背景，把平面图片转换为分层文件，并调整成品尺寸或导出。"
+                "x": "用户可使用自己的订阅或APIs组合Claude、Codex、Kimi等模型，无需服务内部积分。设计画布、共创白板、演示文稿、3D、动画和代码共处于一个拥有共享记忆的环境。内部的ADE和MCP工具直接从设计文件读取布局、令牌和组件，并与GitHub和Vercel集成；图像生成基于ComfyUI节点运行。"
               },
               {
                 "t": "p",
-                "x": "用户可以在聊天中请求一条Instagram帖子，并收到采用品牌色彩和字体的可编辑Canva设计。智能体还能制作带旁白的产品短视频，并以可编辑时间线的形式返回。"
-              },
-              {
-                "t": "p",
-                "x": "开发者可通过新的REST APIs使用相同功能，命令行工具则支持批量作业。新的服务账户和API计费让自动化工作流无需员工登录即可运行。Canva还将通过API和MCP开放其自研图像生成模型Craft。"
-              },
-              {
-                "t": "p",
-                "x": "Canva表示，自10月以来已有近500,000人通过MCP注册，使用量在一个月内增长了93%。"
+                "x": "Matviyev表示，Figma限制MCP请求，而且该协议即使面对很小的请求也会把整个屏幕作为上下文发送；module.build只传递所需的点位信息。与Paper不同，它目前还没有实时协作功能，但避开了Paper的CSS限制以及大文件下的卡顿。该服务正处于封闭内测阶段。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Canva abre sus herramientas\nde diseño a agentes AI externos",
-          "body": "Canva abrió a todos su servidor MCP y sumó APIs y una CLI para que agentes externos creen diseños editables.",
-          "mini_headline": "Canva se abre a agentes AI",
+          "headline": "module.build deja la AI\nen manos del diseñador",
+          "body": "El editor en alfa cerrada une diseño y código en un lienzo y usa Claude, Codex o Kimi con la cuenta del usuario.",
+          "mini_headline": "module.build da el control al diseñador",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
+                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
               },
               {
                 "t": "p",
-                "x": "Canva ha puesto a disposición general su servidor de Model Context Protocol y ha lanzado nuevas APIs que permiten a agentes de AI y a desarrolladores externos usar sus herramientas de diseño dentro de otro software. La empresa indicó que una nueva alianza con Anthropic convierte a Canva en la capa de diseño dentro de Claude."
+                "x": "El diseñador sénior de UI/UX Bohdan Matviyev está cansado de las herramientas de AI actuales que intentan sustituir al especialista y encierran el trabajo en el marco del chat y los prompts en lugar de ofrecer control total sobre los elementos. Por eso creó su propio editor, module.build, que combina diseño y desarrollo en un solo espacio. Lo presenta como un entorno personal donde la AI actúa como asistente, no como piloto automático."
               },
               {
                 "t": "p",
-                "x": "Canva reconstruyó su servidor MCP en torno al comportamiento de los agentes, combinando herramientas que se solapaban para que los agentes que usan modelos más pequeños puedan elegir la función adecuada. Los agentes pueden crear diseños, imágenes y videos editables, eliminar fondos, convertir imágenes planas en archivos por capas y redimensionar o exportar el trabajo terminado."
+                "x": "Los usuarios pueden combinar modelos como Claude, Codex y Kimi con sus propias suscripciones o APIs, sin créditos internos del servicio. El lienzo de diseño, el tablero de cocreación, las presentaciones, el 3D, la animación y el código comparten un mismo entorno con memoria compartida. Las herramientas internas ADE y MCP leen maquetaciones, tokens y componentes directamente de los archivos de diseño, con integración con GitHub y Vercel; la generación de imágenes funciona con nodos de ComfyUI."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden pedir una publicación de Instagram en un chat y recibir un diseño editable de Canva con los colores y las fuentes de la marca. Los agentes también pueden crear videos cortos de producto con locución y entregarlos en líneas de tiempo editables."
-              },
-              {
-                "t": "p",
-                "x": "Los desarrolladores pueden acceder a las mismas funciones mediante nuevas REST APIs, mientras que una herramienta de línea de comandos permite el trabajo masivo. Las nuevas cuentas de servicio y la facturación por API permiten que los flujos automatizados funcionen sin un empleado con sesión iniciada. Canva abre Craft, su modelo propio de generación de imágenes, a través de la API y MCP."
-              },
-              {
-                "t": "p",
-                "x": "Canva dijo que casi 500,000 personas se han registrado a través de MCP desde octubre, mientras que el uso creció un 93% en un mes."
+                "x": "Matviyev afirmó que Figma limita las solicitudes MCP y que el protocolo envía toda la pantalla como contexto incluso para una solicitud pequeña; module.build solo transmite la información puntual. A diferencia de Paper, aún no tiene colaboración en tiempo real, pero evita los límites de CSS de Paper y las ralentizaciones con archivos grandes. El servicio está en pruebas alfa cerradas."
               }
             ]
           }
@@ -569,137 +893,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Canva, 디자인 도구를\n외부 AI 에이전트에 개방",
-          "body": "Canva가 MCP 서버를 정식 출시하고 에이전트용 APIs와 CLI를 더했다.",
-          "mini_headline": "Canva, AI 에이전트에 개방",
+          "headline": "module.build\nAI 주도권은 디자이너에게",
+          "body": "디자인·코드를 한 캔버스에 담고 내 계정 Claude·Codex·Kimi를 쓴다.",
+          "mini_headline": "module.build, 디자이너가 AI를 쥔다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
+                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
               },
               {
                 "t": "p",
-                "x": "Canva가 Model Context Protocol 서버를 정식 출시하고, AI 에이전트와 외부 개발자가 다른 소프트웨어 안에서 Canva 디자인 도구를 쓸 수 있는 새 APIs를 내놓았다. 회사는 Anthropic과의 새 파트너십으로 Canva가 Claude 안의 디자인 레이어가 된다고 밝혔다."
+                "x": "시니어 UI/UX 디자이너 보흐단 마트비예우(Bohdan Matviyev)는 요소를 온전히 통제하게 해 주는 대신 작업을 채팅과 프롬프트의 틀에 가두며 전문가를 대체하려는 요즘 AI 도구에 지쳤다. 그래서 디자인과 개발을 한 공간에 합친 에디터 module.build를 직접 만들었다. 그는 이를 AI가 자동조종 장치가 아니라 조수로 일하는 개인 작업 환경으로 내세운다."
               },
               {
                 "t": "p",
-                "x": "Canva는 MCP 서버를 에이전트의 작동 방식에 맞춰 다시 만들었다. 겹치는 도구를 합쳐 작은 모델을 쓰는 에이전트도 알맞은 기능을 고를 수 있게 했다. 에이전트는 편집 가능한 디자인·이미지·영상을 만들고, 배경을 지우고, 평면 이미지를 레이어 파일로 바꾸고, 완성본의 크기를 조정하거나 내보낼 수 있다."
+                "x": "사용자는 서비스 내부 크레딧 없이 자신의 구독이나 APIs로 Claude, Codex, Kimi 같은 모델을 조합해 쓸 수 있다. 디자인 캔버스, 공동 창작 보드, 프레젠테이션, 3D, 애니메이션, 코드가 공유 메모리를 갖춘 하나의 환경에 모여 있다. 내부 ADE와 MCP 도구는 디자인 파일에서 레이아웃, 토큰, 컴포넌트를 직접 읽고 GitHub·Vercel과 연동되며, 이미지 생성은 ComfyUI 노드로 돌아간다."
               },
               {
                 "t": "p",
-                "x": "사용자는 채팅에서 Instagram 게시물을 요청해 브랜드 색상과 폰트를 적용한 편집 가능한 Canva 디자인을 받을 수 있다. 에이전트는 보이스오버를 넣은 짧은 제품 영상도 만들어 편집 가능한 타임라인으로 돌려준다."
-              },
-              {
-                "t": "p",
-                "x": "개발자는 새 REST APIs로 같은 기능에 접근할 수 있고, 명령줄 도구로 대량 작업도 처리할 수 있다. 새 서비스 계정과 API 과금 방식 덕분에 직원이 로그인하지 않아도 자동화 워크플로가 돌아간다. Canva는 자체 이미지 생성 모델 Craft도 API와 MCP로 개방한다."
-              },
-              {
-                "t": "p",
-                "x": "Canva는 10월 이후 MCP를 통한 가입자가 500,000명 가까이 되며, 사용량은 한 달 만에 93% 늘었다고 밝혔다."
+                "x": "Matviyev는 Figma가 MCP 요청을 제한하고, 이 프로토콜은 작은 요청에도 화면 전체를 컨텍스트로 보낸다고 말했다. module.build는 필요한 지점의 정보만 넘긴다. Paper와 달리 아직 실시간 협업 기능은 없지만, Paper의 CSS 제약과 대용량 파일에서의 속도 저하는 피했다. 서비스는 비공개 알파 테스트 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Canva、デザイン機能を\n外部AIエージェントに開放",
-          "body": "CanvaはMCPサーバーを正式公開し、外部エージェント向けにAPIsとCLIを追加した。",
-          "mini_headline": "Canva、AIエージェントに開放",
+          "headline": "module.build\nAIの主導権はデザイナーに",
+          "body": "デザインとコードを一画面に統合し、自前のClaude・Codex・Kimiで動く。",
+          "mini_headline": "module.build、主導権はデザイナーに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
+                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
               },
               {
                 "t": "p",
-                "x": "CanvaはModel Context Protocolサーバーを正式公開し、AIエージェントや外部開発者が他のソフトウェア内でCanvaのデザインツールを使える新しいAPIsを投入した。同社によると、Anthropicとの新たな提携により、CanvaはClaude内のデザインレイヤーになる。"
+                "x": "シニアUI/UXデザイナーのボフダン・マトヴィエフ（Bohdan Matviyev）は、要素を完全にコントロールさせる代わりに、作業をチャットとプロンプトの枠に押し込めて専門家を置き換えようとする最近のAIツールにうんざりしていた。そこで、デザインと開発を一つの空間にまとめた独自のエディタ module.build を作った。彼はこれを、AIが自動操縦ではなくアシスタントとして働く個人向けの環境と位置づけている。"
               },
               {
                 "t": "p",
-                "x": "CanvaはMCPサーバーをエージェントの動き方に合わせて作り直し、重複するツールをまとめて、小型モデルを使うエージェントでも適切な機能を選べるようにした。エージェントは編集可能なデザインや画像、動画を作り、背景を除去し、平面画像をレイヤー付きファイルに変換し、完成品のサイズ変更や書き出しもできる。"
+                "x": "ユーザーは、サービス内クレジットを使わず、自身のサブスクリプションやAPIsを使ってClaude、Codex、Kimiなどのモデルを組み合わせられる。デザインキャンバス、共同制作ボード、プレゼンテーション、3D、アニメーション、コードが、共有メモリを持つ一つの環境に同居する。内部のADEとMCPツールはデザインファイルからレイアウト、トークン、コンポーネントを直接読み取り、GitHubやVercelと連携する。画像生成はComfyUIのノードで動く。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはチャットでInstagram投稿を頼むと、ブランドの色とフォントを使った編集可能なCanvaデザインを受け取れる。エージェントはナレーション付きの短い製品動画も作り、編集可能なタイムラインで返す。"
-              },
-              {
-                "t": "p",
-                "x": "開発者は新しいREST APIsで同じ機能を利用でき、コマンドラインツールで一括作業もこなせる。新しいサービスアカウントとAPI課金により、社員がサインインしていなくても自動化ワークフローが動く。Canvaは自社の画像生成モデルCraftもAPIとMCPで開放する。"
-              },
-              {
-                "t": "p",
-                "x": "Canvaによると、10月以降MCP経由で500,000人近くが登録し、利用はひと月で93%増えた。"
+                "x": "Matviyevによると、FigmaはMCPのリクエストを制限しており、このプロトコルは小さなリクエストでも画面全体をコンテキストとして送るが、module.buildはポイントの情報だけを渡す。Paperと違ってリアルタイム共同編集はまだないものの、PaperのCSSの制約や大きなファイルでの動作の重さは避けている。サービスはクローズドアルファテスト中だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Canva向外部AI智能体\n开放设计工具",
-          "body": "Canva正式推出MCP服务器，并新增APIs和CLI，让外部智能体能生成可编辑设计。",
-          "mini_headline": "Canva向AI智能体开放",
+          "headline": "module.build\n让设计师掌控AI",
+          "body": "该编辑器将设计与代码合于一块画布，用自有账号运行Claude、Codex或Kimi。",
+          "mini_headline": "module.build让设计师掌控AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
+                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
               },
               {
                 "t": "p",
-                "x": "Canva正式推出Model Context Protocol服务器，并发布新的APIs，让AI智能体和外部开发者能在其他软件中使用其设计工具。公司表示，与Anthropic的新合作使Canva成为Claude中的设计层。"
+                "x": "资深UI/UX设计师Bohdan Matviyev厌倦了当下那些试图取代专业人士的AI工具——它们把工作塞进聊天和提示词的框架，而不是让人完全掌控各个元素。于是他自己打造了编辑器module.build，将设计与开发整合到同一空间。他将其定位为一个个人环境，AI在其中充当助手，而非自动驾驶。"
               },
               {
                 "t": "p",
-                "x": "Canva围绕智能体的行为方式重建了MCP服务器，合并了功能重叠的工具，让使用较小模型的智能体也能选对功能。智能体可以创建可编辑的设计、图片和视频，去除背景，把平面图片转换为分层文件，并调整成品尺寸或导出。"
+                "x": "用户可使用自己的订阅或APIs组合Claude、Codex、Kimi等模型，无需服务内部积分。设计画布、共创白板、演示文稿、3D、动画和代码共处于一个拥有共享记忆的环境。内部的ADE和MCP工具直接从设计文件读取布局、令牌和组件，并与GitHub和Vercel集成；图像生成基于ComfyUI节点运行。"
               },
               {
                 "t": "p",
-                "x": "用户可以在聊天中请求一条Instagram帖子，并收到采用品牌色彩和字体的可编辑Canva设计。智能体还能制作带旁白的产品短视频，并以可编辑时间线的形式返回。"
-              },
-              {
-                "t": "p",
-                "x": "开发者可通过新的REST APIs使用相同功能，命令行工具则支持批量作业。新的服务账户和API计费让自动化工作流无需员工登录即可运行。Canva还将通过API和MCP开放其自研图像生成模型Craft。"
-              },
-              {
-                "t": "p",
-                "x": "Canva表示，自10月以来已有近500,000人通过MCP注册，使用量在一个月内增长了93%。"
+                "x": "Matviyev表示，Figma限制MCP请求，而且该协议即使面对很小的请求也会把整个屏幕作为上下文发送；module.build只传递所需的点位信息。与Paper不同，它目前还没有实时协作功能，但避开了Paper的CSS限制以及大文件下的卡顿。该服务正处于封闭内测阶段。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Canva abre sus herramientas\nde diseño a agentes AI externos",
-          "body": "Canva abrió a todos su servidor MCP y sumó APIs y una CLI para que agentes externos creen diseños editables.",
-          "mini_headline": "Canva se abre a agentes AI",
+          "headline": "module.build deja la AI\nen manos del diseñador",
+          "body": "El editor en alfa cerrada une diseño y código en un lienzo y usa Claude, Codex o Kimi con la cuenta del usuario.",
+          "mini_headline": "module.build da el control al diseñador",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
+                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
               },
               {
                 "t": "p",
-                "x": "Canva ha puesto a disposición general su servidor de Model Context Protocol y ha lanzado nuevas APIs que permiten a agentes de AI y a desarrolladores externos usar sus herramientas de diseño dentro de otro software. La empresa indicó que una nueva alianza con Anthropic convierte a Canva en la capa de diseño dentro de Claude."
+                "x": "El diseñador sénior de UI/UX Bohdan Matviyev está cansado de las herramientas de AI actuales que intentan sustituir al especialista y encierran el trabajo en el marco del chat y los prompts en lugar de ofrecer control total sobre los elementos. Por eso creó su propio editor, module.build, que combina diseño y desarrollo en un solo espacio. Lo presenta como un entorno personal donde la AI actúa como asistente, no como piloto automático."
               },
               {
                 "t": "p",
-                "x": "Canva reconstruyó su servidor MCP en torno al comportamiento de los agentes, combinando herramientas que se solapaban para que los agentes que usan modelos más pequeños puedan elegir la función adecuada. Los agentes pueden crear diseños, imágenes y videos editables, eliminar fondos, convertir imágenes planas en archivos por capas y redimensionar o exportar el trabajo terminado."
+                "x": "Los usuarios pueden combinar modelos como Claude, Codex y Kimi con sus propias suscripciones o APIs, sin créditos internos del servicio. El lienzo de diseño, el tablero de cocreación, las presentaciones, el 3D, la animación y el código comparten un mismo entorno con memoria compartida. Las herramientas internas ADE y MCP leen maquetaciones, tokens y componentes directamente de los archivos de diseño, con integración con GitHub y Vercel; la generación de imágenes funciona con nodos de ComfyUI."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden pedir una publicación de Instagram en un chat y recibir un diseño editable de Canva con los colores y las fuentes de la marca. Los agentes también pueden crear videos cortos de producto con locución y entregarlos en líneas de tiempo editables."
-              },
-              {
-                "t": "p",
-                "x": "Los desarrolladores pueden acceder a las mismas funciones mediante nuevas REST APIs, mientras que una herramienta de línea de comandos permite el trabajo masivo. Las nuevas cuentas de servicio y la facturación por API permiten que los flujos automatizados funcionen sin un empleado con sesión iniciada. Canva abre Craft, su modelo propio de generación de imágenes, a través de la API y MCP."
-              },
-              {
-                "t": "p",
-                "x": "Canva dijo que casi 500,000 personas se han registrado a través de MCP desde octubre, mientras que el uso creció un 93% en un mes."
+                "x": "Matviyev afirmó que Figma limita las solicitudes MCP y que el protocolo envía toda la pantalla como contexto incluso para una solicitud pequeña; module.build solo transmite la información puntual. A diferencia de Paper, aún no tiene colaboración en tiempo real, pero evita los límites de CSS de Paper y las ralentizaciones con archivos grandes. El servicio está en pruebas alfa cerradas."
               }
             ]
           }
@@ -707,575 +999,237 @@
       }
     },
     {
-      "id": "nvidia-nemotron-image-svg",
+      "id": "midjourney-niji-v8",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "NVIDIA 시각 에이전트\n이미지 모델 공개",
-      "body": "NVIDIA가 SVG·HTML 에이전트용 30B 이미지 생성기 가중치를 풀었다.",
-      "mini_headline": "NVIDIA 이미지 모델 공개",
+      "headline": "Midjourney\n애니풍 Niji V8 공개",
+      "body": "시리즈 최고 속도에 프롬프트를 더 잘 따르고 참조 캐릭터를 새 장면에 넣는다.",
+      "mini_headline": "Midjourney, Niji V8 출시",
       "tool": "KeyShot",
-      "source": "Hugging Face (NVIDIA)",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
-          },
-          {
-            "t": "p",
-            "x": "Nemotron-Labs-VisualCreation은 표현력 있는 래스터 이미지와 편집 가능한 시각 결과물을 만드는 에이전트형 프레임워크다. 웹페이지, 프레젠테이션, 문서, 차트에 과학 도표까지 다룬다. Pixel as Code 인터페이스가 생성·렌더링·시각 검토를 거치며 학습된 시각 토큰과 명시적 프로그램을 이어 준다."
-          },
-          {
-            "t": "img",
-            "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
-            "cap": "래스터 외형과 편집 가능한 구조가 생성·렌더링 인터페이스 하나를 같이 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "Nemotron-Labs-Image-30B-A3B는 이 프레임워크에서 래스터 이미지를 맡는 자기회귀 생성기로, Nemotron 3 Nano에서 초기화했다. 전체 파라미터는 30B, 활성 파라미터는 3B 규모다. 첫 공개에는 이미지 생성기와 짝을 이루는 시각 토크나이저가 들어 있고, VisualCreation 하네스와 Nemotron-Labs-VisionCode는 법적 검토가 끝나면 공개한다."
-          },
-          {
-            "t": "p",
-            "x": "Nemotron-Labs-VisualCreation의 점수는 GenEval 92.86, WISE Verified 91.50이다. BizGenEval에서는 86.0을 받아 GPT Image 2(83.2)와 Nano Banana Pro(76.7)를 앞섰다."
-          },
-          {
-            "t": "p",
-            "x": "모델은 NVIDIA License를 따르며 비상업적 연구·평가 용도로만 쓸 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "NVIDIA releases image model\nfrom its visual-agent framework",
-          "body": "NVIDIA released weights for a 30B image generator from an agent framework that also builds editable SVG and HTML.",
-          "mini_headline": "NVIDIA releases image model",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreation is an agentic framework for creating expressive raster images and editable visual artifacts, including webpages, presentations, documents, charts, and scientific figures. Its Pixel as Code interface connects learned visual tokens and explicit programs through generation, rendering, and visual inspection."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
-                "cap": "Raster appearance and editable structure share a generation-and-rendering interface."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-Image-30B-A3B is its raster image-generation component, an autoregressive generator initialized from Nemotron 3 Nano, with 30B total and 3B active parameters. The initial release covers the image generator and its bundled visual tokenizer; the VisualCreation harness and Nemotron-Labs-VisionCode will be released upon legal clearance."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreation reaches 92.86 on GenEval and 91.50 on WISE Verified. On BizGenEval, it scores 86.0, compared with 83.2 for GPT Image 2 and 76.7 for Nano Banana Pro."
-              },
-              {
-                "t": "p",
-                "x": "The model is licensed for non-commercial research and evaluation under the NVIDIA License."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "NVIDIA发布视觉智能体\n框架中的图像模型",
-          "body": "NVIDIA公开30B 图像生成器权重，所属智能体框架还能生成可编辑SVG和HTML。",
-          "mini_headline": "NVIDIA发布图像模型",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreation是一个智能体框架，用于创作富有表现力的光栅图像，以及网页、演示文稿、文档、图表和科学插图等可编辑视觉成果。其Pixel as Code接口通过生成、渲染和视觉检查，将学习得到的视觉词元与显式程序连接起来。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
-                "cap": "光栅外观与可编辑结构共用一套生成与渲染接口。"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-Image-30B-A3B是其中的光栅图像生成组件，是一个以Nemotron 3 Nano初始化的自回归生成器，总参数30B，激活参数3B。首批发布内容为图像生成器及其配套的视觉分词器；VisualCreation运行框架与Nemotron-Labs-VisionCode将在完成法律审核后发布。"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreation在GenEval上得分92.86，在WISE Verified上得分91.50。在BizGenEval上，它得分86.0，GPT Image 2为83.2，Nano Banana Pro为76.7。"
-              },
-              {
-                "t": "p",
-                "x": "该模型依据NVIDIA License授权，用于非商业研究和评估。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "NVIDIA lanza modelo de imágenes\nde su marco de agentes visuales",
-          "body": "NVIDIA publicó pesos de un generador de imágenes de 30B de un marco de agentes que también crea SVG y HTML editables.",
-          "mini_headline": "NVIDIA lanza un modelo de imagen",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreation es un marco agéntico para crear imágenes rasterizadas expresivas y artefactos visuales editables, como páginas web, presentaciones, documentos, gráficos y figuras científicas. Su interfaz Pixel as Code conecta tokens visuales aprendidos y programas explícitos mediante generación, renderizado e inspección visual."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
-                "cap": "La apariencia rasterizada y la estructura editable comparten una interfaz de generación y renderizado."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-Image-30B-A3B es su componente de generación de imágenes rasterizadas, un generador autorregresivo inicializado a partir de Nemotron 3 Nano, con 30B de parámetros totales y 3B activos. La versión inicial incluye el generador de imágenes y su tokenizador visual integrado; el arnés VisualCreation y Nemotron-Labs-VisionCode se publicarán cuando obtengan la autorización legal."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreation alcanza 92.86 en GenEval y 91.50 en WISE Verified. En BizGenEval obtiene 86.0, frente a 83.2 de GPT Image 2 y 76.7 de Nano Banana Pro."
-              },
-              {
-                "t": "p",
-                "x": "El modelo tiene licencia para investigación y evaluación no comerciales bajo la NVIDIA License."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "NVIDIA 시각 에이전트\n이미지 모델 공개",
-          "body": "NVIDIA가 SVG·HTML 에이전트용 30B 이미지 생성기 가중치를 풀었다.",
-          "mini_headline": "NVIDIA 이미지 모델 공개",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreation은 표현력 있는 래스터 이미지와 편집 가능한 시각 결과물을 만드는 에이전트형 프레임워크다. 웹페이지, 프레젠테이션, 문서, 차트에 과학 도표까지 다룬다. Pixel as Code 인터페이스가 생성·렌더링·시각 검토를 거치며 학습된 시각 토큰과 명시적 프로그램을 이어 준다."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
-                "cap": "래스터 외형과 편집 가능한 구조가 생성·렌더링 인터페이스 하나를 같이 쓴다."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-Image-30B-A3B는 이 프레임워크에서 래스터 이미지를 맡는 자기회귀 생성기로, Nemotron 3 Nano에서 초기화했다. 전체 파라미터는 30B, 활성 파라미터는 3B 규모다. 첫 공개에는 이미지 생성기와 짝을 이루는 시각 토크나이저가 들어 있고, VisualCreation 하네스와 Nemotron-Labs-VisionCode는 법적 검토가 끝나면 공개한다."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreation의 점수는 GenEval 92.86, WISE Verified 91.50이다. BizGenEval에서는 86.0을 받아 GPT Image 2(83.2)와 Nano Banana Pro(76.7)를 앞섰다."
-              },
-              {
-                "t": "p",
-                "x": "모델은 NVIDIA License를 따르며 비상업적 연구·평가 용도로만 쓸 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NVIDIAが画像モデル\n視覚エージェント基盤から",
-          "body": "NVIDIAがSVGやHTMLも作るエージェント基盤の30B 画像生成器の重みを公開した。",
-          "mini_headline": "NVIDIAが画像モデルを公開",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreationは、表現力のあるラスター画像と、編集可能なビジュアル成果物を生み出すエージェント型フレームワークである。対象はウェブページ、プレゼンテーション、文書、チャート、科学図版に及ぶ。Pixel as Codeインターフェースは、生成、レンダリング、視覚的な検査を通じて、学習済みの視覚トークンと明示的なプログラムを結びつける。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
-                "cap": "ラスターの見た目と編集可能な構造が、生成とレンダリングのインターフェースを共有する。"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-Image-30B-A3Bはそのラスター画像生成コンポーネントで、Nemotron 3 Nanoから初期化された自己回帰型の生成器である。総パラメータは30B 、アクティブパラメータは3B である。初回リリースには画像生成器と同梱の視覚トークナイザーが含まれ、VisualCreationハーネスとNemotron-Labs-VisionCodeは法的な確認が済み次第公開される。"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreationはGenEvalで92.86、WISE Verifiedで91.50を記録した。BizGenEvalでは86.0で、GPT Image 2の83.2、Nano Banana Proの76.7を上回る。"
-              },
-              {
-                "t": "p",
-                "x": "このモデルはNVIDIA Licenseのもと、非商用の研究と評価に限って利用できる。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "zh": {
-          "headline": "NVIDIA发布视觉智能体\n框架中的图像模型",
-          "body": "NVIDIA公开30B 图像生成器权重，所属智能体框架还能生成可编辑SVG和HTML。",
-          "mini_headline": "NVIDIA发布图像模型",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreation是一个智能体框架，用于创作富有表现力的光栅图像，以及网页、演示文稿、文档、图表和科学插图等可编辑视觉成果。其Pixel as Code接口通过生成、渲染和视觉检查，将学习得到的视觉词元与显式程序连接起来。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
-                "cap": "光栅外观与可编辑结构共用一套生成与渲染接口。"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-Image-30B-A3B是其中的光栅图像生成组件，是一个以Nemotron 3 Nano初始化的自回归生成器，总参数30B，激活参数3B。首批发布内容为图像生成器及其配套的视觉分词器；VisualCreation运行框架与Nemotron-Labs-VisionCode将在完成法律审核后发布。"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreation在GenEval上得分92.86，在WISE Verified上得分91.50。在BizGenEval上，它得分86.0，GPT Image 2为83.2，Nano Banana Pro为76.7。"
-              },
-              {
-                "t": "p",
-                "x": "该模型依据NVIDIA License授权，用于非商业研究和评估。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "NVIDIA lanza modelo de imágenes\nde su marco de agentes visuales",
-          "body": "NVIDIA publicó pesos de un generador de imágenes de 30B de un marco de agentes que también crea SVG y HTML editables.",
-          "mini_headline": "NVIDIA lanza un modelo de imagen",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreation es un marco agéntico para crear imágenes rasterizadas expresivas y artefactos visuales editables, como páginas web, presentaciones, documentos, gráficos y figuras científicas. Su interfaz Pixel as Code conecta tokens visuales aprendidos y programas explícitos mediante generación, renderizado e inspección visual."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
-                "cap": "La apariencia rasterizada y la estructura editable comparten una interfaz de generación y renderizado."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-Image-30B-A3B es su componente de generación de imágenes rasterizadas, un generador autorregresivo inicializado a partir de Nemotron 3 Nano, con 30B de parámetros totales y 3B activos. La versión inicial incluye el generador de imágenes y su tokenizador visual integrado; el arnés VisualCreation y Nemotron-Labs-VisionCode se publicarán cuando obtengan la autorización legal."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreation alcanza 92.86 en GenEval y 91.50 en WISE Verified. En BizGenEval obtiene 86.0, frente a 83.2 de GPT Image 2 y 76.7 de Nano Banana Pro."
-              },
-              {
-                "t": "p",
-                "x": "El modelo tiene licencia para investigación y evaluación no comerciales bajo la NVIDIA License."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "NVIDIA 이미지 모델\n비주얼 에이전트서 공개",
-          "body": "NVIDIA가 SVG·HTML 에이전트의 30B 이미지 생성기 가중치를 공개했다.",
-          "mini_headline": "NVIDIA 이미지 모델 공개",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreation은 표현력 있는 래스터 이미지와 편집 가능한 시각 결과물을 만드는 에이전트형 프레임워크다. 웹페이지, 프레젠테이션, 문서, 차트, 과학 도표까지 다룬다. Pixel as Code 인터페이스는 생성, 렌더링, 시각 검토를 거치며 학습된 시각 토큰과 명시적 프로그램을 잇는다."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
-                "cap": "래스터 외형과 편집 가능한 구조가 하나의 생성·렌더링 인터페이스를 공유한다."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-Image-30B-A3B는 이 프레임워크의 래스터 이미지 생성 요소로, Nemotron 3 Nano에서 초기화한 자기회귀 생성기다. 전체 파라미터는 30B , 활성 파라미터는 3B 규모다. 첫 공개에는 이미지 생성기와 함께 묶인 시각 토크나이저가 포함되며, VisualCreation 하네스와 Nemotron-Labs-VisionCode는 법적 검토를 마친 뒤 공개된다."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreation은 GenEval에서 92.86, WISE Verified에서 91.50을 기록했다. BizGenEval에서는 86.0으로, GPT Image 2의 83.2와 Nano Banana Pro의 76.7을 앞섰다."
-              },
-              {
-                "t": "p",
-                "x": "이 모델은 NVIDIA License에 따라 비상업적 연구와 평가 용도로만 쓸 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NVIDIAが画像モデル\n視覚エージェント基盤から",
-          "body": "NVIDIAがSVGやHTMLも作るエージェント基盤の30B 画像生成器の重みを公開した。",
-          "mini_headline": "NVIDIAが画像モデルを公開",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/nemotron-labs-visualcreation-showcase.gif"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreationは、表現力のあるラスター画像と、編集可能なビジュアル成果物を生み出すエージェント型フレームワークである。対象はウェブページ、プレゼンテーション、文書、チャート、科学図版に及ぶ。Pixel as Codeインターフェースは、生成、レンダリング、視覚的な検査を通じて、学習済みの視覚トークンと明示的なプログラムを結びつける。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B/resolve/main/assets/pixel-as-code-overview.png",
-                "cap": "ラスターの見た目と編集可能な構造が、生成とレンダリングのインターフェースを共有する。"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-Image-30B-A3Bはそのラスター画像生成コンポーネントで、Nemotron 3 Nanoから初期化された自己回帰型の生成器である。総パラメータは30B 、アクティブパラメータは3B である。初回リリースには画像生成器と同梱の視覚トークナイザーが含まれ、VisualCreationハーネスとNemotron-Labs-VisionCodeは法的な確認が済み次第公開される。"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron-Labs-VisualCreationはGenEvalで92.86、WISE Verifiedで91.50を記録した。BizGenEvalでは86.0で、GPT Image 2の83.2、Nano Banana Proの76.7を上回る。"
-              },
-              {
-                "t": "p",
-                "x": "このモデルはNVIDIA Licenseのもと、非商用の研究と評価に限って利用できる。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "higgsfield-magi2-video-sound",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Sand AI MAGI-2\n영상·소리 함께 만든다",
-      "body": "Higgsfield 독점 MAGI-2가 4~30초 1080p 유성 영상을 뽑는다.",
-      "mini_headline": "MAGI-2, 소리 내장",
-      "tool": "KeyShot",
-      "source": "Higgsfield",
-      "url": "https://higgsfield.ai/blog/higgsfield-magi-2",
+      "source": "ASCII.jp",
+      "url": "https://ascii.jp/en/elem/000/004/454/4454596/",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "video",
-            "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+            "t": "img",
+            "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
           },
           {
             "t": "p",
-            "x": "Sand AI의 새 영상 모델 MAGI-2를 Higgsfield 웹 앱과 API에서 쓸 수 있다. 이미지·영상·오디오 레퍼런스나 시작 프레임(종료 프레임은 선택)을 넣으면 영상과 소리를 한꺼번에 만든다. 클립 길이는 4~30초, 해상도는 1080p이고 화면비는 여섯 가지다."
+            "x": "Midjourney가 일본 시간 11월 25일 애니메이션풍 이미지 생성 모델 “Niji V8”을 발표했다. 프롬프트를 더 충실히 따르고 캐릭터 일관성을 지키는 편집 기능도 갖췄다. Discord에서 프롬프트 끝에 “--niji 8”을 붙이거나 버전 설정에서 “Niji 8”을 고르면 된다."
           },
           {
             "t": "p",
-            "x": "References에는 이미지 최대 10장, 영상 5개, 오디오 파일 5개까지 넣고 Frames에는 시작 프레임과 선택 사항인 종료 프레임을 넣는다. 오디오는 Sound 토글로 켜고 끈다. MAGI-2에는 720p 옵션이 없어 크레딧을 아끼려면 클립 길이를 줄여야 한다."
+            "x": "Niji는 애니메이션풍 캐릭터와 장면 제작에 특화한 이미지 생성 모델이다. Niji 8은 Niji 7의 미적 표현에 Niji 6의 다양성을 더했다. 같은 프롬프트로 비슷한 캐릭터만 반복해 뽑기보다 후보를 폭넓게 내놓는 데 무게를 뒀다. 생성 속도는 시리즈 사상 가장 빠르고 이미지 구도와 요소의 일관성도 강해졌다."
+          },
+          {
+            "t": "p",
+            "x": "마음에 드는 캐릭터를 다른 장면에 쓰고 싶다면 생성 이미지 편집 기능을 쓰면 된다. 캐릭터 참조 이미지와 배경 이미지를 지정하고, 캐릭터를 다른 장소나 포즈로 그려 달라고 AI에게 지시하는 식이다."
           },
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+            "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
           },
           {
-            "t": "p",
-            "x": "Frames에서는 시작 이미지에 이미 담긴 장면과 원하는 움직임을 적는다. References에서는 Image 1, Video 1, Audio 1처럼 입력마다 붙은 라벨로 부른다. 프롬프트는 클립 하나에 동작 한두 가지와 카메라 움직임 하나 정도로 묶는다."
+            "t": "img",
+            "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
           },
           {
-            "t": "p",
-            "x": "10초 클립 기준으로 웹 앱에서는 25크레딧, Plus 요금제로 약 $1.23, API로는 $0.80이 든다."
+            "t": "img",
+            "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Sand AI's MAGI-2 generates\nvideo and sound together",
-          "body": "MAGI-2, now exclusive to Higgsfield, generates 1080p clips of 4 to 30 seconds with video and sound made together.",
-          "mini_headline": "MAGI-2 adds built-in sound",
+          "headline": "Midjourney releases Niji V8\nfor anime illustration",
+          "body": "The fastest Niji model yet follows prompts more closely and can drop a reference character into new scenes or poses.",
+          "mini_headline": "Midjourney ships Niji V8",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
               },
               {
                 "t": "p",
-                "x": "MAGI-2 is Sand AI's new video model, available through the Higgsfield web app and API. It generates video and sound together, guided by image, video, and audio references or a start frame with an optional end frame. Clips run from 4 to 30 seconds at 1080p in six aspect ratios."
+                "x": "Midjourney announced \"Niji V8,\" an anime-style image generation model, on November 25th, Japan time. It features improved adherence to prompts and editing functions that maintain character consistency. Users can access it by adding \"--niji 8\" to the end of their prompts on Discord or by selecting \"Niji 8\" in the version settings."
               },
               {
                 "t": "p",
-                "x": "References accept up to 10 images, 5 videos, and 5 audio files, and Frames take a start frame with an optional end frame. The Sound toggle turns audio on or off. MAGI-2 has no 720p option, so a shorter clip is the way to use fewer credits."
+                "x": "Niji is an image generation model specializing in creating anime-style characters and scenes. Niji 8 combines the aesthetic expression of Niji 7 with the diversity of Niji 6, prioritizing a wider range of candidates from the same prompt rather than repeatedly generating similar characters. It boasts the fastest generation speed in the series' history and enhanced consistency in image composition and elements."
+              },
+              {
+                "t": "p",
+                "x": "To use a favorite character in different scenes, users can leverage the editing features for generated images. This allows specifying a reference image for the character and a background image, then instructing the AI to depict the character in a different location or pose."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
               },
               {
-                "t": "p",
-                "x": "In Frames, describe the scene already shown in the start image and the intended movement. In References, refer to each input by its label, such as Image 1, Video 1, or Audio 1. Limit the prompt to one or two actions and one camera movement per clip."
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
               },
               {
-                "t": "p",
-                "x": "A 10-second clip costs 25 credits in the web app, approximately $1.23 on Plus, or $0.80 through the API."
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Sand AI MAGI-2\n영상·소리 함께 만든다",
-          "body": "Higgsfield 독점 MAGI-2가 4~30초 1080p 유성 영상을 뽑는다.",
-          "mini_headline": "MAGI-2, 소리 내장",
+          "headline": "Midjourney\n애니풍 Niji V8 공개",
+          "body": "시리즈 최고 속도에 프롬프트를 더 잘 따르고 참조 캐릭터를 새 장면에 넣는다.",
+          "mini_headline": "Midjourney, Niji V8 출시",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
               },
               {
                 "t": "p",
-                "x": "Sand AI의 새 영상 모델 MAGI-2를 Higgsfield 웹 앱과 API에서 쓸 수 있다. 이미지·영상·오디오 레퍼런스나 시작 프레임(종료 프레임은 선택)을 넣으면 영상과 소리를 한꺼번에 만든다. 클립 길이는 4~30초, 해상도는 1080p이고 화면비는 여섯 가지다."
+                "x": "Midjourney가 일본 시간 11월 25일 애니메이션풍 이미지 생성 모델 “Niji V8”을 발표했다. 프롬프트를 더 충실히 따르고 캐릭터 일관성을 지키는 편집 기능도 갖췄다. Discord에서 프롬프트 끝에 “--niji 8”을 붙이거나 버전 설정에서 “Niji 8”을 고르면 된다."
               },
               {
                 "t": "p",
-                "x": "References에는 이미지 최대 10장, 영상 5개, 오디오 파일 5개까지 넣고 Frames에는 시작 프레임과 선택 사항인 종료 프레임을 넣는다. 오디오는 Sound 토글로 켜고 끈다. MAGI-2에는 720p 옵션이 없어 크레딧을 아끼려면 클립 길이를 줄여야 한다."
+                "x": "Niji는 애니메이션풍 캐릭터와 장면 제작에 특화한 이미지 생성 모델이다. Niji 8은 Niji 7의 미적 표현에 Niji 6의 다양성을 더했다. 같은 프롬프트로 비슷한 캐릭터만 반복해 뽑기보다 후보를 폭넓게 내놓는 데 무게를 뒀다. 생성 속도는 시리즈 사상 가장 빠르고 이미지 구도와 요소의 일관성도 강해졌다."
+              },
+              {
+                "t": "p",
+                "x": "마음에 드는 캐릭터를 다른 장면에 쓰고 싶다면 생성 이미지 편집 기능을 쓰면 된다. 캐릭터 참조 이미지와 배경 이미지를 지정하고, 캐릭터를 다른 장소나 포즈로 그려 달라고 AI에게 지시하는 식이다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
               },
               {
-                "t": "p",
-                "x": "Frames에서는 시작 이미지에 이미 담긴 장면과 원하는 움직임을 적는다. References에서는 Image 1, Video 1, Audio 1처럼 입력마다 붙은 라벨로 부른다. 프롬프트는 클립 하나에 동작 한두 가지와 카메라 움직임 하나 정도로 묶는다."
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
               },
               {
-                "t": "p",
-                "x": "10초 클립 기준으로 웹 앱에서는 25크레딧, Plus 요금제로 약 $1.23, API로는 $0.80이 든다."
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sand AIのMAGI-2\n映像と音を同時に生成",
-          "body": "Higgsfield独占のMAGI-2は、4〜30秒・1080pの映像を音と同時に作る。",
-          "mini_headline": "MAGI-2、音声生成を内蔵",
+          "headline": "Midjourneyが公開\nアニメ向けNiji V8",
+          "body": "シリーズ最速のNijiは、プロンプトへの忠実さが増し、参照キャラを新たな場面に置ける。",
+          "mini_headline": "Midjourney、Niji V8を公開",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
               },
               {
                 "t": "p",
-                "x": "MAGI-2はSand AIの新しい動画モデルで、HiggsfieldのウェブアプリとAPIで利用できる。画像・動画・音声のリファレンス、または開始フレーム（終了フレームは任意）をもとに、映像と音を同時に生成する。クリップは1080pで4〜30秒、アスペクト比は六種類だ。"
+                "x": "Midjourneyは日本時間11月25日、アニメ調の画像生成モデル「Niji V8」を発表した。プロンプトへの忠実度が向上し、キャラクターの一貫性を保つ編集機能を備える。Discordでプロンプトの末尾に「--niji 8」を付けるか、バージョン設定で「Niji 8」を選ぶと利用できる。"
               },
               {
                 "t": "p",
-                "x": "Referencesには最大10枚の画像、5本の動画、5つの音声ファイルを指定でき、Framesには開始フレームと任意の終了フレームを渡す。Soundトグルで音声のオン・オフを切り替える。MAGI-2には720pの選択肢がないため、クレジットを節約するにはクリップを短くすることになる。"
+                "x": "Nijiは、アニメ調のキャラクターやシーンの生成に特化した画像生成モデルだ。Niji 8はNiji 7の美的表現とNiji 6の多様性を組み合わせ、同じプロンプトから似たキャラクターを繰り返し生成するよりも、幅広い候補を出すことを優先する。シリーズ史上最速の生成速度を誇り、画像の構図や要素の一貫性も高めた。"
+              },
+              {
+                "t": "p",
+                "x": "お気に入りのキャラクターを別のシーンで使うには、生成画像の編集機能を活用できる。キャラクターの参照画像と背景画像を指定し、AIにキャラクターを別の場所やポーズで描くよう指示できる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
               },
               {
-                "t": "p",
-                "x": "Framesでは、開始画像にすでに写っている場面と意図する動きを記述する。Referencesでは、Image 1、Video 1、Audio 1のように各入力をラベルで指定する。プロンプトはクリップごとに一つか二つの動作と、一つのカメラの動きに絞る。"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
               },
               {
-                "t": "p",
-                "x": "10秒のクリップはウェブアプリで25クレジット、Plusでは約$1.23、API経由では$0.80かかる。"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sand AI的MAGI-2\n可同时生成视频和声音",
-          "body": "Higgsfield独家的MAGI-2可生成4至30秒、音画同步的1080p片段。",
-          "mini_headline": "MAGI-2内置声音",
+          "headline": "Midjourney发布\n动漫插画模型Niji V8",
+          "body": "这是迄今最快的Niji模型，更贴合提示词，还能把参考角色放进新场景或新姿势。",
+          "mini_headline": "Midjourney推出Niji V8",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
               },
               {
                 "t": "p",
-                "x": "MAGI-2是Sand AI的新视频模型，可通过Higgsfield网页应用和API使用。它依据图像、视频和音频参考，或起始帧（结束帧可选），同时生成视频和声音。片段时长4至30秒，分辨率1080p，提供六种画面比例。"
+                "x": "Midjourney于日本时间11月25日发布动漫风格图像生成模型“Niji V8”。它提升了对提示词的遵循度，并具备保持角色一致性的编辑功能。用户可在Discord中于提示词末尾添加“--niji 8”，或在版本设置中选择“Niji 8”来使用。"
               },
               {
                 "t": "p",
-                "x": "References最多可接受10张图像、5段视频和5个音频文件；Frames接受起始帧和可选的结束帧。Sound开关用于开启或关闭音频。MAGI-2没有720p选项，因此想少用积分，就要缩短片段。"
+                "x": "Niji是专门生成动漫风格角色和场景的图像生成模型。Niji 8融合了Niji 7的审美表现与Niji 6的多样性，优先从同一提示词生成更丰富的候选结果，而不是反复生成相似角色。它的生成速度为该系列史上最快，图像构图与元素的一致性也有所增强。"
+              },
+              {
+                "t": "p",
+                "x": "若想在不同场景中使用喜爱的角色，可借助针对生成图像的编辑功能：指定角色参考图和背景图后，指示AI将角色描绘在不同地点或姿势中。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
               },
               {
-                "t": "p",
-                "x": "在Frames中，描述起始图像里已有的场景以及想要的运动。在References中，按标签称呼每个输入，例如Image 1、Video 1或Audio 1。每个片段的提示词限于一到两个动作和一个镜头运动。"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
               },
               {
-                "t": "p",
-                "x": "一段10秒的片段在网页应用中需25积分，使用Plus约合$1.23，通过API则为$0.80。"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
               }
             ]
           }
         },
         "es": {
-          "headline": "MAGI-2 de Sand AI genera\nvideo y sonido a la vez",
-          "body": "MAGI-2, ahora exclusivo de Higgsfield, genera clips 1080p de 4 a 30 segundos con video y sonido creados a la vez.",
-          "mini_headline": "MAGI-2 incorpora sonido",
+          "headline": "Midjourney lanza Niji V8\npara ilustración de anime",
+          "body": "El Niji más rápido hasta ahora sigue mejor los prompts y coloca un personaje de referencia en nuevas escenas.",
+          "mini_headline": "Midjourney lanza Niji V8",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
               },
               {
                 "t": "p",
-                "x": "MAGI-2 es el nuevo modelo de video de Sand AI, disponible en la aplicación web y la API de Higgsfield. Genera video y sonido a la vez, guiado por referencias de imagen, video y audio, o por un fotograma inicial con un fotograma final opcional. Los clips duran de 4 a 30 segundos en 1080p, con seis relaciones de aspecto."
+                "x": "Midjourney anunció \"Niji V8\", un modelo de generación de imágenes de estilo anime, el 25 de noviembre, hora de Japón. Ofrece mayor fidelidad a los prompts y funciones de edición que mantienen la coherencia de los personajes. Se puede usar añadiendo \"--niji 8\" al final del prompt en Discord o seleccionando \"Niji 8\" en los ajustes de versión."
               },
               {
                 "t": "p",
-                "x": "References admite hasta 10 imágenes, 5 videos y 5 archivos de audio, y Frames recibe un fotograma inicial con un fotograma final opcional. El interruptor Sound activa o desactiva el audio. MAGI-2 no tiene opción de 720p, así que la forma de gastar menos créditos es hacer un clip más corto."
+                "x": "Niji es un modelo de generación de imágenes especializado en crear personajes y escenas de estilo anime. Niji 8 combina la expresión estética de Niji 7 con la diversidad de Niji 6 y prioriza una gama más amplia de candidatos a partir del mismo prompt en lugar de generar repetidamente personajes similares. Ofrece la mayor velocidad de generación de la historia de la serie y una mayor coherencia en la composición y los elementos de la imagen."
+              },
+              {
+                "t": "p",
+                "x": "Para usar un personaje favorito en escenas distintas, se pueden aprovechar las funciones de edición de imágenes generadas. Permiten indicar una imagen de referencia del personaje y una imagen de fondo, y luego pedir a la AI que represente al personaje en otro lugar o pose."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
               },
               {
-                "t": "p",
-                "x": "En Frames, describa la escena que ya aparece en la imagen inicial y el movimiento deseado. En References, nombre cada entrada por su etiqueta, como Image 1, Video 1 o Audio 1. Limite el prompt a una o dos acciones y un movimiento de cámara por clip."
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
               },
               {
-                "t": "p",
-                "x": "Un clip de 10 segundos cuesta 25 créditos en la aplicación web, unos $1.23 con Plus, o $0.80 a través de la API."
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
               }
             ]
           }
@@ -1283,137 +1237,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Sand AI MAGI-2\n영상·소리 함께 생성",
-          "body": "Higgsfield 독점 MAGI-2는 4~30초 1080p 유성 영상을 만든다.",
-          "mini_headline": "MAGI-2, 소리 내장",
+          "headline": "Midjourney\n애니풍 Niji V8 공개",
+          "body": "가장 빠른 Niji로, 프롬프트를 더 잘 따르고 참조 캐릭터를 새 장면에 넣는다.",
+          "mini_headline": "Midjourney, Niji V8 출시",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
               },
               {
                 "t": "p",
-                "x": "MAGI-2는 Sand AI의 새 영상 모델로, Higgsfield 웹 앱과 API에서 쓸 수 있다. 이미지·영상·오디오 레퍼런스나 시작 프레임(종료 프레임은 선택)을 바탕으로 영상과 소리를 함께 생성한다. 클립은 4~30초, 1080p이며 화면비는 여섯 가지다."
+                "x": "Midjourney는 일본 시간 11월 25일 애니메이션풍 이미지 생성 모델 “Niji V8”을 발표했다. 프롬프트를 더 충실히 따르고, 캐릭터 일관성을 유지하는 편집 기능을 갖췄다. Discord에서 프롬프트 끝에 “--niji 8”을 붙이거나 버전 설정에서 “Niji 8”을 고르면 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "References에는 이미지 최대 10장, 영상 5개, 오디오 파일 5개를 넣을 수 있고, Frames에는 시작 프레임과 선택적 종료 프레임을 넣는다. Sound 토글로 오디오를 켜고 끈다. MAGI-2에는 720p 옵션이 없어, 크레딧을 덜 쓰려면 클립을 짧게 만들어야 한다."
+                "x": "Niji는 애니메이션풍 캐릭터와 장면 제작에 특화한 이미지 생성 모델이다. Niji 8은 Niji 7의 미적 표현과 Niji 6의 다양성을 결합해, 같은 프롬프트로 비슷한 캐릭터를 반복해 만들기보다 더 폭넓은 후보를 내는 데 무게를 뒀다. 시리즈 사상 가장 빠른 생성 속도를 내며, 이미지 구도와 요소의 일관성도 강화했다."
+              },
+              {
+                "t": "p",
+                "x": "마음에 드는 캐릭터를 다른 장면에 쓰려면 생성 이미지 편집 기능을 활용하면 된다. 캐릭터 참조 이미지와 배경 이미지를 지정한 뒤, AI에게 캐릭터를 다른 장소나 포즈로 그리도록 지시할 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
               },
               {
-                "t": "p",
-                "x": "Frames에서는 시작 이미지에 이미 담긴 장면과 원하는 움직임을 설명한다. References에서는 Image 1, Video 1, Audio 1처럼 각 입력을 라벨로 부른다. 프롬프트는 클립마다 한두 가지 동작과 카메라 움직임 하나로 제한한다."
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
               },
               {
-                "t": "p",
-                "x": "10초 클립은 웹 앱에서 25크레딧, Plus 요금제로는 약 $1.23, API로는 $0.80이다."
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sand AIのMAGI-2\n映像と音を同時に生成",
-          "body": "Higgsfield独占のMAGI-2は、4〜30秒・1080pの映像を音と同時に作る。",
-          "mini_headline": "MAGI-2、音声生成を内蔵",
+          "headline": "Midjourneyが公開\nアニメ向けNiji V8",
+          "body": "シリーズ最速のNijiは、プロンプトへの忠実さが増し、参照キャラを新たな場面に置ける。",
+          "mini_headline": "Midjourney、Niji V8を公開",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
               },
               {
                 "t": "p",
-                "x": "MAGI-2はSand AIの新しい動画モデルで、HiggsfieldのウェブアプリとAPIで利用できる。画像・動画・音声のリファレンス、または開始フレーム（終了フレームは任意）をもとに、映像と音を同時に生成する。クリップは1080pで4〜30秒、アスペクト比は六種類だ。"
+                "x": "Midjourneyは日本時間11月25日、アニメ調の画像生成モデル「Niji V8」を発表した。プロンプトへの忠実度が向上し、キャラクターの一貫性を保つ編集機能を備える。Discordでプロンプトの末尾に「--niji 8」を付けるか、バージョン設定で「Niji 8」を選ぶと利用できる。"
               },
               {
                 "t": "p",
-                "x": "Referencesには最大10枚の画像、5本の動画、5つの音声ファイルを指定でき、Framesには開始フレームと任意の終了フレームを渡す。Soundトグルで音声のオン・オフを切り替える。MAGI-2には720pの選択肢がないため、クレジットを節約するにはクリップを短くすることになる。"
+                "x": "Nijiは、アニメ調のキャラクターやシーンの生成に特化した画像生成モデルだ。Niji 8はNiji 7の美的表現とNiji 6の多様性を組み合わせ、同じプロンプトから似たキャラクターを繰り返し生成するよりも、幅広い候補を出すことを優先する。シリーズ史上最速の生成速度を誇り、画像の構図や要素の一貫性も高めた。"
+              },
+              {
+                "t": "p",
+                "x": "お気に入りのキャラクターを別のシーンで使うには、生成画像の編集機能を活用できる。キャラクターの参照画像と背景画像を指定し、AIにキャラクターを別の場所やポーズで描くよう指示できる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
               },
               {
-                "t": "p",
-                "x": "Framesでは、開始画像にすでに写っている場面と意図する動きを記述する。Referencesでは、Image 1、Video 1、Audio 1のように各入力をラベルで指定する。プロンプトはクリップごとに一つか二つの動作と、一つのカメラの動きに絞る。"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
               },
               {
-                "t": "p",
-                "x": "10秒のクリップはウェブアプリで25クレジット、Plusでは約$1.23、API経由では$0.80かかる。"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sand AI的MAGI-2\n可同时生成视频和声音",
-          "body": "Higgsfield独家的MAGI-2可生成4至30秒、音画同步的1080p片段。",
-          "mini_headline": "MAGI-2内置声音",
+          "headline": "Midjourney发布\n动漫插画模型Niji V8",
+          "body": "这是迄今最快的Niji模型，更贴合提示词，还能把参考角色放进新场景或新姿势。",
+          "mini_headline": "Midjourney推出Niji V8",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
               },
               {
                 "t": "p",
-                "x": "MAGI-2是Sand AI的新视频模型，可通过Higgsfield网页应用和API使用。它依据图像、视频和音频参考，或起始帧（结束帧可选），同时生成视频和声音。片段时长4至30秒，分辨率1080p，提供六种画面比例。"
+                "x": "Midjourney于日本时间11月25日发布动漫风格图像生成模型“Niji V8”。它提升了对提示词的遵循度，并具备保持角色一致性的编辑功能。用户可在Discord中于提示词末尾添加“--niji 8”，或在版本设置中选择“Niji 8”来使用。"
               },
               {
                 "t": "p",
-                "x": "References最多可接受10张图像、5段视频和5个音频文件；Frames接受起始帧和可选的结束帧。Sound开关用于开启或关闭音频。MAGI-2没有720p选项，因此想少用积分，就要缩短片段。"
+                "x": "Niji是专门生成动漫风格角色和场景的图像生成模型。Niji 8融合了Niji 7的审美表现与Niji 6的多样性，优先从同一提示词生成更丰富的候选结果，而不是反复生成相似角色。它的生成速度为该系列史上最快，图像构图与元素的一致性也有所增强。"
+              },
+              {
+                "t": "p",
+                "x": "若想在不同场景中使用喜爱的角色，可借助针对生成图像的编辑功能：指定角色参考图和背景图后，指示AI将角色描绘在不同地点或姿势中。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
               },
               {
-                "t": "p",
-                "x": "在Frames中，描述起始图像里已有的场景以及想要的运动。在References中，按标签称呼每个输入，例如Image 1、Video 1或Audio 1。每个片段的提示词限于一到两个动作和一个镜头运动。"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
               },
               {
-                "t": "p",
-                "x": "一段10秒的片段在网页应用中需25积分，使用Plus约合$1.23，通过API则为$0.80。"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
               }
             ]
           }
         },
         "es": {
-          "headline": "MAGI-2 de Sand AI genera\nvideo y sonido a la vez",
-          "body": "MAGI-2, ahora exclusivo de Higgsfield, genera clips 1080p de 4 a 30 segundos con video y sonido creados a la vez.",
-          "mini_headline": "MAGI-2 incorpora sonido",
+          "headline": "Midjourney lanza Niji V8\npara ilustración de anime",
+          "body": "El Niji más rápido hasta ahora sigue mejor los prompts y coloca un personaje de referencia en nuevas escenas.",
+          "mini_headline": "Midjourney lanza Niji V8",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://cdn.sanity.io/files/s479xw3z/production/16d9d8605e2b69096bfa3eb0bd994be1ccea0d4c.mp4"
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
               },
               {
                 "t": "p",
-                "x": "MAGI-2 es el nuevo modelo de video de Sand AI, disponible en la aplicación web y la API de Higgsfield. Genera video y sonido a la vez, guiado por referencias de imagen, video y audio, o por un fotograma inicial con un fotograma final opcional. Los clips duran de 4 a 30 segundos en 1080p, con seis relaciones de aspecto."
+                "x": "Midjourney anunció \"Niji V8\", un modelo de generación de imágenes de estilo anime, el 25 de noviembre, hora de Japón. Ofrece mayor fidelidad a los prompts y funciones de edición que mantienen la coherencia de los personajes. Se puede usar añadiendo \"--niji 8\" al final del prompt en Discord o seleccionando \"Niji 8\" en los ajustes de versión."
               },
               {
                 "t": "p",
-                "x": "References admite hasta 10 imágenes, 5 videos y 5 archivos de audio, y Frames recibe un fotograma inicial con un fotograma final opcional. El interruptor Sound activa o desactiva el audio. MAGI-2 no tiene opción de 720p, así que la forma de gastar menos créditos es hacer un clip más corto."
+                "x": "Niji es un modelo de generación de imágenes especializado en crear personajes y escenas de estilo anime. Niji 8 combina la expresión estética de Niji 7 con la diversidad de Niji 6 y prioriza una gama más amplia de candidatos a partir del mismo prompt en lugar de generar repetidamente personajes similares. Ofrece la mayor velocidad de generación de la historia de la serie y una mayor coherencia en la composición y los elementos de la imagen."
+              },
+              {
+                "t": "p",
+                "x": "Para usar un personaje favorito en escenas distintas, se pueden aprovechar las funciones de edición de imágenes generadas. Permiten indicar una imagen de referencia del personaje y una imagen de fondo, y luego pedir a la AI que represente al personaje en otro lugar o pose."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/s479xw3z/production/5881cab42fa04bf5eec79fc16e633b1210e3a592-2720x1536.png"
+                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
               },
               {
-                "t": "p",
-                "x": "En Frames, describa la escena que ya aparece en la imagen inicial y el movimiento deseado. En References, nombre cada entrada por su etiqueta, como Image 1, Video 1 o Audio 1. Limite el prompt a una o dos acciones y un movimiento de cámara por clip."
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
               },
               {
-                "t": "p",
-                "x": "Un clip de 10 segundos cuesta 25 créditos en la aplicación web, unos $1.23 con Plus, o $0.80 a través de la API."
+                "t": "img",
+                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
               }
             ]
           }
@@ -1421,213 +1391,225 @@
       }
     },
     {
-      "id": "claude-skills-over-mcp",
+      "id": "seoul-biennale-ratti-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MCP 서버, 도구와\n스킬 함께 배포",
-      "body": "Claude의 Skills over MCP 공개 베타로 서버가 스킬도 배포한다.",
-      "mini_headline": "MCP 서버, 스킬 배포",
-      "tool": "Figma",
-      "source": "Claude (Anthropic)",
-      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
-      "accent": "#2ec5c5",
+      "headline": "Carlo Ratti의\n서울비엔날레 AI 큐레이터",
+      "body": "Ratti가 AI 조수와 2027 서울비엔날레를 맡아 다음달 8일 주제를 공개한다.",
+      "mini_headline": "Ratti의 AI-curated 서울비엔날레",
+      "tool": "AI Workflow",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/11/26/carlo-ratti-seoul-biennale/",
+      "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+            "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
+            "cap": "베네치아 건축 비엔날레 큐레이터 Carlo Ratti"
           },
           {
             "t": "p",
-            "x": "Claude에서 Skills over MCP가 공개 베타로 나와 MCP 서버가 도구와 함께 스킬을 배포할 수 있게 됐다. Tasks와 Elicitation은 정식 출시됐고 File Uploads도 곧 배포된다."
+            "x": "이탈리아 건축가 Carlo Ratti(카를로 라티)가 내년 서울도시건축비엔날레 큐레이터로 선임됐다. 그는 “관습에서 벗어난, AI 기반(AI-based)” 방식으로 행사를 꾸릴 계획이다. 2027년 9월 24일 개막하는 이번 비엔날레에서 Ratti는 오늘날 큐레이터가 어떤 역할을 하는지 묻는다. 행사 제목과 주제, 전체 큐레이터 팀은 12월 8일에야 공개된다."
           },
           {
             "t": "p",
-            "x": "Skills over MCP를 쓰면 서버가 도구와 함께 스킬을 올려 Claude가 더 길고 여러 단계로 된 작업을 맡게 돕는다. Claude는 필요할 때만 스킬을 불러오므로 컨텍스트를 적게 쓴다. 서버가 업데이트되면 스킬도 함께 바뀌어 사용자가 따로 설치할 게 없다. Shopify는 Claude가 판매자의 온라인 스토어를 처음부터 끝까지 디자인하고 업데이트하도록 돕는다."
+            "x": "AI 어시스턴트를 앞세워 큐레이터를 돕는 새 도구를 보여 주고, 전시를 만드는 전통 방식에 도전한다는 구상이다."
           },
           {
             "t": "img",
-            "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+            "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
+            "cap": "Carlo Ratti(오른쪽)를 임명한 오세훈(Oh Se Hoon) 서울시장(왼쪽)"
           },
           {
             "t": "p",
-            "x": "Tasks를 쓰면 서버가 오래 걸리는 작업이나 에이전트 루프 전체를 돌리는 동안에도 Claude는 하던 일을 계속한다. Elicitation은 서버가 잠깐 멈춰 폼이나 링크로 사용자 입력을 받은 뒤 멈춘 자리부터 다시 진행하게 한다. File Uploads는 PDFs, 스프레드시트, 이미지를 컨텍스트 창을 거치지 않고 서버로 바로 보낸다."
+            "x": "그는 “서울은 인공지능과 시민의 집단 지성이 어떻게 함께 도시를 만들어 갈지 묻기에 세계에서 가장 좋은 곳일지 모른다”며 “곧 열릴 프리 비엔날레 행사에서 함께할 사람들을 소개하기 시작할 텐데, 몇 가지 깜짝 놀랄 일이 있을 것이다. 보조 큐레이터 한 명은 심지어 인간이 아니다!”라고 말했다."
           },
           {
             "t": "p",
-            "x": "이 기능들은 공개 MCP 사양과 그 확장에 속해서, 이를 지원하는 서버라면 Claude뿐 아니라 호환되는 어떤 클라이언트에서도 작동한다. MCP SDK의 월간 다운로드는 현재 7억 회를 넘는다."
+            "x": "Carlo Ratti Associati 대표이자 MIT 교수인 Ratti는 2025년 행사를 맡았던 Thomas Heatherwick(토머스 헤더윅)의 뒤를 잇는다. 앞서 ‘Intelligens. Natural. Artificial. Collective.’를 주제로 내건 2025 베네치아 건축 비엔날레를 큐레이팅하기도 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MCP servers can now ship\nskills alongside tools",
-          "body": "Claude opened Skills over MCP in public beta, so MCP servers can package skills alongside the tools they expose.",
-          "mini_headline": "MCP servers ship skills",
+          "headline": "Carlo Ratti brings an AI curator\nto the Seoul Biennale",
+          "body": "Ratti will curate Seoul's 2027 architecture biennale with an AI assistant, revealing theme and team on December 8.",
+          "mini_headline": "Ratti's AI-curated Seoul Biennale",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
+                "cap": "Venice Architecture Biennale curator Carlo Ratti"
               },
               {
                 "t": "p",
-                "x": "Skills over MCP is now in public beta in Claude, so MCP servers can ship skills alongside their tools. Tasks and Elicitation are now generally available, and File Uploads is rolling out soon."
+                "x": "Italian architect Carlo Ratti has been named the curator of next year's Seoul Biennale of Architecture and Urbanism, for which he plans to take \"an unconventional, AI-based\" approach. Taking place from 24 September 2027, the biennale will be used by Ratti to question the role of a curator today. The event's title, theme and full curatorial team will not be unveiled until 8 December."
               },
               {
                 "t": "p",
-                "x": "With Skills over MCP, servers can publish skills alongside their tools to help Claude take on longer, multi-step work. Claude loads a skill only when it's needed, keeping context use low. Skills update with the server, so users have nothing separate to install. Shopify helps Claude design and update a merchant's online store end to end."
+                "x": "Specifically, he will use an AI assistant, aiming to challenge traditional approaches to developing exhibitions by highlighting emerging tools that can help curators."
               },
               {
                 "t": "img",
-                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
+                "cap": "Carlo Ratti (right) was appointed by Seoul mayor Oh Se Hoon (left)"
               },
               {
                 "t": "p",
-                "x": "With Tasks, servers can run operations that take time, or even full agent loops, while Claude keeps working. With Elicitation, a server can pause to ask the user for input through a form or link, then continue where it left off. File Uploads sends PDFs, spreadsheets, and images to a server without passing them through the context window."
+                "x": "\"Seoul is perhaps the best place in the world to ask how artificial intelligence and the collective wisdom of its citizens might shape the city together,\" he said. \"At the upcoming pre-biennale event, we will begin to introduce the people who will join us, and I think there will be a few surprises – one assistant curator isn't even human!\""
               },
               {
                 "t": "p",
-                "x": "These features are part of the open MCP spec and its extensions, so a server that supports them works in any compatible client, not just Claude. MCP now sees over 700 million monthly SDK downloads."
+                "x": "Ratti, director of Carlo Ratti Associati and an MIT professor, succeeds Thomas Heatherwick, who curated the 2025 event. He curated the 2025 Venice Architecture Biennale, themed Intelligens. Natural. Artificial. Collective."
               }
             ]
           }
         },
         "ko": {
-          "headline": "MCP 서버, 도구와\n스킬 함께 배포",
-          "body": "Claude의 Skills over MCP 공개 베타로 서버가 스킬도 배포한다.",
-          "mini_headline": "MCP 서버, 스킬 배포",
+          "headline": "Carlo Ratti의\n서울비엔날레 AI 큐레이터",
+          "body": "Ratti가 AI 조수와 2027 서울비엔날레를 맡아 다음달 8일 주제를 공개한다.",
+          "mini_headline": "Ratti의 AI-curated 서울비엔날레",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
+                "cap": "베네치아 건축 비엔날레 큐레이터 Carlo Ratti"
               },
               {
                 "t": "p",
-                "x": "Claude에서 Skills over MCP가 공개 베타로 나와 MCP 서버가 도구와 함께 스킬을 배포할 수 있게 됐다. Tasks와 Elicitation은 정식 출시됐고 File Uploads도 곧 배포된다."
+                "x": "이탈리아 건축가 Carlo Ratti(카를로 라티)가 내년 서울도시건축비엔날레 큐레이터로 선임됐다. 그는 “관습에서 벗어난, AI 기반(AI-based)” 방식으로 행사를 꾸릴 계획이다. 2027년 9월 24일 개막하는 이번 비엔날레에서 Ratti는 오늘날 큐레이터가 어떤 역할을 하는지 묻는다. 행사 제목과 주제, 전체 큐레이터 팀은 12월 8일에야 공개된다."
               },
               {
                 "t": "p",
-                "x": "Skills over MCP를 쓰면 서버가 도구와 함께 스킬을 올려 Claude가 더 길고 여러 단계로 된 작업을 맡게 돕는다. Claude는 필요할 때만 스킬을 불러오므로 컨텍스트를 적게 쓴다. 서버가 업데이트되면 스킬도 함께 바뀌어 사용자가 따로 설치할 게 없다. Shopify는 Claude가 판매자의 온라인 스토어를 처음부터 끝까지 디자인하고 업데이트하도록 돕는다."
+                "x": "AI 어시스턴트를 앞세워 큐레이터를 돕는 새 도구를 보여 주고, 전시를 만드는 전통 방식에 도전한다는 구상이다."
               },
               {
                 "t": "img",
-                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
+                "cap": "Carlo Ratti(오른쪽)를 임명한 오세훈(Oh Se Hoon) 서울시장(왼쪽)"
               },
               {
                 "t": "p",
-                "x": "Tasks를 쓰면 서버가 오래 걸리는 작업이나 에이전트 루프 전체를 돌리는 동안에도 Claude는 하던 일을 계속한다. Elicitation은 서버가 잠깐 멈춰 폼이나 링크로 사용자 입력을 받은 뒤 멈춘 자리부터 다시 진행하게 한다. File Uploads는 PDFs, 스프레드시트, 이미지를 컨텍스트 창을 거치지 않고 서버로 바로 보낸다."
+                "x": "그는 “서울은 인공지능과 시민의 집단 지성이 어떻게 함께 도시를 만들어 갈지 묻기에 세계에서 가장 좋은 곳일지 모른다”며 “곧 열릴 프리 비엔날레 행사에서 함께할 사람들을 소개하기 시작할 텐데, 몇 가지 깜짝 놀랄 일이 있을 것이다. 보조 큐레이터 한 명은 심지어 인간이 아니다!”라고 말했다."
               },
               {
                 "t": "p",
-                "x": "이 기능들은 공개 MCP 사양과 그 확장에 속해서, 이를 지원하는 서버라면 Claude뿐 아니라 호환되는 어떤 클라이언트에서도 작동한다. MCP SDK의 월간 다운로드는 현재 7억 회를 넘는다."
+                "x": "Carlo Ratti Associati 대표이자 MIT 교수인 Ratti는 2025년 행사를 맡았던 Thomas Heatherwick(토머스 헤더윅)의 뒤를 잇는다. 앞서 ‘Intelligens. Natural. Artificial. Collective.’를 주제로 내건 2025 베네치아 건축 비엔날레를 큐레이팅하기도 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MCPサーバー、ツールと\n共にスキルも配布可能に",
-          "body": "ClaudeのSkills over MCP公開ベータで、サーバーがスキルも配れる。",
-          "mini_headline": "MCPサーバーがスキルを配布",
+          "headline": "Carlo Rattiが\nソウルにAIキュレーター",
+          "body": "Rattiは2027年ソウル建築ビエンナーレをAI助手と企画し、来月8日に主題を明かす。",
+          "mini_headline": "RattiのAI-curatedなソウル・ビエンナーレ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
+                "cap": "ヴェネチア・ビエンナーレ国際建築展のキュレーター、Carlo Ratti"
               },
               {
                 "t": "p",
-                "x": "ClaudeでSkills over MCPが公開ベータとなり、MCPサーバーがツールと共にスキルを配布できるようになった。TasksとElicitationは一般提供が始まり、File Uploadsも近く展開される。"
+                "x": "イタリアの建築家Carlo Rattiが、来年のソウル都市建築ビエンナーレのキュレーターに任命された。「型破りな、AIベース（AI-based）の」アプローチを取る計画だ。2027年9月24日に開幕するビエンナーレを通じて、Rattiは今日のキュレーターの役割を問い直す。イベントのタイトル、テーマ、キュレーターチーム全体は12月8日まで明かされない。"
               },
               {
                 "t": "p",
-                "x": "Skills over MCPにより、サーバーはツールと共にスキルを公開でき、Claudeがより長い多段階の作業をこなせるよう支援する。Claudeは必要なときだけスキルを読み込むため、コンテキストの使用量を低く抑えられる。スキルはサーバーと一緒に更新されるので、ユーザーが別途インストールするものはない。ShopifyはClaudeが販売者のオンラインストアを最初から最後までデザインし、更新するのを支援する。"
+                "x": "具体的には、AIアシスタントを活用し、キュレーターを支える新たなツールに光を当てることで、展覧会づくりの従来の手法に挑むという。"
               },
               {
                 "t": "img",
-                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
+                "cap": "Carlo Ratti（右）はソウル市長のOh Se Hoon（左）に任命された"
               },
               {
                 "t": "p",
-                "x": "Tasksでは、時間のかかる処理やエージェントループ全体をサーバーが実行している間も、Claudeは作業を続けられる。Elicitationでは、サーバーが一時停止してフォームやリンクでユーザーに入力を求め、中断したところから再開できる。File UploadsはPDFs、スプレッドシート、画像を、コンテキストウィンドウを経由せずにサーバーへ送る。"
+                "x": "「ソウルは、人工知能と市民の集合知がいかに共に都市を形づくるかを問うのに、おそらく世界で最もふさわしい場所だ」と彼は述べた。「間もなく開かれるプレ・ビエンナーレのイベントで、参加するメンバーの紹介を始める。いくつかサプライズがあると思う。アシスタントキュレーターの一人は人間ですらない！」"
               },
               {
                 "t": "p",
-                "x": "これらの機能はオープンなMCP仕様とその拡張の一部であるため、対応するサーバーはClaudeに限らず、互換性のあるあらゆるクライアントで動作する。MCPのSDKは現在、月7億回以上ダウンロードされている。"
+                "x": "Carlo Ratti Associatiの代表でMIT教授のRattiは、2025年の同イベントを手がけたThomas Heatherwickの後任となる。彼は「Intelligens. Natural. Artificial. Collective.」をテーマとした2025年のヴェネチア・ビエンナーレ国際建築展でキュレーターを務めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MCP服务器现可随工具\n一并提供技能",
-          "body": "Claude推出Skills over MCP公开测试版，MCP服务器可随工具打包技能。",
-          "mini_headline": "MCP服务器提供技能",
+          "headline": "Carlo Ratti\n为首尔双年展引入AI策展",
+          "body": "Ratti将借助AI助手策划2027年首尔建筑双年展，并于下月8日公布主题与团队。",
+          "mini_headline": "Ratti的AI-curated首尔双年展",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
+                "cap": "威尼斯建筑双年展策展人Carlo Ratti"
               },
               {
                 "t": "p",
-                "x": "Skills over MCP已在Claude中进入公开测试，MCP服务器可以随工具一并提供技能。Tasks和Elicitation现已正式可用，File Uploads也即将推出。"
+                "x": "意大利建筑师Carlo Ratti被任命为明年首尔城市建筑双年展的策展人，他计划采取一种“非传统的、AI-based（基于AI）的”方式。双年展将于2027年9月24日开幕，Ratti将借此追问当今策展人的角色。活动名称、主题和完整策展团队要到12月8日才会公布。"
               },
               {
                 "t": "p",
-                "x": "借助Skills over MCP，服务器可随工具发布技能，帮助Claude承担更长、多步骤的工作。Claude只在需要时加载技能，从而保持较低的上下文占用。技能随服务器一同更新，用户无需另行安装。Shopify帮助Claude从头到尾设计并更新商家的网店。"
+                "x": "具体而言，他将使用一位AI助手，通过突出能够帮助策展人的新兴工具，挑战策划展览的传统方式。"
               },
               {
                 "t": "img",
-                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
+                "cap": "Carlo Ratti（右）由首尔市长Oh Se Hoon（左）任命"
               },
               {
                 "t": "p",
-                "x": "借助Tasks，服务器可以运行耗时操作，甚至完整的智能体循环，而Claude可以继续工作。借助Elicitation，服务器可以暂停，通过表单或链接请用户输入，再从中断处继续。File Uploads可将PDFs、电子表格和图片发送给服务器，而无需经过上下文窗口。"
+                "x": "他说：“首尔或许是全世界最适合探讨人工智能与市民集体智慧如何共同塑造城市的地方。”“在即将举行的预展活动上，我们将开始介绍加入我们的人，我想会有一些惊喜——其中一位助理策展人甚至不是人类！”"
               },
               {
                 "t": "p",
-                "x": "这些功能属于开放的MCP规范及其扩展，因此支持它们的服务器可在任何兼容客户端中运行，而不只是Claude。MCP的SDK月下载量现已超过7亿次。"
+                "x": "Ratti是Carlo Ratti Associati负责人、MIT教授，他接替了策划2025年活动的Thomas Heatherwick。他曾策划以“Intelligens. Natural. Artificial. Collective.”为主题的2025年威尼斯建筑双年展。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los servidores MCP ya incluyen\nhabilidades junto a herramientas",
-          "body": "Claude abrió Skills over MCP en beta pública: los servidores MCP pueden incluir habilidades junto a sus herramientas.",
-          "mini_headline": "Los servidores MCP suman habilidades",
+          "headline": "Carlo Ratti lleva un curador AI\na la Bienal de Seúl",
+          "body": "Ratti dirigirá la Bienal de Seúl 2027 con un asistente de AI y revelará tema y equipo el 8 de diciembre.",
+          "mini_headline": "Ratti y su Bienal de Seúl AI-curated",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
+                "cap": "Carlo Ratti, comisario de la Bienal de Arquitectura de Venecia"
               },
               {
                 "t": "p",
-                "x": "Skills over MCP ya está en beta pública en Claude, así que los servidores MCP pueden distribuir habilidades junto a sus herramientas. Tasks y Elicitation ya están disponibles de forma general, y File Uploads llegará pronto."
+                "x": "El arquitecto italiano Carlo Ratti ha sido nombrado comisario de la Bienal de Arquitectura y Urbanismo de Seúl del próximo año, para la que planea un enfoque \"poco convencional, AI-based\" (basado en AI). La bienal, que se celebrará a partir del 24 de septiembre de 2027, servirá a Ratti para cuestionar el papel actual del comisario. El título, el tema y el equipo curatorial completo del evento no se darán a conocer hasta el 8 de diciembre."
               },
               {
                 "t": "p",
-                "x": "Con Skills over MCP, los servidores pueden publicar habilidades junto a sus herramientas para ayudar a Claude a asumir trabajos más largos y de varios pasos. Claude carga una habilidad solo cuando la necesita, lo que mantiene bajo el uso de contexto. Las habilidades se actualizan con el servidor, así que los usuarios no tienen nada aparte que instalar. Shopify ayuda a Claude a diseñar y actualizar de principio a fin la tienda en línea de un comerciante."
+                "x": "En concreto, utilizará un asistente de AI con el objetivo de desafiar los métodos tradicionales de desarrollo de exposiciones, destacando herramientas emergentes que pueden ayudar a los comisarios."
               },
               {
                 "t": "img",
-                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
+                "cap": "Carlo Ratti (derecha) fue nombrado por el alcalde de Seúl, Oh Se Hoon (izquierda)"
               },
               {
                 "t": "p",
-                "x": "Con Tasks, los servidores pueden ejecutar operaciones que llevan tiempo, o incluso bucles de agente completos, mientras Claude sigue trabajando. Con Elicitation, un servidor puede pausar para pedir datos al usuario mediante un formulario o un enlace y luego continuar donde lo dejó. File Uploads envía PDFs, hojas de cálculo e imágenes a un servidor sin pasarlos por la ventana de contexto."
+                "x": "\"Seúl es quizá el mejor lugar del mundo para preguntarse cómo la inteligencia artificial y la sabiduría colectiva de sus ciudadanos podrían dar forma juntas a la ciudad\", dijo. \"En el próximo evento previo a la bienal empezaremos a presentar a las personas que se unirán a nosotros, y creo que habrá algunas sorpresas: ¡uno de los comisarios adjuntos ni siquiera es humano!\""
               },
               {
                 "t": "p",
-                "x": "Estas funciones forman parte de la especificación abierta de MCP y sus extensiones, así que un servidor que las admita funciona en cualquier cliente compatible, no solo en Claude. MCP registra ya más de 700 millones de descargas mensuales del SDK."
+                "x": "Ratti, director de Carlo Ratti Associati y profesor del MIT, sucede a Thomas Heatherwick, que fue comisario de la edición de 2025. Él comisarió la Bienal de Arquitectura de Venecia de 2025, con el tema Intelligens. Natural. Artificial. Collective."
               }
             ]
           }
@@ -1635,137 +1617,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "MCP 서버, 이제 도구와\n함께 스킬도 배포",
-          "body": "Claude가 Skills over MCP 공개 베타로 서버 스킬 배포를 열었다.",
-          "mini_headline": "MCP 서버, 스킬 배포",
+          "headline": "Carlo Ratti의\n서울비엔날레 AI 큐레이터",
+          "body": "Ratti는 AI 조수와 2027 서울비엔날레를 맡고 다음달 8일 주제를 밝힌다.",
+          "mini_headline": "Ratti의 AI-curated 서울비엔날레",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
+                "cap": "베네치아 건축 비엔날레 큐레이터 Carlo Ratti"
               },
               {
                 "t": "p",
-                "x": "Claude에서 Skills over MCP가 공개 베타로 나와, MCP 서버가 도구와 함께 스킬을 배포할 수 있게 됐다. Tasks와 Elicitation은 정식 출시됐고, File Uploads도 곧 배포된다."
+                "x": "이탈리아 건축가 Carlo Ratti(카를로 라티)가 내년 서울도시건축비엔날레 큐레이터로 선임됐다. 그는 “관습에서 벗어난, AI 기반(AI-based)” 방식을 택할 계획이다. 2027년 9월 24일 개막하는 이번 비엔날레에서 Ratti는 오늘날 큐레이터의 역할을 묻는다. 행사 제목과 주제, 전체 큐레이터 팀은 12월 8일에야 공개된다."
               },
               {
                 "t": "p",
-                "x": "Skills over MCP를 쓰면 서버가 도구와 함께 스킬을 게시해 Claude가 더 길고 여러 단계로 이뤄진 작업을 맡도록 돕는다. Claude는 필요할 때만 스킬을 불러와 컨텍스트 사용량을 낮게 유지한다. 스킬은 서버와 함께 업데이트되므로 사용자가 따로 설치할 것이 없다. Shopify는 Claude가 판매자의 온라인 스토어를 처음부터 끝까지 디자인하고 업데이트하도록 돕는다."
+                "x": "구체적으로는 AI 어시스턴트를 활용해, 큐레이터를 도울 수 있는 새로운 도구를 부각하며 전시를 만드는 전통적 방식에 도전할 계획이다."
               },
               {
                 "t": "img",
-                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
+                "cap": "Carlo Ratti(오른쪽)는 오세훈(Oh Se Hoon) 서울시장(왼쪽)이 임명했다"
               },
               {
                 "t": "p",
-                "x": "Tasks를 쓰면 서버가 시간이 걸리는 작업이나 에이전트 루프 전체를 돌리는 동안에도 Claude는 계속 일한다. Elicitation을 쓰면 서버가 잠시 멈추고 폼이나 링크로 사용자 입력을 받은 뒤 멈춘 곳부터 이어 간다. File Uploads는 PDFs, 스프레드시트, 이미지를 컨텍스트 창을 거치지 않고 서버로 보낸다."
+                "x": "그는 “서울은 인공지능과 시민의 집단 지성이 어떻게 함께 도시를 만들어 갈지 묻기에 세계에서 가장 좋은 곳일지 모른다”며 “곧 열릴 프리 비엔날레 행사에서 함께할 사람들을 소개하기 시작할 텐데, 몇 가지 깜짝 놀랄 일이 있을 것이다. 보조 큐레이터 한 명은 심지어 인간이 아니다!”라고 말했다."
               },
               {
                 "t": "p",
-                "x": "이 기능들은 공개 MCP 사양과 그 확장에 속하므로, 이를 지원하는 서버는 Claude뿐 아니라 호환되는 어떤 클라이언트에서도 작동한다. MCP SDK의 월간 다운로드는 현재 7억 회를 넘는다."
+                "x": "Carlo Ratti Associati 대표이자 MIT 교수인 Ratti는 2025년 행사를 맡았던 Thomas Heatherwick(토머스 헤더윅)의 뒤를 잇는다. 그는 ‘Intelligens. Natural. Artificial. Collective.’를 주제로 한 2025 베네치아 건축 비엔날레를 큐레이팅했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MCPサーバー、ツールと\n共にスキルも配布可能に",
-          "body": "ClaudeのSkills over MCP公開ベータで、サーバーがスキルも配れる。",
-          "mini_headline": "MCPサーバーがスキルを配布",
+          "headline": "Carlo Rattiが\nソウルにAIキュレーター",
+          "body": "Rattiは2027年ソウル建築ビエンナーレをAI助手と企画し、来月8日に主題を明かす。",
+          "mini_headline": "RattiのAI-curatedなソウル・ビエンナーレ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
+                "cap": "ヴェネチア・ビエンナーレ国際建築展のキュレーター、Carlo Ratti"
               },
               {
                 "t": "p",
-                "x": "ClaudeでSkills over MCPが公開ベータとなり、MCPサーバーがツールと共にスキルを配布できるようになった。TasksとElicitationは一般提供が始まり、File Uploadsも近く展開される。"
+                "x": "イタリアの建築家Carlo Rattiが、来年のソウル都市建築ビエンナーレのキュレーターに任命された。「型破りな、AIベース（AI-based）の」アプローチを取る計画だ。2027年9月24日に開幕するビエンナーレを通じて、Rattiは今日のキュレーターの役割を問い直す。イベントのタイトル、テーマ、キュレーターチーム全体は12月8日まで明かされない。"
               },
               {
                 "t": "p",
-                "x": "Skills over MCPにより、サーバーはツールと共にスキルを公開でき、Claudeがより長い多段階の作業をこなせるよう支援する。Claudeは必要なときだけスキルを読み込むため、コンテキストの使用量を低く抑えられる。スキルはサーバーと一緒に更新されるので、ユーザーが別途インストールするものはない。ShopifyはClaudeが販売者のオンラインストアを最初から最後までデザインし、更新するのを支援する。"
+                "x": "具体的には、AIアシスタントを活用し、キュレーターを支える新たなツールに光を当てることで、展覧会づくりの従来の手法に挑むという。"
               },
               {
                 "t": "img",
-                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
+                "cap": "Carlo Ratti（右）はソウル市長のOh Se Hoon（左）に任命された"
               },
               {
                 "t": "p",
-                "x": "Tasksでは、時間のかかる処理やエージェントループ全体をサーバーが実行している間も、Claudeは作業を続けられる。Elicitationでは、サーバーが一時停止してフォームやリンクでユーザーに入力を求め、中断したところから再開できる。File UploadsはPDFs、スプレッドシート、画像を、コンテキストウィンドウを経由せずにサーバーへ送る。"
+                "x": "「ソウルは、人工知能と市民の集合知がいかに共に都市を形づくるかを問うのに、おそらく世界で最もふさわしい場所だ」と彼は述べた。「間もなく開かれるプレ・ビエンナーレのイベントで、参加するメンバーの紹介を始める。いくつかサプライズがあると思う。アシスタントキュレーターの一人は人間ですらない！」"
               },
               {
                 "t": "p",
-                "x": "これらの機能はオープンなMCP仕様とその拡張の一部であるため、対応するサーバーはClaudeに限らず、互換性のあるあらゆるクライアントで動作する。MCPのSDKは現在、月7億回以上ダウンロードされている。"
+                "x": "Carlo Ratti Associatiの代表でMIT教授のRattiは、2025年の同イベントを手がけたThomas Heatherwickの後任となる。彼は「Intelligens. Natural. Artificial. Collective.」をテーマとした2025年のヴェネチア・ビエンナーレ国際建築展でキュレーターを務めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MCP服务器现可随工具\n一并提供技能",
-          "body": "Claude推出Skills over MCP公开测试版，MCP服务器可随工具打包技能。",
-          "mini_headline": "MCP服务器提供技能",
+          "headline": "Carlo Ratti\n为首尔双年展引入AI策展",
+          "body": "Ratti将借助AI助手策划2027年首尔建筑双年展，并于下月8日公布主题与团队。",
+          "mini_headline": "Ratti的AI-curated首尔双年展",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
+                "cap": "威尼斯建筑双年展策展人Carlo Ratti"
               },
               {
                 "t": "p",
-                "x": "Skills over MCP已在Claude中进入公开测试，MCP服务器可以随工具一并提供技能。Tasks和Elicitation现已正式可用，File Uploads也即将推出。"
+                "x": "意大利建筑师Carlo Ratti被任命为明年首尔城市建筑双年展的策展人，他计划采取一种“非传统的、AI-based（基于AI）的”方式。双年展将于2027年9月24日开幕，Ratti将借此追问当今策展人的角色。活动名称、主题和完整策展团队要到12月8日才会公布。"
               },
               {
                 "t": "p",
-                "x": "借助Skills over MCP，服务器可随工具发布技能，帮助Claude承担更长、多步骤的工作。Claude只在需要时加载技能，从而保持较低的上下文占用。技能随服务器一同更新，用户无需另行安装。Shopify帮助Claude从头到尾设计并更新商家的网店。"
+                "x": "具体而言，他将使用一位AI助手，通过突出能够帮助策展人的新兴工具，挑战策划展览的传统方式。"
               },
               {
                 "t": "img",
-                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
+                "cap": "Carlo Ratti（右）由首尔市长Oh Se Hoon（左）任命"
               },
               {
                 "t": "p",
-                "x": "借助Tasks，服务器可以运行耗时操作，甚至完整的智能体循环，而Claude可以继续工作。借助Elicitation，服务器可以暂停，通过表单或链接请用户输入，再从中断处继续。File Uploads可将PDFs、电子表格和图片发送给服务器，而无需经过上下文窗口。"
+                "x": "他说：“首尔或许是全世界最适合探讨人工智能与市民集体智慧如何共同塑造城市的地方。”“在即将举行的预展活动上，我们将开始介绍加入我们的人，我想会有一些惊喜——其中一位助理策展人甚至不是人类！”"
               },
               {
                 "t": "p",
-                "x": "这些功能属于开放的MCP规范及其扩展，因此支持它们的服务器可在任何兼容客户端中运行，而不只是Claude。MCP的SDK月下载量现已超过7亿次。"
+                "x": "Ratti是Carlo Ratti Associati负责人、MIT教授，他接替了策划2025年活动的Thomas Heatherwick。他曾策划以“Intelligens. Natural. Artificial. Collective.”为主题的2025年威尼斯建筑双年展。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los servidores MCP ya incluyen\nhabilidades junto a herramientas",
-          "body": "Claude abrió Skills over MCP en beta pública: los servidores MCP pueden incluir habilidades junto a sus herramientas.",
-          "mini_headline": "Los servidores MCP suman habilidades",
+          "headline": "Carlo Ratti lleva un curador AI\na la Bienal de Seúl",
+          "body": "Ratti dirigirá la Bienal de Seúl 2027 con un asistente de AI y revelará tema y equipo el 8 de diciembre.",
+          "mini_headline": "Ratti y su Bienal de Seúl AI-curated",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
+                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
+                "cap": "Carlo Ratti, comisario de la Bienal de Arquitectura de Venecia"
               },
               {
                 "t": "p",
-                "x": "Skills over MCP ya está en beta pública en Claude, así que los servidores MCP pueden distribuir habilidades junto a sus herramientas. Tasks y Elicitation ya están disponibles de forma general, y File Uploads llegará pronto."
+                "x": "El arquitecto italiano Carlo Ratti ha sido nombrado comisario de la Bienal de Arquitectura y Urbanismo de Seúl del próximo año, para la que planea un enfoque \"poco convencional, AI-based\" (basado en AI). La bienal, que se celebrará a partir del 24 de septiembre de 2027, servirá a Ratti para cuestionar el papel actual del comisario. El título, el tema y el equipo curatorial completo del evento no se darán a conocer hasta el 8 de diciembre."
               },
               {
                 "t": "p",
-                "x": "Con Skills over MCP, los servidores pueden publicar habilidades junto a sus herramientas para ayudar a Claude a asumir trabajos más largos y de varios pasos. Claude carga una habilidad solo cuando la necesita, lo que mantiene bajo el uso de contexto. Las habilidades se actualizan con el servidor, así que los usuarios no tienen nada aparte que instalar. Shopify ayuda a Claude a diseñar y actualizar de principio a fin la tienda en línea de un comerciante."
+                "x": "En concreto, utilizará un asistente de AI con el objetivo de desafiar los métodos tradicionales de desarrollo de exposiciones, destacando herramientas emergentes que pueden ayudar a los comisarios."
               },
               {
                 "t": "img",
-                "src": "https://assets.claude.com/c801d50355ebd35519eb1d82598a4c903298e966.png"
+                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
+                "cap": "Carlo Ratti (derecha) fue nombrado por el alcalde de Seúl, Oh Se Hoon (izquierda)"
               },
               {
                 "t": "p",
-                "x": "Con Tasks, los servidores pueden ejecutar operaciones que llevan tiempo, o incluso bucles de agente completos, mientras Claude sigue trabajando. Con Elicitation, un servidor puede pausar para pedir datos al usuario mediante un formulario o un enlace y luego continuar donde lo dejó. File Uploads envía PDFs, hojas de cálculo e imágenes a un servidor sin pasarlos por la ventana de contexto."
+                "x": "\"Seúl es quizá el mejor lugar del mundo para preguntarse cómo la inteligencia artificial y la sabiduría colectiva de sus ciudadanos podrían dar forma juntas a la ciudad\", dijo. \"En el próximo evento previo a la bienal empezaremos a presentar a las personas que se unirán a nosotros, y creo que habrá algunas sorpresas: ¡uno de los comisarios adjuntos ni siquiera es humano!\""
               },
               {
                 "t": "p",
-                "x": "Estas funciones forman parte de la especificación abierta de MCP y sus extensiones, así que un servidor que las admita funciona en cualquier cliente compatible, no solo en Claude. MCP registra ya más de 700 millones de descargas mensuales del SDK."
+                "x": "Ratti, director de Carlo Ratti Associati y profesor del MIT, sucede a Thomas Heatherwick, que fue comisario de la edición de 2025. Él comisarió la Bienal de Arquitectura de Venecia de 2025, con el tema Intelligens. Natural. Artificial. Collective."
               }
             ]
           }

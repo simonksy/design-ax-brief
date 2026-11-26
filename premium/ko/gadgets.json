@@ -19151,6 +19151,133 @@
           "yt": "1nVgFoCTBD4"
         }
       ]
+    },
+    "gadgets/hp-omnibook-ultra16-rtxspark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+          "cap": "HP '옴니북 울트라 16'"
+        },
+        {
+          "t": "p",
+          "x": "HP코리아가 24일 고성능 인공지능(AI) 작업에 특화된 노트북 'HP 옴니북 울트라 16'을 국내 출시했다."
+        },
+        {
+          "t": "p",
+          "x": "HP 옴니북 울트라 16은 엔비디아 'RTX 스파크 N1X' 플랫폼을 탑재했다. 20코어 그레이스 중앙처리장치(CPU)와 6144코어 블랙웰 그래픽처리장치(GPU), 최대 128GB 통합 메모리를 갖췄다."
+        },
+        {
+          "t": "p",
+          "x": "클라우드 연결 없이 대규모 AI 모델을 구동할 수 있고, 데이터 분석과 코드 작성 등 여러 단계 작업을 자동으로 수행하는 AI 에이전트 활용을 지원한다. 고해상도 영상 편집·3차원(3D) 콘텐츠 제작·고사양 게임에도 활용할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "윈도 11 프로를 탑재해 데이터 암호화·가상화·원격 접속 등 전문 업무에 필요한 기능을 제공한다. 16인치 3K 유기발광다이오드(OLED) 터치 디스플레이를 탑재했고, 99와트시(Wh) 배터리를 적용해 최대 17시간 사용이 가능하다."
+        },
+        {
+          "t": "p",
+          "x": "장시간 고부하 작업을 위한 냉각 시스템도 강화했다. HP 소비자용 노트북 최초로 '타워 힌지 앤 트렁크' 구조를 도입해 공기 흐름과 열 방출 효율을 높였다. 국내 구매 고객에게는 3년 무상 보증 서비스를 제공한다."
+        },
+        {
+          "t": "p",
+          "x": "강용남 HP코리아 대표는 “AI가 단순한 질문 응답을 넘어 창작과 업무를 지원하는 지능형 에이전트 중심으로 진화하면서 PC는 이와 같은 AI 워크플로우를 실행하고 개발하는 플랫폼으로 그 역할이 확대되고 있다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "이어 “국내 사용자는 옴니북 울트라 16을 통해 AI와 함께 일하고 창작하는 새로운 방식을 경험하게 할 것”이라고 덧붙였다."
+        }
+      ]
+    },
+    "gadgets/usc-stress-ring-ondevice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "University of Southern California(서던캘리포니아대)의 Yasser Khan 조교수와 PhD 과정 학생 Farhad Hassan이 이끄는 연구팀이 AI 기반(AI-powered) 반지를 만들었다. 근적외선으로 피부 아래 땀 활동을 추적하는 반지다. 연구 결과는 Science Advances에 실렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+          "cap": "USC Khan Lab"
+        },
+        {
+          "t": "p",
+          "x": "Khan은 “빛으로 스트레스를 측정할 수 있다는 것을 누군가 보여 준 것은 이번이 처음”이라고 말했다. 참가자 네 명을 대상으로 한 실험에서 광학 신호는 상용 젤 기반 EDA 센서와 시간 흐름에 따라 평균 86퍼센트 일치했다. 심박수와 심박변이도도 같은 광학 시스템으로 잰다. 온도 센서와 가속도계가 있어 반지는 심리적 스트레스로 나는 땀을 움직임이나 열 때문에 나는 땀과 가려낸다."
+        },
+        {
+          "t": "p",
+          "x": "머신러닝 모델이 반지 안에서 돌아가 원시 생체 데이터를 외부 서버로 보낼 필요가 없다. 연구팀은 “양자화한 INT8 모델은 27.65 kB를 차지했다. 감지와 추론을 동시에 구현하는 데 프로그램 플래시 174.47 kB와 정적 RAM 27.63 kB가 필요했다”고 썼다. 데이터는 반지에서 처리하고, 연결된 휴대폰에는 스트레스 상태인지 이완 상태인지 최종 판정만 보낸다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+          "cap": "Science Advances / USC"
+        },
+        {
+          "t": "p",
+          "x": "Khan은 사무실 환경에서 참가자 40명을 대상으로 일 년간 후속 연구를 할 계획이다. 기술은 특허 출원 중이며 앞으로 USC의 Stevens Center for Innovation을 거쳐 상업용 라이선스로 나올 수 있다."
+        }
+      ]
+    },
+    "gadgets/meta-glasses-south-africa-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
+        },
+        {
+          "t": "p",
+          "x": "Essilor Luxottica와 Meta가 십일월 말부터 남아프리카공화국에서 Ray-Ban Meta와 Oakley Meta 스마트 안경 컬렉션을 판매한다. 현지 소비자에게는 AI 기반(AI-powered) 웨어러블 기술이라는 새로운 범주다."
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta는 3세대 제품이 들어오며 Wayfarer, Aviator, Zena 스타일로 나온다. 착용자는 사진과 동영상을 찍고 음악과 팟캐스트를 듣는다. 전화 통화와 메시지 전송, 대화 번역도 된다. 내장 Meta AI에게는 지금 보고 있는 대상을 음성으로 물어볼 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Oakley Meta 컬렉션은 스포츠와 야외 활동용이다. HSTN은 3K Ultra HD 카메라와 오픈형 스피커, IPX4 등급을 갖췄다. 러닝과 사이클링용인 Vanguard에는 시야각 122도의 12MP 초광각 카메라와 IP67 등급, Strava·Garmin 연동이 들어갔다."
+        },
+        {
+          "t": "p",
+          "x": "제품은 일부 Essilor Luxottica 안경 소매 파트너와 Oakley 매장, 온라인에서 살 수 있다. 권장 시작가는 Ray-Ban Meta Optics (Gen 2) R8,999, Ray-Ban Meta (Gen 3) R8,599, Oakley Meta Vanguard R10,599, Oakley Meta HSTN R8,399다."
+        }
+      ]
+    },
+    "gadgets/savage-orrorin-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "홍콩 스타트업 Savage Technology가 첫 제품 \"Orrorin Glasses\"를 발표했다. 무게 45그램에 불과한 프레임에 Vision Pro-style 핀치 조작과 양안 풀컬러 디스플레이를 담았다."
+        },
+        {
+          "t": "p",
+          "x": "회사 설명으로는 이 안경이 \"Vision Pro–level interaction\"(Vision Pro 수준의 상호작용)을 내면서도 외장 배터리까지 더한 Apple 헤드셋보다 약 25배 가볍다. 다만 Orrorin이 할 수 있는 일은 훨씬 적다."
+        },
+        {
+          "t": "p",
+          "x": "Savage에 따르면 링이나 손목 밴드, 컨트롤러 없이 몸 옆에서 손가락을 살짝 집기만 하면 인터페이스를 다룬다. 시선 추적은 Vision Pro와 달리 인터페이스 요소를 고르는 데 쓰지 않는다. 착용자가 눈을 돌리면 화면을 흐리게 지우는 용도다."
+        },
+        {
+          "t": "p",
+          "x": "Meta Ray-Ban Display는 같은 $799이지만 오른쪽 눈에만 화면이 있고 Neural Band 손목 밴드가 필요하다. Orrorin은 위치 추적과 공간 매핑이 없어 Vision Pro처럼 가상 창을 방 안에 고정할 수 없다."
+        },
+        {
+          "t": "p",
+          "x": "Bill Pei와 Elena Shi가 공동 창업한 Savage는 아직 엔지니어링 검증 단계다. 서드파티 앱은 물론 Claude Code, Codex 같은 AI 에이전트와도 연동된다며 개발자를 겨냥한다."
+        },
+        {
+          "t": "p",
+          "x": "Orrorin 예약금은 $29부터이며 $799 가격에 포함된다. Savage는 Founder Edition 구매자에게 2027년 3월, Early Bird 구매자에게 2027년 5월부터 배송을 시작할 것으로 내다본다."
+        }
+      ]
     }
   }
 }

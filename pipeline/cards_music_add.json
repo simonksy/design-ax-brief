@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-27",
+  "section": "music",
+  "cards": [
+    {
+      "id": "madlibs-genmusic-distribution",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "MADlibs maps what music\nmodels can actually make",
+      "body": "MADlibs uses NLP-generated prompts and MIR analysis to chart what text-to-music models will actually produce.",
+      "mini_headline": "Mapping what AI music makes",
+      "tool": "Music",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.31462",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "MADlibs: Analyzing the Distribution of Generative Music — Matthew Keating, Noah Schaffer, Michael Casey and Nikhil Singh (Dartmouth College)."
+          },
+          {
+            "t": "p",
+            "x": "What music can a text-to-music model actually make? The answer has consequences for individual creators, communities, and musical culture more broadly. MADlibs is a framework to measure the expressive support of state-of-the-art music generators: the subset of musical behaviors they will actually produce across the space of prompts. The authors study three widely-used models: MusicGen, ACE-Step, and DiffRhythm."
+          },
+          {
+            "t": "img",
+            "src": "https://arxiv.org/html/2611.31462v1/banner.png",
+            "cap": "Figure 1: End-to-end MADlibs pipeline. Using five different prompting strategies, we generate 10,000 prompts and use these as input to three text-to-music models. We then perform downstream MIR analysis on the output of all models."
+          },
+          {
+            "t": "p",
+            "x": "Prompts are generated with natural language processing methods and existing caption corpora; MIR techniques then study the output spaces in terms of key, beat, tempo, instrumentation, and dynamics."
+          },
+          {
+            "t": "p",
+            "x": "The finding: text-to-music models are not interchangeable instruments for the same prompt space. Each has learned idiosyncratic properties that constrain the music reachable via prompting — defaulting to certain tempi, failing to produce silences, or oversampling canonical band arrangements. Because users interact one prompt at a time, these biases are often invisible yet cumulatively shape what AI-assisted music sounds like, risking \"a new auditory monoculture hidden behind the promise of universal describability.\""
+          }
+        ]
+      }
+    }
+  ]
+}

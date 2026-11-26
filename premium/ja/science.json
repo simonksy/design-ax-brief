@@ -12939,6 +12939,128 @@
           "x": "「今の課題は、人をウサギの穴から引き戻すことよりも、そもそも対話に参加してもらうことだ」と、筆頭著者であるカーネギーメロン大学のトーマス・コステロ氏は話す。"
         }
       ]
+    },
+    "science/ifaw-wildlife-app-helsinki": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+          "cap": "アプリのイメージ図。クレジット：Jani Närhi / University of Helsinki"
+        },
+        {
+          "t": "p",
+          "x": "University of Helsinkiの研究者らは国際動物福祉基金（International Fund for Animal Welfare、IFAW）と共同で、野生動物製品の画像約40,000枚を使ってAIモデルを訓練した。モデルは、ゾウ、センザンコウ、トラに由来する製品を、見た目の似た日用品と区別できる。"
+        },
+        {
+          "t": "p",
+          "x": "最も優れたモデルは全体で84%の精度を達成し、トラとセンザンコウの製品では90%を超えた。研究用の試作スマートフォンアプリは、独立した実践的スクリーニング試験で91.3%の精度に達した。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+          "cap": "アプリの画面。クレジット：Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+        },
+        {
+          "t": "p",
+          "x": "このツールは不審なオンライン出品を専門家の確認に回すためのもので、合法性の判断や取り締まりは資格を持つ当局が担う。今後は精度の向上、対象となる種と製品の拡大、NGOsやオンラインプラットフォームとの試験運用、取り締まり機関への通報手順の構築を進める。"
+        },
+        {
+          "t": "p",
+          "x": "Ritwik Kulkarniが率いた研究は、Conservation Biologyに掲載された（DOI: 10.1111/cobi.70407）。"
+        }
+      ]
+    },
+    "science/strathclyde-copepod-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+          "cap": "モデルで推定したカイアシ類動物プランクトンの分布。クレジット：Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+        },
+        {
+          "t": "p",
+          "x": "University of Strathclydeの研究者らは、海洋食物連鎖の土台となる小さな浮遊動物である動物プランクトンが、変化する海洋環境にどう応答しうるかを予測する高解像度の機械学習モデルを構築した。モデルは数十年分のContinuous Plankton Recorder調査データで訓練され、地域の気候予測と組み合わされた。"
+        },
+        {
+          "t": "p",
+          "x": "研究はニシンなどの魚の主要な餌であるカイアシ類に焦点を当てた。高排出シナリオでは、カイアシ類の個体数は2050年までに58–72%、2100年までに84–93%減ると予測され、解像度の低い全球モデルが示すより大きな減少となった。これはNorthwest European Shelfの海域が考えられていた以上に脆弱である可能性を示す。モデルは地域的な避難場所となりうる海域も特定した。"
+        },
+        {
+          "t": "p",
+          "x": "減少は海水温の上昇、栄養塩の低下、弱まりつつあるAMOCに伴う循環の変化と結びついている。筆頭著者Dr. Emma Tyldesleyのチームは、これは予測ではなくシナリオに基づく研究だと強調する。予測結果は、若い野生のタイセイヨウサケの摂餌条件を示す指標としてLikely Suspects Frameworkにも活用される。"
+        }
+      ]
+    },
+    "science/psypost-ai-label-ratings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ドイツで行われたオンライン実験で、栄養に関する短い文章に人工知能が書いたと表示しても、参加者の評価に意味のある変化は見られなかった。ただし、AI-labeledの文章を読んだ人のうち、出典が示されていたと答えたのは約42%にとどまった。論文はApplied Psychology: Health and Well-Beingに掲載された。"
+        },
+        {
+          "t": "p",
+          "x": "Laura M. Königらは、栄養学者が確認したChatGPT-generatedの文章三つのうち一つを読んだ成人774人を分析した。文章には「この文章は人工知能であるChatGPTが書きました」という注記が付く場合と付かない場合があった。"
+        },
+        {
+          "t": "p",
+          "x": "評価に統計的に有意な差はなかった。AI-labeledの文章は信頼性の評価がやや低かったが、信頼の平均は7-point尺度で5を上回った。WhatsAppで要約を書いた参加者569人のうち、AIを出典として挙げたのは17人だけだった。"
+        },
+        {
+          "t": "p",
+          "x": "著者らは「結果は、AIチャットボットが一般の人々にとって、栄養関連情報の受け入れられ信頼された情報源になっていることを示している」と結論づけた。ただし文章の質は高く、質の低い情報ではラベルがより重要になりうると指摘している。"
+        }
+      ]
+    },
+    "science/natcomms-neural-decoding-leakage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ニューラルデコーディングは、行動、知覚、認知が神経活動にどう表現されているかを調べるために広く使われる機械学習の手法である。しかし慎重に適用しなければ、テストセットの情報が訓練セットに混入するデータ漏洩が起こりうる。その結果、デコーディング性能の推定に偏りが生じ、生物学的な結論が無効になるおそれがある。"
+        },
+        {
+          "t": "p",
+          "x": "本研究では、次元削減を含む一般的な教師あり・教師なしの前処理によって、ニューラルデコーディング研究に漏洩が持ち込まれうることを示す。場合によっては漏洩が逆説的に、偏りのない推定値よりもデコーディング性能を低下させることを明らかにし、その仕組みを説明する理論的分析を示す。また、自己相関を持つ神経時系列では、ランダムなk-fold交差検証がデコーディング性能を大幅に過大評価しうることも示す。これらの結果に基づき、ニューラルデコーディングでデータ漏洩を避けるための詳細な推奨事項を提示する。"
+        }
+      ]
+    },
+    "science/deepmind-mass-spec-skills": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google DeepMindは、Google Antigravity向けのMass Spec Skillsを公開している。Geminiの化学的推論を、確立された質量分析ツールや公開化学データベースと組み合わせたドメインスキル群だ。スペクトル検索で注釈が付くのは測定スペクトルの平均わずか約5%で、残りは質量分析の「ダークマター」と呼ばれてきた。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+          "cap": "図1. シグナルを整え、参照ライブラリを検索し、分子式を推定して候補構造を順位付けし、照合と精緻化を行う。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントは一つのプロンプトから、注釈のないタンデム質量スペクトルを出発点に、化学構造の提案と監査可能なレポートまで到達できる。ある実行では分子式C20H21ClN6Oを特定し、PubChemの異性体845個を順位付けしたうえで、フラグメンテーション経路を検証して真の分子(CID 137835447)を突き止めた。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+          "cap": "図2. 一つのプロンプトで構造解析を最初から最後まで実行する。"
+        },
+        {
+          "t": "p",
+          "x": "MoNAのEnamine REAL MS/MSコレクションから選んだ100化合物では、インターネット接続もスキルもない状態の正解率が、Gemini 3.8 Flash、Gemini 4 Argon、Gemini 4 Carbonのいずれでも4%未満にとどまった。Mass Spec Skillsを使うと、三つのモデルとも約97%の試行で正確な分子を特定・検証し、Flashでは生成トークンが四分の一近くまで減った。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+          "cap": "図5a. ベンチマークスペクトル100件における完全一致の識別精度。"
+        },
+        {
+          "t": "p",
+          "x": "鏡像分子や一部のよく似た異性体は、LC-MS/MSスペクトルだけでは区別できない。DeepMindは科学者10,000人に、Antigravityの最上位利用枠を6カ月間無料で提供する。"
+        }
+      ]
     }
   }
 }

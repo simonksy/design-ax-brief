@@ -13238,6 +13238,144 @@
           "x": "Nsight Graphics 2026.4 and Nsight Systems 2026.6 add DLSS Frame Generation analysis and agentic AI tooling: a new Nsight Graphics MCP server lets compatible AI agents capture applications, debug captures and analyze GPU traces."
         }
       ]
+    },
+    "games/unity-spark-annotate": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "QmX2VKa1_24"
+        },
+        {
+          "t": "p",
+          "x": "Instead of just describing where things go, you can annotate (draw, select, point) in the scene."
+        },
+        {
+          "t": "p",
+          "x": "With the Annotate feature in Unity Spark, you can annotate directly onto your game scene or anywhere in your workspace to give Unity Spark the exact visual context it needs."
+        },
+        {
+          "t": "p",
+          "x": "Join the Unity Spark closed beta waitlist: https://on.unity.com/4CmmUb7"
+        }
+      ]
+    },
+    "games/tlou2-ai-multiplayer-mod": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Another modder has used AI to make a multiplayer mode for The Last of Us Part 2, insisting there isn't much Sony can do about it \"even if they do shut me down.\""
+        },
+        {
+          "t": "p",
+          "x": "Naughty Dog cancelled its planned Factions multiplayer game based on The Last of Us Part 2. In September, a promising multiplayer mod by creator 'Speclizer' was sent a cease and desist letter from Sony before release."
+        },
+        {
+          "t": "p",
+          "x": "The new mod is called Twelve Weeks and was built specifically for The Last of Us Part 2 Remastered on PC, using, its creator has admitted, generative AI. Modder 'Kellie' admitted to using Claude code for most of the game's development, and AI was even used to write the lore dumps you can find in the game. The art was, however, made using Blender."
+        },
+        {
+          "t": "p",
+          "x": "It features reworked levels — Supply Raid and Interrogation for now — with team-based 4v4 combat, new weapons, and character customization, with players fighting as the WLF and Seraphites. You can grab Twelve Weeks on Nexus Mods. A repository disclaimer says it is an unofficial fan project and contains no game files and no assets taken from the game."
+        },
+        {
+          "t": "p",
+          "x": "In a reply on YouTube, Kellie said the previous Factions mod got hit by Sony because it was paywalled. \"Mine is released already for free and in open source,\" they said. \"Since people have the source code to the full mod already, there ain't much they can do even if they do shut me down.\""
+        }
+      ]
+    },
+    "games/umamusume-ai-clone-pulled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "An AI clone of Umamusume: Pretty Derby has been struck off the Google Play Store after it drew the ire of fans, and the community organised to report the offending title to Cygames."
+        },
+        {
+          "t": "video",
+          "yt": "bZ6NL-oPEkI"
+        },
+        {
+          "t": "p",
+          "x": "Anime Racing Academy, developed by HIFI Publishers, was described as an \"action-packed anime racing game\" on its official store description. Like Umamusume, it allows players to manage and race humanoid horse girls, with some of its designs either very close replications of Umamusume characters while others appear to be outright copies. Unlike Umamusume, it was packed full of ads, as highlighted by curious fans."
+        },
+        {
+          "t": "p",
+          "x": "Once Umamusume fans discovered the game, many pushed to have the game reported and taken off the Google Play Store. As of writing this appears to have happened, as the game is no longer discoverable on the mobile platform. Other games from HIFI Publishers remain up on stores, which indicates this specific game has been reported and subsequently taken down."
+        }
+      ]
+    },
+    "games/alphadefect-slay-spire2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Four researchers — Qiyue Chen of Université Paris-Saclay, Taian Yu of the University of New South Wales, Junpei Komiyama of Mohamed bin Zayed University of Artificial Intelligence and Haobo Huang of the Chinese University of Hong Kong — published the co-authored paper \"AlphaDefect: Expert-Level AI for Slay the Spire 2\" on November 24. It proposes AlphaDefect, a reinforcement learning system that beats Ascension 10, known as the game's highest difficulty to date. On Ascension 10, the final boss of Act 3 becomes a back-to-back fight against two bosses."
+        },
+        {
+          "t": "p",
+          "x": "The team loaded the game's compiled assemblies and replaced only the presentation layer, building an environment where the AI can make every decision without any on-screen display. They prepared six networks in total, one for each of the six characters, and collected data at a pace of 5,000 to 10,000 per second. In the end, 14.2 billion decisions were made over 25 days across all characters."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "For evaluation, the team used a greedy method that picks the highest-probability option, adding lookahead only when the AI was uncertain (when its top option's selection probability was under 90%). Greedy play alone recorded win rates of 62.2% to 76.7%, and lookahead raised each character's win rate by about 3 to 6 points. The Defect in particular reached 80.3%."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "In human play data from Spire Codex, an unofficial database used for comparison, Ascension 10 win rates for the six characters ranged from 10.9% to 19.9%. In a live stream on bilibili, the AI won 645 of 866 runs. In Dread mode, the Defect's win rate was 16.8%, versus 9.4% for human players."
+        },
+        {
+          "t": "p",
+          "x": "On the other hand, 47% to 68% of losses with greedy play alone came in the back-to-back final boss fight of Act 3. The team lists bringing lookahead into the training stage as future work."
+        }
+      ]
+    },
+    "games/eafc-motson-ai-voice": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Legendary football pundit John Motson will return to the series, in AI form, in today's EA FC 27 title update."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+          "cap": "Image credit: Getty Images - Photo by Laurence Griffiths/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Legendary BBC football commentator John \"Motty\" Motson, who died in 2023 at age 77, is being added to EA Sports FC 27 through \"a mix of both his original audio and an AI-recreation trained by recordings of the man himself.\" The announcement says \"almost 10 years of in-game recordings\" were used with \"new AI tools.\" His history with EA's football series goes back to FIFA Soccer 96."
+        },
+        {
+          "t": "p",
+          "x": "\"My father adored being the voice of the game, and we are so grateful to the team at EA Sports FC for this touching tribute and preserving his memory in-game,\" John's son Fred said. The BBC reports EA paid the family an undisclosed sum."
+        },
+        {
+          "t": "p",
+          "x": "Not everyone shares that enthusiasm: on the EA Sports FC subreddit some call it \"shameful,\" \"disrespectful,\" \"gross,\" and \"bloody dark.\" \"What a bleak fucking world we live in,\" one redditor wrote. Peter Caulfield of Save Our Voices Now said \"unless you have specifically agreed to it, AI cloning of any kind should not be allowed.\" Red Hook Studios, by contrast, said it would never use AI to recreate narrator Wayne June's voice."
+        }
+      ]
     }
   }
 }

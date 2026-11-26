@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "marketing",
   "cards": [
     {
-      "id": "reddit-max-agent-buying",
+      "id": "chatgpt-ads-learnmore-cta",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Reddit Max에\n에이전트 간 광고 구매",
-      "body": "Reddit Max가 내년 MCP 서버와 에이전트 간 광고 구매를 시험한다.",
-      "mini_headline": "Reddit, 에이전트 광고 구매 시험",
+      "headline": "ChatGPT Ads에\n새 CTA·지표 추가",
+      "body": "OpenAI 광고에 Learn More 버튼·지표가 붙고 U.S. 밖으로 넓어졌다.",
+      "mini_headline": "ChatGPT Ads에 새 CTA",
       "tool": "Marketing",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/reddit-ad-growth-plans-search-shopping-ai-agents-2026-11",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/chatgpt-ads-updates-42623.html",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,209 +19,257 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
-            "cap": "Reddit COO Jen Wong이 내세운 2027년 광고 성장 전략의 중심은 검색, 쇼핑, AI 에이전트다."
+            "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
           },
           {
             "t": "p",
-            "x": "Reddit이 검색, 쇼핑, AI 에이전트를 축으로 새 광고 전략을 내놓았다. 최고운영책임자(COO) Jen Wong은 CMO Insider에 업계 흐름에 맞춰 Reddit도 에이전트 기반 광고 구매로 간다고 말했다. 내년에는 자동 구매 플랫폼 Reddit Max 안에서 모델 컨텍스트 프로토콜(MCP) 서버와 에이전트 간(agent-to-agent) 광고 구매 기능을 시험하기 시작할 계획이다."
+            "x": "OpenAI가 ChatGPT Ads 제품 업데이트를 보냈다. Business Agents를 U.S. 밖으로 넓히고 단일 이미지 광고에 learn more 클릭 유도 문구(call-to-action)를 새로 붙였다. Ads Manager와 Ads API의 오디언스 지표를 늘렸고, 프로모션이 끝나면 제품 피드 할인가를 숨기는 기능과 Ads Manager 정책 센터의 새 세부 정보도 담았다."
           },
           {
             "t": "p",
-            "x": "Reddit은 이달 미국(US)에서 검색 결과 페이지 광고를 시험하기 시작했다. 키워드 입찰을 파는 방식이 아니라 사용자 검색어와 관련 있을 때 광고가 자동으로 붙는다. 서브레딧(subreddit) 토론을 AI로 모아 제품 리뷰 페이지로 엮는 Reddit Reviews도 선보였다. Wong은 마케터들에게 최신 제품 카탈로그를 꾸준히 올려 Reddit의 제품 지식 그래프를 채우라고 조언했다."
-          },
-          {
-            "t": "p",
-            "x": "3분기 광고 매출은 8억4700만 달러로 전년보다 54% 늘었다. 광고 사업의 60% 이상은 이제 “성과 지향(performance oriented)”이다. 미국(US) 일간 활성 사용자는 전년보다 2% 줄었고, Reddit이 밝힌 전 세계 일간 활성 사용자는 1억3000만 명이다."
+            "x": "Learn more: ChatGPT 단일 이미지 광고의 설명 아래에는 이제 기본으로 \"Learn more\" 링크가 뜬다. Ads Manager에 이미 설정해 둔 랜딩 페이지로 이어지니 따로 손볼 것은 없다."
           },
           {
             "t": "img",
-            "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
-            "cap": "Reddit 마스코트 Snoo가 올여름 뉴욕 브랜드 보데가 팝업에 나왔다."
+            "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+            "cap": "Learn more 클릭 유도 문구가 붙은 ChatGPT 단일 이미지 광고"
           },
           {
             "t": "p",
-            "x": "퍼포먼스 마케팅 에이전시 Tinuiti의 VP Jack Johnston은 “Reddit은 이미 그 자체로 점점 더 성과 채널이 되고 있지만, 충분히 활용되지 못하고 제대로 평가받지 못하는 경우가 많다”고 말했다."
+            "x": "Business Agents: U.S. 밖 지원 시장의 적격 이커머스·온라인 서비스 기업도 이제 ChatGPT Business Hub에서 Business Agent를 만들어 게시하고 적격 캠페인에 Sponsored Business Agent로 넣을 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "오디언스 지표: Reach는 광고를 한 번 이상 본 순 이용자 수의 추정치이고 Frequency는 총 노출 수를 Reach로 나눈 값이다. OpenAI는 Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC, Cost per 1,000 Reached도 새로 넣었다."
+          },
+          {
+            "t": "p",
+            "x": "광고주는 제품 피드 할인가를 숨겨 광고에 정상가를 다시 띄울 수 있다. 광고 심사 메시지에는 어떤 정책이 적용됐는지 나온다. 광고 승인 기준 자체는 그대로라고 OpenAI는 밝혔다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
+            "cap": "OpenAI의 ChatGPT Ads 업데이트 이메일"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Reddit plans agent-to-agent\nad buying in Reddit Max",
-          "body": "Reddit will test an MCP server and agent-to-agent ad buying inside Reddit Max next year, COO Jen Wong says.",
-          "mini_headline": "Reddit tests agent ad buying",
+          "headline": "ChatGPT Ads gets a new CTA\nand more audience metrics",
+          "body": "OpenAI's ChatGPT Ads update adds a Learn More button, more audience metrics, and Business Agents beyond the U.S.",
+          "mini_headline": "ChatGPT Ads gets a new CTA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
-                "cap": "Reddit COO Jen Wong's 2027 ad growth agenda centers on search, shopping, and AI agents."
+                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
               },
               {
                 "t": "p",
-                "x": "Reddit has a new ads agenda: search, shopping, and AI agents. Chief Operating Officer Jen Wong told CMO Insider that next year Reddit wants to start testing a model context protocol (MCP) server and agent-to-agent ad buying capabilities within its Reddit Max automated buying platform, as it follows the industry into agentic ad buying."
+                "x": "OpenAI just sent out a product update on ChatGPT Ads announcing that Business Agents expand outside the U.S., new learn more call-to-action added to single image ads, more audience metrics in Ads Manager and the Ads API, ability to hide product feed sale prices when a promotion ends and new policy center details in Ads Manager."
               },
               {
                 "t": "p",
-                "x": "This month Reddit began testing ads on its search results pages in the US, auto-placing them when they're relevant to users' queries rather than selling keyword bids. It also launched Reddit Reviews, which uses AI to compile subreddit discussions into product review pages; Wong advised marketers to keep uploading fresh product catalogs to feed Reddit's product knowledge graph."
-              },
-              {
-                "t": "p",
-                "x": "Ad revenue rose 54% year over year to $847 million in the third quarter, and over 60% of the ad business is now \"performance oriented.\" US daily active users fell 2% year over year; Reddit reported 130 million global daily active users."
+                "x": "Learn more: On ChatGPT single image ads now show a \"Learn more\" link below the description by default. It opens the landing page you already set in Ads Manager, so no additional setup is required."
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
-                "cap": "Reddit's mascot Snoo made an appearance at the brand's bodega pop-up in New York City this summer."
+                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+                "cap": "ChatGPT single image ad with the Learn more call-to-action"
               },
               {
                 "t": "p",
-                "x": "\"Reddit is already increasingly becoming a performance channel in its own right, but it is often underutilized and underappreciated,\" said Jack Johnston, a VP at performance marketing agency Tinuiti."
+                "x": "Business Agents: Eligible ecommerce and online service businesses in supported markets outside the U.S. can now create and publish a Business Agent in the ChatGPT Business Hub, and add it to an eligible campaign as a Sponsored Business Agent."
+              },
+              {
+                "t": "p",
+                "x": "Audience metrics: Reach estimates how many unique people saw your ads at least once; Frequency is total impressions divided by Reach. OpenAI also added Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC, and Cost per 1,000 Reached."
+              },
+              {
+                "t": "p",
+                "x": "Advertisers can also hide product-feed sale prices so ads show the regular price again, and ad review messages now show which policy applies. OpenAI said the guidelines for approving ads haven't changed."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
+                "cap": "OpenAI's ChatGPT Ads update email"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Reddit Max에\n에이전트 간 광고 구매",
-          "body": "Reddit Max가 내년 MCP 서버와 에이전트 간 광고 구매를 시험한다.",
-          "mini_headline": "Reddit, 에이전트 광고 구매 시험",
+          "headline": "ChatGPT Ads에\n새 CTA·지표 추가",
+          "body": "OpenAI 광고에 Learn More 버튼·지표가 붙고 U.S. 밖으로 넓어졌다.",
+          "mini_headline": "ChatGPT Ads에 새 CTA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
-                "cap": "Reddit COO Jen Wong이 내세운 2027년 광고 성장 전략의 중심은 검색, 쇼핑, AI 에이전트다."
+                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
               },
               {
                 "t": "p",
-                "x": "Reddit이 검색, 쇼핑, AI 에이전트를 축으로 새 광고 전략을 내놓았다. 최고운영책임자(COO) Jen Wong은 CMO Insider에 업계 흐름에 맞춰 Reddit도 에이전트 기반 광고 구매로 간다고 말했다. 내년에는 자동 구매 플랫폼 Reddit Max 안에서 모델 컨텍스트 프로토콜(MCP) 서버와 에이전트 간(agent-to-agent) 광고 구매 기능을 시험하기 시작할 계획이다."
+                "x": "OpenAI가 ChatGPT Ads 제품 업데이트를 보냈다. Business Agents를 U.S. 밖으로 넓히고 단일 이미지 광고에 learn more 클릭 유도 문구(call-to-action)를 새로 붙였다. Ads Manager와 Ads API의 오디언스 지표를 늘렸고, 프로모션이 끝나면 제품 피드 할인가를 숨기는 기능과 Ads Manager 정책 센터의 새 세부 정보도 담았다."
               },
               {
                 "t": "p",
-                "x": "Reddit은 이달 미국(US)에서 검색 결과 페이지 광고를 시험하기 시작했다. 키워드 입찰을 파는 방식이 아니라 사용자 검색어와 관련 있을 때 광고가 자동으로 붙는다. 서브레딧(subreddit) 토론을 AI로 모아 제품 리뷰 페이지로 엮는 Reddit Reviews도 선보였다. Wong은 마케터들에게 최신 제품 카탈로그를 꾸준히 올려 Reddit의 제품 지식 그래프를 채우라고 조언했다."
-              },
-              {
-                "t": "p",
-                "x": "3분기 광고 매출은 8억4700만 달러로 전년보다 54% 늘었다. 광고 사업의 60% 이상은 이제 “성과 지향(performance oriented)”이다. 미국(US) 일간 활성 사용자는 전년보다 2% 줄었고, Reddit이 밝힌 전 세계 일간 활성 사용자는 1억3000만 명이다."
+                "x": "Learn more: ChatGPT 단일 이미지 광고의 설명 아래에는 이제 기본으로 \"Learn more\" 링크가 뜬다. Ads Manager에 이미 설정해 둔 랜딩 페이지로 이어지니 따로 손볼 것은 없다."
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
-                "cap": "Reddit 마스코트 Snoo가 올여름 뉴욕 브랜드 보데가 팝업에 나왔다."
+                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+                "cap": "Learn more 클릭 유도 문구가 붙은 ChatGPT 단일 이미지 광고"
               },
               {
                 "t": "p",
-                "x": "퍼포먼스 마케팅 에이전시 Tinuiti의 VP Jack Johnston은 “Reddit은 이미 그 자체로 점점 더 성과 채널이 되고 있지만, 충분히 활용되지 못하고 제대로 평가받지 못하는 경우가 많다”고 말했다."
+                "x": "Business Agents: U.S. 밖 지원 시장의 적격 이커머스·온라인 서비스 기업도 이제 ChatGPT Business Hub에서 Business Agent를 만들어 게시하고 적격 캠페인에 Sponsored Business Agent로 넣을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "오디언스 지표: Reach는 광고를 한 번 이상 본 순 이용자 수의 추정치이고 Frequency는 총 노출 수를 Reach로 나눈 값이다. OpenAI는 Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC, Cost per 1,000 Reached도 새로 넣었다."
+              },
+              {
+                "t": "p",
+                "x": "광고주는 제품 피드 할인가를 숨겨 광고에 정상가를 다시 띄울 수 있다. 광고 심사 메시지에는 어떤 정책이 적용됐는지 나온다. 광고 승인 기준 자체는 그대로라고 OpenAI는 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
+                "cap": "OpenAI의 ChatGPT Ads 업데이트 이메일"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Reddit Maxで\nエージェント間の広告購入へ",
-          "body": "Redditは来年Reddit MaxでMCPサーバーとエージェント間広告購入を試す。",
-          "mini_headline": "Reddit、エージェント広告購入を試験",
+          "headline": "ChatGPT Adsに\n新CTAと指標追加",
+          "body": "OpenAIの広告にLearn Moreボタンと指標が加わり、U.S.外にも広がる。",
+          "mini_headline": "ChatGPT Adsに新CTA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
-                "cap": "Reddit COOのJen Wongが掲げる2027年の広告成長戦略は、検索、ショッピング、AIエージェントが柱だ。"
+                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
               },
               {
                 "t": "p",
-                "x": "Redditは検索、ショッピング、AIエージェントを軸とする新たな広告戦略を打ち出した。最高執行責任者(COO)のJen WongはCMO Insiderに対し、業界に続いてエージェント型の広告購入へ進むなか、Redditは来年、自動購入プラットフォームReddit Max内でモデル・コンテキスト・プロトコル(MCP)サーバーとエージェント間(agent-to-agent)の広告購入機能の試験を始めたいと語った。"
+                "x": "OpenAIはChatGPT Adsの製品アップデートを配信し、Business AgentsのU.S.外への拡大、単一画像広告への新しいlearn moreコールトゥアクションの追加、Ads ManagerとAds APIでのオーディエンス指標の拡充、プロモーション終了時に商品フィードのセール価格を非表示にする機能、Ads Managerの新しいポリシーセンター情報を発表した。"
               },
               {
                 "t": "p",
-                "x": "Redditは今月、米国(US)で検索結果ページへの広告の試験を始めた。キーワード入札を販売するのではなく、ユーザーの検索内容に関連する場合に広告を自動配置する。また、AIでサブレディット(subreddit)の議論をまとめて製品レビューページにするReddit Reviewsも始めた。Wongはマーケターに対し、Redditの製品ナレッジグラフに情報を供給するため、最新の製品カタログをアップロードし続けるよう助言した。"
-              },
-              {
-                "t": "p",
-                "x": "第3四半期の広告収入は前年同期比54%増の8億4700万ドルとなり、広告事業の60%超がいまや「パフォーマンス志向(performance oriented)」だ。米国(US)の1日当たりアクティブユーザーは前年同期比2%減少した。Redditが発表した世界の1日当たりアクティブユーザーは1億3000万人だった。"
+                "x": "Learn more:ChatGPTの単一画像広告は、説明文の下に「Learn more」リンクを標準で表示するようになった。Ads Managerで設定済みのランディングページが開くため、追加の設定は不要だ。"
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
-                "cap": "Redditのマスコット、Snooが今夏、ニューヨーク市で開かれた同ブランドのボデガ型ポップアップに登場した。"
+                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+                "cap": "Learn moreのコールトゥアクションが付いたChatGPTの単一画像広告"
               },
               {
                 "t": "p",
-                "x": "「Redditはすでにそれ自体がパフォーマンスチャネルになりつつあるが、十分に活用されず、正当に評価されていないことが多い」と、パフォーマンスマーケティング代理店TinuitiのVP、Jack Johnstonは述べた。"
+                "x": "Business Agents:U.S.外の対象市場で条件を満たすeコマース・オンラインサービス事業者は、ChatGPT Business HubでBusiness Agentを作成・公開し、対象キャンペーンにSponsored Business Agentとして追加できるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "オーディエンス指標:Reachは広告を一度でも見たユニークユーザー数の推定値で、Frequencyは総インプレッション数をReachで割った値だ。OpenAIはClick Reach、Click Frequency、Total Reach、Total Frequency、Unique CTR、Unique CPC、Cost per 1,000 Reachedも追加した。"
+              },
+              {
+                "t": "p",
+                "x": "広告主は商品フィードのセール価格を非表示にして通常価格を再び表示でき、広告審査のメッセージにはどのポリシーが適用されるかが示される。OpenAIは広告承認の基準は変わっていないとしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
+                "cap": "OpenAIのChatGPT Adsアップデートメール"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Reddit Max将引入\n智能体间广告购买",
-          "body": "Reddit明年将在Reddit Max中测试MCP服务器与智能体间广告购买。",
-          "mini_headline": "Reddit测试智能体广告购买",
+          "headline": "ChatGPT Ads\n新增CTA与受众指标",
+          "body": "OpenAI广告新增Learn More按钮与受众指标，并扩展至U.S.以外。",
+          "mini_headline": "ChatGPT Ads新增CTA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
-                "cap": "Reddit COO Jen Wong的2027年广告增长议程以搜索、购物和AI智能体为核心。"
+                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
               },
               {
                 "t": "p",
-                "x": "Reddit推出了新的广告议程：搜索、购物和AI智能体。首席运营官(COO) Jen Wong对CMO Insider表示，随着行业转向智能体式广告购买，Reddit明年希望在其自动化购买平台Reddit Max中开始测试模型上下文协议(MCP)服务器和智能体间(agent-to-agent)广告购买功能。"
+                "x": "OpenAI刚刚发布了ChatGPT Ads的产品更新：Business Agents扩展至U.S.以外，单图广告新增learn more行动号召，Ads Manager和Ads API提供更多受众指标，促销结束时可隐藏商品信息流中的促销价，Ads Manager还新增了政策中心详情。"
               },
               {
                 "t": "p",
-                "x": "本月，Reddit开始在美国(US)测试搜索结果页广告，在与用户查询相关时自动投放，而不是出售关键词竞价。它还推出了Reddit Reviews，利用AI将subreddit讨论汇总成产品评测页面；Wong建议营销人员持续上传最新的产品目录，为Reddit的产品知识图谱提供数据。"
-              },
-              {
-                "t": "p",
-                "x": "第三季度广告收入同比增长54%，达到8.47亿美元，广告业务中超过60%如今属于“效果导向”(performance oriented)。美国(US)日活跃用户同比下降2%；Reddit公布的全球日活跃用户为1.3亿。"
+                "x": "Learn more：ChatGPT上的单图广告现在默认在描述下方显示“Learn more”链接。它会打开你在Ads Manager中已设置的落地页，无需额外设置。"
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
-                "cap": "Reddit吉祥物Snoo今夏现身该品牌在纽约市举办的便利店快闪活动。"
+                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+                "cap": "带有Learn more行动号召的ChatGPT单图广告"
               },
               {
                 "t": "p",
-                "x": "“Reddit本身已日益成为一个效果渠道，但它常常未被充分利用，也未被充分重视，”效果营销机构Tinuiti的VP Jack Johnston表示。"
+                "x": "Business Agents：U.S.以外受支持市场中符合条件的电商和在线服务企业，现在可以在ChatGPT Business Hub中创建并发布Business Agent，并将其作为Sponsored Business Agent添加到符合条件的广告系列中。"
+              },
+              {
+                "t": "p",
+                "x": "受众指标：Reach估算至少看过一次广告的独立用户数；Frequency为总展示次数除以Reach。OpenAI还新增了Click Reach、Click Frequency、Total Reach、Total Frequency、Unique CTR、Unique CPC和Cost per 1,000 Reached。"
+              },
+              {
+                "t": "p",
+                "x": "广告主还可以隐藏商品信息流中的促销价，让广告重新显示原价；广告审核消息现在会显示适用的政策。OpenAI表示，广告审批准则没有改变。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
+                "cap": "OpenAI的ChatGPT Ads更新邮件"
               }
             ]
           }
         },
         "es": {
-          "headline": "Reddit planea compra de anuncios\nentre agentes en Reddit Max",
-          "body": "Reddit probará el próximo año un servidor MCP y compra de anuncios entre agentes en Reddit Max, según su COO, Jen Wong.",
-          "mini_headline": "Reddit prueba la compra de anuncios con agentes",
+          "headline": "ChatGPT Ads suma un nuevo CTA\ny más métricas de audiencia",
+          "body": "La actualización de ChatGPT Ads de OpenAI añade un botón Learn More, más métricas y Business Agents fuera de U.S.",
+          "mini_headline": "ChatGPT Ads suma un nuevo CTA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
-                "cap": "La agenda de crecimiento publicitario de 2027 de Jen Wong, COO de Reddit, se centra en búsqueda, compras y agentes de AI."
+                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
               },
               {
                 "t": "p",
-                "x": "Reddit tiene una nueva agenda publicitaria: búsqueda, compras y agentes de AI. La directora de operaciones (COO), Jen Wong, dijo a CMO Insider que el próximo año Reddit quiere empezar a probar un servidor de protocolo de contexto de modelo (MCP) y funciones de compra de anuncios entre agentes (agent-to-agent) dentro de Reddit Max, su plataforma de compra automatizada, en línea con el giro del sector hacia la compra de anuncios mediante agentes."
+                "x": "OpenAI acaba de enviar una actualización de producto sobre ChatGPT Ads que anuncia la expansión de Business Agents fuera de U.S., una nueva llamada a la acción learn more en los anuncios de imagen única, más métricas de audiencia en Ads Manager y en la Ads API, la opción de ocultar los precios de oferta del feed de productos cuando termina una promoción y nuevos detalles del centro de políticas en Ads Manager."
               },
               {
                 "t": "p",
-                "x": "Este mes Reddit empezó a probar anuncios en sus páginas de resultados de búsqueda en Estados Unidos (US), que se colocan automáticamente cuando son relevantes para las consultas de los usuarios, en lugar de vender pujas por palabras clave. También lanzó Reddit Reviews, que usa AI para reunir conversaciones de subreddits en páginas de reseñas de productos; Wong aconsejó a los profesionales de marketing seguir subiendo catálogos de productos actualizados para alimentar el grafo de conocimiento de productos de Reddit."
-              },
-              {
-                "t": "p",
-                "x": "Los ingresos publicitarios subieron un 54% interanual, hasta 847 millones de dólares en el tercer trimestre, y más del 60% del negocio publicitario está ahora “orientado al rendimiento”. Los usuarios activos diarios en Estados Unidos (US) cayeron un 2% interanual; Reddit informó de 130 millones de usuarios activos diarios en todo el mundo."
+                "x": "Learn more: en ChatGPT, los anuncios de imagen única muestran ahora por defecto un enlace \"Learn more\" bajo la descripción. Abre la página de destino que ya se configuró en Ads Manager, por lo que no requiere configuración adicional."
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
-                "cap": "Snoo, la mascota de Reddit, apareció este verano en la tienda temporal tipo bodega de la marca en Nueva York."
+                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+                "cap": "Anuncio de imagen única en ChatGPT con la llamada a la acción Learn more"
               },
               {
                 "t": "p",
-                "x": "“Reddit ya se está convirtiendo cada vez más en un canal de rendimiento por derecho propio, pero a menudo está infrautilizado y poco valorado”, dijo Jack Johnston, VP de la agencia de marketing de rendimiento Tinuiti."
+                "x": "Business Agents: las empresas de ecommerce y servicios en línea que cumplen los requisitos en mercados compatibles fuera de U.S. ya pueden crear y publicar un Business Agent en ChatGPT Business Hub y añadirlo a una campaña elegible como Sponsored Business Agent."
+              },
+              {
+                "t": "p",
+                "x": "Métricas de audiencia: Reach estima cuántas personas únicas vieron tus anuncios al menos una vez; Frequency es el total de impresiones dividido entre Reach. OpenAI también añadió Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC y Cost per 1,000 Reached."
+              },
+              {
+                "t": "p",
+                "x": "Los anunciantes también pueden ocultar los precios de oferta del feed de productos para que los anuncios vuelvan a mostrar el precio normal, y los mensajes de revisión de anuncios indican ahora qué política se aplica. OpenAI afirmó que las directrices para aprobar anuncios no han cambiado."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
+                "cap": "Correo de OpenAI sobre la actualización de ChatGPT Ads"
               }
             ]
           }
@@ -229,145 +277,177 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Reddit Max에\n에이전트 간 광고 구매",
-          "body": "Reddit Max가 내년 MCP 서버와 에이전트 간 광고 구매를 시험한다.",
-          "mini_headline": "Reddit, 에이전트 광고 구매 시험",
+          "headline": "ChatGPT Ads에\n새 CTA·지표 추가",
+          "body": "OpenAI 광고에 Learn More 버튼·지표가 늘고 U.S. 밖으로 넓어졌다.",
+          "mini_headline": "ChatGPT Ads에 새 CTA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
-                "cap": "Reddit COO Jen Wong의 2027년 광고 성장 전략은 검색, 쇼핑, AI 에이전트에 집중한다."
+                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
               },
               {
                 "t": "p",
-                "x": "Reddit이 검색, 쇼핑, AI 에이전트를 축으로 한 새 광고 전략을 내놓았다. 최고운영책임자(COO) Jen Wong은 CMO Insider에 Reddit이 업계를 따라 에이전트 기반 광고 구매로 나아가면서, 내년 자동 구매 플랫폼 Reddit Max 안에서 모델 컨텍스트 프로토콜(MCP) 서버와 에이전트 간(agent-to-agent) 광고 구매 기능 테스트를 시작하려 한다고 말했다."
+                "x": "OpenAI가 ChatGPT Ads 제품 업데이트를 보냈다. Business Agents의 U.S. 밖 확대, 단일 이미지 광고에 새로 붙은 learn more 클릭 유도 문구(call-to-action), Ads Manager와 Ads API의 오디언스 지표 확대, 프로모션이 끝났을 때 제품 피드 할인가를 숨기는 기능, Ads Manager의 새 정책 센터 세부 정보가 담겼다."
               },
               {
                 "t": "p",
-                "x": "Reddit은 이달 미국(US)에서 검색 결과 페이지 광고 테스트를 시작했다. 키워드 입찰을 파는 대신 사용자 검색어와 관련이 있을 때 광고를 자동으로 배치한다. AI로 서브레딧(subreddit) 토론을 모아 제품 리뷰 페이지로 정리하는 Reddit Reviews도 내놓았다. Wong은 Reddit의 제품 지식 그래프에 정보를 공급하도록 마케터들이 최신 제품 카탈로그를 계속 올려야 한다고 조언했다."
-              },
-              {
-                "t": "p",
-                "x": "3분기 광고 매출은 전년 대비 54% 늘어난 8억4700만 달러였고, 광고 사업의 60% 이상이 이제 “성과 지향(performance oriented)”이다. 미국(US) 일간 활성 사용자는 전년 대비 2% 줄었다. Reddit이 발표한 전 세계 일간 활성 사용자는 1억3000만 명이다."
+                "x": "Learn more: ChatGPT의 단일 이미지 광고는 이제 기본적으로 설명 아래에 \"Learn more\" 링크를 보여준다. Ads Manager에서 이미 설정한 랜딩 페이지로 연결되므로 추가 설정은 필요 없다."
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
-                "cap": "Reddit 마스코트 Snoo가 올여름 뉴욕에서 열린 브랜드 보데가 팝업에 등장했다."
+                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+                "cap": "Learn more 클릭 유도 문구가 붙은 ChatGPT 단일 이미지 광고"
               },
               {
                 "t": "p",
-                "x": "“Reddit은 이미 그 자체로 점점 더 성과 채널이 되고 있지만, 충분히 활용되지 못하고 제대로 평가받지 못하는 경우가 많다”고 퍼포먼스 마케팅 에이전시 Tinuiti의 VP Jack Johnston은 말했다."
+                "x": "Business Agents: U.S. 밖 지원 시장의 적격 이커머스·온라인 서비스 기업은 이제 ChatGPT Business Hub에서 Business Agent를 만들어 게시하고, 적격 캠페인에 Sponsored Business Agent로 추가할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "오디언스 지표: Reach는 광고를 한 번 이상 본 순 이용자 수를 추정한 값이고, Frequency는 총 노출 수를 Reach로 나눈 값이다. OpenAI는 Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC, Cost per 1,000 Reached도 추가했다."
+              },
+              {
+                "t": "p",
+                "x": "광고주는 제품 피드 할인가를 숨겨 광고에 정상가를 다시 표시할 수 있고, 광고 심사 메시지에는 어떤 정책이 적용되는지 나온다. OpenAI는 광고 승인 기준은 바뀌지 않았다고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
+                "cap": "OpenAI의 ChatGPT Ads 업데이트 이메일"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Reddit Maxで\nエージェント間の広告購入へ",
-          "body": "Redditは来年Reddit MaxでMCPサーバーとエージェント間広告購入を試す。",
-          "mini_headline": "Reddit、エージェント広告購入を試験",
+          "headline": "ChatGPT Adsに\n新CTAと指標追加",
+          "body": "OpenAIの広告にLearn Moreボタンと指標が加わり、U.S.外にも広がる。",
+          "mini_headline": "ChatGPT Adsに新CTA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
-                "cap": "Reddit COOのJen Wongが掲げる2027年の広告成長戦略は、検索、ショッピング、AIエージェントが柱だ。"
+                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
               },
               {
                 "t": "p",
-                "x": "Redditは検索、ショッピング、AIエージェントを軸とする新たな広告戦略を打ち出した。最高執行責任者(COO)のJen WongはCMO Insiderに対し、業界に続いてエージェント型の広告購入へ進むなか、Redditは来年、自動購入プラットフォームReddit Max内でモデル・コンテキスト・プロトコル(MCP)サーバーとエージェント間(agent-to-agent)の広告購入機能の試験を始めたいと語った。"
+                "x": "OpenAIはChatGPT Adsの製品アップデートを配信し、Business AgentsのU.S.外への拡大、単一画像広告への新しいlearn moreコールトゥアクションの追加、Ads ManagerとAds APIでのオーディエンス指標の拡充、プロモーション終了時に商品フィードのセール価格を非表示にする機能、Ads Managerの新しいポリシーセンター情報を発表した。"
               },
               {
                 "t": "p",
-                "x": "Redditは今月、米国(US)で検索結果ページへの広告の試験を始めた。キーワード入札を販売するのではなく、ユーザーの検索内容に関連する場合に広告を自動配置する。また、AIでサブレディット(subreddit)の議論をまとめて製品レビューページにするReddit Reviewsも始めた。Wongはマーケターに対し、Redditの製品ナレッジグラフに情報を供給するため、最新の製品カタログをアップロードし続けるよう助言した。"
-              },
-              {
-                "t": "p",
-                "x": "第3四半期の広告収入は前年同期比54%増の8億4700万ドルとなり、広告事業の60%超がいまや「パフォーマンス志向(performance oriented)」だ。米国(US)の1日当たりアクティブユーザーは前年同期比2%減少した。Redditが発表した世界の1日当たりアクティブユーザーは1億3000万人だった。"
+                "x": "Learn more:ChatGPTの単一画像広告は、説明文の下に「Learn more」リンクを標準で表示するようになった。Ads Managerで設定済みのランディングページが開くため、追加の設定は不要だ。"
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
-                "cap": "Redditのマスコット、Snooが今夏、ニューヨーク市で開かれた同ブランドのボデガ型ポップアップに登場した。"
+                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+                "cap": "Learn moreのコールトゥアクションが付いたChatGPTの単一画像広告"
               },
               {
                 "t": "p",
-                "x": "「Redditはすでにそれ自体がパフォーマンスチャネルになりつつあるが、十分に活用されず、正当に評価されていないことが多い」と、パフォーマンスマーケティング代理店TinuitiのVP、Jack Johnstonは述べた。"
+                "x": "Business Agents:U.S.外の対象市場で条件を満たすeコマース・オンラインサービス事業者は、ChatGPT Business HubでBusiness Agentを作成・公開し、対象キャンペーンにSponsored Business Agentとして追加できるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "オーディエンス指標:Reachは広告を一度でも見たユニークユーザー数の推定値で、Frequencyは総インプレッション数をReachで割った値だ。OpenAIはClick Reach、Click Frequency、Total Reach、Total Frequency、Unique CTR、Unique CPC、Cost per 1,000 Reachedも追加した。"
+              },
+              {
+                "t": "p",
+                "x": "広告主は商品フィードのセール価格を非表示にして通常価格を再び表示でき、広告審査のメッセージにはどのポリシーが適用されるかが示される。OpenAIは広告承認の基準は変わっていないとしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
+                "cap": "OpenAIのChatGPT Adsアップデートメール"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Reddit Max将引入\n智能体间广告购买",
-          "body": "Reddit明年将在Reddit Max中测试MCP服务器与智能体间广告购买。",
-          "mini_headline": "Reddit测试智能体广告购买",
+          "headline": "ChatGPT Ads\n新增CTA与受众指标",
+          "body": "OpenAI广告新增Learn More按钮与受众指标，并扩展至U.S.以外。",
+          "mini_headline": "ChatGPT Ads新增CTA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
-                "cap": "Reddit COO Jen Wong的2027年广告增长议程以搜索、购物和AI智能体为核心。"
+                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
               },
               {
                 "t": "p",
-                "x": "Reddit推出了新的广告议程：搜索、购物和AI智能体。首席运营官(COO) Jen Wong对CMO Insider表示，随着行业转向智能体式广告购买，Reddit明年希望在其自动化购买平台Reddit Max中开始测试模型上下文协议(MCP)服务器和智能体间(agent-to-agent)广告购买功能。"
+                "x": "OpenAI刚刚发布了ChatGPT Ads的产品更新：Business Agents扩展至U.S.以外，单图广告新增learn more行动号召，Ads Manager和Ads API提供更多受众指标，促销结束时可隐藏商品信息流中的促销价，Ads Manager还新增了政策中心详情。"
               },
               {
                 "t": "p",
-                "x": "本月，Reddit开始在美国(US)测试搜索结果页广告，在与用户查询相关时自动投放，而不是出售关键词竞价。它还推出了Reddit Reviews，利用AI将subreddit讨论汇总成产品评测页面；Wong建议营销人员持续上传最新的产品目录，为Reddit的产品知识图谱提供数据。"
-              },
-              {
-                "t": "p",
-                "x": "第三季度广告收入同比增长54%，达到8.47亿美元，广告业务中超过60%如今属于“效果导向”(performance oriented)。美国(US)日活跃用户同比下降2%；Reddit公布的全球日活跃用户为1.3亿。"
+                "x": "Learn more：ChatGPT上的单图广告现在默认在描述下方显示“Learn more”链接。它会打开你在Ads Manager中已设置的落地页，无需额外设置。"
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
-                "cap": "Reddit吉祥物Snoo今夏现身该品牌在纽约市举办的便利店快闪活动。"
+                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+                "cap": "带有Learn more行动号召的ChatGPT单图广告"
               },
               {
                 "t": "p",
-                "x": "“Reddit本身已日益成为一个效果渠道，但它常常未被充分利用，也未被充分重视，”效果营销机构Tinuiti的VP Jack Johnston表示。"
+                "x": "Business Agents：U.S.以外受支持市场中符合条件的电商和在线服务企业，现在可以在ChatGPT Business Hub中创建并发布Business Agent，并将其作为Sponsored Business Agent添加到符合条件的广告系列中。"
+              },
+              {
+                "t": "p",
+                "x": "受众指标：Reach估算至少看过一次广告的独立用户数；Frequency为总展示次数除以Reach。OpenAI还新增了Click Reach、Click Frequency、Total Reach、Total Frequency、Unique CTR、Unique CPC和Cost per 1,000 Reached。"
+              },
+              {
+                "t": "p",
+                "x": "广告主还可以隐藏商品信息流中的促销价，让广告重新显示原价；广告审核消息现在会显示适用的政策。OpenAI表示，广告审批准则没有改变。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
+                "cap": "OpenAI的ChatGPT Ads更新邮件"
               }
             ]
           }
         },
         "es": {
-          "headline": "Reddit planea compra de anuncios\nentre agentes en Reddit Max",
-          "body": "Reddit probará el próximo año un servidor MCP y compra de anuncios entre agentes en Reddit Max, según su COO, Jen Wong.",
-          "mini_headline": "Reddit prueba la compra de anuncios con agentes",
+          "headline": "ChatGPT Ads suma un nuevo CTA\ny más métricas de audiencia",
+          "body": "La actualización de ChatGPT Ads de OpenAI añade un botón Learn More, más métricas y Business Agents fuera de U.S.",
+          "mini_headline": "ChatGPT Ads suma un nuevo CTA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
-                "cap": "La agenda de crecimiento publicitario de 2027 de Jen Wong, COO de Reddit, se centra en búsqueda, compras y agentes de AI."
+                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
               },
               {
                 "t": "p",
-                "x": "Reddit tiene una nueva agenda publicitaria: búsqueda, compras y agentes de AI. La directora de operaciones (COO), Jen Wong, dijo a CMO Insider que el próximo año Reddit quiere empezar a probar un servidor de protocolo de contexto de modelo (MCP) y funciones de compra de anuncios entre agentes (agent-to-agent) dentro de Reddit Max, su plataforma de compra automatizada, en línea con el giro del sector hacia la compra de anuncios mediante agentes."
+                "x": "OpenAI acaba de enviar una actualización de producto sobre ChatGPT Ads que anuncia la expansión de Business Agents fuera de U.S., una nueva llamada a la acción learn more en los anuncios de imagen única, más métricas de audiencia en Ads Manager y en la Ads API, la opción de ocultar los precios de oferta del feed de productos cuando termina una promoción y nuevos detalles del centro de políticas en Ads Manager."
               },
               {
                 "t": "p",
-                "x": "Este mes Reddit empezó a probar anuncios en sus páginas de resultados de búsqueda en Estados Unidos (US), que se colocan automáticamente cuando son relevantes para las consultas de los usuarios, en lugar de vender pujas por palabras clave. También lanzó Reddit Reviews, que usa AI para reunir conversaciones de subreddits en páginas de reseñas de productos; Wong aconsejó a los profesionales de marketing seguir subiendo catálogos de productos actualizados para alimentar el grafo de conocimiento de productos de Reddit."
-              },
-              {
-                "t": "p",
-                "x": "Los ingresos publicitarios subieron un 54% interanual, hasta 847 millones de dólares en el tercer trimestre, y más del 60% del negocio publicitario está ahora “orientado al rendimiento”. Los usuarios activos diarios en Estados Unidos (US) cayeron un 2% interanual; Reddit informó de 130 millones de usuarios activos diarios en todo el mundo."
+                "x": "Learn more: en ChatGPT, los anuncios de imagen única muestran ahora por defecto un enlace \"Learn more\" bajo la descripción. Abre la página de destino que ya se configuró en Ads Manager, por lo que no requiere configuración adicional."
               },
               {
                 "t": "img",
-                "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
-                "cap": "Snoo, la mascota de Reddit, apareció este verano en la tienda temporal tipo bodega de la marca en Nueva York."
+                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+                "cap": "Anuncio de imagen única en ChatGPT con la llamada a la acción Learn more"
               },
               {
                 "t": "p",
-                "x": "“Reddit ya se está convirtiendo cada vez más en un canal de rendimiento por derecho propio, pero a menudo está infrautilizado y poco valorado”, dijo Jack Johnston, VP de la agencia de marketing de rendimiento Tinuiti."
+                "x": "Business Agents: las empresas de ecommerce y servicios en línea que cumplen los requisitos en mercados compatibles fuera de U.S. ya pueden crear y publicar un Business Agent en ChatGPT Business Hub y añadirlo a una campaña elegible como Sponsored Business Agent."
+              },
+              {
+                "t": "p",
+                "x": "Métricas de audiencia: Reach estima cuántas personas únicas vieron tus anuncios al menos una vez; Frequency es el total de impresiones dividido entre Reach. OpenAI también añadió Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC y Cost per 1,000 Reached."
+              },
+              {
+                "t": "p",
+                "x": "Los anunciantes también pueden ocultar los precios de oferta del feed de productos para que los anuncios vuelvan a mostrar el precio normal, y los mensajes de revisión de anuncios indican ahora qué política se aplica. OpenAI afirmó que las directrices para aprobar anuncios no han cambiado."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
+                "cap": "Correo de OpenAI sobre la actualización de ChatGPT Ads"
               }
             ]
           }
@@ -375,15 +455,15 @@
       }
     },
     {
-      "id": "amazon-ads-mcp-dec8",
+      "id": "meta-muse-cyberweek-agent-traffic",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Amazon Ads MCP\n12월 8일 선택형 갱신",
-      "body": "Amazon Ads MCP는 12월 8일 선택 갱신되고 구버전은 기한 없이 남는다.",
-      "mini_headline": "Amazon Ads MCP 12월 8일 갱신",
+      "headline": "AI 에이전트 트래픽\n사이버위크 150x 급증",
+      "body": "AI-agent 트래픽이 작년의 150x로 늘고 대부분 Meta Muse발이다.",
+      "mini_headline": "에이전트 트래픽 150x 급증",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/ai-agents-linked-to-amazon-ads-get-an-optional-upgrade-on-december-8/",
+      "source": "ADWEEK",
+      "url": "https://www.adweek.com/commerce/ai-agent-traffic-to-surge-150x-this-cyber-week-driven-mostly-by-meta-muse/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -391,155 +471,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
-            "cap": "Amazon Ads MCP Server가 12월 8일부터 무상태(stateless) MCP 2026-07-28을 선택적으로 지원한다. 구버전은 그대로 남는다."
+            "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
+            "cap": "새 데이터를 보면 에이전트가 일으킨 사이트 요청 대다수가 Meta의 인기 개인 비서 Muse에서 나온다."
           },
           {
             "t": "p",
-            "x": "Amazon Ads는 2026년 12월 8일부터 MCP Server에서 Model Context Protocol 2026-07-28 버전을 지원한다. 도입은 선택 사항이다. “기존 클라이언트는 자동으로 업그레이드되지 않으며”, 이전 프로토콜 버전도 계속 지원한다. 지원 종료일은 발표하지 않았다."
+            "x": "사이버보안 기업 Human Security는 11월 26~30일 사이버 위크의 에이전트 트래픽이 작년 사이버 위크의 150x 수준에 이를 것으로 내다봤다. 에이전트발 리테일 트래픽은 연휴 전 수준에서 블랙프라이데이 주말 정점까지 두 배 넘게 불어날 전망이다."
           },
           {
             "t": "p",
-            "x": "업그레이드한 클라이언트는 initialize 핸드셰이크와 Mcp-Session-Id 헤더 없이 동작한다. 프로토콜 버전과 클라이언트 기능은 요청마다 _meta 필드에 실어 보낸다. 지원 버전은 새 server/discover 메서드가 알려주고, tools/list 같은 목록 결과에는 ttlMs와 cacheScope 캐싱 메타데이터가 붙는다. 엔드포인트, 도구, 인증, 접근 제어는 그대로다."
+            "x": "한 해 전만 해도 Human이 보호하는 사이트로 향한 에이전트 트래픽의 약 사분의 삼은 Perplexity의 Comet이 일으켰다. 지금은 출시 석 달도 안 된 Meta의 Muse가 70%를 낸다. OpenAI의 ChatGPT agent, Codex 브라우저, Codex Chrome 확장 프로그램을 합하면 약 21%다. Comet은 74%에서 2.4%로 떨어졌다."
           },
           {
             "t": "p",
-            "x": "Amazon이 제시한 마이그레이션 절차는 다섯 단계다. 마지막은 실제 운영에 앞서 server/discover, tools/list, 대표적인 tools/call 요청을 시험해 보는 단계다. 문서상 이 서버는 여전히 “MCP Tools (beta)” 항목에 올라 있다. 2025년 11월 13일 비공개 베타로 문을 연 뒤 OAuth 2.1 로그인, /mcp/lite의 Lite 버전, Audience Discovery 도구가 차례로 추가됐다."
+            "x": "에이전트는 아직 제품을 찾고 조사하는 데 주로 쓰인다(요청의 약 81%). 그래도 결제 요청은 작년의 약 160x 수준으로 예상된다. Google 에이전트는 트래픽 비중이 5% 미만인데도 결제·지불 요청에서는 20% 가까이를 차지한다."
+          },
+          {
+            "t": "p",
+            "x": "리테일러 반응은 엇갈린다. Gap, Best Buy, Sephora, Walmart는 Muse와 손잡았고 Amazon은 막았다. Gartner의 Andrew Frank는 \"리테일러는 이를 봇 트래픽으로 보지 말고, 에이전트를 위임받은 권한을 가진 고객으로 생각하기 시작해야 한다\"고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Amazon Ads MCP server gets\nan optional upgrade on Dec. 8",
-          "body": "Amazon Ads' MCP server gets an optional protocol upgrade on December 8; older versions keep working with no end date.",
-          "mini_headline": "Amazon Ads MCP upgrade Dec. 8",
+          "headline": "AI agent traffic to surge 150x\nthis Cyber Week, led by Muse",
+          "body": "New data forecasts AI-agent web traffic hitting 150x last year's Cyber Week level, mostly from Meta's Muse.",
+          "mini_headline": "Agent traffic to surge 150x",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
-                "cap": "Amazon Ads MCP Server adds optional stateless MCP 2026-07-28 support on Dec 8, old versions stay."
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
+                "cap": "Meta's popular personal assistant Muse accounts for the vast majority of agent-led site requests, new data indicates."
               },
               {
                 "t": "p",
-                "x": "Amazon Ads will support version 2026-07-28 of the Model Context Protocol on its MCP Server starting December 8, 2026. Adoption is optional: \"existing clients will not be automatically upgraded,\" and older protocol versions remain supported with no decommission date announced."
+                "x": "During Cyber Week, from Nov. 26 to 30, agentic traffic is expected to hit 150x last year's Cyber Week figures, according to cybersecurity firm Human Security. Retail traffic from agents is set to more than double from pre-holiday levels to its Black Friday weekend peak."
               },
               {
                 "t": "p",
-                "x": "Clients that opt in drop the initialize handshake and the Mcp-Session-Id header; protocol version and client capabilities travel in each request's _meta field, a new server/discover method reports supported versions, and list results such as tools/list carry ttlMs and cacheScope caching metadata. Endpoints, tools, authentication and access controls are unchanged."
+                "x": "A year ago, Perplexity's Comet drove about three-quarters of agentic traffic to sites protected by Human. Today, Meta's Muse, which hit the market less than three months ago, produces 70%. OpenAI's ChatGPT agent, Codex browser and Codex Chrome extension together control about 21%; Comet dropped from 74% to just 2.4%."
               },
               {
                 "t": "p",
-                "x": "Amazon lists five migration steps, ending with testing server/discover, tools/list and representative tools/call requests before production use. Its documentation still lists the server under \"MCP Tools (beta).\" The server opened in closed beta on November 13, 2025, and has since added OAuth 2.1 sign-in, a Lite version at /mcp/lite and Audience Discovery tools."
+                "x": "Agents still mostly discover and research products (about 81% of requests), but checkout requests are projected at roughly 160x last year's levels. Google's agents account for under 5% of traffic but nearly 20% of checkout and payment requests."
+              },
+              {
+                "t": "p",
+                "x": "Retailers are split: Gap, Best Buy, Sephora and Walmart partnered with Muse, while Amazon blocked it. \"Retailers need to stop thinking of this as bot traffic and start thinking of agents as customers with delegated authority,\" said Gartner's Andrew Frank."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Amazon Ads MCP\n12월 8일 선택형 갱신",
-          "body": "Amazon Ads MCP는 12월 8일 선택 갱신되고 구버전은 기한 없이 남는다.",
-          "mini_headline": "Amazon Ads MCP 12월 8일 갱신",
+          "headline": "AI 에이전트 트래픽\n사이버위크 150x 급증",
+          "body": "AI-agent 트래픽이 작년의 150x로 늘고 대부분 Meta Muse발이다.",
+          "mini_headline": "에이전트 트래픽 150x 급증",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
-                "cap": "Amazon Ads MCP Server가 12월 8일부터 무상태(stateless) MCP 2026-07-28을 선택적으로 지원한다. 구버전은 그대로 남는다."
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
+                "cap": "새 데이터를 보면 에이전트가 일으킨 사이트 요청 대다수가 Meta의 인기 개인 비서 Muse에서 나온다."
               },
               {
                 "t": "p",
-                "x": "Amazon Ads는 2026년 12월 8일부터 MCP Server에서 Model Context Protocol 2026-07-28 버전을 지원한다. 도입은 선택 사항이다. “기존 클라이언트는 자동으로 업그레이드되지 않으며”, 이전 프로토콜 버전도 계속 지원한다. 지원 종료일은 발표하지 않았다."
+                "x": "사이버보안 기업 Human Security는 11월 26~30일 사이버 위크의 에이전트 트래픽이 작년 사이버 위크의 150x 수준에 이를 것으로 내다봤다. 에이전트발 리테일 트래픽은 연휴 전 수준에서 블랙프라이데이 주말 정점까지 두 배 넘게 불어날 전망이다."
               },
               {
                 "t": "p",
-                "x": "업그레이드한 클라이언트는 initialize 핸드셰이크와 Mcp-Session-Id 헤더 없이 동작한다. 프로토콜 버전과 클라이언트 기능은 요청마다 _meta 필드에 실어 보낸다. 지원 버전은 새 server/discover 메서드가 알려주고, tools/list 같은 목록 결과에는 ttlMs와 cacheScope 캐싱 메타데이터가 붙는다. 엔드포인트, 도구, 인증, 접근 제어는 그대로다."
+                "x": "한 해 전만 해도 Human이 보호하는 사이트로 향한 에이전트 트래픽의 약 사분의 삼은 Perplexity의 Comet이 일으켰다. 지금은 출시 석 달도 안 된 Meta의 Muse가 70%를 낸다. OpenAI의 ChatGPT agent, Codex 브라우저, Codex Chrome 확장 프로그램을 합하면 약 21%다. Comet은 74%에서 2.4%로 떨어졌다."
               },
               {
                 "t": "p",
-                "x": "Amazon이 제시한 마이그레이션 절차는 다섯 단계다. 마지막은 실제 운영에 앞서 server/discover, tools/list, 대표적인 tools/call 요청을 시험해 보는 단계다. 문서상 이 서버는 여전히 “MCP Tools (beta)” 항목에 올라 있다. 2025년 11월 13일 비공개 베타로 문을 연 뒤 OAuth 2.1 로그인, /mcp/lite의 Lite 버전, Audience Discovery 도구가 차례로 추가됐다."
+                "x": "에이전트는 아직 제품을 찾고 조사하는 데 주로 쓰인다(요청의 약 81%). 그래도 결제 요청은 작년의 약 160x 수준으로 예상된다. Google 에이전트는 트래픽 비중이 5% 미만인데도 결제·지불 요청에서는 20% 가까이를 차지한다."
+              },
+              {
+                "t": "p",
+                "x": "리테일러 반응은 엇갈린다. Gap, Best Buy, Sephora, Walmart는 Muse와 손잡았고 Amazon은 막았다. Gartner의 Andrew Frank는 \"리테일러는 이를 봇 트래픽으로 보지 말고, 에이전트를 위임받은 권한을 가진 고객으로 생각하기 시작해야 한다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazon Ads MCP\n12月8日に任意更新",
-          "body": "Amazon Ads MCPサーバーは12月8日に任意で更新され、旧版も期限なく使える。",
-          "mini_headline": "Amazon Ads MCP、12月8日更新",
+          "headline": "AIエージェントの流入\nサイバーウィークで150x",
+          "body": "AI-agentの流入は昨年の150x に達し、大半はMetaのMuse経由と予測される。",
+          "mini_headline": "エージェント流入が150x に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
-                "cap": "Amazon Ads MCP Serverは12月8日、ステートレス(stateless)なMCP 2026-07-28への任意対応を追加し、旧バージョンも残る。"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
+                "cap": "新たなデータによると、Metaの人気パーソナルアシスタントMuseがエージェント経由のサイトリクエストの大半を占めている。"
               },
               {
                 "t": "p",
-                "x": "Amazon Adsは2026年12月8日から、MCP ServerでModel Context Protocolのバージョン2026-07-28をサポートする。導入は任意で、「既存のクライアントが自動的にアップグレードされることはない」。旧プロトコルバージョンも引き続きサポートされ、廃止日は発表されていない。"
+                "x": "サイバーセキュリティ企業Human Securityによると、11月26日から30日までのサイバーウィーク期間中、エージェント経由のトラフィックは昨年のサイバーウィークの150x に達する見込みだ。エージェントによる小売トラフィックは、ホリデー前の水準からブラックフライデー週末のピークにかけて倍以上に増える見通しだ。"
               },
               {
                 "t": "p",
-                "x": "移行を選んだクライアントはinitializeハンドシェイクとMcp-Session-Idヘッダーが不要になる。プロトコルバージョンとクライアント機能は各リクエストの_metaフィールドで送られ、新しいserver/discoverメソッドが対応バージョンを返し、tools/listなどのリスト結果にはttlMsとcacheScopeのキャッシュメタデータが付く。エンドポイント、ツール、認証、アクセス制御は変わらない。"
+                "x": "一年前は、Humanが保護するサイトへのエージェントトラフィックの約四分の三をPerplexityのCometが生み出していた。現在は、発売から三か月足らずのMetaのMuseが70%を占める。OpenAIのChatGPT agent、Codexブラウザ、Codex Chrome拡張機能は合わせて約21%を占め、Cometは74%からわずか2.4%に落ち込んだ。"
               },
               {
                 "t": "p",
-                "x": "Amazonは五つの移行手順を示しており、最後は本番利用の前にserver/discover、tools/list、代表的なtools/callリクエストをテストすることだ。同社のドキュメントでは、このサーバーは今も「MCP Tools (beta)」の項目に載っている。サーバーは2025年11月13日にクローズドベータとして公開され、その後OAuth 2.1によるサインイン、/mcp/liteのLite版、Audience Discoveryツールが加わった。"
+                "x": "エージェントは依然として主に商品の発見と調査に使われている(リクエストの約81%)が、チェックアウトのリクエストは昨年の約160x に達すると予測される。Googleのエージェントはトラフィックの5%未満だが、チェックアウトと決済リクエストの20%近くを占める。"
+              },
+              {
+                "t": "p",
+                "x": "小売業者の対応は分かれている。Gap、Best Buy、Sephora、WalmartはMuseと提携し、Amazonはこれをブロックした。GartnerのAndrew Frank氏は「小売業者はこれをボットトラフィックと考えるのをやめ、エージェントを委任された権限を持つ顧客と考え始める必要がある」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon Ads MCP\n12月8日可选升级",
-          "body": "Amazon Ads MCP服务器将于12月8日推出可选升级，旧版本继续可用且无截止日期。",
-          "mini_headline": "Amazon Ads MCP 12月8日升级",
+          "headline": "AI代理流量激增150x\nMuse领跑网购周",
+          "body": "AI-agent流量预计达去年网购周的150x 水平，多来自Meta的Muse。",
+          "mini_headline": "代理流量将激增150x",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
-                "cap": "Amazon Ads MCP Server于12月8日新增对无状态(stateless) MCP 2026-07-28的可选支持，旧版本保留。"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
+                "cap": "新数据显示，Meta广受欢迎的个人助理Muse占据了由代理发起的网站请求的绝大部分。"
               },
               {
                 "t": "p",
-                "x": "Amazon Ads将从2026年12月8日起在其MCP Server上支持Model Context Protocol 2026-07-28版本。是否采用由用户自行选择：“现有客户端不会被自动升级”，旧协议版本也将继续获得支持，且未公布停用日期。"
+                "x": "据网络安全公司Human Security称，在11月26日至30日的网购周（Cyber Week）期间，代理流量预计将达到去年网购周数据的150x 水平。来自代理的零售流量预计将从假日前的水平增长一倍以上，在黑色星期五周末达到峰值。"
               },
               {
                 "t": "p",
-                "x": "选择升级的客户端不再需要initialize握手和Mcp-Session-Id标头；协议版本和客户端能力通过每个请求的_meta字段传递，新的server/discover方法会报告支持的版本，tools/list等列表结果附带ttlMs和cacheScope缓存元数据。端点、工具、身份验证和访问控制保持不变。"
+                "x": "一年前，Perplexity的Comet贡献了Human所保护网站约四分之三的代理流量。如今，上市不到三个月的Meta的Muse贡献了70%。OpenAI的ChatGPT agent、Codex浏览器和Codex Chrome扩展合计约占21%；Comet则从74%跌至仅2.4%。"
               },
               {
                 "t": "p",
-                "x": "Amazon列出了五个迁移步骤，最后一步是在投入生产前测试server/discover、tools/list和具有代表性的tools/call请求。其文档仍将该服务器列在“MCP Tools (beta)”之下。该服务器于2025年11月13日开启封闭测试，此后陆续增加了OAuth 2.1登录、位于/mcp/lite的Lite版本以及Audience Discovery工具。"
+                "x": "代理目前仍主要用于发现和研究商品（约占请求的81%），但结账请求预计将达到去年的约160x 水平。Google的代理占流量不到5%，却占结账和支付请求的近20%。"
+              },
+              {
+                "t": "p",
+                "x": "零售商态度分化：Gap、Best Buy、Sephora和Walmart与Muse合作，而Amazon则将其屏蔽。Gartner的Andrew Frank表示：“零售商需要停止把这看作机器人流量，而要开始把代理视为拥有委托权限的客户。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon Ads MCP: actualización\nopcional el 8 de diciembre",
-          "body": "El servidor MCP de Amazon Ads tendrá una mejora opcional el 8 de diciembre; las versiones previas no caducan.",
-          "mini_headline": "Mejora de Amazon Ads MCP el 8 de diciembre",
+          "headline": "Tráfico de agentes de AI: 150x\nen Cyber Week, liderado por Muse",
+          "body": "Se prevé que el tráfico web de AI-agent llegue a 150x el de la Cyber Week pasada, sobre todo por Muse de Meta.",
+          "mini_headline": "El tráfico de agentes, 150x",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
-                "cap": "Amazon Ads MCP Server añade el 8 de diciembre soporte opcional para MCP 2026-07-28 sin estado (stateless); las versiones anteriores se mantienen."
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
+                "cap": "Muse, el popular asistente personal de Meta, concentra la gran mayoría de las solicitudes a sitios hechas por agentes, según nuevos datos."
               },
               {
                 "t": "p",
-                "x": "Amazon Ads admitirá la versión 2026-07-28 del Model Context Protocol en su MCP Server a partir del 8 de diciembre de 2026. La adopción es opcional: “los clientes existentes no se actualizarán automáticamente”, y las versiones anteriores del protocolo seguirán siendo compatibles, sin fecha de retirada anunciada."
+                "x": "Durante la Cyber Week, del 26 al 30 de noviembre, se espera que el tráfico de agentes alcance 150x las cifras de la Cyber Week del año pasado, según la firma de ciberseguridad Human Security. El tráfico minorista generado por agentes más que se duplicará desde los niveles previos a las fiestas hasta su pico en el fin de semana de Black Friday."
               },
               {
                 "t": "p",
-                "x": "Los clientes que opten por ella dejan de usar el handshake initialize y el encabezado Mcp-Session-Id; la versión del protocolo y las capacidades del cliente viajan en el campo _meta de cada solicitud, un nuevo método server/discover informa de las versiones compatibles y los resultados de listas como tools/list incluyen metadatos de caché ttlMs y cacheScope. Los endpoints, las herramientas, la autenticación y los controles de acceso no cambian."
+                "x": "Hace un año, Comet de Perplexity generaba cerca de tres cuartas partes del tráfico de agentes hacia los sitios protegidos por Human. Hoy, Muse de Meta, que llegó al mercado hace menos de tres meses, produce el 70%. ChatGPT agent, el navegador Codex y la extensión Codex para Chrome de OpenAI suman cerca del 21%; Comet cayó del 74% a solo el 2.4%."
               },
               {
                 "t": "p",
-                "x": "Amazon enumera cinco pasos de migración, el último de los cuales es probar server/discover, tools/list y solicitudes tools/call representativas antes del uso en producción. Su documentación aún incluye el servidor en “MCP Tools (beta)”. El servidor se abrió en beta cerrada el 13 de noviembre de 2025 y desde entonces ha añadido inicio de sesión con OAuth 2.1, una versión Lite en /mcp/lite y herramientas de Audience Discovery."
+                "x": "Los agentes todavía se dedican sobre todo a descubrir e investigar productos (cerca del 81% de las solicitudes), pero se prevé que las solicitudes de checkout lleguen a unas 160x los niveles del año pasado. Los agentes de Google representan menos del 5% del tráfico, pero casi el 20% de las solicitudes de checkout y pago."
+              },
+              {
+                "t": "p",
+                "x": "Los minoristas están divididos: Gap, Best Buy, Sephora y Walmart se asociaron con Muse, mientras que Amazon lo bloqueó. \"Los minoristas tienen que dejar de verlo como tráfico de bots y empezar a ver a los agentes como clientes con autoridad delegada\", dijo Andrew Frank, de Gartner."
               }
             ]
           }
@@ -547,109 +651,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Amazon Ads MCP\n12월 8일 선택형 갱신",
-          "body": "Amazon Ads MCP는 12월 8일 선택 갱신되고 구버전은 기한 없이 남는다.",
-          "mini_headline": "Amazon Ads MCP 12월 8일 갱신",
+          "headline": "AI 에이전트 트래픽\n사이버위크 150x 급증",
+          "body": "AI-agent 트래픽이 작년의 150x 수준으로, 대부분 Meta Muse발이다.",
+          "mini_headline": "에이전트 트래픽 150x 급증",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
-                "cap": "Amazon Ads MCP Server가 12월 8일 무상태(stateless) MCP 2026-07-28 선택 지원을 추가하며, 구버전은 그대로 남는다."
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
+                "cap": "새 데이터에 따르면 Meta의 인기 개인 비서 Muse가 에이전트 주도 사이트 요청의 대다수를 차지한다."
               },
               {
                 "t": "p",
-                "x": "Amazon Ads는 2026년 12월 8일부터 MCP Server에서 Model Context Protocol 2026-07-28 버전을 지원한다. 도입은 선택 사항이다. “기존 클라이언트는 자동으로 업그레이드되지 않으며”, 이전 프로토콜 버전도 계속 지원하고 지원 종료일은 발표하지 않았다."
+                "x": "사이버보안 기업 Human Security에 따르면 11월 26~30일 사이버 위크 동안 에이전트 트래픽은 작년 사이버 위크의 150x 수준에 이를 전망이다. 에이전트발 리테일 트래픽은 연휴 전 수준에서 블랙프라이데이 주말 정점까지 두 배 넘게 늘어날 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "업그레이드를 택한 클라이언트는 initialize 핸드셰이크와 Mcp-Session-Id 헤더를 쓰지 않는다. 프로토콜 버전과 클라이언트 기능은 각 요청의 _meta 필드에 담겨 전달되고, 새 server/discover 메서드가 지원 버전을 알려주며, tools/list 같은 목록 결과에는 ttlMs와 cacheScope 캐싱 메타데이터가 붙는다. 엔드포인트, 도구, 인증, 접근 제어는 바뀌지 않는다."
+                "x": "한 해 전에는 Perplexity의 Comet이 Human이 보호하는 사이트로 향한 에이전트 트래픽의 약 사분의 삼을 일으켰다. 지금은 출시된 지 석 달도 안 된 Meta의 Muse가 70%를 만든다. OpenAI의 ChatGPT agent, Codex 브라우저, Codex Chrome 확장 프로그램은 합쳐서 약 21%를 차지하고, Comet은 74%에서 2.4%로 떨어졌다."
               },
               {
                 "t": "p",
-                "x": "Amazon은 다섯 단계의 마이그레이션 절차를 제시했으며, 마지막 단계는 실제 운영 전에 server/discover, tools/list, 대표적인 tools/call 요청을 테스트하는 것이다. 문서에는 이 서버가 여전히 “MCP Tools (beta)” 항목에 올라 있다. 서버는 2025년 11월 13일 비공개 베타로 문을 열었고, 이후 OAuth 2.1 로그인, /mcp/lite의 Lite 버전, Audience Discovery 도구를 추가했다."
+                "x": "에이전트는 여전히 주로 제품을 찾고 조사하는 데 쓰이지만(요청의 약 81%), 결제 요청은 작년의 약 160x 수준으로 예상된다. Google 에이전트는 트래픽의 5% 미만이지만 결제·지불 요청의 20% 가까이를 차지한다."
+              },
+              {
+                "t": "p",
+                "x": "리테일러들의 반응은 엇갈린다. Gap, Best Buy, Sephora, Walmart는 Muse와 제휴했고 Amazon은 이를 차단했다. Gartner의 Andrew Frank는 \"리테일러는 이를 봇 트래픽으로 보지 말고, 에이전트를 위임받은 권한을 가진 고객으로 생각하기 시작해야 한다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazon Ads MCP\n12月8日に任意更新",
-          "body": "Amazon Ads MCPサーバーは12月8日に任意で更新され、旧版も期限なく使える。",
-          "mini_headline": "Amazon Ads MCP、12月8日更新",
+          "headline": "AIエージェントの流入\nサイバーウィークで150x",
+          "body": "AI-agentの流入は昨年の150x に達し、大半はMetaのMuse経由と予測される。",
+          "mini_headline": "エージェント流入が150x に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
-                "cap": "Amazon Ads MCP Serverは12月8日、ステートレス(stateless)なMCP 2026-07-28への任意対応を追加し、旧バージョンも残る。"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
+                "cap": "新たなデータによると、Metaの人気パーソナルアシスタントMuseがエージェント経由のサイトリクエストの大半を占めている。"
               },
               {
                 "t": "p",
-                "x": "Amazon Adsは2026年12月8日から、MCP ServerでModel Context Protocolのバージョン2026-07-28をサポートする。導入は任意で、「既存のクライアントが自動的にアップグレードされることはない」。旧プロトコルバージョンも引き続きサポートされ、廃止日は発表されていない。"
+                "x": "サイバーセキュリティ企業Human Securityによると、11月26日から30日までのサイバーウィーク期間中、エージェント経由のトラフィックは昨年のサイバーウィークの150x に達する見込みだ。エージェントによる小売トラフィックは、ホリデー前の水準からブラックフライデー週末のピークにかけて倍以上に増える見通しだ。"
               },
               {
                 "t": "p",
-                "x": "移行を選んだクライアントはinitializeハンドシェイクとMcp-Session-Idヘッダーが不要になる。プロトコルバージョンとクライアント機能は各リクエストの_metaフィールドで送られ、新しいserver/discoverメソッドが対応バージョンを返し、tools/listなどのリスト結果にはttlMsとcacheScopeのキャッシュメタデータが付く。エンドポイント、ツール、認証、アクセス制御は変わらない。"
+                "x": "一年前は、Humanが保護するサイトへのエージェントトラフィックの約四分の三をPerplexityのCometが生み出していた。現在は、発売から三か月足らずのMetaのMuseが70%を占める。OpenAIのChatGPT agent、Codexブラウザ、Codex Chrome拡張機能は合わせて約21%を占め、Cometは74%からわずか2.4%に落ち込んだ。"
               },
               {
                 "t": "p",
-                "x": "Amazonは五つの移行手順を示しており、最後は本番利用の前にserver/discover、tools/list、代表的なtools/callリクエストをテストすることだ。同社のドキュメントでは、このサーバーは今も「MCP Tools (beta)」の項目に載っている。サーバーは2025年11月13日にクローズドベータとして公開され、その後OAuth 2.1によるサインイン、/mcp/liteのLite版、Audience Discoveryツールが加わった。"
+                "x": "エージェントは依然として主に商品の発見と調査に使われている(リクエストの約81%)が、チェックアウトのリクエストは昨年の約160x に達すると予測される。Googleのエージェントはトラフィックの5%未満だが、チェックアウトと決済リクエストの20%近くを占める。"
+              },
+              {
+                "t": "p",
+                "x": "小売業者の対応は分かれている。Gap、Best Buy、Sephora、WalmartはMuseと提携し、Amazonはこれをブロックした。GartnerのAndrew Frank氏は「小売業者はこれをボットトラフィックと考えるのをやめ、エージェントを委任された権限を持つ顧客と考え始める必要がある」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon Ads MCP\n12月8日可选升级",
-          "body": "Amazon Ads MCP服务器将于12月8日推出可选升级，旧版本继续可用且无截止日期。",
-          "mini_headline": "Amazon Ads MCP 12月8日升级",
+          "headline": "AI代理流量激增150x\nMuse领跑网购周",
+          "body": "AI-agent流量预计达去年网购周的150x 水平，多来自Meta的Muse。",
+          "mini_headline": "代理流量将激增150x",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
-                "cap": "Amazon Ads MCP Server于12月8日新增对无状态(stateless) MCP 2026-07-28的可选支持，旧版本保留。"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
+                "cap": "新数据显示，Meta广受欢迎的个人助理Muse占据了由代理发起的网站请求的绝大部分。"
               },
               {
                 "t": "p",
-                "x": "Amazon Ads将从2026年12月8日起在其MCP Server上支持Model Context Protocol 2026-07-28版本。是否采用由用户自行选择：“现有客户端不会被自动升级”，旧协议版本也将继续获得支持，且未公布停用日期。"
+                "x": "据网络安全公司Human Security称，在11月26日至30日的网购周（Cyber Week）期间，代理流量预计将达到去年网购周数据的150x 水平。来自代理的零售流量预计将从假日前的水平增长一倍以上，在黑色星期五周末达到峰值。"
               },
               {
                 "t": "p",
-                "x": "选择升级的客户端不再需要initialize握手和Mcp-Session-Id标头；协议版本和客户端能力通过每个请求的_meta字段传递，新的server/discover方法会报告支持的版本，tools/list等列表结果附带ttlMs和cacheScope缓存元数据。端点、工具、身份验证和访问控制保持不变。"
+                "x": "一年前，Perplexity的Comet贡献了Human所保护网站约四分之三的代理流量。如今，上市不到三个月的Meta的Muse贡献了70%。OpenAI的ChatGPT agent、Codex浏览器和Codex Chrome扩展合计约占21%；Comet则从74%跌至仅2.4%。"
               },
               {
                 "t": "p",
-                "x": "Amazon列出了五个迁移步骤，最后一步是在投入生产前测试server/discover、tools/list和具有代表性的tools/call请求。其文档仍将该服务器列在“MCP Tools (beta)”之下。该服务器于2025年11月13日开启封闭测试，此后陆续增加了OAuth 2.1登录、位于/mcp/lite的Lite版本以及Audience Discovery工具。"
+                "x": "代理目前仍主要用于发现和研究商品（约占请求的81%），但结账请求预计将达到去年的约160x 水平。Google的代理占流量不到5%，却占结账和支付请求的近20%。"
+              },
+              {
+                "t": "p",
+                "x": "零售商态度分化：Gap、Best Buy、Sephora和Walmart与Muse合作，而Amazon则将其屏蔽。Gartner的Andrew Frank表示：“零售商需要停止把这看作机器人流量，而要开始把代理视为拥有委托权限的客户。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon Ads MCP: actualización\nopcional el 8 de diciembre",
-          "body": "El servidor MCP de Amazon Ads tendrá una mejora opcional el 8 de diciembre; las versiones previas no caducan.",
-          "mini_headline": "Mejora de Amazon Ads MCP el 8 de diciembre",
+          "headline": "Tráfico de agentes de AI: 150x\nen Cyber Week, liderado por Muse",
+          "body": "Se prevé que el tráfico web de AI-agent llegue a 150x el de la Cyber Week pasada, sobre todo por Muse de Meta.",
+          "mini_headline": "El tráfico de agentes, 150x",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
-                "cap": "Amazon Ads MCP Server añade el 8 de diciembre soporte opcional para MCP 2026-07-28 sin estado (stateless); las versiones anteriores se mantienen."
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
+                "cap": "Muse, el popular asistente personal de Meta, concentra la gran mayoría de las solicitudes a sitios hechas por agentes, según nuevos datos."
               },
               {
                 "t": "p",
-                "x": "Amazon Ads admitirá la versión 2026-07-28 del Model Context Protocol en su MCP Server a partir del 8 de diciembre de 2026. La adopción es opcional: “los clientes existentes no se actualizarán automáticamente”, y las versiones anteriores del protocolo seguirán siendo compatibles, sin fecha de retirada anunciada."
+                "x": "Durante la Cyber Week, del 26 al 30 de noviembre, se espera que el tráfico de agentes alcance 150x las cifras de la Cyber Week del año pasado, según la firma de ciberseguridad Human Security. El tráfico minorista generado por agentes más que se duplicará desde los niveles previos a las fiestas hasta su pico en el fin de semana de Black Friday."
               },
               {
                 "t": "p",
-                "x": "Los clientes que opten por ella dejan de usar el handshake initialize y el encabezado Mcp-Session-Id; la versión del protocolo y las capacidades del cliente viajan en el campo _meta de cada solicitud, un nuevo método server/discover informa de las versiones compatibles y los resultados de listas como tools/list incluyen metadatos de caché ttlMs y cacheScope. Los endpoints, las herramientas, la autenticación y los controles de acceso no cambian."
+                "x": "Hace un año, Comet de Perplexity generaba cerca de tres cuartas partes del tráfico de agentes hacia los sitios protegidos por Human. Hoy, Muse de Meta, que llegó al mercado hace menos de tres meses, produce el 70%. ChatGPT agent, el navegador Codex y la extensión Codex para Chrome de OpenAI suman cerca del 21%; Comet cayó del 74% a solo el 2.4%."
               },
               {
                 "t": "p",
-                "x": "Amazon enumera cinco pasos de migración, el último de los cuales es probar server/discover, tools/list y solicitudes tools/call representativas antes del uso en producción. Su documentación aún incluye el servidor en “MCP Tools (beta)”. El servidor se abrió en beta cerrada el 13 de noviembre de 2025 y desde entonces ha añadido inicio de sesión con OAuth 2.1, una versión Lite en /mcp/lite y herramientas de Audience Discovery."
+                "x": "Los agentes todavía se dedican sobre todo a descubrir e investigar productos (cerca del 81% de las solicitudes), pero se prevé que las solicitudes de checkout lleguen a unas 160x los niveles del año pasado. Los agentes de Google representan menos del 5% del tráfico, pero casi el 20% de las solicitudes de checkout y pago."
+              },
+              {
+                "t": "p",
+                "x": "Los minoristas están divididos: Gap, Best Buy, Sephora y Walmart se asociaron con Muse, mientras que Amazon lo bloqueó. \"Los minoristas tienen que dejar de verlo como tráfico de bots y empezar a ver a los agentes como clientes con autoridad delegada\", dijo Andrew Frank, de Gartner."
               }
             ]
           }
@@ -657,591 +777,285 @@
       }
     },
     {
-      "id": "adobe-agents-chatgpt-claude",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "어도비 마케팅 에이전트\n챗GPT·클로드에서 쓴다",
-      "body": "어도비가 마케팅 AI 에이전트를 챗GPT·클로드·제미나이·코파일럿에서 쓰게 했다.",
-      "mini_headline": "어도비 CX 코워커, 챗GPT로",
-      "tool": "Marketing",
-      "source": "서울경제",
-      "url": "https://www.sedaily.com/article/20118433",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
-            "cap": "어도비가 24일 ‘CX 엔터프라이즈 코워커’를 주요 AI 플랫폼에서 이용할 수 있게 됐다고 밝혔다. 사진 제공=어도비"
-          },
-          {
-            "t": "p",
-            "x": "어도비가 마케팅 담당자의 고객 경험 관리 업무를 돕는 인공지능(AI) 에이전트를 챗GPT와 클로드 등 주요 AI 플랫폼에서 사용할 수 있도록 한다. 마케터가 어도비 제품을 따로 실행하지 않고 평소 사용하는 AI 안에서 캠페인 기획과 분석까지 해결할 수 있도록 지원한다는 구상이다."
-          },
-          {
-            "t": "p",
-            "x": "어도비는 24일 자사 AI 에이전트 ‘CX 엔터프라이즈 코워커’를 주요 AI 플랫폼에서 이용할 수 있다고 밝혔다. 현재 챗GPT·클로드·제미나이(엔터프라이즈용)·코파일럿에서 쓸 수 있으며 향후 아마존 퀵과 IBM, 스노우플레이크에서도 지원할 예정이다."
-          },
-          {
-            "t": "p",
-            "x": "CX 엔터프라이즈 코워커는 고객 경험(CX) 관리를 맡는 AI 에이전트다. 잠재 고객 확보와 참여 유도·구매 전환·고객 생애 가치 증대까지 고객 관리 전 단계를 다룬다. 사람의 감독 하에 캠페인 성과와 새로운 트렌드를 분석하고 고객군 예측 및 고객 여정 최적화 기능을 제공한다."
-          },
-          {
-            "t": "p",
-            "x": "어도비는 마케터가 회사의 맥락을 반영하지 못한 채 AI 도구를 사용하는 문제를 풀겠다는 입장이다. 안줄 밤브리 어도비 CX 오케스트레이션 엔지니어링 수석 부사장은 “마케터들은 조직적 맥락과 인텔리전스를 충분히 활용하지 못한 채 AI툴을 개별적으로 사용하는 경우가 많았다”고 진단했다. 그는 이 도구가 브랜드와 고객 정보를 바탕으로 AI 도구와 업무 흐름을 연결한다고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "어도비는 신규 커넥터도 공개했다. 아마존 애즈·메타 광고·마이크로소프트 워크IQ 등 마케터가 쓰는 시스템과 미리 연결된 모델 컨텍스트 프로토콜(MCP) 서버를 제공한다. 마케터는 별도 연동 작업 없이 시스템을 연결하고 한 번의 요청으로 여러 시스템에서 데이터를 가져올 수 있게 된다."
-          },
-          {
-            "t": "p",
-            "x": "여러 광고 에이전시도 이 도구를 바탕으로 산업별 맞춤형 솔루션을 만들고 있다. 라오 수라파네니 구글 클라우드 부사장은 “어도비 CX 엔터프라이즈 코워커를 기업용 제미나이에 통합하면서 기업은 기존 업무 환경에서 고객 데이터와 브랜드 인텔리전스를 안전하게 활용할 수 있다”고 말했다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "어도비 마케팅 에이전트\n챗GPT·클로드에서 쓴다",
-          "body": "어도비가 마케팅 AI 에이전트를 챗GPT·클로드·제미나이·코파일럿에서 쓰게 했다.",
-          "mini_headline": "어도비 CX 코워커, 챗GPT로",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
-                "cap": "어도비가 24일 ‘CX 엔터프라이즈 코워커’를 주요 AI 플랫폼에서 이용할 수 있게 됐다고 밝혔다. 사진 제공=어도비"
-              },
-              {
-                "t": "p",
-                "x": "어도비가 마케팅 담당자의 고객 경험 관리 업무를 돕는 인공지능(AI) 에이전트를 챗GPT와 클로드 등 주요 AI 플랫폼에서 사용할 수 있도록 한다. 마케터가 어도비 제품을 따로 실행하지 않고 평소 사용하는 AI 안에서 캠페인 기획과 분석까지 해결할 수 있도록 지원한다는 구상이다."
-              },
-              {
-                "t": "p",
-                "x": "어도비는 24일 자사 AI 에이전트 ‘CX 엔터프라이즈 코워커’를 주요 AI 플랫폼에서 이용할 수 있다고 밝혔다. 현재 챗GPT·클로드·제미나이(엔터프라이즈용)·코파일럿에서 쓸 수 있으며 향후 아마존 퀵과 IBM, 스노우플레이크에서도 지원할 예정이다."
-              },
-              {
-                "t": "p",
-                "x": "CX 엔터프라이즈 코워커는 고객 경험(CX) 관리를 맡는 AI 에이전트다. 잠재 고객 확보와 참여 유도·구매 전환·고객 생애 가치 증대까지 고객 관리 전 단계를 다룬다. 사람의 감독 하에 캠페인 성과와 새로운 트렌드를 분석하고 고객군 예측 및 고객 여정 최적화 기능을 제공한다."
-              },
-              {
-                "t": "p",
-                "x": "어도비는 마케터가 회사의 맥락을 반영하지 못한 채 AI 도구를 사용하는 문제를 풀겠다는 입장이다. 안줄 밤브리 어도비 CX 오케스트레이션 엔지니어링 수석 부사장은 “마케터들은 조직적 맥락과 인텔리전스를 충분히 활용하지 못한 채 AI툴을 개별적으로 사용하는 경우가 많았다”고 진단했다. 그는 이 도구가 브랜드와 고객 정보를 바탕으로 AI 도구와 업무 흐름을 연결한다고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "어도비는 신규 커넥터도 공개했다. 아마존 애즈·메타 광고·마이크로소프트 워크IQ 등 마케터가 쓰는 시스템과 미리 연결된 모델 컨텍스트 프로토콜(MCP) 서버를 제공한다. 마케터는 별도 연동 작업 없이 시스템을 연결하고 한 번의 요청으로 여러 시스템에서 데이터를 가져올 수 있게 된다."
-              },
-              {
-                "t": "p",
-                "x": "여러 광고 에이전시도 이 도구를 바탕으로 산업별 맞춤형 솔루션을 만들고 있다. 라오 수라파네니 구글 클라우드 부사장은 “어도비 CX 엔터프라이즈 코워커를 기업용 제미나이에 통합하면서 기업은 기존 업무 환경에서 고객 데이터와 브랜드 인텔리전스를 안전하게 활용할 수 있다”고 말했다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Adobe's marketing agent comes\nto ChatGPT and Claude",
-          "body": "Adobe has made its marketing AI agent available in ChatGPT, Claude, Gemini and Copilot.",
-          "mini_headline": "Adobe CX Coworker comes to ChatGPT",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
-                "cap": "Adobe said on the 24th that its ‘CX Enterprise Coworker’ is now available on major AI platforms. Photo courtesy of Adobe"
-              },
-              {
-                "t": "p",
-                "x": "Adobe is making an artificial intelligence (AI) agent that helps marketers manage customer experience available on major AI platforms such as ChatGPT and Claude. The idea is to let marketers handle everything up to campaign planning and analysis inside the AI they already use, without launching Adobe products separately."
-              },
-              {
-                "t": "p",
-                "x": "Adobe said on the 24th that its AI agent, ‘CX Enterprise Coworker,’ can be used on major AI platforms. It is currently available in ChatGPT, Claude, Gemini (Enterprise) and Copilot, with support for Amazon Quick, IBM and Snowflake planned."
-              },
-              {
-                "t": "p",
-                "x": "CX Enterprise Coworker is an AI agent that handles customer experience (CX) management. It covers every stage of customer management, from acquiring prospects and driving engagement to purchase conversion and growing customer lifetime value. Under human supervision, it analyzes campaign performance and emerging trends and offers audience prediction and customer journey optimization."
-              },
-              {
-                "t": "p",
-                "x": "Adobe says it aims to solve the problem of marketers using AI tools without reflecting their company's context. Anjul Bhambhri, senior vice president of CX orchestration engineering at Adobe, said, “Marketers have often used AI tools individually without fully drawing on organizational context and intelligence.” Bhambhri explained that the tool connects AI tools and workflows based on brand and customer information."
-              },
-              {
-                "t": "p",
-                "x": "Adobe also unveiled new connectors. It provides Model Context Protocol (MCP) servers prebuilt to connect with systems marketers use, such as Amazon Ads, Meta ads and Microsoft Work IQ. Marketers will be able to connect systems without separate integration work and pull data from multiple systems with a single request."
-              },
-              {
-                "t": "p",
-                "x": "Several ad agencies are also building industry-specific solutions on top of the tool. Rao Surapaneni, vice president at Google Cloud, said, “By integrating Adobe CX Enterprise Coworker into Gemini Enterprise, companies can securely use customer data and brand intelligence within their existing work environments.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Adobeのマーケ支援AI\nChatGPTなどで利用可能",
-          "body": "AdobeのマーケAIがChatGPT・Claude・Geminiなどに対応した。",
-          "mini_headline": "Adobe CX Coworker、ChatGPTへ",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
-                "cap": "Adobeは24日、「CX Enterprise Coworker」を主要AIプラットフォームで利用できるようになったと発表した。写真提供＝Adobe"
-              },
-              {
-                "t": "p",
-                "x": "Adobeは、マーケティング担当者の顧客体験管理業務を支援する人工知能(AI)エージェントを、ChatGPTやClaudeなど主要AIプラットフォームで使えるようにする。マーケターがAdobe製品を別途立ち上げることなく、普段使っているAIの中でキャンペーンの企画から分析まで完結できるよう支援する構想だ。"
-              },
-              {
-                "t": "p",
-                "x": "Adobeは24日、自社のAIエージェント「CX Enterprise Coworker」を主要AIプラットフォームで利用できると発表した。現在はChatGPT・Claude・Gemini(エンタープライズ向け)・Copilotで使え、今後はAmazon Quick、IBM、Snowflakeでも対応する予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "CX Enterprise Coworkerは顧客体験(CX)管理を担うAIエージェントだ。見込み客の獲得、エンゲージメントの促進、購入転換、顧客生涯価値の向上まで、顧客管理の全段階を扱う。人の監督の下でキャンペーン成果や新たなトレンドを分析し、顧客セグメントの予測やカスタマージャーニーの最適化機能を提供する。"
-              },
-              {
-                "t": "p",
-                "x": "Adobeは、マーケターが会社の文脈を反映できないままAIツールを使っている問題を解決する考えだ。AdobeのCXオーケストレーション・エンジニアリング担当シニアバイスプレジデント、Anjul Bhambhriは「マーケターは組織の文脈やインテリジェンスを十分に生かせないまま、AIツールを個別に使うことが多かった」と指摘した。そのうえで、このツールはブランドと顧客の情報をもとにAIツールと業務フローをつなぐと説明した。"
-              },
-              {
-                "t": "p",
-                "x": "Adobeは新たなコネクターも公開した。Amazon Ads・Meta広告・Microsoft Work IQなど、マーケターが使うシステムとあらかじめ接続されたモデル・コンテキスト・プロトコル(MCP)サーバーを提供する。マーケターは別途の連携作業なしにシステムをつなぎ、一度の依頼で複数のシステムからデータを取得できるようになる。"
-              },
-              {
-                "t": "p",
-                "x": "複数の広告代理店もこのツールを基に業界別のソリューションを開発している。Google CloudのバイスプレジデントであるRao Surapaneniは「Adobe CX Enterprise CoworkerをGemini Enterpriseに統合することで、企業は既存の業務環境で顧客データとブランドインテリジェンスを安全に活用できる」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Adobe营销AI智能体\n可在ChatGPT等使用",
-          "body": "Adobe营销AI智能体登陆ChatGPT、Claude、Gemini和Copilot。",
-          "mini_headline": "Adobe CX Coworker登陆ChatGPT",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
-                "cap": "Adobe于24日表示，“CX Enterprise Coworker”已可在主要AI平台上使用。图片由Adobe提供"
-              },
-              {
-                "t": "p",
-                "x": "Adobe将让帮助营销人员管理客户体验的人工智能(AI)智能体可在ChatGPT和Claude等主要AI平台上使用。其构想是让营销人员无需另行启动Adobe产品，就能在日常使用的AI中完成从活动策划到分析的工作。"
-              },
-              {
-                "t": "p",
-                "x": "Adobe于24日表示，其AI智能体“CX Enterprise Coworker”已可在主要AI平台上使用。目前可在ChatGPT、Claude、Gemini(企业版)和Copilot中使用，未来还将支持Amazon Quick、IBM和Snowflake。"
-              },
-              {
-                "t": "p",
-                "x": "CX Enterprise Coworker是负责客户体验(CX)管理的AI智能体，覆盖从获取潜在客户、促进互动、推动购买转化到提升客户生命周期价值的客户管理全流程。它在人工监督下分析活动成效和新趋势，并提供客群预测和客户旅程优化功能。"
-              },
-              {
-                "t": "p",
-                "x": "Adobe表示，要解决营销人员在未能反映公司背景的情况下使用AI工具的问题。Adobe CX编排工程高级副总裁Anjul Bhambhri指出：“营销人员常常在未能充分利用组织背景和情报的情况下，各自零散地使用AI工具。”Bhambhri解释说，该工具以品牌和客户信息为基础，将AI工具与工作流程连接起来。"
-              },
-              {
-                "t": "p",
-                "x": "Adobe还发布了新的连接器，提供与Amazon Ads、Meta广告、Microsoft Work IQ等营销人员常用系统预先连接的模型上下文协议(MCP)服务器。营销人员无需额外集成工作即可连接系统，并通过一次请求从多个系统获取数据。"
-              },
-              {
-                "t": "p",
-                "x": "多家广告代理商也在以该工具为基础打造面向各行业的定制方案。Google Cloud副总裁Rao Surapaneni表示：“通过将Adobe CX Enterprise Coworker集成到企业版Gemini中，企业可以在现有工作环境中安全地利用客户数据和品牌情报。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El agente de marketing de Adobe\nllega a ChatGPT y Claude",
-          "body": "Adobe lleva su agente de AI para marketing a ChatGPT, Claude, Gemini y Copilot.",
-          "mini_headline": "Adobe CX Coworker llega a ChatGPT",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
-                "cap": "Adobe anunció el 24 que ‘CX Enterprise Coworker’ ya puede usarse en las principales plataformas de AI. Foto: Adobe"
-              },
-              {
-                "t": "p",
-                "x": "Adobe permitirá usar en las principales plataformas de AI, como ChatGPT y Claude, un agente de inteligencia artificial (AI) que ayuda a los profesionales de marketing a gestionar la experiencia del cliente. La idea es que puedan resolver desde la planificación hasta el análisis de campañas dentro de la AI que usan a diario, sin abrir por separado los productos de Adobe."
-              },
-              {
-                "t": "p",
-                "x": "Adobe anunció el 24 que su agente de AI ‘CX Enterprise Coworker’ puede usarse en las principales plataformas de AI. Ya está disponible en ChatGPT, Claude, Gemini (para empresas) y Copilot, y más adelante llegará a Amazon Quick, IBM y Snowflake."
-              },
-              {
-                "t": "p",
-                "x": "CX Enterprise Coworker es un agente de AI dedicado a la gestión de la experiencia del cliente (CX). Cubre todas las etapas de la relación con el cliente, desde la captación de clientes potenciales y el fomento de la interacción hasta la conversión en compra y el aumento del valor de vida del cliente. Bajo supervisión humana, analiza el rendimiento de las campañas y las nuevas tendencias, y ofrece funciones de predicción de segmentos y optimización del recorrido del cliente."
-              },
-              {
-                "t": "p",
-                "x": "Adobe afirma que quiere resolver el problema de los profesionales de marketing que usan herramientas de AI sin reflejar el contexto de su empresa. Anjul Bhambhri, vicepresidente sénior de ingeniería de orquestación de CX de Adobe, señaló: “Los profesionales de marketing a menudo han usado herramientas de AI por separado, sin aprovechar plenamente el contexto y la inteligencia de la organización”. Explicó que la herramienta conecta las herramientas de AI y los flujos de trabajo a partir de la información de la marca y de los clientes."
-              },
-              {
-                "t": "p",
-                "x": "Adobe también presentó nuevos conectores. Ofrece servidores de protocolo de contexto de modelo (MCP) ya conectados con sistemas que usan los profesionales de marketing, como Amazon Ads, la publicidad de Meta y Microsoft Work IQ. Así podrán conectar sistemas sin trabajos de integración aparte y obtener datos de varios sistemas con una sola solicitud."
-              },
-              {
-                "t": "p",
-                "x": "Varias agencias de publicidad también están creando soluciones a medida para cada sector a partir de esta herramienta. Rao Surapaneni, vicepresidente de Google Cloud, dijo: “Al integrar Adobe CX Enterprise Coworker en Gemini Enterprise, las empresas pueden aprovechar de forma segura los datos de clientes y la inteligencia de marca en su entorno de trabajo actual”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Adobe's marketing agent comes\nto ChatGPT and Claude",
-          "body": "Adobe has made its marketing AI agent available in ChatGPT, Claude, Gemini and Copilot.",
-          "mini_headline": "Adobe CX Coworker comes to ChatGPT",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
-                "cap": "Adobe said on the 24th that its ‘CX Enterprise Coworker’ is now available on major AI platforms. Photo courtesy of Adobe"
-              },
-              {
-                "t": "p",
-                "x": "Adobe is making an artificial intelligence (AI) agent that helps marketers manage customer experience available on major AI platforms such as ChatGPT and Claude. The idea is to let marketers handle everything up to campaign planning and analysis inside the AI they already use, without launching Adobe products separately."
-              },
-              {
-                "t": "p",
-                "x": "Adobe said on the 24th that its AI agent, ‘CX Enterprise Coworker,’ can be used on major AI platforms. It is currently available in ChatGPT, Claude, Gemini (Enterprise) and Copilot, with support for Amazon Quick, IBM and Snowflake planned."
-              },
-              {
-                "t": "p",
-                "x": "CX Enterprise Coworker is an AI agent that handles customer experience (CX) management. It covers every stage of customer management, from acquiring prospects and driving engagement to purchase conversion and growing customer lifetime value. Under human supervision, it analyzes campaign performance and emerging trends and offers audience prediction and customer journey optimization."
-              },
-              {
-                "t": "p",
-                "x": "Adobe says it aims to solve the problem of marketers using AI tools without reflecting their company's context. Anjul Bhambhri, senior vice president of CX orchestration engineering at Adobe, said, “Marketers have often used AI tools individually without fully drawing on organizational context and intelligence.” Bhambhri explained that the tool connects AI tools and workflows based on brand and customer information."
-              },
-              {
-                "t": "p",
-                "x": "Adobe also unveiled new connectors. It provides Model Context Protocol (MCP) servers prebuilt to connect with systems marketers use, such as Amazon Ads, Meta ads and Microsoft Work IQ. Marketers will be able to connect systems without separate integration work and pull data from multiple systems with a single request."
-              },
-              {
-                "t": "p",
-                "x": "Several ad agencies are also building industry-specific solutions on top of the tool. Rao Surapaneni, vice president at Google Cloud, said, “By integrating Adobe CX Enterprise Coworker into Gemini Enterprise, companies can securely use customer data and brand intelligence within their existing work environments.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Adobeのマーケ支援AI\nChatGPTなどで利用可能",
-          "body": "AdobeのマーケAIがChatGPT・Claude・Geminiなどに対応した。",
-          "mini_headline": "Adobe CX Coworker、ChatGPTへ",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
-                "cap": "Adobeは24日、「CX Enterprise Coworker」を主要AIプラットフォームで利用できるようになったと発表した。写真提供＝Adobe"
-              },
-              {
-                "t": "p",
-                "x": "Adobeは、マーケティング担当者の顧客体験管理業務を支援する人工知能(AI)エージェントを、ChatGPTやClaudeなど主要AIプラットフォームで使えるようにする。マーケターがAdobe製品を別途立ち上げることなく、普段使っているAIの中でキャンペーンの企画から分析まで完結できるよう支援する構想だ。"
-              },
-              {
-                "t": "p",
-                "x": "Adobeは24日、自社のAIエージェント「CX Enterprise Coworker」を主要AIプラットフォームで利用できると発表した。現在はChatGPT・Claude・Gemini(エンタープライズ向け)・Copilotで使え、今後はAmazon Quick、IBM、Snowflakeでも対応する予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "CX Enterprise Coworkerは顧客体験(CX)管理を担うAIエージェントだ。見込み客の獲得、エンゲージメントの促進、購入転換、顧客生涯価値の向上まで、顧客管理の全段階を扱う。人の監督の下でキャンペーン成果や新たなトレンドを分析し、顧客セグメントの予測やカスタマージャーニーの最適化機能を提供する。"
-              },
-              {
-                "t": "p",
-                "x": "Adobeは、マーケターが会社の文脈を反映できないままAIツールを使っている問題を解決する考えだ。AdobeのCXオーケストレーション・エンジニアリング担当シニアバイスプレジデント、Anjul Bhambhriは「マーケターは組織の文脈やインテリジェンスを十分に生かせないまま、AIツールを個別に使うことが多かった」と指摘した。そのうえで、このツールはブランドと顧客の情報をもとにAIツールと業務フローをつなぐと説明した。"
-              },
-              {
-                "t": "p",
-                "x": "Adobeは新たなコネクターも公開した。Amazon Ads・Meta広告・Microsoft Work IQなど、マーケターが使うシステムとあらかじめ接続されたモデル・コンテキスト・プロトコル(MCP)サーバーを提供する。マーケターは別途の連携作業なしにシステムをつなぎ、一度の依頼で複数のシステムからデータを取得できるようになる。"
-              },
-              {
-                "t": "p",
-                "x": "複数の広告代理店もこのツールを基に業界別のソリューションを開発している。Google CloudのバイスプレジデントであるRao Surapaneniは「Adobe CX Enterprise CoworkerをGemini Enterpriseに統合することで、企業は既存の業務環境で顧客データとブランドインテリジェンスを安全に活用できる」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Adobe营销AI智能体\n可在ChatGPT等使用",
-          "body": "Adobe营销AI智能体登陆ChatGPT、Claude、Gemini和Copilot。",
-          "mini_headline": "Adobe CX Coworker登陆ChatGPT",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
-                "cap": "Adobe于24日表示，“CX Enterprise Coworker”已可在主要AI平台上使用。图片由Adobe提供"
-              },
-              {
-                "t": "p",
-                "x": "Adobe将让帮助营销人员管理客户体验的人工智能(AI)智能体可在ChatGPT和Claude等主要AI平台上使用。其构想是让营销人员无需另行启动Adobe产品，就能在日常使用的AI中完成从活动策划到分析的工作。"
-              },
-              {
-                "t": "p",
-                "x": "Adobe于24日表示，其AI智能体“CX Enterprise Coworker”已可在主要AI平台上使用。目前可在ChatGPT、Claude、Gemini(企业版)和Copilot中使用，未来还将支持Amazon Quick、IBM和Snowflake。"
-              },
-              {
-                "t": "p",
-                "x": "CX Enterprise Coworker是负责客户体验(CX)管理的AI智能体，覆盖从获取潜在客户、促进互动、推动购买转化到提升客户生命周期价值的客户管理全流程。它在人工监督下分析活动成效和新趋势，并提供客群预测和客户旅程优化功能。"
-              },
-              {
-                "t": "p",
-                "x": "Adobe表示，要解决营销人员在未能反映公司背景的情况下使用AI工具的问题。Adobe CX编排工程高级副总裁Anjul Bhambhri指出：“营销人员常常在未能充分利用组织背景和情报的情况下，各自零散地使用AI工具。”Bhambhri解释说，该工具以品牌和客户信息为基础，将AI工具与工作流程连接起来。"
-              },
-              {
-                "t": "p",
-                "x": "Adobe还发布了新的连接器，提供与Amazon Ads、Meta广告、Microsoft Work IQ等营销人员常用系统预先连接的模型上下文协议(MCP)服务器。营销人员无需额外集成工作即可连接系统，并通过一次请求从多个系统获取数据。"
-              },
-              {
-                "t": "p",
-                "x": "多家广告代理商也在以该工具为基础打造面向各行业的定制方案。Google Cloud副总裁Rao Surapaneni表示：“通过将Adobe CX Enterprise Coworker集成到企业版Gemini中，企业可以在现有工作环境中安全地利用客户数据和品牌情报。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El agente de marketing de Adobe\nllega a ChatGPT y Claude",
-          "body": "Adobe lleva su agente de AI para marketing a ChatGPT, Claude, Gemini y Copilot.",
-          "mini_headline": "Adobe CX Coworker llega a ChatGPT",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_P1.jpg",
-                "cap": "Adobe anunció el 24 que ‘CX Enterprise Coworker’ ya puede usarse en las principales plataformas de AI. Foto: Adobe"
-              },
-              {
-                "t": "p",
-                "x": "Adobe permitirá usar en las principales plataformas de AI, como ChatGPT y Claude, un agente de inteligencia artificial (AI) que ayuda a los profesionales de marketing a gestionar la experiencia del cliente. La idea es que puedan resolver desde la planificación hasta el análisis de campañas dentro de la AI que usan a diario, sin abrir por separado los productos de Adobe."
-              },
-              {
-                "t": "p",
-                "x": "Adobe anunció el 24 que su agente de AI ‘CX Enterprise Coworker’ puede usarse en las principales plataformas de AI. Ya está disponible en ChatGPT, Claude, Gemini (para empresas) y Copilot, y más adelante llegará a Amazon Quick, IBM y Snowflake."
-              },
-              {
-                "t": "p",
-                "x": "CX Enterprise Coworker es un agente de AI dedicado a la gestión de la experiencia del cliente (CX). Cubre todas las etapas de la relación con el cliente, desde la captación de clientes potenciales y el fomento de la interacción hasta la conversión en compra y el aumento del valor de vida del cliente. Bajo supervisión humana, analiza el rendimiento de las campañas y las nuevas tendencias, y ofrece funciones de predicción de segmentos y optimización del recorrido del cliente."
-              },
-              {
-                "t": "p",
-                "x": "Adobe afirma que quiere resolver el problema de los profesionales de marketing que usan herramientas de AI sin reflejar el contexto de su empresa. Anjul Bhambhri, vicepresidente sénior de ingeniería de orquestación de CX de Adobe, señaló: “Los profesionales de marketing a menudo han usado herramientas de AI por separado, sin aprovechar plenamente el contexto y la inteligencia de la organización”. Explicó que la herramienta conecta las herramientas de AI y los flujos de trabajo a partir de la información de la marca y de los clientes."
-              },
-              {
-                "t": "p",
-                "x": "Adobe también presentó nuevos conectores. Ofrece servidores de protocolo de contexto de modelo (MCP) ya conectados con sistemas que usan los profesionales de marketing, como Amazon Ads, la publicidad de Meta y Microsoft Work IQ. Así podrán conectar sistemas sin trabajos de integración aparte y obtener datos de varios sistemas con una sola solicitud."
-              },
-              {
-                "t": "p",
-                "x": "Varias agencias de publicidad también están creando soluciones a medida para cada sector a partir de esta herramienta. Rao Surapaneni, vicepresidente de Google Cloud, dijo: “Al integrar Adobe CX Enterprise Coworker en Gemini Enterprise, las empresas pueden aprovechar de forma segura los datos de clientes y la inteligencia de marca en su entorno de trabajo actual”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "sej-fake-deal-agents",
+      "id": "digiday-blackfriday-ai-shoppers",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 쇼핑 에이전트\n가짜 특가 37% 구매",
-      "body": "AI 모델 아홉 개가 6,156회 쇼핑에서 37% 확률로 가짜 특가를 샀다.",
-      "mini_headline": "쇼핑 에이전트, 가짜 특가에 속다",
+      "headline": "블랙프라이데이 앞두고\nAI 챗봇 찾는 쇼핑객",
+      "body": "블랙프라이데이를 앞두고 AI 챗봇으로 상품을 찾는 비율이 6%에서 13%로 늘었다.",
+      "mini_headline": "AI 챗봇 찾는 쇼핑객",
       "tool": "Marketing",
-      "source": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/",
-      "accent": "#2ec5c5",
+      "source": "Digiday",
+      "url": "https://digiday.com/marketing/in-graphic-detail-how-shoppers-are-adopting-ai-for-product-research-ahead-of-black-friday/",
+      "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
           },
           {
             "t": "p",
-            "x": "Anthropic, OpenAI, Google의 AI 모델 아홉 개에게 크리스마스 쇼핑을 6,156회 맡겼다. 상품 목록에는 누가 봐도 가짜인 특가가 하나 섞여 있었다. 리뷰가 수만 개에 만점 5.0을 받았고 가격은 다른 상품의 오분의 일에서 사분의 일인 상품이다. 모델들은 37% 확률로 이 상품을 샀다. 모델 9개 중 8개가 가짜 특가를 샀고, 한 번도 사지 않은 건 Claude Opus뿐이었다."
+            "x": "블랙프라이데이/사이버먼데이를 앞두고 마케터는 광고비를 퍼포먼스 채널로 옮기는 중이다. 그사이 소비자 쪽에서는 구매 결정을 돕는 Gemini, ChatGPT 같은 생성형 AI 도구가 자리를 잡아 간다."
           },
           {
             "t": "p",
-            "x": "AI가 특가가 수상해 보인다고 적은 경우는 315회였는데, 그중 137회는 그러고도 가짜를 샀다. 의심한 경우를 통틀어 AI가 질문을 던진 건 10회였다. 전부 슬리퍼 사이즈를 묻는 질문이었고, 수상하다던 특가는 한 번도 묻지 않았다."
+            "x": "Jellyfish SEO 부문 부사장 Jonathan Verrall은 \"이제 AI가 쇼핑객이 신뢰하는 출처를 바탕으로 몇 주 앞서 후보 목록을 작성한다\"고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
           },
           {
             "t": "p",
-            "x": "가짜 특가를 맨 앞에 두면 65% 확률로 팔렸다. 가성비가 가장 좋은 상품을 고르라고 하자 AI들(AIs)은 53% 확률로 가짜를 샀다. 선호 조건이 없을 때는 19%였다. 가짜를 빼자 별점 4.9 상품이 구매 2,915건 중 2,277건, 78%를 가져갔다. 특정 상품을 고르라고 AI에게 지시하는 숨은 문구는 6,156회 중 14회 먹혔는데, 모두 Gemini 3.5 Flash-Lite였다."
+            "x": "Brainlabs가 U.S.와 U.K. 쇼핑객 2,800명을 조사해 보니 상품 조사에 AI를 쓰는 비율이 평균 작년 6%에서 13%로 늘었다."
           },
           {
             "t": "p",
-            "x": "테스트는 11월 14일과 15일에 진행했다. 선물마다 가상의 상품 목록 열 개를 만들었는데, Shopify가 AI 쇼핑 에이전트에 상품을 보낼 때 쓰는 형식을 따랐다. AI 사용료로는 $69.97이 들었다. “올해 크리스마스 쇼핑을 AI에 맡긴다면, 결제하기 전에 무엇을 골랐는지 확인하라.”"
+            "x": "Jellyfish가 U.K. 블랙프라이데이 프롬프트를 분석한 결과 AI 인용은 서드파티 출처가 주도했다. PMG에 따르면 자사 제품을 추천하는 AI 답변에 인용된 링크 203개 중 브랜드 웹사이트 링크는 24개뿐이었다."
+          },
+          {
+            "t": "img",
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
+          },
+          {
+            "t": "p",
+            "x": "AdClarity는 10월 ChatGPT 총 광고비를 $116.6 million 정도로, 그중 U.S. 브랜드 비중을 64%로 추정했다. Bain에 따르면 소비자 42%가 상품을 알아볼 때 AI 도구를 쓴다. 다만 McKinsey는 고령 쇼핑객이 뒤처져 있다고 봤다."
+          },
+          {
+            "t": "img",
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI shopping agents bought\na fake deal 37% of the time",
-          "body": "In 6,156 shopping runs, nine AI models bought an obviously fake deal 37% of the time; only Claude Opus never did.",
-          "mini_headline": "Shopping agents fall for fake deals",
+          "headline": "Shoppers turn to AI chatbots\nbefore Black Friday",
+          "body": "Shoppers are using AI chatbots for product research ahead of Black Friday, with usage up from 6% to 13%.",
+          "mini_headline": "Shoppers turn to AI chatbots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "Nine AI models from Anthropic, OpenAI, and Google went Christmas shopping 6,156 times. When one of the listings was an obviously fake deal — a perfect 5.0 from tens of thousands of reviews at a fifth to a quarter of everyone else's price — they bought it 37% of the time. 8 of 9 models bought the fake deal; Claude Opus never did."
+                "x": "Marketers are shifting ad dollars toward performance channels ahead of Black Friday/Cyber Monday, yet consumers are adopting generative AI tools like Gemini and ChatGPT to aid their purchasing decisions."
               },
               {
                 "t": "p",
-                "x": "315 times an AI wrote that a deal looked suspicious, and 137 of those times it bought the fake anyway. Across those doubts, an AI asked a question 10 times, every time about the size of the slippers, and never about the deal it doubted."
+                "x": "\"Now AI writes the shortlist weeks earlier from the sources shoppers trust,\" said Jonathan Verrall, vp of SEO at Jellyfish."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
               },
               {
                 "t": "p",
-                "x": "A fake deal listed first was bought 65% of the time; asked for the best value, the AIs bought the fake 53% of the time, against 19% with no preference. With the fake gone, the 4.9-star listing won 2,277 of 2,915 purchases, 78%. A hidden note telling AIs to pick a listing worked 14 times out of 6,156, all on Gemini 3.5 Flash-Lite."
+                "x": "A Brainlabs survey of 2,800 U.S. and U.K. shoppers found the share using AI for product research rose on average from 6% last year to 13%."
               },
               {
                 "t": "p",
-                "x": "The test ran Nov. 14 and 15 with ten made-up listings per present in the format Shopify uses to send products to AI shopping agents, and cost $69.97 in AI fees. \"If you let an AI do your Christmas shopping this year, check what it picked before you pay.\""
+                "x": "A Jellyfish study of U.K. Black Friday prompts found third-party sources leading AI citations. PMG found a brand's website supplied just 24 out of 203 links cited in AI answers recommending its products."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
+              },
+              {
+                "t": "p",
+                "x": "AdClarity estimated total ad spend on ChatGPT reached $116.6 million in October, with U.S. brands accounting for 64%. Per Bain, 42% of consumers use AI tools to research products, though older shoppers lag behind, McKinsey found."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 쇼핑 에이전트\n가짜 특가 37% 구매",
-          "body": "AI 모델 아홉 개가 6,156회 쇼핑에서 37% 확률로 가짜 특가를 샀다.",
-          "mini_headline": "쇼핑 에이전트, 가짜 특가에 속다",
+          "headline": "블랙프라이데이 앞두고\nAI 챗봇 찾는 쇼핑객",
+          "body": "블랙프라이데이를 앞두고 AI 챗봇으로 상품을 찾는 비율이 6%에서 13%로 늘었다.",
+          "mini_headline": "AI 챗봇 찾는 쇼핑객",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "Anthropic, OpenAI, Google의 AI 모델 아홉 개에게 크리스마스 쇼핑을 6,156회 맡겼다. 상품 목록에는 누가 봐도 가짜인 특가가 하나 섞여 있었다. 리뷰가 수만 개에 만점 5.0을 받았고 가격은 다른 상품의 오분의 일에서 사분의 일인 상품이다. 모델들은 37% 확률로 이 상품을 샀다. 모델 9개 중 8개가 가짜 특가를 샀고, 한 번도 사지 않은 건 Claude Opus뿐이었다."
+                "x": "블랙프라이데이/사이버먼데이를 앞두고 마케터는 광고비를 퍼포먼스 채널로 옮기는 중이다. 그사이 소비자 쪽에서는 구매 결정을 돕는 Gemini, ChatGPT 같은 생성형 AI 도구가 자리를 잡아 간다."
               },
               {
                 "t": "p",
-                "x": "AI가 특가가 수상해 보인다고 적은 경우는 315회였는데, 그중 137회는 그러고도 가짜를 샀다. 의심한 경우를 통틀어 AI가 질문을 던진 건 10회였다. 전부 슬리퍼 사이즈를 묻는 질문이었고, 수상하다던 특가는 한 번도 묻지 않았다."
+                "x": "Jellyfish SEO 부문 부사장 Jonathan Verrall은 \"이제 AI가 쇼핑객이 신뢰하는 출처를 바탕으로 몇 주 앞서 후보 목록을 작성한다\"고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
               },
               {
                 "t": "p",
-                "x": "가짜 특가를 맨 앞에 두면 65% 확률로 팔렸다. 가성비가 가장 좋은 상품을 고르라고 하자 AI들(AIs)은 53% 확률로 가짜를 샀다. 선호 조건이 없을 때는 19%였다. 가짜를 빼자 별점 4.9 상품이 구매 2,915건 중 2,277건, 78%를 가져갔다. 특정 상품을 고르라고 AI에게 지시하는 숨은 문구는 6,156회 중 14회 먹혔는데, 모두 Gemini 3.5 Flash-Lite였다."
+                "x": "Brainlabs가 U.S.와 U.K. 쇼핑객 2,800명을 조사해 보니 상품 조사에 AI를 쓰는 비율이 평균 작년 6%에서 13%로 늘었다."
               },
               {
                 "t": "p",
-                "x": "테스트는 11월 14일과 15일에 진행했다. 선물마다 가상의 상품 목록 열 개를 만들었는데, Shopify가 AI 쇼핑 에이전트에 상품을 보낼 때 쓰는 형식을 따랐다. AI 사용료로는 $69.97이 들었다. “올해 크리스마스 쇼핑을 AI에 맡긴다면, 결제하기 전에 무엇을 골랐는지 확인하라.”"
+                "x": "Jellyfish가 U.K. 블랙프라이데이 프롬프트를 분석한 결과 AI 인용은 서드파티 출처가 주도했다. PMG에 따르면 자사 제품을 추천하는 AI 답변에 인용된 링크 203개 중 브랜드 웹사이트 링크는 24개뿐이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
+              },
+              {
+                "t": "p",
+                "x": "AdClarity는 10월 ChatGPT 총 광고비를 $116.6 million 정도로, 그중 U.S. 브랜드 비중을 64%로 추정했다. Bain에 따르면 소비자 42%가 상품을 알아볼 때 AI 도구를 쓴다. 다만 McKinsey는 고령 쇼핑객이 뒤처져 있다고 봤다."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI買い物エージェント\n37%の確率で偽特価を購入",
-          "body": "6,156回の買い物で九つのAIモデルは37%の確率で偽の特価品を買った。",
-          "mini_headline": "買い物AI、偽特価にだまされる",
+          "headline": "ブラックフライデー前\n買い物客はAIチャットへ",
+          "body": "ブラックフライデーを前に、AIチャットボットで商品を調べる人が6%から13%に増えた。",
+          "mini_headline": "AIチャットボットに頼る買い物客",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "Anthropic、OpenAI、Googleの九つのAIモデルが、クリスマスの買い物を6,156回行った。商品リストの一つが明らかな偽の特価品、つまり数万件のレビューで満点の5.0、価格は他の商品の五分の一から四分の一というものだった場合、モデルは37%の確率でそれを買った。9モデル中8モデルが偽の特価品を買い、Claude Opusだけは一度も買わなかった。"
+                "x": "マーケターはブラックフライデー/サイバーマンデーを前に広告費をパフォーマンスチャネルへ移しているが、消費者は購買判断の助けとしてGeminiやChatGPTなどの生成AIツールを取り入れている。"
               },
               {
                 "t": "p",
-                "x": "AIが特価品を怪しいと書いたのは315回で、そのうち137回はそれでも偽物を買った。こうした疑いの場面全体で、AIが質問したのは10回で、いずれもスリッパのサイズについてであり、疑った特価品について尋ねたことは一度もなかった。"
+                "x": "JellyfishのSEO担当バイスプレジデント、Jonathan Verrall氏は「今やAIは、買い物客が信頼する情報源をもとに、数週間早く候補リストを作る」と語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
               },
               {
                 "t": "p",
-                "x": "偽の特価品が最初に表示されると65%の確率で買われた。最もお得な商品を求められると、AIたち(AIs)は53%の確率で偽物を買い、特に希望がない場合は19%だった。偽物を除くと、星4.9の商品が2,915件の購入のうち2,277件、78%を占めた。AIに特定の商品を選ばせる隠しメモが効いたのは6,156回中14回で、すべてGemini 3.5 Flash-Liteだった。"
+                "x": "BrainlabsがU.S.とU.K.の買い物客2,800人を対象に行った調査では、商品調査にAIを使う人の割合が平均で昨年の6%から13%に上昇した。"
               },
               {
                 "t": "p",
-                "x": "テストは11月14日と15日に、ShopifyがAIショッピングエージェントに商品を送る形式で、プレゼントごとに架空の商品リストを十件用意して行われ、AI利用料は$69.97だった。「今年クリスマスの買い物をAIに任せるなら、支払う前に何を選んだか確認しよう」"
+                "x": "U.K.のブラックフライデー関連プロンプトを調べたJellyfishの研究では、AIの引用でサードパーティの情報源が上位を占めた。PMGによると、ブランドの商品を推薦するAI回答で引用された203件のリンクのうち、そのブランドのWebサイトからのものはわずか24件だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
+              },
+              {
+                "t": "p",
+                "x": "AdClarityの推計では、10月のChatGPT上の広告費総額は$116.6 million に達し、U.S.のブランドが64%を占めた。Bainによれば消費者の42%が商品調査にAIツールを使っているが、McKinseyは高齢の買い物客が遅れていると指摘した。"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI购物智能体\n37%概率买下假优惠",
-          "body": "6,156次购物中，九款AI模型有37%概率买下假优惠，只有Claude Opus没上当。",
-          "mini_headline": "购物智能体易被假优惠骗",
+          "headline": "黑色星期五前夕\n购物者转向AI聊天机器人",
+          "body": "黑色星期五前夕，用AI聊天机器人研究商品的购物者比例从6%升至13%。",
+          "mini_headline": "购物者转向AI聊天机器人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "来自Anthropic、OpenAI和Google的九款AI模型进行了6,156次圣诞购物。当其中一件商品是明显的假优惠——数万条评论给出满分5.0，价格只有其他商品的五分之一到四分之一——时，它们有37%的概率买下。9款模型中有8款买了假优惠；Claude Opus从未买过。"
+                "x": "在黑色星期五/网络星期一前夕，营销人员正将广告预算转向效果渠道，而消费者则在采用Gemini和ChatGPT等生成式AI工具来辅助购买决策。"
               },
               {
                 "t": "p",
-                "x": "AI有315次写下某个优惠看起来可疑，其中137次仍然买了假货。在这些怀疑中，AI共提问10次，每次都是关于拖鞋尺码，从未问及它所怀疑的优惠。"
+                "x": "Jellyfish的SEO副总裁Jonathan Verrall表示：“如今，AI会提前几周根据购物者信任的来源拟出候选清单。”"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
               },
               {
                 "t": "p",
-                "x": "假优惠排在第一位时，被买下的概率为65%；要求选出最划算的商品时，AI们(AIs)有53%的概率买下假货，而没有偏好时为19%。去掉假货后，4.9星商品在2,915次购买中赢得2,277次，占78%。一条要求AI选择某商品的隐藏提示在6,156次中奏效14次，全部发生在Gemini 3.5 Flash-Lite上。"
+                "x": "Brainlabs对2,800名U.S.和U.K.购物者的调查发现，用AI进行商品研究的比例平均从去年的6%升至13%。"
               },
               {
                 "t": "p",
-                "x": "测试于11月14日和15日进行，每件礼物准备十个虚构商品，格式与Shopify向AI购物智能体发送商品时使用的格式相同，AI费用为$69.97。“如果今年你让AI帮你做圣诞购物，付款前先看看它选了什么。”"
+                "x": "Jellyfish对U.K.黑色星期五相关提示词的研究发现，第三方来源在AI引用中占主导。PMG发现，在推荐某品牌产品的AI回答所引用的203个链接中，该品牌网站仅提供了24个。"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
+              },
+              {
+                "t": "p",
+                "x": "AdClarity估计，10月ChatGPT上的广告总支出达到$116.6 million，其中U.S.品牌占64%。据Bain统计，42%的消费者使用AI工具研究商品，但McKinsey发现年长购物者相对落后。"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de compra con AI\ncaen en ofertas falsas el 37%",
-          "body": "En 6,156 compras, nueve modelos de AI compraron una oferta falsa el 37% de las veces; solo Claude Opus nunca lo hizo.",
-          "mini_headline": "Agentes de compra caen en ofertas falsas",
+          "headline": "Compradores acuden a chatbots\nde AI antes de Black Friday",
+          "body": "Los compradores usan chatbots de AI para investigar productos antes de Black Friday; el uso pasó del 6% al 13%.",
+          "mini_headline": "Compradores acuden a chatbots de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "Nueve modelos de AI de Anthropic, OpenAI y Google hicieron compras navideñas 6,156 veces. Cuando uno de los productos era una oferta obviamente falsa —un 5.0 perfecto con decenas de miles de reseñas a entre una quinta y una cuarta parte del precio de los demás—, la compraron el 37% de las veces. 8 de 9 modelos compraron la oferta falsa; Claude Opus nunca lo hizo."
+                "x": "Los profesionales del marketing están desplazando inversión publicitaria hacia canales de performance antes de Black Friday/Cyber Monday, pero los consumidores adoptan herramientas de AI generativa como Gemini y ChatGPT para apoyar sus decisiones de compra."
               },
               {
                 "t": "p",
-                "x": "En 315 ocasiones una AI escribió que una oferta parecía sospechosa, y en 137 de ellas compró la falsa de todos modos. En esas dudas, una AI hizo una pregunta 10 veces, siempre sobre la talla de las pantuflas, y nunca sobre la oferta de la que dudaba."
+                "x": "\"Ahora la AI elabora la lista de candidatos semanas antes a partir de las fuentes en las que confían los compradores\", dijo Jonathan Verrall, vp de SEO en Jellyfish."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
               },
               {
                 "t": "p",
-                "x": "Una oferta falsa colocada en primer lugar se compró el 65% de las veces; cuando se les pidió la mejor relación calidad-precio, las AIs compraron la falsa el 53% de las veces, frente al 19% sin preferencia. Sin la falsa, el producto de 4.9 estrellas ganó 2,277 de 2,915 compras, el 78%. Una nota oculta que pedía a las AIs elegir un producto funcionó 14 veces de 6,156, todas con Gemini 3.5 Flash-Lite."
+                "x": "Una encuesta de Brainlabs a 2,800 compradores de U.S. y U.K. encontró que la proporción que usa AI para investigar productos subió de media del 6% del año pasado al 13%."
               },
               {
                 "t": "p",
-                "x": "La prueba se hizo el 14 y el 15 de noviembre con diez productos inventados por regalo, en el formato que usa Shopify para enviar productos a los agentes de compra con AI, y costó $69.97 en tarifas de AI. “Si este año dejas que una AI haga tus compras de Navidad, revisa lo que eligió antes de pagar.”"
+                "x": "Un estudio de Jellyfish sobre prompts de Black Friday en U.K. halló que las fuentes de terceros lideran las citas de la AI. PMG encontró que el sitio web de una marca aportó solo 24 de los 203 enlaces citados en respuestas de AI que recomendaban sus productos."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
+              },
+              {
+                "t": "p",
+                "x": "AdClarity estimó que el gasto publicitario total en ChatGPT alcanzó $116.6 million en octubre, y que las marcas de U.S. representaron el 64%. Según Bain, el 42% de los consumidores usa herramientas de AI para investigar productos, aunque los compradores mayores van rezagados, según McKinsey."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
               }
             ]
           }
@@ -1249,121 +1063,185 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 쇼핑 에이전트\n가짜 특가 37% 구매",
-          "body": "6,156회 쇼핑에서 AI 모델 아홉 개는 37% 확률로 가짜 특가를 샀다.",
-          "mini_headline": "쇼핑 에이전트, 가짜 특가에 속다",
+          "headline": "블랙프라이데이 앞두고\nAI 챗봇 찾는 쇼핑객",
+          "body": "블랙프라이데이를 앞두고 AI 챗봇으로 상품을 찾는 비율이 6%에서 13%로 늘었다.",
+          "mini_headline": "AI 챗봇 찾는 쇼핑객",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "Anthropic, OpenAI, Google의 AI 모델 아홉 개가 크리스마스 쇼핑을 6,156회 했다. 상품 목록 중 하나가 누가 봐도 가짜인 특가, 즉 리뷰 수만 개에 만점 5.0을 받고 가격은 다른 상품의 오분의 일에서 사분의 일인 상품일 때, 모델들은 37% 확률로 그것을 샀다. 모델 9개 중 8개가 가짜 특가를 샀고, Claude Opus만 한 번도 사지 않았다."
+                "x": "마케터들은 블랙프라이데이/사이버먼데이를 앞두고 광고비를 퍼포먼스 채널로 옮기고 있지만, 소비자들은 구매 결정을 돕는 Gemini, ChatGPT 같은 생성형 AI 도구를 받아들이고 있다."
               },
               {
                 "t": "p",
-                "x": "AI가 특가가 수상해 보인다고 쓴 경우는 315회였고, 그중 137회는 그래도 가짜를 샀다. 이렇게 의심한 경우 전체에서 AI가 질문한 것은 10회였는데, 모두 슬리퍼 사이즈에 관한 것이었고 의심한 특가에 대해서는 한 번도 묻지 않았다."
+                "x": "Jellyfish의 SEO 부문 부사장 Jonathan Verrall은 \"이제 AI가 쇼핑객이 신뢰하는 출처를 바탕으로 몇 주 앞서 후보 목록을 작성한다\"고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
               },
               {
                 "t": "p",
-                "x": "가짜 특가가 맨 앞에 놓이면 65% 확률로 팔렸다. 가성비가 가장 좋은 상품을 고르라고 하자 AI들(AIs)은 53% 확률로 가짜를 샀고, 선호 조건이 없을 때는 19%였다. 가짜를 빼자 별점 4.9 상품이 구매 2,915건 중 2,277건, 78%를 차지했다. AI에게 특정 상품을 고르라고 지시하는 숨은 문구는 6,156회 중 14회 통했고, 모두 Gemini 3.5 Flash-Lite에서였다."
+                "x": "Brainlabs가 U.S.와 U.K. 쇼핑객 2,800명을 조사한 결과, 상품 조사에 AI를 쓰는 비율은 평균적으로 작년 6%에서 13%로 늘었다."
               },
               {
                 "t": "p",
-                "x": "테스트는 11월 14일과 15일, 선물마다 가상의 상품 목록 열 개를 Shopify가 AI 쇼핑 에이전트에 상품을 보낼 때 쓰는 형식으로 만들어 진행했고, AI 사용료로 $69.97이 들었다. “올해 크리스마스 쇼핑을 AI에 맡긴다면, 결제하기 전에 무엇을 골랐는지 확인하라.”"
+                "x": "U.K. 블랙프라이데이 프롬프트를 분석한 Jellyfish 연구에서는 서드파티 출처가 AI 인용을 주도했다. PMG에 따르면 자사 제품을 추천하는 AI 답변에 인용된 링크 203개 가운데 브랜드 웹사이트가 제공한 것은 24개에 그쳤다."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
+              },
+              {
+                "t": "p",
+                "x": "AdClarity는 10월 ChatGPT 총 광고비가 $116.6 million 수준에 이르렀고 그중 U.S. 브랜드가 64%를 차지한 것으로 추정했다. Bain에 따르면 소비자의 42%가 상품 조사에 AI 도구를 쓰지만, McKinsey는 고령 쇼핑객이 뒤처져 있다고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI買い物エージェント\n37%の確率で偽特価を購入",
-          "body": "6,156回の買い物で九つのAIモデルは37%の確率で偽の特価品を買った。",
-          "mini_headline": "買い物AI、偽特価にだまされる",
+          "headline": "ブラックフライデー前\n買い物客はAIチャットへ",
+          "body": "ブラックフライデーを前に、AIチャットボットで商品を調べる人が6%から13%に増えた。",
+          "mini_headline": "AIチャットボットに頼る買い物客",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "Anthropic、OpenAI、Googleの九つのAIモデルが、クリスマスの買い物を6,156回行った。商品リストの一つが明らかな偽の特価品、つまり数万件のレビューで満点の5.0、価格は他の商品の五分の一から四分の一というものだった場合、モデルは37%の確率でそれを買った。9モデル中8モデルが偽の特価品を買い、Claude Opusだけは一度も買わなかった。"
+                "x": "マーケターはブラックフライデー/サイバーマンデーを前に広告費をパフォーマンスチャネルへ移しているが、消費者は購買判断の助けとしてGeminiやChatGPTなどの生成AIツールを取り入れている。"
               },
               {
                 "t": "p",
-                "x": "AIが特価品を怪しいと書いたのは315回で、そのうち137回はそれでも偽物を買った。こうした疑いの場面全体で、AIが質問したのは10回で、いずれもスリッパのサイズについてであり、疑った特価品について尋ねたことは一度もなかった。"
+                "x": "JellyfishのSEO担当バイスプレジデント、Jonathan Verrall氏は「今やAIは、買い物客が信頼する情報源をもとに、数週間早く候補リストを作る」と語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
               },
               {
                 "t": "p",
-                "x": "偽の特価品が最初に表示されると65%の確率で買われた。最もお得な商品を求められると、AIたち(AIs)は53%の確率で偽物を買い、特に希望がない場合は19%だった。偽物を除くと、星4.9の商品が2,915件の購入のうち2,277件、78%を占めた。AIに特定の商品を選ばせる隠しメモが効いたのは6,156回中14回で、すべてGemini 3.5 Flash-Liteだった。"
+                "x": "BrainlabsがU.S.とU.K.の買い物客2,800人を対象に行った調査では、商品調査にAIを使う人の割合が平均で昨年の6%から13%に上昇した。"
               },
               {
                 "t": "p",
-                "x": "テストは11月14日と15日に、ShopifyがAIショッピングエージェントに商品を送る形式で、プレゼントごとに架空の商品リストを十件用意して行われ、AI利用料は$69.97だった。「今年クリスマスの買い物をAIに任せるなら、支払う前に何を選んだか確認しよう」"
+                "x": "U.K.のブラックフライデー関連プロンプトを調べたJellyfishの研究では、AIの引用でサードパーティの情報源が上位を占めた。PMGによると、ブランドの商品を推薦するAI回答で引用された203件のリンクのうち、そのブランドのWebサイトからのものはわずか24件だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
+              },
+              {
+                "t": "p",
+                "x": "AdClarityの推計では、10月のChatGPT上の広告費総額は$116.6 million に達し、U.S.のブランドが64%を占めた。Bainによれば消費者の42%が商品調査にAIツールを使っているが、McKinseyは高齢の買い物客が遅れていると指摘した。"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI购物智能体\n37%概率买下假优惠",
-          "body": "6,156次购物中，九款AI模型有37%概率买下假优惠，只有Claude Opus没上当。",
-          "mini_headline": "购物智能体易被假优惠骗",
+          "headline": "黑色星期五前夕\n购物者转向AI聊天机器人",
+          "body": "黑色星期五前夕，用AI聊天机器人研究商品的购物者比例从6%升至13%。",
+          "mini_headline": "购物者转向AI聊天机器人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "来自Anthropic、OpenAI和Google的九款AI模型进行了6,156次圣诞购物。当其中一件商品是明显的假优惠——数万条评论给出满分5.0，价格只有其他商品的五分之一到四分之一——时，它们有37%的概率买下。9款模型中有8款买了假优惠；Claude Opus从未买过。"
+                "x": "在黑色星期五/网络星期一前夕，营销人员正将广告预算转向效果渠道，而消费者则在采用Gemini和ChatGPT等生成式AI工具来辅助购买决策。"
               },
               {
                 "t": "p",
-                "x": "AI有315次写下某个优惠看起来可疑，其中137次仍然买了假货。在这些怀疑中，AI共提问10次，每次都是关于拖鞋尺码，从未问及它所怀疑的优惠。"
+                "x": "Jellyfish的SEO副总裁Jonathan Verrall表示：“如今，AI会提前几周根据购物者信任的来源拟出候选清单。”"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
               },
               {
                 "t": "p",
-                "x": "假优惠排在第一位时，被买下的概率为65%；要求选出最划算的商品时，AI们(AIs)有53%的概率买下假货，而没有偏好时为19%。去掉假货后，4.9星商品在2,915次购买中赢得2,277次，占78%。一条要求AI选择某商品的隐藏提示在6,156次中奏效14次，全部发生在Gemini 3.5 Flash-Lite上。"
+                "x": "Brainlabs对2,800名U.S.和U.K.购物者的调查发现，用AI进行商品研究的比例平均从去年的6%升至13%。"
               },
               {
                 "t": "p",
-                "x": "测试于11月14日和15日进行，每件礼物准备十个虚构商品，格式与Shopify向AI购物智能体发送商品时使用的格式相同，AI费用为$69.97。“如果今年你让AI帮你做圣诞购物，付款前先看看它选了什么。”"
+                "x": "Jellyfish对U.K.黑色星期五相关提示词的研究发现，第三方来源在AI引用中占主导。PMG发现，在推荐某品牌产品的AI回答所引用的203个链接中，该品牌网站仅提供了24个。"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
+              },
+              {
+                "t": "p",
+                "x": "AdClarity估计，10月ChatGPT上的广告总支出达到$116.6 million，其中U.S.品牌占64%。据Bain统计，42%的消费者使用AI工具研究商品，但McKinsey发现年长购物者相对落后。"
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de compra con AI\ncaen en ofertas falsas el 37%",
-          "body": "En 6,156 compras, nueve modelos de AI compraron una oferta falsa el 37% de las veces; solo Claude Opus nunca lo hizo.",
-          "mini_headline": "Agentes de compra caen en ofertas falsas",
+          "headline": "Compradores acuden a chatbots\nde AI antes de Black Friday",
+          "body": "Los compradores usan chatbots de AI para investigar productos antes de Black Friday; el uso pasó del 6% al 13%.",
+          "mini_headline": "Compradores acuden a chatbots de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
               },
               {
                 "t": "p",
-                "x": "Nueve modelos de AI de Anthropic, OpenAI y Google hicieron compras navideñas 6,156 veces. Cuando uno de los productos era una oferta obviamente falsa —un 5.0 perfecto con decenas de miles de reseñas a entre una quinta y una cuarta parte del precio de los demás—, la compraron el 37% de las veces. 8 de 9 modelos compraron la oferta falsa; Claude Opus nunca lo hizo."
+                "x": "Los profesionales del marketing están desplazando inversión publicitaria hacia canales de performance antes de Black Friday/Cyber Monday, pero los consumidores adoptan herramientas de AI generativa como Gemini y ChatGPT para apoyar sus decisiones de compra."
               },
               {
                 "t": "p",
-                "x": "En 315 ocasiones una AI escribió que una oferta parecía sospechosa, y en 137 de ellas compró la falsa de todos modos. En esas dudas, una AI hizo una pregunta 10 veces, siempre sobre la talla de las pantuflas, y nunca sobre la oferta de la que dudaba."
+                "x": "\"Ahora la AI elabora la lista de candidatos semanas antes a partir de las fuentes en las que confían los compradores\", dijo Jonathan Verrall, vp de SEO en Jellyfish."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
               },
               {
                 "t": "p",
-                "x": "Una oferta falsa colocada en primer lugar se compró el 65% de las veces; cuando se les pidió la mejor relación calidad-precio, las AIs compraron la falsa el 53% de las veces, frente al 19% sin preferencia. Sin la falsa, el producto de 4.9 estrellas ganó 2,277 de 2,915 compras, el 78%. Una nota oculta que pedía a las AIs elegir un producto funcionó 14 veces de 6,156, todas con Gemini 3.5 Flash-Lite."
+                "x": "Una encuesta de Brainlabs a 2,800 compradores de U.S. y U.K. encontró que la proporción que usa AI para investigar productos subió de media del 6% del año pasado al 13%."
               },
               {
                 "t": "p",
-                "x": "La prueba se hizo el 14 y el 15 de noviembre con diez productos inventados por regalo, en el formato que usa Shopify para enviar productos a los agentes de compra con AI, y costó $69.97 en tarifas de AI. “Si este año dejas que una AI haga tus compras de Navidad, revisa lo que eligió antes de pagar.”"
+                "x": "Un estudio de Jellyfish sobre prompts de Black Friday en U.K. halló que las fuentes de terceros lideran las citas de la AI. PMG encontró que el sitio web de una marca aportó solo 24 de los 203 enlaces citados en respuestas de AI que recomendaban sus productos."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
+              },
+              {
+                "t": "p",
+                "x": "AdClarity estimó que el gasto publicitario total en ChatGPT alcanzó $116.6 million en octubre, y que las marcas de U.S. representaron el 64%. Según Bain, el 42% de los consumidores usa herramientas de AI para investigar productos, aunque los compradores mayores van rezagados, según McKinsey."
+              },
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
               }
             ]
           }
@@ -1371,243 +1249,687 @@
       }
     },
     {
-      "id": "amazon-meta-muse-talks",
-      "source_lang": "en",
+      "id": "danawa-chatgpt-mcp",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Amazon·Meta\nMuse 차단 두고 협상설",
-      "body": "Amazon의 Meta Muse 차단 해제 협상은 광고·검색 배치가 쟁점이다.",
-      "mini_headline": "Amazon·Meta, Muse 휴전 협상",
+      "headline": "다나와, 챗GPT에\n실시간 가격 연결",
+      "body": "다나와가 클로드에 이어 챗GPT에도 MCP로 실시간 상품·가격 정보를 연결했다.",
+      "mini_headline": "다나와, 챗GPT 연결",
       "tool": "Marketing",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "accent": "#eb367f",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/industry/sb-founded/6365520",
+      "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-            "cap": "노트북 앞에 앉은 Meta Muse 마스코트"
+            "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
+            "cap": "커넥트웨이브 다나와 챗GPT에 다나와 MCP서비스(커넥트웨이브 제공)"
           },
           {
             "t": "p",
-            "x": "Amazon이 Meta의 AI 에이전트 Muse를 두고 입장을 바꿀지도 모른다. 두 빅테크 기업은 Meta의 인기 AI 에이전트를 Amazon 스토어에 직접 연결하는 거래 가능성을 논의 중인 것으로 알려졌다."
+            "x": "커넥트웨이브(119860)의 가격비교 서비스 다나와가 챗GPT에 실시간 상품 정보를 연결하며 대화형 쇼핑 시장 공략에 나섰다. 소비자가 인공지능(AI)에 예산과 용도를 설명하면 구매 후보를 좁혀주는 방식이다."
           },
           {
             "t": "p",
-            "x": "불과 두 달 전과 비교하면 꽤 큰 반전이다. 그때만 해도 Muse 사용자는 Amazon에서 상품을 살 수 없었다. 결제를 시도하면 오류 메시지가 떴다."
+            "x": "25일 커넥트웨이브에 따르면 다나와는 오픈AI 챗GPT에 '다나와 MCP' 서비스를 개시했다. 지난 8월 앤트로픽의 클로드에 연동한 데 이어 적용 대상을 확대했다. MCP는 AI가 외부 데이터나 도구를 활용할 수 있도록 연결하는 표준 인터페이스다."
           },
           {
             "t": "p",
-            "x": "논의 상황을 잘 아는 사람들을 인용한 Fortune의 수요일 보도에 따르면 Amazon과 Meta는 이 문제로 여러 차례 협상했다. 핵심 쟁점 두 가지는 아직 협상 중이다. 합의가 성사되면 검색 결과를 어떻게 보여줄지, 광고를 어떻게 처리할지다."
+            "x": "이용자는 챗GPT 설정의 앱 메뉴에서 다나와를 연결한 뒤 원하는 구매 조건을 입력하면 된다. 이를테면 \"원룸에서 사용할 10만 원 이하 전기히터를 추천해 줘\"라고 요청하면 다나와 데이터를 바탕으로 가격과 주요 사양, 판매처를 비교해 안내한다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
+            "cap": "커넥트웨이브 다나와 챗GPT에 다나와 MCP서비스 모바일(커넥트웨이브 제공)"
           },
           {
             "t": "p",
-            "x": "Amazon이 가장 걱정하는 대목 중 하나는 Muse 같은 외부 쇼핑 에이전트가 자사 광고 사업에 미칠 영향이다. Amazon CEO Andy Jassy는 10월, 외부 쇼핑 에이전트로 물건을 사는 고객은 많지 않다고 주장했다."
+            "x": "챗GPT 연동을 확대한 배경에는 기존 이용자 흐름이 있다. 회사에 따르면 올해 1~10월 생성형 AI를 거쳐 다나와를 방문한 이용자의 약 74%가 챗GPT에서 유입됐다. 전체 방문자가 아닌 생성형 AI 경유 방문자 중 비중이다."
           },
           {
             "t": "p",
-            "x": "Amazon이 마켓플레이스 연동에 동의하기 전에 Muse가 무르익기를 기다렸을 가능성도 있다. Muse가 주문을 잘못 넣거나 구매에서 문제를 일으키면 불만을 품은 고객과 판매자를 상대할 쪽은 결국 Amazon일 수 있다."
+            "x": "클로드에서는 지난 8월 서비스 개시 이후 MCP 이용자가 5배 이상 늘었다."
           },
           {
             "t": "p",
-            "x": "Fortune은 사정을 잘 아는 사람들을 인용해, 외부 쇼핑 에이전트가 Amazon과 소비자의 직접 관계를 약하게 만들 수 있다는 우려가 경영진 사이에 있다고 보도했다. Fortune은 또 Amazon과 Meta가 합의하려면 두 회사 CEO(CEOs)의 승인이 필요할 것이라고 전했다."
+            "x": "다나와는 국내 50개 이상 e커머스에서 가격·상품 정보를 실시간 수집하며 약 14억 개 상품 데이터베이스(DB)를 보유하고 있다. 회사는 인터넷·렌털·이사·인테리어·금융 등 생활 서비스로 AI 데이터 연계를 확대할 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "하우성 커넥트웨이브 다나와·에누리 사업대표는 \"가장 많은 이용자가 찾는 챗GPT에서도 다나와를 바로 쓸 수 있게 되면서 AI 이용자와의 접점이 더욱 확대됐다\"고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Amazon and Meta reportedly\nin talks over Muse blockade",
-          "body": "Talks to end Amazon's two-month block on Meta's Muse shopping agent reportedly center on ad and search placement.",
-          "mini_headline": "Amazon, Meta talk Muse truce",
+        "ko": {
+          "headline": "다나와, 챗GPT에\n실시간 가격 연결",
+          "body": "다나와가 클로드에 이어 챗GPT에도 MCP로 실시간 상품·가격 정보를 연결했다.",
+          "mini_headline": "다나와, 챗GPT 연결",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-                "cap": "Meta Muse mascot sitting at laptop"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
+                "cap": "커넥트웨이브 다나와 챗GPT에 다나와 MCP서비스(커넥트웨이브 제공)"
               },
               {
                 "t": "p",
-                "x": "Amazon may be having a change of heart about Meta’s AI agent, Muse. The two tech giants are reportedly discussing a potential deal that would allow Meta’s popular AI agent to connect directly to Amazon’s store."
+                "x": "커넥트웨이브(119860)의 가격비교 서비스 다나와가 챗GPT에 실시간 상품 정보를 연결하며 대화형 쇼핑 시장 공략에 나섰다. 소비자가 인공지능(AI)에 예산과 용도를 설명하면 구매 후보를 좁혀주는 방식이다."
               },
               {
                 "t": "p",
-                "x": "The talks would mark a significant reversal from just two months ago, when Muse users discovered they were unable to purchase products on Amazon and instead received an error message when attempting to check out."
+                "x": "25일 커넥트웨이브에 따르면 다나와는 오픈AI 챗GPT에 '다나와 MCP' 서비스를 개시했다. 지난 8월 앤트로픽의 클로드에 연동한 데 이어 적용 대상을 확대했다. MCP는 AI가 외부 데이터나 도구를 활용할 수 있도록 연결하는 표준 인터페이스다."
               },
               {
                 "t": "p",
-                "x": "According to a Wednesday report by Fortune, citing people familiar with the discussions, Amazon and Meta have held multiple rounds of talks about the matter. Two key issues remain under negotiation: how search results would be presented and how advertising would be handled under a potential agreement."
+                "x": "이용자는 챗GPT 설정의 앱 메뉴에서 다나와를 연결한 뒤 원하는 구매 조건을 입력하면 된다. 이를테면 \"원룸에서 사용할 10만 원 이하 전기히터를 추천해 줘\"라고 요청하면 다나와 데이터를 바탕으로 가격과 주요 사양, 판매처를 비교해 안내한다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
+                "cap": "커넥트웨이브 다나와 챗GPT에 다나와 MCP서비스 모바일(커넥트웨이브 제공)"
               },
               {
                 "t": "p",
-                "x": "One of Amazon’s biggest concerns is how third-party shopping agents like Muse could affect its advertising business. In October, Amazon CEO Andy Jassy argued that few customers were making purchases through outside shopping agents."
+                "x": "챗GPT 연동을 확대한 배경에는 기존 이용자 흐름이 있다. 회사에 따르면 올해 1~10월 생성형 AI를 거쳐 다나와를 방문한 이용자의 약 74%가 챗GPT에서 유입됐다. 전체 방문자가 아닌 생성형 AI 경유 방문자 중 비중이다."
               },
               {
                 "t": "p",
-                "x": "Amazon may also have been waiting for Muse to mature before agreeing to integrate it with its marketplace. If Muse places the wrong order or creates a problem with a purchase, Amazon could ultimately be left dealing with frustrated customers and unhappy sellers."
+                "x": "클로드에서는 지난 8월 서비스 개시 이후 MCP 이용자가 5배 이상 늘었다."
               },
               {
                 "t": "p",
-                "x": "Fortune reported that executives are concerned that third-party shopping agents could weaken Amazon’s direct relationship with consumers, according to people familiar with the matter. Any potential agreement between Amazon and Meta would reportedly require approval from both companies’ CEOs, Fortune also reported."
+                "x": "다나와는 국내 50개 이상 e커머스에서 가격·상품 정보를 실시간 수집하며 약 14억 개 상품 데이터베이스(DB)를 보유하고 있다. 회사는 인터넷·렌털·이사·인테리어·금융 등 생활 서비스로 AI 데이터 연계를 확대할 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "하우성 커넥트웨이브 다나와·에누리 사업대표는 \"가장 많은 이용자가 찾는 챗GPT에서도 다나와를 바로 쓸 수 있게 되면서 AI 이용자와의 접점이 더욱 확대됐다\"고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Amazon·Meta\nMuse 차단 두고 협상설",
-          "body": "Amazon의 Meta Muse 차단 해제 협상은 광고·검색 배치가 쟁점이다.",
-          "mini_headline": "Amazon·Meta, Muse 휴전 협상",
+        "en": {
+          "headline": "Danawa connects ChatGPT\nto real-time prices",
+          "body": "Following Claude, Danawa has connected real-time product and price data to ChatGPT through MCP.",
+          "mini_headline": "Danawa connects to ChatGPT",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-                "cap": "노트북 앞에 앉은 Meta Muse 마스코트"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
+                "cap": "Connectwave's Danawa MCP service on ChatGPT (provided by Connectwave)"
               },
               {
                 "t": "p",
-                "x": "Amazon이 Meta의 AI 에이전트 Muse를 두고 입장을 바꿀지도 모른다. 두 빅테크 기업은 Meta의 인기 AI 에이전트를 Amazon 스토어에 직접 연결하는 거래 가능성을 논의 중인 것으로 알려졌다."
+                "x": "Danawa, the price comparison service of Connectwave (119860), has connected real-time product information to ChatGPT as it moves into the conversational shopping market. Consumers describe their budget and intended use to the artificial intelligence (AI), and it narrows down the purchase candidates."
               },
               {
                 "t": "p",
-                "x": "불과 두 달 전과 비교하면 꽤 큰 반전이다. 그때만 해도 Muse 사용자는 Amazon에서 상품을 살 수 없었다. 결제를 시도하면 오류 메시지가 떴다."
+                "x": "According to Connectwave on the 25th, Danawa launched its 'Danawa MCP' service on OpenAI's ChatGPT. The move widens its reach after the service was integrated with Anthropic's Claude in August. MCP is a standard interface that connects AI to external data and tools."
               },
               {
                 "t": "p",
-                "x": "논의 상황을 잘 아는 사람들을 인용한 Fortune의 수요일 보도에 따르면 Amazon과 Meta는 이 문제로 여러 차례 협상했다. 핵심 쟁점 두 가지는 아직 협상 중이다. 합의가 성사되면 검색 결과를 어떻게 보여줄지, 광고를 어떻게 처리할지다."
+                "x": "Users connect Danawa from the Apps menu in ChatGPT settings and then enter the purchase conditions they want. For example, a request such as \"Recommend an electric heater under 100,000 won (10만 원) for a studio apartment\" returns a comparison of prices, key specs and sellers based on Danawa data."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
+                "cap": "Connectwave's Danawa MCP service on ChatGPT, mobile (provided by Connectwave)"
               },
               {
                 "t": "p",
-                "x": "Amazon이 가장 걱정하는 대목 중 하나는 Muse 같은 외부 쇼핑 에이전트가 자사 광고 사업에 미칠 영향이다. Amazon CEO Andy Jassy는 10월, 외부 쇼핑 에이전트로 물건을 사는 고객은 많지 않다고 주장했다."
+                "x": "The wider ChatGPT integration builds on existing user flows. According to the company, about 74% of users who visited Danawa via generative AI between January and October this year came from ChatGPT. The figure is a share of visitors arriving via generative AI, not of all visitors."
               },
               {
                 "t": "p",
-                "x": "Amazon이 마켓플레이스 연동에 동의하기 전에 Muse가 무르익기를 기다렸을 가능성도 있다. Muse가 주문을 잘못 넣거나 구매에서 문제를 일으키면 불만을 품은 고객과 판매자를 상대할 쪽은 결국 Amazon일 수 있다."
+                "x": "On Claude, MCP users have grown more than 5x since the service launched in August."
               },
               {
                 "t": "p",
-                "x": "Fortune은 사정을 잘 아는 사람들을 인용해, 외부 쇼핑 에이전트가 Amazon과 소비자의 직접 관계를 약하게 만들 수 있다는 우려가 경영진 사이에 있다고 보도했다. Fortune은 또 Amazon과 Meta가 합의하려면 두 회사 CEO(CEOs)의 승인이 필요할 것이라고 전했다."
+                "x": "Danawa collects price and product information in real time from more than 50 domestic e-commerce sites and holds a database (DB) of about 14억 (1.4 billion) products. The company plans to extend its AI data links to lifestyle services such as internet, rentals, moving, interiors and finance."
+              },
+              {
+                "t": "p",
+                "x": "Ha Woo-sung, head of the Danawa and Enuri business at Connectwave, said, \"Now that Danawa can be used directly on ChatGPT, which the most users turn to, our touchpoints with AI users have expanded further.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AmazonとMeta\nMuse遮断巡り協議か",
-          "body": "AmazonによるMetaのMuse遮断解除の協議は、広告と検索の扱いが焦点という。",
-          "mini_headline": "AmazonとMeta、Muse巡り協議",
+          "headline": "ダナワがChatGPTに\nリアルタイム価格連携",
+          "body": "ダナワはClaudeに続き、ChatGPTにもMCPで商品・価格情報をリアルタイム連携した。",
+          "mini_headline": "ダナワ、ChatGPTと連携",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-                "cap": "ノートパソコンの前に座るMeta Museのマスコット"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
+                "cap": "コネクトウェーブのダナワ、ChatGPT向けダナワMCPサービス(コネクトウェーブ提供)"
               },
               {
                 "t": "p",
-                "x": "AmazonはMetaのAIエージェント、Museに対する考えを改めつつあるのかもしれない。両テック大手は、Metaの人気AIエージェントがAmazonのストアに直接接続できるようにする取引の可能性を協議していると報じられた。"
+                "x": "コネクトウェーブ(119860)の価格比較サービス、ダナワがChatGPTにリアルタイムの商品情報を連携し、対話型ショッピング市場の攻略に乗り出した。消費者が人工知能(AI)に予算と用途を説明すると、購入候補を絞り込んでくれる仕組みだ。"
               },
               {
                 "t": "p",
-                "x": "この協議は、わずか二か月前からの大きな方針転換となる。当時、MuseのユーザーはAmazonで商品を購入できず、決済しようとするとエラーメッセージが表示された。"
+                "x": "コネクトウェーブによると、ダナワは25日、OpenAIのChatGPTで「ダナワMCP」サービスを開始した。8月にAnthropicのClaudeと連携したのに続き、対象を広げた。MCPはAIが外部のデータやツールを活用できるようにつなぐ標準インターフェースだ。"
               },
               {
                 "t": "p",
-                "x": "協議に詳しい関係者の話として水曜日に報じたFortuneによると、AmazonとMetaはこの件で複数回協議を重ねた。合意した場合に検索結果をどう表示するか、広告をどう扱うかという二つの主要な論点は、なお交渉中だという。"
+                "x": "利用者はChatGPTの設定にあるアプリメニューでダナワを接続し、希望する購入条件を入力すればよい。例えば「ワンルームで使う10万ウォン以下の電気ヒーターを薦めて」と頼むと、ダナワのデータをもとに価格や主な仕様、販売店を比較して案内する。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
+                "cap": "コネクトウェーブのダナワ、ChatGPT向けダナワMCPサービスのモバイル画面(コネクトウェーブ提供)"
               },
               {
                 "t": "p",
-                "x": "Amazonの最大の懸念の一つは、Museのような外部のショッピングエージェントが自社の広告事業にどう影響するかだ。10月、Amazon CEOのAndy Jassyは、外部のショッピングエージェントを通じて購入する顧客は少ないと主張した。"
+                "x": "ChatGPT連携を拡大した背景には、既存の利用者の流れがある。同社によると、今年1~10月に生成AIを経由してダナワを訪れた利用者の約74%がChatGPTから流入した。全訪問者ではなく、生成AI経由の訪問者に占める割合だ。"
               },
               {
                 "t": "p",
-                "x": "Amazonは、マーケットプレイスとの統合に同意する前にMuseの成熟を待っていた可能性もある。Museが誤った注文をしたり購入で問題を起こしたりすれば、最終的に不満を抱く顧客や販売者に対応するのはAmazonになりかねない。"
+                "x": "Claudeでは8月のサービス開始以降、MCPの利用者が5倍以上に増えた。"
               },
               {
                 "t": "p",
-                "x": "Fortuneは関係者の話として、経営陣は外部のショッピングエージェントがAmazonと消費者の直接的な関係を弱めかねないと懸念していると報じた。またFortuneによると、AmazonとMetaの合意には両社のCEO(CEOs)の承認が必要になるという。"
+                "x": "ダナワは国内50以上のeコマースから価格・商品情報をリアルタイムで収集し、約14億件の商品データベース(DB)を保有している。同社はインターネット・レンタル・引っ越し・インテリア・金融などの生活サービスへAIデータ連携を広げる計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "コネクトウェーブのダナワ・エヌリ事業代表、ハ・ウソン氏は「最も多くの利用者が使うChatGPTでもダナワをすぐに使えるようになり、AI利用者との接点がさらに広がった」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon与Meta\n传就Muse封锁谈判",
-          "body": "据报道，Amazon与Meta就解除对Muse为期两个月的封锁谈判，焦点在广告与搜索位置。",
-          "mini_headline": "Amazon与Meta洽谈Muse和解",
+          "headline": "比价平台Danawa\n接入ChatGPT实时价格",
+          "body": "继Claude之后，Danawa也通过MCP将实时商品与价格信息接入ChatGPT。",
+          "mini_headline": "Danawa接入ChatGPT",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-                "cap": "坐在笔记本电脑前的Meta Muse吉祥物"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
+                "cap": "Connectwave旗下Danawa在ChatGPT上推出的Danawa MCP服务（Connectwave提供）"
               },
               {
                 "t": "p",
-                "x": "Amazon对Meta的AI智能体Muse的态度或许正在转变。据报道，这两家科技巨头正在商讨一项潜在协议，让Meta这款广受欢迎的AI智能体直接接入Amazon商店。"
+                "x": "Connectwave（119860）旗下比价服务Danawa将实时商品信息接入ChatGPT，进军对话式购物市场。消费者向人工智能（AI）说明预算和用途后，它会帮助缩小购买候选范围。"
               },
               {
                 "t": "p",
-                "x": "与仅仅两个月前相比，这些谈判将是一次重大转向。当时Muse用户发现无法在Amazon上购买商品，尝试结账时收到的是错误提示。"
+                "x": "据Connectwave 25日介绍，Danawa已在OpenAI的ChatGPT上推出“Danawa MCP”服务。继今年8月接入Anthropic的Claude之后，再次扩大了适用范围。MCP是让AI能够调用外部数据和工具的标准接口。"
               },
               {
                 "t": "p",
-                "x": "据Fortune周三援引知情人士的报道，Amazon与Meta已就此事进行了多轮谈判。仍在谈判中的两个关键问题是：在潜在协议下如何呈现搜索结果，以及如何处理广告。"
+                "x": "用户在ChatGPT设置的应用菜单中连接Danawa后，输入想要的购买条件即可。例如，提出“推荐一款单间用的10万韩元以下电暖器”，它就会根据Danawa数据比较价格、主要规格和卖家并给出建议。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
+                "cap": "Connectwave旗下Danawa在ChatGPT上的Danawa MCP服务移动端界面（Connectwave提供）"
               },
               {
                 "t": "p",
-                "x": "Amazon最大的担忧之一，是Muse这样的第三方购物智能体可能对其广告业务造成的影响。10月，Amazon CEO Andy Jassy曾表示，通过外部购物智能体购物的顾客很少。"
+                "x": "扩大ChatGPT接入的背后是现有的用户流向。据该公司介绍，今年1~10月经生成式AI访问Danawa的用户中，约74%来自ChatGPT。这一比例针对的是经生成式AI访问的用户，而非全部访客。"
               },
               {
                 "t": "p",
-                "x": "Amazon可能也在等待Muse成熟后再同意将其接入自己的市场。如果Muse下错订单或在购买中出现问题，最终可能要由Amazon来应对不满的顾客和卖家。"
+                "x": "在Claude上，自8月服务上线以来，MCP用户增长了5倍以上。"
               },
               {
                 "t": "p",
-                "x": "Fortune援引知情人士报道称，高管们担心第三方购物智能体可能削弱Amazon与消费者的直接关系。Fortune还报道称，Amazon与Meta之间的任何潜在协议都需要两家公司CEO(CEOs)的批准。"
+                "x": "Danawa从国内50多家电商实时收集价格和商品信息，拥有约14亿件商品的数据库（DB）。公司计划将AI数据联动扩展到网络、租赁、搬家、室内装修、金融等生活服务领域。"
+              },
+              {
+                "t": "p",
+                "x": "Connectwave Danawa·Enuri业务代表Ha Woo-sung表示：“在用户最多的ChatGPT上也能直接使用Danawa，与AI用户的接触点进一步扩大了。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon y Meta negociarían\nel fin del bloqueo a Muse",
-          "body": "Amazon y Meta negociarían el fin del bloqueo de dos meses a Muse, con la publicidad y la búsqueda como ejes.",
-          "mini_headline": "Amazon y Meta negocian sobre Muse",
+          "headline": "Danawa conecta ChatGPT\ncon precios en tiempo real",
+          "body": "Tras Claude, Danawa conectó también ChatGPT mediante MCP a su información de productos y precios en tiempo real.",
+          "mini_headline": "Danawa conecta con ChatGPT",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-                "cap": "La mascota de Meta Muse sentada frente a un portátil"
+                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
+                "cap": "Servicio Danawa MCP de Connectwave en ChatGPT (cortesía de Connectwave)"
               },
               {
                 "t": "p",
-                "x": "Amazon podría estar cambiando de opinión sobre Muse, el agente de AI de Meta. Según informaciones, los dos gigantes tecnológicos discuten un posible acuerdo que permitiría al popular agente de AI de Meta conectarse directamente a la tienda de Amazon."
+                "x": "Danawa, el servicio de comparación de precios de Connectwave (119860), conectó información de productos en tiempo real a ChatGPT para entrar en el mercado de las compras conversacionales. El consumidor explica a la inteligencia artificial (AI) su presupuesto y el uso previsto, y esta acota los candidatos de compra."
               },
               {
                 "t": "p",
-                "x": "Las conversaciones supondrían un giro importante respecto a hace solo dos meses, cuando los usuarios de Muse descubrieron que no podían comprar productos en Amazon y, al intentar pagar, recibían un mensaje de error."
+                "x": "Según Connectwave, el día 25 Danawa lanzó el servicio 'Danawa MCP' en ChatGPT de OpenAI. Tras integrarse en agosto con Claude de Anthropic, amplió así su alcance. MCP es una interfaz estándar que conecta la AI con datos y herramientas externas."
               },
               {
                 "t": "p",
-                "x": "Según un informe publicado el miércoles por Fortune, que cita a personas familiarizadas con las conversaciones, Amazon y Meta han mantenido varias rondas de negociaciones sobre el asunto. Siguen en negociación dos cuestiones clave: cómo se presentarían los resultados de búsqueda y cómo se gestionaría la publicidad en un posible acuerdo."
+                "x": "Los usuarios conectan Danawa desde el menú de apps en la configuración de ChatGPT y luego introducen sus condiciones de compra. Por ejemplo, si piden \"Recomiéndame una estufa eléctrica de menos de 100,000 wones (10만 원) para un estudio\", reciben una comparación de precios, especificaciones principales y vendedores basada en los datos de Danawa."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
+                "cap": "Servicio Danawa MCP de Connectwave en ChatGPT, versión móvil (cortesía de Connectwave)"
               },
               {
                 "t": "p",
-                "x": "Una de las mayores preocupaciones de Amazon es cómo los agentes de compra de terceros como Muse podrían afectar a su negocio publicitario. En octubre, el CEO de Amazon, Andy Jassy, sostuvo que pocos clientes compraban a través de agentes de compra externos."
+                "x": "La ampliación a ChatGPT responde al flujo de usuarios existente. Según la empresa, alrededor del 74% de los usuarios que visitaron Danawa a través de AI generativa entre enero y octubre de este año llegó desde ChatGPT. Es la proporción entre los visitantes que llegan vía AI generativa, no entre todos los visitantes."
               },
               {
                 "t": "p",
-                "x": "Amazon también podría haber estado esperando a que Muse madurara antes de aceptar integrarlo en su marketplace. Si Muse hace un pedido equivocado o causa un problema con una compra, Amazon podría acabar lidiando con clientes frustrados y vendedores descontentos."
+                "x": "En Claude, los usuarios de MCP se han multiplicado por más de 5 desde el lanzamiento del servicio en agosto."
               },
               {
                 "t": "p",
-                "x": "Fortune informó de que los directivos temen que los agentes de compra de terceros debiliten la relación directa de Amazon con los consumidores, según personas familiarizadas con el asunto. Cualquier posible acuerdo entre Amazon y Meta requeriría la aprobación de los CEOs de ambas compañías, según Fortune."
+                "x": "Danawa recopila en tiempo real información de precios y productos de más de 50 sitios de e-commerce nacionales y cuenta con una base de datos (DB) de unos 14억 (1,400 millones) de productos. La empresa planea extender la conexión de datos de AI a servicios cotidianos como internet, alquileres, mudanzas, interiorismo y finanzas."
+              },
+              {
+                "t": "p",
+                "x": "Ha Woo-sung, responsable de los negocios Danawa y Enuri en Connectwave, dijo: \"Ahora que Danawa puede usarse directamente en ChatGPT, al que acuden más usuarios, nuestros puntos de contacto con los usuarios de AI se han ampliado aún más\"."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Danawa connects ChatGPT\nto real-time prices",
+          "body": "Following Claude, Danawa has connected real-time product and price data to ChatGPT through MCP.",
+          "mini_headline": "Danawa connects to ChatGPT",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
+                "cap": "Connectwave's Danawa MCP service on ChatGPT (provided by Connectwave)"
+              },
+              {
+                "t": "p",
+                "x": "Danawa, the price comparison service of Connectwave (119860), has connected real-time product information to ChatGPT as it moves into the conversational shopping market. Consumers describe their budget and intended use to the artificial intelligence (AI), and it narrows down the purchase candidates."
+              },
+              {
+                "t": "p",
+                "x": "According to Connectwave on the 25th, Danawa launched its 'Danawa MCP' service on OpenAI's ChatGPT. The move widens its reach after the service was integrated with Anthropic's Claude in August. MCP is a standard interface that connects AI to external data and tools."
+              },
+              {
+                "t": "p",
+                "x": "Users connect Danawa from the Apps menu in ChatGPT settings and then enter the purchase conditions they want. For example, a request such as \"Recommend an electric heater under 100,000 won (10만 원) for a studio apartment\" returns a comparison of prices, key specs and sellers based on Danawa data."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
+                "cap": "Connectwave's Danawa MCP service on ChatGPT, mobile (provided by Connectwave)"
+              },
+              {
+                "t": "p",
+                "x": "The wider ChatGPT integration builds on existing user flows. According to the company, about 74% of users who visited Danawa via generative AI between January and October this year came from ChatGPT. The figure is a share of visitors arriving via generative AI, not of all visitors."
+              },
+              {
+                "t": "p",
+                "x": "On Claude, MCP users have grown more than 5x since the service launched in August."
+              },
+              {
+                "t": "p",
+                "x": "Danawa collects price and product information in real time from more than 50 domestic e-commerce sites and holds a database (DB) of about 14억 (1.4 billion) products. The company plans to extend its AI data links to lifestyle services such as internet, rentals, moving, interiors and finance."
+              },
+              {
+                "t": "p",
+                "x": "Ha Woo-sung, head of the Danawa and Enuri business at Connectwave, said, \"Now that Danawa can be used directly on ChatGPT, which the most users turn to, our touchpoints with AI users have expanded further.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ダナワがChatGPTに\nリアルタイム価格連携",
+          "body": "ダナワはClaudeに続き、ChatGPTにもMCPで商品・価格情報をリアルタイム連携した。",
+          "mini_headline": "ダナワ、ChatGPTと連携",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
+                "cap": "コネクトウェーブのダナワ、ChatGPT向けダナワMCPサービス(コネクトウェーブ提供)"
+              },
+              {
+                "t": "p",
+                "x": "コネクトウェーブ(119860)の価格比較サービス、ダナワがChatGPTにリアルタイムの商品情報を連携し、対話型ショッピング市場の攻略に乗り出した。消費者が人工知能(AI)に予算と用途を説明すると、購入候補を絞り込んでくれる仕組みだ。"
+              },
+              {
+                "t": "p",
+                "x": "コネクトウェーブによると、ダナワは25日、OpenAIのChatGPTで「ダナワMCP」サービスを開始した。8月にAnthropicのClaudeと連携したのに続き、対象を広げた。MCPはAIが外部のデータやツールを活用できるようにつなぐ標準インターフェースだ。"
+              },
+              {
+                "t": "p",
+                "x": "利用者はChatGPTの設定にあるアプリメニューでダナワを接続し、希望する購入条件を入力すればよい。例えば「ワンルームで使う10万ウォン以下の電気ヒーターを薦めて」と頼むと、ダナワのデータをもとに価格や主な仕様、販売店を比較して案内する。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
+                "cap": "コネクトウェーブのダナワ、ChatGPT向けダナワMCPサービスのモバイル画面(コネクトウェーブ提供)"
+              },
+              {
+                "t": "p",
+                "x": "ChatGPT連携を拡大した背景には、既存の利用者の流れがある。同社によると、今年1~10月に生成AIを経由してダナワを訪れた利用者の約74%がChatGPTから流入した。全訪問者ではなく、生成AI経由の訪問者に占める割合だ。"
+              },
+              {
+                "t": "p",
+                "x": "Claudeでは8月のサービス開始以降、MCPの利用者が5倍以上に増えた。"
+              },
+              {
+                "t": "p",
+                "x": "ダナワは国内50以上のeコマースから価格・商品情報をリアルタイムで収集し、約14億件の商品データベース(DB)を保有している。同社はインターネット・レンタル・引っ越し・インテリア・金融などの生活サービスへAIデータ連携を広げる計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "コネクトウェーブのダナワ・エヌリ事業代表、ハ・ウソン氏は「最も多くの利用者が使うChatGPTでもダナワをすぐに使えるようになり、AI利用者との接点がさらに広がった」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "比价平台Danawa\n接入ChatGPT实时价格",
+          "body": "继Claude之后，Danawa也通过MCP将实时商品与价格信息接入ChatGPT。",
+          "mini_headline": "Danawa接入ChatGPT",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
+                "cap": "Connectwave旗下Danawa在ChatGPT上推出的Danawa MCP服务（Connectwave提供）"
+              },
+              {
+                "t": "p",
+                "x": "Connectwave（119860）旗下比价服务Danawa将实时商品信息接入ChatGPT，进军对话式购物市场。消费者向人工智能（AI）说明预算和用途后，它会帮助缩小购买候选范围。"
+              },
+              {
+                "t": "p",
+                "x": "据Connectwave 25日介绍，Danawa已在OpenAI的ChatGPT上推出“Danawa MCP”服务。继今年8月接入Anthropic的Claude之后，再次扩大了适用范围。MCP是让AI能够调用外部数据和工具的标准接口。"
+              },
+              {
+                "t": "p",
+                "x": "用户在ChatGPT设置的应用菜单中连接Danawa后，输入想要的购买条件即可。例如，提出“推荐一款单间用的10万韩元以下电暖器”，它就会根据Danawa数据比较价格、主要规格和卖家并给出建议。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
+                "cap": "Connectwave旗下Danawa在ChatGPT上的Danawa MCP服务移动端界面（Connectwave提供）"
+              },
+              {
+                "t": "p",
+                "x": "扩大ChatGPT接入的背后是现有的用户流向。据该公司介绍，今年1~10月经生成式AI访问Danawa的用户中，约74%来自ChatGPT。这一比例针对的是经生成式AI访问的用户，而非全部访客。"
+              },
+              {
+                "t": "p",
+                "x": "在Claude上，自8月服务上线以来，MCP用户增长了5倍以上。"
+              },
+              {
+                "t": "p",
+                "x": "Danawa从国内50多家电商实时收集价格和商品信息，拥有约14亿件商品的数据库（DB）。公司计划将AI数据联动扩展到网络、租赁、搬家、室内装修、金融等生活服务领域。"
+              },
+              {
+                "t": "p",
+                "x": "Connectwave Danawa·Enuri业务代表Ha Woo-sung表示：“在用户最多的ChatGPT上也能直接使用Danawa，与AI用户的接触点进一步扩大了。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Danawa conecta ChatGPT\ncon precios en tiempo real",
+          "body": "Tras Claude, Danawa conectó también ChatGPT mediante MCP a su información de productos y precios en tiempo real.",
+          "mini_headline": "Danawa conecta con ChatGPT",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
+                "cap": "Servicio Danawa MCP de Connectwave en ChatGPT (cortesía de Connectwave)"
+              },
+              {
+                "t": "p",
+                "x": "Danawa, el servicio de comparación de precios de Connectwave (119860), conectó información de productos en tiempo real a ChatGPT para entrar en el mercado de las compras conversacionales. El consumidor explica a la inteligencia artificial (AI) su presupuesto y el uso previsto, y esta acota los candidatos de compra."
+              },
+              {
+                "t": "p",
+                "x": "Según Connectwave, el día 25 Danawa lanzó el servicio 'Danawa MCP' en ChatGPT de OpenAI. Tras integrarse en agosto con Claude de Anthropic, amplió así su alcance. MCP es una interfaz estándar que conecta la AI con datos y herramientas externas."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios conectan Danawa desde el menú de apps en la configuración de ChatGPT y luego introducen sus condiciones de compra. Por ejemplo, si piden \"Recomiéndame una estufa eléctrica de menos de 100,000 wones (10만 원) para un estudio\", reciben una comparación de precios, especificaciones principales y vendedores basada en los datos de Danawa."
+              },
+              {
+                "t": "img",
+                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
+                "cap": "Servicio Danawa MCP de Connectwave en ChatGPT, versión móvil (cortesía de Connectwave)"
+              },
+              {
+                "t": "p",
+                "x": "La ampliación a ChatGPT responde al flujo de usuarios existente. Según la empresa, alrededor del 74% de los usuarios que visitaron Danawa a través de AI generativa entre enero y octubre de este año llegó desde ChatGPT. Es la proporción entre los visitantes que llegan vía AI generativa, no entre todos los visitantes."
+              },
+              {
+                "t": "p",
+                "x": "En Claude, los usuarios de MCP se han multiplicado por más de 5 desde el lanzamiento del servicio en agosto."
+              },
+              {
+                "t": "p",
+                "x": "Danawa recopila en tiempo real información de precios y productos de más de 50 sitios de e-commerce nacionales y cuenta con una base de datos (DB) de unos 14억 (1,400 millones) de productos. La empresa planea extender la conexión de datos de AI a servicios cotidianos como internet, alquileres, mudanzas, interiorismo y finanzas."
+              },
+              {
+                "t": "p",
+                "x": "Ha Woo-sung, responsable de los negocios Danawa y Enuri en Connectwave, dijo: \"Ahora que Danawa puede usarse directamente en ChatGPT, al que acuden más usuarios, nuestros puntos de contacto con los usuarios de AI se han ampliado aún más\"."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "iab-europe-agentic-playbook",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "IAB Europe의\nAI 봇 90-day 계획",
+      "body": "IAB Europe는 12개 영역과 AI 용도 일곱, 과금 모델 여섯을 정리했다.",
+      "mini_headline": "IAB Europe의 90-day AI 계획",
+      "tool": "Marketing",
+      "source": "PPC Land",
+      "url": "https://ppc.land/iab-europe-gives-publishers-a-90-day-plan-for-ai-bots-deals-and-ads/",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
+            "cap": "IAB Europe의 90-day AI 플레이북은 매체사에 7가지 AI 용도별로 규칙을 정하라고 하지만 가격은 내놓지 않는다"
+          },
+          {
+            "t": "p",
+            "x": "IAB Europe는 11월 26일 Publisher Playbook for the Agentic Web을 공개했다. Publisher Content & AI Task Force와 AI Working Group이 BVDW Working Group 피드백을 받아 만든 22-slide짜리 인터랙티브 도구다."
+          },
+          {
+            "t": "p",
+            "x": "매체사는 12-area 자가 진단부터 한다. 영역마다 0~3점을 매겨 최대 36점이다. AI 접근 규칙을 정하기 전에는 트래픽을 다섯 가지로 나눈다. 사람의 상호작용, 검증된 유익한 자동화부터 미확인 자동화, 악의적·남용 트래픽까지다."
+          },
+          {
+            "t": "p",
+            "x": "플레이북은 사이트 전체에 AI 정책 하나를 두지 말고 일곱 가지 AI 용도를 하나씩 따로 정하라고 한다. 모델 학습, 인덱싱과 탐색, 그라운딩과 실시간 검색, 개체 추출, 에이전트 열람, 에이전트 행동, 광고 활용이다."
+          },
+          {
+            "t": "p",
+            "x": "\"Six ways to charge\" 항목은 정액 라이선스, 사용량 라이선스, 하이브리드, 구독 임베딩, 출처 표시 라이선스, 성과 라이선스 등 여섯 가지 라이선스 모델과 계약용 실사 질문 13개를 담았다. 끝에는 아홉 개 역할로 짠 거버넌스 구조와 정의된 지표 11개, 21-step 90-day 계획이 붙는다. 플레이북이 가격이나 요율, 표준 계약 조건까지 정하지는 않는다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "IAB Europe gives publishers\na 90-day plan for AI bots",
+          "body": "IAB Europe's playbook has publishers score 12 areas, set rules for seven AI uses and weigh six licensing models.",
+          "mini_headline": "IAB Europe's 90-day AI plan",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
+                "cap": "IAB Europe's 90-day AI playbook asks publishers to set rules for 7 AI uses, but names no prices"
+              },
+              {
+                "t": "p",
+                "x": "IAB Europe on November 26 released the Publisher Playbook for the Agentic Web, an interactive 22-slide tool developed by its Publisher Content & AI Task Force and AI Working Group, with feedback from BVDW's Working Group."
+              },
+              {
+                "t": "p",
+                "x": "Publishers start with a 12-area self-assessment, each scored 0 to 3 for a maximum of 36 points. Traffic is sorted into five classes, from human interaction and verified beneficial automation to unknown automation and malicious or abusive, before any AI access rules are set."
+              },
+              {
+                "t": "p",
+                "x": "Instead of one site-wide AI policy, the playbook asks for separate decisions on seven AI uses: model training, indexing and discovery, grounding and live retrieval, entity extraction, agent viewing, agent action and advertising use."
+              },
+              {
+                "t": "p",
+                "x": "Under \"Six ways to charge\" it lists six licensing models: flat licence, usage licence, hybrid, subscription embedding, attribution licence and outcome licence, plus 13 due diligence questions for contracts. It closes with a nine-role governance structure, 11 defined metrics and a 21-step, 90-day plan. The playbook sets no prices, rates or standard contract terms."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "IAB Europe의\nAI 봇 90-day 계획",
+          "body": "IAB Europe는 12개 영역과 AI 용도 일곱, 과금 모델 여섯을 정리했다.",
+          "mini_headline": "IAB Europe의 90-day AI 계획",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
+                "cap": "IAB Europe의 90-day AI 플레이북은 매체사에 7가지 AI 용도별로 규칙을 정하라고 하지만 가격은 내놓지 않는다"
+              },
+              {
+                "t": "p",
+                "x": "IAB Europe는 11월 26일 Publisher Playbook for the Agentic Web을 공개했다. Publisher Content & AI Task Force와 AI Working Group이 BVDW Working Group 피드백을 받아 만든 22-slide짜리 인터랙티브 도구다."
+              },
+              {
+                "t": "p",
+                "x": "매체사는 12-area 자가 진단부터 한다. 영역마다 0~3점을 매겨 최대 36점이다. AI 접근 규칙을 정하기 전에는 트래픽을 다섯 가지로 나눈다. 사람의 상호작용, 검증된 유익한 자동화부터 미확인 자동화, 악의적·남용 트래픽까지다."
+              },
+              {
+                "t": "p",
+                "x": "플레이북은 사이트 전체에 AI 정책 하나를 두지 말고 일곱 가지 AI 용도를 하나씩 따로 정하라고 한다. 모델 학습, 인덱싱과 탐색, 그라운딩과 실시간 검색, 개체 추출, 에이전트 열람, 에이전트 행동, 광고 활용이다."
+              },
+              {
+                "t": "p",
+                "x": "\"Six ways to charge\" 항목은 정액 라이선스, 사용량 라이선스, 하이브리드, 구독 임베딩, 출처 표시 라이선스, 성과 라이선스 등 여섯 가지 라이선스 모델과 계약용 실사 질문 13개를 담았다. 끝에는 아홉 개 역할로 짠 거버넌스 구조와 정의된 지표 11개, 21-step 90-day 계획이 붙는다. 플레이북이 가격이나 요율, 표준 계약 조건까지 정하지는 않는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "IAB Europeが示す\nAIボット90-day計画",
+          "body": "IAB Europeは12領域の評価、AI用途七つの規則、課金モデル六つを示した。",
+          "mini_headline": "IAB Europeの90-day AI計画",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
+                "cap": "IAB Europeの90-day AIプレイブックは、パブリッシャーに7つのAI用途ごとのルール設定を求めるが、価格は示していない"
+              },
+              {
+                "t": "p",
+                "x": "IAB Europeは11月26日、Publisher Playbook for the Agentic Webを公開した。Publisher Content & AI Task ForceとAI Working Groupが、BVDW Working Groupの意見を取り入れて開発した22-slideのインタラクティブなツールだ。"
+              },
+              {
+                "t": "p",
+                "x": "パブリッシャーはまず12-areaの自己評価から始め、各項目を0~3点で採点し、最高36点となる。AIアクセスのルールを定める前に、トラフィックを人間による操作、検証済みの有益な自動化から、不明な自動化、悪意ある・不正なものまで五つに分類する。"
+              },
+              {
+                "t": "p",
+                "x": "プレイブックはサイト全体で一つのAIポリシーを設けるのではなく、モデル学習、インデックス作成と発見、グラウンディングとライブ検索、エンティティ抽出、エージェントによる閲覧、エージェントによる操作、広告利用という七つのAI用途について個別に判断するよう求めている。"
+              },
+              {
+                "t": "p",
+                "x": "「Six ways to charge」では、定額ライセンス、利用量ライセンス、ハイブリッド、サブスクリプション組み込み、帰属ライセンス、成果ライセンスの六つのライセンスモデルと、契約に関する13のデューデリジェンス質問を挙げる。最後は九つの役割からなるガバナンス体制、定義済みの11指標、21-stepの90-day計画で締めくくる。プレイブックは価格や料率、標準的な契約条件を定めていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "IAB Europe给出版商\nAI机器人90-day计划",
+          "body": "IAB Europe手册让出版商评估12个领域、为七种AI用途定规则并权衡六种授权模式。",
+          "mini_headline": "IAB Europe的90-day AI计划",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
+                "cap": "IAB Europe的90-day AI手册要求出版商为7种AI用途制定规则，但未给出价格"
+              },
+              {
+                "t": "p",
+                "x": "IAB Europe于11月26日发布了Publisher Playbook for the Agentic Web，这是一款22-slide的交互式工具，由其Publisher Content & AI Task Force和AI Working Group开发，并吸纳了BVDW Working Group的反馈。"
+              },
+              {
+                "t": "p",
+                "x": "出版商首先进行12-area自我评估，每项按0到3分打分，满分36分。在制定任何AI访问规则之前，流量会被分为五类：从人类互动、经验证的有益自动化，到未知自动化以及恶意或滥用流量。"
+              },
+              {
+                "t": "p",
+                "x": "手册不采用单一的全站AI政策，而是要求就七种AI用途分别作出决定：模型训练、索引与发现、溯源与实时检索、实体提取、代理浏览、代理操作以及广告用途。"
+              },
+              {
+                "t": "p",
+                "x": "在“Six ways to charge”部分，手册列出了六种授权模式：固定授权、按用量授权、混合模式、订阅嵌入、署名授权和成果授权，另附13个合同尽职调查问题。最后是由九个角色组成的治理结构、11项定义指标以及21-step的90-day计划。手册未设定任何价格、费率或标准合同条款。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "IAB Europe da a los editores\nun plan 90-day para bots de AI",
+          "body": "IAB Europe pide a los editores puntuar 12 áreas, regular siete usos de AI y valorar seis modelos de licencia.",
+          "mini_headline": "El plan 90-day de IAB Europe para la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
+                "cap": "El manual de AI 90-day de IAB Europe pide a los editores fijar reglas para 7 usos de AI, pero no menciona precios"
+              },
+              {
+                "t": "p",
+                "x": "IAB Europe publicó el 26 de noviembre la Publisher Playbook for the Agentic Web, una herramienta interactiva 22-slide desarrollada por su Publisher Content & AI Task Force y su AI Working Group, con aportaciones del Working Group de BVDW."
+              },
+              {
+                "t": "p",
+                "x": "Los editores empiezan con una autoevaluación 12-area en la que cada área se puntúa de 0 a 3, hasta un máximo de 36 puntos. El tráfico se clasifica en cinco clases, desde la interacción humana y la automatización beneficiosa verificada hasta la automatización desconocida y la maliciosa o abusiva, antes de fijar cualquier regla de acceso para la AI."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de una única política de AI para todo el sitio, el manual pide decisiones separadas sobre siete usos de AI: entrenamiento de modelos, indexación y descubrimiento, grounding y recuperación en vivo, extracción de entidades, visualización por agentes, acción de agentes y uso publicitario."
+              },
+              {
+                "t": "p",
+                "x": "En \"Six ways to charge\" enumera seis modelos de licencia: licencia fija, licencia por uso, híbrida, integración en suscripción, licencia por atribución y licencia por resultados, además de 13 preguntas de diligencia debida para los contratos. Cierra con una estructura de gobernanza de nueve funciones, 11 métricas definidas y un plan 90-day de 21-step. El manual no fija precios, tarifas ni condiciones contractuales estándar."
               }
             ]
           }
@@ -1615,157 +1937,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Amazon·Meta\nMuse 차단 두고 협상설",
-          "body": "Amazon의 Meta Muse 차단 해제 협상은 광고·검색 배치가 쟁점이다.",
-          "mini_headline": "Amazon·Meta, Muse 휴전 협상",
+          "headline": "IAB Europe의\nAI 봇 90-day 계획",
+          "body": "IAB Europe는 12개 영역과 AI 용도 일곱, 과금 모델 여섯을 정리했다.",
+          "mini_headline": "IAB Europe의 90-day AI 계획",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-                "cap": "노트북 앞에 앉은 Meta Muse 마스코트"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
+                "cap": "IAB Europe의 90-day AI 플레이북은 매체사에 7가지 AI 용도별 규칙을 정하라고 요구하지만, 가격은 제시하지 않는다"
               },
               {
                 "t": "p",
-                "x": "Amazon이 Meta의 AI 에이전트 Muse에 대한 입장을 바꿀 수도 있다. 두 거대 기술기업은 Meta의 인기 AI 에이전트가 Amazon 스토어에 직접 연결될 수 있도록 하는 잠재적 거래를 논의 중인 것으로 알려졌다."
+                "x": "IAB Europe는 11월 26일 Publisher Playbook for the Agentic Web을 공개했다. Publisher Content & AI Task Force와 AI Working Group이 BVDW Working Group의 피드백을 받아 만든 22-slide 분량의 인터랙티브 도구다."
               },
               {
                 "t": "p",
-                "x": "이 협상은 불과 두 달 전과 비교하면 상당한 반전이다. 당시 Muse 사용자들은 Amazon에서 상품을 살 수 없었고, 결제를 시도하면 오류 메시지가 떴다."
+                "x": "매체사는 먼저 12-area 자가 진단으로 시작하며, 각 영역은 0~3점으로 매겨 최대 36점이다. AI 접근 규칙을 정하기 전에 트래픽을 사람의 상호작용, 검증된 유익한 자동화부터 미확인 자동화, 악의적·남용 트래픽까지 다섯 가지로 분류한다."
               },
               {
                 "t": "p",
-                "x": "논의 상황을 잘 아는 사람들을 인용한 Fortune의 수요일 보도에 따르면, Amazon과 Meta는 이 문제를 두고 여러 차례 협상을 했다. 핵심 쟁점 두 가지는 아직 협상 중이다. 잠재적 합의에서 검색 결과를 어떻게 보여줄지, 광고를 어떻게 처리할지다."
+                "x": "플레이북은 사이트 전체에 하나의 AI 정책을 두는 대신, 모델 학습, 인덱싱과 탐색, 그라운딩과 실시간 검색, 개체 추출, 에이전트 열람, 에이전트 행동, 광고 활용 등 일곱 가지 AI 용도를 각각 따로 결정하라고 요구한다."
               },
               {
                 "t": "p",
-                "x": "Amazon의 가장 큰 우려 중 하나는 Muse 같은 외부 쇼핑 에이전트가 자사 광고 사업에 미칠 영향이다. 10월 Amazon CEO Andy Jassy는 외부 쇼핑 에이전트를 통해 구매하는 고객이 많지 않다고 주장했다."
-              },
-              {
-                "t": "p",
-                "x": "Amazon은 마켓플레이스 연동에 동의하기 전에 Muse가 성숙하기를 기다렸을 수도 있다. Muse가 잘못 주문하거나 구매에 문제를 일으키면, 결국 불만스러운 고객과 판매자를 상대해야 하는 쪽은 Amazon이 될 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Fortune은 사정을 잘 아는 사람들을 인용해, 경영진이 외부 쇼핑 에이전트가 Amazon과 소비자의 직접적인 관계를 약화할 수 있다고 우려한다고 보도했다. Fortune은 또 Amazon과 Meta 간 합의가 성사되려면 두 회사 CEO(CEOs)의 승인이 필요할 것이라고 전했다."
+                "x": "\"Six ways to charge\" 항목에서는 정액 라이선스, 사용량 라이선스, 하이브리드, 구독 임베딩, 출처 표시 라이선스, 성과 라이선스 등 여섯 가지 라이선스 모델과 계약용 실사 질문 13개를 제시한다. 마지막은 아홉 개 역할로 짜인 거버넌스 구조, 정의된 지표 11개, 21-step 90-day 계획이다. 플레이북은 가격이나 요율, 표준 계약 조건을 정하지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AmazonとMeta\nMuse遮断巡り協議か",
-          "body": "AmazonによるMetaのMuse遮断解除の協議は、広告と検索の扱いが焦点という。",
-          "mini_headline": "AmazonとMeta、Muse巡り協議",
+          "headline": "IAB Europeが示す\nAIボット90-day計画",
+          "body": "IAB Europeは12領域の評価、AI用途七つの規則、課金モデル六つを示した。",
+          "mini_headline": "IAB Europeの90-day AI計画",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-                "cap": "ノートパソコンの前に座るMeta Museのマスコット"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
+                "cap": "IAB Europeの90-day AIプレイブックは、パブリッシャーに7つのAI用途ごとのルール設定を求めるが、価格は示していない"
               },
               {
                 "t": "p",
-                "x": "AmazonはMetaのAIエージェント、Museに対する考えを改めつつあるのかもしれない。両テック大手は、Metaの人気AIエージェントがAmazonのストアに直接接続できるようにする取引の可能性を協議していると報じられた。"
+                "x": "IAB Europeは11月26日、Publisher Playbook for the Agentic Webを公開した。Publisher Content & AI Task ForceとAI Working Groupが、BVDW Working Groupの意見を取り入れて開発した22-slideのインタラクティブなツールだ。"
               },
               {
                 "t": "p",
-                "x": "この協議は、わずか二か月前からの大きな方針転換となる。当時、MuseのユーザーはAmazonで商品を購入できず、決済しようとするとエラーメッセージが表示された。"
+                "x": "パブリッシャーはまず12-areaの自己評価から始め、各項目を0~3点で採点し、最高36点となる。AIアクセスのルールを定める前に、トラフィックを人間による操作、検証済みの有益な自動化から、不明な自動化、悪意ある・不正なものまで五つに分類する。"
               },
               {
                 "t": "p",
-                "x": "協議に詳しい関係者の話として水曜日に報じたFortuneによると、AmazonとMetaはこの件で複数回協議を重ねた。合意した場合に検索結果をどう表示するか、広告をどう扱うかという二つの主要な論点は、なお交渉中だという。"
+                "x": "プレイブックはサイト全体で一つのAIポリシーを設けるのではなく、モデル学習、インデックス作成と発見、グラウンディングとライブ検索、エンティティ抽出、エージェントによる閲覧、エージェントによる操作、広告利用という七つのAI用途について個別に判断するよう求めている。"
               },
               {
                 "t": "p",
-                "x": "Amazonの最大の懸念の一つは、Museのような外部のショッピングエージェントが自社の広告事業にどう影響するかだ。10月、Amazon CEOのAndy Jassyは、外部のショッピングエージェントを通じて購入する顧客は少ないと主張した。"
-              },
-              {
-                "t": "p",
-                "x": "Amazonは、マーケットプレイスとの統合に同意する前にMuseの成熟を待っていた可能性もある。Museが誤った注文をしたり購入で問題を起こしたりすれば、最終的に不満を抱く顧客や販売者に対応するのはAmazonになりかねない。"
-              },
-              {
-                "t": "p",
-                "x": "Fortuneは関係者の話として、経営陣は外部のショッピングエージェントがAmazonと消費者の直接的な関係を弱めかねないと懸念していると報じた。またFortuneによると、AmazonとMetaの合意には両社のCEO(CEOs)の承認が必要になるという。"
+                "x": "「Six ways to charge」では、定額ライセンス、利用量ライセンス、ハイブリッド、サブスクリプション組み込み、帰属ライセンス、成果ライセンスの六つのライセンスモデルと、契約に関する13のデューデリジェンス質問を挙げる。最後は九つの役割からなるガバナンス体制、定義済みの11指標、21-stepの90-day計画で締めくくる。プレイブックは価格や料率、標準的な契約条件を定めていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon与Meta\n传就Muse封锁谈判",
-          "body": "据报道，Amazon与Meta就解除对Muse为期两个月的封锁谈判，焦点在广告与搜索位置。",
-          "mini_headline": "Amazon与Meta洽谈Muse和解",
+          "headline": "IAB Europe给出版商\nAI机器人90-day计划",
+          "body": "IAB Europe手册让出版商评估12个领域、为七种AI用途定规则并权衡六种授权模式。",
+          "mini_headline": "IAB Europe的90-day AI计划",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-                "cap": "坐在笔记本电脑前的Meta Muse吉祥物"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
+                "cap": "IAB Europe的90-day AI手册要求出版商为7种AI用途制定规则，但未给出价格"
               },
               {
                 "t": "p",
-                "x": "Amazon对Meta的AI智能体Muse的态度或许正在转变。据报道，这两家科技巨头正在商讨一项潜在协议，让Meta这款广受欢迎的AI智能体直接接入Amazon商店。"
+                "x": "IAB Europe于11月26日发布了Publisher Playbook for the Agentic Web，这是一款22-slide的交互式工具，由其Publisher Content & AI Task Force和AI Working Group开发，并吸纳了BVDW Working Group的反馈。"
               },
               {
                 "t": "p",
-                "x": "与仅仅两个月前相比，这些谈判将是一次重大转向。当时Muse用户发现无法在Amazon上购买商品，尝试结账时收到的是错误提示。"
+                "x": "出版商首先进行12-area自我评估，每项按0到3分打分，满分36分。在制定任何AI访问规则之前，流量会被分为五类：从人类互动、经验证的有益自动化，到未知自动化以及恶意或滥用流量。"
               },
               {
                 "t": "p",
-                "x": "据Fortune周三援引知情人士的报道，Amazon与Meta已就此事进行了多轮谈判。仍在谈判中的两个关键问题是：在潜在协议下如何呈现搜索结果，以及如何处理广告。"
+                "x": "手册不采用单一的全站AI政策，而是要求就七种AI用途分别作出决定：模型训练、索引与发现、溯源与实时检索、实体提取、代理浏览、代理操作以及广告用途。"
               },
               {
                 "t": "p",
-                "x": "Amazon最大的担忧之一，是Muse这样的第三方购物智能体可能对其广告业务造成的影响。10月，Amazon CEO Andy Jassy曾表示，通过外部购物智能体购物的顾客很少。"
-              },
-              {
-                "t": "p",
-                "x": "Amazon可能也在等待Muse成熟后再同意将其接入自己的市场。如果Muse下错订单或在购买中出现问题，最终可能要由Amazon来应对不满的顾客和卖家。"
-              },
-              {
-                "t": "p",
-                "x": "Fortune援引知情人士报道称，高管们担心第三方购物智能体可能削弱Amazon与消费者的直接关系。Fortune还报道称，Amazon与Meta之间的任何潜在协议都需要两家公司CEO(CEOs)的批准。"
+                "x": "在“Six ways to charge”部分，手册列出了六种授权模式：固定授权、按用量授权、混合模式、订阅嵌入、署名授权和成果授权，另附13个合同尽职调查问题。最后是由九个角色组成的治理结构、11项定义指标以及21-step的90-day计划。手册未设定任何价格、费率或标准合同条款。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon y Meta negociarían\nel fin del bloqueo a Muse",
-          "body": "Amazon y Meta negociarían el fin del bloqueo de dos meses a Muse, con la publicidad y la búsqueda como ejes.",
-          "mini_headline": "Amazon y Meta negocian sobre Muse",
+          "headline": "IAB Europe da a los editores\nun plan 90-day para bots de AI",
+          "body": "IAB Europe pide a los editores puntuar 12 áreas, regular siete usos de AI y valorar seis modelos de licencia.",
+          "mini_headline": "El plan 90-day de IAB Europe para la AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-                "cap": "La mascota de Meta Muse sentada frente a un portátil"
+                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
+                "cap": "El manual de AI 90-day de IAB Europe pide a los editores fijar reglas para 7 usos de AI, pero no menciona precios"
               },
               {
                 "t": "p",
-                "x": "Amazon podría estar cambiando de opinión sobre Muse, el agente de AI de Meta. Según informaciones, los dos gigantes tecnológicos discuten un posible acuerdo que permitiría al popular agente de AI de Meta conectarse directamente a la tienda de Amazon."
+                "x": "IAB Europe publicó el 26 de noviembre la Publisher Playbook for the Agentic Web, una herramienta interactiva 22-slide desarrollada por su Publisher Content & AI Task Force y su AI Working Group, con aportaciones del Working Group de BVDW."
               },
               {
                 "t": "p",
-                "x": "Las conversaciones supondrían un giro importante respecto a hace solo dos meses, cuando los usuarios de Muse descubrieron que no podían comprar productos en Amazon y, al intentar pagar, recibían un mensaje de error."
+                "x": "Los editores empiezan con una autoevaluación 12-area en la que cada área se puntúa de 0 a 3, hasta un máximo de 36 puntos. El tráfico se clasifica en cinco clases, desde la interacción humana y la automatización beneficiosa verificada hasta la automatización desconocida y la maliciosa o abusiva, antes de fijar cualquier regla de acceso para la AI."
               },
               {
                 "t": "p",
-                "x": "Según un informe publicado el miércoles por Fortune, que cita a personas familiarizadas con las conversaciones, Amazon y Meta han mantenido varias rondas de negociaciones sobre el asunto. Siguen en negociación dos cuestiones clave: cómo se presentarían los resultados de búsqueda y cómo se gestionaría la publicidad en un posible acuerdo."
+                "x": "En lugar de una única política de AI para todo el sitio, el manual pide decisiones separadas sobre siete usos de AI: entrenamiento de modelos, indexación y descubrimiento, grounding y recuperación en vivo, extracción de entidades, visualización por agentes, acción de agentes y uso publicitario."
               },
               {
                 "t": "p",
-                "x": "Una de las mayores preocupaciones de Amazon es cómo los agentes de compra de terceros como Muse podrían afectar a su negocio publicitario. En octubre, el CEO de Amazon, Andy Jassy, sostuvo que pocos clientes compraban a través de agentes de compra externos."
-              },
-              {
-                "t": "p",
-                "x": "Amazon también podría haber estado esperando a que Muse madurara antes de aceptar integrarlo en su marketplace. Si Muse hace un pedido equivocado o causa un problema con una compra, Amazon podría acabar lidiando con clientes frustrados y vendedores descontentos."
-              },
-              {
-                "t": "p",
-                "x": "Fortune informó de que los directivos temen que los agentes de compra de terceros debiliten la relación directa de Amazon con los consumidores, según personas familiarizadas con el asunto. Cualquier posible acuerdo entre Amazon y Meta requeriría la aprobación de los CEOs de ambas compañías, según Fortune."
+                "x": "En \"Six ways to charge\" enumera seis modelos de licencia: licencia fija, licencia por uso, híbrida, integración en suscripción, licencia por atribución y licencia por resultados, además de 13 preguntas de diligencia debida para los contratos. Cierra con una estructura de gobernanza de nueve funciones, 11 métricas definidas y un plan 90-day de 21-step. El manual no fija precios, tarifas ni condiciones contractuales estándar."
               }
             ]
           }

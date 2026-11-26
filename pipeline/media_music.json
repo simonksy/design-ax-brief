@@ -1,7 +1,31 @@
-{"date":"2026-11-26","section":"music","media":[
-{"id":"suno-chicks-amended-complaint","type":"image","src":"pipeline/media/suno-chicks-amended-complaint.jpg"},
-{"id":"audiotool-flow-music-nxs","type":"video","src":"pipeline/media/audiotool-flow-music-nxs.mp4","poster":"pipeline/media/audiotool-flow-music-nxs.jpg"},
-{"id":"music-daeumhyup-ai-principles","type":"image","src":"pipeline/media/music-daeumhyup-ai-principles.jpg"},
-{"id":"tone3000-daisy-nam-pedal","type":"image","src":"pipeline/media/tone3000-daisy-nam-pedal.jpg"},
-{"id":"incrementdet-ai-music-detector","type":"image","src":"pipeline/media/incrementdet-ai-music-detector.png"}
-]}
+{
+  "date": "2026-11-27",
+  "section": "music",
+  "media": [
+    {
+      "id": "music-suno-dismissal-denied",
+      "type": "image",
+      "src": "pipeline/media/music-suno-dismissal-denied.png"
+    },
+    {
+      "id": "ua-universe-luna-addons",
+      "type": "image",
+      "src": "pipeline/media/ua-universe-luna-addons.jpg"
+    },
+    {
+      "id": "cyanite-concierge-search",
+      "type": "image",
+      "src": "pipeline/media/cyanite-concierge-search.png"
+    },
+    {
+      "id": "mit-tangimap-controls",
+      "type": "image",
+      "src": "pipeline/media/mit-tangimap-controls.jpg"
+    },
+    {
+      "id": "madlibs-genmusic-distribution",
+      "type": "image",
+      "src": "pipeline/media/madlibs-genmusic-distribution.png"
+    }
+  ]
+}

@@ -12011,6 +12011,138 @@
           "x": "“我们的一个重要体会是，没有哪一个AI模型一定比其他模型更好，”Dickinson说，“AI提供了生成和打磨图像的新方法，而传统的[VFX技术]则给了我们把这些元素提升到可投产标准所需的控制力。”"
         }
       ]
+    },
+    "movies/movies-microdrama-mpa-20bn": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/1/1493181_reelshortshowbox_896332.jpg"
+        },
+        {
+          "t": "p",
+          "x": "根据Media Partners Asia（MPA）第二份Micro-Drama Economy报告，2026年全球微短剧收入已达 $20bn ，同比增长24%，但这门生意在中国以外难以盈利。到2031年，总收入将达到 $32bn 。预计中国今年将贡献 $15.2bn ，占总额的76%，而中国以外的专门应用收入为 $4.87bn 。"
+        },
+        {
+          "t": "p",
+          "x": "在中国以外，56%的收入用于营销，另有18%流向应用商店和支付服务商；每月付费的用户约为每12人中一人，因此利润率依然微薄。DramaBox去年净利润率为3.2%，ReelShort则亏损 $12m 。ReelShort、Kunlun、NetShort和DramaBox占中国以外收入的65%。"
+        },
+        {
+          "t": "p",
+          "x": "中国以外应用上架的新作从2025年的约100,000部增至2026年的440,000部。其中约75%使用AI制作，一部AI制作（AI-made）作品的成本“约为在洛杉矶（Los Angeles）拍摄的剧集的十分之一”。在中国，2026年上线的作品中每10部约有九部是AI作品，但只贡献了全年收入的20%。在追踪的六个平台中，有五个平台的前50名作品仍以真人实拍（Live-action）为主。"
+        }
+      ]
+    },
+    "movies/hazanavicius-third-hand-lesarcs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg?w=1024",
+          "cap": "Michel Hazanavicius"
+        },
+        {
+          "t": "p",
+          "x": "Michel Hazanavicius将于12月在Les Arcs Film Festival的一场AI案例研究中，独家展示新片The Third Hand的片段。这位奥斯卡获奖（Oscar-winning）导演将与后期制作公司Digital District一同放映片段，并讲解他们在片中使用AI的方法和工具。"
+        },
+        {
+          "t": "p",
+          "x": "Hazanavicius和团队在部分开发和后期制作环节使用了这项技术，实际拍摄则采用传统布景和拍摄方式。"
+        },
+        {
+          "t": "p",
+          "x": "The Third Hand由François Civil主演，他饰演一名在第一次世界大战中负伤的法国士兵，醒来时身处一位疯狂科学家的实验室，对方已把一只德国人的手移植到他的腹部。影片定位为\"fantastique\"彩色默片，是Hazanavicius继The Artist之后重返默片类型之作。"
+        },
+        {
+          "t": "p",
+          "x": "案例研究之后，将与欧洲议会议员（Member of the European Parliament）David Cormand展开讨论，探讨欧洲如何在保护创作者权利和文化主权的同时监管AI。Les Arcs Film Festival将于12月12日至19日举行。"
+        }
+      ]
+    },
+    "movies/dw-netflix-german-dubbing-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.dw.com/image/80004535_6.jpg",
+          "cap": "Katrin Fröhlich今后将不再在Netflix上担任Cameron Diaz的德语配音"
+        },
+        {
+          "t": "p",
+          "x": "30多年来，Cameron Diaz在德国银幕上一直用Katrin Fröhlich的声音说话。Fröhlich与配音同行Anne Helm（Margot Robbie的配音）和Luise Helm（Scarlett Johansson的配音）发布视频，表示将不再提供声音：她们拒绝签署Netflix的合同，因为其中有一项条款允许Netflix用她们的声音训练其AI。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.dw.com/image/80004579_6.jpg",
+          "cap": "Katrin Fröhlich"
+        },
+        {
+          "t": "p",
+          "x": "该条款自2026年1月起写入Netflix的合同，由德国影视演员工会BFFS谈判达成。条款允许Netflix用录音训练自家系统，但在用录音制作AI生成（AI-generated）的声音之前，必须另行取得演员的明确同意。理事会成员Till Völger说：“我们创造了一项法律并未提供的合同权利。”"
+        },
+        {
+          "t": "p",
+          "x": "Jason Momoa的德语配音Matti Klemm也拒绝签约，并在公民权利协会（Society for Civil Rights，GFF）的支持下起诉Netflix，以查明他的声音如何被用于训练。Netflix表示，人的表演“对我们来说现在重要，将来也依然重要”。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.dw.com/image/80004594_6.jpg",
+          "cap": "Matti Klemm"
+        }
+      ]
+    },
+    "movies/elevenlabs-collaboration-2026-siff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png"
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs于25日宣布，已作为技术合作伙伴参与韩国AI电影项目“The Collaboration 2026”。"
+        },
+        {
+          "t": "p",
+          "x": "在该项目中，ElevenLabs为以电影《纯真时代》闻名的导演Ahn Sang-hoon与AI导演Park Hyun-shin团队的短片《信号》（The Signal）提供了AI音频制作工具。"
+        },
+        {
+          "t": "p",
+          "x": "The Collaboration 2026是由Creative Mango与第52届首尔独立电影节联合主办的AI短篇剧情片项目。Ahn Sang-hoon、Lee Myung-se、Jang Cheol-soo等7位韩国电影导演，与Park Hyun-shin、Lee Ban-seok、Hong Jin-wook等AI导演携手ElevenLabs等全球AI技术企业，共完成了7部短片。"
+        },
+        {
+          "t": "p",
+          "x": "项目成果将于27日在首尔CGV狎鸥亭影厅公开。当天除放映7部短片外，还将举行各团队的创作分享和AI技术企业的技术主题演讲。"
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs日本及韩国GTM负责人Hong Sang-won表示：“很荣幸以官方制作支持合作伙伴的身份，参与韩国代表性电影导演与AI创作者探索全新电影语法的这一项目。”他还说：“今后我们将继续支持各类项目，让创作者不受技术限制地把想象变为现实。”"
+        }
+      ]
+    },
+    "movies/google-mychannel-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "去年，Google为一个名为My Channel的系统申请了专利，该系统旨在根据公司掌握的用户信息，生成充满个性化AI-generated视频和广告的内容流。该专利已被驳回，但Google可能提出申诉或提交修改后的版本。"
+        },
+        {
+          "t": "p",
+          "x": "这项专利由Patentlyze率先发现，于去年五月提交、上周公开。专利描述，My Channel会利用个人的人口统计数据和观看记录生成提示词，再输入LLM，生成符合其兴趣的AI视频。该系统还会采集IP地址、GPS位置及用户年龄等情境数据，并可依据时事新闻生成提示词；所有生成均在Google的服务器上完成。"
+        },
+        {
+          "t": "p",
+          "x": "根据专利，My Channel可以批量产出各种类型的完整电影，并接入其他流媒体服务。最令人不安的是，专利提到要为用户创建数字分身，并让其成为所产出内容中的“主角或主要角色”。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "The Verge认为，这一构想与艺术体验的价值背道而驰，还会让观众疏远任何并非按其假定口味打造的作品。"
+        }
+      ]
     }
   }
 }

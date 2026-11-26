@@ -12419,6 +12419,138 @@
           "x": "「重要な学びの一つは、どのAIモデルも他より優れているとは限らないということだった」とDickinsonは言う。「AIは映像を生成し磨き上げる新しい手段をもたらし、従来の[VFX技術]はそれらの要素を本番レベルに仕上げるのに必要なコントロールを与えてくれた」"
         }
       ]
+    },
+    "movies/movies-microdrama-mpa-20bn": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/1/1493181_reelshortshowbox_896332.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Media Partners Asia（MPA）の二回目となるMicro-Drama Economyレポートによると、2026年の世界のマイクロドラマ収益は前年比24%増の$20bn に達したが、中国以外では利益を出すのに苦戦している。総収益は2031年までに$32bn に達する見通しだ。中国は今年、全体の76%にあたる$15.2bn を生み出すと予測され、中国以外の専用アプリの収益は$4.87bn である。"
+        },
+        {
+          "t": "p",
+          "x": "中国以外では56%がマーケティングに費やされ、さらに18%がアプリストアや決済事業者に渡る。ある月に課金するユーザーは12人に一人程度で、利益率は薄いままだ。DramaBoxは昨年3.2%の純利益率を記録した一方、ReelShortは$12m の損失を出した。ReelShort、Kunlun、NetShort、DramaBoxで中国以外の収益の65%を占める。"
+        },
+        {
+          "t": "p",
+          "x": "中国以外のアプリに掲載された新作は、2025年の約100,000本から2026年には440,000本に増えた。そのうち約75%がAIで制作され、AIで作った（AI-made）作品のコストは「ロサンゼルス（Los Angeles）で撮影したシリーズの約十分の一」だという。中国では2026年に公開された作品の10本中約九本をAIが占めるが、年間収益に占める割合は20%にすぎない。追跡対象の六つのプラットフォームのうち五つでは、上位50作品の大半を今も実写（Live-action）作品が占めている。"
+        }
+      ]
+    },
+    "movies/hazanavicius-third-hand-lesarcs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg?w=1024",
+          "cap": "Michel Hazanavicius"
+        },
+        {
+          "t": "p",
+          "x": "Michel Hazanaviciusは12月のLes Arcs Film Festivalで、AIのケーススタディの一環として新作The Third Handの独占映像を公開する。オスカー受賞（Oscar-winning）監督である彼とポストプロダクション会社Digital Districtが映像を披露し、この映画でAIを使った手法とツールを説明する。"
+        },
+        {
+          "t": "p",
+          "x": "Hazanaviciusとチームは開発段階とポストプロダクションの一部でこの技術を用いたが、実際の撮影は従来のセットと撮影手法で行った。"
+        },
+        {
+          "t": "p",
+          "x": "The Third Handでは、François Civilが第一次世界大戦で負傷したフランス兵を演じる。彼が目を覚ますとそこはマッドサイエンティストの研究室で、腹部にはドイツ兵の手が移植されていた。\"fantastique\"のカラー無声映画とうたう本作は、The Artist以来となるHazanaviciusの無声映画への回帰作だ。"
+        },
+        {
+          "t": "p",
+          "x": "ケーススタディの後には、欧州議会議員（Member of the European Parliament）のDavid Cormandを迎え、欧州がクリエイターの権利と文化的主権を守りながらAIをどう規制できるかを議論する。Les Arcs Film Festivalは12月12日から19日まで開かれる。"
+        }
+      ]
+    },
+    "movies/dw-netflix-german-dubbing-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.dw.com/image/80004535_6.jpg",
+          "cap": "Katrin Fröhlichは今後、NetflixでCameron Diazのドイツ語の声を担当しない"
+        },
+        {
+          "t": "p",
+          "x": "30年以上にわたり、Cameron Diazはドイツの画面でKatrin Fröhlichの声で話してきた。Fröhlichと同僚の声優Anne Helm（Margot Robbie担当）、Luise Helm（Scarlett Johansson担当）は動画を公開し、今後は声を提供しないと表明した。NetflixがAIの学習に彼女たちの声を使えるとする条項を含む契約に、署名を拒んでいるのだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.dw.com/image/80004579_6.jpg",
+          "cap": "Katrin Fröhlich"
+        },
+        {
+          "t": "p",
+          "x": "この条項は2026年1月からNetflixの契約に盛り込まれており、ドイツの映画・テレビ俳優の労働組合BFFSが交渉したものだ。Netflixは録音を使って自社システムを学習させられるが、録音をAI生成（AI-generated）音声の作成に使う前には、俳優から別途明示的な同意を得なければならない。理事のTill Völgerは「法律が定めていない契約上の権利を作った」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Jason Momoaのドイツ語の声を担当するMatti Klemmも署名を拒み、市民権協会（Society for Civil Rights、GFF）の支援を受けて、自分の声が学習にどう使われたかを明らかにするためNetflixを提訴している。Netflixは、人間の演技は「私たちにとって重要であり、今後もそうだ」としている。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.dw.com/image/80004594_6.jpg",
+          "cap": "Matti Klemm"
+        }
+      ]
+    },
+    "movies/elevenlabs-collaboration-2026-siff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png"
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabsは25日、韓国のAI映画プロジェクト「ザ・コラボレーション2026（The Collaboration 2026）」に技術パートナーとして参加したと発表した。"
+        },
+        {
+          "t": "p",
+          "x": "このプロジェクトでElevenLabsは、映画『純粋の時代』で知られるアン・サンフン監督とパク・ヒョンシンAI監督チームによる短編映画『ザ・シグナル』の制作に、AI音声制作ツールを提供した。"
+        },
+        {
+          "t": "p",
+          "x": "ザ・コラボレーション2026は、クリエイティブマンゴーと第52回ソウル独立映画祭が共催するAI短編劇映画プロジェクトだ。アン・サンフン、イ・ミョンセ、チャン・チョルスら韓国の映画監督7人と、パク・ヒョンシン、イ・バンソク、ホン・ジヌクらAI監督が、ElevenLabsをはじめとするグローバルAI技術企業と協業し、計7本の短編映画を完成させた。"
+        },
+        {
+          "t": "p",
+          "x": "プロジェクトの成果は27日、ソウルのCGV狎鴎亭で公開される。当日は短編映画7本の上映に加え、チームごとの制作秘話とAI技術企業によるテックキーノートが行われる。"
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabsの日本・韓国GTMリード、ホン・サンウォン氏は「韓国を代表する映画監督とAIクリエイターが新しい映画文法を試す意義深いプロジェクトに、公式制作支援パートナーとして参加することになった」と述べ、「今後もクリエイターが技術的な制約なく想像を形にできるよう、さまざまなプロジェクトを支援していく」と語った。"
+        }
+      ]
+    },
+    "movies/google-mychannel-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Googleは昨年、ユーザーについて把握している情報をもとに、個人向けのAI-generated動画や広告で埋め尽くしたフィードを作るMy Channelというシステムの特許を出願した。特許は拒絶されたが、Googleが不服を申し立てるか、修正版を再提出する可能性はある。"
+        },
+        {
+          "t": "p",
+          "x": "Patentlyzeが最初に見つけたこの特許は、昨年五月に出願され、先週公開された。My Channelは個人の属性データと視聴履歴から独自のプロンプトを作り、それをLLMに入力して本人の関心に合わせたAI動画を生成する仕組みだという。IPアドレスやGPS位置情報、ユーザーの年齢といった文脈データも収集し、最新ニュースをプロンプトの材料にすることもできる。生成はすべてGoogleのサーバー上で行われる。"
+        },
+        {
+          "t": "p",
+          "x": "特許によれば、My Channelはさまざまなジャンルの映画を丸ごと量産し、他のストリーミングサービスとも連携できる。最も不穏なのは、ユーザーのデジタルアバターを作り、生み出すコンテンツの「主人公あるいは主役キャラクター」に据えるという記述だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-4.45.02-PM.png?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "The Vergeは、この発想は芸術に触れる価値と相容れず、想定された好みに合わせて作られていないものから視聴者を遠ざけると論じている。"
+        }
+      ]
     }
   }
 }

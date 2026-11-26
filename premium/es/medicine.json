@@ -5780,6 +5780,110 @@
           "x": "Entre 114 centros médicos académicos, el hospital pasó del puesto 59 en reingresos en 2022 al 7 en 2024. \"Lo hemos hecho sin recursos adicionales\", dijo Campbell."
         }
       ]
+    },
+    "medicine/medicine-stanford-or-vision": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Validation of Computer Vision in the Operating Room for Ambient Documentation — una Research Letter de JAMA Surgery (AI in Surgery) de la Stanford University School of Medicine. El estudio busca validar la documentación ambiental de marcas de tiempo en diversos procedimientos en el quirófano."
+        },
+        {
+          "t": "p",
+          "x": "Los autores señalan que muchos de los eventos que conviene documentar dependen de señales visuales, como la entrada y salida del paciente, pero los estudios de implementación y validación en condiciones reales siguen siendo escasos. Presentan su experiencia en un solo centro al validar la documentación ambiental de marcas de tiempo en el OR en distintos procedimientos y describen el marco de gobernanza que hizo posible su implementación."
+        }
+      ]
+    },
+    "medicine/dcmc-voice-emr-upgrade": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/546538"
+        },
+        {
+          "t": "p",
+          "x": "El Centro Médico de la Universidad Católica de Daegu anunció el día 26 que ha mejorado Voice EMR (Voice Electronic Medical Record), su solución para redactar historias clínicas basada en el reconocimiento de voz con inteligencia artificial (AI)."
+        },
+        {
+          "t": "p",
+          "x": "En 2024 el centro fue el primero de la región de Daegu-Gyeongbuk en implantar Voice EMR, que ha utilizado en servicios como radiología y medicina nuclear. El sistema anterior se centraba en convertir la voz del personal médico en texto o en resumir y generar el contenido de la consulta."
+        },
+        {
+          "t": "p",
+          "x": "La versión mejorada de Voice EMR selecciona la información médicamente relevante de las conversaciones entre el personal médico y los pacientes durante la consulta, y la convierte automáticamente en historias clínicas con el formato de cada profesional. Según el centro, esto reduce la carga del tecleo repetitivo y de la documentación, y permite dedicar el tiempo que antes se pasaba registrando frente al monitor a observar el estado del paciente y comunicarse con él."
+        },
+        {
+          "t": "p",
+          "x": "Un profesor que ha usado el sistema en la práctica clínica afirmó que, al medir el estado físico de los pacientes, ahora puede observarlos con más atención en lugar de mirar el monitor."
+        },
+        {
+          "t": "p",
+          "x": "En las salas de hospitalización, el centro también utiliza Voice ENR (Voice Electronic Nursing Record), un sistema de registro electrónico de enfermería basado en la voz. Voice ENR es una solución de reconocimiento de voz que funciona con teléfonos inteligentes y permite verificar la información del paciente y registrar y guardar los cuidados de enfermería en tiempo real. Actualmente se emplea en la verificación del paciente antes de la medicación, las extracciones de sangre, las transfusiones, las pruebas y los procedimientos. El centro prevé desarrollar y aplicar nuevas funciones de forma gradual."
+        },
+        {
+          "t": "p",
+          "x": "El profesor Seol Ki-ho, subdirector de planificación, subrayó: “Un hospital inteligente no consiste simplemente en aumentar el número de sistemas de AI, sino en cambiar la forma de trabajar del hospital y el entorno asistencial mediante la tecnología de AI”. Y añadió: “Estos cambios deben traducirse en resultados concretos: mejoras en la seguridad del paciente, la calidad de la atención, la eficiencia administrativa y la experiencia del paciente”."
+        }
+      ]
+    },
+    "medicine/korotkoff-hf-deeplearning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Antecedentes: los ruidos de Korotkoff (KS) se generan de forma rutinaria durante la medición de la presión arterial, pero su posible valor para detectar la insuficiencia cardiaca (HF) sigue sin estar claro. Objetivos: evaluar el rendimiento diagnóstico del análisis de KS basado en aprendizaje profundo para detectar HF en pacientes cardiovasculares hospitalizados."
+        },
+        {
+          "t": "p",
+          "x": "Métodos: este estudio diagnóstico prospectivo y multicéntrico incluyó a 1,103 pacientes cardiovasculares hospitalizados de cuatro centros de China, de los cuales 314 (28.5%) tenían HF. Los participantes se asignaron por centro a las cohortes de entrenamiento (n=420), validación (n=287) y prueba independiente (n=396). Se desarrollaron cuatro modelos de aprendizaje profundo —Mamba, Transformer, ResNet18 y MobileNetV2— con grabaciones de KS a nivel de paciente. El rendimiento se evaluó mediante el AUC, con análisis de sensibilidad en participantes de NYHA class I y tras excluir la fibrilación auricular (AF)."
+        },
+        {
+          "t": "p",
+          "x": "Resultados: Mamba obtuvo el mejor rendimiento, con AUCs de 0.947 (95% CI, 0.926–0.967), 0.937 (0.912–0.961) y 0.924 (0.893–0.951) en las cohortes de entrenamiento, validación y prueba independiente, respectivamente. En los participantes de NYHA class I, los AUCs correspondientes fueron 0.940, 0.937 y 0.947. Tras excluir la AF, los AUCs fueron 0.937, 0.895 y 0.954, respectivamente."
+        },
+        {
+          "t": "p",
+          "x": "Conclusiones: el análisis de KS basado en aprendizaje profundo discriminó con solidez entre HF y non-HF en pacientes cardiovasculares hospitalizados. Estos hallazgos respaldan seguir evaluando la información acústica derivada de KS (KS-derived) como complemento no invasivo para la detección de casos de HF; antes de usarla para el cribado poblacional o para descartar la enfermedad por sí sola, se requiere validarla en entornos comunitarios de menor prevalencia."
+        }
+      ]
+    },
+    "medicine/npj-strep-throat-multimodal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Distinguir la faringitis por estreptococo del grupo A (GAS) de las infecciones virales de las vías respiratorias superiores (URTIs) es clave para un uso adecuado de los antibióticos, pero sigue siendo difícil solo con los síntomas. Desarrollamos y validamos internamente un modelo multimodal de inteligencia artificial (AI) que fusiona imágenes faríngeas (Swin Transformer) con metadatos clínicos mediante árboles de decisión potenciados por gradiente, a partir de 6666 visitas y 119,988 imágenes de 44 centros recogidas entre marzo de 2023 y agosto de 2025. Para discriminar GAS de non-GAS (gripe A/B, COVID-19), el modelo de fusión alcanzó un área bajo la curva (AUC) de 0.917 (intervalo de confianza del 95% 0.907–0.926), superior al modelo solo con imágenes (0.902), al de solo metadatos (0.871) y a las puntuaciones Centor/McIsaac aproximadas. Con un umbral de alta especificidad predefinido (≥0.90), la sensibilidad fue de 0.761; las simulaciones indicaron reducciones de la prescripción de antibióticos del 23–56% con prevalencias de GAS del 5–20%. Se necesitan validación externa y evaluación prospectiva."
+        }
+      ]
+    },
+    "medicine/mediwhale-doctornoon-cvd-fda": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/546012"
+        },
+        {
+          "t": "p",
+          "x": "La empresa de inteligencia artificial (AI) médica Mediwhale anunció el día 25 que su software de AI ‘DrNoon CVD’, que predice el riesgo de enfermedad cardiovascular a partir de la retina, obtuvo la autorización 510(k) (Clearance) de la Administración de Alimentos y Medicamentos de Estados Unidos (FDA). La compañía planea usar esta autorización como base para impulsar de lleno la adopción de DrNoon CVD en instituciones médicas de Estados Unidos."
+        },
+        {
+          "t": "p",
+          "x": "DrNoon CVD es un dispositivo médico que analiza con AI imágenes de la retina tomadas con una cámara de fondo de ojo para evaluar el riesgo futuro de enfermedad cardiovascular. Recibió la autorización de la FDA para estimar, a partir de imágenes de la retina, el riesgo de un primer evento de enfermedad cardiovascular aterosclerótica (ASCVD) en los próximos 10 años."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados se presentan como una puntuación de riesgo y 3 grupos de riesgo. Los médicos pueden revisarlos junto con otra información clínica del paciente y usarlos como información complementaria para evaluar el riesgo cardiovascular."
+        },
+        {
+          "t": "p",
+          "x": "En Estados Unidos ha crecido la importancia de los enfoques preventivos que evalúan y gestionan el riesgo cardiovascular en etapas tempranas. La guía de dislipidemia de 2026 del Colegio Americano de Cardiología y la Asociación Americana del Corazón también subraya la importancia del manejo temprano basado en la evaluación individual del riesgo."
+        },
+        {
+          "t": "p",
+          "x": "La empresa espera que DrNoon CVD sirva a los médicos de Estados Unidos como herramienta de evaluación del riesgo cardiovascular y contribuya a prevenir la enfermedad cardiovascular. La idea es ofrecer un enfoque que evalúe el riesgo cardiovascular mediante una fotografía no invasiva de la retina y lo vincule con un manejo preventivo. También se fijó la meta de consolidarlo como puerta de entrada a la prevención cardiovascular en la atención primaria (nivel 1) de Estados Unidos."
+        },
+        {
+          "t": "p",
+          "x": "“Los centros médicos de Estados Unidos cuentan ahora con una nueva opción para identificar el riesgo cardiovascular a bajo costo, sin extracción de sangre ni radiación”, dijo Choi Tae-geun, director ejecutivo de Mediwhale. “Sobre la evidencia demostrada en grandes cohortes sumaremos datos de uso real en Estados Unidos y lo extenderemos rápidamente a la atención primaria a través de la infraestructura de nuestros socios”."
+        }
+      ]
     }
   }
 }

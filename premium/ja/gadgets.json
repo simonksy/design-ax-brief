@@ -13481,6 +13481,133 @@
           "yt": "1nVgFoCTBD4"
         }
       ]
+    },
+    "gadgets/hp-omnibook-ultra16-rtxspark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+          "cap": "HP「OmniBook Ultra 16」"
+        },
+        {
+          "t": "p",
+          "x": "HP Koreaは24日、高性能な人工知能（AI）作業に特化したノートPC「HP OmniBook Ultra 16」を韓国で発売した。"
+        },
+        {
+          "t": "p",
+          "x": "HP OmniBook Ultra 16はNVIDIAの「RTX Spark N1X」プラットフォームを搭載した。20コアのGrace中央処理装置（CPU）と6144コアのBlackwellグラフィックス処理装置（GPU）、最大128GB の統合メモリを備える。"
+        },
+        {
+          "t": "p",
+          "x": "クラウドに接続せずに大規模AIモデルを動かすことができ、データ分析やコード作成など複数段階の作業を自動でこなすAIエージェントの活用にも対応する。高解像度の動画編集や3次元（3D）コンテンツ制作、高負荷のゲームにも使える。"
+        },
+        {
+          "t": "p",
+          "x": "Windows 11 Proを搭載し、データ暗号化や仮想化、リモートアクセスなど専門業務に必要な機能を提供する。16インチの3K 有機EL（OLED）タッチディスプレイを備え、99ワット時（Wh）のバッテリーで最大17時間使用できる。"
+        },
+        {
+          "t": "p",
+          "x": "長時間の高負荷作業に向けて冷却システムも強化した。HPのコンシューマー向けノートPCとして初めて「Tower Hinge and Trunk」構造を採用し、エアフローと放熱効率を高めた。韓国国内の購入者には3年間の無償保証を提供する。"
+        },
+        {
+          "t": "p",
+          "x": "HP Koreaのカン・ヨンナム代表は「AIが単純な質疑応答を超え、創作や業務を支援する知能型エージェント中心へと進化するなか、PCはこうしたAIワークフローを実行・開発するプラットフォームへと役割を広げている」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "さらに「韓国のユーザーはOmniBook Ultra 16を通じて、AIとともに働き、創作する新しい方法を体験することになるだろう」と付け加えた。"
+        }
+      ]
+    },
+    "gadgets/usc-stress-ring-ondevice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "University of Southern California（南カリフォルニア大学）のYasser Khan助教と、そのPhD課程の学生Farhad Hassanが率いるチームは、近赤外光で皮膚下の発汗活動を追跡するAI搭載（AI-powered）リングを開発した。成果はScience Advancesに掲載された。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+          "cap": "USC Khan Lab"
+        },
+        {
+          "t": "p",
+          "x": "「光でストレスを測定できることを示したのは、これが初めてだ」とKhanは述べた。四人の参加者による実験では、光学信号は市販のゲル式EDAセンサーと時間を通じて平均86パーセント一致した。同じ光学システムで心拍数と心拍変動も取得できる。温度センサーと加速度計により、リングは心理的ストレスを動きや熱による発汗と区別できる。"
+        },
+        {
+          "t": "p",
+          "x": "機械学習モデルはリング本体で動作するため、生の生体データを外部サーバーへ送る必要はない。チームは「量子化したINT8モデルは27.65 kB を占めた。センシングと推論を同時に実装するには、プログラムフラッシュ174.47 kB と静的RAM 27.63 kB が必要だった」と記している。リングはデータをローカルで処理し、「ストレスあり」「リラックス」といった最終判定だけをペアリングしたスマートフォンに送る。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+          "cap": "Science Advances / USC"
+        },
+        {
+          "t": "p",
+          "x": "Khanはオフィス環境で40人の参加者を対象に、一年間の追跡調査を計画している。この技術は特許手続き中で、将来的にはUSCのStevens Center for Innovationを通じて商用ライセンスが提供される可能性がある。"
+        }
+      ]
+    },
+    "gadgets/meta-glasses-south-africa-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
+        },
+        {
+          "t": "p",
+          "x": "Essilor LuxotticaとMetaは十一月末から、Ray-Ban MetaとOakley Metaのスマートアイウェアコレクションを南アフリカで展開し、現地の消費者にAI搭載（AI-powered）ウェアラブル技術という新たなカテゴリーを紹介する。"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Metaコレクションは第三世代となり、Wayfarer、Aviator、Zenaの各スタイルをそろえる。着用者は写真や動画の撮影、音楽やポッドキャストの再生、通話、メッセージ送信、会話の翻訳ができる。内蔵のMeta AI機能を使えば、見ているものについて音声コマンドで質問することもできる。"
+        },
+        {
+          "t": "p",
+          "x": "Oakley Metaコレクションはスポーツやアウトドア向けだ。HSTNは3K Ultra HDカメラ、オープンイヤースピーカー、IPX4 等級を備える。ランニングやサイクリング向けのVanguardは、視野角122度の12MP 超広角カメラ、IP67 等級、StravaとGarminとの連携を備える。"
+        },
+        {
+          "t": "p",
+          "x": "コレクションは一部のEssilor Luxottica眼鏡小売パートナー、Oakley店舗、オンラインで販売される。希望エントリー価格はRay-Ban Meta Optics (Gen 2)がR8,999、Ray-Ban Meta (Gen 3)がR8,599、Oakley Meta VanguardがR10,599、Oakley Meta HSTNがR8,399だ。"
+        }
+      ]
+    },
+    "gadgets/savage-orrorin-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "香港のスタートアップSavage Technologyが初の製品「Orrorin Glasses」を発表した。重さわずか45グラムのフレームに、Vision Pro-styleのピンチ操作と両目用のフルカラーディスプレイを搭載するという。"
+        },
+        {
+          "t": "p",
+          "x": "同社はこの眼鏡が「Vision Pro–level interaction」(Vision Pro並みの操作体験)を提供し、外部バッテリーを含むAppleのヘッドセットより約25倍軽いと説明する。ただしOrrorinの機能はかなり少ない。"
+        },
+        {
+          "t": "p",
+          "x": "Savageによれば、体の横で小さくつまむ動作だけで、リングやリストバンド、コントローラーなしにインターフェースを操作できる。視線追跡はVision Proのようにインターフェース要素の選択には使われず、装着者が目をそらすと表示がフェードする。"
+        },
+        {
+          "t": "p",
+          "x": "Meta Ray-Ban Displayは同じ$799だが、画面は右目のみでNeural Bandリストバンドが必要だ。Orrorinは位置トラッキングと空間マッピングを持たないため、Vision Proのように仮想ウィンドウを部屋に固定できない。"
+        },
+        {
+          "t": "p",
+          "x": "Bill PeiとElena Shiが共同創業したSavageは、まだエンジニアリング検証段階にある。サードパーティ製アプリや、Claude Code、CodexといったAIエージェントとの連携を打ち出し、開発者を狙う。"
+        },
+        {
+          "t": "p",
+          "x": "Orrorinの予約は$29からで、$799の価格に充当される。Savageは出荷開始をFounder Edition購入者向けに2027年3月、Early Bird購入者向けに2027年5月と見込む。"
+        }
+      ]
     }
   }
 }

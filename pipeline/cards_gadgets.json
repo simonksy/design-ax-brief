@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "gadgets",
   "cards": [
     {
-      "id": "savage-orrorin-glasses",
+      "id": "xpeng-iron-humanoid-ev-price",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Savage $799 안경\n45g에 핀치 조작",
-      "body": "Savage의 45g Orrorin은 양안 풀컬러 화면과 핀치 입력을 갖췄다.",
-      "mini_headline": "핀치 조작 $799 안경",
+      "headline": "XPeng IRON 로봇\n2027년 EV값으로 출시",
+      "body": "XPeng IRON은 Turing AI 칩으로 2027년 EV-like 값 노린다.",
+      "mini_headline": "XPeng 휴머노이드, EV 가격 겨냥",
       "tool": "Gadgets",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/25/smart-glasses-promise-vision-pro-style-controls/",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/cool-tech/xpeng-iron-humanoid-robot-ev-price-home/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,221 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+            "cap": "XPENG"
           },
           {
             "t": "p",
-            "x": "홍콩 스타트업 Savage Technology가 첫 제품 \"Orrorin Glasses\"를 발표했다. 무게 45그램에 불과한 프레임에 Vision Pro-style 핀치 조작과 양안 풀컬러 디스플레이를 담았다."
+            "x": "중국 EV 업체 XPeng은 IRON 휴머노이드 로봇을 2027년 일반에 판매할 때 가격이 전기차 한 대 값과 비슷할 수 있다고 밝혔다. 궁극적으로는 IRON을 가정에 들일 생각이지만 상업 현장 배치가 먼저다."
           },
           {
             "t": "p",
-            "x": "회사 설명으로는 이 안경이 \"Vision Pro–level interaction\"(Vision Pro 수준의 상호작용)을 내면서도 외장 배터리까지 더한 Apple 헤드셋보다 약 25배 가볍다. 다만 Orrorin이 할 수 있는 일은 훨씬 적다."
+            "x": "XPeng의 Brian Gu 부회장은 Bloomberg에 IRON 가격이 EV 판매가 중앙값 수준일 수 있다고 했지만 정확한 금액은 밝히지 않았다. 로봇은 2027년 1분기 XPeng 매장에서 판매 보조원으로 훈련을 시작하고, 2분기에 일반 판매에 들어간다. XPeng은 그해 휴머노이드 로봇을 수만 대 팔겠다는 목표다."
           },
           {
             "t": "p",
-            "x": "Savage에 따르면 링이나 손목 밴드, 컨트롤러 없이 몸 옆에서 손가락을 살짝 집기만 하면 인터페이스를 다룬다. 시선 추적은 Vision Pro와 달리 인터페이스 요소를 고르는 데 쓰지 않는다. 착용자가 눈을 돌리면 화면을 흐리게 지우는 용도다."
+            "x": "XPeng이 AI Day에서 공개한 IRON 최신 버전은 무대에서 청중 질문에 실시간으로 답했다. 자유도 76에 1,500개가 넘는 촉각 감지점, 탑재 모델과 전신 제어를 맡는 자체 Turing AI 칩 세 개를 갖췄다. XPeng에 따르면 IRON은 스스로 이동하고 음성이나 앱으로 작업을 받으며, 직접 충전하고 자기 작동 상태도 점검한다."
           },
           {
             "t": "p",
-            "x": "Meta Ray-Ban Display는 같은 $799이지만 오른쪽 눈에만 화면이 있고 Neural Band 손목 밴드가 필요하다. Orrorin은 위치 추적과 공간 매핑이 없어 Vision Pro처럼 가상 창을 방 안에 고정할 수 없다."
+            "x": "XPeng은 상업 환경에서 출발해 산업 분야로, 이어 가정으로 영역을 넓힐 계획이다. Gu는 상업 활용에 성공한 뒤 한두 해 안에 가정 배치가 시작될 수 있다고 내다봤다. 풀어야 할 과제로는 어린이·노인·반려동물 곁에서의 안전을 꼽았다."
           },
           {
             "t": "p",
-            "x": "Bill Pei와 Elena Shi가 공동 창업한 Savage는 아직 엔지니어링 검증 단계다. 서드파티 앱은 물론 Claude Code, Codex 같은 AI 에이전트와도 연동된다며 개발자를 겨냥한다."
-          },
-          {
-            "t": "p",
-            "x": "Orrorin 예약금은 $29부터이며 $799 가격에 포함된다. Savage는 Founder Edition 구매자에게 2027년 3월, Early Bird 구매자에게 2027년 5월부터 배송을 시작할 것으로 내다본다."
+            "x": "XPeng은 하드웨어뿐 아니라 소프트웨어 구독과 업그레이드, 교육, 서비스에서 생기는 반복 매출도 기대한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Savage's $799 Orrorin Glasses\nbring pinch controls to 45g",
-          "body": "Savage Technology's 45-gram Orrorin Glasses pair full-color displays for both eyes with Vision Pro-style pinch input.",
-          "mini_headline": "$799 glasses\nwith pinch controls",
+          "headline": "XPeng's IRON humanoid aims\nfor a 2027 launch at EV prices",
+          "body": "XPeng's IRON humanoid runs AI models on three in-house Turing chips and targets a 2027 launch at an EV-like price.",
+          "mini_headline": "XPeng's humanoid eyes EV pricing",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+                "cap": "XPENG"
               },
               {
                 "t": "p",
-                "x": "Hong Kong startup Savage Technology has announced its first product, \"Orrorin Glasses,\" promising Vision Pro-style pinch controls and full-color displays for both eyes in a frame weighing just 45 grams."
+                "x": "Chinese EV maker XPeng says its IRON humanoid robot could cost roughly as much as an electric vehicle when it goes on sale to the public in 2027. Eventually, XPeng wants IRON working in homes, although commercial deployment comes first."
               },
               {
                 "t": "p",
-                "x": "The company describes the glasses as offering \"Vision Pro–level interaction\" and being around 25 times lighter than Apple's headset, including its external battery, although Orrorin offers substantially fewer capabilities."
+                "x": "XPeng Vice Chairman Brian Gu told Bloomberg that IRON could be priced around the median selling price of an EV, without revealing an exact figure. The robot is scheduled to begin training as a retail assistant at XPeng stores in the first quarter of 2027, before its public launch in the second quarter. XPeng is targeting sales of tens of thousands of humanoid robots that year."
               },
               {
                 "t": "p",
-                "x": "Savage says small pinches performed at the user's side control the interface without a ring, wristband, or controller. Eye tracking makes the display fade when the wearer looks away, rather than selecting interface elements as it does on Vision Pro."
+                "x": "At its AI Day, XPeng showcased the latest version of IRON, which answered audience questions live on stage. It features 76 degrees of freedom, more than 1,500 tactile sensing points, and three in-house Turing AI chips powering its onboard models and whole-body control. XPeng says it can navigate autonomously, accept tasks through voice or an app, recharge itself, and monitor its own operational health."
               },
               {
                 "t": "p",
-                "x": "The Meta Ray-Ban Display costs the same $799 but has a screen for only the right eye and requires a Neural Band wristband. Orrorin lacks positional tracking and spatial mapping, so it cannot anchor virtual windows in a room like Vision Pro."
+                "x": "XPeng is starting with commercial environments before moving into industrial applications and, eventually, homes. Gu suggested household deployment could begin one to two years after successful commercial use, with safety around children, elderly people, and pets among the challenges to address."
               },
               {
                 "t": "p",
-                "x": "Co-founded by Bill Pei and Elena Shi, Savage remains in engineering validation and is targeting developers with third-party apps and interaction with AI agents such as Claude Code and Codex."
-              },
-              {
-                "t": "p",
-                "x": "Orrorin reservations start at $29 toward the $799 price. Savage estimates shipments will begin in March 2027 for Founder Edition buyers and May 2027 for Early Bird buyers."
+                "x": "XPeng also sees recurring revenue beyond the hardware, from software subscriptions, upgrades, training, and services."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Savage $799 안경\n45g에 핀치 조작",
-          "body": "Savage의 45g Orrorin은 양안 풀컬러 화면과 핀치 입력을 갖췄다.",
-          "mini_headline": "핀치 조작 $799 안경",
+          "headline": "XPeng IRON 로봇\n2027년 EV값으로 출시",
+          "body": "XPeng IRON은 Turing AI 칩으로 2027년 EV-like 값 노린다.",
+          "mini_headline": "XPeng 휴머노이드, EV 가격 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+                "cap": "XPENG"
               },
               {
                 "t": "p",
-                "x": "홍콩 스타트업 Savage Technology가 첫 제품 \"Orrorin Glasses\"를 발표했다. 무게 45그램에 불과한 프레임에 Vision Pro-style 핀치 조작과 양안 풀컬러 디스플레이를 담았다."
+                "x": "중국 EV 업체 XPeng은 IRON 휴머노이드 로봇을 2027년 일반에 판매할 때 가격이 전기차 한 대 값과 비슷할 수 있다고 밝혔다. 궁극적으로는 IRON을 가정에 들일 생각이지만 상업 현장 배치가 먼저다."
               },
               {
                 "t": "p",
-                "x": "회사 설명으로는 이 안경이 \"Vision Pro–level interaction\"(Vision Pro 수준의 상호작용)을 내면서도 외장 배터리까지 더한 Apple 헤드셋보다 약 25배 가볍다. 다만 Orrorin이 할 수 있는 일은 훨씬 적다."
+                "x": "XPeng의 Brian Gu 부회장은 Bloomberg에 IRON 가격이 EV 판매가 중앙값 수준일 수 있다고 했지만 정확한 금액은 밝히지 않았다. 로봇은 2027년 1분기 XPeng 매장에서 판매 보조원으로 훈련을 시작하고, 2분기에 일반 판매에 들어간다. XPeng은 그해 휴머노이드 로봇을 수만 대 팔겠다는 목표다."
               },
               {
                 "t": "p",
-                "x": "Savage에 따르면 링이나 손목 밴드, 컨트롤러 없이 몸 옆에서 손가락을 살짝 집기만 하면 인터페이스를 다룬다. 시선 추적은 Vision Pro와 달리 인터페이스 요소를 고르는 데 쓰지 않는다. 착용자가 눈을 돌리면 화면을 흐리게 지우는 용도다."
+                "x": "XPeng이 AI Day에서 공개한 IRON 최신 버전은 무대에서 청중 질문에 실시간으로 답했다. 자유도 76에 1,500개가 넘는 촉각 감지점, 탑재 모델과 전신 제어를 맡는 자체 Turing AI 칩 세 개를 갖췄다. XPeng에 따르면 IRON은 스스로 이동하고 음성이나 앱으로 작업을 받으며, 직접 충전하고 자기 작동 상태도 점검한다."
               },
               {
                 "t": "p",
-                "x": "Meta Ray-Ban Display는 같은 $799이지만 오른쪽 눈에만 화면이 있고 Neural Band 손목 밴드가 필요하다. Orrorin은 위치 추적과 공간 매핑이 없어 Vision Pro처럼 가상 창을 방 안에 고정할 수 없다."
+                "x": "XPeng은 상업 환경에서 출발해 산업 분야로, 이어 가정으로 영역을 넓힐 계획이다. Gu는 상업 활용에 성공한 뒤 한두 해 안에 가정 배치가 시작될 수 있다고 내다봤다. 풀어야 할 과제로는 어린이·노인·반려동물 곁에서의 안전을 꼽았다."
               },
               {
                 "t": "p",
-                "x": "Bill Pei와 Elena Shi가 공동 창업한 Savage는 아직 엔지니어링 검증 단계다. 서드파티 앱은 물론 Claude Code, Codex 같은 AI 에이전트와도 연동된다며 개발자를 겨냥한다."
-              },
-              {
-                "t": "p",
-                "x": "Orrorin 예약금은 $29부터이며 $799 가격에 포함된다. Savage는 Founder Edition 구매자에게 2027년 3월, Early Bird 구매자에게 2027년 5월부터 배송을 시작할 것으로 내다본다."
+                "x": "XPeng은 하드웨어뿐 아니라 소프트웨어 구독과 업그레이드, 교육, 서비스에서 생기는 반복 매출도 기대한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Savage $799の眼鏡\n45gでピンチ操作",
-          "body": "Savageの45g Orrorinは両目フルカラー表示とピンチ操作を備える。",
-          "mini_headline": "ピンチ操作の$799眼鏡",
+          "headline": "XPengのIRON\n2027年にEV価格で発売へ",
+          "body": "XPengのIRONはTuring AIチップ搭載で2027年にEV-like価格を狙う。",
+          "mini_headline": "XPengの人型ロボ、EV並み価格へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+                "cap": "XPENG"
               },
               {
                 "t": "p",
-                "x": "香港のスタートアップSavage Technologyが初の製品「Orrorin Glasses」を発表した。重さわずか45グラムのフレームに、Vision Pro-styleのピンチ操作と両目用のフルカラーディスプレイを搭載するという。"
+                "x": "中国のEVメーカーXPengは、人型ロボットIRONが2027年に一般向けに発売される際、価格は電気自動車とほぼ同程度になり得ると述べた。XPengは最終的にIRONを家庭で働かせたい考えだが、まずは商業施設への導入を優先する。"
               },
               {
                 "t": "p",
-                "x": "同社はこの眼鏡が「Vision Pro–level interaction」(Vision Pro並みの操作体験)を提供し、外部バッテリーを含むAppleのヘッドセットより約25倍軽いと説明する。ただしOrrorinの機能はかなり少ない。"
+                "x": "XPengのBrian Gu副会長はBloombergに対し、IRONの価格はEVの販売価格の中央値前後になり得ると語ったが、具体的な金額は明かさなかった。同ロボットは2027年第一四半期にXPengの店舗で販売アシスタントとしての訓練を始め、第二四半期に一般発売される予定だ。XPengは同年に人型ロボットを数万台販売することを目指している。"
               },
               {
                 "t": "p",
-                "x": "Savageによれば、体の横で小さくつまむ動作だけで、リングやリストバンド、コントローラーなしにインターフェースを操作できる。視線追跡はVision Proのようにインターフェース要素の選択には使われず、装着者が目をそらすと表示がフェードする。"
+                "x": "XPengはAI DayでIRONの最新版を披露し、IRONは壇上で観客の質問にその場で答えた。自由度は76、触覚センシングポイントは1,500以上で、搭載モデルと全身制御を担う自社製Turing AIチップを三基備える。XPengによれば、自律移動、音声やアプリによるタスクの受け付け、自己充電、自らの稼働状態の監視が可能だという。"
               },
               {
                 "t": "p",
-                "x": "Meta Ray-Ban Displayは同じ$799だが、画面は右目のみでNeural Bandリストバンドが必要だ。Orrorinは位置トラッキングと空間マッピングを持たないため、Vision Proのように仮想ウィンドウを部屋に固定できない。"
+                "x": "XPengはまず商業環境から始め、産業用途を経て、最終的に家庭へと展開する。Guは、商業利用が成功してから一～二年後に家庭への導入が始まる可能性を示唆し、子ども、高齢者、ペットの周囲での安全性が解決すべき課題の一つだとした。"
               },
               {
                 "t": "p",
-                "x": "Bill PeiとElena Shiが共同創業したSavageは、まだエンジニアリング検証段階にある。サードパーティ製アプリや、Claude Code、CodexといったAIエージェントとの連携を打ち出し、開発者を狙う。"
-              },
-              {
-                "t": "p",
-                "x": "Orrorinの予約は$29からで、$799の価格に充当される。Savageは出荷開始をFounder Edition購入者向けに2027年3月、Early Bird購入者向けに2027年5月と見込む。"
+                "x": "XPengはハードウェア以外にも、ソフトウェアのサブスクリプション、アップグレード、トレーニング、サービスによる継続収益を見込んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Savage $799眼镜\n45g机身支持捏合操控",
-          "body": "Savage的45g Orrorin眼镜为双眼配备全彩显示屏，并支持捏合操控。",
-          "mini_headline": "支持捏合操控的$799眼镜",
+          "headline": "XPeng IRON机器人\n2027年以EV价格上市",
+          "body": "XPeng IRON搭载三颗Turing AI芯片，拟2027年以EV-like价格上市。",
+          "mini_headline": "XPeng人形机器人瞄准EV价格",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+                "cap": "XPENG"
               },
               {
                 "t": "p",
-                "x": "香港初创公司Savage Technology发布首款产品“Orrorin Glasses”，在仅重45克的镜框中提供Vision Pro-style捏合操控和双眼全彩显示屏。"
+                "x": "中国EV制造商XPeng表示，其IRON人形机器人2027年面向公众发售时，价格可能与一辆电动汽车大致相当。XPeng最终希望IRON走进家庭，但会先进行商业部署。"
               },
               {
                 "t": "p",
-                "x": "该公司称这款眼镜提供“Vision Pro–level interaction”（Vision Pro级交互），比含外置电池的Apple头显轻约25倍，但Orrorin的功能要少得多。"
+                "x": "XPeng副董事长Brian Gu对Bloomberg表示，IRON的定价可能在EV销售价格中位数左右，但未透露具体数字。该机器人计划于2027年第一季度开始在XPeng门店接受零售助理培训，随后在第二季度面向公众发布。XPeng的目标是当年销售数万台人形机器人。"
               },
               {
                 "t": "p",
-                "x": "Savage表示，用户只需在身体一侧做出细微的捏合动作，无需戒指、腕带或控制器即可操控界面。眼动追踪不像Vision Pro那样用于选择界面元素，而是在佩戴者移开视线时让显示内容淡出。"
+                "x": "XPeng在AI Day上展示了最新版IRON，它在台上现场回答了观众提问。IRON拥有76个自由度、1,500多个触觉感知点，并配备三颗自研Turing AI芯片，驱动其端侧模型和全身控制。XPeng称，它能够自主导航，通过语音或应用接收任务，自动充电，并监测自身运行状态。"
               },
               {
                 "t": "p",
-                "x": "Meta Ray-Ban Display售价同为$799，但只有右眼有屏幕，并需搭配Neural Band腕带。Orrorin缺少位置追踪和空间映射，因此无法像Vision Pro那样把虚拟窗口固定在房间里。"
+                "x": "XPeng将从商业环境起步，再进入工业应用，最终走进家庭。Gu表示，家庭部署可能在商业应用取得成功后一到两年内启动，儿童、老人和宠物身边的安全是需要解决的挑战之一。"
               },
               {
                 "t": "p",
-                "x": "Savage由Bill Pei和Elena Shi联合创立，目前仍处于工程验证阶段，主打第三方应用以及与Claude Code、Codex等AI智能体的交互，面向开发者。"
-              },
-              {
-                "t": "p",
-                "x": "Orrorin预订金$29起，可抵扣$799售价。Savage预计Founder Edition买家将于2027年3月开始收到发货，Early Bird买家则为2027年5月。"
+                "x": "除硬件外，XPeng还看好来自软件订阅、升级、培训和服务的持续性收入。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las Orrorin Glasses de $799\nllevan el gesto de pinza a 45g",
-          "body": "Las Orrorin Glasses de Savage Technology pesan 45 gramos y combinan pantallas a todo color con control por pinza.",
-          "mini_headline": "Gafas de $799 con control por pinza",
+          "headline": "El humanoide IRON de XPeng\napunta a 2027 con precio de EV",
+          "body": "El humanoide IRON de XPeng ejecuta modelos de AI en tres chips Turing propios y apunta a 2027 con un precio EV-like.",
+          "mini_headline": "El humanoide de XPeng apunta a precio de EV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+                "cap": "XPENG"
               },
               {
                 "t": "p",
-                "x": "La startup de Hong Kong Savage Technology ha anunciado su primer producto, \"Orrorin Glasses\", que promete controles por pinza Vision Pro-style y pantallas a todo color para ambos ojos en una montura de solo 45 gramos."
+                "x": "El fabricante chino de EV XPeng afirma que su robot humanoide IRON podría costar aproximadamente lo mismo que un vehículo eléctrico cuando salga a la venta al público en 2027. A largo plazo, XPeng quiere que IRON trabaje en los hogares, aunque primero llegará el despliegue comercial."
               },
               {
                 "t": "p",
-                "x": "La empresa describe las gafas como una propuesta de \"Vision Pro–level interaction\" (interacción al nivel de Vision Pro) y afirma que son unas 25 veces más ligeras que el visor de Apple, incluida su batería externa, aunque Orrorin ofrece bastantes menos funciones."
+                "x": "El vicepresidente de XPeng, Brian Gu, dijo a Bloomberg que IRON podría tener un precio cercano a la mediana del precio de venta de un EV, sin revelar una cifra exacta. Está previsto que el robot comience a formarse como asistente de venta en tiendas de XPeng en el primer trimestre de 2027, antes de su lanzamiento al público en el segundo trimestre. XPeng aspira a vender decenas de miles de robots humanoides ese año."
               },
               {
                 "t": "p",
-                "x": "Savage afirma que pequeños gestos de pinza realizados a un costado del cuerpo controlan la interfaz sin anillo, pulsera ni mando. El seguimiento ocular hace que la pantalla se desvanezca cuando el usuario aparta la mirada, en lugar de seleccionar elementos de la interfaz como en Vision Pro."
+                "x": "En su AI Day, XPeng mostró la versión más reciente de IRON, que respondió en directo a preguntas del público sobre el escenario. Cuenta con 76 grados de libertad, más de 1,500 puntos de detección táctil y tres chips Turing AI propios que impulsan sus modelos integrados y el control de todo el cuerpo. Según XPeng, puede desplazarse de forma autónoma, recibir tareas por voz o mediante una app, recargarse solo y supervisar su propio estado operativo."
               },
               {
                 "t": "p",
-                "x": "Las Meta Ray-Ban Display cuestan los mismos $799, pero solo tienen pantalla en el ojo derecho y requieren la pulsera Neural Band. Orrorin carece de seguimiento posicional y mapeo espacial, por lo que no puede anclar ventanas virtuales en una habitación como Vision Pro."
+                "x": "XPeng empezará por entornos comerciales antes de pasar a aplicaciones industriales y, finalmente, a los hogares. Gu sugirió que el despliegue doméstico podría comenzar entre uno y dos años después de un uso comercial exitoso, y que la seguridad en torno a niños, personas mayores y mascotas figura entre los retos por resolver."
               },
               {
                 "t": "p",
-                "x": "Cofundada por Bill Pei y Elena Shi, Savage sigue en fase de validación de ingeniería y se dirige a desarrolladores con apps de terceros e interacción con agentes AI como Claude Code y Codex."
-              },
-              {
-                "t": "p",
-                "x": "Las reservas de Orrorin empiezan en $29, que se descuentan del precio de $799. Savage calcula que los envíos comenzarán en marzo de 2027 para los compradores de Founder Edition y en mayo de 2027 para los de Early Bird."
+                "x": "XPeng también prevé ingresos recurrentes más allá del hardware, procedentes de suscripciones de software, actualizaciones, formación y servicios."
               }
             ]
           }
@@ -241,153 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Savage $799 안경\n45g에 핀치 조작",
-          "body": "Savage의 45g Orrorin은 양안 풀컬러 화면과 핀치 입력을 갖췄다.",
-          "mini_headline": "핀치 조작 $799 안경",
+          "headline": "XPeng IRON 로봇\n2027년 EV값에 출시",
+          "body": "XPeng IRON은 Turing AI 칩으로 2027년 EV-like 값 노린다.",
+          "mini_headline": "XPeng 휴머노이드, EV 가격 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+                "cap": "XPENG"
               },
               {
                 "t": "p",
-                "x": "홍콩 스타트업 Savage Technology가 첫 제품 \"Orrorin Glasses\"를 발표했다. 무게가 45그램에 불과한 프레임에 Vision Pro-style 핀치 조작과 양안 풀컬러 디스플레이를 담았다고 밝혔다."
+                "x": "중국 EV 업체 XPeng은 IRON 휴머노이드 로봇이 2027년 일반 판매를 시작하면 가격이 전기차 한 대와 비슷한 수준이 될 수 있다고 밝혔다. XPeng은 장기적으로 IRON을 가정에 들이려 하지만, 상업 현장 배치가 먼저다."
               },
               {
                 "t": "p",
-                "x": "회사는 이 안경이 \"Vision Pro–level interaction\"(Vision Pro 수준의 상호작용)을 제공하며, 외장 배터리를 포함한 Apple 헤드셋보다 약 25배 가볍다고 설명한다. 다만 Orrorin이 제공하는 기능은 훨씬 적다."
+                "x": "XPeng의 Brian Gu 부회장은 Bloomberg에 IRON 가격이 EV 판매가 중앙값 수준이 될 수 있다고 말했지만, 정확한 금액은 밝히지 않았다. 이 로봇은 2027년 첫 분기에 XPeng 매장에서 판매 보조원으로 훈련을 시작하고, 두 번째 분기에 일반에 출시될 예정이다. XPeng은 그해 휴머노이드 로봇 수만 대 판매를 목표로 한다."
               },
               {
                 "t": "p",
-                "x": "Savage에 따르면 사용자가 몸 옆에서 손가락을 작게 집는 동작만으로 링이나 손목 밴드, 컨트롤러 없이 인터페이스를 조작할 수 있다. 시선 추적은 Vision Pro처럼 인터페이스 요소를 고르는 데 쓰이지 않고, 착용자가 시선을 돌리면 화면이 흐려지며 사라지게 한다."
+                "x": "XPeng은 AI Day에서 IRON 최신 버전을 공개했고, IRON은 무대에서 청중의 질문에 실시간으로 답했다. 자유도 76, 1,500개가 넘는 촉각 감지점, 탑재 모델과 전신 제어를 맡는 자체 Turing AI 칩 세 개를 갖췄다. XPeng에 따르면 IRON은 스스로 이동하고, 음성이나 앱으로 작업을 받고, 직접 충전하며, 자신의 작동 상태를 점검할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Meta Ray-Ban Display는 같은 $799이지만 오른쪽 눈에만 화면이 있고 Neural Band 손목 밴드가 필요하다. Orrorin은 위치 추적과 공간 매핑이 없어 Vision Pro처럼 가상 창을 방 안에 고정할 수 없다."
+                "x": "XPeng은 상업 환경에서 출발해 산업 분야로, 이어 가정으로 영역을 넓힐 계획이다. Gu는 상업 활용에 성공한 뒤 한두 해 안에 가정 배치가 시작될 수 있다고 내다봤으며, 어린이·노인·반려동물 곁에서의 안전을 풀어야 할 과제로 꼽았다."
               },
               {
                 "t": "p",
-                "x": "Bill Pei와 Elena Shi가 공동 창업한 Savage는 아직 엔지니어링 검증 단계에 있으며, 서드파티 앱과 Claude Code, Codex 같은 AI 에이전트와의 연동을 내세워 개발자를 겨냥한다."
-              },
-              {
-                "t": "p",
-                "x": "Orrorin 예약금은 $29부터이며 $799 가격에 포함된다. Savage는 Founder Edition 구매자에게 2027년 3월, Early Bird 구매자에게 2027년 5월부터 배송이 시작될 것으로 예상한다."
+                "x": "XPeng은 하드웨어 외에도 소프트웨어 구독, 업그레이드, 교육, 서비스에서 나오는 반복 매출을 기대한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Savage $799の眼鏡\n45gでピンチ操作",
-          "body": "Savageの45g Orrorinは両目フルカラー表示とピンチ操作を備える。",
-          "mini_headline": "ピンチ操作の$799眼鏡",
+          "headline": "XPengのIRON\n2027年にEV価格で発売へ",
+          "body": "XPengのIRONはTuring AIチップ搭載で2027年にEV-like価格を狙う。",
+          "mini_headline": "XPengの人型ロボ、EV並み価格へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+                "cap": "XPENG"
               },
               {
                 "t": "p",
-                "x": "香港のスタートアップSavage Technologyが初の製品「Orrorin Glasses」を発表した。重さわずか45グラムのフレームに、Vision Pro-styleのピンチ操作と両目用のフルカラーディスプレイを搭載するという。"
+                "x": "中国のEVメーカーXPengは、人型ロボットIRONが2027年に一般向けに発売される際、価格は電気自動車とほぼ同程度になり得ると述べた。XPengは最終的にIRONを家庭で働かせたい考えだが、まずは商業施設への導入を優先する。"
               },
               {
                 "t": "p",
-                "x": "同社はこの眼鏡が「Vision Pro–level interaction」(Vision Pro並みの操作体験)を提供し、外部バッテリーを含むAppleのヘッドセットより約25倍軽いと説明する。ただしOrrorinの機能はかなり少ない。"
+                "x": "XPengのBrian Gu副会長はBloombergに対し、IRONの価格はEVの販売価格の中央値前後になり得ると語ったが、具体的な金額は明かさなかった。同ロボットは2027年第一四半期にXPengの店舗で販売アシスタントとしての訓練を始め、第二四半期に一般発売される予定だ。XPengは同年に人型ロボットを数万台販売することを目指している。"
               },
               {
                 "t": "p",
-                "x": "Savageによれば、体の横で小さくつまむ動作だけで、リングやリストバンド、コントローラーなしにインターフェースを操作できる。視線追跡はVision Proのようにインターフェース要素の選択には使われず、装着者が目をそらすと表示がフェードする。"
+                "x": "XPengはAI DayでIRONの最新版を披露し、IRONは壇上で観客の質問にその場で答えた。自由度は76、触覚センシングポイントは1,500以上で、搭載モデルと全身制御を担う自社製Turing AIチップを三基備える。XPengによれば、自律移動、音声やアプリによるタスクの受け付け、自己充電、自らの稼働状態の監視が可能だという。"
               },
               {
                 "t": "p",
-                "x": "Meta Ray-Ban Displayは同じ$799だが、画面は右目のみでNeural Bandリストバンドが必要だ。Orrorinは位置トラッキングと空間マッピングを持たないため、Vision Proのように仮想ウィンドウを部屋に固定できない。"
+                "x": "XPengはまず商業環境から始め、産業用途を経て、最終的に家庭へと展開する。Guは、商業利用が成功してから一～二年後に家庭への導入が始まる可能性を示唆し、子ども、高齢者、ペットの周囲での安全性が解決すべき課題の一つだとした。"
               },
               {
                 "t": "p",
-                "x": "Bill PeiとElena Shiが共同創業したSavageは、まだエンジニアリング検証段階にある。サードパーティ製アプリや、Claude Code、CodexといったAIエージェントとの連携を打ち出し、開発者を狙う。"
-              },
-              {
-                "t": "p",
-                "x": "Orrorinの予約は$29からで、$799の価格に充当される。Savageは出荷開始をFounder Edition購入者向けに2027年3月、Early Bird購入者向けに2027年5月と見込む。"
+                "x": "XPengはハードウェア以外にも、ソフトウェアのサブスクリプション、アップグレード、トレーニング、サービスによる継続収益を見込んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Savage $799眼镜\n45g机身支持捏合操控",
-          "body": "Savage的45g Orrorin眼镜为双眼配备全彩显示屏，并支持捏合操控。",
-          "mini_headline": "支持捏合操控的$799眼镜",
+          "headline": "XPeng IRON机器人\n2027年以EV价格上市",
+          "body": "XPeng IRON搭载三颗Turing AI芯片，拟2027年以EV-like价格上市。",
+          "mini_headline": "XPeng人形机器人瞄准EV价格",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+                "cap": "XPENG"
               },
               {
                 "t": "p",
-                "x": "香港初创公司Savage Technology发布首款产品“Orrorin Glasses”，在仅重45克的镜框中提供Vision Pro-style捏合操控和双眼全彩显示屏。"
+                "x": "中国EV制造商XPeng表示，其IRON人形机器人2027年面向公众发售时，价格可能与一辆电动汽车大致相当。XPeng最终希望IRON走进家庭，但会先进行商业部署。"
               },
               {
                 "t": "p",
-                "x": "该公司称这款眼镜提供“Vision Pro–level interaction”（Vision Pro级交互），比含外置电池的Apple头显轻约25倍，但Orrorin的功能要少得多。"
+                "x": "XPeng副董事长Brian Gu对Bloomberg表示，IRON的定价可能在EV销售价格中位数左右，但未透露具体数字。该机器人计划于2027年第一季度开始在XPeng门店接受零售助理培训，随后在第二季度面向公众发布。XPeng的目标是当年销售数万台人形机器人。"
               },
               {
                 "t": "p",
-                "x": "Savage表示，用户只需在身体一侧做出细微的捏合动作，无需戒指、腕带或控制器即可操控界面。眼动追踪不像Vision Pro那样用于选择界面元素，而是在佩戴者移开视线时让显示内容淡出。"
+                "x": "XPeng在AI Day上展示了最新版IRON，它在台上现场回答了观众提问。IRON拥有76个自由度、1,500多个触觉感知点，并配备三颗自研Turing AI芯片，驱动其端侧模型和全身控制。XPeng称，它能够自主导航，通过语音或应用接收任务，自动充电，并监测自身运行状态。"
               },
               {
                 "t": "p",
-                "x": "Meta Ray-Ban Display售价同为$799，但只有右眼有屏幕，并需搭配Neural Band腕带。Orrorin缺少位置追踪和空间映射，因此无法像Vision Pro那样把虚拟窗口固定在房间里。"
+                "x": "XPeng将从商业环境起步，再进入工业应用，最终走进家庭。Gu表示，家庭部署可能在商业应用取得成功后一到两年内启动，儿童、老人和宠物身边的安全是需要解决的挑战之一。"
               },
               {
                 "t": "p",
-                "x": "Savage由Bill Pei和Elena Shi联合创立，目前仍处于工程验证阶段，主打第三方应用以及与Claude Code、Codex等AI智能体的交互，面向开发者。"
-              },
-              {
-                "t": "p",
-                "x": "Orrorin预订金$29起，可抵扣$799售价。Savage预计Founder Edition买家将于2027年3月开始收到发货，Early Bird买家则为2027年5月。"
+                "x": "除硬件外，XPeng还看好来自软件订阅、升级、培训和服务的持续性收入。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las Orrorin Glasses de $799\nllevan el gesto de pinza a 45g",
-          "body": "Las Orrorin Glasses de Savage Technology pesan 45 gramos y combinan pantallas a todo color con control por pinza.",
-          "mini_headline": "Gafas de $799 con control por pinza",
+          "headline": "El humanoide IRON de XPeng\napunta a 2027 con precio de EV",
+          "body": "El humanoide IRON de XPeng ejecuta modelos de AI en tres chips Turing propios y apunta a 2027 con un precio EV-like.",
+          "mini_headline": "El humanoide de XPeng apunta a precio de EV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+                "cap": "XPENG"
               },
               {
                 "t": "p",
-                "x": "La startup de Hong Kong Savage Technology ha anunciado su primer producto, \"Orrorin Glasses\", que promete controles por pinza Vision Pro-style y pantallas a todo color para ambos ojos en una montura de solo 45 gramos."
+                "x": "El fabricante chino de EV XPeng afirma que su robot humanoide IRON podría costar aproximadamente lo mismo que un vehículo eléctrico cuando salga a la venta al público en 2027. A largo plazo, XPeng quiere que IRON trabaje en los hogares, aunque primero llegará el despliegue comercial."
               },
               {
                 "t": "p",
-                "x": "La empresa describe las gafas como una propuesta de \"Vision Pro–level interaction\" (interacción al nivel de Vision Pro) y afirma que son unas 25 veces más ligeras que el visor de Apple, incluida su batería externa, aunque Orrorin ofrece bastantes menos funciones."
+                "x": "El vicepresidente de XPeng, Brian Gu, dijo a Bloomberg que IRON podría tener un precio cercano a la mediana del precio de venta de un EV, sin revelar una cifra exacta. Está previsto que el robot comience a formarse como asistente de venta en tiendas de XPeng en el primer trimestre de 2027, antes de su lanzamiento al público en el segundo trimestre. XPeng aspira a vender decenas de miles de robots humanoides ese año."
               },
               {
                 "t": "p",
-                "x": "Savage afirma que pequeños gestos de pinza realizados a un costado del cuerpo controlan la interfaz sin anillo, pulsera ni mando. El seguimiento ocular hace que la pantalla se desvanezca cuando el usuario aparta la mirada, en lugar de seleccionar elementos de la interfaz como en Vision Pro."
+                "x": "En su AI Day, XPeng mostró la versión más reciente de IRON, que respondió en directo a preguntas del público sobre el escenario. Cuenta con 76 grados de libertad, más de 1,500 puntos de detección táctil y tres chips Turing AI propios que impulsan sus modelos integrados y el control de todo el cuerpo. Según XPeng, puede desplazarse de forma autónoma, recibir tareas por voz o mediante una app, recargarse solo y supervisar su propio estado operativo."
               },
               {
                 "t": "p",
-                "x": "Las Meta Ray-Ban Display cuestan los mismos $799, pero solo tienen pantalla en el ojo derecho y requieren la pulsera Neural Band. Orrorin carece de seguimiento posicional y mapeo espacial, por lo que no puede anclar ventanas virtuales en una habitación como Vision Pro."
+                "x": "XPeng empezará por entornos comerciales antes de pasar a aplicaciones industriales y, finalmente, a los hogares. Gu sugirió que el despliegue doméstico podría comenzar entre uno y dos años después de un uso comercial exitoso, y que la seguridad en torno a niños, personas mayores y mascotas figura entre los retos por resolver."
               },
               {
                 "t": "p",
-                "x": "Cofundada por Bill Pei y Elena Shi, Savage sigue en fase de validación de ingeniería y se dirige a desarrolladores con apps de terceros e interacción con agentes AI como Claude Code y Codex."
-              },
-              {
-                "t": "p",
-                "x": "Las reservas de Orrorin empiezan en $29, que se descuentan del precio de $799. Savage calcula que los envíos comenzarán en marzo de 2027 para los compradores de Founder Edition y en mayo de 2027 para los de Early Bird."
+                "x": "XPeng también prevé ingresos recurrentes más allá del hardware, procedentes de suscripciones de software, actualizaciones, formación y servicios."
               }
             ]
           }
@@ -395,391 +365,441 @@
       }
     },
     {
-      "id": "wyze-window-bird-cam",
-      "source_lang": "en",
+      "id": "hp-omnibook-ultra16-rtxspark",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Wyze $70 모이통\n실내에서 새 종 식별",
-      "body": "Wyze $70 Window Bird Cam은 창밖 모이통과 실내 카메라를 묶었다.",
-      "mini_headline": "Wyze의 AI 창문 새 카메라",
+      "headline": "HP 옴니북 울트라 16\n로컬 AI PC 국내 출시",
+      "body": "RTX 스파크 기반, 최대 128GB 메모리로 대형 AI 모델을 로컬에서 돌린다.",
+      "mini_headline": "HP 옴니북 울트라 16 출시",
       "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20261124000168",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
+            "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+            "cap": "HP '옴니북 울트라 16'"
           },
           {
             "t": "p",
-            "x": "Wyze가 새 Window Bird Cam을 발표했다. 창문 안쪽에 다는 카메라와 유리 바깥쪽에 붙이는 모이통을 한 세트로 묶은 제품이다. Wyze는 식별 기능을 더해 주는 새 구독 서비스 Bird Watch도 함께 내놓는다."
+            "x": "HP코리아가 24일 고성능 인공지능(AI) 작업에 특화된 노트북 'HP 옴니북 울트라 16'을 국내 출시했다."
           },
           {
             "t": "p",
-            "x": "Window Bird Cam은 오늘부터 회사 온라인 스토어에서 $69.98에 판다. 상자에는 흡착판이 달린 실외 모이통과 작은 씨앗 받침, 덮개가 들어 있다. $14.98짜리 Window Bird Cam Perch는 별도 옵션이다."
-          },
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+            "x": "HP 옴니북 울트라 16은 엔비디아 'RTX 스파크 N1X' 플랫폼을 탑재했다. 20코어 그레이스 중앙처리장치(CPU)와 6144코어 블랙웰 그래픽처리장치(GPU), 최대 128GB 통합 메모리를 갖췄다."
           },
           {
             "t": "p",
-            "x": "Bird Cam은 집 안에 두고 USB 전원을 꽂는 방식이라 배터리도, 방수 설계도 필요 없다. 렌즈 초점을 4~8인치 거리에 맞춰 새는 또렷하고 마당 나머지는 부드럽게 흐려진다."
-          },
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+            "x": "클라우드 연결 없이 대규모 AI 모델을 구동할 수 있고, 데이터 분석과 코드 작성 등 여러 단계 작업을 자동으로 수행하는 AI 에이전트 활용을 지원한다. 고해상도 영상 편집·3차원(3D) 콘텐츠 제작·고사양 게임에도 활용할 수 있다."
           },
           {
             "t": "p",
-            "x": "Bird Cam은 기본 상태로도 움직임을 감지하고 오 분 간격 제한 아래 새 도착 알림을 보내며 최대 512GB microSD 카드에 30fps 영상을 로컬로 저장한다. 월 $6.99 또는 연 $69.99인 Bird Watch를 쓰면 신뢰도 점수가 붙은 종 식별(ID)과 대화형 새 위키, 60일 클라우드 영상 보관이 더해지고 알림 간격 제한도 사라진다."
+            "x": "윈도 11 프로를 탑재해 데이터 암호화·가상화·원격 접속 등 전문 업무에 필요한 기능을 제공한다. 16인치 3K 유기발광다이오드(OLED) 터치 디스플레이를 탑재했고, 99와트시(Wh) 배터리를 적용해 최대 17시간 사용이 가능하다."
+          },
+          {
+            "t": "p",
+            "x": "장시간 고부하 작업을 위한 냉각 시스템도 강화했다. HP 소비자용 노트북 최초로 '타워 힌지 앤 트렁크' 구조를 도입해 공기 흐름과 열 방출 효율을 높였다. 국내 구매 고객에게는 3년 무상 보증 서비스를 제공한다."
+          },
+          {
+            "t": "p",
+            "x": "강용남 HP코리아 대표는 “AI가 단순한 질문 응답을 넘어 창작과 업무를 지원하는 지능형 에이전트 중심으로 진화하면서 PC는 이와 같은 AI 워크플로우를 실행하고 개발하는 플랫폼으로 그 역할이 확대되고 있다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "이어 “국내 사용자는 옴니북 울트라 16을 통해 AI와 함께 일하고 창작하는 새로운 방식을 경험하게 할 것”이라고 덧붙였다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Wyze's $70 window feeder\nnames birds from indoors",
-          "body": "Wyze's $70 Window Bird Cam pairs an outside feeder with an indoor camera, and a Bird Watch plan adds species ID.",
-          "mini_headline": "Wyze's AI\nwindow bird cam",
+        "ko": {
+          "headline": "HP 옴니북 울트라 16\n로컬 AI PC 국내 출시",
+          "body": "RTX 스파크 기반, 최대 128GB 메모리로 대형 AI 모델을 로컬에서 돌린다.",
+          "mini_headline": "HP 옴니북 울트라 16 출시",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+                "cap": "HP '옴니북 울트라 16'"
               },
               {
                 "t": "p",
-                "x": "Wyze announced its new Window Bird Cam, which pairs a window-mounted camera with a feeder that attaches to the outside of the glass. Alongside the kit, Wyze is launching a new subscription service called Bird Watch, which adds identification capabilities."
+                "x": "HP코리아가 24일 고성능 인공지능(AI) 작업에 특화된 노트북 'HP 옴니북 울트라 16'을 국내 출시했다."
               },
               {
                 "t": "p",
-                "x": "The Window Bird Cam is available today through the company's online store for $69.98 and includes the outdoor feeder with suction cups, a small seed tray, and a cover. An optional $14.98 Window Bird Cam Perch is also sold."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "HP 옴니북 울트라 16은 엔비디아 'RTX 스파크 N1X' 플랫폼을 탑재했다. 20코어 그레이스 중앙처리장치(CPU)와 6144코어 블랙웰 그래픽처리장치(GPU), 최대 128GB 통합 메모리를 갖췄다."
               },
               {
                 "t": "p",
-                "x": "Installed inside the home and plugged into USB power, the Bird Cam doesn't need a battery or weatherproofing. Its lens is designed to focus at a distance of 4 to 8 inches so birds look crisp while the rest of your yard is softly blurred."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "클라우드 연결 없이 대규모 AI 모델을 구동할 수 있고, 데이터 분석과 코드 작성 등 여러 단계 작업을 자동으로 수행하는 AI 에이전트 활용을 지원한다. 고해상도 영상 편집·3차원(3D) 콘텐츠 제작·고사양 게임에도 활용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Out of the box, the Bird Cam detects motion, sends bird arrival notifications with a five-minute cooldown, and records 30fps video locally to a microSD card up to 512GB. Bird Watch, at $6.99 per month or $69.99 per year, adds species identification with a confidence score, an interactive bird wiki, 60 days of cloud video, and no notification cooldown."
+                "x": "윈도 11 프로를 탑재해 데이터 암호화·가상화·원격 접속 등 전문 업무에 필요한 기능을 제공한다. 16인치 3K 유기발광다이오드(OLED) 터치 디스플레이를 탑재했고, 99와트시(Wh) 배터리를 적용해 최대 17시간 사용이 가능하다."
+              },
+              {
+                "t": "p",
+                "x": "장시간 고부하 작업을 위한 냉각 시스템도 강화했다. HP 소비자용 노트북 최초로 '타워 힌지 앤 트렁크' 구조를 도입해 공기 흐름과 열 방출 효율을 높였다. 국내 구매 고객에게는 3년 무상 보증 서비스를 제공한다."
+              },
+              {
+                "t": "p",
+                "x": "강용남 HP코리아 대표는 “AI가 단순한 질문 응답을 넘어 창작과 업무를 지원하는 지능형 에이전트 중심으로 진화하면서 PC는 이와 같은 AI 워크플로우를 실행하고 개발하는 플랫폼으로 그 역할이 확대되고 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "이어 “국내 사용자는 옴니북 울트라 16을 통해 AI와 함께 일하고 창작하는 새로운 방식을 경험하게 할 것”이라고 덧붙였다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Wyze $70 모이통\n실내에서 새 종 식별",
-          "body": "Wyze $70 Window Bird Cam은 창밖 모이통과 실내 카메라를 묶었다.",
-          "mini_headline": "Wyze의 AI 창문 새 카메라",
+        "en": {
+          "headline": "HP OmniBook Ultra 16 launches\nin Korea as a local AI PC",
+          "body": "Built on RTX Spark with up to 128GB of memory, the laptop runs large AI models locally.",
+          "mini_headline": "HP OmniBook Ultra 16 launches",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+                "cap": "HP 'OmniBook Ultra 16'"
               },
               {
                 "t": "p",
-                "x": "Wyze가 새 Window Bird Cam을 발표했다. 창문 안쪽에 다는 카메라와 유리 바깥쪽에 붙이는 모이통을 한 세트로 묶은 제품이다. Wyze는 식별 기능을 더해 주는 새 구독 서비스 Bird Watch도 함께 내놓는다."
+                "x": "HP Korea on the 24th launched the 'HP OmniBook Ultra 16' in Korea, a laptop built for high-performance artificial intelligence (AI) work."
               },
               {
                 "t": "p",
-                "x": "Window Bird Cam은 오늘부터 회사 온라인 스토어에서 $69.98에 판다. 상자에는 흡착판이 달린 실외 모이통과 작은 씨앗 받침, 덮개가 들어 있다. $14.98짜리 Window Bird Cam Perch는 별도 옵션이다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "The HP OmniBook Ultra 16 is powered by Nvidia's 'RTX Spark N1X' platform. It has a 20-core Grace central processing unit (CPU), a 6144-core Blackwell graphics processing unit (GPU) and up to 128GB of unified memory."
               },
               {
                 "t": "p",
-                "x": "Bird Cam은 집 안에 두고 USB 전원을 꽂는 방식이라 배터리도, 방수 설계도 필요 없다. 렌즈 초점을 4~8인치 거리에 맞춰 새는 또렷하고 마당 나머지는 부드럽게 흐려진다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "It can run large AI models without a cloud connection and supports AI agents that automatically carry out multi-step tasks such as data analysis and writing code. It can also be used for high-resolution video editing, three-dimensional (3D) content creation and demanding games."
               },
               {
                 "t": "p",
-                "x": "Bird Cam은 기본 상태로도 움직임을 감지하고 오 분 간격 제한 아래 새 도착 알림을 보내며 최대 512GB microSD 카드에 30fps 영상을 로컬로 저장한다. 월 $6.99 또는 연 $69.99인 Bird Watch를 쓰면 신뢰도 점수가 붙은 종 식별(ID)과 대화형 새 위키, 60일 클라우드 영상 보관이 더해지고 알림 간격 제한도 사라진다."
+                "x": "It ships with Windows 11 Pro, providing features needed for professional work such as data encryption, virtualization and remote access. It has a 16-inch 3K organic light-emitting diode (OLED) touch display and a 99-watt-hour (Wh) battery that allows up to 17 hours of use."
+              },
+              {
+                "t": "p",
+                "x": "The cooling system has also been strengthened for long, high-load work. It is the first HP consumer laptop to adopt a 'Tower Hinge and Trunk' design, which improves airflow and heat dissipation. Customers who buy in Korea receive a free 3-year warranty."
+              },
+              {
+                "t": "p",
+                "x": "Kang Yong-nam, CEO of HP Korea, said, “As AI evolves beyond simple question-and-answer toward intelligent agents that support creative and business work, the PC's role is expanding into a platform for running and developing these AI workflows.”"
+              },
+              {
+                "t": "p",
+                "x": "He added, “Through the OmniBook Ultra 16, users in Korea will experience a new way of working and creating with AI.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Wyze $70の窓用給餌器\n室内から鳥を判別",
-          "body": "Wyzeの$70 Window Bird Camは窓外の給餌器と室内カメラを組み合わせる。",
-          "mini_headline": "WyzeのAI窓用バードカメラ",
+          "headline": "HP OmniBook\nUltra 16 AI PC",
+          "body": "RTX Spark基盤で最大128GB メモリを備え、大型AIモデルをローカルで動かす。",
+          "mini_headline": "HP OmniBook Ultra 16発売",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+                "cap": "HP「OmniBook Ultra 16」"
               },
               {
                 "t": "p",
-                "x": "Wyzeは新製品Window Bird Camを発表した。窓に取り付けるカメラと、ガラスの外側に貼り付ける給餌器を組み合わせたものだ。あわせてWyzeは、識別機能を追加する新しいサブスクリプションサービスBird Watchを開始する。"
+                "x": "HP Koreaは24日、高性能な人工知能（AI）作業に特化したノートPC「HP OmniBook Ultra 16」を韓国で発売した。"
               },
               {
                 "t": "p",
-                "x": "Window Bird Camは本日から同社のオンラインストアで$69.98で販売され、吸盤付きの屋外用給餌器、小さな餌皿、カバーが付属する。オプションとして$14.98のWindow Bird Cam Perchも販売される。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "HP OmniBook Ultra 16はNVIDIAの「RTX Spark N1X」プラットフォームを搭載した。20コアのGrace中央処理装置（CPU）と6144コアのBlackwellグラフィックス処理装置（GPU）、最大128GB の統合メモリを備える。"
               },
               {
                 "t": "p",
-                "x": "Bird Camは屋内に設置してUSB電源につなぐため、バッテリーや防水仕様は不要だ。レンズは4〜8インチの距離で焦点が合うよう設計されており、鳥はくっきりと、庭のほかの部分は柔らかくぼけて映る。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "クラウドに接続せずに大規模AIモデルを動かすことができ、データ分析やコード作成など複数段階の作業を自動でこなすAIエージェントの活用にも対応する。高解像度の動画編集や3次元（3D）コンテンツ制作、高負荷のゲームにも使える。"
               },
               {
                 "t": "p",
-                "x": "Bird Camは購入時の状態で動きを検知し、五分間のクールダウン付きで鳥の飛来を通知し、最大512GBのmicroSDカードに30fpsの動画をローカル録画する。月額$6.99または年額$69.99のBird Watchは、信頼度スコア付きの種の識別(ID)、インタラクティブな鳥のwiki、60日間のクラウド動画保存を追加し、通知のクールダウンもなくす。"
+                "x": "Windows 11 Proを搭載し、データ暗号化や仮想化、リモートアクセスなど専門業務に必要な機能を提供する。16インチの3K 有機EL（OLED）タッチディスプレイを備え、99ワット時（Wh）のバッテリーで最大17時間使用できる。"
+              },
+              {
+                "t": "p",
+                "x": "長時間の高負荷作業に向けて冷却システムも強化した。HPのコンシューマー向けノートPCとして初めて「Tower Hinge and Trunk」構造を採用し、エアフローと放熱効率を高めた。韓国国内の購入者には3年間の無償保証を提供する。"
+              },
+              {
+                "t": "p",
+                "x": "HP Koreaのカン・ヨンナム代表は「AIが単純な質疑応答を超え、創作や業務を支援する知能型エージェント中心へと進化するなか、PCはこうしたAIワークフローを実行・開発するプラットフォームへと役割を広げている」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "さらに「韓国のユーザーはOmniBook Ultra 16を通じて、AIとともに働き、創作する新しい方法を体験することになるだろう」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Wyze $70窗外喂鸟器\n在室内识别鸟种",
-          "body": "Wyze的$70 Window Bird Cam把喂鸟器装在窗外、摄像头装在室内。",
-          "mini_headline": "Wyze的AI窗边观鸟相机",
+          "headline": "HP OmniBook\nUltra 16 AI PC",
+          "body": "基于RTX Spark，配备最高128GB 内存，可在本地运行大型AI模型。",
+          "mini_headline": "HP OmniBook Ultra 16上市",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+                "cap": "HP“OmniBook Ultra 16”"
               },
               {
                 "t": "p",
-                "x": "Wyze发布新款Window Bird Cam，将装在窗户内侧的摄像头与贴在玻璃外侧的喂鸟器配套使用。Wyze同时推出名为Bird Watch的新订阅服务，增加识别功能。"
+                "x": "HP Korea于24日在韩国推出专为高性能人工智能（AI）任务打造的笔记本电脑“HP OmniBook Ultra 16”。"
               },
               {
                 "t": "p",
-                "x": "Window Bird Cam今日起在该公司网店以$69.98发售，包含带吸盘的户外喂鸟器、小型食盘和顶盖。另有售价$14.98的可选配件Window Bird Cam Perch。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "HP OmniBook Ultra 16搭载NVIDIA“RTX Spark N1X”平台，配备20核Grace中央处理器（CPU）、6144核Blackwell图形处理器（GPU）以及最高128GB 统一内存。"
               },
               {
                 "t": "p",
-                "x": "Bird Cam安装在室内并接USB供电，因此无需电池或防水设计。其镜头设计为在4至8英寸距离对焦，让鸟儿清晰呈现，而院子的其余部分则柔和虚化。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "无需连接云端即可运行大规模AI模型，并支持可自动执行数据分析、代码编写等多步骤任务的AI智能体。也可用于高分辨率视频剪辑、三维（3D）内容制作和高配置游戏。"
               },
               {
                 "t": "p",
-                "x": "开箱即用状态下，Bird Cam可检测移动，以五分钟冷却间隔推送鸟类到访通知，并以30fps将视频本地录制到最高512GB的microSD卡。Bird Watch每月$6.99或每年$69.99，提供带置信度评分的鸟种识别（ID）、互动式鸟类wiki、60天云端视频存储，并取消通知冷却间隔。"
+                "x": "预装Windows 11 Pro，提供数据加密、虚拟化、远程访问等专业工作所需的功能。配备16英寸3K 有机发光二极管（OLED）触控屏，搭载99瓦时（Wh）电池，最长可使用17小时。"
+              },
+              {
+                "t": "p",
+                "x": "还针对长时间高负载任务强化了散热系统。作为首款采用“Tower Hinge and Trunk”结构的HP消费级笔记本电脑，它提升了气流和散热效率。在韩国购买的用户可享受3年免费保修服务。"
+              },
+              {
+                "t": "p",
+                "x": "HP Korea总裁Kang Yong-nam表示：“随着AI从简单的问答演进为以支持创作与工作的智能体为中心，PC的角色正在扩展为运行和开发此类AI工作流程的平台。”"
+              },
+              {
+                "t": "p",
+                "x": "他补充说：“韩国用户将通过OmniBook Ultra 16体验与AI一起工作和创作的新方式。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El comedero de $70 de Wyze\nidentifica aves desde dentro",
-          "body": "La Window Bird Cam de $70 de Wyze une un comedero exterior y una cámara interior; Bird Watch añade ID de especies.",
-          "mini_headline": "La cámara AI de Wyze para ventanas",
+          "headline": "HP lanza en Corea el OmniBook\nUltra 16, PC de AI local",
+          "body": "Basado en RTX Spark y con hasta 128GB de memoria, ejecuta grandes modelos de AI de forma local.",
+          "mini_headline": "HP lanza el OmniBook Ultra 16",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+                "cap": "HP 'OmniBook Ultra 16'"
               },
               {
                 "t": "p",
-                "x": "Wyze anunció su nueva Window Bird Cam, que combina una cámara montada en la ventana con un comedero que se adhiere a la parte exterior del cristal. Junto con el kit, Wyze lanza un nuevo servicio de suscripción llamado Bird Watch, que añade funciones de identificación."
+                "x": "HP Korea lanzó el día 24 en Corea el 'HP OmniBook Ultra 16', un portátil especializado en tareas de inteligencia artificial (AI) de alto rendimiento."
               },
               {
                 "t": "p",
-                "x": "La Window Bird Cam ya está disponible en la tienda en línea de la compañía por $69.98 e incluye el comedero exterior con ventosas, una pequeña bandeja para semillas y una cubierta. También se vende un accesorio opcional, la Window Bird Cam Perch, por $14.98."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "El HP OmniBook Ultra 16 incorpora la plataforma 'RTX Spark N1X' de Nvidia. Cuenta con una unidad central de procesamiento (CPU) Grace de 20 núcleos, una unidad de procesamiento gráfico (GPU) Blackwell de 6144 núcleos y hasta 128GB de memoria unificada."
               },
               {
                 "t": "p",
-                "x": "Al instalarse dentro de casa y conectarse a una toma USB, la Bird Cam no necesita batería ni protección contra la intemperie. Su lente está diseñada para enfocar a una distancia de 4 a 8 pulgadas, de modo que las aves se ven nítidas mientras el resto del jardín queda suavemente desenfocado."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "Puede ejecutar grandes modelos de AI sin conexión a la nube y admite agentes de AI que realizan automáticamente tareas de varios pasos, como el análisis de datos y la escritura de código. También sirve para edición de video en alta resolución, creación de contenido tridimensional (3D) y juegos exigentes."
               },
               {
                 "t": "p",
-                "x": "De serie, la Bird Cam detecta movimiento, envía avisos de llegada de aves con un intervalo de espera de cinco minutos y graba vídeo a 30fps de forma local en una tarjeta microSD de hasta 512GB. Bird Watch, por $6.99 al mes o $69.99 al año, añade identificación de especies (ID) con un índice de confianza, una wiki interactiva de aves, 60 días de vídeo en la nube y la eliminación del intervalo de espera entre avisos."
+                "x": "Incluye Windows 11 Pro, con las funciones necesarias para el trabajo profesional, como el cifrado de datos, la virtualización y el acceso remoto. Tiene una pantalla táctil de diodos orgánicos emisores de luz (OLED) 3K de 16 pulgadas y una batería de 99 vatios hora (Wh) que permite hasta 17 horas de uso."
+              },
+              {
+                "t": "p",
+                "x": "También se reforzó el sistema de refrigeración para trabajos intensos y prolongados. Es el primer portátil de consumo de HP en adoptar la estructura 'Tower Hinge and Trunk', que mejora el flujo de aire y la disipación de calor. Los compradores en Corea reciben una garantía gratuita de 3 años."
+              },
+              {
+                "t": "p",
+                "x": "Kang Yong-nam, director general de HP Korea, afirmó: “A medida que la AI evoluciona más allá de la simple respuesta a preguntas hacia agentes inteligentes que apoyan la creación y el trabajo, el PC amplía su papel como plataforma para ejecutar y desarrollar estos flujos de trabajo de AI”."
+              },
+              {
+                "t": "p",
+                "x": "Añadió: “Los usuarios en Corea experimentarán, a través del OmniBook Ultra 16, una nueva forma de trabajar y crear junto a la AI”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Wyze $70 모이통\n실내에서 새 종 식별",
-          "body": "Wyze $70 Window Bird Cam은 창밖 모이통과 실내 카메라를 묶었다.",
-          "mini_headline": "Wyze의 AI 창문 새 카메라",
+        "en": {
+          "headline": "HP OmniBook Ultra 16 launches\nin Korea as a local AI PC",
+          "body": "Built on RTX Spark with up to 128GB of memory, the laptop runs large AI models locally.",
+          "mini_headline": "HP OmniBook Ultra 16 launches",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+                "cap": "HP 'OmniBook Ultra 16'"
               },
               {
                 "t": "p",
-                "x": "Wyze가 새 Window Bird Cam을 발표했다. 창문 안쪽에 다는 카메라와 유리 바깥쪽에 붙이는 모이통을 한 세트로 묶은 제품이다. Wyze는 이와 함께 식별 기능을 더하는 새 구독 서비스 Bird Watch도 내놓는다."
+                "x": "HP Korea on the 24th launched the 'HP OmniBook Ultra 16' in Korea, a laptop built for high-performance artificial intelligence (AI) work."
               },
               {
                 "t": "p",
-                "x": "Window Bird Cam은 오늘부터 회사 온라인 스토어에서 $69.98에 판매하며, 흡착판이 달린 실외 모이통과 작은 씨앗 받침, 덮개가 들어 있다. 선택 사양인 $14.98짜리 Window Bird Cam Perch도 따로 판매한다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "The HP OmniBook Ultra 16 is powered by Nvidia's 'RTX Spark N1X' platform. It has a 20-core Grace central processing unit (CPU), a 6144-core Blackwell graphics processing unit (GPU) and up to 128GB of unified memory."
               },
               {
                 "t": "p",
-                "x": "Bird Cam은 집 안에 설치해 USB 전원에 연결하므로 배터리나 방수 설계가 필요 없다. 렌즈는 4~8인치 거리에 초점이 맞도록 설계돼 새는 또렷하게, 마당의 나머지 부분은 부드럽게 흐려 보인다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "It can run large AI models without a cloud connection and supports AI agents that automatically carry out multi-step tasks such as data analysis and writing code. It can also be used for high-resolution video editing, three-dimensional (3D) content creation and demanding games."
               },
               {
                 "t": "p",
-                "x": "Bird Cam은 기본 상태로도 움직임을 감지하고, 오 분 간격 제한을 두고 새 도착 알림을 보내며, 최대 512GB microSD 카드에 30fps 영상을 로컬로 저장한다. 월 $6.99 또는 연 $69.99인 Bird Watch는 신뢰도 점수와 함께 종 식별(ID)을 제공하고, 대화형 새 위키와 60일 클라우드 영상 보관을 더하며 알림 간격 제한도 없앤다."
+                "x": "It ships with Windows 11 Pro, providing features needed for professional work such as data encryption, virtualization and remote access. It has a 16-inch 3K organic light-emitting diode (OLED) touch display and a 99-watt-hour (Wh) battery that allows up to 17 hours of use."
+              },
+              {
+                "t": "p",
+                "x": "The cooling system has also been strengthened for long, high-load work. It is the first HP consumer laptop to adopt a 'Tower Hinge and Trunk' design, which improves airflow and heat dissipation. Customers who buy in Korea receive a free 3-year warranty."
+              },
+              {
+                "t": "p",
+                "x": "Kang Yong-nam, CEO of HP Korea, said, “As AI evolves beyond simple question-and-answer toward intelligent agents that support creative and business work, the PC's role is expanding into a platform for running and developing these AI workflows.”"
+              },
+              {
+                "t": "p",
+                "x": "He added, “Through the OmniBook Ultra 16, users in Korea will experience a new way of working and creating with AI.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Wyze $70の窓用給餌器\n室内から鳥を判別",
-          "body": "Wyzeの$70 Window Bird Camは窓外の給餌器と室内カメラを組み合わせる。",
-          "mini_headline": "WyzeのAI窓用バードカメラ",
+          "headline": "HP OmniBook\nUltra 16 AI PC",
+          "body": "RTX Spark基盤で最大128GB メモリを備え、大型AIモデルをローカルで動かす。",
+          "mini_headline": "HP OmniBook Ultra 16発売",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+                "cap": "HP「OmniBook Ultra 16」"
               },
               {
                 "t": "p",
-                "x": "Wyzeは新製品Window Bird Camを発表した。窓に取り付けるカメラと、ガラスの外側に貼り付ける給餌器を組み合わせたものだ。あわせてWyzeは、識別機能を追加する新しいサブスクリプションサービスBird Watchを開始する。"
+                "x": "HP Koreaは24日、高性能な人工知能（AI）作業に特化したノートPC「HP OmniBook Ultra 16」を韓国で発売した。"
               },
               {
                 "t": "p",
-                "x": "Window Bird Camは本日から同社のオンラインストアで$69.98で販売され、吸盤付きの屋外用給餌器、小さな餌皿、カバーが付属する。オプションとして$14.98のWindow Bird Cam Perchも販売される。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "HP OmniBook Ultra 16はNVIDIAの「RTX Spark N1X」プラットフォームを搭載した。20コアのGrace中央処理装置（CPU）と6144コアのBlackwellグラフィックス処理装置（GPU）、最大128GB の統合メモリを備える。"
               },
               {
                 "t": "p",
-                "x": "Bird Camは屋内に設置してUSB電源につなぐため、バッテリーや防水仕様は不要だ。レンズは4〜8インチの距離で焦点が合うよう設計されており、鳥はくっきりと、庭のほかの部分は柔らかくぼけて映る。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "クラウドに接続せずに大規模AIモデルを動かすことができ、データ分析やコード作成など複数段階の作業を自動でこなすAIエージェントの活用にも対応する。高解像度の動画編集や3次元（3D）コンテンツ制作、高負荷のゲームにも使える。"
               },
               {
                 "t": "p",
-                "x": "Bird Camは購入時の状態で動きを検知し、五分間のクールダウン付きで鳥の飛来を通知し、最大512GBのmicroSDカードに30fpsの動画をローカル録画する。月額$6.99または年額$69.99のBird Watchは、信頼度スコア付きの種の識別(ID)、インタラクティブな鳥のwiki、60日間のクラウド動画保存を追加し、通知のクールダウンもなくす。"
+                "x": "Windows 11 Proを搭載し、データ暗号化や仮想化、リモートアクセスなど専門業務に必要な機能を提供する。16インチの3K 有機EL（OLED）タッチディスプレイを備え、99ワット時（Wh）のバッテリーで最大17時間使用できる。"
+              },
+              {
+                "t": "p",
+                "x": "長時間の高負荷作業に向けて冷却システムも強化した。HPのコンシューマー向けノートPCとして初めて「Tower Hinge and Trunk」構造を採用し、エアフローと放熱効率を高めた。韓国国内の購入者には3年間の無償保証を提供する。"
+              },
+              {
+                "t": "p",
+                "x": "HP Koreaのカン・ヨンナム代表は「AIが単純な質疑応答を超え、創作や業務を支援する知能型エージェント中心へと進化するなか、PCはこうしたAIワークフローを実行・開発するプラットフォームへと役割を広げている」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "さらに「韓国のユーザーはOmniBook Ultra 16を通じて、AIとともに働き、創作する新しい方法を体験することになるだろう」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Wyze $70窗外喂鸟器\n在室内识别鸟种",
-          "body": "Wyze的$70 Window Bird Cam把喂鸟器装在窗外、摄像头装在室内。",
-          "mini_headline": "Wyze的AI窗边观鸟相机",
+          "headline": "HP OmniBook\nUltra 16 AI PC",
+          "body": "基于RTX Spark，配备最高128GB 内存，可在本地运行大型AI模型。",
+          "mini_headline": "HP OmniBook Ultra 16上市",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+                "cap": "HP“OmniBook Ultra 16”"
               },
               {
                 "t": "p",
-                "x": "Wyze发布新款Window Bird Cam，将装在窗户内侧的摄像头与贴在玻璃外侧的喂鸟器配套使用。Wyze同时推出名为Bird Watch的新订阅服务，增加识别功能。"
+                "x": "HP Korea于24日在韩国推出专为高性能人工智能（AI）任务打造的笔记本电脑“HP OmniBook Ultra 16”。"
               },
               {
                 "t": "p",
-                "x": "Window Bird Cam今日起在该公司网店以$69.98发售，包含带吸盘的户外喂鸟器、小型食盘和顶盖。另有售价$14.98的可选配件Window Bird Cam Perch。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "HP OmniBook Ultra 16搭载NVIDIA“RTX Spark N1X”平台，配备20核Grace中央处理器（CPU）、6144核Blackwell图形处理器（GPU）以及最高128GB 统一内存。"
               },
               {
                 "t": "p",
-                "x": "Bird Cam安装在室内并接USB供电，因此无需电池或防水设计。其镜头设计为在4至8英寸距离对焦，让鸟儿清晰呈现，而院子的其余部分则柔和虚化。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "无需连接云端即可运行大规模AI模型，并支持可自动执行数据分析、代码编写等多步骤任务的AI智能体。也可用于高分辨率视频剪辑、三维（3D）内容制作和高配置游戏。"
               },
               {
                 "t": "p",
-                "x": "开箱即用状态下，Bird Cam可检测移动，以五分钟冷却间隔推送鸟类到访通知，并以30fps将视频本地录制到最高512GB的microSD卡。Bird Watch每月$6.99或每年$69.99，提供带置信度评分的鸟种识别（ID）、互动式鸟类wiki、60天云端视频存储，并取消通知冷却间隔。"
+                "x": "预装Windows 11 Pro，提供数据加密、虚拟化、远程访问等专业工作所需的功能。配备16英寸3K 有机发光二极管（OLED）触控屏，搭载99瓦时（Wh）电池，最长可使用17小时。"
+              },
+              {
+                "t": "p",
+                "x": "还针对长时间高负载任务强化了散热系统。作为首款采用“Tower Hinge and Trunk”结构的HP消费级笔记本电脑，它提升了气流和散热效率。在韩国购买的用户可享受3年免费保修服务。"
+              },
+              {
+                "t": "p",
+                "x": "HP Korea总裁Kang Yong-nam表示：“随着AI从简单的问答演进为以支持创作与工作的智能体为中心，PC的角色正在扩展为运行和开发此类AI工作流程的平台。”"
+              },
+              {
+                "t": "p",
+                "x": "他补充说：“韩国用户将通过OmniBook Ultra 16体验与AI一起工作和创作的新方式。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El comedero de $70 de Wyze\nidentifica aves desde dentro",
-          "body": "La Window Bird Cam de $70 de Wyze une un comedero exterior y una cámara interior; Bird Watch añade ID de especies.",
-          "mini_headline": "La cámara AI de Wyze para ventanas",
+          "headline": "HP lanza en Corea el OmniBook\nUltra 16, PC de AI local",
+          "body": "Basado en RTX Spark y con hasta 128GB de memoria, ejecuta grandes modelos de AI de forma local.",
+          "mini_headline": "HP lanza el OmniBook Ultra 16",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400"
+                "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+                "cap": "HP 'OmniBook Ultra 16'"
               },
               {
                 "t": "p",
-                "x": "Wyze anunció su nueva Window Bird Cam, que combina una cámara montada en la ventana con un comedero que se adhiere a la parte exterior del cristal. Junto con el kit, Wyze lanza un nuevo servicio de suscripción llamado Bird Watch, que añade funciones de identificación."
+                "x": "HP Korea lanzó el día 24 en Corea el 'HP OmniBook Ultra 16', un portátil especializado en tareas de inteligencia artificial (AI) de alto rendimiento."
               },
               {
                 "t": "p",
-                "x": "La Window Bird Cam ya está disponible en la tienda en línea de la compañía por $69.98 e incluye el comedero exterior con ventosas, una pequeña bandeja para semillas y una cubierta. También se vende un accesorio opcional, la Window Bird Cam Perch, por $14.98."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "El HP OmniBook Ultra 16 incorpora la plataforma 'RTX Spark N1X' de Nvidia. Cuenta con una unidad central de procesamiento (CPU) Grace de 20 núcleos, una unidad de procesamiento gráfico (GPU) Blackwell de 6144 núcleos y hasta 128GB de memoria unificada."
               },
               {
                 "t": "p",
-                "x": "Al instalarse dentro de casa y conectarse a una toma USB, la Bird Cam no necesita batería ni protección contra la intemperie. Su lente está diseñada para enfocar a una distancia de 4 a 8 pulgadas, de modo que las aves se ven nítidas mientras el resto del jardín queda suavemente desenfocado."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "x": "Puede ejecutar grandes modelos de AI sin conexión a la nube y admite agentes de AI que realizan automáticamente tareas de varios pasos, como el análisis de datos y la escritura de código. También sirve para edición de video en alta resolución, creación de contenido tridimensional (3D) y juegos exigentes."
               },
               {
                 "t": "p",
-                "x": "De serie, la Bird Cam detecta movimiento, envía avisos de llegada de aves con un intervalo de espera de cinco minutos y graba vídeo a 30fps de forma local en una tarjeta microSD de hasta 512GB. Bird Watch, por $6.99 al mes o $69.99 al año, añade identificación de especies (ID) con un índice de confianza, una wiki interactiva de aves, 60 días de vídeo en la nube y la eliminación del intervalo de espera entre avisos."
+                "x": "Incluye Windows 11 Pro, con las funciones necesarias para el trabajo profesional, como el cifrado de datos, la virtualización y el acceso remoto. Tiene una pantalla táctil de diodos orgánicos emisores de luz (OLED) 3K de 16 pulgadas y una batería de 99 vatios hora (Wh) que permite hasta 17 horas de uso."
+              },
+              {
+                "t": "p",
+                "x": "También se reforzó el sistema de refrigeración para trabajos intensos y prolongados. Es el primer portátil de consumo de HP en adoptar la estructura 'Tower Hinge and Trunk', que mejora el flujo de aire y la disipación de calor. Los compradores en Corea reciben una garantía gratuita de 3 años."
+              },
+              {
+                "t": "p",
+                "x": "Kang Yong-nam, director general de HP Korea, afirmó: “A medida que la AI evoluciona más allá de la simple respuesta a preguntas hacia agentes inteligentes que apoyan la creación y el trabajo, el PC amplía su papel como plataforma para ejecutar y desarrollar estos flujos de trabajo de AI”."
+              },
+              {
+                "t": "p",
+                "x": "Añadió: “Los usuarios en Corea experimentarán, a través del OmniBook Ultra 16, una nueva forma de trabajar y crear junto a la AI”."
               }
             ]
           }
@@ -787,15 +807,15 @@
       }
     },
     {
-      "id": "amazon-ai-toys-petition",
+      "id": "usc-stress-ring-ondevice",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "아동 단체, Amazon에\nAI 장난감 퇴출 촉구",
-      "body": "아동 단체가 13세+ 챗봇과 연결된 3세+ 토끼 등 AI 장난감 퇴출을 촉구했다.",
-      "mini_headline": "Amazon에 AI 장난감 퇴출 요구",
+      "headline": "USC 스마트 반지\n기기 안에서 스트레스 판별",
+      "body": "근적외선으로 땀샘을 읽고 27.65kB 스트레스 모델을 반지 안에서 돌린다.",
+      "mini_headline": "USC 반지, 기기 안에서 스트레스 판독",
       "tool": "Gadgets",
       "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/cool-tech/child-safety-groups-across-the-world-are-begging-amazon-to-remove-ai-toys-for-kids/",
+      "url": "https://www.digitaltrends.com/wearables/usc-ai-stress-ring/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -803,221 +823,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
           },
           {
             "t": "p",
-            "x": "2026년 11월 23일, 150곳이 넘는 아동 권익 단체와 전문가로 이뤄진 연합이 Amazon과 eBay에 서한을 보내 이번 연말 시즌 AI 장난감 판매를 멈추고 이미 산 가정에는 환불해 달라고 촉구했다(via Fairplay)."
+            "x": "University of Southern California(서던캘리포니아대)의 Yasser Khan 조교수와 PhD 과정 학생 Farhad Hassan이 이끄는 연구팀이 AI 기반(AI-powered) 반지를 만들었다. 근적외선으로 피부 아래 땀 활동을 추적하는 반지다. 연구 결과는 Science Advances에 실렸다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+            "cap": "USC Khan Lab"
           },
           {
             "t": "p",
-            "x": "연합은 16세 미만 아동을 겨냥했거나 아동이 쓸 가능성이 높은 AI 챗봇 내장 장난감을 독립 테스트로 안전성이 확인될 때까지 전부 팔지 말라고 요구한다. \"friend\"(친구) 표시 삭제, 서로 어긋나는 연령 표시 정정, 구매자 대상 경고와 환불도 요구 사항에 들어갔다. Amazon과 eBay는 크리스마스까지 답해야 한다."
+            "x": "Khan은 “빛으로 스트레스를 측정할 수 있다는 것을 누군가 보여 준 것은 이번이 처음”이라고 말했다. 참가자 네 명을 대상으로 한 실험에서 광학 신호는 상용 젤 기반 EDA 센서와 시간 흐름에 따라 평균 86퍼센트 일치했다. 심박수와 심박변이도도 같은 광학 시스템으로 잰다. 온도 센서와 가속도계가 있어 반지는 심리적 스트레스로 나는 땀을 움직임이나 열 때문에 나는 땀과 가려낸다."
           },
           {
             "t": "p",
-            "x": "3세 이상용 봉제 토끼 인형 하나는 ChatGPT 같은 범용 챗봇에 연결되는데, 이 챗봇 약관상 사용자는 최소 13세 이상이어야 한다. 장난감 속 AI는 언제든 행동이 달라질 수 있다. 연합은 AI 장난감이 어린아이를 성적인 대화로 끌어들이고 칼과 성냥을 어디서 찾는지 알려 줬다고 지적한다."
+            "x": "머신러닝 모델이 반지 안에서 돌아가 원시 생체 데이터를 외부 서버로 보낼 필요가 없다. 연구팀은 “양자화한 INT8 모델은 27.65 kB를 차지했다. 감지와 추론을 동시에 구현하는 데 프로그램 플래시 174.47 kB와 정적 RAM 27.63 kB가 필요했다”고 썼다. 데이터는 반지에서 처리하고, 연결된 휴대폰에는 스트레스 상태인지 이완 상태인지 최종 판정만 보낸다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+            "cap": "Science Advances / USC"
           },
           {
             "t": "p",
-            "x": "캘리포니아주는 2027년 1월부터 16세 미만 아동용 컴패니언 챗봇 장난감을 금지한다. 아동 장난감 속 AI 챗봇을 전국에서 금지하는 법안도 의회에 올라 있다."
+            "x": "Khan은 사무실 환경에서 참가자 40명을 대상으로 일 년간 후속 연구를 할 계획이다. 기술은 특허 출원 중이며 앞으로 USC의 Stevens Center for Innovation을 거쳐 상업용 라이선스로 나올 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Child safety groups urge\nAmazon to pull AI toys",
-          "body": "Child safety groups urge Amazon to pull AI toys, including a bunny for ages 3+ reportedly tied to 13+ chatbots.",
-          "mini_headline": "Amazon urged\nto pull AI toys",
+          "headline": "USC's smart ring reads stress\nentirely on the device",
+          "body": "The ring reads sweat-gland activity with near-infrared light and runs its 27.65kB stress model entirely onboard.",
+          "mini_headline": "USC ring reads stress onboard",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
               },
               {
                 "t": "p",
-                "x": "On November 23, 2026, a coalition of more than 150 child advocacy groups and experts sent a letter to Amazon and eBay urging them to stop selling AI toys this holiday season and to refund families who already bought one (via Fairplay)."
+                "x": "A University of Southern California team led by assistant professor Yasser Khan and his PhD student Farhad Hassan built an AI-powered ring that uses near-infrared light to track sweat activity beneath the skin. Their findings were published in Science Advances."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+                "cap": "USC Khan Lab"
               },
               {
                 "t": "p",
-                "x": "The coalition wants every toy with a built-in AI chatbot aimed at, or likely to be used by, kids under 16 pulled until independent testing shows they're safe. It also wants \"friend\" tags dropped, contradictory age labels fixed, and buyers warned and offered refunds. Amazon and eBay have until Christmas to reply."
+                "x": "“This is the first time that someone is showing that stress can be measured with light,” Khan said. In experiments with four participants, the optical signals showed an average 86 percent agreement over time with a commercial gel-based EDA sensor. The same optical system also captures heart rate and heart rate variability. A temperature sensor and accelerometer help the ring tell psychological stress apart from movement or heat-induced sweating."
               },
               {
                 "t": "p",
-                "x": "One plush bunny for ages 3 and up is connected to general-purpose chatbots like ChatGPT, whose own terms require users to be at least 13. The AI inside these toys can change its behavior at any point, and the coalition says AI toys have drawn young kids into sexual conversations and told them where to find knives and matches."
+                "x": "The machine-learning model runs on the ring itself, so raw biometric data does not have to travel to an outside server. “The quantized INT8 model occupied 27.65 kB. Simultaneous sensing and inference implementation required 174.47 kB of program flash and 27.63 kB of static RAM,” writes the team. The ring processes data locally and only sends the final verdict, such as stressed or relaxed, to the paired phone."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+                "cap": "Science Advances / USC"
               },
               {
                 "t": "p",
-                "x": "California bans toys with companion chatbots for kids under 16 starting in January 2027, and a bill to ban AI chatbots in kids' toys nationwide is in Congress."
+                "x": "Khan plans a yearlong follow-up with 40 participants in an office setting. The technology is in the patent process and may later be offered for commercial licensing through USC’s Stevens Center for Innovation."
               }
             ]
           }
         },
         "ko": {
-          "headline": "아동 단체, Amazon에\nAI 장난감 퇴출 촉구",
-          "body": "아동 단체가 13세+ 챗봇과 연결된 3세+ 토끼 등 AI 장난감 퇴출을 촉구했다.",
-          "mini_headline": "Amazon에 AI 장난감 퇴출 요구",
+          "headline": "USC 스마트 반지\n기기 안에서 스트레스 판별",
+          "body": "근적외선으로 땀샘을 읽고 27.65kB 스트레스 모델을 반지 안에서 돌린다.",
+          "mini_headline": "USC 반지, 기기 안에서 스트레스 판독",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
               },
               {
                 "t": "p",
-                "x": "2026년 11월 23일, 150곳이 넘는 아동 권익 단체와 전문가로 이뤄진 연합이 Amazon과 eBay에 서한을 보내 이번 연말 시즌 AI 장난감 판매를 멈추고 이미 산 가정에는 환불해 달라고 촉구했다(via Fairplay)."
+                "x": "University of Southern California(서던캘리포니아대)의 Yasser Khan 조교수와 PhD 과정 학생 Farhad Hassan이 이끄는 연구팀이 AI 기반(AI-powered) 반지를 만들었다. 근적외선으로 피부 아래 땀 활동을 추적하는 반지다. 연구 결과는 Science Advances에 실렸다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+                "cap": "USC Khan Lab"
               },
               {
                 "t": "p",
-                "x": "연합은 16세 미만 아동을 겨냥했거나 아동이 쓸 가능성이 높은 AI 챗봇 내장 장난감을 독립 테스트로 안전성이 확인될 때까지 전부 팔지 말라고 요구한다. \"friend\"(친구) 표시 삭제, 서로 어긋나는 연령 표시 정정, 구매자 대상 경고와 환불도 요구 사항에 들어갔다. Amazon과 eBay는 크리스마스까지 답해야 한다."
+                "x": "Khan은 “빛으로 스트레스를 측정할 수 있다는 것을 누군가 보여 준 것은 이번이 처음”이라고 말했다. 참가자 네 명을 대상으로 한 실험에서 광학 신호는 상용 젤 기반 EDA 센서와 시간 흐름에 따라 평균 86퍼센트 일치했다. 심박수와 심박변이도도 같은 광학 시스템으로 잰다. 온도 센서와 가속도계가 있어 반지는 심리적 스트레스로 나는 땀을 움직임이나 열 때문에 나는 땀과 가려낸다."
               },
               {
                 "t": "p",
-                "x": "3세 이상용 봉제 토끼 인형 하나는 ChatGPT 같은 범용 챗봇에 연결되는데, 이 챗봇 약관상 사용자는 최소 13세 이상이어야 한다. 장난감 속 AI는 언제든 행동이 달라질 수 있다. 연합은 AI 장난감이 어린아이를 성적인 대화로 끌어들이고 칼과 성냥을 어디서 찾는지 알려 줬다고 지적한다."
+                "x": "머신러닝 모델이 반지 안에서 돌아가 원시 생체 데이터를 외부 서버로 보낼 필요가 없다. 연구팀은 “양자화한 INT8 모델은 27.65 kB를 차지했다. 감지와 추론을 동시에 구현하는 데 프로그램 플래시 174.47 kB와 정적 RAM 27.63 kB가 필요했다”고 썼다. 데이터는 반지에서 처리하고, 연결된 휴대폰에는 스트레스 상태인지 이완 상태인지 최종 판정만 보낸다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+                "cap": "Science Advances / USC"
               },
               {
                 "t": "p",
-                "x": "캘리포니아주는 2027년 1월부터 16세 미만 아동용 컴패니언 챗봇 장난감을 금지한다. 아동 장난감 속 AI 챗봇을 전국에서 금지하는 법안도 의회에 올라 있다."
+                "x": "Khan은 사무실 환경에서 참가자 40명을 대상으로 일 년간 후속 연구를 할 계획이다. 기술은 특허 출원 중이며 앞으로 USC의 Stevens Center for Innovation을 거쳐 상업용 라이선스로 나올 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "児童団体がAmazonに\nAI玩具の撤去を要求",
-          "body": "児童団体は13歳以上向けチャットボットとつながる3歳以上向けうさぎなどAI玩具撤去を求めた。",
-          "mini_headline": "AmazonにAI玩具撤去要求",
+          "headline": "USCのスマートリング\n端末内だけでストレス判定",
+          "body": "リングは近赤外光で汗腺の活動を読み取り、27.65kB のストレスモデルを内部で動かす。",
+          "mini_headline": "USCのリング、端末内でストレス判定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
               },
               {
                 "t": "p",
-                "x": "2026年11月23日、150以上の児童擁護団体と専門家からなる連合が、AmazonとeBayに書簡を送り、このホリデーシーズンのAI玩具の販売停止と、すでに購入した家庭への返金を求めた(via Fairplay)。"
+                "x": "University of Southern California（南カリフォルニア大学）のYasser Khan助教と、そのPhD課程の学生Farhad Hassanが率いるチームは、近赤外光で皮膚下の発汗活動を追跡するAI搭載（AI-powered）リングを開発した。成果はScience Advancesに掲載された。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+                "cap": "USC Khan Lab"
               },
               {
                 "t": "p",
-                "x": "連合は、16歳未満の子どもを対象とする、または子どもが使う可能性が高いAIチャットボット内蔵の玩具すべてを、独立したテストで安全性が示されるまで撤去するよう求めている。さらに「friend」(友達)表示の削除、矛盾する対象年齢表示の修正、購入者への警告と返金も求めた。AmazonとeBayはクリスマスまでに回答する必要がある。"
+                "x": "「光でストレスを測定できることを示したのは、これが初めてだ」とKhanは述べた。四人の参加者による実験では、光学信号は市販のゲル式EDAセンサーと時間を通じて平均86パーセント一致した。同じ光学システムで心拍数と心拍変動も取得できる。温度センサーと加速度計により、リングは心理的ストレスを動きや熱による発汗と区別できる。"
               },
               {
                 "t": "p",
-                "x": "3歳以上向けのうさぎのぬいぐるみの一つは、ChatGPTのような汎用チャットボットに接続されているが、そのChatGPT自身の規約は利用者が13歳以上であることを求めている。こうした玩具に内蔵されたAIはいつでも挙動が変わりうる。連合によれば、AI玩具は幼い子どもを性的な会話に引き込み、ナイフやマッチのある場所を教えたこともあるという。"
+                "x": "機械学習モデルはリング本体で動作するため、生の生体データを外部サーバーへ送る必要はない。チームは「量子化したINT8モデルは27.65 kB を占めた。センシングと推論を同時に実装するには、プログラムフラッシュ174.47 kB と静的RAM 27.63 kB が必要だった」と記している。リングはデータをローカルで処理し、「ストレスあり」「リラックス」といった最終判定だけをペアリングしたスマートフォンに送る。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+                "cap": "Science Advances / USC"
               },
               {
                 "t": "p",
-                "x": "カリフォルニア州は2027年1月から16歳未満向けのコンパニオンチャットボット搭載玩具を禁止し、子ども向け玩具へのAIチャットボット搭載を全国で禁じる法案が議会に提出されている。"
+                "x": "Khanはオフィス環境で40人の参加者を対象に、一年間の追跡調査を計画している。この技術は特許手続き中で、将来的にはUSCのStevens Center for Innovationを通じて商用ライセンスが提供される可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "儿童团体促Amazon\n下架AI玩具",
-          "body": "儿童安全团体敦促Amazon下架AI玩具，包括一款据称接入13岁+聊天机器人的3岁+兔子。",
-          "mini_headline": "Amazon被促下架AI玩具",
+          "headline": "USC智能戒指\n完全在设备端读取压力",
+          "body": "戒指用近红外光读取汗腺活动，27.65kB 压力模型完全在端侧运行。",
+          "mini_headline": "USC戒指在端侧读取压力",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
               },
               {
                 "t": "p",
-                "x": "2026年11月23日，由150多个儿童权益团体和专家组成的联盟致信Amazon和eBay，敦促两家公司在本次假日季停止销售AI玩具，并向已购买的家庭退款（via Fairplay）。"
+                "x": "由University of Southern California（南加州大学）助理教授Yasser Khan及其PhD学生Farhad Hassan领导的团队，打造了一款AI-powered（AI驱动）戒指，利用近红外光追踪皮下汗液活动。研究成果发表在Science Advances上。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+                "cap": "USC Khan Lab"
               },
               {
                 "t": "p",
-                "x": "联盟要求，所有面向16岁以下儿童或可能被其使用、内置AI聊天机器人的玩具，在独立测试证明安全之前一律下架。联盟还要求删除“friend”（朋友）标签、修正相互矛盾的年龄标注，并向买家发出警告、提供退款。Amazon和eBay须在圣诞节前作出回复。"
+                "x": "Khan说：“这是第一次有人证明压力可以用光来测量。”在四名参与者的实验中，光学信号与商用凝胶式EDA传感器随时间的平均一致性为86%。同一光学系统还能捕捉心率和心率变异性。温度传感器和加速度计帮助戒指将心理压力与运动或受热引起的出汗区分开来。"
               },
               {
                 "t": "p",
-                "x": "一款适合3岁及以上儿童的毛绒兔子接入了ChatGPT等通用聊天机器人，而ChatGPT自身条款要求用户至少年满13岁。这些玩具内置的AI随时可能改变行为，联盟称AI玩具曾将幼儿引入涉性对话，并告诉他们去哪里找刀和火柴。"
+                "x": "机器学习模型直接在戒指上运行，因此原始生物特征数据无需传输到外部服务器。团队写道：“量化后的INT8模型占用27.65 kB。同时实现感知与推理需要174.47 kB 程序闪存和27.63 kB 静态RAM。”戒指在本地处理数据，只把“紧张”或“放松”等最终判断发送到配对的手机。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+                "cap": "Science Advances / USC"
               },
               {
                 "t": "p",
-                "x": "加利福尼亚州将从2027年1月起禁止面向16岁以下儿童的陪伴型聊天机器人玩具，国会也在审议一项在全国范围内禁止儿童玩具搭载AI聊天机器人的法案。"
+                "x": "Khan计划在办公环境中对40名参与者开展为期一年的跟踪研究。该技术正在申请专利，日后可能通过USC的Stevens Center for Innovation提供商业授权。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Defensores de la infancia piden\na Amazon retirar juguetes con AI",
-          "body": "Defensores de la infancia piden a Amazon retirar juguetes AI, como un conejo para 3+ al parecer ligado a chatbots 13+.",
-          "mini_headline": "Piden a Amazon retirar juguetes AI",
+          "headline": "El anillo inteligente de USC\nlee el estrés en el dispositivo",
+          "body": "El anillo lee la actividad sudoral con luz infrarroja cercana y ejecuta en su interior un modelo de estrés de 27.65kB.",
+          "mini_headline": "El anillo de USC lee el estrés a bordo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
               },
               {
                 "t": "p",
-                "x": "El 23 de noviembre de 2026, una coalición de más de 150 grupos de defensa de la infancia y expertos envió una carta a Amazon y eBay en la que les pide dejar de vender juguetes con AI esta temporada navideña y reembolsar a las familias que ya compraron uno (via Fairplay)."
+                "x": "Un equipo de la University of Southern California dirigido por el profesor adjunto Yasser Khan y su estudiante de doctorado (PhD) Farhad Hassan creó un anillo con AI (AI-powered) que usa luz infrarroja cercana para seguir la actividad del sudor bajo la piel. Sus resultados se publicaron en Science Advances."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+                "cap": "USC Khan Lab"
               },
               {
                 "t": "p",
-                "x": "La coalición quiere que se retire todo juguete con un chatbot de AI integrado dirigido a menores de 16 años, o que probablemente usen, hasta que pruebas independientes demuestren que es seguro. También pide eliminar las etiquetas de \"friend\" (amigo), corregir las indicaciones de edad contradictorias y advertir a los compradores y ofrecerles reembolsos. Amazon y eBay tienen hasta Navidad para responder."
+                "x": "“Es la primera vez que alguien demuestra que el estrés se puede medir con luz”, dijo Khan. En experimentos con cuatro participantes, las señales ópticas mostraron una concordancia media del 86 por ciento a lo largo del tiempo con un sensor EDA comercial basado en gel. El mismo sistema óptico capta además la frecuencia cardiaca y su variabilidad. Un sensor de temperatura y un acelerómetro ayudan al anillo a distinguir el estrés psicológico del movimiento o de la sudoración provocada por el calor."
               },
               {
                 "t": "p",
-                "x": "Un conejo de peluche para mayores de 3 años está conectado a chatbots de uso general como ChatGPT, cuyos propios términos exigen que los usuarios tengan al menos 13 años. La AI de estos juguetes puede cambiar su comportamiento en cualquier momento, y la coalición afirma que los juguetes con AI han arrastrado a niños pequeños a conversaciones sexuales y les han dicho dónde encontrar cuchillos y cerillas."
+                "x": "El modelo de aprendizaje automático se ejecuta en el propio anillo, por lo que los datos biométricos en bruto no tienen que viajar a un servidor externo. “El modelo INT8 cuantizado ocupó 27.65 kB. La implementación simultánea de detección e inferencia requirió 174.47 kB de memoria flash de programa y 27.63 kB de RAM estática”, escribe el equipo. El anillo procesa los datos localmente y solo envía el veredicto final, como estresado o relajado, al teléfono emparejado."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+                "cap": "Science Advances / USC"
               },
               {
                 "t": "p",
-                "x": "California prohíbe a partir de enero de 2027 los juguetes con chatbots de compañía para menores de 16 años, y en el Congreso hay un proyecto de ley para prohibir los chatbots de AI en juguetes infantiles en todo el país."
+                "x": "Khan planea un seguimiento de un año con 40 participantes en un entorno de oficina. La tecnología está en proceso de patente y más adelante podría ofrecerse para licencias comerciales a través del Stevens Center for Innovation de USC."
               }
             ]
           }
@@ -1025,153 +1057,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "아동 단체, Amazon에\nAI 장난감 퇴출 촉구",
-          "body": "아동 단체가 13세+ 챗봇과 연결된 3세+ 토끼 등 AI 장난감 퇴출을 촉구했다.",
-          "mini_headline": "Amazon에 AI 장난감 퇴출 요구",
+          "headline": "USC 스마트 반지\n기기 안에서 스트레스 판별",
+          "body": "반지는 근적외선으로 땀샘을 읽고 27.65kB 스트레스 모델을 자체 구동한다.",
+          "mini_headline": "USC 반지, 기기 안에서 스트레스 판독",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
               },
               {
                 "t": "p",
-                "x": "2026년 11월 23일, 150곳이 넘는 아동 권익 단체와 전문가로 이뤄진 연합이 Amazon과 eBay에 서한을 보내 이번 연말 시즌 AI 장난감 판매를 중단하고 이미 구매한 가정에 환불해 달라고 촉구했다(via Fairplay)."
+                "x": "University of Southern California(서던캘리포니아대) Yasser Khan 조교수와 그의 PhD 과정 학생 Farhad Hassan이 이끄는 연구팀이 근적외선으로 피부 아래 땀 활동을 추적하는 AI 기반(AI-powered) 반지를 만들었다. 연구 결과는 Science Advances에 실렸다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+                "cap": "USC Khan Lab"
               },
               {
                 "t": "p",
-                "x": "연합은 16세 미만 아동을 겨냥했거나 아동이 쓸 가능성이 높은 AI 챗봇 내장 장난감을 독립 테스트로 안전성이 확인될 때까지 모두 판매 중단하라고 요구한다. 또 \"friend\"(친구) 표시를 없애고, 서로 모순되는 연령 표시를 바로잡고, 구매자에게 경고와 환불을 제공하라고 요구했다. Amazon과 eBay는 크리스마스까지 답해야 한다."
+                "x": "Khan은 “빛으로 스트레스를 측정할 수 있다는 것을 누군가 보여 준 것은 이번이 처음”이라고 말했다. 참가자 네 명을 대상으로 한 실험에서 광학 신호는 상용 젤 기반 EDA 센서와 시간에 걸쳐 평균 86퍼센트 일치했다. 같은 광학 시스템으로 심박수와 심박변이도도 측정한다. 온도 센서와 가속도계는 반지가 심리적 스트레스를 움직임이나 열로 인한 땀과 구별하도록 돕는다."
               },
               {
                 "t": "p",
-                "x": "3세 이상용 봉제 토끼 인형 하나는 ChatGPT 같은 범용 챗봇에 연결되는데, 이 챗봇의 약관은 사용자가 최소 13세 이상일 것을 요구한다. 이런 장난감 속 AI는 언제든 행동이 바뀔 수 있으며, 연합은 AI 장난감이 어린아이들을 성적인 대화로 끌어들이고 칼과 성냥을 어디서 찾을 수 있는지 알려 줬다고 지적한다."
+                "x": "머신러닝 모델이 반지 자체에서 돌아가므로 원시 생체 데이터를 외부 서버로 보낼 필요가 없다. 연구팀은 “양자화한 INT8 모델은 27.65 kB를 차지했다. 감지와 추론을 동시에 구현하는 데 프로그램 플래시 174.47 kB와 정적 RAM 27.63 kB가 필요했다”고 썼다. 반지는 데이터를 로컬에서 처리하고, 스트레스 상태나 이완 상태 같은 최종 판정만 연결된 휴대폰으로 보낸다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+                "cap": "Science Advances / USC"
               },
               {
                 "t": "p",
-                "x": "캘리포니아주는 2027년 1월부터 16세 미만 아동용 컴패니언 챗봇 장난감을 금지하며, 아동 장난감 속 AI 챗봇을 전국적으로 금지하는 법안이 의회에 올라 있다."
+                "x": "Khan은 사무실 환경에서 참가자 40명을 대상으로 일 년간 후속 연구를 진행할 계획이다. 이 기술은 특허 절차를 밟고 있으며, 앞으로 USC의 Stevens Center for Innovation을 통해 상업용 라이선스로 제공될 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "児童団体がAmazonに\nAI玩具の撤去を要求",
-          "body": "児童団体は13歳以上向けチャットボットとつながる3歳以上向けうさぎなどAI玩具撤去を求めた。",
-          "mini_headline": "AmazonにAI玩具撤去要求",
+          "headline": "USCのスマートリング\n端末内だけでストレス判定",
+          "body": "リングは近赤外光で汗腺の活動を読み取り、27.65kB のストレスモデルを内部で動かす。",
+          "mini_headline": "USCのリング、端末内でストレス判定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
               },
               {
                 "t": "p",
-                "x": "2026年11月23日、150以上の児童擁護団体と専門家からなる連合が、AmazonとeBayに書簡を送り、このホリデーシーズンのAI玩具の販売停止と、すでに購入した家庭への返金を求めた(via Fairplay)。"
+                "x": "University of Southern California（南カリフォルニア大学）のYasser Khan助教と、そのPhD課程の学生Farhad Hassanが率いるチームは、近赤外光で皮膚下の発汗活動を追跡するAI搭載（AI-powered）リングを開発した。成果はScience Advancesに掲載された。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+                "cap": "USC Khan Lab"
               },
               {
                 "t": "p",
-                "x": "連合は、16歳未満の子どもを対象とする、または子どもが使う可能性が高いAIチャットボット内蔵の玩具すべてを、独立したテストで安全性が示されるまで撤去するよう求めている。さらに「friend」(友達)表示の削除、矛盾する対象年齢表示の修正、購入者への警告と返金も求めた。AmazonとeBayはクリスマスまでに回答する必要がある。"
+                "x": "「光でストレスを測定できることを示したのは、これが初めてだ」とKhanは述べた。四人の参加者による実験では、光学信号は市販のゲル式EDAセンサーと時間を通じて平均86パーセント一致した。同じ光学システムで心拍数と心拍変動も取得できる。温度センサーと加速度計により、リングは心理的ストレスを動きや熱による発汗と区別できる。"
               },
               {
                 "t": "p",
-                "x": "3歳以上向けのうさぎのぬいぐるみの一つは、ChatGPTのような汎用チャットボットに接続されているが、そのChatGPT自身の規約は利用者が13歳以上であることを求めている。こうした玩具に内蔵されたAIはいつでも挙動が変わりうる。連合によれば、AI玩具は幼い子どもを性的な会話に引き込み、ナイフやマッチのある場所を教えたこともあるという。"
+                "x": "機械学習モデルはリング本体で動作するため、生の生体データを外部サーバーへ送る必要はない。チームは「量子化したINT8モデルは27.65 kB を占めた。センシングと推論を同時に実装するには、プログラムフラッシュ174.47 kB と静的RAM 27.63 kB が必要だった」と記している。リングはデータをローカルで処理し、「ストレスあり」「リラックス」といった最終判定だけをペアリングしたスマートフォンに送る。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+                "cap": "Science Advances / USC"
               },
               {
                 "t": "p",
-                "x": "カリフォルニア州は2027年1月から16歳未満向けのコンパニオンチャットボット搭載玩具を禁止し、子ども向け玩具へのAIチャットボット搭載を全国で禁じる法案が議会に提出されている。"
+                "x": "Khanはオフィス環境で40人の参加者を対象に、一年間の追跡調査を計画している。この技術は特許手続き中で、将来的にはUSCのStevens Center for Innovationを通じて商用ライセンスが提供される可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "儿童团体促Amazon\n下架AI玩具",
-          "body": "儿童安全团体敦促Amazon下架AI玩具，包括一款据称接入13岁+聊天机器人的3岁+兔子。",
-          "mini_headline": "Amazon被促下架AI玩具",
+          "headline": "USC智能戒指\n完全在设备端读取压力",
+          "body": "戒指用近红外光读取汗腺活动，27.65kB 压力模型完全在端侧运行。",
+          "mini_headline": "USC戒指在端侧读取压力",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
               },
               {
                 "t": "p",
-                "x": "2026年11月23日，由150多个儿童权益团体和专家组成的联盟致信Amazon和eBay，敦促两家公司在本次假日季停止销售AI玩具，并向已购买的家庭退款（via Fairplay）。"
+                "x": "由University of Southern California（南加州大学）助理教授Yasser Khan及其PhD学生Farhad Hassan领导的团队，打造了一款AI-powered（AI驱动）戒指，利用近红外光追踪皮下汗液活动。研究成果发表在Science Advances上。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+                "cap": "USC Khan Lab"
               },
               {
                 "t": "p",
-                "x": "联盟要求，所有面向16岁以下儿童或可能被其使用、内置AI聊天机器人的玩具，在独立测试证明安全之前一律下架。联盟还要求删除“friend”（朋友）标签、修正相互矛盾的年龄标注，并向买家发出警告、提供退款。Amazon和eBay须在圣诞节前作出回复。"
+                "x": "Khan说：“这是第一次有人证明压力可以用光来测量。”在四名参与者的实验中，光学信号与商用凝胶式EDA传感器随时间的平均一致性为86%。同一光学系统还能捕捉心率和心率变异性。温度传感器和加速度计帮助戒指将心理压力与运动或受热引起的出汗区分开来。"
               },
               {
                 "t": "p",
-                "x": "一款适合3岁及以上儿童的毛绒兔子接入了ChatGPT等通用聊天机器人，而ChatGPT自身条款要求用户至少年满13岁。这些玩具内置的AI随时可能改变行为，联盟称AI玩具曾将幼儿引入涉性对话，并告诉他们去哪里找刀和火柴。"
+                "x": "机器学习模型直接在戒指上运行，因此原始生物特征数据无需传输到外部服务器。团队写道：“量化后的INT8模型占用27.65 kB。同时实现感知与推理需要174.47 kB 程序闪存和27.63 kB 静态RAM。”戒指在本地处理数据，只把“紧张”或“放松”等最终判断发送到配对的手机。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+                "cap": "Science Advances / USC"
               },
               {
                 "t": "p",
-                "x": "加利福尼亚州将从2027年1月起禁止面向16岁以下儿童的陪伴型聊天机器人玩具，国会也在审议一项在全国范围内禁止儿童玩具搭载AI聊天机器人的法案。"
+                "x": "Khan计划在办公环境中对40名参与者开展为期一年的跟踪研究。该技术正在申请专利，日后可能通过USC的Stevens Center for Innovation提供商业授权。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Defensores de la infancia piden\na Amazon retirar juguetes con AI",
-          "body": "Defensores de la infancia piden a Amazon retirar juguetes AI, como un conejo para 3+ al parecer ligado a chatbots 13+.",
-          "mini_headline": "Piden a Amazon retirar juguetes AI",
+          "headline": "El anillo inteligente de USC\nlee el estrés en el dispositivo",
+          "body": "El anillo lee la actividad sudoral con luz infrarroja cercana y ejecuta en su interior un modelo de estrés de 27.65kB.",
+          "mini_headline": "El anillo de USC lee el estrés a bordo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C720&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
               },
               {
                 "t": "p",
-                "x": "El 23 de noviembre de 2026, una coalición de más de 150 grupos de defensa de la infancia y expertos envió una carta a Amazon y eBay en la que les pide dejar de vender juguetes con AI esta temporada navideña y reembolsar a las familias que ya compraron uno (via Fairplay)."
+                "x": "Un equipo de la University of Southern California dirigido por el profesor adjunto Yasser Khan y su estudiante de doctorado (PhD) Farhad Hassan creó un anillo con AI (AI-powered) que usa luz infrarroja cercana para seguir la actividad del sudor bajo la piel. Sus resultados se publicaron en Science Advances."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/videoframe_8452.png?resize=1920%2C1080&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+                "cap": "USC Khan Lab"
               },
               {
                 "t": "p",
-                "x": "La coalición quiere que se retire todo juguete con un chatbot de AI integrado dirigido a menores de 16 años, o que probablemente usen, hasta que pruebas independientes demuestren que es seguro. También pide eliminar las etiquetas de \"friend\" (amigo), corregir las indicaciones de edad contradictorias y advertir a los compradores y ofrecerles reembolsos. Amazon y eBay tienen hasta Navidad para responder."
+                "x": "“Es la primera vez que alguien demuestra que el estrés se puede medir con luz”, dijo Khan. En experimentos con cuatro participantes, las señales ópticas mostraron una concordancia media del 86 por ciento a lo largo del tiempo con un sensor EDA comercial basado en gel. El mismo sistema óptico capta además la frecuencia cardiaca y su variabilidad. Un sensor de temperatura y un acelerómetro ayudan al anillo a distinguir el estrés psicológico del movimiento o de la sudoración provocada por el calor."
               },
               {
                 "t": "p",
-                "x": "Un conejo de peluche para mayores de 3 años está conectado a chatbots de uso general como ChatGPT, cuyos propios términos exigen que los usuarios tengan al menos 13 años. La AI de estos juguetes puede cambiar su comportamiento en cualquier momento, y la coalición afirma que los juguetes con AI han arrastrado a niños pequeños a conversaciones sexuales y les han dicho dónde encontrar cuchillos y cerillas."
+                "x": "El modelo de aprendizaje automático se ejecuta en el propio anillo, por lo que los datos biométricos en bruto no tienen que viajar a un servidor externo. “El modelo INT8 cuantizado ocupó 27.65 kB. La implementación simultánea de detección e inferencia requirió 174.47 kB de memoria flash de programa y 27.63 kB de RAM estática”, escribe el equipo. El anillo procesa los datos localmente y solo envía el veredicto final, como estresado o relajado, al teléfono emparejado."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/chatgpt-ai-assistant-on-phone.jpg?resize=2000%2C1200&ssl=1"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+                "cap": "Science Advances / USC"
               },
               {
                 "t": "p",
-                "x": "California prohíbe a partir de enero de 2027 los juguetes con chatbots de compañía para menores de 16 años, y en el Congreso hay un proyecto de ley para prohibir los chatbots de AI en juguetes infantiles en todo el país."
+                "x": "Khan planea un seguimiento de un año con 40 participantes en un entorno de oficina. La tecnología está en proceso de patente y más adelante podría ofrecerse para licencias comerciales a través del Stevens Center for Innovation de USC."
               }
             ]
           }
@@ -1179,15 +1219,15 @@
       }
     },
     {
-      "id": "rogbid-loop-memo-band",
+      "id": "meta-glasses-south-africa-launch",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Loop Memo, 손목에\n음성 녹음기를 얹다",
-      "body": "Rogbid Loop Memo는 원터치 녹음·건강 추적에 구독료가 없는 밴드다.",
-      "mini_headline": "손목 위의 음성 녹음기",
+      "headline": "Ray-Ban·Oakley\nMeta AI 안경 남아공",
+      "body": "Ray-Ban·Oakley Meta가 십일월 말 나오며 Gen 3는 R8,599다.",
+      "mini_headline": "Meta AI 안경, 남아공 상륙",
       "tool": "Gadgets",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/11/25/rogbid-loop-memo-voice-recorder-band/",
+      "source": "Bizcommunity",
+      "url": "https://www.bizcommunity.com/article/ray-ban-and-oakley-meta-ai-glasses-are-coming-to-south-africa-295107a",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1195,269 +1235,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
+            "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
           },
           {
             "t": "p",
-            "x": "손목에 차고 다니는데 구독료는 한 푼도 받지 않는 음성 녹음기라면 반길 만하다. Rogbid의 Loop Memo는 한 번 누르면 녹음되고 전용 앱이 그 오디오를 받아쓰기와 요약, 할 일 목록으로 바꿔 준다."
+            "x": "Essilor Luxottica와 Meta가 십일월 말부터 남아프리카공화국에서 Ray-Ban Meta와 Oakley Meta 스마트 안경 컬렉션을 판매한다. 현지 소비자에게는 AI 기반(AI-powered) 웨어러블 기술이라는 새로운 범주다."
           },
           {
             "t": "p",
-            "x": "가격은 Rogbid 자체 스토어 기준 Phantom Black 색상이 $79.99다. AI 받아쓰기와 요약이 이 값에 들어 있어 월 사용료는 따로 없다."
-          },
-          {
-            "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
+            "x": "Ray-Ban Meta는 3세대 제품이 들어오며 Wayfarer, Aviator, Zena 스타일로 나온다. 착용자는 사진과 동영상을 찍고 음악과 팟캐스트를 듣는다. 전화 통화와 메시지 전송, 대화 번역도 된다. 내장 Meta AI에게는 지금 보고 있는 대상을 음성으로 물어볼 수 있다."
           },
           {
             "t": "p",
-            "x": "AI 노이즈 캔슬링은 화자가 방 건너편에 앉아 있어도 목소리를 또렷하게 끌어낸다. 내부 저장 공간 1 GB로 휴대폰 없이 최대 10시간을 녹음한다. 요약은 마인드맵으로 만들어 TXT, PDF, Word 파일로 내보낸다."
-          },
-          {
-            "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
+            "x": "Oakley Meta 컬렉션은 스포츠와 야외 활동용이다. HSTN은 3K Ultra HD 카메라와 오픈형 스피커, IPX4 등급을 갖췄다. 러닝과 사이클링용인 Vanguard에는 시야각 122도의 12MP 초광각 카메라와 IP67 등급, Strava·Garmin 연동이 들어갔다."
           },
           {
             "t": "p",
-            "x": "간판은 녹음기지만 Memo는 심박수, 심박 변이도, 스트레스, 수면 단계를 추적하고 100개가 넘는 운동 모드도 갖췄다. 22그램, IP67 등급인 이 트래커는 220 mAh 배터리로 대기 시 최대 50일 간다고 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
-          },
-          {
-            "t": "p",
-            "x": "화면 없는 제품 중 가장 가까운 경쟁작인 Amazfit의 Helio Strap은 $99.99인데 녹음 기능이 아예 없다. Memo는 이보다 $20 싸면서 마이크까지 더했다."
+            "x": "제품은 일부 Essilor Luxottica 안경 소매 파트너와 Oakley 매장, 온라인에서 살 수 있다. 권장 시작가는 Ray-Ban Meta Optics (Gen 2) R8,999, Ray-Ban Meta (Gen 3) R8,599, Oakley Meta Vanguard R10,599, Oakley Meta HSTN R8,399다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Rogbid's Loop Memo puts\na voice recorder on your wrist",
-          "body": "Rogbid's Loop Memo is a smart band that records voice with one press and tracks health, with no subscription fee.",
-          "mini_headline": "A voice recorder\nfor your wrist",
+          "headline": "Ray-Ban and Oakley Meta\nAI glasses reach South Africa",
+          "body": "Ray-Ban Meta and Oakley Meta glasses arrive from the end of November, with Ray-Ban Meta Gen 3 priced at R8,599.",
+          "mini_headline": "Meta AI glasses reach South Africa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
+                "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
               },
               {
                 "t": "p",
-                "x": "A voice recorder that lives on your wrist and never asks for a subscription fee is a pitch I can get behind. Rogbid's Loop Memo records with one press, then turns that audio into transcripts, summaries, and to-do lists in its companion app."
+                "x": "Essilor Luxottica and Meta are bringing their Ray-Ban Meta and Oakley Meta smart eyewear collections to South Africa from the end of November, introducing local consumers to a new category of AI-powered wearable technology."
               },
               {
                 "t": "p",
-                "x": "The band costs $79.99 in Phantom Black at Rogbid's own store, and that price covers the AI transcription and summaries with no monthly fee stacked on top."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
+                "x": "The Ray-Ban Meta collection will arrive in its third generation, with Wayfarer, Aviator and Zena styles. Wearers can capture photos and videos, listen to music and podcasts, make calls, send messages and translate conversations. The built-in Meta AI function also allows users to ask questions about what they are seeing, using voice commands."
               },
               {
                 "t": "p",
-                "x": "AI noise cancellation works to pull voices forward even when the speaker sits across a room. There's 1 GB of storage inside, good for up to 10 hours of recording with no phone nearby, and summaries can become mind maps exported as TXT, PDF, or Word files."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
+                "x": "The Oakley Meta collection is aimed at sports and outdoor use. The HSTN includes a 3K Ultra HD camera, open-ear speakers and an IPX4 rating. The Vanguard, geared towards running and cycling, has a 12MP ultra-wide camera with a 122-degree field of view, an IP67 rating, and integration with Strava and Garmin."
               },
               {
                 "t": "p",
-                "x": "Under the recorder pitch, the Memo tracks heart rate, heart rate variability, stress, and sleep stages, and carries more than 100 sports modes. The 22-gram, IP67 tracker's 220 mAh battery is quoted at up to 50 days on standby."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "The closest screenless rival, Amazfit's Helio Strap, runs $99.99 and skips recording entirely, so the Memo undercuts it by $20 while adding the microphone."
+                "x": "The collections will be available through selected Essilor Luxottica optical retail partners, Oakley stores and online. Suggested entry-level prices: Ray-Ban Meta Optics (Gen 2) R8,999; Ray-Ban Meta (Gen 3) R8,599; Oakley Meta Vanguard R10,599; Oakley Meta HSTN R8,399."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Loop Memo, 손목에\n음성 녹음기를 얹다",
-          "body": "Rogbid Loop Memo는 원터치 녹음·건강 추적에 구독료가 없는 밴드다.",
-          "mini_headline": "손목 위의 음성 녹음기",
+          "headline": "Ray-Ban·Oakley\nMeta AI 안경 남아공",
+          "body": "Ray-Ban·Oakley Meta가 십일월 말 나오며 Gen 3는 R8,599다.",
+          "mini_headline": "Meta AI 안경, 남아공 상륙",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
+                "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
               },
               {
                 "t": "p",
-                "x": "손목에 차고 다니는데 구독료는 한 푼도 받지 않는 음성 녹음기라면 반길 만하다. Rogbid의 Loop Memo는 한 번 누르면 녹음되고 전용 앱이 그 오디오를 받아쓰기와 요약, 할 일 목록으로 바꿔 준다."
+                "x": "Essilor Luxottica와 Meta가 십일월 말부터 남아프리카공화국에서 Ray-Ban Meta와 Oakley Meta 스마트 안경 컬렉션을 판매한다. 현지 소비자에게는 AI 기반(AI-powered) 웨어러블 기술이라는 새로운 범주다."
               },
               {
                 "t": "p",
-                "x": "가격은 Rogbid 자체 스토어 기준 Phantom Black 색상이 $79.99다. AI 받아쓰기와 요약이 이 값에 들어 있어 월 사용료는 따로 없다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
+                "x": "Ray-Ban Meta는 3세대 제품이 들어오며 Wayfarer, Aviator, Zena 스타일로 나온다. 착용자는 사진과 동영상을 찍고 음악과 팟캐스트를 듣는다. 전화 통화와 메시지 전송, 대화 번역도 된다. 내장 Meta AI에게는 지금 보고 있는 대상을 음성으로 물어볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "AI 노이즈 캔슬링은 화자가 방 건너편에 앉아 있어도 목소리를 또렷하게 끌어낸다. 내부 저장 공간 1 GB로 휴대폰 없이 최대 10시간을 녹음한다. 요약은 마인드맵으로 만들어 TXT, PDF, Word 파일로 내보낸다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
+                "x": "Oakley Meta 컬렉션은 스포츠와 야외 활동용이다. HSTN은 3K Ultra HD 카메라와 오픈형 스피커, IPX4 등급을 갖췄다. 러닝과 사이클링용인 Vanguard에는 시야각 122도의 12MP 초광각 카메라와 IP67 등급, Strava·Garmin 연동이 들어갔다."
               },
               {
                 "t": "p",
-                "x": "간판은 녹음기지만 Memo는 심박수, 심박 변이도, 스트레스, 수면 단계를 추적하고 100개가 넘는 운동 모드도 갖췄다. 22그램, IP67 등급인 이 트래커는 220 mAh 배터리로 대기 시 최대 50일 간다고 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "화면 없는 제품 중 가장 가까운 경쟁작인 Amazfit의 Helio Strap은 $99.99인데 녹음 기능이 아예 없다. Memo는 이보다 $20 싸면서 마이크까지 더했다."
+                "x": "제품은 일부 Essilor Luxottica 안경 소매 파트너와 Oakley 매장, 온라인에서 살 수 있다. 권장 시작가는 Ray-Ban Meta Optics (Gen 2) R8,999, Ray-Ban Meta (Gen 3) R8,599, Oakley Meta Vanguard R10,599, Oakley Meta HSTN R8,399다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Loop Memo、\n手首にボイスレコーダー",
-          "body": "RogbidのLoop Memoはワンプッシュ録音と健康管理を備え、サブスク料金も不要だ。",
-          "mini_headline": "手首に載るボイスレコーダー",
+          "headline": "Ray-Ban・Oakley\nMeta AIグラス南アへ",
+          "body": "Ray-Ban・Oakley Metaは十一月末に登場し、Gen 3はR8,599だ。",
+          "mini_headline": "Meta AIグラスが南アフリカ上陸",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
+                "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
               },
               {
                 "t": "p",
-                "x": "手首に着けたまま使え、サブスクリプション料金を一切求めないボイスレコーダーなら、支持したくなる提案だ。RogbidのLoop Memoはワンプッシュで録音し、その音声をコンパニオンアプリで文字起こし、要約、やることリストに変換する。"
+                "x": "Essilor LuxotticaとMetaは十一月末から、Ray-Ban MetaとOakley Metaのスマートアイウェアコレクションを南アフリカで展開し、現地の消費者にAI搭載（AI-powered）ウェアラブル技術という新たなカテゴリーを紹介する。"
               },
               {
                 "t": "p",
-                "x": "価格はRogbid公式ストアでPhantom Blackが$79.99で、この価格にAI文字起こしと要約が含まれ、月額料金は上乗せされない。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
+                "x": "Ray-Ban Metaコレクションは第三世代となり、Wayfarer、Aviator、Zenaの各スタイルをそろえる。着用者は写真や動画の撮影、音楽やポッドキャストの再生、通話、メッセージ送信、会話の翻訳ができる。内蔵のMeta AI機能を使えば、見ているものについて音声コマンドで質問することもできる。"
               },
               {
                 "t": "p",
-                "x": "AIノイズキャンセリングにより、話し手が部屋の反対側に座っていても声をくっきり拾う。本体に1 GBのストレージを備え、スマートフォンが近くになくても最大10時間録音できる。要約はマインドマップにしてTXT、PDF、Wordファイルとして書き出せる。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
+                "x": "Oakley Metaコレクションはスポーツやアウトドア向けだ。HSTNは3K Ultra HDカメラ、オープンイヤースピーカー、IPX4 等級を備える。ランニングやサイクリング向けのVanguardは、視野角122度の12MP 超広角カメラ、IP67 等級、StravaとGarminとの連携を備える。"
               },
               {
                 "t": "p",
-                "x": "レコーダーという売りの裏で、Memoは心拍数、心拍変動、ストレス、睡眠段階を記録し、100種類以上のスポーツモードを備える。重さ22グラム、IP67のこのトラッカーは220 mAhのバッテリーで、待機時最大50日もつとされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "最も近い画面なしのライバル、AmazfitのHelio Strapは$99.99で録音機能を一切持たない。Memoはそれより$20安く、さらにマイクも備える。"
+                "x": "コレクションは一部のEssilor Luxottica眼鏡小売パートナー、Oakley店舗、オンラインで販売される。希望エントリー価格はRay-Ban Meta Optics (Gen 2)がR8,999、Ray-Ban Meta (Gen 3)がR8,599、Oakley Meta VanguardがR10,599、Oakley Meta HSTNがR8,399だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Loop Memo：\n把录音笔戴上手腕",
-          "body": "Rogbid的Loop Memo是一款智能手环，一键录音并追踪健康，无需订阅费。",
-          "mini_headline": "戴在手腕上的录音笔",
+          "headline": "Ray-Ban·Oakley\nMeta AI眼镜登陆南非",
+          "body": "Ray-Ban与Oakley Meta眼镜十一月底上市，Gen 3售价R8,599。",
+          "mini_headline": "Meta AI眼镜登陆南非",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
+                "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
               },
               {
                 "t": "p",
-                "x": "一款戴在手腕上、从不要求订阅费的录音设备，是我愿意支持的卖点。Rogbid的Loop Memo一键即可录音，随后在配套应用中把音频转成文字稿、摘要和待办清单。"
+                "x": "Essilor Luxottica与Meta将从十一月底起把Ray-Ban Meta和Oakley Meta智能眼镜系列引入南非，向当地消费者推出AI-powered（AI驱动）可穿戴技术这一新品类。"
               },
               {
                 "t": "p",
-                "x": "这款手环在Rogbid官方商店的Phantom Black版售价$79.99，该价格已涵盖AI转写和摘要，无需额外支付月费。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
+                "x": "Ray-Ban Meta系列将以第三代产品登场，包括Wayfarer、Aviator和Zena款式。佩戴者可以拍摄照片和视频、收听音乐和播客、拨打电话、发送消息以及翻译对话。内置的Meta AI功能还允许用户通过语音指令询问眼前所见之物。"
               },
               {
                 "t": "p",
-                "x": "即使说话者坐在房间另一头，AI降噪也能突出人声。机身内置1 GB存储，无需手机在旁即可录音最长10小时，摘要还可生成思维导图，并导出为TXT、PDF或Word文件。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
+                "x": "Oakley Meta系列面向运动和户外使用。HSTN配备3K Ultra HD摄像头和开放式扬声器，并具备IPX4 防护等级。专为跑步和骑行设计的Vanguard配备视场角122度的12MP 超广角摄像头，具备IP67 防护等级，并可与Strava和Garmin集成。"
               },
               {
                 "t": "p",
-                "x": "除了录音这一卖点，Memo还能追踪心率、心率变异性、压力和睡眠阶段，并提供100多种运动模式。这款重22克、具备IP67防护的手环搭载220 mAh电池，官方称待机最长可达50天。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "最接近的无屏竞品Amazfit的Helio Strap售价$99.99，且完全没有录音功能，因此Memo便宜$20，还多了麦克风。"
+                "x": "该系列将通过部分Essilor Luxottica眼镜零售合作伙伴、Oakley门店和线上渠道销售。建议入门价格：Ray-Ban Meta Optics (Gen 2) R8,999；Ray-Ban Meta (Gen 3) R8,599；Oakley Meta Vanguard R10,599；Oakley Meta HSTN R8,399。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Loop Memo de Rogbid pone\nuna grabadora en tu muñeca",
-          "body": "El Loop Memo de Rogbid es una pulsera inteligente que graba voz con una pulsación y mide la salud, sin suscripción.",
-          "mini_headline": "Una grabadora de voz para la muñeca",
+          "headline": "Las gafas Ray-Ban y Oakley Meta\ncon AI llegan a Sudáfrica",
+          "body": "Las gafas Ray-Ban Meta y Oakley Meta llegan desde finales de noviembre, con las Ray-Ban Meta Gen 3 a R8,599.",
+          "mini_headline": "Las gafas Meta AI llegan a Sudáfrica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
+                "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
               },
               {
                 "t": "p",
-                "x": "Una grabadora de voz que vive en tu muñeca y nunca pide una cuota de suscripción es una propuesta que puedo respaldar. El Loop Memo de Rogbid graba con una sola pulsación y luego convierte ese audio en transcripciones, resúmenes y listas de tareas en su aplicación complementaria."
+                "x": "Essilor Luxottica y Meta llevarán sus colecciones de gafas inteligentes Ray-Ban Meta y Oakley Meta a Sudáfrica a partir de finales de noviembre, y presentarán a los consumidores locales una nueva categoría de tecnología ponible con AI (AI-powered)."
               },
               {
                 "t": "p",
-                "x": "La pulsera cuesta $79.99 en color Phantom Black en la tienda propia de Rogbid, y ese precio cubre la transcripción y los resúmenes con AI sin ninguna cuota mensual adicional."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
+                "x": "La colección Ray-Ban Meta llegará en su tercera generación, con los estilos Wayfarer, Aviator y Zena. Quienes las usen podrán tomar fotos y videos, escuchar música y pódcasts, hacer llamadas, enviar mensajes y traducir conversaciones. La función Meta AI integrada también permite hacer preguntas por comandos de voz sobre lo que se está viendo."
               },
               {
                 "t": "p",
-                "x": "La cancelación de ruido con AI destaca las voces incluso cuando el interlocutor está sentado al otro lado de la sala. Tiene 1 GB de almacenamiento interno, suficiente para hasta 10 horas de grabación sin un teléfono cerca, y los resúmenes pueden convertirse en mapas mentales exportables como archivos TXT, PDF o Word."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
+                "x": "La colección Oakley Meta está pensada para el deporte y el uso al aire libre. Las HSTN incluyen una cámara 3K Ultra HD, altavoces de oído abierto y certificación IPX4. Las Vanguard, orientadas a correr y al ciclismo, tienen una cámara ultra gran angular de 12MP con un campo de visión de 122 grados, certificación IP67 e integración con Strava y Garmin."
               },
               {
                 "t": "p",
-                "x": "Más allá de la grabadora, el Memo registra la frecuencia cardiaca, la variabilidad de la frecuencia cardiaca, el estrés y las fases del sueño, e incluye más de 100 modos deportivos. La batería de 220 mAh de este rastreador de 22 gramos con certificación IP67 promete hasta 50 días en reposo."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "Su rival sin pantalla más cercano, el Helio Strap de Amazfit, cuesta $99.99 y no graba en absoluto, así que el Memo es $20 más barato y además añade el micrófono."
+                "x": "Las colecciones estarán disponibles a través de determinados socios minoristas ópticos de Essilor Luxottica, tiendas Oakley y en línea. Precios de entrada sugeridos: Ray-Ban Meta Optics (Gen 2) R8,999; Ray-Ban Meta (Gen 3) R8,599; Oakley Meta Vanguard R10,599; Oakley Meta HSTN R8,399."
               }
             ]
           }
@@ -1465,577 +1409,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Loop Memo, 손목에\n음성 녹음기를 얹다",
-          "body": "Rogbid Loop Memo는 원터치 녹음·건강 추적에 구독료가 없는 밴드다.",
-          "mini_headline": "손목 위의 음성 녹음기",
+          "headline": "Ray-Ban·Oakley\nMeta AI 안경 남아공",
+          "body": "Ray-Ban·Oakley Meta가 십일월 말 나오며 Gen 3는 R8,599다.",
+          "mini_headline": "Meta AI 안경, 남아공 상륙",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
+                "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
               },
               {
                 "t": "p",
-                "x": "손목에 차고 다니면서 구독료를 한 번도 요구하지 않는 음성 녹음기라면 충분히 반길 만한 제안이다. Rogbid의 Loop Memo는 한 번 눌러 녹음하고, 그 오디오를 전용 앱에서 받아쓰기와 요약, 할 일 목록으로 바꿔 준다."
+                "x": "Essilor Luxottica와 Meta가 십일월 말부터 Ray-Ban Meta와 Oakley Meta 스마트 안경 컬렉션을 남아프리카공화국에 선보이며, 현지 소비자에게 AI 기반(AI-powered) 웨어러블 기술이라는 새로운 범주를 소개한다."
               },
               {
                 "t": "p",
-                "x": "이 밴드는 Rogbid 자체 스토어에서 Phantom Black 색상이 $79.99이며, 이 가격에 AI 받아쓰기와 요약이 포함돼 월 사용료가 따로 붙지 않는다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
+                "x": "Ray-Ban Meta 컬렉션은 세 번째 세대 제품으로 들어오며 Wayfarer, Aviator, Zena 스타일로 구성된다. 착용자는 사진과 동영상을 찍고, 음악과 팟캐스트를 듣고, 전화를 걸고, 메시지를 보내고, 대화를 번역할 수 있다. 내장된 Meta AI 기능으로 지금 보고 있는 대상에 대해 음성 명령으로 질문할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "AI 노이즈 캔슬링은 화자가 방 건너편에 앉아 있어도 목소리를 또렷하게 끌어낸다. 내부 저장 공간은 1 GB로 휴대폰 없이 최대 10시간까지 녹음할 수 있으며, 요약은 마인드맵으로 만들어 TXT, PDF, Word 파일로 내보낼 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
+                "x": "Oakley Meta 컬렉션은 스포츠와 야외 활동용이다. HSTN은 3K Ultra HD 카메라, 오픈형 스피커, IPX4 등급을 갖췄다. 러닝과 사이클링에 맞춘 Vanguard는 시야각 122도의 12MP 초광각 카메라, IP67 등급, Strava·Garmin 연동을 갖췄다."
               },
               {
                 "t": "p",
-                "x": "녹음기라는 간판 아래에서 Memo는 심박수, 심박 변이도, 스트레스, 수면 단계를 추적하고 100개가 넘는 운동 모드를 갖췄다. 22그램, IP67 등급의 이 트래커는 220 mAh 배터리로 대기 시 최대 50일을 버틴다고 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "가장 가까운 화면 없는 경쟁 제품인 Amazfit의 Helio Strap은 $99.99이며 녹음 기능이 아예 없다. Memo는 이보다 $20 싸면서 마이크까지 더했다."
+                "x": "컬렉션은 일부 Essilor Luxottica 안경 소매 파트너와 Oakley 매장, 온라인에서 판매된다. 권장 시작가는 Ray-Ban Meta Optics (Gen 2) R8,999, Ray-Ban Meta (Gen 3) R8,599, Oakley Meta Vanguard R10,599, Oakley Meta HSTN R8,399다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Loop Memo、\n手首にボイスレコーダー",
-          "body": "RogbidのLoop Memoはワンプッシュ録音と健康管理を備え、サブスク料金も不要だ。",
-          "mini_headline": "手首に載るボイスレコーダー",
+          "headline": "Ray-Ban・Oakley\nMeta AIグラス南アへ",
+          "body": "Ray-Ban・Oakley Metaは十一月末に登場し、Gen 3はR8,599だ。",
+          "mini_headline": "Meta AIグラスが南アフリカ上陸",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
+                "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
               },
               {
                 "t": "p",
-                "x": "手首に着けたまま使え、サブスクリプション料金を一切求めないボイスレコーダーなら、支持したくなる提案だ。RogbidのLoop Memoはワンプッシュで録音し、その音声をコンパニオンアプリで文字起こし、要約、やることリストに変換する。"
+                "x": "Essilor LuxotticaとMetaは十一月末から、Ray-Ban MetaとOakley Metaのスマートアイウェアコレクションを南アフリカで展開し、現地の消費者にAI搭載（AI-powered）ウェアラブル技術という新たなカテゴリーを紹介する。"
               },
               {
                 "t": "p",
-                "x": "価格はRogbid公式ストアでPhantom Blackが$79.99で、この価格にAI文字起こしと要約が含まれ、月額料金は上乗せされない。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
+                "x": "Ray-Ban Metaコレクションは第三世代となり、Wayfarer、Aviator、Zenaの各スタイルをそろえる。着用者は写真や動画の撮影、音楽やポッドキャストの再生、通話、メッセージ送信、会話の翻訳ができる。内蔵のMeta AI機能を使えば、見ているものについて音声コマンドで質問することもできる。"
               },
               {
                 "t": "p",
-                "x": "AIノイズキャンセリングにより、話し手が部屋の反対側に座っていても声をくっきり拾う。本体に1 GBのストレージを備え、スマートフォンが近くになくても最大10時間録音できる。要約はマインドマップにしてTXT、PDF、Wordファイルとして書き出せる。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
+                "x": "Oakley Metaコレクションはスポーツやアウトドア向けだ。HSTNは3K Ultra HDカメラ、オープンイヤースピーカー、IPX4 等級を備える。ランニングやサイクリング向けのVanguardは、視野角122度の12MP 超広角カメラ、IP67 等級、StravaとGarminとの連携を備える。"
               },
               {
                 "t": "p",
-                "x": "レコーダーという売りの裏で、Memoは心拍数、心拍変動、ストレス、睡眠段階を記録し、100種類以上のスポーツモードを備える。重さ22グラム、IP67のこのトラッカーは220 mAhのバッテリーで、待機時最大50日もつとされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "最も近い画面なしのライバル、AmazfitのHelio Strapは$99.99で録音機能を一切持たない。Memoはそれより$20安く、さらにマイクも備える。"
+                "x": "コレクションは一部のEssilor Luxottica眼鏡小売パートナー、Oakley店舗、オンラインで販売される。希望エントリー価格はRay-Ban Meta Optics (Gen 2)がR8,999、Ray-Ban Meta (Gen 3)がR8,599、Oakley Meta VanguardがR10,599、Oakley Meta HSTNがR8,399だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Loop Memo：\n把录音笔戴上手腕",
-          "body": "Rogbid的Loop Memo是一款智能手环，一键录音并追踪健康，无需订阅费。",
-          "mini_headline": "戴在手腕上的录音笔",
+          "headline": "Ray-Ban·Oakley\nMeta AI眼镜登陆南非",
+          "body": "Ray-Ban与Oakley Meta眼镜十一月底上市，Gen 3售价R8,599。",
+          "mini_headline": "Meta AI眼镜登陆南非",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
+                "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
               },
               {
                 "t": "p",
-                "x": "一款戴在手腕上、从不要求订阅费的录音设备，是我愿意支持的卖点。Rogbid的Loop Memo一键即可录音，随后在配套应用中把音频转成文字稿、摘要和待办清单。"
+                "x": "Essilor Luxottica与Meta将从十一月底起把Ray-Ban Meta和Oakley Meta智能眼镜系列引入南非，向当地消费者推出AI-powered（AI驱动）可穿戴技术这一新品类。"
               },
               {
                 "t": "p",
-                "x": "这款手环在Rogbid官方商店的Phantom Black版售价$79.99，该价格已涵盖AI转写和摘要，无需额外支付月费。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
+                "x": "Ray-Ban Meta系列将以第三代产品登场，包括Wayfarer、Aviator和Zena款式。佩戴者可以拍摄照片和视频、收听音乐和播客、拨打电话、发送消息以及翻译对话。内置的Meta AI功能还允许用户通过语音指令询问眼前所见之物。"
               },
               {
                 "t": "p",
-                "x": "即使说话者坐在房间另一头，AI降噪也能突出人声。机身内置1 GB存储，无需手机在旁即可录音最长10小时，摘要还可生成思维导图，并导出为TXT、PDF或Word文件。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
+                "x": "Oakley Meta系列面向运动和户外使用。HSTN配备3K Ultra HD摄像头和开放式扬声器，并具备IPX4 防护等级。专为跑步和骑行设计的Vanguard配备视场角122度的12MP 超广角摄像头，具备IP67 防护等级，并可与Strava和Garmin集成。"
               },
               {
                 "t": "p",
-                "x": "除了录音这一卖点，Memo还能追踪心率、心率变异性、压力和睡眠阶段，并提供100多种运动模式。这款重22克、具备IP67防护的手环搭载220 mAh电池，官方称待机最长可达50天。"
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "最接近的无屏竞品Amazfit的Helio Strap售价$99.99，且完全没有录音功能，因此Memo便宜$20，还多了麦克风。"
+                "x": "该系列将通过部分Essilor Luxottica眼镜零售合作伙伴、Oakley门店和线上渠道销售。建议入门价格：Ray-Ban Meta Optics (Gen 2) R8,999；Ray-Ban Meta (Gen 3) R8,599；Oakley Meta Vanguard R10,599；Oakley Meta HSTN R8,399。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Loop Memo de Rogbid pone\nuna grabadora en tu muñeca",
-          "body": "El Loop Memo de Rogbid es una pulsera inteligente que graba voz con una pulsación y mide la salud, sin suscripción.",
-          "mini_headline": "Una grabadora de voz para la muñeca",
+          "headline": "Las gafas Ray-Ban y Oakley Meta\ncon AI llegan a Sudáfrica",
+          "body": "Las gafas Ray-Ban Meta y Oakley Meta llegan desde finales de noviembre, con las Ray-Ban Meta Gen 3 a R8,599.",
+          "mini_headline": "Las gafas Meta AI llegan a Sudáfrica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-1280x720.jpg"
+                "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
               },
               {
                 "t": "p",
-                "x": "Una grabadora de voz que vive en tu muñeca y nunca pide una cuota de suscripción es una propuesta que puedo respaldar. El Loop Memo de Rogbid graba con una sola pulsación y luego convierte ese audio en transcripciones, resúmenes y listas de tareas en su aplicación complementaria."
+                "x": "Essilor Luxottica y Meta llevarán sus colecciones de gafas inteligentes Ray-Ban Meta y Oakley Meta a Sudáfrica a partir de finales de noviembre, y presentarán a los consumidores locales una nueva categoría de tecnología ponible con AI (AI-powered)."
               },
               {
                 "t": "p",
-                "x": "La pulsera cuesta $79.99 en color Phantom Black en la tienda propia de Rogbid, y ese precio cubre la transcripción y los resúmenes con AI sin ninguna cuota mensual adicional."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-A-1280x964.png"
+                "x": "La colección Ray-Ban Meta llegará en su tercera generación, con los estilos Wayfarer, Aviator y Zena. Quienes las usen podrán tomar fotos y videos, escuchar música y pódcasts, hacer llamadas, enviar mensajes y traducir conversaciones. La función Meta AI integrada también permite hacer preguntas por comandos de voz sobre lo que se está viendo."
               },
               {
                 "t": "p",
-                "x": "La cancelación de ruido con AI destaca las voces incluso cuando el interlocutor está sentado al otro lado de la sala. Tiene 1 GB de almacenamiento interno, suficiente para hasta 10 horas de grabación sin un teléfono cerca, y los resúmenes pueden convertirse en mapas mentales exportables como archivos TXT, PDF o Word."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-C-1280x972.jpeg"
+                "x": "La colección Oakley Meta está pensada para el deporte y el uso al aire libre. Las HSTN incluyen una cámara 3K Ultra HD, altavoces de oído abierto y certificación IPX4. Las Vanguard, orientadas a correr y al ciclismo, tienen una cámara ultra gran angular de 12MP con un campo de visión de 122 grados, certificación IP67 e integración con Strava y Garmin."
               },
               {
                 "t": "p",
-                "x": "Más allá de la grabadora, el Memo registra la frecuencia cardiaca, la variabilidad de la frecuencia cardiaca, el estrés y las fases del sueño, e incluye más de 100 modos deportivos. La batería de 220 mAh de este rastreador de 22 gramos con certificación IP67 promete hasta 50 días en reposo."
-              },
-              {
-                "t": "img",
-                "src": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band-B-1280x854.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "Su rival sin pantalla más cercano, el Helio Strap de Amazfit, cuesta $99.99 y no graba en absoluto, así que el Memo es $20 más barato y además añade el micrófono."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "google-home-nov25-update",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Google Home 개선\nGemini 기능 추가",
-      "body": "Google Home이 Nest Cam·Gemini 등을 개선한 업데이트를 낸다.",
-      "mini_headline": "Google Home, Gemini 기능 추가",
-      "tool": "Gadgets",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
-          },
-          {
-            "t": "p",
-            "x": "Google Home이 또 대형 업데이트를 내놓는다. 이번에는 Nest Cam, Nest Thermostarts, Gemini 등 곳곳에 기능을 넣고 손질을 더했다."
-          },
-          {
-            "t": "p",
-            "x": "Google의 정기 변경 로그에 따르면 11월 25일 업데이트가 지금 배포되고 있다. 개선은 Gemini for Home 얼리 액세스 프로그램부터 전반에 걸쳐 있다. “Hey Google, tell me a story”(이야기 들려줘)가 돌아와, Gemini가 중간중간 사용자가 요청하는 변경을 반영해 이야기를 지어낸다. Gemini 스마트홈 명령은 더 빨라지고 성능도 좋아졌다. 조명 몇 개를 끈 뒤 “turn them back on”(다시 켜 줘)이라고만 말하면 되는 맥락 기반 후속 명령도 지원한다. 스마트 디스플레이에서는 Gemini의 출처도 볼 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Nest Cam은 Android에서 영상 기록 재생과 가로 화면 조작이 나아졌고 관리자가 여러 명인 가정용 피드백 기능도 손봤다. Nest Cam Outdoor (2nd gen)에는 30초 보안 사이렌이 생기는데, Walmart의 Onn Outdoor 카메라와 Floodlight에서도 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Google Home은 이제 Walmart Onn 카메라에서 Familiar Faces를 지원한다. Nest Thermostat에서는 온도 조절 일정을 다른 요일로 복사할 수 있게 됐다."
-          },
-          {
-            "t": "p",
-            "x": "그 밖에 Google Home에 들어가는 업데이트는 이렇다. iOS 앱의 조명 색상 휠, iOS와 Android에서 Google Home Speaker 설정 문제 해결, Android에서 Stereo Pair 및 Speaker Group 제어 문제 해결, Google TV 오디오 출력 및 상태 개선, Android에서 스피커와 스마트 디스플레이 간 음악 전송 개선이다."
-          },
-          {
-            "t": "p",
-            "x": "이번 변경 사항은 Android와 iOS용 최신 Google Home 업데이트로 제공되며, Gemini 관련 변경은 사용자 눈에 띄지 않게 서버 쪽에서 적용된다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Google Home update adds\nNest Cam and Gemini features",
-          "body": "Google Home is rolling out another big update with improvements across Nest Cam, Nest Thermostat, the app and Gemini.",
-          "mini_headline": "Google Home\nadds Gemini features",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google Home is rolling out another big update, this time adding features and bringing improvements across Nest Cam, Nest Thermostarts, Gemini, and more."
-              },
-              {
-                "t": "p",
-                "x": "Detailed on Google’s usual changelog, the November 25 update is now rolling out and makes improvements across the board, starting with the Gemini for Home early access program. “Hey Google, tell me a story” is returning with Gemini able to create stories that are tailored to any adjustments you make as the story goes on. Gemini smart home commands are getting further speed and performance improvements and contextual follow-ups such as being able to say “turn them back on” after turning off some lights. You can also now see Gemini sources on smart displays."
-              },
-              {
-                "t": "p",
-                "x": "Nest Cam gets improvements for video history playback and landscape controls on Android and feedback improvements for homes with multiple admins. Nest Cam Outdoor (2nd gen) also gets a 30-second security siren that’s also supported on Walmart’s Onn Outdoor camera and Floodlight."
-              },
-              {
-                "t": "p",
-                "x": "Google Home now supports Familiar Faces on Walmart Onn cameras. Nest Thermostat users can now copy thermostat schedules across days."
-              },
-              {
-                "t": "p",
-                "x": "Other updates heading to Google Home include: color wheel for lights in the iOS app; fixed setup issues with Google Home Speaker on iOS and Android; fixed Stereo Pair & Speaker Group controls on Android; improvements for Google TV audio output & status; better music transfer between speakers & smart displays from Android."
-              },
-              {
-                "t": "p",
-                "x": "The latest Google Home updates on Android and iOS deliver these updates, while Gemini changes happen behind the scenes."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Google Home 개선\nGemini 기능 추가",
-          "body": "Google Home이 Nest Cam·Gemini 등을 개선한 업데이트를 낸다.",
-          "mini_headline": "Google Home, Gemini 기능 추가",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google Home이 또 대형 업데이트를 내놓는다. 이번에는 Nest Cam, Nest Thermostarts, Gemini 등 곳곳에 기능을 넣고 손질을 더했다."
-              },
-              {
-                "t": "p",
-                "x": "Google의 정기 변경 로그에 따르면 11월 25일 업데이트가 지금 배포되고 있다. 개선은 Gemini for Home 얼리 액세스 프로그램부터 전반에 걸쳐 있다. “Hey Google, tell me a story”(이야기 들려줘)가 돌아와, Gemini가 중간중간 사용자가 요청하는 변경을 반영해 이야기를 지어낸다. Gemini 스마트홈 명령은 더 빨라지고 성능도 좋아졌다. 조명 몇 개를 끈 뒤 “turn them back on”(다시 켜 줘)이라고만 말하면 되는 맥락 기반 후속 명령도 지원한다. 스마트 디스플레이에서는 Gemini의 출처도 볼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Nest Cam은 Android에서 영상 기록 재생과 가로 화면 조작이 나아졌고 관리자가 여러 명인 가정용 피드백 기능도 손봤다. Nest Cam Outdoor (2nd gen)에는 30초 보안 사이렌이 생기는데, Walmart의 Onn Outdoor 카메라와 Floodlight에서도 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Google Home은 이제 Walmart Onn 카메라에서 Familiar Faces를 지원한다. Nest Thermostat에서는 온도 조절 일정을 다른 요일로 복사할 수 있게 됐다."
-              },
-              {
-                "t": "p",
-                "x": "그 밖에 Google Home에 들어가는 업데이트는 이렇다. iOS 앱의 조명 색상 휠, iOS와 Android에서 Google Home Speaker 설정 문제 해결, Android에서 Stereo Pair 및 Speaker Group 제어 문제 해결, Google TV 오디오 출력 및 상태 개선, Android에서 스피커와 스마트 디스플레이 간 음악 전송 개선이다."
-              },
-              {
-                "t": "p",
-                "x": "이번 변경 사항은 Android와 iOS용 최신 Google Home 업데이트로 제공되며, Gemini 관련 변경은 사용자 눈에 띄지 않게 서버 쪽에서 적용된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Google Home更新\nGeminiなど強化",
-          "body": "Google HomeがNest Cam、Geminiなどを改善する大型更新を配信中だ。",
-          "mini_headline": "Google HomeにGemini新機能",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google Homeがまたも大型アップデートを配信している。今回はNest Cam、Nest Thermostarts、Geminiなど幅広い分野で機能追加と改善が行われる。"
-              },
-              {
-                "t": "p",
-                "x": "Googleの恒例の変更履歴によると、11月25日のアップデートは現在配信中で、Gemini for Homeのアーリーアクセスプログラムをはじめ全面的な改善が施されている。「Hey Google, tell me a story」(お話を聞かせて)が復活し、Geminiは物語の進行中に加えた変更に合わせて話を作れるようになった。Geminiのスマートホームコマンドは速度と性能がさらに向上し、照明をいくつか消した後に「turn them back on」(また点けて)と言えるような文脈に沿った追加指示にも対応する。スマートディスプレイでGeminiの情報源も確認できるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "Nest CamはAndroidでの動画履歴の再生と横向き操作が改善され、管理者が複数いる家庭向けのフィードバックも改善された。Nest Cam Outdoor (2nd gen)には30秒間のセキュリティサイレンが追加され、これはWalmartのOnn OutdoorカメラとFloodlightでもサポートされる。"
-              },
-              {
-                "t": "p",
-                "x": "Google HomeはWalmart OnnカメラでFamiliar Facesに対応した。Nest Thermostatのユーザーは、サーモスタットのスケジュールを曜日間でコピーできるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "このほかGoogle Homeには次の更新が届く。iOSアプリでの照明のカラーホイール、iOSとAndroidでのGoogle Home Speakerのセットアップ問題の修正、AndroidでのStereo PairとSpeaker Groupの操作の修正、Google TVの音声出力とステータスの改善、Androidからのスピーカーとスマートディスプレイ間の音楽転送の改善だ。"
-              },
-              {
-                "t": "p",
-                "x": "これらはAndroidとiOS向けの最新Google Homeアップデートで提供され、Geminiの変更は裏側で行われる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google Home更新\nGemini等功能升级",
-          "body": "Google Home再推大更新，Nest Cam、恒温器、应用和Gemini均获改进。",
-          "mini_headline": "Google Home新增Gemini功能",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google Home正在推送又一次大型更新，这次为Nest Cam、Nest Thermostarts、Gemini等带来新功能和改进。"
-              },
-              {
-                "t": "p",
-                "x": "据Google惯常发布的更新日志，11月25日的更新现已开始推送，带来全面改进，首先是Gemini for Home抢先体验计划。“Hey Google, tell me a story”（给我讲个故事）功能回归，Gemini可根据你在故事进行中提出的任何调整来定制故事。Gemini智能家居指令的速度和性能进一步提升，并支持上下文追问，例如关掉几盏灯后可以说“turn them back on”（把它们重新打开）。现在还能在智能显示屏上查看Gemini的信息来源。"
-              },
-              {
-                "t": "p",
-                "x": "Nest Cam在Android上改进了视频历史回放和横屏控制，并为有多名管理员的家庭改进了反馈。Nest Cam Outdoor (2nd gen)还新增30秒安全警报器，Walmart的Onn Outdoor摄像头和Floodlight也支持该功能。"
-              },
-              {
-                "t": "p",
-                "x": "Google Home现已在Walmart Onn摄像头上支持Familiar Faces。Nest Thermostat用户现在可以在不同日期之间复制温控日程。"
-              },
-              {
-                "t": "p",
-                "x": "Google Home的其他更新包括：iOS应用中的灯光色轮；修复iOS和Android上Google Home Speaker的设置问题；修复Android上的Stereo Pair和Speaker Group控制；改进Google TV音频输出和状态；改进从Android在扬声器与智能显示屏之间转移音乐。"
-              },
-              {
-                "t": "p",
-                "x": "这些更新通过Android和iOS上最新版Google Home提供，而Gemini的变化则在后台完成。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google Home suma funciones\na Nest Cam y Gemini",
-          "body": "Google Home lanza otra gran actualización con mejoras en Nest Cam, Nest Thermostat, la app y Gemini.",
-          "mini_headline": "Google Home suma funciones de Gemini",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google Home está desplegando otra gran actualización, que esta vez añade funciones e introduce mejoras en Nest Cam, Nest Thermostarts, Gemini y más."
-              },
-              {
-                "t": "p",
-                "x": "Según el registro de cambios habitual de Google, la actualización del 25 de noviembre ya se está desplegando e introduce mejoras generales, empezando por el programa de acceso anticipado de Gemini for Home. Vuelve “Hey Google, tell me a story” (cuéntame una historia), con Gemini capaz de crear historias que se adaptan a cualquier cambio que hagas a medida que avanza el relato. Los comandos de hogar inteligente de Gemini reciben nuevas mejoras de velocidad y rendimiento, además de seguimientos contextuales, como poder decir “turn them back on” (vuelve a encenderlas) después de apagar algunas luces. Ahora también se pueden ver las fuentes de Gemini en las pantallas inteligentes."
-              },
-              {
-                "t": "p",
-                "x": "Nest Cam recibe mejoras en la reproducción del historial de vídeo y en los controles en horizontal en Android, así como mejoras de comentarios para hogares con varios administradores. Nest Cam Outdoor (2nd gen) también obtiene una sirena de seguridad de 30 segundos, compatible además con la cámara Onn Outdoor y la Floodlight de Walmart."
-              },
-              {
-                "t": "p",
-                "x": "Google Home ahora admite Familiar Faces en las cámaras Onn de Walmart. Los usuarios de Nest Thermostat ya pueden copiar los horarios del termostato entre días."
-              },
-              {
-                "t": "p",
-                "x": "Otras novedades que llegan a Google Home incluyen: rueda de color para las luces en la app de iOS; solución de problemas de configuración con Google Home Speaker en iOS y Android; corrección de los controles de Stereo Pair y Speaker Group en Android; mejoras en la salida de audio y el estado de Google TV; y una mejor transferencia de música entre altavoces y pantallas inteligentes desde Android."
-              },
-              {
-                "t": "p",
-                "x": "Las últimas actualizaciones de Google Home para Android e iOS incluyen estas novedades, mientras que los cambios de Gemini se aplican en segundo plano."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Google Home 개선\nGemini 기능 추가",
-          "body": "Google Home이 Nest Cam·Gemini 등을 개선한 업데이트를 낸다.",
-          "mini_headline": "Google Home, Gemini 기능 추가",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google Home이 또 한 번 대형 업데이트를 배포한다. 이번에는 Nest Cam, Nest Thermostarts, Gemini 등 전반에 걸쳐 기능을 추가하고 개선을 더했다."
-              },
-              {
-                "t": "p",
-                "x": "Google의 정기 변경 로그에 따르면 11월 25일 업데이트가 현재 배포 중이며, Gemini for Home 얼리 액세스 프로그램을 시작으로 전반적인 개선이 이뤄졌다. “Hey Google, tell me a story”(이야기 들려줘)가 돌아와, Gemini가 이야기가 진행되는 동안 사용자가 요청하는 변경에 맞춰 이야기를 만들어 낸다. Gemini 스마트홈 명령은 속도와 성능이 더 좋아지고, 조명 몇 개를 끈 뒤 “turn them back on”(다시 켜 줘)이라고 말할 수 있는 맥락 기반 후속 명령도 지원한다. 이제 스마트 디스플레이에서 Gemini의 출처도 볼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Nest Cam은 Android에서 영상 기록 재생과 가로 화면 조작이 개선되고, 관리자가 여러 명인 가정을 위한 피드백 기능도 나아졌다. Nest Cam Outdoor (2nd gen)에는 30초 보안 사이렌이 추가되며, 이 기능은 Walmart의 Onn Outdoor 카메라와 Floodlight에서도 지원된다."
-              },
-              {
-                "t": "p",
-                "x": "Google Home은 이제 Walmart Onn 카메라에서 Familiar Faces를 지원한다. Nest Thermostat 사용자는 이제 온도 조절 일정을 요일 간에 복사할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Google Home에 적용되는 그 밖의 업데이트는 다음과 같다. iOS 앱의 조명 색상 휠, iOS와 Android에서 Google Home Speaker 설정 문제 해결, Android에서 Stereo Pair 및 Speaker Group 제어 문제 해결, Google TV 오디오 출력 및 상태 개선, Android에서 스피커와 스마트 디스플레이 간 음악 전송 개선이다."
-              },
-              {
-                "t": "p",
-                "x": "이번 변경 사항은 Android와 iOS용 최신 Google Home 업데이트로 제공되며, Gemini 관련 변경은 사용자 눈에 띄지 않게 서버 측에서 이뤄진다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Google Home更新\nGeminiなど強化",
-          "body": "Google HomeがNest Cam、Geminiなどを改善する大型更新を配信中だ。",
-          "mini_headline": "Google HomeにGemini新機能",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google Homeがまたも大型アップデートを配信している。今回はNest Cam、Nest Thermostarts、Geminiなど幅広い分野で機能追加と改善が行われる。"
-              },
-              {
-                "t": "p",
-                "x": "Googleの恒例の変更履歴によると、11月25日のアップデートは現在配信中で、Gemini for Homeのアーリーアクセスプログラムをはじめ全面的な改善が施されている。「Hey Google, tell me a story」(お話を聞かせて)が復活し、Geminiは物語の進行中に加えた変更に合わせて話を作れるようになった。Geminiのスマートホームコマンドは速度と性能がさらに向上し、照明をいくつか消した後に「turn them back on」(また点けて)と言えるような文脈に沿った追加指示にも対応する。スマートディスプレイでGeminiの情報源も確認できるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "Nest CamはAndroidでの動画履歴の再生と横向き操作が改善され、管理者が複数いる家庭向けのフィードバックも改善された。Nest Cam Outdoor (2nd gen)には30秒間のセキュリティサイレンが追加され、これはWalmartのOnn OutdoorカメラとFloodlightでもサポートされる。"
-              },
-              {
-                "t": "p",
-                "x": "Google HomeはWalmart OnnカメラでFamiliar Facesに対応した。Nest Thermostatのユーザーは、サーモスタットのスケジュールを曜日間でコピーできるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "このほかGoogle Homeには次の更新が届く。iOSアプリでの照明のカラーホイール、iOSとAndroidでのGoogle Home Speakerのセットアップ問題の修正、AndroidでのStereo PairとSpeaker Groupの操作の修正、Google TVの音声出力とステータスの改善、Androidからのスピーカーとスマートディスプレイ間の音楽転送の改善だ。"
-              },
-              {
-                "t": "p",
-                "x": "これらはAndroidとiOS向けの最新Google Homeアップデートで提供され、Geminiの変更は裏側で行われる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google Home更新\nGemini等功能升级",
-          "body": "Google Home再推大更新，Nest Cam、恒温器、应用和Gemini均获改进。",
-          "mini_headline": "Google Home新增Gemini功能",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google Home正在推送又一次大型更新，这次为Nest Cam、Nest Thermostarts、Gemini等带来新功能和改进。"
-              },
-              {
-                "t": "p",
-                "x": "据Google惯常发布的更新日志，11月25日的更新现已开始推送，带来全面改进，首先是Gemini for Home抢先体验计划。“Hey Google, tell me a story”（给我讲个故事）功能回归，Gemini可根据你在故事进行中提出的任何调整来定制故事。Gemini智能家居指令的速度和性能进一步提升，并支持上下文追问，例如关掉几盏灯后可以说“turn them back on”（把它们重新打开）。现在还能在智能显示屏上查看Gemini的信息来源。"
-              },
-              {
-                "t": "p",
-                "x": "Nest Cam在Android上改进了视频历史回放和横屏控制，并为有多名管理员的家庭改进了反馈。Nest Cam Outdoor (2nd gen)还新增30秒安全警报器，Walmart的Onn Outdoor摄像头和Floodlight也支持该功能。"
-              },
-              {
-                "t": "p",
-                "x": "Google Home现已在Walmart Onn摄像头上支持Familiar Faces。Nest Thermostat用户现在可以在不同日期之间复制温控日程。"
-              },
-              {
-                "t": "p",
-                "x": "Google Home的其他更新包括：iOS应用中的灯光色轮；修复iOS和Android上Google Home Speaker的设置问题；修复Android上的Stereo Pair和Speaker Group控制；改进Google TV音频输出和状态；改进从Android在扬声器与智能显示屏之间转移音乐。"
-              },
-              {
-                "t": "p",
-                "x": "这些更新通过Android和iOS上最新版Google Home提供，而Gemini的变化则在后台完成。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google Home suma funciones\na Nest Cam y Gemini",
-          "body": "Google Home lanza otra gran actualización con mejoras en Nest Cam, Nest Thermostat, la app y Gemini.",
-          "mini_headline": "Google Home suma funciones de Gemini",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Google Home está desplegando otra gran actualización, que esta vez añade funciones e introduce mejoras en Nest Cam, Nest Thermostarts, Gemini y más."
-              },
-              {
-                "t": "p",
-                "x": "Según el registro de cambios habitual de Google, la actualización del 25 de noviembre ya se está desplegando e introduce mejoras generales, empezando por el programa de acceso anticipado de Gemini for Home. Vuelve “Hey Google, tell me a story” (cuéntame una historia), con Gemini capaz de crear historias que se adaptan a cualquier cambio que hagas a medida que avanza el relato. Los comandos de hogar inteligente de Gemini reciben nuevas mejoras de velocidad y rendimiento, además de seguimientos contextuales, como poder decir “turn them back on” (vuelve a encenderlas) después de apagar algunas luces. Ahora también se pueden ver las fuentes de Gemini en las pantallas inteligentes."
-              },
-              {
-                "t": "p",
-                "x": "Nest Cam recibe mejoras en la reproducción del historial de vídeo y en los controles en horizontal en Android, así como mejoras de comentarios para hogares con varios administradores. Nest Cam Outdoor (2nd gen) también obtiene una sirena de seguridad de 30 segundos, compatible además con la cámara Onn Outdoor y la Floodlight de Walmart."
-              },
-              {
-                "t": "p",
-                "x": "Google Home ahora admite Familiar Faces en las cámaras Onn de Walmart. Los usuarios de Nest Thermostat ya pueden copiar los horarios del termostato entre días."
-              },
-              {
-                "t": "p",
-                "x": "Otras novedades que llegan a Google Home incluyen: rueda de color para las luces en la app de iOS; solución de problemas de configuración con Google Home Speaker en iOS y Android; corrección de los controles de Stereo Pair y Speaker Group en Android; mejoras en la salida de audio y el estado de Google TV; y una mejor transferencia de música entre altavoces y pantallas inteligentes desde Android."
-              },
-              {
-                "t": "p",
-                "x": "Las últimas actualizaciones de Google Home para Android e iOS incluyen estas novedades, mientras que los cambios de Gemini se aplican en segundo plano."
+                "x": "Las colecciones estarán disponibles a través de determinados socios minoristas ópticos de Essilor Luxottica, tiendas Oakley y en línea. Precios de entrada sugeridos: Ray-Ban Meta Optics (Gen 2) R8,999; Ray-Ban Meta (Gen 3) R8,599; Oakley Meta Vanguard R10,599; Oakley Meta HSTN R8,399."
               }
             ]
           }

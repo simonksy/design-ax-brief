@@ -13438,6 +13438,144 @@
           "x": "Figma智能体现已在所有付费方案的FigJam和Figma Slides中正式上线，两款产品均支持部分连接器和附件。"
         }
       ]
+    },
+    "design/gstar3d-cloud-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "CAD·产品生命周期管理（PLM）解决方案专业企业 Modusolution（代表 Jung Chung-gu）参加了在水原会展中心举行的“第8届国际智能制造·AI技术展（SMATEC 2026）”，介绍了基于云的3D CAD解决方案“Gstar3D”等设计与协作解决方案。本次展会上，即将正式上市的Gstar3D所具备的自然语言与图像建模功能备受关注。"
+        },
+        {
+          "t": "p",
+          "x": "Gstar3D无需另行安装软件，即可在网页浏览器中完成3D建模、设计数据管理和协作。用户只需用自然语言下达指令，或输入JPG·PNG格式的图纸图片文件，即可生成3D模型。生成的模型包含管理设计形状与修改过程的特征历史（Feature History），并可导出为STEP等标准3D CAD文件格式。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "展会现场，一位参观者用图纸图片生成3D模型后，带走了转换成STEP文件的成果。Modusolution计划通过“早期用户（Early User）”计划，为最多100人提供1年免费使用权，并将收集到的意见用于产品改进和用户支持。"
+        },
+        {
+          "t": "p",
+          "x": "此外，该公司还介绍了2D CAD“GstarCAD”、图纸共享与协作平台“GstarCAD 365”、3D CAD文件查看器“3D FastView”以及PTC的“Creo”“Windchill”。Modusolution相关负责人表示：“将听取用户意见，持续提供适合国内设计环境的解决方案。”"
+        }
+      ]
+    },
+    "design/modulebuild-ai-editor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
+        },
+        {
+          "t": "p",
+          "x": "资深UI/UX设计师Bohdan Matviyev厌倦了当下那些试图取代专业人士的AI工具——它们把工作塞进聊天和提示词的框架，而不是让人完全掌控各个元素。于是他自己打造了编辑器module.build，将设计与开发整合到同一空间。他将其定位为一个个人环境，AI在其中充当助手，而非自动驾驶。"
+        },
+        {
+          "t": "p",
+          "x": "用户可使用自己的订阅或APIs组合Claude、Codex、Kimi等模型，无需服务内部积分。设计画布、共创白板、演示文稿、3D、动画和代码共处于一个拥有共享记忆的环境。内部的ADE和MCP工具直接从设计文件读取布局、令牌和组件，并与GitHub和Vercel集成；图像生成基于ComfyUI节点运行。"
+        },
+        {
+          "t": "p",
+          "x": "Matviyev表示，Figma限制MCP请求，而且该协议即使面对很小的请求也会把整个屏幕作为上下文发送；module.build只传递所需的点位信息。与Paper不同，它目前还没有实时协作功能，但避开了Paper的CSS限制以及大文件下的卡顿。该服务正处于封闭内测阶段。"
+        }
+      ]
+    },
+    "design/midjourney-niji-v8": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
+        },
+        {
+          "t": "p",
+          "x": "Midjourney于日本时间11月25日发布动漫风格图像生成模型“Niji V8”。它提升了对提示词的遵循度，并具备保持角色一致性的编辑功能。用户可在Discord中于提示词末尾添加“--niji 8”，或在版本设置中选择“Niji 8”来使用。"
+        },
+        {
+          "t": "p",
+          "x": "Niji是专门生成动漫风格角色和场景的图像生成模型。Niji 8融合了Niji 7的审美表现与Niji 6的多样性，优先从同一提示词生成更丰富的候选结果，而不是反复生成相似角色。它的生成速度为该系列史上最快，图像构图与元素的一致性也有所增强。"
+        },
+        {
+          "t": "p",
+          "x": "若想在不同场景中使用喜爱的角色，可借助针对生成图像的编辑功能：指定角色参考图和背景图后，指示AI将角色描绘在不同地点或姿势中。"
+        },
+        {
+          "t": "img",
+          "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
+        }
+      ]
+    },
+    "design/seoul-biennale-ratti-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
+          "cap": "威尼斯建筑双年展策展人Carlo Ratti"
+        },
+        {
+          "t": "p",
+          "x": "意大利建筑师Carlo Ratti被任命为明年首尔城市建筑双年展的策展人，他计划采取一种“非传统的、AI-based（基于AI）的”方式。双年展将于2027年9月24日开幕，Ratti将借此追问当今策展人的角色。活动名称、主题和完整策展团队要到12月8日才会公布。"
+        },
+        {
+          "t": "p",
+          "x": "具体而言，他将使用一位AI助手，通过突出能够帮助策展人的新兴工具，挑战策划展览的传统方式。"
+        },
+        {
+          "t": "img",
+          "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
+          "cap": "Carlo Ratti（右）由首尔市长Oh Se Hoon（左）任命"
+        },
+        {
+          "t": "p",
+          "x": "他说：“首尔或许是全世界最适合探讨人工智能与市民集体智慧如何共同塑造城市的地方。”“在即将举行的预展活动上，我们将开始介绍加入我们的人，我想会有一些惊喜——其中一位助理策展人甚至不是人类！”"
+        },
+        {
+          "t": "p",
+          "x": "Ratti是Carlo Ratti Associati负责人、MIT教授，他接替了策划2025年活动的Thomas Heatherwick。他曾策划以“Intelligens. Natural. Artificial. Collective.”为主题的2025年威尼斯建筑双年展。"
+        }
+      ]
+    },
+    "design/nomic-cad-drafting-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nomic是面向AEC行业的AI-powered图纸审查软件开发商，现已将平台扩展到自动CAD绘图。用户可用自然语言描述所需图纸，或提供需要修改的现有图纸，AI智能体会返回可编辑的CAD文件，并附上供审阅的出图PDF。"
+        },
+        {
+          "t": "p",
+          "x": "用户提供现有图纸示例或公司图框后，即可让Nomic生成符合既定CAD标准的图纸，包括图层、线宽、填充、图块、文字和标注样式。该软件支持DWG、DXF和DGN。"
+        },
+        {
+          "t": "p",
+          "x": "智能体能解读图纸审查意见书，修改受影响的图纸，并自动添加修订云线以标出改动。每次修订都另存为新版本，原文件保持不变。它在每一步之后都会渲染图纸，以发现文字重叠、注释错位等问题。"
+        },
+        {
+          "t": "p",
+          "x": "Nomic正在推出Autodesk Revit和AutoCAD插件。在Revit中，智能体可识别风管与结构框架之间的碰撞，并解决其中一部分；在AutoCAD中，它可在打开的图纸里生成详图或落实修订。在这两款软件中，改动都须经人工批准后才会生效。"
+        },
+        {
+          "t": "p",
+          "x": "Nomic的绘图功能现已上线。Revit和AutoCAD插件正陆续向客户推出。"
+        }
+      ]
     }
   }
 }

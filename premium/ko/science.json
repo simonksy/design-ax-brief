@@ -16947,6 +16947,128 @@
           "x": "“이제 과제는 사람들을 토끼굴에서 끌어내는 일이라기보다, 애초에 대화에 참여하게 만드는 일이다.” 제1저자인 카네기멜런대 토머스 코스텔로의 말이다."
         }
       ]
+    },
+    "science/ifaw-wildlife-app-helsinki": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+          "cap": "앱 일러스트. 출처: Jani Närhi / University of Helsinki"
+        },
+        {
+          "t": "p",
+          "x": "University of Helsinki 연구진은 국제동물복지기금(International Fund for Animal Welfare, IFAW)과 함께 야생동물 제품 이미지 약 40,000장으로 AI 모델을 학습시켰다. 모델은 코끼리·천산갑·호랑이로 만든 제품을 겉보기에 비슷한 일상용품과 가려낸다."
+        },
+        {
+          "t": "p",
+          "x": "성능이 가장 좋은 모델의 전체 정확도는 84%였고 호랑이·천산갑 제품에서는 90%를 넘었다. 연구용 시제품 스마트폰 앱은 별도로 치른 실전 선별 시험에서 정확도 91.3%를 냈다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+          "cap": "앱 인터페이스. 출처: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+        },
+        {
+          "t": "p",
+          "x": "도구는 의심스러운 온라인 판매 게시물을 골라 전문가에게 넘기는 데 쓰고, 합법성 판단과 단속 결정은 자격을 갖춘 당국이 맡는다. 연구진은 앞으로 정확도를 높이고 대상 종과 제품을 늘리며, NGOs·온라인 플랫폼과 시범 운영을 하고 단속 기관으로 넘기는 절차도 만들 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "Ritwik Kulkarni가 이끈 이 연구는 Conservation Biology에 실렸다(DOI: 10.1111/cobi.70407)."
+        }
+      ]
+    },
+    "science/strathclyde-copepod-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+          "cap": "모델로 산출한 요각류 동물플랑크톤 분포. 출처: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+        },
+        {
+          "t": "p",
+          "x": "University of Strathclyde 연구진이 해양 먹이사슬의 바탕인 작은 부유 동물, 동물플랑크톤이 바뀌는 바다에 어떻게 반응할지 내다보는 고해상도 머신러닝 모델을 만들었다. 모델은 수십 년 치 Continuous Plankton Recorder 조사 자료로 학습했고 지역 기후 전망과 결합했다."
+        },
+        {
+          "t": "p",
+          "x": "연구가 주목한 대상은 청어 같은 어류의 주요 먹이인 요각류다. 고배출 시나리오에서 요각류 개체 수는 2050년까지 58–72%, 2100년까지 84–93% 줄 것으로 전망됐다. 저해상도 전 지구 모델이 내놓은 수치보다 감소폭이 커서, Northwest European Shelf 해역이 생각보다 취약할 수 있다는 신호로 읽힌다. 지역마다 피난처가 될 만한 곳도 모델이 짚어냈다."
+        },
+        {
+          "t": "p",
+          "x": "해수 온도 상승과 영양염 감소, 약해지는 AMOC에 얽힌 순환 변화가 감소와 맞물려 있다. 제1저자 Dr. Emma Tyldesley 연구팀은 예측이 아니라 시나리오에 기댄 연구라고 못 박는다. 전망치는 어린 야생 대서양연어의 먹이 여건을 가늠하는 지표로 Likely Suspects Framework에도 들어간다."
+        }
+      ]
+    },
+    "science/psypost-ai-label-ratings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+        },
+        {
+          "t": "p",
+          "x": "독일의 한 온라인 실험에서 짧은 영양 정보 글에 인공지능이 썼다는 표시를 붙여도 참가자 평가는 의미 있게 달라지지 않았다. 다만 AI-labeled 글을 읽은 사람 가운데 출처가 언급됐다고 답한 비율은 약 42%에 그쳤다. 논문은 Applied Psychology: Health and Well-Being에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "Laura M. König 연구팀은 성인 774명을 분석했다. 참가자가 읽은 글은 영양학자가 검토한 ChatGPT-generated 글 세 편 중 하나였고, “이 글은 인공지능인 ChatGPT가 작성했습니다.”라는 문구가 붙은 글도 없는 글도 있었다."
+        },
+        {
+          "t": "p",
+          "x": "평가에서 통계적으로 유의한 차이는 없었다. AI-labeled 글은 신뢰도가 약간 낮게 나왔지만 평균은 7-point 척도에서 5를 넘었다. WhatsApp 요약을 쓴 참가자 569명 가운데 AI를 출처로 꼽은 사람은 17명뿐이었다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 “연구 결과는 AI 챗봇이 대중에게 영양 관련 정보의 출처로 받아들여지고 신뢰받고 있음을 보여준다”고 결론지었다. 실험 글의 품질이 높았다는 점도 짚으며, 품질이 낮은 정보에서는 표시가 더 중요할 수 있다고 덧붙였다."
+        }
+      ]
+    },
+    "science/natcomms-neural-decoding-leakage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "신경 해독은 행동·지각·인지가 신경 활동에 어떻게 표상되는지 연구하는 데 널리 쓰이는 머신러닝 기법이다. 하지만 조심해서 쓰지 않으면 테스트 세트의 정보가 훈련 세트에 섞여 드는 데이터 누출이 생길 수 있다. 그러면 해독 성능 추정이 한쪽으로 치우치고, 생물학적 결론까지 무너질 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "우리는 차원 축소를 비롯해 흔히 쓰는 지도·비지도 전처리 단계가 신경 해독 연구에 누출을 끌어들일 수 있음을 보인다. 경우에 따라 누출이 오히려 편향 없는 추정치보다 해독 성능을 낮추기도 하는데, 그 까닭은 이론 분석으로 설명한다. 자기상관이 있는 신경 시계열이라면 무작위 k-fold 교차검증이 해독 성능을 크게 부풀릴 수 있다는 점도 보인다. 이를 근거로 신경 해독에서 데이터 누출을 피하는 구체적인 권고안을 내놓는다."
+        }
+      ]
+    },
+    "science/deepmind-mass-spec-skills": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google DeepMind가 Google Antigravity용 Mass Spec Skills를 내놓는다. Gemini의 화학 추론에 기존 질량분석 도구와 공개 화학 데이터베이스를 엮은 도메인 스킬 모음이다. 스펙트럼 검색으로 주석이 붙는 스펙트럼은 평균 약 5%뿐이고, 나머지는 질량분석의 ‘암흑물질’로 불려 왔다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+          "cap": "그림 1. 신호를 준비해 참조 라이브러리를 검색하고, 분자식을 추론해 후보 구조 순위를 매긴 뒤 교차 검증과 보정을 거친다."
+        },
+        {
+          "t": "p",
+          "x": "에이전트는 프롬프트 하나만 받아 주석 없는 탠덤 질량 스펙트럼에서 출발하고, 화학 구조 제안과 검증 가능한 보고서까지 내놓는다. 어느 실행에서는 분자식 C20H21ClN6O를 밝혀내고 PubChem 이성질체 845개에 순위를 매긴 다음 단편화 경로를 검증해 실제 분자(CID 137835447)를 골라냈다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+          "cap": "그림 2. 프롬프트 하나로 구조 규명을 처음부터 끝까지 해낸다."
+        },
+        {
+          "t": "p",
+          "x": "MoNA의 Enamine REAL MS/MS 컬렉션에서 뽑은 화합물 100개 시험에서 인터넷 접속도 스킬도 없이 돌린 Gemini 3.8 Flash, Gemini 4 Argon, Gemini 4 Carbon은 모두 정확도가 4% 미만에 그쳤다. Mass Spec Skills를 붙이자 세 모델 모두 시도의 약 97%에서 정확한 분자를 찾아 검증했고, Flash는 생성 토큰이 네 배 가까이 줄었다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+          "cap": "그림 5a. 벤치마크 스펙트럼 100개의 정확 일치 식별 정확도."
+        },
+        {
+          "t": "p",
+          "x": "거울상 분자나 아주 비슷한 일부 이성질체는 LC-MS/MS 스펙트럼만으로 가려내지 못한다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월 동안 무료로 준다."
+        }
+      ]
     }
   }
 }

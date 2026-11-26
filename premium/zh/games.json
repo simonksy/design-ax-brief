@@ -12712,6 +12712,144 @@
           "x": "Nsight Graphics 2026.4和Nsight Systems 2026.6新增DLSS Frame Generation分析和智能体AI工具：新的Nsight Graphics MCP服务器让兼容的AI智能体能够捕获应用、调试捕获并分析GPU跟踪数据。"
         }
       ]
+    },
+    "games/unity-spark-annotate": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "QmX2VKa1_24"
+        },
+        {
+          "t": "p",
+          "x": "不必只用文字描述物体该放在哪里，你可以直接在场景中进行标注（绘制、选取、指点）。"
+        },
+        {
+          "t": "p",
+          "x": "借助Unity Spark的Annotate功能，你可以直接在游戏场景或工作区的任意位置进行标注，为Unity Spark提供所需的精确视觉上下文。"
+        },
+        {
+          "t": "p",
+          "x": "加入Unity Spark封闭测试候补名单： https://on.unity.com/4CmmUb7"
+        }
+      ]
+    },
+    "games/tlou2-ai-multiplayer-mod": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "又一名模组作者用AI为《The Last of Us Part 2》制作了多人模式，并坚称“即便他们真的叫停我”，Sony也做不了什么。"
+        },
+        {
+          "t": "p",
+          "x": "Naughty Dog已取消了基于《The Last of Us Part 2》的多人游戏Factions计划。9月，创作者“Speclizer”制作的一款备受期待的多人模组在发布前收到了Sony的停止侵权函。"
+        },
+        {
+          "t": "p",
+          "x": "这款新模组名为Twelve Weeks，专为PC版《The Last of Us Part 2 Remastered》打造，其作者承认使用了生成式AI。模组作者“Kellie”承认游戏的大部分开发工作都借助了Claude code，就连游戏中可读到的背景设定文本也由AI撰写。不过，美术资源是用Blender制作的。"
+        },
+        {
+          "t": "p",
+          "x": "模组目前包含重制的Supply Raid和Interrogation关卡，提供团队制4v4对战、新武器和角色自定义，玩家分别以WLF和Seraphites的身份作战。Twelve Weeks可在Nexus Mods下载。代码仓库的免责声明称，这是一个非官方粉丝项目，不包含任何游戏文件，也没有取自游戏的素材。"
+        },
+        {
+          "t": "p",
+          "x": "Kellie在YouTube上回复称，此前的Factions模组之所以遭到Sony打击，是因为它设置了付费门槛。“我的模组已经免费开源发布，”他们说，“既然大家已经拿到了完整模组的源代码，就算他们叫停我，也做不了什么。”"
+        }
+      ]
+    },
+    "games/umamusume-ai-clone-pulled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "一款AI制作的Umamusume: Pretty Derby（赛马娘）仿作激起粉丝愤怒，社区组织起来向Cygames举报后，该游戏已从Google Play商店下架。"
+        },
+        {
+          "t": "video",
+          "yt": "bZ6NL-oPEkI"
+        },
+        {
+          "t": "p",
+          "x": "Anime Racing Academy由HIFI Publishers开发，官方商店介绍称其为一款“动作满满的动漫赛跑游戏”。与Umamusume一样，玩家可以管理人形马娘并让她们赛跑，其中一些角色设计与Umamusume角色极为相似，另一些则看起来是直接照搬。与Umamusume不同的是，正如好奇的粉丝所指出的，这款游戏塞满了广告。"
+        },
+        {
+          "t": "p",
+          "x": "Umamusume粉丝发现这款游戏后，许多人推动举报，要求将其从Google Play商店下架。截至发稿，这一目标似乎已经实现，该游戏在移动平台上已无法搜索到。HIFI Publishers的其他游戏仍在商店上架，这表明正是这款游戏遭到举报并随后被下架。"
+        }
+      ]
+    },
+    "games/alphadefect-slay-spire2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "巴黎-萨克雷大学的Qiyue Chen、新南威尔士大学的Taian Yu、穆罕默德·本·扎耶德人工智能大学的小宫山纯平、香港中文大学的Haobo Huang等4人于11月24日发表合著论文《AlphaDefect: Expert-Level AI for Slay the Spire 2》，提出了用于攻克本作此前公认最高难度“进阶10”的强化学习系统“AlphaDefect”。在进阶10中，第3层的最终首领战会变为2只首领连战。"
+        },
+        {
+          "t": "p",
+          "x": "研究团队读取了本作已编译的程序集，仅替换表现层，搭建出无需画面显示、由AI完成所有决策的环境。他们为6个角色各准备一个网络，共6个网络，以每秒5000～1万次的速度收集数据。最终，所有角色合计在25天内共进行了142亿次决策。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "评估时，除了选择概率最高候选项的贪心法外，仅在AI犹豫不决的情况下（最优候选项的选择概率低于90%）同时使用前瞻搜索。仅用贪心法时胜率为62.2%～76.7%，加入前瞻后各角色胜率提升约3～6个百分点，其中故障机器人达到80.3%。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "作为对比的非官方数据库“Spire Codex”的人类玩家数据显示，6个角色在进阶10的胜率为10.9%～19.9%。在bilibili的直播中，AI在全部866局中赢下645局。在恐惧模式下，故障机器人的胜率为16.8%，人类玩家为9.4%。"
+        },
+        {
+          "t": "p",
+          "x": "另一方面，仅用贪心法时，47%～68%的失败发生在第3层最终首领的2连战中。研究团队将在训练阶段也引入前瞻列为今后的课题。"
+        }
+      ]
+    },
+    "games/eafc-motson-ai-voice": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "传奇足球评论员John Motson将以AI形式回归该系列，出现在今天的EA FC 27版本更新中。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+          "cap": "图片来源：Getty Images - 摄影 Laurence Griffiths/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "BBC传奇足球解说员John “Motty” Motson于2023年去世，享年77岁。他将通过“结合其原始音频与用本人录音训练的AI重建声音（AI-recreation）”的方式加入EA Sports FC 27。公告称，“近10年的游戏内录音”与“新的AI工具”一同被使用。他与EA足球系列的渊源可追溯到FIFA Soccer 96。"
+        },
+        {
+          "t": "p",
+          "x": "“父亲非常热爱担任这款游戏的声音，我们由衷感谢EA Sports FC团队献上这份动人的致敬，并在游戏中留住他的记忆。”John的儿子Fred说。据BBC报道，EA向其家人支付了一笔未公开的款项。"
+        },
+        {
+          "t": "p",
+          "x": "并非所有人都同样热情：在EA Sports FC的subreddit上，有人称之为“可耻”“不尊重”“恶心”和“太黑暗了”。一名Reddit用户写道：“我们活在一个多么该死的阴暗世界。”Save Our Voices Now的Peter Caulfield表示：“除非本人明确同意，否则任何形式的AI克隆都不应被允许。”相比之下，Red Hook Studios表示绝不会用AI重现旁白Wayne June的声音。"
+        }
+      ]
     }
   }
 }

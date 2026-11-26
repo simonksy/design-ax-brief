@@ -1,363 +1,273 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "politics",
   "cards": [
     {
-      "id": "gosrn-ai-imagery-statement",
-      "source_lang": "ko",
+      "id": "commerce-si-exports-consortia",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "11개국 규제기관\nAI 성적이미지 차단 촉구",
-      "body": "11개국 규제기관이 AI 개발 단계부터 성적 이미지 안전장치를 요구했다.",
-      "mini_headline": "AI 성적이미지 공동 대응",
+      "headline": "상무부, US AI 수출\n컨소시엄 신청길 열었다",
+      "body": "컨소시엄은 11월 30일부터 해외 거래별로 US AI 수출 패키지 지정을 신청한다.",
+      "mini_headline": "상무부, AI 수출 컨소시엄 길 열어",
       "tool": "Politics",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261125107000017",
+      "source": "Federal Register (U.S. Department of Commerce, ITA)",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24107/american-si-exports-program-on-demand-consortia-for-specific-foreign-opportunities",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
-            "cap": "[연합뉴스TV 제공]"
+            "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
           },
           {
             "t": "p",
-            "x": "한국을 비롯한 11개국 온라인 안전 규제기관이 인공지능(AI)으로 생성된 아동 성착취물과 비동의 성적 이미지의 제작·유포를 막기 위해 기술 기업의 책임을 강화해야 한다고 촉구했다."
+            "x": "상무부 국제무역청(ITA)이 행정명령 14320호 「미국 SI 기술 스택 수출 촉진」이 승인한 초지능(Super Intelligence, SI) 수출 프로그램에 On-Demand Consortia(수요 대응형 컨소시엄) 경로를 새로 연다. (행정명령 14434호에 따라 각 기관은 “Artificial Intelligence”와 “AI” 대신 “Super Intelligence”와 “SI”를 쓴다.) 신청은 2026년 11월 30일부터 수시로 받는다."
           },
           {
             "t": "p",
-            "x": "방송미디어통신심의위원회(방미심위)는 25일 호주 시드니에서 열린 글로벌 온라인 안전 규제기관 네트워크(GOSRN) 연례회의에서 회원기관들과 이런 내용의 공동 입장문을 채택·발표했다고 밝혔다."
+            "x": "On-Demand Consortia는 구체적으로 확인된 해외 수출 기회에 대응하려고 산업계가 주도해 꾸리는 연합체다. Pre-Set Consortia와 달리 패키지에는 구매자가 요구하는 SI 스택 계층만 담으면 된다. 다만 기존 인프라나 확보한 인프라와 묶어 어떻게 full-stack SI 기술 패키지를 이루는지는 보여야 한다. 신청자는 그 기회가 이미 있거나 곧 생긴다는 점, 패키지가 선정될 합리적 가능성이 있다는 점을 입증해야 한다."
           },
           {
             "t": "p",
-            "x": "입장문에는 AI 시스템의 설계·개발 단계부터 AI를 이용한 성적 이미지 제작·유포를 예방하는 안전장치를 마련하고, 아동·청소년의 유해 AI 서비스 접근을 제한하기 위한 연령 확인 제도를 강화해야 한다는 내용이 담겼다."
-          },
-          {
-            "t": "p",
-            "x": "또 피해자가 성적 이미지를 신고하거나 삭제·차단을 신속하게 요청할 수 있는 절차를 마련하고, 규제기관 간 정보 공유와 기술 협력을 확대할 것을 촉구했다. 피해자와 생존자의 경험을 규제 정책에 반영해야 한다는 점도 강조했다."
-          },
-          {
-            "t": "p",
-            "x": "GOSRN은 온라인 안전을 위해 각국 독립 규제기관이 협력하는 국제협의체로, 한국 방미심위를 비롯해 영국 오프컴, 호주 e세이프티위원회, 프랑스 ARCOM 등 11개 기관이 참여하고 있다."
+            "x": "상무장관은 국무·전쟁·에너지 장관, OSTP 국장과 협의해 국익을 기준으로 지정 여부를 정하며, 60일(역일) 안에 결정할 계획이다. 지정 건수에 상한은 없다. 고시에는 패키지 재지정과 지정 해제 절차도 담겼다. Pre-Set Consortia 신청은 추후 다시 받을 수 있다고 했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "11개국 규제기관\nAI 성적이미지 차단 촉구",
-          "body": "11개국 규제기관이 AI 개발 단계부터 성적 이미지 안전장치를 요구했다.",
-          "mini_headline": "AI 성적이미지 공동 대응",
+        "en": {
+          "headline": "Commerce opens consortia path\nfor US AI export packages",
+          "body": "From Nov 30, consortia can apply to have US AI export packages designated for specific foreign deals.",
+          "mini_headline": "Commerce opens AI\nexport consortia path",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
-                "cap": "[연합뉴스TV 제공]"
+                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
               },
               {
                 "t": "p",
-                "x": "한국을 비롯한 11개국 온라인 안전 규제기관이 인공지능(AI)으로 생성된 아동 성착취물과 비동의 성적 이미지의 제작·유포를 막기 위해 기술 기업의 책임을 강화해야 한다고 촉구했다."
+                "x": "The Department of Commerce, through the International Trade Administration (ITA), establishes the On-Demand Consortia pathway under the Super Intelligence (SI) Exports Program authorized by Executive Order 14320: Promoting the Export of the American SI Technology Stack. (Per Executive Order 14434, agencies use “Super Intelligence” and “SI” in place of “Artificial Intelligence” and “AI”.) Applications may be submitted beginning November 30, 2026, on a rolling basis."
               },
               {
                 "t": "p",
-                "x": "방송미디어통신심의위원회(방미심위)는 25일 호주 시드니에서 열린 글로벌 온라인 안전 규제기관 네트워크(GOSRN) 연례회의에서 회원기관들과 이런 내용의 공동 입장문을 채택·발표했다고 밝혔다."
+                "x": "On-Demand Consortia are industry-led groupings formed to respond to a specific, identified foreign export opportunity. Unlike Pre-Set Consortia, their packages need only offer the layers of the SI stack necessary to meet the buyer's demands, but must show how they combine with existing or acquired infrastructure to result in a full-stack SI technology package. Applicants must show the opportunity is existing or forthcoming and that there is a reasonable likelihood the package will be selected."
               },
               {
                 "t": "p",
-                "x": "입장문에는 AI 시스템의 설계·개발 단계부터 AI를 이용한 성적 이미지 제작·유포를 예방하는 안전장치를 마련하고, 아동·청소년의 유해 AI 서비스 접근을 제한하기 위한 연령 확인 제도를 강화해야 한다는 내용이 담겼다."
-              },
-              {
-                "t": "p",
-                "x": "또 피해자가 성적 이미지를 신고하거나 삭제·차단을 신속하게 요청할 수 있는 절차를 마련하고, 규제기관 간 정보 공유와 기술 협력을 확대할 것을 촉구했다. 피해자와 생존자의 경험을 규제 정책에 반영해야 한다는 점도 강조했다."
-              },
-              {
-                "t": "p",
-                "x": "GOSRN은 온라인 안전을 위해 각국 독립 규제기관이 협력하는 국제협의체로, 한국 방미심위를 비롯해 영국 오프컴, 호주 e세이프티위원회, 프랑스 ARCOM 등 11개 기관이 참여하고 있다."
+                "x": "The Secretary of Commerce, in consultation with the Secretaries of State, War, and Energy and the OSTP Director, will make designation decisions based on the national interest, and intends to issue a decision within 60 calendar days. There is no numerical cap on designations. The notice also provides for re-designation and de-designation of packages, and says Pre-Set Consortia applications may be accepted again at a later date."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Regulators in 11 countries\nurge curbs on AI sexual images",
-          "body": "Regulators from 11 countries called for safeguards against sexual imagery from the AI development stage.",
-          "mini_headline": "Joint response to AI sexual imagery",
+        "ko": {
+          "headline": "상무부, US AI 수출\n컨소시엄 신청길 열었다",
+          "body": "컨소시엄은 11월 30일부터 해외 거래별로 US AI 수출 패키지 지정을 신청한다.",
+          "mini_headline": "상무부, AI 수출 컨소시엄 길 열어",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
-                "cap": "[Courtesy of Yonhap News TV]"
+                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
               },
               {
                 "t": "p",
-                "x": "Online safety regulators from 11 countries, including South Korea, called for stronger accountability from technology companies to stop the creation and spread of AI-generated (AI) child sexual abuse material and non-consensual sexual images."
+                "x": "상무부 국제무역청(ITA)이 행정명령 14320호 「미국 SI 기술 스택 수출 촉진」이 승인한 초지능(Super Intelligence, SI) 수출 프로그램에 On-Demand Consortia(수요 대응형 컨소시엄) 경로를 새로 연다. (행정명령 14434호에 따라 각 기관은 “Artificial Intelligence”와 “AI” 대신 “Super Intelligence”와 “SI”를 쓴다.) 신청은 2026년 11월 30일부터 수시로 받는다."
               },
               {
                 "t": "p",
-                "x": "The Korea Media and Communications Standards Commission said it adopted and announced a joint position statement to this effect with member bodies at the annual meeting of the Global Online Safety Regulators Network (GOSRN), held in Sydney, Australia, on the 25th."
+                "x": "On-Demand Consortia는 구체적으로 확인된 해외 수출 기회에 대응하려고 산업계가 주도해 꾸리는 연합체다. Pre-Set Consortia와 달리 패키지에는 구매자가 요구하는 SI 스택 계층만 담으면 된다. 다만 기존 인프라나 확보한 인프라와 묶어 어떻게 full-stack SI 기술 패키지를 이루는지는 보여야 한다. 신청자는 그 기회가 이미 있거나 곧 생긴다는 점, 패키지가 선정될 합리적 가능성이 있다는 점을 입증해야 한다."
               },
               {
                 "t": "p",
-                "x": "The statement calls for safeguards that prevent the creation and spread of sexual images using AI from the design and development stage of AI systems, and for stronger age verification to limit children's and teenagers' access to harmful AI services."
-              },
-              {
-                "t": "p",
-                "x": "It also urged procedures that let victims report sexual images or quickly request their removal or blocking, and called for wider information sharing and technical cooperation among regulators. It stressed that the experiences of victims and survivors should be reflected in regulatory policy."
-              },
-              {
-                "t": "p",
-                "x": "GOSRN is an international body through which independent national regulators cooperate on online safety. Its 11 member bodies include Korea's Media and Communications Standards Commission, the UK's Ofcom, Australia's eSafety Commission and France's ARCOM."
+                "x": "상무장관은 국무·전쟁·에너지 장관, OSTP 국장과 협의해 국익을 기준으로 지정 여부를 정하며, 60일(역일) 안에 결정할 계획이다. 지정 건수에 상한은 없다. 고시에는 패키지 재지정과 지정 해제 절차도 담겼다. Pre-Set Consortia 신청은 추후 다시 받을 수 있다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "11カ国の規制機関\nAI性的画像の阻止を要請",
-          "body": "11カ国の規制機関が、AI開発段階から性的画像への安全対策を求めた。",
-          "mini_headline": "AI性的画像に共同対応",
+          "headline": "商務省、US AI輸出\nコンソーシアム枠を新設",
+          "body": "11月30日から、コンソーシアムが海外案件別にUS AI輸出パッケージの指定を申請できる。",
+          "mini_headline": "商務省、AI輸出コンソーシアム枠",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
-                "cap": "[聯合ニュースTV提供]"
+                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
               },
               {
                 "t": "p",
-                "x": "韓国をはじめ11カ国のオンライン安全規制機関が、人工知能(AI)で生成された児童性的搾取物や同意のない性的画像の制作・拡散を防ぐため、テック企業の責任を強化すべきだと訴えた。"
+                "x": "商務省は国際貿易局（ITA）を通じ、大統領令14320号「米国SI技術スタックの輸出促進」に基づく超知能（Super Intelligence、SI）輸出プログラムの下で、On-Demand Consortia（オンデマンド型コンソーシアム）の枠組みを設ける。（大統領令14434号により、各機関は「Artificial Intelligence」「AI」に代えて「Super Intelligence」「SI」を用いる。）申請は2026年11月30日から随時受け付ける。"
               },
               {
                 "t": "p",
-                "x": "韓国の放送メディア通信審議委員会は、25日にオーストラリア・シドニーで開かれたグローバル・オンライン安全規制機関ネットワーク(GOSRN)の年次会合で、加盟機関とともにこうした内容の共同声明を採択・発表したと明らかにした。"
+                "x": "On-Demand Consortiaは、特定され確認された海外輸出機会に対応するため業界主導で結成される連合体である。Pre-Set Consortiaと異なり、そのパッケージは買い手の要求を満たすのに必要なSIスタックの層だけを提供すればよいが、既存または取得したインフラと組み合わせてfull-stackのSI技術パッケージになる仕組みを示さなければならない。申請者は、その機会が現存するか近く生じること、パッケージが選ばれる合理的な見込みがあることを示す必要がある。"
               },
               {
                 "t": "p",
-                "x": "声明には、AIシステムの設計・開発段階からAIを使った性的画像の制作・拡散を防ぐ安全装置を設けること、子ども・青少年の有害なAIサービスへのアクセスを制限するため年齢確認制度を強化することが盛り込まれた。"
-              },
-              {
-                "t": "p",
-                "x": "また、被害者が性的画像を通報し、削除・遮断を迅速に求められる手続きを整え、規制機関間の情報共有と技術協力を広げるよう求めた。被害者やサバイバーの経験を規制政策に反映させるべきだとも強調した。"
-              },
-              {
-                "t": "p",
-                "x": "GOSRNはオンラインの安全のために各国の独立規制機関が協力する国際協議体で、韓国の放送メディア通信審議委員会のほか、英国のOfcom、オーストラリアのeセーフティ委員会、フランスのARCOMなど11機関が参加している。"
+                "x": "商務長官は国務・戦争・エネルギー各長官およびOSTP局長と協議し、国益に基づいて指定を判断し、60暦日以内に決定を出す方針だ。指定件数に上限はない。告示はパッケージの再指定と指定取り消しについても定め、Pre-Set Consortiaの申請を後日改めて受け付ける可能性があるとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "11国监管机构\n呼吁遏制AI性图像",
-          "body": "11国监管机构要求从AI开发阶段起就为性图像设置安全防护措施。",
-          "mini_headline": "联合应对AI性图像",
+          "headline": "商务部为US AI出口\n开通联合体申请通道",
+          "body": "自11月30日起，联合体可申请将US AI出口方案指定用于特定海外交易。",
+          "mini_headline": "商务部开通AI出口联合体通道",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
-                "cap": "[韩联社TV提供]"
+                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
               },
               {
                 "t": "p",
-                "x": "包括韩国在内的11国网络安全监管机构呼吁加强科技企业的责任，以阻止人工智能(AI)生成的儿童性剥削内容和未经同意的性图像的制作与传播。"
+                "x": "美国商务部通过国际贸易管理局（ITA），在第14320号行政令《推动美国SI技术栈出口》授权的超级智能（Super Intelligence，SI）出口计划下，设立On-Demand Consortia（按需联合体）途径。（根据第14434号行政令，各机构以“Super Intelligence”和“SI”取代“Artificial Intelligence”和“AI”。）申请自2026年11月30日起滚动受理。"
               },
               {
                 "t": "p",
-                "x": "韩国广播媒体通信审议委员会表示，25日在澳大利亚悉尼举行的全球网络安全监管机构网络(GOSRN)年会上，与各成员机构共同通过并发布了包含上述内容的联合声明。"
+                "x": "On-Demand Consortia是为回应某一具体、已确认的海外出口机会而组建的行业主导联合体。与Pre-Set Consortia不同，其方案只需提供满足买方需求所必需的SI技术栈层级，但必须说明如何与现有或收购的基础设施结合，形成full-stack SI技术方案。申请者须证明该机会已经存在或即将出现，且方案有合理可能被选中。"
               },
               {
                 "t": "p",
-                "x": "声明提出，应从AI系统的设计和开发阶段起建立安全机制，防止利用AI制作和传播性图像，并加强年龄验证制度，限制儿童和青少年接触有害AI服务。"
-              },
-              {
-                "t": "p",
-                "x": "声明还呼吁建立让受害者能够举报性图像、迅速申请删除或屏蔽的程序，并扩大监管机构之间的信息共享与技术合作。声明同时强调，应将受害者和幸存者的经历纳入监管政策。"
-              },
-              {
-                "t": "p",
-                "x": "GOSRN是各国独立监管机构为网络安全开展合作的国际协商机制，韩国广播媒体通信审议委员会、英国Ofcom、澳大利亚e安全专员办公室、法国ARCOM等11家机构参与其中。"
+                "x": "商务部长将与国务卿、战争部长、能源部长及OSTP主任协商，依据国家利益作出指定决定，并计划在60个日历日内作出决定。指定数量没有上限。公告还规定了方案的重新指定与撤销指定，并表示今后可能再次受理Pre-Set Consortia申请。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Reguladores de 11 países piden\nfrenar imágenes sexuales con AI",
-          "body": "Reguladores de 11 países exigieron salvaguardas contra imágenes sexuales desde la fase de desarrollo de la AI.",
-          "mini_headline": "Respuesta conjunta a imágenes sexuales con AI",
+          "headline": "Comercio abre vía a consorcios\npara exportar AI de US",
+          "body": "Desde el 30 de noviembre, consorcios pueden pedir la designación de paquetes US de AI para acuerdos en el exterior.",
+          "mini_headline": "Comercio abre vía a consorcios de AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
-                "cap": "[Cortesía de Yonhap News TV]"
+                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
               },
               {
                 "t": "p",
-                "x": "Reguladores de seguridad en línea de 11 países, entre ellos Corea del Sur, pidieron reforzar la responsabilidad de las empresas tecnológicas para impedir la creación y difusión de material de abuso sexual infantil y de imágenes sexuales no consentidas generadas con inteligencia artificial (AI)."
+                "x": "El Departamento de Comercio, a través de la Administración de Comercio Internacional (ITA), establece la vía On-Demand Consortia dentro del Programa de Exportaciones de Superinteligencia (SI) autorizado por la Orden Ejecutiva 14320: Promoción de la Exportación de la Pila Tecnológica de SI Estadounidense. (Según la Orden Ejecutiva 14434, las agencias usan “Super Intelligence” y “SI” en lugar de “Artificial Intelligence” y “AI”.) Las solicitudes podrán presentarse a partir del 30 de noviembre de 2026, de forma continua."
               },
               {
                 "t": "p",
-                "x": "La Comisión de Normas de Medios y Comunicaciones de Corea informó que el día 25 adoptó y publicó, junto con los organismos miembros, una declaración conjunta en ese sentido durante la reunión anual de la Red Global de Reguladores de Seguridad en Línea (GOSRN), celebrada en Sídney, Australia."
+                "x": "Los On-Demand Consortia son agrupaciones lideradas por la industria que se forman para responder a una oportunidad de exportación concreta e identificada en el extranjero. A diferencia de los Pre-Set Consortia, sus paquetes solo deben ofrecer las capas de la pila de SI necesarias para cubrir la demanda del comprador, pero deben mostrar cómo se combinan con infraestructura existente o adquirida para dar lugar a un paquete tecnológico de SI full-stack. Los solicitantes deben demostrar que la oportunidad existe o es inminente y que hay una probabilidad razonable de que el paquete sea seleccionado."
               },
               {
                 "t": "p",
-                "x": "La declaración pide incorporar, desde las fases de diseño y desarrollo de los sistemas de AI, salvaguardas que eviten la creación y difusión de imágenes sexuales mediante AI, y reforzar los sistemas de verificación de edad para limitar el acceso de niños y adolescentes a servicios de AI dañinos."
-              },
-              {
-                "t": "p",
-                "x": "También instó a crear procedimientos para que las víctimas puedan denunciar imágenes sexuales o solicitar con rapidez su eliminación o bloqueo, y a ampliar el intercambio de información y la cooperación técnica entre reguladores. Asimismo, subrayó que la experiencia de víctimas y supervivientes debe reflejarse en las políticas regulatorias."
-              },
-              {
-                "t": "p",
-                "x": "GOSRN es un foro internacional en el que cooperan reguladores independientes de distintos países en materia de seguridad en línea; participan 11 organismos, entre ellos la comisión coreana, Ofcom del Reino Unido, la Comisión eSafety de Australia y ARCOM de Francia."
+                "x": "El secretario de Comercio, en consulta con los secretarios de Estado, Guerra y Energía y el director de la OSTP, tomará las decisiones de designación con base en el interés nacional, y prevé emitir una decisión en un plazo de 60 días naturales. No hay un tope numérico de designaciones. El aviso también contempla la redesignación y la retirada de la designación de paquetes, y señala que las solicitudes de Pre-Set Consortia podrían volver a aceptarse más adelante."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Regulators in 11 countries\nurge curbs on AI sexual images",
-          "body": "Regulators from 11 countries called for safeguards against sexual imagery from the AI development stage.",
-          "mini_headline": "Joint response to AI sexual imagery",
+        "ko": {
+          "headline": "상무부, US AI 수출\n컨소시엄 신청길 열었다",
+          "body": "11월 30일부터 컨소시엄이 해외 거래별 US AI 수출 패키지 지정을 신청한다.",
+          "mini_headline": "상무부, AI 수출 컨소시엄 길 열어",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
-                "cap": "[Courtesy of Yonhap News TV]"
+                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
               },
               {
                 "t": "p",
-                "x": "Online safety regulators from 11 countries, including South Korea, called for stronger accountability from technology companies to stop the creation and spread of AI-generated (AI) child sexual abuse material and non-consensual sexual images."
+                "x": "상무부는 국제무역청(ITA)을 통해 행정명령 14320호 「미국 SI 기술 스택 수출 촉진」이 승인한 초지능(Super Intelligence, SI) 수출 프로그램에 On-Demand Consortia(수요 대응형 컨소시엄) 경로를 신설한다. (행정명령 14434호에 따라 각 기관은 “Artificial Intelligence”와 “AI” 대신 “Super Intelligence”와 “SI”를 쓴다.) 신청은 2026년 11월 30일부터 수시로 받는다."
               },
               {
                 "t": "p",
-                "x": "The Korea Media and Communications Standards Commission said it adopted and announced a joint position statement to this effect with member bodies at the annual meeting of the Global Online Safety Regulators Network (GOSRN), held in Sydney, Australia, on the 25th."
+                "x": "On-Demand Consortia는 구체적으로 확인된 해외 수출 기회에 대응하려고 산업계가 주도해 꾸리는 연합체다. Pre-Set Consortia와 달리 이들의 패키지는 구매자 요구를 충족하는 데 필요한 SI 스택 계층만 제공하면 되지만, 기존 인프라나 확보한 인프라와 결합해 full-stack SI 기술 패키지를 이루는 방식을 보여야 한다. 신청자는 해당 기회가 이미 있거나 곧 생길 것이며 패키지가 선정될 합리적 가능성이 있음을 입증해야 한다."
               },
               {
                 "t": "p",
-                "x": "The statement calls for safeguards that prevent the creation and spread of sexual images using AI from the design and development stage of AI systems, and for stronger age verification to limit children's and teenagers' access to harmful AI services."
-              },
-              {
-                "t": "p",
-                "x": "It also urged procedures that let victims report sexual images or quickly request their removal or blocking, and called for wider information sharing and technical cooperation among regulators. It stressed that the experiences of victims and survivors should be reflected in regulatory policy."
-              },
-              {
-                "t": "p",
-                "x": "GOSRN is an international body through which independent national regulators cooperate on online safety. Its 11 member bodies include Korea's Media and Communications Standards Commission, the UK's Ofcom, Australia's eSafety Commission and France's ARCOM."
+                "x": "상무장관은 국무·전쟁·에너지 장관, OSTP 국장과 협의해 국익을 기준으로 지정 여부를 정하며, 60일(역일) 안에 결정을 내릴 계획이다. 지정 건수에 상한은 없다. 고시는 패키지의 재지정과 지정 해제 절차도 두었고, Pre-Set Consortia 신청은 추후 다시 받을 수 있다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "11カ国の規制機関\nAI性的画像の阻止を要請",
-          "body": "11カ国の規制機関が、AI開発段階から性的画像への安全対策を求めた。",
-          "mini_headline": "AI性的画像に共同対応",
+          "headline": "商務省、US AI輸出\nコンソーシアム枠を新設",
+          "body": "11月30日から、コンソーシアムが海外案件別にUS AI輸出パッケージの指定を申請できる。",
+          "mini_headline": "商務省、AI輸出コンソーシアム枠",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
-                "cap": "[聯合ニュースTV提供]"
+                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
               },
               {
                 "t": "p",
-                "x": "韓国をはじめ11カ国のオンライン安全規制機関が、人工知能(AI)で生成された児童性的搾取物や同意のない性的画像の制作・拡散を防ぐため、テック企業の責任を強化すべきだと訴えた。"
+                "x": "商務省は国際貿易局（ITA）を通じ、大統領令14320号「米国SI技術スタックの輸出促進」に基づく超知能（Super Intelligence、SI）輸出プログラムの下で、On-Demand Consortia（オンデマンド型コンソーシアム）の枠組みを設ける。（大統領令14434号により、各機関は「Artificial Intelligence」「AI」に代えて「Super Intelligence」「SI」を用いる。）申請は2026年11月30日から随時受け付ける。"
               },
               {
                 "t": "p",
-                "x": "韓国の放送メディア通信審議委員会は、25日にオーストラリア・シドニーで開かれたグローバル・オンライン安全規制機関ネットワーク(GOSRN)の年次会合で、加盟機関とともにこうした内容の共同声明を採択・発表したと明らかにした。"
+                "x": "On-Demand Consortiaは、特定され確認された海外輸出機会に対応するため業界主導で結成される連合体である。Pre-Set Consortiaと異なり、そのパッケージは買い手の要求を満たすのに必要なSIスタックの層だけを提供すればよいが、既存または取得したインフラと組み合わせてfull-stackのSI技術パッケージになる仕組みを示さなければならない。申請者は、その機会が現存するか近く生じること、パッケージが選ばれる合理的な見込みがあることを示す必要がある。"
               },
               {
                 "t": "p",
-                "x": "声明には、AIシステムの設計・開発段階からAIを使った性的画像の制作・拡散を防ぐ安全装置を設けること、子ども・青少年の有害なAIサービスへのアクセスを制限するため年齢確認制度を強化することが盛り込まれた。"
-              },
-              {
-                "t": "p",
-                "x": "また、被害者が性的画像を通報し、削除・遮断を迅速に求められる手続きを整え、規制機関間の情報共有と技術協力を広げるよう求めた。被害者やサバイバーの経験を規制政策に反映させるべきだとも強調した。"
-              },
-              {
-                "t": "p",
-                "x": "GOSRNはオンラインの安全のために各国の独立規制機関が協力する国際協議体で、韓国の放送メディア通信審議委員会のほか、英国のOfcom、オーストラリアのeセーフティ委員会、フランスのARCOMなど11機関が参加している。"
+                "x": "商務長官は国務・戦争・エネルギー各長官およびOSTP局長と協議し、国益に基づいて指定を判断し、60暦日以内に決定を出す方針だ。指定件数に上限はない。告示はパッケージの再指定と指定取り消しについても定め、Pre-Set Consortiaの申請を後日改めて受け付ける可能性があるとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "11国监管机构\n呼吁遏制AI性图像",
-          "body": "11国监管机构要求从AI开发阶段起就为性图像设置安全防护措施。",
-          "mini_headline": "联合应对AI性图像",
+          "headline": "商务部为US AI出口\n开通联合体申请通道",
+          "body": "自11月30日起，联合体可申请将US AI出口方案指定用于特定海外交易。",
+          "mini_headline": "商务部开通AI出口联合体通道",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
-                "cap": "[韩联社TV提供]"
+                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
               },
               {
                 "t": "p",
-                "x": "包括韩国在内的11国网络安全监管机构呼吁加强科技企业的责任，以阻止人工智能(AI)生成的儿童性剥削内容和未经同意的性图像的制作与传播。"
+                "x": "美国商务部通过国际贸易管理局（ITA），在第14320号行政令《推动美国SI技术栈出口》授权的超级智能（Super Intelligence，SI）出口计划下，设立On-Demand Consortia（按需联合体）途径。（根据第14434号行政令，各机构以“Super Intelligence”和“SI”取代“Artificial Intelligence”和“AI”。）申请自2026年11月30日起滚动受理。"
               },
               {
                 "t": "p",
-                "x": "韩国广播媒体通信审议委员会表示，25日在澳大利亚悉尼举行的全球网络安全监管机构网络(GOSRN)年会上，与各成员机构共同通过并发布了包含上述内容的联合声明。"
+                "x": "On-Demand Consortia是为回应某一具体、已确认的海外出口机会而组建的行业主导联合体。与Pre-Set Consortia不同，其方案只需提供满足买方需求所必需的SI技术栈层级，但必须说明如何与现有或收购的基础设施结合，形成full-stack SI技术方案。申请者须证明该机会已经存在或即将出现，且方案有合理可能被选中。"
               },
               {
                 "t": "p",
-                "x": "声明提出，应从AI系统的设计和开发阶段起建立安全机制，防止利用AI制作和传播性图像，并加强年龄验证制度，限制儿童和青少年接触有害AI服务。"
-              },
-              {
-                "t": "p",
-                "x": "声明还呼吁建立让受害者能够举报性图像、迅速申请删除或屏蔽的程序，并扩大监管机构之间的信息共享与技术合作。声明同时强调，应将受害者和幸存者的经历纳入监管政策。"
-              },
-              {
-                "t": "p",
-                "x": "GOSRN是各国独立监管机构为网络安全开展合作的国际协商机制，韩国广播媒体通信审议委员会、英国Ofcom、澳大利亚e安全专员办公室、法国ARCOM等11家机构参与其中。"
+                "x": "商务部长将与国务卿、战争部长、能源部长及OSTP主任协商，依据国家利益作出指定决定，并计划在60个日历日内作出决定。指定数量没有上限。公告还规定了方案的重新指定与撤销指定，并表示今后可能再次受理Pre-Set Consortia申请。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Reguladores de 11 países piden\nfrenar imágenes sexuales con AI",
-          "body": "Reguladores de 11 países exigieron salvaguardas contra imágenes sexuales desde la fase de desarrollo de la AI.",
-          "mini_headline": "Respuesta conjunta a imágenes sexuales con AI",
+          "headline": "Comercio abre vía a consorcios\npara exportar AI de US",
+          "body": "Desde el 30 de noviembre, consorcios pueden pedir la designación de paquetes US de AI para acuerdos en el exterior.",
+          "mini_headline": "Comercio abre vía a consorcios de AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img5.yna.co.kr/photo/cms/2022/09/15/46/PCM20220915000146990_P4.jpg",
-                "cap": "[Cortesía de Yonhap News TV]"
+                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
               },
               {
                 "t": "p",
-                "x": "Reguladores de seguridad en línea de 11 países, entre ellos Corea del Sur, pidieron reforzar la responsabilidad de las empresas tecnológicas para impedir la creación y difusión de material de abuso sexual infantil y de imágenes sexuales no consentidas generadas con inteligencia artificial (AI)."
+                "x": "El Departamento de Comercio, a través de la Administración de Comercio Internacional (ITA), establece la vía On-Demand Consortia dentro del Programa de Exportaciones de Superinteligencia (SI) autorizado por la Orden Ejecutiva 14320: Promoción de la Exportación de la Pila Tecnológica de SI Estadounidense. (Según la Orden Ejecutiva 14434, las agencias usan “Super Intelligence” y “SI” en lugar de “Artificial Intelligence” y “AI”.) Las solicitudes podrán presentarse a partir del 30 de noviembre de 2026, de forma continua."
               },
               {
                 "t": "p",
-                "x": "La Comisión de Normas de Medios y Comunicaciones de Corea informó que el día 25 adoptó y publicó, junto con los organismos miembros, una declaración conjunta en ese sentido durante la reunión anual de la Red Global de Reguladores de Seguridad en Línea (GOSRN), celebrada en Sídney, Australia."
+                "x": "Los On-Demand Consortia son agrupaciones lideradas por la industria que se forman para responder a una oportunidad de exportación concreta e identificada en el extranjero. A diferencia de los Pre-Set Consortia, sus paquetes solo deben ofrecer las capas de la pila de SI necesarias para cubrir la demanda del comprador, pero deben mostrar cómo se combinan con infraestructura existente o adquirida para dar lugar a un paquete tecnológico de SI full-stack. Los solicitantes deben demostrar que la oportunidad existe o es inminente y que hay una probabilidad razonable de que el paquete sea seleccionado."
               },
               {
                 "t": "p",
-                "x": "La declaración pide incorporar, desde las fases de diseño y desarrollo de los sistemas de AI, salvaguardas que eviten la creación y difusión de imágenes sexuales mediante AI, y reforzar los sistemas de verificación de edad para limitar el acceso de niños y adolescentes a servicios de AI dañinos."
-              },
-              {
-                "t": "p",
-                "x": "También instó a crear procedimientos para que las víctimas puedan denunciar imágenes sexuales o solicitar con rapidez su eliminación o bloqueo, y a ampliar el intercambio de información y la cooperación técnica entre reguladores. Asimismo, subrayó que la experiencia de víctimas y supervivientes debe reflejarse en las políticas regulatorias."
-              },
-              {
-                "t": "p",
-                "x": "GOSRN es un foro internacional en el que cooperan reguladores independientes de distintos países en materia de seguridad en línea; participan 11 organismos, entre ellos la comisión coreana, Ofcom del Reino Unido, la Comisión eSafety de Australia y ARCOM de Francia."
+                "x": "El secretario de Comercio, en consulta con los secretarios de Estado, Guerra y Energía y el director de la OSTP, tomará las decisiones de designación con base en el interés nacional, y prevé emitir una decisión en un plazo de 60 días naturales. No hay un tope numérico de designaciones. El aviso también contempla la redesignación y la retirada de la designación de paquetes, y señala que las solicitudes de Pre-Set Consortia podrían volver a aceptarse más adelante."
               }
             ]
           }
@@ -365,15 +275,15 @@
       }
     },
     {
-      "id": "spacex-fcc-orbital-datacenters",
-      "source_lang": "en",
+      "id": "apple-siri-kftc-ad-probe",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "FCC, SpaceX 궤도\nAI 데이터센터 승인",
-      "body": "FCC가 SpaceX 궤도 AI 데이터센터 위성 최대 백만 기를 승인했다.",
-      "mini_headline": "FCC, SpaceX 궤도 데이터센터 승인",
+      "headline": "공정위, 애플 시리\nAI 광고 심의 착수",
+      "body": "심사관은 애플이 제공 시기가 불확실한 AI 기능을 쓸 수 있는 듯 광고했다고 봤다.",
+      "mini_headline": "공정위, 애플\nAI 광고 심의",
       "tool": "Politics",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20261126000303",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -381,345 +291,415 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
-            "cap": "사진: Mario Tama/Getty Images"
+            "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
           },
           {
             "t": "p",
-            "x": "SpaceX는 ‘Starmind’ 위성군으로 지구의 AI 역량에 전력을 대려 한다."
+            "x": "애플이 아이폰16 시리즈를 출시하면서 일부 인공지능(AI) 기능의 제공 시기가 불확실한데도 정상적으로 서비스를 이용할 수 있는 것처럼 광고한 혐의로 공정거래위원회 심의를 받는다. 공정위 심사관은 관련 매출액을 3조3527억원으로 산정하고 과징금 부과 의견을 냈다."
           },
           {
             "t": "p",
-            "x": "FCC는 수요일 Elon Musk의 회사 SpaceX가 “Starmind” 계획에 따라 AI 칩을 실은 위성을 최대 100만 기까지 배치하도록 허가했다고 발표했다. Google과 Blue Origin 등 여러 기업이 우주에 AI 데이터센터를 두는 구상을 추진하지만, FCC가 AI 위성으로만 이뤄진 “위성군”을 통째로 승인하기는 이번이 처음이다."
+            "x": "공정위는 애플과 애플코리아의 표시광고법 위반 혐의에 대한 심사보고서를 지난 24일 위원회에 제출하고 해당 기업에도 송부했다고 26일 밝혔다. 지난해 3월 신고를 접수해 조사에 착수한 지 1년 8개월 만이다."
           },
           {
             "t": "p",
-            "x": "FCC 승인에 따라 SpaceX는 2033년까지 위성을 적어도 한 기 배치하고 2040년까지 100만 기를 채워야 한다. 600km 이상 고도의 위성을 대기권에서 태우지 않고 우주 “무덤” 궤도로 보내겠다는 SpaceX의 요청은 보류됐다. FCC는 처분 절차 계획에 관한 “충분한 정보”가 없다며 판단을 미뤘다."
+            "x": "쟁점은 애플이 아이폰16의 주요 판매 전략으로 내세운 '애플 인텔리전스(Apple Intelligence)'다. 애플은 2024년 9월부터 지난해 3월까지 제품 홈페이지를 통해 글쓰기 도구와 이미지 생성, 음성비서 시리(Siri) 등 9가지 AI 기능을 광고했다."
           },
           {
             "t": "p",
-            "x": "SpaceX는 Starmind 프로젝트를 지구의 AI 역량에 “전력을 공급하기 위해 우주에서 태양 에너지를 모으는” 방법이라고 설명했다. Starmind는 Starlink와 이어지는 고속 레이저로 지구에 데이터를 내려보낸다는 게 회사 설명이다. 위성에 들어갈 칩은 앞으로 지을 Terafab 시설에서 만든다."
+            "x": "그러나 이 가운데 젠모지, 이미지 플레이그라운드, 개인적 맥락을 이해하는 시리, 단계별 가이드를 제공하는 시리 등 4가지 기능은 광고 내용대로 제공되지 않았다."
           },
           {
             "t": "p",
-            "x": "Google은 지난달 “Project Suncatcher” AI 서버 위성을 쏘아 올리며 우주 컴퓨팅의 첫발을 이미 뗐다. Jeff Bezos의 Blue Origin은 2029년 Project Suncatcher만을 위한 첫 대형 발사를 맡는다."
+            "x": "대표적으로 개인적 맥락을 이해하는 시리 기능은 2024년 말까지 미국 영어로 출시하고 지난해 4월 초 한국어를 지원할 예정이라고 광고했다. 실제 미국 영어 서비스는 올해 9월에야 출시됐으며 한국어 지원은 지난달 시작됐다."
+          },
+          {
+            "t": "p",
+            "x": "공정위 심사관은 애플이 일부 기능의 출시 지연 가능성과 실제 제공 시기 등 소비자 구매 결정에 중요한 정보를 은폐·축소하거나 누락한 것으로 판단했다. 표시광고법상 기만적 광고에 해당하는 중대한 위반행위로 보고 향후 행위금지명령과 공표명령, 과징금 부과 등 제재 의견을 제시했다."
+          },
+          {
+            "t": "p",
+            "x": "애플은 심사보고서를 받은 날부터 6주 이내에 서면 의견을 제출할 수 있다. 공정위는 이후 위원회 심의를 거쳐 법 위반 여부와 과징금 부과액 등을 최종 결정할 방침이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "FCC approves SpaceX's orbital\nAI data center constellation",
-          "body": "The FCC approved SpaceX's application to deploy up to one million satellites for orbital AI data centers.",
-          "mini_headline": "FCC clears SpaceX orbital data centers",
+        "ko": {
+          "headline": "공정위, 애플 시리\nAI 광고 심의 착수",
+          "body": "심사관은 애플이 제공 시기가 불확실한 AI 기능을 쓸 수 있는 듯 광고했다고 봤다.",
+          "mini_headline": "공정위, 애플\nAI 광고 심의",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
-                "cap": "Photo by Mario Tama/Getty Images"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
               },
               {
                 "t": "p",
-                "x": "SpaceX aims to power AI capabilities here on Earth with its ‘Starmind’ constellation."
+                "x": "애플이 아이폰16 시리즈를 출시하면서 일부 인공지능(AI) 기능의 제공 시기가 불확실한데도 정상적으로 서비스를 이용할 수 있는 것처럼 광고한 혐의로 공정거래위원회 심의를 받는다. 공정위 심사관은 관련 매출액을 3조3527억원으로 산정하고 과징금 부과 의견을 냈다."
               },
               {
                 "t": "p",
-                "x": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company’s “Starmind” initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency has granted for a full “constellation” of AI satellites."
+                "x": "공정위는 애플과 애플코리아의 표시광고법 위반 혐의에 대한 심사보고서를 지난 24일 위원회에 제출하고 해당 기업에도 송부했다고 26일 밝혔다. 지난해 3월 신고를 접수해 조사에 착수한 지 1년 8개월 만이다."
               },
               {
                 "t": "p",
-                "x": "The FCC’s approval requires SpaceX to deploy at least one satellite by 2033, and meet the 1 million satellite milestone by 2040. The FCC also deferred SpaceX’s request to dispose of satellites located above 600km in space “graveyard” orbits, rather than having them burn up in the Earth’s atmosphere, saying the company hasn’t provided “sufficient information” about its disposal process plans."
+                "x": "쟁점은 애플이 아이폰16의 주요 판매 전략으로 내세운 '애플 인텔리전스(Apple Intelligence)'다. 애플은 2024년 9월부터 지난해 3월까지 제품 홈페이지를 통해 글쓰기 도구와 이미지 생성, 음성비서 시리(Siri) 등 9가지 AI 기능을 광고했다."
               },
               {
                 "t": "p",
-                "x": "SpaceX has described its Starmind project as a way to “capture solar energy in space to power” AI capabilities on Earth. The company says Starmind will transmit data to Earth using high-speed lasers that connect to Starlink. It plans to produce chips for its satellites at an upcoming Terafab facility."
+                "x": "그러나 이 가운데 젠모지, 이미지 플레이그라운드, 개인적 맥락을 이해하는 시리, 단계별 가이드를 제공하는 시리 등 4가지 기능은 광고 내용대로 제공되지 않았다."
               },
               {
                 "t": "p",
-                "x": "Google has already taken its first steps toward putting compute into space, with the launch of a “Project Suncatcher” AI server satellite last month. Jeff Bezos’ Blue Origin will carry out the first dedicated heavy-lift launch for Project Suncatcher in 2029."
+                "x": "대표적으로 개인적 맥락을 이해하는 시리 기능은 2024년 말까지 미국 영어로 출시하고 지난해 4월 초 한국어를 지원할 예정이라고 광고했다. 실제 미국 영어 서비스는 올해 9월에야 출시됐으며 한국어 지원은 지난달 시작됐다."
+              },
+              {
+                "t": "p",
+                "x": "공정위 심사관은 애플이 일부 기능의 출시 지연 가능성과 실제 제공 시기 등 소비자 구매 결정에 중요한 정보를 은폐·축소하거나 누락한 것으로 판단했다. 표시광고법상 기만적 광고에 해당하는 중대한 위반행위로 보고 향후 행위금지명령과 공표명령, 과징금 부과 등 제재 의견을 제시했다."
+              },
+              {
+                "t": "p",
+                "x": "애플은 심사보고서를 받은 날부터 6주 이내에 서면 의견을 제출할 수 있다. 공정위는 이후 위원회 심의를 거쳐 법 위반 여부와 과징금 부과액 등을 최종 결정할 방침이다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "FCC, SpaceX 궤도\nAI 데이터센터 승인",
-          "body": "FCC가 SpaceX 궤도 AI 데이터센터 위성 최대 백만 기를 승인했다.",
-          "mini_headline": "FCC, SpaceX 궤도 데이터센터 승인",
+        "en": {
+          "headline": "Korea's fair trade agency\nreviews Apple Siri AI ads",
+          "body": "The case examiner found Apple advertised AI features as usable though their release timing was uncertain.",
+          "mini_headline": "Korea reviews Apple AI ads",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
-                "cap": "사진: Mario Tama/Getty Images"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
               },
               {
                 "t": "p",
-                "x": "SpaceX는 ‘Starmind’ 위성군으로 지구의 AI 역량에 전력을 대려 한다."
+                "x": "Apple faces a Fair Trade Commission review over allegations that, when it launched the iPhone 16 series, it advertised some artificial intelligence (AI) features as if the services could be used normally even though their availability dates were uncertain. The commission's examiner put the related sales at 3조3527억원 and recommended a fine."
               },
               {
                 "t": "p",
-                "x": "FCC는 수요일 Elon Musk의 회사 SpaceX가 “Starmind” 계획에 따라 AI 칩을 실은 위성을 최대 100만 기까지 배치하도록 허가했다고 발표했다. Google과 Blue Origin 등 여러 기업이 우주에 AI 데이터센터를 두는 구상을 추진하지만, FCC가 AI 위성으로만 이뤄진 “위성군”을 통째로 승인하기는 이번이 처음이다."
+                "x": "The Fair Trade Commission said on the 26th that it submitted an examination report on alleged violations of the Act on Fair Labeling and Advertising by Apple and Apple Korea to the commission on the 24th and also sent it to the companies. It comes 1 year and 8 months after the agency received a complaint in March last year and opened an investigation."
               },
               {
                 "t": "p",
-                "x": "FCC 승인에 따라 SpaceX는 2033년까지 위성을 적어도 한 기 배치하고 2040년까지 100만 기를 채워야 한다. 600km 이상 고도의 위성을 대기권에서 태우지 않고 우주 “무덤” 궤도로 보내겠다는 SpaceX의 요청은 보류됐다. FCC는 처분 절차 계획에 관한 “충분한 정보”가 없다며 판단을 미뤘다."
+                "x": "At issue is 'Apple Intelligence', which Apple promoted as a key sales strategy for the iPhone 16. From September 2024 to March last year, Apple advertised 9 AI features on its product website, including writing tools, image generation and the voice assistant Siri."
               },
               {
                 "t": "p",
-                "x": "SpaceX는 Starmind 프로젝트를 지구의 AI 역량에 “전력을 공급하기 위해 우주에서 태양 에너지를 모으는” 방법이라고 설명했다. Starmind는 Starlink와 이어지는 고속 레이저로 지구에 데이터를 내려보낸다는 게 회사 설명이다. 위성에 들어갈 칩은 앞으로 지을 Terafab 시설에서 만든다."
+                "x": "But 4 of them, Genmoji, Image Playground, a Siri that understands personal context and a Siri that offers step-by-step guidance, were not delivered as advertised."
               },
               {
                 "t": "p",
-                "x": "Google은 지난달 “Project Suncatcher” AI 서버 위성을 쏘아 올리며 우주 컴퓨팅의 첫발을 이미 뗐다. Jeff Bezos의 Blue Origin은 2029년 Project Suncatcher만을 위한 첫 대형 발사를 맡는다."
+                "x": "For example, Apple advertised that the Siri feature that understands personal context would launch in U.S. English by the end of 2024 and support Korean in early April last year. In fact, the U.S. English service launched only in September this year, and Korean support began last month."
+              },
+              {
+                "t": "p",
+                "x": "The examiner judged that Apple concealed, downplayed or omitted information important to consumers' purchase decisions, such as the possibility that some features would be delayed and when they would actually be provided. Treating this as a serious violation amounting to deceptive advertising under the Act on Fair Labeling and Advertising, the examiner recommended sanctions including a cease-and-desist order, a publication order and a fine."
+              },
+              {
+                "t": "p",
+                "x": "Apple can submit a written opinion within 6 weeks of receiving the examination report. The Fair Trade Commission plans to decide finally whether the law was violated and how large any fine should be after deliberation by the commission."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FCC、SpaceXの\n軌道AIデータセンター承認",
-          "body": "FCCは軌道AIデータセンター向けにSpaceXの衛星最大百万基の配備を承認した。",
-          "mini_headline": "FCC、SpaceX軌道データセンターを承認",
+          "headline": "韓国公取委、Apple\nSiri AI広告を審議へ",
+          "body": "審査官は、Appleが提供時期の不確かなAI機能を使えるかのように広告したとみた。",
+          "mini_headline": "韓国公取委、AppleのAI広告を審議",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
-                "cap": "写真：Mario Tama/Getty Images"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
               },
               {
                 "t": "p",
-                "x": "SpaceXは「Starmind」衛星群で地上のAI能力に電力を供給することを目指している。"
+                "x": "Appleは、iPhone 16シリーズの発売時に一部の人工知能（AI）機能の提供時期が不確かだったにもかかわらず、通常どおりサービスを使えるかのように広告した疑いで、韓国公正取引委員会の審議を受ける。公取委の審査官は関連売上高を3조3527억원と算定し、課徴金を科すべきとの意見を出した。"
               },
               {
                 "t": "p",
-                "x": "FCCは水曜日の発表で、Elon Musk氏が所有するSpaceXの「Starmind」構想の一環として、AIチップを搭載した衛星を最大100万基配備することを認可したと明らかにした。GoogleやBlue Originなど複数の企業が宇宙にAIデータセンターを置く構想を進めているが、AI衛星による本格的な「コンステレーション」をFCCが承認したのは今回が初めてだ。"
+                "x": "公取委は26日、AppleとApple Koreaの表示広告法違反の疑いに関する審査報告書を24日に委員会へ提出し、両社にも送付したと明らかにした。昨年3月に申告を受けて調査に着手してから1年8カ月ぶりだ。"
               },
               {
                 "t": "p",
-                "x": "承認の条件として、SpaceXは2033年までに少なくとも1基の衛星を配備し、2040年までに100万基の目標を達成しなければならない。FCCはまた、600km 以上の高度にある衛星を地球の大気圏で燃え尽きさせるのではなく宇宙の「墓場」軌道で処分したいというSpaceXの要請について、処分計画に関する「十分な情報」が示されていないとして判断を先送りした。"
+                "x": "争点は、AppleがiPhone 16の主な販売戦略に掲げた「Apple Intelligence」だ。Appleは2024年9月から昨年3月まで、製品ホームページで文章作成ツールや画像生成、音声アシスタントのSiriなど9種類のAI機能を広告した。"
               },
               {
                 "t": "p",
-                "x": "SpaceXはStarmindプロジェクトを、地上のAI能力に「電力を供給するために宇宙で太陽エネルギーを集める」手段だと説明している。同社によると、StarmindはStarlinkと接続する高速レーザーで地球にデータを送る。衛星用チップは今後稼働するTerafab施設で生産する計画だ。"
+                "x": "しかし、このうちGenmoji、Image Playground、個人的な文脈を理解するSiri、段階的なガイドを示すSiriの4機能は、広告どおりに提供されなかった。"
               },
               {
                 "t": "p",
-                "x": "Googleは先月「Project Suncatcher」のAIサーバー衛星を打ち上げ、宇宙へのコンピューティング配置に向けた第一歩をすでに踏み出した。Jeff Bezos氏のBlue Originは2029年、Project Suncatcher専用の初の大型打ち上げを担う。"
+                "x": "代表例として、個人的な文脈を理解するSiri機能は2024年末までに米国英語で提供を始め、昨年4月初めに韓国語に対応すると広告していた。実際の米国英語版は今年9月にようやく公開され、韓国語対応は先月始まった。"
+              },
+              {
+                "t": "p",
+                "x": "審査官は、Appleが一部機能の発売遅延の可能性や実際の提供時期など、消費者の購入判断に重要な情報を隠蔽・縮小し、あるいは省いたと判断した。表示広告法上の欺瞞的広告にあたる重大な違反行為とみて、今後の行為禁止命令や公表命令、課徴金の賦課などの制裁意見を示した。"
+              },
+              {
+                "t": "p",
+                "x": "Appleは審査報告書を受け取った日から6週間以内に書面で意見を提出できる。公取委はその後、委員会の審議を経て法違反の有無や課徴金額などを最終決定する方針だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FCC批准SpaceX\n轨道AI数据中心星座",
-          "body": "FCC批准SpaceX为轨道AI数据中心部署最多百万颗卫星的申请。",
-          "mini_headline": "FCC批准SpaceX轨道数据中心",
+          "headline": "韩国公平委审议Apple\nSiri AI广告问题",
+          "body": "审查官认为，Apple将上线时间未定的AI功能宣传得像可以使用一样。",
+          "mini_headline": "韩国公平委审议Apple AI广告",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
-                "cap": "图片：Mario Tama/Getty Images"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
               },
               {
                 "t": "p",
-                "x": "SpaceX希望借助“Starmind”星座为地球上的AI能力供电。"
+                "x": "Apple在推出iPhone 16系列时，尽管部分人工智能（AI）功能的提供时间并不确定，仍宣传得仿佛可以正常使用服务，因涉嫌违规而接受韩国公平交易委员会审议。公平委审查官将相关销售额核定为3조3527억원，并提出了处以罚款的意见。"
               },
               {
                 "t": "p",
-                "x": "FCC周三宣布，已授权SpaceX部署最多100万颗搭载AI芯片的卫星，这是这家Elon Musk旗下公司“Starmind”计划的一部分。包括Google和Blue Origin在内，多家公司都在推进将AI数据中心送入太空的设想，而这是该机构首次批准由AI卫星组成的完整“星座”。"
+                "x": "公平委26日表示，已于24日向委员会提交关于Apple及Apple Korea涉嫌违反《标示广告法》的审查报告，并送交相关企业。这距其去年3月接到举报并启动调查已有1年8个月。"
               },
               {
                 "t": "p",
-                "x": "根据FCC的批准条件，SpaceX须在2033年前至少部署一颗卫星，并在2040年前达到100万颗卫星的目标。FCC还推迟处理SpaceX的一项请求，即把位于600km 以上的卫星送入太空“坟场”轨道处置，而不是让其在地球大气层中烧毁，理由是该公司未就处置流程计划提供“足够信息”。"
+                "x": "争议焦点是Apple作为iPhone 16主要销售策略推出的“Apple Intelligence”。Apple自2024年9月至去年3月，在产品官网上宣传了写作工具、图像生成、语音助手Siri等9项AI功能。"
               },
               {
                 "t": "p",
-                "x": "SpaceX将Starmind项目描述为一种“在太空收集太阳能，为”地球上的AI能力“供电”的方式。公司表示，Starmind将通过连接Starlink的高速激光向地球传输数据。它计划在即将建成的Terafab工厂生产卫星芯片。"
+                "x": "但其中Genmoji、Image Playground、能理解个人语境的Siri、可提供分步指引的Siri等4项功能未能按广告内容提供。"
               },
               {
                 "t": "p",
-                "x": "Google上月发射了一颗“Project Suncatcher”AI服务器卫星，已迈出将算力送入太空的第一步。Jeff Bezos旗下的Blue Origin将于2029年为Project Suncatcher执行首次专用重型发射。"
+                "x": "典型例子是，Apple曾宣传能理解个人语境的Siri功能将于2024年底前以美式英语推出，并于去年4月初支持韩语。实际上，美式英语服务直到今年9月才上线，韩语支持则于上个月开始。"
+              },
+              {
+                "t": "p",
+                "x": "公平委审查官认为，Apple隐瞒、淡化或遗漏了部分功能可能延迟上线及实际提供时间等对消费者购买决定至关重要的信息。审查官将其视为《标示广告法》规定的欺骗性广告这一严重违法行为，提出了禁止令、公告令及罚款等制裁意见。"
+              },
+              {
+                "t": "p",
+                "x": "Apple可在收到审查报告之日起6周内提交书面意见。公平委之后将经委员会审议，最终决定是否违法及罚款金额等。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La FCC aprueba la red orbital\nde centros de datos AI de SpaceX",
-          "body": "La FCC aprobó la solicitud de SpaceX para desplegar hasta un millón de satélites para centros de datos AI orbitales.",
-          "mini_headline": "La FCC autoriza los centros de datos orbitales de SpaceX",
+          "headline": "Corea examina a Apple por\nanuncios de AI en Siri",
+          "body": "El examinador concluyó que Apple anunció funciones de AI como utilizables pese a no tener fecha de llegada clara.",
+          "mini_headline": "Corea examina anuncios de AI de Apple",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
-                "cap": "Foto de Mario Tama/Getty Images"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
               },
               {
                 "t": "p",
-                "x": "SpaceX busca alimentar capacidades de AI aquí en la Tierra con su constelación ‘Starmind’."
+                "x": "Apple será examinada por la Comisión de Comercio Justo de Corea por presuntamente haber anunciado, al lanzar la serie iPhone 16, algunas funciones de inteligencia artificial (AI) como si pudieran usarse con normalidad pese a que su fecha de disponibilidad era incierta. El examinador de la comisión calculó las ventas relacionadas en 3조3527억원 y propuso imponer una multa."
               },
               {
                 "t": "p",
-                "x": "En un anuncio del miércoles, la FCC afirmó que autorizó a SpaceX a desplegar hasta 1 millón de satélites equipados con chips de AI como parte de la iniciativa “Starmind” de la empresa propiedad de Elon Musk. Aunque varias otras compañías, entre ellas Google y Blue Origin, también persiguen la idea de llevar centros de datos de AI al espacio, esta es la primera aprobación que la agencia concede para una “constelación” completa de satélites de AI."
+                "x": "La comisión informó el día 26 que el 24 presentó al pleno un informe de examen sobre la presunta infracción de la ley de etiquetado y publicidad por parte de Apple y Apple Korea, y que también lo envió a las empresas. Llega 1 año y 8 meses después de recibir una denuncia en marzo del año pasado e iniciar la investigación."
               },
               {
                 "t": "p",
-                "x": "La aprobación de la FCC exige a SpaceX desplegar al menos un satélite antes de 2033 y alcanzar el hito de 1 millón de satélites antes de 2040. La FCC también aplazó la solicitud de SpaceX de deshacerse de los satélites situados por encima de 600km en órbitas “cementerio” en el espacio, en lugar de dejar que se desintegren en la atmósfera terrestre, al señalar que la empresa no ha aportado “información suficiente” sobre sus planes para ese proceso."
+                "x": "El centro del caso es 'Apple Intelligence', que Apple presentó como estrategia de venta clave del iPhone 16. Entre septiembre de 2024 y marzo del año pasado, Apple anunció en la web del producto 9 funciones de AI, entre ellas herramientas de escritura, generación de imágenes y el asistente de voz Siri."
               },
               {
                 "t": "p",
-                "x": "SpaceX ha descrito su proyecto Starmind como una forma de “captar energía solar en el espacio para alimentar” capacidades de AI en la Tierra. La empresa afirma que Starmind transmitirá datos a la Tierra mediante láseres de alta velocidad conectados a Starlink. Prevé fabricar los chips de sus satélites en una futura instalación Terafab."
+                "x": "Sin embargo, 4 de ellas, Genmoji, Image Playground, una Siri que entiende el contexto personal y una Siri que ofrece guías paso a paso, no se ofrecieron tal como se anunciaron."
               },
               {
                 "t": "p",
-                "x": "Google ya dio sus primeros pasos para llevar capacidad de cómputo al espacio con el lanzamiento, el mes pasado, de un satélite servidor de AI de “Project Suncatcher”. Blue Origin, de Jeff Bezos, realizará en 2029 el primer lanzamiento pesado dedicado para Project Suncatcher."
+                "x": "Por ejemplo, Apple anunció que la función de Siri que entiende el contexto personal se lanzaría en inglés de EE. UU. antes de finales de 2024 y que admitiría el coreano a principios de abril del año pasado. En realidad, el servicio en inglés de EE. UU. no llegó hasta septiembre de este año, y el soporte en coreano empezó el mes pasado."
+              },
+              {
+                "t": "p",
+                "x": "El examinador concluyó que Apple ocultó, minimizó u omitió información importante para la decisión de compra de los consumidores, como la posibilidad de retrasos en algunas funciones y la fecha real de disponibilidad. Lo consideró una infracción grave equivalente a publicidad engañosa según la ley de etiquetado y publicidad, y propuso sanciones como una orden de cese, una orden de publicación y una multa."
+              },
+              {
+                "t": "p",
+                "x": "Apple puede presentar alegaciones por escrito en un plazo de 6 semanas desde que recibió el informe. La comisión decidirá después, tras la deliberación del pleno, si hubo infracción y el importe de la multa."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "FCC, SpaceX 궤도\nAI 데이터센터 승인",
-          "body": "FCC가 SpaceX 궤도 AI 데이터센터 위성 최대 백만 기를 승인했다.",
-          "mini_headline": "FCC, SpaceX 궤도 데이터센터 승인",
+        "en": {
+          "headline": "Korea's fair trade agency\nreviews Apple Siri AI ads",
+          "body": "The case examiner found Apple advertised AI features as usable though their release timing was uncertain.",
+          "mini_headline": "Korea reviews Apple AI ads",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
-                "cap": "사진: Mario Tama/Getty Images"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
               },
               {
                 "t": "p",
-                "x": "SpaceX는 ‘Starmind’ 위성군으로 지구의 AI 역량에 전력을 공급하려 한다."
+                "x": "Apple faces a Fair Trade Commission review over allegations that, when it launched the iPhone 16 series, it advertised some artificial intelligence (AI) features as if the services could be used normally even though their availability dates were uncertain. The commission's examiner put the related sales at 3조3527억원 and recommended a fine."
               },
               {
                 "t": "p",
-                "x": "FCC는 수요일 발표에서 Elon Musk 소유 회사인 SpaceX의 “Starmind” 계획의 하나로 AI 칩을 탑재한 위성을 최대 100만 기까지 배치하도록 허가했다고 밝혔다. Google과 Blue Origin을 비롯해 여러 기업이 우주에 AI 데이터센터를 두는 구상을 추진하고 있지만, FCC가 AI 위성으로 이뤄진 완전한 “위성군”을 승인한 것은 이번이 처음이다."
+                "x": "The Fair Trade Commission said on the 26th that it submitted an examination report on alleged violations of the Act on Fair Labeling and Advertising by Apple and Apple Korea to the commission on the 24th and also sent it to the companies. It comes 1 year and 8 months after the agency received a complaint in March last year and opened an investigation."
               },
               {
                 "t": "p",
-                "x": "FCC 승인에 따라 SpaceX는 2033년까지 위성을 적어도 한 기 배치하고, 2040년까지 100만 기 목표를 달성해야 한다. FCC는 또 600km 이상 고도의 위성을 지구 대기에서 태우지 않고 우주 “무덤” 궤도로 처분하겠다는 SpaceX의 요청에 대해서는 처분 절차 계획에 관한 “충분한 정보”를 내지 않았다며 판단을 미뤘다."
+                "x": "At issue is 'Apple Intelligence', which Apple promoted as a key sales strategy for the iPhone 16. From September 2024 to March last year, Apple advertised 9 AI features on its product website, including writing tools, image generation and the voice assistant Siri."
               },
               {
                 "t": "p",
-                "x": "SpaceX는 Starmind 프로젝트를 지구의 AI 역량에 “전력을 공급하기 위해 우주에서 태양 에너지를 모으는” 방법이라고 설명했다. 회사는 Starmind가 Starlink와 연결되는 고속 레이저로 지구에 데이터를 보낼 것이라고 밝혔다. 위성용 칩은 앞으로 들어설 Terafab 시설에서 생산할 계획이다."
+                "x": "But 4 of them, Genmoji, Image Playground, a Siri that understands personal context and a Siri that offers step-by-step guidance, were not delivered as advertised."
               },
               {
                 "t": "p",
-                "x": "Google은 지난달 “Project Suncatcher” AI 서버 위성을 발사하며 우주에 컴퓨팅을 올리는 첫걸음을 이미 뗐다. Jeff Bezos의 Blue Origin은 2029년 Project Suncatcher 전용 첫 대형 발사를 맡는다."
+                "x": "For example, Apple advertised that the Siri feature that understands personal context would launch in U.S. English by the end of 2024 and support Korean in early April last year. In fact, the U.S. English service launched only in September this year, and Korean support began last month."
+              },
+              {
+                "t": "p",
+                "x": "The examiner judged that Apple concealed, downplayed or omitted information important to consumers' purchase decisions, such as the possibility that some features would be delayed and when they would actually be provided. Treating this as a serious violation amounting to deceptive advertising under the Act on Fair Labeling and Advertising, the examiner recommended sanctions including a cease-and-desist order, a publication order and a fine."
+              },
+              {
+                "t": "p",
+                "x": "Apple can submit a written opinion within 6 weeks of receiving the examination report. The Fair Trade Commission plans to decide finally whether the law was violated and how large any fine should be after deliberation by the commission."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FCC、SpaceXの\n軌道AIデータセンター承認",
-          "body": "FCCは軌道AIデータセンター向けにSpaceXの衛星最大百万基の配備を承認した。",
-          "mini_headline": "FCC、SpaceX軌道データセンターを承認",
+          "headline": "韓国公取委、Apple\nSiri AI広告を審議へ",
+          "body": "審査官は、Appleが提供時期の不確かなAI機能を使えるかのように広告したとみた。",
+          "mini_headline": "韓国公取委、AppleのAI広告を審議",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
-                "cap": "写真：Mario Tama/Getty Images"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
               },
               {
                 "t": "p",
-                "x": "SpaceXは「Starmind」衛星群で地上のAI能力に電力を供給することを目指している。"
+                "x": "Appleは、iPhone 16シリーズの発売時に一部の人工知能（AI）機能の提供時期が不確かだったにもかかわらず、通常どおりサービスを使えるかのように広告した疑いで、韓国公正取引委員会の審議を受ける。公取委の審査官は関連売上高を3조3527억원と算定し、課徴金を科すべきとの意見を出した。"
               },
               {
                 "t": "p",
-                "x": "FCCは水曜日の発表で、Elon Musk氏が所有するSpaceXの「Starmind」構想の一環として、AIチップを搭載した衛星を最大100万基配備することを認可したと明らかにした。GoogleやBlue Originなど複数の企業が宇宙にAIデータセンターを置く構想を進めているが、AI衛星による本格的な「コンステレーション」をFCCが承認したのは今回が初めてだ。"
+                "x": "公取委は26日、AppleとApple Koreaの表示広告法違反の疑いに関する審査報告書を24日に委員会へ提出し、両社にも送付したと明らかにした。昨年3月に申告を受けて調査に着手してから1年8カ月ぶりだ。"
               },
               {
                 "t": "p",
-                "x": "承認の条件として、SpaceXは2033年までに少なくとも1基の衛星を配備し、2040年までに100万基の目標を達成しなければならない。FCCはまた、600km 以上の高度にある衛星を地球の大気圏で燃え尽きさせるのではなく宇宙の「墓場」軌道で処分したいというSpaceXの要請について、処分計画に関する「十分な情報」が示されていないとして判断を先送りした。"
+                "x": "争点は、AppleがiPhone 16の主な販売戦略に掲げた「Apple Intelligence」だ。Appleは2024年9月から昨年3月まで、製品ホームページで文章作成ツールや画像生成、音声アシスタントのSiriなど9種類のAI機能を広告した。"
               },
               {
                 "t": "p",
-                "x": "SpaceXはStarmindプロジェクトを、地上のAI能力に「電力を供給するために宇宙で太陽エネルギーを集める」手段だと説明している。同社によると、StarmindはStarlinkと接続する高速レーザーで地球にデータを送る。衛星用チップは今後稼働するTerafab施設で生産する計画だ。"
+                "x": "しかし、このうちGenmoji、Image Playground、個人的な文脈を理解するSiri、段階的なガイドを示すSiriの4機能は、広告どおりに提供されなかった。"
               },
               {
                 "t": "p",
-                "x": "Googleは先月「Project Suncatcher」のAIサーバー衛星を打ち上げ、宇宙へのコンピューティング配置に向けた第一歩をすでに踏み出した。Jeff Bezos氏のBlue Originは2029年、Project Suncatcher専用の初の大型打ち上げを担う。"
+                "x": "代表例として、個人的な文脈を理解するSiri機能は2024年末までに米国英語で提供を始め、昨年4月初めに韓国語に対応すると広告していた。実際の米国英語版は今年9月にようやく公開され、韓国語対応は先月始まった。"
+              },
+              {
+                "t": "p",
+                "x": "審査官は、Appleが一部機能の発売遅延の可能性や実際の提供時期など、消費者の購入判断に重要な情報を隠蔽・縮小し、あるいは省いたと判断した。表示広告法上の欺瞞的広告にあたる重大な違反行為とみて、今後の行為禁止命令や公表命令、課徴金の賦課などの制裁意見を示した。"
+              },
+              {
+                "t": "p",
+                "x": "Appleは審査報告書を受け取った日から6週間以内に書面で意見を提出できる。公取委はその後、委員会の審議を経て法違反の有無や課徴金額などを最終決定する方針だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FCC批准SpaceX\n轨道AI数据中心星座",
-          "body": "FCC批准SpaceX为轨道AI数据中心部署最多百万颗卫星的申请。",
-          "mini_headline": "FCC批准SpaceX轨道数据中心",
+          "headline": "韩国公平委审议Apple\nSiri AI广告问题",
+          "body": "审查官认为，Apple将上线时间未定的AI功能宣传得像可以使用一样。",
+          "mini_headline": "韩国公平委审议Apple AI广告",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
-                "cap": "图片：Mario Tama/Getty Images"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
               },
               {
                 "t": "p",
-                "x": "SpaceX希望借助“Starmind”星座为地球上的AI能力供电。"
+                "x": "Apple在推出iPhone 16系列时，尽管部分人工智能（AI）功能的提供时间并不确定，仍宣传得仿佛可以正常使用服务，因涉嫌违规而接受韩国公平交易委员会审议。公平委审查官将相关销售额核定为3조3527억원，并提出了处以罚款的意见。"
               },
               {
                 "t": "p",
-                "x": "FCC周三宣布，已授权SpaceX部署最多100万颗搭载AI芯片的卫星，这是这家Elon Musk旗下公司“Starmind”计划的一部分。包括Google和Blue Origin在内，多家公司都在推进将AI数据中心送入太空的设想，而这是该机构首次批准由AI卫星组成的完整“星座”。"
+                "x": "公平委26日表示，已于24日向委员会提交关于Apple及Apple Korea涉嫌违反《标示广告法》的审查报告，并送交相关企业。这距其去年3月接到举报并启动调查已有1年8个月。"
               },
               {
                 "t": "p",
-                "x": "根据FCC的批准条件，SpaceX须在2033年前至少部署一颗卫星，并在2040年前达到100万颗卫星的目标。FCC还推迟处理SpaceX的一项请求，即把位于600km 以上的卫星送入太空“坟场”轨道处置，而不是让其在地球大气层中烧毁，理由是该公司未就处置流程计划提供“足够信息”。"
+                "x": "争议焦点是Apple作为iPhone 16主要销售策略推出的“Apple Intelligence”。Apple自2024年9月至去年3月，在产品官网上宣传了写作工具、图像生成、语音助手Siri等9项AI功能。"
               },
               {
                 "t": "p",
-                "x": "SpaceX将Starmind项目描述为一种“在太空收集太阳能，为”地球上的AI能力“供电”的方式。公司表示，Starmind将通过连接Starlink的高速激光向地球传输数据。它计划在即将建成的Terafab工厂生产卫星芯片。"
+                "x": "但其中Genmoji、Image Playground、能理解个人语境的Siri、可提供分步指引的Siri等4项功能未能按广告内容提供。"
               },
               {
                 "t": "p",
-                "x": "Google上月发射了一颗“Project Suncatcher”AI服务器卫星，已迈出将算力送入太空的第一步。Jeff Bezos旗下的Blue Origin将于2029年为Project Suncatcher执行首次专用重型发射。"
+                "x": "典型例子是，Apple曾宣传能理解个人语境的Siri功能将于2024年底前以美式英语推出，并于去年4月初支持韩语。实际上，美式英语服务直到今年9月才上线，韩语支持则于上个月开始。"
+              },
+              {
+                "t": "p",
+                "x": "公平委审查官认为，Apple隐瞒、淡化或遗漏了部分功能可能延迟上线及实际提供时间等对消费者购买决定至关重要的信息。审查官将其视为《标示广告法》规定的欺骗性广告这一严重违法行为，提出了禁止令、公告令及罚款等制裁意见。"
+              },
+              {
+                "t": "p",
+                "x": "Apple可在收到审查报告之日起6周内提交书面意见。公平委之后将经委员会审议，最终决定是否违法及罚款金额等。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La FCC aprueba la red orbital\nde centros de datos AI de SpaceX",
-          "body": "La FCC aprobó la solicitud de SpaceX para desplegar hasta un millón de satélites para centros de datos AI orbitales.",
-          "mini_headline": "La FCC autoriza los centros de datos orbitales de SpaceX",
+          "headline": "Corea examina a Apple por\nanuncios de AI en Siri",
+          "body": "El examinador concluyó que Apple anunció funciones de AI como utilizables pese a no tener fecha de llegada clara.",
+          "mini_headline": "Corea examina anuncios de AI de Apple",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
-                "cap": "Foto de Mario Tama/Getty Images"
+                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
               },
               {
                 "t": "p",
-                "x": "SpaceX busca alimentar capacidades de AI aquí en la Tierra con su constelación ‘Starmind’."
+                "x": "Apple será examinada por la Comisión de Comercio Justo de Corea por presuntamente haber anunciado, al lanzar la serie iPhone 16, algunas funciones de inteligencia artificial (AI) como si pudieran usarse con normalidad pese a que su fecha de disponibilidad era incierta. El examinador de la comisión calculó las ventas relacionadas en 3조3527억원 y propuso imponer una multa."
               },
               {
                 "t": "p",
-                "x": "En un anuncio del miércoles, la FCC afirmó que autorizó a SpaceX a desplegar hasta 1 millón de satélites equipados con chips de AI como parte de la iniciativa “Starmind” de la empresa propiedad de Elon Musk. Aunque varias otras compañías, entre ellas Google y Blue Origin, también persiguen la idea de llevar centros de datos de AI al espacio, esta es la primera aprobación que la agencia concede para una “constelación” completa de satélites de AI."
+                "x": "La comisión informó el día 26 que el 24 presentó al pleno un informe de examen sobre la presunta infracción de la ley de etiquetado y publicidad por parte de Apple y Apple Korea, y que también lo envió a las empresas. Llega 1 año y 8 meses después de recibir una denuncia en marzo del año pasado e iniciar la investigación."
               },
               {
                 "t": "p",
-                "x": "La aprobación de la FCC exige a SpaceX desplegar al menos un satélite antes de 2033 y alcanzar el hito de 1 millón de satélites antes de 2040. La FCC también aplazó la solicitud de SpaceX de deshacerse de los satélites situados por encima de 600km en órbitas “cementerio” en el espacio, en lugar de dejar que se desintegren en la atmósfera terrestre, al señalar que la empresa no ha aportado “información suficiente” sobre sus planes para ese proceso."
+                "x": "El centro del caso es 'Apple Intelligence', que Apple presentó como estrategia de venta clave del iPhone 16. Entre septiembre de 2024 y marzo del año pasado, Apple anunció en la web del producto 9 funciones de AI, entre ellas herramientas de escritura, generación de imágenes y el asistente de voz Siri."
               },
               {
                 "t": "p",
-                "x": "SpaceX ha descrito su proyecto Starmind como una forma de “captar energía solar en el espacio para alimentar” capacidades de AI en la Tierra. La empresa afirma que Starmind transmitirá datos a la Tierra mediante láseres de alta velocidad conectados a Starlink. Prevé fabricar los chips de sus satélites en una futura instalación Terafab."
+                "x": "Sin embargo, 4 de ellas, Genmoji, Image Playground, una Siri que entiende el contexto personal y una Siri que ofrece guías paso a paso, no se ofrecieron tal como se anunciaron."
               },
               {
                 "t": "p",
-                "x": "Google ya dio sus primeros pasos para llevar capacidad de cómputo al espacio con el lanzamiento, el mes pasado, de un satélite servidor de AI de “Project Suncatcher”. Blue Origin, de Jeff Bezos, realizará en 2029 el primer lanzamiento pesado dedicado para Project Suncatcher."
+                "x": "Por ejemplo, Apple anunció que la función de Siri que entiende el contexto personal se lanzaría en inglés de EE. UU. antes de finales de 2024 y que admitiría el coreano a principios de abril del año pasado. En realidad, el servicio en inglés de EE. UU. no llegó hasta septiembre de este año, y el soporte en coreano empezó el mes pasado."
+              },
+              {
+                "t": "p",
+                "x": "El examinador concluyó que Apple ocultó, minimizó u omitió información importante para la decisión de compra de los consumidores, como la posibilidad de retrasos en algunas funciones y la fecha real de disponibilidad. Lo consideró una infracción grave equivalente a publicidad engañosa según la ley de etiquetado y publicidad, y propuso sanciones como una orden de cese, una orden de publicación y una multa."
+              },
+              {
+                "t": "p",
+                "x": "Apple puede presentar alegaciones por escrito en un plazo de 6 semanas desde que recibió el informe. La comisión decidirá después, tras la deliberación del pleno, si hubo infracción y el importe de la multa."
               }
             ]
           }
@@ -727,653 +707,195 @@
       }
     },
     {
-      "id": "japan-ai-power-security-docs",
+      "id": "spain-pp-sanchez-ai-video",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "일본, AI 강국 목표\n안보문서에 담는다",
-      "body": "일본이 미국(US)·중국 다음가는 AI 강국 목표를 안보문서 세 건에 넣는다.",
-      "mini_headline": "일본, AI 강국 목표 설정",
+      "headline": "스페인 야당, 산체스\nAI 영상 표기 없이 게시",
+      "body": "표기 없는 PP의 AI-altered 영상에 EU AI Act 위반 지적이 나온다.",
+      "mini_headline": "산체스 AI 영상, 표기 없이 게시",
       "tool": "Politics",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/ai-nation-aim/",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt",
       "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
-            "cap": "정부는 연내 핵심 국가안보 문서 세 건을 고치며 AI 강국 목표를 담을 예정이다. | REUTERS"
-          },
-          {
-            "t": "p",
-            "x": "일본이 미국과 중국에 이은 인공지능 선도국이 되겠다는 목표를 공식화한다고 수요일 알려졌다."
-          },
-          {
-            "t": "p",
-            "x": "정부는 연내 핵심 국가안보 문서 세 건을 개정하면서 이 목표를 넣을 방침이다."
-          },
-          {
-            "t": "p",
-            "x": "정부가 수요일 집권 자민당 회의에 개정 문서 중 경제안보 부분의 개요를 내놓았고, 당은 대체로 이를 승인했다."
-          },
-          {
-            "t": "p",
-            "x": "개요를 보면 개정 문서는 외교와 국방이 경제력·기술력에 달렸다고 짚는다. AI 분야에서 일본이 다른 나라에 기대는 정도를 줄여야 한다는 점도 명시한다."
-          },
-          {
-            "t": "p",
-            "x": "자율주행과 피지컬 AI 기술에 집중 투자하는 계획도 들어간다. 기술 우위를 다져 일본을 다른 나라가 없어서는 안 될 존재로 만든다는 목표다."
-          },
-          {
-            "t": "p",
-            "x": "일본은 에너지, 식량, 의료 등 전략 물자의 위험을 평가하고 믿을 만한 국가·지역과 손잡고 공급망을 다진다. 경제 논리만으로는 안정적으로 공급하기 어려운 분야에는 국가 지원을 늘린다."
-          },
-          {
-            "t": "p",
-            "x": "경제적 강압에 흔들리지 않는 공정하고 예측 가능한 국제 경제 질서가 필요하다는 강조도 담겼다. 중국의 수출 규제를 겨냥한 대목으로 보인다."
-          },
-          {
-            "t": "p",
-            "x": "‘자유롭고 열린 인도·태평양(Free and Open Indo-Pacific)’ 구상을 밀고 나가 집단 회복력을 키워야 한다는 주문도 들어 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Japan to write AI power goal\ninto its security documents",
-          "body": "Japan will write its aim of becoming a leading AI nation after the US and China into its three key security documents.",
-          "mini_headline": "Japan sets AI power goal",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
-                "cap": "The government will include the goal of becoming a leading artificial intelligence nation when it revises the country's three key national security documents later this year. | REUTERS"
-              },
-              {
-                "t": "p",
-                "x": "Japan will declare its aim to become a leading artificial intelligence nation after the United States and China, it was learned Wednesday."
-              },
-              {
-                "t": "p",
-                "x": "The government will include this goal when it revises the country’s three key national security documents later this year."
-              },
-              {
-                "t": "p",
-                "x": "On Wednesday, the government presented an outline of the economic security sections of the revised documents at a meeting of the ruling Liberal Democratic Party and obtained broad approval."
-              },
-              {
-                "t": "p",
-                "x": "According to the outline, the revised documents will call for reducing Japan’s AI reliance on other countries, noting that diplomacy and national defense will depend on economic and technological capabilities."
-              },
-              {
-                "t": "p",
-                "x": "The revised documents will also include plans to invest intensively in automated driving and physical AI technologies, as well as the goal of acquiring a technological advantage that renders Japan indispensable to other countries."
-              },
-              {
-                "t": "p",
-                "x": "Under the revised documents, Japan will conduct risk assessments for energy, food, medical and other strategic goods and strengthen supply chains through collaboration with reliable countries and regions. The government will increase state support where economic rationality prevents stable supplies."
-              },
-              {
-                "t": "p",
-                "x": "The revised documents will emphasize the need for a fair and predictable international economic order that is not affected by economic coercion, apparently referring to China’s export restrictions."
-              },
-              {
-                "t": "p",
-                "x": "They will also call for establishing collective resilience by advancing the Free and Open Indo-Pacific vision."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "일본, AI 강국 목표\n안보문서에 담는다",
-          "body": "일본이 미국(US)·중국 다음가는 AI 강국 목표를 안보문서 세 건에 넣는다.",
-          "mini_headline": "일본, AI 강국 목표 설정",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
-                "cap": "정부는 연내 핵심 국가안보 문서 세 건을 고치며 AI 강국 목표를 담을 예정이다. | REUTERS"
-              },
-              {
-                "t": "p",
-                "x": "일본이 미국과 중국에 이은 인공지능 선도국이 되겠다는 목표를 공식화한다고 수요일 알려졌다."
-              },
-              {
-                "t": "p",
-                "x": "정부는 연내 핵심 국가안보 문서 세 건을 개정하면서 이 목표를 넣을 방침이다."
-              },
-              {
-                "t": "p",
-                "x": "정부가 수요일 집권 자민당 회의에 개정 문서 중 경제안보 부분의 개요를 내놓았고, 당은 대체로 이를 승인했다."
-              },
-              {
-                "t": "p",
-                "x": "개요를 보면 개정 문서는 외교와 국방이 경제력·기술력에 달렸다고 짚는다. AI 분야에서 일본이 다른 나라에 기대는 정도를 줄여야 한다는 점도 명시한다."
-              },
-              {
-                "t": "p",
-                "x": "자율주행과 피지컬 AI 기술에 집중 투자하는 계획도 들어간다. 기술 우위를 다져 일본을 다른 나라가 없어서는 안 될 존재로 만든다는 목표다."
-              },
-              {
-                "t": "p",
-                "x": "일본은 에너지, 식량, 의료 등 전략 물자의 위험을 평가하고 믿을 만한 국가·지역과 손잡고 공급망을 다진다. 경제 논리만으로는 안정적으로 공급하기 어려운 분야에는 국가 지원을 늘린다."
-              },
-              {
-                "t": "p",
-                "x": "경제적 강압에 흔들리지 않는 공정하고 예측 가능한 국제 경제 질서가 필요하다는 강조도 담겼다. 중국의 수출 규제를 겨냥한 대목으로 보인다."
-              },
-              {
-                "t": "p",
-                "x": "‘자유롭고 열린 인도·태평양(Free and Open Indo-Pacific)’ 구상을 밀고 나가 집단 회복력을 키워야 한다는 주문도 들어 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "日本、AI大国の目標を\n安保文書に明記へ",
-          "body": "日本は米国(US)と中国に次ぐAI大国を目指す方針を安保関連三文書に明記する。",
-          "mini_headline": "日本、AI大国目標を設定",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
-                "cap": "政府は年内に国家安全保障関連の三文書を改定する際、AI先進国を目指す目標を盛り込む。| REUTERS"
-              },
-              {
-                "t": "p",
-                "x": "日本が米国、中国に次ぐ人工知能の先進国を目指す方針を打ち出すことが水曜日、分かった。"
-              },
-              {
-                "t": "p",
-                "x": "政府は年内に予定する国家安全保障関連の三文書の改定で、この目標を盛り込む。"
-              },
-              {
-                "t": "p",
-                "x": "政府は水曜日、与党・自民党の会合で改定文書のうち経済安全保障部分の概要を示し、おおむね了承を得た。"
-              },
-              {
-                "t": "p",
-                "x": "概要によると、改定文書は外交や防衛が経済力と技術力に左右されると指摘し、AIにおける日本の他国依存を減らすよう求める。"
-              },
-              {
-                "t": "p",
-                "x": "改定文書には、自動運転やフィジカルAI技術への集中投資の計画に加え、日本が他国にとって不可欠となる技術的優位を確保する目標も盛り込まれる。"
-              },
-              {
-                "t": "p",
-                "x": "改定文書の下で、日本はエネルギーや食料、医療などの戦略物資のリスク評価を行い、信頼できる国・地域との連携でサプライチェーンを強化する。経済合理性から安定供給が難しい分野では国の支援を拡大する。"
-              },
-              {
-                "t": "p",
-                "x": "改定文書は、経済的威圧に左右されない公正で予見可能な国際経済秩序の必要性を強調する。中国の輸出規制を念頭に置いたものとみられる。"
-              },
-              {
-                "t": "p",
-                "x": "また「自由で開かれたインド太平洋(Free and Open Indo-Pacific)」構想を推進し、集団的な強靱性を築くよう求める。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "日本拟将AI强国目标\n写入安全文件",
-          "body": "日本将把成为仅次于美国(US)和中国的AI强国目标写入三份关键安全文件。",
-          "mini_headline": "日本设定AI强国目标",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
-                "cap": "政府将在今年晚些时候修订三份关键国家安全文件时，写入成为领先人工智能国家的目标。| REUTERS"
-              },
-              {
-                "t": "p",
-                "x": "周三获悉，日本将宣布以成为仅次于美国和中国的领先人工智能国家为目标。"
-              },
-              {
-                "t": "p",
-                "x": "政府将在今年晚些时候修订三份关键国家安全文件时纳入这一目标。"
-              },
-              {
-                "t": "p",
-                "x": "周三，政府在执政的自民党会议上提交了修订文件中经济安全部分的大纲，并获得普遍认可。"
-              },
-              {
-                "t": "p",
-                "x": "根据大纲，修订文件指出外交和国防将取决于经济和技术实力，并呼吁减少日本在AI方面对其他国家的依赖。"
-              },
-              {
-                "t": "p",
-                "x": "修订文件还将纳入在自动驾驶和物理AI技术领域集中投资的计划，以及获取让日本对其他国家不可或缺的技术优势这一目标。"
-              },
-              {
-                "t": "p",
-                "x": "根据修订文件，日本将对能源、粮食、医疗等战略物资开展风险评估，并通过与可信赖的国家和地区合作加强供应链。在经济合理性导致难以稳定供应的领域，政府将加大国家支持。"
-              },
-              {
-                "t": "p",
-                "x": "修订文件将强调，需要一个不受经济胁迫影响、公平且可预期的国际经济秩序，这显然是指中国的出口限制。"
-              },
-              {
-                "t": "p",
-                "x": "文件还将呼吁通过推进“自由开放的印太(Free and Open Indo-Pacific)”构想来建立集体韧性。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Japón inscribirá su meta de AI\nen sus documentos de seguridad",
-          "body": "Japón incluirá en sus tres documentos clave de seguridad la meta de ser potencia AI tras Estados Unidos (US) y China.",
-          "mini_headline": "Japón fija su meta de potencia AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
-                "cap": "El gobierno incluirá la meta de convertirse en una nación líder en inteligencia artificial cuando revise los tres documentos clave de seguridad nacional del país a finales de este año. | REUTERS"
-              },
-              {
-                "t": "p",
-                "x": "Japón declarará su aspiración de convertirse en una nación líder en inteligencia artificial, después de Estados Unidos y China, según se supo el miércoles."
-              },
-              {
-                "t": "p",
-                "x": "El gobierno incluirá esta meta cuando revise los tres documentos clave de seguridad nacional del país a finales de este año."
-              },
-              {
-                "t": "p",
-                "x": "El miércoles, el gobierno presentó un esbozo de las secciones de seguridad económica de los documentos revisados en una reunión del gobernante Partido Liberal Democrático y obtuvo una amplia aprobación."
-              },
-              {
-                "t": "p",
-                "x": "Según el esbozo, los documentos revisados pedirán reducir la dependencia de Japón de otros países en AI, y señalan que la diplomacia y la defensa nacional dependerán de las capacidades económicas y tecnológicas."
-              },
-              {
-                "t": "p",
-                "x": "Los documentos revisados también incluirán planes para invertir de forma intensiva en conducción automatizada y tecnologías de AI física, así como la meta de lograr una ventaja tecnológica que haga a Japón indispensable para otros países."
-              },
-              {
-                "t": "p",
-                "x": "Con los documentos revisados, Japón realizará evaluaciones de riesgo de la energía, los alimentos, los productos médicos y otros bienes estratégicos, y reforzará las cadenas de suministro mediante la colaboración con países y regiones fiables. El gobierno aumentará el apoyo estatal donde la racionalidad económica impida un suministro estable."
-              },
-              {
-                "t": "p",
-                "x": "Los documentos revisados subrayarán la necesidad de un orden económico internacional justo y predecible que no se vea afectado por la coerción económica, en aparente referencia a las restricciones a la exportación de China."
-              },
-              {
-                "t": "p",
-                "x": "También pedirán construir una resiliencia colectiva mediante el impulso de la visión de un Indo-Pacífico Libre y Abierto (Free and Open Indo-Pacific)."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "일본, AI 강국 목표\n안보문서에 명기한다",
-          "body": "일본이 미국(US)과 중국에 이은 AI 강국 목표를 안보문서 세 건에 담는다.",
-          "mini_headline": "일본, AI 강국 목표 설정",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
-                "cap": "정부는 올해 안에 핵심 국가안보 문서 세 건을 개정하면서 AI 강국이 되겠다는 목표를 담을 예정이다. | REUTERS"
-              },
-              {
-                "t": "p",
-                "x": "일본이 미국과 중국에 이어 선도적인 인공지능 국가가 되겠다는 목표를 공식화할 것으로 수요일 알려졌다."
-              },
-              {
-                "t": "p",
-                "x": "정부는 올해 안에 핵심 국가안보 문서 세 건을 개정하면서 이 목표를 포함할 방침이다."
-              },
-              {
-                "t": "p",
-                "x": "정부는 수요일 집권 자민당 회의에서 개정 문서 가운데 경제안보 부분의 개요를 제시했고, 대체로 승인을 얻었다."
-              },
-              {
-                "t": "p",
-                "x": "개요에 따르면 개정 문서는 외교와 국방이 경제력과 기술력에 달려 있다고 짚으며, AI 분야에서 다른 나라에 대한 일본의 의존을 줄여야 한다고 명시한다."
-              },
-              {
-                "t": "p",
-                "x": "개정 문서에는 자율주행과 피지컬 AI 기술에 집중 투자하는 계획과 함께, 일본이 다른 나라에 없어서는 안 될 존재가 되도록 기술 우위를 확보한다는 목표도 담긴다."
-              },
-              {
-                "t": "p",
-                "x": "개정 문서에 따라 일본은 에너지, 식량, 의료 등 전략 물자에 대한 위험 평가를 실시하고, 신뢰할 수 있는 국가·지역과 협력해 공급망을 강화한다. 경제적 합리성 때문에 안정적 공급이 어려운 분야에는 국가 지원을 늘린다."
-              },
-              {
-                "t": "p",
-                "x": "개정 문서는 경제적 강압에 흔들리지 않는 공정하고 예측 가능한 국제 경제 질서가 필요하다고 강조한다. 중국의 수출 규제를 염두에 둔 것으로 보인다."
-              },
-              {
-                "t": "p",
-                "x": "또 ‘자유롭고 열린 인도·태평양(Free and Open Indo-Pacific)’ 구상을 추진해 집단적 회복력을 구축해야 한다고 촉구한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "日本、AI大国の目標を\n安保文書に明記へ",
-          "body": "日本は米国(US)と中国に次ぐAI大国を目指す方針を安保関連三文書に明記する。",
-          "mini_headline": "日本、AI大国目標を設定",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
-                "cap": "政府は年内に国家安全保障関連の三文書を改定する際、AI先進国を目指す目標を盛り込む。| REUTERS"
-              },
-              {
-                "t": "p",
-                "x": "日本が米国、中国に次ぐ人工知能の先進国を目指す方針を打ち出すことが水曜日、分かった。"
-              },
-              {
-                "t": "p",
-                "x": "政府は年内に予定する国家安全保障関連の三文書の改定で、この目標を盛り込む。"
-              },
-              {
-                "t": "p",
-                "x": "政府は水曜日、与党・自民党の会合で改定文書のうち経済安全保障部分の概要を示し、おおむね了承を得た。"
-              },
-              {
-                "t": "p",
-                "x": "概要によると、改定文書は外交や防衛が経済力と技術力に左右されると指摘し、AIにおける日本の他国依存を減らすよう求める。"
-              },
-              {
-                "t": "p",
-                "x": "改定文書には、自動運転やフィジカルAI技術への集中投資の計画に加え、日本が他国にとって不可欠となる技術的優位を確保する目標も盛り込まれる。"
-              },
-              {
-                "t": "p",
-                "x": "改定文書の下で、日本はエネルギーや食料、医療などの戦略物資のリスク評価を行い、信頼できる国・地域との連携でサプライチェーンを強化する。経済合理性から安定供給が難しい分野では国の支援を拡大する。"
-              },
-              {
-                "t": "p",
-                "x": "改定文書は、経済的威圧に左右されない公正で予見可能な国際経済秩序の必要性を強調する。中国の輸出規制を念頭に置いたものとみられる。"
-              },
-              {
-                "t": "p",
-                "x": "また「自由で開かれたインド太平洋(Free and Open Indo-Pacific)」構想を推進し、集団的な強靱性を築くよう求める。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "日本拟将AI强国目标\n写入安全文件",
-          "body": "日本将把成为仅次于美国(US)和中国的AI强国目标写入三份关键安全文件。",
-          "mini_headline": "日本设定AI强国目标",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
-                "cap": "政府将在今年晚些时候修订三份关键国家安全文件时，写入成为领先人工智能国家的目标。| REUTERS"
-              },
-              {
-                "t": "p",
-                "x": "周三获悉，日本将宣布以成为仅次于美国和中国的领先人工智能国家为目标。"
-              },
-              {
-                "t": "p",
-                "x": "政府将在今年晚些时候修订三份关键国家安全文件时纳入这一目标。"
-              },
-              {
-                "t": "p",
-                "x": "周三，政府在执政的自民党会议上提交了修订文件中经济安全部分的大纲，并获得普遍认可。"
-              },
-              {
-                "t": "p",
-                "x": "根据大纲，修订文件指出外交和国防将取决于经济和技术实力，并呼吁减少日本在AI方面对其他国家的依赖。"
-              },
-              {
-                "t": "p",
-                "x": "修订文件还将纳入在自动驾驶和物理AI技术领域集中投资的计划，以及获取让日本对其他国家不可或缺的技术优势这一目标。"
-              },
-              {
-                "t": "p",
-                "x": "根据修订文件，日本将对能源、粮食、医疗等战略物资开展风险评估，并通过与可信赖的国家和地区合作加强供应链。在经济合理性导致难以稳定供应的领域，政府将加大国家支持。"
-              },
-              {
-                "t": "p",
-                "x": "修订文件将强调，需要一个不受经济胁迫影响、公平且可预期的国际经济秩序，这显然是指中国的出口限制。"
-              },
-              {
-                "t": "p",
-                "x": "文件还将呼吁通过推进“自由开放的印太(Free and Open Indo-Pacific)”构想来建立集体韧性。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Japón inscribirá su meta de AI\nen sus documentos de seguridad",
-          "body": "Japón incluirá en sus tres documentos clave de seguridad la meta de ser potencia AI tras Estados Unidos (US) y China.",
-          "mini_headline": "Japón fija su meta de potencia AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/576035.jpg",
-                "cap": "El gobierno incluirá la meta de convertirse en una nación líder en inteligencia artificial cuando revise los tres documentos clave de seguridad nacional del país a finales de este año. | REUTERS"
-              },
-              {
-                "t": "p",
-                "x": "Japón declarará su aspiración de convertirse en una nación líder en inteligencia artificial, después de Estados Unidos y China, según se supo el miércoles."
-              },
-              {
-                "t": "p",
-                "x": "El gobierno incluirá esta meta cuando revise los tres documentos clave de seguridad nacional del país a finales de este año."
-              },
-              {
-                "t": "p",
-                "x": "El miércoles, el gobierno presentó un esbozo de las secciones de seguridad económica de los documentos revisados en una reunión del gobernante Partido Liberal Democrático y obtuvo una amplia aprobación."
-              },
-              {
-                "t": "p",
-                "x": "Según el esbozo, los documentos revisados pedirán reducir la dependencia de Japón de otros países en AI, y señalan que la diplomacia y la defensa nacional dependerán de las capacidades económicas y tecnológicas."
-              },
-              {
-                "t": "p",
-                "x": "Los documentos revisados también incluirán planes para invertir de forma intensiva en conducción automatizada y tecnologías de AI física, así como la meta de lograr una ventaja tecnológica que haga a Japón indispensable para otros países."
-              },
-              {
-                "t": "p",
-                "x": "Con los documentos revisados, Japón realizará evaluaciones de riesgo de la energía, los alimentos, los productos médicos y otros bienes estratégicos, y reforzará las cadenas de suministro mediante la colaboración con países y regiones fiables. El gobierno aumentará el apoyo estatal donde la racionalidad económica impida un suministro estable."
-              },
-              {
-                "t": "p",
-                "x": "Los documentos revisados subrayarán la necesidad de un orden económico internacional justo y predecible que no se vea afectado por la coerción económica, en aparente referencia a las restricciones a la exportación de China."
-              },
-              {
-                "t": "p",
-                "x": "También pedirán construir una resiliencia colectiva mediante el impulso de la visión de un Indo-Pacífico Libre y Abierto (Free and Open Indo-Pacific)."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "taiwan-ai-persona-vanderbilt",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "\"친중 AI 페르소나\n대만 선거 겨냥\" 연구",
-      "body": "Vanderbilt대가 11월 28일 대만 선거를 노린 친중 AI 계정을 찾아냈다.",
-      "mini_headline": "AI 페르소나, 대만 선거 겨냥",
-      "tool": "Politics",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868404",
-      "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+          },
+          {
             "t": "p",
-            "x": "중국과 연계된 인공지능(AI) 생성(AI-generated) 페르소나가 대만 9합1 지방선거 개입에 동원되고 있다고 New York Times가 월요일 Vanderbilt University 연구를 인용해 보도했다. Vanderbilt 연구진은 지난해 중국 기업 GoLaxy(中科天璣)가 정교한 허위정보 캠페인용 AI 도구를 개발하려 한 정황을 찾아낸 바 있다."
+            "x": "17초(17-second) 분량의 선거 운동 영상에서 스페인 총리 페드로 산체스(Pedro Sánchez)는 라민 야말(Lamine Yamal)의 등번호인 19번이 새겨진 축구 국가대표팀 유니폼을 입으며 “스페인은 바로 이런 나라이기 때문이다. 다원적이고 다양한 나라다”라고 말했다. 하루 뒤 야당 국민당(PP)은 같은 영상을 AI로 조작해 산체스가 모로코 국가대표팀 유니폼을 입은 것처럼 꾸몄다가 비판을 받았다. PP 영상은 산체스의 발언까지 바꿔 놓았다."
+          },
+          {
+            "t": "p",
+            "x": "논란은 양극화된 선거전을 치른 스페인 유권자들이 일요일 투표를 앞둔 시점에 불거졌다. 조작 영상에 AI로 만들었다는 언급이 없어 EU의 AI 관련 의무에 못 미칠 수 있다는 지적이 많았다. 산체스의 아내 베고냐 고메스(Begoña Gómez)를 다룬 딥페이크 영상에 이어 이번 선거에서 PP가 AI를 문제적으로 쓴 사례가 또 하나 늘었다는 평가도 나왔다."
           },
           {
             "t": "img",
-            "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
-            "cap": "2022년 11월 26일 타이베이에서 한 여성이 투표하고 있다."
+            "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
+            "cap": "지난주 바르셀로나 선거 유세에 나선 사비에르 가르시아 알비올(Xavier Garcí­a Albiol). 사진: Matteo Secci/Zuma Press/Shutterstock"
           },
           {
             "t": "p",
-            "x": "연구팀은 대만 비영리단체 Doublethink Lab과 함께, 사람과 에이전트의 어조·단어 선택 차이를 잡아내는 Vanderbilt 연구실 자체 도구를 써서 토요일 투표를 흔들려는 “전통적, 혼합형, AI 기반(AI-powered) 비진정성 활동”을 지켜봤다. 베이징 쪽 계정은 비정치적 주제나 선정적 이미지를 올리다가 중간중간 중국이나 “통일”을 지지하는 메시지를 끼워 넣었다. 상당수는 AI 생성(AI-generated) 이미지에 인간 선전 요원이 쓴 메시지를 얹은 “사이보그 계정(cyberborgs)”으로 보였다."
-          },
-          {
-            "t": "p",
-            "x": "Vanderbilt University 부교수 Brett Benson은 “AI 덕분에 합성 신원을 만들고 유지하기가 쉬워지고 있으며, 이런 신원은 정치적 목적에 동원되기 전에 소셜 네트워크 안에서 신뢰를 쌓을 수 있다”고 말했다. 연구팀은 초정밀 표적화의 증거는 찾지 못했지만 중국발 허위정보를 계속 지켜볼 계획이라고 신문은 전했다."
+            "x": "산체스의 영상은 라민 야말의 유니폼을 입지 않겠다고 말한 PP 후보 사비에르 가르시아 알비올(Xavier García Albiol)에게 응수한 것으로 보였다. SOS Racismo와 협력하는 비크 대학교(University of Vic) 미디어학 강사 라울 마르티네스 코르쿠에라(Raúl Martínez Corcuera)는 AI 조작이 PP가 표에 도움이 된다고 본 쟁점 쪽으로 선거전을 끌고 가려는 시도였을 것이라고 했다. 그는 그 결과물을 일종의 “은근한 인종차별”이라고 불렀다. 영상 속 모로코 유니폼 복제본이 잘못 만들어졌다는 점은 스페인 언론이 짚었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Study flags China-aligned AI\npersonas in Taiwan's elections",
-          "body": "A Vanderbilt University study finds China-aligned AI personas targeting Taiwan's Nov. 28 local elections.",
-          "mini_headline": "AI personas target Taiwan vote",
+          "headline": "Spain's opposition posts\nunlabelled AI Sánchez video",
+          "body": "Critics say the People's Party's undisclosed AI-altered Sánchez clip may fall short of EU AI Act transparency rules.",
+          "mini_headline": "Unlabelled AI video\nof Sánchez",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+              },
+              {
                 "t": "p",
-                "x": "Artificial intelligence (AI)-generated personas aligned with China are being used in a bid to interfere in Taiwan’s nine-in-one local elections, the New York Times reported on Monday, citing a Vanderbilt University study. Last year, Vanderbilt researchers discovered an effort by GoLaxy (中科天璣), a China-based company, to develop AI tools to create sophisticated disinformation campaigns, the report said."
+                "x": "A 17-second campaign video showed Spain's prime minister, Pedro Sánchez, putting on the national football team's jersey with the number 19 – Lamine Yamal's shirt number – saying: “Because this is what Spain is: a pluralistic and diverse country.” One day later, the opposition People's party (PP) came under fire after it used AI to manipulate the same video, making it falsely appear as if Sánchez had put on the shirt of the Moroccan national team. The PP video also altered his speech."
+              },
+              {
+                "t": "p",
+                "x": "The row comes as Spaniards prepare to vote on Sunday after a polarised campaign. Many pointed out that the altered video made no mention of being made with AI, suggesting it could fall short of EU obligations regarding AI. Others described it as the latest in a list of problematic uses of AI by the PP during the campaign, after a deepfake video of Sánchez's wife, Begoña Gómez."
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
-                "cap": "A woman votes in Taipei on Nov. 26, 2022."
+                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "Xavier Garcí­a Albiol at a campaign rally in Barcelona last week. Photograph: Matteo Secci/Zuma Press/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Working with the Taiwan-based non-profit Doublethink Lab and a Vanderbilt lab-developed tool that spots tonal and word-choice differences between humans and agents, the team observed “traditional, hybrid and AI-powered inauthentic activity” aimed at influencing voting in Saturday’s elections, the report said. Accounts aligned with Beijing posted on nonpolitical topics or sexualized imagery, interspersed with messages supporting China or “unification.” Many appeared to be “cyberborgs” that combine AI-generated images with messages created by human propagandists."
-              },
-              {
-                "t": "p",
-                "x": "“AI is making it easier to construct and maintain synthetic identities that can establish credibility within social networks before being mobilized for political purposes,” said Brett Benson, a Vanderbilt University associate professor. The team did not find evidence of hyper-targeting, but would continue to observe China-directed disinformation, the report said."
+                "x": "Sánchez's video appeared to respond to PP candidate Xavier García Albiol, who said he would not wear Lamine Yamal's jersey. Raúl Martínez Corcuera, a media studies lecturer at the University of Vic who collaborates with SOS Racismo, said the AI manipulation was probably an attempt to steer the campaign towards issues the PP saw as vote boosters, and called the result a form of “subtle racism”. Spanish media also pointed to errors in the video's replica of the Moroccan kit."
               }
             ]
           }
         },
         "ko": {
-          "headline": "\"친중 AI 페르소나\n대만 선거 겨냥\" 연구",
-          "body": "Vanderbilt대가 11월 28일 대만 선거를 노린 친중 AI 계정을 찾아냈다.",
-          "mini_headline": "AI 페르소나, 대만 선거 겨냥",
+          "headline": "스페인 야당, 산체스\nAI 영상 표기 없이 게시",
+          "body": "표기 없는 PP의 AI-altered 영상에 EU AI Act 위반 지적이 나온다.",
+          "mini_headline": "산체스 AI 영상, 표기 없이 게시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+              },
+              {
                 "t": "p",
-                "x": "중국과 연계된 인공지능(AI) 생성(AI-generated) 페르소나가 대만 9합1 지방선거 개입에 동원되고 있다고 New York Times가 월요일 Vanderbilt University 연구를 인용해 보도했다. Vanderbilt 연구진은 지난해 중국 기업 GoLaxy(中科天璣)가 정교한 허위정보 캠페인용 AI 도구를 개발하려 한 정황을 찾아낸 바 있다."
+                "x": "17초(17-second) 분량의 선거 운동 영상에서 스페인 총리 페드로 산체스(Pedro Sánchez)는 라민 야말(Lamine Yamal)의 등번호인 19번이 새겨진 축구 국가대표팀 유니폼을 입으며 “스페인은 바로 이런 나라이기 때문이다. 다원적이고 다양한 나라다”라고 말했다. 하루 뒤 야당 국민당(PP)은 같은 영상을 AI로 조작해 산체스가 모로코 국가대표팀 유니폼을 입은 것처럼 꾸몄다가 비판을 받았다. PP 영상은 산체스의 발언까지 바꿔 놓았다."
+              },
+              {
+                "t": "p",
+                "x": "논란은 양극화된 선거전을 치른 스페인 유권자들이 일요일 투표를 앞둔 시점에 불거졌다. 조작 영상에 AI로 만들었다는 언급이 없어 EU의 AI 관련 의무에 못 미칠 수 있다는 지적이 많았다. 산체스의 아내 베고냐 고메스(Begoña Gómez)를 다룬 딥페이크 영상에 이어 이번 선거에서 PP가 AI를 문제적으로 쓴 사례가 또 하나 늘었다는 평가도 나왔다."
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
-                "cap": "2022년 11월 26일 타이베이에서 한 여성이 투표하고 있다."
+                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "지난주 바르셀로나 선거 유세에 나선 사비에르 가르시아 알비올(Xavier Garcí­a Albiol). 사진: Matteo Secci/Zuma Press/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "연구팀은 대만 비영리단체 Doublethink Lab과 함께, 사람과 에이전트의 어조·단어 선택 차이를 잡아내는 Vanderbilt 연구실 자체 도구를 써서 토요일 투표를 흔들려는 “전통적, 혼합형, AI 기반(AI-powered) 비진정성 활동”을 지켜봤다. 베이징 쪽 계정은 비정치적 주제나 선정적 이미지를 올리다가 중간중간 중국이나 “통일”을 지지하는 메시지를 끼워 넣었다. 상당수는 AI 생성(AI-generated) 이미지에 인간 선전 요원이 쓴 메시지를 얹은 “사이보그 계정(cyberborgs)”으로 보였다."
-              },
-              {
-                "t": "p",
-                "x": "Vanderbilt University 부교수 Brett Benson은 “AI 덕분에 합성 신원을 만들고 유지하기가 쉬워지고 있으며, 이런 신원은 정치적 목적에 동원되기 전에 소셜 네트워크 안에서 신뢰를 쌓을 수 있다”고 말했다. 연구팀은 초정밀 표적화의 증거는 찾지 못했지만 중국발 허위정보를 계속 지켜볼 계획이라고 신문은 전했다."
+                "x": "산체스의 영상은 라민 야말의 유니폼을 입지 않겠다고 말한 PP 후보 사비에르 가르시아 알비올(Xavier García Albiol)에게 응수한 것으로 보였다. SOS Racismo와 협력하는 비크 대학교(University of Vic) 미디어학 강사 라울 마르티네스 코르쿠에라(Raúl Martínez Corcuera)는 AI 조작이 PP가 표에 도움이 된다고 본 쟁점 쪽으로 선거전을 끌고 가려는 시도였을 것이라고 했다. 그는 그 결과물을 일종의 “은근한 인종차별”이라고 불렀다. 영상 속 모로코 유니폼 복제본이 잘못 만들어졌다는 점은 스페인 언론이 짚었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "研究、親中AIペルソナ\n台湾選挙を標的に",
-          "body": "Vanderbilt大学が、台湾の11月28日の地方選挙を狙う親中AIペルソナを確認した。",
-          "mini_headline": "AIペルソナが台湾選挙を標的に",
+          "headline": "スペイン野党が投稿\nAI表示なきサンチェス動画",
+          "body": "表示なきPPのAI-altered動画に、EU AI Act違反の恐れとの批判が出ている。",
+          "mini_headline": "表示なきAIサンチェス動画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+              },
+              {
                 "t": "p",
-                "x": "中国寄りの人工知能(AI)生成(AI-generated)ペルソナが、台湾の統一地方選挙(九合一選挙)への介入に使われていると、New York Timesが月曜日、Vanderbilt Universityの研究を引用して報じた。報道によると、Vanderbiltの研究者らは昨年、中国企業GoLaxy(中科天璣)が巧妙な偽情報キャンペーンを作るAIツールを開発しようとしていたことを突き止めていた。"
+                "x": "17秒（17-second）の選挙動画で、スペインのペドロ・サンチェス（Pedro Sánchez）首相は、ラミン・ヤマル（Lamine Yamal）の背番号である19番のサッカー代表ユニフォームを着ながら「なぜなら、これこそがスペインだからだ。多元的で多様な国だ」と語った。その翌日、野党の国民党（PP）はAIで同じ動画を加工し、サンチェス氏がモロッコ代表のユニフォームを着たかのように偽って見せたとして批判を浴びた。PPの動画は彼の発言も改変していた。"
+              },
+              {
+                "t": "p",
+                "x": "この騒動は、分極化した選挙戦を経てスペインの有権者が日曜日の投票を控えるなかで起きた。多くの人が、加工動画にはAIで作られたとの記載がなく、AIに関するEUの義務を満たしていない可能性があると指摘した。サンチェス氏の妻ベゴーニャ・ゴメス（Begoña Gómez）のディープフェイク動画に続く、選挙期間中のPPによる問題あるAI利用の最新例だとする声もあった。"
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
-                "cap": "2022年11月26日、台北で投票する女性。"
+                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "先週、バルセロナの選挙集会に臨むシャビエル・ガルシア・アルビオル（Xavier Garcí­a Albiol）。写真：Matteo Secci/Zuma Press/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "報道によると、研究チームは台湾の非営利団体Doublethink Labと、人間とエージェントの語調や語彙選択の違いを見分けるVanderbiltの研究室開発ツールを用い、土曜日の選挙での投票に影響を与えようとする「従来型、ハイブリッド型、AIを使った(AI-powered)不正な活動」を観測した。北京寄りのアカウントは政治と無関係な話題や性的な画像を投稿し、その合間に中国や「統一」を支持するメッセージを挟んでいた。多くは、AI生成(AI-generated)画像と人間のプロパガンダ要員が作ったメッセージを組み合わせた「サイボーグ・アカウント(cyberborgs)」とみられる。"
-              },
-              {
-                "t": "p",
-                "x": "Vanderbilt Universityのブレット・ベンソン(Brett Benson)准教授は「AIによって、政治目的に動員される前にソーシャルネットワーク内で信用を築ける合成アイデンティティを作り、維持することが容易になっている」と述べた。報道によると、チームは極端な標的化の証拠は見つけなかったが、中国主導の偽情報の観測を続けるという。"
+                "x": "サンチェス氏の動画は、ラミン・ヤマルのユニフォームは着ないと述べたPP候補シャビエル・ガルシア・アルビオル（Xavier García Albiol）に応じたものとみられる。SOS Racismoと協力するビック大学（University of Vic）のメディア学講師ラウル・マルティネス・コルクエラ（Raúl Martínez Corcuera）は、AIによる加工はPPが票につながるとみる争点へ選挙戦を誘導する試みだった可能性が高いとし、その結果を一種の「さりげない人種差別」と呼んだ。スペインのメディアは、動画のモロッコ代表ユニフォームの複製に誤りがあることも指摘した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "研究：亲中AI人设\n瞄准台湾选举",
-          "body": "Vanderbilt大学研究发现，亲中AI人设正针对台湾11月28日地方选举。",
-          "mini_headline": "AI人设瞄准台湾选举",
+          "headline": "西班牙反对党发布\n未标注AI的桑切斯视频",
+          "body": "人民党未标注的AI-altered桑切斯视频被批可能不符合EU AI Act透明度规定。",
+          "mini_headline": "未标注的桑切斯AI视频",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+              },
+              {
                 "t": "p",
-                "x": "New York Times周一援引Vanderbilt University的一项研究报道，与中国立场一致的人工智能(AI)生成(AI-generated)人设正被用于干预台湾九合一地方选举。报道称，Vanderbilt研究人员去年发现，中国公司GoLaxy(中科天璣)曾试图开发用于制造复杂虚假信息宣传的AI工具。"
+                "x": "在一段17秒（17-second）的竞选视频中，西班牙首相佩德罗·桑切斯（Pedro Sánchez）穿上印有19号的国家足球队球衣（19号是拉明·亚马尔（Lamine Yamal）的球衣号码），并说道：“因为这就是西班牙：一个多元而多样的国家。”一天后，反对党人民党（PP）用AI篡改了同一段视频，虚假地制造出桑切斯穿上摩洛哥国家队球衣的画面，因而遭到批评。PP的视频还篡改了他的讲话。"
+              },
+              {
+                "t": "p",
+                "x": "这场风波发生之际，西班牙选民在经历一场两极分化的竞选后，正准备于周日投票。许多人指出，被篡改的视频没有说明是用AI制作的，意味着它可能未达到EU有关AI的义务要求。另一些人则称，继针对桑切斯妻子贝戈尼亚·戈麦斯（Begoña Gómez）的深度伪造视频之后，这是PP在竞选期间一系列问题性AI使用中的最新一例。"
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
-                "cap": "2022年11月26日，一名女子在台北投票。"
+                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "上周，沙维尔·加西亚·阿尔比奥尔（Xavier Garcí­a Albiol）在巴塞罗那的竞选集会上。摄影：Matteo Secci/Zuma Press/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "报道称，研究团队与台湾非营利组织Doublethink Lab合作，并使用Vanderbilt实验室开发、能识别人类与智能体在语气和用词上差异的工具，观察到旨在影响周六选举投票的“传统型、混合型和AI驱动(AI-powered)的不实活动”。与北京立场一致的账号发布非政治话题或性化图像，其间穿插支持中国或“统一”的信息。其中许多看起来是把AI生成(AI-generated)图像与人类宣传人员撰写的信息结合起来的“赛博格账号(cyberborgs)”。"
-              },
-              {
-                "t": "p",
-                "x": "Vanderbilt University副教授Brett Benson表示：“AI让构建和维护合成身份变得更容易，这些身份可以先在社交网络中建立可信度，再被动员用于政治目的。”报道称，团队没有发现超精准定向的证据，但将继续观察中国主导的虚假信息。"
+                "x": "桑切斯的视频似乎是在回应PP候选人沙维尔·加西亚·阿尔比奥尔（Xavier García Albiol），后者曾表示不会穿拉明·亚马尔的球衣。与SOS Racismo合作的维克大学（University of Vic）媒体研究讲师劳尔·马丁内斯·科尔奎拉（Raúl Martínez Corcuera）表示，这次AI篡改很可能是想把竞选引向PP认为能拉票的议题，并称其结果是一种“隐性的种族主义”。西班牙媒体还指出，视频中复制的摩洛哥球衣存在错误。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un estudio detecta perfiles AI\nprochinos en comicios de Taiwán",
-          "body": "Un estudio de Vanderbilt University halla perfiles AI prochinos en los comicios locales de Taiwán del 28 de noviembre.",
-          "mini_headline": "Perfiles AI apuntan al voto en Taiwán",
+          "headline": "El PP difunde sin etiquetar\nun video de Sánchez con AI",
+          "body": "El clip AI-altered de Sánchez que el Partido Popular no identificó podría incumplir la transparencia del EU AI Act.",
+          "mini_headline": "Video AI sin etiquetar de Sánchez",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+              },
+              {
                 "t": "p",
-                "x": "Perfiles generados por inteligencia artificial (AI-generated) y alineados con China se están usando para intentar interferir en las elecciones locales “nueve en uno” de Taiwán, informó el lunes el New York Times, citando un estudio de Vanderbilt University. El año pasado, investigadores de Vanderbilt descubrieron un intento de GoLaxy (中科天璣), una empresa con sede en China, de desarrollar herramientas de AI para crear sofisticadas campañas de desinformación, según el informe."
+                "x": "Un video de campaña de 17 segundos mostraba al presidente del Gobierno español, Pedro Sánchez, poniéndose la camiseta de la selección de fútbol con el número 19 –el dorsal de Lamine Yamal– y diciendo: “Porque esto es lo que es España: un país plural y diverso”. Un día después, el opositor Partido Popular (PP) recibió críticas tras usar AI para manipular el mismo video y hacer creer falsamente que Sánchez se había puesto la camiseta de la selección de Marruecos. El video del PP también alteró su discurso."
+              },
+              {
+                "t": "p",
+                "x": "La polémica llega cuando los españoles se preparan para votar el domingo tras una campaña polarizada. Muchos señalaron que el video alterado no indicaba que se había hecho con AI, lo que sugiere que podría no cumplir las obligaciones de la EU en materia de AI. Otros lo describieron como el último de una serie de usos problemáticos de la AI por parte del PP durante la campaña, después de un video deepfake de la esposa de Sánchez, Begoña Gómez."
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
-                "cap": "Una mujer vota en Taipéi el 26 de noviembre de 2022."
+                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "Xavier Garcí­a Albiol en un mitin de campaña en Barcelona la semana pasada. Fotografía: Matteo Secci/Zuma Press/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Con la organización sin ánimo de lucro taiwanesa Doublethink Lab y una herramienta desarrollada en un laboratorio de Vanderbilt que detecta diferencias de tono y de elección de palabras entre humanos y agentes, el equipo observó “actividad inauténtica tradicional, híbrida y basada en AI (AI-powered)” dirigida a influir en el voto en las elecciones del sábado, según el informe. Cuentas alineadas con Pekín publicaban sobre temas no políticos o imágenes sexualizadas, intercaladas con mensajes de apoyo a China o a la “unificación”. Muchas parecían ser “cyberborgs” que combinan imágenes generadas por AI (AI-generated) con mensajes creados por propagandistas humanos."
-              },
-              {
-                "t": "p",
-                "x": "“La AI facilita construir y mantener identidades sintéticas capaces de ganar credibilidad dentro de las redes sociales antes de ser movilizadas con fines políticos”, dijo Brett Benson, profesor asociado de Vanderbilt University. El equipo no halló pruebas de microsegmentación extrema, pero seguirá observando la desinformación dirigida por China, según el informe."
+                "x": "El video de Sánchez parecía responder al candidato del PP Xavier García Albiol, que había dicho que no se pondría la camiseta de Lamine Yamal. Raúl Martínez Corcuera, profesor de estudios de medios en la Universidad de Vic que colabora con SOS Racismo, dijo que la manipulación con AI fue probablemente un intento de llevar la campaña hacia temas que el PP veía como impulsores de votos, y calificó el resultado como una forma de “racismo sutil”. Los medios españoles también señalaron errores en la réplica de la equipación marroquí del video."
               }
             ]
           }
@@ -1381,109 +903,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "연구: 친중 AI 페르소나\n대만 선거 겨냥",
-          "body": "Vanderbilt대가 11월 28일 대만 선거를 노린 친중 AI 계정을 찾았다.",
-          "mini_headline": "AI 페르소나, 대만 선거 겨냥",
+          "headline": "스페인 야당, 산체스\nAI 영상 표기 없이 게시",
+          "body": "PP의 표기 없는 AI-altered 영상에 EU AI Act 위반 지적이 인다.",
+          "mini_headline": "산체스 AI 영상, 표기 없이 게시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+              },
+              {
                 "t": "p",
-                "x": "중국과 연계된 인공지능(AI) 생성(AI-generated) 페르소나가 대만의 9합1 지방선거에 개입하려는 데 쓰이고 있다고 New York Times가 월요일 Vanderbilt University 연구를 인용해 보도했다. 보도에 따르면 Vanderbilt 연구진은 지난해 중국 기업 GoLaxy(中科天璣)가 정교한 허위정보 캠페인을 만드는 AI 도구를 개발하려 한 정황을 찾아냈다."
+                "x": "17초(17-second) 분량의 선거 운동 영상에서 스페인 총리 페드로 산체스(Pedro Sánchez)는 라민 야말(Lamine Yamal)의 등번호인 19번이 새겨진 축구 국가대표팀 유니폼을 입으며 “스페인은 바로 이런 나라이기 때문이다. 다원적이고 다양한 나라다”라고 말했다. 하루 뒤 야당 국민당(PP)은 AI로 같은 영상을 조작해 산체스가 모로코 국가대표팀 유니폼을 입은 것처럼 거짓으로 꾸며 비판을 받았다. PP 영상은 그의 발언도 바꿨다."
+              },
+              {
+                "t": "p",
+                "x": "이번 논란은 양극화된 선거전 끝에 스페인 유권자들이 일요일 투표를 앞둔 가운데 불거졌다. 많은 이들이 조작 영상에 AI로 만들었다는 언급이 없다며 AI에 관한 EU 의무에 미치지 못할 수 있다고 지적했다. 산체스의 아내 베고냐 고메스(Begoña Gómez)를 다룬 딥페이크 영상에 이어 선거 기간 PP의 문제적 AI 활용 사례가 또 하나 늘었다는 평가도 나왔다."
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
-                "cap": "2022년 11월 26일 타이베이에서 한 여성이 투표하고 있다."
+                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "지난주 바르셀로나 선거 유세에 나선 사비에르 가르시아 알비올(Xavier Garcí­a Albiol). 사진: Matteo Secci/Zuma Press/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "보도에 따르면 연구팀은 대만 비영리단체 Doublethink Lab, 그리고 사람과 에이전트의 어조·단어 선택 차이를 잡아내는 Vanderbilt 연구실 개발 도구를 함께 활용해 토요일 선거의 투표에 영향을 주려는 “전통적, 혼합형, AI 기반(AI-powered) 비진정성 활동”을 관찰했다. 베이징 쪽 계정들은 비정치적 주제나 선정적 이미지를 올리면서 중간중간 중국이나 “통일”을 지지하는 메시지를 끼워 넣었다. 상당수는 AI 생성(AI-generated) 이미지와 인간 선전 요원이 만든 메시지를 결합한 “사이보그 계정(cyberborgs)”으로 보였다."
-              },
-              {
-                "t": "p",
-                "x": "Vanderbilt University 부교수 Brett Benson은 “AI 덕분에 합성 신원을 만들고 유지하기가 쉬워지고 있으며, 이런 신원은 정치적 목적에 동원되기 전에 소셜 네트워크 안에서 신뢰를 쌓을 수 있다”고 말했다. 보도에 따르면 연구팀은 초정밀 표적화의 증거는 찾지 못했지만, 중국발 허위정보를 계속 관찰할 계획이다."
+                "x": "산체스의 영상은 라민 야말의 유니폼을 입지 않겠다고 말한 PP 후보 사비에르 가르시아 알비올(Xavier García Albiol)에게 응수한 것으로 보였다. SOS Racismo와 협력하는 비크 대학교(University of Vic) 미디어학 강사 라울 마르티네스 코르쿠에라(Raúl Martínez Corcuera)는 AI 조작이 PP가 표에 도움이 된다고 본 쟁점 쪽으로 선거전을 끌고 가려는 시도였을 것이라며, 그 결과를 일종의 “은근한 인종차별”이라고 불렀다. 스페인 언론은 영상 속 모로코 유니폼 복제본의 오류도 짚었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "研究、親中AIペルソナ\n台湾選挙を標的に",
-          "body": "Vanderbilt大学が、台湾の11月28日の地方選挙を狙う親中AIペルソナを確認した。",
-          "mini_headline": "AIペルソナが台湾選挙を標的に",
+          "headline": "スペイン野党が投稿\nAI表示なきサンチェス動画",
+          "body": "表示なきPPのAI-altered動画に、EU AI Act違反の恐れとの批判が出ている。",
+          "mini_headline": "表示なきAIサンチェス動画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+              },
+              {
                 "t": "p",
-                "x": "中国寄りの人工知能(AI)生成(AI-generated)ペルソナが、台湾の統一地方選挙(九合一選挙)への介入に使われていると、New York Timesが月曜日、Vanderbilt Universityの研究を引用して報じた。報道によると、Vanderbiltの研究者らは昨年、中国企業GoLaxy(中科天璣)が巧妙な偽情報キャンペーンを作るAIツールを開発しようとしていたことを突き止めていた。"
+                "x": "17秒（17-second）の選挙動画で、スペインのペドロ・サンチェス（Pedro Sánchez）首相は、ラミン・ヤマル（Lamine Yamal）の背番号である19番のサッカー代表ユニフォームを着ながら「なぜなら、これこそがスペインだからだ。多元的で多様な国だ」と語った。その翌日、野党の国民党（PP）はAIで同じ動画を加工し、サンチェス氏がモロッコ代表のユニフォームを着たかのように偽って見せたとして批判を浴びた。PPの動画は彼の発言も改変していた。"
+              },
+              {
+                "t": "p",
+                "x": "この騒動は、分極化した選挙戦を経てスペインの有権者が日曜日の投票を控えるなかで起きた。多くの人が、加工動画にはAIで作られたとの記載がなく、AIに関するEUの義務を満たしていない可能性があると指摘した。サンチェス氏の妻ベゴーニャ・ゴメス（Begoña Gómez）のディープフェイク動画に続く、選挙期間中のPPによる問題あるAI利用の最新例だとする声もあった。"
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
-                "cap": "2022年11月26日、台北で投票する女性。"
+                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "先週、バルセロナの選挙集会に臨むシャビエル・ガルシア・アルビオル（Xavier Garcí­a Albiol）。写真：Matteo Secci/Zuma Press/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "報道によると、研究チームは台湾の非営利団体Doublethink Labと、人間とエージェントの語調や語彙選択の違いを見分けるVanderbiltの研究室開発ツールを用い、土曜日の選挙での投票に影響を与えようとする「従来型、ハイブリッド型、AIを使った(AI-powered)不正な活動」を観測した。北京寄りのアカウントは政治と無関係な話題や性的な画像を投稿し、その合間に中国や「統一」を支持するメッセージを挟んでいた。多くは、AI生成(AI-generated)画像と人間のプロパガンダ要員が作ったメッセージを組み合わせた「サイボーグ・アカウント(cyberborgs)」とみられる。"
-              },
-              {
-                "t": "p",
-                "x": "Vanderbilt Universityのブレット・ベンソン(Brett Benson)准教授は「AIによって、政治目的に動員される前にソーシャルネットワーク内で信用を築ける合成アイデンティティを作り、維持することが容易になっている」と述べた。報道によると、チームは極端な標的化の証拠は見つけなかったが、中国主導の偽情報の観測を続けるという。"
+                "x": "サンチェス氏の動画は、ラミン・ヤマルのユニフォームは着ないと述べたPP候補シャビエル・ガルシア・アルビオル（Xavier García Albiol）に応じたものとみられる。SOS Racismoと協力するビック大学（University of Vic）のメディア学講師ラウル・マルティネス・コルクエラ（Raúl Martínez Corcuera）は、AIによる加工はPPが票につながるとみる争点へ選挙戦を誘導する試みだった可能性が高いとし、その結果を一種の「さりげない人種差別」と呼んだ。スペインのメディアは、動画のモロッコ代表ユニフォームの複製に誤りがあることも指摘した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "研究：亲中AI人设\n瞄准台湾选举",
-          "body": "Vanderbilt大学研究发现，亲中AI人设正针对台湾11月28日地方选举。",
-          "mini_headline": "AI人设瞄准台湾选举",
+          "headline": "西班牙反对党发布\n未标注AI的桑切斯视频",
+          "body": "人民党未标注的AI-altered桑切斯视频被批可能不符合EU AI Act透明度规定。",
+          "mini_headline": "未标注的桑切斯AI视频",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+              },
+              {
                 "t": "p",
-                "x": "New York Times周一援引Vanderbilt University的一项研究报道，与中国立场一致的人工智能(AI)生成(AI-generated)人设正被用于干预台湾九合一地方选举。报道称，Vanderbilt研究人员去年发现，中国公司GoLaxy(中科天璣)曾试图开发用于制造复杂虚假信息宣传的AI工具。"
+                "x": "在一段17秒（17-second）的竞选视频中，西班牙首相佩德罗·桑切斯（Pedro Sánchez）穿上印有19号的国家足球队球衣（19号是拉明·亚马尔（Lamine Yamal）的球衣号码），并说道：“因为这就是西班牙：一个多元而多样的国家。”一天后，反对党人民党（PP）用AI篡改了同一段视频，虚假地制造出桑切斯穿上摩洛哥国家队球衣的画面，因而遭到批评。PP的视频还篡改了他的讲话。"
+              },
+              {
+                "t": "p",
+                "x": "这场风波发生之际，西班牙选民在经历一场两极分化的竞选后，正准备于周日投票。许多人指出，被篡改的视频没有说明是用AI制作的，意味着它可能未达到EU有关AI的义务要求。另一些人则称，继针对桑切斯妻子贝戈尼亚·戈麦斯（Begoña Gómez）的深度伪造视频之后，这是PP在竞选期间一系列问题性AI使用中的最新一例。"
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
-                "cap": "2022年11月26日，一名女子在台北投票。"
+                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "上周，沙维尔·加西亚·阿尔比奥尔（Xavier Garcí­a Albiol）在巴塞罗那的竞选集会上。摄影：Matteo Secci/Zuma Press/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "报道称，研究团队与台湾非营利组织Doublethink Lab合作，并使用Vanderbilt实验室开发、能识别人类与智能体在语气和用词上差异的工具，观察到旨在影响周六选举投票的“传统型、混合型和AI驱动(AI-powered)的不实活动”。与北京立场一致的账号发布非政治话题或性化图像，其间穿插支持中国或“统一”的信息。其中许多看起来是把AI生成(AI-generated)图像与人类宣传人员撰写的信息结合起来的“赛博格账号(cyberborgs)”。"
-              },
-              {
-                "t": "p",
-                "x": "Vanderbilt University副教授Brett Benson表示：“AI让构建和维护合成身份变得更容易，这些身份可以先在社交网络中建立可信度，再被动员用于政治目的。”报道称，团队没有发现超精准定向的证据，但将继续观察中国主导的虚假信息。"
+                "x": "桑切斯的视频似乎是在回应PP候选人沙维尔·加西亚·阿尔比奥尔（Xavier García Albiol），后者曾表示不会穿拉明·亚马尔的球衣。与SOS Racismo合作的维克大学（University of Vic）媒体研究讲师劳尔·马丁内斯·科尔奎拉（Raúl Martínez Corcuera）表示，这次AI篡改很可能是想把竞选引向PP认为能拉票的议题，并称其结果是一种“隐性的种族主义”。西班牙媒体还指出，视频中复制的摩洛哥球衣存在错误。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un estudio detecta perfiles AI\nprochinos en comicios de Taiwán",
-          "body": "Un estudio de Vanderbilt University halla perfiles AI prochinos en los comicios locales de Taiwán del 28 de noviembre.",
-          "mini_headline": "Perfiles AI apuntan al voto en Taiwán",
+          "headline": "El PP difunde sin etiquetar\nun video de Sánchez con AI",
+          "body": "El clip AI-altered de Sánchez que el Partido Popular no identificó podría incumplir la transparencia del EU AI Act.",
+          "mini_headline": "Video AI sin etiquetar de Sánchez",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+              },
+              {
                 "t": "p",
-                "x": "Perfiles generados por inteligencia artificial (AI-generated) y alineados con China se están usando para intentar interferir en las elecciones locales “nueve en uno” de Taiwán, informó el lunes el New York Times, citando un estudio de Vanderbilt University. El año pasado, investigadores de Vanderbilt descubrieron un intento de GoLaxy (中科天璣), una empresa con sede en China, de desarrollar herramientas de AI para crear sofisticadas campañas de desinformación, según el informe."
+                "x": "Un video de campaña de 17 segundos mostraba al presidente del Gobierno español, Pedro Sánchez, poniéndose la camiseta de la selección de fútbol con el número 19 –el dorsal de Lamine Yamal– y diciendo: “Porque esto es lo que es España: un país plural y diverso”. Un día después, el opositor Partido Popular (PP) recibió críticas tras usar AI para manipular el mismo video y hacer creer falsamente que Sánchez se había puesto la camiseta de la selección de Marruecos. El video del PP también alteró su discurso."
+              },
+              {
+                "t": "p",
+                "x": "La polémica llega cuando los españoles se preparan para votar el domingo tras una campaña polarizada. Muchos señalaron que el video alterado no indicaba que se había hecho con AI, lo que sugiere que podría no cumplir las obligaciones de la EU en materia de AI. Otros lo describieron como el último de una serie de usos problemáticos de la AI por parte del PP durante la campaña, después de un video deepfake de la esposa de Sánchez, Begoña Gómez."
               },
               {
                 "t": "img",
-                "src": "https://img.taipeitimes.com/images/2026/11/26/P01-261126-327.jpg",
-                "cap": "Una mujer vota en Taipéi el 26 de noviembre de 2022."
+                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
+                "cap": "Xavier Garcí­a Albiol en un mitin de campaña en Barcelona la semana pasada. Fotografía: Matteo Secci/Zuma Press/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Con la organización sin ánimo de lucro taiwanesa Doublethink Lab y una herramienta desarrollada en un laboratorio de Vanderbilt que detecta diferencias de tono y de elección de palabras entre humanos y agentes, el equipo observó “actividad inauténtica tradicional, híbrida y basada en AI (AI-powered)” dirigida a influir en el voto en las elecciones del sábado, según el informe. Cuentas alineadas con Pekín publicaban sobre temas no políticos o imágenes sexualizadas, intercaladas con mensajes de apoyo a China o a la “unificación”. Muchas parecían ser “cyberborgs” que combinan imágenes generadas por AI (AI-generated) con mensajes creados por propagandistas humanos."
-              },
-              {
-                "t": "p",
-                "x": "“La AI facilita construir y mantener identidades sintéticas capaces de ganar credibilidad dentro de las redes sociales antes de ser movilizadas con fines políticos”, dijo Brett Benson, profesor asociado de Vanderbilt University. El equipo no halló pruebas de microsegmentación extrema, pero seguirá observando la desinformación dirigida por China, según el informe."
+                "x": "El video de Sánchez parecía responder al candidato del PP Xavier García Albiol, que había dicho que no se pondría la camiseta de Lamine Yamal. Raúl Martínez Corcuera, profesor de estudios de medios en la Universidad de Vic que colabora con SOS Racismo, dijo que la manipulación con AI fue probablemente un intento de llevar la campaña hacia temas que el PP veía como impulsores de votos, y calificó el resultado como una forma de “racismo sutil”. Los medios españoles también señalaron errores en la réplica de la equipación marroquí del video."
               }
             ]
           }
@@ -1491,285 +1029,567 @@
       }
     },
     {
-      "id": "eu-gigafactory-deadline-delay",
-      "source_lang": "en",
+      "id": "max-act-industry-committee",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "EU, AI 기가팩토리\n신청 마감 또 연기",
-      "body": "EuroHPC JU가 EU AI 기가팩토리 마감을 12월 3일에서 30일로 미뤘다.",
-      "mini_headline": "EU AI 기가팩토리 또 지연",
+      "headline": "산자위, M.AX법\n여야 합의로 의결",
+      "body": "제조업 AI 전환 얼라이언스와 암묵지 데이터 지원의 법적 근거를 담았다.",
+      "mini_headline": "M.AX법\n산자위 통과",
       "tool": "Politics",
-      "source": "Rapporteur (Euractiv)",
-      "url": "https://www.rapporteur.com/news/eu-delays-planned-ai-gigafactories-again/",
-      "accent": "#eb367f",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261126137500001",
+      "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "이 프로젝트의 차질은 적어도 이번이 다섯 번째다"
-          },
-          {
             "t": "img",
-            "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
+            "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
+            "cap": "김정관 산업통상부 장관이 26일 국회 산업통상자원중소벤처기업위원회 전체회의에서 의원들의 질의에 답변하고 있다."
           },
           {
             "t": "p",
-            "x": "EU가 대형 AI 데이터센터, 이른바 AI 기가팩토리 건설 프로젝트를 또 미뤘다. 프로젝트 웹사이트에 올라온 내용이다."
+            "x": "국회 산업통상자원중소벤처기업위원회는 26일 전체회의를 열고 '산업 인공지능 전환 및 활용 촉진법'(일명 M.AX법) 등 총 78건의 법안을 여야 합의로 의결했다."
           },
           {
             "t": "p",
-            "x": "잇단 차질에 하나가 더 얹혔다. Ursula von der Leyen 집행위원장이 2025년 2월 처음 제안한 뒤로 적어도 다섯 차례 일정이 늦춰졌다. EU는 제안된 사업 가운데 실제로 추진할 곳을 아직 고르는 중이다."
+            "x": "산자위는 기존 '산업 디지털 전환 및 인공지능 활용 촉진법 전부개정 법률안'의 명칭을 산업 인공지능 전환 및 활용 촉진법으로 변경해 제조업의 AI 전환(M.AX) '얼라이언스'(협력체)와 암묵지 데이터 지원사업에 대한 법적 근거를 마련했다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "EU 슈퍼컴퓨터를 운영하는 EuroHPC JU는 수요일 국가와 기업의 대형 AI 기가팩토리 건설 신청 마감일을 12월 3일에서 12월 30일로 늦췄다고 밝혔다."
+            "x": "산자위는 이를 통해 제조기업과 AI 기업 간 협업을 활성화하는 한편 제조업의 AI 전환에 필요한 기술·인력·데이터·인프라 확충 지원 기반을 체계적으로 확충할 수 있을 것으로 기대했다."
           },
           {
             "t": "p",
-            "x": "소형 기가팩토리 건설 신청 마감은 지난달 이미 내년 2월로 밀렸다."
+            "x": "산자위는 또 외국인 투자 안보심의에 대한 법률상 근거를 마련하고, 외국인 투자 제한 범위에 간접 지배를 추가해 외국인 투자에 대한 정부의 관리·감독 기능을 강화한 외국인투자 촉진법 개정안도 의결했다."
           },
           {
             "t": "p",
-            "x": "EU AI Office 책임자 Lucilla Sioli는 이번 지연이 “매우 제한적”이라며 EU가 참여국 정부와 행정 절차를 정리해야 한다고 해명했다."
+            "x": "아울러 국가핵심기술 침탈 예방을 위해 국가핵심기술 지정 요건을 완화하고 해외 인수·합병 사전 승인 대상을 구체화하는 산업기술의 유출 방지 및 보호법 개정안도 의결됐다."
           },
           {
             "t": "p",
-            "x": "이달 초에는 “프로젝트 규모와 이런 대형 프로젝트를 꾸리는 데 시간이 걸린다는 점을 고려하면, 이번 지연이 큰 차이를 만든다고 주장하기는 어렵다고 본다”고 말하기도 했다."
-          },
-          {
-            "t": "p",
-            "x": "절차 개시 시점도 앞서 2025년 12월에서 올여름으로 밀렸다."
+            "x": "이날 의결된 법안들은 법제사법위원회 심사를 거쳐 국회 본회의에서 최종 의결될 예정이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "EU pushes back AI gigafactory\napplication deadline again",
-          "body": "EuroHPC JU moved the EU AI gigafactory application deadline from 3 December to 30 December.",
-          "mini_headline": "EU AI gigafactories delayed again",
+        "ko": {
+          "headline": "산자위, M.AX법\n여야 합의로 의결",
+          "body": "제조업 AI 전환 얼라이언스와 암묵지 데이터 지원의 법적 근거를 담았다.",
+          "mini_headline": "M.AX법\n산자위 통과",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "It’s at least the fifth setback the project has faced so far"
-              },
-              {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
+                "cap": "김정관 산업통상부 장관이 26일 국회 산업통상자원중소벤처기업위원회 전체회의에서 의원들의 질의에 답변하고 있다."
               },
               {
                 "t": "p",
-                "x": "The EU has once again delayed its project to build AI gigafactories, or large AI data centres, according to the project’s website."
+                "x": "국회 산업통상자원중소벤처기업위원회는 26일 전체회의를 열고 '산업 인공지능 전환 및 활용 촉진법'(일명 M.AX법) 등 총 78건의 법안을 여야 합의로 의결했다."
               },
               {
                 "t": "p",
-                "x": "The delay marks the latest in a series of setbacks for the project, which Commission President Ursula von der Leyen originally pitched in February 2025, but has since been delayed at least five times. The EU is still selecting which of the proposed projects it actually wants to complete."
+                "x": "산자위는 기존 '산업 디지털 전환 및 인공지능 활용 촉진법 전부개정 법률안'의 명칭을 산업 인공지능 전환 및 활용 촉진법으로 변경해 제조업의 AI 전환(M.AX) '얼라이언스'(협력체)와 암묵지 데이터 지원사업에 대한 법적 근거를 마련했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "The body running the EU’s supercomputers, the EuroHPC JU, on Wednesday wrote that the deadline for countries and companies to apply to build large AI gigafactories had been moved back from 3 December to 30 December."
+                "x": "산자위는 이를 통해 제조기업과 AI 기업 간 협업을 활성화하는 한편 제조업의 AI 전환에 필요한 기술·인력·데이터·인프라 확충 지원 기반을 체계적으로 확충할 수 있을 것으로 기대했다."
               },
               {
                 "t": "p",
-                "x": "Last month, it had already delayed the deadline to apply to build small gigafactories to February next year."
+                "x": "산자위는 또 외국인 투자 안보심의에 대한 법률상 근거를 마련하고, 외국인 투자 제한 범위에 간접 지배를 추가해 외국인 투자에 대한 정부의 관리·감독 기능을 강화한 외국인투자 촉진법 개정안도 의결했다."
               },
               {
                 "t": "p",
-                "x": "Lucilla Sioli, the head of the EU’s AI Office, had defended this delay as “very limited” and said the bloc needed to address administrative processes with the participating governments."
+                "x": "아울러 국가핵심기술 침탈 예방을 위해 국가핵심기술 지정 요건을 완화하고 해외 인수·합병 사전 승인 대상을 구체화하는 산업기술의 유출 방지 및 보호법 개정안도 의결됐다."
               },
               {
                 "t": "p",
-                "x": "“I don’t think one could argue – given the size of the project and the fact that it also takes some time to set up such a large project – that this delay is going to make any significant difference,” she said earlier this month."
-              },
-              {
-                "t": "p",
-                "x": "The launch of the procedure itself had earlier slipped from December 2025 into this summer."
+                "x": "이날 의결된 법안들은 법제사법위원회 심사를 거쳐 국회 본회의에서 최종 의결될 예정이다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "EU, AI 기가팩토리\n신청 마감 또 연기",
-          "body": "EuroHPC JU가 EU AI 기가팩토리 마감을 12월 3일에서 30일로 미뤘다.",
-          "mini_headline": "EU AI 기가팩토리 또 지연",
+        "en": {
+          "headline": "Assembly panel passes M.AX Act\nwith cross-party agreement",
+          "body": "The bill provides a legal basis for a manufacturing AI transition alliance and tacit-knowledge data support.",
+          "mini_headline": "M.AX Act clears committee",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "이 프로젝트의 차질은 적어도 이번이 다섯 번째다"
-              },
-              {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
+                "cap": "Minister of Industry and Trade Kim Jung-kwan answers lawmakers' questions at a plenary meeting of the National Assembly's Trade, Industry, Energy, SMEs and Startups Committee on the 26th."
               },
               {
                 "t": "p",
-                "x": "EU가 대형 AI 데이터센터, 이른바 AI 기가팩토리 건설 프로젝트를 또 미뤘다. 프로젝트 웹사이트에 올라온 내용이다."
+                "x": "The National Assembly's Trade, Industry, Energy, SMEs and Startups Committee held a plenary meeting on the 26th and passed a total of 78 bills with cross-party agreement, including the 'Act on Promoting Industrial AI Transformation and Use' (the so-called M.AX Act)."
               },
               {
                 "t": "p",
-                "x": "잇단 차질에 하나가 더 얹혔다. Ursula von der Leyen 집행위원장이 2025년 2월 처음 제안한 뒤로 적어도 다섯 차례 일정이 늦춰졌다. EU는 제안된 사업 가운데 실제로 추진할 곳을 아직 고르는 중이다."
+                "x": "The committee said it renamed the existing 'full revision bill of the Act on Promoting Industrial Digital Transformation and AI Use' as the Act on Promoting Industrial AI Transformation and Use, creating a legal basis for a manufacturing AI transformation (M.AX) 'alliance' (a cooperative body) and for a tacit-knowledge data support program."
               },
               {
                 "t": "p",
-                "x": "EU 슈퍼컴퓨터를 운영하는 EuroHPC JU는 수요일 국가와 기업의 대형 AI 기가팩토리 건설 신청 마감일을 12월 3일에서 12월 30일로 늦췄다고 밝혔다."
+                "x": "The committee expects the law to boost collaboration between manufacturers and AI companies while systematically expanding the support base for the technology, workforce, data and infrastructure that manufacturing needs for its AI transition."
               },
               {
                 "t": "p",
-                "x": "소형 기가팩토리 건설 신청 마감은 지난달 이미 내년 2월로 밀렸다."
+                "x": "The committee also passed an amendment to the Foreign Investment Promotion Act that strengthens government oversight of foreign investment by setting a statutory basis for security reviews of foreign investment and adding indirect control to the scope of foreign investment restrictions."
               },
               {
                 "t": "p",
-                "x": "EU AI Office 책임자 Lucilla Sioli는 이번 지연이 “매우 제한적”이라며 EU가 참여국 정부와 행정 절차를 정리해야 한다고 해명했다."
+                "x": "In addition, to prevent the theft of national core technologies, an amendment to the Act on the Prevention of Divulgence and Protection of Industrial Technology was passed that eases the criteria for designating national core technologies and specifies which overseas mergers and acquisitions require prior approval."
               },
               {
                 "t": "p",
-                "x": "이달 초에는 “프로젝트 규모와 이런 대형 프로젝트를 꾸리는 데 시간이 걸린다는 점을 고려하면, 이번 지연이 큰 차이를 만든다고 주장하기는 어렵다고 본다”고 말하기도 했다."
-              },
-              {
-                "t": "p",
-                "x": "절차 개시 시점도 앞서 2025년 12월에서 올여름으로 밀렸다."
+                "x": "The bills passed that day will go to the Legislation and Judiciary Committee for review before a final vote at a plenary session of the National Assembly."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU、AIギガファクトリー\n申請期限を再び延期",
-          "body": "EuroHPC JUはEUのAIギガファクトリー申請期限を12月3日から30日に延期した。",
-          "mini_headline": "EUのAIギガファクトリー、また遅延",
+          "headline": "韓国国会委、M.AX法を\n与野党合意で可決",
+          "body": "製造業のAI転換アライアンスと暗黙知データ支援の法的根拠を盛り込んだ。",
+          "mini_headline": "M.AX法、産資委を通過",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "計画のつまずきはこれで少なくとも五度目となる"
-              },
-              {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
+                "cap": "26日、国会産業通商資源中小ベンチャー企業委員会の全体会議で議員の質問に答える金正官（キム・ジョングァン）産業通商相。"
               },
               {
                 "t": "p",
-                "x": "プロジェクトのウェブサイトによると、EUは大規模AIデータセンターである「AIギガファクトリー」の建設計画を再び延期した。"
+                "x": "韓国国会の産業通商資源中小ベンチャー企業委員会は26日に全体会議を開き、「産業人工知能転換および活用促進法」（通称M.AX法）など計78件の法案を与野党合意で可決した。"
               },
               {
                 "t": "p",
-                "x": "今回の延期は、計画が続けて見舞われてきたつまずきの最新例だ。計画はUrsula von der Leyen欧州委員長が2025年2月に打ち出したが、その後少なくとも五回延期されている。EUは提案されたプロジェクトのうち、実際にどれを進めるかをまだ選定している。"
+                "x": "同委員会は、既存の「産業デジタル転換および人工知能活用促進法全部改正法律案」の名称を産業人工知能転換および活用促進法に改め、製造業のAI転換（M.AX）「アライアンス」（協力体）と暗黙知データ支援事業の法的根拠を整えたと明らかにした。"
               },
               {
                 "t": "p",
-                "x": "EUのスーパーコンピューターを運営するEuroHPC JUは水曜日、国や企業が大型AIギガファクトリーの建設を申請する期限を12月3日から12月30日に繰り下げたと記した。"
+                "x": "同委員会は、これにより製造企業とAI企業の協業を活性化するとともに、製造業のAI転換に必要な技術・人材・データ・インフラの拡充支援基盤を体系的に整えられると期待した。"
               },
               {
                 "t": "p",
-                "x": "先月には、小型ギガファクトリーの建設申請期限をすでに来年2月に延期していた。"
+                "x": "同委員会はまた、外国人投資の安全保障審査について法律上の根拠を設け、外国人投資の制限範囲に間接支配を加えて政府の管理・監督機能を強化する外国人投資促進法改正案も可決した。"
               },
               {
                 "t": "p",
-                "x": "EUのAI Officeを率いるLucilla Sioli氏は、この延期を「ごく限定的」だと擁護し、EUは参加国政府との行政手続きに対応する必要があると述べた。"
+                "x": "あわせて、国家核心技術の侵奪を防ぐため、国家核心技術の指定要件を緩和し、海外での買収・合併の事前承認対象を具体化する産業技術の流出防止および保護法改正案も可決された。"
               },
               {
                 "t": "p",
-                "x": "同氏は今月初め、「計画の規模や、これほど大きな計画の立ち上げに時間がかかることを考えれば、今回の延期が大きな違いを生むと主張することはできないと思う」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "手続きの開始自体も、以前に2025年12月から今夏へとずれ込んでいた。"
+                "x": "この日可決された法案は、法制司法委員会の審査を経て国会本会議で最終議決される予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU再度推迟AI超级工厂\n申请截止日期",
-          "body": "EuroHPC JU将EU AI超级工厂申请截止日期从12月3日推迟至12月30日。",
-          "mini_headline": "EU AI超级工厂再度延期",
+          "headline": "韩国国会产业委员会\n朝野一致通过M.AX法",
+          "body": "该法明确为制造业AI转型联盟与隐性知识数据支持项目提供法律依据。",
+          "mini_headline": "M.AX法通过产业委",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "这至少是该项目迄今遭遇的第五次挫折"
-              },
-              {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
+                "cap": "26日，韩国产业通商部长官金正官在国会产业通商资源中小风险企业委员会全体会议上回答议员提问。"
               },
               {
                 "t": "p",
-                "x": "根据项目网站，EU再次推迟了建设AI超级工厂（即大型AI数据中心）的项目。"
+                "x": "韩国国会产业通商资源中小风险企业委员会26日召开全体会议，经朝野协商一致，表决通过了《产业人工智能转型及应用促进法》（又称M.AX法）等共78项法案。"
               },
               {
                 "t": "p",
-                "x": "这是该项目一系列挫折中的最新一次。欧盟委员会主席Ursula von der Leyen最初于2025年2月提出该项目，此后已至少推迟五次。EU仍在挑选真正要推进的提案项目。"
+                "x": "该委员会表示，已将原《产业数字化转型及人工智能应用促进法全面修订法案》更名为《产业人工智能转型及应用促进法》，为制造业AI转型（M.AX）“联盟”（合作体）和隐性知识数据支持项目奠定了法律依据。"
               },
               {
                 "t": "p",
-                "x": "负责运营EU超级计算机的机构EuroHPC JU周三表示，各国和企业申请建设大型AI超级工厂的截止日期已从12月3日推迟至12月30日。"
+                "x": "委员会期待借此激活制造企业与AI企业之间的合作，同时系统性地扩充制造业AI转型所需的技术、人才、数据和基础设施支持基础。"
               },
               {
                 "t": "p",
-                "x": "上个月，该机构已将申请建设小型超级工厂的截止日期推迟到明年2月。"
+                "x": "委员会还表决通过了《外国人投资促进法》修正案，为外国人投资安全审查提供法律依据，并将间接控制纳入外国人投资限制范围，强化政府对外国人投资的管理和监督职能。"
               },
               {
                 "t": "p",
-                "x": "EU AI Office负责人Lucilla Sioli曾为这次推迟辩护，称其“非常有限”，并表示欧盟需要与参与国政府处理行政程序。"
+                "x": "此外，为防止国家核心技术被窃取，旨在放宽国家核心技术认定条件、细化海外并购事先审批对象的《产业技术流出防止及保护法》修正案也获得通过。"
               },
               {
                 "t": "p",
-                "x": "她本月早些时候说：“考虑到项目的规模，以及建立如此大型的项目本身也需要时间，我认为很难说这次推迟会带来任何重大影响。”"
-              },
-              {
-                "t": "p",
-                "x": "此前，程序本身的启动也已从2025年12月推迟到今年夏天。"
+                "x": "当天通过的法案将经法制司法委员会审查后，提交国会全体会议进行最终表决。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La UE (EU) aplaza otra vez\nel plazo de sus gigafactorías AI",
-          "body": "EuroHPC JU trasladó el plazo para las gigafactorías de AI de la UE (EU) del 3 de diciembre al 30 de diciembre.",
-          "mini_headline": "Nuevo retraso de las gigafactorías AI de la EU",
+          "headline": "Comisión coreana aprueba\nla ley M.AX por consenso",
+          "body": "La ley da base legal a la alianza de transición AI de la manufactura y al apoyo a datos de conocimiento tácito.",
+          "mini_headline": "Comisión coreana aprueba la ley M.AX",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Es al menos el quinto revés que sufre el proyecto hasta ahora"
+                "t": "img",
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
+                "cap": "El ministro de Industria y Comercio, Kim Jung-kwan, responde a preguntas de los diputados en el pleno de la Comisión de Comercio, Industria, Energía, Pymes y Startups de la Asamblea Nacional el día 26."
               },
+              {
+                "t": "p",
+                "x": "La Comisión de Comercio, Industria, Energía, Pymes y Startups de la Asamblea Nacional celebró el día 26 una sesión plenaria y aprobó por consenso entre oficialismo y oposición un total de 78 proyectos de ley, entre ellos la 'Ley de Promoción de la Transformación y el Uso de la Inteligencia Artificial Industrial' (conocida como ley M.AX)."
+              },
+              {
+                "t": "p",
+                "x": "La comisión explicó que cambió el nombre del 'proyecto de reforma integral de la Ley de Promoción de la Transformación Digital Industrial y el Uso de la Inteligencia Artificial' por el de Ley de Promoción de la Transformación y el Uso de la Inteligencia Artificial Industrial, con lo que creó una base legal para la 'alianza' (órgano de cooperación) de la transición AI de la manufactura (M.AX) y para el programa de apoyo a datos de conocimiento tácito."
+              },
+              {
+                "t": "p",
+                "x": "La comisión espera que así se impulse la colaboración entre fabricantes y empresas de AI y se amplíe de forma sistemática la base de apoyo en tecnología, personal, datos e infraestructura que la manufactura necesita para su transición a la AI."
+              },
+              {
+                "t": "p",
+                "x": "La comisión también aprobó una reforma de la Ley de Promoción de la Inversión Extranjera que refuerza la gestión y supervisión gubernamental de la inversión extranjera, al dar base legal a la revisión de seguridad de estas inversiones y añadir el control indirecto al ámbito de sus restricciones."
+              },
+              {
+                "t": "p",
+                "x": "Además, para prevenir el robo de tecnologías nacionales clave, se aprobó una reforma de la Ley de Prevención de Fugas y Protección de Tecnología Industrial que flexibiliza los requisitos para designarlas y concreta qué fusiones y adquisiciones en el extranjero requieren aprobación previa."
+              },
+              {
+                "t": "p",
+                "x": "Los proyectos aprobados ese día pasarán por la revisión de la Comisión de Legislación y Justicia antes de su votación final en el pleno de la Asamblea Nacional."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Assembly panel passes M.AX Act\nwith cross-party agreement",
+          "body": "The bill provides a legal basis for a manufacturing AI transition alliance and tacit-knowledge data support.",
+          "mini_headline": "M.AX Act clears committee",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
+                "cap": "Minister of Industry and Trade Kim Jung-kwan answers lawmakers' questions at a plenary meeting of the National Assembly's Trade, Industry, Energy, SMEs and Startups Committee on the 26th."
               },
               {
                 "t": "p",
-                "x": "La UE (EU) ha vuelto a retrasar su proyecto para construir gigafactorías de AI, es decir, grandes centros de datos de AI, según la web del proyecto."
+                "x": "The National Assembly's Trade, Industry, Energy, SMEs and Startups Committee held a plenary meeting on the 26th and passed a total of 78 bills with cross-party agreement, including the 'Act on Promoting Industrial AI Transformation and Use' (the so-called M.AX Act)."
               },
               {
                 "t": "p",
-                "x": "El retraso es el último de una serie de reveses para el proyecto, que la presidenta de la Comisión, Ursula von der Leyen, presentó en febrero de 2025 y que desde entonces se ha retrasado al menos cinco veces. La EU sigue seleccionando cuáles de los proyectos propuestos quiere llevar a cabo realmente."
+                "x": "The committee said it renamed the existing 'full revision bill of the Act on Promoting Industrial Digital Transformation and AI Use' as the Act on Promoting Industrial AI Transformation and Use, creating a legal basis for a manufacturing AI transformation (M.AX) 'alliance' (a cooperative body) and for a tacit-knowledge data support program."
               },
               {
                 "t": "p",
-                "x": "El organismo que gestiona los superordenadores de la EU, la EuroHPC JU, indicó el miércoles que el plazo para que países y empresas soliciten construir grandes gigafactorías de AI se había trasladado del 3 de diciembre al 30 de diciembre."
+                "x": "The committee expects the law to boost collaboration between manufacturers and AI companies while systematically expanding the support base for the technology, workforce, data and infrastructure that manufacturing needs for its AI transition."
               },
               {
                 "t": "p",
-                "x": "El mes pasado ya había aplazado hasta febrero del año próximo el plazo para solicitar la construcción de gigafactorías pequeñas."
+                "x": "The committee also passed an amendment to the Foreign Investment Promotion Act that strengthens government oversight of foreign investment by setting a statutory basis for security reviews of foreign investment and adding indirect control to the scope of foreign investment restrictions."
               },
               {
                 "t": "p",
-                "x": "Lucilla Sioli, directora de la AI Office de la EU, había defendido este retraso como “muy limitado” y dijo que el bloque debía resolver procesos administrativos con los gobiernos participantes."
+                "x": "In addition, to prevent the theft of national core technologies, an amendment to the Act on the Prevention of Divulgence and Protection of Industrial Technology was passed that eases the criteria for designating national core technologies and specifies which overseas mergers and acquisitions require prior approval."
               },
               {
                 "t": "p",
-                "x": "“No creo que se pueda argumentar –dado el tamaño del proyecto y el hecho de que también lleva tiempo poner en marcha un proyecto tan grande– que este retraso vaya a suponer una diferencia significativa”, dijo a principios de este mes."
+                "x": "The bills passed that day will go to the Legislation and Judiciary Committee for review before a final vote at a plenary session of the National Assembly."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "韓国国会委、M.AX法を\n与野党合意で可決",
+          "body": "製造業のAI転換アライアンスと暗黙知データ支援の法的根拠を盛り込んだ。",
+          "mini_headline": "M.AX法、産資委を通過",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
+                "cap": "26日、国会産業通商資源中小ベンチャー企業委員会の全体会議で議員の質問に答える金正官（キム・ジョングァン）産業通商相。"
               },
               {
                 "t": "p",
-                "x": "El propio inicio del procedimiento ya se había desplazado de diciembre de 2025 a este verano."
+                "x": "韓国国会の産業通商資源中小ベンチャー企業委員会は26日に全体会議を開き、「産業人工知能転換および活用促進法」（通称M.AX法）など計78件の法案を与野党合意で可決した。"
+              },
+              {
+                "t": "p",
+                "x": "同委員会は、既存の「産業デジタル転換および人工知能活用促進法全部改正法律案」の名称を産業人工知能転換および活用促進法に改め、製造業のAI転換（M.AX）「アライアンス」（協力体）と暗黙知データ支援事業の法的根拠を整えたと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "同委員会は、これにより製造企業とAI企業の協業を活性化するとともに、製造業のAI転換に必要な技術・人材・データ・インフラの拡充支援基盤を体系的に整えられると期待した。"
+              },
+              {
+                "t": "p",
+                "x": "同委員会はまた、外国人投資の安全保障審査について法律上の根拠を設け、外国人投資の制限範囲に間接支配を加えて政府の管理・監督機能を強化する外国人投資促進法改正案も可決した。"
+              },
+              {
+                "t": "p",
+                "x": "あわせて、国家核心技術の侵奪を防ぐため、国家核心技術の指定要件を緩和し、海外での買収・合併の事前承認対象を具体化する産業技術の流出防止および保護法改正案も可決された。"
+              },
+              {
+                "t": "p",
+                "x": "この日可決された法案は、法制司法委員会の審査を経て国会本会議で最終議決される予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "韩国国会产业委员会\n朝野一致通过M.AX法",
+          "body": "该法明确为制造业AI转型联盟与隐性知识数据支持项目提供法律依据。",
+          "mini_headline": "M.AX法通过产业委",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
+                "cap": "26日，韩国产业通商部长官金正官在国会产业通商资源中小风险企业委员会全体会议上回答议员提问。"
+              },
+              {
+                "t": "p",
+                "x": "韩国国会产业通商资源中小风险企业委员会26日召开全体会议，经朝野协商一致，表决通过了《产业人工智能转型及应用促进法》（又称M.AX法）等共78项法案。"
+              },
+              {
+                "t": "p",
+                "x": "该委员会表示，已将原《产业数字化转型及人工智能应用促进法全面修订法案》更名为《产业人工智能转型及应用促进法》，为制造业AI转型（M.AX）“联盟”（合作体）和隐性知识数据支持项目奠定了法律依据。"
+              },
+              {
+                "t": "p",
+                "x": "委员会期待借此激活制造企业与AI企业之间的合作，同时系统性地扩充制造业AI转型所需的技术、人才、数据和基础设施支持基础。"
+              },
+              {
+                "t": "p",
+                "x": "委员会还表决通过了《外国人投资促进法》修正案，为外国人投资安全审查提供法律依据，并将间接控制纳入外国人投资限制范围，强化政府对外国人投资的管理和监督职能。"
+              },
+              {
+                "t": "p",
+                "x": "此外，为防止国家核心技术被窃取，旨在放宽国家核心技术认定条件、细化海外并购事先审批对象的《产业技术流出防止及保护法》修正案也获得通过。"
+              },
+              {
+                "t": "p",
+                "x": "当天通过的法案将经法制司法委员会审查后，提交国会全体会议进行最终表决。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Comisión coreana aprueba\nla ley M.AX por consenso",
+          "body": "La ley da base legal a la alianza de transición AI de la manufactura y al apoyo a datos de conocimiento tácito.",
+          "mini_headline": "Comisión coreana aprueba la ley M.AX",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
+                "cap": "El ministro de Industria y Comercio, Kim Jung-kwan, responde a preguntas de los diputados en el pleno de la Comisión de Comercio, Industria, Energía, Pymes y Startups de la Asamblea Nacional el día 26."
+              },
+              {
+                "t": "p",
+                "x": "La Comisión de Comercio, Industria, Energía, Pymes y Startups de la Asamblea Nacional celebró el día 26 una sesión plenaria y aprobó por consenso entre oficialismo y oposición un total de 78 proyectos de ley, entre ellos la 'Ley de Promoción de la Transformación y el Uso de la Inteligencia Artificial Industrial' (conocida como ley M.AX)."
+              },
+              {
+                "t": "p",
+                "x": "La comisión explicó que cambió el nombre del 'proyecto de reforma integral de la Ley de Promoción de la Transformación Digital Industrial y el Uso de la Inteligencia Artificial' por el de Ley de Promoción de la Transformación y el Uso de la Inteligencia Artificial Industrial, con lo que creó una base legal para la 'alianza' (órgano de cooperación) de la transición AI de la manufactura (M.AX) y para el programa de apoyo a datos de conocimiento tácito."
+              },
+              {
+                "t": "p",
+                "x": "La comisión espera que así se impulse la colaboración entre fabricantes y empresas de AI y se amplíe de forma sistemática la base de apoyo en tecnología, personal, datos e infraestructura que la manufactura necesita para su transición a la AI."
+              },
+              {
+                "t": "p",
+                "x": "La comisión también aprobó una reforma de la Ley de Promoción de la Inversión Extranjera que refuerza la gestión y supervisión gubernamental de la inversión extranjera, al dar base legal a la revisión de seguridad de estas inversiones y añadir el control indirecto al ámbito de sus restricciones."
+              },
+              {
+                "t": "p",
+                "x": "Además, para prevenir el robo de tecnologías nacionales clave, se aprobó una reforma de la Ley de Prevención de Fugas y Protección de Tecnología Industrial que flexibiliza los requisitos para designarlas y concreta qué fusiones y adquisiciones en el extranjero requieren aprobación previa."
+              },
+              {
+                "t": "p",
+                "x": "Los proyectos aprobados ese día pasarán por la revisión de la Comisión de Legislación y Justicia antes de su votación final en el pleno de la Asamblea Nacional."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "meta-muse-fca-testing",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "UK 금융당국 “Meta,\nMuse 시험 거부했다”",
+      "body": "FCA는 결제·자율성을 살피려던 Muse 공동 시험을 Meta가 거절했다고 밝혔다.",
+      "mini_headline": "Meta, FCA의 Muse 시험 거부",
+      "tool": "Politics",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+          },
+          {
+            "t": "p",
+            "x": "금융행위감독청(FCA) 혁신 책임자 콜린 페인(Colin Payne)에 따르면 Meta는 지난주 UK 금융당국이 자체 샌드박스에서 Muse를 공동 시험하자고 한 제안을 거절했다. 경쟁·데이터 감독기관을 비롯한 UK 규제당국들은 자사 AI 제품이 UK 소비자보호법을 지키게 하라고 Meta에 경고해 왔다."
+          },
+          {
+            "t": "p",
+            "x": "FCA가 특히 알고 싶어 하는 건 에이전트의 결제 처리 방식이다. Sainsbury's, Marks & Spencer, Ocado, Debenhams Group, Currys 등 소매업체들이 Muse가 자사 사이트에 원활히 접근하도록 Meta와 협력해 왔다고 밝혀서다. 페인은 “에이전트가 자율적으로 행동한다면 그것이 소비자에게 이익이 되는지 확인하고 싶다”고 말했다. 그는 시험 준비에 시간이 필요했겠지만 Meta가 지난달에야 FCA에 계획을 알렸다고 지적했다."
+          },
+          {
+            "t": "p",
+            "x": "Meta 대변인 매슈 폴러드(Matthew Pollard)는 WIRED에 “관련 규제당국과 건설적으로 소통해 왔으며 앞으로도 그럴 것”이라고 말했다. 9월 출시 이후 북미에서 Muse를 설정한 사용자는 10M 명이 넘는다. CMA는 이미 Meta에 UK 이용약관을 고치게 했으며 “우려가 있다면 UK 소비자를 보호하기 위해 주저 없이 조치하겠다”고 밝혔다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "UK finance watchdog says Meta\nrefused Muse agent testing",
+          "body": "The FCA says Meta declined to jointly test the Muse agent, whose payments and autonomy it wants to understand.",
+          "mini_headline": "Meta refused FCA\nMuse testing",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meta declined a suggestion from the UK's financial regulator last week that they joint-test Muse using their sandbox, according to Colin Payne, head of innovation at the Financial Conduct Authority (FCA). UK regulators, including the competition and data watchdogs, have warned Meta it needs to ensure its AI products comply with UK consumer protection laws."
+              },
+              {
+                "t": "p",
+                "x": "The FCA especially wants to understand how payments will be made by agents, as retailers including Sainsbury's, Marks & Spencer, Ocado, Debenhams Group and Currys said they'd been working with Meta to smooth Muse's access to their sites. “If an agent is acting autonomously, we want to make sure it's in the interest of the consumer,” Payne says. He noted testing would have taken time to set up, but Meta only made the FCA aware of its plans last month."
+              },
+              {
+                "t": "p",
+                "x": "“We've engaged constructively with the appropriate regulatory authorities and will continue to do so,” Meta spokesperson Matthew Pollard tells WIRED. More than 10 million users have set up Muse in North America since its September launch. The CMA has already made Meta adapt its UK terms, and said: “If we have concerns, we will not hesitate to act to protect UK consumers.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "UK 금융당국 “Meta,\nMuse 시험 거부했다”",
+          "body": "FCA는 결제·자율성을 살피려던 Muse 공동 시험을 Meta가 거절했다고 밝혔다.",
+          "mini_headline": "Meta, FCA의 Muse 시험 거부",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+              },
+              {
+                "t": "p",
+                "x": "금융행위감독청(FCA) 혁신 책임자 콜린 페인(Colin Payne)에 따르면 Meta는 지난주 UK 금융당국이 자체 샌드박스에서 Muse를 공동 시험하자고 한 제안을 거절했다. 경쟁·데이터 감독기관을 비롯한 UK 규제당국들은 자사 AI 제품이 UK 소비자보호법을 지키게 하라고 Meta에 경고해 왔다."
+              },
+              {
+                "t": "p",
+                "x": "FCA가 특히 알고 싶어 하는 건 에이전트의 결제 처리 방식이다. Sainsbury's, Marks & Spencer, Ocado, Debenhams Group, Currys 등 소매업체들이 Muse가 자사 사이트에 원활히 접근하도록 Meta와 협력해 왔다고 밝혀서다. 페인은 “에이전트가 자율적으로 행동한다면 그것이 소비자에게 이익이 되는지 확인하고 싶다”고 말했다. 그는 시험 준비에 시간이 필요했겠지만 Meta가 지난달에야 FCA에 계획을 알렸다고 지적했다."
+              },
+              {
+                "t": "p",
+                "x": "Meta 대변인 매슈 폴러드(Matthew Pollard)는 WIRED에 “관련 규제당국과 건설적으로 소통해 왔으며 앞으로도 그럴 것”이라고 말했다. 9월 출시 이후 북미에서 Muse를 설정한 사용자는 10M 명이 넘는다. CMA는 이미 Meta에 UK 이용약관을 고치게 했으며 “우려가 있다면 UK 소비자를 보호하기 위해 주저 없이 조치하겠다”고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "UK金融当局「Metaが\nMuse試験を拒否」",
+          "body": "FCAは、決済と自律性を見極めたいとしたMuseの共同試験をMetaが断ったと明かした。",
+          "mini_headline": "Meta、FCAのMuse試験を拒否",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+              },
+              {
+                "t": "p",
+                "x": "金融行為規制機構（FCA）のイノベーション責任者コリン・ペイン（Colin Payne）氏によると、Metaは先週、UKの金融規制当局が同局のサンドボックスでMuseを共同試験しようと提案したのを断った。競争・データ監督機関を含むUKの規制当局は、MetaのAI製品がUKの消費者保護法を順守するよう確保すべきだと警告してきた。"
+              },
+              {
+                "t": "p",
+                "x": "FCAが特に知りたいのは、エージェントがどのように決済するかだ。Sainsbury's、Marks & Spencer、Ocado、Debenhams Group、Currysなどの小売業者が、Museが自社サイトに円滑にアクセスできるようMetaと協力してきたと明らかにしているためだ。「エージェントが自律的に動くのであれば、それが消費者の利益になっているかを確かめたい」とペイン氏は言う。同氏は、試験の準備には時間がかかったはずだが、Metaが計画をFCAに伝えたのは先月になってからだと指摘した。"
+              },
+              {
+                "t": "p",
+                "x": "Metaの広報担当マシュー・ポラード（Matthew Pollard）氏はWIREDに「適切な規制当局と建設的に対話してきたし、今後もそうする」と語った。9月の公開以来、北米でMuseを設定したユーザーは10M 人を超える。CMAはすでにMetaにUKの利用規約を修正させており、「懸念があれば、UKの消費者を守るためにためらわず行動する」としている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "UK金融监管机构称\nMeta拒绝Muse测试",
+          "body": "FCA称，Meta拒绝联合测试Muse智能体，而FCA希望了解其支付与自主性。",
+          "mini_headline": "Meta拒绝FCA的Muse测试",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+              },
+              {
+                "t": "p",
+                "x": "据金融行为监管局（FCA）创新主管科林·佩恩（Colin Payne）称，Meta上周拒绝了UK金融监管机构提出的利用其沙盒联合测试Muse的建议。包括竞争和数据监管机构在内的UK监管部门已警告Meta，须确保其AI产品遵守UK消费者保护法。"
+              },
+              {
+                "t": "p",
+                "x": "FCA尤其希望了解智能体将如何进行支付，因为Sainsbury's、Marks & Spencer、Ocado、Debenhams Group和Currys等零售商表示，它们一直在与Meta合作，让Muse更顺畅地访问其网站。佩恩说：“如果智能体是在自主行事，我们希望确保它符合消费者的利益。”他指出，测试需要时间来筹备，但Meta直到上个月才让FCA知悉其计划。"
+              },
+              {
+                "t": "p",
+                "x": "Meta发言人马修·波拉德（Matthew Pollard）对WIRED表示：“我们一直与相关监管机构进行建设性沟通，并将继续这样做。”自9月推出以来，北美已有超过10M 名用户设置了Muse。CMA已促使Meta调整其UK条款，并表示：“如果我们有担忧，将毫不犹豫地采取行动保护UK消费者。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Regulador financiero de UK:\nMeta rechazó probar Muse",
+          "body": "La FCA dice que Meta declinó probar en conjunto el agente Muse, cuyos pagos y autonomía quiere entender.",
+          "mini_headline": "Meta rechazó la prueba de Muse de la FCA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meta rechazó la semana pasada una propuesta del regulador financiero de UK para probar Muse de forma conjunta en su sandbox, según Colin Payne, jefe de innovación de la Financial Conduct Authority (FCA). Los reguladores de UK, incluidos los organismos de competencia y de datos, han advertido a Meta que debe garantizar que sus productos de AI cumplan las leyes de protección del consumidor de UK."
+              },
+              {
+                "t": "p",
+                "x": "La FCA quiere entender en especial cómo realizarán los pagos los agentes, ya que minoristas como Sainsbury's, Marks & Spencer, Ocado, Debenhams Group y Currys dijeron que habían trabajado con Meta para facilitar el acceso de Muse a sus sitios. “Si un agente actúa de forma autónoma, queremos asegurarnos de que lo hace en interés del consumidor”, dice Payne. Señaló que preparar las pruebas habría llevado tiempo, pero Meta no informó a la FCA de sus planes hasta el mes pasado."
+              },
+              {
+                "t": "p",
+                "x": "“Hemos colaborado de forma constructiva con las autoridades reguladoras pertinentes y seguiremos haciéndolo”, dijo a WIRED el portavoz de Meta Matthew Pollard. Más de 10 millones de usuarios han configurado Muse en Norteamérica desde su lanzamiento en septiembre. La CMA ya obligó a Meta a adaptar sus condiciones en UK y afirmó: “Si tenemos inquietudes, no dudaremos en actuar para proteger a los consumidores de UK”."
               }
             ]
           }
@@ -1777,185 +1597,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "EU, AI 기가팩토리\n신청 마감 또 연기",
-          "body": "EuroHPC JU가 EU AI 기가팩토리 마감을 12월 3일에서 30일로 미뤘다.",
-          "mini_headline": "EU AI 기가팩토리 또 지연",
+          "headline": "UK 금융당국 “Meta,\nMuse 시험 거부했다”",
+          "body": "FCA는 결제·자율성을 보려던 Muse 공동 시험을 Meta가 거절했다고 밝혔다.",
+          "mini_headline": "Meta, FCA의 Muse 시험 거부",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "이 프로젝트가 지금까지 겪은 차질은 적어도 다섯 번째다"
-              },
-              {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
+                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
               },
               {
                 "t": "p",
-                "x": "프로젝트 웹사이트에 따르면 EU가 대형 AI 데이터센터인 AI 기가팩토리 건설 프로젝트를 또다시 미뤘다."
+                "x": "금융행위감독청(FCA) 혁신 책임자 콜린 페인(Colin Payne)에 따르면 Meta는 지난주 UK 금융당국이 자체 샌드박스에서 Muse를 공동 시험하자고 한 제안을 거절했다. 경쟁·데이터 감독기관을 포함한 UK 규제당국들은 Meta에 자사 AI 제품이 UK 소비자보호법을 준수하도록 해야 한다고 경고해 왔다."
               },
               {
                 "t": "p",
-                "x": "이번 지연은 프로젝트가 잇따라 겪어 온 차질 가운데 가장 최근 사례다. 이 프로젝트는 Ursula von der Leyen 집행위원장이 2025년 2월 처음 제안했지만 이후 적어도 다섯 차례 늦춰졌다. EU는 제안된 프로젝트 가운데 실제로 추진할 사업을 아직 고르고 있다."
+                "x": "FCA는 특히 에이전트가 결제를 어떻게 처리할지 파악하려 한다. Sainsbury's, Marks & Spencer, Ocado, Debenhams Group, Currys 등 소매업체들이 Muse가 자사 사이트에 원활히 접근하도록 Meta와 협력해 왔다고 밝혔기 때문이다. 페인은 “에이전트가 자율적으로 행동한다면 그것이 소비자에게 이익이 되는지 확인하고 싶다”고 말한다. 그는 시험 준비에 시간이 걸렸겠지만 Meta가 지난달에야 FCA에 계획을 알렸다고 지적했다."
               },
               {
                 "t": "p",
-                "x": "EU 슈퍼컴퓨터를 운영하는 EuroHPC JU는 수요일, 국가와 기업이 대형 AI 기가팩토리 건설을 신청하는 마감일을 12월 3일에서 12월 30일로 늦췄다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "지난달에는 이미 소형 기가팩토리 건설 신청 마감을 내년 2월로 미뤘다."
-              },
-              {
-                "t": "p",
-                "x": "EU AI Office를 이끄는 Lucilla Sioli는 이번 지연이 “매우 제한적”이라고 옹호하며, EU가 참여국 정부와 행정 절차를 정리해야 한다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "그는 이달 초 “프로젝트 규모와 이런 대형 프로젝트를 꾸리는 데 시간이 걸린다는 점을 고려하면, 이번 지연이 큰 차이를 만든다고 주장하기는 어렵다고 본다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "절차 개시 자체도 앞서 2025년 12월에서 올여름으로 밀린 바 있다."
+                "x": "Meta 대변인 매슈 폴러드(Matthew Pollard)는 WIRED에 “관련 규제당국과 건설적으로 소통해 왔으며 앞으로도 그럴 것”이라고 말했다. 9월 출시 이후 북미에서 Muse를 설정한 사용자는 10M 명이 넘는다. CMA는 이미 Meta가 UK 이용약관을 조정하게 했으며 “우려가 있다면 UK 소비자를 보호하기 위해 주저 없이 조치하겠다”고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU、AIギガファクトリー\n申請期限を再び延期",
-          "body": "EuroHPC JUはEUのAIギガファクトリー申請期限を12月3日から30日に延期した。",
-          "mini_headline": "EUのAIギガファクトリー、また遅延",
+          "headline": "UK金融当局「Metaが\nMuse試験を拒否」",
+          "body": "FCAは、決済と自律性を見極めたいとしたMuseの共同試験をMetaが断ったと明かした。",
+          "mini_headline": "Meta、FCAのMuse試験を拒否",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "計画のつまずきはこれで少なくとも五度目となる"
-              },
-              {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
+                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
               },
               {
                 "t": "p",
-                "x": "プロジェクトのウェブサイトによると、EUは大規模AIデータセンターである「AIギガファクトリー」の建設計画を再び延期した。"
+                "x": "金融行為規制機構（FCA）のイノベーション責任者コリン・ペイン（Colin Payne）氏によると、Metaは先週、UKの金融規制当局が同局のサンドボックスでMuseを共同試験しようと提案したのを断った。競争・データ監督機関を含むUKの規制当局は、MetaのAI製品がUKの消費者保護法を順守するよう確保すべきだと警告してきた。"
               },
               {
                 "t": "p",
-                "x": "今回の延期は、計画が続けて見舞われてきたつまずきの最新例だ。計画はUrsula von der Leyen欧州委員長が2025年2月に打ち出したが、その後少なくとも五回延期されている。EUは提案されたプロジェクトのうち、実際にどれを進めるかをまだ選定している。"
+                "x": "FCAが特に知りたいのは、エージェントがどのように決済するかだ。Sainsbury's、Marks & Spencer、Ocado、Debenhams Group、Currysなどの小売業者が、Museが自社サイトに円滑にアクセスできるようMetaと協力してきたと明らかにしているためだ。「エージェントが自律的に動くのであれば、それが消費者の利益になっているかを確かめたい」とペイン氏は言う。同氏は、試験の準備には時間がかかったはずだが、Metaが計画をFCAに伝えたのは先月になってからだと指摘した。"
               },
               {
                 "t": "p",
-                "x": "EUのスーパーコンピューターを運営するEuroHPC JUは水曜日、国や企業が大型AIギガファクトリーの建設を申請する期限を12月3日から12月30日に繰り下げたと記した。"
-              },
-              {
-                "t": "p",
-                "x": "先月には、小型ギガファクトリーの建設申請期限をすでに来年2月に延期していた。"
-              },
-              {
-                "t": "p",
-                "x": "EUのAI Officeを率いるLucilla Sioli氏は、この延期を「ごく限定的」だと擁護し、EUは参加国政府との行政手続きに対応する必要があると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "同氏は今月初め、「計画の規模や、これほど大きな計画の立ち上げに時間がかかることを考えれば、今回の延期が大きな違いを生むと主張することはできないと思う」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "手続きの開始自体も、以前に2025年12月から今夏へとずれ込んでいた。"
+                "x": "Metaの広報担当マシュー・ポラード（Matthew Pollard）氏はWIREDに「適切な規制当局と建設的に対話してきたし、今後もそうする」と語った。9月の公開以来、北米でMuseを設定したユーザーは10M 人を超える。CMAはすでにMetaにUKの利用規約を修正させており、「懸念があれば、UKの消費者を守るためにためらわず行動する」としている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU再度推迟AI超级工厂\n申请截止日期",
-          "body": "EuroHPC JU将EU AI超级工厂申请截止日期从12月3日推迟至12月30日。",
-          "mini_headline": "EU AI超级工厂再度延期",
+          "headline": "UK金融监管机构称\nMeta拒绝Muse测试",
+          "body": "FCA称，Meta拒绝联合测试Muse智能体，而FCA希望了解其支付与自主性。",
+          "mini_headline": "Meta拒绝FCA的Muse测试",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "这至少是该项目迄今遭遇的第五次挫折"
-              },
-              {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
+                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
               },
               {
                 "t": "p",
-                "x": "根据项目网站，EU再次推迟了建设AI超级工厂（即大型AI数据中心）的项目。"
+                "x": "据金融行为监管局（FCA）创新主管科林·佩恩（Colin Payne）称，Meta上周拒绝了UK金融监管机构提出的利用其沙盒联合测试Muse的建议。包括竞争和数据监管机构在内的UK监管部门已警告Meta，须确保其AI产品遵守UK消费者保护法。"
               },
               {
                 "t": "p",
-                "x": "这是该项目一系列挫折中的最新一次。欧盟委员会主席Ursula von der Leyen最初于2025年2月提出该项目，此后已至少推迟五次。EU仍在挑选真正要推进的提案项目。"
+                "x": "FCA尤其希望了解智能体将如何进行支付，因为Sainsbury's、Marks & Spencer、Ocado、Debenhams Group和Currys等零售商表示，它们一直在与Meta合作，让Muse更顺畅地访问其网站。佩恩说：“如果智能体是在自主行事，我们希望确保它符合消费者的利益。”他指出，测试需要时间来筹备，但Meta直到上个月才让FCA知悉其计划。"
               },
               {
                 "t": "p",
-                "x": "负责运营EU超级计算机的机构EuroHPC JU周三表示，各国和企业申请建设大型AI超级工厂的截止日期已从12月3日推迟至12月30日。"
-              },
-              {
-                "t": "p",
-                "x": "上个月，该机构已将申请建设小型超级工厂的截止日期推迟到明年2月。"
-              },
-              {
-                "t": "p",
-                "x": "EU AI Office负责人Lucilla Sioli曾为这次推迟辩护，称其“非常有限”，并表示欧盟需要与参与国政府处理行政程序。"
-              },
-              {
-                "t": "p",
-                "x": "她本月早些时候说：“考虑到项目的规模，以及建立如此大型的项目本身也需要时间，我认为很难说这次推迟会带来任何重大影响。”"
-              },
-              {
-                "t": "p",
-                "x": "此前，程序本身的启动也已从2025年12月推迟到今年夏天。"
+                "x": "Meta发言人马修·波拉德（Matthew Pollard）对WIRED表示：“我们一直与相关监管机构进行建设性沟通，并将继续这样做。”自9月推出以来，北美已有超过10M 名用户设置了Muse。CMA已促使Meta调整其UK条款，并表示：“如果我们有担忧，将毫不犹豫地采取行动保护UK消费者。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La UE (EU) aplaza otra vez\nel plazo de sus gigafactorías AI",
-          "body": "EuroHPC JU trasladó el plazo para las gigafactorías de AI de la UE (EU) del 3 de diciembre al 30 de diciembre.",
-          "mini_headline": "Nuevo retraso de las gigafactorías AI de la EU",
+          "headline": "Regulador financiero de UK:\nMeta rechazó probar Muse",
+          "body": "La FCA dice que Meta declinó probar en conjunto el agente Muse, cuyos pagos y autonomía quiere entender.",
+          "mini_headline": "Meta rechazó la prueba de Muse de la FCA",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Es al menos el quinto revés que sufre el proyecto hasta ahora"
-              },
-              {
                 "t": "img",
-                "src": "https://www.rapporteur.com/content/uploads/2026/11/GettyImages-2229759165-1182x788.jpg"
+                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
               },
               {
                 "t": "p",
-                "x": "La UE (EU) ha vuelto a retrasar su proyecto para construir gigafactorías de AI, es decir, grandes centros de datos de AI, según la web del proyecto."
+                "x": "Meta rechazó la semana pasada una propuesta del regulador financiero de UK para probar Muse de forma conjunta en su sandbox, según Colin Payne, jefe de innovación de la Financial Conduct Authority (FCA). Los reguladores de UK, incluidos los organismos de competencia y de datos, han advertido a Meta que debe garantizar que sus productos de AI cumplan las leyes de protección del consumidor de UK."
               },
               {
                 "t": "p",
-                "x": "El retraso es el último de una serie de reveses para el proyecto, que la presidenta de la Comisión, Ursula von der Leyen, presentó en febrero de 2025 y que desde entonces se ha retrasado al menos cinco veces. La EU sigue seleccionando cuáles de los proyectos propuestos quiere llevar a cabo realmente."
+                "x": "La FCA quiere entender en especial cómo realizarán los pagos los agentes, ya que minoristas como Sainsbury's, Marks & Spencer, Ocado, Debenhams Group y Currys dijeron que habían trabajado con Meta para facilitar el acceso de Muse a sus sitios. “Si un agente actúa de forma autónoma, queremos asegurarnos de que lo hace en interés del consumidor”, dice Payne. Señaló que preparar las pruebas habría llevado tiempo, pero Meta no informó a la FCA de sus planes hasta el mes pasado."
               },
               {
                 "t": "p",
-                "x": "El organismo que gestiona los superordenadores de la EU, la EuroHPC JU, indicó el miércoles que el plazo para que países y empresas soliciten construir grandes gigafactorías de AI se había trasladado del 3 de diciembre al 30 de diciembre."
-              },
-              {
-                "t": "p",
-                "x": "El mes pasado ya había aplazado hasta febrero del año próximo el plazo para solicitar la construcción de gigafactorías pequeñas."
-              },
-              {
-                "t": "p",
-                "x": "Lucilla Sioli, directora de la AI Office de la EU, había defendido este retraso como “muy limitado” y dijo que el bloque debía resolver procesos administrativos con los gobiernos participantes."
-              },
-              {
-                "t": "p",
-                "x": "“No creo que se pueda argumentar –dado el tamaño del proyecto y el hecho de que también lleva tiempo poner en marcha un proyecto tan grande– que este retraso vaya a suponer una diferencia significativa”, dijo a principios de este mes."
-              },
-              {
-                "t": "p",
-                "x": "El propio inicio del procedimiento ya se había desplazado de diciembre de 2025 a este verano."
+                "x": "“Hemos colaborado de forma constructiva con las autoridades reguladoras pertinentes y seguiremos haciéndolo”, dijo a WIRED el portavoz de Meta Matthew Pollard. Más de 10 millones de usuarios han configurado Muse en Norteamérica desde su lanzamiento en septiembre. La CMA ya obligó a Meta a adaptar sus condiciones en UK y afirmó: “Si tenemos inquietudes, no dudaremos en actuar para proteger a los consumidores de UK”."
               }
             ]
           }

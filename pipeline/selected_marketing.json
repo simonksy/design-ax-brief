@@ -1,96 +1,101 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "marketing",
   "items": [
     {
-      "title": "Reddit's new recipe for ad growth: search, shopping, and AI agents",
-      "url": "https://www.businessinsider.com/reddit-ad-growth-plans-search-shopping-ai-agents-2026-11",
-      "source": "Business Insider",
-      "published_iso": "2026-11-25T13:00:00+00:00",
-      "og_image": "https://i.insider.com/6b05accbd6c5d341c9b4caea?width=1200&format=jpeg",
-      "excerpt": "Reddit COO Jen Wong says Reddit will test an MCP server and agent-to-agent ad buying inside its Reddit Max automated buying platform next year, alongside search and shopping ad growth.",
       "tool": "Marketing",
+      "category": "marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "Concrete plan for agent-to-agent ad buying and an MCP server on a major ad platform — changes how buyers will plan Reddit spend."
+      "title": "ChatGPT Ads New Call-To-Actions, Business Agents Expand, More Audience Metrics & More",
+      "url": "https://www.seroundtable.com/chatgpt-ads-updates-42623.html",
+      "source": "Search Engine Roundtable",
+      "published_iso": "2026-11-25T17:40:00-05:00",
+      "og_image": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+      "excerpt": "OpenAI's ChatGPT Ads product update: Business Agents expand outside the U.S., a new 'learn more' CTA on single-image ads, more audience metrics in Ads Manager and the Ads API, an option to hide product-feed sale prices after a promotion ends, and new policy changes.",
+      "rationale": "New ChatGPT Ads release (reach/frequency metrics, CTA, Business Agents outside US) that changes how buyers report and build ads; single pick for the SER/PPC Land/SEJ cluster."
     },
     {
-      "title": "AI agents linked to Amazon Ads get an optional upgrade on December 8",
-      "url": "https://ppc.land/ai-agents-linked-to-amazon-ads-get-an-optional-upgrade-on-december-8/",
-      "source": "PPC Land",
-      "published_iso": "2026-11-25T21:34:12+01:00",
-      "og_image": "https://ppc.land/content/images/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg",
-      "excerpt": "Agent builders connected to Amazon Ads' MCP server get an optional protocol upgrade on December 8; older protocol versions keep working with no end date.",
       "tool": "Marketing",
+      "category": "marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Dated, actionable change for teams running agents against the Amazon Ads MCP server."
+      "title": "AI Agent Traffic to Surge 150x This Cyber Week, Driven Mostly by Meta Muse",
+      "url": "https://www.adweek.com/commerce/ai-agent-traffic-to-surge-150x-this-cyber-week-driven-mostly-by-meta-muse/",
+      "source": "ADWEEK",
+      "published_iso": "2026-11-25T09:13:52-05:00",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=600&h=315&crop=1",
+      "excerpt": "New data forecasts AI-agent traffic to retail sites surging 150x over Cyber Week, with Meta's Muse personal assistant accounting for the vast majority of agent-led site requests.",
+      "rationale": "Fresh Cyber Week forecast quantifying agent-led retail traffic; the only Muse-centric marketing item, and it is new data, not the Walmart/Amazon/UK Muse stories."
     },
     {
-      "title": "어도비 마케팅 AI 에이전트, 챗GPT·클로드에서 쓴다",
-      "url": "https://www.sedaily.com/article/20118433",
-      "source": "서울경제",
-      "published_iso": "2026-11-25T05:00:00+09:00",
-      "og_image": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_Z1.jpg",
-      "excerpt": "Adobe is making its marketing AI agents usable inside ChatGPT and Claude so marketers can plan and analyze campaigns without opening Adobe apps.",
       "tool": "Marketing",
+      "category": "marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "New release: Adobe's campaign-planning agents now run inside ChatGPT and Claude — a workflow shift for marketers; adds a Korean-language outlet."
+      "title": "In Graphic Detail: How shoppers are adopting AI for product research ahead of Black Friday",
+      "url": "https://digiday.com/marketing/in-graphic-detail-how-shoppers-are-adopting-ai-for-product-research-ahead-of-black-friday/",
+      "source": "Digiday",
+      "published_iso": "2026-11-25T05:01:00+00:00",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg",
+      "excerpt": "Data on how shoppers use AI chatbots for product discovery ahead of Black Friday, leaving marketers unsure how to shift spend and tactics for the biggest sales period of the year.",
+      "rationale": "Shopper-adoption data tied directly to holiday spend allocation decisions; distinct dataset from previously carded Salesforce/Clarity studies."
     },
     {
-      "title": "AI Shopping Agents Bought A Fake Deal 37% Of The Time – Claude Opus Never Did",
-      "url": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/",
-      "source": "Search Engine Journal",
-      "published_iso": "2026-11-25T20:00:32+00:00",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp",
-      "excerpt": "Nine AI models went Christmas shopping 6,156 times. They bought an obviously fake deal 37% of the time. Only Claude Opus never did.",
       "tool": "Marketing",
+      "category": "marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "Fresh large-sample study on how shopping agents respond to promotions — directly relevant to Cyber Week pricing and promo tactics."
+      "title": "\"10만원 이하 난방기 찾아줘\"…다나와, 챗GPT로 AI 쇼핑 확대",
+      "url": "https://www.news1.kr/industry/sb-founded/6365520",
+      "source": "뉴스1",
+      "published_iso": "2026-11-25T13:58:22+09:00",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
+      "excerpt": "Danawa connected live product and price data to ChatGPT via an MCP service after Claude; 74% of its generative-AI-referred traffic already comes from ChatGPT.",
+      "rationale": "Concrete Korean commerce launch putting live price/product data into ChatGPT via MCP, with a hard traffic figure; adds Korean-market and outlet diversity."
     },
     {
-      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "source": "TechCrunch",
-      "published_iso": "2026-11-25T14:10:18+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-      "excerpt": "Amazon and Meta are discussing a potential deal to end a two-month blockade of Meta's Muse shopping agent on Amazon's store; advertising and search placement are reported as key sticking points.",
       "tool": "Marketing",
+      "category": "marketing",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "The one Muse pick for today: a new development (deal talks) where ad and search placement are the bargaining chips in agentic commerce."
+      "title": "IAB Europe gives publishers a 90-day plan for AI bots, deals and ads",
+      "url": "https://ppc.land/iab-europe-gives-publishers-a-90-day-plan-for-ai-bots-deals-and-ads/",
+      "source": "PPC Land",
+      "published_iso": "2026-11-26T20:46:24+01:00",
+      "og_image": "https://ppc.land/content/images/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
+      "excerpt": "IAB Europe's agentic-web playbook has publishers score 12 areas out of 36 points, set rules for seven AI uses and weigh six ways to charge AI agents and bots, with no prices given.",
+      "rationale": "New industry-body release on how sell-side handles AI agents, deals and ad monetisation; trade-standard document, distinct from the IAB US attribution blueprint (11-14)."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.businessinsider.com/reddit-ad-growth-plans-search-shopping-ai-agents-2026-11": {
+      "https://www.seroundtable.com/chatgpt-ads-updates-42623.html": {
+        "verdict": "follow-up",
+        "nearest": "https://www.seroundtable.com/chatgpt-ads-update-42427.html",
+        "new_action": "New OpenAI ChatGPT Ads release: nine audience metrics incl. reach/frequency in Ads Manager and Ads API, 'learn more' CTA on single-image ads, Business Agents expand outside the U.S., option to hide post-promo sale prices, policy changes."
+      },
+      "https://www.adweek.com/commerce/ai-agent-traffic-to-surge-150x-this-cyber-week-driven-mostly-by-meta-muse/": {
         "verdict": "new",
-        "nearest": "https://www.adexchanger.com/marketers/reddit-taps-qloo-to-strengthen-its-predictive-targeting/",
+        "nearest": "https://ppc.land/ai-agent-traffic-is-now-a-two-company-town-meta-and-openai/",
         "new_action": ""
       },
-      "https://ppc.land/ai-agents-linked-to-amazon-ads-get-an-optional-upgrade-on-december-8/": {
+      "https://digiday.com/marketing/in-graphic-detail-how-shoppers-are-adopting-ai-for-product-research-ahead-of-black-friday/": {
         "verdict": "new",
-        "nearest": "https://ppc.land/google-ads-mcp-server-gains-4-write-tools-still-cant-change-budgets/",
+        "nearest": "https://ppc.land/tiktok-shop-ai-estimates-extra-orders-per-listing-fix-ahead-of-black-friday/",
         "new_action": ""
       },
-      "https://www.sedaily.com/article/20118433": {
+      "https://www.news1.kr/industry/sb-founded/6365520": {
         "verdict": "new",
-        "nearest": "https://ppc.land/supermetrics-lets-claude-build-ad-campaigns-on-6-platforms-paused-by-default/",
+        "nearest": "https://www.etnews.com/20261115000021",
         "new_action": ""
       },
-      "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/": {
+      "https://ppc.land/iab-europe-gives-publishers-a-90-day-plan-for-ai-bots-deals-and-ads/": {
         "verdict": "new",
-        "nearest": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
-        "new_action": ""
-      },
-      "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/": {
-        "verdict": "new",
-        "nearest": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+        "nearest": "https://www.iab.com/news/iab-releases-ai-era-attribution-blueprint/",
         "new_action": ""
       }
     },
-    "note": "Dropped: #7 Meta Newsroom 'Muse in the UK' (already covered via 11-25 politics ICO card, per brief); #16 Verge Google AI video feeds patent (assigned to movies); #6 PPC Land 'Amazon blocks 20 of 24 AI agents' (brief: keep at most one of it vs TechCrunch Amazon-Meta talks; also overlaps 11-25 Digiday 'Amazon blocking OpenAI crawlers' and 11-22 PPC Land Amazon AI-answers share); #1 ADWEEK Muse 150x traffic and #13 CNBC Muse/Instagram ad boost (max one Muse item; also close to 11-14 PPC Land 'agent traffic two-company town'); #9 ADWEEK Ask Target (likely the same assistant as 11-20 Retail Dive 'Target's AI shopping assistant is driving sales'); #11 Salesforce ANZ Cyber Week data (regional rehash of 11-15 Salesforce AI-first holiday data); #3 SEJ ChatGPT Ads results (advice/analysis, no new event; adjacent to 11-03 and 11-24 ChatGPT ads cards); #10 SER Google Ads dynamic conversion values (liaison comment, AI incidental); #15 DC360 Adobe holiday spend and #8 Digiday shopper AI adoption (general holiday data, AI not the driver). Five distinct outlets in the final picks."
+    "note": "Dropped: PPC Land 'ChatGPT ad reports add 9 metrics' (cluster c0, same release as the SER pick); SEJ 'no prompt-level reports' (same story as Adweek 11-24 hidden-queries card); SEJ '100,000 advertisers' (madtimes 11-19 already carded the 100k milestone; rest is commentary); Adweek Target 'Ask Target' (same assistant as Retail Dive 11-20); PPC Land Google AI-TV patent (published in movies 11-26); Paypers Meta Muse UK (covered 11-25 politics ICO); etnews Apple Siri FTC (assigned to politics); Hankyung Black Friday agents (Amazon-Muse talks = TechCrunch 11-26). Not picked: Paypers Natural Accept (payments plumbing/vendor launch), Hankyung 무인화 column (analysis, overlaps fnnews 11-09 theme), Salesforce ANZ (regional cut of the 11-15 Salesforce AI-first holiday survey). Cross-section published_urls.json was not exact-grepped (Read-only tools); orchestrator should run the archive key-term scan."
   }
 }

@@ -5780,6 +5780,110 @@
           "x": "The hospital's readmission ranking among 114 academic medical centers rose from 59th in 2022 to 7th in 2024. \"We've done this without any additional resources,\" Campbell said."
         }
       ]
+    },
+    "medicine/medicine-stanford-or-vision": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Validation of Computer Vision in the Operating Room for Ambient Documentation — a JAMA Surgery Research Letter (AI in Surgery) from Stanford University School of Medicine. This study aims to validate ambient timestamp documentation for a variety of procedures in the operating room."
+        },
+        {
+          "t": "p",
+          "x": "The authors note that many of the events worth documenting rely on visual cues, such as patient entry and exit, yet real-world implementation and validation studies remain scarce. They present their single-center experience validating ambient timestamp documentation in the OR across a range of procedures, and describe the governance framework that enabled its implementation."
+        }
+      ]
+    },
+    "medicine/dcmc-voice-emr-upgrade": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/546538"
+        },
+        {
+          "t": "p",
+          "x": "Daegu Catholic University Medical Center said on the 26th that it has upgraded Voice EMR (Voice Electronic Medical Record), its artificial intelligence (AI) speech-recognition solution for writing medical records."
+        },
+        {
+          "t": "p",
+          "x": "In 2024 the medical center became the first in the Daegu-Gyeongbuk region to introduce Voice EMR, running it in departments including radiology and nuclear medicine. The previous system focused on converting clinicians' speech into text or on summarizing and generating consultation content."
+        },
+        {
+          "t": "p",
+          "x": "The upgraded Voice EMR selects medically meaningful information from conversations between clinicians and patients during consultations, then automatically generates medical records in each clinician's format. The medical center explained that clinicians now carry less of the burden of repetitive typing and documentation, and can use the time once spent recording while looking at a monitor to check on patients and talk with them."
+        },
+        {
+          "t": "p",
+          "x": "A professor who has used the system in actual clinical practice said that while measuring a patient's physical condition, they can now watch the patient more closely instead of the monitor."
+        },
+        {
+          "t": "p",
+          "x": "The medical center also runs Voice ENR (Voice Electronic Nursing Record), a voice-based electronic nursing record system, on its inpatient wards. Voice ENR is a smartphone-based speech-recognition solution that supports checking patient information and recording and storing nursing activities in real time. It is currently used in patient identification procedures before medication, blood draws, transfusions, tests and procedures. The medical center plans to develop and apply a range of further functions in stages."
+        },
+        {
+          "t": "p",
+          "x": "Professor Seol Ki-ho, deputy director of planning, stressed, “A smart hospital is not simply about increasing the number of AI systems, but about using AI technology to change how the hospital works and its care environment,” adding, “These changes must lead to tangible results: better patient safety, quality of care, administrative efficiency and patient experience.”"
+        }
+      ]
+    },
+    "medicine/korotkoff-hf-deeplearning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Background: Korotkoff sounds (KS) are routinely generated during blood pressure measurement, but their potential value for heart failure (HF) detection remains unclear. Aims: To evaluate the diagnostic performance of deep learning-based KS analysis for HF detection in cardiovascular inpatients."
+        },
+        {
+          "t": "p",
+          "x": "Methods: This prospective multicentre diagnostic study enrolled 1,103 cardiovascular inpatients from four centres in China, including 314 (28.5%) with HF. Participants were assigned by centre to training (n=420), validation (n=287), and independent test (n=396) cohorts. Four deep learning models—Mamba, Transformer, ResNet18, and MobileNetV2—were developed using patient-level KS recordings. Performance was assessed by AUC, with sensitivity analyses in NYHA class I participants and after exclusion of atrial fibrillation (AF)."
+        },
+        {
+          "t": "p",
+          "x": "Results: Mamba achieved the best performance, with AUCs of 0.947 (95% CI, 0.926–0.967), 0.937 (0.912–0.961), and 0.924 (0.893–0.951) in the training, validation, and independent test cohorts, respectively. In NYHA class I participants, corresponding AUCs were 0.940, 0.937, and 0.947. After excluding AF, AUCs were 0.937, 0.895, and 0.954, respectively."
+        },
+        {
+          "t": "p",
+          "x": "Conclusions: Deep learning-based KS analysis showed strong discrimination between HF and non-HF among cardiovascular inpatients. These findings support further evaluation of KS-derived acoustic information as a non-invasive adjunct for HF case-finding; validation in lower-prevalence community settings is required before its use for population screening or stand-alone rule-out."
+        }
+      ]
+    },
+    "medicine/npj-strep-throat-multimodal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Distinguishing Group A streptococcus (GAS) pharyngitis from viral upper respiratory tract infections (URTIs) is critical for appropriate antibiotic use but remains difficult on symptoms alone. We developed and internally validated a multimodal artificial intelligence (AI) model fusing pharyngeal images (Swin Transformer) with clinical metadata via gradient boosting decision trees, using 6666 visits and 119,988 images from 44 facilities collected March 2023–August 2025. For discriminating GAS from non-GAS (influenza A/B, COVID-19), the fusion model achieved area under the curve (AUC) 0.917 (95% confidence interval 0.907–0.926), outperforming image-only (0.902), metadata-only (0.871) and proxy Centor/McIsaac scores. At a pre-specified high-specificity threshold (≥0.90) sensitivity was 0.761; simulations indicated antibiotic-prescription reductions of 23–56% across GAS prevalences of 5–20%. External validation and prospective evaluation are needed."
+        }
+      ]
+    },
+    "medicine/mediwhale-doctornoon-cvd-fda": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/546012"
+        },
+        {
+          "t": "p",
+          "x": "Medical artificial intelligence (AI) company Mediwhale said on the 25th that its retina-based cardiovascular disease risk prediction AI software, ‘DrNoon CVD’, has obtained 510(k) Clearance from the U.S. Food and Drug Administration (FDA). The company plans to use the clearance as a foothold to push in earnest for adoption of DrNoon CVD by U.S. medical institutions."
+        },
+        {
+          "t": "p",
+          "x": "DrNoon CVD is a medical device that uses AI to analyze retinal images taken with a fundus camera and assess the risk of future cardiovascular disease. It was cleared by the FDA to estimate, by analyzing retinal images, the risk of a first atherosclerotic cardiovascular disease (ASCVD) event within the next 10 years."
+        },
+        {
+          "t": "p",
+          "x": "Results are presented as a risk score and 3 risk tiers. Clinicians can review them alongside the patient's other clinical information and use them as supplementary information for cardiovascular risk assessment."
+        },
+        {
+          "t": "p",
+          "x": "In the U.S., preventive approaches that assess and manage cardiovascular risk at an early stage have been gaining importance. The 2026 American College of Cardiology and American Heart Association dyslipidemia guideline also stresses early management based on individual risk assessment."
+        },
+        {
+          "t": "p",
+          "x": "The company expects DrNoon CVD to serve as a cardiovascular risk assessment tool for U.S. clinicians and contribute to preventing cardiovascular disease. The idea is to offer an approach that assesses cardiovascular risk through non-invasive retinal imaging and links it to preventive care. It also set a goal of establishing the product as an entry point for cardiovascular disease prevention in U.S. primary care settings (tier 1 care)."
+        },
+        {
+          "t": "p",
+          "x": "“U.S. medical practice now has a new option to identify cardiovascular risk at low cost, without blood draws or radiation,” said Mediwhale CEO Choi Tae-geun. “On top of evidence proven in large cohorts, we will add real-world data from the U.S. and roll it out quickly to primary care settings through our partners' infrastructure.”"
+        }
+      ]
     }
   }
 }
