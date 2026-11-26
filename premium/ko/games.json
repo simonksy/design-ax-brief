@@ -17532,6 +17532,144 @@
           "x": "Nsight Graphics 2026.4와 Nsight Systems 2026.6에는 DLSS Frame Generation 분석과 에이전트형 AI 도구가 더해졌다. 새 Nsight Graphics MCP 서버를 쓰면 호환 AI 에이전트가 애플리케이션을 캡처해 디버그하고 GPU 트레이스까지 분석한다."
         }
       ]
+    },
+    "games/unity-spark-annotate": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "QmX2VKa1_24"
+        },
+        {
+          "t": "p",
+          "x": "무엇을 어디에 둘지 말로만 설명하지 않아도 된다. 장면에 직접 그리고 고르고 가리키며 주석을 달면 된다."
+        },
+        {
+          "t": "p",
+          "x": "Unity Spark의 Annotate 기능으로 게임 장면이나 작업 공간 어디에든 주석을 달면, Unity Spark가 필요로 하는 시각 맥락을 정확히 건넬 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Unity Spark 비공개 베타 대기자 명단 신청: https://on.unity.com/4CmmUb7"
+        }
+      ]
+    },
+    "games/tlou2-ai-multiplayer-mod": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "또 다른 모더가 AI로 The Last of Us Part 2용 멀티플레이 모드를 만들었다. “설령 나를 막는다 해도” Sony가 할 수 있는 일은 별로 없다는 게 그의 주장이다."
+        },
+        {
+          "t": "p",
+          "x": "Naughty Dog는 The Last of Us Part 2를 토대로 준비하던 멀티플레이 게임 Factions를 취소했다. 9월에는 제작자 'Speclizer'의 기대작 멀티플레이 모드가 공개도 되기 전에 Sony의 중지 요구 서한을 받았다."
+        },
+        {
+          "t": "p",
+          "x": "새 모드 Twelve Weeks는 PC판 The Last of Us Part 2 Remastered 전용이고, 제작자는 생성형 AI를 썼다고 인정했다. 모더 'Kellie'는 게임 개발 대부분을 Claude code로 했고 게임 안 설정 텍스트도 AI로 썼다고 밝혔다. 다만 아트는 Blender로 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "현재 모드에는 Supply Raid와 Interrogation을 다시 꾸민 레벨이 들어 있고, 팀 기반 4v4 전투와 새 무기, 캐릭터 커스터마이징도 있다. 플레이어는 WLF와 Seraphites로 나뉘어 싸운다. Twelve Weeks는 Nexus Mods에서 받을 수 있다. 저장소 면책 문구는 이 모드가 비공식 팬 프로젝트이며 게임 파일도, 게임에서 가져온 에셋도 들어 있지 않다고 밝힌다."
+        },
+        {
+          "t": "p",
+          "x": "Kellie는 YouTube 댓글에서 앞선 Factions 모드가 Sony의 제재를 받은 건 유료로 공개됐기 때문이라고 했다. 그는 “내 모드는 이미 무료 오픈소스로 공개됐다”며 “사람들이 이미 전체 모드의 소스 코드를 갖고 있으니, 설령 나를 막는다 해도 그쪽이 할 수 있는 일은 많지 않다”고 덧붙였다."
+        }
+      ]
+    },
+    "games/umamusume-ai-clone-pulled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "AI로 만든 Umamusume: Pretty Derby(우마무스메 프리티 더비) 아류작이 팬들의 분노를 사고 결국 Google Play Store에서 삭제됐다. 커뮤니티가 힘을 모아 이 게임을 Cygames에 신고했다."
+        },
+        {
+          "t": "video",
+          "yt": "bZ6NL-oPEkI"
+        },
+        {
+          "t": "p",
+          "x": "HIFI Publishers가 만든 Anime Racing Academy는 공식 스토어 설명에 “액션 가득한 애니메이션 레이싱 게임”이라고 소개돼 있었다. Umamusume처럼 인간형 말 소녀를 키우고 경주에 내보내는 게임으로, 디자인 일부는 Umamusume 캐릭터를 바짝 본떴고 일부는 아예 그대로 베낀 듯하다. 호기심에 게임을 열어 본 팬들은 Umamusume와 달리 광고가 잔뜩 붙어 있다고 지적했다."
+        },
+        {
+          "t": "p",
+          "x": "게임을 발견한 Umamusume 팬들은 너도나도 신고해 Google Play Store에서 내리자고 나섰다. 이 글을 쓰는 지금은 실제로 그렇게 된 듯하다. 게임은 더 이상 모바일 플랫폼에서 찾을 수 없다. HIFI Publishers의 다른 게임은 스토어에 그대로 있어, 신고를 받은 이 게임만 내려간 것으로 보인다."
+        }
+      ]
+    },
+    "games/alphadefect-slay-spire2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "파리-사클레 대학의 Qiyue Chen, 뉴사우스웨일스 대학의 Taian Yu, 모하메드 빈 자이드 인공지능 대학의 고미야마 준페이, 홍콩중문대학의 Haobo Huang 등 4명이 11월 24일 공동 논문 「AlphaDefect: Expert-Level AI for Slay the Spire 2」를 냈다. 이 게임의 기존 최고 난이도로 알려진 '승천 10'을 깨는 강화학습 시스템 'AlphaDefect'를 제안한 논문이다. 승천 10에서는 3막 최종 보스가 2체 연전으로 나온다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 게임의 컴파일된 어셈블리를 불러온 뒤 프레젠테이션 계층만 갈아 끼워, 화면에 아무것도 띄우지 않고 AI가 모든 의사결정을 내리는 환경을 꾸렸다. 네트워크는 캐릭터 6명에 하나씩 모두 6개를 두었고, 데이터는 초당 5000~1만 회 속도로 모았다. 25일 동안 전체 캐릭터를 합쳐 총 142억 회의 의사결정을 거쳤다."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "평가 때는 확률이 가장 높은 후보를 고르는 탐욕법을 기본으로 하고, AI가 판단을 망설일 때(최유력 후보의 선택 확률이 90% 미만)만 앞수 읽기를 더했다. 탐욕법만 쓴 승률은 62.2%~76.7%였고, 앞수 읽기를 더하면 캐릭터별로 약 3~6포인트 높아졌다. 디펙트는 80.3%까지 올라갔다."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "비교 기준인 비공식 데이터베이스 'Spire Codex'의 인간 플레이 기록을 보면, 6개 캐릭터의 승천 10 승률은 10.9~19.9%였다. bilibili 라이브 방송에서는 전체 866회 런 가운데 645회를 이겼다. 드레드 모드에서도 디펙트 승률은 16.8%로 인간 플레이어(9.4%)를 앞섰다."
+        },
+        {
+          "t": "p",
+          "x": "탐욕법만 썼을 때 진 판의 47~68%는 3막 최종 보스 2연전에서 무너진 경우였다. 연구팀은 학습 단계에도 앞수 읽기를 들이는 일을 다음 과제로 꼽았다."
+        }
+      ]
+    },
+    "games/eafc-motson-ai-voice": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "전설적인 축구 해설가 John Motson이 오늘 나오는 EA FC 27 타이틀 업데이트에서 AI로 되살아나 시리즈에 돌아온다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+          "cap": "이미지 출처: Getty Images - 사진 Laurence Griffiths/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "2023년 77세로 세상을 떠난 BBC의 전설적 축구 해설가 John \"Motty\" Motson이 \"본인의 원본 음성과, 본인 녹음으로 학습한 AI 재현 음성(AI-recreation)을 섞는\" 방식으로 EA Sports FC 27에 들어간다. 발표에 따르면 \"거의 10년 분량의 게임 내 녹음\"에 \"새로운 AI 도구\"를 더했다. EA 축구 시리즈와 그의 인연은 FIFA Soccer 96까지 거슬러 올라간다."
+        },
+        {
+          "t": "p",
+          "x": "\"아버지는 게임의 목소리가 되는 일을 무척 사랑하셨고, 이 감동적인 헌사로 게임 속에 아버지의 기억을 지켜준 EA Sports FC 팀에 깊이 감사한다\"고 John의 아들 Fred가 말했다. BBC 보도에 따르면 EA는 유족에게 액수를 밝히지 않은 금액을 지급했다."
+        },
+        {
+          "t": "p",
+          "x": "모두가 반기지는 않는다. EA Sports FC 서브레딧에서는 \"수치스럽다\", \"무례하다\", \"역겹다\", \"너무 암울하다\"는 반응이 나왔고, 한 레딧 이용자는 \"우리는 정말 빌어먹게 암울한 세상에 살고 있다\"고 썼다. Save Our Voices Now의 Peter Caulfield은 \"본인이 명시적으로 동의하지 않았다면 어떤 형태의 AI 복제도 허용해서는 안 된다\"고 말했다. Red Hook Studios는 반대로 내레이터 Wayne June의 목소리를 AI로 재현하는 일은 절대 없다고 못 박았다."
+        }
+      ]
     }
   }
 }

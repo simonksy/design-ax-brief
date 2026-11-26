@@ -1,31 +1,7 @@
-{
-  "date": "2026-11-26",
-  "section": "movies",
-  "media": [
-    {
-      "id": "google-mychannel-patent",
-      "type": "image",
-      "src": "pipeline/media/google-mychannel-patent.png"
-    },
-    {
-      "id": "lionsgate-eklavya-ai-series",
-      "type": "image",
-      "src": "pipeline/media/lionsgate-eklavya-ai-series.png"
-    },
-    {
-      "id": "disney-cto-ai-workflow",
-      "type": "image",
-      "src": "pipeline/media/disney-cto-ai-workflow.jpg"
-    },
-    {
-      "id": "maharaja-denims-genai-feature",
-      "type": "image",
-      "src": "pipeline/media/maharaja-denims-genai-feature.jpg"
-    },
-    {
-      "id": "ebs-genai-animation-slot",
-      "type": "image",
-      "src": "pipeline/media/ebs-genai-animation-slot.jpg"
-    }
-  ]
-}
+{"date":"2026-11-27","section":"movies","media":[
+{"id":"luma-brandkit-character-library","type":"video","src":"pipeline/media/luma-brandkit-character-library.mp4","poster":"pipeline/media/luma-brandkit-character-library.jpg"},
+{"id":"movies-microdrama-mpa-20bn","type":"image","src":"pipeline/media/movies-microdrama-mpa-20bn.jpg"},
+{"id":"hazanavicius-third-hand-lesarcs","type":"image","src":"pipeline/media/hazanavicius-third-hand-lesarcs.jpg"},
+{"id":"dw-netflix-german-dubbing-ai","type":"video","src":"pipeline/media/dw-netflix-german-dubbing-ai.mp4","poster":"pipeline/media/dw-netflix-german-dubbing-ai.jpg"},
+{"id":"elevenlabs-collaboration-2026-siff","type":"image","src":"pipeline/media/elevenlabs-collaboration-2026-siff.png"}
+]}

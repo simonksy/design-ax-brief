@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "games",
   "user_selection": null,
   "items": [
@@ -9,13 +9,13 @@
       "category": "games",
       "accent": "#7928ca",
       "motif": "cube",
-      "title": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a touching tribute, but some fans call it gross and bleak",
-      "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
-      "source": "PC Gamer",
-      "published_iso": "2026-11-25T20:23:51Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L-2560-80.jpg",
-      "excerpt": "Legendary football pundit John Motson will return to the series, in AI form, in today",
-      "rationale": "EA ships an AI-recreated voice of the late John Motson in FC 27. It is the biggest AI-voice decision of the week from a top-tier publisher, and the article covers both the estate's consent and the fan backlash."
+      "title": "Ludo.ai launches AI Tileset Generator for 2D games",
+      "url": "https://mobidictum.com/ludo-ai-tileset-generator-2d-games/",
+      "source": "Mobidictum",
+      "published_iso": "2026-11-26T11:11:00+03:00",
+      "og_image": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-game-development-platform-logo.png",
+      "excerpt": "Ludo.ai's Tileset Generator builds 16-tile terrain and line sets for 2D games from a ground description, with top-down and isometric grids, browser testing and engine exports.",
+      "rationale": "A new tool that 2D artists can use tomorrow: it generates engine-ready 16-tile terrain sets in top-down or isometric grids. It is a different product from Ludo's 11-13 open-source agent toolbox."
     },
     {
       "rank": 2,
@@ -23,13 +23,13 @@
       "category": "games",
       "accent": "#0070f3",
       "motif": "cube",
-      "title": "Ubisoft staff must justify not using generative AI in pitches, report claims",
-      "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-11-25T20:19:40+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Ubisoft teams pitching new projects are reportedly being asked to explain how generative AI would help them make games …",
-      "rationale": "A new internal greenlight rule at Ubisoft: pitches have to explain why they do not use genAI. This is a concrete process mandate, not more Motherbrain coverage."
+      "title": "Instead of just describing where things go, you can annotate (draw, select, point) in the scene - Unity Spark Annotate",
+      "url": "https://www.youtube.com/watch?v=QmX2VKa1_24",
+      "source": "Unity (YouTube)",
+      "published_iso": "2026-11-25T05:55:23-08:00",
+      "og_image": "https://i.ytimg.com/vi/QmX2VKa1_24/maxresdefault.jpg",
+      "excerpt": "Unity shows Annotate in Unity Spark: draw, select or point directly on the game scene to give the AI exact visual context instead of describing placement in text; closed-beta waitlist open.",
+      "rationale": "A new Unity Spark feature that lets you draw or point in the scene to direct the AI instead of describing placement in text. It is a real interaction change for level and scene designers, and it comes from the primary source."
     },
     {
       "rank": 3,
@@ -37,13 +37,13 @@
       "category": "games",
       "accent": "#f5a623",
       "motif": "cube",
-      "title": "The Japanese Erotic Visual Novel That's Filled With AI's Prudish Refusals To Translate Explicit Sexual Content",
-      "url": "https://kotaku.com/the-japanese-erotic-visual-novel-thats-filled-with-ais-prudish-refusals-to-translate-explicit-sexual-content-2001000228",
-      "source": "Kotaku",
-      "published_iso": "2026-11-25T11:00:09+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden-1200x675.jpg",
-      "excerpt": "Muv-Luv Girls Gaiden has put out a disastrous English-language version",
-      "rationale": "A shipped commercial localization contains LLM refusal text where the translation should be. It is a concrete failure case for anyone using AI translation in production."
+      "title": "Another Modder Uses AI to Make a Multiplayer Mode for The Last of Us Part 2, Insists There Isn't Much Sony Can Do About It 'Even if They Do Shut Me Down'",
+      "url": "https://www.ign.com/articles/new-multiplayer-mod-for-the-last-of-us-part-2",
+      "source": "IGN",
+      "published_iso": "2026-11-26T11:00:06.408Z",
+      "og_image": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "A modder says they used AI tools to build a multiplayer mode for The Last of Us Part 2 and argues Sony can do little to stop AI-assisted mods even with takedowns.",
+      "rationale": "AI tools let a single modder build a multiplayer mode for a major first-party game, and the modder argues takedowns cannot stop it. It is a concrete new case of AI-assisted modding pushing on IP control."
     },
     {
       "rank": 4,
@@ -51,13 +51,13 @@
       "category": "games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "title": "US Treasury official using Claude to create a Civilization clone tries to shut down worries he's too busy vibecoding during cybersecurity breach: \"The computers are doing it on their own\"",
-      "url": "https://www.gamesradar.com/games/strategy/us-treasury-official-using-claude-to-create-a-civilization-clone-tries-to-shut-down-worries-hes-too-busy-vibecoding-during-cybersecurity-breach-the-computers-are-doing-it-on-their-own/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-11-25T21:41:14Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77-1920-80.jpg",
-      "excerpt": "Sam Corcos is vibe-coding Legatum, a \"historical 4X on a hex map, built for people who love Civilization\"",
-      "rationale": "A senior government official is publicly vibe-coding a 4X game with Claude, which shows how far agent-built games have spread beyond the industry. The story is new and not covered in any section."
+      "title": "Umamusume: Pretty Derby AI clone laden with ads taken off mobile platforms after fans report it en masse to Cygames",
+      "url": "https://www.eurogamer.net/umamusame-pretty-derby-ai-clone-taken-off-mobile-after-reports",
+      "source": "Eurogamer",
+      "published_iso": "2026-11-26T13:15:00+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "An ad-stuffed AI-generated knockoff of Umamusume: Pretty Derby, 'Anime Racing Academy', was struck off mobile storefronts after fans mass-reported it to Cygames.",
+      "rationale": "An actual takedown: an AI-generated knockoff was removed from mobile stores after fans reported it to Cygames. It is a new event in the AI-clone fight, after the 11-14 and 11-24 advice pieces."
     },
     {
       "rank": 5,
@@ -65,43 +65,43 @@
       "category": "games",
       "accent": "#eb367f",
       "motif": "cube",
-      "title": "Clash Royale recruits creator of AI cheating tool to help catch cheaters",
-      "url": "https://www.dexerto.com/gaming/clash-royale-recruits-creator-of-ai-cheating-tool-to-help-catch-cheaters-3430356/",
-      "source": "Dexerto",
-      "published_iso": "2026-11-21T21:15:18.000Z",
-      "og_image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg",
-      "excerpt": "Clash Royale developer Supercell has recruited the creator of an advanced AI cheating tool to help crack down on cheating in the game.",
-      "rationale": "Supercell hired the developer of an AI cheat tool to work on its anti-cheat. This is a concrete new move in AI cheating versus AI detection, and it is a different event from the 11-15 Call of Duty warning."
+      "title": "『Slay the Spire 2』の超難関アセンション10を「80％クリアできるAI」が誕生。142億回の決断と“先読み”で、猛者の領域に",
+      "url": "https://automaton-media.com/articles/newsjp/20261126-481134/",
+      "source": "AUTOMATON",
+      "published_iso": "2026-11-26T08:07:28+00:00",
+      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+      "excerpt": "A research paper proposes AlphaDefect, a reinforcement-learning system trained on 14.2 billion decisions that clears Slay the Spire 2's hardest Ascension 10 about 80% of the time.",
+      "rationale": "A new research result: an RL agent trained on 14.2 billion decisions clears Slay the Spire 2 on Ascension 10 about 80% of the time. That is relevant to balance testing and AI playtesting for deckbuilders."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/": {
+      "https://mobidictum.com/ludo-ai-tileset-generator-2d-games/": {
         "verdict": "new",
-        "nearest": "https://www.pcgamer.com/software/ai/embark-studios-apologizes-for-replacing-esports-casters-with-ai-voices-in-now-deleted-the-finals-video/",
+        "nearest": "https://mobidictum.com/ludo-free-open-source-toolbox-ai-coding-agents/",
         "new_action": ""
       },
-      "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims": {
+      "https://www.youtube.com/watch?v=QmX2VKa1_24": {
         "verdict": "new",
-        "nearest": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
+        "nearest": "https://unity.com/blog/unite-tokyo-2026-keynote-recap",
         "new_action": ""
       },
-      "https://kotaku.com/the-japanese-erotic-visual-novel-thats-filled-with-ais-prudish-refusals-to-translate-explicit-sexual-content-2001000228": {
+      "https://www.ign.com/articles/new-multiplayer-mod-for-the-last-of-us-part-2": {
         "verdict": "new",
-        "nearest": "https://automaton-media.com/en/news/steinsgate-developer-mages-says-ai-translation-is-a-long-way-from-being-viable-for-visual-novels/",
+        "nearest": "https://www.ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
         "new_action": ""
       },
-      "https://www.gamesradar.com/games/strategy/us-treasury-official-using-claude-to-create-a-civilization-clone-tries-to-shut-down-worries-hes-too-busy-vibecoding-during-cybersecurity-breach-the-computers-are-doing-it-on-their-own/": {
+      "https://www.eurogamer.net/umamusame-pretty-derby-ai-clone-taken-off-mobile-after-reports": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
         "new_action": ""
       },
-      "https://www.dexerto.com/gaming/clash-royale-recruits-creator-of-ai-cheating-tool-to-help-catch-cheaters-3430356/": {
+      "https://automaton-media.com/articles/newsjp/20261126-481134/": {
         "verdict": "new",
-        "nearest": "https://gameriv.com/call-of-duty-warns-ai-powered-cheats-are-becoming-harder-to-detect/",
+        "nearest": "https://automaton-media.com/articles/newsjp/20261123-480506/",
         "new_action": ""
       }
     },
-    "note": "Dropped: GamesIndustry.biz EA FC 27/Motson (same story as the PC Gamer pick, cluster c0; brief says keep one). 4Gamer Epic Fortnite Blueprints-to-Verse (same as the 11-22 unrealengine.com UE6 post). Wccftech Apex Neural Rendering DF test (analysis of the Apex launch already published 11-13). Wccftech UE 5.9 Preview 2 (same running story as the 11-11 UE 5.9 preview and 11-22 UE6 AI tooling post; no new standalone announcement). Unity Asset Store + CLI agents (overlaps 11-17 Unity CLI 1.0 and the 11-22 Unite Tokyo AI Asset Library item; broken og_image). Not picked on score: Inworld Voice Isolator (audio tooling with weak game angle, 11-18), inews24 AI & LAW and Inven Global AI cloning (analysis pieces), NVIDIA DLSS 5 Where Winds Meet Q&A (same format as the 11-04 War Thunder DLSS 5 interview), Roblox AI builders blog (corporate overview). Cross-section: a manual check of the politics history and today's pool found no Corcos/Treasury story. published_urls.json is too large to grep with the available tools, so an exact cross-section URL grep was not run. All five pick URLs are dated 11-21 to 11-25 and absent from the games 30-day history_digest. Outlets: 5 distinct (PC Gamer, GamesIndustry.biz, Kotaku, GamesRadar+, Dexerto)."
+    "note": "Dropped as duplicates: GamesRadar+ Ubisoft statement ('not required to use genAI'), a likely-repeat that reacts to the 11-26 GamesIndustry.biz Ubisoft pitch-justification story with no new release. GamesRadar+ TLOU2 modder (same story as the IGN pick, cluster c4). PocketGamer.biz Ludo.ai Tileset (same story as the Mobidictum pick, cluster c9). Unity Asset Store + CLI agents (overlaps 11-17 Unity CLI 1.0 and the 11-22 Unite Tokyo AI Asset Library item; also dropped on 11-26). Not picked on score: Eurogamer 'Games Without AI' Steam event (Eurogamer already has one pick; it is the weaker of the two), Eurogamer Citizen Sleeper creator (commentary), Shift Up WMT 2026 (translation benchmark ranking, weak game angle), 4Gamer Crack G-STAR sponsor interview (interview, business focus), NVIDIA DLSS 5 Where Winds Meet Q&A (same format as the 11-04 War Thunder DLSS 5 interview). Cross-section: published_urls.json is sorted per section and too large to grep with Read-only tools, so an exact all-section grep was not run. None of the picks appears in the brief's cross-section assignment list. Outlets: 5 distinct (Mobidictum, Unity YouTube, IGN, Eurogamer, AUTOMATON)."
   }
 }

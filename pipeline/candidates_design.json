@@ -1,196 +1,187 @@
 {
-  "section": "design",
-  "now_iso": "2026-11-25T22:03:00Z",
-  "window_hours": 72,
-  "items": [
-    {
-      "title": "Nomic extends AI agents into CAD drafting and BIM",
-      "url": "https://aecmag.com/cad/nomic-extends-ai-agents-into-cad-drafting-and-bim/",
-      "source": "AEC Magazine",
-      "category": "cad",
-      "published_iso": "2026-11-25T17:05:37+00:00",
-      "excerpt": "Nomic's AI drawing-review platform now drafts too: describe a drawing in natural language or supply one for revision and the agent returns an editable DWG/DXF file plus a plotted PDF, following company CAD standards (layers, line weights, hatching, dimension styles), and works directly inside Revit and AutoCAD.",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
-    },
-    {
-      "title": "Meet MAGI-2: Sand AI's New Video Model With Built-In Sound, Exclusively on Higgsfield",
-      "url": "https://higgsfield.ai/blog/higgsfield-magi-2",
-      "source": "Higgsfield",
-      "category": "render",
-      "published_iso": "2026-11-25T11:35:00+00:00",
-      "excerpt": "Sand AI's MAGI-2 video model lands exclusively on Higgsfield, generating video and synchronized sound together in 4-30 second clips at 1080p, with reference inputs, settings and pricing documented for creators.",
-      "og_image": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=jpeg,onerror=redirect,width=1200,quality=85/https://cdn.sanity.io/images/s479xw3z/production/f689aa41f411d5bc9ed082194a49c21c7848d5d4-2720x1536.jpg"
-    },
-    {
-      "title": "Higgsfield GPU Harness: Cloud GPUs for Blender, ArtCraft and open models, driven from Claude or ChatGPT",
-      "url": "https://higgsfield.ai/blog/higgsfield-gpu-harness",
-      "source": "Higgsfield",
-      "category": "render",
-      "published_iso": "2026-11-23T21:57:00+00:00",
-      "excerpt": "Higgsfield now rents NVIDIA GPU machines (L40S to B300, 71-197 credits/hour, per-second billing) that open with Blender Studio or ArtCraft ready, and an agent installs Unreal, Houdini, Nuke or Resolve; artists drive the machines through Claude, ChatGPT or Higgsfield Supercomputer. A 62-frame 1080p Cycles render took under 7 minutes on one L40S.",
-      "og_image": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=jpeg,onerror=redirect,width=1200,quality=85/https://cdn.sanity.io/images/s479xw3z/production/53c4bb0a77fa0fbeb75102475c60ce3743a835ad-2336x1322.png"
-    },
-    {
-      "title": "NVIDIA releases open weights for Nemotron-Labs-Image-30B-A3B, an image model that also outputs editable SVG/HTML structure",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
-      "source": "Hugging Face (NVIDIA)",
-      "category": "render",
-      "published_iso": "2026-11-24T21:55:46+00:00",
-      "excerpt": "NVIDIA published the public release snapshot of Nemotron-Labs-Image, a 30B (3B active) autoregressive text-to-image model whose shared interface generates both raster images and editable structure (SVG, HTML/CSS, plots, document markup); NVIDIA's benchmarks put it ahead of GPT Image 2 and Nano Banana Pro on GenEval and text-rendering tests.",
-      "og_image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nvidia/Nemotron-Labs-Image-30B-A3B.png"
-    },
-    {
-      "title": "Canva opens design tools to AI agents and developers",
-      "url": "https://dataconomy.com/2026/11/25/canva-opens-design-tools-to-ai-agents-and-developers/",
-      "source": "Dataconomy",
-      "category": "figma",
-      "published_iso": "2026-11-25T10:18:32+01:00",
-      "excerpt": "Canva made its rebuilt MCP server generally available and launched new APIs, service accounts and a CLI so outside agents can create editable designs, images and short videos, remove backgrounds, layer flat images and resize/export, with its Craft image model exposed via API and MCP; Canva also becomes the design layer inside Claude. (Off-list source: canva.com newsroom 403s. Check marketing-section dup.)",
-      "og_image": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg"
-    },
-    {
-      "title": "MCP servers can now ship skills, run tasks, and more with Claude",
-      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
-      "source": "Claude (Anthropic)",
-      "category": "figma",
-      "published_iso": "2026-11-24T17:53:00+00:00",
-      "excerpt": "Skills over MCP is in public beta in Claude, so MCP servers (including design-tool servers) can ship skills alongside their tools; Tasks and Elicitation are now generally available and File Uploads is rolling out. The Decoder reports MCP SDK downloads topped 700 million a month.",
-      "og_image": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og"
-    },
-    {
-      "title": "Crystal Palace tried to get away with posting AI and fans tore it to shreds",
-      "url": "https://www.creativebloq.com/news/crystal-palace-tried-to-get-away-with-posting-ai-and-fans-tore-it-to-shreds",
-      "source": "Creative Bloq",
-      "category": "workflow",
-      "published_iso": "2026-11-25T15:00:00+00:00",
-      "excerpt": "The Premier League club posted an AI-generated image of its Selhurst Park stadium and fans picked apart its errors, the latest brand backlash over sloppy generative imagery in official creative.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8cSPmHfTFcv3YPqpYYYxJW-1920-80.jpg"
-    },
-    {
-      "title": "Designing for the AI agent customer",
-      "url": "https://uxdesign.cc/designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-agents-c8c99e1b0b37",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-11-24T22:11:57+00:00",
-      "excerpt": "A UX Collective piece on designing experiences when the 'customer' is a personal AI agent shopping on a user's behalf: what agent-readable interfaces, structured product data and trust signals mean for UX and digital marketing. (Member-only essay.)",
-      "og_image": null
-    },
-    {
-      "title": "The design process is changing. Are we asking the right questions?",
-      "url": "https://uxdesign.cc/the-design-process-is-changing-are-we-asking-the-right-questions-c3c376cb7cb8",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-11-24T22:11:12+00:00",
-      "excerpt": "Designer Mihai Balea revisits his circular-design MVP model for AI-native product design: when an agent can map journeys, generate a working prototype and flag usability issues before the coffee's done, the linear process becomes a networked system with human judgment at the center.",
-      "og_image": "https://miro.medium.com/v2/resize:fit:700/1*RlYhBX9D3pqbucklubaGyQ.png"
-    },
-    {
-      "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
-      "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
-      "source": "The Decoder",
-      "category": "workflow",
-      "published_iso": "2026-11-25T13:14:27+00:00",
-      "excerpt": "Anthropic studied nearly 300 AI deployments across 58 US companies; nearly one in five still delivers no business value, held back by heavy review workloads and organizational friction rather than tool skills. Relevant to design-org AX rollouts, but not design-specific.",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_office_paper-1200x675.png"
-    },
-    {
-      "title": "See what 5 builders are making with Gemini 4 Neon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
-      "source": "Google Blog",
-      "category": "render",
-      "published_iso": "2026-11-24T16:00:00+00:00",
-      "excerpt": "Google showcases creative-coding builds made with Gemini 4 Neon in Antigravity: a glowing 3D Earth, Three.js butterflies, a hexagon flame shader, an interactive black-hole shader and a 3D pendulum-wave simulation. (Showcase post, not a launch.)",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5_Builders_Neon_herosocial.width-1300.png"
-    },
-    {
-      "title": "How Cozey turns its operators into software builders on Vercel",
-      "url": "https://vercel.com/blog/how-cozey-turns-its-operators-into-software-builders-on-vercel",
-      "source": "Vercel",
-      "category": "workflow",
-      "published_iso": "2026-11-25T05:00:00+00:00",
-      "excerpt": "Furniture maker Cozey has warehouse, finance and support staff building internal apps with coding agents and deploying them on Vercel (a live warehouse floor plan, a weekly P&L tool); six projects including the storefront use AI Gateway, and Vercel Flags replaced an ~$80K/year tool.",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6vCsTO8uJtmuNyaEQQ7H9M/4e5dfd1385cac0194c529b0e3d8874ee/partnership__2_.png"
-    },
-    {
-      "title": "Amap Releases ABot-World 0.5 Iris Weights for Interactive Video",
-      "url": "https://pandaily.com/amap-abot-world-iris-interactive-video-weights",
-      "source": "Pandaily",
-      "category": "vr",
-      "published_iso": "2026-11-25T02:18:36+00:00",
-      "excerpt": "Alibaba's Amap released 5B-parameter Iris weights from its ABot-World 0.5 world model for interactive, controllable video/scene generation; the larger Halo audio-video model stays separate. (Off-list: no vr-domain item this window.)",
-      "og_image": "https://cms-image.pandaily.com/1/abot_editorial_d26cff4ca2.png"
-    },
-    {
-      "title": "Picsart launches generative AI model hub for developers (30+ providers, 250 templates)",
-      "url": "https://www.dataeconomy.co.kr/news/articleView.html?idxno=44158",
-      "source": "한국데이터경제신문 (Data Economy)",
-      "category": "render",
-      "published_iso": "2026-11-25T05:03:00+09:00",
-      "excerpt": "Picsart opened its platform's AI to developers and businesses as a unified hub bundling image and video models from about 30 providers and 250 templates behind one API, targeting fragmentation as new models ship every few weeks. (Korean, off-list.)",
-      "og_image": "https://cdn.dataeconomy.co.kr/news/photo/202611/mn_44158_20261125050333_1.jpg"
-    },
-    {
-      "title": "Lovable changelog: Paper design-tool connector reads and edits your Paper canvas; ElevenLabs models for app AI features",
-      "url": "https://docs.lovable.dev/changelog#nov-23-2026",
-      "source": "Lovable",
-      "category": "figma",
-      "published_iso": "2026-11-23T00:00:00+00:00",
-      "excerpt": "Nov 23: Paper, a design tool, became a prebuilt Lovable chat connector, so Lovable can read design context from Paper files and create or edit designs on the Paper canvas while building; Nov 25 added ElevenLabs speech and music models for app features. (Changelog base URL was published 2026-07-10; dedup may collide.)",
-      "og_image": "https://lovable-f9060f1e.mintlify.site/assets/logo/opengraph-image.png"
-    },
-    {
-      "title": "5 Best Claude Skills for Designers in 2026",
-      "url": "https://www.builder.io/blog/claude-skills-for-designers",
-      "source": "Builder.io",
-      "category": "figma",
-      "published_iso": "2026-11-24T16:07:44+00:00",
-      "excerpt": "Builder.io rounds up the Claude skills its team uses for design work, with exact commands: Impeccable for UI polish, /remix for inspiration, Emil Kowalski's motion skill and more. (Listicle/how-to.)",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7db544210c1444d296dc1444620d45d4?width=1200"
-    },
-    {
-      "title": "Pin agent border-radius to the existing radius tokens - no magic rounded values",
-      "url": "https://dev.to/sherotree/pin-agent-border-radius-to-the-existing-radius-tokens-no-magic-rounded-values-24en",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-11-25T11:42:11+00:00",
-      "excerpt": "A follow-up to the spacing-scale post (carded 11-24): constraining coding agents to existing radius tokens instead of arbitrary rounded values. Same author/series, deprioritized.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftmzs57jpxglai490wfkw.png"
-    },
-    {
-      "title": "Making AI Work in UX Design: A DesignOps Perspective",
-      "url": "https://medium.com/lexisnexis-design/making-ai-work-in-ux-design-a-designops-perspective-e5ae00016de7",
-      "source": "LexisNexis Design (Medium)",
-      "category": "workflow",
-      "published_iso": "2026-11-25T19:39:25+00:00",
-      "excerpt": "LexisNexis Design argues AI-generated UI can look convincing yet miss user needs, design-system standards or accessibility, and sets out four DesignOps areas: understanding designers' work, connecting AI to the design system, supporting learning, and clarifying responsibility. (Essay; same team carded 11-24.)",
-      "og_image": "https://miro.medium.com/v2/resize:fit:700/1*b7GmPWuxjSP2B_VUQ29AnA.png"
-    },
-    {
-      "title": "Here are 4 things you didn't know you could do with Gemini Canvas",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
-      "source": "Google Blog",
-      "category": "workflow",
-      "published_iso": "2026-11-23T18:00:00+00:00",
-      "excerpt": "Google's tips for Gemini Canvas: build web apps, create custom study tools and refine writing side by side in the canvas workspace. (Tips post, low novelty.)",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/02_hero_video_poster.max-1440x810.png"
-    },
-    {
-      "title": "Generative AI and XR extend art activities for seniors: Immersive Lab's 'Onmalgeum' field-tested in Hwasun",
-      "url": "https://www.dataeconomy.co.kr/news/articleView.html?idxno=44141",
-      "source": "한국데이터경제신문 (Data Economy)",
-      "category": "vr",
-      "published_iso": "2026-11-24T05:05:00+09:00",
-      "excerpt": "Immersive Lab field-tested 'Onmalgeum', which pairs generative AI with XR for art activities for older adults, as a case of designing AI/XR experiences for a generation unused to digital devices. (Korean, off-list.)",
-      "og_image": "https://cdn.dataeconomy.co.kr/news/photo/202611/mn_44141_20261124050525_1.jpg"
-    },
-    {
-      "title": "How to build an AI content generator for Webflow",
-      "url": "https://www.webflow.com/blog/ai-content-generator-webflow",
-      "source": "Webflow",
-      "category": "figma",
-      "published_iso": "2026-11-25T00:00:00+00:00",
-      "excerpt": "Webflow tutorial: build a guarded AI content generator on Webflow Cloud that writes OpenAI drafts into the CMS with an access key, preset tones and draft-only saves. (How-to, low priority.)",
-      "og_image": "https://cdn.prod.website-files.com/687e8d1b96312cc631cafec7/6ab7af8060e95da32d3cfba3_29_AIBlogHeader_2400x1260.jpeg"
-    }
-  ]
+ "section": "design",
+ "now_iso": "2026-11-26T22:01:09Z",
+ "window_hours": 72,
+ "items": [
+  {
+   "title": "Ming-Image-0.2-Design: open 6B text-to-image model for graphic design, with RGBA layer decomposition",
+   "url": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
+   "source": "Hugging Face (inclusionAI)",
+   "category": "render",
+   "published_iso": "2026-11-25T04:02:44Z",
+   "excerpt": "inclusionAI released Ming-Image-0.2-Design, an MIT-licensed 6B DiT image model aimed at visual design: e-commerce hero images, UI design drafts and spatial renderings, with stronger text rendering, and it can break a design image into editable transparent RGBA layers down to individual characters. Community MLX and ComfyUI quantizations appeared within a day.",
+   "og_image": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp"
+  },
+  {
+   "title": "Midjourney Unveils 'Niji V8' Anime Image Generation AI",
+   "url": "https://ascii.jp/en/elem/000/004/454/4454596/",
+   "source": "ASCII.jp",
+   "category": "render",
+   "published_iso": "2026-11-25T14:20:00+09:00",
+   "excerpt": "Midjourney released Niji V8, its anime-style image model, on November 25 (JST). It follows prompts more closely, returns a wider range of candidates per prompt, and is the fastest Niji model yet. Its editing tools can place a reference character into new scenes or poses while keeping the character consistent.",
+   "og_image": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
+  },
+  {
+   "title": "Tara Labs launches second-gen 'Short-form Director' that locks storyboards before AI video generation",
+   "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13385",
+   "source": "AI Post Korea",
+   "category": "render",
+   "published_iso": "2026-11-26T01:20:15+09:00",
+   "excerpt": "Tara Labs' second-generation short-form editor adds a 'Short-form Director' workflow. Creators confirm scene drafts before any video is generated, regenerate only the scenes they want changed, and cut footage by editing the script, which leaves directing control with the creator instead of full automation. The web beta opened to everyone on Nov 26, with free credits.",
+   "og_image": "https://cdn.aipostkorea.com/news/photo/202611/13385_24217_1716.jpg"
+  },
+  {
+   "title": "Picsart launches Picsart Platform, a single hub for 30+ providers' image and video AI models",
+   "url": "https://www.dataeconomy.co.kr/news/articleView.html?idxno=44158",
+   "source": "Korea Data Economy News",
+   "category": "render",
+   "published_iso": "2026-11-25T05:03:00+09:00",
+   "excerpt": "Picsart launched Picsart Platform, a multimodal creative-AI hub that puts more than 250 video, audio, image and text model endpoints from over 30 providers behind one access layer. It targets solo developers, studios and enterprise marketing teams who juggle separate model APIs, and launched with a WAN 3.0 promotion.",
+   "og_image": "https://cdn.dataeconomy.co.kr/news/photo/202611/mn_44158_20261125050333_1.jpg"
+  },
+  {
+   "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+   "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/",
+   "source": "NVIDIA Technical Blog",
+   "category": "render",
+   "published_iso": "2026-11-24T18:44:05+00:00",
+   "excerpt": "NVIDIA showed how to run Cosmos 3 Nano, its world-foundation video-generation model, on consumer GPUs with as little as 12 GB of VRAM. Diffusers group offloading keeps most weights in system RAM and streams them to the GPU as needed. That costs more RAM and speed, so it suits batch generation rather than interactive use.",
+   "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/ai-model.webp"
+  },
+  {
+   "title": "Build a 3D game with Claude and Runway MCP (Fluffwing)",
+   "url": "https://runway.com/mcp/games/fluffwing",
+   "source": "Runway",
+   "category": "render",
+   "published_iso": "2026-11-24",
+   "excerpt": "Runway published a reproducible prompt and showcase for Fluffwing, a 3D browser flying game. Claude wrote the code, and Runway MCP generated 14 images, including a style frame and character reference sheets, then turned 11 of them into 3D models that Claude loaded into the game. It shows an agent-driven art-asset pipeline from style frame to in-engine models.",
+   "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/mcp-games-fluffwing-keyart.webp"
+  },
+  {
+   "title": "New One UI 9.5 Recompose gen-AI tool lets you change a photo's perspective after the shot",
+   "url": "https://www.sammobile.com/news/new-recompose-gen-ai-tool-one-ui-9-5-change-photo-perspective/",
+   "source": "SamMobile",
+   "category": "render",
+   "published_iso": "2026-11-26T14:47:10Z",
+   "excerpt": "A hidden generative-AI 'Recompose' tool in the One UI 9.5 beta Gallery uses a slider to widen or narrow a photo's field of view after capture. It simulates multi-camera or 3D capture without a depth map. The feature is unreleased and may debut with the Galaxy S27. Possible overlap with gadgets.",
+   "og_image": "https://www.sammobile.com/wp-content/uploads/2026/09/Samsung-One-UI-Gallery-app.jpg"
+  },
+  {
+   "title": "Modu Solution shows Gstar3D cloud CAD that builds 3D models from natural language and drawing images",
+   "url": "https://www.etnews.com/20261126000198",
+   "source": "etnews",
+   "category": "cad",
+   "published_iso": "2026-11-26T10:43:50+09:00",
+   "excerpt": "At SMATEC 2026, Korean CAD/PLM vendor Modu Solution demoed Gstar3D, a cloud 3D CAD tool that creates parametric models, feature history included, from natural-language commands or JPG/PNG drawing images and exports standard formats such as STEP. It is pre-launch, and an early-user program offers up to 100 people a year of free use.",
+   "og_image": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
+  },
+  {
+   "title": "SP3D Theia: Automatically Convert 2D Drawings into 3D Models",
+   "url": "https://www.all-about-industries.com/sp3d-theia-2d-drawings-to-3d-models-a-aea5132ff69a610e905f60e5fe2f51e7/",
+   "source": "All-About-Industries",
+   "category": "cad",
+   "published_iso": "2026-11-24T15:07:13+01:00",
+   "excerpt": "SP3D introduced Theia, an AI platform that rebuilds editable 3D models from 2D industrial drawings, including scanned and hand-drawn ones, and outputs SolidWorks and Siemens NX files. Each result is checked against the source drawing, and parts the AI can't reliably build are flagged for an engineer. The story is sourced from a vendor press release.",
+   "og_image": "https://cdn1.vogel.de/N5e26oUGFEgb3OlS3bQeWAuOVs0=/fit-in/1200x630/filters:format(png):quality(90)/p7i.vogel.de/wcms/70/74/7074920ae0441ebf0941bfd963b073b4/0134676649v1.jpeg"
+  },
+  {
+   "title": "Ukrainian senior UI/UX designer launches module.build, an AI editor that keeps the designer in control",
+   "url": "https://dev.ua/en/news/ukrainskyi-dyzainer-stvoryv-shi-redaktor-modulebuild-1795684607",
+   "source": "dev.ua",
+   "category": "figma",
+   "published_iso": "2026-11-26T11:42:00+02:00",
+   "excerpt": "Designer Bohdan Matviyev built module.build, an editor that merges design and development in one canvas. AI acts as an assistant the user controls rather than an autopilot, with Claude, Codex or Kimi plugged in through the user's own subscriptions or APIs. It reads layouts and components straight from design files to make them dev-ready. It is in closed alpha and positioned against Figma and Paper.",
+   "og_image": "https://dev.ua/storage/images/12/76/04/30/derived/def65f680780c1ce391508a5362cfd89.webp"
+  },
+  {
+   "title": "Nexity open-source system enables AI-native websites on Next.js, Sanity",
+   "url": "https://techgig.com/news/ai/nexity-open-source-system-enables-ai-native-websites-on-next-js-sanity/136175859",
+   "source": "TechGig",
+   "category": "figma",
+   "published_iso": "2026-11-26T06:50:00+05:30",
+   "excerpt": "Nexity is an open-source system for AI-native websites on Next.js and Sanity. Marketing teams create new page sections with AI, and developers review them before they go live, which splits generative page-building from engineering sign-off.",
+   "og_image": "https://etimg.etb2bimg.com/thumb/msid-136175859,imgsize-552716,width-1200,height=627,overlay-ettechmonk,resizemode-75/news/ai/nexity-open-source-system-enables-ai-native-websites-on-next-js-sanity.jpg"
+  },
+  {
+   "title": "\"Government workers make posters with AI too\": Naver Cloud adds image generation to Korea's government-wide AI platform",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217799",
+   "source": "AI Times",
+   "category": "workflow",
+   "published_iso": "2026-11-26T11:44:33+09:00",
+   "excerpt": "Naver Cloud added an image-generation model to CLOVA Studio for GOV, the shared AI tool of Korea's government-wide AI platform, and built image creation and editing into Naver Works, the collaboration suite used by 52 public institutions. Civil servants can pick a template and type their content to produce policy posters, card news and banners on the internal network.",
+   "og_image": "https://cdn.aitimes.com/news/photo/202611/217799_222171_2550.jpg"
+  },
+  {
+   "title": "Carlo Ratti and AI assistant to curate Seoul Biennale of Architecture and Urbanism 2027",
+   "url": "https://www.dezeen.com/2026/11/26/carlo-ratti-seoul-biennale/",
+   "source": "Dezeen",
+   "category": "workflow",
+   "published_iso": "2026-11-26T10:30:00Z",
+   "excerpt": "Carlo Ratti will curate the 2027 Seoul Biennale of Architecture and Urbanism with an 'unconventional, AI-based' approach, using an AI assistant to rethink exhibition-making. He teased that 'one assistant curator isn't even human.' The theme and team will be revealed on December 8.",
+   "og_image": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg"
+  },
+  {
+   "title": "Adobe's Eric Snowden on How AI Is Changing the Way Designers Work",
+   "url": "https://www.printmag.com/design-events-conferences/adobes-eric-snowden-on-how-ai-is-changing-the-way-designers-work/",
+   "source": "PRINT Magazine",
+   "category": "workflow",
+   "published_iso": "2026-11-25T22:22:41Z",
+   "excerpt": "In a post-MAX interview, Adobe design VP Eric Snowden gave concrete examples of agent help. An agent lays out a photo grid and checks brand colors while the designer keeps working in the same file, InDesign confirms images are print-ready, and an After Effects agent roughs out an animation and retimes it when the length changes, with keyframe polish left to the designer.",
+   "og_image": "https://www.printmag.com/wp-content/uploads/2026/11/KRE86713_1-1.jpg"
+  },
+  {
+   "title": "'What and why to design': nine global designers answer at Design Korea 2026 conference",
+   "url": "https://www.etnews.com/20261126000366",
+   "source": "etnews",
+   "category": "workflow",
+   "published_iso": "2026-11-26T14:29:32+09:00",
+   "excerpt": "At the Korea Design Promotion Institute's international conference during Design Korea 2026, nine experts, including Vizcom CEO Jordan Taylor and Genesis design executive Song Ji-hyun, discussed how AI is changing the design process. Sessions covered AI-assisted product development and brand identity, and the judgment, taste and perspective designers must keep.",
+   "og_image": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.b15568225a3b46a795e6f20bf3d91c49_P1.jpg"
+  },
+  {
+   "title": "[Design Korea 2026] Beyond AI to physical AI: design innovation to lift industrial competitiveness",
+   "url": "https://www.etnews.com/20261125000379",
+   "source": "etnews",
+   "category": "workflow",
+   "published_iso": "2026-11-25T14:15:52+09:00",
+   "excerpt": "Design Korea 2026 opened at COEX on Nov 25 under the themes 'Code, Log, Typology, AX', showcasing how Korean firms apply design to AI and robotics products. Design's role is shifting from form to connecting technology and people in real use.",
+   "og_image": "https://img.etnews.com/news/article/2026/11/25/news-p.v1.20261125.2a5d5f1f44eb4cc9a78c5dbe9e198e1b_P1.jpg"
+  },
+  {
+   "title": "How Cozey turns its operators into software builders on Vercel",
+   "url": "https://vercel.com/blog/how-cozey-turns-its-operators-into-software-builders-on-vercel",
+   "source": "Vercel",
+   "category": "workflow",
+   "published_iso": "2026-11-25T00:00:00-05:00",
+   "excerpt": "Furniture retailer Cozey's warehouse, finance and support staff use AI coding agents to build their own internal apps, including a live warehouse floor-plan view and an AI tool that renders Cozey furniture in a customer's room. New apps appear almost weekly next to a custom Next.js storefront for about 1.2 million sofa configurations.",
+   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6vCsTO8uJtmuNyaEQQ7H9M/4e5dfd1385cac0194c529b0e3d8874ee/partnership__2_.png"
+  },
+  {
+   "title": "Crystal Palace fans decimate sloppy AI-generated stadium",
+   "url": "https://www.creativebloq.com/news/crystal-palace-tried-to-get-away-with-posting-ai-and-fans-tore-it-to-shreds",
+   "source": "Creative Bloq",
+   "category": "workflow",
+   "published_iso": "2026-11-25T15:00:00Z",
+   "excerpt": "Crystal Palace posted an AI-generated image of Selhurst Park, and fans tore apart its errors. It is the latest example of brand social teams getting caught using unvetted generative imagery and the reputational cost of skipping design review.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/8cSPmHfTFcv3YPqpYYYxJW-1920-80.jpg"
+  },
+  {
+   "title": "Adobe, Figma and Canva target businesses with AI-powered design tools",
+   "url": "https://biz.chosun.com/en/en-it/2026/11/27/MG4KVAZAPJGN7FYBVDXBIJIUN4/?outputType=amp",
+   "source": "Chosunbiz",
+   "category": "workflow",
+   "published_iso": "2026-11-26T21:00:42Z",
+   "excerpt": "Adobe, Figma and Canva are courting corporate clients with AI design tools built around precision editing and team collaboration, a shift from consumer reach to enterprise design-ops seats. This is a roundup, and the body could not be fetched, so verify the details before carding.",
+   "og_image": "https://biz.chosun.com/resizer/v2/HOPZM3N3QRIDPE4BXWHH573JDU.jpg?auth=adfddced3875fae01712592b5959ee7ca092b01f1fa71c0e80f257febbc55602&width=1200&height=630&smart=true"
+  },
+  {
+   "title": "What UX Tasks Will AI Be Able to Do, and When?",
+   "url": "https://www.youtube.com/watch?v=h1-cq8wgwNg",
+   "source": "UX Tigers (by Jakob Nielsen)",
+   "category": "social",
+   "published_iso": "2026-11-25T04:00:16-08:00",
+   "excerpt": "Jakob Nielsen's UX Tigers channel lays out a timeline for which UX tasks AI can take over and when.",
+   "og_image": "https://i.ytimg.com/vi/h1-cq8wgwNg/maxresdefault.jpg"
+  }
+ ]
 }

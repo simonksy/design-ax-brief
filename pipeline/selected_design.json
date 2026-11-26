@@ -1,106 +1,101 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "design",
   "items": [
     {
-      "rank": 1,
-      "title": "Nomic extends AI agents into CAD drafting and BIM",
-      "url": "https://aecmag.com/cad/nomic-extends-ai-agents-into-cad-drafting-and-bim/",
-      "source": "AEC Magazine",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "published_iso": "2026-11-25T17:05:37+00:00",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg",
-      "excerpt": "Nomic's AI drawing-review platform now drafts too: describe a drawing in natural language or supply one for revision and the agent returns an editable DWG/DXF file plus a plotted PDF, following company CAD standards (layers, line weights, hatching, dimension styles), and works directly inside Revit and AutoCAD.",
-      "rationale": "Concrete new capability: natural-language drafting that outputs standards-compliant editable DWG/DXF inside Revit and AutoCAD — directly changes drafting workflows."
-    },
-    {
-      "rank": 2,
-      "title": "Canva opens design tools to AI agents and developers",
-      "url": "https://dataconomy.com/2026/11/25/canva-opens-design-tools-to-ai-agents-and-developers/",
-      "source": "Dataconomy",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "published_iso": "2026-11-25T10:18:32+01:00",
-      "og_image": "https://dataconomy.com/wp-content/uploads/2026/11/canva-opens-its-design-tools-to-ai-agents-and-outs.jpg",
-      "excerpt": "Canva made its rebuilt MCP server generally available and launched new APIs, service accounts and a CLI so outside agents can create editable designs, images and short videos, remove backgrounds, layer flat images and resize/export, with its Craft image model exposed via API and MCP; Canva also becomes the design layer inside Claude.",
-      "rationale": "Major design platform GA of MCP server + APIs/CLI lets agents produce editable Canva designs — high actionability for design teams automating production."
-    },
-    {
-      "rank": 3,
-      "title": "NVIDIA releases open weights for Nemotron-Labs-Image-30B-A3B, an image model that also outputs editable SVG/HTML structure",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
-      "source": "Hugging Face (NVIDIA)",
+      "title": "Ming-Image-0.2-Design: open 6B text-to-image model for graphic design, with RGBA layer decomposition",
+      "url": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
+      "source": "Hugging Face (inclusionAI)",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "published_iso": "2026-11-24T21:55:46+00:00",
-      "og_image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nvidia/Nemotron-Labs-Image-30B-A3B.png",
-      "excerpt": "NVIDIA published the public release snapshot of Nemotron-Labs-Image, a 30B (3B active) autoregressive text-to-image model whose shared interface generates both raster images and editable structure (SVG, HTML/CSS, plots, document markup); NVIDIA's benchmarks put it ahead of GPT Image 2 and Nano Banana Pro on GenEval and text-rendering tests.",
-      "rationale": "Primary-source open-weights release; one model producing both raster and editable SVG/HTML is directly useful for designers needing editable output."
+      "published_iso": "2026-11-25T04:02:44Z",
+      "og_image": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+      "excerpt": "inclusionAI released Ming-Image-0.2-Design, an MIT-licensed 6B DiT image model aimed at visual design: e-commerce hero images, UI design drafts and spatial renderings, with stronger text rendering, and it can break a design image into editable transparent RGBA layers down to individual characters. Community MLX and ComfyUI quantizations appeared within a day.",
+      "rationale": "Primary-source open-weights release built for graphic design; RGBA layer decomposition into editable layers is directly usable in a designer's pipeline tomorrow."
     },
     {
-      "rank": 4,
-      "title": "Meet MAGI-2: Sand AI's New Video Model With Built-In Sound, Exclusively on Higgsfield",
-      "url": "https://higgsfield.ai/blog/higgsfield-magi-2",
-      "source": "Higgsfield",
+      "title": "Modu Solution shows Gstar3D cloud CAD that builds 3D models from natural language and drawing images",
+      "url": "https://www.etnews.com/20261126000198",
+      "source": "etnews",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "published_iso": "2026-11-26T10:43:50+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg",
+      "excerpt": "At SMATEC 2026, Korean CAD/PLM vendor Modu Solution demoed Gstar3D, a cloud 3D CAD tool that creates parametric models, feature history included, from natural-language commands or JPG/PNG drawing images and exports standard formats such as STEP. It is pre-launch, and an early-user program offers up to 100 people a year of free use.",
+      "rationale": "New text/image-to-parametric-CAD tool with feature history and STEP export plus an open early-user programme; distinct product from the Nomic drafting agent carded 11-26."
+    },
+    {
+      "title": "Ukrainian senior UI/UX designer launches module.build, an AI editor that keeps the designer in control",
+      "url": "https://dev.ua/en/news/ukrainskyi-dyzainer-stvoryv-shi-redaktor-modulebuild-1795684607",
+      "source": "dev.ua",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "published_iso": "2026-11-26T11:42:00+02:00",
+      "og_image": "https://dev.ua/storage/images/12/76/04/30/derived/def65f680780c1ce391508a5362cfd89.webp",
+      "excerpt": "Designer Bohdan Matviyev built module.build, an editor that merges design and development in one canvas. AI acts as an assistant the user controls rather than an autopilot, with Claude, Codex or Kimi plugged in through the user's own subscriptions or APIs. It reads layouts and components straight from design files to make them dev-ready. It is in closed alpha and positioned against Figma and Paper.",
+      "rationale": "New design-to-dev canvas launch (closed alpha) with bring-your-own-model AI; a fresh entrant in the Figma/Paper space, unrelated to the Runway Dev story it loosely matched."
+    },
+    {
+      "title": "Midjourney Unveils 'Niji V8' Anime Image Generation AI",
+      "url": "https://ascii.jp/en/elem/000/004/454/4454596/",
+      "source": "ASCII.jp",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#eb367f",
       "motif": "sphere",
-      "published_iso": "2026-11-25T11:35:00+00:00",
-      "og_image": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=jpeg,onerror=redirect,width=1200,quality=85/https://cdn.sanity.io/images/s479xw3z/production/f689aa41f411d5bc9ed082194a49c21c7848d5d4-2720x1536.jpg",
-      "excerpt": "Sand AI's MAGI-2 video model lands exclusively on Higgsfield, generating video and synchronized sound together in 4-30 second clips at 1080p, with reference inputs, settings and pricing documented for creators.",
-      "rationale": "New video model with native synced audio, available now with documented settings/pricing; assigned to design (not movies) by the cross-section brief."
+      "published_iso": "2026-11-25T14:20:00+09:00",
+      "og_image": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png",
+      "excerpt": "Midjourney released Niji V8, its anime-style image model, on November 25 (JST). It follows prompts more closely, returns a wider range of candidates per prompt, and is the fastest Niji model yet. Its editing tools can place a reference character into new scenes or poses while keeping the character consistent.",
+      "rationale": "New Midjourney model release with character-consistency editing that illustrators and concept artists can use immediately; second render pick so it gets a palette accent."
     },
     {
-      "rank": 5,
-      "title": "MCP servers can now ship skills, run tasks, and more with Claude",
-      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
-      "source": "Claude (Anthropic)",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#2ec5c5",
+      "title": "Carlo Ratti and AI assistant to curate Seoul Biennale of Architecture and Urbanism 2027",
+      "url": "https://www.dezeen.com/2026/11/26/carlo-ratti-seoul-biennale/",
+      "source": "Dezeen",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "published_iso": "2026-11-24T17:53:00+00:00",
-      "og_image": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more/opengraph-image/og",
-      "excerpt": "Skills over MCP is in public beta in Claude, so MCP servers (including design-tool servers) can ship skills alongside their tools; Tasks and Elicitation are now generally available and File Uploads is rolling out. The Decoder reports MCP SDK downloads topped 700 million a month.",
-      "rationale": "Platform release that changes how design-tool MCP servers (Figma, Canva, Webflow) package workflows: skills ship with the server, plus GA Tasks/Elicitation."
+      "published_iso": "2026-11-26T10:30:00Z",
+      "og_image": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
+      "excerpt": "Carlo Ratti will curate the 2027 Seoul Biennale of Architecture and Urbanism with an 'unconventional, AI-based' approach, using an AI assistant to rethink exhibition-making. He teased that 'one assistant curator isn't even human.' The theme and team will be revealed on December 8.",
+      "rationale": "Credible-outlet announcement of a major architecture biennale curated with an AI assistant curator; a fresh workflow-category signal that rounds out the category spread."
     }
   ],
   "dedup": {
     "checks": {
-      "https://aecmag.com/cad/nomic-extends-ai-agents-into-cad-drafting-and-bim/": {
+      "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design": {
         "verdict": "new",
-        "nearest": "https://aecmag.com/bim/qonic-ai-launches-inside-bim-platform/",
+        "nearest": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
         "new_action": ""
       },
-      "https://dataconomy.com/2026/11/25/canva-opens-design-tools-to-ai-agents-and-developers/": {
+      "https://www.etnews.com/20261126000198": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+        "nearest": "https://aecmag.com/cad/nomic-extends-ai-agents-into-cad-drafting-and-bim/",
         "new_action": ""
       },
-      "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B": {
+      "https://dev.ua/en/news/ukrainskyi-dyzainer-stvoryv-shi-redaktor-modulebuild-1795684607": {
         "verdict": "new",
-        "nearest": "https://www.intelligentliving.co/moss-image-open-source-model/",
+        "nearest": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents",
         "new_action": ""
       },
-      "https://higgsfield.ai/blog/higgsfield-magi-2": {
+      "https://ascii.jp/en/elem/000/004/454/4454596/": {
         "verdict": "new",
-        "nearest": "https://wccftech.com/higgsfield-miracle-promises-real-time-ai-video-editing-turning-any-clip-into-editable-layers/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more": {
+      "https://www.dezeen.com/2026/11/26/carlo-ratti-seoul-biennale/": {
         "verdict": "new",
-        "nearest": "https://aecmag.com/automation/autom8labs-launches-aec-skills-for-ai-agents/",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicate: DEV Community 'Pin agent border-radius to radius tokens' (likely-repeat of the 11-24 sherotree spacing-scale card, same author/series/technique). Not picked (not dups): Higgsfield GPU Harness (second Higgsfield item, outlet cap kept MAGI-2 per cross-section assignment); Picsart hub (would be 3rd render); Anthropic adoption study (not design-specific); Crystal Palace backlash, UX Collective/LexisNexis essays, Builder.io listicle, Gemini Canvas tips, Webflow tutorial, Gemini 4 Neon showcase, Vercel Cozey case study (low novelty/actionability); Amap ABot-World and Onmalgeum (off-list, weaker design angle). Cross-section: exact-checked published_urls.json marketing block — no Canva MCP card; MAGI-2 is design-only per brief. Nearest refs are related-band only, all distinct products/events."
+    "note": "Dropped as duplicates or follow-ups: Adobe Eric Snowden PRINT interview (commentary on Adobe MAX, already carded 11-11 with AE 27.0 / Photoshop 28.0 / Adobe newsroom; no new release); Runway MCP Fluffwing showcase (related to Runway Dev 11-03, a showcase rather than a new release, and leans toward games); Design Korea etnews x2 (one conference story, panel commentary, no concrete release). Passed over on score, diversity, or exclusion grounds: Tara Labs Short-form Director (third render item); Picsart Platform (aggregator hub, business-leaning, possible marketing overlap); NVIDIA Cosmos 3 local how-to (tutorial); SP3D Theia (vendor press release, second CAD); One UI 9.5 Recompose (unreleased leak, belongs in gadgets); Nexity; Cozey/Vercel customer story; Crystal Palace AI image (AI-slop genre already well covered, marketing-leaning); Chosunbiz roundup (body unfetched); UX Tigers video (commentary). Cross-section: published_urls.json (5038 lines) is too large to read fully and grep is not available, so the orchestrator must exact-grep for Niji V8 / ascii.jp 4454596, Ming-Image, Gstar3D, module.build, and Seoul Biennale / Ratti in the other sections (games/movies/books could plausibly have run Niji V8) before roll."
   }
 }

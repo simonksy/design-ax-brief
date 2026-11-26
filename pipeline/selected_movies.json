@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "movies",
   "items": [
     {
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "Google's patent for custom AI video feeds paints a bleak picture of entertainment's future",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "source": "The Verge",
-      "published_iso": "2026-11-25T21:51:26+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&w=1200",
-      "excerpt": "Google filed a patent for 'My Channel', a system that would use a viewer's demographic data and viewing history to write its own prompts and generate personalized AI videos and ads in an endless feed. The patent has been rejected for now, but Google could appeal or resubmit.",
-      "rationale": "A concrete filing showing a platform designing for fully generated, per-viewer video, a direct signal for anyone making content for streaming feeds. The brief assigns this story to movies only."
+      "title": "Introducing Brand Kit and Character Library",
+      "url": "https://lumalabs.ai/news/brand-kit-character-library",
+      "source": "Luma AI",
+      "published_iso": "2026-11-25T19:41:00Z",
+      "og_image": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+      "excerpt": "Luma launched Brand Kit and Character Library so uploaded logos, fonts, products and characters stay consistent across every generated image and video, targeting the character drift that keeps AI out of serialized and branded work.",
+      "rationale": "Primary-source product release that tackles character consistency, the main practical blocker for serialized AI video. Creators can use it tomorrow."
     },
     {
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "title": "Lionsgate Play Sets 'Eklavya' As First AI-Led Series",
-      "url": "https://deadline.com/2026/11/lionsgate-play-eklavya-ai-series-tiger-tv-1237232555/",
-      "source": "Deadline",
-      "published_iso": "2026-11-25T06:15:00+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024",
-      "excerpt": "Lionsgate Play's first AI-led original series, 'Eklavya', is based on the Mahabharata archer and stars Yug R.Ai, the AI actor character recently unveiled by CEO Rohit Jain. It will roll out on Tiger TV, and Variety reports a Google Cloud partnership.",
-      "rationale": "A major studio-branded streamer commissions an AI-led series with an AI actor lead, a new production announcement with a named platform and partner."
+      "title": "Microdrama revenues hit $20bn in 2026, but profits remain elusive outside China",
+      "url": "https://www.screendaily.com/news/microdrama-revenues-hit-20bn-in-2026-but-profits-remain-elusive-outside-china/5222807.article",
+      "source": "Screen Daily",
+      "published_iso": "2026-11-26T10:47:00+00:00",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/1/1493181_reelshortshowbox_896332.jpg",
+      "excerpt": "A Media Partners Asia report puts global microdrama revenue up 24% to $20bn; about 75% of titles were made using AI, at roughly a tenth of an LA-shot series' cost, while AI accounts for nine in ten Chinese titles but only 20% of revenue.",
+      "rationale": "A new industry report with hard numbers on AI's share of microdrama production and how much revenue it actually earns. On-list outlet."
     },
     {
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "Josh D'Amaro Is Dragging Disney Into the AI Era, Kicking and Screaming",
-      "url": "https://www.thewrap.com/industry-news/business/disney-ceo-josh-dmaro-ai-strategy-cto-karandeep-anand-exclusive/",
-      "source": "TheWrap",
-      "published_iso": "2026-11-25T14:00:00+00:00",
-      "og_image": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1024&height=576&fit=bounds",
-      "excerpt": "New CTO Karandeep Anand is pushing one AI vision across Disney's business units, which is causing tension. Machine learning is already speeding up pre- and post-production, including a Disney Research/ILM tool that cuts render compute by nearly a third. People inside question whether one AI workflow can fit both Marvel blockbusters and 2D animation.",
-      "rationale": "Inside reporting on how Disney is rolling AI into pre- and post-production, with a concrete Disney Research/ILM render tool that cuts compute by nearly a third."
+      "title": "Michel Hazanavicius To Present Exclusive Footage Of 'The Third Hand' In AI Case Study At Les Arcs",
+      "url": "https://deadline.com/2026/11/michel-hazanavicius-exclusive-footage-third-hand-ai-1237234059/",
+      "source": "Deadline",
+      "published_iso": "2026-11-26T16:06:03+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg",
+      "excerpt": "Oscar winner Michel Hazanavicius and post house Digital District will show exclusive footage of The Third Hand at Les Arcs Film Festival in December, explaining the method and AI tools used to make the film.",
+      "rationale": "Fresh announcement: an Oscar-winning director will openly walk through the AI pipeline behind his film. Rare transparency at a time when AI use draws backlash."
     },
     {
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "title": "Generative AI Indian Feature 'Maharaja in Denims' Sets April 2027 Release",
-      "url": "https://variety.com/2026/film/news/generative-ai-feature-maharaja-in-denims-april-2027-release-1236957865/",
-      "source": "Variety",
-      "published_iso": "2026-11-25T12:17:16+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Khushwant Singh's novel about a young man reliving the life of Sikh ruler Maharaja Ranjit Singh is nearing completion as a $500,000-plus generative AI feature. The makers say they effectively had to make it three times, and are aiming for an April 2027 release.",
-      "rationale": "A dated release for a $500K+ generative-AI literary adaptation, plus a candid production note that model churn forced three remakes."
+      "title": "Netflix AI clause divides Germany's dubbing industry over voice training rights",
+      "url": "https://www.dw.com/en/ive-lost-her-forever-why-german-voice-actors-are-refusing-to-sign-netflixs-ai-contract/a-80004381",
+      "source": "DW",
+      "published_iso": "2026-11-23T10:58:22Z",
+      "og_image": "https://static.dw.com/image/80004535_6.jpg",
+      "excerpt": "German voice actors including Katrin Froehlich (Cameron Diaz), Anne Helm (Margot Robbie) and Luise Helm (Scarlett Johansson) refuse to sign a Netflix contract clause letting it use their voices to train AI, so they will no longer dub those stars on Netflix.",
+      "rationale": "A concrete labour development: named star-voice actors are refusing Netflix's AI-training clause and losing roles over it. This is separate from the Klemm lawsuit carded 11-06."
     },
     {
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "title": "EBS, 생성형 AI 기반 애니메이션 5편 내달 순차 방영",
-      "url": "https://www.yna.co.kr/view/AKR20261125087600005",
-      "source": "연합뉴스",
-      "published_iso": "2026-11-25T11:32:28+09:00",
-      "og_image": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg",
-      "excerpt": "EBS picked 5 of 429 entries in its 2026 generative-AI animation co-production project. The shows mix generative AI with stop-motion and 3D, and from Dec. 1 they air on EBS 1TV in a dedicated AI-animation slot, Tue-Thu 5:20-5:50 p.m.",
-      "rationale": "A public broadcaster opens a regular AI-animation slot with five hybrid (gen-AI plus stop-motion/3D) shows picked from 429 entries, giving AI animation a broadcast outlet."
+      "title": "일레븐랩스, 국내 AI 단편제작 프로젝트 '더 콜라보레이션 2026'에 기술 파트너로 참여",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217771",
+      "source": "AI타임스",
+      "published_iso": "2026-11-25T15:50:19+09:00",
+      "og_image": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png",
+      "excerpt": "일레븐랩스가 서울독립영화제 AI 시네마 특별전 '더 콜라보레이션 2026'(이명세·장철수·신연식 등 7인 감독 x AI 창작자)에 AI 오디오 기술 파트너로 참여했다. 11월 27일 CGV압구정 쇼케이스에서 완성작과 제작기가 공개된다.",
+      "rationale": "Follow-up with a new action: ElevenLabs has been named the audio technology partner, and the finished films premiere at today's (11-27) showcase. It also adds a Korean angle and a fifth outlet."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent": {
+      "https://lumalabs.ai/news/brand-kit-character-library": {
+        "verdict": "new",
+        "nearest": "https://variety.com/2026/tv/news/netflix-launches-ai-discover-content-recommendations-1236937769/",
+        "new_action": ""
+      },
+      "https://www.screendaily.com/news/microdrama-revenues-hit-20bn-in-2026-but-profits-remain-elusive-outside-china/5222807.article": {
+        "verdict": "new",
+        "nearest": "https://www.broadcastnow.co.uk/production-and-post/screenburn-group-launches-ai-tool-to-write-full-microdrama-seasons/5222355.article",
+        "new_action": ""
+      },
+      "https://deadline.com/2026/11/michel-hazanavicius-exclusive-footage-third-hand-ai-1237234059/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://deadline.com/2026/11/lionsgate-play-eklavya-ai-series-tiger-tv-1237232555/": {
+      "https://www.dw.com/en/ive-lost-her-forever-why-german-voice-actors-are-refusing-to-sign-netflixs-ai-contract/a-80004381": {
         "verdict": "new",
-        "nearest": "https://senalnews.com/en/content/animaj-unveiled-flipmove-an-artist-led-ai-animation-workflow",
+        "nearest": "https://www.voiceoverherald.com/matti-klemm-netflix-lawsuit-ai-training-voice-data/",
         "new_action": ""
       },
-      "https://www.thewrap.com/industry-news/business/disney-ceo-josh-dmaro-ai-strategy-cto-karandeep-anand-exclusive/": {
-        "verdict": "new",
-        "nearest": "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html",
-        "new_action": ""
-      },
-      "https://variety.com/2026/film/news/generative-ai-feature-maharaja-in-denims-april-2027-release-1236957865/": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.yna.co.kr/view/AKR20261125087600005": {
-        "verdict": "new",
-        "nearest": "https://www.news1.kr/life-culture/general-cultural/6343262",
-        "new_action": ""
+      "https://www.aitimes.com/news/articleView.html?idxno=217771": {
+        "verdict": "follow-up",
+        "nearest": "https://www.koreajoongangdaily.com/entertainment/seven-directors-to-unveil-ai-short-films-at-seoul-independent-film-festival/12955399",
+        "new_action": "ElevenLabs announced as AI audio technology partner of 'The Collaboration 2026'; finished films and making-of premiere at the 11-27 CGV Apgujeong showcase"
       }
     },
-    "note": "Dropped as published-story repeats: the Fincher 'Cliff Booth' cluster (Variety, TheWrap, The Verge) because Fincher's AI defense ran 11-22 via Deadline and the new interview and backlash pieces add commentary, not a new release or decision. Dropped Screen Daily 'Gods Don't Give Gifts' appeal (likely-repeat of the 11-24 IndieWire ineligibility card; only an intent to appeal, nothing filed). Dropped AI타임스 ElevenLabs 'The Collaboration 2026' as the same seven-director AI short project carried 11-05 (Korea JoongAng Daily) and 11-19 (ppss, Nov 27 screening). Dropped Pandaily MAGI-2 (brief assigns it to design only). Skipped KOBIS 'Raphael' opening-day figures (a raw stats page with no article or image; Raphael was reviewed 11-22). Skipped Curious Refuge course promo and the ElevenLabs Chroma Awards S2 entry call (low novelty, promotional). Cross-section: none of the picks are in the brief's cross-section list. published_urls.json could not be grepped in this agent (Read-only tools); the picks are 11-25 URLs not in this section's 30-day digest."
+    "note": "Dropped: Fincher 'Cliff Booth' AI x3 (Variety/TheWrap/Verge, cluster c2 + Verge) as interviews/reactions on the 11-22 Deadline card with no new action; Unreal Engine 6 without Blueprints (AWN), already run in games 11-05/11-22; Maxon Plus (postPerspective), already run in design 11-24; Seedance 2.5 4K API (TechNode 11-17), a likely repeat of the 10-29 Seedance 2.5 4K and 11-14 Flash cards, and stale; KOBIS 'Raphael' day-2 box office, a follow-up of the 11-22 Raphael review with a generic non-unique list URL and no image. Pre-dropped by story_dedup: Screen Daily 'Gods Don't Give Gifts' producer response (same as 11-24 IndieWire). Cross-section: published_urls.json (5,038 lines) was too large to scan in full here. All picks are fresh 11-23 to 11-26 URLs. Orchestrator should exact-grep 'lumalabs.ai/news/brand-kit', 'Brand Kit', 'Hazanavicius', 'ElevenLabs'/'더 콜라보레이션' and 'idxno=217771' (full URL) across design/marketing/music before roll."
   }
 }

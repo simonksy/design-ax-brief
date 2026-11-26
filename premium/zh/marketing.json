@@ -6341,6 +6341,168 @@
           "x": "WebMD Ignite一直在为一家学术医疗中心的心脏科测试约100种创意版本，并与付费搜索的效果进行比较。Bilyew说：“我们给客户的建议是：‘直接进场，开始学习。’”"
         }
       ]
+    },
+    "marketing/meta-muse-cyberweek-agent-traffic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
+          "cap": "新数据显示，Meta广受欢迎的个人助理Muse占据了由代理发起的网站请求的绝大部分。"
+        },
+        {
+          "t": "p",
+          "x": "据网络安全公司Human Security称，在11月26日至30日的网购周（Cyber Week）期间，代理流量预计将达到去年网购周数据的150x 水平。来自代理的零售流量预计将从假日前的水平增长一倍以上，在黑色星期五周末达到峰值。"
+        },
+        {
+          "t": "p",
+          "x": "一年前，Perplexity的Comet贡献了Human所保护网站约四分之三的代理流量。如今，上市不到三个月的Meta的Muse贡献了70%。OpenAI的ChatGPT agent、Codex浏览器和Codex Chrome扩展合计约占21%；Comet则从74%跌至仅2.4%。"
+        },
+        {
+          "t": "p",
+          "x": "代理目前仍主要用于发现和研究商品（约占请求的81%），但结账请求预计将达到去年的约160x 水平。Google的代理占流量不到5%，却占结账和支付请求的近20%。"
+        },
+        {
+          "t": "p",
+          "x": "零售商态度分化：Gap、Best Buy、Sephora和Walmart与Muse合作，而Amazon则将其屏蔽。Gartner的Andrew Frank表示：“零售商需要停止把这看作机器人流量，而要开始把代理视为拥有委托权限的客户。”"
+        }
+      ]
+    },
+    "marketing/digiday-blackfriday-ai-shoppers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "在黑色星期五/网络星期一前夕，营销人员正将广告预算转向效果渠道，而消费者则在采用Gemini和ChatGPT等生成式AI工具来辅助购买决策。"
+        },
+        {
+          "t": "p",
+          "x": "Jellyfish的SEO副总裁Jonathan Verrall表示：“如今，AI会提前几周根据购物者信任的来源拟出候选清单。”"
+        },
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
+        },
+        {
+          "t": "p",
+          "x": "Brainlabs对2,800名U.S.和U.K.购物者的调查发现，用AI进行商品研究的比例平均从去年的6%升至13%。"
+        },
+        {
+          "t": "p",
+          "x": "Jellyfish对U.K.黑色星期五相关提示词的研究发现，第三方来源在AI引用中占主导。PMG发现，在推荐某品牌产品的AI回答所引用的203个链接中，该品牌网站仅提供了24个。"
+        },
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
+        },
+        {
+          "t": "p",
+          "x": "AdClarity估计，10月ChatGPT上的广告总支出达到$116.6 million，其中U.S.品牌占64%。据Bain统计，42%的消费者使用AI工具研究商品，但McKinsey发现年长购物者相对落后。"
+        },
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
+        }
+      ]
+    },
+    "marketing/danawa-chatgpt-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
+          "cap": "Connectwave旗下Danawa在ChatGPT上推出的Danawa MCP服务（Connectwave提供）"
+        },
+        {
+          "t": "p",
+          "x": "Connectwave（119860）旗下比价服务Danawa将实时商品信息接入ChatGPT，进军对话式购物市场。消费者向人工智能（AI）说明预算和用途后，它会帮助缩小购买候选范围。"
+        },
+        {
+          "t": "p",
+          "x": "据Connectwave 25日介绍，Danawa已在OpenAI的ChatGPT上推出“Danawa MCP”服务。继今年8月接入Anthropic的Claude之后，再次扩大了适用范围。MCP是让AI能够调用外部数据和工具的标准接口。"
+        },
+        {
+          "t": "p",
+          "x": "用户在ChatGPT设置的应用菜单中连接Danawa后，输入想要的购买条件即可。例如，提出“推荐一款单间用的10万韩元以下电暖器”，它就会根据Danawa数据比较价格、主要规格和卖家并给出建议。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
+          "cap": "Connectwave旗下Danawa在ChatGPT上的Danawa MCP服务移动端界面（Connectwave提供）"
+        },
+        {
+          "t": "p",
+          "x": "扩大ChatGPT接入的背后是现有的用户流向。据该公司介绍，今年1~10月经生成式AI访问Danawa的用户中，约74%来自ChatGPT。这一比例针对的是经生成式AI访问的用户，而非全部访客。"
+        },
+        {
+          "t": "p",
+          "x": "在Claude上，自8月服务上线以来，MCP用户增长了5倍以上。"
+        },
+        {
+          "t": "p",
+          "x": "Danawa从国内50多家电商实时收集价格和商品信息，拥有约14亿件商品的数据库（DB）。公司计划将AI数据联动扩展到网络、租赁、搬家、室内装修、金融等生活服务领域。"
+        },
+        {
+          "t": "p",
+          "x": "Connectwave Danawa·Enuri业务代表Ha Woo-sung表示：“在用户最多的ChatGPT上也能直接使用Danawa，与AI用户的接触点进一步扩大了。”"
+        }
+      ]
+    },
+    "marketing/iab-europe-agentic-playbook": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
+          "cap": "IAB Europe的90-day AI手册要求出版商为7种AI用途制定规则，但未给出价格"
+        },
+        {
+          "t": "p",
+          "x": "IAB Europe于11月26日发布了Publisher Playbook for the Agentic Web，这是一款22-slide的交互式工具，由其Publisher Content & AI Task Force和AI Working Group开发，并吸纳了BVDW Working Group的反馈。"
+        },
+        {
+          "t": "p",
+          "x": "出版商首先进行12-area自我评估，每项按0到3分打分，满分36分。在制定任何AI访问规则之前，流量会被分为五类：从人类互动、经验证的有益自动化，到未知自动化以及恶意或滥用流量。"
+        },
+        {
+          "t": "p",
+          "x": "手册不采用单一的全站AI政策，而是要求就七种AI用途分别作出决定：模型训练、索引与发现、溯源与实时检索、实体提取、代理浏览、代理操作以及广告用途。"
+        },
+        {
+          "t": "p",
+          "x": "在“Six ways to charge”部分，手册列出了六种授权模式：固定授权、按用量授权、混合模式、订阅嵌入、署名授权和成果授权，另附13个合同尽职调查问题。最后是由九个角色组成的治理结构、11项定义指标以及21-step的90-day计划。手册未设定任何价格、费率或标准合同条款。"
+        }
+      ]
+    },
+    "marketing/reddit-max-agent-buying": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b05aca90b69407d788a60d1?width=1200&format=jpeg",
+          "cap": "Reddit COO Jen Wong的2027年广告增长议程以搜索、购物和AI智能体为核心。"
+        },
+        {
+          "t": "p",
+          "x": "Reddit推出了新的广告议程：搜索、购物和AI智能体。首席运营官(COO) Jen Wong对CMO Insider表示，随着行业转向智能体式广告购买，Reddit明年希望在其自动化购买平台Reddit Max中开始测试模型上下文协议(MCP)服务器和智能体间(agent-to-agent)广告购买功能。"
+        },
+        {
+          "t": "p",
+          "x": "本月，Reddit开始在美国(US)测试搜索结果页广告，在与用户查询相关时自动投放，而不是出售关键词竞价。它还推出了Reddit Reviews，利用AI将subreddit讨论汇总成产品评测页面；Wong建议营销人员持续上传最新的产品目录，为Reddit的产品知识图谱提供数据。"
+        },
+        {
+          "t": "p",
+          "x": "第三季度广告收入同比增长54%，达到8.47亿美元，广告业务中超过60%如今属于“效果导向”(performance oriented)。美国(US)日活跃用户同比下降2%；Reddit公布的全球日活跃用户为1.3亿。"
+        },
+        {
+          "t": "img",
+          "src": "https://i.insider.com/6b06b143d6c5d341c9b4d105?width=1200&format=jpeg",
+          "cap": "Reddit吉祥物Snoo今夏现身该品牌在纽约市举办的便利店快闪活动。"
+        },
+        {
+          "t": "p",
+          "x": "“Reddit本身已日益成为一个效果渠道，但它常常未被充分利用，也未被充分重视，”效果营销机构Tinuiti的VP Jack Johnston表示。"
+        }
+      ]
     }
   }
 }

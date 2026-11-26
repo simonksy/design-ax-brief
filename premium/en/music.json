@@ -12548,6 +12548,128 @@
           "x": "Tidal has tested its detection tools with Ircam Amplify. “A small amount of false positives is inevitable, but between our appeals process and improving detection technology, we are confident in our approach,” a spokesperson said. Distributors will also be banned from delivering these tracks, and deliveries will be rejected if metadata says they were generated solely using AI tools."
         }
       ]
+    },
+    "music/ua-universe-luna-addons": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft2.jpg",
+          "cap": "UA Universe: A New Developer Platform and Community for LUNA · Source: Universal Audio"
+        },
+        {
+          "t": "p",
+          "x": "Now in public beta, UA Universe lets you create and share custom LUNA workflow tools and enhancements with its JavaScript-based development kit. With UA Universe, you can use text prompting with AI assistants such as Claude Code and Codex in LUNA to customize your user experience and share your tools with the online community."
+        },
+        {
+          "t": "p",
+          "x": "While it doesn’t allow the building of instruments or processing plugins, this new SDK lets you develop add-ons and customizations for enhancing your user experience for different recording and production applications. These add-ons make live readings and alterations to the current LUNA session, which includes functions like parameter control and MIDI editing."
+        },
+        {
+          "t": "p",
+          "x": "Any actions that an add-on executes are logged within the LUNA undo history, so you can track each step as you design the workflow. There is also a mock environment, so you can run tests and debug your add-ons before going live in LUNA."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-interdaw.jpg",
+          "cap": "InterDAW add-on by @cp666-dev · Source: Universal Audio"
+        },
+        {
+          "t": "p",
+          "x": "This means you can mimic aspects of your familiar workflow within LUNA. Within the UA Universe community, we could well start seeing Logic Pro or Pro Tools skins that make switching over from one DAW to another more seamless, just as we have seen in the Reaper community."
+        },
+        {
+          "t": "p",
+          "x": "To get started, you will need to be running LUNA, and then you can install the LUNA Builder Tools with the starter prompt. New user add-ons have already been published, including tools with functions like swipe-comping and even one that lets you import Ableton Live sessions into LUNA."
+        }
+      ]
+    },
+    "music/cyanite-concierge-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
+          "cap": "Cyanite Concierge screenshot of features"
+        },
+        {
+          "t": "p",
+          "x": "We’ve been writing about conversational AI and its use in various consumer-focused services – Spotify and more. But there are plenty of B2B uses in the music industry too. Cyanite has the latest example."
+        },
+        {
+          "t": "p",
+          "x": "The company has been using AI to analyse and tag catalogues of music for years. Its latest thing is Cyanite Concierge, which aims to make those catalogues even easier to search."
+        }
+      ]
+    },
+    "music/mit-tangimap-controls": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-TangiMap.png",
+          "cap": "Illustration of a cube appearing to jump off the screen of a laptop. The computer is connected to a mixer, which two hands control."
+        },
+        {
+          "t": "p",
+          "x": "A new system called “TangiMap,” co-developed by an MIT graduate student and researcher at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL), personalizes the physical controls on everyday devices by mapping digital widgets onto tangible inputs, turning things like editing photos, animation, performing music, and creating 3D models into more dynamic and tactile experiences. Just as a DJ’s pads switch between triggering cues, loops, and samples, TangiMap gives a device’s controls entirely new roles."
+        },
+        {
+          "t": "p",
+          "x": "TangiMap relies on an AI agent to find and act on context about the software you’re using, your tendencies, and the device used to control that program, drawing on the program’s API, an MCP server, or a screenshot interpreted by a vision-language model. The agent then uses a large language model to put the info into a file before mapping digital functions to physical controls."
+        },
+        {
+          "t": "p",
+          "x": "The researchers turned a standard mixer into a photo-editing controller for Adobe Lightroom, did the same with sound-mixing software so performers can adjust their music in real-time with knobs and faders, mapped a simpler mixer to Blender, and puppeteered characters live in Adobe’s Character Animator. Yunyi Zhu and co-author Chang Xiao presented the tool at the ACM Symposium on User Interface Software and Technology."
+        }
+      ]
+    },
+    "music/madlibs-genmusic-distribution": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MADlibs: Analyzing the Distribution of Generative Music — Matthew Keating, Noah Schaffer, Michael Casey and Nikhil Singh (Dartmouth College)."
+        },
+        {
+          "t": "p",
+          "x": "What music can a text-to-music model actually make? The answer has consequences for individual creators, communities, and musical culture more broadly. MADlibs is a framework to measure the expressive support of state-of-the-art music generators: the subset of musical behaviors they will actually produce across the space of prompts. The authors study three widely-used models: MusicGen, ACE-Step, and DiffRhythm."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.31462v1/banner.png",
+          "cap": "Figure 1: End-to-end MADlibs pipeline. Using five different prompting strategies, we generate 10,000 prompts and use these as input to three text-to-music models. We then perform downstream MIR analysis on the output of all models."
+        },
+        {
+          "t": "p",
+          "x": "Prompts are generated with natural language processing methods and existing caption corpora; MIR techniques then study the output spaces in terms of key, beat, tempo, instrumentation, and dynamics."
+        },
+        {
+          "t": "p",
+          "x": "The finding: text-to-music models are not interchangeable instruments for the same prompt space. Each has learned idiosyncratic properties that constrain the music reachable via prompting — defaulting to certain tempi, failing to produce silences, or oversampling canonical band arrangements. Because users interact one prompt at a time, these biases are often invisible yet cumulatively shape what AI-assisted music sounds like, risking \"a new auditory monoculture hidden behind the promise of universal describability.\""
+        }
+      ]
+    },
+    "music/suno-chicks-amended-complaint": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg",
+          "cap": "Credit: Zulfugar Graphics/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "A new group of artists has joined Jason Isbell's proposed class action lawsuit against Suno, according to an amended complaint filed in Boston federal court on Tuesday (November 24). They include The Chicks, David Longstreth, Carl Craig, Phil Elverum and Ezra Furman, plus the surviving spouses of Willie Colón and Sam Moore - 16 new plaintiffs in total."
+        },
+        {
+          "t": "p",
+          "x": "The case contains no copyright claims. It accuses Suno of encoding musicians' identities into its AI models and answering their names with songs, text descriptions and cover images that evoke them, without consent, under right-of-publicity laws in 14 US states and Puerto Rico and Illinois' BIPA. The filing came 21 days after Suno asked the court to dismiss the case."
+        },
+        {
+          "t": "p",
+          "x": "The amended complaint adds demonstrations using Suno's v6 models, launched in September. \"Suno claims it only trained on licensed music for its v6 models, based on agreements with BMG, Warner, Believe and its subsidiary TuneCore,\" it states. \"However, Franz Nicolay gave no such consent.\" The prompt \"Emily Strayer\" produced songs with a \"rolling banjo.\""
+        },
+        {
+          "t": "p",
+          "x": "It keeps the original's 17 counts and seeks an injunction, damages, restitution and disgorgement of profits."
+        }
+      ]
     }
   }
 }

@@ -12866,6 +12866,144 @@
           "x": "Nsight Graphics 2026.4とNsight Systems 2026.6は、DLSS Frame Generationの解析とエージェント型AIツールを追加した。新しいNsight Graphics MCPサーバーにより、対応するAIエージェントがアプリケーションのキャプチャ、キャプチャのデバッグ、GPUトレースの解析を行える。"
         }
       ]
+    },
+    "games/unity-spark-annotate": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "QmX2VKa1_24"
+        },
+        {
+          "t": "p",
+          "x": "物をどこに置くかを言葉で説明するだけでなく、シーン上で直接注釈（描く、選ぶ、指す）を加えられる。"
+        },
+        {
+          "t": "p",
+          "x": "Unity SparkのAnnotate機能を使えば、ゲームシーンやワークスペースのどこにでも直接注釈を書き込み、Unity Sparkが必要とする正確な視覚的文脈を与えられる。"
+        },
+        {
+          "t": "p",
+          "x": "Unity Sparkクローズドベータのウェイトリストへの登録: https://on.unity.com/4CmmUb7"
+        }
+      ]
+    },
+    "games/tlou2-ai-multiplayer-mod": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "また別のモッダーがAIを使って『The Last of Us Part 2』のマルチプレイモードを作り、「たとえ自分が止められたとしても」Sonyにできることはあまりないと主張している。"
+        },
+        {
+          "t": "p",
+          "x": "Naughty Dogは、『The Last of Us Part 2』をベースにしたマルチプレイゲーム『Factions』の計画を中止した。9月には、制作者「Speclizer」による期待のマルチプレイMODが、公開前にSonyから停止通告書を受け取っている。"
+        },
+        {
+          "t": "p",
+          "x": "新しいMODの名前は「Twelve Weeks」で、PC版『The Last of Us Part 2 Remastered』専用に作られた。制作者は生成AIを使ったことを認めている。モッダーの「Kellie」は、ゲーム開発の大部分にClaude codeを使ったと認め、ゲーム内で読める設定テキストの執筆にもAIが使われた。ただしアートはBlenderで制作されている。"
+        },
+        {
+          "t": "p",
+          "x": "現時点ではSupply RaidとInterrogationを作り直したレベルを収録し、チーム制の4v4戦闘、新しい武器、キャラクターカスタマイズを備える。プレイヤーはWLFとSeraphitesに分かれて戦う。Twelve WeeksはNexus Modsで入手できる。リポジトリの免責事項には、非公式のファンプロジェクトであり、ゲームファイルもゲームから取り出したアセットも含まないと記されている。"
+        },
+        {
+          "t": "p",
+          "x": "KellieはYouTubeでの返信で、以前のFactions MODは有料だったためにSonyに潰されたと述べた。「自分のMODはすでに無料かつオープンソースで公開している」とし、「みんなすでにMOD全体のソースコードを持っているから、たとえ自分が止められたとしても、向こうにできることはあまりない」と語った。"
+        }
+      ]
+    },
+    "games/umamusume-ai-clone-pulled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Umamusume: Pretty Derby（ウマ娘 プリティーダービー）のAI製クローンが、ファンの怒りを買ってGoogle Playストアから削除された。コミュニティが組織的に、問題のタイトルをCygamesへ通報していた。"
+        },
+        {
+          "t": "video",
+          "yt": "bZ6NL-oPEkI"
+        },
+        {
+          "t": "p",
+          "x": "HIFI Publishersが開発したAnime Racing Academyは、公式ストアの説明文で「アクション満載のアニメレーシングゲーム」と紹介されていた。Umamusumeと同じく人型の馬娘を育成してレースさせられるゲームで、一部のデザインはUmamusumeのキャラクターに酷似し、ほかはまるごとコピーしたように見える。Umamusumeと違って広告だらけだったことも、興味を持ったファンが指摘している。"
+        },
+        {
+          "t": "p",
+          "x": "Umamusumeのファンがこのゲームを見つけると、多くの人が通報してGoogle Playストアから削除させようと動いた。執筆時点ではそれが実現したようで、ゲームはモバイルプラットフォーム上で見つからなくなっている。HIFI Publishersのほかのゲームはストアに残っていることから、このゲームが個別に通報され、削除されたとみられる。"
+        }
+      ]
+    },
+    "games/alphadefect-slay-spire2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "パリ・サクレー大学のQiyue Chen氏、ニューサウスウェールズ大学のTaian Yu氏、モハメド・ビン・ザーイド人工知能大学の小宮山純平氏、香港中文大学のHaobo Huang氏ら4名は11月24日、共著論文「AlphaDefect: Expert-Level AI for Slay the Spire 2」を発表した。本作の従来の最高難易度として知られる「アセンション10」を攻略する強化学習システム「AlphaDefect」が提案されている。アセンション10では、第3層の最終ボスが2体連戦になる。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは本作のコンパイル済みアセンブリを読み込み、プレゼンテーション層だけを置き換えて、画面表示を伴わずにAIがすべての意思決定をおこなえる環境を構築した。6キャラクターそれぞれに計6つのネットワークを用意し、毎秒5000～1万回というペースでデータを収集。最終的には各キャラクターをあわせて25日間、計142億回の意思決定がおこなわれた。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "評価では、もっとも高い確率の候補を選ぶ貪欲法に加え、AIが判断を迷う場面（最有力候補の選択確率が90％未満）に限り先読みを併用。貪欲法のみでは62.2％～76.7％の勝率を記録し、先読みを用いると各キャラクターの勝率は約3～6ポイント上昇した。特にディフェクトは80.3％に達している。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "比較対象となる非公式データベース「Spire Codex」の人間のプレイデータでは、6キャラクターのアセンション10の勝率は10.9～19.9％。bilibiliでのライブ配信では全866回のランのうち645回に勝利した。ドレッドモードではディフェクトの勝率が16.8％で、人間のプレイヤーは9.4％だった。"
+        },
+        {
+          "t": "p",
+          "x": "一方で、貪欲法のみで敗北するケースの47～68％は第3層の最終ボス2連戦での負けだった。研究チームは、学習の段階にも先読みを取り入れることを今後の課題に挙げている。"
+        }
+      ]
+    },
+    "games/eafc-motson-ai-voice": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "伝説的なサッカー解説者John Motsonが、本日配信のEA FC 27タイトルアップデートでAIの姿となってシリーズに復帰する。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+          "cap": "画像提供: Getty Images - 撮影 Laurence Griffiths/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "2023年に77歳で亡くなったBBCの伝説的サッカー実況者John「Motty」Motsonが、「本人のオリジナル音声と、本人の録音で学習したAIによる再現音声（AI-recreation）を組み合わせて」EA Sports FC 27に追加される。発表によると、「ほぼ10年分のゲーム内録音」が「新しいAIツール」とともに使われた。EAのサッカーシリーズとの関わりはFIFA Soccer 96にさかのぼる。"
+        },
+        {
+          "t": "p",
+          "x": "「父はゲームの声であることを心から愛していました。この心のこもったトリビュートでゲームの中に父の記憶を残してくれたEA Sports FCのチームに深く感謝しています」とJohnの息子Fredは語った。BBCによると、EAは遺族に非公開の金額を支払った。"
+        },
+        {
+          "t": "p",
+          "x": "誰もが歓迎しているわけではない。EA Sports FCのsubredditでは「恥ずべき」「無礼だ」「気持ち悪い」「ひどく暗い」との声が上がり、あるRedditユーザーは「なんてクソみたいに暗い世界に生きているんだ」と書いた。Save Our Voices NowのPeter Caulfieldは「本人が明確に同意していない限り、いかなる形のAIクローンも認められるべきではない」と述べた。一方、Red Hook Studiosはナレーターを務めるWayne Juneの声をAIで再現することは決してないとしている。"
+        }
+      ]
     }
   }
 }

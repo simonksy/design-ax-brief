@@ -1,96 +1,79 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "gadgets",
   "items": [
     {
-      "title": "$799 Smart Glasses Promise Vision Pro-Style Controls in a 45g Frame",
-      "url": "https://www.macrumors.com/2026/11/25/smart-glasses-promise-vision-pro-style-controls/",
-      "source": "MacRumors",
-      "published_iso": "2026-11-25T17:09:11+00:00",
-      "og_image": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg",
-      "excerpt": "Hong Kong startup Savage Technology has announced its first product, \"Orrorin Glasses,\" promising Vision Pro-style pinch controls and full-color displays for both eyes in a frame weighing just 45 grams. The company describes the glasses as offering \"Vision Pro–level interaction\" and being around 25 times lighter than Apple's headset, including its external battery.",
+      "title": "China's Xpeng wants to put an eerily friendly humanoid robot in your home for the same price as an affordable EV",
+      "url": "https://www.digitaltrends.com/cool-tech/xpeng-iron-humanoid-robot-ev-price-home/",
+      "source": "Digital Trends",
+      "published_iso": "2026-11-26T11:17:11-08:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "At its Nov 25 AI Day, XPeng showed the latest IRON humanoid (76 DoF, 1,500+ tactile points, three in-house Turing AI chips running onboard models) answering questions live; it targets a 2027 launch at a price comparable to an EV, with household use on the roadmap.",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "A new product announcement with a price: $799 glasses with binocular color displays and pinch input at 45 g. It is a new smart-glasses interaction claim from a company that does not appear in the 30-day history."
+      "rationale": "A new hardware reveal from XPeng's Nov 25 AI Day: an onboard-AI humanoid with a 2027 launch target and EV-level pricing. It is a different company and event from the Meta prototype report (11-02) and the 90kg humanoid (11-25)."
     },
     {
-      "title": "Wyze's new window feeder records birds from a camera inside your home",
-      "url": "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification",
-      "source": "The Verge",
-      "published_iso": "2026-11-24T15:14:05+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/wyzebird1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-      "excerpt": "Wyze launched the $70 Window Bird Cam, a window-mounted feeder whose camera sits inside the home and uses AI to identify bird species.",
+      "title": "HP코리아, AI PC '옴니북 울트라 16' 국내 출시",
+      "url": "https://www.etnews.com/20261124000168",
+      "source": "전자신문",
+      "published_iso": "2026-11-24T10:25:10+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+      "excerpt": "HP Korea launched the OmniBook Ultra 16 on Nov 24, built on Nvidia's RTX Spark N1X platform (20-core Grace CPU, 6,144-core Blackwell GPU, up to 128GB unified memory) to run large AI models locally without the cloud and drive multi-step AI agents.",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "A product launch at a consumer price ($70), with on-device AI species identification. It is one story across two outlets (cluster c7), so the Verge copy is kept and the 9to5Google copy is dropped."
+      "rationale": "A concrete retail launch of an RTX Spark laptop with 128GB of unified memory for running AI locally. It is a new HP product, distinct from the Gigabyte, Asus, Dell and MSI desktops and the ProArt P14 review already published."
     },
     {
-      "title": "Child safety groups across the world are begging Amazon to remove AI toys for kids",
-      "url": "https://www.digitaltrends.com/cool-tech/child-safety-groups-across-the-world-are-begging-amazon-to-remove-ai-toys-for-kids/",
+      "title": "USC engineers built a smart ring that monitors stress by taking a peek at your sweat glands",
+      "url": "https://www.digitaltrends.com/wearables/usc-ai-stress-ring/",
       "source": "Digital Trends",
-      "published_iso": "2026-11-25T00:45:03-08:00",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Kid-playing-with-Robot-AI-Toy.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "A plush bunny marketed for ages 3 and up reportedly connects to chatbots whose own terms say 13 and older.",
+      "published_iso": "2026-11-20T18:29:54-08:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "A USC team's smart ring uses near-infrared light to read sweat-gland activity and runs a 27.65kB INT8 stress model entirely on the ring's microcontroller, cutting post-sensing delay ~300x (9.9s to 33ms) versus streaming raw data (Science Advances).",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "A distinct new action: an international coalition of child-safety groups petitioning Amazon to delist AI toys, with a mismatch between the product's age rating and the chatbot's terms. The curator brief marks it as separate from the New York ban, which politics has already published."
+      "rationale": "A new research prototype: a ring that runs a stress model entirely on the device and cuts latency about 300x, a concrete result for edge AI in wearables. It is unrelated to the Aina and Pebble rings already published."
     },
     {
-      "title": "Rogbid's Loop Memo Puts a Voice Recorder and Health Tracker on Your Wrist",
-      "url": "https://the-gadgeteer.com/2026/11/25/rogbid-loop-memo-voice-recorder-band/",
-      "source": "The Gadgeteer",
-      "published_iso": "2026-11-25T03:00:00-06:00",
-      "og_image": "https://the-gadgeteer.com/wp-content/uploads/2026/11/Rogbid-Loop-Memo-AI-Voice-Recorder-Smart-Band.jpg",
-      "excerpt": "A voice recorder that lives on your wrist and never asks for a subscription fee is a pitch I can get behind. Rogbid's Loop Memo records with one press, then",
+      "title": "Ray-Ban and Oakley Meta AI glasses are coming to SA",
+      "url": "https://www.bizcommunity.com/article/ray-ban-and-oakley-meta-ai-glasses-are-coming-to-south-africa-295107a",
+      "source": "Bizcommunity",
+      "published_iso": "2026-11-18T08:08+02:00",
+      "og_image": "https://biz-file.com/c/2611/828131-1200x624.jpg?5",
+      "excerpt": "EssilorLuxottica and Meta are bringing Ray-Ban Meta and Oakley Meta AI glasses to South Africa from end of November - Meta's first African market - with local pricing (Ray-Ban Meta Gen 3 R8,599, Oakley Meta HSTN R8,399, Vanguard R10,599) and built-in Meta AI for asking about what you see.",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "A new wearable: a one-press AI voice recorder combined with a health band, with no subscription. It is a new form factor in the AI note-taker category, unlike the Anker, Flowtica and Comulytic devices published earlier."
-    },
-    {
-      "title": "Google Home gets another big update with these new app, Nest Cam, and Gemini features",
-      "url": "https://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/",
-      "source": "9to5Google",
-      "published_iso": "2026-11-25T21:50:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Google Home is rolling out another big update, this time adding features and bringing improvements across Nest Cam, Nest Thermostarts,...",
-      "tool": "Gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "A new rollout (the 11-25 Google Home release) with fresh Nest Cam and Gemini features. It is a separate release from the 11-11 update and the 11-17 announcement, so it is labelled as a follow-up."
+      "rationale": "A new market launch, Meta AI glasses' first African country, with local prices. The curator brief explicitly allows it in gadgets. It is a different story from the 11-21 Gen 3 review and from the Dutch privacy items."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.macrumors.com/2026/11/25/smart-glasses-promise-vision-pro-style-controls/": {
+      "https://www.digitaltrends.com/cool-tech/xpeng-iron-humanoid-robot-ev-price-home/": {
         "verdict": "new",
-        "nearest": "https://www.notebookcheck.net/Rokid-Glasses-2-launch-with-upgraded-design-bigger-battery-and-Dolby-Audio-support.1435436.0.html",
+        "nearest": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
         "new_action": ""
       },
-      "https://www.theverge.com/tech/1041164/wyze-window-bird-cam-camera-identification": {
+      "https://www.etnews.com/20261124000168": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html",
         "new_action": ""
       },
-      "https://www.digitaltrends.com/cool-tech/child-safety-groups-across-the-world-are-begging-amazon-to-remove-ai-toys-for-kids/": {
+      "https://www.digitaltrends.com/wearables/usc-ai-stress-ring/": {
         "verdict": "new",
-        "nearest": "https://www.nbcnews.com/tech/tech-news/ai-toys-kids-walmart-target-pull-plush-cat-described-sexual-violence-rcna608588",
+        "nearest": "https://www.wired.com/story/aina-smart-ring/",
         "new_action": ""
       },
-      "https://the-gadgeteer.com/2026/11/25/rogbid-loop-memo-voice-recorder-band/": {
+      "https://www.bizcommunity.com/article/ray-ban-and-oakley-meta-ai-glasses-are-coming-to-south-africa-295107a": {
         "verdict": "new",
-        "nearest": "https://www.digitaltrends.com/computing/anker-soundcore-work-typeless-ai-dictation/",
+        "nearest": "https://www.engadget.com/2322827/ray-ban-meta-gen-3-review/",
         "new_action": ""
-      },
-      "https://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/": {
-        "verdict": "follow-up",
-        "nearest": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
-        "new_action": "New 11-25 Google Home release rolling out Nest Cam, Nest Thermostat, app and Gemini changes (distinct from the 11-11 update and the 11-17 feature announcement https://9to5google.com/2026/11/17/google-home-new-features-nest-thermostat-upgrades/)"
       }
     },
-    "note": "Pool of 14. CROSS-SECTION DROP: the whole New York AI-chatbot-toy ban cluster — TechCrunch, The Verge, TechRadar, Notebookcheck, and Gizmodo 'AI Toys Are a Nightmare Before Christmas' (built on the same signing). Politics already published the primary source on 11-25 (governor.ny.gov 'Governor Hochul Signs Five-Year Ban on AI Chatbot Toys'), and a story may run in only one section. Within-pool drop: the 9to5Google Wyze Window Bird Cam (same story as the Verge copy, cluster c7). Content drop: CNET 'Apple Watch audio intelligence' hands-on. It is a review of the watchOS 27.3 Live Rewind/Siri Recap features published 11-04 (macrumors), with no new release. Quality drops: Tapo C825 (the AI is incidental; it is a touchscreen/video-call camera), and the Gizmodo 'AI Earbuds Are Being Held Back by Their AI' column (commentary, already dropped on 11-25, echoes the 11-09 Tom's Guide piece). Timing: every pick except Wyze was published after the 11-25 07:00 KST run, so none can be in published_urls.json. Wyze (11-24 15:14 UTC) predates that run but is absent from the gadgets 30-day digest and the politics digest, and the brief lists no cross-section assignment for it. Diversity: 5 distinct outlets, 1 each."
+    "note": "Pool of 8; I picked 4 rather than pad. DROPPED: (1) The Verge, Google Familiar Faces on Walmart onn cameras (11-26 00:04 UTC). It is very likely part of the same 11-25 Google Home rollout that gadgets already published on 11-26 (9to5google google-home-update-nest-cam-thermostat-gemini-features), and it has no separate release of its own. (2) Digital Trends, Dutch consumer-group lawsuit over Ray-Ban Meta. It is a follow-up to the 11-24 Dutch DPA 'pervert glasses' card (techcrunch). A lawsuit filing is not a new product release or announcement, and it belongs with politics if anywhere. (3) Engadget, Nothing Ear (note). It is the same Nothing AI device already carded on 11-05 (Verge tease) and 11-21 (Engadget 'debuts December 8'). Full details and pricing only come on Dec 8, and the rotation note holds Nothing at 0 until then. (4) 전자신문, SK Intellix NAMUHX standards award. An award story with no product or feature news. CROSS-SECTION: published_urls.json (5,038 lines) is too large to read in full here. None of the pick URLs are in the gadgets 30-day digest, and the brief lists no cross-section assignment for them apart from allowing the Meta SA launch in gadgets. The orchestrator should still scan the archive for 'USC stress ring' (science/medicine could have taken it: Science Advances, published 11-20), 'OmniBook Ultra 16' and 'XPeng IRON'. Diversity: Digital Trends x2 (the cap), 전자신문, Bizcommunity = 3 outlets."
   }
 }

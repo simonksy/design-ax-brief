@@ -12839,6 +12839,144 @@
           "x": "Nsight Graphics 2026.4 y Nsight Systems 2026.6 añaden análisis de DLSS Frame Generation y herramientas de AI agéntica: un nuevo Nsight Graphics MCP server permite a agentes AI compatibles capturar aplicaciones, depurar capturas y analizar trazas de GPU."
         }
       ]
+    },
+    "games/unity-spark-annotate": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "QmX2VKa1_24"
+        },
+        {
+          "t": "p",
+          "x": "En lugar de solo describir dónde van las cosas, puedes hacer anotaciones (dibujar, seleccionar, señalar) en la escena."
+        },
+        {
+          "t": "p",
+          "x": "Con la función Annotate de Unity Spark, puedes anotar directamente sobre la escena de tu juego o en cualquier parte de tu espacio de trabajo para darle a Unity Spark el contexto visual exacto que necesita."
+        },
+        {
+          "t": "p",
+          "x": "Únete a la lista de espera de la beta cerrada de Unity Spark: https://on.unity.com/4CmmUb7"
+        }
+      ]
+    },
+    "games/tlou2-ai-multiplayer-mod": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Otro modder ha usado IA para crear un modo multijugador para The Last of Us Part 2, y sostiene que Sony no puede hacer mucho al respecto \"aunque me cierren\"."
+        },
+        {
+          "t": "p",
+          "x": "Naughty Dog canceló Factions, el juego multijugador que tenía previsto basado en The Last of Us Part 2. En septiembre, un prometedor mod multijugador del creador 'Speclizer' recibió de Sony una carta de cese y desistimiento antes de su lanzamiento."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo mod se llama Twelve Weeks y se creó específicamente para The Last of Us Part 2 Remastered en PC usando, según ha admitido su creador, IA generativa. Quien lo creó, 'Kellie', admitió haber usado Claude code para la mayor parte del desarrollo, y la IA se usó incluso para escribir los textos de trasfondo que se encuentran en el juego. El arte, sin embargo, se hizo con Blender."
+        },
+        {
+          "t": "p",
+          "x": "Incluye niveles rediseñados —por ahora, Supply Raid e Interrogation— con combates por equipos 4v4, armas nuevas y personalización de personajes, en los que los jugadores luchan como WLF y Seraphites. Twelve Weeks se puede descargar en Nexus Mods. Un aviso en el repositorio indica que es un proyecto no oficial de fans y que no contiene archivos del juego ni recursos extraídos de él."
+        },
+        {
+          "t": "p",
+          "x": "En una respuesta en YouTube, Kellie dijo que el anterior mod de Factions fue blanco de Sony porque era de pago. \"El mío ya está publicado gratis y en código abierto\", dijo. \"Como la gente ya tiene el código fuente del mod completo, no pueden hacer mucho aunque me cierren\"."
+        }
+      ]
+    },
+    "games/umamusume-ai-clone-pulled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Un clon de Umamusume: Pretty Derby hecho con IA ha sido retirado de Google Play Store después de provocar el enfado de los fans, y de que la comunidad se organizara para denunciar el título ante Cygames."
+        },
+        {
+          "t": "video",
+          "yt": "bZ6NL-oPEkI"
+        },
+        {
+          "t": "p",
+          "x": "Anime Racing Academy, desarrollado por HIFI Publishers, se presentaba en su descripción oficial de la tienda como un \"juego de carreras anime lleno de acción\". Como Umamusume, permite gestionar y hacer competir a chicas caballo humanoides, y algunos de sus diseños son réplicas muy cercanas de personajes de Umamusume, mientras que otros parecen copias directas. A diferencia de Umamusume, estaba repleto de anuncios, como señalaron fans curiosos."
+        },
+        {
+          "t": "p",
+          "x": "Cuando los fans de Umamusume descubrieron el juego, muchos impulsaron que se denunciara y se retirara de Google Play Store. En el momento de escribir esto, parece que así ha sido, ya que el juego ya no aparece en la plataforma móvil. Otros juegos de HIFI Publishers siguen en las tiendas, lo que indica que este juego en concreto fue denunciado y retirado."
+        }
+      ]
+    },
+    "games/alphadefect-slay-spire2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Cuatro investigadores —Qiyue Chen, de la Universidad Paris-Saclay; Taian Yu, de la Universidad de Nueva Gales del Sur; Junpei Komiyama, de la Universidad de Inteligencia Artificial Mohamed bin Zayed, y Haobo Huang, de la Universidad China de Hong Kong— publicaron el 24 de noviembre el artículo conjunto «AlphaDefect: Expert-Level AI for Slay the Spire 2». En él proponen AlphaDefect, un sistema de aprendizaje por refuerzo que supera Ascensión 10, conocido como el nivel de dificultad más alto del juego hasta ahora. En Ascensión 10, el jefe final del acto 3 pasa a ser un doble combate seguido contra dos jefes."
+        },
+        {
+          "t": "p",
+          "x": "El equipo cargó los ensamblados compilados del juego y sustituyó solo la capa de presentación, con lo que creó un entorno en el que la IA toma todas las decisiones sin mostrar nada en pantalla. Preparó seis redes en total, una para cada uno de los seis personajes, y recopiló datos a un ritmo de entre 5000 y 10.000 por segundo. Al final, sumando todos los personajes, se tomaron 14.200 millones de decisiones en 25 días."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "En la evaluación, además de un método voraz que elige la opción de mayor probabilidad, se añadió búsqueda anticipada solo cuando la IA dudaba (cuando la probabilidad de elegir la opción principal era inferior al 90 %). Con el método voraz solo, las tasas de victoria fueron del 62,2 % al 76,7 %, y con la búsqueda anticipada la tasa de cada personaje subió unos 3 a 6 puntos. El Defecto, en particular, llegó al 80,3 %."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "En los datos de partidas humanas de Spire Codex, una base de datos no oficial usada como referencia, las tasas de victoria en Ascensión 10 de los seis personajes fueron del 10,9 % al 19,9 %. En una transmisión en directo en bilibili, ganó 645 de 866 partidas. En el modo Pavor, la tasa de victoria del Defecto fue del 16,8 %, frente al 9,4 % de los jugadores humanos."
+        },
+        {
+          "t": "p",
+          "x": "Por otro lado, entre el 47 % y el 68 % de las derrotas con el método voraz solo se produjeron en el doble combate contra el jefe final del acto 3. El equipo señala como tarea pendiente incorporar la búsqueda anticipada también en la fase de entrenamiento."
+        }
+      ]
+    },
+    "games/eafc-motson-ai-voice": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El legendario comentarista de fútbol John Motson volverá a la serie, en forma de AI, en la actualización de EA FC 27 que se publica hoy."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
+          "cap": "Crédito de imagen: Getty Images - Foto de Laurence Griffiths/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "El legendario comentarista de fútbol de la BBC John \"Motty\" Motson, fallecido en 2023 a los 77 años, se incorpora a EA Sports FC 27 mediante \"una mezcla de su audio original y una AI-recreation (recreación por AI) entrenada con grabaciones de él mismo\". El anuncio indica que se usaron \"casi 10 años de grabaciones in-game\" con \"nuevas herramientas de AI\". Su historia con la serie de fútbol de EA se remonta a FIFA Soccer 96."
+        },
+        {
+          "t": "p",
+          "x": "\"Mi padre adoraba ser la voz del juego, y estamos muy agradecidos al equipo de EA Sports FC por este conmovedor homenaje y por preservar su memoria in-game\", dijo Fred, hijo de John. La BBC informa de que EA pagó a la familia una suma no revelada."
+        },
+        {
+          "t": "p",
+          "x": "No todos comparten ese entusiasmo: en el subreddit de EA Sports FC algunos lo califican de \"vergonzoso\", \"irrespetuoso\", \"asqueroso\" y \"jodidamente oscuro\". \"Qué mundo tan jodidamente sombrío en el que vivimos\", escribió un redditor. Peter Caulfield, de Save Our Voices Now, afirmó que \"a menos que lo hayas aceptado expresamente, no debería permitirse la clonación por AI de ningún tipo\". Red Hook Studios, en cambio, dijo que nunca usaría AI para recrear la voz del narrador Wayne June."
+        }
+      ]
     }
   }
 }

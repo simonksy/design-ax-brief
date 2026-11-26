@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "science",
   "items": [
     {
-      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-      "source": "Google DeepMind",
-      "category": "research_automation",
-      "tool": "Science",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "rationale": "Primary-source release with a hard number: new Mass Spec Skills let Gemini agents drive established tools and public databases to interpret tandem mass spectra, lifting exact-match identification on a 100-compound benchmark from under 4% to about 97%.",
-      "published_iso": "2026-11-25T17:00:00Z",
-      "og_image": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
-      "excerpt": "DeepMind released Mass Spec Skills, letting Gemini agents interpret tandem mass spectra by driving established tools and public chemical databases. On a 100-compound benchmark exact-match identification rose to about 97%, from under 4% without the skills."
-    },
-    {
-      "title": "Scientists at Meta decode typed sentences from brain activity without surgically implanted chips",
-      "url": "https://www.psypost.org/scientists-at-meta-decode-typed-sentences-from-brain-activity-without-surgically-implanted-chips/",
-      "source": "PsyPost",
-      "category": "cognition",
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "Peer-reviewed Nature Neuroscience result from Meta: MEG plus a trained model reconstructs typed sentences from outside the skull, a non-invasive brain-to-text milestone that trails implants on accuracy but needs no surgery.",
-      "published_iso": "2026-11-25T12:00:00Z",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2026/07/brainimg5.jpg",
-      "excerpt": "A Nature Neuroscience study from Meta shows magnetoencephalography plus a trained model can reconstruct typed sentences from outside the skull, without implants. Accuracy trails invasive interfaces but needs no surgery."
-    },
-    {
-      "title": "Stabilizing atomically thin metals with sandwich structures: Machine learning expands the search",
-      "url": "https://phys.org/news/2026-11-stabilizing-atomically-thin-metals-sandwich.html",
-      "source": "Phys.org",
-      "category": "materials",
-      "tool": "Science",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "Concrete ML-for-materials screen: Jyvaskyla models trained on first-principles data sift over a thousand metallene sandwich heterostructures and find 300+ stable candidates that stay metallic at room temperature in simulation (Nano Letters).",
-      "published_iso": "2026-11-25T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-ident.jpg",
-      "excerpt": "University of Jyvaskyla researchers trained machine-learning models on first-principles data to screen over a thousand metallene 'sandwich' heterostructures, finding more than 300 stable candidates (Nano Letters). Selected structures stayed intact and metallic in room-temperature simulations."
-    },
-    {
-      "title": "Empirical evidence for eight ways that AI is impacting people",
-      "url": "https://www.nature.com/articles/s41562-026-02615-0",
-      "source": "Nature Human Behaviour",
-      "category": "cognition",
-      "tool": "Science",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "rationale": "High-credibility evidence review in Nature Human Behaviour that tests eight widely repeated claims about AI's effects on people and finds only modest support for the most alarming ones; a useful corrective anchor for the section's many AI-and-people stories.",
-      "published_iso": "2026-11-24T00:00:00Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02615-0/MediaObjects/41562_2026_2615_Figa_HTML.png",
-      "excerpt": "A review weighs the actual evidence behind eight widely repeated concerns about AI's effect on people, finding only modest support for the most alarming claims. The authors call for sharper empirical scrutiny of human impact."
-    },
-    {
-      "title": "Machine-learning models can detect elevated psychopathy and sadism from reactions to funny pictures",
-      "url": "https://www.psypost.org/machine-learning-models-can-detect-elevated-psychopathy-and-sadism-from-reactions-to-funny-pictures/",
-      "source": "PsyPost",
-      "category": "psychology",
+      "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+      "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+      "source": "The Quantum Insider",
+      "category": "physics",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Novel psychology finding: classifiers trained only on how people rate cartoons and memes flag elevated psychopathy, sadism and narcissism (but not Machiavellianism), showing how much personality leaks from humour preferences.",
-      "published_iso": "2026-11-24T11:00:24Z",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2026/11/evil-laugh.jpg",
-      "excerpt": "Algorithms trained on how people rate cartoons and memes picked out elevated psychopathy, sadism and narcissism from humour preferences alone. Machiavellianism left no detectable trace."
+      "rationale": "Concrete new preprint: Stanford's Venkatesa Chandrasekaran proposes a quantum-gravity construction from light paths and causal diamonds and credits months of GPT-6 Astra exchanges (~400M tokens) with several calculations and proofs - a named researcher, not a vendor claim; flagged as not yet peer reviewed.",
+      "published_iso": "2026-11-26T12:32:21+00:00",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png",
+      "excerpt": "Stanford physicist Venkatesa Chandrasekaran proposed a quantum theory of gravity built from light paths and causal diamonds; he says OpenAI's GPT-6 Astra helped develop several calculations and proofs over months of exchanges (~400M tokens). arXiv preprint, not yet peer reviewed."
+    },
+    {
+      "title": "Smartphone app uses AI to identify illegal wildlife products",
+      "url": "https://phys.org/news/2026-11-smartphone-app-ai-illegal-wildlife.html",
+      "source": "Phys.org",
+      "category": "conservation",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Applied, peer-reviewed result (Conservation Biology): Helsinki/IFAW models trained on ~40,000 images recognise elephant, pangolin and tiger products, and a phone prototype hit 91.3% accuracy in independent screening - a field tool for customs and enforcement.",
+      "published_iso": "2026-11-25T16:30:01-05:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+      "excerpt": "University of Helsinki and IFAW trained ML models on ~40,000 images of wildlife products to recognize items from elephants, pangolins and tigers; a smartphone prototype hit 91.3% accuracy in independent screening (Conservation Biology)."
+    },
+    {
+      "title": "New modeling tool sheds light on how climate change could reshape marine ecosystems",
+      "url": "https://phys.org/news/2026-11-tool-climate-reshape-marine-ecosystems.html",
+      "source": "Phys.org",
+      "category": "climate",
+      "tool": "Science",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "Hard-number climate result (Communications Earth & Environment): a Strathclyde ML model trained on decades of Continuous Plankton Recorder data projects NW European shelf copepods falling 58-72% by 2050 under high emissions, steeper than coarse global models.",
+      "published_iso": "2026-11-23T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+      "excerpt": "A University of Strathclyde machine-learning model trained on decades of Continuous Plankton Recorder data projects copepod abundance on NW European shelf seas falling 58-72% by 2050 under high emissions - steeper than coarse global models (Communications Earth & Environment)."
+    },
+    {
+      "title": "Marking an informational text as AI-generated does not influence its ratings, study finds",
+      "url": "https://www.psypost.org/marking-an-informational-text-as-ai-generated-does-not-influence-its-ratings-study-finds/",
+      "source": "PsyPost",
+      "category": "psychology",
+      "tool": "Science",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "rationale": "Counter-intuitive, policy-relevant psychology finding: in a German experiment an 'AI-generated' label on nutrition advice barely moved ratings, largely because only ~42% of readers noticed the label - a direct data point for AI-disclosure rules.",
+      "published_iso": "2026-11-26T21:00:08+00:00",
+      "og_image": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg",
+      "excerpt": "In a German online experiment (Applied Psychology: Health and Well-Being), an 'AI-generated' label on nutrition advice barely changed ratings - partly because only ~42% of readers noticed the label at all."
+    },
+    {
+      "title": "Preventing data leakage in neural decoding",
+      "url": "https://www.nature.com/articles/s41467-026-79123-2",
+      "source": "Nature Communications",
+      "category": "neuroscience",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Methods paper that changes practice: it quantifies how preprocessing and cross-validation leakage can both inflate and deflate ML brain-decoding accuracy and gives concrete guidance - timely after this month's run of brain-decoding results.",
+      "published_iso": "2026-11-25T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Data leakage from preprocessing and cross-validation can both inflate and deflate machine-learning neural decoding accuracy; the authors quantify the effect and give guidance for reliable brain-decoding studies."
     }
   ],
   "dedup": {
     "checks": {
-      "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/": {
-        "verdict": "follow-up",
-        "nearest": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-        "new_action": "New release: DeepMind's Mass Spec Skills for Antigravity (tandem-MS interpretation, ~97% exact match on a 100-compound benchmark), a separate skill set from the 11-04 cheminformatics post"
-      },
-      "https://www.psypost.org/scientists-at-meta-decode-typed-sentences-from-brain-activity-without-surgically-implanted-chips/": {
+      "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/": {
         "verdict": "new",
-        "nearest": "https://www.livescience.com/technology/artificial-intelligence/this-ai-finds-patterns-in-visual-brain-activity-and-turns-them-into-pictures",
+        "nearest": "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/",
         "new_action": ""
       },
-      "https://phys.org/news/2026-11-stabilizing-atomically-thin-metals-sandwich.html": {
+      "https://phys.org/news/2026-11-smartphone-app-ai-illegal-wildlife.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-ai-uncover-overlooked-2d-materials.html",
+        "nearest": "https://phys.org/news/2026-11-ai-misidentifies-wildlife-species-identification.html",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s41562-026-02615-0": {
+      "https://phys.org/news/2026-11-tool-climate-reshape-marine-ecosystems.html": {
         "verdict": "new",
-        "nearest": "https://www.psypost.org/prior-expertise-may-determine-whether-ai-builds-skills-or-substitutes-for-them-field-experiment-suggests/",
+        "nearest": "https://phys.org/news/2026-11-ai-track-beluga-whales-aerial.html",
         "new_action": ""
       },
-      "https://www.psypost.org/machine-learning-models-can-detect-elevated-psychopathy-and-sadism-from-reactions-to-funny-pictures/": {
+      "https://www.psypost.org/marking-an-informational-text-as-ai-generated-does-not-influence-its-ratings-study-finds/": {
         "verdict": "new",
-        "nearest": "https://www.psypost.org/people-project-a-specific-racial-identity-onto-artificial-intelligence-study-finds/",
+        "nearest": "https://techxplore.com/news/2026-10-fluent-language-hallucinatory-chatbot-credible.html",
+        "new_action": ""
+      },
+      "https://www.nature.com/articles/s41467-026-79123-2": {
+        "verdict": "new",
+        "nearest": "https://www.psypost.org/scientists-at-meta-decode-typed-sentences-from-brain-activity-without-surgically-implanted-chips/",
         "new_action": ""
       }
     },
-    "note": "Dropped as repeats: DeepMind 'Finding faster quantum algorithms with agents and formal verification' (blog for arXiv 2611.09822 = the Google AI + Lean-proof cost-cutting work carded 11-11 via The Quantum Insider; also dropped on 11-25 for the same reason; earliest-wins overrides the brief's preference). Singularity Hub AI-designed CRISPR rice (likely-repeat of the 10-29 Phys.org rice/OpenCRISPR card; also brief-excluded). Physics World 'Suppressing starlight reveals new exoplanets' (related to the 11-06 Universe Today JWST 'digital twin' starlight-removal card, plausibly the same work; AI angle also thin per excerpt - not risked). Excluded per brief (classifier risk / cross-section): Live Science AI-designed insulin-receptor protein, Nature Claude/ChatGPT biology skills, Nature ORIDTP peptides. Not picked on merit: EurekAlert Birmingham ML artificial enzymes (no og_image; related to 11-02 enzyme card but a distinct palladium-cage chemistry study - good backup), Singularity Hub LLM gene-editor (vague excerpt, no named study), Google Research social reasoning, Phys.org zero-one law proof, isSPA-vesicle cryo-EM, ScienceDaily consciousness theory (AI incidental), MIT TR philosopher vs Anthropic (commentary), Universe Today orbital AI data centers (avoid overlap with politics' SpaceX FCC orbital data-centre item), arXiv AGB/FRB/filaments (no images). Cross-section: none of the five picks are on today's cross-section assignment list. published_urls.json was too large to exact-grep with Read-only tools; orchestrator should grep these 5 URLs (plus 'Mass Spec Skills', 'Brain2Qwerty'/Meta typing decode, 'metallene') across all sections before roll. Diversity: 4 outlets (PsyPost x2, Google DeepMind, Phys.org, Nature Human Behaviour); categories research_automation, cognition x2, materials, psychology."
+    "note": "Dropped as repeats: Singularity Hub 'Scientists gave AI a stroke' (same USC aphasia-lesion LLM study carded 11-20 via TechXplore); DeepMind 'Finding faster quantum algorithms with agents and formal verification' (= the Google AI + Lean-proof work carded 11-11 via The Quantum Insider; dropped 11-25 and 11-26 for the same reason); SciAm Riemann 'bittersweet' essay (commentary follow-up on the 11-21 Riemann card, no new action); OpenAI 'Searching for distant planets with Astra' (same amateur-AI exoplanet-hunting story as the 11-22 Nature card, no confirmed planets). Not picked: Nature encryption rumour (unverified rumour/commentary, per brief), MIT TR philosopher vs Anthropic (opinion), OpenAI Standard Model lattice (11-15, off-list vendor post, possibly tied to the 11-12 SciAm OpenAI physics card), Anthropic black-hole problems (11-17, off-list vendor claim, related to 11-21 Navier-Stokes/AI-proof run), Phys.org zero-one law (good backup but would be a 3rd Phys.org card), EcoVAE (no image; ecology overlaps the wildlife/copepod picks). Caution for orchestrator: the Stanford quantum-gravity pick names nearest = SciAm 11-12 'OpenAI's shepherds affirm blockbuster physics result' - if that card was this same Chandrasekaran/GPT-6 Astra quantum-gravity result, swap in Phys.org zero-one law (https://phys.org/news/2026-11-random-shot-mathematical-proof-physical.html) and drop one Phys.org pick, or use EcoVAE. Cross-section: published_urls.json/archive.json too large to exact-grep with Read-only tools; orchestrator should grep these 5 URLs plus 'Chandrasekaran', 'IFAW', 'copepod', 'AI-generated label' across all sections before roll. Neural-decoding pick has og_image null (ax-media must source an in-article figure). Diversity: 4 outlets (Phys.org x2, The Quantum Insider, PsyPost, Nature Communications); categories physics, conservation, climate, psychology, neuroscience."
   }
 }

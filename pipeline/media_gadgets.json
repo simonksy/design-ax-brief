@@ -1,31 +1,26 @@
 {
- "date": "2026-11-26",
- "section": "gadgets",
- "media": [
-  {
-   "id": "savage-orrorin-glasses",
-   "type": "image",
-   "src": "pipeline/media/savage-orrorin-glasses.jpg"
-  },
-  {
-   "id": "wyze-window-bird-cam",
-   "type": "image",
-   "src": "pipeline/media/wyze-window-bird-cam.jpg"
-  },
-  {
-   "id": "amazon-ai-toys-petition",
-   "type": "image",
-   "src": "pipeline/media/amazon-ai-toys-petition.jpg"
-  },
-  {
-   "id": "rogbid-loop-memo-band",
-   "type": "image",
-   "src": "pipeline/media/rogbid-loop-memo-band.jpg"
-  },
-  {
-   "id": "google-home-nov25-update",
-   "type": "image",
-   "src": "pipeline/media/google-home-nov25-update.jpg"
-  }
- ]
+  "date": "2026-11-27",
+  "section": "gadgets",
+  "media": [
+    {
+      "id": "xpeng-iron-humanoid-ev-price",
+      "type": "image",
+      "src": "pipeline/media/xpeng-iron-humanoid-ev-price.jpg"
+    },
+    {
+      "id": "hp-omnibook-ultra16-rtxspark",
+      "type": "image",
+      "src": "pipeline/media/hp-omnibook-ultra16-rtxspark.png"
+    },
+    {
+      "id": "usc-stress-ring-ondevice",
+      "type": "image",
+      "src": "pipeline/media/usc-stress-ring-ondevice.jpg"
+    },
+    {
+      "id": "meta-glasses-south-africa-launch",
+      "type": "image",
+      "src": "pipeline/media/meta-glasses-south-africa-launch.jpg"
+    }
+  ]
 }

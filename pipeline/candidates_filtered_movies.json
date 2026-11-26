@@ -1,16 +1,25 @@
 {
   "section": "movies",
-  "now_iso": "2026-11-25T22:03:00Z",
+  "now_iso": "2026-11-26T22:01:09Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Google's patent for custom AI video feeds paints a bleak picture of entertainment's future",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "source": "The Verge",
+      "title": "Michel Hazanavicius To Present Exclusive Footage Of 'The Third Hand' In AI Case Study At Les Arcs",
+      "url": "https://deadline.com/2026/11/michel-hazanavicius-exclusive-footage-third-hand-ai-1237234059/",
+      "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-11-25T21:51:26+00:00",
-      "excerpt": "Google filed a patent for 'My Channel', a system that would use a viewer's demographic data and viewing history to write its own prompts and generate personalized AI videos and ads in an endless feed. The patent has been rejected for now, but Google could appeal or resubmit.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&w=1200"
+      "published_iso": "2026-11-26T16:06:03+00:00",
+      "excerpt": "Oscar winner Michel Hazanavicius and post house Digital District will show exclusive footage of The Third Hand at Les Arcs Film Festival in December, explaining the method and AI tools used to make the film.",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg"
+    },
+    {
+      "title": "Microdrama revenues hit $20bn in 2026, but profits remain elusive outside China",
+      "url": "https://www.screendaily.com/news/microdrama-revenues-hit-20bn-in-2026-but-profits-remain-elusive-outside-china/5222807.article",
+      "source": "Screen Daily",
+      "category": "movies",
+      "published_iso": "2026-11-26T10:47:00+00:00",
+      "excerpt": "A Media Partners Asia report puts global microdrama revenue up 24% to $20bn; about 75% of titles were made using AI, at roughly a tenth of an LA-shot series' cost, while AI accounts for nine in ten Chinese titles but only 20% of revenue.",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/8/1/1493181_reelshortshowbox_896332.jpg"
     },
     {
       "title": "David Fincher Explains AI Use in 'Cliff Booth' and How AI Can Be Used on Film Sets to Reduce the Amount of Takes",
@@ -18,16 +27,16 @@
       "source": "Variety",
       "category": "movies",
       "published_iso": "2026-11-25T18:55:08+00:00",
-      "excerpt": "In an interview published Wednesday, Fincher confirmed some AI was used in post-production on 'The Further Mis-Adventures of Cliff Booth' and described using AI on set to cut the number of takes while keeping performances by 'real human beings'. (Fincher opinion angle covered 11-22; only take if shot-level detail is new.)",
+      "excerpt": "Fincher admitted in an interview that some AI was used in post-production on The Further Mis-Adventures of Cliff Booth, but said it was all done to enhance the work of real human beings, and described how AI could reduce the number of takes on set.",
       "og_image": "https://variety.com/wp-content/uploads/2023/09/david-fincher.jpg?w=1000&h=562&crop=1",
       "history_match": {
-        "score": 0.339,
+        "score": 0.356,
         "date": "2026-11-22",
         "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/",
         "title": "David Fincher Defends Use Of AI Amid 'Cliff Booth' Criticism: \"Well, It Exists. Should We Not Use It?\"",
         "band": "related"
       },
-      "cluster": "c1"
+      "cluster": "c2"
     },
     {
       "title": "David Fincher Details His Vision for AI Filmmaking That Is Still 'Based on Real Human Beings'",
@@ -35,16 +44,16 @@
       "source": "TheWrap",
       "category": "movies",
       "published_iso": "2026-11-25T17:49:09+00:00",
-      "excerpt": "TheWrap's account of the same Fincher interview, laying out how he sees AI fitting into the filmmaking process on 'Cliff Booth', which arrives on Netflix over Thanksgiving. Same story as the Variety item; keep only one.",
+      "excerpt": "The Cliff Booth director outlined how he sees AI being used in the filmmaking process, following backlash over suspected AI in the Netflix film.",
       "og_image": "https://www.thewrap.com/wp-content/uploads/2026/11/David-Fincher-2026.jpg",
       "history_match": {
-        "score": 0.211,
+        "score": 0.226,
         "date": "2026-11-22",
         "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/",
         "title": "David Fincher Defends Use Of AI Amid 'Cliff Booth' Criticism: \"Well, It Exists. Should We Not Use It?\"",
         "band": "related"
       },
-      "cluster": "c1"
+      "cluster": "c2"
     },
     {
       "title": "David Fincher is being dragged for suspected use of AI in his latest film",
@@ -52,10 +61,10 @@
       "source": "The Verge",
       "category": "movies",
       "published_iso": "2026-11-24T18:15:00+00:00",
-      "excerpt": "Viewers say 'Cliff Booth' is full of AI artifacts; The Verge looks at the interpositive/AI-processing questions behind the backlash before Fincher's own explanation. Part of the Fincher cluster.",
+      "excerpt": "Early screenings of the Cliff Booth sequel drew accusations of 'blatant' generative-AI footage from viewers including director Patrick Tomasso; Netflix has neither confirmed nor denied AI use, while some critics suggest it is just bad CGI.",
       "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&strip=all&crop=20.043648851915%2C0%2C79.914576075467%2C100&w=1200",
       "history_match": {
-        "score": 0.295,
+        "score": 0.27,
         "date": "2026-11-22",
         "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/",
         "title": "David Fincher Defends Use Of AI Amid 'Cliff Booth' Criticism: \"Well, It Exists. Should We Not Use It?\"",
@@ -63,63 +72,29 @@
       }
     },
     {
-      "title": "Generative AI Indian Feature 'Maharaja in Denims' Sets April 2027 Release",
-      "url": "https://variety.com/2026/film/news/generative-ai-feature-maharaja-in-denims-april-2027-release-1236957865/",
-      "source": "Variety",
+      "title": "Unreal Engine 6 Will Ship Without Blueprints",
+      "url": "https://www.awn.com/news/unreal-engine-6-will-ship-without-blueprints",
+      "source": "Animation World Network",
       "category": "movies",
-      "published_iso": "2026-11-25T12:17:16+00:00",
-      "excerpt": "Khushwant Singh's novel about a young man reliving the life of Sikh ruler Maharaja Ranjit Singh is nearing completion as a $500,000-plus generative AI feature. The makers say they effectively had to make it three times, and are aiming for an April 2027 release.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/11/Maharaja-Ranjit-Singh.jpg?w=1000&h=563&crop=1"
+      "published_iso": "2026-11-25T16:05:43-08:00",
+      "excerpt": "Epic is dropping Blueprints from UE6 and betting AI can automatically convert UE5 projects to Verse, citing a Fortnite prototype that ported 20,000+ visual scripts; UE 5.9 brings MCP improvements, wider Python access and Unreal Canvas asset generation first.",
+      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081923-unreal-engine-x-uefn-2-1280.jpg?itok=5EPdF8sR"
     },
     {
-      "title": "Lionsgate Play Sets 'Eklavya' As First AI-Led Series",
-      "url": "https://deadline.com/2026/11/lionsgate-play-eklavya-ai-series-tiger-tv-1237232555/",
-      "source": "Deadline",
+      "title": "Introducing Brand Kit and Character Library",
+      "url": "https://lumalabs.ai/news/brand-kit-character-library",
+      "source": "Luma AI",
       "category": "movies",
-      "published_iso": "2026-11-25T06:15:00+00:00",
-      "excerpt": "Lionsgate Play's first AI-led original series, 'Eklavya', is based on the Mahabharata archer and stars Yug R.Ai, the AI actor character recently unveiled by CEO Rohit Jain. It will roll out on Tiger TV, and Variety reports a Google Cloud partnership.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/11/Eklavya-Creative.png?w=1024",
+      "published_iso": "2026-11-25T19:41:00Z",
+      "excerpt": "Luma launched Brand Kit and Character Library so uploaded logos, fonts, products and characters stay consistent across every generated image and video, targeting the character drift that keeps AI out of serialized and branded work.",
+      "og_image": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
       "history_match": {
-        "score": 0.162,
-        "date": "2026-11-06",
-        "url": "https://senalnews.com/en/content/animaj-unveiled-flipmove-an-artist-led-ai-animation-workflow",
-        "title": "Animaj unveiled FlipMove, an artist-led AI animation workflow",
+        "score": 0.157,
+        "date": "2026-11-04",
+        "url": "https://variety.com/2026/tv/news/netflix-launches-ai-discover-content-recommendations-1236937769/",
+        "title": "Netflix Launches First AI-Branded Content Recommendations Feature on TVs",
         "band": "related"
       }
-    },
-    {
-      "title": "'Gods Don't Give Gifts' producer to appeal Academy eligibility ruling",
-      "url": "https://www.screendaily.com/news/gods-dont-give-gifts-producer-to-appeal-academy-eligibility-ruling/5222796.article",
-      "source": "Screen Daily",
-      "category": "movies",
-      "published_iso": "2026-11-25T21:13:00+00:00",
-      "excerpt": "The producer of Zack London (Gossip Goblin)'s AI-rendered sci-fi animation says he will appeal the Academy's ruling that the film does not meet the animated-feature definition, under which movement must be created frame by frame. This is a stated intent to appeal, not yet a filed one.",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/5/8/1493158_still19_880038_crop.jpg",
-      "history_match": {
-        "score": 0.469,
-        "date": "2026-11-24",
-        "url": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/",
-        "title": "AI Film 'Gods Don't Give Gifts' Deemed Ineligible by Academy for Best Animated Feature Oscar",
-        "band": "likely-repeat"
-      }
-    },
-    {
-      "title": "Josh D'Amaro Is Dragging Disney Into the AI Era, Kicking and Screaming",
-      "url": "https://www.thewrap.com/industry-news/business/disney-ceo-josh-dmaro-ai-strategy-cto-karandeep-anand-exclusive/",
-      "source": "TheWrap",
-      "category": "movies",
-      "published_iso": "2026-11-25T14:00:00+00:00",
-      "excerpt": "New CTO Karandeep Anand is pushing one AI vision across Disney's business units, which is causing tension. Machine learning is already speeding up pre- and post-production, including a Disney Research/ILM tool that cuts render compute by nearly a third. People inside question whether one AI workflow can fit both Marvel blockbusters and 2D animation.",
-      "og_image": "https://www.thewrap.com/wp-content/uploads/2026/11/112326-Disney-Image-v3.jpg?width=1024&height=576&fit=bounds"
-    },
-    {
-      "title": "EBS, 생성형 AI 기반 애니메이션 5편 내달 순차 방영",
-      "url": "https://www.yna.co.kr/view/AKR20261125087600005",
-      "source": "연합뉴스",
-      "category": "movies",
-      "published_iso": "2026-11-25T11:32:28+09:00",
-      "excerpt": "EBS picked 5 of 429 entries in its 2026 generative-AI animation co-production project. The shows mix generative AI with stop-motion and 3D, and from Dec. 1 they air on EBS 1TV in a dedicated AI-animation slot, Tue-Thu 5:20-5:50 p.m.",
-      "og_image": "https://img0.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125087600005_01_i_P4.jpg"
     },
     {
       "title": "일레븐랩스, 국내 AI 단편제작 프로젝트 '더 콜라보레이션 2026'에 기술 파트너로 참여",
@@ -127,116 +102,89 @@
       "source": "AI타임스",
       "category": "movies",
       "published_iso": "2026-11-25T15:50:19+09:00",
-      "excerpt": "ElevenLabs is the technology partner for 'The Collaboration 2026', which pairs seven Korean film directors with AI artists on AI short films (including the Seoul Independent Film Festival short 'The Signal'). The films screen at CGV Apgujeong on Nov. 27. Off-list outlet: the on-list Korean feeds did not carry this story.",
-      "og_image": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png",
-      "history_match": {
-        "score": 0.259,
-        "date": "2026-11-05",
-        "url": "https://www.koreajoongangdaily.com/entertainment/seven-directors-to-unveil-ai-short-films-at-seoul-independent-film-festival/12955399",
-        "title": "Seven directors to unveil AI short films at Seoul Independent Film Festival",
-        "band": "related"
-      }
+      "excerpt": "일레븐랩스가 서울독립영화제 AI 시네마 특별전 '더 콜라보레이션 2026'(이명세·장철수·신연식 등 7인 감독 x AI 창작자)에 AI 오디오 기술 파트너로 참여했다. 11월 27일 CGV압구정 쇼케이스에서 완성작과 제작기가 공개된다.",
+      "og_image": "https://cdn.aitimes.com/news/photo/202611/217771_222129_839.png"
     },
     {
-      "title": "KOBIS 일별 박스오피스: AI 장편 '라파엘' 개봉일(11/25) 관객 539명, 51개 스크린",
+      "title": "KOBIS 일별 박스오피스: AI 장편 '라파엘' 개봉 2일차(11/26) 관객 655명, 누적 2,050명",
       "url": "https://www.kobis.or.kr/kobis/business/stat/boxs/findDailyBoxOfficeList.do",
       "source": "KOBIS 영화관입장권통합전산망",
       "category": "movies",
-      "published_iso": "2026-11-26T00:00:00+09:00",
-      "excerpt": "KOBIS daily box office for Nov. 25: 'Raphael', MBC C&I/Matteo AI Studio's 100% AI feature, ranked 26th on opening day with 539 admissions (1,395 cumulative including previews), KRW 3.49M in sales, 51 screens and 68 showings. These are first-day numbers; no outlet article yet, so the date is the KOBIS data release.",
+      "published_iso": "2026-11-26T15:00:00Z",
+      "excerpt": "100% 생성형 AI 장편 '라파엘'(MBC C&I·마테오AI스튜디오)이 개봉 2일차인 11월 26일 51개 스크린 65회 상영에서 관객 655명(전일 대비 +21.5%)을 모아 일일 27위, 누적 관객 2,050명을 기록했다.",
       "og_image": null
     },
     {
-      "title": "LEARN HYBRID AI FILMMAKING (Curious Refuge x Dave Clark / Promise)",
-      "url": "https://www.youtube.com/watch?v=J_BNA8k9nnI",
-      "source": "Curious Refuge",
+      "title": "ByteDance opens Seedance 2.5's 4K video generation API to developers",
+      "url": "https://technode.com/2026/11/17/bytedance-opens-seedance-2-5s-4k-video-generation-api-to-developers/",
+      "source": "TechNode",
       "category": "movies",
-      "published_iso": "2026-11-24T22:57:29+00:00",
-      "excerpt": "Curious Refuge and director Dave Clark's studio Promise announce a Hybrid AI Filmmaking course: shoot real actors on a simple set, then build the world around them with AI. The waitlist opens Nov. 25 and training starts Jan. 13, 2027.",
-      "og_image": "https://i.ytimg.com/vi/J_BNA8k9nnI/maxresdefault.jpg",
+      "published_iso": "2026-11-17T06:28:41+00:00",
+      "excerpt": "ByteDance's Volcano Engine opened API access to the 4K version of its Seedance 2.5 video model, which it pitches at film production, widening availability beyond its own apps.",
+      "og_image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
       "history_match": {
-        "score": 0.153,
-        "date": "2026-11-05",
-        "url": "https://www.thewrap.com/industry-news/tech/disney-ai-accelerator-startup-investor/",
-        "title": "'Vibe Directing,' Hybrid Filmmaking and Robots: Disney's Startup Program Goes All-In on AI",
-        "band": "related"
+        "score": 0.41,
+        "date": "2026-11-14",
+        "url": "https://pandaily.com/bytedance-seedance-2-5-flash-faster-lower-cost-video-model-volcano-ark-api",
+        "title": "ByteDance Releases Seedance 2.5 Flash, a Faster Video Model Priced About 34% Below Seedance 2.5",
+        "band": "likely-repeat"
       }
     },
     {
-      "title": "The Chroma Awards Are Back as ElevenLabs' Flagship Competition for AI Creators is Live",
-      "url": "https://nofilmschool.com/chroma-awards-season-2",
-      "source": "No Film School",
+      "title": "Maxon Plus: New AI-Assisted Tools and 3D Review Services",
+      "url": "https://postperspective.com/maxon-plus-intros-new-ai-assisted-tools-and-3d-review-services/",
+      "source": "postPerspective",
       "category": "movies",
-      "published_iso": "2026-11-24T19:30:02+00:00",
-      "excerpt": "Season 2 of ElevenLabs' Chroma Awards is taking entries of AI-made film, music videos, ads, games and BTS content until Jan. 7, 2027, with $450,000+ in cash and travel prizes. This is a competition call, an angle already saturated.",
-      "og_image": "https://nofilmschool.com/media-library/image.png?id=68759724&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
-      "history_match": {
-        "score": 0.165,
-        "date": "2026-10-30",
-        "url": "https://www.youtube.com/watch?v=Q6xJOpTylco",
-        "title": "2026 AI Horror Film Competition Winners!",
-        "band": "related"
-      }
+      "published_iso": "2026-11-23T19:08:30+00:00",
+      "excerpt": "Maxon introduced Maxon Plus, a separate suite of connected services with a Model Generator (text or image to 3D base model), Texture Generator and browser-based 3D review, integrated with Cinema 4D and ZBrush. (Note: design section ran a Creative Bloq Maxon story 11-24; check cross-section dup.)",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/11/Model_generator-copy.jpg"
     },
     {
-      "title": "Sand.ai Launches Full MAGI-2 Video Model, With Open Weights Still Promised",
-      "url": "https://pandaily.com/sand-ai-full-magi-2-video-model-open-weights-planned",
-      "source": "Pandaily",
+      "title": "Netflix AI clause divides Germany's dubbing industry over voice training rights",
+      "url": "https://www.dw.com/en/ive-lost-her-forever-why-german-voice-actors-are-refusing-to-sign-netflixs-ai-contract/a-80004381",
+      "source": "DW",
       "category": "movies",
-      "published_iso": "2026-11-25T02:18:42+00:00",
-      "excerpt": "Sand.ai released the full MAGI-2 audio-video generation model, with 480B total parameters (4x the Preview), longer generation and one-take 30-second shots. Open weights are still promised. Off-list outlet: no on-list source covered this model release.",
-      "og_image": "https://cms-image.pandaily.com/1/magi_editorial_5165708cec.png"
+      "published_iso": "2026-11-23T10:58:22Z",
+      "excerpt": "German voice actors including Katrin Froehlich (Cameron Diaz), Anne Helm (Margot Robbie) and Luise Helm (Scarlett Johansson) refuse to sign a Netflix contract clause letting it use their voices to train AI, so they will no longer dub those stars on Netflix. (Off-list outlet: no on-list coverage found.)",
+      "og_image": "https://static.dw.com/image/80004535_6.jpg",
+      "history_match": {
+        "score": 0.266,
+        "date": "2026-11-06",
+        "url": "https://www.voiceoverherald.com/matti-klemm-netflix-lawsuit-ai-training-voice-data/",
+        "title": "Matti Klemm sues Netflix over AI training on his voice",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
     "dropped": 1,
-    "kept": 15,
+    "kept": 13,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [
       {
-        "url": "https://variety.com/2026/film/festivals/ai-horror-short-sikkal-wif-india-google-flow-filmathon-1236957898/",
-        "title": "AI Horror Short 'Sikkal' Wins WIF India x Google Flow Filmathon",
+        "url": "https://www.screendaily.com/news/producer-of-ai-rendered-gods-dont-give-gifts-responds-after-academy-animation-ruling/5222796.article",
+        "title": "Producer of AI-rendered 'Gods Don't Give Gifts' responds after Academy animation ruling",
         "match": {
-          "score": 0.503,
-          "date": "2026-11-25",
-          "url": "https://variety.com/2026/film/festivals/ai-films-kerala-andaman-islands-google-flow-filmathon-iffi-1236955693/",
-          "title": "AI Films From Kerala to the Andaman Islands Set for WIF India x Google Flow Filmathon, Screen at IFFI Goa"
+          "score": 0.604,
+          "date": "2026-11-24",
+          "url": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/",
+          "title": "AI Film 'Gods Don't Give Gifts' Deemed Ineligible by Academy for Best Animated Feature Oscar"
         }
       }
     ],
-    "review": 8,
+    "review": 6,
     "same_story_pairs": [
       [
         "https://variety.com/2026/film/news/david-fincher-explains-ai-use-cliff-booth-1236958022/",
         "https://www.thewrap.com/culture-lifestyle/culture/david-fincher-ai-filmmaking-cliff-booth/",
-        0.32
+        0.319
       ]
     ]
   },
   "history_digest": [
-    {
-      "date": "2026-10-27",
-      "title": "Introducing Runway App Studio",
-      "url": "https://runway.com/news/company-news/introducing-runway-app-studio"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "China’s First AI Feature Flops At The Chinese Box Office",
-      "url": "https://www.cartoonbrew.com/box-office-report/chinese-ai-film-sanxingdui-future-past-box-office-flop-268426.html"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "Ramayana: Producer Namit Malhotra Explains How Human Voices Combined With AI Formed English Dubbing",
-      "url": "https://www.timesnownews.com/entertainment-news/bollywood/ramayan-producer-namit-malhotra-explains-how-human-voices-combined-with-ai-formed-english-dubbing-article-156399525"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "This Hack Fixes Your AI Character Consistency Issues (Pro Workflow)",
-      "url": "https://www.youtube.com/watch?v=ktEt4n9VlF4"
-    },
     {
       "date": "2026-10-28",
       "title": "DaVinci Resolve is Getting Faster as Latest Update Boosts IntelliSearch and OGraf Playback",
@@ -906,6 +854,31 @@
       "date": "2026-11-25",
       "title": "Doc filmmakers talk using AI as European plans for creating 'transparent' AI tools revealed",
       "url": "https://www.screendaily.com/features/doc-filmmakers-talk-using-ai-as-european-plans-for-creating-transparent-ai-tools-revealed/5222628.article"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Lionsgate Play Sets 'Eklavya' As First AI-Led Series",
+      "url": "https://deadline.com/2026/11/lionsgate-play-eklavya-ai-series-tiger-tv-1237232555/"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Generative AI Indian Feature 'Maharaja in Denims' Sets April 2027 Release",
+      "url": "https://variety.com/2026/film/news/generative-ai-feature-maharaja-in-denims-april-2027-release-1236957865/"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Google's patent for custom AI video feeds paints a bleak picture of entertainment's future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Josh D'Amaro Is Dragging Disney Into the AI Era, Kicking and Screaming",
+      "url": "https://www.thewrap.com/industry-news/business/disney-ceo-josh-dmaro-ai-strategy-cto-karandeep-anand-exclusive/"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "EBS, 생성형 AI 기반 애니메이션 5편 내달 순차 방영",
+      "url": "https://www.yna.co.kr/view/AKR20261125087600005"
     }
   ]
 }

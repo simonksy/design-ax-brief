@@ -13697,6 +13697,144 @@
           "x": "The Figma agent is now generally available in FigJam and Figma Slides on all paid plans, with select connectors and attachments supported in both."
         }
       ]
+    },
+    "design/gstar3d-cloud-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Modusolution (CEO Jung Chung-gu), a company specializing in CAD and product lifecycle management (PLM) solutions, took part in the '8th International Smart Manufacturing & AI Technology Exhibition (SMATEC 2026)' at the Suwon Convention Center, where it presented design and collaboration solutions including its cloud-based 3D CAD solution 'Gstar3D'. At the show, the natural-language and image-based modeling features of Gstar3D, which is nearing its official launch, drew attention."
+        },
+        {
+          "t": "p",
+          "x": "Gstar3D lets users carry out 3D modeling, design data management and collaboration in a web browser without installing separate software. Users can generate a 3D model by giving natural-language commands or entering drawing image files in JPG or PNG format. Generated models include a Feature History that manages the design geometry and revision process, and can be exported to standard 3D CAD file formats such as STEP."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "At the exhibition, one visitor generated a 3D model from a drawing image, converted it to a STEP file and took the result home. Through its 'Early User' program, Modusolution plans to offer free 1-year licenses to up to 100 people and reflect the feedback it collects in product improvements and user support."
+        },
+        {
+          "t": "p",
+          "x": "The company also introduced the 2D CAD 'GstarCAD', the drawing sharing and collaboration platform 'GstarCAD 365', the 3D CAD file viewer '3D FastView', and PTC's 'Creo' and 'Windchill'. \"We will reflect user feedback and keep providing solutions suited to the domestic design environment,\" a Modusolution official said."
+        }
+      ]
+    },
+    "design/modulebuild-ai-editor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
+        },
+        {
+          "t": "p",
+          "x": "Senior UI/UX Designer Bohdan Matviyev is tired of modern AI tools that try to replace a specialist, forcing work into the framework of chat and prompts instead of full control over elements. So he created his own editor, module.build, which combines design and development in a single space. He positions it as a personal environment where AI acts as an assistant, not an autopilot."
+        },
+        {
+          "t": "p",
+          "x": "Users can combine models such as Claude, Codex and Kimi using their own subscriptions or APIs without internal service credits. Design canvas, co-creation board, presentations, 3D, animation and code share one environment with shared memory. Internal ADE and MCP tools read layouts, tokens and components directly from design files, with GitHub and Vercel integration; image generation runs on ComfyUI nodes."
+        },
+        {
+          "t": "p",
+          "x": "Matviyev said Figma limits MCP requests and the protocol sends the whole screen as context even for a small request; module.build passes only point information. Unlike Paper, it has no real-time collaboration yet, but avoids Paper's CSS limits and slowdowns on large files. The service is in closed alpha testing."
+        }
+      ]
+    },
+    "design/midjourney-niji-v8": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
+        },
+        {
+          "t": "p",
+          "x": "Midjourney announced \"Niji V8,\" an anime-style image generation model, on November 25th, Japan time. It features improved adherence to prompts and editing functions that maintain character consistency. Users can access it by adding \"--niji 8\" to the end of their prompts on Discord or by selecting \"Niji 8\" in the version settings."
+        },
+        {
+          "t": "p",
+          "x": "Niji is an image generation model specializing in creating anime-style characters and scenes. Niji 8 combines the aesthetic expression of Niji 7 with the diversity of Niji 6, prioritizing a wider range of candidates from the same prompt rather than repeatedly generating similar characters. It boasts the fastest generation speed in the series' history and enhanced consistency in image composition and elements."
+        },
+        {
+          "t": "p",
+          "x": "To use a favorite character in different scenes, users can leverage the editing features for generated images. This allows specifying a reference image for the character and a background image, then instructing the AI to depict the character in a different location or pose."
+        },
+        {
+          "t": "img",
+          "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
+        }
+      ]
+    },
+    "design/seoul-biennale-ratti-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
+          "cap": "Venice Architecture Biennale curator Carlo Ratti"
+        },
+        {
+          "t": "p",
+          "x": "Italian architect Carlo Ratti has been named the curator of next year's Seoul Biennale of Architecture and Urbanism, for which he plans to take \"an unconventional, AI-based\" approach. Taking place from 24 September 2027, the biennale will be used by Ratti to question the role of a curator today. The event's title, theme and full curatorial team will not be unveiled until 8 December."
+        },
+        {
+          "t": "p",
+          "x": "Specifically, he will use an AI assistant, aiming to challenge traditional approaches to developing exhibitions by highlighting emerging tools that can help curators."
+        },
+        {
+          "t": "img",
+          "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
+          "cap": "Carlo Ratti (right) was appointed by Seoul mayor Oh Se Hoon (left)"
+        },
+        {
+          "t": "p",
+          "x": "\"Seoul is perhaps the best place in the world to ask how artificial intelligence and the collective wisdom of its citizens might shape the city together,\" he said. \"At the upcoming pre-biennale event, we will begin to introduce the people who will join us, and I think there will be a few surprises – one assistant curator isn't even human!\""
+        },
+        {
+          "t": "p",
+          "x": "Ratti, director of Carlo Ratti Associati and an MIT professor, succeeds Thomas Heatherwick, who curated the 2025 event. He curated the 2025 Venice Architecture Biennale, themed Intelligens. Natural. Artificial. Collective."
+        }
+      ]
+    },
+    "design/nomic-cad-drafting-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/11/nomic4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nomic, the developer of AI-powered drawing review software for the AEC industry, has extended its platform to include automated CAD drafting. Users can describe a drawing in natural language or supply an existing drawing for revision, with the AI agent returning an editable CAD file together with a plotted PDF for review."
+        },
+        {
+          "t": "p",
+          "x": "By supplying examples of existing drawings or a company title block, users can instruct Nomic to generate drawings that adhere to established CAD standards, including layers, line weights, hatching, blocks, text and dimension styles. The software supports DWG, DXF and DGN."
+        },
+        {
+          "t": "p",
+          "x": "The agent can interpret plan review letters, revise affected drawings and automatically add revision clouds to highlight changes. Each revision is saved as a new version, leaving the original file intact. It renders the drawing after each step to identify issues such as overlapping text and misplaced annotations."
+        },
+        {
+          "t": "p",
+          "x": "Nomic is rolling out add-ins for Autodesk Revit and AutoCAD. In Revit, the agent can identify clashes between ductwork and structural framing and resolve some of those clashes; within AutoCAD, it can generate details or implement revisions in an open drawing. In both applications, changes require human approval before being implemented."
+        },
+        {
+          "t": "p",
+          "x": "Nomic's drafting capabilities are available now. The Revit and AutoCAD add-ins are currently being rolled out to customers."
+        }
+      ]
     }
   }
 }

@@ -1,207 +1,160 @@
 {
- "section": "games",
- "now_iso": "2026-11-25T22:03:00Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "EA Sports FC 27 adds AI-recreated voice of late commentator John Motson",
-   "url": "https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson",
-   "source": "GamesIndustry.biz",
-   "category": "games",
-   "keyword": "AI voice acting games",
-   "published_iso": "2026-11-25T20:48:20+00:00",
-   "excerpt": "Electronic Arts is bringing back the voice of the late football commentator John Motson in EA Sports FC 27, recreated u…",
-   "og_image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-25-at-20.38.28.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-  },
-  {
-   "title": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it",
-   "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
-   "source": "PC Gamer",
-   "category": "games",
-   "keyword": "AI voice acting games",
-   "published_iso": "2026-11-25T20:23:51Z",
-   "excerpt": "Legendary football pundit John Motson will return to the series, in AI form, in today",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L-2560-80.jpg"
-  },
-  {
-   "title": "Ubisoft staff must justify not using generative AI in pitches, report claims",
-   "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
-   "source": "GamesIndustry.biz",
-   "category": "games",
-   "keyword": "AI game",
-   "published_iso": "2026-11-25T20:19:40+00:00",
-   "excerpt": "Ubisoft teams pitching new projects are reportedly being asked to explain how generative AI would help them make games …",
-   "og_image": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-  },
-  {
-   "title": "시프트업 AI 번역, 기계번역 학술대회 최상위 그룹 선정",
-   "url": "https://www.gamemeca.com/view.php?gid=1784140",
-   "source": "게임메카",
-   "category": "games",
-   "keyword": "AI localization games",
-   "published_iso": "2026-11-25T19:23:02+09:00",
-   "excerpt": "시프트업의 자체 개발 AI 번역 시스템 코지가 WMT 2026 전문용어 번역 부문에서 최상위 그룹에 선정됐다. 코지는 별도의 AI 모델 학습 없이 하네스 엔지니어링을 통해 전문용어의 정확도와 자연스러운 문장을 구현한다. 시프트업은 이번 성과를 바탕으로 자사 게임에 코지 적용을 확...",
-   "og_image": "https://cdn.gamemeca.com/gmdata/0001/784/140/gm944308_su.webp"
-  },
-  {
-   "title": "크래프톤, 독자 개발 고효율 LLM ‘라온-1 미니’ 정식 출시",
-   "url": "http://www.gamey.kr/news/articleView.html?idxno=3019938",
-   "source": "게임와이",
-   "category": "games",
-   "keyword": "AI 게임",
-   "published_iso": "2026-11-25T16:55:08+09:00",
-   "excerpt": "크래프톤은 자체 개발 30B급 거대언어모델(LLM) ‘라온-1 미니(Raon-1 mini)’의 정식 버전을 공개했다.라온-1 미니는 크래프톤이 모델 설계부터 프롬 스크래치 학습까지 전 과정을 직접 수행한 30B급 LLM이다. 크래프톤은 높은 성능과 추론 효율성을 동시에 확보하기 위해 독자적인 모델 아키텍처를 설계했다. 바탕은 전체 약 300억 개(30B) 파라미터 중 필요한 40억 개(4B)만 활성화하는 전문가 혼합(MoE) 구조와 자체 개발한 선형 어텐션(Linear Attention) 기술의 결합이다. 이 설계로 빠른 응답 속도",
-   "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019938_174949_3330_v150.jpg"
-  },
-  {
-   "title": "크래프톤·시프트업이 만든 AI, 성적표로 말하다",
-   "url": "http://www.gamey.kr/news/articleView.html?idxno=3019935",
-   "source": "게임와이",
-   "category": "games",
-   "keyword": "AI localization games",
-   "published_iso": "2026-11-25T16:57:12+09:00",
-   "excerpt": "게임을 만들던 회사들이 이번엔 AI 성적표를 들고 왔다. 크래프톤은 직접 학습시킨 언어모델의 정식 버전을 내놨고, 시프트업은 국제 기계번역 대회에서 아마존·삼성전자·화웨이 등과 겨뤄 최상위 그룹에 올랐다. 크래프톤이 내놓은 건 ",
-   "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019935_174940_148_v150.jpg"
-  },
-  {
-   "title": "Apex Neural Rendering Gives NVIDIA DLSS A Run For Its Money In Digital Foundry’s Testing, Introduces Game-Changing Comparison Tool",
-   "url": "https://wccftech.com/apex-neural-rendering-gives-nvidia-dlss-a-run-for-its-money-in-digital-foundrys-testing-introduces-game-changing-comparison-tool/",
-   "source": "Wccftech",
-   "category": "games",
-   "keyword": "neural game engine",
-   "published_iso": "2026-11-25T16:45:06+00:00",
-   "excerpt": "Apex Neural Rendering rivals NVIDIA DLSS in Digital Foundry's testing and introduces a new tool for frame-accurate image quality comparisons.",
-   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-75.jpg"
-  },
-  {
-   "title": "The Japanese Erotic Visual Novel That's Filled With AI's Prudish Refusals To Translate Explicit Sexual Content",
-   "url": "https://kotaku.com/the-japanese-erotic-visual-novel-thats-filled-with-ais-prudish-refusals-to-translate-explicit-sexual-content-2001000228",
-   "source": "Kotaku",
-   "category": "games",
-   "keyword": "AI localization games",
-   "published_iso": "2026-11-25T11:00:09+00:00",
-   "excerpt": "Muv-Luv Girls Gaiden has put out a disastrous English-language version",
-   "og_image": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden-1200x675.jpg"
-  },
-  {
-   "title": "US Treasury official using Claude to create a Civilization clone tries to shut down worries he",
-   "url": "https://www.gamesradar.com/games/strategy/us-treasury-official-using-claude-to-create-a-civilization-clone-tries-to-shut-down-worries-hes-too-busy-vibecoding-during-cybersecurity-breach-the-computers-are-doing-it-on-their-own/",
-   "source": "GamesRadar+",
-   "category": "games",
-   "keyword": "vibe coding games",
-   "published_iso": "2026-11-25T21:41:14Z",
-   "excerpt": "Sam Corcos is vibe-coding Legatum, a \"historical 4X on a hex map, built for people who love Civilization\"",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77-1920-80.jpg"
-  },
-  {
-   "title": "「フォートナイト」の2万以上のBlueprintをわずか2週間でVerseに移植。Epic Gamesが「Unreal Engine 6」への移行に向けたAI活用の成果を公開",
-   "url": "https://www.4gamer.net/games/144/G014484/20261125017/",
-   "source": "4Gamer.net",
-   "category": "games",
-   "keyword": "Unreal Engine AI",
-   "published_iso": "2026-11-25T14:26:01+09:00",
-   "excerpt": "Epic Gamesは，「Unreal Engine 6」に向けたAI活用の成果を公開した。5か月で開発方針を転換した同社は，「フォートナイト」の2万以上のBlueprintのVerse移植にAIを…",
-   "og_image": "https://www.4gamer.net/games/144/G014484/20261125017/SS/001.jpg"
-  },
-  {
-   "title": "3D 몰라도 64방향 스프라이트 뚝딱 '미소 에디터' 출시",
-   "url": "https://www.gamemeca.com/view.php?gid=1784073",
-   "source": "게임메카",
-   "category": "games",
-   "keyword": "generative game assets",
-   "published_iso": "2026-11-24T16:25:26+09:00",
-   "excerpt": "미소 에디터는 3D 경험이 없는 2D 개발자도 64방향 스프라이트를 제작할 수 있는 도구다. 오토 빌드 기능을 통해 리깅부터 스프라이트 시트 내보내기까지의 과정을 자동화한다. AI 에이전트와 연동 가능한 MCP 서버가 탑재되어 다양한 작업을 인공지능에 위임할 수 있다",
-   "og_image": "https://cdn.gamemeca.com/gmdata/0001/784/073/gm439945_thumb___.webp"
-  },
-  {
-   "title": "Unity Asset Store and CLI: Let Your AI Agent Find and Add Assets",
-   "url": "https://unity.com/blog/unity-asset-store-ai-generators-coding-agents",
-   "source": "Unity",
-   "category": "games",
-   "keyword": "Unity Muse",
-   "published_iso": "2026-11-23",
-   "excerpt": "The Unity CLI and Asset Store lets coding agents search the store, pull single prefabs from packs, and generate missing assets with 60+ AI models.",
-   "og_image": "htttps://unity.com/unity-logo-2024.png"
-  },
-  {
-   "title": "Introducing Voice Isolator",
-   "url": "https://inworld.ai/blog/introducing-voice-isolator",
-   "source": "Inworld AI",
-   "category": "games",
-   "keyword": "Inworld AI",
-   "published_iso": "2026-11-18",
-   "excerpt": "Remove background noise while keeping speech, laughter and breaths. Two 48 kHz models, for offline processing and for realtime streaming, with code and weights under Apache 2.0.",
-   "og_image": "https://inworld.ai/opengraph-image.jpg?opengraph-image.3etui4_c_jrz1.jpg"
-  },
-  {
-   "title": "Unreal Engine 5.9 Preview 2 Brings Browser-Based Gaming To Blueprint-Only Projects, Enables AI Workflows By Default And Improves Rendering",
-   "url": "https://wccftech.com/unreal-engine-5-9-preview-2-brings-browser-based-gaming-to-blueprint-only-projects-enables-ai-workflows-by-default-and-improves-rendering/",
-   "source": "Wccftech",
-   "category": "games",
-   "keyword": "Unreal Engine AI",
-   "published_iso": "2026-11-22T16:16:43+00:00",
-   "excerpt": "Unreal Engine 5.9 Preview 2 brings Blueprint-only web games, default AI toolsets, WebGPU improvements, and faster cinematic workflows.",
-   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-60.jpg"
-  },
-  {
-   "title": "Clash Royale recruits creator of AI cheating tool to help catch cheaters",
-   "url": "https://www.dexerto.com/gaming/clash-royale-recruits-creator-of-ai-cheating-tool-to-help-catch-cheaters-3430356/",
-   "source": "Dexerto",
-   "category": "games",
-   "keyword": "AI bug detection games",
-   "published_iso": "2026-11-21T21:15:18.000Z",
-   "excerpt": "Clash Royale developer Supercell has recruited the creator of an advanced AI cheating tool to help crack down on cheating in the game.",
-   "og_image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
-  },
-  {
-   "title": "SOOP, 다시보기 장면 찾는 AI 검색 도입",
-   "url": "https://www.inven.co.kr/webzine/news/?news=323773",
-   "source": "인벤",
-   "category": "games",
-   "keyword": "AI 게임",
-   "published_iso": "2026-11-24T14:47:58+09:00",
-   "excerpt": "SOOP이 자체 AI 기술을 활용해 VOD 장면 검색, 최근 활동 AI 요약, AI VOD 챕터 등 콘텐츠 탐색 기능 3종을 도입한다. 영상 내 특정 장면과 핵심 구간을 검색해 즉시 시청할 수 있고 스트리머의 주요 활동도 간편하게 확인 가능하다. 일부 스트리머에게 먼저 적용 후 대상을 점차 확대할 예정이며 향후 AI 기술을 고도화해 영상 데이터 활용도를 높이고 시청자와 스트리머의 연결을 강화할 방침이다.",
-   "og_image": "https://static.inven.co.kr/column/2026/11/24/news/i1704273045.jpg"
-  },
-  {
-   "title": "[AI & LAW] 지스타 간판 된 AI 게임…국내는 '설계' 심의, EU는 '결함' 묻는다",
-   "url": "https://www.inews24.com/view/2028994",
-   "source": "아이뉴스24",
-   "category": "games",
-   "keyword": "AI 게임",
-   "published_iso": "2026-11-23T08:00:00+09:00",
-   "excerpt": "지스타 2026에서 AI 게임이 간판으로 떠오른 가운데, 국내 게임물 심의는 '설계' 단계를, EU 제조물책임 규정은 AI '결함'을 묻는 방향이라는 법적 쟁점 정리.",
-   "og_image": "https://image.inews24.com/v1/e8d8785d57e7af.jpg"
-  },
-  {
-   "title": "Imitation Disputes Shift from 'Like Games' to 'AI Cloning'",
-   "url": "https://www.invenglobal.com/articles/28912",
-   "source": "Inven Global",
-   "category": "games",
-   "keyword": "AI game",
-   "published_iso": "2026-11-20T21:45:48+00:00",
-   "excerpt": "The focal point of game imitation disputes is shifting from 'like games,' which copy genres and rules, to 'AI cloning,' which uses artificial intelligence to replicate games in their entirety.",
-   "og_image": "https://static.invenglobal.com/upload/image/2026/11/20/r1795211230112218.jpeg"
-  },
-  {
-   "title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
-   "url": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5/",
-   "source": "NVIDIA Technical Blog",
-   "category": "games",
-   "keyword": "neural game engine",
-   "published_iso": "2026-11-24T14:00:00+00:00",
-   "excerpt": "Where Winds Meet moves between distant mountain landscapes, bustling streets, and quiet moments with its characters. For Everstone Studio, bringing more realistic lighting and materials to this wuxia…",
-   "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-11.webp"
-  },
-  {
-   "title": "How AI Powers Our Builders",
-   "url": "https://about.roblox.com/newsroom/2026/11/how-ai-powers-our-builders-speed-scale-and-security",
-   "source": "Roblox",
-   "category": "games",
-   "keyword": "AI mod UGC",
-   "published_iso": "2026-11-20T12:00:00.000Z",
-   "excerpt": "Learn how Roblox uses AI to increase speed, scale, and security",
-   "og_image": "https://cms-media.roblox.com/assets/ffcc66c6-3e6b-4b1a-a3bb-b58c544d3796.webp"
-  }
- ]
+  "section": "games",
+  "now_iso": "2026-11-26T22:01:09Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "Ubisoft games aren't \"required to use generative AI,\" Assassin's Creed publisher says after reports emerge that devs have to justify not using it in pitches",
+      "url": "https://www.gamesradar.com/games/ubisoft-games-arent-required-to-use-generative-ai-assassins-creed-publisher-says-after-reports-emerge-that-devs-have-to-justify-not-using-it-in-pitches/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-11-26T17:08:53Z",
+      "excerpt": "Ubisoft issued a formal statement saying its teams are encouraged to explore generative AI but are not required to use it, responding to a report that pitches must justify not using the tools.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/DCDmHjRsiqPtrKrEBunfVK-1920-80.jpg"
+    },
+    {
+      "title": "Umamusume: Pretty Derby AI clone laden with ads taken off mobile platforms after fans report it en masse to Cygames",
+      "url": "https://www.eurogamer.net/umamusame-pretty-derby-ai-clone-taken-off-mobile-after-reports",
+      "source": "Eurogamer",
+      "category": "games",
+      "published_iso": "2026-11-26T13:15:00+00:00",
+      "excerpt": "An ad-stuffed AI-generated knockoff of Umamusume: Pretty Derby, 'Anime Racing Academy', was struck off mobile storefronts after fans mass-reported it to Cygames.",
+      "og_image": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "Fed up of Steam's lack of action regarding AI slop? Maybe you should take a look at the 'Games Without AI' event, instead",
+      "url": "https://www.eurogamer.net/games-without-ai-steam-event",
+      "source": "Eurogamer",
+      "category": "games",
+      "published_iso": "2026-11-26T12:22:30+00:00",
+      "excerpt": "A third-party 'Games Without AI' showcase on Steam features around 96 titles whose developers attest they were made without generative AI, after criticism of AI slop in Next Fest.",
+      "og_image": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "We are already in a world where gen-AI is pushing people to promote games as human-made, Citizen Sleeper creator says",
+      "url": "https://www.eurogamer.net/citizen-sleeper-creator-gen-ai-human-made-games-signet-city",
+      "source": "Eurogamer",
+      "category": "games",
+      "published_iso": "2026-11-26T14:18:20+00:00",
+      "excerpt": "Citizen Sleeper creator Gareth Damian Martin says gen-AI adoption is spreading so widely that games will start marketing themselves as human-made.",
+      "og_image": "https://assetsio.gnwcdn.com/citizensleeper2_cropped.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "Another Modder Uses AI to Make a Multiplayer Mode for The Last of Us Part 2, Insists There Isn't Much Sony Can Do About It 'Even if They Do Shut Me Down'",
+      "url": "https://www.ign.com/articles/new-multiplayer-mod-for-the-last-of-us-part-2",
+      "source": "IGN",
+      "category": "games",
+      "published_iso": "2026-11-26T11:00:06.408Z",
+      "excerpt": "A modder says they used AI tools to build a multiplayer mode for The Last of Us Part 2 and argues Sony can do little to stop AI-assisted mods even with takedowns.",
+      "og_image": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png?width=1280&format=jpg&auto=webp&quality=80"
+    },
+    {
+      "title": "Modder behind AI-powered The Last of Us 2 multiplayer project says \"there ain't much\" Sony can do, \"even if they do shut me down\"",
+      "url": "https://www.gamesradar.com/games/the-last-of-us/modder-behind-ai-powered-the-last-of-us-2-multiplayer-project-says-there-aint-much-sony-can-do-even-if-they-do-shut-me-down/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-11-26T17:38:02Z",
+      "excerpt": "Same story as IGN: the modder behind an AI-built TLOU2 multiplayer project says AI tooling means takedowns can't put 'Pandora's box' back.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/kspKnDfLYgDRrW8xcsDjPE-1920-80.jpg"
+    },
+    {
+      "title": "『Slay the Spire 2』の超難関アセンション10を「80％クリアできるAI」が誕生。142億回の決断と“先読み”で、猛者の領域に",
+      "url": "https://automaton-media.com/articles/newsjp/20261126-481134/",
+      "source": "AUTOMATON",
+      "category": "games",
+      "published_iso": "2026-11-26T08:07:28+00:00",
+      "excerpt": "A research paper proposes AlphaDefect, a reinforcement-learning system trained on 14.2 billion decisions that clears Slay the Spire 2's hardest Ascension 10 about 80% of the time.",
+      "og_image": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg"
+    },
+    {
+      "title": "크래프톤, 독자 개발 고효율 LLM '라온-1 미니' 정식 출시",
+      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019938",
+      "source": "게임와이",
+      "category": "games",
+      "published_iso": "2026-11-25T16:55:08+09:00",
+      "excerpt": "Krafton released the official version of Raon-1 mini, a from-scratch 30B MoE LLM (4B active) with in-house linear attention, after an October preview.",
+      "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019938_174949_3330_v150.jpg"
+    },
+    {
+      "title": "크래프톤·시프트업이 만든 AI, 성적표로 말하다",
+      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019935",
+      "source": "게임와이",
+      "category": "games",
+      "published_iso": "2026-11-25T16:57:12+09:00",
+      "excerpt": "Roundup: Krafton's Raon-1 mini launch plus Shift Up's COZY translation system placing in the top group at WMT 2026 against Amazon, Samsung and Huawei.",
+      "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019935_174940_148_v150.jpg"
+    },
+    {
+      "title": "시프트업, 국제 기계번역 대회 WMT 2026에서 최상위 그룹 선정",
+      "url": "https://www.inews24.com/view/2030133",
+      "source": "아이뉴스24",
+      "category": "games",
+      "published_iso": "2026-11-25T10:24:45+09:00",
+      "excerpt": "Shift Up's in-house AI translation system COZY was placed in the frontier group of WMT 2026's terminology translation track; the studio applies it to game localization.",
+      "og_image": "https://image.inews24.com/v1/996edb739c7200.jpg"
+    },
+    {
+      "title": "今年の韓国最大級ゲームショウのメインスポンサーはAIキャラクターチャットの「Crack」。日本版「キャラぷ」を運営する日本法人代表に，クリエイター還元の仕組みや会話の中身を原則見ない運営を聞く［G-STAR 2026］",
+      "url": "https://www.4gamer.net/games/999/G999904/20261121004/",
+      "source": "4Gamer.net",
+      "category": "games",
+      "published_iso": "2026-11-27T07:00:00+09:00",
+      "excerpt": "Interview with the head of the Japanese arm of AI character-chat service Crack, G-STAR 2026's first non-game main sponsor, on creator revenue sharing and its policy of not reading conversations.",
+      "og_image": "https://www.4gamer.net/games/999/G999904/20261121004/SS/001.jpg"
+    },
+    {
+      "title": "Ludo.ai launches AI Tileset Generator for 2D games",
+      "url": "https://mobidictum.com/ludo-ai-tileset-generator-2d-games/",
+      "source": "Mobidictum",
+      "category": "games",
+      "published_iso": "2026-11-26T11:11:00+03:00",
+      "excerpt": "Ludo.ai's Tileset Generator builds 16-tile terrain and line sets for 2D games from a ground description, with top-down and isometric grids, browser testing and engine exports.",
+      "og_image": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-game-development-platform-logo.png"
+    },
+    {
+      "title": "Unity Asset Store and CLI: Let Your AI Agent Find and Add Assets",
+      "url": "https://unity.com/blog/unity-asset-store-ai-generators-coding-agents",
+      "source": "Unity",
+      "category": "games",
+      "published_iso": "2026-11-23T00:00:00Z",
+      "excerpt": "Unity CLI now lets coding agents search the Asset Store, pull single prefabs from packs and generate missing assets with 60+ AI models; a new Asset Library plugin finds assets from plain-language descriptions (open beta).",
+      "og_image": "https://i.ytimg.com/vi/x8OKddbRALQ/maxresdefault.jpg"
+    },
+    {
+      "title": "Instead of just describing where things go, you can annotate (draw, select, point) in the scene - Unity Spark Annotate",
+      "url": "https://www.youtube.com/watch?v=QmX2VKa1_24",
+      "source": "Unity (YouTube)",
+      "category": "games",
+      "published_iso": "2026-11-25T05:55:23-08:00",
+      "excerpt": "Unity shows Annotate in Unity Spark: draw, select or point directly on the game scene to give the AI exact visual context instead of describing placement in text; closed-beta waitlist open.",
+      "og_image": "https://i.ytimg.com/vi/QmX2VKa1_24/maxresdefault.jpg"
+    },
+    {
+      "title": "AI 캐디와 대화하며 즐기는 스크린 골프...프라임파크골프 출시",
+      "url": "http://www.gamey.kr/news/articleView.html?idxno=3019962",
+      "source": "게임와이",
+      "category": "games",
+      "published_iso": "2026-11-26T12:11:30+09:00",
+      "excerpt": "Primepark Dome launched Primepark Golf, a screen-golf system with a voice-conversational AI caddy that greets players by name and answers distance/green-slope requests.",
+      "og_image": "https://cdn.gamey.kr/news/thumbnail/202611/3019962_175044_5212_v150.jpg"
+    },
+    {
+      "title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
+      "url": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5/",
+      "source": "NVIDIA Technical Blog",
+      "category": "games",
+      "published_iso": "2026-11-24T14:00:00+00:00",
+      "excerpt": "Everstone Studio explains how it integrated DLSS 5 neural rendering into Where Winds Meet for more realistic lighting and materials across landscapes and characters.",
+      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image4-11.webp"
+    },
+    {
+      "title": "Ludo.ai launches AI-powered Tileset Generator for 2D game development",
+      "url": "https://www.pocketgamer.biz/ludoai-launches-ai-powered-tileset-generator-for-2d-game-development/",
+      "source": "PocketGamer.biz",
+      "category": "games",
+      "published_iso": "2026-11-26T10:48:00+00:00",
+      "excerpt": "Off-list alt for the Ludo.ai Tileset Generator story (same event as Mobidictum).",
+      "og_image": "https://media.pocketgamer.biz/images/142383/90365/ludoai_l1200.jpg"
+    }
+  ]
 }

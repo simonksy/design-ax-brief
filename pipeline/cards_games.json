@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "games",
   "cards": [
     {
-      "id": "eafc-motson-ai-voice",
+      "id": "ludo-tileset-generator",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "EA Sports FC에\nAI로 Motson 부활",
-      "body": "EA Sports FC가 AI로 Motson을 되살리자 팬 반응이 갈렸다.",
-      "mini_headline": "EA, AI로 Motson 부활",
+      "headline": "Ludo.ai, 땅 묘사로\n2D 타일셋 만든다",
+      "body": "Ludo.ai Tileset Generator가 16타일 지형 세트를 만든다.",
+      "mini_headline": "Ludo.ai Tileset Generator",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
+      "source": "Mobidictum",
+      "url": "https://mobidictum.com/ludo-ai-tileset-generator-2d-games/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,179 +19,203 @@
         "blocks": [
           {
             "t": "p",
-            "x": "전설적인 축구 해설가 John Motson이 오늘 나오는 EA FC 27 타이틀 업데이트에서 AI로 되살아나 시리즈에 돌아온다."
+            "x": "실전용 게임 에셋을 만드는 개발자 도구 Ludo.ai가 오늘 새 도구 Tileset Generator를 출시했다. 게임 속 지면을 글로 묘사하면 2D 맵을 칠할 수 있는 온전한 타일셋으로 바꿔 준다. 세트 하나에 지형이 맞닿는 여러 경우를 담은 타일 16개가 들어 있어, 칠하는 동안 지형 사이 가장자리와 모서리가 알아서 맞물린다. 탑다운과 아이소메트릭 게임 모두에 쓸 수 있고, Ludo 플랫폼과 Ludo CLI, MCP 서버, REST API에서 바로 이용할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Ludo.ai의 공동창업자(Co-Founder)이자 최고기술책임자(Chief Technology Officer)인 Jorge Gomes는 “타일셋은 소규모 팀이 손으로 그리기에 가장 지루한 에셋 중 하나다. 이제 1인 개발자도 세계를 묘사하고 몇 분 뒤면 그것으로 맵을 칠할 수 있다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "작동 방식은 이렇다. 탑다운 또는 아이소메트릭 그리드를 고르고 지면을 묘사하면 지형마다 이음매 없는 기본 타일이 나온다. 두 타일을 골라 흰 바다 거품이나 낮은 돌 연석 같은 경계를 묘사하면 16개 타일 세트가 완성된다. 도로·강·울타리·벽 같은 선도 깔 수 있다. 내보내기 전에는 브라우저에서 테스트 맵을 칠해 보면 된다."
+          },
+          {
+            "t": "p",
+            "x": "세트를 내보내면 16개 타일 이미지와 각 타일을 설명하는 JSON 데이터 파일이 함께 나오고, Godot 4와 Tiled에 바로 쓸 수 있는 타일셋 파일도 딸려 온다. “해질녘으로”나 “눈으로 덮어 줘”처럼 세트 전체를 고치면 똑같이 맞물리는 새 세트가 돌아온다. 2D 조명용 노멀 맵을 세트에 함께 넣을 수도 있다. 가격은 타일 하나에 0.5 크레딧, 세트 전체에 1 크레딧이고 Pro와 Studio 요금제에서는 웹 앱 생성이 무제한이다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
-            "cap": "이미지 출처: Getty Images - 사진 Laurence Griffiths/Getty Images"
+            "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
+            "cap": "프롬프트 하나로 같은 해변 타일셋의 잔잔한 청록빛 바다가 폭풍 치는 바다로 바뀐다. 해안선 전환은 그대로다."
           },
           {
-            "t": "p",
-            "x": "2023년 77세로 세상을 떠난 BBC의 전설적 축구 해설가 John \"Motty\" Motson이 \"본인의 원본 음성과, 본인 녹음으로 학습한 AI 재현 음성(AI-recreation)을 섞는\" 방식으로 EA Sports FC 27에 들어간다. 발표에 따르면 \"거의 10년 분량의 게임 내 녹음\"에 \"새로운 AI 도구\"를 더했다. EA 축구 시리즈와 그의 인연은 FIFA Soccer 96까지 거슬러 올라간다."
-          },
-          {
-            "t": "p",
-            "x": "\"아버지는 게임의 목소리가 되는 일을 무척 사랑하셨고, 이 감동적인 헌사로 게임 속에 아버지의 기억을 지켜준 EA Sports FC 팀에 깊이 감사한다\"고 John의 아들 Fred가 말했다. BBC 보도에 따르면 EA는 유족에게 액수를 밝히지 않은 금액을 지급했다."
-          },
-          {
-            "t": "p",
-            "x": "모두가 반기지는 않는다. EA Sports FC 서브레딧에서는 \"수치스럽다\", \"무례하다\", \"역겹다\", \"너무 암울하다\"는 반응이 나왔고, 한 레딧 이용자는 \"우리는 정말 빌어먹게 암울한 세상에 살고 있다\"고 썼다. Save Our Voices Now의 Peter Caulfield은 \"본인이 명시적으로 동의하지 않았다면 어떤 형태의 AI 복제도 허용해서는 안 된다\"고 말했다. Red Hook Studios는 반대로 내레이터 Wayne June의 목소리를 AI로 재현하는 일은 절대 없다고 못 박았다."
+            "t": "video",
+            "yt": "6GYU5as78CQ"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "EA Sports FC brings back\nJohn Motson's voice with AI",
-          "body": "EA Sports FC revives late BBC commentator John Motson with AI; his family approves, some fans call it bleak.",
-          "mini_headline": "EA revives Motson with AI",
+          "headline": "Ludo.ai builds 2D tilesets\nfrom a ground description",
+          "body": "Ludo.ai's Tileset Generator makes 16-tile terrain sets in top-down or isometric grids, ready for engine export.",
+          "mini_headline": "Ludo.ai tileset generator",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Legendary football pundit John Motson will return to the series, in AI form, in today's EA FC 27 title update."
+                "x": "Ludo.ai, the developer’s companion for creating production-ready game assets, today announced the release of the Tileset Generator, a new tool that turns a description of a game’s ground into a complete tileset for painting 2D maps. Each set holds 16 tiles covering the different ways terrains can meet, while the edges and corners between them fall into place as a developer paints. The tool works for top-down and isometric games, and is available now in the Ludo platform and through the Ludo CLI, MCP server, and REST API."
+              },
+              {
+                "t": "p",
+                "x": "Jorge Gomes, Co-Founder and Chief Technology Officer at Ludo.ai, said: “Tilesets are one of the most tedious assets for a small team to draw by hand. Now a solo developer can describe a world and be painting a map with it a few minutes later.”"
+              },
+              {
+                "t": "p",
+                "x": "How it works: pick a top-down or isometric grid and describe a ground to get a seamless base tile per terrain; pick two tiles and describe the boundary, such as white sea foam or a low stone curb, to get the full 16-tile set, or lay a line such as a road, river, fence or wall; then paint a test map in the browser before exporting."
+              },
+              {
+                "t": "p",
+                "x": "Each set exports an image of the 16 tiles with a JSON data file describing each one; Godot 4 and Tiled also get a ready-made tileset file. Whole-set edits such as “at sunset” or “cover it in snow” come back as a new set that fits together the same way, and a set can include a matching normal map for 2D lighting. A tile costs 0.5 credits, a full set 1 credit; on the Pro and Studio plans, generation in the web app is unlimited."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
-                "cap": "Image credit: Getty Images - Photo by Laurence Griffiths/Getty Images"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
+                "cap": "A single prompt transforms the same beach tileset from calm turquoise waters to a stormy sea, while preserving the shoreline transitions."
               },
               {
-                "t": "p",
-                "x": "Legendary BBC football commentator John \"Motty\" Motson, who died in 2023 at age 77, is being added to EA Sports FC 27 through \"a mix of both his original audio and an AI-recreation trained by recordings of the man himself.\" The announcement says \"almost 10 years of in-game recordings\" were used with \"new AI tools.\" His history with EA's football series goes back to FIFA Soccer 96."
-              },
-              {
-                "t": "p",
-                "x": "\"My father adored being the voice of the game, and we are so grateful to the team at EA Sports FC for this touching tribute and preserving his memory in-game,\" John's son Fred said. The BBC reports EA paid the family an undisclosed sum."
-              },
-              {
-                "t": "p",
-                "x": "Not everyone shares that enthusiasm: on the EA Sports FC subreddit some call it \"shameful,\" \"disrespectful,\" \"gross,\" and \"bloody dark.\" \"What a bleak fucking world we live in,\" one redditor wrote. Peter Caulfield of Save Our Voices Now said \"unless you have specifically agreed to it, AI cloning of any kind should not be allowed.\" Red Hook Studios, by contrast, said it would never use AI to recreate narrator Wayne June's voice."
+                "t": "video",
+                "yt": "6GYU5as78CQ"
               }
             ]
           }
         },
         "ko": {
-          "headline": "EA Sports FC에\nAI로 Motson 부활",
-          "body": "EA Sports FC가 AI로 Motson을 되살리자 팬 반응이 갈렸다.",
-          "mini_headline": "EA, AI로 Motson 부활",
+          "headline": "Ludo.ai, 땅 묘사로\n2D 타일셋 만든다",
+          "body": "Ludo.ai Tileset Generator가 16타일 지형 세트를 만든다.",
+          "mini_headline": "Ludo.ai Tileset Generator",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "전설적인 축구 해설가 John Motson이 오늘 나오는 EA FC 27 타이틀 업데이트에서 AI로 되살아나 시리즈에 돌아온다."
+                "x": "실전용 게임 에셋을 만드는 개발자 도구 Ludo.ai가 오늘 새 도구 Tileset Generator를 출시했다. 게임 속 지면을 글로 묘사하면 2D 맵을 칠할 수 있는 온전한 타일셋으로 바꿔 준다. 세트 하나에 지형이 맞닿는 여러 경우를 담은 타일 16개가 들어 있어, 칠하는 동안 지형 사이 가장자리와 모서리가 알아서 맞물린다. 탑다운과 아이소메트릭 게임 모두에 쓸 수 있고, Ludo 플랫폼과 Ludo CLI, MCP 서버, REST API에서 바로 이용할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Ludo.ai의 공동창업자(Co-Founder)이자 최고기술책임자(Chief Technology Officer)인 Jorge Gomes는 “타일셋은 소규모 팀이 손으로 그리기에 가장 지루한 에셋 중 하나다. 이제 1인 개발자도 세계를 묘사하고 몇 분 뒤면 그것으로 맵을 칠할 수 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "작동 방식은 이렇다. 탑다운 또는 아이소메트릭 그리드를 고르고 지면을 묘사하면 지형마다 이음매 없는 기본 타일이 나온다. 두 타일을 골라 흰 바다 거품이나 낮은 돌 연석 같은 경계를 묘사하면 16개 타일 세트가 완성된다. 도로·강·울타리·벽 같은 선도 깔 수 있다. 내보내기 전에는 브라우저에서 테스트 맵을 칠해 보면 된다."
+              },
+              {
+                "t": "p",
+                "x": "세트를 내보내면 16개 타일 이미지와 각 타일을 설명하는 JSON 데이터 파일이 함께 나오고, Godot 4와 Tiled에 바로 쓸 수 있는 타일셋 파일도 딸려 온다. “해질녘으로”나 “눈으로 덮어 줘”처럼 세트 전체를 고치면 똑같이 맞물리는 새 세트가 돌아온다. 2D 조명용 노멀 맵을 세트에 함께 넣을 수도 있다. 가격은 타일 하나에 0.5 크레딧, 세트 전체에 1 크레딧이고 Pro와 Studio 요금제에서는 웹 앱 생성이 무제한이다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
-                "cap": "이미지 출처: Getty Images - 사진 Laurence Griffiths/Getty Images"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
+                "cap": "프롬프트 하나로 같은 해변 타일셋의 잔잔한 청록빛 바다가 폭풍 치는 바다로 바뀐다. 해안선 전환은 그대로다."
               },
               {
-                "t": "p",
-                "x": "2023년 77세로 세상을 떠난 BBC의 전설적 축구 해설가 John \"Motty\" Motson이 \"본인의 원본 음성과, 본인 녹음으로 학습한 AI 재현 음성(AI-recreation)을 섞는\" 방식으로 EA Sports FC 27에 들어간다. 발표에 따르면 \"거의 10년 분량의 게임 내 녹음\"에 \"새로운 AI 도구\"를 더했다. EA 축구 시리즈와 그의 인연은 FIFA Soccer 96까지 거슬러 올라간다."
-              },
-              {
-                "t": "p",
-                "x": "\"아버지는 게임의 목소리가 되는 일을 무척 사랑하셨고, 이 감동적인 헌사로 게임 속에 아버지의 기억을 지켜준 EA Sports FC 팀에 깊이 감사한다\"고 John의 아들 Fred가 말했다. BBC 보도에 따르면 EA는 유족에게 액수를 밝히지 않은 금액을 지급했다."
-              },
-              {
-                "t": "p",
-                "x": "모두가 반기지는 않는다. EA Sports FC 서브레딧에서는 \"수치스럽다\", \"무례하다\", \"역겹다\", \"너무 암울하다\"는 반응이 나왔고, 한 레딧 이용자는 \"우리는 정말 빌어먹게 암울한 세상에 살고 있다\"고 썼다. Save Our Voices Now의 Peter Caulfield은 \"본인이 명시적으로 동의하지 않았다면 어떤 형태의 AI 복제도 허용해서는 안 된다\"고 말했다. Red Hook Studios는 반대로 내레이터 Wayne June의 목소리를 AI로 재현하는 일은 절대 없다고 못 박았다."
+                "t": "video",
+                "yt": "6GYU5as78CQ"
               }
             ]
           }
         },
         "ja": {
-          "headline": "EA Sports FC\nAIでMotsonの声復活",
-          "body": "EA Sports FCがAIでMotsonの声を復活、遺族は賛同し一部ファンは反発した。",
-          "mini_headline": "EA、AIでMotsonを復活",
+          "headline": "Ludo.ai、地面の記述で\n2Dタイルセット生成",
+          "body": "Ludo.aiのTileset Generatorが16タイルの地形セットを作る。",
+          "mini_headline": "Ludo.ai Tileset Generator",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "伝説的なサッカー解説者John Motsonが、本日配信のEA FC 27タイトルアップデートでAIの姿となってシリーズに復帰する。"
+                "x": "制作でそのまま使えるゲームアセットづくりを支える開発者向けツールLudo.aiは本日、新ツールTileset Generatorのリリースを発表した。ゲームの地面を言葉で記述すると、2Dマップを塗るための完全なタイルセットに変換する。各セットには地形同士の接し方を網羅した16枚のタイルが含まれ、開発者が塗るにつれて地形間の縁や角が自然に収まる。トップダウンとアイソメトリックのゲームに対応し、Ludoプラットフォームのほか、Ludo CLI、MCPサーバー、REST APIからすでに利用できる。"
+              },
+              {
+                "t": "p",
+                "x": "Ludo.aiのCo-Founder(共同創業者)兼Chief Technology Officer(最高技術責任者)であるJorge Gomes氏は「タイルセットは小規模チームが手で描くには最も手間のかかるアセットの一つだ。いまや個人開発者でも世界を記述し、数分後にはそれでマップを塗り始められる」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "使い方はこうだ。トップダウンかアイソメトリックのグリッドを選んで地面を記述すると、地形ごとに継ぎ目のないベースタイルができる。二つのタイルを選び、白い波の泡や低い石の縁石といった境界を記述すれば16枚のセット一式が得られ、道路や川、柵、壁のような線を引くこともできる。そのうえで、書き出す前にブラウザでテストマップを塗って確かめられる。"
+              },
+              {
+                "t": "p",
+                "x": "各セットは16枚のタイル画像と、各タイルを説明するJSONデータファイルとして書き出され、Godot 4とTiled向けにはすぐ使えるタイルセットファイルも用意される。「夕暮れに」「雪で覆って」といったセット全体の編集は、同じように組み合わさる新しいセットとして返ってくる。2Dライティング用の対応するノーマルマップをセットに含めることもできる。料金はタイル1枚で0.5クレジット、セット一式で1クレジットで、ProとStudioプランではウェブアプリでの生成が無制限だ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
-                "cap": "画像提供: Getty Images - 撮影 Laurence Griffiths/Getty Images"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
+                "cap": "一つのプロンプトで、同じビーチのタイルセットが穏やかなターコイズ色の海から嵐の海へと変わり、海岸線のつながりはそのまま保たれる。"
               },
               {
-                "t": "p",
-                "x": "2023年に77歳で亡くなったBBCの伝説的サッカー実況者John「Motty」Motsonが、「本人のオリジナル音声と、本人の録音で学習したAIによる再現音声（AI-recreation）を組み合わせて」EA Sports FC 27に追加される。発表によると、「ほぼ10年分のゲーム内録音」が「新しいAIツール」とともに使われた。EAのサッカーシリーズとの関わりはFIFA Soccer 96にさかのぼる。"
-              },
-              {
-                "t": "p",
-                "x": "「父はゲームの声であることを心から愛していました。この心のこもったトリビュートでゲームの中に父の記憶を残してくれたEA Sports FCのチームに深く感謝しています」とJohnの息子Fredは語った。BBCによると、EAは遺族に非公開の金額を支払った。"
-              },
-              {
-                "t": "p",
-                "x": "誰もが歓迎しているわけではない。EA Sports FCのsubredditでは「恥ずべき」「無礼だ」「気持ち悪い」「ひどく暗い」との声が上がり、あるRedditユーザーは「なんてクソみたいに暗い世界に生きているんだ」と書いた。Save Our Voices NowのPeter Caulfieldは「本人が明確に同意していない限り、いかなる形のAIクローンも認められるべきではない」と述べた。一方、Red Hook Studiosはナレーターを務めるWayne Juneの声をAIで再現することは決してないとしている。"
+                "t": "video",
+                "yt": "6GYU5as78CQ"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EA Sports FC\n用AI重现Motson声音",
-          "body": "EA Sports FC用AI重现已故BBC解说员Motson，家人认可，部分球迷反感。",
-          "mini_headline": "EA用AI让Motson回归",
+          "headline": "Ludo.ai 按地面描述\n生成2D图块集",
+          "body": "Ludo.ai的Tileset Generator生成16块地形图块集，可直接导入引擎。",
+          "mini_headline": "Ludo.ai Tileset Generator",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "传奇足球评论员John Motson将以AI形式回归该系列，出现在今天的EA FC 27版本更新中。"
+                "x": "帮助开发者制作可直接投入生产的游戏素材的工具Ludo.ai今天宣布推出新工具Tileset Generator，它能把对游戏地面的描述转化为一整套用于绘制2D地图的图块集。每套包含16块图块，覆盖地形相接的各种情况，开发者绘制时，地形之间的边缘和拐角会自动衔接。该工具适用于俯视角和等距视角游戏，现已在Ludo平台上线，也可通过Ludo CLI、MCP服务器和REST API使用。"
+              },
+              {
+                "t": "p",
+                "x": "Ludo.ai联合创始人（Co-Founder）兼首席技术官（Chief Technology Officer）Jorge Gomes表示：“对小团队来说，图块集是手绘起来最繁琐的素材之一。现在，独立开发者只需描述一个世界，几分钟后就能用它绘制地图。”"
+              },
+              {
+                "t": "p",
+                "x": "使用方法：选择俯视或等距网格并描述地面，即可为每种地形得到一块无缝基础图块；选取两块图块并描述它们的边界，例如白色海浪泡沫或低矮的石砌路缘，即可得到完整的16块图块集，也可以铺设道路、河流、围栏或墙壁等线条；导出前还能在浏览器中绘制测试地图。"
+              },
+              {
+                "t": "p",
+                "x": "每套图块集导出为一张包含16块图块的图像，并附带描述每块图块的JSON数据文件；Godot 4和Tiled还会获得现成的图块集文件。“改成日落时分”或“覆盖积雪”这类整套编辑会返回一套以同样方式拼合的新图块集，图块集还可附带匹配的法线贴图，用于2D光照。单块图块消耗0.5积分，整套消耗1积分；在Pro和Studio方案中，网页应用内的生成不限次数。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
-                "cap": "图片来源：Getty Images - 摄影 Laurence Griffiths/Getty Images"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
+                "cap": "只需一条提示词，同一套海滩图块集就从平静的青绿色海水变为暴风雨中的海面，海岸线过渡依然保持不变。"
               },
               {
-                "t": "p",
-                "x": "BBC传奇足球解说员John “Motty” Motson于2023年去世，享年77岁。他将通过“结合其原始音频与用本人录音训练的AI重建声音（AI-recreation）”的方式加入EA Sports FC 27。公告称，“近10年的游戏内录音”与“新的AI工具”一同被使用。他与EA足球系列的渊源可追溯到FIFA Soccer 96。"
-              },
-              {
-                "t": "p",
-                "x": "“父亲非常热爱担任这款游戏的声音，我们由衷感谢EA Sports FC团队献上这份动人的致敬，并在游戏中留住他的记忆。”John的儿子Fred说。据BBC报道，EA向其家人支付了一笔未公开的款项。"
-              },
-              {
-                "t": "p",
-                "x": "并非所有人都同样热情：在EA Sports FC的subreddit上，有人称之为“可耻”“不尊重”“恶心”和“太黑暗了”。一名Reddit用户写道：“我们活在一个多么该死的阴暗世界。”Save Our Voices Now的Peter Caulfield表示：“除非本人明确同意，否则任何形式的AI克隆都不应被允许。”相比之下，Red Hook Studios表示绝不会用AI重现旁白Wayne June的声音。"
+                "t": "video",
+                "yt": "6GYU5as78CQ"
               }
             ]
           }
         },
         "es": {
-          "headline": "EA Sports FC recupera la voz\nde John Motson con AI",
-          "body": "EA Sports FC revive con AI al difunto John Motson, de la BBC; su familia lo aprueba y hay fans que lo ven sombrío.",
-          "mini_headline": "EA revive a Motson con AI",
+          "headline": "Ludo.ai crea tilesets 2D\na partir de una descripción",
+          "body": "El Tileset Generator de Ludo.ai crea sets de 16 tiles de terreno en vista cenital o isométrica, listos para exportar.",
+          "mini_headline": "Tileset Generator de Ludo.ai",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "El legendario comentarista de fútbol John Motson volverá a la serie, en forma de AI, en la actualización de EA FC 27 que se publica hoy."
+                "x": "Ludo.ai, la herramienta de apoyo para desarrolladores que crean recursos de juego listos para producción, anunció hoy el lanzamiento de Tileset Generator, una nueva herramienta que convierte la descripción del suelo de un juego en un tileset completo para pintar mapas 2D. Cada conjunto contiene 16 tiles que cubren las distintas formas en que pueden encontrarse los terrenos, mientras los bordes y las esquinas entre ellos encajan solos a medida que el desarrollador pinta. La herramienta sirve para juegos con vista cenital e isométrica y ya está disponible en la plataforma Ludo y a través de Ludo CLI, el servidor MCP y la REST API."
+              },
+              {
+                "t": "p",
+                "x": "Jorge Gomes, Co-Founder (cofundador) y Chief Technology Officer (director de tecnología) de Ludo.ai, afirmó: “Los tilesets son uno de los recursos más tediosos de dibujar a mano para un equipo pequeño. Ahora un desarrollador en solitario puede describir un mundo y estar pintando un mapa con él pocos minutos después”."
+              },
+              {
+                "t": "p",
+                "x": "Cómo funciona: se elige una cuadrícula cenital o isométrica y se describe un suelo para obtener una tile base sin costuras por terreno; se eligen dos tiles y se describe el límite, como espuma de mar blanca o un bordillo bajo de piedra, para obtener el conjunto completo de 16 tiles, o se traza una línea como un camino, un río, una valla o un muro; después se pinta un mapa de prueba en el navegador antes de exportar."
+              },
+              {
+                "t": "p",
+                "x": "Cada conjunto se exporta como una imagen de las 16 tiles con un archivo de datos JSON que describe cada una; Godot 4 y Tiled reciben además un archivo de tileset listo para usar. Las ediciones de todo el conjunto, como “al atardecer” o “cúbrelo de nieve”, devuelven un nuevo conjunto que encaja de la misma manera, y un conjunto puede incluir un mapa de normales a juego para la iluminación 2D. Una tile cuesta 0.5 créditos y un conjunto completo, 1 crédito; en los planes Pro y Studio, la generación en la aplicación web es ilimitada."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
-                "cap": "Crédito de imagen: Getty Images - Foto de Laurence Griffiths/Getty Images"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
+                "cap": "Un solo prompt transforma el mismo tileset de playa de aguas turquesa en calma a un mar tormentoso, sin alterar las transiciones de la costa."
               },
               {
-                "t": "p",
-                "x": "El legendario comentarista de fútbol de la BBC John \"Motty\" Motson, fallecido en 2023 a los 77 años, se incorpora a EA Sports FC 27 mediante \"una mezcla de su audio original y una AI-recreation (recreación por AI) entrenada con grabaciones de él mismo\". El anuncio indica que se usaron \"casi 10 años de grabaciones in-game\" con \"nuevas herramientas de AI\". Su historia con la serie de fútbol de EA se remonta a FIFA Soccer 96."
-              },
-              {
-                "t": "p",
-                "x": "\"Mi padre adoraba ser la voz del juego, y estamos muy agradecidos al equipo de EA Sports FC por este conmovedor homenaje y por preservar su memoria in-game\", dijo Fred, hijo de John. La BBC informa de que EA pagó a la familia una suma no revelada."
-              },
-              {
-                "t": "p",
-                "x": "No todos comparten ese entusiasmo: en el subreddit de EA Sports FC algunos lo califican de \"vergonzoso\", \"irrespetuoso\", \"asqueroso\" y \"jodidamente oscuro\". \"Qué mundo tan jodidamente sombrío en el que vivimos\", escribió un redditor. Peter Caulfield, de Save Our Voices Now, afirmó que \"a menos que lo hayas aceptado expresamente, no debería permitirse la clonación por AI de ningún tipo\". Red Hook Studios, en cambio, dijo que nunca usaría AI para recrear la voz del narrador Wayne June."
+                "t": "video",
+                "yt": "6GYU5as78CQ"
               }
             ]
           }
@@ -199,125 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "EA Sports FC에\nAI로 Motson 부활",
-          "body": "EA Sports FC가 AI로 Motson을 되살렸고 팬 반응은 엇갈린다.",
-          "mini_headline": "EA, AI로 Motson 부활",
+          "headline": "Ludo.ai, 땅 묘사로\n2D 타일셋 만든다",
+          "body": "Ludo.ai Tileset Generator가 16타일 지형 세트를 만든다.",
+          "mini_headline": "Ludo.ai Tileset Generator",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "전설적인 축구 해설가 John Motson이 오늘 배포되는 EA FC 27 타이틀 업데이트에서 AI 형태로 시리즈에 돌아온다."
+                "x": "실전에 쓸 게임 에셋 제작을 돕는 개발자 도구 Ludo.ai가 오늘 새 도구 Tileset Generator를 출시했다고 발표했다. 게임의 지면을 묘사하면 2D 맵을 칠할 수 있는 완전한 타일셋으로 바꿔 주는 도구다. 세트마다 지형이 맞닿는 여러 경우를 담은 16개 타일이 들어 있고, 개발자가 칠하는 동안 지형 사이의 가장자리와 모서리가 알아서 맞춰진다. 탑다운과 아이소메트릭 게임에 모두 쓸 수 있으며, 지금 Ludo 플랫폼과 Ludo CLI, MCP 서버, REST API로 이용할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Ludo.ai의 공동창업자(Co-Founder)이자 최고기술책임자(Chief Technology Officer)인 Jorge Gomes는 “타일셋은 소규모 팀이 손으로 그리기에 가장 지루한 에셋 중 하나다. 이제 1인 개발자도 세계를 묘사하고 몇 분 뒤면 그것으로 맵을 칠할 수 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "작동 방식은 이렇다. 탑다운 또는 아이소메트릭 그리드를 고르고 지면을 묘사하면 지형마다 이음매 없는 기본 타일이 나온다. 두 타일을 골라 흰 바다 거품이나 낮은 돌 연석 같은 경계를 묘사하면 16개 타일 세트 전체가 완성되고, 도로·강·울타리·벽 같은 선을 깔 수도 있다. 이어 내보내기 전에 브라우저에서 테스트 맵을 칠해 볼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "세트를 내보내면 16개 타일 이미지와 각 타일을 설명하는 JSON 데이터 파일이 함께 나오며, Godot 4와 Tiled에는 바로 쓸 수 있는 타일셋 파일도 제공된다. “해질녘으로”나 “눈으로 덮어 줘” 같은 세트 전체 편집은 같은 방식으로 맞물리는 새 세트로 돌아오고, 세트에 2D 조명용 노멀 맵을 함께 넣을 수도 있다. 타일 하나는 0.5 크레딧, 세트 전체는 1 크레딧이며, Pro와 Studio 요금제에서는 웹 앱 생성이 무제한이다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
-                "cap": "이미지 출처: Getty Images - 사진 Laurence Griffiths/Getty Images"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
+                "cap": "프롬프트 하나로 같은 해변 타일셋이 잔잔한 청록빛 바다에서 폭풍 치는 바다로 바뀌고, 해안선 전환은 그대로 유지된다."
               },
               {
-                "t": "p",
-                "x": "2023년 77세로 세상을 떠난 BBC의 전설적 축구 해설가 John \"Motty\" Motson이 \"본인의 원본 음성과, 본인 녹음으로 학습한 AI 재현 음성(AI-recreation)을 섞는\" 방식으로 EA Sports FC 27에 추가된다. 발표에 따르면 \"거의 10년 분량의 게임 내 녹음\"을 \"새로운 AI 도구\"와 함께 활용했다. EA 축구 시리즈와 그의 인연은 FIFA Soccer 96까지 거슬러 올라간다."
-              },
-              {
-                "t": "p",
-                "x": "\"아버지는 게임의 목소리가 되는 일을 무척 사랑하셨고, 이 감동적인 헌사로 게임 속에 아버지의 기억을 지켜준 EA Sports FC 팀에 깊이 감사한다\"고 John의 아들 Fred가 말했다. BBC는 EA가 유족에게 액수를 밝히지 않은 금액을 지급했다고 보도했다."
-              },
-              {
-                "t": "p",
-                "x": "모두가 반기는 것은 아니다. EA Sports FC 서브레딧에서는 \"수치스럽다\", \"무례하다\", \"역겹다\", \"너무 암울하다\"는 반응이 나왔고, 한 레딧 이용자는 \"우리는 정말 빌어먹게 암울한 세상에 살고 있다\"고 썼다. Save Our Voices Now의 Peter Caulfield은 \"본인이 명시적으로 동의하지 않았다면 어떤 형태의 AI 복제도 허용해서는 안 된다\"고 말했다. 반면 Red Hook Studios는 내레이터 Wayne June의 목소리를 AI로 재현하는 일은 절대 없을 것이라고 밝혔다."
+                "t": "video",
+                "yt": "6GYU5as78CQ"
               }
             ]
           }
         },
         "ja": {
-          "headline": "EA Sports FC\nAIでMotsonの声復活",
-          "body": "EA Sports FCがAIでMotsonの声を復活、遺族は賛同し一部ファンは反発した。",
-          "mini_headline": "EA、AIでMotsonを復活",
+          "headline": "Ludo.ai、地面の記述で\n2Dタイルセット生成",
+          "body": "Ludo.aiのTileset Generatorが16タイルの地形セットを作る。",
+          "mini_headline": "Ludo.ai Tileset Generator",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "伝説的なサッカー解説者John Motsonが、本日配信のEA FC 27タイトルアップデートでAIの姿となってシリーズに復帰する。"
+                "x": "制作でそのまま使えるゲームアセットづくりを支える開発者向けツールLudo.aiは本日、新ツールTileset Generatorのリリースを発表した。ゲームの地面を言葉で記述すると、2Dマップを塗るための完全なタイルセットに変換する。各セットには地形同士の接し方を網羅した16枚のタイルが含まれ、開発者が塗るにつれて地形間の縁や角が自然に収まる。トップダウンとアイソメトリックのゲームに対応し、Ludoプラットフォームのほか、Ludo CLI、MCPサーバー、REST APIからすでに利用できる。"
+              },
+              {
+                "t": "p",
+                "x": "Ludo.aiのCo-Founder(共同創業者)兼Chief Technology Officer(最高技術責任者)であるJorge Gomes氏は「タイルセットは小規模チームが手で描くには最も手間のかかるアセットの一つだ。いまや個人開発者でも世界を記述し、数分後にはそれでマップを塗り始められる」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "使い方はこうだ。トップダウンかアイソメトリックのグリッドを選んで地面を記述すると、地形ごとに継ぎ目のないベースタイルができる。二つのタイルを選び、白い波の泡や低い石の縁石といった境界を記述すれば16枚のセット一式が得られ、道路や川、柵、壁のような線を引くこともできる。そのうえで、書き出す前にブラウザでテストマップを塗って確かめられる。"
+              },
+              {
+                "t": "p",
+                "x": "各セットは16枚のタイル画像と、各タイルを説明するJSONデータファイルとして書き出され、Godot 4とTiled向けにはすぐ使えるタイルセットファイルも用意される。「夕暮れに」「雪で覆って」といったセット全体の編集は、同じように組み合わさる新しいセットとして返ってくる。2Dライティング用の対応するノーマルマップをセットに含めることもできる。料金はタイル1枚で0.5クレジット、セット一式で1クレジットで、ProとStudioプランではウェブアプリでの生成が無制限だ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
-                "cap": "画像提供: Getty Images - 撮影 Laurence Griffiths/Getty Images"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
+                "cap": "一つのプロンプトで、同じビーチのタイルセットが穏やかなターコイズ色の海から嵐の海へと変わり、海岸線のつながりはそのまま保たれる。"
               },
               {
-                "t": "p",
-                "x": "2023年に77歳で亡くなったBBCの伝説的サッカー実況者John「Motty」Motsonが、「本人のオリジナル音声と、本人の録音で学習したAIによる再現音声（AI-recreation）を組み合わせて」EA Sports FC 27に追加される。発表によると、「ほぼ10年分のゲーム内録音」が「新しいAIツール」とともに使われた。EAのサッカーシリーズとの関わりはFIFA Soccer 96にさかのぼる。"
-              },
-              {
-                "t": "p",
-                "x": "「父はゲームの声であることを心から愛していました。この心のこもったトリビュートでゲームの中に父の記憶を残してくれたEA Sports FCのチームに深く感謝しています」とJohnの息子Fredは語った。BBCによると、EAは遺族に非公開の金額を支払った。"
-              },
-              {
-                "t": "p",
-                "x": "誰もが歓迎しているわけではない。EA Sports FCのsubredditでは「恥ずべき」「無礼だ」「気持ち悪い」「ひどく暗い」との声が上がり、あるRedditユーザーは「なんてクソみたいに暗い世界に生きているんだ」と書いた。Save Our Voices NowのPeter Caulfieldは「本人が明確に同意していない限り、いかなる形のAIクローンも認められるべきではない」と述べた。一方、Red Hook Studiosはナレーターを務めるWayne Juneの声をAIで再現することは決してないとしている。"
+                "t": "video",
+                "yt": "6GYU5as78CQ"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EA Sports FC\n用AI重现Motson声音",
-          "body": "EA Sports FC用AI重现已故BBC解说员Motson，家人认可，部分球迷反感。",
-          "mini_headline": "EA用AI让Motson回归",
+          "headline": "Ludo.ai 按地面描述\n生成2D图块集",
+          "body": "Ludo.ai的Tileset Generator生成16块地形图块集，可直接导入引擎。",
+          "mini_headline": "Ludo.ai Tileset Generator",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "传奇足球评论员John Motson将以AI形式回归该系列，出现在今天的EA FC 27版本更新中。"
+                "x": "帮助开发者制作可直接投入生产的游戏素材的工具Ludo.ai今天宣布推出新工具Tileset Generator，它能把对游戏地面的描述转化为一整套用于绘制2D地图的图块集。每套包含16块图块，覆盖地形相接的各种情况，开发者绘制时，地形之间的边缘和拐角会自动衔接。该工具适用于俯视角和等距视角游戏，现已在Ludo平台上线，也可通过Ludo CLI、MCP服务器和REST API使用。"
+              },
+              {
+                "t": "p",
+                "x": "Ludo.ai联合创始人（Co-Founder）兼首席技术官（Chief Technology Officer）Jorge Gomes表示：“对小团队来说，图块集是手绘起来最繁琐的素材之一。现在，独立开发者只需描述一个世界，几分钟后就能用它绘制地图。”"
+              },
+              {
+                "t": "p",
+                "x": "使用方法：选择俯视或等距网格并描述地面，即可为每种地形得到一块无缝基础图块；选取两块图块并描述它们的边界，例如白色海浪泡沫或低矮的石砌路缘，即可得到完整的16块图块集，也可以铺设道路、河流、围栏或墙壁等线条；导出前还能在浏览器中绘制测试地图。"
+              },
+              {
+                "t": "p",
+                "x": "每套图块集导出为一张包含16块图块的图像，并附带描述每块图块的JSON数据文件；Godot 4和Tiled还会获得现成的图块集文件。“改成日落时分”或“覆盖积雪”这类整套编辑会返回一套以同样方式拼合的新图块集，图块集还可附带匹配的法线贴图，用于2D光照。单块图块消耗0.5积分，整套消耗1积分；在Pro和Studio方案中，网页应用内的生成不限次数。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
-                "cap": "图片来源：Getty Images - 摄影 Laurence Griffiths/Getty Images"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
+                "cap": "只需一条提示词，同一套海滩图块集就从平静的青绿色海水变为暴风雨中的海面，海岸线过渡依然保持不变。"
               },
               {
-                "t": "p",
-                "x": "BBC传奇足球解说员John “Motty” Motson于2023年去世，享年77岁。他将通过“结合其原始音频与用本人录音训练的AI重建声音（AI-recreation）”的方式加入EA Sports FC 27。公告称，“近10年的游戏内录音”与“新的AI工具”一同被使用。他与EA足球系列的渊源可追溯到FIFA Soccer 96。"
-              },
-              {
-                "t": "p",
-                "x": "“父亲非常热爱担任这款游戏的声音，我们由衷感谢EA Sports FC团队献上这份动人的致敬，并在游戏中留住他的记忆。”John的儿子Fred说。据BBC报道，EA向其家人支付了一笔未公开的款项。"
-              },
-              {
-                "t": "p",
-                "x": "并非所有人都同样热情：在EA Sports FC的subreddit上，有人称之为“可耻”“不尊重”“恶心”和“太黑暗了”。一名Reddit用户写道：“我们活在一个多么该死的阴暗世界。”Save Our Voices Now的Peter Caulfield表示：“除非本人明确同意，否则任何形式的AI克隆都不应被允许。”相比之下，Red Hook Studios表示绝不会用AI重现旁白Wayne June的声音。"
+                "t": "video",
+                "yt": "6GYU5as78CQ"
               }
             ]
           }
         },
         "es": {
-          "headline": "EA Sports FC recupera la voz\nde John Motson con AI",
-          "body": "EA Sports FC revive con AI al difunto John Motson, de la BBC; su familia lo aprueba y hay fans que lo ven sombrío.",
-          "mini_headline": "EA revive a Motson con AI",
+          "headline": "Ludo.ai crea tilesets 2D\na partir de una descripción",
+          "body": "El Tileset Generator de Ludo.ai crea sets de 16 tiles de terreno en vista cenital o isométrica, listos para exportar.",
+          "mini_headline": "Tileset Generator de Ludo.ai",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "El legendario comentarista de fútbol John Motson volverá a la serie, en forma de AI, en la actualización de EA FC 27 que se publica hoy."
+                "x": "Ludo.ai, la herramienta de apoyo para desarrolladores que crean recursos de juego listos para producción, anunció hoy el lanzamiento de Tileset Generator, una nueva herramienta que convierte la descripción del suelo de un juego en un tileset completo para pintar mapas 2D. Cada conjunto contiene 16 tiles que cubren las distintas formas en que pueden encontrarse los terrenos, mientras los bordes y las esquinas entre ellos encajan solos a medida que el desarrollador pinta. La herramienta sirve para juegos con vista cenital e isométrica y ya está disponible en la plataforma Ludo y a través de Ludo CLI, el servidor MCP y la REST API."
+              },
+              {
+                "t": "p",
+                "x": "Jorge Gomes, Co-Founder (cofundador) y Chief Technology Officer (director de tecnología) de Ludo.ai, afirmó: “Los tilesets son uno de los recursos más tediosos de dibujar a mano para un equipo pequeño. Ahora un desarrollador en solitario puede describir un mundo y estar pintando un mapa con él pocos minutos después”."
+              },
+              {
+                "t": "p",
+                "x": "Cómo funciona: se elige una cuadrícula cenital o isométrica y se describe un suelo para obtener una tile base sin costuras por terreno; se eligen dos tiles y se describe el límite, como espuma de mar blanca o un bordillo bajo de piedra, para obtener el conjunto completo de 16 tiles, o se traza una línea como un camino, un río, una valla o un muro; después se pinta un mapa de prueba en el navegador antes de exportar."
+              },
+              {
+                "t": "p",
+                "x": "Cada conjunto se exporta como una imagen de las 16 tiles con un archivo de datos JSON que describe cada una; Godot 4 y Tiled reciben además un archivo de tileset listo para usar. Las ediciones de todo el conjunto, como “al atardecer” o “cúbrelo de nieve”, devuelven un nuevo conjunto que encaja de la misma manera, y un conjunto puede incluir un mapa de normales a juego para la iluminación 2D. Una tile cuesta 0.5 créditos y un conjunto completo, 1 crédito; en los planes Pro y Studio, la generación en la aplicación web es ilimitada."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L.jpg",
-                "cap": "Crédito de imagen: Getty Images - Foto de Laurence Griffiths/Getty Images"
+                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
+                "cap": "Un solo prompt transforma el mismo tileset de playa de aguas turquesa en calma a un mar tormentoso, sin alterar las transiciones de la costa."
               },
               {
-                "t": "p",
-                "x": "El legendario comentarista de fútbol de la BBC John \"Motty\" Motson, fallecido en 2023 a los 77 años, se incorpora a EA Sports FC 27 mediante \"una mezcla de su audio original y una AI-recreation (recreación por AI) entrenada con grabaciones de él mismo\". El anuncio indica que se usaron \"casi 10 años de grabaciones in-game\" con \"nuevas herramientas de AI\". Su historia con la serie de fútbol de EA se remonta a FIFA Soccer 96."
-              },
-              {
-                "t": "p",
-                "x": "\"Mi padre adoraba ser la voz del juego, y estamos muy agradecidos al equipo de EA Sports FC por este conmovedor homenaje y por preservar su memoria in-game\", dijo Fred, hijo de John. La BBC informa de que EA pagó a la familia una suma no revelada."
-              },
-              {
-                "t": "p",
-                "x": "No todos comparten ese entusiasmo: en el subreddit de EA Sports FC algunos lo califican de \"vergonzoso\", \"irrespetuoso\", \"asqueroso\" y \"jodidamente oscuro\". \"Qué mundo tan jodidamente sombrío en el que vivimos\", escribió un redditor. Peter Caulfield, de Save Our Voices Now, afirmó que \"a menos que lo hayas aceptado expresamente, no debería permitirse la clonación por AI de ningún tipo\". Red Hook Studios, en cambio, dijo que nunca usaría AI para recrear la voz del narrador Wayne June."
+                "t": "video",
+                "yt": "6GYU5as78CQ"
               }
             ]
           }
@@ -325,171 +365,165 @@
       }
     },
     {
-      "id": "ubisoft-genai-pitch-rule",
+      "id": "unity-spark-annotate",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ubisoft 기획안,\n생성형 AI 안 쓰면 해명",
-      "body": "Ubisoft가 신작 기획안마다 생성형 AI 활용 계획을 요구한다.",
-      "mini_headline": "Ubisoft 기획안, genAI 시험대",
+      "headline": "Unity Spark에선\n장면을 가리켜 AI 지시",
+      "body": "Annotate로 장면에 그리고 고르고 짚어 Spark의 AI에 시각 맥락을 준다.",
+      "mini_headline": "Unity Spark Annotate",
       "tool": "Games",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
+      "source": "Unity (YouTube)",
+      "url": "https://www.youtube.com/watch?v=QmX2VKa1_24",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "cap": "이미지 출처: Ubisoft"
+            "t": "video",
+            "yt": "QmX2VKa1_24"
           },
           {
             "t": "p",
-            "x": "Ubisoft에서 새 프로젝트를 제안하는 팀은 생성형 AI가 게임 개발 속도를 어떻게 높일지 설명해야 하고, 쓰지 않겠다면 그 이유를 자세히 밝혀야 한다. Vertical Slice에 익명으로 이야기한 여러 현직 직원에 따르면 이 내용이 빠진 기획안은 승인을 받지 못한다."
+            "x": "무엇을 어디에 둘지 말로만 설명하지 않아도 된다. 장면에 직접 그리고 고르고 가리키며 주석을 달면 된다."
           },
           {
             "t": "p",
-            "x": "한 소식통은 경영진이 생성형 AI를 대놓고 의무화하지는 않아도 전방위로 밀어붙인다고 말했다. 또 다른 직원은 \"AI를 쓰면 '작고 린하며 민첩한 팀'이 기획안을 만드는 속도가 빨라진다는 말을 들었다 ... 쓰지 않을 생각이라면 이유가 있어야 했다\"고 전하며 Ubisoft가 생성형 AI를 이제 \"피할 수 없는 것\"으로 본다고 덧붙였다."
+            "x": "Unity Spark의 Annotate 기능으로 게임 장면이나 작업 공간 어디에든 주석을 달면, Unity Spark가 필요로 하는 시각 맥락을 정확히 건넬 수 있다."
           },
           {
             "t": "p",
-            "x": "지난주 Teammates 개발팀을 품은 생성형 AI 전담 자회사 Motherbrain이 출범한 직후 나온 보도다. 직원 수는 2022년 9월 20,700명에서 2026년 9월 15,500명으로 줄었다. 한 직원은 \"Ubisoft는 위에서 내려오는 AI 정신병이라는 악몽에 빠져 있다\"고 말했다. Ubisoft는 논평 요청에 응답하지 않았다."
+            "x": "Unity Spark 비공개 베타 대기자 명단 신청: https://on.unity.com/4CmmUb7"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ubisoft pitches must justify\nskipping generative AI",
-          "body": "Ubisoft teams pitching new projects are reportedly asked to explain how generative AI would help them make games faster.",
-          "mini_headline": "Ubisoft pitches face genAI test",
+          "headline": "Unity Spark lets you point\nat the scene to guide AI",
+          "body": "Annotate lets users draw, select or point in the scene to give Spark's AI exact visual context instead of text.",
+          "mini_headline": "Unity Spark Annotate",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Image credit: Ubisoft"
+                "t": "video",
+                "yt": "QmX2VKa1_24"
               },
               {
                 "t": "p",
-                "x": "Ubisoft teams pitching new projects are reportedly being asked to explain how generative AI would help them make games faster, and if they don't plan to use it, they have to give a detailed reason why. According to multiple current employees who spoke anonymously to Vertical Slice, pitches that do not set this out will not be approved."
+                "x": "Instead of just describing where things go, you can annotate (draw, select, point) in the scene."
               },
               {
                 "t": "p",
-                "x": "One source said leadership isn't outright mandating generative AI but is all-in on it. \"We were told that using AI will increase the speed at which pitches can be made by 'small lean agile teams' ... If you planned on not using it, you would have to have a reason,\" another said, adding that Ubisoft believes generative AI is now \"unavoidable.\""
+                "x": "With the Annotate feature in Unity Spark, you can annotate directly onto your game scene or anywhere in your workspace to give Unity Spark the exact visual context it needs."
               },
               {
                 "t": "p",
-                "x": "The report follows last week's launch of Motherbrain, a dedicated generative AI subsidiary housing the team behind Teammates. Headcount fell from 20,700 in September 2022 to 15,500 in September 2026. \"Ubisoft is in a top-down nightmare of AI psychosis,\" one employee said. Ubisoft had not responded to requests for comment."
+                "x": "Join the Unity Spark closed beta waitlist: https://on.unity.com/4CmmUb7"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ubisoft 기획안,\n생성형 AI 안 쓰면 해명",
-          "body": "Ubisoft가 신작 기획안마다 생성형 AI 활용 계획을 요구한다.",
-          "mini_headline": "Ubisoft 기획안, genAI 시험대",
+          "headline": "Unity Spark에선\n장면을 가리켜 AI 지시",
+          "body": "Annotate로 장면에 그리고 고르고 짚어 Spark의 AI에 시각 맥락을 준다.",
+          "mini_headline": "Unity Spark Annotate",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Ubisoft"
+                "t": "video",
+                "yt": "QmX2VKa1_24"
               },
               {
                 "t": "p",
-                "x": "Ubisoft에서 새 프로젝트를 제안하는 팀은 생성형 AI가 게임 개발 속도를 어떻게 높일지 설명해야 하고, 쓰지 않겠다면 그 이유를 자세히 밝혀야 한다. Vertical Slice에 익명으로 이야기한 여러 현직 직원에 따르면 이 내용이 빠진 기획안은 승인을 받지 못한다."
+                "x": "무엇을 어디에 둘지 말로만 설명하지 않아도 된다. 장면에 직접 그리고 고르고 가리키며 주석을 달면 된다."
               },
               {
                 "t": "p",
-                "x": "한 소식통은 경영진이 생성형 AI를 대놓고 의무화하지는 않아도 전방위로 밀어붙인다고 말했다. 또 다른 직원은 \"AI를 쓰면 '작고 린하며 민첩한 팀'이 기획안을 만드는 속도가 빨라진다는 말을 들었다 ... 쓰지 않을 생각이라면 이유가 있어야 했다\"고 전하며 Ubisoft가 생성형 AI를 이제 \"피할 수 없는 것\"으로 본다고 덧붙였다."
+                "x": "Unity Spark의 Annotate 기능으로 게임 장면이나 작업 공간 어디에든 주석을 달면, Unity Spark가 필요로 하는 시각 맥락을 정확히 건넬 수 있다."
               },
               {
                 "t": "p",
-                "x": "지난주 Teammates 개발팀을 품은 생성형 AI 전담 자회사 Motherbrain이 출범한 직후 나온 보도다. 직원 수는 2022년 9월 20,700명에서 2026년 9월 15,500명으로 줄었다. 한 직원은 \"Ubisoft는 위에서 내려오는 AI 정신병이라는 악몽에 빠져 있다\"고 말했다. Ubisoft는 논평 요청에 응답하지 않았다."
+                "x": "Unity Spark 비공개 베타 대기자 명단 신청: https://on.unity.com/4CmmUb7"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ubisoftの企画、\n生成AI不使用なら説明",
-          "body": "Ubisoftは新企画の提案時、生成AIで開発をどう速めるかの説明を求めているという。",
-          "mini_headline": "Ubisoft企画にgenAIの関門",
+          "headline": "Unity Spark\nシーンを指してAIに指示",
+          "body": "Annotateでシーンに描く・選ぶ・指すだけで、SparkのAIに視覚的な文脈を渡せる。",
+          "mini_headline": "Unity Spark Annotate",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像提供: Ubisoft"
+                "t": "video",
+                "yt": "QmX2VKa1_24"
               },
               {
                 "t": "p",
-                "x": "Ubisoftで新規プロジェクトを提案するチームは、生成AIがゲーム開発をどう速めるかの説明を求められており、使わない場合はその理由を詳しく示さなければならないという。Vertical Sliceに匿名で語った複数の現役社員によれば、この点を記していない企画は承認されない。"
+                "x": "物をどこに置くかを言葉で説明するだけでなく、シーン上で直接注釈（描く、選ぶ、指す）を加えられる。"
               },
               {
                 "t": "p",
-                "x": "ある関係者は、経営陣は生成AIを明確に義務づけてはいないものの、全面的に注力していると話す。別の社員は「AIを使えば『小規模でリーンかつアジャイルなチーム』による企画づくりのスピードが上がると言われた……使わないつもりなら理由が必要だった」と語り、Ubisoftは生成AIをもはや「避けられないもの」と考えていると付け加えた。"
+                "x": "Unity SparkのAnnotate機能を使えば、ゲームシーンやワークスペースのどこにでも直接注釈を書き込み、Unity Sparkが必要とする正確な視覚的文脈を与えられる。"
               },
               {
                 "t": "p",
-                "x": "今回の報道は、Teammatesの開発チームを擁する生成AI専門子会社Motherbrainが先週発足したのに続くものだ。従業員数は2022年9月の20,700人から2026年9月には15,500人に減った。ある社員は「Ubisoftはトップダウンで進むAI精神病の悪夢の中にある」と述べた。Ubisoftはコメント要請に応じていない。"
+                "x": "Unity Sparkクローズドベータのウェイトリストへの登録: https://on.unity.com/4CmmUb7"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ubisoft立项提案\n不用生成式AI须说明",
-          "body": "据报道，Ubisoft要求新项目提案说明生成式AI如何帮团队更快做游戏。",
-          "mini_headline": "Ubisoft提案面临genAI考验",
+          "headline": "Unity Spark：\n指向场景引导AI",
+          "body": "Annotate让用户在场景中绘制、选取或指点，为Spark的AI提供精确的视觉上下文。",
+          "mini_headline": "Unity Spark Annotate",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：Ubisoft"
+                "t": "video",
+                "yt": "QmX2VKa1_24"
               },
               {
                 "t": "p",
-                "x": "据报道，Ubisoft提出新项目的团队被要求说明生成式AI将如何帮助他们更快地制作游戏；如果不打算使用，必须详细说明原因。据多名匿名接受Vertical Slice采访的现任员工称，未阐明这一点的提案将不会获批。"
+                "x": "不必只用文字描述物体该放在哪里，你可以直接在场景中进行标注（绘制、选取、指点）。"
               },
               {
                 "t": "p",
-                "x": "一名消息人士称，管理层并未直接强制使用生成式AI，但已全力押注。另一人说：“我们被告知，使用AI将提高‘小型精益敏捷团队’制作提案的速度……如果你打算不用，就必须给出理由。”并补充说，Ubisoft认为生成式AI如今已“不可避免”。"
+                "x": "借助Unity Spark的Annotate功能，你可以直接在游戏场景或工作区的任意位置进行标注，为Unity Spark提供所需的精确视觉上下文。"
               },
               {
                 "t": "p",
-                "x": "此次报道发布前，Ubisoft上周刚成立专门的生成式AI子公司Motherbrain，Teammates背后的团队也归入其中。员工人数从2022年9月的20,700人降至2026年9月的15,500人。一名员工说：“Ubisoft正陷入一场自上而下的AI精神病噩梦。”Ubisoft尚未回应置评请求。"
+                "x": "加入Unity Spark封闭测试候补名单： https://on.unity.com/4CmmUb7"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ubisoft pide justificar\nno usar IA generativa",
-          "body": "Ubisoft pediría a sus equipos que expliquen en cada propuesta cómo la IA generativa acelerará sus juegos.",
-          "mini_headline": "Las propuestas de Ubisoft, ante la prueba genAI",
+          "headline": "Unity Spark permite señalar\nla escena para guiar a la IA",
+          "body": "Annotate permite dibujar, seleccionar o señalar en escena para dar a la IA de Spark contexto visual en vez de texto.",
+          "mini_headline": "Unity Spark Annotate",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de imagen: Ubisoft"
+                "t": "video",
+                "yt": "QmX2VKa1_24"
               },
               {
                 "t": "p",
-                "x": "A los equipos de Ubisoft que proponen nuevos proyectos se les estaría pidiendo que expliquen cómo la IA generativa les ayudaría a crear juegos más rápido y, si no piensan usarla, deben dar una razón detallada. Según varios empleados actuales que hablaron de forma anónima con Vertical Slice, las propuestas que no lo expongan no serán aprobadas."
+                "x": "En lugar de solo describir dónde van las cosas, puedes hacer anotaciones (dibujar, seleccionar, señalar) en la escena."
               },
               {
                 "t": "p",
-                "x": "Una fuente afirmó que la dirección no impone de forma directa la IA generativa, pero apuesta todo por ella. \"Nos dijeron que usar IA aumentará la velocidad con la que 'equipos pequeños, eficientes y ágiles' pueden preparar propuestas ... Si pensabas no usarla, tenías que tener una razón\", dijo otra fuente, que añadió que Ubisoft cree que la IA generativa es ya \"inevitable\"."
+                "x": "Con la función Annotate de Unity Spark, puedes anotar directamente sobre la escena de tu juego o en cualquier parte de tu espacio de trabajo para darle a Unity Spark el contexto visual exacto que necesita."
               },
               {
                 "t": "p",
-                "x": "El informe llega tras el lanzamiento, la semana pasada, de Motherbrain, una filial dedicada a la IA generativa que acoge al equipo detrás de Teammates. La plantilla pasó de 20,700 personas en septiembre de 2022 a 15,500 en septiembre de 2026. \"Ubisoft vive una pesadilla de psicosis por la IA impuesta desde arriba\", dijo un empleado. Ubisoft no había respondido a las solicitudes de comentarios."
+                "x": "Únete a la lista de espera de la beta cerrada de Unity Spark: https://on.unity.com/4CmmUb7"
               }
             ]
           }
@@ -497,109 +531,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ubisoft 기획안,\n생성형 AI 안 쓰면 해명",
-          "body": "Ubisoft가 신작 기획안에 생성형 AI 활용 방안을 요구한다고 한다.",
-          "mini_headline": "Ubisoft 기획안의 genAI 시험대",
+          "headline": "Unity Spark에선\n장면을 가리켜 AI 지시",
+          "body": "Annotate로 장면에 그리고 골라 짚어 Spark의 AI에 시각 맥락을 준다.",
+          "mini_headline": "Unity Spark Annotate",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Ubisoft"
+                "t": "video",
+                "yt": "QmX2VKa1_24"
               },
               {
                 "t": "p",
-                "x": "Ubisoft에서 새 프로젝트를 제안하는 팀은 생성형 AI가 게임 개발 속도를 어떻게 높일지 설명하라는 요구를 받고 있으며, 쓰지 않을 계획이라면 그 이유를 자세히 밝혀야 한다고 한다. Vertical Slice에 익명으로 이야기한 여러 현직 직원에 따르면 이 내용을 담지 않은 기획안은 승인되지 않는다."
+                "x": "무엇을 어디에 둘지 말로 설명하는 데 그치지 않고, 장면에 직접 주석(그리기, 선택, 가리키기)을 달 수 있다."
               },
               {
                 "t": "p",
-                "x": "한 소식통은 경영진이 생성형 AI를 대놓고 의무화하지는 않지만 전면적으로 밀고 있다고 말했다. 또 다른 직원은 \"AI를 쓰면 '작고 린하며 민첩한 팀'이 기획안을 만드는 속도가 빨라진다는 말을 들었다 ... 쓰지 않을 생각이라면 이유가 있어야 했다\"고 전하며, Ubisoft가 생성형 AI를 이제 \"피할 수 없는 것\"으로 본다고 덧붙였다."
+                "x": "Unity Spark의 Annotate 기능을 쓰면 게임 장면이나 작업 공간 어디에든 직접 주석을 달아, Unity Spark에 필요한 정확한 시각 맥락을 전달할 수 있다."
               },
               {
                 "t": "p",
-                "x": "이번 보도는 지난주 Teammates 개발팀을 품은 생성형 AI 전담 자회사 Motherbrain이 출범한 직후에 나왔다. 직원 수는 2022년 9월 20,700명에서 2026년 9월 15,500명으로 줄었다. 한 직원은 \"Ubisoft는 위에서 내려오는 AI 정신병이라는 악몽에 빠져 있다\"고 말했다. Ubisoft는 논평 요청에 응답하지 않았다."
+                "x": "Unity Spark 비공개 베타 대기자 명단 신청: https://on.unity.com/4CmmUb7"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ubisoftの企画、\n生成AI不使用なら説明",
-          "body": "Ubisoftは新企画の提案時、生成AIで開発をどう速めるかの説明を求めているという。",
-          "mini_headline": "Ubisoft企画にgenAIの関門",
+          "headline": "Unity Spark\nシーンを指してAIに指示",
+          "body": "Annotateでシーンに描く・選ぶ・指すだけで、SparkのAIに視覚的な文脈を渡せる。",
+          "mini_headline": "Unity Spark Annotate",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像提供: Ubisoft"
+                "t": "video",
+                "yt": "QmX2VKa1_24"
               },
               {
                 "t": "p",
-                "x": "Ubisoftで新規プロジェクトを提案するチームは、生成AIがゲーム開発をどう速めるかの説明を求められており、使わない場合はその理由を詳しく示さなければならないという。Vertical Sliceに匿名で語った複数の現役社員によれば、この点を記していない企画は承認されない。"
+                "x": "物をどこに置くかを言葉で説明するだけでなく、シーン上で直接注釈（描く、選ぶ、指す）を加えられる。"
               },
               {
                 "t": "p",
-                "x": "ある関係者は、経営陣は生成AIを明確に義務づけてはいないものの、全面的に注力していると話す。別の社員は「AIを使えば『小規模でリーンかつアジャイルなチーム』による企画づくりのスピードが上がると言われた……使わないつもりなら理由が必要だった」と語り、Ubisoftは生成AIをもはや「避けられないもの」と考えていると付け加えた。"
+                "x": "Unity SparkのAnnotate機能を使えば、ゲームシーンやワークスペースのどこにでも直接注釈を書き込み、Unity Sparkが必要とする正確な視覚的文脈を与えられる。"
               },
               {
                 "t": "p",
-                "x": "今回の報道は、Teammatesの開発チームを擁する生成AI専門子会社Motherbrainが先週発足したのに続くものだ。従業員数は2022年9月の20,700人から2026年9月には15,500人に減った。ある社員は「Ubisoftはトップダウンで進むAI精神病の悪夢の中にある」と述べた。Ubisoftはコメント要請に応じていない。"
+                "x": "Unity Sparkクローズドベータのウェイトリストへの登録: https://on.unity.com/4CmmUb7"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ubisoft立项提案\n不用生成式AI须说明",
-          "body": "据报道，Ubisoft要求新项目提案说明生成式AI如何帮团队更快做游戏。",
-          "mini_headline": "Ubisoft提案面临genAI考验",
+          "headline": "Unity Spark：\n指向场景引导AI",
+          "body": "Annotate让用户在场景中绘制、选取或指点，为Spark的AI提供精确的视觉上下文。",
+          "mini_headline": "Unity Spark Annotate",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：Ubisoft"
+                "t": "video",
+                "yt": "QmX2VKa1_24"
               },
               {
                 "t": "p",
-                "x": "据报道，Ubisoft提出新项目的团队被要求说明生成式AI将如何帮助他们更快地制作游戏；如果不打算使用，必须详细说明原因。据多名匿名接受Vertical Slice采访的现任员工称，未阐明这一点的提案将不会获批。"
+                "x": "不必只用文字描述物体该放在哪里，你可以直接在场景中进行标注（绘制、选取、指点）。"
               },
               {
                 "t": "p",
-                "x": "一名消息人士称，管理层并未直接强制使用生成式AI，但已全力押注。另一人说：“我们被告知，使用AI将提高‘小型精益敏捷团队’制作提案的速度……如果你打算不用，就必须给出理由。”并补充说，Ubisoft认为生成式AI如今已“不可避免”。"
+                "x": "借助Unity Spark的Annotate功能，你可以直接在游戏场景或工作区的任意位置进行标注，为Unity Spark提供所需的精确视觉上下文。"
               },
               {
                 "t": "p",
-                "x": "此次报道发布前，Ubisoft上周刚成立专门的生成式AI子公司Motherbrain，Teammates背后的团队也归入其中。员工人数从2022年9月的20,700人降至2026年9月的15,500人。一名员工说：“Ubisoft正陷入一场自上而下的AI精神病噩梦。”Ubisoft尚未回应置评请求。"
+                "x": "加入Unity Spark封闭测试候补名单： https://on.unity.com/4CmmUb7"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ubisoft pide justificar\nno usar IA generativa",
-          "body": "Ubisoft pediría a sus equipos que expliquen en cada propuesta cómo la IA generativa acelerará sus juegos.",
-          "mini_headline": "Las propuestas de Ubisoft, ante la prueba genAI",
+          "headline": "Unity Spark permite señalar\nla escena para guiar a la IA",
+          "body": "Annotate permite dibujar, seleccionar o señalar en escena para dar a la IA de Spark contexto visual en vez de texto.",
+          "mini_headline": "Unity Spark Annotate",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/new_ubisoft_logo.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de imagen: Ubisoft"
+                "t": "video",
+                "yt": "QmX2VKa1_24"
               },
               {
                 "t": "p",
-                "x": "A los equipos de Ubisoft que proponen nuevos proyectos se les estaría pidiendo que expliquen cómo la IA generativa les ayudaría a crear juegos más rápido y, si no piensan usarla, deben dar una razón detallada. Según varios empleados actuales que hablaron de forma anónima con Vertical Slice, las propuestas que no lo expongan no serán aprobadas."
+                "x": "En lugar de solo describir dónde van las cosas, puedes hacer anotaciones (dibujar, seleccionar, señalar) en la escena."
               },
               {
                 "t": "p",
-                "x": "Una fuente afirmó que la dirección no impone de forma directa la IA generativa, pero apuesta todo por ella. \"Nos dijeron que usar IA aumentará la velocidad con la que 'equipos pequeños, eficientes y ágiles' pueden preparar propuestas ... Si pensabas no usarla, tenías que tener una razón\", dijo otra fuente, que añadió que Ubisoft cree que la IA generativa es ya \"inevitable\"."
+                "x": "Con la función Annotate de Unity Spark, puedes anotar directamente sobre la escena de tu juego o en cualquier parte de tu espacio de trabajo para darle a Unity Spark el contexto visual exacto que necesita."
               },
               {
                 "t": "p",
-                "x": "El informe llega tras el lanzamiento, la semana pasada, de Motherbrain, una filial dedicada a la IA generativa que acoge al equipo detrás de Teammates. La plantilla pasó de 20,700 personas en septiembre de 2022 a 15,500 en septiembre de 2026. \"Ubisoft vive una pesadilla de psicosis por la IA impuesta desde arriba\", dijo un empleado. Ubisoft no había respondido a las solicitudes de comentarios."
+                "x": "Únete a la lista de espera de la beta cerrada de Unity Spark: https://on.unity.com/4CmmUb7"
               }
             ]
           }
@@ -607,15 +637,15 @@
       }
     },
     {
-      "id": "muvluv-ai-translation-refusals",
+      "id": "tlou2-ai-multiplayer-mod",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 번역 거부 문구가\nMuv-Luv 영문판에",
-      "body": "Muv-Luv 외전 영문판에 성적 내용 번역을 거부한 AI 답변이 실렸다.",
-      "mini_headline": "Muv-Luv에 실린 AI 번역 거부문",
+      "headline": "라스트 오브 어스 2에\nAI-built 멀티 모드",
+      "body": "AI 도구로 모드를 만든 한 모더가 Sony도 막기 어려울 거라고 주장했다.",
+      "mini_headline": "AI-built TLOU2 멀티플레이 모드",
       "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/the-japanese-erotic-visual-novel-thats-filled-with-ais-prudish-refusals-to-translate-explicit-sexual-content-2001000228",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/new-multiplayer-mod-for-the-last-of-us-part-2",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -623,185 +653,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
-            "cap": "© aNCHOR inc"
+            "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "AI는 게임 번역을 대신 맡을 수준이 아니다. 사람이 검수하지 않으면 Muv-Luv Girls Gaiden 같은 일이 벌어진다. 이 게임이 막 내놓은 영어판에는 \"노골적인 성적 콘텐츠\" 번역을 거부한다는 문구가 곳곳에 박혀 있다."
+            "x": "또 다른 모더가 AI로 The Last of Us Part 2용 멀티플레이 모드를 만들었다. “설령 나를 막는다 해도” Sony가 할 수 있는 일은 별로 없다는 게 그의 주장이다."
           },
           {
             "t": "p",
-            "x": "Girls Gaiden은 오래 이어져 온 일본 에로게 프랜차이즈의 방치형 RPG 가챠 스핀오프로, 2025년 일본에서 전연령판과 성인판으로 출시됐다. Steam 페이지 일본어 공지에도 일부 번역을 AI 도구로 마쳤다고 적혀 있다. 팬들이 찾아낸 바로는 대사가 AI 도구를 거쳐 검수 없이 그대로 게임에 들어가면서 \"노골적인 성적 콘텐츠는 번역해 드릴 수 없습니다\" 같은 문장이 셀 수 없이 남았다."
-          },
-          {
-            "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
-            "cap": "© Antares1368 / X"
+            "x": "Naughty Dog는 The Last of Us Part 2를 토대로 준비하던 멀티플레이 게임 Factions를 취소했다. 9월에는 제작자 'Speclizer'의 기대작 멀티플레이 모드가 공개도 되기 전에 Sony의 중지 요구 서한을 받았다."
           },
           {
             "t": "p",
-            "x": "Steam에 나온 전연령판 평가는 '대체로 부정적(Mostly Negative)'이고 리뷰 대부분이 번역 품질을 문제 삼는다. 개발사 Moedoki는 지난해 \"원어민 번역가에 견줄 만한 수준의 번역 품질\"에 이르러야만 AI 번역을 검토하겠다고 밝혔다."
+            "x": "새 모드 Twelve Weeks는 PC판 The Last of Us Part 2 Remastered 전용이고, 제작자는 생성형 AI를 썼다고 인정했다. 모더 'Kellie'는 게임 개발 대부분을 Claude code로 했고 게임 안 설정 텍스트도 AI로 썼다고 밝혔다. 다만 아트는 Blender로 만들었다."
+          },
+          {
+            "t": "p",
+            "x": "현재 모드에는 Supply Raid와 Interrogation을 다시 꾸민 레벨이 들어 있고, 팀 기반 4v4 전투와 새 무기, 캐릭터 커스터마이징도 있다. 플레이어는 WLF와 Seraphites로 나뉘어 싸운다. Twelve Weeks는 Nexus Mods에서 받을 수 있다. 저장소 면책 문구는 이 모드가 비공식 팬 프로젝트이며 게임 파일도, 게임에서 가져온 에셋도 들어 있지 않다고 밝힌다."
+          },
+          {
+            "t": "p",
+            "x": "Kellie는 YouTube 댓글에서 앞선 Factions 모드가 Sony의 제재를 받은 건 유료로 공개됐기 때문이라고 했다. 그는 “내 모드는 이미 무료 오픈소스로 공개됐다”며 “사람들이 이미 전체 모드의 소스 코드를 갖고 있으니, 설령 나를 막는다 해도 그쪽이 할 수 있는 일은 많지 않다”고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI refusals end up inside\nMuv-Luv's English release",
-          "body": "Muv-Luv Girls Gaiden shipped an English version filled with AI refusals to translate its explicit sexual content.",
-          "mini_headline": "AI refusals ship in Muv-Luv",
+          "headline": "Last of Us Part 2 gets an\nAI-built multiplayer mod",
+          "body": "A modder says they used AI tools to build the mode and argues Sony can do little to stop it, even with takedowns.",
+          "mini_headline": "AI-built TLOU2 multiplayer mod",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
-                "cap": "© aNCHOR inc"
+                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "AI is not capable of taking over translation duties for a game, and without human oversight you may get something like Muv-Luv Girls Gaiden, which has just put out an English-language version consisting of in-game text declaring its refusal to translate \"explicit sexual content.\""
+                "x": "Another modder has used AI to make a multiplayer mode for The Last of Us Part 2, insisting there isn't much Sony can do about it \"even if they do shut me down.\""
               },
               {
                 "t": "p",
-                "x": "Girls Gaiden is an idle RPG gacha spin-off of the long-running Japanese eroge franchise, released in Japan in 2025 in all-ages and explicit versions. A Japanese-language notice on its Steam page confirms certain translations were completed using AI tools. Fans found dialogue was dropped into AI tools and back into the game unchecked, leaving countless lines like \"I can't provide a translation for explicit sexual content.\""
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
-                "cap": "© Antares1368 / X"
+                "x": "Naughty Dog cancelled its planned Factions multiplayer game based on The Last of Us Part 2. In September, a promising multiplayer mod by creator 'Speclizer' was sent a cease and desist letter from Sony before release."
               },
               {
                 "t": "p",
-                "x": "The all-ages Steam release has a Mostly Negative rating, with most reviews citing translation quality. Developer Moedoki said last year it would consider AI translation only at \"translation quality to a level comparable to that of native translators.\""
+                "x": "The new mod is called Twelve Weeks and was built specifically for The Last of Us Part 2 Remastered on PC, using, its creator has admitted, generative AI. Modder 'Kellie' admitted to using Claude code for most of the game's development, and AI was even used to write the lore dumps you can find in the game. The art was, however, made using Blender."
+              },
+              {
+                "t": "p",
+                "x": "It features reworked levels — Supply Raid and Interrogation for now — with team-based 4v4 combat, new weapons, and character customization, with players fighting as the WLF and Seraphites. You can grab Twelve Weeks on Nexus Mods. A repository disclaimer says it is an unofficial fan project and contains no game files and no assets taken from the game."
+              },
+              {
+                "t": "p",
+                "x": "In a reply on YouTube, Kellie said the previous Factions mod got hit by Sony because it was paywalled. \"Mine is released already for free and in open source,\" they said. \"Since people have the source code to the full mod already, there ain't much they can do even if they do shut me down.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 번역 거부 문구가\nMuv-Luv 영문판에",
-          "body": "Muv-Luv 외전 영문판에 성적 내용 번역을 거부한 AI 답변이 실렸다.",
-          "mini_headline": "Muv-Luv에 실린 AI 번역 거부문",
+          "headline": "라스트 오브 어스 2에\nAI-built 멀티 모드",
+          "body": "AI 도구로 모드를 만든 한 모더가 Sony도 막기 어려울 거라고 주장했다.",
+          "mini_headline": "AI-built TLOU2 멀티플레이 모드",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
-                "cap": "© aNCHOR inc"
+                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "AI는 게임 번역을 대신 맡을 수준이 아니다. 사람이 검수하지 않으면 Muv-Luv Girls Gaiden 같은 일이 벌어진다. 이 게임이 막 내놓은 영어판에는 \"노골적인 성적 콘텐츠\" 번역을 거부한다는 문구가 곳곳에 박혀 있다."
+                "x": "또 다른 모더가 AI로 The Last of Us Part 2용 멀티플레이 모드를 만들었다. “설령 나를 막는다 해도” Sony가 할 수 있는 일은 별로 없다는 게 그의 주장이다."
               },
               {
                 "t": "p",
-                "x": "Girls Gaiden은 오래 이어져 온 일본 에로게 프랜차이즈의 방치형 RPG 가챠 스핀오프로, 2025년 일본에서 전연령판과 성인판으로 출시됐다. Steam 페이지 일본어 공지에도 일부 번역을 AI 도구로 마쳤다고 적혀 있다. 팬들이 찾아낸 바로는 대사가 AI 도구를 거쳐 검수 없이 그대로 게임에 들어가면서 \"노골적인 성적 콘텐츠는 번역해 드릴 수 없습니다\" 같은 문장이 셀 수 없이 남았다."
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
-                "cap": "© Antares1368 / X"
+                "x": "Naughty Dog는 The Last of Us Part 2를 토대로 준비하던 멀티플레이 게임 Factions를 취소했다. 9월에는 제작자 'Speclizer'의 기대작 멀티플레이 모드가 공개도 되기 전에 Sony의 중지 요구 서한을 받았다."
               },
               {
                 "t": "p",
-                "x": "Steam에 나온 전연령판 평가는 '대체로 부정적(Mostly Negative)'이고 리뷰 대부분이 번역 품질을 문제 삼는다. 개발사 Moedoki는 지난해 \"원어민 번역가에 견줄 만한 수준의 번역 품질\"에 이르러야만 AI 번역을 검토하겠다고 밝혔다."
+                "x": "새 모드 Twelve Weeks는 PC판 The Last of Us Part 2 Remastered 전용이고, 제작자는 생성형 AI를 썼다고 인정했다. 모더 'Kellie'는 게임 개발 대부분을 Claude code로 했고 게임 안 설정 텍스트도 AI로 썼다고 밝혔다. 다만 아트는 Blender로 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "현재 모드에는 Supply Raid와 Interrogation을 다시 꾸민 레벨이 들어 있고, 팀 기반 4v4 전투와 새 무기, 캐릭터 커스터마이징도 있다. 플레이어는 WLF와 Seraphites로 나뉘어 싸운다. Twelve Weeks는 Nexus Mods에서 받을 수 있다. 저장소 면책 문구는 이 모드가 비공식 팬 프로젝트이며 게임 파일도, 게임에서 가져온 에셋도 들어 있지 않다고 밝힌다."
+              },
+              {
+                "t": "p",
+                "x": "Kellie는 YouTube 댓글에서 앞선 Factions 모드가 Sony의 제재를 받은 건 유료로 공개됐기 때문이라고 했다. 그는 “내 모드는 이미 무료 오픈소스로 공개됐다”며 “사람들이 이미 전체 모드의 소스 코드를 갖고 있으니, 설령 나를 막는다 해도 그쪽이 할 수 있는 일은 많지 않다”고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの翻訳拒否文が\nMuv-Luv英語版に",
-          "body": "Muv-Luv Girls Gaidenの英語版に性描写の翻訳を拒むAIの応答が並んだ。",
-          "mini_headline": "Muv-Luvに残ったAIの翻訳拒否",
+          "headline": "『ラスアス2』に\nAI-builtマルチMOD",
+          "body": "あるモッダーがAIツールでモードを作り、削除されてもSonyはほぼ止められないと主張する。",
+          "mini_headline": "AI-built TLOU2 マルチプレイMOD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
-                "cap": "© aNCHOR inc"
+                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "AIはゲームの翻訳業務を肩代わりできる段階になく、人の確認がなければMuv-Luv Girls Gaidenのような事態になりかねない。同作は、「露骨な性的コンテンツ」の翻訳を拒否すると宣言するゲーム内テキストで構成された英語版を出したばかりだ。"
+                "x": "また別のモッダーがAIを使って『The Last of Us Part 2』のマルチプレイモードを作り、「たとえ自分が止められたとしても」Sonyにできることはあまりないと主張している。"
               },
               {
                 "t": "p",
-                "x": "Girls Gaidenは長寿の日本のエロゲフランチャイズから生まれた放置系RPGのガチャ派生作品で、2025年に日本で全年齢版と成人向け版が発売された。Steamページの日本語の告知は、一部の翻訳をAIツールで行ったことを認めている。ファンは、台詞がAIツールに流し込まれ、確認されないままゲームに戻されたことで、「露骨な性的コンテンツの翻訳は提供できません」といった文が無数に残っていることを見つけた。"
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
-                "cap": "© Antares1368 / X"
+                "x": "Naughty Dogは、『The Last of Us Part 2』をベースにしたマルチプレイゲーム『Factions』の計画を中止した。9月には、制作者「Speclizer」による期待のマルチプレイMODが、公開前にSonyから停止通告書を受け取っている。"
               },
               {
                 "t": "p",
-                "x": "全年齢版のSteamリリースは「やや不評（Mostly Negative）」の評価で、レビューの多くが翻訳品質を挙げている。開発元のMoedokiは昨年、「ネイティブ翻訳者に匹敵する水準の翻訳品質」に達した場合に限りAI翻訳を検討すると述べていた。"
+                "x": "新しいMODの名前は「Twelve Weeks」で、PC版『The Last of Us Part 2 Remastered』専用に作られた。制作者は生成AIを使ったことを認めている。モッダーの「Kellie」は、ゲーム開発の大部分にClaude codeを使ったと認め、ゲーム内で読める設定テキストの執筆にもAIが使われた。ただしアートはBlenderで制作されている。"
+              },
+              {
+                "t": "p",
+                "x": "現時点ではSupply RaidとInterrogationを作り直したレベルを収録し、チーム制の4v4戦闘、新しい武器、キャラクターカスタマイズを備える。プレイヤーはWLFとSeraphitesに分かれて戦う。Twelve WeeksはNexus Modsで入手できる。リポジトリの免責事項には、非公式のファンプロジェクトであり、ゲームファイルもゲームから取り出したアセットも含まないと記されている。"
+              },
+              {
+                "t": "p",
+                "x": "KellieはYouTubeでの返信で、以前のFactions MODは有料だったためにSonyに潰されたと述べた。「自分のMODはすでに無料かつオープンソースで公開している」とし、「みんなすでにMOD全体のソースコードを持っているから、たとえ自分が止められたとしても、向こうにできることはあまりない」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI拒译回复\n混进Muv-Luv英文版",
-          "body": "Muv-Luv Girls Gaiden英文版充斥AI拒绝翻译露骨性内容的回复。",
-          "mini_headline": "AI拒译回复混入Muv-Luv",
+          "headline": "《最后生还者2》迎来\nAI-built多人模组",
+          "body": "一名模组作者称用AI工具打造了该模式，并认为即便遭下架，Sony也难以阻止。",
+          "mini_headline": "AI-built TLOU2 多人模组",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
-                "cap": "© aNCHOR inc"
+                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "AI还无法接手游戏的翻译工作，缺少人工把关，就可能出现Muv-Luv Girls Gaiden这样的情况：该作刚推出的英文版里，满是宣称拒绝翻译“露骨性内容”的游戏内文本。"
+                "x": "又一名模组作者用AI为《The Last of Us Part 2》制作了多人模式，并坚称“即便他们真的叫停我”，Sony也做不了什么。"
               },
               {
                 "t": "p",
-                "x": "Girls Gaiden是长寿日本黄油系列的放置类RPG抽卡衍生作，2025年在日本推出全年龄版和成人版。其Steam页面上的日文公告确认部分翻译借助AI工具完成。玩家发现，对白被丢进AI工具后未经检查就放回游戏，留下无数类似“我无法提供露骨性内容的翻译”的句子。"
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
-                "cap": "© Antares1368 / X"
+                "x": "Naughty Dog已取消了基于《The Last of Us Part 2》的多人游戏Factions计划。9月，创作者“Speclizer”制作的一款备受期待的多人模组在发布前收到了Sony的停止侵权函。"
               },
               {
                 "t": "p",
-                "x": "全年龄版在Steam上的评价为“多半差评（Mostly Negative）”，多数评测都提到翻译质量。开发商Moedoki去年曾表示，只有在“翻译质量达到可与母语译者相媲美的水平”时才会考虑AI翻译。"
+                "x": "这款新模组名为Twelve Weeks，专为PC版《The Last of Us Part 2 Remastered》打造，其作者承认使用了生成式AI。模组作者“Kellie”承认游戏的大部分开发工作都借助了Claude code，就连游戏中可读到的背景设定文本也由AI撰写。不过，美术资源是用Blender制作的。"
+              },
+              {
+                "t": "p",
+                "x": "模组目前包含重制的Supply Raid和Interrogation关卡，提供团队制4v4对战、新武器和角色自定义，玩家分别以WLF和Seraphites的身份作战。Twelve Weeks可在Nexus Mods下载。代码仓库的免责声明称，这是一个非官方粉丝项目，不包含任何游戏文件，也没有取自游戏的素材。"
+              },
+              {
+                "t": "p",
+                "x": "Kellie在YouTube上回复称，此前的Factions模组之所以遭到Sony打击，是因为它设置了付费门槛。“我的模组已经免费开源发布，”他们说，“既然大家已经拿到了完整模组的源代码，就算他们叫停我，也做不了什么。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las negativas de la IA acaban\nen el Muv-Luv en inglés",
-          "body": "Muv-Luv Girls Gaiden salió en inglés lleno de negativas de la IA a traducir su contenido sexual explícito.",
-          "mini_headline": "Negativas de IA en Muv-Luv",
+          "headline": "Last of Us Part 2 recibe un\nmod multijugador AI-built",
+          "body": "Un modder dice que creó el modo con herramientas de IA y que Sony poco puede hacer, aun con retiradas.",
+          "mini_headline": "Mod multijugador AI-built de TLOU2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
-                "cap": "© aNCHOR inc"
+                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "La IA no es capaz de asumir la traducción de un juego, y sin supervisión humana se puede acabar con algo como Muv-Luv Girls Gaiden, que acaba de publicar una versión en inglés compuesta por texto del juego que declara su negativa a traducir \"contenido sexual explícito\"."
+                "x": "Otro modder ha usado IA para crear un modo multijugador para The Last of Us Part 2, y sostiene que Sony no puede hacer mucho al respecto \"aunque me cierren\"."
               },
               {
                 "t": "p",
-                "x": "Girls Gaiden es un spin-off gacha de RPG idle de la veterana franquicia japonesa de eroge, lanzado en Japón en 2025 en versiones para todas las edades y explícita. Un aviso en japonés en su página de Steam confirma que algunas traducciones se completaron con herramientas de IA. Los fans descubrieron que los diálogos pasaron por herramientas de IA y volvieron al juego sin revisión, lo que dejó incontables líneas como \"No puedo ofrecer una traducción de contenido sexual explícito\"."
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
-                "cap": "© Antares1368 / X"
+                "x": "Naughty Dog canceló Factions, el juego multijugador que tenía previsto basado en The Last of Us Part 2. En septiembre, un prometedor mod multijugador del creador 'Speclizer' recibió de Sony una carta de cese y desistimiento antes de su lanzamiento."
               },
               {
                 "t": "p",
-                "x": "La versión para todas las edades en Steam tiene una valoración Mostly Negative, y la mayoría de las reseñas citan la calidad de la traducción. La desarrolladora Moedoki dijo el año pasado que solo consideraría la traducción con IA con \"una calidad de traducción comparable a la de traductores nativos\"."
+                "x": "El nuevo mod se llama Twelve Weeks y se creó específicamente para The Last of Us Part 2 Remastered en PC usando, según ha admitido su creador, IA generativa. Quien lo creó, 'Kellie', admitió haber usado Claude code para la mayor parte del desarrollo, y la IA se usó incluso para escribir los textos de trasfondo que se encuentran en el juego. El arte, sin embargo, se hizo con Blender."
+              },
+              {
+                "t": "p",
+                "x": "Incluye niveles rediseñados —por ahora, Supply Raid e Interrogation— con combates por equipos 4v4, armas nuevas y personalización de personajes, en los que los jugadores luchan como WLF y Seraphites. Twelve Weeks se puede descargar en Nexus Mods. Un aviso en el repositorio indica que es un proyecto no oficial de fans y que no contiene archivos del juego ni recursos extraídos de él."
+              },
+              {
+                "t": "p",
+                "x": "En una respuesta en YouTube, Kellie dijo que el anterior mod de Factions fue blanco de Sony porque era de pago. \"El mío ya está publicado gratis y en código abierto\", dijo. \"Como la gente ya tiene el código fuente del mod completo, no pueden hacer mucho aunque me cierren\"."
               }
             ]
           }
@@ -809,129 +857,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 번역 거부 문구가\nMuv-Luv 영문판에",
-          "body": "Muv-Luv 외전 영문판에 성적 내용 번역을 거부한 AI 답변이 실렸다.",
-          "mini_headline": "Muv-Luv에 실린 AI 번역 거부문",
+          "headline": "라스트 오브 어스 2에\nAI-built 멀티 모드",
+          "body": "한 모더가 AI 도구로 모드를 만들었다며 Sony가 막기 어렵다고 주장했다.",
+          "mini_headline": "AI-built TLOU2 멀티플레이 모드",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
-                "cap": "© aNCHOR inc"
+                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "AI는 게임 번역을 대신 맡을 수준이 아니며, 사람의 검수가 없으면 Muv-Luv Girls Gaiden 같은 결과가 나올 수 있다. 이 게임은 \"노골적인 성적 콘텐츠\" 번역을 거부한다고 선언하는 게임 내 텍스트로 채워진 영어판을 막 내놓았다."
+                "x": "또 다른 모더가 AI로 The Last of Us Part 2용 멀티플레이 모드를 만들었다. 그는 “설령 나를 막는다 해도” Sony가 할 수 있는 일은 많지 않다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "Girls Gaiden은 오래 이어져 온 일본 에로게 프랜차이즈의 방치형 RPG 가챠 스핀오프로, 2025년 일본에서 전연령판과 성인판으로 출시됐다. Steam 페이지의 일본어 공지는 일부 번역을 AI 도구로 완성했다고 확인한다. 팬들은 대사가 AI 도구에 들어갔다가 검수 없이 그대로 게임에 돌아온 탓에 \"노골적인 성적 콘텐츠는 번역해 드릴 수 없습니다\" 같은 문장이 셀 수 없이 남았다는 사실을 발견했다."
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
-                "cap": "© Antares1368 / X"
+                "x": "Naughty Dog는 The Last of Us Part 2를 바탕으로 계획했던 멀티플레이 게임 Factions를 취소했다. 9월에는 제작자 'Speclizer'가 만든 기대작 멀티플레이 모드가 공개 전에 Sony로부터 중지 요구 서한을 받았다."
               },
               {
                 "t": "p",
-                "x": "전연령판 Steam 출시작은 '대체로 부정적(Mostly Negative)' 평가를 받고 있으며, 리뷰 대부분이 번역 품질을 지적한다. 개발사 Moedoki는 지난해 \"원어민 번역가에 견줄 만한 수준의 번역 품질\"에 이르러야만 AI 번역을 검토하겠다고 밝힌 바 있다."
+                "x": "새 모드의 이름은 Twelve Weeks로, PC판 The Last of Us Part 2 Remastered 전용으로 만들어졌으며 제작자는 생성형 AI를 썼다고 인정했다. 모더 'Kellie'는 게임 개발 대부분에 Claude code를 썼다고 밝혔고, 게임 안에서 볼 수 있는 설정 텍스트를 쓰는 데도 AI를 활용했다. 다만 아트는 Blender로 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "모드에는 지금으로선 Supply Raid와 Interrogation을 재구성한 레벨이 담겼고, 팀 기반 4v4 전투와 새 무기, 캐릭터 커스터마이징을 갖췄다. 플레이어는 WLF와 Seraphites로 나뉘어 싸운다. Twelve Weeks는 Nexus Mods에서 받을 수 있다. 저장소의 면책 문구에는 비공식 팬 프로젝트이며 게임 파일도, 게임에서 가져온 에셋도 들어 있지 않다고 적혀 있다."
+              },
+              {
+                "t": "p",
+                "x": "Kellie는 YouTube 댓글에서 이전 Factions 모드가 유료로 공개됐기 때문에 Sony의 제재를 받았다고 말했다. 그는 “내 모드는 이미 무료 오픈소스로 공개됐다”며 “사람들이 이미 전체 모드의 소스 코드를 갖고 있으니, 설령 나를 막는다 해도 그쪽이 할 수 있는 일은 많지 않다”고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの翻訳拒否文が\nMuv-Luv英語版に",
-          "body": "Muv-Luv Girls Gaidenの英語版に性描写の翻訳を拒むAIの応答が並んだ。",
-          "mini_headline": "Muv-Luvに残ったAIの翻訳拒否",
+          "headline": "『ラスアス2』に\nAI-builtマルチMOD",
+          "body": "あるモッダーがAIツールでモードを作り、削除されてもSonyはほぼ止められないと主張する。",
+          "mini_headline": "AI-built TLOU2 マルチプレイMOD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
-                "cap": "© aNCHOR inc"
+                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "AIはゲームの翻訳業務を肩代わりできる段階になく、人の確認がなければMuv-Luv Girls Gaidenのような事態になりかねない。同作は、「露骨な性的コンテンツ」の翻訳を拒否すると宣言するゲーム内テキストで構成された英語版を出したばかりだ。"
+                "x": "また別のモッダーがAIを使って『The Last of Us Part 2』のマルチプレイモードを作り、「たとえ自分が止められたとしても」Sonyにできることはあまりないと主張している。"
               },
               {
                 "t": "p",
-                "x": "Girls Gaidenは長寿の日本のエロゲフランチャイズから生まれた放置系RPGのガチャ派生作品で、2025年に日本で全年齢版と成人向け版が発売された。Steamページの日本語の告知は、一部の翻訳をAIツールで行ったことを認めている。ファンは、台詞がAIツールに流し込まれ、確認されないままゲームに戻されたことで、「露骨な性的コンテンツの翻訳は提供できません」といった文が無数に残っていることを見つけた。"
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
-                "cap": "© Antares1368 / X"
+                "x": "Naughty Dogは、『The Last of Us Part 2』をベースにしたマルチプレイゲーム『Factions』の計画を中止した。9月には、制作者「Speclizer」による期待のマルチプレイMODが、公開前にSonyから停止通告書を受け取っている。"
               },
               {
                 "t": "p",
-                "x": "全年齢版のSteamリリースは「やや不評（Mostly Negative）」の評価で、レビューの多くが翻訳品質を挙げている。開発元のMoedokiは昨年、「ネイティブ翻訳者に匹敵する水準の翻訳品質」に達した場合に限りAI翻訳を検討すると述べていた。"
+                "x": "新しいMODの名前は「Twelve Weeks」で、PC版『The Last of Us Part 2 Remastered』専用に作られた。制作者は生成AIを使ったことを認めている。モッダーの「Kellie」は、ゲーム開発の大部分にClaude codeを使ったと認め、ゲーム内で読める設定テキストの執筆にもAIが使われた。ただしアートはBlenderで制作されている。"
+              },
+              {
+                "t": "p",
+                "x": "現時点ではSupply RaidとInterrogationを作り直したレベルを収録し、チーム制の4v4戦闘、新しい武器、キャラクターカスタマイズを備える。プレイヤーはWLFとSeraphitesに分かれて戦う。Twelve WeeksはNexus Modsで入手できる。リポジトリの免責事項には、非公式のファンプロジェクトであり、ゲームファイルもゲームから取り出したアセットも含まないと記されている。"
+              },
+              {
+                "t": "p",
+                "x": "KellieはYouTubeでの返信で、以前のFactions MODは有料だったためにSonyに潰されたと述べた。「自分のMODはすでに無料かつオープンソースで公開している」とし、「みんなすでにMOD全体のソースコードを持っているから、たとえ自分が止められたとしても、向こうにできることはあまりない」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI拒译回复\n混进Muv-Luv英文版",
-          "body": "Muv-Luv Girls Gaiden英文版充斥AI拒绝翻译露骨性内容的回复。",
-          "mini_headline": "AI拒译回复混入Muv-Luv",
+          "headline": "《最后生还者2》迎来\nAI-built多人模组",
+          "body": "一名模组作者称用AI工具打造了该模式，并认为即便遭下架，Sony也难以阻止。",
+          "mini_headline": "AI-built TLOU2 多人模组",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
-                "cap": "© aNCHOR inc"
+                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "AI还无法接手游戏的翻译工作，缺少人工把关，就可能出现Muv-Luv Girls Gaiden这样的情况：该作刚推出的英文版里，满是宣称拒绝翻译“露骨性内容”的游戏内文本。"
+                "x": "又一名模组作者用AI为《The Last of Us Part 2》制作了多人模式，并坚称“即便他们真的叫停我”，Sony也做不了什么。"
               },
               {
                 "t": "p",
-                "x": "Girls Gaiden是长寿日本黄油系列的放置类RPG抽卡衍生作，2025年在日本推出全年龄版和成人版。其Steam页面上的日文公告确认部分翻译借助AI工具完成。玩家发现，对白被丢进AI工具后未经检查就放回游戏，留下无数类似“我无法提供露骨性内容的翻译”的句子。"
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
-                "cap": "© Antares1368 / X"
+                "x": "Naughty Dog已取消了基于《The Last of Us Part 2》的多人游戏Factions计划。9月，创作者“Speclizer”制作的一款备受期待的多人模组在发布前收到了Sony的停止侵权函。"
               },
               {
                 "t": "p",
-                "x": "全年龄版在Steam上的评价为“多半差评（Mostly Negative）”，多数评测都提到翻译质量。开发商Moedoki去年曾表示，只有在“翻译质量达到可与母语译者相媲美的水平”时才会考虑AI翻译。"
+                "x": "这款新模组名为Twelve Weeks，专为PC版《The Last of Us Part 2 Remastered》打造，其作者承认使用了生成式AI。模组作者“Kellie”承认游戏的大部分开发工作都借助了Claude code，就连游戏中可读到的背景设定文本也由AI撰写。不过，美术资源是用Blender制作的。"
+              },
+              {
+                "t": "p",
+                "x": "模组目前包含重制的Supply Raid和Interrogation关卡，提供团队制4v4对战、新武器和角色自定义，玩家分别以WLF和Seraphites的身份作战。Twelve Weeks可在Nexus Mods下载。代码仓库的免责声明称，这是一个非官方粉丝项目，不包含任何游戏文件，也没有取自游戏的素材。"
+              },
+              {
+                "t": "p",
+                "x": "Kellie在YouTube上回复称，此前的Factions模组之所以遭到Sony打击，是因为它设置了付费门槛。“我的模组已经免费开源发布，”他们说，“既然大家已经拿到了完整模组的源代码，就算他们叫停我，也做不了什么。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las negativas de la IA acaban\nen el Muv-Luv en inglés",
-          "body": "Muv-Luv Girls Gaiden salió en inglés lleno de negativas de la IA a traducir su contenido sexual explícito.",
-          "mini_headline": "Negativas de IA en Muv-Luv",
+          "headline": "Last of Us Part 2 recibe un\nmod multijugador AI-built",
+          "body": "Un modder dice que creó el modo con herramientas de IA y que Sony poco puede hacer, aun con retiradas.",
+          "mini_headline": "Mod multijugador AI-built de TLOU2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/Muv-Luv-Girls-Gaiden.jpg",
-                "cap": "© aNCHOR inc"
+                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "La IA no es capaz de asumir la traducción de un juego, y sin supervisión humana se puede acabar con algo como Muv-Luv Girls Gaiden, que acaba de publicar una versión en inglés compuesta por texto del juego que declara su negativa a traducir \"contenido sexual explícito\"."
+                "x": "Otro modder ha usado IA para crear un modo multijugador para The Last of Us Part 2, y sostiene que Sony no puede hacer mucho al respecto \"aunque me cierren\"."
               },
               {
                 "t": "p",
-                "x": "Girls Gaiden es un spin-off gacha de RPG idle de la veterana franquicia japonesa de eroge, lanzado en Japón en 2025 en versiones para todas las edades y explícita. Un aviso en japonés en su página de Steam confirma que algunas traducciones se completaron con herramientas de IA. Los fans descubrieron que los diálogos pasaron por herramientas de IA y volvieron al juego sin revisión, lo que dejó incontables líneas como \"No puedo ofrecer una traducción de contenido sexual explícito\"."
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/11/muvluv.jpg",
-                "cap": "© Antares1368 / X"
+                "x": "Naughty Dog canceló Factions, el juego multijugador que tenía previsto basado en The Last of Us Part 2. En septiembre, un prometedor mod multijugador del creador 'Speclizer' recibió de Sony una carta de cese y desistimiento antes de su lanzamiento."
               },
               {
                 "t": "p",
-                "x": "La versión para todas las edades en Steam tiene una valoración Mostly Negative, y la mayoría de las reseñas citan la calidad de la traducción. La desarrolladora Moedoki dijo el año pasado que solo consideraría la traducción con IA con \"una calidad de traducción comparable a la de traductores nativos\"."
+                "x": "El nuevo mod se llama Twelve Weeks y se creó específicamente para The Last of Us Part 2 Remastered en PC usando, según ha admitido su creador, IA generativa. Quien lo creó, 'Kellie', admitió haber usado Claude code para la mayor parte del desarrollo, y la IA se usó incluso para escribir los textos de trasfondo que se encuentran en el juego. El arte, sin embargo, se hizo con Blender."
+              },
+              {
+                "t": "p",
+                "x": "Incluye niveles rediseñados —por ahora, Supply Raid e Interrogation— con combates por equipos 4v4, armas nuevas y personalización de personajes, en los que los jugadores luchan como WLF y Seraphites. Twelve Weeks se puede descargar en Nexus Mods. Un aviso en el repositorio indica que es un proyecto no oficial de fans y que no contiene archivos del juego ni recursos extraídos de él."
+              },
+              {
+                "t": "p",
+                "x": "En una respuesta en YouTube, Kellie dijo que el anterior mod de Factions fue blanco de Sony porque era de pago. \"El mío ya está publicado gratis y en código abierto\", dijo. \"Como la gente ya tiene el código fuente del mod completo, no pueden hacer mucho aunque me cierren\"."
               }
             ]
           }
@@ -939,15 +999,15 @@
       }
     },
     {
-      "id": "corcos-claude-civ-clone",
+      "id": "umamusume-ai-clone-pulled",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "재무부 CIO의 바이브코딩\nClaude로 Civ 복제",
-      "body": "보안 사고 와중에 재무부 CIO가 Claude로 4X 게임 Legatum을 만든다.",
-      "mini_headline": "재무부 관료의 Civ 바이브 코딩",
+      "headline": "AI Umamusume\n아류작, 팬 신고에 퇴출",
+      "body": "팬들이 신고하자 AI Umamusume 아류작이 Google Play에서 사라졌다.",
+      "mini_headline": "AI Umamusume 아류작 퇴출",
       "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/strategy/us-treasury-official-using-claude-to-create-a-civilization-clone-tries-to-shut-down-worries-hes-too-busy-vibecoding-during-cybersecurity-breach-the-computers-are-doing-it-on-their-own/",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/umamusame-pretty-derby-ai-clone-taken-off-mobile-after-reports",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -955,155 +1015,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
-            "cap": "이미지 출처: 2K/Firaxis"
+            "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "DOGE 경로로 임명된 Sam Corcos는 2025년 재무부 특별 고문으로 합류해 최고정보책임자(CIO)가 됐다. 부처를 덮친 사이버 보안 침해 사고로 강도 높은 조사가 이어지는데도 그는 자리를 지키며 \"Civilization을 사랑하는 사람들을 위해 만든 헥스 맵 기반 역사 4X\" 게임 Legatum을 바이브 코딩한다."
+            "x": "AI로 만든 Umamusume: Pretty Derby(우마무스메 프리티 더비) 아류작이 팬들의 분노를 사고 결국 Google Play Store에서 삭제됐다. 커뮤니티가 힘을 모아 이 게임을 Cygames에 신고했다."
+          },
+          {
+            "t": "video",
+            "yt": "bZ6NL-oPEkI"
           },
           {
             "t": "p",
-            "x": "\"Legatum은 대부분 AI 코딩 에이전트로 만들었고, 아트는 전부 AI로 생성했다(AI-generated)\"고 GitHub readme에 적혀 있다. 아트 대부분은 ChatGPT를 거쳐 OpenAI의 이미지 모델로 만들었다."
+            "x": "HIFI Publishers가 만든 Anime Racing Academy는 공식 스토어 설명에 “액션 가득한 애니메이션 레이싱 게임”이라고 소개돼 있었다. Umamusume처럼 인간형 말 소녀를 키우고 경주에 내보내는 게임으로, 디자인 일부는 Umamusume 캐릭터를 바짝 본떴고 일부는 아예 그대로 베낀 듯하다. 호기심에 게임을 열어 본 팬들은 Umamusume와 달리 광고가 잔뜩 붙어 있다고 지적했다."
           },
           {
             "t": "p",
-            "x": "재무부 산하 기관 FinCEN이 \"시스템 일부에 대한 무단 접근으로 이어진\" \"사이버 보안 사고\"에 대응하는 사이 최근 며칠 동안 업데이트가 수십 건 올라왔다. Corcos는 \"컴퓨터가 알아서 하고 있다. 주로 Opus 5.5가 여러 반복 루프를 지휘한다\"고 트윗했다. 하지만 404 Media가 짚었듯 그는 기능마다 Claude에 꾸준히 피드백을 준다. \"재무부 CIO는 일은 안 하고 바이브코딩하느라 바쁘다\"는 GitHub 이슈는 \"주제 무관(off-topic)\"으로 닫혔고 그 답변마저 Claude가 썼다."
+            "x": "게임을 발견한 Umamusume 팬들은 너도나도 신고해 Google Play Store에서 내리자고 나섰다. 이 글을 쓰는 지금은 실제로 그렇게 된 듯하다. 게임은 더 이상 모바일 플랫폼에서 찾을 수 없다. HIFI Publishers의 다른 게임은 스토어에 그대로 있어, 신고를 받은 이 게임만 내려간 것으로 보인다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A Treasury official vibe-codes\na Civ clone with Claude",
-          "body": "Treasury official Sam Corcos is vibe-coding Legatum, a Civilization-style 4X, with Claude amid breach worries.",
-          "mini_headline": "Treasury official vibe-codes Civ",
+          "headline": "AI Umamusume clone pulled\nafter mass fan reports",
+          "body": "Anime Racing Academy, an ad-stuffed AI Umamusume knockoff, left Google Play after fans reported it to Cygames.",
+          "mini_headline": "AI Umamusume clone pulled",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
-                "cap": "Image credit: 2K/Firaxis"
+                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Sam Corcos, appointed via DOGE, joined the Treasury Department as special advisor in 2025 and became its chief information officer. He remains in that position amid a heavily scrutinized cybersecurity breach at the department, while vibe-coding Legatum, a \"historical 4X on a hex map, built for people who love Civilization.\""
+                "x": "An AI clone of Umamusume: Pretty Derby has been struck off the Google Play Store after it drew the ire of fans, and the community organised to report the offending title to Cygames."
+              },
+              {
+                "t": "video",
+                "yt": "bZ6NL-oPEkI"
               },
               {
                 "t": "p",
-                "x": "\"Legatum is built largely with AI coding agents, and all of its art is AI-generated,\" its GitHub readme says, with most art from OpenAI's image models through ChatGPT."
+                "x": "Anime Racing Academy, developed by HIFI Publishers, was described as an \"action-packed anime racing game\" on its official store description. Like Umamusume, it allows players to manage and race humanoid horse girls, with some of its designs either very close replications of Umamusume characters while others appear to be outright copies. Unlike Umamusume, it was packed full of ads, as highlighted by curious fans."
               },
               {
                 "t": "p",
-                "x": "Dozens of updates landed in the past few days while FinCEN, a Treasury bureau, deals with a \"cybersecurity incident\" that \"resulted in unauthorized access to a limited subset of its systems.\" Corcos tweeted that \"the computers are doing it on their own. Mostly Opus 5.5 orchestrating a bunch of iterative loops,\" though, as 404 Media notes, he regularly gives Claude feedback on features. A GitHub issue reading \"Treasury CIO is too busy vibecoding instead of doing his job\" was closed as \"off-topic\" — a response also generated by Claude."
+                "x": "Once Umamusume fans discovered the game, many pushed to have the game reported and taken off the Google Play Store. As of writing this appears to have happened, as the game is no longer discoverable on the mobile platform. Other games from HIFI Publishers remain up on stores, which indicates this specific game has been reported and subsequently taken down."
               }
             ]
           }
         },
         "ko": {
-          "headline": "재무부 CIO의 바이브코딩\nClaude로 Civ 복제",
-          "body": "보안 사고 와중에 재무부 CIO가 Claude로 4X 게임 Legatum을 만든다.",
-          "mini_headline": "재무부 관료의 Civ 바이브 코딩",
+          "headline": "AI Umamusume\n아류작, 팬 신고에 퇴출",
+          "body": "팬들이 신고하자 AI Umamusume 아류작이 Google Play에서 사라졌다.",
+          "mini_headline": "AI Umamusume 아류작 퇴출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
-                "cap": "이미지 출처: 2K/Firaxis"
+                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "DOGE 경로로 임명된 Sam Corcos는 2025년 재무부 특별 고문으로 합류해 최고정보책임자(CIO)가 됐다. 부처를 덮친 사이버 보안 침해 사고로 강도 높은 조사가 이어지는데도 그는 자리를 지키며 \"Civilization을 사랑하는 사람들을 위해 만든 헥스 맵 기반 역사 4X\" 게임 Legatum을 바이브 코딩한다."
+                "x": "AI로 만든 Umamusume: Pretty Derby(우마무스메 프리티 더비) 아류작이 팬들의 분노를 사고 결국 Google Play Store에서 삭제됐다. 커뮤니티가 힘을 모아 이 게임을 Cygames에 신고했다."
+              },
+              {
+                "t": "video",
+                "yt": "bZ6NL-oPEkI"
               },
               {
                 "t": "p",
-                "x": "\"Legatum은 대부분 AI 코딩 에이전트로 만들었고, 아트는 전부 AI로 생성했다(AI-generated)\"고 GitHub readme에 적혀 있다. 아트 대부분은 ChatGPT를 거쳐 OpenAI의 이미지 모델로 만들었다."
+                "x": "HIFI Publishers가 만든 Anime Racing Academy는 공식 스토어 설명에 “액션 가득한 애니메이션 레이싱 게임”이라고 소개돼 있었다. Umamusume처럼 인간형 말 소녀를 키우고 경주에 내보내는 게임으로, 디자인 일부는 Umamusume 캐릭터를 바짝 본떴고 일부는 아예 그대로 베낀 듯하다. 호기심에 게임을 열어 본 팬들은 Umamusume와 달리 광고가 잔뜩 붙어 있다고 지적했다."
               },
               {
                 "t": "p",
-                "x": "재무부 산하 기관 FinCEN이 \"시스템 일부에 대한 무단 접근으로 이어진\" \"사이버 보안 사고\"에 대응하는 사이 최근 며칠 동안 업데이트가 수십 건 올라왔다. Corcos는 \"컴퓨터가 알아서 하고 있다. 주로 Opus 5.5가 여러 반복 루프를 지휘한다\"고 트윗했다. 하지만 404 Media가 짚었듯 그는 기능마다 Claude에 꾸준히 피드백을 준다. \"재무부 CIO는 일은 안 하고 바이브코딩하느라 바쁘다\"는 GitHub 이슈는 \"주제 무관(off-topic)\"으로 닫혔고 그 답변마저 Claude가 썼다."
+                "x": "게임을 발견한 Umamusume 팬들은 너도나도 신고해 Google Play Store에서 내리자고 나섰다. 이 글을 쓰는 지금은 실제로 그렇게 된 듯하다. 게임은 더 이상 모바일 플랫폼에서 찾을 수 없다. HIFI Publishers의 다른 게임은 스토어에 그대로 있어, 신고를 받은 이 게임만 내려간 것으로 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "財務省高官が\nClaudeでCiv風ゲーム",
-          "body": "財務省のSam Corcosが侵害騒動の中Claudeで4XのLegatumを開発中だ。",
-          "mini_headline": "財務省高官がCivをバイブコーディング",
+          "headline": "AI製Umamusume風\nゲーム、ファン通報で削除",
+          "body": "AI製Umamusume模倣作が、ファンの通報後Google Playから消えた。",
+          "mini_headline": "AI製Umamusume模倣作が削除",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
-                "cap": "画像提供: 2K/Firaxis"
+                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "DOGEを通じて任命されたSam Corcosは、2025年に特別顧問として財務省に加わり、最高情報責任者（CIO）に就いた。同省で厳しく追及されているサイバーセキュリティ侵害のさなかにもその職にとどまりつつ、「Civilizationを愛する人のために作られた、ヘックスマップ上の歴史4X」であるLegatumをバイブコーディングしている。"
+                "x": "Umamusume: Pretty Derby（ウマ娘 プリティーダービー）のAI製クローンが、ファンの怒りを買ってGoogle Playストアから削除された。コミュニティが組織的に、問題のタイトルをCygamesへ通報していた。"
+              },
+              {
+                "t": "video",
+                "yt": "bZ6NL-oPEkI"
               },
               {
                 "t": "p",
-                "x": "GitHubのreadmeには「Legatumは大部分をAIコーディングエージェントで構築し、アートはすべてAI生成（AI-generated）だ」とあり、アートの大半はChatGPTを通じてOpenAIの画像モデルで作られた。"
+                "x": "HIFI Publishersが開発したAnime Racing Academyは、公式ストアの説明文で「アクション満載のアニメレーシングゲーム」と紹介されていた。Umamusumeと同じく人型の馬娘を育成してレースさせられるゲームで、一部のデザインはUmamusumeのキャラクターに酷似し、ほかはまるごとコピーしたように見える。Umamusumeと違って広告だらけだったことも、興味を持ったファンが指摘している。"
               },
               {
                 "t": "p",
-                "x": "財務省の一部局であるFinCENが「システムの限られた一部への不正アクセスにつながった」「サイバーセキュリティインシデント」に対応する間にも、ここ数日で数十件のアップデートが投入された。Corcosは「コンピューターが勝手にやっている。主にOpus 5.5が多数の反復ループを統括している」とツイートしたが、404 Mediaが指摘するように、彼は機能についてClaudeに定期的にフィードバックを与えている。「財務省CIOは仕事をせずにバイブコーディングで忙しい」というGitHubのissueは「off-topic（話題外）」として閉じられたが、この返答もClaudeが生成したものだった。"
+                "x": "Umamusumeのファンがこのゲームを見つけると、多くの人が通報してGoogle Playストアから削除させようと動いた。執筆時点ではそれが実現したようで、ゲームはモバイルプラットフォーム上で見つからなくなっている。HIFI Publishersのほかのゲームはストアに残っていることから、このゲームが個別に通報され、削除されたとみられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "财政部官员用Claude\n氛围编程仿Civ游戏",
-          "body": "财政部官员Sam Corcos在入侵风波中用Claude氛围编程4X游戏Legatum。",
-          "mini_headline": "财政部官员氛围编程Civ",
+          "headline": "AI版Umamusume仿作\n遭粉丝大量举报下架",
+          "body": "AI版Umamusume仿作经粉丝向Cygames举报后，从Google Play下架。",
+          "mini_headline": "AI版Umamusume仿作下架",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
-                "cap": "图片来源：2K/Firaxis"
+                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "经DOGE任命的Sam Corcos于2025年以特别顾问身份加入财政部，并成为其首席信息官（CIO）。在该部门遭遇备受审视的网络安全入侵事件之际，他仍在任，同时用氛围编程开发Legatum——一款“基于六边形地图的历史4X游戏，为热爱Civilization的人打造”。"
+                "x": "一款AI制作的Umamusume: Pretty Derby（赛马娘）仿作激起粉丝愤怒，社区组织起来向Cygames举报后，该游戏已从Google Play商店下架。"
+              },
+              {
+                "t": "video",
+                "yt": "bZ6NL-oPEkI"
               },
               {
                 "t": "p",
-                "x": "其GitHub readme写道：“Legatum主要由AI编程代理构建，所有美术均为AI生成（AI-generated）。”大部分美术来自通过ChatGPT调用的OpenAI图像模型。"
+                "x": "Anime Racing Academy由HIFI Publishers开发，官方商店介绍称其为一款“动作满满的动漫赛跑游戏”。与Umamusume一样，玩家可以管理人形马娘并让她们赛跑，其中一些角色设计与Umamusume角色极为相似，另一些则看起来是直接照搬。与Umamusume不同的是，正如好奇的粉丝所指出的，这款游戏塞满了广告。"
               },
               {
                 "t": "p",
-                "x": "过去几天里，该项目更新了数十次，而财政部下属机构FinCEN正在处理一起“导致其部分有限系统遭未授权访问”的“网络安全事件”。Corcos发推称“电脑在自己干活，主要是Opus 5.5在统筹一堆迭代循环”，但正如404 Media指出的，他经常就功能向Claude提供反馈。一条写着“财政部CIO忙着氛围编程，不干正事”的GitHub issue被以“off-topic（离题）”为由关闭——这条回复同样由Claude生成。"
+                "x": "Umamusume粉丝发现这款游戏后，许多人推动举报，要求将其从Google Play商店下架。截至发稿，这一目标似乎已经实现，该游戏在移动平台上已无法搜索到。HIFI Publishers的其他游戏仍在商店上架，这表明正是这款游戏遭到举报并随后被下架。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un alto cargo del Tesoro crea\ncon Claude un clon de Civ",
-          "body": "Sam Corcos, del Tesoro, hace vibe-coding con Claude de Legatum, un 4X al estilo Civilization, en plena brecha.",
-          "mini_headline": "Un cargo del Tesoro hace vibe-coding de un Civ",
+          "headline": "Retiran un clon IA de Umamusume\ntras denuncias masivas de fans",
+          "body": "Anime Racing Academy, clon IA de Umamusume lleno de anuncios, salió de Google Play tras denuncias de fans a Cygames.",
+          "mini_headline": "Retiran clon IA de Umamusume",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
-                "cap": "Crédito de imagen: 2K/Firaxis"
+                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Sam Corcos, nombrado a través de DOGE, se incorporó al Departamento del Tesoro como asesor especial en 2025 y pasó a ser su director de sistemas de información. Sigue en ese puesto en medio de una brecha de ciberseguridad en el departamento sometida a un intenso escrutinio, mientras hace vibe-coding de Legatum, un \"4X histórico sobre un mapa hexagonal, creado para quienes adoran Civilization\"."
+                "x": "Un clon de Umamusume: Pretty Derby hecho con IA ha sido retirado de Google Play Store después de provocar el enfado de los fans, y de que la comunidad se organizara para denunciar el título ante Cygames."
+              },
+              {
+                "t": "video",
+                "yt": "bZ6NL-oPEkI"
               },
               {
                 "t": "p",
-                "x": "\"Legatum está construido en gran parte con agentes de programación de AI, y todo su arte es AI-generated (generado por AI)\", indica su readme de GitHub; la mayor parte del arte procede de los modelos de imagen de OpenAI a través de ChatGPT."
+                "x": "Anime Racing Academy, desarrollado por HIFI Publishers, se presentaba en su descripción oficial de la tienda como un \"juego de carreras anime lleno de acción\". Como Umamusume, permite gestionar y hacer competir a chicas caballo humanoides, y algunos de sus diseños son réplicas muy cercanas de personajes de Umamusume, mientras que otros parecen copias directas. A diferencia de Umamusume, estaba repleto de anuncios, como señalaron fans curiosos."
               },
               {
                 "t": "p",
-                "x": "Decenas de actualizaciones llegaron en los últimos días mientras FinCEN, una oficina del Tesoro, gestiona un \"incidente de ciberseguridad\" que \"derivó en un acceso no autorizado a un subconjunto limitado de sus sistemas\". Corcos tuiteó que \"los ordenadores lo hacen solos. Sobre todo Opus 5.5 orquestando un montón de bucles iterativos\", aunque, como señala 404 Media, suele dar a Claude comentarios sobre funciones. Un issue de GitHub que decía \"El CIO del Tesoro está demasiado ocupado haciendo vibecoding en vez de hacer su trabajo\" se cerró como \"off-topic\", una respuesta también generada por Claude."
+                "x": "Cuando los fans de Umamusume descubrieron el juego, muchos impulsaron que se denunciara y se retirara de Google Play Store. En el momento de escribir esto, parece que así ha sido, ya que el juego ya no aparece en la plataforma móvil. Otros juegos de HIFI Publishers siguen en las tiendas, lo que indica que este juego en concreto fue denunciado y retirado."
               }
             ]
           }
@@ -1111,109 +1195,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "재무부 CIO의 바이브코딩\nClaude로 Civ 복제",
-          "body": "재무부 CIO가 보안 사고 속 Claude로 4X 게임 Legatum을 만든다.",
-          "mini_headline": "재무부 관료의 Civ 바이브 코딩",
+          "headline": "AI Umamusume\n아류작, 팬 신고에 퇴출",
+          "body": "AI Umamusume 아류작이 팬 신고로 Google Play에서 내려갔다.",
+          "mini_headline": "AI Umamusume 아류작 퇴출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
-                "cap": "이미지 출처: 2K/Firaxis"
+                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "DOGE를 통해 임명된 Sam Corcos는 2025년 재무부 특별 고문으로 합류해 최고정보책임자(CIO)가 됐다. 그는 부처를 둘러싼 사이버 보안 침해 사고로 강도 높은 조사가 이어지는 가운데에도 자리를 지키며, \"Civilization을 사랑하는 사람들을 위해 만든 헥스 맵 기반 역사 4X\" 게임 Legatum을 바이브 코딩하고 있다."
+                "x": "AI로 만든 Umamusume: Pretty Derby(우마무스메 프리티 더비) 아류작이 팬들의 분노를 산 끝에 Google Play Store에서 삭제됐다. 커뮤니티가 힘을 모아 문제의 게임을 Cygames에 신고했다."
+              },
+              {
+                "t": "video",
+                "yt": "bZ6NL-oPEkI"
               },
               {
                 "t": "p",
-                "x": "\"Legatum은 대부분 AI 코딩 에이전트로 만들었고, 아트는 전부 AI로 생성했다(AI-generated)\"고 GitHub readme는 밝힌다. 아트 대부분은 ChatGPT를 거쳐 OpenAI의 이미지 모델로 만들었다."
+                "x": "HIFI Publishers가 개발한 Anime Racing Academy는 공식 스토어 설명에서 “액션 가득한 애니메이션 레이싱 게임”으로 소개됐다. Umamusume처럼 인간형 말 소녀를 관리하고 경주시킬 수 있으며, 일부 디자인은 Umamusume 캐릭터를 아주 가깝게 본떴고 일부는 아예 그대로 베낀 것으로 보인다. Umamusume와 달리 광고가 잔뜩 들어 있었다는 점은 호기심에 게임을 살펴본 팬들이 짚었다."
               },
               {
                 "t": "p",
-                "x": "재무부 산하 기관 FinCEN이 \"시스템 일부에 대한 무단 접근으로 이어진\" \"사이버 보안 사고\"에 대응하는 동안, 최근 며칠 사이 수십 건의 업데이트가 올라왔다. Corcos는 \"컴퓨터가 알아서 하고 있다. 주로 Opus 5.5가 여러 반복 루프를 지휘한다\"고 트윗했지만, 404 Media가 짚었듯 그는 기능에 관해 Claude에 꾸준히 피드백을 준다. \"재무부 CIO는 일은 안 하고 바이브코딩하느라 바쁘다\"는 GitHub 이슈는 \"주제 무관(off-topic)\"으로 닫혔는데, 이 답변 역시 Claude가 생성했다."
+                "x": "Umamusume 팬들이 이 게임을 발견하자 많은 이가 신고해 Google Play Store에서 내리자고 나섰다. 이 글을 쓰는 시점에는 실제로 그렇게 된 것으로 보이며, 게임은 더 이상 모바일 플랫폼에서 찾을 수 없다. HIFI Publishers의 다른 게임은 스토어에 그대로 남아 있어, 이 게임만 신고를 받고 내려간 것으로 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "財務省高官が\nClaudeでCiv風ゲーム",
-          "body": "財務省のSam Corcosが侵害騒動の中Claudeで4XのLegatumを開発中だ。",
-          "mini_headline": "財務省高官がCivをバイブコーディング",
+          "headline": "AI製Umamusume風\nゲーム、ファン通報で削除",
+          "body": "AI製Umamusume模倣作が、ファンの通報後Google Playから消えた。",
+          "mini_headline": "AI製Umamusume模倣作が削除",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
-                "cap": "画像提供: 2K/Firaxis"
+                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "DOGEを通じて任命されたSam Corcosは、2025年に特別顧問として財務省に加わり、最高情報責任者（CIO）に就いた。同省で厳しく追及されているサイバーセキュリティ侵害のさなかにもその職にとどまりつつ、「Civilizationを愛する人のために作られた、ヘックスマップ上の歴史4X」であるLegatumをバイブコーディングしている。"
+                "x": "Umamusume: Pretty Derby（ウマ娘 プリティーダービー）のAI製クローンが、ファンの怒りを買ってGoogle Playストアから削除された。コミュニティが組織的に、問題のタイトルをCygamesへ通報していた。"
+              },
+              {
+                "t": "video",
+                "yt": "bZ6NL-oPEkI"
               },
               {
                 "t": "p",
-                "x": "GitHubのreadmeには「Legatumは大部分をAIコーディングエージェントで構築し、アートはすべてAI生成（AI-generated）だ」とあり、アートの大半はChatGPTを通じてOpenAIの画像モデルで作られた。"
+                "x": "HIFI Publishersが開発したAnime Racing Academyは、公式ストアの説明文で「アクション満載のアニメレーシングゲーム」と紹介されていた。Umamusumeと同じく人型の馬娘を育成してレースさせられるゲームで、一部のデザインはUmamusumeのキャラクターに酷似し、ほかはまるごとコピーしたように見える。Umamusumeと違って広告だらけだったことも、興味を持ったファンが指摘している。"
               },
               {
                 "t": "p",
-                "x": "財務省の一部局であるFinCENが「システムの限られた一部への不正アクセスにつながった」「サイバーセキュリティインシデント」に対応する間にも、ここ数日で数十件のアップデートが投入された。Corcosは「コンピューターが勝手にやっている。主にOpus 5.5が多数の反復ループを統括している」とツイートしたが、404 Mediaが指摘するように、彼は機能についてClaudeに定期的にフィードバックを与えている。「財務省CIOは仕事をせずにバイブコーディングで忙しい」というGitHubのissueは「off-topic（話題外）」として閉じられたが、この返答もClaudeが生成したものだった。"
+                "x": "Umamusumeのファンがこのゲームを見つけると、多くの人が通報してGoogle Playストアから削除させようと動いた。執筆時点ではそれが実現したようで、ゲームはモバイルプラットフォーム上で見つからなくなっている。HIFI Publishersのほかのゲームはストアに残っていることから、このゲームが個別に通報され、削除されたとみられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "财政部官员用Claude\n氛围编程仿Civ游戏",
-          "body": "财政部官员Sam Corcos在入侵风波中用Claude氛围编程4X游戏Legatum。",
-          "mini_headline": "财政部官员氛围编程Civ",
+          "headline": "AI版Umamusume仿作\n遭粉丝大量举报下架",
+          "body": "AI版Umamusume仿作经粉丝向Cygames举报后，从Google Play下架。",
+          "mini_headline": "AI版Umamusume仿作下架",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
-                "cap": "图片来源：2K/Firaxis"
+                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "经DOGE任命的Sam Corcos于2025年以特别顾问身份加入财政部，并成为其首席信息官（CIO）。在该部门遭遇备受审视的网络安全入侵事件之际，他仍在任，同时用氛围编程开发Legatum——一款“基于六边形地图的历史4X游戏，为热爱Civilization的人打造”。"
+                "x": "一款AI制作的Umamusume: Pretty Derby（赛马娘）仿作激起粉丝愤怒，社区组织起来向Cygames举报后，该游戏已从Google Play商店下架。"
+              },
+              {
+                "t": "video",
+                "yt": "bZ6NL-oPEkI"
               },
               {
                 "t": "p",
-                "x": "其GitHub readme写道：“Legatum主要由AI编程代理构建，所有美术均为AI生成（AI-generated）。”大部分美术来自通过ChatGPT调用的OpenAI图像模型。"
+                "x": "Anime Racing Academy由HIFI Publishers开发，官方商店介绍称其为一款“动作满满的动漫赛跑游戏”。与Umamusume一样，玩家可以管理人形马娘并让她们赛跑，其中一些角色设计与Umamusume角色极为相似，另一些则看起来是直接照搬。与Umamusume不同的是，正如好奇的粉丝所指出的，这款游戏塞满了广告。"
               },
               {
                 "t": "p",
-                "x": "过去几天里，该项目更新了数十次，而财政部下属机构FinCEN正在处理一起“导致其部分有限系统遭未授权访问”的“网络安全事件”。Corcos发推称“电脑在自己干活，主要是Opus 5.5在统筹一堆迭代循环”，但正如404 Media指出的，他经常就功能向Claude提供反馈。一条写着“财政部CIO忙着氛围编程，不干正事”的GitHub issue被以“off-topic（离题）”为由关闭——这条回复同样由Claude生成。"
+                "x": "Umamusume粉丝发现这款游戏后，许多人推动举报，要求将其从Google Play商店下架。截至发稿，这一目标似乎已经实现，该游戏在移动平台上已无法搜索到。HIFI Publishers的其他游戏仍在商店上架，这表明正是这款游戏遭到举报并随后被下架。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un alto cargo del Tesoro crea\ncon Claude un clon de Civ",
-          "body": "Sam Corcos, del Tesoro, hace vibe-coding con Claude de Legatum, un 4X al estilo Civilization, en plena brecha.",
-          "mini_headline": "Un cargo del Tesoro hace vibe-coding de un Civ",
+          "headline": "Retiran un clon IA de Umamusume\ntras denuncias masivas de fans",
+          "body": "Anime Racing Academy, clon IA de Umamusume lleno de anuncios, salió de Google Play tras denuncias de fans a Cygames.",
+          "mini_headline": "Retiran clon IA de Umamusume",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/awyXJdEdKwPZUHQHHsnz77.jpg",
-                "cap": "Crédito de imagen: 2K/Firaxis"
+                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Sam Corcos, nombrado a través de DOGE, se incorporó al Departamento del Tesoro como asesor especial en 2025 y pasó a ser su director de sistemas de información. Sigue en ese puesto en medio de una brecha de ciberseguridad en el departamento sometida a un intenso escrutinio, mientras hace vibe-coding de Legatum, un \"4X histórico sobre un mapa hexagonal, creado para quienes adoran Civilization\"."
+                "x": "Un clon de Umamusume: Pretty Derby hecho con IA ha sido retirado de Google Play Store después de provocar el enfado de los fans, y de que la comunidad se organizara para denunciar el título ante Cygames."
+              },
+              {
+                "t": "video",
+                "yt": "bZ6NL-oPEkI"
               },
               {
                 "t": "p",
-                "x": "\"Legatum está construido en gran parte con agentes de programación de AI, y todo su arte es AI-generated (generado por AI)\", indica su readme de GitHub; la mayor parte del arte procede de los modelos de imagen de OpenAI a través de ChatGPT."
+                "x": "Anime Racing Academy, desarrollado por HIFI Publishers, se presentaba en su descripción oficial de la tienda como un \"juego de carreras anime lleno de acción\". Como Umamusume, permite gestionar y hacer competir a chicas caballo humanoides, y algunos de sus diseños son réplicas muy cercanas de personajes de Umamusume, mientras que otros parecen copias directas. A diferencia de Umamusume, estaba repleto de anuncios, como señalaron fans curiosos."
               },
               {
                 "t": "p",
-                "x": "Decenas de actualizaciones llegaron en los últimos días mientras FinCEN, una oficina del Tesoro, gestiona un \"incidente de ciberseguridad\" que \"derivó en un acceso no autorizado a un subconjunto limitado de sus sistemas\". Corcos tuiteó que \"los ordenadores lo hacen solos. Sobre todo Opus 5.5 orquestando un montón de bucles iterativos\", aunque, como señala 404 Media, suele dar a Claude comentarios sobre funciones. Un issue de GitHub que decía \"El CIO del Tesoro está demasiado ocupado haciendo vibecoding en vez de hacer su trabajo\" se cerró como \"off-topic\", una respuesta también generada por Claude."
+                "x": "Cuando los fans de Umamusume descubrieron el juego, muchos impulsaron que se denunciara y se retirara de Google Play Store. En el momento de escribir esto, parece que así ha sido, ya que el juego ya no aparece en la plataforma móvil. Otros juegos de HIFI Publishers siguen en las tiendas, lo que indica que este juego en concreto fue denunciado y retirado."
               }
             ]
           }
@@ -1221,311 +1321,461 @@
       }
     },
     {
-      "id": "clashroyale-ai-cheat-hire",
-      "source_lang": "en",
+      "id": "alphadefect-slay-spire2",
+      "source_lang": "ja",
       "eyebrow": "AI NEWS",
-      "headline": "Clash Royale,\nAI 치트 제작자 영입",
-      "body": "Supercell이 고급 AI 치트 툴 제작자를 부정행위 단속에 영입했다.",
-      "mini_headline": "Clash Royale, AI 치트 제작자 영입",
+      "headline": "슬레이 더 스파이어 2\n최고 난도 8할 깨는 AI",
+      "body": "142억 번 결정으로 배운 AI가 승천 10에서 최대 80.3% 승률을 냈다.",
+      "mini_headline": "슬레이 더 스파이어 2 공략 AI",
       "tool": "Games",
-      "source": "Dexerto",
-      "url": "https://www.dexerto.com/gaming/clash-royale-recruits-creator-of-ai-cheating-tool-to-help-catch-cheaters-3430356/",
+      "source": "AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20261126-481134/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "Clash Royale 개발사 Supercell이 게임 내 부정행위를 단속하려고 고급 AI 치트 툴 제작자를 데려왔다."
+            "x": "파리-사클레 대학의 Qiyue Chen, 뉴사우스웨일스 대학의 Taian Yu, 모하메드 빈 자이드 인공지능 대학의 고미야마 준페이, 홍콩중문대학의 Haobo Huang 등 4명이 11월 24일 공동 논문 「AlphaDefect: Expert-Level AI for Slay the Spire 2」를 냈다. 이 게임의 기존 최고 난이도로 알려진 '승천 10'을 깨는 강화학습 시스템 'AlphaDefect'를 제안한 논문이다. 승천 10에서는 3막 최종 보스가 2체 연전으로 나온다."
           },
           {
             "t": "p",
-            "x": "Clash Royale에서 AI 치트는 점점 큰 논란거리다. 갈수록 정교해지는 봇이 숙련된 인간 플레이어를 앞선다는 보도까지 나온다. 플레이어들 사이에서는 'Clasher'라는 AI 조작 계정(AI-controlled)이 글로벌 리더보드 정상에 올랐다는 주장이 퍼졌다. Clash Royale은 11월 20일 X에서 AI나 다른 도구로 치트를 쓰면 \"왕실 범죄\"라고 경고했다."
+            "x": "연구팀은 게임의 컴파일된 어셈블리를 불러온 뒤 프레젠테이션 계층만 갈아 끼워, 화면에 아무것도 띄우지 않고 AI가 모든 의사결정을 내리는 환경을 꾸렸다. 네트워크는 캐릭터 6명에 하나씩 모두 6개를 두었고, 데이터는 초당 5000~1만 회 속도로 모았다. 25일 동안 전체 캐릭터를 합쳐 총 142억 회의 의사결정을 거쳤다."
+          },
+          {
+            "t": "img",
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "11월 21일에는 이렇게 발표했다. \"AI 치트 툴 제작자를 붙잡았다. 그는 전적으로 자신의 자유의지로 Clash Royale 팀과 손잡기로 했다. Arena에서 본 가장 정교한 치트 툴을 만든 사람보다 치터를 잡는 데 더 적합한 사람이 있을까? 우리는 함께 이런 행위를 몰아낼 새로운 기술을 만들고 있다.\""
+            "x": "평가 때는 확률이 가장 높은 후보를 고르는 탐욕법을 기본으로 하고, AI가 판단을 망설일 때(최유력 후보의 선택 확률이 90% 미만)만 앞수 읽기를 더했다. 탐욕법만 쓴 승률은 62.2%~76.7%였고, 앞수 읽기를 더하면 캐릭터별로 약 3~6포인트 높아졌다. 디펙트는 80.3%까지 올라갔다."
+          },
+          {
+            "t": "img",
+            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "Supercell은 해당 인물의 신원도, 그가 'Clasher'의 배후인지도 밝히지 않았다. Supercell은 공정 플레이 단속에 이미 자동 탐지와 사람의 검토를 함께 쓴다."
+            "x": "비교 기준인 비공식 데이터베이스 'Spire Codex'의 인간 플레이 기록을 보면, 6개 캐릭터의 승천 10 승률은 10.9~19.9%였다. bilibili 라이브 방송에서는 전체 866회 런 가운데 645회를 이겼다. 드레드 모드에서도 디펙트 승률은 16.8%로 인간 플레이어(9.4%)를 앞섰다."
+          },
+          {
+            "t": "p",
+            "x": "탐욕법만 썼을 때 진 판의 47~68%는 3막 최종 보스 2연전에서 무너진 경우였다. 연구팀은 학습 단계에도 앞수 읽기를 들이는 일을 다음 과제로 꼽았다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Clash Royale recruits the\nmaker of an AI cheat tool",
-          "body": "Supercell has recruited the creator of an advanced AI cheating tool to help crack down on cheating in Clash Royale.",
-          "mini_headline": "Clash Royale hires AI cheat maker",
+        "ja": {
+          "headline": "スレスパ2最難関を\n最大8割クリアするAI",
+          "body": "142億回の決断で学んだ強化学習AIが、アセンション10で最大80.3%の勝率を出した。",
+          "mini_headline": "スレスパ2攻略AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Clash Royale developer Supercell has recruited the creator of an advanced AI cheating tool to help crack down on cheating in the game."
+                "x": "パリ・サクレー大学のQiyue Chen氏、ニューサウスウェールズ大学のTaian Yu氏、モハメド・ビン・ザーイド人工知能大学の小宮山純平氏、香港中文大学のHaobo Huang氏ら4名は11月24日、共著論文「AlphaDefect: Expert-Level AI for Slay the Spire 2」を発表した。本作の従来の最高難易度として知られる「アセンション10」を攻略する強化学習システム「AlphaDefect」が提案されている。アセンション10では、第3層の最終ボスが2体連戦になる。"
               },
               {
                 "t": "p",
-                "x": "AI cheating has become a growing controversy in Clash Royale, with increasingly sophisticated bots reportedly capable of outperforming skilled human players. Players highlighted claims that an AI-controlled account named 'Clasher' had reached the top of the global leaderboard. On November 20, Clash Royale warned on X that using AI or other tools to cheat was a \"royal crime.\""
+                "x": "研究チームは本作のコンパイル済みアセンブリを読み込み、プレゼンテーション層だけを置き換えて、画面表示を伴わずにAIがすべての意思決定をおこなえる環境を構築した。6キャラクターそれぞれに計6つのネットワークを用意し、毎秒5000～1万回というペースでデータを収集。最終的には各キャラクターをあわせて25日間、計142億回の意思決定がおこなわれた。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "On November 21, it announced: \"The creator of the AI cheating tool has been caught. He's agreed, entirely of his own free will, to join forces with the Clash Royale team. And who better to help us catch cheaters than the person who built the most advanced cheating tool we've seen in the Arena? Together, we're building new technology to outlaw this behaviour.\""
+                "x": "評価では、もっとも高い確率の候補を選ぶ貪欲法に加え、AIが判断を迷う場面（最有力候補の選択確率が90％未満）に限り先読みを併用。貪欲法のみでは62.2％～76.7％の勝率を記録し、先読みを用いると各キャラクターの勝率は約3～6ポイント上昇した。特にディフェクトは80.3％に達している。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Supercell has not identified the individual nor said if they were behind 'Clasher'. Its fair-play measures already combine automated detection with human moderation."
+                "x": "比較対象となる非公式データベース「Spire Codex」の人間のプレイデータでは、6キャラクターのアセンション10の勝率は10.9～19.9％。bilibiliでのライブ配信では全866回のランのうち645回に勝利した。ドレッドモードではディフェクトの勝率が16.8％で、人間のプレイヤーは9.4％だった。"
+              },
+              {
+                "t": "p",
+                "x": "一方で、貪欲法のみで敗北するケースの47～68％は第3層の最終ボス2連戦での負けだった。研究チームは、学習の段階にも先読みを取り入れることを今後の課題に挙げている。"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "AI clears Slay the Spire 2's\nhardest mode up to 8 in 10 runs",
+          "body": "A reinforcement learning AI trained on 14.2 billion decisions hit up to an 80.3% win rate on Ascension 10.",
+          "mini_headline": "Slay the Spire 2 AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Four researchers — Qiyue Chen of Université Paris-Saclay, Taian Yu of the University of New South Wales, Junpei Komiyama of Mohamed bin Zayed University of Artificial Intelligence and Haobo Huang of the Chinese University of Hong Kong — published the co-authored paper \"AlphaDefect: Expert-Level AI for Slay the Spire 2\" on November 24. It proposes AlphaDefect, a reinforcement learning system that beats Ascension 10, known as the game's highest difficulty to date. On Ascension 10, the final boss of Act 3 becomes a back-to-back fight against two bosses."
+              },
+              {
+                "t": "p",
+                "x": "The team loaded the game's compiled assemblies and replaced only the presentation layer, building an environment where the AI can make every decision without any on-screen display. They prepared six networks in total, one for each of the six characters, and collected data at a pace of 5,000 to 10,000 per second. In the end, 14.2 billion decisions were made over 25 days across all characters."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "For evaluation, the team used a greedy method that picks the highest-probability option, adding lookahead only when the AI was uncertain (when its top option's selection probability was under 90%). Greedy play alone recorded win rates of 62.2% to 76.7%, and lookahead raised each character's win rate by about 3 to 6 points. The Defect in particular reached 80.3%."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "In human play data from Spire Codex, an unofficial database used for comparison, Ascension 10 win rates for the six characters ranged from 10.9% to 19.9%. In a live stream on bilibili, the AI won 645 of 866 runs. In Dread mode, the Defect's win rate was 16.8%, versus 9.4% for human players."
+              },
+              {
+                "t": "p",
+                "x": "On the other hand, 47% to 68% of losses with greedy play alone came in the back-to-back final boss fight of Act 3. The team lists bringing lookahead into the training stage as future work."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Clash Royale,\nAI 치트 제작자 영입",
-          "body": "Supercell이 고급 AI 치트 툴 제작자를 부정행위 단속에 영입했다.",
-          "mini_headline": "Clash Royale, AI 치트 제작자 영입",
+          "headline": "슬레이 더 스파이어 2\n최고 난도 8할 깨는 AI",
+          "body": "142억 번 결정으로 배운 AI가 승천 10에서 최대 80.3% 승률을 냈다.",
+          "mini_headline": "슬레이 더 스파이어 2 공략 AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Clash Royale 개발사 Supercell이 게임 내 부정행위를 단속하려고 고급 AI 치트 툴 제작자를 데려왔다."
+                "x": "파리-사클레 대학의 Qiyue Chen, 뉴사우스웨일스 대학의 Taian Yu, 모하메드 빈 자이드 인공지능 대학의 고미야마 준페이, 홍콩중문대학의 Haobo Huang 등 4명이 11월 24일 공동 논문 「AlphaDefect: Expert-Level AI for Slay the Spire 2」를 냈다. 이 게임의 기존 최고 난이도로 알려진 '승천 10'을 깨는 강화학습 시스템 'AlphaDefect'를 제안한 논문이다. 승천 10에서는 3막 최종 보스가 2체 연전으로 나온다."
               },
               {
                 "t": "p",
-                "x": "Clash Royale에서 AI 치트는 점점 큰 논란거리다. 갈수록 정교해지는 봇이 숙련된 인간 플레이어를 앞선다는 보도까지 나온다. 플레이어들 사이에서는 'Clasher'라는 AI 조작 계정(AI-controlled)이 글로벌 리더보드 정상에 올랐다는 주장이 퍼졌다. Clash Royale은 11월 20일 X에서 AI나 다른 도구로 치트를 쓰면 \"왕실 범죄\"라고 경고했다."
+                "x": "연구팀은 게임의 컴파일된 어셈블리를 불러온 뒤 프레젠테이션 계층만 갈아 끼워, 화면에 아무것도 띄우지 않고 AI가 모든 의사결정을 내리는 환경을 꾸렸다. 네트워크는 캐릭터 6명에 하나씩 모두 6개를 두었고, 데이터는 초당 5000~1만 회 속도로 모았다. 25일 동안 전체 캐릭터를 합쳐 총 142억 회의 의사결정을 거쳤다."
               },
-              {
-                "t": "p",
-                "x": "11월 21일에는 이렇게 발표했다. \"AI 치트 툴 제작자를 붙잡았다. 그는 전적으로 자신의 자유의지로 Clash Royale 팀과 손잡기로 했다. Arena에서 본 가장 정교한 치트 툴을 만든 사람보다 치터를 잡는 데 더 적합한 사람이 있을까? 우리는 함께 이런 행위를 몰아낼 새로운 기술을 만들고 있다.\""
-              },
-              {
-                "t": "p",
-                "x": "Supercell은 해당 인물의 신원도, 그가 'Clasher'의 배후인지도 밝히지 않았다. Supercell은 공정 플레이 단속에 이미 자동 탐지와 사람의 검토를 함께 쓴다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Clash Royale、\nAIチート作者を起用",
-          "body": "SupercellはClash Royaleの不正対策にAIチートツールの作者を迎えた。",
-          "mini_headline": "Clash RoyaleがAIチート作者を採用",
-          "full": {
-            "mode": "full",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Clash Royaleの開発元Supercellは、ゲーム内の不正行為を取り締まるため、高度なAIチートツールの作者を迎え入れた。"
+                "x": "평가 때는 확률이 가장 높은 후보를 고르는 탐욕법을 기본으로 하고, AI가 판단을 망설일 때(최유력 후보의 선택 확률이 90% 미만)만 앞수 읽기를 더했다. 탐욕법만 쓴 승률은 62.2%~76.7%였고, 앞수 읽기를 더하면 캐릭터별로 약 3~6포인트 높아졌다. 디펙트는 80.3%까지 올라갔다."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Clash RoyaleではAIによるチートが大きな論争になりつつあり、ますます高度化するボットは熟練した人間のプレイヤーをしのぐとも伝えられる。プレイヤーたちは、「Clasher」というAI操作のアカウント（AI-controlled）がグローバルリーダーボードの首位に立ったとの主張を取り上げた。Clash Royaleは11月20日、AIなどのツールを使ったチートは「王室の罪」だとXで警告した。"
+                "x": "비교 기준인 비공식 데이터베이스 'Spire Codex'의 인간 플레이 기록을 보면, 6개 캐릭터의 승천 10 승률은 10.9~19.9%였다. bilibili 라이브 방송에서는 전체 866회 런 가운데 645회를 이겼다. 드레드 모드에서도 디펙트 승률은 16.8%로 인간 플레이어(9.4%)를 앞섰다."
               },
               {
                 "t": "p",
-                "x": "11月21日には次のように発表した。「AIチートツールの作者を捕まえた。彼は完全に自らの意思で、Clash Royaleチームと手を組むことに同意した。Arenaで見た中で最も高度なチートツールを作った人物ほど、チーターを捕まえるのに適した人はいないだろう。私たちは共に、この行為を締め出す新しい技術を開発している」"
-              },
-              {
-                "t": "p",
-                "x": "Supercellは人物の名前も、その人物が「Clasher」の背後にいたかどうかも明らかにしていない。同社のフェアプレー対策はすでに自動検出と人の手によるモデレーションを組み合わせている。"
+                "x": "탐욕법만 썼을 때 진 판의 47~68%는 3막 최종 보스 2연전에서 무너진 경우였다. 연구팀은 학습 단계에도 앞수 읽기를 들이는 일을 다음 과제로 꼽았다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Clash Royale\n招募AI作弊工具作者",
-          "body": "Supercell招募高级AI作弊工具的作者，协助打击Clash Royale中的作弊。",
-          "mini_headline": "Clash Royale招募AI作弊工具作者",
+          "headline": "《杀戮尖塔2》最高难度\nAI最多八成通关",
+          "body": "经142亿次决策训练的强化学习AI，在进阶10中胜率最高达80.3%。",
+          "mini_headline": "杀戮尖塔2攻略AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Clash Royale开发商Supercell招募了一款高级AI作弊工具的作者，协助打击游戏中的作弊行为。"
+                "x": "巴黎-萨克雷大学的Qiyue Chen、新南威尔士大学的Taian Yu、穆罕默德·本·扎耶德人工智能大学的小宫山纯平、香港中文大学的Haobo Huang等4人于11月24日发表合著论文《AlphaDefect: Expert-Level AI for Slay the Spire 2》，提出了用于攻克本作此前公认最高难度“进阶10”的强化学习系统“AlphaDefect”。在进阶10中，第3层的最终首领战会变为2只首领连战。"
               },
               {
                 "t": "p",
-                "x": "AI作弊在Clash Royale中日益引发争议，据报道越来越精密的机器人已能胜过熟练的人类玩家。玩家们关注到有说法称，一个名为“Clasher”的AI操控账号（AI-controlled）登上了全球排行榜榜首。11月20日，Clash Royale在X上警告称，使用AI或其他工具作弊是“皇家罪行”。"
+                "x": "研究团队读取了本作已编译的程序集，仅替换表现层，搭建出无需画面显示、由AI完成所有决策的环境。他们为6个角色各准备一个网络，共6个网络，以每秒5000～1万次的速度收集数据。最终，所有角色合计在25天内共进行了142亿次决策。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "11月21日，官方宣布：“AI作弊工具的作者已被抓获。他完全出于自愿，同意与Clash Royale团队联手。还有谁比打造出我们在Arena中见过最先进作弊工具的人更适合帮我们抓作弊者呢？我们正携手打造新技术，让这种行为无处遁形。”"
+                "x": "评估时，除了选择概率最高候选项的贪心法外，仅在AI犹豫不决的情况下（最优候选项的选择概率低于90%）同时使用前瞻搜索。仅用贪心法时胜率为62.2%～76.7%，加入前瞻后各角色胜率提升约3～6个百分点，其中故障机器人达到80.3%。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Supercell没有公开此人身份，也未说明其是否就是“Clasher”的幕后操控者。其公平竞赛措施本就结合了自动检测与人工审核。"
+                "x": "作为对比的非官方数据库“Spire Codex”的人类玩家数据显示，6个角色在进阶10的胜率为10.9%～19.9%。在bilibili的直播中，AI在全部866局中赢下645局。在恐惧模式下，故障机器人的胜率为16.8%，人类玩家为9.4%。"
+              },
+              {
+                "t": "p",
+                "x": "另一方面，仅用贪心法时，47%～68%的失败发生在第3层最终首领的2连战中。研究团队将在训练阶段也引入前瞻列为今后的课题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Clash Royale ficha al creador\nde una trampa basada en AI",
-          "body": "Supercell ha fichado al creador de una avanzada herramienta de trampas con AI para frenar las trampas en Clash Royale.",
-          "mini_headline": "Clash Royale ficha a un creador de trampas con AI",
+          "headline": "Una IA gana hasta 8 de cada 10\nen la cima de Slay the Spire 2",
+          "body": "Una IA entrenada con 14.200 millones de decisiones logró hasta un 80,3 % de victorias en Ascensión 10.",
+          "mini_headline": "IA para Slay the Spire 2",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Supercell, desarrolladora de Clash Royale, ha fichado al creador de una avanzada herramienta de trampas con AI para ayudar a frenar las trampas en el juego."
+                "x": "Cuatro investigadores —Qiyue Chen, de la Universidad Paris-Saclay; Taian Yu, de la Universidad de Nueva Gales del Sur; Junpei Komiyama, de la Universidad de Inteligencia Artificial Mohamed bin Zayed, y Haobo Huang, de la Universidad China de Hong Kong— publicaron el 24 de noviembre el artículo conjunto «AlphaDefect: Expert-Level AI for Slay the Spire 2». En él proponen AlphaDefect, un sistema de aprendizaje por refuerzo que supera Ascensión 10, conocido como el nivel de dificultad más alto del juego hasta ahora. En Ascensión 10, el jefe final del acto 3 pasa a ser un doble combate seguido contra dos jefes."
               },
               {
                 "t": "p",
-                "x": "Las trampas con AI se han convertido en una polémica creciente en Clash Royale, con bots cada vez más sofisticados que, según se informa, pueden superar a jugadores humanos expertos. Los jugadores destacaron afirmaciones de que una cuenta AI-controlled (controlada por AI) llamada 'Clasher' había llegado a lo más alto de la clasificación mundial. El 20 de noviembre, Clash Royale advirtió en X de que usar AI u otras herramientas para hacer trampas era un \"crimen real\"."
+                "x": "El equipo cargó los ensamblados compilados del juego y sustituyó solo la capa de presentación, con lo que creó un entorno en el que la IA toma todas las decisiones sin mostrar nada en pantalla. Preparó seis redes en total, una para cada uno de los seis personajes, y recopiló datos a un ritmo de entre 5000 y 10.000 por segundo. Al final, sumando todos los personajes, se tomaron 14.200 millones de decisiones en 25 días."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "El 21 de noviembre anunció: \"El creador de la herramienta de trampas con AI ha sido atrapado. Ha aceptado, totalmente por voluntad propia, unir fuerzas con el equipo de Clash Royale. ¿Y quién mejor para ayudarnos a atrapar tramposos que la persona que creó la herramienta de trampas más avanzada que hemos visto en la Arena? Juntos estamos desarrollando nueva tecnología para prohibir este comportamiento.\""
+                "x": "En la evaluación, además de un método voraz que elige la opción de mayor probabilidad, se añadió búsqueda anticipada solo cuando la IA dudaba (cuando la probabilidad de elegir la opción principal era inferior al 90 %). Con el método voraz solo, las tasas de victoria fueron del 62,2 % al 76,7 %, y con la búsqueda anticipada la tasa de cada personaje subió unos 3 a 6 puntos. El Defecto, en particular, llegó al 80,3 %."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Supercell no ha identificado a la persona ni ha dicho si estaba detrás de 'Clasher'. Sus medidas de fair-play ya combinan detección automatizada con moderación humana."
+                "x": "En los datos de partidas humanas de Spire Codex, una base de datos no oficial usada como referencia, las tasas de victoria en Ascensión 10 de los seis personajes fueron del 10,9 % al 19,9 %. En una transmisión en directo en bilibili, ganó 645 de 866 partidas. En el modo Pavor, la tasa de victoria del Defecto fue del 16,8 %, frente al 9,4 % de los jugadores humanos."
+              },
+              {
+                "t": "p",
+                "x": "Por otro lado, entre el 47 % y el 68 % de las derrotas con el método voraz solo se produjeron en el doble combate contra el jefe final del acto 3. El equipo señala como tarea pendiente incorporar la búsqueda anticipada también en la fase de entrenamiento."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Clash Royale,\nAI 치트 제작자 영입",
-          "body": "Supercell이 고급 AI 치트 툴 제작자를 부정행위 단속에 영입했다.",
-          "mini_headline": "Clash Royale, AI 치트 제작자 영입",
+        "en": {
+          "headline": "AI clears Slay the Spire 2's\nhardest mode up to 8 in 10 runs",
+          "body": "A reinforcement learning AI trained on 14.2 billion decisions hit up to an 80.3% win rate on Ascension 10.",
+          "mini_headline": "Slay the Spire 2 AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Clash Royale 개발사 Supercell이 게임 내 부정행위를 단속하기 위해 고급 AI 치트 툴 제작자를 영입했다."
+                "x": "Four researchers — Qiyue Chen of Université Paris-Saclay, Taian Yu of the University of New South Wales, Junpei Komiyama of Mohamed bin Zayed University of Artificial Intelligence and Haobo Huang of the Chinese University of Hong Kong — published the co-authored paper \"AlphaDefect: Expert-Level AI for Slay the Spire 2\" on November 24. It proposes AlphaDefect, a reinforcement learning system that beats Ascension 10, known as the game's highest difficulty to date. On Ascension 10, the final boss of Act 3 becomes a back-to-back fight against two bosses."
               },
               {
                 "t": "p",
-                "x": "Clash Royale에서는 AI 치트가 점점 큰 논란이 되고 있으며, 갈수록 정교해지는 봇이 숙련된 인간 플레이어를 능가한다는 보도도 나온다. 플레이어들은 'Clasher'라는 AI 조작 계정(AI-controlled)이 글로벌 리더보드 정상에 올랐다는 주장을 부각했다. Clash Royale은 11월 20일 X에서 AI나 다른 도구로 치트를 쓰는 것은 \"왕실 범죄\"라고 경고했다."
+                "x": "The team loaded the game's compiled assemblies and replaced only the presentation layer, building an environment where the AI can make every decision without any on-screen display. They prepared six networks in total, one for each of the six characters, and collected data at a pace of 5,000 to 10,000 per second. In the end, 14.2 billion decisions were made over 25 days across all characters."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "11월 21일에는 이렇게 발표했다. \"AI 치트 툴 제작자를 붙잡았다. 그는 전적으로 자신의 자유의지로 Clash Royale 팀과 손잡기로 했다. Arena에서 본 가장 정교한 치트 툴을 만든 사람보다 치터를 잡는 데 더 적합한 사람이 있을까? 우리는 함께 이런 행위를 몰아낼 새로운 기술을 만들고 있다.\""
+                "x": "For evaluation, the team used a greedy method that picks the highest-probability option, adding lookahead only when the AI was uncertain (when its top option's selection probability was under 90%). Greedy play alone recorded win rates of 62.2% to 76.7%, and lookahead raised each character's win rate by about 3 to 6 points. The Defect in particular reached 80.3%."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Supercell은 해당 인물의 신원도, 그가 'Clasher'의 배후인지도 밝히지 않았다. Supercell의 공정 플레이 대책은 이미 자동 탐지와 사람의 검토를 함께 쓰고 있다."
+                "x": "In human play data from Spire Codex, an unofficial database used for comparison, Ascension 10 win rates for the six characters ranged from 10.9% to 19.9%. In a live stream on bilibili, the AI won 645 of 866 runs. In Dread mode, the Defect's win rate was 16.8%, versus 9.4% for human players."
+              },
+              {
+                "t": "p",
+                "x": "On the other hand, 47% to 68% of losses with greedy play alone came in the back-to-back final boss fight of Act 3. The team lists bringing lookahead into the training stage as future work."
               }
             ]
           }
         },
-        "ja": {
-          "headline": "Clash Royale、\nAIチート作者を起用",
-          "body": "SupercellはClash Royaleの不正対策にAIチートツールの作者を迎えた。",
-          "mini_headline": "Clash RoyaleがAIチート作者を採用",
+        "ko": {
+          "headline": "슬레이 더 스파이어 2\n최고 난도 8할 깨는 AI",
+          "body": "142억 번 결정으로 배운 AI가 승천 10에서 최대 80.3% 승률을 냈다.",
+          "mini_headline": "슬레이 더 스파이어 2 공략 AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Clash Royaleの開発元Supercellは、ゲーム内の不正行為を取り締まるため、高度なAIチートツールの作者を迎え入れた。"
+                "x": "파리-사클레 대학의 Qiyue Chen, 뉴사우스웨일스 대학의 Taian Yu, 모하메드 빈 자이드 인공지능 대학의 고미야마 준페이, 홍콩중문대학의 Haobo Huang 등 4명은 11월 24일 공동 논문 「AlphaDefect: Expert-Level AI for Slay the Spire 2」를 발표했다. 논문은 이 게임의 기존 최고 난이도로 알려진 '승천 10'을 공략하는 강화학습 시스템 'AlphaDefect'를 제안한다. 승천 10에서는 3막 최종 보스가 2체 연전으로 바뀐다."
               },
               {
                 "t": "p",
-                "x": "Clash RoyaleではAIによるチートが大きな論争になりつつあり、ますます高度化するボットは熟練した人間のプレイヤーをしのぐとも伝えられる。プレイヤーたちは、「Clasher」というAI操作のアカウント（AI-controlled）がグローバルリーダーボードの首位に立ったとの主張を取り上げた。Clash Royaleは11月20日、AIなどのツールを使ったチートは「王室の罪」だとXで警告した。"
+                "x": "연구팀은 게임의 컴파일된 어셈블리를 불러와 프레젠테이션 계층만 바꿔, 화면 표시 없이 AI가 모든 의사결정을 내릴 수 있는 환경을 만들었다. 6개 캐릭터마다 하나씩 모두 6개의 네트워크를 준비하고, 초당 5000~1만 회 속도로 데이터를 모았다. 최종적으로 전체 캐릭터를 합쳐 25일 동안 총 142억 회의 의사결정이 이뤄졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "11月21日には次のように発表した。「AIチートツールの作者を捕まえた。彼は完全に自らの意思で、Clash Royaleチームと手を組むことに同意した。Arenaで見た中で最も高度なチートツールを作った人物ほど、チーターを捕まえるのに適した人はいないだろう。私たちは共に、この行為を締め出す新しい技術を開発している」"
+                "x": "평가에서는 확률이 가장 높은 후보를 고르는 탐욕법에 더해, AI가 판단을 망설이는 상황(최유력 후보의 선택 확률이 90% 미만)에서만 앞수 읽기를 함께 썼다. 탐욕법만으로는 62.2%~76.7%의 승률을 기록했고, 앞수 읽기를 쓰면 캐릭터별 승률이 약 3~6포인트 올랐다. 특히 디펙트는 80.3%에 이르렀다."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Supercellは人物の名前も、その人物が「Clasher」の背後にいたかどうかも明らかにしていない。同社のフェアプレー対策はすでに自動検出と人の手によるモデレーションを組み合わせている。"
+                "x": "비교 대상인 비공식 데이터베이스 'Spire Codex'의 인간 플레이 데이터에서 6개 캐릭터의 승천 10 승률은 10.9~19.9%였다. bilibili 라이브 방송에서는 전체 866회 런 가운데 645회를 이겼다. 드레드 모드에서 디펙트의 승률은 16.8%로, 인간 플레이어는 9.4%였다."
+              },
+              {
+                "t": "p",
+                "x": "한편 탐욕법만으로 진 경우의 47~68%는 3막 최종 보스 2연전에서 패한 것이었다. 연구팀은 학습 단계에도 앞수 읽기를 도입하는 것을 앞으로의 과제로 꼽았다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Clash Royale\n招募AI作弊工具作者",
-          "body": "Supercell招募高级AI作弊工具的作者，协助打击Clash Royale中的作弊。",
-          "mini_headline": "Clash Royale招募AI作弊工具作者",
+          "headline": "《杀戮尖塔2》最高难度\nAI最多八成通关",
+          "body": "经142亿次决策训练的强化学习AI，在进阶10中胜率最高达80.3%。",
+          "mini_headline": "杀戮尖塔2攻略AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Clash Royale开发商Supercell招募了一款高级AI作弊工具的作者，协助打击游戏中的作弊行为。"
+                "x": "巴黎-萨克雷大学的Qiyue Chen、新南威尔士大学的Taian Yu、穆罕默德·本·扎耶德人工智能大学的小宫山纯平、香港中文大学的Haobo Huang等4人于11月24日发表合著论文《AlphaDefect: Expert-Level AI for Slay the Spire 2》，提出了用于攻克本作此前公认最高难度“进阶10”的强化学习系统“AlphaDefect”。在进阶10中，第3层的最终首领战会变为2只首领连战。"
               },
               {
                 "t": "p",
-                "x": "AI作弊在Clash Royale中日益引发争议，据报道越来越精密的机器人已能胜过熟练的人类玩家。玩家们关注到有说法称，一个名为“Clasher”的AI操控账号（AI-controlled）登上了全球排行榜榜首。11月20日，Clash Royale在X上警告称，使用AI或其他工具作弊是“皇家罪行”。"
+                "x": "研究团队读取了本作已编译的程序集，仅替换表现层，搭建出无需画面显示、由AI完成所有决策的环境。他们为6个角色各准备一个网络，共6个网络，以每秒5000～1万次的速度收集数据。最终，所有角色合计在25天内共进行了142亿次决策。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "11月21日，官方宣布：“AI作弊工具的作者已被抓获。他完全出于自愿，同意与Clash Royale团队联手。还有谁比打造出我们在Arena中见过最先进作弊工具的人更适合帮我们抓作弊者呢？我们正携手打造新技术，让这种行为无处遁形。”"
+                "x": "评估时，除了选择概率最高候选项的贪心法外，仅在AI犹豫不决的情况下（最优候选项的选择概率低于90%）同时使用前瞻搜索。仅用贪心法时胜率为62.2%～76.7%，加入前瞻后各角色胜率提升约3～6个百分点，其中故障机器人达到80.3%。"
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Supercell没有公开此人身份，也未说明其是否就是“Clasher”的幕后操控者。其公平竞赛措施本就结合了自动检测与人工审核。"
+                "x": "作为对比的非官方数据库“Spire Codex”的人类玩家数据显示，6个角色在进阶10的胜率为10.9%～19.9%。在bilibili的直播中，AI在全部866局中赢下645局。在恐惧模式下，故障机器人的胜率为16.8%，人类玩家为9.4%。"
+              },
+              {
+                "t": "p",
+                "x": "另一方面，仅用贪心法时，47%～68%的失败发生在第3层最终首领的2连战中。研究团队将在训练阶段也引入前瞻列为今后的课题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Clash Royale ficha al creador\nde una trampa basada en AI",
-          "body": "Supercell ha fichado al creador de una avanzada herramienta de trampas con AI para frenar las trampas en Clash Royale.",
-          "mini_headline": "Clash Royale ficha a un creador de trampas con AI",
+          "headline": "Una IA gana hasta 8 de cada 10\nen la cima de Slay the Spire 2",
+          "body": "Una IA entrenada con 14.200 millones de decisiones logró hasta un 80,3 % de victorias en Ascensión 10.",
+          "mini_headline": "IA para Slay the Spire 2",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/26/clash-royale-codes-and-how-to-redeem-them.jpg"
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Supercell, desarrolladora de Clash Royale, ha fichado al creador de una avanzada herramienta de trampas con AI para ayudar a frenar las trampas en el juego."
+                "x": "Cuatro investigadores —Qiyue Chen, de la Universidad Paris-Saclay; Taian Yu, de la Universidad de Nueva Gales del Sur; Junpei Komiyama, de la Universidad de Inteligencia Artificial Mohamed bin Zayed, y Haobo Huang, de la Universidad China de Hong Kong— publicaron el 24 de noviembre el artículo conjunto «AlphaDefect: Expert-Level AI for Slay the Spire 2». En él proponen AlphaDefect, un sistema de aprendizaje por refuerzo que supera Ascensión 10, conocido como el nivel de dificultad más alto del juego hasta ahora. En Ascensión 10, el jefe final del acto 3 pasa a ser un doble combate seguido contra dos jefes."
               },
               {
                 "t": "p",
-                "x": "Las trampas con AI se han convertido en una polémica creciente en Clash Royale, con bots cada vez más sofisticados que, según se informa, pueden superar a jugadores humanos expertos. Los jugadores destacaron afirmaciones de que una cuenta AI-controlled (controlada por AI) llamada 'Clasher' había llegado a lo más alto de la clasificación mundial. El 20 de noviembre, Clash Royale advirtió en X de que usar AI u otras herramientas para hacer trampas era un \"crimen real\"."
+                "x": "El equipo cargó los ensamblados compilados del juego y sustituyó solo la capa de presentación, con lo que creó un entorno en el que la IA toma todas las decisiones sin mostrar nada en pantalla. Preparó seis redes en total, una para cada uno de los seis personajes, y recopiló datos a un ritmo de entre 5000 y 10.000 por segundo. Al final, sumando todos los personajes, se tomaron 14.200 millones de decisiones en 25 días."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "El 21 de noviembre anunció: \"El creador de la herramienta de trampas con AI ha sido atrapado. Ha aceptado, totalmente por voluntad propia, unir fuerzas con el equipo de Clash Royale. ¿Y quién mejor para ayudarnos a atrapar tramposos que la persona que creó la herramienta de trampas más avanzada que hemos visto en la Arena? Juntos estamos desarrollando nueva tecnología para prohibir este comportamiento.\""
+                "x": "En la evaluación, además de un método voraz que elige la opción de mayor probabilidad, se añadió búsqueda anticipada solo cuando la IA dudaba (cuando la probabilidad de elegir la opción principal era inferior al 90 %). Con el método voraz solo, las tasas de victoria fueron del 62,2 % al 76,7 %, y con la búsqueda anticipada la tasa de cada personaje subió unos 3 a 6 puntos. El Defecto, en particular, llegó al 80,3 %."
+              },
+              {
+                "t": "img",
+                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Supercell no ha identificado a la persona ni ha dicho si estaba detrás de 'Clasher'. Sus medidas de fair-play ya combinan detección automatizada con moderación humana."
+                "x": "En los datos de partidas humanas de Spire Codex, una base de datos no oficial usada como referencia, las tasas de victoria en Ascensión 10 de los seis personajes fueron del 10,9 % al 19,9 %. En una transmisión en directo en bilibili, ganó 645 de 866 partidas. En el modo Pavor, la tasa de victoria del Defecto fue del 16,8 %, frente al 9,4 % de los jugadores humanos."
+              },
+              {
+                "t": "p",
+                "x": "Por otro lado, entre el 47 % y el 68 % de las derrotas con el método voraz solo se produjeron en el doble combate contra el jefe final del acto 3. El equipo señala como tarea pendiente incorporar la búsqueda anticipada también en la fase de entrenamiento."
               }
             ]
           }

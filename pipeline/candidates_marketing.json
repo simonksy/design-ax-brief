@@ -1,97 +1,52 @@
 {
   "section": "marketing",
-  "now_iso": "2026-11-25T22:03:00Z",
+  "now_iso": "2026-11-26T22:01:09Z",
   "window_hours": 72,
   "items": [
+    {
+      "title": "ChatGPT Ads New Call-To-Actions, Business Agents Expand, More Audience Metrics & More",
+      "url": "https://www.seroundtable.com/chatgpt-ads-updates-42623.html",
+      "source": "Search Engine Roundtable",
+      "category": "marketing",
+      "published_iso": "2026-11-25T17:40:00-05:00",
+      "excerpt": "OpenAI's ChatGPT Ads product update: Business Agents expand outside the U.S., a new 'learn more' CTA on single-image ads, more audience metrics in Ads Manager and the Ads API, an option to hide product-feed sale prices after a promotion ends, and new policy changes.",
+      "og_image": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg"
+    },
+    {
+      "title": "ChatGPT ad reports add 9 metrics built on how many people see the ads",
+      "url": "https://ppc.land/chatgpt-ad-reports-add-9-metrics-built-on-how-many-people-see-the-ads/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-11-26T00:15:36+01:00",
+      "excerpt": "OpenAI added nine audience metrics to ChatGPT Ads Manager and the Ads API, led by Reach and Frequency (impressions divided by reach); reports previously counted only impressions and clicks. Business Agents also leave the US, though qualifying countries are unnamed.",
+      "og_image": "https://ppc.land/content/images/2026/11/chatgpt-ads-reach-frequency-nine-audience-metrics-people-counter-crowd-speech-bubble.jpg"
+    },
+    {
+      "title": "OpenAI Isn't Planning Prompt-Level Reports For ChatGPT Ads",
+      "url": "https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/",
+      "source": "Search Engine Journal",
+      "category": "marketing",
+      "published_iso": "2026-11-26T04:15:54+00:00",
+      "excerpt": "ChatGPT ads match to queries OpenAI's own system writes; advertisers can't see them, and OpenAI says prompt-level reports aren't planned. SEJ lays out what that means for buyers.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-ads-openai-featured.jpg"
+    },
+    {
+      "title": "ChatGPT Ads Hit 100,000 Advertisers - But Are They Seeing Results?",
+      "url": "https://www.searchenginejournal.com/chatgpt-ads-are-growing-fast-but-are-advertisers-seeing-results/598052/",
+      "source": "Search Engine Journal",
+      "category": "marketing",
+      "published_iso": "2026-11-25T15:00:31+00:00",
+      "excerpt": "With ChatGPT Ads past 100,000 advertisers, SEJ argues buyers should judge the channel on qualified leads and sales, since cheap clicks and Google Search benchmarks can mislead.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/peopleimages-featured-598052-1600x840-1.jpg"
+    },
     {
       "title": "AI Agent Traffic to Surge 150x This Cyber Week, Driven Mostly by Meta Muse",
       "url": "https://www.adweek.com/commerce/ai-agent-traffic-to-surge-150x-this-cyber-week-driven-mostly-by-meta-muse/",
       "source": "ADWEEK",
       "category": "marketing",
       "published_iso": "2026-11-25T09:13:52-05:00",
-      "excerpt": "Meta’s popular personal assistant Muse accounts for the vast majority of agent-led site requests, new data indicates.",
+      "excerpt": "New data forecasts AI-agent traffic to retail sites surging 150x over Cyber Week, with Meta's Muse personal assistant accounting for the vast majority of agent-led site requests.",
       "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=600&h=315&crop=1"
-    },
-    {
-      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "source": "TechCrunch",
-      "category": "marketing",
-      "published_iso": "2026-11-25T14:10:18+00:00",
-      "excerpt": "Amazon and Meta are discussing a potential deal to end a two-month blockade of Meta's Muse shopping agent on Amazon's store; advertising and search placement are reported as key sticking points.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
-    },
-    {
-      "title": "ChatGPT Ads Are Growing Fast – But Are Advertisers Seeing Results?",
-      "url": "https://www.searchenginejournal.com/chatgpt-ads-are-growing-fast-but-are-advertisers-seeing-results/598052/",
-      "source": "Search Engine Journal",
-      "category": "marketing",
-      "published_iso": "2026-11-25T15:00:31+00:00",
-      "excerpt": "Use qualified leads and sales to decide whether to keep spending on ChatGPT Ads, since cheap clicks and Google Search benchmarks can mislead.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/peopleimages-featured-598052-1600x840-1.jpg"
-    },
-    {
-      "title": "AI Shopping Agents Bought A Fake Deal 37% Of The Time – Claude Opus Never Did",
-      "url": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/",
-      "source": "Search Engine Journal",
-      "category": "marketing",
-      "published_iso": "2026-11-25T20:00:32+00:00",
-      "excerpt": "Nine AI models went Christmas shopping 6,156 times. They bought an obviously fake deal 37% of the time. Only Claude Opus never did.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-shopping-featured-598682-1600x840-1.webp"
-    },
-    {
-      "title": "AI agents linked to Amazon Ads get an optional upgrade on December 8",
-      "url": "https://ppc.land/ai-agents-linked-to-amazon-ads-get-an-optional-upgrade-on-december-8/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-11-25T21:34:12+01:00",
-      "excerpt": "Agent builders connected to Amazon Ads' MCP server get an optional protocol upgrade on December 8; older protocol versions keep working with no end date. (Published time from ppc.land RSS; page is Cloudflare-gated.)",
-      "og_image": "https://ppc.land/content/images/2026/11/amazon-ads-mcp-server-protocol-2026-07-28-stateless-optional-telephone-and-envelopes.jpg"
-    },
-    {
-      "title": "Amazon blocks 20 of 24 AI agents by name, the most of 79 top US retailers",
-      "url": "https://ppc.land/amazon-blocks-20-of-24-ai-agents-by-name-the-most-of-79-top-us-retailers/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-11-25T20:47:26+01:00",
-      "excerpt": "A Thrad study of 79 big US retailers finds named invitations to AI shopping agents rose from 1 in 2024 to 63 in 2026, while Amazon blocks 20 of 24 agents by name. (Published time from ppc.land RSS; page is Cloudflare-gated.)",
-      "og_image": "https://ppc.land/content/images/2026/11/thrad-amazon-blocks-20-of-24-ai-agents-79-us-retailers-robots-txt-chained-revolving-door-butler-queue.jpg"
-    },
-    {
-      "title": "움직이는 배우의 의상도, 드라마 속 배경도 AI로 구현” CJ ENM, AI 기반 광고 기술 고도화… VPPL부터 IP 활용한 맞춤형 AI 광고까지",
-      "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29824",
-      "source": "매드타임스",
-      "category": "marketing",
-      "published_iso": "2026-11-25T09:13:08+09:00",
-      "excerpt": "CJ ENM is extending AI-based virtual product placement (swapping actors' outfits in finished dramas) and making brand-tailored AI ads from drama IP, sold together with TV/OTT/digital media buys.",
-      "og_image": "https://www.madtimes.co.kr/news/thumbnail/202611/29824_73331_1148_v150.jpg"
-    },
-    {
-      "title": "광고 소재 제작량 4년 새 121% 증가, 마케팅 인력 증가 속도는 못 따라가",
-      "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29792",
-      "source": "매드타임스",
-      "category": "marketing",
-      "published_iso": "2026-11-26T00:00:00+09:00",
-      "excerpt": "Ad creative production volume rose 121% in four years while marketing headcount lagged; generative AI speeds asset creation but brand and ad-compliance review remains a bottleneck.",
-      "og_image": "https://www.madtimes.co.kr/news/thumbnail/202611/29792_73242_3313_v150.jpg"
-    },
-    {
-      "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
-      "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/",
-      "source": "Meta Newsroom",
-      "category": "marketing",
-      "published_iso": "2026-11-24T06:00:40+00:00",
-      "excerpt": "Meta launches its Muse personal AI agent in the UK, able to shop and complete tasks on users' behalf, with UK retail partners such as M&S, Sainsbury's and ASOS reported at launch.",
-      "og_image": "https://about.fb.com/wp-content/uploads/2026/11/England_v2a_4x3.png?w=1200"
-    },
-    {
-      "title": "In Graphic Detail: How shoppers are adopting AI for product research ahead of Black Friday",
-      "url": "https://digiday.com/marketing/in-graphic-detail-how-shoppers-are-adopting-ai-for-product-research-ahead-of-black-friday/",
-      "source": "Digiday",
-      "category": "marketing",
-      "published_iso": "2026-11-25T05:01:00+00:00",
-      "excerpt": "Product discovery habits are changing, leaving marketers unsure how to pivot ahead of the biggest sales period of the year.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg"
     },
     {
       "title": "Target's New AI Assistant Is Just For Browsing, For Now",
@@ -99,26 +54,125 @@
       "source": "ADWEEK",
       "category": "marketing",
       "published_iso": "2026-11-25T12:50:33-05:00",
-      "excerpt": "Ask Target can’t yet order on behalf of customers or manage account details.",
+      "excerpt": "Target's Ask Target assistant can't yet place orders on behalf of customers or manage account details heading into Black Friday; Adweek looks at what it does and where agentic checkout is headed.",
       "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/11/Ask-Target.jpg?w=600&h=315&crop=1"
     },
     {
-      "title": "Google Ads Encourages Dynamically Scoring Conversion Values",
-      "url": "https://www.seroundtable.com/google-ads-dynamically-scoring-conversion-values-42609.html",
-      "source": "Search Engine Roundtable",
+      "title": "Google patent describes an AI TV channel that stars the viewer",
+      "url": "https://ppc.land/google-patent-describes-an-ai-tv-channel-that-stars-the-viewer/",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-11-25T07:51:00-05:00",
-      "excerpt": "Google Ads Liaison Ginny Marvin said Google 'strongly encourages' dynamically scoring conversion values so Smart Bidding can optimize toward value, and does not consider it a hack.",
-      "og_image": "https://images.seroundtable.com/google-hack-tgdbBAMH.jpg"
+      "published_iso": "2026-11-25T21:46:20+01:00",
+      "excerpt": "A Google patent application feeds viewing history, age, gender and a profile photo into an AI prompt to generate a personalized video channel, and claim 4 covers stitching ads into each generated video.",
+      "og_image": "https://ppc.land/content/images/2026/11/google-patent-application-ai-tv-channel-viewer-as-star-ad-stitcher-film-splice.jpg"
     },
     {
-      "title": "배민, 통합 광고관리 ‘배민애즈’ 공개…AI로 광고 집행·성과 분석",
-      "url": "https://zdnet.co.kr/view/?no=20261124100410",
+      "title": "IAB Europe gives publishers a 90-day plan for AI bots, deals and ads",
+      "url": "https://ppc.land/iab-europe-gives-publishers-a-90-day-plan-for-ai-bots-deals-and-ads/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-11-26T20:46:24+01:00",
+      "excerpt": "IAB Europe's agentic-web playbook has publishers score 12 areas out of 36 points, set rules for seven AI uses and weigh six ways to charge AI agents and bots, with no prices given.",
+      "og_image": "https://ppc.land/content/images/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg"
+    },
+    {
+      "title": "AI 도구에서 AI 에이전트로… WFA, 마케터를 위한 에이전틱 AI 가이드 발간",
+      "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29836",
+      "source": "매드타임스(MADTimes)",
+      "category": "marketing",
+      "published_iso": "2026-11-26T12:35:00+09:00",
+      "excerpt": "WFA and The Brandtech Group published 'Agents at Work: A Marketer's Guide to Agentic AI'; WFA survey says 96% of brands already use generative or agentic AI, 92% expect efficiency gains and 65% see rising risk, with guidance on autonomy, accountability and human oversight.",
+      "og_image": "https://www.madtimes.co.kr/news/thumbnail/202611/29836_73378_3142_v150.jpg"
+    },
+    {
+      "title": "CJ ENM, AI 기반 광고 기술 고도화… VPPL부터 IP 활용한 맞춤형 AI 광고까지",
+      "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29824",
+      "source": "매드타임스(MADTimes)",
+      "category": "marketing",
+      "published_iso": "2026-11-25T09:13:08+09:00",
+      "excerpt": "CJ ENM is upgrading its AI virtual product placement (VPPL), rendering products onto moving actors' clothing in dramas, and producing brand-tailored AI ads from drama IP, bundled with broadcast/OTT/digital media buying.",
+      "og_image": "https://www.madtimes.co.kr/news/thumbnail/202611/29824_73331_1148_v150.jpg"
+    },
+    {
+      "title": "In Graphic Detail: How shoppers are adopting AI for product research ahead of Black Friday",
+      "url": "https://digiday.com/marketing/in-graphic-detail-how-shoppers-are-adopting-ai-for-product-research-ahead-of-black-friday/",
+      "source": "Digiday",
+      "category": "marketing",
+      "published_iso": "2026-11-25T05:01:00+00:00",
+      "excerpt": "Data on how shoppers use AI chatbots for product discovery ahead of Black Friday, leaving marketers unsure how to shift spend and tactics for the biggest sales period of the year.",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg"
+    },
+    {
+      "title": "Meta brings Muse AI agent to the UK with retail partners",
+      "url": "https://thepaypers.com/payments/news/meta-launches-muse-ai-agent-in-the-uk-with-retail-partners",
+      "source": "The Paypers",
+      "category": "marketing",
+      "published_iso": "2026-11-25T06:16:07+00:00",
+      "excerpt": "Meta's Muse shopping agent launches in the UK with retailer connectors and user approval controls, under ICO and CMA regulatory oversight.",
+      "og_image": "https://assets.thepaypers.com/news%20team/metamuseuk.jpg"
+    },
+    {
+      "title": "Natural launches card acceptance for AI agents",
+      "url": "https://thepaypers.com/payments/news/natural-launches-natural-accept-for-agent-led-card-payments",
+      "source": "The Paypers",
+      "category": "marketing",
+      "published_iso": "2026-11-25T07:57:13+00:00",
+      "excerpt": "Natural launched Natural Accept, letting AI agents collect card payments via link, embedded checkout or phone - checkout plumbing for agent-led sales.",
+      "og_image": "https://assets.thepaypers.com/news%20team/natural-launches-natural-accept.jpg"
+    },
+    {
+      "title": "\"10만원 이하 난방기 찾아줘\"…다나와, 챗GPT로 AI 쇼핑 확대",
+      "url": "https://www.news1.kr/industry/sb-founded/6365520",
+      "source": "뉴스1",
+      "category": "marketing",
+      "published_iso": "2026-11-25T13:58:22+09:00",
+      "excerpt": "Danawa connected live product and price data to ChatGPT via an MCP service after Claude; 74% of its generative-AI-referred traffic already comes from ChatGPT.",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg"
+    },
+    {
+      "title": "공정위, 애플 '시리' AI기능 지연…부당광고 혐의 심의 착수",
+      "url": "https://www.etnews.com/20261126000303",
+      "source": "전자신문",
+      "category": "marketing",
+      "published_iso": "2026-11-26T13:44:24+09:00",
+      "excerpt": "Korea's FTC is reviewing Apple for advertising iPhone 16 AI features as available despite uncertain launch timing; examiners put related sales at 3.35 trillion won and recommended a fine.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
+    },
+    {
+      "title": "AI로 음식 이미지 만드는 시대…허위·과장 광고 논쟁 가열",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718437",
+      "source": "디지털투데이",
+      "category": "marketing",
+      "published_iso": "2026-11-26T15:21:13+09:00",
+      "excerpt": "As AI-generated product images spread across restaurants and e-commerce, legal debate grows over false advertising; a Japanese lawyer says AI menu images face the same premiums-and-representations standards as other ad imagery.",
+      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202611/718437_665687_438.jpg"
+    },
+    {
+      "title": "“블랙프라이데이 쇼핑도 AI로”…빅테크 ‘쇼핑 에이전트’ 전쟁",
+      "url": "https://www.hankyung.com/article/202611262276i",
+      "source": "한국경제",
+      "category": "marketing",
+      "published_iso": "2026-11-26T14:13:20+09:00",
+      "excerpt": "Amazon negotiates to admit Meta's Muse two months after blocking it, weighing ad-revenue loss against customer churn; orders via AI agents rose 9.5x in 90 days as big tech fights over the purchase decision.",
+      "og_image": "https://img.hankyung.com/photo/202611/01.46553671.1.jpg"
+    },
+    {
+      "title": "\"AI가 팔고 알리고 응대까지\"…플랫폼의 무인화 실험 [정지은의 테크킥]",
+      "url": "https://www.hankyung.com/article/202611250686i",
+      "source": "한국경제",
+      "category": "marketing",
+      "published_iso": "2026-11-26T07:10:01+09:00",
+      "excerpt": "Naver, Baemin, Coupang and others are using AI to automate product advertising and even purchase decisions, chasing operating efficiency and profitability.",
+      "og_image": "https://img.hankyung.com/photo/202611/01.46545479.1.png"
+    },
+    {
+      "title": "SK스토아, AI 쇼호스트와 사람이 함께 상품 판다",
+      "url": "https://zdnet.co.kr/view/?no=20261125164339",
       "source": "지디넷코리아",
       "category": "marketing",
-      "published_iso": "2026-11-24T10:12:43+09:00",
-      "excerpt": "Baemin (Woowa Brothers) unveiled Baemin Ads at its B:NEXT 2026 ad conference, an integrated ad manager with AI-based creative optimization, product recommendation and performance reports, and plans to widen AI use of order/shopping data for targeting.",
-      "og_image": "https://image.zdnet.co.kr/2026/11/24/489a2e3833c5111033145bb228fdbcf8.png"
+      "published_iso": "2026-11-25T16:44:25+09:00",
+      "excerpt": "SK Stoa puts its AI show host 'Aisa' into live home-shopping broadcasts on Nov 27, co-hosting and selling alongside human hosts rather than only appearing in pre-made clips.",
+      "og_image": "https://image.zdnet.co.kr/2026/11/25/f9f103daab0341f259c3201297889151.jpg"
     },
     {
       "title": "Beyond Browsing: How AI Agents Are Rewriting the Rules of Cyber Week Shopping in ANZ",
@@ -126,53 +180,8 @@
       "source": "Salesforce",
       "category": "marketing",
       "published_iso": "2026-11-24T23:59:30+00:00",
-      "excerpt": "One in five Australian shoppers now turn to AI as the first stop in their shopping journey, according to new Salesforce data on the eve of Cyber Week.",
+      "excerpt": "Salesforce data on the eve of Cyber Week: one in five Australian shoppers now start their shopping journey with AI, with agents doing the legwork but not yet the paying.",
       "og_image": "https://www.salesforce.com/au/news/wp-content/uploads/sites/19/2026/11/824_1126_T08_The-AI-First-Holiday-Shoppers-Let-Agents-Do-the-Legwork-Not-the-Paying_a_v1_110926.webp"
-    },
-    {
-      "title": "Reddit's new recipe for ad growth: search, shopping, and AI agents",
-      "url": "https://www.businessinsider.com/reddit-ad-growth-plans-search-shopping-ai-agents-2026-11",
-      "source": "Business Insider",
-      "category": "marketing",
-      "published_iso": "2026-11-25T13:00:00+00:00",
-      "excerpt": "Reddit COO Jen Wong says Reddit will test an MCP server and agent-to-agent ad buying inside its Reddit Max automated buying platform next year, alongside search and shopping ad growth.",
-      "og_image": "https://i.insider.com/6b05accbd6c5d341c9b4caea?width=1200&format=jpeg"
-    },
-    {
-      "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
-      "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
-      "source": "CNBC",
-      "category": "marketing",
-      "published_iso": "2026-11-24T20:31:11+00:00",
-      "excerpt": "Meta doesn't serve ads in its Muse personal agent, but the tool is already boosting the company's ad business, a senior executive told CNBC.",
-      "og_image": "https://image.cnbcfm.com/api/v1/image/108372027-1790964949550-gettyimages-2296314757-META_CONNECT.jpeg?v=1790964985&w=1920&h=1080"
-    },
-    {
-      "title": "어도비 마케팅 AI 에이전트, 챗GPT·클로드에서 쓴다",
-      "url": "https://www.sedaily.com/article/20118433",
-      "source": "서울경제",
-      "category": "marketing",
-      "published_iso": "2026-11-25T05:00:00+09:00",
-      "excerpt": "Adobe is making its marketing AI agents usable inside ChatGPT and Claude so marketers can plan and analyze campaigns without opening Adobe apps.",
-      "og_image": "https://wimg.sedaily.com/news/cms/2026/11/24/news-p.v1.20261124.afa5c7bafd764bf69bc99432d145c951_Z1.jpg"
-    },
-    {
-      "title": "Adobe data shows online holiday spending up 9.1% ahead of Thanksgiving",
-      "url": "https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/",
-      "source": "Digital Commerce 360",
-      "category": "marketing",
-      "published_iso": "2026-11-25T11:00:26+00:00",
-      "excerpt": "U.S. shoppers spent more than $82.5 billion online from Nov. 1 through Nov. 22, according to Adobe Analytics, while AI-referred retail traffic more than doubled and buy now, pay later spending hit $6.1 billion.",
-      "og_image": "https://www.digitalcommerce360.com/wp-content/uploads/2026/11/holiday-season-spending-scaled.jpeg"
-    },
-    {
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "source": "The Verge",
-      "category": "marketing",
-      "published_iso": "2026-11-25T21:51:26+00:00",
-      "excerpt": "A Google patent application describes a personalized AI-generated video channel built from viewing history and a profile photo; ppc.land notes claim 4 covers stitching ads into each generated video.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&w=1200"
     }
   ]
 }

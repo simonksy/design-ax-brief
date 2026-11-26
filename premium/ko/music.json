@@ -16827,6 +16827,128 @@
           "x": "탐지 도구는 Ircam Amplify와 함께 시험했다. 대변인은 “소량의 오탐은 피할 수 없지만, 이의 제기 절차와 개선되는 탐지 기술 덕분에 우리의 접근법에 자신이 있다”고 말했다. 유통사도 이런 곡을 납품할 수 없다. 메타데이터에 AI 도구로만 생성됐다고 표시된 곡은 납품 단계에서 걸러진다."
         }
       ]
+    },
+    "music/ua-universe-luna-addons": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft2.jpg",
+          "cap": "UA Universe: LUNA를 위한 새로운 개발자 플랫폼이자 커뮤니티 · 출처: Universal Audio"
+        },
+        {
+          "t": "p",
+          "x": "UA Universe는 현재 공개 베타로, JavaScript-based 개발 키트로 맞춤형 LUNA 워크플로 도구와 개선 기능을 만들어 공유하게 해 준다. UA Universe에서는 LUNA 안에서 Claude Code, Codex 같은 AI 어시스턴트에 텍스트 프롬프트를 넣어 사용자 경험을 입맛대로 바꾸고, 만든 도구는 온라인 커뮤니티에 올릴 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "악기나 프로세싱 플러그인은 만들 수 없다. 대신 이 새 SDK로 다양한 녹음·프로덕션 용도에 맞춰 사용자 경험을 높이는 애드온과 맞춤 설정을 개발한다. 애드온은 현재 LUNA 세션을 실시간으로 읽고 고치며, 파라미터 제어와 MIDI 편집도 여기에 들어간다."
+        },
+        {
+          "t": "p",
+          "x": "애드온이 실행한 동작은 모두 LUNA 실행 취소 기록에 남아, 워크플로를 설계하며 단계별로 되짚을 수 있다. 모의 환경도 있어서 LUNA에 실제로 적용하기 전에 애드온을 테스트하고 디버그할 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-interdaw.jpg",
+          "cap": "@cp666-dev가 만든 InterDAW 애드온 · 출처: Universal Audio"
+        },
+        {
+          "t": "p",
+          "x": "익숙한 워크플로 일부를 LUNA 안에서 재현할 수 있다는 얘기다. Reaper 커뮤니티에서 그랬듯 UA Universe 커뮤니티에도 Logic Pro나 Pro Tools 스킨이 나와, 한 DAW에서 다른 DAW로 더 매끄럽게 넘어가게 해 줄 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "시작하려면 LUNA를 실행하고 스타터 프롬프트로 LUNA Builder Tools를 설치하면 된다. 스와이프 컴핑 같은 기능을 갖춘 도구, Ableton Live 세션을 LUNA로 불러오는 도구까지 새 사용자 애드온이 벌써 공개됐다."
+        }
+      ]
+    },
+    "music/cyanite-concierge-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
+          "cap": "Cyanite Concierge 기능 스크린샷"
+        },
+        {
+          "t": "p",
+          "x": "대화형 AI가 Spotify 등 여러 소비자 대상 서비스에 쓰이는 방식은 앞서 다룬 바 있다. 음악 산업에는 B2B 활용 사례도 많은데, Cyanite가 가장 최근 사례다."
+        },
+        {
+          "t": "p",
+          "x": "이 회사는 수년간 AI로 음악 카탈로그를 분석하고 태깅해 왔다. 새로 내놓은 Cyanite Concierge는 이 카탈로그를 훨씬 쉽게 검색하게 하는 것이 목표다."
+        }
+      ]
+    },
+    "music/mit-tangimap-controls": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-TangiMap.png",
+          "cap": "노트북 화면에서 큐브가 튀어나오는 듯한 일러스트. 컴퓨터는 두 손이 조작하는 믹서와 연결돼 있다."
+        },
+        {
+          "t": "p",
+          "x": "MIT 대학원생이자 MIT 컴퓨터과학·인공지능연구소(CSAIL) 연구원이 공동 개발한 새 시스템 “TangiMap”은 디지털 위젯을 실물 입력 장치에 매핑한다. 일상 기기의 물리 컨트롤을 개인화해 사진 편집, 애니메이션, 음악 연주, 3D 모델 제작 같은 작업을 더 역동적이고 손에 잡히는 경험으로 바꾼다. DJ의 패드가 큐, 루프, 샘플 트리거를 오가듯, TangiMap은 기기 컨트롤에 완전히 새로운 역할을 맡긴다."
+        },
+        {
+          "t": "p",
+          "x": "TangiMap은 AI 에이전트로 사용 중인 소프트웨어와 사용자의 습관, 그 프로그램을 조작하는 기기의 맥락을 찾아낸다. 프로그램의 API나 MCP 서버를 보거나, 비전-언어 모델이 해석한 스크린샷을 참고한다. 에이전트는 대규모 언어 모델로 정보를 파일에 정리한 뒤 디지털 기능을 물리 컨트롤에 매핑한다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 일반 믹서를 Adobe Lightroom용 사진 편집 컨트롤러로 바꿨다. 사운드 믹싱 소프트웨어에도 같은 방식을 적용해 연주자가 노브와 페이더로 음악을 실시간 조정하게 했다. 더 단순한 믹서는 Blender에 매핑했고, Adobe의 Character Animator에서는 캐릭터를 실시간으로 조종했다. Yunyi Zhu와 공동 저자 Chang Xiao는 ACM Symposium on User Interface Software and Technology에서 이 도구를 발표했다."
+        }
+      ]
+    },
+    "music/madlibs-genmusic-distribution": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MADlibs: Analyzing the Distribution of Generative Music(생성 음악의 분포 분석) — Matthew Keating, Noah Schaffer, Michael Casey, Nikhil Singh(Dartmouth College)."
+        },
+        {
+          "t": "p",
+          "x": "텍스트-음악 모델은 실제로 어떤 음악을 만들 수 있을까? 답에 따라 개별 창작자와 커뮤니티, 나아가 음악 문화 전반이 영향을 받는다. MADlibs는 최신 음악 생성기의 표현 지원 범위를 재는 프레임워크다. 프롬프트 공간 전반에서 모델이 실제로 만들어 내는 음악적 행동의 부분집합을 말한다. 저자들은 널리 쓰이는 MusicGen, ACE-Step, DiffRhythm 세 모델을 연구했다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.31462v1/banner.png",
+          "cap": "그림 1: MADlibs 엔드투엔드 파이프라인. 다섯 가지 프롬프트 전략으로 10,000개의 프롬프트를 생성해 세 텍스트-음악 모델의 입력으로 쓴다. 이어 모든 모델의 출력에 MIR 분석을 수행한다."
+        },
+        {
+          "t": "p",
+          "x": "프롬프트는 자연어 처리 기법과 기존 캡션 코퍼스로 만들고, MIR 기법으로 조성, 비트, 템포, 악기 구성, 다이내믹스 측면에서 출력 공간을 분석한다."
+        },
+        {
+          "t": "p",
+          "x": "연구에 따르면 텍스트-음악 모델은 같은 프롬프트 공간에서 서로 바꿔 쓸 수 있는 악기가 아니다. 모델마다 고유한 특성을 학습해, 프롬프트로 닿을 수 있는 음악의 범위가 제약된다. 특정 템포를 기본값으로 삼거나, 무음을 만들지 못하거나, 정형화된 밴드 편성을 지나치게 많이 내놓는 식이다. 사용자는 프롬프트를 한 번에 하나씩 다루니 이런 편향은 대개 눈에 띄지 않는다. 그러나 쌓이면 AI-assisted 음악의 소리를 형성하고, “보편적 기술 가능성이라는 약속 뒤에 숨은 새로운 청각적 단일 문화”를 낳을 위험이 있다."
+        }
+      ]
+    },
+    "music/suno-chicks-amended-complaint": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg",
+          "cap": "출처: Zulfugar Graphics/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Jason Isbell이 Suno를 상대로 낸 집단소송에 아티스트들이 새로 합류했다. 24일(화) 보스턴(Boston) 연방법원에 제출된 수정 소장에서다. The Chicks, David Longstreth, Carl Craig, Phil Elverum, Ezra Furman에 Willie Colón과 Sam Moore의 유족 배우자까지 이름을 올려 새 원고는 모두 16명이다."
+        },
+        {
+          "t": "p",
+          "x": "저작권 청구는 이 소송에 없다. 소장은 Suno가 동의 없이 음악가들의 정체성을 AI 모델에 담았고, 이름을 입력하면 그들을 연상시키는 노래와 텍스트 설명, 커버 이미지가 나온다고 주장한다. 근거로 든 법은 US 14개 주와 푸에르토리코(Puerto Rico)의 퍼블리시티권 법, 일리노이(Illinois)주의 BIPA다. Suno가 법원에 소송 기각을 요청한 지 21일 만의 제출이다."
+        },
+        {
+          "t": "p",
+          "x": "수정 소장에는 구월 출시된 Suno v6 모델로 시연한 사례가 추가됐다. 소장은 “Suno는 BMG, Warner, Believe와 그 자회사 TuneCore와의 계약을 근거로 v6 모델에 라이선스 음악만 학습시켰다고 주장한다”며 “그러나 Franz Nicolay는 그런 동의를 한 적이 없다”고 적었다. 프롬프트 “Emily Strayer”를 넣자 “굴러가는 밴조”가 들어간 노래가 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "원래 소장의 청구 17개는 그대로 두고 금지명령과 손해배상, 원상회복, 이익 반환을 요구한다."
+        }
+      ]
     }
   }
 }

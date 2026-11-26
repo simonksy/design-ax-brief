@@ -12754,6 +12754,128 @@
           "x": "“The challenge now isn’t so much pulling people out of the rabbit hole. It’s getting them to engage in the first place,” said first author Thomas Costello of Carnegie Mellon University."
         }
       ]
+    },
+    "science/ifaw-wildlife-app-helsinki": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+          "cap": "Illustration of the app. Credit: Jani Närhi / University of Helsinki"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the University of Helsinki, in collaboration with the International Fund for Animal Welfare (IFAW), trained AI models on nearly 40,000 images of wildlife products. The models can distinguish products derived from elephants, pangolins and tigers from visually similar everyday objects."
+        },
+        {
+          "t": "p",
+          "x": "The best model reached 84% overall accuracy and over 90% for tiger and pangolin products. A research prototype smartphone app reached 91.3% accuracy in independent practical screening tests."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+          "cap": "Interface of the app. Credit: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+        },
+        {
+          "t": "p",
+          "x": "The tool is meant to flag suspicious online listings for expert review; decisions on legality and enforcement remain with qualified authorities. Next steps include improving accuracy, covering more species and products, piloting with NGOs and online platforms, and building referral workflows to enforcement agencies."
+        },
+        {
+          "t": "p",
+          "x": "The study, led by Ritwik Kulkarni, appears in Conservation Biology (DOI: 10.1111/cobi.70407)."
+        }
+      ]
+    },
+    "science/strathclyde-copepod-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+          "cap": "Modeled copepod zooplankton distributions. Credit: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the University of Strathclyde built a high-resolution machine learning model that projects how zooplankton, the small drifting animals at the base of marine food chains, may respond to changing ocean conditions. It was trained on decades of Continuous Plankton Recorder survey data and combined with regional climate projections."
+        },
+        {
+          "t": "p",
+          "x": "The study focused on copepods, a major food source for fish such as herring. Under a high-emissions scenario, copepod abundance is projected to fall by 58–72% by 2050 and 84–93% by 2100, larger declines than lower-resolution global models suggest, indicating the Northwest European Shelf seas may be more vulnerable than thought. The model also identified possible regional refuges."
+        },
+        {
+          "t": "p",
+          "x": "The declines are linked to rising sea temperatures, lower nutrient levels and circulation changes tied to a weakening AMOC. Lead author Dr. Emma Tyldesley's team stresses it is a scenario-based study, not a prediction; the projections will also feed the Likely Suspects Framework as an indicator of feeding conditions for young wild Atlantic salmon."
+        }
+      ]
+    },
+    "science/psypost-ai-label-ratings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+        },
+        {
+          "t": "p",
+          "x": "An online experiment conducted in Germany found that labeling a short nutrition text as written by artificial intelligence did not meaningfully change how participants rated it. However, only about 42% of those who read the AI-labeled text reported that a source had been mentioned. The paper was published in Applied Psychology: Health and Well-Being."
+        },
+        {
+          "t": "p",
+          "x": "Laura M. König and colleagues analyzed 774 adults who read one of three ChatGPT-generated texts, checked by a nutritional scientist, with or without the note “This text was written by ChatGPT, an artificial intelligence.”"
+        },
+        {
+          "t": "p",
+          "x": "There were no statistically significant differences in ratings. AI-labeled texts got slightly lower trustworthiness ratings, but trust averaged above 5 on a 7-point scale. Only 17 of 569 participants who wrote a WhatsApp summary mentioned AI as the source."
+        },
+        {
+          "t": "p",
+          "x": "“The results point toward AI chatbots being an accepted and trusted source for nutrition-related information in the population,” the authors concluded. They note the texts were high quality, and labels might matter more for lower-quality information."
+        }
+      ]
+    },
+    "science/natcomms-neural-decoding-leakage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Neural decoding is a widely-used machine learning technique for investigating how behavior, perception and cognition are represented in neural activity. However without careful application data leakage can occur, where information from the test set contaminates the training set, leading to biased estimates of decoding performance and potentially invalidating biological conclusions."
+        },
+        {
+          "t": "p",
+          "x": "Here we show that leakage can be introduced in neural decoding studies by common supervised and unsupervised preprocessing steps, including dimensionality reduction. We reveal that in some cases leakage can paradoxically decrease decoding performance relative to unbiased estimates, and we provide theoretical analyses explaining how this occurs. We also show that, for autocorrelated neural time series, randomized k-fold cross-validation can dramatically overstate decoding performance. Based on these findings, we provide detailed recommendations for avoiding data leakage in neural decoding."
+        }
+      ]
+    },
+    "science/deepmind-mass-spec-skills": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google DeepMind is sharing Mass Spec Skills for Google Antigravity, a suite of domain skills that pair Gemini's chemical reasoning with established mass spectrometry tools and public chemical databases. Spectral searches annotate on average only about 5% of measured spectra; the rest has been called the \"dark matter\" of mass spectrometry."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+          "cap": "Figure 1. Prepare the signal, search reference libraries, deduce the formula and rank candidate structures, then cross-check and refine."
+        },
+        {
+          "t": "p",
+          "x": "From a single prompt, the agent can take an unannotated tandem mass spectrum to a proposed chemical structure and an auditable report. In one run it identified the formula C20H21ClN6O, ranked 845 PubChem isomers and singled out the true molecule (CID 137835447) by testing fragmentation pathways."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+          "cap": "Figure 2. A single prompt runs structure elucidation end to end."
+        },
+        {
+          "t": "p",
+          "x": "On 100 compounds from the Enamine REAL MS/MS collection in MoNA, accuracy without internet access or skills remained below 4% across Gemini 3.8 Flash, Gemini 4 Argon and Gemini 4 Carbon. With the Mass Spec Skills, all three identified and verified the exact molecule in around 97% of attempts, and generated tokens fell by nearly four times on Flash."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+          "cap": "Figure 5a. Exact-match identification accuracy on 100 benchmark spectra."
+        },
+        {
+          "t": "p",
+          "x": "Mirror-image molecules and some closely related isomers cannot be told apart from an LC-MS/MS spectrum alone. DeepMind is offering 10,000 scientists the highest Antigravity usage tier free for 6 months."
+        }
+      ]
     }
   }
 }

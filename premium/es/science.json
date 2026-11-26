@@ -12504,6 +12504,128 @@
           "x": "“El reto ahora no es tanto sacar a la gente de la madriguera del conejo, sino lograr que participe en primer lugar”, dijo el primer autor, Thomas Costello, de la Carnegie Mellon University."
         }
       ]
+    },
+    "science/ifaw-wildlife-app-helsinki": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
+          "cap": "Ilustración de la app. Crédito: Jani Närhi / University of Helsinki"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la University of Helsinki, en colaboración con el Fondo Internacional para el Bienestar Animal (International Fund for Animal Welfare, IFAW), entrenaron modelos de AI con casi 40,000 imágenes de productos de fauna silvestre. Los modelos pueden distinguir los productos derivados de elefantes, pangolines y tigres de objetos cotidianos visualmente similares."
+        },
+        {
+          "t": "p",
+          "x": "El mejor modelo alcanzó un 84% de precisión global y más del 90% en productos de tigre y pangolín. Un prototipo de investigación de app para smartphone alcanzó un 91.3% de precisión en pruebas prácticas de cribado independientes."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
+          "cap": "Interfaz de la app. Crédito: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+        },
+        {
+          "t": "p",
+          "x": "La herramienta busca señalar anuncios en línea sospechosos para que los revisen expertos; las decisiones sobre legalidad y aplicación de la ley siguen en manos de autoridades cualificadas. Los próximos pasos incluyen mejorar la precisión, abarcar más especies y productos, hacer pruebas piloto con NGOs y plataformas en línea, y crear flujos de derivación hacia los organismos encargados de hacer cumplir la ley."
+        },
+        {
+          "t": "p",
+          "x": "El estudio, dirigido por Ritwik Kulkarni, se publica en Conservation Biology (DOI: 10.1111/cobi.70407)."
+        }
+      ]
+    },
+    "science/strathclyde-copepod-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
+          "cap": "Distribuciones modeladas del zooplancton copépodo. Crédito: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la University of Strathclyde crearon un modelo de aprendizaje automático de alta resolución que proyecta cómo podría responder el zooplancton, los pequeños animales a la deriva que forman la base de las cadenas tróficas marinas, a los cambios en las condiciones del océano. Se entrenó con décadas de datos de muestreo del Continuous Plankton Recorder y se combinó con proyecciones climáticas regionales."
+        },
+        {
+          "t": "p",
+          "x": "El estudio se centró en los copépodos, una fuente de alimento clave para peces como el arenque. En un escenario de altas emisiones, se prevé que su abundancia caiga un 58–72% para 2050 y un 84–93% para 2100, descensos mayores que los que sugieren los modelos globales de menor resolución, lo que indica que los mares de la Northwest European Shelf podrían ser más vulnerables de lo que se creía. El modelo también identificó posibles refugios regionales."
+        },
+        {
+          "t": "p",
+          "x": "Los descensos se vinculan al aumento de la temperatura del mar, a menores niveles de nutrientes y a cambios en la circulación asociados a un AMOC debilitado. El equipo de la autora principal, Dr. Emma Tyldesley, subraya que se trata de un estudio basado en escenarios y no de una predicción; las proyecciones también alimentarán el Likely Suspects Framework como indicador de las condiciones de alimentación de los salmones atlánticos salvajes jóvenes."
+        }
+      ]
+    },
+    "science/psypost-ai-label-ratings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un experimento en línea realizado en Alemania halló que etiquetar un breve texto sobre nutrición como escrito por inteligencia artificial no cambió de forma significativa cómo lo valoraron los participantes. Sin embargo, solo cerca del 42% de quienes leyeron el texto AI-labeled indicó que se había mencionado una fuente. El artículo se publicó en Applied Psychology: Health and Well-Being."
+        },
+        {
+          "t": "p",
+          "x": "Laura M. König y sus colegas analizaron a 774 adultos que leyeron uno de tres textos ChatGPT-generated, revisados por un especialista en nutrición, con o sin la nota “Este texto fue escrito por ChatGPT, una inteligencia artificial.”"
+        },
+        {
+          "t": "p",
+          "x": "No hubo diferencias estadísticamente significativas en las valoraciones. Los textos AI-labeled recibieron valoraciones de credibilidad ligeramente inferiores, pero la confianza promedió más de 5 en una escala de 7 puntos. Solo 17 de los 569 participantes que escribieron un resumen para WhatsApp mencionaron la AI como fuente."
+        },
+        {
+          "t": "p",
+          "x": "“Los resultados apuntan a que los chatbots de AI son una fuente aceptada y de confianza para la información relacionada con la nutrición en la población”, concluyeron los autores. Señalan que los textos eran de alta calidad y que las etiquetas podrían importar más en información de menor calidad."
+        }
+      ]
+    },
+    "science/natcomms-neural-decoding-leakage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La decodificación neural es una técnica de aprendizaje automático muy utilizada para investigar cómo se representan el comportamiento, la percepción y la cognición en la actividad neural. Sin embargo, si no se aplica con cuidado, puede producirse una fuga de datos, en la que información del conjunto de prueba contamina el conjunto de entrenamiento, lo que sesga las estimaciones del rendimiento de decodificación y puede invalidar conclusiones biológicas."
+        },
+        {
+          "t": "p",
+          "x": "Aquí mostramos que en los estudios de decodificación neural pueden introducirse fugas mediante pasos habituales de preprocesamiento supervisado y no supervisado, incluida la reducción de dimensionalidad. Revelamos que, en algunos casos, la fuga puede reducir paradójicamente el rendimiento de decodificación respecto a las estimaciones no sesgadas, y aportamos análisis teóricos que explican cómo ocurre. También mostramos que, en series temporales neurales autocorrelacionadas, la validación cruzada k-fold aleatoria puede sobrestimar drásticamente el rendimiento de decodificación. A partir de estos hallazgos, ofrecemos recomendaciones detalladas para evitar la fuga de datos en la decodificación neural."
+        }
+      ]
+    },
+    "science/deepmind-mass-spec-skills": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google DeepMind comparte Mass Spec Skills para Google Antigravity, un conjunto de habilidades de dominio que combinan el razonamiento químico de Gemini con herramientas consolidadas de espectrometría de masas y bases de datos químicas públicas. Las búsquedas espectrales anotan en promedio solo alrededor del 5% de los espectros medidos; el resto se ha llamado la “materia oscura” de la espectrometría de masas."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/ZC6JSXIz2lVOvhwl/AGY_Mass-spec_fig-1__light.svg",
+          "cap": "Figura 1. Preparar la señal, buscar en bibliotecas de referencia, deducir la fórmula y clasificar estructuras candidatas; después, contrastar y refinar."
+        },
+        {
+          "t": "p",
+          "x": "A partir de un solo prompt, el agente puede llevar un espectro de masas en tándem sin anotar hasta una estructura química propuesta y un informe auditable. En una ejecución identificó la fórmula C20H21ClN6O, clasificó 845 isómeros de PubChem y señaló la molécula verdadera (CID 137835447) al poner a prueba rutas de fragmentación."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/uA0uODt1WDAW73Tw/Antigravity__prompt_figure_02__light.svg",
+          "cap": "Figura 2. Un solo prompt ejecuta la elucidación estructural de principio a fin."
+        },
+        {
+          "t": "p",
+          "x": "Con 100 compuestos de la colección Enamine REAL MS/MS en MoNA, la precisión sin acceso a internet ni habilidades se mantuvo por debajo del 4% en Gemini 3.8 Flash, Gemini 4 Argon y Gemini 4 Carbon. Con Mass Spec Skills, los tres identificaron y verificaron la molécula exacta en cerca del 97% de los intentos, y los tokens generados se redujeron casi cuatro veces en Flash."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/IsxadwTjRmxuf9LN/AGY_Mass-spec_fig-7__light.svg",
+          "cap": "Figura 5a. Precisión de identificación exacta en 100 espectros de referencia."
+        },
+        {
+          "t": "p",
+          "x": "Las moléculas especulares y algunos isómeros muy parecidos no pueden distinguirse solo con un espectro LC-MS/MS. DeepMind ofrece a 10,000 científicos el nivel de uso más alto de Antigravity gratis durante 6 meses."
+        }
+      ]
     }
   }
 }

@@ -1,96 +1,101 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "medicine",
   "items": [
     {
+      "title": "Generative fundus angiography from misaligned handheld images for non-invasive screening of infantile retinal diseases",
+      "url": "https://www.nature.com/articles/s41746-026-03462-z",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-11-24T10:24:00Z",
+      "og_image": null,
+      "excerpt": "A generative AI model synthesizes fundus fluorescein angiography from misaligned handheld color fundus photos of infants, aiming to give dye-free visualization of retinal vascular abnormalities for screening infantile retinal diseases, a leading cause of childhood blindness.",
       "tool": "Medicine",
+      "category": "medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "메디웨일, 망막 기반 심혈관 위험 예측 AI '닥터눈 CVD' 미국 FDA 510(k) 허가",
-      "url": "https://www.medigatenews.com/news/3289123775",
-      "source": "메디게이트뉴스",
-      "published_iso": "2026-11-25T11:19:00+09:00",
-      "og_image": "https://medigatenews.com/file/news/546012",
-      "excerpt": "메디웨일의 망막 사진 기반 AI '닥터눈 CVD'가 FDA 510(k) 허가를 받았다. 안저 사진으로 10년 내 첫 죽상경화성 심혈관질환(ASCVD) 발생 위험을 추정해 위험 점수와 3단계 위험군을 제시하며, 회사는 미국 1차 의료기관 보급을 추진한다.",
-      "rationale": "Regulatory milestone: a Korean retinal-imaging CVD risk AI cleared by FDA 510(k), aimed at US primary care."
+      "rationale": "Replacement pick: dye-free, needle-free angiography for infants generated from ordinary handheld fundus photos — a concrete patient-facing screening advance for childhood blindness, with no overlap in the 30-day history (the retinal items there were preeclampsia and adult CVD risk)."
     },
     {
+      "title": "Validation of Computer Vision in the Operating Room for Ambient Documentation",
+      "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/10.1001/jamasurg.2026.5500",
+      "source": "JAMA Surgery",
+      "published_iso": "2026-11-18T16:00:20Z",
+      "og_image": null,
+      "excerpt": "Stanford Health Care study in JAMA Surgery validates computer-vision ambient timestamp documentation (Aimbient) across a variety of operating-room procedures, reporting human-level accuracy for automated OR documentation. (Date from Crossref created; JAMA HTML behind Cloudflare.)",
       "tool": "Medicine",
+      "category": "medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Rapid comparative evaluation of 2 ambient artificial intelligence applications in a learning health system",
-      "url": "https://doi.org/10.1093/jamia/ocag192",
-      "source": "JAMIA (Journal of the American Medical Informatics Association)",
-      "published_iso": "2026-11-23T19:29:20Z",
-      "og_image": null,
-      "excerpt": "A learning-health-system evaluation compared two ambient AI scribes (Abridge and Nabla) among 100 providers over 90 days using a cluster randomized crossover design plus EHR workflow outcomes and simulated encounters, measuring satisfaction, efficiency, documentation quality, usability and patient sentiment.",
-      "rationale": "Rare head-to-head randomized crossover of two commercial ambient scribes; directly useful for health systems choosing a vendor."
+      "rationale": "Peer-reviewed validation of camera-based ambient OR documentation at Stanford — extends ambient AI from the exam room to surgery; distinct from the Suki agentic OS product item."
     },
     {
+      "title": "대구가톨릭대의료원, AI 음성인식 의무기록 '보이스 EMR' 고도화",
+      "url": "https://www.medigatenews.com/news/1869758664",
+      "source": "메디게이트뉴스",
+      "published_iso": "2026-11-26T21:50:00+09:00",
+      "og_image": "https://medigatenews.com/file/news/546538",
+      "excerpt": "대구가톨릭대의료원이 2024년 영상의학과·핵의학과에 도입한 AI 음성인식 의무기록 '보이스 EMR'을 고도화해, 진료 대화에서 의학적으로 의미 있는 정보를 선별하고 의료진별 서식에 맞춰 의무기록을 자동 생성하도록 했다.",
       "tool": "Medicine",
+      "category": "medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "Predictive uncertainty representations in clinical AI shape physicians' advice uptake, accuracy, and trust",
-      "url": "https://www.nature.com/articles/s43856-026-02008-4",
-      "source": "Communications Medicine",
-      "published_iso": "2026-11-25T18:34:21Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
-      "excerpt": "227 physicians assessed patient cases with an AI risk estimate shown with or without representations of the model's predictive uncertainty; how uncertainty was displayed changed how often doctors took the AI's advice, their accuracy and their trust.",
-      "rationale": "Experimental evidence that how a clinical AI displays uncertainty changes physician uptake and accuracy; patient-safety and interface-design angle."
+      "rationale": "Hospital deployment upgrade in Korea — voice EMR now filters clinically meaningful content and auto-fills clinician-specific templates; real care-site operations change."
     },
     {
+      "title": "Deep Learning Analysis of Korotkoff Sounds for Heart Failure Detection: A Prospective Multicentre Observational Study",
+      "url": "https://academic.oup.com/ehjdh/advance-article/doi/10.1093/ehjdh/ztag187/9115906",
+      "source": "European Heart Journal - Digital Health",
+      "published_iso": "2026-11-19T13:04:52Z",
+      "og_image": null,
+      "excerpt": "Prospective four-centre study of 1,103 cardiovascular inpatients in China: deep learning on Korotkoff sounds recorded during routine blood pressure measurement detected heart failure with AUC 0.924 in the independent test cohort, including NYHA class I patients.",
       "tool": "Medicine",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
-      "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/",
-      "source": "STAT",
-      "published_iso": "2026-11-24T09:30:00+00:00",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
-      "excerpt": "In Alaska, a small network of hospitals is betting on AI tools to triage stroke patients and get them to the right care faster across vast distances.",
-      "rationale": "Real-world hospital deployment story: AI stroke triage across a remote, sparse care network; distinct from the 11-23 RSNA outcomes study."
-    },
-    {
-      "tool": "Medicine",
+      "category": "medicine",
       "accent": "#eb367f",
       "motif": "sphere",
-      "title": "FDA Clears Emerging AI Triage Software for Nine Findings on Abdominopelvic CT",
-      "url": "https://www.diagnosticimaging.com/view/fda-emerging-ai-triage-software-nine-findings-abdominopelvic-ct",
-      "source": "Diagnostic Imaging",
-      "published_iso": "2026-11-20T16:45:00Z",
-      "og_image": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
-      "excerpt": "FDA cleared a2z Radiology's a2z-Omni-Triage, AI software for adjunctive triage of nine acute findings on abdominopelvic CT.",
-      "rationale": "FDA clearance of a multi-finding (nine acute findings) abdominal CT triage tool, broader than the single-finding triage products seen so far."
+      "rationale": "Prospective multicentre result turning a routine BP cuff reading into a heart-failure screen (AUC 0.924, incl. NYHA I) — different modality and study from the 11-11 voice-change HF item."
+    },
+    {
+      "title": "Multimodal AI for bacterial vs viral upper respiratory tract infection multicentre development and internal validation",
+      "url": "https://www.nature.com/articles/s41746-026-03492-7",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-11-25T11:05:14Z",
+      "og_image": null,
+      "excerpt": "A multimodal AI model fusing pharyngeal images with clinical data was developed and internally validated across multiple centres to distinguish Group A streptococcus pharyngitis from viral upper respiratory infections, aiming to guide appropriate antibiotic use.",
+      "tool": "Medicine",
+      "category": "medicine",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Point-of-care diagnostic aimed at antibiotic stewardship (strep vs viral sore throat from throat photos + clinical data) — fresh, clinician-facing, adds a primary-care angle to the mix."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.medigatenews.com/news/3289123775": {
+      "https://www.nature.com/articles/s41746-026-03462-z": {
         "verdict": "new",
-        "nearest": "https://medigatenews.com/news/1453068542",
+        "nearest": "https://www.nature.com/articles/s41746-026-03463-y",
         "new_action": ""
       },
-      "https://doi.org/10.1093/jamia/ocag192": {
+      "https://jamanetwork.com/journals/jamasurgery/fullarticle/10.1001/jamasurg.2026.5500": {
         "verdict": "new",
-        "nearest": "https://www.medpagetoday.com/practicemanagement/informationtechnology/123591",
+        "nearest": "https://www.healthcaredive.com/news/suki-debuts-agentic-operating-system/874848/",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s43856-026-02008-4": {
+      "https://www.medigatenews.com/news/1869758664": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03410-x",
+        "nearest": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044563",
         "new_action": ""
       },
-      "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/": {
+      "https://academic.oup.com/ehjdh/advance-article/doi/10.1093/ehjdh/ztag187/9115906": {
         "verdict": "new",
-        "nearest": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425178/ai-may-not-improve-patient-outcomes-for-stroke",
+        "nearest": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/voice-changes-may-detect-worsening-heart-failure-weeks-other-symptoms-appear",
         "new_action": ""
       },
-      "https://www.diagnosticimaging.com/view/fda-emerging-ai-triage-software-nine-findings-abdominopelvic-ct": {
+      "https://www.nature.com/articles/s41746-026-03492-7": {
         "verdict": "new",
-        "nearest": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425184/ai-triage-algorithms-yield-varied-results-in-realworld-use",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Pool 13, no story_dedup drops. All 5 picks absent from published_urls.json in every section (medicine and science lists checked line by line). Dropped/skipped: ORIDTP Nature peptides (brief: neither section, pre-clinical protein design); NEJM AI FDA-authorized sepsis tool (brief: skip unless verified not the 2024 erratum; body unretrievable); AuntMinnie SCARLET-1 prostate MRI 22 countries (could not rule out same study as the 2026-10-14 AuntMinnie 'AI on par with radiologists for finding prostate cancer on MRI' card, also related to 11-16 Quibim prostate MRI); Fierce Healthcare weekly rundown (vendor roundup, overlaps 11-11 Google Cloud Gemini for healthcare card); BMJ letter (correspondence, low novelty; liability theme covered 11-02 AMA card); JAMA Surgery OR computer-vision documentation and AuntMinnie DKI newborn HIE and npj strep/viral URI model (fresh but lower-ranked; documentation already represented by the JAMIA scribe pick). No 일산백병원 닥터눈 duplicate in pool; FDA item kept per brief. Outlets: 5 distinct (Medigate, JAMIA/OUP, Nature Comms Med, STAT, Diagnostic Imaging)."
+    "note": "RE-PICK: dropped 데일리팜 'AI 가짜 의사·약사 광고 금지' (dailypharm.com/user/news/345052) as a cross-section duplicate. It is the same MFDS rule on AI-generated fake experts in ads that marketing already published on 2026-11-25 (etnews.com/20261124000360) and on 11-20/11-10. Replacement: npj Digital Medicine infant generative fundus angiography (s41746-026-03462-z). It is new: the closest history item is the 11-18 retinal preeclampsia biomarker, a different study and population. npj now has 2 of 5 picks, which is the per-outlet cap; there are 4 distinct outlets. Other candidates were skipped on judgement, not as duplicates: NEJM AI FDA sepsis tool (the brief says it is likely a 2024 erratum); AuntMinnie SCARLET-1 prostate MRI across 22 countries (I could not confirm it differs from the 2026-10-14 prostate-MRI item, so skipped as unsure); JBCR burn-resuscitation LLM (a close runner-up, but the excerpt gives no result and it would be a second academic.oup.com pick); Fierce weekly rundown (vendor roundup, and Gemini for healthcare was already carded 11-11); Innovaccer Grok Voice (vendor promo); STAT Epic (from HLTH on 11-18, stale); Healthcare Dive regulatory maze (explainer with no new action); Medigate MIRA (a secondhand write-up of a Nature paper, not checked against the science section); JAMA Health Forum workplace AI survey and Lancet DH AI-literacy review (less actionable); AAMC medical-AI education talk (a conference presentation); ICU CT body composition and ovarian phantom (lower priority). The 4 kept picks are unchanged."
   }
 }

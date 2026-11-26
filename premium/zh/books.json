@@ -11557,6 +11557,113 @@
           "x": "由于圣诞节（Noël）前的议程日已全部排满，只剩2月10日共产党的议程日；此后因总统选举，法案通过将于2月28日停止。这位参议员表示：“但我们永远不会放弃这场斗争。”"
         }
       ]
+    },
+    "books/mertens-wild-horse-ai-denial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "作家凯瑟琳·奥康纳·默滕斯（Kathryn O’Connor Mertens）发表声明，否认使用人工智能（AI）创作小说《Wild Horse Country》，并表示她有草稿、手写笔记和研究资料，可以证明这本书是她自己写的。"
+        },
+        {
+          "t": "p",
+          "x": "此前有报道称，她的经纪人已放弃这部小说。"
+        }
+      ]
+    },
+    "books/belgium-sans-ia-label": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
+        },
+        {
+          "t": "p",
+          "x": "为保护图书质量并更好地规范AI（IA），比利时出版商正在考虑推出一种认证标签，并调整在比利时出版的图书价格。"
+        },
+        {
+          "t": "p",
+          "x": "法语区出版商担忧在本行业使用人工智能（IA）工具的风险，希望设立一种标签，向读者保证他们所读的书确实出自人类完成的专业工作。"
+        },
+        {
+          "t": "p",
+          "x": "比利时出版商协会（ADEB）尤其担忧自助出版现象：借助AI，作者无需出版商即可出书。协会负责人周四在布鲁塞尔强调了专业出版商的附加价值，涵盖从写作（拼写、叙事连贯性……）到图书外观、价格、进入商业渠道以及法律保护等方面。"
+        },
+        {
+          "t": "p",
+          "x": "ADEB敦促会员遵守PILEn发布的《图书行业负责任使用AI宪章》。不过，出版商也清楚“sans IA”标签面临的困难，尤其是在核查获得该标签所需履行的义务方面。该协会发布的一项研究还将帮助会员确定售价，而售价往往参照价格较低的法国出版图书。"
+        }
+      ]
+    },
+    "books/anthropic-payout-milan": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "小说家考特妮·米兰（Courtney Milan）表示，她已收到Anthropic 15亿美元赔付中属于自己的那一份。这笔赔付是Anthropic去年为与作者们的集体诉讼达成和解而同意支付的。全部赔付折算下来约为每本书3000美元，但其中一部分要到明年初才会到账。"
+        }
+      ]
+    },
+    "books/ifwg-ipi-ai-contract-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
+          "cap": "漫画 · AI-generated（AI生成）"
+        },
+        {
+          "t": "p",
+          "x": "拒绝一份书稿仍要耗费编辑的时间。11月17日，IFWG Publishing International和IPI Comics背后公司的董事总经理格里·亨特曼（Gerry Huntman）表示，他的编辑们收到越来越多部分或全部由生成式AI制作的投稿。他说，拒稿所花的时间正在挤占编辑工作。"
+        },
+        {
+          "t": "p",
+          "x": "这些合同既约束创作者，也约束出版社自己。IFWG和IPI Comics将拒收由生成式AI制作或增强的文字和图像。它们还承诺，绝不会在知情的情况下把自己出版的作品提供给模型开发者或提供训练素材的中介机构。亨特曼说，创作者仍可使用辅助自身创作的常规工具。"
+        },
+        {
+          "t": "p",
+          "x": "Candlemark & Gleam要求作者证明自己没有用AI创作书稿。这家科幻与奇幻出版社在10月的一份声明中表示，它也不接受AI-generated（AI生成）的封面图。该社认为，可信的世界构建和作者独特的声音，是读者购买的内容的一部分。"
+        },
+        {
+          "t": "p",
+          "x": "这给编辑们留下了一个仅靠签好的合同无法回答的问题：如果怀疑作者违反了协议，什么才算证据？作家团体Authors Guild建议出版社与作者沟通。它警告说，检测工具可能误标人类写的文字，并表示出版社在把书稿上传到第三方服务进行检查之前，应先征得作者许可。"
+        }
+      ]
+    },
+    "books/nvidia-adobe-pirated-books": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://torrentfreak.com/images/matrix-fea.jpg"
+        },
+        {
+          "t": "p",
+          "x": "多位图书作者提交了修订后的诉状，指控NVIDIA从Anna's Archive和LibGen等影子图书馆下载盗版书籍后，通过BitTorrent做种传播。诉状还称，这家芯片巨头与Adobe等商业伙伴共享了盗版书籍。"
+        },
+        {
+          "t": "p",
+          "x": "Jon Tigar法官此前驳回了NVIDIA要求撤销BitTorrent相关指控的请求，并于周一依据NVIDIA在4月至7月间提交的文件，准许作者修改诉状。诉状称，NVIDIA使用了aria2c和put.io，虽然“采取了一些措施限制做种，但并未完全阻止做种”。"
+        },
+        {
+          "t": "img",
+          "src": "https://torrentfreak.com/images/nvidia-seeding.png",
+          "cap": "做种（Seeding）"
+        },
+        {
+          "t": "p",
+          "x": "作者们还指控NVIDIA通过一个涉及250M 页的“PDF Extraction Project”与Adobe共享盗版书籍，目的是“从PDFs中提取token，以打造差异化模型”。作为回报，Adobe承诺在部分产品中使用NVIDIA的语言模型。诉状还提到与Cohere和Imbue的合作；有关共享的指控是基于所掌握的信息和推断提出的。"
+        },
+        {
+          "t": "img",
+          "src": "https://torrentfreak.com/images/nvidia-uploading.png",
+          "cap": "上传（Uploading）"
+        },
+        {
+          "t": "p",
+          "x": "Tigar法官指出，出于商业目的传播作品可能影响NVIDIA的合理使用抗辩。NVIDIA须在12月前回应修订后的诉状。"
+        }
+      ]
     }
   }
 }

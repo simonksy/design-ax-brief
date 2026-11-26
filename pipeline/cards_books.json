@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "books",
   "cards": [
     {
-      "id": "nvidia-adobe-pirated-books",
-      "source_lang": "en",
+      "id": "booxen-korean-books-scan",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "NVIDIA, AI용\n해적판 책 시딩 의혹",
-      "body": "NVIDIA가 해적판을 BitTorrent로 시딩해 Adobe 등과 나눈 의혹이다.",
-      "mini_headline": "NVIDIA 해적판 시딩 의혹",
+      "headline": "한국어 책 41만 권\n앤트로픽 조달망으로",
+      "body": "한국어 책 41만 권이 앤트로픽 조달망을 거쳐 스캔 후 폐기됐다고 한다.",
+      "mini_headline": "한국어 책 41만 권 반출",
       "tool": "Books",
-      "source": "TorrentFreak",
-      "url": "https://torrentfreak.com/nvidia-seeded-pirated-books-and-shared-them-with-adobe-authors-allege/",
+      "source": "얼리어답터뉴스",
+      "url": "https://www.eanews.kr/news/1060714",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,395 +19,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://torrentfreak.com/images/matrix-fea.jpg"
+            "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
+            "cap": "AI 학습을 위해 한국어 책 수십만 권이 미국으로 반출됐지만, 학습 이용에 대한 권리 거래와 정당한 보상은 이뤄지지 않았다 <기사 이해를 돕기 위한 AI 생성 이미지, 미디어 울림>"
           },
           {
             "t": "p",
-            "x": "도서 저자들이 수정 소장에서 NVIDIA가 Anna's Archive와 LibGen 등 섀도 라이브러리에서 해적판 책을 내려받아 BitTorrent로 시딩했다고 주장했다. Adobe를 비롯한 사업 파트너와도 해적판 책을 나눴다는 것이다."
+            "x": "한국어 책 약 166톤이 미국으로 건너갔다. 미국 AI 기업 앤트로픽의 도서 조달에 관여한 유통망을 거쳐 2025년부터 올해 6월까지 반출된 물량으로, 30만~41만 권으로 추정된다. 권혁건 멘탯 CDO는 이데일리 기고에서 \"팔린 것은 종이책이다. 그러나 AI 학습에 책을 이용할 허락과 그 대가는 이 거래 어디에도 포함되지 않았다\"고 정리했다."
           },
           {
             "t": "p",
-            "x": "Jon Tigar 판사는 앞서 BitTorrent 주장을 기각해 달라는 NVIDIA의 요청을 물리쳤다. 월요일에는 NVIDIA가 4월부터 7월 사이 낸 문서를 근거로 저자들의 소장 수정도 허가했다. 소장에 따르면 NVIDIA는 aria2c와 put.io를 썼고 “시딩을 제한하려는 조치를 일부 취했지만 시딩을 완전히 막지는 않았다.”"
-          },
-          {
-            "t": "img",
-            "src": "https://torrentfreak.com/images/nvidia-seeding.png",
-            "cap": "시딩(Seeding)"
+            "x": "수출입 선적 기록으로 확인된 반출량은 165.69톤, 권당 400g으로 환산하면 약 41만 4,000권이다. 발송처는 국내 1위 도서도매유통사 웅진북센이고, 미국 유통업체 베터 월드 북스(Better World Books)를 거쳐 스캔 업체로 넘어가 낱장으로 잘린 뒤 디지털화되고 원본은 폐기되는 것으로 전해졌다. 2020년부터 2025년까지 6년간 국내 신간이 38만 3,792종이었으니 6~7년치 신간을 한 종당 한 권씩 사 간 것과 맞먹는다."
           },
           {
             "t": "p",
-            "x": "저자들은 NVIDIA가 250M 페이지 규모의 “PDF Extraction Project”로 해적판 책을 Adobe와 공유했다고도 주장한다. “PDFs에서 토큰을 뽑아 차별화된 모델을 만드는 것”이 목적이었다. 그 대가로 Adobe는 일부 제품에 NVIDIA 언어 모델을 쓰기로 약속했다. Cohere, Imbue와의 협력도 거론됐는데, 공유 주장은 정보와 믿음에 근거해 제기됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://torrentfreak.com/images/nvidia-uploading.png",
-            "cap": "업로드(Uploading)"
+            "x": "교보문고에는 해외 업체 약 10곳이 약 10만 종의 책을 한 권씩 사겠다고 문의했지만, 구매 목적과 납품처가 불분명해 납품을 거절했다. 한국출판인회의는 '책이 없으면 AI도 없다(No Books, No AI)'는 호소문을 냈고, 최휘영 문화체육관광부 장관은 \"현행법으로는 어떻게 할 수 있는 방법이 없다. 보완이 필요하다\"고 답했다."
           },
           {
             "t": "p",
-            "x": "Tigar 판사는 상업적 목적으로 저작물을 배포했다면 NVIDIA의 공정 이용 항변에 영향을 줄 수 있다고 짚었다. NVIDIA는 12월까지 수정 소장에 답해야 한다."
+            "x": "2025년 앤트로픽 사건 1심에서 미국 법원은 적법하게 구매한 책의 학습 활용을 공정이용으로 인정했지만, 미국 저작권청 보고서는 라이선스 시장이 있는 분야에선 무허락 이용을 공정이용으로 보기 어렵다는 취지다. 앤트로픽의 종당 약 3,000달러는 해적판 이용에 대한 합의금이지 라이선스의 값이 아니다. 권 CDO는 \"시장을 만드는 일이 곧 권리를 지키는 일\"이라며 권리 확인, 가격과 배분 기준, 계약 종료 후 규칙을 과제로 꼽았다."
+          },
+          {
+            "t": "p",
+            "x": "대한출판문화협회는 11월 AI 데이터 기업 5곳과 출판 데이터 공급 협약을 맺었고 AI 학습용 데이터 조항을 담은 표준계약서를 배포할 예정이다. 도서 라이선싱 기업 멘탯은 제휴 출판사 100곳, 확보 도서 4만 종 이상, 글로벌 빅테크와의 누적 계약 규모 약 150억 원 수준이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "NVIDIA accused of seeding\npirated books for AI",
-          "body": "An amended complaint says NVIDIA seeded pirated books via BitTorrent and shared them with partners including Adobe.",
-          "mini_headline": "NVIDIA accused of seeding books",
+        "ko": {
+          "headline": "한국어 책 41만 권\n앤트로픽 조달망으로",
+          "body": "한국어 책 41만 권이 앤트로픽 조달망을 거쳐 스캔 후 폐기됐다고 한다.",
+          "mini_headline": "한국어 책 41만 권 반출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://torrentfreak.com/images/matrix-fea.jpg"
+                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
+                "cap": "AI 학습을 위해 한국어 책 수십만 권이 미국으로 반출됐지만, 학습 이용에 대한 권리 거래와 정당한 보상은 이뤄지지 않았다 <기사 이해를 돕기 위한 AI 생성 이미지, 미디어 울림>"
               },
               {
                 "t": "p",
-                "x": "Several book authors have filed an amended complaint accusing NVIDIA of seeding pirated books via BitTorrent, after downloading them from shadow libraries including Anna's Archive and LibGen. The chip giant allegedly also shared pirated books with business partners, including Adobe."
+                "x": "한국어 책 약 166톤이 미국으로 건너갔다. 미국 AI 기업 앤트로픽의 도서 조달에 관여한 유통망을 거쳐 2025년부터 올해 6월까지 반출된 물량으로, 30만~41만 권으로 추정된다. 권혁건 멘탯 CDO는 이데일리 기고에서 \"팔린 것은 종이책이다. 그러나 AI 학습에 책을 이용할 허락과 그 대가는 이 거래 어디에도 포함되지 않았다\"고 정리했다."
               },
               {
                 "t": "p",
-                "x": "Judge Jon Tigar earlier denied NVIDIA's request to dismiss the BitTorrent allegations, and on Monday granted the authors permission to amend, based on documents NVIDIA produced between April and July. According to the complaint, NVIDIA used aria2c and put.io, and while it “took some steps to limit seeding, it did not prevent seeding altogether.”"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-seeding.png",
-                "cap": "Seeding"
+                "x": "수출입 선적 기록으로 확인된 반출량은 165.69톤, 권당 400g으로 환산하면 약 41만 4,000권이다. 발송처는 국내 1위 도서도매유통사 웅진북센이고, 미국 유통업체 베터 월드 북스(Better World Books)를 거쳐 스캔 업체로 넘어가 낱장으로 잘린 뒤 디지털화되고 원본은 폐기되는 것으로 전해졌다. 2020년부터 2025년까지 6년간 국내 신간이 38만 3,792종이었으니 6~7년치 신간을 한 종당 한 권씩 사 간 것과 맞먹는다."
               },
               {
                 "t": "p",
-                "x": "The authors also allege NVIDIA shared the pirated books with Adobe through a “PDF Extraction Project” involving 250 million pages, to “get tokens out of PDFs to create differentiated models.” In return, Adobe committed to using NVIDIA's language models in some of its products. Partnerships with Cohere and Imbue are also mentioned; the sharing claims are made on information and belief."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-uploading.png",
-                "cap": "Uploading"
+                "x": "교보문고에는 해외 업체 약 10곳이 약 10만 종의 책을 한 권씩 사겠다고 문의했지만, 구매 목적과 납품처가 불분명해 납품을 거절했다. 한국출판인회의는 '책이 없으면 AI도 없다(No Books, No AI)'는 호소문을 냈고, 최휘영 문화체육관광부 장관은 \"현행법으로는 어떻게 할 수 있는 방법이 없다. 보완이 필요하다\"고 답했다."
               },
               {
                 "t": "p",
-                "x": "Judge Tigar noted that distributing the works for commercial purposes could affect NVIDIA's fair use defense. NVIDIA's response to the amended complaint is due in December."
+                "x": "2025년 앤트로픽 사건 1심에서 미국 법원은 적법하게 구매한 책의 학습 활용을 공정이용으로 인정했지만, 미국 저작권청 보고서는 라이선스 시장이 있는 분야에선 무허락 이용을 공정이용으로 보기 어렵다는 취지다. 앤트로픽의 종당 약 3,000달러는 해적판 이용에 대한 합의금이지 라이선스의 값이 아니다. 권 CDO는 \"시장을 만드는 일이 곧 권리를 지키는 일\"이라며 권리 확인, 가격과 배분 기준, 계약 종료 후 규칙을 과제로 꼽았다."
+              },
+              {
+                "t": "p",
+                "x": "대한출판문화협회는 11월 AI 데이터 기업 5곳과 출판 데이터 공급 협약을 맺었고 AI 학습용 데이터 조항을 담은 표준계약서를 배포할 예정이다. 도서 라이선싱 기업 멘탯은 제휴 출판사 100곳, 확보 도서 4만 종 이상, 글로벌 빅테크와의 누적 계약 규모 약 150억 원 수준이다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "NVIDIA, AI용\n해적판 책 시딩 의혹",
-          "body": "NVIDIA가 해적판을 BitTorrent로 시딩해 Adobe 등과 나눈 의혹이다.",
-          "mini_headline": "NVIDIA 해적판 시딩 의혹",
+        "en": {
+          "headline": "410,000 Korean books moved\nthrough Anthropic's suppliers",
+          "body": "410,000 Korean books reportedly passed through Anthropic's supply chain and were scanned, then discarded.",
+          "mini_headline": "410,000 Korean books shipped out",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://torrentfreak.com/images/matrix-fea.jpg"
+                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
+                "cap": "Hundreds of thousands of Korean books were shipped to the U.S. for AI training, but no rights deal or fair compensation for training use took place <AI-generated image to aid understanding of the article, Media Ulim>"
               },
               {
                 "t": "p",
-                "x": "도서 저자들이 수정 소장에서 NVIDIA가 Anna's Archive와 LibGen 등 섀도 라이브러리에서 해적판 책을 내려받아 BitTorrent로 시딩했다고 주장했다. Adobe를 비롯한 사업 파트너와도 해적판 책을 나눴다는 것이다."
+                "x": "About 166 tonnes of Korean books went to the United States. The volume was shipped from 2025 through June this year via a distribution network involved in book procurement for the American AI company Anthropic, and is estimated at 300,000 to 410,000 books. Kwon Hyeok-geon, CDO of Mentat, summed it up in a column for Edaily: \"What was sold was paper books. But permission to use the books for AI training, and payment for it, were nowhere in this deal.\""
               },
               {
                 "t": "p",
-                "x": "Jon Tigar 판사는 앞서 BitTorrent 주장을 기각해 달라는 NVIDIA의 요청을 물리쳤다. 월요일에는 NVIDIA가 4월부터 7월 사이 낸 문서를 근거로 저자들의 소장 수정도 허가했다. 소장에 따르면 NVIDIA는 aria2c와 put.io를 썼고 “시딩을 제한하려는 조치를 일부 취했지만 시딩을 완전히 막지는 않았다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-seeding.png",
-                "cap": "시딩(Seeding)"
+                "x": "Export-import shipping records confirm 165.69 tonnes shipped; at 400g per book, that comes to about 414,000 books. The shipper was Woongjin Booxen, Korea's largest book wholesaler and distributor. The books reportedly went through the American distributor Better World Books to a scanning company, where they were cut into single pages and digitized, and the originals destroyed. Korea published 383,792 new titles over the six years from 2020 to 2025, so this equals buying one copy of every new title from six to seven years."
               },
               {
                 "t": "p",
-                "x": "저자들은 NVIDIA가 250M 페이지 규모의 “PDF Extraction Project”로 해적판 책을 Adobe와 공유했다고도 주장한다. “PDFs에서 토큰을 뽑아 차별화된 모델을 만드는 것”이 목적이었다. 그 대가로 Adobe는 일부 제품에 NVIDIA 언어 모델을 쓰기로 약속했다. Cohere, Imbue와의 협력도 거론됐는데, 공유 주장은 정보와 믿음에 근거해 제기됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-uploading.png",
-                "cap": "업로드(Uploading)"
+                "x": "Kyobo Book Centre received inquiries from about 10 overseas firms wanting to buy one copy each of about 100,000 titles, but declined to supply them because the purpose of the purchase and the final recipient were unclear. The Korean Publishers Society issued an appeal titled 'No Books, No AI', and Minister of Culture, Sports and Tourism Choi Hwi-young replied, \"There is no way to do anything under current law. It needs to be supplemented.\""
               },
               {
                 "t": "p",
-                "x": "Tigar 판사는 상업적 목적으로 저작물을 배포했다면 NVIDIA의 공정 이용 항변에 영향을 줄 수 있다고 짚었다. NVIDIA는 12월까지 수정 소장에 답해야 한다."
+                "x": "In the 2025 first-instance ruling in the Anthropic case, an American court accepted training on lawfully purchased books as fair use, but a report by the American Copyright Office holds that unauthorized use is hard to see as fair use in fields where a licensing market exists. Anthropic's roughly $3,000 per title is a settlement for using pirated copies, not the price of a license. CDO Kwon said \"building the market is itself protecting the rights,\" naming rights verification, standards for pricing and distribution, and rules after a contract ends as the tasks ahead."
+              },
+              {
+                "t": "p",
+                "x": "In November, the Korean Publishers Association signed publishing-data supply agreements with 5 AI data companies and plans to distribute a standard contract with clauses on AI training data. Book licensing company Mentat has 100 partner publishers, more than 40,000 titles secured, and cumulative contracts with global big tech worth about 15 billion won."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NVIDIA、AI向け\n海賊版書籍を拡散か",
-          "body": "NVIDIAがBitTorrentで海賊版をシードし、Adobeなどと共有したとの訴えだ。",
-          "mini_headline": "NVIDIA、海賊版拡散の疑い",
+          "headline": "韓国語の本41万冊\nAnthropic調達網経由",
+          "body": "韓国語の本41万冊がAnthropicの調達網を経てスキャン後に廃棄されたという。",
+          "mini_headline": "韓国語の本41万冊が流出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://torrentfreak.com/images/matrix-fea.jpg"
+                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
+                "cap": "AI学習のために韓国語の本数十万冊が米国へ持ち出されたが、学習利用に関する権利取引や正当な対価の支払いは行われなかった <記事の理解を助けるためのAI生成画像、メディア・ウルリム>"
               },
               {
                 "t": "p",
-                "x": "複数の書籍著者が修正訴状を提出し、NVIDIAがAnna's ArchiveやLibGenなどのシャドーライブラリーから海賊版書籍をダウンロードした後、BitTorrentでシードしたと訴えた。この半導体大手は、Adobeを含む事業パートナーとも海賊版書籍を共有していたとされる。"
+                "x": "約166トンの韓国語の本が米国へ渡った。米AI企業Anthropicの図書調達に関わった流通網を通じ、2025年から今年6月までに持ち出された量で、30万~41万冊と推定される。メンタットのクォン・ヒョクゴンCDOはイーデイリーへの寄稿で「売られたのは紙の本だ。しかし、AI学習に本を使う許可とその対価は、この取引のどこにも含まれていなかった」とまとめた。"
               },
               {
                 "t": "p",
-                "x": "Jon Tigar判事は先に、BitTorrentに関する主張の却下を求めるNVIDIAの申し立てを退けており、月曜日には、NVIDIAが4月から7月にかけて提出した文書に基づき、著者側に訴状の修正を認めた。訴状によると、NVIDIAはaria2cとput.ioを使用し、「シードを制限する措置を一部講じたものの、シードを完全には防がなかった」という。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-seeding.png",
-                "cap": "シード（Seeding）"
+                "x": "輸出入の船積み記録で確認された持ち出し量は165.69トンで、1冊400gで換算すると約41万4000冊になる。発送元は国内最大手の図書卸売業者ウンジン・ブックセンで、本は米国の流通業者ベター・ワールド・ブックス（Better World Books）を経てスキャン業者に渡り、1枚ずつ裁断されてデジタル化された後、原本は廃棄されると伝えられた。2020年から2025年までの6年間に国内で出た新刊は38万3792点で、6~7年分の新刊を1点につき1冊ずつ買っていったのに等しい。"
               },
               {
                 "t": "p",
-                "x": "著者側はさらに、NVIDIAが250M ページ規模の「PDF Extraction Project」を通じて海賊版書籍をAdobeと共有したと主張している。目的は「PDFsからトークンを取り出し、差別化されたモデルを作る」ことだったという。見返りとしてAdobeは、自社製品の一部でNVIDIAの言語モデルを使うことを約束した。CohereやImbueとの提携にも触れているが、共有に関する主張は入手情報と推認に基づくものだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-uploading.png",
-                "cap": "アップロード（Uploading）"
+                "x": "教保文庫には海外の業者約10社から約10万点の本を1冊ずつ買いたいとの問い合わせがあったが、購入目的と納品先が不明確だったため納品を断った。韓国出版人会議は「本がなければAIもない（No Books, No AI）」という訴えを出し、チェ・フィヨン文化体育観光部長官は「現行法ではどうする方法もない。補完が必要だ」と答えた。"
               },
               {
                 "t": "p",
-                "x": "Tigar判事は、商業目的での作品の配布がNVIDIAのフェアユースの抗弁に影響しうると指摘した。修正訴状に対するNVIDIAの回答期限は12月だ。"
+                "x": "2025年のAnthropic訴訟の一審で、米国の裁判所は適法に購入した本の学習利用をフェアユースと認めたが、米国著作権局の報告書は、ライセンス市場がある分野では無許諾の利用をフェアユースとみなすのは難しいという趣旨だ。Anthropicの1点あたり約3000ドルは海賊版利用に対する和解金であり、ライセンスの対価ではない。クォンCDOは「市場をつくることが、すなわち権利を守ることだ」として、権利の確認、価格と配分の基準、契約終了後のルールを課題に挙げた。"
+              },
+              {
+                "t": "p",
+                "x": "大韓出版文化協会は11月、AIデータ企業5社と出版データ供給の協定を結び、AI学習用データ条項を盛り込んだ標準契約書を配布する予定だ。図書ライセンシング企業のメンタットは、提携出版社100社、確保した図書4万点以上、グローバルビッグテックとの累計契約規模は約150億ウォンに上る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NVIDIA被指为AI\n散布盗版书籍",
-          "body": "修订后的诉状称，NVIDIA通过BitTorrent做种盗版书，并与Adobe等伙伴共享。",
-          "mini_headline": "NVIDIA被指做种盗版书",
+          "headline": "41万本韩语书籍\n流经Anthropic采购链",
+          "body": "据称，41万本韩语书籍经Anthropic采购渠道流出，扫描后被销毁。",
+          "mini_headline": "41万本韩语书籍外流",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://torrentfreak.com/images/matrix-fea.jpg"
+                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
+                "cap": "数十万本韩语书籍为AI训练被运往美国，但围绕训练使用的权利交易和正当补偿并未发生 <为帮助理解报道而使用的AI生成图片，Media Ulim>"
               },
               {
                 "t": "p",
-                "x": "多位图书作者提交了修订后的诉状，指控NVIDIA从Anna's Archive和LibGen等影子图书馆下载盗版书籍后，通过BitTorrent做种传播。诉状还称，这家芯片巨头与Adobe等商业伙伴共享了盗版书籍。"
+                "x": "约166吨韩语书籍运往了美国。这批书经由参与美国AI企业Anthropic图书采购的流通网络，于2025年至今年6月间运出，估计有30万至41万本。Mentat首席数据官（CDO）权赫建在为Edaily撰写的文章中总结道：“卖出去的是纸质书。但允许将书用于AI训练的许可及其对价，并不包含在这笔交易的任何地方。”"
               },
               {
                 "t": "p",
-                "x": "Jon Tigar法官此前驳回了NVIDIA要求撤销BitTorrent相关指控的请求，并于周一依据NVIDIA在4月至7月间提交的文件，准许作者修改诉状。诉状称，NVIDIA使用了aria2c和put.io，虽然“采取了一些措施限制做种，但并未完全阻止做种”。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-seeding.png",
-                "cap": "做种（Seeding）"
+                "x": "进出口装运记录确认的运出量为165.69吨，按每本400g换算约为41万4000本。发货方是韩国排名第一的图书批发流通商熊津Booxen，据悉书籍经美国流通商Better World Books转交给扫描公司，被切成单页后数字化，原书随后被销毁。2020年至2025年这6年间，韩国新书共38万3792种，相当于把6至7年的新书每种买走一本。"
               },
               {
                 "t": "p",
-                "x": "作者们还指控NVIDIA通过一个涉及250M 页的“PDF Extraction Project”与Adobe共享盗版书籍，目的是“从PDFs中提取token，以打造差异化模型”。作为回报，Adobe承诺在部分产品中使用NVIDIA的语言模型。诉状还提到与Cohere和Imbue的合作；有关共享的指控是基于所掌握的信息和推断提出的。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-uploading.png",
-                "cap": "上传（Uploading）"
+                "x": "教保文库曾收到约10家海外企业的询问，希望将约10万种书各买一本，但由于购买目的和交付对象不明确，教保文库拒绝供货。韩国出版人会议发表了题为“没有书就没有AI（No Books, No AI）”的呼吁书，文化体育观光部长官崔辉英回应称：“依现行法律没有任何办法，需要加以完善。”"
               },
               {
                 "t": "p",
-                "x": "Tigar法官指出，出于商业目的传播作品可能影响NVIDIA的合理使用抗辩。NVIDIA须在12月前回应修订后的诉状。"
+                "x": "在2025年Anthropic案的一审中，美国法院认定将合法购买的书籍用于训练属于合理使用，但美国版权局报告的意思是，在存在授权市场的领域，未经许可的使用难以被视为合理使用。Anthropic每种约3000美元是对使用盗版的和解金，而不是授权的价格。权CDO表示“建立市场就是守护权利”，并将权利确认、定价与分配标准、合同终止后的规则列为课题。"
+              },
+              {
+                "t": "p",
+                "x": "大韩出版文化协会于11月与5家AI数据企业签署了出版数据供应协议，并计划发布包含AI训练数据条款的标准合同。图书授权企业Mentat拥有合作出版社100家、已获取图书4万种以上，与全球科技巨头的累计合同规模约150亿韩元。"
               }
             ]
           }
         },
         "es": {
-          "headline": "NVIDIA, acusada de difundir\nlibros piratas para la IA",
-          "body": "Una demanda enmendada afirma que NVIDIA difundió libros piratas por BitTorrent y los compartió con socios como Adobe.",
-          "mini_headline": "Acusan a NVIDIA de difundir libros",
+          "headline": "410.000 libros coreanos, vía\nla red de compras de Anthropic",
+          "body": "Según se informa, 410.000 libros coreanos pasaron por la red de compras de Anthropic y se escanearon y destruyeron.",
+          "mini_headline": "410.000 libros coreanos al exterior",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://torrentfreak.com/images/matrix-fea.jpg"
+                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
+                "cap": "Cientos de miles de libros coreanos se enviaron a Estados Unidos para el entrenamiento de IA, pero no hubo acuerdo de derechos ni compensación justa por su uso en el entrenamiento <Imagen generada por IA para facilitar la comprensión del artículo, Media Ulim>"
               },
               {
                 "t": "p",
-                "x": "Varios autores de libros han presentado una demanda enmendada que acusa a NVIDIA de difundir libros piratas mediante BitTorrent, tras descargarlos de bibliotecas en la sombra como Anna's Archive y LibGen. Según la demanda, el gigante de los chips también compartió libros piratas con socios comerciales, entre ellos Adobe."
+                "x": "Unas 166 toneladas de libros coreanos viajaron a Estados Unidos. Es el volumen enviado entre 2025 y junio de este año a través de una red de distribución que participó en la adquisición de libros de la empresa estadounidense de IA Anthropic, y se estima en entre 300.000 y 410.000 ejemplares. Kwon Hyeok-geon, CDO de Mentat, lo resumió en una columna en Edaily: \"Lo que se vendió fueron libros en papel. Pero el permiso para usar los libros en el entrenamiento de IA y su contraprestación no figuraban en ninguna parte de esta transacción\"."
               },
               {
                 "t": "p",
-                "x": "El juez Jon Tigar ya había rechazado la petición de NVIDIA de desestimar las acusaciones sobre BitTorrent y el lunes autorizó a los autores a enmendar la demanda, a partir de documentos que NVIDIA entregó entre abril y julio. Según la demanda, NVIDIA usó aria2c y put.io y, aunque «tomó algunas medidas para limitar la siembra, no la impidió por completo»."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-seeding.png",
-                "cap": "Siembra (Seeding)"
+                "x": "Los registros de embarque de exportación e importación confirman 165,69 toneladas; a 400 g por libro, equivalen a unos 414.000 ejemplares. El remitente fue Woongjin Booxen, el mayor mayorista y distribuidor de libros del país, y según se informó los libros pasaron por la distribuidora estadounidense Better World Books hasta una empresa de escaneo, donde se cortaron en hojas sueltas y se digitalizaron, y los originales se destruyeron. Entre 2020 y 2025, en seis años, se publicaron en el país 383.792 títulos nuevos, por lo que equivale a comprar un ejemplar de cada novedad de seis a siete años."
               },
               {
                 "t": "p",
-                "x": "Los autores también alegan que NVIDIA compartió los libros piratas con Adobe mediante un «PDF Extraction Project» de 250 millones de páginas, para «extraer tokens de PDFs y crear modelos diferenciados». A cambio, Adobe se comprometió a usar los modelos de lenguaje de NVIDIA en algunos de sus productos. También se mencionan alianzas con Cohere e Imbue; las acusaciones sobre el intercambio se basan en información y convicción."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-uploading.png",
-                "cap": "Subida (Uploading)"
+                "x": "Kyobo Book Centre recibió consultas de unas 10 empresas extranjeras que querían comprar un ejemplar de cada uno de unos 100.000 títulos, pero rechazó el suministro porque el propósito de la compra y el destinatario no estaban claros. La Sociedad Coreana de Editores publicó el llamamiento 'Sin libros no hay IA (No Books, No AI)', y el ministro de Cultura, Deportes y Turismo, Choi Hwi-young, respondió: \"Con la ley vigente no hay forma de hacer nada. Hace falta complementarla\"."
               },
               {
                 "t": "p",
-                "x": "El juez Tigar señaló que distribuir las obras con fines comerciales podría afectar a la defensa de uso legítimo de NVIDIA. NVIDIA debe responder a la demanda enmendada en diciembre."
+                "x": "En el fallo de primera instancia del caso Anthropic de 2025, un tribunal estadounidense reconoció como uso legítimo el entrenamiento con libros comprados legalmente, pero un informe de la Oficina de Derechos de Autor estadounidense sostiene que, en ámbitos donde existe un mercado de licencias, es difícil considerar uso legítimo el uso sin permiso. Los cerca de 3.000 dólares por título de Anthropic son una indemnización por el uso de copias piratas, no el precio de una licencia. El CDO Kwon señaló que \"crear el mercado es en sí proteger los derechos\" y citó como tareas la verificación de derechos, los criterios de precio y reparto y las reglas tras el fin de los contratos."
+              },
+              {
+                "t": "p",
+                "x": "La Asociación de Editores de Corea firmó en noviembre acuerdos de suministro de datos editoriales con 5 empresas de datos de IA y prevé distribuir un contrato tipo con cláusulas sobre datos para entrenamiento de IA. La empresa de licencias de libros Mentat cuenta con 100 editoriales asociadas, más de 40.000 títulos y contratos acumulados con grandes tecnológicas globales por unos 15.000 millones de wones."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "NVIDIA, AI용\n해적판 책 시딩 의혹",
-          "body": "NVIDIA가 해적판을 BitTorrent로 시딩해 Adobe 등과 나눈 의혹이다.",
-          "mini_headline": "NVIDIA 해적판 시딩 의혹",
+        "en": {
+          "headline": "410,000 Korean books moved\nthrough Anthropic's suppliers",
+          "body": "410,000 Korean books reportedly passed through Anthropic's supply chain and were scanned, then discarded.",
+          "mini_headline": "410,000 Korean books shipped out",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://torrentfreak.com/images/matrix-fea.jpg"
+                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
+                "cap": "Hundreds of thousands of Korean books were shipped to the U.S. for AI training, but no rights deal or fair compensation for training use took place <AI-generated image to aid understanding of the article, Media Ulim>"
               },
               {
                 "t": "p",
-                "x": "여러 도서 저자가 수정 소장을 내고, NVIDIA가 Anna's Archive와 LibGen 등 섀도 라이브러리에서 해적판 책을 내려받은 뒤 BitTorrent로 시딩했다고 주장했다. 이 반도체 대기업은 Adobe를 비롯한 사업 파트너와도 해적판 책을 공유한 것으로 지목됐다."
+                "x": "About 166 tonnes of Korean books went to the United States. The volume was shipped from 2025 through June this year via a distribution network involved in book procurement for the American AI company Anthropic, and is estimated at 300,000 to 410,000 books. Kwon Hyeok-geon, CDO of Mentat, summed it up in a column for Edaily: \"What was sold was paper books. But permission to use the books for AI training, and payment for it, were nowhere in this deal.\""
               },
               {
                 "t": "p",
-                "x": "Jon Tigar 판사는 앞서 BitTorrent 관련 주장을 기각해 달라는 NVIDIA의 요청을 받아들이지 않았고, 월요일에는 NVIDIA가 4월부터 7월 사이 제출한 문서를 근거로 저자들의 소장 수정을 허가했다. 소장에 따르면 NVIDIA는 aria2c와 put.io를 썼으며 “시딩을 제한하려는 조치를 일부 취했지만 시딩을 완전히 막지는 않았다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-seeding.png",
-                "cap": "시딩(Seeding)"
+                "x": "Export-import shipping records confirm 165.69 tonnes shipped; at 400g per book, that comes to about 414,000 books. The shipper was Woongjin Booxen, Korea's largest book wholesaler and distributor. The books reportedly went through the American distributor Better World Books to a scanning company, where they were cut into single pages and digitized, and the originals destroyed. Korea published 383,792 new titles over the six years from 2020 to 2025, so this equals buying one copy of every new title from six to seven years."
               },
               {
                 "t": "p",
-                "x": "저자들은 또 NVIDIA가 250M 페이지 규모의 “PDF Extraction Project”를 통해 해적판 책을 Adobe와 공유했다고 주장한다. 목적은 “PDFs에서 토큰을 뽑아 차별화된 모델을 만드는 것”이었다. 그 대가로 Adobe는 일부 제품에 NVIDIA의 언어 모델을 쓰기로 약속했다. Cohere, Imbue와의 협력도 언급됐으며, 공유 관련 주장은 정보와 믿음에 근거해 제기됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-uploading.png",
-                "cap": "업로드(Uploading)"
+                "x": "Kyobo Book Centre received inquiries from about 10 overseas firms wanting to buy one copy each of about 100,000 titles, but declined to supply them because the purpose of the purchase and the final recipient were unclear. The Korean Publishers Society issued an appeal titled 'No Books, No AI', and Minister of Culture, Sports and Tourism Choi Hwi-young replied, \"There is no way to do anything under current law. It needs to be supplemented.\""
               },
               {
                 "t": "p",
-                "x": "Tigar 판사는 상업적 목적의 저작물 배포가 NVIDIA의 공정 이용 항변에 영향을 줄 수 있다고 지적했다. NVIDIA는 12월까지 수정 소장에 답변해야 한다."
+                "x": "In the 2025 first-instance ruling in the Anthropic case, an American court accepted training on lawfully purchased books as fair use, but a report by the American Copyright Office holds that unauthorized use is hard to see as fair use in fields where a licensing market exists. Anthropic's roughly $3,000 per title is a settlement for using pirated copies, not the price of a license. CDO Kwon said \"building the market is itself protecting the rights,\" naming rights verification, standards for pricing and distribution, and rules after a contract ends as the tasks ahead."
+              },
+              {
+                "t": "p",
+                "x": "In November, the Korean Publishers Association signed publishing-data supply agreements with 5 AI data companies and plans to distribute a standard contract with clauses on AI training data. Book licensing company Mentat has 100 partner publishers, more than 40,000 titles secured, and cumulative contracts with global big tech worth about 15 billion won."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NVIDIA、AI向け\n海賊版書籍を拡散か",
-          "body": "NVIDIAがBitTorrentで海賊版をシードし、Adobeなどと共有したとの訴えだ。",
-          "mini_headline": "NVIDIA、海賊版拡散の疑い",
+          "headline": "韓国語の本41万冊\nAnthropic調達網経由",
+          "body": "韓国語の本41万冊がAnthropicの調達網を経てスキャン後に廃棄されたという。",
+          "mini_headline": "韓国語の本41万冊が流出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://torrentfreak.com/images/matrix-fea.jpg"
+                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
+                "cap": "AI学習のために韓国語の本数十万冊が米国へ持ち出されたが、学習利用に関する権利取引や正当な対価の支払いは行われなかった <記事の理解を助けるためのAI生成画像、メディア・ウルリム>"
               },
               {
                 "t": "p",
-                "x": "複数の書籍著者が修正訴状を提出し、NVIDIAがAnna's ArchiveやLibGenなどのシャドーライブラリーから海賊版書籍をダウンロードした後、BitTorrentでシードしたと訴えた。この半導体大手は、Adobeを含む事業パートナーとも海賊版書籍を共有していたとされる。"
+                "x": "約166トンの韓国語の本が米国へ渡った。米AI企業Anthropicの図書調達に関わった流通網を通じ、2025年から今年6月までに持ち出された量で、30万~41万冊と推定される。メンタットのクォン・ヒョクゴンCDOはイーデイリーへの寄稿で「売られたのは紙の本だ。しかし、AI学習に本を使う許可とその対価は、この取引のどこにも含まれていなかった」とまとめた。"
               },
               {
                 "t": "p",
-                "x": "Jon Tigar判事は先に、BitTorrentに関する主張の却下を求めるNVIDIAの申し立てを退けており、月曜日には、NVIDIAが4月から7月にかけて提出した文書に基づき、著者側に訴状の修正を認めた。訴状によると、NVIDIAはaria2cとput.ioを使用し、「シードを制限する措置を一部講じたものの、シードを完全には防がなかった」という。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-seeding.png",
-                "cap": "シード（Seeding）"
+                "x": "輸出入の船積み記録で確認された持ち出し量は165.69トンで、1冊400gで換算すると約41万4000冊になる。発送元は国内最大手の図書卸売業者ウンジン・ブックセンで、本は米国の流通業者ベター・ワールド・ブックス（Better World Books）を経てスキャン業者に渡り、1枚ずつ裁断されてデジタル化された後、原本は廃棄されると伝えられた。2020年から2025年までの6年間に国内で出た新刊は38万3792点で、6~7年分の新刊を1点につき1冊ずつ買っていったのに等しい。"
               },
               {
                 "t": "p",
-                "x": "著者側はさらに、NVIDIAが250M ページ規模の「PDF Extraction Project」を通じて海賊版書籍をAdobeと共有したと主張している。目的は「PDFsからトークンを取り出し、差別化されたモデルを作る」ことだったという。見返りとしてAdobeは、自社製品の一部でNVIDIAの言語モデルを使うことを約束した。CohereやImbueとの提携にも触れているが、共有に関する主張は入手情報と推認に基づくものだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-uploading.png",
-                "cap": "アップロード（Uploading）"
+                "x": "教保文庫には海外の業者約10社から約10万点の本を1冊ずつ買いたいとの問い合わせがあったが、購入目的と納品先が不明確だったため納品を断った。韓国出版人会議は「本がなければAIもない（No Books, No AI）」という訴えを出し、チェ・フィヨン文化体育観光部長官は「現行法ではどうする方法もない。補完が必要だ」と答えた。"
               },
               {
                 "t": "p",
-                "x": "Tigar判事は、商業目的での作品の配布がNVIDIAのフェアユースの抗弁に影響しうると指摘した。修正訴状に対するNVIDIAの回答期限は12月だ。"
+                "x": "2025年のAnthropic訴訟の一審で、米国の裁判所は適法に購入した本の学習利用をフェアユースと認めたが、米国著作権局の報告書は、ライセンス市場がある分野では無許諾の利用をフェアユースとみなすのは難しいという趣旨だ。Anthropicの1点あたり約3000ドルは海賊版利用に対する和解金であり、ライセンスの対価ではない。クォンCDOは「市場をつくることが、すなわち権利を守ることだ」として、権利の確認、価格と配分の基準、契約終了後のルールを課題に挙げた。"
+              },
+              {
+                "t": "p",
+                "x": "大韓出版文化協会は11月、AIデータ企業5社と出版データ供給の協定を結び、AI学習用データ条項を盛り込んだ標準契約書を配布する予定だ。図書ライセンシング企業のメンタットは、提携出版社100社、確保した図書4万点以上、グローバルビッグテックとの累計契約規模は約150億ウォンに上る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NVIDIA被指为AI\n散布盗版书籍",
-          "body": "修订后的诉状称，NVIDIA通过BitTorrent做种盗版书，并与Adobe等伙伴共享。",
-          "mini_headline": "NVIDIA被指做种盗版书",
+          "headline": "41万本韩语书籍\n流经Anthropic采购链",
+          "body": "据称，41万本韩语书籍经Anthropic采购渠道流出，扫描后被销毁。",
+          "mini_headline": "41万本韩语书籍外流",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://torrentfreak.com/images/matrix-fea.jpg"
+                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
+                "cap": "数十万本韩语书籍为AI训练被运往美国，但围绕训练使用的权利交易和正当补偿并未发生 <为帮助理解报道而使用的AI生成图片，Media Ulim>"
               },
               {
                 "t": "p",
-                "x": "多位图书作者提交了修订后的诉状，指控NVIDIA从Anna's Archive和LibGen等影子图书馆下载盗版书籍后，通过BitTorrent做种传播。诉状还称，这家芯片巨头与Adobe等商业伙伴共享了盗版书籍。"
+                "x": "约166吨韩语书籍运往了美国。这批书经由参与美国AI企业Anthropic图书采购的流通网络，于2025年至今年6月间运出，估计有30万至41万本。Mentat首席数据官（CDO）权赫建在为Edaily撰写的文章中总结道：“卖出去的是纸质书。但允许将书用于AI训练的许可及其对价，并不包含在这笔交易的任何地方。”"
               },
               {
                 "t": "p",
-                "x": "Jon Tigar法官此前驳回了NVIDIA要求撤销BitTorrent相关指控的请求，并于周一依据NVIDIA在4月至7月间提交的文件，准许作者修改诉状。诉状称，NVIDIA使用了aria2c和put.io，虽然“采取了一些措施限制做种，但并未完全阻止做种”。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-seeding.png",
-                "cap": "做种（Seeding）"
+                "x": "进出口装运记录确认的运出量为165.69吨，按每本400g换算约为41万4000本。发货方是韩国排名第一的图书批发流通商熊津Booxen，据悉书籍经美国流通商Better World Books转交给扫描公司，被切成单页后数字化，原书随后被销毁。2020年至2025年这6年间，韩国新书共38万3792种，相当于把6至7年的新书每种买走一本。"
               },
               {
                 "t": "p",
-                "x": "作者们还指控NVIDIA通过一个涉及250M 页的“PDF Extraction Project”与Adobe共享盗版书籍，目的是“从PDFs中提取token，以打造差异化模型”。作为回报，Adobe承诺在部分产品中使用NVIDIA的语言模型。诉状还提到与Cohere和Imbue的合作；有关共享的指控是基于所掌握的信息和推断提出的。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-uploading.png",
-                "cap": "上传（Uploading）"
+                "x": "教保文库曾收到约10家海外企业的询问，希望将约10万种书各买一本，但由于购买目的和交付对象不明确，教保文库拒绝供货。韩国出版人会议发表了题为“没有书就没有AI（No Books, No AI）”的呼吁书，文化体育观光部长官崔辉英回应称：“依现行法律没有任何办法，需要加以完善。”"
               },
               {
                 "t": "p",
-                "x": "Tigar法官指出，出于商业目的传播作品可能影响NVIDIA的合理使用抗辩。NVIDIA须在12月前回应修订后的诉状。"
+                "x": "在2025年Anthropic案的一审中，美国法院认定将合法购买的书籍用于训练属于合理使用，但美国版权局报告的意思是，在存在授权市场的领域，未经许可的使用难以被视为合理使用。Anthropic每种约3000美元是对使用盗版的和解金，而不是授权的价格。权CDO表示“建立市场就是守护权利”，并将权利确认、定价与分配标准、合同终止后的规则列为课题。"
+              },
+              {
+                "t": "p",
+                "x": "大韩出版文化协会于11月与5家AI数据企业签署了出版数据供应协议，并计划发布包含AI训练数据条款的标准合同。图书授权企业Mentat拥有合作出版社100家、已获取图书4万种以上，与全球科技巨头的累计合同规模约150亿韩元。"
               }
             ]
           }
         },
         "es": {
-          "headline": "NVIDIA, acusada de difundir\nlibros piratas para la IA",
-          "body": "Una demanda enmendada afirma que NVIDIA difundió libros piratas por BitTorrent y los compartió con socios como Adobe.",
-          "mini_headline": "Acusan a NVIDIA de difundir libros",
+          "headline": "410.000 libros coreanos, vía\nla red de compras de Anthropic",
+          "body": "Según se informa, 410.000 libros coreanos pasaron por la red de compras de Anthropic y se escanearon y destruyeron.",
+          "mini_headline": "410.000 libros coreanos al exterior",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://torrentfreak.com/images/matrix-fea.jpg"
+                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
+                "cap": "Cientos de miles de libros coreanos se enviaron a Estados Unidos para el entrenamiento de IA, pero no hubo acuerdo de derechos ni compensación justa por su uso en el entrenamiento <Imagen generada por IA para facilitar la comprensión del artículo, Media Ulim>"
               },
               {
                 "t": "p",
-                "x": "Varios autores de libros han presentado una demanda enmendada que acusa a NVIDIA de difundir libros piratas mediante BitTorrent, tras descargarlos de bibliotecas en la sombra como Anna's Archive y LibGen. Según la demanda, el gigante de los chips también compartió libros piratas con socios comerciales, entre ellos Adobe."
+                "x": "Unas 166 toneladas de libros coreanos viajaron a Estados Unidos. Es el volumen enviado entre 2025 y junio de este año a través de una red de distribución que participó en la adquisición de libros de la empresa estadounidense de IA Anthropic, y se estima en entre 300.000 y 410.000 ejemplares. Kwon Hyeok-geon, CDO de Mentat, lo resumió en una columna en Edaily: \"Lo que se vendió fueron libros en papel. Pero el permiso para usar los libros en el entrenamiento de IA y su contraprestación no figuraban en ninguna parte de esta transacción\"."
               },
               {
                 "t": "p",
-                "x": "El juez Jon Tigar ya había rechazado la petición de NVIDIA de desestimar las acusaciones sobre BitTorrent y el lunes autorizó a los autores a enmendar la demanda, a partir de documentos que NVIDIA entregó entre abril y julio. Según la demanda, NVIDIA usó aria2c y put.io y, aunque «tomó algunas medidas para limitar la siembra, no la impidió por completo»."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-seeding.png",
-                "cap": "Siembra (Seeding)"
+                "x": "Los registros de embarque de exportación e importación confirman 165,69 toneladas; a 400 g por libro, equivalen a unos 414.000 ejemplares. El remitente fue Woongjin Booxen, el mayor mayorista y distribuidor de libros del país, y según se informó los libros pasaron por la distribuidora estadounidense Better World Books hasta una empresa de escaneo, donde se cortaron en hojas sueltas y se digitalizaron, y los originales se destruyeron. Entre 2020 y 2025, en seis años, se publicaron en el país 383.792 títulos nuevos, por lo que equivale a comprar un ejemplar de cada novedad de seis a siete años."
               },
               {
                 "t": "p",
-                "x": "Los autores también alegan que NVIDIA compartió los libros piratas con Adobe mediante un «PDF Extraction Project» de 250 millones de páginas, para «extraer tokens de PDFs y crear modelos diferenciados». A cambio, Adobe se comprometió a usar los modelos de lenguaje de NVIDIA en algunos de sus productos. También se mencionan alianzas con Cohere e Imbue; las acusaciones sobre el intercambio se basan en información y convicción."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/nvidia-uploading.png",
-                "cap": "Subida (Uploading)"
+                "x": "Kyobo Book Centre recibió consultas de unas 10 empresas extranjeras que querían comprar un ejemplar de cada uno de unos 100.000 títulos, pero rechazó el suministro porque el propósito de la compra y el destinatario no estaban claros. La Sociedad Coreana de Editores publicó el llamamiento 'Sin libros no hay IA (No Books, No AI)', y el ministro de Cultura, Deportes y Turismo, Choi Hwi-young, respondió: \"Con la ley vigente no hay forma de hacer nada. Hace falta complementarla\"."
               },
               {
                 "t": "p",
-                "x": "El juez Tigar señaló que distribuir las obras con fines comerciales podría afectar a la defensa de uso legítimo de NVIDIA. NVIDIA debe responder a la demanda enmendada en diciembre."
+                "x": "En el fallo de primera instancia del caso Anthropic de 2025, un tribunal estadounidense reconoció como uso legítimo el entrenamiento con libros comprados legalmente, pero un informe de la Oficina de Derechos de Autor estadounidense sostiene que, en ámbitos donde existe un mercado de licencias, es difícil considerar uso legítimo el uso sin permiso. Los cerca de 3.000 dólares por título de Anthropic son una indemnización por el uso de copias piratas, no el precio de una licencia. El CDO Kwon señaló que \"crear el mercado es en sí proteger los derechos\" y citó como tareas la verificación de derechos, los criterios de precio y reparto y las reglas tras el fin de los contratos."
+              },
+              {
+                "t": "p",
+                "x": "La Asociación de Editores de Corea firmó en noviembre acuerdos de suministro de datos editoriales con 5 empresas de datos de IA y prevé distribuir un contrato tipo con cláusulas sobre datos para entrenamiento de IA. La empresa de licencias de libros Mentat cuenta con 100 editoriales asociadas, más de 40.000 títulos y contratos acumulados con grandes tecnológicas globales por unos 15.000 millones de wones."
               }
             ]
           }
@@ -415,15 +365,15 @@
       }
     },
     {
-      "id": "soa-ai-charter-focus-group",
+      "id": "mertens-wild-horse-ai-denial",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Society of\nAuthors AI팀 꾸려",
-      "body": "Society of Authors가 헌장을 철회하고 AI 포커스 그룹을 꾸린다.",
-      "mini_headline": "SoA, AI 헌장 다시 쓴다",
+      "headline": "계약 끊긴 소설 작가\nAI 집필 의혹 부인",
+      "body": "머튼스는 초고와 손글씨 메모, 자료 조사로 직접 썼음을 증명할 수 있다고 했다.",
+      "mini_headline": "작가, AI 집필 의혹 부인",
       "tool": "Books",
       "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/news/society-of-authors-to-form-ai-focus-group-to-work-on-new-charter",
+      "url": "https://www.thebookseller.com/news/author-denies-allegations-she-used-ai-to-write-book-after-novel-dropped-by-agent",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -431,107 +381,125 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-            "cap": "Anna Ganley"
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
           },
           {
             "t": "p",
-            "x": "Society of Authors(SoA)가 AI 포커스 그룹을 꾸린다. 올해 초 내놓은 “Ethical AI Charter”(윤리적 AI 헌장)가 반발 끝에 철회되자 나온 조치다. 새 헌장 작업은 포커스 그룹이 맡는다."
+            "x": "작가 캐스린 오코너 머튼스(Kathryn O’Connor Mertens)가 소설 『Wild Horse Country』를 인공지능(AI)으로 썼다는 의혹을 부인하는 성명을 냈다. 초고와 손글씨 메모, 자료 조사 기록이 있으니 직접 썼다는 걸 보여줄 수 있다고 했다."
+          },
+          {
+            "t": "p",
+            "x": "성명은 그의 에이전트가 이 소설에서 손을 뗐다는 보도 뒤에 나왔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Society of Authors forms\nAI group for new charter",
-          "body": "The Society of Authors is forming an AI focus group to draft a new charter after its first one was retracted.",
-          "mini_headline": "SoA restarts its AI charter",
+          "headline": "Author denies using AI\nto write her dropped novel",
+          "body": "Kathryn O'Connor Mertens says drafts, handwritten notes and research prove she wrote Wild Horse Country herself.",
+          "mini_headline": "Author denies AI-written novel claim",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
               },
               {
                 "t": "p",
-                "x": "The Society of Authors (SoA) is forming an AI focus group following the launch earlier this year of an “Ethical AI Charter” that caused backlash and was subsequently retracted. The focus group will work on a new charter."
+                "x": "Author Kathryn O’Connor Mertens has issued a statement denying allegations that she used artificial intelligence (AI) to write her novel Wild Horse Country, saying she has drafts, handwritten notes and research to demonstrate that she wrote the book herself."
+              },
+              {
+                "t": "p",
+                "x": "The statement follows reports that the novel was dropped by her agent."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Society of\nAuthors AI팀 꾸려",
-          "body": "Society of Authors가 헌장을 철회하고 AI 포커스 그룹을 꾸린다.",
-          "mini_headline": "SoA, AI 헌장 다시 쓴다",
+          "headline": "계약 끊긴 소설 작가\nAI 집필 의혹 부인",
+          "body": "머튼스는 초고와 손글씨 메모, 자료 조사로 직접 썼음을 증명할 수 있다고 했다.",
+          "mini_headline": "작가, AI 집필 의혹 부인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
               },
               {
                 "t": "p",
-                "x": "Society of Authors(SoA)가 AI 포커스 그룹을 꾸린다. 올해 초 내놓은 “Ethical AI Charter”(윤리적 AI 헌장)가 반발 끝에 철회되자 나온 조치다. 새 헌장 작업은 포커스 그룹이 맡는다."
+                "x": "작가 캐스린 오코너 머튼스(Kathryn O’Connor Mertens)가 소설 『Wild Horse Country』를 인공지능(AI)으로 썼다는 의혹을 부인하는 성명을 냈다. 초고와 손글씨 메모, 자료 조사 기록이 있으니 직접 썼다는 걸 보여줄 수 있다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "성명은 그의 에이전트가 이 소설에서 손을 뗐다는 보도 뒤에 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Society of\nAuthors、AI部会",
-          "body": "Society of Authorsは最初の憲章撤回を受け、新憲章に向けAI部会を設ける。",
-          "mini_headline": "SoA、AI憲章を作り直す",
+          "headline": "作家がAI執筆疑惑を否定\n契約打ち切りの小説で",
+          "body": "マーテンズ氏は草稿や手書きメモ、調査資料で自ら書いたと証明できると述べた。",
+          "mini_headline": "作家がAI執筆疑惑を否定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
               },
               {
                 "t": "p",
-                "x": "Society of Authors（SoA）がAIフォーカスグループを立ち上げる。今年初めに公表した「Ethical AI Charter」が反発を招き、その後撤回されたことを受けたものだ。フォーカスグループは新たな憲章づくりに取り組む。"
+                "x": "作家のキャスリン・オコナー・マーテンズ（Kathryn O’Connor Mertens）は、小説『Wild Horse Country』の執筆に人工知能（AI）を使ったとの疑惑を否定する声明を出した。草稿や手書きのメモ、調査資料があり、自分で書いたことを示せるとしている。"
+              },
+              {
+                "t": "p",
+                "x": "声明は、この小説がエージェントに契約を打ち切られたとの報道を受けたものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Society of\nAuthors成立AI小组",
-          "body": "Society of Authors在首份章程撤回后，组建AI焦点小组起草新章程。",
-          "mini_headline": "SoA重启AI章程",
+          "headline": "作者否认用AI写成\n遭经纪人弃签的小说",
+          "body": "默滕斯表示，草稿、手写笔记和研究资料可证明这本书是她亲手所写。",
+          "mini_headline": "作者否认小说由AI写成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
               },
               {
                 "t": "p",
-                "x": "Society of Authors（SoA）正在组建AI焦点小组。此前，该协会今年早些时候推出的“Ethical AI Charter”（道德AI章程）引发反对，随后被撤回。焦点小组将着手制定新章程。"
+                "x": "作家凯瑟琳·奥康纳·默滕斯（Kathryn O’Connor Mertens）发表声明，否认使用人工智能（AI）创作小说《Wild Horse Country》，并表示她有草稿、手写笔记和研究资料，可以证明这本书是她自己写的。"
+              },
+              {
+                "t": "p",
+                "x": "此前有报道称，她的经纪人已放弃这部小说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La Society of Authors forma\nun grupo de IA para nueva carta",
-          "body": "La Society of Authors forma un grupo focal sobre IA para redactar una nueva carta tras retirar la primera.",
-          "mini_headline": "La SoA reinicia su carta de IA",
+          "headline": "Una autora niega haber usado IA\nen su novela descartada",
+          "body": "Kathryn O'Connor Mertens dice que borradores, notas a mano e investigación prueban su autoría de Wild Horse Country.",
+          "mini_headline": "Una autora niega una novela escrita con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
               },
               {
                 "t": "p",
-                "x": "La Society of Authors (SoA) está formando un grupo focal sobre IA tras lanzar a principios de este año una «Ethical AI Charter» que provocó rechazo y fue retirada después. El grupo focal trabajará en una nueva carta."
+                "x": "La autora Kathryn O’Connor Mertens emitió un comunicado en el que niega las acusaciones de haber usado inteligencia artificial (IA) para escribir su novela Wild Horse Country, y asegura que tiene borradores, notas manuscritas e investigación que demuestran que escribió el libro ella misma."
+              },
+              {
+                "t": "p",
+                "x": "El comunicado se produce tras informaciones según las cuales su agente abandonó la novela."
               }
             ]
           }
@@ -539,77 +507,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Society of\nAuthors AI팀 꾸려",
-          "body": "Society of Authors가 헌장 철회 뒤 AI 포커스 그룹을 꾸린다.",
-          "mini_headline": "SoA, AI 헌장 다시 쓴다",
+          "headline": "작가, 계약 끊긴 소설\nAI 집필 의혹 부인",
+          "body": "머튼스는 초고·손글씨 메모·자료 조사로 직접 썼음을 증명할 수 있다고 했다.",
+          "mini_headline": "작가, AI 집필 의혹 부인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
               },
               {
                 "t": "p",
-                "x": "Society of Authors(SoA)가 AI 포커스 그룹을 꾸린다. 올해 초 내놓은 “Ethical AI Charter”(윤리적 AI 헌장)가 반발을 사 결국 철회된 데 따른 것이다. 포커스 그룹은 새 헌장 작업을 맡는다."
+                "x": "작가 캐스린 오코너 머튼스(Kathryn O’Connor Mertens)가 소설 『Wild Horse Country』를 인공지능(AI)으로 썼다는 의혹을 부인하는 성명을 냈다. 그는 초고와 손글씨 메모, 자료 조사 기록이 있어 책을 직접 썼다는 사실을 보여줄 수 있다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "이 성명은 그의 에이전트가 이 소설에서 손을 뗐다는 보도가 나온 뒤에 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Society of\nAuthors、AI部会",
-          "body": "Society of Authorsは最初の憲章撤回を受け、新憲章に向けAI部会を設ける。",
-          "mini_headline": "SoA、AI憲章を作り直す",
+          "headline": "作家がAI執筆疑惑を否定\n契約打ち切りの小説で",
+          "body": "マーテンズ氏は草稿や手書きメモ、調査資料で自ら書いたと証明できると述べた。",
+          "mini_headline": "作家がAI執筆疑惑を否定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
               },
               {
                 "t": "p",
-                "x": "Society of Authors（SoA）がAIフォーカスグループを立ち上げる。今年初めに公表した「Ethical AI Charter」が反発を招き、その後撤回されたことを受けたものだ。フォーカスグループは新たな憲章づくりに取り組む。"
+                "x": "作家のキャスリン・オコナー・マーテンズ（Kathryn O’Connor Mertens）は、小説『Wild Horse Country』の執筆に人工知能（AI）を使ったとの疑惑を否定する声明を出した。草稿や手書きのメモ、調査資料があり、自分で書いたことを示せるとしている。"
+              },
+              {
+                "t": "p",
+                "x": "声明は、この小説がエージェントに契約を打ち切られたとの報道を受けたものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Society of\nAuthors成立AI小组",
-          "body": "Society of Authors在首份章程撤回后，组建AI焦点小组起草新章程。",
-          "mini_headline": "SoA重启AI章程",
+          "headline": "作者否认用AI写成\n遭经纪人弃签的小说",
+          "body": "默滕斯表示，草稿、手写笔记和研究资料可证明这本书是她亲手所写。",
+          "mini_headline": "作者否认小说由AI写成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
               },
               {
                 "t": "p",
-                "x": "Society of Authors（SoA）正在组建AI焦点小组。此前，该协会今年早些时候推出的“Ethical AI Charter”（道德AI章程）引发反对，随后被撤回。焦点小组将着手制定新章程。"
+                "x": "作家凯瑟琳·奥康纳·默滕斯（Kathryn O’Connor Mertens）发表声明，否认使用人工智能（AI）创作小说《Wild Horse Country》，并表示她有草稿、手写笔记和研究资料，可以证明这本书是她自己写的。"
+              },
+              {
+                "t": "p",
+                "x": "此前有报道称，她的经纪人已放弃这部小说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La Society of Authors forma\nun grupo de IA para nueva carta",
-          "body": "La Society of Authors forma un grupo focal sobre IA para redactar una nueva carta tras retirar la primera.",
-          "mini_headline": "La SoA reinicia su carta de IA",
+          "headline": "Una autora niega haber usado IA\nen su novela descartada",
+          "body": "Kathryn O'Connor Mertens dice que borradores, notas a mano e investigación prueban su autoría de Wild Horse Country.",
+          "mini_headline": "Una autora niega una novela escrita con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
               },
               {
                 "t": "p",
-                "x": "La Society of Authors (SoA) está formando un grupo focal sobre IA tras lanzar a principios de este año una «Ethical AI Charter» que provocó rechazo y fue retirada después. El grupo focal trabajará en una nueva carta."
+                "x": "La autora Kathryn O’Connor Mertens emitió un comunicado en el que niega las acusaciones de haber usado inteligencia artificial (IA) para escribir su novela Wild Horse Country, y asegura que tiene borradores, notas manuscritas e investigación que demuestran que escribió el libro ella misma."
+              },
+              {
+                "t": "p",
+                "x": "El comunicado se produce tras informaciones según las cuales su agente abandonó la novela."
               }
             ]
           }
@@ -617,15 +597,15 @@
       }
     },
     {
-      "id": "australia-ai-committee-optout",
-      "source_lang": "en",
+      "id": "belgium-sans-ia-label",
+      "source_lang": "fr",
       "eyebrow": "AI NEWS",
-      "headline": "호주 AI 보고서\nopt-out 여지 남겨",
-      "body": "호주 AI 위원회가 저작권 강화를 권고했지만 출판계 opt-out 우려는 여전하다.",
-      "mini_headline": "호주, AI opt-out 여지 남겨",
+      "headline": "벨기에 출판사들 추진\n“sans IA” 라벨",
+      "body": "벨기에 출판사들이 ‘sans IA’ 라벨과 자국 도서 가격 조정을 함께 검토한다.",
+      "mini_headline": "벨기에의 ‘sans IA’ 라벨",
       "tool": "Books",
-      "source": "Books+Publishing",
-      "url": "https://www.booksandpublishing.com.au/articles/2026/11/25/346273/not-a-win-but-it-is-not-a-dead-loss-industry-responds-to-joint-select-committee-on-ai-report/",
+      "source": "RTL Info",
+      "url": "https://www.rtl.be/actu/les-editeurs-belges-veulent-un-label-sans-ia-pour-rassurer-les-lecteurs/2026-11-26/article/807924",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -633,413 +613,204 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/10/APA-ASA-Hachette-and-authors-400x327.jpg",
-            "cap": "출판인과 작가들이 2026년 10월 Joint Select Committee on Artificial Intelligence에 출석했다."
+            "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
           },
           {
             "t": "p",
-            "x": "Joint Select Committee on Artificial Intelligence(인공지능 합동특별위원회)는 의회에 낸 보고서에서 정부에 저작권 체계를 강화하라고 권고했다. 그래도 업계 단체들은 라이선스에 “opt-out” 방식이 들어올 수 있다는 우려가 가시지 않았다고 말한다. Australian Publishers Association(APA) 정책 책임자 Stuart Glover가 보고서를 두고 Books+Publishing과 이야기했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Australia's AI report leaves\nbook opt-out door open",
-          "body": "Australia's AI committee urged stronger copyright, but publishers say it doesn't allay fears of a licensing opt-out.",
-          "mini_headline": "Australia leaves AI opt-out open",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/10/APA-ASA-Hachette-and-authors-400x327.jpg",
-                "cap": "Publishers and authors appeared before the Joint Select Committee on Artificial Intelligence in October 2026."
-              },
-              {
-                "t": "p",
-                "x": "In its report to parliament, the Joint Select Committee on Artificial Intelligence has recommended the government strengthen its copyright framework. However, industry organisations said the report does not allay their concerns about a possible “opt-out” approach to licensing. Australian Publishers Association (APA) head of policy Stuart Glover spoke to Books+Publishing about the report."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "호주 AI 보고서\nopt-out 여지 남겨",
-          "body": "호주 AI 위원회가 저작권 강화를 권고했지만 출판계 opt-out 우려는 여전하다.",
-          "mini_headline": "호주, AI opt-out 여지 남겨",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/10/APA-ASA-Hachette-and-authors-400x327.jpg",
-                "cap": "출판인과 작가들이 2026년 10월 Joint Select Committee on Artificial Intelligence에 출석했다."
-              },
-              {
-                "t": "p",
-                "x": "Joint Select Committee on Artificial Intelligence(인공지능 합동특별위원회)는 의회에 낸 보고서에서 정부에 저작권 체계를 강화하라고 권고했다. 그래도 업계 단체들은 라이선스에 “opt-out” 방식이 들어올 수 있다는 우려가 가시지 않았다고 말한다. Australian Publishers Association(APA) 정책 책임자 Stuart Glover가 보고서를 두고 Books+Publishing과 이야기했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "豪州のAI報告書\n書籍opt-outに余地",
-          "body": "豪州AI委員会は著作権強化を提言したが、出版界のopt-out懸念は消えていない。",
-          "mini_headline": "豪州、AIのopt-outに余地",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/10/APA-ASA-Hachette-and-authors-400x327.jpg",
-                "cap": "2026年10月、Joint Select Committee on Artificial Intelligenceに出席した出版社と著者たち。"
-              },
-              {
-                "t": "p",
-                "x": "Joint Select Committee on Artificial Intelligence（人工知能に関する合同特別委員会）は議会への報告書で、政府に著作権の枠組みを強化するよう勧告した。だが業界団体は、ライセンスをめぐる「opt-out」方式が採られる可能性への懸念は、この報告書では払拭されないと述べた。Australian Publishers Association（APA）の政策責任者Stuart Gloverが、この報告書についてBooks+Publishingに語った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "澳大利亚AI报告\n为图书opt-out留口子",
-          "body": "澳大利亚AI委员会建议加强版权，但出版界称这未能消除对许可opt-out的担忧。",
-          "mini_headline": "澳大利亚为AI opt-out留口子",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/10/APA-ASA-Hachette-and-authors-400x327.jpg",
-                "cap": "2026年10月，出版商和作者出席Joint Select Committee on Artificial Intelligence。"
-              },
-              {
-                "t": "p",
-                "x": "Joint Select Committee on Artificial Intelligence（人工智能联合特别委员会）在提交议会的报告中建议政府加强版权框架。不过，行业组织表示，该报告并未消除他们对许可可能采用“opt-out”方式的担忧。Australian Publishers Association（APA）政策主管Stuart Glover就该报告接受了Books+Publishing的采访。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Informe australiano sobre IA\ndeja abierto el opt-out",
-          "body": "El comité de IA de Australia pidió reforzar los derechos de autor, pero los editores temen un opt-out en licencias.",
-          "mini_headline": "Australia deja abierto el opt-out",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/10/APA-ASA-Hachette-and-authors-400x327.jpg",
-                "cap": "Editores y autores comparecieron ante el Joint Select Committee on Artificial Intelligence en octubre de 2026."
-              },
-              {
-                "t": "p",
-                "x": "En su informe al Parlamento, el Joint Select Committee on Artificial Intelligence recomendó al Gobierno reforzar su marco de derechos de autor. Sin embargo, las organizaciones del sector afirmaron que el informe no disipa su preocupación por un posible enfoque de «opt-out» en las licencias. Stuart Glover, responsable de políticas de la Australian Publishers Association (APA), habló con Books+Publishing sobre el informe."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "호주 AI 보고서,\nopt-out 여지 남겨",
-          "body": "호주 AI 위원회가 저작권 강화를 권했지만 출판계의 opt-out 우려는 남았다.",
-          "mini_headline": "호주, AI opt-out 여지 남겨",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/10/APA-ASA-Hachette-and-authors-400x327.jpg",
-                "cap": "출판인과 작가들이 2026년 10월 Joint Select Committee on Artificial Intelligence에 출석했다."
-              },
-              {
-                "t": "p",
-                "x": "Joint Select Committee on Artificial Intelligence(인공지능 합동특별위원회)는 의회에 낸 보고서에서 정부에 저작권 체계를 강화하라고 권고했다. 그러나 업계 단체들은 이 보고서가 라이선스에 “opt-out” 방식이 도입될 수 있다는 우려를 덜어주지 못한다고 밝혔다. Australian Publishers Association(APA)의 정책 책임자 Stuart Glover가 이 보고서에 관해 Books+Publishing과 이야기를 나눴다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "豪州のAI報告書\n書籍opt-outに余地",
-          "body": "豪州AI委員会は著作権強化を提言したが、出版界のopt-out懸念は消えていない。",
-          "mini_headline": "豪州、AIのopt-outに余地",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/10/APA-ASA-Hachette-and-authors-400x327.jpg",
-                "cap": "2026年10月、Joint Select Committee on Artificial Intelligenceに出席した出版社と著者たち。"
-              },
-              {
-                "t": "p",
-                "x": "Joint Select Committee on Artificial Intelligence（人工知能に関する合同特別委員会）は議会への報告書で、政府に著作権の枠組みを強化するよう勧告した。だが業界団体は、ライセンスをめぐる「opt-out」方式が採られる可能性への懸念は、この報告書では払拭されないと述べた。Australian Publishers Association（APA）の政策責任者Stuart Gloverが、この報告書についてBooks+Publishingに語った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "澳大利亚AI报告\n为图书opt-out留口子",
-          "body": "澳大利亚AI委员会建议加强版权，但出版界称这未能消除对许可opt-out的担忧。",
-          "mini_headline": "澳大利亚为AI opt-out留口子",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/10/APA-ASA-Hachette-and-authors-400x327.jpg",
-                "cap": "2026年10月，出版商和作者出席Joint Select Committee on Artificial Intelligence。"
-              },
-              {
-                "t": "p",
-                "x": "Joint Select Committee on Artificial Intelligence（人工智能联合特别委员会）在提交议会的报告中建议政府加强版权框架。不过，行业组织表示，该报告并未消除他们对许可可能采用“opt-out”方式的担忧。Australian Publishers Association（APA）政策主管Stuart Glover就该报告接受了Books+Publishing的采访。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Informe australiano sobre IA\ndeja abierto el opt-out",
-          "body": "El comité de IA de Australia pidió reforzar los derechos de autor, pero los editores temen un opt-out en licencias.",
-          "mini_headline": "Australia deja abierto el opt-out",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/10/APA-ASA-Hachette-and-authors-400x327.jpg",
-                "cap": "Editores y autores comparecieron ante el Joint Select Committee on Artificial Intelligence en octubre de 2026."
-              },
-              {
-                "t": "p",
-                "x": "En su informe al Parlamento, el Joint Select Committee on Artificial Intelligence recomendó al Gobierno reforzar su marco de derechos de autor. Sin embargo, las organizaciones del sector afirmaron que el informe no disipa su preocupación por un posible enfoque de «opt-out» en las licencias. Stuart Glover, responsable de políticas de la Australian Publishers Association (APA), habló con Books+Publishing sobre el informe."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "france-culture-ia-consultation",
-      "source_lang": "fr",
-      "eyebrow": "AI NEWS",
-      "headline": "문화산업, IA(인공지능)\n시민 의견 묻는다",
-      "body": "SNE 등 열한 단체가 1월 17일까지 Make.org에서 인공지능 의견을 듣는다.",
-      "mini_headline": "IA 시민 의견 수렴",
-      "tool": "Books",
-      "source": "ActuaLitté",
-      "url": "https://actualitte.com/article/135412/usages-numeriques/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://actualitte.com/uploads/images/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia-6b056b9ca678b284982426.jpg",
-            "cap": "파리(Paris)의 Anti-tech Résistance 포스터 (ActuaLitté, CC BY-SA 4.0)"
+            "x": "벨기에 출판사들이 인증 라벨과 벨기에 출간 도서의 가격 조정을 검토하고 있다. 책의 질을 지키고 AI(IA)를 더 잘 관리하려는 취지다."
           },
           {
             "t": "p",
-            "x": "2026년 11월 23일부터 2027년 1월 17일까지 출판인협회(Syndicat national de l’édition, SNE), 작가상설위원회(Conseil permanent des écrivains, CPE), Sofia 등 문화산업 직능 단체 열한 곳이 Make.org 플랫폼에서 인공지능(IA) 앞에 선 인간 창작의 미래를 두고 시민 의견을 묻는다."
+            "x": "프랑스어권 출판사들은 업계의 인공지능(IA) 도구 사용이 낳을 위험을 걱정한다. 그래서 독자가 읽는 책이 사람의 전문적인 작업에서 나왔다고 보장하는 라벨을 만들고 싶어 한다."
           },
           {
             "t": "p",
-            "x": "이번 의견 수렴에는 도서, 음악, 언론, 영화, 방송, 시각예술, 디지털 창작, 공연예술 단체가 함께한다. 인공지능 도구가 대부분 허락도 보상도 없이 만들어진 작품에 기댄다는 문제의식이 출발점이다."
+            "x": "벨기에출판인협회(ADEB)가 특히 걱정하는 건 저자가 AI로 출판사를 거치지 않고 책을 내는 자가출판이다. 협회 관계자들은 목요일 브뤼셀에서 전문 출판사가 보태는 가치를 강조했다. 글쓰기(맞춤법, 서사의 일관성 등)부터 책의 외관, 가격, 유통망 접근, 법적 보호까지다."
           },
           {
             "t": "p",
-            "x": "2026년 6월 Deezer에 매일 올라온 곡의 절반 이상은 전부 인공지능이 만든 곡이었다. CISAC에 따르면 2028년까지 음악 창작자 수입의 24%, 방송·영상 창작자 수입의 21%가 위협받는다. 영국(Royaume-Uni)에서는 2025년 Cambridge 대학 조사에서 소설가의 39%가 인공지능 때문에 이미 수입이 줄었다고 답했다."
-          },
-          {
-            "t": "p",
-            "x": "인간의 작품은 어떻게 가려낼 수 있을까? 저작권과 저작인접권은 어떻게 지킬 것인가? 이번 의견 수렴은 사회가 무엇을 기대하는지 객관적으로 드러내 공공기관과의 논의에 보태려는 것이다."
+            "x": "ADEB는 회원사들에 PILEn이 발표한 ‘도서 분야의 책임 있는 AI 이용을 위한 헌장’을 지키라고 권한다. 출판사들도 ‘sans IA’ 라벨이 쉽지 않다는 걸 안다. 라벨을 받으면서 지게 되는 의무를 지켰는지 확인하기가 특히 까다롭다. 협회가 펴낸 연구는 회원사들의 판매가 책정도 도울 예정이다. 판매가는 흔히 그보다 낮은 프랑스 출간 도서 가격에 맞춰 정해진다."
           }
         ]
       },
       "text": {
         "_src": {
-          "headline": "Les industries culturelles\nconsultent le public sur l'IA",
-          "body": "Onze acteurs culturels, dont le SNE, ouvrent sur Make.org une consultation citoyenne sur l'IA jusqu'au 17 janvier.",
-          "mini_headline": "Consultation citoyenne sur l'IA",
+          "headline": "Les éditeurs belges veulent\nun label « sans IA »",
+          "body": "Les éditeurs belges envisagent un label « sans IA » et un ajustement du prix des livres publiés en Belgique.",
+          "mini_headline": "Un label « sans IA » en Belgique",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://actualitte.com/uploads/images/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia-6b056b9ca678b284982426.jpg",
-                "cap": "À Paris, affiche Anti-tech Résistance (ActuaLitté, CC BY-SA 4.0)"
+                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
               },
               {
                 "t": "p",
-                "x": "Du 23 novembre 2026 au 17 janvier 2027, onze organisations professionnelles des industries culturelles, dont le Syndicat national de l’édition (SNE), le Conseil permanent des écrivains (CPE) et la Sofia, invitent les citoyens à s’exprimer sur l’avenir de la création humaine face à l’intelligence artificielle, sur la plateforme Make.org."
+                "x": "Pour protéger la qualité des livres et mieux encadrer l’IA, les éditeurs belges réfléchissent à un label de certification et à un ajustement du prix des ouvrages publiés en Belgique."
               },
               {
                 "t": "p",
-                "x": "Portée par les organisations du livre, de la musique, de la presse, du cinéma, de l’audiovisuel, des arts visuels, de la création numérique et du spectacle vivant, la consultation part d’un constat : les outils d’IA s’appuient sur des œuvres créées la plupart du temps sans autorisation et sans rémunération."
+                "x": "Préoccupés par les dangers de l’utilisation des instruments d’intelligence artificielle (IA) dans leur secteur, les éditeurs francophones souhaitent la création d’un label qui permettrait de garantir au lecteur que l’ouvrage qu’il lit résulte bien d’un travail professionnel effectué par un être humain."
               },
               {
                 "t": "p",
-                "x": "En juin 2026, plus de la moitié des titres déposés chaque jour sur Deezer étaient entièrement générés par une IA. Selon la CISAC, 24 % des revenus des créateurs de musique et 21 % de ceux de l’audiovisuel sont menacés d’ici 2028. Au Royaume-Uni, 39 % des romanciers interrogés par l’université de Cambridge en 2025 disent que l’IA a déjà fait baisser leurs revenus."
+                "x": "L’Association des éditeurs belges (ADEB) est particulièrement préoccupée par le phénomène de l’autopublication, qui permet à des auteurs, grâce à l’IA, de publier sans faire appel à un éditeur. Ses responsables ont insisté jeudi à Bruxelles sur la valeur ajoutée des éditeurs professionnels, de l’écriture (orthographe, cohérence du récit...) à l’aspect du livre, son prix, son accès aux circuits commerciaux et sa protection juridique."
               },
               {
                 "t": "p",
-                "x": "Comment reconnaître une œuvre humaine ? Comment garantir le respect des droits d’auteur et des droits voisins ? La consultation doit objectiver les attentes de la société et nourrir la discussion auprès des pouvoirs publics."
+                "x": "L’ADEB engage ses membres à respecter la Charte pour une utilisation responsable de l’IA dans le secteur du livre, publiée par le PILEn. Les éditeurs n’ignorent toutefois pas les difficultés d’un label «sans IA», surtout en matière de contrôle des obligations liées à son obtention. Une étude publiée par l’association doit aussi aider ses membres à établir le prix de vente, souvent calqué sur celui, moins élevé, des ouvrages publiés en France."
               }
             ]
           },
           "lang": "fr"
         },
         "en": {
-          "headline": "Cultural industries consult\nthe public on AI (IA)",
-          "body": "Eleven cultural groups, including the SNE, open a citizen consultation on AI (IA) on Make.org until January 17.",
-          "mini_headline": "Citizen consultation on AI (IA)",
+          "headline": "Belgian publishers want\na \"sans IA\" label",
+          "body": "Belgian publishers are considering a \"sans IA\" (AI-free) label and a price adjustment for books published in Belgium.",
+          "mini_headline": "A \"sans IA\" label in Belgium",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://actualitte.com/uploads/images/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia-6b056b9ca678b284982426.jpg",
-                "cap": "In Paris, an Anti-tech Résistance poster (ActuaLitté, CC BY-SA 4.0)"
+                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
               },
               {
                 "t": "p",
-                "x": "From November 23, 2026 to January 17, 2027, eleven professional organizations from the cultural industries, including the Syndicat national de l’édition (SNE), the Conseil permanent des écrivains (CPE) and the Sofia, are inviting citizens to share their views on the future of human creation in the face of artificial intelligence (IA), on the Make.org platform."
+                "x": "To protect the quality of books and better regulate AI (IA), Belgian publishers are considering a certification label and an adjustment to the price of books published in Belgium."
               },
               {
                 "t": "p",
-                "x": "Backed by organizations from books, music, the press, cinema, audiovisual, the visual arts, digital creation and the performing arts, the consultation starts from one observation: AI tools rely on works created, most of the time, without authorization and without payment."
+                "x": "Concerned about the dangers of using artificial intelligence (IA) tools in their sector, French-speaking publishers want a label to be created that would guarantee readers that the book they are reading is indeed the result of professional work carried out by a human being."
               },
               {
                 "t": "p",
-                "x": "In June 2026, more than half of the tracks uploaded each day to Deezer were entirely generated by AI. According to the CISAC, 24% of music creators’ income and 21% of audiovisual creators’ income are at risk by 2028. In the United Kingdom (Royaume-Uni), 39% of novelists surveyed by the University of Cambridge in 2025 say AI has already reduced their income."
+                "x": "The Association of Belgian Publishers (ADEB) is particularly concerned about self-publishing, which allows authors, thanks to AI, to publish without going through a publisher. On Thursday in Brussels, its leaders stressed the added value of professional publishers, from the writing (spelling, consistency of the story...) to the look of the book, its price, its access to commercial channels and its legal protection."
               },
               {
                 "t": "p",
-                "x": "How can a human work be recognized? How can copyright and neighboring rights be guaranteed? The consultation aims to give an objective picture of society’s expectations and to feed the discussion with public authorities."
+                "x": "ADEB urges its members to follow the Charter for the responsible use of AI in the book sector, published by PILEn. Publishers are nonetheless aware of the difficulties of a \"sans IA\" label, especially in checking the obligations tied to obtaining it. A study published by the association should also help its members set retail prices, which are often modeled on the lower prices of books published in France."
               }
             ]
           }
         },
         "ko": {
-          "headline": "문화산업, IA(인공지능)\n시민 의견 묻는다",
-          "body": "SNE 등 열한 단체가 1월 17일까지 Make.org에서 인공지능 의견을 듣는다.",
-          "mini_headline": "IA 시민 의견 수렴",
+          "headline": "벨기에 출판사들 추진\n“sans IA” 라벨",
+          "body": "벨기에 출판사들이 ‘sans IA’ 라벨과 자국 도서 가격 조정을 함께 검토한다.",
+          "mini_headline": "벨기에의 ‘sans IA’ 라벨",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://actualitte.com/uploads/images/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia-6b056b9ca678b284982426.jpg",
-                "cap": "파리(Paris)의 Anti-tech Résistance 포스터 (ActuaLitté, CC BY-SA 4.0)"
+                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
               },
               {
                 "t": "p",
-                "x": "2026년 11월 23일부터 2027년 1월 17일까지 출판인협회(Syndicat national de l’édition, SNE), 작가상설위원회(Conseil permanent des écrivains, CPE), Sofia 등 문화산업 직능 단체 열한 곳이 Make.org 플랫폼에서 인공지능(IA) 앞에 선 인간 창작의 미래를 두고 시민 의견을 묻는다."
+                "x": "벨기에 출판사들이 인증 라벨과 벨기에 출간 도서의 가격 조정을 검토하고 있다. 책의 질을 지키고 AI(IA)를 더 잘 관리하려는 취지다."
               },
               {
                 "t": "p",
-                "x": "이번 의견 수렴에는 도서, 음악, 언론, 영화, 방송, 시각예술, 디지털 창작, 공연예술 단체가 함께한다. 인공지능 도구가 대부분 허락도 보상도 없이 만들어진 작품에 기댄다는 문제의식이 출발점이다."
+                "x": "프랑스어권 출판사들은 업계의 인공지능(IA) 도구 사용이 낳을 위험을 걱정한다. 그래서 독자가 읽는 책이 사람의 전문적인 작업에서 나왔다고 보장하는 라벨을 만들고 싶어 한다."
               },
               {
                 "t": "p",
-                "x": "2026년 6월 Deezer에 매일 올라온 곡의 절반 이상은 전부 인공지능이 만든 곡이었다. CISAC에 따르면 2028년까지 음악 창작자 수입의 24%, 방송·영상 창작자 수입의 21%가 위협받는다. 영국(Royaume-Uni)에서는 2025년 Cambridge 대학 조사에서 소설가의 39%가 인공지능 때문에 이미 수입이 줄었다고 답했다."
+                "x": "벨기에출판인협회(ADEB)가 특히 걱정하는 건 저자가 AI로 출판사를 거치지 않고 책을 내는 자가출판이다. 협회 관계자들은 목요일 브뤼셀에서 전문 출판사가 보태는 가치를 강조했다. 글쓰기(맞춤법, 서사의 일관성 등)부터 책의 외관, 가격, 유통망 접근, 법적 보호까지다."
               },
               {
                 "t": "p",
-                "x": "인간의 작품은 어떻게 가려낼 수 있을까? 저작권과 저작인접권은 어떻게 지킬 것인가? 이번 의견 수렴은 사회가 무엇을 기대하는지 객관적으로 드러내 공공기관과의 논의에 보태려는 것이다."
+                "x": "ADEB는 회원사들에 PILEn이 발표한 ‘도서 분야의 책임 있는 AI 이용을 위한 헌장’을 지키라고 권한다. 출판사들도 ‘sans IA’ 라벨이 쉽지 않다는 걸 안다. 라벨을 받으면서 지게 되는 의무를 지켰는지 확인하기가 특히 까다롭다. 협회가 펴낸 연구는 회원사들의 판매가 책정도 도울 예정이다. 판매가는 흔히 그보다 낮은 프랑스 출간 도서 가격에 맞춰 정해진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "文化産業界が\nIA（人工知能）で意見募集",
-          "body": "SNEなど十一の文化団体が1月17日までMake.orgで人工知能の市民協議を開く。",
-          "mini_headline": "IAをめぐる市民協議",
+          "headline": "ベルギー出版界が\n「sans IA」ラベル検討",
+          "body": "ベルギーの出版社が「sans IA」ラベルと国内刊行本の価格調整を検討している。",
+          "mini_headline": "ベルギーで「sans IA」ラベル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://actualitte.com/uploads/images/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia-6b056b9ca678b284982426.jpg",
-                "cap": "パリ（Paris）のAnti-tech Résistanceのポスター（ActuaLitté, CC BY-SA 4.0）"
+                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
               },
               {
                 "t": "p",
-                "x": "2026年11月23日から2027年1月17日まで、出版協会（Syndicat national de l’édition, SNE）、作家常設評議会（Conseil permanent des écrivains, CPE）、Sofiaなど文化産業の職能団体十一団体が、Make.orgのプラットフォーム上で、人工知能（IA）を前にした人間の創作の未来について市民に意見を求める。"
+                "x": "本の質を守り、AI（IA）をより適切に管理するため、ベルギーの出版社は認証ラベルと、ベルギーで刊行される本の価格調整を検討している。"
               },
               {
                 "t": "p",
-                "x": "書籍、音楽、報道、映画、放送・映像、視覚芸術、デジタル創作、舞台芸術の団体が担うこの協議は、人工知能のツールが多くの場合、許可も対価もなく作られた作品に依拠しているという認識から出発している。"
+                "x": "業界で人工知能（IA）ツールを使うことの危険を懸念するフランス語圏の出版社は、読者が読んでいる本が人間による専門的な仕事の成果であることを保証するラベルの創設を望んでいる。"
               },
               {
                 "t": "p",
-                "x": "2026年6月には、Deezerに毎日投稿される楽曲の半数以上が完全に人工知能で生成されたものだった。CISACによれば、2028年までに音楽クリエイターの収入の24%、放送・映像クリエイターの収入の21%が脅かされる。英国（Royaume-Uni）では、2025年にCambridge大学が調査した小説家の39%が、人工知能によってすでに収入が減ったと答えている。"
+                "x": "ベルギー出版社協会（ADEB）は、AIを使えば著者が出版社を通さずに本を出せる自費出版の広がりを特に懸念している。協会の幹部は木曜日、ブリュッセルで、執筆（綴り、物語の一貫性など）から本の体裁、価格、流通網へのアクセス、法的保護に至るまで、プロの出版社がもたらす付加価値を強調した。"
               },
               {
                 "t": "p",
-                "x": "人間の作品をどう見分けるのか。著作権と著作隣接権の尊重をどう保証するのか。この協議は社会の期待を客観的に示し、公的機関との議論に役立てることを目指している。"
+                "x": "ADEBは会員に対し、PILEnが公表した「書籍分野におけるAIの責任ある利用のための憲章」を守るよう求めている。ただし出版社側も、「sans IA」ラベルの難しさ、とりわけ取得に伴う義務を確認することの難しさを承知している。協会が公表した調査は、会員が販売価格を決める助けにもなる見込みだ。販売価格は、より安いフランスで刊行された本の価格に合わせられることが多い。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "文化产业就IA（人工智能）\n向公众征求意见",
-          "body": "SNE等十一家文化机构在Make.org发起人工智能公众咨询，至1月17日截止。",
-          "mini_headline": "IA公众咨询",
+          "headline": "比利时出版商希望推出\n“sans IA”标签",
+          "body": "比利时出版商正考虑推出“sans IA”标签，并调整本国出版图书的价格。",
+          "mini_headline": "比利时拟推“sans IA”标签",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://actualitte.com/uploads/images/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia-6b056b9ca678b284982426.jpg",
-                "cap": "巴黎（Paris）街头的Anti-tech Résistance海报（ActuaLitté, CC BY-SA 4.0）"
+                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
               },
               {
                 "t": "p",
-                "x": "2026年11月23日至2027年1月17日，包括法国出版商协会（Syndicat national de l’édition, SNE）、作家常设委员会（Conseil permanent des écrivains, CPE）和Sofia在内的十一家文化产业专业组织，邀请公众在Make.org平台上就人工智能（IA）冲击下人类创作的未来发表意见。"
+                "x": "为保护图书质量并更好地规范AI（IA），比利时出版商正在考虑推出一种认证标签，并调整在比利时出版的图书价格。"
               },
               {
                 "t": "p",
-                "x": "这次咨询由图书、音乐、新闻、电影、视听、视觉艺术、数字创作和现场演出领域的组织共同发起，其出发点是：人工智能工具所依赖的作品，大多是在未经授权、未付报酬的情况下被使用的。"
+                "x": "法语区出版商担忧在本行业使用人工智能（IA）工具的风险，希望设立一种标签，向读者保证他们所读的书确实出自人类完成的专业工作。"
               },
               {
                 "t": "p",
-                "x": "2026年6月，Deezer每天上传的曲目中有一半以上完全由人工智能生成。据CISAC统计，到2028年，音乐创作者24%的收入和视听创作者21%的收入将受到威胁。在英国（Royaume-Uni），Cambridge大学2025年调查的小说家中有39%表示，人工智能已使他们的收入下降。"
+                "x": "比利时出版商协会（ADEB）尤其担忧自助出版现象：借助AI，作者无需出版商即可出书。协会负责人周四在布鲁塞尔强调了专业出版商的附加价值，涵盖从写作（拼写、叙事连贯性……）到图书外观、价格、进入商业渠道以及法律保护等方面。"
               },
               {
                 "t": "p",
-                "x": "如何识别人类创作的作品？如何保障著作权和邻接权得到尊重？这次咨询旨在客观呈现社会的期待，并为与公共部门的讨论提供依据。"
+                "x": "ADEB敦促会员遵守PILEn发布的《图书行业负责任使用AI宪章》。不过，出版商也清楚“sans IA”标签面临的困难，尤其是在核查获得该标签所需履行的义务方面。该协会发布的一项研究还将帮助会员确定售价，而售价往往参照价格较低的法国出版图书。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las industrias culturales\nconsultan al público sobre la IA",
-          "body": "Once actores culturales, entre ellos el SNE, abren en Make.org una consulta ciudadana sobre la IA hasta el 17 de enero.",
-          "mini_headline": "Consulta ciudadana sobre la IA",
+          "headline": "Los editores belgas quieren\nun sello «sin IA»",
+          "body": "Los editores belgas estudian un sello «sin IA» y un ajuste del precio de los libros publicados en Bélgica.",
+          "mini_headline": "Un sello «sin IA» en Bélgica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://actualitte.com/uploads/images/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia-6b056b9ca678b284982426.jpg",
-                "cap": "En Paris, cartel de Anti-tech Résistance (ActuaLitté, CC BY-SA 4.0)"
+                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
               },
               {
                 "t": "p",
-                "x": "Del 23 de noviembre de 2026 al 17 de enero de 2027, once organizaciones profesionales de las industrias culturales, entre ellas el Syndicat national de l’édition (SNE), el Conseil permanent des écrivains (CPE) y la Sofia, invitan a los ciudadanos a opinar sobre el futuro de la creación humana frente a la inteligencia artificial, en la plataforma Make.org."
+                "x": "Para proteger la calidad de los libros y regular mejor la IA, los editores belgas estudian un sello de certificación y un ajuste del precio de las obras publicadas en Bélgica."
               },
               {
                 "t": "p",
-                "x": "Impulsada por organizaciones del libro, la música, la prensa, el cine, el audiovisual, las artes visuales, la creación digital y las artes escénicas, la consulta parte de una constatación: las herramientas de IA se apoyan en obras creadas, la mayoría de las veces, sin autorización y sin remuneración."
+                "x": "Preocupados por los peligros del uso de herramientas de inteligencia artificial (IA) en su sector, los editores francófonos desean la creación de un sello que garantice al lector que la obra que lee es realmente fruto de un trabajo profesional realizado por un ser humano."
               },
               {
                 "t": "p",
-                "x": "En junio de 2026, más de la mitad de los temas subidos cada día a Deezer estaban generados íntegramente por una IA. Según la CISAC, el 24% de los ingresos de los creadores de música y el 21% de los del audiovisual están amenazados de aquí a 2028. En el Reino Unido (Royaume-Uni), el 39% de los novelistas encuestados por la Universidad de Cambridge en 2025 afirma que la IA ya ha reducido sus ingresos."
+                "x": "La Asociación de Editores Belgas (ADEB) está especialmente preocupada por el fenómeno de la autoedición, que permite a los autores, gracias a la IA, publicar sin recurrir a un editor. Sus responsables insistieron el jueves en Bruselas en el valor añadido de los editores profesionales, desde la escritura (ortografía, coherencia del relato...) hasta el aspecto del libro, su precio, su acceso a los circuitos comerciales y su protección jurídica."
               },
               {
                 "t": "p",
-                "x": "¿Cómo reconocer una obra humana? ¿Cómo garantizar el respeto de los derechos de autor y de los derechos conexos? La consulta busca objetivar las expectativas de la sociedad y alimentar el debate con los poderes públicos."
+                "x": "La ADEB insta a sus miembros a respetar la Carta para un uso responsable de la IA en el sector del libro, publicada por el PILEn. Sin embargo, los editores no ignoran las dificultades de un sello «sin IA», sobre todo en el control de las obligaciones ligadas a su obtención. Un estudio publicado por la asociación también debe ayudar a sus miembros a fijar el precio de venta, a menudo calcado del de las obras publicadas en Francia, más bajo."
               }
             ]
           }
@@ -1047,156 +818,151 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Cultural industries consult\nthe public on AI (IA)",
-          "body": "Eleven cultural groups, including the SNE, open a citizen consultation on AI (IA) on Make.org until January 17.",
-          "mini_headline": "Citizen consultation on AI (IA)",
+          "headline": "Belgian publishers want\na \"sans IA\" label",
+          "body": "Belgian publishers are considering a \"sans IA\" (AI-free) label and a price adjustment for books published in Belgium.",
+          "mini_headline": "A \"sans IA\" label in Belgium",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://actualitte.com/uploads/images/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia-6b056b9ca678b284982426.jpg",
-                "cap": "In Paris, an Anti-tech Résistance poster (ActuaLitté, CC BY-SA 4.0)"
+                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
               },
               {
                 "t": "p",
-                "x": "From November 23, 2026 to January 17, 2027, eleven professional organizations from the cultural industries, including the Syndicat national de l’édition (SNE), the Conseil permanent des écrivains (CPE) and the Sofia, are inviting citizens to share their views on the future of human creation in the face of artificial intelligence (IA), on the Make.org platform."
+                "x": "To protect the quality of books and better regulate AI (IA), Belgian publishers are considering a certification label and an adjustment to the price of books published in Belgium."
               },
               {
                 "t": "p",
-                "x": "Backed by organizations from books, music, the press, cinema, audiovisual, the visual arts, digital creation and the performing arts, the consultation starts from one observation: AI tools rely on works created, most of the time, without authorization and without payment."
+                "x": "Concerned about the dangers of using artificial intelligence (IA) tools in their sector, French-speaking publishers want a label to be created that would guarantee readers that the book they are reading is indeed the result of professional work carried out by a human being."
               },
               {
                 "t": "p",
-                "x": "In June 2026, more than half of the tracks uploaded each day to Deezer were entirely generated by AI. According to the CISAC, 24% of music creators’ income and 21% of audiovisual creators’ income are at risk by 2028. In the United Kingdom (Royaume-Uni), 39% of novelists surveyed by the University of Cambridge in 2025 say AI has already reduced their income."
+                "x": "The Association of Belgian Publishers (ADEB) is particularly concerned about self-publishing, which allows authors, thanks to AI, to publish without going through a publisher. On Thursday in Brussels, its leaders stressed the added value of professional publishers, from the writing (spelling, consistency of the story...) to the look of the book, its price, its access to commercial channels and its legal protection."
               },
               {
                 "t": "p",
-                "x": "How can a human work be recognized? How can copyright and neighboring rights be guaranteed? The consultation aims to give an objective picture of society’s expectations and to feed the discussion with public authorities."
+                "x": "ADEB urges its members to follow the Charter for the responsible use of AI in the book sector, published by PILEn. Publishers are nonetheless aware of the difficulties of a \"sans IA\" label, especially in checking the obligations tied to obtaining it. A study published by the association should also help its members set retail prices, which are often modeled on the lower prices of books published in France."
               }
             ]
           }
         },
         "ko": {
-          "headline": "문화산업, IA(인공지능)\n시민 의견 묻는다",
-          "body": "SNE 등 열한 단체가 1월 17일까지 Make.org서 인공지능 의견을 묻는다.",
-          "mini_headline": "IA 시민 의견 수렴",
+          "headline": "벨기에 출판사들 추진\n“sans IA” 라벨",
+          "body": "벨기에 출판사들이 ‘sans IA’ 라벨과 자국 도서 가격 조정을 검토한다.",
+          "mini_headline": "벨기에의 ‘sans IA’ 라벨",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://actualitte.com/uploads/images/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia-6b056b9ca678b284982426.jpg",
-                "cap": "파리(Paris)의 Anti-tech Résistance 포스터 (ActuaLitté, CC BY-SA 4.0)"
+                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
               },
               {
                 "t": "p",
-                "x": "2026년 11월 23일부터 2027년 1월 17일까지 출판인협회(Syndicat national de l’édition, SNE), 작가상설위원회(Conseil permanent des écrivains, CPE), Sofia 등 문화산업 직능 단체 열한 곳이 Make.org 플랫폼에서 인공지능(IA) 앞에 선 인간 창작의 미래에 대해 시민 의견을 묻는다."
+                "x": "도서의 질을 지키고 AI(IA)를 더 잘 관리하기 위해, 벨기에 출판사들이 인증 라벨과 벨기에에서 출간되는 책의 가격 조정을 검토하고 있다."
               },
               {
                 "t": "p",
-                "x": "도서, 음악, 언론, 영화, 방송, 시각예술, 디지털 창작, 공연예술 단체가 함께하는 이번 의견 수렴은 인공지능 도구가 대부분 허락도 보상도 없이 만들어진 작품에 기대고 있다는 문제의식에서 출발한다."
+                "x": "업계에서 인공지능(IA) 도구를 쓸 때의 위험을 우려하는 프랑스어권 출판사들은, 독자가 읽는 책이 사람이 해낸 전문적 작업의 결과임을 보장하는 라벨을 만들기를 원한다."
               },
               {
                 "t": "p",
-                "x": "2026년 6월에는 Deezer에 매일 올라오는 곡의 절반 이상이 전적으로 인공지능이 생성한 것이었다. CISAC에 따르면 2028년까지 음악 창작자 수입의 24%, 방송·영상 창작자 수입의 21%가 위협받는다. 영국(Royaume-Uni)에서는 2025년 Cambridge 대학이 조사한 소설가의 39%가 인공지능 때문에 이미 수입이 줄었다고 답했다."
+                "x": "벨기에출판인협회(ADEB)는 저자가 AI를 이용해 출판사를 거치지 않고 책을 내는 자가출판 현상을 특히 우려한다. 협회 관계자들은 목요일 브뤼셀에서 글쓰기(맞춤법, 서사의 일관성 등)부터 책의 외관, 가격, 유통망 접근, 법적 보호에 이르기까지 전문 출판사가 더하는 가치를 강조했다."
               },
               {
                 "t": "p",
-                "x": "인간의 작품은 어떻게 알아볼 수 있는가? 저작권과 저작인접권 존중은 어떻게 보장할 것인가? 이번 의견 수렴은 사회의 기대를 객관적으로 드러내 공공기관과의 논의에 보태는 것을 목표로 한다."
+                "x": "ADEB는 회원사들에 PILEn이 발표한 ‘도서 분야의 책임 있는 AI 이용을 위한 헌장’을 지키라고 권고한다. 다만 출판사들은 ‘sans IA’ 라벨의 어려움, 특히 라벨 취득에 따르는 의무를 확인하는 일의 어려움을 모르지 않는다. 협회가 펴낸 연구는 회원사들이 판매가를 정하는 데에도 도움을 줄 예정이다. 판매가는 흔히 그보다 낮은 프랑스 출간 도서의 가격을 따라 매겨진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "文化産業界が\nIA（人工知能）で意見募集",
-          "body": "SNEなど十一の文化団体が1月17日までMake.orgで人工知能の市民協議を開く。",
-          "mini_headline": "IAをめぐる市民協議",
+          "headline": "ベルギー出版界が\n「sans IA」ラベル検討",
+          "body": "ベルギーの出版社が「sans IA」ラベルと国内刊行本の価格調整を検討している。",
+          "mini_headline": "ベルギーで「sans IA」ラベル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://actualitte.com/uploads/images/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia-6b056b9ca678b284982426.jpg",
-                "cap": "パリ（Paris）のAnti-tech Résistanceのポスター（ActuaLitté, CC BY-SA 4.0）"
+                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
               },
               {
                 "t": "p",
-                "x": "2026年11月23日から2027年1月17日まで、出版協会（Syndicat national de l’édition, SNE）、作家常設評議会（Conseil permanent des écrivains, CPE）、Sofiaなど文化産業の職能団体十一団体が、Make.orgのプラットフォーム上で、人工知能（IA）を前にした人間の創作の未来について市民に意見を求める。"
+                "x": "本の質を守り、AI（IA）をより適切に管理するため、ベルギーの出版社は認証ラベルと、ベルギーで刊行される本の価格調整を検討している。"
               },
               {
                 "t": "p",
-                "x": "書籍、音楽、報道、映画、放送・映像、視覚芸術、デジタル創作、舞台芸術の団体が担うこの協議は、人工知能のツールが多くの場合、許可も対価もなく作られた作品に依拠しているという認識から出発している。"
+                "x": "業界で人工知能（IA）ツールを使うことの危険を懸念するフランス語圏の出版社は、読者が読んでいる本が人間による専門的な仕事の成果であることを保証するラベルの創設を望んでいる。"
               },
               {
                 "t": "p",
-                "x": "2026年6月には、Deezerに毎日投稿される楽曲の半数以上が完全に人工知能で生成されたものだった。CISACによれば、2028年までに音楽クリエイターの収入の24%、放送・映像クリエイターの収入の21%が脅かされる。英国（Royaume-Uni）では、2025年にCambridge大学が調査した小説家の39%が、人工知能によってすでに収入が減ったと答えている。"
+                "x": "ベルギー出版社協会（ADEB）は、AIを使えば著者が出版社を通さずに本を出せる自費出版の広がりを特に懸念している。協会の幹部は木曜日、ブリュッセルで、執筆（綴り、物語の一貫性など）から本の体裁、価格、流通網へのアクセス、法的保護に至るまで、プロの出版社がもたらす付加価値を強調した。"
               },
               {
                 "t": "p",
-                "x": "人間の作品をどう見分けるのか。著作権と著作隣接権の尊重をどう保証するのか。この協議は社会の期待を客観的に示し、公的機関との議論に役立てることを目指している。"
+                "x": "ADEBは会員に対し、PILEnが公表した「書籍分野におけるAIの責任ある利用のための憲章」を守るよう求めている。ただし出版社側も、「sans IA」ラベルの難しさ、とりわけ取得に伴う義務を確認することの難しさを承知している。協会が公表した調査は、会員が販売価格を決める助けにもなる見込みだ。販売価格は、より安いフランスで刊行された本の価格に合わせられることが多い。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "文化产业就IA（人工智能）\n向公众征求意见",
-          "body": "SNE等十一家文化机构在Make.org发起人工智能公众咨询，至1月17日截止。",
-          "mini_headline": "IA公众咨询",
+          "headline": "比利时出版商希望推出\n“sans IA”标签",
+          "body": "比利时出版商正考虑推出“sans IA”标签，并调整本国出版图书的价格。",
+          "mini_headline": "比利时拟推“sans IA”标签",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://actualitte.com/uploads/images/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia-6b056b9ca678b284982426.jpg",
-                "cap": "巴黎（Paris）街头的Anti-tech Résistance海报（ActuaLitté, CC BY-SA 4.0）"
+                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
               },
               {
                 "t": "p",
-                "x": "2026年11月23日至2027年1月17日，包括法国出版商协会（Syndicat national de l’édition, SNE）、作家常设委员会（Conseil permanent des écrivains, CPE）和Sofia在内的十一家文化产业专业组织，邀请公众在Make.org平台上就人工智能（IA）冲击下人类创作的未来发表意见。"
+                "x": "为保护图书质量并更好地规范AI（IA），比利时出版商正在考虑推出一种认证标签，并调整在比利时出版的图书价格。"
               },
               {
                 "t": "p",
-                "x": "这次咨询由图书、音乐、新闻、电影、视听、视觉艺术、数字创作和现场演出领域的组织共同发起，其出发点是：人工智能工具所依赖的作品，大多是在未经授权、未付报酬的情况下被使用的。"
+                "x": "法语区出版商担忧在本行业使用人工智能（IA）工具的风险，希望设立一种标签，向读者保证他们所读的书确实出自人类完成的专业工作。"
               },
               {
                 "t": "p",
-                "x": "2026年6月，Deezer每天上传的曲目中有一半以上完全由人工智能生成。据CISAC统计，到2028年，音乐创作者24%的收入和视听创作者21%的收入将受到威胁。在英国（Royaume-Uni），Cambridge大学2025年调查的小说家中有39%表示，人工智能已使他们的收入下降。"
+                "x": "比利时出版商协会（ADEB）尤其担忧自助出版现象：借助AI，作者无需出版商即可出书。协会负责人周四在布鲁塞尔强调了专业出版商的附加价值，涵盖从写作（拼写、叙事连贯性……）到图书外观、价格、进入商业渠道以及法律保护等方面。"
               },
               {
                 "t": "p",
-                "x": "如何识别人类创作的作品？如何保障著作权和邻接权得到尊重？这次咨询旨在客观呈现社会的期待，并为与公共部门的讨论提供依据。"
+                "x": "ADEB敦促会员遵守PILEn发布的《图书行业负责任使用AI宪章》。不过，出版商也清楚“sans IA”标签面临的困难，尤其是在核查获得该标签所需履行的义务方面。该协会发布的一项研究还将帮助会员确定售价，而售价往往参照价格较低的法国出版图书。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las industrias culturales\nconsultan al público sobre la IA",
-          "body": "Once actores culturales, entre ellos el SNE, abren en Make.org una consulta ciudadana sobre la IA hasta el 17 de enero.",
-          "mini_headline": "Consulta ciudadana sobre la IA",
+          "headline": "Los editores belgas quieren\nun sello «sin IA»",
+          "body": "Los editores belgas estudian un sello «sin IA» y un ajuste del precio de los libros publicados en Bélgica.",
+          "mini_headline": "Un sello «sin IA» en Bélgica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://actualitte.com/uploads/images/les-industries-culturelles-ouvrent-une-consultation-citoyenne-sur-l-ia-6b056b9ca678b284982426.jpg",
-                "cap": "En Paris, cartel de Anti-tech Résistance (ActuaLitté, CC BY-SA 4.0)"
+                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
               },
               {
                 "t": "p",
-                "x": "Del 23 de noviembre de 2026 al 17 de enero de 2027, once organizaciones profesionales de las industrias culturales, entre ellas el Syndicat national de l’édition (SNE), el Conseil permanent des écrivains (CPE) y la Sofia, invitan a los ciudadanos a opinar sobre el futuro de la creación humana frente a la inteligencia artificial, en la plataforma Make.org."
+                "x": "Para proteger la calidad de los libros y regular mejor la IA, los editores belgas estudian un sello de certificación y un ajuste del precio de las obras publicadas en Bélgica."
               },
               {
                 "t": "p",
-                "x": "Impulsada por organizaciones del libro, la música, la prensa, el cine, el audiovisual, las artes visuales, la creación digital y las artes escénicas, la consulta parte de una constatación: las herramientas de IA se apoyan en obras creadas, la mayoría de las veces, sin autorización y sin remuneración."
+                "x": "Preocupados por los peligros del uso de herramientas de inteligencia artificial (IA) en su sector, los editores francófonos desean la creación de un sello que garantice al lector que la obra que lee es realmente fruto de un trabajo profesional realizado por un ser humano."
               },
               {
                 "t": "p",
-                "x": "En junio de 2026, más de la mitad de los temas subidos cada día a Deezer estaban generados íntegramente por una IA. Según la CISAC, el 24% de los ingresos de los creadores de música y el 21% de los del audiovisual están amenazados de aquí a 2028. En el Reino Unido (Royaume-Uni), el 39% de los novelistas encuestados por la Universidad de Cambridge en 2025 afirma que la IA ya ha reducido sus ingresos."
+                "x": "La Asociación de Editores Belgas (ADEB) está especialmente preocupada por el fenómeno de la autoedición, que permite a los autores, gracias a la IA, publicar sin recurrir a un editor. Sus responsables insistieron el jueves en Bruselas en el valor añadido de los editores profesionales, desde la escritura (ortografía, coherencia del relato...) hasta el aspecto del libro, su precio, su acceso a los circuitos comerciales y su protección jurídica."
               },
               {
                 "t": "p",
-                "x": "¿Cómo reconocer una obra humana? ¿Cómo garantizar el respeto de los derechos de autor y de los derechos conexos? La consulta busca objetivar las expectativas de la sociedad y alimentar el debate con los poderes públicos."
+                "x": "La ADEB insta a sus miembros a respetar la Carta para un uso responsable de la IA en el sector del libro, publicada por el PILEn. Sin embargo, los editores no ignoran las dificultades de un sello «sin IA», sobre todo en el control de las obligaciones ligadas a su obtención. Un estudio publicado por la asociación también debe ayudar a sus miembros a fijar el precio de venta, a menudo calcado del de las obras publicadas en Francia, más bajo."
               }
             ]
           }
@@ -1204,15 +970,167 @@
       }
     },
     {
-      "id": "hayankkum-ai-fairytale",
-      "source_lang": "ko",
+      "id": "anthropic-payout-milan",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "아이가 주인공 되는\nAI 맞춤 동화책",
-      "body": "하얀꿈ENM이 아이의 일상 사연을 받아 AI로 맞춤형 동화책을 만든다.",
-      "mini_headline": "AI 맞춤 동화책",
+      "headline": "Anthropic 합의금\n작가들에 지급 시작",
+      "body": "15억 달러 합의금이 작가들에게 책당 약 3,000달러꼴로 지급되기 시작했다.",
+      "mini_headline": "Anthropic 합의금 지급 시작",
       "tool": "Books",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611250350g",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1043087/anthropic-has-started-paying-out-its-copyright-settlement-to-authors",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "소설가 코트니 밀란(Courtney Milan)은 자기 몫을 이미 받았다고 말했다. Anthropic이 지난해 작가들의 집단소송을 합의로 끝내며 내놓기로 한 15억 달러의 일부다. 전체 지급액은 책 한 권당 약 3,000달러가 될 전망이지만 일부는 내년 초에야 나간다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Anthropic starts paying out\nits authors' settlement",
+          "body": "Authors are receiving shares of the $1.5B deal, worth about $3,000 per book once the rest arrives early next year.",
+          "mini_headline": "Anthropic settlement payouts begin",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Novelist Courtney Milan says she’s already received her part of Anthropic’s $1.5 billion payout, which it agreed to last year to settle a class-action suit from authors. The full payout should work out to around $3,000 per book, but part of that is still to come early next year."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Anthropic 합의금\n작가들에 지급 시작",
+          "body": "15억 달러 합의금이 작가들에게 책당 약 3,000달러꼴로 지급되기 시작했다.",
+          "mini_headline": "Anthropic 합의금 지급 시작",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "소설가 코트니 밀란(Courtney Milan)은 자기 몫을 이미 받았다고 말했다. Anthropic이 지난해 작가들의 집단소송을 합의로 끝내며 내놓기로 한 15억 달러의 일부다. 전체 지급액은 책 한 권당 약 3,000달러가 될 전망이지만 일부는 내년 초에야 나간다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Anthropicが著者への\n和解金支払いを開始",
+          "body": "著者らは15億ドルの和解金の分配を受け始め、全額で1冊あたり約3000ドルとなる。",
+          "mini_headline": "Anthropic和解金の支払い開始",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "小説家のコートニー・ミラン（Courtney Milan）は、Anthropicが著者らによる集団訴訟の和解として昨年合意した15億ドルの支払いのうち、自分の分をすでに受け取ったと話している。支払い総額は1冊あたり約3000ドルになる見通しだが、その一部は来年初めに支払われる予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Anthropic开始向\n作者支付和解金",
+          "body": "作者们已开始领取15亿美元和解金，待余款明年初到账后每本书约3000美元。",
+          "mini_headline": "Anthropic和解金开始发放",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "小说家考特妮·米兰（Courtney Milan）表示，她已收到Anthropic 15亿美元赔付中属于自己的那一份。这笔赔付是Anthropic去年为与作者们的集体诉讼达成和解而同意支付的。全部赔付折算下来约为每本书3000美元，但其中一部分要到明年初才会到账。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Anthropic empieza a pagar el\nacuerdo con los autores",
+          "body": "Los autores cobran ya su parte del acuerdo de 1.500 millones de dólares: unos 3.000 dólares por libro en total.",
+          "mini_headline": "Anthropic empieza a pagar el acuerdo",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "La novelista Courtney Milan afirma que ya ha recibido su parte del pago de 1.500 millones de dólares de Anthropic, que la empresa acordó el año pasado para resolver una demanda colectiva de autores. El pago total debería rondar los 3.000 dólares por libro, pero una parte aún llegará a principios del próximo año."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Anthropic 합의금\n작가들에 지급 시작",
+          "body": "작가들에게 15억 달러 합의금이 지급되며, 책당 약 3,000달러 규모다.",
+          "mini_headline": "Anthropic 합의금 지급 시작",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "소설가 코트니 밀란(Courtney Milan)은 Anthropic이 지난해 작가들의 집단소송을 합의로 끝내며 지급하기로 한 15억 달러 중 자기 몫을 이미 받았다고 말했다. 전체 지급액은 책 한 권당 약 3,000달러가 될 전망이지만, 일부는 내년 초에 지급된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Anthropicが著者への\n和解金支払いを開始",
+          "body": "著者らは15億ドルの和解金の分配を受け始め、全額で1冊あたり約3000ドルとなる。",
+          "mini_headline": "Anthropic和解金の支払い開始",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "小説家のコートニー・ミラン（Courtney Milan）は、Anthropicが著者らによる集団訴訟の和解として昨年合意した15億ドルの支払いのうち、自分の分をすでに受け取ったと話している。支払い総額は1冊あたり約3000ドルになる見通しだが、その一部は来年初めに支払われる予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Anthropic开始向\n作者支付和解金",
+          "body": "作者们已开始领取15亿美元和解金，待余款明年初到账后每本书约3000美元。",
+          "mini_headline": "Anthropic和解金开始发放",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "小说家考特妮·米兰（Courtney Milan）表示，她已收到Anthropic 15亿美元赔付中属于自己的那一份。这笔赔付是Anthropic去年为与作者们的集体诉讼达成和解而同意支付的。全部赔付折算下来约为每本书3000美元，但其中一部分要到明年初才会到账。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Anthropic empieza a pagar el\nacuerdo con los autores",
+          "body": "Los autores cobran ya su parte del acuerdo de 1.500 millones de dólares: unos 3.000 dólares por libro en total.",
+          "mini_headline": "Anthropic empieza a pagar el acuerdo",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "La novelista Courtney Milan afirma que ya ha recibido su parte del pago de 1.500 millones de dólares de Anthropic, que la empresa acordó el año pasado para resolver una demanda colectiva de autores. El pago total debería rondar los 3.000 dólares por libro, pero una parte aún llegará a principios del próximo año."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ifwg-ipi-ai-contract-ban",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "독립 출판사들\n계약서에 AI 금지 명시",
+      "body": "IFWG·IPI는 계약서로 AI-made 작품을 막고 학습용 제공도 거부한다.",
+      "mini_headline": "독립 출판사, 계약으로 AI 금지",
+      "tool": "Books",
+      "source": "Tomorrow's Publisher",
+      "url": "https://tomorrowspublisher.today/news/independent-speculative-fiction-presses-ban-ai-made-work-and-restrict-training-u-c0f94490c251/",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1220,345 +1138,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.hankyung.com/photo/202611/01.46542839.1.jpg",
-            "cap": "사진=하얀꿈ENM"
+            "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
+            "cap": "만평 · AI-generated(AI 생성)"
           },
           {
             "t": "p",
-            "x": "콘텐츠 기업 하얀꿈ENM이 인공지능(AI)을 활용해 아이의 실제 경험을 동화로 만드는 맞춤형 그림책 서비스를 준비한다. 아이가 일상에서 겪은 일을 자체 캐릭터 '댕댕마녀'의 세계관에 접목해 이야기 속 주인공으로 등장시키는 방식이다."
+            "x": "원고를 거절하는 데도 편집자의 시간이 든다. IFWG Publishing International과 IPI Comics를 운영하는 회사의 대표 게리 헌트먼(Gerry Huntman)은 11월 17일, 생성형 AI로 일부나 전부를 만든 투고작이 점점 늘고 있다고 말했다. 이런 원고를 거절하느라 편집 업무에 쓸 시간이 깎여 나간다고 했다."
           },
           {
             "t": "p",
-            "x": "하얀꿈ENM은 경기 고양시 일대 버스와 지하철 광고를 통해 아이들의 일상 사연을 공모한다고 25일 밝혔다. 접수된 사연을 바탕으로 맞춤 동화책 제작을 처음 체험할 10가족을 선정할 계획이다."
+            "x": "계약은 창작자만이 아니라 출판사 자신도 묶는다. IFWG와 IPI Comics는 생성형 AI로 만들었거나 보강한 글과 이미지를 받지 않는다. 자사가 펴낸 작품을 모델 개발사나 학습 자료 중개업체에 알면서 넘기는 일도 결코 없다고 약속한다. 창작을 돕던 기존 도구는 계속 써도 된다고 헌트먼은 덧붙였다."
           },
           {
             "t": "p",
-            "x": "가령 어두운 방에 들어가기를 무서워하는 아이의 사연은 강아지 마법사 '디디'와 함께 불이 꺼진 마법공방을 탐험하는 이야기로 재구성된다. 아이가 손전등으로 단서를 찾고 디디가 놓친 그림자의 비밀을 발견해 사건을 해결하는 식이다. 동화책 제작에는 AI 도구를 활용하며 아이의 이름과 사연은 보호자 동의를 받아 사용한다."
+            "x": "Candlemark & Gleam은 원고를 쓸 때 AI를 쓰지 않았다는 확인을 저자들에게 받는다. 이 SF·판타지 출판사는 10월 성명에서 AI-generated(AI 생성) 표지 그림도 받지 않는다고 밝혔다. 독자는 그럴듯한 세계관과 저자 고유의 목소리까지 사는 셈이라는 주장이다."
           },
           {
             "t": "p",
-            "x": "이번 서비스의 기반이 되는 '댕댕마녀' 그림책은 고양산업진흥원의 웹콘텐츠 역량 강화 지원사업을 통해 제작됐다. 회사는 시각특수효과(VFX)와 확장현실(XR) 영상 제작 경험을 바탕으로 그림책 속 장면을 영상과 오프라인 체험 콘텐츠로 구현하는 방안도 검토하고 있다. 마법공방 장면을 가정에서 재현해 빛과 그림자의 변화를 관찰할 수 있는 실험 키트 등이 대표적이다."
-          },
-          {
-            "t": "p",
-            "x": "하얀꿈ENM은 '댕댕마녀'를 중심으로 영상과 그림책 등 어린이용 콘텐츠를 제작하는 기업이다. 국내외 유튜브 채널을 직접 운영하고 있으며 해외 채널 'Funny Pet Family'의 구독자는 약 52만명이다. 홍은지 대표는 \"같은 댕댕마녀 세계에서도 어떤 아이가 들어오느냐에 따라 모험이 달라진다\"며 \"첫 체험에서 아이가 어느 장면을 '내 이야기'라고 느끼는지 살펴, 그 반응을 다음 콘텐츠에 담겠다\"고 말했다."
+            "x": "그래도 서명한 계약만으로는 풀리지 않는 질문이 편집자에게 남는다. 저자가 계약을 어겼다고 의심되면 무엇을 증거로 삼나? 작가 단체 Authors Guild는 출판사에 먼저 저자와 이야기하라고 권한다. 탐지기가 사람이 쓴 글을 잘못 걸러낼 수 있다는 경고와 함께, 원고를 확인하려고 제3자 서비스에 올리기 전에 저자 허락부터 받으라고 한다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "아이가 주인공 되는\nAI 맞춤 동화책",
-          "body": "하얀꿈ENM이 아이의 일상 사연을 받아 AI로 맞춤형 동화책을 만든다.",
-          "mini_headline": "AI 맞춤 동화책",
+        "en": {
+          "headline": "Indie presses write AI bans\ninto author contracts",
+          "body": "IFWG Publishing and IPI Comics now bar AI-made work by contract and pledge to keep their books out of training deals.",
+          "mini_headline": "Indie presses ban AI by contract",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46542839.1.jpg",
-                "cap": "사진=하얀꿈ENM"
+                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
+                "cap": "Cartoon · AI-generated"
               },
               {
                 "t": "p",
-                "x": "콘텐츠 기업 하얀꿈ENM이 인공지능(AI)을 활용해 아이의 실제 경험을 동화로 만드는 맞춤형 그림책 서비스를 준비한다. 아이가 일상에서 겪은 일을 자체 캐릭터 '댕댕마녀'의 세계관에 접목해 이야기 속 주인공으로 등장시키는 방식이다."
+                "x": "Rejecting a manuscript still takes an editor’s time. On 17 November, Gerry Huntman, managing director of the company behind IFWG Publishing International and IPI Comics, said his editors were seeing more submissions made partly or wholly with generative AI. He said the time spent rejecting them was cutting into editorial work."
               },
               {
                 "t": "p",
-                "x": "하얀꿈ENM은 경기 고양시 일대 버스와 지하철 광고를 통해 아이들의 일상 사연을 공모한다고 25일 밝혔다. 접수된 사연을 바탕으로 맞춤 동화책 제작을 처음 체험할 10가족을 선정할 계획이다."
+                "x": "The contracts bind the publisher as well as its creators. IFWG and IPI Comics will reject text and images made or augmented by generative AI. They also pledge never to supply the work they publish knowingly to model developers or to intermediaries that provide training material. Huntman said creators could still use conventional tools that assist them with their own work."
               },
               {
                 "t": "p",
-                "x": "가령 어두운 방에 들어가기를 무서워하는 아이의 사연은 강아지 마법사 '디디'와 함께 불이 꺼진 마법공방을 탐험하는 이야기로 재구성된다. 아이가 손전등으로 단서를 찾고 디디가 놓친 그림자의 비밀을 발견해 사건을 해결하는 식이다. 동화책 제작에는 AI 도구를 활용하며 아이의 이름과 사연은 보호자 동의를 받아 사용한다."
+                "x": "Candlemark & Gleam asks its authors to certify that they did not use AI to produce the manuscript. In an October statement, the science fiction and fantasy press said it also rules out AI-generated cover art. It argued that plausible world-building and an author’s individual voice are part of what readers buy."
               },
               {
                 "t": "p",
-                "x": "이번 서비스의 기반이 되는 '댕댕마녀' 그림책은 고양산업진흥원의 웹콘텐츠 역량 강화 지원사업을 통해 제작됐다. 회사는 시각특수효과(VFX)와 확장현실(XR) 영상 제작 경험을 바탕으로 그림책 속 장면을 영상과 오프라인 체험 콘텐츠로 구현하는 방안도 검토하고 있다. 마법공방 장면을 가정에서 재현해 빛과 그림자의 변화를 관찰할 수 있는 실험 키트 등이 대표적이다."
-              },
-              {
-                "t": "p",
-                "x": "하얀꿈ENM은 '댕댕마녀'를 중심으로 영상과 그림책 등 어린이용 콘텐츠를 제작하는 기업이다. 국내외 유튜브 채널을 직접 운영하고 있으며 해외 채널 'Funny Pet Family'의 구독자는 약 52만명이다. 홍은지 대표는 \"같은 댕댕마녀 세계에서도 어떤 아이가 들어오느냐에 따라 모험이 달라진다\"며 \"첫 체험에서 아이가 어느 장면을 '내 이야기'라고 느끼는지 살펴, 그 반응을 다음 콘텐츠에 담겠다\"고 말했다."
+                "x": "That leaves editors with a question a signed contract cannot answer on its own. What counts as evidence if they suspect an author has broken the agreement? The Authors Guild advises publishers to speak to the author. It warns that a detector can flag human writing and says publishers should obtain the author’s permission before uploading a manuscript to a third-party service to check it."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Custom AI picture books cast\nchildren as the hero",
-          "body": "Hayankkum ENM collects everyday stories about children and uses AI to make custom fairy-tale books.",
-          "mini_headline": "Custom AI fairy-tale books",
+        "ko": {
+          "headline": "독립 출판사들\n계약서에 AI 금지 명시",
+          "body": "IFWG·IPI는 계약서로 AI-made 작품을 막고 학습용 제공도 거부한다.",
+          "mini_headline": "독립 출판사, 계약으로 AI 금지",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46542839.1.jpg",
-                "cap": "Photo: Hayankkum ENM"
+                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
+                "cap": "만평 · AI-generated(AI 생성)"
               },
               {
                 "t": "p",
-                "x": "Content company Hayankkum ENM is preparing a personalized picture book service that uses artificial intelligence (AI) to turn children's real experiences into fairy tales. It takes what a child has gone through in daily life, weaves it into the world of the company's own character 'Daengdaeng Witch', and casts the child as the protagonist of the story."
+                "x": "원고를 거절하는 데도 편집자의 시간이 든다. IFWG Publishing International과 IPI Comics를 운영하는 회사의 대표 게리 헌트먼(Gerry Huntman)은 11월 17일, 생성형 AI로 일부나 전부를 만든 투고작이 점점 늘고 있다고 말했다. 이런 원고를 거절하느라 편집 업무에 쓸 시간이 깎여 나간다고 했다."
               },
               {
                 "t": "p",
-                "x": "Hayankkum ENM said on the 25th that it is collecting children's everyday stories through bus and subway advertisements around Goyang, Gyeonggi Province. Based on the submissions, it plans to select 10 families to be the first to try making a personalized fairy-tale book."
+                "x": "계약은 창작자만이 아니라 출판사 자신도 묶는다. IFWG와 IPI Comics는 생성형 AI로 만들었거나 보강한 글과 이미지를 받지 않는다. 자사가 펴낸 작품을 모델 개발사나 학습 자료 중개업체에 알면서 넘기는 일도 결코 없다고 약속한다. 창작을 돕던 기존 도구는 계속 써도 된다고 헌트먼은 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "For example, the story of a child who is afraid to walk into a dark room is reworked into a tale of exploring an unlit magic workshop with the puppy wizard 'Didi'. The child finds clues with a flashlight and discovers the secret of a shadow that Didi missed, solving the case. AI tools are used to make the books, and children's names and stories are used with guardian consent."
+                "x": "Candlemark & Gleam은 원고를 쓸 때 AI를 쓰지 않았다는 확인을 저자들에게 받는다. 이 SF·판타지 출판사는 10월 성명에서 AI-generated(AI 생성) 표지 그림도 받지 않는다고 밝혔다. 독자는 그럴듯한 세계관과 저자 고유의 목소리까지 사는 셈이라는 주장이다."
               },
               {
                 "t": "p",
-                "x": "The 'Daengdaeng Witch' picture books underpinning the service were produced through the Goyang Industry Promotion Agency's support program for strengthening web content capabilities. Drawing on its experience in visual effects (VFX) and extended reality (XR) video production, the company is also considering turning scenes from the picture books into video and offline experience content. One example is an experiment kit that recreates the magic workshop scene at home so children can observe how light and shadow change."
-              },
-              {
-                "t": "p",
-                "x": "Hayankkum ENM makes children's content such as videos and picture books centered on 'Daengdaeng Witch'. It runs its own YouTube channels at home and abroad, and its overseas channel 'Funny Pet Family' has about 520,000 subscribers. CEO Hong Eun-ji said, “Even in the same Daengdaeng Witch world, the adventure changes depending on which child comes in,” adding, “In the first trial we will look at which scene a child feels is 'my story' and put that response into our next content.”"
+                "x": "그래도 서명한 계약만으로는 풀리지 않는 질문이 편집자에게 남는다. 저자가 계약을 어겼다고 의심되면 무엇을 증거로 삼나? 작가 단체 Authors Guild는 출판사에 먼저 저자와 이야기하라고 권한다. 탐지기가 사람이 쓴 글을 잘못 걸러낼 수 있다는 경고와 함께, 원고를 확인하려고 제3자 서비스에 올리기 전에 저자 허락부터 받으라고 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "子どもが主人公の\nAIオーダーメイド絵本",
-          "body": "ハヤンクムENMが子どもの日常の話を募り、AIでオーダーメイド絵本を作る。",
-          "mini_headline": "AIオーダーメイド童話",
+          "headline": "独立系出版社、契約に\nAI禁止を明記",
+          "body": "IFWGとIPI Comicsは契約でAI-made作品を禁じ、学習用にも出さない。",
+          "mini_headline": "独立系出版社が契約でAIを禁止",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46542839.1.jpg",
-                "cap": "写真=ハヤンクムENM"
+                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
+                "cap": "風刺漫画・AI-generated（AI生成）"
               },
               {
                 "t": "p",
-                "x": "コンテンツ企業のハヤンクムENMが、人工知能（AI）を活用して子どもの実体験を童話にするオーダーメイド絵本サービスを準備している。子どもが日常で経験した出来事を自社キャラクター「テンテン魔女」の世界観に組み込み、物語の主人公として登場させる仕組みだ。"
+                "x": "原稿を不採用にするにも、編集者の時間はかかる。IFWG Publishing InternationalとIPI Comicsを運営する会社のマネージングディレクター、ジェリー・ハントマン（Gerry Huntman）は11月17日、生成AIで一部または全部が作られた投稿が編集者のもとで増えていると述べた。それらを断る時間が編集作業を圧迫しているという。"
               },
               {
                 "t": "p",
-                "x": "ハヤンクムENMは25日、京畿道高陽市一帯のバスと地下鉄の広告を通じて、子どもたちの日常のエピソードを募集すると明らかにした。寄せられたエピソードをもとに、オーダーメイド絵本づくりを最初に体験する10家族を選ぶ計画だ。"
+                "x": "契約は、作り手だけでなく出版社自身も縛る。IFWGとIPI Comicsは、生成AIで作られた、または補強された文章や画像を受け付けない。さらに、自社が出版する作品を、モデル開発者や学習用素材を提供する仲介業者に故意に提供することは決してないと誓約している。ハントマンによれば、作り手は自分の作業を支援する従来型のツールは引き続き使えるという。"
               },
               {
                 "t": "p",
-                "x": "たとえば、暗い部屋に入るのを怖がる子どものエピソードは、子犬の魔法使い「ディディ」と一緒に明かりの消えた魔法工房を探検する物語に再構成される。子どもが懐中電灯で手がかりを探し、ディディが見逃した影の秘密を見つけて事件を解決するという具合だ。絵本の制作にはAIツールを使い、子どもの名前とエピソードは保護者の同意を得て使用する。"
+                "x": "Candlemark & Gleamは、著者に原稿の制作にAIを使っていないことを証明するよう求めている。SF・ファンタジー専門のこの出版社は10月の声明で、AI-generated（AI生成）の表紙画も認めないと述べた。もっともらしい世界観の構築と著者ならではの声は、読者が買うものの一部だというのが同社の主張だ。"
               },
               {
                 "t": "p",
-                "x": "今回のサービスの基盤となる「テンテン魔女」の絵本は、高陽産業振興院のウェブコンテンツ力量強化支援事業を通じて制作された。同社は視覚特殊効果（VFX）と拡張現実（XR）の映像制作経験を生かし、絵本の場面を映像やオフラインの体験コンテンツとして実現する案も検討している。魔法工房の場面を家庭で再現し、光と影の変化を観察できる実験キットなどがその代表例だ。"
-              },
-              {
-                "t": "p",
-                "x": "ハヤンクムENMは「テンテン魔女」を中心に、映像や絵本など子ども向けコンテンツを制作する企業だ。国内外でYouTubeチャンネルを自ら運営しており、海外チャンネル「Funny Pet Family」の登録者数は約52万人に上る。ホン・ウンジ代表は「同じテンテン魔女の世界でも、どの子が入ってくるかによって冒険が変わる」とし、「最初の体験で子どもがどの場面を『自分の物語』と感じるかを見て、その反応を次のコンテンツに盛り込みたい」と語った。"
+                "x": "そこで編集者には、署名済みの契約だけでは答えられない問いが残る。著者が契約に違反したと疑われる場合、何を証拠とみなすのか。作家団体のAuthors Guildは出版社に対し、著者と話し合うよう助言している。検出ツールは人間の文章を誤って判定しうると警告し、確認のために原稿を第三者のサービスにアップロードする前に著者の許可を得るべきだとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "让孩子当主角的\nAI定制童话书",
-          "body": "Hayankkum ENM征集孩子的日常故事，用AI制作定制童话书。",
-          "mini_headline": "AI定制童话书",
+          "headline": "独立出版社在作者合同中\n写入AI禁令",
+          "body": "IFWG与IPI Comics以合同禁止AI-made作品，并承诺不把书用于训练交易。",
+          "mini_headline": "独立出版社以合同禁止AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46542839.1.jpg",
-                "cap": "图片=Hayankkum ENM"
+                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
+                "cap": "漫画 · AI-generated（AI生成）"
               },
               {
                 "t": "p",
-                "x": "内容企业Hayankkum ENM正在筹备一项定制绘本服务，利用人工智能（AI）把孩子的真实经历写成童话。具体做法是把孩子在日常生活中遇到的事情融入自有角色“汪汪魔女”的世界观，让孩子作为故事主角登场。"
+                "x": "拒绝一份书稿仍要耗费编辑的时间。11月17日，IFWG Publishing International和IPI Comics背后公司的董事总经理格里·亨特曼（Gerry Huntman）表示，他的编辑们收到越来越多部分或全部由生成式AI制作的投稿。他说，拒稿所花的时间正在挤占编辑工作。"
               },
               {
                 "t": "p",
-                "x": "Hayankkum ENM于25日表示，将通过京畿道高阳市一带的公交和地铁广告征集孩子们的日常故事，并根据收到的故事，选出10个家庭率先体验定制童话书的制作。"
+                "x": "这些合同既约束创作者，也约束出版社自己。IFWG和IPI Comics将拒收由生成式AI制作或增强的文字和图像。它们还承诺，绝不会在知情的情况下把自己出版的作品提供给模型开发者或提供训练素材的中介机构。亨特曼说，创作者仍可使用辅助自身创作的常规工具。"
               },
               {
                 "t": "p",
-                "x": "例如，一个害怕走进黑暗房间的孩子的故事，会被改编成与小狗魔法师“迪迪”一起探索熄了灯的魔法工坊的故事：孩子用手电筒寻找线索，发现迪迪遗漏的影子秘密，从而解决事件。童话书制作中会使用AI工具，孩子的姓名和故事须经监护人同意后使用。"
+                "x": "Candlemark & Gleam要求作者证明自己没有用AI创作书稿。这家科幻与奇幻出版社在10月的一份声明中表示，它也不接受AI-generated（AI生成）的封面图。该社认为，可信的世界构建和作者独特的声音，是读者购买的内容的一部分。"
               },
               {
                 "t": "p",
-                "x": "作为这项服务基础的“汪汪魔女”绘本，是通过高阳产业振兴院的网络内容能力强化支援项目制作的。公司还在考虑依托视觉特效（VFX）和扩展现实（XR）影像制作经验，把绘本中的场景做成影像和线下体验内容，典型例子是可在家中重现魔法工坊场景、观察光影变化的实验套装。"
-              },
-              {
-                "t": "p",
-                "x": "Hayankkum ENM是一家以“汪汪魔女”为核心、制作视频和绘本等儿童内容的企业，直接运营国内外YouTube频道，其海外频道“Funny Pet Family”的订阅者约52万人。代表Hong Eun-ji表示：“即使在同一个汪汪魔女的世界里，冒险也会因走进来的孩子不同而不同。”Hong Eun-ji还说：“我们会在首次体验中观察孩子觉得哪个场景是‘我的故事’，并把这种反应融入下一部内容。”"
+                "x": "这给编辑们留下了一个仅靠签好的合同无法回答的问题：如果怀疑作者违反了协议，什么才算证据？作家团体Authors Guild建议出版社与作者沟通。它警告说，检测工具可能误标人类写的文字，并表示出版社在把书稿上传到第三方服务进行检查之前，应先征得作者许可。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cuentos con IA que convierten\nal niño en protagonista",
-          "body": "Hayankkum ENM recoge historias cotidianas de niños y usa la IA para crear cuentos ilustrados a medida.",
-          "mini_headline": "Cuentos a medida con IA",
+          "headline": "Editoriales independientes\nvetan la IA en sus contratos",
+          "body": "IFWG e IPI Comics vetan por contrato obras hechas con IA (AI-made) y no cederán sus libros para entrenamiento.",
+          "mini_headline": "Editoriales independientes vetan la IA por contrato",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46542839.1.jpg",
-                "cap": "Foto: Hayankkum ENM"
+                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
+                "cap": "Viñeta · AI-generated (generada por IA)"
               },
               {
                 "t": "p",
-                "x": "La empresa de contenidos Hayankkum ENM prepara un servicio de libros ilustrados personalizados que utiliza inteligencia artificial (IA) para convertir en cuentos las experiencias reales de los niños. Lo que el niño ha vivido en su día a día se integra en el universo de su personaje propio, «Daengdaeng Witch», y el niño aparece como protagonista de la historia."
+                "x": "Rechazar un manuscrito sigue costando tiempo a un editor. El 17 de noviembre, Gerry Huntman, director gerente de la empresa detrás de IFWG Publishing International e IPI Comics, dijo que sus editores recibían cada vez más originales hechos en parte o por completo con IA generativa. Según dijo, el tiempo dedicado a rechazarlos estaba restando horas al trabajo editorial."
               },
               {
                 "t": "p",
-                "x": "Hayankkum ENM anunció el día 25 que recogerá historias cotidianas de niños mediante anuncios en autobuses y metro de la zona de Goyang, en la provincia de Gyeonggi. A partir de las historias recibidas, prevé seleccionar a 10 familias que serán las primeras en probar la creación de un cuento personalizado."
+                "x": "Los contratos obligan tanto a la editorial como a sus creadores. IFWG e IPI Comics rechazarán textos e imágenes creados o aumentados con IA generativa. También se comprometen a no suministrar nunca, a sabiendas, las obras que publican a desarrolladores de modelos ni a intermediarios que proporcionan material de entrenamiento. Huntman dijo que los creadores podrán seguir usando herramientas convencionales que les ayuden con su propio trabajo."
               },
               {
                 "t": "p",
-                "x": "Por ejemplo, la historia de un niño al que le da miedo entrar en una habitación oscura se reconvierte en un relato en el que explora, junto al perrito mago «Didi», un taller mágico con las luces apagadas. El niño busca pistas con una linterna, descubre el secreto de la sombra que Didi pasó por alto y así resuelve el caso. Para crear los cuentos se usan herramientas de IA, y el nombre y la historia del niño se utilizan con el consentimiento de sus tutores."
+                "x": "Candlemark & Gleam pide a sus autores que certifiquen que no usaron IA para producir el manuscrito. En un comunicado de octubre, la editorial de ciencia ficción y fantasía dijo que también descarta las portadas AI-generated (generadas por IA). Sostuvo que una construcción de mundo verosímil y la voz propia de un autor forman parte de lo que compran los lectores."
               },
               {
                 "t": "p",
-                "x": "Los libros ilustrados de «Daengdaeng Witch» en los que se basa el servicio se produjeron gracias al programa de apoyo al fortalecimiento de capacidades en contenidos web de la Agencia de Promoción Industrial de Goyang. A partir de su experiencia en producción de efectos visuales (VFX) y realidad extendida (XR), la empresa también estudia llevar las escenas de los libros a vídeo y a contenidos de experiencia presencial. Un ejemplo es un kit de experimentos que recrea en casa la escena del taller mágico para observar los cambios de luz y sombra."
-              },
-              {
-                "t": "p",
-                "x": "Hayankkum ENM produce contenidos infantiles, como vídeos y libros ilustrados, en torno a «Daengdaeng Witch». Gestiona directamente canales de YouTube nacionales e internacionales, y su canal internacional «Funny Pet Family» tiene unos 520,000 suscriptores. Su director ejecutivo, Hong Eun-ji, afirmó: «Incluso en el mismo mundo de Daengdaeng Witch, la aventura cambia según qué niño entre», y añadió: «En la primera experiencia observaremos qué escena siente el niño como “mi historia” y llevaremos esa reacción a nuestros próximos contenidos»."
+                "x": "Eso deja a los editores ante una pregunta que un contrato firmado no puede responder por sí solo. ¿Qué cuenta como prueba si sospechan que un autor ha incumplido el acuerdo? El Authors Guild aconseja a las editoriales hablar con el autor. Advierte de que un detector puede marcar como sospechoso un texto escrito por una persona y dice que las editoriales deben obtener el permiso del autor antes de subir un manuscrito a un servicio externo para comprobarlo."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Custom AI picture books cast\nchildren as the hero",
-          "body": "Hayankkum ENM collects everyday stories about children and uses AI to make custom fairy-tale books.",
-          "mini_headline": "Custom AI fairy-tale books",
+        "ko": {
+          "headline": "독립 출판사들, 저자\n계약에 AI 금지 명시",
+          "body": "IFWG·IPI는 계약으로 AI-made 작품을 막고 학습용 제공도 거부한다.",
+          "mini_headline": "독립 출판사, 계약으로 AI 금지",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46542839.1.jpg",
-                "cap": "Photo: Hayankkum ENM"
+                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
+                "cap": "만평 · AI-generated(AI 생성)"
               },
               {
                 "t": "p",
-                "x": "Content company Hayankkum ENM is preparing a personalized picture book service that uses artificial intelligence (AI) to turn children's real experiences into fairy tales. It takes what a child has gone through in daily life, weaves it into the world of the company's own character 'Daengdaeng Witch', and casts the child as the protagonist of the story."
+                "x": "원고를 거절하는 데도 편집자의 시간이 든다. IFWG Publishing International과 IPI Comics를 운영하는 회사의 대표 게리 헌트먼(Gerry Huntman)은 11월 17일, 편집자들이 생성형 AI로 일부 또는 전부를 만든 투고작을 점점 더 많이 접하고 있다고 말했다. 그는 이런 원고를 거절하는 데 드는 시간이 편집 업무를 갉아먹고 있다고 했다."
               },
               {
                 "t": "p",
-                "x": "Hayankkum ENM said on the 25th that it is collecting children's everyday stories through bus and subway advertisements around Goyang, Gyeonggi Province. Based on the submissions, it plans to select 10 families to be the first to try making a personalized fairy-tale book."
+                "x": "계약은 창작자뿐 아니라 출판사 자신도 구속한다. IFWG와 IPI Comics는 생성형 AI로 만들었거나 보강한 글과 이미지를 받지 않는다. 또 자사가 펴낸 작품을 모델 개발사나 학습 자료를 공급하는 중개업체에 알면서 넘기는 일은 결코 없을 것이라고 약속한다. 헌트먼은 창작자가 자기 작업을 돕는 기존 도구는 계속 쓸 수 있다고 말했다."
               },
               {
                 "t": "p",
-                "x": "For example, the story of a child who is afraid to walk into a dark room is reworked into a tale of exploring an unlit magic workshop with the puppy wizard 'Didi'. The child finds clues with a flashlight and discovers the secret of a shadow that Didi missed, solving the case. AI tools are used to make the books, and children's names and stories are used with guardian consent."
+                "x": "Candlemark & Gleam은 저자들에게 원고 작성에 AI를 쓰지 않았음을 확인하도록 요구한다. 이 SF·판타지 출판사는 10월 성명에서 AI-generated(AI 생성) 표지 그림도 받지 않는다고 밝혔다. 그럴듯한 세계관 구축과 저자 고유의 목소리가 독자가 사는 것의 일부라는 주장이다."
               },
               {
                 "t": "p",
-                "x": "The 'Daengdaeng Witch' picture books underpinning the service were produced through the Goyang Industry Promotion Agency's support program for strengthening web content capabilities. Drawing on its experience in visual effects (VFX) and extended reality (XR) video production, the company is also considering turning scenes from the picture books into video and offline experience content. One example is an experiment kit that recreates the magic workshop scene at home so children can observe how light and shadow change."
-              },
-              {
-                "t": "p",
-                "x": "Hayankkum ENM makes children's content such as videos and picture books centered on 'Daengdaeng Witch'. It runs its own YouTube channels at home and abroad, and its overseas channel 'Funny Pet Family' has about 520,000 subscribers. CEO Hong Eun-ji said, “Even in the same Daengdaeng Witch world, the adventure changes depending on which child comes in,” adding, “In the first trial we will look at which scene a child feels is 'my story' and put that response into our next content.”"
+                "x": "편집자들에게는 서명한 계약만으로는 답할 수 없는 질문이 남는다. 저자가 계약을 어겼다고 의심될 때 무엇을 증거로 삼을 것인가? 작가 단체 Authors Guild는 출판사에 저자와 대화하라고 권한다. 탐지기가 사람이 쓴 글을 잘못 걸러낼 수 있다고 경고하며, 원고를 확인하려고 제3자 서비스에 올리기 전에 저자의 허락을 받아야 한다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "子どもが主人公の\nAIオーダーメイド絵本",
-          "body": "ハヤンクムENMが子どもの日常の話を募り、AIでオーダーメイド絵本を作る。",
-          "mini_headline": "AIオーダーメイド童話",
+          "headline": "独立系出版社、契約に\nAI禁止を明記",
+          "body": "IFWGとIPI Comicsは契約でAI-made作品を禁じ、学習用にも出さない。",
+          "mini_headline": "独立系出版社が契約でAIを禁止",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46542839.1.jpg",
-                "cap": "写真=ハヤンクムENM"
+                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
+                "cap": "風刺漫画・AI-generated（AI生成）"
               },
               {
                 "t": "p",
-                "x": "コンテンツ企業のハヤンクムENMが、人工知能（AI）を活用して子どもの実体験を童話にするオーダーメイド絵本サービスを準備している。子どもが日常で経験した出来事を自社キャラクター「テンテン魔女」の世界観に組み込み、物語の主人公として登場させる仕組みだ。"
+                "x": "原稿を不採用にするにも、編集者の時間はかかる。IFWG Publishing InternationalとIPI Comicsを運営する会社のマネージングディレクター、ジェリー・ハントマン（Gerry Huntman）は11月17日、生成AIで一部または全部が作られた投稿が編集者のもとで増えていると述べた。それらを断る時間が編集作業を圧迫しているという。"
               },
               {
                 "t": "p",
-                "x": "ハヤンクムENMは25日、京畿道高陽市一帯のバスと地下鉄の広告を通じて、子どもたちの日常のエピソードを募集すると明らかにした。寄せられたエピソードをもとに、オーダーメイド絵本づくりを最初に体験する10家族を選ぶ計画だ。"
+                "x": "契約は、作り手だけでなく出版社自身も縛る。IFWGとIPI Comicsは、生成AIで作られた、または補強された文章や画像を受け付けない。さらに、自社が出版する作品を、モデル開発者や学習用素材を提供する仲介業者に故意に提供することは決してないと誓約している。ハントマンによれば、作り手は自分の作業を支援する従来型のツールは引き続き使えるという。"
               },
               {
                 "t": "p",
-                "x": "たとえば、暗い部屋に入るのを怖がる子どものエピソードは、子犬の魔法使い「ディディ」と一緒に明かりの消えた魔法工房を探検する物語に再構成される。子どもが懐中電灯で手がかりを探し、ディディが見逃した影の秘密を見つけて事件を解決するという具合だ。絵本の制作にはAIツールを使い、子どもの名前とエピソードは保護者の同意を得て使用する。"
+                "x": "Candlemark & Gleamは、著者に原稿の制作にAIを使っていないことを証明するよう求めている。SF・ファンタジー専門のこの出版社は10月の声明で、AI-generated（AI生成）の表紙画も認めないと述べた。もっともらしい世界観の構築と著者ならではの声は、読者が買うものの一部だというのが同社の主張だ。"
               },
               {
                 "t": "p",
-                "x": "今回のサービスの基盤となる「テンテン魔女」の絵本は、高陽産業振興院のウェブコンテンツ力量強化支援事業を通じて制作された。同社は視覚特殊効果（VFX）と拡張現実（XR）の映像制作経験を生かし、絵本の場面を映像やオフラインの体験コンテンツとして実現する案も検討している。魔法工房の場面を家庭で再現し、光と影の変化を観察できる実験キットなどがその代表例だ。"
-              },
-              {
-                "t": "p",
-                "x": "ハヤンクムENMは「テンテン魔女」を中心に、映像や絵本など子ども向けコンテンツを制作する企業だ。国内外でYouTubeチャンネルを自ら運営しており、海外チャンネル「Funny Pet Family」の登録者数は約52万人に上る。ホン・ウンジ代表は「同じテンテン魔女の世界でも、どの子が入ってくるかによって冒険が変わる」とし、「最初の体験で子どもがどの場面を『自分の物語』と感じるかを見て、その反応を次のコンテンツに盛り込みたい」と語った。"
+                "x": "そこで編集者には、署名済みの契約だけでは答えられない問いが残る。著者が契約に違反したと疑われる場合、何を証拠とみなすのか。作家団体のAuthors Guildは出版社に対し、著者と話し合うよう助言している。検出ツールは人間の文章を誤って判定しうると警告し、確認のために原稿を第三者のサービスにアップロードする前に著者の許可を得るべきだとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "让孩子当主角的\nAI定制童话书",
-          "body": "Hayankkum ENM征集孩子的日常故事，用AI制作定制童话书。",
-          "mini_headline": "AI定制童话书",
+          "headline": "独立出版社在作者合同中\n写入AI禁令",
+          "body": "IFWG与IPI Comics以合同禁止AI-made作品，并承诺不把书用于训练交易。",
+          "mini_headline": "独立出版社以合同禁止AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46542839.1.jpg",
-                "cap": "图片=Hayankkum ENM"
+                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
+                "cap": "漫画 · AI-generated（AI生成）"
               },
               {
                 "t": "p",
-                "x": "内容企业Hayankkum ENM正在筹备一项定制绘本服务，利用人工智能（AI）把孩子的真实经历写成童话。具体做法是把孩子在日常生活中遇到的事情融入自有角色“汪汪魔女”的世界观，让孩子作为故事主角登场。"
+                "x": "拒绝一份书稿仍要耗费编辑的时间。11月17日，IFWG Publishing International和IPI Comics背后公司的董事总经理格里·亨特曼（Gerry Huntman）表示，他的编辑们收到越来越多部分或全部由生成式AI制作的投稿。他说，拒稿所花的时间正在挤占编辑工作。"
               },
               {
                 "t": "p",
-                "x": "Hayankkum ENM于25日表示，将通过京畿道高阳市一带的公交和地铁广告征集孩子们的日常故事，并根据收到的故事，选出10个家庭率先体验定制童话书的制作。"
+                "x": "这些合同既约束创作者，也约束出版社自己。IFWG和IPI Comics将拒收由生成式AI制作或增强的文字和图像。它们还承诺，绝不会在知情的情况下把自己出版的作品提供给模型开发者或提供训练素材的中介机构。亨特曼说，创作者仍可使用辅助自身创作的常规工具。"
               },
               {
                 "t": "p",
-                "x": "例如，一个害怕走进黑暗房间的孩子的故事，会被改编成与小狗魔法师“迪迪”一起探索熄了灯的魔法工坊的故事：孩子用手电筒寻找线索，发现迪迪遗漏的影子秘密，从而解决事件。童话书制作中会使用AI工具，孩子的姓名和故事须经监护人同意后使用。"
+                "x": "Candlemark & Gleam要求作者证明自己没有用AI创作书稿。这家科幻与奇幻出版社在10月的一份声明中表示，它也不接受AI-generated（AI生成）的封面图。该社认为，可信的世界构建和作者独特的声音，是读者购买的内容的一部分。"
               },
               {
                 "t": "p",
-                "x": "作为这项服务基础的“汪汪魔女”绘本，是通过高阳产业振兴院的网络内容能力强化支援项目制作的。公司还在考虑依托视觉特效（VFX）和扩展现实（XR）影像制作经验，把绘本中的场景做成影像和线下体验内容，典型例子是可在家中重现魔法工坊场景、观察光影变化的实验套装。"
-              },
-              {
-                "t": "p",
-                "x": "Hayankkum ENM是一家以“汪汪魔女”为核心、制作视频和绘本等儿童内容的企业，直接运营国内外YouTube频道，其海外频道“Funny Pet Family”的订阅者约52万人。代表Hong Eun-ji表示：“即使在同一个汪汪魔女的世界里，冒险也会因走进来的孩子不同而不同。”Hong Eun-ji还说：“我们会在首次体验中观察孩子觉得哪个场景是‘我的故事’，并把这种反应融入下一部内容。”"
+                "x": "这给编辑们留下了一个仅靠签好的合同无法回答的问题：如果怀疑作者违反了协议，什么才算证据？作家团体Authors Guild建议出版社与作者沟通。它警告说，检测工具可能误标人类写的文字，并表示出版社在把书稿上传到第三方服务进行检查之前，应先征得作者许可。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cuentos con IA que convierten\nal niño en protagonista",
-          "body": "Hayankkum ENM recoge historias cotidianas de niños y usa la IA para crear cuentos ilustrados a medida.",
-          "mini_headline": "Cuentos a medida con IA",
+          "headline": "Editoriales independientes\nvetan la IA en sus contratos",
+          "body": "IFWG e IPI Comics vetan por contrato obras hechas con IA (AI-made) y no cederán sus libros para entrenamiento.",
+          "mini_headline": "Editoriales independientes vetan la IA por contrato",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202611/01.46542839.1.jpg",
-                "cap": "Foto: Hayankkum ENM"
+                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
+                "cap": "Viñeta · AI-generated (generada por IA)"
               },
               {
                 "t": "p",
-                "x": "La empresa de contenidos Hayankkum ENM prepara un servicio de libros ilustrados personalizados que utiliza inteligencia artificial (IA) para convertir en cuentos las experiencias reales de los niños. Lo que el niño ha vivido en su día a día se integra en el universo de su personaje propio, «Daengdaeng Witch», y el niño aparece como protagonista de la historia."
+                "x": "Rechazar un manuscrito sigue costando tiempo a un editor. El 17 de noviembre, Gerry Huntman, director gerente de la empresa detrás de IFWG Publishing International e IPI Comics, dijo que sus editores recibían cada vez más originales hechos en parte o por completo con IA generativa. Según dijo, el tiempo dedicado a rechazarlos estaba restando horas al trabajo editorial."
               },
               {
                 "t": "p",
-                "x": "Hayankkum ENM anunció el día 25 que recogerá historias cotidianas de niños mediante anuncios en autobuses y metro de la zona de Goyang, en la provincia de Gyeonggi. A partir de las historias recibidas, prevé seleccionar a 10 familias que serán las primeras en probar la creación de un cuento personalizado."
+                "x": "Los contratos obligan tanto a la editorial como a sus creadores. IFWG e IPI Comics rechazarán textos e imágenes creados o aumentados con IA generativa. También se comprometen a no suministrar nunca, a sabiendas, las obras que publican a desarrolladores de modelos ni a intermediarios que proporcionan material de entrenamiento. Huntman dijo que los creadores podrán seguir usando herramientas convencionales que les ayuden con su propio trabajo."
               },
               {
                 "t": "p",
-                "x": "Por ejemplo, la historia de un niño al que le da miedo entrar en una habitación oscura se reconvierte en un relato en el que explora, junto al perrito mago «Didi», un taller mágico con las luces apagadas. El niño busca pistas con una linterna, descubre el secreto de la sombra que Didi pasó por alto y así resuelve el caso. Para crear los cuentos se usan herramientas de IA, y el nombre y la historia del niño se utilizan con el consentimiento de sus tutores."
+                "x": "Candlemark & Gleam pide a sus autores que certifiquen que no usaron IA para producir el manuscrito. En un comunicado de octubre, la editorial de ciencia ficción y fantasía dijo que también descarta las portadas AI-generated (generadas por IA). Sostuvo que una construcción de mundo verosímil y la voz propia de un autor forman parte de lo que compran los lectores."
               },
               {
                 "t": "p",
-                "x": "Los libros ilustrados de «Daengdaeng Witch» en los que se basa el servicio se produjeron gracias al programa de apoyo al fortalecimiento de capacidades en contenidos web de la Agencia de Promoción Industrial de Goyang. A partir de su experiencia en producción de efectos visuales (VFX) y realidad extendida (XR), la empresa también estudia llevar las escenas de los libros a vídeo y a contenidos de experiencia presencial. Un ejemplo es un kit de experimentos que recrea en casa la escena del taller mágico para observar los cambios de luz y sombra."
-              },
-              {
-                "t": "p",
-                "x": "Hayankkum ENM produce contenidos infantiles, como vídeos y libros ilustrados, en torno a «Daengdaeng Witch». Gestiona directamente canales de YouTube nacionales e internacionales, y su canal internacional «Funny Pet Family» tiene unos 520,000 suscriptores. Su director ejecutivo, Hong Eun-ji, afirmó: «Incluso en el mismo mundo de Daengdaeng Witch, la aventura cambia según qué niño entre», y añadió: «En la primera experiencia observaremos qué escena siente el niño como “mi historia” y llevaremos esa reacción a nuestros próximos contenidos»."
+                "x": "Eso deja a los editores ante una pregunta que un contrato firmado no puede responder por sí solo. ¿Qué cuenta como prueba si sospechan que un autor ha incumplido el acuerdo? El Authors Guild aconseja a las editoriales hablar con el autor. Advierte de que un detector puede marcar como sospechoso un texto escrito por una persona y dice que las editoriales deben obtener el permiso del autor antes de subir un manuscrito a un servicio externo para comprobarlo."
               }
             ]
           }

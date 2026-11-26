@@ -1,25 +1,116 @@
 {
   "section": "medicine",
-  "now_iso": "2026-11-25T22:03:00Z",
+  "now_iso": "2026-11-26T22:01:09Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "메디웨일, 망막 기반 심혈관 위험 예측 AI '닥터눈 CVD' 미국 FDA 510(k) 허가",
-      "url": "https://www.medigatenews.com/news/3289123775",
-      "source": "메디게이트뉴스",
+      "title": "27일부터 AI 가짜 의사·약사 광고 금지…위반 시 영업정지",
+      "url": "https://www.dailypharm.com/user/news/345052",
+      "source": "데일리팜",
       "category": "medicine",
-      "published_iso": "2026-11-25T11:19:00+09:00",
-      "excerpt": "메디웨일의 망막 사진 기반 AI '닥터눈 CVD'가 FDA 510(k) 허가를 받았다. 안저 사진으로 10년 내 첫 죽상경화성 심혈관질환(ASCVD) 발생 위험을 추정해 위험 점수와 3단계 위험군을 제시하며, 회사는 미국 1차 의료기관 보급을 추진한다.",
-      "og_image": "https://medigatenews.com/file/news/546012"
+      "published_iso": "2026-11-26T09:26:21+09:00",
+      "excerpt": "식약처가 AI로 만든 가상의 전문가가 제품을 추천해 소비자를 오인하게 하는 광고를 금지하는 시행규칙을 정비해, 11월 27일부터 식품표시광고법·약사법·화장품법, 12월 10일부터 의료기기법 관련 규정을 시행한다. 위반 시 영업정지.",
+      "og_image": "https://vod.dailypharm.com/new_dailypharm/editor/content/2026/11/26/7bff6cf7-f76d-46cb-b632-49db793d4c0f.jpg"
     },
     {
-      "title": "Rapid comparative evaluation of 2 ambient artificial intelligence applications in a learning health system",
-      "url": "https://doi.org/10.1093/jamia/ocag192",
-      "source": "JAMIA (Journal of the American Medical Informatics Association)",
+      "title": "대구가톨릭대의료원, AI 음성인식 의무기록 '보이스 EMR' 고도화",
+      "url": "https://www.medigatenews.com/news/1869758664",
+      "source": "메디게이트뉴스",
       "category": "medicine",
-      "published_iso": "2026-11-23T19:29:20Z",
-      "excerpt": "A learning-health-system evaluation compared two ambient AI scribes (Abridge and Nabla) among 100 providers over 90 days using a cluster randomized crossover design plus EHR workflow outcomes and simulated encounters, measuring satisfaction, efficiency, documentation quality, usability and patient sentiment. (Off-list outlet: academic.oup.com; date from Crossref created.)",
+      "published_iso": "2026-11-26T21:50:00+09:00",
+      "excerpt": "대구가톨릭대의료원이 2024년 영상의학과·핵의학과에 도입한 AI 음성인식 의무기록 '보이스 EMR'을 고도화해, 진료 대화에서 의학적으로 의미 있는 정보를 선별하고 의료진별 서식에 맞춰 의무기록을 자동 생성하도록 했다.",
+      "og_image": "https://medigatenews.com/file/news/546538"
+    },
+    {
+      "title": "대한민국의학한림원, 美 AAMC 연례 회의서 의료 AI 교육 사업 소개",
+      "url": "https://www.medigatenews.com/news/390988086",
+      "source": "메디게이트뉴스",
+      "category": "medicine",
+      "published_iso": "2026-11-26T21:36:00+09:00",
+      "excerpt": "의학한림원이 과기정통부·NIPA 지원 '의료 AI 교육 확산' 사업(K-MAINE)의 의대생 의료 AI 역량 프레임워크와 전국 정규 교육과정 확산 성과를 미국의과대학협회(AAMC) 연례 회의에서 공유했다.",
+      "og_image": "https://medigatenews.com/file/news/546520"
+    },
+    {
+      "title": "Generative fundus angiography from misaligned handheld images for non-invasive screening of infantile retinal diseases",
+      "url": "https://www.nature.com/articles/s41746-026-03462-z",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-11-24T10:24:00Z",
+      "excerpt": "A generative AI model synthesizes fundus fluorescein angiography from misaligned handheld color fundus photos of infants, aiming to give dye-free visualization of retinal vascular abnormalities for screening infantile retinal diseases, a leading cause of childhood blindness.",
       "og_image": null
+    },
+    {
+      "title": "Deep Learning Analysis of Korotkoff Sounds for Heart Failure Detection: A Prospective Multicentre Observational Study",
+      "url": "https://academic.oup.com/ehjdh/advance-article/doi/10.1093/ehjdh/ztag187/9115906",
+      "source": "European Heart Journal - Digital Health",
+      "category": "medicine",
+      "published_iso": "2026-11-19T13:04:52Z",
+      "excerpt": "Prospective four-centre study of 1,103 cardiovascular inpatients in China: deep learning on Korotkoff sounds recorded during routine blood pressure measurement detected heart failure with AUC 0.924 in the independent test cohort, including NYHA class I patients.",
+      "og_image": null,
+      "history_match": {
+        "score": 0.202,
+        "date": "2026-11-11",
+        "url": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/voice-changes-may-detect-worsening-heart-failure-weeks-other-symptoms-appear",
+        "title": "Voice changes may detect worsening heart failure weeks before other symptoms appear",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Utilizing AI Decision Support Tools in Burn Resuscitation: Comparing A Large Language Model to a Computerized Decision Support Tool",
+      "url": "https://academic.oup.com/jbcr/advance-article/doi/10.1093/jbcr/irag195/9122839",
+      "source": "Journal of Burn Care & Research",
+      "category": "medicine",
+      "published_iso": "2026-11-24T13:23:47Z",
+      "excerpt": "Retrospective study comparing crystalloid resuscitation volume estimates from a commonly used large language model against an established computerized clinical decision support system for severe burn patients.",
+      "og_image": null
+    },
+    {
+      "title": "Artificial intelligence literacy among health-care professionals: a systematic review of reported competency needs",
+      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00131-7/fulltext",
+      "source": "The Lancet Digital Health",
+      "category": "medicine",
+      "published_iso": "2026-11-24T20:06:45Z",
+      "excerpt": "Systematic review in The Lancet Digital Health mapping the AI literacy competencies that health-care professionals are reported to need. (Date via Crossref created; Lancet article pages are not fetchable.)",
+      "og_image": null,
+      "history_match": {
+        "score": 0.175,
+        "date": "2026-11-21",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.44315",
+        "title": "Mental Health Needs and Emotional-Support Artificial Intelligence Use",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Workplace Artificial Intelligence Use in Health Care and Non-Health Care Occupations",
+      "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2857253",
+      "source": "JAMA Health Forum",
+      "category": "medicine",
+      "published_iso": "2026-11-25T16:30:31Z",
+      "excerpt": "Cross-sectional study of US employees comparing the prevalence of workplace AI use among health care and non-health care workers across 11 work tasks. (Date via Crossref created.)",
+      "og_image": null,
+      "history_match": {
+        "score": 0.157,
+        "date": "2026-11-21",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.44315",
+        "title": "Mental Health Needs and Emotional-Support Artificial Intelligence Use",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Who oversees digital health? Providers face a regulatory maze",
+      "url": "https://www.healthcaredive.com/news/who-oversees-digital-health-providers-face-a-regulatory-maze/875549/",
+      "source": "Healthcare Dive",
+      "category": "medicine",
+      "published_iso": "2026-11-24T14:00:00Z",
+      "excerpt": "Federal agencies split oversight of digital health and AI tools, while states add their own rules on top; experts explain how providers can navigate both without tripping up.",
+      "og_image": "https://imgproxy.divecdn.com/_0_ssOW4YQZifRBdNzvNgqFASLgvMX53y3FwvEKrhZc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkwMTY1NjQ3LmpwZw==.webp",
+      "history_match": {
+        "score": 0.162,
+        "date": "2026-11-15",
+        "url": "https://www.healthcaredive.com/news/patient-comfort-with-ais-clinical-decisions-tied-to-provider-oversight-ga/874623/",
+        "title": "Patient comfort with AI's clinical decisions tied to provider oversight: Gallup",
+        "band": "related"
+      }
     },
     {
       "title": "Validation of Computer Vision in the Operating Room for Ambient Documentation",
@@ -46,30 +137,12 @@
       "excerpt": "The SCARLET-1 study in Radiology analyzed 22,445 prostate MRI exams from 21,252 men at 46 sites in 22 countries; the AI system matched standard-of-care radiologist readings (83%-87.9% agreement across three external datasets). Check vs 2026-10-14 AuntMinnie prostate-MRI AI item for possible same-study overlap.",
       "og_image": null,
       "history_match": {
-        "score": 0.229,
+        "score": 0.234,
         "date": "2026-11-16",
         "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425030/quibim-quibims-prostate-mri-ai-joins-microsoft-imaging-ai-network",
         "title": "Quibim's prostate MRI AI joins Microsoft imaging AI network",
         "band": "related"
       }
-    },
-    {
-      "title": "DKI may improve care in mild newborn HIE cases",
-      "url": "https://www.auntminnie.com/clinical-news/mri/article/16543044/dki-may-improve-care-in-mild-newborn-hie-cases",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-11-25T18:35:57Z",
-      "excerpt": "A machine-learning model combining diffusion kurtosis MRI with clinical data from 740 newborns at four hospitals predicted 24-month neurodevelopmental outcomes in mild hypoxic-ischemic encephalopathy with AUC 0.92, beating clinical-only (0.85) or imaging-only (0.86) models (Radiology, Nov. 24). Pediatric brain MRI - note neuro-MRI saturation.",
-      "og_image": null
-    },
-    {
-      "title": "Predictive uncertainty representations in clinical AI shape physicians' advice uptake, accuracy, and trust",
-      "url": "https://www.nature.com/articles/s43856-026-02008-4",
-      "source": "Communications Medicine",
-      "category": "medicine",
-      "published_iso": "2026-11-25T18:34:21Z",
-      "excerpt": "227 physicians assessed patient cases with an AI sepsis-type risk estimate shown with or without representations of the model's predictive uncertainty; how uncertainty was displayed changed how often doctors took the AI's advice, their accuracy and their trust.",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png"
     },
     {
       "title": "Multimodal AI for bacterial vs viral upper respiratory tract infection multicentre development and internal validation",
@@ -81,40 +154,6 @@
       "og_image": null
     },
     {
-      "title": "De novo design of high-potency dual-target therapeutic peptides with ORIDTP",
-      "url": "https://www.nature.com/articles/s41586-026-11338-1",
-      "source": "Nature",
-      "category": "medicine",
-      "published_iso": "2026-11-25T16:03:47Z",
-      "excerpt": "The AI platform ORIDTP designs de novo dual-target therapeutic peptides, producing anti-obesity, antidiabetic and anticancer peptide candidates with strong in vivo efficacy. Disease-targeted preclinical drug design (science/medicine boundary - medicine per _note since diseases are specified).",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11338-1/MediaObjects/41586_2026_11338_Fig1_HTML.png"
-    },
-    {
-      "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
-      "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/",
-      "source": "STAT",
-      "category": "medicine",
-      "published_iso": "2026-11-24T09:30:00+00:00",
-      "excerpt": "In Alaska, a small network of hospitals is betting on AI tools to triage stroke patients and get them to the right care faster across vast distances. (Stroke imaging saturation 11-23 - deployment angle only.)",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
-      "history_match": {
-        "score": 0.151,
-        "date": "2026-11-23",
-        "url": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425178/ai-may-not-improve-patient-outcomes-for-stroke",
-        "title": "AI may not improve patient outcomes for stroke",
-        "band": "related"
-      }
-    },
-    {
-      "title": "FDA Clears Emerging AI Triage Software for Nine Findings on Abdominopelvic CT",
-      "url": "https://www.diagnosticimaging.com/view/fda-emerging-ai-triage-software-nine-findings-abdominopelvic-ct",
-      "source": "Diagnostic Imaging",
-      "category": "medicine",
-      "published_iso": "2026-11-20T16:45:00Z",
-      "excerpt": "FDA cleared a2z Radiology's a2z-Omni-Triage, AI software for adjunctive triage of nine acute findings on abdominopelvic CT. (Off-list outlet: no on-list coverage found.)",
-      "og_image": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg"
-    },
-    {
       "title": "FDA-Authorized AI/ML Tool for Sepsis Prediction: Development and Validation",
       "url": "https://ai.nejm.org/doi/full/10.1056/AIx2601439",
       "source": "NEJM AI",
@@ -123,21 +162,12 @@
       "excerpt": "NEJM AI paper describing the development and validation of an FDA-authorized AI/ML sepsis prediction tool (Crossref created 2026-11-19; body not retrievable - verify details).",
       "og_image": "https://ai.nejm.org/pb-assets/ai-site/images/system/NEJM_AI_200px-1717172950127.png",
       "history_match": {
-        "score": 0.167,
+        "score": 0.163,
         "date": "2026-11-02",
         "url": "https://www.nature.com/articles/s44220-026-00753-y",
         "title": "Development, validation and AI chatbot evaluation of the Adolescent Mental Health AI Response Tool",
         "band": "related"
       }
-    },
-    {
-      "title": "AI rules for doctors must include organisational responsibility",
-      "url": "https://www.bmj.com/content/395/bmj-2026-101504",
-      "source": "The BMJ",
-      "category": "medicine",
-      "published_iso": "2026-11-23T11:30:12Z",
-      "excerpt": "BMJ correspondence responding to proposed rules for clinicians using AI: beyond individual clinical duties, healthcare organisations that place AI systems in clinical workflows must also assume responsibility (liability/governance angle; letter).",
-      "og_image": "https://www.bmj.com/sites/default/files/highwire/bmj/395/8501.cover-source.jpg"
     },
     {
       "title": "Weekly Rundown: Waystar integrates into Google Cloud's Gemini for healthcare; Oracle debuts AI agents for clinical trials",
@@ -148,51 +178,85 @@
       "excerpt": "Weekly health-tech brief: Oracle Life Science AI Agents for clinical-trial portfolio monitoring and planning; Amazon Connect Health adds agentic patient-access tasks (Temple Health handling thousands of verification calls weekly); Artera agentic intake; ChatGPT Health expands. Vendor roundup - low priority.",
       "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2217168478.jpg?VersionId=0phAnpOmLcGCkwxate79_jHGSX6nTo0S",
       "history_match": {
-        "score": 0.272,
+        "score": 0.277,
         "date": "2026-11-11",
         "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/google-cloud-rolls-out-gemini-healthcare",
         "title": "Google Cloud rolls out Gemini for healthcare",
+        "band": "related"
+      }
+    },
+    {
+      "title": "AI-assisted chest CT scan analysis of body composition at ICU admission and 6-month mortality",
+      "url": "https://www.nature.com/articles/s41746-026-03509-1",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-11-24T13:24:00Z",
+      "excerpt": "Secondary analysis of a single-center prospective cohort of 509 ICU patients: automated AI body-composition analysis of admission chest CT, a measure rarely taken manually, was linked to 6-month survival.",
+      "og_image": null,
+      "history_match": {
+        "score": 0.172,
+        "date": "2026-11-18",
+        "url": "https://www.auntminnie.com/resources/conference/rsna/2026/ct-preview/article/16541666/deeplearning-adds-pcctlike-chest-imaging-quality-to-existing-scanners",
+        "title": "Deep-learning adds PCCT-like chest imaging quality to existing scanners",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Modular phantom tests AI on ovarian mass ultrasound",
+      "url": "https://www.auntminnie.com/resources/conference/rsna/2026/ultrasound-preview/article/16542358/modular-phantom-tests-ai-on-ovarian-mass-ultrasound",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-11-23T12:00:00Z",
+      "excerpt": "RSNA 2026 preview: University of Twente researchers built an O-RADS-based transvaginal ultrasound phantom to enable controlled testing of computer-aided diagnosis software for ovarian masses.",
+      "og_image": null
+    },
+    {
+      "title": "Innovaccer integrates Grok Voice into Gravity Voice AI agents",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/innovaccer-integrates-grok-voice-gravity-voice-ai-agents",
+      "source": "Fierce Healthcare",
+      "category": "medicine",
+      "published_iso": "2026-11-23T13:00:00-05:00",
+      "excerpt": "Innovaccer is adding xAI's Grok Voice to its Gravity Voice AI agents for autonomous patient engagement calls (vendor upgrade; check for measured outcomes).",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2232514171.jpg?VersionId=VwvVk9PfSFHEStjWC3XS9.q9WGuNS0P1"
+    },
+    {
+      "title": "진단만 하는 AI 넘어섰다…자율 의료 AI 에이전트, 검사·처방·입원 결정까지 수행",
+      "url": "https://www.medigatenews.com/news/1569490689",
+      "source": "메디게이트뉴스",
+      "category": "medicine",
+      "published_iso": "2026-11-21T10:58:00+09:00",
+      "excerpt": "네이처 논문 소개: 하이델베르크대 등 연구진의 자율 의료 AI 에이전트 'MIRA'가 실제 환자 574명 기록 기반 가상 응급실에서 문진·검사·처방·입원 결정까지 수행, 311개 사례 진단 정확도 87.8%로 전문의(78.1%)를 웃돌았다. 실환자 검증은 과제.",
+      "og_image": "https://medigatenews.com/file/news/543134"
+    },
+    {
+      "title": "Epic Systems defends competitive practices, promises to let AI access its records",
+      "url": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/",
+      "source": "STAT",
+      "category": "medicine",
+      "published_iso": "2026-11-18T23:07:55Z",
+      "excerpt": "At HLTH, executives from Epic, the largest EHR vendor, defended its competitive practices and pledged to let outside AI tools access patient records held in its systems.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/11/image-9-1024x576.jpg",
+      "history_match": {
+        "score": 0.154,
+        "date": "2026-11-03",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude",
+        "title": "Athenahealth launches tool to bring patient health records into Anthropic's Claude",
         "band": "related"
       }
     }
   ],
   "dedup": {
     "dropped": 7,
-    "kept": 13,
+    "kept": 19,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 5,
+    "review": 10,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-27",
-      "title": "AI tech detects high-risk coronary inflammation in many asymptomatic patients",
-      "url": "https://cardiovascularbusiness.com/topics/cardiac-imaging/ai-tech-detects-high-risk-coronary-inflammation-many-asymptomatic-patients"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "Pennsylvania House passes bill requiring AI disclosure in healthcare",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/pennsylvania-house-passes-bill-requiring-ai-disclosure-healthcare"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "Coreline Soft secures FDA clearance for aortic CT software",
-      "url": "https://www.auntminnie.com/clinical-news/ct/news/15975406/coreline-soft-coreline-soft-secures-fda-clearance-for-aortic-ct-software"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "AI fails to compensate for night-shift fatigue among residents",
-      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15838345/ai-fails-to-compensate-for-nightshift-fatigue-among-residents"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "AI Scribes Improved Note-Taking Time but Not Productivity, Study Finds",
-      "url": "https://www.medpagetoday.com/practicemanagement/informationtechnology/123591"
-    },
     {
       "date": "2026-10-28",
       "title": "ChatGPT-5 misses half of distal radius fractures on x-rays",
@@ -867,6 +931,31 @@
       "date": "2026-11-25",
       "title": "AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
       "url": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Rapid comparative evaluation of 2 ambient artificial intelligence applications in a learning health system",
+      "url": "https://doi.org/10.1093/jamia/ocag192"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "FDA Clears Emerging AI Triage Software for Nine Findings on Abdominopelvic CT",
+      "url": "https://www.diagnosticimaging.com/view/fda-emerging-ai-triage-software-nine-findings-abdominopelvic-ct"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "메디웨일, 망막 기반 심혈관 위험 예측 AI '닥터눈 CVD' 미국 FDA 510(k) 허가",
+      "url": "https://www.medigatenews.com/news/3289123775"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Predictive uncertainty representations in clinical AI shape physicians' advice uptake, accuracy, and trust",
+      "url": "https://www.nature.com/articles/s43856-026-02008-4"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
+      "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/"
     }
   ]
 }

@@ -1,393 +1,153 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "section": "medicine",
   "cards": [
     {
-      "id": "mediwhale-doctornoon-cvd-fda",
-      "source_lang": "ko",
+      "id": "medicine-infant-fundus-angiography",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "메디웨일 망막 AI\nFDA 510(k) 허가",
-      "body": "안저 사진으로 10년 내 심혈관질환 위험을 추정하는 AI가 FDA 허가를 받았다.",
-      "mini_headline": "닥터눈 CVD FDA 허가",
+      "headline": "조영제 없는 망막 혈관조영\n영아 안구 검진에 활용",
+      "body": "생성 모델이 어긋난 휴대형 영아 안저 사진을 조영제 없이 혈관조영상으로 바꾼다.",
+      "mini_headline": "조영제 없는 영아 망막 혈관조영",
       "tool": "Medicine",
-      "source": "메디게이트뉴스",
-      "url": "https://www.medigatenews.com/news/3289123775",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03462-z",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://medigatenews.com/file/news/546012"
-          },
-          {
             "t": "p",
-            "x": "의료 인공지능(AI) 기업 메디웨일이 망막 기반 심혈관질환 위험 예측 AI 소프트웨어 ‘닥터눈 CVD’가 미국 식품의약국(FDA)으로부터 510(k) 승인(Clearance)을 획득했다고 25일 밝혔다. 회사는 이번 허가를 발판으로 닥터눈 CVD의 미국 의료기관 도입을 본격 추진한다는 방침이다."
-          },
-          {
-            "t": "p",
-            "x": "닥터눈 CVD는 안저카메라로 촬영한 망막 이미지를 AI로 분석해 향후 심혈관질환 발생 위험을 평가하는 의료기기다. 망막 이미지를 분석해 향후 10년 내 첫 죽상경화성 심혈관질환(ASCVD) 발생 위험을 추정하도록 FDA 승인을 받았다."
-          },
-          {
-            "t": "p",
-            "x": "분석 결과는 위험 점수와 3단계 위험군으로 제시된다. 의료진은 이 결과를 환자의 다른 임상 정보와 함께 검토해 심혈관 위험평가를 위한 보조 정보로 활용할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "최근 미국에서 심혈관질환 위험을 이른 단계에서 평가하고 관리하는 예방적 접근의 중요성이 커지고 있다. 2026년 미국심장학회와 미국심장협회 이상지질혈증 가이드라인도 개인별 위험평가를 바탕으로 한 조기 관리의 중요성을 제시하고 있다."
-          },
-          {
-            "t": "p",
-            "x": "회사 측은 닥터눈 CVD가 미국 의료진의 심혈관 위험평가 도구로 활용돼 심혈관질환 예방에 기여할 것으로 기대했다. 비침습적인 망막 촬영으로 심혈관 위험을 평가하고 예방적 관리로 연결하는 접근법을 제시한다는 구상이다. 미국 1차 의료현장에서 심혈관질환 예방의 진입점으로 자리매김시키겠다는 목표도 내놨다."
-          },
-          {
-            "t": "p",
-            "x": "최태근 메디웨일 대표는 “미국 의료 현장에 채혈이나 방사선 없이, 낮은 비용으로 심혈관 위험을 식별하는 새로운 선택지가 생긴 것”이라며 “대규모 코호트로 입증한 근거 위에 미국 현지 실사용 데이터를 더하고, 파트너 인프라를 통해 일차의료 현장에 빠르게 보급하겠다”고 말했다."
+            "x": "영아 망막 질환은 소아 실명의 주요 원인이다. 그런데 선별검사와 치료 방침을 정하는 혈관 소견은 컬러 안저 사진(CFP)에서 잘 안 보일 때가 많다. 형광안저혈관조영술(FFA)은 망막 혈관 이상을 혈관조영 영상으로 보여 주지만, 침습적인 데다 플루오레세인 조영제를 써야 해서 취약한 영아에게 일상적으로 쓰기 어렵다. 생성형 합성을 쓰면 침습 없이도 혈관조영에 가까운 영상을 얻을 수 있다. 문제는 영아 영상을 대개 손에 든 휴대형 접촉식 안저 카메라로 찍는다는 점이다. CFP와 FFA를 따로 촬영하다 보니 프로브 각도와 접촉 압력, 시야가 달라지고 두 영상의 공간 대응도 약하다. 연구진은 CFP-to-FFA 합성을 결정론적 잠재 공간 수송 궤적으로 재구성한 확산 기반 프레임워크 InfantAngio를 내놓았다. 영아 259명의 정합 기반 영상 쌍 기록 83,950건으로 개발·평가한 InfantAngio는 정량적 화질 벤치마크 전반에서 성능이 좋았다. 맹검 평가에서 안과 전문의가 실제 FFA와 합성 FFA를 가려낸 정확도는 49.8%로, 우연 수준에 가까웠다. 후향적 안과 전문의 판독 연구에서 CFP에 합성 FFA를 더하자 후속 분류기 성능과 전체 진단 정확도가 모두 향상됐다. 합성 FFA가 고위험 영아 선별검사에서 쓸모 있는 비침습 보조 수단이 되고, 실제 임상 현장의 조영제 기반 검사 의존도를 낮출 수 있다는 근거다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "메디웨일 망막 AI\nFDA 510(k) 허가",
-          "body": "안저 사진으로 10년 내 심혈관질환 위험을 추정하는 AI가 FDA 허가를 받았다.",
-          "mini_headline": "닥터눈 CVD FDA 허가",
+        "en": {
+          "headline": "Dye-free retinal angiography\nfor infant eye screening",
+          "body": "A generative model turns misaligned handheld fundus photos of infants into angiography images without dye.",
+          "mini_headline": "Dye-free infant\nretinal angiography",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546012"
-              },
-              {
                 "t": "p",
-                "x": "의료 인공지능(AI) 기업 메디웨일이 망막 기반 심혈관질환 위험 예측 AI 소프트웨어 ‘닥터눈 CVD’가 미국 식품의약국(FDA)으로부터 510(k) 승인(Clearance)을 획득했다고 25일 밝혔다. 회사는 이번 허가를 발판으로 닥터눈 CVD의 미국 의료기관 도입을 본격 추진한다는 방침이다."
-              },
-              {
-                "t": "p",
-                "x": "닥터눈 CVD는 안저카메라로 촬영한 망막 이미지를 AI로 분석해 향후 심혈관질환 발생 위험을 평가하는 의료기기다. 망막 이미지를 분석해 향후 10년 내 첫 죽상경화성 심혈관질환(ASCVD) 발생 위험을 추정하도록 FDA 승인을 받았다."
-              },
-              {
-                "t": "p",
-                "x": "분석 결과는 위험 점수와 3단계 위험군으로 제시된다. 의료진은 이 결과를 환자의 다른 임상 정보와 함께 검토해 심혈관 위험평가를 위한 보조 정보로 활용할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "최근 미국에서 심혈관질환 위험을 이른 단계에서 평가하고 관리하는 예방적 접근의 중요성이 커지고 있다. 2026년 미국심장학회와 미국심장협회 이상지질혈증 가이드라인도 개인별 위험평가를 바탕으로 한 조기 관리의 중요성을 제시하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "회사 측은 닥터눈 CVD가 미국 의료진의 심혈관 위험평가 도구로 활용돼 심혈관질환 예방에 기여할 것으로 기대했다. 비침습적인 망막 촬영으로 심혈관 위험을 평가하고 예방적 관리로 연결하는 접근법을 제시한다는 구상이다. 미국 1차 의료현장에서 심혈관질환 예방의 진입점으로 자리매김시키겠다는 목표도 내놨다."
-              },
-              {
-                "t": "p",
-                "x": "최태근 메디웨일 대표는 “미국 의료 현장에 채혈이나 방사선 없이, 낮은 비용으로 심혈관 위험을 식별하는 새로운 선택지가 생긴 것”이라며 “대규모 코호트로 입증한 근거 위에 미국 현지 실사용 데이터를 더하고, 파트너 인프라를 통해 일차의료 현장에 빠르게 보급하겠다”고 말했다."
+                "x": "Infantile retinal diseases are a leading cause of childhood blindness, and vascular findings that guide screening and management are often poorly visible in color fundus photography (CFP). Fundus fluorescein angiography (FFA) provides angiographic visualization of retinal vascular abnormalities, but its invasive nature and reliance on fluorescein dye limit routine use in vulnerable infants. Generative synthesis may provide non-invasive angiographic approximations. However, infant imaging often relies on manually operated handheld contact fundus cameras, with variations in probe angle, contact pressure, and field of view between separate CFP and FFA acquisitions contributing to weak spatial correspondence between modalities. In this paper, we present InfantAngio, a diffusion-based framework that reformulates CFP-to-FFA synthesis as a deterministic latent transport trajectory. Developed and evaluated using 83,950 registration-derived image-pair records from 259 infants, InfantAngio showed favorable performance across quantitative image-quality benchmarks, while ophthalmologists distinguished real from synthesized FFA images with near-chance accuracy of 49.8% in blinded assessment. Adding synthesized FFA to CFP improved both downstream classifier performance and overall diagnostic accuracy in a retrospective ophthalmologist reader study. These results support synthesized FFA as a potentially useful non-invasive adjunct for screening high-risk infants, with the possibility of reducing reliance on dye-based procedures in real-world clinical scenarios."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Mediwhale retinal AI wins\nFDA 510(k) clearance",
-          "body": "An AI that estimates the risk of cardiovascular disease within 10 years from fundus photos has received FDA clearance.",
-          "mini_headline": "DrNoon CVD gets FDA clearance",
+        "ko": {
+          "headline": "조영제 없는 망막 혈관조영\n영아 안구 검진에 활용",
+          "body": "생성 모델이 어긋난 휴대형 영아 안저 사진을 조영제 없이 혈관조영상으로 바꾼다.",
+          "mini_headline": "조영제 없는 영아 망막 혈관조영",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546012"
-              },
-              {
                 "t": "p",
-                "x": "Medical artificial intelligence (AI) company Mediwhale said on the 25th that its retina-based cardiovascular disease risk prediction AI software, ‘DrNoon CVD’, has obtained 510(k) Clearance from the U.S. Food and Drug Administration (FDA). The company plans to use the clearance as a foothold to push in earnest for adoption of DrNoon CVD by U.S. medical institutions."
-              },
-              {
-                "t": "p",
-                "x": "DrNoon CVD is a medical device that uses AI to analyze retinal images taken with a fundus camera and assess the risk of future cardiovascular disease. It was cleared by the FDA to estimate, by analyzing retinal images, the risk of a first atherosclerotic cardiovascular disease (ASCVD) event within the next 10 years."
-              },
-              {
-                "t": "p",
-                "x": "Results are presented as a risk score and 3 risk tiers. Clinicians can review them alongside the patient's other clinical information and use them as supplementary information for cardiovascular risk assessment."
-              },
-              {
-                "t": "p",
-                "x": "In the U.S., preventive approaches that assess and manage cardiovascular risk at an early stage have been gaining importance. The 2026 American College of Cardiology and American Heart Association dyslipidemia guideline also stresses early management based on individual risk assessment."
-              },
-              {
-                "t": "p",
-                "x": "The company expects DrNoon CVD to serve as a cardiovascular risk assessment tool for U.S. clinicians and contribute to preventing cardiovascular disease. The idea is to offer an approach that assesses cardiovascular risk through non-invasive retinal imaging and links it to preventive care. It also set a goal of establishing the product as an entry point for cardiovascular disease prevention in U.S. primary care settings (tier 1 care)."
-              },
-              {
-                "t": "p",
-                "x": "“U.S. medical practice now has a new option to identify cardiovascular risk at low cost, without blood draws or radiation,” said Mediwhale CEO Choi Tae-geun. “On top of evidence proven in large cohorts, we will add real-world data from the U.S. and roll it out quickly to primary care settings through our partners' infrastructure.”"
+                "x": "영아 망막 질환은 소아 실명의 주요 원인이다. 그런데 선별검사와 치료 방침을 정하는 혈관 소견은 컬러 안저 사진(CFP)에서 잘 안 보일 때가 많다. 형광안저혈관조영술(FFA)은 망막 혈관 이상을 혈관조영 영상으로 보여 주지만, 침습적인 데다 플루오레세인 조영제를 써야 해서 취약한 영아에게 일상적으로 쓰기 어렵다. 생성형 합성을 쓰면 침습 없이도 혈관조영에 가까운 영상을 얻을 수 있다. 문제는 영아 영상을 대개 손에 든 휴대형 접촉식 안저 카메라로 찍는다는 점이다. CFP와 FFA를 따로 촬영하다 보니 프로브 각도와 접촉 압력, 시야가 달라지고 두 영상의 공간 대응도 약하다. 연구진은 CFP-to-FFA 합성을 결정론적 잠재 공간 수송 궤적으로 재구성한 확산 기반 프레임워크 InfantAngio를 내놓았다. 영아 259명의 정합 기반 영상 쌍 기록 83,950건으로 개발·평가한 InfantAngio는 정량적 화질 벤치마크 전반에서 성능이 좋았다. 맹검 평가에서 안과 전문의가 실제 FFA와 합성 FFA를 가려낸 정확도는 49.8%로, 우연 수준에 가까웠다. 후향적 안과 전문의 판독 연구에서 CFP에 합성 FFA를 더하자 후속 분류기 성능과 전체 진단 정확도가 모두 향상됐다. 합성 FFA가 고위험 영아 선별검사에서 쓸모 있는 비침습 보조 수단이 되고, 실제 임상 현장의 조영제 기반 검사 의존도를 낮출 수 있다는 근거다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mediwhaleの網膜AI\nFDA 510(k)取得",
-          "body": "眼底写真から10年以内の心血管疾患リスクを推定するAIがFDAの認可を得た。",
-          "mini_headline": "DrNoon CVDがFDA認可",
+          "headline": "造影剤なしの網膜血管造影\n乳児の眼科検診へ応用",
+          "body": "生成モデルが、ずれのある手持ち撮影の乳児眼底写真を造影剤なしで血管造影画像に変換する。",
+          "mini_headline": "造影剤なしの乳児網膜血管造影",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546012"
-              },
-              {
                 "t": "p",
-                "x": "医療人工知能（AI）企業のMediwhaleは25日、網膜画像をもとに心血管疾患リスクを予測するAIソフトウェア「DrNoon CVD」が米国食品医薬品局（FDA）から510(k)認可（Clearance）を取得したと発表した。同社はこの認可を足がかりに、DrNoon CVDの米国医療機関への導入を本格的に進める方針だ。"
-              },
-              {
-                "t": "p",
-                "x": "DrNoon CVDは、眼底カメラで撮影した網膜画像をAIで解析し、将来の心血管疾患の発症リスクを評価する医療機器だ。網膜画像の解析により、今後10年以内に初めてアテローム性動脈硬化性心血管疾患（ASCVD）を発症するリスクを推定する用途でFDAの認可を受けた。"
-              },
-              {
-                "t": "p",
-                "x": "解析結果はリスクスコアと3段階のリスク群で示される。医療従事者はこの結果を患者のほかの臨床情報とあわせて確認し、心血管リスク評価の補助情報として活用できる。"
-              },
-              {
-                "t": "p",
-                "x": "米国では近年、心血管疾患リスクを早い段階で評価・管理する予防的アプローチの重要性が高まっている。2026年の米国心臓病学会と米国心臓協会の脂質異常症ガイドラインも、個人ごとのリスク評価に基づく早期管理の重要性を示している。"
-              },
-              {
-                "t": "p",
-                "x": "同社は、DrNoon CVDが米国の医療従事者の心血管リスク評価ツールとして使われ、心血管疾患の予防に貢献すると期待している。非侵襲的な網膜撮影で心血管リスクを評価し、予防的な管理につなげるアプローチを示す構想だ。米国の1次医療の現場で、心血管疾患予防の入り口として定着させる目標も掲げた。"
-              },
-              {
-                "t": "p",
-                "x": "Mediwhaleのチェ・テグン代表は「米国の医療現場に、採血や放射線なしで、低コストで心血管リスクを見つける新たな選択肢が生まれた」と述べ、「大規模コホートで実証した根拠に米国での実臨床データを加え、パートナーのインフラを通じてプライマリケアの現場に素早く広げていく」と語った。"
+                "x": "乳児の網膜疾患は小児失明の主要な原因であり、スクリーニングや治療方針の指標となる血管所見は、カラー眼底写真(CFP)では見えにくいことが多い。フルオレセイン蛍光眼底造影(FFA)は網膜血管の異常を造影像として可視化するが、侵襲的でフルオレセイン色素を必要とするため、脆弱な乳児への日常的な使用は限られる。生成的な合成によって、非侵襲的に造影像に近い画像を得られる可能性がある。しかし乳児の撮影は手動操作のハンドヘルド接触型眼底カメラに頼ることが多く、別々に行うCFPとFFAの撮影の間でプローブの角度、接触圧、視野が変わるため、両モダリティ間の空間的対応が弱くなる。本論文では、CFP-to-FFA合成を決定論的な潜在輸送軌道として再定式化した拡散ベースのフレームワークInfantAngioを提示する。乳児259人から得た位置合わせ由来の画像ペア記録83,950件で開発・評価したInfantAngioは、定量的な画質ベンチマーク全般で良好な性能を示し、盲検評価で眼科医が実際のFFAと合成FFAを見分けた正答率は偶然に近い49.8%だった。後ろ向きの眼科医読影研究では、CFPに合成FFAを加えることで、下流の分類器の性能と全体的な診断精度がともに向上した。これらの結果は、合成FFAが高リスク乳児のスクリーニングにおける有用な非侵襲的補助手段となり得ること、そして実臨床で色素を用いる検査への依存を減らせる可能性を支持している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mediwhale视网膜AI\n获FDA 510(k)许可",
-          "body": "一款通过眼底照片估算10年内心血管疾病风险的AI获得FDA许可。",
-          "mini_headline": "DrNoon CVD获FDA许可",
+          "headline": "无需染料的视网膜血管造影\n用于婴儿眼病筛查",
+          "body": "生成模型可将未对齐的婴儿手持眼底照片转换为血管造影图像，无需染料。",
+          "mini_headline": "无需染料的婴儿视网膜血管造影",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546012"
-              },
-              {
                 "t": "p",
-                "x": "医疗人工智能（AI）企业Mediwhale于25日宣布，其基于视网膜的心血管疾病风险预测AI软件“DrNoon CVD”已获得美国食品药品监督管理局（FDA）510(k)许可（Clearance）。公司计划以此为契机，全面推进DrNoon CVD进入美国医疗机构。"
-              },
-              {
-                "t": "p",
-                "x": "DrNoon CVD是一款医疗器械，利用AI分析眼底相机拍摄的视网膜图像，评估未来发生心血管疾病的风险。它获得FDA许可的用途是：通过分析视网膜图像，估算未来10年内首次发生动脉粥样硬化性心血管疾病（ASCVD）的风险。"
-              },
-              {
-                "t": "p",
-                "x": "分析结果以风险评分和3级风险分组呈现。医务人员可将结果与患者的其他临床信息一并审阅，作为心血管风险评估的辅助信息。"
-              },
-              {
-                "t": "p",
-                "x": "近来在美国，及早评估和管理心血管疾病风险的预防性方法日益受到重视。2026年美国心脏病学会和美国心脏协会的血脂异常指南也强调了基于个体风险评估的早期管理。"
-              },
-              {
-                "t": "p",
-                "x": "公司期待DrNoon CVD成为美国医务人员的心血管风险评估工具，为心血管疾病预防作出贡献。其设想是通过无创的视网膜拍摄评估心血管风险，并将其与预防性管理相衔接。公司还提出目标，要让它成为美国初级（1级）医疗现场心血管疾病预防的切入点。"
-              },
-              {
-                "t": "p",
-                "x": "Mediwhale首席执行官Choi Tae-geun表示：“美国医疗现场多了一个新选择，无需抽血或放射线，就能以低成本识别心血管风险。”他还说：“我们将在大规模队列验证的证据基础上，加入美国本土的真实世界数据，并借助合作伙伴的基础设施，迅速推广到基层医疗现场。”"
+                "x": "婴儿视网膜疾病是儿童失明的主要原因之一，而指导筛查和治疗的血管表现在彩色眼底照相（CFP）中往往难以看清。眼底荧光素血管造影（FFA）能够以血管造影方式显示视网膜血管异常，但其有创性以及对荧光素染料的依赖，限制了它在脆弱婴儿中的常规使用。生成式合成有望提供无创的血管造影近似图像。然而，婴儿影像通常依赖人工操作的手持接触式眼底相机，分别采集CFP和FFA时探头角度、接触压力和视野的差异，导致两种模态之间的空间对应较弱。本文提出InfantAngio，一种基于扩散的框架，将CFP-to-FFA合成重新表述为确定性的潜在传输轨迹。InfantAngio基于来自259名婴儿的83,950条配准衍生图像对记录进行开发和评估，在各项定量图像质量基准上表现良好；在盲法评估中，眼科医生区分真实与合成FFA图像的准确率为49.8%，接近随机水平。在一项回顾性眼科医生阅片研究中，在CFP基础上加入合成FFA，提升了下游分类器性能和整体诊断准确率。这些结果支持合成FFA作为高危婴儿筛查中一种可能有用的无创辅助手段，并有望在真实临床场景中减少对染料检查的依赖。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mediwhale: AI retinal obtiene\nautorización FDA 510(k)",
-          "body": "Una AI que estima el riesgo cardiovascular a 10 años con fotos de fondo de ojo recibió el aval de la FDA.",
-          "mini_headline": "DrNoon CVD obtiene el aval de la FDA",
+          "headline": "Angiografía retiniana sin tinte\npara el cribado ocular infantil",
+          "body": "Un modelo generativo convierte fotos desalineadas de fondo de ojo de bebés, tomadas a mano, en angiografías sin tinte.",
+          "mini_headline": "Angiografía retiniana infantil sin tinte",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546012"
-              },
-              {
                 "t": "p",
-                "x": "La empresa de inteligencia artificial (AI) médica Mediwhale anunció el día 25 que su software de AI ‘DrNoon CVD’, que predice el riesgo de enfermedad cardiovascular a partir de la retina, obtuvo la autorización 510(k) (Clearance) de la Administración de Alimentos y Medicamentos de Estados Unidos (FDA). La compañía planea usar esta autorización como base para impulsar de lleno la adopción de DrNoon CVD en instituciones médicas de Estados Unidos."
-              },
-              {
-                "t": "p",
-                "x": "DrNoon CVD es un dispositivo médico que analiza con AI imágenes de la retina tomadas con una cámara de fondo de ojo para evaluar el riesgo futuro de enfermedad cardiovascular. Recibió la autorización de la FDA para estimar, a partir de imágenes de la retina, el riesgo de un primer evento de enfermedad cardiovascular aterosclerótica (ASCVD) en los próximos 10 años."
-              },
-              {
-                "t": "p",
-                "x": "Los resultados se presentan como una puntuación de riesgo y 3 grupos de riesgo. Los médicos pueden revisarlos junto con otra información clínica del paciente y usarlos como información complementaria para evaluar el riesgo cardiovascular."
-              },
-              {
-                "t": "p",
-                "x": "En Estados Unidos ha crecido la importancia de los enfoques preventivos que evalúan y gestionan el riesgo cardiovascular en etapas tempranas. La guía de dislipidemia de 2026 del Colegio Americano de Cardiología y la Asociación Americana del Corazón también subraya la importancia del manejo temprano basado en la evaluación individual del riesgo."
-              },
-              {
-                "t": "p",
-                "x": "La empresa espera que DrNoon CVD sirva a los médicos de Estados Unidos como herramienta de evaluación del riesgo cardiovascular y contribuya a prevenir la enfermedad cardiovascular. La idea es ofrecer un enfoque que evalúe el riesgo cardiovascular mediante una fotografía no invasiva de la retina y lo vincule con un manejo preventivo. También se fijó la meta de consolidarlo como puerta de entrada a la prevención cardiovascular en la atención primaria (nivel 1) de Estados Unidos."
-              },
-              {
-                "t": "p",
-                "x": "“Los centros médicos de Estados Unidos cuentan ahora con una nueva opción para identificar el riesgo cardiovascular a bajo costo, sin extracción de sangre ni radiación”, dijo Choi Tae-geun, director ejecutivo de Mediwhale. “Sobre la evidencia demostrada en grandes cohortes sumaremos datos de uso real en Estados Unidos y lo extenderemos rápidamente a la atención primaria a través de la infraestructura de nuestros socios”."
+                "x": "Las enfermedades retinianas infantiles son una de las principales causas de ceguera en la niñez, y los hallazgos vasculares que orientan el cribado y el tratamiento suelen verse mal en la fotografía de fondo de ojo en color (CFP). La angiografía con fluoresceína del fondo de ojo (FFA) permite visualizar las anomalías vasculares de la retina, pero su carácter invasivo y su dependencia del colorante de fluoresceína limitan su uso rutinario en bebés vulnerables. La síntesis generativa podría ofrecer aproximaciones angiográficas no invasivas. Sin embargo, las imágenes infantiles suelen depender de cámaras de fondo de ojo de contacto portátiles y operadas a mano, y las variaciones en el ángulo de la sonda, la presión de contacto y el campo de visión entre las adquisiciones separadas de CFP y FFA debilitan la correspondencia espacial entre modalidades. En este artículo presentamos InfantAngio, un marco basado en difusión que reformula la síntesis CFP-to-FFA como una trayectoria determinista de transporte latente. Desarrollado y evaluado con 83,950 registros de pares de imágenes derivados del corregistro de 259 bebés, InfantAngio mostró un rendimiento favorable en las pruebas cuantitativas de calidad de imagen, mientras que los oftalmólogos distinguieron las imágenes FFA reales de las sintetizadas con una precisión cercana al azar, del 49.8%, en una evaluación ciega. Añadir FFA sintetizada a la CFP mejoró tanto el rendimiento del clasificador posterior como la precisión diagnóstica global en un estudio retrospectivo de lectura por oftalmólogos. Estos resultados respaldan la FFA sintetizada como un complemento no invasivo potencialmente útil para el cribado de bebés de alto riesgo, con la posibilidad de reducir la dependencia de procedimientos con colorante en escenarios clínicos reales."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Mediwhale retinal AI wins\nFDA 510(k) clearance",
-          "body": "An AI that estimates the risk of cardiovascular disease within 10 years from fundus photos has received FDA clearance.",
-          "mini_headline": "DrNoon CVD gets FDA clearance",
+        "ko": {
+          "headline": "조영제 없는 망막 혈관조영\n영아 안구 검진에 활용",
+          "body": "생성 모델이 어긋난 휴대형 영아 안저 사진을 조영제 없이 혈관조영상으로 바꾼다.",
+          "mini_headline": "조영제 없는 영아 망막 혈관조영",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546012"
-              },
-              {
                 "t": "p",
-                "x": "Medical artificial intelligence (AI) company Mediwhale said on the 25th that its retina-based cardiovascular disease risk prediction AI software, ‘DrNoon CVD’, has obtained 510(k) Clearance from the U.S. Food and Drug Administration (FDA). The company plans to use the clearance as a foothold to push in earnest for adoption of DrNoon CVD by U.S. medical institutions."
-              },
-              {
-                "t": "p",
-                "x": "DrNoon CVD is a medical device that uses AI to analyze retinal images taken with a fundus camera and assess the risk of future cardiovascular disease. It was cleared by the FDA to estimate, by analyzing retinal images, the risk of a first atherosclerotic cardiovascular disease (ASCVD) event within the next 10 years."
-              },
-              {
-                "t": "p",
-                "x": "Results are presented as a risk score and 3 risk tiers. Clinicians can review them alongside the patient's other clinical information and use them as supplementary information for cardiovascular risk assessment."
-              },
-              {
-                "t": "p",
-                "x": "In the U.S., preventive approaches that assess and manage cardiovascular risk at an early stage have been gaining importance. The 2026 American College of Cardiology and American Heart Association dyslipidemia guideline also stresses early management based on individual risk assessment."
-              },
-              {
-                "t": "p",
-                "x": "The company expects DrNoon CVD to serve as a cardiovascular risk assessment tool for U.S. clinicians and contribute to preventing cardiovascular disease. The idea is to offer an approach that assesses cardiovascular risk through non-invasive retinal imaging and links it to preventive care. It also set a goal of establishing the product as an entry point for cardiovascular disease prevention in U.S. primary care settings (tier 1 care)."
-              },
-              {
-                "t": "p",
-                "x": "“U.S. medical practice now has a new option to identify cardiovascular risk at low cost, without blood draws or radiation,” said Mediwhale CEO Choi Tae-geun. “On top of evidence proven in large cohorts, we will add real-world data from the U.S. and roll it out quickly to primary care settings through our partners' infrastructure.”"
+                "x": "영아 망막 질환은 소아 실명의 주요 원인이며, 선별검사와 치료 방침을 정하는 혈관 소견은 컬러 안저 사진(CFP)에서 잘 보이지 않는 경우가 많다. 형광안저혈관조영술(FFA)은 망막 혈관 이상을 혈관조영 영상으로 보여 주지만, 침습적이고 플루오레세인 조영제에 의존해야 해 취약한 영아에게 일상적으로 쓰기 어렵다. 생성형 합성은 비침습적으로 혈관조영에 근접한 영상을 제공할 수 있다. 그러나 영아 영상은 대개 손으로 조작하는 휴대형 접촉식 안저 카메라에 의존하며, 따로 촬영하는 CFP와 FFA 사이에 프로브 각도, 접촉 압력, 시야가 달라져 두 영상 간 공간적 대응이 약하다. 이 논문에서 연구진은 CFP-to-FFA 합성을 결정론적 잠재 공간 수송 궤적으로 재구성한 확산 기반 프레임워크 InfantAngio를 제시한다. 영아 259명의 정합 기반 영상 쌍 기록 83,950건으로 개발·평가한 InfantAngio는 정량적 화질 벤치마크 전반에서 좋은 성능을 보였고, 맹검 평가에서 안과 전문의가 실제 FFA와 합성 FFA를 구별한 정확도는 우연 수준에 가까운 49.8%였다. 후향적 안과 전문의 판독 연구에서 CFP에 합성 FFA를 더하자 후속 분류기 성능과 전체 진단 정확도가 모두 향상됐다. 이 결과는 합성 FFA가 고위험 영아 선별검사에 유용한 비침습적 보조 수단이 될 수 있으며, 실제 임상 현장에서 조영제 기반 검사에 대한 의존을 줄일 가능성이 있음을 뒷받침한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mediwhaleの網膜AI\nFDA 510(k)取得",
-          "body": "眼底写真から10年以内の心血管疾患リスクを推定するAIがFDAの認可を得た。",
-          "mini_headline": "DrNoon CVDがFDA認可",
+          "headline": "造影剤なしの網膜血管造影\n乳児の眼科検診へ応用",
+          "body": "生成モデルが、ずれのある手持ち撮影の乳児眼底写真を造影剤なしで血管造影画像に変換する。",
+          "mini_headline": "造影剤なしの乳児網膜血管造影",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546012"
-              },
-              {
                 "t": "p",
-                "x": "医療人工知能（AI）企業のMediwhaleは25日、網膜画像をもとに心血管疾患リスクを予測するAIソフトウェア「DrNoon CVD」が米国食品医薬品局（FDA）から510(k)認可（Clearance）を取得したと発表した。同社はこの認可を足がかりに、DrNoon CVDの米国医療機関への導入を本格的に進める方針だ。"
-              },
-              {
-                "t": "p",
-                "x": "DrNoon CVDは、眼底カメラで撮影した網膜画像をAIで解析し、将来の心血管疾患の発症リスクを評価する医療機器だ。網膜画像の解析により、今後10年以内に初めてアテローム性動脈硬化性心血管疾患（ASCVD）を発症するリスクを推定する用途でFDAの認可を受けた。"
-              },
-              {
-                "t": "p",
-                "x": "解析結果はリスクスコアと3段階のリスク群で示される。医療従事者はこの結果を患者のほかの臨床情報とあわせて確認し、心血管リスク評価の補助情報として活用できる。"
-              },
-              {
-                "t": "p",
-                "x": "米国では近年、心血管疾患リスクを早い段階で評価・管理する予防的アプローチの重要性が高まっている。2026年の米国心臓病学会と米国心臓協会の脂質異常症ガイドラインも、個人ごとのリスク評価に基づく早期管理の重要性を示している。"
-              },
-              {
-                "t": "p",
-                "x": "同社は、DrNoon CVDが米国の医療従事者の心血管リスク評価ツールとして使われ、心血管疾患の予防に貢献すると期待している。非侵襲的な網膜撮影で心血管リスクを評価し、予防的な管理につなげるアプローチを示す構想だ。米国の1次医療の現場で、心血管疾患予防の入り口として定着させる目標も掲げた。"
-              },
-              {
-                "t": "p",
-                "x": "Mediwhaleのチェ・テグン代表は「米国の医療現場に、採血や放射線なしで、低コストで心血管リスクを見つける新たな選択肢が生まれた」と述べ、「大規模コホートで実証した根拠に米国での実臨床データを加え、パートナーのインフラを通じてプライマリケアの現場に素早く広げていく」と語った。"
+                "x": "乳児の網膜疾患は小児失明の主要な原因であり、スクリーニングや治療方針の指標となる血管所見は、カラー眼底写真(CFP)では見えにくいことが多い。フルオレセイン蛍光眼底造影(FFA)は網膜血管の異常を造影像として可視化するが、侵襲的でフルオレセイン色素を必要とするため、脆弱な乳児への日常的な使用は限られる。生成的な合成によって、非侵襲的に造影像に近い画像を得られる可能性がある。しかし乳児の撮影は手動操作のハンドヘルド接触型眼底カメラに頼ることが多く、別々に行うCFPとFFAの撮影の間でプローブの角度、接触圧、視野が変わるため、両モダリティ間の空間的対応が弱くなる。本論文では、CFP-to-FFA合成を決定論的な潜在輸送軌道として再定式化した拡散ベースのフレームワークInfantAngioを提示する。乳児259人から得た位置合わせ由来の画像ペア記録83,950件で開発・評価したInfantAngioは、定量的な画質ベンチマーク全般で良好な性能を示し、盲検評価で眼科医が実際のFFAと合成FFAを見分けた正答率は偶然に近い49.8%だった。後ろ向きの眼科医読影研究では、CFPに合成FFAを加えることで、下流の分類器の性能と全体的な診断精度がともに向上した。これらの結果は、合成FFAが高リスク乳児のスクリーニングにおける有用な非侵襲的補助手段となり得ること、そして実臨床で色素を用いる検査への依存を減らせる可能性を支持している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mediwhale视网膜AI\n获FDA 510(k)许可",
-          "body": "一款通过眼底照片估算10年内心血管疾病风险的AI获得FDA许可。",
-          "mini_headline": "DrNoon CVD获FDA许可",
+          "headline": "无需染料的视网膜血管造影\n用于婴儿眼病筛查",
+          "body": "生成模型可将未对齐的婴儿手持眼底照片转换为血管造影图像，无需染料。",
+          "mini_headline": "无需染料的婴儿视网膜血管造影",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546012"
-              },
-              {
                 "t": "p",
-                "x": "医疗人工智能（AI）企业Mediwhale于25日宣布，其基于视网膜的心血管疾病风险预测AI软件“DrNoon CVD”已获得美国食品药品监督管理局（FDA）510(k)许可（Clearance）。公司计划以此为契机，全面推进DrNoon CVD进入美国医疗机构。"
-              },
-              {
-                "t": "p",
-                "x": "DrNoon CVD是一款医疗器械，利用AI分析眼底相机拍摄的视网膜图像，评估未来发生心血管疾病的风险。它获得FDA许可的用途是：通过分析视网膜图像，估算未来10年内首次发生动脉粥样硬化性心血管疾病（ASCVD）的风险。"
-              },
-              {
-                "t": "p",
-                "x": "分析结果以风险评分和3级风险分组呈现。医务人员可将结果与患者的其他临床信息一并审阅，作为心血管风险评估的辅助信息。"
-              },
-              {
-                "t": "p",
-                "x": "近来在美国，及早评估和管理心血管疾病风险的预防性方法日益受到重视。2026年美国心脏病学会和美国心脏协会的血脂异常指南也强调了基于个体风险评估的早期管理。"
-              },
-              {
-                "t": "p",
-                "x": "公司期待DrNoon CVD成为美国医务人员的心血管风险评估工具，为心血管疾病预防作出贡献。其设想是通过无创的视网膜拍摄评估心血管风险，并将其与预防性管理相衔接。公司还提出目标，要让它成为美国初级（1级）医疗现场心血管疾病预防的切入点。"
-              },
-              {
-                "t": "p",
-                "x": "Mediwhale首席执行官Choi Tae-geun表示：“美国医疗现场多了一个新选择，无需抽血或放射线，就能以低成本识别心血管风险。”他还说：“我们将在大规模队列验证的证据基础上，加入美国本土的真实世界数据，并借助合作伙伴的基础设施，迅速推广到基层医疗现场。”"
+                "x": "婴儿视网膜疾病是儿童失明的主要原因之一，而指导筛查和治疗的血管表现在彩色眼底照相（CFP）中往往难以看清。眼底荧光素血管造影（FFA）能够以血管造影方式显示视网膜血管异常，但其有创性以及对荧光素染料的依赖，限制了它在脆弱婴儿中的常规使用。生成式合成有望提供无创的血管造影近似图像。然而，婴儿影像通常依赖人工操作的手持接触式眼底相机，分别采集CFP和FFA时探头角度、接触压力和视野的差异，导致两种模态之间的空间对应较弱。本文提出InfantAngio，一种基于扩散的框架，将CFP-to-FFA合成重新表述为确定性的潜在传输轨迹。InfantAngio基于来自259名婴儿的83,950条配准衍生图像对记录进行开发和评估，在各项定量图像质量基准上表现良好；在盲法评估中，眼科医生区分真实与合成FFA图像的准确率为49.8%，接近随机水平。在一项回顾性眼科医生阅片研究中，在CFP基础上加入合成FFA，提升了下游分类器性能和整体诊断准确率。这些结果支持合成FFA作为高危婴儿筛查中一种可能有用的无创辅助手段，并有望在真实临床场景中减少对染料检查的依赖。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mediwhale: AI retinal obtiene\nautorización FDA 510(k)",
-          "body": "Una AI que estima el riesgo cardiovascular a 10 años con fotos de fondo de ojo recibió el aval de la FDA.",
-          "mini_headline": "DrNoon CVD obtiene el aval de la FDA",
+          "headline": "Angiografía retiniana sin tinte\npara el cribado ocular infantil",
+          "body": "Un modelo generativo convierte fotos desalineadas de fondo de ojo de bebés, tomadas a mano, en angiografías sin tinte.",
+          "mini_headline": "Angiografía retiniana infantil sin tinte",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546012"
-              },
-              {
                 "t": "p",
-                "x": "La empresa de inteligencia artificial (AI) médica Mediwhale anunció el día 25 que su software de AI ‘DrNoon CVD’, que predice el riesgo de enfermedad cardiovascular a partir de la retina, obtuvo la autorización 510(k) (Clearance) de la Administración de Alimentos y Medicamentos de Estados Unidos (FDA). La compañía planea usar esta autorización como base para impulsar de lleno la adopción de DrNoon CVD en instituciones médicas de Estados Unidos."
-              },
-              {
-                "t": "p",
-                "x": "DrNoon CVD es un dispositivo médico que analiza con AI imágenes de la retina tomadas con una cámara de fondo de ojo para evaluar el riesgo futuro de enfermedad cardiovascular. Recibió la autorización de la FDA para estimar, a partir de imágenes de la retina, el riesgo de un primer evento de enfermedad cardiovascular aterosclerótica (ASCVD) en los próximos 10 años."
-              },
-              {
-                "t": "p",
-                "x": "Los resultados se presentan como una puntuación de riesgo y 3 grupos de riesgo. Los médicos pueden revisarlos junto con otra información clínica del paciente y usarlos como información complementaria para evaluar el riesgo cardiovascular."
-              },
-              {
-                "t": "p",
-                "x": "En Estados Unidos ha crecido la importancia de los enfoques preventivos que evalúan y gestionan el riesgo cardiovascular en etapas tempranas. La guía de dislipidemia de 2026 del Colegio Americano de Cardiología y la Asociación Americana del Corazón también subraya la importancia del manejo temprano basado en la evaluación individual del riesgo."
-              },
-              {
-                "t": "p",
-                "x": "La empresa espera que DrNoon CVD sirva a los médicos de Estados Unidos como herramienta de evaluación del riesgo cardiovascular y contribuya a prevenir la enfermedad cardiovascular. La idea es ofrecer un enfoque que evalúe el riesgo cardiovascular mediante una fotografía no invasiva de la retina y lo vincule con un manejo preventivo. También se fijó la meta de consolidarlo como puerta de entrada a la prevención cardiovascular en la atención primaria (nivel 1) de Estados Unidos."
-              },
-              {
-                "t": "p",
-                "x": "“Los centros médicos de Estados Unidos cuentan ahora con una nueva opción para identificar el riesgo cardiovascular a bajo costo, sin extracción de sangre ni radiación”, dijo Choi Tae-geun, director ejecutivo de Mediwhale. “Sobre la evidencia demostrada en grandes cohortes sumaremos datos de uso real en Estados Unidos y lo extenderemos rápidamente a la atención primaria a través de la infraestructura de nuestros socios”."
+                "x": "Las enfermedades retinianas infantiles son una de las principales causas de ceguera en la niñez, y los hallazgos vasculares que orientan el cribado y el tratamiento suelen verse mal en la fotografía de fondo de ojo en color (CFP). La angiografía con fluoresceína del fondo de ojo (FFA) permite visualizar las anomalías vasculares de la retina, pero su carácter invasivo y su dependencia del colorante de fluoresceína limitan su uso rutinario en bebés vulnerables. La síntesis generativa podría ofrecer aproximaciones angiográficas no invasivas. Sin embargo, las imágenes infantiles suelen depender de cámaras de fondo de ojo de contacto portátiles y operadas a mano, y las variaciones en el ángulo de la sonda, la presión de contacto y el campo de visión entre las adquisiciones separadas de CFP y FFA debilitan la correspondencia espacial entre modalidades. En este artículo presentamos InfantAngio, un marco basado en difusión que reformula la síntesis CFP-to-FFA como una trayectoria determinista de transporte latente. Desarrollado y evaluado con 83,950 registros de pares de imágenes derivados del corregistro de 259 bebés, InfantAngio mostró un rendimiento favorable en las pruebas cuantitativas de calidad de imagen, mientras que los oftalmólogos distinguieron las imágenes FFA reales de las sintetizadas con una precisión cercana al azar, del 49.8%, en una evaluación ciega. Añadir FFA sintetizada a la CFP mejoró tanto el rendimiento del clasificador posterior como la precisión diagnóstica global en un estudio retrospectivo de lectura por oftalmólogos. Estos resultados respaldan la FFA sintetizada como un complemento no invasivo potencialmente útil para el cribado de bebés de alto riesgo, con la posibilidad de reducir la dependencia de procedimientos con colorante en escenarios clínicos reales."
               }
             ]
           }
@@ -395,15 +155,15 @@
       }
     },
     {
-      "id": "abridge-nabla-scribe-crossover",
+      "id": "medicine-stanford-or-vision",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Abridge·Nabla\nAI 기록 도구 맞대결",
-      "body": "의료진 100명이 90일간 AI 기록 도구 Abridge·Nabla를 견줬다.",
-      "mini_headline": "Abridge vs Nabla 기록 도구",
+      "headline": "수술실 카메라가\n수술 시각을 기록한다",
+      "body": "Stanford 연구에서 컴퓨터 비전이 수술실 시각을 사람만큼 정확히 기록했다.",
+      "mini_headline": "OR 카메라로 수술 시각 기록",
       "tool": "Medicine",
-      "source": "JAMIA (Journal of the American Medical Informatics Association)",
-      "url": "https://doi.org/10.1093/jamia/ocag192",
+      "source": "JAMA Surgery",
+      "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/10.1001/jamasurg.2026.5500",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -411,149 +171,101 @@
         "blocks": [
           {
             "t": "p",
-            "x": "연구진은 신속 학습 보건 시스템(LHS) 방식으로 앰비언트 AI 기록 시스템(AAS)을 평가했다. 의료진 100명이 90일 동안 Abridge와 Nabla 2개 시스템을 비교했다. 평가에는 클러스터 무작위 교차 비교, 사용 현황과 EHR 기반(EHR-based) 업무 흐름 결과 분석, 문서 품질과 안전성을 확인하는 표준화 모의 진료를 함께 썼다."
+            "x": "「Validation of Computer Vision in the Operating Room for Ambient Documentation」은 Stanford University School of Medicine이 JAMA Surgery에 낸 Research Letter(AI in Surgery)다. 수술실에서 이뤄지는 여러 시술의 앰비언트 타임스탬프 기록을 검증하려는 연구다."
           },
           {
             "t": "p",
-            "x": "표준화 모의 진료에서 두 시스템의 노트 항목 정확도는 똑같이 76%였고 위해 위험은 매우 낮았다. 무작위 교차 비교에서는 Abridge가 사용성 점수에서 앞섰고(78.5 vs 73) Nabla보다 3:1로 더 많이 선택받았다. Nabla는 자동 음성 인식 오류가 더 잦았다."
-          },
-          {
-            "t": "p",
-            "x": "임상 진료 16 479건 가운데 AAS를 쓴 비율은 35.7%였다. 전체 EHR 사용 시간은 하루 약 5분 줄었다. 당일 차트 마감은 초기 교차 기간에 약 5% 늘었으나 효과는 갈수록 약해졌다. 의료진 반응은 긍정적이었다(Net Promoter Score [NPS] 53)."
-          },
-          {
-            "t": "p",
-            "x": "두 시스템은 문서 정확도가 비슷했고 효율은 소폭 나아졌으며 임상의 만족도는 올라갔다. 사용률이 40%에 못 미친 데에는 문서 지원과 검증 부담 사이의 상충 관계가 반영돼 있다. 연구진은 효율과 문서 품질, 사용 패턴을 계속 지켜봐야 한다고 결론지었다."
+            "x": "저자들에 따르면 환자 입실·퇴실처럼 기록해 둘 만한 사건은 상당수가 시각 단서로 확인되는데, 실제 현장 도입이나 검증 연구는 아직 드물다. 저자들은 단일 기관에서 여러 시술에 걸쳐 OR 앰비언트 타임스탬프 기록을 검증한 경험과 도입을 가능하게 한 거버넌스 체계를 함께 소개한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Abridge and Nabla scribes\ngo head to head in a trial",
-          "body": "A cluster randomized crossover study of 100 providers over 90 days compared the Abridge and Nabla ambient AI scribes.",
-          "mini_headline": "Abridge vs Nabla scribes",
+          "headline": "Operating-room cameras log\nsurgical timestamps",
+          "body": "A Stanford study finds computer vision documents operating-room timestamps with human-level accuracy.",
+          "mini_headline": "OR cameras log\nsurgery times",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Researchers evaluated ambient AI scribe systems (AAS) with a rapid learning health system (LHS) approach, comparing 2 systems, Abridge and Nabla, among 100 providers over 90 days. The evaluation combined a cluster randomized crossover comparison, analysis of use and EHR-based workflow outcomes, and standardized simulated encounters to assess documentation quality and safety."
+                "x": "Validation of Computer Vision in the Operating Room for Ambient Documentation — a JAMA Surgery Research Letter (AI in Surgery) from Stanford University School of Medicine. This study aims to validate ambient timestamp documentation for a variety of procedures in the operating room."
               },
               {
                 "t": "p",
-                "x": "In standardized simulated encounters, both systems achieved 76% note element accuracy with minimal risk for harm. In the randomized crossover comparison, Abridge demonstrated higher usability scores (78.5 vs 73) and was preferred 3:1 over Nabla, which had higher automated speech recognition error rates."
-              },
-              {
-                "t": "p",
-                "x": "Across 16 479 clinical encounters, AAS was used in 35.7% of visits. Total EHR time decreased by approximately 5 minutes per day; same-day chart closure increased by approximately 5% during the initial crossover period, but this effect was attenuated. Provider experience was positive (Net Promoter Score [NPS] 53)."
-              },
-              {
-                "t": "p",
-                "x": "Both systems demonstrated comparable documentation accuracy and modest efficiency gains while improving clinician satisfaction. Adoption below 40% reflected the trade-off between documentation support and verification burden. The authors conclude that ongoing monitoring of efficiency, documentation quality, and use patterns is essential."
+                "x": "The authors note that many of the events worth documenting rely on visual cues, such as patient entry and exit, yet real-world implementation and validation studies remain scarce. They present their single-center experience validating ambient timestamp documentation in the OR across a range of procedures, and describe the governance framework that enabled its implementation."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Abridge·Nabla\nAI 기록 도구 맞대결",
-          "body": "의료진 100명이 90일간 AI 기록 도구 Abridge·Nabla를 견줬다.",
-          "mini_headline": "Abridge vs Nabla 기록 도구",
+          "headline": "수술실 카메라가\n수술 시각을 기록한다",
+          "body": "Stanford 연구에서 컴퓨터 비전이 수술실 시각을 사람만큼 정확히 기록했다.",
+          "mini_headline": "OR 카메라로 수술 시각 기록",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "연구진은 신속 학습 보건 시스템(LHS) 방식으로 앰비언트 AI 기록 시스템(AAS)을 평가했다. 의료진 100명이 90일 동안 Abridge와 Nabla 2개 시스템을 비교했다. 평가에는 클러스터 무작위 교차 비교, 사용 현황과 EHR 기반(EHR-based) 업무 흐름 결과 분석, 문서 품질과 안전성을 확인하는 표준화 모의 진료를 함께 썼다."
+                "x": "「Validation of Computer Vision in the Operating Room for Ambient Documentation」은 Stanford University School of Medicine이 JAMA Surgery에 낸 Research Letter(AI in Surgery)다. 수술실에서 이뤄지는 여러 시술의 앰비언트 타임스탬프 기록을 검증하려는 연구다."
               },
               {
                 "t": "p",
-                "x": "표준화 모의 진료에서 두 시스템의 노트 항목 정확도는 똑같이 76%였고 위해 위험은 매우 낮았다. 무작위 교차 비교에서는 Abridge가 사용성 점수에서 앞섰고(78.5 vs 73) Nabla보다 3:1로 더 많이 선택받았다. Nabla는 자동 음성 인식 오류가 더 잦았다."
-              },
-              {
-                "t": "p",
-                "x": "임상 진료 16 479건 가운데 AAS를 쓴 비율은 35.7%였다. 전체 EHR 사용 시간은 하루 약 5분 줄었다. 당일 차트 마감은 초기 교차 기간에 약 5% 늘었으나 효과는 갈수록 약해졌다. 의료진 반응은 긍정적이었다(Net Promoter Score [NPS] 53)."
-              },
-              {
-                "t": "p",
-                "x": "두 시스템은 문서 정확도가 비슷했고 효율은 소폭 나아졌으며 임상의 만족도는 올라갔다. 사용률이 40%에 못 미친 데에는 문서 지원과 검증 부담 사이의 상충 관계가 반영돼 있다. 연구진은 효율과 문서 품질, 사용 패턴을 계속 지켜봐야 한다고 결론지었다."
+                "x": "저자들에 따르면 환자 입실·퇴실처럼 기록해 둘 만한 사건은 상당수가 시각 단서로 확인되는데, 실제 현장 도입이나 검증 연구는 아직 드물다. 저자들은 단일 기관에서 여러 시술에 걸쳐 OR 앰비언트 타임스탬프 기록을 검증한 경험과 도입을 가능하게 한 거버넌스 체계를 함께 소개한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AbridgeとNabla\nAI記録ツールを直接比較",
-          "body": "100人の医療者を対象に90日間、AbridgeとNablaのAI記録ツールを比較した。",
-          "mini_headline": "Abridge vs Nabla AI記録",
+          "headline": "手術室カメラが\n手術の時刻を記録",
+          "body": "Stanfordの研究で、コンピュータービジョンが手術室の時刻を人並みの精度で記録した。",
+          "mini_headline": "ORカメラで手術時刻を記録",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究チームは、迅速学習型ヘルスシステム（LHS）の手法でアンビエントAI記録システム（AAS）を評価し、100人の医療者を対象に90日間、AbridgeとNablaの2つのシステムを比較した。評価では、クラスター無作為化クロスオーバー比較、利用状況とEHRベース（EHR-based）の業務フロー指標の分析、記録の質と安全性をみる標準化模擬診療を組み合わせた。"
+                "x": "「Validation of Computer Vision in the Operating Room for Ambient Documentation」は、Stanford University School of MedicineによるJAMA SurgeryのResearch Letter(AI in Surgery)である。本研究は、手術室で行われるさまざまな手技を対象に、アンビエントなタイムスタンプ記録を検証することを目的とする。"
               },
               {
                 "t": "p",
-                "x": "標準化模擬診療では、両システムとも記録項目の正確度が76%で、害が生じるリスクは最小限だった。無作為化クロスオーバー比較では、Abridgeの使いやすさスコアが高く（78.5 vs 73）、Nablaに対して3:1で好まれた。Nablaは自動音声認識の誤り率が高かった。"
-              },
-              {
-                "t": "p",
-                "x": "16 479件の診療のうち、AASが使われたのは35.7%だった。EHRの総使用時間は一日あたり約5分減った。当日のカルテ完了は初期のクロスオーバー期間に約5%増えたが、この効果は次第に弱まった。医療者の評価は良好だった（Net Promoter Score [NPS] 53）。"
-              },
-              {
-                "t": "p",
-                "x": "両システムは同程度の記録正確度と小幅な効率改善を示し、臨床医の満足度を高めた。利用率が40%を下回ったのは、記録支援と確認負担とのトレードオフを反映している。著者らは、効率、記録の質、利用パターンを継続的に監視することが欠かせないと結論づけた。"
+                "x": "著者らは、患者の入退室のように記録すべき出来事の多くが視覚的手がかりに依存している一方、実臨床での導入や検証の研究はいまだ乏しいと指摘する。そのうえで、さまざまな手技にわたってORでのアンビエントなタイムスタンプ記録を検証した単一施設での経験を示し、その導入を可能にしたガバナンスの枠組みを説明している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Abridge与Nabla\nAI病历助手正面对决",
-          "body": "涉及100名医疗人员、为期90天的交叉试验比较了Abridge与Nabla的AI记录工具。",
-          "mini_headline": "Abridge vs Nabla AI记录工具",
+          "headline": "手术室摄像头\n记录手术时间戳",
+          "body": "Stanford一项研究发现，计算机视觉记录手术室时间戳的准确度可达人类水平。",
+          "mini_headline": "OR摄像头记录手术时间",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究人员采用快速学习型卫生系统（LHS）方法评估环境AI病历记录系统（AAS），在100名医疗人员中为期90天比较了Abridge和Nabla这2个系统。评估结合了整群随机交叉比较、使用情况及基于EHR（EHR-based）的工作流程结果分析，以及用于评估文档质量和安全性的标准化模拟诊疗。"
+                "x": "《Validation of Computer Vision in the Operating Room for Ambient Documentation》是Stanford University School of Medicine发表于JAMA Surgery的一篇Research Letter（AI in Surgery）。该研究旨在验证手术室中多种手术的环境式时间戳记录。"
               },
               {
                 "t": "p",
-                "x": "在标准化模拟诊疗中，两个系统的病历要素准确率均为76%，造成伤害的风险极小。在随机交叉比较中，Abridge的可用性评分更高（78.5 vs 73），受偏好程度为Nabla的3:1；Nabla的自动语音识别错误率更高。"
-              },
-              {
-                "t": "p",
-                "x": "在16 479次临床诊疗中，35.7%的就诊使用了AAS。EHR总使用时间每天减少约5分钟；在最初的交叉期内，当日病历完成率提高约5%，但这一效果随后减弱。医疗人员的使用体验积极（Net Promoter Score [NPS] 53）。"
-              },
-              {
-                "t": "p",
-                "x": "两个系统的文档准确性相当，效率提升有限，但提高了临床医生满意度。使用率低于40%，反映出文档支持与核查负担之间的权衡。作者认为，持续监测效率、文档质量和使用模式至关重要。"
+                "x": "作者指出，许多值得记录的事件依赖视觉线索，例如患者进出手术室，但真实场景中的实施与验证研究仍然稀少。他们介绍了在单一中心验证OR内多种手术环境式时间戳记录的经验，并说明了使其得以实施的治理框架。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Abridge y Nabla se miden\nen un ensayo cara a cara",
-          "body": "Un ensayo cruzado aleatorizado con 100 profesionales durante 90 días comparó los escribas AI de Abridge y Nabla.",
-          "mini_headline": "Abridge vs Nabla: escribas AI",
+          "headline": "Cámaras de quirófano registran\nlos tiempos quirúrgicos",
+          "body": "Un estudio de Stanford halla que la visión artificial registra los tiempos del quirófano con precisión humana.",
+          "mini_headline": "Cámaras de OR registran tiempos quirúrgicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los investigadores evaluaron sistemas de escribas de AI ambiental (AAS) con un enfoque de sistema de salud de aprendizaje rápido (LHS), comparando 2 sistemas, Abridge y Nabla, entre 100 profesionales durante 90 días. La evaluación combinó una comparación cruzada aleatorizada por conglomerados, un análisis del uso y de resultados del flujo de trabajo basados en la EHR (EHR-based) y encuentros simulados estandarizados para valorar la calidad y la seguridad de la documentación."
+                "x": "Validation of Computer Vision in the Operating Room for Ambient Documentation — una Research Letter de JAMA Surgery (AI in Surgery) de la Stanford University School of Medicine. El estudio busca validar la documentación ambiental de marcas de tiempo en diversos procedimientos en el quirófano."
               },
               {
                 "t": "p",
-                "x": "En los encuentros simulados estandarizados, ambos sistemas lograron un 76% de precisión en los elementos de la nota con un riesgo mínimo de daño. En la comparación cruzada aleatorizada, Abridge obtuvo puntuaciones de usabilidad más altas (78.5 vs 73) y fue preferido 3:1 frente a Nabla, que tuvo tasas de error más altas en el reconocimiento automático de voz."
-              },
-              {
-                "t": "p",
-                "x": "En 16 479 encuentros clínicos, el AAS se usó en el 35.7% de las visitas. El tiempo total en la EHR disminuyó unos 5 minutos al día; el cierre de historias el mismo día aumentó cerca de un 5% durante el periodo cruzado inicial, pero el efecto se atenuó. La experiencia de los profesionales fue positiva (Net Promoter Score [NPS] 53)."
-              },
-              {
-                "t": "p",
-                "x": "Ambos sistemas mostraron una precisión documental comparable y mejoras de eficiencia modestas, a la vez que aumentaron la satisfacción de los clínicos. Una adopción inferior al 40% reflejó el equilibrio entre el apoyo a la documentación y la carga de verificación. Los autores concluyen que es esencial vigilar de forma continua la eficiencia, la calidad de la documentación y los patrones de uso."
+                "x": "Los autores señalan que muchos de los eventos que conviene documentar dependen de señales visuales, como la entrada y salida del paciente, pero los estudios de implementación y validación en condiciones reales siguen siendo escasos. Presentan su experiencia en un solo centro al validar la documentación ambiental de marcas de tiempo en el OR en distintos procedimientos y describen el marco de gobernanza que hizo posible su implementación."
               }
             ]
           }
@@ -561,105 +273,73 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Abridge·Nabla\nAI 기록 도구 시험 대결",
-          "body": "의료진 100명이 90일간 Abridge·Nabla AI 기록 도구를 비교했다.",
-          "mini_headline": "Abridge vs Nabla 기록 도구",
+          "headline": "수술실 카메라가\n수술 시각을 기록한다",
+          "body": "Stanford 연구에서 컴퓨터 비전이 수술실 시각을 사람만큼 정확히 기록했다.",
+          "mini_headline": "OR 카메라로 수술 시각 기록",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "연구진은 신속 학습 보건 시스템(LHS) 방식으로 앰비언트 AI 기록 시스템(AAS)을 평가했다. 의료진 100명을 대상으로 90일간 Abridge와 Nabla 2개 시스템을 비교했다. 평가는 클러스터 무작위 교차 비교, 사용 현황과 EHR 기반(EHR-based) 업무 흐름 결과 분석, 문서 품질과 안전성을 보기 위한 표준화 모의 진료를 결합했다."
+                "x": "「Validation of Computer Vision in the Operating Room for Ambient Documentation」은 Stanford University School of Medicine이 JAMA Surgery에 낸 Research Letter(AI in Surgery)다. 이 연구는 수술실에서 이뤄지는 다양한 시술을 대상으로 앰비언트 타임스탬프 기록을 검증하는 것을 목표로 한다."
               },
               {
                 "t": "p",
-                "x": "표준화 모의 진료에서 두 시스템 모두 노트 항목 정확도 76%를 기록했고 위해 위험은 매우 낮았다. 무작위 교차 비교에서 Abridge는 사용성 점수가 더 높았고(78.5 vs 73) Nabla보다 3:1로 선호됐다. Nabla는 자동 음성 인식 오류율이 더 높았다."
-              },
-              {
-                "t": "p",
-                "x": "임상 진료 16 479건에서 AAS 사용률은 35.7%였다. 전체 EHR 사용 시간은 하루 약 5분 줄었다. 당일 차트 마감은 초기 교차 기간에 약 5% 늘었지만 이 효과는 점차 약해졌다. 의료진 경험은 긍정적이었다(Net Promoter Score [NPS] 53)."
-              },
-              {
-                "t": "p",
-                "x": "두 시스템은 비슷한 문서 정확도와 소폭의 효율 개선을 보였고 임상의 만족도를 높였다. 40%에 못 미치는 사용률은 문서 지원과 검증 부담 사이의 상충 관계를 반영한다. 연구진은 효율, 문서 품질, 사용 패턴을 지속적으로 모니터링해야 한다고 결론지었다."
+                "x": "저자들은 환자의 입실과 퇴실처럼 기록할 가치가 있는 사건 상당수가 시각적 단서에 의존하지만, 실제 현장 도입과 검증 연구는 여전히 드물다고 지적한다. 이들은 단일 기관에서 여러 시술에 걸쳐 OR 앰비언트 타임스탬프 기록을 검증한 경험을 소개하고, 이를 도입할 수 있게 한 거버넌스 체계를 설명한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AbridgeとNabla\nAI記録ツールを直接比較",
-          "body": "100人の医療者を対象に90日間、AbridgeとNablaのAI記録ツールを比較した。",
-          "mini_headline": "Abridge vs Nabla AI記録",
+          "headline": "手術室カメラが\n手術の時刻を記録",
+          "body": "Stanfordの研究で、コンピュータービジョンが手術室の時刻を人並みの精度で記録した。",
+          "mini_headline": "ORカメラで手術時刻を記録",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究チームは、迅速学習型ヘルスシステム（LHS）の手法でアンビエントAI記録システム（AAS）を評価し、100人の医療者を対象に90日間、AbridgeとNablaの2つのシステムを比較した。評価では、クラスター無作為化クロスオーバー比較、利用状況とEHRベース（EHR-based）の業務フロー指標の分析、記録の質と安全性をみる標準化模擬診療を組み合わせた。"
+                "x": "「Validation of Computer Vision in the Operating Room for Ambient Documentation」は、Stanford University School of MedicineによるJAMA SurgeryのResearch Letter(AI in Surgery)である。本研究は、手術室で行われるさまざまな手技を対象に、アンビエントなタイムスタンプ記録を検証することを目的とする。"
               },
               {
                 "t": "p",
-                "x": "標準化模擬診療では、両システムとも記録項目の正確度が76%で、害が生じるリスクは最小限だった。無作為化クロスオーバー比較では、Abridgeの使いやすさスコアが高く（78.5 vs 73）、Nablaに対して3:1で好まれた。Nablaは自動音声認識の誤り率が高かった。"
-              },
-              {
-                "t": "p",
-                "x": "16 479件の診療のうち、AASが使われたのは35.7%だった。EHRの総使用時間は一日あたり約5分減った。当日のカルテ完了は初期のクロスオーバー期間に約5%増えたが、この効果は次第に弱まった。医療者の評価は良好だった（Net Promoter Score [NPS] 53）。"
-              },
-              {
-                "t": "p",
-                "x": "両システムは同程度の記録正確度と小幅な効率改善を示し、臨床医の満足度を高めた。利用率が40%を下回ったのは、記録支援と確認負担とのトレードオフを反映している。著者らは、効率、記録の質、利用パターンを継続的に監視することが欠かせないと結論づけた。"
+                "x": "著者らは、患者の入退室のように記録すべき出来事の多くが視覚的手がかりに依存している一方、実臨床での導入や検証の研究はいまだ乏しいと指摘する。そのうえで、さまざまな手技にわたってORでのアンビエントなタイムスタンプ記録を検証した単一施設での経験を示し、その導入を可能にしたガバナンスの枠組みを説明している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Abridge与Nabla\nAI病历助手正面对决",
-          "body": "涉及100名医疗人员、为期90天的交叉试验比较了Abridge与Nabla的AI记录工具。",
-          "mini_headline": "Abridge vs Nabla AI记录工具",
+          "headline": "手术室摄像头\n记录手术时间戳",
+          "body": "Stanford一项研究发现，计算机视觉记录手术室时间戳的准确度可达人类水平。",
+          "mini_headline": "OR摄像头记录手术时间",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究人员采用快速学习型卫生系统（LHS）方法评估环境AI病历记录系统（AAS），在100名医疗人员中为期90天比较了Abridge和Nabla这2个系统。评估结合了整群随机交叉比较、使用情况及基于EHR（EHR-based）的工作流程结果分析，以及用于评估文档质量和安全性的标准化模拟诊疗。"
+                "x": "《Validation of Computer Vision in the Operating Room for Ambient Documentation》是Stanford University School of Medicine发表于JAMA Surgery的一篇Research Letter（AI in Surgery）。该研究旨在验证手术室中多种手术的环境式时间戳记录。"
               },
               {
                 "t": "p",
-                "x": "在标准化模拟诊疗中，两个系统的病历要素准确率均为76%，造成伤害的风险极小。在随机交叉比较中，Abridge的可用性评分更高（78.5 vs 73），受偏好程度为Nabla的3:1；Nabla的自动语音识别错误率更高。"
-              },
-              {
-                "t": "p",
-                "x": "在16 479次临床诊疗中，35.7%的就诊使用了AAS。EHR总使用时间每天减少约5分钟；在最初的交叉期内，当日病历完成率提高约5%，但这一效果随后减弱。医疗人员的使用体验积极（Net Promoter Score [NPS] 53）。"
-              },
-              {
-                "t": "p",
-                "x": "两个系统的文档准确性相当，效率提升有限，但提高了临床医生满意度。使用率低于40%，反映出文档支持与核查负担之间的权衡。作者认为，持续监测效率、文档质量和使用模式至关重要。"
+                "x": "作者指出，许多值得记录的事件依赖视觉线索，例如患者进出手术室，但真实场景中的实施与验证研究仍然稀少。他们介绍了在单一中心验证OR内多种手术环境式时间戳记录的经验，并说明了使其得以实施的治理框架。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Abridge y Nabla se miden\nen un ensayo cara a cara",
-          "body": "Un ensayo cruzado aleatorizado con 100 profesionales durante 90 días comparó los escribas AI de Abridge y Nabla.",
-          "mini_headline": "Abridge vs Nabla: escribas AI",
+          "headline": "Cámaras de quirófano registran\nlos tiempos quirúrgicos",
+          "body": "Un estudio de Stanford halla que la visión artificial registra los tiempos del quirófano con precisión humana.",
+          "mini_headline": "Cámaras de OR registran tiempos quirúrgicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los investigadores evaluaron sistemas de escribas de AI ambiental (AAS) con un enfoque de sistema de salud de aprendizaje rápido (LHS), comparando 2 sistemas, Abridge y Nabla, entre 100 profesionales durante 90 días. La evaluación combinó una comparación cruzada aleatorizada por conglomerados, un análisis del uso y de resultados del flujo de trabajo basados en la EHR (EHR-based) y encuentros simulados estandarizados para valorar la calidad y la seguridad de la documentación."
+                "x": "Validation of Computer Vision in the Operating Room for Ambient Documentation — una Research Letter de JAMA Surgery (AI in Surgery) de la Stanford University School of Medicine. El estudio busca validar la documentación ambiental de marcas de tiempo en diversos procedimientos en el quirófano."
               },
               {
                 "t": "p",
-                "x": "En los encuentros simulados estandarizados, ambos sistemas lograron un 76% de precisión en los elementos de la nota con un riesgo mínimo de daño. En la comparación cruzada aleatorizada, Abridge obtuvo puntuaciones de usabilidad más altas (78.5 vs 73) y fue preferido 3:1 frente a Nabla, que tuvo tasas de error más altas en el reconocimiento automático de voz."
-              },
-              {
-                "t": "p",
-                "x": "En 16 479 encuentros clínicos, el AAS se usó en el 35.7% de las visitas. El tiempo total en la EHR disminuyó unos 5 minutos al día; el cierre de historias el mismo día aumentó cerca de un 5% durante el periodo cruzado inicial, pero el efecto se atenuó. La experiencia de los profesionales fue positiva (Net Promoter Score [NPS] 53)."
-              },
-              {
-                "t": "p",
-                "x": "Ambos sistemas mostraron una precisión documental comparable y mejoras de eficiencia modestas, a la vez que aumentaron la satisfacción de los clínicos. Una adopción inferior al 40% reflejó el equilibrio entre el apoyo a la documentación y la carga de verificación. Los autores concluyen que es esencial vigilar de forma continua la eficiencia, la calidad de la documentación y los patrones de uso."
+                "x": "Los autores señalan que muchos de los eventos que conviene documentar dependen de señales visuales, como la entrada y salida del paciente, pero los estudios de implementación y validación en condiciones reales siguen siendo escasos. Presentan su experiencia en un solo centro al validar la documentación ambiental de marcas de tiempo en el OR en distintos procedimientos y describen el marco de gobernanza que hizo posible su implementación."
               }
             ]
           }
@@ -667,959 +347,557 @@
       }
     },
     {
-      "id": "commsmed-ai-uncertainty-physicians",
-      "source_lang": "en",
+      "id": "dcmc-voice-emr-upgrade",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI 불확실성 표시에\n의사 판단 달라진다",
-      "body": "의사 227명 실험서 AI 불확실성 표시 방식이 조언 수용·정확도·신뢰를 갈랐다.",
-      "mini_headline": "AI 불확실성 표시와 신뢰",
+      "headline": "대구가톨릭대의료원\n음성 EMR 고도화",
+      "body": "진료 대화 중 의미 있는 정보를 골라 의료진별 서식으로 의무기록을 만든다.",
+      "mini_headline": "대구가톨릭대\n보이스 EMR",
       "tool": "Medicine",
-      "source": "Communications Medicine",
-      "url": "https://www.nature.com/articles/s43856-026-02008-4",
+      "source": "메디게이트뉴스",
+      "url": "https://www.medigatenews.com/news/1869758664",
       "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "머신러닝 기반 임상 의사결정 지원이 일상 진료에 들어오고 있다. 다만 그 가치는 임상의가 조언을 언제 따르고 언제 무시할지 가려낼 수 있느냐에 달렸다. 사전 등록된 무작위 비네트 실험에서 의사 227명이 패혈증 위험 평가 1,802건을 수행했다. 의사들은 초기 추정치를 먼저 낸 뒤 머신러닝 시스템의 조언을 보고 추정치를 고쳤다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
-            "cap": "Fig. 1: 연구 절차와 표시 조건."
-          },
-          {
-            "t": "p",
-            "x": "의사들은 위험 점수만 보는 조건과, 위험 점수에 불확실성 구간을 표시한 아이콘 배열이나 분위수 점 그림을 함께 보는 조건에 무작위로 배정됐다. 두 불확실성 표현은 위험 점수만 볼 때보다 조언 수용을 각각 23%, 21% 높였다. 그러나 잘못된 조언을 받아들이는 경우는 뚜렷하게 줄이지 못했다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
-            "cap": "Fig. 2: 조건별 CDSS 정답 여부에 따른 조언 수용."
-          },
-          {
-            "t": "p",
-            "x": "두 형식 모두 수정된 위험 추정치를 더 정확하게 만들었고 효과는 분위수 점 그림 쪽이 더 컸다. 신뢰를 높인 것은 아이콘 배열뿐이었다. 의사들은 불확실성이 왜 높아졌는지 알 때만 그 정보를 판단에 실제로 쓸 수 있다고 답했다. 연구진은 표현 형식에 따라 이점이 정확도와 신뢰 중 어느 쪽으로 나타날지가 갈린다고 결론지었다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "How AI shows its uncertainty\nshapes what physicians do",
-          "body": "Among 227 physicians, how an AI displayed its uncertainty changed advice uptake, accuracy and trust.",
-          "mini_headline": "AI uncertainty shapes trust",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Machine-learning-based clinical decision support is entering routine care, but its value depends on whether clinicians can judge when to follow its advice and when to override it. In a preregistered, randomized vignette experiment, 227 physicians produced 1,802 sepsis risk assessments: they gave an initial estimate, saw advice from a machine-learning system, and revised it."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
-                "cap": "Fig. 1: Study procedure and display conditions."
-              },
-              {
-                "t": "p",
-                "x": "Physicians were randomized to see a risk score alone, or the score together with icon arrays with uncertainty bands or quantile dotplots. Both uncertainty representations increased advice uptake relative to the risk score alone, by 23% and 21%, but uptake of incorrect advice was not reliably reduced."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
-                "cap": "Fig. 2: Advice uptake by CDSS correctness across conditions."
-              },
-              {
-                "t": "p",
-                "x": "Both formats improved the accuracy of revised risk estimates, with the larger effect for quantile dotplots, but only icon arrays increased trust. Physicians described uncertainty as actionable only where they could tell why it was elevated. The authors conclude that the representation format determines whether the benefit appears mainly as accuracy or trust."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 불확실성 표시에\n의사 판단 달라진다",
-          "body": "의사 227명 실험서 AI 불확실성 표시 방식이 조언 수용·정확도·신뢰를 갈랐다.",
-          "mini_headline": "AI 불확실성 표시와 신뢰",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "머신러닝 기반 임상 의사결정 지원이 일상 진료에 들어오고 있다. 다만 그 가치는 임상의가 조언을 언제 따르고 언제 무시할지 가려낼 수 있느냐에 달렸다. 사전 등록된 무작위 비네트 실험에서 의사 227명이 패혈증 위험 평가 1,802건을 수행했다. 의사들은 초기 추정치를 먼저 낸 뒤 머신러닝 시스템의 조언을 보고 추정치를 고쳤다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
-                "cap": "Fig. 1: 연구 절차와 표시 조건."
-              },
-              {
-                "t": "p",
-                "x": "의사들은 위험 점수만 보는 조건과, 위험 점수에 불확실성 구간을 표시한 아이콘 배열이나 분위수 점 그림을 함께 보는 조건에 무작위로 배정됐다. 두 불확실성 표현은 위험 점수만 볼 때보다 조언 수용을 각각 23%, 21% 높였다. 그러나 잘못된 조언을 받아들이는 경우는 뚜렷하게 줄이지 못했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
-                "cap": "Fig. 2: 조건별 CDSS 정답 여부에 따른 조언 수용."
-              },
-              {
-                "t": "p",
-                "x": "두 형식 모두 수정된 위험 추정치를 더 정확하게 만들었고 효과는 분위수 점 그림 쪽이 더 컸다. 신뢰를 높인 것은 아이콘 배열뿐이었다. 의사들은 불확실성이 왜 높아졌는지 알 때만 그 정보를 판단에 실제로 쓸 수 있다고 답했다. 연구진은 표현 형식에 따라 이점이 정확도와 신뢰 중 어느 쪽으로 나타날지가 갈린다고 결론지었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIの不確実性の示し方が\n医師の判断を左右する",
-          "body": "医師227人の実験で、AIの不確実性の示し方が助言の採用、精度、信頼を変えた。",
-          "mini_headline": "AIの不確実性表示と信頼",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "機械学習に基づく臨床意思決定支援は日常診療に入りつつあるが、その価値は、臨床医が助言に従うべき時と覆すべき時を判断できるかどうかにかかっている。事前登録された無作為化ビネット実験で、227人の医師が1,802件の敗血症リスク評価を行った。医師はまず初期推定を示し、機械学習システムの助言を見たうえで推定を修正した。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
-                "cap": "Fig. 1: 研究手順と表示条件。"
-              },
-              {
-                "t": "p",
-                "x": "医師は、リスクスコアのみ、またはスコアに不確実性の幅を示すアイコン配列か分位点ドットプロットを加えた表示のいずれかに無作為に割り付けられた。どちらの不確実性表現も、リスクスコアのみの場合と比べて助言の採用をそれぞれ23%、21%高めたが、誤った助言の採用を確実に減らすことはできなかった。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
-                "cap": "Fig. 2: 条件別にみたCDSSの正誤ごとの助言採用。"
-              },
-              {
-                "t": "p",
-                "x": "両形式とも修正後のリスク推定の正確さを高め、効果は分位点ドットプロットのほうが大きかったが、信頼を高めたのはアイコン配列だけだった。医師は、不確実性がなぜ高いのかがわかる場合に限り、それを判断に生かせると述べた。著者らは、表示形式によって利点が主に正確さとして表れるか信頼として表れるかが決まると結論づけた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI如何呈现不确定性\n左右医生的决策",
-          "body": "在227名医生中，AI呈现不确定性的方式改变了建议采纳率、准确性和信任度。",
-          "mini_headline": "AI不确定性呈现与信任",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "基于机器学习的临床决策支持正进入常规诊疗，但其价值取决于临床医生能否判断何时采纳建议、何时推翻建议。在一项预注册的随机情景实验中，227名医生完成了1,802次脓毒症风险评估：他们先给出初始估计，再查看机器学习系统的建议，然后修正估计。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
-                "cap": "Fig. 1: 研究流程与显示条件。"
-              },
-              {
-                "t": "p",
-                "x": "医生被随机分配查看单独的风险评分，或风险评分加上带不确定性区间的图标阵列或分位数点图。与单独的风险评分相比，两种不确定性呈现方式分别使建议采纳率提高23%和21%，但并未可靠地减少对错误建议的采纳。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
-                "cap": "Fig. 2: 各条件下按CDSS正确与否划分的建议采纳情况。"
-              },
-              {
-                "t": "p",
-                "x": "两种形式都提高了修正后风险估计的准确性，其中分位数点图效果更大，但只有图标阵列提升了信任。医生表示，只有在能看出不确定性为何升高时，它才具有可操作性。作者认为，呈现形式决定了获益主要体现为准确性还是信任。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La forma en que la AI muestra\nsu incertidumbre guía al médico",
-          "body": "Entre 227 médicos, cómo una AI mostraba su incertidumbre cambió la adopción de consejos, la precisión y la confianza.",
-          "mini_headline": "La incertidumbre de la AI y la confianza",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "El apoyo a la decisión clínica basado en aprendizaje automático está entrando en la atención habitual, pero su valor depende de que los clínicos sepan cuándo seguir sus consejos y cuándo descartarlos. En un experimento aleatorizado con viñetas y registro previo, 227 médicos realizaron 1,802 evaluaciones del riesgo de sepsis: dieron una estimación inicial, vieron el consejo de un sistema de aprendizaje automático y la revisaron."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
-                "cap": "Fig. 1: Procedimiento del estudio y condiciones de visualización."
-              },
-              {
-                "t": "p",
-                "x": "Los médicos fueron asignados al azar a ver solo una puntuación de riesgo, o la puntuación junto con matrices de iconos con bandas de incertidumbre o diagramas de puntos por cuantiles. Ambas representaciones de la incertidumbre aumentaron la adopción de consejos frente a la puntuación sola, en un 23% y un 21%, pero la adopción de consejos incorrectos no se redujo de forma fiable."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
-                "cap": "Fig. 2: Adopción de consejos según el acierto del CDSS en cada condición."
-              },
-              {
-                "t": "p",
-                "x": "Ambos formatos mejoraron la precisión de las estimaciones de riesgo revisadas, con un efecto mayor en los diagramas de puntos por cuantiles, pero solo las matrices de iconos aumentaron la confianza. Los médicos describieron la incertidumbre como útil para actuar solo cuando podían saber por qué era elevada. Los autores concluyen que el formato de representación determina si el beneficio se manifiesta sobre todo como precisión o como confianza."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 불확실성 표시 방식이\n의사 판단을 바꾼다",
-          "body": "의사 227명에게서 AI 불확실성 표시 방식이 조언 수용·정확도·신뢰를 바꿨다.",
-          "mini_headline": "AI 불확실성 표시와 신뢰",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "머신러닝 기반 임상 의사결정 지원이 일상 진료에 들어오고 있지만, 그 가치는 임상의가 조언을 언제 따르고 언제 무시할지 판단할 수 있느냐에 달려 있다. 사전 등록된 무작위 비네트 실험에서 의사 227명이 패혈증 위험 평가 1,802건을 수행했다. 의사들은 먼저 초기 추정치를 내고, 머신러닝 시스템의 조언을 본 뒤 추정치를 수정했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
-                "cap": "Fig. 1: 연구 절차와 표시 조건."
-              },
-              {
-                "t": "p",
-                "x": "의사들은 위험 점수만 보거나, 위험 점수와 함께 불확실성 구간을 표시한 아이콘 배열 또는 분위수 점 그림을 보도록 무작위 배정됐다. 두 불확실성 표현 모두 위험 점수만 볼 때보다 조언 수용을 각각 23%, 21% 높였지만, 잘못된 조언의 수용은 확실하게 줄이지 못했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
-                "cap": "Fig. 2: 조건별 CDSS 정답 여부에 따른 조언 수용."
-              },
-              {
-                "t": "p",
-                "x": "두 형식 모두 수정된 위험 추정치의 정확도를 높였고 효과는 분위수 점 그림에서 더 컸지만, 신뢰를 높인 것은 아이콘 배열뿐이었다. 의사들은 불확실성이 왜 높아졌는지 알 수 있을 때만 그 정보를 실제 판단에 쓸 수 있다고 말했다. 연구진은 표현 형식에 따라 이점이 주로 정확도로 나타날지 신뢰로 나타날지가 결정된다고 결론지었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIの不確実性の示し方が\n医師の判断を左右する",
-          "body": "医師227人の実験で、AIの不確実性の示し方が助言の採用、精度、信頼を変えた。",
-          "mini_headline": "AIの不確実性表示と信頼",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "機械学習に基づく臨床意思決定支援は日常診療に入りつつあるが、その価値は、臨床医が助言に従うべき時と覆すべき時を判断できるかどうかにかかっている。事前登録された無作為化ビネット実験で、227人の医師が1,802件の敗血症リスク評価を行った。医師はまず初期推定を示し、機械学習システムの助言を見たうえで推定を修正した。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
-                "cap": "Fig. 1: 研究手順と表示条件。"
-              },
-              {
-                "t": "p",
-                "x": "医師は、リスクスコアのみ、またはスコアに不確実性の幅を示すアイコン配列か分位点ドットプロットを加えた表示のいずれかに無作為に割り付けられた。どちらの不確実性表現も、リスクスコアのみの場合と比べて助言の採用をそれぞれ23%、21%高めたが、誤った助言の採用を確実に減らすことはできなかった。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
-                "cap": "Fig. 2: 条件別にみたCDSSの正誤ごとの助言採用。"
-              },
-              {
-                "t": "p",
-                "x": "両形式とも修正後のリスク推定の正確さを高め、効果は分位点ドットプロットのほうが大きかったが、信頼を高めたのはアイコン配列だけだった。医師は、不確実性がなぜ高いのかがわかる場合に限り、それを判断に生かせると述べた。著者らは、表示形式によって利点が主に正確さとして表れるか信頼として表れるかが決まると結論づけた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI如何呈现不确定性\n左右医生的决策",
-          "body": "在227名医生中，AI呈现不确定性的方式改变了建议采纳率、准确性和信任度。",
-          "mini_headline": "AI不确定性呈现与信任",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "基于机器学习的临床决策支持正进入常规诊疗，但其价值取决于临床医生能否判断何时采纳建议、何时推翻建议。在一项预注册的随机情景实验中，227名医生完成了1,802次脓毒症风险评估：他们先给出初始估计，再查看机器学习系统的建议，然后修正估计。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
-                "cap": "Fig. 1: 研究流程与显示条件。"
-              },
-              {
-                "t": "p",
-                "x": "医生被随机分配查看单独的风险评分，或风险评分加上带不确定性区间的图标阵列或分位数点图。与单独的风险评分相比，两种不确定性呈现方式分别使建议采纳率提高23%和21%，但并未可靠地减少对错误建议的采纳。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
-                "cap": "Fig. 2: 各条件下按CDSS正确与否划分的建议采纳情况。"
-              },
-              {
-                "t": "p",
-                "x": "两种形式都提高了修正后风险估计的准确性，其中分位数点图效果更大，但只有图标阵列提升了信任。医生表示，只有在能看出不确定性为何升高时，它才具有可操作性。作者认为，呈现形式决定了获益主要体现为准确性还是信任。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La forma en que la AI muestra\nsu incertidumbre guía al médico",
-          "body": "Entre 227 médicos, cómo una AI mostraba su incertidumbre cambió la adopción de consejos, la precisión y la confianza.",
-          "mini_headline": "La incertidumbre de la AI y la confianza",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "El apoyo a la decisión clínica basado en aprendizaje automático está entrando en la atención habitual, pero su valor depende de que los clínicos sepan cuándo seguir sus consejos y cuándo descartarlos. En un experimento aleatorizado con viñetas y registro previo, 227 médicos realizaron 1,802 evaluaciones del riesgo de sepsis: dieron una estimación inicial, vieron el consejo de un sistema de aprendizaje automático y la revisaron."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig1_HTML.png",
-                "cap": "Fig. 1: Procedimiento del estudio y condiciones de visualización."
-              },
-              {
-                "t": "p",
-                "x": "Los médicos fueron asignados al azar a ver solo una puntuación de riesgo, o la puntuación junto con matrices de iconos con bandas de incertidumbre o diagramas de puntos por cuantiles. Ambas representaciones de la incertidumbre aumentaron la adopción de consejos frente a la puntuación sola, en un 23% y un 21%, pero la adopción de consejos incorrectos no se redujo de forma fiable."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-02008-4/MediaObjects/43856_2026_2008_Fig2_HTML.png",
-                "cap": "Fig. 2: Adopción de consejos según el acierto del CDSS en cada condición."
-              },
-              {
-                "t": "p",
-                "x": "Ambos formatos mejoraron la precisión de las estimaciones de riesgo revisadas, con un efecto mayor en los diagramas de puntos por cuantiles, pero solo las matrices de iconos aumentaron la confianza. Los médicos describieron la incertidumbre como útil para actuar solo cuando podían saber por qué era elevada. Los autores concluyen que el formato de representación determina si el beneficio se manifiesta sobre todo como precisión o como confianza."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "alaska-stroke-ai-triage",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "알래스카 소규모 병원\nAI로 뇌졸중 환자 분류",
-      "body": "알래스카 소규모 병원 네트워크가 AI로 멀리 있는 뇌졸중 환자를 빠르게 분류한다.",
-      "mini_headline": "알래스카의 AI 뇌졸중 분류",
-      "tool": "Medicine",
-      "source": "STAT",
-      "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
-            "cap": "알래스카 앵커리지"
-          },
-          {
-            "t": "p",
-            "x": "알래스카에서는 뇌졸중 환자를 앵커리지까지 항공으로 옮기는 데 몇 시간이 걸리기도 한다. 혈전을 제거할 수 있는 주 내 신경중재 전문의 다섯 명은 모두 앵커리지에서 일한다. 소규모 병원 네트워크는 2023년부터 RapidAI의 같은 AI 소프트웨어를 함께 쓰며 뇌졸중 환자를 분류해 알맞은 치료로 더 빨리 연결한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
-            "cap": "앵커리지의 Providence Alaska Medical Center 캠퍼스."
-          },
-          {
-            "t": "p",
-            "x": "올여름 한 환자 사례에서는 CT 촬영 몇 초 만에 앱이 대혈관 폐색 의심 소견을 띄웠다. 의료진은 당직 영상의학과 전문의의 공식 판독이 나오기 이 분 전에 Providence에 이송을 요청했다. AI가 없었다면 적어도 한 시간은 더 걸렸을 것이다. 자원봉사 단체 Alaska Stroke Coalition은 가족 재단 기금으로 병원 여섯 곳에 RapidAI를 추가로 들였다. 비용은 약 $450,000였다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
-            "cap": "RapidAI 앱에서 의료진은 CT 영상과 AI 판독 결과(혈관 폐색)를 보며 판단에 참고한다."
-          },
-          {
-            "t": "p",
-            "x": "이송이 필요 없는 환자를 가려낼 때도 이 도구를 쓴다. 위양성이 나오기도 해서 모든 결과는 여전히 의사가 확인한다. 초기 데이터를 보면 환자가 앵커리지에 도착한 뒤 혈전 제거를 시작하기까지 걸리는 시간이 약 30% 줄었다. 다만 치료 결과 데이터는 아직 없다. 연합은 Rural Health Transformation Program에서 $3.2 million 규모의 지원을 받았다. 알래스카에서는 곧 급성기 병원 21곳과 진료소 두 곳이 RapidAI의 뇌졸중 시스템을 갖춘다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
-            "cap": "RapidAI 앱의 CT 관류 영상. 분홍색은 이미 괴사한 뇌 영역, 초록색은 아직 살릴 수 있는 조직이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Alaska hospitals bet on AI\nto speed stroke care",
-          "body": "A small network of Alaskan hospitals is using AI to triage stroke patients faster across vast distances.",
-          "mini_headline": "AI stroke triage in Alaska",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
-                "cap": "Anchorage, Alaska"
-              },
-              {
-                "t": "p",
-                "x": "In Alaska, it can take several hours to airlift a stroke patient to Anchorage, home to the state's five neurointerventionalists who can extract clots. Starting in 2023, a small network of hospitals agreed to use the same AI software, from RapidAI, to triage stroke patients and get them to the right care, faster."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
-                "cap": "The Providence Alaska Medical Center campus in Anchorage."
-              },
-              {
-                "t": "p",
-                "x": "For one patient this summer, the app flagged a suspected large vessel occlusion seconds after his CT; his team called Providence for a transfer two minutes before the on-call radiologist delivered the official report. Without the AI assist, it would have taken at least an extra hour. The volunteer Alaska Stroke Coalition used family-foundation funding to buy RapidAI for six additional hospitals, at a cost of about $450,000."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
-                "cap": "In the RapidAI app, providers see CT images and the AI’s interpretation — vessel occlusion — to help make decisions."
-              },
-              {
-                "t": "p",
-                "x": "The tool also helps doctors decide when not to transfer. It has false positives, and a doctor still reviews every output. Early data show about a 30% improvement in time to start clot retrieval once patients reach Anchorage, but no outcome data yet. The coalition received $3.2 million from the Rural Health Transformation Program, and Alaska will soon have 21 acute care hospitals and two clinics with RapidAI's stroke system."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
-                "cap": "A CT perfusion image in the RapidAI app shows pink areas of the brain that are dead, and tissue that’s still salvageable in green."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "알래스카 소규모 병원\nAI로 뇌졸중 환자 분류",
-          "body": "알래스카 소규모 병원 네트워크가 AI로 멀리 있는 뇌졸중 환자를 빠르게 분류한다.",
-          "mini_headline": "알래스카의 AI 뇌졸중 분류",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
-                "cap": "알래스카 앵커리지"
-              },
-              {
-                "t": "p",
-                "x": "알래스카에서는 뇌졸중 환자를 앵커리지까지 항공으로 옮기는 데 몇 시간이 걸리기도 한다. 혈전을 제거할 수 있는 주 내 신경중재 전문의 다섯 명은 모두 앵커리지에서 일한다. 소규모 병원 네트워크는 2023년부터 RapidAI의 같은 AI 소프트웨어를 함께 쓰며 뇌졸중 환자를 분류해 알맞은 치료로 더 빨리 연결한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
-                "cap": "앵커리지의 Providence Alaska Medical Center 캠퍼스."
-              },
-              {
-                "t": "p",
-                "x": "올여름 한 환자 사례에서는 CT 촬영 몇 초 만에 앱이 대혈관 폐색 의심 소견을 띄웠다. 의료진은 당직 영상의학과 전문의의 공식 판독이 나오기 이 분 전에 Providence에 이송을 요청했다. AI가 없었다면 적어도 한 시간은 더 걸렸을 것이다. 자원봉사 단체 Alaska Stroke Coalition은 가족 재단 기금으로 병원 여섯 곳에 RapidAI를 추가로 들였다. 비용은 약 $450,000였다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
-                "cap": "RapidAI 앱에서 의료진은 CT 영상과 AI 판독 결과(혈관 폐색)를 보며 판단에 참고한다."
-              },
-              {
-                "t": "p",
-                "x": "이송이 필요 없는 환자를 가려낼 때도 이 도구를 쓴다. 위양성이 나오기도 해서 모든 결과는 여전히 의사가 확인한다. 초기 데이터를 보면 환자가 앵커리지에 도착한 뒤 혈전 제거를 시작하기까지 걸리는 시간이 약 30% 줄었다. 다만 치료 결과 데이터는 아직 없다. 연합은 Rural Health Transformation Program에서 $3.2 million 규모의 지원을 받았다. 알래스카에서는 곧 급성기 병원 21곳과 진료소 두 곳이 RapidAI의 뇌졸중 시스템을 갖춘다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
-                "cap": "RapidAI 앱의 CT 관류 영상. 분홍색은 이미 괴사한 뇌 영역, 초록색은 아직 살릴 수 있는 조직이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "アラスカの病院、\nAIで脳卒中医療を加速",
-          "body": "アラスカの小規模な病院網が、AIで広大な距離を越えて脳卒中患者を素早く振り分けている。",
-          "mini_headline": "アラスカのAI脳卒中トリアージ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
-                "cap": "アラスカ州アンカレジ"
-              },
-              {
-                "t": "p",
-                "x": "アラスカでは、脳卒中患者をアンカレジへ空輸するのに数時間かかることがある。血栓を除去できる州内の脳神経血管内治療医五人は、いずれもアンカレジにいる。2023年から小規模な病院ネットワークがRapidAIの同じAIソフトウェアを使うことで合意し、脳卒中患者を振り分けて適切な治療へより早くつなげている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
-                "cap": "アンカレジにあるProvidence Alaska Medical Centerのキャンパス。"
-              },
-              {
-                "t": "p",
-                "x": "この夏のある患者では、CT撮影から数秒後にアプリが大血管閉塞の疑いを示した。医療チームは、当直の放射線科医が正式な報告を出す二分前にProvidenceへ転院を依頼した。AIの支援がなければ、少なくとも一時間は余計にかかっていた。ボランティア団体のAlaska Stroke Coalitionは家族財団の資金を使い、さらに六つの病院向けにRapidAIを約$450,000で購入した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
-                "cap": "RapidAIアプリでは、医療者がCT画像とAIによる解釈（血管閉塞）を見て判断の助けにする。"
-              },
-              {
-                "t": "p",
-                "x": "このツールは、転院させない判断にも役立つ。偽陽性もあり、すべての出力は依然として医師が確認する。初期データでは、患者がアンカレジに到着してから血栓回収を始めるまでの時間が約30%改善したが、転帰データはまだない。同連合はRural Health Transformation Programから$3.2 million の資金を受け、アラスカではまもなく21の急性期病院と二つの診療所がRapidAIの脳卒中システムを備える。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
-                "cap": "RapidAIアプリのCT灌流画像。ピンク色は脳の壊死した領域、緑色はまだ救える組織を示す。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "阿拉斯加医院押注AI\n加快卒中救治",
-          "body": "阿拉斯加一个小型医院网络正借助AI，跨越遥远距离更快地对卒中患者进行分诊。",
-          "mini_headline": "阿拉斯加AI卒中分诊",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
-                "cap": "阿拉斯加州安克雷奇"
-              },
-              {
-                "t": "p",
-                "x": "在阿拉斯加，将一名卒中患者空运到安克雷奇可能需要几个小时；全州能取栓的五名神经介入医生都在安克雷奇。自2023年起，一个小型医院网络同意使用RapidAI的同一款AI软件，对卒中患者进行分诊，让他们更快获得合适的治疗。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
-                "cap": "位于安克雷奇的Providence Alaska Medical Center院区。"
-              },
-              {
-                "t": "p",
-                "x": "今年夏天的一名患者在CT检查后几秒钟，应用就提示疑似大血管闭塞；他的医疗团队在值班放射科医生出具正式报告前两分钟就联系Providence要求转院。若没有AI辅助，至少要多花一小时。志愿组织Alaska Stroke Coalition利用家族基金会的资金，为另外六家医院购买了RapidAI，花费约$450,000。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
-                "cap": "在RapidAI应用中，医务人员可查看CT图像和AI的判读结果（血管闭塞），辅助决策。"
-              },
-              {
-                "t": "p",
-                "x": "该工具也帮助医生判断何时无需转院。它存在假阳性，每项输出仍由医生审核。早期数据显示，患者抵达安克雷奇后开始取栓的时间改善约30%，但尚无疗效数据。该联盟从Rural Health Transformation Program获得$3.2 million 资金，阿拉斯加很快将有21家急症医院和两家诊所使用RapidAI的卒中系统。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
-                "cap": "RapidAI应用中的CT灌注图像：粉色为已坏死的脑区，绿色为仍可挽救的组织。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Hospitales de Alaska usan AI\npara atender antes el ictus",
-          "body": "Una pequeña red de hospitales de Alaska usa AI para clasificar antes a pacientes con ictus a grandes distancias.",
-          "mini_headline": "Triaje de ictus con AI en Alaska",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
-                "cap": "Anchorage, Alaska"
-              },
-              {
-                "t": "p",
-                "x": "En Alaska, trasladar en avión a un paciente con ictus hasta Anchorage, donde trabajan los cinco neurointervencionistas del estado capaces de extraer coágulos, puede llevar varias horas. Desde 2023, una pequeña red de hospitales acordó usar el mismo software de AI, de RapidAI, para clasificar a los pacientes con ictus y llevarlos antes a la atención adecuada."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
-                "cap": "El campus del Providence Alaska Medical Center en Anchorage."
-              },
-              {
-                "t": "p",
-                "x": "En el caso de un paciente este verano, la aplicación señaló una posible oclusión de gran vaso segundos después de su CT; su equipo llamó a Providence para pedir el traslado dos minutos antes de que el radiólogo de guardia entregara el informe oficial. Sin la ayuda de la AI, habría tardado al menos una hora más. La Alaska Stroke Coalition, formada por voluntarios, usó fondos de una fundación familiar para comprar RapidAI para seis hospitales más, con un costo de unos $450,000."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
-                "cap": "En la aplicación RapidAI, los profesionales ven las imágenes de CT y la interpretación de la AI —oclusión de vaso— para apoyar sus decisiones."
-              },
-              {
-                "t": "p",
-                "x": "La herramienta también ayuda a decidir cuándo no trasladar. Tiene falsos positivos, y un médico sigue revisando cada resultado. Los primeros datos muestran una mejora de alrededor del 30% en el tiempo hasta iniciar la extracción del coágulo una vez que los pacientes llegan a Anchorage, aunque aún no hay datos de desenlaces. La coalición recibió $3.2 million del Rural Health Transformation Program, y Alaska pronto tendrá 21 hospitales de agudos y dos clínicas con el sistema de ictus de RapidAI."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
-                "cap": "Una imagen de perfusión por CT en la aplicación RapidAI muestra en rosa las zonas del cerebro que están muertas y en verde el tejido que aún puede salvarse."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "알래스카 병원들,\nAI로 뇌졸중 대응 가속",
-          "body": "알래스카의 소규모 병원 네트워크가 AI로 먼 거리의 뇌졸중 환자를 빨리 분류한다.",
-          "mini_headline": "알래스카의 AI 뇌졸중 분류",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
-                "cap": "알래스카 앵커리지"
-              },
-              {
-                "t": "p",
-                "x": "알래스카에서는 뇌졸중 환자를 앵커리지로 항공 이송하는 데 몇 시간이 걸릴 수 있다. 혈전을 제거할 수 있는 주 내 신경중재 전문의 다섯 명이 모두 앵커리지에 있다. 2023년부터 소규모 병원 네트워크가 RapidAI의 같은 AI 소프트웨어를 함께 쓰기로 하고, 뇌졸중 환자를 분류해 적절한 치료로 더 빨리 연결하고 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
-                "cap": "앵커리지의 Providence Alaska Medical Center 캠퍼스."
-              },
-              {
-                "t": "p",
-                "x": "올여름 한 환자의 경우, 앱이 CT 촬영 몇 초 뒤 대혈관 폐색 의심 소견을 표시했다. 의료진은 당직 영상의학과 전문의가 공식 판독을 내놓기 이 분 전에 Providence에 이송을 요청했다. AI의 도움이 없었다면 적어도 한 시간은 더 걸렸을 것이다. 자원봉사 단체인 Alaska Stroke Coalition은 가족 재단 기금으로 병원 여섯 곳에 RapidAI를 추가로 도입했고, 비용은 약 $450,000였다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
-                "cap": "RapidAI 앱에서 의료진은 CT 영상과 AI의 판독 결과(혈관 폐색)를 보며 결정에 참고한다."
-              },
-              {
-                "t": "p",
-                "x": "이 도구는 이송하지 않아도 되는 경우를 판단하는 데도 쓰인다. 위양성도 있어 모든 결과는 여전히 의사가 검토한다. 초기 데이터에 따르면 환자가 앵커리지에 도착한 뒤 혈전 제거 시작까지 걸리는 시간이 약 30% 개선됐지만, 아직 치료 결과 데이터는 없다. 연합은 Rural Health Transformation Program에서 $3.2 million 규모의 지원을 받았고, 알래스카에서는 곧 급성기 병원 21곳과 진료소 두 곳이 RapidAI의 뇌졸중 시스템을 갖추게 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
-                "cap": "RapidAI 앱의 CT 관류 영상. 분홍색은 이미 괴사한 뇌 영역, 초록색은 아직 살릴 수 있는 조직이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "アラスカの病院、\nAIで脳卒中医療を加速",
-          "body": "アラスカの小規模な病院網が、AIで広大な距離を越えて脳卒中患者を素早く振り分けている。",
-          "mini_headline": "アラスカのAI脳卒中トリアージ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
-                "cap": "アラスカ州アンカレジ"
-              },
-              {
-                "t": "p",
-                "x": "アラスカでは、脳卒中患者をアンカレジへ空輸するのに数時間かかることがある。血栓を除去できる州内の脳神経血管内治療医五人は、いずれもアンカレジにいる。2023年から小規模な病院ネットワークがRapidAIの同じAIソフトウェアを使うことで合意し、脳卒中患者を振り分けて適切な治療へより早くつなげている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
-                "cap": "アンカレジにあるProvidence Alaska Medical Centerのキャンパス。"
-              },
-              {
-                "t": "p",
-                "x": "この夏のある患者では、CT撮影から数秒後にアプリが大血管閉塞の疑いを示した。医療チームは、当直の放射線科医が正式な報告を出す二分前にProvidenceへ転院を依頼した。AIの支援がなければ、少なくとも一時間は余計にかかっていた。ボランティア団体のAlaska Stroke Coalitionは家族財団の資金を使い、さらに六つの病院向けにRapidAIを約$450,000で購入した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
-                "cap": "RapidAIアプリでは、医療者がCT画像とAIによる解釈（血管閉塞）を見て判断の助けにする。"
-              },
-              {
-                "t": "p",
-                "x": "このツールは、転院させない判断にも役立つ。偽陽性もあり、すべての出力は依然として医師が確認する。初期データでは、患者がアンカレジに到着してから血栓回収を始めるまでの時間が約30%改善したが、転帰データはまだない。同連合はRural Health Transformation Programから$3.2 million の資金を受け、アラスカではまもなく21の急性期病院と二つの診療所がRapidAIの脳卒中システムを備える。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
-                "cap": "RapidAIアプリのCT灌流画像。ピンク色は脳の壊死した領域、緑色はまだ救える組織を示す。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "阿拉斯加医院押注AI\n加快卒中救治",
-          "body": "阿拉斯加一个小型医院网络正借助AI，跨越遥远距离更快地对卒中患者进行分诊。",
-          "mini_headline": "阿拉斯加AI卒中分诊",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
-                "cap": "阿拉斯加州安克雷奇"
-              },
-              {
-                "t": "p",
-                "x": "在阿拉斯加，将一名卒中患者空运到安克雷奇可能需要几个小时；全州能取栓的五名神经介入医生都在安克雷奇。自2023年起，一个小型医院网络同意使用RapidAI的同一款AI软件，对卒中患者进行分诊，让他们更快获得合适的治疗。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
-                "cap": "位于安克雷奇的Providence Alaska Medical Center院区。"
-              },
-              {
-                "t": "p",
-                "x": "今年夏天的一名患者在CT检查后几秒钟，应用就提示疑似大血管闭塞；他的医疗团队在值班放射科医生出具正式报告前两分钟就联系Providence要求转院。若没有AI辅助，至少要多花一小时。志愿组织Alaska Stroke Coalition利用家族基金会的资金，为另外六家医院购买了RapidAI，花费约$450,000。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
-                "cap": "在RapidAI应用中，医务人员可查看CT图像和AI的判读结果（血管闭塞），辅助决策。"
-              },
-              {
-                "t": "p",
-                "x": "该工具也帮助医生判断何时无需转院。它存在假阳性，每项输出仍由医生审核。早期数据显示，患者抵达安克雷奇后开始取栓的时间改善约30%，但尚无疗效数据。该联盟从Rural Health Transformation Program获得$3.2 million 资金，阿拉斯加很快将有21家急症医院和两家诊所使用RapidAI的卒中系统。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
-                "cap": "RapidAI应用中的CT灌注图像：粉色为已坏死的脑区，绿色为仍可挽救的组织。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Hospitales de Alaska usan AI\npara atender antes el ictus",
-          "body": "Una pequeña red de hospitales de Alaska usa AI para clasificar antes a pacientes con ictus a grandes distancias.",
-          "mini_headline": "Triaje de ictus con AI en Alaska",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-100-1024x576.jpg",
-                "cap": "Anchorage, Alaska"
-              },
-              {
-                "t": "p",
-                "x": "En Alaska, trasladar en avión a un paciente con ictus hasta Anchorage, donde trabajan los cinco neurointervencionistas del estado capaces de extraer coágulos, puede llevar varias horas. Desde 2023, una pequeña red de hospitales acordó usar el mismo software de AI, de RapidAI, para clasificar a los pacientes con ictus y llevarlos antes a la atención adecuada."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/261120_STATNEWS_-101-1024x768.jpeg",
-                "cap": "El campus del Providence Alaska Medical Center en Anchorage."
-              },
-              {
-                "t": "p",
-                "x": "En el caso de un paciente este verano, la aplicación señaló una posible oclusión de gran vaso segundos después de su CT; su equipo llamó a Providence para pedir el traslado dos minutos antes de que el radiólogo de guardia entregara el informe oficial. Sin la ayuda de la AI, habría tardado al menos una hora más. La Alaska Stroke Coalition, formada por voluntarios, usó fondos de una fundación familiar para comprar RapidAI para seis hospitales más, con un costo de unos $450,000."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9367-1024x2220.jpg",
-                "cap": "En la aplicación RapidAI, los profesionales ven las imágenes de CT y la interpretación de la AI —oclusión de vaso— para apoyar sus decisiones."
-              },
-              {
-                "t": "p",
-                "x": "La herramienta también ayuda a decidir cuándo no trasladar. Tiene falsos positivos, y un médico sigue revisando cada resultado. Los primeros datos muestran una mejora de alrededor del 30% en el tiempo hasta iniciar la extracción del coágulo una vez que los pacientes llegan a Anchorage, aunque aún no hay datos de desenlaces. La coalición recibió $3.2 million del Rural Health Transformation Program, y Alaska pronto tendrá 21 hospitales de agudos y dos clínicas con el sistema de ictus de RapidAI."
-              },
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/11/IMG_9359-1024x2220.png",
-                "cap": "Una imagen de perfusión por CT en la aplicación RapidAI muestra en rosa las zonas del cerebro que están muertas y en verde el tejido que aún puede salvarse."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "a2z-omni-triage-ct",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "FDA, a2z AI 허가\nCT 아홉 소견 분류",
-      "body": "FDA가 CT 아홉 소견을 분류하는 AI a2z-Omni-Triage를 허가했다.",
-      "mini_headline": "FDA, CT 아홉 소견 분류 AI 허가",
-      "tool": "Medicine",
-      "source": "Diagnostic Imaging",
-      "url": "https://www.diagnosticimaging.com/view/fda-emerging-ai-triage-software-nine-findings-abdominopelvic-ct",
-      "accent": "#eb367f",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
-            "cap": "복부·골반 CT용으로 새로 FDA 허가(FDA-cleared)를 받은 a2z-Omni-Triage 소프트웨어는 천골 골절, 대형 대동맥류, 연조직 농양, 중등도 이상 층상 흉막 삼출 같은 의심 소견을 분류해 판독을 돕는다. (이미지 제공: Adobe Stock)"
+            "src": "https://medigatenews.com/file/news/546538"
           },
           {
             "t": "p",
-            "x": "미국 식품의약국(Food and Drug Administration, FDA)이 복부·골반 CT용 AI 기반(AI-powered) 보조 소프트웨어 a2z-Omni-Triage에 510(k) 허가를 내줬다."
+            "x": "대구가톨릭대학교의료원이 인공지능(AI) 음성인식 기반 의무기록 작성 솔루션 ‘보이스 EMR(Voice Electronic Medical Record)’을 고도화했다고 26일 밝혔다."
           },
           {
             "t": "p",
-            "x": "개발사 A2z Radiology AI는 a2z-Omni-Triage가 다음 소견이 의심될 때 이를 표시한다고 밝혔다. 기흉, 중등도 이상 층상 흉막 삼출, 복합 흉막 저류, 장 천공, 천골 외 골반 골절, 천골 또는 미골 골절, 연조직 농양, 중등도 이상 수신증, 대형 대동맥류(5 cm 이상)."
+            "x": "의료원은 2024년 대구·경북 지역 최초로 보이스 EMR을 도입해 영상의학과와 핵의학과 등에서 운영해 왔다. 기존 시스템은 의료진의 음성을 텍스트로 변환하거나 진료 내용을 요약·생성하는 데 중점을 뒀다."
           },
           {
             "t": "p",
-            "x": "A2z Radiology AI에 따르면 a2z-Omni-Triage는 조영 증강 CT와 비조영 CT 모두에 쓸 수 있다."
+            "x": "고도화된 보이스 EMR은 의료진과 환자 간 진료 대화에서 의학적으로 의미 있는 정보를 선별한다. 이를 의료진별 서식에 맞춰 의무기록으로 자동 생성한다. 의료원은 의료진이 반복적인 타이핑과 기록 업무 부담을 줄이고, 모니터를 보며 기록하던 시간을 환자 상태를 살피고 소통하는 데 활용할 수 있게 됐다고 설명했다."
           },
           {
             "t": "p",
-            "x": "a2z Radiology AI 최고의료정보책임자(Chief Medical Information Officer) Michael Moritz(MD, CIIP)는 “판독 목록이 긴 바쁜 근무 중에는 일상 검사로 의뢰된 CT도 긴급한 확인이 필요한 것으로 드러날 수 있다”며 “a2z-Omni-Triage는 의심 소견이 있는 검사를 판독 순서에서 앞당겨 준다”고 말했다."
+            "x": "실제 진료 현장에서 시스템을 사용한 한 교수는 환자의 신체 상태를 측정하는 과정에서 모니터가 아닌 환자 상태를 더욱 세심하게 살필 수 있게 됐다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "의료원은 입원 병동에서 음성 기반 전자간호기록 시스템 ‘보이스 ENR(Voice Electronic Nursing Record)’도 도입해 운영하고 있다. 보이스 ENR은 스마트폰을 활용한 음성인식 기술 기반 솔루션으로, 환자 정보 확인과 간호 행위 기록·저장을 실시간으로 지원한다. 현재 투약, 채혈, 수혈, 검사, 시술 전 환자 확인 절차에 활용되고 있다. 의료원은 향후 다양한 기능을 단계적으로 개발·적용할 방침이다."
+          },
+          {
+            "t": "p",
+            "x": "기획차장 설기호 교수는 “스마트병원은 단순히 AI 시스템의 수를 늘리는 것이 아니라, AI 기술을 통해 병원의 일하는 방식과 진료환경을 바꾸는 것”이라며 “이러한 변화는 환자 안전과 진료의 질, 행정 효율성, 환자 경험의 향상이라는 실질적인 성과로 이어져야 한다”고 강조했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "FDA clears a2z AI triage\nfor nine findings on CT",
-          "body": "The FDA cleared a2z Radiology AI's a2z-Omni-Triage for adjunctive triage of nine findings on abdominopelvic CT.",
-          "mini_headline": "FDA clears nine-finding CT triage",
+        "ko": {
+          "headline": "대구가톨릭대의료원\n음성 EMR 고도화",
+          "body": "진료 대화 중 의미 있는 정보를 골라 의료진별 서식으로 의무기록을 만든다.",
+          "mini_headline": "대구가톨릭대\n보이스 EMR",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
-                "cap": "For abdominopelvic CT scans, the newly FDA-cleared a2z-Omni-Triage software offers adjunctive triage for findings that may be suspicious for sacral fracture, large aortic aneurysm, soft tissue abscess and moderate or large layering pleural effusion and other conditions. (Image courtesy of Adobe Stock.)"
+                "src": "https://medigatenews.com/file/news/546538"
               },
               {
                 "t": "p",
-                "x": "The Food and Drug Administration (FDA) has issued 510(k) clearance for a2z-Omni-Triage software, an adjunctive AI-powered software for abdominopelvic CT."
+                "x": "대구가톨릭대학교의료원이 인공지능(AI) 음성인식 기반 의무기록 작성 솔루션 ‘보이스 EMR(Voice Electronic Medical Record)’을 고도화했다고 26일 밝혔다."
               },
               {
                 "t": "p",
-                "x": "A2z Radiology AI, the developer of a2z-Omni-Triage, said the software flags findings that are suspicious for the following: pneumothorax; moderate or large layering pleural effusion; complex pleural collection; bowel perforation; non-sacral pelvic fracture; sacral or coccygeal fracture; soft tissue abscess; moderate or severe hydronephrosis; large aortic aneurysm (5 cm or larger)."
+                "x": "의료원은 2024년 대구·경북 지역 최초로 보이스 EMR을 도입해 영상의학과와 핵의학과 등에서 운영해 왔다. 기존 시스템은 의료진의 음성을 텍스트로 변환하거나 진료 내용을 요약·생성하는 데 중점을 뒀다."
               },
               {
                 "t": "p",
-                "x": "The a2z-Omni-Triage software may be utilized for contrast-enhanced and non-contrast CT, according to A2z Radiology AI."
+                "x": "고도화된 보이스 EMR은 의료진과 환자 간 진료 대화에서 의학적으로 의미 있는 정보를 선별한다. 이를 의료진별 서식에 맞춰 의무기록으로 자동 생성한다. 의료원은 의료진이 반복적인 타이핑과 기록 업무 부담을 줄이고, 모니터를 보며 기록하던 시간을 환자 상태를 살피고 소통하는 데 활용할 수 있게 됐다고 설명했다."
               },
               {
                 "t": "p",
-                "x": "“On a busy shift with a long worklist, even a CT ordered as routine can turn out to need urgent attention,” said Michael Moritz, MD, CIIP, Chief Medical Information Officer of a2z Radiology AI. “a2z-Omni-Triage helps bring those studies with suspected findings forward for review.”"
+                "x": "실제 진료 현장에서 시스템을 사용한 한 교수는 환자의 신체 상태를 측정하는 과정에서 모니터가 아닌 환자 상태를 더욱 세심하게 살필 수 있게 됐다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "의료원은 입원 병동에서 음성 기반 전자간호기록 시스템 ‘보이스 ENR(Voice Electronic Nursing Record)’도 도입해 운영하고 있다. 보이스 ENR은 스마트폰을 활용한 음성인식 기술 기반 솔루션으로, 환자 정보 확인과 간호 행위 기록·저장을 실시간으로 지원한다. 현재 투약, 채혈, 수혈, 검사, 시술 전 환자 확인 절차에 활용되고 있다. 의료원은 향후 다양한 기능을 단계적으로 개발·적용할 방침이다."
+              },
+              {
+                "t": "p",
+                "x": "기획차장 설기호 교수는 “스마트병원은 단순히 AI 시스템의 수를 늘리는 것이 아니라, AI 기술을 통해 병원의 일하는 방식과 진료환경을 바꾸는 것”이라며 “이러한 변화는 환자 안전과 진료의 질, 행정 효율성, 환자 경험의 향상이라는 실질적인 성과로 이어져야 한다”고 강조했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "FDA, a2z AI 허가\nCT 아홉 소견 분류",
-          "body": "FDA가 CT 아홉 소견을 분류하는 AI a2z-Omni-Triage를 허가했다.",
-          "mini_headline": "FDA, CT 아홉 소견 분류 AI 허가",
+        "en": {
+          "headline": "Daegu Catholic Medical Center\nupgrades its voice EMR",
+          "body": "The system picks out meaningful details from consultations and writes medical records in each clinician's format.",
+          "mini_headline": "Daegu Catholic Voice EMR",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
-                "cap": "복부·골반 CT용으로 새로 FDA 허가(FDA-cleared)를 받은 a2z-Omni-Triage 소프트웨어는 천골 골절, 대형 대동맥류, 연조직 농양, 중등도 이상 층상 흉막 삼출 같은 의심 소견을 분류해 판독을 돕는다. (이미지 제공: Adobe Stock)"
+                "src": "https://medigatenews.com/file/news/546538"
               },
               {
                 "t": "p",
-                "x": "미국 식품의약국(Food and Drug Administration, FDA)이 복부·골반 CT용 AI 기반(AI-powered) 보조 소프트웨어 a2z-Omni-Triage에 510(k) 허가를 내줬다."
+                "x": "Daegu Catholic University Medical Center said on the 26th that it has upgraded Voice EMR (Voice Electronic Medical Record), its artificial intelligence (AI) speech-recognition solution for writing medical records."
               },
               {
                 "t": "p",
-                "x": "개발사 A2z Radiology AI는 a2z-Omni-Triage가 다음 소견이 의심될 때 이를 표시한다고 밝혔다. 기흉, 중등도 이상 층상 흉막 삼출, 복합 흉막 저류, 장 천공, 천골 외 골반 골절, 천골 또는 미골 골절, 연조직 농양, 중등도 이상 수신증, 대형 대동맥류(5 cm 이상)."
+                "x": "In 2024 the medical center became the first in the Daegu-Gyeongbuk region to introduce Voice EMR, running it in departments including radiology and nuclear medicine. The previous system focused on converting clinicians' speech into text or on summarizing and generating consultation content."
               },
               {
                 "t": "p",
-                "x": "A2z Radiology AI에 따르면 a2z-Omni-Triage는 조영 증강 CT와 비조영 CT 모두에 쓸 수 있다."
+                "x": "The upgraded Voice EMR selects medically meaningful information from conversations between clinicians and patients during consultations, then automatically generates medical records in each clinician's format. The medical center explained that clinicians now carry less of the burden of repetitive typing and documentation, and can use the time once spent recording while looking at a monitor to check on patients and talk with them."
               },
               {
                 "t": "p",
-                "x": "a2z Radiology AI 최고의료정보책임자(Chief Medical Information Officer) Michael Moritz(MD, CIIP)는 “판독 목록이 긴 바쁜 근무 중에는 일상 검사로 의뢰된 CT도 긴급한 확인이 필요한 것으로 드러날 수 있다”며 “a2z-Omni-Triage는 의심 소견이 있는 검사를 판독 순서에서 앞당겨 준다”고 말했다."
+                "x": "A professor who has used the system in actual clinical practice said that while measuring a patient's physical condition, they can now watch the patient more closely instead of the monitor."
+              },
+              {
+                "t": "p",
+                "x": "The medical center also runs Voice ENR (Voice Electronic Nursing Record), a voice-based electronic nursing record system, on its inpatient wards. Voice ENR is a smartphone-based speech-recognition solution that supports checking patient information and recording and storing nursing activities in real time. It is currently used in patient identification procedures before medication, blood draws, transfusions, tests and procedures. The medical center plans to develop and apply a range of further functions in stages."
+              },
+              {
+                "t": "p",
+                "x": "Professor Seol Ki-ho, deputy director of planning, stressed, “A smart hospital is not simply about increasing the number of AI systems, but about using AI technology to change how the hospital works and its care environment,” adding, “These changes must lead to tangible results: better patient safety, quality of care, administrative efficiency and patient experience.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDA、a2zのAIを認可\nCTで九つの所見を分類",
-          "body": "FDAはCTで九つの所見を分類するAI、a2z-Omni-Triageを認可した。",
-          "mini_headline": "FDA、CTの九所見トリアージを認可",
+          "headline": "大邱カトリック大医療院\n音声EMRを高度化",
+          "body": "診療中の会話から意味のある情報を選び、医療者ごとの書式で診療記録を作成する。",
+          "mini_headline": "大邱カトリック大のボイスEMR",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
-                "cap": "腹部骨盤CTについて、新たにFDA認可（FDA-cleared）を受けたa2z-Omni-Triageソフトウェアは、仙骨骨折、大きな大動脈瘤、軟部組織膿瘍、中等量以上の層状胸水などが疑われる所見の補助的トリアージを行う。（画像提供：Adobe Stock）"
+                "src": "https://medigatenews.com/file/news/546538"
               },
               {
                 "t": "p",
-                "x": "米食品医薬品局（Food and Drug Administration、FDA）は、腹部骨盤CT向けのAIを活用した（AI-powered）補助ソフトウェアa2z-Omni-Triageに510(k)認可を与えた。"
+                "x": "大邱カトリック大学医療院は26日、人工知能(AI)音声認識に基づく診療記録作成ソリューション「ボイスEMR(Voice Electronic Medical Record)」を高度化したと発表した。"
               },
               {
                 "t": "p",
-                "x": "a2z-Omni-Triageの開発元であるA2z Radiology AIによると、このソフトウェアは次の所見が疑われる場合にフラグを立てる。気胸、中等量以上の層状胸水、複雑性胸水貯留、腸管穿孔、仙骨以外の骨盤骨折、仙骨または尾骨の骨折、軟部組織膿瘍、中等度以上の水腎症、大きな大動脈瘤（5 cm以上）。"
+                "x": "医療院は2024年、大邱・慶北地域で初めてボイスEMRを導入し、放射線科や核医学科などで運用してきた。従来のシステムは、医療者の音声をテキストに変換したり、診療内容を要約・生成したりすることに重点を置いていた。"
               },
               {
                 "t": "p",
-                "x": "A2z Radiology AIによると、a2z-Omni-Triageソフトウェアは造影CTと非造影CTのどちらにも使用できる。"
+                "x": "高度化したボイスEMRは、医療者と患者の診療中の会話から医学的に意味のある情報を選び出す。それを医療者ごとの書式に合わせて診療記録として自動生成する。医療院は、医療者が反復的なタイピングや記録業務の負担を減らし、モニターを見ながら記録していた時間を、患者の状態の確認や対話に充てられるようになったと説明した。"
               },
               {
                 "t": "p",
-                "x": "a2z Radiology AIの最高医療情報責任者（Chief Medical Information Officer）であるMichael Moritz（MD、CIIP）は「作業リストが長い忙しいシフトでは、通常の検査としてオーダーされたCTでも緊急の対応が必要だと判明することがある」と述べ、「a2z-Omni-Triageは、疑わしい所見のある検査を読影の順番で前に出す助けになる」と語った。"
+                "x": "実際の診療現場でシステムを使ったある教授は、患者の身体状態を測定する過程で、モニターではなく患者の状態をより細かく観察できるようになったと話した。"
+              },
+              {
+                "t": "p",
+                "x": "医療院は入院病棟で、音声ベースの電子看護記録システム「ボイスENR(Voice Electronic Nursing Record)」も導入・運用している。ボイスENRはスマートフォンを活用した音声認識技術ベースのソリューションで、患者情報の確認と看護行為の記録・保存をリアルタイムで支援する。現在は投薬、採血、輸血、検査、処置前の患者確認手順に活用されている。医療院は今後、さまざまな機能を段階的に開発・適用していく方針だ。"
+              },
+              {
+                "t": "p",
+                "x": "企画次長のソル・ギホ教授は「スマート病院とは、単にAIシステムの数を増やすことではなく、AI技術によって病院の働き方と診療環境を変えることだ」とし、「こうした変化は、患者の安全と診療の質、行政の効率性、患者体験の向上という実質的な成果につながらなければならない」と強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FDA批准a2z AI分诊\n覆盖CT九类征象",
-          "body": "FDA批准AI软件a2z-Omni-Triage用于腹盆部CT九类征象的辅助分诊。",
-          "mini_headline": "FDA批准CT九类征象分诊",
+          "headline": "大邱天主教大学医疗院\n升级语音EMR",
+          "body": "从诊疗对话中筛选有意义的信息，按医护人员各自的格式生成病历。",
+          "mini_headline": "大邱天主教大学语音EMR",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
-                "cap": "针对腹盆部CT扫描，新获FDA许可（FDA-cleared）的a2z-Omni-Triage软件可对疑似骶骨骨折、大型主动脉瘤、软组织脓肿以及中量或大量分层胸腔积液等情况的征象进行辅助分诊。（图片来源：Adobe Stock）"
+                "src": "https://medigatenews.com/file/news/546538"
               },
               {
                 "t": "p",
-                "x": "美国食品药品监督管理局（Food and Drug Administration，FDA）已向a2z-Omni-Triage软件授予510(k)许可。这是一款用于腹盆部CT的AI驱动（AI-powered）辅助软件。"
+                "x": "大邱天主教大学医疗院26日表示，已升级基于人工智能（AI）语音识别的病历书写解决方案“语音EMR（Voice Electronic Medical Record）”。"
               },
               {
                 "t": "p",
-                "x": "a2z-Omni-Triage的开发商A2z Radiology AI表示，该软件会标记疑似以下情况的征象：气胸；中量或大量分层胸腔积液；复杂性胸腔积液；肠穿孔；非骶骨骨盆骨折；骶骨或尾骨骨折；软组织脓肿；中度或重度肾积水；大型主动脉瘤（5 cm或以上）。"
+                "x": "该医疗院于2024年在大邱·庆北地区率先引入语音EMR，并在放射科和核医学科等科室运行。原有系统侧重于将医护人员的语音转换为文本，或对诊疗内容进行摘要和生成。"
               },
               {
                 "t": "p",
-                "x": "据A2z Radiology AI介绍，a2z-Omni-Triage软件可用于增强CT和平扫CT。"
+                "x": "升级后的语音EMR会从医护人员与患者的诊疗对话中筛选出具有医学意义的信息，并按照每位医护人员的格式自动生成病历。医疗院表示，医护人员因此减轻了重复打字和记录工作的负担，可以把过去盯着显示器记录的时间用于观察患者状况和与患者沟通。"
               },
               {
                 "t": "p",
-                "x": "a2z Radiology AI首席医疗信息官（Chief Medical Information Officer）Michael Moritz（MD，CIIP）说：“在工作清单很长的繁忙班次中，即便是作为常规检查开具的CT，也可能需要紧急处理。”他还说：“a2z-Omni-Triage有助于把有疑似征象的检查提前送审。”"
+                "x": "一位在实际诊疗现场使用该系统的教授表示，在测量患者身体状况的过程中，自己能够不看显示器，而是更细致地观察患者状态。"
+              },
+              {
+                "t": "p",
+                "x": "医疗院还在住院病房引入并运行基于语音的电子护理记录系统“语音ENR（Voice Electronic Nursing Record）”。语音ENR是一款利用智能手机、基于语音识别技术的解决方案，可实时支持患者信息核对以及护理行为的记录和保存。目前，它被用于给药、采血、输血、检查和操作前的患者确认流程。医疗院计划今后分阶段开发和应用更多功能。"
+              },
+              {
+                "t": "p",
+                "x": "企划副室长Seol Ki-ho教授强调：“智慧医院并不只是增加AI系统的数量，而是通过AI技术改变医院的工作方式和诊疗环境。”他还表示：“这些变化应当转化为提升患者安全、诊疗质量、行政效率和患者体验等实际成果。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La FDA autoriza la AI de a2z\npara nueve hallazgos en CT",
-          "body": "La FDA autorizó a2z-Omni-Triage, de a2z Radiology AI, para triaje auxiliar de nueve hallazgos en CT abdominopélvica.",
-          "mini_headline": "La FDA autoriza triaje de CT para nueve hallazgos",
+          "headline": "Centro Médico Católico de Daegu\nperfecciona su EMR por voz",
+          "body": "El sistema elige datos relevantes de la consulta y redacta la historia clínica en el formato de cada profesional.",
+          "mini_headline": "Voice EMR en el Centro Médico Católico de Daegu",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
-                "cap": "Para las CT abdominopélvicas, el software a2z-Omni-Triage, recién autorizado por la FDA (FDA-cleared), ofrece triaje auxiliar de hallazgos que pueden ser sospechosos de fractura sacra, aneurisma aórtico grande, absceso de tejidos blandos y derrame pleural estratificado moderado o grande, entre otras afecciones. (Imagen cortesía de Adobe Stock.)"
+                "src": "https://medigatenews.com/file/news/546538"
               },
               {
                 "t": "p",
-                "x": "La Administración de Alimentos y Medicamentos (Food and Drug Administration, FDA) otorgó la autorización 510(k) al software a2z-Omni-Triage, un software auxiliar basado en AI (AI-powered) para CT abdominopélvica."
+                "x": "El Centro Médico de la Universidad Católica de Daegu anunció el día 26 que ha mejorado Voice EMR (Voice Electronic Medical Record), su solución para redactar historias clínicas basada en el reconocimiento de voz con inteligencia artificial (AI)."
               },
               {
                 "t": "p",
-                "x": "A2z Radiology AI, desarrolladora de a2z-Omni-Triage, indicó que el software señala hallazgos sospechosos de lo siguiente: neumotórax; derrame pleural estratificado moderado o grande; colección pleural compleja; perforación intestinal; fractura pélvica no sacra; fractura sacra o coccígea; absceso de tejidos blandos; hidronefrosis moderada o grave; aneurisma aórtico grande (5 cm o más)."
+                "x": "En 2024 el centro fue el primero de la región de Daegu-Gyeongbuk en implantar Voice EMR, que ha utilizado en servicios como radiología y medicina nuclear. El sistema anterior se centraba en convertir la voz del personal médico en texto o en resumir y generar el contenido de la consulta."
               },
               {
                 "t": "p",
-                "x": "Según A2z Radiology AI, el software a2z-Omni-Triage puede utilizarse en CT con contraste y sin contraste."
+                "x": "La versión mejorada de Voice EMR selecciona la información médicamente relevante de las conversaciones entre el personal médico y los pacientes durante la consulta, y la convierte automáticamente en historias clínicas con el formato de cada profesional. Según el centro, esto reduce la carga del tecleo repetitivo y de la documentación, y permite dedicar el tiempo que antes se pasaba registrando frente al monitor a observar el estado del paciente y comunicarse con él."
               },
               {
                 "t": "p",
-                "x": "“En un turno con mucho trabajo y una lista larga, incluso una CT solicitada como rutinaria puede resultar necesitada de atención urgente”, dijo Michael Moritz, MD, CIIP, director de información médica (Chief Medical Information Officer) de a2z Radiology AI. “a2z-Omni-Triage ayuda a adelantar para su revisión los estudios con hallazgos sospechosos”."
+                "x": "Un profesor que ha usado el sistema en la práctica clínica afirmó que, al medir el estado físico de los pacientes, ahora puede observarlos con más atención en lugar de mirar el monitor."
+              },
+              {
+                "t": "p",
+                "x": "En las salas de hospitalización, el centro también utiliza Voice ENR (Voice Electronic Nursing Record), un sistema de registro electrónico de enfermería basado en la voz. Voice ENR es una solución de reconocimiento de voz que funciona con teléfonos inteligentes y permite verificar la información del paciente y registrar y guardar los cuidados de enfermería en tiempo real. Actualmente se emplea en la verificación del paciente antes de la medicación, las extracciones de sangre, las transfusiones, las pruebas y los procedimientos. El centro prevé desarrollar y aplicar nuevas funciones de forma gradual."
+              },
+              {
+                "t": "p",
+                "x": "El profesor Seol Ki-ho, subdirector de planificación, subrayó: “Un hospital inteligente no consiste simplemente en aumentar el número de sistemas de AI, sino en cambiar la forma de trabajar del hospital y el entorno asistencial mediante la tecnología de AI”. Y añadió: “Estos cambios deben traducirse en resultados concretos: mejoras en la seguridad del paciente, la calidad de la atención, la eficiencia administrativa y la experiencia del paciente”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Daegu Catholic Medical Center\nupgrades its voice EMR",
+          "body": "The system picks out meaningful details from consultations and writes medical records in each clinician's format.",
+          "mini_headline": "Daegu Catholic Voice EMR",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/546538"
+              },
+              {
+                "t": "p",
+                "x": "Daegu Catholic University Medical Center said on the 26th that it has upgraded Voice EMR (Voice Electronic Medical Record), its artificial intelligence (AI) speech-recognition solution for writing medical records."
+              },
+              {
+                "t": "p",
+                "x": "In 2024 the medical center became the first in the Daegu-Gyeongbuk region to introduce Voice EMR, running it in departments including radiology and nuclear medicine. The previous system focused on converting clinicians' speech into text or on summarizing and generating consultation content."
+              },
+              {
+                "t": "p",
+                "x": "The upgraded Voice EMR selects medically meaningful information from conversations between clinicians and patients during consultations, then automatically generates medical records in each clinician's format. The medical center explained that clinicians now carry less of the burden of repetitive typing and documentation, and can use the time once spent recording while looking at a monitor to check on patients and talk with them."
+              },
+              {
+                "t": "p",
+                "x": "A professor who has used the system in actual clinical practice said that while measuring a patient's physical condition, they can now watch the patient more closely instead of the monitor."
+              },
+              {
+                "t": "p",
+                "x": "The medical center also runs Voice ENR (Voice Electronic Nursing Record), a voice-based electronic nursing record system, on its inpatient wards. Voice ENR is a smartphone-based speech-recognition solution that supports checking patient information and recording and storing nursing activities in real time. It is currently used in patient identification procedures before medication, blood draws, transfusions, tests and procedures. The medical center plans to develop and apply a range of further functions in stages."
+              },
+              {
+                "t": "p",
+                "x": "Professor Seol Ki-ho, deputy director of planning, stressed, “A smart hospital is not simply about increasing the number of AI systems, but about using AI technology to change how the hospital works and its care environment,” adding, “These changes must lead to tangible results: better patient safety, quality of care, administrative efficiency and patient experience.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "大邱カトリック大医療院\n音声EMRを高度化",
+          "body": "診療中の会話から意味のある情報を選び、医療者ごとの書式で診療記録を作成する。",
+          "mini_headline": "大邱カトリック大のボイスEMR",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/546538"
+              },
+              {
+                "t": "p",
+                "x": "大邱カトリック大学医療院は26日、人工知能(AI)音声認識に基づく診療記録作成ソリューション「ボイスEMR(Voice Electronic Medical Record)」を高度化したと発表した。"
+              },
+              {
+                "t": "p",
+                "x": "医療院は2024年、大邱・慶北地域で初めてボイスEMRを導入し、放射線科や核医学科などで運用してきた。従来のシステムは、医療者の音声をテキストに変換したり、診療内容を要約・生成したりすることに重点を置いていた。"
+              },
+              {
+                "t": "p",
+                "x": "高度化したボイスEMRは、医療者と患者の診療中の会話から医学的に意味のある情報を選び出す。それを医療者ごとの書式に合わせて診療記録として自動生成する。医療院は、医療者が反復的なタイピングや記録業務の負担を減らし、モニターを見ながら記録していた時間を、患者の状態の確認や対話に充てられるようになったと説明した。"
+              },
+              {
+                "t": "p",
+                "x": "実際の診療現場でシステムを使ったある教授は、患者の身体状態を測定する過程で、モニターではなく患者の状態をより細かく観察できるようになったと話した。"
+              },
+              {
+                "t": "p",
+                "x": "医療院は入院病棟で、音声ベースの電子看護記録システム「ボイスENR(Voice Electronic Nursing Record)」も導入・運用している。ボイスENRはスマートフォンを活用した音声認識技術ベースのソリューションで、患者情報の確認と看護行為の記録・保存をリアルタイムで支援する。現在は投薬、採血、輸血、検査、処置前の患者確認手順に活用されている。医療院は今後、さまざまな機能を段階的に開発・適用していく方針だ。"
+              },
+              {
+                "t": "p",
+                "x": "企画次長のソル・ギホ教授は「スマート病院とは、単にAIシステムの数を増やすことではなく、AI技術によって病院の働き方と診療環境を変えることだ」とし、「こうした変化は、患者の安全と診療の質、行政の効率性、患者体験の向上という実質的な成果につながらなければならない」と強調した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "大邱天主教大学医疗院\n升级语音EMR",
+          "body": "从诊疗对话中筛选有意义的信息，按医护人员各自的格式生成病历。",
+          "mini_headline": "大邱天主教大学语音EMR",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/546538"
+              },
+              {
+                "t": "p",
+                "x": "大邱天主教大学医疗院26日表示，已升级基于人工智能（AI）语音识别的病历书写解决方案“语音EMR（Voice Electronic Medical Record）”。"
+              },
+              {
+                "t": "p",
+                "x": "该医疗院于2024年在大邱·庆北地区率先引入语音EMR，并在放射科和核医学科等科室运行。原有系统侧重于将医护人员的语音转换为文本，或对诊疗内容进行摘要和生成。"
+              },
+              {
+                "t": "p",
+                "x": "升级后的语音EMR会从医护人员与患者的诊疗对话中筛选出具有医学意义的信息，并按照每位医护人员的格式自动生成病历。医疗院表示，医护人员因此减轻了重复打字和记录工作的负担，可以把过去盯着显示器记录的时间用于观察患者状况和与患者沟通。"
+              },
+              {
+                "t": "p",
+                "x": "一位在实际诊疗现场使用该系统的教授表示，在测量患者身体状况的过程中，自己能够不看显示器，而是更细致地观察患者状态。"
+              },
+              {
+                "t": "p",
+                "x": "医疗院还在住院病房引入并运行基于语音的电子护理记录系统“语音ENR（Voice Electronic Nursing Record）”。语音ENR是一款利用智能手机、基于语音识别技术的解决方案，可实时支持患者信息核对以及护理行为的记录和保存。目前，它被用于给药、采血、输血、检查和操作前的患者确认流程。医疗院计划今后分阶段开发和应用更多功能。"
+              },
+              {
+                "t": "p",
+                "x": "企划副室长Seol Ki-ho教授强调：“智慧医院并不只是增加AI系统的数量，而是通过AI技术改变医院的工作方式和诊疗环境。”他还表示：“这些变化应当转化为提升患者安全、诊疗质量、行政效率和患者体验等实际成果。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Centro Médico Católico de Daegu\nperfecciona su EMR por voz",
+          "body": "El sistema elige datos relevantes de la consulta y redacta la historia clínica en el formato de cada profesional.",
+          "mini_headline": "Voice EMR en el Centro Médico Católico de Daegu",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/546538"
+              },
+              {
+                "t": "p",
+                "x": "El Centro Médico de la Universidad Católica de Daegu anunció el día 26 que ha mejorado Voice EMR (Voice Electronic Medical Record), su solución para redactar historias clínicas basada en el reconocimiento de voz con inteligencia artificial (AI)."
+              },
+              {
+                "t": "p",
+                "x": "En 2024 el centro fue el primero de la región de Daegu-Gyeongbuk en implantar Voice EMR, que ha utilizado en servicios como radiología y medicina nuclear. El sistema anterior se centraba en convertir la voz del personal médico en texto o en resumir y generar el contenido de la consulta."
+              },
+              {
+                "t": "p",
+                "x": "La versión mejorada de Voice EMR selecciona la información médicamente relevante de las conversaciones entre el personal médico y los pacientes durante la consulta, y la convierte automáticamente en historias clínicas con el formato de cada profesional. Según el centro, esto reduce la carga del tecleo repetitivo y de la documentación, y permite dedicar el tiempo que antes se pasaba registrando frente al monitor a observar el estado del paciente y comunicarse con él."
+              },
+              {
+                "t": "p",
+                "x": "Un profesor que ha usado el sistema en la práctica clínica afirmó que, al medir el estado físico de los pacientes, ahora puede observarlos con más atención en lugar de mirar el monitor."
+              },
+              {
+                "t": "p",
+                "x": "En las salas de hospitalización, el centro también utiliza Voice ENR (Voice Electronic Nursing Record), un sistema de registro electrónico de enfermería basado en la voz. Voice ENR es una solución de reconocimiento de voz que funciona con teléfonos inteligentes y permite verificar la información del paciente y registrar y guardar los cuidados de enfermería en tiempo real. Actualmente se emplea en la verificación del paciente antes de la medicación, las extracciones de sangre, las transfusiones, las pruebas y los procedimientos. El centro prevé desarrollar y aplicar nuevas funciones de forma gradual."
+              },
+              {
+                "t": "p",
+                "x": "El profesor Seol Ki-ho, subdirector de planificación, subrayó: “Un hospital inteligente no consiste simplemente en aumentar el número de sistemas de AI, sino en cambiar la forma de trabajar del hospital y el entorno asistencial mediante la tecnología de AI”. Y añadió: “Estos cambios deben traducirse en resultados concretos: mejoras en la seguridad del paciente, la calidad de la atención, la eficiencia administrativa y la experiencia del paciente”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "korotkoff-hf-deeplearning",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "혈압계 커프 소리로\n심부전을 찾는다",
+      "body": "혈압 측정 Korotkoff음 딥러닝 분석이 AUC 0.924로 심부전을 찾았다.",
+      "mini_headline": "커프 소리로 심부전 탐지",
+      "tool": "Medicine",
+      "source": "European Heart Journal - Digital Health",
+      "url": "https://academic.oup.com/ehjdh/advance-article/doi/10.1093/ehjdh/ztag187/9115906",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "배경: 코로트코프음(Korotkoff sounds, KS)은 혈압을 잴 때마다 나오지만, 심부전(HF) 탐지에 얼마나 쓸모 있는지는 아직 분명하지 않다. 목적: 심혈관 입원 환자에서 딥러닝 기반 KS 분석의 HF 탐지 진단 성능을 평가한다."
+          },
+          {
+            "t": "p",
+            "x": "방법: 전향적 다기관 진단 연구로, 중국 네 곳의 센터에서 심혈관 입원 환자 1,103명을 등록했다. 이 중 314명(28.5%)이 HF 환자였다. 참가자는 센터별로 훈련(n=420), 검증(n=287), 독립 시험(n=396) 코호트에 배정됐다. 환자 단위 KS 녹음으로 Mamba, Transformer, ResNet18, MobileNetV2 등 네 가지 딥러닝 모델을 개발했다. 성능 지표는 AUC였고, 민감도 분석은 NYHA class I 참가자와 심방세동(AF)을 뺀 집단에서 따로 했다."
+          },
+          {
+            "t": "p",
+            "x": "결과: 성능은 Mamba가 가장 좋았다. 훈련·검증·독립 시험 코호트의 AUCs는 각각 0.947(95% CI, 0.926–0.967), 0.937(0.912–0.961), 0.924(0.893–0.951)였다. NYHA class I 참가자에서 해당 AUCs는 0.940, 0.937, 0.947이었다. AF를 제외하면 AUCs는 각각 0.937, 0.895, 0.954였다."
+          },
+          {
+            "t": "p",
+            "x": "결론: 딥러닝 기반 KS 분석은 심혈관 입원 환자에서 HF와 비HF(non-HF)를 잘 구분했다. KS 유래(KS-derived) 음향 정보를 HF 환자를 찾는 비침습 보조 수단으로 더 평가해 볼 근거다. 다만 인구 집단 선별검사나 단독 배제 검사로 쓰려면 유병률이 더 낮은 지역사회 환경에서 먼저 검증해야 한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Blood pressure cuff sounds\nflag heart failure",
+          "body": "Deep learning on Korotkoff sounds from routine blood pressure checks detected heart failure with an AUC of 0.924.",
+          "mini_headline": "Cuff sounds flag\nheart failure",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Background: Korotkoff sounds (KS) are routinely generated during blood pressure measurement, but their potential value for heart failure (HF) detection remains unclear. Aims: To evaluate the diagnostic performance of deep learning-based KS analysis for HF detection in cardiovascular inpatients."
+              },
+              {
+                "t": "p",
+                "x": "Methods: This prospective multicentre diagnostic study enrolled 1,103 cardiovascular inpatients from four centres in China, including 314 (28.5%) with HF. Participants were assigned by centre to training (n=420), validation (n=287), and independent test (n=396) cohorts. Four deep learning models—Mamba, Transformer, ResNet18, and MobileNetV2—were developed using patient-level KS recordings. Performance was assessed by AUC, with sensitivity analyses in NYHA class I participants and after exclusion of atrial fibrillation (AF)."
+              },
+              {
+                "t": "p",
+                "x": "Results: Mamba achieved the best performance, with AUCs of 0.947 (95% CI, 0.926–0.967), 0.937 (0.912–0.961), and 0.924 (0.893–0.951) in the training, validation, and independent test cohorts, respectively. In NYHA class I participants, corresponding AUCs were 0.940, 0.937, and 0.947. After excluding AF, AUCs were 0.937, 0.895, and 0.954, respectively."
+              },
+              {
+                "t": "p",
+                "x": "Conclusions: Deep learning-based KS analysis showed strong discrimination between HF and non-HF among cardiovascular inpatients. These findings support further evaluation of KS-derived acoustic information as a non-invasive adjunct for HF case-finding; validation in lower-prevalence community settings is required before its use for population screening or stand-alone rule-out."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "혈압계 커프 소리로\n심부전을 찾는다",
+          "body": "혈압 측정 Korotkoff음 딥러닝 분석이 AUC 0.924로 심부전을 찾았다.",
+          "mini_headline": "커프 소리로 심부전 탐지",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "배경: 코로트코프음(Korotkoff sounds, KS)은 혈압을 잴 때마다 나오지만, 심부전(HF) 탐지에 얼마나 쓸모 있는지는 아직 분명하지 않다. 목적: 심혈관 입원 환자에서 딥러닝 기반 KS 분석의 HF 탐지 진단 성능을 평가한다."
+              },
+              {
+                "t": "p",
+                "x": "방법: 전향적 다기관 진단 연구로, 중국 네 곳의 센터에서 심혈관 입원 환자 1,103명을 등록했다. 이 중 314명(28.5%)이 HF 환자였다. 참가자는 센터별로 훈련(n=420), 검증(n=287), 독립 시험(n=396) 코호트에 배정됐다. 환자 단위 KS 녹음으로 Mamba, Transformer, ResNet18, MobileNetV2 등 네 가지 딥러닝 모델을 개발했다. 성능 지표는 AUC였고, 민감도 분석은 NYHA class I 참가자와 심방세동(AF)을 뺀 집단에서 따로 했다."
+              },
+              {
+                "t": "p",
+                "x": "결과: 성능은 Mamba가 가장 좋았다. 훈련·검증·독립 시험 코호트의 AUCs는 각각 0.947(95% CI, 0.926–0.967), 0.937(0.912–0.961), 0.924(0.893–0.951)였다. NYHA class I 참가자에서 해당 AUCs는 0.940, 0.937, 0.947이었다. AF를 제외하면 AUCs는 각각 0.937, 0.895, 0.954였다."
+              },
+              {
+                "t": "p",
+                "x": "결론: 딥러닝 기반 KS 분석은 심혈관 입원 환자에서 HF와 비HF(non-HF)를 잘 구분했다. KS 유래(KS-derived) 음향 정보를 HF 환자를 찾는 비침습 보조 수단으로 더 평가해 볼 근거다. 다만 인구 집단 선별검사나 단독 배제 검사로 쓰려면 유병률이 더 낮은 지역사회 환경에서 먼저 검증해야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "血圧カフの音で\n心不全を見つける",
+          "body": "血圧測定時のKorotkoff音を深層学習で解析し、心不全をAUC 0.924で検出した。",
+          "mini_headline": "カフの音で心不全を検出",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "背景:Korotkoff音(KS)は血圧測定の際に日常的に生じるが、心不全(HF)の検出における価値はまだ明らかではない。目的:心血管疾患の入院患者において、深層学習ベースのKS解析によるHF検出の診断性能を評価する。"
+              },
+              {
+                "t": "p",
+                "x": "方法:この前向き多施設診断研究では、中国の四つの施設から心血管疾患の入院患者1,103人を登録し、そのうち314人(28.5%)がHFだった。参加者は施設ごとに訓練(n=420)、検証(n=287)、独立テスト(n=396)の各コホートに割り当てられた。患者単位のKS録音を用いて、Mamba、Transformer、ResNet18、MobileNetV2の四つの深層学習モデルを開発した。性能はAUCで評価し、NYHA class Iの参加者と心房細動(AF)を除外した場合について感度分析を行った。"
+              },
+              {
+                "t": "p",
+                "x": "結果:Mambaが最も高い性能を示し、訓練、検証、独立テストの各コホートでのAUCsはそれぞれ0.947(95% CI, 0.926–0.967)、0.937(0.912–0.961)、0.924(0.893–0.951)だった。NYHA class Iの参加者では、対応するAUCsは0.940、0.937、0.947だった。AFを除外すると、AUCsはそれぞれ0.937、0.895、0.954だった。"
+              },
+              {
+                "t": "p",
+                "x": "結論:深層学習ベースのKS解析は、心血管疾患の入院患者においてHFと非HF(non-HF)を高い精度で識別した。この結果は、KS由来(KS-derived)の音響情報をHF患者の発見に向けた非侵襲的な補助手段としてさらに評価することを支持する。ただし、集団スクリーニングや単独での除外診断に用いる前に、有病率のより低い地域社会での検証が必要である。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "血压袖带音\n可提示心力衰竭",
+          "body": "深度学习分析常规血压测量中的Korotkoff音，检出心力衰竭的AUC达0.924。",
+          "mini_headline": "袖带音提示心力衰竭",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "背景：Korotkoff音（KS）在血压测量过程中常规产生，但其在心力衰竭（HF）检测中的潜在价值尚不明确。目的：评估基于深度学习的KS分析在心血管住院患者中检测HF的诊断性能。"
+              },
+              {
+                "t": "p",
+                "x": "方法：这项前瞻性多中心诊断研究纳入了来自中国四家中心的1,103名心血管住院患者，其中314名（28.5%）患有HF。参与者按中心分配至训练（n=420）、验证（n=287）和独立测试（n=396）队列。研究利用患者层面的KS录音开发了四种深度学习模型——Mamba、Transformer、ResNet18和MobileNetV2。性能以AUC评估，并在NYHA class I参与者中以及排除心房颤动（AF）后进行了敏感性分析。"
+              },
+              {
+                "t": "p",
+                "x": "结果：Mamba表现最佳，在训练、验证和独立测试队列中的AUCs分别为0.947（95% CI, 0.926–0.967）、0.937（0.912–0.961）和0.924（0.893–0.951）。在NYHA class I参与者中，相应AUCs为0.940、0.937和0.947。排除AF后，AUCs分别为0.937、0.895和0.954。"
+              },
+              {
+                "t": "p",
+                "x": "结论：基于深度学习的KS分析在心血管住院患者中对HF与非HF（non-HF）表现出很强的区分能力。这些发现支持进一步评估KS来源（KS-derived）的声学信息，作为HF病例发现的无创辅助手段；在用于人群筛查或单独排除诊断之前，还需在患病率较低的社区环境中进行验证。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los sonidos del tensiómetro\nseñalan insuficiencia cardiaca",
+          "body": "El aprendizaje profundo detectó insuficiencia cardiaca con AUC 0.924 usando ruidos de Korotkoff de tomas de presión.",
+          "mini_headline": "Sonidos del manguito delatan insuficiencia cardiaca",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Antecedentes: los ruidos de Korotkoff (KS) se generan de forma rutinaria durante la medición de la presión arterial, pero su posible valor para detectar la insuficiencia cardiaca (HF) sigue sin estar claro. Objetivos: evaluar el rendimiento diagnóstico del análisis de KS basado en aprendizaje profundo para detectar HF en pacientes cardiovasculares hospitalizados."
+              },
+              {
+                "t": "p",
+                "x": "Métodos: este estudio diagnóstico prospectivo y multicéntrico incluyó a 1,103 pacientes cardiovasculares hospitalizados de cuatro centros de China, de los cuales 314 (28.5%) tenían HF. Los participantes se asignaron por centro a las cohortes de entrenamiento (n=420), validación (n=287) y prueba independiente (n=396). Se desarrollaron cuatro modelos de aprendizaje profundo —Mamba, Transformer, ResNet18 y MobileNetV2— con grabaciones de KS a nivel de paciente. El rendimiento se evaluó mediante el AUC, con análisis de sensibilidad en participantes de NYHA class I y tras excluir la fibrilación auricular (AF)."
+              },
+              {
+                "t": "p",
+                "x": "Resultados: Mamba obtuvo el mejor rendimiento, con AUCs de 0.947 (95% CI, 0.926–0.967), 0.937 (0.912–0.961) y 0.924 (0.893–0.951) en las cohortes de entrenamiento, validación y prueba independiente, respectivamente. En los participantes de NYHA class I, los AUCs correspondientes fueron 0.940, 0.937 y 0.947. Tras excluir la AF, los AUCs fueron 0.937, 0.895 y 0.954, respectivamente."
+              },
+              {
+                "t": "p",
+                "x": "Conclusiones: el análisis de KS basado en aprendizaje profundo discriminó con solidez entre HF y non-HF en pacientes cardiovasculares hospitalizados. Estos hallazgos respaldan seguir evaluando la información acústica derivada de KS (KS-derived) como complemento no invasivo para la detección de casos de HF; antes de usarla para el cribado poblacional o para descartar la enfermedad por sí sola, se requiere validarla en entornos comunitarios de menor prevalencia."
               }
             ]
           }
@@ -1627,125 +905,257 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "FDA, a2z AI 허가\nCT 아홉 소견 분류",
-          "body": "FDA가 CT 아홉 소견을 분류하는 AI a2z-Omni-Triage를 허가했다.",
-          "mini_headline": "FDA, CT 아홉 소견 분류 AI 허가",
+          "headline": "혈압계 커프 소리로\n심부전을 찾는다",
+          "body": "혈압 측정 Korotkoff음 딥러닝 분석이 AUC 0.924로 심부전을 찾았다.",
+          "mini_headline": "커프 소리로 심부전 탐지",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
-                "cap": "복부·골반 CT에서 새로 FDA 허가(FDA-cleared)를 받은 a2z-Omni-Triage 소프트웨어는 천골 골절, 대형 대동맥류, 연조직 농양, 중등도 이상 층상 흉막 삼출 등이 의심되는 소견을 보조적으로 분류한다. (이미지 제공: Adobe Stock)"
+                "t": "p",
+                "x": "배경: 코로트코프음(Korotkoff sounds, KS)은 혈압 측정 때 일상적으로 발생하지만, 심부전(HF) 탐지에 얼마나 가치가 있는지는 아직 분명하지 않다. 목적: 심혈관 입원 환자에서 딥러닝 기반 KS 분석의 HF 탐지 진단 성능을 평가한다."
               },
               {
                 "t": "p",
-                "x": "미국 식품의약국(Food and Drug Administration, FDA)이 복부·골반 CT용 AI 기반(AI-powered) 보조 소프트웨어 a2z-Omni-Triage에 510(k) 허가를 내줬다."
+                "x": "방법: 이 전향적 다기관 진단 연구는 중국 네 곳의 센터에서 심혈관 입원 환자 1,103명을 등록했으며, 이 중 314명(28.5%)이 HF 환자였다. 참가자는 센터별로 훈련(n=420), 검증(n=287), 독립 시험(n=396) 코호트에 배정됐다. 환자 단위 KS 녹음으로 Mamba, Transformer, ResNet18, MobileNetV2 등 네 가지 딥러닝 모델을 개발했다. 성능은 AUC로 평가했고, NYHA class I 참가자와 심방세동(AF) 제외 후를 대상으로 민감도 분석을 했다."
               },
               {
                 "t": "p",
-                "x": "a2z-Omni-Triage 개발사 A2z Radiology AI는 이 소프트웨어가 다음 소견이 의심될 때 표시한다고 밝혔다. 기흉, 중등도 이상 층상 흉막 삼출, 복합 흉막 저류, 장 천공, 천골 외 골반 골절, 천골 또는 미골 골절, 연조직 농양, 중등도 이상 수신증, 대형 대동맥류(5 cm 이상)."
+                "x": "결과: Mamba가 가장 좋은 성능을 보였으며, 훈련·검증·독립 시험 코호트의 AUCs는 각각 0.947(95% CI, 0.926–0.967), 0.937(0.912–0.961), 0.924(0.893–0.951)였다. NYHA class I 참가자에서 해당 AUCs는 0.940, 0.937, 0.947이었다. AF를 제외하면 AUCs는 각각 0.937, 0.895, 0.954였다."
               },
               {
                 "t": "p",
-                "x": "A2z Radiology AI에 따르면 a2z-Omni-Triage 소프트웨어는 조영 증강 CT와 비조영 CT에 모두 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "a2z Radiology AI의 최고의료정보책임자(Chief Medical Information Officer)인 Michael Moritz(MD, CIIP)는 “판독 목록이 긴 바쁜 근무 중에는 일상 검사로 의뢰된 CT도 긴급한 확인이 필요한 것으로 드러날 수 있다”며 “a2z-Omni-Triage는 의심 소견이 있는 검사를 판독 순서에서 앞당겨 준다”고 말했다."
+                "x": "결론: 딥러닝 기반 KS 분석은 심혈관 입원 환자에서 HF와 비HF(non-HF)를 잘 구분했다. 이 결과는 KS 유래(KS-derived) 음향 정보를 HF 환자 발견을 위한 비침습적 보조 수단으로 추가 평가할 근거가 된다. 다만 인구 집단 선별검사나 단독 배제 검사로 쓰기 전에 유병률이 더 낮은 지역사회 환경에서 검증이 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDA、a2zのAIを認可\nCTで九つの所見を分類",
-          "body": "FDAはCTで九つの所見を分類するAI、a2z-Omni-Triageを認可した。",
-          "mini_headline": "FDA、CTの九所見トリアージを認可",
+          "headline": "血圧カフの音で\n心不全を見つける",
+          "body": "血圧測定時のKorotkoff音を深層学習で解析し、心不全をAUC 0.924で検出した。",
+          "mini_headline": "カフの音で心不全を検出",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
-                "cap": "腹部骨盤CTについて、新たにFDA認可（FDA-cleared）を受けたa2z-Omni-Triageソフトウェアは、仙骨骨折、大きな大動脈瘤、軟部組織膿瘍、中等量以上の層状胸水などが疑われる所見の補助的トリアージを行う。（画像提供：Adobe Stock）"
+                "t": "p",
+                "x": "背景:Korotkoff音(KS)は血圧測定の際に日常的に生じるが、心不全(HF)の検出における価値はまだ明らかではない。目的:心血管疾患の入院患者において、深層学習ベースのKS解析によるHF検出の診断性能を評価する。"
               },
               {
                 "t": "p",
-                "x": "米食品医薬品局（Food and Drug Administration、FDA）は、腹部骨盤CT向けのAIを活用した（AI-powered）補助ソフトウェアa2z-Omni-Triageに510(k)認可を与えた。"
+                "x": "方法:この前向き多施設診断研究では、中国の四つの施設から心血管疾患の入院患者1,103人を登録し、そのうち314人(28.5%)がHFだった。参加者は施設ごとに訓練(n=420)、検証(n=287)、独立テスト(n=396)の各コホートに割り当てられた。患者単位のKS録音を用いて、Mamba、Transformer、ResNet18、MobileNetV2の四つの深層学習モデルを開発した。性能はAUCで評価し、NYHA class Iの参加者と心房細動(AF)を除外した場合について感度分析を行った。"
               },
               {
                 "t": "p",
-                "x": "a2z-Omni-Triageの開発元であるA2z Radiology AIによると、このソフトウェアは次の所見が疑われる場合にフラグを立てる。気胸、中等量以上の層状胸水、複雑性胸水貯留、腸管穿孔、仙骨以外の骨盤骨折、仙骨または尾骨の骨折、軟部組織膿瘍、中等度以上の水腎症、大きな大動脈瘤（5 cm以上）。"
+                "x": "結果:Mambaが最も高い性能を示し、訓練、検証、独立テストの各コホートでのAUCsはそれぞれ0.947(95% CI, 0.926–0.967)、0.937(0.912–0.961)、0.924(0.893–0.951)だった。NYHA class Iの参加者では、対応するAUCsは0.940、0.937、0.947だった。AFを除外すると、AUCsはそれぞれ0.937、0.895、0.954だった。"
               },
               {
                 "t": "p",
-                "x": "A2z Radiology AIによると、a2z-Omni-Triageソフトウェアは造影CTと非造影CTのどちらにも使用できる。"
-              },
-              {
-                "t": "p",
-                "x": "a2z Radiology AIの最高医療情報責任者（Chief Medical Information Officer）であるMichael Moritz（MD、CIIP）は「作業リストが長い忙しいシフトでは、通常の検査としてオーダーされたCTでも緊急の対応が必要だと判明することがある」と述べ、「a2z-Omni-Triageは、疑わしい所見のある検査を読影の順番で前に出す助けになる」と語った。"
+                "x": "結論:深層学習ベースのKS解析は、心血管疾患の入院患者においてHFと非HF(non-HF)を高い精度で識別した。この結果は、KS由来(KS-derived)の音響情報をHF患者の発見に向けた非侵襲的な補助手段としてさらに評価することを支持する。ただし、集団スクリーニングや単独での除外診断に用いる前に、有病率のより低い地域社会での検証が必要である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FDA批准a2z AI分诊\n覆盖CT九类征象",
-          "body": "FDA批准AI软件a2z-Omni-Triage用于腹盆部CT九类征象的辅助分诊。",
-          "mini_headline": "FDA批准CT九类征象分诊",
+          "headline": "血压袖带音\n可提示心力衰竭",
+          "body": "深度学习分析常规血压测量中的Korotkoff音，检出心力衰竭的AUC达0.924。",
+          "mini_headline": "袖带音提示心力衰竭",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
-                "cap": "针对腹盆部CT扫描，新获FDA许可（FDA-cleared）的a2z-Omni-Triage软件可对疑似骶骨骨折、大型主动脉瘤、软组织脓肿以及中量或大量分层胸腔积液等情况的征象进行辅助分诊。（图片来源：Adobe Stock）"
+                "t": "p",
+                "x": "背景：Korotkoff音（KS）在血压测量过程中常规产生，但其在心力衰竭（HF）检测中的潜在价值尚不明确。目的：评估基于深度学习的KS分析在心血管住院患者中检测HF的诊断性能。"
               },
               {
                 "t": "p",
-                "x": "美国食品药品监督管理局（Food and Drug Administration，FDA）已向a2z-Omni-Triage软件授予510(k)许可。这是一款用于腹盆部CT的AI驱动（AI-powered）辅助软件。"
+                "x": "方法：这项前瞻性多中心诊断研究纳入了来自中国四家中心的1,103名心血管住院患者，其中314名（28.5%）患有HF。参与者按中心分配至训练（n=420）、验证（n=287）和独立测试（n=396）队列。研究利用患者层面的KS录音开发了四种深度学习模型——Mamba、Transformer、ResNet18和MobileNetV2。性能以AUC评估，并在NYHA class I参与者中以及排除心房颤动（AF）后进行了敏感性分析。"
               },
               {
                 "t": "p",
-                "x": "a2z-Omni-Triage的开发商A2z Radiology AI表示，该软件会标记疑似以下情况的征象：气胸；中量或大量分层胸腔积液；复杂性胸腔积液；肠穿孔；非骶骨骨盆骨折；骶骨或尾骨骨折；软组织脓肿；中度或重度肾积水；大型主动脉瘤（5 cm或以上）。"
+                "x": "结果：Mamba表现最佳，在训练、验证和独立测试队列中的AUCs分别为0.947（95% CI, 0.926–0.967）、0.937（0.912–0.961）和0.924（0.893–0.951）。在NYHA class I参与者中，相应AUCs为0.940、0.937和0.947。排除AF后，AUCs分别为0.937、0.895和0.954。"
               },
               {
                 "t": "p",
-                "x": "据A2z Radiology AI介绍，a2z-Omni-Triage软件可用于增强CT和平扫CT。"
-              },
-              {
-                "t": "p",
-                "x": "a2z Radiology AI首席医疗信息官（Chief Medical Information Officer）Michael Moritz（MD，CIIP）说：“在工作清单很长的繁忙班次中，即便是作为常规检查开具的CT，也可能需要紧急处理。”他还说：“a2z-Omni-Triage有助于把有疑似征象的检查提前送审。”"
+                "x": "结论：基于深度学习的KS分析在心血管住院患者中对HF与非HF（non-HF）表现出很强的区分能力。这些发现支持进一步评估KS来源（KS-derived）的声学信息，作为HF病例发现的无创辅助手段；在用于人群筛查或单独排除诊断之前，还需在患病率较低的社区环境中进行验证。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La FDA autoriza la AI de a2z\npara nueve hallazgos en CT",
-          "body": "La FDA autorizó a2z-Omni-Triage, de a2z Radiology AI, para triaje auxiliar de nueve hallazgos en CT abdominopélvica.",
-          "mini_headline": "La FDA autoriza triaje de CT para nueve hallazgos",
+          "headline": "Los sonidos del tensiómetro\nseñalan insuficiencia cardiaca",
+          "body": "El aprendizaje profundo detectó insuficiencia cardiaca con AUC 0.924 usando ruidos de Korotkoff de tomas de presión.",
+          "mini_headline": "Sonidos del manguito delatan insuficiencia cardiaca",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/91a33196da46e8ad7ab27fef762374ee9dfae40a-1200x800.jpg?w=1200&fit=max&q=75&fm=jpg",
-                "cap": "Para las CT abdominopélvicas, el software a2z-Omni-Triage, recién autorizado por la FDA (FDA-cleared), ofrece triaje auxiliar de hallazgos que pueden ser sospechosos de fractura sacra, aneurisma aórtico grande, absceso de tejidos blandos y derrame pleural estratificado moderado o grande, entre otras afecciones. (Imagen cortesía de Adobe Stock.)"
+                "t": "p",
+                "x": "Antecedentes: los ruidos de Korotkoff (KS) se generan de forma rutinaria durante la medición de la presión arterial, pero su posible valor para detectar la insuficiencia cardiaca (HF) sigue sin estar claro. Objetivos: evaluar el rendimiento diagnóstico del análisis de KS basado en aprendizaje profundo para detectar HF en pacientes cardiovasculares hospitalizados."
               },
               {
                 "t": "p",
-                "x": "La Administración de Alimentos y Medicamentos (Food and Drug Administration, FDA) otorgó la autorización 510(k) al software a2z-Omni-Triage, un software auxiliar basado en AI (AI-powered) para CT abdominopélvica."
+                "x": "Métodos: este estudio diagnóstico prospectivo y multicéntrico incluyó a 1,103 pacientes cardiovasculares hospitalizados de cuatro centros de China, de los cuales 314 (28.5%) tenían HF. Los participantes se asignaron por centro a las cohortes de entrenamiento (n=420), validación (n=287) y prueba independiente (n=396). Se desarrollaron cuatro modelos de aprendizaje profundo —Mamba, Transformer, ResNet18 y MobileNetV2— con grabaciones de KS a nivel de paciente. El rendimiento se evaluó mediante el AUC, con análisis de sensibilidad en participantes de NYHA class I y tras excluir la fibrilación auricular (AF)."
               },
               {
                 "t": "p",
-                "x": "A2z Radiology AI, desarrolladora de a2z-Omni-Triage, indicó que el software señala hallazgos sospechosos de lo siguiente: neumotórax; derrame pleural estratificado moderado o grande; colección pleural compleja; perforación intestinal; fractura pélvica no sacra; fractura sacra o coccígea; absceso de tejidos blandos; hidronefrosis moderada o grave; aneurisma aórtico grande (5 cm o más)."
+                "x": "Resultados: Mamba obtuvo el mejor rendimiento, con AUCs de 0.947 (95% CI, 0.926–0.967), 0.937 (0.912–0.961) y 0.924 (0.893–0.951) en las cohortes de entrenamiento, validación y prueba independiente, respectivamente. En los participantes de NYHA class I, los AUCs correspondientes fueron 0.940, 0.937 y 0.947. Tras excluir la AF, los AUCs fueron 0.937, 0.895 y 0.954, respectivamente."
               },
               {
                 "t": "p",
-                "x": "Según A2z Radiology AI, el software a2z-Omni-Triage puede utilizarse en CT con contraste y sin contraste."
-              },
+                "x": "Conclusiones: el análisis de KS basado en aprendizaje profundo discriminó con solidez entre HF y non-HF en pacientes cardiovasculares hospitalizados. Estos hallazgos respaldan seguir evaluando la información acústica derivada de KS (KS-derived) como complemento no invasivo para la detección de casos de HF; antes de usarla para el cribado poblacional o para descartar la enfermedad por sí sola, se requiere validarla en entornos comunitarios de menor prevalencia."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npj-strep-throat-multimodal",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "목 사진으로 가르는\n연쇄상구균·바이러스 감염",
+      "body": "인후 영상과 임상 정보를 묶은 모델로 연쇄상구균 인두염과 바이러스 감염을 가른다.",
+      "mini_headline": "목 사진으로 연쇄상구균·바이러스 구분",
+      "tool": "Medicine",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03492-7",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "항생제를 제대로 쓰려면 A군 연쇄상구균(GAS) 인두염과 바이러스성 상기도 감염(URTIs)을 가려야 하지만, 증상만으로는 여전히 어렵다. 연구진은 인두 영상(Swin Transformer)과 임상 메타데이터를 그래디언트 부스팅 의사결정나무로 융합한 멀티모달 인공지능(AI) 모델을 개발해 내부 검증했다. 데이터는 2023년 3월부터 2025년 8월까지 44개 기관에서 모은 6666건의 방문과 119,988장의 영상이다. GAS와 non-GAS(인플루엔자 A/B, COVID-19) 구별에서 융합 모델의 곡선하면적(AUC)은 0.917(95% 신뢰구간 0.907–0.926)로, 영상 단독(0.902), 메타데이터 단독(0.871), 대리 Centor/McIsaac 점수보다 높았다. 사전에 정한 고특이도 임계값(≥0.90)에서 민감도는 0.761이었다. 시뮬레이션에서는 GAS 유병률 5–20% 범위에서 항생제 처방이 23–56% 줄었다. 외부 검증과 전향적 평가는 아직 거쳐야 한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Throat photos help tell\nstrep from viral infection",
+          "body": "A multimodal model pairing throat images with clinical data aims to tell strep pharyngitis from viral infection.",
+          "mini_headline": "Throat photos\nsort strep from viral",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "p",
-                "x": "“En un turno con mucho trabajo y una lista larga, incluso una CT solicitada como rutinaria puede resultar necesitada de atención urgente”, dijo Michael Moritz, MD, CIIP, director de información médica (Chief Medical Information Officer) de a2z Radiology AI. “a2z-Omni-Triage ayuda a adelantar para su revisión los estudios con hallazgos sospechosos”."
+                "x": "Distinguishing Group A streptococcus (GAS) pharyngitis from viral upper respiratory tract infections (URTIs) is critical for appropriate antibiotic use but remains difficult on symptoms alone. We developed and internally validated a multimodal artificial intelligence (AI) model fusing pharyngeal images (Swin Transformer) with clinical metadata via gradient boosting decision trees, using 6666 visits and 119,988 images from 44 facilities collected March 2023–August 2025. For discriminating GAS from non-GAS (influenza A/B, COVID-19), the fusion model achieved area under the curve (AUC) 0.917 (95% confidence interval 0.907–0.926), outperforming image-only (0.902), metadata-only (0.871) and proxy Centor/McIsaac scores. At a pre-specified high-specificity threshold (≥0.90) sensitivity was 0.761; simulations indicated antibiotic-prescription reductions of 23–56% across GAS prevalences of 5–20%. External validation and prospective evaluation are needed."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "목 사진으로 가르는\n연쇄상구균·바이러스 감염",
+          "body": "인후 영상과 임상 정보를 묶은 모델로 연쇄상구균 인두염과 바이러스 감염을 가른다.",
+          "mini_headline": "목 사진으로 연쇄상구균·바이러스 구분",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "항생제를 제대로 쓰려면 A군 연쇄상구균(GAS) 인두염과 바이러스성 상기도 감염(URTIs)을 가려야 하지만, 증상만으로는 여전히 어렵다. 연구진은 인두 영상(Swin Transformer)과 임상 메타데이터를 그래디언트 부스팅 의사결정나무로 융합한 멀티모달 인공지능(AI) 모델을 개발해 내부 검증했다. 데이터는 2023년 3월부터 2025년 8월까지 44개 기관에서 모은 6666건의 방문과 119,988장의 영상이다. GAS와 non-GAS(인플루엔자 A/B, COVID-19) 구별에서 융합 모델의 곡선하면적(AUC)은 0.917(95% 신뢰구간 0.907–0.926)로, 영상 단독(0.902), 메타데이터 단독(0.871), 대리 Centor/McIsaac 점수보다 높았다. 사전에 정한 고특이도 임계값(≥0.90)에서 민감도는 0.761이었다. 시뮬레이션에서는 GAS 유병률 5–20% 범위에서 항생제 처방이 23–56% 줄었다. 외부 검증과 전향적 평가는 아직 거쳐야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "のどの写真で溶連菌と\nウイルス感染を見分ける",
+          "body": "のどの画像と臨床データを使うマルチモーダルモデルで溶連菌咽頭炎とウイルス感染を見分ける。",
+          "mini_headline": "のどの写真で溶連菌とウイルスを判別",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "A群溶血性レンサ球菌(GAS)咽頭炎とウイルス性上気道感染症(URTIs)の鑑別は、適切な抗菌薬使用に欠かせないが、症状だけでは依然として難しい。我々は、咽頭画像(Swin Transformer)と臨床メタデータを勾配ブースティング決定木で融合するマルチモーダル人工知能(AI)モデルを開発し、内部検証を行った。データは2023年3月〜2025年8月に44施設で収集した6666件の受診と119,988枚の画像である。GASとnon-GAS(インフルエンザA/B、COVID-19)の判別において、融合モデルの曲線下面積(AUC)は0.917(95%信頼区間0.907–0.926)で、画像のみ(0.902)、メタデータのみ(0.871)、代替指標としてのCentor/McIsaacスコアを上回った。事前に定めた高特異度の閾値(≥0.90)での感度は0.761で、シミュレーションではGAS有病率5–20%の範囲で抗菌薬処方が23–56%減少することが示された。外部検証と前向き評価が必要である。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "咽喉照片助力区分\n链球菌与病毒感染",
+          "body": "多模态模型结合咽喉图像与临床数据，旨在区分链球菌咽炎与病毒感染。",
+          "mini_headline": "咽喉照片区分链球菌与病毒",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "区分A组链球菌（GAS）咽炎与病毒性上呼吸道感染（URTIs）对合理使用抗生素至关重要，但仅凭症状仍难以判断。我们开发并内部验证了一种多模态人工智能（AI）模型，通过梯度提升决策树融合咽部图像（Swin Transformer）与临床元数据，所用数据为2023年3月至2025年8月从44家机构收集的6666次就诊和119,988张图像。在区分GAS与non-GAS（A/B型流感、COVID-19）时，融合模型的曲线下面积（AUC）为0.917（95%置信区间0.907–0.926），优于仅图像模型（0.902）、仅元数据模型（0.871）以及替代性的Centor/McIsaac评分。在预先设定的高特异度阈值（≥0.90）下，敏感度为0.761；模拟显示，在GAS患病率为5–20%的情况下，抗生素处方可减少23–56%。仍需进行外部验证和前瞻性评估。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Fotos de garganta para separar\nestreptococo e infección viral",
+          "body": "Un modelo que une imágenes de garganta y datos clínicos busca separar faringitis estreptocócica de infección viral.",
+          "mini_headline": "Fotos de garganta separan estreptococo y virus",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Distinguir la faringitis por estreptococo del grupo A (GAS) de las infecciones virales de las vías respiratorias superiores (URTIs) es clave para un uso adecuado de los antibióticos, pero sigue siendo difícil solo con los síntomas. Desarrollamos y validamos internamente un modelo multimodal de inteligencia artificial (AI) que fusiona imágenes faríngeas (Swin Transformer) con metadatos clínicos mediante árboles de decisión potenciados por gradiente, a partir de 6666 visitas y 119,988 imágenes de 44 centros recogidas entre marzo de 2023 y agosto de 2025. Para discriminar GAS de non-GAS (gripe A/B, COVID-19), el modelo de fusión alcanzó un área bajo la curva (AUC) de 0.917 (intervalo de confianza del 95% 0.907–0.926), superior al modelo solo con imágenes (0.902), al de solo metadatos (0.871) y a las puntuaciones Centor/McIsaac aproximadas. Con un umbral de alta especificidad predefinido (≥0.90), la sensibilidad fue de 0.761; las simulaciones indicaron reducciones de la prescripción de antibióticos del 23–56% con prevalencias de GAS del 5–20%. Se necesitan validación externa y evaluación prospectiva."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "목 사진으로 가르는\n연쇄상구균·바이러스 감염",
+          "body": "인후 영상과 임상 정보를 묶은 모델로 연쇄상구균 인두염과 바이러스 감염을 가른다.",
+          "mini_headline": "목 사진으로 연쇄상구균·바이러스 구분",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "A군 연쇄상구균(GAS) 인두염과 바이러스성 상기도 감염(URTIs)을 구별하는 일은 항생제를 적절히 쓰는 데 중요하지만, 증상만으로는 여전히 어렵다. 연구진은 인두 영상(Swin Transformer)과 임상 메타데이터를 그래디언트 부스팅 의사결정나무로 융합한 멀티모달 인공지능(AI) 모델을 개발하고 내부 검증했으며, 2023년 3월부터 2025년 8월까지 44개 기관에서 수집한 6666건의 방문과 119,988장의 영상을 사용했다. GAS와 non-GAS(인플루엔자 A/B, COVID-19)를 구별하는 데서 융합 모델의 곡선하면적(AUC)은 0.917(95% 신뢰구간 0.907–0.926)로, 영상 단독(0.902), 메타데이터 단독(0.871), 대리 Centor/McIsaac 점수보다 우수했다. 사전에 정한 고특이도 임계값(≥0.90)에서 민감도는 0.761이었으며, 시뮬레이션에서는 GAS 유병률 5–20% 범위에서 항생제 처방이 23–56% 줄어드는 것으로 나타났다. 외부 검증과 전향적 평가가 필요하다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "のどの写真で溶連菌と\nウイルス感染を見分ける",
+          "body": "のどの画像と臨床データを使うマルチモーダルモデルで溶連菌咽頭炎とウイルス感染を見分ける。",
+          "mini_headline": "のどの写真で溶連菌とウイルスを判別",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "A群溶血性レンサ球菌(GAS)咽頭炎とウイルス性上気道感染症(URTIs)の鑑別は、適切な抗菌薬使用に欠かせないが、症状だけでは依然として難しい。我々は、咽頭画像(Swin Transformer)と臨床メタデータを勾配ブースティング決定木で融合するマルチモーダル人工知能(AI)モデルを開発し、内部検証を行った。データは2023年3月〜2025年8月に44施設で収集した6666件の受診と119,988枚の画像である。GASとnon-GAS(インフルエンザA/B、COVID-19)の判別において、融合モデルの曲線下面積(AUC)は0.917(95%信頼区間0.907–0.926)で、画像のみ(0.902)、メタデータのみ(0.871)、代替指標としてのCentor/McIsaacスコアを上回った。事前に定めた高特異度の閾値(≥0.90)での感度は0.761で、シミュレーションではGAS有病率5–20%の範囲で抗菌薬処方が23–56%減少することが示された。外部検証と前向き評価が必要である。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "咽喉照片助力区分\n链球菌与病毒感染",
+          "body": "多模态模型结合咽喉图像与临床数据，旨在区分链球菌咽炎与病毒感染。",
+          "mini_headline": "咽喉照片区分链球菌与病毒",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "区分A组链球菌（GAS）咽炎与病毒性上呼吸道感染（URTIs）对合理使用抗生素至关重要，但仅凭症状仍难以判断。我们开发并内部验证了一种多模态人工智能（AI）模型，通过梯度提升决策树融合咽部图像（Swin Transformer）与临床元数据，所用数据为2023年3月至2025年8月从44家机构收集的6666次就诊和119,988张图像。在区分GAS与non-GAS（A/B型流感、COVID-19）时，融合模型的曲线下面积（AUC）为0.917（95%置信区间0.907–0.926），优于仅图像模型（0.902）、仅元数据模型（0.871）以及替代性的Centor/McIsaac评分。在预先设定的高特异度阈值（≥0.90）下，敏感度为0.761；模拟显示，在GAS患病率为5–20%的情况下，抗生素处方可减少23–56%。仍需进行外部验证和前瞻性评估。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Fotos de garganta para separar\nestreptococo e infección viral",
+          "body": "Un modelo que une imágenes de garganta y datos clínicos busca separar faringitis estreptocócica de infección viral.",
+          "mini_headline": "Fotos de garganta separan estreptococo y virus",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Distinguir la faringitis por estreptococo del grupo A (GAS) de las infecciones virales de las vías respiratorias superiores (URTIs) es clave para un uso adecuado de los antibióticos, pero sigue siendo difícil solo con los síntomas. Desarrollamos y validamos internamente un modelo multimodal de inteligencia artificial (AI) que fusiona imágenes faríngeas (Swin Transformer) con metadatos clínicos mediante árboles de decisión potenciados por gradiente, a partir de 6666 visitas y 119,988 imágenes de 44 centros recogidas entre marzo de 2023 y agosto de 2025. Para discriminar GAS de non-GAS (gripe A/B, COVID-19), el modelo de fusión alcanzó un área bajo la curva (AUC) de 0.917 (intervalo de confianza del 95% 0.907–0.926), superior al modelo solo con imágenes (0.902), al de solo metadatos (0.871) y a las puntuaciones Centor/McIsaac aproximadas. Con un umbral de alta especificidad predefinido (≥0.90), la sensibilidad fue de 0.761; las simulaciones indicaron reducciones de la prescripción de antibióticos del 23–56% con prevalencias de GAS del 5–20%. Se necesitan validación externa y evaluación prospectiva."
               }
             ]
           }

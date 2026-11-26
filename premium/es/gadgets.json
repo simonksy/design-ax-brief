@@ -13930,6 +13930,133 @@
           "yt": "1nVgFoCTBD4"
         }
       ]
+    },
+    "gadgets/hp-omnibook-ultra16-rtxspark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
+          "cap": "HP 'OmniBook Ultra 16'"
+        },
+        {
+          "t": "p",
+          "x": "HP Korea lanzó el día 24 en Corea el 'HP OmniBook Ultra 16', un portátil especializado en tareas de inteligencia artificial (AI) de alto rendimiento."
+        },
+        {
+          "t": "p",
+          "x": "El HP OmniBook Ultra 16 incorpora la plataforma 'RTX Spark N1X' de Nvidia. Cuenta con una unidad central de procesamiento (CPU) Grace de 20 núcleos, una unidad de procesamiento gráfico (GPU) Blackwell de 6144 núcleos y hasta 128GB de memoria unificada."
+        },
+        {
+          "t": "p",
+          "x": "Puede ejecutar grandes modelos de AI sin conexión a la nube y admite agentes de AI que realizan automáticamente tareas de varios pasos, como el análisis de datos y la escritura de código. También sirve para edición de video en alta resolución, creación de contenido tridimensional (3D) y juegos exigentes."
+        },
+        {
+          "t": "p",
+          "x": "Incluye Windows 11 Pro, con las funciones necesarias para el trabajo profesional, como el cifrado de datos, la virtualización y el acceso remoto. Tiene una pantalla táctil de diodos orgánicos emisores de luz (OLED) 3K de 16 pulgadas y una batería de 99 vatios hora (Wh) que permite hasta 17 horas de uso."
+        },
+        {
+          "t": "p",
+          "x": "También se reforzó el sistema de refrigeración para trabajos intensos y prolongados. Es el primer portátil de consumo de HP en adoptar la estructura 'Tower Hinge and Trunk', que mejora el flujo de aire y la disipación de calor. Los compradores en Corea reciben una garantía gratuita de 3 años."
+        },
+        {
+          "t": "p",
+          "x": "Kang Yong-nam, director general de HP Korea, afirmó: “A medida que la AI evoluciona más allá de la simple respuesta a preguntas hacia agentes inteligentes que apoyan la creación y el trabajo, el PC amplía su papel como plataforma para ejecutar y desarrollar estos flujos de trabajo de AI”."
+        },
+        {
+          "t": "p",
+          "x": "Añadió: “Los usuarios en Corea experimentarán, a través del OmniBook Ultra 16, una nueva forma de trabajar y crear junto a la AI”."
+        }
+      ]
+    },
+    "gadgets/usc-stress-ring-ondevice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de la University of Southern California dirigido por el profesor adjunto Yasser Khan y su estudiante de doctorado (PhD) Farhad Hassan creó un anillo con AI (AI-powered) que usa luz infrarroja cercana para seguir la actividad del sudor bajo la piel. Sus resultados se publicaron en Science Advances."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Stress-detecting-ring.jpg?resize=2545%2C1266&ssl=1",
+          "cap": "USC Khan Lab"
+        },
+        {
+          "t": "p",
+          "x": "“Es la primera vez que alguien demuestra que el estrés se puede medir con luz”, dijo Khan. En experimentos con cuatro participantes, las señales ópticas mostraron una concordancia media del 86 por ciento a lo largo del tiempo con un sensor EDA comercial basado en gel. El mismo sistema óptico capta además la frecuencia cardiaca y su variabilidad. Un sensor de temperatura y un acelerómetro ayudan al anillo a distinguir el estrés psicológico del movimiento o de la sudoración provocada por el calor."
+        },
+        {
+          "t": "p",
+          "x": "El modelo de aprendizaje automático se ejecuta en el propio anillo, por lo que los datos biométricos en bruto no tienen que viajar a un servidor externo. “El modelo INT8 cuantizado ocupó 27.65 kB. La implementación simultánea de detección e inferencia requirió 174.47 kB de memoria flash de programa y 27.63 kB de RAM estática”, escribe el equipo. El anillo procesa los datos localmente y solo envía el veredicto final, como estresado o relajado, al teléfono emparejado."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ODa-smart-ring-usc-validation-science-advances-1.jpg?resize=2000%2C1200&ssl=1",
+          "cap": "Science Advances / USC"
+        },
+        {
+          "t": "p",
+          "x": "Khan planea un seguimiento de un año con 40 participantes en un entorno de oficina. La tecnología está en proceso de patente y más adelante podría ofrecerse para licencias comerciales a través del Stevens Center for Innovation de USC."
+        }
+      ]
+    },
+    "gadgets/meta-glasses-south-africa-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://biz-file.com/c/2611/828131-1200x624.jpg?5"
+        },
+        {
+          "t": "p",
+          "x": "Essilor Luxottica y Meta llevarán sus colecciones de gafas inteligentes Ray-Ban Meta y Oakley Meta a Sudáfrica a partir de finales de noviembre, y presentarán a los consumidores locales una nueva categoría de tecnología ponible con AI (AI-powered)."
+        },
+        {
+          "t": "p",
+          "x": "La colección Ray-Ban Meta llegará en su tercera generación, con los estilos Wayfarer, Aviator y Zena. Quienes las usen podrán tomar fotos y videos, escuchar música y pódcasts, hacer llamadas, enviar mensajes y traducir conversaciones. La función Meta AI integrada también permite hacer preguntas por comandos de voz sobre lo que se está viendo."
+        },
+        {
+          "t": "p",
+          "x": "La colección Oakley Meta está pensada para el deporte y el uso al aire libre. Las HSTN incluyen una cámara 3K Ultra HD, altavoces de oído abierto y certificación IPX4. Las Vanguard, orientadas a correr y al ciclismo, tienen una cámara ultra gran angular de 12MP con un campo de visión de 122 grados, certificación IP67 e integración con Strava y Garmin."
+        },
+        {
+          "t": "p",
+          "x": "Las colecciones estarán disponibles a través de determinados socios minoristas ópticos de Essilor Luxottica, tiendas Oakley y en línea. Precios de entrada sugeridos: Ray-Ban Meta Optics (Gen 2) R8,999; Ray-Ban Meta (Gen 3) R8,599; Oakley Meta Vanguard R10,599; Oakley Meta HSTN R8,399."
+        }
+      ]
+    },
+    "gadgets/savage-orrorin-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/1LgXM2H-e5RdtGU9RlHL2bMrx1o=/1920x/article-new/2026/11/orrorin-glasses-1920x1080-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La startup de Hong Kong Savage Technology ha anunciado su primer producto, \"Orrorin Glasses\", que promete controles por pinza Vision Pro-style y pantallas a todo color para ambos ojos en una montura de solo 45 gramos."
+        },
+        {
+          "t": "p",
+          "x": "La empresa describe las gafas como una propuesta de \"Vision Pro–level interaction\" (interacción al nivel de Vision Pro) y afirma que son unas 25 veces más ligeras que el visor de Apple, incluida su batería externa, aunque Orrorin ofrece bastantes menos funciones."
+        },
+        {
+          "t": "p",
+          "x": "Savage afirma que pequeños gestos de pinza realizados a un costado del cuerpo controlan la interfaz sin anillo, pulsera ni mando. El seguimiento ocular hace que la pantalla se desvanezca cuando el usuario aparta la mirada, en lugar de seleccionar elementos de la interfaz como en Vision Pro."
+        },
+        {
+          "t": "p",
+          "x": "Las Meta Ray-Ban Display cuestan los mismos $799, pero solo tienen pantalla en el ojo derecho y requieren la pulsera Neural Band. Orrorin carece de seguimiento posicional y mapeo espacial, por lo que no puede anclar ventanas virtuales en una habitación como Vision Pro."
+        },
+        {
+          "t": "p",
+          "x": "Cofundada por Bill Pei y Elena Shi, Savage sigue en fase de validación de ingeniería y se dirige a desarrolladores con apps de terceros e interacción con agentes AI como Claude Code y Codex."
+        },
+        {
+          "t": "p",
+          "x": "Las reservas de Orrorin empiezan en $29, que se descuentan del precio de $799. Savage calcula que los envíos comenzarán en marzo de 2027 para los compradores de Founder Edition y en mayo de 2027 para los de Early Bird."
+        }
+      ]
     }
   }
 }
