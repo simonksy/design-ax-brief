@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI가 초안을 쓰면, 책임은 누가",
+    "date": "2026.11.26",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문·1차 자료 재대조(11-26): 게재일 AuntMinnie 배심 프리뷰 11.11(Cloudflare 차단이라 리더 프록시로 본문·게시일 확인), GE HealthCare 보도자료 11.24(시카고 발, Business Wire 8:00 EST), STAT 11.24(09:30 UTC), Communications Medicine 11.25(citation_online_date). 수치 확인: 모의 배심 2,347명·AI 시나리오 21개·판독을 AI 따라 바꾸면 80% 넘게 책임·대조군 62%; Clarity는 구술한 소견과 가용 정보를 모아 구조화된 초안을 만들고 의사가 검토·수정 후 확정·서명(GE 원문); STAT Braginsky 발언 원문 번역; 의사 227명·1,802건·아이콘 배열 23%·분위수 점그림 21%·틀린 조언 수용은 뚜렷이 줄지 않음(초록). 3장 출처를 AuntMinnie 대신 GE HealthCare 보도자료(1차)로. 미디어: 3장의 기존 사진은 다른 제품(초음파 LOGIQ·ViewPoint) 사진이라 GE HealthCare 뉴스룸 공식 이미지(Clarity 화면 앞에서 구술하는 판독의)로 교체해 src/에 저장, 4장 STAT 사진은 AdobeStock이라 Braginsky quote로 바꿈. 사진은 3장 하나뿐.",
+    "sources": [
+      "AuntMinnie — Will AI affect radiology malpractice cases? (2026.11.11)",
+      "GE HealthCare — GE HealthCare introduces a new capability for seamless reading and reporting workflows (2026.11.24)",
+      "STAT — AI can now draft radiology reports. Will it make care better, and safer? (2026.11.24)",
+      "Communications Medicine — Predictive uncertainty representations in clinical AI shape physicians' advice uptake, accuracy, and trust (2026.11.25)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 11.11~11.25",
+      "thread": [
+        {
+          "d": "11.11",
+          "t": "배심원",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.24",
+          "t": "판독 초안",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.24",
+          "t": "안전성 논쟁",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "11.25",
+          "t": "불확실성",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "초안은 AI가 쓰고, 틀린 AI를 거를 책임은 의사의 서명에 남는다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "AI가 초안을 쓰면\n책임은 누가",
+      "body": "한 건씩 보면 배심 실험, 신제품, 기획 기사, 논문이다. 꿰어 보면 AI를 따를지 거를지의 무게가 의사에게 쌓인다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.11",
+      "headline": "틀린 AI 따르면\n의사 탓",
+      "body": "모의 배심 2,347명. 처음엔 출혈을 찾았다가 AI가 놓치자 판독을 바꾼 의사에게, 80% 넘게 책임을 물었다.",
+      "foot": "2026.11.11",
+      "_src": "https://www.auntminnie.com/resources/conference/rsna/2026/artificial-intelligence-preview/article/16425171/will-ai-affect-radiology-malpractice-cases",
+      "_id": "rsna-ai-malpractice-jury",
+      "stat_top": "AI 없는 대조군 62%",
+      "stat_arrow": "맞는 판독을 AI 따라 바꾸면",
+      "stat_bottom": "80% 이상",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.11.24",
+      "headline": "판독문 초안,\nAI가 먼저 쓴다",
+      "body": "GE HealthCare의 Clarity. 의사가 소견을 구술하면 구조화된 초안을 만들고, 의사가 검토해 고친 뒤 서명한다.",
+      "foot": "2026.11.24",
+      "_src": "https://www.gehealthcare.com/about/newsroom/press-releases/ge-healthcare-introduces-a-new-capability-for-seamless-reading-and-reporting-workflows",
+      "_id": "intelerad-orchestrator-clarity",
+      "media": "social/instagram/trend/2026-11-26/!2026-11-26-medicine-trend/src/gehc-clarity-dictation.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.11.24",
+      "headline": "가능한가에서\n안전한가로",
+      "body": "RSNA 2026을 앞두고 STAT이 묻는다. 영상을 읽고 판독 초안까지 쓰는 AI가 진료를 더 안전하게 만들까.",
+      "foot": "2026.11.24",
+      "_src": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/",
+      "_id": "stat-rsna-draft-reports",
+      "quote": "작년 RSNA의 초점은\n의사가 검토라도 해 볼 만큼\n정확한 초안이 가능하냐였다",
+      "quote_by": "마이클 브라긴스키 · Aidoc CTO"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.25",
+      "headline": "불확실성 보여도\n틀린 AI는 못 걸러",
+      "body": "의사 227명 실험. 불확실성을 보여 주자 조언 수용은 늘었지만 틀린 조언 수용은 뚜렷이 줄지 않았다.",
+      "foot": "2026.11.25",
+      "_src": "https://www.nature.com/articles/s43856-026-02008-4",
+      "_id": "commsmed-ai-uncertainty-physicians",
+      "stat_top": "위험 점수만 볼 때",
+      "stat_arrow": "불확실성까지 보여 주면 조언 수용",
+      "stat_bottom": "23%·21% 증가",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": ""
+    }
+  ]
+}

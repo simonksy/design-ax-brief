@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "issue": "딥마인드, 질량분석 스펙트럼 읽는 에이전트 스킬 공개",
+    "date": "2026.11.25",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "Google DeepMind 블로그 원문(datePublished 2026-11-25T17:00Z, 본문 표기 'November 25, 2026') 대조. 1차 출처가 곧 회사 발표라 수치는 모두 딥마인드 자체 평가로 귀속. 확인: 참조 라이브러리 대조 주석률 평균 약 5%·사람 시료 10%('암흑물질'), 예시 스펙트럼 화학식 C20H21ClN6O·PubChem 이성질체 845개 → 우레아 위치이성질체 5개 → CID 137835447 확정, 벤치마크는 MoNA Enamine REAL MS/MS 100개(스펙트럼당 3회 시도, 정확 일치), 인터넷·스킬 없이 세 모델 모두 4% 미만, 인터넷만 주면 상위 모델 1/4~1/3·Flash 3/4 이상 놓침, 스킬 추가 시 세 모델(Gemini 3.8 Flash·Gemini 4 Argon·Gemini 4 Carbon) 약 97%, 생성 토큰 Flash 약 4분의 1로·Argon 절반·Carbon 약 5분의 1 감소, 한계(거울상 분자·아주 닮은 이성질체는 LC-MS/MS만으로 구분 불가, DB에 없는 새 분자는 확정 불가), 과학자 1만 명 최상위 사용 등급 6개월 무료(자격·수용량·선정 조건, 순차 온보딩). 인용은 DTU 스콧 자무시 조교수 발언(딥마인드 글에 실린 것) 번역. 정정: ① 날짜 2026.11.26 → 원문 게재일 2026.11.25(KST로는 11.26 02:00). ② 초안 '스킬로 4% 미만에서 약 97%'는 4%가 '인터넷도 스킬도 없는' 조건이라 화살표를 '인터넷+스킬'로 고침. ③ 초안 썸네일(pipeline/media og 이미지)은 제목 글자만 든 타이틀 카드라 버리고, 원문 Figure 2(Antigravity 실행 화면, 딥마인드 제작)를 표지 한 장에만 씀. 나머지는 stat·quote.",
+    "sources": [
+      "Google DeepMind — From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity (2026.11.25)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "media": "src/antigravity-report.png",
+      "eyebrow": "AI × 과학 · 2026.11.25",
+      "headline": "스펙트럼 읽는 에이전트",
+      "body": "구글 딥마인드가 안티그래비티용 Mass Spec Skills를 공개했다. 질량분석 데이터에서 분자를 짚어 내는 에이전트 기능이다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "스펙트럼 100개",
+      "stat_arrow": "참조 라이브러리에 대조하면",
+      "stat_bottom": "약 5개만 식별",
+      "stat_strike": false,
+      "eyebrow": "왜 필요한가",
+      "headline": "95%는 정체불명",
+      "body": "사람 시료도 10% 수준이다. 참조 스펙트럼이 없는 분자가 많아서다. 이 나머지를 질량분석의 '암흑물질'이라 부른다.",
+      "foot": "2026.11.25",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "후보 이성질체 845개",
+      "stat_arrow": "조각 패턴·결합 끊김 대조",
+      "stat_bottom": "구조 1개 확정",
+      "stat_strike": false,
+      "eyebrow": "어떻게 찾나",
+      "headline": "845개 중 정답 하나",
+      "body": "에이전트가 SIRIUS·MetFrag 같은 공개 도구를 이어 돌린다. 화학식부터 잡고 PubChem 후보를 하나씩 걸러냈다.",
+      "foot": "2026.11.25",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "도구 없이 4% 미만",
+      "stat_arrow": "인터넷 + Mass Spec Skills",
+      "stat_bottom": "약 97% 적중",
+      "stat_strike": false,
+      "eyebrow": "얼마나 맞히나",
+      "headline": "가벼운 모델도 97%",
+      "body": "공개 스펙트럼 100개로 한 딥마인드 자체 시험이다. 경량 Gemini 3.8 Flash도 상위 모델만큼 맞혔다.",
+      "foot": "2026.11.25",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "며칠, 몇 달 걸리던 분석과 문헌 검토를\n몇 시간으로 줄인다.",
+      "quote_by": "스콧 자무시 · 덴마크공대(DTU) 조교수",
+      "eyebrow": "그래서 지금",
+      "headline": "판단은 화학자 몫",
+      "body": "거울상 분자나 아주 닮은 이성질체는 스펙트럼만으론 못 가른다. DB에 없는 새 분자는 출발점까지만 준다.",
+      "foot": "2026.11.25",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
