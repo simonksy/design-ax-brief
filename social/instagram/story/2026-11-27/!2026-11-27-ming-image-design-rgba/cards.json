@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "issue": "Ming-Image 0.2 Design, 오픈 웨이트 이미지 모델 1위",
+    "date": "2026.11.25",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "inclusionAI Hugging Face 모델 카드(저장소 생성 2026-11-25 04:02 UTC, 가중치 업로드 같은 날 12:52 UTC → 공개일 2026.11.25), GitHub inclusionAI/Ming-Image README, Artificial Analysis AA-Image-T2I v2.1 오픈 웨이트 리더보드(2026.11.27 직접 확인)로 대조. 확인: DiT 6B, MIT 라이선스, 구도·조명·텍스트 렌더링 개선, 이커머스 히어로·UI 시안·공간 렌더링 용도, Ling-3.2-flash와 묶어 디자인 콘셉트를 인터랙티브 페이지로, 권장 2048×2048·12스텝·검증 환경 80GiB VRAM CUDA GPU 1장. AA 수치: Ming-Image-0.2-Design Elo 1,095(±12, 표본 4,936) 오픈 웨이트 1위, 2위 H3-Image 1,066, 3위 Qwen-Image-2.1 1,049, 전작 Ming-Image-0.1-Design 1,001. '1위'는 오픈 웨이트 모델 한정(전체 순위 아님)으로 귀속. 정정: (1) 초안 '디자인을 글자까지 투명 레이어로 쪼갠다' — 모델 카드의 'down to character parts'는 뜻이 모호하고, GitHub README는 레이어 분해가 여전히 0.1-Design-Layer 모델로 돌아간다고 적으며 0.2 레이어 가중치는 없다. 0.2 자체의 RGBA 기능은 '투명 배경 이미지 생성'(프롬프트 앞에 고정 문구)이므로 그렇게 고쳐 씀. (2) 날짜 11.27 → 공개일 11.25. 모델 카드 본문의 '11월 23일 예비 평가'와 표의 'Nov 25 기준'이 어긋나 날짜 없이 AA 라이브 수치를 씀. 사진: 초안 썸네일(AA 리더보드 캡처)은 쓰지 않고, 모델 카드 공식 갤러리(inclusionAI, 모델이 생성한 예시) 애니메이션 webp에서 프레임 세 장(web-design #3, ecommerce #4, spatial-design #2)을 골라 1440px로 저장.",
+    "sources": [
+      "Hugging Face (inclusionAI) — Ming-Image-0.2-Design 모델 카드 (2026.11.25)",
+      "GitHub (inclusionAI) — Ming-Image README (2026.11.27 확인)",
+      "Artificial Analysis — AA-Image-T2I v2.1 Open Weights Leaderboard (2026.11.27 확인)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "media": "src/ming-web-afterglow.jpg",
+      "eyebrow": "AI × 디자인 · 2026.11.25",
+      "headline": "글자까지 그리는 6B",
+      "body": "inclusionAI가 디자인 특화 이미지 모델 Ming-Image-0.2-Design을 MIT 라이선스로 풀었다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "media": "src/ming-ecom-honey.jpg",
+      "eyebrow": "무엇이 나아졌나",
+      "headline": "라벨까지 또렷하게",
+      "body": "복잡한 구도와 조명, 글자 렌더링을 손봤다. 이커머스 대표 이미지와 UI 시안을 겨냥한다.",
+      "foot": "2026.11.25",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "0.1 Design 1,001",
+      "stat_arrow": "AA 텍스트→이미지 Elo",
+      "stat_bottom": "0.2 Design 1,095",
+      "stat_strike": false,
+      "eyebrow": "얼마나 올랐나",
+      "headline": "오픈 모델 1위",
+      "body": "Artificial Analysis 오픈 웨이트 순위 1위다. 2위 H3-Image(1,066)와는 29점 차. 전체 순위는 아니다.",
+      "foot": "2026.11.25",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "media": "src/ming-spatial-axo.jpg",
+      "eyebrow": "어디까지 그리나",
+      "headline": "공간 렌더링도",
+      "body": "건축 분해도 같은 공간 장면도 만든다. 투명 배경 RGBA 이미지는 프롬프트 앞에 정해진 문구를 붙이면 된다.",
+      "foot": "2026.11.25",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "디자인 콘셉트를\n인터랙티브 페이지로 옮긴다.",
+      "quote_by": "inclusionAI · 모델 카드",
+      "eyebrow": "그래서 지금",
+      "headline": "시안에서 페이지로",
+      "body": "Ling-3.2-flash와 짝을 이룬다. 누구나 받을 수 있지만, 검증된 환경은 80GB GPU 한 장이다.",
+      "foot": "2026.11.25",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

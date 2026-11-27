@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "issue": "Luma, 로고와 캐릭터를 AI에 고정한다",
+    "date": "2026.11.25",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "Luma 공식 발표 'Introducing Brand Kit and Character Library'(lumalabs.ai/news, 본문 표기 November 25, 2026 · datePublished 2026-11-25T19:41Z) 원문 대조. 확인: 로고·글꼴·제품을 Brand Kit에 올리면 이후 생성이 이를 따름, 가이드라인이 없으면 웹사이트 URL로 에이전트가 초안 작성(검토 후 사용), 보드에 연결, Brand Kit 개수 제한 없음 / Assets(Character Library)는 캐릭터·아바타·모델의 얼굴·몸·의상·배경·표정 기준을 담고 보드에서 @로 참조, Character Sheets·Expression Sheets로 생성 가능 / 에이전트형 제작 시스템 안에서 브랜드·캐릭터 규칙 부합 여부를 평가 / #으로 브랜드 키트, @로 캐릭터를 불러 에이전트와 '100 asset campaign'까지(Luma 주장으로 귀속) / 1인 창작자부터 글로벌 브랜드까지 모든 사용자에게 제공, '일부러 Enterprise 뒤에 잠그지 않았다'(인용 번역). 정정: 초안 날짜 2026.11.27 → 발표일 2026.11.25. 초안 본문의 잘린 발췌·같은 제목 반복을 전부 새로 씀. 영상: 초안 pipeline/media 클립 대신 발표 본문에 실린 Luma 공식 데모 영상 4개 중 3개에서 문구 오버레이 없는 구간을 잘라 960×640(3:2)으로 src/에 저장 — 표지 캠페인 이미지 브랜드 검사(4s~), 2장 Brand Kit 페이지(16s~), 3장 캐릭터 라이브러리(10.6s~), 4장 @Miko 참조 생성(24.5s~). 화면 속 인물·브랜드(Mudfinch)는 Luma 데모용 생성물.",
+    "sources": [
+      "Luma — Introducing Brand Kit and Character Library (2026.11.25)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "video": "src/campaign-check.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "AI × 영화 · 2026.11.25",
+      "headline": "AI가 브랜드를 외운다",
+      "body": "Luma가 Brand Kit과 Character Library를 내놨다. 생성물이 브랜드·캐릭터 규칙에 맞는지 에이전트가 따진다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "video": "src/brandkit-page.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "Brand Kit은",
+      "headline": "로고·글꼴은 한 번만",
+      "body": "로고와 글꼴, 제품을 올려 두면 이후 생성이 이를 따른다. 가이드가 없으면 웹사이트 주소로 초안을 짜 준다.",
+      "foot": "2026.11.25",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "video": "src/character-library.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "캐릭터는",
+      "headline": "장면마다 같은 얼굴",
+      "body": "얼굴·몸·의상·배경·표정의 기준을 Assets에 담는다. 보드에서 @로 부르면 그 캐릭터가 생성의 기준이 된다.",
+      "foot": "2026.11.25",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "video": "src/at-reference.mp4",
+      "start": 0,
+      "dur": 4,
+      "eyebrow": "어떻게 쓰나",
+      "headline": "#과 @로 불러 쓴다",
+      "body": "#으로 브랜드 키트를, @로 캐릭터를 불러 브리프를 건넨다. 에셋 100개짜리 캠페인까지 간다는 게 Luma 설명이다.",
+      "foot": "2026.11.25",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "엔터프라이즈의 문 뒤에\n일부러 가두지 않았다.",
+      "quote_by": "Luma · 출시 발표",
+      "eyebrow": "누가 쓰나",
+      "headline": "기업 전용이 아니다",
+      "body": "1인 창작자부터 글로벌 브랜드까지 모든 Luma 사용자에게 열었다. 만들 수 있는 Brand Kit 개수에도 제한이 없다.",
+      "foot": "2026.11.25",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

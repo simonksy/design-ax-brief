@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "issue": "'AI 없음', 이제 증명할 차례",
+    "date": "2026.11.27",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "원문 4건 대조(11-27 재확인). 게재일 고침: Ilona Andrews 블로그 11.20(카드 11.22→11.20, 11.22는 수정일), Tomorrow's Publisher 11.25(11.27→11.25), The Bookseller 11.26(11.27→11.26, 유료벽이라 제목·리드만), RTL info 11.26(11.27→11.26). 확인: 작가 계약·Tor 아트 계약 모두 no-AI 조항, Tor 성명(표지 철회·내부 검수 강화·'저자 아닌 우리 책임'), IFWG·IPI는 생성형 AI로 만들거나 보강한 글·그림 거부 + 펴낸 작품을 모델 개발사·학습자료 중개업체에 넘기지 않음(Huntman 11.17 발표), Mertens는 초고·손글씨 메모·자료 조사로 직접 썼음을 보일 수 있다고 함, ADEB는 'sans IA' 라벨을 검토하되 라벨 의무 이행 확인이 어렵다는 점을 인정. 고침: 4장 '의혹 뒤 끊긴 계약'은 원문이 인과를 말하지 않아 '손을 뗐다는 보도 뒤 부인'으로, 5장은 라벨 '원한다'에서 '검토·확인이 숙제'로 맞춤(원문 réflexion·difficultés). 미디어: 2장만 Tor 공식 성명 이미지(Tor Publishing Group), 4장 Bookseller 대표 이미지는 스톡풍 책 사진이라 stat, 5장 RTL 사진은 'RTL info avec Belga'로 촬영 출처 미상이라 stat, 3장 stat.",
+    "sources": [
+      "Ilona Andrews — Generative AI on This Crown's Cover (Tor 성명 포함) (2026.11.20)",
+      "Tomorrow's Publisher — IFWG and IPI Comics put their ban on AI-made work into contracts (2026.11.25)",
+      "The Bookseller — Author denies allegations she used AI to write book after novel 'dropped by agent' (2026.11.26)",
+      "RTL info — Les éditeurs belges veulent un label « sans IA » pour rassurer les lecteurs (2026.11.26)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 책 · 11.20~11.26",
+      "thread": [
+        {
+          "d": "11.20",
+          "t": "AI 표지 철회",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.25",
+          "t": "계약에 금지",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.26",
+          "t": "작가의 반박",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "11.26",
+          "t": "무AI 라벨",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "'AI 없음'을 계약과 라벨에 적기 시작했다. 막히는 건 증명이다",
+      "eyebrow": "흐름 · 책",
+      "headline": "'AI 없음',\n이제 증명할 차례",
+      "body": "따로 보면 표지 소동, 계약 조항, 작가 해명, 라벨 논의다. 이어 보면 약속은 서류에 올랐고, 남은 일은 확인이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.20",
+      "headline": "금지 조항에도\nAI 표지",
+      "body": "작가 계약에도, Tor의 그림 계약에도 AI 금지 조항이 있었다. Tor는 표지를 내리고 내부 검수를 강화하겠다고 했다.",
+      "foot": "2026.11.20",
+      "_src": "https://ilona-andrews.com/blog/generative-ai-on-this-crowns-cover/",
+      "_id": "books-tor-crown-cover",
+      "media": "pipeline/media/books-tor-crown-cover.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.25",
+      "headline": "계약서에 쓴 'AI 금지'",
+      "body": "IFWG·IPI Comics는 생성형 AI로 만들거나 손본 글·그림을 받지 않는다. 펴낸 책을 AI 학습용으로 넘기지도 않는다.",
+      "foot": "2026.11.25",
+      "_src": "https://tomorrowspublisher.today/news/independent-speculative-fiction-presses-ban-ai-made-work-and-restrict-training-u-c0f94490c251/",
+      "_id": "ifwg-ipi-ai-contract-ban",
+      "stat_top": "작가에게: AI 작품 금지",
+      "stat_arrow": "계약은 양쪽을 묶는다",
+      "stat_bottom": "출판사도: 학습 제공 금지",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.26",
+      "headline": "의혹 받은 작가,\n초고로 맞선다",
+      "body": "에이전트가 소설에서 손을 뗐다는 보도 뒤, 머튼스가 AI 집필 의혹을 부인했다. 직접 썼다는 증거가 있다고 했다.",
+      "foot": "2026.11.26",
+      "_src": "https://www.thebookseller.com/news/author-denies-allegations-she-used-ai-to-write-book-after-novel-dropped-by-agent",
+      "_id": "mertens-wild-horse-ai-denial",
+      "stat_top": "AI로 썼다는 의혹",
+      "stat_arrow": "작가가 내민 근거",
+      "stat_bottom": "초고·손글씨 메모",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.26",
+      "headline": "'sans IA' 라벨,\n확인이 숙제",
+      "body": "벨기에 출판인협회(ADEB) 쪽 출판사들이 'AI 없음' 라벨을 검토한다. 의무를 지켰는지 확인하기 어렵다는 것도 안다.",
+      "foot": "2026.11.26",
+      "_src": "https://www.rtl.be/actu/les-editeurs-belges-veulent-un-label-sans-ia-pour-rassurer-les-lecteurs/2026-11-26/article/807924",
+      "_id": "belgium-sans-ia-label",
+      "stat_top": "사람이 만든 책 보증",
+      "stat_arrow": "라벨의 난관",
+      "stat_bottom": "지켰는지 확인",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
