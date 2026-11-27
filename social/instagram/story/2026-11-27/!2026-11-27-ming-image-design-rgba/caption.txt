@@ -1,0 +1,19 @@
+Ming-Image 0.2 Design, 오픈 웨이트 이미지 모델 1위
+
+inclusionAI가 디자인 작업에 맞춘 이미지 생성 모델 Ming-Image-0.2-Design을 Hugging Face에 MIT 라이선스로 공개했습니다. 6B(DiT) 규모로, 복잡한 구도와 조명, 이미지 속 글자 렌더링을 개선해 이커머스 대표 이미지, UI 시안, 공간 렌더링을 겨냥합니다.
+
+· Artificial Analysis 텍스트→이미지 오픈 웨이트 순위 1위 — Elo 1,095, 2위 H3-Image 1,066, 전작 0.1 Design 1,001 (11.27 확인, 전체 순위가 아닌 오픈 웨이트 한정)
+· 프롬프트 앞에 정해진 문구를 붙이면 투명 배경(RGBA) 이미지를 만든다. 레이어 분해는 여전히 0.1-Design-Layer 모델 몫
+· Ling-3.2-flash와 함께 디자인 콘셉트를 인터랙티브 페이지로 옮기는 흐름을 제시
+· 권장 설정 2048×2048, 12스텝. 검증된 환경은 80GB VRAM GPU 한 장
+
+누구나 받아 쓸 수 있는 디자인 모델이 글자 있는 시안까지 그립니다. 다만 노트북에서 가볍게 돌릴 크기는 아닙니다.
+
+밀어서 6장 →
+
+출처: Hugging Face inclusionAI 모델 카드 (2026.11.25) · Artificial Analysis 리더보드 (2026.11.27 확인)
+사진: inclusionAI 공식 모델 카드 갤러리 (Ming-Image-0.2-Design 생성 예시)
+
+매일 아침 열 개 분야 AI 뉴스와 분야를 넘나드는 지식 그래프 → axitnow.com (프로필 링크)
+
+#AI #AI디자인 #MingImage #오픈소스 #이미지생성 #axitnow
