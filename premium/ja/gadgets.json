@@ -13608,6 +13608,142 @@
           "x": "Orrorinの予約は$29からで、$799の価格に充当される。Savageは出荷開始をFounder Edition購入者向けに2027年3月、Early Bird購入者向けに2027年5月と見込む。"
         }
       ]
+    },
+    "gadgets/xda-esp32-agent-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-claude-code.jpg?&fit=crop&w=1600&h=900",
+          "cap": "Claude Codeを背景にしたEsp32ボード"
+        },
+        {
+          "t": "p",
+          "x": "XDAはClaude Code、OpenAI Codex、GoogleのAntigravityにまったく同じ課題を与えた。Wi-Fi経由でWS2812B RGB LEDストリップを制御するESP32用ファームウェアを書くというもので、ローカルのウェブダッシュボード、色と明るさの調整、いくつかの照明エフェクト、再起動後も保持される設定を求めた。最初の書き込みですべてを動作させたエージェントは一つだけだった。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-new.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "手に持ったESP32センサー"
+        },
+        {
+          "t": "p",
+          "x": "三つの中で最も優れていたのはClaude Codeで、最初の書き込みでファームウェアが動いたのもClaude Codeだけだった。修正なしでコンパイルでき、アニメーションを動かしたままでもダッシュボードは操作できた。「Claude Codeには追加のプロンプトを一度も送る必要がなかった」"
+        },
+        {
+          "t": "p",
+          "x": "Codexはかなり惜しかった。ファームウェアはコンパイルでき、ダッシュボードも開いたが、ダッシュボードがファームウェアで設定されたものとは別のエンドポイントにコマンドを送っていたため、LEDsの色が変わらなかった。"
+        },
+        {
+          "t": "p",
+          "x": "Google Antigravityは、アニメーション効果を実行するとダッシュボードが応答しなくなった。アニメーションのコードがESP32を長く占有しすぎたためだ。CodexとAntigravityはどちらももう一度修正が必要で、明確な勝者はClaude Codeだった。"
+        }
+      ]
+    },
+    "gadgets/moe-smartglasses-detect": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/27/rcv.YNA.20261127.PYH2026112706610001300_P1.jpg",
+          "cap": "27日、国会で開かれた教育委員会全体会議で委員の質問に答える崔恩玉（チェ・ウノク）教育部長官職務代行。（写真=聯合ニュース）"
+        },
+        {
+          "t": "p",
+          "x": "政府は大学修学能力試験（修能）での不正行為を防ぐためのスマートグラス検知技術の開発を終え、実用化を進める。インターネットに接続せず機器自体で人工知能（AI）を動かすオンデバイスAIを検知する技術も開発する方針だ。崔恩玉教育部長官職務代行は27日の国会教育委員会全体会議で「スマートグラスを検知する技術は開発され、実用化の段階に入っている」とし、「来年の修能を念頭に、技術開発の日程を逆算して準備している」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "首相が主宰する汎政府タスクフォース（TF）で、教育部は修能の不正行為への対応を、科学技術情報通信部は関連技術の開発を担う。オンデバイスAIの検知策についても両省が協議中だ。教育部は、全国の教育庁と教育支援庁に不正防止のための検知機器を備えるには約400억원の追加予算が必要になると見積もった。ただし実際に予算に反映されるかは決まっていない。大学別の試験でも不正防止に向けた緊急対応体制を稼働している。"
+        },
+        {
+          "t": "p",
+          "x": "修能後に大学別試験を実施した14校では、スマート機器を使った不正行為の摘発事例はなかった。教育部は各大学に対し、大学別試験の試験用紙と答案用紙をすべて保管し、合格予定者全員の試験用紙と答案用紙を再検討するよう案内した。昨年の修能の試験用紙を廃棄した学校は237校と把握された。25日に教育部が発表した233校より4校増えた。高校の内申試験の不正防止策については、教員の負担を減らすための技術開発を進める。"
+        },
+        {
+          "t": "p",
+          "x": "教育部は24日、金属探知機を使った受験生の全数検査や筆記用具の一括支給などを柱とする対策を発表した。崔代行は「今後は監督官の負担を増やさずに、技術開発などを通じて学校の試験をしっかり監督する方策を設ける」とし、「根本的には、試験・評価をどのような方法で、どのような内容で行うかも長期的に議論すべき課題だ」と語った。"
+        }
+      ]
+    },
+    "gadgets/sheiko-gpsfree-autopilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/TPpL3AULPVhwmkFHW2ZLcU.jpg",
+          "cap": "ドローン"
+        },
+        {
+          "t": "p",
+          "x": "11年生の生徒が、複数の技術的成果によりVolodymyr Zelenskyy大統領から「The Future of Ukraine」賞を受けた。Poltava Waveによると、キーウ（Kyiv）の西約190マイルに位置するポルタワ（Poltava）の生徒Yaroslav Sheikoは、無人航空機（UAVs）がGPS信号に頼らず目的地に到達できるAI-poweredのドローン自動操縦システムと、光学電子式の安定化システムを開発した。"
+        },
+        {
+          "t": "p",
+          "x": "この11年生はすでに大統領奨学金を二度受け、ウクライナのJunior Academy of Sciencesが主催する全国大会で最高賞を二度獲得し、INOVA 2025 国際発明展で金メダル、2025 Hackathonで銀メダルを獲得した。"
+        },
+        {
+          "t": "p",
+          "x": "ウクライナはドローン能力を高めるための国産技術にも取り組んでいる。運用停止中のU.S.-made（米国製）Puma偵察ドローンに国産の妨害対策システムを搭載したり、「空飛ぶモデム」のネットワークを使ってStarlinkに頼らずに攻撃ドローンの航続距離を延ばしたりしている。"
+        }
+      ]
+    },
+    "gadgets/s27-oneui95-ai-teardown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/S26-in-hand-showing-One-UI-9.5-welcome-screen-scaled.jpg",
+          "cap": "One UI 9.5のウェルカム画面を表示したS26を手に持つ様子"
+        },
+        {
+          "t": "p",
+          "x": "One UI 9.5 Beta 1のコードは、新しいGalaxy AI機能の長いリストを「Galaxy AI version 20271」に結び付けており、Samsung自身のコードはこれをS27のAIバージョンと表記している。Voice Recorderは20261をS26のバージョン、20271をS27のバージョンとしている。この報道は開発中のコードに基づくもので、これらの機能は提供されない可能性もある。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Beta-1-Galaxy-AI-version_1.jpg",
+          "cap": "One UI 9.5 Beta 1のGalaxy AIバージョン"
+        },
+        {
+          "t": "p",
+          "x": "制限された機能には、AIで写真のカメラアングルを変えるGalleryのRecompose、新しいCamera ProScanとLog LUTツール、表全体に対応したAI select、Scam Detectionの対応言語拡大、通話向けのAudio eraserなどがある。S26 Ultraで20271を強制適用すると、AI selectは83行の表全体を認識し、Copy tableチップを表示した。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-One-UI-9.5-Beta-1-AI-select-Copy-Table_2-scaled.jpg",
+          "cap": "One UI 9.5 Beta 1を搭載したGalaxy S26 UltraでCopy tableチップを表示するAI select"
+        },
+        {
+          "t": "p",
+          "x": "Gen Videoクレジット、Samsung BrowserのAsk anything、Now BriefのBixbyアクションカードなど、20271の機能のいくつかは有料のGalaxy AI Premiumプランに結び付いているようだ。Samsungは今年、S26の機能のいくつかを旧機種にも提供したため、これらすべてがずっとGalaxy S27専用（S27-exclusive）のままとは限らない。"
+        }
+      ]
+    },
+    "gadgets/xpeng-iron-humanoid-ev-price": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+          "cap": "XPENG"
+        },
+        {
+          "t": "p",
+          "x": "中国のEVメーカーXPengは、人型ロボットIRONが2027年に一般向けに発売される際、価格は電気自動車とほぼ同程度になり得ると述べた。XPengは最終的にIRONを家庭で働かせたい考えだが、まずは商業施設への導入を優先する。"
+        },
+        {
+          "t": "p",
+          "x": "XPengのBrian Gu副会長はBloombergに対し、IRONの価格はEVの販売価格の中央値前後になり得ると語ったが、具体的な金額は明かさなかった。同ロボットは2027年第一四半期にXPengの店舗で販売アシスタントとしての訓練を始め、第二四半期に一般発売される予定だ。XPengは同年に人型ロボットを数万台販売することを目指している。"
+        },
+        {
+          "t": "p",
+          "x": "XPengはAI DayでIRONの最新版を披露し、IRONは壇上で観客の質問にその場で答えた。自由度は76、触覚センシングポイントは1,500以上で、搭載モデルと全身制御を担う自社製Turing AIチップを三基備える。XPengによれば、自律移動、音声やアプリによるタスクの受け付け、自己充電、自らの稼働状態の監視が可能だという。"
+        },
+        {
+          "t": "p",
+          "x": "XPengはまず商業環境から始め、産業用途を経て、最終的に家庭へと展開する。Guは、商業利用が成功してから一～二年後に家庭への導入が始まる可能性を示唆し、子ども、高齢者、ペットの周囲での安全性が解決すべき課題の一つだとした。"
+        },
+        {
+          "t": "p",
+          "x": "XPengはハードウェア以外にも、ソフトウェアのサブスクリプション、アップグレード、トレーニング、サービスによる継続収益を見込んでいる。"
+        }
+      ]
     }
   }
 }

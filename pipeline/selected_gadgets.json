@@ -1,79 +1,96 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "gadgets",
   "items": [
     {
-      "title": "China's Xpeng wants to put an eerily friendly humanoid robot in your home for the same price as an affordable EV",
-      "url": "https://www.digitaltrends.com/cool-tech/xpeng-iron-humanoid-robot-ev-price-home/",
-      "source": "Digital Trends",
-      "published_iso": "2026-11-26T11:17:11-08:00",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "At its Nov 25 AI Day, XPeng showed the latest IRON humanoid (76 DoF, 1,500+ tactile points, three in-house Turing AI chips running onboard models) answering questions live; it targets a 2027 launch at a price comparable to an EV, with household use on the roadmap.",
+      "title": "Japanese brand unveils 5G smartphone for seniors with physical buttons and AI scam call detection",
+      "url": "https://www.notebookcheck.net/Japanese-brand-unveils-5G-smartphone-for-seniors-with-physical-buttons-and-AI-scam-call-detection.1460648.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-11-27T00:50:00+01:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/sharp-simple-smartphone-8.jpeg",
+      "excerpt": "Sharp announced the Simple Smartphone 8, a 5G phone for seniors whose AI scam-call detection analyzes conversations during calls and warns the user on screen, by sound and by vibration. An AI document mode also removes shadows and corrects perspective.",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "A new hardware reveal from XPeng's Nov 25 AI Day: an onboard-AI humanoid with a 2027 launch target and EV-level pricing. It is a different company and event from the Meta prototype report (11-02) and the 90kg humanoid (11-25)."
+      "rationale": "A new product launch where AI does a concrete safety job: detecting scam calls in real time on a phone built for seniors. Nothing like it is in the 30-day history."
     },
     {
-      "title": "HP코리아, AI PC '옴니북 울트라 16' 국내 출시",
-      "url": "https://www.etnews.com/20261124000168",
-      "source": "전자신문",
-      "published_iso": "2026-11-24T10:25:10+09:00",
-      "og_image": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
-      "excerpt": "HP Korea launched the OmniBook Ultra 16 on Nov 24, built on Nvidia's RTX Spark N1X platform (20-core Grace CPU, 6,144-core Blackwell GPU, up to 128GB unified memory) to run large AI models locally without the cloud and drive multi-step AI agents.",
+      "title": "I asked Claude Code, Codex, and Google Antigravity to write the same ESP32 firmware, and only one worked on the first flash",
+      "url": "https://www.xda-developers.com/claude-code-codex-google-antigravity-write-same-esp32-firmware-only-one-worked-first-flash/",
+      "source": "XDA Developers",
+      "published_iso": "2026-11-27T19:30:22Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-claude-code.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "XDA had three AI coding agents write the same ESP32 microcontroller firmware and flashed each result onto real hardware. Only one of them worked on the first try.",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "A concrete retail launch of an RTX Spark laptop with 128GB of unified memory for running AI locally. It is a new HP product, distinct from the Gigabyte, Asus, Dell and MSI desktops and the ProArt P14 review already published."
+      "rationale": "A useful head-to-head test that flashed each agent's firmware onto real hardware, so a hardware tinkerer can act on the result tomorrow. It is a new test, not the Jeep ECU or treadmill hacks."
     },
     {
-      "title": "USC engineers built a smart ring that monitors stress by taking a peek at your sweat glands",
-      "url": "https://www.digitaltrends.com/wearables/usc-ai-stress-ring/",
-      "source": "Digital Trends",
-      "published_iso": "2026-11-20T18:29:54-08:00",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "A USC team's smart ring uses near-infrared light to read sweat-gland activity and runs a 27.65kB INT8 stress model entirely on the ring's microcontroller, cutting post-sensing delay ~300x (9.9s to 33ms) versus streaming raw data (Science Advances).",
+      "title": "교육부 “스마트안경 탐지 기술 상용화 단계…내년 수능 대비”",
+      "url": "https://www.etnews.com/20261127000325",
+      "source": "전자신문",
+      "published_iso": "2026-11-27T16:59:08+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/11/27/rcv.YNA.20261127.PYH2026112706610001300_P1.jpg",
+      "excerpt": "교육부는 수능 부정행위를 막는 스마트안경 탐지 기술 개발을 마치고 상용화에 들어갔다고 밝혔다. 인터넷 연결 없이 기기에서 돌아가는 온디바이스 AI를 탐지하는 기술도 개발할 계획이다.",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "A new research prototype: a ring that runs a stress model entirely on the device and cuts latency about 300x, a concrete result for edge AI in wearables. It is unrelated to the Aina and Pebble rings already published."
+      "rationale": "A new official announcement: the Ministry of Education says its smart-glasses detection technology is ready for commercial use and it plans on-device AI detection next. The curator brief explicitly allows it in gadgets."
     },
     {
-      "title": "Ray-Ban and Oakley Meta AI glasses are coming to SA",
-      "url": "https://www.bizcommunity.com/article/ray-ban-and-oakley-meta-ai-glasses-are-coming-to-south-africa-295107a",
-      "source": "Bizcommunity",
-      "published_iso": "2026-11-18T08:08+02:00",
-      "og_image": "https://biz-file.com/c/2611/828131-1200x624.jpg?5",
-      "excerpt": "EssilorLuxottica and Meta are bringing Ray-Ban Meta and Oakley Meta AI glasses to South Africa from end of November - Meta's first African market - with local pricing (Ray-Ban Meta Gen 3 R8,599, Oakley Meta HSTN R8,399, Vanguard R10,599) and built-in Meta AI for asking about what you see.",
+      "title": "Ukrainian 11th-grader builds AI-powered, GPS-free drone autopilot to beat frontline jamming",
+      "url": "https://www.tomshardware.com/tech-industry/drones/ukrainian-11th-grader-builds-ai-powered-gps-free-drone-autopilot-to-beat-frontline-jamming-earns-the-future-of-ukraine-award-from-president-zelenskyy",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-11-27T10:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/TPpL3AULPVhwmkFHW2ZLcU-2000-80.jpg",
+      "excerpt": "Student Yaroslav Sheiko built an AI-based autopilot that lets drones navigate accurately without GPS or under GPS jamming. It earned him the 'Future of Ukraine' award from President Zelenskyy.",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "A new market launch, Meta AI glasses' first African country, with local prices. The curator brief explicitly allows it in gadgets. It is a different story from the 11-21 Gen 3 review and from the Dutch privacy items."
+      "rationale": "A novel piece of AI hardware: vision-based drone navigation that works without GPS. It is a different story from the DJI Matrice 5T launch (11-08)."
+    },
+    {
+      "title": "Samsung is holding back these 30+ Galaxy AI features for the Galaxy S27",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-galaxy-ai-features-20271-one-ui-9-5-apk-teardown-3740860/",
+      "source": "Android Authority",
+      "published_iso": "2026-11-27T16:26:00+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/11/S26-in-hand-showing-One-UI-9.5-welcome-screen-scaled.jpg",
+      "excerpt": "An APK teardown of One UI 9.5 lists more than 30 Galaxy AI features that appear to be reserved for the Galaxy S27 launch. This is a pre-launch leak.",
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "A new One UI 9.5 teardown listing more than 30 S27 AI features. It is a different leak from the 11-25 rumour about a camera-hardware cut, and it is the one kept from the One UI 9.5 cluster (it already includes the Engadget Vision-mode piece)."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.digitaltrends.com/cool-tech/xpeng-iron-humanoid-robot-ev-price-home/": {
+      "https://www.notebookcheck.net/Japanese-brand-unveils-5G-smartphone-for-seniors-with-physical-buttons-and-AI-scam-call-detection.1460648.0.html": {
         "verdict": "new",
-        "nearest": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
+        "nearest": "https://www.digitaltrends.com/phones/cyclon-is-an-ai-phone-that-wants-to-replace-your-iphone/",
         "new_action": ""
       },
-      "https://www.etnews.com/20261124000168": {
+      "https://www.xda-developers.com/claude-code-codex-google-antigravity-write-same-esp32-firmware-only-one-worked-first-flash/": {
         "verdict": "new",
-        "nearest": "https://www.notebookcheck.net/Gigabyte-takes-on-Mac-Studio-with-a-tiny-AI-PC-powered-by-Nvidia-RTX-Spark.1447215.0.html",
+        "nearest": "https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control",
         "new_action": ""
       },
-      "https://www.digitaltrends.com/wearables/usc-ai-stress-ring/": {
+      "https://www.etnews.com/20261127000325": {
         "verdict": "new",
-        "nearest": "https://www.wired.com/story/aina-smart-ring/",
+        "nearest": "https://www.engadget.com/2313707/ai-glasses-banned-places-list-keeps-growing/",
         "new_action": ""
       },
-      "https://www.bizcommunity.com/article/ray-ban-and-oakley-meta-ai-glasses-are-coming-to-south-africa-295107a": {
+      "https://www.tomshardware.com/tech-industry/drones/ukrainian-11th-grader-builds-ai-powered-gps-free-drone-autopilot-to-beat-frontline-jamming-earns-the-future-of-ukraine-award-from-president-zelenskyy": {
         "verdict": "new",
-        "nearest": "https://www.engadget.com/2322827/ray-ban-meta-gen-3-review/",
+        "nearest": "https://www.etnews.com/20261106000295",
+        "new_action": ""
+      },
+      "https://www.androidauthority.com/samsung-galaxy-s27-galaxy-ai-features-20271-one-ui-9-5-apk-teardown-3740860/": {
+        "verdict": "new",
+        "nearest": "https://www.notebookcheck.net/Galaxy-S27-Ultra-Samsung-reportedly-cuts-huge-camera-feature-in-favor-of-AI.1458748.0.html",
         "new_action": ""
       }
     },
-    "note": "Pool of 8; I picked 4 rather than pad. DROPPED: (1) The Verge, Google Familiar Faces on Walmart onn cameras (11-26 00:04 UTC). It is very likely part of the same 11-25 Google Home rollout that gadgets already published on 11-26 (9to5google google-home-update-nest-cam-thermostat-gemini-features), and it has no separate release of its own. (2) Digital Trends, Dutch consumer-group lawsuit over Ray-Ban Meta. It is a follow-up to the 11-24 Dutch DPA 'pervert glasses' card (techcrunch). A lawsuit filing is not a new product release or announcement, and it belongs with politics if anywhere. (3) Engadget, Nothing Ear (note). It is the same Nothing AI device already carded on 11-05 (Verge tease) and 11-21 (Engadget 'debuts December 8'). Full details and pricing only come on Dec 8, and the rotation note holds Nothing at 0 until then. (4) 전자신문, SK Intellix NAMUHX standards award. An award story with no product or feature news. CROSS-SECTION: published_urls.json (5,038 lines) is too large to read in full here. None of the pick URLs are in the gadgets 30-day digest, and the brief lists no cross-section assignment for them apart from allowing the Meta SA launch in gadgets. The orchestrator should still scan the archive for 'USC stress ring' (science/medicine could have taken it: Science Advances, published 11-20), 'OmniBook Ultra 16' and 'XPeng IRON'. Diversity: Digital Trends x2 (the cap), 전자신문, Bizcommunity = 3 outlets."
+    "note": "Dropped: Engadget NY AI chatbot toy ban (already ran as the politics 11-25 card; cross-section rule in the curator brief). Verge vibe-coding synths (same trend as music #8, assigned to music only; also related to gadgets 11-23 Verge vibe-coding column). Engadget Samsung camera AI mode (same One UI 9.5 teardown cluster as the Android Authority S27 piece; kept one). Not picked on merit: TCL CSOT DTC 2026 and Hisense UR9 review (AI incidental to display hardware), Huawei Qingyun C7 tablet (would be a second Notebookcheck card; AI office features are minor), Orion AI mattress pad review (the reviewer doubts the AI adds value). Cross-section: relied on the orchestrator's archive.json scan in curator_brief.md. published_urls.json could not be grepped here (no shell); none of the 5 picks are named in the brief's clash list. The 5 picks come from 5 distinct outlets."
   }
 }

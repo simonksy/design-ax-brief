@@ -14013,6 +14013,142 @@
           "x": "Orrorin reservations start at $29 toward the $799 price. Savage estimates shipments will begin in March 2027 for Founder Edition buyers and May 2027 for Early Bird buyers."
         }
       ]
+    },
+    "gadgets/xda-esp32-agent-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-claude-code.jpg?&fit=crop&w=1600&h=900",
+          "cap": "Esp32 board with Claude Code in the background"
+        },
+        {
+          "t": "p",
+          "x": "XDA gave Claude Code, OpenAI Codex, and Google's Antigravity the exact same task: write firmware for an ESP32 to control a WS2812B RGB LED strip over Wi-Fi, with a local web dashboard, color and brightness controls, a few lighting effects, and settings that survived a restart. Only one agent managed to get everything working on the first flash."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-new.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "ESP32 sensor in hand"
+        },
+        {
+          "t": "p",
+          "x": "Claude Code did the best of the three, and it was the only one whose firmware worked on the first flash. It compiled without changes, and an animation could keep running while the dashboard stayed usable. \"I didn't need to send Claude Code a single follow-up prompt.\""
+        },
+        {
+          "t": "p",
+          "x": "Codex came pretty close: its firmware compiled and the dashboard opened, but the LEDs didn't change color because the dashboard was sending commands to a different endpoint from the one configured in the firmware."
+        },
+        {
+          "t": "p",
+          "x": "Google Antigravity's dashboard stopped responding when an animated effect ran, because its animation code kept the ESP32 busy for too long. Both Codex and Antigravity needed another round of fixes; Claude Code was the clear winner."
+        }
+      ]
+    },
+    "gadgets/moe-smartglasses-detect": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/27/rcv.YNA.20261127.PYH2026112706610001300_P1.jpg",
+          "cap": "Choi Eun-ok, acting minister of education, answers lawmakers' questions at a plenary meeting of the Education Committee held at the National Assembly on the 27th. (Photo=Yonhap News)"
+        },
+        {
+          "t": "p",
+          "x": "The government has finished developing technology to detect smart glasses used to cheat on the College Scholastic Ability Test (Suneung) and is moving to commercialize it. It also plans to develop technology to detect on-device AI, which runs artificial intelligence (AI) on the device itself without an internet connection. At a plenary meeting of the National Assembly's Education Committee on the 27th, acting Education Minister Choi Eun-ok said, “Technology to detect smart glasses has been developed and has entered the commercialization stage,” adding, “With next year's Suneung in mind, we are preparing by working the technology development schedule backward.”"
+        },
+        {
+          "t": "p",
+          "x": "In a pan-government task force (TF) chaired by the prime minister, the Education Ministry handles the response to Suneung cheating, while the science and ICT ministry handles related technology development. The two ministries are also discussing ways to detect on-device AI. The Education Ministry estimated that about 400억원 in additional budget would be needed to equip education offices and local education support offices nationwide with detection equipment to prevent cheating. Whether the money will actually be budgeted has not been decided. An emergency response system to prevent cheating is also running for university-administered exams."
+        },
+        {
+          "t": "p",
+          "x": "No cases of cheating with smart devices were found at the 14 universities that held their own exams after the Suneung. The Education Ministry told each university to keep all of its exam papers and answer sheets and to re-examine those of every prospective admittee. The number of schools that discarded last year's Suneung test papers was put at 237, 4 more than the 233 the ministry announced on the 25th. For measures against cheating on high school internal exams, it will pursue technology development to reduce the burden on teachers."
+        },
+        {
+          "t": "p",
+          "x": "On the 24th, the Education Ministry announced measures centered on screening every test-taker with metal detectors and handing out writing instruments to all of them. Choi said, “Going forward, we will find ways to supervise school exams well through technology development and other means without adding to the burden on proctors,” adding, “Fundamentally, how and with what content tests and assessments should be conducted is also a task to be discussed over the long term.”"
+        }
+      ]
+    },
+    "gadgets/sheiko-gpsfree-autopilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/TPpL3AULPVhwmkFHW2ZLcU.jpg",
+          "cap": "Drone"
+        },
+        {
+          "t": "p",
+          "x": "An 11th-grade student has received “The Future of Ukraine” from President Volodymyr Zelenskyy for multiple technical achievements. According to Poltava Wave, Yaroslav Sheiko, a student from Poltava, located about 190 miles to the west of Kyiv, built an AI-powered drone autopilot system, allowing uncrewed aerial vehicles (UAVs) to reach their destination without relying on GPS signals, and an optical-electronic stabilization system."
+        },
+        {
+          "t": "p",
+          "x": "The 11th-grader has already received two presidential scholarships, won the top award twice in nationwide competitions held by Ukraine’s Junior Academy of Sciences, and took a gold medal at the INOVA 2025 International Inventions Show and a silver medal in the 2025 Hackathon."
+        },
+        {
+          "t": "p",
+          "x": "Ukraine is also working on homegrown technologies to improve its drone capabilities, such as equipping its grounded fleet of U.S.-made Puma reconnaissance drones with domestic anti-jamming systems and using a network of “flying modems” to extend the range of its attack drones without relying on Starlink."
+        }
+      ]
+    },
+    "gadgets/s27-oneui95-ai-teardown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/S26-in-hand-showing-One-UI-9.5-welcome-screen-scaled.jpg",
+          "cap": "S26 in hand showing One UI 9.5 welcome screen"
+        },
+        {
+          "t": "p",
+          "x": "Code in One UI 9.5 Beta 1 ties a long list of new Galaxy AI features to “Galaxy AI version 20271,” which Samsung’s own code labels as the S27’s AI version. Voice Recorder labels 20261 as the S26’s version and 20271 as the S27’s. This reporting is based on work-in-progress code; these features may not ship."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Beta-1-Galaxy-AI-version_1.jpg",
+          "cap": "One UI 9.5 Beta 1 Galaxy AI version"
+        },
+        {
+          "t": "p",
+          "x": "Gated features span Gallery’s Recompose, which changes a photo’s camera angle with AI, new Camera ProScan and Log LUT tools, full-table AI select, expanded Scam Detection languages, and an Audio eraser for calls. Forcing 20271 on an S26 Ultra, AI select recognized an entire 83-row table and offered a Copy table chip."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-One-UI-9.5-Beta-1-AI-select-Copy-Table_2-scaled.jpg",
+          "cap": "AI select offering a Copy table chip on a Galaxy S26 Ultra running One UI 9.5 Beta 1"
+        },
+        {
+          "t": "p",
+          "x": "Several 20271 features, including Gen Video credits, Samsung Browser’s Ask anything, and Now Brief’s Bixby action card, appear tied to a paid Galaxy AI Premium tier. Samsung brought several S26 features to older phones this year, so not all of these may stay Galaxy S27-exclusive forever."
+        }
+      ]
+    },
+    "gadgets/xpeng-iron-humanoid-ev-price": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+          "cap": "XPENG"
+        },
+        {
+          "t": "p",
+          "x": "Chinese EV maker XPeng says its IRON humanoid robot could cost roughly as much as an electric vehicle when it goes on sale to the public in 2027. Eventually, XPeng wants IRON working in homes, although commercial deployment comes first."
+        },
+        {
+          "t": "p",
+          "x": "XPeng Vice Chairman Brian Gu told Bloomberg that IRON could be priced around the median selling price of an EV, without revealing an exact figure. The robot is scheduled to begin training as a retail assistant at XPeng stores in the first quarter of 2027, before its public launch in the second quarter. XPeng is targeting sales of tens of thousands of humanoid robots that year."
+        },
+        {
+          "t": "p",
+          "x": "At its AI Day, XPeng showcased the latest version of IRON, which answered audience questions live on stage. It features 76 degrees of freedom, more than 1,500 tactile sensing points, and three in-house Turing AI chips powering its onboard models and whole-body control. XPeng says it can navigate autonomously, accept tasks through voice or an app, recharge itself, and monitor its own operational health."
+        },
+        {
+          "t": "p",
+          "x": "XPeng is starting with commercial environments before moving into industrial applications and, eventually, homes. Gu suggested household deployment could begin one to two years after successful commercial use, with safety around children, elderly people, and pets among the challenges to address."
+        },
+        {
+          "t": "p",
+          "x": "XPeng also sees recurring revenue beyond the hardware, from software subscriptions, upgrades, training, and services."
+        }
+      ]
     }
   }
 }

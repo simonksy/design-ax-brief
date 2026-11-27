@@ -12626,6 +12626,118 @@
           "x": "Las moléculas especulares y algunos isómeros muy parecidos no pueden distinguirse solo con un espectro LC-MS/MS. DeepMind ofrece a 10,000 científicos el nivel de uso más alto de Antigravity gratis durante 6 meses."
         }
       ]
+    },
+    "science/princeton-qubit-loss-decoder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La pérdida de cúbits es una fuente importante de error en muchas plataformas de hardware cuántico. Cuando el reinicio de los cúbits incluye mediciones que detectan la pérdida, esa información puede mejorar la decodificación y reducir sustancialmente la sobrecarga, pero el coste de simular y decodificar la pérdida, que queda fuera del marco estabilizador habitual, ha limitado estos estudios en los códigos qLDPC de alta tasa."
+        },
+        {
+          "t": "p",
+          "x": "J. Wilson Staples, Winston Fu, Yihe Dong y Jeff D. Thompson presentan un marco de decodificador basado en una red neuronal convolucional (CNN) consciente de la pérdida que sortea este problema. El entrenamiento es posible gracias a un nuevo muestreador, slim, cuyo rendimiento en circuitos con ruido de Pauli y pérdida es comparable al estado del arte para ruido de Pauli puro."
+        },
+        {
+          "t": "p",
+          "x": "En el código de superficie con pérdida, el decodificador iguala la precisión de los costosos decodificadores de error más probable (MLE) con una latencia mucho menor. Para el código bivariado de bicicleta (Gross) [[144,12,12]] con un circuito de extracción de síndrome itinerante, con tasas de error físico inferiores al 1%, un modelo de pérdida pura ofrece una tasa de error lógico más de 1,000 veces menor que un modelo de Pauli puro con la misma tasa de error físico."
+        }
+      ]
+    },
+    "science/snu-gaia-dark-matter-map": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Yigon Kim, Ho Seong Hwang, Sungwook E. Hong, Donghui Jeong, Mingyeong Yang y Ji-hoon Kim (Universidad Nacional de Seúl y otros) usan aprendizaje profundo para inferir la densidad local de materia oscura en la vecindad solar, aprendiendo la relación entre la cinemática estelar y el campo de densidad de materia oscura a partir de simulaciones cosmológicas."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.33660v1/Fig2_Diagram_datapreppipeline.png",
+          "cap": "Figura 2: Diagrama esquemático del proceso de preparación de datos usado para las dos arquitecturas."
+        },
+        {
+          "t": "p",
+          "x": "El conjunto de entrenamiento procede de 7 galaxias similares a la Vía Láctea del conjunto de simulaciones FIRE-2, con las velocidades tangenciales y la velocidad radial como entradas. VNet y ViT-VNet reproducen el gradiente de densidad a gran escala, mientras que las fluctuaciones a pequeña escala quedan suavizadas."
+        },
+        {
+          "t": "p",
+          "x": "Aplicados a datos de Gaia DR3, los modelos dan densidades locales de materia oscura de 0.80 y 1.12 GeV cm^-3 (VNet y ViT-VNet). El trabajo es un primer paso hacia mapas locales de materia oscura a partir de la astrometría futura, incluida Gaia DR4; fue aceptado en MNRAS el 24 de noviembre de 2026."
+        }
+      ]
+    },
+    "science/zebra-prop-matbert": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg",
+          "cap": "ZEBRA-Prop ofrece un enfoque eficiente basado en modelos de lenguaje para predecir propiedades de materiales. Credit: Institute of Science Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Institute of Science Tokyo desarrollaron ZEBRA-Prop, un marco ligero que convierte la información estructural y de composición de un material en múltiples descripciones textuales y predice propiedades como la banda prohibida, la energía de formación y las constantes dieléctricas (Advanced Intelligent Systems)."
+        },
+        {
+          "t": "p",
+          "x": "Utiliza MatBERT, un modelo de lenguaje preentrenado con literatura de ciencia de materiales, que se mantiene congelado en lugar de ajustarse; una pequeña red neuronal combina los embeddings resultantes. ZEBRA-Prop reduce el tiempo de entrenamiento aproximadamente un 95% respecto a LLM-Prop, lo suficiente para ejecutarse en un PC normal."
+        },
+        {
+          "t": "p",
+          "x": "Las pruebas con dos conjuntos de datos derivados del Materials Project mostraron que combinar múltiples descripciones textuales mejoraba las predicciones. El profesor asociado Akira Takahashi afirmó que \"podría extenderse potencialmente a información como las condiciones de síntesis y los registros experimentales\"."
+        }
+      ]
+    },
+    "science/google-social-reasoning-bench": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+          "cap": "Los asistentes de AI operan dentro de una realidad mediada por el usuario: el asistente solo conoce los hechos sociales a través de la lente subjetiva del usuario."
+        },
+        {
+          "t": "p",
+          "x": "Google Research presenta un marco de evaluación del razonamiento social basado en simulaciones multiagente. A un agente objetivo se le asigna un motivo oculto e interactúa con otros agentes, incluido uno que representa al usuario, que después consulta al asistente evaluado, el cual debe inferir el motivo oculto del objetivo."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+          "cap": "Vista general del marco."
+        },
+        {
+          "t": "p",
+          "x": "Aplicado a 12 LLMs, muestra que depender de la mediación subjetiva del usuario complica sustancialmente el razonamiento social: los modelos que observan los hechos directamente son mucho más precisos que cuando actúan como asistentes. Los modelos son sensibles al encuadre del usuario, requieren más detalle que los humanos para llegar a predicciones correctas y no aprovechan del todo las preguntas de aclaración."
+        },
+        {
+          "t": "p",
+          "x": "El marco, construido sobre la biblioteca Concordia de Google, y un conjunto de datos con más de 20K ejemplos generados se han publicado como código abierto."
+        }
+      ]
+    },
+    "science/astra-quantum-gravity-stanford": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Un físico de Stanford ha propuesto una teoría cuántica de la gravedad que usa las trayectorias de la luz para obtener una respuesta finita en un cálculo que, de otro modo, puede tender al infinito. Si el enfoque se sostiene, podría ayudar a conciliar la mecánica cuántica con la relatividad general de Einstein. El estudio también reproduce una corrección cuántica conocida a la entropía de un agujero negro."
+        },
+        {
+          "t": "p",
+          "x": "En una preimpresión publicada en arXiv, Venkatesa Chandrasekaran calculó qué ocurre cuando dos gravitones se crean y luego desaparecen. El cálculo dio una respuesta finita incluso al considerar ondas de longitud de onda arbitrariamente corta; una aproximación aplicada al mismo cálculo produjo un infinito."
+        },
+        {
+          "t": "p",
+          "x": "Chandrasekaran indicó en los agradecimientos del artículo que desarrolló varios de sus cálculos y demostraciones a lo largo de meses de trabajo de ida y vuelta con GPT-6 Astra, un modelo de OpenAI. Cifró el total en unos 400 millones de tokens y dijo que OpenAI aportó los recursos de cómputo."
+        },
+        {
+          "t": "p",
+          "x": "La propuesta usa diamantes causales, regiones delimitadas por trayectorias que podría seguir la luz, para plantear los cálculos. Concluye que una región así con un tamaño máximo solo puede contener un número finito de estados cuánticos distinguibles y, para un agujero negro grande, recupera la entropía de Bekenstein-Hawking más una corrección que coincide con un cálculo anterior de Ashoke Sen."
+        },
+        {
+          "t": "p",
+          "x": "El artículo es teórico, no presenta ninguna prueba experimental y no ha pasado revisión por pares."
+        }
+      ]
     }
   }
 }

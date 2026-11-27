@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "marketing",
   "cards": [
     {
-      "id": "chatgpt-ads-learnmore-cta",
+      "id": "ico-adtech-agent-accountability",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT Ads에\n새 CTA·지표 추가",
-      "body": "OpenAI 광고에 Learn More 버튼·지표가 붙고 U.S. 밖으로 넓어졌다.",
-      "mini_headline": "ChatGPT Ads에 새 CTA",
+      "headline": "AI 에이전트 광고도\nUK 당국 \"광고주 책임\"",
+      "body": "ICO는 51쪽 보고서에서 AI 에이전트 캠페인도 광고주가 책임진다고 했다.",
+      "mini_headline": "ICO: 에이전트 광고도 광고주 몫",
       "tool": "Marketing",
-      "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/chatgpt-ads-updates-42623.html",
+      "source": "PPC Land",
+      "url": "https://ppc.land/advertisers-stay-responsible-when-ai-agents-run-campaigns-uks-ico-says/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,257 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
+            "src": "https://ppc.land/content/images/2026/11/uk-ico-adtech-3-0-advertisers-responsible-ai-agents-boardroom-leash-executive-wrist.jpg"
           },
           {
             "t": "p",
-            "x": "OpenAI가 ChatGPT Ads 제품 업데이트를 보냈다. Business Agents를 U.S. 밖으로 넓히고 단일 이미지 광고에 learn more 클릭 유도 문구(call-to-action)를 새로 붙였다. Ads Manager와 Ads API의 오디언스 지표를 늘렸고, 프로모션이 끝나면 제품 피드 할인가를 숨기는 기능과 Ads Manager 정책 센터의 새 세부 정보도 담았다."
+            "x": "UK 정보위원회(Information Commissioner's Office)는 2026년 11월 13일 자 51쪽 보고서에서 대규모 언어 모델과 AI 에이전트가 \"온라인 광고에 새로운 데이터 보호 요건을 만들지 않는다\"고 결론지었다. 기업은 \"에이전틱 AI 시스템에 캠페인 운영이나 최적화를 맡긴다고 해서 책임을 넘길 수 없다\"는 점도 못 박았다."
           },
           {
             "t": "p",
-            "x": "Learn more: ChatGPT 단일 이미지 광고의 설명 아래에는 이제 기본으로 \"Learn more\" 링크가 뜬다. Ads Manager에 이미 설정해 둔 랜딩 페이지로 이어지니 따로 손볼 것은 없다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
-            "cap": "Learn more 클릭 유도 문구가 붙은 ChatGPT 단일 이미지 광고"
+            "x": "보고서 \"AdTech 3.0: Online advertising in the age of LLMs and agentic AI\"(LLMs와 에이전틱 AI 시대의 온라인 광고)가 새 법적 요건을 만들지는 않는다. 다루는 범위는 챗봇 광고, AI 쇼핑 어시스턴트, 월드 가든의 \"감독형 자율성(supervised autonomy)\", AdCP·Agentic Real Time Framework 같은 에이전트 프로토콜까지다. 보고서는 \"캠페인 성과를 모니터링하는 것만으로는 의미 있는 감독이 되지 않는다\"고 짚었다."
           },
           {
             "t": "p",
-            "x": "Business Agents: U.S. 밖 지원 시장의 적격 이커머스·온라인 서비스 기업도 이제 ChatGPT Business Hub에서 Business Agent를 만들어 게시하고 적격 캠페인에 Sponsored Business Agent로 넣을 수 있다."
+            "x": "쿠키 동의 규칙은 챗봇 안에서도 똑같이 적용된다. 사용자가 털어놓은 증상으로 챗봇이 건강 상태를 추정해 광고에 쓴다면 \"그 처리는 특수 범주 데이터를 포함하는\" 것이라 명시적 동의를 받아야 한다. \"AI-powered\"나 \"privacy-preserving\" 같은 라벨만으로는 증거가 되지 않는다."
           },
           {
             "t": "p",
-            "x": "오디언스 지표: Reach는 광고를 한 번 이상 본 순 이용자 수의 추정치이고 Frequency는 총 노출 수를 Reach로 나눈 값이다. OpenAI는 Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC, Cost per 1,000 Reached도 새로 넣었다."
-          },
-          {
-            "t": "p",
-            "x": "광고주는 제품 피드 할인가를 숨겨 광고에 정상가를 다시 띄울 수 있다. 광고 심사 메시지에는 어떤 정책이 적용됐는지 나온다. 광고 승인 기준 자체는 그대로라고 OpenAI는 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
-            "cap": "OpenAI의 ChatGPT Ads 업데이트 이메일"
+            "x": "이번 결과는 곧 나올 에이전틱 AI·자동화된 의사결정 지침과, 준비 중인 실무 규약(code of practice)에 담긴다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ChatGPT Ads gets a new CTA\nand more audience metrics",
-          "body": "OpenAI's ChatGPT Ads update adds a Learn More button, more audience metrics, and Business Agents beyond the U.S.",
-          "mini_headline": "ChatGPT Ads gets a new CTA",
+          "headline": "UK regulator keeps advertisers\naccountable for AI agents",
+          "body": "The ICO's 51-page adtech report keeps advertisers accountable when AI agents run their campaigns.",
+          "mini_headline": "ICO: advertisers own agent-run ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
+                "src": "https://ppc.land/content/images/2026/11/uk-ico-adtech-3-0-advertisers-responsible-ai-agents-boardroom-leash-executive-wrist.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI just sent out a product update on ChatGPT Ads announcing that Business Agents expand outside the U.S., new learn more call-to-action added to single image ads, more audience metrics in Ads Manager and the Ads API, ability to hide product feed sale prices when a promotion ends and new policy center details in Ads Manager."
+                "x": "In a 51-page report dated November 13, 2026, the UK Information Commissioner's Office concluded that large language models and AI agents \"don't create a new set of data protection requirements for online advertising\" - and that a company \"can't transfer its responsibility by having an agentic AI system handle campaign activities or optimisation.\""
               },
               {
                 "t": "p",
-                "x": "Learn more: On ChatGPT single image ads now show a \"Learn more\" link below the description by default. It opens the landing page you already set in Ads Manager, so no additional setup is required."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
-                "cap": "ChatGPT single image ad with the Learn more call-to-action"
+                "x": "The report, \"AdTech 3.0: Online advertising in the age of LLMs and agentic AI,\" creates no new legal requirements. It covers chatbot ads, AI shopping assistants, walled-garden \"supervised autonomy\" and agent protocols such as AdCP and the Agentic Real Time Framework. \"Simply monitoring campaign performance won't provide meaningful oversight,\" it says."
               },
               {
                 "t": "p",
-                "x": "Business Agents: Eligible ecommerce and online service businesses in supported markets outside the U.S. can now create and publish a Business Agent in the ChatGPT Business Hub, and add it to an eligible campaign as a Sponsored Business Agent."
+                "x": "Cookie consent rules still apply inside chatbots. If a chatbot infers a likely health condition from described symptoms and uses it to shape ads, \"the processing therefore involves special category data,\" which needs explicit consent. Labels such as \"AI-powered\" or \"privacy-preserving\" are not evidence."
               },
               {
                 "t": "p",
-                "x": "Audience metrics: Reach estimates how many unique people saw your ads at least once; Frequency is total impressions divided by Reach. OpenAI also added Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC, and Cost per 1,000 Reached."
-              },
-              {
-                "t": "p",
-                "x": "Advertisers can also hide product-feed sale prices so ads show the regular price again, and ad review messages now show which policy applies. OpenAI said the guidelines for approving ads haven't changed."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
-                "cap": "OpenAI's ChatGPT Ads update email"
+                "x": "The findings will feed into forthcoming guidance on agentic AI and automated decision-making and a planned code of practice."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT Ads에\n새 CTA·지표 추가",
-          "body": "OpenAI 광고에 Learn More 버튼·지표가 붙고 U.S. 밖으로 넓어졌다.",
-          "mini_headline": "ChatGPT Ads에 새 CTA",
+          "headline": "AI 에이전트 광고도\nUK 당국 \"광고주 책임\"",
+          "body": "ICO는 51쪽 보고서에서 AI 에이전트 캠페인도 광고주가 책임진다고 했다.",
+          "mini_headline": "ICO: 에이전트 광고도 광고주 몫",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
+                "src": "https://ppc.land/content/images/2026/11/uk-ico-adtech-3-0-advertisers-responsible-ai-agents-boardroom-leash-executive-wrist.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT Ads 제품 업데이트를 보냈다. Business Agents를 U.S. 밖으로 넓히고 단일 이미지 광고에 learn more 클릭 유도 문구(call-to-action)를 새로 붙였다. Ads Manager와 Ads API의 오디언스 지표를 늘렸고, 프로모션이 끝나면 제품 피드 할인가를 숨기는 기능과 Ads Manager 정책 센터의 새 세부 정보도 담았다."
+                "x": "UK 정보위원회(Information Commissioner's Office)는 2026년 11월 13일 자 51쪽 보고서에서 대규모 언어 모델과 AI 에이전트가 \"온라인 광고에 새로운 데이터 보호 요건을 만들지 않는다\"고 결론지었다. 기업은 \"에이전틱 AI 시스템에 캠페인 운영이나 최적화를 맡긴다고 해서 책임을 넘길 수 없다\"는 점도 못 박았다."
               },
               {
                 "t": "p",
-                "x": "Learn more: ChatGPT 단일 이미지 광고의 설명 아래에는 이제 기본으로 \"Learn more\" 링크가 뜬다. Ads Manager에 이미 설정해 둔 랜딩 페이지로 이어지니 따로 손볼 것은 없다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
-                "cap": "Learn more 클릭 유도 문구가 붙은 ChatGPT 단일 이미지 광고"
+                "x": "보고서 \"AdTech 3.0: Online advertising in the age of LLMs and agentic AI\"(LLMs와 에이전틱 AI 시대의 온라인 광고)가 새 법적 요건을 만들지는 않는다. 다루는 범위는 챗봇 광고, AI 쇼핑 어시스턴트, 월드 가든의 \"감독형 자율성(supervised autonomy)\", AdCP·Agentic Real Time Framework 같은 에이전트 프로토콜까지다. 보고서는 \"캠페인 성과를 모니터링하는 것만으로는 의미 있는 감독이 되지 않는다\"고 짚었다."
               },
               {
                 "t": "p",
-                "x": "Business Agents: U.S. 밖 지원 시장의 적격 이커머스·온라인 서비스 기업도 이제 ChatGPT Business Hub에서 Business Agent를 만들어 게시하고 적격 캠페인에 Sponsored Business Agent로 넣을 수 있다."
+                "x": "쿠키 동의 규칙은 챗봇 안에서도 똑같이 적용된다. 사용자가 털어놓은 증상으로 챗봇이 건강 상태를 추정해 광고에 쓴다면 \"그 처리는 특수 범주 데이터를 포함하는\" 것이라 명시적 동의를 받아야 한다. \"AI-powered\"나 \"privacy-preserving\" 같은 라벨만으로는 증거가 되지 않는다."
               },
               {
                 "t": "p",
-                "x": "오디언스 지표: Reach는 광고를 한 번 이상 본 순 이용자 수의 추정치이고 Frequency는 총 노출 수를 Reach로 나눈 값이다. OpenAI는 Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC, Cost per 1,000 Reached도 새로 넣었다."
-              },
-              {
-                "t": "p",
-                "x": "광고주는 제품 피드 할인가를 숨겨 광고에 정상가를 다시 띄울 수 있다. 광고 심사 메시지에는 어떤 정책이 적용됐는지 나온다. 광고 승인 기준 자체는 그대로라고 OpenAI는 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
-                "cap": "OpenAI의 ChatGPT Ads 업데이트 이메일"
+                "x": "이번 결과는 곧 나올 에이전틱 AI·자동화된 의사결정 지침과, 준비 중인 실무 규약(code of practice)에 담긴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT Adsに\n新CTAと指標追加",
-          "body": "OpenAIの広告にLearn Moreボタンと指標が加わり、U.S.外にも広がる。",
-          "mini_headline": "ChatGPT Adsに新CTA",
+          "headline": "AIエージェント広告も\n広告主の責任 UK当局",
+          "body": "ICOは51ページの報告書で、AIエージェントが運用しても広告主の責任だとした。",
+          "mini_headline": "ICO：エージェント広告も広告主の責任",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
+                "src": "https://ppc.land/content/images/2026/11/uk-ico-adtech-3-0-advertisers-responsible-ai-agents-boardroom-leash-executive-wrist.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAIはChatGPT Adsの製品アップデートを配信し、Business AgentsのU.S.外への拡大、単一画像広告への新しいlearn moreコールトゥアクションの追加、Ads ManagerとAds APIでのオーディエンス指標の拡充、プロモーション終了時に商品フィードのセール価格を非表示にする機能、Ads Managerの新しいポリシーセンター情報を発表した。"
+                "x": "2026年11月13日付の51ページの報告書で、UK情報コミッショナー事務局（Information Commissioner's Office）は、大規模言語モデルとAIエージェントは「オンライン広告に新たなデータ保護要件を生み出すものではない」と結論づけた。さらに企業は「エージェント型AIシステムにキャンペーン運用や最適化を任せても、その責任を移すことはできない」とした。"
               },
               {
                 "t": "p",
-                "x": "Learn more:ChatGPTの単一画像広告は、説明文の下に「Learn more」リンクを標準で表示するようになった。Ads Managerで設定済みのランディングページが開くため、追加の設定は不要だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
-                "cap": "Learn moreのコールトゥアクションが付いたChatGPTの単一画像広告"
+                "x": "報告書「AdTech 3.0: Online advertising in the age of LLMs and agentic AI」（LLMsとエージェント型AIの時代のオンライン広告）は、新たな法的要件を設けるものではない。チャットボット広告、AIショッピングアシスタント、ウォールドガーデンの「監督付き自律（supervised autonomy）」、AdCPやAgentic Real Time Frameworkといったエージェントプロトコルを扱う。「キャンペーンの成果を監視するだけでは、意味のある監督にはならない」と報告書は述べる。"
               },
               {
                 "t": "p",
-                "x": "Business Agents:U.S.外の対象市場で条件を満たすeコマース・オンラインサービス事業者は、ChatGPT Business HubでBusiness Agentを作成・公開し、対象キャンペーンにSponsored Business Agentとして追加できるようになった。"
+                "x": "クッキー同意のルールはチャットボット内でも引き続き適用される。チャットボットが利用者の説明した症状から健康状態を推測し、それを広告に使う場合、「その処理は特別カテゴリーのデータを含む」ため、明示的な同意が必要になる。「AI-powered」や「privacy-preserving」といったラベルは証拠にならない。"
               },
               {
                 "t": "p",
-                "x": "オーディエンス指標:Reachは広告を一度でも見たユニークユーザー数の推定値で、Frequencyは総インプレッション数をReachで割った値だ。OpenAIはClick Reach、Click Frequency、Total Reach、Total Frequency、Unique CTR、Unique CPC、Cost per 1,000 Reachedも追加した。"
-              },
-              {
-                "t": "p",
-                "x": "広告主は商品フィードのセール価格を非表示にして通常価格を再び表示でき、広告審査のメッセージにはどのポリシーが適用されるかが示される。OpenAIは広告承認の基準は変わっていないとしている。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
-                "cap": "OpenAIのChatGPT Adsアップデートメール"
+                "x": "今回の知見は、今後公表されるエージェント型AIと自動化された意思決定に関するガイダンス、そして策定予定の行動規範（code of practice）に反映される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT Ads\n新增CTA与受众指标",
-          "body": "OpenAI广告新增Learn More按钮与受众指标，并扩展至U.S.以外。",
-          "mini_headline": "ChatGPT Ads新增CTA",
+          "headline": "UK监管机构：AI智能体\n广告仍由广告主负责",
+          "body": "ICO发布51页广告技术报告，明确AI智能体运营广告活动时，广告主仍须担责。",
+          "mini_headline": "ICO：智能体投放广告由广告主负责",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
+                "src": "https://ppc.land/content/images/2026/11/uk-ico-adtech-3-0-advertisers-responsible-ai-agents-boardroom-leash-executive-wrist.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI刚刚发布了ChatGPT Ads的产品更新：Business Agents扩展至U.S.以外，单图广告新增learn more行动号召，Ads Manager和Ads API提供更多受众指标，促销结束时可隐藏商品信息流中的促销价，Ads Manager还新增了政策中心详情。"
+                "x": "在一份日期为2026年11月13日、长达51页的报告中，UK信息专员办公室（Information Commissioner's Office）得出结论：大语言模型和AI智能体“不会为在线广告带来一套新的数据保护要求”，企业也“不能通过让智能体AI系统处理广告活动或优化来转移自身责任”。"
               },
               {
                 "t": "p",
-                "x": "Learn more：ChatGPT上的单图广告现在默认在描述下方显示“Learn more”链接。它会打开你在Ads Manager中已设置的落地页，无需额外设置。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
-                "cap": "带有Learn more行动号召的ChatGPT单图广告"
+                "x": "这份题为“AdTech 3.0: Online advertising in the age of LLMs and agentic AI”（LLMs与智能体AI时代的在线广告）的报告并未设立新的法律要求。报告涵盖聊天机器人广告、AI购物助手、围墙花园的“监督式自主”（supervised autonomy），以及AdCP和Agentic Real Time Framework等智能体协议。报告指出：“仅仅监测广告活动表现，无法构成有意义的监督。”"
               },
               {
                 "t": "p",
-                "x": "Business Agents：U.S.以外受支持市场中符合条件的电商和在线服务企业，现在可以在ChatGPT Business Hub中创建并发布Business Agent，并将其作为Sponsored Business Agent添加到符合条件的广告系列中。"
+                "x": "Cookie同意规则在聊天机器人中依然适用。如果聊天机器人根据用户描述的症状推断其可能的健康状况，并据此调整广告，“该处理因此涉及特殊类别数据”，需要获得明确同意。“AI-powered”或“privacy-preserving”之类的标签并不能作为证据。"
               },
               {
                 "t": "p",
-                "x": "受众指标：Reach估算至少看过一次广告的独立用户数；Frequency为总展示次数除以Reach。OpenAI还新增了Click Reach、Click Frequency、Total Reach、Total Frequency、Unique CTR、Unique CPC和Cost per 1,000 Reached。"
-              },
-              {
-                "t": "p",
-                "x": "广告主还可以隐藏商品信息流中的促销价，让广告重新显示原价；广告审核消息现在会显示适用的政策。OpenAI表示，广告审批准则没有改变。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
-                "cap": "OpenAI的ChatGPT Ads更新邮件"
+                "x": "这些结论将纳入即将发布的智能体AI与自动化决策指南，以及一份拟议中的行为准则（code of practice）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT Ads suma un nuevo CTA\ny más métricas de audiencia",
-          "body": "La actualización de ChatGPT Ads de OpenAI añade un botón Learn More, más métricas y Business Agents fuera de U.S.",
-          "mini_headline": "ChatGPT Ads suma un nuevo CTA",
+          "headline": "Regulador de UK: el anunciante\nresponde por sus agentes de AI",
+          "body": "El informe adtech de 51 páginas del ICO responsabiliza a los anunciantes cuando agentes de AI llevan sus campañas.",
+          "mini_headline": "ICO: el anunciante responde por sus agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
+                "src": "https://ppc.land/content/images/2026/11/uk-ico-adtech-3-0-advertisers-responsible-ai-agents-boardroom-leash-executive-wrist.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI acaba de enviar una actualización de producto sobre ChatGPT Ads que anuncia la expansión de Business Agents fuera de U.S., una nueva llamada a la acción learn more en los anuncios de imagen única, más métricas de audiencia en Ads Manager y en la Ads API, la opción de ocultar los precios de oferta del feed de productos cuando termina una promoción y nuevos detalles del centro de políticas en Ads Manager."
+                "x": "En un informe de 51 páginas fechado el 13 de noviembre de 2026, la Information Commissioner's Office del UK concluyó que los modelos de lenguaje de gran tamaño y los agentes de AI «no crean un nuevo conjunto de requisitos de protección de datos para la publicidad online», y que una empresa «no puede transferir su responsabilidad haciendo que un sistema de AI agéntica gestione las actividades o la optimización de las campañas»."
               },
               {
                 "t": "p",
-                "x": "Learn more: en ChatGPT, los anuncios de imagen única muestran ahora por defecto un enlace \"Learn more\" bajo la descripción. Abre la página de destino que ya se configuró en Ads Manager, por lo que no requiere configuración adicional."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
-                "cap": "Anuncio de imagen única en ChatGPT con la llamada a la acción Learn more"
+                "x": "El informe, «AdTech 3.0: Online advertising in the age of LLMs and agentic AI», no crea nuevos requisitos legales. Aborda los anuncios en chatbots, los asistentes de compra con AI, la «autonomía supervisada» (supervised autonomy) de los jardines vallados y protocolos de agentes como AdCP y el Agentic Real Time Framework. «Limitarse a monitorizar el rendimiento de la campaña no proporcionará una supervisión significativa», señala."
               },
               {
                 "t": "p",
-                "x": "Business Agents: las empresas de ecommerce y servicios en línea que cumplen los requisitos en mercados compatibles fuera de U.S. ya pueden crear y publicar un Business Agent en ChatGPT Business Hub y añadirlo a una campaña elegible como Sponsored Business Agent."
+                "x": "Las normas de consentimiento de cookies siguen aplicándose dentro de los chatbots. Si un chatbot infiere una probable condición de salud a partir de los síntomas descritos y la usa para orientar los anuncios, «el tratamiento implica, por tanto, datos de categoría especial», lo que exige consentimiento explícito. Etiquetas como «AI-powered» o «privacy-preserving» no constituyen prueba."
               },
               {
                 "t": "p",
-                "x": "Métricas de audiencia: Reach estima cuántas personas únicas vieron tus anuncios al menos una vez; Frequency es el total de impresiones dividido entre Reach. OpenAI también añadió Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC y Cost per 1,000 Reached."
-              },
-              {
-                "t": "p",
-                "x": "Los anunciantes también pueden ocultar los precios de oferta del feed de productos para que los anuncios vuelvan a mostrar el precio normal, y los mensajes de revisión de anuncios indican ahora qué política se aplica. OpenAI afirmó que las directrices para aprobar anuncios no han cambiado."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
-                "cap": "Correo de OpenAI sobre la actualización de ChatGPT Ads"
+                "x": "Las conclusiones alimentarán una próxima guía sobre AI agéntica y toma de decisiones automatizada, así como un código de prácticas previsto."
               }
             ]
           }
@@ -277,177 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT Ads에\n새 CTA·지표 추가",
-          "body": "OpenAI 광고에 Learn More 버튼·지표가 늘고 U.S. 밖으로 넓어졌다.",
-          "mini_headline": "ChatGPT Ads에 새 CTA",
+          "headline": "AI 에이전트 광고도\nUK 당국 \"광고주 책임\"",
+          "body": "ICO는 51쪽 보고서에서 AI 에이전트 캠페인도 광고주 책임이라고 밝혔다.",
+          "mini_headline": "ICO: 에이전트 광고도 광고주 몫",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
+                "src": "https://ppc.land/content/images/2026/11/uk-ico-adtech-3-0-advertisers-responsible-ai-agents-boardroom-leash-executive-wrist.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT Ads 제품 업데이트를 보냈다. Business Agents의 U.S. 밖 확대, 단일 이미지 광고에 새로 붙은 learn more 클릭 유도 문구(call-to-action), Ads Manager와 Ads API의 오디언스 지표 확대, 프로모션이 끝났을 때 제품 피드 할인가를 숨기는 기능, Ads Manager의 새 정책 센터 세부 정보가 담겼다."
+                "x": "2026년 11월 13일 자 51쪽 보고서에서 UK 정보위원회(Information Commissioner's Office)는 대규모 언어 모델과 AI 에이전트가 \"온라인 광고에 새로운 데이터 보호 요건을 만들지 않는다\"고 결론 내렸다. 또 기업은 \"에이전틱 AI 시스템에 캠페인 운영이나 최적화를 맡긴다고 해서 책임을 넘길 수 없다\"고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Learn more: ChatGPT의 단일 이미지 광고는 이제 기본적으로 설명 아래에 \"Learn more\" 링크를 보여준다. Ads Manager에서 이미 설정한 랜딩 페이지로 연결되므로 추가 설정은 필요 없다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
-                "cap": "Learn more 클릭 유도 문구가 붙은 ChatGPT 단일 이미지 광고"
+                "x": "보고서 \"AdTech 3.0: Online advertising in the age of LLMs and agentic AI\"(LLMs와 에이전틱 AI 시대의 온라인 광고)는 새로운 법적 요건을 만들지 않는다. 챗봇 광고, AI 쇼핑 어시스턴트, 월드 가든의 \"감독형 자율성(supervised autonomy)\", 그리고 AdCP와 Agentic Real Time Framework 같은 에이전트 프로토콜을 다룬다. 보고서는 \"캠페인 성과를 모니터링하는 것만으로는 의미 있는 감독이 되지 않는다\"고 지적한다."
               },
               {
                 "t": "p",
-                "x": "Business Agents: U.S. 밖 지원 시장의 적격 이커머스·온라인 서비스 기업은 이제 ChatGPT Business Hub에서 Business Agent를 만들어 게시하고, 적격 캠페인에 Sponsored Business Agent로 추가할 수 있다."
+                "x": "쿠키 동의 규칙은 챗봇 안에서도 그대로 적용된다. 챗봇이 사용자가 설명한 증상에서 건강 상태를 추정해 광고에 활용한다면 \"그 처리는 특수 범주 데이터를 포함하는\" 것이어서 명시적 동의가 필요하다. \"AI-powered\"나 \"privacy-preserving\" 같은 라벨은 증거가 되지 못한다."
               },
               {
                 "t": "p",
-                "x": "오디언스 지표: Reach는 광고를 한 번 이상 본 순 이용자 수를 추정한 값이고, Frequency는 총 노출 수를 Reach로 나눈 값이다. OpenAI는 Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC, Cost per 1,000 Reached도 추가했다."
-              },
-              {
-                "t": "p",
-                "x": "광고주는 제품 피드 할인가를 숨겨 광고에 정상가를 다시 표시할 수 있고, 광고 심사 메시지에는 어떤 정책이 적용되는지 나온다. OpenAI는 광고 승인 기준은 바뀌지 않았다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
-                "cap": "OpenAI의 ChatGPT Ads 업데이트 이메일"
+                "x": "이번 결과는 앞으로 나올 에이전틱 AI·자동화된 의사결정 지침과 계획 중인 실무 규약(code of practice)에 반영된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT Adsに\n新CTAと指標追加",
-          "body": "OpenAIの広告にLearn Moreボタンと指標が加わり、U.S.外にも広がる。",
-          "mini_headline": "ChatGPT Adsに新CTA",
+          "headline": "AIエージェント広告も\n広告主の責任 UK当局",
+          "body": "ICOは51ページの報告書で、AIエージェントが運用しても広告主の責任だとした。",
+          "mini_headline": "ICO：エージェント広告も広告主の責任",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
+                "src": "https://ppc.land/content/images/2026/11/uk-ico-adtech-3-0-advertisers-responsible-ai-agents-boardroom-leash-executive-wrist.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAIはChatGPT Adsの製品アップデートを配信し、Business AgentsのU.S.外への拡大、単一画像広告への新しいlearn moreコールトゥアクションの追加、Ads ManagerとAds APIでのオーディエンス指標の拡充、プロモーション終了時に商品フィードのセール価格を非表示にする機能、Ads Managerの新しいポリシーセンター情報を発表した。"
+                "x": "2026年11月13日付の51ページの報告書で、UK情報コミッショナー事務局（Information Commissioner's Office）は、大規模言語モデルとAIエージェントは「オンライン広告に新たなデータ保護要件を生み出すものではない」と結論づけた。さらに企業は「エージェント型AIシステムにキャンペーン運用や最適化を任せても、その責任を移すことはできない」とした。"
               },
               {
                 "t": "p",
-                "x": "Learn more:ChatGPTの単一画像広告は、説明文の下に「Learn more」リンクを標準で表示するようになった。Ads Managerで設定済みのランディングページが開くため、追加の設定は不要だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
-                "cap": "Learn moreのコールトゥアクションが付いたChatGPTの単一画像広告"
+                "x": "報告書「AdTech 3.0: Online advertising in the age of LLMs and agentic AI」（LLMsとエージェント型AIの時代のオンライン広告）は、新たな法的要件を設けるものではない。チャットボット広告、AIショッピングアシスタント、ウォールドガーデンの「監督付き自律（supervised autonomy）」、AdCPやAgentic Real Time Frameworkといったエージェントプロトコルを扱う。「キャンペーンの成果を監視するだけでは、意味のある監督にはならない」と報告書は述べる。"
               },
               {
                 "t": "p",
-                "x": "Business Agents:U.S.外の対象市場で条件を満たすeコマース・オンラインサービス事業者は、ChatGPT Business HubでBusiness Agentを作成・公開し、対象キャンペーンにSponsored Business Agentとして追加できるようになった。"
+                "x": "クッキー同意のルールはチャットボット内でも引き続き適用される。チャットボットが利用者の説明した症状から健康状態を推測し、それを広告に使う場合、「その処理は特別カテゴリーのデータを含む」ため、明示的な同意が必要になる。「AI-powered」や「privacy-preserving」といったラベルは証拠にならない。"
               },
               {
                 "t": "p",
-                "x": "オーディエンス指標:Reachは広告を一度でも見たユニークユーザー数の推定値で、Frequencyは総インプレッション数をReachで割った値だ。OpenAIはClick Reach、Click Frequency、Total Reach、Total Frequency、Unique CTR、Unique CPC、Cost per 1,000 Reachedも追加した。"
-              },
-              {
-                "t": "p",
-                "x": "広告主は商品フィードのセール価格を非表示にして通常価格を再び表示でき、広告審査のメッセージにはどのポリシーが適用されるかが示される。OpenAIは広告承認の基準は変わっていないとしている。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
-                "cap": "OpenAIのChatGPT Adsアップデートメール"
+                "x": "今回の知見は、今後公表されるエージェント型AIと自動化された意思決定に関するガイダンス、そして策定予定の行動規範（code of practice）に反映される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT Ads\n新增CTA与受众指标",
-          "body": "OpenAI广告新增Learn More按钮与受众指标，并扩展至U.S.以外。",
-          "mini_headline": "ChatGPT Ads新增CTA",
+          "headline": "UK监管机构：AI智能体\n广告仍由广告主负责",
+          "body": "ICO发布51页广告技术报告，明确AI智能体运营广告活动时，广告主仍须担责。",
+          "mini_headline": "ICO：智能体投放广告由广告主负责",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
+                "src": "https://ppc.land/content/images/2026/11/uk-ico-adtech-3-0-advertisers-responsible-ai-agents-boardroom-leash-executive-wrist.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI刚刚发布了ChatGPT Ads的产品更新：Business Agents扩展至U.S.以外，单图广告新增learn more行动号召，Ads Manager和Ads API提供更多受众指标，促销结束时可隐藏商品信息流中的促销价，Ads Manager还新增了政策中心详情。"
+                "x": "在一份日期为2026年11月13日、长达51页的报告中，UK信息专员办公室（Information Commissioner's Office）得出结论：大语言模型和AI智能体“不会为在线广告带来一套新的数据保护要求”，企业也“不能通过让智能体AI系统处理广告活动或优化来转移自身责任”。"
               },
               {
                 "t": "p",
-                "x": "Learn more：ChatGPT上的单图广告现在默认在描述下方显示“Learn more”链接。它会打开你在Ads Manager中已设置的落地页，无需额外设置。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
-                "cap": "带有Learn more行动号召的ChatGPT单图广告"
+                "x": "这份题为“AdTech 3.0: Online advertising in the age of LLMs and agentic AI”（LLMs与智能体AI时代的在线广告）的报告并未设立新的法律要求。报告涵盖聊天机器人广告、AI购物助手、围墙花园的“监督式自主”（supervised autonomy），以及AdCP和Agentic Real Time Framework等智能体协议。报告指出：“仅仅监测广告活动表现，无法构成有意义的监督。”"
               },
               {
                 "t": "p",
-                "x": "Business Agents：U.S.以外受支持市场中符合条件的电商和在线服务企业，现在可以在ChatGPT Business Hub中创建并发布Business Agent，并将其作为Sponsored Business Agent添加到符合条件的广告系列中。"
+                "x": "Cookie同意规则在聊天机器人中依然适用。如果聊天机器人根据用户描述的症状推断其可能的健康状况，并据此调整广告，“该处理因此涉及特殊类别数据”，需要获得明确同意。“AI-powered”或“privacy-preserving”之类的标签并不能作为证据。"
               },
               {
                 "t": "p",
-                "x": "受众指标：Reach估算至少看过一次广告的独立用户数；Frequency为总展示次数除以Reach。OpenAI还新增了Click Reach、Click Frequency、Total Reach、Total Frequency、Unique CTR、Unique CPC和Cost per 1,000 Reached。"
-              },
-              {
-                "t": "p",
-                "x": "广告主还可以隐藏商品信息流中的促销价，让广告重新显示原价；广告审核消息现在会显示适用的政策。OpenAI表示，广告审批准则没有改变。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
-                "cap": "OpenAI的ChatGPT Ads更新邮件"
+                "x": "这些结论将纳入即将发布的智能体AI与自动化决策指南，以及一份拟议中的行为准则（code of practice）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT Ads suma un nuevo CTA\ny más métricas de audiencia",
-          "body": "La actualización de ChatGPT Ads de OpenAI añade un botón Learn More, más métricas y Business Agents fuera de U.S.",
-          "mini_headline": "ChatGPT Ads suma un nuevo CTA",
+          "headline": "Regulador de UK: el anunciante\nresponde por sus agentes de AI",
+          "body": "El informe adtech de 51 páginas del ICO responsabiliza a los anunciantes cuando agentes de AI llevan sus campañas.",
+          "mini_headline": "ICO: el anunciante responde por sus agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
+                "src": "https://ppc.land/content/images/2026/11/uk-ico-adtech-3-0-advertisers-responsible-ai-agents-boardroom-leash-executive-wrist.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI acaba de enviar una actualización de producto sobre ChatGPT Ads que anuncia la expansión de Business Agents fuera de U.S., una nueva llamada a la acción learn more en los anuncios de imagen única, más métricas de audiencia en Ads Manager y en la Ads API, la opción de ocultar los precios de oferta del feed de productos cuando termina una promoción y nuevos detalles del centro de políticas en Ads Manager."
+                "x": "En un informe de 51 páginas fechado el 13 de noviembre de 2026, la Information Commissioner's Office del UK concluyó que los modelos de lenguaje de gran tamaño y los agentes de AI «no crean un nuevo conjunto de requisitos de protección de datos para la publicidad online», y que una empresa «no puede transferir su responsabilidad haciendo que un sistema de AI agéntica gestione las actividades o la optimización de las campañas»."
               },
               {
                 "t": "p",
-                "x": "Learn more: en ChatGPT, los anuncios de imagen única muestran ahora por defecto un enlace \"Learn more\" bajo la descripción. Abre la página de destino que ya se configuró en Ads Manager, por lo que no requiere configuración adicional."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
-                "cap": "Anuncio de imagen única en ChatGPT con la llamada a la acción Learn more"
+                "x": "El informe, «AdTech 3.0: Online advertising in the age of LLMs and agentic AI», no crea nuevos requisitos legales. Aborda los anuncios en chatbots, los asistentes de compra con AI, la «autonomía supervisada» (supervised autonomy) de los jardines vallados y protocolos de agentes como AdCP y el Agentic Real Time Framework. «Limitarse a monitorizar el rendimiento de la campaña no proporcionará una supervisión significativa», señala."
               },
               {
                 "t": "p",
-                "x": "Business Agents: las empresas de ecommerce y servicios en línea que cumplen los requisitos en mercados compatibles fuera de U.S. ya pueden crear y publicar un Business Agent en ChatGPT Business Hub y añadirlo a una campaña elegible como Sponsored Business Agent."
+                "x": "Las normas de consentimiento de cookies siguen aplicándose dentro de los chatbots. Si un chatbot infiere una probable condición de salud a partir de los síntomas descritos y la usa para orientar los anuncios, «el tratamiento implica, por tanto, datos de categoría especial», lo que exige consentimiento explícito. Etiquetas como «AI-powered» o «privacy-preserving» no constituyen prueba."
               },
               {
                 "t": "p",
-                "x": "Métricas de audiencia: Reach estima cuántas personas únicas vieron tus anuncios al menos una vez; Frequency es el total de impresiones dividido entre Reach. OpenAI también añadió Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC y Cost per 1,000 Reached."
-              },
-              {
-                "t": "p",
-                "x": "Los anunciantes también pueden ocultar los precios de oferta del feed de productos para que los anuncios vuelvan a mostrar el precio normal, y los mensajes de revisión de anuncios indican ahora qué política se aplica. OpenAI afirmó que las directrices para aprobar anuncios no han cambiado."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
-                "cap": "Correo de OpenAI sobre la actualización de ChatGPT Ads"
+                "x": "Las conclusiones alimentarán una próxima guía sobre AI agéntica y toma de decisiones automatizada, así como un código de prácticas previsto."
               }
             ]
           }
@@ -455,195 +315,273 @@
       }
     },
     {
-      "id": "meta-muse-cyberweek-agent-traffic",
+      "id": "bing-aimode-ads-labels",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트 트래픽\n사이버위크 150x 급증",
-      "body": "AI-agent 트래픽이 작년의 150x로 늘고 대부분 Meta Muse발이다.",
-      "mini_headline": "에이전트 트래픽 150x 급증",
+      "headline": "Bing AI Mode\n광고, 일반 답변과 섞인다",
+      "body": "Microsoft의 Bing AI Mode 광고가 테두리 없이 답변 속에 섞였다.",
+      "mini_headline": "Bing AI Mode 광고, 답변에 섞여",
       "tool": "Marketing",
-      "source": "ADWEEK",
-      "url": "https://www.adweek.com/commerce/ai-agent-traffic-to-surge-150x-this-cyber-week-driven-mostly-by-meta-muse/",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/bing-ai-mode-ads-differentiate-42625.html",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
-            "cap": "새 데이터를 보면 에이전트가 일으킨 사이트 요청 대다수가 Meta의 인기 개인 비서 Muse에서 나온다."
+            "src": "https://images.seroundtable.com/bing-ai-chat-boxes-q16E8dDy.jpg"
           },
           {
             "t": "p",
-            "x": "사이버보안 기업 Human Security는 11월 26~30일 사이버 위크의 에이전트 트래픽이 작년 사이버 위크의 150x 수준에 이를 것으로 내다봤다. 에이전트발 리테일 트래픽은 연휴 전 수준에서 블랙프라이데이 주말 정점까지 두 배 넘게 불어날 전망이다."
+            "x": "Microsoft Advertising이 Bing AI Mode 결과에서 광고와 오가닉 결과를 점점 더 구분하기 어렵게 만든다. 검색 결과에서 광고와 오가닉 목록의 경계를 흐려 온 Microsoft의 이력은 아주 길다. AI Mode와 Copilot Search에서도 같은 방식이 이어지리라 예상하는 게 자연스럽다."
           },
           {
             "t": "p",
-            "x": "한 해 전만 해도 Human이 보호하는 사이트로 향한 에이전트 트래픽의 약 사분의 삼은 Perplexity의 Comet이 일으켰다. 지금은 출시 석 달도 안 된 Meta의 Muse가 70%를 낸다. OpenAI의 ChatGPT agent, Codex 브라우저, Codex Chrome 확장 프로그램을 합하면 약 21%다. Comet은 74%에서 2.4%로 떨어졌다."
+            "x": "Khushal Bherwani가 SEW에 올린 예시를 보면, Bing AI Mode 결과 속 광고에서 테두리가 사라졌고 오가닉 응답에 한층 더 녹아들었다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+            "cap": "AI Overview 속 새 형식의 Bing 광고"
           },
           {
             "t": "p",
-            "x": "에이전트는 아직 제품을 찾고 조사하는 데 주로 쓰인다(요청의 약 81%). 그래도 결제 요청은 작년의 약 160x 수준으로 예상된다. Google 에이전트는 트래픽 비중이 5% 미만인데도 결제·지불 요청에서는 20% 가까이를 차지한다."
+            "x": "이전 모습은 이랬다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/usual-what-we-see-in-ai-overview-ah4e9WiH.webp",
+            "cap": "AI Overview에서 평소 보던 모습"
           },
           {
             "t": "p",
-            "x": "리테일러 반응은 엇갈린다. Gap, Best Buy, Sephora, Walmart는 Muse와 손잡았고 Amazon은 막았다. Gartner의 Andrew Frank는 \"리테일러는 이를 봇 트래픽으로 보지 말고, 에이전트를 위임받은 권한을 가진 고객으로 생각하기 시작해야 한다\"고 말했다."
+            "x": "올해 초 Bing에서는 거의 투명한 스폰서 라벨도 보였다. 거의 보이지 않는 광고 라벨, 알아보기 무척 어려운 광고 라벨을 앞서 다뤘을 때 Microsoft는 이처럼 눈에 띄지 않는 라벨을 두고 답을 내놓은 적이 있다."
+          },
+          {
+            "t": "p",
+            "x": "이런 행태는 바뀔 것 같지 않다..."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI agent traffic to surge 150x\nthis Cyber Week, led by Muse",
-          "body": "New data forecasts AI-agent web traffic hitting 150x last year's Cyber Week level, mostly from Meta's Muse.",
-          "mini_headline": "Agent traffic to surge 150x",
+          "headline": "Bing AI Mode ads now blend\ninto the organic answers",
+          "body": "Microsoft Advertising's ads in Bing AI Mode are no longer outlined and now blend into the organic response.",
+          "mini_headline": "Bing AI Mode ads blend in",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
-                "cap": "Meta's popular personal assistant Muse accounts for the vast majority of agent-led site requests, new data indicates."
+                "src": "https://images.seroundtable.com/bing-ai-chat-boxes-q16E8dDy.jpg"
               },
               {
                 "t": "p",
-                "x": "During Cyber Week, from Nov. 26 to 30, agentic traffic is expected to hit 150x last year's Cyber Week figures, according to cybersecurity firm Human Security. Retail traffic from agents is set to more than double from pre-holiday levels to its Black Friday weekend peak."
+                "x": "Microsoft Advertising is making it harder to distinguish ads in Bing AI Mode results from organic results. Microsoft has a very long history of making it hard to understand what is an advertisement versus what is an organic listing in its search results, so you can expect them to continue to do this within AI Mode and Copilot Search."
               },
               {
                 "t": "p",
-                "x": "A year ago, Perplexity's Comet drove about three-quarters of agentic traffic to sites protected by Human. Today, Meta's Muse, which hit the market less than three months ago, produces 70%. OpenAI's ChatGPT agent, Codex browser and Codex Chrome extension together control about 21%; Comet dropped from 74% to just 2.4%."
+                "x": "If you look at the examples posted by Khushal Bherwani on SEW you will see the ads in the Bing AI Mode results are no longer outlined and look more blended into the organic response."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+                "cap": "New Format Bing Ads In Ai Overview"
               },
               {
                 "t": "p",
-                "x": "Agents still mostly discover and research products (about 81% of requests), but checkout requests are projected at roughly 160x last year's levels. Google's agents account for under 5% of traffic but nearly 20% of checkout and payment requests."
+                "x": "Previously, it looked like this:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/usual-what-we-see-in-ai-overview-ah4e9WiH.webp",
+                "cap": "Usual What We See In Ai Overview"
               },
               {
                 "t": "p",
-                "x": "Retailers are split: Gap, Best Buy, Sephora and Walmart partnered with Muse, while Amazon blocked it. \"Retailers need to stop thinking of this as bot traffic and start thinking of agents as customers with delegated authority,\" said Gartner's Andrew Frank."
+                "x": "Earlier this year, we saw almost transparent sponsored labels from Bing, Microsoft responded to these invisible ad labels before when we previously coverered almost invisibile ad labels and the incredibly hard to see ad labels."
+              },
+              {
+                "t": "p",
+                "x": "I don't expect this behavior to change..."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 에이전트 트래픽\n사이버위크 150x 급증",
-          "body": "AI-agent 트래픽이 작년의 150x로 늘고 대부분 Meta Muse발이다.",
-          "mini_headline": "에이전트 트래픽 150x 급증",
+          "headline": "Bing AI Mode\n광고, 일반 답변과 섞인다",
+          "body": "Microsoft의 Bing AI Mode 광고가 테두리 없이 답변 속에 섞였다.",
+          "mini_headline": "Bing AI Mode 광고, 답변에 섞여",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
-                "cap": "새 데이터를 보면 에이전트가 일으킨 사이트 요청 대다수가 Meta의 인기 개인 비서 Muse에서 나온다."
+                "src": "https://images.seroundtable.com/bing-ai-chat-boxes-q16E8dDy.jpg"
               },
               {
                 "t": "p",
-                "x": "사이버보안 기업 Human Security는 11월 26~30일 사이버 위크의 에이전트 트래픽이 작년 사이버 위크의 150x 수준에 이를 것으로 내다봤다. 에이전트발 리테일 트래픽은 연휴 전 수준에서 블랙프라이데이 주말 정점까지 두 배 넘게 불어날 전망이다."
+                "x": "Microsoft Advertising이 Bing AI Mode 결과에서 광고와 오가닉 결과를 점점 더 구분하기 어렵게 만든다. 검색 결과에서 광고와 오가닉 목록의 경계를 흐려 온 Microsoft의 이력은 아주 길다. AI Mode와 Copilot Search에서도 같은 방식이 이어지리라 예상하는 게 자연스럽다."
               },
               {
                 "t": "p",
-                "x": "한 해 전만 해도 Human이 보호하는 사이트로 향한 에이전트 트래픽의 약 사분의 삼은 Perplexity의 Comet이 일으켰다. 지금은 출시 석 달도 안 된 Meta의 Muse가 70%를 낸다. OpenAI의 ChatGPT agent, Codex 브라우저, Codex Chrome 확장 프로그램을 합하면 약 21%다. Comet은 74%에서 2.4%로 떨어졌다."
+                "x": "Khushal Bherwani가 SEW에 올린 예시를 보면, Bing AI Mode 결과 속 광고에서 테두리가 사라졌고 오가닉 응답에 한층 더 녹아들었다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+                "cap": "AI Overview 속 새 형식의 Bing 광고"
               },
               {
                 "t": "p",
-                "x": "에이전트는 아직 제품을 찾고 조사하는 데 주로 쓰인다(요청의 약 81%). 그래도 결제 요청은 작년의 약 160x 수준으로 예상된다. Google 에이전트는 트래픽 비중이 5% 미만인데도 결제·지불 요청에서는 20% 가까이를 차지한다."
+                "x": "이전 모습은 이랬다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/usual-what-we-see-in-ai-overview-ah4e9WiH.webp",
+                "cap": "AI Overview에서 평소 보던 모습"
               },
               {
                 "t": "p",
-                "x": "리테일러 반응은 엇갈린다. Gap, Best Buy, Sephora, Walmart는 Muse와 손잡았고 Amazon은 막았다. Gartner의 Andrew Frank는 \"리테일러는 이를 봇 트래픽으로 보지 말고, 에이전트를 위임받은 권한을 가진 고객으로 생각하기 시작해야 한다\"고 말했다."
+                "x": "올해 초 Bing에서는 거의 투명한 스폰서 라벨도 보였다. 거의 보이지 않는 광고 라벨, 알아보기 무척 어려운 광고 라벨을 앞서 다뤘을 때 Microsoft는 이처럼 눈에 띄지 않는 라벨을 두고 답을 내놓은 적이 있다."
+              },
+              {
+                "t": "p",
+                "x": "이런 행태는 바뀔 것 같지 않다..."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントの流入\nサイバーウィークで150x",
-          "body": "AI-agentの流入は昨年の150x に達し、大半はMetaのMuse経由と予測される。",
-          "mini_headline": "エージェント流入が150x に",
+          "headline": "Bing AI Mode広告\nオーガニック回答に溶け込む",
+          "body": "MicrosoftのBing AI Mode広告から枠線が消え、回答に溶け込んだ。",
+          "mini_headline": "Bing AI Mode広告が回答に同化",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
-                "cap": "新たなデータによると、Metaの人気パーソナルアシスタントMuseがエージェント経由のサイトリクエストの大半を占めている。"
+                "src": "https://images.seroundtable.com/bing-ai-chat-boxes-q16E8dDy.jpg"
               },
               {
                 "t": "p",
-                "x": "サイバーセキュリティ企業Human Securityによると、11月26日から30日までのサイバーウィーク期間中、エージェント経由のトラフィックは昨年のサイバーウィークの150x に達する見込みだ。エージェントによる小売トラフィックは、ホリデー前の水準からブラックフライデー週末のピークにかけて倍以上に増える見通しだ。"
+                "x": "Microsoft Advertisingは、Bing AI Modeの結果で広告とオーガニック結果の見分けをさらに難しくしている。Microsoftには検索結果で何が広告で何がオーガニックの掲載かを分かりにくくしてきた非常に長い歴史があり、AI ModeやCopilot Searchでも同じことを続けると予想できる。"
               },
               {
                 "t": "p",
-                "x": "一年前は、Humanが保護するサイトへのエージェントトラフィックの約四分の三をPerplexityのCometが生み出していた。現在は、発売から三か月足らずのMetaのMuseが70%を占める。OpenAIのChatGPT agent、Codexブラウザ、Codex Chrome拡張機能は合わせて約21%を占め、Cometは74%からわずか2.4%に落ち込んだ。"
+                "x": "Khushal BherwaniがSEWに投稿した例を見ると、Bing AI Modeの結果に出る広告にはもう枠線がなく、オーガニックな回答により溶け込んで見える。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+                "cap": "AI Overviewに表示されるBing広告の新形式"
               },
               {
                 "t": "p",
-                "x": "エージェントは依然として主に商品の発見と調査に使われている(リクエストの約81%)が、チェックアウトのリクエストは昨年の約160x に達すると予測される。Googleのエージェントはトラフィックの5%未満だが、チェックアウトと決済リクエストの20%近くを占める。"
+                "x": "以前はこう見えていた。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/usual-what-we-see-in-ai-overview-ah4e9WiH.webp",
+                "cap": "AI Overviewでいつも見ていた表示"
               },
               {
                 "t": "p",
-                "x": "小売業者の対応は分かれている。Gap、Best Buy、Sephora、WalmartはMuseと提携し、Amazonはこれをブロックした。GartnerのAndrew Frank氏は「小売業者はこれをボットトラフィックと考えるのをやめ、エージェントを委任された権限を持つ顧客と考え始める必要がある」と述べた。"
+                "x": "今年初めには、Bingのほぼ透明なスポンサーラベルも見られた。以前、ほとんど見えない広告ラベルや非常に見づらい広告ラベルを取り上げた際にも、Microsoftはこうした見えない広告ラベルについて回答している。"
+              },
+              {
+                "t": "p",
+                "x": "この振る舞いが変わるとは思わない…"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI代理流量激增150x\nMuse领跑网购周",
-          "body": "AI-agent流量预计达去年网购周的150x 水平，多来自Meta的Muse。",
-          "mini_headline": "代理流量将激增150x",
+          "headline": "Bing AI Mode广告\n融入自然搜索回答",
+          "body": "Microsoft的Bing AI Mode广告不再加框，已融入自然回答之中。",
+          "mini_headline": "Bing AI Mode广告融入回答",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
-                "cap": "新数据显示，Meta广受欢迎的个人助理Muse占据了由代理发起的网站请求的绝大部分。"
+                "src": "https://images.seroundtable.com/bing-ai-chat-boxes-q16E8dDy.jpg"
               },
               {
                 "t": "p",
-                "x": "据网络安全公司Human Security称，在11月26日至30日的网购周（Cyber Week）期间，代理流量预计将达到去年网购周数据的150x 水平。来自代理的零售流量预计将从假日前的水平增长一倍以上，在黑色星期五周末达到峰值。"
+                "x": "Microsoft Advertising正让Bing AI Mode结果中的广告更难与自然结果区分。Microsoft长期以来一直让人难以分辨其搜索结果中哪些是广告、哪些是自然列表，因此可以预期它会在AI Mode和Copilot Search中延续这种做法。"
               },
               {
                 "t": "p",
-                "x": "一年前，Perplexity的Comet贡献了Human所保护网站约四分之三的代理流量。如今，上市不到三个月的Meta的Muse贡献了70%。OpenAI的ChatGPT agent、Codex浏览器和Codex Chrome扩展合计约占21%；Comet则从74%跌至仅2.4%。"
+                "x": "从Khushal Bherwani在SEW上发布的示例可以看到，Bing AI Mode结果中的广告不再加框，看起来更融入自然回答。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+                "cap": "AI Overview中的Bing广告新样式"
               },
               {
                 "t": "p",
-                "x": "代理目前仍主要用于发现和研究商品（约占请求的81%），但结账请求预计将达到去年的约160x 水平。Google的代理占流量不到5%，却占结账和支付请求的近20%。"
+                "x": "此前的样子是这样的："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/usual-what-we-see-in-ai-overview-ah4e9WiH.webp",
+                "cap": "AI Overview中通常看到的样子"
               },
               {
                 "t": "p",
-                "x": "零售商态度分化：Gap、Best Buy、Sephora和Walmart与Muse合作，而Amazon则将其屏蔽。Gartner的Andrew Frank表示：“零售商需要停止把这看作机器人流量，而要开始把代理视为拥有委托权限的客户。”"
+                "x": "今年早些时候，我们曾看到Bing几乎透明的赞助标签。此前我们报道几乎看不见的广告标签和极难辨认的广告标签时，Microsoft曾对这些隐形广告标签作出回应。"
+              },
+              {
+                "t": "p",
+                "x": "我不认为这种做法会改变……"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tráfico de agentes de AI: 150x\nen Cyber Week, liderado por Muse",
-          "body": "Se prevé que el tráfico web de AI-agent llegue a 150x el de la Cyber Week pasada, sobre todo por Muse de Meta.",
-          "mini_headline": "El tráfico de agentes, 150x",
+          "headline": "Los anuncios de Bing AI Mode\nse mezclan con lo orgánico",
+          "body": "Los anuncios de Microsoft Advertising en Bing AI Mode ya no tienen contorno y se mezclan con la respuesta orgánica.",
+          "mini_headline": "Los anuncios de Bing AI Mode se camuflan",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
-                "cap": "Muse, el popular asistente personal de Meta, concentra la gran mayoría de las solicitudes a sitios hechas por agentes, según nuevos datos."
+                "src": "https://images.seroundtable.com/bing-ai-chat-boxes-q16E8dDy.jpg"
               },
               {
                 "t": "p",
-                "x": "Durante la Cyber Week, del 26 al 30 de noviembre, se espera que el tráfico de agentes alcance 150x las cifras de la Cyber Week del año pasado, según la firma de ciberseguridad Human Security. El tráfico minorista generado por agentes más que se duplicará desde los niveles previos a las fiestas hasta su pico en el fin de semana de Black Friday."
+                "x": "Microsoft Advertising está haciendo más difícil distinguir los anuncios de los resultados orgánicos en Bing AI Mode. Microsoft tiene una larguísima trayectoria de dificultar que se entienda qué es un anuncio y qué es un resultado orgánico en sus búsquedas, así que cabe esperar que siga haciéndolo en AI Mode y Copilot Search."
               },
               {
                 "t": "p",
-                "x": "Hace un año, Comet de Perplexity generaba cerca de tres cuartas partes del tráfico de agentes hacia los sitios protegidos por Human. Hoy, Muse de Meta, que llegó al mercado hace menos de tres meses, produce el 70%. ChatGPT agent, el navegador Codex y la extensión Codex para Chrome de OpenAI suman cerca del 21%; Comet cayó del 74% a solo el 2.4%."
+                "x": "En los ejemplos que Khushal Bherwani publicó en SEW se ve que los anuncios en los resultados de Bing AI Mode ya no tienen contorno y parecen más integrados en la respuesta orgánica."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+                "cap": "Nuevo formato de anuncios de Bing en AI Overview"
               },
               {
                 "t": "p",
-                "x": "Los agentes todavía se dedican sobre todo a descubrir e investigar productos (cerca del 81% de las solicitudes), pero se prevé que las solicitudes de checkout lleguen a unas 160x los niveles del año pasado. Los agentes de Google representan menos del 5% del tráfico, pero casi el 20% de las solicitudes de checkout y pago."
+                "x": "Antes se veía así:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/usual-what-we-see-in-ai-overview-ah4e9WiH.webp",
+                "cap": "Lo que solemos ver en AI Overview"
               },
               {
                 "t": "p",
-                "x": "Los minoristas están divididos: Gap, Best Buy, Sephora y Walmart se asociaron con Muse, mientras que Amazon lo bloqueó. \"Los minoristas tienen que dejar de verlo como tráfico de bots y empezar a ver a los agentes como clientes con autoridad delegada\", dijo Andrew Frank, de Gartner."
+                "x": "A principios de este año vimos etiquetas de patrocinio casi transparentes en Bing. Microsoft ya respondió sobre estas etiquetas invisibles cuando cubrimos antes las etiquetas de anuncios casi invisibles y las etiquetas increíblemente difíciles de ver."
+              },
+              {
+                "t": "p",
+                "x": "No espero que este comportamiento cambie..."
               }
             ]
           }
@@ -651,125 +589,177 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 에이전트 트래픽\n사이버위크 150x 급증",
-          "body": "AI-agent 트래픽이 작년의 150x 수준으로, 대부분 Meta Muse발이다.",
-          "mini_headline": "에이전트 트래픽 150x 급증",
+          "headline": "Bing AI Mode\n광고, 일반 답변과 섞인다",
+          "body": "Microsoft의 Bing AI Mode 광고가 테두리 없이 답변에 섞였다.",
+          "mini_headline": "Bing AI Mode 광고, 답변에 섞여",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
-                "cap": "새 데이터에 따르면 Meta의 인기 개인 비서 Muse가 에이전트 주도 사이트 요청의 대다수를 차지한다."
+                "src": "https://images.seroundtable.com/bing-ai-chat-boxes-q16E8dDy.jpg"
               },
               {
                 "t": "p",
-                "x": "사이버보안 기업 Human Security에 따르면 11월 26~30일 사이버 위크 동안 에이전트 트래픽은 작년 사이버 위크의 150x 수준에 이를 전망이다. 에이전트발 리테일 트래픽은 연휴 전 수준에서 블랙프라이데이 주말 정점까지 두 배 넘게 늘어날 것으로 보인다."
+                "x": "Microsoft Advertising은 Bing AI Mode 결과에서 광고와 오가닉 결과를 구분하기 더 어렵게 만들고 있다. Microsoft는 검색 결과에서 무엇이 광고이고 무엇이 오가닉 목록인지 알기 어렵게 만들어 온 역사가 매우 길다. 그러니 AI Mode와 Copilot Search에서도 이런 방식을 이어갈 것으로 예상할 수 있다."
               },
               {
                 "t": "p",
-                "x": "한 해 전에는 Perplexity의 Comet이 Human이 보호하는 사이트로 향한 에이전트 트래픽의 약 사분의 삼을 일으켰다. 지금은 출시된 지 석 달도 안 된 Meta의 Muse가 70%를 만든다. OpenAI의 ChatGPT agent, Codex 브라우저, Codex Chrome 확장 프로그램은 합쳐서 약 21%를 차지하고, Comet은 74%에서 2.4%로 떨어졌다."
+                "x": "Khushal Bherwani가 SEW에 올린 예시를 보면 Bing AI Mode 결과의 광고에는 더는 테두리가 없고, 오가닉 응답에 더 녹아든 모습이다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+                "cap": "AI Overview 속 새 형식의 Bing 광고"
               },
               {
                 "t": "p",
-                "x": "에이전트는 여전히 주로 제품을 찾고 조사하는 데 쓰이지만(요청의 약 81%), 결제 요청은 작년의 약 160x 수준으로 예상된다. Google 에이전트는 트래픽의 5% 미만이지만 결제·지불 요청의 20% 가까이를 차지한다."
+                "x": "이전에는 이런 모습이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/usual-what-we-see-in-ai-overview-ah4e9WiH.webp",
+                "cap": "AI Overview에서 평소 보던 모습"
               },
               {
                 "t": "p",
-                "x": "리테일러들의 반응은 엇갈린다. Gap, Best Buy, Sephora, Walmart는 Muse와 제휴했고 Amazon은 이를 차단했다. Gartner의 Andrew Frank는 \"리테일러는 이를 봇 트래픽으로 보지 말고, 에이전트를 위임받은 권한을 가진 고객으로 생각하기 시작해야 한다\"고 말했다."
+                "x": "올해 초에는 Bing에서 거의 투명한 스폰서 라벨이 보이기도 했다. 앞서 거의 보이지 않는 광고 라벨과 알아보기 무척 어려운 광고 라벨을 다뤘을 때 Microsoft가 이런 눈에 안 띄는 광고 라벨에 대해 답한 적이 있다."
+              },
+              {
+                "t": "p",
+                "x": "이런 행태가 바뀔 것 같지는 않다..."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントの流入\nサイバーウィークで150x",
-          "body": "AI-agentの流入は昨年の150x に達し、大半はMetaのMuse経由と予測される。",
-          "mini_headline": "エージェント流入が150x に",
+          "headline": "Bing AI Mode広告\nオーガニック回答に溶け込む",
+          "body": "MicrosoftのBing AI Mode広告から枠線が消え、回答に溶け込んだ。",
+          "mini_headline": "Bing AI Mode広告が回答に同化",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
-                "cap": "新たなデータによると、Metaの人気パーソナルアシスタントMuseがエージェント経由のサイトリクエストの大半を占めている。"
+                "src": "https://images.seroundtable.com/bing-ai-chat-boxes-q16E8dDy.jpg"
               },
               {
                 "t": "p",
-                "x": "サイバーセキュリティ企業Human Securityによると、11月26日から30日までのサイバーウィーク期間中、エージェント経由のトラフィックは昨年のサイバーウィークの150x に達する見込みだ。エージェントによる小売トラフィックは、ホリデー前の水準からブラックフライデー週末のピークにかけて倍以上に増える見通しだ。"
+                "x": "Microsoft Advertisingは、Bing AI Modeの結果で広告とオーガニック結果の見分けをさらに難しくしている。Microsoftには検索結果で何が広告で何がオーガニックの掲載かを分かりにくくしてきた非常に長い歴史があり、AI ModeやCopilot Searchでも同じことを続けると予想できる。"
               },
               {
                 "t": "p",
-                "x": "一年前は、Humanが保護するサイトへのエージェントトラフィックの約四分の三をPerplexityのCometが生み出していた。現在は、発売から三か月足らずのMetaのMuseが70%を占める。OpenAIのChatGPT agent、Codexブラウザ、Codex Chrome拡張機能は合わせて約21%を占め、Cometは74%からわずか2.4%に落ち込んだ。"
+                "x": "Khushal BherwaniがSEWに投稿した例を見ると、Bing AI Modeの結果に出る広告にはもう枠線がなく、オーガニックな回答により溶け込んで見える。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+                "cap": "AI Overviewに表示されるBing広告の新形式"
               },
               {
                 "t": "p",
-                "x": "エージェントは依然として主に商品の発見と調査に使われている(リクエストの約81%)が、チェックアウトのリクエストは昨年の約160x に達すると予測される。Googleのエージェントはトラフィックの5%未満だが、チェックアウトと決済リクエストの20%近くを占める。"
+                "x": "以前はこう見えていた。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/usual-what-we-see-in-ai-overview-ah4e9WiH.webp",
+                "cap": "AI Overviewでいつも見ていた表示"
               },
               {
                 "t": "p",
-                "x": "小売業者の対応は分かれている。Gap、Best Buy、Sephora、WalmartはMuseと提携し、Amazonはこれをブロックした。GartnerのAndrew Frank氏は「小売業者はこれをボットトラフィックと考えるのをやめ、エージェントを委任された権限を持つ顧客と考え始める必要がある」と述べた。"
+                "x": "今年初めには、Bingのほぼ透明なスポンサーラベルも見られた。以前、ほとんど見えない広告ラベルや非常に見づらい広告ラベルを取り上げた際にも、Microsoftはこうした見えない広告ラベルについて回答している。"
+              },
+              {
+                "t": "p",
+                "x": "この振る舞いが変わるとは思わない…"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI代理流量激增150x\nMuse领跑网购周",
-          "body": "AI-agent流量预计达去年网购周的150x 水平，多来自Meta的Muse。",
-          "mini_headline": "代理流量将激增150x",
+          "headline": "Bing AI Mode广告\n融入自然搜索回答",
+          "body": "Microsoft的Bing AI Mode广告不再加框，已融入自然回答之中。",
+          "mini_headline": "Bing AI Mode广告融入回答",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
-                "cap": "新数据显示，Meta广受欢迎的个人助理Muse占据了由代理发起的网站请求的绝大部分。"
+                "src": "https://images.seroundtable.com/bing-ai-chat-boxes-q16E8dDy.jpg"
               },
               {
                 "t": "p",
-                "x": "据网络安全公司Human Security称，在11月26日至30日的网购周（Cyber Week）期间，代理流量预计将达到去年网购周数据的150x 水平。来自代理的零售流量预计将从假日前的水平增长一倍以上，在黑色星期五周末达到峰值。"
+                "x": "Microsoft Advertising正让Bing AI Mode结果中的广告更难与自然结果区分。Microsoft长期以来一直让人难以分辨其搜索结果中哪些是广告、哪些是自然列表，因此可以预期它会在AI Mode和Copilot Search中延续这种做法。"
               },
               {
                 "t": "p",
-                "x": "一年前，Perplexity的Comet贡献了Human所保护网站约四分之三的代理流量。如今，上市不到三个月的Meta的Muse贡献了70%。OpenAI的ChatGPT agent、Codex浏览器和Codex Chrome扩展合计约占21%；Comet则从74%跌至仅2.4%。"
+                "x": "从Khushal Bherwani在SEW上发布的示例可以看到，Bing AI Mode结果中的广告不再加框，看起来更融入自然回答。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+                "cap": "AI Overview中的Bing广告新样式"
               },
               {
                 "t": "p",
-                "x": "代理目前仍主要用于发现和研究商品（约占请求的81%），但结账请求预计将达到去年的约160x 水平。Google的代理占流量不到5%，却占结账和支付请求的近20%。"
+                "x": "此前的样子是这样的："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/usual-what-we-see-in-ai-overview-ah4e9WiH.webp",
+                "cap": "AI Overview中通常看到的样子"
               },
               {
                 "t": "p",
-                "x": "零售商态度分化：Gap、Best Buy、Sephora和Walmart与Muse合作，而Amazon则将其屏蔽。Gartner的Andrew Frank表示：“零售商需要停止把这看作机器人流量，而要开始把代理视为拥有委托权限的客户。”"
+                "x": "今年早些时候，我们曾看到Bing几乎透明的赞助标签。此前我们报道几乎看不见的广告标签和极难辨认的广告标签时，Microsoft曾对这些隐形广告标签作出回应。"
+              },
+              {
+                "t": "p",
+                "x": "我不认为这种做法会改变……"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tráfico de agentes de AI: 150x\nen Cyber Week, liderado por Muse",
-          "body": "Se prevé que el tráfico web de AI-agent llegue a 150x el de la Cyber Week pasada, sobre todo por Muse de Meta.",
-          "mini_headline": "El tráfico de agentes, 150x",
+          "headline": "Los anuncios de Bing AI Mode\nse mezclan con lo orgánico",
+          "body": "Los anuncios de Microsoft Advertising en Bing AI Mode ya no tienen contorno y se mezclan con la respuesta orgánica.",
+          "mini_headline": "Los anuncios de Bing AI Mode se camuflan",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/11/meta-muse-agentic-checkout-cyber-week-2026.png?w=1240",
-                "cap": "Muse, el popular asistente personal de Meta, concentra la gran mayoría de las solicitudes a sitios hechas por agentes, según nuevos datos."
+                "src": "https://images.seroundtable.com/bing-ai-chat-boxes-q16E8dDy.jpg"
               },
               {
                 "t": "p",
-                "x": "Durante la Cyber Week, del 26 al 30 de noviembre, se espera que el tráfico de agentes alcance 150x las cifras de la Cyber Week del año pasado, según la firma de ciberseguridad Human Security. El tráfico minorista generado por agentes más que se duplicará desde los niveles previos a las fiestas hasta su pico en el fin de semana de Black Friday."
+                "x": "Microsoft Advertising está haciendo más difícil distinguir los anuncios de los resultados orgánicos en Bing AI Mode. Microsoft tiene una larguísima trayectoria de dificultar que se entienda qué es un anuncio y qué es un resultado orgánico en sus búsquedas, así que cabe esperar que siga haciéndolo en AI Mode y Copilot Search."
               },
               {
                 "t": "p",
-                "x": "Hace un año, Comet de Perplexity generaba cerca de tres cuartas partes del tráfico de agentes hacia los sitios protegidos por Human. Hoy, Muse de Meta, que llegó al mercado hace menos de tres meses, produce el 70%. ChatGPT agent, el navegador Codex y la extensión Codex para Chrome de OpenAI suman cerca del 21%; Comet cayó del 74% a solo el 2.4%."
+                "x": "En los ejemplos que Khushal Bherwani publicó en SEW se ve que los anuncios en los resultados de Bing AI Mode ya no tienen contorno y parecen más integrados en la respuesta orgánica."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+                "cap": "Nuevo formato de anuncios de Bing en AI Overview"
               },
               {
                 "t": "p",
-                "x": "Los agentes todavía se dedican sobre todo a descubrir e investigar productos (cerca del 81% de las solicitudes), pero se prevé que las solicitudes de checkout lleguen a unas 160x los niveles del año pasado. Los agentes de Google representan menos del 5% del tráfico, pero casi el 20% de las solicitudes de checkout y pago."
+                "x": "Antes se veía así:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/usual-what-we-see-in-ai-overview-ah4e9WiH.webp",
+                "cap": "Lo que solemos ver en AI Overview"
               },
               {
                 "t": "p",
-                "x": "Los minoristas están divididos: Gap, Best Buy, Sephora y Walmart se asociaron con Muse, mientras que Amazon lo bloqueó. \"Los minoristas tienen que dejar de verlo como tráfico de bots y empezar a ver a los agentes como clientes con autoridad delegada\", dijo Andrew Frank, de Gartner."
+                "x": "A principios de este año vimos etiquetas de patrocinio casi transparentes en Bing. Microsoft ya respondió sobre estas etiquetas invisibles cuando cubrimos antes las etiquetas de anuncios casi invisibles y las etiquetas increíblemente difíciles de ver."
+              },
+              {
+                "t": "p",
+                "x": "No espero que este comportamiento cambie..."
               }
             ]
           }
@@ -777,15 +767,15 @@
       }
     },
     {
-      "id": "digiday-blackfriday-ai-shoppers",
+      "id": "accc-ai-shopping-agent-liability",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "블랙프라이데이 앞두고\nAI 챗봇 찾는 쇼핑객",
-      "body": "블랙프라이데이를 앞두고 AI 챗봇으로 상품을 찾는 비율이 6%에서 13%로 늘었다.",
-      "mini_headline": "AI 챗봇 찾는 쇼핑객",
+      "headline": "호주 ACCC 판매자에\nAI 에이전트 책임 물어",
+      "body": "ACCC는 Black Friday에 AI 챗봇·에이전트 말도 기업 책임이라 했다.",
+      "mini_headline": "ACCC: 에이전트 발언도 판매자 책임",
       "tool": "Marketing",
-      "source": "Digiday",
-      "url": "https://digiday.com/marketing/in-graphic-detail-how-shoppers-are-adopting-ai-for-product-research-ahead-of-black-friday/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/businesses-stay-liable-for-what-their-ai-agents-tell-shoppers-accc-says/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -793,269 +783,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
+            "src": "https://ppc.land/content/images/2026/11/accc-ai-shopping-agents-businesses-liable-black-friday-ventriloquist-dummy-shop-counter.jpg"
           },
           {
             "t": "p",
-            "x": "블랙프라이데이/사이버먼데이를 앞두고 마케터는 광고비를 퍼포먼스 채널로 옮기는 중이다. 그사이 소비자 쪽에서는 구매 결정을 돕는 Gemini, ChatGPT 같은 생성형 AI 도구가 자리를 잡아 간다."
+            "x": "Black Friday 세일이 시작되자 호주 경쟁소비자위원회(Australian Competition and Consumer Commission)는 쇼핑객에게 AI 도구가 내놓는 정보를 믿을 만한 출처와 대조하고, AI 에이전트에게 구매를 맡기기 전 한도를 분명히 정하라고 당부했다. 위원회가 이미 호주 시장에 나온 에이전트로 꼽은 것은 Meta의 Muse, OpenAI의 ChatGPT dots, Google Tasks 세 가지다."
           },
           {
             "t": "p",
-            "x": "Jellyfish SEO 부문 부사장 Jonathan Verrall은 \"이제 AI가 쇼핑객이 신뢰하는 출처를 바탕으로 몇 주 앞서 후보 목록을 작성한다\"고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
+            "x": "ACCC의 Gina Cass-Gottlieb 위원장은 \"AI 결과는 틀릴 수 있다\"며 \"소비자는 확인하고, 에이전트가 자신의 승인을 받아야 하는 지점을 정해야 한다\"고 말했다. 규제당국은 AI 에이전트가 \"사기임을 정확히 알아채지 못할 수도 있다\"고도 경고했다."
           },
           {
             "t": "p",
-            "x": "Brainlabs가 U.S.와 U.K. 쇼핑객 2,800명을 조사해 보니 상품 조사에 AI를 쓰는 비율이 평균 작년 6%에서 13%로 늘었다."
+            "x": "보도자료에 따르면 \"기업은 자사 AI 챗봇과 에이전트가 하는 행동에 책임이 있다\". AI를 써도 소비자 보장 권리는 그대로이고, 오해를 부르는 정보라면 \"직원이 했든, 서면으로 했든, AI 도구를 통했든\" 기업이 책임진다. AI 에이전트 공급업체 역시 에이전트 성능을 두고 고객을 오도해서는 안 된다."
           },
           {
             "t": "p",
-            "x": "Jellyfish가 U.K. 블랙프라이데이 프롬프트를 분석한 결과 AI 인용은 서드파티 출처가 주도했다. PMG에 따르면 자사 제품을 추천하는 AI 답변에 인용된 링크 203개 중 브랜드 웹사이트 링크는 24개뿐이었다."
-          },
-          {
-            "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
-          },
-          {
-            "t": "p",
-            "x": "AdClarity는 10월 ChatGPT 총 광고비를 $116.6 million 정도로, 그중 U.S. 브랜드 비중을 64%로 추정했다. Bain에 따르면 소비자 42%가 상품을 알아볼 때 AI 도구를 쓴다. 다만 McKinsey는 고령 쇼핑객이 뒤처져 있다고 봤다."
-          },
-          {
-            "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
+            "x": "ACCC는 에이전틱 AI와 에이전틱 커머스를 중심으로 한 AI Industry Snapshot 업데이트를 \"앞으로 몇 달 안에\" 내놓을 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Shoppers turn to AI chatbots\nbefore Black Friday",
-          "body": "Shoppers are using AI chatbots for product research ahead of Black Friday, with usage up from 6% to 13%.",
-          "mini_headline": "Shoppers turn to AI chatbots",
+          "headline": "Australia's ACCC holds sellers\nliable for AI agent claims",
+          "body": "The ACCC told Black Friday shoppers that businesses remain liable for what their AI chatbots and agents say.",
+          "mini_headline": "ACCC: sellers own agent claims",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://ppc.land/content/images/2026/11/accc-ai-shopping-agents-businesses-liable-black-friday-ventriloquist-dummy-shop-counter.jpg"
               },
               {
                 "t": "p",
-                "x": "Marketers are shifting ad dollars toward performance channels ahead of Black Friday/Cyber Monday, yet consumers are adopting generative AI tools like Gemini and ChatGPT to aid their purchasing decisions."
+                "x": "As Black Friday sales got under way, the Australian Competition and Consumer Commission urged shoppers to check what AI tools tell them against reliable sources and to set firm limits before letting an AI agent buy anything. It named three agents already on the Australian market - Meta's Muse, OpenAI's ChatGPT dots and Google Tasks."
               },
               {
                 "t": "p",
-                "x": "\"Now AI writes the shortlist weeks earlier from the sources shoppers trust,\" said Jonathan Verrall, vp of SEO at Jellyfish."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
+                "x": "\"AI results can be wrong,\" said ACCC Chair Gina Cass-Gottlieb. \"Consumers should check and set the points at which they want the agent to get their approval.\" The regulator warned that AI agents \"may also not accurately identify something is a scam.\""
               },
               {
                 "t": "p",
-                "x": "A Brainlabs survey of 2,800 U.S. and U.K. shoppers found the share using AI for product research rose on average from 6% last year to 13%."
+                "x": "\"Businesses are responsible for the actions their AI chatbots and agents take,\" according to the release. Consumer guarantee rights do not change when AI is used, and businesses are liable for misleading information \"whether that is done by employees, in writing or through AI tools.\" Suppliers of AI agents must not mislead customers about their capabilities."
               },
               {
                 "t": "p",
-                "x": "A Jellyfish study of U.K. Black Friday prompts found third-party sources leading AI citations. PMG found a brand's website supplied just 24 out of 203 links cited in AI answers recommending its products."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
-              },
-              {
-                "t": "p",
-                "x": "AdClarity estimated total ad spend on ChatGPT reached $116.6 million in October, with U.S. brands accounting for 64%. Per Bain, 42% of consumers use AI tools to research products, though older shoppers lag behind, McKinsey found."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
+                "x": "The ACCC says it will release an update to its AI Industry Snapshot focusing on agentic AI and agentic commerce \"in coming months.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "블랙프라이데이 앞두고\nAI 챗봇 찾는 쇼핑객",
-          "body": "블랙프라이데이를 앞두고 AI 챗봇으로 상품을 찾는 비율이 6%에서 13%로 늘었다.",
-          "mini_headline": "AI 챗봇 찾는 쇼핑객",
+          "headline": "호주 ACCC 판매자에\nAI 에이전트 책임 물어",
+          "body": "ACCC는 Black Friday에 AI 챗봇·에이전트 말도 기업 책임이라 했다.",
+          "mini_headline": "ACCC: 에이전트 발언도 판매자 책임",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://ppc.land/content/images/2026/11/accc-ai-shopping-agents-businesses-liable-black-friday-ventriloquist-dummy-shop-counter.jpg"
               },
               {
                 "t": "p",
-                "x": "블랙프라이데이/사이버먼데이를 앞두고 마케터는 광고비를 퍼포먼스 채널로 옮기는 중이다. 그사이 소비자 쪽에서는 구매 결정을 돕는 Gemini, ChatGPT 같은 생성형 AI 도구가 자리를 잡아 간다."
+                "x": "Black Friday 세일이 시작되자 호주 경쟁소비자위원회(Australian Competition and Consumer Commission)는 쇼핑객에게 AI 도구가 내놓는 정보를 믿을 만한 출처와 대조하고, AI 에이전트에게 구매를 맡기기 전 한도를 분명히 정하라고 당부했다. 위원회가 이미 호주 시장에 나온 에이전트로 꼽은 것은 Meta의 Muse, OpenAI의 ChatGPT dots, Google Tasks 세 가지다."
               },
               {
                 "t": "p",
-                "x": "Jellyfish SEO 부문 부사장 Jonathan Verrall은 \"이제 AI가 쇼핑객이 신뢰하는 출처를 바탕으로 몇 주 앞서 후보 목록을 작성한다\"고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
+                "x": "ACCC의 Gina Cass-Gottlieb 위원장은 \"AI 결과는 틀릴 수 있다\"며 \"소비자는 확인하고, 에이전트가 자신의 승인을 받아야 하는 지점을 정해야 한다\"고 말했다. 규제당국은 AI 에이전트가 \"사기임을 정확히 알아채지 못할 수도 있다\"고도 경고했다."
               },
               {
                 "t": "p",
-                "x": "Brainlabs가 U.S.와 U.K. 쇼핑객 2,800명을 조사해 보니 상품 조사에 AI를 쓰는 비율이 평균 작년 6%에서 13%로 늘었다."
+                "x": "보도자료에 따르면 \"기업은 자사 AI 챗봇과 에이전트가 하는 행동에 책임이 있다\". AI를 써도 소비자 보장 권리는 그대로이고, 오해를 부르는 정보라면 \"직원이 했든, 서면으로 했든, AI 도구를 통했든\" 기업이 책임진다. AI 에이전트 공급업체 역시 에이전트 성능을 두고 고객을 오도해서는 안 된다."
               },
               {
                 "t": "p",
-                "x": "Jellyfish가 U.K. 블랙프라이데이 프롬프트를 분석한 결과 AI 인용은 서드파티 출처가 주도했다. PMG에 따르면 자사 제품을 추천하는 AI 답변에 인용된 링크 203개 중 브랜드 웹사이트 링크는 24개뿐이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
-              },
-              {
-                "t": "p",
-                "x": "AdClarity는 10월 ChatGPT 총 광고비를 $116.6 million 정도로, 그중 U.S. 브랜드 비중을 64%로 추정했다. Bain에 따르면 소비자 42%가 상품을 알아볼 때 AI 도구를 쓴다. 다만 McKinsey는 고령 쇼핑객이 뒤처져 있다고 봤다."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
+                "x": "ACCC는 에이전틱 AI와 에이전틱 커머스를 중심으로 한 AI Industry Snapshot 업데이트를 \"앞으로 몇 달 안에\" 내놓을 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ブラックフライデー前\n買い物客はAIチャットへ",
-          "body": "ブラックフライデーを前に、AIチャットボットで商品を調べる人が6%から13%に増えた。",
-          "mini_headline": "AIチャットボットに頼る買い物客",
+          "headline": "AIエージェントの発言も\n販売者の責任と豪ACCC",
+          "body": "ACCCはBlack Fridayを前に、AIエージェントの発言も企業の責任だとした。",
+          "mini_headline": "ACCC：エージェントの発言も販売者の責任",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://ppc.land/content/images/2026/11/accc-ai-shopping-agents-businesses-liable-black-friday-ventriloquist-dummy-shop-counter.jpg"
               },
               {
                 "t": "p",
-                "x": "マーケターはブラックフライデー/サイバーマンデーを前に広告費をパフォーマンスチャネルへ移しているが、消費者は購買判断の助けとしてGeminiやChatGPTなどの生成AIツールを取り入れている。"
+                "x": "Black Fridayのセールが始まるなか、オーストラリア競争・消費者委員会（Australian Competition and Consumer Commission）は買い物客に対し、AIツールが示す情報を信頼できる情報源と照らし合わせ、AIエージェントに何かを買わせる前に明確な上限を設けるよう呼びかけた。すでにオーストラリア市場に出ている三つのエージェントとして、MetaのMuse、OpenAIのChatGPT dots、Google Tasksを挙げた。"
               },
               {
                 "t": "p",
-                "x": "JellyfishのSEO担当バイスプレジデント、Jonathan Verrall氏は「今やAIは、買い物客が信頼する情報源をもとに、数週間早く候補リストを作る」と語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
+                "x": "ACCCのGina Cass-Gottlieb委員長は「AIの結果は間違うことがある」と述べ、「消費者は確認したうえで、エージェントが自分の承認を得るべきポイントを設定すべきだ」と語った。同委員会は、AIエージェントが「詐欺であることを正確に見抜けない可能性もある」と警告した。"
               },
               {
                 "t": "p",
-                "x": "BrainlabsがU.S.とU.K.の買い物客2,800人を対象に行った調査では、商品調査にAIを使う人の割合が平均で昨年の6%から13%に上昇した。"
+                "x": "発表文によると「企業は自社のAIチャットボットやエージェントがとる行動に責任を負う」。AIを使っても消費者保証の権利は変わらず、誤解を招く情報については「従業員によるものでも、書面でも、AIツールを通じたものでも」企業が責任を負う。AIエージェントの提供者は、その能力について顧客を誤認させてはならない。"
               },
               {
                 "t": "p",
-                "x": "U.K.のブラックフライデー関連プロンプトを調べたJellyfishの研究では、AIの引用でサードパーティの情報源が上位を占めた。PMGによると、ブランドの商品を推薦するAI回答で引用された203件のリンクのうち、そのブランドのWebサイトからのものはわずか24件だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
-              },
-              {
-                "t": "p",
-                "x": "AdClarityの推計では、10月のChatGPT上の広告費総額は$116.6 million に達し、U.S.のブランドが64%を占めた。Bainによれば消費者の42%が商品調査にAIツールを使っているが、McKinseyは高齢の買い物客が遅れていると指摘した。"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
+                "x": "ACCCは、エージェント型AIとエージェンティック・コマースに焦点を当てたAI Industry Snapshotの更新版を「今後数か月のうちに」公表するとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "黑色星期五前夕\n购物者转向AI聊天机器人",
-          "body": "黑色星期五前夕，用AI聊天机器人研究商品的购物者比例从6%升至13%。",
-          "mini_headline": "购物者转向AI聊天机器人",
+          "headline": "澳大利亚ACCC：AI智能体\n所言由商家担责",
+          "body": "ACCC在Black Friday提醒消费者，企业仍须为AI聊天机器人和智能体言论负责。",
+          "mini_headline": "ACCC：智能体言论由商家负责",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://ppc.land/content/images/2026/11/accc-ai-shopping-agents-businesses-liable-black-friday-ventriloquist-dummy-shop-counter.jpg"
               },
               {
                 "t": "p",
-                "x": "在黑色星期五/网络星期一前夕，营销人员正将广告预算转向效果渠道，而消费者则在采用Gemini和ChatGPT等生成式AI工具来辅助购买决策。"
+                "x": "随着Black Friday促销开启，澳大利亚竞争与消费者委员会（Australian Competition and Consumer Commission）敦促消费者将AI工具提供的信息与可靠来源核对，并在让AI智能体购买任何东西之前设定严格限制。它点名了三款已在澳大利亚市场上线的智能体——Meta的Muse、OpenAI的ChatGPT dots和Google Tasks。"
               },
               {
                 "t": "p",
-                "x": "Jellyfish的SEO副总裁Jonathan Verrall表示：“如今，AI会提前几周根据购物者信任的来源拟出候选清单。”"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
+                "x": "ACCC主席Gina Cass-Gottlieb表示：“AI的结果可能出错。”“消费者应当核实，并设定希望智能体征得其批准的节点。”该监管机构警告称，AI智能体“也可能无法准确识别某件事是骗局”。"
               },
               {
                 "t": "p",
-                "x": "Brainlabs对2,800名U.S.和U.K.购物者的调查发现，用AI进行商品研究的比例平均从去年的6%升至13%。"
+                "x": "新闻稿称：“企业要为其AI聊天机器人和智能体采取的行动负责。”使用AI时，消费者保障权利不变；对于误导性信息，企业须承担责任，“无论是由员工、以书面形式还是通过AI工具做出的”。AI智能体供应商不得就其能力误导客户。"
               },
               {
                 "t": "p",
-                "x": "Jellyfish对U.K.黑色星期五相关提示词的研究发现，第三方来源在AI引用中占主导。PMG发现，在推荐某品牌产品的AI回答所引用的203个链接中，该品牌网站仅提供了24个。"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
-              },
-              {
-                "t": "p",
-                "x": "AdClarity估计，10月ChatGPT上的广告总支出达到$116.6 million，其中U.S.品牌占64%。据Bain统计，42%的消费者使用AI工具研究商品，但McKinsey发现年长购物者相对落后。"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
+                "x": "ACCC表示，将“在未来几个月内”发布其AI Industry Snapshot的更新，重点关注智能体AI与智能体商务。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Compradores acuden a chatbots\nde AI antes de Black Friday",
-          "body": "Los compradores usan chatbots de AI para investigar productos antes de Black Friday; el uso pasó del 6% al 13%.",
-          "mini_headline": "Compradores acuden a chatbots de AI",
+          "headline": "ACCC de Australia: el vendedor\nresponde por sus agentes de AI",
+          "body": "La ACCC recordó en Black Friday que las empresas responden por lo que dicen sus chatbots y agentes de AI.",
+          "mini_headline": "ACCC: el vendedor responde por sus agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://ppc.land/content/images/2026/11/accc-ai-shopping-agents-businesses-liable-black-friday-ventriloquist-dummy-shop-counter.jpg"
               },
               {
                 "t": "p",
-                "x": "Los profesionales del marketing están desplazando inversión publicitaria hacia canales de performance antes de Black Friday/Cyber Monday, pero los consumidores adoptan herramientas de AI generativa como Gemini y ChatGPT para apoyar sus decisiones de compra."
+                "x": "Con el arranque de las rebajas de Black Friday, la Australian Competition and Consumer Commission pidió a los compradores contrastar lo que les dicen las herramientas de AI con fuentes fiables y fijar límites firmes antes de dejar que un agente de AI compre algo. Mencionó tres agentes ya presentes en el mercado australiano: Muse de Meta, ChatGPT dots de OpenAI y Google Tasks."
               },
               {
                 "t": "p",
-                "x": "\"Ahora la AI elabora la lista de candidatos semanas antes a partir de las fuentes en las que confían los compradores\", dijo Jonathan Verrall, vp de SEO en Jellyfish."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
+                "x": "«Los resultados de la AI pueden estar equivocados», dijo la presidenta de la ACCC, Gina Cass-Gottlieb. «Los consumidores deben comprobarlos y fijar los puntos en los que quieren que el agente obtenga su aprobación». El regulador advirtió que puede que los agentes de AI «tampoco identifiquen con precisión que algo es una estafa»."
               },
               {
                 "t": "p",
-                "x": "Una encuesta de Brainlabs a 2,800 compradores de U.S. y U.K. encontró que la proporción que usa AI para investigar productos subió de media del 6% del año pasado al 13%."
+                "x": "«Las empresas son responsables de las acciones que realizan sus chatbots y agentes de AI», según el comunicado. Los derechos de garantía del consumidor no cambian cuando se usa AI, y las empresas responden por la información engañosa «ya la den empleados, por escrito o mediante herramientas de AI». Los proveedores de agentes de AI no deben engañar a los clientes sobre sus capacidades."
               },
               {
                 "t": "p",
-                "x": "Un estudio de Jellyfish sobre prompts de Black Friday en U.K. halló que las fuentes de terceros lideran las citas de la AI. PMG encontró que el sitio web de una marca aportó solo 24 de los 203 enlaces citados en respuestas de AI que recomendaban sus productos."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
-              },
-              {
-                "t": "p",
-                "x": "AdClarity estimó que el gasto publicitario total en ChatGPT alcanzó $116.6 million en octubre, y que las marcas de U.S. representaron el 64%. Según Bain, el 42% de los consumidores usa herramientas de AI para investigar productos, aunque los compradores mayores van rezagados, según McKinsey."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
+                "x": "La ACCC afirma que publicará «en los próximos meses» una actualización de su AI Industry Snapshot centrada en la AI agéntica y el comercio agéntico."
               }
             ]
           }
@@ -1063,185 +957,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "블랙프라이데이 앞두고\nAI 챗봇 찾는 쇼핑객",
-          "body": "블랙프라이데이를 앞두고 AI 챗봇으로 상품을 찾는 비율이 6%에서 13%로 늘었다.",
-          "mini_headline": "AI 챗봇 찾는 쇼핑객",
+          "headline": "호주 ACCC 판매자에\nAI 에이전트 책임 물어",
+          "body": "ACCC는 Black Friday에 AI 챗봇·에이전트 말도 기업 책임이라 했다.",
+          "mini_headline": "ACCC: 에이전트 발언도 판매자 책임",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://ppc.land/content/images/2026/11/accc-ai-shopping-agents-businesses-liable-black-friday-ventriloquist-dummy-shop-counter.jpg"
               },
               {
                 "t": "p",
-                "x": "마케터들은 블랙프라이데이/사이버먼데이를 앞두고 광고비를 퍼포먼스 채널로 옮기고 있지만, 소비자들은 구매 결정을 돕는 Gemini, ChatGPT 같은 생성형 AI 도구를 받아들이고 있다."
+                "x": "Black Friday 세일이 시작되자 호주 경쟁소비자위원회(Australian Competition and Consumer Commission)는 쇼핑객들에게 AI 도구가 알려주는 내용을 믿을 만한 출처와 대조해 확인하고, AI 에이전트에게 구매를 맡기기 전에 확실한 한도를 정하라고 당부했다. 위원회는 이미 호주 시장에 나온 에이전트 세 가지로 Meta의 Muse, OpenAI의 ChatGPT dots, Google Tasks를 꼽았다."
               },
               {
                 "t": "p",
-                "x": "Jellyfish의 SEO 부문 부사장 Jonathan Verrall은 \"이제 AI가 쇼핑객이 신뢰하는 출처를 바탕으로 몇 주 앞서 후보 목록을 작성한다\"고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
+                "x": "ACCC의 Gina Cass-Gottlieb 위원장은 \"AI 결과는 틀릴 수 있다\"며 \"소비자는 확인하고, 에이전트가 자신의 승인을 받아야 하는 지점을 정해야 한다\"고 말했다. 규제당국은 AI 에이전트가 \"사기임을 정확히 알아채지 못할 수도 있다\"고 경고했다."
               },
               {
                 "t": "p",
-                "x": "Brainlabs가 U.S.와 U.K. 쇼핑객 2,800명을 조사한 결과, 상품 조사에 AI를 쓰는 비율은 평균적으로 작년 6%에서 13%로 늘었다."
+                "x": "보도자료는 \"기업은 자사 AI 챗봇과 에이전트가 하는 행동에 책임이 있다\"고 밝혔다. AI를 쓰더라도 소비자 보장 권리는 달라지지 않으며, 기업은 오해를 부르는 정보에 대해 \"직원이 했든, 서면으로 했든, AI 도구를 통했든\" 책임을 진다. AI 에이전트 공급업체는 그 성능에 대해 고객을 오도해서는 안 된다."
               },
               {
                 "t": "p",
-                "x": "U.K. 블랙프라이데이 프롬프트를 분석한 Jellyfish 연구에서는 서드파티 출처가 AI 인용을 주도했다. PMG에 따르면 자사 제품을 추천하는 AI 답변에 인용된 링크 203개 가운데 브랜드 웹사이트가 제공한 것은 24개에 그쳤다."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
-              },
-              {
-                "t": "p",
-                "x": "AdClarity는 10월 ChatGPT 총 광고비가 $116.6 million 수준에 이르렀고 그중 U.S. 브랜드가 64%를 차지한 것으로 추정했다. Bain에 따르면 소비자의 42%가 상품 조사에 AI 도구를 쓰지만, McKinsey는 고령 쇼핑객이 뒤처져 있다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
+                "x": "ACCC는 에이전틱 AI와 에이전틱 커머스에 초점을 맞춘 AI Industry Snapshot 업데이트를 \"앞으로 몇 달 안에\" 내놓겠다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ブラックフライデー前\n買い物客はAIチャットへ",
-          "body": "ブラックフライデーを前に、AIチャットボットで商品を調べる人が6%から13%に増えた。",
-          "mini_headline": "AIチャットボットに頼る買い物客",
+          "headline": "AIエージェントの発言も\n販売者の責任と豪ACCC",
+          "body": "ACCCはBlack Fridayを前に、AIエージェントの発言も企業の責任だとした。",
+          "mini_headline": "ACCC：エージェントの発言も販売者の責任",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://ppc.land/content/images/2026/11/accc-ai-shopping-agents-businesses-liable-black-friday-ventriloquist-dummy-shop-counter.jpg"
               },
               {
                 "t": "p",
-                "x": "マーケターはブラックフライデー/サイバーマンデーを前に広告費をパフォーマンスチャネルへ移しているが、消費者は購買判断の助けとしてGeminiやChatGPTなどの生成AIツールを取り入れている。"
+                "x": "Black Fridayのセールが始まるなか、オーストラリア競争・消費者委員会（Australian Competition and Consumer Commission）は買い物客に対し、AIツールが示す情報を信頼できる情報源と照らし合わせ、AIエージェントに何かを買わせる前に明確な上限を設けるよう呼びかけた。すでにオーストラリア市場に出ている三つのエージェントとして、MetaのMuse、OpenAIのChatGPT dots、Google Tasksを挙げた。"
               },
               {
                 "t": "p",
-                "x": "JellyfishのSEO担当バイスプレジデント、Jonathan Verrall氏は「今やAIは、買い物客が信頼する情報源をもとに、数週間早く候補リストを作る」と語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
+                "x": "ACCCのGina Cass-Gottlieb委員長は「AIの結果は間違うことがある」と述べ、「消費者は確認したうえで、エージェントが自分の承認を得るべきポイントを設定すべきだ」と語った。同委員会は、AIエージェントが「詐欺であることを正確に見抜けない可能性もある」と警告した。"
               },
               {
                 "t": "p",
-                "x": "BrainlabsがU.S.とU.K.の買い物客2,800人を対象に行った調査では、商品調査にAIを使う人の割合が平均で昨年の6%から13%に上昇した。"
+                "x": "発表文によると「企業は自社のAIチャットボットやエージェントがとる行動に責任を負う」。AIを使っても消費者保証の権利は変わらず、誤解を招く情報については「従業員によるものでも、書面でも、AIツールを通じたものでも」企業が責任を負う。AIエージェントの提供者は、その能力について顧客を誤認させてはならない。"
               },
               {
                 "t": "p",
-                "x": "U.K.のブラックフライデー関連プロンプトを調べたJellyfishの研究では、AIの引用でサードパーティの情報源が上位を占めた。PMGによると、ブランドの商品を推薦するAI回答で引用された203件のリンクのうち、そのブランドのWebサイトからのものはわずか24件だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
-              },
-              {
-                "t": "p",
-                "x": "AdClarityの推計では、10月のChatGPT上の広告費総額は$116.6 million に達し、U.S.のブランドが64%を占めた。Bainによれば消費者の42%が商品調査にAIツールを使っているが、McKinseyは高齢の買い物客が遅れていると指摘した。"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
+                "x": "ACCCは、エージェント型AIとエージェンティック・コマースに焦点を当てたAI Industry Snapshotの更新版を「今後数か月のうちに」公表するとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "黑色星期五前夕\n购物者转向AI聊天机器人",
-          "body": "黑色星期五前夕，用AI聊天机器人研究商品的购物者比例从6%升至13%。",
-          "mini_headline": "购物者转向AI聊天机器人",
+          "headline": "澳大利亚ACCC：AI智能体\n所言由商家担责",
+          "body": "ACCC在Black Friday提醒消费者，企业仍须为AI聊天机器人和智能体言论负责。",
+          "mini_headline": "ACCC：智能体言论由商家负责",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://ppc.land/content/images/2026/11/accc-ai-shopping-agents-businesses-liable-black-friday-ventriloquist-dummy-shop-counter.jpg"
               },
               {
                 "t": "p",
-                "x": "在黑色星期五/网络星期一前夕，营销人员正将广告预算转向效果渠道，而消费者则在采用Gemini和ChatGPT等生成式AI工具来辅助购买决策。"
+                "x": "随着Black Friday促销开启，澳大利亚竞争与消费者委员会（Australian Competition and Consumer Commission）敦促消费者将AI工具提供的信息与可靠来源核对，并在让AI智能体购买任何东西之前设定严格限制。它点名了三款已在澳大利亚市场上线的智能体——Meta的Muse、OpenAI的ChatGPT dots和Google Tasks。"
               },
               {
                 "t": "p",
-                "x": "Jellyfish的SEO副总裁Jonathan Verrall表示：“如今，AI会提前几周根据购物者信任的来源拟出候选清单。”"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
+                "x": "ACCC主席Gina Cass-Gottlieb表示：“AI的结果可能出错。”“消费者应当核实，并设定希望智能体征得其批准的节点。”该监管机构警告称，AI智能体“也可能无法准确识别某件事是骗局”。"
               },
               {
                 "t": "p",
-                "x": "Brainlabs对2,800名U.S.和U.K.购物者的调查发现，用AI进行商品研究的比例平均从去年的6%升至13%。"
+                "x": "新闻稿称：“企业要为其AI聊天机器人和智能体采取的行动负责。”使用AI时，消费者保障权利不变；对于误导性信息，企业须承担责任，“无论是由员工、以书面形式还是通过AI工具做出的”。AI智能体供应商不得就其能力误导客户。"
               },
               {
                 "t": "p",
-                "x": "Jellyfish对U.K.黑色星期五相关提示词的研究发现，第三方来源在AI引用中占主导。PMG发现，在推荐某品牌产品的AI回答所引用的203个链接中，该品牌网站仅提供了24个。"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
-              },
-              {
-                "t": "p",
-                "x": "AdClarity估计，10月ChatGPT上的广告总支出达到$116.6 million，其中U.S.品牌占64%。据Bain统计，42%的消费者使用AI工具研究商品，但McKinsey发现年长购物者相对落后。"
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
+                "x": "ACCC表示，将“在未来几个月内”发布其AI Industry Snapshot的更新，重点关注智能体AI与智能体商务。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Compradores acuden a chatbots\nde AI antes de Black Friday",
-          "body": "Los compradores usan chatbots de AI para investigar productos antes de Black Friday; el uso pasó del 6% al 13%.",
-          "mini_headline": "Compradores acuden a chatbots de AI",
+          "headline": "ACCC de Australia: el vendedor\nresponde por sus agentes de AI",
+          "body": "La ACCC recordó en Black Friday que las empresas responden por lo que dicen sus chatbots y agentes de AI.",
+          "mini_headline": "ACCC: el vendedor responde por sus agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/magnifying-search-digiday.jpg?w=1030&h=579&crop=1"
+                "src": "https://ppc.land/content/images/2026/11/accc-ai-shopping-agents-businesses-liable-black-friday-ventriloquist-dummy-shop-counter.jpg"
               },
               {
                 "t": "p",
-                "x": "Los profesionales del marketing están desplazando inversión publicitaria hacia canales de performance antes de Black Friday/Cyber Monday, pero los consumidores adoptan herramientas de AI generativa como Gemini y ChatGPT para apoyar sus decisiones de compra."
+                "x": "Con el arranque de las rebajas de Black Friday, la Australian Competition and Consumer Commission pidió a los compradores contrastar lo que les dicen las herramientas de AI con fuentes fiables y fijar límites firmes antes de dejar que un agente de AI compre algo. Mencionó tres agentes ya presentes en el mercado australiano: Muse de Meta, ChatGPT dots de OpenAI y Google Tasks."
               },
               {
                 "t": "p",
-                "x": "\"Ahora la AI elabora la lista de candidatos semanas antes a partir de las fuentes en las que confían los compradores\", dijo Jonathan Verrall, vp de SEO en Jellyfish."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Brainlabs-share.png"
+                "x": "«Los resultados de la AI pueden estar equivocados», dijo la presidenta de la ACCC, Gina Cass-Gottlieb. «Los consumidores deben comprobarlos y fijar los puntos en los que quieren que el agente obtenga su aprobación». El regulador advirtió que puede que los agentes de AI «tampoco identifiquen con precisión que algo es una estafa»."
               },
               {
                 "t": "p",
-                "x": "Una encuesta de Brainlabs a 2,800 compradores de U.S. y U.K. encontró que la proporción que usa AI para investigar productos subió de media del 6% del año pasado al 13%."
+                "x": "«Las empresas son responsables de las acciones que realizan sus chatbots y agentes de AI», según el comunicado. Los derechos de garantía del consumidor no cambian cuando se usa AI, y las empresas responden por la información engañosa «ya la den empleados, por escrito o mediante herramientas de AI». Los proveedores de agentes de AI no deben engañar a los clientes sobre sus capacidades."
               },
               {
                 "t": "p",
-                "x": "Un estudio de Jellyfish sobre prompts de Black Friday en U.K. halló que las fuentes de terceros lideran las citas de la AI. PMG encontró que el sitio web de una marca aportó solo 24 de los 203 enlaces citados en respuestas de AI que recomendaban sus productos."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/Adclarity.png"
-              },
-              {
-                "t": "p",
-                "x": "AdClarity estimó que el gasto publicitario total en ChatGPT alcanzó $116.6 million en octubre, y que las marcas de U.S. representaron el 64%. Según Bain, el 42% de los consumidores usa herramientas de AI para investigar productos, aunque los compradores mayores van rezagados, según McKinsey."
-              },
-              {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/11/McKinsey.png"
+                "x": "La ACCC afirma que publicará «en los próximos meses» una actualización de su AI Industry Snapshot centrada en la AI agéntica y el comercio agéntico."
               }
             ]
           }
@@ -1249,491 +1079,281 @@
       }
     },
     {
-      "id": "danawa-chatgpt-mcp",
-      "source_lang": "ko",
+      "id": "obsession-agent-instock-test",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "다나와, 챗GPT에\n실시간 가격 연결",
-      "body": "다나와가 클로드에 이어 챗GPT에도 MCP로 실시간 상품·가격 정보를 연결했다.",
-      "mini_headline": "다나와, 챗GPT 연결",
+      "headline": "AI 쇼핑 에이전트,\n품절 상품을 계속 추천",
+      "body": "ob.session 시험서 400개 넘는 추천 링크 중 재고는 35%뿐이었다.",
+      "mini_headline": "AI 에이전트, 품절 상품 추천",
       "tool": "Marketing",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/industry/sb-founded/6365520",
+      "source": "InternetRetailing",
+      "url": "https://internetretailing.net/agentic-shopping-falls-short-as-ai-recommends-out-of-stock-products/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
-            "cap": "커넥트웨이브 다나와 챗GPT에 다나와 MCP서비스(커넥트웨이브 제공)"
+            "src": "https://internetretailing.net/wp-content/uploads/2026/11/ob.session_report_01-1.png",
+            "cap": "이미지 © ob.session"
           },
           {
             "t": "p",
-            "x": "커넥트웨이브(119860)의 가격비교 서비스 다나와가 챗GPT에 실시간 상품 정보를 연결하며 대화형 쇼핑 시장 공략에 나섰다. 소비자가 인공지능(AI)에 예산과 용도를 설명하면 구매 후보를 좁혀주는 방식이다."
+            "x": "Shopify 스토어용 실시간 상품 추천 엔진 ob.session이 ChatGPT, Gemini, Claude에게 가상의 고객 Laura 대신 쇼핑을 시켰다. UK 사이즈 10을 입는 Laura의 거주지는 프랑스, UK, 키프로스로 바꿔 가며 설정했다. 추천된 상품 링크는 하나하나 사이즈와 쇼핑 요청, 위치에 맞는지 확인했다."
           },
           {
             "t": "p",
-            "x": "25일 커넥트웨이브에 따르면 다나와는 오픈AI 챗GPT에 '다나와 MCP' 서비스를 개시했다. 지난 8월 앤트로픽의 클로드에 연동한 데 이어 적용 대상을 확대했다. MCP는 AI가 외부 데이터나 도구를 활용할 수 있도록 연결하는 표준 인터페이스다."
+            "x": "테스트한 상품 링크 400개 이상 가운데 LLMs가 추천한 상품에 재고가 있던 경우는 35%뿐이었다. Laura가 고른 상품을 맞는 사이즈와 위치로 내놓은 비율은 ChatGPT 45%, Gemini 33%, Claude 21%였다. 29%는 판매처에서 Laura 사이즈가 이미 품절이었다."
           },
           {
             "t": "p",
-            "x": "이용자는 챗GPT 설정의 앱 메뉴에서 다나와를 연결한 뒤 원하는 구매 조건을 입력하면 된다. 이를테면 \"원룸에서 사용할 10만 원 이하 전기히터를 추천해 줘\"라고 요청하면 다나와 데이터를 바탕으로 가격과 주요 사양, 판매처를 비교해 안내한다."
-          },
-          {
-            "t": "img",
-            "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
-            "cap": "커넥트웨이브 다나와 챗GPT에 다나와 MCP서비스 모바일(커넥트웨이브 제공)"
-          },
-          {
-            "t": "p",
-            "x": "챗GPT 연동을 확대한 배경에는 기존 이용자 흐름이 있다. 회사에 따르면 올해 1~10월 생성형 AI를 거쳐 다나와를 방문한 이용자의 약 74%가 챗GPT에서 유입됐다. 전체 방문자가 아닌 생성형 AI 경유 방문자 중 비중이다."
-          },
-          {
-            "t": "p",
-            "x": "클로드에서는 지난 8월 서비스 개시 이후 MCP 이용자가 5배 이상 늘었다."
-          },
-          {
-            "t": "p",
-            "x": "다나와는 국내 50개 이상 e커머스에서 가격·상품 정보를 실시간 수집하며 약 14억 개 상품 데이터베이스(DB)를 보유하고 있다. 회사는 인터넷·렌털·이사·인테리어·금융 등 생활 서비스로 AI 데이터 연계를 확대할 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "하우성 커넥트웨이브 다나와·에누리 사업대표는 \"가장 많은 이용자가 찾는 챗GPT에서도 다나와를 바로 쓸 수 있게 되면서 AI 이용자와의 접점이 더욱 확대됐다\"고 말했다."
+            "x": "ob.session 공동창업자이자 CCO인 Ksenia Sukhova는 \"추천하는 상품 대부분을 구할 수 없다면 사용자는 추천을 더는 믿지 않는다\"고 말했다. 리테일러에게는 사이트의 기계 판독용 버전에 사이즈별 재고를 넣고, 쇼핑객이 필터로 쓰는 속성을 모두 그 구조화된 버전에 노출하라고 권한다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "다나와, 챗GPT에\n실시간 가격 연결",
-          "body": "다나와가 클로드에 이어 챗GPT에도 MCP로 실시간 상품·가격 정보를 연결했다.",
-          "mini_headline": "다나와, 챗GPT 연결",
+        "en": {
+          "headline": "AI shopping agents keep\nrecommending sold-out items",
+          "body": "In an ob.session test of ChatGPT, Gemini and Claude, only 35% of over 400 recommended links were in stock.",
+          "mini_headline": "AI agents pick sold-out goods",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
-                "cap": "커넥트웨이브 다나와 챗GPT에 다나와 MCP서비스(커넥트웨이브 제공)"
+                "src": "https://internetretailing.net/wp-content/uploads/2026/11/ob.session_report_01-1.png",
+                "cap": "Image © ob.session"
               },
               {
                 "t": "p",
-                "x": "커넥트웨이브(119860)의 가격비교 서비스 다나와가 챗GPT에 실시간 상품 정보를 연결하며 대화형 쇼핑 시장 공략에 나섰다. 소비자가 인공지능(AI)에 예산과 용도를 설명하면 구매 후보를 좁혀주는 방식이다."
+                "x": "ob.session, a real-time product recommendation engine for Shopify stores, sent ChatGPT, Gemini and Claude shopping on behalf of a fictional customer, Laura, a UK size 10 shopper based variously in France, the UK and Cyprus. Every product link recommended was checked against her size, shopping brief and location."
               },
               {
                 "t": "p",
-                "x": "25일 커넥트웨이브에 따르면 다나와는 오픈AI 챗GPT에 '다나와 MCP' 서비스를 개시했다. 지난 8월 앤트로픽의 클로드에 연동한 데 이어 적용 대상을 확대했다. MCP는 AI가 외부 데이터나 도구를 활용할 수 있도록 연결하는 표준 인터페이스다."
+                "x": "Across more than 400 product links tested, the LLMs' recommendations were only in stock 35% of the time. ChatGPT delivered Laura's chosen item in the correct size and location 45% of the time, Gemini 33% and Claude 21%. In 29% of cases, the retailer had sold out of Laura's size."
               },
               {
                 "t": "p",
-                "x": "이용자는 챗GPT 설정의 앱 메뉴에서 다나와를 연결한 뒤 원하는 구매 조건을 입력하면 된다. 이를테면 \"원룸에서 사용할 10만 원 이하 전기히터를 추천해 줘\"라고 요청하면 다나와 데이터를 바탕으로 가격과 주요 사양, 판매처를 비교해 안내한다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
-                "cap": "커넥트웨이브 다나와 챗GPT에 다나와 MCP서비스 모바일(커넥트웨이브 제공)"
-              },
-              {
-                "t": "p",
-                "x": "챗GPT 연동을 확대한 배경에는 기존 이용자 흐름이 있다. 회사에 따르면 올해 1~10월 생성형 AI를 거쳐 다나와를 방문한 이용자의 약 74%가 챗GPT에서 유입됐다. 전체 방문자가 아닌 생성형 AI 경유 방문자 중 비중이다."
-              },
-              {
-                "t": "p",
-                "x": "클로드에서는 지난 8월 서비스 개시 이후 MCP 이용자가 5배 이상 늘었다."
-              },
-              {
-                "t": "p",
-                "x": "다나와는 국내 50개 이상 e커머스에서 가격·상품 정보를 실시간 수집하며 약 14억 개 상품 데이터베이스(DB)를 보유하고 있다. 회사는 인터넷·렌털·이사·인테리어·금융 등 생활 서비스로 AI 데이터 연계를 확대할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "하우성 커넥트웨이브 다나와·에누리 사업대표는 \"가장 많은 이용자가 찾는 챗GPT에서도 다나와를 바로 쓸 수 있게 되면서 AI 이용자와의 접점이 더욱 확대됐다\"고 말했다."
+                "x": "\"If most of the products they recommend aren't available, users stop believing the recommendations,\" said Ksenia Sukhova, co-founder and CCO of ob.session. She recommends retailers put size-level stock availability into the machine-readable version of the site and expose every attribute shoppers filter by in that structured version."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Danawa connects ChatGPT\nto real-time prices",
-          "body": "Following Claude, Danawa has connected real-time product and price data to ChatGPT through MCP.",
-          "mini_headline": "Danawa connects to ChatGPT",
+        "ko": {
+          "headline": "AI 쇼핑 에이전트,\n품절 상품을 계속 추천",
+          "body": "ob.session 시험서 400개 넘는 추천 링크 중 재고는 35%뿐이었다.",
+          "mini_headline": "AI 에이전트, 품절 상품 추천",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
-                "cap": "Connectwave's Danawa MCP service on ChatGPT (provided by Connectwave)"
+                "src": "https://internetretailing.net/wp-content/uploads/2026/11/ob.session_report_01-1.png",
+                "cap": "이미지 © ob.session"
               },
               {
                 "t": "p",
-                "x": "Danawa, the price comparison service of Connectwave (119860), has connected real-time product information to ChatGPT as it moves into the conversational shopping market. Consumers describe their budget and intended use to the artificial intelligence (AI), and it narrows down the purchase candidates."
+                "x": "Shopify 스토어용 실시간 상품 추천 엔진 ob.session이 ChatGPT, Gemini, Claude에게 가상의 고객 Laura 대신 쇼핑을 시켰다. UK 사이즈 10을 입는 Laura의 거주지는 프랑스, UK, 키프로스로 바꿔 가며 설정했다. 추천된 상품 링크는 하나하나 사이즈와 쇼핑 요청, 위치에 맞는지 확인했다."
               },
               {
                 "t": "p",
-                "x": "According to Connectwave on the 25th, Danawa launched its 'Danawa MCP' service on OpenAI's ChatGPT. The move widens its reach after the service was integrated with Anthropic's Claude in August. MCP is a standard interface that connects AI to external data and tools."
+                "x": "테스트한 상품 링크 400개 이상 가운데 LLMs가 추천한 상품에 재고가 있던 경우는 35%뿐이었다. Laura가 고른 상품을 맞는 사이즈와 위치로 내놓은 비율은 ChatGPT 45%, Gemini 33%, Claude 21%였다. 29%는 판매처에서 Laura 사이즈가 이미 품절이었다."
               },
               {
                 "t": "p",
-                "x": "Users connect Danawa from the Apps menu in ChatGPT settings and then enter the purchase conditions they want. For example, a request such as \"Recommend an electric heater under 100,000 won (10만 원) for a studio apartment\" returns a comparison of prices, key specs and sellers based on Danawa data."
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
-                "cap": "Connectwave's Danawa MCP service on ChatGPT, mobile (provided by Connectwave)"
-              },
-              {
-                "t": "p",
-                "x": "The wider ChatGPT integration builds on existing user flows. According to the company, about 74% of users who visited Danawa via generative AI between January and October this year came from ChatGPT. The figure is a share of visitors arriving via generative AI, not of all visitors."
-              },
-              {
-                "t": "p",
-                "x": "On Claude, MCP users have grown more than 5x since the service launched in August."
-              },
-              {
-                "t": "p",
-                "x": "Danawa collects price and product information in real time from more than 50 domestic e-commerce sites and holds a database (DB) of about 14억 (1.4 billion) products. The company plans to extend its AI data links to lifestyle services such as internet, rentals, moving, interiors and finance."
-              },
-              {
-                "t": "p",
-                "x": "Ha Woo-sung, head of the Danawa and Enuri business at Connectwave, said, \"Now that Danawa can be used directly on ChatGPT, which the most users turn to, our touchpoints with AI users have expanded further.\""
+                "x": "ob.session 공동창업자이자 CCO인 Ksenia Sukhova는 \"추천하는 상품 대부분을 구할 수 없다면 사용자는 추천을 더는 믿지 않는다\"고 말했다. 리테일러에게는 사이트의 기계 판독용 버전에 사이즈별 재고를 넣고, 쇼핑객이 필터로 쓰는 속성을 모두 그 구조화된 버전에 노출하라고 권한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ダナワがChatGPTに\nリアルタイム価格連携",
-          "body": "ダナワはClaudeに続き、ChatGPTにもMCPで商品・価格情報をリアルタイム連携した。",
-          "mini_headline": "ダナワ、ChatGPTと連携",
+          "headline": "AI買い物エージェントが\n売り切れ品を推し続ける",
+          "body": "ob.sessionの検証で、400超の推奨リンクのうち在庫ありは35%だけだった。",
+          "mini_headline": "AIエージェントが品切れ品を推奨",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
-                "cap": "コネクトウェーブのダナワ、ChatGPT向けダナワMCPサービス(コネクトウェーブ提供)"
+                "src": "https://internetretailing.net/wp-content/uploads/2026/11/ob.session_report_01-1.png",
+                "cap": "画像 © ob.session"
               },
               {
                 "t": "p",
-                "x": "コネクトウェーブ(119860)の価格比較サービス、ダナワがChatGPTにリアルタイムの商品情報を連携し、対話型ショッピング市場の攻略に乗り出した。消費者が人工知能(AI)に予算と用途を説明すると、購入候補を絞り込んでくれる仕組みだ。"
+                "x": "Shopifyストア向けのリアルタイム商品レコメンドエンジンであるob.sessionは、ChatGPT、Gemini、Claudeに架空の顧客Lauraの代わりに買い物をさせた。LauraはUKサイズ10の買い物客で、拠点をフランス、UK、キプロスと切り替えて設定した。推奨された商品リンクはすべて、彼女のサイズ、買い物の要望、所在地と照合した。"
               },
               {
                 "t": "p",
-                "x": "コネクトウェーブによると、ダナワは25日、OpenAIのChatGPTで「ダナワMCP」サービスを開始した。8月にAnthropicのClaudeと連携したのに続き、対象を広げた。MCPはAIが外部のデータやツールを活用できるようにつなぐ標準インターフェースだ。"
+                "x": "テストした400件を超える商品リンク全体で、LLMsの推奨が在庫ありだったのは35%にとどまった。Lauraが選んだ商品を正しいサイズと所在地で届けられた割合は、ChatGPTが45%、Geminiが33%、Claudeが21%だった。29%のケースでは、販売店でLauraのサイズが売り切れていた。"
               },
               {
                 "t": "p",
-                "x": "利用者はChatGPTの設定にあるアプリメニューでダナワを接続し、希望する購入条件を入力すればよい。例えば「ワンルームで使う10万ウォン以下の電気ヒーターを薦めて」と頼むと、ダナワのデータをもとに価格や主な仕様、販売店を比較して案内する。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
-                "cap": "コネクトウェーブのダナワ、ChatGPT向けダナワMCPサービスのモバイル画面(コネクトウェーブ提供)"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT連携を拡大した背景には、既存の利用者の流れがある。同社によると、今年1~10月に生成AIを経由してダナワを訪れた利用者の約74%がChatGPTから流入した。全訪問者ではなく、生成AI経由の訪問者に占める割合だ。"
-              },
-              {
-                "t": "p",
-                "x": "Claudeでは8月のサービス開始以降、MCPの利用者が5倍以上に増えた。"
-              },
-              {
-                "t": "p",
-                "x": "ダナワは国内50以上のeコマースから価格・商品情報をリアルタイムで収集し、約14億件の商品データベース(DB)を保有している。同社はインターネット・レンタル・引っ越し・インテリア・金融などの生活サービスへAIデータ連携を広げる計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "コネクトウェーブのダナワ・エヌリ事業代表、ハ・ウソン氏は「最も多くの利用者が使うChatGPTでもダナワをすぐに使えるようになり、AI利用者との接点がさらに広がった」と述べた。"
+                "x": "ob.sessionの共同創業者兼CCOのKsenia Sukhovaは「推奨する商品の大半が手に入らなければ、ユーザーは推奨を信じなくなる」と述べた。同氏は小売業者に対し、サイトの機械可読版にサイズ別の在庫状況を載せ、買い物客が絞り込みに使うあらゆる属性をその構造化版で公開するよう勧めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "比价平台Danawa\n接入ChatGPT实时价格",
-          "body": "继Claude之后，Danawa也通过MCP将实时商品与价格信息接入ChatGPT。",
-          "mini_headline": "Danawa接入ChatGPT",
+          "headline": "AI购物智能体\n频频推荐售罄商品",
+          "body": "ob.session测试发现，AI推荐的400多个商品链接中仅35%有货。",
+          "mini_headline": "AI智能体爱推售罄商品",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
-                "cap": "Connectwave旗下Danawa在ChatGPT上推出的Danawa MCP服务（Connectwave提供）"
+                "src": "https://internetretailing.net/wp-content/uploads/2026/11/ob.session_report_01-1.png",
+                "cap": "图片 © ob.session"
               },
               {
                 "t": "p",
-                "x": "Connectwave（119860）旗下比价服务Danawa将实时商品信息接入ChatGPT，进军对话式购物市场。消费者向人工智能（AI）说明预算和用途后，它会帮助缩小购买候选范围。"
+                "x": "面向Shopify店铺的实时商品推荐引擎ob.session，让ChatGPT、Gemini和Claude代表一位虚构顾客Laura购物。Laura穿UK 10码，所在地分别设定为法国、UK和塞浦路斯。每个被推荐的商品链接都按她的尺码、购物需求和所在地进行了核对。"
               },
               {
                 "t": "p",
-                "x": "据Connectwave 25日介绍，Danawa已在OpenAI的ChatGPT上推出“Danawa MCP”服务。继今年8月接入Anthropic的Claude之后，再次扩大了适用范围。MCP是让AI能够调用外部数据和工具的标准接口。"
+                "x": "在测试的400多个商品链接中，LLMs的推荐只有35%有货。ChatGPT以正确尺码和所在地交付Laura所选商品的比例为45%，Gemini为33%，Claude为21%。在29%的情况下，零售商的Laura尺码已售罄。"
               },
               {
                 "t": "p",
-                "x": "用户在ChatGPT设置的应用菜单中连接Danawa后，输入想要的购买条件即可。例如，提出“推荐一款单间用的10万韩元以下电暖器”，它就会根据Danawa数据比较价格、主要规格和卖家并给出建议。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
-                "cap": "Connectwave旗下Danawa在ChatGPT上的Danawa MCP服务移动端界面（Connectwave提供）"
-              },
-              {
-                "t": "p",
-                "x": "扩大ChatGPT接入的背后是现有的用户流向。据该公司介绍，今年1~10月经生成式AI访问Danawa的用户中，约74%来自ChatGPT。这一比例针对的是经生成式AI访问的用户，而非全部访客。"
-              },
-              {
-                "t": "p",
-                "x": "在Claude上，自8月服务上线以来，MCP用户增长了5倍以上。"
-              },
-              {
-                "t": "p",
-                "x": "Danawa从国内50多家电商实时收集价格和商品信息，拥有约14亿件商品的数据库（DB）。公司计划将AI数据联动扩展到网络、租赁、搬家、室内装修、金融等生活服务领域。"
-              },
-              {
-                "t": "p",
-                "x": "Connectwave Danawa·Enuri业务代表Ha Woo-sung表示：“在用户最多的ChatGPT上也能直接使用Danawa，与AI用户的接触点进一步扩大了。”"
+                "x": "ob.session联合创始人兼CCO Ksenia Sukhova表示：“如果它们推荐的大多数商品都买不到，用户就不再相信这些推荐。”她建议零售商将按尺码区分的库存信息放进网站的机器可读版本，并在该结构化版本中公开购物者用于筛选的每一项属性。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Danawa conecta ChatGPT\ncon precios en tiempo real",
-          "body": "Tras Claude, Danawa conectó también ChatGPT mediante MCP a su información de productos y precios en tiempo real.",
-          "mini_headline": "Danawa conecta con ChatGPT",
+          "headline": "Los agentes de compra con AI\nrecomiendan productos agotados",
+          "body": "En una prueba de ob.session con ChatGPT, Gemini y Claude, solo el 35% de más de 400 enlaces recomendados tenía stock.",
+          "mini_headline": "Los agentes de AI eligen productos agotados",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
-                "cap": "Servicio Danawa MCP de Connectwave en ChatGPT (cortesía de Connectwave)"
+                "src": "https://internetretailing.net/wp-content/uploads/2026/11/ob.session_report_01-1.png",
+                "cap": "Imagen © ob.session"
               },
               {
                 "t": "p",
-                "x": "Danawa, el servicio de comparación de precios de Connectwave (119860), conectó información de productos en tiempo real a ChatGPT para entrar en el mercado de las compras conversacionales. El consumidor explica a la inteligencia artificial (AI) su presupuesto y el uso previsto, y esta acota los candidatos de compra."
+                "x": "ob.session, un motor de recomendación de productos en tiempo real para tiendas de Shopify, puso a ChatGPT, Gemini y Claude a comprar en nombre de una clienta ficticia, Laura, que usa la talla 10 del UK y se ubicaba alternativamente en Francia, el UK y Chipre. Cada enlace de producto recomendado se comprobó según su talla, su encargo de compra y su ubicación."
               },
               {
                 "t": "p",
-                "x": "Según Connectwave, el día 25 Danawa lanzó el servicio 'Danawa MCP' en ChatGPT de OpenAI. Tras integrarse en agosto con Claude de Anthropic, amplió así su alcance. MCP es una interfaz estándar que conecta la AI con datos y herramientas externas."
+                "x": "En más de 400 enlaces de producto probados, las recomendaciones de los LLMs solo tenían stock el 35% de las veces. ChatGPT entregó el artículo elegido por Laura en la talla y ubicación correctas el 45% de las veces, Gemini el 33% y Claude el 21%. En el 29% de los casos, el minorista había agotado la talla de Laura."
               },
               {
                 "t": "p",
-                "x": "Los usuarios conectan Danawa desde el menú de apps en la configuración de ChatGPT y luego introducen sus condiciones de compra. Por ejemplo, si piden \"Recomiéndame una estufa eléctrica de menos de 100,000 wones (10만 원) para un estudio\", reciben una comparación de precios, especificaciones principales y vendedores basada en los datos de Danawa."
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
-                "cap": "Servicio Danawa MCP de Connectwave en ChatGPT, versión móvil (cortesía de Connectwave)"
-              },
-              {
-                "t": "p",
-                "x": "La ampliación a ChatGPT responde al flujo de usuarios existente. Según la empresa, alrededor del 74% de los usuarios que visitaron Danawa a través de AI generativa entre enero y octubre de este año llegó desde ChatGPT. Es la proporción entre los visitantes que llegan vía AI generativa, no entre todos los visitantes."
-              },
-              {
-                "t": "p",
-                "x": "En Claude, los usuarios de MCP se han multiplicado por más de 5 desde el lanzamiento del servicio en agosto."
-              },
-              {
-                "t": "p",
-                "x": "Danawa recopila en tiempo real información de precios y productos de más de 50 sitios de e-commerce nacionales y cuenta con una base de datos (DB) de unos 14억 (1,400 millones) de productos. La empresa planea extender la conexión de datos de AI a servicios cotidianos como internet, alquileres, mudanzas, interiorismo y finanzas."
-              },
-              {
-                "t": "p",
-                "x": "Ha Woo-sung, responsable de los negocios Danawa y Enuri en Connectwave, dijo: \"Ahora que Danawa puede usarse directamente en ChatGPT, al que acuden más usuarios, nuestros puntos de contacto con los usuarios de AI se han ampliado aún más\"."
+                "x": "«Si la mayoría de los productos que recomiendan no están disponibles, los usuarios dejan de creer en las recomendaciones», dijo Ksenia Sukhova, cofundadora y CCO de ob.session. Recomienda a los minoristas incluir la disponibilidad de stock por talla en la versión legible por máquina del sitio y exponer en esa versión estructurada todos los atributos por los que filtran los compradores."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Danawa connects ChatGPT\nto real-time prices",
-          "body": "Following Claude, Danawa has connected real-time product and price data to ChatGPT through MCP.",
-          "mini_headline": "Danawa connects to ChatGPT",
+        "ko": {
+          "headline": "AI 쇼핑 에이전트,\n품절 상품을 계속 추천",
+          "body": "ob.session 시험서 400개 넘는 추천 링크 중 35%만 재고가 있었다.",
+          "mini_headline": "AI 에이전트, 품절 상품 추천",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
-                "cap": "Connectwave's Danawa MCP service on ChatGPT (provided by Connectwave)"
+                "src": "https://internetretailing.net/wp-content/uploads/2026/11/ob.session_report_01-1.png",
+                "cap": "이미지 © ob.session"
               },
               {
                 "t": "p",
-                "x": "Danawa, the price comparison service of Connectwave (119860), has connected real-time product information to ChatGPT as it moves into the conversational shopping market. Consumers describe their budget and intended use to the artificial intelligence (AI), and it narrows down the purchase candidates."
+                "x": "Shopify 스토어용 실시간 상품 추천 엔진 ob.session은 ChatGPT, Gemini, Claude에게 가상의 고객 Laura를 대신해 쇼핑을 맡겼다. Laura는 UK 사이즈 10을 입는 쇼핑객으로, 거주지를 프랑스, UK, 키프로스로 바꿔 가며 설정했다. 추천된 모든 상품 링크는 그의 사이즈와 쇼핑 요청, 위치에 맞는지 확인했다."
               },
               {
                 "t": "p",
-                "x": "According to Connectwave on the 25th, Danawa launched its 'Danawa MCP' service on OpenAI's ChatGPT. The move widens its reach after the service was integrated with Anthropic's Claude in August. MCP is a standard interface that connects AI to external data and tools."
+                "x": "테스트한 상품 링크 400개 이상에서 LLMs의 추천에 재고가 있던 경우는 35%에 그쳤다. Laura가 고른 상품을 맞는 사이즈와 위치로 내놓은 비율은 ChatGPT 45%, Gemini 33%, Claude 21%였다. 29%는 판매처에서 Laura의 사이즈가 이미 품절된 경우였다."
               },
               {
                 "t": "p",
-                "x": "Users connect Danawa from the Apps menu in ChatGPT settings and then enter the purchase conditions they want. For example, a request such as \"Recommend an electric heater under 100,000 won (10만 원) for a studio apartment\" returns a comparison of prices, key specs and sellers based on Danawa data."
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
-                "cap": "Connectwave's Danawa MCP service on ChatGPT, mobile (provided by Connectwave)"
-              },
-              {
-                "t": "p",
-                "x": "The wider ChatGPT integration builds on existing user flows. According to the company, about 74% of users who visited Danawa via generative AI between January and October this year came from ChatGPT. The figure is a share of visitors arriving via generative AI, not of all visitors."
-              },
-              {
-                "t": "p",
-                "x": "On Claude, MCP users have grown more than 5x since the service launched in August."
-              },
-              {
-                "t": "p",
-                "x": "Danawa collects price and product information in real time from more than 50 domestic e-commerce sites and holds a database (DB) of about 14억 (1.4 billion) products. The company plans to extend its AI data links to lifestyle services such as internet, rentals, moving, interiors and finance."
-              },
-              {
-                "t": "p",
-                "x": "Ha Woo-sung, head of the Danawa and Enuri business at Connectwave, said, \"Now that Danawa can be used directly on ChatGPT, which the most users turn to, our touchpoints with AI users have expanded further.\""
+                "x": "ob.session의 공동창업자이자 CCO인 Ksenia Sukhova는 \"추천하는 상품 대부분을 구할 수 없다면 사용자는 추천을 더는 믿지 않는다\"고 말했다. 그는 리테일러들이 사이트의 기계 판독용 버전에 사이즈별 재고 정보를 넣고, 쇼핑객이 필터로 쓰는 모든 속성을 그 구조화된 버전에 노출하라고 권한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ダナワがChatGPTに\nリアルタイム価格連携",
-          "body": "ダナワはClaudeに続き、ChatGPTにもMCPで商品・価格情報をリアルタイム連携した。",
-          "mini_headline": "ダナワ、ChatGPTと連携",
+          "headline": "AI買い物エージェントが\n売り切れ品を推し続ける",
+          "body": "ob.sessionの検証で、400超の推奨リンクのうち在庫ありは35%だけだった。",
+          "mini_headline": "AIエージェントが品切れ品を推奨",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
-                "cap": "コネクトウェーブのダナワ、ChatGPT向けダナワMCPサービス(コネクトウェーブ提供)"
+                "src": "https://internetretailing.net/wp-content/uploads/2026/11/ob.session_report_01-1.png",
+                "cap": "画像 © ob.session"
               },
               {
                 "t": "p",
-                "x": "コネクトウェーブ(119860)の価格比較サービス、ダナワがChatGPTにリアルタイムの商品情報を連携し、対話型ショッピング市場の攻略に乗り出した。消費者が人工知能(AI)に予算と用途を説明すると、購入候補を絞り込んでくれる仕組みだ。"
+                "x": "Shopifyストア向けのリアルタイム商品レコメンドエンジンであるob.sessionは、ChatGPT、Gemini、Claudeに架空の顧客Lauraの代わりに買い物をさせた。LauraはUKサイズ10の買い物客で、拠点をフランス、UK、キプロスと切り替えて設定した。推奨された商品リンクはすべて、彼女のサイズ、買い物の要望、所在地と照合した。"
               },
               {
                 "t": "p",
-                "x": "コネクトウェーブによると、ダナワは25日、OpenAIのChatGPTで「ダナワMCP」サービスを開始した。8月にAnthropicのClaudeと連携したのに続き、対象を広げた。MCPはAIが外部のデータやツールを活用できるようにつなぐ標準インターフェースだ。"
+                "x": "テストした400件を超える商品リンク全体で、LLMsの推奨が在庫ありだったのは35%にとどまった。Lauraが選んだ商品を正しいサイズと所在地で届けられた割合は、ChatGPTが45%、Geminiが33%、Claudeが21%だった。29%のケースでは、販売店でLauraのサイズが売り切れていた。"
               },
               {
                 "t": "p",
-                "x": "利用者はChatGPTの設定にあるアプリメニューでダナワを接続し、希望する購入条件を入力すればよい。例えば「ワンルームで使う10万ウォン以下の電気ヒーターを薦めて」と頼むと、ダナワのデータをもとに価格や主な仕様、販売店を比較して案内する。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
-                "cap": "コネクトウェーブのダナワ、ChatGPT向けダナワMCPサービスのモバイル画面(コネクトウェーブ提供)"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT連携を拡大した背景には、既存の利用者の流れがある。同社によると、今年1~10月に生成AIを経由してダナワを訪れた利用者の約74%がChatGPTから流入した。全訪問者ではなく、生成AI経由の訪問者に占める割合だ。"
-              },
-              {
-                "t": "p",
-                "x": "Claudeでは8月のサービス開始以降、MCPの利用者が5倍以上に増えた。"
-              },
-              {
-                "t": "p",
-                "x": "ダナワは国内50以上のeコマースから価格・商品情報をリアルタイムで収集し、約14億件の商品データベース(DB)を保有している。同社はインターネット・レンタル・引っ越し・インテリア・金融などの生活サービスへAIデータ連携を広げる計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "コネクトウェーブのダナワ・エヌリ事業代表、ハ・ウソン氏は「最も多くの利用者が使うChatGPTでもダナワをすぐに使えるようになり、AI利用者との接点がさらに広がった」と述べた。"
+                "x": "ob.sessionの共同創業者兼CCOのKsenia Sukhovaは「推奨する商品の大半が手に入らなければ、ユーザーは推奨を信じなくなる」と述べた。同氏は小売業者に対し、サイトの機械可読版にサイズ別の在庫状況を載せ、買い物客が絞り込みに使うあらゆる属性をその構造化版で公開するよう勧めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "比价平台Danawa\n接入ChatGPT实时价格",
-          "body": "继Claude之后，Danawa也通过MCP将实时商品与价格信息接入ChatGPT。",
-          "mini_headline": "Danawa接入ChatGPT",
+          "headline": "AI购物智能体\n频频推荐售罄商品",
+          "body": "ob.session测试发现，AI推荐的400多个商品链接中仅35%有货。",
+          "mini_headline": "AI智能体爱推售罄商品",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
-                "cap": "Connectwave旗下Danawa在ChatGPT上推出的Danawa MCP服务（Connectwave提供）"
+                "src": "https://internetretailing.net/wp-content/uploads/2026/11/ob.session_report_01-1.png",
+                "cap": "图片 © ob.session"
               },
               {
                 "t": "p",
-                "x": "Connectwave（119860）旗下比价服务Danawa将实时商品信息接入ChatGPT，进军对话式购物市场。消费者向人工智能（AI）说明预算和用途后，它会帮助缩小购买候选范围。"
+                "x": "面向Shopify店铺的实时商品推荐引擎ob.session，让ChatGPT、Gemini和Claude代表一位虚构顾客Laura购物。Laura穿UK 10码，所在地分别设定为法国、UK和塞浦路斯。每个被推荐的商品链接都按她的尺码、购物需求和所在地进行了核对。"
               },
               {
                 "t": "p",
-                "x": "据Connectwave 25日介绍，Danawa已在OpenAI的ChatGPT上推出“Danawa MCP”服务。继今年8月接入Anthropic的Claude之后，再次扩大了适用范围。MCP是让AI能够调用外部数据和工具的标准接口。"
+                "x": "在测试的400多个商品链接中，LLMs的推荐只有35%有货。ChatGPT以正确尺码和所在地交付Laura所选商品的比例为45%，Gemini为33%，Claude为21%。在29%的情况下，零售商的Laura尺码已售罄。"
               },
               {
                 "t": "p",
-                "x": "用户在ChatGPT设置的应用菜单中连接Danawa后，输入想要的购买条件即可。例如，提出“推荐一款单间用的10万韩元以下电暖器”，它就会根据Danawa数据比较价格、主要规格和卖家并给出建议。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
-                "cap": "Connectwave旗下Danawa在ChatGPT上的Danawa MCP服务移动端界面（Connectwave提供）"
-              },
-              {
-                "t": "p",
-                "x": "扩大ChatGPT接入的背后是现有的用户流向。据该公司介绍，今年1~10月经生成式AI访问Danawa的用户中，约74%来自ChatGPT。这一比例针对的是经生成式AI访问的用户，而非全部访客。"
-              },
-              {
-                "t": "p",
-                "x": "在Claude上，自8月服务上线以来，MCP用户增长了5倍以上。"
-              },
-              {
-                "t": "p",
-                "x": "Danawa从国内50多家电商实时收集价格和商品信息，拥有约14亿件商品的数据库（DB）。公司计划将AI数据联动扩展到网络、租赁、搬家、室内装修、金融等生活服务领域。"
-              },
-              {
-                "t": "p",
-                "x": "Connectwave Danawa·Enuri业务代表Ha Woo-sung表示：“在用户最多的ChatGPT上也能直接使用Danawa，与AI用户的接触点进一步扩大了。”"
+                "x": "ob.session联合创始人兼CCO Ksenia Sukhova表示：“如果它们推荐的大多数商品都买不到，用户就不再相信这些推荐。”她建议零售商将按尺码区分的库存信息放进网站的机器可读版本，并在该结构化版本中公开购物者用于筛选的每一项属性。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Danawa conecta ChatGPT\ncon precios en tiempo real",
-          "body": "Tras Claude, Danawa conectó también ChatGPT mediante MCP a su información de productos y precios en tiempo real.",
-          "mini_headline": "Danawa conecta con ChatGPT",
+          "headline": "Los agentes de compra con AI\nrecomiendan productos agotados",
+          "body": "En una prueba de ob.session con ChatGPT, Gemini y Claude, solo el 35% de más de 400 enlaces recomendados tenía stock.",
+          "mini_headline": "Los agentes de AI eligen productos agotados",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i3n.news1.kr/system/photos/2026/11/25/8231934/high.jpg",
-                "cap": "Servicio Danawa MCP de Connectwave en ChatGPT (cortesía de Connectwave)"
+                "src": "https://internetretailing.net/wp-content/uploads/2026/11/ob.session_report_01-1.png",
+                "cap": "Imagen © ob.session"
               },
               {
                 "t": "p",
-                "x": "Danawa, el servicio de comparación de precios de Connectwave (119860), conectó información de productos en tiempo real a ChatGPT para entrar en el mercado de las compras conversacionales. El consumidor explica a la inteligencia artificial (AI) su presupuesto y el uso previsto, y esta acota los candidatos de compra."
+                "x": "ob.session, un motor de recomendación de productos en tiempo real para tiendas de Shopify, puso a ChatGPT, Gemini y Claude a comprar en nombre de una clienta ficticia, Laura, que usa la talla 10 del UK y se ubicaba alternativamente en Francia, el UK y Chipre. Cada enlace de producto recomendado se comprobó según su talla, su encargo de compra y su ubicación."
               },
               {
                 "t": "p",
-                "x": "Según Connectwave, el día 25 Danawa lanzó el servicio 'Danawa MCP' en ChatGPT de OpenAI. Tras integrarse en agosto con Claude de Anthropic, amplió así su alcance. MCP es una interfaz estándar que conecta la AI con datos y herramientas externas."
+                "x": "En más de 400 enlaces de producto probados, las recomendaciones de los LLMs solo tenían stock el 35% de las veces. ChatGPT entregó el artículo elegido por Laura en la talla y ubicación correctas el 45% de las veces, Gemini el 33% y Claude el 21%. En el 29% de los casos, el minorista había agotado la talla de Laura."
               },
               {
                 "t": "p",
-                "x": "Los usuarios conectan Danawa desde el menú de apps en la configuración de ChatGPT y luego introducen sus condiciones de compra. Por ejemplo, si piden \"Recomiéndame una estufa eléctrica de menos de 100,000 wones (10만 원) para un estudio\", reciben una comparación de precios, especificaciones principales y vendedores basada en los datos de Danawa."
-              },
-              {
-                "t": "img",
-                "src": "https://image.news1.kr/system/photos/2026/11/25/8231936/high.jpg",
-                "cap": "Servicio Danawa MCP de Connectwave en ChatGPT, versión móvil (cortesía de Connectwave)"
-              },
-              {
-                "t": "p",
-                "x": "La ampliación a ChatGPT responde al flujo de usuarios existente. Según la empresa, alrededor del 74% de los usuarios que visitaron Danawa a través de AI generativa entre enero y octubre de este año llegó desde ChatGPT. Es la proporción entre los visitantes que llegan vía AI generativa, no entre todos los visitantes."
-              },
-              {
-                "t": "p",
-                "x": "En Claude, los usuarios de MCP se han multiplicado por más de 5 desde el lanzamiento del servicio en agosto."
-              },
-              {
-                "t": "p",
-                "x": "Danawa recopila en tiempo real información de precios y productos de más de 50 sitios de e-commerce nacionales y cuenta con una base de datos (DB) de unos 14억 (1,400 millones) de productos. La empresa planea extender la conexión de datos de AI a servicios cotidianos como internet, alquileres, mudanzas, interiorismo y finanzas."
-              },
-              {
-                "t": "p",
-                "x": "Ha Woo-sung, responsable de los negocios Danawa y Enuri en Connectwave, dijo: \"Ahora que Danawa puede usarse directamente en ChatGPT, al que acuden más usuarios, nuestros puntos de contacto con los usuarios de AI se han ampliado aún más\"."
+                "x": "«Si la mayoría de los productos que recomiendan no están disponibles, los usuarios dejan de creer en las recomendaciones», dijo Ksenia Sukhova, cofundadora y CCO de ob.session. Recomienda a los minoristas incluir la disponibilidad de stock por talla en la versión legible por máquina del sitio y exponer en esa versión estructurada todos los atributos por los que filtran los compradores."
               }
             ]
           }
@@ -1741,15 +1361,15 @@
       }
     },
     {
-      "id": "iab-europe-agentic-playbook",
+      "id": "shopify-agentic-chargeback-proof",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "IAB Europe의\nAI 봇 90-day 계획",
-      "body": "IAB Europe는 12개 영역과 AI 용도 일곱, 과금 모델 여섯을 정리했다.",
-      "mini_headline": "IAB Europe의 90-day AI 계획",
+      "headline": "Shopify, 판매자용\nAI 주문 차지백 대비책",
+      "body": "Shopify가 11월 25일 AI 에이전트 주문의 차지백 대응 증거를 늘렸다.",
+      "mini_headline": "Shopify, 에이전트 차지백 대응",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/iab-europe-gives-publishers-a-90-day-plan-for-ai-bots-deals-and-ads/",
+      "source": "PYMNTS",
+      "url": "https://www.pymnts.com/commerce/ecommerce/2026/shopify-gives-merchants-proof-to-fight-agentic-order-chargebacks/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1757,179 +1377,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
-            "cap": "IAB Europe의 90-day AI 플레이북은 매체사에 7가지 AI 용도별로 규칙을 정하라고 하지만 가격은 내놓지 않는다"
+            "src": "https://www.pymnts.com/wp-content/uploads/2026/11/Shopify.jpeg"
           },
           {
             "t": "p",
-            "x": "IAB Europe는 11월 26일 Publisher Playbook for the Agentic Web을 공개했다. Publisher Content & AI Task Force와 AI Working Group이 BVDW Working Group 피드백을 받아 만든 22-slide짜리 인터랙티브 도구다."
+            "x": "Shopify는 수요일(11월 25일) 변경 로그에서 판매자가 에이전틱 주문의 차지백(지불 거절)에 쓸 수 있는 증거를 늘렸다고 밝혔다. AI 쇼핑 어시스턴트가 주문을 넣은 뒤 고객이 결제를 승인한 적 없다고 주장하는데, 판매자 기록으로는 고객이 무엇을 설정했는지 보여줄 수 없던 경우를 겨냥한 변경이다."
           },
           {
             "t": "p",
-            "x": "매체사는 12-area 자가 진단부터 한다. 영역마다 0~3점을 매겨 최대 36점이다. AI 접근 규칙을 정하기 전에는 트래픽을 다섯 가지로 나눈다. 사람의 상호작용, 검증된 유익한 자동화부터 미확인 자동화, 악의적·남용 트래픽까지다."
+            "x": "Shopify는 \"응답에는 고객이 어시스턴트에 설정한 지출 한도, 결제 시점에 기록된 결제 승인, 그리고 알려진 경우 어시스턴트의 이름이 담긴 결제 승인 기록(Payment authorization record)이 포함된다\"며 \"자동으로 추가되므로 따로 할 일은 없다\"고 설명했다."
           },
           {
             "t": "p",
-            "x": "플레이북은 사이트 전체에 AI 정책 하나를 두지 말고 일곱 가지 AI 용도를 하나씩 따로 정하라고 한다. 모델 학습, 인덱싱과 탐색, 그라운딩과 실시간 검색, 개체 추출, 에이전트 열람, 에이전트 행동, 광고 활용이다."
-          },
-          {
-            "t": "p",
-            "x": "\"Six ways to charge\" 항목은 정액 라이선스, 사용량 라이선스, 하이브리드, 구독 임베딩, 출처 표시 라이선스, 성과 라이선스 등 여섯 가지 라이선스 모델과 계약용 실사 질문 13개를 담았다. 끝에는 아홉 개 역할로 짠 거버넌스 구조와 정의된 지표 11개, 21-step 90-day 계획이 붙는다. 플레이북이 가격이나 요율, 표준 계약 조건까지 정하지는 않는다."
+            "x": "모든 차지백 사유에 대한 AI-written(AI가 작성한) 응답, 무단 구매 차지백용 결제 인증 증빙, 차지백 알림을 받을 직원을 고르는 기능도 새로 들어갔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "IAB Europe gives publishers\na 90-day plan for AI bots",
-          "body": "IAB Europe's playbook has publishers score 12 areas, set rules for seven AI uses and weigh six licensing models.",
-          "mini_headline": "IAB Europe's 90-day AI plan",
+          "headline": "Shopify arms merchants against\nAI agent order chargebacks",
+          "body": "A Nov. 25 Shopify changelog gives merchants more evidence to dispute chargebacks on orders placed by AI agents.",
+          "mini_headline": "Shopify fights agent chargebacks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
-                "cap": "IAB Europe's 90-day AI playbook asks publishers to set rules for 7 AI uses, but names no prices"
+                "src": "https://www.pymnts.com/wp-content/uploads/2026/11/Shopify.jpeg"
               },
               {
                 "t": "p",
-                "x": "IAB Europe on November 26 released the Publisher Playbook for the Agentic Web, an interactive 22-slide tool developed by its Publisher Content & AI Task Force and AI Working Group, with feedback from BVDW's Working Group."
+                "x": "Shopify now provides its merchants with more evidence for chargebacks on agentic orders, the company said in a Wednesday (Nov. 25) entry on its changelog. The change addresses cases where an AI shopping assistant placed an order, the customer later said they didn't authorize the payment and the merchant's records couldn't show what the customer set up."
               },
               {
                 "t": "p",
-                "x": "Publishers start with a 12-area self-assessment, each scored 0 to 3 for a maximum of 36 points. Traffic is sorted into five classes, from human interaction and verified beneficial automation to unknown automation and malicious or abusive, before any AI access rules are set."
+                "x": "\"The response includes a Payment authorization record with the spending limit that the customer set for the assistant, the payment approval that was recorded at checkout and the assistant's name when it's known,\" Shopify said. \"It's added automatically, so you don't need to do anything.\""
               },
               {
                 "t": "p",
-                "x": "Instead of one site-wide AI policy, the playbook asks for separate decisions on seven AI uses: model training, indexing and discovery, grounding and live retrieval, entity extraction, agent viewing, agent action and advertising use."
-              },
-              {
-                "t": "p",
-                "x": "Under \"Six ways to charge\" it lists six licensing models: flat licence, usage licence, hybrid, subscription embedding, attribution licence and outcome licence, plus 13 due diligence questions for contracts. It closes with a nine-role governance structure, 11 defined metrics and a 21-step, 90-day plan. The playbook sets no prices, rates or standard contract terms."
+                "x": "Shopify also added AI-written responses for every chargeback reason, payment verification proof for unauthorized-purchase chargebacks and staff selection for chargeback notifications."
               }
             ]
           }
         },
         "ko": {
-          "headline": "IAB Europe의\nAI 봇 90-day 계획",
-          "body": "IAB Europe는 12개 영역과 AI 용도 일곱, 과금 모델 여섯을 정리했다.",
-          "mini_headline": "IAB Europe의 90-day AI 계획",
+          "headline": "Shopify, 판매자용\nAI 주문 차지백 대비책",
+          "body": "Shopify가 11월 25일 AI 에이전트 주문의 차지백 대응 증거를 늘렸다.",
+          "mini_headline": "Shopify, 에이전트 차지백 대응",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
-                "cap": "IAB Europe의 90-day AI 플레이북은 매체사에 7가지 AI 용도별로 규칙을 정하라고 하지만 가격은 내놓지 않는다"
+                "src": "https://www.pymnts.com/wp-content/uploads/2026/11/Shopify.jpeg"
               },
               {
                 "t": "p",
-                "x": "IAB Europe는 11월 26일 Publisher Playbook for the Agentic Web을 공개했다. Publisher Content & AI Task Force와 AI Working Group이 BVDW Working Group 피드백을 받아 만든 22-slide짜리 인터랙티브 도구다."
+                "x": "Shopify는 수요일(11월 25일) 변경 로그에서 판매자가 에이전틱 주문의 차지백(지불 거절)에 쓸 수 있는 증거를 늘렸다고 밝혔다. AI 쇼핑 어시스턴트가 주문을 넣은 뒤 고객이 결제를 승인한 적 없다고 주장하는데, 판매자 기록으로는 고객이 무엇을 설정했는지 보여줄 수 없던 경우를 겨냥한 변경이다."
               },
               {
                 "t": "p",
-                "x": "매체사는 12-area 자가 진단부터 한다. 영역마다 0~3점을 매겨 최대 36점이다. AI 접근 규칙을 정하기 전에는 트래픽을 다섯 가지로 나눈다. 사람의 상호작용, 검증된 유익한 자동화부터 미확인 자동화, 악의적·남용 트래픽까지다."
+                "x": "Shopify는 \"응답에는 고객이 어시스턴트에 설정한 지출 한도, 결제 시점에 기록된 결제 승인, 그리고 알려진 경우 어시스턴트의 이름이 담긴 결제 승인 기록(Payment authorization record)이 포함된다\"며 \"자동으로 추가되므로 따로 할 일은 없다\"고 설명했다."
               },
               {
                 "t": "p",
-                "x": "플레이북은 사이트 전체에 AI 정책 하나를 두지 말고 일곱 가지 AI 용도를 하나씩 따로 정하라고 한다. 모델 학습, 인덱싱과 탐색, 그라운딩과 실시간 검색, 개체 추출, 에이전트 열람, 에이전트 행동, 광고 활용이다."
-              },
-              {
-                "t": "p",
-                "x": "\"Six ways to charge\" 항목은 정액 라이선스, 사용량 라이선스, 하이브리드, 구독 임베딩, 출처 표시 라이선스, 성과 라이선스 등 여섯 가지 라이선스 모델과 계약용 실사 질문 13개를 담았다. 끝에는 아홉 개 역할로 짠 거버넌스 구조와 정의된 지표 11개, 21-step 90-day 계획이 붙는다. 플레이북이 가격이나 요율, 표준 계약 조건까지 정하지는 않는다."
+                "x": "모든 차지백 사유에 대한 AI-written(AI가 작성한) 응답, 무단 구매 차지백용 결제 인증 증빙, 차지백 알림을 받을 직원을 고르는 기능도 새로 들어갔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "IAB Europeが示す\nAIボット90-day計画",
-          "body": "IAB Europeは12領域の評価、AI用途七つの規則、課金モデル六つを示した。",
-          "mini_headline": "IAB Europeの90-day AI計画",
+          "headline": "Shopify、AI注文の\nチャージバック対策を強化",
+          "body": "Shopifyは11月25日、AIエージェント注文のチャージバック反証材料を増やした。",
+          "mini_headline": "Shopify、エージェント注文のチャージバック対策",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
-                "cap": "IAB Europeの90-day AIプレイブックは、パブリッシャーに7つのAI用途ごとのルール設定を求めるが、価格は示していない"
+                "src": "https://www.pymnts.com/wp-content/uploads/2026/11/Shopify.jpeg"
               },
               {
                 "t": "p",
-                "x": "IAB Europeは11月26日、Publisher Playbook for the Agentic Webを公開した。Publisher Content & AI Task ForceとAI Working Groupが、BVDW Working Groupの意見を取り入れて開発した22-slideのインタラクティブなツールだ。"
+                "x": "Shopifyは水曜日（11月25日）の変更履歴で、エージェント経由の注文に対するチャージバックについて、販売者により多くの証拠を提供するようになったと明らかにした。AIショッピングアシスタントが注文し、後に顧客が支払いを承認していないと主張し、販売者の記録では顧客が何を設定したのか示せなかったケースに対応する。"
               },
               {
                 "t": "p",
-                "x": "パブリッシャーはまず12-areaの自己評価から始め、各項目を0~3点で採点し、最高36点となる。AIアクセスのルールを定める前に、トラフィックを人間による操作、検証済みの有益な自動化から、不明な自動化、悪意ある・不正なものまで五つに分類する。"
+                "x": "Shopifyは「回答には、顧客がアシスタントに設定した支出上限、チェックアウト時に記録された支払い承認、判明している場合はアシスタントの名前を含むPayment authorization record（支払い承認記録）が含まれる」とし、「自動で追加されるため、何もする必要はない」と述べた。"
               },
               {
                 "t": "p",
-                "x": "プレイブックはサイト全体で一つのAIポリシーを設けるのではなく、モデル学習、インデックス作成と発見、グラウンディングとライブ検索、エンティティ抽出、エージェントによる閲覧、エージェントによる操作、広告利用という七つのAI用途について個別に判断するよう求めている。"
-              },
-              {
-                "t": "p",
-                "x": "「Six ways to charge」では、定額ライセンス、利用量ライセンス、ハイブリッド、サブスクリプション組み込み、帰属ライセンス、成果ライセンスの六つのライセンスモデルと、契約に関する13のデューデリジェンス質問を挙げる。最後は九つの役割からなるガバナンス体制、定義済みの11指標、21-stepの90-day計画で締めくくる。プレイブックは価格や料率、標準的な契約条件を定めていない。"
+                "x": "Shopifyはさらに、あらゆるチャージバック理由に対するAI-written（AIが作成した）回答、不正購入のチャージバック向けの支払い認証の証明、チャージバック通知を受け取るスタッフの選択機能も追加した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "IAB Europe给出版商\nAI机器人90-day计划",
-          "body": "IAB Europe手册让出版商评估12个领域、为七种AI用途定规则并权衡六种授权模式。",
-          "mini_headline": "IAB Europe的90-day AI计划",
+          "headline": "Shopify助商家应对\nAI智能体订单拒付",
+          "body": "Shopify在11月25日的更新日志中，为商家提供更多证据以申诉AI智能体订单的拒付。",
+          "mini_headline": "Shopify助商家应对智能体拒付",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
-                "cap": "IAB Europe的90-day AI手册要求出版商为7种AI用途制定规则，但未给出价格"
+                "src": "https://www.pymnts.com/wp-content/uploads/2026/11/Shopify.jpeg"
               },
               {
                 "t": "p",
-                "x": "IAB Europe于11月26日发布了Publisher Playbook for the Agentic Web，这是一款22-slide的交互式工具，由其Publisher Content & AI Task Force和AI Working Group开发，并吸纳了BVDW Working Group的反馈。"
+                "x": "Shopify在周三（11月25日）的更新日志中表示，现在会为商家提供更多针对智能体订单拒付的证据。此次调整针对的情形是：AI购物助手下了订单，顾客事后称未授权付款，而商家的记录无法证明顾客当初做了哪些设置。"
               },
               {
                 "t": "p",
-                "x": "出版商首先进行12-area自我评估，每项按0到3分打分，满分36分。在制定任何AI访问规则之前，流量会被分为五类：从人类互动、经验证的有益自动化，到未知自动化以及恶意或滥用流量。"
+                "x": "Shopify表示：“回复中包含一份Payment authorization record（付款授权记录），其中有顾客为助手设定的消费上限、结账时记录的付款批准，以及已知情况下助手的名称。”“它会自动添加，您无需进行任何操作。”"
               },
               {
                 "t": "p",
-                "x": "手册不采用单一的全站AI政策，而是要求就七种AI用途分别作出决定：模型训练、索引与发现、溯源与实时检索、实体提取、代理浏览、代理操作以及广告用途。"
-              },
-              {
-                "t": "p",
-                "x": "在“Six ways to charge”部分，手册列出了六种授权模式：固定授权、按用量授权、混合模式、订阅嵌入、署名授权和成果授权，另附13个合同尽职调查问题。最后是由九个角色组成的治理结构、11项定义指标以及21-step的90-day计划。手册未设定任何价格、费率或标准合同条款。"
+                "x": "Shopify还为每种拒付原因新增了AI-written（AI撰写）回复，为未授权购买类拒付提供付款验证证明，并支持选择接收拒付通知的员工。"
               }
             ]
           }
         },
         "es": {
-          "headline": "IAB Europe da a los editores\nun plan 90-day para bots de AI",
-          "body": "IAB Europe pide a los editores puntuar 12 áreas, regular siete usos de AI y valorar seis modelos de licencia.",
-          "mini_headline": "El plan 90-day de IAB Europe para la AI",
+          "headline": "Shopify ayuda a los comercios\nante contracargos de agentes AI",
+          "body": "El 25 de noviembre, Shopify dio a los comercios más pruebas frente a contracargos de pedidos hechos por agentes de AI.",
+          "mini_headline": "Shopify combate los contracargos de agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
-                "cap": "El manual de AI 90-day de IAB Europe pide a los editores fijar reglas para 7 usos de AI, pero no menciona precios"
+                "src": "https://www.pymnts.com/wp-content/uploads/2026/11/Shopify.jpeg"
               },
               {
                 "t": "p",
-                "x": "IAB Europe publicó el 26 de noviembre la Publisher Playbook for the Agentic Web, una herramienta interactiva 22-slide desarrollada por su Publisher Content & AI Task Force y su AI Working Group, con aportaciones del Working Group de BVDW."
+                "x": "Shopify ofrece ahora a sus comercios más pruebas ante contracargos en pedidos agénticos, según indicó la compañía el miércoles (25 de noviembre) en su registro de cambios. El cambio aborda los casos en que un asistente de compra con AI hizo un pedido, el cliente dijo después que no había autorizado el pago y los registros del comercio no podían mostrar lo que el cliente había configurado."
               },
               {
                 "t": "p",
-                "x": "Los editores empiezan con una autoevaluación 12-area en la que cada área se puntúa de 0 a 3, hasta un máximo de 36 puntos. El tráfico se clasifica en cinco clases, desde la interacción humana y la automatización beneficiosa verificada hasta la automatización desconocida y la maliciosa o abusiva, antes de fijar cualquier regla de acceso para la AI."
+                "x": "«La respuesta incluye un Payment authorization record con el límite de gasto que el cliente fijó para el asistente, la aprobación del pago registrada en el checkout y el nombre del asistente cuando se conoce», dijo Shopify. «Se añade automáticamente, así que no necesitas hacer nada»."
               },
               {
                 "t": "p",
-                "x": "En lugar de una única política de AI para todo el sitio, el manual pide decisiones separadas sobre siete usos de AI: entrenamiento de modelos, indexación y descubrimiento, grounding y recuperación en vivo, extracción de entidades, visualización por agentes, acción de agentes y uso publicitario."
-              },
-              {
-                "t": "p",
-                "x": "En \"Six ways to charge\" enumera seis modelos de licencia: licencia fija, licencia por uso, híbrida, integración en suscripción, licencia por atribución y licencia por resultados, además de 13 preguntas de diligencia debida para los contratos. Cierra con una estructura de gobernanza de nueve funciones, 11 métricas definidas y un plan 90-day de 21-step. El manual no fija precios, tarifas ni condiciones contractuales estándar."
+                "x": "Shopify también añadió respuestas AI-written para cada motivo de contracargo, pruebas de verificación de pago para contracargos por compras no autorizadas y la selección del personal que recibe las notificaciones de contracargos."
               }
             ]
           }
@@ -1937,125 +1527,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "IAB Europe의\nAI 봇 90-day 계획",
-          "body": "IAB Europe는 12개 영역과 AI 용도 일곱, 과금 모델 여섯을 정리했다.",
-          "mini_headline": "IAB Europe의 90-day AI 계획",
+          "headline": "Shopify, 판매자용\nAI 주문 차지백 대비책",
+          "body": "Shopify는 11월 25일 AI 에이전트 주문 차지백 대응 증거를 늘렸다.",
+          "mini_headline": "Shopify, 에이전트 차지백 대응",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
-                "cap": "IAB Europe의 90-day AI 플레이북은 매체사에 7가지 AI 용도별 규칙을 정하라고 요구하지만, 가격은 제시하지 않는다"
+                "src": "https://www.pymnts.com/wp-content/uploads/2026/11/Shopify.jpeg"
               },
               {
                 "t": "p",
-                "x": "IAB Europe는 11월 26일 Publisher Playbook for the Agentic Web을 공개했다. Publisher Content & AI Task Force와 AI Working Group이 BVDW Working Group의 피드백을 받아 만든 22-slide 분량의 인터랙티브 도구다."
+                "x": "Shopify는 수요일(11월 25일) 변경 로그를 통해 이제 판매자에게 에이전틱 주문의 차지백(지불 거절)에 쓸 증거를 더 많이 제공한다고 밝혔다. 이번 변경은 AI 쇼핑 어시스턴트가 주문을 넣은 뒤 고객이 결제를 승인하지 않았다고 주장하고, 판매자 기록으로는 고객이 무엇을 설정했는지 보여줄 수 없던 사례를 겨냥한다."
               },
               {
                 "t": "p",
-                "x": "매체사는 먼저 12-area 자가 진단으로 시작하며, 각 영역은 0~3점으로 매겨 최대 36점이다. AI 접근 규칙을 정하기 전에 트래픽을 사람의 상호작용, 검증된 유익한 자동화부터 미확인 자동화, 악의적·남용 트래픽까지 다섯 가지로 분류한다."
+                "x": "Shopify는 \"응답에는 고객이 어시스턴트에 설정한 지출 한도, 결제 시점에 기록된 결제 승인, 그리고 알려진 경우 어시스턴트의 이름이 담긴 결제 승인 기록(Payment authorization record)이 포함된다\"며 \"자동으로 추가되므로 따로 할 일은 없다\"고 설명했다."
               },
               {
                 "t": "p",
-                "x": "플레이북은 사이트 전체에 하나의 AI 정책을 두는 대신, 모델 학습, 인덱싱과 탐색, 그라운딩과 실시간 검색, 개체 추출, 에이전트 열람, 에이전트 행동, 광고 활용 등 일곱 가지 AI 용도를 각각 따로 결정하라고 요구한다."
-              },
-              {
-                "t": "p",
-                "x": "\"Six ways to charge\" 항목에서는 정액 라이선스, 사용량 라이선스, 하이브리드, 구독 임베딩, 출처 표시 라이선스, 성과 라이선스 등 여섯 가지 라이선스 모델과 계약용 실사 질문 13개를 제시한다. 마지막은 아홉 개 역할로 짜인 거버넌스 구조, 정의된 지표 11개, 21-step 90-day 계획이다. 플레이북은 가격이나 요율, 표준 계약 조건을 정하지 않는다."
+                "x": "Shopify는 모든 차지백 사유에 대한 AI-written(AI가 작성한) 응답, 무단 구매 차지백용 결제 인증 증빙, 차지백 알림을 받을 직원 선택 기능도 추가했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "IAB Europeが示す\nAIボット90-day計画",
-          "body": "IAB Europeは12領域の評価、AI用途七つの規則、課金モデル六つを示した。",
-          "mini_headline": "IAB Europeの90-day AI計画",
+          "headline": "Shopify、AI注文の\nチャージバック対策を強化",
+          "body": "Shopifyは11月25日、AIエージェント注文のチャージバック反証材料を増やした。",
+          "mini_headline": "Shopify、エージェント注文のチャージバック対策",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
-                "cap": "IAB Europeの90-day AIプレイブックは、パブリッシャーに7つのAI用途ごとのルール設定を求めるが、価格は示していない"
+                "src": "https://www.pymnts.com/wp-content/uploads/2026/11/Shopify.jpeg"
               },
               {
                 "t": "p",
-                "x": "IAB Europeは11月26日、Publisher Playbook for the Agentic Webを公開した。Publisher Content & AI Task ForceとAI Working Groupが、BVDW Working Groupの意見を取り入れて開発した22-slideのインタラクティブなツールだ。"
+                "x": "Shopifyは水曜日（11月25日）の変更履歴で、エージェント経由の注文に対するチャージバックについて、販売者により多くの証拠を提供するようになったと明らかにした。AIショッピングアシスタントが注文し、後に顧客が支払いを承認していないと主張し、販売者の記録では顧客が何を設定したのか示せなかったケースに対応する。"
               },
               {
                 "t": "p",
-                "x": "パブリッシャーはまず12-areaの自己評価から始め、各項目を0~3点で採点し、最高36点となる。AIアクセスのルールを定める前に、トラフィックを人間による操作、検証済みの有益な自動化から、不明な自動化、悪意ある・不正なものまで五つに分類する。"
+                "x": "Shopifyは「回答には、顧客がアシスタントに設定した支出上限、チェックアウト時に記録された支払い承認、判明している場合はアシスタントの名前を含むPayment authorization record（支払い承認記録）が含まれる」とし、「自動で追加されるため、何もする必要はない」と述べた。"
               },
               {
                 "t": "p",
-                "x": "プレイブックはサイト全体で一つのAIポリシーを設けるのではなく、モデル学習、インデックス作成と発見、グラウンディングとライブ検索、エンティティ抽出、エージェントによる閲覧、エージェントによる操作、広告利用という七つのAI用途について個別に判断するよう求めている。"
-              },
-              {
-                "t": "p",
-                "x": "「Six ways to charge」では、定額ライセンス、利用量ライセンス、ハイブリッド、サブスクリプション組み込み、帰属ライセンス、成果ライセンスの六つのライセンスモデルと、契約に関する13のデューデリジェンス質問を挙げる。最後は九つの役割からなるガバナンス体制、定義済みの11指標、21-stepの90-day計画で締めくくる。プレイブックは価格や料率、標準的な契約条件を定めていない。"
+                "x": "Shopifyはさらに、あらゆるチャージバック理由に対するAI-written（AIが作成した）回答、不正購入のチャージバック向けの支払い認証の証明、チャージバック通知を受け取るスタッフの選択機能も追加した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "IAB Europe给出版商\nAI机器人90-day计划",
-          "body": "IAB Europe手册让出版商评估12个领域、为七种AI用途定规则并权衡六种授权模式。",
-          "mini_headline": "IAB Europe的90-day AI计划",
+          "headline": "Shopify助商家应对\nAI智能体订单拒付",
+          "body": "Shopify在11月25日的更新日志中，为商家提供更多证据以申诉AI智能体订单的拒付。",
+          "mini_headline": "Shopify助商家应对智能体拒付",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
-                "cap": "IAB Europe的90-day AI手册要求出版商为7种AI用途制定规则，但未给出价格"
+                "src": "https://www.pymnts.com/wp-content/uploads/2026/11/Shopify.jpeg"
               },
               {
                 "t": "p",
-                "x": "IAB Europe于11月26日发布了Publisher Playbook for the Agentic Web，这是一款22-slide的交互式工具，由其Publisher Content & AI Task Force和AI Working Group开发，并吸纳了BVDW Working Group的反馈。"
+                "x": "Shopify在周三（11月25日）的更新日志中表示，现在会为商家提供更多针对智能体订单拒付的证据。此次调整针对的情形是：AI购物助手下了订单，顾客事后称未授权付款，而商家的记录无法证明顾客当初做了哪些设置。"
               },
               {
                 "t": "p",
-                "x": "出版商首先进行12-area自我评估，每项按0到3分打分，满分36分。在制定任何AI访问规则之前，流量会被分为五类：从人类互动、经验证的有益自动化，到未知自动化以及恶意或滥用流量。"
+                "x": "Shopify表示：“回复中包含一份Payment authorization record（付款授权记录），其中有顾客为助手设定的消费上限、结账时记录的付款批准，以及已知情况下助手的名称。”“它会自动添加，您无需进行任何操作。”"
               },
               {
                 "t": "p",
-                "x": "手册不采用单一的全站AI政策，而是要求就七种AI用途分别作出决定：模型训练、索引与发现、溯源与实时检索、实体提取、代理浏览、代理操作以及广告用途。"
-              },
-              {
-                "t": "p",
-                "x": "在“Six ways to charge”部分，手册列出了六种授权模式：固定授权、按用量授权、混合模式、订阅嵌入、署名授权和成果授权，另附13个合同尽职调查问题。最后是由九个角色组成的治理结构、11项定义指标以及21-step的90-day计划。手册未设定任何价格、费率或标准合同条款。"
+                "x": "Shopify还为每种拒付原因新增了AI-written（AI撰写）回复，为未授权购买类拒付提供付款验证证明，并支持选择接收拒付通知的员工。"
               }
             ]
           }
         },
         "es": {
-          "headline": "IAB Europe da a los editores\nun plan 90-day para bots de AI",
-          "body": "IAB Europe pide a los editores puntuar 12 áreas, regular siete usos de AI y valorar seis modelos de licencia.",
-          "mini_headline": "El plan 90-day de IAB Europe para la AI",
+          "headline": "Shopify ayuda a los comercios\nante contracargos de agentes AI",
+          "body": "El 25 de noviembre, Shopify dio a los comercios más pruebas frente a contracargos de pedidos hechos por agentes de AI.",
+          "mini_headline": "Shopify combate los contracargos de agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
-                "cap": "El manual de AI 90-day de IAB Europe pide a los editores fijar reglas para 7 usos de AI, pero no menciona precios"
+                "src": "https://www.pymnts.com/wp-content/uploads/2026/11/Shopify.jpeg"
               },
               {
                 "t": "p",
-                "x": "IAB Europe publicó el 26 de noviembre la Publisher Playbook for the Agentic Web, una herramienta interactiva 22-slide desarrollada por su Publisher Content & AI Task Force y su AI Working Group, con aportaciones del Working Group de BVDW."
+                "x": "Shopify ofrece ahora a sus comercios más pruebas ante contracargos en pedidos agénticos, según indicó la compañía el miércoles (25 de noviembre) en su registro de cambios. El cambio aborda los casos en que un asistente de compra con AI hizo un pedido, el cliente dijo después que no había autorizado el pago y los registros del comercio no podían mostrar lo que el cliente había configurado."
               },
               {
                 "t": "p",
-                "x": "Los editores empiezan con una autoevaluación 12-area en la que cada área se puntúa de 0 a 3, hasta un máximo de 36 puntos. El tráfico se clasifica en cinco clases, desde la interacción humana y la automatización beneficiosa verificada hasta la automatización desconocida y la maliciosa o abusiva, antes de fijar cualquier regla de acceso para la AI."
+                "x": "«La respuesta incluye un Payment authorization record con el límite de gasto que el cliente fijó para el asistente, la aprobación del pago registrada en el checkout y el nombre del asistente cuando se conoce», dijo Shopify. «Se añade automáticamente, así que no necesitas hacer nada»."
               },
               {
                 "t": "p",
-                "x": "En lugar de una única política de AI para todo el sitio, el manual pide decisiones separadas sobre siete usos de AI: entrenamiento de modelos, indexación y descubrimiento, grounding y recuperación en vivo, extracción de entidades, visualización por agentes, acción de agentes y uso publicitario."
-              },
-              {
-                "t": "p",
-                "x": "En \"Six ways to charge\" enumera seis modelos de licencia: licencia fija, licencia por uso, híbrida, integración en suscripción, licencia por atribución y licencia por resultados, además de 13 preguntas de diligencia debida para los contratos. Cierra con una estructura de gobernanza de nueve funciones, 11 métricas definidas y un plan 90-day de 21-step. El manual no fija precios, tarifas ni condiciones contractuales estándar."
+                "x": "Shopify también añadió respuestas AI-written para cada motivo de contracargo, pruebas de verificación de pago para contracargos por compras no autorizadas y la selección del personal que recibe las notificaciones de contracargos."
               }
             ]
           }

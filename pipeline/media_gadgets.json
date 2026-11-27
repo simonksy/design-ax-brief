@@ -1,26 +1,31 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "gadgets",
   "media": [
     {
-      "id": "xpeng-iron-humanoid-ev-price",
+      "id": "sharp-simple-smartphone8",
       "type": "image",
-      "src": "pipeline/media/xpeng-iron-humanoid-ev-price.jpg"
+      "src": "pipeline/media/sharp-simple-smartphone8.jpg"
     },
     {
-      "id": "hp-omnibook-ultra16-rtxspark",
+      "id": "xda-esp32-agent-test",
       "type": "image",
-      "src": "pipeline/media/hp-omnibook-ultra16-rtxspark.png"
+      "src": "pipeline/media/xda-esp32-agent-test.jpg"
     },
     {
-      "id": "usc-stress-ring-ondevice",
+      "id": "moe-smartglasses-detect",
       "type": "image",
-      "src": "pipeline/media/usc-stress-ring-ondevice.jpg"
+      "src": "pipeline/media/moe-smartglasses-detect.jpg"
     },
     {
-      "id": "meta-glasses-south-africa-launch",
+      "id": "sheiko-gpsfree-autopilot",
       "type": "image",
-      "src": "pipeline/media/meta-glasses-south-africa-launch.jpg"
+      "src": "pipeline/media/sheiko-gpsfree-autopilot.jpg"
+    },
+    {
+      "id": "s27-oneui95-ai-teardown",
+      "type": "image",
+      "src": "pipeline/media/s27-oneui95-ai-teardown.jpg"
     }
   ]
 }

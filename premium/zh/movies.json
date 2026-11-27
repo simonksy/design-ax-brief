@@ -12143,6 +12143,106 @@
           "x": "The Verge认为，这一构想与艺术体验的价值背道而驰，还会让观众疏远任何并非按其假定口味打造的作品。"
         }
       ]
+    },
+    "movies/curious-refuge-tarmac-animation": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "dRDU8HXVzi8"
+        },
+        {
+          "t": "p",
+          "x": "学习如何用AI制作专业级2D动画。Albert Bozesan详细拆解他制作动画情景喜剧Tarmac所用的工作流，从打造可复用的角色素材，到在Seedance 2.0中生成完整的对白场景。"
+        },
+        {
+          "t": "p",
+          "x": "你将学到如何让角色在不同镜头间保持一致、如何在Photoshop中搭建分层关键帧，以及如何借助参考图和录好的对白来控制表情、节奏与剪辑点。同一套素材库可以在场景之间沿用，节省制作时间和生成额度。"
+        },
+        {
+          "t": "p",
+          "x": "章节：为什么AI动画看起来像AI · Tarmac如何跨集复用素材 · 录制干净的对白 · 关键帧、表情表与道具参考 · 在Photoshop中搭建分层关键帧 · 制作角色转面图 · 控制表情与视线 · 将角色合成进镜头 · 添加景深 · 用Seedance 2.0让场景动起来 · 为对白、反应和剪辑撰写提示词。"
+        }
+      ]
+    },
+    "movies/4by4-pixell-cgv-4k-films": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/f7ul89_202611270248.jpg",
+          "cap": "THE COLLABORATION 2026海报。图片由Creative Mango提供"
+        },
+        {
+          "t": "p",
+          "x": "韩国内容AI公司4BY4利用自家AI PIXELL解决方案，为THE COLLABORATION 2026的三部AI电影提升画质并升级至 4K 分辨率。该项目让七位韩国电影导演与九位AI导演搭档合作。影片于11月27日在CGV狎鸥亭放映。"
+        },
+        {
+          "t": "p",
+          "x": "KOSDAQ-listed（在KOSDAQ上市）的内容AI公司4BY4于11月26日表示，公司赞助了这一由首尔独立电影节与Creative Mango联合主办的项目。其处理的作品包括Jang Cheol-soo执导的\"The Great Extinction\"、Shin Yeon-shick执导的\"Toe's Liver\"以及Park Shin-woo执导的\"Baldo Girl Time-Lag Attack: Happy Day\"。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/ip7kgm_202611270248.jpg",
+          "cap": "4BY4用AI PIXELL升级至 4K 的三部影片。图片：4BY4"
+        },
+        {
+          "t": "p",
+          "x": "AI PIXELL通过超分辨率放大、降噪和细节增强，提升低分辨率视频的清晰度与锐度。公司表示，AI生成（AI-generated）画面若原始分辨率和质感有限，在大银幕上可能显得模糊，因此专注于逐场景后期制作，将影片提升至 4K 以供影院放映。据Creative Mango介绍，导演们对效果非常满意。"
+        },
+        {
+          "t": "p",
+          "x": "影片于11月27日中午12点在首尔CGV狎鸥亭放映，随后举行技术主题演讲和导演对谈。4BY4计划扩大其在电影领域的画质业务。"
+        }
+      ]
+    },
+    "movies/variety-rian-johnson-ai-stance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2306414526_703a9f.jpg?w=1000&h=563&crop=1",
+          "cap": "2026年11月22日，Rian Johnson出席第23届Marrakech International Film Festival。（摄影：Aurore Marechal/Getty Images）"
+        },
+        {
+          "t": "p",
+          "x": "Rian Johnson一直是Hollywood对人工智能批评最直言不讳的人士之一，但这位电影人正在告诫人们不要“妖魔化”这项技术。"
+        },
+        {
+          "t": "p",
+          "x": "“如果某件事技术性极强，严格来说用到了某种形式的生成式AI，那它就该被禁止吗？”Johnson在Marrakech International Film Festival上向Variety发问，并举了视觉特效和数字胶片处理工具为例。他还提到Martin Scorsese因支持一款AI-powered分镜工具而遭到的强烈反对。“我就想，‘我们这是在干什么？’”"
+        },
+        {
+          "t": "p",
+          "x": "Johnson称赞了由Kathleen Kennedy与AFI院长Susan Ruskin牵头的一项倡议：“它的高明之处在于，不是把AI这个词当作铁板一块一味妖魔化，而是在问，‘好，我们实际上在讨论的是什么？’”不过他也表示，“认为去掉创作艺术过程中的摩擦就能让艺术变得更好，这种想法在我看来完全荒谬。”"
+        },
+        {
+          "t": "p",
+          "x": "他还表示，由Peter Dinklage主演的重新构想版“Poker Face”已经“安息”，目前他正在写一部sci-fi惊悚片的第二稿，希望明年开拍。"
+        }
+      ]
+    },
+    "movies/luma-brandkit-character-library": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+          "cap": "推出Brand Kit与Character Library"
+        },
+        {
+          "t": "p",
+          "x": "问任何一位守护品牌的人，为什么还没有100%投入AI，答案都一样：AI会即兴发挥。标志会略微走样，产品会多出原本没有的细节，品牌角色的脸到第三个场景就像换成了他的表亲。Luma推出两项功能来改变这一点：Brand Kit和Character Library。"
+        },
+        {
+          "t": "p",
+          "x": "把标志、字体和产品上传到Luma Brand Kit，之后的每一次生成都会遵循它们。如果没有正式的品牌规范，可以填入网站URL，由智能体生成一份草稿供你审阅。Brand Kit可以绑定到任意看板，作为所有生成内容的依据，Brand Kits的数量没有上限。"
+        },
+        {
+          "t": "p",
+          "x": "Assets是角色、虚拟形象和模特的数字资料库，保存面部、身体、服装、场景和表情的基准。角色可以在看板中用\"@\"引用，Luma表示已改进模型，让皮肤和头发看起来更加真实。"
+        },
+        {
+          "t": "p",
+          "x": "由于两项功能都内置于Luma的智能体创作系统，它们可以评估作品是否符合你设定的品牌和角色规则：用话题标签调用品牌套件，用@调用角色，把需求告诉Luma，再与智能体合作完成一个包含100个素材的营销活动。这些功能向所有Luma用户开放，并不限于Enterprise。"
+        }
+      ]
     }
   }
 }

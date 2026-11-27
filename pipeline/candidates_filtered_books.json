@@ -1,16 +1,23 @@
 {
   "section": "books",
-  "now_iso": "2026-11-26T22:01:09Z",
+  "now_iso": "2026-11-27T22:01:07Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Author denies allegations she used AI to write book after novel 'dropped by agent'",
-      "url": "https://www.thebookseller.com/news/author-denies-allegations-she-used-ai-to-write-book-after-novel-dropped-by-agent",
-      "source": "The Bookseller",
+      "title": "Early Drafts and Process Notes Prove Little to Nothing About Authors’ AI Use",
+      "url": "https://janefriedman.com/early-drafts-and-process-notes-prove-little-to-nothing-about-authors-ai-use/",
+      "source": "Jane Friedman",
       "category": "books",
-      "published_iso": "2026-11-26T16:00:00Z",
-      "excerpt": "Author Kathryn O'Connor Mertens has issued a statement denying allegations that she used AI to write her novel Wild Horse Country, saying she has drafts, handwritten notes and research to demonstrate she wrote the book herself.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
+      "published_iso": "2026-11-27T10:00:00+00:00",
+      "excerpt": "An author was dropped by her agent over suspected AI use despite showing 11 drafts and notes. But since writers can use AI throughout revision, process documents may prove less than they hope.",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/11/friedman_process_notes-social.png",
+      "history_match": {
+        "score": 0.181,
+        "date": "2026-11-27",
+        "url": "https://www.thebookseller.com/news/author-denies-allegations-she-used-ai-to-write-book-after-novel-dropped-by-agent",
+        "title": "Author denies allegations she used AI to write book after novel 'dropped by agent'",
+        "band": "related"
+      }
     },
     {
       "title": "'Keep it human': James McAvoy describes using AI for audio as 'food without calories'",
@@ -18,58 +25,51 @@
       "source": "The Bookseller",
       "category": "books",
       "published_iso": "2026-11-25T12:00:00Z",
-      "excerpt": "Speakies narrator winner James McAvoy (JD Kirk's Recall, Audible Originals) called on the audio industry to reject AI narration and 'keep it human'.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/688/qwe1.jpg"
+      "excerpt": "Actor, and winner of the 2026 British Audio Award for Best Performance: Narrator for his work on JD Kirk’s Recall (Audible Originals), James McAvoy has called for the industry to reject the use of AI in audio and “keep it human”.",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/688/qwe1.jpg",
+      "history_match": {
+        "score": 0.17,
+        "date": "2026-11-12",
+        "url": "https://www.koreajoongangdaily.com/lifestyle/a-human-touch-why-the-audiobook-industry-still-seeks-voice-actors-over-ai/12955839",
+        "title": "A 'human touch': Why the audiobook industry still seeks voice actors over AI",
+        "band": "related"
+      }
     },
     {
-      "title": "IPG partners with London Book Fair on AI training event",
-      "url": "https://www.thebookseller.com/news/ipg-partners-with-london-book-fair-on-ai-training-event",
+      "title": "Sarah Wynn-Williams warns 'AI witch hunts' are unsustainable in publishing",
+      "url": "https://www.thebookseller.com/news/sarah-wynn-williams-warns-ai-witch-hunts-are-unsustainable-in-publishing",
       "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-11-25T08:45:00Z",
-      "excerpt": "The Independent Publishers Guild has partnered with the London Book Fair to deliver a half-day training event on the use of artificial intelligence in publishing.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/George-Walkley1.jpg",
-      "history_match": {
-        "score": 0.189,
-        "date": "2026-10-30",
-        "url": "https://www.thebookseller.com/news/publishers-urge-us-court-to-reject-openais-fair-use-defence-in-copyright-case",
-        "title": "Publishers urge US court to reject OpenAI's fair use defence in copyright case",
-        "band": "related"
-      }
+      "published_iso": "2026-11-27T16:00:00Z",
+      "excerpt": "Careless People (Pan Macmillan) author Sarah Wynn-Williams has warned that what she described as “Pangram witch hunts” are unsustainable, calling for greater dialogue between authors, publishers, governments and the technology industry over the use of artificial intelligence.",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Untitled_design_91_Main.jpg"
     },
     {
-      "title": "Anthropic has started paying out its copyright settlement to authors",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1043087/anthropic-has-started-paying-out-its-copyright-settlement-to-authors",
-      "source": "The Verge",
+      "title": "Minister for AI opens Winter Hay Festival with keynote on government's approach",
+      "url": "https://www.thebookseller.com/news/minister-for-ai-opens-winter-hay-festival-with-keynote-on-governments-approach",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-11-26T10:26:25+00:00",
-      "excerpt": "Novelist Courtney Milan says she has already received her share of Anthropic's $1.5B settlement; the full payout should be about $3,000 per book, with part still to come early next year.",
-      "og_image": null,
-      "history_match": {
-        "score": 0.226,
-        "date": "2026-11-21",
-        "url": "https://www.wargamer.com/dnd/anthropic-settlement",
-        "title": "Wizards of the Coast shares AI copyright settlement money with D&D's authors",
-        "band": "related"
-      }
+      "published_iso": "2026-11-27T16:00:00Z",
+      "excerpt": "The government’s Minister for Artificial Intelligence (AI) Kanishka Narayan laid out his approach and current perspective on AI in his keynote speech, opening Hay Festival’s Winter Weekend on Thursday 26th November 2026.",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/688/qwe7.jpg"
     },
     {
-      "title": "“헌책 6000권 사겠다”… ‘AI 학습용 의심’ 구매 문의에 출판계 촉각",
-      "url": "https://weekly.donga.com/society/article/all/11/6479530/1",
-      "source": "주간동아",
-      "category": "books",
-      "published_iso": "2026-11-27T07:00:02+09:00",
-      "excerpt": "서울 헌책방과 대형 서점에 신원 불명 업체의 6000권·10만 권 단위 대량 매입 문의가 잇따라, 출판계는 LLM 학습 데이터 확보용 매집을 의심하고 있다.",
-      "og_image": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6b/07/ea/90/6b07ea901363a0a0a0a.jpg"
-    },
-    {
-      "title": "Fan art, mangas et IA : France et Japon face à l'avenir de la création",
-      "url": "https://actualitte.com/article/135455/reportages/fan-art-mangas-et-ia-france-et-japon-face-a-l-avenir-de-la-creation",
+      "title": "Meta accusé d’avoir utilisé des dizaines de livres autochtones pour entraîner son IA",
+      "url": "https://actualitte.com/article/135512/legislation/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia",
       "source": "ActuaLitté",
       "category": "books",
-      "published_iso": "2026-11-25T17:00:00+01:00",
-      "excerpt": "Dans le dernier volet de son reportage au Japon, ActuaLitté compare comment éditeurs de manga français et japonais abordent fan art et IA générative dans la protection des œuvres.",
-      "og_image": "https://actualitte.com/uploads/images/fan-art-mangas-et-ia-france-et-japon-face-a-l-avenir-de-la-creation-6b06cdd45561d481989191.jpg"
+      "published_iso": "2026-11-27T11:07:00+01:00",
+      "excerpt": "Au moins 37 ouvrages publiés par Magabala Books auraient été exploités sans autorisation par Meta pour entraîner ses systèmes d’intelligence artificielle. Le 17 novembre, la directrice de cette maison australienne a exposé l’affaire auprès d’un rapporteur spécial des Nations unies. Elle réclame une évolution du droit d’auteur quri reconnaisse également aux peuples autochtones la maîtrise de leurs ",
+      "og_image": "https://actualitte.com/uploads/images/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia-6b09528f152a8581745199.jpg"
+    },
+    {
+      "title": "“On n'est pas des imprimeurs” : le ras-le-bol d'un éditeur",
+      "url": "https://actualitte.com/article/135349/edition/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur",
+      "source": "ActuaLitté",
+      "category": "books",
+      "published_iso": "2026-11-23T15:09:00+01:00",
+      "excerpt": "2500 manuscrits en attente, 80 nouveaux chaque semaine, et des textes générés par intelligence artificielle qui viennent grossir la pile. Aux Forges de Vulcain, la boîte déborde. David Meulemans a donc tranché : à partir du 1er décembre, les manuscrits ne seront plus acceptés pendant quatre mois. « On n'est pas des imprimeurs », résume-t-il auprès d'ActuaLitté. ",
+      "og_image": "https://actualitte.com/uploads/images/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur-6b04401d11d52457974346.jpg"
     },
     {
       "title": "“Corriger le texte d'une machine et traduire une œuvre sont deux gestes différents”",
@@ -77,47 +77,31 @@
       "source": "ActuaLitté",
       "category": "books",
       "published_iso": "2026-11-25T10:30:00+01:00",
-      "excerpt": "Face à l'irruption de l'IA dans la traduction littéraire, Rafael Patron plaide pour passer des principes à des engagements vérifiables entre éditeurs et traducteurs.",
+      "excerpt": "Face à l’irruption de l’intelligence artificielle dans la traduction littéraire, comment passer des principes aux engagements vérifiables ? Rafael Patron, président du comité technico-scientifique de l’Association italienne des professionnels de l’intelligence artificielle (AIPIA), plaide pour une responsabilisation des éditeurs : encadrement contractuel des usages, protection des traductions cont",
       "og_image": "https://actualitte.com/uploads/images/corriger-le-texte-d-une-machine-et-traduire-une-oeuvre-sont-deux-gestes-differents-6b06a332c0e04225872281.jpg"
     },
     {
-      "title": "Getbackers Voice Comic Staff Apologizes for Generative AI Use in PR Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-23/getbackers-voice-comic-staff-apologizes-for-generative-ai-use-in-pr-video/.244140",
-      "source": "Anime News Network",
-      "category": "books",
-      "published_iso": "2026-11-23T22:22:00+00:00",
-      "excerpt": "The Getbackers voice comic team apologized for undisclosed generative AI in a promo video, saying the voice comic itself (resuming Dec 1) will not use generative AI and that Kodansha had no role.",
-      "og_image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/cms/news.10/244140/getbackers.jpg",
-      "history_match": {
-        "score": 0.182,
-        "date": "2026-11-20",
-        "url": "https://www.animenewsnetwork.com/news/2026-11-19/getbackers-manga-gets-comic-anime-from-ai-platform-manganow-studio/.243992",
-        "title": "Getbackers Manga Gets Comic Anime From AI Platform MangaNow Studio",
-        "band": "related"
-      }
-    },
-    {
-      "title": "AI Training is Copyright Infringement: What Publishers Need to Know about Thomson Reuters v Ross Intelligence",
-      "url": "https://scholarlykitchen.sspnet.org/2026/11/20/ai-training-is-copyright-infringement-what-publishers-need-to-know-about-thomson-reuters-v-ross-intelligence/",
+      "title": "Just-in-Time Synthesis: A New Approach to an Old Genre",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/17/just-in-time-synthesis/",
       "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-11-20T10:30:24+00:00",
-      "excerpt": "Analysis of the Third Circuit's Ross opinion: the more an AI tool is marketed as solving research challenges, the less transformative its use of STM content becomes.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2241423243.jpg"
+      "published_iso": "2026-11-17T10:30:59+00:00",
+      "excerpt": "A commissioned review article and a just-in-time generated overview answer the same reader need; what differs is how each is made and whether a reader can tell enough about it to trust it.​​​​",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/DP135889-scaled.jpg"
     },
     {
-      "title": "Audible Launches Audio Discovery Trailers",
-      "url": "https://selfpublishingadvice.org/audible-launches-audio-discovery-trailers/",
-      "source": "ALLi Self-Publishing Advice",
+      "title": "Literary Translators Warn AI Threatens Their Livelihoods in Copyright Case",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101802-literary-translators-warn-ai-threatens-their-livelihoods-in-copyright-case.html",
+      "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-11-21T13:00:25+00:00",
-      "excerpt": "Audible's new audio discovery 'enhanced trailers' pair audiobook clips with synopsis and character insights narrated by Audible's AI virtual voice.",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/11/News-November-21.jpg",
+      "published_iso": "2026-11-18T00:00:00-05:00",
+      "excerpt": "The American Literary Translators Association argues that AI translation tools could turn translators “from interpreters into primarily editors of large language model outputs.",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132919-3.JPG",
       "history_match": {
-        "score": 0.272,
-        "date": "2026-11-17",
-        "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-        "title": "Audible turns to AI to help users discover audiobooks",
+        "score": 0.206,
+        "date": "2026-10-30",
+        "url": "https://www.thebookseller.com/news/publishers-urge-us-court-to-reject-openais-fair-use-defence-in-copyright-case",
+        "title": "Publishers urge US court to reject OpenAI's fair use defence in copyright case",
         "band": "related"
       }
     },
@@ -127,149 +111,56 @@
       "source": "경향신문",
       "category": "books",
       "published_iso": "2026-11-26T07:00:00+09:00",
-      "excerpt": "국내 학술지들이 AI 부정 활용 의심 논문을 연구윤리 위반으로 판정·철회하는 사례가 잇따르며 학계에 'AI 썼지' 불신이 번지고 있다.",
+      "excerpt": "지난 9월 비판사회학회 학술지 '경제와 사회'는 인공지능을 부적절하게 활용한 것으로 의심되는 투고 논문 1건을 게재 전 연구윤리 위반으로 판정해 공지했다. 한국보건사회연구원은 지난해 8월 존재하지 않는 문헌을 인용한 투고 논문을 적발해 \"단순 부주의나 AI 활용에 따른 오류를 넘어섰다\"며 연구윤리 위반 사실을 공지했다. 문화영토연구원은 지난 8월 AI...",
       "og_image": "https://img.khan.co.kr/news/2026/11/26/news-p.v1.20261125.b554e02cc5584b80a346857e8fb62f14_P1.jpeg"
     },
     {
-      "title": "À Montreuil, les artistes-auteurs font entendre leurs revendications pour l'élection présidentielle",
-      "url": "http://www.livreshebdo.fr/article/montreuil-les-artistes-auteurs-font-entendre-leurs-revendications-pour-lelection",
-      "source": "Livres Hebdo",
+      "title": "“헌책 6000권 사겠다”… ‘AI 학습용 의심’  구매 문의에 출판계 촉각",
+      "url": "https://weekly.donga.com/society/article/all/11/6479530/1",
+      "source": "주간동아",
       "category": "books",
-      "published_iso": "2026-11-26T20:16:05+01:00",
-      "excerpt": "Au Salon du livre de Montreuil, les artistes-auteurs, fragilisés par l'IA, portent leurs revendications de protection en vue de la présidentielle 2027.",
-      "og_image": "https://www.livreshebdo.fr/sites/default/files/2026-11/Avenir%20de%20la%20cr%C3%A9ation%20humaine%20%C3%A0%20l%27%C3%A8re%20de%20l%27IA.jpeg"
+      "published_iso": "2026-11-27T07:00:02+09:00",
+      "excerpt": "헌책과 낡은 LP로 발 디딜 틈 없는 서울 서대문구 한 헌책방. 장서 1만 권이 넘는 이곳은 50년 역사를 자랑한다. 헌책방 주인 A 씨는 11월 23일 낯선 번호로부터 한국학 …",
+      "og_image": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6b/07/ea/90/6b07ea901363a0a0a0a.jpg"
     },
     {
-      "title": "Australian university presses sign up to AI charter",
-      "url": "https://www.booksandpublishing.com.au/articles/2026/11/26/346520/australian-university-presses-sign-up-to-ai-charter/",
-      "source": "Books+Publishing",
+      "title": "KI in Verlagen – Umfrage des Börsenvereins",
+      "url": "https://www.boersenblatt.net/news/ki-verlagen-umfrage-des-boersenvereins-450903",
+      "source": "Börsenblatt",
       "category": "books",
-      "published_iso": "2026-11-26T00:02:05+00:00",
-      "excerpt": "Several Australian university presses have signed the charter launched by Cambridge University Press and Bristol University Press in response to AI pressures on scholarly publishing.",
-      "og_image": null,
-      "history_match": {
-        "score": 0.454,
-        "date": "2026-11-13",
-        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101763-university-presses-sign-charter-promising-integrity-vigilance-over-ai.html",
-        "title": "University Presses Sign Charter Promising Integrity, Vigilance Over AI",
-        "band": "likely-repeat"
-      }
+      "published_iso": "2026-11-27T08:42:09+01:00",
+      "excerpt": "Mit einer Umfrage zum Einsatz von KI in Verlagen möchte der Börsenverein besser verstehen, wie Verlage generative KI nutzen, welche Regeln sie dafür festlegen und welchen Nutzen sie darin sehen.",
+      "og_image": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-11/ki_verstehen_studie_c_boersenverein.png?h=8893360f&itok=ArCwiA9d"
     },
     {
-      "title": "GlobalComix's pivot to AI is just muddying the waters",
-      "url": "https://www.comicsbeat.com/globalcomixs-pivot-to-ai-is-just-muddying-the-waters/",
-      "source": "Comics Beat",
+      "title": "Getbackers Voice Comic Staff Apologizes for Generative AI Use in PR Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-23/getbackers-voice-comic-staff-apologizes-for-generative-ai-use-in-pr-video/.244140",
+      "source": "Anime News Network",
       "category": "books",
-      "published_iso": "2026-11-23T14:30:45+00:00",
-      "excerpt": "Comics Beat argues GlobalComix's AI-powered refresh blurs its creator-first positioning.",
-      "og_image": null,
+      "published_iso": "2026-11-23T22:22:47-05:00",
+      "excerpt": "Staff: Voice comic itself does not use generative AI",
+      "og_image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/cms/news.10/244140/getbackers.jpg",
       "history_match": {
-        "score": 0.321,
+        "score": 0.192,
         "date": "2026-11-20",
-        "url": "https://www.comicsbeat.com/globalcomixs-ai-powered-refresh-looks-a-lot-like-its-competition/",
-        "title": "GlobalComix's AI-Powered Refresh Looks a Lot Like Its Competition",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Les éditeurs belges veulent un label « sans IA » pour rassurer les lecteurs",
-      "url": "https://www.rtl.be/actu/les-editeurs-belges-veulent-un-label-sans-ia-pour-rassurer-les-lecteurs/2026-11-26/article/807924",
-      "source": "RTL Info",
-      "category": "books",
-      "published_iso": "2026-11-26T18:50:33+01:00",
-      "excerpt": "Belgian publishers are considering a 'without AI' certification label and a price adjustment for books published in Belgium to protect quality and frame AI use.",
-      "og_image": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/FirstImageUrl/2026/11/26/807924/4748109/public/2026/11/26/115843768.jpeg?itok=KQUsoZSJ1795716168"
-    },
-    {
-      "title": "A French Publisher Shuts Its Doors to Manuscripts as AI Submissions Pile Up",
-      "url": "https://www.timesnownews.com/lifestyle/books/a-french-publisher-shuts-its-doors-to-manuscripts-as-ai-submissions-pile-up-article-156562784",
-      "source": "Times Now",
-      "category": "books",
-      "published_iso": "2026-11-25T11:00:00+05:30",
-      "excerpt": "Independent French publisher Aux Forges de Vulcain paused manuscript submissions for four months after about 80 a week, some machine-made, overwhelmed its four staff.",
-      "og_image": "https://images.timesnownews.com/thumb/msid-156562823,thumbsize-2122761,width-1280,height-720,resizemode-75/156562823.jpg"
-    },
-    {
-      "title": "IFWG and IPI Comics put their ban on AI-made work into contracts",
-      "url": "https://tomorrowspublisher.today/news/independent-speculative-fiction-presses-ban-ai-made-work-and-restrict-training-u-c0f94490c251/",
-      "source": "Tomorrow's Publisher",
-      "category": "books",
-      "published_iso": "2026-11-25T00:01:10+00:00",
-      "excerpt": "IFWG Publishing and IPI Comics wrote an AI-made-work ban into contracts and pledged to keep books out of training deals; Candlemark & Gleam makes authors certify how they wrote.",
-      "og_image": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp"
-    },
-    {
-      "title": "Authors have been ripped off by AI, while hypocritical publishers stay silent",
-      "url": "https://observer.co.uk/news/opinion-and-ideas/article/authors-have-been-ripped-off-by-ai-while-hypocritical-publishers-stay-silent",
-      "source": "The Observer",
-      "category": "books",
-      "published_iso": "2026-11-26T05:00:00Z",
-      "excerpt": "An author argues publishers must back writers as Anthropic profits from models trained on their books.",
-      "og_image": "https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_GettyImages-2207798306_60dca6a085bdef64693db57b88656169deaad83f.jpg"
-    },
-    {
-      "title": "한국어 책 166톤 미국 반출… AI 학습 시대, 출판 저작권의 숙제",
-      "url": "https://www.eanews.kr/news/1060714",
-      "source": "얼리어답터뉴스",
-      "category": "books",
-      "published_iso": "2026-11-26T21:38:00+09:00",
-      "excerpt": "선적 기록상 165.69톤(약 41만 권)의 한국어 책이 웅진북센→Better World Books를 거쳐 Anthropic 도서 조달 유통망으로 반출돼 스캔 후 폐기된 것으로 전해졌다.",
-      "og_image": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745_thumb.jpg"
-    },
-    {
-      "title": "アンソロピックに無断販売された日本の書籍、絶版が複数含まれていたと判明…ＡＩ学習で大量スキャンか",
-      "url": "https://topics.smt.docomo.ne.jp/amp/article/yomiuri/entertainment/yomiuri-20261125-GYT1T00293",
-      "source": "読売新聞 (dメニューニュース)",
-      "category": "books",
-      "published_iso": "2026-11-25T19:59:00+09:00",
-      "excerpt": "日販グループの子会社がAnthropicに無断販売した日本の書籍に絶版本が複数含まれていたことが判明、AI学習用の大量スキャンが疑われる。",
-      "og_image": "https://img.topics.smt.news.goo.ne.jp/picture/yomiuri/m_yomiuri-20261125-GYT1T00293.jpg",
-      "history_match": {
-        "score": 0.233,
-        "date": "2026-11-18",
-        "url": "https://authorsguild.org/news/anthropic-settlement-update-check-your-claim-by-november-20/",
-        "title": "Important Anthropic Settlement Update: Check Your Claim by Friday, November 20",
+        "url": "https://www.animenewsnetwork.com/news/2026-11-19/getbackers-manga-gets-comic-anime-from-ai-platform-manganow-studio/.243992",
+        "title": "Getbackers Manga Gets Comic Anime From AI Platform MangaNow Studio",
         "band": "related"
       }
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 20,
+    "kept": 13,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 7,
+    "review": 4,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-28",
-      "title": "Dubious, seemingly AI-generated Fire Emblem: Fortune's Weave guidebooks flood Amazon Japan",
-      "url": "https://automaton-media.com/en/news/seemingly-ai-generated-fire-emblem-fortunes-weave-guidebooks-flood-amazon-japan-self-publishing-system-allows-anyone-to-mass-produce-guideslop/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "Japan's Ministry of Finance proposes shared manga platform with AI translation for global fans",
-      "url": "https://automaton-media.com/en/nongaming-news/japans-ministry-of-finance-proposes-shared-manga-platform-where-global-fans-can-access-multiple-publishers-in-one-place-the-idea-involves-ai-translation/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "YouTube looks to expand into audiobooks",
-      "url": "https://janefriedman.com/youtube-looks-to-expand-into-audiobooks/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "How AI Changes the Fundamental Structure of the Classroom—Especially the Segregated Ones",
-      "url": "https://lithub.com/how-ai-changes-the-fundamental-structure-of-the-classroom-especially-the-segregated-ones/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "Zachary Mason Chases the Ghost in the Machine",
-      "url": "https://www.publishersweekly.com/pw/by-topic/authors/profiles/article/101582-zachary-mason-chases-the-ghost-in-the-machine.html"
-    },
     {
       "date": "2026-10-29",
       "title": "Escritor peruano es acusado de presentar obra con 99% de IA a concurso donde ganó un premio de 20.000 euros",
@@ -939,6 +830,31 @@
       "date": "2026-11-26",
       "title": "Society of Authors to form AI focus group to work on new charter",
       "url": "https://www.thebookseller.com/news/society-of-authors-to-form-ai-focus-group-to-work-on-new-charter"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "IFWG and IPI Comics put their ban on AI-made work into contracts",
+      "url": "https://tomorrowspublisher.today/news/independent-speculative-fiction-presses-ban-ai-made-work-and-restrict-training-u-c0f94490c251/"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "한국어 책 166톤 미국 반출… AI 학습 시대, 출판 저작권의 숙제",
+      "url": "https://www.eanews.kr/news/1060714"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Les éditeurs belges veulent un label « sans IA » pour rassurer les lecteurs",
+      "url": "https://www.rtl.be/actu/les-editeurs-belges-veulent-un-label-sans-ia-pour-rassurer-les-lecteurs/2026-11-26/article/807924"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Author denies allegations she used AI to write book after novel 'dropped by agent'",
+      "url": "https://www.thebookseller.com/news/author-denies-allegations-she-used-ai-to-write-book-after-novel-dropped-by-agent"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Anthropic has started paying out its copyright settlement to authors",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1043087/anthropic-has-started-paying-out-its-copyright-settlement-to-authors"
     }
   ]
 }

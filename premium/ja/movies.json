@@ -12551,6 +12551,106 @@
           "x": "The Vergeは、この発想は芸術に触れる価値と相容れず、想定された好みに合わせて作られていないものから視聴者を遠ざけると論じている。"
         }
       ]
+    },
+    "movies/curious-refuge-tarmac-animation": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "dRDU8HXVzi8"
+        },
+        {
+          "t": "p",
+          "x": "AIでプロ水準の2Dアニメーションを作る方法を学ぶ。Albert Bozesanが、アニメのシットコムTarmacの制作に使うワークフローを、再利用できるキャラクターアセットの構築から、Seedance 2.0で完成した会話シーンを生成するまで解説する。"
+        },
+        {
+          "t": "p",
+          "x": "ショットをまたいでキャラクターの一貫性を保つ方法、Photoshopでレイヤー構造のキーフレームを組む方法、参照画像と録音したセリフで表情やタイミング、カットを制御する方法を学べる。同じアセットライブラリをシーンからシーンへ使い回せるため、制作時間と生成クレジットを節約できる。"
+        },
+        {
+          "t": "p",
+          "x": "チャプター:AIアニメがAIっぽく見える理由 · Tarmacがエピソードをまたいでアセットを再利用する方法 · クリーンなセリフの録音 · キーフレーム、表情シート、小道具の参照 · Photoshopでレイヤー構造のキーフレームを作る · キャラクターのターンアラウンドシートを作る · 表情と視線の制御 · キャラクターをショットに合成する · 被写界深度を加える · Seedance 2.0でシーンをアニメーション化する · セリフ、リアクション、カットのプロンプト。"
+        }
+      ]
+    },
+    "movies/4by4-pixell-cgv-4k-films": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/f7ul89_202611270248.jpg",
+          "cap": "THE COLLABORATION 2026のポスター。提供：Creative Mango"
+        },
+        {
+          "t": "p",
+          "x": "韓国のコンテンツAI企業4BY4は、自社のAI PIXELLソリューションを使い、AI映画三本の画質を改善して4K 解像度にアップスケールした。対象は、韓国の映画監督七人とAI監督九人を組み合わせたプロジェクトTHE COLLABORATION 2026の作品である。映画は11月27日にCGV狎鴎亭で上映される。"
+        },
+        {
+          "t": "p",
+          "x": "KOSDAQ-listed（KOSDAQ上場）のコンテンツAI企業4BY4は11月26日、ソウル独立映画祭とCreative Mangoが共催するこのプロジェクトを後援したと明らかにした。手がけたのは、Jang Cheol-soo監督の\"The Great Extinction\"、Shin Yeon-shick監督の\"Toe's Liver\"、Park Shin-woo監督の\"Baldo Girl Time-Lag Attack: Happy Day\"である。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/ip7kgm_202611270248.jpg",
+          "cap": "4BY4がAI PIXELLで4K にアップスケールした映画三本。画像：4BY4"
+        },
+        {
+          "t": "p",
+          "x": "AI PIXELLは、アップスケーリング、ノイズ除去、ディテール強化によって低解像度映像の解像度と鮮明さを高める。同社によると、AI生成（AI-generated）映像は元の解像度や質感に限界があると大きなスクリーンでぼやけて見えることがあるため、劇場上映に向けてシーンごとのポストプロダクションで映画を4K まで引き上げることに注力した。Creative Mangoによれば、監督たちは仕上がりに大いに満足したという。"
+        },
+        {
+          "t": "p",
+          "x": "映画は11月27日正午12時にソウルのCGV狎鴎亭で上映され、続いて技術基調講演と監督トークが行われる。4BY4は映画分野で画質事業を拡大する計画だ。"
+        }
+      ]
+    },
+    "movies/variety-rian-johnson-ai-stance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2306414526_703a9f.jpg?w=1000&h=563&crop=1",
+          "cap": "2026年11月22日、第23回Marrakech International Film Festivalに出席したRian Johnson。(写真:Aurore Marechal/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Rian JohnsonはHollywoodで最も率直に人工知能を批判してきた一人だが、その技術を「悪者扱い」することには慎重であるよう呼びかけている。"
+        },
+        {
+          "t": "p",
+          "x": "「極めて技術的で、厳密には生成AIの一種を使っているものがあったとして、それは禁じられるべきなのか」。JohnsonはMarrakech International Film FestivalでVarietyにそう問いかけ、視覚効果やデジタルのフィルム処理ツールを例に挙げた。また、AI-poweredのストーリーボードツールを支持したMartin Scorseseが反発を受けた件にも触れ、「『私たちは何をやっているんだ』という気持ちだ」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "JohnsonはKathleen KennedyとAFI学部長Susan Ruskinが率いる取り組みを評価した。「賢いのは、AIという言葉を一枚岩として悪者扱いするのではなく、『では、実際に何の話をしているのか』と問いかけている点だ」。それでも彼は「芸術を作ることに伴う摩擦を取り除けば芸術が良くなるという考えは、まったく無意味に思える」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "さらに、Peter Dinklage主演で再構想された「Poker Face」は「安らかに眠っている」と述べ、来年の撮影を目指すsci-fiスリラーの第二稿に取り組んでいることも明かした。"
+        }
+      ]
+    },
+    "movies/luma-brandkit-character-library": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+          "cap": "Brand KitとCharacter Libraryを発表"
+        },
+        {
+          "t": "p",
+          "x": "ブランドを守る立場の人に、なぜAIに100%踏み込まないのかと尋ねれば、返ってくる答えは同じだ。AIはアドリブをするからである。ロゴは微妙にずれ、製品にはなかったはずのディテールが加わり、ブランドキャラクターの顔は三つ目のシーンになるといとこのような別人に見えてくる。Lumaはこれを変えるため、Brand KitとCharacter Libraryという二つの機能を投入する。"
+        },
+        {
+          "t": "p",
+          "x": "ロゴやフォント、製品をLuma Brand Kitに登録すれば、以降のすべての生成がそれに従う。正式なブランドガイドラインがなくても、ウェブサイトのURLを入れればエージェントが確認用の草案を作る。Brand Kitはどのボードにも紐づけて全生成の基準にでき、Brand Kitsの数に上限はない。"
+        },
+        {
+          "t": "p",
+          "x": "Assetsはキャラクター、アバター、モデルのためのデジタルライブラリとして機能し、顔、体、衣装、背景、表情の基準を保持する。キャラクターはボード内で\"@\"で参照でき、Lumaは肌や髪がさらにリアルに見えるようモデルを進化させたという。"
+        },
+        {
+          "t": "p",
+          "x": "どちらもLumaのエージェント型制作システムに組み込まれているため、設定したブランドやキャラクターのルールに沿っているかを評価できる。ハッシュタグでブランドキットを、@でキャラクターを呼び出し、Lumaにブリーフを伝え、エージェントと協力して100アセット規模のキャンペーンを仕上げる。この機能はEnterprise限定ではなく、Lumaの全ユーザーが使える。"
+        }
+      ]
     }
   }
 }

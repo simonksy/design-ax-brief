@@ -6503,6 +6503,147 @@
           "x": "“Reddit ya se está convirtiendo cada vez más en un canal de rendimiento por derecho propio, pero a menudo está infrautilizado y poco valorado”, dijo Jack Johnston, VP de la agencia de marketing de rendimiento Tinuiti."
         }
       ]
+    },
+    "marketing/bing-aimode-ads-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/bing-ai-chat-boxes-q16E8dDy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Advertising está haciendo más difícil distinguir los anuncios de los resultados orgánicos en Bing AI Mode. Microsoft tiene una larguísima trayectoria de dificultar que se entienda qué es un anuncio y qué es un resultado orgánico en sus búsquedas, así que cabe esperar que siga haciéndolo en AI Mode y Copilot Search."
+        },
+        {
+          "t": "p",
+          "x": "En los ejemplos que Khushal Bherwani publicó en SEW se ve que los anuncios en los resultados de Bing AI Mode ya no tienen contorno y parecen más integrados en la respuesta orgánica."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+          "cap": "Nuevo formato de anuncios de Bing en AI Overview"
+        },
+        {
+          "t": "p",
+          "x": "Antes se veía así:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/usual-what-we-see-in-ai-overview-ah4e9WiH.webp",
+          "cap": "Lo que solemos ver en AI Overview"
+        },
+        {
+          "t": "p",
+          "x": "A principios de este año vimos etiquetas de patrocinio casi transparentes en Bing. Microsoft ya respondió sobre estas etiquetas invisibles cuando cubrimos antes las etiquetas de anuncios casi invisibles y las etiquetas increíblemente difíciles de ver."
+        },
+        {
+          "t": "p",
+          "x": "No espero que este comportamiento cambie..."
+        }
+      ]
+    },
+    "marketing/accc-ai-shopping-agent-liability": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/accc-ai-shopping-agents-businesses-liable-black-friday-ventriloquist-dummy-shop-counter.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Con el arranque de las rebajas de Black Friday, la Australian Competition and Consumer Commission pidió a los compradores contrastar lo que les dicen las herramientas de AI con fuentes fiables y fijar límites firmes antes de dejar que un agente de AI compre algo. Mencionó tres agentes ya presentes en el mercado australiano: Muse de Meta, ChatGPT dots de OpenAI y Google Tasks."
+        },
+        {
+          "t": "p",
+          "x": "«Los resultados de la AI pueden estar equivocados», dijo la presidenta de la ACCC, Gina Cass-Gottlieb. «Los consumidores deben comprobarlos y fijar los puntos en los que quieren que el agente obtenga su aprobación». El regulador advirtió que puede que los agentes de AI «tampoco identifiquen con precisión que algo es una estafa»."
+        },
+        {
+          "t": "p",
+          "x": "«Las empresas son responsables de las acciones que realizan sus chatbots y agentes de AI», según el comunicado. Los derechos de garantía del consumidor no cambian cuando se usa AI, y las empresas responden por la información engañosa «ya la den empleados, por escrito o mediante herramientas de AI». Los proveedores de agentes de AI no deben engañar a los clientes sobre sus capacidades."
+        },
+        {
+          "t": "p",
+          "x": "La ACCC afirma que publicará «en los próximos meses» una actualización de su AI Industry Snapshot centrada en la AI agéntica y el comercio agéntico."
+        }
+      ]
+    },
+    "marketing/obsession-agent-instock-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://internetretailing.net/wp-content/uploads/2026/11/ob.session_report_01-1.png",
+          "cap": "Imagen © ob.session"
+        },
+        {
+          "t": "p",
+          "x": "ob.session, un motor de recomendación de productos en tiempo real para tiendas de Shopify, puso a ChatGPT, Gemini y Claude a comprar en nombre de una clienta ficticia, Laura, que usa la talla 10 del UK y se ubicaba alternativamente en Francia, el UK y Chipre. Cada enlace de producto recomendado se comprobó según su talla, su encargo de compra y su ubicación."
+        },
+        {
+          "t": "p",
+          "x": "En más de 400 enlaces de producto probados, las recomendaciones de los LLMs solo tenían stock el 35% de las veces. ChatGPT entregó el artículo elegido por Laura en la talla y ubicación correctas el 45% de las veces, Gemini el 33% y Claude el 21%. En el 29% de los casos, el minorista había agotado la talla de Laura."
+        },
+        {
+          "t": "p",
+          "x": "«Si la mayoría de los productos que recomiendan no están disponibles, los usuarios dejan de creer en las recomendaciones», dijo Ksenia Sukhova, cofundadora y CCO de ob.session. Recomienda a los minoristas incluir la disponibilidad de stock por talla en la versión legible por máquina del sitio y exponer en esa versión estructurada todos los atributos por los que filtran los compradores."
+        }
+      ]
+    },
+    "marketing/shopify-agentic-chargeback-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.pymnts.com/wp-content/uploads/2026/11/Shopify.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Shopify ofrece ahora a sus comercios más pruebas ante contracargos en pedidos agénticos, según indicó la compañía el miércoles (25 de noviembre) en su registro de cambios. El cambio aborda los casos en que un asistente de compra con AI hizo un pedido, el cliente dijo después que no había autorizado el pago y los registros del comercio no podían mostrar lo que el cliente había configurado."
+        },
+        {
+          "t": "p",
+          "x": "«La respuesta incluye un Payment authorization record con el límite de gasto que el cliente fijó para el asistente, la aprobación del pago registrada en el checkout y el nombre del asistente cuando se conoce», dijo Shopify. «Se añade automáticamente, así que no necesitas hacer nada»."
+        },
+        {
+          "t": "p",
+          "x": "Shopify también añadió respuestas AI-written para cada motivo de contracargo, pruebas de verificación de pago para contracargos por compras no autorizadas y la selección del personal que recibe las notificaciones de contracargos."
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-learnmore-cta": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI acaba de enviar una actualización de producto sobre ChatGPT Ads que anuncia la expansión de Business Agents fuera de U.S., una nueva llamada a la acción learn more en los anuncios de imagen única, más métricas de audiencia en Ads Manager y en la Ads API, la opción de ocultar los precios de oferta del feed de productos cuando termina una promoción y nuevos detalles del centro de políticas en Ads Manager."
+        },
+        {
+          "t": "p",
+          "x": "Learn more: en ChatGPT, los anuncios de imagen única muestran ahora por defecto un enlace \"Learn more\" bajo la descripción. Abre la página de destino que ya se configuró en Ads Manager, por lo que no requiere configuración adicional."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+          "cap": "Anuncio de imagen única en ChatGPT con la llamada a la acción Learn more"
+        },
+        {
+          "t": "p",
+          "x": "Business Agents: las empresas de ecommerce y servicios en línea que cumplen los requisitos en mercados compatibles fuera de U.S. ya pueden crear y publicar un Business Agent en ChatGPT Business Hub y añadirlo a una campaña elegible como Sponsored Business Agent."
+        },
+        {
+          "t": "p",
+          "x": "Métricas de audiencia: Reach estima cuántas personas únicas vieron tus anuncios al menos una vez; Frequency es el total de impresiones dividido entre Reach. OpenAI también añadió Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC y Cost per 1,000 Reached."
+        },
+        {
+          "t": "p",
+          "x": "Los anunciantes también pueden ocultar los precios de oferta del feed de productos para que los anuncios vuelvan a mostrar el precio normal, y los mensajes de revisión de anuncios indican ahora qué política se aplica. OpenAI afirmó que las directrices para aprobar anuncios no han cambiado."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
+          "cap": "Correo de OpenAI sobre la actualización de ChatGPT Ads"
+        }
+      ]
     }
   }
 }

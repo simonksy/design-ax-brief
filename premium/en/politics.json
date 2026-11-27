@@ -7981,6 +7981,141 @@
           "x": "GOSRN is an international body through which independent national regulators cooperate on online safety. Its 11 member bodies include Korea's Media and Communications Standards Commission, the UK's Ofcom, Australia's eSafety Commission and France's ARCOM."
         }
       ]
+    },
+    "politics/politics-uk-datacenter-petition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5289080.jpg?imageId=5289080&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "The UK government has rejected calls for a UK-wide public consultation on the environmental impacts of AI datacenters, despite a petition attracting more than 39,000 signatures. Campaign group Protect the Wild launched the petition last month."
+        },
+        {
+          "t": "p",
+          "x": "In its response, published on November 23, the government ruled out the requested UK-wide environmental consultation, saying individual projects' impacts should be addressed through the planning process. It pointed instead to a separate consultation on its draft datacenter planning policy, open until January 8, 2027."
+        },
+        {
+          "t": "p",
+          "x": "\"Datacenters are vital to the UK's digital economy. … They also provide the infrastructure needed to develop and use AI,\" the Department for Business, Innovation, Science and Trade (BIST) says. It adds that the environmental impacts are real and must be understood and mitigated, one reason it established the Data Centre Covenant tests."
+        },
+        {
+          "t": "p",
+          "x": "Protect the Wild notes that the Covenant \"barely acknowledges wildlife, habitats or biodiversity,\" and contends that handling environmental concerns project by project is a major barrier to tackling greenhouse gas emissions at a national level."
+        },
+        {
+          "t": "p",
+          "x": "A separate report found that the government met with 137 different businesses to discuss datacenters between July 2024 and June 2026, but did not meet a single community group or environmental organization during the same period."
+        }
+      ]
+    },
+    "politics/politics-au-deepfake-inquiry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://live-production.wcms.abc-cdn.net.au/0de28958f63ae3e495fc06eada3bf797",
+          "cap": "Some campaigners are considering using generative AI for future election campaigns.(Reuters: Dado Ruvic, Illustration)"
+        },
+        {
+          "t": "p",
+          "x": "A ban on deepfakes in political ads could be on the way with a bi-partisan parliamentary inquiry pushing for change. It's calling for a parliamentary committee to examine what changes are needed in Australia's electoral laws to outlaw deepfakes in election materials."
+        },
+        {
+          "t": "p",
+          "x": "The push follows an AI-generated election ad put out by Victorian Labor, featuring deepfakes of the state's Liberal leader Jess Wilson and One Nation's Warren Pickering. Federal independent MP Kate Chaney, part of the committee, wants that ban in place by the next federal election due in 2028: \"Our democracy is based on being able to make an informed decision and we're not able to make an informed decision if the information before us is based on deepfakes.\""
+        },
+        {
+          "t": "p",
+          "x": "Professor Terry Flew, co-director of the Centre for Artificial Intelligence, Trust and Governance, calls the recommendation a positive and important proposal: \"attempting to legislate around misinformation in general runs up against the problem\" of definition, \"but there are possibilities of identifying a particular problem, which is the use of deepfakes in political advertising.\""
+        },
+        {
+          "t": "p",
+          "x": "The government is considering the committee's report."
+        }
+      ]
+    },
+    "politics/politics-gyeongnam-deepfake-referral": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+          "cap": "Police wrap up search of Gyeongnam provincial office — Police return to the Gyeongnam Provincial Police Agency carrying seized items after finishing a search of the Gyeongnam provincial government office on June 9."
+        },
+        {
+          "t": "p",
+          "x": "Police have wrapped up their investigation into the 'deepfake video and official election interference allegations' that arose from the campaign of People Power Party candidate Park Wan-su for Gyeongnam governor during the June 3 local elections, referring 12 people to prosecutors. Governor Park was not referred."
+        },
+        {
+          "t": "p",
+          "x": "The Cyber Investigation Division of the Gyeongnam Provincial Police Agency said on the 27th that it had referred a total of 12 people, including 3 current and former public officials, campaign staff and people from a promotional video production company, to the Changwon District Public Prosecution Office on charges including violating the Public Official Election Act."
+        },
+        {
+          "t": "p",
+          "x": "Of them, 9 are accused of receiving money in return for producing promotional videos while working on Park's campaign during the June 3 local elections. The 3 current and former officials are accused of, among other things, taking part in the election while holding public office. Of the 12, 8 also face charges including setting up a campaign-like organization rather than an official campaign office."
+        },
+        {
+          "t": "p",
+          "x": "On the suspects' alleged production of deepfake videos, police decided not to refer the case: artificial intelligence (AI) technology was used, but the videos were not so realistic as to be hard to tell apart from reality."
+        },
+        {
+          "t": "p",
+          "x": "Police decided not to refer Governor Park on charges of violating the Public Official Election Act. \"The investigation into Governor Park found no direct evidence, so we made this decision due to insufficient evidence,\" a police official said."
+        },
+        {
+          "t": "p",
+          "x": "The investigation stemmed from allegations that Park's campaign produced and spread deepfake videos and other material disparaging rival candidate Kim Kyoung-soo of the Democratic Party, and that current and former public officials working on the campaign intervened in campaign activities."
+        }
+      ]
+    },
+    "politics/politics-russia-ai-strategy-2036": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.cn-insight.kr/news/photo/202611/3408_6015_4859.jpg",
+          "cap": "President Putin and Kazakh President Tokayev at ‘AI Journey’ on November 26 (Photo: kremlin.ru)."
+        },
+        {
+          "t": "p",
+          "x": "Russian President Vladimir Putin said in Moscow on the 26th that Russia must revise its national strategy to lead in artificial intelligence (AI) research and development. He also set out 4 requirements to support the development of domestic AI models."
+        },
+        {
+          "t": "p",
+          "x": "Speaking at the 'AI Journey' conference alongside Kazakh President Kassym-Jomart Tokayev, Putin said the 'National AI Strategy of Russia through 2036' should be updated and a related national action plan approved."
+        },
+        {
+          "t": "p",
+          "x": "The 4 requirements are: ▲digitizing large volumes of reliable real-world data to train domestic AI models ▲placing a 'choice screen' on every operating system used on mobile devices in Russia so users can pick the AI model or agent they want, including domestic products ▲creating conditions to speed up the rollout of in-house AI models to spur investment and research and development ▲expanding the use of AI in scientific research and national high-tech development projects."
+        },
+        {
+          "t": "p",
+          "x": "He proposed creating an institutional framework for government and private capital to cooperate on building infrastructure such as data processing centers, power grid upgrades and cooling systems. He also said the scope of authority should be defined, setting out which tasks AI agents must not perform without human control and intervention."
+        },
+        {
+          "t": "p",
+          "x": "Source: Xinhua (2026.11.27)"
+        }
+      ]
+    },
+    "politics/commerce-si-exports-consortia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+        },
+        {
+          "t": "p",
+          "x": "The Department of Commerce, through the International Trade Administration (ITA), establishes the On-Demand Consortia pathway under the Super Intelligence (SI) Exports Program authorized by Executive Order 14320: Promoting the Export of the American SI Technology Stack. (Per Executive Order 14434, agencies use “Super Intelligence” and “SI” in place of “Artificial Intelligence” and “AI”.) Applications may be submitted beginning November 30, 2026, on a rolling basis."
+        },
+        {
+          "t": "p",
+          "x": "On-Demand Consortia are industry-led groupings formed to respond to a specific, identified foreign export opportunity. Unlike Pre-Set Consortia, their packages need only offer the layers of the SI stack necessary to meet the buyer's demands, but must show how they combine with existing or acquired infrastructure to result in a full-stack SI technology package. Applicants must show the opportunity is existing or forthcoming and that there is a reasonable likelihood the package will be selected."
+        },
+        {
+          "t": "p",
+          "x": "The Secretary of Commerce, in consultation with the Secretaries of State, War, and Energy and the OSTP Director, will make designation decisions based on the national interest, and intends to issue a decision within 60 calendar days. There is no numerical cap on designations. The notice also provides for re-designation and de-designation of packages, and says Pre-Set Consortia applications may be accepted again at a later date."
+        }
+      ]
     }
   }
 }

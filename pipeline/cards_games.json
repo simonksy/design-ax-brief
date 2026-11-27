@@ -1,221 +1,221 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "games",
   "cards": [
     {
-      "id": "ludo-tileset-generator",
+      "id": "games-krafton-raon1-mini-release",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ludo.ai, 땅 묘사로\n2D 타일셋 만든다",
-      "body": "Ludo.ai Tileset Generator가 16타일 지형 세트를 만든다.",
-      "mini_headline": "Ludo.ai Tileset Generator",
+      "headline": "KRAFTON이 무료 공개\nRaon-1 mini 모델",
+      "body": "KRAFTON MoE는 약 30B 중 4B만 쓰고 Hugging Face서 무료다.",
+      "mini_headline": "KRAFTON, Raon-1 mini 공개",
       "tool": "Games",
-      "source": "Mobidictum",
-      "url": "https://mobidictum.com/ludo-ai-tileset-generator-2d-games/",
+      "source": "Inven Global",
+      "url": "https://www.invenglobal.com/articles/29095/krafton-officially-launches-in-house-llm-raon-1-mini",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "실전용 게임 에셋을 만드는 개발자 도구 Ludo.ai가 오늘 새 도구 Tileset Generator를 출시했다. 게임 속 지면을 글로 묘사하면 2D 맵을 칠할 수 있는 온전한 타일셋으로 바꿔 준다. 세트 하나에 지형이 맞닿는 여러 경우를 담은 타일 16개가 들어 있어, 칠하는 동안 지형 사이 가장자리와 모서리가 알아서 맞물린다. 탑다운과 아이소메트릭 게임 모두에 쓸 수 있고, Ludo 플랫폼과 Ludo CLI, MCP 서버, REST API에서 바로 이용할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Ludo.ai의 공동창업자(Co-Founder)이자 최고기술책임자(Chief Technology Officer)인 Jorge Gomes는 “타일셋은 소규모 팀이 손으로 그리기에 가장 지루한 에셋 중 하나다. 이제 1인 개발자도 세계를 묘사하고 몇 분 뒤면 그것으로 맵을 칠할 수 있다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "작동 방식은 이렇다. 탑다운 또는 아이소메트릭 그리드를 고르고 지면을 묘사하면 지형마다 이음매 없는 기본 타일이 나온다. 두 타일을 골라 흰 바다 거품이나 낮은 돌 연석 같은 경계를 묘사하면 16개 타일 세트가 완성된다. 도로·강·울타리·벽 같은 선도 깔 수 있다. 내보내기 전에는 브라우저에서 테스트 맵을 칠해 보면 된다."
-          },
-          {
-            "t": "p",
-            "x": "세트를 내보내면 16개 타일 이미지와 각 타일을 설명하는 JSON 데이터 파일이 함께 나오고, Godot 4와 Tiled에 바로 쓸 수 있는 타일셋 파일도 딸려 온다. “해질녘으로”나 “눈으로 덮어 줘”처럼 세트 전체를 고치면 똑같이 맞물리는 새 세트가 돌아온다. 2D 조명용 노멀 맵을 세트에 함께 넣을 수도 있다. 가격은 타일 하나에 0.5 크레딧, 세트 전체에 1 크레딧이고 Pro와 Studio 요금제에서는 웹 앱 생성이 무제한이다."
-          },
-          {
             "t": "img",
-            "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
-            "cap": "프롬프트 하나로 같은 해변 타일셋의 잔잔한 청록빛 바다가 폭풍 치는 바다로 바뀐다. 해안선 전환은 그대로다."
+            "src": "https://static.invenglobal.com/upload/image/2026/11/25/i1795583465990676.jpeg",
+            "cap": ""
           },
           {
-            "t": "video",
-            "yt": "6GYU5as78CQ"
+            "t": "p",
+            "x": "KRAFTON, Inc.가 자체 개발한 30-billion (30B) 파라미터 대규모 언어 모델(LLM) Raon-1 mini의 정식 버전을 공개했다. 10월 프리뷰에 이은 이번 버전은 추론과 에이전트 작업 성능을 끌어올렸고, 응답 모드 여섯 가지를 새로 골라 쓸 수 있게 했다."
+          },
+          {
+            "t": "p",
+            "x": "Raon-1 mini는 MultiChallenge에서 64.9점으로 프리뷰보다 5.9점 올랐고, 비슷한 규모의 해외 비교 모델 여섯 개를 앞섰다. GDPVal 72.3점, BrowseComp Plus 55.9점은 비교 대상 Mixture of Experts (MoE) 기반 모델 가운데 가장 높다."
+          },
+          {
+            "t": "p",
+            "x": "새 추론 길이 조절 기능은 추론 수준 다섯 단계(low, medium, high, xhigh, max)에, 추론 없이 곧바로 답하는 표준 응답 모드(none)를 더했다."
+          },
+          {
+            "t": "p",
+            "x": "KRAFTON은 모델을 처음부터 직접 설계하고 학습시켰다. 약 30B 파라미터 가운데 4B 파라미터만 활성화하는 MoE 구조에 자체 Linear Attention을 얹었다. 라이선스는 이전처럼 Apache 2.0이다. 연구·상업용으로 Hugging Face에 올라 있고 플레이그라운드와 APIs도 열려 있다. KRAFTON은 더 큰 Raon-1과 실시간 full-duplex 음성 모델도 내놓을 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "KRAFTON의 CAIO Kangwook Lee는 “Raon-1 mini는 모델 설계부터 학습까지 모든 단계를 직접 다루며 KRAFTON이 쌓아 온 기술력을 보여 준다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ludo.ai builds 2D tilesets\nfrom a ground description",
-          "body": "Ludo.ai's Tileset Generator makes 16-tile terrain sets in top-down or isometric grids, ready for engine export.",
-          "mini_headline": "Ludo.ai tileset generator",
+          "headline": "KRAFTON releases Raon-1 mini\nfree on Hugging Face",
+          "body": "KRAFTON's in-house MoE model, 4B of about 30B parameters active, is free on Hugging Face with adjustable reasoning.",
+          "mini_headline": "KRAFTON ships Raon-1 mini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Ludo.ai, the developer’s companion for creating production-ready game assets, today announced the release of the Tileset Generator, a new tool that turns a description of a game’s ground into a complete tileset for painting 2D maps. Each set holds 16 tiles covering the different ways terrains can meet, while the edges and corners between them fall into place as a developer paints. The tool works for top-down and isometric games, and is available now in the Ludo platform and through the Ludo CLI, MCP server, and REST API."
-              },
-              {
-                "t": "p",
-                "x": "Jorge Gomes, Co-Founder and Chief Technology Officer at Ludo.ai, said: “Tilesets are one of the most tedious assets for a small team to draw by hand. Now a solo developer can describe a world and be painting a map with it a few minutes later.”"
-              },
-              {
-                "t": "p",
-                "x": "How it works: pick a top-down or isometric grid and describe a ground to get a seamless base tile per terrain; pick two tiles and describe the boundary, such as white sea foam or a low stone curb, to get the full 16-tile set, or lay a line such as a road, river, fence or wall; then paint a test map in the browser before exporting."
-              },
-              {
-                "t": "p",
-                "x": "Each set exports an image of the 16 tiles with a JSON data file describing each one; Godot 4 and Tiled also get a ready-made tileset file. Whole-set edits such as “at sunset” or “cover it in snow” come back as a new set that fits together the same way, and a set can include a matching normal map for 2D lighting. A tile costs 0.5 credits, a full set 1 credit; on the Pro and Studio plans, generation in the web app is unlimited."
-              },
-              {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
-                "cap": "A single prompt transforms the same beach tileset from calm turquoise waters to a stormy sea, while preserving the shoreline transitions."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/25/i1795583465990676.jpeg",
+                "cap": ""
               },
               {
-                "t": "video",
-                "yt": "6GYU5as78CQ"
+                "t": "p",
+                "x": "KRAFTON, Inc. has officially released the full version of Raon-1 mini, its self-developed 30-billion (30B) parameter large language model (LLM). Following the preview introduced in October, this release improves reasoning and agent task execution performance, and adds six selectable response modes."
+              },
+              {
+                "t": "p",
+                "x": "Raon-1 mini scored 64.9 points on MultiChallenge, a 5.9-point increase over the preview model, outscoring six comparable foreign models of similar scale. It recorded 72.3 points on GDPVal and 55.9 points on BrowseComp Plus, the highest among comparable Mixture of Experts (MoE) baseline models."
+              },
+              {
+                "t": "p",
+                "x": "The new reasoning length control offers five reasoning levels (low, medium, high, xhigh, max) plus a standard response mode (none) that answers directly without reasoning."
+              },
+              {
+                "t": "p",
+                "x": "KRAFTON designed and trained the model from scratch in-house, combining an MoE architecture that activates only 4B of approximately 30B parameters with proprietary Linear Attention. The license remains Apache 2.0; the model is on Hugging Face for research and commercial use, with a playground and APIs. KRAFTON plans to add the larger Raon-1 and a real-time full-duplex speech model."
+              },
+              {
+                "t": "p",
+                "x": "\"Raon-1 mini reflects the technological capabilities KRAFTON has built by directly handling every stage from model design to training,\" said Kangwook Lee, CAIO of KRAFTON."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ludo.ai, 땅 묘사로\n2D 타일셋 만든다",
-          "body": "Ludo.ai Tileset Generator가 16타일 지형 세트를 만든다.",
-          "mini_headline": "Ludo.ai Tileset Generator",
+          "headline": "KRAFTON이 무료 공개\nRaon-1 mini 모델",
+          "body": "KRAFTON MoE는 약 30B 중 4B만 쓰고 Hugging Face서 무료다.",
+          "mini_headline": "KRAFTON, Raon-1 mini 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "실전용 게임 에셋을 만드는 개발자 도구 Ludo.ai가 오늘 새 도구 Tileset Generator를 출시했다. 게임 속 지면을 글로 묘사하면 2D 맵을 칠할 수 있는 온전한 타일셋으로 바꿔 준다. 세트 하나에 지형이 맞닿는 여러 경우를 담은 타일 16개가 들어 있어, 칠하는 동안 지형 사이 가장자리와 모서리가 알아서 맞물린다. 탑다운과 아이소메트릭 게임 모두에 쓸 수 있고, Ludo 플랫폼과 Ludo CLI, MCP 서버, REST API에서 바로 이용할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Ludo.ai의 공동창업자(Co-Founder)이자 최고기술책임자(Chief Technology Officer)인 Jorge Gomes는 “타일셋은 소규모 팀이 손으로 그리기에 가장 지루한 에셋 중 하나다. 이제 1인 개발자도 세계를 묘사하고 몇 분 뒤면 그것으로 맵을 칠할 수 있다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "작동 방식은 이렇다. 탑다운 또는 아이소메트릭 그리드를 고르고 지면을 묘사하면 지형마다 이음매 없는 기본 타일이 나온다. 두 타일을 골라 흰 바다 거품이나 낮은 돌 연석 같은 경계를 묘사하면 16개 타일 세트가 완성된다. 도로·강·울타리·벽 같은 선도 깔 수 있다. 내보내기 전에는 브라우저에서 테스트 맵을 칠해 보면 된다."
-              },
-              {
-                "t": "p",
-                "x": "세트를 내보내면 16개 타일 이미지와 각 타일을 설명하는 JSON 데이터 파일이 함께 나오고, Godot 4와 Tiled에 바로 쓸 수 있는 타일셋 파일도 딸려 온다. “해질녘으로”나 “눈으로 덮어 줘”처럼 세트 전체를 고치면 똑같이 맞물리는 새 세트가 돌아온다. 2D 조명용 노멀 맵을 세트에 함께 넣을 수도 있다. 가격은 타일 하나에 0.5 크레딧, 세트 전체에 1 크레딧이고 Pro와 Studio 요금제에서는 웹 앱 생성이 무제한이다."
-              },
-              {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
-                "cap": "프롬프트 하나로 같은 해변 타일셋의 잔잔한 청록빛 바다가 폭풍 치는 바다로 바뀐다. 해안선 전환은 그대로다."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/25/i1795583465990676.jpeg",
+                "cap": ""
               },
               {
-                "t": "video",
-                "yt": "6GYU5as78CQ"
+                "t": "p",
+                "x": "KRAFTON, Inc.가 자체 개발한 30-billion (30B) 파라미터 대규모 언어 모델(LLM) Raon-1 mini의 정식 버전을 공개했다. 10월 프리뷰에 이은 이번 버전은 추론과 에이전트 작업 성능을 끌어올렸고, 응답 모드 여섯 가지를 새로 골라 쓸 수 있게 했다."
+              },
+              {
+                "t": "p",
+                "x": "Raon-1 mini는 MultiChallenge에서 64.9점으로 프리뷰보다 5.9점 올랐고, 비슷한 규모의 해외 비교 모델 여섯 개를 앞섰다. GDPVal 72.3점, BrowseComp Plus 55.9점은 비교 대상 Mixture of Experts (MoE) 기반 모델 가운데 가장 높다."
+              },
+              {
+                "t": "p",
+                "x": "새 추론 길이 조절 기능은 추론 수준 다섯 단계(low, medium, high, xhigh, max)에, 추론 없이 곧바로 답하는 표준 응답 모드(none)를 더했다."
+              },
+              {
+                "t": "p",
+                "x": "KRAFTON은 모델을 처음부터 직접 설계하고 학습시켰다. 약 30B 파라미터 가운데 4B 파라미터만 활성화하는 MoE 구조에 자체 Linear Attention을 얹었다. 라이선스는 이전처럼 Apache 2.0이다. 연구·상업용으로 Hugging Face에 올라 있고 플레이그라운드와 APIs도 열려 있다. KRAFTON은 더 큰 Raon-1과 실시간 full-duplex 음성 모델도 내놓을 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "KRAFTON의 CAIO Kangwook Lee는 “Raon-1 mini는 모델 설계부터 학습까지 모든 단계를 직접 다루며 KRAFTON이 쌓아 온 기술력을 보여 준다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ludo.ai、地面の記述で\n2Dタイルセット生成",
-          "body": "Ludo.aiのTileset Generatorが16タイルの地形セットを作る。",
-          "mini_headline": "Ludo.ai Tileset Generator",
+          "headline": "KRAFTONが無料公開\nRaon-1 miniモデル",
+          "body": "KRAFTONのMoEは約30B 中4B のみ稼働、Hugging Faceで無料公開だ。",
+          "mini_headline": "KRAFTON、Raon-1 miniを公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "制作でそのまま使えるゲームアセットづくりを支える開発者向けツールLudo.aiは本日、新ツールTileset Generatorのリリースを発表した。ゲームの地面を言葉で記述すると、2Dマップを塗るための完全なタイルセットに変換する。各セットには地形同士の接し方を網羅した16枚のタイルが含まれ、開発者が塗るにつれて地形間の縁や角が自然に収まる。トップダウンとアイソメトリックのゲームに対応し、Ludoプラットフォームのほか、Ludo CLI、MCPサーバー、REST APIからすでに利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "Ludo.aiのCo-Founder(共同創業者)兼Chief Technology Officer(最高技術責任者)であるJorge Gomes氏は「タイルセットは小規模チームが手で描くには最も手間のかかるアセットの一つだ。いまや個人開発者でも世界を記述し、数分後にはそれでマップを塗り始められる」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "使い方はこうだ。トップダウンかアイソメトリックのグリッドを選んで地面を記述すると、地形ごとに継ぎ目のないベースタイルができる。二つのタイルを選び、白い波の泡や低い石の縁石といった境界を記述すれば16枚のセット一式が得られ、道路や川、柵、壁のような線を引くこともできる。そのうえで、書き出す前にブラウザでテストマップを塗って確かめられる。"
-              },
-              {
-                "t": "p",
-                "x": "各セットは16枚のタイル画像と、各タイルを説明するJSONデータファイルとして書き出され、Godot 4とTiled向けにはすぐ使えるタイルセットファイルも用意される。「夕暮れに」「雪で覆って」といったセット全体の編集は、同じように組み合わさる新しいセットとして返ってくる。2Dライティング用の対応するノーマルマップをセットに含めることもできる。料金はタイル1枚で0.5クレジット、セット一式で1クレジットで、ProとStudioプランではウェブアプリでの生成が無制限だ。"
-              },
-              {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
-                "cap": "一つのプロンプトで、同じビーチのタイルセットが穏やかなターコイズ色の海から嵐の海へと変わり、海岸線のつながりはそのまま保たれる。"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/25/i1795583465990676.jpeg",
+                "cap": ""
               },
               {
-                "t": "video",
-                "yt": "6GYU5as78CQ"
+                "t": "p",
+                "x": "KRAFTON, Inc.は、自社開発した30-billion (30B) パラメータの大規模言語モデル（LLM）Raon-1 miniの正式版を公開した。10月に披露したプレビューに続くもので、推論とエージェントのタスク実行性能を高め、選べる応答モードを六つ加えた。"
+              },
+              {
+                "t": "p",
+                "x": "Raon-1 miniはMultiChallengeで64.9点を記録し、プレビュー版から5.9点伸ばして、同規模の海外モデル六つを上回った。GDPValでは72.3点、BrowseComp Plusでは55.9点を記録し、比較対象のMixture of Experts (MoE) ベースモデルの中で最も高かった。"
+              },
+              {
+                "t": "p",
+                "x": "新たな推論長制御機能は、五段階の推論レベル（low、medium、high、xhigh、max）に加え、推論せずに直接答える標準応答モード（none）を備える。"
+              },
+              {
+                "t": "p",
+                "x": "KRAFTONはこのモデルをゼロから自社で設計・学習した。約30B パラメータのうち4B パラメータだけを稼働させるMoEアーキテクチャに、独自のLinear Attentionを組み合わせている。ライセンスは引き続きApache 2.0で、モデルは研究・商用向けにHugging Faceで公開され、プレイグラウンドとAPIsも用意されている。KRAFTONは、より大きなRaon-1とリアルタイムのfull-duplex音声モデルも追加する予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "「Raon-1 miniは、モデル設計から学習まですべての段階を自ら手がけてKRAFTONが築いてきた技術力を示すものだ」と、KRAFTONのCAIOであるKangwook Lee氏は述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ludo.ai 按地面描述\n生成2D图块集",
-          "body": "Ludo.ai的Tileset Generator生成16块地形图块集，可直接导入引擎。",
-          "mini_headline": "Ludo.ai Tileset Generator",
+          "headline": "KRAFTON免费发布\nRaon-1 mini模型",
+          "body": "KRAFTON自研MoE约30B 参数仅激活4B ，在Hugging Face免费发布。",
+          "mini_headline": "KRAFTON发布Raon-1 mini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "帮助开发者制作可直接投入生产的游戏素材的工具Ludo.ai今天宣布推出新工具Tileset Generator，它能把对游戏地面的描述转化为一整套用于绘制2D地图的图块集。每套包含16块图块，覆盖地形相接的各种情况，开发者绘制时，地形之间的边缘和拐角会自动衔接。该工具适用于俯视角和等距视角游戏，现已在Ludo平台上线，也可通过Ludo CLI、MCP服务器和REST API使用。"
-              },
-              {
-                "t": "p",
-                "x": "Ludo.ai联合创始人（Co-Founder）兼首席技术官（Chief Technology Officer）Jorge Gomes表示：“对小团队来说，图块集是手绘起来最繁琐的素材之一。现在，独立开发者只需描述一个世界，几分钟后就能用它绘制地图。”"
-              },
-              {
-                "t": "p",
-                "x": "使用方法：选择俯视或等距网格并描述地面，即可为每种地形得到一块无缝基础图块；选取两块图块并描述它们的边界，例如白色海浪泡沫或低矮的石砌路缘，即可得到完整的16块图块集，也可以铺设道路、河流、围栏或墙壁等线条；导出前还能在浏览器中绘制测试地图。"
-              },
-              {
-                "t": "p",
-                "x": "每套图块集导出为一张包含16块图块的图像，并附带描述每块图块的JSON数据文件；Godot 4和Tiled还会获得现成的图块集文件。“改成日落时分”或“覆盖积雪”这类整套编辑会返回一套以同样方式拼合的新图块集，图块集还可附带匹配的法线贴图，用于2D光照。单块图块消耗0.5积分，整套消耗1积分；在Pro和Studio方案中，网页应用内的生成不限次数。"
-              },
-              {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
-                "cap": "只需一条提示词，同一套海滩图块集就从平静的青绿色海水变为暴风雨中的海面，海岸线过渡依然保持不变。"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/25/i1795583465990676.jpeg",
+                "cap": ""
               },
               {
-                "t": "video",
-                "yt": "6GYU5as78CQ"
+                "t": "p",
+                "x": "KRAFTON, Inc.正式发布了Raon-1 mini完整版，这是其自主研发的30-billion (30B) 参数大语言模型（LLM）。继10月推出预览版之后，此次版本提升了推理和智能体任务执行性能，并新增六种可选的回答模式。"
+              },
+              {
+                "t": "p",
+                "x": "Raon-1 mini在MultiChallenge上得到64.9分，比预览版提高5.9分，超过六款规模相近的海外同类模型。它在GDPVal上取得72.3分，在BrowseComp Plus上取得55.9分，在同类Mixture of Experts (MoE) 基线模型中最高。"
+              },
+              {
+                "t": "p",
+                "x": "新的推理长度控制提供五个推理等级（low、medium、high、xhigh、max），另有一个不经推理、直接作答的标准回答模式（none）。"
+              },
+              {
+                "t": "p",
+                "x": "KRAFTON从零开始自主设计并训练了该模型，将约30B 参数中仅激活4B 参数的MoE架构与自研的Linear Attention相结合。许可证仍为Apache 2.0；模型已在Hugging Face上开放，可用于研究和商业用途，并提供体验平台和APIs。KRAFTON计划再推出更大的Raon-1和一款实时full-duplex语音模型。"
+              },
+              {
+                "t": "p",
+                "x": "KRAFTON的CAIO Kangwook Lee表示：“Raon-1 mini体现了KRAFTON从模型设计到训练亲自掌控每个环节所积累的技术能力。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ludo.ai crea tilesets 2D\na partir de una descripción",
-          "body": "El Tileset Generator de Ludo.ai crea sets de 16 tiles de terreno en vista cenital o isométrica, listos para exportar.",
-          "mini_headline": "Tileset Generator de Ludo.ai",
+          "headline": "KRAFTON lanza Raon-1 mini\ngratis en Hugging Face",
+          "body": "El MoE propio de KRAFTON, con 4B activos de unos 30B parámetros, es gratis en Hugging Face con razonamiento ajustable.",
+          "mini_headline": "KRAFTON lanza Raon-1 mini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Ludo.ai, la herramienta de apoyo para desarrolladores que crean recursos de juego listos para producción, anunció hoy el lanzamiento de Tileset Generator, una nueva herramienta que convierte la descripción del suelo de un juego en un tileset completo para pintar mapas 2D. Cada conjunto contiene 16 tiles que cubren las distintas formas en que pueden encontrarse los terrenos, mientras los bordes y las esquinas entre ellos encajan solos a medida que el desarrollador pinta. La herramienta sirve para juegos con vista cenital e isométrica y ya está disponible en la plataforma Ludo y a través de Ludo CLI, el servidor MCP y la REST API."
-              },
-              {
-                "t": "p",
-                "x": "Jorge Gomes, Co-Founder (cofundador) y Chief Technology Officer (director de tecnología) de Ludo.ai, afirmó: “Los tilesets son uno de los recursos más tediosos de dibujar a mano para un equipo pequeño. Ahora un desarrollador en solitario puede describir un mundo y estar pintando un mapa con él pocos minutos después”."
-              },
-              {
-                "t": "p",
-                "x": "Cómo funciona: se elige una cuadrícula cenital o isométrica y se describe un suelo para obtener una tile base sin costuras por terreno; se eligen dos tiles y se describe el límite, como espuma de mar blanca o un bordillo bajo de piedra, para obtener el conjunto completo de 16 tiles, o se traza una línea como un camino, un río, una valla o un muro; después se pinta un mapa de prueba en el navegador antes de exportar."
-              },
-              {
-                "t": "p",
-                "x": "Cada conjunto se exporta como una imagen de las 16 tiles con un archivo de datos JSON que describe cada una; Godot 4 y Tiled reciben además un archivo de tileset listo para usar. Las ediciones de todo el conjunto, como “al atardecer” o “cúbrelo de nieve”, devuelven un nuevo conjunto que encaja de la misma manera, y un conjunto puede incluir un mapa de normales a juego para la iluminación 2D. Una tile cuesta 0.5 créditos y un conjunto completo, 1 crédito; en los planes Pro y Studio, la generación en la aplicación web es ilimitada."
-              },
-              {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
-                "cap": "Un solo prompt transforma el mismo tileset de playa de aguas turquesa en calma a un mar tormentoso, sin alterar las transiciones de la costa."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/25/i1795583465990676.jpeg",
+                "cap": ""
               },
               {
-                "t": "video",
-                "yt": "6GYU5as78CQ"
+                "t": "p",
+                "x": "KRAFTON, Inc. lanzó oficialmente la versión completa de Raon-1 mini, su modelo de lenguaje grande (LLM) de desarrollo propio con 30-billion (30B) parámetros. Tras la versión preliminar presentada en octubre, esta entrega mejora el razonamiento y la ejecución de tareas de agente, y añade seis modos de respuesta seleccionables."
+              },
+              {
+                "t": "p",
+                "x": "Raon-1 mini obtuvo 64.9 puntos en MultiChallenge, 5.9 puntos más que el modelo preliminar, y superó a seis modelos extranjeros comparables de escala similar. Registró 72.3 puntos en GDPVal y 55.9 puntos en BrowseComp Plus, la cifra más alta entre los modelos base Mixture of Experts (MoE) comparables."
+              },
+              {
+                "t": "p",
+                "x": "El nuevo control de la longitud del razonamiento ofrece cinco niveles (low, medium, high, xhigh, max), además de un modo de respuesta estándar (none) que contesta directamente sin razonar."
+              },
+              {
+                "t": "p",
+                "x": "KRAFTON diseñó y entrenó el modelo desde cero por su cuenta, combinando una arquitectura MoE que activa solo 4B de aproximadamente 30B parámetros con su propia Linear Attention. La licencia sigue siendo Apache 2.0; el modelo está en Hugging Face para uso académico y comercial, con un entorno de pruebas y APIs. KRAFTON prevé sumar el Raon-1 de mayor tamaño y un modelo de voz full-duplex en tiempo real."
+              },
+              {
+                "t": "p",
+                "x": "“Raon-1 mini refleja la capacidad tecnológica que KRAFTON ha construido al encargarse directamente de cada etapa, del diseño del modelo al entrenamiento”, dijo Kangwook Lee, CAIO de KRAFTON."
               }
             ]
           }
@@ -223,141 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ludo.ai, 땅 묘사로\n2D 타일셋 만든다",
-          "body": "Ludo.ai Tileset Generator가 16타일 지형 세트를 만든다.",
-          "mini_headline": "Ludo.ai Tileset Generator",
+          "headline": "KRAFTON이 무료 공개\nRaon-1 mini 모델",
+          "body": "KRAFTON MoE는 약 30B 중 4B 활성 Hugging Face서 무료다.",
+          "mini_headline": "KRAFTON, Raon-1 mini 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "실전에 쓸 게임 에셋 제작을 돕는 개발자 도구 Ludo.ai가 오늘 새 도구 Tileset Generator를 출시했다고 발표했다. 게임의 지면을 묘사하면 2D 맵을 칠할 수 있는 완전한 타일셋으로 바꿔 주는 도구다. 세트마다 지형이 맞닿는 여러 경우를 담은 16개 타일이 들어 있고, 개발자가 칠하는 동안 지형 사이의 가장자리와 모서리가 알아서 맞춰진다. 탑다운과 아이소메트릭 게임에 모두 쓸 수 있으며, 지금 Ludo 플랫폼과 Ludo CLI, MCP 서버, REST API로 이용할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Ludo.ai의 공동창업자(Co-Founder)이자 최고기술책임자(Chief Technology Officer)인 Jorge Gomes는 “타일셋은 소규모 팀이 손으로 그리기에 가장 지루한 에셋 중 하나다. 이제 1인 개발자도 세계를 묘사하고 몇 분 뒤면 그것으로 맵을 칠할 수 있다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "작동 방식은 이렇다. 탑다운 또는 아이소메트릭 그리드를 고르고 지면을 묘사하면 지형마다 이음매 없는 기본 타일이 나온다. 두 타일을 골라 흰 바다 거품이나 낮은 돌 연석 같은 경계를 묘사하면 16개 타일 세트 전체가 완성되고, 도로·강·울타리·벽 같은 선을 깔 수도 있다. 이어 내보내기 전에 브라우저에서 테스트 맵을 칠해 볼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "세트를 내보내면 16개 타일 이미지와 각 타일을 설명하는 JSON 데이터 파일이 함께 나오며, Godot 4와 Tiled에는 바로 쓸 수 있는 타일셋 파일도 제공된다. “해질녘으로”나 “눈으로 덮어 줘” 같은 세트 전체 편집은 같은 방식으로 맞물리는 새 세트로 돌아오고, 세트에 2D 조명용 노멀 맵을 함께 넣을 수도 있다. 타일 하나는 0.5 크레딧, 세트 전체는 1 크레딧이며, Pro와 Studio 요금제에서는 웹 앱 생성이 무제한이다."
-              },
-              {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
-                "cap": "프롬프트 하나로 같은 해변 타일셋이 잔잔한 청록빛 바다에서 폭풍 치는 바다로 바뀌고, 해안선 전환은 그대로 유지된다."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/25/i1795583465990676.jpeg",
+                "cap": ""
               },
               {
-                "t": "video",
-                "yt": "6GYU5as78CQ"
+                "t": "p",
+                "x": "KRAFTON, Inc.가 자체 개발한 30-billion (30B) 파라미터 대규모 언어 모델(LLM) Raon-1 mini의 정식 버전을 공개했다. 10월에 선보인 프리뷰에 이어 이번 버전은 추론과 에이전트 작업 수행 성능을 높였고, 고를 수 있는 응답 모드 여섯 가지를 더했다."
+              },
+              {
+                "t": "p",
+                "x": "Raon-1 mini는 MultiChallenge에서 64.9점을 받아 프리뷰 모델보다 5.9점 올랐고, 비슷한 규모의 해외 비교 모델 여섯 개를 앞섰다. GDPVal에서는 72.3점, BrowseComp Plus에서는 55.9점을 기록해 비교 대상 Mixture of Experts (MoE) 기반 모델 가운데 가장 높았다."
+              },
+              {
+                "t": "p",
+                "x": "새로 도입한 추론 길이 조절 기능은 다섯 단계의 추론 수준(low, medium, high, xhigh, max)과 추론 없이 바로 답하는 표준 응답 모드(none)를 제공한다."
+              },
+              {
+                "t": "p",
+                "x": "KRAFTON은 이 모델을 처음부터 직접 설계하고 학습시켰다. 약 30B 파라미터 가운데 4B 파라미터만 활성화하는 MoE 구조에 자체 Linear Attention을 결합했다. 라이선스는 그대로 Apache 2.0이며, 모델은 연구·상업용으로 Hugging Face에 올라 있고 플레이그라운드와 APIs도 제공한다. KRAFTON은 더 큰 Raon-1과 실시간 full-duplex 음성 모델도 추가할 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "“Raon-1 mini는 모델 설계부터 학습까지 모든 단계를 직접 다루며 KRAFTON이 쌓아 온 기술력을 보여 준다”고 KRAFTON의 CAIO Kangwook Lee는 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ludo.ai、地面の記述で\n2Dタイルセット生成",
-          "body": "Ludo.aiのTileset Generatorが16タイルの地形セットを作る。",
-          "mini_headline": "Ludo.ai Tileset Generator",
+          "headline": "KRAFTONが無料公開\nRaon-1 miniモデル",
+          "body": "KRAFTONのMoEは約30B 中4B のみ稼働、Hugging Faceで無料公開だ。",
+          "mini_headline": "KRAFTON、Raon-1 miniを公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "制作でそのまま使えるゲームアセットづくりを支える開発者向けツールLudo.aiは本日、新ツールTileset Generatorのリリースを発表した。ゲームの地面を言葉で記述すると、2Dマップを塗るための完全なタイルセットに変換する。各セットには地形同士の接し方を網羅した16枚のタイルが含まれ、開発者が塗るにつれて地形間の縁や角が自然に収まる。トップダウンとアイソメトリックのゲームに対応し、Ludoプラットフォームのほか、Ludo CLI、MCPサーバー、REST APIからすでに利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "Ludo.aiのCo-Founder(共同創業者)兼Chief Technology Officer(最高技術責任者)であるJorge Gomes氏は「タイルセットは小規模チームが手で描くには最も手間のかかるアセットの一つだ。いまや個人開発者でも世界を記述し、数分後にはそれでマップを塗り始められる」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "使い方はこうだ。トップダウンかアイソメトリックのグリッドを選んで地面を記述すると、地形ごとに継ぎ目のないベースタイルができる。二つのタイルを選び、白い波の泡や低い石の縁石といった境界を記述すれば16枚のセット一式が得られ、道路や川、柵、壁のような線を引くこともできる。そのうえで、書き出す前にブラウザでテストマップを塗って確かめられる。"
-              },
-              {
-                "t": "p",
-                "x": "各セットは16枚のタイル画像と、各タイルを説明するJSONデータファイルとして書き出され、Godot 4とTiled向けにはすぐ使えるタイルセットファイルも用意される。「夕暮れに」「雪で覆って」といったセット全体の編集は、同じように組み合わさる新しいセットとして返ってくる。2Dライティング用の対応するノーマルマップをセットに含めることもできる。料金はタイル1枚で0.5クレジット、セット一式で1クレジットで、ProとStudioプランではウェブアプリでの生成が無制限だ。"
-              },
-              {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
-                "cap": "一つのプロンプトで、同じビーチのタイルセットが穏やかなターコイズ色の海から嵐の海へと変わり、海岸線のつながりはそのまま保たれる。"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/25/i1795583465990676.jpeg",
+                "cap": ""
               },
               {
-                "t": "video",
-                "yt": "6GYU5as78CQ"
+                "t": "p",
+                "x": "KRAFTON, Inc.は、自社開発した30-billion (30B) パラメータの大規模言語モデル（LLM）Raon-1 miniの正式版を公開した。10月に披露したプレビューに続くもので、推論とエージェントのタスク実行性能を高め、選べる応答モードを六つ加えた。"
+              },
+              {
+                "t": "p",
+                "x": "Raon-1 miniはMultiChallengeで64.9点を記録し、プレビュー版から5.9点伸ばして、同規模の海外モデル六つを上回った。GDPValでは72.3点、BrowseComp Plusでは55.9点を記録し、比較対象のMixture of Experts (MoE) ベースモデルの中で最も高かった。"
+              },
+              {
+                "t": "p",
+                "x": "新たな推論長制御機能は、五段階の推論レベル（low、medium、high、xhigh、max）に加え、推論せずに直接答える標準応答モード（none）を備える。"
+              },
+              {
+                "t": "p",
+                "x": "KRAFTONはこのモデルをゼロから自社で設計・学習した。約30B パラメータのうち4B パラメータだけを稼働させるMoEアーキテクチャに、独自のLinear Attentionを組み合わせている。ライセンスは引き続きApache 2.0で、モデルは研究・商用向けにHugging Faceで公開され、プレイグラウンドとAPIsも用意されている。KRAFTONは、より大きなRaon-1とリアルタイムのfull-duplex音声モデルも追加する予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "「Raon-1 miniは、モデル設計から学習まですべての段階を自ら手がけてKRAFTONが築いてきた技術力を示すものだ」と、KRAFTONのCAIOであるKangwook Lee氏は述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ludo.ai 按地面描述\n生成2D图块集",
-          "body": "Ludo.ai的Tileset Generator生成16块地形图块集，可直接导入引擎。",
-          "mini_headline": "Ludo.ai Tileset Generator",
+          "headline": "KRAFTON免费发布\nRaon-1 mini模型",
+          "body": "KRAFTON自研MoE约30B 参数仅激活4B ，在Hugging Face免费发布。",
+          "mini_headline": "KRAFTON发布Raon-1 mini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "帮助开发者制作可直接投入生产的游戏素材的工具Ludo.ai今天宣布推出新工具Tileset Generator，它能把对游戏地面的描述转化为一整套用于绘制2D地图的图块集。每套包含16块图块，覆盖地形相接的各种情况，开发者绘制时，地形之间的边缘和拐角会自动衔接。该工具适用于俯视角和等距视角游戏，现已在Ludo平台上线，也可通过Ludo CLI、MCP服务器和REST API使用。"
-              },
-              {
-                "t": "p",
-                "x": "Ludo.ai联合创始人（Co-Founder）兼首席技术官（Chief Technology Officer）Jorge Gomes表示：“对小团队来说，图块集是手绘起来最繁琐的素材之一。现在，独立开发者只需描述一个世界，几分钟后就能用它绘制地图。”"
-              },
-              {
-                "t": "p",
-                "x": "使用方法：选择俯视或等距网格并描述地面，即可为每种地形得到一块无缝基础图块；选取两块图块并描述它们的边界，例如白色海浪泡沫或低矮的石砌路缘，即可得到完整的16块图块集，也可以铺设道路、河流、围栏或墙壁等线条；导出前还能在浏览器中绘制测试地图。"
-              },
-              {
-                "t": "p",
-                "x": "每套图块集导出为一张包含16块图块的图像，并附带描述每块图块的JSON数据文件；Godot 4和Tiled还会获得现成的图块集文件。“改成日落时分”或“覆盖积雪”这类整套编辑会返回一套以同样方式拼合的新图块集，图块集还可附带匹配的法线贴图，用于2D光照。单块图块消耗0.5积分，整套消耗1积分；在Pro和Studio方案中，网页应用内的生成不限次数。"
-              },
-              {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
-                "cap": "只需一条提示词，同一套海滩图块集就从平静的青绿色海水变为暴风雨中的海面，海岸线过渡依然保持不变。"
+                "src": "https://static.invenglobal.com/upload/image/2026/11/25/i1795583465990676.jpeg",
+                "cap": ""
               },
               {
-                "t": "video",
-                "yt": "6GYU5as78CQ"
+                "t": "p",
+                "x": "KRAFTON, Inc.正式发布了Raon-1 mini完整版，这是其自主研发的30-billion (30B) 参数大语言模型（LLM）。继10月推出预览版之后，此次版本提升了推理和智能体任务执行性能，并新增六种可选的回答模式。"
+              },
+              {
+                "t": "p",
+                "x": "Raon-1 mini在MultiChallenge上得到64.9分，比预览版提高5.9分，超过六款规模相近的海外同类模型。它在GDPVal上取得72.3分，在BrowseComp Plus上取得55.9分，在同类Mixture of Experts (MoE) 基线模型中最高。"
+              },
+              {
+                "t": "p",
+                "x": "新的推理长度控制提供五个推理等级（low、medium、high、xhigh、max），另有一个不经推理、直接作答的标准回答模式（none）。"
+              },
+              {
+                "t": "p",
+                "x": "KRAFTON从零开始自主设计并训练了该模型，将约30B 参数中仅激活4B 参数的MoE架构与自研的Linear Attention相结合。许可证仍为Apache 2.0；模型已在Hugging Face上开放，可用于研究和商业用途，并提供体验平台和APIs。KRAFTON计划再推出更大的Raon-1和一款实时full-duplex语音模型。"
+              },
+              {
+                "t": "p",
+                "x": "KRAFTON的CAIO Kangwook Lee表示：“Raon-1 mini体现了KRAFTON从模型设计到训练亲自掌控每个环节所积累的技术能力。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ludo.ai crea tilesets 2D\na partir de una descripción",
-          "body": "El Tileset Generator de Ludo.ai crea sets de 16 tiles de terreno en vista cenital o isométrica, listos para exportar.",
-          "mini_headline": "Tileset Generator de Ludo.ai",
+          "headline": "KRAFTON lanza Raon-1 mini\ngratis en Hugging Face",
+          "body": "El MoE propio de KRAFTON, con 4B activos de unos 30B parámetros, es gratis en Hugging Face con razonamiento ajustable.",
+          "mini_headline": "KRAFTON lanza Raon-1 mini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Ludo.ai, la herramienta de apoyo para desarrolladores que crean recursos de juego listos para producción, anunció hoy el lanzamiento de Tileset Generator, una nueva herramienta que convierte la descripción del suelo de un juego en un tileset completo para pintar mapas 2D. Cada conjunto contiene 16 tiles que cubren las distintas formas en que pueden encontrarse los terrenos, mientras los bordes y las esquinas entre ellos encajan solos a medida que el desarrollador pinta. La herramienta sirve para juegos con vista cenital e isométrica y ya está disponible en la plataforma Ludo y a través de Ludo CLI, el servidor MCP y la REST API."
-              },
-              {
-                "t": "p",
-                "x": "Jorge Gomes, Co-Founder (cofundador) y Chief Technology Officer (director de tecnología) de Ludo.ai, afirmó: “Los tilesets son uno de los recursos más tediosos de dibujar a mano para un equipo pequeño. Ahora un desarrollador en solitario puede describir un mundo y estar pintando un mapa con él pocos minutos después”."
-              },
-              {
-                "t": "p",
-                "x": "Cómo funciona: se elige una cuadrícula cenital o isométrica y se describe un suelo para obtener una tile base sin costuras por terreno; se eligen dos tiles y se describe el límite, como espuma de mar blanca o un bordillo bajo de piedra, para obtener el conjunto completo de 16 tiles, o se traza una línea como un camino, un río, una valla o un muro; después se pinta un mapa de prueba en el navegador antes de exportar."
-              },
-              {
-                "t": "p",
-                "x": "Cada conjunto se exporta como una imagen de las 16 tiles con un archivo de datos JSON que describe cada una; Godot 4 y Tiled reciben además un archivo de tileset listo para usar. Las ediciones de todo el conjunto, como “al atardecer” o “cúbrelo de nieve”, devuelven un nuevo conjunto que encaja de la misma manera, y un conjunto puede incluir un mapa de normales a juego para la iluminación 2D. Una tile cuesta 0.5 créditos y un conjunto completo, 1 crédito; en los planes Pro y Studio, la generación en la aplicación web es ilimitada."
-              },
-              {
                 "t": "img",
-                "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
-                "cap": "Un solo prompt transforma el mismo tileset de playa de aguas turquesa en calma a un mar tormentoso, sin alterar las transiciones de la costa."
+                "src": "https://static.invenglobal.com/upload/image/2026/11/25/i1795583465990676.jpeg",
+                "cap": ""
               },
               {
-                "t": "video",
-                "yt": "6GYU5as78CQ"
+                "t": "p",
+                "x": "KRAFTON, Inc. lanzó oficialmente la versión completa de Raon-1 mini, su modelo de lenguaje grande (LLM) de desarrollo propio con 30-billion (30B) parámetros. Tras la versión preliminar presentada en octubre, esta entrega mejora el razonamiento y la ejecución de tareas de agente, y añade seis modos de respuesta seleccionables."
+              },
+              {
+                "t": "p",
+                "x": "Raon-1 mini obtuvo 64.9 puntos en MultiChallenge, 5.9 puntos más que el modelo preliminar, y superó a seis modelos extranjeros comparables de escala similar. Registró 72.3 puntos en GDPVal y 55.9 puntos en BrowseComp Plus, la cifra más alta entre los modelos base Mixture of Experts (MoE) comparables."
+              },
+              {
+                "t": "p",
+                "x": "El nuevo control de la longitud del razonamiento ofrece cinco niveles (low, medium, high, xhigh, max), además de un modo de respuesta estándar (none) que contesta directamente sin razonar."
+              },
+              {
+                "t": "p",
+                "x": "KRAFTON diseñó y entrenó el modelo desde cero por su cuenta, combinando una arquitectura MoE que activa solo 4B de aproximadamente 30B parámetros con su propia Linear Attention. La licencia sigue siendo Apache 2.0; el modelo está en Hugging Face para uso académico y comercial, con un entorno de pruebas y APIs. KRAFTON prevé sumar el Raon-1 de mayor tamaño y un modelo de voz full-duplex en tiempo real."
+              },
+              {
+                "t": "p",
+                "x": "“Raon-1 mini refleja la capacidad tecnológica que KRAFTON ha construido al encargarse directamente de cada etapa, del diseño del modelo al entrenamiento”, dijo Kangwook Lee, CAIO de KRAFTON."
               }
             ]
           }
@@ -365,491 +365,219 @@
       }
     },
     {
-      "id": "unity-spark-annotate",
+      "id": "games-without-ai-steam-event",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Unity Spark에선\n장면을 가리켜 AI 지시",
-      "body": "Annotate로 장면에 그리고 고르고 짚어 Spark의 AI에 시각 맥락을 준다.",
-      "mini_headline": "Unity Spark Annotate",
+      "headline": "AI 없이 만든 게임만\n모은 Steam 이벤트",
+      "body": "생성형 AI를 안 썼다고 증명한 인디 게임이 제삼자 Steam 이벤트에 모였다.",
+      "mini_headline": "Steam의 Games Without AI",
       "tool": "Games",
-      "source": "Unity (YouTube)",
-      "url": "https://www.youtube.com/watch?v=QmX2VKa1_24",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/games-without-ai-steam-event",
       "accent": "#0070f3",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "QmX2VKa1_24"
-          },
-          {
-            "t": "p",
-            "x": "무엇을 어디에 둘지 말로만 설명하지 않아도 된다. 장면에 직접 그리고 고르고 가리키며 주석을 달면 된다."
-          },
-          {
-            "t": "p",
-            "x": "Unity Spark의 Annotate 기능으로 게임 장면이나 작업 공간 어디에든 주석을 달면, Unity Spark가 필요로 하는 시각 맥락을 정확히 건넬 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Unity Spark 비공개 베타 대기자 명단 신청: https://on.unity.com/4CmmUb7"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Unity Spark lets you point\nat the scene to guide AI",
-          "body": "Annotate lets users draw, select or point in the scene to give Spark's AI exact visual context instead of text.",
-          "mini_headline": "Unity Spark Annotate",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "QmX2VKa1_24"
-              },
-              {
-                "t": "p",
-                "x": "Instead of just describing where things go, you can annotate (draw, select, point) in the scene."
-              },
-              {
-                "t": "p",
-                "x": "With the Annotate feature in Unity Spark, you can annotate directly onto your game scene or anywhere in your workspace to give Unity Spark the exact visual context it needs."
-              },
-              {
-                "t": "p",
-                "x": "Join the Unity Spark closed beta waitlist: https://on.unity.com/4CmmUb7"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Unity Spark에선\n장면을 가리켜 AI 지시",
-          "body": "Annotate로 장면에 그리고 고르고 짚어 Spark의 AI에 시각 맥락을 준다.",
-          "mini_headline": "Unity Spark Annotate",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "QmX2VKa1_24"
-              },
-              {
-                "t": "p",
-                "x": "무엇을 어디에 둘지 말로만 설명하지 않아도 된다. 장면에 직접 그리고 고르고 가리키며 주석을 달면 된다."
-              },
-              {
-                "t": "p",
-                "x": "Unity Spark의 Annotate 기능으로 게임 장면이나 작업 공간 어디에든 주석을 달면, Unity Spark가 필요로 하는 시각 맥락을 정확히 건넬 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Unity Spark 비공개 베타 대기자 명단 신청: https://on.unity.com/4CmmUb7"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Unity Spark\nシーンを指してAIに指示",
-          "body": "Annotateでシーンに描く・選ぶ・指すだけで、SparkのAIに視覚的な文脈を渡せる。",
-          "mini_headline": "Unity Spark Annotate",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "QmX2VKa1_24"
-              },
-              {
-                "t": "p",
-                "x": "物をどこに置くかを言葉で説明するだけでなく、シーン上で直接注釈（描く、選ぶ、指す）を加えられる。"
-              },
-              {
-                "t": "p",
-                "x": "Unity SparkのAnnotate機能を使えば、ゲームシーンやワークスペースのどこにでも直接注釈を書き込み、Unity Sparkが必要とする正確な視覚的文脈を与えられる。"
-              },
-              {
-                "t": "p",
-                "x": "Unity Sparkクローズドベータのウェイトリストへの登録: https://on.unity.com/4CmmUb7"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Unity Spark：\n指向场景引导AI",
-          "body": "Annotate让用户在场景中绘制、选取或指点，为Spark的AI提供精确的视觉上下文。",
-          "mini_headline": "Unity Spark Annotate",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "QmX2VKa1_24"
-              },
-              {
-                "t": "p",
-                "x": "不必只用文字描述物体该放在哪里，你可以直接在场景中进行标注（绘制、选取、指点）。"
-              },
-              {
-                "t": "p",
-                "x": "借助Unity Spark的Annotate功能，你可以直接在游戏场景或工作区的任意位置进行标注，为Unity Spark提供所需的精确视觉上下文。"
-              },
-              {
-                "t": "p",
-                "x": "加入Unity Spark封闭测试候补名单： https://on.unity.com/4CmmUb7"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Unity Spark permite señalar\nla escena para guiar a la IA",
-          "body": "Annotate permite dibujar, seleccionar o señalar en escena para dar a la IA de Spark contexto visual en vez de texto.",
-          "mini_headline": "Unity Spark Annotate",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "QmX2VKa1_24"
-              },
-              {
-                "t": "p",
-                "x": "En lugar de solo describir dónde van las cosas, puedes hacer anotaciones (dibujar, seleccionar, señalar) en la escena."
-              },
-              {
-                "t": "p",
-                "x": "Con la función Annotate de Unity Spark, puedes anotar directamente sobre la escena de tu juego o en cualquier parte de tu espacio de trabajo para darle a Unity Spark el contexto visual exacto que necesita."
-              },
-              {
-                "t": "p",
-                "x": "Únete a la lista de espera de la beta cerrada de Unity Spark: https://on.unity.com/4CmmUb7"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Unity Spark에선\n장면을 가리켜 AI 지시",
-          "body": "Annotate로 장면에 그리고 골라 짚어 Spark의 AI에 시각 맥락을 준다.",
-          "mini_headline": "Unity Spark Annotate",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "QmX2VKa1_24"
-              },
-              {
-                "t": "p",
-                "x": "무엇을 어디에 둘지 말로 설명하는 데 그치지 않고, 장면에 직접 주석(그리기, 선택, 가리키기)을 달 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Unity Spark의 Annotate 기능을 쓰면 게임 장면이나 작업 공간 어디에든 직접 주석을 달아, Unity Spark에 필요한 정확한 시각 맥락을 전달할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Unity Spark 비공개 베타 대기자 명단 신청: https://on.unity.com/4CmmUb7"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Unity Spark\nシーンを指してAIに指示",
-          "body": "Annotateでシーンに描く・選ぶ・指すだけで、SparkのAIに視覚的な文脈を渡せる。",
-          "mini_headline": "Unity Spark Annotate",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "QmX2VKa1_24"
-              },
-              {
-                "t": "p",
-                "x": "物をどこに置くかを言葉で説明するだけでなく、シーン上で直接注釈（描く、選ぶ、指す）を加えられる。"
-              },
-              {
-                "t": "p",
-                "x": "Unity SparkのAnnotate機能を使えば、ゲームシーンやワークスペースのどこにでも直接注釈を書き込み、Unity Sparkが必要とする正確な視覚的文脈を与えられる。"
-              },
-              {
-                "t": "p",
-                "x": "Unity Sparkクローズドベータのウェイトリストへの登録: https://on.unity.com/4CmmUb7"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Unity Spark：\n指向场景引导AI",
-          "body": "Annotate让用户在场景中绘制、选取或指点，为Spark的AI提供精确的视觉上下文。",
-          "mini_headline": "Unity Spark Annotate",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "QmX2VKa1_24"
-              },
-              {
-                "t": "p",
-                "x": "不必只用文字描述物体该放在哪里，你可以直接在场景中进行标注（绘制、选取、指点）。"
-              },
-              {
-                "t": "p",
-                "x": "借助Unity Spark的Annotate功能，你可以直接在游戏场景或工作区的任意位置进行标注，为Unity Spark提供所需的精确视觉上下文。"
-              },
-              {
-                "t": "p",
-                "x": "加入Unity Spark封闭测试候补名单： https://on.unity.com/4CmmUb7"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Unity Spark permite señalar\nla escena para guiar a la IA",
-          "body": "Annotate permite dibujar, seleccionar o señalar en escena para dar a la IA de Spark contexto visual en vez de texto.",
-          "mini_headline": "Unity Spark Annotate",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "QmX2VKa1_24"
-              },
-              {
-                "t": "p",
-                "x": "En lugar de solo describir dónde van las cosas, puedes hacer anotaciones (dibujar, seleccionar, señalar) en la escena."
-              },
-              {
-                "t": "p",
-                "x": "Con la función Annotate de Unity Spark, puedes anotar directamente sobre la escena de tu juego o en cualquier parte de tu espacio de trabajo para darle a Unity Spark el contexto visual exacto que necesita."
-              },
-              {
-                "t": "p",
-                "x": "Únete a la lista de espera de la beta cerrada de Unity Spark: https://on.unity.com/4CmmUb7"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "tlou2-ai-multiplayer-mod",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "라스트 오브 어스 2에\nAI-built 멀티 모드",
-      "body": "AI 도구로 모드를 만든 한 모더가 Sony도 막기 어려울 거라고 주장했다.",
-      "mini_headline": "AI-built TLOU2 멀티플레이 모드",
-      "tool": "Games",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/new-multiplayer-mod-for-the-last-of-us-part-2",
-      "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+            "src": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&auto=webp",
             "cap": ""
           },
           {
             "t": "p",
-            "x": "또 다른 모더가 AI로 The Last of Us Part 2용 멀티플레이 모드를 만들었다. “설령 나를 막는다 해도” Sony가 할 수 있는 일은 별로 없다는 게 그의 주장이다."
+            "x": "새 Steam 이벤트 'Games Without AI'에 나온 게임은 모두 개발 과정에서 AI를 전혀 쓰지 않았다는 점을 앞세운다. Valve가 아닌 제삼자 Dev Land Marketing, All Ages Of Geek, Dark Cocooning이 “진짜 창작자를 지원하기” 위해 꾸렸고, 11월 25일부터 12월 6일까지 열린다."
           },
           {
             "t": "p",
-            "x": "Naughty Dog는 The Last of Us Part 2를 토대로 준비하던 멀티플레이 게임 Factions를 취소했다. 9월에는 제작자 'Speclizer'의 기대작 멀티플레이 모드가 공개도 되기 전에 Sony의 중지 요구 서한을 받았다."
+            "x": "픽셀 아트로 그린 '코지 방치형(cozy incremental)' 게임 Pidgeon Pocket, 희귀한 벌을 모아 꿀을 병에 담는 Bottled by Bears, Pacific Drive와 Subnautica를 섞은 듯한 Arctic Awakening 등이 참가했다."
+          },
+          {
+            "t": "video",
+            "yt": "3EALTDMG31A"
           },
           {
             "t": "p",
-            "x": "새 모드 Twelve Weeks는 PC판 The Last of Us Part 2 Remastered 전용이고, 제작자는 생성형 AI를 썼다고 인정했다. 모더 'Kellie'는 게임 개발 대부분을 Claude code로 했고 게임 안 설정 텍스트도 AI로 썼다고 밝혔다. 다만 아트는 Blender로 만들었다."
+            "x": "한 참가 개발자는 Reddit에 자격 심사를 피해 가기 어려웠다고 적었다. “모두 게임을 AI 없이 만들었다는 증거를 내고 과정을 최대한 공유해야 했습니다. 그다음 실제로 커뮤니티 투표를 거쳤습니다.”"
           },
           {
             "t": "p",
-            "x": "현재 모드에는 Supply Raid와 Interrogation을 다시 꾸민 레벨이 들어 있고, 팀 기반 4v4 전투와 새 무기, 캐릭터 커스터마이징도 있다. 플레이어는 WLF와 Seraphites로 나뉘어 싸운다. Twelve Weeks는 Nexus Mods에서 받을 수 있다. 저장소 면책 문구는 이 모드가 비공식 팬 프로젝트이며 게임 파일도, 게임에서 가져온 에셋도 들어 있지 않다고 밝힌다."
-          },
-          {
-            "t": "p",
-            "x": "Kellie는 YouTube 댓글에서 앞선 Factions 모드가 Sony의 제재를 받은 건 유료로 공개됐기 때문이라고 했다. 그는 “내 모드는 이미 무료 오픈소스로 공개됐다”며 “사람들이 이미 전체 모드의 소스 코드를 갖고 있으니, 설령 나를 막는다 해도 그쪽이 할 수 있는 일은 많지 않다”고 덧붙였다."
+            "x": "가장 최근 Steam Next Fest에서는 게임 약 17퍼센트가 생성형 AI 사용을 밝혔다. 6월 행사에서는 천 개가 넘는 게임, 약 20퍼센트가 고지를 달았다. Steam은 AI 사용 고지를 요구하지만 “효율 향상”만 내세우는 개발사는 이를 건너뛸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Last of Us Part 2 gets an\nAI-built multiplayer mod",
-          "body": "A modder says they used AI tools to build the mode and argues Sony can do little to stop it, even with takedowns.",
-          "mini_headline": "AI-built TLOU2 multiplayer mod",
+          "headline": "A Steam event for games\nmade without AI",
+          "body": "A third-party Steam event showcases indie games whose developers had to prove they were made without generative AI.",
+          "mini_headline": "Games Without AI on Steam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "src": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&auto=webp",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "Another modder has used AI to make a multiplayer mode for The Last of Us Part 2, insisting there isn't much Sony can do about it \"even if they do shut me down.\""
+                "x": "A new Steam event, 'Games Without AI', claims all games featured in it have avoided AI entirely during development. It was set up by a third party rather than Valve - Dev Land Marketing, All Ages Of Geek, and Dark Cocooning - to \"support real creators\" and runs from 25th November to 6th December."
               },
               {
                 "t": "p",
-                "x": "Naughty Dog cancelled its planned Factions multiplayer game based on The Last of Us Part 2. In September, a promising multiplayer mod by creator 'Speclizer' was sent a cease and desist letter from Sony before release."
+                "x": "Featured games include Pidgeon Pocket, a 'cozy incremental' with pixel art; Bottled by Bears, about collecting rare bees and bottling honey; and Arctic Awakening, which looks like Pacific Drive meets Subnautica."
+              },
+              {
+                "t": "video",
+                "yt": "3EALTDMG31A"
               },
               {
                 "t": "p",
-                "x": "The new mod is called Twelve Weeks and was built specifically for The Last of Us Part 2 Remastered on PC, using, its creator has admitted, generative AI. Modder 'Kellie' admitted to using Claude code for most of the game's development, and AI was even used to write the lore dumps you can find in the game. The art was, however, made using Blender."
+                "x": "On Reddit, one participating developer said the qualification process was hard to bypass: \"We were all required to provide proofs of the game being made without AI and share as much of the process as possible. Then it was actually voted by community.\""
               },
               {
                 "t": "p",
-                "x": "It features reworked levels — Supply Raid and Interrogation for now — with team-based 4v4 combat, new weapons, and character customization, with players fighting as the WLF and Seraphites. You can grab Twelve Weeks on Nexus Mods. A repository disclaimer says it is an unofficial fan project and contains no game files and no assets taken from the game."
-              },
-              {
-                "t": "p",
-                "x": "In a reply on YouTube, Kellie said the previous Factions mod got hit by Sony because it was paywalled. \"Mine is released already for free and in open source,\" they said. \"Since people have the source code to the full mod already, there ain't much they can do even if they do shut me down.\""
+                "x": "At the most recent Steam Next Fest, roughly 17 percent of games listed the use of generative AI; in June's event more than a thousand games, roughly 20 percent, featured a disclosure. Steam requires AI disclosure, but devs claiming only \"efficiency gains\" can skip it."
               }
             ]
           }
         },
         "ko": {
-          "headline": "라스트 오브 어스 2에\nAI-built 멀티 모드",
-          "body": "AI 도구로 모드를 만든 한 모더가 Sony도 막기 어려울 거라고 주장했다.",
-          "mini_headline": "AI-built TLOU2 멀티플레이 모드",
+          "headline": "AI 없이 만든 게임만\n모은 Steam 이벤트",
+          "body": "생성형 AI를 안 썼다고 증명한 인디 게임이 제삼자 Steam 이벤트에 모였다.",
+          "mini_headline": "Steam의 Games Without AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "src": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&auto=webp",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "또 다른 모더가 AI로 The Last of Us Part 2용 멀티플레이 모드를 만들었다. “설령 나를 막는다 해도” Sony가 할 수 있는 일은 별로 없다는 게 그의 주장이다."
+                "x": "새 Steam 이벤트 'Games Without AI'에 나온 게임은 모두 개발 과정에서 AI를 전혀 쓰지 않았다는 점을 앞세운다. Valve가 아닌 제삼자 Dev Land Marketing, All Ages Of Geek, Dark Cocooning이 “진짜 창작자를 지원하기” 위해 꾸렸고, 11월 25일부터 12월 6일까지 열린다."
               },
               {
                 "t": "p",
-                "x": "Naughty Dog는 The Last of Us Part 2를 토대로 준비하던 멀티플레이 게임 Factions를 취소했다. 9월에는 제작자 'Speclizer'의 기대작 멀티플레이 모드가 공개도 되기 전에 Sony의 중지 요구 서한을 받았다."
+                "x": "픽셀 아트로 그린 '코지 방치형(cozy incremental)' 게임 Pidgeon Pocket, 희귀한 벌을 모아 꿀을 병에 담는 Bottled by Bears, Pacific Drive와 Subnautica를 섞은 듯한 Arctic Awakening 등이 참가했다."
+              },
+              {
+                "t": "video",
+                "yt": "3EALTDMG31A"
               },
               {
                 "t": "p",
-                "x": "새 모드 Twelve Weeks는 PC판 The Last of Us Part 2 Remastered 전용이고, 제작자는 생성형 AI를 썼다고 인정했다. 모더 'Kellie'는 게임 개발 대부분을 Claude code로 했고 게임 안 설정 텍스트도 AI로 썼다고 밝혔다. 다만 아트는 Blender로 만들었다."
+                "x": "한 참가 개발자는 Reddit에 자격 심사를 피해 가기 어려웠다고 적었다. “모두 게임을 AI 없이 만들었다는 증거를 내고 과정을 최대한 공유해야 했습니다. 그다음 실제로 커뮤니티 투표를 거쳤습니다.”"
               },
               {
                 "t": "p",
-                "x": "현재 모드에는 Supply Raid와 Interrogation을 다시 꾸민 레벨이 들어 있고, 팀 기반 4v4 전투와 새 무기, 캐릭터 커스터마이징도 있다. 플레이어는 WLF와 Seraphites로 나뉘어 싸운다. Twelve Weeks는 Nexus Mods에서 받을 수 있다. 저장소 면책 문구는 이 모드가 비공식 팬 프로젝트이며 게임 파일도, 게임에서 가져온 에셋도 들어 있지 않다고 밝힌다."
-              },
-              {
-                "t": "p",
-                "x": "Kellie는 YouTube 댓글에서 앞선 Factions 모드가 Sony의 제재를 받은 건 유료로 공개됐기 때문이라고 했다. 그는 “내 모드는 이미 무료 오픈소스로 공개됐다”며 “사람들이 이미 전체 모드의 소스 코드를 갖고 있으니, 설령 나를 막는다 해도 그쪽이 할 수 있는 일은 많지 않다”고 덧붙였다."
+                "x": "가장 최근 Steam Next Fest에서는 게임 약 17퍼센트가 생성형 AI 사용을 밝혔다. 6월 행사에서는 천 개가 넘는 게임, 약 20퍼센트가 고지를 달았다. Steam은 AI 사용 고지를 요구하지만 “효율 향상”만 내세우는 개발사는 이를 건너뛸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "『ラスアス2』に\nAI-builtマルチMOD",
-          "body": "あるモッダーがAIツールでモードを作り、削除されてもSonyはほぼ止められないと主張する。",
-          "mini_headline": "AI-built TLOU2 マルチプレイMOD",
+          "headline": "AIなしで作ったゲーム\nSteamイベント開催",
+          "body": "第三者のSteamイベントに、生成AI不使用を証明したインディーゲームが集まった。",
+          "mini_headline": "SteamのGames Without AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "src": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&auto=webp",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "また別のモッダーがAIを使って『The Last of Us Part 2』のマルチプレイモードを作り、「たとえ自分が止められたとしても」Sonyにできることはあまりないと主張している。"
+                "x": "新しいSteamイベント「Games Without AI」は、参加作すべてが開発中にAIを一切使っていないとうたう。Valveではなく第三者のDev Land Marketing、All Ages Of Geek、Dark Cocooningが「本物のクリエイターを支援する」ために立ち上げたもので、11月25日から12月6日まで開かれる。"
               },
               {
                 "t": "p",
-                "x": "Naughty Dogは、『The Last of Us Part 2』をベースにしたマルチプレイゲーム『Factions』の計画を中止した。9月には、制作者「Speclizer」による期待のマルチプレイMODが、公開前にSonyから停止通告書を受け取っている。"
+                "x": "出展作には、ピクセルアートの「コージーな放置系（cozy incremental）」Pidgeon Pocket、珍しいハチを集めて蜂蜜を瓶詰めするBottled by Bears、Pacific DriveとSubnauticaを掛け合わせたようなArctic Awakeningなどがある。"
+              },
+              {
+                "t": "video",
+                "yt": "3EALTDMG31A"
               },
               {
                 "t": "p",
-                "x": "新しいMODの名前は「Twelve Weeks」で、PC版『The Last of Us Part 2 Remastered』専用に作られた。制作者は生成AIを使ったことを認めている。モッダーの「Kellie」は、ゲーム開発の大部分にClaude codeを使ったと認め、ゲーム内で読める設定テキストの執筆にもAIが使われた。ただしアートはBlenderで制作されている。"
+                "x": "Redditでは、参加した開発者の一人が審査はすり抜けにくかったと語った。「全員がAIなしでゲームを作った証拠を出し、制作過程をできるだけ共有する必要があった。そのうえで実際にコミュニティの投票にかけられた」"
               },
               {
                 "t": "p",
-                "x": "現時点ではSupply RaidとInterrogationを作り直したレベルを収録し、チーム制の4v4戦闘、新しい武器、キャラクターカスタマイズを備える。プレイヤーはWLFとSeraphitesに分かれて戦う。Twelve WeeksはNexus Modsで入手できる。リポジトリの免責事項には、非公式のファンプロジェクトであり、ゲームファイルもゲームから取り出したアセットも含まないと記されている。"
-              },
-              {
-                "t": "p",
-                "x": "KellieはYouTubeでの返信で、以前のFactions MODは有料だったためにSonyに潰されたと述べた。「自分のMODはすでに無料かつオープンソースで公開している」とし、「みんなすでにMOD全体のソースコードを持っているから、たとえ自分が止められたとしても、向こうにできることはあまりない」と語った。"
+                "x": "直近のSteam Next Festでは約17パーセントのゲームが生成AIの使用を明記し、6月のイベントでは千本を超えるゲーム、約20パーセントが開示を掲げていた。SteamはAIの開示を求めているが、「効率化」だけを主張する開発者は開示を省ける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "《最后生还者2》迎来\nAI-built多人模组",
-          "body": "一名模组作者称用AI工具打造了该模式，并认为即便遭下架，Sony也难以阻止。",
-          "mini_headline": "AI-built TLOU2 多人模组",
+          "headline": "Steam上线活动\n只收不用AI的游戏",
+          "body": "一项第三方Steam活动展示独立游戏，开发者须证明未使用生成式AI。",
+          "mini_headline": "Steam上的Games Without AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "src": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&auto=webp",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "又一名模组作者用AI为《The Last of Us Part 2》制作了多人模式，并坚称“即便他们真的叫停我”，Sony也做不了什么。"
+                "x": "新的Steam活动“Games Without AI”宣称，参展的所有游戏在开发中完全没有使用AI。活动并非由Valve举办，而是由第三方Dev Land Marketing、All Ages Of Geek和Dark Cocooning发起，旨在“支持真正的创作者”，时间为11月25日至12月6日。"
               },
               {
                 "t": "p",
-                "x": "Naughty Dog已取消了基于《The Last of Us Part 2》的多人游戏Factions计划。9月，创作者“Speclizer”制作的一款备受期待的多人模组在发布前收到了Sony的停止侵权函。"
+                "x": "参展游戏包括像素风“治愈系放置（cozy incremental）”游戏Pidgeon Pocket；收集稀有蜜蜂、装瓶蜂蜜的Bottled by Bears；以及看起来像Pacific Drive与Subnautica结合体的Arctic Awakening。"
+              },
+              {
+                "t": "video",
+                "yt": "3EALTDMG31A"
               },
               {
                 "t": "p",
-                "x": "这款新模组名为Twelve Weeks，专为PC版《The Last of Us Part 2 Remastered》打造，其作者承认使用了生成式AI。模组作者“Kellie”承认游戏的大部分开发工作都借助了Claude code，就连游戏中可读到的背景设定文本也由AI撰写。不过，美术资源是用Blender制作的。"
+                "x": "一位参展开发者在Reddit上表示，资格审核很难蒙混过关：“我们都必须提供游戏未使用AI制作的证明，并尽可能多地分享制作过程。之后还真的经过了社区投票。”"
               },
               {
                 "t": "p",
-                "x": "模组目前包含重制的Supply Raid和Interrogation关卡，提供团队制4v4对战、新武器和角色自定义，玩家分别以WLF和Seraphites的身份作战。Twelve Weeks可在Nexus Mods下载。代码仓库的免责声明称，这是一个非官方粉丝项目，不包含任何游戏文件，也没有取自游戏的素材。"
-              },
-              {
-                "t": "p",
-                "x": "Kellie在YouTube上回复称，此前的Factions模组之所以遭到Sony打击，是因为它设置了付费门槛。“我的模组已经免费开源发布，”他们说，“既然大家已经拿到了完整模组的源代码，就算他们叫停我，也做不了什么。”"
+                "x": "在最近一届Steam Next Fest上，约百分之十七的游戏注明使用了生成式AI；在6月的活动中，超过一千款游戏、约百分之二十附有披露说明。Steam要求披露AI使用情况，但只声称“提升效率”的开发者可以不披露。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Last of Us Part 2 recibe un\nmod multijugador AI-built",
-          "body": "Un modder dice que creó el modo con herramientas de IA y que Sony poco puede hacer, aun con retiradas.",
-          "mini_headline": "Mod multijugador AI-built de TLOU2",
+          "headline": "Un evento de Steam para juegos\nhechos sin AI",
+          "body": "Un evento de terceros en Steam reúne juegos indie cuyos desarrolladores debieron probar que no usaron AI generativa.",
+          "mini_headline": "Games Without AI en Steam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "src": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&auto=webp",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "Otro modder ha usado IA para crear un modo multijugador para The Last of Us Part 2, y sostiene que Sony no puede hacer mucho al respecto \"aunque me cierren\"."
+                "x": "Un nuevo evento de Steam, 'Games Without AI', asegura que todos sus juegos evitaron por completo la AI durante el desarrollo. Lo organizó un tercero y no Valve —Dev Land Marketing, All Ages Of Geek y Dark Cocooning— para “apoyar a los creadores reales”, y se celebra del 25 de noviembre al 6 de diciembre."
               },
               {
                 "t": "p",
-                "x": "Naughty Dog canceló Factions, el juego multijugador que tenía previsto basado en The Last of Us Part 2. En septiembre, un prometedor mod multijugador del creador 'Speclizer' recibió de Sony una carta de cese y desistimiento antes de su lanzamiento."
+                "x": "Entre los juegos destacados figuran Pidgeon Pocket, un 'incremental acogedor' (cozy incremental) con pixel art; Bottled by Bears, sobre coleccionar abejas raras y embotellar miel; y Arctic Awakening, que parece una mezcla de Pacific Drive y Subnautica."
+              },
+              {
+                "t": "video",
+                "yt": "3EALTDMG31A"
               },
               {
                 "t": "p",
-                "x": "El nuevo mod se llama Twelve Weeks y se creó específicamente para The Last of Us Part 2 Remastered en PC usando, según ha admitido su creador, IA generativa. Quien lo creó, 'Kellie', admitió haber usado Claude code para la mayor parte del desarrollo, y la IA se usó incluso para escribir los textos de trasfondo que se encuentran en el juego. El arte, sin embargo, se hizo con Blender."
+                "x": "En Reddit, un desarrollador participante dijo que el proceso de selección era difícil de eludir: “A todos nos exigieron pruebas de que el juego se hizo sin AI y compartir todo lo posible del proceso. Luego, la comunidad votó de verdad”."
               },
               {
                 "t": "p",
-                "x": "Incluye niveles rediseñados —por ahora, Supply Raid e Interrogation— con combates por equipos 4v4, armas nuevas y personalización de personajes, en los que los jugadores luchan como WLF y Seraphites. Twelve Weeks se puede descargar en Nexus Mods. Un aviso en el repositorio indica que es un proyecto no oficial de fans y que no contiene archivos del juego ni recursos extraídos de él."
-              },
-              {
-                "t": "p",
-                "x": "En una respuesta en YouTube, Kellie dijo que el anterior mod de Factions fue blanco de Sony porque era de pago. \"El mío ya está publicado gratis y en código abierto\", dijo. \"Como la gente ya tiene el código fuente del mod completo, no pueden hacer mucho aunque me cierren\"."
+                "x": "En el Steam Next Fest más reciente, cerca del 17 por ciento de los juegos declaró el uso de AI generativa; en el evento de junio, más de mil juegos, cerca del 20 por ciento, incluían una declaración. Steam exige declarar la AI, pero quienes alegan solo “mejoras de eficiencia” pueden omitirla."
               }
             ]
           }
@@ -857,141 +585,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "라스트 오브 어스 2에\nAI-built 멀티 모드",
-          "body": "한 모더가 AI 도구로 모드를 만들었다며 Sony가 막기 어렵다고 주장했다.",
-          "mini_headline": "AI-built TLOU2 멀티플레이 모드",
+          "headline": "AI 없이 만든 게임만\n모은 Steam 이벤트",
+          "body": "제삼자가 연 Steam 이벤트에 생성형 AI 미사용을 증명한 인디 게임이 모였다.",
+          "mini_headline": "Steam의 Games Without AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "src": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&auto=webp",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "또 다른 모더가 AI로 The Last of Us Part 2용 멀티플레이 모드를 만들었다. 그는 “설령 나를 막는다 해도” Sony가 할 수 있는 일은 많지 않다고 주장한다."
+                "x": "새 Steam 이벤트 'Games Without AI'는 참가한 모든 게임이 개발 과정에서 AI를 전혀 쓰지 않았다고 내세운다. Valve가 아닌 제삼자인 Dev Land Marketing, All Ages Of Geek, Dark Cocooning이 “진짜 창작자를 지원하기” 위해 마련했으며, 11월 25일부터 12월 6일까지 열린다."
               },
               {
                 "t": "p",
-                "x": "Naughty Dog는 The Last of Us Part 2를 바탕으로 계획했던 멀티플레이 게임 Factions를 취소했다. 9월에는 제작자 'Speclizer'가 만든 기대작 멀티플레이 모드가 공개 전에 Sony로부터 중지 요구 서한을 받았다."
+                "x": "참가작으로는 픽셀 아트로 그린 '코지 방치형(cozy incremental)' 게임 Pidgeon Pocket, 희귀한 벌을 모으고 꿀을 병에 담는 Bottled by Bears, Pacific Drive와 Subnautica를 합친 듯한 Arctic Awakening 등이 있다."
+              },
+              {
+                "t": "video",
+                "yt": "3EALTDMG31A"
               },
               {
                 "t": "p",
-                "x": "새 모드의 이름은 Twelve Weeks로, PC판 The Last of Us Part 2 Remastered 전용으로 만들어졌으며 제작자는 생성형 AI를 썼다고 인정했다. 모더 'Kellie'는 게임 개발 대부분에 Claude code를 썼다고 밝혔고, 게임 안에서 볼 수 있는 설정 텍스트를 쓰는 데도 AI를 활용했다. 다만 아트는 Blender로 만들었다."
+                "x": "Reddit에서 한 참가 개발자는 자격 심사를 피해 가기 어려웠다고 말했다. “모두 게임을 AI 없이 만들었다는 증거를 내고 과정을 최대한 공유해야 했습니다. 그다음 실제로 커뮤니티 투표를 거쳤습니다.”"
               },
               {
                 "t": "p",
-                "x": "모드에는 지금으로선 Supply Raid와 Interrogation을 재구성한 레벨이 담겼고, 팀 기반 4v4 전투와 새 무기, 캐릭터 커스터마이징을 갖췄다. 플레이어는 WLF와 Seraphites로 나뉘어 싸운다. Twelve Weeks는 Nexus Mods에서 받을 수 있다. 저장소의 면책 문구에는 비공식 팬 프로젝트이며 게임 파일도, 게임에서 가져온 에셋도 들어 있지 않다고 적혀 있다."
-              },
-              {
-                "t": "p",
-                "x": "Kellie는 YouTube 댓글에서 이전 Factions 모드가 유료로 공개됐기 때문에 Sony의 제재를 받았다고 말했다. 그는 “내 모드는 이미 무료 오픈소스로 공개됐다”며 “사람들이 이미 전체 모드의 소스 코드를 갖고 있으니, 설령 나를 막는다 해도 그쪽이 할 수 있는 일은 많지 않다”고 했다."
+                "x": "가장 최근 Steam Next Fest에서는 약 17퍼센트의 게임이 생성형 AI 사용을 밝혔고, 6월 행사에서는 천 개가 넘는 게임, 약 20퍼센트가 고지를 달았다. Steam은 AI 사용 고지를 요구하지만, “효율 향상”만 내세우는 개발사는 이를 건너뛸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "『ラスアス2』に\nAI-builtマルチMOD",
-          "body": "あるモッダーがAIツールでモードを作り、削除されてもSonyはほぼ止められないと主張する。",
-          "mini_headline": "AI-built TLOU2 マルチプレイMOD",
+          "headline": "AIなしで作ったゲーム\nSteamイベント開催",
+          "body": "第三者のSteamイベントに、生成AI不使用を証明したインディーゲームが集まった。",
+          "mini_headline": "SteamのGames Without AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "src": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&auto=webp",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "また別のモッダーがAIを使って『The Last of Us Part 2』のマルチプレイモードを作り、「たとえ自分が止められたとしても」Sonyにできることはあまりないと主張している。"
+                "x": "新しいSteamイベント「Games Without AI」は、参加作すべてが開発中にAIを一切使っていないとうたう。Valveではなく第三者のDev Land Marketing、All Ages Of Geek、Dark Cocooningが「本物のクリエイターを支援する」ために立ち上げたもので、11月25日から12月6日まで開かれる。"
               },
               {
                 "t": "p",
-                "x": "Naughty Dogは、『The Last of Us Part 2』をベースにしたマルチプレイゲーム『Factions』の計画を中止した。9月には、制作者「Speclizer」による期待のマルチプレイMODが、公開前にSonyから停止通告書を受け取っている。"
+                "x": "出展作には、ピクセルアートの「コージーな放置系（cozy incremental）」Pidgeon Pocket、珍しいハチを集めて蜂蜜を瓶詰めするBottled by Bears、Pacific DriveとSubnauticaを掛け合わせたようなArctic Awakeningなどがある。"
+              },
+              {
+                "t": "video",
+                "yt": "3EALTDMG31A"
               },
               {
                 "t": "p",
-                "x": "新しいMODの名前は「Twelve Weeks」で、PC版『The Last of Us Part 2 Remastered』専用に作られた。制作者は生成AIを使ったことを認めている。モッダーの「Kellie」は、ゲーム開発の大部分にClaude codeを使ったと認め、ゲーム内で読める設定テキストの執筆にもAIが使われた。ただしアートはBlenderで制作されている。"
+                "x": "Redditでは、参加した開発者の一人が審査はすり抜けにくかったと語った。「全員がAIなしでゲームを作った証拠を出し、制作過程をできるだけ共有する必要があった。そのうえで実際にコミュニティの投票にかけられた」"
               },
               {
                 "t": "p",
-                "x": "現時点ではSupply RaidとInterrogationを作り直したレベルを収録し、チーム制の4v4戦闘、新しい武器、キャラクターカスタマイズを備える。プレイヤーはWLFとSeraphitesに分かれて戦う。Twelve WeeksはNexus Modsで入手できる。リポジトリの免責事項には、非公式のファンプロジェクトであり、ゲームファイルもゲームから取り出したアセットも含まないと記されている。"
-              },
-              {
-                "t": "p",
-                "x": "KellieはYouTubeでの返信で、以前のFactions MODは有料だったためにSonyに潰されたと述べた。「自分のMODはすでに無料かつオープンソースで公開している」とし、「みんなすでにMOD全体のソースコードを持っているから、たとえ自分が止められたとしても、向こうにできることはあまりない」と語った。"
+                "x": "直近のSteam Next Festでは約17パーセントのゲームが生成AIの使用を明記し、6月のイベントでは千本を超えるゲーム、約20パーセントが開示を掲げていた。SteamはAIの開示を求めているが、「効率化」だけを主張する開発者は開示を省ける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "《最后生还者2》迎来\nAI-built多人模组",
-          "body": "一名模组作者称用AI工具打造了该模式，并认为即便遭下架，Sony也难以阻止。",
-          "mini_headline": "AI-built TLOU2 多人模组",
+          "headline": "Steam上线活动\n只收不用AI的游戏",
+          "body": "一项第三方Steam活动展示独立游戏，开发者须证明未使用生成式AI。",
+          "mini_headline": "Steam上的Games Without AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "src": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&auto=webp",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "又一名模组作者用AI为《The Last of Us Part 2》制作了多人模式，并坚称“即便他们真的叫停我”，Sony也做不了什么。"
+                "x": "新的Steam活动“Games Without AI”宣称，参展的所有游戏在开发中完全没有使用AI。活动并非由Valve举办，而是由第三方Dev Land Marketing、All Ages Of Geek和Dark Cocooning发起，旨在“支持真正的创作者”，时间为11月25日至12月6日。"
               },
               {
                 "t": "p",
-                "x": "Naughty Dog已取消了基于《The Last of Us Part 2》的多人游戏Factions计划。9月，创作者“Speclizer”制作的一款备受期待的多人模组在发布前收到了Sony的停止侵权函。"
+                "x": "参展游戏包括像素风“治愈系放置（cozy incremental）”游戏Pidgeon Pocket；收集稀有蜜蜂、装瓶蜂蜜的Bottled by Bears；以及看起来像Pacific Drive与Subnautica结合体的Arctic Awakening。"
+              },
+              {
+                "t": "video",
+                "yt": "3EALTDMG31A"
               },
               {
                 "t": "p",
-                "x": "这款新模组名为Twelve Weeks，专为PC版《The Last of Us Part 2 Remastered》打造，其作者承认使用了生成式AI。模组作者“Kellie”承认游戏的大部分开发工作都借助了Claude code，就连游戏中可读到的背景设定文本也由AI撰写。不过，美术资源是用Blender制作的。"
+                "x": "一位参展开发者在Reddit上表示，资格审核很难蒙混过关：“我们都必须提供游戏未使用AI制作的证明，并尽可能多地分享制作过程。之后还真的经过了社区投票。”"
               },
               {
                 "t": "p",
-                "x": "模组目前包含重制的Supply Raid和Interrogation关卡，提供团队制4v4对战、新武器和角色自定义，玩家分别以WLF和Seraphites的身份作战。Twelve Weeks可在Nexus Mods下载。代码仓库的免责声明称，这是一个非官方粉丝项目，不包含任何游戏文件，也没有取自游戏的素材。"
-              },
-              {
-                "t": "p",
-                "x": "Kellie在YouTube上回复称，此前的Factions模组之所以遭到Sony打击，是因为它设置了付费门槛。“我的模组已经免费开源发布，”他们说，“既然大家已经拿到了完整模组的源代码，就算他们叫停我，也做不了什么。”"
+                "x": "在最近一届Steam Next Fest上，约百分之十七的游戏注明使用了生成式AI；在6月的活动中，超过一千款游戏、约百分之二十附有披露说明。Steam要求披露AI使用情况，但只声称“提升效率”的开发者可以不披露。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Last of Us Part 2 recibe un\nmod multijugador AI-built",
-          "body": "Un modder dice que creó el modo con herramientas de IA y que Sony poco puede hacer, aun con retiradas.",
-          "mini_headline": "Mod multijugador AI-built de TLOU2",
+          "headline": "Un evento de Steam para juegos\nhechos sin AI",
+          "body": "Un evento de terceros en Steam reúne juegos indie cuyos desarrolladores debieron probar que no usaron AI generativa.",
+          "mini_headline": "Games Without AI en Steam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/06/22/the-last-of-us-part-2-multiplayer-1782160463542.png",
+                "src": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&auto=webp",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "Otro modder ha usado IA para crear un modo multijugador para The Last of Us Part 2, y sostiene que Sony no puede hacer mucho al respecto \"aunque me cierren\"."
+                "x": "Un nuevo evento de Steam, 'Games Without AI', asegura que todos sus juegos evitaron por completo la AI durante el desarrollo. Lo organizó un tercero y no Valve —Dev Land Marketing, All Ages Of Geek y Dark Cocooning— para “apoyar a los creadores reales”, y se celebra del 25 de noviembre al 6 de diciembre."
               },
               {
                 "t": "p",
-                "x": "Naughty Dog canceló Factions, el juego multijugador que tenía previsto basado en The Last of Us Part 2. En septiembre, un prometedor mod multijugador del creador 'Speclizer' recibió de Sony una carta de cese y desistimiento antes de su lanzamiento."
+                "x": "Entre los juegos destacados figuran Pidgeon Pocket, un 'incremental acogedor' (cozy incremental) con pixel art; Bottled by Bears, sobre coleccionar abejas raras y embotellar miel; y Arctic Awakening, que parece una mezcla de Pacific Drive y Subnautica."
+              },
+              {
+                "t": "video",
+                "yt": "3EALTDMG31A"
               },
               {
                 "t": "p",
-                "x": "El nuevo mod se llama Twelve Weeks y se creó específicamente para The Last of Us Part 2 Remastered en PC usando, según ha admitido su creador, IA generativa. Quien lo creó, 'Kellie', admitió haber usado Claude code para la mayor parte del desarrollo, y la IA se usó incluso para escribir los textos de trasfondo que se encuentran en el juego. El arte, sin embargo, se hizo con Blender."
+                "x": "En Reddit, un desarrollador participante dijo que el proceso de selección era difícil de eludir: “A todos nos exigieron pruebas de que el juego se hizo sin AI y compartir todo lo posible del proceso. Luego, la comunidad votó de verdad”."
               },
               {
                 "t": "p",
-                "x": "Incluye niveles rediseñados —por ahora, Supply Raid e Interrogation— con combates por equipos 4v4, armas nuevas y personalización de personajes, en los que los jugadores luchan como WLF y Seraphites. Twelve Weeks se puede descargar en Nexus Mods. Un aviso en el repositorio indica que es un proyecto no oficial de fans y que no contiene archivos del juego ni recursos extraídos de él."
-              },
-              {
-                "t": "p",
-                "x": "En una respuesta en YouTube, Kellie dijo que el anterior mod de Factions fue blanco de Sony porque era de pago. \"El mío ya está publicado gratis y en código abierto\", dijo. \"Como la gente ya tiene el código fuente del mod completo, no pueden hacer mucho aunque me cierren\"."
+                "x": "En el Steam Next Fest más reciente, cerca del 17 por ciento de los juegos declaró el uso de AI generativa; en el evento de junio, más de mil juegos, cerca del 20 por ciento, incluían una declaración. Steam exige declarar la AI, pero quienes alegan solo “mejoras de eficiencia” pueden omitirla."
               }
             ]
           }
@@ -999,15 +727,417 @@
       }
     },
     {
-      "id": "umamusume-ai-clone-pulled",
+      "id": "shiftup-wmt2026-translation",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "시프트업 AI 번역\nWMT 2026 최상위권",
+      "body": "시프트업의 게임 현지화용 AI 번역이 WMT 2026 최상위 그룹에 들었다.",
+      "mini_headline": "시프트업, WMT 최상위권",
+      "tool": "Games",
+      "source": "아이뉴스24",
+      "url": "https://www.inews24.com/view/2030133",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "시프트업(대표 김형태)은 자체 개발한 AI 번역 시스템 'COZY'가 국제 기계번역 학술대회 'WMT (Conference on Machine Translation) 2026' 전문용어 번역 부문에서 최상위 그룹(프런티어)에 선정됐다고 25일 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "WMT는 2006년부터 이어져 온 기계번역 분야의 권위 있는 국제 학술 행사로, 올해는 10월 28일과 29일 헝가리 부다페스트에서 열렸다. 전체 13개 공동 과제 가운데 전문용어 번역 부문에는 아마존, 삼성전자, 화웨이 등 글로벌 기업과 연구기관을 포함해 17개 팀이 참여했다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.inews24.com/v1/996edb739c7200.jpg",
+            "cap": ""
+          },
+          {
+            "t": "p",
+            "x": "시프트업 AI 랩스가 개발한 COZY는 '전문용어 정확도'와 '전체 번역 품질 종합평가' 두 개 트랙에서 각각 상위 3개 시스템에 주어지는 프런티어 그룹에 이름을 올렸다."
+          },
+          {
+            "t": "p",
+            "x": "시프트업 AI 랩스는 게임 개발 현장에 쓰이는 AI 기술을 연구하고 제작 도구를 개발하는 조직이다. 반복 작업에 드는 시간을 줄여 개발진이 창작과 완성도 향상에 집중하도록 돕는다. AI를 창작의 대체재가 아닌 개발자의 역량을 뒷받침하는 도구로 활용해, 이용자에게 더 높은 품질의 게임을 선보이는 것을 목표로 한다."
+          },
+          {
+            "t": "p",
+            "x": "COZY는 이러한 방향에서 개발된 번역 시스템으로, 번역 과정을 △용어집 구축 △용어 선별 △번역 등 세 단계로 나눠 처리한다. 별도의 AI 모델을 새로 학습시키지 않고도 '하네스 엔지니어링'을 통해 전문용어 정확도와 문장의 자연스러움을 함께 높인 것이 특징이다. 하네스 엔지니어링은 AI 모델이 실제 작업에서 최적의 성능을 발휘할 수 있도록 도구, 실행 구조, 검증 체계 등을 설계하고 최적화하는 기술을 뜻한다."
+          },
+          {
+            "t": "p",
+            "x": "이동기 시프트업 CTO는 \"방대한 세계관 속 고유명사와 스킬∙아이템 명칭, 캐릭터별 어조를 일관되게 유지하는 것이 게임 현지화의 중요한 요소\"라며 \"이번 성과를 바탕으로 COZY의 자사 게임 적용을 확대해 번역 품질과 검수 효율을 높이고, 글로벌 동시 출시와 라이브 업데이트 대응 역량도 강화하겠다\"고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "시프트업 AI 번역\nWMT 2026 최상위권",
+          "body": "시프트업의 게임 현지화용 AI 번역이 WMT 2026 최상위 그룹에 들었다.",
+          "mini_headline": "시프트업, WMT 최상위권",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "시프트업(대표 김형태)은 자체 개발한 AI 번역 시스템 'COZY'가 국제 기계번역 학술대회 'WMT (Conference on Machine Translation) 2026' 전문용어 번역 부문에서 최상위 그룹(프런티어)에 선정됐다고 25일 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "WMT는 2006년부터 이어져 온 기계번역 분야의 권위 있는 국제 학술 행사로, 올해는 10월 28일과 29일 헝가리 부다페스트에서 열렸다. 전체 13개 공동 과제 가운데 전문용어 번역 부문에는 아마존, 삼성전자, 화웨이 등 글로벌 기업과 연구기관을 포함해 17개 팀이 참여했다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/996edb739c7200.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "시프트업 AI 랩스가 개발한 COZY는 '전문용어 정확도'와 '전체 번역 품질 종합평가' 두 개 트랙에서 각각 상위 3개 시스템에 주어지는 프런티어 그룹에 이름을 올렸다."
+              },
+              {
+                "t": "p",
+                "x": "시프트업 AI 랩스는 게임 개발 현장에 쓰이는 AI 기술을 연구하고 제작 도구를 개발하는 조직이다. 반복 작업에 드는 시간을 줄여 개발진이 창작과 완성도 향상에 집중하도록 돕는다. AI를 창작의 대체재가 아닌 개발자의 역량을 뒷받침하는 도구로 활용해, 이용자에게 더 높은 품질의 게임을 선보이는 것을 목표로 한다."
+              },
+              {
+                "t": "p",
+                "x": "COZY는 이러한 방향에서 개발된 번역 시스템으로, 번역 과정을 △용어집 구축 △용어 선별 △번역 등 세 단계로 나눠 처리한다. 별도의 AI 모델을 새로 학습시키지 않고도 '하네스 엔지니어링'을 통해 전문용어 정확도와 문장의 자연스러움을 함께 높인 것이 특징이다. 하네스 엔지니어링은 AI 모델이 실제 작업에서 최적의 성능을 발휘할 수 있도록 도구, 실행 구조, 검증 체계 등을 설계하고 최적화하는 기술을 뜻한다."
+              },
+              {
+                "t": "p",
+                "x": "이동기 시프트업 CTO는 \"방대한 세계관 속 고유명사와 스킬∙아이템 명칭, 캐릭터별 어조를 일관되게 유지하는 것이 게임 현지화의 중요한 요소\"라며 \"이번 성과를 바탕으로 COZY의 자사 게임 적용을 확대해 번역 품질과 검수 효율을 높이고, 글로벌 동시 출시와 라이브 업데이트 대응 역량도 강화하겠다\"고 말했다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Shift Up's AI translation\nranks top tier at WMT 2026",
+          "body": "Shift Up's AI translation for game localization made the top group at WMT 2026.",
+          "mini_headline": "Shift Up in WMT top tier",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Shift Up (CEO Kim Hyung-tae) said on the 25th that its in-house AI translation system 'COZY' was selected for the top group (Frontier) in the terminology translation category of 'WMT (Conference on Machine Translation) 2026', an international machine translation conference."
+              },
+              {
+                "t": "p",
+                "x": "WMT is a prestigious international academic event in machine translation that has run since 2006; this year it was held in Budapest, Hungary, on October 28 and 29. Of its 13 shared tasks, the terminology translation category drew 17 teams, including global companies such as Amazon, Samsung Electronics and Huawei as well as research institutions."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/996edb739c7200.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "COZY, developed by Shift Up AI Labs, was named to the Frontier group, awarded to the top 3 systems, in both of two tracks: 'terminology accuracy' and 'overall translation quality assessment'."
+              },
+              {
+                "t": "p",
+                "x": "Shift Up AI Labs researches AI technology used in game development and builds production tools. It cuts the time spent on repetitive work so developers can focus on creation and polish. Its goal is to use AI not as a substitute for creativity but as a tool that supports developers' abilities, so that players get higher-quality games."
+              },
+              {
+                "t": "p",
+                "x": "COZY was developed along these lines and splits translation into three stages: glossary building, term selection and translation. Its distinguishing feature is that it improves both terminology accuracy and sentence naturalness through 'harness engineering', without training a separate new AI model. Harness engineering means designing and optimizing tools, execution structures and verification systems so that an AI model performs at its best in real work."
+              },
+              {
+                "t": "p",
+                "x": "\"Keeping the proper nouns of a vast game world, skill and item names, and each character's tone consistent is an important part of game localization,\" said Lee Dong-gi, CTO of Shift Up. \"Building on this result, we will expand COZY's use in our own games to raise translation quality and review efficiency, and strengthen our ability to handle simultaneous global launches and live updates.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Shift Up AI翻訳\nWMT 2026で最上位",
+          "body": "Shift Upのゲーム現地化向けAI翻訳がWMT 2026で最上位グループに入った。",
+          "mini_headline": "Shift Up、WMT最上位",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Shift Up（代表キム・ヒョンテ）は25日、自社開発のAI翻訳システム「COZY」が国際機械翻訳学会「WMT (Conference on Machine Translation) 2026」の専門用語翻訳部門で最上位グループ（フロンティア）に選ばれたと発表した。"
+              },
+              {
+                "t": "p",
+                "x": "WMTは2006年から続く機械翻訳分野の権威ある国際学術イベントで、今年は10月28日と29日にハンガリーのブダペストで開かれた。全13件の共通タスクのうち、専門用語翻訳部門にはアマゾン、サムスン電子、ファーウェイなどのグローバル企業や研究機関を含む17チームが参加した。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/996edb739c7200.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Shift Up AIラボが開発したCOZYは、「専門用語の正確さ」と「翻訳品質の総合評価」の二つのトラックで、それぞれ上位3システムに与えられるフロンティアグループに名を連ねた。"
+              },
+              {
+                "t": "p",
+                "x": "Shift Up AIラボは、ゲーム開発の現場で使うAI技術を研究し、制作ツールを開発する組織だ。繰り返し作業にかかる時間を減らし、開発陣が創作と完成度の向上に集中できるよう支える。AIを創作の代替ではなく開発者の力を支える道具として使い、より品質の高いゲームをユーザーに届けることを目指している。"
+              },
+              {
+                "t": "p",
+                "x": "COZYはこうした方針で開発された翻訳システムで、翻訳工程を用語集の構築、用語の選別、翻訳の三段階に分けて処理する。別のAIモデルを新たに学習させることなく、「ハーネスエンジニアリング」によって専門用語の正確さと文章の自然さを同時に高めた点が特徴だ。ハーネスエンジニアリングとは、AIモデルが実際の作業で最適な性能を発揮できるよう、ツールや実行構造、検証体制などを設計・最適化する技術を指す。"
+              },
+              {
+                "t": "p",
+                "x": "Shift UpのCTOイ・ドンギ氏は「広大な世界観の固有名詞やスキル・アイテム名、キャラクターごとの口調を一貫して保つことがゲームローカライズの重要な要素だ」としたうえで、「今回の成果をもとに自社ゲームへのCOZYの適用を広げ、翻訳品質と検収効率を高めるとともに、グローバル同時リリースやライブアップデートへの対応力も強化していく」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Shift Up AI翻译\nWMT 2026跻身顶级",
+          "body": "Shift Up用于游戏本地化的AI翻译入选WMT 2026最高组别。",
+          "mini_headline": "Shift Up跻身WMT顶级组",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Shift Up（代表Kim Hyung-tae）25日宣布，其自主研发的AI翻译系统“COZY”在国际机器翻译学术会议“WMT (Conference on Machine Translation) 2026”的术语翻译赛道中入选最高组别（前沿组）。"
+              },
+              {
+                "t": "p",
+                "x": "WMT是自2006年延续至今的机器翻译领域权威国际学术活动，今年于10月28日至29日在匈牙利布达佩斯举行。在全部13项共享任务中，术语翻译赛道共有17支队伍参赛，其中包括亚马逊、三星电子、华为等全球企业和研究机构。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/996edb739c7200.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "由Shift Up AI实验室开发的COZY，在“术语准确度”和“整体翻译质量综合评估”两个赛道中，均跻身授予前3名系统的前沿组。"
+              },
+              {
+                "t": "p",
+                "x": "Shift Up AI实验室负责研究游戏开发一线所用的AI技术并开发制作工具。它通过减少重复性工作所需的时间，帮助开发团队专注于创作和打磨品质。其目标是把AI作为支撑开发者能力的工具，而非创作的替代品，从而为玩家带来更高品质的游戏。"
+              },
+              {
+                "t": "p",
+                "x": "COZY正是在这一方向下开发的翻译系统，将翻译流程分为构建术语表、筛选术语和翻译三个阶段处理。其特点是无需另行训练新的AI模型，而是通过“驾驭工程”（harness engineering）同时提升术语准确度和语句的自然度。驾驭工程是指设计并优化工具、执行结构、验证体系等，使AI模型在实际工作中发挥最佳性能的技术。"
+              },
+              {
+                "t": "p",
+                "x": "Shift Up CTO Lee Dong-gi表示：“在庞大世界观中保持专有名词、技能与道具名称以及每个角色语气的一致，是游戏本地化的重要因素。”他还说：“我们将以此次成果为基础，扩大COZY在自家游戏中的应用，提升翻译质量和审校效率，并加强应对全球同步发行与实时更新的能力。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Traducción con AI de Shift Up\nentre las mejores en WMT 2026",
+          "body": "La traducción con AI de Shift Up para localizar juegos entró en el grupo superior de WMT 2026.",
+          "mini_headline": "Shift Up, en la cima de WMT",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Shift Up (director ejecutivo Kim Hyung-tae) informó el día 25 que su sistema de traducción con AI de desarrollo propio, 'COZY', fue seleccionado para el grupo superior (Frontera) en la categoría de traducción terminológica de 'WMT (Conference on Machine Translation) 2026', una conferencia académica internacional de traducción automática."
+              },
+              {
+                "t": "p",
+                "x": "WMT es un prestigioso encuentro académico internacional de traducción automática que se celebra desde 2006; este año tuvo lugar en Budapest, Hungría, el 28 y 29 de octubre. De sus 13 tareas compartidas, la categoría de traducción terminológica reunió a 17 equipos, entre ellos empresas globales como Amazon, Samsung Electronics y Huawei, además de instituciones de investigación."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/996edb739c7200.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "COZY, desarrollado por Shift Up AI Labs, entró en el grupo Frontera, reservado a los 3 mejores sistemas, en cada una de las dos pistas: 'precisión terminológica' y 'evaluación global de la calidad de traducción'."
+              },
+              {
+                "t": "p",
+                "x": "Shift Up AI Labs es la unidad que investiga tecnologías de AI para el desarrollo de juegos y crea herramientas de producción. Reduce el tiempo dedicado a tareas repetitivas para que el equipo se concentre en la creación y en mejorar el acabado. Su objetivo es usar la AI no como sustituto de la creatividad, sino como herramienta que respalda las capacidades de los desarrolladores, para ofrecer juegos de mayor calidad a los jugadores."
+              },
+              {
+                "t": "p",
+                "x": "COZY es un sistema de traducción desarrollado con ese enfoque, que divide el proceso en tres etapas: creación del glosario, selección de términos y traducción. Su rasgo distintivo es que mejora a la vez la precisión terminológica y la naturalidad de las frases mediante la 'ingeniería de arnés' (harness engineering), sin entrenar un nuevo modelo de AI. La ingeniería de arnés consiste en diseñar y optimizar herramientas, estructuras de ejecución y sistemas de verificación para que un modelo de AI rinda al máximo en el trabajo real."
+              },
+              {
+                "t": "p",
+                "x": "“Mantener coherentes los nombres propios de un universo extenso, los nombres de habilidades y objetos y el tono de cada personaje es un elemento importante de la localización de juegos”, dijo Lee Dong-gi, CTO de Shift Up. “Sobre la base de este resultado, ampliaremos el uso de COZY en nuestros juegos para elevar la calidad de traducción y la eficiencia de revisión, y reforzaremos nuestra capacidad para lanzamientos globales simultáneos y actualizaciones en vivo”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Shift Up's AI translation\nranks top tier at WMT 2026",
+          "body": "Shift Up's AI translation for game localization made the top group at WMT 2026.",
+          "mini_headline": "Shift Up in WMT top tier",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Shift Up (CEO Kim Hyung-tae) said on the 25th that its in-house AI translation system 'COZY' was selected for the top group (Frontier) in the terminology translation category of 'WMT (Conference on Machine Translation) 2026', an international machine translation conference."
+              },
+              {
+                "t": "p",
+                "x": "WMT is a prestigious international academic event in machine translation that has run since 2006; this year it was held in Budapest, Hungary, on October 28 and 29. Of its 13 shared tasks, the terminology translation category drew 17 teams, including global companies such as Amazon, Samsung Electronics and Huawei as well as research institutions."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/996edb739c7200.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "COZY, developed by Shift Up AI Labs, was named to the Frontier group, awarded to the top 3 systems, in both of two tracks: 'terminology accuracy' and 'overall translation quality assessment'."
+              },
+              {
+                "t": "p",
+                "x": "Shift Up AI Labs researches AI technology used in game development and builds production tools. It cuts the time spent on repetitive work so developers can focus on creation and polish. Its goal is to use AI not as a substitute for creativity but as a tool that supports developers' abilities, so that players get higher-quality games."
+              },
+              {
+                "t": "p",
+                "x": "COZY was developed along these lines and splits translation into three stages: glossary building, term selection and translation. Its distinguishing feature is that it improves both terminology accuracy and sentence naturalness through 'harness engineering', without training a separate new AI model. Harness engineering means designing and optimizing tools, execution structures and verification systems so that an AI model performs at its best in real work."
+              },
+              {
+                "t": "p",
+                "x": "\"Keeping the proper nouns of a vast game world, skill and item names, and each character's tone consistent is an important part of game localization,\" said Lee Dong-gi, CTO of Shift Up. \"Building on this result, we will expand COZY's use in our own games to raise translation quality and review efficiency, and strengthen our ability to handle simultaneous global launches and live updates.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Shift Up AI翻訳\nWMT 2026で最上位",
+          "body": "Shift Upのゲーム現地化向けAI翻訳がWMT 2026で最上位グループに入った。",
+          "mini_headline": "Shift Up、WMT最上位",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Shift Up（代表キム・ヒョンテ）は25日、自社開発のAI翻訳システム「COZY」が国際機械翻訳学会「WMT (Conference on Machine Translation) 2026」の専門用語翻訳部門で最上位グループ（フロンティア）に選ばれたと発表した。"
+              },
+              {
+                "t": "p",
+                "x": "WMTは2006年から続く機械翻訳分野の権威ある国際学術イベントで、今年は10月28日と29日にハンガリーのブダペストで開かれた。全13件の共通タスクのうち、専門用語翻訳部門にはアマゾン、サムスン電子、ファーウェイなどのグローバル企業や研究機関を含む17チームが参加した。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/996edb739c7200.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Shift Up AIラボが開発したCOZYは、「専門用語の正確さ」と「翻訳品質の総合評価」の二つのトラックで、それぞれ上位3システムに与えられるフロンティアグループに名を連ねた。"
+              },
+              {
+                "t": "p",
+                "x": "Shift Up AIラボは、ゲーム開発の現場で使うAI技術を研究し、制作ツールを開発する組織だ。繰り返し作業にかかる時間を減らし、開発陣が創作と完成度の向上に集中できるよう支える。AIを創作の代替ではなく開発者の力を支える道具として使い、より品質の高いゲームをユーザーに届けることを目指している。"
+              },
+              {
+                "t": "p",
+                "x": "COZYはこうした方針で開発された翻訳システムで、翻訳工程を用語集の構築、用語の選別、翻訳の三段階に分けて処理する。別のAIモデルを新たに学習させることなく、「ハーネスエンジニアリング」によって専門用語の正確さと文章の自然さを同時に高めた点が特徴だ。ハーネスエンジニアリングとは、AIモデルが実際の作業で最適な性能を発揮できるよう、ツールや実行構造、検証体制などを設計・最適化する技術を指す。"
+              },
+              {
+                "t": "p",
+                "x": "Shift UpのCTOイ・ドンギ氏は「広大な世界観の固有名詞やスキル・アイテム名、キャラクターごとの口調を一貫して保つことがゲームローカライズの重要な要素だ」としたうえで、「今回の成果をもとに自社ゲームへのCOZYの適用を広げ、翻訳品質と検収効率を高めるとともに、グローバル同時リリースやライブアップデートへの対応力も強化していく」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Shift Up AI翻译\nWMT 2026跻身顶级",
+          "body": "Shift Up用于游戏本地化的AI翻译入选WMT 2026最高组别。",
+          "mini_headline": "Shift Up跻身WMT顶级组",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Shift Up（代表Kim Hyung-tae）25日宣布，其自主研发的AI翻译系统“COZY”在国际机器翻译学术会议“WMT (Conference on Machine Translation) 2026”的术语翻译赛道中入选最高组别（前沿组）。"
+              },
+              {
+                "t": "p",
+                "x": "WMT是自2006年延续至今的机器翻译领域权威国际学术活动，今年于10月28日至29日在匈牙利布达佩斯举行。在全部13项共享任务中，术语翻译赛道共有17支队伍参赛，其中包括亚马逊、三星电子、华为等全球企业和研究机构。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/996edb739c7200.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "由Shift Up AI实验室开发的COZY，在“术语准确度”和“整体翻译质量综合评估”两个赛道中，均跻身授予前3名系统的前沿组。"
+              },
+              {
+                "t": "p",
+                "x": "Shift Up AI实验室负责研究游戏开发一线所用的AI技术并开发制作工具。它通过减少重复性工作所需的时间，帮助开发团队专注于创作和打磨品质。其目标是把AI作为支撑开发者能力的工具，而非创作的替代品，从而为玩家带来更高品质的游戏。"
+              },
+              {
+                "t": "p",
+                "x": "COZY正是在这一方向下开发的翻译系统，将翻译流程分为构建术语表、筛选术语和翻译三个阶段处理。其特点是无需另行训练新的AI模型，而是通过“驾驭工程”（harness engineering）同时提升术语准确度和语句的自然度。驾驭工程是指设计并优化工具、执行结构、验证体系等，使AI模型在实际工作中发挥最佳性能的技术。"
+              },
+              {
+                "t": "p",
+                "x": "Shift Up CTO Lee Dong-gi表示：“在庞大世界观中保持专有名词、技能与道具名称以及每个角色语气的一致，是游戏本地化的重要因素。”他还说：“我们将以此次成果为基础，扩大COZY在自家游戏中的应用，提升翻译质量和审校效率，并加强应对全球同步发行与实时更新的能力。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Traducción con AI de Shift Up\nentre las mejores en WMT 2026",
+          "body": "La traducción con AI de Shift Up para localizar juegos entró en el grupo superior de WMT 2026.",
+          "mini_headline": "Shift Up, en la cima de WMT",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Shift Up (director ejecutivo Kim Hyung-tae) informó el día 25 que su sistema de traducción con AI de desarrollo propio, 'COZY', fue seleccionado para el grupo superior (Frontera) en la categoría de traducción terminológica de 'WMT (Conference on Machine Translation) 2026', una conferencia académica internacional de traducción automática."
+              },
+              {
+                "t": "p",
+                "x": "WMT es un prestigioso encuentro académico internacional de traducción automática que se celebra desde 2006; este año tuvo lugar en Budapest, Hungría, el 28 y 29 de octubre. De sus 13 tareas compartidas, la categoría de traducción terminológica reunió a 17 equipos, entre ellos empresas globales como Amazon, Samsung Electronics y Huawei, además de instituciones de investigación."
+              },
+              {
+                "t": "img",
+                "src": "https://image.inews24.com/v1/996edb739c7200.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "COZY, desarrollado por Shift Up AI Labs, entró en el grupo Frontera, reservado a los 3 mejores sistemas, en cada una de las dos pistas: 'precisión terminológica' y 'evaluación global de la calidad de traducción'."
+              },
+              {
+                "t": "p",
+                "x": "Shift Up AI Labs es la unidad que investiga tecnologías de AI para el desarrollo de juegos y crea herramientas de producción. Reduce el tiempo dedicado a tareas repetitivas para que el equipo se concentre en la creación y en mejorar el acabado. Su objetivo es usar la AI no como sustituto de la creatividad, sino como herramienta que respalda las capacidades de los desarrolladores, para ofrecer juegos de mayor calidad a los jugadores."
+              },
+              {
+                "t": "p",
+                "x": "COZY es un sistema de traducción desarrollado con ese enfoque, que divide el proceso en tres etapas: creación del glosario, selección de términos y traducción. Su rasgo distintivo es que mejora a la vez la precisión terminológica y la naturalidad de las frases mediante la 'ingeniería de arnés' (harness engineering), sin entrenar un nuevo modelo de AI. La ingeniería de arnés consiste en diseñar y optimizar herramientas, estructuras de ejecución y sistemas de verificación para que un modelo de AI rinda al máximo en el trabajo real."
+              },
+              {
+                "t": "p",
+                "x": "“Mantener coherentes los nombres propios de un universo extenso, los nombres de habilidades y objetos y el tono de cada personaje es un elemento importante de la localización de juegos”, dijo Lee Dong-gi, CTO de Shift Up. “Sobre la base de este resultado, ampliaremos el uso de COZY en nuestros juegos para elevar la calidad de traducción y la eficiencia de revisión, y reforzaremos nuestra capacidad para lanzamientos globales simultáneos y actualizaciones en vivo”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "games-dlss5-rdr2-31pct",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI Umamusume\n아류작, 팬 신고에 퇴출",
-      "body": "팬들이 신고하자 AI Umamusume 아류작이 Google Play에서 사라졌다.",
-      "mini_headline": "AI Umamusume 아류작 퇴출",
+      "headline": "DLSS 5 켜면\nRDR2 4K 31% 하락",
+      "body": "RTX 5080에서 DLSS 5를 켜면 RDR2 4K 프레임이 31% 준다.",
+      "mini_headline": "RDR2의 DLSS 5, 31% 손실",
       "tool": "Games",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/umamusame-pretty-derby-ai-clone-taken-off-mobile-after-reports",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-dlss-5-red-dead-redemption-2-31-4k-performance-natural-lighting/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1015,179 +1145,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-DLSS-5-Red-Dead-Redemption-2-1920x1080.jpg",
             "cap": ""
           },
           {
             "t": "p",
-            "x": "AI로 만든 Umamusume: Pretty Derby(우마무스메 프리티 더비) 아류작이 팬들의 분노를 사고 결국 Google Play Store에서 삭제됐다. 커뮤니티가 힘을 모아 이 게임을 Cygames에 신고했다."
+            "x": "Rockstar Games의 Red Dead Redemption 2 같은 게임은 지금도 NVIDIA DLSS 5 Neural Rendering의 덕을 가장 많이 본다. 모드로 넣은 단일 패스만으로도 조명이 무척 자연스러워 화면이 거의 영화 같다."
+          },
+          {
+            "t": "p",
+            "x": "MxBenchmarkPC가 YouTube에 올린 새 비교 영상에는 DLSS 5 Neural Rendering을 끈 화면과 단일 패스, 이중 패스 화면이 나란히 담겼다."
+          },
+          {
+            "t": "p",
+            "x": "RTX 5080에서 DLSS 4.5 Performance 모드로 4K 해상도를 돌리면 프레임이 단일 패스는 31%, 이중 패스는 41% 떨어진다. 단일 패스는 조명·그림자·반사가 확 좋아진다. 원본 느낌은 살리면서 뿌연 기운을 걷어 내고 접촉 그림자를 깊게 판다. 이중 패스는 60 FPS 아래로 자주 떨어지고 화면이 훨씬 어두워져 그림자 디테일이 뭉개지며 캐릭터도 어색해 보인다."
           },
           {
             "t": "video",
-            "yt": "bZ6NL-oPEkI"
+            "yt": "gpnVNFvjmHs"
           },
           {
             "t": "p",
-            "x": "HIFI Publishers가 만든 Anime Racing Academy는 공식 스토어 설명에 “액션 가득한 애니메이션 레이싱 게임”이라고 소개돼 있었다. Umamusume처럼 인간형 말 소녀를 키우고 경주에 내보내는 게임으로, 디자인 일부는 Umamusume 캐릭터를 바짝 본떴고 일부는 아예 그대로 베낀 듯하다. 호기심에 게임을 열어 본 팬들은 Umamusume와 달리 광고가 잔뜩 붙어 있다고 지적했다."
-          },
-          {
-            "t": "p",
-            "x": "게임을 발견한 Umamusume 팬들은 너도나도 신고해 Google Play Store에서 내리자고 나섰다. 이 글을 쓰는 지금은 실제로 그렇게 된 듯하다. 게임은 더 이상 모바일 플랫폼에서 찾을 수 없다. HIFI Publishers의 다른 게임은 스토어에 그대로 있어, 신고를 받은 이 게임만 내려간 것으로 보인다."
+            "x": "Red Dead Redemption 2는 아직 DLSS 5를 공식 지원하지 않는다. Neural Rendering을 공식 지원하는 게임은 네 개뿐이고, 가장 최근에는 이번 주 초 Where Winds Meet이 합류했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI Umamusume clone pulled\nafter mass fan reports",
-          "body": "Anime Racing Academy, an ad-stuffed AI Umamusume knockoff, left Google Play after fans reported it to Cygames.",
-          "mini_headline": "AI Umamusume clone pulled",
+          "headline": "DLSS 5 costs Red Dead\nRedemption 2 31% at 4K",
+          "body": "On an RTX 5080, DLSS 5 costs RDR2 31% of its 4K frame rate, and a single pass beats a double pass for lighting.",
+          "mini_headline": "DLSS 5 in RDR2 costs 31%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-DLSS-5-Red-Dead-Redemption-2-1920x1080.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "An AI clone of Umamusume: Pretty Derby has been struck off the Google Play Store after it drew the ire of fans, and the community organised to report the offending title to Cygames."
+                "x": "Games such as Rockstar Games' Red Dead Redemption 2 continue to benefit the most from NVIDIA DLSS 5 Neural Rendering, as a single pass with a modded implementation delivers such natural lighting that the game almost turns into a movie."
+              },
+              {
+                "t": "p",
+                "x": "A new comparison video shared by MxBenchmarkPC on YouTube compares the game running without DLSS 5 Neural Rendering, with a single pass, and with a double pass."
+              },
+              {
+                "t": "p",
+                "x": "On an RTX 5080, the frame rate takes a 31% hit at 4K with DLSS 4.5 in Performance mode for a single pass, and 41% with a double pass. A single pass works wonders for lighting, shadows, and reflections, cleaning up haze and deepening contact shadows while preserving the vanilla feel. A double pass often drops below 60 FPS and makes visuals much darker, crushing shadow detail; it also makes characters feel unnatural."
               },
               {
                 "t": "video",
-                "yt": "bZ6NL-oPEkI"
+                "yt": "gpnVNFvjmHs"
               },
               {
                 "t": "p",
-                "x": "Anime Racing Academy, developed by HIFI Publishers, was described as an \"action-packed anime racing game\" on its official store description. Like Umamusume, it allows players to manage and race humanoid horse girls, with some of its designs either very close replications of Umamusume characters while others appear to be outright copies. Unlike Umamusume, it was packed full of ads, as highlighted by curious fans."
-              },
-              {
-                "t": "p",
-                "x": "Once Umamusume fans discovered the game, many pushed to have the game reported and taken off the Google Play Store. As of writing this appears to have happened, as the game is no longer discoverable on the mobile platform. Other games from HIFI Publishers remain up on stores, which indicates this specific game has been reported and subsequently taken down."
+                "x": "Red Dead Redemption 2 hasn't received official DLSS 5 support yet; only four games officially support Neural Rendering, the last of them being Where Winds Meet, which received support earlier this week."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI Umamusume\n아류작, 팬 신고에 퇴출",
-          "body": "팬들이 신고하자 AI Umamusume 아류작이 Google Play에서 사라졌다.",
-          "mini_headline": "AI Umamusume 아류작 퇴출",
+          "headline": "DLSS 5 켜면\nRDR2 4K 31% 하락",
+          "body": "RTX 5080에서 DLSS 5를 켜면 RDR2 4K 프레임이 31% 준다.",
+          "mini_headline": "RDR2의 DLSS 5, 31% 손실",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-DLSS-5-Red-Dead-Redemption-2-1920x1080.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "AI로 만든 Umamusume: Pretty Derby(우마무스메 프리티 더비) 아류작이 팬들의 분노를 사고 결국 Google Play Store에서 삭제됐다. 커뮤니티가 힘을 모아 이 게임을 Cygames에 신고했다."
+                "x": "Rockstar Games의 Red Dead Redemption 2 같은 게임은 지금도 NVIDIA DLSS 5 Neural Rendering의 덕을 가장 많이 본다. 모드로 넣은 단일 패스만으로도 조명이 무척 자연스러워 화면이 거의 영화 같다."
+              },
+              {
+                "t": "p",
+                "x": "MxBenchmarkPC가 YouTube에 올린 새 비교 영상에는 DLSS 5 Neural Rendering을 끈 화면과 단일 패스, 이중 패스 화면이 나란히 담겼다."
+              },
+              {
+                "t": "p",
+                "x": "RTX 5080에서 DLSS 4.5 Performance 모드로 4K 해상도를 돌리면 프레임이 단일 패스는 31%, 이중 패스는 41% 떨어진다. 단일 패스는 조명·그림자·반사가 확 좋아진다. 원본 느낌은 살리면서 뿌연 기운을 걷어 내고 접촉 그림자를 깊게 판다. 이중 패스는 60 FPS 아래로 자주 떨어지고 화면이 훨씬 어두워져 그림자 디테일이 뭉개지며 캐릭터도 어색해 보인다."
               },
               {
                 "t": "video",
-                "yt": "bZ6NL-oPEkI"
+                "yt": "gpnVNFvjmHs"
               },
               {
                 "t": "p",
-                "x": "HIFI Publishers가 만든 Anime Racing Academy는 공식 스토어 설명에 “액션 가득한 애니메이션 레이싱 게임”이라고 소개돼 있었다. Umamusume처럼 인간형 말 소녀를 키우고 경주에 내보내는 게임으로, 디자인 일부는 Umamusume 캐릭터를 바짝 본떴고 일부는 아예 그대로 베낀 듯하다. 호기심에 게임을 열어 본 팬들은 Umamusume와 달리 광고가 잔뜩 붙어 있다고 지적했다."
-              },
-              {
-                "t": "p",
-                "x": "게임을 발견한 Umamusume 팬들은 너도나도 신고해 Google Play Store에서 내리자고 나섰다. 이 글을 쓰는 지금은 실제로 그렇게 된 듯하다. 게임은 더 이상 모바일 플랫폼에서 찾을 수 없다. HIFI Publishers의 다른 게임은 스토어에 그대로 있어, 신고를 받은 이 게임만 내려간 것으로 보인다."
+                "x": "Red Dead Redemption 2는 아직 DLSS 5를 공식 지원하지 않는다. Neural Rendering을 공식 지원하는 게임은 네 개뿐이고, 가장 최근에는 이번 주 초 Where Winds Meet이 합류했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI製Umamusume風\nゲーム、ファン通報で削除",
-          "body": "AI製Umamusume模倣作が、ファンの通報後Google Playから消えた。",
-          "mini_headline": "AI製Umamusume模倣作が削除",
+          "headline": "DLSS 5でRDR2は\n4K 解像度で31%低下",
+          "body": "RTX 5080でDLSS 5はRDR2の4K フレームレートを31%落とす。",
+          "mini_headline": "RDR2のDLSS 5は31%減",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-DLSS-5-Red-Dead-Redemption-2-1920x1080.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "Umamusume: Pretty Derby（ウマ娘 プリティーダービー）のAI製クローンが、ファンの怒りを買ってGoogle Playストアから削除された。コミュニティが組織的に、問題のタイトルをCygamesへ通報していた。"
+                "x": "Rockstar GamesのRed Dead Redemption 2のようなゲームは、引き続きNVIDIA DLSS 5 Neural Renderingの恩恵を最も受けている。MODによる実装のシングルパスだけで照明が非常に自然になり、ゲームはほとんど映画のように見える。"
+              },
+              {
+                "t": "p",
+                "x": "MxBenchmarkPCがYouTubeで公開した新しい比較動画は、DLSS 5 Neural Renderingなし、シングルパス、ダブルパスでゲームを動かした様子を比べている。"
+              },
+              {
+                "t": "p",
+                "x": "RTX 5080でDLSS 4.5のPerformanceモードを使い4K 解像度で動かすと、シングルパスではフレームレートが31%、ダブルパスでは41%落ちる。シングルパスは照明、影、反射で大きな効果を発揮し、オリジナルの雰囲気を保ちながらもやを取り除き、接地影を深める。ダブルパスはしばしば60 FPSを下回り、映像がかなり暗くなって影のディテールがつぶれるうえ、キャラクターも不自然に見える。"
               },
               {
                 "t": "video",
-                "yt": "bZ6NL-oPEkI"
+                "yt": "gpnVNFvjmHs"
               },
               {
                 "t": "p",
-                "x": "HIFI Publishersが開発したAnime Racing Academyは、公式ストアの説明文で「アクション満載のアニメレーシングゲーム」と紹介されていた。Umamusumeと同じく人型の馬娘を育成してレースさせられるゲームで、一部のデザインはUmamusumeのキャラクターに酷似し、ほかはまるごとコピーしたように見える。Umamusumeと違って広告だらけだったことも、興味を持ったファンが指摘している。"
-              },
-              {
-                "t": "p",
-                "x": "Umamusumeのファンがこのゲームを見つけると、多くの人が通報してGoogle Playストアから削除させようと動いた。執筆時点ではそれが実現したようで、ゲームはモバイルプラットフォーム上で見つからなくなっている。HIFI Publishersのほかのゲームはストアに残っていることから、このゲームが個別に通報され、削除されたとみられる。"
+                "x": "Red Dead Redemption 2はまだDLSS 5に公式対応していない。Neural Renderingに公式対応するゲームは四本だけで、最新は今週初めに対応したWhere Winds Meetだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI版Umamusume仿作\n遭粉丝大量举报下架",
-          "body": "AI版Umamusume仿作经粉丝向Cygames举报后，从Google Play下架。",
-          "mini_headline": "AI版Umamusume仿作下架",
+          "headline": "DLSS 5让RDR2\n4K 帧率降31%",
+          "body": "在RTX 5080上，DLSS 5让RDR2的4K 帧率下降31%，单遍光照优于双遍。",
+          "mini_headline": "RDR2开DLSS 5掉帧31%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-DLSS-5-Red-Dead-Redemption-2-1920x1080.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "一款AI制作的Umamusume: Pretty Derby（赛马娘）仿作激起粉丝愤怒，社区组织起来向Cygames举报后，该游戏已从Google Play商店下架。"
+                "x": "Rockstar Games的Red Dead Redemption 2等游戏依然是NVIDIA DLSS 5 Neural Rendering最大的受益者：借助模组实现的单遍处理，光照就自然到让游戏几乎变成电影。"
+              },
+              {
+                "t": "p",
+                "x": "MxBenchmarkPC在YouTube上分享的新对比视频，比较了游戏在不开DLSS 5 Neural Rendering、单遍处理和双遍处理三种情况下的表现。"
+              },
+              {
+                "t": "p",
+                "x": "在RTX 5080上，以DLSS 4.5 Performance模式运行4K 分辨率时，单遍处理帧率下降31%，双遍处理下降41%。单遍处理对光照、阴影和反射效果显著，在保留原版观感的同时清除雾感、加深接触阴影。双遍处理常常跌破60 FPS，画面明显变暗，阴影细节被压暗，角色也显得不自然。"
               },
               {
                 "t": "video",
-                "yt": "bZ6NL-oPEkI"
+                "yt": "gpnVNFvjmHs"
               },
               {
                 "t": "p",
-                "x": "Anime Racing Academy由HIFI Publishers开发，官方商店介绍称其为一款“动作满满的动漫赛跑游戏”。与Umamusume一样，玩家可以管理人形马娘并让她们赛跑，其中一些角色设计与Umamusume角色极为相似，另一些则看起来是直接照搬。与Umamusume不同的是，正如好奇的粉丝所指出的，这款游戏塞满了广告。"
-              },
-              {
-                "t": "p",
-                "x": "Umamusume粉丝发现这款游戏后，许多人推动举报，要求将其从Google Play商店下架。截至发稿，这一目标似乎已经实现，该游戏在移动平台上已无法搜索到。HIFI Publishers的其他游戏仍在商店上架，这表明正是这款游戏遭到举报并随后被下架。"
+                "x": "Red Dead Redemption 2尚未获得DLSS 5官方支持；目前官方支持Neural Rendering的游戏只有四款，最新一款是本周早些时候获得支持的Where Winds Meet。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Retiran un clon IA de Umamusume\ntras denuncias masivas de fans",
-          "body": "Anime Racing Academy, clon IA de Umamusume lleno de anuncios, salió de Google Play tras denuncias de fans a Cygames.",
-          "mini_headline": "Retiran clon IA de Umamusume",
+          "headline": "DLSS 5 resta un 31% a Red Dead\nRedemption 2 en 4K",
+          "body": "En una RTX 5080, DLSS 5 resta a RDR2 un 31% de sus fotogramas en 4K, y una sola pasada ilumina mejor que la doble.",
+          "mini_headline": "DLSS 5 en RDR2 cuesta un 31%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-DLSS-5-Red-Dead-Redemption-2-1920x1080.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "Un clon de Umamusume: Pretty Derby hecho con IA ha sido retirado de Google Play Store después de provocar el enfado de los fans, y de que la comunidad se organizara para denunciar el título ante Cygames."
+                "x": "Juegos como Red Dead Redemption 2, de Rockstar Games, siguen siendo los que más se benefician de NVIDIA DLSS 5 Neural Rendering: una sola pasada con una implementación mediante mod ofrece una iluminación tan natural que el juego casi parece una película."
+              },
+              {
+                "t": "p",
+                "x": "Un nuevo video comparativo que MxBenchmarkPC publicó en YouTube muestra el juego sin DLSS 5 Neural Rendering, con una sola pasada y con doble pasada."
+              },
+              {
+                "t": "p",
+                "x": "En una RTX 5080, la tasa de fotogramas cae un 31% en 4K con DLSS 4.5 en modo Performance con una sola pasada, y un 41% con doble pasada. La pasada única mejora mucho la iluminación, las sombras y los reflejos: elimina la neblina y acentúa las sombras de contacto sin perder la sensación original. La doble pasada suele bajar de 60 FPS y oscurece mucho la imagen, aplastando el detalle de las sombras; además, los personajes se ven poco naturales."
               },
               {
                 "t": "video",
-                "yt": "bZ6NL-oPEkI"
+                "yt": "gpnVNFvjmHs"
               },
               {
                 "t": "p",
-                "x": "Anime Racing Academy, desarrollado por HIFI Publishers, se presentaba en su descripción oficial de la tienda como un \"juego de carreras anime lleno de acción\". Como Umamusume, permite gestionar y hacer competir a chicas caballo humanoides, y algunos de sus diseños son réplicas muy cercanas de personajes de Umamusume, mientras que otros parecen copias directas. A diferencia de Umamusume, estaba repleto de anuncios, como señalaron fans curiosos."
-              },
-              {
-                "t": "p",
-                "x": "Cuando los fans de Umamusume descubrieron el juego, muchos impulsaron que se denunciara y se retirara de Google Play Store. En el momento de escribir esto, parece que así ha sido, ya que el juego ya no aparece en la plataforma móvil. Otros juegos de HIFI Publishers siguen en las tiendas, lo que indica que este juego en concreto fue denunciado y retirado."
+                "x": "Red Dead Redemption 2 aún no tiene soporte oficial de DLSS 5; solo cuatro juegos admiten oficialmente Neural Rendering, el último de ellos Where Winds Meet, que lo recibió a principios de esta semana."
               }
             ]
           }
@@ -1195,125 +1349,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI Umamusume\n아류작, 팬 신고에 퇴출",
-          "body": "AI Umamusume 아류작이 팬 신고로 Google Play에서 내려갔다.",
-          "mini_headline": "AI Umamusume 아류작 퇴출",
+          "headline": "DLSS 5 켜면\nRDR2 4K 31% 하락",
+          "body": "RTX 5080서 DLSS 5는 RDR2 4K 프레임을 31% 깎는다.",
+          "mini_headline": "RDR2의 DLSS 5, 31% 손실",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-DLSS-5-Red-Dead-Redemption-2-1920x1080.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "AI로 만든 Umamusume: Pretty Derby(우마무스메 프리티 더비) 아류작이 팬들의 분노를 산 끝에 Google Play Store에서 삭제됐다. 커뮤니티가 힘을 모아 문제의 게임을 Cygames에 신고했다."
+                "x": "Rockstar Games의 Red Dead Redemption 2 같은 게임은 여전히 NVIDIA DLSS 5 Neural Rendering의 덕을 가장 많이 본다. 모드로 구현한 단일 패스만으로도 조명이 무척 자연스러워 게임이 거의 영화처럼 보인다."
+              },
+              {
+                "t": "p",
+                "x": "MxBenchmarkPC가 YouTube에 올린 새 비교 영상은 DLSS 5 Neural Rendering을 끈 상태, 단일 패스, 이중 패스로 게임을 돌린 모습을 나란히 보여 준다."
+              },
+              {
+                "t": "p",
+                "x": "RTX 5080에서 DLSS 4.5 Performance 모드로 4K 해상도를 돌리면 단일 패스는 프레임이 31% 떨어지고, 이중 패스는 41% 떨어진다. 단일 패스는 조명·그림자·반사에서 큰 효과를 내, 원본 느낌을 지키면서 뿌연 기운을 걷어 내고 접촉 그림자를 깊게 만든다. 이중 패스는 자주 60 FPS 아래로 떨어지고 화면을 훨씬 어둡게 만들어 그림자 디테일을 뭉개며, 캐릭터도 부자연스럽게 보이게 한다."
               },
               {
                 "t": "video",
-                "yt": "bZ6NL-oPEkI"
+                "yt": "gpnVNFvjmHs"
               },
               {
                 "t": "p",
-                "x": "HIFI Publishers가 개발한 Anime Racing Academy는 공식 스토어 설명에서 “액션 가득한 애니메이션 레이싱 게임”으로 소개됐다. Umamusume처럼 인간형 말 소녀를 관리하고 경주시킬 수 있으며, 일부 디자인은 Umamusume 캐릭터를 아주 가깝게 본떴고 일부는 아예 그대로 베낀 것으로 보인다. Umamusume와 달리 광고가 잔뜩 들어 있었다는 점은 호기심에 게임을 살펴본 팬들이 짚었다."
-              },
-              {
-                "t": "p",
-                "x": "Umamusume 팬들이 이 게임을 발견하자 많은 이가 신고해 Google Play Store에서 내리자고 나섰다. 이 글을 쓰는 시점에는 실제로 그렇게 된 것으로 보이며, 게임은 더 이상 모바일 플랫폼에서 찾을 수 없다. HIFI Publishers의 다른 게임은 스토어에 그대로 남아 있어, 이 게임만 신고를 받고 내려간 것으로 보인다."
+                "x": "Red Dead Redemption 2는 아직 DLSS 5를 공식 지원하지 않는다. Neural Rendering을 공식 지원하는 게임은 네 개뿐이며, 가장 최근 사례는 이번 주 초 지원을 받은 Where Winds Meet이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI製Umamusume風\nゲーム、ファン通報で削除",
-          "body": "AI製Umamusume模倣作が、ファンの通報後Google Playから消えた。",
-          "mini_headline": "AI製Umamusume模倣作が削除",
+          "headline": "DLSS 5でRDR2は\n4K 解像度で31%低下",
+          "body": "RTX 5080でDLSS 5はRDR2の4K フレームレートを31%落とす。",
+          "mini_headline": "RDR2のDLSS 5は31%減",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-DLSS-5-Red-Dead-Redemption-2-1920x1080.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "Umamusume: Pretty Derby（ウマ娘 プリティーダービー）のAI製クローンが、ファンの怒りを買ってGoogle Playストアから削除された。コミュニティが組織的に、問題のタイトルをCygamesへ通報していた。"
+                "x": "Rockstar GamesのRed Dead Redemption 2のようなゲームは、引き続きNVIDIA DLSS 5 Neural Renderingの恩恵を最も受けている。MODによる実装のシングルパスだけで照明が非常に自然になり、ゲームはほとんど映画のように見える。"
+              },
+              {
+                "t": "p",
+                "x": "MxBenchmarkPCがYouTubeで公開した新しい比較動画は、DLSS 5 Neural Renderingなし、シングルパス、ダブルパスでゲームを動かした様子を比べている。"
+              },
+              {
+                "t": "p",
+                "x": "RTX 5080でDLSS 4.5のPerformanceモードを使い4K 解像度で動かすと、シングルパスではフレームレートが31%、ダブルパスでは41%落ちる。シングルパスは照明、影、反射で大きな効果を発揮し、オリジナルの雰囲気を保ちながらもやを取り除き、接地影を深める。ダブルパスはしばしば60 FPSを下回り、映像がかなり暗くなって影のディテールがつぶれるうえ、キャラクターも不自然に見える。"
               },
               {
                 "t": "video",
-                "yt": "bZ6NL-oPEkI"
+                "yt": "gpnVNFvjmHs"
               },
               {
                 "t": "p",
-                "x": "HIFI Publishersが開発したAnime Racing Academyは、公式ストアの説明文で「アクション満載のアニメレーシングゲーム」と紹介されていた。Umamusumeと同じく人型の馬娘を育成してレースさせられるゲームで、一部のデザインはUmamusumeのキャラクターに酷似し、ほかはまるごとコピーしたように見える。Umamusumeと違って広告だらけだったことも、興味を持ったファンが指摘している。"
-              },
-              {
-                "t": "p",
-                "x": "Umamusumeのファンがこのゲームを見つけると、多くの人が通報してGoogle Playストアから削除させようと動いた。執筆時点ではそれが実現したようで、ゲームはモバイルプラットフォーム上で見つからなくなっている。HIFI Publishersのほかのゲームはストアに残っていることから、このゲームが個別に通報され、削除されたとみられる。"
+                "x": "Red Dead Redemption 2はまだDLSS 5に公式対応していない。Neural Renderingに公式対応するゲームは四本だけで、最新は今週初めに対応したWhere Winds Meetだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI版Umamusume仿作\n遭粉丝大量举报下架",
-          "body": "AI版Umamusume仿作经粉丝向Cygames举报后，从Google Play下架。",
-          "mini_headline": "AI版Umamusume仿作下架",
+          "headline": "DLSS 5让RDR2\n4K 帧率降31%",
+          "body": "在RTX 5080上，DLSS 5让RDR2的4K 帧率下降31%，单遍光照优于双遍。",
+          "mini_headline": "RDR2开DLSS 5掉帧31%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-DLSS-5-Red-Dead-Redemption-2-1920x1080.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "一款AI制作的Umamusume: Pretty Derby（赛马娘）仿作激起粉丝愤怒，社区组织起来向Cygames举报后，该游戏已从Google Play商店下架。"
+                "x": "Rockstar Games的Red Dead Redemption 2等游戏依然是NVIDIA DLSS 5 Neural Rendering最大的受益者：借助模组实现的单遍处理，光照就自然到让游戏几乎变成电影。"
+              },
+              {
+                "t": "p",
+                "x": "MxBenchmarkPC在YouTube上分享的新对比视频，比较了游戏在不开DLSS 5 Neural Rendering、单遍处理和双遍处理三种情况下的表现。"
+              },
+              {
+                "t": "p",
+                "x": "在RTX 5080上，以DLSS 4.5 Performance模式运行4K 分辨率时，单遍处理帧率下降31%，双遍处理下降41%。单遍处理对光照、阴影和反射效果显著，在保留原版观感的同时清除雾感、加深接触阴影。双遍处理常常跌破60 FPS，画面明显变暗，阴影细节被压暗，角色也显得不自然。"
               },
               {
                 "t": "video",
-                "yt": "bZ6NL-oPEkI"
+                "yt": "gpnVNFvjmHs"
               },
               {
                 "t": "p",
-                "x": "Anime Racing Academy由HIFI Publishers开发，官方商店介绍称其为一款“动作满满的动漫赛跑游戏”。与Umamusume一样，玩家可以管理人形马娘并让她们赛跑，其中一些角色设计与Umamusume角色极为相似，另一些则看起来是直接照搬。与Umamusume不同的是，正如好奇的粉丝所指出的，这款游戏塞满了广告。"
-              },
-              {
-                "t": "p",
-                "x": "Umamusume粉丝发现这款游戏后，许多人推动举报，要求将其从Google Play商店下架。截至发稿，这一目标似乎已经实现，该游戏在移动平台上已无法搜索到。HIFI Publishers的其他游戏仍在商店上架，这表明正是这款游戏遭到举报并随后被下架。"
+                "x": "Red Dead Redemption 2尚未获得DLSS 5官方支持；目前官方支持Neural Rendering的游戏只有四款，最新一款是本周早些时候获得支持的Where Winds Meet。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Retiran un clon IA de Umamusume\ntras denuncias masivas de fans",
-          "body": "Anime Racing Academy, clon IA de Umamusume lleno de anuncios, salió de Google Play tras denuncias de fans a Cygames.",
-          "mini_headline": "Retiran clon IA de Umamusume",
+          "headline": "DLSS 5 resta un 31% a Red Dead\nRedemption 2 en 4K",
+          "body": "En una RTX 5080, DLSS 5 resta a RDR2 un 31% de sus fotogramas en 4K, y una sola pasada ilumina mejor que la doble.",
+          "mini_headline": "DLSS 5 en RDR2 cuesta un 31%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/screenshot-from-Umamusume-Pretty-Derby-showing-female-anime-characters-racing.jpg?width=1200",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-DLSS-5-Red-Dead-Redemption-2-1920x1080.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "Un clon de Umamusume: Pretty Derby hecho con IA ha sido retirado de Google Play Store después de provocar el enfado de los fans, y de que la comunidad se organizara para denunciar el título ante Cygames."
+                "x": "Juegos como Red Dead Redemption 2, de Rockstar Games, siguen siendo los que más se benefician de NVIDIA DLSS 5 Neural Rendering: una sola pasada con una implementación mediante mod ofrece una iluminación tan natural que el juego casi parece una película."
+              },
+              {
+                "t": "p",
+                "x": "Un nuevo video comparativo que MxBenchmarkPC publicó en YouTube muestra el juego sin DLSS 5 Neural Rendering, con una sola pasada y con doble pasada."
+              },
+              {
+                "t": "p",
+                "x": "En una RTX 5080, la tasa de fotogramas cae un 31% en 4K con DLSS 4.5 en modo Performance con una sola pasada, y un 41% con doble pasada. La pasada única mejora mucho la iluminación, las sombras y los reflejos: elimina la neblina y acentúa las sombras de contacto sin perder la sensación original. La doble pasada suele bajar de 60 FPS y oscurece mucho la imagen, aplastando el detalle de las sombras; además, los personajes se ven poco naturales."
               },
               {
                 "t": "video",
-                "yt": "bZ6NL-oPEkI"
+                "yt": "gpnVNFvjmHs"
               },
               {
                 "t": "p",
-                "x": "Anime Racing Academy, desarrollado por HIFI Publishers, se presentaba en su descripción oficial de la tienda como un \"juego de carreras anime lleno de acción\". Como Umamusume, permite gestionar y hacer competir a chicas caballo humanoides, y algunos de sus diseños son réplicas muy cercanas de personajes de Umamusume, mientras que otros parecen copias directas. A diferencia de Umamusume, estaba repleto de anuncios, como señalaron fans curiosos."
-              },
-              {
-                "t": "p",
-                "x": "Cuando los fans de Umamusume descubrieron el juego, muchos impulsaron que se denunciara y se retirara de Google Play Store. En el momento de escribir esto, parece que así ha sido, ya que el juego ya no aparece en la plataforma móvil. Otros juegos de HIFI Publishers siguen en las tiendas, lo que indica que este juego en concreto fue denunciado y retirado."
+                "x": "Red Dead Redemption 2 aún no tiene soporte oficial de DLSS 5; solo cuatro juegos admiten oficialmente Neural Rendering, el último de ellos Where Winds Meet, que lo recibió a principios de esta semana."
               }
             ]
           }
@@ -1321,15 +1491,15 @@
       }
     },
     {
-      "id": "alphadefect-slay-spire2",
-      "source_lang": "ja",
+      "id": "games-mikami-gcon-ai",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "슬레이 더 스파이어 2\n최고 난도 8할 깨는 AI",
-      "body": "142억 번 결정으로 배운 AI가 승천 10에서 최대 80.3% 승률을 냈다.",
-      "mini_headline": "슬레이 더 스파이어 2 공략 AI",
+      "headline": "Shinji Mikami\n“AI 완전히 사라지길”",
+      "body": "Shinji Mikami는 G-CON 2026에서 AI발 대량 실직을 우려했다.",
+      "mini_headline": "Mikami, “AI 사라지길”",
       "tool": "Games",
-      "source": "AUTOMATON",
-      "url": "https://automaton-media.com/articles/newsjp/20261126-481134/",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/resident-evil-shinji-mikami-ai-kim-hyung-tae-job-losses-stellar-blade-2000759397",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1337,445 +1507,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+            "src": "https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom.jpg",
             "cap": ""
           },
           {
             "t": "p",
-            "x": "파리-사클레 대학의 Qiyue Chen, 뉴사우스웨일스 대학의 Taian Yu, 모하메드 빈 자이드 인공지능 대학의 고미야마 준페이, 홍콩중문대학의 Haobo Huang 등 4명이 11월 24일 공동 논문 「AlphaDefect: Expert-Level AI for Slay the Spire 2」를 냈다. 이 게임의 기존 최고 난이도로 알려진 '승천 10'을 깨는 강화학습 시스템 'AlphaDefect'를 제안한 논문이다. 승천 10에서는 3막 최종 보스가 2체 연전으로 나온다."
+            "x": "Shinji Mikami와 Shift Up의 CEO Kim Hyung-tae가 11월 20일 G-CON 2026 패널에 함께 나왔다. Mikami의 스튜디오 Unbound는 차기작 퍼블리싱을 위해 Stellar Blade 개발사 Shift Up과 손잡은 상태다. 이 자리에서 두 사람은 AI를 두고 엇갈린 시각을 드러냈다."
           },
           {
             "t": "p",
-            "x": "연구팀은 게임의 컴파일된 어셈블리를 불러온 뒤 프레젠테이션 계층만 갈아 끼워, 화면에 아무것도 띄우지 않고 AI가 모든 의사결정을 내리는 환경을 꾸렸다. 네트워크는 캐릭터 6명에 하나씩 모두 6개를 두었고, 데이터는 초당 5000~1만 회 속도로 모았다. 25일 동안 전체 캐릭터를 합쳐 총 142억 회의 의사결정을 거쳤다."
-          },
-          {
-            "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
-            "cap": ""
+            "x": "Kim은 7월 말 전부 AI로 만든(AI-generated) Stellar Blade: Blood Rain 뮤직비디오로 Shift Up이 비판받은 일을 꺼내며, 스튜디오가 “처음부터 끝까지 수작업”이라는 철학을 택했다고 했다. 다만 Shift Up은 조명 효과나 lower-poly 3D 모델 같은 작업에는 AI를 쓸 계획이다. Kim은 “AI 없는 게임 개발은 더 이상 불가능하다”고도 했다."
           },
           {
             "t": "p",
-            "x": "평가 때는 확률이 가장 높은 후보를 고르는 탐욕법을 기본으로 하고, AI가 판단을 망설일 때(최유력 후보의 선택 확률이 90% 미만)만 앞수 읽기를 더했다. 탐욕법만 쓴 승률은 62.2%~76.7%였고, 앞수 읽기를 더하면 캐릭터별로 약 3~6포인트 높아졌다. 디펙트는 80.3%까지 올라갔다."
-          },
-          {
-            "t": "img",
-            "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
-            "cap": ""
+            "x": "Mikami는 생각이 크게 달랐다. 그의 스튜디오도 주로 손으로 그린 2D 모델이 3D로 어떻게 보일지 미리 보려고 AI를 “현재 실험 중”이다. 그래도 그는 AI가 게임 개발에서, 나아가 “세상에서” “완전히 사라지기”를 바란다."
           },
           {
             "t": "p",
-            "x": "비교 기준인 비공식 데이터베이스 'Spire Codex'의 인간 플레이 기록을 보면, 6개 캐릭터의 승천 10 승률은 10.9~19.9%였다. bilibili 라이브 방송에서는 전체 866회 런 가운데 645회를 이겼다. 드레드 모드에서도 디펙트 승률은 16.8%로 인간 플레이어(9.4%)를 앞섰다."
-          },
-          {
-            "t": "p",
-            "x": "탐욕법만 썼을 때 진 판의 47~68%는 3막 최종 보스 2연전에서 무너진 경우였다. 연구팀은 학습 단계에도 앞수 읽기를 들이는 일을 다음 과제로 꼽았다."
+            "x": "Mikami는 앞으로 “오 년이나 십 년”이 스튜디오들에 “불확실하다”며, 향후 십 년 안에 개발자들이 AI 때문에 일자리를 잃을 “현실적인 가능성”도 인정했다. Kim은 두 스튜디오의 게임이 “본질적으로 수작업으로 남을 것”이라고 말했다."
           }
         ]
       },
       "text": {
-        "ja": {
-          "headline": "スレスパ2最難関を\n最大8割クリアするAI",
-          "body": "142億回の決断で学んだ強化学習AIが、アセンション10で最大80.3%の勝率を出した。",
-          "mini_headline": "スレスパ2攻略AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "パリ・サクレー大学のQiyue Chen氏、ニューサウスウェールズ大学のTaian Yu氏、モハメド・ビン・ザーイド人工知能大学の小宮山純平氏、香港中文大学のHaobo Huang氏ら4名は11月24日、共著論文「AlphaDefect: Expert-Level AI for Slay the Spire 2」を発表した。本作の従来の最高難易度として知られる「アセンション10」を攻略する強化学習システム「AlphaDefect」が提案されている。アセンション10では、第3層の最終ボスが2体連戦になる。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームは本作のコンパイル済みアセンブリを読み込み、プレゼンテーション層だけを置き換えて、画面表示を伴わずにAIがすべての意思決定をおこなえる環境を構築した。6キャラクターそれぞれに計6つのネットワークを用意し、毎秒5000～1万回というペースでデータを収集。最終的には各キャラクターをあわせて25日間、計142億回の意思決定がおこなわれた。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "評価では、もっとも高い確率の候補を選ぶ貪欲法に加え、AIが判断を迷う場面（最有力候補の選択確率が90％未満）に限り先読みを併用。貪欲法のみでは62.2％～76.7％の勝率を記録し、先読みを用いると各キャラクターの勝率は約3～6ポイント上昇した。特にディフェクトは80.3％に達している。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "比較対象となる非公式データベース「Spire Codex」の人間のプレイデータでは、6キャラクターのアセンション10の勝率は10.9～19.9％。bilibiliでのライブ配信では全866回のランのうち645回に勝利した。ドレッドモードではディフェクトの勝率が16.8％で、人間のプレイヤーは9.4％だった。"
-              },
-              {
-                "t": "p",
-                "x": "一方で、貪欲法のみで敗北するケースの47～68％は第3層の最終ボス2連戦での負けだった。研究チームは、学習の段階にも先読みを取り入れることを今後の課題に挙げている。"
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "AI clears Slay the Spire 2's\nhardest mode up to 8 in 10 runs",
-          "body": "A reinforcement learning AI trained on 14.2 billion decisions hit up to an 80.3% win rate on Ascension 10.",
-          "mini_headline": "Slay the Spire 2 AI",
+          "headline": "Shinji Mikami wishes AI\nwould vanish entirely",
+          "body": "At G-CON 2026, Shinji Mikami feared mass AI job losses, while Stellar Blade's Kim Hyung-tae took the opposite side.",
+          "mini_headline": "Mikami wants AI gone",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "src": "https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "Four researchers — Qiyue Chen of Université Paris-Saclay, Taian Yu of the University of New South Wales, Junpei Komiyama of Mohamed bin Zayed University of Artificial Intelligence and Haobo Huang of the Chinese University of Hong Kong — published the co-authored paper \"AlphaDefect: Expert-Level AI for Slay the Spire 2\" on November 24. It proposes AlphaDefect, a reinforcement learning system that beats Ascension 10, known as the game's highest difficulty to date. On Ascension 10, the final boss of Act 3 becomes a back-to-back fight against two bosses."
+                "x": "On November 20, Shinji Mikami, whose studio Unbound partnered with Stellar Blade creators Shift Up to publish his next game, and Shift Up's CEO Kim Hyung-tae joined a panel at G-CON 2026, where their opposing views on AI cropped up."
               },
               {
                 "t": "p",
-                "x": "The team loaded the game's compiled assemblies and replaced only the presentation layer, building an environment where the AI can make every decision without any on-screen display. They prepared six networks in total, one for each of the six characters, and collected data at a pace of 5,000 to 10,000 per second. In the end, 14.2 billion decisions were made over 25 days across all characters."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
-                "cap": ""
+                "x": "Kim addressed the criticism Shift Up received after a fully AI-generated Stellar Blade: Blood Rain music video in late July, explaining the studio adopted a \"handmade from start to finish\" philosophy. Shift Up still plans to use AI for tasks including lighting effects and lower-poly 3D models. Kim also said he believes \"game development without AI is no longer feasible.\""
               },
               {
                 "t": "p",
-                "x": "For evaluation, the team used a greedy method that picks the highest-probability option, adding lookahead only when the AI was uncertain (when its top option's selection probability was under 90%). Greedy play alone recorded win rates of 62.2% to 76.7%, and lookahead raised each character's win rate by about 3 to 6 points. The Defect in particular reached 80.3%."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
-                "cap": ""
+                "x": "Mikami strongly differed. His studio is \"currently experimenting\" with AI, mainly to preview how hand-drawn 2D models look in 3D, but he wishes AI would \"vanish entirely,\" from game development and \"from the world.\""
               },
               {
                 "t": "p",
-                "x": "In human play data from Spire Codex, an unofficial database used for comparison, Ascension 10 win rates for the six characters ranged from 10.9% to 19.9%. In a live stream on bilibili, the AI won 645 of 866 runs. In Dread mode, the Defect's win rate was 16.8%, versus 9.4% for human players."
-              },
-              {
-                "t": "p",
-                "x": "On the other hand, 47% to 68% of losses with greedy play alone came in the back-to-back final boss fight of Act 3. The team lists bringing lookahead into the training stage as future work."
+                "x": "Mikami called the next \"five or ten\" years \"uncertain\" for studios, acknowledging \"a real possibility\" of developers losing their jobs to AI within the decade. Kim said both studios' games \"will inherently remain handmade.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "슬레이 더 스파이어 2\n최고 난도 8할 깨는 AI",
-          "body": "142억 번 결정으로 배운 AI가 승천 10에서 최대 80.3% 승률을 냈다.",
-          "mini_headline": "슬레이 더 스파이어 2 공략 AI",
+          "headline": "Shinji Mikami\n“AI 완전히 사라지길”",
+          "body": "Shinji Mikami는 G-CON 2026에서 AI발 대량 실직을 우려했다.",
+          "mini_headline": "Mikami, “AI 사라지길”",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "src": "https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "파리-사클레 대학의 Qiyue Chen, 뉴사우스웨일스 대학의 Taian Yu, 모하메드 빈 자이드 인공지능 대학의 고미야마 준페이, 홍콩중문대학의 Haobo Huang 등 4명이 11월 24일 공동 논문 「AlphaDefect: Expert-Level AI for Slay the Spire 2」를 냈다. 이 게임의 기존 최고 난이도로 알려진 '승천 10'을 깨는 강화학습 시스템 'AlphaDefect'를 제안한 논문이다. 승천 10에서는 3막 최종 보스가 2체 연전으로 나온다."
+                "x": "Shinji Mikami와 Shift Up의 CEO Kim Hyung-tae가 11월 20일 G-CON 2026 패널에 함께 나왔다. Mikami의 스튜디오 Unbound는 차기작 퍼블리싱을 위해 Stellar Blade 개발사 Shift Up과 손잡은 상태다. 이 자리에서 두 사람은 AI를 두고 엇갈린 시각을 드러냈다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 게임의 컴파일된 어셈블리를 불러온 뒤 프레젠테이션 계층만 갈아 끼워, 화면에 아무것도 띄우지 않고 AI가 모든 의사결정을 내리는 환경을 꾸렸다. 네트워크는 캐릭터 6명에 하나씩 모두 6개를 두었고, 데이터는 초당 5000~1만 회 속도로 모았다. 25일 동안 전체 캐릭터를 합쳐 총 142억 회의 의사결정을 거쳤다."
+                "x": "Kim은 7월 말 전부 AI로 만든(AI-generated) Stellar Blade: Blood Rain 뮤직비디오로 Shift Up이 비판받은 일을 꺼내며, 스튜디오가 “처음부터 끝까지 수작업”이라는 철학을 택했다고 했다. 다만 Shift Up은 조명 효과나 lower-poly 3D 모델 같은 작업에는 AI를 쓸 계획이다. Kim은 “AI 없는 게임 개발은 더 이상 불가능하다”고도 했다."
               },
+              {
+                "t": "p",
+                "x": "Mikami는 생각이 크게 달랐다. 그의 스튜디오도 주로 손으로 그린 2D 모델이 3D로 어떻게 보일지 미리 보려고 AI를 “현재 실험 중”이다. 그래도 그는 AI가 게임 개발에서, 나아가 “세상에서” “완전히 사라지기”를 바란다."
+              },
+              {
+                "t": "p",
+                "x": "Mikami는 앞으로 “오 년이나 십 년”이 스튜디오들에 “불확실하다”며, 향후 십 년 안에 개발자들이 AI 때문에 일자리를 잃을 “현실적인 가능성”도 인정했다. Kim은 두 스튜디오의 게임이 “본질적으로 수작업으로 남을 것”이라고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Shinji Mikami\n「AIは消えてほしい」",
+          "body": "G-CON 2026でShinji MikamiはAIによる大量失職を懸念した。",
+          "mini_headline": "Mikami、AIの消滅を望む",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
+                "src": "https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "평가 때는 확률이 가장 높은 후보를 고르는 탐욕법을 기본으로 하고, AI가 판단을 망설일 때(최유력 후보의 선택 확률이 90% 미만)만 앞수 읽기를 더했다. 탐욕법만 쓴 승률은 62.2%~76.7%였고, 앞수 읽기를 더하면 캐릭터별로 약 3~6포인트 높아졌다. 디펙트는 80.3%까지 올라갔다."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
-                "cap": ""
+                "x": "11月20日、自身のスタジオUnboundが次回作のパブリッシングでStellar Blade開発元のShift Upと提携したShinji Mikami（三上真司）氏と、Shift UpのCEOであるKim Hyung-tae氏がG-CON 2026のパネルに登壇し、AIをめぐる両者の正反対の見解が浮かび上がった。"
               },
               {
                 "t": "p",
-                "x": "비교 기준인 비공식 데이터베이스 'Spire Codex'의 인간 플레이 기록을 보면, 6개 캐릭터의 승천 10 승률은 10.9~19.9%였다. bilibili 라이브 방송에서는 전체 866회 런 가운데 645회를 이겼다. 드레드 모드에서도 디펙트 승률은 16.8%로 인간 플레이어(9.4%)를 앞섰다."
+                "x": "Kim氏は、7月下旬に全編AI-generatedのStellar Blade: Blood Rainミュージックビデオを出してShift Upが受けた批判に触れ、スタジオは「最初から最後まで手作り」という理念を採ったと説明した。それでもShift Upは、ライティング効果やlower-polyの3Dモデルなどの作業にはAIを使う計画だ。Kim氏はまた「AIなしのゲーム開発はもはや成り立たない」と考えていると語った。"
               },
               {
                 "t": "p",
-                "x": "탐욕법만 썼을 때 진 판의 47~68%는 3막 최종 보스 2연전에서 무너진 경우였다. 연구팀은 학습 단계에도 앞수 읽기를 들이는 일을 다음 과제로 꼽았다."
+                "x": "Mikami氏の考えは大きく異なった。氏のスタジオは主に手描きの2Dモデルが3Dでどう見えるかを確かめるためにAIを「現在試している」が、氏はAIがゲーム開発から、さらには「世界から」「完全に消えてほしい」と願っている。"
+              },
+              {
+                "t": "p",
+                "x": "Mikami氏は今後「五年か十年」はスタジオにとって「不透明だ」とし、この十年のうちに開発者がAIに職を奪われる「現実的な可能性」を認めた。Kim氏は、両スタジオのゲームは「本質的に手作りであり続ける」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "《杀戮尖塔2》最高难度\nAI最多八成通关",
-          "body": "经142亿次决策训练的强化学习AI，在进阶10中胜率最高达80.3%。",
-          "mini_headline": "杀戮尖塔2攻略AI",
+          "headline": "Shinji Mikami\n希望AI彻底消失",
+          "body": "在G-CON 2026上，Shinji Mikami担忧AI致大量失业，金亨泰持相反立场。",
+          "mini_headline": "Mikami盼AI消失",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "src": "https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "巴黎-萨克雷大学的Qiyue Chen、新南威尔士大学的Taian Yu、穆罕默德·本·扎耶德人工智能大学的小宫山纯平、香港中文大学的Haobo Huang等4人于11月24日发表合著论文《AlphaDefect: Expert-Level AI for Slay the Spire 2》，提出了用于攻克本作此前公认最高难度“进阶10”的强化学习系统“AlphaDefect”。在进阶10中，第3层的最终首领战会变为2只首领连战。"
+                "x": "11月20日，Shinji Mikami（三上真司）与Shift Up的CEO Kim Hyung-tae一同出席G-CON 2026的座谈会，两人在AI问题上的对立观点由此浮现。Mikami的工作室Unbound已与Stellar Blade开发商Shift Up合作发行他的下一款游戏。"
               },
               {
                 "t": "p",
-                "x": "研究团队读取了本作已编译的程序集，仅替换表现层，搭建出无需画面显示、由AI完成所有决策的环境。他们为6个角色各准备一个网络，共6个网络，以每秒5000～1万次的速度收集数据。最终，所有角色合计在25天内共进行了142亿次决策。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
-                "cap": ""
+                "x": "Kim谈到Shift Up在7月下旬因一支完全AI-generated的Stellar Blade: Blood Rain音乐视频而遭受的批评，并解释工作室已确立“从头到尾手工打造”的理念。不过Shift Up仍计划在光照效果和lower-poly 3D模型等工作中使用AI。Kim还表示，他认为“不用AI的游戏开发已经不再可行”。"
               },
               {
                 "t": "p",
-                "x": "评估时，除了选择概率最高候选项的贪心法外，仅在AI犹豫不决的情况下（最优候选项的选择概率低于90%）同时使用前瞻搜索。仅用贪心法时胜率为62.2%～76.7%，加入前瞻后各角色胜率提升约3～6个百分点，其中故障机器人达到80.3%。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
-                "cap": ""
+                "x": "Mikami的看法截然不同。他的工作室“目前正在试验”AI，主要用来预览手绘2D模型在3D中的效果，但他希望AI从游戏开发中、乃至“从这个世界上”“彻底消失”。"
               },
               {
                 "t": "p",
-                "x": "作为对比的非官方数据库“Spire Codex”的人类玩家数据显示，6个角色在进阶10的胜率为10.9%～19.9%。在bilibili的直播中，AI在全部866局中赢下645局。在恐惧模式下，故障机器人的胜率为16.8%，人类玩家为9.4%。"
-              },
-              {
-                "t": "p",
-                "x": "另一方面，仅用贪心法时，47%～68%的失败发生在第3层最终首领的2连战中。研究团队将在训练阶段也引入前瞻列为今后的课题。"
+                "x": "Mikami称，未来“五年或十年”对工作室而言“充满不确定”，并承认十年之内开发者因AI失去工作存在“现实的可能性”。Kim则表示，两家工作室的游戏“本质上将始终是手工打造的”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una IA gana hasta 8 de cada 10\nen la cima de Slay the Spire 2",
-          "body": "Una IA entrenada con 14.200 millones de decisiones logró hasta un 80,3 % de victorias en Ascensión 10.",
-          "mini_headline": "IA para Slay the Spire 2",
+          "headline": "Shinji Mikami desea que la AI\ndesaparezca por completo",
+          "body": "En G-CON 2026, Shinji Mikami temió despidos masivos por AI, y Kim Hyung-tae, de Stellar Blade, defendió lo contrario.",
+          "mini_headline": "Mikami quiere que la AI desaparezca",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "src": "https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "Cuatro investigadores —Qiyue Chen, de la Universidad Paris-Saclay; Taian Yu, de la Universidad de Nueva Gales del Sur; Junpei Komiyama, de la Universidad de Inteligencia Artificial Mohamed bin Zayed, y Haobo Huang, de la Universidad China de Hong Kong— publicaron el 24 de noviembre el artículo conjunto «AlphaDefect: Expert-Level AI for Slay the Spire 2». En él proponen AlphaDefect, un sistema de aprendizaje por refuerzo que supera Ascensión 10, conocido como el nivel de dificultad más alto del juego hasta ahora. En Ascensión 10, el jefe final del acto 3 pasa a ser un doble combate seguido contra dos jefes."
+                "x": "El 20 de noviembre, Shinji Mikami, cuyo estudio Unbound se asoció con Shift Up, creadores de Stellar Blade, para publicar su próximo juego, y el CEO de Shift Up, Kim Hyung-tae, participaron en un panel de G-CON 2026, donde salieron a relucir sus opiniones opuestas sobre la AI."
               },
               {
                 "t": "p",
-                "x": "El equipo cargó los ensamblados compilados del juego y sustituyó solo la capa de presentación, con lo que creó un entorno en el que la IA toma todas las decisiones sin mostrar nada en pantalla. Preparó seis redes en total, una para cada uno de los seis personajes, y recopiló datos a un ritmo de entre 5000 y 10.000 por segundo. Al final, sumando todos los personajes, se tomaron 14.200 millones de decisiones en 25 días."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
-                "cap": ""
+                "x": "Kim abordó las críticas que recibió Shift Up tras un video musical de Stellar Blade: Blood Rain totalmente AI-generated a finales de julio, y explicó que el estudio adoptó una filosofía de “hecho a mano de principio a fin”. Aun así, Shift Up planea usar AI en tareas como efectos de iluminación y modelos 3D lower-poly. Kim también dijo que cree que “el desarrollo de juegos sin AI ya no es viable”."
               },
               {
                 "t": "p",
-                "x": "En la evaluación, además de un método voraz que elige la opción de mayor probabilidad, se añadió búsqueda anticipada solo cuando la IA dudaba (cuando la probabilidad de elegir la opción principal era inferior al 90 %). Con el método voraz solo, las tasas de victoria fueron del 62,2 % al 76,7 %, y con la búsqueda anticipada la tasa de cada personaje subió unos 3 a 6 puntos. El Defecto, en particular, llegó al 80,3 %."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
-                "cap": ""
+                "x": "Mikami discrepó con firmeza. Su estudio está “experimentando actualmente” con AI, sobre todo para previsualizar cómo se ven en 3D los modelos 2D dibujados a mano, pero él desea que la AI “desaparezca por completo” del desarrollo de juegos y “del mundo”."
               },
               {
                 "t": "p",
-                "x": "En los datos de partidas humanas de Spire Codex, una base de datos no oficial usada como referencia, las tasas de victoria en Ascensión 10 de los seis personajes fueron del 10,9 % al 19,9 %. En una transmisión en directo en bilibili, ganó 645 de 866 partidas. En el modo Pavor, la tasa de victoria del Defecto fue del 16,8 %, frente al 9,4 % de los jugadores humanos."
-              },
-              {
-                "t": "p",
-                "x": "Por otro lado, entre el 47 % y el 68 % de las derrotas con el método voraz solo se produjeron en el doble combate contra el jefe final del acto 3. El equipo señala como tarea pendiente incorporar la búsqueda anticipada también en la fase de entrenamiento."
+                "x": "Mikami calificó de “inciertos” para los estudios los próximos “cinco o diez” años y reconoció “una posibilidad real” de que los desarrolladores pierdan su empleo por la AI en la próxima década. Kim afirmó que los juegos de ambos estudios “seguirán siendo intrínsecamente hechos a mano”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "AI clears Slay the Spire 2's\nhardest mode up to 8 in 10 runs",
-          "body": "A reinforcement learning AI trained on 14.2 billion decisions hit up to an 80.3% win rate on Ascension 10.",
-          "mini_headline": "Slay the Spire 2 AI",
+        "ko": {
+          "headline": "Shinji Mikami\n“AI 완전히 사라지길”",
+          "body": "G-CON 2026서 Shinji Mikami는 AI발 대량 실직을 걱정했다.",
+          "mini_headline": "Mikami, “AI 사라지길”",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "src": "https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "Four researchers — Qiyue Chen of Université Paris-Saclay, Taian Yu of the University of New South Wales, Junpei Komiyama of Mohamed bin Zayed University of Artificial Intelligence and Haobo Huang of the Chinese University of Hong Kong — published the co-authored paper \"AlphaDefect: Expert-Level AI for Slay the Spire 2\" on November 24. It proposes AlphaDefect, a reinforcement learning system that beats Ascension 10, known as the game's highest difficulty to date. On Ascension 10, the final boss of Act 3 becomes a back-to-back fight against two bosses."
+                "x": "11월 20일, 자신의 스튜디오 Unbound가 차기작 퍼블리싱을 위해 Stellar Blade 개발사 Shift Up과 손잡은 Shinji Mikami와 Shift Up의 CEO Kim Hyung-tae가 G-CON 2026 패널에 함께 나섰고, 이 자리에서 AI를 둘러싼 두 사람의 상반된 견해가 드러났다."
               },
               {
                 "t": "p",
-                "x": "The team loaded the game's compiled assemblies and replaced only the presentation layer, building an environment where the AI can make every decision without any on-screen display. They prepared six networks in total, one for each of the six characters, and collected data at a pace of 5,000 to 10,000 per second. In the end, 14.2 billion decisions were made over 25 days across all characters."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
-                "cap": ""
+                "x": "Kim은 7월 말 전부 AI로 만든(AI-generated) Stellar Blade: Blood Rain 뮤직비디오로 Shift Up이 받은 비판을 언급하며, 스튜디오가 “처음부터 끝까지 수작업”이라는 철학을 택했다고 설명했다. 그래도 Shift Up은 조명 효과와 lower-poly 3D 모델 같은 작업에는 AI를 쓸 계획이다. Kim은 “AI 없는 게임 개발은 더 이상 불가능하다”고 본다고도 말했다."
               },
               {
                 "t": "p",
-                "x": "For evaluation, the team used a greedy method that picks the highest-probability option, adding lookahead only when the AI was uncertain (when its top option's selection probability was under 90%). Greedy play alone recorded win rates of 62.2% to 76.7%, and lookahead raised each character's win rate by about 3 to 6 points. The Defect in particular reached 80.3%."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
-                "cap": ""
+                "x": "Mikami의 생각은 크게 달랐다. 그의 스튜디오는 주로 손으로 그린 2D 모델이 3D로 어떻게 보일지 미리 확인하려고 AI를 “현재 실험 중”이지만, 그는 AI가 게임 개발에서, 나아가 “세상에서” “완전히 사라지기”를 바란다."
               },
               {
                 "t": "p",
-                "x": "In human play data from Spire Codex, an unofficial database used for comparison, Ascension 10 win rates for the six characters ranged from 10.9% to 19.9%. In a live stream on bilibili, the AI won 645 of 866 runs. In Dread mode, the Defect's win rate was 16.8%, versus 9.4% for human players."
-              },
-              {
-                "t": "p",
-                "x": "On the other hand, 47% to 68% of losses with greedy play alone came in the back-to-back final boss fight of Act 3. The team lists bringing lookahead into the training stage as future work."
+                "x": "Mikami는 앞으로 “오 년이나 십 년”이 스튜디오들에 “불확실하다”고 하며, 향후 십 년 안에 개발자들이 AI에 일자리를 잃을 “현실적인 가능성”을 인정했다. Kim은 두 스튜디오의 게임이 “본질적으로 수작업으로 남을 것”이라고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "슬레이 더 스파이어 2\n최고 난도 8할 깨는 AI",
-          "body": "142억 번 결정으로 배운 AI가 승천 10에서 최대 80.3% 승률을 냈다.",
-          "mini_headline": "슬레이 더 스파이어 2 공략 AI",
+        "ja": {
+          "headline": "Shinji Mikami\n「AIは消えてほしい」",
+          "body": "G-CON 2026でShinji MikamiはAIによる大量失職を懸念した。",
+          "mini_headline": "Mikami、AIの消滅を望む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "src": "https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "파리-사클레 대학의 Qiyue Chen, 뉴사우스웨일스 대학의 Taian Yu, 모하메드 빈 자이드 인공지능 대학의 고미야마 준페이, 홍콩중문대학의 Haobo Huang 등 4명은 11월 24일 공동 논문 「AlphaDefect: Expert-Level AI for Slay the Spire 2」를 발표했다. 논문은 이 게임의 기존 최고 난이도로 알려진 '승천 10'을 공략하는 강화학습 시스템 'AlphaDefect'를 제안한다. 승천 10에서는 3막 최종 보스가 2체 연전으로 바뀐다."
+                "x": "11月20日、自身のスタジオUnboundが次回作のパブリッシングでStellar Blade開発元のShift Upと提携したShinji Mikami（三上真司）氏と、Shift UpのCEOであるKim Hyung-tae氏がG-CON 2026のパネルに登壇し、AIをめぐる両者の正反対の見解が浮かび上がった。"
               },
               {
                 "t": "p",
-                "x": "연구팀은 게임의 컴파일된 어셈블리를 불러와 프레젠테이션 계층만 바꿔, 화면 표시 없이 AI가 모든 의사결정을 내릴 수 있는 환경을 만들었다. 6개 캐릭터마다 하나씩 모두 6개의 네트워크를 준비하고, 초당 5000~1만 회 속도로 데이터를 모았다. 최종적으로 전체 캐릭터를 합쳐 25일 동안 총 142억 회의 의사결정이 이뤄졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
-                "cap": ""
+                "x": "Kim氏は、7月下旬に全編AI-generatedのStellar Blade: Blood Rainミュージックビデオを出してShift Upが受けた批判に触れ、スタジオは「最初から最後まで手作り」という理念を採ったと説明した。それでもShift Upは、ライティング効果やlower-polyの3Dモデルなどの作業にはAIを使う計画だ。Kim氏はまた「AIなしのゲーム開発はもはや成り立たない」と考えていると語った。"
               },
               {
                 "t": "p",
-                "x": "평가에서는 확률이 가장 높은 후보를 고르는 탐욕법에 더해, AI가 판단을 망설이는 상황(최유력 후보의 선택 확률이 90% 미만)에서만 앞수 읽기를 함께 썼다. 탐욕법만으로는 62.2%~76.7%의 승률을 기록했고, 앞수 읽기를 쓰면 캐릭터별 승률이 약 3~6포인트 올랐다. 특히 디펙트는 80.3%에 이르렀다."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
-                "cap": ""
+                "x": "Mikami氏の考えは大きく異なった。氏のスタジオは主に手描きの2Dモデルが3Dでどう見えるかを確かめるためにAIを「現在試している」が、氏はAIがゲーム開発から、さらには「世界から」「完全に消えてほしい」と願っている。"
               },
               {
                 "t": "p",
-                "x": "비교 대상인 비공식 데이터베이스 'Spire Codex'의 인간 플레이 데이터에서 6개 캐릭터의 승천 10 승률은 10.9~19.9%였다. bilibili 라이브 방송에서는 전체 866회 런 가운데 645회를 이겼다. 드레드 모드에서 디펙트의 승률은 16.8%로, 인간 플레이어는 9.4%였다."
-              },
-              {
-                "t": "p",
-                "x": "한편 탐욕법만으로 진 경우의 47~68%는 3막 최종 보스 2연전에서 패한 것이었다. 연구팀은 학습 단계에도 앞수 읽기를 도입하는 것을 앞으로의 과제로 꼽았다."
+                "x": "Mikami氏は今後「五年か十年」はスタジオにとって「不透明だ」とし、この十年のうちに開発者がAIに職を奪われる「現実的な可能性」を認めた。Kim氏は、両スタジオのゲームは「本質的に手作りであり続ける」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "《杀戮尖塔2》最高难度\nAI最多八成通关",
-          "body": "经142亿次决策训练的强化学习AI，在进阶10中胜率最高达80.3%。",
-          "mini_headline": "杀戮尖塔2攻略AI",
+          "headline": "Shinji Mikami\n希望AI彻底消失",
+          "body": "在G-CON 2026上，Shinji Mikami担忧AI致大量失业，金亨泰持相反立场。",
+          "mini_headline": "Mikami盼AI消失",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "src": "https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "巴黎-萨克雷大学的Qiyue Chen、新南威尔士大学的Taian Yu、穆罕默德·本·扎耶德人工智能大学的小宫山纯平、香港中文大学的Haobo Huang等4人于11月24日发表合著论文《AlphaDefect: Expert-Level AI for Slay the Spire 2》，提出了用于攻克本作此前公认最高难度“进阶10”的强化学习系统“AlphaDefect”。在进阶10中，第3层的最终首领战会变为2只首领连战。"
+                "x": "11月20日，Shinji Mikami（三上真司）与Shift Up的CEO Kim Hyung-tae一同出席G-CON 2026的座谈会，两人在AI问题上的对立观点由此浮现。Mikami的工作室Unbound已与Stellar Blade开发商Shift Up合作发行他的下一款游戏。"
               },
               {
                 "t": "p",
-                "x": "研究团队读取了本作已编译的程序集，仅替换表现层，搭建出无需画面显示、由AI完成所有决策的环境。他们为6个角色各准备一个网络，共6个网络，以每秒5000～1万次的速度收集数据。最终，所有角色合计在25天内共进行了142亿次决策。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
-                "cap": ""
+                "x": "Kim谈到Shift Up在7月下旬因一支完全AI-generated的Stellar Blade: Blood Rain音乐视频而遭受的批评，并解释工作室已确立“从头到尾手工打造”的理念。不过Shift Up仍计划在光照效果和lower-poly 3D模型等工作中使用AI。Kim还表示，他认为“不用AI的游戏开发已经不再可行”。"
               },
               {
                 "t": "p",
-                "x": "评估时，除了选择概率最高候选项的贪心法外，仅在AI犹豫不决的情况下（最优候选项的选择概率低于90%）同时使用前瞻搜索。仅用贪心法时胜率为62.2%～76.7%，加入前瞻后各角色胜率提升约3～6个百分点，其中故障机器人达到80.3%。"
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
-                "cap": ""
+                "x": "Mikami的看法截然不同。他的工作室“目前正在试验”AI，主要用来预览手绘2D模型在3D中的效果，但他希望AI从游戏开发中、乃至“从这个世界上”“彻底消失”。"
               },
               {
                 "t": "p",
-                "x": "作为对比的非官方数据库“Spire Codex”的人类玩家数据显示，6个角色在进阶10的胜率为10.9%～19.9%。在bilibili的直播中，AI在全部866局中赢下645局。在恐惧模式下，故障机器人的胜率为16.8%，人类玩家为9.4%。"
-              },
-              {
-                "t": "p",
-                "x": "另一方面，仅用贪心法时，47%～68%的失败发生在第3层最终首领的2连战中。研究团队将在训练阶段也引入前瞻列为今后的课题。"
+                "x": "Mikami称，未来“五年或十年”对工作室而言“充满不确定”，并承认十年之内开发者因AI失去工作存在“现实的可能性”。Kim则表示，两家工作室的游戏“本质上将始终是手工打造的”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una IA gana hasta 8 de cada 10\nen la cima de Slay the Spire 2",
-          "body": "Una IA entrenada con 14.200 millones de decisiones logró hasta un 80,3 % de victorias en Ascensión 10.",
-          "mini_headline": "IA para Slay the Spire 2",
+          "headline": "Shinji Mikami desea que la AI\ndesaparezca por completo",
+          "body": "En G-CON 2026, Shinji Mikami temió despidos masivos por AI, y Kim Hyung-tae, de Stellar Blade, defendió lo contrario.",
+          "mini_headline": "Mikami quiere que la AI desaparezca",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-header.jpg",
+                "src": "https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom.jpg",
                 "cap": ""
               },
               {
                 "t": "p",
-                "x": "Cuatro investigadores —Qiyue Chen, de la Universidad Paris-Saclay; Taian Yu, de la Universidad de Nueva Gales del Sur; Junpei Komiyama, de la Universidad de Inteligencia Artificial Mohamed bin Zayed, y Haobo Huang, de la Universidad China de Hong Kong— publicaron el 24 de noviembre el artículo conjunto «AlphaDefect: Expert-Level AI for Slay the Spire 2». En él proponen AlphaDefect, un sistema de aprendizaje por refuerzo que supera Ascensión 10, conocido como el nivel de dificultad más alto del juego hasta ahora. En Ascensión 10, el jefe final del acto 3 pasa a ser un doble combate seguido contra dos jefes."
+                "x": "El 20 de noviembre, Shinji Mikami, cuyo estudio Unbound se asoció con Shift Up, creadores de Stellar Blade, para publicar su próximo juego, y el CEO de Shift Up, Kim Hyung-tae, participaron en un panel de G-CON 2026, donde salieron a relucir sus opiniones opuestas sobre la AI."
               },
               {
                 "t": "p",
-                "x": "El equipo cargó los ensamblados compilados del juego y sustituyó solo la capa de presentación, con lo que creó un entorno en el que la IA toma todas las decisiones sin mostrar nada en pantalla. Preparó seis redes en total, una para cada uno de los seis personajes, y recopiló datos a un ritmo de entre 5000 y 10.000 por segundo. Al final, sumando todos los personajes, se tomaron 14.200 millones de decisiones en 25 días."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-001-1080x608.jpg",
-                "cap": ""
+                "x": "Kim abordó las críticas que recibió Shift Up tras un video musical de Stellar Blade: Blood Rain totalmente AI-generated a finales de julio, y explicó que el estudio adoptó una filosofía de “hecho a mano de principio a fin”. Aun así, Shift Up planea usar AI en tareas como efectos de iluminación y modelos 3D lower-poly. Kim también dijo que cree que “el desarrollo de juegos sin AI ya no es viable”."
               },
               {
                 "t": "p",
-                "x": "En la evaluación, además de un método voraz que elige la opción de mayor probabilidad, se añadió búsqueda anticipada solo cuando la IA dudaba (cuando la probabilidad de elegir la opción principal era inferior al 90 %). Con el método voraz solo, las tasas de victoria fueron del 62,2 % al 76,7 %, y con la búsqueda anticipada la tasa de cada personaje subió unos 3 a 6 puntos. El Defecto, en particular, llegó al 80,3 %."
-              },
-              {
-                "t": "img",
-                "src": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481134-002-1080x442.jpg",
-                "cap": ""
+                "x": "Mikami discrepó con firmeza. Su estudio está “experimentando actualmente” con AI, sobre todo para previsualizar cómo se ven en 3D los modelos 2D dibujados a mano, pero él desea que la AI “desaparezca por completo” del desarrollo de juegos y “del mundo”."
               },
               {
                 "t": "p",
-                "x": "En los datos de partidas humanas de Spire Codex, una base de datos no oficial usada como referencia, las tasas de victoria en Ascensión 10 de los seis personajes fueron del 10,9 % al 19,9 %. En una transmisión en directo en bilibili, ganó 645 de 866 partidas. En el modo Pavor, la tasa de victoria del Defecto fue del 16,8 %, frente al 9,4 % de los jugadores humanos."
-              },
-              {
-                "t": "p",
-                "x": "Por otro lado, entre el 47 % y el 68 % de las derrotas con el método voraz solo se produjeron en el doble combate contra el jefe final del acto 3. El equipo señala como tarea pendiente incorporar la búsqueda anticipada también en la fase de entrenamiento."
+                "x": "Mikami calificó de “inciertos” para los estudios los próximos “cinco o diez” años y reconoció “una posibilidad real” de que los desarrolladores pierdan su empleo por la AI en la próxima década. Kim afirmó que los juegos de ambos estudios “seguirán siendo intrínsecamente hechos a mano”."
               }
             ]
           }

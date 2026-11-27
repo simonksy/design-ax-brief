@@ -1,167 +1,133 @@
 {
-  "section": "science",
-  "now_iso": "2026-11-26T22:01:09Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-      "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "published_iso": "2026-11-26T12:32:21+00:00",
-      "excerpt": "Stanford physicist Venkatesa Chandrasekaran proposed a quantum theory of gravity built from light paths and causal diamonds; he says OpenAI's GPT-6 Astra helped develop several calculations and proofs over months of exchanges (~400M tokens). arXiv preprint, not yet peer reviewed.",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png",
-      "subtopic": "physics"
-    },
-    {
-      "title": "Has AI just cracked Internet encryption? Rumoured 'bombshell' stuns scientists",
-      "url": "https://www.nature.com/articles/d41586-026-03875-6",
-      "source": "Nature",
-      "category": "science",
-      "published_iso": "2026-11-26T00:00:00Z",
-      "excerpt": "Several computer scientists suggest on social media that leading AI labs have found AI-generated algorithms that could break public-key cryptography; Nature news weighs the rumour and what it would mean for banking, commerce and privacy.",
-      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03875-6/d41586-026-03875-6_54026084.jpg",
-      "subtopic": "math/cryptography (rumour - unverified)"
-    },
-    {
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-      "source": "Google DeepMind",
-      "category": "science",
-      "published_iso": "2026-11-23T17:00:00+00:00",
-      "excerpt": "DeepMind used teams of Gemini 4 agents plus formal verification to optimize well-known quantum algorithms, producing more efficient circuits for modelling fusion energy, chemistry and enzymes on early quantum hardware.",
-      "og_image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w1200-h630-n-nu-rw",
-      "subtopic": "quantum"
-    },
-    {
-      "title": "Scientists Gave AI a 'Stroke' to Map Its Language Circuits",
-      "url": "https://singularityhub.com/2026/11/26/scientists-gave-ai-a-stroke-to-map-its-language-circuits/",
-      "source": "Singularity Hub",
-      "category": "science",
-      "published_iso": "2026-11-26T07:00:00-08:00",
-      "excerpt": "University of South Carolina researchers deliberately 'injured' LLMs and compared their naming and sentence errors with stroke survivors with aphasia; sorting the model errors by type predicted the patients' patterns of brain damage.",
-      "og_image": "https://singularityhub.com/uploads/2026/11/brains-with-regions-highlighted-in-red.jpeg?auto=webp",
-      "subtopic": "cognition (lesion-style, deprioritized)"
-    },
-    {
-      "title": "Marking an informational text as AI-generated does not influence its ratings, study finds",
-      "url": "https://www.psypost.org/marking-an-informational-text-as-ai-generated-does-not-influence-its-ratings-study-finds/",
-      "source": "PsyPost",
-      "category": "science",
-      "published_iso": "2026-11-26T21:00:08+00:00",
-      "excerpt": "In a German online experiment (Applied Psychology: Health and Well-Being), an 'AI-generated' label on nutrition advice barely changed ratings - partly because only ~42% of readers noticed the label at all.",
-      "og_image": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg",
-      "subtopic": "psychology"
-    },
-    {
-      "title": "Smartphone app uses AI to identify illegal wildlife products",
-      "url": "https://phys.org/news/2026-11-smartphone-app-ai-illegal-wildlife.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-11-25T16:30:01-05:00",
-      "excerpt": "University of Helsinki and IFAW trained ML models on ~40,000 images of wildlife products to recognize items from elephants, pangolins and tigers; a smartphone prototype hit 91.3% accuracy in independent screening (Conservation Biology).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
-      "subtopic": "life science/conservation"
-    },
-    {
-      "title": "New modeling tool sheds light on how climate change could reshape marine ecosystems",
-      "url": "https://phys.org/news/2026-11-tool-climate-reshape-marine-ecosystems.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-11-23T12:00:00Z",
-      "excerpt": "A University of Strathclyde machine-learning model trained on decades of Continuous Plankton Recorder data projects copepod abundance on NW European shelf seas falling 58-72% by 2050 under high emissions - steeper than coarse global models (Communications Earth & Environment).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
-      "subtopic": "climate/ocean"
-    },
-    {
-      "title": "One random shot or none: A mathematical proof for learning a physical system from one experiment",
-      "url": "https://phys.org/news/2026-11-random-shot-mathematical-proof-physical.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-11-23T12:00:00Z",
-      "excerpt": "Cornell researchers prove a 'zero-one law' in PNAS: for ML models linear in their parameters, if any single experiment can identify a physical system, almost any randomized experiment will too (assuming noiseless, complete measurements).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/one-random-shot-or-non.jpg",
-      "subtopic": "physics/ML theory"
-    },
-    {
-      "title": "Many languages, one common neural code",
-      "url": "https://medicalxpress.com/news/2026-11-languages-common-neural-code.html",
-      "source": "Medical Xpress (MIT News)",
-      "category": "science",
-      "published_iso": "2026-11-23T12:00:00Z",
-      "excerpt": "MIT researchers used multilingual LLMs as encoding models on brain imaging from speakers of 21 languages; the models predicted brain responses even for languages they were never trained on, pointing to a shared meaning-level neural code (Nature Neuroscience).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/languages.jpg",
-      "subtopic": "neuroscience (encoding, deprioritized)"
-    },
-    {
-      "title": "EcoVAE: a generative deep learning method for global species distribution prediction",
-      "url": "https://www.nature.com/articles/s41467-026-79791-0",
-      "source": "Nature Communications",
-      "category": "science",
-      "published_iso": "2026-11-24T00:00:00Z",
-      "excerpt": "EcoVAE, a generative variational-autoencoder model, rapidly predicts global species distributions, reveals species associations and flags biodiversity sampling gaps.",
-      "og_image": null,
-      "subtopic": "ecology"
-    },
-    {
-      "title": "Preventing data leakage in neural decoding",
-      "url": "https://www.nature.com/articles/s41467-026-79123-2",
-      "source": "Nature Communications",
-      "category": "science",
-      "published_iso": "2026-11-25T00:00:00Z",
-      "excerpt": "Data leakage from preprocessing and cross-validation can both inflate and deflate machine-learning neural decoding accuracy; the authors quantify the effect and give guidance for reliable brain-decoding studies.",
-      "og_image": null,
-      "subtopic": "neuroscience methods"
-    },
-    {
-      "title": "Why AI's proof of the Riemann hypothesis is so bittersweet",
-      "url": "https://www.scientificamerican.com/article/why-ais-proof-of-the-riemann-hypothesis-is-so-bittersweet/",
-      "source": "Scientific American",
-      "category": "science",
-      "published_iso": "2026-11-25T11:20:00-05:00",
-      "excerpt": "A mathematician who wears the Riemann zeta function as a tattoo reflects on why the AI-assisted proof of the Riemann hypothesis feels like a loss as much as a triumph.",
-      "og_image": "https://static.scientificamerican.com/dam/asset/5c552fe7-4dda-459c-b13d-3fd650739e45/Riemann-Tattoo.png?m=1795623640.338&w=1200",
-      "subtopic": "formal math (deprioritized follow-up)"
-    },
-    {
-      "title": "A legendary philosopher isn't buying Anthropic's consciousness argument",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "source": "MIT Technology Review",
-      "category": "science",
-      "published_iso": "2026-11-23T12:36:08-05:00",
-      "excerpt": "Anthropic told investors its AI might be conscious; a prominent philosopher of mind pushes back on the argument and what acting on it would mean.",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600",
-      "subtopic": "AI consciousness (opinion)"
-    },
-    {
-      "title": "A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "source": "OpenAI",
-      "category": "science",
-      "published_iso": "2026-11-15T22:00:01+00:00",
-      "excerpt": "OpenAI describes a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof. OFF-LIST domain (openai.com), included for lattice-QCD physics gap.",
-      "og_image": "https://images.ctfassets.net/kftzwdyauwt9/1RdsG8XilINGFZUscLvAnj/b3bfb7912b44166e8075581574a7b777/toward-defining-the-standard-model-social.png?w=1600&h=900&fit=fill",
-      "subtopic": "physics/lattice"
-    },
-    {
-      "title": "Searching for distant planets with Astra",
-      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-      "source": "OpenAI",
-      "category": "science",
-      "published_iso": "2026-11-24T13:00:00Z",
-      "excerpt": "Two amateur astronomers used Codex and GPT-6 Astra to scan public Kepler and TESS data and flag potential exoplanets; none confirmed yet. OFF-LIST domain (openai.com); exoplanet-candidate hunting is deprioritized.",
-      "og_image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
-      "subtopic": "astronomy"
-    },
-    {
-      "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "source": "Anthropic",
-      "category": "science",
-      "published_iso": "2026-11-17T00:00:00Z",
-      "excerpt": "Anthropic says Claude Fable 5.2 solved two open problems in theoretical physics concerning black holes and the search for quantum gravity. OFF-LIST domain (anthropic.com), vendor claim.",
-      "og_image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
-      "subtopic": "physics/black holes"
-    }
-  ]
+ "section": "science",
+ "now_iso": "2026-11-27T22:01:07Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Watch out, AlphaFold: Claude and ChatGPT's new biology skills wow scientists",
+   "url": "https://www.nature.com/articles/d41586-026-03836-z",
+   "source": "Nature (News)",
+   "category": "life_science",
+   "published_iso": "2026-11-24T00:00:00Z",
+   "excerpt": "Anthropic and OpenAI's general-purpose language models can now design proteins and predict their sequences and structures, abilities previously seen only in specialized tools such as AlphaFold. OpenAI reports 35 of 322 GPT-6.2 protein designs bound five targets in lab tests (about 10.9%).",
+   "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03836-z/d41586-026-03836-z_54015654.jpg"
+  },
+  {
+   "title": "A long-context generative foundation model for versatile RNA design (EVA)",
+   "url": "https://www.nature.com/articles/s42256-026-01321-w",
+   "source": "Nature Machine Intelligence",
+   "category": "life_science",
+   "published_iso": "2026-11-27T00:00:00Z",
+   "excerpt": "Huang, Lv, Gao and colleagues study RNA scaling laws and introduce EVA, a long-context RNA foundation model for function prediction and diverse RNA design. The paper includes experimental validation of designed functional RNAs.",
+   "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-026-01321-w/MediaObjects/42256_2026_1321_Fig1_HTML.png"
+  },
+  {
+   "title": "De novo identification of protein domains in cryo-electron tomography maps from AlphaFold2 models (DomainSeeker)",
+   "url": "https://www.nature.com/articles/s41467-026-79502-9",
+   "source": "Nature Communications",
+   "category": "life_science",
+   "published_iso": "2026-11-24T00:00:00Z",
+   "excerpt": "Identifying proteins in medium- to low-resolution cryo-electron tomography density maps is hard. The authors develop DomainSeeker, which combines AlphaFold2 models with experimental data to identify protein domains directly from in-situ density maps.",
+   "og_image": null
+  },
+  {
+   "title": "AI helps chemists design the next generation of artificial enzymes (molecular cage catalysts)",
+   "url": "https://phys.org/news/2026-11-molecular-cage-catalysts-enormous-differences.html",
+   "source": "Phys.org (University of Birmingham)",
+   "category": "life_science",
+   "published_iso": "2026-11-26T12:00:00-05:00",
+   "excerpt": "Oxford researchers trained machine learning on reaction-rate data, using cage shape, size, volume and electrostatics to predict the catalytic activity of enzyme-like molecular cages (JACS). Edinburgh researchers then assembled and tested 30 palladium cages in a rapid in-solution screen, and their activity varied by more than 10,000-fold.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-chemists-desi-1.jpg"
+  },
+  {
+   "title": "AI-assisted method advances high-resolution structure classification of membrane proteins in vesicles",
+   "url": "https://phys.org/news/2026-11-ai-method-advances-high-resolution.html",
+   "source": "Phys.org (Chinese Academy of Sciences)",
+   "category": "life_science",
+   "published_iso": "2026-11-23T12:00:00-05:00",
+   "excerpt": "An AI model from the CAS Institute of Biophysics estimates vesicle membrane geometry by fitting ellipsoidal surfaces, then filters cryo-EM particles. It reconstructed vesicle-embedded membrane proteins at 2.7 A (influenza hemagglutinin) and 3.1 A (OC43 spike) (PNAS).",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/isspa-vesicle-an-ai-as.jpg"
+  },
+  {
+   "title": "AI-designed protein tricks defective insulin receptors into working in new mouse study",
+   "url": "https://www.livescience.com/health/medicine-drugs/like-designing-a-new-key-to-open-a-defective-lock-ai-designed-protein-tricks-defective-insulin-receptors-into-working",
+   "source": "Live Science",
+   "category": "life_science",
+   "published_iso": "2026-11-25T19:00:00Z",
+   "excerpt": "Scientists report that an AI-designed protein activates broken insulin receptors in lab mice. The result hints at a possible new treatment for some severe forms of insulin resistance (medicine boundary: disease-targeted).",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/RsXQCKjW56LjHJgXtfjFiZ-2000-80.jpg"
+  },
+  {
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "source": "Google DeepMind",
+   "category": "quantum",
+   "published_iso": "2026-11-23T17:00:00+00:00",
+   "excerpt": "Teams of Gemini 4 agents improved well-known quantum algorithms by sharing ideas in periodic virtual meetings, and the Lean theorem prover formally verified each result. Gains include an 11.8x cost cut for a fusion-related calculation, a 2.57x Grover speedup and a 290x arcsin speedup (arXiv:2611.09822).",
+   "og_image": "https://lh3.googleusercontent.com/ppTuFPcwer2JwP-NysiQGW7mZrWpEmV6QsV_YD6IJn-skKzS1jTbtLbietmjpGkVxUOZBn3jQaCKfzcJVVR1FvvS-3QglWPDyh520ZSF7tvsHtdy=w1440-h810-n-nu"
+  },
+  {
+   "title": "Neural Network Decoders For Qubit Loss",
+   "url": "https://arxiv.org/abs/2611.34891",
+   "source": "arXiv (Princeton, Jeff D. Thompson group)",
+   "category": "quantum",
+   "published_iso": "2026-11-25T18:47:12Z",
+   "excerpt": "Qubit loss is a major error source on neutral-atom and other platforms, and loss-resolving measurements can cut fault-tolerance overhead. Staples, Fu, Dong and Thompson train neural-network decoders that use loss information for the surface code, getting around the cost of simulating and decoding loss outside the stabilizer framework.",
+   "og_image": null
+  },
+  {
+   "title": "Neural Decoding of Logical Clifford Circuits with Transversal Gates (Duet)",
+   "url": "https://arxiv.org/abs/2611.31607",
+   "source": "arXiv",
+   "category": "quantum",
+   "published_iso": "2026-11-23T21:53:24Z",
+   "excerpt": "Transversal gates on neutral-atom and trapped-ion machines make logical gates up to d times faster but spread errors across blocks, which makes decoding harder. Duet is a neural decoder for logical Clifford circuits that builds in the known error propagation, and the authors release its code and trained networks.",
+   "og_image": null
+  },
+  {
+   "title": "Towards three-dimensional dark matter mapping in the extended solar neighbourhood with Gaia DR3 and deep learning",
+   "url": "https://arxiv.org/abs/2611.33660",
+   "source": "arXiv (accepted MNRAS)",
+   "category": "astronomy",
+   "published_iso": "2026-11-25T02:25:35Z",
+   "excerpt": "Kim, Hwang, Hong, Jeong and colleagues (Seoul National University and others) train VNet-type deep networks on FIRE-2 Milky Way-like simulations to map stellar 3D kinematics to the dark matter density field. They then apply the model to real Gaia DR3 stars to infer the local dark matter distribution. Accepted in MNRAS on Nov 24.",
+   "og_image": null
+  },
+  {
+   "title": "Queen's researcher uses AI technology behind ChatGPT to reveal hidden solar magnetism",
+   "url": "https://syncni.com/article/16281/queen-s-researcher-uses-ai-technology-behind-chat-gpt-to-reveal-hidden-solar-magnetism",
+   "source": "Sync NI (Queen's University Belfast)",
+   "category": "astronomy",
+   "published_iso": "2026-11-25T12:00:00Z",
+   "excerpt": "QUB's Dr Ryan J. Campbell trained a transformer-style AI on a simulated Sun, then applied it to real Sunrise III balloon-telescope data, which it analysed in about four seconds. The model found that weak quiet-Sun magnetic fields mostly run along the surface, a finding an established method confirmed (Astronomy & Astrophysics). Off-list domain, used because no on-list fresh observational-astronomy AI item was found.",
+   "og_image": "https://d3ku2up3znex6l.cloudfront.net/public/sitereview_listing/60/01/02/1fd61_b4ef.jpg?c=9394"
+  },
+  {
+   "title": "Frozen language model helps predict materials properties with roughly 95% less training time",
+   "url": "https://techxplore.com/news/2026-11-frozen-language-materials-properties-roughly.html",
+   "source": "Tech Xplore (Institute of Science Tokyo)",
+   "category": "materials",
+   "published_iso": "2026-11-27T13:40:02-05:00",
+   "excerpt": "ZEBRA-Prop converts material structure and composition into text, embeds it with a frozen MatBERT, and feeds the embeddings to a small network that predicts band gap and formation energy. It cuts training time by about 95% compared with LLM-Prop (Advanced Intelligent Systems).",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg"
+  },
+  {
+   "title": "Disliking AI doesn't deter its influence",
+   "url": "https://phys.org/news/2026-11-ai-doesnt-deter.html",
+   "source": "Phys.org (City St George's, University of London)",
+   "category": "psychology",
+   "published_iso": "2026-11-25T12:00:00-05:00",
+   "excerpt": "Three financial decision experiments with more than 1,250 participants found that people said they preferred human advisers but followed AI and human advice about equally. Lower trust in AI predicted a stronger stated preference for humans but did not reduce reliance on AI advice (Personality and Social Psychology Bulletin).",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/not-interested.jpg"
+  },
+  {
+   "title": "Verifiable Social Reasoning for LLM Assistants",
+   "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+   "source": "Google Research",
+   "category": "cognition",
+   "published_iso": "2026-11-25T17:10:27+00:00",
+   "excerpt": "Google Research uses multi-agent social simulations with fixed hidden motives to test whether LLM assistants can infer a character's motive from a user's subjective account. Social reasoning gets much harder when it is mediated through the user, and models need more detail than humans to reach the right answer.",
+   "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+  }
+ ]
 }

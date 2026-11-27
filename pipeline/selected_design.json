@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "design",
   "items": [
     {
-      "title": "Ming-Image-0.2-Design: open 6B text-to-image model for graphic design, with RGBA layer decomposition",
-      "url": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
-      "source": "Hugging Face (inclusionAI)",
+      "title": "Tencent Hunyuan Releases Hy3D 3.6 for Professional High-Poly 3D Assets",
+      "url": "https://pandaily.com/tencent-hunyuan-hy3d-3-6-professional-3d-assets",
+      "source": "Pandaily",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "published_iso": "2026-11-25T04:02:44Z",
-      "og_image": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
-      "excerpt": "inclusionAI released Ming-Image-0.2-Design, an MIT-licensed 6B DiT image model aimed at visual design: e-commerce hero images, UI design drafts and spatial renderings, with stronger text rendering, and it can break a design image into editable transparent RGBA layers down to individual characters. Community MLX and ComfyUI quantizations appeared within a day.",
-      "rationale": "Primary-source open-weights release built for graphic design; RGBA layer decomposition into editable layers is directly usable in a designer's pipeline tomorrow."
+      "published_iso": "2026-11-27T07:16:58Z",
+      "og_image": "https://cms-image.pandaily.com/1/hy3d_editorial_682cf59108.png",
+      "excerpt": "Tencent Hunyuan shipped Hy3D 3.6, a VAE + DiT 3D generation model aimed at production high-poly geometry and PBR texture maps for retopology, baking, 3D printing and film pipelines. It is API/product access (Tencent Cloud, Miora agent, LAP, WorkRally), not an open-weights drop. Note: og:image is an AI conceptual illustration, not a Hy3D output.",
+      "rationale": "New 3D-generation model release that aims at production high-poly meshes with PBR maps; the orchestrator assigned this story to design only."
     },
     {
-      "title": "Modu Solution shows Gstar3D cloud CAD that builds 3D models from natural language and drawing images",
-      "url": "https://www.etnews.com/20261126000198",
-      "source": "etnews",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "published_iso": "2026-11-26T10:43:50+09:00",
-      "og_image": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg",
-      "excerpt": "At SMATEC 2026, Korean CAD/PLM vendor Modu Solution demoed Gstar3D, a cloud 3D CAD tool that creates parametric models, feature history included, from natural-language commands or JPG/PNG drawing images and exports standard formats such as STEP. It is pre-launch, and an early-user program offers up to 100 people a year of free use.",
-      "rationale": "New text/image-to-parametric-CAD tool with feature history and STEP export plus an open early-user programme; distinct product from the Nomic drafting agent carded 11-26."
-    },
-    {
-      "title": "Ukrainian senior UI/UX designer launches module.build, an AI editor that keeps the designer in control",
-      "url": "https://dev.ua/en/news/ukrainskyi-dyzainer-stvoryv-shi-redaktor-modulebuild-1795684607",
-      "source": "dev.ua",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "published_iso": "2026-11-26T11:42:00+02:00",
-      "og_image": "https://dev.ua/storage/images/12/76/04/30/derived/def65f680780c1ce391508a5362cfd89.webp",
-      "excerpt": "Designer Bohdan Matviyev built module.build, an editor that merges design and development in one canvas. AI acts as an assistant the user controls rather than an autopilot, with Claude, Codex or Kimi plugged in through the user's own subscriptions or APIs. It reads layouts and components straight from design files to make them dev-ready. It is in closed alpha and positioned against Figma and Paper.",
-      "rationale": "New design-to-dev canvas launch (closed alpha) with bring-your-own-model AI; a fresh entrant in the Figma/Paper space, unrelated to the Runway Dev story it loosely matched."
-    },
-    {
-      "title": "Midjourney Unveils 'Niji V8' Anime Image Generation AI",
-      "url": "https://ascii.jp/en/elem/000/004/454/4454596/",
-      "source": "ASCII.jp",
+      "title": "Cascadeur 2026.3 Adds MetaHuman Faces and Tentacle Rigging",
+      "url": "https://www.awn.com/news/cascadeur-20263-adds-metahuman-faces-and-tentacle-rigging",
+      "source": "Animation World Network",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#eb367f",
       "motif": "sphere",
-      "published_iso": "2026-11-25T14:20:00+09:00",
-      "og_image": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png",
-      "excerpt": "Midjourney released Niji V8, its anime-style image model, on November 25 (JST). It follows prompts more closely, returns a wider range of candidates per prompt, and is the fastest Niji model yet. Its editing tools can place a reference character into new scenes or poses while keeping the character consistent.",
-      "rationale": "New Midjourney model release with character-consistency editing that illustrators and concept artists can use immediately; second render pick so it gets a palette accent."
+      "published_iso": "2026-11-27T19:41:12Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/small_featured/public/image/attached/1081930-cascadeur1.jpg?itok=6NDE6dNP",
+      "excerpt": "Nekki's AI- and physics-assisted animation tool Cascadeur 2026.3 adds MetaHuman face support and tentacle rigging, cleans up mocap jitter automatically, and lets outside AI assistants such as Claude Code edit scenes. Date and summary from AWN RSS (page is bot-walled).",
+      "rationale": "New point release that adds automatic mocap cleanup and lets outside AI agents edit scenes, so animators can work with it right away."
     },
     {
-      "title": "Carlo Ratti and AI assistant to curate Seoul Biennale of Architecture and Urbanism 2027",
-      "url": "https://www.dezeen.com/2026/11/26/carlo-ratti-seoul-biennale/",
-      "source": "Dezeen",
+      "title": "THEIA update automates 3D models",
+      "url": "https://develop3d.com/ai/theia-update-automates-3d-models/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "published_iso": "2026-11-27T09:38:54Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI.png",
+      "excerpt": "Spare Parts 3D updated THEIA AI to automate reconstruction of 3D models from 2D engineering drawings in formats compatible with engineering CAD software.",
+      "rationale": "On-whitelist CAD outlet reporting a new THEIA release that turns 2D drawings into CAD-ready 3D models; a concrete update since the August card."
+    },
+    {
+      "title": "How I use AI as a solo designer",
+      "url": "https://uxdesign.cc/how-do-i-use-ai-as-a-solo-designer-956a3954614e",
+      "source": "UX Collective",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "published_iso": "2026-11-26T10:30:00Z",
-      "og_image": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
-      "excerpt": "Carlo Ratti will curate the 2027 Seoul Biennale of Architecture and Urbanism with an 'unconventional, AI-based' approach, using an AI assistant to rethink exhibition-making. He teased that 'one assistant curator isn't even human.' The theme and team will be revealed on December 8.",
-      "rationale": "Credible-outlet announcement of a major architecture biennale curated with an AI assistant curator; a fresh workflow-category signal that rounds out the category spread."
+      "published_iso": "2026-11-27T11:22:26Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*1-xVAhi_xe9_5QefGZDtrQ.png",
+      "excerpt": "A designer who moved from a 30+ person design team to being the only designer at a B2B e-commerce scale-up describes which AI workflows worked (and which failed), going beyond Figma Make, Gemini and Maze-assisted interviews.",
+      "rationale": "A practitioner's account of which AI workflows held up and which failed when one designer covers a whole company; readers can apply it directly."
+    },
+    {
+      "title": "Your coding agent keeps writing the same UI. Give it real components instead",
+      "url": "https://dev.to/behavio1/your-coding-agent-keeps-writing-the-same-ui-give-it-real-components-instead-136i",
+      "source": "DEV Community",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-11-27T21:57:47Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpgm658mc1f07tigaij7.png",
+      "excerpt": "Argues coding agents produce generic sections (the same pricing block everyone gets) unless fed a real component library, and shows how to wire components in as agent context.",
+      "rationale": "Hands-on fix for generic agent-generated UI: give the agent the real component library as context. It covers new ground, unlike the DESIGN.md, AGENTS.md and radius-token pieces."
     }
   ],
   "dedup": {
     "checks": {
-      "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design": {
-        "verdict": "new",
-        "nearest": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
-        "new_action": ""
-      },
-      "https://www.etnews.com/20261126000198": {
-        "verdict": "new",
-        "nearest": "https://aecmag.com/cad/nomic-extends-ai-agents-into-cad-drafting-and-bim/",
-        "new_action": ""
-      },
-      "https://dev.ua/en/news/ukrainskyi-dyzainer-stvoryv-shi-redaktor-modulebuild-1795684607": {
-        "verdict": "new",
-        "nearest": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents",
-        "new_action": ""
-      },
-      "https://ascii.jp/en/elem/000/004/454/4454596/": {
+      "https://pandaily.com/tencent-hunyuan-hy3d-3-6-professional-3d-assets": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.dezeen.com/2026/11/26/carlo-ratti-seoul-biennale/": {
+      "https://www.awn.com/news/cascadeur-20263-adds-metahuman-faces-and-tentacle-rigging": {
+        "verdict": "follow-up",
+        "nearest": "https://www.cgchannel.com/2026/08/nekki-releases-cascadeur-2026-2-with-animation-layers/",
+        "new_action": "New version 2026.3 (design carded 2026.2 on 08-07, outside the 30-day digest): adds automatic mocap jitter cleanup, MetaHuman faces, tentacle rigging, and editing by outside AI assistants (Claude Code)."
+      },
+      "https://develop3d.com/ai/theia-update-automates-3d-models/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.engineering.com/ironcad-2027-update-adds-design-automation-tools/",
+        "new_action": "New THEIA AI update release (Spare Parts 3D) that automates 2D-drawing to CAD-compatible 3D reconstruction; THEIA was last carded 08-27 via engineering.com, outside the 30-day digest. The IronCAD history_match is a different product."
+      },
+      "https://uxdesign.cc/how-do-i-use-ai-as-a-solo-designer-956a3954614e": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69",
+        "new_action": ""
+      },
+      "https://dev.to/behavio1/your-coding-agent-keeps-writing-the-same-ui-give-it-real-components-instead-136i": {
+        "verdict": "new",
+        "nearest": "https://www.supernova.io/blog/agents-md-design-system",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates or follow-ups: Adobe Eric Snowden PRINT interview (commentary on Adobe MAX, already carded 11-11 with AE 27.0 / Photoshop 28.0 / Adobe newsroom; no new release); Runway MCP Fluffwing showcase (related to Runway Dev 11-03, a showcase rather than a new release, and leans toward games); Design Korea etnews x2 (one conference story, panel commentary, no concrete release). Passed over on score, diversity, or exclusion grounds: Tara Labs Short-form Director (third render item); Picsart Platform (aggregator hub, business-leaning, possible marketing overlap); NVIDIA Cosmos 3 local how-to (tutorial); SP3D Theia (vendor press release, second CAD); One UI 9.5 Recompose (unreleased leak, belongs in gadgets); Nexity; Cozey/Vercel customer story; Crystal Palace AI image (AI-slop genre already well covered, marketing-leaning); Chosunbiz roundup (body unfetched); UX Tigers video (commentary). Cross-section: published_urls.json (5038 lines) is too large to read fully and grep is not available, so the orchestrator must exact-grep for Niji V8 / ascii.jp 4454596, Ming-Image, Gstar3D, module.build, and Seoul Biennale / Ratti in the other sections (games/movies/books could plausibly have run Niji V8) before roll."
+    "note": "Dropped as duplicates or by orchestrator assignment: Unreal Engine 6 without Blueprints (AWN; games 11-05/11-22), Android Create My Widget (Verge; gadgets 09-26/11-06), Figma AI image 6-per-prompt (Mynavi; same release as figma.com release note 11-19), radius tokens (dev.to sherotree; likely-repeat of 11-24 spacing-scale piece), zeroheight DESIGN.md (DESIGN.md carded 4+ times, related to 11-20 AGENTS.md; no new angle). Not picked on merit: Inkling 2 Mini guide and Figma MCP setup (tutorials, off-list), ZYXCAD contest (awards event), JEPA studies (indirect design hook), Vercel Cozey (vendor customer story), Dentsu 3000-person program (business/marketing overlap), UXC in-betweens essay and agent-customer piece, ditoday agent-UX columns (opinion), two YouTube general-AI videos (weak design hook). Diversity: 4 outlets (AWN, Pandaily, DEVELOP3D, UX Collective, DEV) all at 1 each; categories render x2 (second given palette accent #eb367f), cad, workflow, tokens."
   }
 }

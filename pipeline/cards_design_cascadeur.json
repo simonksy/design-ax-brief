@@ -1,0 +1,368 @@
+{
+  "date": "2026-11-28",
+  "section": "design",
+  "cards": [
+    {
+      "id": "cascadeur-20263-metahuman",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Cascadeur에\nMetaHuman 얼굴",
+      "body": "Nekki는 모캡 자동 정리와 Claude Code 등 AI의 장면 편집을 더했다.",
+      "mini_headline": "Cascadeur 2026.3, MetaHuman 추가",
+      "tool": "KeyShot",
+      "source": "Animation World Network",
+      "url": "https://www.awn.com/news/cascadeur-20263-adds-metahuman-faces-and-tentacle-rigging",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+            "cap": ""
+          },
+          {
+            "t": "p",
+            "x": "Nekki가 Cascadeur 2026.3을 출시했다. AI와 물리 연산의 도움을 받는 이 3D 캐릭터 애니메이션 소프트웨어에 MetaHuman 얼굴 애니메이션이 Alpha 단계로 들어왔다. 꼬리, 촉수, 거미 다리를 리깅하는 IK Chains와 모션 캡처 데이터를 자동으로 정리하는 도구도 추가됐다."
+          },
+          {
+            "t": "video",
+            "yt": "jp6aI4KMWOY"
+          },
+          {
+            "t": "p",
+            "x": "MetaHuman DNA 지원이 넓어지면서 애니메이터는 MetaHuman을 불러와 리깅한 뒤 고유한 얼굴 컨트롤로 움직이거나 기존 얼굴 애니메이션을 가져올 수 있다. Unreal Engine Live Link는 이제 몸, 얼굴, 카메라를 동시에 전송한다."
+          },
+          {
+            "t": "p",
+            "x": "Mocap Cleaning은 애니메이션을 분석해 떨림, 미끄러짐, 어긋난 팔다리 등 흔한 캡처 문제를 줄인다. 외부 도구나 서버와 연결하지 않고 로컬에서 실행된다. AI Cloud 초기 버전은 텍스트-모션 변환, 영상 모캡, 메시 생성, 리그 생성 등 서버 기반 도구를 더하며, 테스트 단계에서 크레딧으로 운영된다."
+          },
+          {
+            "t": "p",
+            "x": "MCP(Model Context Protocol)와 Cascadeur의 Python API를 통해 Claude Code 같은 외부 AI 어시스턴트가 이제 장면을 다루고 자연어 지시로 애니메이션을 만들거나 고칠 수 있으며, 애니메이터는 이를 Cascadeur 자체 도구로 다듬는다. Animation Layers는 이제 Additive와 Override 두 가지 유형으로 제공된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Cascadeur adds MetaHuman\nfaces and tentacle rigs",
+          "body": "Nekki's update cleans mocap jitter automatically and lets outside AI assistants like Claude Code edit scenes.",
+          "mini_headline": "Cascadeur 2026.3 adds MetaHuman",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Nekki has released Cascadeur 2026.3, bringing MetaHuman facial animation, in Alpha, to its AI- and physics-assisted 3D character animation software. The update also adds IK Chains for rigging tails, tentacles, and spider legs, plus a tool that cleans up motion-capture data automatically."
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "Extended support for MetaHuman DNA lets animators import and rig a MetaHuman, then animate it with its own facial controls or bring in existing facial animation. Unreal Engine Live Link now carries body, face, and camera at the same time."
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaning analyzes an animation to reduce jitter, sliding, misplaced limbs, and other common capture problems. It runs locally, with no connection to outside tools or servers. An early version of AI Cloud adds server-based tools for text-to-motion, video mocap, mesh generation, and rig generation, running on credits in a test phase."
+              },
+              {
+                "t": "p",
+                "x": "Through MCP (Model Context Protocol) and Cascadeur's Python API, outside AI assistants such as Claude Code can now work with scenes and create or edit animation from natural-language instructions, which animators then refine with Cascadeur's own tools. Animation Layers now come in Additive and Override types."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Cascadeur에\nMetaHuman 얼굴",
+          "body": "Nekki는 모캡 자동 정리와 Claude Code 등 AI의 장면 편집을 더했다.",
+          "mini_headline": "Cascadeur 2026.3, MetaHuman 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Nekki가 Cascadeur 2026.3을 출시했다. AI와 물리 연산의 도움을 받는 이 3D 캐릭터 애니메이션 소프트웨어에 MetaHuman 얼굴 애니메이션이 Alpha 단계로 들어왔다. 꼬리, 촉수, 거미 다리를 리깅하는 IK Chains와 모션 캡처 데이터를 자동으로 정리하는 도구도 추가됐다."
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "MetaHuman DNA 지원이 넓어지면서 애니메이터는 MetaHuman을 불러와 리깅한 뒤 고유한 얼굴 컨트롤로 움직이거나 기존 얼굴 애니메이션을 가져올 수 있다. Unreal Engine Live Link는 이제 몸, 얼굴, 카메라를 동시에 전송한다."
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaning은 애니메이션을 분석해 떨림, 미끄러짐, 어긋난 팔다리 등 흔한 캡처 문제를 줄인다. 외부 도구나 서버와 연결하지 않고 로컬에서 실행된다. AI Cloud 초기 버전은 텍스트-모션 변환, 영상 모캡, 메시 생성, 리그 생성 등 서버 기반 도구를 더하며, 테스트 단계에서 크레딧으로 운영된다."
+              },
+              {
+                "t": "p",
+                "x": "MCP(Model Context Protocol)와 Cascadeur의 Python API를 통해 Claude Code 같은 외부 AI 어시스턴트가 이제 장면을 다루고 자연어 지시로 애니메이션을 만들거나 고칠 수 있으며, 애니메이터는 이를 Cascadeur 자체 도구로 다듬는다. Animation Layers는 이제 Additive와 Override 두 가지 유형으로 제공된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Cascadeurに触手リグ\nMetaHumanの顔も",
+          "body": "Nekkiの更新で揺れが自動補正され、Claude Code等のAIがシーンを編集できる。",
+          "mini_headline": "Cascadeur 2026.3がMetaHumanに対応",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "NekkiはCascadeur 2026.3をリリースし、AIと物理演算が支援する3Dキャラクターアニメーションソフトに、MetaHumanのフェイシャルアニメーションをAlpha版として導入した。尻尾や触手、クモの脚をリギングするIK Chainsと、モーションキャプチャーデータを自動でクリーンアップするツールも加わった。"
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "MetaHuman DNAのサポート拡張により、アニメーターはMetaHumanを読み込んでリギングし、専用のフェイシャルコントロールで動かすか、既存のフェイシャルアニメーションを取り込める。Unreal Engine Live Linkは体、顔、カメラを同時に送れるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaningはアニメーションを解析し、揺れや滑り、手足の位置ずれといったキャプチャーでよくある問題を軽減する。外部ツールやサーバーに接続せず、ローカルで動作する。AI Cloudの初期版は、テキストからのモーション生成、動画モーキャプ、メッシュ生成、リグ生成といったサーバーベースのツールを追加し、テスト段階ではクレジット制で運用される。"
+              },
+              {
+                "t": "p",
+                "x": "MCP（Model Context Protocol）とCascadeurのPython APIを通じて、Claude Codeなど外部のAIアシスタントがシーンを扱い、自然言語の指示からアニメーションを作成・編集できるようになった。アニメーターはそれをCascadeur自身のツールで仕上げる。Animation LayersにはAdditiveとOverrideの2種類が用意された。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Cascadeur支持\nMetaHuman面部与触手",
+          "body": "Nekki此次更新可自动消除动捕抖动，并让Claude Code等外部AI助手编辑场景。",
+          "mini_headline": "Cascadeur 2026.3 新增 MetaHuman",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Nekki 发布了 Cascadeur 2026.3，为这款借助 AI 和物理辅助的 3D 角色动画软件带来 Alpha 阶段的 MetaHuman 面部动画。此次更新还加入了用于绑定尾巴、触手和蜘蛛腿的 IK Chains，以及一款自动清理动作捕捉数据的工具。"
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "对 MetaHuman DNA 的扩展支持让动画师可以导入并绑定 MetaHuman，再用其自带的面部控制器制作动画，或导入已有的面部动画。Unreal Engine Live Link 现在可同时传输身体、面部和摄像机数据。"
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaning 会分析动画，减少抖动、滑步、肢体错位等常见捕捉问题。它在本地运行，不连接任何外部工具或服务器。AI Cloud 的早期版本加入了基于服务器的文本生成动作、视频动捕、网格生成和绑定生成工具，测试阶段按积分使用。"
+              },
+              {
+                "t": "p",
+                "x": "借助 MCP（Model Context Protocol）和 Cascadeur 的 Python API，Claude Code 等外部 AI 助手现在可以处理场景，并根据自然语言指令创建或编辑动画，再由动画师用 Cascadeur 自带工具进一步调整。Animation Layers 现分为 Additive 和 Override 两种类型。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Cascadeur suma caras MetaHuman\ny rigs para tentáculos",
+          "body": "La versión de Nekki limpia sola el temblor del mocap y deja que asistentes AI externos como Claude Code editen escenas.",
+          "mini_headline": "Cascadeur 2026.3 suma MetaHuman",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Nekki ha lanzado Cascadeur 2026.3, que lleva la animación facial de MetaHuman, en fase Alpha, a su software de animación 3D de personajes asistido por AI y física. La actualización también añade IK Chains para rigging de colas, tentáculos y patas de araña, además de una herramienta que limpia automáticamente los datos de captura de movimiento."
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "El soporte ampliado para MetaHuman DNA permite a los animadores importar y riggear un MetaHuman, y luego animarlo con sus propios controles faciales o incorporar animación facial existente. Unreal Engine Live Link ahora transmite cuerpo, rostro y cámara al mismo tiempo."
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaning analiza una animación para reducir el temblor, los deslizamientos, las extremidades mal colocadas y otros problemas habituales de captura. Funciona en local, sin conexión con herramientas ni servidores externos. Una versión temprana de AI Cloud añade herramientas en servidor de texto a movimiento, mocap desde video, generación de mallas y generación de rigs, que funcionan con créditos durante una fase de prueba."
+              },
+              {
+                "t": "p",
+                "x": "Gracias a MCP (Model Context Protocol) y la Python API de Cascadeur, asistentes de AI externos como Claude Code ya pueden trabajar con escenas y crear o editar animación a partir de instrucciones en lenguaje natural, que los animadores luego refinan con las herramientas propias de Cascadeur. Animation Layers ahora se ofrece en los tipos Additive y Override."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "es": {
+          "headline": "Cascadeur suma caras MetaHuman\ny rigs para tentáculos",
+          "body": "La versión de Nekki limpia sola el temblor del mocap y deja que asistentes AI externos como Claude Code editen escenas.",
+          "mini_headline": "Cascadeur 2026.3 suma MetaHuman",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Nekki ha lanzado Cascadeur 2026.3, que lleva la animación facial de MetaHuman, en fase Alpha, a su software de animación 3D de personajes asistido por AI y física. La actualización también añade IK Chains para rigging de colas, tentáculos y patas de araña, además de una herramienta que limpia automáticamente los datos de captura de movimiento."
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "El soporte ampliado para MetaHuman DNA permite a los animadores importar y riggear un MetaHuman, y luego animarlo con sus propios controles faciales o incorporar animación facial existente. Unreal Engine Live Link ahora transmite cuerpo, rostro y cámara al mismo tiempo."
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaning analiza una animación para reducir el temblor, los deslizamientos, las extremidades mal colocadas y otros problemas habituales de captura. Funciona en local, sin conexión con herramientas ni servidores externos. Una versión temprana de AI Cloud añade herramientas en servidor de texto a movimiento, mocap desde video, generación de mallas y generación de rigs, que funcionan con créditos durante una fase de prueba."
+              },
+              {
+                "t": "p",
+                "x": "Gracias a MCP (Model Context Protocol) y la Python API de Cascadeur, asistentes de AI externos como Claude Code ya pueden trabajar con escenas y crear o editar animación a partir de instrucciones en lenguaje natural, que los animadores luego refinan con las herramientas propias de Cascadeur. Animation Layers ahora se ofrece en los tipos Additive y Override."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Cascadeur에\nMetaHuman 얼굴",
+          "body": "Nekki는 모캡 자동 정리와 Claude Code 등 AI의 장면 편집을 더했다.",
+          "mini_headline": "Cascadeur 2026.3, MetaHuman 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Nekki가 Cascadeur 2026.3을 출시했다. AI와 물리 연산의 도움을 받는 이 3D 캐릭터 애니메이션 소프트웨어에 MetaHuman 얼굴 애니메이션이 Alpha 단계로 들어왔다. 꼬리, 촉수, 거미 다리를 리깅하는 IK Chains와 모션 캡처 데이터를 자동으로 정리하는 도구도 추가됐다."
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "MetaHuman DNA 지원이 넓어지면서 애니메이터는 MetaHuman을 불러와 리깅한 뒤 고유한 얼굴 컨트롤로 움직이거나 기존 얼굴 애니메이션을 가져올 수 있다. Unreal Engine Live Link는 이제 몸, 얼굴, 카메라를 동시에 전송한다."
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaning은 애니메이션을 분석해 떨림, 미끄러짐, 어긋난 팔다리 등 흔한 캡처 문제를 줄인다. 외부 도구나 서버와 연결하지 않고 로컬에서 실행된다. AI Cloud 초기 버전은 텍스트-모션 변환, 영상 모캡, 메시 생성, 리그 생성 등 서버 기반 도구를 더하며, 테스트 단계에서 크레딧으로 운영된다."
+              },
+              {
+                "t": "p",
+                "x": "MCP(Model Context Protocol)와 Cascadeur의 Python API를 통해 Claude Code 같은 외부 AI 어시스턴트가 이제 장면을 다루고 자연어 지시로 애니메이션을 만들거나 고칠 수 있으며, 애니메이터는 이를 Cascadeur 자체 도구로 다듬는다. Animation Layers는 이제 Additive와 Override 두 가지 유형으로 제공된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Cascadeurに触手リグ\nMetaHumanの顔も",
+          "body": "Nekkiの更新で揺れが自動補正され、Claude Code等のAIがシーンを編集できる。",
+          "mini_headline": "Cascadeur 2026.3がMetaHumanに対応",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "NekkiはCascadeur 2026.3をリリースし、AIと物理演算が支援する3Dキャラクターアニメーションソフトに、MetaHumanのフェイシャルアニメーションをAlpha版として導入した。尻尾や触手、クモの脚をリギングするIK Chainsと、モーションキャプチャーデータを自動でクリーンアップするツールも加わった。"
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "MetaHuman DNAのサポート拡張により、アニメーターはMetaHumanを読み込んでリギングし、専用のフェイシャルコントロールで動かすか、既存のフェイシャルアニメーションを取り込める。Unreal Engine Live Linkは体、顔、カメラを同時に送れるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaningはアニメーションを解析し、揺れや滑り、手足の位置ずれといったキャプチャーでよくある問題を軽減する。外部ツールやサーバーに接続せず、ローカルで動作する。AI Cloudの初期版は、テキストからのモーション生成、動画モーキャプ、メッシュ生成、リグ生成といったサーバーベースのツールを追加し、テスト段階ではクレジット制で運用される。"
+              },
+              {
+                "t": "p",
+                "x": "MCP（Model Context Protocol）とCascadeurのPython APIを通じて、Claude Codeなど外部のAIアシスタントがシーンを扱い、自然言語の指示からアニメーションを作成・編集できるようになった。アニメーターはそれをCascadeur自身のツールで仕上げる。Animation LayersにはAdditiveとOverrideの2種類が用意された。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Cascadeur支持\nMetaHuman面部与触手",
+          "body": "Nekki此次更新可自动消除动捕抖动，并让Claude Code等外部AI助手编辑场景。",
+          "mini_headline": "Cascadeur 2026.3 新增 MetaHuman",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Nekki 发布了 Cascadeur 2026.3，为这款借助 AI 和物理辅助的 3D 角色动画软件带来 Alpha 阶段的 MetaHuman 面部动画。此次更新还加入了用于绑定尾巴、触手和蜘蛛腿的 IK Chains，以及一款自动清理动作捕捉数据的工具。"
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "对 MetaHuman DNA 的扩展支持让动画师可以导入并绑定 MetaHuman，再用其自带的面部控制器制作动画，或导入已有的面部动画。Unreal Engine Live Link 现在可同时传输身体、面部和摄像机数据。"
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaning 会分析动画，减少抖动、滑步、肢体错位等常见捕捉问题。它在本地运行，不连接任何外部工具或服务器。AI Cloud 的早期版本加入了基于服务器的文本生成动作、视频动捕、网格生成和绑定生成工具，测试阶段按积分使用。"
+              },
+              {
+                "t": "p",
+                "x": "借助 MCP（Model Context Protocol）和 Cascadeur 的 Python API，Claude Code 等外部 AI 助手现在可以处理场景，并根据自然语言指令创建或编辑动画，再由动画师用 Cascadeur 自带工具进一步调整。Animation Layers 现分为 Additive 和 Override 两种类型。"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

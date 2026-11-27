@@ -13835,6 +13835,159 @@
           "x": "Nomic's drafting capabilities are available now. The Revit and AutoCAD add-ins are currently being rolled out to customers."
         }
       ]
+    },
+    "design/cascadeur-20263-metahuman": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Nekki has released Cascadeur 2026.3, bringing MetaHuman facial animation, in Alpha, to its AI- and physics-assisted 3D character animation software. The update also adds IK Chains for rigging tails, tentacles, and spider legs, plus a tool that cleans up motion-capture data automatically."
+        },
+        {
+          "t": "video",
+          "yt": "jp6aI4KMWOY"
+        },
+        {
+          "t": "p",
+          "x": "Extended support for MetaHuman DNA lets animators import and rig a MetaHuman, then animate it with its own facial controls or bring in existing facial animation. Unreal Engine Live Link now carries body, face, and camera at the same time."
+        },
+        {
+          "t": "p",
+          "x": "Mocap Cleaning analyzes an animation to reduce jitter, sliding, misplaced limbs, and other common capture problems. It runs locally, with no connection to outside tools or servers. An early version of AI Cloud adds server-based tools for text-to-motion, video mocap, mesh generation, and rig generation, running on credits in a test phase."
+        },
+        {
+          "t": "p",
+          "x": "Through MCP (Model Context Protocol) and Cascadeur's Python API, outside AI assistants such as Claude Code can now work with scenes and create or edit animation from natural-language instructions, which animators then refine with Cascadeur's own tools. Animation Layers now come in Additive and Override types."
+        }
+      ]
+    },
+    "design/theia-drawing-to-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Deep tech company Spare Parts 3D (SP3D) announced that THEIA, its AI that automates the reconstruction of 2D industrial part drawings into 3D, now delivers 3D models compatible with the leading engineering software on the market."
+        },
+        {
+          "t": "p",
+          "x": "THEIA can reconstruct a part in 3D from a 2D drawing when it’s scanned or hand-drawn, and the models can be delivered in native formats including but not limited to SolidWorks and Siemens NX."
+        },
+        {
+          "t": "p",
+          "x": "“A frozen 3D model is like a PDF: you can look at it, but you can’t change it. THEIA now delivers the equivalent of a Word document: a 3D model that engineers review, correct and approve directly in their usual software. They stay in control,” said CPO of SP3D Paul Guillaumot."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Every model is checked against the original drawing, and if THEIA cannot guarantee the result, it flags it and the part is handed over to an engineer. Nearly 70% of models pass the check on all their dimensions from the very first reconstruction, and on parts of standard complexity, which account for more than 90% of the volume, engineering time is divided by three."
+        }
+      ]
+    },
+    "design/uxc-solo-designer-ai-workflows": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "After six years in a 30+ strong design team, the author became the only UXer at a B2B e-comm scale-up in January and revisited AI tools, rating what worked and what kind of failed."
+        },
+        {
+          "t": "p",
+          "x": "Prototyping with Claude Code works “dangerously well”: ideas sketched on paper and in Figma become a local working prototype, usually a single .html file, published in a private hub via Figma Make. Fully working prototypes also improved usability testing, letting participants try different pathways."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+          "cap": "Adding the Excel drag to fill took a few minutes and a couple of prompts."
+        },
+        {
+          "t": "p",
+          "x": "For research synthesis, Gemini summarises individual interviews, but the author forms themes manually, treating AI as “a super text editor,” since fully AI-made insights lost nuance."
+        },
+        {
+          "t": "p",
+          "x": "New visual directions from Figma Make, Claude Code in Figma, Claude Design and Google Stitch were “meh”: nothing solid enough to chase a new direction."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+          "cap": "Interestin bits and pieces that I collected across the outputs."
+        },
+        {
+          "t": "p",
+          "x": "A UX feedback skill in the repo, aware of business, guidelines and user pain points, works well and is in trial; Atlassian’s Rovo agents help gather context. Conclusion: “Useful overall, definitely not an extra designer, at least not yet.”"
+        }
+      ]
+    },
+    "design/devto-agent-real-components": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ask a coding agent for a pricing section and you get the same pricing section everyone else gets: three cards, the middle one highlighted, a gradient somewhere. Agents write UI from memory, and their memory averages out to a template."
+        },
+        {
+          "t": "p",
+          "x": "Good UI code is already out there in shadcn/ui, Radix, Base UI, Magic UI, Kokonut UI, Aceternity UI and shadcn-style registries. The authors built Clay UI, an MIT-licensed CLI plus an agent skill: your agent asks it for a component, picks from real matches, downloads the source and then rewrites it to fit your project."
+        },
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+          "cap": "How Clay UI works"
+        },
+        {
+          "t": "p",
+          "x": "`npx @behavio1/clayui init` installs a skill for Claude Code, Codex, Cursor and other agents and builds a local index. Clay UI never installs a component or a dependency into your project."
+        },
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+          "cap": "Five screens before and after"
+        },
+        {
+          "t": "p",
+          "x": "Libraries are indexed only if their license allows redistribution; search is local and keyless by default, with optional Gemini semantic search. Disclosure: the article is by the team that builds Clay UI."
+        }
+      ]
+    },
+    "design/ming-image-design-rgba": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This release upgrades and open-sources Ming-Image-0.2-Design. The new version improves complex composition, lighting, and text rendering, and can be used to create e-commerce hero images, UI design drafts, and spatial renderings."
+        },
+        {
+          "t": "p",
+          "x": "The previous-generation layer decomposition model, Ming-Image-0.1-Design-Layer, already separates design images into transparent layers. This upgrade further refines decomposition down to character parts, providing assets for downstream editing and animation. For web design, Ming-Image-0.2-Design works with Ling-3.2-flash to turn design concepts into interactive pages."
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+          "cap": "Ming-Image-0.2-Design ranked first on the AA-Image-T2I v2.1 overall open-weights leaderboard"
+        },
+        {
+          "t": "p",
+          "x": "Preliminary evaluation results show Ming ranks first among open-weight models on the overall Artificial Analysis text-to-image leaderboard (as of Nov 25, 2026). The 6B (DiT) model runs at 2048 × 2048 by default with 12 sampling steps, validated on one CUDA GPU with 80 GiB VRAM."
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+          "cap": "Web design: multi-section layouts and a cohesive visual style."
+        },
+        {
+          "t": "p",
+          "x": "The model is released under the MIT License."
+        }
+      ]
     }
   }
 }

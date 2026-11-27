@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "books",
   "cards": [
     {
-      "id": "booxen-korean-books-scan",
-      "source_lang": "ko",
+      "id": "books-wynnwilliams-pangram",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "한국어 책 41만 권\n앤트로픽 조달망으로",
-      "body": "한국어 책 41만 권이 앤트로픽 조달망을 거쳐 스캔 후 폐기됐다고 한다.",
-      "mini_headline": "한국어 책 41만 권 반출",
+      "headline": "Wynn-Williams\n출판계 AI 마녀사냥 경고",
+      "body": "그는 Pangram 마녀사냥은 오래갈 수 없다며 AI 사용을 함께 논의하자고 했다.",
+      "mini_headline": "Wynn-Williams, AI 마녀사냥 경고",
       "tool": "Books",
-      "source": "얼리어답터뉴스",
-      "url": "https://www.eanews.kr/news/1060714",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/sarah-wynn-williams-warns-ai-witch-hunts-are-unsustainable-in-publishing",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,345 +19,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
-            "cap": "AI 학습을 위해 한국어 책 수십만 권이 미국으로 반출됐지만, 학습 이용에 대한 권리 거래와 정당한 보상은 이뤄지지 않았다 <기사 이해를 돕기 위한 AI 생성 이미지, 미디어 울림>"
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Untitled_design_91_Main.jpg",
+            "cap": "2026 British Book Awards에 참석한 Sarah Wynn-Williams © David Monteith Hodge"
           },
           {
             "t": "p",
-            "x": "한국어 책 약 166톤이 미국으로 건너갔다. 미국 AI 기업 앤트로픽의 도서 조달에 관여한 유통망을 거쳐 2025년부터 올해 6월까지 반출된 물량으로, 30만~41만 권으로 추정된다. 권혁건 멘탯 CDO는 이데일리 기고에서 \"팔린 것은 종이책이다. 그러나 AI 학습에 책을 이용할 허락과 그 대가는 이 거래 어디에도 포함되지 않았다\"고 정리했다."
-          },
-          {
-            "t": "p",
-            "x": "수출입 선적 기록으로 확인된 반출량은 165.69톤, 권당 400g으로 환산하면 약 41만 4,000권이다. 발송처는 국내 1위 도서도매유통사 웅진북센이고, 미국 유통업체 베터 월드 북스(Better World Books)를 거쳐 스캔 업체로 넘어가 낱장으로 잘린 뒤 디지털화되고 원본은 폐기되는 것으로 전해졌다. 2020년부터 2025년까지 6년간 국내 신간이 38만 3,792종이었으니 6~7년치 신간을 한 종당 한 권씩 사 간 것과 맞먹는다."
-          },
-          {
-            "t": "p",
-            "x": "교보문고에는 해외 업체 약 10곳이 약 10만 종의 책을 한 권씩 사겠다고 문의했지만, 구매 목적과 납품처가 불분명해 납품을 거절했다. 한국출판인회의는 '책이 없으면 AI도 없다(No Books, No AI)'는 호소문을 냈고, 최휘영 문화체육관광부 장관은 \"현행법으로는 어떻게 할 수 있는 방법이 없다. 보완이 필요하다\"고 답했다."
-          },
-          {
-            "t": "p",
-            "x": "2025년 앤트로픽 사건 1심에서 미국 법원은 적법하게 구매한 책의 학습 활용을 공정이용으로 인정했지만, 미국 저작권청 보고서는 라이선스 시장이 있는 분야에선 무허락 이용을 공정이용으로 보기 어렵다는 취지다. 앤트로픽의 종당 약 3,000달러는 해적판 이용에 대한 합의금이지 라이선스의 값이 아니다. 권 CDO는 \"시장을 만드는 일이 곧 권리를 지키는 일\"이라며 권리 확인, 가격과 배분 기준, 계약 종료 후 규칙을 과제로 꼽았다."
-          },
-          {
-            "t": "p",
-            "x": "대한출판문화협회는 11월 AI 데이터 기업 5곳과 출판 데이터 공급 협약을 맺었고 AI 학습용 데이터 조항을 담은 표준계약서를 배포할 예정이다. 도서 라이선싱 기업 멘탯은 제휴 출판사 100곳, 확보 도서 4만 종 이상, 글로벌 빅테크와의 누적 계약 규모 약 150억 원 수준이다."
+            "x": "『Careless People』(Pan Macmillan)의 저자 Sarah Wynn-Williams는 자신이 “Pangram 마녀사냥”이라 부른 현상이 오래갈 수 없다고 경고했다. 인공지능 사용을 두고 작가와 출판사, 정부, 기술 업계가 더 많이 대화해야 한다는 것이다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "한국어 책 41만 권\n앤트로픽 조달망으로",
-          "body": "한국어 책 41만 권이 앤트로픽 조달망을 거쳐 스캔 후 폐기됐다고 한다.",
-          "mini_headline": "한국어 책 41만 권 반출",
+        "en": {
+          "headline": "Sarah Wynn-Williams warns of\nAI witch hunts in publishing",
+          "body": "The Careless People author calls Pangram witch hunts unsustainable and urges dialogue on AI use.",
+          "mini_headline": "Wynn-Williams on AI witch hunts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
-                "cap": "AI 학습을 위해 한국어 책 수십만 권이 미국으로 반출됐지만, 학습 이용에 대한 권리 거래와 정당한 보상은 이뤄지지 않았다 <기사 이해를 돕기 위한 AI 생성 이미지, 미디어 울림>"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Untitled_design_91_Main.jpg",
+                "cap": "Sarah Wynn-Williams at the 2026 British Book Awards © David Monteith Hodge"
               },
               {
                 "t": "p",
-                "x": "한국어 책 약 166톤이 미국으로 건너갔다. 미국 AI 기업 앤트로픽의 도서 조달에 관여한 유통망을 거쳐 2025년부터 올해 6월까지 반출된 물량으로, 30만~41만 권으로 추정된다. 권혁건 멘탯 CDO는 이데일리 기고에서 \"팔린 것은 종이책이다. 그러나 AI 학습에 책을 이용할 허락과 그 대가는 이 거래 어디에도 포함되지 않았다\"고 정리했다."
-              },
-              {
-                "t": "p",
-                "x": "수출입 선적 기록으로 확인된 반출량은 165.69톤, 권당 400g으로 환산하면 약 41만 4,000권이다. 발송처는 국내 1위 도서도매유통사 웅진북센이고, 미국 유통업체 베터 월드 북스(Better World Books)를 거쳐 스캔 업체로 넘어가 낱장으로 잘린 뒤 디지털화되고 원본은 폐기되는 것으로 전해졌다. 2020년부터 2025년까지 6년간 국내 신간이 38만 3,792종이었으니 6~7년치 신간을 한 종당 한 권씩 사 간 것과 맞먹는다."
-              },
-              {
-                "t": "p",
-                "x": "교보문고에는 해외 업체 약 10곳이 약 10만 종의 책을 한 권씩 사겠다고 문의했지만, 구매 목적과 납품처가 불분명해 납품을 거절했다. 한국출판인회의는 '책이 없으면 AI도 없다(No Books, No AI)'는 호소문을 냈고, 최휘영 문화체육관광부 장관은 \"현행법으로는 어떻게 할 수 있는 방법이 없다. 보완이 필요하다\"고 답했다."
-              },
-              {
-                "t": "p",
-                "x": "2025년 앤트로픽 사건 1심에서 미국 법원은 적법하게 구매한 책의 학습 활용을 공정이용으로 인정했지만, 미국 저작권청 보고서는 라이선스 시장이 있는 분야에선 무허락 이용을 공정이용으로 보기 어렵다는 취지다. 앤트로픽의 종당 약 3,000달러는 해적판 이용에 대한 합의금이지 라이선스의 값이 아니다. 권 CDO는 \"시장을 만드는 일이 곧 권리를 지키는 일\"이라며 권리 확인, 가격과 배분 기준, 계약 종료 후 규칙을 과제로 꼽았다."
-              },
-              {
-                "t": "p",
-                "x": "대한출판문화협회는 11월 AI 데이터 기업 5곳과 출판 데이터 공급 협약을 맺었고 AI 학습용 데이터 조항을 담은 표준계약서를 배포할 예정이다. 도서 라이선싱 기업 멘탯은 제휴 출판사 100곳, 확보 도서 4만 종 이상, 글로벌 빅테크와의 누적 계약 규모 약 150억 원 수준이다."
+                "x": "Careless People (Pan Macmillan) author Sarah Wynn-Williams has warned that what she described as “Pangram witch hunts” are unsustainable, calling for greater dialogue between authors, publishers, governments and the technology industry over the use of artificial intelligence."
               }
             ]
           }
         },
-        "en": {
-          "headline": "410,000 Korean books moved\nthrough Anthropic's suppliers",
-          "body": "410,000 Korean books reportedly passed through Anthropic's supply chain and were scanned, then discarded.",
-          "mini_headline": "410,000 Korean books shipped out",
+        "ko": {
+          "headline": "Wynn-Williams\n출판계 AI 마녀사냥 경고",
+          "body": "그는 Pangram 마녀사냥은 오래갈 수 없다며 AI 사용을 함께 논의하자고 했다.",
+          "mini_headline": "Wynn-Williams, AI 마녀사냥 경고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
-                "cap": "Hundreds of thousands of Korean books were shipped to the U.S. for AI training, but no rights deal or fair compensation for training use took place <AI-generated image to aid understanding of the article, Media Ulim>"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Untitled_design_91_Main.jpg",
+                "cap": "2026 British Book Awards에 참석한 Sarah Wynn-Williams © David Monteith Hodge"
               },
               {
                 "t": "p",
-                "x": "About 166 tonnes of Korean books went to the United States. The volume was shipped from 2025 through June this year via a distribution network involved in book procurement for the American AI company Anthropic, and is estimated at 300,000 to 410,000 books. Kwon Hyeok-geon, CDO of Mentat, summed it up in a column for Edaily: \"What was sold was paper books. But permission to use the books for AI training, and payment for it, were nowhere in this deal.\""
-              },
-              {
-                "t": "p",
-                "x": "Export-import shipping records confirm 165.69 tonnes shipped; at 400g per book, that comes to about 414,000 books. The shipper was Woongjin Booxen, Korea's largest book wholesaler and distributor. The books reportedly went through the American distributor Better World Books to a scanning company, where they were cut into single pages and digitized, and the originals destroyed. Korea published 383,792 new titles over the six years from 2020 to 2025, so this equals buying one copy of every new title from six to seven years."
-              },
-              {
-                "t": "p",
-                "x": "Kyobo Book Centre received inquiries from about 10 overseas firms wanting to buy one copy each of about 100,000 titles, but declined to supply them because the purpose of the purchase and the final recipient were unclear. The Korean Publishers Society issued an appeal titled 'No Books, No AI', and Minister of Culture, Sports and Tourism Choi Hwi-young replied, \"There is no way to do anything under current law. It needs to be supplemented.\""
-              },
-              {
-                "t": "p",
-                "x": "In the 2025 first-instance ruling in the Anthropic case, an American court accepted training on lawfully purchased books as fair use, but a report by the American Copyright Office holds that unauthorized use is hard to see as fair use in fields where a licensing market exists. Anthropic's roughly $3,000 per title is a settlement for using pirated copies, not the price of a license. CDO Kwon said \"building the market is itself protecting the rights,\" naming rights verification, standards for pricing and distribution, and rules after a contract ends as the tasks ahead."
-              },
-              {
-                "t": "p",
-                "x": "In November, the Korean Publishers Association signed publishing-data supply agreements with 5 AI data companies and plans to distribute a standard contract with clauses on AI training data. Book licensing company Mentat has 100 partner publishers, more than 40,000 titles secured, and cumulative contracts with global big tech worth about 15 billion won."
+                "x": "『Careless People』(Pan Macmillan)의 저자 Sarah Wynn-Williams는 자신이 “Pangram 마녀사냥”이라 부른 현상이 오래갈 수 없다고 경고했다. 인공지능 사용을 두고 작가와 출판사, 정부, 기술 업계가 더 많이 대화해야 한다는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国語の本41万冊\nAnthropic調達網経由",
-          "body": "韓国語の本41万冊がAnthropicの調達網を経てスキャン後に廃棄されたという。",
-          "mini_headline": "韓国語の本41万冊が流出",
+          "headline": "Wynn-Williams\n出版界のAI魔女狩りに警鐘",
+          "body": "同氏はPangramによる魔女狩りを持続不可能と批判し、AI利用を巡る対話を求めた。",
+          "mini_headline": "Wynn-Williams、AI魔女狩りを語る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
-                "cap": "AI学習のために韓国語の本数十万冊が米国へ持ち出されたが、学習利用に関する権利取引や正当な対価の支払いは行われなかった <記事の理解を助けるためのAI生成画像、メディア・ウルリム>"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Untitled_design_91_Main.jpg",
+                "cap": "2026年British Book AwardsでのSarah Wynn-Williams © David Monteith Hodge"
               },
               {
                 "t": "p",
-                "x": "約166トンの韓国語の本が米国へ渡った。米AI企業Anthropicの図書調達に関わった流通網を通じ、2025年から今年6月までに持ち出された量で、30万~41万冊と推定される。メンタットのクォン・ヒョクゴンCDOはイーデイリーへの寄稿で「売られたのは紙の本だ。しかし、AI学習に本を使う許可とその対価は、この取引のどこにも含まれていなかった」とまとめた。"
-              },
-              {
-                "t": "p",
-                "x": "輸出入の船積み記録で確認された持ち出し量は165.69トンで、1冊400gで換算すると約41万4000冊になる。発送元は国内最大手の図書卸売業者ウンジン・ブックセンで、本は米国の流通業者ベター・ワールド・ブックス（Better World Books）を経てスキャン業者に渡り、1枚ずつ裁断されてデジタル化された後、原本は廃棄されると伝えられた。2020年から2025年までの6年間に国内で出た新刊は38万3792点で、6~7年分の新刊を1点につき1冊ずつ買っていったのに等しい。"
-              },
-              {
-                "t": "p",
-                "x": "教保文庫には海外の業者約10社から約10万点の本を1冊ずつ買いたいとの問い合わせがあったが、購入目的と納品先が不明確だったため納品を断った。韓国出版人会議は「本がなければAIもない（No Books, No AI）」という訴えを出し、チェ・フィヨン文化体育観光部長官は「現行法ではどうする方法もない。補完が必要だ」と答えた。"
-              },
-              {
-                "t": "p",
-                "x": "2025年のAnthropic訴訟の一審で、米国の裁判所は適法に購入した本の学習利用をフェアユースと認めたが、米国著作権局の報告書は、ライセンス市場がある分野では無許諾の利用をフェアユースとみなすのは難しいという趣旨だ。Anthropicの1点あたり約3000ドルは海賊版利用に対する和解金であり、ライセンスの対価ではない。クォンCDOは「市場をつくることが、すなわち権利を守ることだ」として、権利の確認、価格と配分の基準、契約終了後のルールを課題に挙げた。"
-              },
-              {
-                "t": "p",
-                "x": "大韓出版文化協会は11月、AIデータ企業5社と出版データ供給の協定を結び、AI学習用データ条項を盛り込んだ標準契約書を配布する予定だ。図書ライセンシング企業のメンタットは、提携出版社100社、確保した図書4万点以上、グローバルビッグテックとの累計契約規模は約150億ウォンに上る。"
+                "x": "『Careless People』（Pan Macmillan）の著者Sarah Wynn-Williamsは、自ら「Pangram魔女狩り」と呼ぶ動きは持続不可能だと警告し、人工知能の利用を巡って作家、出版社、政府、テクノロジー業界の対話を深めるよう求めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "41万本韩语书籍\n流经Anthropic采购链",
-          "body": "据称，41万本韩语书籍经Anthropic采购渠道流出，扫描后被销毁。",
-          "mini_headline": "41万本韩语书籍外流",
+          "headline": "Wynn-Williams\n警示出版业AI猎巫",
+          "body": "《Careless People》作者称Pangram猎巫难以为继，呼吁就AI使用对话。",
+          "mini_headline": "Wynn-Williams谈AI猎巫",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
-                "cap": "数十万本韩语书籍为AI训练被运往美国，但围绕训练使用的权利交易和正当补偿并未发生 <为帮助理解报道而使用的AI生成图片，Media Ulim>"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Untitled_design_91_Main.jpg",
+                "cap": "Sarah Wynn-Williams出席2026年British Book Awards © David Monteith Hodge"
               },
               {
                 "t": "p",
-                "x": "约166吨韩语书籍运往了美国。这批书经由参与美国AI企业Anthropic图书采购的流通网络，于2025年至今年6月间运出，估计有30万至41万本。Mentat首席数据官（CDO）权赫建在为Edaily撰写的文章中总结道：“卖出去的是纸质书。但允许将书用于AI训练的许可及其对价，并不包含在这笔交易的任何地方。”"
-              },
-              {
-                "t": "p",
-                "x": "进出口装运记录确认的运出量为165.69吨，按每本400g换算约为41万4000本。发货方是韩国排名第一的图书批发流通商熊津Booxen，据悉书籍经美国流通商Better World Books转交给扫描公司，被切成单页后数字化，原书随后被销毁。2020年至2025年这6年间，韩国新书共38万3792种，相当于把6至7年的新书每种买走一本。"
-              },
-              {
-                "t": "p",
-                "x": "教保文库曾收到约10家海外企业的询问，希望将约10万种书各买一本，但由于购买目的和交付对象不明确，教保文库拒绝供货。韩国出版人会议发表了题为“没有书就没有AI（No Books, No AI）”的呼吁书，文化体育观光部长官崔辉英回应称：“依现行法律没有任何办法，需要加以完善。”"
-              },
-              {
-                "t": "p",
-                "x": "在2025年Anthropic案的一审中，美国法院认定将合法购买的书籍用于训练属于合理使用，但美国版权局报告的意思是，在存在授权市场的领域，未经许可的使用难以被视为合理使用。Anthropic每种约3000美元是对使用盗版的和解金，而不是授权的价格。权CDO表示“建立市场就是守护权利”，并将权利确认、定价与分配标准、合同终止后的规则列为课题。"
-              },
-              {
-                "t": "p",
-                "x": "大韩出版文化协会于11月与5家AI数据企业签署了出版数据供应协议，并计划发布包含AI训练数据条款的标准合同。图书授权企业Mentat拥有合作出版社100家、已获取图书4万种以上，与全球科技巨头的累计合同规模约150亿韩元。"
+                "x": "《Careless People》（Pan Macmillan）作者Sarah Wynn-Williams警告称，她所说的“Pangram猎巫”难以为继，并呼吁作者、出版商、政府和科技行业就人工智能的使用加强对话。"
               }
             ]
           }
         },
         "es": {
-          "headline": "410.000 libros coreanos, vía\nla red de compras de Anthropic",
-          "body": "Según se informa, 410.000 libros coreanos pasaron por la red de compras de Anthropic y se escanearon y destruyeron.",
-          "mini_headline": "410.000 libros coreanos al exterior",
+          "headline": "Sarah Wynn-Williams alerta\nde cazas de brujas por IA",
+          "body": "La autora de Careless People califica de insostenibles las cazas de brujas con Pangram y pide diálogo sobre la IA.",
+          "mini_headline": "Wynn-Williams y las cazas de brujas por IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
-                "cap": "Cientos de miles de libros coreanos se enviaron a Estados Unidos para el entrenamiento de IA, pero no hubo acuerdo de derechos ni compensación justa por su uso en el entrenamiento <Imagen generada por IA para facilitar la comprensión del artículo, Media Ulim>"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Untitled_design_91_Main.jpg",
+                "cap": "Sarah Wynn-Williams en los British Book Awards 2026 © David Monteith Hodge"
               },
               {
                 "t": "p",
-                "x": "Unas 166 toneladas de libros coreanos viajaron a Estados Unidos. Es el volumen enviado entre 2025 y junio de este año a través de una red de distribución que participó en la adquisición de libros de la empresa estadounidense de IA Anthropic, y se estima en entre 300.000 y 410.000 ejemplares. Kwon Hyeok-geon, CDO de Mentat, lo resumió en una columna en Edaily: \"Lo que se vendió fueron libros en papel. Pero el permiso para usar los libros en el entrenamiento de IA y su contraprestación no figuraban en ninguna parte de esta transacción\"."
-              },
-              {
-                "t": "p",
-                "x": "Los registros de embarque de exportación e importación confirman 165,69 toneladas; a 400 g por libro, equivalen a unos 414.000 ejemplares. El remitente fue Woongjin Booxen, el mayor mayorista y distribuidor de libros del país, y según se informó los libros pasaron por la distribuidora estadounidense Better World Books hasta una empresa de escaneo, donde se cortaron en hojas sueltas y se digitalizaron, y los originales se destruyeron. Entre 2020 y 2025, en seis años, se publicaron en el país 383.792 títulos nuevos, por lo que equivale a comprar un ejemplar de cada novedad de seis a siete años."
-              },
-              {
-                "t": "p",
-                "x": "Kyobo Book Centre recibió consultas de unas 10 empresas extranjeras que querían comprar un ejemplar de cada uno de unos 100.000 títulos, pero rechazó el suministro porque el propósito de la compra y el destinatario no estaban claros. La Sociedad Coreana de Editores publicó el llamamiento 'Sin libros no hay IA (No Books, No AI)', y el ministro de Cultura, Deportes y Turismo, Choi Hwi-young, respondió: \"Con la ley vigente no hay forma de hacer nada. Hace falta complementarla\"."
-              },
-              {
-                "t": "p",
-                "x": "En el fallo de primera instancia del caso Anthropic de 2025, un tribunal estadounidense reconoció como uso legítimo el entrenamiento con libros comprados legalmente, pero un informe de la Oficina de Derechos de Autor estadounidense sostiene que, en ámbitos donde existe un mercado de licencias, es difícil considerar uso legítimo el uso sin permiso. Los cerca de 3.000 dólares por título de Anthropic son una indemnización por el uso de copias piratas, no el precio de una licencia. El CDO Kwon señaló que \"crear el mercado es en sí proteger los derechos\" y citó como tareas la verificación de derechos, los criterios de precio y reparto y las reglas tras el fin de los contratos."
-              },
-              {
-                "t": "p",
-                "x": "La Asociación de Editores de Corea firmó en noviembre acuerdos de suministro de datos editoriales con 5 empresas de datos de IA y prevé distribuir un contrato tipo con cláusulas sobre datos para entrenamiento de IA. La empresa de licencias de libros Mentat cuenta con 100 editoriales asociadas, más de 40.000 títulos y contratos acumulados con grandes tecnológicas globales por unos 15.000 millones de wones."
+                "x": "Sarah Wynn-Williams, autora de Careless People (Pan Macmillan), ha advertido de que lo que describió como “cazas de brujas con Pangram” son insostenibles, y ha pedido un mayor diálogo entre autores, editoriales, gobiernos y la industria tecnológica sobre el uso de la inteligencia artificial."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "410,000 Korean books moved\nthrough Anthropic's suppliers",
-          "body": "410,000 Korean books reportedly passed through Anthropic's supply chain and were scanned, then discarded.",
-          "mini_headline": "410,000 Korean books shipped out",
+        "ko": {
+          "headline": "Wynn-Williams\n출판계 AI 마녀사냥 경고",
+          "body": "그는 Pangram 마녀사냥이 지속 불가능하다며 AI 사용 논의를 촉구했다.",
+          "mini_headline": "Wynn-Williams, AI 마녀사냥 경고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
-                "cap": "Hundreds of thousands of Korean books were shipped to the U.S. for AI training, but no rights deal or fair compensation for training use took place <AI-generated image to aid understanding of the article, Media Ulim>"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Untitled_design_91_Main.jpg",
+                "cap": "2026 British Book Awards에 참석한 Sarah Wynn-Williams © David Monteith Hodge"
               },
               {
                 "t": "p",
-                "x": "About 166 tonnes of Korean books went to the United States. The volume was shipped from 2025 through June this year via a distribution network involved in book procurement for the American AI company Anthropic, and is estimated at 300,000 to 410,000 books. Kwon Hyeok-geon, CDO of Mentat, summed it up in a column for Edaily: \"What was sold was paper books. But permission to use the books for AI training, and payment for it, were nowhere in this deal.\""
-              },
-              {
-                "t": "p",
-                "x": "Export-import shipping records confirm 165.69 tonnes shipped; at 400g per book, that comes to about 414,000 books. The shipper was Woongjin Booxen, Korea's largest book wholesaler and distributor. The books reportedly went through the American distributor Better World Books to a scanning company, where they were cut into single pages and digitized, and the originals destroyed. Korea published 383,792 new titles over the six years from 2020 to 2025, so this equals buying one copy of every new title from six to seven years."
-              },
-              {
-                "t": "p",
-                "x": "Kyobo Book Centre received inquiries from about 10 overseas firms wanting to buy one copy each of about 100,000 titles, but declined to supply them because the purpose of the purchase and the final recipient were unclear. The Korean Publishers Society issued an appeal titled 'No Books, No AI', and Minister of Culture, Sports and Tourism Choi Hwi-young replied, \"There is no way to do anything under current law. It needs to be supplemented.\""
-              },
-              {
-                "t": "p",
-                "x": "In the 2025 first-instance ruling in the Anthropic case, an American court accepted training on lawfully purchased books as fair use, but a report by the American Copyright Office holds that unauthorized use is hard to see as fair use in fields where a licensing market exists. Anthropic's roughly $3,000 per title is a settlement for using pirated copies, not the price of a license. CDO Kwon said \"building the market is itself protecting the rights,\" naming rights verification, standards for pricing and distribution, and rules after a contract ends as the tasks ahead."
-              },
-              {
-                "t": "p",
-                "x": "In November, the Korean Publishers Association signed publishing-data supply agreements with 5 AI data companies and plans to distribute a standard contract with clauses on AI training data. Book licensing company Mentat has 100 partner publishers, more than 40,000 titles secured, and cumulative contracts with global big tech worth about 15 billion won."
+                "x": "『Careless People』(Pan Macmillan)의 저자 Sarah Wynn-Williams는 자신이 “Pangram 마녀사냥”이라 부른 현상이 지속될 수 없다고 경고했다. 그는 인공지능 사용을 두고 작가, 출판사, 정부, 기술 업계가 더 많이 대화해야 한다고 촉구했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国語の本41万冊\nAnthropic調達網経由",
-          "body": "韓国語の本41万冊がAnthropicの調達網を経てスキャン後に廃棄されたという。",
-          "mini_headline": "韓国語の本41万冊が流出",
+          "headline": "Wynn-Williams\n出版界のAI魔女狩りに警鐘",
+          "body": "同氏はPangramによる魔女狩りを持続不可能と批判し、AI利用を巡る対話を求めた。",
+          "mini_headline": "Wynn-Williams、AI魔女狩りを語る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
-                "cap": "AI学習のために韓国語の本数十万冊が米国へ持ち出されたが、学習利用に関する権利取引や正当な対価の支払いは行われなかった <記事の理解を助けるためのAI生成画像、メディア・ウルリム>"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Untitled_design_91_Main.jpg",
+                "cap": "2026年British Book AwardsでのSarah Wynn-Williams © David Monteith Hodge"
               },
               {
                 "t": "p",
-                "x": "約166トンの韓国語の本が米国へ渡った。米AI企業Anthropicの図書調達に関わった流通網を通じ、2025年から今年6月までに持ち出された量で、30万~41万冊と推定される。メンタットのクォン・ヒョクゴンCDOはイーデイリーへの寄稿で「売られたのは紙の本だ。しかし、AI学習に本を使う許可とその対価は、この取引のどこにも含まれていなかった」とまとめた。"
-              },
-              {
-                "t": "p",
-                "x": "輸出入の船積み記録で確認された持ち出し量は165.69トンで、1冊400gで換算すると約41万4000冊になる。発送元は国内最大手の図書卸売業者ウンジン・ブックセンで、本は米国の流通業者ベター・ワールド・ブックス（Better World Books）を経てスキャン業者に渡り、1枚ずつ裁断されてデジタル化された後、原本は廃棄されると伝えられた。2020年から2025年までの6年間に国内で出た新刊は38万3792点で、6~7年分の新刊を1点につき1冊ずつ買っていったのに等しい。"
-              },
-              {
-                "t": "p",
-                "x": "教保文庫には海外の業者約10社から約10万点の本を1冊ずつ買いたいとの問い合わせがあったが、購入目的と納品先が不明確だったため納品を断った。韓国出版人会議は「本がなければAIもない（No Books, No AI）」という訴えを出し、チェ・フィヨン文化体育観光部長官は「現行法ではどうする方法もない。補完が必要だ」と答えた。"
-              },
-              {
-                "t": "p",
-                "x": "2025年のAnthropic訴訟の一審で、米国の裁判所は適法に購入した本の学習利用をフェアユースと認めたが、米国著作権局の報告書は、ライセンス市場がある分野では無許諾の利用をフェアユースとみなすのは難しいという趣旨だ。Anthropicの1点あたり約3000ドルは海賊版利用に対する和解金であり、ライセンスの対価ではない。クォンCDOは「市場をつくることが、すなわち権利を守ることだ」として、権利の確認、価格と配分の基準、契約終了後のルールを課題に挙げた。"
-              },
-              {
-                "t": "p",
-                "x": "大韓出版文化協会は11月、AIデータ企業5社と出版データ供給の協定を結び、AI学習用データ条項を盛り込んだ標準契約書を配布する予定だ。図書ライセンシング企業のメンタットは、提携出版社100社、確保した図書4万点以上、グローバルビッグテックとの累計契約規模は約150億ウォンに上る。"
+                "x": "『Careless People』（Pan Macmillan）の著者Sarah Wynn-Williamsは、自ら「Pangram魔女狩り」と呼ぶ動きは持続不可能だと警告し、人工知能の利用を巡って作家、出版社、政府、テクノロジー業界の対話を深めるよう求めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "41万本韩语书籍\n流经Anthropic采购链",
-          "body": "据称，41万本韩语书籍经Anthropic采购渠道流出，扫描后被销毁。",
-          "mini_headline": "41万本韩语书籍外流",
+          "headline": "Wynn-Williams\n警示出版业AI猎巫",
+          "body": "《Careless People》作者称Pangram猎巫难以为继，呼吁就AI使用对话。",
+          "mini_headline": "Wynn-Williams谈AI猎巫",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
-                "cap": "数十万本韩语书籍为AI训练被运往美国，但围绕训练使用的权利交易和正当补偿并未发生 <为帮助理解报道而使用的AI生成图片，Media Ulim>"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Untitled_design_91_Main.jpg",
+                "cap": "Sarah Wynn-Williams出席2026年British Book Awards © David Monteith Hodge"
               },
               {
                 "t": "p",
-                "x": "约166吨韩语书籍运往了美国。这批书经由参与美国AI企业Anthropic图书采购的流通网络，于2025年至今年6月间运出，估计有30万至41万本。Mentat首席数据官（CDO）权赫建在为Edaily撰写的文章中总结道：“卖出去的是纸质书。但允许将书用于AI训练的许可及其对价，并不包含在这笔交易的任何地方。”"
-              },
-              {
-                "t": "p",
-                "x": "进出口装运记录确认的运出量为165.69吨，按每本400g换算约为41万4000本。发货方是韩国排名第一的图书批发流通商熊津Booxen，据悉书籍经美国流通商Better World Books转交给扫描公司，被切成单页后数字化，原书随后被销毁。2020年至2025年这6年间，韩国新书共38万3792种，相当于把6至7年的新书每种买走一本。"
-              },
-              {
-                "t": "p",
-                "x": "教保文库曾收到约10家海外企业的询问，希望将约10万种书各买一本，但由于购买目的和交付对象不明确，教保文库拒绝供货。韩国出版人会议发表了题为“没有书就没有AI（No Books, No AI）”的呼吁书，文化体育观光部长官崔辉英回应称：“依现行法律没有任何办法，需要加以完善。”"
-              },
-              {
-                "t": "p",
-                "x": "在2025年Anthropic案的一审中，美国法院认定将合法购买的书籍用于训练属于合理使用，但美国版权局报告的意思是，在存在授权市场的领域，未经许可的使用难以被视为合理使用。Anthropic每种约3000美元是对使用盗版的和解金，而不是授权的价格。权CDO表示“建立市场就是守护权利”，并将权利确认、定价与分配标准、合同终止后的规则列为课题。"
-              },
-              {
-                "t": "p",
-                "x": "大韩出版文化协会于11月与5家AI数据企业签署了出版数据供应协议，并计划发布包含AI训练数据条款的标准合同。图书授权企业Mentat拥有合作出版社100家、已获取图书4万种以上，与全球科技巨头的累计合同规模约150亿韩元。"
+                "x": "《Careless People》（Pan Macmillan）作者Sarah Wynn-Williams警告称，她所说的“Pangram猎巫”难以为继，并呼吁作者、出版商、政府和科技行业就人工智能的使用加强对话。"
               }
             ]
           }
         },
         "es": {
-          "headline": "410.000 libros coreanos, vía\nla red de compras de Anthropic",
-          "body": "Según se informa, 410.000 libros coreanos pasaron por la red de compras de Anthropic y se escanearon y destruyeron.",
-          "mini_headline": "410.000 libros coreanos al exterior",
+          "headline": "Sarah Wynn-Williams alerta\nde cazas de brujas por IA",
+          "body": "La autora de Careless People califica de insostenibles las cazas de brujas con Pangram y pide diálogo sobre la IA.",
+          "mini_headline": "Wynn-Williams y las cazas de brujas por IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.ehom.kr/news/2026/11/26/0e0f6d558eae64ff74b5d3d4a6157129213745.jpg",
-                "cap": "Cientos de miles de libros coreanos se enviaron a Estados Unidos para el entrenamiento de IA, pero no hubo acuerdo de derechos ni compensación justa por su uso en el entrenamiento <Imagen generada por IA para facilitar la comprensión del artículo, Media Ulim>"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Untitled_design_91_Main.jpg",
+                "cap": "Sarah Wynn-Williams en los British Book Awards 2026 © David Monteith Hodge"
               },
               {
                 "t": "p",
-                "x": "Unas 166 toneladas de libros coreanos viajaron a Estados Unidos. Es el volumen enviado entre 2025 y junio de este año a través de una red de distribución que participó en la adquisición de libros de la empresa estadounidense de IA Anthropic, y se estima en entre 300.000 y 410.000 ejemplares. Kwon Hyeok-geon, CDO de Mentat, lo resumió en una columna en Edaily: \"Lo que se vendió fueron libros en papel. Pero el permiso para usar los libros en el entrenamiento de IA y su contraprestación no figuraban en ninguna parte de esta transacción\"."
-              },
-              {
-                "t": "p",
-                "x": "Los registros de embarque de exportación e importación confirman 165,69 toneladas; a 400 g por libro, equivalen a unos 414.000 ejemplares. El remitente fue Woongjin Booxen, el mayor mayorista y distribuidor de libros del país, y según se informó los libros pasaron por la distribuidora estadounidense Better World Books hasta una empresa de escaneo, donde se cortaron en hojas sueltas y se digitalizaron, y los originales se destruyeron. Entre 2020 y 2025, en seis años, se publicaron en el país 383.792 títulos nuevos, por lo que equivale a comprar un ejemplar de cada novedad de seis a siete años."
-              },
-              {
-                "t": "p",
-                "x": "Kyobo Book Centre recibió consultas de unas 10 empresas extranjeras que querían comprar un ejemplar de cada uno de unos 100.000 títulos, pero rechazó el suministro porque el propósito de la compra y el destinatario no estaban claros. La Sociedad Coreana de Editores publicó el llamamiento 'Sin libros no hay IA (No Books, No AI)', y el ministro de Cultura, Deportes y Turismo, Choi Hwi-young, respondió: \"Con la ley vigente no hay forma de hacer nada. Hace falta complementarla\"."
-              },
-              {
-                "t": "p",
-                "x": "En el fallo de primera instancia del caso Anthropic de 2025, un tribunal estadounidense reconoció como uso legítimo el entrenamiento con libros comprados legalmente, pero un informe de la Oficina de Derechos de Autor estadounidense sostiene que, en ámbitos donde existe un mercado de licencias, es difícil considerar uso legítimo el uso sin permiso. Los cerca de 3.000 dólares por título de Anthropic son una indemnización por el uso de copias piratas, no el precio de una licencia. El CDO Kwon señaló que \"crear el mercado es en sí proteger los derechos\" y citó como tareas la verificación de derechos, los criterios de precio y reparto y las reglas tras el fin de los contratos."
-              },
-              {
-                "t": "p",
-                "x": "La Asociación de Editores de Corea firmó en noviembre acuerdos de suministro de datos editoriales con 5 empresas de datos de IA y prevé distribuir un contrato tipo con cláusulas sobre datos para entrenamiento de IA. La empresa de licencias de libros Mentat cuenta con 100 editoriales asociadas, más de 40.000 títulos y contratos acumulados con grandes tecnológicas globales por unos 15.000 millones de wones."
+                "x": "Sarah Wynn-Williams, autora de Careless People (Pan Macmillan), ha advertido de que lo que describió como “cazas de brujas con Pangram” son insostenibles, y ha pedido un mayor diálogo entre autores, editoriales, gobiernos y la industria tecnológica sobre el uso de la inteligencia artificial."
               }
             ]
           }
@@ -365,15 +205,15 @@
       }
     },
     {
-      "id": "mertens-wild-horse-ai-denial",
-      "source_lang": "en",
+      "id": "books-magabala-meta-training",
+      "source_lang": "fr",
       "eyebrow": "AI NEWS",
-      "headline": "계약 끊긴 소설 작가\nAI 집필 의혹 부인",
-      "body": "머튼스는 초고와 손글씨 메모, 자료 조사로 직접 썼음을 증명할 수 있다고 했다.",
-      "mini_headline": "작가, AI 집필 의혹 부인",
+      "headline": "Meta, 원주민 도서\n무단 사용 의혹",
+      "body": "Magabala Books는 Meta가 책 최소 37종을 무단 학습했다고 밝혔다.",
+      "mini_headline": "Meta와 원주민 도서",
       "tool": "Books",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/news/author-denies-allegations-she-used-ai-to-write-book-after-novel-dropped-by-agent",
+      "source": "ActuaLitté",
+      "url": "https://actualitte.com/article/135512/legislation/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -381,215 +221,308 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
+            "src": "https://actualitte.com/uploads/images/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia-6b09528f152a8581745199.jpg"
           },
           {
             "t": "p",
-            "x": "작가 캐스린 오코너 머튼스(Kathryn O’Connor Mertens)가 소설 『Wild Horse Country』를 인공지능(AI)으로 썼다는 의혹을 부인하는 성명을 냈다. 초고와 손글씨 메모, 자료 조사 기록이 있으니 직접 썼다는 걸 보여줄 수 있다고 했다."
+            "x": "Magabala Books가 펴낸 책 최소 37종이 Meta의 인공지능(IA) 시스템 학습에 무단으로 쓰였다는 의혹이 나왔다. 출판사 대표 Lilly Brown은 2026년 11월 17일 Albert Barume 유엔 원주민 권리 특별보고관 앞에서 “원주민(First Nations) 창작자에게는 거절할 권리가 있어야 한다”고 말했다."
           },
           {
             "t": "p",
-            "x": "성명은 그의 에이전트가 이 소설에서 손을 뗐다는 보도 뒤에 나왔다."
+            "x": "오스트레일리아 북서부 Broome의 이 출판사는 2025년 3월, 창작자 동의도 보상도 없이 자사 도서 수십 종이 쓰였을 수 있다는 통보를 받았다. 국제 재판소에 소송을 낸 것은 아니다. 2027년 9월 인권이사회에 제출될 보고서에 의견을 보탰을 뿐이다."
+          },
+          {
+            "t": "p",
+            "x": "거론된 책은 『Yorro Yorro: Everything Standing Up Alive』, 『Jandamarra and the Bunuba Resistance』, 『Black Cockatoo』 등이다. Magabala Books는 저작권만으로는 부족하고, 어떤 지식은 공동체의 유산에 속한다고 본다. Lilly Brown은 유엔 선언 제31조를 들어 기술 기업의 착취에서 집단의 문화적·지적 재산을 지킬 법을 만들라고 요구한다. Meta는 답하지 않은 것으로 보인다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Author denies using AI\nto write her dropped novel",
-          "body": "Kathryn O'Connor Mertens says drafts, handwritten notes and research prove she wrote Wild Horse Country herself.",
-          "mini_headline": "Author denies AI-written novel claim",
+        "_src": {
+          "headline": "Meta accusé d’avoir utilisé\ndes livres autochtones",
+          "body": "Magabala Books affirme qu’au moins 37 de ses titres ont servi sans autorisation à entraîner l’IA de Meta.",
+          "mini_headline": "Meta et les livres autochtones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
+                "src": "https://actualitte.com/uploads/images/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia-6b09528f152a8581745199.jpg"
               },
               {
                 "t": "p",
-                "x": "Author Kathryn O’Connor Mertens has issued a statement denying allegations that she used artificial intelligence (AI) to write her novel Wild Horse Country, saying she has drafts, handwritten notes and research to demonstrate that she wrote the book herself."
+                "x": "Au moins 37 ouvrages publiés par Magabala Books auraient été exploités sans autorisation par Meta pour entraîner ses systèmes d’intelligence artificielle. « Les créateurs des Premières Nations devraient avoir le droit de dire non », a déclaré le 17 novembre 2026 Lilly Brown, directrice générale de la maison, devant Albert Barume, rapporteur spécial des Nations unies sur les droits des peuples autochtones."
               },
               {
                 "t": "p",
-                "x": "The statement follows reports that the novel was dropped by her agent."
+                "x": "Installée à Broome, dans le nord-ouest de l’Australie, la maison avait été alertée en mars 2025 de l’utilisation présumée de plusieurs dizaines de titres de son catalogue, sans consentement des créateurs ni rémunération. Il ne s’agit pas d’une plainte devant une juridiction internationale, mais d’une contribution au rapport attendu en septembre 2027 devant le Conseil des droits de l’homme."
+              },
+              {
+                "t": "p",
+                "x": "Parmi les titres cités : Yorro Yorro: Everything Standing Up Alive, Jandamarra and the Bunuba Resistance et Black Cockatoo. Pour Magabala Books, le droit d’auteur ne suffit pas : certains savoirs relèvent d’un patrimoine collectif. Lilly Brown demande une législation protégeant la propriété culturelle et intellectuelle collective contre l’exploitation par les entreprises technologiques, en s’appuyant sur l’article 31 de la Déclaration des Nations unies. Meta n’a manifestement pas souhaité répondre."
+              }
+            ]
+          },
+          "lang": "fr"
+        },
+        "en": {
+          "headline": "Meta accused of using\nIndigenous books",
+          "body": "Magabala Books says at least 37 of its titles were used without permission to train Meta’s AI.",
+          "mini_headline": "Meta and Indigenous books",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://actualitte.com/uploads/images/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia-6b09528f152a8581745199.jpg"
+              },
+              {
+                "t": "p",
+                "x": "At least 37 books published by Magabala Books were allegedly used without permission by Meta to train its artificial intelligence (IA) systems. “First Nations creators should have the right to say no,” Lilly Brown, the publisher’s chief executive, said on 17 November 2026 before Albert Barume, the United Nations Special Rapporteur on the rights of Indigenous Peoples."
+              },
+              {
+                "t": "p",
+                "x": "Based in Broome, in north-western Australia, the publisher was alerted in March 2025 to the alleged use of several dozen titles from its catalogue, without the creators’ consent or payment. This is not a complaint before an international court but a contribution to the report due before the Human Rights Council in September 2027."
+              },
+              {
+                "t": "p",
+                "x": "Titles cited include Yorro Yorro: Everything Standing Up Alive, Jandamarra and the Bunuba Resistance and Black Cockatoo. For Magabala Books, copyright is not enough: some knowledge belongs to a collective heritage. Lilly Brown is calling for legislation protecting collective cultural and intellectual property from exploitation by technology companies, drawing on Article 31 of the United Nations Declaration. Meta apparently chose not to respond."
               }
             ]
           }
         },
         "ko": {
-          "headline": "계약 끊긴 소설 작가\nAI 집필 의혹 부인",
-          "body": "머튼스는 초고와 손글씨 메모, 자료 조사로 직접 썼음을 증명할 수 있다고 했다.",
-          "mini_headline": "작가, AI 집필 의혹 부인",
+          "headline": "Meta, 원주민 도서\n무단 사용 의혹",
+          "body": "Magabala Books는 Meta가 책 최소 37종을 무단 학습했다고 밝혔다.",
+          "mini_headline": "Meta와 원주민 도서",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
+                "src": "https://actualitte.com/uploads/images/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia-6b09528f152a8581745199.jpg"
               },
               {
                 "t": "p",
-                "x": "작가 캐스린 오코너 머튼스(Kathryn O’Connor Mertens)가 소설 『Wild Horse Country』를 인공지능(AI)으로 썼다는 의혹을 부인하는 성명을 냈다. 초고와 손글씨 메모, 자료 조사 기록이 있으니 직접 썼다는 걸 보여줄 수 있다고 했다."
+                "x": "Magabala Books가 펴낸 책 최소 37종이 Meta의 인공지능(IA) 시스템 학습에 무단으로 쓰였다는 의혹이 나왔다. 출판사 대표 Lilly Brown은 2026년 11월 17일 Albert Barume 유엔 원주민 권리 특별보고관 앞에서 “원주민(First Nations) 창작자에게는 거절할 권리가 있어야 한다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "성명은 그의 에이전트가 이 소설에서 손을 뗐다는 보도 뒤에 나왔다."
+                "x": "오스트레일리아 북서부 Broome의 이 출판사는 2025년 3월, 창작자 동의도 보상도 없이 자사 도서 수십 종이 쓰였을 수 있다는 통보를 받았다. 국제 재판소에 소송을 낸 것은 아니다. 2027년 9월 인권이사회에 제출될 보고서에 의견을 보탰을 뿐이다."
+              },
+              {
+                "t": "p",
+                "x": "거론된 책은 『Yorro Yorro: Everything Standing Up Alive』, 『Jandamarra and the Bunuba Resistance』, 『Black Cockatoo』 등이다. Magabala Books는 저작권만으로는 부족하고, 어떤 지식은 공동체의 유산에 속한다고 본다. Lilly Brown은 유엔 선언 제31조를 들어 기술 기업의 착취에서 집단의 문화적·지적 재산을 지킬 법을 만들라고 요구한다. Meta는 답하지 않은 것으로 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "作家がAI執筆疑惑を否定\n契約打ち切りの小説で",
-          "body": "マーテンズ氏は草稿や手書きメモ、調査資料で自ら書いたと証明できると述べた。",
-          "mini_headline": "作家がAI執筆疑惑を否定",
+          "headline": "Meta、先住民の本を\nAI学習に無断利用か",
+          "body": "Magabala Booksは37点以上がMetaのAI学習に無断使用されたと主張する。",
+          "mini_headline": "Metaと先住民の本",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
+                "src": "https://actualitte.com/uploads/images/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia-6b09528f152a8581745199.jpg"
               },
               {
                 "t": "p",
-                "x": "作家のキャスリン・オコナー・マーテンズ（Kathryn O’Connor Mertens）は、小説『Wild Horse Country』の執筆に人工知能（AI）を使ったとの疑惑を否定する声明を出した。草稿や手書きのメモ、調査資料があり、自分で書いたことを示せるとしている。"
+                "x": "Magabala Booksが刊行した少なくとも37点の書籍が、Metaの人工知能（IA）システムの学習に無断で利用されたとされる。同社の代表Lilly Brownは2026年11月17日、国連の先住民族の権利に関する特別報告者Albert Barumeを前に「First Nationsのクリエイターには、ノーと言う権利があるべきだ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "声明は、この小説がエージェントに契約を打ち切られたとの報道を受けたものだ。"
+                "x": "オーストラリア北西部のBroomeに拠点を置く同社は、2025年3月、創作者の同意も報酬もないまま刊行目録の数十点が使われた疑いがあると知らされていた。これは国際的な裁判機関への提訴ではなく、2027年9月に人権理事会に提出される予定の報告書への意見提出である。"
+              },
+              {
+                "t": "p",
+                "x": "挙げられた書名には『Yorro Yorro: Everything Standing Up Alive』『Jandamarra and the Bunuba Resistance』『Black Cockatoo』がある。Magabala Booksにとって著作権だけでは不十分であり、一部の知識は集団の遺産に属する。Lilly Brownは国連宣言の第31条を根拠に、テクノロジー企業による搾取から集団の文化的・知的財産を守る法整備を求めている。Metaは回答しなかったとみられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "作者否认用AI写成\n遭经纪人弃签的小说",
-          "body": "默滕斯表示，草稿、手写笔记和研究资料可证明这本书是她亲手所写。",
-          "mini_headline": "作者否认小说由AI写成",
+          "headline": "Meta被指擅用\n原住民图书",
+          "body": "Magabala Books称至少37种书未经授权被用于训练Meta的AI。",
+          "mini_headline": "Meta与原住民图书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
+                "src": "https://actualitte.com/uploads/images/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia-6b09528f152a8581745199.jpg"
               },
               {
                 "t": "p",
-                "x": "作家凯瑟琳·奥康纳·默滕斯（Kathryn O’Connor Mertens）发表声明，否认使用人工智能（AI）创作小说《Wild Horse Country》，并表示她有草稿、手写笔记和研究资料，可以证明这本书是她自己写的。"
+                "x": "Magabala Books出版的至少37部作品据称在未经授权的情况下被Meta用于训练其人工智能（IA）系统。该社总经理Lilly Brown于2026年11月17日在联合国土著人民权利问题特别报告员Albert Barume面前表示：“First Nations创作者应当有权说不。”"
               },
               {
                 "t": "p",
-                "x": "此前有报道称，她的经纪人已放弃这部小说。"
+                "x": "这家位于澳大利亚西北部Broome的出版社于2025年3月获悉，其书目中的数十种图书涉嫌在未经创作者同意、也未支付报酬的情况下被使用。这并非向国际司法机构提起的诉讼，而是为预计于2027年9月提交人权理事会的报告所作的意见。"
+              },
+              {
+                "t": "p",
+                "x": "被点名的书目包括《Yorro Yorro: Everything Standing Up Alive》《Jandamarra and the Bunuba Resistance》和《Black Cockatoo》。在Magabala Books看来，版权并不足够：某些知识属于集体遗产。Lilly Brown援引《联合国宣言》第31条，要求立法保护集体文化和知识产权，使其免遭科技企业的利用。Meta显然无意回应。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una autora niega haber usado IA\nen su novela descartada",
-          "body": "Kathryn O'Connor Mertens dice que borradores, notas a mano e investigación prueban su autoría de Wild Horse Country.",
-          "mini_headline": "Una autora niega una novela escrita con IA",
+          "headline": "Meta, acusada de usar\nlibros indígenas",
+          "body": "Magabala Books afirma que al menos 37 de sus títulos se usaron sin permiso para entrenar la IA de Meta.",
+          "mini_headline": "Meta y los libros indígenas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
+                "src": "https://actualitte.com/uploads/images/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia-6b09528f152a8581745199.jpg"
               },
               {
                 "t": "p",
-                "x": "La autora Kathryn O’Connor Mertens emitió un comunicado en el que niega las acusaciones de haber usado inteligencia artificial (IA) para escribir su novela Wild Horse Country, y asegura que tiene borradores, notas manuscritas e investigación que demuestran que escribió el libro ella misma."
+                "x": "Al menos 37 obras publicadas por Magabala Books habrían sido utilizadas sin autorización por Meta para entrenar sus sistemas de inteligencia artificial (IA). «Los creadores de las Primeras Naciones deberían tener derecho a decir que no», declaró el 17 de noviembre de 2026 Lilly Brown, directora general de la editorial, ante Albert Barume, relator especial de las Naciones Unidas sobre los derechos de los pueblos indígenas."
               },
               {
                 "t": "p",
-                "x": "El comunicado se produce tras informaciones según las cuales su agente abandonó la novela."
+                "x": "Con sede en Broome, en el noroeste de Australia, la editorial había sido alertada en marzo de 2025 del presunto uso de varias decenas de títulos de su catálogo, sin consentimiento de los creadores ni remuneración. No se trata de una demanda ante una jurisdicción internacional, sino de una contribución al informe previsto para septiembre de 2027 ante el Consejo de Derechos Humanos."
+              },
+              {
+                "t": "p",
+                "x": "Entre los títulos citados figuran Yorro Yorro: Everything Standing Up Alive, Jandamarra and the Bunuba Resistance y Black Cockatoo. Para Magabala Books, los derechos de autor no bastan: ciertos saberes forman parte de un patrimonio colectivo. Lilly Brown pide una legislación que proteja la propiedad cultural e intelectual colectiva frente a la explotación por parte de las empresas tecnológicas, apoyándose en el artículo 31 de la Declaración de las Naciones Unidas. Meta, al parecer, no quiso responder."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "작가, 계약 끊긴 소설\nAI 집필 의혹 부인",
-          "body": "머튼스는 초고·손글씨 메모·자료 조사로 직접 썼음을 증명할 수 있다고 했다.",
-          "mini_headline": "작가, AI 집필 의혹 부인",
+        "en": {
+          "headline": "Meta accused of using\nIndigenous books",
+          "body": "Magabala Books says at least 37 of its titles were used without permission to train Meta’s AI.",
+          "mini_headline": "Meta and Indigenous books",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
+                "src": "https://actualitte.com/uploads/images/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia-6b09528f152a8581745199.jpg"
               },
               {
                 "t": "p",
-                "x": "작가 캐스린 오코너 머튼스(Kathryn O’Connor Mertens)가 소설 『Wild Horse Country』를 인공지능(AI)으로 썼다는 의혹을 부인하는 성명을 냈다. 그는 초고와 손글씨 메모, 자료 조사 기록이 있어 책을 직접 썼다는 사실을 보여줄 수 있다고 밝혔다."
+                "x": "At least 37 books published by Magabala Books were allegedly used without permission by Meta to train its artificial intelligence (IA) systems. “First Nations creators should have the right to say no,” Lilly Brown, the publisher’s chief executive, said on 17 November 2026 before Albert Barume, the United Nations Special Rapporteur on the rights of Indigenous Peoples."
               },
               {
                 "t": "p",
-                "x": "이 성명은 그의 에이전트가 이 소설에서 손을 뗐다는 보도가 나온 뒤에 나왔다."
+                "x": "Based in Broome, in north-western Australia, the publisher was alerted in March 2025 to the alleged use of several dozen titles from its catalogue, without the creators’ consent or payment. This is not a complaint before an international court but a contribution to the report due before the Human Rights Council in September 2027."
+              },
+              {
+                "t": "p",
+                "x": "Titles cited include Yorro Yorro: Everything Standing Up Alive, Jandamarra and the Bunuba Resistance and Black Cockatoo. For Magabala Books, copyright is not enough: some knowledge belongs to a collective heritage. Lilly Brown is calling for legislation protecting collective cultural and intellectual property from exploitation by technology companies, drawing on Article 31 of the United Nations Declaration. Meta apparently chose not to respond."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Meta, 원주민 도서\n무단 사용 의혹",
+          "body": "Magabala Books는 Meta가 최소 37종을 무단 학습했다고 밝혔다.",
+          "mini_headline": "Meta와 원주민 도서",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://actualitte.com/uploads/images/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia-6b09528f152a8581745199.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Magabala Books가 펴낸 책 최소 37종이 Meta의 인공지능(IA) 시스템 학습에 무단으로 쓰였다는 의혹이 나왔다. 이 출판사의 대표 Lilly Brown은 2026년 11월 17일 Albert Barume 유엔 원주민 권리 특별보고관 앞에서 “원주민(First Nations) 창작자에게는 거절할 권리가 있어야 한다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "오스트레일리아 북서부 Broome에 자리한 이 출판사는 2025년 3월, 창작자의 동의도 보상도 없이 자사 도서 목록의 수십 종이 쓰였을 가능성을 통보받았다. 이는 국제 재판소에 낸 소송이 아니라, 2027년 9월 인권이사회에 제출될 보고서에 의견을 보탠 것이다."
+              },
+              {
+                "t": "p",
+                "x": "거론된 책으로는 『Yorro Yorro: Everything Standing Up Alive』, 『Jandamarra and the Bunuba Resistance』, 『Black Cockatoo』가 있다. Magabala Books는 저작권만으로는 부족하며, 어떤 지식은 공동체의 유산에 속한다고 본다. Lilly Brown은 유엔 선언 제31조를 근거로, 기술 기업의 착취로부터 집단의 문화적·지적 재산을 보호하는 법을 마련하라고 요구한다. Meta는 답변하지 않은 것으로 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "作家がAI執筆疑惑を否定\n契約打ち切りの小説で",
-          "body": "マーテンズ氏は草稿や手書きメモ、調査資料で自ら書いたと証明できると述べた。",
-          "mini_headline": "作家がAI執筆疑惑を否定",
+          "headline": "Meta、先住民の本を\nAI学習に無断利用か",
+          "body": "Magabala Booksは37点以上がMetaのAI学習に無断使用されたと主張する。",
+          "mini_headline": "Metaと先住民の本",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
+                "src": "https://actualitte.com/uploads/images/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia-6b09528f152a8581745199.jpg"
               },
               {
                 "t": "p",
-                "x": "作家のキャスリン・オコナー・マーテンズ（Kathryn O’Connor Mertens）は、小説『Wild Horse Country』の執筆に人工知能（AI）を使ったとの疑惑を否定する声明を出した。草稿や手書きのメモ、調査資料があり、自分で書いたことを示せるとしている。"
+                "x": "Magabala Booksが刊行した少なくとも37点の書籍が、Metaの人工知能（IA）システムの学習に無断で利用されたとされる。同社の代表Lilly Brownは2026年11月17日、国連の先住民族の権利に関する特別報告者Albert Barumeを前に「First Nationsのクリエイターには、ノーと言う権利があるべきだ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "声明は、この小説がエージェントに契約を打ち切られたとの報道を受けたものだ。"
+                "x": "オーストラリア北西部のBroomeに拠点を置く同社は、2025年3月、創作者の同意も報酬もないまま刊行目録の数十点が使われた疑いがあると知らされていた。これは国際的な裁判機関への提訴ではなく、2027年9月に人権理事会に提出される予定の報告書への意見提出である。"
+              },
+              {
+                "t": "p",
+                "x": "挙げられた書名には『Yorro Yorro: Everything Standing Up Alive』『Jandamarra and the Bunuba Resistance』『Black Cockatoo』がある。Magabala Booksにとって著作権だけでは不十分であり、一部の知識は集団の遺産に属する。Lilly Brownは国連宣言の第31条を根拠に、テクノロジー企業による搾取から集団の文化的・知的財産を守る法整備を求めている。Metaは回答しなかったとみられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "作者否认用AI写成\n遭经纪人弃签的小说",
-          "body": "默滕斯表示，草稿、手写笔记和研究资料可证明这本书是她亲手所写。",
-          "mini_headline": "作者否认小说由AI写成",
+          "headline": "Meta被指擅用\n原住民图书",
+          "body": "Magabala Books称至少37种书未经授权被用于训练Meta的AI。",
+          "mini_headline": "Meta与原住民图书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
+                "src": "https://actualitte.com/uploads/images/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia-6b09528f152a8581745199.jpg"
               },
               {
                 "t": "p",
-                "x": "作家凯瑟琳·奥康纳·默滕斯（Kathryn O’Connor Mertens）发表声明，否认使用人工智能（AI）创作小说《Wild Horse Country》，并表示她有草稿、手写笔记和研究资料，可以证明这本书是她自己写的。"
+                "x": "Magabala Books出版的至少37部作品据称在未经授权的情况下被Meta用于训练其人工智能（IA）系统。该社总经理Lilly Brown于2026年11月17日在联合国土著人民权利问题特别报告员Albert Barume面前表示：“First Nations创作者应当有权说不。”"
               },
               {
                 "t": "p",
-                "x": "此前有报道称，她的经纪人已放弃这部小说。"
+                "x": "这家位于澳大利亚西北部Broome的出版社于2025年3月获悉，其书目中的数十种图书涉嫌在未经创作者同意、也未支付报酬的情况下被使用。这并非向国际司法机构提起的诉讼，而是为预计于2027年9月提交人权理事会的报告所作的意见。"
+              },
+              {
+                "t": "p",
+                "x": "被点名的书目包括《Yorro Yorro: Everything Standing Up Alive》《Jandamarra and the Bunuba Resistance》和《Black Cockatoo》。在Magabala Books看来，版权并不足够：某些知识属于集体遗产。Lilly Brown援引《联合国宣言》第31条，要求立法保护集体文化和知识产权，使其免遭科技企业的利用。Meta显然无意回应。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una autora niega haber usado IA\nen su novela descartada",
-          "body": "Kathryn O'Connor Mertens dice que borradores, notas a mano e investigación prueban su autoría de Wild Horse Country.",
-          "mini_headline": "Una autora niega una novela escrita con IA",
+          "headline": "Meta, acusada de usar\nlibros indígenas",
+          "body": "Magabala Books afirma que al menos 37 de sus títulos se usaron sin permiso para entrenar la IA de Meta.",
+          "mini_headline": "Meta y los libros indígenas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/544/Open-book1.jpg"
+                "src": "https://actualitte.com/uploads/images/meta-accuse-d-avoir-utilise-des-dizaines-de-livres-autochtones-pour-entrainer-son-ia-6b09528f152a8581745199.jpg"
               },
               {
                 "t": "p",
-                "x": "La autora Kathryn O’Connor Mertens emitió un comunicado en el que niega las acusaciones de haber usado inteligencia artificial (IA) para escribir su novela Wild Horse Country, y asegura que tiene borradores, notas manuscritas e investigación que demuestran que escribió el libro ella misma."
+                "x": "Al menos 37 obras publicadas por Magabala Books habrían sido utilizadas sin autorización por Meta para entrenar sus sistemas de inteligencia artificial (IA). «Los creadores de las Primeras Naciones deberían tener derecho a decir que no», declaró el 17 de noviembre de 2026 Lilly Brown, directora general de la editorial, ante Albert Barume, relator especial de las Naciones Unidas sobre los derechos de los pueblos indígenas."
               },
               {
                 "t": "p",
-                "x": "El comunicado se produce tras informaciones según las cuales su agente abandonó la novela."
+                "x": "Con sede en Broome, en el noroeste de Australia, la editorial había sido alertada en marzo de 2025 del presunto uso de varias decenas de títulos de su catálogo, sin consentimiento de los creadores ni remuneración. No se trata de una demanda ante una jurisdicción internacional, sino de una contribución al informe previsto para septiembre de 2027 ante el Consejo de Derechos Humanos."
+              },
+              {
+                "t": "p",
+                "x": "Entre los títulos citados figuran Yorro Yorro: Everything Standing Up Alive, Jandamarra and the Bunuba Resistance y Black Cockatoo. Para Magabala Books, los derechos de autor no bastan: ciertos saberes forman parte de un patrimonio colectivo. Lilly Brown pide una legislación que proteja la propiedad cultural e intelectual colectiva frente a la explotación por parte de las empresas tecnológicas, apoyándose en el artículo 31 de la Declaración de las Naciones Unidas. Meta, al parecer, no quiso responder."
               }
             ]
           }
@@ -597,15 +530,15 @@
       }
     },
     {
-      "id": "belgium-sans-ia-label",
-      "source_lang": "fr",
+      "id": "books-narayan-hay-keynote",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "벨기에 출판사들 추진\n“sans IA” 라벨",
-      "body": "벨기에 출판사들이 ‘sans IA’ 라벨과 자국 도서 가격 조정을 함께 검토한다.",
-      "mini_headline": "벨기에의 ‘sans IA’ 라벨",
+      "headline": "영국 AI 장관이\n겨울 헤이 페스티벌 열다",
+      "body": "Narayan 장관은 11월 26일 기조연설에서 정부의 AI 접근법을 설명했다.",
+      "mini_headline": "Hay Festival의 AI 장관",
       "tool": "Books",
-      "source": "RTL Info",
-      "url": "https://www.rtl.be/actu/les-editeurs-belges-veulent-un-label-sans-ia-pour-rassurer-les-lecteurs/2026-11-26/article/807924",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/minister-for-ai-opens-winter-hay-festival-with-keynote-on-governments-approach",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -613,204 +546,413 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/688/qwe7.jpg",
+            "cap": "Kanishka Narayan"
           },
           {
             "t": "p",
-            "x": "벨기에 출판사들이 인증 라벨과 벨기에 출간 도서의 가격 조정을 검토하고 있다. 책의 질을 지키고 AI(IA)를 더 잘 관리하려는 취지다."
-          },
-          {
-            "t": "p",
-            "x": "프랑스어권 출판사들은 업계의 인공지능(IA) 도구 사용이 낳을 위험을 걱정한다. 그래서 독자가 읽는 책이 사람의 전문적인 작업에서 나왔다고 보장하는 라벨을 만들고 싶어 한다."
-          },
-          {
-            "t": "p",
-            "x": "벨기에출판인협회(ADEB)가 특히 걱정하는 건 저자가 AI로 출판사를 거치지 않고 책을 내는 자가출판이다. 협회 관계자들은 목요일 브뤼셀에서 전문 출판사가 보태는 가치를 강조했다. 글쓰기(맞춤법, 서사의 일관성 등)부터 책의 외관, 가격, 유통망 접근, 법적 보호까지다."
-          },
-          {
-            "t": "p",
-            "x": "ADEB는 회원사들에 PILEn이 발표한 ‘도서 분야의 책임 있는 AI 이용을 위한 헌장’을 지키라고 권한다. 출판사들도 ‘sans IA’ 라벨이 쉽지 않다는 걸 안다. 라벨을 받으면서 지게 되는 의무를 지켰는지 확인하기가 특히 까다롭다. 협회가 펴낸 연구는 회원사들의 판매가 책정도 도울 예정이다. 판매가는 흔히 그보다 낮은 프랑스 출간 도서 가격에 맞춰 정해진다."
+            "x": "정부 인공지능(AI) 담당 장관 Kanishka Narayan이 2026년 11월 26일 목요일 Hay Festival 겨울 주말(Winter Weekend) 개막 기조연설에 나서 AI를 바라보는 자신의 접근법과 지금의 생각을 밝혔다."
           }
         ]
       },
       "text": {
-        "_src": {
-          "headline": "Les éditeurs belges veulent\nun label « sans IA »",
-          "body": "Les éditeurs belges envisagent un label « sans IA » et un ajustement du prix des livres publiés en Belgique.",
-          "mini_headline": "Un label « sans IA » en Belgique",
+        "en": {
+          "headline": "UK AI minister opens\nWinter Hay Festival",
+          "body": "Kanishka Narayan used his keynote on 26 November to set out the government’s current approach to AI.",
+          "mini_headline": "AI minister at Hay Festival",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/688/qwe7.jpg",
+                "cap": "Kanishka Narayan"
               },
               {
                 "t": "p",
-                "x": "Pour protéger la qualité des livres et mieux encadrer l’IA, les éditeurs belges réfléchissent à un label de certification et à un ajustement du prix des ouvrages publiés en Belgique."
+                "x": "The government’s Minister for Artificial Intelligence (AI) Kanishka Narayan laid out his approach and current perspective on AI in his keynote speech, opening Hay Festival’s Winter Weekend on Thursday 26th November 2026."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "영국 AI 장관이\n겨울 헤이 페스티벌 열다",
+          "body": "Narayan 장관은 11월 26일 기조연설에서 정부의 AI 접근법을 설명했다.",
+          "mini_headline": "Hay Festival의 AI 장관",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/688/qwe7.jpg",
+                "cap": "Kanishka Narayan"
               },
               {
                 "t": "p",
-                "x": "Préoccupés par les dangers de l’utilisation des instruments d’intelligence artificielle (IA) dans leur secteur, les éditeurs francophones souhaitent la création d’un label qui permettrait de garantir au lecteur que l’ouvrage qu’il lit résulte bien d’un travail professionnel effectué par un être humain."
+                "x": "정부 인공지능(AI) 담당 장관 Kanishka Narayan이 2026년 11월 26일 목요일 Hay Festival 겨울 주말(Winter Weekend) 개막 기조연설에 나서 AI를 바라보는 자신의 접근법과 지금의 생각을 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "英国のAI担当相が冬の\nヘイ・フェスティバル開幕",
+          "body": "Narayan氏は11月26日の基調講演で、政府の現在のAI方針を示した。",
+          "mini_headline": "Hay FestivalのAI担当相",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/688/qwe7.jpg",
+                "cap": "Kanishka Narayan"
               },
               {
                 "t": "p",
-                "x": "L’Association des éditeurs belges (ADEB) est particulièrement préoccupée par le phénomène de l’autopublication, qui permet à des auteurs, grâce à l’IA, de publier sans faire appel à un éditeur. Ses responsables ont insisté jeudi à Bruxelles sur la valeur ajoutée des éditeurs professionnels, de l’écriture (orthographe, cohérence du récit...) à l’aspect du livre, son prix, son accès aux circuits commerciaux et sa protection juridique."
+                "x": "政府の人工知能（AI）担当大臣Kanishka Narayanは2026年11月26日（木）、Hay FestivalのWinter Weekendの開幕を飾る基調講演で、AIに対する自らのアプローチと現在の見方を示した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "英国AI大臣揭幕\n冬季海伊文学节",
+          "body": "Kanishka Narayan在11月26日的主旨演讲中阐述了政府当前的AI思路。",
+          "mini_headline": "AI大臣亮相Hay Festival",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/688/qwe7.jpg",
+                "cap": "Kanishka Narayan"
               },
               {
                 "t": "p",
-                "x": "L’ADEB engage ses membres à respecter la Charte pour une utilisation responsable de l’IA dans le secteur du livre, publiée par le PILEn. Les éditeurs n’ignorent toutefois pas les difficultés d’un label «sans IA», surtout en matière de contrôle des obligations liées à son obtention. Une étude publiée par l’association doit aussi aider ses membres à établir le prix de vente, souvent calqué sur celui, moins élevé, des ouvrages publiés en France."
+                "x": "政府人工智能（AI）大臣Kanishka Narayan于2026年11月26日（星期四）发表主旨演讲，为Hay Festival冬季周末（Winter Weekend）揭幕，阐述了他对AI的思路和当前看法。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El ministro británico de IA\nabre el Hay Festival de invierno",
+          "body": "Kanishka Narayan usó su discurso del 26 de noviembre para exponer el enfoque actual del Gobierno sobre la IA.",
+          "mini_headline": "El ministro de IA en el Hay Festival",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/688/qwe7.jpg",
+                "cap": "Kanishka Narayan"
+              },
+              {
+                "t": "p",
+                "x": "El ministro de Inteligencia Artificial (IA) del Gobierno, Kanishka Narayan, expuso su enfoque y su visión actual sobre la IA en su discurso principal, con el que inauguró el Winter Weekend del Hay Festival el jueves 26 de noviembre de 2026."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "영국 AI 장관이\n겨울 헤이 페스티벌 열다",
+          "body": "Narayan 장관은 11월 26일 기조연설에서 정부의 AI 접근법을 밝혔다.",
+          "mini_headline": "Hay Festival의 AI 장관",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/688/qwe7.jpg",
+                "cap": "Kanishka Narayan"
+              },
+              {
+                "t": "p",
+                "x": "정부의 인공지능(AI) 담당 장관 Kanishka Narayan은 2026년 11월 26일 목요일 Hay Festival 겨울 주말(Winter Weekend)을 여는 기조연설에서 AI에 대한 자신의 접근법과 현재 관점을 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "英国のAI担当相が冬の\nヘイ・フェスティバル開幕",
+          "body": "Narayan氏は11月26日の基調講演で、政府の現在のAI方針を示した。",
+          "mini_headline": "Hay FestivalのAI担当相",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/688/qwe7.jpg",
+                "cap": "Kanishka Narayan"
+              },
+              {
+                "t": "p",
+                "x": "政府の人工知能（AI）担当大臣Kanishka Narayanは2026年11月26日（木）、Hay FestivalのWinter Weekendの開幕を飾る基調講演で、AIに対する自らのアプローチと現在の見方を示した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "英国AI大臣揭幕\n冬季海伊文学节",
+          "body": "Kanishka Narayan在11月26日的主旨演讲中阐述了政府当前的AI思路。",
+          "mini_headline": "AI大臣亮相Hay Festival",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/688/qwe7.jpg",
+                "cap": "Kanishka Narayan"
+              },
+              {
+                "t": "p",
+                "x": "政府人工智能（AI）大臣Kanishka Narayan于2026年11月26日（星期四）发表主旨演讲，为Hay Festival冬季周末（Winter Weekend）揭幕，阐述了他对AI的思路和当前看法。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El ministro británico de IA\nabre el Hay Festival de invierno",
+          "body": "Kanishka Narayan usó su discurso del 26 de noviembre para exponer el enfoque actual del Gobierno sobre la IA.",
+          "mini_headline": "El ministro de IA en el Hay Festival",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/688/qwe7.jpg",
+                "cap": "Kanishka Narayan"
+              },
+              {
+                "t": "p",
+                "x": "El ministro de Inteligencia Artificial (IA) del Gobierno, Kanishka Narayan, expuso su enfoque y su visión actual sobre la IA en su discurso principal, con el que inauguró el Winter Weekend del Hay Festival el jueves 26 de noviembre de 2026."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "books-vulcain-manuscript-pause",
+      "source_lang": "fr",
+      "eyebrow": "AI NEWS",
+      "headline": "Vulcain 출판사,\n원고 투고 문 닫다",
+      "body": "원고 2500편과 AI 글에 밀려 12월 1일부터 넉 달간 투고를 받지 않는다.",
+      "mini_headline": "Vulcain, 원고 투고 중단",
+      "tool": "Books",
+      "source": "ActuaLitté",
+      "url": "https://actualitte.com/article/135349/edition/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://actualitte.com/uploads/images/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur-6b04401d11d52457974346.jpg",
+            "cap": "Aux forges de Vulcain 출판사 설립자 David Meulemans"
+          },
+          {
+            "t": "p",
+            "x": "대기 원고 2500편, 매주 새로 들어오는 80편, 여기에 더미를 키우는 인공지능 생성 글까지. Aux Forges de Vulcain의 투고함은 넘쳐난다. David Meulemans가 내린 결론은 12월 1일부터 넉 달 동안 원고를 받지 않는 것이다. 그는 ActuaLitté에 “우리는 인쇄소가 아니다”라고 짧게 말했다."
+          },
+          {
+            "t": "p",
+            "x": "해마다 소설 14편을 내는 이 출판사는 첫해 투고가 70편이었지만 15년째에는 6000편에 이르렀다. “그중 90%는 소설조차 아니라는 걸 안다. 그러면 검토할 원고가 250편 남는데, 우리는 네 명이다.”"
+          },
+          {
+            "t": "p",
+            "x": "생성형 AI(IA)가 만든 글이 유일한 이유는 아니지만 결정을 앞당긴 건 분명하다. “AI 원고는 분량을 조금 늘리는 데 그치지 않는다. 어쨌든 조금 무시당하는 기분이 드는 짜증도 있다.” 그는 특유의 글버릇과 “평균화하는 글쓰기”로 이런 원고를 가려낸다."
+          },
+          {
+            "t": "p",
+            "x": "12월 1일 전에 받은 원고는 검토한다. 중단 기간에 보낸 원고에는 자동 응답 메시지가 나간다. 투고는 2027년 4월 1일 다시 열려 한 달간 이어진다. “정말 시험이고 실험이다. 지켜보겠다.”"
+          }
+        ]
+      },
+      "text": {
+        "_src": {
+          "headline": "Aux Forges de Vulcain ferme\nla porte aux manuscrits",
+          "body": "Débordé par 2500 manuscrits, dont des textes d’IA, l’éditeur suspend les envois quatre mois dès le 1er décembre.",
+          "mini_headline": "Vulcain suspend les manuscrits",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://actualitte.com/uploads/images/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur-6b04401d11d52457974346.jpg",
+                "cap": "David Meulemans, fondateur des éditions Aux forges de Vulcain"
+              },
+              {
+                "t": "p",
+                "x": "2500 manuscrits en attente, 80 nouveaux chaque semaine, et des textes générés par intelligence artificielle qui viennent grossir la pile. Aux Forges de Vulcain, la boîte déborde. David Meulemans a donc tranché : à partir du 1er décembre, les manuscrits ne seront plus acceptés pendant quatre mois. « On n'est pas des imprimeurs », résume-t-il auprès d'ActuaLitté."
+              },
+              {
+                "t": "p",
+                "x": "La maison, qui publie 14 romans par an, a reçu 70 propositions sa première année, contre 6000 la 15e. « On sait qu'il y en a 90 %, c'est même pas du roman. Donc il va nous rester 250 à étudier, on est quatre. »"
+              },
+              {
+                "t": "p",
+                "x": "Les textes produits par IA générative ne sont pas la seule explication, mais ont précipité la décision. « Les manuscrits IA, ce n'est pas juste qu'ils rajoutent un petit peu de volume. C'est aussi l'irritation de se sentir un peu méprisé, quand même. » Il les reconnaît à des tics d'écriture et une « écriture moyennisante »."
+              },
+              {
+                "t": "p",
+                "x": "Les manuscrits reçus avant le 1er décembre seront examinés ; ceux envoyés pendant la fermeture déclencheront un message automatique. La réception rouvrira le 1er avril 2027, pour une durée d'un mois. « C'est vraiment un test, c'est une expérience et on va voir. »"
               }
             ]
           },
           "lang": "fr"
         },
         "en": {
-          "headline": "Belgian publishers want\na \"sans IA\" label",
-          "body": "Belgian publishers are considering a \"sans IA\" (AI-free) label and a price adjustment for books published in Belgium.",
-          "mini_headline": "A \"sans IA\" label in Belgium",
+          "headline": "Aux Forges de Vulcain closes\nits doors to manuscripts",
+          "body": "Swamped by 2500 manuscripts, including AI texts, the publisher pauses submissions for four months from 1 December.",
+          "mini_headline": "Vulcain pauses manuscripts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
+                "src": "https://actualitte.com/uploads/images/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur-6b04401d11d52457974346.jpg",
+                "cap": "David Meulemans, founder of Aux forges de Vulcain"
               },
               {
                 "t": "p",
-                "x": "To protect the quality of books and better regulate AI (IA), Belgian publishers are considering a certification label and an adjustment to the price of books published in Belgium."
+                "x": "2500 manuscripts waiting, 80 new ones every week, and texts generated by artificial intelligence swelling the pile. At Aux Forges de Vulcain, the inbox is overflowing. So David Meulemans has made his decision: from 1 December, manuscripts will no longer be accepted for four months. “We’re not printers,” he told ActuaLitté."
               },
               {
                 "t": "p",
-                "x": "Concerned about the dangers of using artificial intelligence (IA) tools in their sector, French-speaking publishers want a label to be created that would guarantee readers that the book they are reading is indeed the result of professional work carried out by a human being."
+                "x": "The house, which publishes 14 novels a year, received 70 submissions in its first year, compared with 6000 in its 15th. “We know that 90% of them aren’t even novels. So that leaves us 250 to look at, and there are four of us.”"
               },
               {
                 "t": "p",
-                "x": "The Association of Belgian Publishers (ADEB) is particularly concerned about self-publishing, which allows authors, thanks to AI, to publish without going through a publisher. On Thursday in Brussels, its leaders stressed the added value of professional publishers, from the writing (spelling, consistency of the story...) to the look of the book, its price, its access to commercial channels and its legal protection."
+                "x": "Texts produced by generative AI (IA) are not the only explanation, but they were the immediate trigger for the decision. “AI manuscripts don’t just add a little volume. There’s also the irritation of feeling a bit looked down on, all the same.” He recognises them by writing tics and an “averaging style of writing”."
               },
               {
                 "t": "p",
-                "x": "ADEB urges its members to follow the Charter for the responsible use of AI in the book sector, published by PILEn. Publishers are nonetheless aware of the difficulties of a \"sans IA\" label, especially in checking the obligations tied to obtaining it. A study published by the association should also help its members set retail prices, which are often modeled on the lower prices of books published in France."
+                "x": "Manuscripts received before 1 December will be reviewed; those sent during the closure will trigger an automatic message. Submissions will reopen on 1 April 2027, for one month. “It’s really a test, it’s an experiment and we’ll see.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "벨기에 출판사들 추진\n“sans IA” 라벨",
-          "body": "벨기에 출판사들이 ‘sans IA’ 라벨과 자국 도서 가격 조정을 함께 검토한다.",
-          "mini_headline": "벨기에의 ‘sans IA’ 라벨",
+          "headline": "Vulcain 출판사,\n원고 투고 문 닫다",
+          "body": "원고 2500편과 AI 글에 밀려 12월 1일부터 넉 달간 투고를 받지 않는다.",
+          "mini_headline": "Vulcain, 원고 투고 중단",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
+                "src": "https://actualitte.com/uploads/images/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur-6b04401d11d52457974346.jpg",
+                "cap": "Aux forges de Vulcain 출판사 설립자 David Meulemans"
               },
               {
                 "t": "p",
-                "x": "벨기에 출판사들이 인증 라벨과 벨기에 출간 도서의 가격 조정을 검토하고 있다. 책의 질을 지키고 AI(IA)를 더 잘 관리하려는 취지다."
+                "x": "대기 원고 2500편, 매주 새로 들어오는 80편, 여기에 더미를 키우는 인공지능 생성 글까지. Aux Forges de Vulcain의 투고함은 넘쳐난다. David Meulemans가 내린 결론은 12월 1일부터 넉 달 동안 원고를 받지 않는 것이다. 그는 ActuaLitté에 “우리는 인쇄소가 아니다”라고 짧게 말했다."
               },
               {
                 "t": "p",
-                "x": "프랑스어권 출판사들은 업계의 인공지능(IA) 도구 사용이 낳을 위험을 걱정한다. 그래서 독자가 읽는 책이 사람의 전문적인 작업에서 나왔다고 보장하는 라벨을 만들고 싶어 한다."
+                "x": "해마다 소설 14편을 내는 이 출판사는 첫해 투고가 70편이었지만 15년째에는 6000편에 이르렀다. “그중 90%는 소설조차 아니라는 걸 안다. 그러면 검토할 원고가 250편 남는데, 우리는 네 명이다.”"
               },
               {
                 "t": "p",
-                "x": "벨기에출판인협회(ADEB)가 특히 걱정하는 건 저자가 AI로 출판사를 거치지 않고 책을 내는 자가출판이다. 협회 관계자들은 목요일 브뤼셀에서 전문 출판사가 보태는 가치를 강조했다. 글쓰기(맞춤법, 서사의 일관성 등)부터 책의 외관, 가격, 유통망 접근, 법적 보호까지다."
+                "x": "생성형 AI(IA)가 만든 글이 유일한 이유는 아니지만 결정을 앞당긴 건 분명하다. “AI 원고는 분량을 조금 늘리는 데 그치지 않는다. 어쨌든 조금 무시당하는 기분이 드는 짜증도 있다.” 그는 특유의 글버릇과 “평균화하는 글쓰기”로 이런 원고를 가려낸다."
               },
               {
                 "t": "p",
-                "x": "ADEB는 회원사들에 PILEn이 발표한 ‘도서 분야의 책임 있는 AI 이용을 위한 헌장’을 지키라고 권한다. 출판사들도 ‘sans IA’ 라벨이 쉽지 않다는 걸 안다. 라벨을 받으면서 지게 되는 의무를 지켰는지 확인하기가 특히 까다롭다. 협회가 펴낸 연구는 회원사들의 판매가 책정도 도울 예정이다. 판매가는 흔히 그보다 낮은 프랑스 출간 도서 가격에 맞춰 정해진다."
+                "x": "12월 1일 전에 받은 원고는 검토한다. 중단 기간에 보낸 원고에는 자동 응답 메시지가 나간다. 투고는 2027년 4월 1일 다시 열려 한 달간 이어진다. “정말 시험이고 실험이다. 지켜보겠다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ベルギー出版界が\n「sans IA」ラベル検討",
-          "body": "ベルギーの出版社が「sans IA」ラベルと国内刊行本の価格調整を検討している。",
-          "mini_headline": "ベルギーで「sans IA」ラベル",
+          "headline": "仏出版社Vulcain、\n原稿受付を停止",
+          "body": "AI生成文を含む2500点の原稿を抱え、同社は12月1日から4カ月投稿を止める。",
+          "mini_headline": "Vulcain、原稿受付を停止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
+                "src": "https://actualitte.com/uploads/images/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur-6b04401d11d52457974346.jpg",
+                "cap": "Aux forges de Vulcain創業者のDavid Meulemans"
               },
               {
                 "t": "p",
-                "x": "本の質を守り、AI（IA）をより適切に管理するため、ベルギーの出版社は認証ラベルと、ベルギーで刊行される本の価格調整を検討している。"
+                "x": "未読の原稿が2500点、毎週80点の新着、さらに人工知能が生成した文章が山を膨らませる。Aux Forges de Vulcainでは受付箱があふれている。そこでDavid Meulemansは決断した。12月1日から4カ月間、原稿を受け付けない。「我々は印刷屋ではない」と彼はActuaLittéに語った。"
               },
               {
                 "t": "p",
-                "x": "業界で人工知能（IA）ツールを使うことの危険を懸念するフランス語圏の出版社は、読者が読んでいる本が人間による専門的な仕事の成果であることを保証するラベルの創設を望んでいる。"
+                "x": "年に14点の小説を刊行する同社は、初年度に70点の投稿を受けたが、15年目には6000点に達した。「その90%は小説ですらないとわかっている。だから検討するのは250点だが、こちらは4人だ」"
               },
               {
                 "t": "p",
-                "x": "ベルギー出版社協会（ADEB）は、AIを使えば著者が出版社を通さずに本を出せる自費出版の広がりを特に懸念している。協会の幹部は木曜日、ブリュッセルで、執筆（綴り、物語の一貫性など）から本の体裁、価格、流通網へのアクセス、法的保護に至るまで、プロの出版社がもたらす付加価値を強調した。"
+                "x": "生成AI（IA）による文章だけが理由ではないが、決断を早めた。「AI原稿は、量を少し増やすだけではない。やはり少し見下されているように感じる苛立ちもある」。彼は書き癖と「平均化する文章」でそれを見分けるという。"
               },
               {
                 "t": "p",
-                "x": "ADEBは会員に対し、PILEnが公表した「書籍分野におけるAIの責任ある利用のための憲章」を守るよう求めている。ただし出版社側も、「sans IA」ラベルの難しさ、とりわけ取得に伴う義務を確認することの難しさを承知している。協会が公表した調査は、会員が販売価格を決める助けにもなる見込みだ。販売価格は、より安いフランスで刊行された本の価格に合わせられることが多い。"
+                "x": "12月1日より前に届いた原稿は検討される。休止期間中に送られた原稿には自動メッセージが返される。受付は2027年4月1日に再開し、期間は1カ月だ。「本当にテストであり、実験だ。様子を見る」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "比利时出版商希望推出\n“sans IA”标签",
-          "body": "比利时出版商正考虑推出“sans IA”标签，并调整本国出版图书的价格。",
-          "mini_headline": "比利时拟推“sans IA”标签",
+          "headline": "Vulcain出版社\n暂停接收投稿",
+          "body": "积压2500部稿件，其中包括AI文本，该社自12月1日起暂停投稿四个月。",
+          "mini_headline": "Vulcain暂停接收稿件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
+                "src": "https://actualitte.com/uploads/images/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur-6b04401d11d52457974346.jpg",
+                "cap": "Aux forges de Vulcain出版社创始人David Meulemans"
               },
               {
                 "t": "p",
-                "x": "为保护图书质量并更好地规范AI（IA），比利时出版商正在考虑推出一种认证标签，并调整在比利时出版的图书价格。"
+                "x": "2500部稿件待审，每周新增80部，还有人工智能生成的文本不断加高这堆稿件。在Aux Forges de Vulcain，投稿箱已经满溢。于是David Meulemans作出决定：自12月1日起，四个月内不再接收稿件。“我们不是印刷厂。”他对ActuaLitté这样总结。"
               },
               {
                 "t": "p",
-                "x": "法语区出版商担忧在本行业使用人工智能（IA）工具的风险，希望设立一种标签，向读者保证他们所读的书确实出自人类完成的专业工作。"
+                "x": "这家每年出版14部小说的出版社，第一年收到70份投稿，第15年则收到6000份。“我们知道其中90%甚至算不上小说。这样还剩250部要审，而我们只有四个人。”"
               },
               {
                 "t": "p",
-                "x": "比利时出版商协会（ADEB）尤其担忧自助出版现象：借助AI，作者无需出版商即可出书。协会负责人周四在布鲁塞尔强调了专业出版商的附加价值，涵盖从写作（拼写、叙事连贯性……）到图书外观、价格、进入商业渠道以及法律保护等方面。"
+                "x": "生成式AI（IA）产出的文本并非唯一原因，却促成了这一决定。“AI稿件不只是多添了一点数量，还让人恼火，觉得自己多少被轻视了。”他能凭写作上的惯性和一种“趋于平庸的写法”认出这些稿件。"
               },
               {
                 "t": "p",
-                "x": "ADEB敦促会员遵守PILEn发布的《图书行业负责任使用AI宪章》。不过，出版商也清楚“sans IA”标签面临的困难，尤其是在核查获得该标签所需履行的义务方面。该协会发布的一项研究还将帮助会员确定售价，而售价往往参照价格较低的法国出版图书。"
+                "x": "12月1日前收到的稿件将得到审阅；暂停期间寄来的稿件会触发自动回复。投稿通道将于2027年4月1日重新开放，为期一个月。“这真的是一次测试，一次实验，我们看看结果。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los editores belgas quieren\nun sello «sin IA»",
-          "body": "Los editores belgas estudian un sello «sin IA» y un ajuste del precio de los libros publicados en Bélgica.",
-          "mini_headline": "Un sello «sin IA» en Bélgica",
+          "headline": "Aux Forges de Vulcain cierra\nla puerta a los manuscritos",
+          "body": "Desbordada por 2500 manuscritos, algunos de IA, la editorial suspende los envíos cuatro meses desde el 1 de diciembre.",
+          "mini_headline": "Vulcain suspende los manuscritos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
+                "src": "https://actualitte.com/uploads/images/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur-6b04401d11d52457974346.jpg",
+                "cap": "David Meulemans, fundador de la editorial Aux forges de Vulcain"
               },
               {
                 "t": "p",
-                "x": "Para proteger la calidad de los libros y regular mejor la IA, los editores belgas estudian un sello de certificación y un ajuste del precio de las obras publicadas en Bélgica."
+                "x": "2500 manuscritos en espera, 80 nuevos cada semana y textos generados por inteligencia artificial que vienen a engordar la pila. En Aux Forges de Vulcain, el buzón se desborda. Por eso David Meulemans ha tomado una decisión: a partir del 1 de diciembre, no se aceptarán manuscritos durante cuatro meses. «No somos impresores», resume ante ActuaLitté."
               },
               {
                 "t": "p",
-                "x": "Preocupados por los peligros del uso de herramientas de inteligencia artificial (IA) en su sector, los editores francófonos desean la creación de un sello que garantice al lector que la obra que lee es realmente fruto de un trabajo profesional realizado por un ser humano."
+                "x": "La editorial, que publica 14 novelas al año, recibió 70 propuestas en su primer año, frente a 6000 en el decimoquinto. «Sabemos que el 90 % ni siquiera son novelas. Así que nos quedarán 250 por estudiar, y somos cuatro»."
               },
               {
                 "t": "p",
-                "x": "La Asociación de Editores Belgas (ADEB) está especialmente preocupada por el fenómeno de la autoedición, que permite a los autores, gracias a la IA, publicar sin recurrir a un editor. Sus responsables insistieron el jueves en Bruselas en el valor añadido de los editores profesionales, desde la escritura (ortografía, coherencia del relato...) hasta el aspecto del libro, su precio, su acceso a los circuitos comerciales y su protección jurídica."
+                "x": "Los textos producidos por IA generativa no son la única explicación, pero precipitaron la decisión. «Los manuscritos de IA no solo añaden un poco de volumen. También está la irritación de sentirse un poco despreciado, la verdad». Los reconoce por tics de escritura y una «escritura que tiende a la media»."
               },
               {
                 "t": "p",
-                "x": "La ADEB insta a sus miembros a respetar la Carta para un uso responsable de la IA en el sector del libro, publicada por el PILEn. Sin embargo, los editores no ignoran las dificultades de un sello «sin IA», sobre todo en el control de las obligaciones ligadas a su obtención. Un estudio publicado por la asociación también debe ayudar a sus miembros a fijar el precio de venta, a menudo calcado del de las obras publicadas en Francia, más bajo."
+                "x": "Los manuscritos recibidos antes del 1 de diciembre serán examinados; los enviados durante el cierre activarán un mensaje automático. La recepción reabrirá el 1 de abril de 2027, durante un mes. «Es realmente una prueba, es un experimento y ya veremos»."
               }
             ]
           }
@@ -818,151 +960,156 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Belgian publishers want\na \"sans IA\" label",
-          "body": "Belgian publishers are considering a \"sans IA\" (AI-free) label and a price adjustment for books published in Belgium.",
-          "mini_headline": "A \"sans IA\" label in Belgium",
+          "headline": "Aux Forges de Vulcain closes\nits doors to manuscripts",
+          "body": "Swamped by 2500 manuscripts, including AI texts, the publisher pauses submissions for four months from 1 December.",
+          "mini_headline": "Vulcain pauses manuscripts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
+                "src": "https://actualitte.com/uploads/images/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur-6b04401d11d52457974346.jpg",
+                "cap": "David Meulemans, founder of Aux forges de Vulcain"
               },
               {
                 "t": "p",
-                "x": "To protect the quality of books and better regulate AI (IA), Belgian publishers are considering a certification label and an adjustment to the price of books published in Belgium."
+                "x": "2500 manuscripts waiting, 80 new ones every week, and texts generated by artificial intelligence swelling the pile. At Aux Forges de Vulcain, the inbox is overflowing. So David Meulemans has made his decision: from 1 December, manuscripts will no longer be accepted for four months. “We’re not printers,” he told ActuaLitté."
               },
               {
                 "t": "p",
-                "x": "Concerned about the dangers of using artificial intelligence (IA) tools in their sector, French-speaking publishers want a label to be created that would guarantee readers that the book they are reading is indeed the result of professional work carried out by a human being."
+                "x": "The house, which publishes 14 novels a year, received 70 submissions in its first year, compared with 6000 in its 15th. “We know that 90% of them aren’t even novels. So that leaves us 250 to look at, and there are four of us.”"
               },
               {
                 "t": "p",
-                "x": "The Association of Belgian Publishers (ADEB) is particularly concerned about self-publishing, which allows authors, thanks to AI, to publish without going through a publisher. On Thursday in Brussels, its leaders stressed the added value of professional publishers, from the writing (spelling, consistency of the story...) to the look of the book, its price, its access to commercial channels and its legal protection."
+                "x": "Texts produced by generative AI (IA) are not the only explanation, but they were the immediate trigger for the decision. “AI manuscripts don’t just add a little volume. There’s also the irritation of feeling a bit looked down on, all the same.” He recognises them by writing tics and an “averaging style of writing”."
               },
               {
                 "t": "p",
-                "x": "ADEB urges its members to follow the Charter for the responsible use of AI in the book sector, published by PILEn. Publishers are nonetheless aware of the difficulties of a \"sans IA\" label, especially in checking the obligations tied to obtaining it. A study published by the association should also help its members set retail prices, which are often modeled on the lower prices of books published in France."
+                "x": "Manuscripts received before 1 December will be reviewed; those sent during the closure will trigger an automatic message. Submissions will reopen on 1 April 2027, for one month. “It’s really a test, it’s an experiment and we’ll see.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "벨기에 출판사들 추진\n“sans IA” 라벨",
-          "body": "벨기에 출판사들이 ‘sans IA’ 라벨과 자국 도서 가격 조정을 검토한다.",
-          "mini_headline": "벨기에의 ‘sans IA’ 라벨",
+          "headline": "Vulcain 출판사,\n원고 투고 문 닫다",
+          "body": "출판사는 원고 2500편과 AI 글에 밀려 12월 1일부터 넉 달 투고를 멈춘다.",
+          "mini_headline": "Vulcain, 원고 투고 중단",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
+                "src": "https://actualitte.com/uploads/images/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur-6b04401d11d52457974346.jpg",
+                "cap": "Aux forges de Vulcain 출판사 설립자 David Meulemans"
               },
               {
                 "t": "p",
-                "x": "도서의 질을 지키고 AI(IA)를 더 잘 관리하기 위해, 벨기에 출판사들이 인증 라벨과 벨기에에서 출간되는 책의 가격 조정을 검토하고 있다."
+                "x": "대기 중인 원고 2500편, 매주 새로 들어오는 80편, 그리고 더미를 키우는 인공지능 생성 글. Aux Forges de Vulcain의 투고함은 넘쳐난다. 그래서 David Meulemans는 결단을 내렸다. 12월 1일부터 넉 달 동안 원고를 받지 않는다. 그는 ActuaLitté에 “우리는 인쇄소가 아니다”라고 짧게 말했다."
               },
               {
                 "t": "p",
-                "x": "업계에서 인공지능(IA) 도구를 쓸 때의 위험을 우려하는 프랑스어권 출판사들은, 독자가 읽는 책이 사람이 해낸 전문적 작업의 결과임을 보장하는 라벨을 만들기를 원한다."
+                "x": "해마다 소설 14편을 펴내는 이 출판사는 첫해에 투고 70편을 받았지만, 15년째에는 6000편을 받았다. “그중 90%는 소설조차 아니라는 걸 안다. 그러면 검토할 원고가 250편 남는데, 우리는 네 명이다.”"
               },
               {
                 "t": "p",
-                "x": "벨기에출판인협회(ADEB)는 저자가 AI를 이용해 출판사를 거치지 않고 책을 내는 자가출판 현상을 특히 우려한다. 협회 관계자들은 목요일 브뤼셀에서 글쓰기(맞춤법, 서사의 일관성 등)부터 책의 외관, 가격, 유통망 접근, 법적 보호에 이르기까지 전문 출판사가 더하는 가치를 강조했다."
+                "x": "생성형 AI(IA)가 만든 글만이 이유는 아니지만, 결정을 앞당긴 것은 분명하다. “AI 원고는 분량을 조금 늘리는 데 그치지 않는다. 어쨌든 조금 무시당하는 기분이 드는 짜증도 있다.” 그는 특유의 글버릇과 “평균화하는 글쓰기”로 이런 원고를 알아본다."
               },
               {
                 "t": "p",
-                "x": "ADEB는 회원사들에 PILEn이 발표한 ‘도서 분야의 책임 있는 AI 이용을 위한 헌장’을 지키라고 권고한다. 다만 출판사들은 ‘sans IA’ 라벨의 어려움, 특히 라벨 취득에 따르는 의무를 확인하는 일의 어려움을 모르지 않는다. 협회가 펴낸 연구는 회원사들이 판매가를 정하는 데에도 도움을 줄 예정이다. 판매가는 흔히 그보다 낮은 프랑스 출간 도서의 가격을 따라 매겨진다."
+                "x": "12월 1일 이전에 받은 원고는 검토한다. 중단 기간에 보낸 원고에는 자동 응답 메시지가 간다. 투고 접수는 2027년 4월 1일 다시 열리며, 한 달 동안 이어진다. “정말 시험이고 실험이다. 지켜보겠다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ベルギー出版界が\n「sans IA」ラベル検討",
-          "body": "ベルギーの出版社が「sans IA」ラベルと国内刊行本の価格調整を検討している。",
-          "mini_headline": "ベルギーで「sans IA」ラベル",
+          "headline": "仏出版社Vulcain、\n原稿受付を停止",
+          "body": "AI生成文を含む2500点の原稿を抱え、同社は12月1日から4カ月投稿を止める。",
+          "mini_headline": "Vulcain、原稿受付を停止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
+                "src": "https://actualitte.com/uploads/images/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur-6b04401d11d52457974346.jpg",
+                "cap": "Aux forges de Vulcain創業者のDavid Meulemans"
               },
               {
                 "t": "p",
-                "x": "本の質を守り、AI（IA）をより適切に管理するため、ベルギーの出版社は認証ラベルと、ベルギーで刊行される本の価格調整を検討している。"
+                "x": "未読の原稿が2500点、毎週80点の新着、さらに人工知能が生成した文章が山を膨らませる。Aux Forges de Vulcainでは受付箱があふれている。そこでDavid Meulemansは決断した。12月1日から4カ月間、原稿を受け付けない。「我々は印刷屋ではない」と彼はActuaLittéに語った。"
               },
               {
                 "t": "p",
-                "x": "業界で人工知能（IA）ツールを使うことの危険を懸念するフランス語圏の出版社は、読者が読んでいる本が人間による専門的な仕事の成果であることを保証するラベルの創設を望んでいる。"
+                "x": "年に14点の小説を刊行する同社は、初年度に70点の投稿を受けたが、15年目には6000点に達した。「その90%は小説ですらないとわかっている。だから検討するのは250点だが、こちらは4人だ」"
               },
               {
                 "t": "p",
-                "x": "ベルギー出版社協会（ADEB）は、AIを使えば著者が出版社を通さずに本を出せる自費出版の広がりを特に懸念している。協会の幹部は木曜日、ブリュッセルで、執筆（綴り、物語の一貫性など）から本の体裁、価格、流通網へのアクセス、法的保護に至るまで、プロの出版社がもたらす付加価値を強調した。"
+                "x": "生成AI（IA）による文章だけが理由ではないが、決断を早めた。「AI原稿は、量を少し増やすだけではない。やはり少し見下されているように感じる苛立ちもある」。彼は書き癖と「平均化する文章」でそれを見分けるという。"
               },
               {
                 "t": "p",
-                "x": "ADEBは会員に対し、PILEnが公表した「書籍分野におけるAIの責任ある利用のための憲章」を守るよう求めている。ただし出版社側も、「sans IA」ラベルの難しさ、とりわけ取得に伴う義務を確認することの難しさを承知している。協会が公表した調査は、会員が販売価格を決める助けにもなる見込みだ。販売価格は、より安いフランスで刊行された本の価格に合わせられることが多い。"
+                "x": "12月1日より前に届いた原稿は検討される。休止期間中に送られた原稿には自動メッセージが返される。受付は2027年4月1日に再開し、期間は1カ月だ。「本当にテストであり、実験だ。様子を見る」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "比利时出版商希望推出\n“sans IA”标签",
-          "body": "比利时出版商正考虑推出“sans IA”标签，并调整本国出版图书的价格。",
-          "mini_headline": "比利时拟推“sans IA”标签",
+          "headline": "Vulcain出版社\n暂停接收投稿",
+          "body": "积压2500部稿件，其中包括AI文本，该社自12月1日起暂停投稿四个月。",
+          "mini_headline": "Vulcain暂停接收稿件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
+                "src": "https://actualitte.com/uploads/images/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur-6b04401d11d52457974346.jpg",
+                "cap": "Aux forges de Vulcain出版社创始人David Meulemans"
               },
               {
                 "t": "p",
-                "x": "为保护图书质量并更好地规范AI（IA），比利时出版商正在考虑推出一种认证标签，并调整在比利时出版的图书价格。"
+                "x": "2500部稿件待审，每周新增80部，还有人工智能生成的文本不断加高这堆稿件。在Aux Forges de Vulcain，投稿箱已经满溢。于是David Meulemans作出决定：自12月1日起，四个月内不再接收稿件。“我们不是印刷厂。”他对ActuaLitté这样总结。"
               },
               {
                 "t": "p",
-                "x": "法语区出版商担忧在本行业使用人工智能（IA）工具的风险，希望设立一种标签，向读者保证他们所读的书确实出自人类完成的专业工作。"
+                "x": "这家每年出版14部小说的出版社，第一年收到70份投稿，第15年则收到6000份。“我们知道其中90%甚至算不上小说。这样还剩250部要审，而我们只有四个人。”"
               },
               {
                 "t": "p",
-                "x": "比利时出版商协会（ADEB）尤其担忧自助出版现象：借助AI，作者无需出版商即可出书。协会负责人周四在布鲁塞尔强调了专业出版商的附加价值，涵盖从写作（拼写、叙事连贯性……）到图书外观、价格、进入商业渠道以及法律保护等方面。"
+                "x": "生成式AI（IA）产出的文本并非唯一原因，却促成了这一决定。“AI稿件不只是多添了一点数量，还让人恼火，觉得自己多少被轻视了。”他能凭写作上的惯性和一种“趋于平庸的写法”认出这些稿件。"
               },
               {
                 "t": "p",
-                "x": "ADEB敦促会员遵守PILEn发布的《图书行业负责任使用AI宪章》。不过，出版商也清楚“sans IA”标签面临的困难，尤其是在核查获得该标签所需履行的义务方面。该协会发布的一项研究还将帮助会员确定售价，而售价往往参照价格较低的法国出版图书。"
+                "x": "12月1日前收到的稿件将得到审阅；暂停期间寄来的稿件会触发自动回复。投稿通道将于2027年4月1日重新开放，为期一个月。“这真的是一次测试，一次实验，我们看看结果。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los editores belgas quieren\nun sello «sin IA»",
-          "body": "Los editores belgas estudian un sello «sin IA» y un ajuste del precio de los libros publicados en Bélgica.",
-          "mini_headline": "Un sello «sin IA» en Bélgica",
+          "headline": "Aux Forges de Vulcain cierra\nla puerta a los manuscritos",
+          "body": "Desbordada por 2500 manuscritos, algunos de IA, la editorial suspende los envíos cuatro meses desde el 1 de diciembre.",
+          "mini_headline": "Vulcain suspende los manuscritos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_749w/2026/11/26/node_807924/4748109/public/2026/11/26/115843768.jpeg?itok=NRrbCszH1795716168"
+                "src": "https://actualitte.com/uploads/images/on-n-est-pas-des-imprimeurs-le-ras-le-bol-d-un-editeur-6b04401d11d52457974346.jpg",
+                "cap": "David Meulemans, fundador de la editorial Aux forges de Vulcain"
               },
               {
                 "t": "p",
-                "x": "Para proteger la calidad de los libros y regular mejor la IA, los editores belgas estudian un sello de certificación y un ajuste del precio de las obras publicadas en Bélgica."
+                "x": "2500 manuscritos en espera, 80 nuevos cada semana y textos generados por inteligencia artificial que vienen a engordar la pila. En Aux Forges de Vulcain, el buzón se desborda. Por eso David Meulemans ha tomado una decisión: a partir del 1 de diciembre, no se aceptarán manuscritos durante cuatro meses. «No somos impresores», resume ante ActuaLitté."
               },
               {
                 "t": "p",
-                "x": "Preocupados por los peligros del uso de herramientas de inteligencia artificial (IA) en su sector, los editores francófonos desean la creación de un sello que garantice al lector que la obra que lee es realmente fruto de un trabajo profesional realizado por un ser humano."
+                "x": "La editorial, que publica 14 novelas al año, recibió 70 propuestas en su primer año, frente a 6000 en el decimoquinto. «Sabemos que el 90 % ni siquiera son novelas. Así que nos quedarán 250 por estudiar, y somos cuatro»."
               },
               {
                 "t": "p",
-                "x": "La Asociación de Editores Belgas (ADEB) está especialmente preocupada por el fenómeno de la autoedición, que permite a los autores, gracias a la IA, publicar sin recurrir a un editor. Sus responsables insistieron el jueves en Bruselas en el valor añadido de los editores profesionales, desde la escritura (ortografía, coherencia del relato...) hasta el aspecto del libro, su precio, su acceso a los circuitos comerciales y su protección jurídica."
+                "x": "Los textos producidos por IA generativa no son la única explicación, pero precipitaron la decisión. «Los manuscritos de IA no solo añaden un poco de volumen. También está la irritación de sentirse un poco despreciado, la verdad». Los reconoce por tics de escritura y una «escritura que tiende a la media»."
               },
               {
                 "t": "p",
-                "x": "La ADEB insta a sus miembros a respetar la Carta para un uso responsable de la IA en el sector del libro, publicada por el PILEn. Sin embargo, los editores no ignoran las dificultades de un sello «sin IA», sobre todo en el control de las obligaciones ligadas a su obtención. Un estudio publicado por la asociación también debe ayudar a sus miembros a fijar el precio de venta, a menudo calcado del de las obras publicadas en Francia, más bajo."
+                "x": "Los manuscritos recibidos antes del 1 de diciembre serán examinados; los enviados durante el cierre activarán un mensaje automático. La recepción reabrirá el 1 de abril de 2027, durante un mes. «Es realmente una prueba, es un experimento y ya veremos»."
               }
             ]
           }
@@ -970,167 +1117,15 @@
       }
     },
     {
-      "id": "anthropic-payout-milan",
-      "source_lang": "en",
+      "id": "books-boersenverein-ki-umfrage",
+      "source_lang": "de",
       "eyebrow": "AI NEWS",
-      "headline": "Anthropic 합의금\n작가들에 지급 시작",
-      "body": "15억 달러 합의금이 작가들에게 책당 약 3,000달러꼴로 지급되기 시작했다.",
-      "mini_headline": "Anthropic 합의금 지급 시작",
+      "headline": "독일 출판협회, 출판사\nKI-Einsatz 조사",
+      "body": "설문은 출판사가 생성형 AI를 어떻게 쓰는지, 규칙과 기대 효과는 무엇인지 묻는다.",
+      "mini_headline": "Börsenverein의 AI 설문",
       "tool": "Books",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1043087/anthropic-has-started-paying-out-its-copyright-settlement-to-authors",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "소설가 코트니 밀란(Courtney Milan)은 자기 몫을 이미 받았다고 말했다. Anthropic이 지난해 작가들의 집단소송을 합의로 끝내며 내놓기로 한 15억 달러의 일부다. 전체 지급액은 책 한 권당 약 3,000달러가 될 전망이지만 일부는 내년 초에야 나간다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Anthropic starts paying out\nits authors' settlement",
-          "body": "Authors are receiving shares of the $1.5B deal, worth about $3,000 per book once the rest arrives early next year.",
-          "mini_headline": "Anthropic settlement payouts begin",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Novelist Courtney Milan says she’s already received her part of Anthropic’s $1.5 billion payout, which it agreed to last year to settle a class-action suit from authors. The full payout should work out to around $3,000 per book, but part of that is still to come early next year."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Anthropic 합의금\n작가들에 지급 시작",
-          "body": "15억 달러 합의금이 작가들에게 책당 약 3,000달러꼴로 지급되기 시작했다.",
-          "mini_headline": "Anthropic 합의금 지급 시작",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "소설가 코트니 밀란(Courtney Milan)은 자기 몫을 이미 받았다고 말했다. Anthropic이 지난해 작가들의 집단소송을 합의로 끝내며 내놓기로 한 15억 달러의 일부다. 전체 지급액은 책 한 권당 약 3,000달러가 될 전망이지만 일부는 내년 초에야 나간다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Anthropicが著者への\n和解金支払いを開始",
-          "body": "著者らは15億ドルの和解金の分配を受け始め、全額で1冊あたり約3000ドルとなる。",
-          "mini_headline": "Anthropic和解金の支払い開始",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "小説家のコートニー・ミラン（Courtney Milan）は、Anthropicが著者らによる集団訴訟の和解として昨年合意した15億ドルの支払いのうち、自分の分をすでに受け取ったと話している。支払い総額は1冊あたり約3000ドルになる見通しだが、その一部は来年初めに支払われる予定だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Anthropic开始向\n作者支付和解金",
-          "body": "作者们已开始领取15亿美元和解金，待余款明年初到账后每本书约3000美元。",
-          "mini_headline": "Anthropic和解金开始发放",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "小说家考特妮·米兰（Courtney Milan）表示，她已收到Anthropic 15亿美元赔付中属于自己的那一份。这笔赔付是Anthropic去年为与作者们的集体诉讼达成和解而同意支付的。全部赔付折算下来约为每本书3000美元，但其中一部分要到明年初才会到账。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Anthropic empieza a pagar el\nacuerdo con los autores",
-          "body": "Los autores cobran ya su parte del acuerdo de 1.500 millones de dólares: unos 3.000 dólares por libro en total.",
-          "mini_headline": "Anthropic empieza a pagar el acuerdo",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La novelista Courtney Milan afirma que ya ha recibido su parte del pago de 1.500 millones de dólares de Anthropic, que la empresa acordó el año pasado para resolver una demanda colectiva de autores. El pago total debería rondar los 3.000 dólares por libro, pero una parte aún llegará a principios del próximo año."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Anthropic 합의금\n작가들에 지급 시작",
-          "body": "작가들에게 15억 달러 합의금이 지급되며, 책당 약 3,000달러 규모다.",
-          "mini_headline": "Anthropic 합의금 지급 시작",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "소설가 코트니 밀란(Courtney Milan)은 Anthropic이 지난해 작가들의 집단소송을 합의로 끝내며 지급하기로 한 15억 달러 중 자기 몫을 이미 받았다고 말했다. 전체 지급액은 책 한 권당 약 3,000달러가 될 전망이지만, 일부는 내년 초에 지급된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Anthropicが著者への\n和解金支払いを開始",
-          "body": "著者らは15億ドルの和解金の分配を受け始め、全額で1冊あたり約3000ドルとなる。",
-          "mini_headline": "Anthropic和解金の支払い開始",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "小説家のコートニー・ミラン（Courtney Milan）は、Anthropicが著者らによる集団訴訟の和解として昨年合意した15億ドルの支払いのうち、自分の分をすでに受け取ったと話している。支払い総額は1冊あたり約3000ドルになる見通しだが、その一部は来年初めに支払われる予定だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Anthropic开始向\n作者支付和解金",
-          "body": "作者们已开始领取15亿美元和解金，待余款明年初到账后每本书约3000美元。",
-          "mini_headline": "Anthropic和解金开始发放",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "小说家考特妮·米兰（Courtney Milan）表示，她已收到Anthropic 15亿美元赔付中属于自己的那一份。这笔赔付是Anthropic去年为与作者们的集体诉讼达成和解而同意支付的。全部赔付折算下来约为每本书3000美元，但其中一部分要到明年初才会到账。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Anthropic empieza a pagar el\nacuerdo con los autores",
-          "body": "Los autores cobran ya su parte del acuerdo de 1.500 millones de dólares: unos 3.000 dólares por libro en total.",
-          "mini_headline": "Anthropic empieza a pagar el acuerdo",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La novelista Courtney Milan afirma que ya ha recibido su parte del pago de 1.500 millones de dólares de Anthropic, que la empresa acordó el año pasado para resolver una demanda colectiva de autores. El pago total debería rondar los 3.000 dólares por libro, pero una parte aún llegará a principios del próximo año."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "ifwg-ipi-ai-contract-ban",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "독립 출판사들\n계약서에 AI 금지 명시",
-      "body": "IFWG·IPI는 계약서로 AI-made 작품을 막고 학습용 제공도 거부한다.",
-      "mini_headline": "독립 출판사, 계약으로 AI 금지",
-      "tool": "Books",
-      "source": "Tomorrow's Publisher",
-      "url": "https://tomorrowspublisher.today/news/independent-speculative-fiction-presses-ban-ai-made-work-and-restrict-training-u-c0f94490c251/",
+      "source": "Börsenblatt",
+      "url": "https://www.boersenblatt.net/news/ki-verlagen-umfrage-des-boersenvereins-450903",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1138,305 +1133,464 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
-            "cap": "만평 · AI-generated(AI 생성)"
+            "src": "https://www.boersenblatt.net/sites/default/files/styles/header_article/public/2026-11/ki_verstehen_studie_c_boersenverein.png?h=8893360f&itok=-h0RsNX8",
+            "cap": "© Börsenverein"
           },
           {
             "t": "p",
-            "x": "원고를 거절하는 데도 편집자의 시간이 든다. IFWG Publishing International과 IPI Comics를 운영하는 회사의 대표 게리 헌트먼(Gerry Huntman)은 11월 17일, 생성형 AI로 일부나 전부를 만든 투고작이 점점 늘고 있다고 말했다. 이런 원고를 거절하느라 편집 업무에 쓸 시간이 깎여 나간다고 했다."
+            "x": "출판사들은 생성형 AI(KI)를 어떻게 쓰고 있을까? 규칙은 있을까? 어떤 효용이나 가능성을 보고 있을까? Börsenverein(독일출판서점협회)은 연구로 이를 더 잘 이해하려고 출판사들에 참여를 요청했다."
           },
           {
             "t": "p",
-            "x": "계약은 창작자만이 아니라 출판사 자신도 묶는다. IFWG와 IPI Comics는 생성형 AI로 만들었거나 보강한 글과 이미지를 받지 않는다. 자사가 펴낸 작품을 모델 개발사나 학습 자료 중개업체에 알면서 넘기는 일도 결코 없다고 약속한다. 창작을 돕던 기존 도구는 계속 써도 된다고 헌트먼은 덧붙였다."
+            "x": "질문은 실무에 맞춰져 있다. 출판사 직원들은 어떤 AI 애플리케이션(KI-Anwendungen)을 쓰거나 쓸 계획인가? 품질과 표시, 권리는 어떻게 관리하나? 지금까지 거둔 경제적 효용은 무엇인가?"
           },
           {
             "t": "p",
-            "x": "Candlemark & Gleam은 원고를 쓸 때 AI를 쓰지 않았다는 확인을 저자들에게 받는다. 이 SF·판타지 출판사는 10월 성명에서 AI-generated(AI 생성) 표지 그림도 받지 않는다고 밝혔다. 독자는 그럴듯한 세계관과 저자 고유의 목소리까지 사는 셈이라는 주장이다."
+            "x": "Börsenverein의 IG Digital이 진행하는 이 설문은 올해로 세 번째다. 분석은 Highberg가 맡는다. 출판사에서 AI가 맡는 역할을 폭넓고 근거 있게 그려 내는 것이 목표다."
           },
           {
             "t": "p",
-            "x": "그래도 서명한 계약만으로는 풀리지 않는 질문이 편집자에게 남는다. 저자가 계약을 어겼다고 의심되면 무엇을 증거로 삼나? 작가 단체 Authors Guild는 출판사에 먼저 저자와 이야기하라고 권한다. 탐지기가 사람이 쓴 글을 잘못 걸러낼 수 있다는 경고와 함께, 원고를 확인하려고 제3자 서비스에 올리기 전에 저자 허락부터 받으라고 한다."
+            "x": "Börsenverein은 응답을 토대로 지원 프로그램을 맞춤형으로 넓힌다. 응답에는 10-15분이 걸린다."
+          },
+          {
+            "t": "p",
+            "x": "앞선 두 차례 조사에서는 대형 출판사와 소형 출판사의 AI 활용(KI-Einsatz) 격차가 크게 드러났고, 생성형 AI 활용이 매우 빠르게 늘고 있다는 점도 확인됐다."
+          },
+          {
+            "t": "p",
+            "x": "Börsenblatt는 이 AI 연구(KI-Studie)의 미디어 파트너다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Indie presses write AI bans\ninto author contracts",
-          "body": "IFWG Publishing and IPI Comics now bar AI-made work by contract and pledge to keep their books out of training deals.",
-          "mini_headline": "Indie presses ban AI by contract",
+        "_src": {
+          "headline": "Börsenverein fragt Verlage\nnach ihrem KI-Einsatz",
+          "body": "Eine Umfrage soll klären, wie Verlage generative KI nutzen, welche Regeln sie festlegen und welchen Nutzen sie sehen.",
+          "mini_headline": "KI-Umfrage des Börsenvereins",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
-                "cap": "Cartoon · AI-generated"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/header_article/public/2026-11/ki_verstehen_studie_c_boersenverein.png?h=8893360f&itok=-h0RsNX8",
+                "cap": "© Börsenverein"
               },
               {
                 "t": "p",
-                "x": "Rejecting a manuscript still takes an editor’s time. On 17 November, Gerry Huntman, managing director of the company behind IFWG Publishing International and IPI Comics, said his editors were seeing more submissions made partly or wholly with generative AI. He said the time spent rejecting them was cutting into editorial work."
+                "x": "Wie nutzen Verlage generative KI? Welche Regeln gibt es? Welchen Nutzen oder Potenziale sehen die Verlage? Das möchte Börsenverein mit einer Studie besser verstehen und ruft die Verlage zur Teilnahme auf."
               },
               {
                 "t": "p",
-                "x": "The contracts bind the publisher as well as its creators. IFWG and IPI Comics will reject text and images made or augmented by generative AI. They also pledge never to supply the work they publish knowingly to model developers or to intermediaries that provide training material. Huntman said creators could still use conventional tools that assist them with their own work."
+                "x": "Gefragt wird nach der Praxis: Welche KI-Anwendungen setzen Verlagsmitarbeitende ein oder planen es? Wie regeln sie Qualität, Kennzeichnung und Rechte? Welchen wirtschaftlichen Nutzen sehen sie bisher?"
               },
               {
                 "t": "p",
-                "x": "Candlemark & Gleam asks its authors to certify that they did not use AI to produce the manuscript. In an October statement, the science fiction and fantasy press said it also rules out AI-generated cover art. It argued that plausible world-building and an author’s individual voice are part of what readers buy."
+                "x": "Die Umfrage der IG Digital des Börsenvereins findet das dritte Jahr in Folge statt. Die Auswertung erfolgt durch Highberg. So soll ein umfassendes und fundiertes Bild über die Rolle von KI in Verlagen entstehen."
               },
               {
                 "t": "p",
-                "x": "That leaves editors with a question a signed contract cannot answer on its own. What counts as evidence if they suspect an author has broken the agreement? The Authors Guild advises publishers to speak to the author. It warns that a detector can flag human writing and says publishers should obtain the author’s permission before uploading a manuscript to a third-party service to check it."
+                "x": "Auf Basis der Antworten baut der Börsenverein Unterstützungsangebote gezielt aus. Die Beantwortung dauert 10-15 Minuten."
+              },
+              {
+                "t": "p",
+                "x": "Die beiden ersten Erhebungen hatten große Unterschiede zum KI-Einsatz in großen und kleinen Verlagshäusern gezeigt – und dokumentiert, dass der Einsatz generativer KI massiv rapide zunimmt."
+              },
+              {
+                "t": "p",
+                "x": "Das Börsenblatt ist Medienpartner der KI-Studie."
+              }
+            ]
+          },
+          "lang": "de"
+        },
+        "en": {
+          "headline": "Börsenverein asks publishers\nabout AI use (KI-Einsatz)",
+          "body": "A survey aims to clarify how publishers use generative AI, what rules they set and what benefits they see.",
+          "mini_headline": "Börsenverein AI survey",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/header_article/public/2026-11/ki_verstehen_studie_c_boersenverein.png?h=8893360f&itok=-h0RsNX8",
+                "cap": "© Börsenverein"
+              },
+              {
+                "t": "p",
+                "x": "How are publishers using generative AI (KI)? What rules are in place? What benefits or potential do publishers see? The Börsenverein wants to understand this better through a study and is calling on publishers to take part."
+              },
+              {
+                "t": "p",
+                "x": "The questions focus on practice: which AI applications (KI-Anwendungen) are publishing staff using or planning to use? How do they handle quality, labelling and rights? What economic benefit have they seen so far?"
+              },
+              {
+                "t": "p",
+                "x": "The survey by the Börsenverein’s IG Digital is taking place for the third year in a row. The analysis is carried out by Highberg. The aim is to build a comprehensive, well-founded picture of the role of AI in publishing houses."
+              },
+              {
+                "t": "p",
+                "x": "Based on the responses, the Börsenverein will expand its support offerings in a targeted way. Answering takes 10-15 minutes."
+              },
+              {
+                "t": "p",
+                "x": "The first two surveys showed large differences in AI use (KI-Einsatz) between large and small publishing houses – and documented that the use of generative AI is increasing massively and rapidly."
+              },
+              {
+                "t": "p",
+                "x": "Börsenblatt is a media partner of the AI study (KI-Studie)."
               }
             ]
           }
         },
         "ko": {
-          "headline": "독립 출판사들\n계약서에 AI 금지 명시",
-          "body": "IFWG·IPI는 계약서로 AI-made 작품을 막고 학습용 제공도 거부한다.",
-          "mini_headline": "독립 출판사, 계약으로 AI 금지",
+          "headline": "독일 출판협회, 출판사\nKI-Einsatz 조사",
+          "body": "설문은 출판사가 생성형 AI를 어떻게 쓰는지, 규칙과 기대 효과는 무엇인지 묻는다.",
+          "mini_headline": "Börsenverein의 AI 설문",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
-                "cap": "만평 · AI-generated(AI 생성)"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/header_article/public/2026-11/ki_verstehen_studie_c_boersenverein.png?h=8893360f&itok=-h0RsNX8",
+                "cap": "© Börsenverein"
               },
               {
                 "t": "p",
-                "x": "원고를 거절하는 데도 편집자의 시간이 든다. IFWG Publishing International과 IPI Comics를 운영하는 회사의 대표 게리 헌트먼(Gerry Huntman)은 11월 17일, 생성형 AI로 일부나 전부를 만든 투고작이 점점 늘고 있다고 말했다. 이런 원고를 거절하느라 편집 업무에 쓸 시간이 깎여 나간다고 했다."
+                "x": "출판사들은 생성형 AI(KI)를 어떻게 쓰고 있을까? 규칙은 있을까? 어떤 효용이나 가능성을 보고 있을까? Börsenverein(독일출판서점협회)은 연구로 이를 더 잘 이해하려고 출판사들에 참여를 요청했다."
               },
               {
                 "t": "p",
-                "x": "계약은 창작자만이 아니라 출판사 자신도 묶는다. IFWG와 IPI Comics는 생성형 AI로 만들었거나 보강한 글과 이미지를 받지 않는다. 자사가 펴낸 작품을 모델 개발사나 학습 자료 중개업체에 알면서 넘기는 일도 결코 없다고 약속한다. 창작을 돕던 기존 도구는 계속 써도 된다고 헌트먼은 덧붙였다."
+                "x": "질문은 실무에 맞춰져 있다. 출판사 직원들은 어떤 AI 애플리케이션(KI-Anwendungen)을 쓰거나 쓸 계획인가? 품질과 표시, 권리는 어떻게 관리하나? 지금까지 거둔 경제적 효용은 무엇인가?"
               },
               {
                 "t": "p",
-                "x": "Candlemark & Gleam은 원고를 쓸 때 AI를 쓰지 않았다는 확인을 저자들에게 받는다. 이 SF·판타지 출판사는 10월 성명에서 AI-generated(AI 생성) 표지 그림도 받지 않는다고 밝혔다. 독자는 그럴듯한 세계관과 저자 고유의 목소리까지 사는 셈이라는 주장이다."
+                "x": "Börsenverein의 IG Digital이 진행하는 이 설문은 올해로 세 번째다. 분석은 Highberg가 맡는다. 출판사에서 AI가 맡는 역할을 폭넓고 근거 있게 그려 내는 것이 목표다."
               },
               {
                 "t": "p",
-                "x": "그래도 서명한 계약만으로는 풀리지 않는 질문이 편집자에게 남는다. 저자가 계약을 어겼다고 의심되면 무엇을 증거로 삼나? 작가 단체 Authors Guild는 출판사에 먼저 저자와 이야기하라고 권한다. 탐지기가 사람이 쓴 글을 잘못 걸러낼 수 있다는 경고와 함께, 원고를 확인하려고 제3자 서비스에 올리기 전에 저자 허락부터 받으라고 한다."
+                "x": "Börsenverein은 응답을 토대로 지원 프로그램을 맞춤형으로 넓힌다. 응답에는 10-15분이 걸린다."
+              },
+              {
+                "t": "p",
+                "x": "앞선 두 차례 조사에서는 대형 출판사와 소형 출판사의 AI 활용(KI-Einsatz) 격차가 크게 드러났고, 생성형 AI 활용이 매우 빠르게 늘고 있다는 점도 확인됐다."
+              },
+              {
+                "t": "p",
+                "x": "Börsenblatt는 이 AI 연구(KI-Studie)의 미디어 파트너다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "独立系出版社、契約に\nAI禁止を明記",
-          "body": "IFWGとIPI Comicsは契約でAI-made作品を禁じ、学習用にも出さない。",
-          "mini_headline": "独立系出版社が契約でAIを禁止",
+          "headline": "ドイツ書籍業協会が\nKI-Einsatzを調査",
+          "body": "調査は出版社による生成AIの使い方、定めるルール、見込む効果を探る。",
+          "mini_headline": "BörsenvereinのAI調査",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
-                "cap": "風刺漫画・AI-generated（AI生成）"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/header_article/public/2026-11/ki_verstehen_studie_c_boersenverein.png?h=8893360f&itok=-h0RsNX8",
+                "cap": "© Börsenverein"
               },
               {
                 "t": "p",
-                "x": "原稿を不採用にするにも、編集者の時間はかかる。IFWG Publishing InternationalとIPI Comicsを運営する会社のマネージングディレクター、ジェリー・ハントマン（Gerry Huntman）は11月17日、生成AIで一部または全部が作られた投稿が編集者のもとで増えていると述べた。それらを断る時間が編集作業を圧迫しているという。"
+                "x": "出版社は生成AI（KI）をどう使っているのか。どんなルールがあるのか。出版社はどのような効用や可能性を見ているのか。Börsenverein（ドイツ書籍業協会）は調査を通じてこれをより深く理解したいとして、出版社に参加を呼びかけている。"
               },
               {
                 "t": "p",
-                "x": "契約は、作り手だけでなく出版社自身も縛る。IFWGとIPI Comicsは、生成AIで作られた、または補強された文章や画像を受け付けない。さらに、自社が出版する作品を、モデル開発者や学習用素材を提供する仲介業者に故意に提供することは決してないと誓約している。ハントマンによれば、作り手は自分の作業を支援する従来型のツールは引き続き使えるという。"
+                "x": "問われるのは実務だ。出版社の社員はどのようなAIアプリケーション（KI-Anwendungen）を使い、あるいは導入を予定しているのか。品質、表示、権利をどう扱っているのか。これまでにどのような経済的効用を得たのか。"
               },
               {
                 "t": "p",
-                "x": "Candlemark & Gleamは、著者に原稿の制作にAIを使っていないことを証明するよう求めている。SF・ファンタジー専門のこの出版社は10月の声明で、AI-generated（AI生成）の表紙画も認めないと述べた。もっともらしい世界観の構築と著者ならではの声は、読者が買うものの一部だというのが同社の主張だ。"
+                "x": "BörsenvereinのIG Digitalによるこの調査は3年連続の実施となる。分析はHighbergが担う。出版社におけるAIの役割について、包括的で根拠のある全体像を描くことが狙いだ。"
               },
               {
                 "t": "p",
-                "x": "そこで編集者には、署名済みの契約だけでは答えられない問いが残る。著者が契約に違反したと疑われる場合、何を証拠とみなすのか。作家団体のAuthors Guildは出版社に対し、著者と話し合うよう助言している。検出ツールは人間の文章を誤って判定しうると警告し、確認のために原稿を第三者のサービスにアップロードする前に著者の許可を得るべきだとしている。"
+                "x": "Börsenvereinは回答を基に支援策を的を絞って拡充する。回答にかかる時間は10-15分だ。"
+              },
+              {
+                "t": "p",
+                "x": "過去2回の調査では、大手と小規模の出版社でAI活用（KI-Einsatz）に大きな差があることが示され、生成AIの利用が急速に拡大していることも記録された。"
+              },
+              {
+                "t": "p",
+                "x": "BörsenblattはこのAI調査（KI-Studie）のメディアパートナーである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "独立出版社在作者合同中\n写入AI禁令",
-          "body": "IFWG与IPI Comics以合同禁止AI-made作品，并承诺不把书用于训练交易。",
-          "mini_headline": "独立出版社以合同禁止AI",
+          "headline": "德国书业协会调查\n出版社KI-Einsatz",
+          "body": "调查旨在了解出版社如何使用生成式AI、制定了哪些规则以及看到了哪些益处。",
+          "mini_headline": "Börsenverein的AI调查",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
-                "cap": "漫画 · AI-generated（AI生成）"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/header_article/public/2026-11/ki_verstehen_studie_c_boersenverein.png?h=8893360f&itok=-h0RsNX8",
+                "cap": "© Börsenverein"
               },
               {
                 "t": "p",
-                "x": "拒绝一份书稿仍要耗费编辑的时间。11月17日，IFWG Publishing International和IPI Comics背后公司的董事总经理格里·亨特曼（Gerry Huntman）表示，他的编辑们收到越来越多部分或全部由生成式AI制作的投稿。他说，拒稿所花的时间正在挤占编辑工作。"
+                "x": "出版社如何使用生成式AI（KI）？有哪些规则？出版社看到了哪些益处或潜力？Börsenverein（德国书业协会）希望通过一项研究更好地了解这些问题，并呼吁出版社参与。"
               },
               {
                 "t": "p",
-                "x": "这些合同既约束创作者，也约束出版社自己。IFWG和IPI Comics将拒收由生成式AI制作或增强的文字和图像。它们还承诺，绝不会在知情的情况下把自己出版的作品提供给模型开发者或提供训练素材的中介机构。亨特曼说，创作者仍可使用辅助自身创作的常规工具。"
+                "x": "问题聚焦实践：出版社员工正在使用或计划使用哪些AI应用（KI-Anwendungen）？他们如何管理质量、标注和权利？迄今看到了哪些经济效益？"
               },
               {
                 "t": "p",
-                "x": "Candlemark & Gleam要求作者证明自己没有用AI创作书稿。这家科幻与奇幻出版社在10月的一份声明中表示，它也不接受AI-generated（AI生成）的封面图。该社认为，可信的世界构建和作者独特的声音，是读者购买的内容的一部分。"
+                "x": "这项由Börsenverein旗下IG Digital开展的调查已连续第三年举行，分析工作由Highberg负责，旨在全面、扎实地呈现AI在出版社中的作用。"
               },
               {
                 "t": "p",
-                "x": "这给编辑们留下了一个仅靠签好的合同无法回答的问题：如果怀疑作者违反了协议，什么才算证据？作家团体Authors Guild建议出版社与作者沟通。它警告说，检测工具可能误标人类写的文字，并表示出版社在把书稿上传到第三方服务进行检查之前，应先征得作者许可。"
+                "x": "Börsenverein将根据答复有针对性地扩充支持服务。答卷需要10-15分钟。"
+              },
+              {
+                "t": "p",
+                "x": "前两次调查显示，大型和小型出版社在AI使用（KI-Einsatz）上差异很大，并记录了生成式AI的使用正在迅速大幅增长。"
+              },
+              {
+                "t": "p",
+                "x": "Börsenblatt是这项AI研究（KI-Studie）的媒体合作伙伴。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Editoriales independientes\nvetan la IA en sus contratos",
-          "body": "IFWG e IPI Comics vetan por contrato obras hechas con IA (AI-made) y no cederán sus libros para entrenamiento.",
-          "mini_headline": "Editoriales independientes vetan la IA por contrato",
+          "headline": "El Börsenverein pregunta\npor el uso de IA (KI-Einsatz)",
+          "body": "Una encuesta busca aclarar cómo usan las editoriales la IA generativa, qué reglas fijan y qué beneficios ven.",
+          "mini_headline": "La encuesta de IA del Börsenverein",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
-                "cap": "Viñeta · AI-generated (generada por IA)"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/header_article/public/2026-11/ki_verstehen_studie_c_boersenverein.png?h=8893360f&itok=-h0RsNX8",
+                "cap": "© Börsenverein"
               },
               {
                 "t": "p",
-                "x": "Rechazar un manuscrito sigue costando tiempo a un editor. El 17 de noviembre, Gerry Huntman, director gerente de la empresa detrás de IFWG Publishing International e IPI Comics, dijo que sus editores recibían cada vez más originales hechos en parte o por completo con IA generativa. Según dijo, el tiempo dedicado a rechazarlos estaba restando horas al trabajo editorial."
+                "x": "¿Cómo usan las editoriales la IA generativa (KI)? ¿Qué reglas existen? ¿Qué beneficios o potencial ven las editoriales? El Börsenverein quiere entenderlo mejor con un estudio y llama a las editoriales a participar."
               },
               {
                 "t": "p",
-                "x": "Los contratos obligan tanto a la editorial como a sus creadores. IFWG e IPI Comics rechazarán textos e imágenes creados o aumentados con IA generativa. También se comprometen a no suministrar nunca, a sabiendas, las obras que publican a desarrolladores de modelos ni a intermediarios que proporcionan material de entrenamiento. Huntman dijo que los creadores podrán seguir usando herramientas convencionales que les ayuden con su propio trabajo."
+                "x": "Se pregunta por la práctica: ¿qué aplicaciones de IA (KI-Anwendungen) utilizan o planean utilizar los empleados de las editoriales? ¿Cómo regulan la calidad, el etiquetado y los derechos? ¿Qué beneficio económico han visto hasta ahora?"
               },
               {
                 "t": "p",
-                "x": "Candlemark & Gleam pide a sus autores que certifiquen que no usaron IA para producir el manuscrito. En un comunicado de octubre, la editorial de ciencia ficción y fantasía dijo que también descarta las portadas AI-generated (generadas por IA). Sostuvo que una construcción de mundo verosímil y la voz propia de un autor forman parte de lo que compran los lectores."
+                "x": "La encuesta del IG Digital del Börsenverein se celebra por tercer año consecutivo. El análisis corre a cargo de Highberg. Así se pretende obtener una imagen amplia y fundamentada del papel de la IA en las editoriales."
               },
               {
                 "t": "p",
-                "x": "Eso deja a los editores ante una pregunta que un contrato firmado no puede responder por sí solo. ¿Qué cuenta como prueba si sospechan que un autor ha incumplido el acuerdo? El Authors Guild aconseja a las editoriales hablar con el autor. Advierte de que un detector puede marcar como sospechoso un texto escrito por una persona y dice que las editoriales deben obtener el permiso del autor antes de subir un manuscrito a un servicio externo para comprobarlo."
+                "x": "A partir de las respuestas, el Börsenverein ampliará de forma específica su oferta de apoyo. Responder lleva 10-15 minutos."
+              },
+              {
+                "t": "p",
+                "x": "Las dos primeras encuestas mostraron grandes diferencias en el uso de IA (KI-Einsatz) entre editoriales grandes y pequeñas, y documentaron que el uso de la IA generativa crece de forma masiva y rápida."
+              },
+              {
+                "t": "p",
+                "x": "El Börsenblatt es socio mediático del estudio de IA (KI-Studie)."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "독립 출판사들, 저자\n계약에 AI 금지 명시",
-          "body": "IFWG·IPI는 계약으로 AI-made 작품을 막고 학습용 제공도 거부한다.",
-          "mini_headline": "독립 출판사, 계약으로 AI 금지",
+        "en": {
+          "headline": "Börsenverein asks publishers\nabout AI use (KI-Einsatz)",
+          "body": "A survey aims to clarify how publishers use generative AI, what rules they set and what benefits they see.",
+          "mini_headline": "Börsenverein AI survey",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
-                "cap": "만평 · AI-generated(AI 생성)"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/header_article/public/2026-11/ki_verstehen_studie_c_boersenverein.png?h=8893360f&itok=-h0RsNX8",
+                "cap": "© Börsenverein"
               },
               {
                 "t": "p",
-                "x": "원고를 거절하는 데도 편집자의 시간이 든다. IFWG Publishing International과 IPI Comics를 운영하는 회사의 대표 게리 헌트먼(Gerry Huntman)은 11월 17일, 편집자들이 생성형 AI로 일부 또는 전부를 만든 투고작을 점점 더 많이 접하고 있다고 말했다. 그는 이런 원고를 거절하는 데 드는 시간이 편집 업무를 갉아먹고 있다고 했다."
+                "x": "How are publishers using generative AI (KI)? What rules are in place? What benefits or potential do publishers see? The Börsenverein wants to understand this better through a study and is calling on publishers to take part."
               },
               {
                 "t": "p",
-                "x": "계약은 창작자뿐 아니라 출판사 자신도 구속한다. IFWG와 IPI Comics는 생성형 AI로 만들었거나 보강한 글과 이미지를 받지 않는다. 또 자사가 펴낸 작품을 모델 개발사나 학습 자료를 공급하는 중개업체에 알면서 넘기는 일은 결코 없을 것이라고 약속한다. 헌트먼은 창작자가 자기 작업을 돕는 기존 도구는 계속 쓸 수 있다고 말했다."
+                "x": "The questions focus on practice: which AI applications (KI-Anwendungen) are publishing staff using or planning to use? How do they handle quality, labelling and rights? What economic benefit have they seen so far?"
               },
               {
                 "t": "p",
-                "x": "Candlemark & Gleam은 저자들에게 원고 작성에 AI를 쓰지 않았음을 확인하도록 요구한다. 이 SF·판타지 출판사는 10월 성명에서 AI-generated(AI 생성) 표지 그림도 받지 않는다고 밝혔다. 그럴듯한 세계관 구축과 저자 고유의 목소리가 독자가 사는 것의 일부라는 주장이다."
+                "x": "The survey by the Börsenverein’s IG Digital is taking place for the third year in a row. The analysis is carried out by Highberg. The aim is to build a comprehensive, well-founded picture of the role of AI in publishing houses."
               },
               {
                 "t": "p",
-                "x": "편집자들에게는 서명한 계약만으로는 답할 수 없는 질문이 남는다. 저자가 계약을 어겼다고 의심될 때 무엇을 증거로 삼을 것인가? 작가 단체 Authors Guild는 출판사에 저자와 대화하라고 권한다. 탐지기가 사람이 쓴 글을 잘못 걸러낼 수 있다고 경고하며, 원고를 확인하려고 제3자 서비스에 올리기 전에 저자의 허락을 받아야 한다고 말한다."
+                "x": "Based on the responses, the Börsenverein will expand its support offerings in a targeted way. Answering takes 10-15 minutes."
+              },
+              {
+                "t": "p",
+                "x": "The first two surveys showed large differences in AI use (KI-Einsatz) between large and small publishing houses – and documented that the use of generative AI is increasing massively and rapidly."
+              },
+              {
+                "t": "p",
+                "x": "Börsenblatt is a media partner of the AI study (KI-Studie)."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "독일 출판협회, 출판사\nKI-Einsatz 조사",
+          "body": "설문은 출판사의 생성형 AI 활용 방식과 규칙, 기대 효과를 파악하려 한다.",
+          "mini_headline": "Börsenverein의 AI 설문",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/header_article/public/2026-11/ki_verstehen_studie_c_boersenverein.png?h=8893360f&itok=-h0RsNX8",
+                "cap": "© Börsenverein"
+              },
+              {
+                "t": "p",
+                "x": "출판사들은 생성형 AI(KI)를 어떻게 쓰고 있을까? 어떤 규칙이 있을까? 출판사들은 어떤 효용이나 가능성을 보고 있을까? Börsenverein(독일출판서점협회)은 연구로 이를 더 잘 이해하고자 출판사들에 참여를 요청했다."
+              },
+              {
+                "t": "p",
+                "x": "질문은 실무에 초점을 맞춘다. 출판사 직원들은 어떤 AI 애플리케이션(KI-Anwendungen)을 쓰고 있거나 쓸 계획인가? 품질, 표시, 권리는 어떻게 관리하는가? 지금까지 어떤 경제적 효용을 보았는가?"
+              },
+              {
+                "t": "p",
+                "x": "Börsenverein의 IG Digital이 진행하는 이 설문은 올해로 세 번째 해를 맞는다. 분석은 Highberg가 맡는다. 이를 통해 출판사에서 AI가 맡는 역할을 폭넓고 근거 있게 그려 내려 한다."
+              },
+              {
+                "t": "p",
+                "x": "Börsenverein은 응답을 바탕으로 지원 프로그램을 맞춤형으로 늘린다. 응답에는 10-15분이 걸린다."
+              },
+              {
+                "t": "p",
+                "x": "앞선 두 차례 조사에서는 대형 출판사와 소형 출판사의 AI 활용(KI-Einsatz)에 큰 차이가 드러났고, 생성형 AI 활용이 매우 빠르게 늘고 있다는 점도 확인됐다."
+              },
+              {
+                "t": "p",
+                "x": "Börsenblatt는 이 AI 연구(KI-Studie)의 미디어 파트너다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "独立系出版社、契約に\nAI禁止を明記",
-          "body": "IFWGとIPI Comicsは契約でAI-made作品を禁じ、学習用にも出さない。",
-          "mini_headline": "独立系出版社が契約でAIを禁止",
+          "headline": "ドイツ書籍業協会が\nKI-Einsatzを調査",
+          "body": "調査は出版社による生成AIの使い方、定めるルール、見込む効果を探る。",
+          "mini_headline": "BörsenvereinのAI調査",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
-                "cap": "風刺漫画・AI-generated（AI生成）"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/header_article/public/2026-11/ki_verstehen_studie_c_boersenverein.png?h=8893360f&itok=-h0RsNX8",
+                "cap": "© Börsenverein"
               },
               {
                 "t": "p",
-                "x": "原稿を不採用にするにも、編集者の時間はかかる。IFWG Publishing InternationalとIPI Comicsを運営する会社のマネージングディレクター、ジェリー・ハントマン（Gerry Huntman）は11月17日、生成AIで一部または全部が作られた投稿が編集者のもとで増えていると述べた。それらを断る時間が編集作業を圧迫しているという。"
+                "x": "出版社は生成AI（KI）をどう使っているのか。どんなルールがあるのか。出版社はどのような効用や可能性を見ているのか。Börsenverein（ドイツ書籍業協会）は調査を通じてこれをより深く理解したいとして、出版社に参加を呼びかけている。"
               },
               {
                 "t": "p",
-                "x": "契約は、作り手だけでなく出版社自身も縛る。IFWGとIPI Comicsは、生成AIで作られた、または補強された文章や画像を受け付けない。さらに、自社が出版する作品を、モデル開発者や学習用素材を提供する仲介業者に故意に提供することは決してないと誓約している。ハントマンによれば、作り手は自分の作業を支援する従来型のツールは引き続き使えるという。"
+                "x": "問われるのは実務だ。出版社の社員はどのようなAIアプリケーション（KI-Anwendungen）を使い、あるいは導入を予定しているのか。品質、表示、権利をどう扱っているのか。これまでにどのような経済的効用を得たのか。"
               },
               {
                 "t": "p",
-                "x": "Candlemark & Gleamは、著者に原稿の制作にAIを使っていないことを証明するよう求めている。SF・ファンタジー専門のこの出版社は10月の声明で、AI-generated（AI生成）の表紙画も認めないと述べた。もっともらしい世界観の構築と著者ならではの声は、読者が買うものの一部だというのが同社の主張だ。"
+                "x": "BörsenvereinのIG Digitalによるこの調査は3年連続の実施となる。分析はHighbergが担う。出版社におけるAIの役割について、包括的で根拠のある全体像を描くことが狙いだ。"
               },
               {
                 "t": "p",
-                "x": "そこで編集者には、署名済みの契約だけでは答えられない問いが残る。著者が契約に違反したと疑われる場合、何を証拠とみなすのか。作家団体のAuthors Guildは出版社に対し、著者と話し合うよう助言している。検出ツールは人間の文章を誤って判定しうると警告し、確認のために原稿を第三者のサービスにアップロードする前に著者の許可を得るべきだとしている。"
+                "x": "Börsenvereinは回答を基に支援策を的を絞って拡充する。回答にかかる時間は10-15分だ。"
+              },
+              {
+                "t": "p",
+                "x": "過去2回の調査では、大手と小規模の出版社でAI活用（KI-Einsatz）に大きな差があることが示され、生成AIの利用が急速に拡大していることも記録された。"
+              },
+              {
+                "t": "p",
+                "x": "BörsenblattはこのAI調査（KI-Studie）のメディアパートナーである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "独立出版社在作者合同中\n写入AI禁令",
-          "body": "IFWG与IPI Comics以合同禁止AI-made作品，并承诺不把书用于训练交易。",
-          "mini_headline": "独立出版社以合同禁止AI",
+          "headline": "德国书业协会调查\n出版社KI-Einsatz",
+          "body": "调查旨在了解出版社如何使用生成式AI、制定了哪些规则以及看到了哪些益处。",
+          "mini_headline": "Börsenverein的AI调查",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
-                "cap": "漫画 · AI-generated（AI生成）"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/header_article/public/2026-11/ki_verstehen_studie_c_boersenverein.png?h=8893360f&itok=-h0RsNX8",
+                "cap": "© Börsenverein"
               },
               {
                 "t": "p",
-                "x": "拒绝一份书稿仍要耗费编辑的时间。11月17日，IFWG Publishing International和IPI Comics背后公司的董事总经理格里·亨特曼（Gerry Huntman）表示，他的编辑们收到越来越多部分或全部由生成式AI制作的投稿。他说，拒稿所花的时间正在挤占编辑工作。"
+                "x": "出版社如何使用生成式AI（KI）？有哪些规则？出版社看到了哪些益处或潜力？Börsenverein（德国书业协会）希望通过一项研究更好地了解这些问题，并呼吁出版社参与。"
               },
               {
                 "t": "p",
-                "x": "这些合同既约束创作者，也约束出版社自己。IFWG和IPI Comics将拒收由生成式AI制作或增强的文字和图像。它们还承诺，绝不会在知情的情况下把自己出版的作品提供给模型开发者或提供训练素材的中介机构。亨特曼说，创作者仍可使用辅助自身创作的常规工具。"
+                "x": "问题聚焦实践：出版社员工正在使用或计划使用哪些AI应用（KI-Anwendungen）？他们如何管理质量、标注和权利？迄今看到了哪些经济效益？"
               },
               {
                 "t": "p",
-                "x": "Candlemark & Gleam要求作者证明自己没有用AI创作书稿。这家科幻与奇幻出版社在10月的一份声明中表示，它也不接受AI-generated（AI生成）的封面图。该社认为，可信的世界构建和作者独特的声音，是读者购买的内容的一部分。"
+                "x": "这项由Börsenverein旗下IG Digital开展的调查已连续第三年举行，分析工作由Highberg负责，旨在全面、扎实地呈现AI在出版社中的作用。"
               },
               {
                 "t": "p",
-                "x": "这给编辑们留下了一个仅靠签好的合同无法回答的问题：如果怀疑作者违反了协议，什么才算证据？作家团体Authors Guild建议出版社与作者沟通。它警告说，检测工具可能误标人类写的文字，并表示出版社在把书稿上传到第三方服务进行检查之前，应先征得作者许可。"
+                "x": "Börsenverein将根据答复有针对性地扩充支持服务。答卷需要10-15分钟。"
+              },
+              {
+                "t": "p",
+                "x": "前两次调查显示，大型和小型出版社在AI使用（KI-Einsatz）上差异很大，并记录了生成式AI的使用正在迅速大幅增长。"
+              },
+              {
+                "t": "p",
+                "x": "Börsenblatt是这项AI研究（KI-Studie）的媒体合作伙伴。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Editoriales independientes\nvetan la IA en sus contratos",
-          "body": "IFWG e IPI Comics vetan por contrato obras hechas con IA (AI-made) y no cederán sus libros para entrenamiento.",
-          "mini_headline": "Editoriales independientes vetan la IA por contrato",
+          "headline": "El Börsenverein pregunta\npor el uso de IA (KI-Einsatz)",
+          "body": "Una encuesta busca aclarar cómo usan las editoriales la IA generativa, qué reglas fijan y qué beneficios ven.",
+          "mini_headline": "La encuesta de IA del Börsenverein",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/editorial/c0f94490c251-manuscript-review-v1.webp",
-                "cap": "Viñeta · AI-generated (generada por IA)"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/header_article/public/2026-11/ki_verstehen_studie_c_boersenverein.png?h=8893360f&itok=-h0RsNX8",
+                "cap": "© Börsenverein"
               },
               {
                 "t": "p",
-                "x": "Rechazar un manuscrito sigue costando tiempo a un editor. El 17 de noviembre, Gerry Huntman, director gerente de la empresa detrás de IFWG Publishing International e IPI Comics, dijo que sus editores recibían cada vez más originales hechos en parte o por completo con IA generativa. Según dijo, el tiempo dedicado a rechazarlos estaba restando horas al trabajo editorial."
+                "x": "¿Cómo usan las editoriales la IA generativa (KI)? ¿Qué reglas existen? ¿Qué beneficios o potencial ven las editoriales? El Börsenverein quiere entenderlo mejor con un estudio y llama a las editoriales a participar."
               },
               {
                 "t": "p",
-                "x": "Los contratos obligan tanto a la editorial como a sus creadores. IFWG e IPI Comics rechazarán textos e imágenes creados o aumentados con IA generativa. También se comprometen a no suministrar nunca, a sabiendas, las obras que publican a desarrolladores de modelos ni a intermediarios que proporcionan material de entrenamiento. Huntman dijo que los creadores podrán seguir usando herramientas convencionales que les ayuden con su propio trabajo."
+                "x": "Se pregunta por la práctica: ¿qué aplicaciones de IA (KI-Anwendungen) utilizan o planean utilizar los empleados de las editoriales? ¿Cómo regulan la calidad, el etiquetado y los derechos? ¿Qué beneficio económico han visto hasta ahora?"
               },
               {
                 "t": "p",
-                "x": "Candlemark & Gleam pide a sus autores que certifiquen que no usaron IA para producir el manuscrito. En un comunicado de octubre, la editorial de ciencia ficción y fantasía dijo que también descarta las portadas AI-generated (generadas por IA). Sostuvo que una construcción de mundo verosímil y la voz propia de un autor forman parte de lo que compran los lectores."
+                "x": "La encuesta del IG Digital del Börsenverein se celebra por tercer año consecutivo. El análisis corre a cargo de Highberg. Así se pretende obtener una imagen amplia y fundamentada del papel de la IA en las editoriales."
               },
               {
                 "t": "p",
-                "x": "Eso deja a los editores ante una pregunta que un contrato firmado no puede responder por sí solo. ¿Qué cuenta como prueba si sospechan que un autor ha incumplido el acuerdo? El Authors Guild aconseja a las editoriales hablar con el autor. Advierte de que un detector puede marcar como sospechoso un texto escrito por una persona y dice que las editoriales deben obtener el permiso del autor antes de subir un manuscrito a un servicio externo para comprobarlo."
+                "x": "A partir de las respuestas, el Börsenverein ampliará de forma específica su oferta de apoyo. Responder lleva 10-15 minutos."
+              },
+              {
+                "t": "p",
+                "x": "Las dos primeras encuestas mostraron grandes diferencias en el uso de IA (KI-Einsatz) entre editoriales grandes y pequeñas, y documentaron que el uso de la IA generativa crece de forma masiva y rápida."
+              },
+              {
+                "t": "p",
+                "x": "El Börsenblatt es socio mediático del estudio de IA (KI-Studie)."
               }
             ]
           }

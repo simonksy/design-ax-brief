@@ -6503,6 +6503,147 @@
           "x": "「Redditはすでにそれ自体がパフォーマンスチャネルになりつつあるが、十分に活用されず、正当に評価されていないことが多い」と、パフォーマンスマーケティング代理店TinuitiのVP、Jack Johnstonは述べた。"
         }
       ]
+    },
+    "marketing/bing-aimode-ads-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/bing-ai-chat-boxes-q16E8dDy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Advertisingは、Bing AI Modeの結果で広告とオーガニック結果の見分けをさらに難しくしている。Microsoftには検索結果で何が広告で何がオーガニックの掲載かを分かりにくくしてきた非常に長い歴史があり、AI ModeやCopilot Searchでも同じことを続けると予想できる。"
+        },
+        {
+          "t": "p",
+          "x": "Khushal BherwaniがSEWに投稿した例を見ると、Bing AI Modeの結果に出る広告にはもう枠線がなく、オーガニックな回答により溶け込んで見える。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+          "cap": "AI Overviewに表示されるBing広告の新形式"
+        },
+        {
+          "t": "p",
+          "x": "以前はこう見えていた。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/usual-what-we-see-in-ai-overview-ah4e9WiH.webp",
+          "cap": "AI Overviewでいつも見ていた表示"
+        },
+        {
+          "t": "p",
+          "x": "今年初めには、Bingのほぼ透明なスポンサーラベルも見られた。以前、ほとんど見えない広告ラベルや非常に見づらい広告ラベルを取り上げた際にも、Microsoftはこうした見えない広告ラベルについて回答している。"
+        },
+        {
+          "t": "p",
+          "x": "この振る舞いが変わるとは思わない…"
+        }
+      ]
+    },
+    "marketing/accc-ai-shopping-agent-liability": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/accc-ai-shopping-agents-businesses-liable-black-friday-ventriloquist-dummy-shop-counter.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Black Fridayのセールが始まるなか、オーストラリア競争・消費者委員会（Australian Competition and Consumer Commission）は買い物客に対し、AIツールが示す情報を信頼できる情報源と照らし合わせ、AIエージェントに何かを買わせる前に明確な上限を設けるよう呼びかけた。すでにオーストラリア市場に出ている三つのエージェントとして、MetaのMuse、OpenAIのChatGPT dots、Google Tasksを挙げた。"
+        },
+        {
+          "t": "p",
+          "x": "ACCCのGina Cass-Gottlieb委員長は「AIの結果は間違うことがある」と述べ、「消費者は確認したうえで、エージェントが自分の承認を得るべきポイントを設定すべきだ」と語った。同委員会は、AIエージェントが「詐欺であることを正確に見抜けない可能性もある」と警告した。"
+        },
+        {
+          "t": "p",
+          "x": "発表文によると「企業は自社のAIチャットボットやエージェントがとる行動に責任を負う」。AIを使っても消費者保証の権利は変わらず、誤解を招く情報については「従業員によるものでも、書面でも、AIツールを通じたものでも」企業が責任を負う。AIエージェントの提供者は、その能力について顧客を誤認させてはならない。"
+        },
+        {
+          "t": "p",
+          "x": "ACCCは、エージェント型AIとエージェンティック・コマースに焦点を当てたAI Industry Snapshotの更新版を「今後数か月のうちに」公表するとしている。"
+        }
+      ]
+    },
+    "marketing/obsession-agent-instock-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://internetretailing.net/wp-content/uploads/2026/11/ob.session_report_01-1.png",
+          "cap": "画像 © ob.session"
+        },
+        {
+          "t": "p",
+          "x": "Shopifyストア向けのリアルタイム商品レコメンドエンジンであるob.sessionは、ChatGPT、Gemini、Claudeに架空の顧客Lauraの代わりに買い物をさせた。LauraはUKサイズ10の買い物客で、拠点をフランス、UK、キプロスと切り替えて設定した。推奨された商品リンクはすべて、彼女のサイズ、買い物の要望、所在地と照合した。"
+        },
+        {
+          "t": "p",
+          "x": "テストした400件を超える商品リンク全体で、LLMsの推奨が在庫ありだったのは35%にとどまった。Lauraが選んだ商品を正しいサイズと所在地で届けられた割合は、ChatGPTが45%、Geminiが33%、Claudeが21%だった。29%のケースでは、販売店でLauraのサイズが売り切れていた。"
+        },
+        {
+          "t": "p",
+          "x": "ob.sessionの共同創業者兼CCOのKsenia Sukhovaは「推奨する商品の大半が手に入らなければ、ユーザーは推奨を信じなくなる」と述べた。同氏は小売業者に対し、サイトの機械可読版にサイズ別の在庫状況を載せ、買い物客が絞り込みに使うあらゆる属性をその構造化版で公開するよう勧めている。"
+        }
+      ]
+    },
+    "marketing/shopify-agentic-chargeback-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.pymnts.com/wp-content/uploads/2026/11/Shopify.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Shopifyは水曜日（11月25日）の変更履歴で、エージェント経由の注文に対するチャージバックについて、販売者により多くの証拠を提供するようになったと明らかにした。AIショッピングアシスタントが注文し、後に顧客が支払いを承認していないと主張し、販売者の記録では顧客が何を設定したのか示せなかったケースに対応する。"
+        },
+        {
+          "t": "p",
+          "x": "Shopifyは「回答には、顧客がアシスタントに設定した支出上限、チェックアウト時に記録された支払い承認、判明している場合はアシスタントの名前を含むPayment authorization record（支払い承認記録）が含まれる」とし、「自動で追加されるため、何もする必要はない」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Shopifyはさらに、あらゆるチャージバック理由に対するAI-written（AIが作成した）回答、不正購入のチャージバック向けの支払い認証の証明、チャージバック通知を受け取るスタッフの選択機能も追加した。"
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-learnmore-cta": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIはChatGPT Adsの製品アップデートを配信し、Business AgentsのU.S.外への拡大、単一画像広告への新しいlearn moreコールトゥアクションの追加、Ads ManagerとAds APIでのオーディエンス指標の拡充、プロモーション終了時に商品フィードのセール価格を非表示にする機能、Ads Managerの新しいポリシーセンター情報を発表した。"
+        },
+        {
+          "t": "p",
+          "x": "Learn more:ChatGPTの単一画像広告は、説明文の下に「Learn more」リンクを標準で表示するようになった。Ads Managerで設定済みのランディングページが開くため、追加の設定は不要だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+          "cap": "Learn moreのコールトゥアクションが付いたChatGPTの単一画像広告"
+        },
+        {
+          "t": "p",
+          "x": "Business Agents:U.S.外の対象市場で条件を満たすeコマース・オンラインサービス事業者は、ChatGPT Business HubでBusiness Agentを作成・公開し、対象キャンペーンにSponsored Business Agentとして追加できるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "オーディエンス指標:Reachは広告を一度でも見たユニークユーザー数の推定値で、Frequencyは総インプレッション数をReachで割った値だ。OpenAIはClick Reach、Click Frequency、Total Reach、Total Frequency、Unique CTR、Unique CPC、Cost per 1,000 Reachedも追加した。"
+        },
+        {
+          "t": "p",
+          "x": "広告主は商品フィードのセール価格を非表示にして通常価格を再び表示でき、広告審査のメッセージにはどのポリシーが適用されるかが示される。OpenAIは広告承認の基準は変わっていないとしている。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
+          "cap": "OpenAIのChatGPT Adsアップデートメール"
+        }
+      ]
     }
   }
 }

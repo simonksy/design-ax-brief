@@ -19278,6 +19278,142 @@
           "x": "Orrorin 예약금은 $29부터이며 $799 가격에 포함된다. Savage는 Founder Edition 구매자에게 2027년 3월, Early Bird 구매자에게 2027년 5월부터 배송을 시작할 것으로 내다본다."
         }
       ]
+    },
+    "gadgets/xda-esp32-agent-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-claude-code.jpg?&fit=crop&w=1600&h=900",
+          "cap": "Claude Code 화면을 배경으로 놓인 Esp32 보드"
+        },
+        {
+          "t": "p",
+          "x": "XDA는 Claude Code, OpenAI Codex, Google의 Antigravity에 같은 과제를 냈다. Wi-Fi로 WS2812B RGB LED 스트립을 제어하는 ESP32 펌웨어를 짜되, 로컬 웹 대시보드와 색상·밝기 조절, 몇 가지 조명 효과를 넣고 재시작해도 설정이 남게 하라는 주문이었다. 첫 플래싱에서 모든 기능이 제대로 돌아간 에이전트는 하나뿐이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-new.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "손에 든 ESP32 센서"
+        },
+        {
+          "t": "p",
+          "x": "가장 좋은 결과를 낸 쪽은 Claude Code였다. 첫 플래싱에서 펌웨어가 작동한 것도 Claude Code뿐이다. 손대지 않아도 컴파일됐고, 애니메이션이 도는 중에도 대시보드를 쓸 수 있었다. \"Claude Code에는 후속 프롬프트를 단 한 번도 보낼 필요가 없었다.\""
+        },
+        {
+          "t": "p",
+          "x": "Codex는 거의 다 왔다. 펌웨어는 컴파일됐고 대시보드도 열렸지만, 대시보드가 펌웨어에 설정된 것과 다른 엔드포인트로 명령을 보내는 바람에 LEDs 색이 바뀌지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Google Antigravity는 애니메이션 효과를 켜면 대시보드가 먹통이 됐다. 애니메이션 코드가 ESP32를 너무 오래 붙잡고 있어서다. Codex와 Antigravity는 둘 다 한 번 더 고쳐야 했고, 승자는 분명 Claude Code였다."
+        }
+      ]
+    },
+    "gadgets/moe-smartglasses-detect": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/27/rcv.YNA.20261127.PYH2026112706610001300_P1.jpg",
+          "cap": "최은옥 교육부 장관 직무대행이 27일 국회에서 열린 교육위원회 전체회의에서 위원 질의에 답하고 있다. (사진=연합뉴스)"
+        },
+        {
+          "t": "p",
+          "x": "정부가 대학수학능력시험(수능) 부정행위 방지를 위한 스마트안경 탐지 기술 개발을 마치고 상용화를 추진한다. 인터넷 연결 없이 기기 자체에서 인공지능(AI)을 구동하는 온디바이스 AI에 대한 탐지 기술도 개발할 방침이다. 최은옥 교육부 장관 직무대행은 27일 국회 교육위원회 전체회의에서 “스마트안경을 탐지하는 기술은 개발됐고 상용화하는 단계에 들어가 있다”며 “내년 수능을 염두에 두고 기술 개발 일정을 역산해 준비하고 있다”고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "국무총리 주재 범정부 태스크포스(TF)에서 교육부는 수능 부정행위 대응을, 과학기술정보통신부는 관련 기술 개발을 담당한다. 온디바이스 AI 탐지 방안도 양 부처가 협의 중이다. 교육부는 전국 교육청과 교육지원청에 부정행위 방지 탐지 장비를 구비하는 데 약 400억원의 추가 예산이 필요할 것으로 추산했다. 다만 실제 예산 반영 여부는 확정되지 않았다. 대학별고사에서도 부정행위 방지를 위한 긴급 대응체계를 가동하고 있다."
+        },
+        {
+          "t": "p",
+          "x": "수능 이후 대학별고사를 실시한 14개교에서는 스마트기기를 활용한 부정행위 적발 사례가 없는 것으로 나타났다. 교육부는 각 대학에 대학별고사 시험지와 답안지를 전수 보관하고 합격 예정자 전원의 시험지와 답안지를 재검토하도록 안내했다. 지난해 수능 시험지를 폐기한 학교는 237개교로 파악됐다. 지난 25일 교육부가 발표한 233개교보다 4개교 늘었다. 고교 내신시험 부정행위 방지 대책과 관련해서는 교원 부담을 줄이기 위한 기술 개발을 추진한다."
+        },
+        {
+          "t": "p",
+          "x": "교육부는 지난 24일 금속탐지기를 활용한 응시생 전수검사와 필기구 일괄 지급 등을 골자로 한 대책을 발표했다. 최 대행은 “앞으로는 감독관의 부담을 늘리지 않으면서 기술 개발 등을 통해 학교 시험을 잘 감독할 방안을 마련하겠다”며 “근본적으로 시험·평가를 어떤 방식으로, 어떤 내용으로 할 것인가도 장기적으로 논의해야 할 과제”라고 말했다."
+        }
+      ]
+    },
+    "gadgets/sheiko-gpsfree-autopilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/TPpL3AULPVhwmkFHW2ZLcU.jpg",
+          "cap": "드론"
+        },
+        {
+          "t": "p",
+          "x": "11학년 학생이 여러 기술 성과를 인정받아 볼로디미르 젤렌스키(Volodymyr Zelenskyy) 대통령에게서 “The Future of Ukraine” 상을 받았다. Poltava Wave에 따르면 키이우(Kyiv)에서 서쪽으로 약 190마일 떨어진 폴타바(Poltava)의 학생 Yaroslav Sheiko는 무인항공기(UAVs)가 GPS 신호 없이도 목적지까지 날아가게 하는 AI-powered 드론 오토파일럿 시스템과 광전자 안정화 시스템을 개발했다."
+        },
+        {
+          "t": "p",
+          "x": "그는 이미 대통령 장학금을 두 번 받았다. 우크라이나 Junior Academy of Sciences가 주최한 전국 대회에서도 두 차례 최고상을 탔고, INOVA 2025 국제발명전시회 금메달과 2025 Hackathon 은메달도 땄다."
+        },
+        {
+          "t": "p",
+          "x": "우크라이나는 드론 역량을 키우려고 자체 기술도 개발 중이다. 운용이 멈춘 U.S.-made(미국산) Puma 정찰 드론에 국산 재밍 방지 시스템을 달거나, “날아다니는 모뎀” 네트워크로 Starlink에 기대지 않고 공격 드론의 작전 거리를 늘리는 식이다."
+        }
+      ]
+    },
+    "gadgets/s27-oneui95-ai-teardown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/S26-in-hand-showing-One-UI-9.5-welcome-screen-scaled.jpg",
+          "cap": "One UI 9.5 환영 화면을 띄운 S26을 손에 든 모습"
+        },
+        {
+          "t": "p",
+          "x": "One UI 9.5 Beta 1 코드는 새 Galaxy AI 기능 상당수를 “Galaxy AI version 20271”에 묶어 뒀다. Samsung 자체 코드에서 이 버전은 S27의 AI 버전으로 표기된다. Voice Recorder에서도 20261은 S26 버전, 20271은 S27 버전으로 나온다. 개발 중인 코드를 근거로 한 보도라 해당 기능이 실제로는 출시되지 않을 수도 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Beta-1-Galaxy-AI-version_1.jpg",
+          "cap": "One UI 9.5 Beta 1의 Galaxy AI 버전"
+        },
+        {
+          "t": "p",
+          "x": "잠긴 기능으로는 AI로 사진의 카메라 각도를 바꾸는 Gallery의 Recompose, 새 Camera ProScan과 Log LUT 도구, 표 전체를 잡아내는 AI select, Scam Detection 지원 언어 확대, 통화용 Audio eraser 등이 있다. S26 Ultra에 20271을 강제로 적용하자 AI select가 83행짜리 표 전체를 인식해 Copy table 칩을 띄웠다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-One-UI-9.5-Beta-1-AI-select-Copy-Table_2-scaled.jpg",
+          "cap": "One UI 9.5 Beta 1을 실행 중인 Galaxy S26 Ultra에서 Copy table 칩을 띄운 AI select"
+        },
+        {
+          "t": "p",
+          "x": "Gen Video 크레딧, Samsung Browser의 Ask anything, Now Brief의 Bixby 액션 카드 같은 20271 기능 일부는 유료 Galaxy AI Premium 등급과 묶인 것으로 보인다. 다만 Samsung은 올해 S26 기능 여러 개를 구형 폰에도 풀었다. 이 기능들이 끝까지 Galaxy S27 전용(S27-exclusive)으로 남지는 않을 수도 있다."
+        }
+      ]
+    },
+    "gadgets/xpeng-iron-humanoid-ev-price": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+          "cap": "XPENG"
+        },
+        {
+          "t": "p",
+          "x": "중국 EV 업체 XPeng은 IRON 휴머노이드 로봇을 2027년 일반에 판매할 때 가격이 전기차 한 대 값과 비슷할 수 있다고 밝혔다. 궁극적으로는 IRON을 가정에 들일 생각이지만 상업 현장 배치가 먼저다."
+        },
+        {
+          "t": "p",
+          "x": "XPeng의 Brian Gu 부회장은 Bloomberg에 IRON 가격이 EV 판매가 중앙값 수준일 수 있다고 했지만 정확한 금액은 밝히지 않았다. 로봇은 2027년 1분기 XPeng 매장에서 판매 보조원으로 훈련을 시작하고, 2분기에 일반 판매에 들어간다. XPeng은 그해 휴머노이드 로봇을 수만 대 팔겠다는 목표다."
+        },
+        {
+          "t": "p",
+          "x": "XPeng이 AI Day에서 공개한 IRON 최신 버전은 무대에서 청중 질문에 실시간으로 답했다. 자유도 76에 1,500개가 넘는 촉각 감지점, 탑재 모델과 전신 제어를 맡는 자체 Turing AI 칩 세 개를 갖췄다. XPeng에 따르면 IRON은 스스로 이동하고 음성이나 앱으로 작업을 받으며, 직접 충전하고 자기 작동 상태도 점검한다."
+        },
+        {
+          "t": "p",
+          "x": "XPeng은 상업 환경에서 출발해 산업 분야로, 이어 가정으로 영역을 넓힐 계획이다. Gu는 상업 활용에 성공한 뒤 한두 해 안에 가정 배치가 시작될 수 있다고 내다봤다. 풀어야 할 과제로는 어린이·노인·반려동물 곁에서의 안전을 꼽았다."
+        },
+        {
+          "t": "p",
+          "x": "XPeng은 하드웨어뿐 아니라 소프트웨어 구독과 업그레이드, 교육, 서비스에서 생기는 반복 매출도 기대한다."
+        }
+      ]
     }
   }
 }

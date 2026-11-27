@@ -12953,6 +12953,106 @@
           "x": "The Verge argues the idea is at odds with what makes engaging with art worthwhile, and would discourage viewers from engaging with anything not crafted to their assumed tastes."
         }
       ]
+    },
+    "movies/curious-refuge-tarmac-animation": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "dRDU8HXVzi8"
+        },
+        {
+          "t": "p",
+          "x": "Learn how to make pro-level 2D animation with AI. Albert Bozesan breaks down the workflow he uses to make his animated sitcom Tarmac, from building reusable character assets to generating a finished dialogue scene in Seedance 2.0."
+        },
+        {
+          "t": "p",
+          "x": "You’ll learn how to keep characters consistent across shots, build layered keyframes in Photoshop, and use reference images and recorded dialogue to control expressions, timing, and cuts. The same asset library can carry over from scene to scene, saving production time and generation credits."
+        },
+        {
+          "t": "p",
+          "x": "Chapters: Why AI animation looks like AI · How Tarmac reuses assets across episodes · Recording clean dialogue · Keyframes, expression sheets, and prop references · Building a layered keyframe in Photoshop · Creating character turnaround sheets · Controlling expressions and eyelines · Compositing characters into the shot · Adding depth of field · Animating the scene with Seedance 2.0 · Prompting dialogue, reactions, and cuts."
+        }
+      ]
+    },
+    "movies/4by4-pixell-cgv-4k-films": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/f7ul89_202611270248.jpg",
+          "cap": "THE COLLABORATION 2026 poster. Courtesy of Creative Mango"
+        },
+        {
+          "t": "p",
+          "x": "Korean content AI company 4BY4 used its AI PIXELL solution to enhance and upscale three AI films to 4K for THE COLLABORATION 2026, a project pairing seven Korean film directors with nine AI directors. The films screen at CGV Apgujeong on Nov. 27."
+        },
+        {
+          "t": "p",
+          "x": "4BY4, a KOSDAQ-listed content AI company, said on Nov. 26 that it sponsored the project, co-hosted by the Seoul Independent Film Festival and Creative Mango. It worked on \"The Great Extinction\" by Jang Cheol-soo, \"Toe's Liver\" by Shin Yeon-shick and \"Baldo Girl Time-Lag Attack: Happy Day\" by Park Shin-woo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.media.bluedot.so/bluedot.kentertechhub/2026/11/ip7kgm_202611270248.jpg",
+          "cap": "The three films 4BY4 upscaled to 4K with AI PIXELL. Image: 4BY4"
+        },
+        {
+          "t": "p",
+          "x": "AI PIXELL raises the resolution and sharpness of low-resolution video through upscaling, noise reduction and detail enhancement. The company said AI-generated footage can look blurry on large screens when its source resolution and texture are limited, so it focused on scene-by-scene post-production to bring the films up to 4K for theatrical screening. According to Creative Mango, the directors were very satisfied with the results."
+        },
+        {
+          "t": "p",
+          "x": "The films screen at 12 p.m. on Nov. 27 at CGV Apgujeong in Seoul, followed by a tech keynote and a director talk. 4BY4 plans to expand its picture-quality business in film."
+        }
+      ]
+    },
+    "movies/variety-rian-johnson-ai-stance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2306414526_703a9f.jpg?w=1000&h=563&crop=1",
+          "cap": "Rian Johnson at the 23rd Marrakech International Film Festival on November 22, 2026. (Photo by Aurore Marechal/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Rian Johnson has been one of Hollywood’s most outspoken critics of artificial intelligence, but the filmmaker is cautioning against “demonizing” the technology."
+        },
+        {
+          "t": "p",
+          "x": "“When something is incredibly technical and is technically using a form of generative AI, is that off limits?” Johnson asked Variety at the Marrakech International Film Festival, citing visual effects and digital film-processing tools. He pointed to the backlash against Martin Scorsese after he endorsed an AI-powered storyboarding tool. “I’m just like, ‘What are we doing?’”"
+        },
+        {
+          "t": "p",
+          "x": "Johnson praised an initiative led by Kathleen Kennedy and AFI dean Susan Ruskin: “What’s smart about it is that opposed to just demonizing the word AI as this monolith, it’s kind of saying, ‘Okay, what are we actually talking about here?’” Still, he said, “the notion of art getting better by taking away the friction involved in making art just seems completely nonsensical.”"
+        },
+        {
+          "t": "p",
+          "x": "He also said the reimagined “Poker Face” with Peter Dinklage is “in its resting place,” and he is on the second draft of a sci-fi thriller he hopes to shoot next year."
+        }
+      ]
+    },
+    "movies/luma-brandkit-character-library": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/2ylxvaa2/production/bee373752d30fac5338f90dbf9a7439d29c32be7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+          "cap": "Introducing Brand Kit and Character Library"
+        },
+        {
+          "t": "p",
+          "x": "Ask anyone who guards a brand why they haven't gone 100% in on AI, and you'll hear the same thing: AI improvises. The logo goes slightly off, the product grows a detail it never had, the brand character's face looks like their cousin by the third scene. Luma is launching two features to change that: Brand Kit and Character Library."
+        },
+        {
+          "t": "p",
+          "x": "Upload your logos, fonts and products into a Luma Brand Kit and every generation afterwards holds to them. Without a formal brand guideline, you can add your website URL and the agent will create a draft for you to review. A Brand Kit can be tied to any board as the source of truth for any generation, with no limit on the number of Brand Kits."
+        },
+        {
+          "t": "p",
+          "x": "Assets act as a digital library for characters, avatars and models, holding the source of truth for face, body, wardrobe, environments and expressions. Characters can be \"@\" referenced in boards, and Luma says it has evolved its models to make skin and hair look even more real."
+        },
+        {
+          "t": "p",
+          "x": "Because both are built into Luma's agentic creation system, they can evaluate alignment to the brand and character rules you've set: pull in a brand kit with a hashtag, a character with an @, tell Luma your brief and work with the agent to finish a 100 asset campaign. The features are available to everyone on Luma, not locked behind Enterprise."
+        }
+      ]
     }
   }
 }

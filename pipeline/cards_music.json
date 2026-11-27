@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "music",
   "cards": [
     {
-      "id": "music-suno-dismissal-denied",
+      "id": "bumastemra-yourneurotune-lawsuit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Suno 퍼블리시티권 소송\n기각 신청 불발",
-      "body": "원고 16명이 합류한 이튿날, Suno의 Isbell 소송 기각 신청이 막혔다.",
-      "mini_headline": "Suno 기각 신청 불발",
+      "headline": "YourNeuroTune에\nBumaStemra 소송",
+      "body": "BumaStemra가 Suno 음원 의혹으로 YourNeuroTune을 제소했다.",
+      "mini_headline": "BumaStemra vs YourNeuroTune 소송",
       "tool": "Music",
-      "source": "Complete Music Update",
-      "url": "https://completemusicupdate.com/judge-declines-to-dismiss-suno-publicity-rights-case-as-sixteen-more-musicians-join-the-legal-battle/",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/11/27/bumastemra-yourneurotune-lawsuit/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,173 +19,227 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/suno--2-.png"
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/The-Hague-1024x546.jpg",
+            "cap": "네덜란드 헤이그(The Hague, Netherlands). Photo Credit: Alireza Parpaei"
           },
           {
             "t": "p",
-            "x": "US(미국) 판사가 싱어송라이터 Jason Isbell이 이끄는 소송을 기각하지 않기로 했다. Suno가 아티스트의 퍼블리시티권을 침해했다는 소송이다. Angel Kelley 판사는 화요일 수정 소장이 들어오자 어제 Suno의 기각 신청을 받아들이지 않았고, “수정 소장에 비추어” 신청을 기각한다고 밝혔다."
+            "x": "BumaStemra가 YourNeuroTune에 법적 조치를 경고한 지 며칠 만에 이 AI 배경음악 업체를 법정에 세운다."
           },
           {
             "t": "p",
-            "x": "이 사건은 저작권이 아닌 퍼블리시티권을 다룬다. 소장에 따르면 Suno는 기존 아티스트의 “스타일로” 새 음악을 만들려고 “뮤지션을 이름으로 색인화”했다. 수정 소장에는 Suno의 최신 AI 모델을 겨냥한 새 주장이 담겼고, The Chicks, Carl Craig, Ezra Furman과 Willie Colón, Sam Moore의 유산관리 측 등 열여섯 아티스트가 새로 합류했다."
+            "x": "BumaStemra는 목요일(11월 26일) Digital Music News에 보낸 이메일에서 소송 사실을 확인했다. DMN이 검토한 소송 서류를 보면 소송은 네덜란드(The Netherlands)에서 이미 본격 진행 중이고, 법률 전략은 오랜 경력의 IP 변호사이자 교수인 Dirk Visser가 맡았다."
           },
           {
             "t": "p",
-            "x": "Suno는 사용자가 모델에 특정 아티스트의 스타일로 음악을 만들라는 프롬프트를 넣을 수 없다고 주장한다. 하지만 실제로 해 보면 플랫폼이 아티스트 이름을 스타일·장르 묘사로 바꿔 그 스타일의 트랙을 만들어 낸다. 소장은 “라이선스 받은 음악으로만 학습한” Suno v6도 원고들의 스타일을 모방한다며, “2026년 4월부터 8월까지 한 AI-music 차트 서비스에 제출된 검증된 AI-generated 트랙의 92.8%에서 Suno가 생성 도구로 확인됐다”고 지적한다."
+            "x": "이 네덜란드 저작권 관리 단체는 화요일 YourNeuroTune에 다음 날 정오까지 서비스를 닫지 않으면 소송을 내겠다고 최후통첩을 보냈다. 웹사이트 소개를 보면 YourNeuroTune은 헬스장, 식료품점 같은 상업 시설에 “매주 새 트랙으로 갱신되는” “프리미엄” 로열티 프리 음악 라이브러리를 제공한다."
           },
           {
             "t": "p",
-            "x": "Suno는 소송이 자사 기술의 작동 방식을 잘못 전한다고 반박한다. 주(州) 퍼블리시티권이 원고 측 말처럼 아티스트 이름까지 보호하는지도 의문을 제기하며 계속 다툴 방침이다."
+            "x": "YourNeuroTune은 Suno로 음원을 대량으로 찍어 냈다는(어쩌면 지금도 찍어 낸다는) 의혹을 받는다. DMN이 YourNeuroTune 홈페이지에 소개된 생성곡 하나를 찾아보니, Suno에 이 업체 공동 창업자 명의로 올라간 곡이었다."
+          },
+          {
+            "t": "p",
+            "x": "약식 심리는 2월 19일 헤이그(The Hague) 법원에서 열린다. YourNeuroTune은 지난 9월 미국에서 App Store와 Play Store 앱을 내놓은 것으로 보인다."
+          },
+          {
+            "t": "p",
+            "x": "BumaStemra v. YourNeuroTune은 앞으로 벌어질 일의 전조일지도 모른다. 유럽에 기반을 둔 곳을 포함해 여러 AI 오디오 업체가 공연권 라이선스를 과거의 일로 만들어 고객 비용을 줄여 주겠다고 내세운다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Suno loses bid to dismiss\nartist publicity suit",
-          "body": "A judge denied Suno's motion to dismiss the Isbell-led publicity rights lawsuit, a day after 16 more plaintiffs joined.",
-          "mini_headline": "Suno dismissal bid denied",
+          "headline": "BumaStemra takes legal action\nagainst YourNeuroTune",
+          "body": "BumaStemra has taken legal action against YourNeuroTune over royalty-free business music allegedly made with Suno.",
+          "mini_headline": "BumaStemra vs YourNeuroTune",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/suno--2-.png"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/The-Hague-1024x546.jpg",
+                "cap": "The Hague, Netherlands. Photo Credit: Alireza Parpaei"
               },
               {
                 "t": "p",
-                "x": "A US judge has declined to dismiss the lawsuit led by singer-songwriter Jason Isbell which accuses Suno of infringing the publicity rights of artists. Judge Angel Kelley denied Suno’s motion to dismiss yesterday following the submission of an amended complaint on Tuesday, saying the motion was denied “in light of the amended complaint”."
+                "x": "Days after threatening legal action against YourNeuroTune, BumaStemra is taking the AI background music provider to court."
               },
               {
                 "t": "p",
-                "x": "The case centres on publicity rights rather than copyright, accusing Suno of “indexing musicians by name” so it can generate new music “in the style” of existing artists. The amended lawsuit makes new claims about Suno’s latest AI model and sees sixteen more artists join, including The Chicks, Carl Craig and Ezra Furman, and the estates of Willie Colón and Sam Moore."
+                "x": "BumaStemra confirmed the lawsuit in an email to Digital Music News on Thursday (November 26th). According to filings reviewed by DMN, the action is now proceeding in earnest in The Netherlands, with longtime IP attorney (and professor) Dirk Visser spearheading the legal strategy."
               },
               {
                 "t": "p",
-                "x": "Suno insists users cannot prompt its model to generate music in the style of a specific artist, but if you do, the platform replaces the artist’s name with stylistic and genre descriptions and generates a track in that style. The complaint notes that Suno v6, “only trained on licensed music”, still imitates plaintiffs’ styles, and that “Suno was identified as the generation tool for 92.8% of the verified AI-generated tracks submitted to one AI-music chart service from April through August 2026”."
+                "x": "On Tuesday the Dutch collecting society had presented YourNeuroTune with an ultimatum: shut down by noon the following day or face litigation. Per its website, YourNeuroTune offers a library of “premium” royalty-free music, “refreshed with new tracks every week,” for gyms, grocery stores, and other commercial establishments."
               },
               {
                 "t": "p",
-                "x": "Suno will continue to fight the lawsuit, arguing it misrepresents how its technology works and questioning whether state publicity rights protect artist names in the ways claimed."
+                "x": "YourNeuroTune allegedly used (and perhaps still uses) Suno to pump out the audio. DMN identified one generation plugged on YourNeuroTune’s homepage and attributed to the entity’s co-founder on Suno."
+              },
+              {
+                "t": "p",
+                "x": "Summary proceedings are scheduled for February 19th in a court in The Hague. YourNeuroTune seemingly released its App Store and Play Store apps in the States this past September."
+              },
+              {
+                "t": "p",
+                "x": "BumaStemra v. YourNeuroTune could be a harbinger of things to come: different AI audio companies, multiple also based in Europe, claim they can help customers save by putting public performance licenses in the rearview."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Suno 퍼블리시티권 소송\n기각 신청 불발",
-          "body": "원고 16명이 합류한 이튿날, Suno의 Isbell 소송 기각 신청이 막혔다.",
-          "mini_headline": "Suno 기각 신청 불발",
+          "headline": "YourNeuroTune에\nBumaStemra 소송",
+          "body": "BumaStemra가 Suno 음원 의혹으로 YourNeuroTune을 제소했다.",
+          "mini_headline": "BumaStemra vs YourNeuroTune 소송",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/suno--2-.png"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/The-Hague-1024x546.jpg",
+                "cap": "네덜란드 헤이그(The Hague, Netherlands). Photo Credit: Alireza Parpaei"
               },
               {
                 "t": "p",
-                "x": "US(미국) 판사가 싱어송라이터 Jason Isbell이 이끄는 소송을 기각하지 않기로 했다. Suno가 아티스트의 퍼블리시티권을 침해했다는 소송이다. Angel Kelley 판사는 화요일 수정 소장이 들어오자 어제 Suno의 기각 신청을 받아들이지 않았고, “수정 소장에 비추어” 신청을 기각한다고 밝혔다."
+                "x": "BumaStemra가 YourNeuroTune에 법적 조치를 경고한 지 며칠 만에 이 AI 배경음악 업체를 법정에 세운다."
               },
               {
                 "t": "p",
-                "x": "이 사건은 저작권이 아닌 퍼블리시티권을 다룬다. 소장에 따르면 Suno는 기존 아티스트의 “스타일로” 새 음악을 만들려고 “뮤지션을 이름으로 색인화”했다. 수정 소장에는 Suno의 최신 AI 모델을 겨냥한 새 주장이 담겼고, The Chicks, Carl Craig, Ezra Furman과 Willie Colón, Sam Moore의 유산관리 측 등 열여섯 아티스트가 새로 합류했다."
+                "x": "BumaStemra는 목요일(11월 26일) Digital Music News에 보낸 이메일에서 소송 사실을 확인했다. DMN이 검토한 소송 서류를 보면 소송은 네덜란드(The Netherlands)에서 이미 본격 진행 중이고, 법률 전략은 오랜 경력의 IP 변호사이자 교수인 Dirk Visser가 맡았다."
               },
               {
                 "t": "p",
-                "x": "Suno는 사용자가 모델에 특정 아티스트의 스타일로 음악을 만들라는 프롬프트를 넣을 수 없다고 주장한다. 하지만 실제로 해 보면 플랫폼이 아티스트 이름을 스타일·장르 묘사로 바꿔 그 스타일의 트랙을 만들어 낸다. 소장은 “라이선스 받은 음악으로만 학습한” Suno v6도 원고들의 스타일을 모방한다며, “2026년 4월부터 8월까지 한 AI-music 차트 서비스에 제출된 검증된 AI-generated 트랙의 92.8%에서 Suno가 생성 도구로 확인됐다”고 지적한다."
+                "x": "이 네덜란드 저작권 관리 단체는 화요일 YourNeuroTune에 다음 날 정오까지 서비스를 닫지 않으면 소송을 내겠다고 최후통첩을 보냈다. 웹사이트 소개를 보면 YourNeuroTune은 헬스장, 식료품점 같은 상업 시설에 “매주 새 트랙으로 갱신되는” “프리미엄” 로열티 프리 음악 라이브러리를 제공한다."
               },
               {
                 "t": "p",
-                "x": "Suno는 소송이 자사 기술의 작동 방식을 잘못 전한다고 반박한다. 주(州) 퍼블리시티권이 원고 측 말처럼 아티스트 이름까지 보호하는지도 의문을 제기하며 계속 다툴 방침이다."
+                "x": "YourNeuroTune은 Suno로 음원을 대량으로 찍어 냈다는(어쩌면 지금도 찍어 낸다는) 의혹을 받는다. DMN이 YourNeuroTune 홈페이지에 소개된 생성곡 하나를 찾아보니, Suno에 이 업체 공동 창업자 명의로 올라간 곡이었다."
+              },
+              {
+                "t": "p",
+                "x": "약식 심리는 2월 19일 헤이그(The Hague) 법원에서 열린다. YourNeuroTune은 지난 9월 미국에서 App Store와 Play Store 앱을 내놓은 것으로 보인다."
+              },
+              {
+                "t": "p",
+                "x": "BumaStemra v. YourNeuroTune은 앞으로 벌어질 일의 전조일지도 모른다. 유럽에 기반을 둔 곳을 포함해 여러 AI 오디오 업체가 공연권 라이선스를 과거의 일로 만들어 고객 비용을 줄여 주겠다고 내세운다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Suno、パブリシティ訴訟\n却下申し立て退けられる",
-          "body": "原告16人が加わった翌日、判事はIsbell氏主導の訴訟でSunoの却下申し立てを退けた。",
-          "mini_headline": "Suno、却下申し立て退けられる",
+          "headline": "YourNeuroTuneを\nBumaStemraが提訴",
+          "body": "BumaStemraがSuno製とされる音楽を巡りYourNeuroTuneを提訴した。",
+          "mini_headline": "BumaStemra vs YourNeuroTune",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/suno--2-.png"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/The-Hague-1024x546.jpg",
+                "cap": "オランダ・ハーグ(The Hague, Netherlands)。Photo Credit: Alireza Parpaei"
               },
               {
                 "t": "p",
-                "x": "US(米国)の判事が、シンガーソングライターのJason Isbell氏が主導し、Sunoがアーティストのパブリシティ権を侵害したと訴える訴訟の却下を認めなかった。Angel Kelley判事は火曜日に修正訴状が提出されたことを受け、昨日Sunoの却下申し立てを退け、「修正訴状に照らして」申し立てを却下したと述べた。"
+                "x": "YourNeuroTuneに法的措置を警告してから数日、BumaStemraはこのAI背景音楽事業者を提訴する。"
               },
               {
                 "t": "p",
-                "x": "この訴訟は著作権ではなくパブリシティ権を争点とし、Sunoが既存アーティストの「スタイルで」新たな音楽を生成するために「ミュージシャンを名前で索引化している」と主張する。修正訴状はSunoの最新AIモデルに関する新たな主張を加え、The Chicks、Carl Craig、Ezra Furman、そしてWillie ColónとSam Mooreの遺産管理団体を含む十六組のアーティストが新たに加わった。"
+                "x": "BumaStemraは木曜日(11月26日)、Digital Music Newsへのメールで提訴を認めた。DMNが確認した訴訟書類によると、手続きはオランダ(The Netherlands)で本格的に進んでおり、IP分野のベテラン弁護士で教授でもあるDirk Visserが法廷戦略を率いている。"
               },
               {
                 "t": "p",
-                "x": "Sunoは、ユーザーが特定アーティストのスタイルで音楽を生成するようモデルにプロンプトを与えることはできないと主張するが、実際に試すとプラットフォームはアーティスト名をスタイルやジャンルの記述に置き換え、そのスタイルのトラックを生成する。訴状は、「ライセンス済みの音楽のみで学習した」Suno v6も原告らのスタイルを模倣していると指摘し、「2026年4月から8月にかけて、あるAI-musicチャートサービスに提出された検証済みのAI-generatedトラックの92.8%で、Sunoが生成ツールとして特定された」と記している。"
+                "x": "このオランダの著作権管理団体は火曜日、YourNeuroTuneに対し、翌日正午までにサービスを停止しなければ訴訟に踏み切るとの最後通告を突きつけていた。同社のウェブサイトによれば、YourNeuroTuneはジムや食料品店などの商業施設向けに、「毎週新曲で更新される」「プレミアム」なロイヤリティフリー音楽のライブラリを提供している。"
               },
               {
                 "t": "p",
-                "x": "Sunoは、訴訟が自社技術の仕組みを誤って伝えていると主張し、州のパブリシティ権が原告の言うような形でアーティスト名を保護するのかにも疑問を呈しており、引き続き争う構えだ。"
+                "x": "YourNeuroTuneはSunoを使って音源を量産していた(もしかすると今も続けている)とされる。DMNは、YourNeuroTuneのホームページで紹介され、Suno上で同社の共同創業者の名義になっている生成曲を一つ特定した。"
+              },
+              {
+                "t": "p",
+                "x": "略式審理は2月19日、ハーグ(The Hague)の裁判所で予定されている。YourNeuroTuneはこの9月、米国でApp StoreとPlay Storeのアプリを公開したとみられる。"
+              },
+              {
+                "t": "p",
+                "x": "BumaStemra v. YourNeuroTuneは今後の展開の前触れになりうる。欧州を拠点とする複数の企業を含むさまざまなAIオーディオ企業が、公演権ライセンスを過去のものにして顧客のコストを削減できると主張している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Suno申请驳回\n公开权诉讼被拒",
-          "body": "在又有16名原告加入次日，法官驳回了Suno撤销Isbell牵头公开权诉讼的动议。",
-          "mini_headline": "Suno驳回动议被拒",
+          "headline": "BumaStemra起诉\nYourNeuroTune",
+          "body": "BumaStemra就涉嫌用Suno生成的免版税商用音乐起诉YourNeuroTune。",
+          "mini_headline": "BumaStemra vs YourNeuroTune",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/suno--2-.png"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/The-Hague-1024x546.jpg",
+                "cap": "荷兰海牙（The Hague, Netherlands）。Photo Credit: Alireza Parpaei"
               },
               {
                 "t": "p",
-                "x": "一名US（美国）法官拒绝驳回由创作型歌手Jason Isbell牵头的诉讼，该诉讼指控Suno侵犯艺术家的公开权。原告于周二提交修改后的起诉状后，法官Angel Kelley于昨日驳回了Suno提出的驳回起诉动议，并表示该动议是“鉴于修改后的起诉状”而被驳回。"
+                "x": "在威胁对YourNeuroTune采取法律行动几天后，BumaStemra正将这家AI背景音乐提供商告上法庭。"
               },
               {
                 "t": "p",
-                "x": "此案的核心是公开权而非版权，指控Suno“按姓名为音乐人建立索引”，从而能以现有艺术家的“风格”生成新音乐。修改后的起诉状针对Suno最新的AI模型提出了新的指控，另有十六位艺术家加入，包括The Chicks、Carl Craig和Ezra Furman，以及Willie Colón和Sam Moore的遗产管理方。"
+                "x": "BumaStemra于周四（11月26日）在给Digital Music News的电子邮件中证实了这起诉讼。据DMN查阅的诉讼文件，诉讼已在荷兰（The Netherlands）正式推进，由资深IP律师（兼教授）Dirk Visser主导法律策略。"
               },
               {
                 "t": "p",
-                "x": "Suno坚称用户无法通过提示让其模型生成特定艺术家风格的音乐，但如果用户这样做，平台会把艺术家姓名替换为风格和流派描述，再生成该风格的曲目。起诉状指出，“仅使用授权音乐训练”的Suno v6仍在模仿原告的风格，并称“在2026年4月至8月提交给某AI-music榜单服务的经验证AI-generated曲目中，Suno被认定为其中92.8%的生成工具”。"
+                "x": "这家荷兰版权集体管理组织周二向YourNeuroTune发出最后通牒：在次日中午前关闭，否则将面临诉讼。根据其网站，YourNeuroTune为健身房、超市等商业场所提供“高级”免版税音乐库，“每周更新新曲目”。"
               },
               {
                 "t": "p",
-                "x": "Suno将继续应诉，称该诉讼歪曲了其技术的运作方式，并质疑州一级的公开权是否如原告所称那样保护艺术家姓名。"
+                "x": "据称YourNeuroTune曾使用（或许至今仍在使用）Suno批量生成音频。DMN找到了一首在YourNeuroTune主页上推介、并在Suno上署名为该公司联合创始人的生成作品。"
+              },
+              {
+                "t": "p",
+                "x": "简易程序定于2月19日在海牙（The Hague）的一家法院进行。YourNeuroTune似乎已于今年9月在美国上线App Store和Play Store应用。"
+              },
+              {
+                "t": "p",
+                "x": "BumaStemra v. YourNeuroTune或许预示着未来的走向：多家AI音频公司（其中不少同样位于欧洲）声称，可以让客户摆脱公开表演许可，从而节省开支。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Suno no logra frenar la demanda\npor derechos de imagen",
-          "body": "Una jueza rechazó desestimar la demanda de Isbell contra Suno, un día después de sumarse 16 demandantes más.",
-          "mini_headline": "Rechazada la moción de Suno",
+          "headline": "BumaStemra emprende acciones\nlegales contra YourNeuroTune",
+          "body": "BumaStemra emprende acciones legales contra YourNeuroTune por música sin regalías supuestamente hecha con Suno.",
+          "mini_headline": "BumaStemra vs YourNeuroTune",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/suno--2-.png"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/The-Hague-1024x546.jpg",
+                "cap": "La Haya, Países Bajos (The Hague, Netherlands). Photo Credit: Alireza Parpaei"
               },
               {
                 "t": "p",
-                "x": "Una jueza de Estados Unidos (US) se negó a desestimar la demanda encabezada por el cantautor Jason Isbell, que acusa a Suno de infringir los derechos de imagen de los artistas. La jueza Angel Kelley rechazó ayer la moción de Suno para desestimar el caso tras la presentación de una demanda enmendada el martes, y señaló que la moción se rechazaba “a la luz de la demanda enmendada”."
+                "x": "Días después de amenazar con acciones legales a YourNeuroTune, BumaStemra lleva a los tribunales a este proveedor de música de fondo con AI."
               },
               {
                 "t": "p",
-                "x": "El caso se centra en los derechos de imagen y no en los derechos de autor, y acusa a Suno de “indexar a los músicos por su nombre” para poder generar música nueva “al estilo” de artistas existentes. La demanda enmendada plantea nuevas acusaciones sobre el último modelo de AI de Suno y suma a dieciséis artistas más, entre ellos The Chicks, Carl Craig y Ezra Furman, además de los herederos de Willie Colón y Sam Moore."
+                "x": "BumaStemra confirmó la demanda en un correo electrónico a Digital Music News el jueves (26 de noviembre). Según los documentos revisados por DMN, el proceso ya avanza en firme en los Países Bajos (The Netherlands), con el veterano abogado de IP (y profesor) Dirk Visser al frente de la estrategia legal."
               },
               {
                 "t": "p",
-                "x": "Suno sostiene que los usuarios no pueden pedir a su modelo que genere música al estilo de un artista concreto, pero si se intenta, la plataforma sustituye el nombre del artista por descripciones de estilo y género y genera una pista con ese estilo. La demanda señala que Suno v6, “entrenado solo con música con licencia”, sigue imitando los estilos de los demandantes, y que “Suno fue identificado como la herramienta de generación del 92.8% de las pistas AI-generated verificadas enviadas a un servicio de listas de AI-music entre abril y agosto de 2026”."
+                "x": "El martes, la sociedad de gestión neerlandesa había dado a YourNeuroTune un ultimátum: cerrar antes del mediodía del día siguiente o enfrentarse a un litigio. Según su sitio web, YourNeuroTune ofrece un catálogo de música «premium» libre de regalías, «renovado con nuevas pistas cada semana», para gimnasios, supermercados y otros establecimientos comerciales."
               },
               {
                 "t": "p",
-                "x": "Suno seguirá combatiendo la demanda: sostiene que tergiversa el funcionamiento de su tecnología y cuestiona que los derechos de imagen estatales protejan los nombres de los artistas de la forma que se alega."
+                "x": "YourNeuroTune presuntamente utilizó (y quizá aún utiliza) Suno para producir el audio en masa. DMN identificó una generación promocionada en la página de inicio de YourNeuroTune y atribuida en Suno al cofundador de la empresa."
+              },
+              {
+                "t": "p",
+                "x": "El procedimiento sumario está programado para el 19 de febrero en un tribunal de La Haya (The Hague). Al parecer, YourNeuroTune lanzó sus aplicaciones en App Store y Play Store en Estados Unidos el pasado septiembre."
+              },
+              {
+                "t": "p",
+                "x": "BumaStemra v. YourNeuroTune podría anticipar lo que está por venir: distintas empresas de audio con AI, varias de ellas también con sede en Europa, aseguran que pueden ayudar a sus clientes a ahorrar dejando atrás las licencias de comunicación pública."
               }
             ]
           }
@@ -193,121 +247,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Suno 퍼블리시티권 소송\n기각 신청 불발",
-          "body": "원고 16명 합류 이튿날, Suno의 Isbell 소송 기각 신청이 불발됐다.",
-          "mini_headline": "Suno 기각 신청 불발",
+          "headline": "YourNeuroTune에\nBumaStemra 소송",
+          "body": "BumaStemra가 Suno 음원 의혹으로 YourNeuroTune을 제소했다.",
+          "mini_headline": "BumaStemra vs YourNeuroTune 소송",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/suno--2-.png"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/The-Hague-1024x546.jpg",
+                "cap": "네덜란드 헤이그(The Hague, Netherlands). Photo Credit: Alireza Parpaei"
               },
               {
                 "t": "p",
-                "x": "US(미국)의 한 판사가 싱어송라이터 Jason Isbell이 주도하는 소송, 즉 Suno가 아티스트의 퍼블리시티권을 침해했다고 주장하는 소송을 기각하지 않기로 했다. Angel Kelley 판사는 화요일 수정 소장이 제출된 뒤 어제 Suno의 기각 신청을 받아들이지 않았으며, “수정 소장에 비추어” 신청을 기각한다고 밝혔다."
+                "x": "YourNeuroTune에 법적 조치를 경고한 지 며칠 만에 BumaStemra가 이 AI 배경음악 업체를 법정에 세운다."
               },
               {
                 "t": "p",
-                "x": "이 사건은 저작권이 아닌 퍼블리시티권을 다루며, Suno가 기존 아티스트의 “스타일로” 새 음악을 생성하려고 “뮤지션을 이름으로 색인화”했다고 주장한다. 수정 소장은 Suno의 최신 AI 모델에 관한 새로운 주장을 담았고, The Chicks, Carl Craig, Ezra Furman과 Willie Colón, Sam Moore의 유산관리 측 등 열여섯 아티스트가 새로 합류했다."
+                "x": "BumaStemra는 목요일(11월 26일) Digital Music News에 보낸 이메일에서 소송 사실을 확인했다. DMN이 검토한 소송 서류에 따르면 소송은 네덜란드(The Netherlands)에서 본격적으로 진행 중이며, 오랜 경력의 IP 변호사이자 교수인 Dirk Visser가 법률 전략을 이끈다."
               },
               {
                 "t": "p",
-                "x": "Suno는 사용자가 특정 아티스트의 스타일로 음악을 생성하도록 모델에 프롬프트를 입력할 수 없다고 주장하지만, 실제로 시도하면 플랫폼은 아티스트 이름을 스타일·장르 묘사로 바꿔 그 스타일의 트랙을 생성한다. 소장은 “라이선스 받은 음악으로만 학습한” Suno v6도 원고들의 스타일을 모방하며, “2026년 4월부터 8월까지 한 AI-music 차트 서비스에 제출된 검증된 AI-generated 트랙의 92.8%에서 Suno가 생성 도구로 확인됐다”고 지적한다."
+                "x": "이 네덜란드 저작권 관리 단체는 화요일 YourNeuroTune에 다음 날 정오까지 서비스를 닫지 않으면 소송을 제기하겠다는 최후통첩을 보냈다. 웹사이트에 따르면 YourNeuroTune은 헬스장, 식료품점 등 상업 시설을 위해 “매주 새 트랙으로 갱신되는” “프리미엄” 로열티 프리 음악 라이브러리를 제공한다."
               },
               {
                 "t": "p",
-                "x": "Suno는 소송이 자사 기술의 작동 방식을 잘못 전하고 있다고 주장하며, 주(州) 퍼블리시티권이 원고 측 주장대로 아티스트 이름을 보호하는지에도 의문을 제기하면서 계속 다툴 방침이다."
+                "x": "YourNeuroTune은 Suno로 음원을 대량으로 찍어 냈다는(어쩌면 지금도 그렇다는) 의혹을 받는다. DMN은 YourNeuroTune 홈페이지에 소개된 생성곡 하나를 찾아냈는데, Suno에서 이 업체의 공동 창업자 명의로 올라간 곡이었다."
+              },
+              {
+                "t": "p",
+                "x": "약식 심리는 2월 19일 헤이그(The Hague)의 법원에서 열린다. YourNeuroTune은 지난 9월 미국에서 App Store와 Play Store 앱을 출시한 것으로 보인다."
+              },
+              {
+                "t": "p",
+                "x": "BumaStemra v. YourNeuroTune은 앞으로 벌어질 일의 전조가 될 수 있다. 유럽에 기반을 둔 곳을 포함한 여러 AI 오디오 업체가 공연권 라이선스를 과거의 일로 만들어 고객 비용을 줄여 주겠다고 내세우고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Suno、パブリシティ訴訟\n却下申し立て退けられる",
-          "body": "原告16人が加わった翌日、判事はIsbell氏主導の訴訟でSunoの却下申し立てを退けた。",
-          "mini_headline": "Suno、却下申し立て退けられる",
+          "headline": "YourNeuroTuneを\nBumaStemraが提訴",
+          "body": "BumaStemraがSuno製とされる音楽を巡りYourNeuroTuneを提訴した。",
+          "mini_headline": "BumaStemra vs YourNeuroTune",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/suno--2-.png"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/The-Hague-1024x546.jpg",
+                "cap": "オランダ・ハーグ(The Hague, Netherlands)。Photo Credit: Alireza Parpaei"
               },
               {
                 "t": "p",
-                "x": "US(米国)の判事が、シンガーソングライターのJason Isbell氏が主導し、Sunoがアーティストのパブリシティ権を侵害したと訴える訴訟の却下を認めなかった。Angel Kelley判事は火曜日に修正訴状が提出されたことを受け、昨日Sunoの却下申し立てを退け、「修正訴状に照らして」申し立てを却下したと述べた。"
+                "x": "YourNeuroTuneに法的措置を警告してから数日、BumaStemraはこのAI背景音楽事業者を提訴する。"
               },
               {
                 "t": "p",
-                "x": "この訴訟は著作権ではなくパブリシティ権を争点とし、Sunoが既存アーティストの「スタイルで」新たな音楽を生成するために「ミュージシャンを名前で索引化している」と主張する。修正訴状はSunoの最新AIモデルに関する新たな主張を加え、The Chicks、Carl Craig、Ezra Furman、そしてWillie ColónとSam Mooreの遺産管理団体を含む十六組のアーティストが新たに加わった。"
+                "x": "BumaStemraは木曜日(11月26日)、Digital Music Newsへのメールで提訴を認めた。DMNが確認した訴訟書類によると、手続きはオランダ(The Netherlands)で本格的に進んでおり、IP分野のベテラン弁護士で教授でもあるDirk Visserが法廷戦略を率いている。"
               },
               {
                 "t": "p",
-                "x": "Sunoは、ユーザーが特定アーティストのスタイルで音楽を生成するようモデルにプロンプトを与えることはできないと主張するが、実際に試すとプラットフォームはアーティスト名をスタイルやジャンルの記述に置き換え、そのスタイルのトラックを生成する。訴状は、「ライセンス済みの音楽のみで学習した」Suno v6も原告らのスタイルを模倣していると指摘し、「2026年4月から8月にかけて、あるAI-musicチャートサービスに提出された検証済みのAI-generatedトラックの92.8%で、Sunoが生成ツールとして特定された」と記している。"
+                "x": "このオランダの著作権管理団体は火曜日、YourNeuroTuneに対し、翌日正午までにサービスを停止しなければ訴訟に踏み切るとの最後通告を突きつけていた。同社のウェブサイトによれば、YourNeuroTuneはジムや食料品店などの商業施設向けに、「毎週新曲で更新される」「プレミアム」なロイヤリティフリー音楽のライブラリを提供している。"
               },
               {
                 "t": "p",
-                "x": "Sunoは、訴訟が自社技術の仕組みを誤って伝えていると主張し、州のパブリシティ権が原告の言うような形でアーティスト名を保護するのかにも疑問を呈しており、引き続き争う構えだ。"
+                "x": "YourNeuroTuneはSunoを使って音源を量産していた(もしかすると今も続けている)とされる。DMNは、YourNeuroTuneのホームページで紹介され、Suno上で同社の共同創業者の名義になっている生成曲を一つ特定した。"
+              },
+              {
+                "t": "p",
+                "x": "略式審理は2月19日、ハーグ(The Hague)の裁判所で予定されている。YourNeuroTuneはこの9月、米国でApp StoreとPlay Storeのアプリを公開したとみられる。"
+              },
+              {
+                "t": "p",
+                "x": "BumaStemra v. YourNeuroTuneは今後の展開の前触れになりうる。欧州を拠点とする複数の企業を含むさまざまなAIオーディオ企業が、公演権ライセンスを過去のものにして顧客のコストを削減できると主張している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Suno申请驳回\n公开权诉讼被拒",
-          "body": "在又有16名原告加入次日，法官驳回了Suno撤销Isbell牵头公开权诉讼的动议。",
-          "mini_headline": "Suno驳回动议被拒",
+          "headline": "BumaStemra起诉\nYourNeuroTune",
+          "body": "BumaStemra就涉嫌用Suno生成的免版税商用音乐起诉YourNeuroTune。",
+          "mini_headline": "BumaStemra vs YourNeuroTune",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/suno--2-.png"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/The-Hague-1024x546.jpg",
+                "cap": "荷兰海牙（The Hague, Netherlands）。Photo Credit: Alireza Parpaei"
               },
               {
                 "t": "p",
-                "x": "一名US（美国）法官拒绝驳回由创作型歌手Jason Isbell牵头的诉讼，该诉讼指控Suno侵犯艺术家的公开权。原告于周二提交修改后的起诉状后，法官Angel Kelley于昨日驳回了Suno提出的驳回起诉动议，并表示该动议是“鉴于修改后的起诉状”而被驳回。"
+                "x": "在威胁对YourNeuroTune采取法律行动几天后，BumaStemra正将这家AI背景音乐提供商告上法庭。"
               },
               {
                 "t": "p",
-                "x": "此案的核心是公开权而非版权，指控Suno“按姓名为音乐人建立索引”，从而能以现有艺术家的“风格”生成新音乐。修改后的起诉状针对Suno最新的AI模型提出了新的指控，另有十六位艺术家加入，包括The Chicks、Carl Craig和Ezra Furman，以及Willie Colón和Sam Moore的遗产管理方。"
+                "x": "BumaStemra于周四（11月26日）在给Digital Music News的电子邮件中证实了这起诉讼。据DMN查阅的诉讼文件，诉讼已在荷兰（The Netherlands）正式推进，由资深IP律师（兼教授）Dirk Visser主导法律策略。"
               },
               {
                 "t": "p",
-                "x": "Suno坚称用户无法通过提示让其模型生成特定艺术家风格的音乐，但如果用户这样做，平台会把艺术家姓名替换为风格和流派描述，再生成该风格的曲目。起诉状指出，“仅使用授权音乐训练”的Suno v6仍在模仿原告的风格，并称“在2026年4月至8月提交给某AI-music榜单服务的经验证AI-generated曲目中，Suno被认定为其中92.8%的生成工具”。"
+                "x": "这家荷兰版权集体管理组织周二向YourNeuroTune发出最后通牒：在次日中午前关闭，否则将面临诉讼。根据其网站，YourNeuroTune为健身房、超市等商业场所提供“高级”免版税音乐库，“每周更新新曲目”。"
               },
               {
                 "t": "p",
-                "x": "Suno将继续应诉，称该诉讼歪曲了其技术的运作方式，并质疑州一级的公开权是否如原告所称那样保护艺术家姓名。"
+                "x": "据称YourNeuroTune曾使用（或许至今仍在使用）Suno批量生成音频。DMN找到了一首在YourNeuroTune主页上推介、并在Suno上署名为该公司联合创始人的生成作品。"
+              },
+              {
+                "t": "p",
+                "x": "简易程序定于2月19日在海牙（The Hague）的一家法院进行。YourNeuroTune似乎已于今年9月在美国上线App Store和Play Store应用。"
+              },
+              {
+                "t": "p",
+                "x": "BumaStemra v. YourNeuroTune或许预示着未来的走向：多家AI音频公司（其中不少同样位于欧洲）声称，可以让客户摆脱公开表演许可，从而节省开支。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Suno no logra frenar la demanda\npor derechos de imagen",
-          "body": "Una jueza rechazó desestimar la demanda de Isbell contra Suno, un día después de sumarse 16 demandantes más.",
-          "mini_headline": "Rechazada la moción de Suno",
+          "headline": "BumaStemra emprende acciones\nlegales contra YourNeuroTune",
+          "body": "BumaStemra emprende acciones legales contra YourNeuroTune por música sin regalías supuestamente hecha con Suno.",
+          "mini_headline": "BumaStemra vs YourNeuroTune",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/suno--2-.png"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/The-Hague-1024x546.jpg",
+                "cap": "La Haya, Países Bajos (The Hague, Netherlands). Photo Credit: Alireza Parpaei"
               },
               {
                 "t": "p",
-                "x": "Una jueza de Estados Unidos (US) se negó a desestimar la demanda encabezada por el cantautor Jason Isbell, que acusa a Suno de infringir los derechos de imagen de los artistas. La jueza Angel Kelley rechazó ayer la moción de Suno para desestimar el caso tras la presentación de una demanda enmendada el martes, y señaló que la moción se rechazaba “a la luz de la demanda enmendada”."
+                "x": "Días después de amenazar con acciones legales a YourNeuroTune, BumaStemra lleva a los tribunales a este proveedor de música de fondo con AI."
               },
               {
                 "t": "p",
-                "x": "El caso se centra en los derechos de imagen y no en los derechos de autor, y acusa a Suno de “indexar a los músicos por su nombre” para poder generar música nueva “al estilo” de artistas existentes. La demanda enmendada plantea nuevas acusaciones sobre el último modelo de AI de Suno y suma a dieciséis artistas más, entre ellos The Chicks, Carl Craig y Ezra Furman, además de los herederos de Willie Colón y Sam Moore."
+                "x": "BumaStemra confirmó la demanda en un correo electrónico a Digital Music News el jueves (26 de noviembre). Según los documentos revisados por DMN, el proceso ya avanza en firme en los Países Bajos (The Netherlands), con el veterano abogado de IP (y profesor) Dirk Visser al frente de la estrategia legal."
               },
               {
                 "t": "p",
-                "x": "Suno sostiene que los usuarios no pueden pedir a su modelo que genere música al estilo de un artista concreto, pero si se intenta, la plataforma sustituye el nombre del artista por descripciones de estilo y género y genera una pista con ese estilo. La demanda señala que Suno v6, “entrenado solo con música con licencia”, sigue imitando los estilos de los demandantes, y que “Suno fue identificado como la herramienta de generación del 92.8% de las pistas AI-generated verificadas enviadas a un servicio de listas de AI-music entre abril y agosto de 2026”."
+                "x": "El martes, la sociedad de gestión neerlandesa había dado a YourNeuroTune un ultimátum: cerrar antes del mediodía del día siguiente o enfrentarse a un litigio. Según su sitio web, YourNeuroTune ofrece un catálogo de música «premium» libre de regalías, «renovado con nuevas pistas cada semana», para gimnasios, supermercados y otros establecimientos comerciales."
               },
               {
                 "t": "p",
-                "x": "Suno seguirá combatiendo la demanda: sostiene que tergiversa el funcionamiento de su tecnología y cuestiona que los derechos de imagen estatales protejan los nombres de los artistas de la forma que se alega."
+                "x": "YourNeuroTune presuntamente utilizó (y quizá aún utiliza) Suno para producir el audio en masa. DMN identificó una generación promocionada en la página de inicio de YourNeuroTune y atribuida en Suno al cofundador de la empresa."
+              },
+              {
+                "t": "p",
+                "x": "El procedimiento sumario está programado para el 19 de febrero en un tribunal de La Haya (The Hague). Al parecer, YourNeuroTune lanzó sus aplicaciones en App Store y Play Store en Estados Unidos el pasado septiembre."
+              },
+              {
+                "t": "p",
+                "x": "BumaStemra v. YourNeuroTune podría anticipar lo que está por venir: distintas empresas de audio con AI, varias de ellas también con sede en Europa, aseguran que pueden ayudar a sus clientes a ahorrar dejando atrás las licencias de comunicación pública."
               }
             ]
           }
@@ -315,249 +405,243 @@
       }
     },
     {
-      "id": "ua-universe-luna-addons",
+      "id": "musixmatch-pro-artists-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "LUNA, AI-coded\n애드온에 문 연다",
-      "body": "UA Universe에선 Claude Code 등 AI로 LUNA 애드온을 짠다.",
-      "mini_headline": "LUNA, AI 애드온에 개방",
+      "headline": "Musixmatch Pro\nAI 가사 도구 추가",
+      "body": "Musixmatch가 AI 가사 전사·time-sync와 Wallet을 더했다.",
+      "mini_headline": "Musixmatch Pro, AI 가사 기능 추가",
       "tool": "Music",
-      "source": "Gearnews",
-      "url": "https://www.gearnews.com/ua-universe-studio/",
-      "accent": "#7928ca",
+      "source": "Music Week",
+      "url": "https://www.musicweek.com/digital/read/musixmatch-launches-enhanced-musixmatch-pro-for-artists-platform/095588",
+      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft2.jpg",
-            "cap": "UA Universe: LUNA를 위한 새로운 개발자 플랫폼이자 커뮤니티 · 출처: Universal Audio"
+            "src": "https://www.musicweek.com/cimages/d6750af0b2f101ffd3cc30db853ca2be.jpg",
+            "cap": "Marco Paglia, Musixmatch"
           },
           {
             "t": "p",
-            "x": "UA Universe는 현재 공개 베타로, JavaScript-based 개발 키트로 맞춤형 LUNA 워크플로 도구와 개선 기능을 만들어 공유하게 해 준다. UA Universe에서는 LUNA 안에서 Claude Code, Codex 같은 AI 어시스턴트에 텍스트 프롬프트를 넣어 사용자 경험을 입맛대로 바꾸고, 만든 도구는 온라인 커뮤니티에 올릴 수 있다."
+            "x": "2021년 처음 나온 Musixmatch Pro For Artists는 아티스트와 매니저가 가사를 전사하고 타임 싱크를 맞춰 주요 스트리밍·소셜 플랫폼으로 전 세계에 배포하게 돕는 통합 가사 플랫폼이다."
           },
           {
             "t": "p",
-            "x": "악기나 프로세싱 플러그인은 만들 수 없다. 대신 이 새 SDK로 다양한 녹음·프로덕션 용도에 맞춰 사용자 경험을 높이는 애드온과 맞춤 설정을 개발한다. 애드온은 현재 LUNA 세션을 실시간으로 읽고 고치며, 파라미터 제어와 MIDI 편집도 여기에 들어간다."
+            "x": "플랫폼은 이제 가사 배포 너머로 영역을 넓힌다. 새 기능으로 한층 개선된 AI-powered 가사 전사와 타임 싱크 도구가 들어가, 배포용 가사를 준비하는 시간과 수고를 크게 줄여 준다."
           },
           {
             "t": "p",
-            "x": "애드온이 실행한 동작은 모두 LUNA 실행 취소 기록에 남아, 워크플로를 설계하며 단계별로 되짚을 수 있다. 모의 환경도 있어서 LUNA에 실제로 적용하기 전에 애드온을 테스트하고 디버그할 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-interdaw.jpg",
-            "cap": "@cp666-dev가 만든 InterDAW 애드온 · 출처: Universal Audio"
+            "x": "팬 참여를 더 깊이 들여다보는 통합 분석 대시보드, 가사 굿즈 판매·추천 수익을 관리하는 새 Wallet도 들였다."
           },
           {
             "t": "p",
-            "x": "익숙한 워크플로 일부를 LUNA 안에서 재현할 수 있다는 얘기다. Reaper 커뮤니티에서 그랬듯 UA Universe 커뮤니티에도 Logic Pro나 Pro Tools 스킨이 나와, 한 DAW에서 다른 DAW로 더 매끄럽게 넘어가게 해 줄 수 있다."
+            "x": "“가사는 사람들이 음악과 연결되는 가장 강력한 방법 중 하나로, 청취자가 아티스트를 발견하고 오래가는 팬이 되도록 돕는다”고 Musixmatch 공동 사장 Marco Paglia는 말했다. “아티스트는 늘 그 연결을 느껴 왔다. 이제 우리는 그것을 볼 수 있는 도구를 그들에게 건넨다."
           },
           {
             "t": "p",
-            "x": "시작하려면 LUNA를 실행하고 스타터 프롬프트로 LUNA Builder Tools를 설치하면 된다. 스와이프 컴핑 같은 기능을 갖춘 도구, Ableton Live 세션을 LUNA로 불러오는 도구까지 새 사용자 애드온이 벌써 공개됐다."
+            "x": "“한층 강화된 Musixmatch Pro for Artists 플랫폼으로, 팬이 아티스트의 가사에 어떻게, 어디서 반응하는지 보여 주는 새 분석과 그 반응에서 직접 수익을 얻도록 돕는 완전히 새로운 Wallet을 제공한다. 세계 최대 레이블을 위해 만든 것과 같은 도구를 이제 독립 아티스트의 손에 쥐여 주는 것이다.”"
+          },
+          {
+            "t": "p",
+            "x": "글로벌 음악 데이터·기술·서비스 기업인 이 회사는 Musixmatch Pro For Artists를 쓰는 아티스트가 이미 1.5백만 명을 넘었다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Universal Audio opens LUNA\nto AI-coded add-ons",
-          "body": "UA Universe lets LUNA users build and share workflow add-ons by prompting AI coding assistants like Claude Code.",
-          "mini_headline": "LUNA opens to AI add-ons",
+          "headline": "Musixmatch Pro for Artists\nadds AI lyric tools",
+          "body": "Musixmatch's revamped artist platform adds AI lyric transcription and time-sync, fan analytics and a lyric merch Wallet.",
+          "mini_headline": "Musixmatch Pro adds AI lyrics",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft2.jpg",
-                "cap": "UA Universe: A New Developer Platform and Community for LUNA · Source: Universal Audio"
+                "src": "https://www.musicweek.com/cimages/d6750af0b2f101ffd3cc30db853ca2be.jpg",
+                "cap": "Marco Paglia, Musixmatch"
               },
               {
                 "t": "p",
-                "x": "Now in public beta, UA Universe lets you create and share custom LUNA workflow tools and enhancements with its JavaScript-based development kit. With UA Universe, you can use text prompting with AI assistants such as Claude Code and Codex in LUNA to customize your user experience and share your tools with the online community."
+                "x": "First launched in 2021, Musixmatch Pro For Artists is a centralised lyrics platform that helps artists and managers transcribe, time sync, and distribute their lyrics globally across major streaming and social platforms."
               },
               {
                 "t": "p",
-                "x": "While it doesn’t allow the building of instruments or processing plugins, this new SDK lets you develop add-ons and customizations for enhancing your user experience for different recording and production applications. These add-ons make live readings and alterations to the current LUNA session, which includes functions like parameter control and MIDI editing."
+                "x": "The platform is expanding beyond lyric distribution, with new features including enhanced AI-powered lyric transcription and time synchronisation tools to significantly reduce the time and effort required to prepare lyrics for distribution."
               },
               {
                 "t": "p",
-                "x": "Any actions that an add-on executes are logged within the LUNA undo history, so you can track each step as you design the workflow. There is also a mock environment, so you can run tests and debug your add-ons before going live in LUNA."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-interdaw.jpg",
-                "cap": "InterDAW add-on by @cp666-dev · Source: Universal Audio"
+                "x": "It has also introcuded a unified analytics dashboard offering deeper insights into fan engagement, and a new Wallet to manage earnings from lyrics merchandise sales and referrals."
               },
               {
                 "t": "p",
-                "x": "This means you can mimic aspects of your familiar workflow within LUNA. Within the UA Universe community, we could well start seeing Logic Pro or Pro Tools skins that make switching over from one DAW to another more seamless, just as we have seen in the Reaper community."
+                "x": "\"Lyrics are one of the most powerful ways people connect with music, helping listeners discover artists and become lasting fans,\" said Marco Paglia, co-president at Musixmatch. \"Artists have always felt that connection. Now we're giving them the tools to see it."
               },
               {
                 "t": "p",
-                "x": "To get started, you will need to be running LUNA, and then you can install the LUNA Builder Tools with the starter prompt. New user add-ons have already been published, including tools with functions like swipe-comping and even one that lets you import Ableton Live sessions into LUNA."
+                "x": "\"With the enhanced Musixmatch Pro for Artists platform, we’re providing new analytics to show artists how and where fans are engaging with their lyrics, and a brand new Wallet to help them earn from that engagement directly. These are the same tools we have built for the world's biggest labels, which we’re now putting in the hands of independent artists.”"
+              },
+              {
+                "t": "p",
+                "x": "More than 1.5 million artists are already using Musixmatch Pro For Artists, according to the global music data, technology and services company."
               }
             ]
           }
         },
         "ko": {
-          "headline": "LUNA, AI-coded\n애드온에 문 연다",
-          "body": "UA Universe에선 Claude Code 등 AI로 LUNA 애드온을 짠다.",
-          "mini_headline": "LUNA, AI 애드온에 개방",
+          "headline": "Musixmatch Pro\nAI 가사 도구 추가",
+          "body": "Musixmatch가 AI 가사 전사·time-sync와 Wallet을 더했다.",
+          "mini_headline": "Musixmatch Pro, AI 가사 기능 추가",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft2.jpg",
-                "cap": "UA Universe: LUNA를 위한 새로운 개발자 플랫폼이자 커뮤니티 · 출처: Universal Audio"
+                "src": "https://www.musicweek.com/cimages/d6750af0b2f101ffd3cc30db853ca2be.jpg",
+                "cap": "Marco Paglia, Musixmatch"
               },
               {
                 "t": "p",
-                "x": "UA Universe는 현재 공개 베타로, JavaScript-based 개발 키트로 맞춤형 LUNA 워크플로 도구와 개선 기능을 만들어 공유하게 해 준다. UA Universe에서는 LUNA 안에서 Claude Code, Codex 같은 AI 어시스턴트에 텍스트 프롬프트를 넣어 사용자 경험을 입맛대로 바꾸고, 만든 도구는 온라인 커뮤니티에 올릴 수 있다."
+                "x": "2021년 처음 나온 Musixmatch Pro For Artists는 아티스트와 매니저가 가사를 전사하고 타임 싱크를 맞춰 주요 스트리밍·소셜 플랫폼으로 전 세계에 배포하게 돕는 통합 가사 플랫폼이다."
               },
               {
                 "t": "p",
-                "x": "악기나 프로세싱 플러그인은 만들 수 없다. 대신 이 새 SDK로 다양한 녹음·프로덕션 용도에 맞춰 사용자 경험을 높이는 애드온과 맞춤 설정을 개발한다. 애드온은 현재 LUNA 세션을 실시간으로 읽고 고치며, 파라미터 제어와 MIDI 편집도 여기에 들어간다."
+                "x": "플랫폼은 이제 가사 배포 너머로 영역을 넓힌다. 새 기능으로 한층 개선된 AI-powered 가사 전사와 타임 싱크 도구가 들어가, 배포용 가사를 준비하는 시간과 수고를 크게 줄여 준다."
               },
               {
                 "t": "p",
-                "x": "애드온이 실행한 동작은 모두 LUNA 실행 취소 기록에 남아, 워크플로를 설계하며 단계별로 되짚을 수 있다. 모의 환경도 있어서 LUNA에 실제로 적용하기 전에 애드온을 테스트하고 디버그할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-interdaw.jpg",
-                "cap": "@cp666-dev가 만든 InterDAW 애드온 · 출처: Universal Audio"
+                "x": "팬 참여를 더 깊이 들여다보는 통합 분석 대시보드, 가사 굿즈 판매·추천 수익을 관리하는 새 Wallet도 들였다."
               },
               {
                 "t": "p",
-                "x": "익숙한 워크플로 일부를 LUNA 안에서 재현할 수 있다는 얘기다. Reaper 커뮤니티에서 그랬듯 UA Universe 커뮤니티에도 Logic Pro나 Pro Tools 스킨이 나와, 한 DAW에서 다른 DAW로 더 매끄럽게 넘어가게 해 줄 수 있다."
+                "x": "“가사는 사람들이 음악과 연결되는 가장 강력한 방법 중 하나로, 청취자가 아티스트를 발견하고 오래가는 팬이 되도록 돕는다”고 Musixmatch 공동 사장 Marco Paglia는 말했다. “아티스트는 늘 그 연결을 느껴 왔다. 이제 우리는 그것을 볼 수 있는 도구를 그들에게 건넨다."
               },
               {
                 "t": "p",
-                "x": "시작하려면 LUNA를 실행하고 스타터 프롬프트로 LUNA Builder Tools를 설치하면 된다. 스와이프 컴핑 같은 기능을 갖춘 도구, Ableton Live 세션을 LUNA로 불러오는 도구까지 새 사용자 애드온이 벌써 공개됐다."
+                "x": "“한층 강화된 Musixmatch Pro for Artists 플랫폼으로, 팬이 아티스트의 가사에 어떻게, 어디서 반응하는지 보여 주는 새 분석과 그 반응에서 직접 수익을 얻도록 돕는 완전히 새로운 Wallet을 제공한다. 세계 최대 레이블을 위해 만든 것과 같은 도구를 이제 독립 아티스트의 손에 쥐여 주는 것이다.”"
+              },
+              {
+                "t": "p",
+                "x": "글로벌 음악 데이터·기술·서비스 기업인 이 회사는 Musixmatch Pro For Artists를 쓰는 아티스트가 이미 1.5백만 명을 넘었다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UAがLUNAを開放\nAI-codedアドオンへ",
-          "body": "UA UniverseでLUNA利用者はClaude Code等のAIでアドオンを作れる。",
-          "mini_headline": "LUNA、AIアドオンに開放",
+          "headline": "Musixmatch Pro\nAI歌詞ツールを追加",
+          "body": "MusixmatchがAI歌詞書き起こしとtime-sync、Walletを追加した。",
+          "mini_headline": "Musixmatch Pro、AI歌詞機能を追加",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft2.jpg",
-                "cap": "UA Universe: LUNAのための新たな開発者プラットフォーム兼コミュニティ · 出典: Universal Audio"
+                "src": "https://www.musicweek.com/cimages/d6750af0b2f101ffd3cc30db853ca2be.jpg",
+                "cap": "Marco Paglia, Musixmatch"
               },
               {
                 "t": "p",
-                "x": "現在パブリックベータとして提供されているUA Universeでは、JavaScript-basedの開発キットを使って、LUNA用のカスタムワークフローツールや機能拡張を作成・共有できる。UA Universeを使えば、LUNA内でClaude CodeやCodexといったAIアシスタントにテキストでプロンプトを与えてユーザー体験をカスタマイズし、作ったツールをオンラインコミュニティと共有できる。"
+                "x": "2021年に始まったMusixmatch Pro For Artistsは、アーティストやマネージャーが歌詞を書き起こし、タイムシンクし、主要なストリーミング・ソーシャルプラットフォームを通じて世界に配信するのを支援する一元的な歌詞プラットフォームだ。"
               },
               {
                 "t": "p",
-                "x": "楽器やプロセッシング系プラグインは作れないが、この新しいSDKでは、さまざまなレコーディングや制作の用途に合わせてユーザー体験を高めるアドオンやカスタマイズを開発できる。これらのアドオンは現在のLUNAセッションをリアルタイムで読み取り、変更を加える。パラメーター制御やMIDI編集といった機能も含まれる。"
+                "x": "同プラットフォームは歌詞配信の枠を超えて拡大している。新機能には強化されたAI-poweredの歌詞書き起こしとタイムシンク機能が含まれ、配信用の歌詞を準備する時間と手間を大幅に減らす。"
               },
               {
                 "t": "p",
-                "x": "アドオンが実行した操作はすべてLUNAの取り消し履歴に記録されるため、ワークフローを設計しながら各ステップを追跡できる。モック環境も用意されており、LUNAで本番運用する前にアドオンをテストしデバッグできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-interdaw.jpg",
-                "cap": "@cp666-devによるInterDAWアドオン · 出典: Universal Audio"
+                "x": "ファンのエンゲージメントをより深く分析できる統合ダッシュボードと、歌詞グッズの販売や紹介による収益を管理する新しいWalletも導入した。"
               },
               {
                 "t": "p",
-                "x": "つまり、使い慣れたワークフローの一部をLUNA内で再現できるということだ。Reaperコミュニティで見られたように、UA Universeのコミュニティでも、あるDAWから別のDAWへの移行をよりスムーズにするLogic ProやPro Toolsのスキンが登場するかもしれない。"
+                "x": "「歌詞は人々が音楽とつながる最も強力な手段の一つであり、リスナーがアーティストを発見し、長く続くファンになる手助けをする」と、Musixmatchの共同社長Marco Pagliaは語る。「アーティストは常にそのつながりを感じてきた。今、私たちはそれを目に見える形にするツールを提供する。"
               },
               {
                 "t": "p",
-                "x": "始めるにはLUNAを起動し、スタータープロンプトでLUNA Builder Toolsをインストールする。スワイプ・コンピングなどの機能を備えたツールや、Ableton LiveのセッションをLUNAに読み込めるものまで、ユーザー製の新しいアドオンがすでに公開されている。"
+                "x": "「強化されたMusixmatch Pro for Artistsプラットフォームでは、ファンがどのように、どこで歌詞に反応しているかを示す新たな分析と、その反応から直接収益を得られるまったく新しいWalletを提供する。世界最大級のレーベル向けに作ってきたのと同じツールを、今度はインディーアーティストの手に届けるのだ」"
+              },
+              {
+                "t": "p",
+                "x": "世界的な音楽データ・技術・サービス企業である同社によると、すでに1.5百万人を超えるアーティストがMusixmatch Pro For Artistsを利用している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UA向AI-coded\n插件开放LUNA",
-          "body": "借助UA Universe，LUNA用户可用Claude Code等AI打造并分享插件。",
-          "mini_headline": "LUNA向AI插件开放",
+          "headline": "Musixmatch Pro\n新增AI歌词工具",
+          "body": "Musixmatch艺人平台新增AI歌词转写与time-sync、粉丝分析及Wallet。",
+          "mini_headline": "Musixmatch Pro新增AI歌词功能",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft2.jpg",
-                "cap": "UA Universe：面向LUNA的全新开发者平台与社区 · 来源：Universal Audio"
+                "src": "https://www.musicweek.com/cimages/d6750af0b2f101ffd3cc30db853ca2be.jpg",
+                "cap": "Marco Paglia, Musixmatch"
               },
               {
                 "t": "p",
-                "x": "UA Universe目前处于公开测试阶段，用户可借助其JavaScript-based开发套件，创建并分享自定义的LUNA工作流工具和增强功能。借助UA Universe，用户可以在LUNA中通过文本提示调用Claude Code、Codex等AI助手来定制使用体验，并与在线社区分享自己的工具。"
+                "x": "Musixmatch Pro For Artists于2021年首次推出，是一个集中式歌词平台，帮助艺人和经纪人转写歌词、进行时间同步，并通过主要流媒体和社交平台在全球分发歌词。"
               },
               {
                 "t": "p",
-                "x": "它不支持制作乐器或处理类插件，但这款新SDK可用于开发各类插件和自定义功能，提升在不同录音和制作场景下的使用体验。这些插件可实时读取并修改当前的LUNA工程，功能涵盖参数控制和MIDI编辑等。"
+                "x": "该平台正拓展至歌词分发之外，新功能包括增强的AI-powered歌词转写和时间同步工具，可大幅减少准备分发歌词所需的时间和精力。"
               },
               {
                 "t": "p",
-                "x": "插件执行的所有操作都会记录在LUNA的撤销历史中，便于在设计工作流时逐步追踪。它还提供模拟环境，可在正式用于LUNA之前测试和调试插件。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-interdaw.jpg",
-                "cap": "@cp666-dev 开发的InterDAW插件 · 来源：Universal Audio"
+                "x": "平台还推出了统一的分析仪表盘，可更深入洞察粉丝互动；以及新的Wallet，用于管理歌词周边销售和推荐带来的收入。"
               },
               {
                 "t": "p",
-                "x": "这意味着你可以在LUNA中复刻熟悉工作流的某些环节。正如Reaper社区那样，UA Universe社区里很可能会出现Logic Pro或Pro Tools风格的皮肤，让用户在不同DAW之间切换更加顺畅。"
+                "x": "“歌词是人们与音乐建立联系最有力的方式之一，帮助听众发现艺人并成为长久的粉丝，”Musixmatch联席总裁Marco Paglia表示，“艺人一直感受得到这种联系。现在我们为他们提供看见它的工具。"
               },
               {
                 "t": "p",
-                "x": "上手时需要先运行LUNA，然后用入门提示词安装LUNA Builder Tools。目前已有用户发布了新的插件，包括具备扫选拼接等功能的工具，甚至还有能把Ableton Live工程导入LUNA的工具。"
+                "x": "“借助增强版Musixmatch Pro for Artists平台，我们提供新的分析功能，向艺人展示粉丝如何、在何处与其歌词互动，并推出全新的Wallet，帮助他们直接从这种互动中获得收入。这些正是我们为全球最大唱片公司打造的工具，如今我们把它们交到独立艺人手中。”"
+              },
+              {
+                "t": "p",
+                "x": "据这家全球音乐数据、技术与服务公司称，已有超过1.5百万名艺人在使用Musixmatch Pro For Artists。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Universal Audio abre LUNA\na complementos AI-coded",
-          "body": "UA Universe permite a los usuarios de LUNA crear y compartir complementos con asistentes de AI como Claude Code.",
-          "mini_headline": "LUNA se abre a complementos AI",
+          "headline": "Musixmatch Pro for Artists\nañade herramientas AI de letras",
+          "body": "La plataforma renovada de Musixmatch añade transcripción y time-sync de letras con AI, analítica de fans y un Wallet.",
+          "mini_headline": "Musixmatch Pro suma letras con AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft2.jpg",
-                "cap": "UA Universe: una nueva plataforma y comunidad de desarrolladores para LUNA · Fuente: Universal Audio"
+                "src": "https://www.musicweek.com/cimages/d6750af0b2f101ffd3cc30db853ca2be.jpg",
+                "cap": "Marco Paglia, Musixmatch"
               },
               {
                 "t": "p",
-                "x": "Ya disponible en beta pública, UA Universe permite crear y compartir herramientas de flujo de trabajo y mejoras personalizadas para LUNA con su kit de desarrollo JavaScript-based. Con UA Universe, se pueden dar instrucciones de texto a asistentes de AI como Claude Code y Codex dentro de LUNA para personalizar la experiencia de uso y compartir las herramientas con la comunidad en línea."
+                "x": "Lanzada en 2021, Musixmatch Pro For Artists es una plataforma centralizada de letras que ayuda a artistas y mánagers a transcribir, sincronizar y distribuir sus letras en todo el mundo a través de las principales plataformas de streaming y redes sociales."
               },
               {
                 "t": "p",
-                "x": "Aunque no permite crear instrumentos ni plugins de procesamiento, este nuevo SDK permite desarrollar complementos y personalizaciones que mejoran la experiencia de uso en distintas aplicaciones de grabación y producción. Estos complementos leen y modifican en tiempo real la sesión activa de LUNA, con funciones como el control de parámetros y la edición MIDI."
+                "x": "La plataforma se expande más allá de la distribución de letras con nuevas funciones, entre ellas herramientas mejoradas de transcripción y sincronización de letras AI-powered, que reducen de forma notable el tiempo y el esfuerzo necesarios para preparar las letras para su distribución."
               },
               {
                 "t": "p",
-                "x": "Todas las acciones que ejecuta un complemento quedan registradas en el historial de deshacer de LUNA, de modo que se puede seguir cada paso mientras se diseña el flujo de trabajo. También hay un entorno de simulación para probar y depurar los complementos antes de usarlos en LUNA."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-interdaw.jpg",
-                "cap": "Complemento InterDAW de @cp666-dev · Fuente: Universal Audio"
+                "x": "También ha incorporado un panel de análisis unificado que ofrece una visión más profunda de la interacción de los fans, y un nuevo Wallet para gestionar los ingresos por la venta de merchandising de letras y las recomendaciones."
               },
               {
                 "t": "p",
-                "x": "Esto significa que se pueden imitar aspectos del flujo de trabajo habitual dentro de LUNA. En la comunidad de UA Universe bien podrían empezar a aparecer skins de Logic Pro o Pro Tools que hagan más fluido el paso de un DAW a otro, como ya ha ocurrido en la comunidad de Reaper."
+                "x": "«Las letras son una de las formas más poderosas en que las personas conectan con la música, ya que ayudan a los oyentes a descubrir artistas y a convertirse en fans duraderos», dijo Marco Paglia, copresidente de Musixmatch. «Los artistas siempre han sentido esa conexión. Ahora les damos las herramientas para verla."
               },
               {
                 "t": "p",
-                "x": "Para empezar, hay que tener LUNA en marcha y luego instalar LUNA Builder Tools con el prompt inicial. Ya se han publicado nuevos complementos de usuarios, entre ellos herramientas con funciones como el swipe-comping e incluso una que permite importar sesiones de Ableton Live a LUNA."
+                "x": "«Con la plataforma mejorada Musixmatch Pro for Artists, ofrecemos nuevos análisis para mostrar a los artistas cómo y dónde interactúan los fans con sus letras, y un Wallet totalmente nuevo para ayudarles a ganar dinero directamente con esa interacción. Son las mismas herramientas que hemos creado para los mayores sellos del mundo y que ahora ponemos en manos de los artistas independientes»."
+              },
+              {
+                "t": "p",
+                "x": "Más de 1.5 millones de artistas ya usan Musixmatch Pro For Artists, según la compañía global de datos, tecnología y servicios musicales."
               }
             ]
           }
@@ -565,161 +649,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "LUNA, AI-coded\n애드온에 문 연다",
-          "body": "UA Universe에선 Claude Code 등 AI로 LUNA 애드온을 짠다.",
-          "mini_headline": "LUNA, AI 애드온에 개방",
+          "headline": "Musixmatch Pro\nAI 가사 도구 추가",
+          "body": "Musixmatch가 AI 가사 전사·time-sync와 Wallet을 더했다.",
+          "mini_headline": "Musixmatch Pro, AI 가사 기능 추가",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft2.jpg",
-                "cap": "UA Universe: LUNA를 위한 새로운 개발자 플랫폼이자 커뮤니티 · 출처: Universal Audio"
+                "src": "https://www.musicweek.com/cimages/d6750af0b2f101ffd3cc30db853ca2be.jpg",
+                "cap": "Marco Paglia, Musixmatch"
               },
               {
                 "t": "p",
-                "x": "현재 공개 베타로 제공되는 UA Universe는 JavaScript-based 개발 키트로 맞춤형 LUNA 워크플로 도구와 개선 기능을 만들고 공유할 수 있게 한다. UA Universe에서는 LUNA 안에서 Claude Code, Codex 같은 AI 어시스턴트에 텍스트 프롬프트를 입력해 사용자 경험을 맞춤화하고, 만든 도구를 온라인 커뮤니티와 공유할 수 있다."
+                "x": "2021년 처음 출시된 Musixmatch Pro For Artists는 아티스트와 매니저가 가사를 전사하고 타임 싱크를 맞춰 주요 스트리밍·소셜 플랫폼을 통해 전 세계에 배포하도록 돕는 통합 가사 플랫폼이다."
               },
               {
                 "t": "p",
-                "x": "악기나 프로세싱 플러그인을 만들 수는 없지만, 이 새 SDK로 다양한 녹음·프로덕션 용도에 맞춰 사용자 경험을 높이는 애드온과 맞춤 설정을 개발할 수 있다. 이 애드온은 현재 LUNA 세션을 실시간으로 읽고 수정하며, 여기에는 파라미터 제어와 MIDI 편집 같은 기능이 포함된다."
+                "x": "이 플랫폼은 가사 배포를 넘어 영역을 넓히고 있다. 새 기능에는 한층 개선된 AI-powered 가사 전사와 타임 싱크 도구가 포함되며, 배포용 가사를 준비하는 데 드는 시간과 수고를 크게 줄여 준다."
               },
               {
                 "t": "p",
-                "x": "애드온이 실행하는 모든 동작은 LUNA 실행 취소 기록에 남으므로, 워크플로를 설계하면서 단계별로 추적할 수 있다. 모의 환경도 있어 LUNA에 실제 적용하기 전에 애드온을 테스트하고 디버그할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-interdaw.jpg",
-                "cap": "@cp666-dev가 만든 InterDAW 애드온 · 출처: Universal Audio"
+                "x": "팬 참여를 더 깊이 들여다보는 통합 분석 대시보드와, 가사 굿즈 판매·추천 수익을 관리하는 새 Wallet도 도입했다."
               },
               {
                 "t": "p",
-                "x": "즉 익숙한 워크플로의 일부를 LUNA 안에서 재현할 수 있다. Reaper 커뮤니티에서 그랬듯, UA Universe 커뮤니티에서도 한 DAW에서 다른 DAW로 더 매끄럽게 옮겨 가게 해 주는 Logic Pro나 Pro Tools 스킨이 등장할 수 있다."
+                "x": "“가사는 사람들이 음악과 연결되는 가장 강력한 방법 중 하나로, 청취자가 아티스트를 발견하고 오래가는 팬이 되도록 돕는다”고 Musixmatch 공동 사장 Marco Paglia는 말했다. “아티스트는 늘 그 연결을 느껴 왔다. 이제 우리는 그것을 볼 수 있는 도구를 그들에게 건넨다."
               },
               {
                 "t": "p",
-                "x": "시작하려면 LUNA를 실행한 뒤 스타터 프롬프트로 LUNA Builder Tools를 설치하면 된다. 스와이프 컴핑 같은 기능을 갖춘 도구, 심지어 Ableton Live 세션을 LUNA로 불러오는 도구 등 새 사용자 애드온이 이미 공개됐다."
+                "x": "“한층 강화된 Musixmatch Pro for Artists 플랫폼으로, 팬이 아티스트의 가사에 어떻게, 어디서 반응하는지 보여 주는 새 분석과 그 반응에서 직접 수익을 얻도록 돕는 완전히 새로운 Wallet을 제공한다. 세계 최대 레이블을 위해 만든 것과 같은 도구를 이제 독립 아티스트의 손에 쥐여 주는 것이다.”"
+              },
+              {
+                "t": "p",
+                "x": "글로벌 음악 데이터·기술·서비스 기업인 이 회사에 따르면 이미 1.5백만 명이 넘는 아티스트가 Musixmatch Pro For Artists를 쓰고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UAがLUNAを開放\nAI-codedアドオンへ",
-          "body": "UA UniverseでLUNA利用者はClaude Code等のAIでアドオンを作れる。",
-          "mini_headline": "LUNA、AIアドオンに開放",
+          "headline": "Musixmatch Pro\nAI歌詞ツールを追加",
+          "body": "MusixmatchがAI歌詞書き起こしとtime-sync、Walletを追加した。",
+          "mini_headline": "Musixmatch Pro、AI歌詞機能を追加",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft2.jpg",
-                "cap": "UA Universe: LUNAのための新たな開発者プラットフォーム兼コミュニティ · 出典: Universal Audio"
+                "src": "https://www.musicweek.com/cimages/d6750af0b2f101ffd3cc30db853ca2be.jpg",
+                "cap": "Marco Paglia, Musixmatch"
               },
               {
                 "t": "p",
-                "x": "現在パブリックベータとして提供されているUA Universeでは、JavaScript-basedの開発キットを使って、LUNA用のカスタムワークフローツールや機能拡張を作成・共有できる。UA Universeを使えば、LUNA内でClaude CodeやCodexといったAIアシスタントにテキストでプロンプトを与えてユーザー体験をカスタマイズし、作ったツールをオンラインコミュニティと共有できる。"
+                "x": "2021年に始まったMusixmatch Pro For Artistsは、アーティストやマネージャーが歌詞を書き起こし、タイムシンクし、主要なストリーミング・ソーシャルプラットフォームを通じて世界に配信するのを支援する一元的な歌詞プラットフォームだ。"
               },
               {
                 "t": "p",
-                "x": "楽器やプロセッシング系プラグインは作れないが、この新しいSDKでは、さまざまなレコーディングや制作の用途に合わせてユーザー体験を高めるアドオンやカスタマイズを開発できる。これらのアドオンは現在のLUNAセッションをリアルタイムで読み取り、変更を加える。パラメーター制御やMIDI編集といった機能も含まれる。"
+                "x": "同プラットフォームは歌詞配信の枠を超えて拡大している。新機能には強化されたAI-poweredの歌詞書き起こしとタイムシンク機能が含まれ、配信用の歌詞を準備する時間と手間を大幅に減らす。"
               },
               {
                 "t": "p",
-                "x": "アドオンが実行した操作はすべてLUNAの取り消し履歴に記録されるため、ワークフローを設計しながら各ステップを追跡できる。モック環境も用意されており、LUNAで本番運用する前にアドオンをテストしデバッグできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-interdaw.jpg",
-                "cap": "@cp666-devによるInterDAWアドオン · 出典: Universal Audio"
+                "x": "ファンのエンゲージメントをより深く分析できる統合ダッシュボードと、歌詞グッズの販売や紹介による収益を管理する新しいWalletも導入した。"
               },
               {
                 "t": "p",
-                "x": "つまり、使い慣れたワークフローの一部をLUNA内で再現できるということだ。Reaperコミュニティで見られたように、UA Universeのコミュニティでも、あるDAWから別のDAWへの移行をよりスムーズにするLogic ProやPro Toolsのスキンが登場するかもしれない。"
+                "x": "「歌詞は人々が音楽とつながる最も強力な手段の一つであり、リスナーがアーティストを発見し、長く続くファンになる手助けをする」と、Musixmatchの共同社長Marco Pagliaは語る。「アーティストは常にそのつながりを感じてきた。今、私たちはそれを目に見える形にするツールを提供する。"
               },
               {
                 "t": "p",
-                "x": "始めるにはLUNAを起動し、スタータープロンプトでLUNA Builder Toolsをインストールする。スワイプ・コンピングなどの機能を備えたツールや、Ableton LiveのセッションをLUNAに読み込めるものまで、ユーザー製の新しいアドオンがすでに公開されている。"
+                "x": "「強化されたMusixmatch Pro for Artistsプラットフォームでは、ファンがどのように、どこで歌詞に反応しているかを示す新たな分析と、その反応から直接収益を得られるまったく新しいWalletを提供する。世界最大級のレーベル向けに作ってきたのと同じツールを、今度はインディーアーティストの手に届けるのだ」"
+              },
+              {
+                "t": "p",
+                "x": "世界的な音楽データ・技術・サービス企業である同社によると、すでに1.5百万人を超えるアーティストがMusixmatch Pro For Artistsを利用している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UA向AI-coded\n插件开放LUNA",
-          "body": "借助UA Universe，LUNA用户可用Claude Code等AI打造并分享插件。",
-          "mini_headline": "LUNA向AI插件开放",
+          "headline": "Musixmatch Pro\n新增AI歌词工具",
+          "body": "Musixmatch艺人平台新增AI歌词转写与time-sync、粉丝分析及Wallet。",
+          "mini_headline": "Musixmatch Pro新增AI歌词功能",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft2.jpg",
-                "cap": "UA Universe：面向LUNA的全新开发者平台与社区 · 来源：Universal Audio"
+                "src": "https://www.musicweek.com/cimages/d6750af0b2f101ffd3cc30db853ca2be.jpg",
+                "cap": "Marco Paglia, Musixmatch"
               },
               {
                 "t": "p",
-                "x": "UA Universe目前处于公开测试阶段，用户可借助其JavaScript-based开发套件，创建并分享自定义的LUNA工作流工具和增强功能。借助UA Universe，用户可以在LUNA中通过文本提示调用Claude Code、Codex等AI助手来定制使用体验，并与在线社区分享自己的工具。"
+                "x": "Musixmatch Pro For Artists于2021年首次推出，是一个集中式歌词平台，帮助艺人和经纪人转写歌词、进行时间同步，并通过主要流媒体和社交平台在全球分发歌词。"
               },
               {
                 "t": "p",
-                "x": "它不支持制作乐器或处理类插件，但这款新SDK可用于开发各类插件和自定义功能，提升在不同录音和制作场景下的使用体验。这些插件可实时读取并修改当前的LUNA工程，功能涵盖参数控制和MIDI编辑等。"
+                "x": "该平台正拓展至歌词分发之外，新功能包括增强的AI-powered歌词转写和时间同步工具，可大幅减少准备分发歌词所需的时间和精力。"
               },
               {
                 "t": "p",
-                "x": "插件执行的所有操作都会记录在LUNA的撤销历史中，便于在设计工作流时逐步追踪。它还提供模拟环境，可在正式用于LUNA之前测试和调试插件。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-interdaw.jpg",
-                "cap": "@cp666-dev 开发的InterDAW插件 · 来源：Universal Audio"
+                "x": "平台还推出了统一的分析仪表盘，可更深入洞察粉丝互动；以及新的Wallet，用于管理歌词周边销售和推荐带来的收入。"
               },
               {
                 "t": "p",
-                "x": "这意味着你可以在LUNA中复刻熟悉工作流的某些环节。正如Reaper社区那样，UA Universe社区里很可能会出现Logic Pro或Pro Tools风格的皮肤，让用户在不同DAW之间切换更加顺畅。"
+                "x": "“歌词是人们与音乐建立联系最有力的方式之一，帮助听众发现艺人并成为长久的粉丝，”Musixmatch联席总裁Marco Paglia表示，“艺人一直感受得到这种联系。现在我们为他们提供看见它的工具。"
               },
               {
                 "t": "p",
-                "x": "上手时需要先运行LUNA，然后用入门提示词安装LUNA Builder Tools。目前已有用户发布了新的插件，包括具备扫选拼接等功能的工具，甚至还有能把Ableton Live工程导入LUNA的工具。"
+                "x": "“借助增强版Musixmatch Pro for Artists平台，我们提供新的分析功能，向艺人展示粉丝如何、在何处与其歌词互动，并推出全新的Wallet，帮助他们直接从这种互动中获得收入。这些正是我们为全球最大唱片公司打造的工具，如今我们把它们交到独立艺人手中。”"
+              },
+              {
+                "t": "p",
+                "x": "据这家全球音乐数据、技术与服务公司称，已有超过1.5百万名艺人在使用Musixmatch Pro For Artists。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Universal Audio abre LUNA\na complementos AI-coded",
-          "body": "UA Universe permite a los usuarios de LUNA crear y compartir complementos con asistentes de AI como Claude Code.",
-          "mini_headline": "LUNA se abre a complementos AI",
+          "headline": "Musixmatch Pro for Artists\nañade herramientas AI de letras",
+          "body": "La plataforma renovada de Musixmatch añade transcripción y time-sync de letras con AI, analítica de fans y un Wallet.",
+          "mini_headline": "Musixmatch Pro suma letras con AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft2.jpg",
-                "cap": "UA Universe: una nueva plataforma y comunidad de desarrolladores para LUNA · Fuente: Universal Audio"
+                "src": "https://www.musicweek.com/cimages/d6750af0b2f101ffd3cc30db853ca2be.jpg",
+                "cap": "Marco Paglia, Musixmatch"
               },
               {
                 "t": "p",
-                "x": "Ya disponible en beta pública, UA Universe permite crear y compartir herramientas de flujo de trabajo y mejoras personalizadas para LUNA con su kit de desarrollo JavaScript-based. Con UA Universe, se pueden dar instrucciones de texto a asistentes de AI como Claude Code y Codex dentro de LUNA para personalizar la experiencia de uso y compartir las herramientas con la comunidad en línea."
+                "x": "Lanzada en 2021, Musixmatch Pro For Artists es una plataforma centralizada de letras que ayuda a artistas y mánagers a transcribir, sincronizar y distribuir sus letras en todo el mundo a través de las principales plataformas de streaming y redes sociales."
               },
               {
                 "t": "p",
-                "x": "Aunque no permite crear instrumentos ni plugins de procesamiento, este nuevo SDK permite desarrollar complementos y personalizaciones que mejoran la experiencia de uso en distintas aplicaciones de grabación y producción. Estos complementos leen y modifican en tiempo real la sesión activa de LUNA, con funciones como el control de parámetros y la edición MIDI."
+                "x": "La plataforma se expande más allá de la distribución de letras con nuevas funciones, entre ellas herramientas mejoradas de transcripción y sincronización de letras AI-powered, que reducen de forma notable el tiempo y el esfuerzo necesarios para preparar las letras para su distribución."
               },
               {
                 "t": "p",
-                "x": "Todas las acciones que ejecuta un complemento quedan registradas en el historial de deshacer de LUNA, de modo que se puede seguir cada paso mientras se diseña el flujo de trabajo. También hay un entorno de simulación para probar y depurar los complementos antes de usarlos en LUNA."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-interdaw.jpg",
-                "cap": "Complemento InterDAW de @cp666-dev · Fuente: Universal Audio"
+                "x": "También ha incorporado un panel de análisis unificado que ofrece una visión más profunda de la interacción de los fans, y un nuevo Wallet para gestionar los ingresos por la venta de merchandising de letras y las recomendaciones."
               },
               {
                 "t": "p",
-                "x": "Esto significa que se pueden imitar aspectos del flujo de trabajo habitual dentro de LUNA. En la comunidad de UA Universe bien podrían empezar a aparecer skins de Logic Pro o Pro Tools que hagan más fluido el paso de un DAW a otro, como ya ha ocurrido en la comunidad de Reaper."
+                "x": "«Las letras son una de las formas más poderosas en que las personas conectan con la música, ya que ayudan a los oyentes a descubrir artistas y a convertirse en fans duraderos», dijo Marco Paglia, copresidente de Musixmatch. «Los artistas siempre han sentido esa conexión. Ahora les damos las herramientas para verla."
               },
               {
                 "t": "p",
-                "x": "Para empezar, hay que tener LUNA en marcha y luego instalar LUNA Builder Tools con el prompt inicial. Ya se han publicado nuevos complementos de usuarios, entre ellos herramientas con funciones como el swipe-comping e incluso una que permite importar sesiones de Ableton Live a LUNA."
+                "x": "«Con la plataforma mejorada Musixmatch Pro for Artists, ofrecemos nuevos análisis para mostrar a los artistas cómo y dónde interactúan los fans con sus letras, y un Wallet totalmente nuevo para ayudarles a ganar dinero directamente con esa interacción. Son las mismas herramientas que hemos creado para los mayores sellos del mundo y que ahora ponemos en manos de los artistas independientes»."
+              },
+              {
+                "t": "p",
+                "x": "Más de 1.5 millones de artistas ya usan Musixmatch Pro For Artists, según la compañía global de datos, tecnología y servicios musicales."
               }
             ]
           }
@@ -727,15 +807,15 @@
       }
     },
     {
-      "id": "cyanite-concierge-search",
+      "id": "mooer-gtrs-wing1000-nam",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Cyanite 대화형 검색\n음악 카탈로그에 도입",
-      "body": "Cyanite Concierge로 음악 기업은 대화하듯 카탈로그를 검색한다.",
-      "mini_headline": "Cyanite, Concierge 출시",
+      "headline": "Mooer 헤드리스 기타\n뉴럴 앰프 캡처 지원",
+      "body": "Mooer GTRS Wing 1000이 Neural Amp Model을 불러온다.",
+      "mini_headline": "Mooer 기타, NAM 캡처 지원",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/11/26/cyanite-launches-its-conversational-concierge-for-music-search/",
+      "source": "Gearnews",
+      "url": "https://www.gearnews.com/mooer-gtrs-wing-1000/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -743,131 +823,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
-            "cap": "Cyanite Concierge 기능 스크린샷"
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Intelligent-Headless-Guitar-with-NAM.jpg"
           },
           {
             "t": "p",
-            "x": "대화형 AI가 Spotify 등 여러 소비자 대상 서비스에 쓰이는 방식은 앞서 다룬 바 있다. 음악 산업에는 B2B 활용 사례도 많은데, Cyanite가 가장 최근 사례다."
+            "x": "새로 나온 헤드리스 모델 Mooer GTRS Wing 1000 Intelligent Guitar는 NAM 프로파일, 무선 연결, USB-C DAW 녹음을 지원한다. 눈길을 끄는 Blue Sparkle Burst 마감에 아메리칸 앨더 바디를 쓰고, 스테인리스 스틸 팬드 프렛 24개를 박은 25.1-inch 스케일 bolt-on 넥을 달았다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Headless-Intelligent-Guitar-in-Blue-Sparkle-Burst-side.jpg"
           },
           {
             "t": "p",
-            "x": "이 회사는 수년간 AI로 음악 카탈로그를 분석하고 태깅해 왔다. 새로 내놓은 Cyanite Concierge는 이 카탈로그를 훨씬 쉽게 검색하게 하는 것이 목표다."
+            "x": "‘두뇌’는 픽가드 아래 숨은 G200 SmartBox다. 이펙트 슬롯 12개, 이펙트 모델 229개, 기타 시뮬레이션 20개가 들어 있다. 내장 6-axis IMU로 움직임을 파라미터에 할당할 수 있고, 4000 mAh 배터리는 10시간을 버티며, USB-C 포트로 DAW에 바로 녹음한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-main.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Neural Amp Models는 A1과 A2 두 포맷을 모두 지원한다. Mooer 데스크톱 소프트웨어 GTRS Studio에서 USB로 불러온 뒤, 휴대폰 GTRS 앱에서 꺼내 직접 짠 시그널 체인에 넣으면 된다. 캡처·IR 로드 슬롯은 온보드 이펙트와 별도로 모두 40개다."
+          },
+          {
+            "t": "video",
+            "yt": "ETEfnJwZcNk"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Cyanite brings conversational\nsearch to music catalogues",
-          "body": "Cyanite Concierge lets music businesses search their catalogues conversationally, describing what they need.",
-          "mini_headline": "Cyanite launches Concierge",
+          "headline": "Mooer's headless guitar\nloads neural amp captures",
+          "body": "Mooer's GTRS Wing 1000 headless guitar imports Neural Amp Model captures via GTRS Studio alongside onboard effects.",
+          "mini_headline": "Mooer guitar runs NAM captures",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
-                "cap": "Cyanite Concierge screenshot of features"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Intelligent-Headless-Guitar-with-NAM.jpg"
               },
               {
                 "t": "p",
-                "x": "We’ve been writing about conversational AI and its use in various consumer-focused services – Spotify and more. But there are plenty of B2B uses in the music industry too. Cyanite has the latest example."
+                "x": "The new Mooer GTRS Wing 1000 Intelligent Guitar is a headless model and now supports NAM profiles, wireless connectivity, and USB-C DAW recording! It comes in an eye-catching Blue Sparkle Burst finish, with an American alder body and a 25.1-inch scale bolt-on neck with 24 stainless steel fanned frets."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Headless-Intelligent-Guitar-in-Blue-Sparkle-Burst-side.jpg"
               },
               {
                 "t": "p",
-                "x": "The company has been using AI to analyse and tag catalogues of music for years. Its latest thing is Cyanite Concierge, which aims to make those catalogues even easier to search."
+                "x": "The main ‘brain’ is the G200 SmartBox, concealed under the pickguard, with 12 effect slots, 229 effect models, and 20 guitar simulations. A built-in 6-axis IMU lets you assign movement to parameters, the 4000 mAh battery gives 10 hours of use, and the USB-C port provides direct recording output to a DAW."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-main.jpg"
+              },
+              {
+                "t": "p",
+                "x": "It now supports Neural Amp Models, both A1 and A2 formats. You can import them using Mooer’s desktop GTRS Studio software via USB; they can then be accessed via the GTRS app on your phone and dropped into your own custom signal chains. In total, there are 40 capture and IR load slots, plus the onboard effects."
+              },
+              {
+                "t": "video",
+                "yt": "ETEfnJwZcNk"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Cyanite 대화형 검색\n음악 카탈로그에 도입",
-          "body": "Cyanite Concierge로 음악 기업은 대화하듯 카탈로그를 검색한다.",
-          "mini_headline": "Cyanite, Concierge 출시",
+          "headline": "Mooer 헤드리스 기타\n뉴럴 앰프 캡처 지원",
+          "body": "Mooer GTRS Wing 1000이 Neural Amp Model을 불러온다.",
+          "mini_headline": "Mooer 기타, NAM 캡처 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
-                "cap": "Cyanite Concierge 기능 스크린샷"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Intelligent-Headless-Guitar-with-NAM.jpg"
               },
               {
                 "t": "p",
-                "x": "대화형 AI가 Spotify 등 여러 소비자 대상 서비스에 쓰이는 방식은 앞서 다룬 바 있다. 음악 산업에는 B2B 활용 사례도 많은데, Cyanite가 가장 최근 사례다."
+                "x": "새로 나온 헤드리스 모델 Mooer GTRS Wing 1000 Intelligent Guitar는 NAM 프로파일, 무선 연결, USB-C DAW 녹음을 지원한다. 눈길을 끄는 Blue Sparkle Burst 마감에 아메리칸 앨더 바디를 쓰고, 스테인리스 스틸 팬드 프렛 24개를 박은 25.1-inch 스케일 bolt-on 넥을 달았다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Headless-Intelligent-Guitar-in-Blue-Sparkle-Burst-side.jpg"
               },
               {
                 "t": "p",
-                "x": "이 회사는 수년간 AI로 음악 카탈로그를 분석하고 태깅해 왔다. 새로 내놓은 Cyanite Concierge는 이 카탈로그를 훨씬 쉽게 검색하게 하는 것이 목표다."
+                "x": "‘두뇌’는 픽가드 아래 숨은 G200 SmartBox다. 이펙트 슬롯 12개, 이펙트 모델 229개, 기타 시뮬레이션 20개가 들어 있다. 내장 6-axis IMU로 움직임을 파라미터에 할당할 수 있고, 4000 mAh 배터리는 10시간을 버티며, USB-C 포트로 DAW에 바로 녹음한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-main.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Neural Amp Models는 A1과 A2 두 포맷을 모두 지원한다. Mooer 데스크톱 소프트웨어 GTRS Studio에서 USB로 불러온 뒤, 휴대폰 GTRS 앱에서 꺼내 직접 짠 시그널 체인에 넣으면 된다. 캡처·IR 로드 슬롯은 온보드 이펙트와 별도로 모두 40개다."
+              },
+              {
+                "t": "video",
+                "yt": "ETEfnJwZcNk"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Cyanite、対話型検索\n音楽カタログに導入",
-          "body": "Cyanite Conciergeで音楽企業は要望を語りかけてカタログを検索できる。",
-          "mini_headline": "Cyanite、Conciergeを公開",
+          "headline": "Mooerのヘッドレスギター\nニューラルアンプ対応",
+          "body": "Mooer GTRS Wing 1000はNeural Amp Modelを読み込める。",
+          "mini_headline": "Mooerギター、NAMキャプチャ対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
-                "cap": "Cyanite Conciergeの機能のスクリーンショット"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Intelligent-Headless-Guitar-with-NAM.jpg"
               },
               {
                 "t": "p",
-                "x": "これまで対話型AIと、Spotifyをはじめとするさまざまな消費者向けサービスでの活用について取り上げてきた。だが音楽業界にはB2B向けの用途も数多い。Cyaniteがその最新の例だ。"
+                "x": "新しいMooer GTRS Wing 1000 Intelligent Guitarはヘッドレスモデルで、NAMプロファイル、ワイヤレス接続、USB-CによるDAW録音に対応した。目を引くBlue Sparkle Burst仕上げで、アメリカン・アルダーのボディに、ステンレス製ファンフレット24本を備えた25.1-inchスケールのbolt-onネックを組み合わせる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Headless-Intelligent-Guitar-in-Blue-Sparkle-Burst-side.jpg"
               },
               {
                 "t": "p",
-                "x": "同社は長年、AIを使って音楽カタログを分析しタグ付けしてきた。最新の取り組みがCyanite Conciergeで、カタログをさらに検索しやすくすることを狙う。"
+                "x": "中枢の「頭脳」はピックガード下に隠れたG200 SmartBoxで、12のエフェクトスロット、229のエフェクトモデル、20のギターシミュレーションを備える。内蔵の6-axis IMUで動きをパラメーターに割り当てられ、4000 mAhバッテリーで10時間使え、USB-CポートからDAWへ直接録音出力できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-main.jpg"
+              },
+              {
+                "t": "p",
+                "x": "A1とA2の両フォーマットのNeural Amp Modelsにも対応した。MooerのデスクトップソフトGTRS StudioでUSB経由で取り込み、スマートフォンのGTRSアプリから呼び出して、自作のシグナルチェーンに組み込める。オンボードエフェクトに加え、キャプチャとIRのロードスロットは計40ある。"
+              },
+              {
+                "t": "video",
+                "yt": "ETEfnJwZcNk"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Cyanite为音乐曲库\n引入对话式搜索",
-          "body": "借助Cyanite Concierge，音乐企业可用对话方式描述需求并检索曲库。",
-          "mini_headline": "Cyanite推出Concierge",
+          "headline": "Mooer无头吉他\n可载入神经放大器捕捉",
+          "body": "Mooer GTRS Wing 1000可导入Neural Amp Model捕捉文件。",
+          "mini_headline": "Mooer吉他支持NAM捕捉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
-                "cap": "Cyanite Concierge功能截图"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Intelligent-Headless-Guitar-with-NAM.jpg"
               },
               {
                 "t": "p",
-                "x": "我们一直在报道对话式AI及其在Spotify等各类面向消费者服务中的应用。但音乐行业也有大量B2B用途，Cyanite就是最新的例子。"
+                "x": "全新Mooer GTRS Wing 1000 Intelligent Guitar是一款无头吉他，现已支持NAM配置、无线连接和USB-C DAW录音！它采用醒目的Blue Sparkle Burst涂装，配美国桤木琴身和25.1-inch 弦长的bolt-on琴颈，琴颈装有24根不锈钢扇形品丝。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Headless-Intelligent-Guitar-in-Blue-Sparkle-Burst-side.jpg"
               },
               {
                 "t": "p",
-                "x": "该公司多年来一直用AI分析音乐曲库并为其打标签。其最新产品Cyanite Concierge旨在让这些曲库更易于搜索。"
+                "x": "核心“大脑”是隐藏在护板下的G200 SmartBox，拥有12个效果槽、229种效果模型和20种吉他模拟。内置6-axis IMU可将动作映射到参数，4000 mAh 电池可使用10小时，USB-C接口可直接向DAW输出录音。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-main.jpg"
+              },
+              {
+                "t": "p",
+                "x": "它现在支持A1和A2两种格式的Neural Amp Models。可通过USB用Mooer桌面软件GTRS Studio导入，再在手机上的GTRS应用中调用，放入自定义信号链。除板载效果外，共有40个捕捉与IR加载槽位。"
+              },
+              {
+                "t": "video",
+                "yt": "ETEfnJwZcNk"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cyanite: búsqueda conversacional\npara catálogos musicales",
-          "body": "Cyanite Concierge permite a empresas musicales buscar en sus catálogos conversando y describiendo lo que necesitan.",
-          "mini_headline": "Cyanite lanza Concierge",
+          "headline": "La guitarra headless de Mooer\ncarga capturas de ampli neural",
+          "body": "La guitarra headless GTRS Wing 1000 de Mooer importa capturas Neural Amp Model vía GTRS Studio junto a sus efectos.",
+          "mini_headline": "La guitarra de Mooer admite NAM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
-                "cap": "Captura de las funciones de Cyanite Concierge"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Intelligent-Headless-Guitar-with-NAM.jpg"
               },
               {
                 "t": "p",
-                "x": "Hemos escrito sobre la AI conversacional y su uso en diversos servicios para consumidores, como Spotify, entre otros. Pero en la industria musical también hay muchos usos B2B. Cyanite ofrece el ejemplo más reciente."
+                "x": "La nueva Mooer GTRS Wing 1000 Intelligent Guitar es un modelo headless y ahora admite perfiles NAM, conectividad inalámbrica y grabación en DAW por USB-C. Llega con un llamativo acabado Blue Sparkle Burst, cuerpo de aliso americano y mástil bolt-on de escala 25.1-inch con 24 trastes en abanico de acero inoxidable."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Headless-Intelligent-Guitar-in-Blue-Sparkle-Burst-side.jpg"
               },
               {
                 "t": "p",
-                "x": "La empresa lleva años usando AI para analizar y etiquetar catálogos musicales. Su novedad es Cyanite Concierge, que busca hacer esos catálogos aún más fáciles de explorar."
+                "x": "El ‘cerebro’ principal es el G200 SmartBox, oculto bajo el golpeador, con 12 ranuras de efectos, 229 modelos de efectos y 20 simulaciones de guitarra. Una IMU 6-axis integrada permite asignar el movimiento a parámetros, la batería de 4000 mAh ofrece 10 horas de uso y el puerto USB-C proporciona salida de grabación directa a una DAW."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-main.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Ahora admite Neural Amp Models en los formatos A1 y A2. Se pueden importar con el software de escritorio GTRS Studio de Mooer vía USB y, después, acceder a ellos desde la app GTRS del teléfono para insertarlos en cadenas de señal personalizadas. En total hay 40 ranuras de carga para capturas e IR, además de los efectos integrados."
+              },
+              {
+                "t": "video",
+                "yt": "ETEfnJwZcNk"
               }
             ]
           }
@@ -875,93 +1045,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Cyanite 대화형 검색\n음악 카탈로그에 도입",
-          "body": "Cyanite Concierge로 음악 기업은 대화하듯 카탈로그를 검색한다.",
-          "mini_headline": "Cyanite, Concierge 출시",
+          "headline": "Mooer 헤드리스 기타\n뉴럴 앰프 캡처 지원",
+          "body": "Mooer GTRS Wing 1000이 Neural Amp Model을 불러온다.",
+          "mini_headline": "Mooer 기타, NAM 캡처 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
-                "cap": "Cyanite Concierge 기능 스크린샷"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Intelligent-Headless-Guitar-with-NAM.jpg"
               },
               {
                 "t": "p",
-                "x": "우리는 대화형 AI가 Spotify를 비롯한 여러 소비자 대상 서비스에 쓰이는 방식을 다뤄 왔다. 하지만 음악 산업에는 B2B 활용 사례도 많다. Cyanite가 그 최신 사례다."
+                "x": "새로 나온 Mooer GTRS Wing 1000 Intelligent Guitar는 헤드리스 모델로, 이제 NAM 프로파일, 무선 연결, USB-C DAW 녹음을 지원한다. 눈길을 끄는 Blue Sparkle Burst 마감에 아메리칸 앨더 바디, 스테인리스 스틸 팬드 프렛 24개를 얹은 25.1-inch 스케일 bolt-on 넥을 갖췄다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Headless-Intelligent-Guitar-in-Blue-Sparkle-Burst-side.jpg"
               },
               {
                 "t": "p",
-                "x": "이 회사는 수년간 AI로 음악 카탈로그를 분석하고 태깅해 왔다. 최신작은 Cyanite Concierge로, 이 카탈로그를 한층 쉽게 검색하도록 하는 것이 목표다."
+                "x": "핵심 ‘두뇌’는 픽가드 아래 숨은 G200 SmartBox로, 이펙트 슬롯 12개, 이펙트 모델 229개, 기타 시뮬레이션 20개를 담았다. 내장 6-axis IMU로 움직임을 파라미터에 할당할 수 있고, 4000 mAh 배터리로 10시간 쓸 수 있으며, USB-C 포트는 DAW로 바로 녹음 신호를 보낸다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-main.jpg"
+              },
+              {
+                "t": "p",
+                "x": "이제 A1과 A2 두 포맷의 Neural Amp Models를 모두 지원한다. Mooer의 데스크톱 소프트웨어 GTRS Studio로 USB를 통해 불러온 뒤, 휴대폰의 GTRS 앱에서 꺼내 직접 만든 시그널 체인에 넣을 수 있다. 온보드 이펙트와 별도로 캡처·IR 로드 슬롯이 총 40개다."
+              },
+              {
+                "t": "video",
+                "yt": "ETEfnJwZcNk"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Cyanite、対話型検索\n音楽カタログに導入",
-          "body": "Cyanite Conciergeで音楽企業は要望を語りかけてカタログを検索できる。",
-          "mini_headline": "Cyanite、Conciergeを公開",
+          "headline": "Mooerのヘッドレスギター\nニューラルアンプ対応",
+          "body": "Mooer GTRS Wing 1000はNeural Amp Modelを読み込める。",
+          "mini_headline": "Mooerギター、NAMキャプチャ対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
-                "cap": "Cyanite Conciergeの機能のスクリーンショット"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Intelligent-Headless-Guitar-with-NAM.jpg"
               },
               {
                 "t": "p",
-                "x": "これまで対話型AIと、Spotifyをはじめとするさまざまな消費者向けサービスでの活用について取り上げてきた。だが音楽業界にはB2B向けの用途も数多い。Cyaniteがその最新の例だ。"
+                "x": "新しいMooer GTRS Wing 1000 Intelligent Guitarはヘッドレスモデルで、NAMプロファイル、ワイヤレス接続、USB-CによるDAW録音に対応した。目を引くBlue Sparkle Burst仕上げで、アメリカン・アルダーのボディに、ステンレス製ファンフレット24本を備えた25.1-inchスケールのbolt-onネックを組み合わせる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Headless-Intelligent-Guitar-in-Blue-Sparkle-Burst-side.jpg"
               },
               {
                 "t": "p",
-                "x": "同社は長年、AIを使って音楽カタログを分析しタグ付けしてきた。最新の取り組みがCyanite Conciergeで、カタログをさらに検索しやすくすることを狙う。"
+                "x": "中枢の「頭脳」はピックガード下に隠れたG200 SmartBoxで、12のエフェクトスロット、229のエフェクトモデル、20のギターシミュレーションを備える。内蔵の6-axis IMUで動きをパラメーターに割り当てられ、4000 mAhバッテリーで10時間使え、USB-CポートからDAWへ直接録音出力できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-main.jpg"
+              },
+              {
+                "t": "p",
+                "x": "A1とA2の両フォーマットのNeural Amp Modelsにも対応した。MooerのデスクトップソフトGTRS StudioでUSB経由で取り込み、スマートフォンのGTRSアプリから呼び出して、自作のシグナルチェーンに組み込める。オンボードエフェクトに加え、キャプチャとIRのロードスロットは計40ある。"
+              },
+              {
+                "t": "video",
+                "yt": "ETEfnJwZcNk"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Cyanite为音乐曲库\n引入对话式搜索",
-          "body": "借助Cyanite Concierge，音乐企业可用对话方式描述需求并检索曲库。",
-          "mini_headline": "Cyanite推出Concierge",
+          "headline": "Mooer无头吉他\n可载入神经放大器捕捉",
+          "body": "Mooer GTRS Wing 1000可导入Neural Amp Model捕捉文件。",
+          "mini_headline": "Mooer吉他支持NAM捕捉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
-                "cap": "Cyanite Concierge功能截图"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Intelligent-Headless-Guitar-with-NAM.jpg"
               },
               {
                 "t": "p",
-                "x": "我们一直在报道对话式AI及其在Spotify等各类面向消费者服务中的应用。但音乐行业也有大量B2B用途，Cyanite就是最新的例子。"
+                "x": "全新Mooer GTRS Wing 1000 Intelligent Guitar是一款无头吉他，现已支持NAM配置、无线连接和USB-C DAW录音！它采用醒目的Blue Sparkle Burst涂装，配美国桤木琴身和25.1-inch 弦长的bolt-on琴颈，琴颈装有24根不锈钢扇形品丝。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Headless-Intelligent-Guitar-in-Blue-Sparkle-Burst-side.jpg"
               },
               {
                 "t": "p",
-                "x": "该公司多年来一直用AI分析音乐曲库并为其打标签。其最新产品Cyanite Concierge旨在让这些曲库更易于搜索。"
+                "x": "核心“大脑”是隐藏在护板下的G200 SmartBox，拥有12个效果槽、229种效果模型和20种吉他模拟。内置6-axis IMU可将动作映射到参数，4000 mAh 电池可使用10小时，USB-C接口可直接向DAW输出录音。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-main.jpg"
+              },
+              {
+                "t": "p",
+                "x": "它现在支持A1和A2两种格式的Neural Amp Models。可通过USB用Mooer桌面软件GTRS Studio导入，再在手机上的GTRS应用中调用，放入自定义信号链。除板载效果外，共有40个捕捉与IR加载槽位。"
+              },
+              {
+                "t": "video",
+                "yt": "ETEfnJwZcNk"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cyanite: búsqueda conversacional\npara catálogos musicales",
-          "body": "Cyanite Concierge permite a empresas musicales buscar en sus catálogos conversando y describiendo lo que necesitan.",
-          "mini_headline": "Cyanite lanza Concierge",
+          "headline": "La guitarra headless de Mooer\ncarga capturas de ampli neural",
+          "body": "La guitarra headless GTRS Wing 1000 de Mooer importa capturas Neural Amp Model vía GTRS Studio junto a sus efectos.",
+          "mini_headline": "La guitarra de Mooer admite NAM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
-                "cap": "Captura de las funciones de Cyanite Concierge"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Intelligent-Headless-Guitar-with-NAM.jpg"
               },
               {
                 "t": "p",
-                "x": "Hemos escrito sobre la AI conversacional y su uso en diversos servicios para consumidores, como Spotify, entre otros. Pero en la industria musical también hay muchos usos B2B. Cyanite ofrece el ejemplo más reciente."
+                "x": "La nueva Mooer GTRS Wing 1000 Intelligent Guitar es un modelo headless y ahora admite perfiles NAM, conectividad inalámbrica y grabación en DAW por USB-C. Llega con un llamativo acabado Blue Sparkle Burst, cuerpo de aliso americano y mástil bolt-on de escala 25.1-inch con 24 trastes en abanico de acero inoxidable."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Headless-Intelligent-Guitar-in-Blue-Sparkle-Burst-side.jpg"
               },
               {
                 "t": "p",
-                "x": "La empresa lleva años usando AI para analizar y etiquetar catálogos musicales. Su novedad es Cyanite Concierge, que busca hacer esos catálogos aún más fáciles de explorar."
+                "x": "El ‘cerebro’ principal es el G200 SmartBox, oculto bajo el golpeador, con 12 ranuras de efectos, 229 modelos de efectos y 20 simulaciones de guitarra. Una IMU 6-axis integrada permite asignar el movimiento a parámetros, la batería de 4000 mAh ofrece 10 horas de uso y el puerto USB-C proporciona salida de grabación directa a una DAW."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-main.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Ahora admite Neural Amp Models en los formatos A1 y A2. Se pueden importar con el software de escritorio GTRS Studio de Mooer vía USB y, después, acceder a ellos desde la app GTRS del teléfono para insertarlos en cadenas de señal personalizadas. En total hay 40 ranuras de carga para capturas e IR, además de los efectos integrados."
+              },
+              {
+                "t": "video",
+                "yt": "ETEfnJwZcNk"
               }
             ]
           }
@@ -969,171 +1199,219 @@
       }
     },
     {
-      "id": "mit-tangimap-controls",
+      "id": "musicradar-ai-firmware-mods",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MIT 에이전트, 창작 앱\n실물 컨트롤에 매핑",
-      "body": "MIT CSAIL의 TangiMap은 AI 에이전트로 위젯을 믹서 노브에 옮긴다.",
-      "mini_headline": "MIT 에이전트, DJ 컨트롤 재배치",
+      "headline": "AI 코딩 도구로\n신스 펌웨어가 사용자 손에",
+      "body": "Elektron과 Akai가 AI-assisted 모딩의 의미를 짚는다.",
+      "mini_headline": "AI 모딩과 신스 제조사",
       "tool": "Music",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
-      "accent": "#0070f3",
+      "source": "MusicRadar",
+      "url": "https://www.musicradar.com/music-tech/300-nerds-with-claude-are-going-to-outcompete-any-synth-manufacturer-on-the-market-the-ai-revolution-is-coming-for-your-electronic-instruments",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-TangiMap.png",
-            "cap": "노트북 화면에서 큐브가 튀어나오는 듯한 일러스트. 컴퓨터는 두 손이 조작하는 믹서와 연결돼 있다."
+            "src": "https://cdn.mos.cms.futurecdn.net/m2BWDNwisxvW63imPTCJq4-1920-80.jpg"
           },
           {
             "t": "p",
-            "x": "MIT 대학원생이자 MIT 컴퓨터과학·인공지능연구소(CSAIL) 연구원이 공동 개발한 새 시스템 “TangiMap”은 디지털 위젯을 실물 입력 장치에 매핑한다. 일상 기기의 물리 컨트롤을 개인화해 사진 편집, 애니메이션, 음악 연주, 3D 모델 제작 같은 작업을 더 역동적이고 손에 잡히는 경험으로 바꾼다. DJ의 패드가 큐, 루프, 샘플 트리거를 오가듯, TangiMap은 기기 컨트롤에 완전히 새로운 역할을 맡긴다."
+            "x": "AI ‘vibe coding’ 도구가 폭발적으로 늘면서 펌웨어 모딩에 새 시대가 열렸고, 특정 디지털 악기만 해킹하는 커뮤니티가 통째로 생겨났다. Elektron CTO Jimmy Myhrman은 “여섯 달 전으로 돌아가면 이런 대화를 하고 있지 않았을 것”이라고 말한다."
           },
           {
             "t": "p",
-            "x": "TangiMap은 AI 에이전트로 사용 중인 소프트웨어와 사용자의 습관, 그 프로그램을 조작하는 기기의 맥락을 찾아낸다. 프로그램의 API나 MCP 서버를 보거나, 비전-언어 모델이 해석한 스크린샷을 참고한다. 에이전트는 대규모 언어 모델로 정보를 파일에 정리한 뒤 디지털 기능을 물리 컨트롤에 매핑한다."
+            "x": "Elektron은 저작권 문제와 사용자 하드웨어 손상 우려를 이유로 공식 포럼 Elektronauts에서 모드 공유를 막았다. 다만 Myhrman은 “그 정책이 영원히 유지될 거라고 말하지는 않겠다”며 여지를 남긴다."
           },
           {
             "t": "p",
-            "x": "연구진은 일반 믹서를 Adobe Lightroom용 사진 편집 컨트롤러로 바꿨다. 사운드 믹싱 소프트웨어에도 같은 방식을 적용해 연주자가 노브와 페이더로 음악을 실시간 조정하게 했다. 더 단순한 믹서는 Blender에 매핑했고, Adobe의 Character Animator에서는 캐릭터를 실시간으로 조종했다. Yunyi Zhu와 공동 저자 Chang Xiao는 ACM Symposium on User Interface Software and Technology에서 이 도구를 발표했다."
+            "x": "Akai Professional은 모딩을 받아들여 최신 MPC, MPC Sample, Force용 SDKs를 공개했다. inMusic CEO Jack O’Donnell은 “고객이 제품을 사서 소유하면 그것으로 무엇을 할지 정할 권리가 있다”고 말한다. Akai는 Claude Code로 통째로 vibe-coded한 운영체제들을 돌리는 Sample Key도 예고했다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/yiHYKV3d9js2BZekG3W85e-1920-80.jpg",
+            "cap": "(Image credit: Akai Pro)"
+          },
+          {
+            "t": "p",
+            "x": "Modwerk 공동 창시자 Zach Louden은 이렇게 말한다. “Claude를 쓰는 너드 300명이 시장의 어떤 신스 제조사보다 앞서 나갈 것이다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MIT agent maps creative apps\nonto physical controls",
-          "body": "MIT CSAIL's TangiMap uses an AI agent to map software widgets onto the knobs, buttons and sliders of mixers and pads.",
-          "mini_headline": "MIT agent remaps DJ controls",
+          "headline": "AI coding tools put synth\nfirmware in users' hands",
+          "body": "Elektron and Akai weigh what AI-assisted modding means for instrument makers once users can rewrite their firmware.",
+          "mini_headline": "AI modding meets synth makers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-TangiMap.png",
-                "cap": "Illustration of a cube appearing to jump off the screen of a laptop. The computer is connected to a mixer, which two hands control."
+                "src": "https://cdn.mos.cms.futurecdn.net/m2BWDNwisxvW63imPTCJq4-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "A new system called “TangiMap,” co-developed by an MIT graduate student and researcher at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL), personalizes the physical controls on everyday devices by mapping digital widgets onto tangible inputs, turning things like editing photos, animation, performing music, and creating 3D models into more dynamic and tactile experiences. Just as a DJ’s pads switch between triggering cues, loops, and samples, TangiMap gives a device’s controls entirely new roles."
+                "x": "The explosion of AI 'vibe coding' tools has ushered in a new era for firmware modding, and entire communities have sprung up around hacking specific digital instruments. “I think if we go back six months we would not be having this chat,” says Jimmy Myhrman, CTO at Elektron."
               },
               {
                 "t": "p",
-                "x": "TangiMap relies on an AI agent to find and act on context about the software you’re using, your tendencies, and the device used to control that program, drawing on the program’s API, an MCP server, or a screenshot interpreted by a vision-language model. The agent then uses a large language model to put the info into a file before mapping digital functions to physical controls."
+                "x": "Citing potential copyright issues and the possibility of damage to user hardware, Elektron banned the sharing of mods on Elektronauts, its official forum. “I'm not going to say that that policy will be there forever,” Myhrman concedes."
               },
               {
                 "t": "p",
-                "x": "The researchers turned a standard mixer into a photo-editing controller for Adobe Lightroom, did the same with sound-mixing software so performers can adjust their music in real-time with knobs and faders, mapped a simpler mixer to Blender, and puppeteered characters live in Adobe’s Character Animator. Yunyi Zhu and co-author Chang Xiao presented the tool at the ACM Symposium on User Interface Software and Technology."
+                "x": "Akai Professional has embraced modding and released SDKs for the latest MPC, MPC Sample and Force. “When customers buy and own a product, they have a right to decide what they want to do with it,” says inMusic CEO Jack O’Donnell. Akai teased its Sample Key hosting operating systems all vibe-coded using Claude Code."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/yiHYKV3d9js2BZekG3W85e-1920-80.jpg",
+                "cap": "(Image credit: Akai Pro)"
+              },
+              {
+                "t": "p",
+                "x": "As Modwerk co-originator Zach Louden puts it: “300 nerds with Claude are going to outcompete any synth manufacturer on the market.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "MIT 에이전트, 창작 앱\n실물 컨트롤에 매핑",
-          "body": "MIT CSAIL의 TangiMap은 AI 에이전트로 위젯을 믹서 노브에 옮긴다.",
-          "mini_headline": "MIT 에이전트, DJ 컨트롤 재배치",
+          "headline": "AI 코딩 도구로\n신스 펌웨어가 사용자 손에",
+          "body": "Elektron과 Akai가 AI-assisted 모딩의 의미를 짚는다.",
+          "mini_headline": "AI 모딩과 신스 제조사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-TangiMap.png",
-                "cap": "노트북 화면에서 큐브가 튀어나오는 듯한 일러스트. 컴퓨터는 두 손이 조작하는 믹서와 연결돼 있다."
+                "src": "https://cdn.mos.cms.futurecdn.net/m2BWDNwisxvW63imPTCJq4-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "MIT 대학원생이자 MIT 컴퓨터과학·인공지능연구소(CSAIL) 연구원이 공동 개발한 새 시스템 “TangiMap”은 디지털 위젯을 실물 입력 장치에 매핑한다. 일상 기기의 물리 컨트롤을 개인화해 사진 편집, 애니메이션, 음악 연주, 3D 모델 제작 같은 작업을 더 역동적이고 손에 잡히는 경험으로 바꾼다. DJ의 패드가 큐, 루프, 샘플 트리거를 오가듯, TangiMap은 기기 컨트롤에 완전히 새로운 역할을 맡긴다."
+                "x": "AI ‘vibe coding’ 도구가 폭발적으로 늘면서 펌웨어 모딩에 새 시대가 열렸고, 특정 디지털 악기만 해킹하는 커뮤니티가 통째로 생겨났다. Elektron CTO Jimmy Myhrman은 “여섯 달 전으로 돌아가면 이런 대화를 하고 있지 않았을 것”이라고 말한다."
               },
               {
                 "t": "p",
-                "x": "TangiMap은 AI 에이전트로 사용 중인 소프트웨어와 사용자의 습관, 그 프로그램을 조작하는 기기의 맥락을 찾아낸다. 프로그램의 API나 MCP 서버를 보거나, 비전-언어 모델이 해석한 스크린샷을 참고한다. 에이전트는 대규모 언어 모델로 정보를 파일에 정리한 뒤 디지털 기능을 물리 컨트롤에 매핑한다."
+                "x": "Elektron은 저작권 문제와 사용자 하드웨어 손상 우려를 이유로 공식 포럼 Elektronauts에서 모드 공유를 막았다. 다만 Myhrman은 “그 정책이 영원히 유지될 거라고 말하지는 않겠다”며 여지를 남긴다."
               },
               {
                 "t": "p",
-                "x": "연구진은 일반 믹서를 Adobe Lightroom용 사진 편집 컨트롤러로 바꿨다. 사운드 믹싱 소프트웨어에도 같은 방식을 적용해 연주자가 노브와 페이더로 음악을 실시간 조정하게 했다. 더 단순한 믹서는 Blender에 매핑했고, Adobe의 Character Animator에서는 캐릭터를 실시간으로 조종했다. Yunyi Zhu와 공동 저자 Chang Xiao는 ACM Symposium on User Interface Software and Technology에서 이 도구를 발표했다."
+                "x": "Akai Professional은 모딩을 받아들여 최신 MPC, MPC Sample, Force용 SDKs를 공개했다. inMusic CEO Jack O’Donnell은 “고객이 제품을 사서 소유하면 그것으로 무엇을 할지 정할 권리가 있다”고 말한다. Akai는 Claude Code로 통째로 vibe-coded한 운영체제들을 돌리는 Sample Key도 예고했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/yiHYKV3d9js2BZekG3W85e-1920-80.jpg",
+                "cap": "(Image credit: Akai Pro)"
+              },
+              {
+                "t": "p",
+                "x": "Modwerk 공동 창시자 Zach Louden은 이렇게 말한다. “Claude를 쓰는 너드 300명이 시장의 어떤 신스 제조사보다 앞서 나갈 것이다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "MITのエージェント、\n創作アプリを物理操作に",
-          "body": "MIT CSAILのTangiMapはAIでソフトの部品をミキサーやパッドに割り当てる。",
-          "mini_headline": "MIT、DJ機材の操作を再割り当て",
+          "headline": "AIコーディングでシンセの\nファームウェアが利用者の手に",
+          "body": "ElektronとAkaiが、AI-assistedな改造が楽器メーカーに持つ意味を語る。",
+          "mini_headline": "AIモディングとシンセメーカー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-TangiMap.png",
-                "cap": "ノートパソコンの画面から立方体が飛び出してくるように見えるイラスト。コンピューターはミキサーにつながれ、二つの手がそれを操作している。"
+                "src": "https://cdn.mos.cms.futurecdn.net/m2BWDNwisxvW63imPTCJq4-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "MITの大学院生でMITコンピューター科学・人工知能研究所(CSAIL)の研究者が共同開発した新システム「TangiMap」は、デジタルのウィジェットを実体のある入力装置に割り当てることで、日常的なデバイスの物理コントロールをパーソナライズし、写真編集、アニメーション、音楽演奏、3Dモデル制作といった作業を、よりダイナミックで触覚的な体験に変える。DJのパッドがキュー、ループ、サンプルのトリガーを切り替えるように、TangiMapはデバイスのコントロールにまったく新しい役割を与える。"
+                "x": "AIの「vibe coding」ツールの急増でファームウェア改造は新時代に入り、特定のデジタル楽器のハックを中心にコミュニティが次々と生まれている。「六カ月前に戻れば、こんな話はしていなかっただろう」とElektronのCTO、Jimmy Myhrmanは言う。"
               },
               {
                 "t": "p",
-                "x": "TangiMapはAIエージェントを使い、利用中のソフトウェア、ユーザーの傾向、そのプログラムを操作するデバイスに関する文脈を見つけて活用する。その際、プログラムのAPI、MCPサーバー、あるいは視覚言語モデルが解釈したスクリーンショットを参照する。続いてエージェントは大規模言語モデルで情報をファイルにまとめ、デジタル機能を物理コントロールに割り当てる。"
+                "x": "Elektronは著作権上の問題やユーザーのハードウェアを損傷する恐れを理由に、公式フォーラムElektronautsでの改造データの共有を禁止した。「その方針が永遠に続くとは言わない」とMyhrmanは認める。"
               },
               {
                 "t": "p",
-                "x": "研究チームは標準的なミキサーをAdobe Lightroom用の写真編集コントローラーに変え、サウンドミキシングソフトでも同様にして、演奏者がノブやフェーダーで音楽をリアルタイムに調整できるようにした。さらに簡素なミキサーをBlenderに割り当て、AdobeのCharacter Animatorではキャラクターをライブで操った。Yunyi Zhu氏と共著者のChang Xiao氏は、このツールをACM Symposium on User Interface Software and Technologyで発表した。"
+                "x": "Akai Professionalは改造を歓迎し、最新のMPC、MPC Sample、Force向けにSDKsを公開した。「顧客が製品を買って所有したなら、それで何をするかを決める権利がある」とinMusicのCEO、Jack O’Donnellは語る。AkaiはClaude Codeですべてvibe-codedされたオペレーティングシステムを動かすSample Keyを予告した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/yiHYKV3d9js2BZekG3W85e-1920-80.jpg",
+                "cap": "(Image credit: Akai Pro)"
+              },
+              {
+                "t": "p",
+                "x": "Modwerkの共同発案者Zach Loudenはこう言う。「Claudeを使う300人のオタクが、市場のどのシンセメーカーにも競り勝つだろう」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MIT智能体把创意软件\n映射到实体控件",
-          "body": "MIT CSAIL的TangiMap借助AI智能体，把软件控件映射到调音台的旋钮和按钮上。",
-          "mini_headline": "MIT智能体重映射DJ控件",
+          "headline": "AI编程工具让合成器\n固件交到用户手中",
+          "body": "Elektron与Akai探讨AI-assisted固件改装对乐器厂商意味着什么。",
+          "mini_headline": "AI改装与合成器厂商",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-TangiMap.png",
-                "cap": "插图：一个立方体仿佛从笔记本电脑屏幕中跳出，电脑连接着一台调音台，由两只手操控。"
+                "src": "https://cdn.mos.cms.futurecdn.net/m2BWDNwisxvW63imPTCJq4-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "由一名MIT研究生兼MIT计算机科学与人工智能实验室（CSAIL）研究员共同开发的新系统“TangiMap”，通过把数字控件映射到实体输入设备上，为日常设备的物理控件实现个性化，让修图、动画、音乐演奏和3D建模等工作变得更具动感和触感。正如DJ的打击垫可以在触发提示点、循环和采样之间切换，TangiMap赋予设备控件全新的角色。"
+                "x": "AI“vibe coding”工具的爆发为固件改装开启了新时代，围绕破解特定数字乐器的整个社区纷纷涌现。“如果回到六个月前，我们不会有这场对话，”Elektron的CTO Jimmy Myhrman说。"
               },
               {
                 "t": "p",
-                "x": "TangiMap依靠AI智能体寻找并利用与所用软件、用户习惯以及操控该程序的设备相关的上下文信息，信息来源包括程序的API、MCP服务器，或由视觉语言模型解读的截图。随后，智能体借助大语言模型把这些信息写入文件，再将数字功能映射到物理控件上。"
+                "x": "Elektron以潜在版权问题和可能损坏用户硬件为由，禁止在其官方论坛Elektronauts分享改装。“我不会说这项政策会永远存在，”Myhrman承认。"
               },
               {
                 "t": "p",
-                "x": "研究人员把一台标准调音台改造成Adobe Lightroom的修图控制器；对混音软件也做了同样的处理，让表演者能用旋钮和推子实时调整音乐；还把一台更简单的调音台映射到Blender，并在Adobe的Character Animator中实时操控角色。Yunyi Zhu与合著者Chang Xiao在ACM Symposium on User Interface Software and Technology上展示了这一工具。"
+                "x": "Akai Professional则拥抱改装，为最新的MPC、MPC Sample和Force发布了SDKs。“客户购买并拥有一件产品后，就有权决定如何使用它，”inMusic CEO Jack O’Donnell说。Akai还预告了Sample Key，可运行全部借助Claude Code以vibe-coded方式开发的操作系统。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/yiHYKV3d9js2BZekG3W85e-1920-80.jpg",
+                "cap": "(Image credit: Akai Pro)"
+              },
+              {
+                "t": "p",
+                "x": "正如Modwerk联合发起人Zach Louden所说：“300个用Claude的极客将胜过市场上任何一家合成器厂商。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un agente del MIT lleva apps\ncreativas a controles físicos",
-          "body": "TangiMap, de MIT CSAIL, usa un agente de AI para asignar widgets a perillas y botones de mezcladores y pads.",
-          "mini_headline": "Un agente del MIT reasigna controles de DJ",
+          "headline": "Con AI, el firmware de sintes\nqueda en manos del usuario",
+          "body": "Elektron y Akai analizan qué supone el modding AI-assisted para los fabricantes si el usuario reescribe su firmware.",
+          "mini_headline": "El modding con AI y los fabricantes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-TangiMap.png",
-                "cap": "Ilustración de un cubo que parece saltar de la pantalla de una computadora portátil. El equipo está conectado a un mezclador, que controlan dos manos."
+                "src": "https://cdn.mos.cms.futurecdn.net/m2BWDNwisxvW63imPTCJq4-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Un nuevo sistema llamado “TangiMap”, desarrollado conjuntamente por un estudiante de posgrado del MIT e investigador del Laboratorio de Ciencias de la Computación e Inteligencia Artificial (CSAIL) del MIT, personaliza los controles físicos de dispositivos cotidianos al asignar widgets digitales a entradas tangibles, lo que convierte tareas como editar fotos, animar, interpretar música y crear modelos 3D en experiencias más dinámicas y táctiles. Así como los pads de un DJ alternan entre disparar cues, loops y samples, TangiMap otorga a los controles de un dispositivo funciones completamente nuevas."
+                "x": "La explosión de las herramientas AI de 'vibe coding' ha abierto una nueva era para el modding de firmware, y han surgido comunidades enteras dedicadas a hackear instrumentos digitales concretos. «Creo que si retrocedemos seis meses no estaríamos teniendo esta conversación», dice Jimmy Myhrman, CTO de Elektron."
               },
               {
                 "t": "p",
-                "x": "TangiMap se apoya en un agente de AI para encontrar y aprovechar el contexto sobre el software que se usa, los hábitos del usuario y el dispositivo con el que se controla ese programa, a partir de la API del programa, un servidor MCP o una captura de pantalla interpretada por un modelo de visión y lenguaje. Después, el agente usa un modelo de lenguaje de gran tamaño para volcar la información en un archivo antes de asignar las funciones digitales a los controles físicos."
+                "x": "Alegando posibles problemas de derechos de autor y el riesgo de dañar el hardware de los usuarios, Elektron prohibió compartir mods en Elektronauts, su foro oficial. «No voy a decir que esa política vaya a estar ahí para siempre», admite Myhrman."
               },
               {
                 "t": "p",
-                "x": "Los investigadores convirtieron un mezclador estándar en un controlador de edición fotográfica para Adobe Lightroom, hicieron lo mismo con un software de mezcla de sonido para que los intérpretes ajusten su música en tiempo real con perillas y faders, asignaron un mezclador más sencillo a Blender y animaron personajes en directo en Character Animator de Adobe. Yunyi Zhu y su coautor Chang Xiao presentaron la herramienta en el ACM Symposium on User Interface Software and Technology."
+                "x": "Akai Professional ha abrazado el modding y ha publicado SDKs para los últimos MPC, MPC Sample y Force. «Cuando los clientes compran y poseen un producto, tienen derecho a decidir qué quieren hacer con él», afirma Jack O’Donnell, CEO de inMusic. Akai adelantó su Sample Key, capaz de alojar sistemas operativos vibe-coded por completo con Claude Code."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/yiHYKV3d9js2BZekG3W85e-1920-80.jpg",
+                "cap": "(Image credit: Akai Pro)"
+              },
+              {
+                "t": "p",
+                "x": "Como dice Zach Louden, cocreador de Modwerk: «300 nerds con Claude van a superar a cualquier fabricante de sintetizadores del mercado»."
               }
             ]
           }
@@ -1141,109 +1419,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "MIT 에이전트, 창작 앱\n실물 컨트롤에 매핑",
-          "body": "MIT CSAIL의 TangiMap은 AI 에이전트로 위젯을 믹서 노브에 옮긴다.",
-          "mini_headline": "MIT 에이전트, DJ 컨트롤 재배치",
+          "headline": "AI 코딩 도구로\n신스 펌웨어가 사용자 손에",
+          "body": "Elektron과 Akai가 AI-assisted 모딩의 의미를 짚는다.",
+          "mini_headline": "AI 모딩과 신스 제조사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-TangiMap.png",
-                "cap": "노트북 화면에서 큐브가 튀어나오는 듯한 일러스트. 컴퓨터는 두 손이 조작하는 믹서와 연결돼 있다."
+                "src": "https://cdn.mos.cms.futurecdn.net/m2BWDNwisxvW63imPTCJq4-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "MIT 대학원생이자 MIT 컴퓨터과학·인공지능연구소(CSAIL) 연구원이 공동 개발한 새 시스템 “TangiMap”은 디지털 위젯을 실물 입력 장치에 매핑해 일상 기기의 물리 컨트롤을 개인화하고, 사진 편집, 애니메이션, 음악 연주, 3D 모델 제작 같은 작업을 더 역동적이고 촉각적인 경험으로 바꾼다. DJ의 패드가 큐, 루프, 샘플 트리거를 오가듯, TangiMap은 기기의 컨트롤에 완전히 새로운 역할을 부여한다."
+                "x": "AI ‘vibe coding’ 도구가 폭발적으로 늘며 펌웨어 모딩에 새 시대가 열렸고, 특정 디지털 악기를 해킹하는 커뮤니티가 통째로 생겨났다. Elektron의 CTO Jimmy Myhrman은 “여섯 달 전으로 돌아가면 이런 대화를 하고 있지 않았을 것”이라고 말한다."
               },
               {
                 "t": "p",
-                "x": "TangiMap은 AI 에이전트를 활용해 사용 중인 소프트웨어, 사용자의 습관, 그 프로그램을 조작하는 기기에 관한 맥락을 찾아 활용한다. 이때 프로그램의 API, MCP 서버, 또는 비전-언어 모델이 해석한 스크린샷을 참고한다. 이어 에이전트는 대규모 언어 모델로 정보를 파일에 정리한 뒤 디지털 기능을 물리 컨트롤에 매핑한다."
+                "x": "Elektron은 저작권 문제 가능성과 사용자 하드웨어 손상 우려를 들어 공식 포럼 Elektronauts에서 모드 공유를 금지했다. Myhrman은 “그 정책이 영원히 유지될 거라고 말하지는 않겠다”며 여지를 남긴다."
               },
               {
                 "t": "p",
-                "x": "연구진은 일반 믹서를 Adobe Lightroom용 사진 편집 컨트롤러로 바꿨고, 사운드 믹싱 소프트웨어에도 같은 방식을 적용해 연주자가 노브와 페이더로 음악을 실시간 조정할 수 있게 했다. 더 단순한 믹서는 Blender에 매핑했고, Adobe의 Character Animator에서는 캐릭터를 실시간으로 조종했다. Yunyi Zhu와 공동 저자 Chang Xiao는 ACM Symposium on User Interface Software and Technology에서 이 도구를 발표했다."
+                "x": "Akai Professional은 모딩을 받아들여 최신 MPC, MPC Sample, Force용 SDKs를 공개했다. inMusic CEO Jack O’Donnell은 “고객이 제품을 사서 소유하면 그것으로 무엇을 할지 정할 권리가 있다”고 말한다. Akai는 Claude Code로 전부 vibe-coded한 운영체제들을 구동하는 Sample Key를 예고했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/yiHYKV3d9js2BZekG3W85e-1920-80.jpg",
+                "cap": "(Image credit: Akai Pro)"
+              },
+              {
+                "t": "p",
+                "x": "Modwerk 공동 창시자 Zach Louden의 말대로다. “Claude를 쓰는 너드 300명이 시장의 어떤 신스 제조사보다 앞서 나갈 것이다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "MITのエージェント、\n創作アプリを物理操作に",
-          "body": "MIT CSAILのTangiMapはAIでソフトの部品をミキサーやパッドに割り当てる。",
-          "mini_headline": "MIT、DJ機材の操作を再割り当て",
+          "headline": "AIコーディングでシンセの\nファームウェアが利用者の手に",
+          "body": "ElektronとAkaiが、AI-assistedな改造が楽器メーカーに持つ意味を語る。",
+          "mini_headline": "AIモディングとシンセメーカー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-TangiMap.png",
-                "cap": "ノートパソコンの画面から立方体が飛び出してくるように見えるイラスト。コンピューターはミキサーにつながれ、二つの手がそれを操作している。"
+                "src": "https://cdn.mos.cms.futurecdn.net/m2BWDNwisxvW63imPTCJq4-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "MITの大学院生でMITコンピューター科学・人工知能研究所(CSAIL)の研究者が共同開発した新システム「TangiMap」は、デジタルのウィジェットを実体のある入力装置に割り当てることで、日常的なデバイスの物理コントロールをパーソナライズし、写真編集、アニメーション、音楽演奏、3Dモデル制作といった作業を、よりダイナミックで触覚的な体験に変える。DJのパッドがキュー、ループ、サンプルのトリガーを切り替えるように、TangiMapはデバイスのコントロールにまったく新しい役割を与える。"
+                "x": "AIの「vibe coding」ツールの急増でファームウェア改造は新時代に入り、特定のデジタル楽器のハックを中心にコミュニティが次々と生まれている。「六カ月前に戻れば、こんな話はしていなかっただろう」とElektronのCTO、Jimmy Myhrmanは言う。"
               },
               {
                 "t": "p",
-                "x": "TangiMapはAIエージェントを使い、利用中のソフトウェア、ユーザーの傾向、そのプログラムを操作するデバイスに関する文脈を見つけて活用する。その際、プログラムのAPI、MCPサーバー、あるいは視覚言語モデルが解釈したスクリーンショットを参照する。続いてエージェントは大規模言語モデルで情報をファイルにまとめ、デジタル機能を物理コントロールに割り当てる。"
+                "x": "Elektronは著作権上の問題やユーザーのハードウェアを損傷する恐れを理由に、公式フォーラムElektronautsでの改造データの共有を禁止した。「その方針が永遠に続くとは言わない」とMyhrmanは認める。"
               },
               {
                 "t": "p",
-                "x": "研究チームは標準的なミキサーをAdobe Lightroom用の写真編集コントローラーに変え、サウンドミキシングソフトでも同様にして、演奏者がノブやフェーダーで音楽をリアルタイムに調整できるようにした。さらに簡素なミキサーをBlenderに割り当て、AdobeのCharacter Animatorではキャラクターをライブで操った。Yunyi Zhu氏と共著者のChang Xiao氏は、このツールをACM Symposium on User Interface Software and Technologyで発表した。"
+                "x": "Akai Professionalは改造を歓迎し、最新のMPC、MPC Sample、Force向けにSDKsを公開した。「顧客が製品を買って所有したなら、それで何をするかを決める権利がある」とinMusicのCEO、Jack O’Donnellは語る。AkaiはClaude Codeですべてvibe-codedされたオペレーティングシステムを動かすSample Keyを予告した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/yiHYKV3d9js2BZekG3W85e-1920-80.jpg",
+                "cap": "(Image credit: Akai Pro)"
+              },
+              {
+                "t": "p",
+                "x": "Modwerkの共同発案者Zach Loudenはこう言う。「Claudeを使う300人のオタクが、市場のどのシンセメーカーにも競り勝つだろう」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MIT智能体把创意软件\n映射到实体控件",
-          "body": "MIT CSAIL的TangiMap借助AI智能体，把软件控件映射到调音台的旋钮和按钮上。",
-          "mini_headline": "MIT智能体重映射DJ控件",
+          "headline": "AI编程工具让合成器\n固件交到用户手中",
+          "body": "Elektron与Akai探讨AI-assisted固件改装对乐器厂商意味着什么。",
+          "mini_headline": "AI改装与合成器厂商",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-TangiMap.png",
-                "cap": "插图：一个立方体仿佛从笔记本电脑屏幕中跳出，电脑连接着一台调音台，由两只手操控。"
+                "src": "https://cdn.mos.cms.futurecdn.net/m2BWDNwisxvW63imPTCJq4-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "由一名MIT研究生兼MIT计算机科学与人工智能实验室（CSAIL）研究员共同开发的新系统“TangiMap”，通过把数字控件映射到实体输入设备上，为日常设备的物理控件实现个性化，让修图、动画、音乐演奏和3D建模等工作变得更具动感和触感。正如DJ的打击垫可以在触发提示点、循环和采样之间切换，TangiMap赋予设备控件全新的角色。"
+                "x": "AI“vibe coding”工具的爆发为固件改装开启了新时代，围绕破解特定数字乐器的整个社区纷纷涌现。“如果回到六个月前，我们不会有这场对话，”Elektron的CTO Jimmy Myhrman说。"
               },
               {
                 "t": "p",
-                "x": "TangiMap依靠AI智能体寻找并利用与所用软件、用户习惯以及操控该程序的设备相关的上下文信息，信息来源包括程序的API、MCP服务器，或由视觉语言模型解读的截图。随后，智能体借助大语言模型把这些信息写入文件，再将数字功能映射到物理控件上。"
+                "x": "Elektron以潜在版权问题和可能损坏用户硬件为由，禁止在其官方论坛Elektronauts分享改装。“我不会说这项政策会永远存在，”Myhrman承认。"
               },
               {
                 "t": "p",
-                "x": "研究人员把一台标准调音台改造成Adobe Lightroom的修图控制器；对混音软件也做了同样的处理，让表演者能用旋钮和推子实时调整音乐；还把一台更简单的调音台映射到Blender，并在Adobe的Character Animator中实时操控角色。Yunyi Zhu与合著者Chang Xiao在ACM Symposium on User Interface Software and Technology上展示了这一工具。"
+                "x": "Akai Professional则拥抱改装，为最新的MPC、MPC Sample和Force发布了SDKs。“客户购买并拥有一件产品后，就有权决定如何使用它，”inMusic CEO Jack O’Donnell说。Akai还预告了Sample Key，可运行全部借助Claude Code以vibe-coded方式开发的操作系统。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/yiHYKV3d9js2BZekG3W85e-1920-80.jpg",
+                "cap": "(Image credit: Akai Pro)"
+              },
+              {
+                "t": "p",
+                "x": "正如Modwerk联合发起人Zach Louden所说：“300个用Claude的极客将胜过市场上任何一家合成器厂商。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un agente del MIT lleva apps\ncreativas a controles físicos",
-          "body": "TangiMap, de MIT CSAIL, usa un agente de AI para asignar widgets a perillas y botones de mezcladores y pads.",
-          "mini_headline": "Un agente del MIT reasigna controles de DJ",
+          "headline": "Con AI, el firmware de sintes\nqueda en manos del usuario",
+          "body": "Elektron y Akai analizan qué supone el modding AI-assisted para los fabricantes si el usuario reescribe su firmware.",
+          "mini_headline": "El modding con AI y los fabricantes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202611/MIT-TangiMap.png",
-                "cap": "Ilustración de un cubo que parece saltar de la pantalla de una computadora portátil. El equipo está conectado a un mezclador, que controlan dos manos."
+                "src": "https://cdn.mos.cms.futurecdn.net/m2BWDNwisxvW63imPTCJq4-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Un nuevo sistema llamado “TangiMap”, desarrollado conjuntamente por un estudiante de posgrado del MIT e investigador del Laboratorio de Ciencias de la Computación e Inteligencia Artificial (CSAIL) del MIT, personaliza los controles físicos de dispositivos cotidianos al asignar widgets digitales a entradas tangibles, lo que convierte tareas como editar fotos, animar, interpretar música y crear modelos 3D en experiencias más dinámicas y táctiles. Así como los pads de un DJ alternan entre disparar cues, loops y samples, TangiMap otorga a los controles de un dispositivo funciones completamente nuevas."
+                "x": "La explosión de las herramientas AI de 'vibe coding' ha abierto una nueva era para el modding de firmware, y han surgido comunidades enteras dedicadas a hackear instrumentos digitales concretos. «Creo que si retrocedemos seis meses no estaríamos teniendo esta conversación», dice Jimmy Myhrman, CTO de Elektron."
               },
               {
                 "t": "p",
-                "x": "TangiMap se apoya en un agente de AI para encontrar y aprovechar el contexto sobre el software que se usa, los hábitos del usuario y el dispositivo con el que se controla ese programa, a partir de la API del programa, un servidor MCP o una captura de pantalla interpretada por un modelo de visión y lenguaje. Después, el agente usa un modelo de lenguaje de gran tamaño para volcar la información en un archivo antes de asignar las funciones digitales a los controles físicos."
+                "x": "Alegando posibles problemas de derechos de autor y el riesgo de dañar el hardware de los usuarios, Elektron prohibió compartir mods en Elektronauts, su foro oficial. «No voy a decir que esa política vaya a estar ahí para siempre», admite Myhrman."
               },
               {
                 "t": "p",
-                "x": "Los investigadores convirtieron un mezclador estándar en un controlador de edición fotográfica para Adobe Lightroom, hicieron lo mismo con un software de mezcla de sonido para que los intérpretes ajusten su música en tiempo real con perillas y faders, asignaron un mezclador más sencillo a Blender y animaron personajes en directo en Character Animator de Adobe. Yunyi Zhu y su coautor Chang Xiao presentaron la herramienta en el ACM Symposium on User Interface Software and Technology."
+                "x": "Akai Professional ha abrazado el modding y ha publicado SDKs para los últimos MPC, MPC Sample y Force. «Cuando los clientes compran y poseen un producto, tienen derecho a decidir qué quieren hacer con él», afirma Jack O’Donnell, CEO de inMusic. Akai adelantó su Sample Key, capaz de alojar sistemas operativos vibe-coded por completo con Claude Code."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/yiHYKV3d9js2BZekG3W85e-1920-80.jpg",
+                "cap": "(Image credit: Akai Pro)"
+              },
+              {
+                "t": "p",
+                "x": "Como dice Zach Louden, cocreador de Modwerk: «300 nerds con Claude van a superar a cualquier fabricante de sintetizadores del mercado»."
               }
             ]
           }
@@ -1251,195 +1561,219 @@
       }
     },
     {
-      "id": "madlibs-genmusic-distribution",
+      "id": "george-lynch-ai-session",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MADlibs, 음악 모델\n실제 출력을 지도화",
-      "body": "MADlibs는 NLP-generated 프롬프트와 MIR로 모델 출력을 그린다.",
-      "mini_headline": "AI 음악이 실제로 만드는 것",
+      "headline": "George Lynch,\nAI-generated 곡",
+      "body": "Ex-Dokken의 George Lynch가 모르고 AI-made 곡을 연주했다.",
+      "mini_headline": "Lynch의 기묘한 AI 세션",
       "tool": "Music",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2611.31462",
+      "source": "MusicRadar",
+      "url": "https://www.musicradar.com/artists/guitarists/guitarist-george-lynch-on-his-very-strange-session-for-an-ai-track-i-was-like-why-do-they-want-me-i-mean-im-just-a-human-being-machines-do-it-way-better",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "MADlibs: Analyzing the Distribution of Generative Music(생성 음악의 분포 분석) — Matthew Keating, Noah Schaffer, Michael Casey, Nikhil Singh(Dartmouth College)."
-          },
-          {
-            "t": "p",
-            "x": "텍스트-음악 모델은 실제로 어떤 음악을 만들 수 있을까? 답에 따라 개별 창작자와 커뮤니티, 나아가 음악 문화 전반이 영향을 받는다. MADlibs는 최신 음악 생성기의 표현 지원 범위를 재는 프레임워크다. 프롬프트 공간 전반에서 모델이 실제로 만들어 내는 음악적 행동의 부분집합을 말한다. 저자들은 널리 쓰이는 MusicGen, ACE-Step, DiffRhythm 세 모델을 연구했다."
-          },
-          {
             "t": "img",
-            "src": "https://arxiv.org/html/2611.31462v1/banner.png",
-            "cap": "그림 1: MADlibs 엔드투엔드 파이프라인. 다섯 가지 프롬프트 전략으로 10,000개의 프롬프트를 생성해 세 텍스트-음악 모델의 입력으로 쓴다. 이어 모든 모델의 출력에 MIR 분석을 수행한다."
+            "src": "https://cdn.mos.cms.futurecdn.net/Hpx3fqfTtN8vzF5LbLymZH-2000-80.jpg",
+            "cap": "2011년 Lynch Mob과 함께한 George Lynch"
           },
           {
             "t": "p",
-            "x": "프롬프트는 자연어 처리 기법과 기존 캡션 코퍼스로 만들고, MIR 기법으로 조성, 비트, 템포, 악기 구성, 다이내믹스 측면에서 출력 공간을 분석한다."
+            "x": "Ex-Dokken, Lynch Mob 출신 기타리스트 George Lynch는 멕시코 팟캐스트 Frontera Rock에서 최근 자기도 모르게 AI 곡을 연주했다고 털어놨다."
           },
           {
             "t": "p",
-            "x": "연구에 따르면 텍스트-음악 모델은 같은 프롬프트 공간에서 서로 바꿔 쓸 수 있는 악기가 아니다. 모델마다 고유한 특성을 학습해, 프롬프트로 닿을 수 있는 음악의 범위가 제약된다. 특정 템포를 기본값으로 삼거나, 무음을 만들지 못하거나, 정형화된 밴드 편성을 지나치게 많이 내놓는 식이다. 사용자는 프롬프트를 한 번에 하나씩 다루니 이런 편향은 대개 눈에 띄지 않는다. 그러나 쌓이면 AI-assisted 음악의 소리를 형성하고, “보편적 기술 가능성이라는 약속 뒤에 숨은 새로운 청각적 단일 문화”를 낳을 위험이 있다."
+            "x": "“[그건] 정말이지 아주 인상적이면서도 아주 이상했다. 프로그레시브한 곡이었다. 한 번도 반복되지 않는 전개가 줄줄이 이어졌다. 굉장히 정교하고 복잡한 곡이었다. 그리고 완벽하게 연주돼 있었다.”"
+          },
+          {
+            "t": "video",
+            "yt": "kKTMGtizwgE"
+          },
+          {
+            "t": "p",
+            "x": "“그래서 엔지니어에게 ‘특정 부분을 들을 수 있게 몇 가지를 뮤트해 줄 수 있나?’라고 물었다. ... 그랬더니 ‘그건 안 된다. 통짜 덩어리다’라고 하더라. 내가 ‘뭐라고?’ 하니까 ‘네, 이건 AI가 만든 거다’라고 했다.”"
+          },
+          {
+            "t": "p",
+            "x": "“아주 이상했고, 전에는 겪어 본 적 없는 일이었다”고 그는 말한다. “‘왜 나를 원하지? 나는 그냥 인간일 뿐인데. 기계가 훨씬 더 잘하잖아’ 하는 심정이었다. 결과는 좋게 나왔다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MADlibs maps what music\nmodels can actually make",
-          "body": "MADlibs uses NLP-generated prompts and MIR analysis to chart what text-to-music models will actually produce.",
-          "mini_headline": "Mapping what AI music makes",
+          "headline": "George Lynch played a session\non an AI-generated track",
+          "body": "Ex-Dokken guitarist George Lynch says he unknowingly played on an AI-made track and asked why it needed a human at all.",
+          "mini_headline": "Lynch's strange AI session",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MADlibs: Analyzing the Distribution of Generative Music — Matthew Keating, Noah Schaffer, Michael Casey and Nikhil Singh (Dartmouth College)."
-              },
-              {
-                "t": "p",
-                "x": "What music can a text-to-music model actually make? The answer has consequences for individual creators, communities, and musical culture more broadly. MADlibs is a framework to measure the expressive support of state-of-the-art music generators: the subset of musical behaviors they will actually produce across the space of prompts. The authors study three widely-used models: MusicGen, ACE-Step, and DiffRhythm."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.31462v1/banner.png",
-                "cap": "Figure 1: End-to-end MADlibs pipeline. Using five different prompting strategies, we generate 10,000 prompts and use these as input to three text-to-music models. We then perform downstream MIR analysis on the output of all models."
+                "src": "https://cdn.mos.cms.futurecdn.net/Hpx3fqfTtN8vzF5LbLymZH-2000-80.jpg",
+                "cap": "George Lynch with the Lynch Mob in 2011"
               },
               {
                 "t": "p",
-                "x": "Prompts are generated with natural language processing methods and existing caption corpora; MIR techniques then study the output spaces in terms of key, beat, tempo, instrumentation, and dynamics."
+                "x": "Ex-Dokken and Lynch Mob guitarist George Lynch recently found himself unwittingly playing on an AI track, he told the Mexican podcast Frontera Rock."
               },
               {
                 "t": "p",
-                "x": "The finding: text-to-music models are not interchangeable instruments for the same prompt space. Each has learned idiosyncratic properties that constrain the music reachable via prompting — defaulting to certain tempi, failing to produce silences, or oversampling canonical band arrangements. Because users interact one prompt at a time, these biases are often invisible yet cumulatively shape what AI-assisted music sounds like, risking \"a new auditory monoculture hidden behind the promise of universal describability.\""
+                "x": "“[It's] really actually very impressive and very strange. It was this progressive song. They had all these changes that would never repeat. It was this very highly involved, complex song. And it was played perfectly.”"
+              },
+              {
+                "t": "video",
+                "yt": "kKTMGtizwgE"
+              },
+              {
+                "t": "p",
+                "x": "“Then I asked the engineer, 'Can you mute certain things so I can hear certain things?' ... And he goes, 'It can't do that. It's a monolithic block.' I go, 'What?' He goes, 'Yeah, this was created by AI.'”"
+              },
+              {
+                "t": "p",
+                "x": "“It was very strange, and I'd never experienced that before,” he says. “I was, like, 'Why do they want me? I mean, I'm just a human being. Machines do it way better.' It ended up coming out good.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "MADlibs, 음악 모델\n실제 출력을 지도화",
-          "body": "MADlibs는 NLP-generated 프롬프트와 MIR로 모델 출력을 그린다.",
-          "mini_headline": "AI 음악이 실제로 만드는 것",
+          "headline": "George Lynch,\nAI-generated 곡",
+          "body": "Ex-Dokken의 George Lynch가 모르고 AI-made 곡을 연주했다.",
+          "mini_headline": "Lynch의 기묘한 AI 세션",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MADlibs: Analyzing the Distribution of Generative Music(생성 음악의 분포 분석) — Matthew Keating, Noah Schaffer, Michael Casey, Nikhil Singh(Dartmouth College)."
-              },
-              {
-                "t": "p",
-                "x": "텍스트-음악 모델은 실제로 어떤 음악을 만들 수 있을까? 답에 따라 개별 창작자와 커뮤니티, 나아가 음악 문화 전반이 영향을 받는다. MADlibs는 최신 음악 생성기의 표현 지원 범위를 재는 프레임워크다. 프롬프트 공간 전반에서 모델이 실제로 만들어 내는 음악적 행동의 부분집합을 말한다. 저자들은 널리 쓰이는 MusicGen, ACE-Step, DiffRhythm 세 모델을 연구했다."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.31462v1/banner.png",
-                "cap": "그림 1: MADlibs 엔드투엔드 파이프라인. 다섯 가지 프롬프트 전략으로 10,000개의 프롬프트를 생성해 세 텍스트-음악 모델의 입력으로 쓴다. 이어 모든 모델의 출력에 MIR 분석을 수행한다."
+                "src": "https://cdn.mos.cms.futurecdn.net/Hpx3fqfTtN8vzF5LbLymZH-2000-80.jpg",
+                "cap": "2011년 Lynch Mob과 함께한 George Lynch"
               },
               {
                 "t": "p",
-                "x": "프롬프트는 자연어 처리 기법과 기존 캡션 코퍼스로 만들고, MIR 기법으로 조성, 비트, 템포, 악기 구성, 다이내믹스 측면에서 출력 공간을 분석한다."
+                "x": "Ex-Dokken, Lynch Mob 출신 기타리스트 George Lynch는 멕시코 팟캐스트 Frontera Rock에서 최근 자기도 모르게 AI 곡을 연주했다고 털어놨다."
               },
               {
                 "t": "p",
-                "x": "연구에 따르면 텍스트-음악 모델은 같은 프롬프트 공간에서 서로 바꿔 쓸 수 있는 악기가 아니다. 모델마다 고유한 특성을 학습해, 프롬프트로 닿을 수 있는 음악의 범위가 제약된다. 특정 템포를 기본값으로 삼거나, 무음을 만들지 못하거나, 정형화된 밴드 편성을 지나치게 많이 내놓는 식이다. 사용자는 프롬프트를 한 번에 하나씩 다루니 이런 편향은 대개 눈에 띄지 않는다. 그러나 쌓이면 AI-assisted 음악의 소리를 형성하고, “보편적 기술 가능성이라는 약속 뒤에 숨은 새로운 청각적 단일 문화”를 낳을 위험이 있다."
+                "x": "“[그건] 정말이지 아주 인상적이면서도 아주 이상했다. 프로그레시브한 곡이었다. 한 번도 반복되지 않는 전개가 줄줄이 이어졌다. 굉장히 정교하고 복잡한 곡이었다. 그리고 완벽하게 연주돼 있었다.”"
+              },
+              {
+                "t": "video",
+                "yt": "kKTMGtizwgE"
+              },
+              {
+                "t": "p",
+                "x": "“그래서 엔지니어에게 ‘특정 부분을 들을 수 있게 몇 가지를 뮤트해 줄 수 있나?’라고 물었다. ... 그랬더니 ‘그건 안 된다. 통짜 덩어리다’라고 하더라. 내가 ‘뭐라고?’ 하니까 ‘네, 이건 AI가 만든 거다’라고 했다.”"
+              },
+              {
+                "t": "p",
+                "x": "“아주 이상했고, 전에는 겪어 본 적 없는 일이었다”고 그는 말한다. “‘왜 나를 원하지? 나는 그냥 인간일 뿐인데. 기계가 훨씬 더 잘하잖아’ 하는 심정이었다. 결과는 좋게 나왔다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "MADlibsが描く\n音楽モデルの出力地図",
-          "body": "MADlibsはNLP-generatedプロンプトとMIR解析でモデルの出力を探る。",
-          "mini_headline": "AI音楽が実際に作るもの",
+          "headline": "AI-generated曲に\nGeorge Lynch参加",
+          "body": "Ex-DokkenのGeorge Lynchが、知らずにAI-made曲を弾いたと語った。",
+          "mini_headline": "Lynchの奇妙なAIセッション",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MADlibs: Analyzing the Distribution of Generative Music(生成音楽の分布分析)— Matthew Keating、Noah Schaffer、Michael Casey、Nikhil Singh(Dartmouth College)。"
-              },
-              {
-                "t": "p",
-                "x": "テキストから音楽を生成するモデルは、実際にどんな音楽を作れるのか。その答えは個々のクリエイターやコミュニティ、さらには音楽文化全体に影響を及ぼす。MADlibsは、最先端の音楽生成モデルの表現サポート、すなわちプロンプト空間全体でモデルが実際に生み出す音楽的振る舞いの部分集合を測定するフレームワークだ。著者らは広く使われている三つのモデル、MusicGen、ACE-Step、DiffRhythmを調べた。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.31462v1/banner.png",
-                "cap": "図1: MADlibsのエンドツーエンドのパイプライン。五つのプロンプト戦略で10,000件のプロンプトを生成し、三つのテキスト音楽生成モデルへの入力とする。その後、すべてのモデルの出力に対してMIR解析を行う。"
+                "src": "https://cdn.mos.cms.futurecdn.net/Hpx3fqfTtN8vzF5LbLymZH-2000-80.jpg",
+                "cap": "2011年、Lynch Mobと共演するGeorge Lynch"
               },
               {
                 "t": "p",
-                "x": "プロンプトは自然言語処理の手法と既存のキャプションコーパスを用いて生成し、MIRの手法で調、ビート、テンポ、楽器編成、ダイナミクスの観点から出力空間を分析する。"
+                "x": "Ex-Dokken、Lynch MobのギタリストだったGeorge Lynchは、最近知らないうちにAIの曲で演奏していたと、メキシコのポッドキャストFrontera Rockで明かした。"
               },
               {
                 "t": "p",
-                "x": "結論として、テキスト音楽生成モデルは同じプロンプト空間に対して交換可能な楽器ではない。各モデルは、プロンプトで到達できる音楽を制約する独自の性質を学習している。特定のテンポに偏る、無音を生成できない、定番のバンド編成を過剰に生成する、といった具合だ。ユーザーは一度に一つのプロンプトでやり取りするため、こうした偏りは見えにくいが、積み重なることでAI-assistedの音楽の響きを形づくり、「普遍的に記述できるという約束の陰に隠れた新たな聴覚のモノカルチャー」を生む恐れがある。"
+                "x": "「[それは]本当に、実に見事で、とても奇妙だった。プログレッシブな曲で、決して繰り返さない展開がいくつもあった。非常に入り組んだ複雑な曲だった。そして完璧に演奏されていた」"
+              },
+              {
+                "t": "video",
+                "yt": "kKTMGtizwgE"
+              },
+              {
+                "t": "p",
+                "x": "「それでエンジニアに『特定の音が聴けるように、いくつかミュートしてくれないか』と頼んだんだ。...すると彼は『それはできない。一つの塊なんだ』と言う。『何だって?』と聞くと、『ええ、これはAIが作ったものです』と」"
+              },
+              {
+                "t": "p",
+                "x": "「とても奇妙で、それまで経験したことがなかった」と彼は言う。「『なぜ僕が必要なんだ? 僕はただの人間だ。機械のほうがずっとうまくやる』という感じだった。結果的にはいい仕上がりになった」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MADlibs描绘音乐模型\n实际能生成什么",
-          "body": "MADlibs借助NLP-generated 提示词与MIR分析，描绘音乐模型的实际输出。",
-          "mini_headline": "AI音乐究竟能生成什么",
+          "headline": "George Lynch弹奏\nAI-generated歌曲",
+          "body": "Ex-Dokken吉他手George Lynch称曾在不知情时为AI-made曲目演奏。",
+          "mini_headline": "Lynch的奇特AI录音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MADlibs: Analyzing the Distribution of Generative Music（生成式音乐的分布分析）——Matthew Keating、Noah Schaffer、Michael Casey和Nikhil Singh（Dartmouth College）。"
-              },
-              {
-                "t": "p",
-                "x": "文本生成音乐模型究竟能创作出什么音乐？这个问题的答案关系到个体创作者、社群，乃至更广泛的音乐文化。MADlibs是一个框架，用于衡量最先进音乐生成器的表达支持范围，即模型在整个提示空间中实际会产出的音乐行为子集。作者研究了三个广泛使用的模型：MusicGen、ACE-Step和DiffRhythm。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.31462v1/banner.png",
-                "cap": "图1：MADlibs端到端流程。我们采用五种不同的提示策略生成10,000条提示词，作为三个文本生成音乐模型的输入，随后对所有模型的输出进行MIR分析。"
+                "src": "https://cdn.mos.cms.futurecdn.net/Hpx3fqfTtN8vzF5LbLymZH-2000-80.jpg",
+                "cap": "2011年与Lynch Mob在一起的George Lynch"
               },
               {
                 "t": "p",
-                "x": "提示词借助自然语言处理方法和现有字幕语料库生成，随后用MIR技术从调性、节拍、速度、配器和力度等方面研究输出空间。"
+                "x": "Ex-Dokken及Lynch Mob吉他手George Lynch在接受墨西哥播客Frontera Rock采访时表示，他最近在不知情的情况下为一首AI歌曲演奏。"
               },
               {
                 "t": "p",
-                "x": "研究发现：面对相同的提示空间，文本生成音乐模型并不是可以互换的乐器。每个模型都习得了独特的属性，限制了通过提示能够得到的音乐——例如默认使用某些速度、无法生成静默，或过度采样经典乐队编制。由于用户每次只用一个提示与模型交互，这些偏差往往不易察觉，却会累积塑造AI-assisted音乐的听感，并可能带来“隐藏在普遍可描述性承诺背后的新的听觉单一文化”。"
+                "x": "“[它]真的非常令人惊叹，也非常奇怪。那是一首前卫歌曲，有许多从不重复的变化。那是一首非常繁复、复杂的歌，而且演奏得完美无瑕。”"
+              },
+              {
+                "t": "video",
+                "yt": "kKTMGtizwgE"
+              },
+              {
+                "t": "p",
+                "x": "“然后我问录音师：‘你能把某些部分静音，让我听清某些东西吗？’……他说：‘做不到，这是一整块。’我说：‘什么？’他说：‘对，这是AI生成的。’”"
+              },
+              {
+                "t": "p",
+                "x": "“这非常奇怪，我以前从没经历过，”他说，“我当时就想：‘他们为什么要找我？我只是个人类，机器做得好得多。’最后效果还不错。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "MADlibs mide lo que crean\nde verdad los modelos musicales",
-          "body": "MADlibs usa prompts NLP-generated y análisis MIR para trazar lo que los modelos de texto a música producen de verdad.",
-          "mini_headline": "Mapa de lo que crea la música AI",
+          "headline": "George Lynch tocó en una sesión\nde un tema AI-generated",
+          "body": "El guitarrista Ex-Dokken George Lynch tocó sin saberlo en un tema AI-made y preguntó por qué hacía falta un humano.",
+          "mini_headline": "La extraña sesión AI de Lynch",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MADlibs: Analyzing the Distribution of Generative Music (Análisis de la distribución de la música generativa) — Matthew Keating, Noah Schaffer, Michael Casey y Nikhil Singh (Dartmouth College)."
-              },
-              {
-                "t": "p",
-                "x": "¿Qué música puede crear realmente un modelo de texto a música? La respuesta tiene consecuencias para los creadores individuales, las comunidades y la cultura musical en general. MADlibs es un marco para medir el soporte expresivo de los generadores musicales más avanzados: el subconjunto de comportamientos musicales que realmente producirán en todo el espacio de prompts. Los autores estudian tres modelos de uso extendido: MusicGen, ACE-Step y DiffRhythm."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.31462v1/banner.png",
-                "cap": "Figura 1: Pipeline completo de MADlibs. Con cinco estrategias de prompts distintas, generamos 10,000 prompts y los usamos como entrada para tres modelos de texto a música. Después realizamos un análisis MIR de la salida de todos los modelos."
+                "src": "https://cdn.mos.cms.futurecdn.net/Hpx3fqfTtN8vzF5LbLymZH-2000-80.jpg",
+                "cap": "George Lynch con Lynch Mob en 2011"
               },
               {
                 "t": "p",
-                "x": "Los prompts se generan con métodos de procesamiento del lenguaje natural y corpus de descripciones existentes; después, técnicas MIR estudian los espacios de salida en cuanto a tonalidad, pulso, tempo, instrumentación y dinámica."
+                "x": "George Lynch, guitarrista Ex-Dokken y de Lynch Mob, se encontró hace poco tocando sin saberlo en un tema de AI, según contó al pódcast mexicano Frontera Rock."
               },
               {
                 "t": "p",
-                "x": "La conclusión: los modelos de texto a música no son instrumentos intercambiables para un mismo espacio de prompts. Cada uno ha aprendido propiedades idiosincrásicas que limitan la música alcanzable mediante prompts: recurren por defecto a ciertos tempos, no logran producir silencios o sobrerrepresentan formaciones de banda canónicas. Como los usuarios interactúan con un prompt cada vez, estos sesgos suelen ser invisibles, pero en conjunto moldean cómo suena la música AI-assisted, con el riesgo de “una nueva monocultura auditiva oculta tras la promesa de la describibilidad universal”."
+                "x": "«[Es] realmente muy impresionante y muy extraño. Era una canción progresiva. Tenía todos esos cambios que nunca se repetían. Era una canción muy elaborada y compleja. Y estaba tocada a la perfección»."
+              },
+              {
+                "t": "video",
+                "yt": "kKTMGtizwgE"
+              },
+              {
+                "t": "p",
+                "x": "«Entonces le pregunté al ingeniero: '¿Puedes silenciar ciertas cosas para que pueda oír otras?' ... Y él dice: 'No se puede. Es un bloque monolítico'. Yo digo: '¿Qué?'. Y él: 'Sí, esto lo creó una AI'»."
+              },
+              {
+                "t": "p",
+                "x": "«Fue muy extraño, nunca había vivido algo así», dice. «Pensaba: '¿Por qué me quieren a mí? Solo soy un ser humano. Las máquinas lo hacen mucho mejor'. Al final quedó bien»."
               }
             ]
           }
@@ -1447,125 +1781,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "MADlibs, 음악 모델\n실제 출력을 지도화",
-          "body": "MADlibs는 NLP-generated 프롬프트와 MIR로 모델 출력을 그린다.",
-          "mini_headline": "AI 음악이 실제로 만드는 것",
+          "headline": "George Lynch,\nAI-generated 곡",
+          "body": "Ex-Dokken의 George Lynch가 모르고 AI-made 곡을 연주했다.",
+          "mini_headline": "Lynch의 기묘한 AI 세션",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MADlibs: Analyzing the Distribution of Generative Music(생성 음악의 분포 분석) — Matthew Keating, Noah Schaffer, Michael Casey, Nikhil Singh(Dartmouth College)."
-              },
-              {
-                "t": "p",
-                "x": "텍스트-음악 모델은 실제로 어떤 음악을 만들 수 있을까? 이 질문의 답은 개별 창작자와 커뮤니티, 나아가 음악 문화 전반에 영향을 미친다. MADlibs는 최신 음악 생성기의 표현 지원 범위, 즉 프롬프트 공간 전반에서 모델이 실제로 만들어 내는 음악적 행동의 부분집합을 측정하는 프레임워크다. 저자들은 널리 쓰이는 세 모델인 MusicGen, ACE-Step, DiffRhythm을 연구했다."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.31462v1/banner.png",
-                "cap": "그림 1: MADlibs 엔드투엔드 파이프라인. 다섯 가지 프롬프트 전략으로 10,000개의 프롬프트를 생성해 세 텍스트-음악 모델의 입력으로 쓴다. 이어 모든 모델의 출력에 MIR 분석을 수행한다."
+                "src": "https://cdn.mos.cms.futurecdn.net/Hpx3fqfTtN8vzF5LbLymZH-2000-80.jpg",
+                "cap": "2011년 Lynch Mob과 함께한 George Lynch"
               },
               {
                 "t": "p",
-                "x": "프롬프트는 자연어 처리 기법과 기존 캡션 코퍼스로 생성하며, 이후 MIR 기법으로 조성, 비트, 템포, 악기 구성, 다이내믹스 측면에서 출력 공간을 분석한다."
+                "x": "Ex-Dokken, Lynch Mob 출신 기타리스트 George Lynch는 최근 자신도 모르게 AI 곡을 연주하게 됐다고 멕시코 팟캐스트 Frontera Rock에 밝혔다."
               },
               {
                 "t": "p",
-                "x": "연구 결과, 텍스트-음악 모델은 같은 프롬프트 공간에서 서로 바꿔 쓸 수 있는 악기가 아니다. 모델마다 프롬프트로 도달할 수 있는 음악을 제약하는 고유한 특성을 학습했다. 특정 템포를 기본값으로 삼거나, 무음을 만들어 내지 못하거나, 정형화된 밴드 편성을 과도하게 생성하는 식이다. 사용자는 한 번에 프롬프트 하나씩 다루기 때문에 이런 편향은 대개 눈에 띄지 않지만, 누적되면 AI-assisted 음악의 소리를 형성하며 “보편적 기술 가능성이라는 약속 뒤에 숨은 새로운 청각적 단일 문화”를 낳을 위험이 있다."
+                "x": "“[그건] 정말이지 아주 인상적이면서도 아주 이상했다. 프로그레시브한 곡이었다. 한 번도 반복되지 않는 전개가 줄줄이 이어졌다. 굉장히 정교하고 복잡한 곡이었다. 그리고 완벽하게 연주돼 있었다.”"
+              },
+              {
+                "t": "video",
+                "yt": "kKTMGtizwgE"
+              },
+              {
+                "t": "p",
+                "x": "“그래서 엔지니어에게 ‘특정 부분을 들을 수 있게 몇 가지를 뮤트해 줄 수 있나?’라고 물었다. ... 그랬더니 ‘그건 안 된다. 통짜 덩어리다’라고 하더라. 내가 ‘뭐라고?’ 하니까 ‘네, 이건 AI가 만든 거다’라고 했다.”"
+              },
+              {
+                "t": "p",
+                "x": "“아주 이상했고, 전에는 겪어 본 적 없는 일이었다”고 그는 말한다. “‘왜 나를 원하지? 나는 그냥 인간일 뿐인데. 기계가 훨씬 더 잘하잖아’ 하는 심정이었다. 결과는 좋게 나왔다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "MADlibsが描く\n音楽モデルの出力地図",
-          "body": "MADlibsはNLP-generatedプロンプトとMIR解析でモデルの出力を探る。",
-          "mini_headline": "AI音楽が実際に作るもの",
+          "headline": "AI-generated曲に\nGeorge Lynch参加",
+          "body": "Ex-DokkenのGeorge Lynchが、知らずにAI-made曲を弾いたと語った。",
+          "mini_headline": "Lynchの奇妙なAIセッション",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MADlibs: Analyzing the Distribution of Generative Music(生成音楽の分布分析)— Matthew Keating、Noah Schaffer、Michael Casey、Nikhil Singh(Dartmouth College)。"
-              },
-              {
-                "t": "p",
-                "x": "テキストから音楽を生成するモデルは、実際にどんな音楽を作れるのか。その答えは個々のクリエイターやコミュニティ、さらには音楽文化全体に影響を及ぼす。MADlibsは、最先端の音楽生成モデルの表現サポート、すなわちプロンプト空間全体でモデルが実際に生み出す音楽的振る舞いの部分集合を測定するフレームワークだ。著者らは広く使われている三つのモデル、MusicGen、ACE-Step、DiffRhythmを調べた。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.31462v1/banner.png",
-                "cap": "図1: MADlibsのエンドツーエンドのパイプライン。五つのプロンプト戦略で10,000件のプロンプトを生成し、三つのテキスト音楽生成モデルへの入力とする。その後、すべてのモデルの出力に対してMIR解析を行う。"
+                "src": "https://cdn.mos.cms.futurecdn.net/Hpx3fqfTtN8vzF5LbLymZH-2000-80.jpg",
+                "cap": "2011年、Lynch Mobと共演するGeorge Lynch"
               },
               {
                 "t": "p",
-                "x": "プロンプトは自然言語処理の手法と既存のキャプションコーパスを用いて生成し、MIRの手法で調、ビート、テンポ、楽器編成、ダイナミクスの観点から出力空間を分析する。"
+                "x": "Ex-Dokken、Lynch MobのギタリストだったGeorge Lynchは、最近知らないうちにAIの曲で演奏していたと、メキシコのポッドキャストFrontera Rockで明かした。"
               },
               {
                 "t": "p",
-                "x": "結論として、テキスト音楽生成モデルは同じプロンプト空間に対して交換可能な楽器ではない。各モデルは、プロンプトで到達できる音楽を制約する独自の性質を学習している。特定のテンポに偏る、無音を生成できない、定番のバンド編成を過剰に生成する、といった具合だ。ユーザーは一度に一つのプロンプトでやり取りするため、こうした偏りは見えにくいが、積み重なることでAI-assistedの音楽の響きを形づくり、「普遍的に記述できるという約束の陰に隠れた新たな聴覚のモノカルチャー」を生む恐れがある。"
+                "x": "「[それは]本当に、実に見事で、とても奇妙だった。プログレッシブな曲で、決して繰り返さない展開がいくつもあった。非常に入り組んだ複雑な曲だった。そして完璧に演奏されていた」"
+              },
+              {
+                "t": "video",
+                "yt": "kKTMGtizwgE"
+              },
+              {
+                "t": "p",
+                "x": "「それでエンジニアに『特定の音が聴けるように、いくつかミュートしてくれないか』と頼んだんだ。...すると彼は『それはできない。一つの塊なんだ』と言う。『何だって?』と聞くと、『ええ、これはAIが作ったものです』と」"
+              },
+              {
+                "t": "p",
+                "x": "「とても奇妙で、それまで経験したことがなかった」と彼は言う。「『なぜ僕が必要なんだ? 僕はただの人間だ。機械のほうがずっとうまくやる』という感じだった。結果的にはいい仕上がりになった」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MADlibs描绘音乐模型\n实际能生成什么",
-          "body": "MADlibs借助NLP-generated 提示词与MIR分析，描绘音乐模型的实际输出。",
-          "mini_headline": "AI音乐究竟能生成什么",
+          "headline": "George Lynch弹奏\nAI-generated歌曲",
+          "body": "Ex-Dokken吉他手George Lynch称曾在不知情时为AI-made曲目演奏。",
+          "mini_headline": "Lynch的奇特AI录音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MADlibs: Analyzing the Distribution of Generative Music（生成式音乐的分布分析）——Matthew Keating、Noah Schaffer、Michael Casey和Nikhil Singh（Dartmouth College）。"
-              },
-              {
-                "t": "p",
-                "x": "文本生成音乐模型究竟能创作出什么音乐？这个问题的答案关系到个体创作者、社群，乃至更广泛的音乐文化。MADlibs是一个框架，用于衡量最先进音乐生成器的表达支持范围，即模型在整个提示空间中实际会产出的音乐行为子集。作者研究了三个广泛使用的模型：MusicGen、ACE-Step和DiffRhythm。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.31462v1/banner.png",
-                "cap": "图1：MADlibs端到端流程。我们采用五种不同的提示策略生成10,000条提示词，作为三个文本生成音乐模型的输入，随后对所有模型的输出进行MIR分析。"
+                "src": "https://cdn.mos.cms.futurecdn.net/Hpx3fqfTtN8vzF5LbLymZH-2000-80.jpg",
+                "cap": "2011年与Lynch Mob在一起的George Lynch"
               },
               {
                 "t": "p",
-                "x": "提示词借助自然语言处理方法和现有字幕语料库生成，随后用MIR技术从调性、节拍、速度、配器和力度等方面研究输出空间。"
+                "x": "Ex-Dokken及Lynch Mob吉他手George Lynch在接受墨西哥播客Frontera Rock采访时表示，他最近在不知情的情况下为一首AI歌曲演奏。"
               },
               {
                 "t": "p",
-                "x": "研究发现：面对相同的提示空间，文本生成音乐模型并不是可以互换的乐器。每个模型都习得了独特的属性，限制了通过提示能够得到的音乐——例如默认使用某些速度、无法生成静默，或过度采样经典乐队编制。由于用户每次只用一个提示与模型交互，这些偏差往往不易察觉，却会累积塑造AI-assisted音乐的听感，并可能带来“隐藏在普遍可描述性承诺背后的新的听觉单一文化”。"
+                "x": "“[它]真的非常令人惊叹，也非常奇怪。那是一首前卫歌曲，有许多从不重复的变化。那是一首非常繁复、复杂的歌，而且演奏得完美无瑕。”"
+              },
+              {
+                "t": "video",
+                "yt": "kKTMGtizwgE"
+              },
+              {
+                "t": "p",
+                "x": "“然后我问录音师：‘你能把某些部分静音，让我听清某些东西吗？’……他说：‘做不到，这是一整块。’我说：‘什么？’他说：‘对，这是AI生成的。’”"
+              },
+              {
+                "t": "p",
+                "x": "“这非常奇怪，我以前从没经历过，”他说，“我当时就想：‘他们为什么要找我？我只是个人类，机器做得好得多。’最后效果还不错。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "MADlibs mide lo que crean\nde verdad los modelos musicales",
-          "body": "MADlibs usa prompts NLP-generated y análisis MIR para trazar lo que los modelos de texto a música producen de verdad.",
-          "mini_headline": "Mapa de lo que crea la música AI",
+          "headline": "George Lynch tocó en una sesión\nde un tema AI-generated",
+          "body": "El guitarrista Ex-Dokken George Lynch tocó sin saberlo en un tema AI-made y preguntó por qué hacía falta un humano.",
+          "mini_headline": "La extraña sesión AI de Lynch",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MADlibs: Analyzing the Distribution of Generative Music (Análisis de la distribución de la música generativa) — Matthew Keating, Noah Schaffer, Michael Casey y Nikhil Singh (Dartmouth College)."
-              },
-              {
-                "t": "p",
-                "x": "¿Qué música puede crear realmente un modelo de texto a música? La respuesta tiene consecuencias para los creadores individuales, las comunidades y la cultura musical en general. MADlibs es un marco para medir el soporte expresivo de los generadores musicales más avanzados: el subconjunto de comportamientos musicales que realmente producirán en todo el espacio de prompts. Los autores estudian tres modelos de uso extendido: MusicGen, ACE-Step y DiffRhythm."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2611.31462v1/banner.png",
-                "cap": "Figura 1: Pipeline completo de MADlibs. Con cinco estrategias de prompts distintas, generamos 10,000 prompts y los usamos como entrada para tres modelos de texto a música. Después realizamos un análisis MIR de la salida de todos los modelos."
+                "src": "https://cdn.mos.cms.futurecdn.net/Hpx3fqfTtN8vzF5LbLymZH-2000-80.jpg",
+                "cap": "George Lynch con Lynch Mob en 2011"
               },
               {
                 "t": "p",
-                "x": "Los prompts se generan con métodos de procesamiento del lenguaje natural y corpus de descripciones existentes; después, técnicas MIR estudian los espacios de salida en cuanto a tonalidad, pulso, tempo, instrumentación y dinámica."
+                "x": "George Lynch, guitarrista Ex-Dokken y de Lynch Mob, se encontró hace poco tocando sin saberlo en un tema de AI, según contó al pódcast mexicano Frontera Rock."
               },
               {
                 "t": "p",
-                "x": "La conclusión: los modelos de texto a música no son instrumentos intercambiables para un mismo espacio de prompts. Cada uno ha aprendido propiedades idiosincrásicas que limitan la música alcanzable mediante prompts: recurren por defecto a ciertos tempos, no logran producir silencios o sobrerrepresentan formaciones de banda canónicas. Como los usuarios interactúan con un prompt cada vez, estos sesgos suelen ser invisibles, pero en conjunto moldean cómo suena la música AI-assisted, con el riesgo de “una nueva monocultura auditiva oculta tras la promesa de la describibilidad universal”."
+                "x": "«[Es] realmente muy impresionante y muy extraño. Era una canción progresiva. Tenía todos esos cambios que nunca se repetían. Era una canción muy elaborada y compleja. Y estaba tocada a la perfección»."
+              },
+              {
+                "t": "video",
+                "yt": "kKTMGtizwgE"
+              },
+              {
+                "t": "p",
+                "x": "«Entonces le pregunté al ingeniero: '¿Puedes silenciar ciertas cosas para que pueda oír otras?' ... Y él dice: 'No se puede. Es un bloque monolítico'. Yo digo: '¿Qué?'. Y él: 'Sí, esto lo creó una AI'»."
+              },
+              {
+                "t": "p",
+                "x": "«Fue muy extraño, nunca había vivido algo así», dice. «Pensaba: '¿Por qué me quieren a mí? Solo soy un ser humano. Las máquinas lo hacen mucho mejor'. Al final quedó bien»."
               }
             ]
           }

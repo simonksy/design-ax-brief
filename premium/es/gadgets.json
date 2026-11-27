@@ -14057,6 +14057,142 @@
           "x": "Las reservas de Orrorin empiezan en $29, que se descuentan del precio de $799. Savage calcula que los envíos comenzarán en marzo de 2027 para los compradores de Founder Edition y en mayo de 2027 para los de Early Bird."
         }
       ]
+    },
+    "gadgets/xda-esp32-agent-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-claude-code.jpg?&fit=crop&w=1600&h=900",
+          "cap": "Placa Esp32 con Claude Code de fondo"
+        },
+        {
+          "t": "p",
+          "x": "XDA dio a Claude Code, OpenAI Codex y Antigravity de Google exactamente la misma tarea: escribir firmware para un ESP32 que controlara una tira LED RGB WS2812B por Wi-Fi, con un panel web local, controles de color y brillo, algunos efectos de iluminación y ajustes que se conservaran tras un reinicio. Solo un agente logró que todo funcionara en el primer flasheo."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-new.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "Sensor ESP32 en la mano"
+        },
+        {
+          "t": "p",
+          "x": "Claude Code fue el mejor de los tres y el único cuyo firmware funcionó en el primer flasheo. Compiló sin cambios, y una animación podía seguir ejecutándose mientras el panel seguía siendo utilizable. \"No tuve que enviar a Claude Code ni un solo prompt de seguimiento.\""
+        },
+        {
+          "t": "p",
+          "x": "Codex estuvo bastante cerca: su firmware compiló y el panel se abrió, pero los LEDs no cambiaban de color porque el panel enviaba comandos a un endpoint distinto del configurado en el firmware."
+        },
+        {
+          "t": "p",
+          "x": "El panel de Google Antigravity dejó de responder al ejecutar un efecto animado, porque su código de animación mantenía ocupado el ESP32 demasiado tiempo. Tanto Codex como Antigravity necesitaron otra ronda de correcciones; Claude Code fue el claro ganador."
+        }
+      ]
+    },
+    "gadgets/moe-smartglasses-detect": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/27/rcv.YNA.20261127.PYH2026112706610001300_P1.jpg",
+          "cap": "Choi Eun-ok, a cargo interinamente del Ministerio de Educación, responde a preguntas de los legisladores en la sesión plenaria del Comité de Educación celebrada el 27 en la Asamblea Nacional. (Foto=Yonhap News)"
+        },
+        {
+          "t": "p",
+          "x": "El Gobierno terminó de desarrollar una tecnología para detectar gafas inteligentes con el fin de evitar fraudes en el examen de acceso a la universidad (suneung) y avanza hacia su comercialización. También prevé desarrollar tecnología para detectar la AI en el dispositivo, que ejecuta la inteligencia artificial (AI) en el propio equipo sin conexión a internet. En la sesión plenaria del Comité de Educación de la Asamblea Nacional celebrada el 27, Choi Eun-ok, a cargo interinamente del Ministerio de Educación, afirmó: “La tecnología para detectar gafas inteligentes ya se ha desarrollado y ha entrado en fase de comercialización”, y añadió: “Nos preparamos calculando hacia atrás el calendario de desarrollo tecnológico con la vista puesta en el suneung del próximo año”."
+        },
+        {
+          "t": "p",
+          "x": "En el grupo de trabajo (TF) interministerial que preside el primer ministro, el Ministerio de Educación se encarga de la respuesta al fraude en el suneung, y el Ministerio de Ciencia y TIC, del desarrollo de la tecnología correspondiente. Ambos ministerios también estudian cómo detectar la AI en el dispositivo. El Ministerio de Educación calcula que se necesitarán unos 400억원 de presupuesto adicional para dotar de equipos de detección antifraude a las oficinas de educación y a las oficinas de apoyo educativo de todo el país. Sin embargo, aún no se ha decidido si esa partida se incluirá realmente en el presupuesto. También se ha activado un sistema de respuesta de emergencia para evitar fraudes en los exámenes propios de las universidades."
+        },
+        {
+          "t": "p",
+          "x": "En las 14 universidades que celebraron sus propios exámenes después del suneung no se detectó ningún caso de fraude con dispositivos inteligentes. El Ministerio pidió a cada universidad que conserve todos los cuadernillos y hojas de respuesta de sus exámenes y que vuelva a revisar los de todos los futuros admitidos. Se constató que 237 centros desecharon los cuadernillos del suneung del año pasado, 4 más que los 233 que el Ministerio anunció el 25. En cuanto a las medidas contra el fraude en los exámenes internos de secundaria, impulsará el desarrollo de tecnología para reducir la carga de los docentes."
+        },
+        {
+          "t": "p",
+          "x": "El 24, el Ministerio de Educación anunció medidas centradas en la revisión de todos los examinados con detectores de metales y en la entrega unificada de material de escritura. Choi afirmó: “En adelante, buscaremos la manera de supervisar bien los exámenes escolares mediante el desarrollo tecnológico, entre otras vías, sin aumentar la carga de los supervisores”, y añadió: “En el fondo, de qué forma y con qué contenido deben hacerse los exámenes y evaluaciones también es una cuestión que hay que debatir a largo plazo”."
+        }
+      ]
+    },
+    "gadgets/sheiko-gpsfree-autopilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/TPpL3AULPVhwmkFHW2ZLcU.jpg",
+          "cap": "Dron"
+        },
+        {
+          "t": "p",
+          "x": "Un estudiante de 11.º grado ha recibido el premio “The Future of Ukraine” de manos del presidente Volodymyr Zelenskyy por varios logros técnicos. Según Poltava Wave, Yaroslav Sheiko, estudiante de Poltava, ciudad situada a unas 190 millas al oeste de Kyiv, construyó un sistema de piloto automático AI-powered para drones que permite a los vehículos aéreos no tripulados (UAVs) llegar a su destino sin depender de señales GPS, además de un sistema de estabilización optoelectrónica."
+        },
+        {
+          "t": "p",
+          "x": "Este alumno de 11.º grado ya ha recibido dos becas presidenciales, ha ganado dos veces el máximo galardón en concursos nacionales organizados por la Junior Academy of Sciences de Ucrania y obtuvo una medalla de oro en el INOVA 2025 International Inventions Show y una de plata en el 2025 Hackathon."
+        },
+        {
+          "t": "p",
+          "x": "Ucrania también trabaja en tecnologías propias para mejorar sus capacidades con drones, como equipar su flota inmovilizada de drones de reconocimiento Puma U.S.-made con sistemas antiinterferencias nacionales y usar una red de “módems voladores” para ampliar el alcance de sus drones de ataque sin depender de Starlink."
+        }
+      ]
+    },
+    "gadgets/s27-oneui95-ai-teardown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/S26-in-hand-showing-One-UI-9.5-welcome-screen-scaled.jpg",
+          "cap": "Un S26 en la mano con la pantalla de bienvenida de One UI 9.5"
+        },
+        {
+          "t": "p",
+          "x": "El código de One UI 9.5 Beta 1 vincula una larga lista de nuevas funciones de Galaxy AI a la “Galaxy AI version 20271”, que el propio código de Samsung identifica como la versión de AI del S27. Voice Recorder identifica 20261 como la versión del S26 y 20271 como la del S27. Esta información se basa en código en desarrollo; es posible que estas funciones no lleguen a lanzarse."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Beta-1-Galaxy-AI-version_1.jpg",
+          "cap": "Versión de Galaxy AI en One UI 9.5 Beta 1"
+        },
+        {
+          "t": "p",
+          "x": "Las funciones bloqueadas abarcan Recompose de Gallery, que cambia con AI el ángulo de cámara de una foto; las nuevas herramientas Camera ProScan y Log LUT; AI select para tablas completas; más idiomas en Scam Detection, y un Audio eraser para llamadas. Al forzar 20271 en un S26 Ultra, AI select reconoció una tabla entera de 83 filas y ofreció un chip Copy table."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-One-UI-9.5-Beta-1-AI-select-Copy-Table_2-scaled.jpg",
+          "cap": "AI select ofrece un chip Copy table en un Galaxy S26 Ultra con One UI 9.5 Beta 1"
+        },
+        {
+          "t": "p",
+          "x": "Varias funciones de 20271, como los créditos de Gen Video, Ask anything de Samsung Browser y la tarjeta de acción de Bixby en Now Brief, parecen ligadas a un nivel de pago Galaxy AI Premium. Samsung llevó este año varias funciones del S26 a teléfonos más antiguos, así que puede que no todas sigan siendo S27-exclusive (exclusivas del Galaxy S27) para siempre."
+        }
+      ]
+    },
+    "gadgets/xpeng-iron-humanoid-ev-price": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+          "cap": "XPENG"
+        },
+        {
+          "t": "p",
+          "x": "El fabricante chino de EV XPeng afirma que su robot humanoide IRON podría costar aproximadamente lo mismo que un vehículo eléctrico cuando salga a la venta al público en 2027. A largo plazo, XPeng quiere que IRON trabaje en los hogares, aunque primero llegará el despliegue comercial."
+        },
+        {
+          "t": "p",
+          "x": "El vicepresidente de XPeng, Brian Gu, dijo a Bloomberg que IRON podría tener un precio cercano a la mediana del precio de venta de un EV, sin revelar una cifra exacta. Está previsto que el robot comience a formarse como asistente de venta en tiendas de XPeng en el primer trimestre de 2027, antes de su lanzamiento al público en el segundo trimestre. XPeng aspira a vender decenas de miles de robots humanoides ese año."
+        },
+        {
+          "t": "p",
+          "x": "En su AI Day, XPeng mostró la versión más reciente de IRON, que respondió en directo a preguntas del público sobre el escenario. Cuenta con 76 grados de libertad, más de 1,500 puntos de detección táctil y tres chips Turing AI propios que impulsan sus modelos integrados y el control de todo el cuerpo. Según XPeng, puede desplazarse de forma autónoma, recibir tareas por voz o mediante una app, recargarse solo y supervisar su propio estado operativo."
+        },
+        {
+          "t": "p",
+          "x": "XPeng empezará por entornos comerciales antes de pasar a aplicaciones industriales y, finalmente, a los hogares. Gu sugirió que el despliegue doméstico podría comenzar entre uno y dos años después de un uso comercial exitoso, y que la seguridad en torno a niños, personas mayores y mascotas figura entre los retos por resolver."
+        },
+        {
+          "t": "p",
+          "x": "XPeng también prevé ingresos recurrentes más allá del hardware, procedentes de suscripciones de software, actualizaciones, formación y servicios."
+        }
+      ]
     }
   }
 }

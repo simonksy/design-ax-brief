@@ -1,101 +1,107 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "music",
+  "user_selection": null,
   "items": [
     {
       "rank": 1,
+      "title": "BumaStemra Officially Takes Legal Action Against YourNeuroTune",
+      "url": "https://www.digitalmusicnews.com/2026/11/27/bumastemra-yourneurotune-lawsuit/",
+      "source": "Digital Music News",
+      "published_iso": "2026-11-27T19:37:32+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/The-Hague.jpg",
+      "excerpt": "BumaStemra has taken legal action against YourNeuroTune for allegedly providing businesses with royalty-free music generated via Suno. Follow-up to the 11-25 ultimatum card: the threat is now an actual legal action.",
+      "category": "music",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "title": "Judge declines to dismiss Suno publicity rights case, as sixteen more musicians join the legal battle",
-      "url": "https://completemusicupdate.com/judge-declines-to-dismiss-suno-publicity-rights-case-as-sixteen-more-musicians-join-the-legal-battle/",
-      "source": "Complete Music Update",
-      "published_iso": "2026-11-26T17:13:42Z",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/suno--2-.png",
-      "excerpt": "The judge in the Isbell-led right-of-publicity class action against Suno has denied Suno's motion to dismiss the original lawsuit, days after an amended complaint added 16 plaintiffs.",
-      "rationale": "New court ruling: Suno's motion to dismiss the Isbell publicity-rights suit was denied, so the artist-identity case goes ahead."
+      "rationale": "Follow-up with a concrete new action: the 11-25 threat has become filed legal action, a first collecting-society case against a Suno-based background-music supplier."
     },
     {
       "rank": 2,
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "title": "UA Universe: A New Developer Platform and Community for LUNA",
-      "url": "https://www.gearnews.com/ua-universe-studio/",
-      "source": "Gearnews",
-      "published_iso": "2026-11-26T07:00:55Z",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft.jpg",
-      "excerpt": "Universal Audio's UA Universe (public beta) lets LUNA users build and share custom workflow add-ons by prompting AI coding assistants such as Claude Code and Codex. Add-on actions are logged in LUNA's undo history, and early tools include swipe-comping and Ableton Live session import.",
-      "rationale": "New platform: a major DAW vendor opens its recording software to add-ons that users vibe-code with AI assistants, with undo-safe actions."
-    },
-    {
-      "rank": 3,
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "title": "Cyanite launches its conversational Concierge for music search",
-      "url": "https://musically.com/2026/11/26/cyanite-launches-its-conversational-concierge-for-music-search/",
-      "source": "Music Ally",
-      "published_iso": "2026-11-26T13:30:00Z",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Cyanite, which has used AI to analyse and tag music catalogues for years, launched Cyanite Concierge, a conversational AI search layer for B2B catalogue search (sync, libraries, publishers).",
-      "rationale": "New product: sync teams and libraries can search catalogues by describing what they need in plain language instead of filtering by tags."
-    },
-    {
-      "rank": 4,
+      "title": "Musixmatch launches enhanced Musixmatch Pro For Artists platform",
+      "url": "https://www.musicweek.com/digital/read/musixmatch-launches-enhanced-musixmatch-pro-for-artists-platform/095588",
+      "source": "Music Week",
+      "published_iso": "2026-11-26T06:38:00+00:00",
+      "og_image": "https://www.musicweek.com/cimages/cd9976b23ea19f4cb5ffb31ea4639ec4.jpg",
+      "excerpt": "Musixmatch Pro for Artists expands beyond lyric distribution with enhanced AI-powered lyric transcription and time-sync tools, fan engagement analytics and lyric merch sales; MBW reports optional AI licensing is coming soon. (Published time from Google News index; page shows November 26th 2026.)",
+      "category": "music",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Agentic system personalizes physical controls to help users \"DJ their art\"",
-      "url": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
-      "source": "MIT News",
-      "published_iso": "2026-11-24T19:30:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-csail-TangiMap.jpg",
-      "excerpt": "MIT CSAIL's TangiMap uses an AI agent to reprogram mixers and control pads, mapping digital widgets onto physical knobs, buttons and sliders for musical performance and other creative software.",
-      "rationale": "New research system: an agent does the tedious MIDI-controller mapping for performers, turning any mixer or pad into a custom control surface."
+      "rationale": "New product release artists can use right away: AI lyric transcription/time-sync plus an opt-in AI licensing option on the way."
+    },
+    {
+      "rank": 3,
+      "title": "Mooer GTRS Wing 1000: Intelligent Headless Guitar with NAM!",
+      "url": "https://www.gearnews.com/mooer-gtrs-wing-1000/",
+      "source": "Gearnews",
+      "published_iso": "2026-11-27T09:30:13+01:00",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Intelligent-Headless-Guitar-with-NAM.jpg",
+      "excerpt": "Mooer's new headless 'intelligent' guitar adds support for A1 and A2 Neural Amp Model captures, imported via GTRS Studio, alongside its onboard G200 SmartBox effects, wireless and USB-C DAW recording.",
+      "category": "music",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "A separate hardware launch (a guitar, not the 11-22 Future Flex modeler) that puts neural amp captures inside the instrument itself."
+    },
+    {
+      "rank": 4,
+      "title": "The AI revolution is coming for your electronic instruments",
+      "url": "https://www.musicradar.com/music-tech/300-nerds-with-claude-are-going-to-outcompete-any-synth-manufacturer-on-the-market-the-ai-revolution-is-coming-for-your-electronic-instruments",
+      "source": "MusicRadar",
+      "published_iso": "2026-11-25T12:45:09+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/m2BWDNwisxvW63imPTCJq4-1920-80.jpg",
+      "excerpt": "A new era of AI-assisted modding has arrived; MusicRadar talks to Elektron and Akai about the opportunities and challenges for hardware instrument makers when users can rewrite firmware with AI coding tools like Claude.",
+      "category": "music",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Elektron and Akai speak on the record about AI-coded firmware mods. The orchestrator assigned this trend to music only, and it adds new manufacturer positions beyond the 10-29 Akai MPC card."
     },
     {
       "rank": 5,
+      "title": "Guitarist George Lynch on his 'very strange' session for an AI track",
+      "url": "https://www.musicradar.com/artists/guitarists/guitarist-george-lynch-on-his-very-strange-session-for-an-ai-track-i-was-like-why-do-they-want-me-i-mean-im-just-a-human-being-machines-do-it-way-better",
+      "source": "MusicRadar",
+      "published_iso": "2026-11-27T12:17:06+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Hpx3fqfTtN8vzF5LbLymZH-2000-80.jpg",
+      "excerpt": "Ex-Dokken guitarist George Lynch says he unwittingly played a session on an AI-generated progressive track with never-repeating changes, calling it impressive and strange and asking why they wanted a human at all.",
+      "category": "music",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "MADlibs: Analyzing the Distribution of Generative Music",
-      "url": "https://arxiv.org/abs/2611.31462",
-      "source": "arXiv",
-      "published_iso": "2026-11-23T19:35:56Z",
-      "og_image": null,
-      "excerpt": "MADlibs measures what text-to-music models will actually produce across the prompt space (their expressive support), using NLP-generated prompts and MIR analysis of the outputs. The stakes are framed for creators and musical culture.",
-      "rationale": "New research method: it maps which styles and musical traits text-to-music generators can and cannot produce, so creators can see the real range of the tools."
+      "rationale": "A fresh, first-hand account of human session players being hired onto AI-generated tracks without knowing it, which is a new labour angle."
     }
   ],
   "dedup": {
     "checks": {
-      "https://completemusicupdate.com/judge-declines-to-dismiss-suno-publicity-rights-case-as-sixteen-more-musicians-join-the-legal-battle/": {
+      "https://www.digitalmusicnews.com/2026/11/27/bumastemra-yourneurotune-lawsuit/": {
         "verdict": "follow-up",
-        "nearest": "https://www.musicbusinessworldwide.com/the-chicks-join-jason-isbells-class-action-against-suno-as-amended-complaint-adds-16-plaintiffs-and-targets-v6/",
-        "new_action": "Court ruling: the judge denied Suno's motion to dismiss the Isbell right-of-publicity class action (the motion itself was carded 11-04 via Billboard; the amended complaint was carded 11-26 via MBW)."
+        "nearest": "https://www.musicbusinessworldwide.com/dutch-collecting-society-bumastemra-threatens-legal-action-against-ai-background-music-supplier-yourneurotune-alleging-it-uses-suno/",
+        "new_action": "BumaStemra has now formally taken legal action against YourNeuroTune (the 11-25 card only reported a threat/ultimatum)."
       },
-      "https://www.gearnews.com/ua-universe-studio/": {
+      "https://www.musicweek.com/digital/read/musixmatch-launches-enhanced-musixmatch-pro-for-artists-platform/095588": {
         "verdict": "new",
-        "nearest": "https://www.gearnews.com/tracktion-waveform-pro-studio/",
+        "nearest": "https://www.musicbusinessworldwide.com/musixmatch-lyrics-are-becoming-the-llm-of-the-music-industry/",
         "new_action": ""
       },
-      "https://musically.com/2026/11/26/cyanite-launches-its-conversational-concierge-for-music-search/": {
+      "https://www.gearnews.com/mooer-gtrs-wing-1000/": {
         "verdict": "new",
-        "nearest": "https://www.synthtopia.com/content/2026/11/07/sampleson-wavefinder-uses-local-ai-to-search-audio-libraries-by-sound/",
+        "nearest": "https://www.guitarworld.com/gear/amp-modeler-pedals/mooer-future-flex",
         "new_action": ""
       },
-      "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124": {
+      "https://www.musicradar.com/music-tech/300-nerds-with-claude-are-going-to-outcompete-any-synth-manufacturer-on-the-market-the-ai-revolution-is-coming-for-your-electronic-instruments": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+        "new_action": ""
+      },
+      "https://www.musicradar.com/artists/guitarists/guitarist-george-lynch-on-his-very-strange-session-for-an-ai-track-i-was-like-why-do-they-want-me-i-mean-im-just-a-human-being-machines-do-it-way-better": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
-      },
-      "https://arxiv.org/abs/2611.31462": {
-        "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2611.21809",
-        "new_action": ""
       }
     },
-    "note": "RE-PICK: the FL Studio 2026.2 pick (gearnews.com/fl-studio-daw-software) was removed after fact-check found its Gopher AI features came from the July 2026 release (stale) and 2026.2 itself has no substantive AI. Replacement: arXiv MADlibs (2611.31462). It is a distinct paper with no history match; the nearest published item is the 11-19 generative-psychometrics evaluation paper, which takes a different approach (it evaluates the evaluators, while MADlibs maps what models output across the prompt space). Other candidates I considered and rejected: the Australian Joint Select Committee AI report (Music Ally + CMU, one cluster), which ran in books on 11-26; CMU's Tidal analysis, Hypebot's Sonilo opinion piece and the MusicRadar firmware retread, all excluded per the orchestrator; the George Lynch session anecdote, an interview remark with no concrete release from an off-list outlet; arXiv JukeSim (a recommendation-similarity paper, less creator-facing); and the arXiv K-pop singer diarization benchmark (niche, runner-up). Outlets: CMU, Gearnews, Music Ally, MIT News and arXiv, so 5 distinct with 1 each. The accent #2ec5c5 freed by FL Studio goes to the new pick. Orchestrator: grep published_urls.json across all sections for '2611.31462' and 'MADlibs'. I could not read the full file. MADlibs has no og_image, so ax-media needs a figure from the paper."
+    "note": "Dropped: Music Ally 'Tips on how to use Meta Muse' (curator brief: a how-to on Muse, which has been covered many times across sections); Hypebot Sonilo opt-in licensing analysis (commentary on the Sonilo-Symphonic deal already published 11-19, no new event); Yonhap TV 'AI idol' roundup (recap of 머무르 11-14 and 서리아 11-25, no new event). Not picked (fresh but lower priority, no og_image): arXiv Beat This! Live, JukeSim, K-pop singer diarization. Diversity: 4 outlets, MusicRadar capped at 2. Single music category, so the accents rotate through the palette. Could not exact-grep published_urls.json (Read-only tools); the orchestrator's cross-section scan should confirm the Musixmatch, Mooer GTRS and Lynch URLs. Musixmatch re-judged as new: the Pro for Artists platform launch is a distinct product release, not a continuation of the earlier music Musixmatch cards (07-09 AI hackathon winners, 08-07 Sentinel/Suno screening tool, 09-29 CEO 'lyrics are the LLM' interview). Nearest is the 09-29 interview, the closest on the artist/lyrics-business angle."
   }
 }

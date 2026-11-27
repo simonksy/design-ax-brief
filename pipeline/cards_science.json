@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "science",
   "cards": [
     {
-      "id": "astra-quantum-gravity-stanford",
+      "id": "birmingham-cage-catalysts",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "GPT-6 Astra와\n양자중력 쫓는 물리학자",
-      "body": "Venkatesa Chandrasekaran은 GPT-6 Astra와 계산했다.",
-      "mini_headline": "AI가 돕는 양자중력 탐구",
+      "headline": "머신러닝이 고른\n효소 닮은 케이지 촉매",
+      "body": "머신러닝으로 활성을 예측한 팔라듐 케이지 30개는 차이가 10,000배를 넘었다.",
+      "mini_headline": "ML이 순위 매긴 케이지 촉매",
       "tool": "Science",
-      "source": "The Quantum Insider",
-      "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+      "source": "Phys.org (University of Birmingham)",
+      "url": "https://phys.org/news/2026-11-molecular-cage-catalysts-enormous-differences.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,197 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-chemists-desi-1.jpg",
+            "cap": "Credit: Journal of the American Chemical Society (2026). DOI: 10.1021/jacs.6c11940"
           },
           {
             "t": "p",
-            "x": "Stanford의 한 물리학자가 빛의 경로를 이용해, 무한대로 발산하기 쉬운 계산에서 유한한 답을 끌어내는 양자중력 이론을 내놓았다. 접근법이 맞는다면 양자역학과 Einstein의 일반상대성이론을 잇는 실마리가 될 수 있다. 블랙홀 엔트로피의 이미 알려진 양자 보정도 재현한다."
+            "x": "버밍엄·에든버러·옥스퍼드 대학 연구진이 머신러닝과 고속 스크리닝 기법을 결합해 효소처럼 작동하는 인공 촉매, 팔라듐 기반 분자 케이지를 연구했다(Journal of the American Chemical Society)."
           },
           {
             "t": "p",
-            "x": "Venkatesa Chandrasekaran은 arXiv에 올린 프리프린트에서 중력자 두 개가 생겼다 사라질 때 벌어지는 일을 계산했다. 파장이 임의로 짧은 파동까지 넣어도 답은 유한했다. 같은 계산에 근사를 쓰면 무한대가 나왔다."
+            "x": "주저자 Dr. Jamie Lewis는 \"전통적으로 더 나은 케이지 촉매를 찾는 일은 고된 시행착오 실험에 크게 의존해 왔다\"고 말했다. 에든버러의 Prof. Paul Lusby 연구팀은 케이지를 하나씩 따로 만들어 시험하지 않고 용액 안에서 곧바로 조립·평가하는 방식으로 30개 구조를 살폈다. 가장 뛰어난 케이지의 활성은 가장 약한 케이지보다 10,000배 넘게 높았다."
           },
           {
             "t": "p",
-            "x": "Chandrasekaran은 논문 감사의 글에서 OpenAI 모델 GPT-6 Astra와 몇 달간 주고받은 작업으로 논문의 계산과 증명 여럿을 발전시켰다고 밝혔다. 사용량은 모두 약 4억 토큰이었고 컴퓨팅 자원은 OpenAI가 댔다고 한다."
+            "x": "옥스퍼드의 Prof. Fernanda Duarte 연구팀은 반응 속도 데이터를 머신러닝으로 분석했다. 각 케이지는 모양·크기·부피·정전기적 특성을 담은 특징으로 기술했다. Tomasz Piskorz는 \"머신러닝은 이런 특징과 반응성의 상관관계를 찾아내 놀라울 만큼 정확한 모델로 이어질 수 있다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "계산의 틀은 인과 다이아몬드, 곧 빛이 지날 수 있는 경로로 둘러싸인 영역이다. 이런 영역이 최대 크기일 때 구별 가능한 양자 상태를 유한한 개수만 담을 수 있다는 결과가 나왔다. 큰 블랙홀에서는 Bekenstein-Hawking 엔트로피와 함께 Ashoke Sen의 이전 계산과 맞아떨어지는 보정을 재현한다."
-          },
-          {
-            "t": "p",
-            "x": "이론 연구라 실험 검증은 없고, 동료 심사도 거치지 않았다."
+            "x": "성능은 작고 단단한 케이지가 가장 좋았다. 금속 원자의 정확한 배열이 공동 크기보다 중요했고, 내부 전기 환경도 반응을 도왔다. 케이지 안쪽의 미묘한 각도는 활성을 가장 강하게 예측하는 요인 가운데 하나였다. 연구팀은 이 접근법이 에너지 사용과 폐기물을 줄이는 촉매 설계에 도움이 될 수 있다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "GPT-6 Astra helps a physicist\nchase quantum gravity",
-          "body": "Venkatesa Chandrasekaran says GPT-6 Astra helped with calculations and proofs in a new quantum gravity preprint.",
-          "mini_headline": "AI helps chase quantum gravity",
+          "headline": "Machine learning sorts\nenzyme-like cage catalysts",
+          "body": "Machine learning predicted cage activity, and 30 palladium cages tested in solution varied more than 10,000-fold.",
+          "mini_headline": "ML ranks cage catalysts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-chemists-desi-1.jpg",
+                "cap": "Credit: Journal of the American Chemical Society (2026). DOI: 10.1021/jacs.6c11940"
               },
               {
                 "t": "p",
-                "x": "A Stanford physicist has proposed a quantum theory of gravity that uses the paths of light to get a finite answer for a calculation that can otherwise run to infinity. If the approach holds up, it could help reconcile quantum mechanics with Einstein's general relativity. The study also reproduces a known quantum correction to the entropy of a black hole."
+                "x": "Researchers from the universities of Birmingham, Edinburgh and Oxford combined machine learning with a rapid screening method to study palladium-based molecular cages that act as artificial, enzyme-like catalysts (Journal of the American Chemical Society)."
               },
               {
                 "t": "p",
-                "x": "In a preprint posted on arXiv, Venkatesa Chandrasekaran calculated what happens when two gravitons are created and then disappear. The calculation gave a finite answer even after accounting for waves of arbitrarily short wavelength; an approximation applied to the same calculation produced an infinity."
+                "x": "\"Traditionally, discovering better cage catalysts has relied heavily on laborious trial-and-error experimentation,\" said lead author Dr. Jamie Lewis. Instead of preparing and testing each cage separately, Prof. Paul Lusby's group in Edinburgh assembled and assessed cages directly in solution, evaluating 30 structures; the best were more than 10,000 times more active than the least effective."
               },
               {
                 "t": "p",
-                "x": "Chandrasekaran said in the paper's acknowledgments that he developed several of its calculations and proofs through months of back-and-forth work with GPT-6 Astra, an OpenAI model. He put the total at about 400 million tokens and said OpenAI provided the computing resources."
+                "x": "Prof. Fernanda Duarte's group in Oxford analysed the reaction-rate data with machine learning, describing the cages by features that capture their shape, size, volume and electrostatics. \"Machine learning can correlate such features with reactivity, leading to a model with remarkable accuracy,\" said Tomasz Piskorz."
               },
               {
                 "t": "p",
-                "x": "The proposal uses causal diamonds, regions bounded by paths light could take, to set up the calculations. It finds such a region with a maximum size can hold only a finite number of distinguishable quantum states, and for a large black hole it recovers the Bekenstein-Hawking entropy plus a correction matching an earlier calculation by Ashoke Sen."
-              },
-              {
-                "t": "p",
-                "x": "The paper is theoretical, presents no experimental test, and has not been peer reviewed."
+                "x": "Compact, rigid cages performed best; the precise arrangement of metal atoms mattered more than cavity size, the internal electrical environment helped the reaction, and subtle angles within the cage were among the strongest predictors of activity. The team says the approach could help design catalysts that cut energy use and waste."
               }
             ]
           }
         },
         "ko": {
-          "headline": "GPT-6 Astra와\n양자중력 쫓는 물리학자",
-          "body": "Venkatesa Chandrasekaran은 GPT-6 Astra와 계산했다.",
-          "mini_headline": "AI가 돕는 양자중력 탐구",
+          "headline": "머신러닝이 고른\n효소 닮은 케이지 촉매",
+          "body": "머신러닝으로 활성을 예측한 팔라듐 케이지 30개는 차이가 10,000배를 넘었다.",
+          "mini_headline": "ML이 순위 매긴 케이지 촉매",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-chemists-desi-1.jpg",
+                "cap": "Credit: Journal of the American Chemical Society (2026). DOI: 10.1021/jacs.6c11940"
               },
               {
                 "t": "p",
-                "x": "Stanford의 한 물리학자가 빛의 경로를 이용해, 무한대로 발산하기 쉬운 계산에서 유한한 답을 끌어내는 양자중력 이론을 내놓았다. 접근법이 맞는다면 양자역학과 Einstein의 일반상대성이론을 잇는 실마리가 될 수 있다. 블랙홀 엔트로피의 이미 알려진 양자 보정도 재현한다."
+                "x": "버밍엄·에든버러·옥스퍼드 대학 연구진이 머신러닝과 고속 스크리닝 기법을 결합해 효소처럼 작동하는 인공 촉매, 팔라듐 기반 분자 케이지를 연구했다(Journal of the American Chemical Society)."
               },
               {
                 "t": "p",
-                "x": "Venkatesa Chandrasekaran은 arXiv에 올린 프리프린트에서 중력자 두 개가 생겼다 사라질 때 벌어지는 일을 계산했다. 파장이 임의로 짧은 파동까지 넣어도 답은 유한했다. 같은 계산에 근사를 쓰면 무한대가 나왔다."
+                "x": "주저자 Dr. Jamie Lewis는 \"전통적으로 더 나은 케이지 촉매를 찾는 일은 고된 시행착오 실험에 크게 의존해 왔다\"고 말했다. 에든버러의 Prof. Paul Lusby 연구팀은 케이지를 하나씩 따로 만들어 시험하지 않고 용액 안에서 곧바로 조립·평가하는 방식으로 30개 구조를 살폈다. 가장 뛰어난 케이지의 활성은 가장 약한 케이지보다 10,000배 넘게 높았다."
               },
               {
                 "t": "p",
-                "x": "Chandrasekaran은 논문 감사의 글에서 OpenAI 모델 GPT-6 Astra와 몇 달간 주고받은 작업으로 논문의 계산과 증명 여럿을 발전시켰다고 밝혔다. 사용량은 모두 약 4억 토큰이었고 컴퓨팅 자원은 OpenAI가 댔다고 한다."
+                "x": "옥스퍼드의 Prof. Fernanda Duarte 연구팀은 반응 속도 데이터를 머신러닝으로 분석했다. 각 케이지는 모양·크기·부피·정전기적 특성을 담은 특징으로 기술했다. Tomasz Piskorz는 \"머신러닝은 이런 특징과 반응성의 상관관계를 찾아내 놀라울 만큼 정확한 모델로 이어질 수 있다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "계산의 틀은 인과 다이아몬드, 곧 빛이 지날 수 있는 경로로 둘러싸인 영역이다. 이런 영역이 최대 크기일 때 구별 가능한 양자 상태를 유한한 개수만 담을 수 있다는 결과가 나왔다. 큰 블랙홀에서는 Bekenstein-Hawking 엔트로피와 함께 Ashoke Sen의 이전 계산과 맞아떨어지는 보정을 재현한다."
-              },
-              {
-                "t": "p",
-                "x": "이론 연구라 실험 검증은 없고, 동료 심사도 거치지 않았다."
+                "x": "성능은 작고 단단한 케이지가 가장 좋았다. 금속 원자의 정확한 배열이 공동 크기보다 중요했고, 내부 전기 환경도 반응을 도왔다. 케이지 안쪽의 미묘한 각도는 활성을 가장 강하게 예측하는 요인 가운데 하나였다. 연구팀은 이 접근법이 에너지 사용과 폐기물을 줄이는 촉매 설계에 도움이 될 수 있다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GPT-6 Astraが\n物理学者の量子重力研究を支援",
-          "body": "Venkatesa ChandrasekaranはGPT-6 Astraと計算を進めた。",
-          "mini_headline": "AIが量子重力の探究を支援",
+          "headline": "機械学習で選ぶ\n酵素のようなケージ触媒",
+          "body": "機械学習が活性を予測し、パラジウムケージ30種の活性は10,000倍超の差があった。",
+          "mini_headline": "MLがケージ触媒を順位付け",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-chemists-desi-1.jpg",
+                "cap": "Credit: Journal of the American Chemical Society (2026). DOI: 10.1021/jacs.6c11940"
               },
               {
                 "t": "p",
-                "x": "Stanfordの物理学者が、光の経路を使うことで、本来なら無限大に発散しうる計算に有限の答えを与える量子重力理論を提案した。この手法が成り立てば、量子力学とEinsteinの一般相対性理論の統合に役立つ可能性がある。研究はブラックホールのエントロピーに対する既知の量子補正も再現している。"
+                "x": "バーミンガム大学、エディンバラ大学、オックスフォード大学の研究者らは、機械学習と迅速なスクリーニング手法を組み合わせ、人工の酵素様触媒として働くパラジウム系分子ケージを調べた(Journal of the American Chemical Society)。"
               },
               {
                 "t": "p",
-                "x": "Venkatesa ChandrasekaranはarXivに投稿したプレプリントで、二つの重力子が生成されて消滅する過程を計算した。この計算は、任意に短い波長の波まで考慮しても有限の答えを与えた。同じ計算に近似を適用すると無限大が生じた。"
+                "x": "筆頭著者のDr. Jamie Lewisは「従来、より優れたケージ触媒の発見は、手間のかかる試行錯誤の実験に大きく頼ってきた」と述べた。エディンバラのProf. Paul Lusbyのグループは、ケージを一つずつ準備して試験する代わりに溶液中で直接組み立てて評価し、30の構造を検討した。最も優れたものは、最も効果の低いものより10,000倍以上活性が高かった。"
               },
               {
                 "t": "p",
-                "x": "Chandrasekaranは論文の謝辞で、OpenAIのモデルであるGPT-6 Astraとの数か月にわたるやり取りを通じて、論文の計算と証明のいくつかを練り上げたと述べている。使用量は合計で約4億トークンに上り、計算資源はOpenAIが提供したという。"
+                "x": "オックスフォードのProf. Fernanda Duarteのグループは反応速度データを機械学習で解析し、形状、大きさ、体積、静電的性質をとらえる特徴量でケージを記述した。Tomasz Piskorzは「機械学習はこうした特徴量と反応性を関連づけることができ、驚くほど高精度なモデルにつながる」と述べた。"
               },
               {
                 "t": "p",
-                "x": "この提案では、光がたどりうる経路で囲まれた領域である因果ダイヤモンドを用いて計算を組み立てる。最大サイズを持つこうした領域には区別可能な量子状態が有限個しか収まらないことを示し、大きなブラックホールについてはBekenstein-Hawkingエントロピーに加え、Ashoke Senによる以前の計算と一致する補正を再現する。"
-              },
-              {
-                "t": "p",
-                "x": "論文は理論研究であり、実験による検証は示しておらず、査読も受けていない。"
+                "x": "最も性能が高かったのはコンパクトで剛直なケージだった。金属原子の正確な配置は空洞の大きさより重要で、内部の電気的環境は反応を助け、ケージ内の微妙な角度は活性を最も強く予測する指標の一つだった。研究チームは、この手法がエネルギー使用と廃棄物を減らす触媒の設計に役立つ可能性があるとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "GPT-6 Astra\n助物理学家探索量子引力",
-          "body": "Venkatesa Chandrasekaran称GPT-6 Astra协助了计算与证明。",
-          "mini_headline": "AI助力探索量子引力",
+          "headline": "机器学习筛选\n类酶笼状催化剂",
+          "body": "机器学习预测了笼的活性，在溶液中测试的30个钯笼活性相差超过10,000倍。",
+          "mini_headline": "ML为笼状催化剂排序",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-chemists-desi-1.jpg",
+                "cap": "Credit: Journal of the American Chemical Society (2026). DOI: 10.1021/jacs.6c11940"
               },
               {
                 "t": "p",
-                "x": "Stanford的一位物理学家提出了一种量子引力理论，利用光的路径，为一个原本可能发散到无穷大的计算给出有限的答案。如果这一方法站得住，可能有助于调和量子力学与Einstein的广义相对论。该研究还重现了黑洞熵的一个已知量子修正。"
+                "x": "来自伯明翰大学、爱丁堡大学和牛津大学的研究人员将机器学习与快速筛选方法相结合，研究了可充当人工类酶催化剂的钯基分子笼（Journal of the American Chemical Society）。"
               },
               {
                 "t": "p",
-                "x": "Venkatesa Chandrasekaran在arXiv上发布的预印本中，计算了两个引力子产生后又消失的过程。即使计入波长任意短的波，该计算仍给出有限的答案；而对同一计算采用近似时，结果是无穷大。"
+                "x": "第一作者Dr. Jamie Lewis表示：“传统上，寻找更好的笼状催化剂在很大程度上依赖费力的试错实验。”爱丁堡Prof. Paul Lusby的团队没有逐一制备和测试每个笼，而是直接在溶液中组装并评估，共考察了30种结构；表现最好的笼活性比效果最差的高出10,000倍以上。"
               },
               {
                 "t": "p",
-                "x": "Chandrasekaran在论文致谢中表示，他与OpenAI的模型GPT-6 Astra经过数月的反复协作，完成了文中若干计算和证明。他称总用量约为4亿个词元，计算资源由OpenAI提供。"
+                "x": "牛津Prof. Fernanda Duarte的团队用机器学习分析反应速率数据，并以刻画形状、尺寸、体积和静电特性的特征来描述这些笼。Tomasz Piskorz说：“机器学习可以把这些特征与反应性关联起来，得到精度非凡的模型。”"
               },
               {
                 "t": "p",
-                "x": "该方案借助因果钻石——由光可能经过的路径所围成的区域——来构建计算。研究发现，具有最大尺寸的此类区域只能容纳有限数量的可区分量子态；对于大型黑洞，它重现了Bekenstein-Hawking熵，以及与Ashoke Sen早先计算相吻合的修正。"
-              },
-              {
-                "t": "p",
-                "x": "该论文为理论研究，未提出实验检验，也尚未经过同行评审。"
+                "x": "紧凑、刚性的笼表现最好；金属原子的精确排布比空腔大小更重要，内部电环境有助于反应，而笼内细微的角度是活性最强的预测因素之一。团队表示，这一方法有望帮助设计降低能耗和减少废物的催化剂。"
               }
             ]
           }
         },
         "es": {
-          "headline": "GPT-6 Astra ayuda a un físico\na buscar la gravedad cuántica",
-          "body": "Venkatesa Chandrasekaran dice que GPT-6 Astra lo ayudó con cálculos y pruebas sobre gravedad cuántica.",
-          "mini_headline": "Una AI ayuda a explorar la gravedad cuántica",
+          "headline": "Aprendizaje automático ordena\njaulas catalíticas tipo enzima",
+          "body": "El aprendizaje automático predijo la actividad de jaulas: 30 de paladio en solución variaron más de 10,000 veces.",
+          "mini_headline": "El ML clasifica catalizadores de jaula",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-chemists-desi-1.jpg",
+                "cap": "Credit: Journal of the American Chemical Society (2026). DOI: 10.1021/jacs.6c11940"
               },
               {
                 "t": "p",
-                "x": "Un físico de Stanford ha propuesto una teoría cuántica de la gravedad que usa las trayectorias de la luz para obtener una respuesta finita en un cálculo que, de otro modo, puede tender al infinito. Si el enfoque se sostiene, podría ayudar a conciliar la mecánica cuántica con la relatividad general de Einstein. El estudio también reproduce una corrección cuántica conocida a la entropía de un agujero negro."
+                "x": "Investigadores de las universidades de Birmingham, Edimburgo y Oxford combinaron el aprendizaje automático con un método de cribado rápido para estudiar jaulas moleculares basadas en paladio que actúan como catalizadores artificiales similares a enzimas (Journal of the American Chemical Society)."
               },
               {
                 "t": "p",
-                "x": "En una preimpresión publicada en arXiv, Venkatesa Chandrasekaran calculó qué ocurre cuando dos gravitones se crean y luego desaparecen. El cálculo dio una respuesta finita incluso al considerar ondas de longitud de onda arbitrariamente corta; una aproximación aplicada al mismo cálculo produjo un infinito."
+                "x": "\"Tradicionalmente, descubrir mejores catalizadores de jaula ha dependido en gran medida de una laboriosa experimentación de ensayo y error\", afirmó el autor principal, el Dr. Jamie Lewis. En lugar de preparar y probar cada jaula por separado, el grupo del Prof. Paul Lusby en Edimburgo ensambló y evaluó las jaulas directamente en solución y analizó 30 estructuras; las mejores fueron más de 10,000 veces más activas que la menos eficaz."
               },
               {
                 "t": "p",
-                "x": "Chandrasekaran indicó en los agradecimientos del artículo que desarrolló varios de sus cálculos y demostraciones a lo largo de meses de trabajo de ida y vuelta con GPT-6 Astra, un modelo de OpenAI. Cifró el total en unos 400 millones de tokens y dijo que OpenAI aportó los recursos de cómputo."
+                "x": "El grupo de la Prof. Fernanda Duarte en Oxford analizó los datos de velocidad de reacción con aprendizaje automático y describió las jaulas mediante rasgos que capturan su forma, tamaño, volumen y electrostática. \"El aprendizaje automático puede correlacionar esos rasgos con la reactividad, lo que da lugar a un modelo de notable precisión\", dijo Tomasz Piskorz."
               },
               {
                 "t": "p",
-                "x": "La propuesta usa diamantes causales, regiones delimitadas por trayectorias que podría seguir la luz, para plantear los cálculos. Concluye que una región así con un tamaño máximo solo puede contener un número finito de estados cuánticos distinguibles y, para un agujero negro grande, recupera la entropía de Bekenstein-Hawking más una corrección que coincide con un cálculo anterior de Ashoke Sen."
-              },
-              {
-                "t": "p",
-                "x": "El artículo es teórico, no presenta ninguna prueba experimental y no ha pasado revisión por pares."
+                "x": "Las jaulas compactas y rígidas fueron las de mejor rendimiento; la disposición precisa de los átomos metálicos importó más que el tamaño de la cavidad, el entorno eléctrico interno favoreció la reacción y ciertos ángulos sutiles dentro de la jaula figuraron entre los predictores más fuertes de la actividad. El equipo afirma que el enfoque podría ayudar a diseñar catalizadores que reduzcan el consumo de energía y los residuos."
               }
             ]
           }
@@ -217,137 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "GPT-6 Astra와\n양자중력 쫓는 물리학자",
-          "body": "Venkatesa Chandrasekaran은 GPT-6 Astra와 계산했다.",
-          "mini_headline": "AI가 돕는 양자중력 탐구",
+          "headline": "머신러닝이 고른\n효소 닮은 케이지 촉매",
+          "body": "머신러닝이 활성을 예측했고, 팔라듐 케이지 30개는 10,000배 넘게 달랐다.",
+          "mini_headline": "ML이 순위 매긴 케이지 촉매",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-chemists-desi-1.jpg",
+                "cap": "Credit: Journal of the American Chemical Society (2026). DOI: 10.1021/jacs.6c11940"
               },
               {
                 "t": "p",
-                "x": "Stanford의 한 물리학자가 빛의 경로를 이용해, 자칫 무한대로 발산할 수 있는 계산에서 유한한 답을 얻는 양자중력 이론을 제안했다. 이 접근법이 유효하다면 양자역학과 Einstein의 일반상대성이론을 조화시키는 데 도움이 될 수 있다. 연구는 블랙홀 엔트로피에 대해 이미 알려진 양자 보정도 재현한다."
+                "x": "버밍엄·에든버러·옥스퍼드 대학 연구진이 머신러닝과 고속 스크리닝 기법을 결합해, 효소처럼 작동하는 인공 촉매인 팔라듐 기반 분자 케이지를 연구했다(Journal of the American Chemical Society)."
               },
               {
                 "t": "p",
-                "x": "Venkatesa Chandrasekaran은 arXiv에 올린 프리프린트에서 중력자 두 개가 생겨났다가 사라질 때 일어나는 일을 계산했다. 이 계산은 파장이 임의로 짧은 파동까지 고려해도 유한한 답을 냈다. 같은 계산에 근사를 적용하면 무한대가 나왔다."
+                "x": "주저자 Dr. Jamie Lewis는 \"전통적으로 더 나은 케이지 촉매를 찾는 일은 고된 시행착오 실험에 크게 의존해 왔다\"고 말했다. 에든버러의 Prof. Paul Lusby 연구팀은 케이지를 하나씩 따로 준비하고 시험하는 대신 용액 안에서 바로 조립하고 평가해 30개 구조를 검토했다. 가장 뛰어난 케이지는 가장 효과가 낮은 케이지보다 활성이 10,000배 넘게 높았다."
               },
               {
                 "t": "p",
-                "x": "Chandrasekaran은 논문 감사의 글에서 OpenAI 모델인 GPT-6 Astra와 몇 달간 주고받은 작업을 통해 논문의 계산과 증명 여럿을 발전시켰다고 밝혔다. 그는 사용량이 모두 약 4억 토큰이었고, 컴퓨팅 자원은 OpenAI가 제공했다고 말했다."
+                "x": "옥스퍼드의 Prof. Fernanda Duarte 연구팀은 반응 속도 데이터를 머신러닝으로 분석하면서, 케이지의 모양·크기·부피·정전기적 특성을 담은 특징으로 각 케이지를 기술했다. Tomasz Piskorz는 \"머신러닝은 이런 특징과 반응성의 상관관계를 찾아내 놀라울 만큼 정확한 모델로 이어질 수 있다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "이 제안은 빛이 지날 수 있는 경로로 둘러싸인 영역인 인과 다이아몬드를 이용해 계산을 세운다. 최대 크기를 가진 이런 영역에는 구별 가능한 양자 상태가 유한한 개수만 담길 수 있다는 결과를 얻었고, 큰 블랙홀에 대해서는 Bekenstein-Hawking 엔트로피와 함께 Ashoke Sen의 이전 계산과 일치하는 보정을 재현한다."
-              },
-              {
-                "t": "p",
-                "x": "이 논문은 이론 연구로, 실험 검증을 제시하지 않으며 동료 심사도 거치지 않았다."
+                "x": "작고 단단한 케이지가 가장 좋은 성능을 보였다. 금속 원자의 정확한 배열이 공동 크기보다 중요했고, 내부 전기 환경은 반응을 도왔으며, 케이지 내부의 미묘한 각도는 활성을 가장 강하게 예측하는 요인에 속했다. 연구팀은 이 접근법이 에너지 사용과 폐기물을 줄이는 촉매 설계에 도움이 될 수 있다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GPT-6 Astraが\n物理学者の量子重力研究を支援",
-          "body": "Venkatesa ChandrasekaranはGPT-6 Astraと計算を進めた。",
-          "mini_headline": "AIが量子重力の探究を支援",
+          "headline": "機械学習で選ぶ\n酵素のようなケージ触媒",
+          "body": "機械学習が活性を予測し、パラジウムケージ30種の活性は10,000倍超の差があった。",
+          "mini_headline": "MLがケージ触媒を順位付け",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-chemists-desi-1.jpg",
+                "cap": "Credit: Journal of the American Chemical Society (2026). DOI: 10.1021/jacs.6c11940"
               },
               {
                 "t": "p",
-                "x": "Stanfordの物理学者が、光の経路を使うことで、本来なら無限大に発散しうる計算に有限の答えを与える量子重力理論を提案した。この手法が成り立てば、量子力学とEinsteinの一般相対性理論の統合に役立つ可能性がある。研究はブラックホールのエントロピーに対する既知の量子補正も再現している。"
+                "x": "バーミンガム大学、エディンバラ大学、オックスフォード大学の研究者らは、機械学習と迅速なスクリーニング手法を組み合わせ、人工の酵素様触媒として働くパラジウム系分子ケージを調べた(Journal of the American Chemical Society)。"
               },
               {
                 "t": "p",
-                "x": "Venkatesa ChandrasekaranはarXivに投稿したプレプリントで、二つの重力子が生成されて消滅する過程を計算した。この計算は、任意に短い波長の波まで考慮しても有限の答えを与えた。同じ計算に近似を適用すると無限大が生じた。"
+                "x": "筆頭著者のDr. Jamie Lewisは「従来、より優れたケージ触媒の発見は、手間のかかる試行錯誤の実験に大きく頼ってきた」と述べた。エディンバラのProf. Paul Lusbyのグループは、ケージを一つずつ準備して試験する代わりに溶液中で直接組み立てて評価し、30の構造を検討した。最も優れたものは、最も効果の低いものより10,000倍以上活性が高かった。"
               },
               {
                 "t": "p",
-                "x": "Chandrasekaranは論文の謝辞で、OpenAIのモデルであるGPT-6 Astraとの数か月にわたるやり取りを通じて、論文の計算と証明のいくつかを練り上げたと述べている。使用量は合計で約4億トークンに上り、計算資源はOpenAIが提供したという。"
+                "x": "オックスフォードのProf. Fernanda Duarteのグループは反応速度データを機械学習で解析し、形状、大きさ、体積、静電的性質をとらえる特徴量でケージを記述した。Tomasz Piskorzは「機械学習はこうした特徴量と反応性を関連づけることができ、驚くほど高精度なモデルにつながる」と述べた。"
               },
               {
                 "t": "p",
-                "x": "この提案では、光がたどりうる経路で囲まれた領域である因果ダイヤモンドを用いて計算を組み立てる。最大サイズを持つこうした領域には区別可能な量子状態が有限個しか収まらないことを示し、大きなブラックホールについてはBekenstein-Hawkingエントロピーに加え、Ashoke Senによる以前の計算と一致する補正を再現する。"
-              },
-              {
-                "t": "p",
-                "x": "論文は理論研究であり、実験による検証は示しておらず、査読も受けていない。"
+                "x": "最も性能が高かったのはコンパクトで剛直なケージだった。金属原子の正確な配置は空洞の大きさより重要で、内部の電気的環境は反応を助け、ケージ内の微妙な角度は活性を最も強く予測する指標の一つだった。研究チームは、この手法がエネルギー使用と廃棄物を減らす触媒の設計に役立つ可能性があるとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "GPT-6 Astra\n助物理学家探索量子引力",
-          "body": "Venkatesa Chandrasekaran称GPT-6 Astra协助了计算与证明。",
-          "mini_headline": "AI助力探索量子引力",
+          "headline": "机器学习筛选\n类酶笼状催化剂",
+          "body": "机器学习预测了笼的活性，在溶液中测试的30个钯笼活性相差超过10,000倍。",
+          "mini_headline": "ML为笼状催化剂排序",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-chemists-desi-1.jpg",
+                "cap": "Credit: Journal of the American Chemical Society (2026). DOI: 10.1021/jacs.6c11940"
               },
               {
                 "t": "p",
-                "x": "Stanford的一位物理学家提出了一种量子引力理论，利用光的路径，为一个原本可能发散到无穷大的计算给出有限的答案。如果这一方法站得住，可能有助于调和量子力学与Einstein的广义相对论。该研究还重现了黑洞熵的一个已知量子修正。"
+                "x": "来自伯明翰大学、爱丁堡大学和牛津大学的研究人员将机器学习与快速筛选方法相结合，研究了可充当人工类酶催化剂的钯基分子笼（Journal of the American Chemical Society）。"
               },
               {
                 "t": "p",
-                "x": "Venkatesa Chandrasekaran在arXiv上发布的预印本中，计算了两个引力子产生后又消失的过程。即使计入波长任意短的波，该计算仍给出有限的答案；而对同一计算采用近似时，结果是无穷大。"
+                "x": "第一作者Dr. Jamie Lewis表示：“传统上，寻找更好的笼状催化剂在很大程度上依赖费力的试错实验。”爱丁堡Prof. Paul Lusby的团队没有逐一制备和测试每个笼，而是直接在溶液中组装并评估，共考察了30种结构；表现最好的笼活性比效果最差的高出10,000倍以上。"
               },
               {
                 "t": "p",
-                "x": "Chandrasekaran在论文致谢中表示，他与OpenAI的模型GPT-6 Astra经过数月的反复协作，完成了文中若干计算和证明。他称总用量约为4亿个词元，计算资源由OpenAI提供。"
+                "x": "牛津Prof. Fernanda Duarte的团队用机器学习分析反应速率数据，并以刻画形状、尺寸、体积和静电特性的特征来描述这些笼。Tomasz Piskorz说：“机器学习可以把这些特征与反应性关联起来，得到精度非凡的模型。”"
               },
               {
                 "t": "p",
-                "x": "该方案借助因果钻石——由光可能经过的路径所围成的区域——来构建计算。研究发现，具有最大尺寸的此类区域只能容纳有限数量的可区分量子态；对于大型黑洞，它重现了Bekenstein-Hawking熵，以及与Ashoke Sen早先计算相吻合的修正。"
-              },
-              {
-                "t": "p",
-                "x": "该论文为理论研究，未提出实验检验，也尚未经过同行评审。"
+                "x": "紧凑、刚性的笼表现最好；金属原子的精确排布比空腔大小更重要，内部电环境有助于反应，而笼内细微的角度是活性最强的预测因素之一。团队表示，这一方法有望帮助设计降低能耗和减少废物的催化剂。"
               }
             ]
           }
         },
         "es": {
-          "headline": "GPT-6 Astra ayuda a un físico\na buscar la gravedad cuántica",
-          "body": "Venkatesa Chandrasekaran dice que GPT-6 Astra lo ayudó con cálculos y pruebas sobre gravedad cuántica.",
-          "mini_headline": "Una AI ayuda a explorar la gravedad cuántica",
+          "headline": "Aprendizaje automático ordena\njaulas catalíticas tipo enzima",
+          "body": "El aprendizaje automático predijo la actividad de jaulas: 30 de paladio en solución variaron más de 10,000 veces.",
+          "mini_headline": "El ML clasifica catalizadores de jaula",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-chemists-desi-1.jpg",
+                "cap": "Credit: Journal of the American Chemical Society (2026). DOI: 10.1021/jacs.6c11940"
               },
               {
                 "t": "p",
-                "x": "Un físico de Stanford ha propuesto una teoría cuántica de la gravedad que usa las trayectorias de la luz para obtener una respuesta finita en un cálculo que, de otro modo, puede tender al infinito. Si el enfoque se sostiene, podría ayudar a conciliar la mecánica cuántica con la relatividad general de Einstein. El estudio también reproduce una corrección cuántica conocida a la entropía de un agujero negro."
+                "x": "Investigadores de las universidades de Birmingham, Edimburgo y Oxford combinaron el aprendizaje automático con un método de cribado rápido para estudiar jaulas moleculares basadas en paladio que actúan como catalizadores artificiales similares a enzimas (Journal of the American Chemical Society)."
               },
               {
                 "t": "p",
-                "x": "En una preimpresión publicada en arXiv, Venkatesa Chandrasekaran calculó qué ocurre cuando dos gravitones se crean y luego desaparecen. El cálculo dio una respuesta finita incluso al considerar ondas de longitud de onda arbitrariamente corta; una aproximación aplicada al mismo cálculo produjo un infinito."
+                "x": "\"Tradicionalmente, descubrir mejores catalizadores de jaula ha dependido en gran medida de una laboriosa experimentación de ensayo y error\", afirmó el autor principal, el Dr. Jamie Lewis. En lugar de preparar y probar cada jaula por separado, el grupo del Prof. Paul Lusby en Edimburgo ensambló y evaluó las jaulas directamente en solución y analizó 30 estructuras; las mejores fueron más de 10,000 veces más activas que la menos eficaz."
               },
               {
                 "t": "p",
-                "x": "Chandrasekaran indicó en los agradecimientos del artículo que desarrolló varios de sus cálculos y demostraciones a lo largo de meses de trabajo de ida y vuelta con GPT-6 Astra, un modelo de OpenAI. Cifró el total en unos 400 millones de tokens y dijo que OpenAI aportó los recursos de cómputo."
+                "x": "El grupo de la Prof. Fernanda Duarte en Oxford analizó los datos de velocidad de reacción con aprendizaje automático y describió las jaulas mediante rasgos que capturan su forma, tamaño, volumen y electrostática. \"El aprendizaje automático puede correlacionar esos rasgos con la reactividad, lo que da lugar a un modelo de notable precisión\", dijo Tomasz Piskorz."
               },
               {
                 "t": "p",
-                "x": "La propuesta usa diamantes causales, regiones delimitadas por trayectorias que podría seguir la luz, para plantear los cálculos. Concluye que una región así con un tamaño máximo solo puede contener un número finito de estados cuánticos distinguibles y, para un agujero negro grande, recupera la entropía de Bekenstein-Hawking más una corrección que coincide con un cálculo anterior de Ashoke Sen."
-              },
-              {
-                "t": "p",
-                "x": "El artículo es teórico, no presenta ninguna prueba experimental y no ha pasado revisión por pares."
+                "x": "Las jaulas compactas y rígidas fueron las de mejor rendimiento; la disposición precisa de los átomos metálicos importó más que el tamaño de la cavidad, el entorno eléctrico interno favoreció la reacción y ciertos ángulos sutiles dentro de la jaula figuraron entre los predictores más fuertes de la actividad. El equipo afirma que el enfoque podría ayudar a diseñar catalizadores que reduzcan el consumo de energía y los residuos."
               }
             ]
           }
@@ -355,15 +325,529 @@
       }
     },
     {
-      "id": "ifaw-wildlife-app-helsinki",
+      "id": "princeton-qubit-loss-decoder",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 불법 야생동물\n제품 찾는 스마트폰 앱",
-      "body": "Helsinki·IFAW 앱 시제품의 야생동물 제품 인식 정확도는 91.3%다.",
-      "mini_headline": "AI 앱, 불법 야생동물 제품 포착",
+      "headline": "신경망 디코더가\n유실 큐비트 처리를 배운다",
+      "body": "신경망 디코더가 표면 코드의 큐비트 유실 정보를 활용해 값비싼 디코딩을 피한다.",
+      "mini_headline": "유실 큐비트용 디코더",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-smartphone-app-ai-illegal-wildlife.html",
+      "source": "arXiv (Princeton, Jeff D. Thompson group)",
+      "url": "https://arxiv.org/abs/2611.34891",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "큐비트 유실은 여러 양자 하드웨어 플랫폼에서 주된 오류 원인이다. 큐비트 리셋에 유실 판별 측정이 포함되면 이 정보로 디코딩을 개선하고 오버헤드를 크게 줄일 수 있다. 문제는 유실 시뮬레이션과 디코딩이 통상의 안정자 체계를 벗어나 비용이 크다는 점이다. 고율 qLDPC 코드 연구가 드물었던 것도 이 때문이다."
+          },
+          {
+            "t": "p",
+            "x": "J. Wilson Staples, Winston Fu, Yihe Dong, Jeff D. Thompson은 이 문제를 우회하는 유실 인지형 합성곱 신경망(CNN) 디코더 프레임워크를 제시했다. 학습을 가능하게 한 것은 새 샘플러 slim이다. slim은 Pauli 잡음과 유실이 있는 회로에서도 순수 Pauli 잡음용 최신 기법에 견줄 만한 처리량을 낸다."
+          },
+          {
+            "t": "p",
+            "x": "유실이 있는 표면 코드에서 이 디코더는 계산 비용이 큰 최대 가능도 오류(MLE) 디코더와 같은 정확도를 내면서 지연 시간은 훨씬 짧다. 워킹 신드롬 추출 회로를 쓰는 [[144,12,12]] 이변수 바이시클(Gross) 코드에서는 물리 오류율이 1% 미만일 때, 순수 유실 모델의 논리 오류율이 같은 물리 오류율의 순수 Pauli 모델보다 1,000배 넘게 낮았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Neural decoders learn\nto handle lost qubits",
+          "body": "Neural decoders use qubit-loss data in the surface code, avoiding costly decoding outside the stabilizer framework.",
+          "mini_headline": "Decoders for lost qubits",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Qubit loss is a significant source of error in many quantum hardware platforms. When qubit reset includes loss-resolving measurements, this information can improve decoding and substantially reduce overhead, but the cost of loss simulation and decoding, which falls outside the usual stabilizer framework, has limited such studies for high-rate qLDPC codes."
+              },
+              {
+                "t": "p",
+                "x": "J. Wilson Staples, Winston Fu, Yihe Dong and Jeff D. Thompson present a loss-aware convolutional neural-network (CNN) decoder framework that circumvents this challenge. Training is enabled by a new sampler, slim, whose throughput for circuits with Pauli noise and loss is comparable to the state of the art for pure Pauli noise."
+              },
+              {
+                "t": "p",
+                "x": "On the surface code with loss, the decoder matches the accuracy of computationally expensive most-likely error (MLE) decoders at much lower latency. For the [[144,12,12]] bivariate bicycle (Gross) code with a walking syndrome extraction circuit, at physical error rates below 1% a pure loss model gives a more than 1,000-fold lower logical error rate than a pure Pauli model at the same physical error rate."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "신경망 디코더가\n유실 큐비트 처리를 배운다",
+          "body": "신경망 디코더가 표면 코드의 큐비트 유실 정보를 활용해 값비싼 디코딩을 피한다.",
+          "mini_headline": "유실 큐비트용 디코더",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "큐비트 유실은 여러 양자 하드웨어 플랫폼에서 주된 오류 원인이다. 큐비트 리셋에 유실 판별 측정이 포함되면 이 정보로 디코딩을 개선하고 오버헤드를 크게 줄일 수 있다. 문제는 유실 시뮬레이션과 디코딩이 통상의 안정자 체계를 벗어나 비용이 크다는 점이다. 고율 qLDPC 코드 연구가 드물었던 것도 이 때문이다."
+              },
+              {
+                "t": "p",
+                "x": "J. Wilson Staples, Winston Fu, Yihe Dong, Jeff D. Thompson은 이 문제를 우회하는 유실 인지형 합성곱 신경망(CNN) 디코더 프레임워크를 제시했다. 학습을 가능하게 한 것은 새 샘플러 slim이다. slim은 Pauli 잡음과 유실이 있는 회로에서도 순수 Pauli 잡음용 최신 기법에 견줄 만한 처리량을 낸다."
+              },
+              {
+                "t": "p",
+                "x": "유실이 있는 표면 코드에서 이 디코더는 계산 비용이 큰 최대 가능도 오류(MLE) 디코더와 같은 정확도를 내면서 지연 시간은 훨씬 짧다. 워킹 신드롬 추출 회로를 쓰는 [[144,12,12]] 이변수 바이시클(Gross) 코드에서는 물리 오류율이 1% 미만일 때, 순수 유실 모델의 논리 오류율이 같은 물리 오류율의 순수 Pauli 모델보다 1,000배 넘게 낮았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ニューラル復号器が\n消失量子ビットの扱いを学ぶ",
+          "body": "ニューラル復号器は表面符号で量子ビット消失の情報を使い、高コストな復号を回避する。",
+          "mini_headline": "消失量子ビット向け復号器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "量子ビットの消失は、多くの量子ハードウェアプラットフォームで重要な誤り源である。量子ビットのリセットに消失を判別する測定が含まれる場合、その情報は復号を改善し、オーバーヘッドを大幅に減らせる。しかし、通常のスタビライザー枠組みの外にある消失のシミュレーションと復号のコストが、高レートqLDPC符号での研究を制限してきた。"
+              },
+              {
+                "t": "p",
+                "x": "J. Wilson Staples、Winston Fu、Yihe Dong、Jeff D. Thompsonは、この課題を回避する消失対応の畳み込みニューラルネットワーク(CNN)復号器フレームワークを提示した。学習を可能にしたのは新しいサンプラーslimで、Pauliノイズと消失を含む回路でのスループットは、純粋なPauliノイズ向けの最先端手法に匹敵する。"
+              },
+              {
+                "t": "p",
+                "x": "消失のある表面符号では、この復号器は計算コストの高い最尤誤り(MLE)復号器と同等の精度を、はるかに低いレイテンシで達成する。ウォーキング・シンドローム抽出回路を用いた[[144,12,12]]二変数バイシクル(Gross)符号では、物理誤り率が1%未満のとき、純粋な消失モデルの論理誤り率は、同じ物理誤り率の純粋なPauliモデルより1,000倍以上低い。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "神经解码器学会\n处理丢失的量子比特",
+          "body": "神经解码器在表面码中利用量子比特丢失信息，避开稳定子框架之外的高昂解码。",
+          "mini_headline": "面向丢失量子比特的解码器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "量子比特丢失是许多量子硬件平台中的重要误差来源。当量子比特重置包含可分辨丢失的测量时，这一信息可以改进解码并大幅降低开销；但丢失的模拟与解码超出了常规稳定子框架，成本高昂，限制了针对高码率qLDPC码的此类研究。"
+              },
+              {
+                "t": "p",
+                "x": "J. Wilson Staples、Winston Fu、Yihe Dong和Jeff D. Thompson提出了一个可感知丢失的卷积神经网络（CNN）解码器框架，绕开了这一难题。训练依靠新的采样器slim实现，它在含Pauli噪声和丢失的电路上的吞吐量，可与纯Pauli噪声下的最先进水平相当。"
+              },
+              {
+                "t": "p",
+                "x": "在含丢失的表面码上，该解码器以低得多的延迟达到了计算代价高昂的最可能错误（MLE）解码器的精度。对于采用行走式综合征提取电路的[[144,12,12]]双变量自行车（Gross）码，在物理错误率低于1%时，纯丢失模型的逻辑错误率比相同物理错误率下的纯Pauli模型低1,000倍以上。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Redes neuronales aprenden a\ndecodificar cúbits perdidos",
+          "body": "Decodificadores neuronales usan datos de pérdida de cúbits en el código de superficie y abaratan la decodificación.",
+          "mini_headline": "Decodificadores para cúbits perdidos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "La pérdida de cúbits es una fuente importante de error en muchas plataformas de hardware cuántico. Cuando el reinicio de los cúbits incluye mediciones que detectan la pérdida, esa información puede mejorar la decodificación y reducir sustancialmente la sobrecarga, pero el coste de simular y decodificar la pérdida, que queda fuera del marco estabilizador habitual, ha limitado estos estudios en los códigos qLDPC de alta tasa."
+              },
+              {
+                "t": "p",
+                "x": "J. Wilson Staples, Winston Fu, Yihe Dong y Jeff D. Thompson presentan un marco de decodificador basado en una red neuronal convolucional (CNN) consciente de la pérdida que sortea este problema. El entrenamiento es posible gracias a un nuevo muestreador, slim, cuyo rendimiento en circuitos con ruido de Pauli y pérdida es comparable al estado del arte para ruido de Pauli puro."
+              },
+              {
+                "t": "p",
+                "x": "En el código de superficie con pérdida, el decodificador iguala la precisión de los costosos decodificadores de error más probable (MLE) con una latencia mucho menor. Para el código bivariado de bicicleta (Gross) [[144,12,12]] con un circuito de extracción de síndrome itinerante, con tasas de error físico inferiores al 1%, un modelo de pérdida pura ofrece una tasa de error lógico más de 1,000 veces menor que un modelo de Pauli puro con la misma tasa de error físico."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "신경망 디코더가\n유실 큐비트 처리를 배운다",
+          "body": "신경망 디코더가 표면 코드의 큐비트 유실 정보를 써서 값비싼 디코딩을 피한다.",
+          "mini_headline": "유실 큐비트용 디코더",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "큐비트 유실은 여러 양자 하드웨어 플랫폼에서 주요한 오류 원인이다. 큐비트 리셋에 유실 판별 측정이 포함되면 이 정보로 디코딩을 개선하고 오버헤드를 크게 줄일 수 있다. 하지만 유실 시뮬레이션과 디코딩은 통상의 안정자 체계를 벗어나 비용이 많이 들고, 이 때문에 고율 qLDPC 코드에 대한 연구는 제한적이었다."
+              },
+              {
+                "t": "p",
+                "x": "J. Wilson Staples, Winston Fu, Yihe Dong, Jeff D. Thompson은 이 문제를 우회하는 유실 인지형 합성곱 신경망(CNN) 디코더 프레임워크를 제시한다. 학습은 새 샘플러 slim으로 가능해졌다. slim은 Pauli 잡음과 유실이 있는 회로에서도 순수 Pauli 잡음용 최신 기법에 견줄 만한 처리량을 낸다."
+              },
+              {
+                "t": "p",
+                "x": "유실이 있는 표면 코드에서 이 디코더는 계산 비용이 큰 최대 가능도 오류(MLE) 디코더와 같은 정확도를 훨씬 낮은 지연 시간으로 달성한다. 워킹 신드롬 추출 회로를 쓰는 [[144,12,12]] 이변수 바이시클(Gross) 코드에서는 물리 오류율이 1% 미만일 때, 순수 유실 모델의 논리 오류율이 같은 물리 오류율의 순수 Pauli 모델보다 1,000배 넘게 낮았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ニューラル復号器が\n消失量子ビットの扱いを学ぶ",
+          "body": "ニューラル復号器は表面符号で量子ビット消失の情報を使い、高コストな復号を回避する。",
+          "mini_headline": "消失量子ビット向け復号器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "量子ビットの消失は、多くの量子ハードウェアプラットフォームで重要な誤り源である。量子ビットのリセットに消失を判別する測定が含まれる場合、その情報は復号を改善し、オーバーヘッドを大幅に減らせる。しかし、通常のスタビライザー枠組みの外にある消失のシミュレーションと復号のコストが、高レートqLDPC符号での研究を制限してきた。"
+              },
+              {
+                "t": "p",
+                "x": "J. Wilson Staples、Winston Fu、Yihe Dong、Jeff D. Thompsonは、この課題を回避する消失対応の畳み込みニューラルネットワーク(CNN)復号器フレームワークを提示した。学習を可能にしたのは新しいサンプラーslimで、Pauliノイズと消失を含む回路でのスループットは、純粋なPauliノイズ向けの最先端手法に匹敵する。"
+              },
+              {
+                "t": "p",
+                "x": "消失のある表面符号では、この復号器は計算コストの高い最尤誤り(MLE)復号器と同等の精度を、はるかに低いレイテンシで達成する。ウォーキング・シンドローム抽出回路を用いた[[144,12,12]]二変数バイシクル(Gross)符号では、物理誤り率が1%未満のとき、純粋な消失モデルの論理誤り率は、同じ物理誤り率の純粋なPauliモデルより1,000倍以上低い。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "神经解码器学会\n处理丢失的量子比特",
+          "body": "神经解码器在表面码中利用量子比特丢失信息，避开稳定子框架之外的高昂解码。",
+          "mini_headline": "面向丢失量子比特的解码器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "量子比特丢失是许多量子硬件平台中的重要误差来源。当量子比特重置包含可分辨丢失的测量时，这一信息可以改进解码并大幅降低开销；但丢失的模拟与解码超出了常规稳定子框架，成本高昂，限制了针对高码率qLDPC码的此类研究。"
+              },
+              {
+                "t": "p",
+                "x": "J. Wilson Staples、Winston Fu、Yihe Dong和Jeff D. Thompson提出了一个可感知丢失的卷积神经网络（CNN）解码器框架，绕开了这一难题。训练依靠新的采样器slim实现，它在含Pauli噪声和丢失的电路上的吞吐量，可与纯Pauli噪声下的最先进水平相当。"
+              },
+              {
+                "t": "p",
+                "x": "在含丢失的表面码上，该解码器以低得多的延迟达到了计算代价高昂的最可能错误（MLE）解码器的精度。对于采用行走式综合征提取电路的[[144,12,12]]双变量自行车（Gross）码，在物理错误率低于1%时，纯丢失模型的逻辑错误率比相同物理错误率下的纯Pauli模型低1,000倍以上。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Redes neuronales aprenden a\ndecodificar cúbits perdidos",
+          "body": "Decodificadores neuronales usan datos de pérdida de cúbits en el código de superficie y abaratan la decodificación.",
+          "mini_headline": "Decodificadores para cúbits perdidos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "La pérdida de cúbits es una fuente importante de error en muchas plataformas de hardware cuántico. Cuando el reinicio de los cúbits incluye mediciones que detectan la pérdida, esa información puede mejorar la decodificación y reducir sustancialmente la sobrecarga, pero el coste de simular y decodificar la pérdida, que queda fuera del marco estabilizador habitual, ha limitado estos estudios en los códigos qLDPC de alta tasa."
+              },
+              {
+                "t": "p",
+                "x": "J. Wilson Staples, Winston Fu, Yihe Dong y Jeff D. Thompson presentan un marco de decodificador basado en una red neuronal convolucional (CNN) consciente de la pérdida que sortea este problema. El entrenamiento es posible gracias a un nuevo muestreador, slim, cuyo rendimiento en circuitos con ruido de Pauli y pérdida es comparable al estado del arte para ruido de Pauli puro."
+              },
+              {
+                "t": "p",
+                "x": "En el código de superficie con pérdida, el decodificador iguala la precisión de los costosos decodificadores de error más probable (MLE) con una latencia mucho menor. Para el código bivariado de bicicleta (Gross) [[144,12,12]] con un circuito de extracción de síndrome itinerante, con tasas de error físico inferiores al 1%, un modelo de pérdida pura ofrece una tasa de error lógico más de 1,000 veces menor que un modelo de Pauli puro con la misma tasa de error físico."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "snu-gaia-dark-matter-map",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "딥러닝이 그린\n태양 주변 암흑물질 지도",
+      "body": "모의 은하로 배운 신경망이 Gaia DR3 별 운동을 암흑물질 밀도 지도로 바꾼다.",
+      "mini_headline": "태양 주변 암흑물질 지도",
+      "tool": "Science",
+      "source": "arXiv (accepted MNRAS)",
+      "url": "https://arxiv.org/abs/2611.33660",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Yigon Kim, Ho Seong Hwang, Sungwook E. Hong, Donghui Jeong, Mingyeong Yang, Ji-hoon Kim(서울대학교 등)은 딥러닝으로 태양 근방의 국소 암흑물질 밀도를 추정했다. 모델은 우주론적 시뮬레이션 속 별의 운동학이 암흑물질 밀도장과 어떻게 대응하는지 배웠다."
+          },
+          {
+            "t": "img",
+            "src": "https://arxiv.org/html/2611.33660v1/Fig2_Diagram_datapreppipeline.png",
+            "cap": "그림 2: 두 아키텍처에 쓰인 데이터 준비 파이프라인의 개략도."
+          },
+          {
+            "t": "p",
+            "x": "학습 데이터는 FIRE-2 시뮬레이션 모음의 우리은하 유사 은하 7개에서 얻었고, 접선 속도와 시선 속도를 입력으로 썼다. VNet과 ViT-VNet 모두 대규모 밀도 기울기를 재현했지만 소규모 요동은 평탄하게 뭉개졌다."
+          },
+          {
+            "t": "p",
+            "x": "Gaia DR3 데이터에 적용하자 두 모델은 국소 암흑물질 밀도를 각각 0.80과 1.12 GeV cm^-3(VNet과 ViT-VNet)로 산출했다. 이번 연구는 Gaia DR4를 포함한 향후 천체측정 자료로 국소 암흑물질 지도를 만드는 첫걸음이다. 논문은 MNRAS에 게재 승인됐다(Nov. 24, 2026)."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Deep learning maps\ndark matter near the Sun",
+          "body": "Networks trained on simulated Milky Ways turn real Gaia DR3 star motions into a local dark matter density map.",
+          "mini_headline": "Mapping local dark matter",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Yigon Kim, Ho Seong Hwang, Sungwook E. Hong, Donghui Jeong, Mingyeong Yang and Ji-hoon Kim (Seoul National University and others) use deep learning to infer the local dark matter density in the solar neighbourhood, learning the mapping between stellar kinematics and the dark matter density field from cosmological simulations."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.33660v1/Fig2_Diagram_datapreppipeline.png",
+                "cap": "Figure 2: Schematic diagram of the data preparation pipeline used for the two architectures."
+              },
+              {
+                "t": "p",
+                "x": "The training set comes from 7 Milky Way-like galaxies in the FIRE-2 simulation suite, with tangential velocities and radial velocity as inputs. VNet and ViT-VNet both reproduce the large-scale density gradient, while small-scale fluctuations are smoothed."
+              },
+              {
+                "t": "p",
+                "x": "Applied to Gaia DR3 data, the models give local dark matter densities of 0.80 and 1.12 GeV cm^-3 (VNet and ViT-VNet). The work is a first step towards local dark matter maps from future astrometry including Gaia DR4; it was accepted in MNRAS on Nov. 24, 2026."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "딥러닝이 그린\n태양 주변 암흑물질 지도",
+          "body": "모의 은하로 배운 신경망이 Gaia DR3 별 운동을 암흑물질 밀도 지도로 바꾼다.",
+          "mini_headline": "태양 주변 암흑물질 지도",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Yigon Kim, Ho Seong Hwang, Sungwook E. Hong, Donghui Jeong, Mingyeong Yang, Ji-hoon Kim(서울대학교 등)은 딥러닝으로 태양 근방의 국소 암흑물질 밀도를 추정했다. 모델은 우주론적 시뮬레이션 속 별의 운동학이 암흑물질 밀도장과 어떻게 대응하는지 배웠다."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.33660v1/Fig2_Diagram_datapreppipeline.png",
+                "cap": "그림 2: 두 아키텍처에 쓰인 데이터 준비 파이프라인의 개략도."
+              },
+              {
+                "t": "p",
+                "x": "학습 데이터는 FIRE-2 시뮬레이션 모음의 우리은하 유사 은하 7개에서 얻었고, 접선 속도와 시선 속도를 입력으로 썼다. VNet과 ViT-VNet 모두 대규모 밀도 기울기를 재현했지만 소규모 요동은 평탄하게 뭉개졌다."
+              },
+              {
+                "t": "p",
+                "x": "Gaia DR3 데이터에 적용하자 두 모델은 국소 암흑물질 밀도를 각각 0.80과 1.12 GeV cm^-3(VNet과 ViT-VNet)로 산출했다. 이번 연구는 Gaia DR4를 포함한 향후 천체측정 자료로 국소 암흑물질 지도를 만드는 첫걸음이다. 논문은 MNRAS에 게재 승인됐다(Nov. 24, 2026)."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "深層学習で描く\n太陽近傍の暗黒物質",
+          "body": "模擬銀河で学習したネットワークがGaia DR3の恒星運動から局所暗黒物質密度図を作る。",
+          "mini_headline": "太陽近傍の暗黒物質を地図化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Yigon Kim、Ho Seong Hwang、Sungwook E. Hong、Donghui Jeong、Mingyeong Yang、Ji-hoon Kim(ソウル大学ほか)は、深層学習を用いて太陽近傍の局所暗黒物質密度を推定した。宇宙論的シミュレーションから、恒星の運動学と暗黒物質密度場の対応関係を学習させている。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.33660v1/Fig2_Diagram_datapreppipeline.png",
+                "cap": "図2:二つのアーキテクチャで用いたデータ準備パイプラインの概略図。"
+              },
+              {
+                "t": "p",
+                "x": "訓練データはFIRE-2シミュレーション群に含まれる天の川銀河に似た7つの銀河から得たもので、接線速度と視線速度を入力とした。VNetとViT-VNetはいずれも大規模な密度勾配を再現したが、小規模な揺らぎは平滑化された。"
+              },
+              {
+                "t": "p",
+                "x": "Gaia DR3のデータに適用すると、局所暗黒物質密度は0.80および1.12 GeV cm^-3(VNetとViT-VNet)となった。この研究はGaia DR4を含む将来の位置天文観測から局所暗黒物質地図を得るための第一歩であり、MNRASに受理された(Nov. 24, 2026)。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "深度学习绘制\n太阳附近的暗物质",
+          "body": "在模拟银河系上训练的网络，把Gaia DR3 恒星运动转化为本地暗物质密度图。",
+          "mini_headline": "绘制本地暗物质分布",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Yigon Kim、Ho Seong Hwang、Sungwook E. Hong、Donghui Jeong、Mingyeong Yang和Ji-hoon Kim（首尔大学等）利用深度学习推断太阳邻域的本地暗物质密度，从宇宙学模拟中学习恒星运动学与暗物质密度场之间的映射关系。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.33660v1/Fig2_Diagram_datapreppipeline.png",
+                "cap": "图2：两种架构所用数据准备流程的示意图。"
+              },
+              {
+                "t": "p",
+                "x": "训练集来自FIRE-2模拟套件中的7个类银河系星系，以切向速度和径向速度作为输入。VNet和ViT-VNet都再现了大尺度密度梯度，而小尺度涨落被平滑掉了。"
+              },
+              {
+                "t": "p",
+                "x": "将模型应用于Gaia DR3数据后，得到的本地暗物质密度分别为0.80和1.12 GeV cm^-3（VNet和ViT-VNet）。这项工作是利用包括Gaia DR4在内的未来天体测量数据绘制本地暗物质地图的第一步；论文已被MNRAS接收（Nov. 24, 2026）。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Aprendizaje profundo mapea\nla materia oscura cerca del Sol",
+          "body": "Redes entrenadas con galaxias simuladas convierten datos estelares de Gaia DR3 en un mapa local de materia oscura.",
+          "mini_headline": "Mapa de la materia oscura local",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Yigon Kim, Ho Seong Hwang, Sungwook E. Hong, Donghui Jeong, Mingyeong Yang y Ji-hoon Kim (Universidad Nacional de Seúl y otros) usan aprendizaje profundo para inferir la densidad local de materia oscura en la vecindad solar, aprendiendo la relación entre la cinemática estelar y el campo de densidad de materia oscura a partir de simulaciones cosmológicas."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.33660v1/Fig2_Diagram_datapreppipeline.png",
+                "cap": "Figura 2: Diagrama esquemático del proceso de preparación de datos usado para las dos arquitecturas."
+              },
+              {
+                "t": "p",
+                "x": "El conjunto de entrenamiento procede de 7 galaxias similares a la Vía Láctea del conjunto de simulaciones FIRE-2, con las velocidades tangenciales y la velocidad radial como entradas. VNet y ViT-VNet reproducen el gradiente de densidad a gran escala, mientras que las fluctuaciones a pequeña escala quedan suavizadas."
+              },
+              {
+                "t": "p",
+                "x": "Aplicados a datos de Gaia DR3, los modelos dan densidades locales de materia oscura de 0.80 y 1.12 GeV cm^-3 (VNet y ViT-VNet). El trabajo es un primer paso hacia mapas locales de materia oscura a partir de la astrometría futura, incluida Gaia DR4; fue aceptado en MNRAS el 24 de noviembre de 2026."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "딥러닝이 그린\n태양 주변 암흑물질 지도",
+          "body": "모의 은하로 배운 신경망이 Gaia DR3 별 운동을 암흑물질 밀도 지도로 바꾼다.",
+          "mini_headline": "태양 주변 암흑물질 지도",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Yigon Kim, Ho Seong Hwang, Sungwook E. Hong, Donghui Jeong, Mingyeong Yang, Ji-hoon Kim(서울대학교 등)은 딥러닝으로 태양 근방의 국소 암흑물질 밀도를 추정했다. 연구진은 우주론적 시뮬레이션에서 별의 운동학과 암흑물질 밀도장 사이의 대응 관계를 학습시켰다."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.33660v1/Fig2_Diagram_datapreppipeline.png",
+                "cap": "그림 2: 두 아키텍처에 쓰인 데이터 준비 파이프라인의 개략도."
+              },
+              {
+                "t": "p",
+                "x": "학습 데이터는 FIRE-2 시뮬레이션 모음의 우리은하 유사 은하 7개에서 얻었고, 접선 속도와 시선 속도를 입력으로 썼다. VNet과 ViT-VNet 모두 대규모 밀도 기울기를 재현했지만, 소규모 요동은 평탄하게 뭉개졌다."
+              },
+              {
+                "t": "p",
+                "x": "Gaia DR3 데이터에 적용하자 두 모델은 국소 암흑물질 밀도를 각각 0.80과 1.12 GeV cm^-3(VNet과 ViT-VNet)로 산출했다. 이 연구는 Gaia DR4를 포함한 향후 천체측정 자료로 국소 암흑물질 지도를 만드는 첫걸음이며, 논문은 MNRAS에 게재 승인됐다(Nov. 24, 2026)."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "深層学習で描く\n太陽近傍の暗黒物質",
+          "body": "模擬銀河で学習したネットワークがGaia DR3の恒星運動から局所暗黒物質密度図を作る。",
+          "mini_headline": "太陽近傍の暗黒物質を地図化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Yigon Kim、Ho Seong Hwang、Sungwook E. Hong、Donghui Jeong、Mingyeong Yang、Ji-hoon Kim(ソウル大学ほか)は、深層学習を用いて太陽近傍の局所暗黒物質密度を推定した。宇宙論的シミュレーションから、恒星の運動学と暗黒物質密度場の対応関係を学習させている。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.33660v1/Fig2_Diagram_datapreppipeline.png",
+                "cap": "図2:二つのアーキテクチャで用いたデータ準備パイプラインの概略図。"
+              },
+              {
+                "t": "p",
+                "x": "訓練データはFIRE-2シミュレーション群に含まれる天の川銀河に似た7つの銀河から得たもので、接線速度と視線速度を入力とした。VNetとViT-VNetはいずれも大規模な密度勾配を再現したが、小規模な揺らぎは平滑化された。"
+              },
+              {
+                "t": "p",
+                "x": "Gaia DR3のデータに適用すると、局所暗黒物質密度は0.80および1.12 GeV cm^-3(VNetとViT-VNet)となった。この研究はGaia DR4を含む将来の位置天文観測から局所暗黒物質地図を得るための第一歩であり、MNRASに受理された(Nov. 24, 2026)。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "深度学习绘制\n太阳附近的暗物质",
+          "body": "在模拟银河系上训练的网络，把Gaia DR3 恒星运动转化为本地暗物质密度图。",
+          "mini_headline": "绘制本地暗物质分布",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Yigon Kim、Ho Seong Hwang、Sungwook E. Hong、Donghui Jeong、Mingyeong Yang和Ji-hoon Kim（首尔大学等）利用深度学习推断太阳邻域的本地暗物质密度，从宇宙学模拟中学习恒星运动学与暗物质密度场之间的映射关系。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.33660v1/Fig2_Diagram_datapreppipeline.png",
+                "cap": "图2：两种架构所用数据准备流程的示意图。"
+              },
+              {
+                "t": "p",
+                "x": "训练集来自FIRE-2模拟套件中的7个类银河系星系，以切向速度和径向速度作为输入。VNet和ViT-VNet都再现了大尺度密度梯度，而小尺度涨落被平滑掉了。"
+              },
+              {
+                "t": "p",
+                "x": "将模型应用于Gaia DR3数据后，得到的本地暗物质密度分别为0.80和1.12 GeV cm^-3（VNet和ViT-VNet）。这项工作是利用包括Gaia DR4在内的未来天体测量数据绘制本地暗物质地图的第一步；论文已被MNRAS接收（Nov. 24, 2026）。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Aprendizaje profundo mapea\nla materia oscura cerca del Sol",
+          "body": "Redes entrenadas con galaxias simuladas convierten datos estelares de Gaia DR3 en un mapa local de materia oscura.",
+          "mini_headline": "Mapa de la materia oscura local",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Yigon Kim, Ho Seong Hwang, Sungwook E. Hong, Donghui Jeong, Mingyeong Yang y Ji-hoon Kim (Universidad Nacional de Seúl y otros) usan aprendizaje profundo para inferir la densidad local de materia oscura en la vecindad solar, aprendiendo la relación entre la cinemática estelar y el campo de densidad de materia oscura a partir de simulaciones cosmológicas."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2611.33660v1/Fig2_Diagram_datapreppipeline.png",
+                "cap": "Figura 2: Diagrama esquemático del proceso de preparación de datos usado para las dos arquitecturas."
+              },
+              {
+                "t": "p",
+                "x": "El conjunto de entrenamiento procede de 7 galaxias similares a la Vía Láctea del conjunto de simulaciones FIRE-2, con las velocidades tangenciales y la velocidad radial como entradas. VNet y ViT-VNet reproducen el gradiente de densidad a gran escala, mientras que las fluctuaciones a pequeña escala quedan suavizadas."
+              },
+              {
+                "t": "p",
+                "x": "Aplicados a datos de Gaia DR3, los modelos dan densidades locales de materia oscura de 0.80 y 1.12 GeV cm^-3 (VNet y ViT-VNet). El trabajo es un primer paso hacia mapas locales de materia oscura a partir de la astrometría futura, incluida Gaia DR4; fue aceptado en MNRAS el 24 de noviembre de 2026."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "zebra-prop-matbert",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "동결한 언어모델로\n소재 학습 시간 단축",
+      "body": "ZEBRA-Prop은 동결 모델로 LLM-Prop보다 학습시간을 약 95% 줄였다.",
+      "mini_headline": "동결 모델, 95% 더 빠르게",
+      "tool": "Science",
+      "source": "Tech Xplore (Institute of Science Tokyo)",
+      "url": "https://techxplore.com/news/2026-11-frozen-language-materials-properties-roughly.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -371,209 +855,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
-            "cap": "앱 일러스트. 출처: Jani Närhi / University of Helsinki"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg",
+            "cap": "ZEBRA-Prop은 소재 물성 예측에 효율적인 언어모델 접근법을 제시한다. Credit: Institute of Science Tokyo"
           },
           {
             "t": "p",
-            "x": "University of Helsinki 연구진은 국제동물복지기금(International Fund for Animal Welfare, IFAW)과 함께 야생동물 제품 이미지 약 40,000장으로 AI 모델을 학습시켰다. 모델은 코끼리·천산갑·호랑이로 만든 제품을 겉보기에 비슷한 일상용품과 가려낸다."
+            "x": "Institute of Science Tokyo 연구진이 물질의 구조·조성 정보를 여러 개의 텍스트 설명으로 바꿔 밴드갭, 형성 에너지, 유전 상수 같은 물성을 예측하는 경량 프레임워크 ZEBRA-Prop을 개발했다(Advanced Intelligent Systems)."
           },
           {
             "t": "p",
-            "x": "성능이 가장 좋은 모델의 전체 정확도는 84%였고 호랑이·천산갑 제품에서는 90%를 넘었다. 연구용 시제품 스마트폰 앱은 별도로 치른 실전 선별 시험에서 정확도 91.3%를 냈다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
-            "cap": "앱 인터페이스. 출처: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+            "x": "재료과학 문헌으로 사전 학습한 언어모델 MatBERT는 미세 조정 없이 동결한 채 쓰고, 여기서 나온 임베딩은 작은 신경망이 결합한다. ZEBRA-Prop은 LLM-Prop보다 학습 시간이 약 95% 짧아 일반 PC에서도 돌아간다."
           },
           {
             "t": "p",
-            "x": "도구는 의심스러운 온라인 판매 게시물을 골라 전문가에게 넘기는 데 쓰고, 합법성 판단과 단속 결정은 자격을 갖춘 당국이 맡는다. 연구진은 앞으로 정확도를 높이고 대상 종과 제품을 늘리며, NGOs·온라인 플랫폼과 시범 운영을 하고 단속 기관으로 넘기는 절차도 만들 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "Ritwik Kulkarni가 이끈 이 연구는 Conservation Biology에 실렸다(DOI: 10.1111/cobi.70407)."
+            "x": "Materials Project에서 파생한 두 데이터셋으로 시험해 보니 텍스트 설명을 여러 개 결합하면 예측이 나아졌다. Akira Takahashi 부교수는 \"합성 조건이나 실험 기록 같은 정보로도 확장될 가능성이 있다\"고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A phone app spots illegal\nwildlife products with AI",
-          "body": "A Helsinki and IFAW phone prototype recognized elephant, pangolin and tiger products with 91.3% accuracy.",
-          "mini_headline": "AI app spots illegal wildlife goods",
+          "headline": "A frozen language model\ncuts materials training",
+          "body": "ZEBRA-Prop feeds frozen MatBERT text embeddings to a small network, cutting training time about 95% versus LLM-Prop.",
+          "mini_headline": "Frozen model, 95% faster",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
-                "cap": "Illustration of the app. Credit: Jani Närhi / University of Helsinki"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg",
+                "cap": "ZEBRA-Prop offers an efficient language-model approach to materials property prediction. Credit: Institute of Science Tokyo"
               },
               {
                 "t": "p",
-                "x": "Researchers at the University of Helsinki, in collaboration with the International Fund for Animal Welfare (IFAW), trained AI models on nearly 40,000 images of wildlife products. The models can distinguish products derived from elephants, pangolins and tigers from visually similar everyday objects."
+                "x": "Researchers at the Institute of Science Tokyo developed ZEBRA-Prop, a lightweight framework that converts a material's structural and compositional information into multiple textual descriptions and predicts properties such as band gap, formation energy and dielectric constants (Advanced Intelligent Systems)."
               },
               {
                 "t": "p",
-                "x": "The best model reached 84% overall accuracy and over 90% for tiger and pangolin products. A research prototype smartphone app reached 91.3% accuracy in independent practical screening tests."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
-                "cap": "Interface of the app. Credit: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+                "x": "It uses MatBERT, a language model pretrained on materials-science literature, kept frozen rather than fine-tuned; a small neural network combines the resulting embeddings. ZEBRA-Prop reduces training time by approximately 95% compared with LLM-Prop, enough to run on a regular PC."
               },
               {
                 "t": "p",
-                "x": "The tool is meant to flag suspicious online listings for expert review; decisions on legality and enforcement remain with qualified authorities. Next steps include improving accuracy, covering more species and products, piloting with NGOs and online platforms, and building referral workflows to enforcement agencies."
-              },
-              {
-                "t": "p",
-                "x": "The study, led by Ritwik Kulkarni, appears in Conservation Biology (DOI: 10.1111/cobi.70407)."
+                "x": "Tests on two datasets derived from the Materials Project showed that combining multiple textual descriptions improved predictions. Associate Professor Akira Takahashi said \"it could potentially be extended to information, such as synthesis conditions and experimental records.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI로 불법 야생동물\n제품 찾는 스마트폰 앱",
-          "body": "Helsinki·IFAW 앱 시제품의 야생동물 제품 인식 정확도는 91.3%다.",
-          "mini_headline": "AI 앱, 불법 야생동물 제품 포착",
+          "headline": "동결한 언어모델로\n소재 학습 시간 단축",
+          "body": "ZEBRA-Prop은 동결 모델로 LLM-Prop보다 학습시간을 약 95% 줄였다.",
+          "mini_headline": "동결 모델, 95% 더 빠르게",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
-                "cap": "앱 일러스트. 출처: Jani Närhi / University of Helsinki"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg",
+                "cap": "ZEBRA-Prop은 소재 물성 예측에 효율적인 언어모델 접근법을 제시한다. Credit: Institute of Science Tokyo"
               },
               {
                 "t": "p",
-                "x": "University of Helsinki 연구진은 국제동물복지기금(International Fund for Animal Welfare, IFAW)과 함께 야생동물 제품 이미지 약 40,000장으로 AI 모델을 학습시켰다. 모델은 코끼리·천산갑·호랑이로 만든 제품을 겉보기에 비슷한 일상용품과 가려낸다."
+                "x": "Institute of Science Tokyo 연구진이 물질의 구조·조성 정보를 여러 개의 텍스트 설명으로 바꿔 밴드갭, 형성 에너지, 유전 상수 같은 물성을 예측하는 경량 프레임워크 ZEBRA-Prop을 개발했다(Advanced Intelligent Systems)."
               },
               {
                 "t": "p",
-                "x": "성능이 가장 좋은 모델의 전체 정확도는 84%였고 호랑이·천산갑 제품에서는 90%를 넘었다. 연구용 시제품 스마트폰 앱은 별도로 치른 실전 선별 시험에서 정확도 91.3%를 냈다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
-                "cap": "앱 인터페이스. 출처: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+                "x": "재료과학 문헌으로 사전 학습한 언어모델 MatBERT는 미세 조정 없이 동결한 채 쓰고, 여기서 나온 임베딩은 작은 신경망이 결합한다. ZEBRA-Prop은 LLM-Prop보다 학습 시간이 약 95% 짧아 일반 PC에서도 돌아간다."
               },
               {
                 "t": "p",
-                "x": "도구는 의심스러운 온라인 판매 게시물을 골라 전문가에게 넘기는 데 쓰고, 합법성 판단과 단속 결정은 자격을 갖춘 당국이 맡는다. 연구진은 앞으로 정확도를 높이고 대상 종과 제품을 늘리며, NGOs·온라인 플랫폼과 시범 운영을 하고 단속 기관으로 넘기는 절차도 만들 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "Ritwik Kulkarni가 이끈 이 연구는 Conservation Biology에 실렸다(DOI: 10.1111/cobi.70407)."
+                "x": "Materials Project에서 파생한 두 데이터셋으로 시험해 보니 텍스트 설명을 여러 개 결합하면 예측이 나아졌다. Akira Takahashi 부교수는 \"합성 조건이나 실험 기록 같은 정보로도 확장될 가능성이 있다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで違法な野生動物\n製品を見抜くスマホアプリ",
-          "body": "HelsinkiとIFAWのアプリ試作品は野生動物製品を91.3%の精度で識別した。",
-          "mini_headline": "AIアプリが違法な野生動物製品を検出",
+          "headline": "凍結した言語モデルで\n材料の学習を短縮",
+          "body": "ZEBRA-Propは凍結MatBERTで学習時間をLLM-Prop比で約95%短縮した。",
+          "mini_headline": "凍結モデルで95%高速化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
-                "cap": "アプリのイメージ図。クレジット：Jani Närhi / University of Helsinki"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg",
+                "cap": "ZEBRA-Propは、材料特性予測に効率的な言語モデルのアプローチを提供する。Credit: Institute of Science Tokyo"
               },
               {
                 "t": "p",
-                "x": "University of Helsinkiの研究者らは国際動物福祉基金（International Fund for Animal Welfare、IFAW）と共同で、野生動物製品の画像約40,000枚を使ってAIモデルを訓練した。モデルは、ゾウ、センザンコウ、トラに由来する製品を、見た目の似た日用品と区別できる。"
+                "x": "Institute of Science Tokyoの研究者らは、材料の構造と組成の情報を複数のテキスト記述に変換し、バンドギャップ、生成エネルギー、誘電率などの特性を予測する軽量フレームワークZEBRA-Propを開発した(Advanced Intelligent Systems)。"
               },
               {
                 "t": "p",
-                "x": "最も優れたモデルは全体で84%の精度を達成し、トラとセンザンコウの製品では90%を超えた。研究用の試作スマートフォンアプリは、独立した実践的スクリーニング試験で91.3%の精度に達した。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
-                "cap": "アプリの画面。クレジット：Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+                "x": "材料科学の文献で事前学習した言語モデルMatBERTを、ファインチューニングせず凍結したまま用い、得られた埋め込みを小型のニューラルネットワークが統合する。ZEBRA-PropはLLM-Propと比べて学習時間を約95%短縮し、一般的なPCでも動かせる。"
               },
               {
                 "t": "p",
-                "x": "このツールは不審なオンライン出品を専門家の確認に回すためのもので、合法性の判断や取り締まりは資格を持つ当局が担う。今後は精度の向上、対象となる種と製品の拡大、NGOsやオンラインプラットフォームとの試験運用、取り締まり機関への通報手順の構築を進める。"
-              },
-              {
-                "t": "p",
-                "x": "Ritwik Kulkarniが率いた研究は、Conservation Biologyに掲載された（DOI: 10.1111/cobi.70407）。"
+                "x": "Materials Projectに由来する二つのデータセットで試験したところ、複数のテキスト記述を組み合わせると予測が改善した。Akira Takahashi准教授は「合成条件や実験記録といった情報にも拡張できる可能性がある」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "手机应用借助AI\n识别非法野生动物制品",
-          "body": "Helsinki与IFAW的手机原型以91.3%准确率识别象、穿山甲和虎制品。",
-          "mini_headline": "AI应用识别非法野生动物制品",
+          "headline": "冻结的语言模型\n缩短材料训练",
+          "body": "ZEBRA-Prop用冻结的MatBERT嵌入，训练时间比LLM-Prop减少约95%。",
+          "mini_headline": "冻结模型，提速95%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
-                "cap": "应用示意图。来源：Jani Närhi / University of Helsinki"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg",
+                "cap": "ZEBRA-Prop为材料性质预测提供了一种高效的语言模型方法。Credit: Institute of Science Tokyo"
               },
               {
                 "t": "p",
-                "x": "University of Helsinki的研究人员与国际爱护动物基金会（International Fund for Animal Welfare，IFAW）合作，用近40,000张野生动物制品图像训练了AI模型。这些模型能把源自大象、穿山甲和老虎的制品，与外观相似的日常物品区分开来。"
+                "x": "Institute of Science Tokyo的研究人员开发了轻量级框架ZEBRA-Prop，它将材料的结构与成分信息转换为多段文本描述，并预测带隙、形成能和介电常数等性质（Advanced Intelligent Systems）。"
               },
               {
                 "t": "p",
-                "x": "表现最好的模型总体准确率达84%，对老虎和穿山甲制品的准确率超过90%。一款研究原型智能手机应用在独立的实际筛查测试中达到91.3%的准确率。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
-                "cap": "应用界面。来源：Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+                "x": "该框架使用在材料科学文献上预训练的语言模型MatBERT，并将其冻结而非微调；由一个小型神经网络整合所得的嵌入。与LLM-Prop相比，ZEBRA-Prop将训练时间缩短约95%，足以在普通PC上运行。"
               },
               {
                 "t": "p",
-                "x": "该工具旨在标记可疑的网上商品信息，交由专家审核；合法性判定与执法决定仍由具备资质的主管部门作出。下一步包括提高准确率、覆盖更多物种和制品、与NGOs及网络平台开展试点，并建立向执法机构移交的工作流程。"
-              },
-              {
-                "t": "p",
-                "x": "该研究由Ritwik Kulkarni主导，发表于Conservation Biology（DOI: 10.1111/cobi.70407）。"
+                "x": "在基于Materials Project的两个数据集上的测试表明，组合多段文本描述可以改善预测。副教授Akira Takahashi表示：“它有可能扩展到合成条件和实验记录等信息。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una app móvil detecta productos\nilegales de fauna con AI",
-          "body": "Un prototipo móvil de Helsinki e IFAW reconoció productos de elefante, pangolín y tigre con un 91.3% de precisión.",
-          "mini_headline": "Una app con AI detecta productos ilegales de fauna",
+          "headline": "Un modelo de lenguaje congelado\nagiliza el entrenamiento",
+          "body": "ZEBRA-Prop usa MatBERT congelado y una red pequeña, y recorta el entrenamiento cerca del 95% frente a LLM-Prop.",
+          "mini_headline": "Modelo congelado, 95% más rápido",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
-                "cap": "Ilustración de la app. Crédito: Jani Närhi / University of Helsinki"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg",
+                "cap": "ZEBRA-Prop ofrece un enfoque eficiente basado en modelos de lenguaje para predecir propiedades de materiales. Credit: Institute of Science Tokyo"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la University of Helsinki, en colaboración con el Fondo Internacional para el Bienestar Animal (International Fund for Animal Welfare, IFAW), entrenaron modelos de AI con casi 40,000 imágenes de productos de fauna silvestre. Los modelos pueden distinguir los productos derivados de elefantes, pangolines y tigres de objetos cotidianos visualmente similares."
+                "x": "Investigadores del Institute of Science Tokyo desarrollaron ZEBRA-Prop, un marco ligero que convierte la información estructural y de composición de un material en múltiples descripciones textuales y predice propiedades como la banda prohibida, la energía de formación y las constantes dieléctricas (Advanced Intelligent Systems)."
               },
               {
                 "t": "p",
-                "x": "El mejor modelo alcanzó un 84% de precisión global y más del 90% en productos de tigre y pangolín. Un prototipo de investigación de app para smartphone alcanzó un 91.3% de precisión en pruebas prácticas de cribado independientes."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
-                "cap": "Interfaz de la app. Crédito: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+                "x": "Utiliza MatBERT, un modelo de lenguaje preentrenado con literatura de ciencia de materiales, que se mantiene congelado en lugar de ajustarse; una pequeña red neuronal combina los embeddings resultantes. ZEBRA-Prop reduce el tiempo de entrenamiento aproximadamente un 95% respecto a LLM-Prop, lo suficiente para ejecutarse en un PC normal."
               },
               {
                 "t": "p",
-                "x": "La herramienta busca señalar anuncios en línea sospechosos para que los revisen expertos; las decisiones sobre legalidad y aplicación de la ley siguen en manos de autoridades cualificadas. Los próximos pasos incluyen mejorar la precisión, abarcar más especies y productos, hacer pruebas piloto con NGOs y plataformas en línea, y crear flujos de derivación hacia los organismos encargados de hacer cumplir la ley."
-              },
-              {
-                "t": "p",
-                "x": "El estudio, dirigido por Ritwik Kulkarni, se publica en Conservation Biology (DOI: 10.1111/cobi.70407)."
+                "x": "Las pruebas con dos conjuntos de datos derivados del Materials Project mostraron que combinar múltiples descripciones textuales mejoraba las predicciones. El profesor asociado Akira Takahashi afirmó que \"podría extenderse potencialmente a información como las condiciones de síntesis y los registros experimentales\"."
               }
             ]
           }
@@ -581,145 +1011,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI로 불법 야생동물\n제품 찾는 스마트폰 앱",
-          "body": "Helsinki·IFAW 앱 시제품의 야생동물 제품 인식 정확도는 91.3%다.",
-          "mini_headline": "AI 앱, 불법 야생동물 제품 포착",
+          "headline": "동결한 언어모델로\n소재 학습 시간 단축",
+          "body": "ZEBRA-Prop은 동결 모델로 LLM-Prop보다 학습시간을 약 95% 줄였다.",
+          "mini_headline": "동결 모델, 95% 더 빠르게",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
-                "cap": "앱 일러스트. 출처: Jani Närhi / University of Helsinki"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg",
+                "cap": "ZEBRA-Prop은 소재 물성 예측에 효율적인 언어모델 접근법을 제시한다. Credit: Institute of Science Tokyo"
               },
               {
                 "t": "p",
-                "x": "University of Helsinki 연구진은 국제동물복지기금(International Fund for Animal Welfare, IFAW)과 함께 야생동물 제품 이미지 약 40,000장으로 AI 모델을 학습시켰다. 이 모델은 코끼리·천산갑·호랑이에서 나온 제품을 겉보기에 비슷한 일상용품과 구별할 수 있다."
+                "x": "Institute of Science Tokyo 연구진이 물질의 구조·조성 정보를 여러 개의 텍스트 설명으로 바꿔 밴드갭, 형성 에너지, 유전 상수 같은 물성을 예측하는 경량 프레임워크 ZEBRA-Prop을 개발했다(Advanced Intelligent Systems)."
               },
               {
                 "t": "p",
-                "x": "가장 성능이 좋은 모델은 전체 정확도 84%를 기록했고, 호랑이와 천산갑 제품에서는 90%를 넘었다. 연구용 시제품 스마트폰 앱은 독립적인 실전 선별 시험에서 91.3%의 정확도를 보였다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
-                "cap": "앱 인터페이스. 출처: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+                "x": "이 프레임워크는 재료과학 문헌으로 사전 학습한 언어모델 MatBERT를 미세 조정하지 않고 동결한 채 사용하며, 작은 신경망이 그 결과로 나온 임베딩을 결합한다. ZEBRA-Prop은 LLM-Prop에 비해 학습 시간을 약 95% 줄여 일반 PC에서도 돌릴 수 있다."
               },
               {
                 "t": "p",
-                "x": "이 도구는 의심스러운 온라인 판매 게시물을 가려 전문가 검토로 넘기는 용도이며, 합법성 판단과 단속 결정은 자격을 갖춘 당국이 맡는다. 다음 단계로는 정확도 개선, 대상 종과 제품 확대, NGOs 및 온라인 플랫폼과의 시범 운영, 단속 기관으로 연계하는 절차 구축이 있다."
-              },
-              {
-                "t": "p",
-                "x": "Ritwik Kulkarni가 이끈 이 연구는 Conservation Biology에 실렸다(DOI: 10.1111/cobi.70407)."
+                "x": "Materials Project에서 파생한 두 데이터셋으로 시험한 결과, 여러 텍스트 설명을 결합하면 예측이 개선됐다. Akira Takahashi 부교수는 \"합성 조건이나 실험 기록 같은 정보로도 확장될 가능성이 있다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで違法な野生動物\n製品を見抜くスマホアプリ",
-          "body": "HelsinkiとIFAWのアプリ試作品は野生動物製品を91.3%の精度で識別した。",
-          "mini_headline": "AIアプリが違法な野生動物製品を検出",
+          "headline": "凍結した言語モデルで\n材料の学習を短縮",
+          "body": "ZEBRA-Propは凍結MatBERTで学習時間をLLM-Prop比で約95%短縮した。",
+          "mini_headline": "凍結モデルで95%高速化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
-                "cap": "アプリのイメージ図。クレジット：Jani Närhi / University of Helsinki"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg",
+                "cap": "ZEBRA-Propは、材料特性予測に効率的な言語モデルのアプローチを提供する。Credit: Institute of Science Tokyo"
               },
               {
                 "t": "p",
-                "x": "University of Helsinkiの研究者らは国際動物福祉基金（International Fund for Animal Welfare、IFAW）と共同で、野生動物製品の画像約40,000枚を使ってAIモデルを訓練した。モデルは、ゾウ、センザンコウ、トラに由来する製品を、見た目の似た日用品と区別できる。"
+                "x": "Institute of Science Tokyoの研究者らは、材料の構造と組成の情報を複数のテキスト記述に変換し、バンドギャップ、生成エネルギー、誘電率などの特性を予測する軽量フレームワークZEBRA-Propを開発した(Advanced Intelligent Systems)。"
               },
               {
                 "t": "p",
-                "x": "最も優れたモデルは全体で84%の精度を達成し、トラとセンザンコウの製品では90%を超えた。研究用の試作スマートフォンアプリは、独立した実践的スクリーニング試験で91.3%の精度に達した。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
-                "cap": "アプリの画面。クレジット：Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+                "x": "材料科学の文献で事前学習した言語モデルMatBERTを、ファインチューニングせず凍結したまま用い、得られた埋め込みを小型のニューラルネットワークが統合する。ZEBRA-PropはLLM-Propと比べて学習時間を約95%短縮し、一般的なPCでも動かせる。"
               },
               {
                 "t": "p",
-                "x": "このツールは不審なオンライン出品を専門家の確認に回すためのもので、合法性の判断や取り締まりは資格を持つ当局が担う。今後は精度の向上、対象となる種と製品の拡大、NGOsやオンラインプラットフォームとの試験運用、取り締まり機関への通報手順の構築を進める。"
-              },
-              {
-                "t": "p",
-                "x": "Ritwik Kulkarniが率いた研究は、Conservation Biologyに掲載された（DOI: 10.1111/cobi.70407）。"
+                "x": "Materials Projectに由来する二つのデータセットで試験したところ、複数のテキスト記述を組み合わせると予測が改善した。Akira Takahashi准教授は「合成条件や実験記録といった情報にも拡張できる可能性がある」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "手机应用借助AI\n识别非法野生动物制品",
-          "body": "Helsinki与IFAW的手机原型以91.3%准确率识别象、穿山甲和虎制品。",
-          "mini_headline": "AI应用识别非法野生动物制品",
+          "headline": "冻结的语言模型\n缩短材料训练",
+          "body": "ZEBRA-Prop用冻结的MatBERT嵌入，训练时间比LLM-Prop减少约95%。",
+          "mini_headline": "冻结模型，提速95%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
-                "cap": "应用示意图。来源：Jani Närhi / University of Helsinki"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg",
+                "cap": "ZEBRA-Prop为材料性质预测提供了一种高效的语言模型方法。Credit: Institute of Science Tokyo"
               },
               {
                 "t": "p",
-                "x": "University of Helsinki的研究人员与国际爱护动物基金会（International Fund for Animal Welfare，IFAW）合作，用近40,000张野生动物制品图像训练了AI模型。这些模型能把源自大象、穿山甲和老虎的制品，与外观相似的日常物品区分开来。"
+                "x": "Institute of Science Tokyo的研究人员开发了轻量级框架ZEBRA-Prop，它将材料的结构与成分信息转换为多段文本描述，并预测带隙、形成能和介电常数等性质（Advanced Intelligent Systems）。"
               },
               {
                 "t": "p",
-                "x": "表现最好的模型总体准确率达84%，对老虎和穿山甲制品的准确率超过90%。一款研究原型智能手机应用在独立的实际筛查测试中达到91.3%的准确率。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
-                "cap": "应用界面。来源：Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+                "x": "该框架使用在材料科学文献上预训练的语言模型MatBERT，并将其冻结而非微调；由一个小型神经网络整合所得的嵌入。与LLM-Prop相比，ZEBRA-Prop将训练时间缩短约95%，足以在普通PC上运行。"
               },
               {
                 "t": "p",
-                "x": "该工具旨在标记可疑的网上商品信息，交由专家审核；合法性判定与执法决定仍由具备资质的主管部门作出。下一步包括提高准确率、覆盖更多物种和制品、与NGOs及网络平台开展试点，并建立向执法机构移交的工作流程。"
-              },
-              {
-                "t": "p",
-                "x": "该研究由Ritwik Kulkarni主导，发表于Conservation Biology（DOI: 10.1111/cobi.70407）。"
+                "x": "在基于Materials Project的两个数据集上的测试表明，组合多段文本描述可以改善预测。副教授Akira Takahashi表示：“它有可能扩展到合成条件和实验记录等信息。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una app móvil detecta productos\nilegales de fauna con AI",
-          "body": "Un prototipo móvil de Helsinki e IFAW reconoció productos de elefante, pangolín y tigre con un 91.3% de precisión.",
-          "mini_headline": "Una app con AI detecta productos ilegales de fauna",
+          "headline": "Un modelo de lenguaje congelado\nagiliza el entrenamiento",
+          "body": "ZEBRA-Prop usa MatBERT congelado y una red pequeña, y recorta el entrenamiento cerca del 95% frente a LLM-Prop.",
+          "mini_headline": "Modelo congelado, 95% más rápido",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai.jpg",
-                "cap": "Ilustración de la app. Crédito: Jani Närhi / University of Helsinki"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg",
+                "cap": "ZEBRA-Prop ofrece un enfoque eficiente basado en modelos de lenguaje para predecir propiedades de materiales. Credit: Institute of Science Tokyo"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la University of Helsinki, en colaboración con el Fondo Internacional para el Bienestar Animal (International Fund for Animal Welfare, IFAW), entrenaron modelos de AI con casi 40,000 imágenes de productos de fauna silvestre. Los modelos pueden distinguir los productos derivados de elefantes, pangolines y tigres de objetos cotidianos visualmente similares."
+                "x": "Investigadores del Institute of Science Tokyo desarrollaron ZEBRA-Prop, un marco ligero que convierte la información estructural y de composición de un material en múltiples descripciones textuales y predice propiedades como la banda prohibida, la energía de formación y las constantes dieléctricas (Advanced Intelligent Systems)."
               },
               {
                 "t": "p",
-                "x": "El mejor modelo alcanzó un 84% de precisión global y más del 90% en productos de tigre y pangolín. Un prototipo de investigación de app para smartphone alcanzó un 91.3% de precisión en pruebas prácticas de cribado independientes."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/smartphone-app-uses-ai-1.jpg",
-                "cap": "Interfaz de la app. Crédito: Ritwik Kulkarni, Hanqin Wu, Enrico Di Minin"
+                "x": "Utiliza MatBERT, un modelo de lenguaje preentrenado con literatura de ciencia de materiales, que se mantiene congelado en lugar de ajustarse; una pequeña red neuronal combina los embeddings resultantes. ZEBRA-Prop reduce el tiempo de entrenamiento aproximadamente un 95% respecto a LLM-Prop, lo suficiente para ejecutarse en un PC normal."
               },
               {
                 "t": "p",
-                "x": "La herramienta busca señalar anuncios en línea sospechosos para que los revisen expertos; las decisiones sobre legalidad y aplicación de la ley siguen en manos de autoridades cualificadas. Los próximos pasos incluyen mejorar la precisión, abarcar más especies y productos, hacer pruebas piloto con NGOs y plataformas en línea, y crear flujos de derivación hacia los organismos encargados de hacer cumplir la ley."
-              },
-              {
-                "t": "p",
-                "x": "El estudio, dirigido por Ritwik Kulkarni, se publica en Conservation Biology (DOI: 10.1111/cobi.70407)."
+                "x": "Las pruebas con dos conjuntos de datos derivados del Materials Project mostraron que combinar múltiples descripciones textuales mejoraba las predicciones. El profesor asociado Akira Takahashi afirmó que \"podría extenderse potencialmente a información como las condiciones de síntesis y los registros experimentales\"."
               }
             ]
           }
@@ -727,297 +1121,15 @@
       }
     },
     {
-      "id": "strathclyde-copepod-model",
+      "id": "google-social-reasoning-bench",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 모델, 2050년까지\n플랑크톤 급감 전망",
-      "body": "Strathclyde는 NW 유럽 요각류가 2050년 58-72% 준다고 본다.",
-      "mini_headline": "2050년 플랑크톤 급감 가능성",
+      "headline": "AI 비서, 전해 들은\n동기 읽기에 서툴다",
+      "body": "숨은 동기 실험에서 LLMs는 사용자 전언에 약하고 사람보다 정보가 더 필요했다.",
+      "mini_headline": "전해 들은 동기에 약한 AI",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-11-tool-climate-reshape-marine-ecosystems.html",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
-            "cap": "모델로 산출한 요각류 동물플랑크톤 분포. 출처: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
-          },
-          {
-            "t": "p",
-            "x": "University of Strathclyde 연구진이 해양 먹이사슬의 바탕인 작은 부유 동물, 동물플랑크톤이 바뀌는 바다에 어떻게 반응할지 내다보는 고해상도 머신러닝 모델을 만들었다. 모델은 수십 년 치 Continuous Plankton Recorder 조사 자료로 학습했고 지역 기후 전망과 결합했다."
-          },
-          {
-            "t": "p",
-            "x": "연구가 주목한 대상은 청어 같은 어류의 주요 먹이인 요각류다. 고배출 시나리오에서 요각류 개체 수는 2050년까지 58–72%, 2100년까지 84–93% 줄 것으로 전망됐다. 저해상도 전 지구 모델이 내놓은 수치보다 감소폭이 커서, Northwest European Shelf 해역이 생각보다 취약할 수 있다는 신호로 읽힌다. 지역마다 피난처가 될 만한 곳도 모델이 짚어냈다."
-          },
-          {
-            "t": "p",
-            "x": "해수 온도 상승과 영양염 감소, 약해지는 AMOC에 얽힌 순환 변화가 감소와 맞물려 있다. 제1저자 Dr. Emma Tyldesley 연구팀은 예측이 아니라 시나리오에 기댄 연구라고 못 박는다. 전망치는 어린 야생 대서양연어의 먹이 여건을 가늠하는 지표로 Likely Suspects Framework에도 들어간다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI model projects a steep\nplankton decline by 2050",
-          "body": "A Strathclyde machine-learning model projects NW European copepods falling 58-72% by 2050 under high emissions.",
-          "mini_headline": "Plankton could plunge by 2050",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
-                "cap": "Modeled copepod zooplankton distributions. Credit: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
-              },
-              {
-                "t": "p",
-                "x": "Researchers at the University of Strathclyde built a high-resolution machine learning model that projects how zooplankton, the small drifting animals at the base of marine food chains, may respond to changing ocean conditions. It was trained on decades of Continuous Plankton Recorder survey data and combined with regional climate projections."
-              },
-              {
-                "t": "p",
-                "x": "The study focused on copepods, a major food source for fish such as herring. Under a high-emissions scenario, copepod abundance is projected to fall by 58–72% by 2050 and 84–93% by 2100, larger declines than lower-resolution global models suggest, indicating the Northwest European Shelf seas may be more vulnerable than thought. The model also identified possible regional refuges."
-              },
-              {
-                "t": "p",
-                "x": "The declines are linked to rising sea temperatures, lower nutrient levels and circulation changes tied to a weakening AMOC. Lead author Dr. Emma Tyldesley's team stresses it is a scenario-based study, not a prediction; the projections will also feed the Likely Suspects Framework as an indicator of feeding conditions for young wild Atlantic salmon."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 모델, 2050년까지\n플랑크톤 급감 전망",
-          "body": "Strathclyde는 NW 유럽 요각류가 2050년 58-72% 준다고 본다.",
-          "mini_headline": "2050년 플랑크톤 급감 가능성",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
-                "cap": "모델로 산출한 요각류 동물플랑크톤 분포. 출처: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
-              },
-              {
-                "t": "p",
-                "x": "University of Strathclyde 연구진이 해양 먹이사슬의 바탕인 작은 부유 동물, 동물플랑크톤이 바뀌는 바다에 어떻게 반응할지 내다보는 고해상도 머신러닝 모델을 만들었다. 모델은 수십 년 치 Continuous Plankton Recorder 조사 자료로 학습했고 지역 기후 전망과 결합했다."
-              },
-              {
-                "t": "p",
-                "x": "연구가 주목한 대상은 청어 같은 어류의 주요 먹이인 요각류다. 고배출 시나리오에서 요각류 개체 수는 2050년까지 58–72%, 2100년까지 84–93% 줄 것으로 전망됐다. 저해상도 전 지구 모델이 내놓은 수치보다 감소폭이 커서, Northwest European Shelf 해역이 생각보다 취약할 수 있다는 신호로 읽힌다. 지역마다 피난처가 될 만한 곳도 모델이 짚어냈다."
-              },
-              {
-                "t": "p",
-                "x": "해수 온도 상승과 영양염 감소, 약해지는 AMOC에 얽힌 순환 변화가 감소와 맞물려 있다. 제1저자 Dr. Emma Tyldesley 연구팀은 예측이 아니라 시나리오에 기댄 연구라고 못 박는다. 전망치는 어린 야생 대서양연어의 먹이 여건을 가늠하는 지표로 Likely Suspects Framework에도 들어간다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIモデル、2050年までに\nプランクトン急減を予測",
-          "body": "Strathclydeの予測ではNW欧州のカイアシ類が2050年までに58-72%減る。",
-          "mini_headline": "2050年までにプランクトン急減も",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
-                "cap": "モデルで推定したカイアシ類動物プランクトンの分布。クレジット：Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
-              },
-              {
-                "t": "p",
-                "x": "University of Strathclydeの研究者らは、海洋食物連鎖の土台となる小さな浮遊動物である動物プランクトンが、変化する海洋環境にどう応答しうるかを予測する高解像度の機械学習モデルを構築した。モデルは数十年分のContinuous Plankton Recorder調査データで訓練され、地域の気候予測と組み合わされた。"
-              },
-              {
-                "t": "p",
-                "x": "研究はニシンなどの魚の主要な餌であるカイアシ類に焦点を当てた。高排出シナリオでは、カイアシ類の個体数は2050年までに58–72%、2100年までに84–93%減ると予測され、解像度の低い全球モデルが示すより大きな減少となった。これはNorthwest European Shelfの海域が考えられていた以上に脆弱である可能性を示す。モデルは地域的な避難場所となりうる海域も特定した。"
-              },
-              {
-                "t": "p",
-                "x": "減少は海水温の上昇、栄養塩の低下、弱まりつつあるAMOCに伴う循環の変化と結びついている。筆頭著者Dr. Emma Tyldesleyのチームは、これは予測ではなくシナリオに基づく研究だと強調する。予測結果は、若い野生のタイセイヨウサケの摂餌条件を示す指標としてLikely Suspects Frameworkにも活用される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI模型预测2050年前\n浮游生物将大幅减少",
-          "body": "Strathclyde模型预测，高排放下NW欧洲桡足类到2050年将减少58-72%。",
-          "mini_headline": "2050年前浮游生物或将骤减",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
-                "cap": "模型模拟的桡足类浮游动物分布。来源：Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
-              },
-              {
-                "t": "p",
-                "x": "University of Strathclyde的研究人员构建了一个高分辨率机器学习模型，用于预测浮游动物——位于海洋食物链底层的微小漂浮动物——可能如何应对不断变化的海洋条件。该模型以数十年的Continuous Plankton Recorder调查数据训练，并结合了区域气候预测。"
-              },
-              {
-                "t": "p",
-                "x": "研究聚焦于桡足类，它们是鲱鱼等鱼类的主要食物来源。在高排放情景下，桡足类丰度预计到2050年下降58–72%，到2100年下降84–93%，降幅大于低分辨率全球模型的估计，表明Northwest European Shelf海域可能比想象中更脆弱。模型还识别出了可能的区域避难所。"
-              },
-              {
-                "t": "p",
-                "x": "这些下降与海温上升、营养盐水平降低以及与AMOC减弱相关的环流变化有关。第一作者Dr. Emma Tyldesley的团队强调，这是一项基于情景的研究，而非预测；这些预测还将纳入Likely Suspects Framework，作为野生大西洋鲑幼鱼摄食条件的指标。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un modelo de AI prevé una fuerte\ncaída del plancton para 2050",
-          "body": "Un modelo de Strathclyde prevé que los copépodos del NW europeo caigan un 58-72% para 2050 con altas emisiones.",
-          "mini_headline": "El plancton podría desplomarse para 2050",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
-                "cap": "Distribuciones modeladas del zooplancton copépodo. Crédito: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de la University of Strathclyde crearon un modelo de aprendizaje automático de alta resolución que proyecta cómo podría responder el zooplancton, los pequeños animales a la deriva que forman la base de las cadenas tróficas marinas, a los cambios en las condiciones del océano. Se entrenó con décadas de datos de muestreo del Continuous Plankton Recorder y se combinó con proyecciones climáticas regionales."
-              },
-              {
-                "t": "p",
-                "x": "El estudio se centró en los copépodos, una fuente de alimento clave para peces como el arenque. En un escenario de altas emisiones, se prevé que su abundancia caiga un 58–72% para 2050 y un 84–93% para 2100, descensos mayores que los que sugieren los modelos globales de menor resolución, lo que indica que los mares de la Northwest European Shelf podrían ser más vulnerables de lo que se creía. El modelo también identificó posibles refugios regionales."
-              },
-              {
-                "t": "p",
-                "x": "Los descensos se vinculan al aumento de la temperatura del mar, a menores niveles de nutrientes y a cambios en la circulación asociados a un AMOC debilitado. El equipo de la autora principal, Dr. Emma Tyldesley, subraya que se trata de un estudio basado en escenarios y no de una predicción; las proyecciones también alimentarán el Likely Suspects Framework como indicador de las condiciones de alimentación de los salmones atlánticos salvajes jóvenes."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 모델, 2050년까지\n플랑크톤 급감 전망",
-          "body": "Strathclyde는 NW 유럽 요각류가 2050년 58-72% 준다고 본다.",
-          "mini_headline": "2050년 플랑크톤 급감 가능성",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
-                "cap": "모델로 산출한 요각류 동물플랑크톤 분포. 출처: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
-              },
-              {
-                "t": "p",
-                "x": "University of Strathclyde 연구진은 해양 먹이사슬의 바탕을 이루는 작은 부유 동물인 동물플랑크톤이 변하는 해양 환경에 어떻게 반응할지 내다보는 고해상도 머신러닝 모델을 만들었다. 모델은 수십 년 치 Continuous Plankton Recorder 조사 자료로 학습했고, 지역 기후 전망과 결합했다."
-              },
-              {
-                "t": "p",
-                "x": "연구는 청어 같은 어류의 주요 먹이인 요각류에 초점을 맞췄다. 고배출 시나리오에서 요각류 개체 수는 2050년까지 58–72%, 2100년까지 84–93% 줄 것으로 전망됐다. 이는 저해상도 전 지구 모델이 제시하는 것보다 큰 감소폭으로, Northwest European Shelf 해역이 생각보다 취약할 수 있음을 시사한다. 모델은 지역별 피난처가 될 만한 곳도 찾아냈다."
-              },
-              {
-                "t": "p",
-                "x": "감소는 해수 온도 상승, 영양염 감소, 약해지는 AMOC와 연관된 순환 변화와 관련이 있다. 제1저자 Dr. Emma Tyldesley 연구팀은 이것이 예측이 아니라 시나리오 기반 연구라고 강조한다. 이 전망은 어린 야생 대서양연어의 먹이 여건을 보여주는 지표로 Likely Suspects Framework에도 반영된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIモデル、2050年までに\nプランクトン急減を予測",
-          "body": "Strathclydeの予測ではNW欧州のカイアシ類が2050年までに58-72%減る。",
-          "mini_headline": "2050年までにプランクトン急減も",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
-                "cap": "モデルで推定したカイアシ類動物プランクトンの分布。クレジット：Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
-              },
-              {
-                "t": "p",
-                "x": "University of Strathclydeの研究者らは、海洋食物連鎖の土台となる小さな浮遊動物である動物プランクトンが、変化する海洋環境にどう応答しうるかを予測する高解像度の機械学習モデルを構築した。モデルは数十年分のContinuous Plankton Recorder調査データで訓練され、地域の気候予測と組み合わされた。"
-              },
-              {
-                "t": "p",
-                "x": "研究はニシンなどの魚の主要な餌であるカイアシ類に焦点を当てた。高排出シナリオでは、カイアシ類の個体数は2050年までに58–72%、2100年までに84–93%減ると予測され、解像度の低い全球モデルが示すより大きな減少となった。これはNorthwest European Shelfの海域が考えられていた以上に脆弱である可能性を示す。モデルは地域的な避難場所となりうる海域も特定した。"
-              },
-              {
-                "t": "p",
-                "x": "減少は海水温の上昇、栄養塩の低下、弱まりつつあるAMOCに伴う循環の変化と結びついている。筆頭著者Dr. Emma Tyldesleyのチームは、これは予測ではなくシナリオに基づく研究だと強調する。予測結果は、若い野生のタイセイヨウサケの摂餌条件を示す指標としてLikely Suspects Frameworkにも活用される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI模型预测2050年前\n浮游生物将大幅减少",
-          "body": "Strathclyde模型预测，高排放下NW欧洲桡足类到2050年将减少58-72%。",
-          "mini_headline": "2050年前浮游生物或将骤减",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
-                "cap": "模型模拟的桡足类浮游动物分布。来源：Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
-              },
-              {
-                "t": "p",
-                "x": "University of Strathclyde的研究人员构建了一个高分辨率机器学习模型，用于预测浮游动物——位于海洋食物链底层的微小漂浮动物——可能如何应对不断变化的海洋条件。该模型以数十年的Continuous Plankton Recorder调查数据训练，并结合了区域气候预测。"
-              },
-              {
-                "t": "p",
-                "x": "研究聚焦于桡足类，它们是鲱鱼等鱼类的主要食物来源。在高排放情景下，桡足类丰度预计到2050年下降58–72%，到2100年下降84–93%，降幅大于低分辨率全球模型的估计，表明Northwest European Shelf海域可能比想象中更脆弱。模型还识别出了可能的区域避难所。"
-              },
-              {
-                "t": "p",
-                "x": "这些下降与海温上升、营养盐水平降低以及与AMOC减弱相关的环流变化有关。第一作者Dr. Emma Tyldesley的团队强调，这是一项基于情景的研究，而非预测；这些预测还将纳入Likely Suspects Framework，作为野生大西洋鲑幼鱼摄食条件的指标。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un modelo de AI prevé una fuerte\ncaída del plancton para 2050",
-          "body": "Un modelo de Strathclyde prevé que los copépodos del NW europeo caigan un 58-72% para 2050 con altas emisiones.",
-          "mini_headline": "El plancton podría desplomarse para 2050",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-modeling-tool-shed.jpg",
-                "cap": "Distribuciones modeladas del zooplancton copépodo. Crédito: Communications Earth & Environment (2026). DOI: 10.1038/s43247-026-03840-1"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de la University of Strathclyde crearon un modelo de aprendizaje automático de alta resolución que proyecta cómo podría responder el zooplancton, los pequeños animales a la deriva que forman la base de las cadenas tróficas marinas, a los cambios en las condiciones del océano. Se entrenó con décadas de datos de muestreo del Continuous Plankton Recorder y se combinó con proyecciones climáticas regionales."
-              },
-              {
-                "t": "p",
-                "x": "El estudio se centró en los copépodos, una fuente de alimento clave para peces como el arenque. En un escenario de altas emisiones, se prevé que su abundancia caiga un 58–72% para 2050 y un 84–93% para 2100, descensos mayores que los que sugieren los modelos globales de menor resolución, lo que indica que los mares de la Northwest European Shelf podrían ser más vulnerables de lo que se creía. El modelo también identificó posibles refugios regionales."
-              },
-              {
-                "t": "p",
-                "x": "Los descensos se vinculan al aumento de la temperatura del mar, a menores niveles de nutrientes y a cambios en la circulación asociados a un AMOC debilitado. El equipo de la autora principal, Dr. Emma Tyldesley, subraya que se trata de un estudio basado en escenarios y no de una predicción; las proyecciones también alimentarán el Likely Suspects Framework como indicador de las condiciones de alimentación de los salmones atlánticos salvajes jóvenes."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "psypost-ai-label-ratings",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI-generated\n표시, 평가엔 영향 미미",
-      "body": "독일 연구에서 AI-generated 표시는 약 42%만 알아채 효과가 미미했다.",
-      "mini_headline": "AI 표시는 대부분 눈에 안 띈다",
-      "tool": "Science",
-      "source": "PsyPost",
-      "url": "https://www.psypost.org/marking-an-informational-text-as-ai-generated-does-not-influence-its-ratings-study-finds/",
+      "source": "Google Research",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1025,173 +1137,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+            "src": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+            "cap": "AI 비서는 사용자를 매개로 한 현실 안에서 작동한다. 비서가 전해 듣는 사회적 사건은 모두 사용자의 주관적 시각을 거친 것이다."
           },
           {
             "t": "p",
-            "x": "독일의 한 온라인 실험에서 짧은 영양 정보 글에 인공지능이 썼다는 표시를 붙여도 참가자 평가는 의미 있게 달라지지 않았다. 다만 AI-labeled 글을 읽은 사람 가운데 출처가 언급됐다고 답한 비율은 약 42%에 그쳤다. 논문은 Applied Psychology: Health and Well-Being에 실렸다."
+            "x": "Google Research가 다중 에이전트 시뮬레이션으로 사회적 추론을 평가하는 프레임워크를 내놓았다. 표적 에이전트에 숨은 동기를 심은 뒤 사용자를 대변하는 에이전트 등 다른 에이전트와 상호작용하게 한다. 그다음 사용자 에이전트가 평가 대상 비서에게 상담을 청하면 비서가 표적의 숨은 동기를 추론해야 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+            "cap": "프레임워크 전체 개요."
           },
           {
             "t": "p",
-            "x": "Laura M. König 연구팀은 성인 774명을 분석했다. 참가자가 읽은 글은 영양학자가 검토한 ChatGPT-generated 글 세 편 중 하나였고, “이 글은 인공지능인 ChatGPT가 작성했습니다.”라는 문구가 붙은 글도 없는 글도 있었다."
+            "x": "12개 LLMs에 적용해 보니 주관적인 사용자 매개에 기댈 때 사회적 추론이 상당히 어려워졌다. 사건을 직접 관찰한 모델은 비서 역할을 할 때보다 훨씬 정확했다. 모델은 사용자의 프레이밍에 쉽게 흔들렸다. 올바른 예측에 이르기까지 사람보다 많은 세부 정보가 필요했고 확인 질문도 충분히 활용하지 못했다."
           },
           {
             "t": "p",
-            "x": "평가에서 통계적으로 유의한 차이는 없었다. AI-labeled 글은 신뢰도가 약간 낮게 나왔지만 평균은 7-point 척도에서 5를 넘었다. WhatsApp 요약을 쓴 참가자 569명 가운데 AI를 출처로 꼽은 사람은 17명뿐이었다."
-          },
-          {
-            "t": "p",
-            "x": "저자들은 “연구 결과는 AI 챗봇이 대중에게 영양 관련 정보의 출처로 받아들여지고 신뢰받고 있음을 보여준다”고 결론지었다. 실험 글의 품질이 높았다는 점도 짚으며, 품질이 낮은 정보에서는 표시가 더 중요할 수 있다고 덧붙였다."
+            "x": "프레임워크는 Google의 Concordia 라이브러리로 구축했고 20K 개가 넘는 생성 예제를 담은 데이터셋과 함께 오픈소스로 공개됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "An AI-generated label barely\nshifts how readers rate advice",
-          "body": "In a German study, an AI-generated label on nutrition advice barely moved ratings, as only about 42% noticed it.",
-          "mini_headline": "AI labels go largely unnoticed",
+          "headline": "AI assistants struggle\nwith secondhand motives",
+          "body": "Hidden-motive social simulations show LLMs reason worse through a user's account and need more detail than humans.",
+          "mini_headline": "Secondhand motives trip AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+                "cap": "AI assistants operate within a user-mediated reality: the assistant hears about social events only through the subjective lens of the user."
               },
               {
                 "t": "p",
-                "x": "An online experiment conducted in Germany found that labeling a short nutrition text as written by artificial intelligence did not meaningfully change how participants rated it. However, only about 42% of those who read the AI-labeled text reported that a source had been mentioned. The paper was published in Applied Psychology: Health and Well-Being."
+                "x": "Google Research introduces an evaluation framework for social reasoning based on multi-agent simulations. A target agent is assigned a hidden motive and interacts with other agents, including one representing the user, who then consults the evaluated assistant, which must infer the target's hidden motive."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+                "cap": "Bird's-eye view of the framework."
               },
               {
                 "t": "p",
-                "x": "Laura M. König and colleagues analyzed 774 adults who read one of three ChatGPT-generated texts, checked by a nutritional scientist, with or without the note “This text was written by ChatGPT, an artificial intelligence.”"
+                "x": "Applied to 12 LLMs, it shows that relying on subjective user mediation substantially complicates social reasoning: models observing events directly are significantly more accurate than when acting as an assistant. Models are sensitive to user framing, require more detail than humans need to reach correct predictions, and fail to fully leverage clarification questions."
               },
               {
                 "t": "p",
-                "x": "There were no statistically significant differences in ratings. AI-labeled texts got slightly lower trustworthiness ratings, but trust averaged above 5 on a 7-point scale. Only 17 of 569 participants who wrote a WhatsApp summary mentioned AI as the source."
-              },
-              {
-                "t": "p",
-                "x": "“The results point toward AI chatbots being an accepted and trusted source for nutrition-related information in the population,” the authors concluded. They note the texts were high quality, and labels might matter more for lower-quality information."
+                "x": "The framework, built on Google's Concordia library, and a dataset with over 20K generated examples are open-sourced."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-generated\n표시, 평가엔 영향 미미",
-          "body": "독일 연구에서 AI-generated 표시는 약 42%만 알아채 효과가 미미했다.",
-          "mini_headline": "AI 표시는 대부분 눈에 안 띈다",
+          "headline": "AI 비서, 전해 들은\n동기 읽기에 서툴다",
+          "body": "숨은 동기 실험에서 LLMs는 사용자 전언에 약하고 사람보다 정보가 더 필요했다.",
+          "mini_headline": "전해 들은 동기에 약한 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+                "cap": "AI 비서는 사용자를 매개로 한 현실 안에서 작동한다. 비서가 전해 듣는 사회적 사건은 모두 사용자의 주관적 시각을 거친 것이다."
               },
               {
                 "t": "p",
-                "x": "독일의 한 온라인 실험에서 짧은 영양 정보 글에 인공지능이 썼다는 표시를 붙여도 참가자 평가는 의미 있게 달라지지 않았다. 다만 AI-labeled 글을 읽은 사람 가운데 출처가 언급됐다고 답한 비율은 약 42%에 그쳤다. 논문은 Applied Psychology: Health and Well-Being에 실렸다."
+                "x": "Google Research가 다중 에이전트 시뮬레이션으로 사회적 추론을 평가하는 프레임워크를 내놓았다. 표적 에이전트에 숨은 동기를 심은 뒤 사용자를 대변하는 에이전트 등 다른 에이전트와 상호작용하게 한다. 그다음 사용자 에이전트가 평가 대상 비서에게 상담을 청하면 비서가 표적의 숨은 동기를 추론해야 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+                "cap": "프레임워크 전체 개요."
               },
               {
                 "t": "p",
-                "x": "Laura M. König 연구팀은 성인 774명을 분석했다. 참가자가 읽은 글은 영양학자가 검토한 ChatGPT-generated 글 세 편 중 하나였고, “이 글은 인공지능인 ChatGPT가 작성했습니다.”라는 문구가 붙은 글도 없는 글도 있었다."
+                "x": "12개 LLMs에 적용해 보니 주관적인 사용자 매개에 기댈 때 사회적 추론이 상당히 어려워졌다. 사건을 직접 관찰한 모델은 비서 역할을 할 때보다 훨씬 정확했다. 모델은 사용자의 프레이밍에 쉽게 흔들렸다. 올바른 예측에 이르기까지 사람보다 많은 세부 정보가 필요했고 확인 질문도 충분히 활용하지 못했다."
               },
               {
                 "t": "p",
-                "x": "평가에서 통계적으로 유의한 차이는 없었다. AI-labeled 글은 신뢰도가 약간 낮게 나왔지만 평균은 7-point 척도에서 5를 넘었다. WhatsApp 요약을 쓴 참가자 569명 가운데 AI를 출처로 꼽은 사람은 17명뿐이었다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 “연구 결과는 AI 챗봇이 대중에게 영양 관련 정보의 출처로 받아들여지고 신뢰받고 있음을 보여준다”고 결론지었다. 실험 글의 품질이 높았다는 점도 짚으며, 품질이 낮은 정보에서는 표시가 더 중요할 수 있다고 덧붙였다."
+                "x": "프레임워크는 Google의 Concordia 라이브러리로 구축했고 20K 개가 넘는 생성 예제를 담은 데이터셋과 함께 오픈소스로 공개됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-generated表示\n読者の評価はほぼ変わらず",
-          "body": "ドイツの研究で約42%しか気づかず、AI-generated表示は評価をほぼ変えなかった。",
-          "mini_headline": "AI表示の多くは気づかれない",
+          "headline": "AIアシスタントは\n又聞きの動機が苦手",
+          "body": "隠れた動機のシミュレーションで、LLMsは利用者経由だと推論が鈍り、人間より詳細を要した。",
+          "mini_headline": "又聞きの動機にAIがつまずく",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+                "cap": "AIアシスタントは利用者を介した現実の中で動く。アシスタントが社会的な出来事を知るのは、利用者の主観というレンズを通してだけである。"
               },
               {
                 "t": "p",
-                "x": "ドイツで行われたオンライン実験で、栄養に関する短い文章に人工知能が書いたと表示しても、参加者の評価に意味のある変化は見られなかった。ただし、AI-labeledの文章を読んだ人のうち、出典が示されていたと答えたのは約42%にとどまった。論文はApplied Psychology: Health and Well-Beingに掲載された。"
+                "x": "Google Researchは、マルチエージェント・シミュレーションに基づく社会的推論の評価フレームワークを発表した。標的エージェントには隠れた動機が与えられ、利用者を代表するエージェントを含むほかのエージェントとやり取りする。その後、利用者役は評価対象のアシスタントに相談し、アシスタントは標的の隠れた動機を推測しなければならない。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+                "cap": "フレームワークの全体像。"
               },
               {
                 "t": "p",
-                "x": "Laura M. Königらは、栄養学者が確認したChatGPT-generatedの文章三つのうち一つを読んだ成人774人を分析した。文章には「この文章は人工知能であるChatGPTが書きました」という注記が付く場合と付かない場合があった。"
+                "x": "12のLLMsに適用したところ、主観的な利用者の仲介に頼ると社会的推論が大きく難しくなることがわかった。出来事を直接観察したモデルは、アシスタントとして振る舞う場合よりも大幅に正確だった。モデルは利用者の語り方に影響されやすく、正しい予測に至るまでに人間より多くの詳細を必要とし、確認のための質問を十分に活用できなかった。"
               },
               {
                 "t": "p",
-                "x": "評価に統計的に有意な差はなかった。AI-labeledの文章は信頼性の評価がやや低かったが、信頼の平均は7-point尺度で5を上回った。WhatsAppで要約を書いた参加者569人のうち、AIを出典として挙げたのは17人だけだった。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは「結果は、AIチャットボットが一般の人々にとって、栄養関連情報の受け入れられ信頼された情報源になっていることを示している」と結論づけた。ただし文章の質は高く、質の低い情報ではラベルがより重要になりうると指摘している。"
+                "x": "GoogleのConcordiaライブラリ上に構築されたフレームワークと、20K 件を超える生成例を含むデータセットはオープンソースで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-generated标签\n几乎不改变读者对建议的评价",
-          "body": "德国研究中，营养建议上的AI-generated标签几乎未改变评分，仅约42%的人注意到。",
-          "mini_headline": "AI标签大多未被注意",
+          "headline": "AI助手难以理解\n转述中的动机",
+          "body": "隐藏动机社交模拟显示，LLMs经用户转述后推理变差，且比人类需要更多细节。",
+          "mini_headline": "转述动机难倒AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+                "cap": "AI助手身处由用户中介的现实：助手只能透过用户的主观视角了解社会事件。"
               },
               {
                 "t": "p",
-                "x": "一项在德国进行的在线实验发现，将一段简短的营养文字标注为由人工智能撰写，并未显著改变参与者对它的评价。不过，在阅读AI-labeled文本的人中，只有约42%表示文中提到了来源。论文发表于Applied Psychology: Health and Well-Being。"
+                "x": "Google Research推出了一个基于多智能体模拟的社会推理评估框架。目标智能体被赋予一个隐藏动机，并与包括代表用户的智能体在内的其他智能体互动；随后用户智能体向被评估的助手咨询，助手必须推断出目标的隐藏动机。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+                "cap": "框架全景图。"
               },
               {
                 "t": "p",
-                "x": "Laura M. König及其同事分析了774名成年人，他们阅读了三篇经营养学家核查的ChatGPT-generated文本之一，文本附有或不附“本文由人工智能ChatGPT撰写。”的说明。"
+                "x": "将其应用于12个LLMs后发现，依赖主观的用户中介会显著增加社会推理的难度：直接观察事件的模型明显比充当助手时更准确。模型对用户的表述方式很敏感，需要比人类更多的细节才能做出正确预测，也未能充分利用澄清性提问。"
               },
               {
                 "t": "p",
-                "x": "各组评分之间没有统计学上的显著差异。AI-labeled文本的可信度评分略低，但在7-point量表上，信任度平均仍高于5。在撰写WhatsApp摘要的569名参与者中，只有17人提到AI是来源。"
-              },
-              {
-                "t": "p",
-                "x": "作者总结称：“结果表明，AI聊天机器人已成为公众接受和信任的营养相关信息来源。”他们指出，这些文本质量较高，对于质量较低的信息，标签的作用可能更大。"
+                "x": "该框架基于Google的Concordia库构建，与包含超过20K 个生成样例的数据集一同开源。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una etiqueta AI-generated apenas\ncambia la valoración de consejos",
-          "body": "En un estudio alemán, una etiqueta AI-generated apenas cambió las valoraciones: solo cerca del 42% la notó.",
-          "mini_headline": "Las etiquetas de AI pasan casi inadvertidas",
+          "headline": "Los asistentes de AI fallan con\nmotivos de segunda mano",
+          "body": "En simulaciones de motivos ocultos, los LLMs razonan peor de segunda mano y piden más detalle que los humanos.",
+          "mini_headline": "Los motivos de segunda mano confunden a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+                "cap": "Los asistentes de AI operan dentro de una realidad mediada por el usuario: el asistente solo conoce los hechos sociales a través de la lente subjetiva del usuario."
               },
               {
                 "t": "p",
-                "x": "Un experimento en línea realizado en Alemania halló que etiquetar un breve texto sobre nutrición como escrito por inteligencia artificial no cambió de forma significativa cómo lo valoraron los participantes. Sin embargo, solo cerca del 42% de quienes leyeron el texto AI-labeled indicó que se había mencionado una fuente. El artículo se publicó en Applied Psychology: Health and Well-Being."
+                "x": "Google Research presenta un marco de evaluación del razonamiento social basado en simulaciones multiagente. A un agente objetivo se le asigna un motivo oculto e interactúa con otros agentes, incluido uno que representa al usuario, que después consulta al asistente evaluado, el cual debe inferir el motivo oculto del objetivo."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+                "cap": "Vista general del marco."
               },
               {
                 "t": "p",
-                "x": "Laura M. König y sus colegas analizaron a 774 adultos que leyeron uno de tres textos ChatGPT-generated, revisados por un especialista en nutrición, con o sin la nota “Este texto fue escrito por ChatGPT, una inteligencia artificial.”"
+                "x": "Aplicado a 12 LLMs, muestra que depender de la mediación subjetiva del usuario complica sustancialmente el razonamiento social: los modelos que observan los hechos directamente son mucho más precisos que cuando actúan como asistentes. Los modelos son sensibles al encuadre del usuario, requieren más detalle que los humanos para llegar a predicciones correctas y no aprovechan del todo las preguntas de aclaración."
               },
               {
                 "t": "p",
-                "x": "No hubo diferencias estadísticamente significativas en las valoraciones. Los textos AI-labeled recibieron valoraciones de credibilidad ligeramente inferiores, pero la confianza promedió más de 5 en una escala de 7 puntos. Solo 17 de los 569 participantes que escribieron un resumen para WhatsApp mencionaron la AI como fuente."
-              },
-              {
-                "t": "p",
-                "x": "“Los resultados apuntan a que los chatbots de AI son una fuente aceptada y de confianza para la información relacionada con la nutrición en la población”, concluyeron los autores. Señalan que los textos eran de alta calidad y que las etiquetas podrían importar más en información de menor calidad."
+                "x": "El marco, construido sobre la biblioteca Concordia de Google, y un conjunto de datos con más de 20K ejemplos generados se han publicado como código abierto."
               }
             ]
           }
@@ -1199,313 +1323,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-generated\n표시, 평가엔 영향 미미",
-          "body": "독일 연구에서 AI-generated 표시는 약 42%만 알아채 효과가 미미했다.",
-          "mini_headline": "AI 표시는 대부분 눈에 안 띈다",
+          "headline": "AI 비서, 전해 들은\n동기 읽기에 서툴다",
+          "body": "숨은 동기 실험에서 LLMs는 사용자 전언에 약하고 사람보다 정보가 더 필요했다.",
+          "mini_headline": "전해 들은 동기에 약한 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+                "cap": "AI 비서는 사용자를 매개로 한 현실 안에서 작동한다. 비서는 사회적 사건을 오직 사용자의 주관적 시각을 거쳐서만 전해 듣는다."
               },
               {
                 "t": "p",
-                "x": "독일에서 진행된 온라인 실험에서, 짧은 영양 정보 글에 인공지능이 썼다는 표시를 붙여도 참가자의 평가는 의미 있게 달라지지 않았다. 다만 AI-labeled 글을 읽은 사람 가운데 출처가 언급됐다고 답한 비율은 약 42%에 그쳤다. 논문은 Applied Psychology: Health and Well-Being에 실렸다."
+                "x": "Google Research가 다중 에이전트 시뮬레이션에 기반한 사회적 추론 평가 프레임워크를 내놓았다. 표적 에이전트에게 숨은 동기를 부여하고, 사용자를 대변하는 에이전트를 포함한 다른 에이전트들과 상호작용하게 한다. 이후 사용자 에이전트가 평가 대상 비서에게 상담하면, 비서는 표적의 숨은 동기를 추론해야 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+                "cap": "프레임워크 전체 개요."
               },
               {
                 "t": "p",
-                "x": "Laura M. König 연구팀은 영양학자가 검토한 ChatGPT-generated 글 세 편 중 하나를 읽은 성인 774명을 분석했다. 글에는 “이 글은 인공지능인 ChatGPT가 작성했습니다.”라는 문구가 붙거나 붙지 않았다."
+                "x": "12개 LLMs에 적용한 결과, 주관적인 사용자 매개에 의존하면 사회적 추론이 상당히 어려워졌다. 사건을 직접 관찰한 모델은 비서 역할을 할 때보다 훨씬 정확했다. 모델은 사용자의 프레이밍에 민감했고, 올바른 예측에 이르기까지 사람보다 많은 세부 정보가 필요했으며, 확인 질문을 충분히 활용하지 못했다."
               },
               {
                 "t": "p",
-                "x": "평가에서 통계적으로 유의한 차이는 없었다. AI-labeled 글은 신뢰도 평가가 약간 낮았지만, 신뢰도 평균은 7-point 척도에서 5를 넘었다. WhatsApp 요약을 쓴 참가자 569명 가운데 AI를 출처로 언급한 사람은 17명뿐이었다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 “연구 결과는 AI 챗봇이 대중에게 영양 관련 정보의 출처로 받아들여지고 신뢰받고 있음을 보여준다”고 결론지었다. 이들은 실험에 쓴 글의 품질이 높았으며, 품질이 낮은 정보에서는 표시가 더 중요할 수 있다고 덧붙였다."
+                "x": "Google의 Concordia 라이브러리로 구축한 이 프레임워크와 20K 개가 넘는 생성 예제를 담은 데이터셋은 오픈소스로 공개됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-generated表示\n読者の評価はほぼ変わらず",
-          "body": "ドイツの研究で約42%しか気づかず、AI-generated表示は評価をほぼ変えなかった。",
-          "mini_headline": "AI表示の多くは気づかれない",
+          "headline": "AIアシスタントは\n又聞きの動機が苦手",
+          "body": "隠れた動機のシミュレーションで、LLMsは利用者経由だと推論が鈍り、人間より詳細を要した。",
+          "mini_headline": "又聞きの動機にAIがつまずく",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+                "cap": "AIアシスタントは利用者を介した現実の中で動く。アシスタントが社会的な出来事を知るのは、利用者の主観というレンズを通してだけである。"
               },
               {
                 "t": "p",
-                "x": "ドイツで行われたオンライン実験で、栄養に関する短い文章に人工知能が書いたと表示しても、参加者の評価に意味のある変化は見られなかった。ただし、AI-labeledの文章を読んだ人のうち、出典が示されていたと答えたのは約42%にとどまった。論文はApplied Psychology: Health and Well-Beingに掲載された。"
+                "x": "Google Researchは、マルチエージェント・シミュレーションに基づく社会的推論の評価フレームワークを発表した。標的エージェントには隠れた動機が与えられ、利用者を代表するエージェントを含むほかのエージェントとやり取りする。その後、利用者役は評価対象のアシスタントに相談し、アシスタントは標的の隠れた動機を推測しなければならない。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+                "cap": "フレームワークの全体像。"
               },
               {
                 "t": "p",
-                "x": "Laura M. Königらは、栄養学者が確認したChatGPT-generatedの文章三つのうち一つを読んだ成人774人を分析した。文章には「この文章は人工知能であるChatGPTが書きました」という注記が付く場合と付かない場合があった。"
+                "x": "12のLLMsに適用したところ、主観的な利用者の仲介に頼ると社会的推論が大きく難しくなることがわかった。出来事を直接観察したモデルは、アシスタントとして振る舞う場合よりも大幅に正確だった。モデルは利用者の語り方に影響されやすく、正しい予測に至るまでに人間より多くの詳細を必要とし、確認のための質問を十分に活用できなかった。"
               },
               {
                 "t": "p",
-                "x": "評価に統計的に有意な差はなかった。AI-labeledの文章は信頼性の評価がやや低かったが、信頼の平均は7-point尺度で5を上回った。WhatsAppで要約を書いた参加者569人のうち、AIを出典として挙げたのは17人だけだった。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは「結果は、AIチャットボットが一般の人々にとって、栄養関連情報の受け入れられ信頼された情報源になっていることを示している」と結論づけた。ただし文章の質は高く、質の低い情報ではラベルがより重要になりうると指摘している。"
+                "x": "GoogleのConcordiaライブラリ上に構築されたフレームワークと、20K 件を超える生成例を含むデータセットはオープンソースで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-generated标签\n几乎不改变读者对建议的评价",
-          "body": "德国研究中，营养建议上的AI-generated标签几乎未改变评分，仅约42%的人注意到。",
-          "mini_headline": "AI标签大多未被注意",
+          "headline": "AI助手难以理解\n转述中的动机",
+          "body": "隐藏动机社交模拟显示，LLMs经用户转述后推理变差，且比人类需要更多细节。",
+          "mini_headline": "转述动机难倒AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+                "cap": "AI助手身处由用户中介的现实：助手只能透过用户的主观视角了解社会事件。"
               },
               {
                 "t": "p",
-                "x": "一项在德国进行的在线实验发现，将一段简短的营养文字标注为由人工智能撰写，并未显著改变参与者对它的评价。不过，在阅读AI-labeled文本的人中，只有约42%表示文中提到了来源。论文发表于Applied Psychology: Health and Well-Being。"
+                "x": "Google Research推出了一个基于多智能体模拟的社会推理评估框架。目标智能体被赋予一个隐藏动机，并与包括代表用户的智能体在内的其他智能体互动；随后用户智能体向被评估的助手咨询，助手必须推断出目标的隐藏动机。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+                "cap": "框架全景图。"
               },
               {
                 "t": "p",
-                "x": "Laura M. König及其同事分析了774名成年人，他们阅读了三篇经营养学家核查的ChatGPT-generated文本之一，文本附有或不附“本文由人工智能ChatGPT撰写。”的说明。"
+                "x": "将其应用于12个LLMs后发现，依赖主观的用户中介会显著增加社会推理的难度：直接观察事件的模型明显比充当助手时更准确。模型对用户的表述方式很敏感，需要比人类更多的细节才能做出正确预测，也未能充分利用澄清性提问。"
               },
               {
                 "t": "p",
-                "x": "各组评分之间没有统计学上的显著差异。AI-labeled文本的可信度评分略低，但在7-point量表上，信任度平均仍高于5。在撰写WhatsApp摘要的569名参与者中，只有17人提到AI是来源。"
-              },
-              {
-                "t": "p",
-                "x": "作者总结称：“结果表明，AI聊天机器人已成为公众接受和信任的营养相关信息来源。”他们指出，这些文本质量较高，对于质量较低的信息，标签的作用可能更大。"
+                "x": "该框架基于Google的Concordia库构建，与包含超过20K 个生成样例的数据集一同开源。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una etiqueta AI-generated apenas\ncambia la valoración de consejos",
-          "body": "En un estudio alemán, una etiqueta AI-generated apenas cambió las valoraciones: solo cerca del 42% la notó.",
-          "mini_headline": "Las etiquetas de AI pasan casi inadvertidas",
+          "headline": "Los asistentes de AI fallan con\nmotivos de segunda mano",
+          "body": "En simulaciones de motivos ocultos, los LLMs razonan peor de segunda mano y piden más detalle que los humanos.",
+          "mini_headline": "Los motivos de segunda mano confunden a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.psypost.org/wp-content/uploads/2025/08/artificial-intelligence.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+                "cap": "Los asistentes de AI operan dentro de una realidad mediada por el usuario: el asistente solo conoce los hechos sociales a través de la lente subjetiva del usuario."
               },
               {
                 "t": "p",
-                "x": "Un experimento en línea realizado en Alemania halló que etiquetar un breve texto sobre nutrición como escrito por inteligencia artificial no cambió de forma significativa cómo lo valoraron los participantes. Sin embargo, solo cerca del 42% de quienes leyeron el texto AI-labeled indicó que se había mencionado una fuente. El artículo se publicó en Applied Psychology: Health and Well-Being."
+                "x": "Google Research presenta un marco de evaluación del razonamiento social basado en simulaciones multiagente. A un agente objetivo se le asigna un motivo oculto e interactúa con otros agentes, incluido uno que representa al usuario, que después consulta al asistente evaluado, el cual debe inferir el motivo oculto del objetivo."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+                "cap": "Vista general del marco."
               },
               {
                 "t": "p",
-                "x": "Laura M. König y sus colegas analizaron a 774 adultos que leyeron uno de tres textos ChatGPT-generated, revisados por un especialista en nutrición, con o sin la nota “Este texto fue escrito por ChatGPT, una inteligencia artificial.”"
+                "x": "Aplicado a 12 LLMs, muestra que depender de la mediación subjetiva del usuario complica sustancialmente el razonamiento social: los modelos que observan los hechos directamente son mucho más precisos que cuando actúan como asistentes. Los modelos son sensibles al encuadre del usuario, requieren más detalle que los humanos para llegar a predicciones correctas y no aprovechan del todo las preguntas de aclaración."
               },
               {
                 "t": "p",
-                "x": "No hubo diferencias estadísticamente significativas en las valoraciones. Los textos AI-labeled recibieron valoraciones de credibilidad ligeramente inferiores, pero la confianza promedió más de 5 en una escala de 7 puntos. Solo 17 de los 569 participantes que escribieron un resumen para WhatsApp mencionaron la AI como fuente."
-              },
-              {
-                "t": "p",
-                "x": "“Los resultados apuntan a que los chatbots de AI son una fuente aceptada y de confianza para la información relacionada con la nutrición en la población”, concluyeron los autores. Señalan que los textos eran de alta calidad y que las etiquetas podrían importar más en información de menor calidad."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "natcomms-neural-decoding-leakage",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "데이터 누출이 AI\n뇌 해독 결과를 왜곡",
-      "body": "전처리와 교차검증의 누출은 머신러닝 뇌 해독 정확도를 부풀리거나 깎을 수 있다.",
-      "mini_headline": "누출이 뇌 해독을 왜곡한다",
-      "tool": "Science",
-      "source": "Nature Communications",
-      "url": "https://www.nature.com/articles/s41467-026-79123-2",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "신경 해독은 행동·지각·인지가 신경 활동에 어떻게 표상되는지 연구하는 데 널리 쓰이는 머신러닝 기법이다. 하지만 조심해서 쓰지 않으면 테스트 세트의 정보가 훈련 세트에 섞여 드는 데이터 누출이 생길 수 있다. 그러면 해독 성능 추정이 한쪽으로 치우치고, 생물학적 결론까지 무너질 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "우리는 차원 축소를 비롯해 흔히 쓰는 지도·비지도 전처리 단계가 신경 해독 연구에 누출을 끌어들일 수 있음을 보인다. 경우에 따라 누출이 오히려 편향 없는 추정치보다 해독 성능을 낮추기도 하는데, 그 까닭은 이론 분석으로 설명한다. 자기상관이 있는 신경 시계열이라면 무작위 k-fold 교차검증이 해독 성능을 크게 부풀릴 수 있다는 점도 보인다. 이를 근거로 신경 해독에서 데이터 누출을 피하는 구체적인 권고안을 내놓는다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Data leakage can skew\nAI brain-decoding results",
-          "body": "Leakage from preprocessing and cross-validation can both inflate and deflate machine-learning brain-decoding accuracy.",
-          "mini_headline": "Leakage skews brain decoding",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Neural decoding is a widely-used machine learning technique for investigating how behavior, perception and cognition are represented in neural activity. However without careful application data leakage can occur, where information from the test set contaminates the training set, leading to biased estimates of decoding performance and potentially invalidating biological conclusions."
-              },
-              {
-                "t": "p",
-                "x": "Here we show that leakage can be introduced in neural decoding studies by common supervised and unsupervised preprocessing steps, including dimensionality reduction. We reveal that in some cases leakage can paradoxically decrease decoding performance relative to unbiased estimates, and we provide theoretical analyses explaining how this occurs. We also show that, for autocorrelated neural time series, randomized k-fold cross-validation can dramatically overstate decoding performance. Based on these findings, we provide detailed recommendations for avoiding data leakage in neural decoding."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "데이터 누출이 AI\n뇌 해독 결과를 왜곡",
-          "body": "전처리와 교차검증의 누출은 머신러닝 뇌 해독 정확도를 부풀리거나 깎을 수 있다.",
-          "mini_headline": "누출이 뇌 해독을 왜곡한다",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "신경 해독은 행동·지각·인지가 신경 활동에 어떻게 표상되는지 연구하는 데 널리 쓰이는 머신러닝 기법이다. 하지만 조심해서 쓰지 않으면 테스트 세트의 정보가 훈련 세트에 섞여 드는 데이터 누출이 생길 수 있다. 그러면 해독 성능 추정이 한쪽으로 치우치고, 생물학적 결론까지 무너질 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "우리는 차원 축소를 비롯해 흔히 쓰는 지도·비지도 전처리 단계가 신경 해독 연구에 누출을 끌어들일 수 있음을 보인다. 경우에 따라 누출이 오히려 편향 없는 추정치보다 해독 성능을 낮추기도 하는데, 그 까닭은 이론 분석으로 설명한다. 자기상관이 있는 신경 시계열이라면 무작위 k-fold 교차검증이 해독 성능을 크게 부풀릴 수 있다는 점도 보인다. 이를 근거로 신경 해독에서 데이터 누출을 피하는 구체적인 권고안을 내놓는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "データ漏洩が\nAI脳デコード結果を歪めうる",
-          "body": "前処理や交差検証での漏洩は、機械学習による脳デコード精度を過大にも過小にも見せうる。",
-          "mini_headline": "漏洩が脳デコードを歪める",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "ニューラルデコーディングは、行動、知覚、認知が神経活動にどう表現されているかを調べるために広く使われる機械学習の手法である。しかし慎重に適用しなければ、テストセットの情報が訓練セットに混入するデータ漏洩が起こりうる。その結果、デコーディング性能の推定に偏りが生じ、生物学的な結論が無効になるおそれがある。"
-              },
-              {
-                "t": "p",
-                "x": "本研究では、次元削減を含む一般的な教師あり・教師なしの前処理によって、ニューラルデコーディング研究に漏洩が持ち込まれうることを示す。場合によっては漏洩が逆説的に、偏りのない推定値よりもデコーディング性能を低下させることを明らかにし、その仕組みを説明する理論的分析を示す。また、自己相関を持つ神経時系列では、ランダムなk-fold交差検証がデコーディング性能を大幅に過大評価しうることも示す。これらの結果に基づき、ニューラルデコーディングでデータ漏洩を避けるための詳細な推奨事項を提示する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "数据泄漏可能扭曲\nAI脑解码结果",
-          "body": "预处理与交叉验证中的数据泄漏，可能高估也可能低估机器学习脑解码准确率。",
-          "mini_headline": "泄漏扭曲脑解码",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "神经解码是一种被广泛使用的机器学习技术，用于研究行为、知觉和认知如何在神经活动中得到表征。然而，若应用不当，就可能发生数据泄漏，即测试集的信息污染训练集，导致对解码性能的估计出现偏差，并可能使生物学结论失效。"
-              },
-              {
-                "t": "p",
-                "x": "我们表明，包括降维在内的常见有监督和无监督预处理步骤，都可能在神经解码研究中引入泄漏。我们发现，在某些情况下，泄漏反而会使解码性能低于无偏估计，并给出了解释其成因的理论分析。我们还表明，对于具有自相关的神经时间序列，随机k-fold交叉验证可能大幅高估解码性能。基于这些发现，我们为避免神经解码中的数据泄漏提供了详细建议。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Fugas de datos pueden sesgar la\ndecodificación cerebral con AI",
-          "body": "Las fugas en preprocesamiento y validación cruzada pueden inflar o reducir la precisión de decodificación cerebral.",
-          "mini_headline": "Las fugas sesgan la decodificación cerebral",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La decodificación neural es una técnica de aprendizaje automático muy utilizada para investigar cómo se representan el comportamiento, la percepción y la cognición en la actividad neural. Sin embargo, si no se aplica con cuidado, puede producirse una fuga de datos, en la que información del conjunto de prueba contamina el conjunto de entrenamiento, lo que sesga las estimaciones del rendimiento de decodificación y puede invalidar conclusiones biológicas."
-              },
-              {
-                "t": "p",
-                "x": "Aquí mostramos que en los estudios de decodificación neural pueden introducirse fugas mediante pasos habituales de preprocesamiento supervisado y no supervisado, incluida la reducción de dimensionalidad. Revelamos que, en algunos casos, la fuga puede reducir paradójicamente el rendimiento de decodificación respecto a las estimaciones no sesgadas, y aportamos análisis teóricos que explican cómo ocurre. También mostramos que, en series temporales neurales autocorrelacionadas, la validación cruzada k-fold aleatoria puede sobrestimar drásticamente el rendimiento de decodificación. A partir de estos hallazgos, ofrecemos recomendaciones detalladas para evitar la fuga de datos en la decodificación neural."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "데이터 누출이 AI\n뇌 해독 결과를 왜곡",
-          "body": "전처리와 교차검증의 누출은 머신러닝 뇌 해독 정확도를 부풀리거나 깎을 수 있다.",
-          "mini_headline": "누출이 뇌 해독을 왜곡한다",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "신경 해독은 행동·지각·인지가 신경 활동에 어떻게 표상되는지 연구하는 데 널리 쓰이는 머신러닝 기법이다. 그러나 신중하게 적용하지 않으면 테스트 세트의 정보가 훈련 세트를 오염시키는 데이터 누출이 생길 수 있다. 이는 해독 성능을 편향되게 추정하게 만들고, 생물학적 결론을 무효로 만들 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "우리는 차원 축소를 포함해 흔히 쓰는 지도·비지도 전처리 단계가 신경 해독 연구에 누출을 끌어들일 수 있음을 보인다. 일부 경우에는 누출이 역설적으로 편향 없는 추정치보다 해독 성능을 낮출 수 있음을 밝히고, 이런 일이 일어나는 이유를 설명하는 이론적 분석을 제시한다. 또 자기상관이 있는 신경 시계열에서는 무작위 k-fold 교차검증이 해독 성능을 크게 부풀릴 수 있음을 보인다. 이 결과를 바탕으로 신경 해독에서 데이터 누출을 피하기 위한 구체적인 권고안을 제시한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "データ漏洩が\nAI脳デコード結果を歪めうる",
-          "body": "前処理や交差検証での漏洩は、機械学習による脳デコード精度を過大にも過小にも見せうる。",
-          "mini_headline": "漏洩が脳デコードを歪める",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "ニューラルデコーディングは、行動、知覚、認知が神経活動にどう表現されているかを調べるために広く使われる機械学習の手法である。しかし慎重に適用しなければ、テストセットの情報が訓練セットに混入するデータ漏洩が起こりうる。その結果、デコーディング性能の推定に偏りが生じ、生物学的な結論が無効になるおそれがある。"
-              },
-              {
-                "t": "p",
-                "x": "本研究では、次元削減を含む一般的な教師あり・教師なしの前処理によって、ニューラルデコーディング研究に漏洩が持ち込まれうることを示す。場合によっては漏洩が逆説的に、偏りのない推定値よりもデコーディング性能を低下させることを明らかにし、その仕組みを説明する理論的分析を示す。また、自己相関を持つ神経時系列では、ランダムなk-fold交差検証がデコーディング性能を大幅に過大評価しうることも示す。これらの結果に基づき、ニューラルデコーディングでデータ漏洩を避けるための詳細な推奨事項を提示する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "数据泄漏可能扭曲\nAI脑解码结果",
-          "body": "预处理与交叉验证中的数据泄漏，可能高估也可能低估机器学习脑解码准确率。",
-          "mini_headline": "泄漏扭曲脑解码",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "神经解码是一种被广泛使用的机器学习技术，用于研究行为、知觉和认知如何在神经活动中得到表征。然而，若应用不当，就可能发生数据泄漏，即测试集的信息污染训练集，导致对解码性能的估计出现偏差，并可能使生物学结论失效。"
-              },
-              {
-                "t": "p",
-                "x": "我们表明，包括降维在内的常见有监督和无监督预处理步骤，都可能在神经解码研究中引入泄漏。我们发现，在某些情况下，泄漏反而会使解码性能低于无偏估计，并给出了解释其成因的理论分析。我们还表明，对于具有自相关的神经时间序列，随机k-fold交叉验证可能大幅高估解码性能。基于这些发现，我们为避免神经解码中的数据泄漏提供了详细建议。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Fugas de datos pueden sesgar la\ndecodificación cerebral con AI",
-          "body": "Las fugas en preprocesamiento y validación cruzada pueden inflar o reducir la precisión de decodificación cerebral.",
-          "mini_headline": "Las fugas sesgan la decodificación cerebral",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La decodificación neural es una técnica de aprendizaje automático muy utilizada para investigar cómo se representan el comportamiento, la percepción y la cognición en la actividad neural. Sin embargo, si no se aplica con cuidado, puede producirse una fuga de datos, en la que información del conjunto de prueba contamina el conjunto de entrenamiento, lo que sesga las estimaciones del rendimiento de decodificación y puede invalidar conclusiones biológicas."
-              },
-              {
-                "t": "p",
-                "x": "Aquí mostramos que en los estudios de decodificación neural pueden introducirse fugas mediante pasos habituales de preprocesamiento supervisado y no supervisado, incluida la reducción de dimensionalidad. Revelamos que, en algunos casos, la fuga puede reducir paradójicamente el rendimiento de decodificación respecto a las estimaciones no sesgadas, y aportamos análisis teóricos que explican cómo ocurre. También mostramos que, en series temporales neurales autocorrelacionadas, la validación cruzada k-fold aleatoria puede sobrestimar drásticamente el rendimiento de decodificación. A partir de estos hallazgos, ofrecemos recomendaciones detalladas para evitar la fuga de datos en la decodificación neural."
+                "x": "El marco, construido sobre la biblioteca Concordia de Google, y un conjunto de datos con más de 20K ejemplos generados se han publicado como código abierto."
               }
             ]
           }

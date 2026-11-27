@@ -1,112 +1,55 @@
 {
   "section": "music",
-  "now_iso": "2026-11-26T22:01:09Z",
+  "now_iso": "2026-11-27T22:01:07Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Judge declines to dismiss Suno publicity rights case, as sixteen more musicians join the legal battle",
-      "url": "https://completemusicupdate.com/judge-declines-to-dismiss-suno-publicity-rights-case-as-sixteen-more-musicians-join-the-legal-battle/",
-      "source": "Complete Music Update",
-      "published_iso": "2026-11-26T17:13:42Z",
-      "excerpt": "The judge in the Isbell-led right-of-publicity class action against Suno has denied Suno's motion to dismiss the original lawsuit, days after an amended complaint added 16 plaintiffs. This is the court ruling the planner flagged as the only valid Isbell v Suno follow-up.",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/suno--2-.png",
+      "title": "BumaStemra Officially Takes Legal Action Against YourNeuroTune",
+      "url": "https://www.digitalmusicnews.com/2026/11/27/bumastemra-yourneurotune-lawsuit/",
+      "source": "Digital Music News",
       "category": "music",
+      "published_iso": "2026-11-27T19:37:32+00:00",
+      "excerpt": "BumaStemra has taken legal action against YourNeuroTune for allegedly providing businesses with royalty-free music generated via Suno. Follow-up to the 11-25 ultimatum card: the threat is now an actual legal action.",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/11/The-Hague.jpg",
       "history_match": {
-        "score": 0.328,
-        "date": "2026-11-26",
-        "url": "https://www.musicbusinessworldwide.com/the-chicks-join-jason-isbells-class-action-against-suno-as-amended-complaint-adds-16-plaintiffs-and-targets-v6/",
-        "title": "The Chicks join Jason Isbell's class action against Suno, as amended complaint adds 16 plaintiffs and targets v6",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Cyanite launches its conversational Concierge for music search",
-      "url": "https://musically.com/2026/11/26/cyanite-launches-its-conversational-concierge-for-music-search/",
-      "source": "Music Ally",
-      "published_iso": "2026-11-26T13:30:00Z",
-      "excerpt": "Cyanite, which has used AI to analyse and tag music catalogues for years, launched Cyanite Concierge, a conversational AI search layer for B2B catalogue search (sync, libraries, publishers). Article is paywalled, so only the teaser is readable.",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-72.png?fit=2000%2C1500&ssl=1",
-      "category": "music"
-    },
-    {
-      "title": "FL Studio 2026.2 Update: New Plugins and Workflow Features",
-      "url": "https://www.gearnews.com/fl-studio-daw-software/",
-      "source": "Gearnews",
-      "published_iso": "2026-11-25T09:49:31Z",
-      "excerpt": "Image-Line's FL Studio 2026.2 upgrades the Gopher AI workflow assistant so it can organise tracks, route the mixer, adjust levels and plugin parameters, and write Piano Roll content. Stem separation now isolates guitar and piano stems as well.",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2025/11/fl-studio-2026-ft.jpg",
-      "category": "music",
-      "history_match": {
-        "score": 0.211,
-        "date": "2026-11-06",
-        "url": "https://musictech.com/news/pro-tools-now-features-ai-stem-separation/",
-        "title": "Pro Tools now features AI stem separation",
-        "band": "related"
-      }
-    },
-    {
-      "title": "UA Universe: A New Developer Platform and Community for LUNA",
-      "url": "https://www.gearnews.com/ua-universe-studio/",
-      "source": "Gearnews",
-      "published_iso": "2026-11-26T07:00:55Z",
-      "excerpt": "Universal Audio's UA Universe (public beta) lets LUNA users build and share custom workflow add-ons by text-prompting AI coding assistants such as Claude Code and Codex. Add-on actions are logged in LUNA's undo history, and early tools include swipe-comping and Ableton Live session import.",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/11/ua-universe-ft.jpg",
-      "category": "music"
-    },
-    {
-      "title": "The AI revolution is coming for your electronic instruments",
-      "url": "https://www.musicradar.com/music-tech/300-nerds-with-claude-are-going-to-outcompete-any-synth-manufacturer-on-the-market-the-ai-revolution-is-coming-for-your-electronic-instruments",
-      "source": "MusicRadar",
-      "published_iso": "2026-11-25T12:45:09Z",
-      "excerpt": "MusicRadar feature on AI-assisted firmware modding of hardware instruments (\"300 nerds with Claude are going to outcompete any synth manufacturer\"), with comment from Elektron and Akai on the opportunities and risks for instrument makers.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/m2BWDNwisxvW63imPTCJq4-1820-80.jpg",
-      "category": "music"
-    },
-    {
-      "title": "Australia's AI and copyright debate heats up after new report",
-      "url": "https://musically.com/2026/11/25/australias-ai-and-copyright-debate-heats-up-after-new-report/",
-      "source": "Music Ally",
-      "published_iso": "2026-11-25T12:30:00Z",
-      "excerpt": "A report from the Australian parliament's Joint Select Committee on Artificial Intelligence includes copyright recommendations for AI training, and music-industry tensions are rising over it. Same event as the CMU/ARIA item below; artists including Kate Bush and Grace Jones were also reported (Guardian, URL unresolved) urging the government not to legalise AI 'theft'.",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/11/news-stories-images-4x3-66.png?fit=2000%2C1500&ssl=1",
-      "category": "music",
-      "history_match": {
-        "score": 0.185,
-        "date": "2026-11-17",
-        "url": "https://www.ausleisure.com.au/news/australian-creative-sector-launches-campaign-against-unauthorised-ai-use-of-copyright-material",
-        "title": "ARIA and PPCA launch 'Not AI's to Take' campaign for permission-first AI copyright rules in Australia",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Aussie MPs' new AI proposals \"disguise\" pro-big tech copyright reforms as \"a favour to creators\", says ARIA boss",
-      "url": "https://completemusicupdate.com/aussie-mps-new-ai-proposals-disguise-pro-big-tech-copyright-reforms-as-a-favour-to-creators-says-aria-boss/",
-      "source": "Complete Music Update",
-      "published_iso": "2026-11-24T15:22:22Z",
-      "excerpt": "The Australian MPs' AI report talks about protecting creators but proposes copyright reforms that would give AI companies \"certainty\". ARIA says no reform is needed and accuses the MPs of \"gaslighting\". Same event as the Music Ally item; pick one.",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/aussie-ai.png",
-      "category": "music",
-      "history_match": {
-        "score": 0.166,
-        "date": "2026-11-20",
-        "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
-        "title": "Australian music industry rejects 'divide and conquer' proposal to give musicians exemption from AI scraping",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Tidal has banned AI generated music from its platform. But can the industry agree where the line between AI-generated and AI-assisted should be drawn?",
-      "url": "https://completemusicupdate.com/tidal-has-banned-ai-generated-music-from-its-platform-but-can-the-industry-agree-where-the-line-between-ai-generated-and-ai-assisted-should-be-drawn/",
-      "source": "Complete Music Update",
-      "published_iso": "2026-11-25T16:55:21Z",
-      "excerpt": "Analysis of where to draw the line between AI-generated and AI-assisted music: Tidal will remove wholly AI tracks but still accept and monetise AI-assisted ones. Tidal is saturated (carded 11-25), so this only works as a fresh definitional angle.",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/11/tidal-ai-ban.png",
-      "category": "music",
-      "history_match": {
-        "score": 0.233,
+        "score": 0.414,
         "date": "2026-11-25",
-        "url": "https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/",
-        "title": "Tidal Is the First Streaming Service to Ban AI Music",
+        "url": "https://www.musicbusinessworldwide.com/dutch-collecting-society-bumastemra-threatens-legal-action-against-ai-background-music-supplier-yourneurotune-alleging-it-uses-suno/",
+        "title": "Dutch collecting society BumaStemra threatens legal action against AI background music supplier YourNeuroTune, alleging it uses Suno",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "Guitarist George Lynch on his 'very strange' session for an AI track",
+      "url": "https://www.musicradar.com/artists/guitarists/guitarist-george-lynch-on-his-very-strange-session-for-an-ai-track-i-was-like-why-do-they-want-me-i-mean-im-just-a-human-being-machines-do-it-way-better",
+      "source": "MusicRadar",
+      "category": "music",
+      "published_iso": "2026-11-27T12:17:06+00:00",
+      "excerpt": "Ex-Dokken guitarist George Lynch says he unwittingly played a session on an AI-generated progressive track with never-repeating changes, calling it impressive and strange and asking why they wanted a human at all.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Hpx3fqfTtN8vzF5LbLymZH-2000-80.jpg"
+    },
+    {
+      "title": "Tips on how to use Meta Muse for an artist's social media strategy",
+      "url": "https://musically.com/2026/11/27/tips-on-how-to-use-meta-muse-for-an-artists-social-media-strategy/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-11-27T10:00:00+00:00",
+      "excerpt": "Meta's Muse AI agent arrived in the UK this week after its US launch; Instagram's Adam Mosseri outlines three jobs for social-account runners (ideation, reviewing past posts by performance, spotting cross-platform trends) and admits audience analysis is still weak.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-10T111410.492.png?fit=2000%2C1500&ssl=1"
+    },
+    {
+      "title": "Mooer GTRS Wing 1000: Intelligent Headless Guitar with NAM!",
+      "url": "https://www.gearnews.com/mooer-gtrs-wing-1000/",
+      "source": "Gearnews",
+      "category": "music",
+      "published_iso": "2026-11-27T09:30:13+01:00",
+      "excerpt": "Mooer's new headless 'intelligent' guitar adds support for A1 and A2 Neural Amp Model captures, imported via GTRS Studio, alongside its onboard G200 SmartBox effects, wireless and USB-C DAW recording. (NAM-adjacent: Mooer Future Flex 11-22 and TONE3000 11-26 already carded.)",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/11/Mooer-GTRS-W1000-Intelligent-Headless-Guitar-with-NAM.jpg",
+      "history_match": {
+        "score": 0.321,
+        "date": "2026-11-22",
+        "url": "https://www.guitarworld.com/gear/amp-modeler-pedals/mooer-future-flex",
+        "title": "Mooer debuts Future Flex, a next-gen amp modeler with a built-in speaker, AI and NAM A2",
         "band": "related"
       }
     },
@@ -114,12 +57,12 @@
       "title": "AI Companies Want Independent Music. This Time, They're Asking Permission.",
       "url": "https://www.hypebot.com/ai-companies-want-independent-music-this-time-theyre-asking-permission/",
       "source": "Hypebot",
-      "published_iso": "2026-11-26T12:03:00Z",
-      "excerpt": "Hypebot analysis of Sonilo's opt-in AI training licence with Symphonic, which promises artists payment for AI training, plus the open questions on royalties, consent and creative control. The Sonilo deal itself was carded 11-19, so this is a follow-up opinion piece.",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1304/format/webp/2026/11/11-25-sonilo.jpg",
       "category": "music",
+      "published_iso": "2026-11-26T12:03:00+00:00",
+      "excerpt": "Analysis of AI music startup Sonilo's opt-in training-licence deal with distributor Symphonic (announced Nov 18): 80/20 revenue split, account-wide opt-in, licences that survive termination, plus five questions artists should ask before licensing music to AI.",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/11/11-25-sonilo.jpg",
       "history_match": {
-        "score": 0.261,
+        "score": 0.321,
         "date": "2026-11-19",
         "url": "https://www.musicbusinessworldwide.com/11m-backed-ai-startup-sonilo-founded-by-tiktok-veterans-inks-licensing-deal-with-symphonic-to-train-its-model-on-opted-in-indie-recordings/",
         "title": "$11M-backed AI startup Sonilo, founded by TikTok veterans, inks licensing deal with Symphonic to train its model on opted-in indie recordings",
@@ -127,33 +70,49 @@
       }
     },
     {
-      "title": "GEORGE LYNCH Says He Was Recently Involved In Recording Sessions Based On Songs That Were Created Using A.I.",
-      "url": "https://blabbermouth.net/news/george-lynch-says-he-was-recently-involved-in-recording-sessions-based-on-songs-that-were-created-using-a-i",
-      "source": "Blabbermouth",
-      "published_iso": "2026-11-26T14:51:47Z",
-      "excerpt": "Asked about Suno, Dokken/Lynch Mob guitarist George Lynch said he had recently been hired for session work playing solos on songs that were originally generated with AI. Off-list outlet, included because music sources were thin on Black Friday.",
-      "og_image": "https://assets.blabbermouth.net/media/georgelynchnov2026livenew_638.jpg",
-      "category": "music"
-    },
-    {
-      "title": "Agentic system personalizes physical controls to help users \"DJ their art\"",
-      "url": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
-      "source": "MIT News",
-      "published_iso": "2026-11-24T19:30:00Z",
-      "excerpt": "MIT CSAIL's TangiMap uses an AI agent to reprogram mixers and control pads, mapping digital widgets onto physical knobs, buttons and sliders for musical performance and other creative software. Off-list (research), included for supply.",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202611/MIT-csail-TangiMap.jpg",
-      "category": "music"
-    },
-    {
-      "title": "Music Similarity Estimation from Jukebox Embeddings",
-      "url": "https://arxiv.org/abs/2611.34346",
-      "source": "arXiv",
-      "published_iso": "2026-11-25T13:17:00Z",
-      "excerpt": "JukeSim estimates content-based music similarity from embeddings of the Jukebox generative music model, for cold-start recommendation. It performs on par with a learned baseline and beats hand-designed approaches.",
-      "og_image": null,
+      "title": "Musixmatch launches enhanced Musixmatch Pro For Artists platform",
+      "url": "https://www.musicweek.com/digital/read/musixmatch-launches-enhanced-musixmatch-pro-for-artists-platform/095588",
+      "source": "Music Week",
       "category": "music",
+      "published_iso": "2026-11-26T06:38:00+00:00",
+      "excerpt": "Musixmatch Pro for Artists expands beyond lyric distribution with enhanced AI-powered lyric transcription and time-sync tools, fan engagement analytics and lyric merch sales; MBW reports optional AI licensing is coming soon. (Published time from Google News index; page shows November 26th 2026.)",
+      "og_image": "https://www.musicweek.com/cimages/cd9976b23ea19f4cb5ffb31ea4639ec4.jpg"
+    },
+    {
+      "title": "'머무르' 다음은 AI 아이돌…K팝의 새 얼굴",
+      "url": "https://www.yna.co.kr/view/MYH20261126003100038",
+      "source": "연합뉴스TV",
+      "category": "music",
+      "published_iso": "2026-11-26T06:54:45+09:00",
+      "excerpt": "AI 음원이 차트 1위에 오른 데 이어 AI 아이돌 그룹이 잇따라 등장: 서리아(이미지 5천 장, 4개월 제작), 리아, 히어러스 등. 비주얼 일관성과 저작권이 과제. (서리아는 11-25 카드 — 롤업 성격, 중복 주의)",
+      "og_image": null
+    },
+    {
+      "title": "The AI revolution is coming for your electronic instruments",
+      "url": "https://www.musicradar.com/music-tech/300-nerds-with-claude-are-going-to-outcompete-any-synth-manufacturer-on-the-market",
+      "source": "MusicRadar",
+      "category": "music",
+      "published_iso": "2026-11-25T12:45:09+00:00",
+      "excerpt": "A new era of AI-assisted modding has arrived; MusicRadar talks to Elektron and Akai about the opportunities and challenges for hardware instrument makers when users can rewrite firmware with AI coding tools like Claude. (Date and image from MusicRadar RSS; page 403s to curl.)",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/m2BWDNwisxvW63imPTCJq4-1920-80.jpg",
       "history_match": {
-        "score": 0.15,
+        "score": 0.155,
+        "date": "2026-10-29",
+        "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+        "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Beat This! Live - Online Beat and Downbeat Tracking by Predicting the Future",
+      "url": "https://arxiv.org/abs/2611.34277",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-11-25T12:35:23+00:00",
+      "excerpt": "Adapts the offline Beat This model into a causal, low-latency variant for real-time beat and downbeat tracking (relevant to live performance/DJ tools), trained with temporally shifted labels so it predicts beats slightly ahead.",
+      "og_image": null,
+      "history_match": {
+        "score": 0.182,
         "date": "2026-11-15",
         "url": "https://arxiv.org/abs/2611.14971",
         "title": "Can Music Generation Models Tap Along? Evaluating Generative Approaches to Beat Tracking",
@@ -161,61 +120,47 @@
       }
     },
     {
-      "title": "MADlibs: Analyzing the Distribution of Generative Music",
-      "url": "https://arxiv.org/abs/2611.31462",
+      "title": "Music Similarity Estimation from Jukebox Embeddings",
+      "url": "https://arxiv.org/abs/2611.34346",
       "source": "arXiv",
-      "published_iso": "2026-11-23T19:35:56Z",
-      "excerpt": "MADlibs measures what text-to-music models will actually produce across the prompt space (their expressive support), using NLP-generated prompts and MIR analysis of the outputs. The stakes are framed for creators and musical culture.",
-      "og_image": null,
-      "category": "music"
+      "category": "music",
+      "published_iso": "2026-11-25T13:17:43+00:00",
+      "excerpt": "JukeSim estimates content-based music similarity from embeddings of the generative model Jukebox, matching a learned baseline and beating hand-designed approaches; aimed at cold-start recommendation.",
+      "og_image": null
     },
     {
       "title": "Line-Level Singer Diarization in Multi-Member Pop Songs: A Benchmark, Lead-Vocal Isolation, and Song-Level Decoding",
       "url": "https://arxiv.org/abs/2611.33247",
       "source": "arXiv",
-      "published_iso": "2026-11-24T16:02:05Z",
-      "excerpt": "Releases ColorCoded-SD, a benchmark of 43 K-pop songs with 3-8 singers each, for working out which member sings each lyric line. Commercial diarizers find only one or two speakers in these songs, and the paper proposes lead-vocal isolation and song-level decoding.",
-      "og_image": null,
-      "category": "music"
+      "category": "music",
+      "published_iso": "2026-11-24T16:02:05+00:00",
+      "excerpt": "Introduces ColorCoded-SD, a benchmark of 43 K-pop songs (1,740 lines, 3-8 singers) for grouping lyric lines by singer, where commercial speech diarizers find only one or two speakers.",
+      "og_image": null
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 14,
+    "kept": 12,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [],
-    "review": 7,
+    "dropped": [
+      {
+        "url": "https://mixing.co.kr/en/44851",
+        "title": "Sampleson Releases Free Version of Local AI Audio Search Tool Wavefinder",
+        "match": {
+          "score": 0.551,
+          "date": "2026-11-08",
+          "url": "https://www.synthtopia.com/content/2026/11/07/sampleson-wavefinder-uses-local-ai-to-search-audio-libraries-by-sound/",
+          "title": "Sampleson Wavefinder Uses Local AI To Search Audio Libraries By Sound"
+        }
+      }
+    ],
+    "review": 5,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-10-28",
-      "title": "Edged Out Records built 'the first costume shop for AI agents'",
-      "url": "https://musically.com/2026/10/27/edged-out-records-built-the-first-costume-shop-for-ai-agents/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
-      "url": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "Tracktion Waveform Pro 14.1 Update Adds AI-Assisted Plugin Creation",
-      "url": "https://www.gearnews.com/tracktion-waveform-pro-studio/"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "Massive XL is here: Native Instruments supersizes its flagship soft synth with AI-powered preset generation, custom wavetables and much more",
-      "url": "https://www.musicradar.com/music-tech/massive-xl-is-here-native-instruments-supersizes-its-flagship-soft-synth-with-ai-powered-preset-generation-custom-wavetables-and-much-more"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "음저협 등 6개 음악단체, AI 음악 식별 기술 협상대상자로 '디텍트엑스' 선정",
-      "url": "https://www.newdaily.co.kr/site/data/html/2026/10/27/2026102700388.amp.html"
-    },
     {
       "date": "2026-10-29",
       "title": "SMEBench: Benchmarking Neural Music Editing with Synthetized MIDI Edits",
@@ -890,6 +835,31 @@
       "date": "2026-11-26",
       "title": "대음협, AI 음원에 \"책임 있는 학습·가수 보호·공정 유통을\"",
       "url": "https://www.yna.co.kr/view/AKR20261124048100005"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "MADlibs: Analyzing the Distribution of Generative Music",
+      "url": "https://arxiv.org/abs/2611.31462"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Judge declines to dismiss Suno publicity rights case, as sixteen more musicians join the legal battle",
+      "url": "https://completemusicupdate.com/judge-declines-to-dismiss-suno-publicity-rights-case-as-sixteen-more-musicians-join-the-legal-battle/"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Cyanite launches its conversational Concierge for music search",
+      "url": "https://musically.com/2026/11/26/cyanite-launches-its-conversational-concierge-for-music-search/"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Agentic system personalizes physical controls to help users \"DJ their art\"",
+      "url": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "UA Universe: A New Developer Platform and Community for LUNA",
+      "url": "https://www.gearnews.com/ua-universe-studio/"
     }
   ]
 }
