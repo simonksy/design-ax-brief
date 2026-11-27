@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "AI 영화, 극장 문 앞에 서다",
+    "date": "2026.11.28",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(씨네플레이 11.24→11.23, IndieWire 11.24→11.23, Variety 11.26→11.25, K-EnterTech Hub 11.28→11.27). 사진은 Maharaja 한 장만 두고 디 워는 영상, 오스카는 Saatchi 인용, 4BY4는 stat로. 수치 30분·19년·2027년, 38편·12월 4일, $500,000·2027년 사월, 세 편·4K·CGV 압구정 11월 27일 확인.",
+    "sources": [
+      "씨네플레이 — 심형래 감독, AI 기술로 깨운 '디 워: NEW HOPE' 2027년 재개봉 예고 (2026.11.23)",
+      "IndieWire — AI Film 'Gods Don't Give Gifts' Ineligible for Animated Feature Oscar (2026.11.23)",
+      "Variety — Generative AI Feature 'Maharaja in Denims' Sets April 2027 Release (2026.11.25)",
+      "K-EnterTech Hub — 4BY4's AI PIXELL Upscales Three AI Films to 4K for Theater Screening in Seoul (2026.11.27)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 11.23~11.27",
+      "thread": [
+        {
+          "d": "11.23",
+          "t": "디 워",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.23",
+          "t": "오스카",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.25",
+          "t": "Maharaja",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "11.27",
+          "t": "4K 상영",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "AI 영화가 극장 스크린을 잡아 가지만, 시상식 문턱은 아직 닫혀 있다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI 영화,\n극장 문 앞에 서다",
+      "body": "한 편씩 보면 화제작이다. 닷새 사이 재개봉·개봉·상영이 잡히는 동안 오스카는 AI 장편을 받지 않았다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.11.23",
+      "headline": "'디 워', AI로\n30분 더해 재개봉",
+      "body": "심형래가 힉스필드AI와 액션 약 30분을 보강한 '디 워: NEW HOPE'의 2027년 국내외 개봉을 추진한다.",
+      "foot": "2026.11.23",
+      "_src": "https://www.cineplay.co.kr/ko-kr/articles/30918",
+      "_id": "dwar-newhope-ai-rerelease",
+      "video": "pipeline/media/dwar-newhope-ai-rerelease.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.23",
+      "headline": "극장은 열려도\n오스카는 닫혔다",
+      "body": "생성형 AI 장편 Gods Don't Give Gifts는 장편 애니 38편 명단에서 빠졌다. 극장 상영은 12월 4일 시작한다.",
+      "foot": "2026.11.23",
+      "_src": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/",
+      "_id": "gods-dont-give-gifts-oscar-ineligible",
+      "quote": "AI는 그저\n새로운 VFX일까?",
+      "quote_by": "Edward Saatchi · Fable Studios 프로듀서"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.25",
+      "headline": "세 번 만든 AI 장편,\n사월 개봉 겨냥",
+      "body": "Maharaja in Denims는 도구가 바뀔 때마다 다시 만들어 $500,000 넘게 들었다. 2027년 사월 개봉이 목표다.",
+      "foot": "2026.11.25",
+      "_src": "https://variety.com/2026/film/news/generative-ai-feature-maharaja-in-denims-april-2027-release-1236957865/",
+      "_id": "maharaja-denims-genai-feature",
+      "media": "pipeline/media/maharaja-denims-genai-feature.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.27",
+      "headline": "큰 화면에 맞춰\n4K로 끌어올리다",
+      "body": "AI 영상은 큰 스크린에서 흐릿해 보일 수 있다. 4BY4는 AI 영화 세 편을 4K로 다듬어 CGV 압구정에 올렸다.",
+      "foot": "2026.11.27",
+      "_src": "https://www.kentertechhub.com/4by4-ai-pixell-ai-films-en/",
+      "_id": "4by4-pixell-cgv-4k-films",
+      "stat_top": "AI 생성 원본",
+      "stat_arrow": "AI PIXELL 장면별 후반 작업",
+      "stat_bottom": "4K 극장 상영",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

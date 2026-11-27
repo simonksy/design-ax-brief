@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "선거판에 든 AI 가짜 얼굴",
+    "date": "2026.11.28",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "원문 3건 대조(Guardian은 403이라 11-27 run의 enrichment 본문으로 확인): 300개·2천만 회·4%, Benson 인용, 17초·모로코 유니폼·AI 표기 없음, 초당적 위원회·2028 총선 확인. 원문 게재일은 대만 11.26, Guardian 11.26, ABC 11.26(AEDT) — 눈썹은 카드 날짜. 사진은 호주 카드 한 장만.",
+    "sources": [
+      "Taipei Times — Influencer deepfakes used to stoke Canada-US tensions (2026.11.23)",
+      "Taipei Times — US report warns of Chinese AI persona tactics targeting Taiwan elections (2026.11.26)",
+      "The Guardian — Spanish opposition criticised for AI video of Pedro Sánchez in Morocco shirt (2026.11.26)",
+      "ABC (Australia) — Parliamentary inquiry pushes for ban on election AI deepfakes (2026.11.26)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 정치 · 11.23~11.28",
+      "thread": [
+        {
+          "d": "11.23",
+          "t": "도용 얼굴",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.26",
+          "t": "AI 페르소나",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.27",
+          "t": "조작 영상",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "11.28",
+          "t": "금지 논의",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "AI로 만든 가짜 얼굴과 계정이 여러 나라 정치에 스며들고, 규칙은 뒤따라 나온다",
+      "eyebrow": "흐름 · 정치",
+      "headline": "선거판에 든\nAI 가짜 얼굴",
+      "body": "한 건씩 보면 각국의 사건이다. 한 주 사이 캐나다·대만·스페인에서 AI 가짜가 드러났고, 호주 의회는 금지를 꺼냈다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.11.23",
+      "headline": "남의 얼굴로\n무역 갈등을 키우다",
+      "body": "McGill대 연구진이 실제 크리에이터 얼굴을 도용한 계정 약 300개를 찾았다. TikTok 합성 경고가 뜬 계정은 4%뿐이었다.",
+      "foot": "2026.11.23",
+      "_src": "https://www.taipeitimes.com/News/world/archives/2026/11/23/2003868242",
+      "_id": "mcgill-influencer-deepfakes-trade",
+      "stat_top": "도용 계정 약 300개",
+      "stat_arrow": "Instagram·TikTok 영상 조회",
+      "stat_bottom": "약 2천만 회",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.11.26",
+      "headline": "몇 달 기다렸다\n정치를 꺼낸다",
+      "body": "NYT가 전한 Vanderbilt대 연구. 28일 대만 지방선거를 앞두고 중국 쪽 AI 페르소나가 연예 글에 정치 메시지를 섞었다.",
+      "foot": "2026.11.26",
+      "_src": "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868404",
+      "_id": "taiwan-ai-persona-vanderbilt",
+      "quote": "합성 페르소나는 몇 달씩\n정치와 무관한 글로\n신뢰부터 쌓습니다",
+      "quote_by": "Brett Benson · Vanderbilt대 정치학 부교수"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.11.27",
+      "headline": "야당 영상 속\n총리는 다른 옷",
+      "body": "Guardian 보도. 국민당(PP)이 산체스 총리의 17초 영상을 AI로 바꿔 모로코 유니폼을 입은 듯 꾸몄다. AI 표기는 없었다.",
+      "foot": "2026.11.27",
+      "_src": "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt",
+      "_id": "spain-pp-sanchez-ai-video",
+      "video": "pipeline/media/spain-pp-sanchez-ai-video.mp4"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.11.28",
+      "headline": "호주, 정치 광고\n딥페이크 금지 논의",
+      "body": "초당적 의회 위원회가 정치 광고 딥페이크를 막을 선거법 검토를 권고했다. Kate Chaney 의원은 2028 총선 전 시행을 원한다.",
+      "foot": "2026.11.28",
+      "_src": "https://www.abc.net.au/listen/programs/am/parliamentary-inquiry-pushes-for-ban-on-election-ai-deepfakes/107428080",
+      "_id": "politics-au-deepfake-inquiry",
+      "media": "pipeline/media/politics-au-deepfake-inquiry.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
