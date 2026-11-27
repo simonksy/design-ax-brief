@@ -12876,6 +12876,118 @@
           "x": "Mirror-image molecules and some closely related isomers cannot be told apart from an LC-MS/MS spectrum alone. DeepMind is offering 10,000 scientists the highest Antigravity usage tier free for 6 months."
         }
       ]
+    },
+    "science/princeton-qubit-loss-decoder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Qubit loss is a significant source of error in many quantum hardware platforms. When qubit reset includes loss-resolving measurements, this information can improve decoding and substantially reduce overhead, but the cost of loss simulation and decoding, which falls outside the usual stabilizer framework, has limited such studies for high-rate qLDPC codes."
+        },
+        {
+          "t": "p",
+          "x": "J. Wilson Staples, Winston Fu, Yihe Dong and Jeff D. Thompson present a loss-aware convolutional neural-network (CNN) decoder framework that circumvents this challenge. Training is enabled by a new sampler, slim, whose throughput for circuits with Pauli noise and loss is comparable to the state of the art for pure Pauli noise."
+        },
+        {
+          "t": "p",
+          "x": "On the surface code with loss, the decoder matches the accuracy of computationally expensive most-likely error (MLE) decoders at much lower latency. For the [[144,12,12]] bivariate bicycle (Gross) code with a walking syndrome extraction circuit, at physical error rates below 1% a pure loss model gives a more than 1,000-fold lower logical error rate than a pure Pauli model at the same physical error rate."
+        }
+      ]
+    },
+    "science/snu-gaia-dark-matter-map": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Yigon Kim, Ho Seong Hwang, Sungwook E. Hong, Donghui Jeong, Mingyeong Yang and Ji-hoon Kim (Seoul National University and others) use deep learning to infer the local dark matter density in the solar neighbourhood, learning the mapping between stellar kinematics and the dark matter density field from cosmological simulations."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.33660v1/Fig2_Diagram_datapreppipeline.png",
+          "cap": "Figure 2: Schematic diagram of the data preparation pipeline used for the two architectures."
+        },
+        {
+          "t": "p",
+          "x": "The training set comes from 7 Milky Way-like galaxies in the FIRE-2 simulation suite, with tangential velocities and radial velocity as inputs. VNet and ViT-VNet both reproduce the large-scale density gradient, while small-scale fluctuations are smoothed."
+        },
+        {
+          "t": "p",
+          "x": "Applied to Gaia DR3 data, the models give local dark matter densities of 0.80 and 1.12 GeV cm^-3 (VNet and ViT-VNet). The work is a first step towards local dark matter maps from future astrometry including Gaia DR4; it was accepted in MNRAS on Nov. 24, 2026."
+        }
+      ]
+    },
+    "science/zebra-prop-matbert": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg",
+          "cap": "ZEBRA-Prop offers an efficient language-model approach to materials property prediction. Credit: Institute of Science Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the Institute of Science Tokyo developed ZEBRA-Prop, a lightweight framework that converts a material's structural and compositional information into multiple textual descriptions and predicts properties such as band gap, formation energy and dielectric constants (Advanced Intelligent Systems)."
+        },
+        {
+          "t": "p",
+          "x": "It uses MatBERT, a language model pretrained on materials-science literature, kept frozen rather than fine-tuned; a small neural network combines the resulting embeddings. ZEBRA-Prop reduces training time by approximately 95% compared with LLM-Prop, enough to run on a regular PC."
+        },
+        {
+          "t": "p",
+          "x": "Tests on two datasets derived from the Materials Project showed that combining multiple textual descriptions improved predictions. Associate Professor Akira Takahashi said \"it could potentially be extended to information, such as synthesis conditions and experimental records.\""
+        }
+      ]
+    },
+    "science/google-social-reasoning-bench": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+          "cap": "AI assistants operate within a user-mediated reality: the assistant hears about social events only through the subjective lens of the user."
+        },
+        {
+          "t": "p",
+          "x": "Google Research introduces an evaluation framework for social reasoning based on multi-agent simulations. A target agent is assigned a hidden motive and interacts with other agents, including one representing the user, who then consults the evaluated assistant, which must infer the target's hidden motive."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+          "cap": "Bird's-eye view of the framework."
+        },
+        {
+          "t": "p",
+          "x": "Applied to 12 LLMs, it shows that relying on subjective user mediation substantially complicates social reasoning: models observing events directly are significantly more accurate than when acting as an assistant. Models are sensitive to user framing, require more detail than humans need to reach correct predictions, and fail to fully leverage clarification questions."
+        },
+        {
+          "t": "p",
+          "x": "The framework, built on Google's Concordia library, and a dataset with over 20K generated examples are open-sourced."
+        }
+      ]
+    },
+    "science/astra-quantum-gravity-stanford": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
+        },
+        {
+          "t": "p",
+          "x": "A Stanford physicist has proposed a quantum theory of gravity that uses the paths of light to get a finite answer for a calculation that can otherwise run to infinity. If the approach holds up, it could help reconcile quantum mechanics with Einstein's general relativity. The study also reproduces a known quantum correction to the entropy of a black hole."
+        },
+        {
+          "t": "p",
+          "x": "In a preprint posted on arXiv, Venkatesa Chandrasekaran calculated what happens when two gravitons are created and then disappear. The calculation gave a finite answer even after accounting for waves of arbitrarily short wavelength; an approximation applied to the same calculation produced an infinity."
+        },
+        {
+          "t": "p",
+          "x": "Chandrasekaran said in the paper's acknowledgments that he developed several of its calculations and proofs through months of back-and-forth work with GPT-6 Astra, an OpenAI model. He put the total at about 400 million tokens and said OpenAI provided the computing resources."
+        },
+        {
+          "t": "p",
+          "x": "The proposal uses causal diamonds, regions bounded by paths light could take, to set up the calculations. It finds such a region with a maximum size can hold only a finite number of distinguishable quantum states, and for a large black hole it recovers the Bekenstein-Hawking entropy plus a correction matching an earlier calculation by Ashoke Sen."
+        },
+        {
+          "t": "p",
+          "x": "The paper is theoretical, presents no experimental test, and has not been peer reviewed."
+        }
+      ]
     }
   }
 }

@@ -1,227 +1,167 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "design",
   "cards": [
     {
-      "id": "ming-image-design-rgba",
+      "id": "tencent-hy3d-36-highpoly",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ming-Image 0.2\n디자인을 RGBA 레이어로",
-      "body": "inclusionAI의 6B 오픈 모델이 디자인을 글자까지 투명 레이어로 쪼갠다.",
-      "mini_headline": "Ming-Image, 디자인을 레이어로 분리",
+      "headline": "Tencent Hy3D\n3.6 하이폴리 3D 출시",
+      "body": "Hy3D 3.6은 리토폴로지·베이킹·인쇄·영상용 PBR 하이폴리 메시를 만든다.",
+      "mini_headline": "Hy3D 3.6, 하이폴리 3D 겨냥",
       "tool": "KeyShot",
-      "source": "Hugging Face (inclusionAI)",
-      "url": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
+      "source": "Pandaily",
+      "url": "https://pandaily.com/tencent-hunyuan-hy3d-3-6-professional-3d-assets",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "Ming-Image-0.2-Design이 업그레이드를 거쳐 오픈소스로 나왔다. 복잡한 구도와 조명, 텍스트 렌더링이 나아졌고 이커머스 히어로 이미지나 UI 디자인 시안, 공간 렌더링 제작에 쓸 수 있다."
+            "x": "Tencent Hunyuan은 2026년 11월 27일 Hy3D 3.6을 공개했다. 전문가용 하이폴리곤 지오메트리와 물리 기반 렌더링(PBR) 텍스처 맵을 겨냥한 3D 생성 모델이다. 공식 자료는 이번 릴리스를 겉모습만 닮은 미리보기가 아니라 리토폴로지와 베이킹, 피규어·3D 프린팅, 영화·TV 파이프라인에 바로 쓰는 네이티브 3D 에셋으로 소개한다. API와 제품 접근 형태의 출시이며 오픈소스 공개는 아니다. Hunyuan 3D 3.0, Hunyuan 3D World Model 2.0, HY-Motion 1.0의 업데이트도 아니다."
           },
           {
             "t": "p",
-            "x": "이전 세대 레이어 분해 모델인 Ming-Image-0.1-Design-Layer도 이미 디자인 이미지를 투명 레이어로 나눴다. 이번에는 분해 단위를 글자까지 잘게 쪼개 후속 편집과 애니메이션에 쓸 에셋을 내준다. 웹 디자인 쪽에서는 Ming-Image-0.2-Design이 Ling-3.2-flash와 짝을 이뤄 디자인 콘셉트를 인터랙티브 페이지로 옮긴다."
-          },
-          {
-            "t": "img",
-            "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
-            "cap": "Ming-Image-0.2-Design은 AA-Image-T2I v2.1 오픈 웨이트 종합 리더보드에서 선두에 올랐다"
+            "x": "IT Home과 QbitAI에 따르면 Hy3D 3.6은 변분 오토인코더(VAE)로 지오메트리와 텍스처를 하나의 희소 잠재 공간에 압축하고 디퓨전 트랜스포머(DiT)로 레퍼런스에 맞는 지오메트리와 텍스처를 생성한다. 사후 학습에는 다중 전문가 선호 후보와 지도 미세조정(SFT), 직접 선호 최적화(DPO)가 쓰였다."
           },
           {
             "t": "p",
-            "x": "예비 평가에서 Ming은 Artificial Analysis 텍스트-이미지 종합 리더보드의 오픈 웨이트 모델 가운데 선두에 섰다(2026년 11월 25일 기준). 6B(DiT) 모델은 기본 해상도 2048 × 2048, 샘플링 스텝 12회로 돌아가고 80 GiB VRAM을 갖춘 CUDA GPU 한 대에서 검증을 마쳤다."
-          },
-          {
-            "t": "img",
-            "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
-            "cap": "웹 디자인 예시. 여러 섹션으로 짠 레이아웃에 시각 스타일이 고르게 이어진다."
+            "x": "모델은 지금 Tencent Cloud Token Hub에서 API로 쓸 수 있다. Tencent의 AI 크리에이티브 에이전트 Miora, Tencent Games 에셋 플랫폼 LAP, 영화·TV 전문 AI 플랫폼 WorkRally에도 들어갔다. IT Home에 따르면 Hunyuan 3D 제작 엔진은 하루 다섯 번 무료로 체험할 수 있고 클라우드 API 신규 사용자는 서비스를 개통하면 체험 크레딧 100개를 받는다."
           },
           {
             "t": "p",
-            "x": "모델은 MIT License로 풀렸다."
+            "x": "QbitAI는 회사가 진행한 블라인드 테스트에 전문 3D 아티스트와 모델러 수백 명이 참여했고 Hunyuan 3D 시리즈의 커뮤니티 다운로드가 653만 건을 넘었다고 전했다. 모두 회사 측 수치로, 독립 평가를 거친 결론은 아니다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ming-Image 0.2 splits designs\ninto editable RGBA layers",
-          "body": "inclusionAI's open 6B model drafts design images and breaks them into transparent layers down to single characters.",
-          "mini_headline": "Ming-Image splits designs into layers",
+          "headline": "Tencent ships Hy3D 3.6 for\nproduction high-poly 3D",
+          "body": "Hy3D 3.6 generates high-poly meshes with PBR textures for retopology, baking, printing and film work.",
+          "mini_headline": "Hy3D 3.6 targets high-poly 3D",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "This release upgrades and open-sources Ming-Image-0.2-Design. The new version improves complex composition, lighting, and text rendering, and can be used to create e-commerce hero images, UI design drafts, and spatial renderings."
+                "x": "Tencent Hunyuan released Hy3D 3.6 on November 27, 2026, a 3D generation model aimed at professional high-polygon geometry and physically based rendering (PBR) texture maps. Official materials position the release as native 3D assets for retopology, baking, figurines and 3D printing, and film and television pipelines, not only lookalike previews. This is an API and product-access release. It should not be described as already open-sourced, and it is not an update of Hunyuan 3D 3.0, Hunyuan 3D World Model 2.0, or HY-Motion 1.0."
               },
               {
                 "t": "p",
-                "x": "The previous-generation layer decomposition model, Ming-Image-0.1-Design-Layer, already separates design images into transparent layers. This upgrade further refines decomposition down to character parts, providing assets for downstream editing and animation. For web design, Ming-Image-0.2-Design works with Ling-3.2-flash to turn design concepts into interactive pages."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
-                "cap": "Ming-Image-0.2-Design ranked first on the AA-Image-T2I v2.1 overall open-weights leaderboard"
+                "x": "According to IT Home and QbitAI, Hy3D 3.6 uses a variational autoencoder (VAE) to compress geometry and texture into a unified sparse latent, then a diffusion transformer (DiT) generates geometry and textures consistent with the reference. Post-training uses multi-expert preference candidates, supervised fine-tuning (SFT) and direct preference optimization (DPO)."
               },
               {
                 "t": "p",
-                "x": "Preliminary evaluation results show Ming ranks first among open-weight models on the overall Artificial Analysis text-to-image leaderboard (as of Nov 25, 2026). The 6B (DiT) model runs at 2048 × 2048 by default with 12 sampling steps, validated on one CUDA GPU with 80 GiB VRAM."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
-                "cap": "Web design: multi-section layouts and a cohesive visual style."
+                "x": "The model is now on Tencent Cloud Token Hub as an API, and is also available in Tencent's AI creative agent Miora, the Tencent Games asset platform LAP, and the professional film and television AI platform WorkRally. IT Home says the Hunyuan 3D creation engine offers five free experiences a day, and that new cloud API users can receive 100 experience credits after opening the service."
               },
               {
                 "t": "p",
-                "x": "The model is released under the MIT License."
+                "x": "QbitAI also relays a company-organized blind test with hundreds of professional 3D artists and modelers, and says community downloads of the Hunyuan 3D series have passed 6.53 million. Those are company figures, not independent review conclusions."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ming-Image 0.2\n디자인을 RGBA 레이어로",
-          "body": "inclusionAI의 6B 오픈 모델이 디자인을 글자까지 투명 레이어로 쪼갠다.",
-          "mini_headline": "Ming-Image, 디자인을 레이어로 분리",
+          "headline": "Tencent Hy3D\n3.6 하이폴리 3D 출시",
+          "body": "Hy3D 3.6은 리토폴로지·베이킹·인쇄·영상용 PBR 하이폴리 메시를 만든다.",
+          "mini_headline": "Hy3D 3.6, 하이폴리 3D 겨냥",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Ming-Image-0.2-Design이 업그레이드를 거쳐 오픈소스로 나왔다. 복잡한 구도와 조명, 텍스트 렌더링이 나아졌고 이커머스 히어로 이미지나 UI 디자인 시안, 공간 렌더링 제작에 쓸 수 있다."
+                "x": "Tencent Hunyuan은 2026년 11월 27일 Hy3D 3.6을 공개했다. 전문가용 하이폴리곤 지오메트리와 물리 기반 렌더링(PBR) 텍스처 맵을 겨냥한 3D 생성 모델이다. 공식 자료는 이번 릴리스를 겉모습만 닮은 미리보기가 아니라 리토폴로지와 베이킹, 피규어·3D 프린팅, 영화·TV 파이프라인에 바로 쓰는 네이티브 3D 에셋으로 소개한다. API와 제품 접근 형태의 출시이며 오픈소스 공개는 아니다. Hunyuan 3D 3.0, Hunyuan 3D World Model 2.0, HY-Motion 1.0의 업데이트도 아니다."
               },
               {
                 "t": "p",
-                "x": "이전 세대 레이어 분해 모델인 Ming-Image-0.1-Design-Layer도 이미 디자인 이미지를 투명 레이어로 나눴다. 이번에는 분해 단위를 글자까지 잘게 쪼개 후속 편집과 애니메이션에 쓸 에셋을 내준다. 웹 디자인 쪽에서는 Ming-Image-0.2-Design이 Ling-3.2-flash와 짝을 이뤄 디자인 콘셉트를 인터랙티브 페이지로 옮긴다."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
-                "cap": "Ming-Image-0.2-Design은 AA-Image-T2I v2.1 오픈 웨이트 종합 리더보드에서 선두에 올랐다"
+                "x": "IT Home과 QbitAI에 따르면 Hy3D 3.6은 변분 오토인코더(VAE)로 지오메트리와 텍스처를 하나의 희소 잠재 공간에 압축하고 디퓨전 트랜스포머(DiT)로 레퍼런스에 맞는 지오메트리와 텍스처를 생성한다. 사후 학습에는 다중 전문가 선호 후보와 지도 미세조정(SFT), 직접 선호 최적화(DPO)가 쓰였다."
               },
               {
                 "t": "p",
-                "x": "예비 평가에서 Ming은 Artificial Analysis 텍스트-이미지 종합 리더보드의 오픈 웨이트 모델 가운데 선두에 섰다(2026년 11월 25일 기준). 6B(DiT) 모델은 기본 해상도 2048 × 2048, 샘플링 스텝 12회로 돌아가고 80 GiB VRAM을 갖춘 CUDA GPU 한 대에서 검증을 마쳤다."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
-                "cap": "웹 디자인 예시. 여러 섹션으로 짠 레이아웃에 시각 스타일이 고르게 이어진다."
+                "x": "모델은 지금 Tencent Cloud Token Hub에서 API로 쓸 수 있다. Tencent의 AI 크리에이티브 에이전트 Miora, Tencent Games 에셋 플랫폼 LAP, 영화·TV 전문 AI 플랫폼 WorkRally에도 들어갔다. IT Home에 따르면 Hunyuan 3D 제작 엔진은 하루 다섯 번 무료로 체험할 수 있고 클라우드 API 신규 사용자는 서비스를 개통하면 체험 크레딧 100개를 받는다."
               },
               {
                 "t": "p",
-                "x": "모델은 MIT License로 풀렸다."
+                "x": "QbitAI는 회사가 진행한 블라인드 테스트에 전문 3D 아티스트와 모델러 수백 명이 참여했고 Hunyuan 3D 시리즈의 커뮤니티 다운로드가 653만 건을 넘었다고 전했다. 모두 회사 측 수치로, 독립 평가를 거친 결론은 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ming-Image 0.2\nRGBAレイヤーへ分解",
-          "body": "inclusionAIの6B オープンモデルはデザインを文字単位の透明レイヤーに分ける。",
-          "mini_headline": "Ming-Image、デザインをレイヤー分解",
+          "headline": "TencentがHy3D\n3.6でハイポリ3D制作",
+          "body": "Hy3D 3.6はリトポ・ベイク・印刷・映像向けにPBR対応ハイポリメッシュを生成する。",
+          "mini_headline": "Hy3D 3.6、ハイポリ3Dへ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "今回のリリースでは Ming-Image-0.2-Design をアップグレードし、オープンソース化した。新バージョンは複雑な構図、ライティング、テキストレンダリングを改善し、通販サイト向けのヒーロー画像、UIデザイン案、空間レンダリングの制作に使える。"
+                "x": "Tencent Hunyuanは2026年11月27日、Hy3D 3.6を公開した。プロ向けの高ポリゴン形状と物理ベースレンダリング(PBR)テクスチャマップを狙った3D生成モデルである。公式資料は、見た目が似ているだけのプレビューにとどまらず、リトポロジー、ベイク、フィギュアや3Dプリント、映画・テレビのパイプラインに使えるネイティブ3Dアセットとして位置づけている。今回はAPIと製品アクセスによる提供であり、すでにオープンソース化されたと説明すべきではない。またHunyuan 3D 3.0、Hunyuan 3D World Model 2.0、HY-Motion 1.0のアップデートでもない。"
               },
               {
                 "t": "p",
-                "x": "前世代のレイヤー分解モデル Ming-Image-0.1-Design-Layer は、すでにデザイン画像を透明レイヤーに分離できた。今回のアップグレードでは分解を文字パーツ単位まで細分化し、後工程の編集やアニメーションに使える素材を提供する。ウェブデザインでは、Ming-Image-0.2-Design が Ling-3.2-flash と連携し、デザインコンセプトをインタラクティブなページに変える。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
-                "cap": "Ming-Image-0.2-Design は AA-Image-T2I v2.1 のオープンウェイト総合リーダーボードで首位となった"
+                "x": "IT HomeとQbitAIによると、Hy3D 3.6は変分オートエンコーダー(VAE)で形状とテクスチャを統一されたスパース潜在表現に圧縮し、拡散トランスフォーマー(DiT)が参照と整合する形状とテクスチャを生成する。事後学習には、複数エキスパートによる選好候補、教師ありファインチューニング(SFT)、直接選好最適化(DPO)を用いる。"
               },
               {
                 "t": "p",
-                "x": "予備評価の結果、Ming は Artificial Analysis のテキストから画像を生成する総合リーダーボードで、オープンウェイトモデルの中で首位に立った（2026年11月25日時点）。6B (DiT) モデルは標準で 2048 × 2048、サンプリング 12 ステップで動作し、80 GiB VRAM を備えた CUDA GPU 一基で検証済みだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
-                "cap": "ウェブデザイン：複数セクションのレイアウトと統一感のあるビジュアルスタイル。"
+                "x": "モデルはTencent Cloud Token HubでAPIとして提供されており、TencentのAIクリエイティブエージェントMiora、Tencent GamesのアセットプラットフォームLAP、映画・テレビ向けのプロ用AIプラットフォームWorkRallyでも利用できる。IT Homeによると、Hunyuan 3D制作エンジンは一日五回の無料体験を提供し、クラウドAPIの新規ユーザーはサービス開通後に体験クレジット100件を受け取れる。"
               },
               {
                 "t": "p",
-                "x": "モデルは MIT License で公開されている。"
+                "x": "QbitAIはまた、同社が実施した数百人のプロ3Dアーティストやモデラーによるブラインドテストを紹介し、Hunyuan 3Dシリーズのコミュニティでのダウンロード数が653万を超えたと伝えている。いずれも同社の数字であり、独立した評価の結論ではない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ming-Image 0.2\n设计拆成可编辑RGBA图层",
-          "body": "inclusionAI的开源6B 模型可生成设计图，并将其拆分为细至单个字符的透明图层。",
-          "mini_headline": "Ming-Image 将设计拆为图层",
+          "headline": "Tencent发布Hy3D\n3.6 高面数3D模型",
+          "body": "Hy3D 3.6可生成带PBR纹理的高面数网格，用于重拓扑、烘焙、打印和影视制作。",
+          "mini_headline": "Hy3D 3.6瞄准高面数3D",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "此次发布升级并开源了 Ming-Image-0.2-Design。新版本改进了复杂构图、光影和文字渲染，可用于制作电商主图、UI 设计稿和空间效果图。"
+                "x": "Tencent Hunyuan于2026年11月27日发布Hy3D 3.6，这是一款面向专业高多边形几何与基于物理的渲染(PBR)纹理贴图的3D生成模型。官方材料将其定位为可用于重拓扑、烘焙、手办与3D打印以及影视管线的原生3D资产，而不只是外观相似的预览。此次是API与产品接入层面的发布，不应描述为已经开源，也不是Hunyuan 3D 3.0、Hunyuan 3D World Model 2.0或HY-Motion 1.0的更新。"
               },
               {
                 "t": "p",
-                "x": "上一代图层拆分模型 Ming-Image-0.1-Design-Layer 已能将设计图拆分为透明图层。此次升级进一步将拆分细化到字符部件，为后续编辑和动画提供素材。在网页设计方面，Ming-Image-0.2-Design 可与 Ling-3.2-flash 配合，将设计概念转化为可交互页面。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
-                "cap": "Ming-Image-0.2-Design 在 AA-Image-T2I v2.1 开放权重综合排行榜上位居榜首"
+                "x": "据IT Home和QbitAI报道，Hy3D 3.6使用变分自编码器(VAE)将几何与纹理压缩到统一的稀疏潜空间，再由扩散变换器(DiT)生成与参考一致的几何和纹理。后训练采用多专家偏好候选、监督微调(SFT)和直接偏好优化(DPO)。"
               },
               {
                 "t": "p",
-                "x": "初步评测结果显示，Ming 在 Artificial Analysis 文生图综合排行榜的开放权重模型中位列榜首（截至2026年11月25日）。这款 6B (DiT) 模型默认以 2048 × 2048 分辨率、12 个采样步数运行，已在一块配备 80 GiB VRAM 的 CUDA GPU 上完成验证。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
-                "cap": "网页设计：多版块布局与统一的视觉风格。"
+                "x": "该模型现已作为API上线Tencent Cloud Token Hub，也可在Tencent的AI创作智能体Miora、Tencent Games资产平台LAP以及专业影视AI平台WorkRally中使用。IT Home称，Hunyuan 3D创作引擎每天提供五次免费体验，新的云API用户开通服务后可领取100次体验额度。"
               },
               {
                 "t": "p",
-                "x": "该模型以 MIT License 发布。"
+                "x": "QbitAI还转述了一项由公司组织、数百名专业3D美术师和建模师参与的盲测，并称Hunyuan 3D系列的社区下载量已突破653万。这些都是公司数据，并非独立评测结论。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ming-Image 0.2 separa diseños\nen capas RGBA editables",
-          "body": "El modelo abierto 6B de inclusionAI crea imágenes de diseño y las divide en capas transparentes hasta cada carácter.",
-          "mini_headline": "Ming-Image separa diseños en capas",
+          "headline": "Tencent lanza Hy3D 3.6\npara producción 3D high-poly",
+          "body": "Hy3D 3.6 genera mallas high-poly con texturas PBR para retopología, horneado, impresión y cine.",
+          "mini_headline": "Hy3D 3.6 apunta al 3D high-poly",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Esta versión actualiza y libera como código abierto Ming-Image-0.2-Design. La nueva versión mejora la composición compleja, la iluminación y el renderizado de texto, y sirve para crear imágenes principales de comercio electrónico, borradores de diseño de UI y renders espaciales."
+                "x": "Tencent Hunyuan lanzó Hy3D 3.6 el 27 de noviembre de 2026, un modelo de generación 3D orientado a geometría profesional de alta poligonización y mapas de texturas de renderizado basado en física (PBR). Los materiales oficiales presentan el lanzamiento como activos 3D nativos para retopología, horneado, figuras e impresión 3D, y flujos de cine y televisión, no solo como vistas previas de aspecto similar. Es un lanzamiento de acceso por API y producto. No debe describirse como ya publicado en código abierto, y no es una actualización de Hunyuan 3D 3.0, Hunyuan 3D World Model 2.0 ni HY-Motion 1.0."
               },
               {
                 "t": "p",
-                "x": "El modelo de descomposición en capas de la generación anterior, Ming-Image-0.1-Design-Layer, ya separa imágenes de diseño en capas transparentes. Esta actualización afina la descomposición hasta partes de caracteres y aporta recursos para la edición y la animación posteriores. En diseño web, Ming-Image-0.2-Design trabaja con Ling-3.2-flash para convertir conceptos de diseño en páginas interactivas."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
-                "cap": "Ming-Image-0.2-Design ocupó el primer puesto en la clasificación general de pesos abiertos AA-Image-T2I v2.1"
+                "x": "Según IT Home y QbitAI, Hy3D 3.6 usa un autocodificador variacional (VAE) para comprimir geometría y textura en un espacio latente disperso unificado; después, un transformador de difusión (DiT) genera geometría y texturas coherentes con la referencia. El postentrenamiento usa candidatos de preferencia de múltiples expertos, ajuste fino supervisado (SFT) y optimización directa de preferencias (DPO)."
               },
               {
                 "t": "p",
-                "x": "Los resultados preliminares muestran que Ming ocupa el primer lugar entre los modelos de pesos abiertos en la clasificación general de texto a imagen de Artificial Analysis (a 25 de noviembre de 2026). El modelo de 6B (DiT) funciona por defecto a 2048 × 2048 con 12 pasos de muestreo y se validó en una GPU CUDA con 80 GiB de VRAM."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
-                "cap": "Diseño web: maquetaciones de varias secciones y un estilo visual coherente."
+                "x": "El modelo ya está disponible como API en Tencent Cloud Token Hub y también en Miora, el agente creativo de AI de Tencent; en LAP, la plataforma de recursos de Tencent Games, y en WorkRally, la plataforma profesional de AI para cine y televisión. IT Home indica que el motor de creación Hunyuan 3D ofrece cinco usos gratuitos al día y que los nuevos usuarios de la API en la nube pueden recibir 100 créditos de prueba tras activar el servicio."
               },
               {
                 "t": "p",
-                "x": "El modelo se publica bajo la MIT License."
+                "x": "QbitAI también recoge una prueba a ciegas organizada por la empresa con cientos de artistas y modeladores 3D profesionales, y afirma que las descargas comunitarias de la serie Hunyuan 3D superan los 6.53 millones. Son cifras de la empresa, no conclusiones de una evaluación independiente."
               }
             ]
           }
@@ -229,145 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ming-Image 0.2\n디자인을 RGBA 레이어로",
-          "body": "inclusionAI의 6B 오픈 모델은 디자인을 글자까지 투명 레이어로 나눈다.",
-          "mini_headline": "Ming-Image, 디자인을 레이어로 분리",
+          "headline": "Tencent Hy3D\n3.6 하이폴리 3D 출시",
+          "body": "Hy3D 3.6은 리토폴로지·베이킹·인쇄·영상용 PBR 하이폴리 메시를 만든다.",
+          "mini_headline": "Hy3D 3.6, 하이폴리 3D 겨냥",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "이번 릴리스는 Ming-Image-0.2-Design을 업그레이드해 오픈소스로 공개한다. 새 버전은 복잡한 구도와 조명, 텍스트 렌더링을 개선했으며 이커머스 히어로 이미지, UI 디자인 시안, 공간 렌더링 제작에 쓸 수 있다."
+                "x": "Tencent Hunyuan은 2026년 11월 27일 Hy3D 3.6을 공개했다. 전문가용 하이폴리곤 지오메트리와 물리 기반 렌더링(PBR) 텍스처 맵을 겨냥한 3D 생성 모델이다. 공식 자료는 이번 릴리스를 겉모습만 닮은 미리보기에 그치지 않고 리토폴로지, 베이킹, 피규어와 3D 프린팅, 영화·TV 파이프라인에 쓸 수 있는 네이티브 3D 에셋으로 소개한다. API와 제품 접근 형태의 출시이며, 이미 오픈소스로 공개됐다고 설명해서는 안 된다. Hunyuan 3D 3.0, Hunyuan 3D World Model 2.0, HY-Motion 1.0의 업데이트도 아니다."
               },
               {
                 "t": "p",
-                "x": "이전 세대 레이어 분해 모델인 Ming-Image-0.1-Design-Layer는 이미 디자인 이미지를 투명 레이어로 분리했다. 이번 업그레이드는 분해 단위를 글자 부분까지 세분화해 후속 편집과 애니메이션에 쓸 에셋을 제공한다. 웹 디자인에서는 Ming-Image-0.2-Design이 Ling-3.2-flash와 함께 디자인 콘셉트를 인터랙티브 페이지로 바꾼다."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
-                "cap": "Ming-Image-0.2-Design은 AA-Image-T2I v2.1 오픈 웨이트 종합 리더보드에서 선두에 올랐다"
+                "x": "IT Home과 QbitAI에 따르면 Hy3D 3.6은 변분 오토인코더(VAE)로 지오메트리와 텍스처를 하나의 희소 잠재 공간으로 압축한 뒤, 디퓨전 트랜스포머(DiT)로 레퍼런스와 일치하는 지오메트리와 텍스처를 생성한다. 사후 학습에는 다중 전문가 선호 후보, 지도 미세조정(SFT), 직접 선호 최적화(DPO)를 쓴다."
               },
               {
                 "t": "p",
-                "x": "예비 평가 결과 Ming은 Artificial Analysis 텍스트-이미지 종합 리더보드에서 오픈 웨이트 모델 가운데 선두를 차지했다(2026년 11월 25일 기준). 6B(DiT) 모델은 기본 2048 × 2048 해상도와 샘플링 스텝 12회로 작동하며, 80 GiB VRAM을 갖춘 CUDA GPU 한 대에서 검증됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
-                "cap": "웹 디자인: 여러 섹션으로 된 레이아웃과 일관된 시각 스타일."
+                "x": "모델은 현재 Tencent Cloud Token Hub에서 API로 제공되며, Tencent의 AI 크리에이티브 에이전트 Miora, Tencent Games 에셋 플랫폼 LAP, 전문 영화·TV AI 플랫폼 WorkRally에서도 쓸 수 있다. IT Home에 따르면 Hunyuan 3D 제작 엔진은 하루 다섯 번 무료 체험을 제공하고, 클라우드 API 신규 사용자는 서비스를 개통하면 체험 크레딧 100개를 받을 수 있다."
               },
               {
                 "t": "p",
-                "x": "모델은 MIT License로 공개됐다."
+                "x": "QbitAI는 회사가 진행한 블라인드 테스트에 전문 3D 아티스트와 모델러 수백 명이 참여했다고 전하며, Hunyuan 3D 시리즈의 커뮤니티 다운로드가 653만 건을 넘었다고 밝혔다. 이는 회사 측 수치이며 독립적인 평가 결론이 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ming-Image 0.2\nRGBAレイヤーへ分解",
-          "body": "inclusionAIの6B オープンモデルはデザインを文字単位の透明レイヤーに分ける。",
-          "mini_headline": "Ming-Image、デザインをレイヤー分解",
+          "headline": "TencentがHy3D\n3.6でハイポリ3D制作",
+          "body": "Hy3D 3.6はリトポ・ベイク・印刷・映像向けにPBR対応ハイポリメッシュを生成する。",
+          "mini_headline": "Hy3D 3.6、ハイポリ3Dへ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "今回のリリースでは Ming-Image-0.2-Design をアップグレードし、オープンソース化した。新バージョンは複雑な構図、ライティング、テキストレンダリングを改善し、通販サイト向けのヒーロー画像、UIデザイン案、空間レンダリングの制作に使える。"
+                "x": "Tencent Hunyuanは2026年11月27日、Hy3D 3.6を公開した。プロ向けの高ポリゴン形状と物理ベースレンダリング(PBR)テクスチャマップを狙った3D生成モデルである。公式資料は、見た目が似ているだけのプレビューにとどまらず、リトポロジー、ベイク、フィギュアや3Dプリント、映画・テレビのパイプラインに使えるネイティブ3Dアセットとして位置づけている。今回はAPIと製品アクセスによる提供であり、すでにオープンソース化されたと説明すべきではない。またHunyuan 3D 3.0、Hunyuan 3D World Model 2.0、HY-Motion 1.0のアップデートでもない。"
               },
               {
                 "t": "p",
-                "x": "前世代のレイヤー分解モデル Ming-Image-0.1-Design-Layer は、すでにデザイン画像を透明レイヤーに分離できた。今回のアップグレードでは分解を文字パーツ単位まで細分化し、後工程の編集やアニメーションに使える素材を提供する。ウェブデザインでは、Ming-Image-0.2-Design が Ling-3.2-flash と連携し、デザインコンセプトをインタラクティブなページに変える。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
-                "cap": "Ming-Image-0.2-Design は AA-Image-T2I v2.1 のオープンウェイト総合リーダーボードで首位となった"
+                "x": "IT HomeとQbitAIによると、Hy3D 3.6は変分オートエンコーダー(VAE)で形状とテクスチャを統一されたスパース潜在表現に圧縮し、拡散トランスフォーマー(DiT)が参照と整合する形状とテクスチャを生成する。事後学習には、複数エキスパートによる選好候補、教師ありファインチューニング(SFT)、直接選好最適化(DPO)を用いる。"
               },
               {
                 "t": "p",
-                "x": "予備評価の結果、Ming は Artificial Analysis のテキストから画像を生成する総合リーダーボードで、オープンウェイトモデルの中で首位に立った（2026年11月25日時点）。6B (DiT) モデルは標準で 2048 × 2048、サンプリング 12 ステップで動作し、80 GiB VRAM を備えた CUDA GPU 一基で検証済みだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
-                "cap": "ウェブデザイン：複数セクションのレイアウトと統一感のあるビジュアルスタイル。"
+                "x": "モデルはTencent Cloud Token HubでAPIとして提供されており、TencentのAIクリエイティブエージェントMiora、Tencent GamesのアセットプラットフォームLAP、映画・テレビ向けのプロ用AIプラットフォームWorkRallyでも利用できる。IT Homeによると、Hunyuan 3D制作エンジンは一日五回の無料体験を提供し、クラウドAPIの新規ユーザーはサービス開通後に体験クレジット100件を受け取れる。"
               },
               {
                 "t": "p",
-                "x": "モデルは MIT License で公開されている。"
+                "x": "QbitAIはまた、同社が実施した数百人のプロ3Dアーティストやモデラーによるブラインドテストを紹介し、Hunyuan 3Dシリーズのコミュニティでのダウンロード数が653万を超えたと伝えている。いずれも同社の数字であり、独立した評価の結論ではない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ming-Image 0.2\n设计拆成可编辑RGBA图层",
-          "body": "inclusionAI的开源6B 模型可生成设计图，并将其拆分为细至单个字符的透明图层。",
-          "mini_headline": "Ming-Image 将设计拆为图层",
+          "headline": "Tencent发布Hy3D\n3.6 高面数3D模型",
+          "body": "Hy3D 3.6可生成带PBR纹理的高面数网格，用于重拓扑、烘焙、打印和影视制作。",
+          "mini_headline": "Hy3D 3.6瞄准高面数3D",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "此次发布升级并开源了 Ming-Image-0.2-Design。新版本改进了复杂构图、光影和文字渲染，可用于制作电商主图、UI 设计稿和空间效果图。"
+                "x": "Tencent Hunyuan于2026年11月27日发布Hy3D 3.6，这是一款面向专业高多边形几何与基于物理的渲染(PBR)纹理贴图的3D生成模型。官方材料将其定位为可用于重拓扑、烘焙、手办与3D打印以及影视管线的原生3D资产，而不只是外观相似的预览。此次是API与产品接入层面的发布，不应描述为已经开源，也不是Hunyuan 3D 3.0、Hunyuan 3D World Model 2.0或HY-Motion 1.0的更新。"
               },
               {
                 "t": "p",
-                "x": "上一代图层拆分模型 Ming-Image-0.1-Design-Layer 已能将设计图拆分为透明图层。此次升级进一步将拆分细化到字符部件，为后续编辑和动画提供素材。在网页设计方面，Ming-Image-0.2-Design 可与 Ling-3.2-flash 配合，将设计概念转化为可交互页面。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
-                "cap": "Ming-Image-0.2-Design 在 AA-Image-T2I v2.1 开放权重综合排行榜上位居榜首"
+                "x": "据IT Home和QbitAI报道，Hy3D 3.6使用变分自编码器(VAE)将几何与纹理压缩到统一的稀疏潜空间，再由扩散变换器(DiT)生成与参考一致的几何和纹理。后训练采用多专家偏好候选、监督微调(SFT)和直接偏好优化(DPO)。"
               },
               {
                 "t": "p",
-                "x": "初步评测结果显示，Ming 在 Artificial Analysis 文生图综合排行榜的开放权重模型中位列榜首（截至2026年11月25日）。这款 6B (DiT) 模型默认以 2048 × 2048 分辨率、12 个采样步数运行，已在一块配备 80 GiB VRAM 的 CUDA GPU 上完成验证。"
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
-                "cap": "网页设计：多版块布局与统一的视觉风格。"
+                "x": "该模型现已作为API上线Tencent Cloud Token Hub，也可在Tencent的AI创作智能体Miora、Tencent Games资产平台LAP以及专业影视AI平台WorkRally中使用。IT Home称，Hunyuan 3D创作引擎每天提供五次免费体验，新的云API用户开通服务后可领取100次体验额度。"
               },
               {
                 "t": "p",
-                "x": "该模型以 MIT License 发布。"
+                "x": "QbitAI还转述了一项由公司组织、数百名专业3D美术师和建模师参与的盲测，并称Hunyuan 3D系列的社区下载量已突破653万。这些都是公司数据，并非独立评测结论。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ming-Image 0.2 separa diseños\nen capas RGBA editables",
-          "body": "El modelo abierto 6B de inclusionAI crea imágenes de diseño y las divide en capas transparentes hasta cada carácter.",
-          "mini_headline": "Ming-Image separa diseños en capas",
+          "headline": "Tencent lanza Hy3D 3.6\npara producción 3D high-poly",
+          "body": "Hy3D 3.6 genera mallas high-poly con texturas PBR para retopología, horneado, impresión y cine.",
+          "mini_headline": "Hy3D 3.6 apunta al 3D high-poly",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Esta versión actualiza y libera como código abierto Ming-Image-0.2-Design. La nueva versión mejora la composición compleja, la iluminación y el renderizado de texto, y sirve para crear imágenes principales de comercio electrónico, borradores de diseño de UI y renders espaciales."
+                "x": "Tencent Hunyuan lanzó Hy3D 3.6 el 27 de noviembre de 2026, un modelo de generación 3D orientado a geometría profesional de alta poligonización y mapas de texturas de renderizado basado en física (PBR). Los materiales oficiales presentan el lanzamiento como activos 3D nativos para retopología, horneado, figuras e impresión 3D, y flujos de cine y televisión, no solo como vistas previas de aspecto similar. Es un lanzamiento de acceso por API y producto. No debe describirse como ya publicado en código abierto, y no es una actualización de Hunyuan 3D 3.0, Hunyuan 3D World Model 2.0 ni HY-Motion 1.0."
               },
               {
                 "t": "p",
-                "x": "El modelo de descomposición en capas de la generación anterior, Ming-Image-0.1-Design-Layer, ya separa imágenes de diseño en capas transparentes. Esta actualización afina la descomposición hasta partes de caracteres y aporta recursos para la edición y la animación posteriores. En diseño web, Ming-Image-0.2-Design trabaja con Ling-3.2-flash para convertir conceptos de diseño en páginas interactivas."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
-                "cap": "Ming-Image-0.2-Design ocupó el primer puesto en la clasificación general de pesos abiertos AA-Image-T2I v2.1"
+                "x": "Según IT Home y QbitAI, Hy3D 3.6 usa un autocodificador variacional (VAE) para comprimir geometría y textura en un espacio latente disperso unificado; después, un transformador de difusión (DiT) genera geometría y texturas coherentes con la referencia. El postentrenamiento usa candidatos de preferencia de múltiples expertos, ajuste fino supervisado (SFT) y optimización directa de preferencias (DPO)."
               },
               {
                 "t": "p",
-                "x": "Los resultados preliminares muestran que Ming ocupa el primer lugar entre los modelos de pesos abiertos en la clasificación general de texto a imagen de Artificial Analysis (a 25 de noviembre de 2026). El modelo de 6B (DiT) funciona por defecto a 2048 × 2048 con 12 pasos de muestreo y se validó en una GPU CUDA con 80 GiB de VRAM."
-              },
-              {
-                "t": "img",
-                "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
-                "cap": "Diseño web: maquetaciones de varias secciones y un estilo visual coherente."
+                "x": "El modelo ya está disponible como API en Tencent Cloud Token Hub y también en Miora, el agente creativo de AI de Tencent; en LAP, la plataforma de recursos de Tencent Games, y en WorkRally, la plataforma profesional de AI para cine y televisión. IT Home indica que el motor de creación Hunyuan 3D ofrece cinco usos gratuitos al día y que los nuevos usuarios de la API en la nube pueden recibir 100 créditos de prueba tras activar el servicio."
               },
               {
                 "t": "p",
-                "x": "El modelo se publica bajo la MIT License."
+                "x": "QbitAI también recoge una prueba a ciegas organizada por la empresa con cientos de artistas y modeladores 3D profesionales, y afirma que las descargas comunitarias de la serie Hunyuan 3D superan los 6.53 millones. Son cifras de la empresa, no conclusiones de una evaluación independiente."
               }
             ]
           }
@@ -375,15 +275,377 @@
       }
     },
     {
-      "id": "gstar3d-cloud-cad",
-      "source_lang": "ko",
+      "id": "cascadeur-20263-metahuman",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "모두솔루션 지스타3D\n말과 도면으로 3D 설계",
-      "body": "자연어 명령이나 도면 이미지로 피처 히스토리를 갖춘 3D 모델을 만든다.",
-      "mini_headline": "지스타3D, 말로 3D 설계",
+      "headline": "Cascadeur에\nMetaHuman 얼굴",
+      "body": "Nekki가 모캡 자동 정리와 Claude Code 등 AI 장면 편집을 더했다.",
+      "mini_headline": "Cascadeur 2026.3, MetaHuman 추가",
+      "tool": "KeyShot",
+      "source": "Animation World Network",
+      "url": "https://www.awn.com/news/cascadeur-20263-adds-metahuman-faces-and-tentacle-rigging",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+            "cap": ""
+          },
+          {
+            "t": "p",
+            "x": "Nekki가 Cascadeur 2026.3을 내놨다. AI와 물리 연산으로 작업을 돕는 3D 캐릭터 애니메이션 소프트웨어로, 이번에 MetaHuman 얼굴 애니메이션이 Alpha 단계로 들어왔다. 꼬리·촉수·거미 다리를 리깅하는 IK Chains와 모션 캡처 데이터 자동 정리 도구도 생겼다."
+          },
+          {
+            "t": "video",
+            "yt": "jp6aI4KMWOY"
+          },
+          {
+            "t": "p",
+            "x": "MetaHuman DNA 지원 범위가 넓어져 애니메이터가 MetaHuman을 불러와 리깅한 뒤 고유한 얼굴 컨트롤로 움직이거나 기존 얼굴 애니메이션을 가져올 수 있다. Unreal Engine Live Link는 몸과 얼굴, 카메라를 한 번에 전송한다."
+          },
+          {
+            "t": "p",
+            "x": "Mocap Cleaning은 애니메이션을 분석해 떨림, 미끄러짐, 어긋난 팔다리 같은 흔한 캡처 문제를 줄인다. 외부 도구나 서버에 연결하지 않고 로컬에서 돈다. 초기 버전인 AI Cloud는 텍스트-모션 변환, 영상 모캡, 메시 생성, 리그 생성 같은 서버 기반 도구를 더했다. 테스트 기간에는 크레딧으로 운영된다."
+          },
+          {
+            "t": "p",
+            "x": "MCP(Model Context Protocol)와 Cascadeur의 Python API 덕분에 Claude Code 같은 외부 AI 어시스턴트가 장면을 다루며 자연어 지시로 애니메이션을 만들거나 고친다. 애니메이터는 그 결과를 Cascadeur 자체 도구로 다듬는다. Animation Layers는 Additive와 Override 두 유형으로 나뉜다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Cascadeur adds MetaHuman\nfaces and tentacle rigs",
+          "body": "Nekki's update cleans mocap jitter automatically and lets outside AI assistants like Claude Code edit scenes.",
+          "mini_headline": "Cascadeur 2026.3 adds MetaHuman",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Nekki has released Cascadeur 2026.3, bringing MetaHuman facial animation, in Alpha, to its AI- and physics-assisted 3D character animation software. The update also adds IK Chains for rigging tails, tentacles, and spider legs, plus a tool that cleans up motion-capture data automatically."
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "Extended support for MetaHuman DNA lets animators import and rig a MetaHuman, then animate it with its own facial controls or bring in existing facial animation. Unreal Engine Live Link now carries body, face, and camera at the same time."
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaning analyzes an animation to reduce jitter, sliding, misplaced limbs, and other common capture problems. It runs locally, with no connection to outside tools or servers. An early version of AI Cloud adds server-based tools for text-to-motion, video mocap, mesh generation, and rig generation, running on credits in a test phase."
+              },
+              {
+                "t": "p",
+                "x": "Through MCP (Model Context Protocol) and Cascadeur's Python API, outside AI assistants such as Claude Code can now work with scenes and create or edit animation from natural-language instructions, which animators then refine with Cascadeur's own tools. Animation Layers now come in Additive and Override types."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Cascadeur에\nMetaHuman 얼굴",
+          "body": "Nekki가 모캡 자동 정리와 Claude Code 등 AI 장면 편집을 더했다.",
+          "mini_headline": "Cascadeur 2026.3, MetaHuman 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Nekki가 Cascadeur 2026.3을 내놨다. AI와 물리 연산으로 작업을 돕는 3D 캐릭터 애니메이션 소프트웨어로, 이번에 MetaHuman 얼굴 애니메이션이 Alpha 단계로 들어왔다. 꼬리·촉수·거미 다리를 리깅하는 IK Chains와 모션 캡처 데이터 자동 정리 도구도 생겼다."
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "MetaHuman DNA 지원 범위가 넓어져 애니메이터가 MetaHuman을 불러와 리깅한 뒤 고유한 얼굴 컨트롤로 움직이거나 기존 얼굴 애니메이션을 가져올 수 있다. Unreal Engine Live Link는 몸과 얼굴, 카메라를 한 번에 전송한다."
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaning은 애니메이션을 분석해 떨림, 미끄러짐, 어긋난 팔다리 같은 흔한 캡처 문제를 줄인다. 외부 도구나 서버에 연결하지 않고 로컬에서 돈다. 초기 버전인 AI Cloud는 텍스트-모션 변환, 영상 모캡, 메시 생성, 리그 생성 같은 서버 기반 도구를 더했다. 테스트 기간에는 크레딧으로 운영된다."
+              },
+              {
+                "t": "p",
+                "x": "MCP(Model Context Protocol)와 Cascadeur의 Python API 덕분에 Claude Code 같은 외부 AI 어시스턴트가 장면을 다루며 자연어 지시로 애니메이션을 만들거나 고친다. 애니메이터는 그 결과를 Cascadeur 자체 도구로 다듬는다. Animation Layers는 Additive와 Override 두 유형으로 나뉜다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Cascadeurに触手リグ\nMetaHumanの顔も",
+          "body": "Nekkiの更新で揺れが自動補正され、Claude Code等のAIがシーンを編集できる。",
+          "mini_headline": "Cascadeur 2026.3がMetaHumanに対応",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "NekkiはCascadeur 2026.3をリリースし、AIと物理演算が支援する3Dキャラクターアニメーションソフトに、MetaHumanのフェイシャルアニメーションをAlpha版として導入した。尻尾や触手、クモの脚をリギングするIK Chainsと、モーションキャプチャーデータを自動でクリーンアップするツールも加わった。"
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "MetaHuman DNAのサポート拡張により、アニメーターはMetaHumanを読み込んでリギングし、専用のフェイシャルコントロールで動かすか、既存のフェイシャルアニメーションを取り込める。Unreal Engine Live Linkは体、顔、カメラを同時に送れるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaningはアニメーションを解析し、揺れや滑り、手足の位置ずれといったキャプチャーでよくある問題を軽減する。外部ツールやサーバーに接続せず、ローカルで動作する。AI Cloudの初期版は、テキストからのモーション生成、動画モーキャプ、メッシュ生成、リグ生成といったサーバーベースのツールを追加し、テスト段階ではクレジット制で運用される。"
+              },
+              {
+                "t": "p",
+                "x": "MCP（Model Context Protocol）とCascadeurのPython APIを通じて、Claude Codeなど外部のAIアシスタントがシーンを扱い、自然言語の指示からアニメーションを作成・編集できるようになった。アニメーターはそれをCascadeur自身のツールで仕上げる。Animation LayersにはAdditiveとOverrideの2種類が用意された。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Cascadeur支持\nMetaHuman面部与触手",
+          "body": "Nekki此次更新可自动消除动捕抖动，并让Claude Code等外部AI助手编辑场景。",
+          "mini_headline": "Cascadeur 2026.3 新增 MetaHuman",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Nekki 发布了 Cascadeur 2026.3，为这款借助 AI 和物理辅助的 3D 角色动画软件带来 Alpha 阶段的 MetaHuman 面部动画。此次更新还加入了用于绑定尾巴、触手和蜘蛛腿的 IK Chains，以及一款自动清理动作捕捉数据的工具。"
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "对 MetaHuman DNA 的扩展支持让动画师可以导入并绑定 MetaHuman，再用其自带的面部控制器制作动画，或导入已有的面部动画。Unreal Engine Live Link 现在可同时传输身体、面部和摄像机数据。"
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaning 会分析动画，减少抖动、滑步、肢体错位等常见捕捉问题。它在本地运行，不连接任何外部工具或服务器。AI Cloud 的早期版本加入了基于服务器的文本生成动作、视频动捕、网格生成和绑定生成工具，测试阶段按积分使用。"
+              },
+              {
+                "t": "p",
+                "x": "借助 MCP（Model Context Protocol）和 Cascadeur 的 Python API，Claude Code 等外部 AI 助手现在可以处理场景，并根据自然语言指令创建或编辑动画，再由动画师用 Cascadeur 自带工具进一步调整。Animation Layers 现分为 Additive 和 Override 两种类型。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Cascadeur suma caras MetaHuman\ny rigs para tentáculos",
+          "body": "La versión de Nekki limpia sola el temblor del mocap y deja que asistentes AI externos como Claude Code editen escenas.",
+          "mini_headline": "Cascadeur 2026.3 suma MetaHuman",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Nekki ha lanzado Cascadeur 2026.3, que lleva la animación facial de MetaHuman, en fase Alpha, a su software de animación 3D de personajes asistido por AI y física. La actualización también añade IK Chains para rigging de colas, tentáculos y patas de araña, además de una herramienta que limpia automáticamente los datos de captura de movimiento."
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "El soporte ampliado para MetaHuman DNA permite a los animadores importar y riggear un MetaHuman, y luego animarlo con sus propios controles faciales o incorporar animación facial existente. Unreal Engine Live Link ahora transmite cuerpo, rostro y cámara al mismo tiempo."
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaning analiza una animación para reducir el temblor, los deslizamientos, las extremidades mal colocadas y otros problemas habituales de captura. Funciona en local, sin conexión con herramientas ni servidores externos. Una versión temprana de AI Cloud añade herramientas en servidor de texto a movimiento, mocap desde video, generación de mallas y generación de rigs, que funcionan con créditos durante una fase de prueba."
+              },
+              {
+                "t": "p",
+                "x": "Gracias a MCP (Model Context Protocol) y la Python API de Cascadeur, asistentes de AI externos como Claude Code ya pueden trabajar con escenas y crear o editar animación a partir de instrucciones en lenguaje natural, que los animadores luego refinan con las herramientas propias de Cascadeur. Animation Layers ahora se ofrece en los tipos Additive y Override."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "es": {
+          "headline": "Cascadeur suma caras MetaHuman\ny rigs para tentáculos",
+          "body": "La versión de Nekki limpia sola el temblor del mocap y deja que asistentes AI externos como Claude Code editen escenas.",
+          "mini_headline": "Cascadeur 2026.3 suma MetaHuman",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Nekki ha lanzado Cascadeur 2026.3, que lleva la animación facial de MetaHuman, en fase Alpha, a su software de animación 3D de personajes asistido por AI y física. La actualización también añade IK Chains para rigging de colas, tentáculos y patas de araña, además de una herramienta que limpia automáticamente los datos de captura de movimiento."
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "El soporte ampliado para MetaHuman DNA permite a los animadores importar y riggear un MetaHuman, y luego animarlo con sus propios controles faciales o incorporar animación facial existente. Unreal Engine Live Link ahora transmite cuerpo, rostro y cámara al mismo tiempo."
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaning analiza una animación para reducir el temblor, los deslizamientos, las extremidades mal colocadas y otros problemas habituales de captura. Funciona en local, sin conexión con herramientas ni servidores externos. Una versión temprana de AI Cloud añade herramientas en servidor de texto a movimiento, mocap desde video, generación de mallas y generación de rigs, que funcionan con créditos durante una fase de prueba."
+              },
+              {
+                "t": "p",
+                "x": "Gracias a MCP (Model Context Protocol) y la Python API de Cascadeur, asistentes de AI externos como Claude Code ya pueden trabajar con escenas y crear o editar animación a partir de instrucciones en lenguaje natural, que los animadores luego refinan con las herramientas propias de Cascadeur. Animation Layers ahora se ofrece en los tipos Additive y Override."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Cascadeur에\nMetaHuman 얼굴",
+          "body": "Nekki는 모캡 자동 정리와 Claude Code 등 AI의 장면 편집을 더했다.",
+          "mini_headline": "Cascadeur 2026.3, MetaHuman 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Nekki가 Cascadeur 2026.3을 출시했다. AI와 물리 연산의 도움을 받는 이 3D 캐릭터 애니메이션 소프트웨어에 MetaHuman 얼굴 애니메이션이 Alpha 단계로 들어왔다. 꼬리, 촉수, 거미 다리를 리깅하는 IK Chains와 모션 캡처 데이터를 자동으로 정리하는 도구도 추가됐다."
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "MetaHuman DNA 지원이 넓어지면서 애니메이터는 MetaHuman을 불러와 리깅한 뒤 고유한 얼굴 컨트롤로 움직이거나 기존 얼굴 애니메이션을 가져올 수 있다. Unreal Engine Live Link는 이제 몸, 얼굴, 카메라를 동시에 전송한다."
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaning은 애니메이션을 분석해 떨림, 미끄러짐, 어긋난 팔다리 등 흔한 캡처 문제를 줄인다. 외부 도구나 서버와 연결하지 않고 로컬에서 실행된다. AI Cloud 초기 버전은 텍스트-모션 변환, 영상 모캡, 메시 생성, 리그 생성 등 서버 기반 도구를 더하며, 테스트 단계에서 크레딧으로 운영된다."
+              },
+              {
+                "t": "p",
+                "x": "MCP(Model Context Protocol)와 Cascadeur의 Python API를 통해 Claude Code 같은 외부 AI 어시스턴트가 이제 장면을 다루고 자연어 지시로 애니메이션을 만들거나 고칠 수 있으며, 애니메이터는 이를 Cascadeur 자체 도구로 다듬는다. Animation Layers는 이제 Additive와 Override 두 가지 유형으로 제공된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Cascadeurに触手リグ\nMetaHumanの顔も",
+          "body": "Nekkiの更新で揺れが自動補正され、Claude Code等のAIがシーンを編集できる。",
+          "mini_headline": "Cascadeur 2026.3がMetaHumanに対応",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "NekkiはCascadeur 2026.3をリリースし、AIと物理演算が支援する3Dキャラクターアニメーションソフトに、MetaHumanのフェイシャルアニメーションをAlpha版として導入した。尻尾や触手、クモの脚をリギングするIK Chainsと、モーションキャプチャーデータを自動でクリーンアップするツールも加わった。"
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "MetaHuman DNAのサポート拡張により、アニメーターはMetaHumanを読み込んでリギングし、専用のフェイシャルコントロールで動かすか、既存のフェイシャルアニメーションを取り込める。Unreal Engine Live Linkは体、顔、カメラを同時に送れるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaningはアニメーションを解析し、揺れや滑り、手足の位置ずれといったキャプチャーでよくある問題を軽減する。外部ツールやサーバーに接続せず、ローカルで動作する。AI Cloudの初期版は、テキストからのモーション生成、動画モーキャプ、メッシュ生成、リグ生成といったサーバーベースのツールを追加し、テスト段階ではクレジット制で運用される。"
+              },
+              {
+                "t": "p",
+                "x": "MCP（Model Context Protocol）とCascadeurのPython APIを通じて、Claude Codeなど外部のAIアシスタントがシーンを扱い、自然言語の指示からアニメーションを作成・編集できるようになった。アニメーターはそれをCascadeur自身のツールで仕上げる。Animation LayersにはAdditiveとOverrideの2種類が用意された。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Cascadeur支持\nMetaHuman面部与触手",
+          "body": "Nekki此次更新可自动消除动捕抖动，并让Claude Code等外部AI助手编辑场景。",
+          "mini_headline": "Cascadeur 2026.3 新增 MetaHuman",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Nekki 发布了 Cascadeur 2026.3，为这款借助 AI 和物理辅助的 3D 角色动画软件带来 Alpha 阶段的 MetaHuman 面部动画。此次更新还加入了用于绑定尾巴、触手和蜘蛛腿的 IK Chains，以及一款自动清理动作捕捉数据的工具。"
+              },
+              {
+                "t": "video",
+                "yt": "jp6aI4KMWOY"
+              },
+              {
+                "t": "p",
+                "x": "对 MetaHuman DNA 的扩展支持让动画师可以导入并绑定 MetaHuman，再用其自带的面部控制器制作动画，或导入已有的面部动画。Unreal Engine Live Link 现在可同时传输身体、面部和摄像机数据。"
+              },
+              {
+                "t": "p",
+                "x": "Mocap Cleaning 会分析动画，减少抖动、滑步、肢体错位等常见捕捉问题。它在本地运行，不连接任何外部工具或服务器。AI Cloud 的早期版本加入了基于服务器的文本生成动作、视频动捕、网格生成和绑定生成工具，测试阶段按积分使用。"
+              },
+              {
+                "t": "p",
+                "x": "借助 MCP（Model Context Protocol）和 Cascadeur 的 Python API，Claude Code 等外部 AI 助手现在可以处理场景，并根据自然语言指令创建或编辑动画，再由动画师用 Cascadeur 自带工具进一步调整。Animation Layers 现分为 Additive 和 Override 两种类型。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "theia-drawing-to-cad",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "THEIA, 도면을\nCAD-ready 3D로",
+      "body": "Spare Parts 3D의 THEIA AI가 2D 도면을 편집형 CAD로 바꾼다.",
+      "mini_headline": "THEIA, 도면을 3D로",
       "tool": "Text-to-CAD",
-      "source": "etnews",
-      "url": "https://www.etnews.com/20261126000198",
+      "source": "DEVELOP3D",
+      "url": "https://develop3d.com/ai/theia-update-automates-3d-models/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -391,501 +653,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
+            "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "CAD·제품수명주기관리(PLM) 솔루션 전문기업 모두솔루션(대표 정충구)이 수원컨벤션센터에서 열린 '제8회 국제 스마트제조·AI 기술전(SMATEC 2026)'에 참가해 클라우드 기반 3D CAD 솔루션 '지스타3D(Gstar3D)'를 비롯한 설계·협업 솔루션을 소개했다. 이번 전시에서는 정식 출시를 앞둔 지스타3D의 자연어·이미지 기반 모델링 기능이 주목받았다."
+            "x": "딥테크 기업 Spare Parts 3D(SP3D)는 THEIA가 이제 시장의 주요 엔지니어링 소프트웨어와 호환되는 3D 모델을 내놓는다고 발표했다. THEIA는 2D 산업용 부품 도면을 3D로 재구성하는 작업을 자동화하는 AI다."
           },
           {
             "t": "p",
-            "x": "지스타3D는 별도 소프트웨어 설치 없이 웹 브라우저에서 3D 모델링과 설계 데이터 관리, 협업을 수행할 수 있다. 사용자가 자연어로 명령하거나 JPG·PNG 형식의 도면 이미지 파일을 입력하면 3D 모델을 생성할 수 있다. 생성된 모델에는 설계 형상과 수정 과정을 관리하는 피처 히스토리(Feature History)가 구성되며 STEP 등 표준 3D CAD 파일 형식으로 내보낼 수 있다."
+            "x": "스캔했거나 손으로 그린 2D 도면에서도 부품을 3D로 재구성한다. 모델은 SolidWorks와 Siemens NX를 비롯한(이에 한정되지 않는) 네이티브 형식으로 나온다."
+          },
+          {
+            "t": "p",
+            "x": "“고정된 3D 모델은 PDF와 같습니다. 볼 수는 있지만 바꿀 수는 없습니다. THEIA는 이제 Word 문서에 해당하는 것, 즉 엔지니어가 평소 쓰는 소프트웨어에서 직접 검토하고 수정하고 승인하는 3D 모델을 제공합니다. 통제권은 엔지니어에게 있습니다.” SP3D의 CPO Paul Guillaumot의 말이다."
           },
           {
             "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
+            "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "전시 현장에서는 한 참관객이 도면 이미지로 3D 모델을 생성한 후 STEP 파일로 변환한 결과물을 가져가기도 했다. 모두솔루션은 '얼리 유저(Early User)' 프로그램으로 최대 100명에게 1년 무료 사용권을 제공하고, 수집한 의견을 제품 개선과 사용자 지원에 반영할 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "이와 함께 2D CAD '지스타캐드(GstarCAD)', 도면 공유·협업 플랫폼 '지스타CAD 365', 3D CAD 파일 뷰어 '3D FastView'와 PTC의 '크레오(Creo)'·'윈칠(Windchill)'도 소개했다. 모두솔루션 관계자는 “사용자 의견을 반영해 국내 설계 환경에 적합한 솔루션을 지속적으로 제공하겠다”고 말했다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "모두솔루션 지스타3D\n말과 도면으로 3D 설계",
-          "body": "자연어 명령이나 도면 이미지로 피처 히스토리를 갖춘 3D 모델을 만든다.",
-          "mini_headline": "지스타3D, 말로 3D 설계",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CAD·제품수명주기관리(PLM) 솔루션 전문기업 모두솔루션(대표 정충구)이 수원컨벤션센터에서 열린 '제8회 국제 스마트제조·AI 기술전(SMATEC 2026)'에 참가해 클라우드 기반 3D CAD 솔루션 '지스타3D(Gstar3D)'를 비롯한 설계·협업 솔루션을 소개했다. 이번 전시에서는 정식 출시를 앞둔 지스타3D의 자연어·이미지 기반 모델링 기능이 주목받았다."
-              },
-              {
-                "t": "p",
-                "x": "지스타3D는 별도 소프트웨어 설치 없이 웹 브라우저에서 3D 모델링과 설계 데이터 관리, 협업을 수행할 수 있다. 사용자가 자연어로 명령하거나 JPG·PNG 형식의 도면 이미지 파일을 입력하면 3D 모델을 생성할 수 있다. 생성된 모델에는 설계 형상과 수정 과정을 관리하는 피처 히스토리(Feature History)가 구성되며 STEP 등 표준 3D CAD 파일 형식으로 내보낼 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "전시 현장에서는 한 참관객이 도면 이미지로 3D 모델을 생성한 후 STEP 파일로 변환한 결과물을 가져가기도 했다. 모두솔루션은 '얼리 유저(Early User)' 프로그램으로 최대 100명에게 1년 무료 사용권을 제공하고, 수집한 의견을 제품 개선과 사용자 지원에 반영할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "이와 함께 2D CAD '지스타캐드(GstarCAD)', 도면 공유·협업 플랫폼 '지스타CAD 365', 3D CAD 파일 뷰어 '3D FastView'와 PTC의 '크레오(Creo)'·'윈칠(Windchill)'도 소개했다. 모두솔루션 관계자는 “사용자 의견을 반영해 국내 설계 환경에 적합한 솔루션을 지속적으로 제공하겠다”고 말했다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Modusolution Gstar3D\n3D design from text and drawings",
-          "body": "The tool builds 3D models with feature history from natural-language commands or drawing images.",
-          "mini_headline": "Gstar3D designs 3D from words",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Modusolution (CEO Jung Chung-gu), a company specializing in CAD and product lifecycle management (PLM) solutions, took part in the '8th International Smart Manufacturing & AI Technology Exhibition (SMATEC 2026)' at the Suwon Convention Center, where it presented design and collaboration solutions including its cloud-based 3D CAD solution 'Gstar3D'. At the show, the natural-language and image-based modeling features of Gstar3D, which is nearing its official launch, drew attention."
-              },
-              {
-                "t": "p",
-                "x": "Gstar3D lets users carry out 3D modeling, design data management and collaboration in a web browser without installing separate software. Users can generate a 3D model by giving natural-language commands or entering drawing image files in JPG or PNG format. Generated models include a Feature History that manages the design geometry and revision process, and can be exported to standard 3D CAD file formats such as STEP."
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "At the exhibition, one visitor generated a 3D model from a drawing image, converted it to a STEP file and took the result home. Through its 'Early User' program, Modusolution plans to offer free 1-year licenses to up to 100 people and reflect the feedback it collects in product improvements and user support."
-              },
-              {
-                "t": "p",
-                "x": "The company also introduced the 2D CAD 'GstarCAD', the drawing sharing and collaboration platform 'GstarCAD 365', the 3D CAD file viewer '3D FastView', and PTC's 'Creo' and 'Windchill'. \"We will reflect user feedback and keep providing solutions suited to the domestic design environment,\" a Modusolution official said."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Gstar3D\n言葉と図面で3D設計",
-          "body": "自然言語の指示や図面画像から、フィーチャー履歴を備えた3Dモデルを作る。",
-          "mini_headline": "Gstar3D、言葉で3D設計",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CAD・製品ライフサイクル管理（PLM）ソリューション専門企業のモドゥソリューション（代表：チョン・チュング）は、水原コンベンションセンターで開かれた「第8回国際スマート製造・AI技術展（SMATEC 2026）」に出展し、クラウドベースの3D CADソリューション「Gstar3D」をはじめとする設計・協業ソリューションを紹介した。今回の展示では、正式リリースを控えたGstar3Dの自然言語・画像ベースのモデリング機能が注目を集めた。"
-              },
-              {
-                "t": "p",
-                "x": "Gstar3Dは、別途ソフトウェアをインストールすることなく、ウェブブラウザ上で3Dモデリングや設計データ管理、協業を行える。ユーザーが自然言語で指示したり、JPG・PNG形式の図面画像ファイルを入力したりすると、3Dモデルを生成できる。生成されたモデルには設計形状と修正過程を管理するフィーチャー履歴（Feature History）が構成され、STEPなど標準の3D CADファイル形式でエクスポートできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "展示会場では、ある来場者が図面画像から3Dモデルを生成し、STEPファイルに変換した成果物を持ち帰る場面もあった。モドゥソリューションは「アーリーユーザー（Early User）」プログラムを通じて最大100人に1年間の無料利用権を提供し、集めた意見を製品改善とユーザーサポートに反映する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "あわせて、2D CAD「GstarCAD」、図面共有・協業プラットフォーム「GstarCAD 365」、3D CADファイルビューア「3D FastView」、PTCの「Creo」「Windchill」も紹介した。モドゥソリューションの関係者は「ユーザーの意見を反映し、国内の設計環境に適したソリューションを継続して提供していく」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Gstar3D\n用语言和图纸做3D设计",
-          "body": "用户可通过自然语言指令或图纸图片，生成带有特征历史的3D模型。",
-          "mini_headline": "Gstar3D：用语言做3D设计",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CAD·产品生命周期管理（PLM）解决方案专业企业 Modusolution（代表 Jung Chung-gu）参加了在水原会展中心举行的“第8届国际智能制造·AI技术展（SMATEC 2026）”，介绍了基于云的3D CAD解决方案“Gstar3D”等设计与协作解决方案。本次展会上，即将正式上市的Gstar3D所具备的自然语言与图像建模功能备受关注。"
-              },
-              {
-                "t": "p",
-                "x": "Gstar3D无需另行安装软件，即可在网页浏览器中完成3D建模、设计数据管理和协作。用户只需用自然语言下达指令，或输入JPG·PNG格式的图纸图片文件，即可生成3D模型。生成的模型包含管理设计形状与修改过程的特征历史（Feature History），并可导出为STEP等标准3D CAD文件格式。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "展会现场，一位参观者用图纸图片生成3D模型后，带走了转换成STEP文件的成果。Modusolution计划通过“早期用户（Early User）”计划，为最多100人提供1年免费使用权，并将收集到的意见用于产品改进和用户支持。"
-              },
-              {
-                "t": "p",
-                "x": "此外，该公司还介绍了2D CAD“GstarCAD”、图纸共享与协作平台“GstarCAD 365”、3D CAD文件查看器“3D FastView”以及PTC的“Creo”“Windchill”。Modusolution相关负责人表示：“将听取用户意见，持续提供适合国内设计环境的解决方案。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Gstar3D de Modusolution:\ndiseño 3D con palabras y planos",
-          "body": "Crea modelos 3D con historial de operaciones a partir de comandos en lenguaje natural o imágenes de planos.",
-          "mini_headline": "Gstar3D: diseño 3D con palabras",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Modusolution (director general: Jung Chung-gu), empresa especializada en soluciones de CAD y gestión del ciclo de vida del producto (PLM), participó en la '8.ª Exposición Internacional de Fabricación Inteligente y Tecnología de AI (SMATEC 2026)', celebrada en el Centro de Convenciones de Suwon, donde presentó soluciones de diseño y colaboración, entre ellas su solución de 3D CAD en la nube 'Gstar3D'. En la muestra llamaron la atención las funciones de modelado basadas en lenguaje natural e imágenes de Gstar3D, que se acerca a su lanzamiento oficial."
-              },
-              {
-                "t": "p",
-                "x": "Gstar3D permite realizar modelado 3D, gestión de datos de diseño y colaboración en un navegador web sin instalar software adicional. Los usuarios pueden generar un modelo 3D dando órdenes en lenguaje natural o cargando archivos de imagen de planos en formato JPG o PNG. Los modelos generados incluyen un historial de operaciones (Feature History) que gestiona la geometría del diseño y el proceso de modificación, y pueden exportarse a formatos estándar de archivo 3D CAD como STEP."
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "En el recinto, un visitante generó un modelo 3D a partir de una imagen de plano, lo convirtió en un archivo STEP y se llevó el resultado. Con su programa 'Early User', Modusolution ofrecerá licencias gratuitas de 1 año a un máximo de 100 personas y aplicará las opiniones recogidas a la mejora del producto y la atención a los usuarios."
-              },
-              {
-                "t": "p",
-                "x": "También presentó el 2D CAD 'GstarCAD', la plataforma para compartir planos y colaborar 'GstarCAD 365', el visor de archivos 3D CAD '3D FastView' y 'Creo' y 'Windchill' de PTC. \"Seguiremos ofreciendo soluciones adecuadas al entorno de diseño nacional, incorporando las opiniones de los usuarios\", dijo un responsable de Modusolution."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Modusolution Gstar3D\n3D design from text and drawings",
-          "body": "The tool builds 3D models with feature history from natural-language commands or drawing images.",
-          "mini_headline": "Gstar3D designs 3D from words",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Modusolution (CEO Jung Chung-gu), a company specializing in CAD and product lifecycle management (PLM) solutions, took part in the '8th International Smart Manufacturing & AI Technology Exhibition (SMATEC 2026)' at the Suwon Convention Center, where it presented design and collaboration solutions including its cloud-based 3D CAD solution 'Gstar3D'. At the show, the natural-language and image-based modeling features of Gstar3D, which is nearing its official launch, drew attention."
-              },
-              {
-                "t": "p",
-                "x": "Gstar3D lets users carry out 3D modeling, design data management and collaboration in a web browser without installing separate software. Users can generate a 3D model by giving natural-language commands or entering drawing image files in JPG or PNG format. Generated models include a Feature History that manages the design geometry and revision process, and can be exported to standard 3D CAD file formats such as STEP."
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "At the exhibition, one visitor generated a 3D model from a drawing image, converted it to a STEP file and took the result home. Through its 'Early User' program, Modusolution plans to offer free 1-year licenses to up to 100 people and reflect the feedback it collects in product improvements and user support."
-              },
-              {
-                "t": "p",
-                "x": "The company also introduced the 2D CAD 'GstarCAD', the drawing sharing and collaboration platform 'GstarCAD 365', the 3D CAD file viewer '3D FastView', and PTC's 'Creo' and 'Windchill'. \"We will reflect user feedback and keep providing solutions suited to the domestic design environment,\" a Modusolution official said."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Gstar3D\n言葉と図面で3D設計",
-          "body": "自然言語の指示や図面画像から、フィーチャー履歴を備えた3Dモデルを作る。",
-          "mini_headline": "Gstar3D、言葉で3D設計",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CAD・製品ライフサイクル管理（PLM）ソリューション専門企業のモドゥソリューション（代表：チョン・チュング）は、水原コンベンションセンターで開かれた「第8回国際スマート製造・AI技術展（SMATEC 2026）」に出展し、クラウドベースの3D CADソリューション「Gstar3D」をはじめとする設計・協業ソリューションを紹介した。今回の展示では、正式リリースを控えたGstar3Dの自然言語・画像ベースのモデリング機能が注目を集めた。"
-              },
-              {
-                "t": "p",
-                "x": "Gstar3Dは、別途ソフトウェアをインストールすることなく、ウェブブラウザ上で3Dモデリングや設計データ管理、協業を行える。ユーザーが自然言語で指示したり、JPG・PNG形式の図面画像ファイルを入力したりすると、3Dモデルを生成できる。生成されたモデルには設計形状と修正過程を管理するフィーチャー履歴（Feature History）が構成され、STEPなど標準の3D CADファイル形式でエクスポートできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "展示会場では、ある来場者が図面画像から3Dモデルを生成し、STEPファイルに変換した成果物を持ち帰る場面もあった。モドゥソリューションは「アーリーユーザー（Early User）」プログラムを通じて最大100人に1年間の無料利用権を提供し、集めた意見を製品改善とユーザーサポートに反映する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "あわせて、2D CAD「GstarCAD」、図面共有・協業プラットフォーム「GstarCAD 365」、3D CADファイルビューア「3D FastView」、PTCの「Creo」「Windchill」も紹介した。モドゥソリューションの関係者は「ユーザーの意見を反映し、国内の設計環境に適したソリューションを継続して提供していく」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Gstar3D\n用语言和图纸做3D设计",
-          "body": "用户可通过自然语言指令或图纸图片，生成带有特征历史的3D模型。",
-          "mini_headline": "Gstar3D：用语言做3D设计",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CAD·产品生命周期管理（PLM）解决方案专业企业 Modusolution（代表 Jung Chung-gu）参加了在水原会展中心举行的“第8届国际智能制造·AI技术展（SMATEC 2026）”，介绍了基于云的3D CAD解决方案“Gstar3D”等设计与协作解决方案。本次展会上，即将正式上市的Gstar3D所具备的自然语言与图像建模功能备受关注。"
-              },
-              {
-                "t": "p",
-                "x": "Gstar3D无需另行安装软件，即可在网页浏览器中完成3D建模、设计数据管理和协作。用户只需用自然语言下达指令，或输入JPG·PNG格式的图纸图片文件，即可生成3D模型。生成的模型包含管理设计形状与修改过程的特征历史（Feature History），并可导出为STEP等标准3D CAD文件格式。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "展会现场，一位参观者用图纸图片生成3D模型后，带走了转换成STEP文件的成果。Modusolution计划通过“早期用户（Early User）”计划，为最多100人提供1年免费使用权，并将收集到的意见用于产品改进和用户支持。"
-              },
-              {
-                "t": "p",
-                "x": "此外，该公司还介绍了2D CAD“GstarCAD”、图纸共享与协作平台“GstarCAD 365”、3D CAD文件查看器“3D FastView”以及PTC的“Creo”“Windchill”。Modusolution相关负责人表示：“将听取用户意见，持续提供适合国内设计环境的解决方案。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Gstar3D de Modusolution:\ndiseño 3D con palabras y planos",
-          "body": "Crea modelos 3D con historial de operaciones a partir de comandos en lenguaje natural o imágenes de planos.",
-          "mini_headline": "Gstar3D: diseño 3D con palabras",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.8171345abf574e2da65a88698829161a_P1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Modusolution (director general: Jung Chung-gu), empresa especializada en soluciones de CAD y gestión del ciclo de vida del producto (PLM), participó en la '8.ª Exposición Internacional de Fabricación Inteligente y Tecnología de AI (SMATEC 2026)', celebrada en el Centro de Convenciones de Suwon, donde presentó soluciones de diseño y colaboración, entre ellas su solución de 3D CAD en la nube 'Gstar3D'. En la muestra llamaron la atención las funciones de modelado basadas en lenguaje natural e imágenes de Gstar3D, que se acerca a su lanzamiento oficial."
-              },
-              {
-                "t": "p",
-                "x": "Gstar3D permite realizar modelado 3D, gestión de datos de diseño y colaboración en un navegador web sin instalar software adicional. Los usuarios pueden generar un modelo 3D dando órdenes en lenguaje natural o cargando archivos de imagen de planos en formato JPG o PNG. Los modelos generados incluyen un historial de operaciones (Feature History) que gestiona la geometría del diseño y el proceso de modificación, y pueden exportarse a formatos estándar de archivo 3D CAD como STEP."
-              },
-              {
-                "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.94996f8165654787b60ce783f66ff2cb_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "En el recinto, un visitante generó un modelo 3D a partir de una imagen de plano, lo convirtió en un archivo STEP y se llevó el resultado. Con su programa 'Early User', Modusolution ofrecerá licencias gratuitas de 1 año a un máximo de 100 personas y aplicará las opiniones recogidas a la mejora del producto y la atención a los usuarios."
-              },
-              {
-                "t": "p",
-                "x": "También presentó el 2D CAD 'GstarCAD', la plataforma para compartir planos y colaborar 'GstarCAD 365', el visor de archivos 3D CAD '3D FastView' y 'Creo' y 'Windchill' de PTC. \"Seguiremos ofreciendo soluciones adecuadas al entorno de diseño nacional, incorporando las opiniones de los usuarios\", dijo un responsable de Modusolution."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "modulebuild-ai-editor",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "module.build\nAI 주도권은 디자이너에게",
-      "body": "디자인·코드를 한 캔버스에 모으고 내 계정 Claude·Codex·Kimi를 쓴다.",
-      "mini_headline": "module.build, 디자이너가 AI를 쥔다",
-      "tool": "Figma",
-      "source": "dev.ua",
-      "url": "https://dev.ua/en/news/ukrainskyi-dyzainer-stvoryv-shi-redaktor-modulebuild-1795684607",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
-          },
-          {
-            "t": "p",
-            "x": "시니어 UI/UX 디자이너 보흐단 마트비예우(Bohdan Matviyev)는 요즘 AI 도구에 지쳤다. 요소를 마음대로 다루게 해 주기는커녕 작업을 채팅과 프롬프트 틀에 가두고 전문가 자리까지 넘봐서다. 그래서 디자인과 개발을 한 공간에 합친 에디터 module.build를 직접 만들었다. AI가 자동조종 장치가 아니라 조수로 일하는 개인 작업 환경이라는 게 그의 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "서비스 내부 크레딧은 따로 없다. 사용자는 자신의 구독이나 APIs로 Claude, Codex, Kimi 같은 모델을 섞어 쓴다. 디자인 캔버스, 공동 창작 보드, 프레젠테이션, 3D, 애니메이션, 코드가 메모리를 공유하는 한 환경에 모여 있다. 내부 ADE와 MCP 도구가 디자인 파일의 레이아웃, 토큰, 컴포넌트를 직접 읽고 GitHub·Vercel과도 연결된다. 이미지 생성은 ComfyUI 노드로 돌린다."
-          },
-          {
-            "t": "p",
-            "x": "Matviyev는 Figma가 MCP 요청을 제한하고, 이 프로토콜이 작은 요청에도 화면 전체를 컨텍스트로 보낸다고 말했다. module.build는 필요한 지점의 정보만 넘긴다. Paper처럼 실시간 협업을 지원하지는 않지만 Paper의 CSS 제약이나 대용량 파일에서 느려지는 문제는 피했다. 지금은 비공개 알파 테스트 중이다."
+            "x": "모든 모델은 원본 도면과 대조해 검증한다. THEIA가 결과를 장담할 수 없으면 이를 표시해 두고 해당 부품을 엔지니어에게 넘긴다. 첫 재구성에서 치수 검증을 모두 통과하는 모델이 70% 가까이다. 전체 물량의 90% 이상인 표준 복잡도 부품에서는 엔지니어링 시간이 삼분의 일로 준다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "module.build keeps designers\nin charge of the AI",
-          "body": "The closed-alpha editor merges design and code on one canvas, running Claude, Codex or Kimi on the user's own account.",
-          "mini_headline": "module.build keeps designers in charge",
+          "headline": "THEIA update turns drawings\ninto CAD-ready 3D models",
+          "body": "Spare Parts 3D's THEIA AI, which rebuilds 3D parts from 2D drawings, now delivers editable models in native CAD formats.",
+          "mini_headline": "THEIA turns drawings into 3D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Senior UI/UX Designer Bohdan Matviyev is tired of modern AI tools that try to replace a specialist, forcing work into the framework of chat and prompts instead of full control over elements. So he created his own editor, module.build, which combines design and development in a single space. He positions it as a personal environment where AI acts as an assistant, not an autopilot."
+                "x": "Deep tech company Spare Parts 3D (SP3D) announced that THEIA, its AI that automates the reconstruction of 2D industrial part drawings into 3D, now delivers 3D models compatible with the leading engineering software on the market."
               },
               {
                 "t": "p",
-                "x": "Users can combine models such as Claude, Codex and Kimi using their own subscriptions or APIs without internal service credits. Design canvas, co-creation board, presentations, 3D, animation and code share one environment with shared memory. Internal ADE and MCP tools read layouts, tokens and components directly from design files, with GitHub and Vercel integration; image generation runs on ComfyUI nodes."
+                "x": "THEIA can reconstruct a part in 3D from a 2D drawing when it’s scanned or hand-drawn, and the models can be delivered in native formats including but not limited to SolidWorks and Siemens NX."
               },
               {
                 "t": "p",
-                "x": "Matviyev said Figma limits MCP requests and the protocol sends the whole screen as context even for a small request; module.build passes only point information. Unlike Paper, it has no real-time collaboration yet, but avoids Paper's CSS limits and slowdowns on large files. The service is in closed alpha testing."
+                "x": "“A frozen 3D model is like a PDF: you can look at it, but you can’t change it. THEIA now delivers the equivalent of a Word document: a 3D model that engineers review, correct and approve directly in their usual software. They stay in control,” said CPO of SP3D Paul Guillaumot."
+              },
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Every model is checked against the original drawing, and if THEIA cannot guarantee the result, it flags it and the part is handed over to an engineer. Nearly 70% of models pass the check on all their dimensions from the very first reconstruction, and on parts of standard complexity, which account for more than 90% of the volume, engineering time is divided by three."
               }
             ]
           }
         },
         "ko": {
-          "headline": "module.build\nAI 주도권은 디자이너에게",
-          "body": "디자인·코드를 한 캔버스에 모으고 내 계정 Claude·Codex·Kimi를 쓴다.",
-          "mini_headline": "module.build, 디자이너가 AI를 쥔다",
+          "headline": "THEIA, 도면을\nCAD-ready 3D로",
+          "body": "Spare Parts 3D의 THEIA AI가 2D 도면을 편집형 CAD로 바꾼다.",
+          "mini_headline": "THEIA, 도면을 3D로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "시니어 UI/UX 디자이너 보흐단 마트비예우(Bohdan Matviyev)는 요즘 AI 도구에 지쳤다. 요소를 마음대로 다루게 해 주기는커녕 작업을 채팅과 프롬프트 틀에 가두고 전문가 자리까지 넘봐서다. 그래서 디자인과 개발을 한 공간에 합친 에디터 module.build를 직접 만들었다. AI가 자동조종 장치가 아니라 조수로 일하는 개인 작업 환경이라는 게 그의 설명이다."
+                "x": "딥테크 기업 Spare Parts 3D(SP3D)는 THEIA가 이제 시장의 주요 엔지니어링 소프트웨어와 호환되는 3D 모델을 내놓는다고 발표했다. THEIA는 2D 산업용 부품 도면을 3D로 재구성하는 작업을 자동화하는 AI다."
               },
               {
                 "t": "p",
-                "x": "서비스 내부 크레딧은 따로 없다. 사용자는 자신의 구독이나 APIs로 Claude, Codex, Kimi 같은 모델을 섞어 쓴다. 디자인 캔버스, 공동 창작 보드, 프레젠테이션, 3D, 애니메이션, 코드가 메모리를 공유하는 한 환경에 모여 있다. 내부 ADE와 MCP 도구가 디자인 파일의 레이아웃, 토큰, 컴포넌트를 직접 읽고 GitHub·Vercel과도 연결된다. 이미지 생성은 ComfyUI 노드로 돌린다."
+                "x": "스캔했거나 손으로 그린 2D 도면에서도 부품을 3D로 재구성한다. 모델은 SolidWorks와 Siemens NX를 비롯한(이에 한정되지 않는) 네이티브 형식으로 나온다."
               },
               {
                 "t": "p",
-                "x": "Matviyev는 Figma가 MCP 요청을 제한하고, 이 프로토콜이 작은 요청에도 화면 전체를 컨텍스트로 보낸다고 말했다. module.build는 필요한 지점의 정보만 넘긴다. Paper처럼 실시간 협업을 지원하지는 않지만 Paper의 CSS 제약이나 대용량 파일에서 느려지는 문제는 피했다. 지금은 비공개 알파 테스트 중이다."
+                "x": "“고정된 3D 모델은 PDF와 같습니다. 볼 수는 있지만 바꿀 수는 없습니다. THEIA는 이제 Word 문서에 해당하는 것, 즉 엔지니어가 평소 쓰는 소프트웨어에서 직접 검토하고 수정하고 승인하는 3D 모델을 제공합니다. 통제권은 엔지니어에게 있습니다.” SP3D의 CPO Paul Guillaumot의 말이다."
+              },
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "모든 모델은 원본 도면과 대조해 검증한다. THEIA가 결과를 장담할 수 없으면 이를 표시해 두고 해당 부품을 엔지니어에게 넘긴다. 첫 재구성에서 치수 검증을 모두 통과하는 모델이 70% 가까이다. 전체 물량의 90% 이상인 표준 복잡도 부품에서는 엔지니어링 시간이 삼분의 일로 준다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "module.build\nAIの主導権はデザイナーに",
-          "body": "デザインとコードを一画面に統合し、自前のClaude・Codex・Kimiで動く。",
-          "mini_headline": "module.build、主導権はデザイナーに",
+          "headline": "THEIAが図面を\nCAD-readyな3Dに",
+          "body": "Spare Parts 3DのTHEIA AIは2D図面を編集可能なCAD形式で出力する。",
+          "mini_headline": "THEIA、図面を3Dに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "シニアUI/UXデザイナーのボフダン・マトヴィエフ（Bohdan Matviyev）は、要素を完全にコントロールさせる代わりに、作業をチャットとプロンプトの枠に押し込めて専門家を置き換えようとする最近のAIツールにうんざりしていた。そこで、デザインと開発を一つの空間にまとめた独自のエディタ module.build を作った。彼はこれを、AIが自動操縦ではなくアシスタントとして働く個人向けの環境と位置づけている。"
+                "x": "ディープテック企業のSpare Parts 3D(SP3D)は、2Dの産業用部品図面から3Dへの再構築を自動化するAI「THEIA」が、市場の主要なエンジニアリングソフトと互換性のある3Dモデルを出力できるようになったと発表した。"
               },
               {
                 "t": "p",
-                "x": "ユーザーは、サービス内クレジットを使わず、自身のサブスクリプションやAPIsを使ってClaude、Codex、Kimiなどのモデルを組み合わせられる。デザインキャンバス、共同制作ボード、プレゼンテーション、3D、アニメーション、コードが、共有メモリを持つ一つの環境に同居する。内部のADEとMCPツールはデザインファイルからレイアウト、トークン、コンポーネントを直接読み取り、GitHubやVercelと連携する。画像生成はComfyUIのノードで動く。"
+                "x": "THEIAはスキャンした図面や手描きの2D図面からも部品を3Dで再構築でき、モデルはSolidWorksやSiemens NXをはじめとするネイティブ形式で提供できる。"
               },
               {
                 "t": "p",
-                "x": "Matviyevによると、FigmaはMCPのリクエストを制限しており、このプロトコルは小さなリクエストでも画面全体をコンテキストとして送るが、module.buildはポイントの情報だけを渡す。Paperと違ってリアルタイム共同編集はまだないものの、PaperのCSSの制約や大きなファイルでの動作の重さは避けている。サービスはクローズドアルファテスト中だ。"
+                "x": "「固定された3DモデルはPDFのようなものだ。見ることはできても変更はできない。THEIAはいま、Word文書に相当するもの、つまりエンジニアが普段使うソフトで直接確認し、修正し、承認できる3Dモデルを提供する。主導権はエンジニアにある」と、SP3DのCPOであるPaul Guillaumot氏は述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "すべてのモデルは元の図面と照合され、THEIAが結果を保証できない場合はフラグを立て、部品をエンジニアに引き渡す。約70%のモデルが最初の再構築で全寸法のチェックを通過し、全体量の90%超を占める標準的な複雑さの部品では、エンジニアリング時間が三分の一になる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "module.build\n让设计师掌控AI",
-          "body": "该编辑器将设计与代码合于一块画布，用自有账号运行Claude、Codex或Kimi。",
-          "mini_headline": "module.build让设计师掌控AI",
+          "headline": "THEIA更新：图纸\n转成CAD-ready 3D",
+          "body": "Spare Parts 3D的THEIA AI可将2D图纸转为可编辑的CAD格式3D模型。",
+          "mini_headline": "THEIA将图纸转为3D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "资深UI/UX设计师Bohdan Matviyev厌倦了当下那些试图取代专业人士的AI工具——它们把工作塞进聊天和提示词的框架，而不是让人完全掌控各个元素。于是他自己打造了编辑器module.build，将设计与开发整合到同一空间。他将其定位为一个个人环境，AI在其中充当助手，而非自动驾驶。"
+                "x": "深科技公司Spare Parts 3D(SP3D)宣布，其将2D工业零件图纸自动重建为3D的AI工具THEIA，现在可输出与市面主流工程软件兼容的3D模型。"
               },
               {
                 "t": "p",
-                "x": "用户可使用自己的订阅或APIs组合Claude、Codex、Kimi等模型，无需服务内部积分。设计画布、共创白板、演示文稿、3D、动画和代码共处于一个拥有共享记忆的环境。内部的ADE和MCP工具直接从设计文件读取布局、令牌和组件，并与GitHub和Vercel集成；图像生成基于ComfyUI节点运行。"
+                "x": "无论2D图纸是扫描件还是手绘稿，THEIA都能据此将零件重建为3D，模型可以SolidWorks、Siemens NX等原生格式交付，但不限于这些格式。"
               },
               {
                 "t": "p",
-                "x": "Matviyev表示，Figma限制MCP请求，而且该协议即使面对很小的请求也会把整个屏幕作为上下文发送；module.build只传递所需的点位信息。与Paper不同，它目前还没有实时协作功能，但避开了Paper的CSS限制以及大文件下的卡顿。该服务正处于封闭内测阶段。"
+                "x": "“冻结的3D模型就像一份PDF：你可以查看，却无法修改。THEIA现在交付的相当于一份Word文档：工程师可以在常用软件中直接审阅、修改并批准的3D模型。主导权仍在他们手中，”SP3D首席产品官(CPO)Paul Guillaumot表示。"
+              },
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "每个模型都会与原始图纸核对；若THEIA无法保证结果，就会标记出来，并将该零件交给工程师处理。近70%的模型在首次重建时即可通过全部尺寸检查；在占总量90%以上的标准复杂度零件上，工程时间缩短为原来的三分之一。"
               }
             ]
           }
         },
         "es": {
-          "headline": "module.build deja la AI\nen manos del diseñador",
-          "body": "El editor en alfa cerrada une diseño y código en un lienzo y usa Claude, Codex o Kimi con la cuenta del usuario.",
-          "mini_headline": "module.build da el control al diseñador",
+          "headline": "THEIA convierte planos en\nmodelos 3D CAD-ready",
+          "body": "THEIA AI, de Spare Parts 3D, pasa planos 2D a piezas 3D y ya entrega modelos editables en formatos CAD nativos.",
+          "mini_headline": "THEIA convierte planos en 3D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "El diseñador sénior de UI/UX Bohdan Matviyev está cansado de las herramientas de AI actuales que intentan sustituir al especialista y encierran el trabajo en el marco del chat y los prompts en lugar de ofrecer control total sobre los elementos. Por eso creó su propio editor, module.build, que combina diseño y desarrollo en un solo espacio. Lo presenta como un entorno personal donde la AI actúa como asistente, no como piloto automático."
+                "x": "La empresa deep tech Spare Parts 3D (SP3D) anunció que THEIA, su AI que automatiza la reconstrucción en 3D de planos 2D de piezas industriales, ahora entrega modelos 3D compatibles con los principales programas de ingeniería del mercado."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden combinar modelos como Claude, Codex y Kimi con sus propias suscripciones o APIs, sin créditos internos del servicio. El lienzo de diseño, el tablero de cocreación, las presentaciones, el 3D, la animación y el código comparten un mismo entorno con memoria compartida. Las herramientas internas ADE y MCP leen maquetaciones, tokens y componentes directamente de los archivos de diseño, con integración con GitHub y Vercel; la generación de imágenes funciona con nodos de ComfyUI."
+                "x": "THEIA puede reconstruir una pieza en 3D a partir de un plano 2D escaneado o dibujado a mano, y los modelos pueden entregarse en formatos nativos como SolidWorks y Siemens NX, entre otros."
               },
               {
                 "t": "p",
-                "x": "Matviyev afirmó que Figma limita las solicitudes MCP y que el protocolo envía toda la pantalla como contexto incluso para una solicitud pequeña; module.build solo transmite la información puntual. A diferencia de Paper, aún no tiene colaboración en tiempo real, pero evita los límites de CSS de Paper y las ralentizaciones con archivos grandes. El servicio está en pruebas alfa cerradas."
+                "x": "“Un modelo 3D congelado es como un PDF: puedes mirarlo, pero no puedes cambiarlo. THEIA ahora entrega el equivalente a un documento de Word: un modelo 3D que los ingenieros revisan, corrigen y aprueban directamente en su software habitual. Ellos mantienen el control”, dijo Paul Guillaumot, CPO de SP3D."
+              },
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Cada modelo se coteja con el plano original y, si THEIA no puede garantizar el resultado, lo señala y la pieza pasa a un ingeniero. Casi el 70% de los modelos supera la verificación de todas sus dimensiones desde la primera reconstrucción, y en piezas de complejidad estándar, que suponen más del 90% del volumen, el tiempo de ingeniería se divide por tres."
               }
             ]
           }
@@ -893,105 +863,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "module.build\nAI 주도권은 디자이너에게",
-          "body": "디자인·코드를 한 캔버스에 담고 내 계정 Claude·Codex·Kimi를 쓴다.",
-          "mini_headline": "module.build, 디자이너가 AI를 쥔다",
+          "headline": "THEIA, 도면을\nCAD-ready 3D로",
+          "body": "Spare Parts 3D의 THEIA AI가 2D 도면을 편집형 CAD로 낸다.",
+          "mini_headline": "THEIA, 도면을 3D로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "시니어 UI/UX 디자이너 보흐단 마트비예우(Bohdan Matviyev)는 요소를 온전히 통제하게 해 주는 대신 작업을 채팅과 프롬프트의 틀에 가두며 전문가를 대체하려는 요즘 AI 도구에 지쳤다. 그래서 디자인과 개발을 한 공간에 합친 에디터 module.build를 직접 만들었다. 그는 이를 AI가 자동조종 장치가 아니라 조수로 일하는 개인 작업 환경으로 내세운다."
+                "x": "딥테크 기업 Spare Parts 3D(SP3D)는 2D 산업용 부품 도면을 3D로 재구성하는 작업을 자동화하는 AI인 THEIA가 이제 시장의 주요 엔지니어링 소프트웨어와 호환되는 3D 모델을 제공한다고 발표했다."
               },
               {
                 "t": "p",
-                "x": "사용자는 서비스 내부 크레딧 없이 자신의 구독이나 APIs로 Claude, Codex, Kimi 같은 모델을 조합해 쓸 수 있다. 디자인 캔버스, 공동 창작 보드, 프레젠테이션, 3D, 애니메이션, 코드가 공유 메모리를 갖춘 하나의 환경에 모여 있다. 내부 ADE와 MCP 도구는 디자인 파일에서 레이아웃, 토큰, 컴포넌트를 직접 읽고 GitHub·Vercel과 연동되며, 이미지 생성은 ComfyUI 노드로 돌아간다."
+                "x": "THEIA는 스캔했거나 손으로 그린 2D 도면에서도 부품을 3D로 재구성할 수 있으며, 모델은 SolidWorks와 Siemens NX를 비롯한(이에 한정되지 않는) 네이티브 형식으로 제공된다."
               },
               {
                 "t": "p",
-                "x": "Matviyev는 Figma가 MCP 요청을 제한하고, 이 프로토콜은 작은 요청에도 화면 전체를 컨텍스트로 보낸다고 말했다. module.build는 필요한 지점의 정보만 넘긴다. Paper와 달리 아직 실시간 협업 기능은 없지만, Paper의 CSS 제약과 대용량 파일에서의 속도 저하는 피했다. 서비스는 비공개 알파 테스트 중이다."
+                "x": "“고정된 3D 모델은 PDF와 같습니다. 볼 수는 있지만 바꿀 수는 없습니다. THEIA는 이제 Word 문서에 해당하는 것, 즉 엔지니어가 평소 쓰는 소프트웨어에서 직접 검토하고 수정하고 승인하는 3D 모델을 제공합니다. 통제권은 엔지니어에게 있습니다.” SP3D의 CPO Paul Guillaumot의 말이다."
+              },
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "모든 모델은 원본 도면과 대조해 검증하며, THEIA가 결과를 보장할 수 없으면 이를 표시하고 해당 부품을 엔지니어에게 넘긴다. 첫 재구성에서 모든 치수 검증을 통과하는 모델이 70% 가까이 되며, 전체 물량의 90% 이상을 차지하는 표준 복잡도 부품에서는 엔지니어링 시간이 삼분의 일로 줄어든다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "module.build\nAIの主導権はデザイナーに",
-          "body": "デザインとコードを一画面に統合し、自前のClaude・Codex・Kimiで動く。",
-          "mini_headline": "module.build、主導権はデザイナーに",
+          "headline": "THEIAが図面を\nCAD-readyな3Dに",
+          "body": "Spare Parts 3DのTHEIA AIは2D図面を編集可能なCAD形式で出力する。",
+          "mini_headline": "THEIA、図面を3Dに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "シニアUI/UXデザイナーのボフダン・マトヴィエフ（Bohdan Matviyev）は、要素を完全にコントロールさせる代わりに、作業をチャットとプロンプトの枠に押し込めて専門家を置き換えようとする最近のAIツールにうんざりしていた。そこで、デザインと開発を一つの空間にまとめた独自のエディタ module.build を作った。彼はこれを、AIが自動操縦ではなくアシスタントとして働く個人向けの環境と位置づけている。"
+                "x": "ディープテック企業のSpare Parts 3D(SP3D)は、2Dの産業用部品図面から3Dへの再構築を自動化するAI「THEIA」が、市場の主要なエンジニアリングソフトと互換性のある3Dモデルを出力できるようになったと発表した。"
               },
               {
                 "t": "p",
-                "x": "ユーザーは、サービス内クレジットを使わず、自身のサブスクリプションやAPIsを使ってClaude、Codex、Kimiなどのモデルを組み合わせられる。デザインキャンバス、共同制作ボード、プレゼンテーション、3D、アニメーション、コードが、共有メモリを持つ一つの環境に同居する。内部のADEとMCPツールはデザインファイルからレイアウト、トークン、コンポーネントを直接読み取り、GitHubやVercelと連携する。画像生成はComfyUIのノードで動く。"
+                "x": "THEIAはスキャンした図面や手描きの2D図面からも部品を3Dで再構築でき、モデルはSolidWorksやSiemens NXをはじめとするネイティブ形式で提供できる。"
               },
               {
                 "t": "p",
-                "x": "Matviyevによると、FigmaはMCPのリクエストを制限しており、このプロトコルは小さなリクエストでも画面全体をコンテキストとして送るが、module.buildはポイントの情報だけを渡す。Paperと違ってリアルタイム共同編集はまだないものの、PaperのCSSの制約や大きなファイルでの動作の重さは避けている。サービスはクローズドアルファテスト中だ。"
+                "x": "「固定された3DモデルはPDFのようなものだ。見ることはできても変更はできない。THEIAはいま、Word文書に相当するもの、つまりエンジニアが普段使うソフトで直接確認し、修正し、承認できる3Dモデルを提供する。主導権はエンジニアにある」と、SP3DのCPOであるPaul Guillaumot氏は述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "すべてのモデルは元の図面と照合され、THEIAが結果を保証できない場合はフラグを立て、部品をエンジニアに引き渡す。約70%のモデルが最初の再構築で全寸法のチェックを通過し、全体量の90%超を占める標準的な複雑さの部品では、エンジニアリング時間が三分の一になる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "module.build\n让设计师掌控AI",
-          "body": "该编辑器将设计与代码合于一块画布，用自有账号运行Claude、Codex或Kimi。",
-          "mini_headline": "module.build让设计师掌控AI",
+          "headline": "THEIA更新：图纸\n转成CAD-ready 3D",
+          "body": "Spare Parts 3D的THEIA AI可将2D图纸转为可编辑的CAD格式3D模型。",
+          "mini_headline": "THEIA将图纸转为3D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "资深UI/UX设计师Bohdan Matviyev厌倦了当下那些试图取代专业人士的AI工具——它们把工作塞进聊天和提示词的框架，而不是让人完全掌控各个元素。于是他自己打造了编辑器module.build，将设计与开发整合到同一空间。他将其定位为一个个人环境，AI在其中充当助手，而非自动驾驶。"
+                "x": "深科技公司Spare Parts 3D(SP3D)宣布，其将2D工业零件图纸自动重建为3D的AI工具THEIA，现在可输出与市面主流工程软件兼容的3D模型。"
               },
               {
                 "t": "p",
-                "x": "用户可使用自己的订阅或APIs组合Claude、Codex、Kimi等模型，无需服务内部积分。设计画布、共创白板、演示文稿、3D、动画和代码共处于一个拥有共享记忆的环境。内部的ADE和MCP工具直接从设计文件读取布局、令牌和组件，并与GitHub和Vercel集成；图像生成基于ComfyUI节点运行。"
+                "x": "无论2D图纸是扫描件还是手绘稿，THEIA都能据此将零件重建为3D，模型可以SolidWorks、Siemens NX等原生格式交付，但不限于这些格式。"
               },
               {
                 "t": "p",
-                "x": "Matviyev表示，Figma限制MCP请求，而且该协议即使面对很小的请求也会把整个屏幕作为上下文发送；module.build只传递所需的点位信息。与Paper不同，它目前还没有实时协作功能，但避开了Paper的CSS限制以及大文件下的卡顿。该服务正处于封闭内测阶段。"
+                "x": "“冻结的3D模型就像一份PDF：你可以查看，却无法修改。THEIA现在交付的相当于一份Word文档：工程师可以在常用软件中直接审阅、修改并批准的3D模型。主导权仍在他们手中，”SP3D首席产品官(CPO)Paul Guillaumot表示。"
+              },
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "每个模型都会与原始图纸核对；若THEIA无法保证结果，就会标记出来，并将该零件交给工程师处理。近70%的模型在首次重建时即可通过全部尺寸检查；在占总量90%以上的标准复杂度零件上，工程时间缩短为原来的三分之一。"
               }
             ]
           }
         },
         "es": {
-          "headline": "module.build deja la AI\nen manos del diseñador",
-          "body": "El editor en alfa cerrada une diseño y código en un lienzo y usa Claude, Codex o Kimi con la cuenta del usuario.",
-          "mini_headline": "module.build da el control al diseñador",
+          "headline": "THEIA convierte planos en\nmodelos 3D CAD-ready",
+          "body": "THEIA AI, de Spare Parts 3D, pasa planos 2D a piezas 3D y ya entrega modelos editables en formatos CAD nativos.",
+          "mini_headline": "THEIA convierte planos en 3D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dev.ua/storage/images/12/76/04/30/derived/cc32796c7d274c4235c1cd288af880fd.webp"
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "El diseñador sénior de UI/UX Bohdan Matviyev está cansado de las herramientas de AI actuales que intentan sustituir al especialista y encierran el trabajo en el marco del chat y los prompts en lugar de ofrecer control total sobre los elementos. Por eso creó su propio editor, module.build, que combina diseño y desarrollo en un solo espacio. Lo presenta como un entorno personal donde la AI actúa como asistente, no como piloto automático."
+                "x": "La empresa deep tech Spare Parts 3D (SP3D) anunció que THEIA, su AI que automatiza la reconstrucción en 3D de planos 2D de piezas industriales, ahora entrega modelos 3D compatibles con los principales programas de ingeniería del mercado."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden combinar modelos como Claude, Codex y Kimi con sus propias suscripciones o APIs, sin créditos internos del servicio. El lienzo de diseño, el tablero de cocreación, las presentaciones, el 3D, la animación y el código comparten un mismo entorno con memoria compartida. Las herramientas internas ADE y MCP leen maquetaciones, tokens y componentes directamente de los archivos de diseño, con integración con GitHub y Vercel; la generación de imágenes funciona con nodos de ComfyUI."
+                "x": "THEIA puede reconstruir una pieza en 3D a partir de un plano 2D escaneado o dibujado a mano, y los modelos pueden entregarse en formatos nativos como SolidWorks y Siemens NX, entre otros."
               },
               {
                 "t": "p",
-                "x": "Matviyev afirmó que Figma limita las solicitudes MCP y que el protocolo envía toda la pantalla como contexto incluso para una solicitud pequeña; module.build solo transmite la información puntual. A diferencia de Paper, aún no tiene colaboración en tiempo real, pero evita los límites de CSS de Paper y las ralentizaciones con archivos grandes. El servicio está en pruebas alfa cerradas."
+                "x": "“Un modelo 3D congelado es como un PDF: puedes mirarlo, pero no puedes cambiarlo. THEIA ahora entrega el equivalente a un documento de Word: un modelo 3D que los ingenieros revisan, corrigen y aprueban directamente en su software habitual. Ellos mantienen el control”, dijo Paul Guillaumot, CPO de SP3D."
+              },
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Cada modelo se coteja con el plano original y, si THEIA no puede garantizar el resultado, lo señala y la pieza pasa a un ingeniero. Casi el 70% de los modelos supera la verificación de todas sus dimensiones desde la primera reconstrucción, y en piezas de complejidad estándar, que suponen más del 90% del volumen, el tiempo de ingeniería se divide por tres."
               }
             ]
           }
@@ -999,617 +1009,249 @@
       }
     },
     {
-      "id": "midjourney-niji-v8",
+      "id": "uxc-solo-designer-ai-workflows",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Midjourney\n애니풍 Niji V8 공개",
-      "body": "시리즈 최고 속도에 프롬프트를 더 잘 따르고 참조 캐릭터를 새 장면에 넣는다.",
-      "mini_headline": "Midjourney, Niji V8 출시",
-      "tool": "KeyShot",
-      "source": "ASCII.jp",
-      "url": "https://ascii.jp/en/elem/000/004/454/4454596/",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
-          },
-          {
-            "t": "p",
-            "x": "Midjourney가 일본 시간 11월 25일 애니메이션풍 이미지 생성 모델 “Niji V8”을 발표했다. 프롬프트를 더 충실히 따르고 캐릭터 일관성을 지키는 편집 기능도 갖췄다. Discord에서 프롬프트 끝에 “--niji 8”을 붙이거나 버전 설정에서 “Niji 8”을 고르면 된다."
-          },
-          {
-            "t": "p",
-            "x": "Niji는 애니메이션풍 캐릭터와 장면 제작에 특화한 이미지 생성 모델이다. Niji 8은 Niji 7의 미적 표현에 Niji 6의 다양성을 더했다. 같은 프롬프트로 비슷한 캐릭터만 반복해 뽑기보다 후보를 폭넓게 내놓는 데 무게를 뒀다. 생성 속도는 시리즈 사상 가장 빠르고 이미지 구도와 요소의 일관성도 강해졌다."
-          },
-          {
-            "t": "p",
-            "x": "마음에 드는 캐릭터를 다른 장면에 쓰고 싶다면 생성 이미지 편집 기능을 쓰면 된다. 캐릭터 참조 이미지와 배경 이미지를 지정하고, 캐릭터를 다른 장소나 포즈로 그려 달라고 AI에게 지시하는 식이다."
-          },
-          {
-            "t": "img",
-            "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
-          },
-          {
-            "t": "img",
-            "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
-          },
-          {
-            "t": "img",
-            "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Midjourney releases Niji V8\nfor anime illustration",
-          "body": "The fastest Niji model yet follows prompts more closely and can drop a reference character into new scenes or poses.",
-          "mini_headline": "Midjourney ships Niji V8",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
-              },
-              {
-                "t": "p",
-                "x": "Midjourney announced \"Niji V8,\" an anime-style image generation model, on November 25th, Japan time. It features improved adherence to prompts and editing functions that maintain character consistency. Users can access it by adding \"--niji 8\" to the end of their prompts on Discord or by selecting \"Niji 8\" in the version settings."
-              },
-              {
-                "t": "p",
-                "x": "Niji is an image generation model specializing in creating anime-style characters and scenes. Niji 8 combines the aesthetic expression of Niji 7 with the diversity of Niji 6, prioritizing a wider range of candidates from the same prompt rather than repeatedly generating similar characters. It boasts the fastest generation speed in the series' history and enhanced consistency in image composition and elements."
-              },
-              {
-                "t": "p",
-                "x": "To use a favorite character in different scenes, users can leverage the editing features for generated images. This allows specifying a reference image for the character and a background image, then instructing the AI to depict the character in a different location or pose."
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Midjourney\n애니풍 Niji V8 공개",
-          "body": "시리즈 최고 속도에 프롬프트를 더 잘 따르고 참조 캐릭터를 새 장면에 넣는다.",
-          "mini_headline": "Midjourney, Niji V8 출시",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
-              },
-              {
-                "t": "p",
-                "x": "Midjourney가 일본 시간 11월 25일 애니메이션풍 이미지 생성 모델 “Niji V8”을 발표했다. 프롬프트를 더 충실히 따르고 캐릭터 일관성을 지키는 편집 기능도 갖췄다. Discord에서 프롬프트 끝에 “--niji 8”을 붙이거나 버전 설정에서 “Niji 8”을 고르면 된다."
-              },
-              {
-                "t": "p",
-                "x": "Niji는 애니메이션풍 캐릭터와 장면 제작에 특화한 이미지 생성 모델이다. Niji 8은 Niji 7의 미적 표현에 Niji 6의 다양성을 더했다. 같은 프롬프트로 비슷한 캐릭터만 반복해 뽑기보다 후보를 폭넓게 내놓는 데 무게를 뒀다. 생성 속도는 시리즈 사상 가장 빠르고 이미지 구도와 요소의 일관성도 강해졌다."
-              },
-              {
-                "t": "p",
-                "x": "마음에 드는 캐릭터를 다른 장면에 쓰고 싶다면 생성 이미지 편집 기능을 쓰면 된다. 캐릭터 참조 이미지와 배경 이미지를 지정하고, 캐릭터를 다른 장소나 포즈로 그려 달라고 AI에게 지시하는 식이다."
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Midjourneyが公開\nアニメ向けNiji V8",
-          "body": "シリーズ最速のNijiは、プロンプトへの忠実さが増し、参照キャラを新たな場面に置ける。",
-          "mini_headline": "Midjourney、Niji V8を公開",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
-              },
-              {
-                "t": "p",
-                "x": "Midjourneyは日本時間11月25日、アニメ調の画像生成モデル「Niji V8」を発表した。プロンプトへの忠実度が向上し、キャラクターの一貫性を保つ編集機能を備える。Discordでプロンプトの末尾に「--niji 8」を付けるか、バージョン設定で「Niji 8」を選ぶと利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "Nijiは、アニメ調のキャラクターやシーンの生成に特化した画像生成モデルだ。Niji 8はNiji 7の美的表現とNiji 6の多様性を組み合わせ、同じプロンプトから似たキャラクターを繰り返し生成するよりも、幅広い候補を出すことを優先する。シリーズ史上最速の生成速度を誇り、画像の構図や要素の一貫性も高めた。"
-              },
-              {
-                "t": "p",
-                "x": "お気に入りのキャラクターを別のシーンで使うには、生成画像の編集機能を活用できる。キャラクターの参照画像と背景画像を指定し、AIにキャラクターを別の場所やポーズで描くよう指示できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Midjourney发布\n动漫插画模型Niji V8",
-          "body": "这是迄今最快的Niji模型，更贴合提示词，还能把参考角色放进新场景或新姿势。",
-          "mini_headline": "Midjourney推出Niji V8",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
-              },
-              {
-                "t": "p",
-                "x": "Midjourney于日本时间11月25日发布动漫风格图像生成模型“Niji V8”。它提升了对提示词的遵循度，并具备保持角色一致性的编辑功能。用户可在Discord中于提示词末尾添加“--niji 8”，或在版本设置中选择“Niji 8”来使用。"
-              },
-              {
-                "t": "p",
-                "x": "Niji是专门生成动漫风格角色和场景的图像生成模型。Niji 8融合了Niji 7的审美表现与Niji 6的多样性，优先从同一提示词生成更丰富的候选结果，而不是反复生成相似角色。它的生成速度为该系列史上最快，图像构图与元素的一致性也有所增强。"
-              },
-              {
-                "t": "p",
-                "x": "若想在不同场景中使用喜爱的角色，可借助针对生成图像的编辑功能：指定角色参考图和背景图后，指示AI将角色描绘在不同地点或姿势中。"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Midjourney lanza Niji V8\npara ilustración de anime",
-          "body": "El Niji más rápido hasta ahora sigue mejor los prompts y coloca un personaje de referencia en nuevas escenas.",
-          "mini_headline": "Midjourney lanza Niji V8",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
-              },
-              {
-                "t": "p",
-                "x": "Midjourney anunció \"Niji V8\", un modelo de generación de imágenes de estilo anime, el 25 de noviembre, hora de Japón. Ofrece mayor fidelidad a los prompts y funciones de edición que mantienen la coherencia de los personajes. Se puede usar añadiendo \"--niji 8\" al final del prompt en Discord o seleccionando \"Niji 8\" en los ajustes de versión."
-              },
-              {
-                "t": "p",
-                "x": "Niji es un modelo de generación de imágenes especializado en crear personajes y escenas de estilo anime. Niji 8 combina la expresión estética de Niji 7 con la diversidad de Niji 6 y prioriza una gama más amplia de candidatos a partir del mismo prompt en lugar de generar repetidamente personajes similares. Ofrece la mayor velocidad de generación de la historia de la serie y una mayor coherencia en la composición y los elementos de la imagen."
-              },
-              {
-                "t": "p",
-                "x": "Para usar un personaje favorito en escenas distintas, se pueden aprovechar las funciones de edición de imágenes generadas. Permiten indicar una imagen de referencia del personaje y una imagen de fondo, y luego pedir a la AI que represente al personaje en otro lugar o pose."
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Midjourney\n애니풍 Niji V8 공개",
-          "body": "가장 빠른 Niji로, 프롬프트를 더 잘 따르고 참조 캐릭터를 새 장면에 넣는다.",
-          "mini_headline": "Midjourney, Niji V8 출시",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
-              },
-              {
-                "t": "p",
-                "x": "Midjourney는 일본 시간 11월 25일 애니메이션풍 이미지 생성 모델 “Niji V8”을 발표했다. 프롬프트를 더 충실히 따르고, 캐릭터 일관성을 유지하는 편집 기능을 갖췄다. Discord에서 프롬프트 끝에 “--niji 8”을 붙이거나 버전 설정에서 “Niji 8”을 고르면 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Niji는 애니메이션풍 캐릭터와 장면 제작에 특화한 이미지 생성 모델이다. Niji 8은 Niji 7의 미적 표현과 Niji 6의 다양성을 결합해, 같은 프롬프트로 비슷한 캐릭터를 반복해 만들기보다 더 폭넓은 후보를 내는 데 무게를 뒀다. 시리즈 사상 가장 빠른 생성 속도를 내며, 이미지 구도와 요소의 일관성도 강화했다."
-              },
-              {
-                "t": "p",
-                "x": "마음에 드는 캐릭터를 다른 장면에 쓰려면 생성 이미지 편집 기능을 활용하면 된다. 캐릭터 참조 이미지와 배경 이미지를 지정한 뒤, AI에게 캐릭터를 다른 장소나 포즈로 그리도록 지시할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Midjourneyが公開\nアニメ向けNiji V8",
-          "body": "シリーズ最速のNijiは、プロンプトへの忠実さが増し、参照キャラを新たな場面に置ける。",
-          "mini_headline": "Midjourney、Niji V8を公開",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
-              },
-              {
-                "t": "p",
-                "x": "Midjourneyは日本時間11月25日、アニメ調の画像生成モデル「Niji V8」を発表した。プロンプトへの忠実度が向上し、キャラクターの一貫性を保つ編集機能を備える。Discordでプロンプトの末尾に「--niji 8」を付けるか、バージョン設定で「Niji 8」を選ぶと利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "Nijiは、アニメ調のキャラクターやシーンの生成に特化した画像生成モデルだ。Niji 8はNiji 7の美的表現とNiji 6の多様性を組み合わせ、同じプロンプトから似たキャラクターを繰り返し生成するよりも、幅広い候補を出すことを優先する。シリーズ史上最速の生成速度を誇り、画像の構図や要素の一貫性も高めた。"
-              },
-              {
-                "t": "p",
-                "x": "お気に入りのキャラクターを別のシーンで使うには、生成画像の編集機能を活用できる。キャラクターの参照画像と背景画像を指定し、AIにキャラクターを別の場所やポーズで描くよう指示できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Midjourney发布\n动漫插画模型Niji V8",
-          "body": "这是迄今最快的Niji模型，更贴合提示词，还能把参考角色放进新场景或新姿势。",
-          "mini_headline": "Midjourney推出Niji V8",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
-              },
-              {
-                "t": "p",
-                "x": "Midjourney于日本时间11月25日发布动漫风格图像生成模型“Niji V8”。它提升了对提示词的遵循度，并具备保持角色一致性的编辑功能。用户可在Discord中于提示词末尾添加“--niji 8”，或在版本设置中选择“Niji 8”来使用。"
-              },
-              {
-                "t": "p",
-                "x": "Niji是专门生成动漫风格角色和场景的图像生成模型。Niji 8融合了Niji 7的审美表现与Niji 6的多样性，优先从同一提示词生成更丰富的候选结果，而不是反复生成相似角色。它的生成速度为该系列史上最快，图像构图与元素的一致性也有所增强。"
-              },
-              {
-                "t": "p",
-                "x": "若想在不同场景中使用喜爱的角色，可借助针对生成图像的编辑功能：指定角色参考图和背景图后，指示AI将角色描绘在不同地点或姿势中。"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Midjourney lanza Niji V8\npara ilustración de anime",
-          "body": "El Niji más rápido hasta ahora sigue mejor los prompts y coloca un personaje de referencia en nuevas escenas.",
-          "mini_headline": "Midjourney lanza Niji V8",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556493/x/22165066749850cb.png"
-              },
-              {
-                "t": "p",
-                "x": "Midjourney anunció \"Niji V8\", un modelo de generación de imágenes de estilo anime, el 25 de noviembre, hora de Japón. Ofrece mayor fidelidad a los prompts y funciones de edición que mantienen la coherencia de los personajes. Se puede usar añadiendo \"--niji 8\" al final del prompt en Discord o seleccionando \"Niji 8\" en los ajustes de versión."
-              },
-              {
-                "t": "p",
-                "x": "Niji es un modelo de generación de imágenes especializado en crear personajes y escenas de estilo anime. Niji 8 combina la expresión estética de Niji 7 con la diversidad de Niji 6 y prioriza una gama más amplia de candidatos a partir del mismo prompt en lugar de generar repetidamente personajes similares. Ofrece la mayor velocidad de generación de la historia de la serie y una mayor coherencia en la composición y los elementos de la imagen."
-              },
-              {
-                "t": "p",
-                "x": "Para usar un personaje favorito en escenas distintas, se pueden aprovechar las funciones de edición de imágenes generadas. Permiten indicar una imagen de referencia del personaje y una imagen de fondo, y luego pedir a la AI que represente al personaje en otro lugar o pose."
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556498/x/1369d2ba49b89787.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556499/x/c524818fd4e59d89.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://ascii.jp/img/2026/11/25/4556500/x/c7181296d48e9b5c.jpg"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "seoul-biennale-ratti-ai",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Carlo Ratti의\n서울비엔날레 AI 큐레이터",
-      "body": "Ratti가 AI 조수와 2027 서울비엔날레를 맡아 다음달 8일 주제를 공개한다.",
-      "mini_headline": "Ratti의 AI-curated 서울비엔날레",
+      "headline": "디자이너 혼자 회사 전체\n살아남은 AI 워크플로",
+      "body": "30명 넘는 팀을 떠나 홀로 선 디자이너가 B2B 스케일업의 AI 성패를 전한다.",
+      "mini_headline": "혼자 일하는 디자이너의 AI 워크플로",
       "tool": "AI Workflow",
-      "source": "Dezeen",
-      "url": "https://www.dezeen.com/2026/11/26/carlo-ratti-seoul-biennale/",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/how-do-i-use-ai-as-a-solo-designer-956a3954614e",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
-            "cap": "베네치아 건축 비엔날레 큐레이터 Carlo Ratti"
+            "t": "p",
+            "x": "30명이 넘는 디자인 팀에서 여섯 해를 보낸 필자는 1월 B2B 이커머스 스케일업의 유일한 UXer가 됐다. 혼자가 된 뒤 AI 도구를 다시 들여다보며 효과가 있었던 것과 다소 실패한 것을 가렸다."
           },
           {
             "t": "p",
-            "x": "이탈리아 건축가 Carlo Ratti(카를로 라티)가 내년 서울도시건축비엔날레 큐레이터로 선임됐다. 그는 “관습에서 벗어난, AI 기반(AI-based)” 방식으로 행사를 꾸릴 계획이다. 2027년 9월 24일 개막하는 이번 비엔날레에서 Ratti는 오늘날 큐레이터가 어떤 역할을 하는지 묻는다. 행사 제목과 주제, 전체 큐레이터 팀은 12월 8일에야 공개된다."
-          },
-          {
-            "t": "p",
-            "x": "AI 어시스턴트를 앞세워 큐레이터를 돕는 새 도구를 보여 주고, 전시를 만드는 전통 방식에 도전한다는 구상이다."
+            "x": "Claude Code로 하는 프로토타이핑은 “위험할 정도로 잘” 통한다. 종이와 Figma에 그린 스케치가 로컬에서 돌아가는 프로토타입, 대개 단일 .html 파일이 된다. 이를 Figma Make를 거쳐 비공개 허브에 올린다. 제대로 작동하는 프로토타입 덕에 참가자가 여러 경로를 시도할 수 있어 사용성 테스트도 나아졌다."
           },
           {
             "t": "img",
-            "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
-            "cap": "Carlo Ratti(오른쪽)를 임명한 오세훈(Oh Se Hoon) 서울시장(왼쪽)"
+            "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+            "cap": "Excel의 드래그 채우기를 넣는 데 몇 분과 프롬프트 두어 개면 충분했다."
           },
           {
             "t": "p",
-            "x": "그는 “서울은 인공지능과 시민의 집단 지성이 어떻게 함께 도시를 만들어 갈지 묻기에 세계에서 가장 좋은 곳일지 모른다”며 “곧 열릴 프리 비엔날레 행사에서 함께할 사람들을 소개하기 시작할 텐데, 몇 가지 깜짝 놀랄 일이 있을 것이다. 보조 큐레이터 한 명은 심지어 인간이 아니다!”라고 말했다."
+            "x": "리서치 종합에서는 Gemini가 개별 인터뷰를 요약하지만 주제 도출은 필자가 직접 한다. AI가 통째로 만든(AI-made) 인사이트는 뉘앙스를 놓쳤다. 그래서 AI는 “슈퍼 텍스트 에디터”로 다룬다."
           },
           {
             "t": "p",
-            "x": "Carlo Ratti Associati 대표이자 MIT 교수인 Ratti는 2025년 행사를 맡았던 Thomas Heatherwick(토머스 헤더윅)의 뒤를 잇는다. 앞서 ‘Intelligens. Natural. Artificial. Collective.’를 주제로 내건 2025 베네치아 건축 비엔날레를 큐레이팅하기도 했다."
+            "x": "Figma Make, Figma 안의 Claude Code, Claude Design, Google Stitch가 내놓은 새 시각 방향은 “그저 그랬다”. 새 방향으로 밀고 나갈 만큼 탄탄한 결과는 없었다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+            "cap": "여러 결과물에서 모은 흥미로운 조각들."
+          },
+          {
+            "t": "p",
+            "x": "비즈니스와 가이드라인, 사용자 페인 포인트를 아는 저장소 안 UX 피드백 스킬은 잘 작동해 시범 운영 중이다. Atlassian의 Rovo 에이전트는 맥락 수집을 거든다. 결론은 “전반적으로 유용하지만, 추가 디자이너는 분명 아니다. 적어도 아직은.”이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Carlo Ratti brings an AI curator\nto the Seoul Biennale",
-          "body": "Ratti will curate Seoul's 2027 architecture biennale with an AI assistant, revealing theme and team on December 8.",
-          "mini_headline": "Ratti's AI-curated Seoul Biennale",
+          "headline": "One designer, a whole company:\nthe AI workflows that held up",
+          "body": "A designer gone solo after a 30+ person team shares which AI workflows worked at a B2B scale-up and which failed.",
+          "mini_headline": "AI workflows for a solo designer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
-                "cap": "Venice Architecture Biennale curator Carlo Ratti"
+                "t": "p",
+                "x": "After six years in a 30+ strong design team, the author became the only UXer at a B2B e-comm scale-up in January and revisited AI tools, rating what worked and what kind of failed."
               },
               {
                 "t": "p",
-                "x": "Italian architect Carlo Ratti has been named the curator of next year's Seoul Biennale of Architecture and Urbanism, for which he plans to take \"an unconventional, AI-based\" approach. Taking place from 24 September 2027, the biennale will be used by Ratti to question the role of a curator today. The event's title, theme and full curatorial team will not be unveiled until 8 December."
-              },
-              {
-                "t": "p",
-                "x": "Specifically, he will use an AI assistant, aiming to challenge traditional approaches to developing exhibitions by highlighting emerging tools that can help curators."
+                "x": "Prototyping with Claude Code works “dangerously well”: ideas sketched on paper and in Figma become a local working prototype, usually a single .html file, published in a private hub via Figma Make. Fully working prototypes also improved usability testing, letting participants try different pathways."
               },
               {
                 "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
-                "cap": "Carlo Ratti (right) was appointed by Seoul mayor Oh Se Hoon (left)"
+                "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+                "cap": "Adding the Excel drag to fill took a few minutes and a couple of prompts."
               },
               {
                 "t": "p",
-                "x": "\"Seoul is perhaps the best place in the world to ask how artificial intelligence and the collective wisdom of its citizens might shape the city together,\" he said. \"At the upcoming pre-biennale event, we will begin to introduce the people who will join us, and I think there will be a few surprises – one assistant curator isn't even human!\""
+                "x": "For research synthesis, Gemini summarises individual interviews, but the author forms themes manually, treating AI as “a super text editor,” since fully AI-made insights lost nuance."
               },
               {
                 "t": "p",
-                "x": "Ratti, director of Carlo Ratti Associati and an MIT professor, succeeds Thomas Heatherwick, who curated the 2025 event. He curated the 2025 Venice Architecture Biennale, themed Intelligens. Natural. Artificial. Collective."
+                "x": "New visual directions from Figma Make, Claude Code in Figma, Claude Design and Google Stitch were “meh”: nothing solid enough to chase a new direction."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+                "cap": "Interestin bits and pieces that I collected across the outputs."
+              },
+              {
+                "t": "p",
+                "x": "A UX feedback skill in the repo, aware of business, guidelines and user pain points, works well and is in trial; Atlassian’s Rovo agents help gather context. Conclusion: “Useful overall, definitely not an extra designer, at least not yet.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Carlo Ratti의\n서울비엔날레 AI 큐레이터",
-          "body": "Ratti가 AI 조수와 2027 서울비엔날레를 맡아 다음달 8일 주제를 공개한다.",
-          "mini_headline": "Ratti의 AI-curated 서울비엔날레",
+          "headline": "디자이너 혼자 회사 전체\n살아남은 AI 워크플로",
+          "body": "30명 넘는 팀을 떠나 홀로 선 디자이너가 B2B 스케일업의 AI 성패를 전한다.",
+          "mini_headline": "혼자 일하는 디자이너의 AI 워크플로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
-                "cap": "베네치아 건축 비엔날레 큐레이터 Carlo Ratti"
+                "t": "p",
+                "x": "30명이 넘는 디자인 팀에서 여섯 해를 보낸 필자는 1월 B2B 이커머스 스케일업의 유일한 UXer가 됐다. 혼자가 된 뒤 AI 도구를 다시 들여다보며 효과가 있었던 것과 다소 실패한 것을 가렸다."
               },
               {
                 "t": "p",
-                "x": "이탈리아 건축가 Carlo Ratti(카를로 라티)가 내년 서울도시건축비엔날레 큐레이터로 선임됐다. 그는 “관습에서 벗어난, AI 기반(AI-based)” 방식으로 행사를 꾸릴 계획이다. 2027년 9월 24일 개막하는 이번 비엔날레에서 Ratti는 오늘날 큐레이터가 어떤 역할을 하는지 묻는다. 행사 제목과 주제, 전체 큐레이터 팀은 12월 8일에야 공개된다."
-              },
-              {
-                "t": "p",
-                "x": "AI 어시스턴트를 앞세워 큐레이터를 돕는 새 도구를 보여 주고, 전시를 만드는 전통 방식에 도전한다는 구상이다."
+                "x": "Claude Code로 하는 프로토타이핑은 “위험할 정도로 잘” 통한다. 종이와 Figma에 그린 스케치가 로컬에서 돌아가는 프로토타입, 대개 단일 .html 파일이 된다. 이를 Figma Make를 거쳐 비공개 허브에 올린다. 제대로 작동하는 프로토타입 덕에 참가자가 여러 경로를 시도할 수 있어 사용성 테스트도 나아졌다."
               },
               {
                 "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
-                "cap": "Carlo Ratti(오른쪽)를 임명한 오세훈(Oh Se Hoon) 서울시장(왼쪽)"
+                "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+                "cap": "Excel의 드래그 채우기를 넣는 데 몇 분과 프롬프트 두어 개면 충분했다."
               },
               {
                 "t": "p",
-                "x": "그는 “서울은 인공지능과 시민의 집단 지성이 어떻게 함께 도시를 만들어 갈지 묻기에 세계에서 가장 좋은 곳일지 모른다”며 “곧 열릴 프리 비엔날레 행사에서 함께할 사람들을 소개하기 시작할 텐데, 몇 가지 깜짝 놀랄 일이 있을 것이다. 보조 큐레이터 한 명은 심지어 인간이 아니다!”라고 말했다."
+                "x": "리서치 종합에서는 Gemini가 개별 인터뷰를 요약하지만 주제 도출은 필자가 직접 한다. AI가 통째로 만든(AI-made) 인사이트는 뉘앙스를 놓쳤다. 그래서 AI는 “슈퍼 텍스트 에디터”로 다룬다."
               },
               {
                 "t": "p",
-                "x": "Carlo Ratti Associati 대표이자 MIT 교수인 Ratti는 2025년 행사를 맡았던 Thomas Heatherwick(토머스 헤더윅)의 뒤를 잇는다. 앞서 ‘Intelligens. Natural. Artificial. Collective.’를 주제로 내건 2025 베네치아 건축 비엔날레를 큐레이팅하기도 했다."
+                "x": "Figma Make, Figma 안의 Claude Code, Claude Design, Google Stitch가 내놓은 새 시각 방향은 “그저 그랬다”. 새 방향으로 밀고 나갈 만큼 탄탄한 결과는 없었다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+                "cap": "여러 결과물에서 모은 흥미로운 조각들."
+              },
+              {
+                "t": "p",
+                "x": "비즈니스와 가이드라인, 사용자 페인 포인트를 아는 저장소 안 UX 피드백 스킬은 잘 작동해 시범 운영 중이다. Atlassian의 Rovo 에이전트는 맥락 수집을 거든다. 결론은 “전반적으로 유용하지만, 추가 디자이너는 분명 아니다. 적어도 아직은.”이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Carlo Rattiが\nソウルにAIキュレーター",
-          "body": "Rattiは2027年ソウル建築ビエンナーレをAI助手と企画し、来月8日に主題を明かす。",
-          "mini_headline": "RattiのAI-curatedなソウル・ビエンナーレ",
+          "headline": "一人で全社を担うデザイナー\n残ったAIワークフロー",
+          "body": "30人超のチームから一人になったデザイナーが、B2B成長企業で効いたAI活用と失敗を語る。",
+          "mini_headline": "ひとりデザイナーのAIワークフロー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
-                "cap": "ヴェネチア・ビエンナーレ国際建築展のキュレーター、Carlo Ratti"
+                "t": "p",
+                "x": "30人超のデザインチームで六年を過ごした筆者は、1月にB2B電子商取引のスケールアップ企業で唯一のUXerとなり、AIツールを見直して、うまくいったものと、いまひとつだったものを評価した。"
               },
               {
                 "t": "p",
-                "x": "イタリアの建築家Carlo Rattiが、来年のソウル都市建築ビエンナーレのキュレーターに任命された。「型破りな、AIベース（AI-based）の」アプローチを取る計画だ。2027年9月24日に開幕するビエンナーレを通じて、Rattiは今日のキュレーターの役割を問い直す。イベントのタイトル、テーマ、キュレーターチーム全体は12月8日まで明かされない。"
-              },
-              {
-                "t": "p",
-                "x": "具体的には、AIアシスタントを活用し、キュレーターを支える新たなツールに光を当てることで、展覧会づくりの従来の手法に挑むという。"
+                "x": "Claude Codeによるプロトタイピングは「危ういほどうまく」機能する。紙やFigmaでスケッチしたアイデアが、ローカルで動くプロトタイプ(たいていは単一の.htmlファイル)になり、Figma Make経由で非公開のハブに公開される。完全に動くプロトタイプは、参加者がさまざまな経路を試せるため、ユーザビリティテストも改善した。"
               },
               {
                 "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
-                "cap": "Carlo Ratti（右）はソウル市長のOh Se Hoon（左）に任命された"
+                "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+                "cap": "Excelのドラッグによるフィルを加えるのに、数分と数回のプロンプトで済んだ。"
               },
               {
                 "t": "p",
-                "x": "「ソウルは、人工知能と市民の集合知がいかに共に都市を形づくるかを問うのに、おそらく世界で最もふさわしい場所だ」と彼は述べた。「間もなく開かれるプレ・ビエンナーレのイベントで、参加するメンバーの紹介を始める。いくつかサプライズがあると思う。アシスタントキュレーターの一人は人間ですらない！」"
+                "x": "リサーチの統合では、Geminiが個々のインタビューを要約するが、テーマ化は筆者が手作業で行う。完全にAIが作った(AI-made)インサイトはニュアンスを失ったため、AIは「超高性能なテキストエディター」として扱っている。"
               },
               {
                 "t": "p",
-                "x": "Carlo Ratti Associatiの代表でMIT教授のRattiは、2025年の同イベントを手がけたThomas Heatherwickの後任となる。彼は「Intelligens. Natural. Artificial. Collective.」をテーマとした2025年のヴェネチア・ビエンナーレ国際建築展でキュレーターを務めた。"
+                "x": "Figma Make、Figma内のClaude Code、Claude Design、Google Stitchによる新しいビジュアルの方向性は「いまいち」だった。新たな方向を追うに足る確かなものはなかった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+                "cap": "出力のあちこちから集めた興味深い断片。"
+              },
+              {
+                "t": "p",
+                "x": "ビジネス、ガイドライン、ユーザーのペインポイントを踏まえたリポジトリ内のUXフィードバック用スキルはよく機能し、試行中だ。AtlassianのRovoエージェントは文脈の収集を助ける。結論は「全体としては有用。ただし追加のデザイナーでは決してない。少なくとも今はまだ」。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Carlo Ratti\n为首尔双年展引入AI策展",
-          "body": "Ratti将借助AI助手策划2027年首尔建筑双年展，并于下月8日公布主题与团队。",
-          "mini_headline": "Ratti的AI-curated首尔双年展",
+          "headline": "一名设计师撑起整个公司\n经得住考验的AI工作流",
+          "body": "从30多人团队转为独自一人的设计师，分享在B2B成长型公司里哪些AI工作流有效、哪些失败。",
+          "mini_headline": "独立设计师的AI工作流",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
-                "cap": "威尼斯建筑双年展策展人Carlo Ratti"
+                "t": "p",
+                "x": "在30多人的设计团队工作六年后，作者于1月成为一家B2B电商成长型公司唯一的UXer，并重新审视AI工具，评估哪些有效、哪些多少算是失败。"
               },
               {
                 "t": "p",
-                "x": "意大利建筑师Carlo Ratti被任命为明年首尔城市建筑双年展的策展人，他计划采取一种“非传统的、AI-based（基于AI）的”方式。双年展将于2027年9月24日开幕，Ratti将借此追问当今策展人的角色。活动名称、主题和完整策展团队要到12月8日才会公布。"
-              },
-              {
-                "t": "p",
-                "x": "具体而言，他将使用一位AI助手，通过突出能够帮助策展人的新兴工具，挑战策划展览的传统方式。"
+                "x": "用Claude Code做原型“好用得危险”：在纸上和Figma里勾勒的想法会变成本地可运行的原型，通常是单个.html文件，再通过Figma Make发布到私有中心。完全可运行的原型也改进了可用性测试，让参与者能尝试不同路径。"
               },
               {
                 "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
-                "cap": "Carlo Ratti（右）由首尔市长Oh Se Hoon（左）任命"
+                "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+                "cap": "加入Excel式拖动填充只花了几分钟和几条提示词。"
               },
               {
                 "t": "p",
-                "x": "他说：“首尔或许是全世界最适合探讨人工智能与市民集体智慧如何共同塑造城市的地方。”“在即将举行的预展活动上，我们将开始介绍加入我们的人，我想会有一些惊喜——其中一位助理策展人甚至不是人类！”"
+                "x": "在研究综合方面，Gemini负责总结单场访谈，但主题由作者手动归纳，把AI当作“超级文本编辑器”，因为完全由AI生成(AI-made)的洞察会丢失细微差别。"
               },
               {
                 "t": "p",
-                "x": "Ratti是Carlo Ratti Associati负责人、MIT教授，他接替了策划2025年活动的Thomas Heatherwick。他曾策划以“Intelligens. Natural. Artificial. Collective.”为主题的2025年威尼斯建筑双年展。"
+                "x": "Figma Make、Figma中的Claude Code、Claude Design和Google Stitch给出的新视觉方向都“一般般”：没有哪个扎实到值得去追一个新方向。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+                "cap": "我从各个输出中收集到的有趣片段。"
+              },
+              {
+                "t": "p",
+                "x": "仓库中一个了解业务、规范和用户痛点的UX反馈技能效果不错，正在试用；Atlassian的Rovo智能体帮助收集上下文。结论：“总体有用，但绝对不是多了一位设计师，至少现在还不是。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Carlo Ratti lleva un curador AI\na la Bienal de Seúl",
-          "body": "Ratti dirigirá la Bienal de Seúl 2027 con un asistente de AI y revelará tema y equipo el 8 de diciembre.",
-          "mini_headline": "Ratti y su Bienal de Seúl AI-curated",
+          "headline": "Un diseñador, toda una empresa:\nlos flujos AI que resistieron",
+          "body": "Un diseñador en solitario tras un equipo de 30+ cuenta qué flujos de AI funcionaron en una scale-up B2B y cuáles no.",
+          "mini_headline": "Flujos de AI para un diseñador en solitario",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
-                "cap": "Carlo Ratti, comisario de la Bienal de Arquitectura de Venecia"
+                "t": "p",
+                "x": "Tras seis años en un equipo de diseño de más de 30 personas, el autor pasó en enero a ser el único UXer de una scale-up B2B de comercio electrónico y revisó las herramientas de AI, valorando qué funcionó y qué más o menos falló."
               },
               {
                 "t": "p",
-                "x": "El arquitecto italiano Carlo Ratti ha sido nombrado comisario de la Bienal de Arquitectura y Urbanismo de Seúl del próximo año, para la que planea un enfoque \"poco convencional, AI-based\" (basado en AI). La bienal, que se celebrará a partir del 24 de septiembre de 2027, servirá a Ratti para cuestionar el papel actual del comisario. El título, el tema y el equipo curatorial completo del evento no se darán a conocer hasta el 8 de diciembre."
-              },
-              {
-                "t": "p",
-                "x": "En concreto, utilizará un asistente de AI con el objetivo de desafiar los métodos tradicionales de desarrollo de exposiciones, destacando herramientas emergentes que pueden ayudar a los comisarios."
+                "x": "Prototipar con Claude Code funciona “peligrosamente bien”: las ideas esbozadas en papel y en Figma se convierten en un prototipo local funcional, normalmente un único archivo .html, publicado en un hub privado mediante Figma Make. Los prototipos totalmente funcionales también mejoraron las pruebas de usabilidad, al permitir a los participantes probar distintos recorridos."
               },
               {
                 "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
-                "cap": "Carlo Ratti (derecha) fue nombrado por el alcalde de Seúl, Oh Se Hoon (izquierda)"
+                "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+                "cap": "Añadir el arrastre para rellenar de Excel llevó unos minutos y un par de prompts."
               },
               {
                 "t": "p",
-                "x": "\"Seúl es quizá el mejor lugar del mundo para preguntarse cómo la inteligencia artificial y la sabiduría colectiva de sus ciudadanos podrían dar forma juntas a la ciudad\", dijo. \"En el próximo evento previo a la bienal empezaremos a presentar a las personas que se unirán a nosotros, y creo que habrá algunas sorpresas: ¡uno de los comisarios adjuntos ni siquiera es humano!\""
+                "x": "Para la síntesis de investigación, Gemini resume entrevistas individuales, pero el autor define los temas a mano y trata la AI como “un supereditor de texto”, ya que los hallazgos hechos por completo con AI (AI-made) perdían matices."
               },
               {
                 "t": "p",
-                "x": "Ratti, director de Carlo Ratti Associati y profesor del MIT, sucede a Thomas Heatherwick, que fue comisario de la edición de 2025. Él comisarió la Bienal de Arquitectura de Venecia de 2025, con el tema Intelligens. Natural. Artificial. Collective."
+                "x": "Las nuevas direcciones visuales de Figma Make, Claude Code en Figma, Claude Design y Google Stitch fueron “meh”: nada lo bastante sólido como para perseguir una nueva dirección."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+                "cap": "Fragmentos interesantes que reuní de los distintos resultados."
+              },
+              {
+                "t": "p",
+                "x": "Una skill de feedback UX en el repositorio, que conoce el negocio, las guías y los puntos de dolor de los usuarios, funciona bien y está en prueba; los agentes Rovo de Atlassian ayudan a reunir contexto. Conclusión: “Útil en general, definitivamente no es un diseñador extra, al menos todavía no”."
               }
             ]
           }
@@ -1617,145 +1259,533 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Carlo Ratti의\n서울비엔날레 AI 큐레이터",
-          "body": "Ratti는 AI 조수와 2027 서울비엔날레를 맡고 다음달 8일 주제를 밝힌다.",
-          "mini_headline": "Ratti의 AI-curated 서울비엔날레",
+          "headline": "디자이너 혼자 회사 전체\n살아남은 AI 워크플로",
+          "body": "30명 넘는 팀을 떠나 홀로 선 디자이너가 B2B 스케일업의 AI 성패를 전한다.",
+          "mini_headline": "혼자 일하는 디자이너의 AI 워크플로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
-                "cap": "베네치아 건축 비엔날레 큐레이터 Carlo Ratti"
+                "t": "p",
+                "x": "30명이 넘는 디자인 팀에서 여섯 해를 보낸 필자는 1월 B2B 이커머스 스케일업의 유일한 UXer가 됐고, AI 도구를 다시 살펴보며 효과가 있었던 것과 다소 실패한 것을 평가했다."
               },
               {
                 "t": "p",
-                "x": "이탈리아 건축가 Carlo Ratti(카를로 라티)가 내년 서울도시건축비엔날레 큐레이터로 선임됐다. 그는 “관습에서 벗어난, AI 기반(AI-based)” 방식을 택할 계획이다. 2027년 9월 24일 개막하는 이번 비엔날레에서 Ratti는 오늘날 큐레이터의 역할을 묻는다. 행사 제목과 주제, 전체 큐레이터 팀은 12월 8일에야 공개된다."
-              },
-              {
-                "t": "p",
-                "x": "구체적으로는 AI 어시스턴트를 활용해, 큐레이터를 도울 수 있는 새로운 도구를 부각하며 전시를 만드는 전통적 방식에 도전할 계획이다."
+                "x": "Claude Code로 하는 프로토타이핑은 “위험할 정도로 잘” 통한다. 종이와 Figma에 스케치한 아이디어가 로컬에서 작동하는 프로토타입, 대개 단일 .html 파일이 되고, Figma Make를 거쳐 비공개 허브에 게시된다. 완전히 작동하는 프로토타입은 참가자가 여러 경로를 시도할 수 있게 해 사용성 테스트도 개선했다."
               },
               {
                 "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
-                "cap": "Carlo Ratti(오른쪽)는 오세훈(Oh Se Hoon) 서울시장(왼쪽)이 임명했다"
+                "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+                "cap": "Excel의 드래그 채우기를 넣는 데 몇 분과 프롬프트 두어 개면 충분했다."
               },
               {
                 "t": "p",
-                "x": "그는 “서울은 인공지능과 시민의 집단 지성이 어떻게 함께 도시를 만들어 갈지 묻기에 세계에서 가장 좋은 곳일지 모른다”며 “곧 열릴 프리 비엔날레 행사에서 함께할 사람들을 소개하기 시작할 텐데, 몇 가지 깜짝 놀랄 일이 있을 것이다. 보조 큐레이터 한 명은 심지어 인간이 아니다!”라고 말했다."
+                "x": "리서치 종합에서는 Gemini가 개별 인터뷰를 요약하지만 주제 도출은 필자가 직접 한다. AI가 통째로 만든(AI-made) 인사이트는 뉘앙스를 잃었기 때문에, AI를 “슈퍼 텍스트 에디터”로 다룬다."
               },
               {
                 "t": "p",
-                "x": "Carlo Ratti Associati 대표이자 MIT 교수인 Ratti는 2025년 행사를 맡았던 Thomas Heatherwick(토머스 헤더윅)의 뒤를 잇는다. 그는 ‘Intelligens. Natural. Artificial. Collective.’를 주제로 한 2025 베네치아 건축 비엔날레를 큐레이팅했다."
+                "x": "Figma Make, Figma 안의 Claude Code, Claude Design, Google Stitch가 내놓은 새로운 시각적 방향은 “그저 그랬다”. 새 방향을 좇을 만큼 탄탄한 결과는 없었다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+                "cap": "여러 결과물에서 모은 흥미로운 조각들."
+              },
+              {
+                "t": "p",
+                "x": "비즈니스, 가이드라인, 사용자 페인 포인트를 아는 저장소 안의 UX 피드백 스킬은 잘 작동해 시범 운영 중이며, Atlassian의 Rovo 에이전트는 맥락 수집을 돕는다. 결론은 “전반적으로 유용하지만, 추가 디자이너는 분명 아니다. 적어도 아직은.”이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Carlo Rattiが\nソウルにAIキュレーター",
-          "body": "Rattiは2027年ソウル建築ビエンナーレをAI助手と企画し、来月8日に主題を明かす。",
-          "mini_headline": "RattiのAI-curatedなソウル・ビエンナーレ",
+          "headline": "一人で全社を担うデザイナー\n残ったAIワークフロー",
+          "body": "30人超のチームから一人になったデザイナーが、B2B成長企業で効いたAI活用と失敗を語る。",
+          "mini_headline": "ひとりデザイナーのAIワークフロー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
-                "cap": "ヴェネチア・ビエンナーレ国際建築展のキュレーター、Carlo Ratti"
+                "t": "p",
+                "x": "30人超のデザインチームで六年を過ごした筆者は、1月にB2B電子商取引のスケールアップ企業で唯一のUXerとなり、AIツールを見直して、うまくいったものと、いまひとつだったものを評価した。"
               },
               {
                 "t": "p",
-                "x": "イタリアの建築家Carlo Rattiが、来年のソウル都市建築ビエンナーレのキュレーターに任命された。「型破りな、AIベース（AI-based）の」アプローチを取る計画だ。2027年9月24日に開幕するビエンナーレを通じて、Rattiは今日のキュレーターの役割を問い直す。イベントのタイトル、テーマ、キュレーターチーム全体は12月8日まで明かされない。"
-              },
-              {
-                "t": "p",
-                "x": "具体的には、AIアシスタントを活用し、キュレーターを支える新たなツールに光を当てることで、展覧会づくりの従来の手法に挑むという。"
+                "x": "Claude Codeによるプロトタイピングは「危ういほどうまく」機能する。紙やFigmaでスケッチしたアイデアが、ローカルで動くプロトタイプ(たいていは単一の.htmlファイル)になり、Figma Make経由で非公開のハブに公開される。完全に動くプロトタイプは、参加者がさまざまな経路を試せるため、ユーザビリティテストも改善した。"
               },
               {
                 "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
-                "cap": "Carlo Ratti（右）はソウル市長のOh Se Hoon（左）に任命された"
+                "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+                "cap": "Excelのドラッグによるフィルを加えるのに、数分と数回のプロンプトで済んだ。"
               },
               {
                 "t": "p",
-                "x": "「ソウルは、人工知能と市民の集合知がいかに共に都市を形づくるかを問うのに、おそらく世界で最もふさわしい場所だ」と彼は述べた。「間もなく開かれるプレ・ビエンナーレのイベントで、参加するメンバーの紹介を始める。いくつかサプライズがあると思う。アシスタントキュレーターの一人は人間ですらない！」"
+                "x": "リサーチの統合では、Geminiが個々のインタビューを要約するが、テーマ化は筆者が手作業で行う。完全にAIが作った(AI-made)インサイトはニュアンスを失ったため、AIは「超高性能なテキストエディター」として扱っている。"
               },
               {
                 "t": "p",
-                "x": "Carlo Ratti Associatiの代表でMIT教授のRattiは、2025年の同イベントを手がけたThomas Heatherwickの後任となる。彼は「Intelligens. Natural. Artificial. Collective.」をテーマとした2025年のヴェネチア・ビエンナーレ国際建築展でキュレーターを務めた。"
+                "x": "Figma Make、Figma内のClaude Code、Claude Design、Google Stitchによる新しいビジュアルの方向性は「いまいち」だった。新たな方向を追うに足る確かなものはなかった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+                "cap": "出力のあちこちから集めた興味深い断片。"
+              },
+              {
+                "t": "p",
+                "x": "ビジネス、ガイドライン、ユーザーのペインポイントを踏まえたリポジトリ内のUXフィードバック用スキルはよく機能し、試行中だ。AtlassianのRovoエージェントは文脈の収集を助ける。結論は「全体としては有用。ただし追加のデザイナーでは決してない。少なくとも今はまだ」。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Carlo Ratti\n为首尔双年展引入AI策展",
-          "body": "Ratti将借助AI助手策划2027年首尔建筑双年展，并于下月8日公布主题与团队。",
-          "mini_headline": "Ratti的AI-curated首尔双年展",
+          "headline": "一名设计师撑起整个公司\n经得住考验的AI工作流",
+          "body": "从30多人团队转为独自一人的设计师，分享在B2B成长型公司里哪些AI工作流有效、哪些失败。",
+          "mini_headline": "独立设计师的AI工作流",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
-                "cap": "威尼斯建筑双年展策展人Carlo Ratti"
+                "t": "p",
+                "x": "在30多人的设计团队工作六年后，作者于1月成为一家B2B电商成长型公司唯一的UXer，并重新审视AI工具，评估哪些有效、哪些多少算是失败。"
               },
               {
                 "t": "p",
-                "x": "意大利建筑师Carlo Ratti被任命为明年首尔城市建筑双年展的策展人，他计划采取一种“非传统的、AI-based（基于AI）的”方式。双年展将于2027年9月24日开幕，Ratti将借此追问当今策展人的角色。活动名称、主题和完整策展团队要到12月8日才会公布。"
-              },
-              {
-                "t": "p",
-                "x": "具体而言，他将使用一位AI助手，通过突出能够帮助策展人的新兴工具，挑战策划展览的传统方式。"
+                "x": "用Claude Code做原型“好用得危险”：在纸上和Figma里勾勒的想法会变成本地可运行的原型，通常是单个.html文件，再通过Figma Make发布到私有中心。完全可运行的原型也改进了可用性测试，让参与者能尝试不同路径。"
               },
               {
                 "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
-                "cap": "Carlo Ratti（右）由首尔市长Oh Se Hoon（左）任命"
+                "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+                "cap": "加入Excel式拖动填充只花了几分钟和几条提示词。"
               },
               {
                 "t": "p",
-                "x": "他说：“首尔或许是全世界最适合探讨人工智能与市民集体智慧如何共同塑造城市的地方。”“在即将举行的预展活动上，我们将开始介绍加入我们的人，我想会有一些惊喜——其中一位助理策展人甚至不是人类！”"
+                "x": "在研究综合方面，Gemini负责总结单场访谈，但主题由作者手动归纳，把AI当作“超级文本编辑器”，因为完全由AI生成(AI-made)的洞察会丢失细微差别。"
               },
               {
                 "t": "p",
-                "x": "Ratti是Carlo Ratti Associati负责人、MIT教授，他接替了策划2025年活动的Thomas Heatherwick。他曾策划以“Intelligens. Natural. Artificial. Collective.”为主题的2025年威尼斯建筑双年展。"
+                "x": "Figma Make、Figma中的Claude Code、Claude Design和Google Stitch给出的新视觉方向都“一般般”：没有哪个扎实到值得去追一个新方向。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+                "cap": "我从各个输出中收集到的有趣片段。"
+              },
+              {
+                "t": "p",
+                "x": "仓库中一个了解业务、规范和用户痛点的UX反馈技能效果不错，正在试用；Atlassian的Rovo智能体帮助收集上下文。结论：“总体有用，但绝对不是多了一位设计师，至少现在还不是。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Carlo Ratti lleva un curador AI\na la Bienal de Seúl",
-          "body": "Ratti dirigirá la Bienal de Seúl 2027 con un asistente de AI y revelará tema y equipo el 8 de diciembre.",
-          "mini_headline": "Ratti y su Bienal de Seúl AI-curated",
+          "headline": "Un diseñador, toda una empresa:\nlos flujos AI que resistieron",
+          "body": "Un diseñador en solitario tras un equipo de 30+ cuenta qué flujos de AI funcionaron en una scale-up B2B y cuáles no.",
+          "mini_headline": "Flujos de AI para un diseñador en solitario",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2025/04/carlo-ratti-venice-architecture-biennale-curator-tech-bro-biennale_dezeen_2364_col_0.jpg",
-                "cap": "Carlo Ratti, comisario de la Bienal de Arquitectura de Venecia"
+                "t": "p",
+                "x": "Tras seis años en un equipo de diseño de más de 30 personas, el autor pasó en enero a ser el único UXer de una scale-up B2B de comercio electrónico y revisó las herramientas de AI, valorando qué funcionó y qué más o menos falló."
               },
               {
                 "t": "p",
-                "x": "El arquitecto italiano Carlo Ratti ha sido nombrado comisario de la Bienal de Arquitectura y Urbanismo de Seúl del próximo año, para la que planea un enfoque \"poco convencional, AI-based\" (basado en AI). La bienal, que se celebrará a partir del 24 de septiembre de 2027, servirá a Ratti para cuestionar el papel actual del comisario. El título, el tema y el equipo curatorial completo del evento no se darán a conocer hasta el 8 de diciembre."
-              },
-              {
-                "t": "p",
-                "x": "En concreto, utilizará un asistente de AI con el objetivo de desafiar los métodos tradicionales de desarrollo de exposiciones, destacando herramientas emergentes que pueden ayudar a los comisarios."
+                "x": "Prototipar con Claude Code funciona “peligrosamente bien”: las ideas esbozadas en papel y en Figma se convierten en un prototipo local funcional, normalmente un único archivo .html, publicado en un hub privado mediante Figma Make. Los prototipos totalmente funcionales también mejoraron las pruebas de usabilidad, al permitir a los participantes probar distintos recorridos."
               },
               {
                 "t": "img",
-                "src": "https://static-2026.dezeen.com/uploads/2026/11/seoul-biennale-carlo-ratti-new_dezeen_1704_col_0.jpg",
-                "cap": "Carlo Ratti (derecha) fue nombrado por el alcalde de Seúl, Oh Se Hoon (izquierda)"
+                "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+                "cap": "Añadir el arrastre para rellenar de Excel llevó unos minutos y un par de prompts."
               },
               {
                 "t": "p",
-                "x": "\"Seúl es quizá el mejor lugar del mundo para preguntarse cómo la inteligencia artificial y la sabiduría colectiva de sus ciudadanos podrían dar forma juntas a la ciudad\", dijo. \"En el próximo evento previo a la bienal empezaremos a presentar a las personas que se unirán a nosotros, y creo que habrá algunas sorpresas: ¡uno de los comisarios adjuntos ni siquiera es humano!\""
+                "x": "Para la síntesis de investigación, Gemini resume entrevistas individuales, pero el autor define los temas a mano y trata la AI como “un supereditor de texto”, ya que los hallazgos hechos por completo con AI (AI-made) perdían matices."
               },
               {
                 "t": "p",
-                "x": "Ratti, director de Carlo Ratti Associati y profesor del MIT, sucede a Thomas Heatherwick, que fue comisario de la edición de 2025. Él comisarió la Bienal de Arquitectura de Venecia de 2025, con el tema Intelligens. Natural. Artificial. Collective."
+                "x": "Las nuevas direcciones visuales de Figma Make, Claude Code en Figma, Claude Design y Google Stitch fueron “meh”: nada lo bastante sólido como para perseguir una nueva dirección."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+                "cap": "Fragmentos interesantes que reuní de los distintos resultados."
+              },
+              {
+                "t": "p",
+                "x": "Una skill de feedback UX en el repositorio, que conoce el negocio, las guías y los puntos de dolor de los usuarios, funciona bien y está en prueba; los agentes Rovo de Atlassian ayudan a reunir contexto. Conclusión: “Útil en general, definitivamente no es un diseñador extra, al menos todavía no”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "devto-agent-real-components",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "코딩 에이전트에 뻔한 UI\n말고 진짜 컴포넌트를",
+      "body": "뻔한 가격 블록 대신 Clay UI로 에이전트가 오픈소스 컴포넌트를 찾아 고친다.",
+      "mini_headline": "에이전트에 진짜 컴포넌트를",
+      "tool": "Design Tokens",
+      "source": "DEV Community",
+      "url": "https://dev.to/behavio1/your-coding-agent-keeps-writing-the-same-ui-give-it-real-components-instead-136i",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "코딩 에이전트에게 가격 섹션을 시키면 남들이 받는 것과 똑같은 가격 섹션이 나온다. 카드 세 장, 강조된 가운데 카드, 어딘가 들어간 그라디언트. 에이전트는 기억에 기대 UI를 쓰는데, 그 기억은 평균으로 수렴하다 템플릿이 된다."
+          },
+          {
+            "t": "p",
+            "x": "좋은 UI 코드는 이미 shadcn/ui, Radix, Base UI, Magic UI, Kokonut UI, Aceternity UI, shadcn 스타일 레지스트리에 있다. 글쓴이들이 만든 Clay UI는 MIT 라이선스(MIT-licensed) CLI와 에이전트 스킬로 이뤄졌다. 에이전트가 컴포넌트를 요청하면 실제로 일치하는 항목 중에서 골라 소스를 내려받고 프로젝트에 맞게 다시 쓴다."
+          },
+          {
+            "t": "img",
+            "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+            "cap": "Clay UI의 작동 방식"
+          },
+          {
+            "t": "p",
+            "x": "`npx @behavio1/clayui init`을 실행하면 Claude Code, Codex, Cursor 등 여러 에이전트용 스킬이 깔리고 로컬 인덱스가 만들어진다. Clay UI 자체는 프로젝트에 컴포넌트나 의존성을 설치하지 않는다."
+          },
+          {
+            "t": "img",
+            "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+            "cap": "다섯 화면의 전후 비교"
+          },
+          {
+            "t": "p",
+            "x": "인덱싱 대상은 라이선스가 재배포를 허용하는 라이브러리뿐이다. 검색은 기본적으로 키 없이 로컬에서 돌고, 원하면 Gemini 의미 검색을 붙일 수 있다. 밝혀 두자면 이 글은 Clay UI를 만드는 팀이 썼다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Give coding agents real\ncomponents, not generic UI",
+          "body": "Agents default to the same generic pricing block, so Clay UI lets them find and adapt real open-source components.",
+          "mini_headline": "Feed agents real components",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Ask a coding agent for a pricing section and you get the same pricing section everyone else gets: three cards, the middle one highlighted, a gradient somewhere. Agents write UI from memory, and their memory averages out to a template."
+              },
+              {
+                "t": "p",
+                "x": "Good UI code is already out there in shadcn/ui, Radix, Base UI, Magic UI, Kokonut UI, Aceternity UI and shadcn-style registries. The authors built Clay UI, an MIT-licensed CLI plus an agent skill: your agent asks it for a component, picks from real matches, downloads the source and then rewrites it to fit your project."
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+                "cap": "How Clay UI works"
+              },
+              {
+                "t": "p",
+                "x": "`npx @behavio1/clayui init` installs a skill for Claude Code, Codex, Cursor and other agents and builds a local index. Clay UI never installs a component or a dependency into your project."
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+                "cap": "Five screens before and after"
+              },
+              {
+                "t": "p",
+                "x": "Libraries are indexed only if their license allows redistribution; search is local and keyless by default, with optional Gemini semantic search. Disclosure: the article is by the team that builds Clay UI."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "코딩 에이전트에 뻔한 UI\n말고 진짜 컴포넌트를",
+          "body": "뻔한 가격 블록 대신 Clay UI로 에이전트가 오픈소스 컴포넌트를 찾아 고친다.",
+          "mini_headline": "에이전트에 진짜 컴포넌트를",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "코딩 에이전트에게 가격 섹션을 시키면 남들이 받는 것과 똑같은 가격 섹션이 나온다. 카드 세 장, 강조된 가운데 카드, 어딘가 들어간 그라디언트. 에이전트는 기억에 기대 UI를 쓰는데, 그 기억은 평균으로 수렴하다 템플릿이 된다."
+              },
+              {
+                "t": "p",
+                "x": "좋은 UI 코드는 이미 shadcn/ui, Radix, Base UI, Magic UI, Kokonut UI, Aceternity UI, shadcn 스타일 레지스트리에 있다. 글쓴이들이 만든 Clay UI는 MIT 라이선스(MIT-licensed) CLI와 에이전트 스킬로 이뤄졌다. 에이전트가 컴포넌트를 요청하면 실제로 일치하는 항목 중에서 골라 소스를 내려받고 프로젝트에 맞게 다시 쓴다."
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+                "cap": "Clay UI의 작동 방식"
+              },
+              {
+                "t": "p",
+                "x": "`npx @behavio1/clayui init`을 실행하면 Claude Code, Codex, Cursor 등 여러 에이전트용 스킬이 깔리고 로컬 인덱스가 만들어진다. Clay UI 자체는 프로젝트에 컴포넌트나 의존성을 설치하지 않는다."
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+                "cap": "다섯 화면의 전후 비교"
+              },
+              {
+                "t": "p",
+                "x": "인덱싱 대상은 라이선스가 재배포를 허용하는 라이브러리뿐이다. 검색은 기본적으로 키 없이 로컬에서 돌고, 원하면 Gemini 의미 검색을 붙일 수 있다. 밝혀 두자면 이 글은 Clay UI를 만드는 팀이 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "コーディング用エージェントに\n汎用UIでなく本物の部品を",
+          "body": "汎用の料金欄に偏るエージェントにClay UIは実在のオープンソース部品を探して直させる。",
+          "mini_headline": "エージェントに本物の部品を",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "コーディングエージェントに料金セクションを頼むと、誰もが受け取るのと同じ料金セクションが出てくる。カードが三枚、真ん中が強調され、どこかにグラデーション。エージェントは記憶からUIを書き、その記憶は平均化されてテンプレートになる。"
+              },
+              {
+                "t": "p",
+                "x": "良いUIコードはすでにshadcn/ui、Radix、Base UI、Magic UI、Kokonut UI、Aceternity UI、そしてshadcn系のレジストリにある。著者らは、MITライセンス(MIT-licensed)のCLIとエージェントスキルからなるClay UIを作った。エージェントがコンポーネントを求めると、実在する候補から選び、ソースをダウンロードしてプロジェクトに合わせて書き直す。"
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+                "cap": "Clay UIの仕組み"
+              },
+              {
+                "t": "p",
+                "x": "`npx @behavio1/clayui init`はClaude Code、Codex、Cursorなどのエージェント向けにスキルをインストールし、ローカルのインデックスを構築する。Clay UIがプロジェクトにコンポーネントや依存関係をインストールすることはない。"
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+                "cap": "五つの画面のビフォーアフター"
+              },
+              {
+                "t": "p",
+                "x": "ライセンスが再配布を認めるライブラリのみをインデックス化する。検索は標準でローカルかつキー不要で、オプションでGeminiのセマンティック検索も使える。開示：この記事はClay UIを開発するチームによるものだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "给编程智能体真组件\n而非千篇一律的UI",
+          "body": "智能体总给出同一种通用定价模块，Clay UI让它们查找并改写真实的开源组件。",
+          "mini_headline": "给智能体喂真实组件",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "让编程智能体做一个定价区块，你得到的和其他人得到的一模一样：三张卡片，中间那张高亮，某处加个渐变。智能体凭记忆写UI，而它们的记忆平均下来就是一个模板。"
+              },
+              {
+                "t": "p",
+                "x": "好的UI代码早已存在于shadcn/ui、Radix、Base UI、Magic UI、Kokonut UI、Aceternity UI以及shadcn风格的注册表中。作者们打造了Clay UI，一个采用MIT许可(MIT-licensed)的CLI加一项智能体技能：智能体向它请求组件，从真实匹配中挑选，下载源码，再改写以适配你的项目。"
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+                "cap": "Clay UI的工作方式"
+              },
+              {
+                "t": "p",
+                "x": "`npx @behavio1/clayui init`会为Claude Code、Codex、Cursor等智能体安装技能并建立本地索引。Clay UI从不向你的项目安装任何组件或依赖。"
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+                "cap": "五个界面的前后对比"
+              },
+              {
+                "t": "p",
+                "x": "只有许可证允许再分发的库才会被索引；搜索默认在本地进行且无需密钥，也可选用Gemini语义搜索。声明：本文由Clay UI的开发团队撰写。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Dar a los agentes componentes\nreales, no UI genérica",
+          "body": "Los agentes repiten el mismo bloque de precios; Clay UI les deja buscar y adaptar componentes reales de código abierto.",
+          "mini_headline": "Componentes reales para agentes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Pide a un agente de programación una sección de precios y obtendrás la misma sección de precios que recibe todo el mundo: tres tarjetas, la del medio destacada y un degradado en algún lugar. Los agentes escriben UI de memoria, y su memoria se promedia hasta convertirse en una plantilla."
+              },
+              {
+                "t": "p",
+                "x": "El buen código de UI ya existe en shadcn/ui, Radix, Base UI, Magic UI, Kokonut UI, Aceternity UI y registros al estilo de shadcn. Los autores crearon Clay UI, una CLI MIT-licensed (con licencia MIT) más una skill para agentes: tu agente le pide un componente, elige entre coincidencias reales, descarga el código fuente y luego lo reescribe para adaptarlo a tu proyecto."
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+                "cap": "Cómo funciona Clay UI"
+              },
+              {
+                "t": "p",
+                "x": "`npx @behavio1/clayui init` instala una skill para Claude Code, Codex, Cursor y otros agentes, y crea un índice local. Clay UI nunca instala un componente ni una dependencia en tu proyecto."
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+                "cap": "Cinco pantallas, antes y después"
+              },
+              {
+                "t": "p",
+                "x": "Solo se indexan bibliotecas cuya licencia permite la redistribución; la búsqueda es local y sin clave por defecto, con búsqueda semántica opcional mediante Gemini. Aviso: el artículo es del equipo que desarrolla Clay UI."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "코딩 에이전트에 뻔한 UI\n말고 진짜 컴포넌트를",
+          "body": "뻔한 가격 블록 대신 Clay UI로 에이전트가 오픈소스 컴포넌트를 찾아 고친다.",
+          "mini_headline": "에이전트에 진짜 컴포넌트를",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "코딩 에이전트에게 가격 섹션을 요청하면 다른 모두가 받는 것과 똑같은 가격 섹션이 나온다. 카드 세 장, 강조된 가운데 카드, 어딘가에 들어간 그라디언트. 에이전트는 기억에 의존해 UI를 쓰고, 그 기억은 평균으로 수렴해 템플릿이 된다."
+              },
+              {
+                "t": "p",
+                "x": "좋은 UI 코드는 이미 shadcn/ui, Radix, Base UI, Magic UI, Kokonut UI, Aceternity UI, shadcn 스타일 레지스트리에 있다. 글쓴이들은 MIT 라이선스(MIT-licensed) CLI와 에이전트 스킬로 이뤄진 Clay UI를 만들었다. 에이전트가 컴포넌트를 요청하면 실제 일치 항목 중에서 고르고, 소스를 내려받은 뒤 프로젝트에 맞게 다시 쓴다."
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+                "cap": "Clay UI의 작동 방식"
+              },
+              {
+                "t": "p",
+                "x": "`npx @behavio1/clayui init`은 Claude Code, Codex, Cursor 등 여러 에이전트용 스킬을 설치하고 로컬 인덱스를 만든다. Clay UI는 프로젝트에 컴포넌트나 의존성을 설치하지 않는다."
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+                "cap": "다섯 화면의 전후 비교"
+              },
+              {
+                "t": "p",
+                "x": "라이선스가 재배포를 허용하는 라이브러리만 인덱싱한다. 검색은 기본적으로 로컬에서 키 없이 이뤄지며, 선택적으로 Gemini 의미 검색을 쓸 수 있다. 밝혀둘 점: 이 글은 Clay UI를 만드는 팀이 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "コーディング用エージェントに\n汎用UIでなく本物の部品を",
+          "body": "汎用の料金欄に偏るエージェントにClay UIは実在のオープンソース部品を探して直させる。",
+          "mini_headline": "エージェントに本物の部品を",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "コーディングエージェントに料金セクションを頼むと、誰もが受け取るのと同じ料金セクションが出てくる。カードが三枚、真ん中が強調され、どこかにグラデーション。エージェントは記憶からUIを書き、その記憶は平均化されてテンプレートになる。"
+              },
+              {
+                "t": "p",
+                "x": "良いUIコードはすでにshadcn/ui、Radix、Base UI、Magic UI、Kokonut UI、Aceternity UI、そしてshadcn系のレジストリにある。著者らは、MITライセンス(MIT-licensed)のCLIとエージェントスキルからなるClay UIを作った。エージェントがコンポーネントを求めると、実在する候補から選び、ソースをダウンロードしてプロジェクトに合わせて書き直す。"
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+                "cap": "Clay UIの仕組み"
+              },
+              {
+                "t": "p",
+                "x": "`npx @behavio1/clayui init`はClaude Code、Codex、Cursorなどのエージェント向けにスキルをインストールし、ローカルのインデックスを構築する。Clay UIがプロジェクトにコンポーネントや依存関係をインストールすることはない。"
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+                "cap": "五つの画面のビフォーアフター"
+              },
+              {
+                "t": "p",
+                "x": "ライセンスが再配布を認めるライブラリのみをインデックス化する。検索は標準でローカルかつキー不要で、オプションでGeminiのセマンティック検索も使える。開示：この記事はClay UIを開発するチームによるものだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "给编程智能体真组件\n而非千篇一律的UI",
+          "body": "智能体总给出同一种通用定价模块，Clay UI让它们查找并改写真实的开源组件。",
+          "mini_headline": "给智能体喂真实组件",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "让编程智能体做一个定价区块，你得到的和其他人得到的一模一样：三张卡片，中间那张高亮，某处加个渐变。智能体凭记忆写UI，而它们的记忆平均下来就是一个模板。"
+              },
+              {
+                "t": "p",
+                "x": "好的UI代码早已存在于shadcn/ui、Radix、Base UI、Magic UI、Kokonut UI、Aceternity UI以及shadcn风格的注册表中。作者们打造了Clay UI，一个采用MIT许可(MIT-licensed)的CLI加一项智能体技能：智能体向它请求组件，从真实匹配中挑选，下载源码，再改写以适配你的项目。"
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+                "cap": "Clay UI的工作方式"
+              },
+              {
+                "t": "p",
+                "x": "`npx @behavio1/clayui init`会为Claude Code、Codex、Cursor等智能体安装技能并建立本地索引。Clay UI从不向你的项目安装任何组件或依赖。"
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+                "cap": "五个界面的前后对比"
+              },
+              {
+                "t": "p",
+                "x": "只有许可证允许再分发的库才会被索引；搜索默认在本地进行且无需密钥，也可选用Gemini语义搜索。声明：本文由Clay UI的开发团队撰写。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Dar a los agentes componentes\nreales, no UI genérica",
+          "body": "Los agentes repiten el mismo bloque de precios; Clay UI les deja buscar y adaptar componentes reales de código abierto.",
+          "mini_headline": "Componentes reales para agentes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Pide a un agente de programación una sección de precios y obtendrás la misma sección de precios que recibe todo el mundo: tres tarjetas, la del medio destacada y un degradado en algún lugar. Los agentes escriben UI de memoria, y su memoria se promedia hasta convertirse en una plantilla."
+              },
+              {
+                "t": "p",
+                "x": "El buen código de UI ya existe en shadcn/ui, Radix, Base UI, Magic UI, Kokonut UI, Aceternity UI y registros al estilo de shadcn. Los autores crearon Clay UI, una CLI MIT-licensed (con licencia MIT) más una skill para agentes: tu agente le pide un componente, elige entre coincidencias reales, descarga el código fuente y luego lo reescribe para adaptarlo a tu proyecto."
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+                "cap": "Cómo funciona Clay UI"
+              },
+              {
+                "t": "p",
+                "x": "`npx @behavio1/clayui init` instala una skill para Claude Code, Codex, Cursor y otros agentes, y crea un índice local. Clay UI nunca instala un componente ni una dependencia en tu proyecto."
+              },
+              {
+                "t": "img",
+                "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+                "cap": "Cinco pantallas, antes y después"
+              },
+              {
+                "t": "p",
+                "x": "Solo se indexan bibliotecas cuya licencia permite la redistribución; la búsqueda es local y sin clave por defecto, con búsqueda semántica opcional mediante Gemini. Aviso: el artículo es del equipo que desarrolla Clay UI."
               }
             ]
           }

@@ -6503,6 +6503,147 @@
           "x": "\"Reddit is already increasingly becoming a performance channel in its own right, but it is often underutilized and underappreciated,\" said Jack Johnston, a VP at performance marketing agency Tinuiti."
         }
       ]
+    },
+    "marketing/bing-aimode-ads-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/bing-ai-chat-boxes-q16E8dDy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Advertising is making it harder to distinguish ads in Bing AI Mode results from organic results. Microsoft has a very long history of making it hard to understand what is an advertisement versus what is an organic listing in its search results, so you can expect them to continue to do this within AI Mode and Copilot Search."
+        },
+        {
+          "t": "p",
+          "x": "If you look at the examples posted by Khushal Bherwani on SEW you will see the ads in the Bing AI Mode results are no longer outlined and look more blended into the organic response."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+          "cap": "New Format Bing Ads In Ai Overview"
+        },
+        {
+          "t": "p",
+          "x": "Previously, it looked like this:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/usual-what-we-see-in-ai-overview-ah4e9WiH.webp",
+          "cap": "Usual What We See In Ai Overview"
+        },
+        {
+          "t": "p",
+          "x": "Earlier this year, we saw almost transparent sponsored labels from Bing, Microsoft responded to these invisible ad labels before when we previously coverered almost invisibile ad labels and the incredibly hard to see ad labels."
+        },
+        {
+          "t": "p",
+          "x": "I don't expect this behavior to change..."
+        }
+      ]
+    },
+    "marketing/accc-ai-shopping-agent-liability": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/accc-ai-shopping-agents-businesses-liable-black-friday-ventriloquist-dummy-shop-counter.jpg"
+        },
+        {
+          "t": "p",
+          "x": "As Black Friday sales got under way, the Australian Competition and Consumer Commission urged shoppers to check what AI tools tell them against reliable sources and to set firm limits before letting an AI agent buy anything. It named three agents already on the Australian market - Meta's Muse, OpenAI's ChatGPT dots and Google Tasks."
+        },
+        {
+          "t": "p",
+          "x": "\"AI results can be wrong,\" said ACCC Chair Gina Cass-Gottlieb. \"Consumers should check and set the points at which they want the agent to get their approval.\" The regulator warned that AI agents \"may also not accurately identify something is a scam.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Businesses are responsible for the actions their AI chatbots and agents take,\" according to the release. Consumer guarantee rights do not change when AI is used, and businesses are liable for misleading information \"whether that is done by employees, in writing or through AI tools.\" Suppliers of AI agents must not mislead customers about their capabilities."
+        },
+        {
+          "t": "p",
+          "x": "The ACCC says it will release an update to its AI Industry Snapshot focusing on agentic AI and agentic commerce \"in coming months.\""
+        }
+      ]
+    },
+    "marketing/obsession-agent-instock-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://internetretailing.net/wp-content/uploads/2026/11/ob.session_report_01-1.png",
+          "cap": "Image © ob.session"
+        },
+        {
+          "t": "p",
+          "x": "ob.session, a real-time product recommendation engine for Shopify stores, sent ChatGPT, Gemini and Claude shopping on behalf of a fictional customer, Laura, a UK size 10 shopper based variously in France, the UK and Cyprus. Every product link recommended was checked against her size, shopping brief and location."
+        },
+        {
+          "t": "p",
+          "x": "Across more than 400 product links tested, the LLMs' recommendations were only in stock 35% of the time. ChatGPT delivered Laura's chosen item in the correct size and location 45% of the time, Gemini 33% and Claude 21%. In 29% of cases, the retailer had sold out of Laura's size."
+        },
+        {
+          "t": "p",
+          "x": "\"If most of the products they recommend aren't available, users stop believing the recommendations,\" said Ksenia Sukhova, co-founder and CCO of ob.session. She recommends retailers put size-level stock availability into the machine-readable version of the site and expose every attribute shoppers filter by in that structured version."
+        }
+      ]
+    },
+    "marketing/shopify-agentic-chargeback-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.pymnts.com/wp-content/uploads/2026/11/Shopify.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Shopify now provides its merchants with more evidence for chargebacks on agentic orders, the company said in a Wednesday (Nov. 25) entry on its changelog. The change addresses cases where an AI shopping assistant placed an order, the customer later said they didn't authorize the payment and the merchant's records couldn't show what the customer set up."
+        },
+        {
+          "t": "p",
+          "x": "\"The response includes a Payment authorization record with the spending limit that the customer set for the assistant, the payment approval that was recorded at checkout and the assistant's name when it's known,\" Shopify said. \"It's added automatically, so you don't need to do anything.\""
+        },
+        {
+          "t": "p",
+          "x": "Shopify also added AI-written responses for every chargeback reason, payment verification proof for unauthorized-purchase chargebacks and staff selection for chargeback notifications."
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-learnmore-cta": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI just sent out a product update on ChatGPT Ads announcing that Business Agents expand outside the U.S., new learn more call-to-action added to single image ads, more audience metrics in Ads Manager and the Ads API, ability to hide product feed sale prices when a promotion ends and new policy center details in Ads Manager."
+        },
+        {
+          "t": "p",
+          "x": "Learn more: On ChatGPT single image ads now show a \"Learn more\" link below the description by default. It opens the landing page you already set in Ads Manager, so no additional setup is required."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+          "cap": "ChatGPT single image ad with the Learn more call-to-action"
+        },
+        {
+          "t": "p",
+          "x": "Business Agents: Eligible ecommerce and online service businesses in supported markets outside the U.S. can now create and publish a Business Agent in the ChatGPT Business Hub, and add it to an eligible campaign as a Sponsored Business Agent."
+        },
+        {
+          "t": "p",
+          "x": "Audience metrics: Reach estimates how many unique people saw your ads at least once; Frequency is total impressions divided by Reach. OpenAI also added Click Reach, Click Frequency, Total Reach, Total Frequency, Unique CTR, Unique CPC, and Cost per 1,000 Reached."
+        },
+        {
+          "t": "p",
+          "x": "Advertisers can also hide product-feed sale prices so ads show the regular price again, and ad review messages now show which policy applies. OpenAI said the guidelines for approving ads haven't changed."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
+          "cap": "OpenAI's ChatGPT Ads update email"
+        }
+      ]
     }
   }
 }

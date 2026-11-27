@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "politics",
   "cards": [
     {
-      "id": "commerce-si-exports-consortia",
+      "id": "politics-rsi-safety-act",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "상무부, US AI 수출\n컨소시엄 신청길 열었다",
-      "body": "컨소시엄은 11월 30일부터 해외 거래별로 US AI 수출 패키지 지정을 신청한다.",
-      "mini_headline": "상무부, AI 수출 컨소시엄 길 열어",
+      "headline": "AI-driven R&D\n보고 요구하는 초당적 법안",
+      "body": "초당적 하원 법안이 대형 개발사에 R&D 속 AI 역할을 분기마다 보고하게 한다.",
+      "mini_headline": "AI R&D 보고 법안",
       "tool": "Politics",
-      "source": "Federal Register (U.S. Department of Commerce, ITA)",
-      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24107/american-si-exports-program-on-demand-consortia-for-specific-foreign-opportunities",
+      "source": "TokenPost",
+      "url": "https://www.tokenpost.com/news/regulation/62603",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,149 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+            "src": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/b3d2f03709cf865ed17f50d0d9ccdcf62352951b14f2809f921ab1194064389b.webp",
+            "cap": "인공지능 감독 논의를 앞두고 준비된 빈 청문회장 / TokenPost.ai"
           },
           {
             "t": "p",
-            "x": "상무부 국제무역청(ITA)이 행정명령 14320호 「미국 SI 기술 스택 수출 촉진」이 승인한 초지능(Super Intelligence, SI) 수출 프로그램에 On-Demand Consortia(수요 대응형 컨소시엄) 경로를 새로 연다. (행정명령 14434호에 따라 각 기관은 “Artificial Intelligence”와 “AI” 대신 “Super Intelligence”와 “SI”를 쓴다.) 신청은 2026년 11월 30일부터 수시로 받는다."
+            "x": "조시 고트하이머(Josh Gottheimer, D-N.J.) 하원의원과 너새니얼 모런(Nathaniel Moran, R-Texas) 하원의원이 초당적 법안을 냈다. 일정 요건을 갖춘 인공지능 개발사가 새 시스템 개발에 AI가 어떻게 기여하는지, 사람의 감독은 얼마나 남아 있는지 보고하게 하는 법안이다."
           },
           {
             "t": "p",
-            "x": "On-Demand Consortia는 구체적으로 확인된 해외 수출 기회에 대응하려고 산업계가 주도해 꾸리는 연합체다. Pre-Set Consortia와 달리 패키지에는 구매자가 요구하는 SI 스택 계층만 담으면 된다. 다만 기존 인프라나 확보한 인프라와 묶어 어떻게 full-stack SI 기술 패키지를 이루는지는 보여야 한다. 신청자는 그 기회가 이미 있거나 곧 생긴다는 점, 패키지가 선정될 합리적 가능성이 있다는 점을 입증해야 한다."
+            "x": "2026년 11월 24일 발의된 '재귀적 자기개선 안전법(Recursive Self-Improvement Safety Act)'에 따르면 대상 개발사는 U.S. 상무부(Department of Commerce) 산하에 새로 두자는 프런티어 인공지능 연구국(Office of Frontier Artificial Intelligence Research)에 분기마다 보고서를 내야 한다. 보고서에는 데이터와 학습 입력, 알고리즘 설계, 실험, 안전성 평가 전반에서 AI가 얼마나 관여했고 사람이 어떻게 감독했는지가 담긴다."
           },
           {
             "t": "p",
-            "x": "상무장관은 국무·전쟁·에너지 장관, OSTP 국장과 협의해 국익을 기준으로 지정 여부를 정하며, 60일(역일) 안에 결정할 계획이다. 지정 건수에 상한은 없다. 고시에는 패키지 재지정과 지정 해제 절차도 담겼다. Pre-Set Consortia 신청은 추후 다시 받을 수 있다고 했다."
+            "x": "보고 의무 대상은 정해진 연산 능력 기준을 넘는 모델을 학습시키고, 직전 연도 학습에 최소 $100 million 을 쓴 개발사다. 챗봇을 운영하는 소규모 스타트업은 대부분 빠진다."
+          },
+          {
+            "t": "p",
+            "x": "보고가 허위이거나 불완전하면 최대 $10 million 의 민사 제재금을 물 수 있다. 보고 위반 가능성을 알리는 내부고발자를 보호하는 조항도 들어 있다."
+          },
+          {
+            "t": "p",
+            "x": "재귀적 자기개선 자체를 금지하거나 상한을 두지는 않는다. 보고 의무가 시행되려면 먼저 위원회와 의회 상하 양원을 통과해야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Commerce opens consortia path\nfor US AI export packages",
-          "body": "From Nov 30, consortia can apply to have US AI export packages designated for specific foreign deals.",
-          "mini_headline": "Commerce opens AI\nexport consortia path",
+          "headline": "Bipartisan bill seeks reports\non AI-driven model R&D",
+          "body": "A bipartisan House bill would make large frontier developers file quarterly reports on AI's role in their own R&D.",
+          "mini_headline": "Bill seeks AI R&D reports",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+                "src": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/b3d2f03709cf865ed17f50d0d9ccdcf62352951b14f2809f921ab1194064389b.webp",
+                "cap": "Empty hearing room prepared for debate over artificial intelligence oversight / TokenPost.ai"
               },
               {
                 "t": "p",
-                "x": "The Department of Commerce, through the International Trade Administration (ITA), establishes the On-Demand Consortia pathway under the Super Intelligence (SI) Exports Program authorized by Executive Order 14320: Promoting the Export of the American SI Technology Stack. (Per Executive Order 14434, agencies use “Super Intelligence” and “SI” in place of “Artificial Intelligence” and “AI”.) Applications may be submitted beginning November 30, 2026, on a rolling basis."
+                "x": "Reps. Josh Gottheimer, D-N.J., and Nathaniel Moran, R-Texas, introduced a bipartisan bill that would require qualifying artificial intelligence developers to report how AI contributes to building newer systems and how much human oversight remains involved."
               },
               {
                 "t": "p",
-                "x": "On-Demand Consortia are industry-led groupings formed to respond to a specific, identified foreign export opportunity. Unlike Pre-Set Consortia, their packages need only offer the layers of the SI stack necessary to meet the buyer's demands, but must show how they combine with existing or acquired infrastructure to result in a full-stack SI technology package. Applicants must show the opportunity is existing or forthcoming and that there is a reasonable likelihood the package will be selected."
+                "x": "The Recursive Self-Improvement Safety Act, introduced Nov. 24, 2026, would require covered developers to file quarterly reports with a proposed Office of Frontier Artificial Intelligence Research within the U.S. Department of Commerce. The reports would cover AI involvement and human oversight across data and training inputs, algorithmic design, experimentation and safety evaluation."
               },
               {
                 "t": "p",
-                "x": "The Secretary of Commerce, in consultation with the Secretaries of State, War, and Energy and the OSTP Director, will make designation decisions based on the national interest, and intends to issue a decision within 60 calendar days. There is no numerical cap on designations. The notice also provides for re-designation and de-designation of packages, and says Pre-Set Consortia applications may be accepted again at a later date."
+                "x": "The reporting requirements would apply to developers training models above a defined computing-power threshold and spending at least $100 million on training during the previous year. Smaller startups that operate chatbots would generally fall outside the rules."
+              },
+              {
+                "t": "p",
+                "x": "False or incomplete reports could result in civil penalties of up to $10 million. The proposal would also protect whistleblowers who disclose potential reporting violations."
+              },
+              {
+                "t": "p",
+                "x": "The bill would not ban or cap recursive self-improvement. The legislation must still move through committee and both chambers of Congress before any reporting requirements could take effect."
               }
             ]
           }
         },
         "ko": {
-          "headline": "상무부, US AI 수출\n컨소시엄 신청길 열었다",
-          "body": "컨소시엄은 11월 30일부터 해외 거래별로 US AI 수출 패키지 지정을 신청한다.",
-          "mini_headline": "상무부, AI 수출 컨소시엄 길 열어",
+          "headline": "AI-driven R&D\n보고 요구하는 초당적 법안",
+          "body": "초당적 하원 법안이 대형 개발사에 R&D 속 AI 역할을 분기마다 보고하게 한다.",
+          "mini_headline": "AI R&D 보고 법안",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+                "src": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/b3d2f03709cf865ed17f50d0d9ccdcf62352951b14f2809f921ab1194064389b.webp",
+                "cap": "인공지능 감독 논의를 앞두고 준비된 빈 청문회장 / TokenPost.ai"
               },
               {
                 "t": "p",
-                "x": "상무부 국제무역청(ITA)이 행정명령 14320호 「미국 SI 기술 스택 수출 촉진」이 승인한 초지능(Super Intelligence, SI) 수출 프로그램에 On-Demand Consortia(수요 대응형 컨소시엄) 경로를 새로 연다. (행정명령 14434호에 따라 각 기관은 “Artificial Intelligence”와 “AI” 대신 “Super Intelligence”와 “SI”를 쓴다.) 신청은 2026년 11월 30일부터 수시로 받는다."
+                "x": "조시 고트하이머(Josh Gottheimer, D-N.J.) 하원의원과 너새니얼 모런(Nathaniel Moran, R-Texas) 하원의원이 초당적 법안을 냈다. 일정 요건을 갖춘 인공지능 개발사가 새 시스템 개발에 AI가 어떻게 기여하는지, 사람의 감독은 얼마나 남아 있는지 보고하게 하는 법안이다."
               },
               {
                 "t": "p",
-                "x": "On-Demand Consortia는 구체적으로 확인된 해외 수출 기회에 대응하려고 산업계가 주도해 꾸리는 연합체다. Pre-Set Consortia와 달리 패키지에는 구매자가 요구하는 SI 스택 계층만 담으면 된다. 다만 기존 인프라나 확보한 인프라와 묶어 어떻게 full-stack SI 기술 패키지를 이루는지는 보여야 한다. 신청자는 그 기회가 이미 있거나 곧 생긴다는 점, 패키지가 선정될 합리적 가능성이 있다는 점을 입증해야 한다."
+                "x": "2026년 11월 24일 발의된 '재귀적 자기개선 안전법(Recursive Self-Improvement Safety Act)'에 따르면 대상 개발사는 U.S. 상무부(Department of Commerce) 산하에 새로 두자는 프런티어 인공지능 연구국(Office of Frontier Artificial Intelligence Research)에 분기마다 보고서를 내야 한다. 보고서에는 데이터와 학습 입력, 알고리즘 설계, 실험, 안전성 평가 전반에서 AI가 얼마나 관여했고 사람이 어떻게 감독했는지가 담긴다."
               },
               {
                 "t": "p",
-                "x": "상무장관은 국무·전쟁·에너지 장관, OSTP 국장과 협의해 국익을 기준으로 지정 여부를 정하며, 60일(역일) 안에 결정할 계획이다. 지정 건수에 상한은 없다. 고시에는 패키지 재지정과 지정 해제 절차도 담겼다. Pre-Set Consortia 신청은 추후 다시 받을 수 있다고 했다."
+                "x": "보고 의무 대상은 정해진 연산 능력 기준을 넘는 모델을 학습시키고, 직전 연도 학습에 최소 $100 million 을 쓴 개발사다. 챗봇을 운영하는 소규모 스타트업은 대부분 빠진다."
+              },
+              {
+                "t": "p",
+                "x": "보고가 허위이거나 불완전하면 최대 $10 million 의 민사 제재금을 물 수 있다. 보고 위반 가능성을 알리는 내부고발자를 보호하는 조항도 들어 있다."
+              },
+              {
+                "t": "p",
+                "x": "재귀적 자기개선 자체를 금지하거나 상한을 두지는 않는다. 보고 의무가 시행되려면 먼저 위원회와 의회 상하 양원을 통과해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "商務省、US AI輸出\nコンソーシアム枠を新設",
-          "body": "11月30日から、コンソーシアムが海外案件別にUS AI輸出パッケージの指定を申請できる。",
-          "mini_headline": "商務省、AI輸出コンソーシアム枠",
+          "headline": "AI-driven R&D\n報告を求める超党派法案",
+          "body": "超党派の下院法案は、大手開発企業に自社R&DでのAIの役割の四半期報告を求める。",
+          "mini_headline": "AI R&D報告法案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+                "src": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/b3d2f03709cf865ed17f50d0d9ccdcf62352951b14f2809f921ab1194064389b.webp",
+                "cap": "人工知能の監督をめぐる議論に備えた無人の公聴会場 / TokenPost.ai"
               },
               {
                 "t": "p",
-                "x": "商務省は国際貿易局（ITA）を通じ、大統領令14320号「米国SI技術スタックの輸出促進」に基づく超知能（Super Intelligence、SI）輸出プログラムの下で、On-Demand Consortia（オンデマンド型コンソーシアム）の枠組みを設ける。（大統領令14434号により、各機関は「Artificial Intelligence」「AI」に代えて「Super Intelligence」「SI」を用いる。）申請は2026年11月30日から随時受け付ける。"
+                "x": "ジョシュ・ゴットハイマー(Josh Gottheimer、D-N.J.)下院議員とナサニエル・モラン(Nathaniel Moran、R-Texas)下院議員が超党派法案を提出した。要件を満たす人工知能開発企業に対し、AIが新しいシステムの構築にどう寄与しているか、人間の監督がどの程度残っているかの報告を義務づける内容だ。"
               },
               {
                 "t": "p",
-                "x": "On-Demand Consortiaは、特定され確認された海外輸出機会に対応するため業界主導で結成される連合体である。Pre-Set Consortiaと異なり、そのパッケージは買い手の要求を満たすのに必要なSIスタックの層だけを提供すればよいが、既存または取得したインフラと組み合わせてfull-stackのSI技術パッケージになる仕組みを示さなければならない。申請者は、その機会が現存するか近く生じること、パッケージが選ばれる合理的な見込みがあることを示す必要がある。"
+                "x": "2026年11月24日に提出された「再帰的自己改善安全法(Recursive Self-Improvement Safety Act)」は、対象企業に対し、U.S. 商務省内に新設が提案されている「フロンティア人工知能研究局(Office of Frontier Artificial Intelligence Research)」へ四半期ごとに報告書を提出するよう求める。報告はデータと学習入力、アルゴリズム設計、実験、安全性評価の各段階におけるAIの関与と人間の監督を対象とする。"
               },
               {
                 "t": "p",
-                "x": "商務長官は国務・戦争・エネルギー各長官およびOSTP局長と協議し、国益に基づいて指定を判断し、60暦日以内に決定を出す方針だ。指定件数に上限はない。告示はパッケージの再指定と指定取り消しについても定め、Pre-Set Consortiaの申請を後日改めて受け付ける可能性があるとしている。"
+                "x": "報告義務は、定められた計算能力の基準を超えるモデルを学習させ、前年に学習へ少なくとも$100 million を投じた開発企業に適用される。チャットボットを運営する小規模スタートアップは、おおむね対象外となる。"
+              },
+              {
+                "t": "p",
+                "x": "虚偽または不完全な報告には、最大$10 million の民事制裁金が科される可能性がある。法案は、報告義務違反の疑いを告発する内部告発者も保護する。"
+              },
+              {
+                "t": "p",
+                "x": "法案は再帰的自己改善を禁止したり上限を設けたりするものではない。報告義務が発効するには、委員会と議会の上下両院を通過する必要がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "商务部为US AI出口\n开通联合体申请通道",
-          "body": "自11月30日起，联合体可申请将US AI出口方案指定用于特定海外交易。",
-          "mini_headline": "商务部开通AI出口联合体通道",
+          "headline": "AI-driven R&D\n两党法案要求提交报告",
+          "body": "一项两党众议院法案要求大型前沿开发商按季度报告AI在自身R&D中的作用。",
+          "mini_headline": "AI R&D报告法案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+                "src": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/b3d2f03709cf865ed17f50d0d9ccdcf62352951b14f2809f921ab1194064389b.webp",
+                "cap": "为人工智能监管辩论准备的空荡听证室 / TokenPost.ai"
               },
               {
                 "t": "p",
-                "x": "美国商务部通过国际贸易管理局（ITA），在第14320号行政令《推动美国SI技术栈出口》授权的超级智能（Super Intelligence，SI）出口计划下，设立On-Demand Consortia（按需联合体）途径。（根据第14434号行政令，各机构以“Super Intelligence”和“SI”取代“Artificial Intelligence”和“AI”。）申请自2026年11月30日起滚动受理。"
+                "x": "众议员乔希·戈特海默(Josh Gottheimer,D-N.J.)与纳撒尼尔·莫兰(Nathaniel Moran,R-Texas)提出一项两党法案,要求符合条件的人工智能开发商报告AI如何参与构建更新的系统,以及其中仍保留多少人类监督。"
               },
               {
                 "t": "p",
-                "x": "On-Demand Consortia是为回应某一具体、已确认的海外出口机会而组建的行业主导联合体。与Pre-Set Consortia不同，其方案只需提供满足买方需求所必需的SI技术栈层级，但必须说明如何与现有或收购的基础设施结合，形成full-stack SI技术方案。申请者须证明该机会已经存在或即将出现，且方案有合理可能被选中。"
+                "x": "《递归自我改进安全法》(Recursive Self-Improvement Safety Act)于2026年11月24日提出,要求受管辖的开发商按季度向拟在U.S. 商务部内设立的前沿人工智能研究办公室(Office of Frontier Artificial Intelligence Research)提交报告。报告内容涵盖数据与训练输入、算法设计、实验及安全评估各环节中AI的参与程度和人类监督情况。"
               },
               {
                 "t": "p",
-                "x": "商务部长将与国务卿、战争部长、能源部长及OSTP主任协商，依据国家利益作出指定决定，并计划在60个日历日内作出决定。指定数量没有上限。公告还规定了方案的重新指定与撤销指定，并表示今后可能再次受理Pre-Set Consortia申请。"
+                "x": "报告要求适用于训练模型超过既定算力门槛、且上一年度训练支出至少$100 million 的开发商。运营聊天机器人的小型初创公司一般不在规定范围内。"
+              },
+              {
+                "t": "p",
+                "x": "虚假或不完整的报告可能面临最高$10 million 的民事罚款。该提案还将保护举报潜在报告违规行为的吹哨人。"
+              },
+              {
+                "t": "p",
+                "x": "该法案并不禁止或限制递归自我改进。立法仍须经过委员会审议并获国会两院通过,报告要求才能生效。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Comercio abre vía a consorcios\npara exportar AI de US",
-          "body": "Desde el 30 de noviembre, consorcios pueden pedir la designación de paquetes US de AI para acuerdos en el exterior.",
-          "mini_headline": "Comercio abre vía a consorcios de AI",
+          "headline": "Proyecto bipartidista pide\ninformes sobre R&D AI-driven",
+          "body": "Un proyecto bipartidista obligaría a grandes desarrolladores a informar cada trimestre del papel de la AI en su R&D.",
+          "mini_headline": "Proyecto pide informes de AI R&D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+                "src": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/b3d2f03709cf865ed17f50d0d9ccdcf62352951b14f2809f921ab1194064389b.webp",
+                "cap": "Sala de audiencias vacía preparada para el debate sobre la supervisión de la inteligencia artificial / TokenPost.ai"
               },
               {
                 "t": "p",
-                "x": "El Departamento de Comercio, a través de la Administración de Comercio Internacional (ITA), establece la vía On-Demand Consortia dentro del Programa de Exportaciones de Superinteligencia (SI) autorizado por la Orden Ejecutiva 14320: Promoción de la Exportación de la Pila Tecnológica de SI Estadounidense. (Según la Orden Ejecutiva 14434, las agencias usan “Super Intelligence” y “SI” en lugar de “Artificial Intelligence” y “AI”.) Las solicitudes podrán presentarse a partir del 30 de noviembre de 2026, de forma continua."
+                "x": "Los representantes Josh Gottheimer, D-N.J., y Nathaniel Moran, R-Texas, presentaron un proyecto de ley bipartidista que obligaría a los desarrolladores de inteligencia artificial que cumplan los requisitos a informar de cómo contribuye la AI a crear sistemas más nuevos y de cuánta supervisión humana sigue implicada."
               },
               {
                 "t": "p",
-                "x": "Los On-Demand Consortia son agrupaciones lideradas por la industria que se forman para responder a una oportunidad de exportación concreta e identificada en el extranjero. A diferencia de los Pre-Set Consortia, sus paquetes solo deben ofrecer las capas de la pila de SI necesarias para cubrir la demanda del comprador, pero deben mostrar cómo se combinan con infraestructura existente o adquirida para dar lugar a un paquete tecnológico de SI full-stack. Los solicitantes deben demostrar que la oportunidad existe o es inminente y que hay una probabilidad razonable de que el paquete sea seleccionado."
+                "x": "La Recursive Self-Improvement Safety Act, presentada el 24 de noviembre de 2026, obligaría a los desarrolladores cubiertos a presentar informes trimestrales ante una propuesta Office of Frontier Artificial Intelligence Research dentro del U.S. Department of Commerce. Los informes abarcarían la participación de la AI y la supervisión humana en los datos y las entradas de entrenamiento, el diseño algorítmico, la experimentación y la evaluación de seguridad."
               },
               {
                 "t": "p",
-                "x": "El secretario de Comercio, en consulta con los secretarios de Estado, Guerra y Energía y el director de la OSTP, tomará las decisiones de designación con base en el interés nacional, y prevé emitir una decisión en un plazo de 60 días naturales. No hay un tope numérico de designaciones. El aviso también contempla la redesignación y la retirada de la designación de paquetes, y señala que las solicitudes de Pre-Set Consortia podrían volver a aceptarse más adelante."
+                "x": "Los requisitos de información se aplicarían a los desarrolladores que entrenen modelos por encima de un umbral definido de potencia de cómputo y que hayan gastado al menos 100 millones de dólares en entrenamiento el año anterior. Las startups más pequeñas que operan chatbots quedarían, en general, fuera de las normas."
+              },
+              {
+                "t": "p",
+                "x": "Los informes falsos o incompletos podrían acarrear sanciones civiles de hasta 10 millones de dólares. La propuesta también protegería a los denunciantes que revelen posibles infracciones en los informes."
+              },
+              {
+                "t": "p",
+                "x": "El proyecto no prohibiría ni limitaría la automejora recursiva. La legislación aún debe pasar por comisión y por ambas cámaras del Congreso antes de que cualquier requisito de información pueda entrar en vigor."
               }
             ]
           }
@@ -169,105 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "상무부, US AI 수출\n컨소시엄 신청길 열었다",
-          "body": "11월 30일부터 컨소시엄이 해외 거래별 US AI 수출 패키지 지정을 신청한다.",
-          "mini_headline": "상무부, AI 수출 컨소시엄 길 열어",
+          "headline": "AI-driven R&D\n보고 요구하는 초당적 법안",
+          "body": "초당적 하원 법안이 대형 개발사에 R&D 속 AI 역할의 분기 보고를 요구한다.",
+          "mini_headline": "AI R&D 보고 법안",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+                "src": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/b3d2f03709cf865ed17f50d0d9ccdcf62352951b14f2809f921ab1194064389b.webp",
+                "cap": "인공지능 감독 논의를 앞두고 준비된 빈 청문회장 / TokenPost.ai"
               },
               {
                 "t": "p",
-                "x": "상무부는 국제무역청(ITA)을 통해 행정명령 14320호 「미국 SI 기술 스택 수출 촉진」이 승인한 초지능(Super Intelligence, SI) 수출 프로그램에 On-Demand Consortia(수요 대응형 컨소시엄) 경로를 신설한다. (행정명령 14434호에 따라 각 기관은 “Artificial Intelligence”와 “AI” 대신 “Super Intelligence”와 “SI”를 쓴다.) 신청은 2026년 11월 30일부터 수시로 받는다."
+                "x": "조시 고트하이머(Josh Gottheimer, D-N.J.) 하원의원과 너새니얼 모런(Nathaniel Moran, R-Texas) 하원의원이 초당적 법안을 발의했다. 요건을 충족하는 인공지능 개발사가 AI가 새 시스템 개발에 어떻게 기여하는지, 사람의 감독이 얼마나 남아 있는지를 보고하도록 하는 내용이다."
               },
               {
                 "t": "p",
-                "x": "On-Demand Consortia는 구체적으로 확인된 해외 수출 기회에 대응하려고 산업계가 주도해 꾸리는 연합체다. Pre-Set Consortia와 달리 이들의 패키지는 구매자 요구를 충족하는 데 필요한 SI 스택 계층만 제공하면 되지만, 기존 인프라나 확보한 인프라와 결합해 full-stack SI 기술 패키지를 이루는 방식을 보여야 한다. 신청자는 해당 기회가 이미 있거나 곧 생길 것이며 패키지가 선정될 합리적 가능성이 있음을 입증해야 한다."
+                "x": "2026년 11월 24일 발의된 '재귀적 자기개선 안전법(Recursive Self-Improvement Safety Act)'은 대상 개발사가 U.S. 상무부(Department of Commerce) 산하에 신설이 제안된 프런티어 인공지능 연구국(Office of Frontier Artificial Intelligence Research)에 분기별 보고서를 내도록 한다. 보고서는 데이터와 학습 입력, 알고리즘 설계, 실험, 안전성 평가 전반에서 AI의 관여와 사람의 감독을 다룬다."
               },
               {
                 "t": "p",
-                "x": "상무장관은 국무·전쟁·에너지 장관, OSTP 국장과 협의해 국익을 기준으로 지정 여부를 정하며, 60일(역일) 안에 결정을 내릴 계획이다. 지정 건수에 상한은 없다. 고시는 패키지의 재지정과 지정 해제 절차도 두었고, Pre-Set Consortia 신청은 추후 다시 받을 수 있다고 밝혔다."
+                "x": "보고 의무는 정해진 연산 능력 기준을 넘는 모델을 학습시키고 직전 연도 학습에 최소 $100 million 을 쓴 개발사에 적용된다. 챗봇을 운영하는 소규모 스타트업은 대체로 규정 대상에서 빠진다."
+              },
+              {
+                "t": "p",
+                "x": "허위 또는 불완전한 보고에는 최대 $10 million 의 민사 제재금이 부과될 수 있다. 법안은 보고 위반 가능성을 제보하는 내부고발자도 보호한다."
+              },
+              {
+                "t": "p",
+                "x": "법안은 재귀적 자기개선을 금지하거나 상한을 두지 않는다. 보고 의무가 시행되려면 먼저 위원회와 의회 상하 양원을 통과해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "商務省、US AI輸出\nコンソーシアム枠を新設",
-          "body": "11月30日から、コンソーシアムが海外案件別にUS AI輸出パッケージの指定を申請できる。",
-          "mini_headline": "商務省、AI輸出コンソーシアム枠",
+          "headline": "AI-driven R&D\n報告を求める超党派法案",
+          "body": "超党派の下院法案は、大手開発企業に自社R&DでのAIの役割の四半期報告を求める。",
+          "mini_headline": "AI R&D報告法案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+                "src": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/b3d2f03709cf865ed17f50d0d9ccdcf62352951b14f2809f921ab1194064389b.webp",
+                "cap": "人工知能の監督をめぐる議論に備えた無人の公聴会場 / TokenPost.ai"
               },
               {
                 "t": "p",
-                "x": "商務省は国際貿易局（ITA）を通じ、大統領令14320号「米国SI技術スタックの輸出促進」に基づく超知能（Super Intelligence、SI）輸出プログラムの下で、On-Demand Consortia（オンデマンド型コンソーシアム）の枠組みを設ける。（大統領令14434号により、各機関は「Artificial Intelligence」「AI」に代えて「Super Intelligence」「SI」を用いる。）申請は2026年11月30日から随時受け付ける。"
+                "x": "ジョシュ・ゴットハイマー(Josh Gottheimer、D-N.J.)下院議員とナサニエル・モラン(Nathaniel Moran、R-Texas)下院議員が超党派法案を提出した。要件を満たす人工知能開発企業に対し、AIが新しいシステムの構築にどう寄与しているか、人間の監督がどの程度残っているかの報告を義務づける内容だ。"
               },
               {
                 "t": "p",
-                "x": "On-Demand Consortiaは、特定され確認された海外輸出機会に対応するため業界主導で結成される連合体である。Pre-Set Consortiaと異なり、そのパッケージは買い手の要求を満たすのに必要なSIスタックの層だけを提供すればよいが、既存または取得したインフラと組み合わせてfull-stackのSI技術パッケージになる仕組みを示さなければならない。申請者は、その機会が現存するか近く生じること、パッケージが選ばれる合理的な見込みがあることを示す必要がある。"
+                "x": "2026年11月24日に提出された「再帰的自己改善安全法(Recursive Self-Improvement Safety Act)」は、対象企業に対し、U.S. 商務省内に新設が提案されている「フロンティア人工知能研究局(Office of Frontier Artificial Intelligence Research)」へ四半期ごとに報告書を提出するよう求める。報告はデータと学習入力、アルゴリズム設計、実験、安全性評価の各段階におけるAIの関与と人間の監督を対象とする。"
               },
               {
                 "t": "p",
-                "x": "商務長官は国務・戦争・エネルギー各長官およびOSTP局長と協議し、国益に基づいて指定を判断し、60暦日以内に決定を出す方針だ。指定件数に上限はない。告示はパッケージの再指定と指定取り消しについても定め、Pre-Set Consortiaの申請を後日改めて受け付ける可能性があるとしている。"
+                "x": "報告義務は、定められた計算能力の基準を超えるモデルを学習させ、前年に学習へ少なくとも$100 million を投じた開発企業に適用される。チャットボットを運営する小規模スタートアップは、おおむね対象外となる。"
+              },
+              {
+                "t": "p",
+                "x": "虚偽または不完全な報告には、最大$10 million の民事制裁金が科される可能性がある。法案は、報告義務違反の疑いを告発する内部告発者も保護する。"
+              },
+              {
+                "t": "p",
+                "x": "法案は再帰的自己改善を禁止したり上限を設けたりするものではない。報告義務が発効するには、委員会と議会の上下両院を通過する必要がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "商务部为US AI出口\n开通联合体申请通道",
-          "body": "自11月30日起，联合体可申请将US AI出口方案指定用于特定海外交易。",
-          "mini_headline": "商务部开通AI出口联合体通道",
+          "headline": "AI-driven R&D\n两党法案要求提交报告",
+          "body": "一项两党众议院法案要求大型前沿开发商按季度报告AI在自身R&D中的作用。",
+          "mini_headline": "AI R&D报告法案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+                "src": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/b3d2f03709cf865ed17f50d0d9ccdcf62352951b14f2809f921ab1194064389b.webp",
+                "cap": "为人工智能监管辩论准备的空荡听证室 / TokenPost.ai"
               },
               {
                 "t": "p",
-                "x": "美国商务部通过国际贸易管理局（ITA），在第14320号行政令《推动美国SI技术栈出口》授权的超级智能（Super Intelligence，SI）出口计划下，设立On-Demand Consortia（按需联合体）途径。（根据第14434号行政令，各机构以“Super Intelligence”和“SI”取代“Artificial Intelligence”和“AI”。）申请自2026年11月30日起滚动受理。"
+                "x": "众议员乔希·戈特海默(Josh Gottheimer,D-N.J.)与纳撒尼尔·莫兰(Nathaniel Moran,R-Texas)提出一项两党法案,要求符合条件的人工智能开发商报告AI如何参与构建更新的系统,以及其中仍保留多少人类监督。"
               },
               {
                 "t": "p",
-                "x": "On-Demand Consortia是为回应某一具体、已确认的海外出口机会而组建的行业主导联合体。与Pre-Set Consortia不同，其方案只需提供满足买方需求所必需的SI技术栈层级，但必须说明如何与现有或收购的基础设施结合，形成full-stack SI技术方案。申请者须证明该机会已经存在或即将出现，且方案有合理可能被选中。"
+                "x": "《递归自我改进安全法》(Recursive Self-Improvement Safety Act)于2026年11月24日提出,要求受管辖的开发商按季度向拟在U.S. 商务部内设立的前沿人工智能研究办公室(Office of Frontier Artificial Intelligence Research)提交报告。报告内容涵盖数据与训练输入、算法设计、实验及安全评估各环节中AI的参与程度和人类监督情况。"
               },
               {
                 "t": "p",
-                "x": "商务部长将与国务卿、战争部长、能源部长及OSTP主任协商，依据国家利益作出指定决定，并计划在60个日历日内作出决定。指定数量没有上限。公告还规定了方案的重新指定与撤销指定，并表示今后可能再次受理Pre-Set Consortia申请。"
+                "x": "报告要求适用于训练模型超过既定算力门槛、且上一年度训练支出至少$100 million 的开发商。运营聊天机器人的小型初创公司一般不在规定范围内。"
+              },
+              {
+                "t": "p",
+                "x": "虚假或不完整的报告可能面临最高$10 million 的民事罚款。该提案还将保护举报潜在报告违规行为的吹哨人。"
+              },
+              {
+                "t": "p",
+                "x": "该法案并不禁止或限制递归自我改进。立法仍须经过委员会审议并获国会两院通过,报告要求才能生效。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Comercio abre vía a consorcios\npara exportar AI de US",
-          "body": "Desde el 30 de noviembre, consorcios pueden pedir la designación de paquetes US de AI para acuerdos en el exterior.",
-          "mini_headline": "Comercio abre vía a consorcios de AI",
+          "headline": "Proyecto bipartidista pide\ninformes sobre R&D AI-driven",
+          "body": "Un proyecto bipartidista obligaría a grandes desarrolladores a informar cada trimestre del papel de la AI en su R&D.",
+          "mini_headline": "Proyecto pide informes de AI R&D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+                "src": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/b3d2f03709cf865ed17f50d0d9ccdcf62352951b14f2809f921ab1194064389b.webp",
+                "cap": "Sala de audiencias vacía preparada para el debate sobre la supervisión de la inteligencia artificial / TokenPost.ai"
               },
               {
                 "t": "p",
-                "x": "El Departamento de Comercio, a través de la Administración de Comercio Internacional (ITA), establece la vía On-Demand Consortia dentro del Programa de Exportaciones de Superinteligencia (SI) autorizado por la Orden Ejecutiva 14320: Promoción de la Exportación de la Pila Tecnológica de SI Estadounidense. (Según la Orden Ejecutiva 14434, las agencias usan “Super Intelligence” y “SI” en lugar de “Artificial Intelligence” y “AI”.) Las solicitudes podrán presentarse a partir del 30 de noviembre de 2026, de forma continua."
+                "x": "Los representantes Josh Gottheimer, D-N.J., y Nathaniel Moran, R-Texas, presentaron un proyecto de ley bipartidista que obligaría a los desarrolladores de inteligencia artificial que cumplan los requisitos a informar de cómo contribuye la AI a crear sistemas más nuevos y de cuánta supervisión humana sigue implicada."
               },
               {
                 "t": "p",
-                "x": "Los On-Demand Consortia son agrupaciones lideradas por la industria que se forman para responder a una oportunidad de exportación concreta e identificada en el extranjero. A diferencia de los Pre-Set Consortia, sus paquetes solo deben ofrecer las capas de la pila de SI necesarias para cubrir la demanda del comprador, pero deben mostrar cómo se combinan con infraestructura existente o adquirida para dar lugar a un paquete tecnológico de SI full-stack. Los solicitantes deben demostrar que la oportunidad existe o es inminente y que hay una probabilidad razonable de que el paquete sea seleccionado."
+                "x": "La Recursive Self-Improvement Safety Act, presentada el 24 de noviembre de 2026, obligaría a los desarrolladores cubiertos a presentar informes trimestrales ante una propuesta Office of Frontier Artificial Intelligence Research dentro del U.S. Department of Commerce. Los informes abarcarían la participación de la AI y la supervisión humana en los datos y las entradas de entrenamiento, el diseño algorítmico, la experimentación y la evaluación de seguridad."
               },
               {
                 "t": "p",
-                "x": "El secretario de Comercio, en consulta con los secretarios de Estado, Guerra y Energía y el director de la OSTP, tomará las decisiones de designación con base en el interés nacional, y prevé emitir una decisión en un plazo de 60 días naturales. No hay un tope numérico de designaciones. El aviso también contempla la redesignación y la retirada de la designación de paquetes, y señala que las solicitudes de Pre-Set Consortia podrían volver a aceptarse más adelante."
+                "x": "Los requisitos de información se aplicarían a los desarrolladores que entrenen modelos por encima de un umbral definido de potencia de cómputo y que hayan gastado al menos 100 millones de dólares en entrenamiento el año anterior. Las startups más pequeñas que operan chatbots quedarían, en general, fuera de las normas."
+              },
+              {
+                "t": "p",
+                "x": "Los informes falsos o incompletos podrían acarrear sanciones civiles de hasta 10 millones de dólares. La propuesta también protegería a los denunciantes que revelen posibles infracciones en los informes."
+              },
+              {
+                "t": "p",
+                "x": "El proyecto no prohibiría ni limitaría la automejora recursiva. La legislación aún debe pasar por comisión y por ambas cámaras del Congreso antes de que cualquier requisito de información pueda entrar en vigor."
               }
             ]
           }
@@ -275,431 +365,351 @@
       }
     },
     {
-      "id": "apple-siri-kftc-ad-probe",
-      "source_lang": "ko",
+      "id": "politics-uk-datacenter-petition",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "공정위, 애플 시리\nAI 광고 심의 착수",
-      "body": "심사관은 애플이 제공 시기가 불확실한 AI 기능을 쓸 수 있는 듯 광고했다고 봤다.",
-      "mini_headline": "공정위, 애플\nAI 광고 심의",
+      "headline": "UK, AI 데이터센터\n전국 협의 거부",
+      "body": "39,000명 청원에도 UK 정부는 데이터센터 환경 검토를 사업마다 하겠다고 했다.",
+      "mini_headline": "UK, 데이터센터 협의 거부",
       "tool": "Politics",
-      "source": "전자신문",
-      "url": "https://www.etnews.com/20261126000303",
+      "source": "The Register",
+      "url": "https://www.theregister.com/off-prem/2026/11/27/uk-government-rejects-national-consultation-on-ai-datacenters/5312501",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
+            "src": "https://image.theregister.com/5289080.jpg?imageId=5289080&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
           },
           {
             "t": "p",
-            "x": "애플이 아이폰16 시리즈를 출시하면서 일부 인공지능(AI) 기능의 제공 시기가 불확실한데도 정상적으로 서비스를 이용할 수 있는 것처럼 광고한 혐의로 공정거래위원회 심의를 받는다. 공정위 심사관은 관련 매출액을 3조3527억원으로 산정하고 과징금 부과 의견을 냈다."
+            "x": "39,000명 넘게 서명한 청원에도 UK 정부가 AI 데이터센터의 환경 영향을 다룰 UK 전역(UK-wide) 공개 협의 요구를 받아들이지 않았다. 청원은 캠페인 단체 Protect the Wild가 지난달 시작했다."
           },
           {
             "t": "p",
-            "x": "공정위는 애플과 애플코리아의 표시광고법 위반 혐의에 대한 심사보고서를 지난 24일 위원회에 제출하고 해당 기업에도 송부했다고 26일 밝혔다. 지난해 3월 신고를 접수해 조사에 착수한 지 1년 8개월 만이다."
+            "x": "정부는 11월 23일 낸 답변에서 UK 전역 환경 협의는 하지 않겠다며, 개별 사업의 영향은 계획 허가 절차에서 따져야 한다고 했다. 그 대신 2027년 1월 8일까지 진행하는 데이터센터 계획 정책 초안 협의를 따로 제시했다."
           },
           {
             "t": "p",
-            "x": "쟁점은 애플이 아이폰16의 주요 판매 전략으로 내세운 '애플 인텔리전스(Apple Intelligence)'다. 애플은 2024년 9월부터 지난해 3월까지 제품 홈페이지를 통해 글쓰기 도구와 이미지 생성, 음성비서 시리(Siri) 등 9가지 AI 기능을 광고했다."
+            "x": "\"데이터센터는 UK 디지털 경제에 필수적이다. … AI를 개발하고 활용하는 데 필요한 인프라도 제공한다\"고 기업·혁신·과학·통상부(Department for Business, Innovation, Science and Trade, BIST)는 밝혔다. 부처는 환경 영향이 실제로 있고 이를 파악해 줄여야 한다면서, Data Centre Covenant 심사 기준을 만든 이유 중 하나도 여기에 있다고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "그러나 이 가운데 젠모지, 이미지 플레이그라운드, 개인적 맥락을 이해하는 시리, 단계별 가이드를 제공하는 시리 등 4가지 기능은 광고 내용대로 제공되지 않았다."
+            "x": "Protect the Wild는 Covenant가 \"야생동물, 서식지, 생물다양성을 거의 다루지 않는다\"고 지적한다. 환경 문제를 사업별로 처리하면 국가 차원의 온실가스 배출 대응이 크게 막힌다는 주장이다."
           },
           {
             "t": "p",
-            "x": "대표적으로 개인적 맥락을 이해하는 시리 기능은 2024년 말까지 미국 영어로 출시하고 지난해 4월 초 한국어를 지원할 예정이라고 광고했다. 실제 미국 영어 서비스는 올해 9월에야 출시됐으며 한국어 지원은 지난달 시작됐다."
-          },
-          {
-            "t": "p",
-            "x": "공정위 심사관은 애플이 일부 기능의 출시 지연 가능성과 실제 제공 시기 등 소비자 구매 결정에 중요한 정보를 은폐·축소하거나 누락한 것으로 판단했다. 표시광고법상 기만적 광고에 해당하는 중대한 위반행위로 보고 향후 행위금지명령과 공표명령, 과징금 부과 등 제재 의견을 제시했다."
-          },
-          {
-            "t": "p",
-            "x": "애플은 심사보고서를 받은 날부터 6주 이내에 서면 의견을 제출할 수 있다. 공정위는 이후 위원회 심의를 거쳐 법 위반 여부와 과징금 부과액 등을 최종 결정할 방침이다."
+            "x": "별도 보고서를 보면 정부는 2024년 7월부터 2026년 6월까지 데이터센터 문제로 137개 기업을 만났다. 같은 기간 지역 공동체 단체나 환경 단체와는 한 곳도 만나지 않았다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "공정위, 애플 시리\nAI 광고 심의 착수",
-          "body": "심사관은 애플이 제공 시기가 불확실한 AI 기능을 쓸 수 있는 듯 광고했다고 봤다.",
-          "mini_headline": "공정위, 애플\nAI 광고 심의",
+        "en": {
+          "headline": "UK rejects national AI\ndatacenter consultation",
+          "body": "Despite a 39,000-signature petition, the UK government says datacenter environmental checks stay project by project.",
+          "mini_headline": "UK rejects datacenter consultation",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
+                "src": "https://image.theregister.com/5289080.jpg?imageId=5289080&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "애플이 아이폰16 시리즈를 출시하면서 일부 인공지능(AI) 기능의 제공 시기가 불확실한데도 정상적으로 서비스를 이용할 수 있는 것처럼 광고한 혐의로 공정거래위원회 심의를 받는다. 공정위 심사관은 관련 매출액을 3조3527억원으로 산정하고 과징금 부과 의견을 냈다."
+                "x": "The UK government has rejected calls for a UK-wide public consultation on the environmental impacts of AI datacenters, despite a petition attracting more than 39,000 signatures. Campaign group Protect the Wild launched the petition last month."
               },
               {
                 "t": "p",
-                "x": "공정위는 애플과 애플코리아의 표시광고법 위반 혐의에 대한 심사보고서를 지난 24일 위원회에 제출하고 해당 기업에도 송부했다고 26일 밝혔다. 지난해 3월 신고를 접수해 조사에 착수한 지 1년 8개월 만이다."
+                "x": "In its response, published on November 23, the government ruled out the requested UK-wide environmental consultation, saying individual projects' impacts should be addressed through the planning process. It pointed instead to a separate consultation on its draft datacenter planning policy, open until January 8, 2027."
               },
               {
                 "t": "p",
-                "x": "쟁점은 애플이 아이폰16의 주요 판매 전략으로 내세운 '애플 인텔리전스(Apple Intelligence)'다. 애플은 2024년 9월부터 지난해 3월까지 제품 홈페이지를 통해 글쓰기 도구와 이미지 생성, 음성비서 시리(Siri) 등 9가지 AI 기능을 광고했다."
+                "x": "\"Datacenters are vital to the UK's digital economy. … They also provide the infrastructure needed to develop and use AI,\" the Department for Business, Innovation, Science and Trade (BIST) says. It adds that the environmental impacts are real and must be understood and mitigated, one reason it established the Data Centre Covenant tests."
               },
               {
                 "t": "p",
-                "x": "그러나 이 가운데 젠모지, 이미지 플레이그라운드, 개인적 맥락을 이해하는 시리, 단계별 가이드를 제공하는 시리 등 4가지 기능은 광고 내용대로 제공되지 않았다."
+                "x": "Protect the Wild notes that the Covenant \"barely acknowledges wildlife, habitats or biodiversity,\" and contends that handling environmental concerns project by project is a major barrier to tackling greenhouse gas emissions at a national level."
               },
               {
                 "t": "p",
-                "x": "대표적으로 개인적 맥락을 이해하는 시리 기능은 2024년 말까지 미국 영어로 출시하고 지난해 4월 초 한국어를 지원할 예정이라고 광고했다. 실제 미국 영어 서비스는 올해 9월에야 출시됐으며 한국어 지원은 지난달 시작됐다."
-              },
-              {
-                "t": "p",
-                "x": "공정위 심사관은 애플이 일부 기능의 출시 지연 가능성과 실제 제공 시기 등 소비자 구매 결정에 중요한 정보를 은폐·축소하거나 누락한 것으로 판단했다. 표시광고법상 기만적 광고에 해당하는 중대한 위반행위로 보고 향후 행위금지명령과 공표명령, 과징금 부과 등 제재 의견을 제시했다."
-              },
-              {
-                "t": "p",
-                "x": "애플은 심사보고서를 받은 날부터 6주 이내에 서면 의견을 제출할 수 있다. 공정위는 이후 위원회 심의를 거쳐 법 위반 여부와 과징금 부과액 등을 최종 결정할 방침이다."
+                "x": "A separate report found that the government met with 137 different businesses to discuss datacenters between July 2024 and June 2026, but did not meet a single community group or environmental organization during the same period."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Korea's fair trade agency\nreviews Apple Siri AI ads",
-          "body": "The case examiner found Apple advertised AI features as usable though their release timing was uncertain.",
-          "mini_headline": "Korea reviews Apple AI ads",
+        "ko": {
+          "headline": "UK, AI 데이터센터\n전국 협의 거부",
+          "body": "39,000명 청원에도 UK 정부는 데이터센터 환경 검토를 사업마다 하겠다고 했다.",
+          "mini_headline": "UK, 데이터센터 협의 거부",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
+                "src": "https://image.theregister.com/5289080.jpg?imageId=5289080&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Apple faces a Fair Trade Commission review over allegations that, when it launched the iPhone 16 series, it advertised some artificial intelligence (AI) features as if the services could be used normally even though their availability dates were uncertain. The commission's examiner put the related sales at 3조3527억원 and recommended a fine."
+                "x": "39,000명 넘게 서명한 청원에도 UK 정부가 AI 데이터센터의 환경 영향을 다룰 UK 전역(UK-wide) 공개 협의 요구를 받아들이지 않았다. 청원은 캠페인 단체 Protect the Wild가 지난달 시작했다."
               },
               {
                 "t": "p",
-                "x": "The Fair Trade Commission said on the 26th that it submitted an examination report on alleged violations of the Act on Fair Labeling and Advertising by Apple and Apple Korea to the commission on the 24th and also sent it to the companies. It comes 1 year and 8 months after the agency received a complaint in March last year and opened an investigation."
+                "x": "정부는 11월 23일 낸 답변에서 UK 전역 환경 협의는 하지 않겠다며, 개별 사업의 영향은 계획 허가 절차에서 따져야 한다고 했다. 그 대신 2027년 1월 8일까지 진행하는 데이터센터 계획 정책 초안 협의를 따로 제시했다."
               },
               {
                 "t": "p",
-                "x": "At issue is 'Apple Intelligence', which Apple promoted as a key sales strategy for the iPhone 16. From September 2024 to March last year, Apple advertised 9 AI features on its product website, including writing tools, image generation and the voice assistant Siri."
+                "x": "\"데이터센터는 UK 디지털 경제에 필수적이다. … AI를 개발하고 활용하는 데 필요한 인프라도 제공한다\"고 기업·혁신·과학·통상부(Department for Business, Innovation, Science and Trade, BIST)는 밝혔다. 부처는 환경 영향이 실제로 있고 이를 파악해 줄여야 한다면서, Data Centre Covenant 심사 기준을 만든 이유 중 하나도 여기에 있다고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "But 4 of them, Genmoji, Image Playground, a Siri that understands personal context and a Siri that offers step-by-step guidance, were not delivered as advertised."
+                "x": "Protect the Wild는 Covenant가 \"야생동물, 서식지, 생물다양성을 거의 다루지 않는다\"고 지적한다. 환경 문제를 사업별로 처리하면 국가 차원의 온실가스 배출 대응이 크게 막힌다는 주장이다."
               },
               {
                 "t": "p",
-                "x": "For example, Apple advertised that the Siri feature that understands personal context would launch in U.S. English by the end of 2024 and support Korean in early April last year. In fact, the U.S. English service launched only in September this year, and Korean support began last month."
-              },
-              {
-                "t": "p",
-                "x": "The examiner judged that Apple concealed, downplayed or omitted information important to consumers' purchase decisions, such as the possibility that some features would be delayed and when they would actually be provided. Treating this as a serious violation amounting to deceptive advertising under the Act on Fair Labeling and Advertising, the examiner recommended sanctions including a cease-and-desist order, a publication order and a fine."
-              },
-              {
-                "t": "p",
-                "x": "Apple can submit a written opinion within 6 weeks of receiving the examination report. The Fair Trade Commission plans to decide finally whether the law was violated and how large any fine should be after deliberation by the commission."
+                "x": "별도 보고서를 보면 정부는 2024년 7월부터 2026년 6월까지 데이터센터 문제로 137개 기업을 만났다. 같은 기간 지역 공동체 단체나 환경 단체와는 한 곳도 만나지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国公取委、Apple\nSiri AI広告を審議へ",
-          "body": "審査官は、Appleが提供時期の不確かなAI機能を使えるかのように広告したとみた。",
-          "mini_headline": "韓国公取委、AppleのAI広告を審議",
+          "headline": "UK、AIデータセンター\n全国協議を拒否",
+          "body": "39,000人の請願を受けても、UK政府はデータセンターの環境審査を事業ごとに行う方針だ。",
+          "mini_headline": "UK、データセンター協議を拒否",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
+                "src": "https://image.theregister.com/5289080.jpg?imageId=5289080&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Appleは、iPhone 16シリーズの発売時に一部の人工知能（AI）機能の提供時期が不確かだったにもかかわらず、通常どおりサービスを使えるかのように広告した疑いで、韓国公正取引委員会の審議を受ける。公取委の審査官は関連売上高を3조3527억원と算定し、課徴金を科すべきとの意見を出した。"
+                "x": "UK政府は、39,000人を超える署名を集めた請願にもかかわらず、AIデータセンターの環境影響に関するUK全域(UK-wide)での公開協議の要求を退けた。請願は運動団体Protect the Wildが先月立ち上げたものだ。"
               },
               {
                 "t": "p",
-                "x": "公取委は26日、AppleとApple Koreaの表示広告法違反の疑いに関する審査報告書を24日に委員会へ提出し、両社にも送付したと明らかにした。昨年3月に申告を受けて調査に着手してから1年8カ月ぶりだ。"
+                "x": "政府は11月23日に公表した回答で、求められたUK全域での環境協議を否定し、個々の事業の影響は計画許可の手続きで対処すべきだとした。代わりに、2027年1月8日まで受け付けているデータセンター計画政策案に関する別の協議を挙げた。"
               },
               {
                 "t": "p",
-                "x": "争点は、AppleがiPhone 16の主な販売戦略に掲げた「Apple Intelligence」だ。Appleは2024年9月から昨年3月まで、製品ホームページで文章作成ツールや画像生成、音声アシスタントのSiriなど9種類のAI機能を広告した。"
+                "x": "「データセンターはUKのデジタル経済に不可欠だ。…AIの開発と利用に必要なインフラも提供している」とビジネス・イノベーション・科学・貿易省(Department for Business, Innovation, Science and Trade、BIST)は述べる。同省は、環境影響は現実のものであり、理解し緩和しなければならないとも付け加え、それがData Centre Covenantの審査基準を設けた理由の一つだという。"
               },
               {
                 "t": "p",
-                "x": "しかし、このうちGenmoji、Image Playground、個人的な文脈を理解するSiri、段階的なガイドを示すSiriの4機能は、広告どおりに提供されなかった。"
+                "x": "Protect the Wildは、Covenantが「野生生物、生息地、生物多様性にほとんど触れていない」と指摘し、環境問題を事業ごとに扱うことは国レベルで温室効果ガス排出に取り組むうえで大きな障壁だと主張する。"
               },
               {
                 "t": "p",
-                "x": "代表例として、個人的な文脈を理解するSiri機能は2024年末までに米国英語で提供を始め、昨年4月初めに韓国語に対応すると広告していた。実際の米国英語版は今年9月にようやく公開され、韓国語対応は先月始まった。"
-              },
-              {
-                "t": "p",
-                "x": "審査官は、Appleが一部機能の発売遅延の可能性や実際の提供時期など、消費者の購入判断に重要な情報を隠蔽・縮小し、あるいは省いたと判断した。表示広告法上の欺瞞的広告にあたる重大な違反行為とみて、今後の行為禁止命令や公表命令、課徴金の賦課などの制裁意見を示した。"
-              },
-              {
-                "t": "p",
-                "x": "Appleは審査報告書を受け取った日から6週間以内に書面で意見を提出できる。公取委はその後、委員会の審議を経て法違反の有無や課徴金額などを最終決定する方針だ。"
+                "x": "別の報告によると、政府は2024年7月から2026年6月までにデータセンターをめぐって137の企業と面会したが、同じ期間に地域団体や環境団体とは一つも面会しなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国公平委审议Apple\nSiri AI广告问题",
-          "body": "审查官认为，Apple将上线时间未定的AI功能宣传得像可以使用一样。",
-          "mini_headline": "韩国公平委审议Apple AI广告",
+          "headline": "UK拒绝就AI数据中心\n开展全国咨询",
+          "body": "尽管请愿获39,000人签名,UK政府仍坚持逐个项目审查数据中心环境影响。",
+          "mini_headline": "UK拒绝数据中心咨询",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
+                "src": "https://image.theregister.com/5289080.jpg?imageId=5289080&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Apple在推出iPhone 16系列时，尽管部分人工智能（AI）功能的提供时间并不确定，仍宣传得仿佛可以正常使用服务，因涉嫌违规而接受韩国公平交易委员会审议。公平委审查官将相关销售额核定为3조3527억원，并提出了处以罚款的意见。"
+                "x": "尽管一份请愿征集到逾39,000个签名,UK政府仍拒绝了就AI数据中心环境影响开展UK范围(UK-wide)公众咨询的呼吁。该请愿由倡导团体Protect the Wild于上月发起。"
               },
               {
                 "t": "p",
-                "x": "公平委26日表示，已于24日向委员会提交关于Apple及Apple Korea涉嫌违反《标示广告法》的审查报告，并送交相关企业。这距其去年3月接到举报并启动调查已有1年8个月。"
+                "x": "政府在11月23日发布的回应中排除了请愿所要求的UK范围环境咨询,称各项目的影响应通过规划程序处理。政府转而提及另一项针对数据中心规划政策草案的咨询,该咨询开放至2027年1月8日。"
               },
               {
                 "t": "p",
-                "x": "争议焦点是Apple作为iPhone 16主要销售策略推出的“Apple Intelligence”。Apple自2024年9月至去年3月，在产品官网上宣传了写作工具、图像生成、语音助手Siri等9项AI功能。"
+                "x": "商业、创新、科学和贸易部(Department for Business, Innovation, Science and Trade,BIST)表示:“数据中心对UK数字经济至关重要。……它们也提供开发和使用AI所需的基础设施。”该部门补充说,环境影响真实存在,必须加以了解和缓解,这也是其设立Data Centre Covenant测试的原因之一。"
               },
               {
                 "t": "p",
-                "x": "但其中Genmoji、Image Playground、能理解个人语境的Siri、可提供分步指引的Siri等4项功能未能按广告内容提供。"
+                "x": "Protect the Wild指出,Covenant“几乎没有提及野生动物、栖息地或生物多样性”,并认为逐个项目处理环境问题,是在国家层面应对温室气体排放的一大障碍。"
               },
               {
                 "t": "p",
-                "x": "典型例子是，Apple曾宣传能理解个人语境的Siri功能将于2024年底前以美式英语推出，并于去年4月初支持韩语。实际上，美式英语服务直到今年9月才上线，韩语支持则于上个月开始。"
-              },
-              {
-                "t": "p",
-                "x": "公平委审查官认为，Apple隐瞒、淡化或遗漏了部分功能可能延迟上线及实际提供时间等对消费者购买决定至关重要的信息。审查官将其视为《标示广告法》规定的欺骗性广告这一严重违法行为，提出了禁止令、公告令及罚款等制裁意见。"
-              },
-              {
-                "t": "p",
-                "x": "Apple可在收到审查报告之日起6周内提交书面意见。公平委之后将经委员会审议，最终决定是否违法及罚款金额等。"
+                "x": "另一份报告发现,2024年7月至2026年6月期间,政府就数据中心问题会见了137家不同企业,但同期没有会见任何一个社区团体或环保组织。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Corea examina a Apple por\nanuncios de AI en Siri",
-          "body": "El examinador concluyó que Apple anunció funciones de AI como utilizables pese a no tener fecha de llegada clara.",
-          "mini_headline": "Corea examina anuncios de AI de Apple",
+          "headline": "UK rechaza una consulta nacional\nsobre centros de datos de AI",
+          "body": "Pese a 39,000 firmas, el Gobierno de UK evaluará el impacto ambiental de cada centro de datos por separado.",
+          "mini_headline": "UK rechaza consulta sobre centros de datos",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
+                "src": "https://image.theregister.com/5289080.jpg?imageId=5289080&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Apple será examinada por la Comisión de Comercio Justo de Corea por presuntamente haber anunciado, al lanzar la serie iPhone 16, algunas funciones de inteligencia artificial (AI) como si pudieran usarse con normalidad pese a que su fecha de disponibilidad era incierta. El examinador de la comisión calculó las ventas relacionadas en 3조3527억원 y propuso imponer una multa."
+                "x": "El Gobierno de UK ha rechazado los llamamientos a una consulta pública UK-wide sobre el impacto ambiental de los centros de datos de AI, pese a que una petición reunió más de 39,000 firmas. El grupo de campaña Protect the Wild lanzó la petición el mes pasado."
               },
               {
                 "t": "p",
-                "x": "La comisión informó el día 26 que el 24 presentó al pleno un informe de examen sobre la presunta infracción de la ley de etiquetado y publicidad por parte de Apple y Apple Korea, y que también lo envió a las empresas. Llega 1 año y 8 meses después de recibir una denuncia en marzo del año pasado e iniciar la investigación."
+                "x": "En su respuesta, publicada el 23 de noviembre, el Gobierno descartó la consulta ambiental en todo UK que se solicitaba y afirmó que el impacto de cada proyecto debe abordarse mediante el proceso de planificación. En su lugar, remitió a una consulta distinta sobre su borrador de política de planificación de centros de datos, abierta hasta el 8 de enero de 2027."
               },
               {
                 "t": "p",
-                "x": "El centro del caso es 'Apple Intelligence', que Apple presentó como estrategia de venta clave del iPhone 16. Entre septiembre de 2024 y marzo del año pasado, Apple anunció en la web del producto 9 funciones de AI, entre ellas herramientas de escritura, generación de imágenes y el asistente de voz Siri."
+                "x": "\"Los centros de datos son vitales para la economía digital de UK. … También proporcionan la infraestructura necesaria para desarrollar y usar la AI\", afirma el Department for Business, Innovation, Science and Trade (BIST). Añade que el impacto ambiental es real y debe entenderse y mitigarse, una de las razones por las que estableció las pruebas del Data Centre Covenant."
               },
               {
                 "t": "p",
-                "x": "Sin embargo, 4 de ellas, Genmoji, Image Playground, una Siri que entiende el contexto personal y una Siri que ofrece guías paso a paso, no se ofrecieron tal como se anunciaron."
+                "x": "Protect the Wild señala que el Covenant \"apenas reconoce la fauna, los hábitats o la biodiversidad\" y sostiene que tratar las preocupaciones ambientales proyecto por proyecto es un obstáculo importante para abordar las emisiones de gases de efecto invernadero a escala nacional."
               },
               {
                 "t": "p",
-                "x": "Por ejemplo, Apple anunció que la función de Siri que entiende el contexto personal se lanzaría en inglés de EE. UU. antes de finales de 2024 y que admitiría el coreano a principios de abril del año pasado. En realidad, el servicio en inglés de EE. UU. no llegó hasta septiembre de este año, y el soporte en coreano empezó el mes pasado."
-              },
-              {
-                "t": "p",
-                "x": "El examinador concluyó que Apple ocultó, minimizó u omitió información importante para la decisión de compra de los consumidores, como la posibilidad de retrasos en algunas funciones y la fecha real de disponibilidad. Lo consideró una infracción grave equivalente a publicidad engañosa según la ley de etiquetado y publicidad, y propuso sanciones como una orden de cese, una orden de publicación y una multa."
-              },
-              {
-                "t": "p",
-                "x": "Apple puede presentar alegaciones por escrito en un plazo de 6 semanas desde que recibió el informe. La comisión decidirá después, tras la deliberación del pleno, si hubo infracción y el importe de la multa."
+                "x": "Un informe distinto reveló que el Gobierno se reunió con 137 empresas diferentes para hablar de centros de datos entre julio de 2024 y junio de 2026, pero no se reunió con ningún grupo comunitario ni organización ambiental en el mismo periodo."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Korea's fair trade agency\nreviews Apple Siri AI ads",
-          "body": "The case examiner found Apple advertised AI features as usable though their release timing was uncertain.",
-          "mini_headline": "Korea reviews Apple AI ads",
+        "ko": {
+          "headline": "UK, AI 데이터센터\n전국 협의 거부",
+          "body": "39,000명 청원에도 UK 정부는 데이터센터 환경 검토를 사업별로 한다고 했다.",
+          "mini_headline": "UK, 데이터센터 협의 거부",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
+                "src": "https://image.theregister.com/5289080.jpg?imageId=5289080&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Apple faces a Fair Trade Commission review over allegations that, when it launched the iPhone 16 series, it advertised some artificial intelligence (AI) features as if the services could be used normally even though their availability dates were uncertain. The commission's examiner put the related sales at 3조3527억원 and recommended a fine."
+                "x": "UK 정부가 39,000명 넘는 서명을 모은 청원에도 AI 데이터센터의 환경 영향에 관한 UK 전역(UK-wide) 공개 협의 요구를 거부했다. 캠페인 단체 Protect the Wild가 지난달 이 청원을 시작했다."
               },
               {
                 "t": "p",
-                "x": "The Fair Trade Commission said on the 26th that it submitted an examination report on alleged violations of the Act on Fair Labeling and Advertising by Apple and Apple Korea to the commission on the 24th and also sent it to the companies. It comes 1 year and 8 months after the agency received a complaint in March last year and opened an investigation."
+                "x": "정부는 11월 23일 발표한 답변에서 요청받은 UK 전역 환경 협의를 하지 않겠다고 밝히며, 개별 사업의 영향은 계획 허가 절차에서 다뤄야 한다고 했다. 대신 2027년 1월 8일까지 진행되는 데이터센터 계획 정책 초안에 관한 별도 협의를 제시했다."
               },
               {
                 "t": "p",
-                "x": "At issue is 'Apple Intelligence', which Apple promoted as a key sales strategy for the iPhone 16. From September 2024 to March last year, Apple advertised 9 AI features on its product website, including writing tools, image generation and the voice assistant Siri."
+                "x": "\"데이터센터는 UK 디지털 경제에 필수적이다. … AI를 개발하고 활용하는 데 필요한 인프라도 제공한다\"고 기업·혁신·과학·통상부(Department for Business, Innovation, Science and Trade, BIST)는 밝혔다. 부처는 환경 영향이 실재하며 이를 파악하고 완화해야 한다고 덧붙였고, 이것이 Data Centre Covenant 심사 기준을 만든 이유 가운데 하나라고 했다."
               },
               {
                 "t": "p",
-                "x": "But 4 of them, Genmoji, Image Playground, a Siri that understands personal context and a Siri that offers step-by-step guidance, were not delivered as advertised."
+                "x": "Protect the Wild는 Covenant가 \"야생동물, 서식지, 생물다양성을 거의 다루지 않는다\"고 지적하며, 환경 문제를 사업별로 처리하는 방식이 국가 차원의 온실가스 배출 대응에 큰 걸림돌이라고 주장한다."
               },
               {
                 "t": "p",
-                "x": "For example, Apple advertised that the Siri feature that understands personal context would launch in U.S. English by the end of 2024 and support Korean in early April last year. In fact, the U.S. English service launched only in September this year, and Korean support began last month."
-              },
-              {
-                "t": "p",
-                "x": "The examiner judged that Apple concealed, downplayed or omitted information important to consumers' purchase decisions, such as the possibility that some features would be delayed and when they would actually be provided. Treating this as a serious violation amounting to deceptive advertising under the Act on Fair Labeling and Advertising, the examiner recommended sanctions including a cease-and-desist order, a publication order and a fine."
-              },
-              {
-                "t": "p",
-                "x": "Apple can submit a written opinion within 6 weeks of receiving the examination report. The Fair Trade Commission plans to decide finally whether the law was violated and how large any fine should be after deliberation by the commission."
+                "x": "별도 보고서에 따르면 정부는 2024년 7월부터 2026년 6월까지 데이터센터 문제로 137개 기업과 만났지만, 같은 기간 지역 공동체 단체나 환경 단체와는 한 곳도 만나지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国公取委、Apple\nSiri AI広告を審議へ",
-          "body": "審査官は、Appleが提供時期の不確かなAI機能を使えるかのように広告したとみた。",
-          "mini_headline": "韓国公取委、AppleのAI広告を審議",
+          "headline": "UK、AIデータセンター\n全国協議を拒否",
+          "body": "39,000人の請願を受けても、UK政府はデータセンターの環境審査を事業ごとに行う方針だ。",
+          "mini_headline": "UK、データセンター協議を拒否",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
+                "src": "https://image.theregister.com/5289080.jpg?imageId=5289080&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Appleは、iPhone 16シリーズの発売時に一部の人工知能（AI）機能の提供時期が不確かだったにもかかわらず、通常どおりサービスを使えるかのように広告した疑いで、韓国公正取引委員会の審議を受ける。公取委の審査官は関連売上高を3조3527억원と算定し、課徴金を科すべきとの意見を出した。"
+                "x": "UK政府は、39,000人を超える署名を集めた請願にもかかわらず、AIデータセンターの環境影響に関するUK全域(UK-wide)での公開協議の要求を退けた。請願は運動団体Protect the Wildが先月立ち上げたものだ。"
               },
               {
                 "t": "p",
-                "x": "公取委は26日、AppleとApple Koreaの表示広告法違反の疑いに関する審査報告書を24日に委員会へ提出し、両社にも送付したと明らかにした。昨年3月に申告を受けて調査に着手してから1年8カ月ぶりだ。"
+                "x": "政府は11月23日に公表した回答で、求められたUK全域での環境協議を否定し、個々の事業の影響は計画許可の手続きで対処すべきだとした。代わりに、2027年1月8日まで受け付けているデータセンター計画政策案に関する別の協議を挙げた。"
               },
               {
                 "t": "p",
-                "x": "争点は、AppleがiPhone 16の主な販売戦略に掲げた「Apple Intelligence」だ。Appleは2024年9月から昨年3月まで、製品ホームページで文章作成ツールや画像生成、音声アシスタントのSiriなど9種類のAI機能を広告した。"
+                "x": "「データセンターはUKのデジタル経済に不可欠だ。…AIの開発と利用に必要なインフラも提供している」とビジネス・イノベーション・科学・貿易省(Department for Business, Innovation, Science and Trade、BIST)は述べる。同省は、環境影響は現実のものであり、理解し緩和しなければならないとも付け加え、それがData Centre Covenantの審査基準を設けた理由の一つだという。"
               },
               {
                 "t": "p",
-                "x": "しかし、このうちGenmoji、Image Playground、個人的な文脈を理解するSiri、段階的なガイドを示すSiriの4機能は、広告どおりに提供されなかった。"
+                "x": "Protect the Wildは、Covenantが「野生生物、生息地、生物多様性にほとんど触れていない」と指摘し、環境問題を事業ごとに扱うことは国レベルで温室効果ガス排出に取り組むうえで大きな障壁だと主張する。"
               },
               {
                 "t": "p",
-                "x": "代表例として、個人的な文脈を理解するSiri機能は2024年末までに米国英語で提供を始め、昨年4月初めに韓国語に対応すると広告していた。実際の米国英語版は今年9月にようやく公開され、韓国語対応は先月始まった。"
-              },
-              {
-                "t": "p",
-                "x": "審査官は、Appleが一部機能の発売遅延の可能性や実際の提供時期など、消費者の購入判断に重要な情報を隠蔽・縮小し、あるいは省いたと判断した。表示広告法上の欺瞞的広告にあたる重大な違反行為とみて、今後の行為禁止命令や公表命令、課徴金の賦課などの制裁意見を示した。"
-              },
-              {
-                "t": "p",
-                "x": "Appleは審査報告書を受け取った日から6週間以内に書面で意見を提出できる。公取委はその後、委員会の審議を経て法違反の有無や課徴金額などを最終決定する方針だ。"
+                "x": "別の報告によると、政府は2024年7月から2026年6月までにデータセンターをめぐって137の企業と面会したが、同じ期間に地域団体や環境団体とは一つも面会しなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国公平委审议Apple\nSiri AI广告问题",
-          "body": "审查官认为，Apple将上线时间未定的AI功能宣传得像可以使用一样。",
-          "mini_headline": "韩国公平委审议Apple AI广告",
+          "headline": "UK拒绝就AI数据中心\n开展全国咨询",
+          "body": "尽管请愿获39,000人签名,UK政府仍坚持逐个项目审查数据中心环境影响。",
+          "mini_headline": "UK拒绝数据中心咨询",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
+                "src": "https://image.theregister.com/5289080.jpg?imageId=5289080&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Apple在推出iPhone 16系列时，尽管部分人工智能（AI）功能的提供时间并不确定，仍宣传得仿佛可以正常使用服务，因涉嫌违规而接受韩国公平交易委员会审议。公平委审查官将相关销售额核定为3조3527억원，并提出了处以罚款的意见。"
+                "x": "尽管一份请愿征集到逾39,000个签名,UK政府仍拒绝了就AI数据中心环境影响开展UK范围(UK-wide)公众咨询的呼吁。该请愿由倡导团体Protect the Wild于上月发起。"
               },
               {
                 "t": "p",
-                "x": "公平委26日表示，已于24日向委员会提交关于Apple及Apple Korea涉嫌违反《标示广告法》的审查报告，并送交相关企业。这距其去年3月接到举报并启动调查已有1年8个月。"
+                "x": "政府在11月23日发布的回应中排除了请愿所要求的UK范围环境咨询,称各项目的影响应通过规划程序处理。政府转而提及另一项针对数据中心规划政策草案的咨询,该咨询开放至2027年1月8日。"
               },
               {
                 "t": "p",
-                "x": "争议焦点是Apple作为iPhone 16主要销售策略推出的“Apple Intelligence”。Apple自2024年9月至去年3月，在产品官网上宣传了写作工具、图像生成、语音助手Siri等9项AI功能。"
+                "x": "商业、创新、科学和贸易部(Department for Business, Innovation, Science and Trade,BIST)表示:“数据中心对UK数字经济至关重要。……它们也提供开发和使用AI所需的基础设施。”该部门补充说,环境影响真实存在,必须加以了解和缓解,这也是其设立Data Centre Covenant测试的原因之一。"
               },
               {
                 "t": "p",
-                "x": "但其中Genmoji、Image Playground、能理解个人语境的Siri、可提供分步指引的Siri等4项功能未能按广告内容提供。"
+                "x": "Protect the Wild指出,Covenant“几乎没有提及野生动物、栖息地或生物多样性”,并认为逐个项目处理环境问题,是在国家层面应对温室气体排放的一大障碍。"
               },
               {
                 "t": "p",
-                "x": "典型例子是，Apple曾宣传能理解个人语境的Siri功能将于2024年底前以美式英语推出，并于去年4月初支持韩语。实际上，美式英语服务直到今年9月才上线，韩语支持则于上个月开始。"
-              },
-              {
-                "t": "p",
-                "x": "公平委审查官认为，Apple隐瞒、淡化或遗漏了部分功能可能延迟上线及实际提供时间等对消费者购买决定至关重要的信息。审查官将其视为《标示广告法》规定的欺骗性广告这一严重违法行为，提出了禁止令、公告令及罚款等制裁意见。"
-              },
-              {
-                "t": "p",
-                "x": "Apple可在收到审查报告之日起6周内提交书面意见。公平委之后将经委员会审议，最终决定是否违法及罚款金额等。"
+                "x": "另一份报告发现,2024年7月至2026年6月期间,政府就数据中心问题会见了137家不同企业,但同期没有会见任何一个社区团体或环保组织。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Corea examina a Apple por\nanuncios de AI en Siri",
-          "body": "El examinador concluyó que Apple anunció funciones de AI como utilizables pese a no tener fecha de llegada clara.",
-          "mini_headline": "Corea examina anuncios de AI de Apple",
+          "headline": "UK rechaza una consulta nacional\nsobre centros de datos de AI",
+          "body": "Pese a 39,000 firmas, el Gobierno de UK evaluará el impacto ambiental de cada centro de datos por separado.",
+          "mini_headline": "UK rechaza consulta sobre centros de datos",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png"
+                "src": "https://image.theregister.com/5289080.jpg?imageId=5289080&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Apple será examinada por la Comisión de Comercio Justo de Corea por presuntamente haber anunciado, al lanzar la serie iPhone 16, algunas funciones de inteligencia artificial (AI) como si pudieran usarse con normalidad pese a que su fecha de disponibilidad era incierta. El examinador de la comisión calculó las ventas relacionadas en 3조3527억원 y propuso imponer una multa."
+                "x": "El Gobierno de UK ha rechazado los llamamientos a una consulta pública UK-wide sobre el impacto ambiental de los centros de datos de AI, pese a que una petición reunió más de 39,000 firmas. El grupo de campaña Protect the Wild lanzó la petición el mes pasado."
               },
               {
                 "t": "p",
-                "x": "La comisión informó el día 26 que el 24 presentó al pleno un informe de examen sobre la presunta infracción de la ley de etiquetado y publicidad por parte de Apple y Apple Korea, y que también lo envió a las empresas. Llega 1 año y 8 meses después de recibir una denuncia en marzo del año pasado e iniciar la investigación."
+                "x": "En su respuesta, publicada el 23 de noviembre, el Gobierno descartó la consulta ambiental en todo UK que se solicitaba y afirmó que el impacto de cada proyecto debe abordarse mediante el proceso de planificación. En su lugar, remitió a una consulta distinta sobre su borrador de política de planificación de centros de datos, abierta hasta el 8 de enero de 2027."
               },
               {
                 "t": "p",
-                "x": "El centro del caso es 'Apple Intelligence', que Apple presentó como estrategia de venta clave del iPhone 16. Entre septiembre de 2024 y marzo del año pasado, Apple anunció en la web del producto 9 funciones de AI, entre ellas herramientas de escritura, generación de imágenes y el asistente de voz Siri."
+                "x": "\"Los centros de datos son vitales para la economía digital de UK. … También proporcionan la infraestructura necesaria para desarrollar y usar la AI\", afirma el Department for Business, Innovation, Science and Trade (BIST). Añade que el impacto ambiental es real y debe entenderse y mitigarse, una de las razones por las que estableció las pruebas del Data Centre Covenant."
               },
               {
                 "t": "p",
-                "x": "Sin embargo, 4 de ellas, Genmoji, Image Playground, una Siri que entiende el contexto personal y una Siri que ofrece guías paso a paso, no se ofrecieron tal como se anunciaron."
+                "x": "Protect the Wild señala que el Covenant \"apenas reconoce la fauna, los hábitats o la biodiversidad\" y sostiene que tratar las preocupaciones ambientales proyecto por proyecto es un obstáculo importante para abordar las emisiones de gases de efecto invernadero a escala nacional."
               },
               {
                 "t": "p",
-                "x": "Por ejemplo, Apple anunció que la función de Siri que entiende el contexto personal se lanzaría en inglés de EE. UU. antes de finales de 2024 y que admitiría el coreano a principios de abril del año pasado. En realidad, el servicio en inglés de EE. UU. no llegó hasta septiembre de este año, y el soporte en coreano empezó el mes pasado."
-              },
-              {
-                "t": "p",
-                "x": "El examinador concluyó que Apple ocultó, minimizó u omitió información importante para la decisión de compra de los consumidores, como la posibilidad de retrasos en algunas funciones y la fecha real de disponibilidad. Lo consideró una infracción grave equivalente a publicidad engañosa según la ley de etiquetado y publicidad, y propuso sanciones como una orden de cese, una orden de publicación y una multa."
-              },
-              {
-                "t": "p",
-                "x": "Apple puede presentar alegaciones por escrito en un plazo de 6 semanas desde que recibió el informe. La comisión decidirá después, tras la deliberación del pleno, si hubo infracción y el importe de la multa."
+                "x": "Un informe distinto reveló que el Gobierno se reunió con 137 empresas diferentes para hablar de centros de datos entre julio de 2024 y junio de 2026, pero no se reunió con ningún grupo comunitario ni organización ambiental en el mismo periodo."
               }
             ]
           }
@@ -707,15 +717,15 @@
       }
     },
     {
-      "id": "spain-pp-sanchez-ai-video",
+      "id": "politics-au-deepfake-inquiry",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "스페인 야당, 산체스\nAI 영상 표기 없이 게시",
-      "body": "표기 없는 PP의 AI-altered 영상에 EU AI Act 위반 지적이 나온다.",
-      "mini_headline": "산체스 AI 영상, 표기 없이 게시",
+      "headline": "호주 의회 조사, 선거\nAI 딥페이크 금지 지지",
+      "body": "호주 초당적 의회 조사가 정치 광고 딥페이크를 막도록 선거법 검토를 촉구했다.",
+      "mini_headline": "딥페이크 광고 금지 권고",
       "tool": "Politics",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt",
+      "source": "ABC (Australia)",
+      "url": "https://www.abc.net.au/listen/programs/am/parliamentary-inquiry-pushes-for-ban-on-election-ai-deepfakes/107428080",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -723,179 +733,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+            "src": "https://live-production.wcms.abc-cdn.net.au/0de28958f63ae3e495fc06eada3bf797",
+            "cap": "일부 선거운동가들은 향후 선거운동에 생성형 AI를 활용하는 방안을 검토하고 있다.(Reuters: Dado Ruvic, Illustration)"
           },
           {
             "t": "p",
-            "x": "17초(17-second) 분량의 선거 운동 영상에서 스페인 총리 페드로 산체스(Pedro Sánchez)는 라민 야말(Lamine Yamal)의 등번호인 19번이 새겨진 축구 국가대표팀 유니폼을 입으며 “스페인은 바로 이런 나라이기 때문이다. 다원적이고 다양한 나라다”라고 말했다. 하루 뒤 야당 국민당(PP)은 같은 영상을 AI로 조작해 산체스가 모로코 국가대표팀 유니폼을 입은 것처럼 꾸몄다가 비판을 받았다. PP 영상은 산체스의 발언까지 바꿔 놓았다."
+            "x": "정치 광고 속 딥페이크 금지가 현실이 될 수도 있다. 초당적 의회 조사는 선거 자료의 딥페이크를 불법화하려면 호주 선거법을 어떻게 고쳐야 할지 의회 위원회가 검토하라고 요구했다."
           },
           {
             "t": "p",
-            "x": "논란은 양극화된 선거전을 치른 스페인 유권자들이 일요일 투표를 앞둔 시점에 불거졌다. 조작 영상에 AI로 만들었다는 언급이 없어 EU의 AI 관련 의무에 못 미칠 수 있다는 지적이 많았다. 산체스의 아내 베고냐 고메스(Begoña Gómez)를 다룬 딥페이크 영상에 이어 이번 선거에서 PP가 AI를 문제적으로 쓴 사례가 또 하나 늘었다는 평가도 나왔다."
-          },
-          {
-            "t": "img",
-            "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
-            "cap": "지난주 바르셀로나 선거 유세에 나선 사비에르 가르시아 알비올(Xavier Garcí­a Albiol). 사진: Matteo Secci/Zuma Press/Shutterstock"
+            "x": "빅토리아주 노동당(Victorian Labor)이 AI 생성(AI-generated) 선거 광고를 내놓은 뒤 나온 움직임이다. 광고에는 주 자유당(Liberal) 대표 제스 윌슨(Jess Wilson)과 원네이션(One Nation)의 워런 피커링(Warren Pickering)의 딥페이크가 나왔다. 위원회 위원인 연방 무소속 의원(MP) 케이트 체이니(Kate Chaney)는 2028년 치러질 다음 연방 선거 전에 금지 조치가 시행되기를 바란다. \"우리 민주주의는 정보에 근거한 결정을 내릴 수 있다는 데 기반을 둔다. 눈앞의 정보가 딥페이크에 기반한다면 우리는 정보에 근거한 결정을 내릴 수 없다.\""
           },
           {
             "t": "p",
-            "x": "산체스의 영상은 라민 야말의 유니폼을 입지 않겠다고 말한 PP 후보 사비에르 가르시아 알비올(Xavier García Albiol)에게 응수한 것으로 보였다. SOS Racismo와 협력하는 비크 대학교(University of Vic) 미디어학 강사 라울 마르티네스 코르쿠에라(Raúl Martínez Corcuera)는 AI 조작이 PP가 표에 도움이 된다고 본 쟁점 쪽으로 선거전을 끌고 가려는 시도였을 것이라고 했다. 그는 그 결과물을 일종의 “은근한 인종차별”이라고 불렀다. 영상 속 모로코 유니폼 복제본이 잘못 만들어졌다는 점은 스페인 언론이 짚었다."
+            "x": "인공지능·신뢰·거버넌스 센터(Centre for Artificial Intelligence, Trust and Governance) 공동 소장 테리 플루(Terry Flew) 교수는 이번 권고를 긍정적이고 중요한 제안으로 봤다. 그는 \"허위정보 전반을 법으로 규율하려는 시도는\" 정의의 \"문제에 부딪힌다\"며 \"그러나 특정 문제, 즉 정치 광고에서의 딥페이크 사용을 짚어낼 가능성은 있다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "정부는 위원회 보고서를 검토하고 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Spain's opposition posts\nunlabelled AI Sánchez video",
-          "body": "Critics say the People's Party's undisclosed AI-altered Sánchez clip may fall short of EU AI Act transparency rules.",
-          "mini_headline": "Unlabelled AI video\nof Sánchez",
+          "headline": "Australian inquiry backs ban\non election AI deepfakes",
+          "body": "A bipartisan Australian parliamentary inquiry urged a review of electoral law to outlaw deepfakes in political ads.",
+          "mini_headline": "Inquiry backs deepfake ad ban",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+                "src": "https://live-production.wcms.abc-cdn.net.au/0de28958f63ae3e495fc06eada3bf797",
+                "cap": "Some campaigners are considering using generative AI for future election campaigns.(Reuters: Dado Ruvic, Illustration)"
               },
               {
                 "t": "p",
-                "x": "A 17-second campaign video showed Spain's prime minister, Pedro Sánchez, putting on the national football team's jersey with the number 19 – Lamine Yamal's shirt number – saying: “Because this is what Spain is: a pluralistic and diverse country.” One day later, the opposition People's party (PP) came under fire after it used AI to manipulate the same video, making it falsely appear as if Sánchez had put on the shirt of the Moroccan national team. The PP video also altered his speech."
+                "x": "A ban on deepfakes in political ads could be on the way with a bi-partisan parliamentary inquiry pushing for change. It's calling for a parliamentary committee to examine what changes are needed in Australia's electoral laws to outlaw deepfakes in election materials."
               },
               {
                 "t": "p",
-                "x": "The row comes as Spaniards prepare to vote on Sunday after a polarised campaign. Many pointed out that the altered video made no mention of being made with AI, suggesting it could fall short of EU obligations regarding AI. Others described it as the latest in a list of problematic uses of AI by the PP during the campaign, after a deepfake video of Sánchez's wife, Begoña Gómez."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
-                "cap": "Xavier Garcí­a Albiol at a campaign rally in Barcelona last week. Photograph: Matteo Secci/Zuma Press/Shutterstock"
+                "x": "The push follows an AI-generated election ad put out by Victorian Labor, featuring deepfakes of the state's Liberal leader Jess Wilson and One Nation's Warren Pickering. Federal independent MP Kate Chaney, part of the committee, wants that ban in place by the next federal election due in 2028: \"Our democracy is based on being able to make an informed decision and we're not able to make an informed decision if the information before us is based on deepfakes.\""
               },
               {
                 "t": "p",
-                "x": "Sánchez's video appeared to respond to PP candidate Xavier García Albiol, who said he would not wear Lamine Yamal's jersey. Raúl Martínez Corcuera, a media studies lecturer at the University of Vic who collaborates with SOS Racismo, said the AI manipulation was probably an attempt to steer the campaign towards issues the PP saw as vote boosters, and called the result a form of “subtle racism”. Spanish media also pointed to errors in the video's replica of the Moroccan kit."
+                "x": "Professor Terry Flew, co-director of the Centre for Artificial Intelligence, Trust and Governance, calls the recommendation a positive and important proposal: \"attempting to legislate around misinformation in general runs up against the problem\" of definition, \"but there are possibilities of identifying a particular problem, which is the use of deepfakes in political advertising.\""
+              },
+              {
+                "t": "p",
+                "x": "The government is considering the committee's report."
               }
             ]
           }
         },
         "ko": {
-          "headline": "스페인 야당, 산체스\nAI 영상 표기 없이 게시",
-          "body": "표기 없는 PP의 AI-altered 영상에 EU AI Act 위반 지적이 나온다.",
-          "mini_headline": "산체스 AI 영상, 표기 없이 게시",
+          "headline": "호주 의회 조사, 선거\nAI 딥페이크 금지 지지",
+          "body": "호주 초당적 의회 조사가 정치 광고 딥페이크를 막도록 선거법 검토를 촉구했다.",
+          "mini_headline": "딥페이크 광고 금지 권고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+                "src": "https://live-production.wcms.abc-cdn.net.au/0de28958f63ae3e495fc06eada3bf797",
+                "cap": "일부 선거운동가들은 향후 선거운동에 생성형 AI를 활용하는 방안을 검토하고 있다.(Reuters: Dado Ruvic, Illustration)"
               },
               {
                 "t": "p",
-                "x": "17초(17-second) 분량의 선거 운동 영상에서 스페인 총리 페드로 산체스(Pedro Sánchez)는 라민 야말(Lamine Yamal)의 등번호인 19번이 새겨진 축구 국가대표팀 유니폼을 입으며 “스페인은 바로 이런 나라이기 때문이다. 다원적이고 다양한 나라다”라고 말했다. 하루 뒤 야당 국민당(PP)은 같은 영상을 AI로 조작해 산체스가 모로코 국가대표팀 유니폼을 입은 것처럼 꾸몄다가 비판을 받았다. PP 영상은 산체스의 발언까지 바꿔 놓았다."
+                "x": "정치 광고 속 딥페이크 금지가 현실이 될 수도 있다. 초당적 의회 조사는 선거 자료의 딥페이크를 불법화하려면 호주 선거법을 어떻게 고쳐야 할지 의회 위원회가 검토하라고 요구했다."
               },
               {
                 "t": "p",
-                "x": "논란은 양극화된 선거전을 치른 스페인 유권자들이 일요일 투표를 앞둔 시점에 불거졌다. 조작 영상에 AI로 만들었다는 언급이 없어 EU의 AI 관련 의무에 못 미칠 수 있다는 지적이 많았다. 산체스의 아내 베고냐 고메스(Begoña Gómez)를 다룬 딥페이크 영상에 이어 이번 선거에서 PP가 AI를 문제적으로 쓴 사례가 또 하나 늘었다는 평가도 나왔다."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
-                "cap": "지난주 바르셀로나 선거 유세에 나선 사비에르 가르시아 알비올(Xavier Garcí­a Albiol). 사진: Matteo Secci/Zuma Press/Shutterstock"
+                "x": "빅토리아주 노동당(Victorian Labor)이 AI 생성(AI-generated) 선거 광고를 내놓은 뒤 나온 움직임이다. 광고에는 주 자유당(Liberal) 대표 제스 윌슨(Jess Wilson)과 원네이션(One Nation)의 워런 피커링(Warren Pickering)의 딥페이크가 나왔다. 위원회 위원인 연방 무소속 의원(MP) 케이트 체이니(Kate Chaney)는 2028년 치러질 다음 연방 선거 전에 금지 조치가 시행되기를 바란다. \"우리 민주주의는 정보에 근거한 결정을 내릴 수 있다는 데 기반을 둔다. 눈앞의 정보가 딥페이크에 기반한다면 우리는 정보에 근거한 결정을 내릴 수 없다.\""
               },
               {
                 "t": "p",
-                "x": "산체스의 영상은 라민 야말의 유니폼을 입지 않겠다고 말한 PP 후보 사비에르 가르시아 알비올(Xavier García Albiol)에게 응수한 것으로 보였다. SOS Racismo와 협력하는 비크 대학교(University of Vic) 미디어학 강사 라울 마르티네스 코르쿠에라(Raúl Martínez Corcuera)는 AI 조작이 PP가 표에 도움이 된다고 본 쟁점 쪽으로 선거전을 끌고 가려는 시도였을 것이라고 했다. 그는 그 결과물을 일종의 “은근한 인종차별”이라고 불렀다. 영상 속 모로코 유니폼 복제본이 잘못 만들어졌다는 점은 스페인 언론이 짚었다."
+                "x": "인공지능·신뢰·거버넌스 센터(Centre for Artificial Intelligence, Trust and Governance) 공동 소장 테리 플루(Terry Flew) 교수는 이번 권고를 긍정적이고 중요한 제안으로 봤다. 그는 \"허위정보 전반을 법으로 규율하려는 시도는\" 정의의 \"문제에 부딪힌다\"며 \"그러나 특정 문제, 즉 정치 광고에서의 딥페이크 사용을 짚어낼 가능성은 있다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "정부는 위원회 보고서를 검토하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スペイン野党が投稿\nAI表示なきサンチェス動画",
-          "body": "表示なきPPのAI-altered動画に、EU AI Act違反の恐れとの批判が出ている。",
-          "mini_headline": "表示なきAIサンチェス動画",
+          "headline": "豪議会調査、選挙AI\nディープフェイク禁止を支持",
+          "body": "豪州の超党派議会調査は、政治広告のディープフェイクを禁じる選挙法の見直しを求めた。",
+          "mini_headline": "ディープフェイク広告禁止を提言",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+                "src": "https://live-production.wcms.abc-cdn.net.au/0de28958f63ae3e495fc06eada3bf797",
+                "cap": "一部の選挙運動関係者は、今後の選挙運動で生成AIの活用を検討している。(Reuters: Dado Ruvic, Illustration)"
               },
               {
                 "t": "p",
-                "x": "17秒（17-second）の選挙動画で、スペインのペドロ・サンチェス（Pedro Sánchez）首相は、ラミン・ヤマル（Lamine Yamal）の背番号である19番のサッカー代表ユニフォームを着ながら「なぜなら、これこそがスペインだからだ。多元的で多様な国だ」と語った。その翌日、野党の国民党（PP）はAIで同じ動画を加工し、サンチェス氏がモロッコ代表のユニフォームを着たかのように偽って見せたとして批判を浴びた。PPの動画は彼の発言も改変していた。"
+                "x": "超党派の議会調査が変革を求めたことで、政治広告におけるディープフェイクの禁止が実現する可能性がある。調査は、選挙資料でのディープフェイクを違法とするためにオーストラリアの選挙法をどう改める必要があるか、議会委員会が検討するよう求めている。"
               },
               {
                 "t": "p",
-                "x": "この騒動は、分極化した選挙戦を経てスペインの有権者が日曜日の投票を控えるなかで起きた。多くの人が、加工動画にはAIで作られたとの記載がなく、AIに関するEUの義務を満たしていない可能性があると指摘した。サンチェス氏の妻ベゴーニャ・ゴメス（Begoña Gómez）のディープフェイク動画に続く、選挙期間中のPPによる問題あるAI利用の最新例だとする声もあった。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
-                "cap": "先週、バルセロナの選挙集会に臨むシャビエル・ガルシア・アルビオル（Xavier Garcí­a Albiol）。写真：Matteo Secci/Zuma Press/Shutterstock"
+                "x": "この動きは、ビクトリア州労働党(Victorian Labor)が出したAI生成(AI-generated)の選挙広告を受けたものだ。広告には同州の自由党(Liberal)党首ジェス・ウィルソン(Jess Wilson)とワン・ネーション(One Nation)のウォーレン・ピカリング(Warren Pickering)のディープフェイクが登場した。委員会メンバーで連邦の無所属議員(MP)ケイト・チェイニー(Kate Chaney)は、2028年に予定される次の連邦選挙までに禁止措置を導入したい考えだ。「私たちの民主主義は、十分な情報に基づいて判断できることを土台にしている。目の前の情報がディープフェイクに基づいていれば、十分な情報に基づく判断はできない」"
               },
               {
                 "t": "p",
-                "x": "サンチェス氏の動画は、ラミン・ヤマルのユニフォームは着ないと述べたPP候補シャビエル・ガルシア・アルビオル（Xavier García Albiol）に応じたものとみられる。SOS Racismoと協力するビック大学（University of Vic）のメディア学講師ラウル・マルティネス・コルクエラ（Raúl Martínez Corcuera）は、AIによる加工はPPが票につながるとみる争点へ選挙戦を誘導する試みだった可能性が高いとし、その結果を一種の「さりげない人種差別」と呼んだ。スペインのメディアは、動画のモロッコ代表ユニフォームの複製に誤りがあることも指摘した。"
+                "x": "人工知能・信頼・ガバナンスセンター(Centre for Artificial Intelligence, Trust and Governance)の共同所長テリー・フルー(Terry Flew)教授は、この勧告を前向きで重要な提案だと評価する。「誤情報全般を法で規制しようとすると」定義の「問題に突き当たる」が、「特定の問題、つまり政治広告でのディープフェイク使用を特定できる可能性はある」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "政府は委員会の報告書を検討している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "西班牙反对党发布\n未标注AI的桑切斯视频",
-          "body": "人民党未标注的AI-altered桑切斯视频被批可能不符合EU AI Act透明度规定。",
-          "mini_headline": "未标注的桑切斯AI视频",
+          "headline": "澳议会调查支持禁止\n选举AI深度伪造",
+          "body": "澳大利亚一项两党议会调查呼吁审查选举法,以禁止政治广告中的深度伪造。",
+          "mini_headline": "调查支持禁止深伪广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+                "src": "https://live-production.wcms.abc-cdn.net.au/0de28958f63ae3e495fc06eada3bf797",
+                "cap": "一些竞选人士正考虑在未来的竞选活动中使用生成式AI。(Reuters: Dado Ruvic, Illustration)"
               },
               {
                 "t": "p",
-                "x": "在一段17秒（17-second）的竞选视频中，西班牙首相佩德罗·桑切斯（Pedro Sánchez）穿上印有19号的国家足球队球衣（19号是拉明·亚马尔（Lamine Yamal）的球衣号码），并说道：“因为这就是西班牙：一个多元而多样的国家。”一天后，反对党人民党（PP）用AI篡改了同一段视频，虚假地制造出桑切斯穿上摩洛哥国家队球衣的画面，因而遭到批评。PP的视频还篡改了他的讲话。"
+                "x": "随着一项两党议会调查推动变革,政治广告中的深度伪造禁令可能即将出台。调查呼吁由议会委员会审视澳大利亚选举法需要作出哪些修改,以禁止在选举材料中使用深度伪造。"
               },
               {
                 "t": "p",
-                "x": "这场风波发生之际，西班牙选民在经历一场两极分化的竞选后，正准备于周日投票。许多人指出，被篡改的视频没有说明是用AI制作的，意味着它可能未达到EU有关AI的义务要求。另一些人则称，继针对桑切斯妻子贝戈尼亚·戈麦斯（Begoña Gómez）的深度伪造视频之后，这是PP在竞选期间一系列问题性AI使用中的最新一例。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
-                "cap": "上周，沙维尔·加西亚·阿尔比奥尔（Xavier Garcí­a Albiol）在巴塞罗那的竞选集会上。摄影：Matteo Secci/Zuma Press/Shutterstock"
+                "x": "此举源于维多利亚州工党(Victorian Labor)发布的一则AI生成(AI-generated)竞选广告,广告中出现了该州自由党(Liberal)领袖杰丝·威尔逊(Jess Wilson)和单一民族党(One Nation)沃伦·皮克林(Warren Pickering)的深度伪造形象。委员会成员、联邦独立议员(MP)凯特·钱尼(Kate Chaney)希望在定于2028年举行的下一届联邦选举前落实禁令:“我们的民主建立在能够作出知情决定的基础上,如果我们面前的信息基于深度伪造,我们就无法作出知情决定。”"
               },
               {
                 "t": "p",
-                "x": "桑切斯的视频似乎是在回应PP候选人沙维尔·加西亚·阿尔比奥尔（Xavier García Albiol），后者曾表示不会穿拉明·亚马尔的球衣。与SOS Racismo合作的维克大学（University of Vic）媒体研究讲师劳尔·马丁内斯·科尔奎拉（Raúl Martínez Corcuera）表示，这次AI篡改很可能是想把竞选引向PP认为能拉票的议题，并称其结果是一种“隐性的种族主义”。西班牙媒体还指出，视频中复制的摩洛哥球衣存在错误。"
+                "x": "人工智能、信任与治理中心(Centre for Artificial Intelligence, Trust and Governance)联合主任特里·弗卢(Terry Flew)教授称该建议是积极而重要的提议:“试图对一般性虚假信息立法会遇到”定义“问题”,“但有可能识别出一个特定问题,即在政治广告中使用深度伪造。”"
+              },
+              {
+                "t": "p",
+                "x": "政府正在审议委员会的报告。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El PP difunde sin etiquetar\nun video de Sánchez con AI",
-          "body": "El clip AI-altered de Sánchez que el Partido Popular no identificó podría incumplir la transparencia del EU AI Act.",
-          "mini_headline": "Video AI sin etiquetar de Sánchez",
+          "headline": "Comisión australiana pide vetar\ndeepfakes de AI en elecciones",
+          "body": "Una investigación bipartidista australiana pidió revisar la ley electoral para vetar deepfakes en anuncios políticos.",
+          "mini_headline": "Piden vetar deepfakes en anuncios políticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+                "src": "https://live-production.wcms.abc-cdn.net.au/0de28958f63ae3e495fc06eada3bf797",
+                "cap": "Algunos activistas de campaña consideran usar AI generativa en futuras campañas electorales.(Reuters: Dado Ruvic, Illustration)"
               },
               {
                 "t": "p",
-                "x": "Un video de campaña de 17 segundos mostraba al presidente del Gobierno español, Pedro Sánchez, poniéndose la camiseta de la selección de fútbol con el número 19 –el dorsal de Lamine Yamal– y diciendo: “Porque esto es lo que es España: un país plural y diverso”. Un día después, el opositor Partido Popular (PP) recibió críticas tras usar AI para manipular el mismo video y hacer creer falsamente que Sánchez se había puesto la camiseta de la selección de Marruecos. El video del PP también alteró su discurso."
+                "x": "Una prohibición de los deepfakes en los anuncios políticos podría estar en camino, ya que una investigación parlamentaria bipartidista impulsa el cambio. Pide que una comisión parlamentaria examine qué cambios necesitan las leyes electorales de Australia para prohibir los deepfakes en los materiales electorales."
               },
               {
                 "t": "p",
-                "x": "La polémica llega cuando los españoles se preparan para votar el domingo tras una campaña polarizada. Muchos señalaron que el video alterado no indicaba que se había hecho con AI, lo que sugiere que podría no cumplir las obligaciones de la EU en materia de AI. Otros lo describieron como el último de una serie de usos problemáticos de la AI por parte del PP durante la campaña, después de un video deepfake de la esposa de Sánchez, Begoña Gómez."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
-                "cap": "Xavier Garcí­a Albiol en un mitin de campaña en Barcelona la semana pasada. Fotografía: Matteo Secci/Zuma Press/Shutterstock"
+                "x": "La iniciativa llega tras un anuncio electoral generado con AI (AI-generated) difundido por Victorian Labor, con deepfakes de la líder Liberal del estado, Jess Wilson, y de Warren Pickering, de One Nation. La diputada federal independiente (MP) Kate Chaney, miembro de la comisión, quiere que la prohibición esté vigente para las próximas elecciones federales, previstas en 2028: \"Nuestra democracia se basa en poder tomar una decisión informada, y no podemos tomar una decisión informada si la información que tenemos delante se basa en deepfakes\"."
               },
               {
                 "t": "p",
-                "x": "El video de Sánchez parecía responder al candidato del PP Xavier García Albiol, que había dicho que no se pondría la camiseta de Lamine Yamal. Raúl Martínez Corcuera, profesor de estudios de medios en la Universidad de Vic que colabora con SOS Racismo, dijo que la manipulación con AI fue probablemente un intento de llevar la campaña hacia temas que el PP veía como impulsores de votos, y calificó el resultado como una forma de “racismo sutil”. Los medios españoles también señalaron errores en la réplica de la equipación marroquí del video."
+                "x": "El profesor Terry Flew, codirector del Centre for Artificial Intelligence, Trust and Governance, califica la recomendación de propuesta positiva e importante: \"intentar legislar sobre la desinformación en general choca con el problema\" de la definición, \"pero existen posibilidades de identificar un problema concreto, que es el uso de deepfakes en la publicidad política\"."
+              },
+              {
+                "t": "p",
+                "x": "El Gobierno está estudiando el informe de la comisión."
               }
             ]
           }
@@ -903,125 +913,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "스페인 야당, 산체스\nAI 영상 표기 없이 게시",
-          "body": "PP의 표기 없는 AI-altered 영상에 EU AI Act 위반 지적이 인다.",
-          "mini_headline": "산체스 AI 영상, 표기 없이 게시",
+          "headline": "호주 의회 조사, 선거\nAI 딥페이크 금지 지지",
+          "body": "호주 초당적 의회 조사가 정치 광고 딥페이크 금지를 위한 선거법 검토를 촉구했다.",
+          "mini_headline": "딥페이크 광고 금지 권고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+                "src": "https://live-production.wcms.abc-cdn.net.au/0de28958f63ae3e495fc06eada3bf797",
+                "cap": "일부 선거운동가들은 향후 선거운동에 생성형 AI를 활용하는 방안을 검토하고 있다.(Reuters: Dado Ruvic, Illustration)"
               },
               {
                 "t": "p",
-                "x": "17초(17-second) 분량의 선거 운동 영상에서 스페인 총리 페드로 산체스(Pedro Sánchez)는 라민 야말(Lamine Yamal)의 등번호인 19번이 새겨진 축구 국가대표팀 유니폼을 입으며 “스페인은 바로 이런 나라이기 때문이다. 다원적이고 다양한 나라다”라고 말했다. 하루 뒤 야당 국민당(PP)은 AI로 같은 영상을 조작해 산체스가 모로코 국가대표팀 유니폼을 입은 것처럼 거짓으로 꾸며 비판을 받았다. PP 영상은 그의 발언도 바꿨다."
+                "x": "초당적 의회 조사가 변화를 촉구하면서 정치 광고 속 딥페이크 금지가 현실화될 수 있다. 조사는 선거 자료에서 딥페이크를 불법화하려면 호주 선거법을 어떻게 바꿔야 하는지 의회 위원회가 검토하라고 요구했다."
               },
               {
                 "t": "p",
-                "x": "이번 논란은 양극화된 선거전 끝에 스페인 유권자들이 일요일 투표를 앞둔 가운데 불거졌다. 많은 이들이 조작 영상에 AI로 만들었다는 언급이 없다며 AI에 관한 EU 의무에 미치지 못할 수 있다고 지적했다. 산체스의 아내 베고냐 고메스(Begoña Gómez)를 다룬 딥페이크 영상에 이어 선거 기간 PP의 문제적 AI 활용 사례가 또 하나 늘었다는 평가도 나왔다."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
-                "cap": "지난주 바르셀로나 선거 유세에 나선 사비에르 가르시아 알비올(Xavier Garcí­a Albiol). 사진: Matteo Secci/Zuma Press/Shutterstock"
+                "x": "이번 움직임은 빅토리아주 노동당(Victorian Labor)이 내놓은 AI 생성(AI-generated) 선거 광고에 뒤이은 것이다. 이 광고에는 주 자유당(Liberal) 대표 제스 윌슨(Jess Wilson)과 원네이션(One Nation)의 워런 피커링(Warren Pickering)의 딥페이크가 등장했다. 위원회 위원인 연방 무소속 의원(MP) 케이트 체이니(Kate Chaney)는 2028년 치러질 다음 연방 선거 전까지 금지 조치가 시행되길 바란다. \"우리 민주주의는 정보에 근거한 결정을 내릴 수 있다는 데 기반을 둔다. 눈앞의 정보가 딥페이크에 기반한다면 우리는 정보에 근거한 결정을 내릴 수 없다.\""
               },
               {
                 "t": "p",
-                "x": "산체스의 영상은 라민 야말의 유니폼을 입지 않겠다고 말한 PP 후보 사비에르 가르시아 알비올(Xavier García Albiol)에게 응수한 것으로 보였다. SOS Racismo와 협력하는 비크 대학교(University of Vic) 미디어학 강사 라울 마르티네스 코르쿠에라(Raúl Martínez Corcuera)는 AI 조작이 PP가 표에 도움이 된다고 본 쟁점 쪽으로 선거전을 끌고 가려는 시도였을 것이라며, 그 결과를 일종의 “은근한 인종차별”이라고 불렀다. 스페인 언론은 영상 속 모로코 유니폼 복제본의 오류도 짚었다."
+                "x": "인공지능·신뢰·거버넌스 센터(Centre for Artificial Intelligence, Trust and Governance) 공동 소장 테리 플루(Terry Flew) 교수는 이 권고를 긍정적이고 중요한 제안이라고 평가했다. 그는 \"허위정보 전반을 법으로 규율하려는 시도는\" 정의의 \"문제에 부딪힌다\"며 \"그러나 특정 문제, 즉 정치 광고에서의 딥페이크 사용을 짚어낼 가능성은 있다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "정부는 위원회 보고서를 검토하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スペイン野党が投稿\nAI表示なきサンチェス動画",
-          "body": "表示なきPPのAI-altered動画に、EU AI Act違反の恐れとの批判が出ている。",
-          "mini_headline": "表示なきAIサンチェス動画",
+          "headline": "豪議会調査、選挙AI\nディープフェイク禁止を支持",
+          "body": "豪州の超党派議会調査は、政治広告のディープフェイクを禁じる選挙法の見直しを求めた。",
+          "mini_headline": "ディープフェイク広告禁止を提言",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+                "src": "https://live-production.wcms.abc-cdn.net.au/0de28958f63ae3e495fc06eada3bf797",
+                "cap": "一部の選挙運動関係者は、今後の選挙運動で生成AIの活用を検討している。(Reuters: Dado Ruvic, Illustration)"
               },
               {
                 "t": "p",
-                "x": "17秒（17-second）の選挙動画で、スペインのペドロ・サンチェス（Pedro Sánchez）首相は、ラミン・ヤマル（Lamine Yamal）の背番号である19番のサッカー代表ユニフォームを着ながら「なぜなら、これこそがスペインだからだ。多元的で多様な国だ」と語った。その翌日、野党の国民党（PP）はAIで同じ動画を加工し、サンチェス氏がモロッコ代表のユニフォームを着たかのように偽って見せたとして批判を浴びた。PPの動画は彼の発言も改変していた。"
+                "x": "超党派の議会調査が変革を求めたことで、政治広告におけるディープフェイクの禁止が実現する可能性がある。調査は、選挙資料でのディープフェイクを違法とするためにオーストラリアの選挙法をどう改める必要があるか、議会委員会が検討するよう求めている。"
               },
               {
                 "t": "p",
-                "x": "この騒動は、分極化した選挙戦を経てスペインの有権者が日曜日の投票を控えるなかで起きた。多くの人が、加工動画にはAIで作られたとの記載がなく、AIに関するEUの義務を満たしていない可能性があると指摘した。サンチェス氏の妻ベゴーニャ・ゴメス（Begoña Gómez）のディープフェイク動画に続く、選挙期間中のPPによる問題あるAI利用の最新例だとする声もあった。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
-                "cap": "先週、バルセロナの選挙集会に臨むシャビエル・ガルシア・アルビオル（Xavier Garcí­a Albiol）。写真：Matteo Secci/Zuma Press/Shutterstock"
+                "x": "この動きは、ビクトリア州労働党(Victorian Labor)が出したAI生成(AI-generated)の選挙広告を受けたものだ。広告には同州の自由党(Liberal)党首ジェス・ウィルソン(Jess Wilson)とワン・ネーション(One Nation)のウォーレン・ピカリング(Warren Pickering)のディープフェイクが登場した。委員会メンバーで連邦の無所属議員(MP)ケイト・チェイニー(Kate Chaney)は、2028年に予定される次の連邦選挙までに禁止措置を導入したい考えだ。「私たちの民主主義は、十分な情報に基づいて判断できることを土台にしている。目の前の情報がディープフェイクに基づいていれば、十分な情報に基づく判断はできない」"
               },
               {
                 "t": "p",
-                "x": "サンチェス氏の動画は、ラミン・ヤマルのユニフォームは着ないと述べたPP候補シャビエル・ガルシア・アルビオル（Xavier García Albiol）に応じたものとみられる。SOS Racismoと協力するビック大学（University of Vic）のメディア学講師ラウル・マルティネス・コルクエラ（Raúl Martínez Corcuera）は、AIによる加工はPPが票につながるとみる争点へ選挙戦を誘導する試みだった可能性が高いとし、その結果を一種の「さりげない人種差別」と呼んだ。スペインのメディアは、動画のモロッコ代表ユニフォームの複製に誤りがあることも指摘した。"
+                "x": "人工知能・信頼・ガバナンスセンター(Centre for Artificial Intelligence, Trust and Governance)の共同所長テリー・フルー(Terry Flew)教授は、この勧告を前向きで重要な提案だと評価する。「誤情報全般を法で規制しようとすると」定義の「問題に突き当たる」が、「特定の問題、つまり政治広告でのディープフェイク使用を特定できる可能性はある」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "政府は委員会の報告書を検討している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "西班牙反对党发布\n未标注AI的桑切斯视频",
-          "body": "人民党未标注的AI-altered桑切斯视频被批可能不符合EU AI Act透明度规定。",
-          "mini_headline": "未标注的桑切斯AI视频",
+          "headline": "澳议会调查支持禁止\n选举AI深度伪造",
+          "body": "澳大利亚一项两党议会调查呼吁审查选举法,以禁止政治广告中的深度伪造。",
+          "mini_headline": "调查支持禁止深伪广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+                "src": "https://live-production.wcms.abc-cdn.net.au/0de28958f63ae3e495fc06eada3bf797",
+                "cap": "一些竞选人士正考虑在未来的竞选活动中使用生成式AI。(Reuters: Dado Ruvic, Illustration)"
               },
               {
                 "t": "p",
-                "x": "在一段17秒（17-second）的竞选视频中，西班牙首相佩德罗·桑切斯（Pedro Sánchez）穿上印有19号的国家足球队球衣（19号是拉明·亚马尔（Lamine Yamal）的球衣号码），并说道：“因为这就是西班牙：一个多元而多样的国家。”一天后，反对党人民党（PP）用AI篡改了同一段视频，虚假地制造出桑切斯穿上摩洛哥国家队球衣的画面，因而遭到批评。PP的视频还篡改了他的讲话。"
+                "x": "随着一项两党议会调查推动变革,政治广告中的深度伪造禁令可能即将出台。调查呼吁由议会委员会审视澳大利亚选举法需要作出哪些修改,以禁止在选举材料中使用深度伪造。"
               },
               {
                 "t": "p",
-                "x": "这场风波发生之际，西班牙选民在经历一场两极分化的竞选后，正准备于周日投票。许多人指出，被篡改的视频没有说明是用AI制作的，意味着它可能未达到EU有关AI的义务要求。另一些人则称，继针对桑切斯妻子贝戈尼亚·戈麦斯（Begoña Gómez）的深度伪造视频之后，这是PP在竞选期间一系列问题性AI使用中的最新一例。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
-                "cap": "上周，沙维尔·加西亚·阿尔比奥尔（Xavier Garcí­a Albiol）在巴塞罗那的竞选集会上。摄影：Matteo Secci/Zuma Press/Shutterstock"
+                "x": "此举源于维多利亚州工党(Victorian Labor)发布的一则AI生成(AI-generated)竞选广告,广告中出现了该州自由党(Liberal)领袖杰丝·威尔逊(Jess Wilson)和单一民族党(One Nation)沃伦·皮克林(Warren Pickering)的深度伪造形象。委员会成员、联邦独立议员(MP)凯特·钱尼(Kate Chaney)希望在定于2028年举行的下一届联邦选举前落实禁令:“我们的民主建立在能够作出知情决定的基础上,如果我们面前的信息基于深度伪造,我们就无法作出知情决定。”"
               },
               {
                 "t": "p",
-                "x": "桑切斯的视频似乎是在回应PP候选人沙维尔·加西亚·阿尔比奥尔（Xavier García Albiol），后者曾表示不会穿拉明·亚马尔的球衣。与SOS Racismo合作的维克大学（University of Vic）媒体研究讲师劳尔·马丁内斯·科尔奎拉（Raúl Martínez Corcuera）表示，这次AI篡改很可能是想把竞选引向PP认为能拉票的议题，并称其结果是一种“隐性的种族主义”。西班牙媒体还指出，视频中复制的摩洛哥球衣存在错误。"
+                "x": "人工智能、信任与治理中心(Centre for Artificial Intelligence, Trust and Governance)联合主任特里·弗卢(Terry Flew)教授称该建议是积极而重要的提议:“试图对一般性虚假信息立法会遇到”定义“问题”,“但有可能识别出一个特定问题,即在政治广告中使用深度伪造。”"
+              },
+              {
+                "t": "p",
+                "x": "政府正在审议委员会的报告。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El PP difunde sin etiquetar\nun video de Sánchez con AI",
-          "body": "El clip AI-altered de Sánchez que el Partido Popular no identificó podría incumplir la transparencia del EU AI Act.",
-          "mini_headline": "Video AI sin etiquetar de Sánchez",
+          "headline": "Comisión australiana pide vetar\ndeepfakes de AI en elecciones",
+          "body": "Una investigación bipartidista australiana pidió revisar la ley electoral para vetar deepfakes en anuncios políticos.",
+          "mini_headline": "Piden vetar deepfakes en anuncios políticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop"
+                "src": "https://live-production.wcms.abc-cdn.net.au/0de28958f63ae3e495fc06eada3bf797",
+                "cap": "Algunos activistas de campaña consideran usar AI generativa en futuras campañas electorales.(Reuters: Dado Ruvic, Illustration)"
               },
               {
                 "t": "p",
-                "x": "Un video de campaña de 17 segundos mostraba al presidente del Gobierno español, Pedro Sánchez, poniéndose la camiseta de la selección de fútbol con el número 19 –el dorsal de Lamine Yamal– y diciendo: “Porque esto es lo que es España: un país plural y diverso”. Un día después, el opositor Partido Popular (PP) recibió críticas tras usar AI para manipular el mismo video y hacer creer falsamente que Sánchez se había puesto la camiseta de la selección de Marruecos. El video del PP también alteró su discurso."
+                "x": "Una prohibición de los deepfakes en los anuncios políticos podría estar en camino, ya que una investigación parlamentaria bipartidista impulsa el cambio. Pide que una comisión parlamentaria examine qué cambios necesitan las leyes electorales de Australia para prohibir los deepfakes en los materiales electorales."
               },
               {
                 "t": "p",
-                "x": "La polémica llega cuando los españoles se preparan para votar el domingo tras una campaña polarizada. Muchos señalaron que el video alterado no indicaba que se había hecho con AI, lo que sugiere que podría no cumplir las obligaciones de la EU en materia de AI. Otros lo describieron como el último de una serie de usos problemáticos de la AI por parte del PP durante la campaña, después de un video deepfake de la esposa de Sánchez, Begoña Gómez."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/612682b94fadc393ea84b63ab811d03857a40924/141_0_1110_888/master/1110.jpg?width=445&dpr=1&s=none&crop=none",
-                "cap": "Xavier Garcí­a Albiol en un mitin de campaña en Barcelona la semana pasada. Fotografía: Matteo Secci/Zuma Press/Shutterstock"
+                "x": "La iniciativa llega tras un anuncio electoral generado con AI (AI-generated) difundido por Victorian Labor, con deepfakes de la líder Liberal del estado, Jess Wilson, y de Warren Pickering, de One Nation. La diputada federal independiente (MP) Kate Chaney, miembro de la comisión, quiere que la prohibición esté vigente para las próximas elecciones federales, previstas en 2028: \"Nuestra democracia se basa en poder tomar una decisión informada, y no podemos tomar una decisión informada si la información que tenemos delante se basa en deepfakes\"."
               },
               {
                 "t": "p",
-                "x": "El video de Sánchez parecía responder al candidato del PP Xavier García Albiol, que había dicho que no se pondría la camiseta de Lamine Yamal. Raúl Martínez Corcuera, profesor de estudios de medios en la Universidad de Vic que colabora con SOS Racismo, dijo que la manipulación con AI fue probablemente un intento de llevar la campaña hacia temas que el PP veía como impulsores de votos, y calificó el resultado como una forma de “racismo sutil”. Los medios españoles también señalaron errores en la réplica de la equipación marroquí del video."
+                "x": "El profesor Terry Flew, codirector del Centre for Artificial Intelligence, Trust and Governance, califica la recomendación de propuesta positiva e importante: \"intentar legislar sobre la desinformación en general choca con el problema\" de la definición, \"pero existen posibilidades de identificar un problema concreto, que es el uso de deepfakes en la publicidad política\"."
+              },
+              {
+                "t": "p",
+                "x": "El Gobierno está estudiando el informe de la comisión."
               }
             ]
           }
@@ -1029,243 +1039,243 @@
       }
     },
     {
-      "id": "max-act-industry-committee",
+      "id": "politics-gyeongnam-deepfake-referral",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "산자위, M.AX법\n여야 합의로 의결",
-      "body": "제조업 AI 전환 얼라이언스와 암묵지 데이터 지원의 법적 근거를 담았다.",
-      "mini_headline": "M.AX법\n산자위 통과",
+      "headline": "경남지사 선거 의혹 12명\n송치, 딥페이크는 불송치",
+      "body": "경찰이 12명을 송치했지만 딥페이크 영상 의혹과 박완수 지사는 불송치했다.",
+      "mini_headline": "경남 선거 의혹 12명 송치",
       "tool": "Politics",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261126137500001",
-      "accent": "#2ec5c5",
+      "url": "https://www.yna.co.kr/view/AKR20261127026700052",
+      "accent": "#eb367f",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
-            "cap": "김정관 산업통상부 장관이 26일 국회 산업통상자원중소벤처기업위원회 전체회의에서 의원들의 질의에 답변하고 있다."
+            "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+            "cap": "경찰 경남도청 압수수색 종료 — 지난 6월 9일 경남도청 압수수색을 마친 경찰이 압수품을 들고 경남경찰청으로 복귀하고 있다."
           },
           {
             "t": "p",
-            "x": "국회 산업통상자원중소벤처기업위원회는 26일 전체회의를 열고 '산업 인공지능 전환 및 활용 촉진법'(일명 M.AX법) 등 총 78건의 법안을 여야 합의로 의결했다."
+            "x": "경찰이 6·3 지방선거 당시 국민의힘 박완수 경남지사 후보 캠프에서 불거진 '딥페이크 영상·관권선거 의혹'과 관련한 수사를 마무리해 12명을 송치했다. 박 지사는 불송치했다."
           },
           {
             "t": "p",
-            "x": "산자위는 기존 '산업 디지털 전환 및 인공지능 활용 촉진법 전부개정 법률안'의 명칭을 산업 인공지능 전환 및 활용 촉진법으로 변경해 제조업의 AI 전환(M.AX) '얼라이언스'(협력체)와 암묵지 데이터 지원사업에 대한 법적 근거를 마련했다고 밝혔다."
+            "x": "경남경찰청 사이버수사과는 공직선거법 위반 등 혐의로 전현직 공무원 3명을 비롯해 캠프 관계자와 홍보 영상 제작 업체 관계자 등 총 12명을 창원지방공소청에 송치했다고 27일 밝혔다."
           },
           {
             "t": "p",
-            "x": "산자위는 이를 통해 제조기업과 AI 기업 간 협업을 활성화하는 한편 제조업의 AI 전환에 필요한 기술·인력·데이터·인프라 확충 지원 기반을 체계적으로 확충할 수 있을 것으로 기대했다."
+            "x": "이들 중 9명은 6·3 지방선거 당시 박 지사 선거 캠프 활동 과정에서 홍보 영상 제작을 대가로 금품을 수수한 혐의를 받는다. 전현직 공무원 3명은 공무원 신분으로 선거에 관여한 혐의 등을 받고 있다. 전체 12명 가운데 8명은 공식 선거 캠프가 아닌 캠프 유사 기관을 설치한 혐의 등도 있다."
           },
           {
             "t": "p",
-            "x": "산자위는 또 외국인 투자 안보심의에 대한 법률상 근거를 마련하고, 외국인 투자 제한 범위에 간접 지배를 추가해 외국인 투자에 대한 정부의 관리·감독 기능을 강화한 외국인투자 촉진법 개정안도 의결했다."
+            "x": "피의자들의 딥페이크 영상 제작 의혹에 대해서는 인공지능(AI) 기술을 사용한 것은 맞지만 실제와 구분하기 힘든 정도는 아니어서 불송치 결정이 내려졌다."
           },
           {
             "t": "p",
-            "x": "아울러 국가핵심기술 침탈 예방을 위해 국가핵심기술 지정 요건을 완화하고 해외 인수·합병 사전 승인 대상을 구체화하는 산업기술의 유출 방지 및 보호법 개정안도 의결됐다."
+            "x": "경찰은 박 지사의 공직선거법 위반 혐의에 대해서는 불송치 결정을 내렸다. 경찰 관계자는 \"박 지사에 대한 수사 결과 직접 증거가 없어 증거 불충분으로 이같이 결정했다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "이날 의결된 법안들은 법제사법위원회 심사를 거쳐 국회 본회의에서 최종 의결될 예정이다."
+            "x": "이 사건 수사는 박 지사 캠프가 상대 후보인 더불어민주당 김경수 후보를 비방하는 딥페이크 영상 등을 제작·유포하고, 캠프에서 활동한 전현직 공무원들이 선거 활동에 개입했다는 의혹에서 비롯됐다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "산자위, M.AX법\n여야 합의로 의결",
-          "body": "제조업 AI 전환 얼라이언스와 암묵지 데이터 지원의 법적 근거를 담았다.",
-          "mini_headline": "M.AX법\n산자위 통과",
+          "headline": "경남지사 선거 의혹 12명\n송치, 딥페이크는 불송치",
+          "body": "경찰이 12명을 송치했지만 딥페이크 영상 의혹과 박완수 지사는 불송치했다.",
+          "mini_headline": "경남 선거 의혹 12명 송치",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
-                "cap": "김정관 산업통상부 장관이 26일 국회 산업통상자원중소벤처기업위원회 전체회의에서 의원들의 질의에 답변하고 있다."
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "경찰 경남도청 압수수색 종료 — 지난 6월 9일 경남도청 압수수색을 마친 경찰이 압수품을 들고 경남경찰청으로 복귀하고 있다."
               },
               {
                 "t": "p",
-                "x": "국회 산업통상자원중소벤처기업위원회는 26일 전체회의를 열고 '산업 인공지능 전환 및 활용 촉진법'(일명 M.AX법) 등 총 78건의 법안을 여야 합의로 의결했다."
+                "x": "경찰이 6·3 지방선거 당시 국민의힘 박완수 경남지사 후보 캠프에서 불거진 '딥페이크 영상·관권선거 의혹'과 관련한 수사를 마무리해 12명을 송치했다. 박 지사는 불송치했다."
               },
               {
                 "t": "p",
-                "x": "산자위는 기존 '산업 디지털 전환 및 인공지능 활용 촉진법 전부개정 법률안'의 명칭을 산업 인공지능 전환 및 활용 촉진법으로 변경해 제조업의 AI 전환(M.AX) '얼라이언스'(협력체)와 암묵지 데이터 지원사업에 대한 법적 근거를 마련했다고 밝혔다."
+                "x": "경남경찰청 사이버수사과는 공직선거법 위반 등 혐의로 전현직 공무원 3명을 비롯해 캠프 관계자와 홍보 영상 제작 업체 관계자 등 총 12명을 창원지방공소청에 송치했다고 27일 밝혔다."
               },
               {
                 "t": "p",
-                "x": "산자위는 이를 통해 제조기업과 AI 기업 간 협업을 활성화하는 한편 제조업의 AI 전환에 필요한 기술·인력·데이터·인프라 확충 지원 기반을 체계적으로 확충할 수 있을 것으로 기대했다."
+                "x": "이들 중 9명은 6·3 지방선거 당시 박 지사 선거 캠프 활동 과정에서 홍보 영상 제작을 대가로 금품을 수수한 혐의를 받는다. 전현직 공무원 3명은 공무원 신분으로 선거에 관여한 혐의 등을 받고 있다. 전체 12명 가운데 8명은 공식 선거 캠프가 아닌 캠프 유사 기관을 설치한 혐의 등도 있다."
               },
               {
                 "t": "p",
-                "x": "산자위는 또 외국인 투자 안보심의에 대한 법률상 근거를 마련하고, 외국인 투자 제한 범위에 간접 지배를 추가해 외국인 투자에 대한 정부의 관리·감독 기능을 강화한 외국인투자 촉진법 개정안도 의결했다."
+                "x": "피의자들의 딥페이크 영상 제작 의혹에 대해서는 인공지능(AI) 기술을 사용한 것은 맞지만 실제와 구분하기 힘든 정도는 아니어서 불송치 결정이 내려졌다."
               },
               {
                 "t": "p",
-                "x": "아울러 국가핵심기술 침탈 예방을 위해 국가핵심기술 지정 요건을 완화하고 해외 인수·합병 사전 승인 대상을 구체화하는 산업기술의 유출 방지 및 보호법 개정안도 의결됐다."
+                "x": "경찰은 박 지사의 공직선거법 위반 혐의에 대해서는 불송치 결정을 내렸다. 경찰 관계자는 \"박 지사에 대한 수사 결과 직접 증거가 없어 증거 불충분으로 이같이 결정했다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "이날 의결된 법안들은 법제사법위원회 심사를 거쳐 국회 본회의에서 최종 의결될 예정이다."
+                "x": "이 사건 수사는 박 지사 캠프가 상대 후보인 더불어민주당 김경수 후보를 비방하는 딥페이크 영상 등을 제작·유포하고, 캠프에서 활동한 전현직 공무원들이 선거 활동에 개입했다는 의혹에서 비롯됐다."
               }
             ]
           }
         },
         "en": {
-          "headline": "Assembly panel passes M.AX Act\nwith cross-party agreement",
-          "body": "The bill provides a legal basis for a manufacturing AI transition alliance and tacit-knowledge data support.",
-          "mini_headline": "M.AX Act clears committee",
+          "headline": "12 referred in Gyeongnam poll\ncase; deepfake claim dropped",
+          "body": "Police referred 12 people to prosecutors but did not refer Governor Park Wan-su or the deepfake video claim.",
+          "mini_headline": "12 referred in Gyeongnam poll case",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
-                "cap": "Minister of Industry and Trade Kim Jung-kwan answers lawmakers' questions at a plenary meeting of the National Assembly's Trade, Industry, Energy, SMEs and Startups Committee on the 26th."
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "Police wrap up search of Gyeongnam provincial office — Police return to the Gyeongnam Provincial Police Agency carrying seized items after finishing a search of the Gyeongnam provincial government office on June 9."
               },
               {
                 "t": "p",
-                "x": "The National Assembly's Trade, Industry, Energy, SMEs and Startups Committee held a plenary meeting on the 26th and passed a total of 78 bills with cross-party agreement, including the 'Act on Promoting Industrial AI Transformation and Use' (the so-called M.AX Act)."
+                "x": "Police have wrapped up their investigation into the 'deepfake video and official election interference allegations' that arose from the campaign of People Power Party candidate Park Wan-su for Gyeongnam governor during the June 3 local elections, referring 12 people to prosecutors. Governor Park was not referred."
               },
               {
                 "t": "p",
-                "x": "The committee said it renamed the existing 'full revision bill of the Act on Promoting Industrial Digital Transformation and AI Use' as the Act on Promoting Industrial AI Transformation and Use, creating a legal basis for a manufacturing AI transformation (M.AX) 'alliance' (a cooperative body) and for a tacit-knowledge data support program."
+                "x": "The Cyber Investigation Division of the Gyeongnam Provincial Police Agency said on the 27th that it had referred a total of 12 people, including 3 current and former public officials, campaign staff and people from a promotional video production company, to the Changwon District Public Prosecution Office on charges including violating the Public Official Election Act."
               },
               {
                 "t": "p",
-                "x": "The committee expects the law to boost collaboration between manufacturers and AI companies while systematically expanding the support base for the technology, workforce, data and infrastructure that manufacturing needs for its AI transition."
+                "x": "Of them, 9 are accused of receiving money in return for producing promotional videos while working on Park's campaign during the June 3 local elections. The 3 current and former officials are accused of, among other things, taking part in the election while holding public office. Of the 12, 8 also face charges including setting up a campaign-like organization rather than an official campaign office."
               },
               {
                 "t": "p",
-                "x": "The committee also passed an amendment to the Foreign Investment Promotion Act that strengthens government oversight of foreign investment by setting a statutory basis for security reviews of foreign investment and adding indirect control to the scope of foreign investment restrictions."
+                "x": "On the suspects' alleged production of deepfake videos, police decided not to refer the case: artificial intelligence (AI) technology was used, but the videos were not so realistic as to be hard to tell apart from reality."
               },
               {
                 "t": "p",
-                "x": "In addition, to prevent the theft of national core technologies, an amendment to the Act on the Prevention of Divulgence and Protection of Industrial Technology was passed that eases the criteria for designating national core technologies and specifies which overseas mergers and acquisitions require prior approval."
+                "x": "Police decided not to refer Governor Park on charges of violating the Public Official Election Act. \"The investigation into Governor Park found no direct evidence, so we made this decision due to insufficient evidence,\" a police official said."
               },
               {
                 "t": "p",
-                "x": "The bills passed that day will go to the Legislation and Judiciary Committee for review before a final vote at a plenary session of the National Assembly."
+                "x": "The investigation stemmed from allegations that Park's campaign produced and spread deepfake videos and other material disparaging rival candidate Kim Kyoung-soo of the Democratic Party, and that current and former public officials working on the campaign intervened in campaign activities."
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国国会委、M.AX法を\n与野党合意で可決",
-          "body": "製造業のAI転換アライアンスと暗黙知データ支援の法的根拠を盛り込んだ。",
-          "mini_headline": "M.AX法、産資委を通過",
+          "headline": "慶南知事選、12人を送致\nディープフェイクは不送致",
+          "body": "警察は12人を送致したが、ディープフェイク映像疑惑と朴完洙知事は不送致とした。",
+          "mini_headline": "慶南選挙疑惑、12人送致",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
-                "cap": "26日、国会産業通商資源中小ベンチャー企業委員会の全体会議で議員の質問に答える金正官（キム・ジョングァン）産業通商相。"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "警察、慶南道庁の家宅捜索を終える — 6月9日、慶南道庁の家宅捜索を終えた警察が押収品を手に慶南警察庁へ戻っている。"
               },
               {
                 "t": "p",
-                "x": "韓国国会の産業通商資源中小ベンチャー企業委員会は26日に全体会議を開き、「産業人工知能転換および活用促進法」（通称M.AX法）など計78件の法案を与野党合意で可決した。"
+                "x": "警察は、6・3地方選挙の際に国民の力の朴完洙(パク・ワンス)慶南知事候補の陣営で浮上した「ディープフェイク映像・官権選挙疑惑」の捜査を終え、12人を送致した。朴知事は不送致とした。"
               },
               {
                 "t": "p",
-                "x": "同委員会は、既存の「産業デジタル転換および人工知能活用促進法全部改正法律案」の名称を産業人工知能転換および活用促進法に改め、製造業のAI転換（M.AX）「アライアンス」（協力体）と暗黙知データ支援事業の法的根拠を整えたと明らかにした。"
+                "x": "慶南警察庁サイバー捜査課は27日、公職選挙法違反などの疑いで、現職・元職の公務員3人をはじめ、陣営関係者や広報映像制作会社の関係者など計12人を昌原地方公訴庁に送致したと明らかにした。"
               },
               {
                 "t": "p",
-                "x": "同委員会は、これにより製造企業とAI企業の協業を活性化するとともに、製造業のAI転換に必要な技術・人材・データ・インフラの拡充支援基盤を体系的に整えられると期待した。"
+                "x": "このうち9人は、6・3地方選挙の際に朴知事の選挙陣営で活動する中で、広報映像制作の見返りに金品を受け取った疑いが持たれている。現職・元職の公務員3人は、公務員の身分で選挙に関与した疑いなどが持たれている。12人のうち8人には、正式な選挙陣営ではない陣営類似機関を設置した疑いなどもある。"
               },
               {
                 "t": "p",
-                "x": "同委員会はまた、外国人投資の安全保障審査について法律上の根拠を設け、外国人投資の制限範囲に間接支配を加えて政府の管理・監督機能を強化する外国人投資促進法改正案も可決した。"
+                "x": "容疑者らによるディープフェイク映像制作の疑惑については、人工知能(AI)技術を使ったのは事実だが、実物と見分けがつかないほどではないとして、不送致の決定が下された。"
               },
               {
                 "t": "p",
-                "x": "あわせて、国家核心技術の侵奪を防ぐため、国家核心技術の指定要件を緩和し、海外での買収・合併の事前承認対象を具体化する産業技術の流出防止および保護法改正案も可決された。"
+                "x": "警察は朴知事の公職選挙法違反の疑いについて不送致の決定を下した。警察関係者は「朴知事に対する捜査の結果、直接証拠がなく、証拠不十分でこのように決定した」と述べた。"
               },
               {
                 "t": "p",
-                "x": "この日可決された法案は、法制司法委員会の審査を経て国会本会議で最終議決される予定だ。"
+                "x": "この事件の捜査は、朴知事の陣営が対立候補である共に民主党の金慶洙(キム・ギョンス)候補を誹謗するディープフェイク映像などを制作・拡散し、陣営で活動した現職・元職の公務員が選挙活動に介入したという疑惑から始まった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国国会产业委员会\n朝野一致通过M.AX法",
-          "body": "该法明确为制造业AI转型联盟与隐性知识数据支持项目提供法律依据。",
-          "mini_headline": "M.AX法通过产业委",
+          "headline": "庆南知事选举案12人\n移送,深度伪造未移送",
+          "body": "警方移送12人,但对深度伪造视频嫌疑和朴完洙知事作出不移送决定。",
+          "mini_headline": "庆南选举疑案12人移送",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
-                "cap": "26日，韩国产业通商部长官金正官在国会产业通商资源中小风险企业委员会全体会议上回答议员提问。"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "警方结束对庆南道厅的搜查——6月9日,结束庆南道厅搜查的警方携带扣押物品返回庆南警察厅。"
               },
               {
                 "t": "p",
-                "x": "韩国国会产业通商资源中小风险企业委员会26日召开全体会议，经朝野协商一致，表决通过了《产业人工智能转型及应用促进法》（又称M.AX法）等共78项法案。"
+                "x": "警方结束了对6·3地方选举期间国民力量党庆南知事候选人朴完洙竞选阵营“深度伪造视频·官权选举疑案”的调查,将12人移送检方。朴知事未被移送。"
               },
               {
                 "t": "p",
-                "x": "该委员会表示，已将原《产业数字化转型及人工智能应用促进法全面修订法案》更名为《产业人工智能转型及应用促进法》，为制造业AI转型（M.AX）“联盟”（合作体）和隐性知识数据支持项目奠定了法律依据。"
+                "x": "庆南警察厅网络调查科27日表示,已以涉嫌违反《公职选举法》等罪名,将包括3名现任及前任公务员在内的竞选阵营人员和宣传视频制作公司相关人员等共12人移送昌原地方公诉厅。"
               },
               {
                 "t": "p",
-                "x": "委员会期待借此激活制造企业与AI企业之间的合作，同时系统性地扩充制造业AI转型所需的技术、人才、数据和基础设施支持基础。"
+                "x": "其中9人涉嫌在6·3地方选举期间参与朴知事竞选阵营活动时,以制作宣传视频为代价收受财物。3名现任及前任公务员涉嫌以公务员身份介入选举等。12人中有8人还涉嫌设立非正式竞选阵营的类似机构等。"
               },
               {
                 "t": "p",
-                "x": "委员会还表决通过了《外国人投资促进法》修正案，为外国人投资安全审查提供法律依据，并将间接控制纳入外国人投资限制范围，强化政府对外国人投资的管理和监督职能。"
+                "x": "关于嫌疑人制作深度伪造视频的疑点,警方认定虽确实使用了人工智能(AI)技术,但尚未达到难以与真实区分的程度,因此作出不移送决定。"
               },
               {
                 "t": "p",
-                "x": "此外，为防止国家核心技术被窃取，旨在放宽国家核心技术认定条件、细化海外并购事先审批对象的《产业技术流出防止及保护法》修正案也获得通过。"
+                "x": "警方对朴知事涉嫌违反《公职选举法》一事作出不移送决定。一名警方人士表示:“对朴知事的调查结果显示没有直接证据,因证据不足作出了这一决定。”"
               },
               {
                 "t": "p",
-                "x": "当天通过的法案将经法制司法委员会审查后，提交国会全体会议进行最终表决。"
+                "x": "此案调查源于有关指控:朴知事阵营制作并传播诋毁对手、共同民主党候选人金庆洙的深度伪造视频等,且在阵营中活动的现任及前任公务员介入了选举活动。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Comisión coreana aprueba\nla ley M.AX por consenso",
-          "body": "La ley da base legal a la alianza de transición AI de la manufactura y al apoyo a datos de conocimiento tácito.",
-          "mini_headline": "Comisión coreana aprueba la ley M.AX",
+          "headline": "Caso electoral de Gyeongnam:\n12 remitidos, el deepfake no",
+          "body": "La policía remitió a 12 personas a la fiscalía, pero no al gobernador Park Wan-su ni el caso del video deepfake.",
+          "mini_headline": "Remiten a 12 por caso de Gyeongnam",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
-                "cap": "El ministro de Industria y Comercio, Kim Jung-kwan, responde a preguntas de los diputados en el pleno de la Comisión de Comercio, Industria, Energía, Pymes y Startups de la Asamblea Nacional el día 26."
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "La policía concluye el registro de la sede del gobierno de Gyeongnam — Agentes regresan a la Agencia de Policía Provincial de Gyeongnam con los objetos incautados tras terminar el registro de la sede del gobierno provincial el pasado 9 de junio."
               },
               {
                 "t": "p",
-                "x": "La Comisión de Comercio, Industria, Energía, Pymes y Startups de la Asamblea Nacional celebró el día 26 una sesión plenaria y aprobó por consenso entre oficialismo y oposición un total de 78 proyectos de ley, entre ellos la 'Ley de Promoción de la Transformación y el Uso de la Inteligencia Artificial Industrial' (conocida como ley M.AX)."
+                "x": "La policía concluyó la investigación sobre las 'sospechas de video deepfake e injerencia oficial en las elecciones' surgidas en la campaña de Park Wan-su, candidato del Partido del Poder Popular a gobernador de Gyeongnam en las elecciones locales del 3 de junio, y remitió a 12 personas a la fiscalía. El gobernador Park no fue remitido."
               },
               {
                 "t": "p",
-                "x": "La comisión explicó que cambió el nombre del 'proyecto de reforma integral de la Ley de Promoción de la Transformación Digital Industrial y el Uso de la Inteligencia Artificial' por el de Ley de Promoción de la Transformación y el Uso de la Inteligencia Artificial Industrial, con lo que creó una base legal para la 'alianza' (órgano de cooperación) de la transición AI de la manufactura (M.AX) y para el programa de apoyo a datos de conocimiento tácito."
+                "x": "La División de Investigación Cibernética de la Agencia de Policía Provincial de Gyeongnam informó el día 27 que remitió a la Fiscalía de Distrito de Changwon a un total de 12 personas, entre ellas 3 funcionarios actuales y antiguos, miembros de la campaña y personal de una productora de videos promocionales, por presunta infracción de la Ley de Elecciones de Cargos Públicos, entre otros cargos."
               },
               {
                 "t": "p",
-                "x": "La comisión espera que así se impulse la colaboración entre fabricantes y empresas de AI y se amplíe de forma sistemática la base de apoyo en tecnología, personal, datos e infraestructura que la manufactura necesita para su transición a la AI."
+                "x": "De ellos, 9 están acusados de recibir dinero a cambio de producir videos promocionales mientras trabajaban en la campaña de Park durante las elecciones locales del 3 de junio. Los 3 funcionarios actuales y antiguos están acusados, entre otras cosas, de intervenir en la elección siendo funcionarios públicos. De los 12, 8 también están acusados, entre otros cargos, de crear un organismo similar a una campaña en lugar de una campaña oficial."
               },
               {
                 "t": "p",
-                "x": "La comisión también aprobó una reforma de la Ley de Promoción de la Inversión Extranjera que refuerza la gestión y supervisión gubernamental de la inversión extranjera, al dar base legal a la revisión de seguridad de estas inversiones y añadir el control indirecto al ámbito de sus restricciones."
+                "x": "En cuanto a la sospecha de que los investigados produjeron videos deepfake, se decidió no remitir el caso porque, aunque sí se usó tecnología de inteligencia artificial (AI), los videos no eran difíciles de distinguir de la realidad."
               },
               {
                 "t": "p",
-                "x": "Además, para prevenir el robo de tecnologías nacionales clave, se aprobó una reforma de la Ley de Prevención de Fugas y Protección de Tecnología Industrial que flexibiliza los requisitos para designarlas y concreta qué fusiones y adquisiciones en el extranjero requieren aprobación previa."
+                "x": "La policía decidió no remitir al gobernador Park por la presunta infracción de la Ley de Elecciones de Cargos Públicos. \"La investigación sobre el gobernador Park no halló pruebas directas, por lo que tomamos esta decisión por falta de pruebas\", dijo un funcionario policial."
               },
               {
                 "t": "p",
-                "x": "Los proyectos aprobados ese día pasarán por la revisión de la Comisión de Legislación y Justicia antes de su votación final en el pleno de la Asamblea Nacional."
+                "x": "La investigación se originó en las acusaciones de que la campaña de Park produjo y difundió videos deepfake, entre otros materiales, para desacreditar al candidato rival Kim Kyoung-soo, del Partido Democrático, y de que funcionarios actuales y antiguos que trabajaban en la campaña intervinieron en actividades electorales."
               }
             ]
           }
@@ -1273,157 +1283,157 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Assembly panel passes M.AX Act\nwith cross-party agreement",
-          "body": "The bill provides a legal basis for a manufacturing AI transition alliance and tacit-knowledge data support.",
-          "mini_headline": "M.AX Act clears committee",
+          "headline": "12 referred in Gyeongnam poll\ncase; deepfake claim dropped",
+          "body": "Police referred 12 people to prosecutors but did not refer Governor Park Wan-su or the deepfake video claim.",
+          "mini_headline": "12 referred in Gyeongnam poll case",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
-                "cap": "Minister of Industry and Trade Kim Jung-kwan answers lawmakers' questions at a plenary meeting of the National Assembly's Trade, Industry, Energy, SMEs and Startups Committee on the 26th."
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "Police wrap up search of Gyeongnam provincial office — Police return to the Gyeongnam Provincial Police Agency carrying seized items after finishing a search of the Gyeongnam provincial government office on June 9."
               },
               {
                 "t": "p",
-                "x": "The National Assembly's Trade, Industry, Energy, SMEs and Startups Committee held a plenary meeting on the 26th and passed a total of 78 bills with cross-party agreement, including the 'Act on Promoting Industrial AI Transformation and Use' (the so-called M.AX Act)."
+                "x": "Police have wrapped up their investigation into the 'deepfake video and official election interference allegations' that arose from the campaign of People Power Party candidate Park Wan-su for Gyeongnam governor during the June 3 local elections, referring 12 people to prosecutors. Governor Park was not referred."
               },
               {
                 "t": "p",
-                "x": "The committee said it renamed the existing 'full revision bill of the Act on Promoting Industrial Digital Transformation and AI Use' as the Act on Promoting Industrial AI Transformation and Use, creating a legal basis for a manufacturing AI transformation (M.AX) 'alliance' (a cooperative body) and for a tacit-knowledge data support program."
+                "x": "The Cyber Investigation Division of the Gyeongnam Provincial Police Agency said on the 27th that it had referred a total of 12 people, including 3 current and former public officials, campaign staff and people from a promotional video production company, to the Changwon District Public Prosecution Office on charges including violating the Public Official Election Act."
               },
               {
                 "t": "p",
-                "x": "The committee expects the law to boost collaboration between manufacturers and AI companies while systematically expanding the support base for the technology, workforce, data and infrastructure that manufacturing needs for its AI transition."
+                "x": "Of them, 9 are accused of receiving money in return for producing promotional videos while working on Park's campaign during the June 3 local elections. The 3 current and former officials are accused of, among other things, taking part in the election while holding public office. Of the 12, 8 also face charges including setting up a campaign-like organization rather than an official campaign office."
               },
               {
                 "t": "p",
-                "x": "The committee also passed an amendment to the Foreign Investment Promotion Act that strengthens government oversight of foreign investment by setting a statutory basis for security reviews of foreign investment and adding indirect control to the scope of foreign investment restrictions."
+                "x": "On the suspects' alleged production of deepfake videos, police decided not to refer the case: artificial intelligence (AI) technology was used, but the videos were not so realistic as to be hard to tell apart from reality."
               },
               {
                 "t": "p",
-                "x": "In addition, to prevent the theft of national core technologies, an amendment to the Act on the Prevention of Divulgence and Protection of Industrial Technology was passed that eases the criteria for designating national core technologies and specifies which overseas mergers and acquisitions require prior approval."
+                "x": "Police decided not to refer Governor Park on charges of violating the Public Official Election Act. \"The investigation into Governor Park found no direct evidence, so we made this decision due to insufficient evidence,\" a police official said."
               },
               {
                 "t": "p",
-                "x": "The bills passed that day will go to the Legislation and Judiciary Committee for review before a final vote at a plenary session of the National Assembly."
+                "x": "The investigation stemmed from allegations that Park's campaign produced and spread deepfake videos and other material disparaging rival candidate Kim Kyoung-soo of the Democratic Party, and that current and former public officials working on the campaign intervened in campaign activities."
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国国会委、M.AX法を\n与野党合意で可決",
-          "body": "製造業のAI転換アライアンスと暗黙知データ支援の法的根拠を盛り込んだ。",
-          "mini_headline": "M.AX法、産資委を通過",
+          "headline": "慶南知事選、12人を送致\nディープフェイクは不送致",
+          "body": "警察は12人を送致したが、ディープフェイク映像疑惑と朴完洙知事は不送致とした。",
+          "mini_headline": "慶南選挙疑惑、12人送致",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
-                "cap": "26日、国会産業通商資源中小ベンチャー企業委員会の全体会議で議員の質問に答える金正官（キム・ジョングァン）産業通商相。"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "警察、慶南道庁の家宅捜索を終える — 6月9日、慶南道庁の家宅捜索を終えた警察が押収品を手に慶南警察庁へ戻っている。"
               },
               {
                 "t": "p",
-                "x": "韓国国会の産業通商資源中小ベンチャー企業委員会は26日に全体会議を開き、「産業人工知能転換および活用促進法」（通称M.AX法）など計78件の法案を与野党合意で可決した。"
+                "x": "警察は、6・3地方選挙の際に国民の力の朴完洙(パク・ワンス)慶南知事候補の陣営で浮上した「ディープフェイク映像・官権選挙疑惑」の捜査を終え、12人を送致した。朴知事は不送致とした。"
               },
               {
                 "t": "p",
-                "x": "同委員会は、既存の「産業デジタル転換および人工知能活用促進法全部改正法律案」の名称を産業人工知能転換および活用促進法に改め、製造業のAI転換（M.AX）「アライアンス」（協力体）と暗黙知データ支援事業の法的根拠を整えたと明らかにした。"
+                "x": "慶南警察庁サイバー捜査課は27日、公職選挙法違反などの疑いで、現職・元職の公務員3人をはじめ、陣営関係者や広報映像制作会社の関係者など計12人を昌原地方公訴庁に送致したと明らかにした。"
               },
               {
                 "t": "p",
-                "x": "同委員会は、これにより製造企業とAI企業の協業を活性化するとともに、製造業のAI転換に必要な技術・人材・データ・インフラの拡充支援基盤を体系的に整えられると期待した。"
+                "x": "このうち9人は、6・3地方選挙の際に朴知事の選挙陣営で活動する中で、広報映像制作の見返りに金品を受け取った疑いが持たれている。現職・元職の公務員3人は、公務員の身分で選挙に関与した疑いなどが持たれている。12人のうち8人には、正式な選挙陣営ではない陣営類似機関を設置した疑いなどもある。"
               },
               {
                 "t": "p",
-                "x": "同委員会はまた、外国人投資の安全保障審査について法律上の根拠を設け、外国人投資の制限範囲に間接支配を加えて政府の管理・監督機能を強化する外国人投資促進法改正案も可決した。"
+                "x": "容疑者らによるディープフェイク映像制作の疑惑については、人工知能(AI)技術を使ったのは事実だが、実物と見分けがつかないほどではないとして、不送致の決定が下された。"
               },
               {
                 "t": "p",
-                "x": "あわせて、国家核心技術の侵奪を防ぐため、国家核心技術の指定要件を緩和し、海外での買収・合併の事前承認対象を具体化する産業技術の流出防止および保護法改正案も可決された。"
+                "x": "警察は朴知事の公職選挙法違反の疑いについて不送致の決定を下した。警察関係者は「朴知事に対する捜査の結果、直接証拠がなく、証拠不十分でこのように決定した」と述べた。"
               },
               {
                 "t": "p",
-                "x": "この日可決された法案は、法制司法委員会の審査を経て国会本会議で最終議決される予定だ。"
+                "x": "この事件の捜査は、朴知事の陣営が対立候補である共に民主党の金慶洙(キム・ギョンス)候補を誹謗するディープフェイク映像などを制作・拡散し、陣営で活動した現職・元職の公務員が選挙活動に介入したという疑惑から始まった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国国会产业委员会\n朝野一致通过M.AX法",
-          "body": "该法明确为制造业AI转型联盟与隐性知识数据支持项目提供法律依据。",
-          "mini_headline": "M.AX法通过产业委",
+          "headline": "庆南知事选举案12人\n移送,深度伪造未移送",
+          "body": "警方移送12人,但对深度伪造视频嫌疑和朴完洙知事作出不移送决定。",
+          "mini_headline": "庆南选举疑案12人移送",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
-                "cap": "26日，韩国产业通商部长官金正官在国会产业通商资源中小风险企业委员会全体会议上回答议员提问。"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "警方结束对庆南道厅的搜查——6月9日,结束庆南道厅搜查的警方携带扣押物品返回庆南警察厅。"
               },
               {
                 "t": "p",
-                "x": "韩国国会产业通商资源中小风险企业委员会26日召开全体会议，经朝野协商一致，表决通过了《产业人工智能转型及应用促进法》（又称M.AX法）等共78项法案。"
+                "x": "警方结束了对6·3地方选举期间国民力量党庆南知事候选人朴完洙竞选阵营“深度伪造视频·官权选举疑案”的调查,将12人移送检方。朴知事未被移送。"
               },
               {
                 "t": "p",
-                "x": "该委员会表示，已将原《产业数字化转型及人工智能应用促进法全面修订法案》更名为《产业人工智能转型及应用促进法》，为制造业AI转型（M.AX）“联盟”（合作体）和隐性知识数据支持项目奠定了法律依据。"
+                "x": "庆南警察厅网络调查科27日表示,已以涉嫌违反《公职选举法》等罪名,将包括3名现任及前任公务员在内的竞选阵营人员和宣传视频制作公司相关人员等共12人移送昌原地方公诉厅。"
               },
               {
                 "t": "p",
-                "x": "委员会期待借此激活制造企业与AI企业之间的合作，同时系统性地扩充制造业AI转型所需的技术、人才、数据和基础设施支持基础。"
+                "x": "其中9人涉嫌在6·3地方选举期间参与朴知事竞选阵营活动时,以制作宣传视频为代价收受财物。3名现任及前任公务员涉嫌以公务员身份介入选举等。12人中有8人还涉嫌设立非正式竞选阵营的类似机构等。"
               },
               {
                 "t": "p",
-                "x": "委员会还表决通过了《外国人投资促进法》修正案，为外国人投资安全审查提供法律依据，并将间接控制纳入外国人投资限制范围，强化政府对外国人投资的管理和监督职能。"
+                "x": "关于嫌疑人制作深度伪造视频的疑点,警方认定虽确实使用了人工智能(AI)技术,但尚未达到难以与真实区分的程度,因此作出不移送决定。"
               },
               {
                 "t": "p",
-                "x": "此外，为防止国家核心技术被窃取，旨在放宽国家核心技术认定条件、细化海外并购事先审批对象的《产业技术流出防止及保护法》修正案也获得通过。"
+                "x": "警方对朴知事涉嫌违反《公职选举法》一事作出不移送决定。一名警方人士表示:“对朴知事的调查结果显示没有直接证据,因证据不足作出了这一决定。”"
               },
               {
                 "t": "p",
-                "x": "当天通过的法案将经法制司法委员会审查后，提交国会全体会议进行最终表决。"
+                "x": "此案调查源于有关指控:朴知事阵营制作并传播诋毁对手、共同民主党候选人金庆洙的深度伪造视频等,且在阵营中活动的现任及前任公务员介入了选举活动。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Comisión coreana aprueba\nla ley M.AX por consenso",
-          "body": "La ley da base legal a la alianza de transición AI de la manufactura y al apoyo a datos de conocimiento tácito.",
-          "mini_headline": "Comisión coreana aprueba la ley M.AX",
+          "headline": "Caso electoral de Gyeongnam:\n12 remitidos, el deepfake no",
+          "body": "La policía remitió a 12 personas a la fiscalía, pero no al gobernador Park Wan-su ni el caso del video deepfake.",
+          "mini_headline": "Remiten a 12 por caso de Gyeongnam",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
-                "cap": "El ministro de Industria y Comercio, Kim Jung-kwan, responde a preguntas de los diputados en el pleno de la Comisión de Comercio, Industria, Energía, Pymes y Startups de la Asamblea Nacional el día 26."
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "La policía concluye el registro de la sede del gobierno de Gyeongnam — Agentes regresan a la Agencia de Policía Provincial de Gyeongnam con los objetos incautados tras terminar el registro de la sede del gobierno provincial el pasado 9 de junio."
               },
               {
                 "t": "p",
-                "x": "La Comisión de Comercio, Industria, Energía, Pymes y Startups de la Asamblea Nacional celebró el día 26 una sesión plenaria y aprobó por consenso entre oficialismo y oposición un total de 78 proyectos de ley, entre ellos la 'Ley de Promoción de la Transformación y el Uso de la Inteligencia Artificial Industrial' (conocida como ley M.AX)."
+                "x": "La policía concluyó la investigación sobre las 'sospechas de video deepfake e injerencia oficial en las elecciones' surgidas en la campaña de Park Wan-su, candidato del Partido del Poder Popular a gobernador de Gyeongnam en las elecciones locales del 3 de junio, y remitió a 12 personas a la fiscalía. El gobernador Park no fue remitido."
               },
               {
                 "t": "p",
-                "x": "La comisión explicó que cambió el nombre del 'proyecto de reforma integral de la Ley de Promoción de la Transformación Digital Industrial y el Uso de la Inteligencia Artificial' por el de Ley de Promoción de la Transformación y el Uso de la Inteligencia Artificial Industrial, con lo que creó una base legal para la 'alianza' (órgano de cooperación) de la transición AI de la manufactura (M.AX) y para el programa de apoyo a datos de conocimiento tácito."
+                "x": "La División de Investigación Cibernética de la Agencia de Policía Provincial de Gyeongnam informó el día 27 que remitió a la Fiscalía de Distrito de Changwon a un total de 12 personas, entre ellas 3 funcionarios actuales y antiguos, miembros de la campaña y personal de una productora de videos promocionales, por presunta infracción de la Ley de Elecciones de Cargos Públicos, entre otros cargos."
               },
               {
                 "t": "p",
-                "x": "La comisión espera que así se impulse la colaboración entre fabricantes y empresas de AI y se amplíe de forma sistemática la base de apoyo en tecnología, personal, datos e infraestructura que la manufactura necesita para su transición a la AI."
+                "x": "De ellos, 9 están acusados de recibir dinero a cambio de producir videos promocionales mientras trabajaban en la campaña de Park durante las elecciones locales del 3 de junio. Los 3 funcionarios actuales y antiguos están acusados, entre otras cosas, de intervenir en la elección siendo funcionarios públicos. De los 12, 8 también están acusados, entre otros cargos, de crear un organismo similar a una campaña en lugar de una campaña oficial."
               },
               {
                 "t": "p",
-                "x": "La comisión también aprobó una reforma de la Ley de Promoción de la Inversión Extranjera que refuerza la gestión y supervisión gubernamental de la inversión extranjera, al dar base legal a la revisión de seguridad de estas inversiones y añadir el control indirecto al ámbito de sus restricciones."
+                "x": "En cuanto a la sospecha de que los investigados produjeron videos deepfake, se decidió no remitir el caso porque, aunque sí se usó tecnología de inteligencia artificial (AI), los videos no eran difíciles de distinguir de la realidad."
               },
               {
                 "t": "p",
-                "x": "Además, para prevenir el robo de tecnologías nacionales clave, se aprobó una reforma de la Ley de Prevención de Fugas y Protección de Tecnología Industrial que flexibiliza los requisitos para designarlas y concreta qué fusiones y adquisiciones en el extranjero requieren aprobación previa."
+                "x": "La policía decidió no remitir al gobernador Park por la presunta infracción de la Ley de Elecciones de Cargos Públicos. \"La investigación sobre el gobernador Park no halló pruebas directas, por lo que tomamos esta decisión por falta de pruebas\", dijo un funcionario policial."
               },
               {
                 "t": "p",
-                "x": "Los proyectos aprobados ese día pasarán por la revisión de la Comisión de Legislación y Justicia antes de su votación final en el pleno de la Asamblea Nacional."
+                "x": "La investigación se originó en las acusaciones de que la campaña de Park produjo y difundió videos deepfake, entre otros materiales, para desacreditar al candidato rival Kim Kyoung-soo, del Partido Democrático, y de que funcionarios actuales y antiguos que trabajaban en la campaña intervinieron en actividades electorales."
               }
             ]
           }
@@ -1431,271 +1441,361 @@
       }
     },
     {
-      "id": "meta-muse-fca-testing",
-      "source_lang": "en",
+      "id": "politics-russia-ai-strategy-2036",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "UK 금융당국 “Meta,\nMuse 시험 거부했다”",
-      "body": "FCA는 결제·자율성을 살피려던 Muse 공동 시험을 Meta가 거절했다고 밝혔다.",
-      "mini_headline": "Meta, FCA의 Muse 시험 거부",
+      "headline": "러시아, 2036 AI\n국가전략 갱신 추진",
+      "body": "푸틴이 AI 국가전략 갱신을 주문하며 자국 모델 지원 요건 4가지를 제시했다.",
+      "mini_headline": "러시아 AI 전략 갱신",
       "tool": "Politics",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
-      "accent": "#eb367f",
+      "source": "중국통신",
+      "url": "https://www.cn-insight.kr/news/articleView.html?idxno=3408",
+      "accent": "#ff5a4d",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+            "src": "https://cdn.cn-insight.kr/news/photo/202611/3408_6015_4859.jpg",
+            "cap": "11월 26일 ‘AI Journey’ 에 참석한 푸틴 대통령과 카자흐스탄의 토카예프 대통령(사진출처=kremlin.ru)."
           },
           {
             "t": "p",
-            "x": "금융행위감독청(FCA) 혁신 책임자 콜린 페인(Colin Payne)에 따르면 Meta는 지난주 UK 금융당국이 자체 샌드박스에서 Muse를 공동 시험하자고 한 제안을 거절했다. 경쟁·데이터 감독기관을 비롯한 UK 규제당국들은 자사 AI 제품이 UK 소비자보호법을 지키게 하라고 Meta에 경고해 왔다."
+            "x": "블라디미르 푸틴 러시아 대통령이 26일 모스크바에서 인공지능(AI) 연구개발 분야의 선두에 서려면 관련 국가전략을 새로 고쳐야 한다고 밝혔다. 자국 AI 모델 개발을 지원하기 위한 4가지 요건도 함께 제시했다."
           },
           {
             "t": "p",
-            "x": "FCA가 특히 알고 싶어 하는 건 에이전트의 결제 처리 방식이다. Sainsbury's, Marks & Spencer, Ocado, Debenhams Group, Currys 등 소매업체들이 Muse가 자사 사이트에 원활히 접근하도록 Meta와 협력해 왔다고 밝혀서다. 페인은 “에이전트가 자율적으로 행동한다면 그것이 소비자에게 이익이 되는지 확인하고 싶다”고 말했다. 그는 시험 준비에 시간이 필요했겠지만 Meta가 지난달에야 FCA에 계획을 알렸다고 지적했다."
+            "x": "푸틴 대통령은 카심조마르트 토카예프 카자흐스탄 대통령과 함께 '인공지능 세계 투어' 대회에 참석해 연설하며, '2036년까지의 러시아 AI 국가전략'을 갱신하고 관련 국가 행동계획을 승인해야 한다고 말했다."
           },
           {
             "t": "p",
-            "x": "Meta 대변인 매슈 폴러드(Matthew Pollard)는 WIRED에 “관련 규제당국과 건설적으로 소통해 왔으며 앞으로도 그럴 것”이라고 말했다. 9월 출시 이후 북미에서 Muse를 설정한 사용자는 10M 명이 넘는다. CMA는 이미 Meta에 UK 이용약관을 고치게 했으며 “우려가 있다면 UK 소비자를 보호하기 위해 주저 없이 조치하겠다”고 밝혔다."
+            "x": "4가지 요건은 ▲방대한 양의 신뢰할 만한 실제 데이터를 디지털화해 자국 AI 모델 학습에 활용 ▲러시아 내 모바일 기기에 쓰이는 모든 운영체제에 '선택 화면'을 두어 이용자가 자국 제품을 포함해 원하는 AI 모델이나 에이전트를 고르게 함 ▲자체 AI 모델 보급을 앞당길 조건을 마련해 투자와 연구개발 촉진 ▲과학 연구와 국가 첨단기술 개발 사업에서 AI 활용 확대다."
+          },
+          {
+            "t": "p",
+            "x": "그는 데이터 처리센터 건설과 전력망 개선, 냉각 시스템 등 인프라 구축을 위해 정부와 민간자본이 협력하는 제도 틀을 만들어야 한다고 제안했다. 또 AI 에이전트가 사람의 통제와 개입 없이는 수행해서는 안 되는 작업이 무엇인지 권한 범위를 정해야 한다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "출처 : 신화통신 (2026.11.27)"
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "UK finance watchdog says Meta\nrefused Muse agent testing",
-          "body": "The FCA says Meta declined to jointly test the Muse agent, whose payments and autonomy it wants to understand.",
-          "mini_headline": "Meta refused FCA\nMuse testing",
+        "ko": {
+          "headline": "러시아, 2036 AI\n국가전략 갱신 추진",
+          "body": "푸틴이 AI 국가전략 갱신을 주문하며 자국 모델 지원 요건 4가지를 제시했다.",
+          "mini_headline": "러시아 AI 전략 갱신",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+                "src": "https://cdn.cn-insight.kr/news/photo/202611/3408_6015_4859.jpg",
+                "cap": "11월 26일 ‘AI Journey’ 에 참석한 푸틴 대통령과 카자흐스탄의 토카예프 대통령(사진출처=kremlin.ru)."
               },
               {
                 "t": "p",
-                "x": "Meta declined a suggestion from the UK's financial regulator last week that they joint-test Muse using their sandbox, according to Colin Payne, head of innovation at the Financial Conduct Authority (FCA). UK regulators, including the competition and data watchdogs, have warned Meta it needs to ensure its AI products comply with UK consumer protection laws."
+                "x": "블라디미르 푸틴 러시아 대통령이 26일 모스크바에서 인공지능(AI) 연구개발 분야의 선두에 서려면 관련 국가전략을 새로 고쳐야 한다고 밝혔다. 자국 AI 모델 개발을 지원하기 위한 4가지 요건도 함께 제시했다."
               },
               {
                 "t": "p",
-                "x": "The FCA especially wants to understand how payments will be made by agents, as retailers including Sainsbury's, Marks & Spencer, Ocado, Debenhams Group and Currys said they'd been working with Meta to smooth Muse's access to their sites. “If an agent is acting autonomously, we want to make sure it's in the interest of the consumer,” Payne says. He noted testing would have taken time to set up, but Meta only made the FCA aware of its plans last month."
+                "x": "푸틴 대통령은 카심조마르트 토카예프 카자흐스탄 대통령과 함께 '인공지능 세계 투어' 대회에 참석해 연설하며, '2036년까지의 러시아 AI 국가전략'을 갱신하고 관련 국가 행동계획을 승인해야 한다고 말했다."
               },
               {
                 "t": "p",
-                "x": "“We've engaged constructively with the appropriate regulatory authorities and will continue to do so,” Meta spokesperson Matthew Pollard tells WIRED. More than 10 million users have set up Muse in North America since its September launch. The CMA has already made Meta adapt its UK terms, and said: “If we have concerns, we will not hesitate to act to protect UK consumers.”"
+                "x": "4가지 요건은 ▲방대한 양의 신뢰할 만한 실제 데이터를 디지털화해 자국 AI 모델 학습에 활용 ▲러시아 내 모바일 기기에 쓰이는 모든 운영체제에 '선택 화면'을 두어 이용자가 자국 제품을 포함해 원하는 AI 모델이나 에이전트를 고르게 함 ▲자체 AI 모델 보급을 앞당길 조건을 마련해 투자와 연구개발 촉진 ▲과학 연구와 국가 첨단기술 개발 사업에서 AI 활용 확대다."
+              },
+              {
+                "t": "p",
+                "x": "그는 데이터 처리센터 건설과 전력망 개선, 냉각 시스템 등 인프라 구축을 위해 정부와 민간자본이 협력하는 제도 틀을 만들어야 한다고 제안했다. 또 AI 에이전트가 사람의 통제와 개입 없이는 수행해서는 안 되는 작업이 무엇인지 권한 범위를 정해야 한다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "출처 : 신화통신 (2026.11.27)"
               }
             ]
           }
         },
-        "ko": {
-          "headline": "UK 금융당국 “Meta,\nMuse 시험 거부했다”",
-          "body": "FCA는 결제·자율성을 살피려던 Muse 공동 시험을 Meta가 거절했다고 밝혔다.",
-          "mini_headline": "Meta, FCA의 Muse 시험 거부",
+        "en": {
+          "headline": "Russia moves to update its\n2036 national AI strategy",
+          "body": "Putin called for updating Russia's national AI strategy and set out 4 requirements to support domestic models.",
+          "mini_headline": "Russia to update AI strategy",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+                "src": "https://cdn.cn-insight.kr/news/photo/202611/3408_6015_4859.jpg",
+                "cap": "President Putin and Kazakh President Tokayev at ‘AI Journey’ on November 26 (Photo: kremlin.ru)."
               },
               {
                 "t": "p",
-                "x": "금융행위감독청(FCA) 혁신 책임자 콜린 페인(Colin Payne)에 따르면 Meta는 지난주 UK 금융당국이 자체 샌드박스에서 Muse를 공동 시험하자고 한 제안을 거절했다. 경쟁·데이터 감독기관을 비롯한 UK 규제당국들은 자사 AI 제품이 UK 소비자보호법을 지키게 하라고 Meta에 경고해 왔다."
+                "x": "Russian President Vladimir Putin said in Moscow on the 26th that Russia must revise its national strategy to lead in artificial intelligence (AI) research and development. He also set out 4 requirements to support the development of domestic AI models."
               },
               {
                 "t": "p",
-                "x": "FCA가 특히 알고 싶어 하는 건 에이전트의 결제 처리 방식이다. Sainsbury's, Marks & Spencer, Ocado, Debenhams Group, Currys 등 소매업체들이 Muse가 자사 사이트에 원활히 접근하도록 Meta와 협력해 왔다고 밝혀서다. 페인은 “에이전트가 자율적으로 행동한다면 그것이 소비자에게 이익이 되는지 확인하고 싶다”고 말했다. 그는 시험 준비에 시간이 필요했겠지만 Meta가 지난달에야 FCA에 계획을 알렸다고 지적했다."
+                "x": "Speaking at the 'AI Journey' conference alongside Kazakh President Kassym-Jomart Tokayev, Putin said the 'National AI Strategy of Russia through 2036' should be updated and a related national action plan approved."
               },
               {
                 "t": "p",
-                "x": "Meta 대변인 매슈 폴러드(Matthew Pollard)는 WIRED에 “관련 규제당국과 건설적으로 소통해 왔으며 앞으로도 그럴 것”이라고 말했다. 9월 출시 이후 북미에서 Muse를 설정한 사용자는 10M 명이 넘는다. CMA는 이미 Meta에 UK 이용약관을 고치게 했으며 “우려가 있다면 UK 소비자를 보호하기 위해 주저 없이 조치하겠다”고 밝혔다."
+                "x": "The 4 requirements are: ▲digitizing large volumes of reliable real-world data to train domestic AI models ▲placing a 'choice screen' on every operating system used on mobile devices in Russia so users can pick the AI model or agent they want, including domestic products ▲creating conditions to speed up the rollout of in-house AI models to spur investment and research and development ▲expanding the use of AI in scientific research and national high-tech development projects."
+              },
+              {
+                "t": "p",
+                "x": "He proposed creating an institutional framework for government and private capital to cooperate on building infrastructure such as data processing centers, power grid upgrades and cooling systems. He also said the scope of authority should be defined, setting out which tasks AI agents must not perform without human control and intervention."
+              },
+              {
+                "t": "p",
+                "x": "Source: Xinhua (2026.11.27)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "UK金融当局「Metaが\nMuse試験を拒否」",
-          "body": "FCAは、決済と自律性を見極めたいとしたMuseの共同試験をMetaが断ったと明かした。",
-          "mini_headline": "Meta、FCAのMuse試験を拒否",
+          "headline": "ロシア、2036 AI\n国家戦略の更新へ",
+          "body": "プーチン氏はAI国家戦略の更新を指示し、自国モデル支援の4つの要件を示した。",
+          "mini_headline": "ロシア、AI戦略を更新へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+                "src": "https://cdn.cn-insight.kr/news/photo/202611/3408_6015_4859.jpg",
+                "cap": "11月26日、‘AI Journey’に出席したプーチン大統領とカザフスタンのトカエフ大統領(写真=kremlin.ru)。"
               },
               {
                 "t": "p",
-                "x": "金融行為規制機構（FCA）のイノベーション責任者コリン・ペイン（Colin Payne）氏によると、Metaは先週、UKの金融規制当局が同局のサンドボックスでMuseを共同試験しようと提案したのを断った。競争・データ監督機関を含むUKの規制当局は、MetaのAI製品がUKの消費者保護法を順守するよう確保すべきだと警告してきた。"
+                "x": "ロシアのウラジーミル・プーチン大統領は26日、モスクワで、人工知能(AI)研究開発の分野で先頭に立つには関連する国家戦略を改める必要があると述べた。自国のAIモデル開発を支援するための4つの要件も併せて示した。"
               },
               {
                 "t": "p",
-                "x": "FCAが特に知りたいのは、エージェントがどのように決済するかだ。Sainsbury's、Marks & Spencer、Ocado、Debenhams Group、Currysなどの小売業者が、Museが自社サイトに円滑にアクセスできるようMetaと協力してきたと明らかにしているためだ。「エージェントが自律的に動くのであれば、それが消費者の利益になっているかを確かめたい」とペイン氏は言う。同氏は、試験の準備には時間がかかったはずだが、Metaが計画をFCAに伝えたのは先月になってからだと指摘した。"
+                "x": "プーチン大統領はカザフスタンのカシムジョマルト・トカエフ大統領とともに「AI Journey」大会に出席して演説し、「2036年までのロシアAI国家戦略」を更新し、関連する国家行動計画を承認すべきだと述べた。"
               },
               {
                 "t": "p",
-                "x": "Metaの広報担当マシュー・ポラード（Matthew Pollard）氏はWIREDに「適切な規制当局と建設的に対話してきたし、今後もそうする」と語った。9月の公開以来、北米でMuseを設定したユーザーは10M 人を超える。CMAはすでにMetaにUKの利用規約を修正させており、「懸念があれば、UKの消費者を守るためにためらわず行動する」としている。"
+                "x": "4つの要件は、▲膨大な量の信頼できる実データをデジタル化し、自国AIモデルの学習に活用する ▲ロシア国内のモバイル機器で使われるすべてのオペレーティングシステムに「選択画面」を設け、利用者が自国製品を含め好きなAIモデルやエージェントを選べるようにする ▲自前のAIモデルの普及を早める条件を整え、投資と研究開発を促す ▲科学研究と国家のハイテク開発事業でAIの活用を広げる、である。"
+              },
+              {
+                "t": "p",
+                "x": "プーチン氏は、データ処理センターの建設や電力網の改善、冷却システムなどのインフラ整備に向け、政府と民間資本が協力する制度的枠組みをつくるべきだと提案した。また、AIエージェントが人間の管理と介入なしに行ってはならない作業は何か、権限の範囲を定める必要があるとも述べた。"
+              },
+              {
+                "t": "p",
+                "x": "出典:新華社(2026.11.27)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UK金融监管机构称\nMeta拒绝Muse测试",
-          "body": "FCA称，Meta拒绝联合测试Muse智能体，而FCA希望了解其支付与自主性。",
-          "mini_headline": "Meta拒绝FCA的Muse测试",
+          "headline": "俄罗斯拟更新2036\nAI国家战略",
+          "body": "普京要求更新AI国家战略,并提出支持本国AI模型发展的4项要求。",
+          "mini_headline": "俄罗斯更新AI战略",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+                "src": "https://cdn.cn-insight.kr/news/photo/202611/3408_6015_4859.jpg",
+                "cap": "11月26日出席‘AI Journey’的普京总统与哈萨克斯坦总统托卡耶夫(图片来源=kremlin.ru)。"
               },
               {
                 "t": "p",
-                "x": "据金融行为监管局（FCA）创新主管科林·佩恩（Colin Payne）称，Meta上周拒绝了UK金融监管机构提出的利用其沙盒联合测试Muse的建议。包括竞争和数据监管机构在内的UK监管部门已警告Meta，须确保其AI产品遵守UK消费者保护法。"
+                "x": "俄罗斯总统弗拉基米尔·普京26日在莫斯科表示,要在人工智能(AI)研发领域走在前列,就必须修订相关国家战略。他还提出了支持本国AI模型开发的4项要求。"
               },
               {
                 "t": "p",
-                "x": "FCA尤其希望了解智能体将如何进行支付，因为Sainsbury's、Marks & Spencer、Ocado、Debenhams Group和Currys等零售商表示，它们一直在与Meta合作，让Muse更顺畅地访问其网站。佩恩说：“如果智能体是在自主行事，我们希望确保它符合消费者的利益。”他指出，测试需要时间来筹备，但Meta直到上个月才让FCA知悉其计划。"
+                "x": "普京与哈萨克斯坦总统卡瑟姆若马尔特·托卡耶夫一同出席“AI Journey”大会并发表讲话,表示应更新《2036年前俄罗斯AI国家战略》,并批准相关国家行动计划。"
               },
               {
                 "t": "p",
-                "x": "Meta发言人马修·波拉德（Matthew Pollard）对WIRED表示：“我们一直与相关监管机构进行建设性沟通，并将继续这样做。”自9月推出以来，北美已有超过10M 名用户设置了Muse。CMA已促使Meta调整其UK条款，并表示：“如果我们有担忧，将毫不犹豫地采取行动保护UK消费者。”"
+                "x": "4项要求为:▲将海量可靠的真实数据数字化,用于训练本国AI模型 ▲在俄罗斯境内移动设备使用的所有操作系统中设置“选择界面”,让用户自由选择包括本国产品在内的AI模型或智能体 ▲创造加快自有AI模型普及的条件,促进投资与研发 ▲扩大AI在科学研究和国家高科技开发项目中的应用。"
+              },
+              {
+                "t": "p",
+                "x": "他提议建立政府与民间资本合作的制度框架,用于建设数据处理中心、改善电网以及冷却系统等基础设施。他还表示,应界定AI智能体的权限范围,明确哪些任务在没有人类控制和干预的情况下不得执行。"
+              },
+              {
+                "t": "p",
+                "x": "来源:新华社(2026.11.27)"
               }
             ]
           }
         },
         "es": {
-          "headline": "Regulador financiero de UK:\nMeta rechazó probar Muse",
-          "body": "La FCA dice que Meta declinó probar en conjunto el agente Muse, cuyos pagos y autonomía quiere entender.",
-          "mini_headline": "Meta rechazó la prueba de Muse de la FCA",
+          "headline": "Rusia busca actualizar su\nestrategia nacional de AI 2036",
+          "body": "Putin pidió actualizar la estrategia nacional de AI y fijó 4 requisitos para apoyar los modelos propios del país.",
+          "mini_headline": "Rusia actualizará su estrategia de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+                "src": "https://cdn.cn-insight.kr/news/photo/202611/3408_6015_4859.jpg",
+                "cap": "El presidente Putin y el presidente de Kazajistán, Tokáyev, en ‘AI Journey’ el 26 de noviembre (foto: kremlin.ru)."
               },
               {
                 "t": "p",
-                "x": "Meta rechazó la semana pasada una propuesta del regulador financiero de UK para probar Muse de forma conjunta en su sandbox, según Colin Payne, jefe de innovación de la Financial Conduct Authority (FCA). Los reguladores de UK, incluidos los organismos de competencia y de datos, han advertido a Meta que debe garantizar que sus productos de AI cumplan las leyes de protección del consumidor de UK."
+                "x": "El presidente ruso, Vladímir Putin, afirmó el día 26 en Moscú que, para situarse a la cabeza de la investigación y el desarrollo en inteligencia artificial (AI), es necesario renovar la estrategia nacional correspondiente. También presentó 4 requisitos para apoyar el desarrollo de modelos de AI propios."
               },
               {
                 "t": "p",
-                "x": "La FCA quiere entender en especial cómo realizarán los pagos los agentes, ya que minoristas como Sainsbury's, Marks & Spencer, Ocado, Debenhams Group y Currys dijeron que habían trabajado con Meta para facilitar el acceso de Muse a sus sitios. “Si un agente actúa de forma autónoma, queremos asegurarnos de que lo hace en interés del consumidor”, dice Payne. Señaló que preparar las pruebas habría llevado tiempo, pero Meta no informó a la FCA de sus planes hasta el mes pasado."
+                "x": "Putin, que asistió junto al presidente de Kazajistán, Kasim-Yomart Tokáyev, a la conferencia 'AI Journey' y pronunció un discurso, dijo que debe actualizarse la 'Estrategia Nacional de AI de Rusia hasta 2036' y aprobarse el plan de acción nacional correspondiente."
               },
               {
                 "t": "p",
-                "x": "“Hemos colaborado de forma constructiva con las autoridades reguladoras pertinentes y seguiremos haciéndolo”, dijo a WIRED el portavoz de Meta Matthew Pollard. Más de 10 millones de usuarios han configurado Muse en Norteamérica desde su lanzamiento en septiembre. La CMA ya obligó a Meta a adaptar sus condiciones en UK y afirmó: “Si tenemos inquietudes, no dudaremos en actuar para proteger a los consumidores de UK”."
+                "x": "Los 4 requisitos son: ▲digitalizar grandes volúmenes de datos reales y fiables para entrenar los modelos de AI del país ▲incluir una 'pantalla de selección' en todos los sistemas operativos usados en los dispositivos móviles en Rusia, para que los usuarios elijan el modelo o agente de AI que deseen, incluidos los productos nacionales ▲crear condiciones que aceleren la difusión de modelos de AI propios para impulsar la inversión y la investigación y el desarrollo ▲ampliar el uso de la AI en la investigación científica y en los proyectos nacionales de desarrollo de alta tecnología."
+              },
+              {
+                "t": "p",
+                "x": "Propuso crear un marco institucional de cooperación entre el Gobierno y el capital privado para construir infraestructuras como centros de procesamiento de datos, mejoras de la red eléctrica y sistemas de refrigeración. También dijo que debe definirse el alcance de las atribuciones, es decir, qué tareas no deben realizar los agentes de AI sin control e intervención humanos."
+              },
+              {
+                "t": "p",
+                "x": "Fuente: Xinhua (2026.11.27)"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "UK 금융당국 “Meta,\nMuse 시험 거부했다”",
-          "body": "FCA는 결제·자율성을 보려던 Muse 공동 시험을 Meta가 거절했다고 밝혔다.",
-          "mini_headline": "Meta, FCA의 Muse 시험 거부",
+        "en": {
+          "headline": "Russia moves to update its\n2036 national AI strategy",
+          "body": "Putin called for updating Russia's national AI strategy and set out 4 requirements to support domestic models.",
+          "mini_headline": "Russia to update AI strategy",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+                "src": "https://cdn.cn-insight.kr/news/photo/202611/3408_6015_4859.jpg",
+                "cap": "President Putin and Kazakh President Tokayev at ‘AI Journey’ on November 26 (Photo: kremlin.ru)."
               },
               {
                 "t": "p",
-                "x": "금융행위감독청(FCA) 혁신 책임자 콜린 페인(Colin Payne)에 따르면 Meta는 지난주 UK 금융당국이 자체 샌드박스에서 Muse를 공동 시험하자고 한 제안을 거절했다. 경쟁·데이터 감독기관을 포함한 UK 규제당국들은 Meta에 자사 AI 제품이 UK 소비자보호법을 준수하도록 해야 한다고 경고해 왔다."
+                "x": "Russian President Vladimir Putin said in Moscow on the 26th that Russia must revise its national strategy to lead in artificial intelligence (AI) research and development. He also set out 4 requirements to support the development of domestic AI models."
               },
               {
                 "t": "p",
-                "x": "FCA는 특히 에이전트가 결제를 어떻게 처리할지 파악하려 한다. Sainsbury's, Marks & Spencer, Ocado, Debenhams Group, Currys 등 소매업체들이 Muse가 자사 사이트에 원활히 접근하도록 Meta와 협력해 왔다고 밝혔기 때문이다. 페인은 “에이전트가 자율적으로 행동한다면 그것이 소비자에게 이익이 되는지 확인하고 싶다”고 말한다. 그는 시험 준비에 시간이 걸렸겠지만 Meta가 지난달에야 FCA에 계획을 알렸다고 지적했다."
+                "x": "Speaking at the 'AI Journey' conference alongside Kazakh President Kassym-Jomart Tokayev, Putin said the 'National AI Strategy of Russia through 2036' should be updated and a related national action plan approved."
               },
               {
                 "t": "p",
-                "x": "Meta 대변인 매슈 폴러드(Matthew Pollard)는 WIRED에 “관련 규제당국과 건설적으로 소통해 왔으며 앞으로도 그럴 것”이라고 말했다. 9월 출시 이후 북미에서 Muse를 설정한 사용자는 10M 명이 넘는다. CMA는 이미 Meta가 UK 이용약관을 조정하게 했으며 “우려가 있다면 UK 소비자를 보호하기 위해 주저 없이 조치하겠다”고 밝혔다."
+                "x": "The 4 requirements are: ▲digitizing large volumes of reliable real-world data to train domestic AI models ▲placing a 'choice screen' on every operating system used on mobile devices in Russia so users can pick the AI model or agent they want, including domestic products ▲creating conditions to speed up the rollout of in-house AI models to spur investment and research and development ▲expanding the use of AI in scientific research and national high-tech development projects."
+              },
+              {
+                "t": "p",
+                "x": "He proposed creating an institutional framework for government and private capital to cooperate on building infrastructure such as data processing centers, power grid upgrades and cooling systems. He also said the scope of authority should be defined, setting out which tasks AI agents must not perform without human control and intervention."
+              },
+              {
+                "t": "p",
+                "x": "Source: Xinhua (2026.11.27)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "UK金融当局「Metaが\nMuse試験を拒否」",
-          "body": "FCAは、決済と自律性を見極めたいとしたMuseの共同試験をMetaが断ったと明かした。",
-          "mini_headline": "Meta、FCAのMuse試験を拒否",
+          "headline": "ロシア、2036 AI\n国家戦略の更新へ",
+          "body": "プーチン氏はAI国家戦略の更新を指示し、自国モデル支援の4つの要件を示した。",
+          "mini_headline": "ロシア、AI戦略を更新へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+                "src": "https://cdn.cn-insight.kr/news/photo/202611/3408_6015_4859.jpg",
+                "cap": "11月26日、‘AI Journey’に出席したプーチン大統領とカザフスタンのトカエフ大統領(写真=kremlin.ru)。"
               },
               {
                 "t": "p",
-                "x": "金融行為規制機構（FCA）のイノベーション責任者コリン・ペイン（Colin Payne）氏によると、Metaは先週、UKの金融規制当局が同局のサンドボックスでMuseを共同試験しようと提案したのを断った。競争・データ監督機関を含むUKの規制当局は、MetaのAI製品がUKの消費者保護法を順守するよう確保すべきだと警告してきた。"
+                "x": "ロシアのウラジーミル・プーチン大統領は26日、モスクワで、人工知能(AI)研究開発の分野で先頭に立つには関連する国家戦略を改める必要があると述べた。自国のAIモデル開発を支援するための4つの要件も併せて示した。"
               },
               {
                 "t": "p",
-                "x": "FCAが特に知りたいのは、エージェントがどのように決済するかだ。Sainsbury's、Marks & Spencer、Ocado、Debenhams Group、Currysなどの小売業者が、Museが自社サイトに円滑にアクセスできるようMetaと協力してきたと明らかにしているためだ。「エージェントが自律的に動くのであれば、それが消費者の利益になっているかを確かめたい」とペイン氏は言う。同氏は、試験の準備には時間がかかったはずだが、Metaが計画をFCAに伝えたのは先月になってからだと指摘した。"
+                "x": "プーチン大統領はカザフスタンのカシムジョマルト・トカエフ大統領とともに「AI Journey」大会に出席して演説し、「2036年までのロシアAI国家戦略」を更新し、関連する国家行動計画を承認すべきだと述べた。"
               },
               {
                 "t": "p",
-                "x": "Metaの広報担当マシュー・ポラード（Matthew Pollard）氏はWIREDに「適切な規制当局と建設的に対話してきたし、今後もそうする」と語った。9月の公開以来、北米でMuseを設定したユーザーは10M 人を超える。CMAはすでにMetaにUKの利用規約を修正させており、「懸念があれば、UKの消費者を守るためにためらわず行動する」としている。"
+                "x": "4つの要件は、▲膨大な量の信頼できる実データをデジタル化し、自国AIモデルの学習に活用する ▲ロシア国内のモバイル機器で使われるすべてのオペレーティングシステムに「選択画面」を設け、利用者が自国製品を含め好きなAIモデルやエージェントを選べるようにする ▲自前のAIモデルの普及を早める条件を整え、投資と研究開発を促す ▲科学研究と国家のハイテク開発事業でAIの活用を広げる、である。"
+              },
+              {
+                "t": "p",
+                "x": "プーチン氏は、データ処理センターの建設や電力網の改善、冷却システムなどのインフラ整備に向け、政府と民間資本が協力する制度的枠組みをつくるべきだと提案した。また、AIエージェントが人間の管理と介入なしに行ってはならない作業は何か、権限の範囲を定める必要があるとも述べた。"
+              },
+              {
+                "t": "p",
+                "x": "出典:新華社(2026.11.27)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UK金融监管机构称\nMeta拒绝Muse测试",
-          "body": "FCA称，Meta拒绝联合测试Muse智能体，而FCA希望了解其支付与自主性。",
-          "mini_headline": "Meta拒绝FCA的Muse测试",
+          "headline": "俄罗斯拟更新2036\nAI国家战略",
+          "body": "普京要求更新AI国家战略,并提出支持本国AI模型发展的4项要求。",
+          "mini_headline": "俄罗斯更新AI战略",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+                "src": "https://cdn.cn-insight.kr/news/photo/202611/3408_6015_4859.jpg",
+                "cap": "11月26日出席‘AI Journey’的普京总统与哈萨克斯坦总统托卡耶夫(图片来源=kremlin.ru)。"
               },
               {
                 "t": "p",
-                "x": "据金融行为监管局（FCA）创新主管科林·佩恩（Colin Payne）称，Meta上周拒绝了UK金融监管机构提出的利用其沙盒联合测试Muse的建议。包括竞争和数据监管机构在内的UK监管部门已警告Meta，须确保其AI产品遵守UK消费者保护法。"
+                "x": "俄罗斯总统弗拉基米尔·普京26日在莫斯科表示,要在人工智能(AI)研发领域走在前列,就必须修订相关国家战略。他还提出了支持本国AI模型开发的4项要求。"
               },
               {
                 "t": "p",
-                "x": "FCA尤其希望了解智能体将如何进行支付，因为Sainsbury's、Marks & Spencer、Ocado、Debenhams Group和Currys等零售商表示，它们一直在与Meta合作，让Muse更顺畅地访问其网站。佩恩说：“如果智能体是在自主行事，我们希望确保它符合消费者的利益。”他指出，测试需要时间来筹备，但Meta直到上个月才让FCA知悉其计划。"
+                "x": "普京与哈萨克斯坦总统卡瑟姆若马尔特·托卡耶夫一同出席“AI Journey”大会并发表讲话,表示应更新《2036年前俄罗斯AI国家战略》,并批准相关国家行动计划。"
               },
               {
                 "t": "p",
-                "x": "Meta发言人马修·波拉德（Matthew Pollard）对WIRED表示：“我们一直与相关监管机构进行建设性沟通，并将继续这样做。”自9月推出以来，北美已有超过10M 名用户设置了Muse。CMA已促使Meta调整其UK条款，并表示：“如果我们有担忧，将毫不犹豫地采取行动保护UK消费者。”"
+                "x": "4项要求为:▲将海量可靠的真实数据数字化,用于训练本国AI模型 ▲在俄罗斯境内移动设备使用的所有操作系统中设置“选择界面”,让用户自由选择包括本国产品在内的AI模型或智能体 ▲创造加快自有AI模型普及的条件,促进投资与研发 ▲扩大AI在科学研究和国家高科技开发项目中的应用。"
+              },
+              {
+                "t": "p",
+                "x": "他提议建立政府与民间资本合作的制度框架,用于建设数据处理中心、改善电网以及冷却系统等基础设施。他还表示,应界定AI智能体的权限范围,明确哪些任务在没有人类控制和干预的情况下不得执行。"
+              },
+              {
+                "t": "p",
+                "x": "来源:新华社(2026.11.27)"
               }
             ]
           }
         },
         "es": {
-          "headline": "Regulador financiero de UK:\nMeta rechazó probar Muse",
-          "body": "La FCA dice que Meta declinó probar en conjunto el agente Muse, cuyos pagos y autonomía quiere entender.",
-          "mini_headline": "Meta rechazó la prueba de Muse de la FCA",
+          "headline": "Rusia busca actualizar su\nestrategia nacional de AI 2036",
+          "body": "Putin pidió actualizar la estrategia nacional de AI y fijó 4 requisitos para apoyar los modelos propios del país.",
+          "mini_headline": "Rusia actualizará su estrategia de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg"
+                "src": "https://cdn.cn-insight.kr/news/photo/202611/3408_6015_4859.jpg",
+                "cap": "El presidente Putin y el presidente de Kazajistán, Tokáyev, en ‘AI Journey’ el 26 de noviembre (foto: kremlin.ru)."
               },
               {
                 "t": "p",
-                "x": "Meta rechazó la semana pasada una propuesta del regulador financiero de UK para probar Muse de forma conjunta en su sandbox, según Colin Payne, jefe de innovación de la Financial Conduct Authority (FCA). Los reguladores de UK, incluidos los organismos de competencia y de datos, han advertido a Meta que debe garantizar que sus productos de AI cumplan las leyes de protección del consumidor de UK."
+                "x": "El presidente ruso, Vladímir Putin, afirmó el día 26 en Moscú que, para situarse a la cabeza de la investigación y el desarrollo en inteligencia artificial (AI), es necesario renovar la estrategia nacional correspondiente. También presentó 4 requisitos para apoyar el desarrollo de modelos de AI propios."
               },
               {
                 "t": "p",
-                "x": "La FCA quiere entender en especial cómo realizarán los pagos los agentes, ya que minoristas como Sainsbury's, Marks & Spencer, Ocado, Debenhams Group y Currys dijeron que habían trabajado con Meta para facilitar el acceso de Muse a sus sitios. “Si un agente actúa de forma autónoma, queremos asegurarnos de que lo hace en interés del consumidor”, dice Payne. Señaló que preparar las pruebas habría llevado tiempo, pero Meta no informó a la FCA de sus planes hasta el mes pasado."
+                "x": "Putin, que asistió junto al presidente de Kazajistán, Kasim-Yomart Tokáyev, a la conferencia 'AI Journey' y pronunció un discurso, dijo que debe actualizarse la 'Estrategia Nacional de AI de Rusia hasta 2036' y aprobarse el plan de acción nacional correspondiente."
               },
               {
                 "t": "p",
-                "x": "“Hemos colaborado de forma constructiva con las autoridades reguladoras pertinentes y seguiremos haciéndolo”, dijo a WIRED el portavoz de Meta Matthew Pollard. Más de 10 millones de usuarios han configurado Muse en Norteamérica desde su lanzamiento en septiembre. La CMA ya obligó a Meta a adaptar sus condiciones en UK y afirmó: “Si tenemos inquietudes, no dudaremos en actuar para proteger a los consumidores de UK”."
+                "x": "Los 4 requisitos son: ▲digitalizar grandes volúmenes de datos reales y fiables para entrenar los modelos de AI del país ▲incluir una 'pantalla de selección' en todos los sistemas operativos usados en los dispositivos móviles en Rusia, para que los usuarios elijan el modelo o agente de AI que deseen, incluidos los productos nacionales ▲crear condiciones que aceleren la difusión de modelos de AI propios para impulsar la inversión y la investigación y el desarrollo ▲ampliar el uso de la AI en la investigación científica y en los proyectos nacionales de desarrollo de alta tecnología."
+              },
+              {
+                "t": "p",
+                "x": "Propuso crear un marco institucional de cooperación entre el Gobierno y el capital privado para construir infraestructuras como centros de procesamiento de datos, mejoras de la red eléctrica y sistemas de refrigeración. También dijo que debe definirse el alcance de las atribuciones, es decir, qué tareas no deben realizar los agentes de AI sin control e intervención humanos."
+              },
+              {
+                "t": "p",
+                "x": "Fuente: Xinhua (2026.11.27)"
               }
             ]
           }

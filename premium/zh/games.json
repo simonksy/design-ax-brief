@@ -12850,6 +12850,151 @@
           "x": "并非所有人都同样热情：在EA Sports FC的subreddit上，有人称之为“可耻”“不尊重”“恶心”和“太黑暗了”。一名Reddit用户写道：“我们活在一个多么该死的阴暗世界。”Save Our Voices Now的Peter Caulfield表示：“除非本人明确同意，否则任何形式的AI克隆都不应被允许。”相比之下，Red Hook Studios表示绝不会用AI重现旁白Wayne June的声音。"
         }
       ]
+    },
+    "games/games-without-ai-steam-event": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&auto=webp",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "新的Steam活动“Games Without AI”宣称，参展的所有游戏在开发中完全没有使用AI。活动并非由Valve举办，而是由第三方Dev Land Marketing、All Ages Of Geek和Dark Cocooning发起，旨在“支持真正的创作者”，时间为11月25日至12月6日。"
+        },
+        {
+          "t": "p",
+          "x": "参展游戏包括像素风“治愈系放置（cozy incremental）”游戏Pidgeon Pocket；收集稀有蜜蜂、装瓶蜂蜜的Bottled by Bears；以及看起来像Pacific Drive与Subnautica结合体的Arctic Awakening。"
+        },
+        {
+          "t": "video",
+          "yt": "3EALTDMG31A"
+        },
+        {
+          "t": "p",
+          "x": "一位参展开发者在Reddit上表示，资格审核很难蒙混过关：“我们都必须提供游戏未使用AI制作的证明，并尽可能多地分享制作过程。之后还真的经过了社区投票。”"
+        },
+        {
+          "t": "p",
+          "x": "在最近一届Steam Next Fest上，约百分之十七的游戏注明使用了生成式AI；在6月的活动中，超过一千款游戏、约百分之二十附有披露说明。Steam要求披露AI使用情况，但只声称“提升效率”的开发者可以不披露。"
+        }
+      ]
+    },
+    "games/shiftup-wmt2026-translation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Shift Up（代表Kim Hyung-tae）25日宣布，其自主研发的AI翻译系统“COZY”在国际机器翻译学术会议“WMT (Conference on Machine Translation) 2026”的术语翻译赛道中入选最高组别（前沿组）。"
+        },
+        {
+          "t": "p",
+          "x": "WMT是自2006年延续至今的机器翻译领域权威国际学术活动，今年于10月28日至29日在匈牙利布达佩斯举行。在全部13项共享任务中，术语翻译赛道共有17支队伍参赛，其中包括亚马逊、三星电子、华为等全球企业和研究机构。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/996edb739c7200.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "由Shift Up AI实验室开发的COZY，在“术语准确度”和“整体翻译质量综合评估”两个赛道中，均跻身授予前3名系统的前沿组。"
+        },
+        {
+          "t": "p",
+          "x": "Shift Up AI实验室负责研究游戏开发一线所用的AI技术并开发制作工具。它通过减少重复性工作所需的时间，帮助开发团队专注于创作和打磨品质。其目标是把AI作为支撑开发者能力的工具，而非创作的替代品，从而为玩家带来更高品质的游戏。"
+        },
+        {
+          "t": "p",
+          "x": "COZY正是在这一方向下开发的翻译系统，将翻译流程分为构建术语表、筛选术语和翻译三个阶段处理。其特点是无需另行训练新的AI模型，而是通过“驾驭工程”（harness engineering）同时提升术语准确度和语句的自然度。驾驭工程是指设计并优化工具、执行结构、验证体系等，使AI模型在实际工作中发挥最佳性能的技术。"
+        },
+        {
+          "t": "p",
+          "x": "Shift Up CTO Lee Dong-gi表示：“在庞大世界观中保持专有名词、技能与道具名称以及每个角色语气的一致，是游戏本地化的重要因素。”他还说：“我们将以此次成果为基础，扩大COZY在自家游戏中的应用，提升翻译质量和审校效率，并加强应对全球同步发行与实时更新的能力。”"
+        }
+      ]
+    },
+    "games/games-dlss5-rdr2-31pct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-DLSS-5-Red-Dead-Redemption-2-1920x1080.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Rockstar Games的Red Dead Redemption 2等游戏依然是NVIDIA DLSS 5 Neural Rendering最大的受益者：借助模组实现的单遍处理，光照就自然到让游戏几乎变成电影。"
+        },
+        {
+          "t": "p",
+          "x": "MxBenchmarkPC在YouTube上分享的新对比视频，比较了游戏在不开DLSS 5 Neural Rendering、单遍处理和双遍处理三种情况下的表现。"
+        },
+        {
+          "t": "p",
+          "x": "在RTX 5080上，以DLSS 4.5 Performance模式运行4K 分辨率时，单遍处理帧率下降31%，双遍处理下降41%。单遍处理对光照、阴影和反射效果显著，在保留原版观感的同时清除雾感、加深接触阴影。双遍处理常常跌破60 FPS，画面明显变暗，阴影细节被压暗，角色也显得不自然。"
+        },
+        {
+          "t": "video",
+          "yt": "gpnVNFvjmHs"
+        },
+        {
+          "t": "p",
+          "x": "Red Dead Redemption 2尚未获得DLSS 5官方支持；目前官方支持Neural Rendering的游戏只有四款，最新一款是本周早些时候获得支持的Where Winds Meet。"
+        }
+      ]
+    },
+    "games/games-mikami-gcon-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "11月20日，Shinji Mikami（三上真司）与Shift Up的CEO Kim Hyung-tae一同出席G-CON 2026的座谈会，两人在AI问题上的对立观点由此浮现。Mikami的工作室Unbound已与Stellar Blade开发商Shift Up合作发行他的下一款游戏。"
+        },
+        {
+          "t": "p",
+          "x": "Kim谈到Shift Up在7月下旬因一支完全AI-generated的Stellar Blade: Blood Rain音乐视频而遭受的批评，并解释工作室已确立“从头到尾手工打造”的理念。不过Shift Up仍计划在光照效果和lower-poly 3D模型等工作中使用AI。Kim还表示，他认为“不用AI的游戏开发已经不再可行”。"
+        },
+        {
+          "t": "p",
+          "x": "Mikami的看法截然不同。他的工作室“目前正在试验”AI，主要用来预览手绘2D模型在3D中的效果，但他希望AI从游戏开发中、乃至“从这个世界上”“彻底消失”。"
+        },
+        {
+          "t": "p",
+          "x": "Mikami称，未来“五年或十年”对工作室而言“充满不确定”，并承认十年之内开发者因AI失去工作存在“现实的可能性”。Kim则表示，两家工作室的游戏“本质上将始终是手工打造的”。"
+        }
+      ]
+    },
+    "games/ludo-tileset-generator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "帮助开发者制作可直接投入生产的游戏素材的工具Ludo.ai今天宣布推出新工具Tileset Generator，它能把对游戏地面的描述转化为一整套用于绘制2D地图的图块集。每套包含16块图块，覆盖地形相接的各种情况，开发者绘制时，地形之间的边缘和拐角会自动衔接。该工具适用于俯视角和等距视角游戏，现已在Ludo平台上线，也可通过Ludo CLI、MCP服务器和REST API使用。"
+        },
+        {
+          "t": "p",
+          "x": "Ludo.ai联合创始人（Co-Founder）兼首席技术官（Chief Technology Officer）Jorge Gomes表示：“对小团队来说，图块集是手绘起来最繁琐的素材之一。现在，独立开发者只需描述一个世界，几分钟后就能用它绘制地图。”"
+        },
+        {
+          "t": "p",
+          "x": "使用方法：选择俯视或等距网格并描述地面，即可为每种地形得到一块无缝基础图块；选取两块图块并描述它们的边界，例如白色海浪泡沫或低矮的石砌路缘，即可得到完整的16块图块集，也可以铺设道路、河流、围栏或墙壁等线条；导出前还能在浏览器中绘制测试地图。"
+        },
+        {
+          "t": "p",
+          "x": "每套图块集导出为一张包含16块图块的图像，并附带描述每块图块的JSON数据文件；Godot 4和Tiled还会获得现成的图块集文件。“改成日落时分”或“覆盖积雪”这类整套编辑会返回一套以同样方式拼合的新图块集，图块集还可附带匹配的法线贴图，用于2D光照。单块图块消耗0.5积分，整套消耗1积分；在Pro和Studio方案中，网页应用内的生成不限次数。"
+        },
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
+          "cap": "只需一条提示词，同一套海滩图块集就从平静的青绿色海水变为暴风雨中的海面，海岸线过渡依然保持不变。"
+        },
+        {
+          "t": "video",
+          "yt": "6GYU5as78CQ"
+        }
+      ]
     }
   }
 }

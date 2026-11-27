@@ -13962,6 +13962,159 @@
           "x": "Nomicの製図機能はすでに利用できる。RevitとAutoCADのアドインは現在、顧客向けに順次展開中だ。"
         }
       ]
+    },
+    "design/cascadeur-20263-metahuman": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "NekkiはCascadeur 2026.3をリリースし、AIと物理演算が支援する3Dキャラクターアニメーションソフトに、MetaHumanのフェイシャルアニメーションをAlpha版として導入した。尻尾や触手、クモの脚をリギングするIK Chainsと、モーションキャプチャーデータを自動でクリーンアップするツールも加わった。"
+        },
+        {
+          "t": "video",
+          "yt": "jp6aI4KMWOY"
+        },
+        {
+          "t": "p",
+          "x": "MetaHuman DNAのサポート拡張により、アニメーターはMetaHumanを読み込んでリギングし、専用のフェイシャルコントロールで動かすか、既存のフェイシャルアニメーションを取り込める。Unreal Engine Live Linkは体、顔、カメラを同時に送れるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "Mocap Cleaningはアニメーションを解析し、揺れや滑り、手足の位置ずれといったキャプチャーでよくある問題を軽減する。外部ツールやサーバーに接続せず、ローカルで動作する。AI Cloudの初期版は、テキストからのモーション生成、動画モーキャプ、メッシュ生成、リグ生成といったサーバーベースのツールを追加し、テスト段階ではクレジット制で運用される。"
+        },
+        {
+          "t": "p",
+          "x": "MCP（Model Context Protocol）とCascadeurのPython APIを通じて、Claude Codeなど外部のAIアシスタントがシーンを扱い、自然言語の指示からアニメーションを作成・編集できるようになった。アニメーターはそれをCascadeur自身のツールで仕上げる。Animation LayersにはAdditiveとOverrideの2種類が用意された。"
+        }
+      ]
+    },
+    "design/theia-drawing-to-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "ディープテック企業のSpare Parts 3D(SP3D)は、2Dの産業用部品図面から3Dへの再構築を自動化するAI「THEIA」が、市場の主要なエンジニアリングソフトと互換性のある3Dモデルを出力できるようになったと発表した。"
+        },
+        {
+          "t": "p",
+          "x": "THEIAはスキャンした図面や手描きの2D図面からも部品を3Dで再構築でき、モデルはSolidWorksやSiemens NXをはじめとするネイティブ形式で提供できる。"
+        },
+        {
+          "t": "p",
+          "x": "「固定された3DモデルはPDFのようなものだ。見ることはできても変更はできない。THEIAはいま、Word文書に相当するもの、つまりエンジニアが普段使うソフトで直接確認し、修正し、承認できる3Dモデルを提供する。主導権はエンジニアにある」と、SP3DのCPOであるPaul Guillaumot氏は述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "すべてのモデルは元の図面と照合され、THEIAが結果を保証できない場合はフラグを立て、部品をエンジニアに引き渡す。約70%のモデルが最初の再構築で全寸法のチェックを通過し、全体量の90%超を占める標準的な複雑さの部品では、エンジニアリング時間が三分の一になる。"
+        }
+      ]
+    },
+    "design/uxc-solo-designer-ai-workflows": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "30人超のデザインチームで六年を過ごした筆者は、1月にB2B電子商取引のスケールアップ企業で唯一のUXerとなり、AIツールを見直して、うまくいったものと、いまひとつだったものを評価した。"
+        },
+        {
+          "t": "p",
+          "x": "Claude Codeによるプロトタイピングは「危ういほどうまく」機能する。紙やFigmaでスケッチしたアイデアが、ローカルで動くプロトタイプ(たいていは単一の.htmlファイル)になり、Figma Make経由で非公開のハブに公開される。完全に動くプロトタイプは、参加者がさまざまな経路を試せるため、ユーザビリティテストも改善した。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+          "cap": "Excelのドラッグによるフィルを加えるのに、数分と数回のプロンプトで済んだ。"
+        },
+        {
+          "t": "p",
+          "x": "リサーチの統合では、Geminiが個々のインタビューを要約するが、テーマ化は筆者が手作業で行う。完全にAIが作った(AI-made)インサイトはニュアンスを失ったため、AIは「超高性能なテキストエディター」として扱っている。"
+        },
+        {
+          "t": "p",
+          "x": "Figma Make、Figma内のClaude Code、Claude Design、Google Stitchによる新しいビジュアルの方向性は「いまいち」だった。新たな方向を追うに足る確かなものはなかった。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+          "cap": "出力のあちこちから集めた興味深い断片。"
+        },
+        {
+          "t": "p",
+          "x": "ビジネス、ガイドライン、ユーザーのペインポイントを踏まえたリポジトリ内のUXフィードバック用スキルはよく機能し、試行中だ。AtlassianのRovoエージェントは文脈の収集を助ける。結論は「全体としては有用。ただし追加のデザイナーでは決してない。少なくとも今はまだ」。"
+        }
+      ]
+    },
+    "design/devto-agent-real-components": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "コーディングエージェントに料金セクションを頼むと、誰もが受け取るのと同じ料金セクションが出てくる。カードが三枚、真ん中が強調され、どこかにグラデーション。エージェントは記憶からUIを書き、その記憶は平均化されてテンプレートになる。"
+        },
+        {
+          "t": "p",
+          "x": "良いUIコードはすでにshadcn/ui、Radix、Base UI、Magic UI、Kokonut UI、Aceternity UI、そしてshadcn系のレジストリにある。著者らは、MITライセンス(MIT-licensed)のCLIとエージェントスキルからなるClay UIを作った。エージェントがコンポーネントを求めると、実在する候補から選び、ソースをダウンロードしてプロジェクトに合わせて書き直す。"
+        },
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+          "cap": "Clay UIの仕組み"
+        },
+        {
+          "t": "p",
+          "x": "`npx @behavio1/clayui init`はClaude Code、Codex、Cursorなどのエージェント向けにスキルをインストールし、ローカルのインデックスを構築する。Clay UIがプロジェクトにコンポーネントや依存関係をインストールすることはない。"
+        },
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+          "cap": "五つの画面のビフォーアフター"
+        },
+        {
+          "t": "p",
+          "x": "ライセンスが再配布を認めるライブラリのみをインデックス化する。検索は標準でローカルかつキー不要で、オプションでGeminiのセマンティック検索も使える。開示：この記事はClay UIを開発するチームによるものだ。"
+        }
+      ]
+    },
+    "design/ming-image-design-rgba": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "今回のリリースでは Ming-Image-0.2-Design をアップグレードし、オープンソース化した。新バージョンは複雑な構図、ライティング、テキストレンダリングを改善し、通販サイト向けのヒーロー画像、UIデザイン案、空間レンダリングの制作に使える。"
+        },
+        {
+          "t": "p",
+          "x": "前世代のレイヤー分解モデル Ming-Image-0.1-Design-Layer は、すでにデザイン画像を透明レイヤーに分離できた。今回のアップグレードでは分解を文字パーツ単位まで細分化し、後工程の編集やアニメーションに使える素材を提供する。ウェブデザインでは、Ming-Image-0.2-Design が Ling-3.2-flash と連携し、デザインコンセプトをインタラクティブなページに変える。"
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+          "cap": "Ming-Image-0.2-Design は AA-Image-T2I v2.1 のオープンウェイト総合リーダーボードで首位となった"
+        },
+        {
+          "t": "p",
+          "x": "予備評価の結果、Ming は Artificial Analysis のテキストから画像を生成する総合リーダーボードで、オープンウェイトモデルの中で首位に立った（2026年11月25日時点）。6B (DiT) モデルは標準で 2048 × 2048、サンプリング 12 ステップで動作し、80 GiB VRAM を備えた CUDA GPU 一基で検証済みだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+          "cap": "ウェブデザイン：複数セクションのレイアウトと統一感のあるビジュアルスタイル。"
+        },
+        {
+          "t": "p",
+          "x": "モデルは MIT License で公開されている。"
+        }
+      ]
     }
   }
 }

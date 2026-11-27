@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "books",
   "media": [
     {
-      "id": "booxen-korean-books-scan",
+      "id": "books-wynnwilliams-pangram",
       "type": "image",
-      "src": "pipeline/media/booxen-korean-books-scan.jpg"
+      "src": "pipeline/media/books-wynnwilliams-pangram.jpg"
     },
     {
-      "id": "mertens-wild-horse-ai-denial",
+      "id": "books-magabala-meta-training",
       "type": "image",
-      "src": "pipeline/media/mertens-wild-horse-ai-denial.jpg"
+      "src": "pipeline/media/books-magabala-meta-training.jpg"
     },
     {
-      "id": "belgium-sans-ia-label",
+      "id": "books-narayan-hay-keynote",
       "type": "image",
-      "src": "pipeline/media/belgium-sans-ia-label.jpg"
+      "src": "pipeline/media/books-narayan-hay-keynote.jpg"
     },
     {
-      "id": "anthropic-payout-milan",
+      "id": "books-vulcain-manuscript-pause",
       "type": "image",
-      "src": "pipeline/media/anthropic-payout-milan.jpg"
+      "src": "pipeline/media/books-vulcain-manuscript-pause.jpg"
     },
     {
-      "id": "ifwg-ipi-ai-contract-ban",
+      "id": "books-boersenverein-ki-umfrage",
       "type": "image",
-      "src": "pipeline/media/ifwg-ipi-ai-contract-ban.jpg"
+      "src": "pipeline/media/books-boersenverein-ki-umfrage.png"
     }
   ]
 }

@@ -13376,6 +13376,151 @@
           "x": "Not everyone shares that enthusiasm: on the EA Sports FC subreddit some call it \"shameful,\" \"disrespectful,\" \"gross,\" and \"bloody dark.\" \"What a bleak fucking world we live in,\" one redditor wrote. Peter Caulfield of Save Our Voices Now said \"unless you have specifically agreed to it, AI cloning of any kind should not be allowed.\" Red Hook Studios, by contrast, said it would never use AI to recreate narrator Wayne June's voice."
         }
       ]
+    },
+    "games/games-without-ai-steam-event": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&auto=webp",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "A new Steam event, 'Games Without AI', claims all games featured in it have avoided AI entirely during development. It was set up by a third party rather than Valve - Dev Land Marketing, All Ages Of Geek, and Dark Cocooning - to \"support real creators\" and runs from 25th November to 6th December."
+        },
+        {
+          "t": "p",
+          "x": "Featured games include Pidgeon Pocket, a 'cozy incremental' with pixel art; Bottled by Bears, about collecting rare bees and bottling honey; and Arctic Awakening, which looks like Pacific Drive meets Subnautica."
+        },
+        {
+          "t": "video",
+          "yt": "3EALTDMG31A"
+        },
+        {
+          "t": "p",
+          "x": "On Reddit, one participating developer said the qualification process was hard to bypass: \"We were all required to provide proofs of the game being made without AI and share as much of the process as possible. Then it was actually voted by community.\""
+        },
+        {
+          "t": "p",
+          "x": "At the most recent Steam Next Fest, roughly 17 percent of games listed the use of generative AI; in June's event more than a thousand games, roughly 20 percent, featured a disclosure. Steam requires AI disclosure, but devs claiming only \"efficiency gains\" can skip it."
+        }
+      ]
+    },
+    "games/shiftup-wmt2026-translation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Shift Up (CEO Kim Hyung-tae) said on the 25th that its in-house AI translation system 'COZY' was selected for the top group (Frontier) in the terminology translation category of 'WMT (Conference on Machine Translation) 2026', an international machine translation conference."
+        },
+        {
+          "t": "p",
+          "x": "WMT is a prestigious international academic event in machine translation that has run since 2006; this year it was held in Budapest, Hungary, on October 28 and 29. Of its 13 shared tasks, the terminology translation category drew 17 teams, including global companies such as Amazon, Samsung Electronics and Huawei as well as research institutions."
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/996edb739c7200.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "COZY, developed by Shift Up AI Labs, was named to the Frontier group, awarded to the top 3 systems, in both of two tracks: 'terminology accuracy' and 'overall translation quality assessment'."
+        },
+        {
+          "t": "p",
+          "x": "Shift Up AI Labs researches AI technology used in game development and builds production tools. It cuts the time spent on repetitive work so developers can focus on creation and polish. Its goal is to use AI not as a substitute for creativity but as a tool that supports developers' abilities, so that players get higher-quality games."
+        },
+        {
+          "t": "p",
+          "x": "COZY was developed along these lines and splits translation into three stages: glossary building, term selection and translation. Its distinguishing feature is that it improves both terminology accuracy and sentence naturalness through 'harness engineering', without training a separate new AI model. Harness engineering means designing and optimizing tools, execution structures and verification systems so that an AI model performs at its best in real work."
+        },
+        {
+          "t": "p",
+          "x": "\"Keeping the proper nouns of a vast game world, skill and item names, and each character's tone consistent is an important part of game localization,\" said Lee Dong-gi, CTO of Shift Up. \"Building on this result, we will expand COZY's use in our own games to raise translation quality and review efficiency, and strengthen our ability to handle simultaneous global launches and live updates.\""
+        }
+      ]
+    },
+    "games/games-dlss5-rdr2-31pct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-DLSS-5-Red-Dead-Redemption-2-1920x1080.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Games such as Rockstar Games' Red Dead Redemption 2 continue to benefit the most from NVIDIA DLSS 5 Neural Rendering, as a single pass with a modded implementation delivers such natural lighting that the game almost turns into a movie."
+        },
+        {
+          "t": "p",
+          "x": "A new comparison video shared by MxBenchmarkPC on YouTube compares the game running without DLSS 5 Neural Rendering, with a single pass, and with a double pass."
+        },
+        {
+          "t": "p",
+          "x": "On an RTX 5080, the frame rate takes a 31% hit at 4K with DLSS 4.5 in Performance mode for a single pass, and 41% with a double pass. A single pass works wonders for lighting, shadows, and reflections, cleaning up haze and deepening contact shadows while preserving the vanilla feel. A double pass often drops below 60 FPS and makes visuals much darker, crushing shadow detail; it also makes characters feel unnatural."
+        },
+        {
+          "t": "video",
+          "yt": "gpnVNFvjmHs"
+        },
+        {
+          "t": "p",
+          "x": "Red Dead Redemption 2 hasn't received official DLSS 5 support yet; only four games officially support Neural Rendering, the last of them being Where Winds Meet, which received support earlier this week."
+        }
+      ]
+    },
+    "games/games-mikami-gcon-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "On November 20, Shinji Mikami, whose studio Unbound partnered with Stellar Blade creators Shift Up to publish his next game, and Shift Up's CEO Kim Hyung-tae joined a panel at G-CON 2026, where their opposing views on AI cropped up."
+        },
+        {
+          "t": "p",
+          "x": "Kim addressed the criticism Shift Up received after a fully AI-generated Stellar Blade: Blood Rain music video in late July, explaining the studio adopted a \"handmade from start to finish\" philosophy. Shift Up still plans to use AI for tasks including lighting effects and lower-poly 3D models. Kim also said he believes \"game development without AI is no longer feasible.\""
+        },
+        {
+          "t": "p",
+          "x": "Mikami strongly differed. His studio is \"currently experimenting\" with AI, mainly to preview how hand-drawn 2D models look in 3D, but he wishes AI would \"vanish entirely,\" from game development and \"from the world.\""
+        },
+        {
+          "t": "p",
+          "x": "Mikami called the next \"five or ten\" years \"uncertain\" for studios, acknowledging \"a real possibility\" of developers losing their jobs to AI within the decade. Kim said both studios' games \"will inherently remain handmade.\""
+        }
+      ]
+    },
+    "games/ludo-tileset-generator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ludo.ai, the developer’s companion for creating production-ready game assets, today announced the release of the Tileset Generator, a new tool that turns a description of a game’s ground into a complete tileset for painting 2D maps. Each set holds 16 tiles covering the different ways terrains can meet, while the edges and corners between them fall into place as a developer paints. The tool works for top-down and isometric games, and is available now in the Ludo platform and through the Ludo CLI, MCP server, and REST API."
+        },
+        {
+          "t": "p",
+          "x": "Jorge Gomes, Co-Founder and Chief Technology Officer at Ludo.ai, said: “Tilesets are one of the most tedious assets for a small team to draw by hand. Now a solo developer can describe a world and be painting a map with it a few minutes later.”"
+        },
+        {
+          "t": "p",
+          "x": "How it works: pick a top-down or isometric grid and describe a ground to get a seamless base tile per terrain; pick two tiles and describe the boundary, such as white sea foam or a low stone curb, to get the full 16-tile set, or lay a line such as a road, river, fence or wall; then paint a test map in the browser before exporting."
+        },
+        {
+          "t": "p",
+          "x": "Each set exports an image of the 16 tiles with a JSON data file describing each one; Godot 4 and Tiled also get a ready-made tileset file. Whole-set edits such as “at sunset” or “cover it in snow” come back as a new set that fits together the same way, and a set can include a matching normal map for 2D lighting. A tile costs 0.5 credits, a full set 1 credit; on the Pro and Studio plans, generation in the web app is unlimited."
+        },
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
+          "cap": "A single prompt transforms the same beach tileset from calm turquoise waters to a stormy sea, while preserving the shoreline transitions."
+        },
+        {
+          "t": "video",
+          "yt": "6GYU5as78CQ"
+        }
+      ]
     }
   }
 }

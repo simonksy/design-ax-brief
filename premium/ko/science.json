@@ -17069,6 +17069,118 @@
           "x": "거울상 분자나 아주 비슷한 일부 이성질체는 LC-MS/MS 스펙트럼만으로 가려내지 못한다. DeepMind는 과학자 10,000명에게 Antigravity 최상위 사용 등급을 6개월 동안 무료로 준다."
         }
       ]
+    },
+    "science/princeton-qubit-loss-decoder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "큐비트 유실은 여러 양자 하드웨어 플랫폼에서 주된 오류 원인이다. 큐비트 리셋에 유실 판별 측정이 포함되면 이 정보로 디코딩을 개선하고 오버헤드를 크게 줄일 수 있다. 문제는 유실 시뮬레이션과 디코딩이 통상의 안정자 체계를 벗어나 비용이 크다는 점이다. 고율 qLDPC 코드 연구가 드물었던 것도 이 때문이다."
+        },
+        {
+          "t": "p",
+          "x": "J. Wilson Staples, Winston Fu, Yihe Dong, Jeff D. Thompson은 이 문제를 우회하는 유실 인지형 합성곱 신경망(CNN) 디코더 프레임워크를 제시했다. 학습을 가능하게 한 것은 새 샘플러 slim이다. slim은 Pauli 잡음과 유실이 있는 회로에서도 순수 Pauli 잡음용 최신 기법에 견줄 만한 처리량을 낸다."
+        },
+        {
+          "t": "p",
+          "x": "유실이 있는 표면 코드에서 이 디코더는 계산 비용이 큰 최대 가능도 오류(MLE) 디코더와 같은 정확도를 내면서 지연 시간은 훨씬 짧다. 워킹 신드롬 추출 회로를 쓰는 [[144,12,12]] 이변수 바이시클(Gross) 코드에서는 물리 오류율이 1% 미만일 때, 순수 유실 모델의 논리 오류율이 같은 물리 오류율의 순수 Pauli 모델보다 1,000배 넘게 낮았다."
+        }
+      ]
+    },
+    "science/snu-gaia-dark-matter-map": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Yigon Kim, Ho Seong Hwang, Sungwook E. Hong, Donghui Jeong, Mingyeong Yang, Ji-hoon Kim(서울대학교 등)은 딥러닝으로 태양 근방의 국소 암흑물질 밀도를 추정했다. 모델은 우주론적 시뮬레이션 속 별의 운동학이 암흑물질 밀도장과 어떻게 대응하는지 배웠다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.33660v1/Fig2_Diagram_datapreppipeline.png",
+          "cap": "그림 2: 두 아키텍처에 쓰인 데이터 준비 파이프라인의 개략도."
+        },
+        {
+          "t": "p",
+          "x": "학습 데이터는 FIRE-2 시뮬레이션 모음의 우리은하 유사 은하 7개에서 얻었고, 접선 속도와 시선 속도를 입력으로 썼다. VNet과 ViT-VNet 모두 대규모 밀도 기울기를 재현했지만 소규모 요동은 평탄하게 뭉개졌다."
+        },
+        {
+          "t": "p",
+          "x": "Gaia DR3 데이터에 적용하자 두 모델은 국소 암흑물질 밀도를 각각 0.80과 1.12 GeV cm^-3(VNet과 ViT-VNet)로 산출했다. 이번 연구는 Gaia DR4를 포함한 향후 천체측정 자료로 국소 암흑물질 지도를 만드는 첫걸음이다. 논문은 MNRAS에 게재 승인됐다(Nov. 24, 2026)."
+        }
+      ]
+    },
+    "science/zebra-prop-matbert": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg",
+          "cap": "ZEBRA-Prop은 소재 물성 예측에 효율적인 언어모델 접근법을 제시한다. Credit: Institute of Science Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "Institute of Science Tokyo 연구진이 물질의 구조·조성 정보를 여러 개의 텍스트 설명으로 바꿔 밴드갭, 형성 에너지, 유전 상수 같은 물성을 예측하는 경량 프레임워크 ZEBRA-Prop을 개발했다(Advanced Intelligent Systems)."
+        },
+        {
+          "t": "p",
+          "x": "재료과학 문헌으로 사전 학습한 언어모델 MatBERT는 미세 조정 없이 동결한 채 쓰고, 여기서 나온 임베딩은 작은 신경망이 결합한다. ZEBRA-Prop은 LLM-Prop보다 학습 시간이 약 95% 짧아 일반 PC에서도 돌아간다."
+        },
+        {
+          "t": "p",
+          "x": "Materials Project에서 파생한 두 데이터셋으로 시험해 보니 텍스트 설명을 여러 개 결합하면 예측이 나아졌다. Akira Takahashi 부교수는 \"합성 조건이나 실험 기록 같은 정보로도 확장될 가능성이 있다\"고 말했다."
+        }
+      ]
+    },
+    "science/google-social-reasoning-bench": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+          "cap": "AI 비서는 사용자를 매개로 한 현실 안에서 작동한다. 비서가 전해 듣는 사회적 사건은 모두 사용자의 주관적 시각을 거친 것이다."
+        },
+        {
+          "t": "p",
+          "x": "Google Research가 다중 에이전트 시뮬레이션으로 사회적 추론을 평가하는 프레임워크를 내놓았다. 표적 에이전트에 숨은 동기를 심은 뒤 사용자를 대변하는 에이전트 등 다른 에이전트와 상호작용하게 한다. 그다음 사용자 에이전트가 평가 대상 비서에게 상담을 청하면 비서가 표적의 숨은 동기를 추론해야 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+          "cap": "프레임워크 전체 개요."
+        },
+        {
+          "t": "p",
+          "x": "12개 LLMs에 적용해 보니 주관적인 사용자 매개에 기댈 때 사회적 추론이 상당히 어려워졌다. 사건을 직접 관찰한 모델은 비서 역할을 할 때보다 훨씬 정확했다. 모델은 사용자의 프레이밍에 쉽게 흔들렸다. 올바른 예측에 이르기까지 사람보다 많은 세부 정보가 필요했고 확인 질문도 충분히 활용하지 못했다."
+        },
+        {
+          "t": "p",
+          "x": "프레임워크는 Google의 Concordia 라이브러리로 구축했고 20K 개가 넘는 생성 예제를 담은 데이터셋과 함께 오픈소스로 공개됐다."
+        }
+      ]
+    },
+    "science/astra-quantum-gravity-stanford": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Stanford의 한 물리학자가 빛의 경로를 이용해, 무한대로 발산하기 쉬운 계산에서 유한한 답을 끌어내는 양자중력 이론을 내놓았다. 접근법이 맞는다면 양자역학과 Einstein의 일반상대성이론을 잇는 실마리가 될 수 있다. 블랙홀 엔트로피의 이미 알려진 양자 보정도 재현한다."
+        },
+        {
+          "t": "p",
+          "x": "Venkatesa Chandrasekaran은 arXiv에 올린 프리프린트에서 중력자 두 개가 생겼다 사라질 때 벌어지는 일을 계산했다. 파장이 임의로 짧은 파동까지 넣어도 답은 유한했다. 같은 계산에 근사를 쓰면 무한대가 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "Chandrasekaran은 논문 감사의 글에서 OpenAI 모델 GPT-6 Astra와 몇 달간 주고받은 작업으로 논문의 계산과 증명 여럿을 발전시켰다고 밝혔다. 사용량은 모두 약 4억 토큰이었고 컴퓨팅 자원은 OpenAI가 댔다고 한다."
+        },
+        {
+          "t": "p",
+          "x": "계산의 틀은 인과 다이아몬드, 곧 빛이 지날 수 있는 경로로 둘러싸인 영역이다. 이런 영역이 최대 크기일 때 구별 가능한 양자 상태를 유한한 개수만 담을 수 있다는 결과가 나왔다. 큰 블랙홀에서는 Bekenstein-Hawking 엔트로피와 함께 Ashoke Sen의 이전 계산과 맞아떨어지는 보정을 재현한다."
+        },
+        {
+          "t": "p",
+          "x": "이론 연구라 실험 검증은 없고, 동료 심사도 거치지 않았다."
+        }
+      ]
     }
   }
 }

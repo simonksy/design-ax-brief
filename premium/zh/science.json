@@ -12187,6 +12187,118 @@
           "x": "仅凭LC-MS/MS谱图，无法区分镜像分子和部分结构极为相近的同分异构体。DeepMind将向10,000名科学家免费提供6个月的Antigravity最高使用等级。"
         }
       ]
+    },
+    "science/princeton-qubit-loss-decoder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "量子比特丢失是许多量子硬件平台中的重要误差来源。当量子比特重置包含可分辨丢失的测量时，这一信息可以改进解码并大幅降低开销；但丢失的模拟与解码超出了常规稳定子框架，成本高昂，限制了针对高码率qLDPC码的此类研究。"
+        },
+        {
+          "t": "p",
+          "x": "J. Wilson Staples、Winston Fu、Yihe Dong和Jeff D. Thompson提出了一个可感知丢失的卷积神经网络（CNN）解码器框架，绕开了这一难题。训练依靠新的采样器slim实现，它在含Pauli噪声和丢失的电路上的吞吐量，可与纯Pauli噪声下的最先进水平相当。"
+        },
+        {
+          "t": "p",
+          "x": "在含丢失的表面码上，该解码器以低得多的延迟达到了计算代价高昂的最可能错误（MLE）解码器的精度。对于采用行走式综合征提取电路的[[144,12,12]]双变量自行车（Gross）码，在物理错误率低于1%时，纯丢失模型的逻辑错误率比相同物理错误率下的纯Pauli模型低1,000倍以上。"
+        }
+      ]
+    },
+    "science/snu-gaia-dark-matter-map": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Yigon Kim、Ho Seong Hwang、Sungwook E. Hong、Donghui Jeong、Mingyeong Yang和Ji-hoon Kim（首尔大学等）利用深度学习推断太阳邻域的本地暗物质密度，从宇宙学模拟中学习恒星运动学与暗物质密度场之间的映射关系。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2611.33660v1/Fig2_Diagram_datapreppipeline.png",
+          "cap": "图2：两种架构所用数据准备流程的示意图。"
+        },
+        {
+          "t": "p",
+          "x": "训练集来自FIRE-2模拟套件中的7个类银河系星系，以切向速度和径向速度作为输入。VNet和ViT-VNet都再现了大尺度密度梯度，而小尺度涨落被平滑掉了。"
+        },
+        {
+          "t": "p",
+          "x": "将模型应用于Gaia DR3数据后，得到的本地暗物质密度分别为0.80和1.12 GeV cm^-3（VNet和ViT-VNet）。这项工作是利用包括Gaia DR4在内的未来天体测量数据绘制本地暗物质地图的第一步；论文已被MNRAS接收（Nov. 24, 2026）。"
+        }
+      ]
+    },
+    "science/zebra-prop-matbert": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/zebra-prop-a-lightweig.jpg",
+          "cap": "ZEBRA-Prop为材料性质预测提供了一种高效的语言模型方法。Credit: Institute of Science Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "Institute of Science Tokyo的研究人员开发了轻量级框架ZEBRA-Prop，它将材料的结构与成分信息转换为多段文本描述，并预测带隙、形成能和介电常数等性质（Advanced Intelligent Systems）。"
+        },
+        {
+          "t": "p",
+          "x": "该框架使用在材料科学文献上预训练的语言模型MatBERT，并将其冻结而非微调；由一个小型神经网络整合所得的嵌入。与LLM-Prop相比，ZEBRA-Prop将训练时间缩短约95%，足以在普通PC上运行。"
+        },
+        {
+          "t": "p",
+          "x": "在基于Materials Project的两个数据集上的测试表明，组合多段文本描述可以改善预测。副教授Akira Takahashi表示：“它有可能扩展到合成条件和实验记录等信息。”"
+        }
+      ]
+    },
+    "science/google-social-reasoning-bench": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/VerifiableSocialReasoning1-UserMediatedRealit.width-1250.png",
+          "cap": "AI助手身处由用户中介的现实：助手只能透过用户的主观视角了解社会事件。"
+        },
+        {
+          "t": "p",
+          "x": "Google Research推出了一个基于多智能体模拟的社会推理评估框架。目标智能体被赋予一个隐藏动机，并与包括代表用户的智能体在内的其他智能体互动；随后用户智能体向被评估的助手咨询，助手必须推断出目标的隐藏动机。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning3-FrameworkOverview.gif",
+          "cap": "框架全景图。"
+        },
+        {
+          "t": "p",
+          "x": "将其应用于12个LLMs后发现，依赖主观的用户中介会显著增加社会推理的难度：直接观察事件的模型明显比充当助手时更准确。模型对用户的表述方式很敏感，需要比人类更多的细节才能做出正确预测，也未能充分利用澄清性提问。"
+        },
+        {
+          "t": "p",
+          "x": "该框架基于Google的Concordia库构建，与包含超过20K 个生成样例的数据集一同开源。"
+        }
+      ]
+    },
+    "science/astra-quantum-gravity-stanford": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Stanford的一位物理学家提出了一种量子引力理论，利用光的路径，为一个原本可能发散到无穷大的计算给出有限的答案。如果这一方法站得住，可能有助于调和量子力学与Einstein的广义相对论。该研究还重现了黑洞熵的一个已知量子修正。"
+        },
+        {
+          "t": "p",
+          "x": "Venkatesa Chandrasekaran在arXiv上发布的预印本中，计算了两个引力子产生后又消失的过程。即使计入波长任意短的波，该计算仍给出有限的答案；而对同一计算采用近似时，结果是无穷大。"
+        },
+        {
+          "t": "p",
+          "x": "Chandrasekaran在论文致谢中表示，他与OpenAI的模型GPT-6 Astra经过数月的反复协作，完成了文中若干计算和证明。他称总用量约为4亿个词元，计算资源由OpenAI提供。"
+        },
+        {
+          "t": "p",
+          "x": "该方案借助因果钻石——由光可能经过的路径所围成的区域——来构建计算。研究发现，具有最大尺寸的此类区域只能容纳有限数量的可区分量子态；对于大型黑洞，它重现了Bekenstein-Hawking熵，以及与Ashoke Sen早先计算相吻合的修正。"
+        },
+        {
+          "t": "p",
+          "x": "该论文为理论研究，未提出实验检验，也尚未经过同行评审。"
+        }
+      ]
     }
   }
 }

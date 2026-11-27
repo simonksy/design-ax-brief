@@ -13269,6 +13269,142 @@
           "x": "Orrorin预订金$29起，可抵扣$799售价。Savage预计Founder Edition买家将于2027年3月开始收到发货，Early Bird买家则为2027年5月。"
         }
       ]
+    },
+    "gadgets/xda-esp32-agent-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-claude-code.jpg?&fit=crop&w=1600&h=900",
+          "cap": "以Claude Code为背景的Esp32开发板"
+        },
+        {
+          "t": "p",
+          "x": "XDA给Claude Code、OpenAI Codex和Google的Antigravity布置了完全相同的任务：为ESP32编写固件，通过Wi-Fi控制WS2812B RGB LED灯带，并提供本地网页仪表盘、颜色和亮度控制、几种灯光效果，以及重启后仍能保留的设置。只有一个智能体在首次刷写时就让所有功能正常运行。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-new.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "手中的ESP32传感器"
+        },
+        {
+          "t": "p",
+          "x": "Claude Code在三者中表现最好，也是唯一一个固件在首次刷写时就能运行的。它无需修改即可编译，动画运行时仪表盘依然可用。“我一次后续提示都不需要发给Claude Code。”"
+        },
+        {
+          "t": "p",
+          "x": "Codex相当接近：固件能够编译，仪表盘也能打开，但由于仪表盘发送命令的端点与固件中配置的不同，LEDs没有变色。"
+        },
+        {
+          "t": "p",
+          "x": "Google Antigravity在运行动画效果时仪表盘停止响应，原因是其动画代码让ESP32忙碌太久。Codex和Antigravity都需要再修一轮；Claude Code是明显的赢家。"
+        }
+      ]
+    },
+    "gadgets/moe-smartglasses-detect": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/11/27/rcv.YNA.20261127.PYH2026112706610001300_P1.jpg",
+          "cap": "27日，代理教育部长官崔恩玉在国会召开的教育委员会全体会议上回答委员提问。（图片=韩联社）"
+        },
+        {
+          "t": "p",
+          "x": "政府已完成用于防范大学修学能力考试（修能）作弊的智能眼镜检测技术开发，并将推进商用。政府还计划开发针对端侧AI的检测技术，端侧AI无需联网即可在设备本身运行人工智能（AI）。代理教育部长官崔恩玉27日在国会教育委员会全体会议上表示：“智能眼镜检测技术已经开发完成，正处于商用化阶段。”并称：“我们以明年修能为目标，倒推技术开发日程进行准备。”"
+        },
+        {
+          "t": "p",
+          "x": "在国务总理主持的泛政府工作组（TF）中，教育部负责应对修能作弊，科学技术信息通信部负责相关技术开发。两个部门也在协商端侧AI的检测方案。教育部估算，为全国各教育厅和教育支援厅配备防作弊检测设备，约需400억원的追加预算。但实际能否纳入预算尚未确定。各大学自主考试也已启动防范作弊的紧急应对体系。"
+        },
+        {
+          "t": "p",
+          "x": "修能之后举行大学自主考试的14所学校中，未发现利用智能设备作弊的案例。教育部要求各大学全部保存自主考试的试卷和答卷，并重新审查所有拟录取者的试卷和答卷。经统计，销毁去年修能试卷的学校为237所，比教育部25日公布的233所多出4所。针对高中校内考试的防作弊对策，教育部将推进减轻教师负担的技术开发。"
+        },
+        {
+          "t": "p",
+          "x": "教育部24日公布了以使用金属探测器对考生进行全员检查、统一发放书写工具等为核心的对策。崔代理部长表示：“今后将在不增加监考人员负担的前提下，通过技术开发等方式拿出妥善监督学校考试的办法。”并称：“从根本上说，以何种方式、何种内容进行考试和评价，也是需要长期讨论的课题。”"
+        }
+      ]
+    },
+    "gadgets/sheiko-gpsfree-autopilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/TPpL3AULPVhwmkFHW2ZLcU.jpg",
+          "cap": "无人机"
+        },
+        {
+          "t": "p",
+          "x": "一名11年级学生凭借多项技术成果，获得Volodymyr Zelenskyy总统颁发的“The Future of Ukraine”奖。据Poltava Wave报道，来自基辅（Kyiv）以西约190英里的波尔塔瓦（Poltava）的学生Yaroslav Sheiko打造了一套AI-powered无人机自动驾驶系统，使无人驾驶飞行器（UAVs）无需依赖GPS信号即可抵达目的地，他还开发了一套光电稳定系统。"
+        },
+        {
+          "t": "p",
+          "x": "这名11年级学生已两次获得总统奖学金，两次在乌克兰Junior Academy of Sciences举办的全国竞赛中获得最高奖，并在INOVA 2025 国际发明展上获得金牌，在2025 Hackathon中获得银牌。"
+        },
+        {
+          "t": "p",
+          "x": "乌克兰也在研发本土技术以提升无人机能力，例如为停飞的U.S.-made（美制）Puma侦察无人机配备国产抗干扰系统，以及利用“飞行调制解调器”网络，在不依赖Starlink的情况下扩大攻击无人机的航程。"
+        }
+      ]
+    },
+    "gadgets/s27-oneui95-ai-teardown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/S26-in-hand-showing-One-UI-9.5-welcome-screen-scaled.jpg",
+          "cap": "手持S26，屏幕显示One UI 9.5欢迎界面"
+        },
+        {
+          "t": "p",
+          "x": "One UI 9.5 Beta 1中的代码将一长串新的Galaxy AI功能与“Galaxy AI version 20271”绑定，而Samsung自己的代码将其标注为S27的AI版本。Voice Recorder将20261标为S26的版本，将20271标为S27的版本。本报道基于开发中的代码，这些功能可能不会推出。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/One-UI-9.5-Beta-1-Galaxy-AI-version_1.jpg",
+          "cap": "One UI 9.5 Beta 1的Galaxy AI版本"
+        },
+        {
+          "t": "p",
+          "x": "受限功能包括Gallery中可用AI改变照片拍摄角度的Recompose、新的Camera ProScan和Log LUT工具、整表AI select、Scam Detection支持语言扩展，以及通话用的Audio eraser。在S26 Ultra上强制启用20271后，AI select识别出了一整张83行的表格，并给出Copy table快捷按钮。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-One-UI-9.5-Beta-1-AI-select-Copy-Table_2-scaled.jpg",
+          "cap": "运行One UI 9.5 Beta 1的Galaxy S26 Ultra上，AI select给出Copy table快捷按钮"
+        },
+        {
+          "t": "p",
+          "x": "包括Gen Video点数、Samsung Browser的Ask anything以及Now Brief的Bixby操作卡片在内的多项20271功能，似乎与付费的Galaxy AI Premium等级挂钩。Samsung今年已将多项S26功能下放到旧机型，因此这些功能未必都会永远是Galaxy S27独占（S27-exclusive）。"
+        }
+      ]
+    },
+    "gadgets/xpeng-iron-humanoid-ev-price": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
+          "cap": "XPENG"
+        },
+        {
+          "t": "p",
+          "x": "中国EV制造商XPeng表示，其IRON人形机器人2027年面向公众发售时，价格可能与一辆电动汽车大致相当。XPeng最终希望IRON走进家庭，但会先进行商业部署。"
+        },
+        {
+          "t": "p",
+          "x": "XPeng副董事长Brian Gu对Bloomberg表示，IRON的定价可能在EV销售价格中位数左右，但未透露具体数字。该机器人计划于2027年第一季度开始在XPeng门店接受零售助理培训，随后在第二季度面向公众发布。XPeng的目标是当年销售数万台人形机器人。"
+        },
+        {
+          "t": "p",
+          "x": "XPeng在AI Day上展示了最新版IRON，它在台上现场回答了观众提问。IRON拥有76个自由度、1,500多个触觉感知点，并配备三颗自研Turing AI芯片，驱动其端侧模型和全身控制。XPeng称，它能够自主导航，通过语音或应用接收任务，自动充电，并监测自身运行状态。"
+        },
+        {
+          "t": "p",
+          "x": "XPeng将从商业环境起步，再进入工业应用，最终走进家庭。Gu表示，家庭部署可能在商业应用取得成功后一到两年内启动，儿童、老人和宠物身边的安全是需要解决的挑战之一。"
+        },
+        {
+          "t": "p",
+          "x": "除硬件外，XPeng还看好来自软件订阅、升级、培训和服务的持续性收入。"
+        }
+      ]
     }
   }
 }

@@ -6503,6 +6503,147 @@
           "x": "“Reddit本身已日益成为一个效果渠道，但它常常未被充分利用，也未被充分重视，”效果营销机构Tinuiti的VP Jack Johnston表示。"
         }
       ]
+    },
+    "marketing/bing-aimode-ads-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/bing-ai-chat-boxes-q16E8dDy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Advertising正让Bing AI Mode结果中的广告更难与自然结果区分。Microsoft长期以来一直让人难以分辨其搜索结果中哪些是广告、哪些是自然列表，因此可以预期它会在AI Mode和Copilot Search中延续这种做法。"
+        },
+        {
+          "t": "p",
+          "x": "从Khushal Bherwani在SEW上发布的示例可以看到，Bing AI Mode结果中的广告不再加框，看起来更融入自然回答。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/new-format-bing-ads-in-ai-overview-EO0PEESB.webp",
+          "cap": "AI Overview中的Bing广告新样式"
+        },
+        {
+          "t": "p",
+          "x": "此前的样子是这样的："
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/usual-what-we-see-in-ai-overview-ah4e9WiH.webp",
+          "cap": "AI Overview中通常看到的样子"
+        },
+        {
+          "t": "p",
+          "x": "今年早些时候，我们曾看到Bing几乎透明的赞助标签。此前我们报道几乎看不见的广告标签和极难辨认的广告标签时，Microsoft曾对这些隐形广告标签作出回应。"
+        },
+        {
+          "t": "p",
+          "x": "我不认为这种做法会改变……"
+        }
+      ]
+    },
+    "marketing/accc-ai-shopping-agent-liability": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/11/accc-ai-shopping-agents-businesses-liable-black-friday-ventriloquist-dummy-shop-counter.jpg"
+        },
+        {
+          "t": "p",
+          "x": "随着Black Friday促销开启，澳大利亚竞争与消费者委员会（Australian Competition and Consumer Commission）敦促消费者将AI工具提供的信息与可靠来源核对，并在让AI智能体购买任何东西之前设定严格限制。它点名了三款已在澳大利亚市场上线的智能体——Meta的Muse、OpenAI的ChatGPT dots和Google Tasks。"
+        },
+        {
+          "t": "p",
+          "x": "ACCC主席Gina Cass-Gottlieb表示：“AI的结果可能出错。”“消费者应当核实，并设定希望智能体征得其批准的节点。”该监管机构警告称，AI智能体“也可能无法准确识别某件事是骗局”。"
+        },
+        {
+          "t": "p",
+          "x": "新闻稿称：“企业要为其AI聊天机器人和智能体采取的行动负责。”使用AI时，消费者保障权利不变；对于误导性信息，企业须承担责任，“无论是由员工、以书面形式还是通过AI工具做出的”。AI智能体供应商不得就其能力误导客户。"
+        },
+        {
+          "t": "p",
+          "x": "ACCC表示，将“在未来几个月内”发布其AI Industry Snapshot的更新，重点关注智能体AI与智能体商务。"
+        }
+      ]
+    },
+    "marketing/obsession-agent-instock-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://internetretailing.net/wp-content/uploads/2026/11/ob.session_report_01-1.png",
+          "cap": "图片 © ob.session"
+        },
+        {
+          "t": "p",
+          "x": "面向Shopify店铺的实时商品推荐引擎ob.session，让ChatGPT、Gemini和Claude代表一位虚构顾客Laura购物。Laura穿UK 10码，所在地分别设定为法国、UK和塞浦路斯。每个被推荐的商品链接都按她的尺码、购物需求和所在地进行了核对。"
+        },
+        {
+          "t": "p",
+          "x": "在测试的400多个商品链接中，LLMs的推荐只有35%有货。ChatGPT以正确尺码和所在地交付Laura所选商品的比例为45%，Gemini为33%，Claude为21%。在29%的情况下，零售商的Laura尺码已售罄。"
+        },
+        {
+          "t": "p",
+          "x": "ob.session联合创始人兼CCO Ksenia Sukhova表示：“如果它们推荐的大多数商品都买不到，用户就不再相信这些推荐。”她建议零售商将按尺码区分的库存信息放进网站的机器可读版本，并在该结构化版本中公开购物者用于筛选的每一项属性。"
+        }
+      ]
+    },
+    "marketing/shopify-agentic-chargeback-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.pymnts.com/wp-content/uploads/2026/11/Shopify.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Shopify在周三（11月25日）的更新日志中表示，现在会为商家提供更多针对智能体订单拒付的证据。此次调整针对的情形是：AI购物助手下了订单，顾客事后称未授权付款，而商家的记录无法证明顾客当初做了哪些设置。"
+        },
+        {
+          "t": "p",
+          "x": "Shopify表示：“回复中包含一份Payment authorization record（付款授权记录），其中有顾客为助手设定的消费上限、结账时记录的付款批准，以及已知情况下助手的名称。”“它会自动添加，您无需进行任何操作。”"
+        },
+        {
+          "t": "p",
+          "x": "Shopify还为每种拒付原因新增了AI-written（AI撰写）回复，为未授权购买类拒付提供付款验证证明，并支持选择接收拒付通知的员工。"
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-learnmore-cta": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/openai-chatgpt-chat-GGMKtKhT.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI刚刚发布了ChatGPT Ads的产品更新：Business Agents扩展至U.S.以外，单图广告新增learn more行动号召，Ads Manager和Ads API提供更多受众指标，促销结束时可隐藏商品信息流中的促销价，Ads Manager还新增了政策中心详情。"
+        },
+        {
+          "t": "p",
+          "x": "Learn more：ChatGPT上的单图广告现在默认在描述下方显示“Learn more”链接。它会打开你在Ads Manager中已设置的落地页，无需额外设置。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-call-to-action-ads-Gm4rlOVc.jpg",
+          "cap": "带有Learn more行动号召的ChatGPT单图广告"
+        },
+        {
+          "t": "p",
+          "x": "Business Agents：U.S.以外受支持市场中符合条件的电商和在线服务企业，现在可以在ChatGPT Business Hub中创建并发布Business Agent，并将其作为Sponsored Business Agent添加到符合条件的广告系列中。"
+        },
+        {
+          "t": "p",
+          "x": "受众指标：Reach估算至少看过一次广告的独立用户数；Frequency为总展示次数除以Reach。OpenAI还新增了Click Reach、Click Frequency、Total Reach、Total Frequency、Unique CTR、Unique CPC和Cost per 1,000 Reached。"
+        },
+        {
+          "t": "p",
+          "x": "广告主还可以隐藏商品信息流中的促销价，让广告重新显示原价；广告审核消息现在会显示适用的政策。OpenAI表示，广告审批准则没有改变。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-update-email-irBDM6Aw.png",
+          "cap": "OpenAI的ChatGPT Ads更新邮件"
+        }
+      ]
     }
   }
 }

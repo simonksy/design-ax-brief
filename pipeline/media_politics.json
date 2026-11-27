@@ -1,7 +1,31 @@
-{"date":"2026-11-27","section":"politics","media":[
-{"id":"commerce-si-exports-consortia","type":"svg"},
-{"id":"apple-siri-kftc-ad-probe","type":"image","src":"pipeline/media/apple-siri-kftc-ad-probe.png"},
-{"id":"spain-pp-sanchez-ai-video","type":"video","src":"pipeline/media/spain-pp-sanchez-ai-video.mp4","poster":"pipeline/media/spain-pp-sanchez-ai-video.jpg"},
-{"id":"max-act-industry-committee","type":"image","src":"pipeline/media/max-act-industry-committee.jpg"},
-{"id":"meta-muse-fca-testing","type":"image","src":"pipeline/media/meta-muse-fca-testing.jpg"}
-]}
+{
+  "date": "2026-11-28",
+  "section": "politics",
+  "media": [
+    {
+      "id": "politics-rsi-safety-act",
+      "type": "image",
+      "src": "pipeline/media/politics-rsi-safety-act.jpg"
+    },
+    {
+      "id": "politics-uk-datacenter-petition",
+      "type": "image",
+      "src": "pipeline/media/politics-uk-datacenter-petition.jpg"
+    },
+    {
+      "id": "politics-au-deepfake-inquiry",
+      "type": "image",
+      "src": "pipeline/media/politics-au-deepfake-inquiry.jpg"
+    },
+    {
+      "id": "politics-gyeongnam-deepfake-referral",
+      "type": "image",
+      "src": "pipeline/media/politics-gyeongnam-deepfake-referral.jpg"
+    },
+    {
+      "id": "politics-russia-ai-strategy-2036",
+      "type": "image",
+      "src": "pipeline/media/politics-russia-ai-strategy-2036.jpg"
+    }
+  ]
+}

@@ -1,87 +1,124 @@
 {
- "section": "gadgets",
- "now_iso": "2026-11-26T22:01:09Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "China's Xpeng wants to put an eerily friendly humanoid robot in your home for the same price as an affordable EV",
-   "url": "https://www.digitaltrends.com/cool-tech/xpeng-iron-humanoid-robot-ev-price-home/",
-   "source": "Digital Trends",
-   "category": "gadgets",
-   "published_iso": "2026-11-26T11:17:11-08:00",
-   "excerpt": "At its Nov 25 AI Day, XPeng showed the latest IRON humanoid (76 DoF, 1,500+ tactile points, three in-house Turing AI chips running onboard models) answering questions live; it targets a 2027 launch at a price comparable to an EV, with household use on the roadmap.",
-   "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/XPENG-IRON-featured-official.jpg?resize=1200%2C630&ssl=1",
-   "note": "robotics cap 1: home-roadmap humanoid, price framed as EV-comparable, 2027 launch"
-  },
-  {
-   "title": "Ray-Ban and Oakley Meta AI glasses are coming to SA",
-   "url": "https://www.bizcommunity.com/article/ray-ban-and-oakley-meta-ai-glasses-are-coming-to-south-africa-295107a",
-   "source": "Bizcommunity",
-   "category": "gadgets",
-   "published_iso": "2026-11-18T08:08+02:00",
-   "excerpt": "EssilorLuxottica and Meta are bringing Ray-Ban Meta and Oakley Meta AI glasses to South Africa from end of November - Meta's first African market - with local pricing (Ray-Ban Meta Gen 3 R8,599, Oakley Meta HSTN R8,399, Vanguard R10,599) and built-in Meta AI for asking about what you see.",
-   "og_image": "https://biz-file.com/c/2611/828131-1200x624.jpg?5",
-   "note": "off-list domain (no on-list coverage of the new-country launch); glasses cap 1"
-  },
-  {
-   "title": "HP코리아, AI PC '옴니북 울트라 16' 국내 출시",
-   "url": "https://www.etnews.com/20261124000168",
-   "source": "전자신문",
-   "category": "gadgets",
-   "published_iso": "2026-11-24T10:25:10+09:00",
-   "excerpt": "HP Korea launched the OmniBook Ultra 16 on Nov 24, built on Nvidia's RTX Spark N1X platform (20-core Grace CPU, 6,144-core Blackwell GPU, up to 128GB unified memory) to run large AI models locally without the cloud and drive multi-step AI agents.",
-   "og_image": "https://img.etnews.com/news/article/2026/11/24/news-p.v1.20261124.23ef80f468994d4da7812821ad71d849_P1.png",
-   "note": "official Korean launch of an AI PC (not an RTX Spark review)"
-  },
-  {
-   "title": "USC engineers built a smart ring that monitors stress by taking a peek at your sweat glands",
-   "url": "https://www.digitaltrends.com/wearables/usc-ai-stress-ring/",
-   "source": "Digital Trends",
-   "category": "gadgets",
-   "published_iso": "2026-11-20T18:29:54-08:00",
-   "excerpt": "A USC team's smart ring uses near-infrared light to read sweat-gland activity and runs a 27.65kB INT8 stress model entirely on the ring's microcontroller, cutting post-sensing delay ~300x (9.9s to 33ms) versus streaming raw data (Science Advances).",
-   "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=1200%2C630&ssl=1",
-   "note": "research prototype, non-Oura smart ring, on-device AI"
-  },
-  {
-   "title": "Meta is staring at a smart glasses ban in another country over privacy fears",
-   "url": "https://www.digitaltrends.com/wearables/meta-smart-glasses-dutch-privacy-lawsuit/",
-   "source": "Digital Trends",
-   "category": "gadgets",
-   "published_iso": "2026-11-26T11:36:46-08:00",
-   "excerpt": "Dutch consumer association Consumentenbond and Offlimits filed legal action seeking to halt Ray-Ban Meta sales unless Meta prevents covert recording and stops using captured footage to train AI models; Meta and EssilorLuxottica deny EU-law violations.",
-   "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Meta-Ray-Ban-Glasses-taking-a-video-with-LED-featured.jpg?resize=1200%2C630&ssl=1",
-   "note": "follow-up to 11-24 Dutch DPA item; new action is a consumer-group lawsuit, not a regulator decision - likely capped"
-  },
-  {
-   "title": "Nothing's Ear (note) is a pair of earbuds with built-in AI notetaking",
-   "url": "https://www.engadget.com/2328122/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/",
-   "source": "Engadget",
-   "category": "gadgets",
-   "published_iso": "2026-11-25T16:03:17+00:00",
-   "excerpt": "Nothing revealed Ear (note), earbuds with built-in AI recording and transcription and an unusual charging case, as its first AI-native hardware; full details and pricing come Dec 8.",
-   "og_image": "https://www.engadget.com/img/gallery/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/l-intro-1795622251.jpg",
-   "note": "rotation says Nothing device 0 until Dec 8 and AI recorder wearables 0 - include only if pool short"
-  },
-  {
-   "title": "Now Google's Familiar Faces AI feature works on Walmart's $35 smart home camera too",
-   "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-   "source": "The Verge",
-   "category": "gadgets",
-   "published_iso": "2026-11-26T00:04:34+00:00",
-   "excerpt": "Google's Familiar Faces AI recognition now works on Walmart's $35 onn smart home cameras, bringing Gemini-era Home camera intelligence to budget third-party hardware.",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "note": "Google Home software cap 0 / AI camera cap 1 - borderline"
-  },
-  {
-   "title": "SK인텔릭스 웰니스 로봇 '나무엑스', 국제표준 우수사례 선정",
-   "url": "https://www.etnews.com/20261126000360",
-   "source": "전자신문",
-   "category": "gadgets",
-   "published_iso": "2026-11-26T14:25:53+09:00",
-   "excerpt": "SK Intellix's NAMUHX A1 wellness robot was named an AI international-standard best case (ISO/IEC 25059/25058 applied) at the 2026 Industrial AI Standardization Forum on Nov 26.",
-   "og_image": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.da4f7d955e6347be850dd8a8dc25fa11_P1.jpg",
-   "note": "award story - weak; Korean home/wellness robot"
-  }
- ]
+  "section": "gadgets",
+  "now_iso": "2026-11-27T22:01:07Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "New York state bans AI chatbot toys for kids",
+      "url": "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-11-26T06:02:48+00:00",
+      "excerpt": "Governor Kathy Hochul signed a five-year ban on selling AI chatbot toys, including dolls and robots that converse with children over the internet; violators face fines of $15,000 per day. This is the regulator action that follows the 11-26 petition story.",
+      "og_image": "https://www.engadget.com/img/gallery/new-york-state-bans-ai-chatbot-toys-for-kids/l-intro-1795672791.jpg"
+    },
+    {
+      "title": "Japanese brand unveils 5G smartphone for seniors with physical buttons and AI scam call detection",
+      "url": "https://www.notebookcheck.net/Japanese-brand-unveils-5G-smartphone-for-seniors-with-physical-buttons-and-AI-scam-call-detection.1460648.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-11-27T00:50:00+01:00",
+      "excerpt": "Sharp announced the Simple Smartphone 8, a 5G phone for seniors whose AI scam-call detection analyzes conversations during calls and warns the user on screen, by sound and by vibration. An AI document mode also removes shadows and corrects perspective.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/sharp-simple-smartphone-8.jpeg"
+    },
+    {
+      "title": "교육부 “스마트안경 탐지 기술 상용화 단계…내년 수능 대비”",
+      "url": "https://www.etnews.com/20261127000325",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-11-27T16:59:08+09:00",
+      "excerpt": "교육부는 수능 부정행위를 막는 스마트안경 탐지 기술 개발을 마치고 상용화에 들어갔다고 밝혔다. 인터넷 연결 없이 기기에서 돌아가는 온디바이스 AI를 탐지하는 기술도 개발할 계획이다.",
+      "og_image": "https://img.etnews.com/news/article/2026/11/27/rcv.YNA.20261127.PYH2026112706610001300_P1.jpg"
+    },
+    {
+      "title": "토익 시험장서 안경 전수검사…AI 부정행위 막는다",
+      "url": "https://zdnet.co.kr/view/?no=20261126193500",
+      "source": "지디넷코리아",
+      "category": "gadgets",
+      "published_iso": "2026-11-26T19:36:14+09:00",
+      "excerpt": "한국TOEIC위원회는 AI 기기를 이용한 부정행위를 막으려고 29일 정기시험부터 수험자 안경을 전수 검사하고 보안 씰을 붙인다. 전국 고사장에 전파탐지기도 도입한다.",
+      "og_image": "https://image.zdnet.co.kr/2026/11/18/c10d4e9f60e0c26f286cf515f75974ed.jpg"
+    },
+    {
+      "title": "I'm so mad that I love Orion's $2,195 AI mattress pad",
+      "url": "https://techcrunch.com/2026/11/25/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "published_iso": "2026-11-25T12:04:03+00:00",
+      "excerpt": "A hands-on review of Orion's $2,195 cooling mattress pad, which the company says learns from your sleep data to adjust temperature through the night. The reviewer doubts how much the AI features add to the price.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/Orion_Product-1.png?resize=1200,828"
+    },
+    {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-11-25T13:00:00+00:00",
+      "excerpt": "Akai, Polyend and other hardware makers are opening their grooveboxes and pedals to vibe coders, which has led to a wave of AI-written custom firmware and effects. Roland, Korg, Arturia and Novation have not commented publicly.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200"
+    },
+    {
+      "title": "I asked Claude Code, Codex, and Google Antigravity to write the same ESP32 firmware, and only one worked on the first flash",
+      "url": "https://www.xda-developers.com/claude-code-codex-google-antigravity-write-same-esp32-firmware-only-one-worked-first-flash/",
+      "source": "XDA Developers",
+      "category": "gadgets",
+      "published_iso": "2026-11-27T19:30:22Z",
+      "excerpt": "XDA had three AI coding agents write the same ESP32 microcontroller firmware and flashed each result onto real hardware. Only one of them worked on the first try.",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/esp32-claude-code.jpg?w=1600&h=900&fit=crop"
+    },
+    {
+      "title": "Ukrainian 11th-grader builds AI-powered, GPS-free drone autopilot to beat frontline jamming",
+      "url": "https://www.tomshardware.com/tech-industry/drones/ukrainian-11th-grader-builds-ai-powered-gps-free-drone-autopilot-to-beat-frontline-jamming-earns-the-future-of-ukraine-award-from-president-zelenskyy",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-11-27T10:00:00Z",
+      "excerpt": "Student Yaroslav Sheiko built an AI-based autopilot that lets drones navigate accurately without GPS or under GPS jamming. It earned him the 'Future of Ukraine' award from President Zelenskyy.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/TPpL3AULPVhwmkFHW2ZLcU-2000-80.jpg"
+    },
+    {
+      "title": "TCL CSOT unveils APEX and IJP OLED breakthroughs for the AI era at DTC 2026",
+      "url": "https://www.androidauthority.com/tcl-csot-dtc-2026-3736005/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-11-27T07:56:56+00:00",
+      "excerpt": "At DTC 2026, TCL CSOT presented its 'Display for AI' strategy along with inkjet-printed OLED moving toward mass production, 500Hz gaming panels and a 115-inch glasses-free 3D screen, all aimed at AI-powered devices.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/11/tcl-csot-featured.jpg"
+    },
+    {
+      "title": "Hisense UR9 review: How close can RGB Mini LED get to OLED?",
+      "url": "https://www.digitaltrends.com/home-theater/hisense-ur9-review/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-11-25T13:30:56-08:00",
+      "excerpt": "A review of Hisense's $1,999 UR9 RGB Mini LED TV, which runs on the Hi-View AI Engine RGB processor and is rated for 3,500 nits peak brightness, 980 local dimming zones and a native 180Hz panel.",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/hisense-ur9.jpeg?resize=1200%2C630&ssl=1"
+    },
+    {
+      "title": "Huawei unveils slim 12-inch flagship tablet with 2.8K 144Hz display and 10,100mAh battery",
+      "url": "https://www.notebookcheck.net/Huawei-unveils-slim-12-inch-flagship-tablet-with-2-8K-144Hz-display-and-10-100mAh-battery.1461459.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-11-27T22:13:00+01:00",
+      "excerpt": "Huawei's third-generation Qingyun C7 business tablet runs HarmonyOS 7 with AI office features, including layout-preserving bilingual document translation and Celia-assisted report generation.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/huawei-qingyun-c7-third-generation-tablet.png"
+    },
+    {
+      "title": "Samsung is reportedly giving its camera app an AI mode",
+      "url": "https://www.engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-11-27T20:06:02+00:00",
+      "excerpt": "One UI 9.5 beta code points to a Vision mode in Samsung Camera that would identify what the camera sees, similar to the Siri camera mode in iOS 27. This is a firmware teardown, not an announcement.",
+      "og_image": "https://www.engadget.com/img/gallery/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/l-intro-1795809894.jpg"
+    },
+    {
+      "title": "Samsung is holding back these 30+ Galaxy AI features for the Galaxy S27",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-galaxy-ai-features-20271-one-ui-9-5-apk-teardown-3740860/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-11-27T16:26:00+00:00",
+      "excerpt": "An APK teardown of One UI 9.5 lists more than 30 Galaxy AI features that appear to be reserved for the Galaxy S27 launch. This is a pre-launch leak.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/11/S26-in-hand-showing-One-UI-9.5-welcome-screen-scaled.jpg"
+    }
+  ]
 }

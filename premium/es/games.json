@@ -12977,6 +12977,151 @@
           "x": "No todos comparten ese entusiasmo: en el subreddit de EA Sports FC algunos lo califican de \"vergonzoso\", \"irrespetuoso\", \"asqueroso\" y \"jodidamente oscuro\". \"Qué mundo tan jodidamente sombrío en el que vivimos\", escribió un redditor. Peter Caulfield, de Save Our Voices Now, afirmó que \"a menos que lo hayas aceptado expresamente, no debería permitirse la clonación por AI de ningún tipo\". Red Hook Studios, en cambio, dijo que nunca usaría AI para recrear la voz del narrador Wayne June."
         }
       ]
+    },
+    "games/games-without-ai-steam-event": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/games-without-AI.jpg?width=1200&height=630&fit=crop&auto=webp",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo evento de Steam, 'Games Without AI', asegura que todos sus juegos evitaron por completo la AI durante el desarrollo. Lo organizó un tercero y no Valve —Dev Land Marketing, All Ages Of Geek y Dark Cocooning— para “apoyar a los creadores reales”, y se celebra del 25 de noviembre al 6 de diciembre."
+        },
+        {
+          "t": "p",
+          "x": "Entre los juegos destacados figuran Pidgeon Pocket, un 'incremental acogedor' (cozy incremental) con pixel art; Bottled by Bears, sobre coleccionar abejas raras y embotellar miel; y Arctic Awakening, que parece una mezcla de Pacific Drive y Subnautica."
+        },
+        {
+          "t": "video",
+          "yt": "3EALTDMG31A"
+        },
+        {
+          "t": "p",
+          "x": "En Reddit, un desarrollador participante dijo que el proceso de selección era difícil de eludir: “A todos nos exigieron pruebas de que el juego se hizo sin AI y compartir todo lo posible del proceso. Luego, la comunidad votó de verdad”."
+        },
+        {
+          "t": "p",
+          "x": "En el Steam Next Fest más reciente, cerca del 17 por ciento de los juegos declaró el uso de AI generativa; en el evento de junio, más de mil juegos, cerca del 20 por ciento, incluían una declaración. Steam exige declarar la AI, pero quienes alegan solo “mejoras de eficiencia” pueden omitirla."
+        }
+      ]
+    },
+    "games/shiftup-wmt2026-translation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Shift Up (director ejecutivo Kim Hyung-tae) informó el día 25 que su sistema de traducción con AI de desarrollo propio, 'COZY', fue seleccionado para el grupo superior (Frontera) en la categoría de traducción terminológica de 'WMT (Conference on Machine Translation) 2026', una conferencia académica internacional de traducción automática."
+        },
+        {
+          "t": "p",
+          "x": "WMT es un prestigioso encuentro académico internacional de traducción automática que se celebra desde 2006; este año tuvo lugar en Budapest, Hungría, el 28 y 29 de octubre. De sus 13 tareas compartidas, la categoría de traducción terminológica reunió a 17 equipos, entre ellos empresas globales como Amazon, Samsung Electronics y Huawei, además de instituciones de investigación."
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/996edb739c7200.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "COZY, desarrollado por Shift Up AI Labs, entró en el grupo Frontera, reservado a los 3 mejores sistemas, en cada una de las dos pistas: 'precisión terminológica' y 'evaluación global de la calidad de traducción'."
+        },
+        {
+          "t": "p",
+          "x": "Shift Up AI Labs es la unidad que investiga tecnologías de AI para el desarrollo de juegos y crea herramientas de producción. Reduce el tiempo dedicado a tareas repetitivas para que el equipo se concentre en la creación y en mejorar el acabado. Su objetivo es usar la AI no como sustituto de la creatividad, sino como herramienta que respalda las capacidades de los desarrolladores, para ofrecer juegos de mayor calidad a los jugadores."
+        },
+        {
+          "t": "p",
+          "x": "COZY es un sistema de traducción desarrollado con ese enfoque, que divide el proceso en tres etapas: creación del glosario, selección de términos y traducción. Su rasgo distintivo es que mejora a la vez la precisión terminológica y la naturalidad de las frases mediante la 'ingeniería de arnés' (harness engineering), sin entrenar un nuevo modelo de AI. La ingeniería de arnés consiste en diseñar y optimizar herramientas, estructuras de ejecución y sistemas de verificación para que un modelo de AI rinda al máximo en el trabajo real."
+        },
+        {
+          "t": "p",
+          "x": "“Mantener coherentes los nombres propios de un universo extenso, los nombres de habilidades y objetos y el tono de cada personaje es un elemento importante de la localización de juegos”, dijo Lee Dong-gi, CTO de Shift Up. “Sobre la base de este resultado, ampliaremos el uso de COZY en nuestros juegos para elevar la calidad de traducción y la eficiencia de revisión, y reforzaremos nuestra capacidad para lanzamientos globales simultáneos y actualizaciones en vivo”."
+        }
+      ]
+    },
+    "games/games-dlss5-rdr2-31pct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-DLSS-5-Red-Dead-Redemption-2-1920x1080.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Juegos como Red Dead Redemption 2, de Rockstar Games, siguen siendo los que más se benefician de NVIDIA DLSS 5 Neural Rendering: una sola pasada con una implementación mediante mod ofrece una iluminación tan natural que el juego casi parece una película."
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo video comparativo que MxBenchmarkPC publicó en YouTube muestra el juego sin DLSS 5 Neural Rendering, con una sola pasada y con doble pasada."
+        },
+        {
+          "t": "p",
+          "x": "En una RTX 5080, la tasa de fotogramas cae un 31% en 4K con DLSS 4.5 en modo Performance con una sola pasada, y un 41% con doble pasada. La pasada única mejora mucho la iluminación, las sombras y los reflejos: elimina la neblina y acentúa las sombras de contacto sin perder la sensación original. La doble pasada suele bajar de 60 FPS y oscurece mucho la imagen, aplastando el detalle de las sombras; además, los personajes se ven poco naturales."
+        },
+        {
+          "t": "video",
+          "yt": "gpnVNFvjmHs"
+        },
+        {
+          "t": "p",
+          "x": "Red Dead Redemption 2 aún no tiene soporte oficial de DLSS 5; solo cuatro juegos admiten oficialmente Neural Rendering, el último de ellos Where Winds Meet, que lo recibió a principios de esta semana."
+        }
+      ]
+    },
+    "games/games-mikami-gcon-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/11/Resident-Evil-2005-original-art-Capcom.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "El 20 de noviembre, Shinji Mikami, cuyo estudio Unbound se asoció con Shift Up, creadores de Stellar Blade, para publicar su próximo juego, y el CEO de Shift Up, Kim Hyung-tae, participaron en un panel de G-CON 2026, donde salieron a relucir sus opiniones opuestas sobre la AI."
+        },
+        {
+          "t": "p",
+          "x": "Kim abordó las críticas que recibió Shift Up tras un video musical de Stellar Blade: Blood Rain totalmente AI-generated a finales de julio, y explicó que el estudio adoptó una filosofía de “hecho a mano de principio a fin”. Aun así, Shift Up planea usar AI en tareas como efectos de iluminación y modelos 3D lower-poly. Kim también dijo que cree que “el desarrollo de juegos sin AI ya no es viable”."
+        },
+        {
+          "t": "p",
+          "x": "Mikami discrepó con firmeza. Su estudio está “experimentando actualmente” con AI, sobre todo para previsualizar cómo se ven en 3D los modelos 2D dibujados a mano, pero él desea que la AI “desaparezca por completo” del desarrollo de juegos y “del mundo”."
+        },
+        {
+          "t": "p",
+          "x": "Mikami calificó de “inciertos” para los estudios los próximos “cinco o diez” años y reconoció “una posibilidad real” de que los desarrolladores pierdan su empleo por la AI en la próxima década. Kim afirmó que los juegos de ambos estudios “seguirán siendo intrínsecamente hechos a mano”."
+        }
+      ]
+    },
+    "games/ludo-tileset-generator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ludo.ai, la herramienta de apoyo para desarrolladores que crean recursos de juego listos para producción, anunció hoy el lanzamiento de Tileset Generator, una nueva herramienta que convierte la descripción del suelo de un juego en un tileset completo para pintar mapas 2D. Cada conjunto contiene 16 tiles que cubren las distintas formas en que pueden encontrarse los terrenos, mientras los bordes y las esquinas entre ellos encajan solos a medida que el desarrollador pinta. La herramienta sirve para juegos con vista cenital e isométrica y ya está disponible en la plataforma Ludo y a través de Ludo CLI, el servidor MCP y la REST API."
+        },
+        {
+          "t": "p",
+          "x": "Jorge Gomes, Co-Founder (cofundador) y Chief Technology Officer (director de tecnología) de Ludo.ai, afirmó: “Los tilesets son uno de los recursos más tediosos de dibujar a mano para un equipo pequeño. Ahora un desarrollador en solitario puede describir un mundo y estar pintando un mapa con él pocos minutos después”."
+        },
+        {
+          "t": "p",
+          "x": "Cómo funciona: se elige una cuadrícula cenital o isométrica y se describe un suelo para obtener una tile base sin costuras por terreno; se eligen dos tiles y se describe el límite, como espuma de mar blanca o un bordillo bajo de piedra, para obtener el conjunto completo de 16 tiles, o se traza una línea como un camino, un río, una valla o un muro; después se pinta un mapa de prueba en el navegador antes de exportar."
+        },
+        {
+          "t": "p",
+          "x": "Cada conjunto se exporta como una imagen de las 16 tiles con un archivo de datos JSON que describe cada una; Godot 4 y Tiled reciben además un archivo de tileset listo para usar. Las ediciones de todo el conjunto, como “al atardecer” o “cúbrelo de nieve”, devuelven un nuevo conjunto que encaja de la misma manera, y un conjunto puede incluir un mapa de normales a juego para la iluminación 2D. Una tile cuesta 0.5 créditos y un conjunto completo, 1 crédito; en los planes Pro y Studio, la generación en la aplicación web es ilimitada."
+        },
+        {
+          "t": "img",
+          "src": "https://mobidictum.com/wp-content/uploads/2026/11/ludo-ai-tileset-generator-terrain-edit-comparison-1024x290.png",
+          "cap": "Un solo prompt transforma el mismo tileset de playa de aguas turquesa en calma a un mar tormentoso, sin alterar las transiciones de la costa."
+        },
+        {
+          "t": "video",
+          "yt": "6GYU5as78CQ"
+        }
+      ]
     }
   }
 }

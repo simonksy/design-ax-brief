@@ -5884,6 +5884,103 @@
           "x": "“Los centros médicos de Estados Unidos cuentan ahora con una nueva opción para identificar el riesgo cardiovascular a bajo costo, sin extracción de sangre ni radiación”, dijo Choi Tae-geun, director ejecutivo de Mediwhale. “Sobre la evidencia demostrada en grandes cohortes sumaremos datos de uso real en Estados Unidos y lo extenderemos rápidamente a la atención primaria a través de la infraestructura de nuestros socios”."
         }
       ]
+    },
+    "medicine/dki-mri-newborn-hie-outcome": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un enfoque de aprendizaje automático que combina una técnica de MRI con la evaluación clínica podría mejorar la atención de los recién nacidos con encefalopatía hipóxico-isquémica (HIE) leve, según un estudio publicado el 24 de noviembre en Radiology. El trabajo fue dirigido por Xianglong Liu, MD, del Primer Hospital Afiliado de la Universidad de Ciencia y Tecnología de Henan (First Affiliated Hospital of Henan University of Science and Technology), en China."
+        },
+        {
+          "t": "p",
+          "x": "“La discriminación solo con imagen y solo con datos clínicos no difirió, mientras que su combinación la mejoró, lo que indica que ambas fuentes de datos eran complementarias”, escribió el equipo de Liu."
+        },
+        {
+          "t": "p",
+          "x": "El estudio prospectivo se realizó en cuatro hospitales entre 2019 y 2023, y el seguimiento a 24 meses concluyó en 2025. Los investigadores desarrollaron modelos solo clínicos, solo de imagen y combinados clínico-imagen a partir de 49 parámetros de DKI y siete variables clínicas. El análisis final incluyó a 740 recién nacidos con una edad gestacional media de 38.3 semanas."
+        },
+        {
+          "t": "p",
+          "x": "En el conjunto de prueba externo, el modelo combinado alcanzó un AUC de 0.92, con una sensibilidad del 86% y una especificidad del 85.3%. Superó al modelo solo clínico (AUC, 0.85) y al modelo solo de imagen (AUC, 0.86). La estratificación de riesgo predefinida dio un valor predictivo negativo perfecto en los lactantes de bajo riesgo y un valor predictivo positivo del 88% en los de alto riesgo."
+        },
+        {
+          "t": "p",
+          "x": "Pese a los resultados, los autores subrayaron que las predicciones “no deben sustituir el juicio clínico”."
+        }
+      ]
+    },
+    "medicine/mfds-kpredict-adverse-event-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/27/65420b6c-6ebb-4410-a925-7941b4c18aba.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Instituto Nacional de Evaluación de la Seguridad de Alimentos y Medicamentos, dependiente del Ministerio de Seguridad de Alimentos y Medicamentos de Corea (MFDS), iniciará el 4 de diciembre la operación piloto de ‘K-PREDICT’, una plataforma integrada de datos que apoya la investigación para predecir reacciones adversas y la respuesta a los medicamentos. Ese mismo día, a las 2 de la tarde, la MFDS celebrará una sesión informativa en el hotel President, en Jung-gu (Seúl)."
+        },
+        {
+          "t": "p",
+          "x": "‘K-PREDICT (Pharmacological Risk & Efficacy Detection Intelligence Center Tool)’ es una plataforma de datos creada para vincular y analizar de forma integral la información clínica, como consultas y pruebas, de pacientes que realmente tomaron medicamentos, junto con diversa información biológica (multiómica) como la genómica, la proteómica y la metabolómica. La MFDS impulsa su construcción desde 2023 y, hasta el año pasado, reunió datos clínicos y multiómicos de unos 7500 pacientes medicados en 4 hospitales del país."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores podrán usar la plataforma y tecnologías de inteligencia artificial (AI) para esclarecer por qué la respuesta a los fármacos varía entre personas y cuáles son los mecanismos de toxicidad. En particular, se prevé que sirva para descubrir nuevos biomarcadores capaces de predecir de antemano la eficacia y los efectos adversos de los medicamentos, y para desarrollar métodos de evaluación de toxicidad basados en humanos."
+        },
+        {
+          "t": "p",
+          "x": "Durante el periodo piloto de unos 6 meses, la MFDS incorporará la retroalimentación de los investigadores para mejorar los procedimientos de uso y el entorno de análisis, y prevé poner la plataforma en pleno funcionamiento a partir de julio de 2027. Además, planea reunir datos adicionales de 30.000 personas a través de 9 hospitales del país hasta 2030."
+        }
+      ]
+    },
+    "medicine/sath-limbus-ai-autocontouring": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una herramienta de inteligencia artificial (AI) está ayudando a los pacientes oncológicos de la zona a recibir radioterapia de forma más rápida y precisa en The Shrewsbury and Telford Hospital NHS Trust (SaTH)."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sath.nhs.uk/wp-content/uploads/2026/11/Adam-Williams-and-Claire-Puzey-from-SaTHs-Radiotherapy-Team-using-the-Limbus-AI-tool.png",
+          "cap": "Adam Williams y Claire Puzey, del equipo de radioterapia de SaTH, con la herramienta Limbus AI"
+        },
+        {
+          "t": "p",
+          "x": "SaTH, que gestiona el Royal Shrewsbury Hospital y el Princess Royal Hospital de Telford, utiliza un sistema AI-powered llamado Limbus para apoyar la planificación de los tratamientos de radioterapia. Limbus sirve para identificar con precisión, en las CT de planificación, los órganos sanos que deben protegerse durante la planificación del tratamiento."
+        },
+        {
+          "t": "p",
+          "x": "Con el apoyo de la AI, el proceso de contorneo ahorra unas 10 horas por semana frente a los métodos solo manuales. Actualmente SaTH lo usa en todas las zonas de tratamiento para contornear órganos sanos y áreas seleccionadas que requieren tratamiento, con la posibilidad de ampliar su uso a una gama más amplia de objetivos terapéuticos en el futuro."
+        },
+        {
+          "t": "p",
+          "x": "El Dr Rick Sims, jefe de Física de Radioterapia, afirmó: “El contorneo siempre ha sido un proceso que consume mucho tiempo, a veces hasta cuatro horas en los casos especialmente complejos. Ahora vemos mejoras significativas tanto en eficiencia como en coherencia”. Añadió que el equipo clínico mantiene el control total y revisa y ajusta con cuidado los contornos cuando es necesario."
+        }
+      ]
+    },
+    "medicine/npj-icu-ct-body-composition": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una composición corporal anómala al ingreso en la unidad de cuidados intensivos (ICU) se asocia con una peor supervivencia, pero rara vez se mide en la práctica porque el análisis manual de la CT es laborioso. Realizamos un análisis secundario de una cohorte prospectiva unicéntrica de 509 pacientes a quienes se practicó una CT de tórax en las 24 h siguientes al ingreso en la ICU, de los cuales 475 se incluyeron en el análisis final."
+        },
+        {
+          "t": "p",
+          "x": "Se utilizó segmentación con AI de código abierto (Open-source) para cuantificar la composición corporal, y las características resultantes se relacionaron con la supervivencia a 6 meses. Las puntuaciones de riesgo derivadas de la composición corporal se asociaron de forma significativa con la supervivencia a 6 meses (p < 0.001, prueba log-rank). En la validación cruzada de cinco particiones (five-fold), el AUC para distinguir a supervivientes de no supervivientes fue de 0.73; al tener en cuenta la selección de características, el AUC fue de 0.68 con validación cruzada anidada y de 0.69 con corrección de optimismo por bootstrap."
+        },
+        {
+          "t": "p",
+          "x": "El estudio muestra que el análisis automatizado AI-based de la CT de tórax al ingreso ofrece puntuaciones de composición corporal asociadas de forma significativa con la mortalidad a 6 meses tras el ingreso en la ICU."
+        }
+      ]
+    },
+    "medicine/medicine-infant-fundus-angiography": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las enfermedades retinianas infantiles son una de las principales causas de ceguera en la niñez, y los hallazgos vasculares que orientan el cribado y el tratamiento suelen verse mal en la fotografía de fondo de ojo en color (CFP). La angiografía con fluoresceína del fondo de ojo (FFA) permite visualizar las anomalías vasculares de la retina, pero su carácter invasivo y su dependencia del colorante de fluoresceína limitan su uso rutinario en bebés vulnerables. La síntesis generativa podría ofrecer aproximaciones angiográficas no invasivas. Sin embargo, las imágenes infantiles suelen depender de cámaras de fondo de ojo de contacto portátiles y operadas a mano, y las variaciones en el ángulo de la sonda, la presión de contacto y el campo de visión entre las adquisiciones separadas de CFP y FFA debilitan la correspondencia espacial entre modalidades. En este artículo presentamos InfantAngio, un marco basado en difusión que reformula la síntesis CFP-to-FFA como una trayectoria determinista de transporte latente. Desarrollado y evaluado con 83,950 registros de pares de imágenes derivados del corregistro de 259 bebés, InfantAngio mostró un rendimiento favorable en las pruebas cuantitativas de calidad de imagen, mientras que los oftalmólogos distinguieron las imágenes FFA reales de las sintetizadas con una precisión cercana al azar, del 49.8%, en una evaluación ciega. Añadir FFA sintetizada a la CFP mejoró tanto el rendimiento del clasificador posterior como la precisión diagnóstica global en un estudio retrospectivo de lectura por oftalmólogos. Estos resultados respaldan la FFA sintetizada como un complemento no invasivo potencialmente útil para el cribado de bebés de alto riesgo, con la posibilidad de reducir la dependencia de procedimientos con colorante en escenarios clínicos reales."
+        }
+      ]
     }
   }
 }

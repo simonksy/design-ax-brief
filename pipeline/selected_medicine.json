@@ -1,101 +1,101 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "medicine",
   "items": [
     {
-      "title": "Generative fundus angiography from misaligned handheld images for non-invasive screening of infantile retinal diseases",
-      "url": "https://www.nature.com/articles/s41746-026-03462-z",
+      "title": "Safety and accuracy diverge across deployment conditions in clinical large language models",
+      "url": "https://www.nature.com/articles/s41746-026-03455-y",
       "source": "npj Digital Medicine",
-      "published_iso": "2026-11-24T10:24:00Z",
-      "og_image": null,
-      "excerpt": "A generative AI model synthesizes fundus fluorescein angiography from misaligned handheld color fundus photos of infants, aiming to give dye-free visualization of retinal vascular abnormalities for screening infantile retinal diseases, a leading cause of childhood blindness.",
+      "published_iso": "2026-11-27T00:00:00Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03455-y/MediaObjects/41746_2026_3455_Fig1_HTML.png",
+      "excerpt": "Scaling clinical LLMs by size, context, retrieval or inference compute raises accuracy but does not guarantee safety: the study finds confident, evidence-contradicting errors diverge from average accuracy across deployment conditions.",
       "tool": "Medicine",
       "category": "medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "rationale": "Replacement pick: dye-free, needle-free angiography for infants generated from ordinary handheld fundus photos — a concrete patient-facing screening advance for childhood blindness, with no overlap in the 30-day history (the retinal items there were preeclampsia and adult CVD risk)."
+      "rationale": "Directly actionable for health systems deploying LLMs: bigger models, retrieval or more compute raise accuracy without making the models safer, so safety has to be evaluated on its own. No earlier card made this accuracy-vs-safety argument."
     },
     {
-      "title": "Validation of Computer Vision in the Operating Room for Ambient Documentation",
-      "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/10.1001/jamasurg.2026.5500",
-      "source": "JAMA Surgery",
-      "published_iso": "2026-11-18T16:00:20Z",
+      "title": "DKI may improve care in mild newborn HIE cases",
+      "url": "https://www.auntminnie.com/clinical-news/mri/article/16543044/dki-may-improve-care-in-mild-newborn-hie-cases",
+      "source": "AuntMinnie",
+      "published_iso": "2026-11-25T12:35:57-06:00",
       "og_image": null,
-      "excerpt": "Stanford Health Care study in JAMA Surgery validates computer-vision ambient timestamp documentation (Aimbient) across a variety of operating-room procedures, reporting human-level accuracy for automated OR documentation. (Date from Crossref created; JAMA HTML behind Cloudflare.)",
+      "excerpt": "A machine-learning model combining diffusion kurtosis MRI with clinical data predicted 24-month neurodevelopmental outcomes in 740 newborns with mild HIE (external AUC 0.92) in a prospective four-hospital study published Nov 24 in Radiology.",
       "tool": "Medicine",
       "category": "medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Peer-reviewed validation of camera-based ambient OR documentation at Stanford — extends ambient AI from the exam room to surgery; distinct from the Suki agentic OS product item."
+      "rationale": "Prospective four-hospital Radiology study with 740 newborns and external AUC 0.92. It targets a real treatment-decision gap in mild neonatal HIE, a new population for the section."
     },
     {
-      "title": "대구가톨릭대의료원, AI 음성인식 의무기록 '보이스 EMR' 고도화",
-      "url": "https://www.medigatenews.com/news/1869758664",
-      "source": "메디게이트뉴스",
-      "published_iso": "2026-11-26T21:50:00+09:00",
-      "og_image": "https://medigatenews.com/file/news/546538",
-      "excerpt": "대구가톨릭대의료원이 2024년 영상의학과·핵의학과에 도입한 AI 음성인식 의무기록 '보이스 EMR'을 고도화해, 진료 대화에서 의학적으로 의미 있는 정보를 선별하고 의료진별 서식에 맞춰 의무기록을 자동 생성하도록 했다.",
-      "tool": "Medicine",
-      "category": "medicine",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "Hospital deployment upgrade in Korea — voice EMR now filters clinically meaningful content and auto-fills clinician-specific templates; real care-site operations change."
-    },
-    {
-      "title": "Deep Learning Analysis of Korotkoff Sounds for Heart Failure Detection: A Prospective Multicentre Observational Study",
-      "url": "https://academic.oup.com/ehjdh/advance-article/doi/10.1093/ehjdh/ztag187/9115906",
-      "source": "European Heart Journal - Digital Health",
-      "published_iso": "2026-11-19T13:04:52Z",
-      "og_image": null,
-      "excerpt": "Prospective four-centre study of 1,103 cardiovascular inpatients in China: deep learning on Korotkoff sounds recorded during routine blood pressure measurement detected heart failure with AUC 0.924 in the independent test cohort, including NYHA class I patients.",
-      "tool": "Medicine",
-      "category": "medicine",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "rationale": "Prospective multicentre result turning a routine BP cuff reading into a heart-failure screen (AUC 0.924, incl. NYHA I) — different modality and study from the 11-11 voice-change HF item."
-    },
-    {
-      "title": "Multimodal AI for bacterial vs viral upper respiratory tract infection multicentre development and internal validation",
-      "url": "https://www.nature.com/articles/s41746-026-03492-7",
-      "source": "npj Digital Medicine",
-      "published_iso": "2026-11-25T11:05:14Z",
-      "og_image": null,
-      "excerpt": "A multimodal AI model fusing pharyngeal images with clinical data was developed and internally validated across multiple centres to distinguish Group A streptococcus pharyngitis from viral upper respiratory infections, aiming to guide appropriate antibiotic use.",
+      "title": "식약처, AI·멀티오믹스로 의약품 부작용 예측한다",
+      "url": "https://www.dailypharm.com/user/news/345127",
+      "source": "데일리팜",
+      "published_iso": "2026-11-27T13:58:56+09:00",
+      "og_image": "https://vod.dailypharm.com/new_dailypharm/editor/content/2026/11/27/65420b6c-6ebb-4410-a925-7941b4c18aba.jpg",
+      "excerpt": "식약처 식품의약품안전평가원이 12월 4일 의약품 부작용·약물 반응성 예측 연구를 지원하는 AI·멀티오믹스 통합 데이터 플랫폼 'K-PREDICT' 시범운영에 들어가고, 2027년 7월 본격 운영한다.",
       "tool": "Medicine",
       "category": "medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Point-of-care diagnostic aimed at antibiotic stewardship (strep vs viral sore throat from throat photos + clinical data) — fresh, clinician-facing, adds a primary-care angle to the mix."
+      "rationale": "Regulator-run AI platform for predicting drug side effects, with fixed dates: pilot on Dec 4, full operation in July 2027. It is a different system from the MFDS review-assist AI carded on 11-09."
+    },
+    {
+      "title": "AI technology helping local cancer patients access treatment faster",
+      "url": "https://www.sath.nhs.uk/news/ai-technology-helping-local-cancer-patients-access-treatment-faster/",
+      "source": "Shrewsbury and Telford Hospital NHS Trust",
+      "published_iso": "2026-11-24T15:10:30+00:00",
+      "og_image": "https://www.sath.nhs.uk/wp-content/uploads/2026/11/Adam-Williams-and-Claire-Puzey-from-SaTHs-Radiotherapy-Team-using-the-Limbus-AI-tool.png",
+      "excerpt": "SaTH now uses the Limbus AI auto-contouring system for all radiotherapy treatment sites, saving about 10 hours of contouring per week and cutting the wait between referral and the start of radiotherapy.",
+      "tool": "Medicine",
+      "category": "medicine",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Primary-source report of a real hospital rollout: AI auto-contouring now covers every radiotherapy site, saves about 10 hours a week and shortens the wait to treatment. Radiotherapy workflow has not appeared in the 30-day history."
+    },
+    {
+      "title": "AI-assisted chest CT scan analysis of body composition at ICU admission and 6-month mortality",
+      "url": "https://www.nature.com/articles/s41746-026-03509-1",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-11-24T00:00:00Z",
+      "og_image": null,
+      "excerpt": "In a secondary analysis of a prospective cohort of 509 ICU patients, AI-automated chest CT body-composition measurement at admission was associated with 6-month mortality — a measure rarely taken in practice because manual CT analysis is labor-intensive.",
+      "tool": "Medicine",
+      "category": "medicine",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "rationale": "Turns chest CTs already taken at ICU admission into a 6-month mortality signal (509-patient prospective cohort) by automating a measurement too labour-intensive to do by hand. This is a different question from the 11-18 PCCT image-quality item."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.nature.com/articles/s41746-026-03462-z": {
+      "https://www.nature.com/articles/s41746-026-03455-y": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03463-y",
+        "nearest": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
         "new_action": ""
       },
-      "https://jamanetwork.com/journals/jamasurgery/fullarticle/10.1001/jamasurg.2026.5500": {
-        "verdict": "new",
-        "nearest": "https://www.healthcaredive.com/news/suki-debuts-agentic-operating-system/874848/",
-        "new_action": ""
-      },
-      "https://www.medigatenews.com/news/1869758664": {
-        "verdict": "new",
-        "nearest": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044563",
-        "new_action": ""
-      },
-      "https://academic.oup.com/ehjdh/advance-article/doi/10.1093/ehjdh/ztag187/9115906": {
-        "verdict": "new",
-        "nearest": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/voice-changes-may-detect-worsening-heart-failure-weeks-other-symptoms-appear",
-        "new_action": ""
-      },
-      "https://www.nature.com/articles/s41746-026-03492-7": {
+      "https://www.auntminnie.com/clinical-news/mri/article/16543044/dki-may-improve-care-in-mild-newborn-hie-cases": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
+      },
+      "https://www.dailypharm.com/user/news/345127": {
+        "verdict": "new",
+        "nearest": "https://www.dailypharm.com/user/news/344134",
+        "new_action": ""
+      },
+      "https://www.sath.nhs.uk/news/ai-technology-helping-local-cancer-patients-access-treatment-faster/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.nature.com/articles/s41746-026-03509-1": {
+        "verdict": "new",
+        "nearest": "https://www.auntminnie.com/resources/conference/rsna/2026/ct-preview/article/16541666/deeplearning-adds-pcctlike-chest-imaging-quality-to-existing-scanners",
+        "new_action": ""
       }
     },
-    "note": "RE-PICK: dropped 데일리팜 'AI 가짜 의사·약사 광고 금지' (dailypharm.com/user/news/345052) as a cross-section duplicate. It is the same MFDS rule on AI-generated fake experts in ads that marketing already published on 2026-11-25 (etnews.com/20261124000360) and on 11-20/11-10. Replacement: npj Digital Medicine infant generative fundus angiography (s41746-026-03462-z). It is new: the closest history item is the 11-18 retinal preeclampsia biomarker, a different study and population. npj now has 2 of 5 picks, which is the per-outlet cap; there are 4 distinct outlets. Other candidates were skipped on judgement, not as duplicates: NEJM AI FDA sepsis tool (the brief says it is likely a 2024 erratum); AuntMinnie SCARLET-1 prostate MRI across 22 countries (I could not confirm it differs from the 2026-10-14 prostate-MRI item, so skipped as unsure); JBCR burn-resuscitation LLM (a close runner-up, but the excerpt gives no result and it would be a second academic.oup.com pick); Fierce weekly rundown (vendor roundup, and Gemini for healthcare was already carded 11-11); Innovaccer Grok Voice (vendor promo); STAT Epic (from HLTH on 11-18, stale); Healthcare Dive regulatory maze (explainer with no new action); Medigate MIRA (a secondhand write-up of a Nature paper, not checked against the science section); JAMA Health Forum workplace AI survey and Lancet DH AI-literacy review (less actionable); AAMC medical-AI education talk (a conference presentation); ICU CT body composition and ovarian phantom (lower priority). The 4 kept picks are unchanged."
+    "note": "Dropped as duplicates or follow-ups: (1) 데일리팜 '심비(SIMBI)' 12월 2일 공개 (dailypharm 345117). It follows the 11-09 card (dailypharm 344134), which already reported the December reveal of the MFDS AI review-assist system. What is new is only a name and a launch date, and the launch has not happened, so it is held until the actual launch. (2) HTN SENTINEL-AI national NHS AI-performance monitoring (htn.co.uk). It is very likely the same running story as the 11-15 'NHS launches £200k project' monitoring card (publictechnology.net). Both are national frameworks for monitoring deployed diagnostic AI, and nothing in the excerpt shows a separate new decision. Skipped on judgement, not as duplicates: NEJM AI FDA-authorized sepsis tool (the brief says to skip it because of the erratum trap); Nature ORIDTP peptides (animal-stage only, and the pool was not short); Innovaccer Grok Voice (vendor integration promo, already skipped on 11-27 on the same grounds); Zimmer Monogram FDA submission (AI may be incidental to an autonomous-robot filing, and it comes from an off-list outlet); npj FeNetDP pancreatic ferroptosis repurposing (computational only, lower actionability). Diversity: 4 distinct outlets, and npj Digital Medicine has 2 picks, which is the cap. I could not grep published_urls.json across sections because I have no search tool. The 5 picks are clinical or regulator stories, so a cross-section clash is unlikely, but the orchestrator should still run its archive key-term scan (K-PREDICT, Limbus, DKI HIE)."
   }
 }

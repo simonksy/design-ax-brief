@@ -5884,6 +5884,103 @@
           "x": "“U.S. medical practice now has a new option to identify cardiovascular risk at low cost, without blood draws or radiation,” said Mediwhale CEO Choi Tae-geun. “On top of evidence proven in large cohorts, we will add real-world data from the U.S. and roll it out quickly to primary care settings through our partners' infrastructure.”"
         }
       ]
+    },
+    "medicine/dki-mri-newborn-hie-outcome": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A machine-learning approach that combines an MRI technique with clinical assessment could improve care for newborns with mild hypoxic-ischemic encephalopathy (HIE), suggest findings published November 24 in Radiology. The study was led by Xianglong Liu, MD, from the First Affiliated Hospital of Henan University of Science and Technology in China."
+        },
+        {
+          "t": "p",
+          "x": "“Imaging-only and clinical-only discrimination did not differ, whereas their combination improved discrimination, indicating that the two data sources were complementary,” the Liu team wrote."
+        },
+        {
+          "t": "p",
+          "x": "The prospective study took place at four hospitals between 2019 and 2023, with 24-month follow-up being completed in 2025. The researchers developed clinical-only, imaging-only, and combined clinical-imaging models from 49 DKI parameters and seven clinical variables. Final analysis included 740 newborns with a mean gestational age of 38.3 weeks."
+        },
+        {
+          "t": "p",
+          "x": "In the external test set, the combined model achieved an AUC of 0.92, with a sensitivity of 86% and a specificity of 85.3%. It outperformed the clinical-only model (AUC, 0.85) and imaging-only model (AUC, 0.86). Prespecified risk stratification led to a perfect negative predictive value for low-risk infants and a positive predictive value of 88% for high-risk infants."
+        },
+        {
+          "t": "p",
+          "x": "Despite the results, the study authors highlighted that predictions “should not replace clinical judgment.”"
+        }
+      ]
+    },
+    "medicine/mfds-kpredict-adverse-event-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/27/65420b6c-6ebb-4410-a925-7941b4c18aba.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The National Institute of Food and Drug Safety Evaluation, part of the Ministry of Food and Drug Safety (MFDS), will begin a pilot run on December 4 of ‘K-PREDICT’, an integrated data platform that supports research on predicting adverse drug reactions and drug responsiveness. The MFDS will hold a briefing session on the platform at 2 p.m. the same day at the President Hotel in Jung-gu, Seoul."
+        },
+        {
+          "t": "p",
+          "x": "‘K-PREDICT (Pharmacological Risk & Efficacy Detection Intelligence Center Tool)’ is a data platform built to link and comprehensively analyze clinical information, such as consultations and tests, from patients who actually took medications, together with diverse biological information (multi-omics) including genomic, proteomic and metabolomic data. The MFDS has been building the platform since 2023 and, by last year, had secured clinical and multi-omics data on about 7,500 medicated patients from 4 hospitals in Korea."
+        },
+        {
+          "t": "p",
+          "x": "Researchers can use the platform and artificial intelligence (AI) technology to identify why drug responses differ from person to person and to uncover mechanisms of toxicity. In particular, it is expected to be used to discover new biomarkers that can predict the efficacy and side effects of drugs in advance and to develop human-based toxicity assessment methods."
+        },
+        {
+          "t": "p",
+          "x": "During the pilot period of about 6 months, the MFDS will refine the usage procedures and analysis environment based on researcher feedback, and plans to begin full operation of the platform in July 2027. It also plans to build additional data covering 30,000 people through 9 hospitals in Korea by 2030."
+        }
+      ]
+    },
+    "medicine/sath-limbus-ai-autocontouring": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "An Artificial Intelligence (AI) tool is helping local cancer patients receive radiotherapy treatment more quickly and accurately at The Shrewsbury and Telford Hospital NHS Trust (SaTH)."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sath.nhs.uk/wp-content/uploads/2026/11/Adam-Williams-and-Claire-Puzey-from-SaTHs-Radiotherapy-Team-using-the-Limbus-AI-tool.png",
+          "cap": "Adam Williams and Claire Puzey from SaTH’s Radiotherapy Team with the Limbus AI tool"
+        },
+        {
+          "t": "p",
+          "x": "SaTH, which runs the Royal Shrewsbury Hospital and Princess Royal Hospital in Telford, is using an AI-powered system called Limbus to support the planning of radiotherapy treatments. Limbus is used to accurately identify healthy organs on planning CT scans that need to be protected during treatment planning."
+        },
+        {
+          "t": "p",
+          "x": "With the support of AI, the contouring process saves around 10 hours per week compared to manual methods alone. It is currently being used at SaTH for all treatment sites to contour healthy organs and selected areas requiring treatment, with the potential to expand its use to a wider range of treatment targets in the future."
+        },
+        {
+          "t": "p",
+          "x": "Dr Rick Sims, Head of Radiotherapy Physics, said: “Contouring has always been a very time-consuming process, sometimes taking up to four hours for particularly complex cases. We are now seeing significant improvements in both efficiency and consistency.” He added that the clinical team remains fully in control, carefully reviewing and adjusting the contours where required."
+        }
+      ]
+    },
+    "medicine/npj-icu-ct-body-composition": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Abnormal body composition at intensive care unit (ICU) admission is associated with worse survival, but it is rarely measured in practice because manual CT analysis is labor-intensive. We conducted a secondary analysis of a single-center prospective cohort of 509 patients who underwent chest CT within 24 h of ICU admission, of whom 475 were included in the final analysis."
+        },
+        {
+          "t": "p",
+          "x": "Open-source AI segmentation was used to quantify body composition, and the resulting features were related to 6-month survival. Risk scores derived from body composition were significantly associated with 6-month survival (p < 0.001, log-rank test). In five-fold cross-validation, the AUC for discriminating survivors from non-survivors was 0.73; when feature selection was accounted for, the AUC was 0.68 by nested cross-validation and 0.69 by bootstrap optimism correction."
+        },
+        {
+          "t": "p",
+          "x": "The study shows that the automated AI-based analysis of admission chest CT yields body composition scores significantly associated with 6-month mortality after ICU admission."
+        }
+      ]
+    },
+    "medicine/medicine-infant-fundus-angiography": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Infantile retinal diseases are a leading cause of childhood blindness, and vascular findings that guide screening and management are often poorly visible in color fundus photography (CFP). Fundus fluorescein angiography (FFA) provides angiographic visualization of retinal vascular abnormalities, but its invasive nature and reliance on fluorescein dye limit routine use in vulnerable infants. Generative synthesis may provide non-invasive angiographic approximations. However, infant imaging often relies on manually operated handheld contact fundus cameras, with variations in probe angle, contact pressure, and field of view between separate CFP and FFA acquisitions contributing to weak spatial correspondence between modalities. In this paper, we present InfantAngio, a diffusion-based framework that reformulates CFP-to-FFA synthesis as a deterministic latent transport trajectory. Developed and evaluated using 83,950 registration-derived image-pair records from 259 infants, InfantAngio showed favorable performance across quantitative image-quality benchmarks, while ophthalmologists distinguished real from synthesized FFA images with near-chance accuracy of 49.8% in blinded assessment. Adding synthesized FFA to CFP improved both downstream classifier performance and overall diagnostic accuracy in a retrospective ophthalmologist reader study. These results support synthesized FFA as a potentially useful non-invasive adjunct for screening high-risk infants, with the possibility of reducing reliance on dye-based procedures in real-world clinical scenarios."
+        }
+      ]
     }
   }
 }

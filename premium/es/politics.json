@@ -7981,6 +7981,141 @@
           "x": "GOSRN es un foro internacional en el que cooperan reguladores independientes de distintos países en materia de seguridad en línea; participan 11 organismos, entre ellos la comisión coreana, Ofcom del Reino Unido, la Comisión eSafety de Australia y ARCOM de Francia."
         }
       ]
+    },
+    "politics/politics-uk-datacenter-petition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5289080.jpg?imageId=5289080&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "El Gobierno de UK ha rechazado los llamamientos a una consulta pública UK-wide sobre el impacto ambiental de los centros de datos de AI, pese a que una petición reunió más de 39,000 firmas. El grupo de campaña Protect the Wild lanzó la petición el mes pasado."
+        },
+        {
+          "t": "p",
+          "x": "En su respuesta, publicada el 23 de noviembre, el Gobierno descartó la consulta ambiental en todo UK que se solicitaba y afirmó que el impacto de cada proyecto debe abordarse mediante el proceso de planificación. En su lugar, remitió a una consulta distinta sobre su borrador de política de planificación de centros de datos, abierta hasta el 8 de enero de 2027."
+        },
+        {
+          "t": "p",
+          "x": "\"Los centros de datos son vitales para la economía digital de UK. … También proporcionan la infraestructura necesaria para desarrollar y usar la AI\", afirma el Department for Business, Innovation, Science and Trade (BIST). Añade que el impacto ambiental es real y debe entenderse y mitigarse, una de las razones por las que estableció las pruebas del Data Centre Covenant."
+        },
+        {
+          "t": "p",
+          "x": "Protect the Wild señala que el Covenant \"apenas reconoce la fauna, los hábitats o la biodiversidad\" y sostiene que tratar las preocupaciones ambientales proyecto por proyecto es un obstáculo importante para abordar las emisiones de gases de efecto invernadero a escala nacional."
+        },
+        {
+          "t": "p",
+          "x": "Un informe distinto reveló que el Gobierno se reunió con 137 empresas diferentes para hablar de centros de datos entre julio de 2024 y junio de 2026, pero no se reunió con ningún grupo comunitario ni organización ambiental en el mismo periodo."
+        }
+      ]
+    },
+    "politics/politics-au-deepfake-inquiry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://live-production.wcms.abc-cdn.net.au/0de28958f63ae3e495fc06eada3bf797",
+          "cap": "Algunos activistas de campaña consideran usar AI generativa en futuras campañas electorales.(Reuters: Dado Ruvic, Illustration)"
+        },
+        {
+          "t": "p",
+          "x": "Una prohibición de los deepfakes en los anuncios políticos podría estar en camino, ya que una investigación parlamentaria bipartidista impulsa el cambio. Pide que una comisión parlamentaria examine qué cambios necesitan las leyes electorales de Australia para prohibir los deepfakes en los materiales electorales."
+        },
+        {
+          "t": "p",
+          "x": "La iniciativa llega tras un anuncio electoral generado con AI (AI-generated) difundido por Victorian Labor, con deepfakes de la líder Liberal del estado, Jess Wilson, y de Warren Pickering, de One Nation. La diputada federal independiente (MP) Kate Chaney, miembro de la comisión, quiere que la prohibición esté vigente para las próximas elecciones federales, previstas en 2028: \"Nuestra democracia se basa en poder tomar una decisión informada, y no podemos tomar una decisión informada si la información que tenemos delante se basa en deepfakes\"."
+        },
+        {
+          "t": "p",
+          "x": "El profesor Terry Flew, codirector del Centre for Artificial Intelligence, Trust and Governance, califica la recomendación de propuesta positiva e importante: \"intentar legislar sobre la desinformación en general choca con el problema\" de la definición, \"pero existen posibilidades de identificar un problema concreto, que es el uso de deepfakes en la publicidad política\"."
+        },
+        {
+          "t": "p",
+          "x": "El Gobierno está estudiando el informe de la comisión."
+        }
+      ]
+    },
+    "politics/politics-gyeongnam-deepfake-referral": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+          "cap": "La policía concluye el registro de la sede del gobierno de Gyeongnam — Agentes regresan a la Agencia de Policía Provincial de Gyeongnam con los objetos incautados tras terminar el registro de la sede del gobierno provincial el pasado 9 de junio."
+        },
+        {
+          "t": "p",
+          "x": "La policía concluyó la investigación sobre las 'sospechas de video deepfake e injerencia oficial en las elecciones' surgidas en la campaña de Park Wan-su, candidato del Partido del Poder Popular a gobernador de Gyeongnam en las elecciones locales del 3 de junio, y remitió a 12 personas a la fiscalía. El gobernador Park no fue remitido."
+        },
+        {
+          "t": "p",
+          "x": "La División de Investigación Cibernética de la Agencia de Policía Provincial de Gyeongnam informó el día 27 que remitió a la Fiscalía de Distrito de Changwon a un total de 12 personas, entre ellas 3 funcionarios actuales y antiguos, miembros de la campaña y personal de una productora de videos promocionales, por presunta infracción de la Ley de Elecciones de Cargos Públicos, entre otros cargos."
+        },
+        {
+          "t": "p",
+          "x": "De ellos, 9 están acusados de recibir dinero a cambio de producir videos promocionales mientras trabajaban en la campaña de Park durante las elecciones locales del 3 de junio. Los 3 funcionarios actuales y antiguos están acusados, entre otras cosas, de intervenir en la elección siendo funcionarios públicos. De los 12, 8 también están acusados, entre otros cargos, de crear un organismo similar a una campaña en lugar de una campaña oficial."
+        },
+        {
+          "t": "p",
+          "x": "En cuanto a la sospecha de que los investigados produjeron videos deepfake, se decidió no remitir el caso porque, aunque sí se usó tecnología de inteligencia artificial (AI), los videos no eran difíciles de distinguir de la realidad."
+        },
+        {
+          "t": "p",
+          "x": "La policía decidió no remitir al gobernador Park por la presunta infracción de la Ley de Elecciones de Cargos Públicos. \"La investigación sobre el gobernador Park no halló pruebas directas, por lo que tomamos esta decisión por falta de pruebas\", dijo un funcionario policial."
+        },
+        {
+          "t": "p",
+          "x": "La investigación se originó en las acusaciones de que la campaña de Park produjo y difundió videos deepfake, entre otros materiales, para desacreditar al candidato rival Kim Kyoung-soo, del Partido Democrático, y de que funcionarios actuales y antiguos que trabajaban en la campaña intervinieron en actividades electorales."
+        }
+      ]
+    },
+    "politics/politics-russia-ai-strategy-2036": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.cn-insight.kr/news/photo/202611/3408_6015_4859.jpg",
+          "cap": "El presidente Putin y el presidente de Kazajistán, Tokáyev, en ‘AI Journey’ el 26 de noviembre (foto: kremlin.ru)."
+        },
+        {
+          "t": "p",
+          "x": "El presidente ruso, Vladímir Putin, afirmó el día 26 en Moscú que, para situarse a la cabeza de la investigación y el desarrollo en inteligencia artificial (AI), es necesario renovar la estrategia nacional correspondiente. También presentó 4 requisitos para apoyar el desarrollo de modelos de AI propios."
+        },
+        {
+          "t": "p",
+          "x": "Putin, que asistió junto al presidente de Kazajistán, Kasim-Yomart Tokáyev, a la conferencia 'AI Journey' y pronunció un discurso, dijo que debe actualizarse la 'Estrategia Nacional de AI de Rusia hasta 2036' y aprobarse el plan de acción nacional correspondiente."
+        },
+        {
+          "t": "p",
+          "x": "Los 4 requisitos son: ▲digitalizar grandes volúmenes de datos reales y fiables para entrenar los modelos de AI del país ▲incluir una 'pantalla de selección' en todos los sistemas operativos usados en los dispositivos móviles en Rusia, para que los usuarios elijan el modelo o agente de AI que deseen, incluidos los productos nacionales ▲crear condiciones que aceleren la difusión de modelos de AI propios para impulsar la inversión y la investigación y el desarrollo ▲ampliar el uso de la AI en la investigación científica y en los proyectos nacionales de desarrollo de alta tecnología."
+        },
+        {
+          "t": "p",
+          "x": "Propuso crear un marco institucional de cooperación entre el Gobierno y el capital privado para construir infraestructuras como centros de procesamiento de datos, mejoras de la red eléctrica y sistemas de refrigeración. También dijo que debe definirse el alcance de las atribuciones, es decir, qué tareas no deben realizar los agentes de AI sin control e intervención humanos."
+        },
+        {
+          "t": "p",
+          "x": "Fuente: Xinhua (2026.11.27)"
+        }
+      ]
+    },
+    "politics/commerce-si-exports-consortia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+        },
+        {
+          "t": "p",
+          "x": "El Departamento de Comercio, a través de la Administración de Comercio Internacional (ITA), establece la vía On-Demand Consortia dentro del Programa de Exportaciones de Superinteligencia (SI) autorizado por la Orden Ejecutiva 14320: Promoción de la Exportación de la Pila Tecnológica de SI Estadounidense. (Según la Orden Ejecutiva 14434, las agencias usan “Super Intelligence” y “SI” en lugar de “Artificial Intelligence” y “AI”.) Las solicitudes podrán presentarse a partir del 30 de noviembre de 2026, de forma continua."
+        },
+        {
+          "t": "p",
+          "x": "Los On-Demand Consortia son agrupaciones lideradas por la industria que se forman para responder a una oportunidad de exportación concreta e identificada en el extranjero. A diferencia de los Pre-Set Consortia, sus paquetes solo deben ofrecer las capas de la pila de SI necesarias para cubrir la demanda del comprador, pero deben mostrar cómo se combinan con infraestructura existente o adquirida para dar lugar a un paquete tecnológico de SI full-stack. Los solicitantes deben demostrar que la oportunidad existe o es inminente y que hay una probabilidad razonable de que el paquete sea seleccionado."
+        },
+        {
+          "t": "p",
+          "x": "El secretario de Comercio, en consulta con los secretarios de Estado, Guerra y Energía y el director de la OSTP, tomará las decisiones de designación con base en el interés nacional, y prevé emitir una decisión en un plazo de 60 días naturales. No hay un tope numérico de designaciones. El aviso también contempla la redesignación y la retirada de la designación de paquetes, y señala que las solicitudes de Pre-Set Consortia podrían volver a aceptarse más adelante."
+        }
+      ]
     }
   }
 }

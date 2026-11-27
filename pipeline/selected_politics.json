@@ -1,96 +1,96 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "politics",
   "dedup": {
     "checks": {
-      "https://www.federalregister.gov/documents/2026/11/27/2026-24107/american-si-exports-program-on-demand-consortia-for-specific-foreign-opportunities": {
+      "https://www.tokenpost.com/news/regulation/62603": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+        "nearest": "https://sarajacobs.house.gov/news/press-releases/jacobs-maloy-beyer-release-outline-for-sweeping-bipartisan-ai-safety-legislation",
         "new_action": ""
       },
-      "https://www.etnews.com/20261126000303": {
+      "https://www.theregister.com/off-prem/2026/11/27/uk-government-rejects-national-consultation-on-ai-datacenters/5312501": {
         "verdict": "new",
-        "nearest": "https://www.courthousenews.com/anthropic-must-face-claims-its-claude-max-pitch-misled-users/",
+        "nearest": "https://www.rapporteur.com/news/norway-suspends-electricity-grid-access-for-new-data-centres/",
         "new_action": ""
       },
-      "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt": {
+      "https://www.abc.net.au/listen/programs/am/parliamentary-inquiry-pushes-for-ban-on-election-ai-deepfakes/107428080": {
         "verdict": "new",
-        "nearest": "https://www.rapporteur.com/news/commission-updates-election-guidelines-for-ai-deepfake-risks/",
+        "nearest": "https://tribune.com.pk/story/2636906/ecp-proposes-rule-amendments-to-curb-ai-misuse-during-polls",
         "new_action": ""
       },
-      "https://www.yna.co.kr/view/AKR20261126137500001": {
+      "https://www.yna.co.kr/view/AKR20261127026700052": {
         "verdict": "new",
-        "nearest": "https://www.etnews.com/20261106000224",
+        "nearest": "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt",
         "new_action": ""
       },
-      "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/": {
-        "verdict": "follow-up",
-        "nearest": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/statement-on-uk-launch-of-meta-muse/",
-        "new_action": "A second UK regulator, the Financial Conduct Authority, publicly said Meta declined its request to jointly test the Muse agent before the UK launch. The FCA is seeking to understand how the agent makes payments and acts autonomously. The 11-25 card was the ICO's data-protection statement."
+      "https://www.cn-insight.kr/news/articleView.html?idxno=3408": {
+        "verdict": "new",
+        "nearest": "https://www.japantimes.co.jp/news/2026/11/25/japan/ai-nation-aim/",
+        "new_action": ""
       }
     },
-    "note": "Dropped as running-story duplicates: The Decoder on Nvidia halting server shipments to Malaysia, Singapore, Thailand and Indonesia. It is a company reaction to the SE-Asia licence curbs already carded on 11-13 (Yonhap) and 11-24 (BIS Entity List), so there is no new government action. The Decoder on Z.AI and Moonshot delaying models is analysis of the same export-control and distillation story. Not picked on merit: the Rapporteur MEPs' nudifier letter (a letter, not a decision; it overlaps the 11-26 GOSRN card), GOV.UK compute-demand report (compute noise), GOV.UK FCDO Thrive £27m programme (a strong alternate if a swap is needed), Guardian court-cases AI misuse (investigative tally), The Register India cradle-to-grave (proposal or vision), The Register ARTEX (threat intel, close to the 11-17 FBI/AWS card), and MIT TR open records (feature). Cross-section notes: the brief assigns Apple Siri to politics only and Meta Muse/FCA to politics only. I could not grep published_urls.json across all sections because it is too large for Read, so the orchestrator should exact-grep these 5 URLs plus 'SI Exports', 'M.AX', '시리', 'Sánchez' and 'Muse' before roll."
+    "note": "Dropped as published duplicates: Verge Character.AI 42 state AGs (same bankruptcy-auction chat-sale story as the 11-25 ctnewsjunkie card, per the brief), dginclusion 행안부 공공 AI 가이드라인 (likely-repeat of the 11-25 korea.kr card), BBC Verify and DW Taiwan deepfakes (fact-check and analysis in the running Taiwan election-influence story carded 11-13, 11-21, 11-22 and 11-26, with no new government action), and 靑 AI수석 시험 AI 기업 책임 (a statement in the exam-cheating running story after the 11-22 TF card, with no new decision). Cluster c12 (ANTARA Indonesia 3 measures and Taipei Times Singapore 'engaging'): Singapore is a non-confirmation. Indonesia is the only one with a government response, so it is the best alternate, but I left it out because the halted Nvidia shipments were dropped yesterday as a running story. Not picked on merit: The Register ARTEX (Microsoft threat intel; ARTEX already ran in politics 10-11, and the closest card is the 11-17 FBI/AWS one), The Register India UP AI Stack (a tender, and leaving it out keeps The Register to 1), POLITICO Poland Palantir (a minister defending an existing deal), Canada C$700M AI Compute Access Fund (compute funding with no og_image; a strong alternate), MIT TR open records (feature), Rapporteur MEPs nudifier letter (a letter, overlaps the 11-26 GOSRN card), 안철수 AI 봇 법안 (an alternate; I kept Korea to 1 bill-free pick plus 1 enforcement pick), and The Diplomat US-China talks (analysis). Outlets: 5 distinct, each with 1 card. Axes: policy x2, elections x2, geopolitics x1. I could not grep published_urls.json across sections because it is too large for Read. The orchestrator should exact-grep these 5 URLs plus 'Recursive Self-Improvement', 'datacenter consultation', 'deepfake inquiry', '경남지사 딥페이크', '러시아 AI 국가전략' before roll."
   },
   "items": [
     {
-      "title": "American SI Exports Program; On-Demand Consortia for Specific Foreign Opportunities (Commerce/ITA notice)",
-      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24107/american-si-exports-program-on-demand-consortia-for-specific-foreign-opportunities",
-      "source": "Federal Register (U.S. Department of Commerce, ITA)",
+      "title": "House Lawmakers Introduce Bill Requiring Reports on AI-Built Models",
+      "url": "https://www.tokenpost.com/news/regulation/62603",
+      "source": "TokenPost",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "AI geopolitics, primary document: Commerce opens an On-Demand Consortia pathway under the EO 14320 SI Exports Program. From Nov 30, industry consortia can apply to have full-stack US AI export packages designated for specific foreign deals.",
-      "published_iso": "2026-11-25T13:45:00Z",
-      "og_image": "https://www.federalregister.gov/assets/open_graph_site_banner.png",
-      "excerpt": "Commerce's International Trade Administration sets up an On-Demand Consortia pathway under the Super Intelligence (SI) Exports Program created by EO 14320, so industry consortia can apply from Nov 30 to have full-stack US AI export packages designated for specific foreign opportunities. It also adds re-designation/de-designation rules and plans to reopen the Pre-Set Consortia pathway. (Filed for public inspection 11-25 08:45 ET; published in the FR 11-27.)"
+      "rationale": "AI policy, new bill: the bipartisan Recursive Self-Improvement Safety Act (Gottheimer and Moran, Nov 24) would require frontier developers above a compute threshold and $100M+ in training spend to file quarterly reports with a new Commerce office on AI involvement in their own R&D. Civil penalties go up to $10M.",
+      "published_iso": "2026-11-26T04:45:06Z",
+      "og_image": "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/b3d2f03709cf865ed17f50d0d9ccdcf62352951b14f2809f921ab1194064389b.webp",
+      "excerpt": "Reps. Josh Gottheimer and Nathaniel Moran introduced the bipartisan Recursive Self-Improvement Safety Act on Nov 24. Developers above a compute threshold who spent $100M+ on training would file quarterly reports on AI involvement and human oversight in R&D with a new Commerce office, with civil penalties up to $10M. Off-list; primary not located."
     },
     {
-      "title": "공정위, 애플 '시리' AI기능 지연…부당광고 혐의 심의 착수",
-      "url": "https://www.etnews.com/20261126000303",
-      "source": "전자신문",
+      "title": "UK government rejects national consultation on AI datacenters",
+      "url": "https://www.theregister.com/off-prem/2026/11/27/uk-government-rejects-national-consultation-on-ai-datacenters/5312501",
+      "source": "The Register",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "AI regulation, enforcement: the KFTC examiner's report alleging Apple advertised Apple Intelligence features as usable before they shipped went to the full commission. It proposes a fine based on 3.35 trillion won in related sales. Apple disputes the findings.",
-      "published_iso": "2026-11-26T13:44:24+09:00",
-      "og_image": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.0146605bd8f049f78c942047642820ce_P1.png",
-      "excerpt": "공정위 심사관이 애플·애플코리아가 아이폰16 판매 때 제공 시기가 불확실한 '애플 인텔리전스' AI 기능(개인 맥락 시리 등 4개)을 정상 이용 가능한 것처럼 광고했다며 표시광고법 위반 심사보고서를 24일 위원회에 상정했다. 관련 매출액 3조3527억원 기준 과징금 의견을 냈고, 애플은 결론에 동의하지 않는다는 입장이다."
+      "rationale": "AI infrastructure policy, official response: after a petition passed 39,000 signatures, the UK government refused a UK-wide consultation on the environmental impact of AI datacenters. It said environmental checks will stay project by project, which affects how AI compute gets sited in Britain.",
+      "published_iso": "2026-11-27T12:38:00Z",
+      "og_image": "https://image.theregister.com/5289080.jpg?imageId=5289080&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "The UK government rejected calls for a UK-wide public consultation on the environmental impact of AI datacenters, even though a petition passed 39,000 signatures. Ministers pointed to environmental checks done project by project instead."
     },
     {
-      "title": "Spanish opposition criticised for AI video of Pedro Sánchez in Morocco shirt",
-      "url": "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt",
-      "source": "The Guardian",
+      "title": "Parliamentary inquiry pushes for ban on election AI deepfakes",
+      "url": "https://www.abc.net.au/listen/programs/am/parliamentary-inquiry-pushes-for-ban-on-election-ai-deepfakes/107428080",
+      "source": "ABC (Australia)",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "AI in elections: an AI-altered campaign clip posted without disclosure days before Spain's general election. Critics cited by the Guardian say it may fall short of EU AI Act Article 50 transparency duties. It is an early real-world test of the deepfake-labelling rule.",
-      "published_iso": "2026-11-26T14:33:00Z",
-      "og_image": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop",
-      "excerpt": "Spain's People's Party posted an AI-altered version of a Sánchez campaign clip making it appear he put on a Morocco shirt, without any AI disclosure, prompting criticism that it may fall short of EU AI Act Article 50 transparency obligations days before Sunday's general election."
+      "rationale": "AI in elections, official report: a bipartisan Australian parliamentary inquiry recommended examining electoral-law changes that would outlaw deepfakes in election material and political ads. This is a concrete step toward a national ban on synthetic campaign media.",
+      "published_iso": "2026-11-25T20:10:00Z",
+      "og_image": "https://live-production.wcms.abc-cdn.net.au/0de28958f63ae3e495fc06eada3bf797",
+      "excerpt": "A bipartisan Australian parliamentary inquiry called for a committee to examine changes to electoral law that would outlaw deepfakes in election material and political ads. Off-list outlet."
     },
     {
-      "title": "산자위, 산업 AI전환·활용 촉진법안(M.AX법) 의결…제조업 지원",
-      "url": "https://www.yna.co.kr/view/AKR20261126137500001",
+      "title": "'경남지사 선거 딥페이크 의혹' 12명 송치…박완수 지사 불송치",
+      "url": "https://www.yna.co.kr/view/AKR20261127026700052",
       "source": "연합뉴스",
-      "tool": "Politics",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "Legislation, committee vote: the Assembly industry committee passed the Industrial AI Transformation Act (M.AX Act) by cross-party agreement. It gives a legal basis to the manufacturing AI alliance and tacit-knowledge data support, and the bill now moves to the Legislation and Judiciary Committee and then the plenary.",
-      "published_iso": "2026-11-26T15:44:39+09:00",
-      "og_image": "https://img8.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112607680001300_P4.jpg",
-      "excerpt": "국회 산자위가 26일 전체회의에서 '산업 인공지능 전환 및 활용 촉진법'(M.AX법)을 여야 합의로 의결했다. 제조업 AI 전환 얼라이언스와 암묵지 데이터 지원사업의 법적 근거를 마련했고, 외국인투자 안보심의 근거 신설 등도 함께 의결돼 법사위·본회의로 넘어간다."
-    },
-    {
-      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
-      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
-      "source": "WIRED",
       "tool": "Politics",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Agent regulation, follow-up: after the ICO's 11-25 statement, the FCA now says Meta declined joint pre-launch testing of the Muse agent. The FCA wants to understand how the agent makes payments and acts autonomously, which signals scrutiny of payment-capable agents.",
-      "published_iso": "2026-11-26T10:51:27Z",
-      "og_image": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/191:100/w_1280,c_limit/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg",
-      "excerpt": "The UK Financial Conduct Authority said Meta declined its request for joint testing of the Muse personal AI agent before its UK launch; the FCA wants to understand how agents make payments and act autonomously in consumers' interest."
+      "rationale": "AI in elections, enforcement: police closed the probe into deepfake videos and alleged official interference in the Gyeongnam governor race from the June 3 local elections. They referred 12 campaign staff and officials to prosecutors and did not refer Governor Park Wan-su.",
+      "published_iso": "2026-11-27T08:49:22+09:00",
+      "og_image": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+      "excerpt": "경찰이 6·3 지방선거 당시 경남지사 후보 캠프에서 불거진 딥페이크 영상·관권선거 의혹 수사를 마치고 캠프 관계자와 공무원 등 12명을 송치했고, 박완수 지사는 불송치했다. 외부 매체(off-list)."
+    },
+    {
+      "title": "러시아 소버린 AI 지원 계획...자국 모델 지원 4대 요건 제시",
+      "url": "https://www.cn-insight.kr/news/articleView.html?idxno=3408",
+      "source": "중국통신",
+      "tool": "Politics",
+      "accent": "#ff5a4d",
+      "motif": "cube",
+      "rationale": "AI geopolitics, executive order: Putin ordered an update to Russia's national AI strategy to 2036 and approval of an action plan. He set four requirements for state support of domestic models and floated a mandatory AI-model and agent choice screen on domestic mobile operating systems.",
+      "published_iso": "2026-11-27T15:49:12+09:00",
+      "og_image": "https://cdn.cn-insight.kr/news/photo/202611/3408_6015_4859.jpg",
+      "excerpt": "푸틴 러시아 대통령이 26일 '2036년까지의 러시아 AI 국가전략' 갱신과 국가 행동계획 승인을 지시하고, 자국 AI 모델 지원 요건 4가지를 제시했다. 국내 모바일 운영체제에 AI 모델·에이전트 선택 화면을 의무화하는 방안도 포함됐다. 외부 매체(off-list)."
     }
   ]
 }

@@ -1,95 +1,197 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-infant-fundus-angiography",
+      "id": "npj-clinical-llm-safety-divergence",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "조영제 없는 망막 혈관조영\n영아 안구 검진에 활용",
-      "body": "생성 모델이 어긋난 휴대형 영아 안저 사진을 조영제 없이 혈관조영상으로 바꾼다.",
-      "mini_headline": "조영제 없는 영아 망막 혈관조영",
+      "headline": "큰 임상 LLMs가\n늘 안전하진 않다",
+      "body": "임상 LLMs는 규모·검색·연산을 키우면 정확도는 오르나 안전성은 따로 재야 한다.",
+      "mini_headline": "커진 LLMs, 안전은 별개",
       "tool": "Medicine",
       "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03462-z",
+      "url": "https://www.nature.com/articles/s41746-026-03455-y",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "영아 망막 질환은 소아 실명의 주요 원인이다. 그런데 선별검사와 치료 방침을 정하는 혈관 소견은 컬러 안저 사진(CFP)에서 잘 안 보일 때가 많다. 형광안저혈관조영술(FFA)은 망막 혈관 이상을 혈관조영 영상으로 보여 주지만, 침습적인 데다 플루오레세인 조영제를 써야 해서 취약한 영아에게 일상적으로 쓰기 어렵다. 생성형 합성을 쓰면 침습 없이도 혈관조영에 가까운 영상을 얻을 수 있다. 문제는 영아 영상을 대개 손에 든 휴대형 접촉식 안저 카메라로 찍는다는 점이다. CFP와 FFA를 따로 촬영하다 보니 프로브 각도와 접촉 압력, 시야가 달라지고 두 영상의 공간 대응도 약하다. 연구진은 CFP-to-FFA 합성을 결정론적 잠재 공간 수송 궤적으로 재구성한 확산 기반 프레임워크 InfantAngio를 내놓았다. 영아 259명의 정합 기반 영상 쌍 기록 83,950건으로 개발·평가한 InfantAngio는 정량적 화질 벤치마크 전반에서 성능이 좋았다. 맹검 평가에서 안과 전문의가 실제 FFA와 합성 FFA를 가려낸 정확도는 49.8%로, 우연 수준에 가까웠다. 후향적 안과 전문의 판독 연구에서 CFP에 합성 FFA를 더하자 후속 분류기 성능과 전체 진단 정확도가 모두 향상됐다. 합성 FFA가 고위험 영아 선별검사에서 쓸모 있는 비침습 보조 수단이 되고, 실제 임상 현장의 조영제 기반 검사 의존도를 낮출 수 있다는 근거다."
+            "x": "임상 대규모 언어 모델(LLMs)은 흔히 모델 크기, 컨텍스트 길이, 검색 복잡도, 추론 시점 연산을 늘리는 식으로 키운다. 정확도가 높으면 더 안전하리라는 가정이 깔려 있다. 그러나 확신에 찬 오류나 근거와 어긋난 오류 몇 건이 평균 성능보다 무거운 의료에서는 이 가정이 들어맞지 않을 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 Safety-Focused Evaluation of Scaling(SaFE-Scale)을 제시하고 RadSaFE-200에 적용했다. RadSaFE-200은 텍스트 기반 영상의학 객관식 200문항 벤치마크다. 임상의가 정의한 깨끗한 근거와 상충 근거가 들어 있고, 고위험 오류·안전하지 않은 답·근거 모순을 선택지마다 라벨로 붙였다. 평가 대상은 로컬 LLMs 서른네 개였고, 폐쇄형(closed-book), 근거 기반, 표준 및 에이전트형 검색 증강 생성(RAG), 최대 컨텍스트 프롬프팅 등 여섯 가지 배포 조건을 썼다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03455-y/MediaObjects/41746_2026_3455_Fig1_HTML.png",
+            "cap": "Fig. 1: SaFE-Scale 평가 프레임워크 개요."
+          },
+          {
+            "t": "p",
+            "x": "임상의가 작성한 깨끗한 근거를 상한선으로 넣었을 때 여러 지표가 함께 가장 크게 좋아졌다. 평균 정확도는 73.5%에서 94.1%로 올랐고, 고위험 오류는 12.0%에서 2.6%로, 위험한 과신은 8.0%에서 1.6%로 줄었다. 표준 및 에이전트형 RAG, 최대 컨텍스트 프롬프팅, 추론 시점 연산은 일부 지표만 끌어올렸을 뿐 이런 안전성 양상을 재현하지 못했다."
+          },
+          {
+            "t": "p",
+            "x": "임상적으로 중대한 오류는 소수 문항에 몰렸다. 분산 분해에서는 모든 안전성 지표에 배포 조건이 모델 계열보다 크게 작용했다. 이번 평가에서 임상 LLM의 안전성은 정확도 확장을 따라가지 않았고, 배포 단계에서 정해지는 속성으로 드러났다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Dye-free retinal angiography\nfor infant eye screening",
-          "body": "A generative model turns misaligned handheld fundus photos of infants into angiography images without dye.",
-          "mini_headline": "Dye-free infant\nretinal angiography",
+          "headline": "Bigger clinical LLMs are\nnot always safer",
+          "body": "Scaling clinical LLMs by size, retrieval or compute lifts accuracy, yet safety must be measured separately.",
+          "mini_headline": "Bigger LLMs, not safer",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Infantile retinal diseases are a leading cause of childhood blindness, and vascular findings that guide screening and management are often poorly visible in color fundus photography (CFP). Fundus fluorescein angiography (FFA) provides angiographic visualization of retinal vascular abnormalities, but its invasive nature and reliance on fluorescein dye limit routine use in vulnerable infants. Generative synthesis may provide non-invasive angiographic approximations. However, infant imaging often relies on manually operated handheld contact fundus cameras, with variations in probe angle, contact pressure, and field of view between separate CFP and FFA acquisitions contributing to weak spatial correspondence between modalities. In this paper, we present InfantAngio, a diffusion-based framework that reformulates CFP-to-FFA synthesis as a deterministic latent transport trajectory. Developed and evaluated using 83,950 registration-derived image-pair records from 259 infants, InfantAngio showed favorable performance across quantitative image-quality benchmarks, while ophthalmologists distinguished real from synthesized FFA images with near-chance accuracy of 49.8% in blinded assessment. Adding synthesized FFA to CFP improved both downstream classifier performance and overall diagnostic accuracy in a retrospective ophthalmologist reader study. These results support synthesized FFA as a potentially useful non-invasive adjunct for screening high-risk infants, with the possibility of reducing reliance on dye-based procedures in real-world clinical scenarios."
+                "x": "Clinical large language models (LLMs) are commonly scaled by increasing model size, context length, retrieval complexity, or inference-time compute, on the assumption that higher accuracy implies safer behavior. In medicine, where a few confident or evidence-contradicting errors can outweigh average performance, this assumption may be incomplete."
+              },
+              {
+                "t": "p",
+                "x": "The authors introduce Safety-Focused Evaluation of Scaling (SaFE-Scale) and instantiate it on RadSaFE-200, a 200-question text-based radiology multiple-choice benchmark with clinician-defined clean evidence, conflict evidence, and option-level labels for high-risk error, unsafe answer, and evidence contradiction. Thirty-four local LLMs were evaluated across six deployment conditions spanning closed-book, evidence-grounded, standard and agentic retrieval-augmented generation (RAG), and max-context prompting."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03455-y/MediaObjects/41746_2026_3455_Fig1_HTML.png",
+                "cap": "Fig. 1: Overview of the SaFE-Scale evaluation framework."
+              },
+              {
+                "t": "p",
+                "x": "Clean clinician-written evidence, used as an upper-bound, produced the strongest joint gain, raising mean accuracy from 73.5% to 94.1% and reducing high-risk error from 12.0% to 2.6% and dangerous overconfidence from 8.0% to 1.6%. Standard and agentic RAG, max-context prompting, and inference-time compute improved selected metrics but did not reproduce this safety profile."
+              },
+              {
+                "t": "p",
+                "x": "Clinically consequential errors concentrated in a small subset of questions, and variance decomposition placed deployment condition above model family on every safety metric. Within this evaluation, clinical LLM safety did not track accuracy scaling but emerged as a deployment-level property."
               }
             ]
           }
         },
         "ko": {
-          "headline": "조영제 없는 망막 혈관조영\n영아 안구 검진에 활용",
-          "body": "생성 모델이 어긋난 휴대형 영아 안저 사진을 조영제 없이 혈관조영상으로 바꾼다.",
-          "mini_headline": "조영제 없는 영아 망막 혈관조영",
+          "headline": "큰 임상 LLMs가\n늘 안전하진 않다",
+          "body": "임상 LLMs는 규모·검색·연산을 키우면 정확도는 오르나 안전성은 따로 재야 한다.",
+          "mini_headline": "커진 LLMs, 안전은 별개",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "영아 망막 질환은 소아 실명의 주요 원인이다. 그런데 선별검사와 치료 방침을 정하는 혈관 소견은 컬러 안저 사진(CFP)에서 잘 안 보일 때가 많다. 형광안저혈관조영술(FFA)은 망막 혈관 이상을 혈관조영 영상으로 보여 주지만, 침습적인 데다 플루오레세인 조영제를 써야 해서 취약한 영아에게 일상적으로 쓰기 어렵다. 생성형 합성을 쓰면 침습 없이도 혈관조영에 가까운 영상을 얻을 수 있다. 문제는 영아 영상을 대개 손에 든 휴대형 접촉식 안저 카메라로 찍는다는 점이다. CFP와 FFA를 따로 촬영하다 보니 프로브 각도와 접촉 압력, 시야가 달라지고 두 영상의 공간 대응도 약하다. 연구진은 CFP-to-FFA 합성을 결정론적 잠재 공간 수송 궤적으로 재구성한 확산 기반 프레임워크 InfantAngio를 내놓았다. 영아 259명의 정합 기반 영상 쌍 기록 83,950건으로 개발·평가한 InfantAngio는 정량적 화질 벤치마크 전반에서 성능이 좋았다. 맹검 평가에서 안과 전문의가 실제 FFA와 합성 FFA를 가려낸 정확도는 49.8%로, 우연 수준에 가까웠다. 후향적 안과 전문의 판독 연구에서 CFP에 합성 FFA를 더하자 후속 분류기 성능과 전체 진단 정확도가 모두 향상됐다. 합성 FFA가 고위험 영아 선별검사에서 쓸모 있는 비침습 보조 수단이 되고, 실제 임상 현장의 조영제 기반 검사 의존도를 낮출 수 있다는 근거다."
+                "x": "임상 대규모 언어 모델(LLMs)은 흔히 모델 크기, 컨텍스트 길이, 검색 복잡도, 추론 시점 연산을 늘리는 식으로 키운다. 정확도가 높으면 더 안전하리라는 가정이 깔려 있다. 그러나 확신에 찬 오류나 근거와 어긋난 오류 몇 건이 평균 성능보다 무거운 의료에서는 이 가정이 들어맞지 않을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 Safety-Focused Evaluation of Scaling(SaFE-Scale)을 제시하고 RadSaFE-200에 적용했다. RadSaFE-200은 텍스트 기반 영상의학 객관식 200문항 벤치마크다. 임상의가 정의한 깨끗한 근거와 상충 근거가 들어 있고, 고위험 오류·안전하지 않은 답·근거 모순을 선택지마다 라벨로 붙였다. 평가 대상은 로컬 LLMs 서른네 개였고, 폐쇄형(closed-book), 근거 기반, 표준 및 에이전트형 검색 증강 생성(RAG), 최대 컨텍스트 프롬프팅 등 여섯 가지 배포 조건을 썼다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03455-y/MediaObjects/41746_2026_3455_Fig1_HTML.png",
+                "cap": "Fig. 1: SaFE-Scale 평가 프레임워크 개요."
+              },
+              {
+                "t": "p",
+                "x": "임상의가 작성한 깨끗한 근거를 상한선으로 넣었을 때 여러 지표가 함께 가장 크게 좋아졌다. 평균 정확도는 73.5%에서 94.1%로 올랐고, 고위험 오류는 12.0%에서 2.6%로, 위험한 과신은 8.0%에서 1.6%로 줄었다. 표준 및 에이전트형 RAG, 최대 컨텍스트 프롬프팅, 추론 시점 연산은 일부 지표만 끌어올렸을 뿐 이런 안전성 양상을 재현하지 못했다."
+              },
+              {
+                "t": "p",
+                "x": "임상적으로 중대한 오류는 소수 문항에 몰렸다. 분산 분해에서는 모든 안전성 지표에 배포 조건이 모델 계열보다 크게 작용했다. 이번 평가에서 임상 LLM의 안전성은 정확도 확장을 따라가지 않았고, 배포 단계에서 정해지는 속성으로 드러났다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "造影剤なしの網膜血管造影\n乳児の眼科検診へ応用",
-          "body": "生成モデルが、ずれのある手持ち撮影の乳児眼底写真を造影剤なしで血管造影画像に変換する。",
-          "mini_headline": "造影剤なしの乳児網膜血管造影",
+          "headline": "大きい臨床LLMsが\n安全とは限らない",
+          "body": "臨床LLMsは規模や検索、計算量で精度が上がるが、安全性は別に測る必要がある。",
+          "mini_headline": "大きなLLMsも安全とは限らない",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "乳児の網膜疾患は小児失明の主要な原因であり、スクリーニングや治療方針の指標となる血管所見は、カラー眼底写真(CFP)では見えにくいことが多い。フルオレセイン蛍光眼底造影(FFA)は網膜血管の異常を造影像として可視化するが、侵襲的でフルオレセイン色素を必要とするため、脆弱な乳児への日常的な使用は限られる。生成的な合成によって、非侵襲的に造影像に近い画像を得られる可能性がある。しかし乳児の撮影は手動操作のハンドヘルド接触型眼底カメラに頼ることが多く、別々に行うCFPとFFAの撮影の間でプローブの角度、接触圧、視野が変わるため、両モダリティ間の空間的対応が弱くなる。本論文では、CFP-to-FFA合成を決定論的な潜在輸送軌道として再定式化した拡散ベースのフレームワークInfantAngioを提示する。乳児259人から得た位置合わせ由来の画像ペア記録83,950件で開発・評価したInfantAngioは、定量的な画質ベンチマーク全般で良好な性能を示し、盲検評価で眼科医が実際のFFAと合成FFAを見分けた正答率は偶然に近い49.8%だった。後ろ向きの眼科医読影研究では、CFPに合成FFAを加えることで、下流の分類器の性能と全体的な診断精度がともに向上した。これらの結果は、合成FFAが高リスク乳児のスクリーニングにおける有用な非侵襲的補助手段となり得ること、そして実臨床で色素を用いる検査への依存を減らせる可能性を支持している。"
+                "x": "臨床向け大規模言語モデル(LLMs)は、精度が高ければより安全に振る舞うという前提のもと、モデルサイズ、コンテキスト長、検索の複雑さ、推論時の計算量を増やす形で拡張されることが多い。だが、確信を伴う誤りや根拠と矛盾する誤りがわずかでも平均性能を上回る重みを持ちうる医療では、この前提は不完全かもしれない。"
+              },
+              {
+                "t": "p",
+                "x": "著者らはSafety-Focused Evaluation of Scaling(SaFE-Scale)を提案し、RadSaFE-200で具体化した。RadSaFE-200は200問からなるテキストベースの放射線科多肢選択ベンチマークで、臨床医が定めたクリーンな根拠と相反する根拠、さらに高リスクの誤り、安全でない回答、根拠との矛盾を示す選択肢単位のラベルを備える。三十四のローカルLLMsを、クローズドブック、根拠付き、標準およびエージェント型の検索拡張生成(RAG)、最大コンテキストプロンプトにわたる六つの運用条件で評価した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03455-y/MediaObjects/41746_2026_3455_Fig1_HTML.png",
+                "cap": "Fig. 1: SaFE-Scale評価フレームワークの概要。"
+              },
+              {
+                "t": "p",
+                "x": "上限として用いた臨床医作成のクリーンな根拠が最も大きな同時改善をもたらし、平均精度を73.5%から94.1%に高め、高リスクの誤りを12.0%から2.6%に、危険な過信を8.0%から1.6%に減らした。標準およびエージェント型RAG、最大コンテキストプロンプト、推論時の計算量は一部の指標を改善したが、この安全性プロファイルは再現できなかった。"
+              },
+              {
+                "t": "p",
+                "x": "臨床的に重大な誤りは一部の問題に集中し、分散分解ではすべての安全性指標で運用条件がモデルファミリーを上回った。今回の評価では、臨床LLMの安全性は精度の拡張に連動せず、運用レベルの特性として現れた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "无需染料的视网膜血管造影\n用于婴儿眼病筛查",
-          "body": "生成模型可将未对齐的婴儿手持眼底照片转换为血管造影图像，无需染料。",
-          "mini_headline": "无需染料的婴儿视网膜血管造影",
+          "headline": "临床LLMs更大\n未必更安全",
+          "body": "临床LLMs靠扩大规模、检索或算力可提升准确率，但安全性须单独衡量。",
+          "mini_headline": "LLMs更大未必更安全",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "婴儿视网膜疾病是儿童失明的主要原因之一，而指导筛查和治疗的血管表现在彩色眼底照相（CFP）中往往难以看清。眼底荧光素血管造影（FFA）能够以血管造影方式显示视网膜血管异常，但其有创性以及对荧光素染料的依赖，限制了它在脆弱婴儿中的常规使用。生成式合成有望提供无创的血管造影近似图像。然而，婴儿影像通常依赖人工操作的手持接触式眼底相机，分别采集CFP和FFA时探头角度、接触压力和视野的差异，导致两种模态之间的空间对应较弱。本文提出InfantAngio，一种基于扩散的框架，将CFP-to-FFA合成重新表述为确定性的潜在传输轨迹。InfantAngio基于来自259名婴儿的83,950条配准衍生图像对记录进行开发和评估，在各项定量图像质量基准上表现良好；在盲法评估中，眼科医生区分真实与合成FFA图像的准确率为49.8%，接近随机水平。在一项回顾性眼科医生阅片研究中，在CFP基础上加入合成FFA，提升了下游分类器性能和整体诊断准确率。这些结果支持合成FFA作为高危婴儿筛查中一种可能有用的无创辅助手段，并有望在真实临床场景中减少对染料检查的依赖。"
+                "x": "临床大语言模型(LLMs)通常通过增加模型规模、上下文长度、检索复杂度或推理时算力来扩展，背后的假设是准确率越高、行为越安全。但在医学领域，少数自信满满或与证据相悖的错误就可能抵消平均表现，这一假设或许并不完整。"
+              },
+              {
+                "t": "p",
+                "x": "作者提出了Safety-Focused Evaluation of Scaling(SaFE-Scale)，并在RadSaFE-200上加以实施。RadSaFE-200是一个包含200道题的文本放射学选择题基准，配有临床医生界定的干净证据、冲突证据，以及针对高风险错误、不安全答案和证据矛盾的选项级标签。研究在六种部署条件下评估了三十四个本地LLMs，涵盖闭卷、基于证据、标准与智能体式检索增强生成(RAG)以及最大上下文提示。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03455-y/MediaObjects/41746_2026_3455_Fig1_HTML.png",
+                "cap": "Fig. 1: SaFE-Scale评估框架概览。"
+              },
+              {
+                "t": "p",
+                "x": "作为上限的临床医生撰写的干净证据带来了最大的综合提升：平均准确率从73.5%升至94.1%，高风险错误从12.0%降至2.6%，危险的过度自信从8.0%降至1.6%。标准与智能体式RAG、最大上下文提示和推理时算力改善了部分指标，但未能复现这一安全表现。"
+              },
+              {
+                "t": "p",
+                "x": "具有临床后果的错误集中在一小部分题目上，方差分解显示，在每项安全指标上，部署条件的影响都大于模型家族。在这项评估中，临床LLM的安全性并未随准确率扩展而提升，而是表现为一种部署层面的属性。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Angiografía retiniana sin tinte\npara el cribado ocular infantil",
-          "body": "Un modelo generativo convierte fotos desalineadas de fondo de ojo de bebés, tomadas a mano, en angiografías sin tinte.",
-          "mini_headline": "Angiografía retiniana infantil sin tinte",
+          "headline": "Los LLMs clínicos más grandes\nno siempre son más seguros",
+          "body": "Escalar LLMs clínicos en tamaño, recuperación o cómputo mejora la precisión, pero la seguridad debe medirse aparte.",
+          "mini_headline": "LLMs más grandes, no más seguros",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Las enfermedades retinianas infantiles son una de las principales causas de ceguera en la niñez, y los hallazgos vasculares que orientan el cribado y el tratamiento suelen verse mal en la fotografía de fondo de ojo en color (CFP). La angiografía con fluoresceína del fondo de ojo (FFA) permite visualizar las anomalías vasculares de la retina, pero su carácter invasivo y su dependencia del colorante de fluoresceína limitan su uso rutinario en bebés vulnerables. La síntesis generativa podría ofrecer aproximaciones angiográficas no invasivas. Sin embargo, las imágenes infantiles suelen depender de cámaras de fondo de ojo de contacto portátiles y operadas a mano, y las variaciones en el ángulo de la sonda, la presión de contacto y el campo de visión entre las adquisiciones separadas de CFP y FFA debilitan la correspondencia espacial entre modalidades. En este artículo presentamos InfantAngio, un marco basado en difusión que reformula la síntesis CFP-to-FFA como una trayectoria determinista de transporte latente. Desarrollado y evaluado con 83,950 registros de pares de imágenes derivados del corregistro de 259 bebés, InfantAngio mostró un rendimiento favorable en las pruebas cuantitativas de calidad de imagen, mientras que los oftalmólogos distinguieron las imágenes FFA reales de las sintetizadas con una precisión cercana al azar, del 49.8%, en una evaluación ciega. Añadir FFA sintetizada a la CFP mejoró tanto el rendimiento del clasificador posterior como la precisión diagnóstica global en un estudio retrospectivo de lectura por oftalmólogos. Estos resultados respaldan la FFA sintetizada como un complemento no invasivo potencialmente útil para el cribado de bebés de alto riesgo, con la posibilidad de reducir la dependencia de procedimientos con colorante en escenarios clínicos reales."
+                "x": "Los modelos de lenguaje de gran tamaño (LLMs) clínicos suelen escalarse aumentando el tamaño del modelo, la longitud de contexto, la complejidad de la recuperación o el cómputo en inferencia, con el supuesto de que una mayor precisión implica un comportamiento más seguro. En medicina, donde unos pocos errores confiados o contrarios a la evidencia pueden pesar más que el rendimiento medio, ese supuesto puede ser incompleto."
+              },
+              {
+                "t": "p",
+                "x": "Los autores presentan Safety-Focused Evaluation of Scaling (SaFE-Scale) y lo aplican en RadSaFE-200, un banco de pruebas de radiología de opción múltiple basado en texto con 200 preguntas, evidencia limpia y evidencia en conflicto definidas por clínicos, y etiquetas por opción para error de alto riesgo, respuesta insegura y contradicción con la evidencia. Se evaluaron treinta y cuatro LLMs locales en seis condiciones de despliegue que abarcan libro cerrado, anclaje en evidencia, generación aumentada por recuperación (RAG) estándar y agéntica, y prompting de contexto máximo."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03455-y/MediaObjects/41746_2026_3455_Fig1_HTML.png",
+                "cap": "Fig. 1: Panorama del marco de evaluación SaFE-Scale."
+              },
+              {
+                "t": "p",
+                "x": "La evidencia limpia redactada por clínicos, usada como límite superior, produjo la mayor mejora conjunta: elevó la precisión media del 73.5% al 94.1% y redujo el error de alto riesgo del 12.0% al 2.6% y el exceso de confianza peligroso del 8.0% al 1.6%. La RAG estándar y agéntica, el prompting de contexto máximo y el cómputo en inferencia mejoraron algunas métricas, pero no reprodujeron este perfil de seguridad."
+              },
+              {
+                "t": "p",
+                "x": "Los errores con consecuencias clínicas se concentraron en un pequeño subconjunto de preguntas, y la descomposición de la varianza situó la condición de despliegue por encima de la familia de modelos en todas las métricas de seguridad. En esta evaluación, la seguridad de los LLM clínicos no siguió al escalado de la precisión, sino que surgió como una propiedad del despliegue."
               }
             ]
           }
@@ -97,57 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "조영제 없는 망막 혈관조영\n영아 안구 검진에 활용",
-          "body": "생성 모델이 어긋난 휴대형 영아 안저 사진을 조영제 없이 혈관조영상으로 바꾼다.",
-          "mini_headline": "조영제 없는 영아 망막 혈관조영",
+          "headline": "큰 임상 LLMs가\n늘 안전하진 않다",
+          "body": "임상 LLMs는 규모·검색·연산을 키우면 정확도가 오르나 안전성은 따로 재야 한다.",
+          "mini_headline": "커진 LLMs, 안전은 별개",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "영아 망막 질환은 소아 실명의 주요 원인이며, 선별검사와 치료 방침을 정하는 혈관 소견은 컬러 안저 사진(CFP)에서 잘 보이지 않는 경우가 많다. 형광안저혈관조영술(FFA)은 망막 혈관 이상을 혈관조영 영상으로 보여 주지만, 침습적이고 플루오레세인 조영제에 의존해야 해 취약한 영아에게 일상적으로 쓰기 어렵다. 생성형 합성은 비침습적으로 혈관조영에 근접한 영상을 제공할 수 있다. 그러나 영아 영상은 대개 손으로 조작하는 휴대형 접촉식 안저 카메라에 의존하며, 따로 촬영하는 CFP와 FFA 사이에 프로브 각도, 접촉 압력, 시야가 달라져 두 영상 간 공간적 대응이 약하다. 이 논문에서 연구진은 CFP-to-FFA 합성을 결정론적 잠재 공간 수송 궤적으로 재구성한 확산 기반 프레임워크 InfantAngio를 제시한다. 영아 259명의 정합 기반 영상 쌍 기록 83,950건으로 개발·평가한 InfantAngio는 정량적 화질 벤치마크 전반에서 좋은 성능을 보였고, 맹검 평가에서 안과 전문의가 실제 FFA와 합성 FFA를 구별한 정확도는 우연 수준에 가까운 49.8%였다. 후향적 안과 전문의 판독 연구에서 CFP에 합성 FFA를 더하자 후속 분류기 성능과 전체 진단 정확도가 모두 향상됐다. 이 결과는 합성 FFA가 고위험 영아 선별검사에 유용한 비침습적 보조 수단이 될 수 있으며, 실제 임상 현장에서 조영제 기반 검사에 대한 의존을 줄일 가능성이 있음을 뒷받침한다."
+                "x": "임상 대규모 언어 모델(LLMs)은 흔히 모델 크기, 컨텍스트 길이, 검색 복잡도, 추론 시점 연산을 늘리는 방식으로 확장된다. 정확도가 높으면 더 안전하게 작동한다는 가정이 깔려 있다. 하지만 확신에 찬 오류나 근거와 어긋나는 오류 몇 건이 평균 성능보다 더 큰 의미를 갖는 의료에서는 이 가정이 불완전할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 Safety-Focused Evaluation of Scaling(SaFE-Scale)을 제시하고 이를 RadSaFE-200에 적용했다. RadSaFE-200은 200문항으로 된 텍스트 기반 영상의학 객관식 벤치마크로, 임상의가 정의한 깨끗한 근거와 상충 근거, 그리고 고위험 오류·안전하지 않은 답·근거 모순에 대한 선택지 단위 라벨을 갖췄다. 로컬 LLMs 서른네 개를 폐쇄형(closed-book), 근거 기반, 표준 및 에이전트형 검색 증강 생성(RAG), 최대 컨텍스트 프롬프팅에 걸친 여섯 가지 배포 조건에서 평가했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03455-y/MediaObjects/41746_2026_3455_Fig1_HTML.png",
+                "cap": "Fig. 1: SaFE-Scale 평가 프레임워크 개요."
+              },
+              {
+                "t": "p",
+                "x": "상한선으로 쓴 임상의 작성의 깨끗한 근거가 가장 큰 동반 개선을 낳았다. 평균 정확도는 73.5%에서 94.1%로 올랐고, 고위험 오류는 12.0%에서 2.6%로, 위험한 과신은 8.0%에서 1.6%로 줄었다. 표준 및 에이전트형 RAG, 최대 컨텍스트 프롬프팅, 추론 시점 연산은 일부 지표를 개선했지만 이 안전성 양상을 재현하지 못했다."
+              },
+              {
+                "t": "p",
+                "x": "임상적으로 중대한 오류는 소수 문항에 몰렸고, 분산 분해 결과 모든 안전성 지표에서 배포 조건이 모델 계열보다 큰 비중을 차지했다. 이번 평가에서 임상 LLM의 안전성은 정확도 확장을 따라가지 않았고, 배포 수준의 속성으로 나타났다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "造影剤なしの網膜血管造影\n乳児の眼科検診へ応用",
-          "body": "生成モデルが、ずれのある手持ち撮影の乳児眼底写真を造影剤なしで血管造影画像に変換する。",
-          "mini_headline": "造影剤なしの乳児網膜血管造影",
+          "headline": "大きい臨床LLMsが\n安全とは限らない",
+          "body": "臨床LLMsは規模や検索、計算量で精度が上がるが、安全性は別に測る必要がある。",
+          "mini_headline": "大きなLLMsも安全とは限らない",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "乳児の網膜疾患は小児失明の主要な原因であり、スクリーニングや治療方針の指標となる血管所見は、カラー眼底写真(CFP)では見えにくいことが多い。フルオレセイン蛍光眼底造影(FFA)は網膜血管の異常を造影像として可視化するが、侵襲的でフルオレセイン色素を必要とするため、脆弱な乳児への日常的な使用は限られる。生成的な合成によって、非侵襲的に造影像に近い画像を得られる可能性がある。しかし乳児の撮影は手動操作のハンドヘルド接触型眼底カメラに頼ることが多く、別々に行うCFPとFFAの撮影の間でプローブの角度、接触圧、視野が変わるため、両モダリティ間の空間的対応が弱くなる。本論文では、CFP-to-FFA合成を決定論的な潜在輸送軌道として再定式化した拡散ベースのフレームワークInfantAngioを提示する。乳児259人から得た位置合わせ由来の画像ペア記録83,950件で開発・評価したInfantAngioは、定量的な画質ベンチマーク全般で良好な性能を示し、盲検評価で眼科医が実際のFFAと合成FFAを見分けた正答率は偶然に近い49.8%だった。後ろ向きの眼科医読影研究では、CFPに合成FFAを加えることで、下流の分類器の性能と全体的な診断精度がともに向上した。これらの結果は、合成FFAが高リスク乳児のスクリーニングにおける有用な非侵襲的補助手段となり得ること、そして実臨床で色素を用いる検査への依存を減らせる可能性を支持している。"
+                "x": "臨床向け大規模言語モデル(LLMs)は、精度が高ければより安全に振る舞うという前提のもと、モデルサイズ、コンテキスト長、検索の複雑さ、推論時の計算量を増やす形で拡張されることが多い。だが、確信を伴う誤りや根拠と矛盾する誤りがわずかでも平均性能を上回る重みを持ちうる医療では、この前提は不完全かもしれない。"
+              },
+              {
+                "t": "p",
+                "x": "著者らはSafety-Focused Evaluation of Scaling(SaFE-Scale)を提案し、RadSaFE-200で具体化した。RadSaFE-200は200問からなるテキストベースの放射線科多肢選択ベンチマークで、臨床医が定めたクリーンな根拠と相反する根拠、さらに高リスクの誤り、安全でない回答、根拠との矛盾を示す選択肢単位のラベルを備える。三十四のローカルLLMsを、クローズドブック、根拠付き、標準およびエージェント型の検索拡張生成(RAG)、最大コンテキストプロンプトにわたる六つの運用条件で評価した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03455-y/MediaObjects/41746_2026_3455_Fig1_HTML.png",
+                "cap": "Fig. 1: SaFE-Scale評価フレームワークの概要。"
+              },
+              {
+                "t": "p",
+                "x": "上限として用いた臨床医作成のクリーンな根拠が最も大きな同時改善をもたらし、平均精度を73.5%から94.1%に高め、高リスクの誤りを12.0%から2.6%に、危険な過信を8.0%から1.6%に減らした。標準およびエージェント型RAG、最大コンテキストプロンプト、推論時の計算量は一部の指標を改善したが、この安全性プロファイルは再現できなかった。"
+              },
+              {
+                "t": "p",
+                "x": "臨床的に重大な誤りは一部の問題に集中し、分散分解ではすべての安全性指標で運用条件がモデルファミリーを上回った。今回の評価では、臨床LLMの安全性は精度の拡張に連動せず、運用レベルの特性として現れた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "无需染料的视网膜血管造影\n用于婴儿眼病筛查",
-          "body": "生成模型可将未对齐的婴儿手持眼底照片转换为血管造影图像，无需染料。",
-          "mini_headline": "无需染料的婴儿视网膜血管造影",
+          "headline": "临床LLMs更大\n未必更安全",
+          "body": "临床LLMs靠扩大规模、检索或算力可提升准确率，但安全性须单独衡量。",
+          "mini_headline": "LLMs更大未必更安全",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "婴儿视网膜疾病是儿童失明的主要原因之一，而指导筛查和治疗的血管表现在彩色眼底照相（CFP）中往往难以看清。眼底荧光素血管造影（FFA）能够以血管造影方式显示视网膜血管异常，但其有创性以及对荧光素染料的依赖，限制了它在脆弱婴儿中的常规使用。生成式合成有望提供无创的血管造影近似图像。然而，婴儿影像通常依赖人工操作的手持接触式眼底相机，分别采集CFP和FFA时探头角度、接触压力和视野的差异，导致两种模态之间的空间对应较弱。本文提出InfantAngio，一种基于扩散的框架，将CFP-to-FFA合成重新表述为确定性的潜在传输轨迹。InfantAngio基于来自259名婴儿的83,950条配准衍生图像对记录进行开发和评估，在各项定量图像质量基准上表现良好；在盲法评估中，眼科医生区分真实与合成FFA图像的准确率为49.8%，接近随机水平。在一项回顾性眼科医生阅片研究中，在CFP基础上加入合成FFA，提升了下游分类器性能和整体诊断准确率。这些结果支持合成FFA作为高危婴儿筛查中一种可能有用的无创辅助手段，并有望在真实临床场景中减少对染料检查的依赖。"
+                "x": "临床大语言模型(LLMs)通常通过增加模型规模、上下文长度、检索复杂度或推理时算力来扩展，背后的假设是准确率越高、行为越安全。但在医学领域，少数自信满满或与证据相悖的错误就可能抵消平均表现，这一假设或许并不完整。"
+              },
+              {
+                "t": "p",
+                "x": "作者提出了Safety-Focused Evaluation of Scaling(SaFE-Scale)，并在RadSaFE-200上加以实施。RadSaFE-200是一个包含200道题的文本放射学选择题基准，配有临床医生界定的干净证据、冲突证据，以及针对高风险错误、不安全答案和证据矛盾的选项级标签。研究在六种部署条件下评估了三十四个本地LLMs，涵盖闭卷、基于证据、标准与智能体式检索增强生成(RAG)以及最大上下文提示。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03455-y/MediaObjects/41746_2026_3455_Fig1_HTML.png",
+                "cap": "Fig. 1: SaFE-Scale评估框架概览。"
+              },
+              {
+                "t": "p",
+                "x": "作为上限的临床医生撰写的干净证据带来了最大的综合提升：平均准确率从73.5%升至94.1%，高风险错误从12.0%降至2.6%，危险的过度自信从8.0%降至1.6%。标准与智能体式RAG、最大上下文提示和推理时算力改善了部分指标，但未能复现这一安全表现。"
+              },
+              {
+                "t": "p",
+                "x": "具有临床后果的错误集中在一小部分题目上，方差分解显示，在每项安全指标上，部署条件的影响都大于模型家族。在这项评估中，临床LLM的安全性并未随准确率扩展而提升，而是表现为一种部署层面的属性。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Angiografía retiniana sin tinte\npara el cribado ocular infantil",
-          "body": "Un modelo generativo convierte fotos desalineadas de fondo de ojo de bebés, tomadas a mano, en angiografías sin tinte.",
-          "mini_headline": "Angiografía retiniana infantil sin tinte",
+          "headline": "Los LLMs clínicos más grandes\nno siempre son más seguros",
+          "body": "Escalar LLMs clínicos en tamaño, recuperación o cómputo mejora la precisión, pero la seguridad debe medirse aparte.",
+          "mini_headline": "LLMs más grandes, no más seguros",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Las enfermedades retinianas infantiles son una de las principales causas de ceguera en la niñez, y los hallazgos vasculares que orientan el cribado y el tratamiento suelen verse mal en la fotografía de fondo de ojo en color (CFP). La angiografía con fluoresceína del fondo de ojo (FFA) permite visualizar las anomalías vasculares de la retina, pero su carácter invasivo y su dependencia del colorante de fluoresceína limitan su uso rutinario en bebés vulnerables. La síntesis generativa podría ofrecer aproximaciones angiográficas no invasivas. Sin embargo, las imágenes infantiles suelen depender de cámaras de fondo de ojo de contacto portátiles y operadas a mano, y las variaciones en el ángulo de la sonda, la presión de contacto y el campo de visión entre las adquisiciones separadas de CFP y FFA debilitan la correspondencia espacial entre modalidades. En este artículo presentamos InfantAngio, un marco basado en difusión que reformula la síntesis CFP-to-FFA como una trayectoria determinista de transporte latente. Desarrollado y evaluado con 83,950 registros de pares de imágenes derivados del corregistro de 259 bebés, InfantAngio mostró un rendimiento favorable en las pruebas cuantitativas de calidad de imagen, mientras que los oftalmólogos distinguieron las imágenes FFA reales de las sintetizadas con una precisión cercana al azar, del 49.8%, en una evaluación ciega. Añadir FFA sintetizada a la CFP mejoró tanto el rendimiento del clasificador posterior como la precisión diagnóstica global en un estudio retrospectivo de lectura por oftalmólogos. Estos resultados respaldan la FFA sintetizada como un complemento no invasivo potencialmente útil para el cribado de bebés de alto riesgo, con la posibilidad de reducir la dependencia de procedimientos con colorante en escenarios clínicos reales."
+                "x": "Los modelos de lenguaje de gran tamaño (LLMs) clínicos suelen escalarse aumentando el tamaño del modelo, la longitud de contexto, la complejidad de la recuperación o el cómputo en inferencia, con el supuesto de que una mayor precisión implica un comportamiento más seguro. En medicina, donde unos pocos errores confiados o contrarios a la evidencia pueden pesar más que el rendimiento medio, ese supuesto puede ser incompleto."
+              },
+              {
+                "t": "p",
+                "x": "Los autores presentan Safety-Focused Evaluation of Scaling (SaFE-Scale) y lo aplican en RadSaFE-200, un banco de pruebas de radiología de opción múltiple basado en texto con 200 preguntas, evidencia limpia y evidencia en conflicto definidas por clínicos, y etiquetas por opción para error de alto riesgo, respuesta insegura y contradicción con la evidencia. Se evaluaron treinta y cuatro LLMs locales en seis condiciones de despliegue que abarcan libro cerrado, anclaje en evidencia, generación aumentada por recuperación (RAG) estándar y agéntica, y prompting de contexto máximo."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03455-y/MediaObjects/41746_2026_3455_Fig1_HTML.png",
+                "cap": "Fig. 1: Panorama del marco de evaluación SaFE-Scale."
+              },
+              {
+                "t": "p",
+                "x": "La evidencia limpia redactada por clínicos, usada como límite superior, produjo la mayor mejora conjunta: elevó la precisión media del 73.5% al 94.1% y redujo el error de alto riesgo del 12.0% al 2.6% y el exceso de confianza peligroso del 8.0% al 1.6%. La RAG estándar y agéntica, el prompting de contexto máximo y el cómputo en inferencia mejoraron algunas métricas, pero no reprodujeron este perfil de seguridad."
+              },
+              {
+                "t": "p",
+                "x": "Los errores con consecuencias clínicas se concentraron en un pequeño subconjunto de preguntas, y la descomposición de la varianza situó la condición de despliegue por encima de la familia de modelos en todas las métricas de seguridad. En esta evaluación, la seguridad de los LLM clínicos no siguió al escalado de la precisión, sino que surgió como una propiedad del despliegue."
               }
             ]
           }
@@ -155,15 +325,15 @@
       }
     },
     {
-      "id": "medicine-stanford-or-vision",
+      "id": "dki-mri-newborn-hie-outcome",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "수술실 카메라가\n수술 시각을 기록한다",
-      "body": "Stanford 연구에서 컴퓨터 비전이 수술실 시각을 사람만큼 정확히 기록했다.",
-      "mini_headline": "OR 카메라로 수술 시각 기록",
+      "headline": "MRI 모델이 경증\n신생아 HIE 예후 예측",
+      "body": "MRI·임상 모델로 mild-HIE 신생아 740명의 24개월 예후를 내다봤다.",
+      "mini_headline": "신생아 HIE 예측 MRI 모델",
       "tool": "Medicine",
-      "source": "JAMA Surgery",
-      "url": "https://jamanetwork.com/journals/jamasurgery/fullarticle/10.1001/jamasurg.2026.5500",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/clinical-news/mri/article/16543044/dki-may-improve-care-in-mild-newborn-hie-cases",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -171,101 +341,173 @@
         "blocks": [
           {
             "t": "p",
-            "x": "「Validation of Computer Vision in the Operating Room for Ambient Documentation」은 Stanford University School of Medicine이 JAMA Surgery에 낸 Research Letter(AI in Surgery)다. 수술실에서 이뤄지는 여러 시술의 앰비언트 타임스탬프 기록을 검증하려는 연구다."
+            "x": "MRI 기법과 임상 평가를 결합한 머신러닝 접근법이 경증 저산소성 허혈성 뇌병증(HIE) 신생아 진료를 개선할 수 있다는 연구가 11월 24일 Radiology에 실렸다. 연구 책임자는 중국 허난과학기술대학교 제1부속병원(First Affiliated Hospital of Henan University of Science and Technology)의 Xianglong Liu, MD다."
           },
           {
             "t": "p",
-            "x": "저자들에 따르면 환자 입실·퇴실처럼 기록해 둘 만한 사건은 상당수가 시각 단서로 확인되는데, 실제 현장 도입이나 검증 연구는 아직 드물다. 저자들은 단일 기관에서 여러 시술에 걸쳐 OR 앰비언트 타임스탬프 기록을 검증한 경험과 도입을 가능하게 한 거버넌스 체계를 함께 소개한다."
+            "x": "Liu 연구팀은 “영상 단독 모델과 임상 단독 모델의 판별력은 차이가 없었지만, 둘을 결합하자 판별력이 개선됐다. 두 데이터 소스가 상호 보완적이라는 뜻이다”라고 썼다."
+          },
+          {
+            "t": "p",
+            "x": "전향적으로 설계된 이 연구는 2019년부터 2023년까지 병원 네 곳에서 진행됐고, 24개월 추적 관찰은 2025년에 마무리됐다. 연구진은 DKI 지표 49개와 임상 변수 일곱 개로 임상 단독, 영상 단독, 임상·영상 결합 모델을 만들었다. 최종 분석 대상은 평균 재태 연령 38.3주의 신생아 740명이었다."
+          },
+          {
+            "t": "p",
+            "x": "외부 검증 세트에서 결합 모델은 AUC 0.92, 민감도 86%, 특이도 85.3%로 임상 단독 모델(AUC 0.85)과 영상 단독 모델(AUC 0.86)을 앞섰다. 미리 정한 기준으로 위험을 층화하자 저위험 영아의 음성 예측도는 완벽했고, 고위험 영아의 양성 예측도는 88%였다."
+          },
+          {
+            "t": "p",
+            "x": "그래도 연구진은 예측이 “임상적 판단을 대체해서는 안 된다”고 못 박았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Operating-room cameras log\nsurgical timestamps",
-          "body": "A Stanford study finds computer vision documents operating-room timestamps with human-level accuracy.",
-          "mini_headline": "OR cameras log\nsurgery times",
+          "headline": "MRI model predicts outcomes\nin mild newborn HIE",
+          "body": "A model pairing diffusion kurtosis MRI with clinical data predicted 24-month outcomes in 740 mild-HIE newborns.",
+          "mini_headline": "MRI model for newborn HIE",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Validation of Computer Vision in the Operating Room for Ambient Documentation — a JAMA Surgery Research Letter (AI in Surgery) from Stanford University School of Medicine. This study aims to validate ambient timestamp documentation for a variety of procedures in the operating room."
+                "x": "A machine-learning approach that combines an MRI technique with clinical assessment could improve care for newborns with mild hypoxic-ischemic encephalopathy (HIE), suggest findings published November 24 in Radiology. The study was led by Xianglong Liu, MD, from the First Affiliated Hospital of Henan University of Science and Technology in China."
               },
               {
                 "t": "p",
-                "x": "The authors note that many of the events worth documenting rely on visual cues, such as patient entry and exit, yet real-world implementation and validation studies remain scarce. They present their single-center experience validating ambient timestamp documentation in the OR across a range of procedures, and describe the governance framework that enabled its implementation."
+                "x": "“Imaging-only and clinical-only discrimination did not differ, whereas their combination improved discrimination, indicating that the two data sources were complementary,” the Liu team wrote."
+              },
+              {
+                "t": "p",
+                "x": "The prospective study took place at four hospitals between 2019 and 2023, with 24-month follow-up being completed in 2025. The researchers developed clinical-only, imaging-only, and combined clinical-imaging models from 49 DKI parameters and seven clinical variables. Final analysis included 740 newborns with a mean gestational age of 38.3 weeks."
+              },
+              {
+                "t": "p",
+                "x": "In the external test set, the combined model achieved an AUC of 0.92, with a sensitivity of 86% and a specificity of 85.3%. It outperformed the clinical-only model (AUC, 0.85) and imaging-only model (AUC, 0.86). Prespecified risk stratification led to a perfect negative predictive value for low-risk infants and a positive predictive value of 88% for high-risk infants."
+              },
+              {
+                "t": "p",
+                "x": "Despite the results, the study authors highlighted that predictions “should not replace clinical judgment.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "수술실 카메라가\n수술 시각을 기록한다",
-          "body": "Stanford 연구에서 컴퓨터 비전이 수술실 시각을 사람만큼 정확히 기록했다.",
-          "mini_headline": "OR 카메라로 수술 시각 기록",
+          "headline": "MRI 모델이 경증\n신생아 HIE 예후 예측",
+          "body": "MRI·임상 모델로 mild-HIE 신생아 740명의 24개월 예후를 내다봤다.",
+          "mini_headline": "신생아 HIE 예측 MRI 모델",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "「Validation of Computer Vision in the Operating Room for Ambient Documentation」은 Stanford University School of Medicine이 JAMA Surgery에 낸 Research Letter(AI in Surgery)다. 수술실에서 이뤄지는 여러 시술의 앰비언트 타임스탬프 기록을 검증하려는 연구다."
+                "x": "MRI 기법과 임상 평가를 결합한 머신러닝 접근법이 경증 저산소성 허혈성 뇌병증(HIE) 신생아 진료를 개선할 수 있다는 연구가 11월 24일 Radiology에 실렸다. 연구 책임자는 중국 허난과학기술대학교 제1부속병원(First Affiliated Hospital of Henan University of Science and Technology)의 Xianglong Liu, MD다."
               },
               {
                 "t": "p",
-                "x": "저자들에 따르면 환자 입실·퇴실처럼 기록해 둘 만한 사건은 상당수가 시각 단서로 확인되는데, 실제 현장 도입이나 검증 연구는 아직 드물다. 저자들은 단일 기관에서 여러 시술에 걸쳐 OR 앰비언트 타임스탬프 기록을 검증한 경험과 도입을 가능하게 한 거버넌스 체계를 함께 소개한다."
+                "x": "Liu 연구팀은 “영상 단독 모델과 임상 단독 모델의 판별력은 차이가 없었지만, 둘을 결합하자 판별력이 개선됐다. 두 데이터 소스가 상호 보완적이라는 뜻이다”라고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "전향적으로 설계된 이 연구는 2019년부터 2023년까지 병원 네 곳에서 진행됐고, 24개월 추적 관찰은 2025년에 마무리됐다. 연구진은 DKI 지표 49개와 임상 변수 일곱 개로 임상 단독, 영상 단독, 임상·영상 결합 모델을 만들었다. 최종 분석 대상은 평균 재태 연령 38.3주의 신생아 740명이었다."
+              },
+              {
+                "t": "p",
+                "x": "외부 검증 세트에서 결합 모델은 AUC 0.92, 민감도 86%, 특이도 85.3%로 임상 단독 모델(AUC 0.85)과 영상 단독 모델(AUC 0.86)을 앞섰다. 미리 정한 기준으로 위험을 층화하자 저위험 영아의 음성 예측도는 완벽했고, 고위험 영아의 양성 예측도는 88%였다."
+              },
+              {
+                "t": "p",
+                "x": "그래도 연구진은 예측이 “임상적 판단을 대체해서는 안 된다”고 못 박았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "手術室カメラが\n手術の時刻を記録",
-          "body": "Stanfordの研究で、コンピュータービジョンが手術室の時刻を人並みの精度で記録した。",
-          "mini_headline": "ORカメラで手術時刻を記録",
+          "headline": "MRIモデルが軽症新生児\nHIEの予後を予測",
+          "body": "MRIと臨床データの統合モデルがmild-HIE新生児740人の24カ月予後を予測した。",
+          "mini_headline": "新生児HIEのMRIモデル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "「Validation of Computer Vision in the Operating Room for Ambient Documentation」は、Stanford University School of MedicineによるJAMA SurgeryのResearch Letter(AI in Surgery)である。本研究は、手術室で行われるさまざまな手技を対象に、アンビエントなタイムスタンプ記録を検証することを目的とする。"
+                "x": "MRI技術と臨床評価を組み合わせた機械学習の手法が、軽症の低酸素性虚血性脳症(HIE)の新生児のケアを改善しうることが、11月24日にRadiologyで発表された研究で示された。研究を率いたのは、中国の河南科技大学第一附属病院(First Affiliated Hospital of Henan University of Science and Technology)のXianglong Liu, MDである。"
               },
               {
                 "t": "p",
-                "x": "著者らは、患者の入退室のように記録すべき出来事の多くが視覚的手がかりに依存している一方、実臨床での導入や検証の研究はいまだ乏しいと指摘する。そのうえで、さまざまな手技にわたってORでのアンビエントなタイムスタンプ記録を検証した単一施設での経験を示し、その導入を可能にしたガバナンスの枠組みを説明している。"
+                "x": "Liuらは「画像のみと臨床のみの識別能に差はなかったが、両者を組み合わせると識別能が向上した。二つのデータ源が相補的であることを示している」と記した。"
+              },
+              {
+                "t": "p",
+                "x": "この前向き研究は2019年から2023年にかけて四つの病院で行われ、24カ月の追跡は2025年に完了した。研究チームは49のDKIパラメータと七つの臨床変数から、臨床のみ、画像のみ、臨床と画像の統合の各モデルを構築した。最終解析には平均在胎週数38.3週の新生児740人が含まれた。"
+              },
+              {
+                "t": "p",
+                "x": "外部テストセットで統合モデルはAUC 0.92、感度86%、特異度85.3%を達成し、臨床のみのモデル(AUC 0.85)と画像のみのモデル(AUC 0.86)を上回った。事前に定めたリスク層別化により、低リスク児では陰性的中率が完全となり、高リスク児では陽性的中率が88%となった。"
+              },
+              {
+                "t": "p",
+                "x": "それでも著者らは、予測は「臨床判断に取って代わるべきではない」と強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "手术室摄像头\n记录手术时间戳",
-          "body": "Stanford一项研究发现，计算机视觉记录手术室时间戳的准确度可达人类水平。",
-          "mini_headline": "OR摄像头记录手术时间",
+          "headline": "MRI模型预测\n轻度新生儿HIE预后",
+          "body": "结合扩散峰度MRI与临床数据的模型预测了740名mild-HIE新生儿24个月的预后。",
+          "mini_headline": "新生儿HIE的MRI模型",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "《Validation of Computer Vision in the Operating Room for Ambient Documentation》是Stanford University School of Medicine发表于JAMA Surgery的一篇Research Letter（AI in Surgery）。该研究旨在验证手术室中多种手术的环境式时间戳记录。"
+                "x": "11月24日发表于Radiology的研究显示，一种将MRI技术与临床评估相结合的机器学习方法，有望改善轻度缺氧缺血性脑病(HIE)新生儿的诊疗。研究由中国河南科技大学第一附属医院(First Affiliated Hospital of Henan University of Science and Technology)的Xianglong Liu, MD牵头。"
               },
               {
                 "t": "p",
-                "x": "作者指出，许多值得记录的事件依赖视觉线索，例如患者进出手术室，但真实场景中的实施与验证研究仍然稀少。他们介绍了在单一中心验证OR内多种手术环境式时间戳记录的经验，并说明了使其得以实施的治理框架。"
+                "x": "Liu团队写道：“仅用影像和仅用临床信息的判别能力没有差异，而二者结合后判别能力提高，说明这两类数据来源具有互补性。”"
+              },
+              {
+                "t": "p",
+                "x": "这项前瞻性研究于2019年至2023年在四家医院开展，24个月随访于2025年完成。研究人员基于49个DKI参数和七个临床变量，分别构建了仅临床、仅影像以及临床与影像结合的模型。最终分析纳入740名新生儿，平均胎龄38.3周。"
+              },
+              {
+                "t": "p",
+                "x": "在外部测试集中，结合模型的AUC为0.92，灵敏度为86%，特异度为85.3%，优于仅临床模型(AUC 0.85)和仅影像模型(AUC 0.86)。按预先设定的风险分层，低风险婴儿的阴性预测值达到完美，高风险婴儿的阳性预测值为88%。"
+              },
+              {
+                "t": "p",
+                "x": "尽管结果如此，研究作者仍强调，预测结果“不应取代临床判断”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cámaras de quirófano registran\nlos tiempos quirúrgicos",
-          "body": "Un estudio de Stanford halla que la visión artificial registra los tiempos del quirófano con precisión humana.",
-          "mini_headline": "Cámaras de OR registran tiempos quirúrgicos",
+          "headline": "Un modelo de MRI predice la\nevolución en HIE neonatal leve",
+          "body": "Un modelo con MRI de curtosis y datos clínicos predijo la evolución a 24 meses de 740 neonatos con mild-HIE.",
+          "mini_headline": "Modelo de MRI para HIE neonatal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Validation of Computer Vision in the Operating Room for Ambient Documentation — una Research Letter de JAMA Surgery (AI in Surgery) de la Stanford University School of Medicine. El estudio busca validar la documentación ambiental de marcas de tiempo en diversos procedimientos en el quirófano."
+                "x": "Un enfoque de aprendizaje automático que combina una técnica de MRI con la evaluación clínica podría mejorar la atención de los recién nacidos con encefalopatía hipóxico-isquémica (HIE) leve, según un estudio publicado el 24 de noviembre en Radiology. El trabajo fue dirigido por Xianglong Liu, MD, del Primer Hospital Afiliado de la Universidad de Ciencia y Tecnología de Henan (First Affiliated Hospital of Henan University of Science and Technology), en China."
               },
               {
                 "t": "p",
-                "x": "Los autores señalan que muchos de los eventos que conviene documentar dependen de señales visuales, como la entrada y salida del paciente, pero los estudios de implementación y validación en condiciones reales siguen siendo escasos. Presentan su experiencia en un solo centro al validar la documentación ambiental de marcas de tiempo en el OR en distintos procedimientos y describen el marco de gobernanza que hizo posible su implementación."
+                "x": "“La discriminación solo con imagen y solo con datos clínicos no difirió, mientras que su combinación la mejoró, lo que indica que ambas fuentes de datos eran complementarias”, escribió el equipo de Liu."
+              },
+              {
+                "t": "p",
+                "x": "El estudio prospectivo se realizó en cuatro hospitales entre 2019 y 2023, y el seguimiento a 24 meses concluyó en 2025. Los investigadores desarrollaron modelos solo clínicos, solo de imagen y combinados clínico-imagen a partir de 49 parámetros de DKI y siete variables clínicas. El análisis final incluyó a 740 recién nacidos con una edad gestacional media de 38.3 semanas."
+              },
+              {
+                "t": "p",
+                "x": "En el conjunto de prueba externo, el modelo combinado alcanzó un AUC de 0.92, con una sensibilidad del 86% y una especificidad del 85.3%. Superó al modelo solo clínico (AUC, 0.85) y al modelo solo de imagen (AUC, 0.86). La estratificación de riesgo predefinida dio un valor predictivo negativo perfecto en los lactantes de bajo riesgo y un valor predictivo positivo del 88% en los de alto riesgo."
+              },
+              {
+                "t": "p",
+                "x": "Pese a los resultados, los autores subrayaron que las predicciones “no deben sustituir el juicio clínico”."
               }
             ]
           }
@@ -273,73 +515,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "수술실 카메라가\n수술 시각을 기록한다",
-          "body": "Stanford 연구에서 컴퓨터 비전이 수술실 시각을 사람만큼 정확히 기록했다.",
-          "mini_headline": "OR 카메라로 수술 시각 기록",
+          "headline": "MRI 모델이 경증\n신생아 HIE 예후 예측",
+          "body": "MRI·임상 모델이 mild-HIE 신생아 740명의 24개월 예후를 예측했다.",
+          "mini_headline": "신생아 HIE 예측 MRI 모델",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "「Validation of Computer Vision in the Operating Room for Ambient Documentation」은 Stanford University School of Medicine이 JAMA Surgery에 낸 Research Letter(AI in Surgery)다. 이 연구는 수술실에서 이뤄지는 다양한 시술을 대상으로 앰비언트 타임스탬프 기록을 검증하는 것을 목표로 한다."
+                "x": "MRI 기법과 임상 평가를 결합한 머신러닝 접근법이 경증 저산소성 허혈성 뇌병증(HIE) 신생아의 진료를 개선할 수 있다는 연구 결과가 11월 24일 Radiology에 실렸다. 연구는 중국 허난과학기술대학교 제1부속병원(First Affiliated Hospital of Henan University of Science and Technology)의 Xianglong Liu, MD가 이끌었다."
               },
               {
                 "t": "p",
-                "x": "저자들은 환자의 입실과 퇴실처럼 기록할 가치가 있는 사건 상당수가 시각적 단서에 의존하지만, 실제 현장 도입과 검증 연구는 여전히 드물다고 지적한다. 이들은 단일 기관에서 여러 시술에 걸쳐 OR 앰비언트 타임스탬프 기록을 검증한 경험을 소개하고, 이를 도입할 수 있게 한 거버넌스 체계를 설명한다."
+                "x": "Liu 연구팀은 “영상 단독 모델과 임상 단독 모델의 판별력은 차이가 없었지만, 둘을 결합하자 판별력이 개선됐다. 두 데이터 소스가 상호 보완적이라는 뜻이다”라고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "이 전향적 연구는 2019년부터 2023년까지 네 곳의 병원에서 진행됐고, 24개월 추적 관찰은 2025년에 끝났다. 연구진은 DKI 지표 49개와 임상 변수 일곱 개로 임상 단독, 영상 단독, 임상·영상 결합 모델을 개발했다. 최종 분석에는 평균 재태 연령 38.3주인 신생아 740명이 포함됐다."
+              },
+              {
+                "t": "p",
+                "x": "외부 검증 세트에서 결합 모델은 AUC 0.92, 민감도 86%, 특이도 85.3%를 기록했다. 임상 단독 모델(AUC 0.85)과 영상 단독 모델(AUC 0.86)보다 성능이 좋았다. 사전에 정한 위험 층화를 적용하자 저위험 영아의 음성 예측도는 완벽했고, 고위험 영아의 양성 예측도는 88%였다."
+              },
+              {
+                "t": "p",
+                "x": "이런 결과에도 연구진은 예측이 “임상적 판단을 대체해서는 안 된다”고 강조했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "手術室カメラが\n手術の時刻を記録",
-          "body": "Stanfordの研究で、コンピュータービジョンが手術室の時刻を人並みの精度で記録した。",
-          "mini_headline": "ORカメラで手術時刻を記録",
+          "headline": "MRIモデルが軽症新生児\nHIEの予後を予測",
+          "body": "MRIと臨床データの統合モデルがmild-HIE新生児740人の24カ月予後を予測した。",
+          "mini_headline": "新生児HIEのMRIモデル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "「Validation of Computer Vision in the Operating Room for Ambient Documentation」は、Stanford University School of MedicineによるJAMA SurgeryのResearch Letter(AI in Surgery)である。本研究は、手術室で行われるさまざまな手技を対象に、アンビエントなタイムスタンプ記録を検証することを目的とする。"
+                "x": "MRI技術と臨床評価を組み合わせた機械学習の手法が、軽症の低酸素性虚血性脳症(HIE)の新生児のケアを改善しうることが、11月24日にRadiologyで発表された研究で示された。研究を率いたのは、中国の河南科技大学第一附属病院(First Affiliated Hospital of Henan University of Science and Technology)のXianglong Liu, MDである。"
               },
               {
                 "t": "p",
-                "x": "著者らは、患者の入退室のように記録すべき出来事の多くが視覚的手がかりに依存している一方、実臨床での導入や検証の研究はいまだ乏しいと指摘する。そのうえで、さまざまな手技にわたってORでのアンビエントなタイムスタンプ記録を検証した単一施設での経験を示し、その導入を可能にしたガバナンスの枠組みを説明している。"
+                "x": "Liuらは「画像のみと臨床のみの識別能に差はなかったが、両者を組み合わせると識別能が向上した。二つのデータ源が相補的であることを示している」と記した。"
+              },
+              {
+                "t": "p",
+                "x": "この前向き研究は2019年から2023年にかけて四つの病院で行われ、24カ月の追跡は2025年に完了した。研究チームは49のDKIパラメータと七つの臨床変数から、臨床のみ、画像のみ、臨床と画像の統合の各モデルを構築した。最終解析には平均在胎週数38.3週の新生児740人が含まれた。"
+              },
+              {
+                "t": "p",
+                "x": "外部テストセットで統合モデルはAUC 0.92、感度86%、特異度85.3%を達成し、臨床のみのモデル(AUC 0.85)と画像のみのモデル(AUC 0.86)を上回った。事前に定めたリスク層別化により、低リスク児では陰性的中率が完全となり、高リスク児では陽性的中率が88%となった。"
+              },
+              {
+                "t": "p",
+                "x": "それでも著者らは、予測は「臨床判断に取って代わるべきではない」と強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "手术室摄像头\n记录手术时间戳",
-          "body": "Stanford一项研究发现，计算机视觉记录手术室时间戳的准确度可达人类水平。",
-          "mini_headline": "OR摄像头记录手术时间",
+          "headline": "MRI模型预测\n轻度新生儿HIE预后",
+          "body": "结合扩散峰度MRI与临床数据的模型预测了740名mild-HIE新生儿24个月的预后。",
+          "mini_headline": "新生儿HIE的MRI模型",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "《Validation of Computer Vision in the Operating Room for Ambient Documentation》是Stanford University School of Medicine发表于JAMA Surgery的一篇Research Letter（AI in Surgery）。该研究旨在验证手术室中多种手术的环境式时间戳记录。"
+                "x": "11月24日发表于Radiology的研究显示，一种将MRI技术与临床评估相结合的机器学习方法，有望改善轻度缺氧缺血性脑病(HIE)新生儿的诊疗。研究由中国河南科技大学第一附属医院(First Affiliated Hospital of Henan University of Science and Technology)的Xianglong Liu, MD牵头。"
               },
               {
                 "t": "p",
-                "x": "作者指出，许多值得记录的事件依赖视觉线索，例如患者进出手术室，但真实场景中的实施与验证研究仍然稀少。他们介绍了在单一中心验证OR内多种手术环境式时间戳记录的经验，并说明了使其得以实施的治理框架。"
+                "x": "Liu团队写道：“仅用影像和仅用临床信息的判别能力没有差异，而二者结合后判别能力提高，说明这两类数据来源具有互补性。”"
+              },
+              {
+                "t": "p",
+                "x": "这项前瞻性研究于2019年至2023年在四家医院开展，24个月随访于2025年完成。研究人员基于49个DKI参数和七个临床变量，分别构建了仅临床、仅影像以及临床与影像结合的模型。最终分析纳入740名新生儿，平均胎龄38.3周。"
+              },
+              {
+                "t": "p",
+                "x": "在外部测试集中，结合模型的AUC为0.92，灵敏度为86%，特异度为85.3%，优于仅临床模型(AUC 0.85)和仅影像模型(AUC 0.86)。按预先设定的风险分层，低风险婴儿的阴性预测值达到完美，高风险婴儿的阳性预测值为88%。"
+              },
+              {
+                "t": "p",
+                "x": "尽管结果如此，研究作者仍强调，预测结果“不应取代临床判断”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cámaras de quirófano registran\nlos tiempos quirúrgicos",
-          "body": "Un estudio de Stanford halla que la visión artificial registra los tiempos del quirófano con precisión humana.",
-          "mini_headline": "Cámaras de OR registran tiempos quirúrgicos",
+          "headline": "Un modelo de MRI predice la\nevolución en HIE neonatal leve",
+          "body": "Un modelo con MRI de curtosis y datos clínicos predijo la evolución a 24 meses de 740 neonatos con mild-HIE.",
+          "mini_headline": "Modelo de MRI para HIE neonatal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Validation of Computer Vision in the Operating Room for Ambient Documentation — una Research Letter de JAMA Surgery (AI in Surgery) de la Stanford University School of Medicine. El estudio busca validar la documentación ambiental de marcas de tiempo en diversos procedimientos en el quirófano."
+                "x": "Un enfoque de aprendizaje automático que combina una técnica de MRI con la evaluación clínica podría mejorar la atención de los recién nacidos con encefalopatía hipóxico-isquémica (HIE) leve, según un estudio publicado el 24 de noviembre en Radiology. El trabajo fue dirigido por Xianglong Liu, MD, del Primer Hospital Afiliado de la Universidad de Ciencia y Tecnología de Henan (First Affiliated Hospital of Henan University of Science and Technology), en China."
               },
               {
                 "t": "p",
-                "x": "Los autores señalan que muchos de los eventos que conviene documentar dependen de señales visuales, como la entrada y salida del paciente, pero los estudios de implementación y validación en condiciones reales siguen siendo escasos. Presentan su experiencia en un solo centro al validar la documentación ambiental de marcas de tiempo en el OR en distintos procedimientos y describen el marco de gobernanza que hizo posible su implementación."
+                "x": "“La discriminación solo con imagen y solo con datos clínicos no difirió, mientras que su combinación la mejoró, lo que indica que ambas fuentes de datos eran complementarias”, escribió el equipo de Liu."
+              },
+              {
+                "t": "p",
+                "x": "El estudio prospectivo se realizó en cuatro hospitales entre 2019 y 2023, y el seguimiento a 24 meses concluyó en 2025. Los investigadores desarrollaron modelos solo clínicos, solo de imagen y combinados clínico-imagen a partir de 49 parámetros de DKI y siete variables clínicas. El análisis final incluyó a 740 recién nacidos con una edad gestacional media de 38.3 semanas."
+              },
+              {
+                "t": "p",
+                "x": "En el conjunto de prueba externo, el modelo combinado alcanzó un AUC de 0.92, con una sensibilidad del 86% y una especificidad del 85.3%. Superó al modelo solo clínico (AUC, 0.85) y al modelo solo de imagen (AUC, 0.86). La estratificación de riesgo predefinida dio un valor predictivo negativo perfecto en los lactantes de bajo riesgo y un valor predictivo positivo del 88% en los de alto riesgo."
+              },
+              {
+                "t": "p",
+                "x": "Pese a los resultados, los autores subrayaron que las predicciones “no deben sustituir el juicio clínico”."
               }
             ]
           }
@@ -347,757 +637,507 @@
       }
     },
     {
-      "id": "dcmc-voice-emr-upgrade",
+      "id": "mfds-kpredict-adverse-event-platform",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "대구가톨릭대의료원\n음성 EMR 고도화",
-      "body": "진료 대화 중 의미 있는 정보를 골라 의료진별 서식으로 의무기록을 만든다.",
-      "mini_headline": "대구가톨릭대\n보이스 EMR",
+      "headline": "식약처, AI로\n약물 부작용 예측",
+      "body": "식약처가 부작용 예측 연구 플랫폼 K-PREDICT를 12월 4일 시범운영한다.",
+      "mini_headline": "약물 부작용 예측 AI",
       "tool": "Medicine",
-      "source": "메디게이트뉴스",
-      "url": "https://www.medigatenews.com/news/1869758664",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://medigatenews.com/file/news/546538"
-          },
-          {
-            "t": "p",
-            "x": "대구가톨릭대학교의료원이 인공지능(AI) 음성인식 기반 의무기록 작성 솔루션 ‘보이스 EMR(Voice Electronic Medical Record)’을 고도화했다고 26일 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "의료원은 2024년 대구·경북 지역 최초로 보이스 EMR을 도입해 영상의학과와 핵의학과 등에서 운영해 왔다. 기존 시스템은 의료진의 음성을 텍스트로 변환하거나 진료 내용을 요약·생성하는 데 중점을 뒀다."
-          },
-          {
-            "t": "p",
-            "x": "고도화된 보이스 EMR은 의료진과 환자 간 진료 대화에서 의학적으로 의미 있는 정보를 선별한다. 이를 의료진별 서식에 맞춰 의무기록으로 자동 생성한다. 의료원은 의료진이 반복적인 타이핑과 기록 업무 부담을 줄이고, 모니터를 보며 기록하던 시간을 환자 상태를 살피고 소통하는 데 활용할 수 있게 됐다고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "실제 진료 현장에서 시스템을 사용한 한 교수는 환자의 신체 상태를 측정하는 과정에서 모니터가 아닌 환자 상태를 더욱 세심하게 살필 수 있게 됐다고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "의료원은 입원 병동에서 음성 기반 전자간호기록 시스템 ‘보이스 ENR(Voice Electronic Nursing Record)’도 도입해 운영하고 있다. 보이스 ENR은 스마트폰을 활용한 음성인식 기술 기반 솔루션으로, 환자 정보 확인과 간호 행위 기록·저장을 실시간으로 지원한다. 현재 투약, 채혈, 수혈, 검사, 시술 전 환자 확인 절차에 활용되고 있다. 의료원은 향후 다양한 기능을 단계적으로 개발·적용할 방침이다."
-          },
-          {
-            "t": "p",
-            "x": "기획차장 설기호 교수는 “스마트병원은 단순히 AI 시스템의 수를 늘리는 것이 아니라, AI 기술을 통해 병원의 일하는 방식과 진료환경을 바꾸는 것”이라며 “이러한 변화는 환자 안전과 진료의 질, 행정 효율성, 환자 경험의 향상이라는 실질적인 성과로 이어져야 한다”고 강조했다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "대구가톨릭대의료원\n음성 EMR 고도화",
-          "body": "진료 대화 중 의미 있는 정보를 골라 의료진별 서식으로 의무기록을 만든다.",
-          "mini_headline": "대구가톨릭대\n보이스 EMR",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546538"
-              },
-              {
-                "t": "p",
-                "x": "대구가톨릭대학교의료원이 인공지능(AI) 음성인식 기반 의무기록 작성 솔루션 ‘보이스 EMR(Voice Electronic Medical Record)’을 고도화했다고 26일 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "의료원은 2024년 대구·경북 지역 최초로 보이스 EMR을 도입해 영상의학과와 핵의학과 등에서 운영해 왔다. 기존 시스템은 의료진의 음성을 텍스트로 변환하거나 진료 내용을 요약·생성하는 데 중점을 뒀다."
-              },
-              {
-                "t": "p",
-                "x": "고도화된 보이스 EMR은 의료진과 환자 간 진료 대화에서 의학적으로 의미 있는 정보를 선별한다. 이를 의료진별 서식에 맞춰 의무기록으로 자동 생성한다. 의료원은 의료진이 반복적인 타이핑과 기록 업무 부담을 줄이고, 모니터를 보며 기록하던 시간을 환자 상태를 살피고 소통하는 데 활용할 수 있게 됐다고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "실제 진료 현장에서 시스템을 사용한 한 교수는 환자의 신체 상태를 측정하는 과정에서 모니터가 아닌 환자 상태를 더욱 세심하게 살필 수 있게 됐다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "의료원은 입원 병동에서 음성 기반 전자간호기록 시스템 ‘보이스 ENR(Voice Electronic Nursing Record)’도 도입해 운영하고 있다. 보이스 ENR은 스마트폰을 활용한 음성인식 기술 기반 솔루션으로, 환자 정보 확인과 간호 행위 기록·저장을 실시간으로 지원한다. 현재 투약, 채혈, 수혈, 검사, 시술 전 환자 확인 절차에 활용되고 있다. 의료원은 향후 다양한 기능을 단계적으로 개발·적용할 방침이다."
-              },
-              {
-                "t": "p",
-                "x": "기획차장 설기호 교수는 “스마트병원은 단순히 AI 시스템의 수를 늘리는 것이 아니라, AI 기술을 통해 병원의 일하는 방식과 진료환경을 바꾸는 것”이라며 “이러한 변화는 환자 안전과 진료의 질, 행정 효율성, 환자 경험의 향상이라는 실질적인 성과로 이어져야 한다”고 강조했다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Daegu Catholic Medical Center\nupgrades its voice EMR",
-          "body": "The system picks out meaningful details from consultations and writes medical records in each clinician's format.",
-          "mini_headline": "Daegu Catholic Voice EMR",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546538"
-              },
-              {
-                "t": "p",
-                "x": "Daegu Catholic University Medical Center said on the 26th that it has upgraded Voice EMR (Voice Electronic Medical Record), its artificial intelligence (AI) speech-recognition solution for writing medical records."
-              },
-              {
-                "t": "p",
-                "x": "In 2024 the medical center became the first in the Daegu-Gyeongbuk region to introduce Voice EMR, running it in departments including radiology and nuclear medicine. The previous system focused on converting clinicians' speech into text or on summarizing and generating consultation content."
-              },
-              {
-                "t": "p",
-                "x": "The upgraded Voice EMR selects medically meaningful information from conversations between clinicians and patients during consultations, then automatically generates medical records in each clinician's format. The medical center explained that clinicians now carry less of the burden of repetitive typing and documentation, and can use the time once spent recording while looking at a monitor to check on patients and talk with them."
-              },
-              {
-                "t": "p",
-                "x": "A professor who has used the system in actual clinical practice said that while measuring a patient's physical condition, they can now watch the patient more closely instead of the monitor."
-              },
-              {
-                "t": "p",
-                "x": "The medical center also runs Voice ENR (Voice Electronic Nursing Record), a voice-based electronic nursing record system, on its inpatient wards. Voice ENR is a smartphone-based speech-recognition solution that supports checking patient information and recording and storing nursing activities in real time. It is currently used in patient identification procedures before medication, blood draws, transfusions, tests and procedures. The medical center plans to develop and apply a range of further functions in stages."
-              },
-              {
-                "t": "p",
-                "x": "Professor Seol Ki-ho, deputy director of planning, stressed, “A smart hospital is not simply about increasing the number of AI systems, but about using AI technology to change how the hospital works and its care environment,” adding, “These changes must lead to tangible results: better patient safety, quality of care, administrative efficiency and patient experience.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "大邱カトリック大医療院\n音声EMRを高度化",
-          "body": "診療中の会話から意味のある情報を選び、医療者ごとの書式で診療記録を作成する。",
-          "mini_headline": "大邱カトリック大のボイスEMR",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546538"
-              },
-              {
-                "t": "p",
-                "x": "大邱カトリック大学医療院は26日、人工知能(AI)音声認識に基づく診療記録作成ソリューション「ボイスEMR(Voice Electronic Medical Record)」を高度化したと発表した。"
-              },
-              {
-                "t": "p",
-                "x": "医療院は2024年、大邱・慶北地域で初めてボイスEMRを導入し、放射線科や核医学科などで運用してきた。従来のシステムは、医療者の音声をテキストに変換したり、診療内容を要約・生成したりすることに重点を置いていた。"
-              },
-              {
-                "t": "p",
-                "x": "高度化したボイスEMRは、医療者と患者の診療中の会話から医学的に意味のある情報を選び出す。それを医療者ごとの書式に合わせて診療記録として自動生成する。医療院は、医療者が反復的なタイピングや記録業務の負担を減らし、モニターを見ながら記録していた時間を、患者の状態の確認や対話に充てられるようになったと説明した。"
-              },
-              {
-                "t": "p",
-                "x": "実際の診療現場でシステムを使ったある教授は、患者の身体状態を測定する過程で、モニターではなく患者の状態をより細かく観察できるようになったと話した。"
-              },
-              {
-                "t": "p",
-                "x": "医療院は入院病棟で、音声ベースの電子看護記録システム「ボイスENR(Voice Electronic Nursing Record)」も導入・運用している。ボイスENRはスマートフォンを活用した音声認識技術ベースのソリューションで、患者情報の確認と看護行為の記録・保存をリアルタイムで支援する。現在は投薬、採血、輸血、検査、処置前の患者確認手順に活用されている。医療院は今後、さまざまな機能を段階的に開発・適用していく方針だ。"
-              },
-              {
-                "t": "p",
-                "x": "企画次長のソル・ギホ教授は「スマート病院とは、単にAIシステムの数を増やすことではなく、AI技術によって病院の働き方と診療環境を変えることだ」とし、「こうした変化は、患者の安全と診療の質、行政の効率性、患者体験の向上という実質的な成果につながらなければならない」と強調した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "大邱天主教大学医疗院\n升级语音EMR",
-          "body": "从诊疗对话中筛选有意义的信息，按医护人员各自的格式生成病历。",
-          "mini_headline": "大邱天主教大学语音EMR",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546538"
-              },
-              {
-                "t": "p",
-                "x": "大邱天主教大学医疗院26日表示，已升级基于人工智能（AI）语音识别的病历书写解决方案“语音EMR（Voice Electronic Medical Record）”。"
-              },
-              {
-                "t": "p",
-                "x": "该医疗院于2024年在大邱·庆北地区率先引入语音EMR，并在放射科和核医学科等科室运行。原有系统侧重于将医护人员的语音转换为文本，或对诊疗内容进行摘要和生成。"
-              },
-              {
-                "t": "p",
-                "x": "升级后的语音EMR会从医护人员与患者的诊疗对话中筛选出具有医学意义的信息，并按照每位医护人员的格式自动生成病历。医疗院表示，医护人员因此减轻了重复打字和记录工作的负担，可以把过去盯着显示器记录的时间用于观察患者状况和与患者沟通。"
-              },
-              {
-                "t": "p",
-                "x": "一位在实际诊疗现场使用该系统的教授表示，在测量患者身体状况的过程中，自己能够不看显示器，而是更细致地观察患者状态。"
-              },
-              {
-                "t": "p",
-                "x": "医疗院还在住院病房引入并运行基于语音的电子护理记录系统“语音ENR（Voice Electronic Nursing Record）”。语音ENR是一款利用智能手机、基于语音识别技术的解决方案，可实时支持患者信息核对以及护理行为的记录和保存。目前，它被用于给药、采血、输血、检查和操作前的患者确认流程。医疗院计划今后分阶段开发和应用更多功能。"
-              },
-              {
-                "t": "p",
-                "x": "企划副室长Seol Ki-ho教授强调：“智慧医院并不只是增加AI系统的数量，而是通过AI技术改变医院的工作方式和诊疗环境。”他还表示：“这些变化应当转化为提升患者安全、诊疗质量、行政效率和患者体验等实际成果。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Centro Médico Católico de Daegu\nperfecciona su EMR por voz",
-          "body": "El sistema elige datos relevantes de la consulta y redacta la historia clínica en el formato de cada profesional.",
-          "mini_headline": "Voice EMR en el Centro Médico Católico de Daegu",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546538"
-              },
-              {
-                "t": "p",
-                "x": "El Centro Médico de la Universidad Católica de Daegu anunció el día 26 que ha mejorado Voice EMR (Voice Electronic Medical Record), su solución para redactar historias clínicas basada en el reconocimiento de voz con inteligencia artificial (AI)."
-              },
-              {
-                "t": "p",
-                "x": "En 2024 el centro fue el primero de la región de Daegu-Gyeongbuk en implantar Voice EMR, que ha utilizado en servicios como radiología y medicina nuclear. El sistema anterior se centraba en convertir la voz del personal médico en texto o en resumir y generar el contenido de la consulta."
-              },
-              {
-                "t": "p",
-                "x": "La versión mejorada de Voice EMR selecciona la información médicamente relevante de las conversaciones entre el personal médico y los pacientes durante la consulta, y la convierte automáticamente en historias clínicas con el formato de cada profesional. Según el centro, esto reduce la carga del tecleo repetitivo y de la documentación, y permite dedicar el tiempo que antes se pasaba registrando frente al monitor a observar el estado del paciente y comunicarse con él."
-              },
-              {
-                "t": "p",
-                "x": "Un profesor que ha usado el sistema en la práctica clínica afirmó que, al medir el estado físico de los pacientes, ahora puede observarlos con más atención en lugar de mirar el monitor."
-              },
-              {
-                "t": "p",
-                "x": "En las salas de hospitalización, el centro también utiliza Voice ENR (Voice Electronic Nursing Record), un sistema de registro electrónico de enfermería basado en la voz. Voice ENR es una solución de reconocimiento de voz que funciona con teléfonos inteligentes y permite verificar la información del paciente y registrar y guardar los cuidados de enfermería en tiempo real. Actualmente se emplea en la verificación del paciente antes de la medicación, las extracciones de sangre, las transfusiones, las pruebas y los procedimientos. El centro prevé desarrollar y aplicar nuevas funciones de forma gradual."
-              },
-              {
-                "t": "p",
-                "x": "El profesor Seol Ki-ho, subdirector de planificación, subrayó: “Un hospital inteligente no consiste simplemente en aumentar el número de sistemas de AI, sino en cambiar la forma de trabajar del hospital y el entorno asistencial mediante la tecnología de AI”. Y añadió: “Estos cambios deben traducirse en resultados concretos: mejoras en la seguridad del paciente, la calidad de la atención, la eficiencia administrativa y la experiencia del paciente”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Daegu Catholic Medical Center\nupgrades its voice EMR",
-          "body": "The system picks out meaningful details from consultations and writes medical records in each clinician's format.",
-          "mini_headline": "Daegu Catholic Voice EMR",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546538"
-              },
-              {
-                "t": "p",
-                "x": "Daegu Catholic University Medical Center said on the 26th that it has upgraded Voice EMR (Voice Electronic Medical Record), its artificial intelligence (AI) speech-recognition solution for writing medical records."
-              },
-              {
-                "t": "p",
-                "x": "In 2024 the medical center became the first in the Daegu-Gyeongbuk region to introduce Voice EMR, running it in departments including radiology and nuclear medicine. The previous system focused on converting clinicians' speech into text or on summarizing and generating consultation content."
-              },
-              {
-                "t": "p",
-                "x": "The upgraded Voice EMR selects medically meaningful information from conversations between clinicians and patients during consultations, then automatically generates medical records in each clinician's format. The medical center explained that clinicians now carry less of the burden of repetitive typing and documentation, and can use the time once spent recording while looking at a monitor to check on patients and talk with them."
-              },
-              {
-                "t": "p",
-                "x": "A professor who has used the system in actual clinical practice said that while measuring a patient's physical condition, they can now watch the patient more closely instead of the monitor."
-              },
-              {
-                "t": "p",
-                "x": "The medical center also runs Voice ENR (Voice Electronic Nursing Record), a voice-based electronic nursing record system, on its inpatient wards. Voice ENR is a smartphone-based speech-recognition solution that supports checking patient information and recording and storing nursing activities in real time. It is currently used in patient identification procedures before medication, blood draws, transfusions, tests and procedures. The medical center plans to develop and apply a range of further functions in stages."
-              },
-              {
-                "t": "p",
-                "x": "Professor Seol Ki-ho, deputy director of planning, stressed, “A smart hospital is not simply about increasing the number of AI systems, but about using AI technology to change how the hospital works and its care environment,” adding, “These changes must lead to tangible results: better patient safety, quality of care, administrative efficiency and patient experience.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "大邱カトリック大医療院\n音声EMRを高度化",
-          "body": "診療中の会話から意味のある情報を選び、医療者ごとの書式で診療記録を作成する。",
-          "mini_headline": "大邱カトリック大のボイスEMR",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546538"
-              },
-              {
-                "t": "p",
-                "x": "大邱カトリック大学医療院は26日、人工知能(AI)音声認識に基づく診療記録作成ソリューション「ボイスEMR(Voice Electronic Medical Record)」を高度化したと発表した。"
-              },
-              {
-                "t": "p",
-                "x": "医療院は2024年、大邱・慶北地域で初めてボイスEMRを導入し、放射線科や核医学科などで運用してきた。従来のシステムは、医療者の音声をテキストに変換したり、診療内容を要約・生成したりすることに重点を置いていた。"
-              },
-              {
-                "t": "p",
-                "x": "高度化したボイスEMRは、医療者と患者の診療中の会話から医学的に意味のある情報を選び出す。それを医療者ごとの書式に合わせて診療記録として自動生成する。医療院は、医療者が反復的なタイピングや記録業務の負担を減らし、モニターを見ながら記録していた時間を、患者の状態の確認や対話に充てられるようになったと説明した。"
-              },
-              {
-                "t": "p",
-                "x": "実際の診療現場でシステムを使ったある教授は、患者の身体状態を測定する過程で、モニターではなく患者の状態をより細かく観察できるようになったと話した。"
-              },
-              {
-                "t": "p",
-                "x": "医療院は入院病棟で、音声ベースの電子看護記録システム「ボイスENR(Voice Electronic Nursing Record)」も導入・運用している。ボイスENRはスマートフォンを活用した音声認識技術ベースのソリューションで、患者情報の確認と看護行為の記録・保存をリアルタイムで支援する。現在は投薬、採血、輸血、検査、処置前の患者確認手順に活用されている。医療院は今後、さまざまな機能を段階的に開発・適用していく方針だ。"
-              },
-              {
-                "t": "p",
-                "x": "企画次長のソル・ギホ教授は「スマート病院とは、単にAIシステムの数を増やすことではなく、AI技術によって病院の働き方と診療環境を変えることだ」とし、「こうした変化は、患者の安全と診療の質、行政の効率性、患者体験の向上という実質的な成果につながらなければならない」と強調した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "大邱天主教大学医疗院\n升级语音EMR",
-          "body": "从诊疗对话中筛选有意义的信息，按医护人员各自的格式生成病历。",
-          "mini_headline": "大邱天主教大学语音EMR",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546538"
-              },
-              {
-                "t": "p",
-                "x": "大邱天主教大学医疗院26日表示，已升级基于人工智能（AI）语音识别的病历书写解决方案“语音EMR（Voice Electronic Medical Record）”。"
-              },
-              {
-                "t": "p",
-                "x": "该医疗院于2024年在大邱·庆北地区率先引入语音EMR，并在放射科和核医学科等科室运行。原有系统侧重于将医护人员的语音转换为文本，或对诊疗内容进行摘要和生成。"
-              },
-              {
-                "t": "p",
-                "x": "升级后的语音EMR会从医护人员与患者的诊疗对话中筛选出具有医学意义的信息，并按照每位医护人员的格式自动生成病历。医疗院表示，医护人员因此减轻了重复打字和记录工作的负担，可以把过去盯着显示器记录的时间用于观察患者状况和与患者沟通。"
-              },
-              {
-                "t": "p",
-                "x": "一位在实际诊疗现场使用该系统的教授表示，在测量患者身体状况的过程中，自己能够不看显示器，而是更细致地观察患者状态。"
-              },
-              {
-                "t": "p",
-                "x": "医疗院还在住院病房引入并运行基于语音的电子护理记录系统“语音ENR（Voice Electronic Nursing Record）”。语音ENR是一款利用智能手机、基于语音识别技术的解决方案，可实时支持患者信息核对以及护理行为的记录和保存。目前，它被用于给药、采血、输血、检查和操作前的患者确认流程。医疗院计划今后分阶段开发和应用更多功能。"
-              },
-              {
-                "t": "p",
-                "x": "企划副室长Seol Ki-ho教授强调：“智慧医院并不只是增加AI系统的数量，而是通过AI技术改变医院的工作方式和诊疗环境。”他还表示：“这些变化应当转化为提升患者安全、诊疗质量、行政效率和患者体验等实际成果。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Centro Médico Católico de Daegu\nperfecciona su EMR por voz",
-          "body": "El sistema elige datos relevantes de la consulta y redacta la historia clínica en el formato de cada profesional.",
-          "mini_headline": "Voice EMR en el Centro Médico Católico de Daegu",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/546538"
-              },
-              {
-                "t": "p",
-                "x": "El Centro Médico de la Universidad Católica de Daegu anunció el día 26 que ha mejorado Voice EMR (Voice Electronic Medical Record), su solución para redactar historias clínicas basada en el reconocimiento de voz con inteligencia artificial (AI)."
-              },
-              {
-                "t": "p",
-                "x": "En 2024 el centro fue el primero de la región de Daegu-Gyeongbuk en implantar Voice EMR, que ha utilizado en servicios como radiología y medicina nuclear. El sistema anterior se centraba en convertir la voz del personal médico en texto o en resumir y generar el contenido de la consulta."
-              },
-              {
-                "t": "p",
-                "x": "La versión mejorada de Voice EMR selecciona la información médicamente relevante de las conversaciones entre el personal médico y los pacientes durante la consulta, y la convierte automáticamente en historias clínicas con el formato de cada profesional. Según el centro, esto reduce la carga del tecleo repetitivo y de la documentación, y permite dedicar el tiempo que antes se pasaba registrando frente al monitor a observar el estado del paciente y comunicarse con él."
-              },
-              {
-                "t": "p",
-                "x": "Un profesor que ha usado el sistema en la práctica clínica afirmó que, al medir el estado físico de los pacientes, ahora puede observarlos con más atención en lugar de mirar el monitor."
-              },
-              {
-                "t": "p",
-                "x": "En las salas de hospitalización, el centro también utiliza Voice ENR (Voice Electronic Nursing Record), un sistema de registro electrónico de enfermería basado en la voz. Voice ENR es una solución de reconocimiento de voz que funciona con teléfonos inteligentes y permite verificar la información del paciente y registrar y guardar los cuidados de enfermería en tiempo real. Actualmente se emplea en la verificación del paciente antes de la medicación, las extracciones de sangre, las transfusiones, las pruebas y los procedimientos. El centro prevé desarrollar y aplicar nuevas funciones de forma gradual."
-              },
-              {
-                "t": "p",
-                "x": "El profesor Seol Ki-ho, subdirector de planificación, subrayó: “Un hospital inteligente no consiste simplemente en aumentar el número de sistemas de AI, sino en cambiar la forma de trabajar del hospital y el entorno asistencial mediante la tecnología de AI”. Y añadió: “Estos cambios deben traducirse en resultados concretos: mejoras en la seguridad del paciente, la calidad de la atención, la eficiencia administrativa y la experiencia del paciente”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "korotkoff-hf-deeplearning",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "혈압계 커프 소리로\n심부전을 찾는다",
-      "body": "혈압 측정 Korotkoff음 딥러닝 분석이 AUC 0.924로 심부전을 찾았다.",
-      "mini_headline": "커프 소리로 심부전 탐지",
-      "tool": "Medicine",
-      "source": "European Heart Journal - Digital Health",
-      "url": "https://academic.oup.com/ehjdh/advance-article/doi/10.1093/ehjdh/ztag187/9115906",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "배경: 코로트코프음(Korotkoff sounds, KS)은 혈압을 잴 때마다 나오지만, 심부전(HF) 탐지에 얼마나 쓸모 있는지는 아직 분명하지 않다. 목적: 심혈관 입원 환자에서 딥러닝 기반 KS 분석의 HF 탐지 진단 성능을 평가한다."
-          },
-          {
-            "t": "p",
-            "x": "방법: 전향적 다기관 진단 연구로, 중국 네 곳의 센터에서 심혈관 입원 환자 1,103명을 등록했다. 이 중 314명(28.5%)이 HF 환자였다. 참가자는 센터별로 훈련(n=420), 검증(n=287), 독립 시험(n=396) 코호트에 배정됐다. 환자 단위 KS 녹음으로 Mamba, Transformer, ResNet18, MobileNetV2 등 네 가지 딥러닝 모델을 개발했다. 성능 지표는 AUC였고, 민감도 분석은 NYHA class I 참가자와 심방세동(AF)을 뺀 집단에서 따로 했다."
-          },
-          {
-            "t": "p",
-            "x": "결과: 성능은 Mamba가 가장 좋았다. 훈련·검증·독립 시험 코호트의 AUCs는 각각 0.947(95% CI, 0.926–0.967), 0.937(0.912–0.961), 0.924(0.893–0.951)였다. NYHA class I 참가자에서 해당 AUCs는 0.940, 0.937, 0.947이었다. AF를 제외하면 AUCs는 각각 0.937, 0.895, 0.954였다."
-          },
-          {
-            "t": "p",
-            "x": "결론: 딥러닝 기반 KS 분석은 심혈관 입원 환자에서 HF와 비HF(non-HF)를 잘 구분했다. KS 유래(KS-derived) 음향 정보를 HF 환자를 찾는 비침습 보조 수단으로 더 평가해 볼 근거다. 다만 인구 집단 선별검사나 단독 배제 검사로 쓰려면 유병률이 더 낮은 지역사회 환경에서 먼저 검증해야 한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Blood pressure cuff sounds\nflag heart failure",
-          "body": "Deep learning on Korotkoff sounds from routine blood pressure checks detected heart failure with an AUC of 0.924.",
-          "mini_headline": "Cuff sounds flag\nheart failure",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Background: Korotkoff sounds (KS) are routinely generated during blood pressure measurement, but their potential value for heart failure (HF) detection remains unclear. Aims: To evaluate the diagnostic performance of deep learning-based KS analysis for HF detection in cardiovascular inpatients."
-              },
-              {
-                "t": "p",
-                "x": "Methods: This prospective multicentre diagnostic study enrolled 1,103 cardiovascular inpatients from four centres in China, including 314 (28.5%) with HF. Participants were assigned by centre to training (n=420), validation (n=287), and independent test (n=396) cohorts. Four deep learning models—Mamba, Transformer, ResNet18, and MobileNetV2—were developed using patient-level KS recordings. Performance was assessed by AUC, with sensitivity analyses in NYHA class I participants and after exclusion of atrial fibrillation (AF)."
-              },
-              {
-                "t": "p",
-                "x": "Results: Mamba achieved the best performance, with AUCs of 0.947 (95% CI, 0.926–0.967), 0.937 (0.912–0.961), and 0.924 (0.893–0.951) in the training, validation, and independent test cohorts, respectively. In NYHA class I participants, corresponding AUCs were 0.940, 0.937, and 0.947. After excluding AF, AUCs were 0.937, 0.895, and 0.954, respectively."
-              },
-              {
-                "t": "p",
-                "x": "Conclusions: Deep learning-based KS analysis showed strong discrimination between HF and non-HF among cardiovascular inpatients. These findings support further evaluation of KS-derived acoustic information as a non-invasive adjunct for HF case-finding; validation in lower-prevalence community settings is required before its use for population screening or stand-alone rule-out."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "혈압계 커프 소리로\n심부전을 찾는다",
-          "body": "혈압 측정 Korotkoff음 딥러닝 분석이 AUC 0.924로 심부전을 찾았다.",
-          "mini_headline": "커프 소리로 심부전 탐지",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "배경: 코로트코프음(Korotkoff sounds, KS)은 혈압을 잴 때마다 나오지만, 심부전(HF) 탐지에 얼마나 쓸모 있는지는 아직 분명하지 않다. 목적: 심혈관 입원 환자에서 딥러닝 기반 KS 분석의 HF 탐지 진단 성능을 평가한다."
-              },
-              {
-                "t": "p",
-                "x": "방법: 전향적 다기관 진단 연구로, 중국 네 곳의 센터에서 심혈관 입원 환자 1,103명을 등록했다. 이 중 314명(28.5%)이 HF 환자였다. 참가자는 센터별로 훈련(n=420), 검증(n=287), 독립 시험(n=396) 코호트에 배정됐다. 환자 단위 KS 녹음으로 Mamba, Transformer, ResNet18, MobileNetV2 등 네 가지 딥러닝 모델을 개발했다. 성능 지표는 AUC였고, 민감도 분석은 NYHA class I 참가자와 심방세동(AF)을 뺀 집단에서 따로 했다."
-              },
-              {
-                "t": "p",
-                "x": "결과: 성능은 Mamba가 가장 좋았다. 훈련·검증·독립 시험 코호트의 AUCs는 각각 0.947(95% CI, 0.926–0.967), 0.937(0.912–0.961), 0.924(0.893–0.951)였다. NYHA class I 참가자에서 해당 AUCs는 0.940, 0.937, 0.947이었다. AF를 제외하면 AUCs는 각각 0.937, 0.895, 0.954였다."
-              },
-              {
-                "t": "p",
-                "x": "결론: 딥러닝 기반 KS 분석은 심혈관 입원 환자에서 HF와 비HF(non-HF)를 잘 구분했다. KS 유래(KS-derived) 음향 정보를 HF 환자를 찾는 비침습 보조 수단으로 더 평가해 볼 근거다. 다만 인구 집단 선별검사나 단독 배제 검사로 쓰려면 유병률이 더 낮은 지역사회 환경에서 먼저 검증해야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "血圧カフの音で\n心不全を見つける",
-          "body": "血圧測定時のKorotkoff音を深層学習で解析し、心不全をAUC 0.924で検出した。",
-          "mini_headline": "カフの音で心不全を検出",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "背景:Korotkoff音(KS)は血圧測定の際に日常的に生じるが、心不全(HF)の検出における価値はまだ明らかではない。目的:心血管疾患の入院患者において、深層学習ベースのKS解析によるHF検出の診断性能を評価する。"
-              },
-              {
-                "t": "p",
-                "x": "方法:この前向き多施設診断研究では、中国の四つの施設から心血管疾患の入院患者1,103人を登録し、そのうち314人(28.5%)がHFだった。参加者は施設ごとに訓練(n=420)、検証(n=287)、独立テスト(n=396)の各コホートに割り当てられた。患者単位のKS録音を用いて、Mamba、Transformer、ResNet18、MobileNetV2の四つの深層学習モデルを開発した。性能はAUCで評価し、NYHA class Iの参加者と心房細動(AF)を除外した場合について感度分析を行った。"
-              },
-              {
-                "t": "p",
-                "x": "結果:Mambaが最も高い性能を示し、訓練、検証、独立テストの各コホートでのAUCsはそれぞれ0.947(95% CI, 0.926–0.967)、0.937(0.912–0.961)、0.924(0.893–0.951)だった。NYHA class Iの参加者では、対応するAUCsは0.940、0.937、0.947だった。AFを除外すると、AUCsはそれぞれ0.937、0.895、0.954だった。"
-              },
-              {
-                "t": "p",
-                "x": "結論:深層学習ベースのKS解析は、心血管疾患の入院患者においてHFと非HF(non-HF)を高い精度で識別した。この結果は、KS由来(KS-derived)の音響情報をHF患者の発見に向けた非侵襲的な補助手段としてさらに評価することを支持する。ただし、集団スクリーニングや単独での除外診断に用いる前に、有病率のより低い地域社会での検証が必要である。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "血压袖带音\n可提示心力衰竭",
-          "body": "深度学习分析常规血压测量中的Korotkoff音，检出心力衰竭的AUC达0.924。",
-          "mini_headline": "袖带音提示心力衰竭",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "背景：Korotkoff音（KS）在血压测量过程中常规产生，但其在心力衰竭（HF）检测中的潜在价值尚不明确。目的：评估基于深度学习的KS分析在心血管住院患者中检测HF的诊断性能。"
-              },
-              {
-                "t": "p",
-                "x": "方法：这项前瞻性多中心诊断研究纳入了来自中国四家中心的1,103名心血管住院患者，其中314名（28.5%）患有HF。参与者按中心分配至训练（n=420）、验证（n=287）和独立测试（n=396）队列。研究利用患者层面的KS录音开发了四种深度学习模型——Mamba、Transformer、ResNet18和MobileNetV2。性能以AUC评估，并在NYHA class I参与者中以及排除心房颤动（AF）后进行了敏感性分析。"
-              },
-              {
-                "t": "p",
-                "x": "结果：Mamba表现最佳，在训练、验证和独立测试队列中的AUCs分别为0.947（95% CI, 0.926–0.967）、0.937（0.912–0.961）和0.924（0.893–0.951）。在NYHA class I参与者中，相应AUCs为0.940、0.937和0.947。排除AF后，AUCs分别为0.937、0.895和0.954。"
-              },
-              {
-                "t": "p",
-                "x": "结论：基于深度学习的KS分析在心血管住院患者中对HF与非HF（non-HF）表现出很强的区分能力。这些发现支持进一步评估KS来源（KS-derived）的声学信息，作为HF病例发现的无创辅助手段；在用于人群筛查或单独排除诊断之前，还需在患病率较低的社区环境中进行验证。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los sonidos del tensiómetro\nseñalan insuficiencia cardiaca",
-          "body": "El aprendizaje profundo detectó insuficiencia cardiaca con AUC 0.924 usando ruidos de Korotkoff de tomas de presión.",
-          "mini_headline": "Sonidos del manguito delatan insuficiencia cardiaca",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Antecedentes: los ruidos de Korotkoff (KS) se generan de forma rutinaria durante la medición de la presión arterial, pero su posible valor para detectar la insuficiencia cardiaca (HF) sigue sin estar claro. Objetivos: evaluar el rendimiento diagnóstico del análisis de KS basado en aprendizaje profundo para detectar HF en pacientes cardiovasculares hospitalizados."
-              },
-              {
-                "t": "p",
-                "x": "Métodos: este estudio diagnóstico prospectivo y multicéntrico incluyó a 1,103 pacientes cardiovasculares hospitalizados de cuatro centros de China, de los cuales 314 (28.5%) tenían HF. Los participantes se asignaron por centro a las cohortes de entrenamiento (n=420), validación (n=287) y prueba independiente (n=396). Se desarrollaron cuatro modelos de aprendizaje profundo —Mamba, Transformer, ResNet18 y MobileNetV2— con grabaciones de KS a nivel de paciente. El rendimiento se evaluó mediante el AUC, con análisis de sensibilidad en participantes de NYHA class I y tras excluir la fibrilación auricular (AF)."
-              },
-              {
-                "t": "p",
-                "x": "Resultados: Mamba obtuvo el mejor rendimiento, con AUCs de 0.947 (95% CI, 0.926–0.967), 0.937 (0.912–0.961) y 0.924 (0.893–0.951) en las cohortes de entrenamiento, validación y prueba independiente, respectivamente. En los participantes de NYHA class I, los AUCs correspondientes fueron 0.940, 0.937 y 0.947. Tras excluir la AF, los AUCs fueron 0.937, 0.895 y 0.954, respectivamente."
-              },
-              {
-                "t": "p",
-                "x": "Conclusiones: el análisis de KS basado en aprendizaje profundo discriminó con solidez entre HF y non-HF en pacientes cardiovasculares hospitalizados. Estos hallazgos respaldan seguir evaluando la información acústica derivada de KS (KS-derived) como complemento no invasivo para la detección de casos de HF; antes de usarla para el cribado poblacional o para descartar la enfermedad por sí sola, se requiere validarla en entornos comunitarios de menor prevalencia."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "혈압계 커프 소리로\n심부전을 찾는다",
-          "body": "혈압 측정 Korotkoff음 딥러닝 분석이 AUC 0.924로 심부전을 찾았다.",
-          "mini_headline": "커프 소리로 심부전 탐지",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "배경: 코로트코프음(Korotkoff sounds, KS)은 혈압 측정 때 일상적으로 발생하지만, 심부전(HF) 탐지에 얼마나 가치가 있는지는 아직 분명하지 않다. 목적: 심혈관 입원 환자에서 딥러닝 기반 KS 분석의 HF 탐지 진단 성능을 평가한다."
-              },
-              {
-                "t": "p",
-                "x": "방법: 이 전향적 다기관 진단 연구는 중국 네 곳의 센터에서 심혈관 입원 환자 1,103명을 등록했으며, 이 중 314명(28.5%)이 HF 환자였다. 참가자는 센터별로 훈련(n=420), 검증(n=287), 독립 시험(n=396) 코호트에 배정됐다. 환자 단위 KS 녹음으로 Mamba, Transformer, ResNet18, MobileNetV2 등 네 가지 딥러닝 모델을 개발했다. 성능은 AUC로 평가했고, NYHA class I 참가자와 심방세동(AF) 제외 후를 대상으로 민감도 분석을 했다."
-              },
-              {
-                "t": "p",
-                "x": "결과: Mamba가 가장 좋은 성능을 보였으며, 훈련·검증·독립 시험 코호트의 AUCs는 각각 0.947(95% CI, 0.926–0.967), 0.937(0.912–0.961), 0.924(0.893–0.951)였다. NYHA class I 참가자에서 해당 AUCs는 0.940, 0.937, 0.947이었다. AF를 제외하면 AUCs는 각각 0.937, 0.895, 0.954였다."
-              },
-              {
-                "t": "p",
-                "x": "결론: 딥러닝 기반 KS 분석은 심혈관 입원 환자에서 HF와 비HF(non-HF)를 잘 구분했다. 이 결과는 KS 유래(KS-derived) 음향 정보를 HF 환자 발견을 위한 비침습적 보조 수단으로 추가 평가할 근거가 된다. 다만 인구 집단 선별검사나 단독 배제 검사로 쓰기 전에 유병률이 더 낮은 지역사회 환경에서 검증이 필요하다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "血圧カフの音で\n心不全を見つける",
-          "body": "血圧測定時のKorotkoff音を深層学習で解析し、心不全をAUC 0.924で検出した。",
-          "mini_headline": "カフの音で心不全を検出",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "背景:Korotkoff音(KS)は血圧測定の際に日常的に生じるが、心不全(HF)の検出における価値はまだ明らかではない。目的:心血管疾患の入院患者において、深層学習ベースのKS解析によるHF検出の診断性能を評価する。"
-              },
-              {
-                "t": "p",
-                "x": "方法:この前向き多施設診断研究では、中国の四つの施設から心血管疾患の入院患者1,103人を登録し、そのうち314人(28.5%)がHFだった。参加者は施設ごとに訓練(n=420)、検証(n=287)、独立テスト(n=396)の各コホートに割り当てられた。患者単位のKS録音を用いて、Mamba、Transformer、ResNet18、MobileNetV2の四つの深層学習モデルを開発した。性能はAUCで評価し、NYHA class Iの参加者と心房細動(AF)を除外した場合について感度分析を行った。"
-              },
-              {
-                "t": "p",
-                "x": "結果:Mambaが最も高い性能を示し、訓練、検証、独立テストの各コホートでのAUCsはそれぞれ0.947(95% CI, 0.926–0.967)、0.937(0.912–0.961)、0.924(0.893–0.951)だった。NYHA class Iの参加者では、対応するAUCsは0.940、0.937、0.947だった。AFを除外すると、AUCsはそれぞれ0.937、0.895、0.954だった。"
-              },
-              {
-                "t": "p",
-                "x": "結論:深層学習ベースのKS解析は、心血管疾患の入院患者においてHFと非HF(non-HF)を高い精度で識別した。この結果は、KS由来(KS-derived)の音響情報をHF患者の発見に向けた非侵襲的な補助手段としてさらに評価することを支持する。ただし、集団スクリーニングや単独での除外診断に用いる前に、有病率のより低い地域社会での検証が必要である。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "血压袖带音\n可提示心力衰竭",
-          "body": "深度学习分析常规血压测量中的Korotkoff音，检出心力衰竭的AUC达0.924。",
-          "mini_headline": "袖带音提示心力衰竭",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "背景：Korotkoff音（KS）在血压测量过程中常规产生，但其在心力衰竭（HF）检测中的潜在价值尚不明确。目的：评估基于深度学习的KS分析在心血管住院患者中检测HF的诊断性能。"
-              },
-              {
-                "t": "p",
-                "x": "方法：这项前瞻性多中心诊断研究纳入了来自中国四家中心的1,103名心血管住院患者，其中314名（28.5%）患有HF。参与者按中心分配至训练（n=420）、验证（n=287）和独立测试（n=396）队列。研究利用患者层面的KS录音开发了四种深度学习模型——Mamba、Transformer、ResNet18和MobileNetV2。性能以AUC评估，并在NYHA class I参与者中以及排除心房颤动（AF）后进行了敏感性分析。"
-              },
-              {
-                "t": "p",
-                "x": "结果：Mamba表现最佳，在训练、验证和独立测试队列中的AUCs分别为0.947（95% CI, 0.926–0.967）、0.937（0.912–0.961）和0.924（0.893–0.951）。在NYHA class I参与者中，相应AUCs为0.940、0.937和0.947。排除AF后，AUCs分别为0.937、0.895和0.954。"
-              },
-              {
-                "t": "p",
-                "x": "结论：基于深度学习的KS分析在心血管住院患者中对HF与非HF（non-HF）表现出很强的区分能力。这些发现支持进一步评估KS来源（KS-derived）的声学信息，作为HF病例发现的无创辅助手段；在用于人群筛查或单独排除诊断之前，还需在患病率较低的社区环境中进行验证。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los sonidos del tensiómetro\nseñalan insuficiencia cardiaca",
-          "body": "El aprendizaje profundo detectó insuficiencia cardiaca con AUC 0.924 usando ruidos de Korotkoff de tomas de presión.",
-          "mini_headline": "Sonidos del manguito delatan insuficiencia cardiaca",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Antecedentes: los ruidos de Korotkoff (KS) se generan de forma rutinaria durante la medición de la presión arterial, pero su posible valor para detectar la insuficiencia cardiaca (HF) sigue sin estar claro. Objetivos: evaluar el rendimiento diagnóstico del análisis de KS basado en aprendizaje profundo para detectar HF en pacientes cardiovasculares hospitalizados."
-              },
-              {
-                "t": "p",
-                "x": "Métodos: este estudio diagnóstico prospectivo y multicéntrico incluyó a 1,103 pacientes cardiovasculares hospitalizados de cuatro centros de China, de los cuales 314 (28.5%) tenían HF. Los participantes se asignaron por centro a las cohortes de entrenamiento (n=420), validación (n=287) y prueba independiente (n=396). Se desarrollaron cuatro modelos de aprendizaje profundo —Mamba, Transformer, ResNet18 y MobileNetV2— con grabaciones de KS a nivel de paciente. El rendimiento se evaluó mediante el AUC, con análisis de sensibilidad en participantes de NYHA class I y tras excluir la fibrilación auricular (AF)."
-              },
-              {
-                "t": "p",
-                "x": "Resultados: Mamba obtuvo el mejor rendimiento, con AUCs de 0.947 (95% CI, 0.926–0.967), 0.937 (0.912–0.961) y 0.924 (0.893–0.951) en las cohortes de entrenamiento, validación y prueba independiente, respectivamente. En los participantes de NYHA class I, los AUCs correspondientes fueron 0.940, 0.937 y 0.947. Tras excluir la AF, los AUCs fueron 0.937, 0.895 y 0.954, respectivamente."
-              },
-              {
-                "t": "p",
-                "x": "Conclusiones: el análisis de KS basado en aprendizaje profundo discriminó con solidez entre HF y non-HF en pacientes cardiovasculares hospitalizados. Estos hallazgos respaldan seguir evaluando la información acústica derivada de KS (KS-derived) como complemento no invasivo para la detección de casos de HF; antes de usarla para el cribado poblacional o para descartar la enfermedad por sí sola, se requiere validarla en entornos comunitarios de menor prevalencia."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "npj-strep-throat-multimodal",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "목 사진으로 가르는\n연쇄상구균·바이러스 감염",
-      "body": "인후 영상과 임상 정보를 묶은 모델로 연쇄상구균 인두염과 바이러스 감염을 가른다.",
-      "mini_headline": "목 사진으로 연쇄상구균·바이러스 구분",
-      "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03492-7",
+      "source": "데일리팜",
+      "url": "https://www.dailypharm.com/user/news/345127",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/27/65420b6c-6ebb-4410-a925-7941b4c18aba.jpg"
+          },
+          {
             "t": "p",
-            "x": "항생제를 제대로 쓰려면 A군 연쇄상구균(GAS) 인두염과 바이러스성 상기도 감염(URTIs)을 가려야 하지만, 증상만으로는 여전히 어렵다. 연구진은 인두 영상(Swin Transformer)과 임상 메타데이터를 그래디언트 부스팅 의사결정나무로 융합한 멀티모달 인공지능(AI) 모델을 개발해 내부 검증했다. 데이터는 2023년 3월부터 2025년 8월까지 44개 기관에서 모은 6666건의 방문과 119,988장의 영상이다. GAS와 non-GAS(인플루엔자 A/B, COVID-19) 구별에서 융합 모델의 곡선하면적(AUC)은 0.917(95% 신뢰구간 0.907–0.926)로, 영상 단독(0.902), 메타데이터 단독(0.871), 대리 Centor/McIsaac 점수보다 높았다. 사전에 정한 고특이도 임계값(≥0.90)에서 민감도는 0.761이었다. 시뮬레이션에서는 GAS 유병률 5–20% 범위에서 항생제 처방이 23–56% 줄었다. 외부 검증과 전향적 평가는 아직 거쳐야 한다."
+            "x": "식품의약품안전처 소속 식품의약품안전평가원이 오는 12월 4일 의약품 부작용 및 약물 반응성 예측 연구를 지원하는 통합 데이터 플랫폼 ‘K-PREDICT(케이-프레딕트)’의 시범운영에 돌입한다. 식약처는 같은 날 오후 2시 서울 중구 프레지던트 호텔에서 관련 설명회를 개최한다."
+          },
+          {
+            "t": "p",
+            "x": "‘K-PREDICT(Pharmacological Risk & Efficacy Detection Intelligence Center Tool)’는 실제 약물을 복용한 환자의 진료·검사 등 임상정보와 유전체·단백체·대사체 등 다양한 생체 정보(멀티오믹스)를 연계해 종합 분석할 수 있도록 구축된 데이터 플랫폼이다. 식약처는 2023년부터 플랫폼 구축을 추진해 왔으며, 지난해까지 국내 4개 병원에서 약물 복용 환자 약 7500명의 임상·멀티오믹스 데이터를 확보했다."
+          },
+          {
+            "t": "p",
+            "x": "연구자들은 이 플랫폼과 인공지능(AI) 기술 등을 활용해 개인별로 약물 반응이 다르게 나타나는 원인과 독성 작용기전을 규명할 수 있다. 특히 의약품의 효과 및 부작용을 미리 예측할 수 있는 새로운 생체지표(바이오마커) 발굴과 인체 기반 독성평가법 개발 등에 활용될 전망이다."
+          },
+          {
+            "t": "p",
+            "x": "식약처는 약 6개월간의 시범운영 기간 동안 연구자들의 피드백을 반영해 이용 절차와 분석 환경을 보완한 뒤, 2027년 7월부터 플랫폼을 본격 운영할 방침이다. 나아가 2030년까지 국내 9개 병원을 통해 3만 명 규모의 데이터를 추가로 구축할 계획이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Throat photos help tell\nstrep from viral infection",
-          "body": "A multimodal model pairing throat images with clinical data aims to tell strep pharyngitis from viral infection.",
-          "mini_headline": "Throat photos\nsort strep from viral",
+        "ko": {
+          "headline": "식약처, AI로\n약물 부작용 예측",
+          "body": "식약처가 부작용 예측 연구 플랫폼 K-PREDICT를 12월 4일 시범운영한다.",
+          "mini_headline": "약물 부작용 예측 AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/27/65420b6c-6ebb-4410-a925-7941b4c18aba.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Distinguishing Group A streptococcus (GAS) pharyngitis from viral upper respiratory tract infections (URTIs) is critical for appropriate antibiotic use but remains difficult on symptoms alone. We developed and internally validated a multimodal artificial intelligence (AI) model fusing pharyngeal images (Swin Transformer) with clinical metadata via gradient boosting decision trees, using 6666 visits and 119,988 images from 44 facilities collected March 2023–August 2025. For discriminating GAS from non-GAS (influenza A/B, COVID-19), the fusion model achieved area under the curve (AUC) 0.917 (95% confidence interval 0.907–0.926), outperforming image-only (0.902), metadata-only (0.871) and proxy Centor/McIsaac scores. At a pre-specified high-specificity threshold (≥0.90) sensitivity was 0.761; simulations indicated antibiotic-prescription reductions of 23–56% across GAS prevalences of 5–20%. External validation and prospective evaluation are needed."
+                "x": "식품의약품안전처 소속 식품의약품안전평가원이 오는 12월 4일 의약품 부작용 및 약물 반응성 예측 연구를 지원하는 통합 데이터 플랫폼 ‘K-PREDICT(케이-프레딕트)’의 시범운영에 돌입한다. 식약처는 같은 날 오후 2시 서울 중구 프레지던트 호텔에서 관련 설명회를 개최한다."
+              },
+              {
+                "t": "p",
+                "x": "‘K-PREDICT(Pharmacological Risk & Efficacy Detection Intelligence Center Tool)’는 실제 약물을 복용한 환자의 진료·검사 등 임상정보와 유전체·단백체·대사체 등 다양한 생체 정보(멀티오믹스)를 연계해 종합 분석할 수 있도록 구축된 데이터 플랫폼이다. 식약처는 2023년부터 플랫폼 구축을 추진해 왔으며, 지난해까지 국내 4개 병원에서 약물 복용 환자 약 7500명의 임상·멀티오믹스 데이터를 확보했다."
+              },
+              {
+                "t": "p",
+                "x": "연구자들은 이 플랫폼과 인공지능(AI) 기술 등을 활용해 개인별로 약물 반응이 다르게 나타나는 원인과 독성 작용기전을 규명할 수 있다. 특히 의약품의 효과 및 부작용을 미리 예측할 수 있는 새로운 생체지표(바이오마커) 발굴과 인체 기반 독성평가법 개발 등에 활용될 전망이다."
+              },
+              {
+                "t": "p",
+                "x": "식약처는 약 6개월간의 시범운영 기간 동안 연구자들의 피드백을 반영해 이용 절차와 분석 환경을 보완한 뒤, 2027년 7월부터 플랫폼을 본격 운영할 방침이다. 나아가 2030년까지 국내 9개 병원을 통해 3만 명 규모의 데이터를 추가로 구축할 계획이다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "목 사진으로 가르는\n연쇄상구균·바이러스 감염",
-          "body": "인후 영상과 임상 정보를 묶은 모델로 연쇄상구균 인두염과 바이러스 감염을 가른다.",
-          "mini_headline": "목 사진으로 연쇄상구균·바이러스 구분",
+        "en": {
+          "headline": "MFDS turns to AI to predict\nadverse drug reactions",
+          "body": "MFDS will start piloting K-PREDICT, a research platform for predicting drug side effects, on December 4.",
+          "mini_headline": "AI to predict drug side effects",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/27/65420b6c-6ebb-4410-a925-7941b4c18aba.jpg"
+              },
+              {
                 "t": "p",
-                "x": "항생제를 제대로 쓰려면 A군 연쇄상구균(GAS) 인두염과 바이러스성 상기도 감염(URTIs)을 가려야 하지만, 증상만으로는 여전히 어렵다. 연구진은 인두 영상(Swin Transformer)과 임상 메타데이터를 그래디언트 부스팅 의사결정나무로 융합한 멀티모달 인공지능(AI) 모델을 개발해 내부 검증했다. 데이터는 2023년 3월부터 2025년 8월까지 44개 기관에서 모은 6666건의 방문과 119,988장의 영상이다. GAS와 non-GAS(인플루엔자 A/B, COVID-19) 구별에서 융합 모델의 곡선하면적(AUC)은 0.917(95% 신뢰구간 0.907–0.926)로, 영상 단독(0.902), 메타데이터 단독(0.871), 대리 Centor/McIsaac 점수보다 높았다. 사전에 정한 고특이도 임계값(≥0.90)에서 민감도는 0.761이었다. 시뮬레이션에서는 GAS 유병률 5–20% 범위에서 항생제 처방이 23–56% 줄었다. 외부 검증과 전향적 평가는 아직 거쳐야 한다."
+                "x": "The National Institute of Food and Drug Safety Evaluation, part of the Ministry of Food and Drug Safety (MFDS), will begin a pilot run on December 4 of ‘K-PREDICT’, an integrated data platform that supports research on predicting adverse drug reactions and drug responsiveness. The MFDS will hold a briefing session on the platform at 2 p.m. the same day at the President Hotel in Jung-gu, Seoul."
+              },
+              {
+                "t": "p",
+                "x": "‘K-PREDICT (Pharmacological Risk & Efficacy Detection Intelligence Center Tool)’ is a data platform built to link and comprehensively analyze clinical information, such as consultations and tests, from patients who actually took medications, together with diverse biological information (multi-omics) including genomic, proteomic and metabolomic data. The MFDS has been building the platform since 2023 and, by last year, had secured clinical and multi-omics data on about 7,500 medicated patients from 4 hospitals in Korea."
+              },
+              {
+                "t": "p",
+                "x": "Researchers can use the platform and artificial intelligence (AI) technology to identify why drug responses differ from person to person and to uncover mechanisms of toxicity. In particular, it is expected to be used to discover new biomarkers that can predict the efficacy and side effects of drugs in advance and to develop human-based toxicity assessment methods."
+              },
+              {
+                "t": "p",
+                "x": "During the pilot period of about 6 months, the MFDS will refine the usage procedures and analysis environment based on researcher feedback, and plans to begin full operation of the platform in July 2027. It also plans to build additional data covering 30,000 people through 9 hospitals in Korea by 2030."
               }
             ]
           }
         },
         "ja": {
-          "headline": "のどの写真で溶連菌と\nウイルス感染を見分ける",
-          "body": "のどの画像と臨床データを使うマルチモーダルモデルで溶連菌咽頭炎とウイルス感染を見分ける。",
-          "mini_headline": "のどの写真で溶連菌とウイルスを判別",
+          "headline": "韓国食薬処、AIで\n薬の副作用を予測",
+          "body": "食薬処は副作用予測研究プラットフォームK-PREDICTを12月4日に試験運用する。",
+          "mini_headline": "薬の副作用を予測するAI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/27/65420b6c-6ebb-4410-a925-7941b4c18aba.jpg"
+              },
+              {
                 "t": "p",
-                "x": "A群溶血性レンサ球菌(GAS)咽頭炎とウイルス性上気道感染症(URTIs)の鑑別は、適切な抗菌薬使用に欠かせないが、症状だけでは依然として難しい。我々は、咽頭画像(Swin Transformer)と臨床メタデータを勾配ブースティング決定木で融合するマルチモーダル人工知能(AI)モデルを開発し、内部検証を行った。データは2023年3月〜2025年8月に44施設で収集した6666件の受診と119,988枚の画像である。GASとnon-GAS(インフルエンザA/B、COVID-19)の判別において、融合モデルの曲線下面積(AUC)は0.917(95%信頼区間0.907–0.926)で、画像のみ(0.902)、メタデータのみ(0.871)、代替指標としてのCentor/McIsaacスコアを上回った。事前に定めた高特異度の閾値(≥0.90)での感度は0.761で、シミュレーションではGAS有病率5–20%の範囲で抗菌薬処方が23–56%減少することが示された。外部検証と前向き評価が必要である。"
+                "x": "韓国の食品医薬品安全処(食薬処)傘下の食品医薬品安全評価院は12月4日、医薬品の副作用と薬物反応性の予測研究を支援する統合データプラットフォーム「K-PREDICT(ケイ・プレディクト)」の試験運用を始める。食薬処は同日午後2時、ソウル中区のプレジデントホテルで関連の説明会を開く。"
+              },
+              {
+                "t": "p",
+                "x": "「K-PREDICT(Pharmacological Risk & Efficacy Detection Intelligence Center Tool)」は、実際に薬を服用した患者の診療・検査などの臨床情報と、ゲノム・プロテオーム・メタボロームなど多様な生体情報(マルチオミクス)を連携させ、総合的に分析できるよう構築したデータプラットフォームだ。食薬処は2023年から構築を進め、昨年までに国内4病院で服薬患者約7500人の臨床・マルチオミクスデータを確保した。"
+              },
+              {
+                "t": "p",
+                "x": "研究者はこのプラットフォームと人工知能(AI)技術などを活用し、薬物反応が個人ごとに異なる原因や毒性の作用機序を解明できる。特に、医薬品の効果や副作用を事前に予測できる新たなバイオマーカーの発掘や、ヒトを基盤とした毒性評価法の開発などに役立つ見通しだ。"
+              },
+              {
+                "t": "p",
+                "x": "食薬処は約6カ月の試験運用期間に研究者のフィードバックを反映して利用手続きと分析環境を改善し、2027年7月から本格運用する方針だ。さらに2030年までに国内9病院を通じて3万人規模のデータを追加で構築する計画である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "咽喉照片助力区分\n链球菌与病毒感染",
-          "body": "多模态模型结合咽喉图像与临床数据，旨在区分链球菌咽炎与病毒感染。",
-          "mini_headline": "咽喉照片区分链球菌与病毒",
+          "headline": "韩国食药处用AI\n预测药物副作用",
+          "body": "韩国食药处将于12月4日试运行副作用预测研究平台K-PREDICT。",
+          "mini_headline": "预测药物副作用的AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/27/65420b6c-6ebb-4410-a925-7941b4c18aba.jpg"
+              },
+              {
                 "t": "p",
-                "x": "区分A组链球菌（GAS）咽炎与病毒性上呼吸道感染（URTIs）对合理使用抗生素至关重要，但仅凭症状仍难以判断。我们开发并内部验证了一种多模态人工智能（AI）模型，通过梯度提升决策树融合咽部图像（Swin Transformer）与临床元数据，所用数据为2023年3月至2025年8月从44家机构收集的6666次就诊和119,988张图像。在区分GAS与non-GAS（A/B型流感、COVID-19）时，融合模型的曲线下面积（AUC）为0.917（95%置信区间0.907–0.926），优于仅图像模型（0.902）、仅元数据模型（0.871）以及替代性的Centor/McIsaac评分。在预先设定的高特异度阈值（≥0.90）下，敏感度为0.761；模拟显示，在GAS患病率为5–20%的情况下，抗生素处方可减少23–56%。仍需进行外部验证和前瞻性评估。"
+                "x": "韩国食品医药品安全处(食药处)下属的食品医药品安全评价院将于12月4日启动综合数据平台“K-PREDICT”的试运行，该平台用于支持药物副作用及药物反应性预测研究。食药处将于同日下午2时在首尔中区总统酒店(President Hotel)举行相关说明会。"
+              },
+              {
+                "t": "p",
+                "x": "“K-PREDICT(Pharmacological Risk & Efficacy Detection Intelligence Center Tool)”是一个数据平台，可将实际服药患者的诊疗、检查等临床信息与基因组、蛋白质组、代谢组等多种生物信息(多组学)相互关联并进行综合分析。食药处自2023年起推进平台建设，截至去年已从韩国国内4家医院获得约7500名服药患者的临床及多组学数据。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员可借助该平台和人工智能(AI)等技术，查明药物反应因人而异的原因以及毒性作用机制。尤其是，该平台有望用于发掘可提前预测药物疗效和副作用的新型生物标志物，以及开发基于人体的毒性评价方法。"
+              },
+              {
+                "t": "p",
+                "x": "食药处计划在约6个月的试运行期间吸纳研究人员的反馈，完善使用流程和分析环境，并从2027年7月起正式运营该平台。此外，还计划到2030年通过韩国国内9家医院追加构建3万人规模的数据。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fotos de garganta para separar\nestreptococo e infección viral",
-          "body": "Un modelo que une imágenes de garganta y datos clínicos busca separar faringitis estreptocócica de infección viral.",
-          "mini_headline": "Fotos de garganta separan estreptococo y virus",
+          "headline": "La MFDS usa AI para predecir\nefectos adversos de fármacos",
+          "body": "La MFDS iniciará el 4 de diciembre el piloto de K-PREDICT, una plataforma para investigar efectos adversos.",
+          "mini_headline": "AI para predecir efectos adversos",
           "full": {
-            "mode": "full",
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/27/65420b6c-6ebb-4410-a925-7941b4c18aba.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El Instituto Nacional de Evaluación de la Seguridad de Alimentos y Medicamentos, dependiente del Ministerio de Seguridad de Alimentos y Medicamentos de Corea (MFDS), iniciará el 4 de diciembre la operación piloto de ‘K-PREDICT’, una plataforma integrada de datos que apoya la investigación para predecir reacciones adversas y la respuesta a los medicamentos. Ese mismo día, a las 2 de la tarde, la MFDS celebrará una sesión informativa en el hotel President, en Jung-gu (Seúl)."
+              },
+              {
+                "t": "p",
+                "x": "‘K-PREDICT (Pharmacological Risk & Efficacy Detection Intelligence Center Tool)’ es una plataforma de datos creada para vincular y analizar de forma integral la información clínica, como consultas y pruebas, de pacientes que realmente tomaron medicamentos, junto con diversa información biológica (multiómica) como la genómica, la proteómica y la metabolómica. La MFDS impulsa su construcción desde 2023 y, hasta el año pasado, reunió datos clínicos y multiómicos de unos 7500 pacientes medicados en 4 hospitales del país."
+              },
+              {
+                "t": "p",
+                "x": "Los investigadores podrán usar la plataforma y tecnologías de inteligencia artificial (AI) para esclarecer por qué la respuesta a los fármacos varía entre personas y cuáles son los mecanismos de toxicidad. En particular, se prevé que sirva para descubrir nuevos biomarcadores capaces de predecir de antemano la eficacia y los efectos adversos de los medicamentos, y para desarrollar métodos de evaluación de toxicidad basados en humanos."
+              },
+              {
+                "t": "p",
+                "x": "Durante el periodo piloto de unos 6 meses, la MFDS incorporará la retroalimentación de los investigadores para mejorar los procedimientos de uso y el entorno de análisis, y prevé poner la plataforma en pleno funcionamiento a partir de julio de 2027. Además, planea reunir datos adicionales de 30.000 personas a través de 9 hospitales del país hasta 2030."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "MFDS turns to AI to predict\nadverse drug reactions",
+          "body": "MFDS will start piloting K-PREDICT, a research platform for predicting drug side effects, on December 4.",
+          "mini_headline": "AI to predict drug side effects",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/27/65420b6c-6ebb-4410-a925-7941b4c18aba.jpg"
+              },
+              {
+                "t": "p",
+                "x": "The National Institute of Food and Drug Safety Evaluation, part of the Ministry of Food and Drug Safety (MFDS), will begin a pilot run on December 4 of ‘K-PREDICT’, an integrated data platform that supports research on predicting adverse drug reactions and drug responsiveness. The MFDS will hold a briefing session on the platform at 2 p.m. the same day at the President Hotel in Jung-gu, Seoul."
+              },
+              {
+                "t": "p",
+                "x": "‘K-PREDICT (Pharmacological Risk & Efficacy Detection Intelligence Center Tool)’ is a data platform built to link and comprehensively analyze clinical information, such as consultations and tests, from patients who actually took medications, together with diverse biological information (multi-omics) including genomic, proteomic and metabolomic data. The MFDS has been building the platform since 2023 and, by last year, had secured clinical and multi-omics data on about 7,500 medicated patients from 4 hospitals in Korea."
+              },
+              {
+                "t": "p",
+                "x": "Researchers can use the platform and artificial intelligence (AI) technology to identify why drug responses differ from person to person and to uncover mechanisms of toxicity. In particular, it is expected to be used to discover new biomarkers that can predict the efficacy and side effects of drugs in advance and to develop human-based toxicity assessment methods."
+              },
+              {
+                "t": "p",
+                "x": "During the pilot period of about 6 months, the MFDS will refine the usage procedures and analysis environment based on researcher feedback, and plans to begin full operation of the platform in July 2027. It also plans to build additional data covering 30,000 people through 9 hospitals in Korea by 2030."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "韓国食薬処、AIで\n薬の副作用を予測",
+          "body": "食薬処は副作用予測研究プラットフォームK-PREDICTを12月4日に試験運用する。",
+          "mini_headline": "薬の副作用を予測するAI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/27/65420b6c-6ebb-4410-a925-7941b4c18aba.jpg"
+              },
+              {
+                "t": "p",
+                "x": "韓国の食品医薬品安全処(食薬処)傘下の食品医薬品安全評価院は12月4日、医薬品の副作用と薬物反応性の予測研究を支援する統合データプラットフォーム「K-PREDICT(ケイ・プレディクト)」の試験運用を始める。食薬処は同日午後2時、ソウル中区のプレジデントホテルで関連の説明会を開く。"
+              },
+              {
+                "t": "p",
+                "x": "「K-PREDICT(Pharmacological Risk & Efficacy Detection Intelligence Center Tool)」は、実際に薬を服用した患者の診療・検査などの臨床情報と、ゲノム・プロテオーム・メタボロームなど多様な生体情報(マルチオミクス)を連携させ、総合的に分析できるよう構築したデータプラットフォームだ。食薬処は2023年から構築を進め、昨年までに国内4病院で服薬患者約7500人の臨床・マルチオミクスデータを確保した。"
+              },
+              {
+                "t": "p",
+                "x": "研究者はこのプラットフォームと人工知能(AI)技術などを活用し、薬物反応が個人ごとに異なる原因や毒性の作用機序を解明できる。特に、医薬品の効果や副作用を事前に予測できる新たなバイオマーカーの発掘や、ヒトを基盤とした毒性評価法の開発などに役立つ見通しだ。"
+              },
+              {
+                "t": "p",
+                "x": "食薬処は約6カ月の試験運用期間に研究者のフィードバックを反映して利用手続きと分析環境を改善し、2027年7月から本格運用する方針だ。さらに2030年までに国内9病院を通じて3万人規模のデータを追加で構築する計画である。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "韩国食药处用AI\n预测药物副作用",
+          "body": "韩国食药处将于12月4日试运行副作用预测研究平台K-PREDICT。",
+          "mini_headline": "预测药物副作用的AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/27/65420b6c-6ebb-4410-a925-7941b4c18aba.jpg"
+              },
+              {
+                "t": "p",
+                "x": "韩国食品医药品安全处(食药处)下属的食品医药品安全评价院将于12月4日启动综合数据平台“K-PREDICT”的试运行，该平台用于支持药物副作用及药物反应性预测研究。食药处将于同日下午2时在首尔中区总统酒店(President Hotel)举行相关说明会。"
+              },
+              {
+                "t": "p",
+                "x": "“K-PREDICT(Pharmacological Risk & Efficacy Detection Intelligence Center Tool)”是一个数据平台，可将实际服药患者的诊疗、检查等临床信息与基因组、蛋白质组、代谢组等多种生物信息(多组学)相互关联并进行综合分析。食药处自2023年起推进平台建设，截至去年已从韩国国内4家医院获得约7500名服药患者的临床及多组学数据。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员可借助该平台和人工智能(AI)等技术，查明药物反应因人而异的原因以及毒性作用机制。尤其是，该平台有望用于发掘可提前预测药物疗效和副作用的新型生物标志物，以及开发基于人体的毒性评价方法。"
+              },
+              {
+                "t": "p",
+                "x": "食药处计划在约6个月的试运行期间吸纳研究人员的反馈，完善使用流程和分析环境，并从2027年7月起正式运营该平台。此外，还计划到2030年通过韩国国内9家医院追加构建3万人规模的数据。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La MFDS usa AI para predecir\nefectos adversos de fármacos",
+          "body": "La MFDS iniciará el 4 de diciembre el piloto de K-PREDICT, una plataforma para investigar efectos adversos.",
+          "mini_headline": "AI para predecir efectos adversos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/11/27/65420b6c-6ebb-4410-a925-7941b4c18aba.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El Instituto Nacional de Evaluación de la Seguridad de Alimentos y Medicamentos, dependiente del Ministerio de Seguridad de Alimentos y Medicamentos de Corea (MFDS), iniciará el 4 de diciembre la operación piloto de ‘K-PREDICT’, una plataforma integrada de datos que apoya la investigación para predecir reacciones adversas y la respuesta a los medicamentos. Ese mismo día, a las 2 de la tarde, la MFDS celebrará una sesión informativa en el hotel President, en Jung-gu (Seúl)."
+              },
+              {
+                "t": "p",
+                "x": "‘K-PREDICT (Pharmacological Risk & Efficacy Detection Intelligence Center Tool)’ es una plataforma de datos creada para vincular y analizar de forma integral la información clínica, como consultas y pruebas, de pacientes que realmente tomaron medicamentos, junto con diversa información biológica (multiómica) como la genómica, la proteómica y la metabolómica. La MFDS impulsa su construcción desde 2023 y, hasta el año pasado, reunió datos clínicos y multiómicos de unos 7500 pacientes medicados en 4 hospitales del país."
+              },
+              {
+                "t": "p",
+                "x": "Los investigadores podrán usar la plataforma y tecnologías de inteligencia artificial (AI) para esclarecer por qué la respuesta a los fármacos varía entre personas y cuáles son los mecanismos de toxicidad. En particular, se prevé que sirva para descubrir nuevos biomarcadores capaces de predecir de antemano la eficacia y los efectos adversos de los medicamentos, y para desarrollar métodos de evaluación de toxicidad basados en humanos."
+              },
+              {
+                "t": "p",
+                "x": "Durante el periodo piloto de unos 6 meses, la MFDS incorporará la retroalimentación de los investigadores para mejorar los procedimientos de uso y el entorno de análisis, y prevé poner la plataforma en pleno funcionamiento a partir de julio de 2027. Además, planea reunir datos adicionales de 30.000 personas a través de 9 hospitales del país hasta 2030."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "sath-limbus-ai-autocontouring",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 자동 윤곽으로\n방사선치료 대기 단축",
+      "body": "SaTH는 Limbus AI 자동 윤곽을 전면 도입해 주당 약 10시간을 줄였다.",
+      "mini_headline": "AI로 빨라진 방사선치료",
+      "tool": "Medicine",
+      "source": "Shrewsbury and Telford Hospital NHS Trust",
+      "url": "https://www.sath.nhs.uk/news/ai-technology-helping-local-cancer-patients-access-treatment-faster/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "The Shrewsbury and Telford Hospital NHS Trust(SaTH)에서는 인공지능(AI) 도구 덕분에 지역 암 환자들이 방사선치료를 더 빠르고 정확하게 받는다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.sath.nhs.uk/wp-content/uploads/2026/11/Adam-Williams-and-Claire-Puzey-from-SaTHs-Radiotherapy-Team-using-the-Limbus-AI-tool.png",
+            "cap": "Limbus AI 도구를 사용하는 SaTH 방사선치료팀의 Adam Williams와 Claire Puzey"
+          },
+          {
+            "t": "p",
+            "x": "Royal Shrewsbury Hospital과 Telford의 Princess Royal Hospital을 운영하는 SaTH는 Limbus라는 AI-powered 시스템으로 방사선치료 계획을 세운다. Limbus는 치료 계획 단계에서 보호해야 할 건강한 장기를 계획용 CT 영상에서 정확히 찾아낸다."
+          },
+          {
+            "t": "p",
+            "x": "AI를 쓰면 윤곽 설정 작업이 수작업만 할 때보다 주당 약 10시간 줄어든다. SaTH는 지금 모든 치료 부위의 건강한 장기와 일부 치료 대상 부위 윤곽을 이 도구로 그리며, 앞으로 더 다양한 치료 표적으로 넓힐 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "방사선치료 물리학 책임자인 Rick Sims 박사는 “윤곽 설정은 늘 시간이 많이 드는 작업이었고, 특히 복잡한 사례는 최대 네 시간이 걸리기도 했다. 이제 효율성과 일관성 모두에서 상당한 개선을 보고 있다”고 말했다. 임상팀이 지금도 전 과정을 쥐고 있고, 필요하면 윤곽을 꼼꼼히 검토해 고친다는 설명도 덧붙였다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI contouring shortens\nthe wait for radiotherapy",
+          "body": "SaTH now uses Limbus AI auto-contouring for all radiotherapy sites, saving about 10 hours of contouring a week.",
+          "mini_headline": "AI speeds radiotherapy",
+          "full": {
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Distinguir la faringitis por estreptococo del grupo A (GAS) de las infecciones virales de las vías respiratorias superiores (URTIs) es clave para un uso adecuado de los antibióticos, pero sigue siendo difícil solo con los síntomas. Desarrollamos y validamos internamente un modelo multimodal de inteligencia artificial (AI) que fusiona imágenes faríngeas (Swin Transformer) con metadatos clínicos mediante árboles de decisión potenciados por gradiente, a partir de 6666 visitas y 119,988 imágenes de 44 centros recogidas entre marzo de 2023 y agosto de 2025. Para discriminar GAS de non-GAS (gripe A/B, COVID-19), el modelo de fusión alcanzó un área bajo la curva (AUC) de 0.917 (intervalo de confianza del 95% 0.907–0.926), superior al modelo solo con imágenes (0.902), al de solo metadatos (0.871) y a las puntuaciones Centor/McIsaac aproximadas. Con un umbral de alta especificidad predefinido (≥0.90), la sensibilidad fue de 0.761; las simulaciones indicaron reducciones de la prescripción de antibióticos del 23–56% con prevalencias de GAS del 5–20%. Se necesitan validación externa y evaluación prospectiva."
+                "x": "An Artificial Intelligence (AI) tool is helping local cancer patients receive radiotherapy treatment more quickly and accurately at The Shrewsbury and Telford Hospital NHS Trust (SaTH)."
+              },
+              {
+                "t": "img",
+                "src": "https://www.sath.nhs.uk/wp-content/uploads/2026/11/Adam-Williams-and-Claire-Puzey-from-SaTHs-Radiotherapy-Team-using-the-Limbus-AI-tool.png",
+                "cap": "Adam Williams and Claire Puzey from SaTH’s Radiotherapy Team with the Limbus AI tool"
+              },
+              {
+                "t": "p",
+                "x": "SaTH, which runs the Royal Shrewsbury Hospital and Princess Royal Hospital in Telford, is using an AI-powered system called Limbus to support the planning of radiotherapy treatments. Limbus is used to accurately identify healthy organs on planning CT scans that need to be protected during treatment planning."
+              },
+              {
+                "t": "p",
+                "x": "With the support of AI, the contouring process saves around 10 hours per week compared to manual methods alone. It is currently being used at SaTH for all treatment sites to contour healthy organs and selected areas requiring treatment, with the potential to expand its use to a wider range of treatment targets in the future."
+              },
+              {
+                "t": "p",
+                "x": "Dr Rick Sims, Head of Radiotherapy Physics, said: “Contouring has always been a very time-consuming process, sometimes taking up to four hours for particularly complex cases. We are now seeing significant improvements in both efficiency and consistency.” He added that the clinical team remains fully in control, carefully reviewing and adjusting the contours where required."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 자동 윤곽으로\n방사선치료 대기 단축",
+          "body": "SaTH는 Limbus AI 자동 윤곽을 전면 도입해 주당 약 10시간을 줄였다.",
+          "mini_headline": "AI로 빨라진 방사선치료",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "The Shrewsbury and Telford Hospital NHS Trust(SaTH)에서는 인공지능(AI) 도구 덕분에 지역 암 환자들이 방사선치료를 더 빠르고 정확하게 받는다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.sath.nhs.uk/wp-content/uploads/2026/11/Adam-Williams-and-Claire-Puzey-from-SaTHs-Radiotherapy-Team-using-the-Limbus-AI-tool.png",
+                "cap": "Limbus AI 도구를 사용하는 SaTH 방사선치료팀의 Adam Williams와 Claire Puzey"
+              },
+              {
+                "t": "p",
+                "x": "Royal Shrewsbury Hospital과 Telford의 Princess Royal Hospital을 운영하는 SaTH는 Limbus라는 AI-powered 시스템으로 방사선치료 계획을 세운다. Limbus는 치료 계획 단계에서 보호해야 할 건강한 장기를 계획용 CT 영상에서 정확히 찾아낸다."
+              },
+              {
+                "t": "p",
+                "x": "AI를 쓰면 윤곽 설정 작업이 수작업만 할 때보다 주당 약 10시간 줄어든다. SaTH는 지금 모든 치료 부위의 건강한 장기와 일부 치료 대상 부위 윤곽을 이 도구로 그리며, 앞으로 더 다양한 치료 표적으로 넓힐 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "방사선치료 물리학 책임자인 Rick Sims 박사는 “윤곽 설정은 늘 시간이 많이 드는 작업이었고, 특히 복잡한 사례는 최대 네 시간이 걸리기도 했다. 이제 효율성과 일관성 모두에서 상당한 개선을 보고 있다”고 말했다. 임상팀이 지금도 전 과정을 쥐고 있고, 필요하면 윤곽을 꼼꼼히 검토해 고친다는 설명도 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI輪郭抽出で\n放射線治療の待ちを短縮",
+          "body": "SaTHは全照射部位でLimbus AIの自動輪郭抽出を使い、週約10時間を節約する。",
+          "mini_headline": "AIで放射線治療を迅速化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "人工知能(AI)ツールが、The Shrewsbury and Telford Hospital NHS Trust(SaTH)で地域のがん患者が放射線治療をより早く、より正確に受けられるよう支援している。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.sath.nhs.uk/wp-content/uploads/2026/11/Adam-Williams-and-Claire-Puzey-from-SaTHs-Radiotherapy-Team-using-the-Limbus-AI-tool.png",
+                "cap": "Limbus AIツールを使うSaTH放射線治療チームのAdam WilliamsとClaire Puzey"
+              },
+              {
+                "t": "p",
+                "x": "Royal Shrewsbury HospitalとTelfordのPrincess Royal Hospitalを運営するSaTHは、放射線治療の計画を支援するため、LimbusというAI-poweredシステムを使っている。Limbusは、治療計画の際に保護すべき健康な臓器を計画用CT画像上で正確に特定するために用いられる。"
+              },
+              {
+                "t": "p",
+                "x": "AIの支援により、輪郭抽出作業は手作業のみの場合に比べて週に約10時間短縮される。現在SaTHでは全治療部位で健康な臓器と一部の治療対象領域の輪郭抽出に使われており、今後はより幅広い治療標的へ用途を広げる可能性がある。"
+              },
+              {
+                "t": "p",
+                "x": "放射線治療物理部門の責任者であるRick Sims博士は「輪郭抽出は常に非常に時間のかかる作業で、特に複雑な症例では最大四時間かかることもあった。今では効率と一貫性の両面で大きな改善が見られる」と述べた。さらに、臨床チームが引き続き全面的に管理し、必要に応じて輪郭を慎重に確認・修正していると付け加えた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI勾画缩短\n放疗等待时间",
+          "body": "SaTH已在所有放疗部位使用Limbus AI自动勾画，每周节省约10小时。",
+          "mini_headline": "AI加速放疗",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "在The Shrewsbury and Telford Hospital NHS Trust(SaTH)，一款人工智能(AI)工具正帮助当地癌症患者更快、更准确地接受放射治疗。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.sath.nhs.uk/wp-content/uploads/2026/11/Adam-Williams-and-Claire-Puzey-from-SaTHs-Radiotherapy-Team-using-the-Limbus-AI-tool.png",
+                "cap": "SaTH放疗团队的Adam Williams和Claire Puzey在使用Limbus AI工具"
+              },
+              {
+                "t": "p",
+                "x": "SaTH运营着Royal Shrewsbury Hospital和位于Telford的Princess Royal Hospital，目前正使用名为Limbus的AI-powered系统辅助制定放疗计划。Limbus用于在计划CT图像上准确识别治疗计划中需要保护的健康器官。"
+              },
+              {
+                "t": "p",
+                "x": "在AI的辅助下，勾画流程与单纯手工方式相比每周可节省约10小时。目前SaTH已在所有治疗部位用它勾画健康器官和部分需要治疗的区域，未来还有可能扩展到更多类型的治疗靶区。"
+              },
+              {
+                "t": "p",
+                "x": "放疗物理负责人Rick Sims博士表示：“勾画一直是非常耗时的工作，特别复杂的病例有时需要长达四个小时。现在我们看到效率和一致性都有了显著提升。”他补充说，临床团队仍完全掌控整个过程，会在必要时仔细审核并调整勾画结果。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El contorneo con AI acorta\nla espera de radioterapia",
+          "body": "SaTH usa el contorneo automático de Limbus AI en todas las zonas de radioterapia y ahorra unas 10 horas semanales.",
+          "mini_headline": "La AI agiliza la radioterapia",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Una herramienta de inteligencia artificial (AI) está ayudando a los pacientes oncológicos de la zona a recibir radioterapia de forma más rápida y precisa en The Shrewsbury and Telford Hospital NHS Trust (SaTH)."
+              },
+              {
+                "t": "img",
+                "src": "https://www.sath.nhs.uk/wp-content/uploads/2026/11/Adam-Williams-and-Claire-Puzey-from-SaTHs-Radiotherapy-Team-using-the-Limbus-AI-tool.png",
+                "cap": "Adam Williams y Claire Puzey, del equipo de radioterapia de SaTH, con la herramienta Limbus AI"
+              },
+              {
+                "t": "p",
+                "x": "SaTH, que gestiona el Royal Shrewsbury Hospital y el Princess Royal Hospital de Telford, utiliza un sistema AI-powered llamado Limbus para apoyar la planificación de los tratamientos de radioterapia. Limbus sirve para identificar con precisión, en las CT de planificación, los órganos sanos que deben protegerse durante la planificación del tratamiento."
+              },
+              {
+                "t": "p",
+                "x": "Con el apoyo de la AI, el proceso de contorneo ahorra unas 10 horas por semana frente a los métodos solo manuales. Actualmente SaTH lo usa en todas las zonas de tratamiento para contornear órganos sanos y áreas seleccionadas que requieren tratamiento, con la posibilidad de ampliar su uso a una gama más amplia de objetivos terapéuticos en el futuro."
+              },
+              {
+                "t": "p",
+                "x": "El Dr Rick Sims, jefe de Física de Radioterapia, afirmó: “El contorneo siempre ha sido un proceso que consume mucho tiempo, a veces hasta cuatro horas en los casos especialmente complejos. Ahora vemos mejoras significativas tanto en eficiencia como en coherencia”. Añadió que el equipo clínico mantiene el control total y revisa y ajusta con cuidado los contornos cuando es necesario."
               }
             ]
           }
@@ -1105,57 +1145,357 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "목 사진으로 가르는\n연쇄상구균·바이러스 감염",
-          "body": "인후 영상과 임상 정보를 묶은 모델로 연쇄상구균 인두염과 바이러스 감염을 가른다.",
-          "mini_headline": "목 사진으로 연쇄상구균·바이러스 구분",
+          "headline": "AI 자동 윤곽으로\n방사선치료 대기 단축",
+          "body": "SaTH가 Limbus AI 자동 윤곽을 전면 도입해 주당 약 10시간을 아낀다.",
+          "mini_headline": "AI로 빨라진 방사선치료",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "A군 연쇄상구균(GAS) 인두염과 바이러스성 상기도 감염(URTIs)을 구별하는 일은 항생제를 적절히 쓰는 데 중요하지만, 증상만으로는 여전히 어렵다. 연구진은 인두 영상(Swin Transformer)과 임상 메타데이터를 그래디언트 부스팅 의사결정나무로 융합한 멀티모달 인공지능(AI) 모델을 개발하고 내부 검증했으며, 2023년 3월부터 2025년 8월까지 44개 기관에서 수집한 6666건의 방문과 119,988장의 영상을 사용했다. GAS와 non-GAS(인플루엔자 A/B, COVID-19)를 구별하는 데서 융합 모델의 곡선하면적(AUC)은 0.917(95% 신뢰구간 0.907–0.926)로, 영상 단독(0.902), 메타데이터 단독(0.871), 대리 Centor/McIsaac 점수보다 우수했다. 사전에 정한 고특이도 임계값(≥0.90)에서 민감도는 0.761이었으며, 시뮬레이션에서는 GAS 유병률 5–20% 범위에서 항생제 처방이 23–56% 줄어드는 것으로 나타났다. 외부 검증과 전향적 평가가 필요하다."
+                "x": "인공지능(AI) 도구가 The Shrewsbury and Telford Hospital NHS Trust(SaTH)에서 지역 암 환자들이 방사선치료를 더 빠르고 정확하게 받도록 돕고 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.sath.nhs.uk/wp-content/uploads/2026/11/Adam-Williams-and-Claire-Puzey-from-SaTHs-Radiotherapy-Team-using-the-Limbus-AI-tool.png",
+                "cap": "Limbus AI 도구를 사용하는 SaTH 방사선치료팀의 Adam Williams와 Claire Puzey"
+              },
+              {
+                "t": "p",
+                "x": "Royal Shrewsbury Hospital과 Telford의 Princess Royal Hospital을 운영하는 SaTH는 방사선치료 계획을 돕는 Limbus라는 AI-powered 시스템을 쓰고 있다. Limbus는 치료 계획 단계에서 보호해야 할 건강한 장기를 계획용 CT 영상에서 정확히 찾아내는 데 쓰인다."
+              },
+              {
+                "t": "p",
+                "x": "AI의 도움으로 윤곽 설정 작업은 수작업만 할 때보다 주당 약 10시간을 절약한다. 현재 SaTH는 모든 치료 부위에서 건강한 장기와 일부 치료 대상 부위의 윤곽을 그리는 데 이 도구를 쓰고 있으며, 앞으로 더 다양한 치료 표적으로 사용을 넓힐 가능성이 있다."
+              },
+              {
+                "t": "p",
+                "x": "방사선치료 물리학 책임자인 Rick Sims 박사는 “윤곽 설정은 늘 시간이 많이 드는 작업이었고, 특히 복잡한 사례는 최대 네 시간이 걸리기도 했다. 이제 효율성과 일관성 모두에서 상당한 개선을 보고 있다”고 말했다. 그는 임상팀이 여전히 전 과정을 통제하며 필요하면 윤곽을 꼼꼼히 검토하고 조정한다고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "のどの写真で溶連菌と\nウイルス感染を見分ける",
-          "body": "のどの画像と臨床データを使うマルチモーダルモデルで溶連菌咽頭炎とウイルス感染を見分ける。",
-          "mini_headline": "のどの写真で溶連菌とウイルスを判別",
+          "headline": "AI輪郭抽出で\n放射線治療の待ちを短縮",
+          "body": "SaTHは全照射部位でLimbus AIの自動輪郭抽出を使い、週約10時間を節約する。",
+          "mini_headline": "AIで放射線治療を迅速化",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "A群溶血性レンサ球菌(GAS)咽頭炎とウイルス性上気道感染症(URTIs)の鑑別は、適切な抗菌薬使用に欠かせないが、症状だけでは依然として難しい。我々は、咽頭画像(Swin Transformer)と臨床メタデータを勾配ブースティング決定木で融合するマルチモーダル人工知能(AI)モデルを開発し、内部検証を行った。データは2023年3月〜2025年8月に44施設で収集した6666件の受診と119,988枚の画像である。GASとnon-GAS(インフルエンザA/B、COVID-19)の判別において、融合モデルの曲線下面積(AUC)は0.917(95%信頼区間0.907–0.926)で、画像のみ(0.902)、メタデータのみ(0.871)、代替指標としてのCentor/McIsaacスコアを上回った。事前に定めた高特異度の閾値(≥0.90)での感度は0.761で、シミュレーションではGAS有病率5–20%の範囲で抗菌薬処方が23–56%減少することが示された。外部検証と前向き評価が必要である。"
+                "x": "人工知能(AI)ツールが、The Shrewsbury and Telford Hospital NHS Trust(SaTH)で地域のがん患者が放射線治療をより早く、より正確に受けられるよう支援している。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.sath.nhs.uk/wp-content/uploads/2026/11/Adam-Williams-and-Claire-Puzey-from-SaTHs-Radiotherapy-Team-using-the-Limbus-AI-tool.png",
+                "cap": "Limbus AIツールを使うSaTH放射線治療チームのAdam WilliamsとClaire Puzey"
+              },
+              {
+                "t": "p",
+                "x": "Royal Shrewsbury HospitalとTelfordのPrincess Royal Hospitalを運営するSaTHは、放射線治療の計画を支援するため、LimbusというAI-poweredシステムを使っている。Limbusは、治療計画の際に保護すべき健康な臓器を計画用CT画像上で正確に特定するために用いられる。"
+              },
+              {
+                "t": "p",
+                "x": "AIの支援により、輪郭抽出作業は手作業のみの場合に比べて週に約10時間短縮される。現在SaTHでは全治療部位で健康な臓器と一部の治療対象領域の輪郭抽出に使われており、今後はより幅広い治療標的へ用途を広げる可能性がある。"
+              },
+              {
+                "t": "p",
+                "x": "放射線治療物理部門の責任者であるRick Sims博士は「輪郭抽出は常に非常に時間のかかる作業で、特に複雑な症例では最大四時間かかることもあった。今では効率と一貫性の両面で大きな改善が見られる」と述べた。さらに、臨床チームが引き続き全面的に管理し、必要に応じて輪郭を慎重に確認・修正していると付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "咽喉照片助力区分\n链球菌与病毒感染",
-          "body": "多模态模型结合咽喉图像与临床数据，旨在区分链球菌咽炎与病毒感染。",
-          "mini_headline": "咽喉照片区分链球菌与病毒",
+          "headline": "AI勾画缩短\n放疗等待时间",
+          "body": "SaTH已在所有放疗部位使用Limbus AI自动勾画，每周节省约10小时。",
+          "mini_headline": "AI加速放疗",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "区分A组链球菌（GAS）咽炎与病毒性上呼吸道感染（URTIs）对合理使用抗生素至关重要，但仅凭症状仍难以判断。我们开发并内部验证了一种多模态人工智能（AI）模型，通过梯度提升决策树融合咽部图像（Swin Transformer）与临床元数据，所用数据为2023年3月至2025年8月从44家机构收集的6666次就诊和119,988张图像。在区分GAS与non-GAS（A/B型流感、COVID-19）时，融合模型的曲线下面积（AUC）为0.917（95%置信区间0.907–0.926），优于仅图像模型（0.902）、仅元数据模型（0.871）以及替代性的Centor/McIsaac评分。在预先设定的高特异度阈值（≥0.90）下，敏感度为0.761；模拟显示，在GAS患病率为5–20%的情况下，抗生素处方可减少23–56%。仍需进行外部验证和前瞻性评估。"
+                "x": "在The Shrewsbury and Telford Hospital NHS Trust(SaTH)，一款人工智能(AI)工具正帮助当地癌症患者更快、更准确地接受放射治疗。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.sath.nhs.uk/wp-content/uploads/2026/11/Adam-Williams-and-Claire-Puzey-from-SaTHs-Radiotherapy-Team-using-the-Limbus-AI-tool.png",
+                "cap": "SaTH放疗团队的Adam Williams和Claire Puzey在使用Limbus AI工具"
+              },
+              {
+                "t": "p",
+                "x": "SaTH运营着Royal Shrewsbury Hospital和位于Telford的Princess Royal Hospital，目前正使用名为Limbus的AI-powered系统辅助制定放疗计划。Limbus用于在计划CT图像上准确识别治疗计划中需要保护的健康器官。"
+              },
+              {
+                "t": "p",
+                "x": "在AI的辅助下，勾画流程与单纯手工方式相比每周可节省约10小时。目前SaTH已在所有治疗部位用它勾画健康器官和部分需要治疗的区域，未来还有可能扩展到更多类型的治疗靶区。"
+              },
+              {
+                "t": "p",
+                "x": "放疗物理负责人Rick Sims博士表示：“勾画一直是非常耗时的工作，特别复杂的病例有时需要长达四个小时。现在我们看到效率和一致性都有了显著提升。”他补充说，临床团队仍完全掌控整个过程，会在必要时仔细审核并调整勾画结果。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fotos de garganta para separar\nestreptococo e infección viral",
-          "body": "Un modelo que une imágenes de garganta y datos clínicos busca separar faringitis estreptocócica de infección viral.",
-          "mini_headline": "Fotos de garganta separan estreptococo y virus",
+          "headline": "El contorneo con AI acorta\nla espera de radioterapia",
+          "body": "SaTH usa el contorneo automático de Limbus AI en todas las zonas de radioterapia y ahorra unas 10 horas semanales.",
+          "mini_headline": "La AI agiliza la radioterapia",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Distinguir la faringitis por estreptococo del grupo A (GAS) de las infecciones virales de las vías respiratorias superiores (URTIs) es clave para un uso adecuado de los antibióticos, pero sigue siendo difícil solo con los síntomas. Desarrollamos y validamos internamente un modelo multimodal de inteligencia artificial (AI) que fusiona imágenes faríngeas (Swin Transformer) con metadatos clínicos mediante árboles de decisión potenciados por gradiente, a partir de 6666 visitas y 119,988 imágenes de 44 centros recogidas entre marzo de 2023 y agosto de 2025. Para discriminar GAS de non-GAS (gripe A/B, COVID-19), el modelo de fusión alcanzó un área bajo la curva (AUC) de 0.917 (intervalo de confianza del 95% 0.907–0.926), superior al modelo solo con imágenes (0.902), al de solo metadatos (0.871) y a las puntuaciones Centor/McIsaac aproximadas. Con un umbral de alta especificidad predefinido (≥0.90), la sensibilidad fue de 0.761; las simulaciones indicaron reducciones de la prescripción de antibióticos del 23–56% con prevalencias de GAS del 5–20%. Se necesitan validación externa y evaluación prospectiva."
+                "x": "Una herramienta de inteligencia artificial (AI) está ayudando a los pacientes oncológicos de la zona a recibir radioterapia de forma más rápida y precisa en The Shrewsbury and Telford Hospital NHS Trust (SaTH)."
+              },
+              {
+                "t": "img",
+                "src": "https://www.sath.nhs.uk/wp-content/uploads/2026/11/Adam-Williams-and-Claire-Puzey-from-SaTHs-Radiotherapy-Team-using-the-Limbus-AI-tool.png",
+                "cap": "Adam Williams y Claire Puzey, del equipo de radioterapia de SaTH, con la herramienta Limbus AI"
+              },
+              {
+                "t": "p",
+                "x": "SaTH, que gestiona el Royal Shrewsbury Hospital y el Princess Royal Hospital de Telford, utiliza un sistema AI-powered llamado Limbus para apoyar la planificación de los tratamientos de radioterapia. Limbus sirve para identificar con precisión, en las CT de planificación, los órganos sanos que deben protegerse durante la planificación del tratamiento."
+              },
+              {
+                "t": "p",
+                "x": "Con el apoyo de la AI, el proceso de contorneo ahorra unas 10 horas por semana frente a los métodos solo manuales. Actualmente SaTH lo usa en todas las zonas de tratamiento para contornear órganos sanos y áreas seleccionadas que requieren tratamiento, con la posibilidad de ampliar su uso a una gama más amplia de objetivos terapéuticos en el futuro."
+              },
+              {
+                "t": "p",
+                "x": "El Dr Rick Sims, jefe de Física de Radioterapia, afirmó: “El contorneo siempre ha sido un proceso que consume mucho tiempo, a veces hasta cuatro horas en los casos especialmente complejos. Ahora vemos mejoras significativas tanto en eficiencia como en coherencia”. Añadió que el equipo clínico mantiene el control total y revisa y ajusta con cuidado los contornos cuando es necesario."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "npj-icu-ct-body-composition",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "ICU 흉부 CTs로 본\n여섯 달 사망 위험",
+      "body": "ICU 475명 흉부 CT의 AI-measured 체성분은 6개월 사망과 이어졌다.",
+      "mini_headline": "ICU CT와 사망률",
+      "tool": "Medicine",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03509-1",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "중환자실(ICU) 입원 시 체성분 이상은 낮은 생존율과 연관되지만, 수작업 CT 분석이 번거로워 실제 진료에서는 거의 재지 않는다. 연구진은 ICU 입원 후 24시간 안에 흉부 CT를 찍은 환자 509명의 단일 기관 전향적 코호트를 2차 분석했고, 이 중 475명이 최종 분석에 들어갔다."
+          },
+          {
+            "t": "p",
+            "x": "체성분은 오픈소스(Open-source) AI 분할 기법으로 정량화했고, 그 특징이 6개월 생존과 어떻게 이어지는지 살폈다. 체성분에서 뽑은 위험 점수는 6개월 생존과 유의하게 연관됐다(p < 0.001, log-rank 검정). 생존자와 비생존자를 가르는 AUC는 다섯 겹(five-fold) 교차검증에서 0.73이었고, 특징 선택까지 반영하면 중첩 교차검증에서 0.68, 부트스트랩 낙관 보정에서 0.69였다."
+          },
+          {
+            "t": "p",
+            "x": "입원 시 흉부 CT를 AI-based 방식으로 자동 분석하면 ICU 입원 후 6개월 사망과 유의하게 연관된 체성분 점수를 얻을 수 있다는 결과다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "ICU chest CTs hint at\nsix-month mortality",
+          "body": "In 475 ICU patients, AI-measured body composition on admission chest CT was associated with 6-month mortality.",
+          "mini_headline": "ICU CT and mortality",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Abnormal body composition at intensive care unit (ICU) admission is associated with worse survival, but it is rarely measured in practice because manual CT analysis is labor-intensive. We conducted a secondary analysis of a single-center prospective cohort of 509 patients who underwent chest CT within 24 h of ICU admission, of whom 475 were included in the final analysis."
+              },
+              {
+                "t": "p",
+                "x": "Open-source AI segmentation was used to quantify body composition, and the resulting features were related to 6-month survival. Risk scores derived from body composition were significantly associated with 6-month survival (p < 0.001, log-rank test). In five-fold cross-validation, the AUC for discriminating survivors from non-survivors was 0.73; when feature selection was accounted for, the AUC was 0.68 by nested cross-validation and 0.69 by bootstrap optimism correction."
+              },
+              {
+                "t": "p",
+                "x": "The study shows that the automated AI-based analysis of admission chest CT yields body composition scores significantly associated with 6-month mortality after ICU admission."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ICU 흉부 CTs로 본\n여섯 달 사망 위험",
+          "body": "ICU 475명 흉부 CT의 AI-measured 체성분은 6개월 사망과 이어졌다.",
+          "mini_headline": "ICU CT와 사망률",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "중환자실(ICU) 입원 시 체성분 이상은 낮은 생존율과 연관되지만, 수작업 CT 분석이 번거로워 실제 진료에서는 거의 재지 않는다. 연구진은 ICU 입원 후 24시간 안에 흉부 CT를 찍은 환자 509명의 단일 기관 전향적 코호트를 2차 분석했고, 이 중 475명이 최종 분석에 들어갔다."
+              },
+              {
+                "t": "p",
+                "x": "체성분은 오픈소스(Open-source) AI 분할 기법으로 정량화했고, 그 특징이 6개월 생존과 어떻게 이어지는지 살폈다. 체성분에서 뽑은 위험 점수는 6개월 생존과 유의하게 연관됐다(p < 0.001, log-rank 검정). 생존자와 비생존자를 가르는 AUC는 다섯 겹(five-fold) 교차검증에서 0.73이었고, 특징 선택까지 반영하면 중첩 교차검증에서 0.68, 부트스트랩 낙관 보정에서 0.69였다."
+              },
+              {
+                "t": "p",
+                "x": "입원 시 흉부 CT를 AI-based 방식으로 자동 분석하면 ICU 입원 후 6개월 사망과 유의하게 연관된 체성분 점수를 얻을 수 있다는 결과다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ICUの胸部CTsが示す\n六か月の死亡リスク",
+          "body": "ICU患者475人で、入院時胸部CTのAI-measured 体組成が6か月死亡と関連した。",
+          "mini_headline": "ICUのCTと死亡率",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "集中治療室(ICU)入室時の体組成の異常は生存率の低下と関連するが、手作業によるCT解析は手間がかかるため、実臨床ではほとんど測定されていない。研究チームは、ICU入室から24時間以内に胸部CTを受けた患者509人の単施設前向きコホートを二次解析し、そのうち475人を最終解析に含めた。"
+              },
+              {
+                "t": "p",
+                "x": "オープンソース(Open-source)のAIセグメンテーションで体組成を定量化し、得られた特徴量を6か月生存と関連づけた。体組成から導いたリスクスコアは6か月生存と有意に関連した(p < 0.001、log-rank検定)。五分割(five-fold)交差検証では、生存者と非生存者を判別するAUCは0.73だった。特徴量選択を考慮すると、AUCは入れ子交差検証で0.68、ブートストラップ楽観度補正で0.69だった。"
+              },
+              {
+                "t": "p",
+                "x": "本研究は、入院時胸部CTをAI-based で自動解析することで、ICU入室後6か月の死亡と有意に関連する体組成スコアが得られることを示している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ICU胸部CTs\n预示六个月死亡风险",
+          "body": "475名ICU患者入院胸部CT的 AI-measured 身体成分与6个月死亡率相关。",
+          "mini_headline": "ICU CT与死亡率",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "入住重症监护病房(ICU)时身体成分异常与较差的生存相关，但由于人工CT分析耗时费力，临床实践中很少测量。研究团队对一项单中心前瞻性队列进行了二次分析，该队列包括509名在入住ICU后24小时内接受胸部CT检查的患者，其中475名纳入最终分析。"
+              },
+              {
+                "t": "p",
+                "x": "研究使用开源(Open-source)AI分割技术量化身体成分，并将所得特征与6个月生存相关联。由身体成分得出的风险评分与6个月生存显著相关(p < 0.001，log-rank检验)。在五折(five-fold)交叉验证中，区分生存者与非生存者的AUC为0.73；考虑特征选择后，嵌套交叉验证的AUC为0.68，自助法乐观度校正的AUC为0.69。"
+              },
+              {
+                "t": "p",
+                "x": "该研究表明，对入院胸部CT进行 AI-based 自动分析，可得到与入住ICU后6个月死亡率显著相关的身体成分评分。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las CTs de tórax en la ICU\nanticipan la muerte a seis meses",
+          "body": "La composición corporal AI-measured en la CT torácica de ingreso se ligó a mortalidad a 6 meses en 475 pacientes de ICU.",
+          "mini_headline": "CT en la ICU y mortalidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Una composición corporal anómala al ingreso en la unidad de cuidados intensivos (ICU) se asocia con una peor supervivencia, pero rara vez se mide en la práctica porque el análisis manual de la CT es laborioso. Realizamos un análisis secundario de una cohorte prospectiva unicéntrica de 509 pacientes a quienes se practicó una CT de tórax en las 24 h siguientes al ingreso en la ICU, de los cuales 475 se incluyeron en el análisis final."
+              },
+              {
+                "t": "p",
+                "x": "Se utilizó segmentación con AI de código abierto (Open-source) para cuantificar la composición corporal, y las características resultantes se relacionaron con la supervivencia a 6 meses. Las puntuaciones de riesgo derivadas de la composición corporal se asociaron de forma significativa con la supervivencia a 6 meses (p < 0.001, prueba log-rank). En la validación cruzada de cinco particiones (five-fold), el AUC para distinguir a supervivientes de no supervivientes fue de 0.73; al tener en cuenta la selección de características, el AUC fue de 0.68 con validación cruzada anidada y de 0.69 con corrección de optimismo por bootstrap."
+              },
+              {
+                "t": "p",
+                "x": "El estudio muestra que el análisis automatizado AI-based de la CT de tórax al ingreso ofrece puntuaciones de composición corporal asociadas de forma significativa con la mortalidad a 6 meses tras el ingreso en la ICU."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "ICU 흉부 CTs로 본\n여섯 달 사망 위험",
+          "body": "ICU 475명 흉부 CT의 AI-measured 체성분은 6개월 사망과 연관됐다.",
+          "mini_headline": "ICU CT와 사망률",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "중환자실(ICU) 입원 시 체성분 이상은 낮은 생존율과 연관되지만, 수작업 CT 분석에 품이 많이 들어 실제 진료에서는 거의 측정되지 않는다. 연구진은 ICU 입원 후 24시간 안에 흉부 CT를 촬영한 환자 509명으로 이뤄진 단일 기관 전향적 코호트를 2차 분석했으며, 이 가운데 475명이 최종 분석에 포함됐다."
+              },
+              {
+                "t": "p",
+                "x": "오픈소스(Open-source) AI 분할 기법으로 체성분을 정량화하고, 그 특징을 6개월 생존과 연결해 살폈다. 체성분에서 도출한 위험 점수는 6개월 생존과 유의하게 연관됐다(p < 0.001, log-rank 검정). 다섯 겹(five-fold) 교차검증에서 생존자와 비생존자를 구별하는 AUC는 0.73이었고, 특징 선택을 고려하면 중첩 교차검증에서 0.68, 부트스트랩 낙관 보정에서 0.69였다."
+              },
+              {
+                "t": "p",
+                "x": "이 연구는 입원 시 흉부 CT를 AI-based 방식으로 자동 분석하면 ICU 입원 후 6개월 사망과 유의하게 연관된 체성분 점수를 얻을 수 있음을 보여 준다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ICUの胸部CTsが示す\n六か月の死亡リスク",
+          "body": "ICU患者475人で、入院時胸部CTのAI-measured 体組成が6か月死亡と関連した。",
+          "mini_headline": "ICUのCTと死亡率",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "集中治療室(ICU)入室時の体組成の異常は生存率の低下と関連するが、手作業によるCT解析は手間がかかるため、実臨床ではほとんど測定されていない。研究チームは、ICU入室から24時間以内に胸部CTを受けた患者509人の単施設前向きコホートを二次解析し、そのうち475人を最終解析に含めた。"
+              },
+              {
+                "t": "p",
+                "x": "オープンソース(Open-source)のAIセグメンテーションで体組成を定量化し、得られた特徴量を6か月生存と関連づけた。体組成から導いたリスクスコアは6か月生存と有意に関連した(p < 0.001、log-rank検定)。五分割(five-fold)交差検証では、生存者と非生存者を判別するAUCは0.73だった。特徴量選択を考慮すると、AUCは入れ子交差検証で0.68、ブートストラップ楽観度補正で0.69だった。"
+              },
+              {
+                "t": "p",
+                "x": "本研究は、入院時胸部CTをAI-based で自動解析することで、ICU入室後6か月の死亡と有意に関連する体組成スコアが得られることを示している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ICU胸部CTs\n预示六个月死亡风险",
+          "body": "475名ICU患者入院胸部CT的 AI-measured 身体成分与6个月死亡率相关。",
+          "mini_headline": "ICU CT与死亡率",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "入住重症监护病房(ICU)时身体成分异常与较差的生存相关，但由于人工CT分析耗时费力，临床实践中很少测量。研究团队对一项单中心前瞻性队列进行了二次分析，该队列包括509名在入住ICU后24小时内接受胸部CT检查的患者，其中475名纳入最终分析。"
+              },
+              {
+                "t": "p",
+                "x": "研究使用开源(Open-source)AI分割技术量化身体成分，并将所得特征与6个月生存相关联。由身体成分得出的风险评分与6个月生存显著相关(p < 0.001，log-rank检验)。在五折(five-fold)交叉验证中，区分生存者与非生存者的AUC为0.73；考虑特征选择后，嵌套交叉验证的AUC为0.68，自助法乐观度校正的AUC为0.69。"
+              },
+              {
+                "t": "p",
+                "x": "该研究表明，对入院胸部CT进行 AI-based 自动分析，可得到与入住ICU后6个月死亡率显著相关的身体成分评分。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las CTs de tórax en la ICU\nanticipan la muerte a seis meses",
+          "body": "La composición corporal AI-measured en la CT torácica de ingreso se ligó a mortalidad a 6 meses en 475 pacientes de ICU.",
+          "mini_headline": "CT en la ICU y mortalidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Una composición corporal anómala al ingreso en la unidad de cuidados intensivos (ICU) se asocia con una peor supervivencia, pero rara vez se mide en la práctica porque el análisis manual de la CT es laborioso. Realizamos un análisis secundario de una cohorte prospectiva unicéntrica de 509 pacientes a quienes se practicó una CT de tórax en las 24 h siguientes al ingreso en la ICU, de los cuales 475 se incluyeron en el análisis final."
+              },
+              {
+                "t": "p",
+                "x": "Se utilizó segmentación con AI de código abierto (Open-source) para cuantificar la composición corporal, y las características resultantes se relacionaron con la supervivencia a 6 meses. Las puntuaciones de riesgo derivadas de la composición corporal se asociaron de forma significativa con la supervivencia a 6 meses (p < 0.001, prueba log-rank). En la validación cruzada de cinco particiones (five-fold), el AUC para distinguir a supervivientes de no supervivientes fue de 0.73; al tener en cuenta la selección de características, el AUC fue de 0.68 con validación cruzada anidada y de 0.69 con corrección de optimismo por bootstrap."
+              },
+              {
+                "t": "p",
+                "x": "El estudio muestra que el análisis automatizado AI-based de la CT de tórax al ingreso ofrece puntuaciones de composición corporal asociadas de forma significativa con la mortalidad a 6 meses tras el ingreso en la ICU."
               }
             ]
           }

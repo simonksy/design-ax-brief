@@ -13672,6 +13672,159 @@
           "x": "Las funciones de delineación de Nomic ya están disponibles. Los complementos para Revit y AutoCAD se están desplegando entre los clientes."
         }
       ]
+    },
+    "design/cascadeur-20263-metahuman": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Nekki ha lanzado Cascadeur 2026.3, que lleva la animación facial de MetaHuman, en fase Alpha, a su software de animación 3D de personajes asistido por AI y física. La actualización también añade IK Chains para rigging de colas, tentáculos y patas de araña, además de una herramienta que limpia automáticamente los datos de captura de movimiento."
+        },
+        {
+          "t": "video",
+          "yt": "jp6aI4KMWOY"
+        },
+        {
+          "t": "p",
+          "x": "El soporte ampliado para MetaHuman DNA permite a los animadores importar y riggear un MetaHuman, y luego animarlo con sus propios controles faciales o incorporar animación facial existente. Unreal Engine Live Link ahora transmite cuerpo, rostro y cámara al mismo tiempo."
+        },
+        {
+          "t": "p",
+          "x": "Mocap Cleaning analiza una animación para reducir el temblor, los deslizamientos, las extremidades mal colocadas y otros problemas habituales de captura. Funciona en local, sin conexión con herramientas ni servidores externos. Una versión temprana de AI Cloud añade herramientas en servidor de texto a movimiento, mocap desde video, generación de mallas y generación de rigs, que funcionan con créditos durante una fase de prueba."
+        },
+        {
+          "t": "p",
+          "x": "Gracias a MCP (Model Context Protocol) y la Python API de Cascadeur, asistentes de AI externos como Claude Code ya pueden trabajar con escenas y crear o editar animación a partir de instrucciones en lenguaje natural, que los animadores luego refinan con las herramientas propias de Cascadeur. Animation Layers ahora se ofrece en los tipos Additive y Override."
+        }
+      ]
+    },
+    "design/theia-drawing-to-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "La empresa deep tech Spare Parts 3D (SP3D) anunció que THEIA, su AI que automatiza la reconstrucción en 3D de planos 2D de piezas industriales, ahora entrega modelos 3D compatibles con los principales programas de ingeniería del mercado."
+        },
+        {
+          "t": "p",
+          "x": "THEIA puede reconstruir una pieza en 3D a partir de un plano 2D escaneado o dibujado a mano, y los modelos pueden entregarse en formatos nativos como SolidWorks y Siemens NX, entre otros."
+        },
+        {
+          "t": "p",
+          "x": "“Un modelo 3D congelado es como un PDF: puedes mirarlo, pero no puedes cambiarlo. THEIA ahora entrega el equivalente a un documento de Word: un modelo 3D que los ingenieros revisan, corrigen y aprueban directamente en su software habitual. Ellos mantienen el control”, dijo Paul Guillaumot, CPO de SP3D."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Cada modelo se coteja con el plano original y, si THEIA no puede garantizar el resultado, lo señala y la pieza pasa a un ingeniero. Casi el 70% de los modelos supera la verificación de todas sus dimensiones desde la primera reconstrucción, y en piezas de complejidad estándar, que suponen más del 90% del volumen, el tiempo de ingeniería se divide por tres."
+        }
+      ]
+    },
+    "design/uxc-solo-designer-ai-workflows": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tras seis años en un equipo de diseño de más de 30 personas, el autor pasó en enero a ser el único UXer de una scale-up B2B de comercio electrónico y revisó las herramientas de AI, valorando qué funcionó y qué más o menos falló."
+        },
+        {
+          "t": "p",
+          "x": "Prototipar con Claude Code funciona “peligrosamente bien”: las ideas esbozadas en papel y en Figma se convierten en un prototipo local funcional, normalmente un único archivo .html, publicado en un hub privado mediante Figma Make. Los prototipos totalmente funcionales también mejoraron las pruebas de usabilidad, al permitir a los participantes probar distintos recorridos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+          "cap": "Añadir el arrastre para rellenar de Excel llevó unos minutos y un par de prompts."
+        },
+        {
+          "t": "p",
+          "x": "Para la síntesis de investigación, Gemini resume entrevistas individuales, pero el autor define los temas a mano y trata la AI como “un supereditor de texto”, ya que los hallazgos hechos por completo con AI (AI-made) perdían matices."
+        },
+        {
+          "t": "p",
+          "x": "Las nuevas direcciones visuales de Figma Make, Claude Code en Figma, Claude Design y Google Stitch fueron “meh”: nada lo bastante sólido como para perseguir una nueva dirección."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+          "cap": "Fragmentos interesantes que reuní de los distintos resultados."
+        },
+        {
+          "t": "p",
+          "x": "Una skill de feedback UX en el repositorio, que conoce el negocio, las guías y los puntos de dolor de los usuarios, funciona bien y está en prueba; los agentes Rovo de Atlassian ayudan a reunir contexto. Conclusión: “Útil en general, definitivamente no es un diseñador extra, al menos todavía no”."
+        }
+      ]
+    },
+    "design/devto-agent-real-components": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pide a un agente de programación una sección de precios y obtendrás la misma sección de precios que recibe todo el mundo: tres tarjetas, la del medio destacada y un degradado en algún lugar. Los agentes escriben UI de memoria, y su memoria se promedia hasta convertirse en una plantilla."
+        },
+        {
+          "t": "p",
+          "x": "El buen código de UI ya existe en shadcn/ui, Radix, Base UI, Magic UI, Kokonut UI, Aceternity UI y registros al estilo de shadcn. Los autores crearon Clay UI, una CLI MIT-licensed (con licencia MIT) más una skill para agentes: tu agente le pide un componente, elige entre coincidencias reales, descarga el código fuente y luego lo reescribe para adaptarlo a tu proyecto."
+        },
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+          "cap": "Cómo funciona Clay UI"
+        },
+        {
+          "t": "p",
+          "x": "`npx @behavio1/clayui init` instala una skill para Claude Code, Codex, Cursor y otros agentes, y crea un índice local. Clay UI nunca instala un componente ni una dependencia en tu proyecto."
+        },
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+          "cap": "Cinco pantallas, antes y después"
+        },
+        {
+          "t": "p",
+          "x": "Solo se indexan bibliotecas cuya licencia permite la redistribución; la búsqueda es local y sin clave por defecto, con búsqueda semántica opcional mediante Gemini. Aviso: el artículo es del equipo que desarrolla Clay UI."
+        }
+      ]
+    },
+    "design/ming-image-design-rgba": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Esta versión actualiza y libera como código abierto Ming-Image-0.2-Design. La nueva versión mejora la composición compleja, la iluminación y el renderizado de texto, y sirve para crear imágenes principales de comercio electrónico, borradores de diseño de UI y renders espaciales."
+        },
+        {
+          "t": "p",
+          "x": "El modelo de descomposición en capas de la generación anterior, Ming-Image-0.1-Design-Layer, ya separa imágenes de diseño en capas transparentes. Esta actualización afina la descomposición hasta partes de caracteres y aporta recursos para la edición y la animación posteriores. En diseño web, Ming-Image-0.2-Design trabaja con Ling-3.2-flash para convertir conceptos de diseño en páginas interactivas."
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+          "cap": "Ming-Image-0.2-Design ocupó el primer puesto en la clasificación general de pesos abiertos AA-Image-T2I v2.1"
+        },
+        {
+          "t": "p",
+          "x": "Los resultados preliminares muestran que Ming ocupa el primer lugar entre los modelos de pesos abiertos en la clasificación general de texto a imagen de Artificial Analysis (a 25 de noviembre de 2026). El modelo de 6B (DiT) funciona por defecto a 2048 × 2048 con 12 pasos de muestreo y se validó en una GPU CUDA con 80 GiB de VRAM."
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+          "cap": "Diseño web: maquetaciones de varias secciones y un estilo visual coherente."
+        },
+        {
+          "t": "p",
+          "x": "El modelo se publica bajo la MIT License."
+        }
+      ]
     }
   }
 }

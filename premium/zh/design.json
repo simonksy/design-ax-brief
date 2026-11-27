@@ -13576,6 +13576,159 @@
           "x": "Nomic的绘图功能现已上线。Revit和AutoCAD插件正陆续向客户推出。"
         }
       ]
+    },
+    "design/cascadeur-20263-metahuman": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Nekki 发布了 Cascadeur 2026.3，为这款借助 AI 和物理辅助的 3D 角色动画软件带来 Alpha 阶段的 MetaHuman 面部动画。此次更新还加入了用于绑定尾巴、触手和蜘蛛腿的 IK Chains，以及一款自动清理动作捕捉数据的工具。"
+        },
+        {
+          "t": "video",
+          "yt": "jp6aI4KMWOY"
+        },
+        {
+          "t": "p",
+          "x": "对 MetaHuman DNA 的扩展支持让动画师可以导入并绑定 MetaHuman，再用其自带的面部控制器制作动画，或导入已有的面部动画。Unreal Engine Live Link 现在可同时传输身体、面部和摄像机数据。"
+        },
+        {
+          "t": "p",
+          "x": "Mocap Cleaning 会分析动画，减少抖动、滑步、肢体错位等常见捕捉问题。它在本地运行，不连接任何外部工具或服务器。AI Cloud 的早期版本加入了基于服务器的文本生成动作、视频动捕、网格生成和绑定生成工具，测试阶段按积分使用。"
+        },
+        {
+          "t": "p",
+          "x": "借助 MCP（Model Context Protocol）和 Cascadeur 的 Python API，Claude Code 等外部 AI 助手现在可以处理场景，并根据自然语言指令创建或编辑动画，再由动画师用 Cascadeur 自带工具进一步调整。Animation Layers 现分为 Additive 和 Override 两种类型。"
+        }
+      ]
+    },
+    "design/theia-drawing-to-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "深科技公司Spare Parts 3D(SP3D)宣布，其将2D工业零件图纸自动重建为3D的AI工具THEIA，现在可输出与市面主流工程软件兼容的3D模型。"
+        },
+        {
+          "t": "p",
+          "x": "无论2D图纸是扫描件还是手绘稿，THEIA都能据此将零件重建为3D，模型可以SolidWorks、Siemens NX等原生格式交付，但不限于这些格式。"
+        },
+        {
+          "t": "p",
+          "x": "“冻结的3D模型就像一份PDF：你可以查看，却无法修改。THEIA现在交付的相当于一份Word文档：工程师可以在常用软件中直接审阅、修改并批准的3D模型。主导权仍在他们手中，”SP3D首席产品官(CPO)Paul Guillaumot表示。"
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "每个模型都会与原始图纸核对；若THEIA无法保证结果，就会标记出来，并将该零件交给工程师处理。近70%的模型在首次重建时即可通过全部尺寸检查；在占总量90%以上的标准复杂度零件上，工程时间缩短为原来的三分之一。"
+        }
+      ]
+    },
+    "design/uxc-solo-designer-ai-workflows": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在30多人的设计团队工作六年后，作者于1月成为一家B2B电商成长型公司唯一的UXer，并重新审视AI工具，评估哪些有效、哪些多少算是失败。"
+        },
+        {
+          "t": "p",
+          "x": "用Claude Code做原型“好用得危险”：在纸上和Figma里勾勒的想法会变成本地可运行的原型，通常是单个.html文件，再通过Figma Make发布到私有中心。完全可运行的原型也改进了可用性测试，让参与者能尝试不同路径。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+          "cap": "加入Excel式拖动填充只花了几分钟和几条提示词。"
+        },
+        {
+          "t": "p",
+          "x": "在研究综合方面，Gemini负责总结单场访谈，但主题由作者手动归纳，把AI当作“超级文本编辑器”，因为完全由AI生成(AI-made)的洞察会丢失细微差别。"
+        },
+        {
+          "t": "p",
+          "x": "Figma Make、Figma中的Claude Code、Claude Design和Google Stitch给出的新视觉方向都“一般般”：没有哪个扎实到值得去追一个新方向。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+          "cap": "我从各个输出中收集到的有趣片段。"
+        },
+        {
+          "t": "p",
+          "x": "仓库中一个了解业务、规范和用户痛点的UX反馈技能效果不错，正在试用；Atlassian的Rovo智能体帮助收集上下文。结论：“总体有用，但绝对不是多了一位设计师，至少现在还不是。”"
+        }
+      ]
+    },
+    "design/devto-agent-real-components": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "让编程智能体做一个定价区块，你得到的和其他人得到的一模一样：三张卡片，中间那张高亮，某处加个渐变。智能体凭记忆写UI，而它们的记忆平均下来就是一个模板。"
+        },
+        {
+          "t": "p",
+          "x": "好的UI代码早已存在于shadcn/ui、Radix、Base UI、Magic UI、Kokonut UI、Aceternity UI以及shadcn风格的注册表中。作者们打造了Clay UI，一个采用MIT许可(MIT-licensed)的CLI加一项智能体技能：智能体向它请求组件，从真实匹配中挑选，下载源码，再改写以适配你的项目。"
+        },
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+          "cap": "Clay UI的工作方式"
+        },
+        {
+          "t": "p",
+          "x": "`npx @behavio1/clayui init`会为Claude Code、Codex、Cursor等智能体安装技能并建立本地索引。Clay UI从不向你的项目安装任何组件或依赖。"
+        },
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+          "cap": "五个界面的前后对比"
+        },
+        {
+          "t": "p",
+          "x": "只有许可证允许再分发的库才会被索引；搜索默认在本地进行且无需密钥，也可选用Gemini语义搜索。声明：本文由Clay UI的开发团队撰写。"
+        }
+      ]
+    },
+    "design/ming-image-design-rgba": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "此次发布升级并开源了 Ming-Image-0.2-Design。新版本改进了复杂构图、光影和文字渲染，可用于制作电商主图、UI 设计稿和空间效果图。"
+        },
+        {
+          "t": "p",
+          "x": "上一代图层拆分模型 Ming-Image-0.1-Design-Layer 已能将设计图拆分为透明图层。此次升级进一步将拆分细化到字符部件，为后续编辑和动画提供素材。在网页设计方面，Ming-Image-0.2-Design 可与 Ling-3.2-flash 配合，将设计概念转化为可交互页面。"
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+          "cap": "Ming-Image-0.2-Design 在 AA-Image-T2I v2.1 开放权重综合排行榜上位居榜首"
+        },
+        {
+          "t": "p",
+          "x": "初步评测结果显示，Ming 在 Artificial Analysis 文生图综合排行榜的开放权重模型中位列榜首（截至2026年11月25日）。这款 6B (DiT) 模型默认以 2048 × 2048 分辨率、12 个采样步数运行，已在一块配备 80 GiB VRAM 的 CUDA GPU 上完成验证。"
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+          "cap": "网页设计：多版块布局与统一的视觉风格。"
+        },
+        {
+          "t": "p",
+          "x": "该模型以 MIT License 发布。"
+        }
+      ]
     }
   }
 }

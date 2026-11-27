@@ -19797,6 +19797,159 @@
           "x": "Nomic의 제도 기능은 지금 바로 쓸 수 있다. Revit과 AutoCAD 애드인은 현재 고객에게 차례로 배포되고 있다."
         }
       ]
+    },
+    "design/cascadeur-20263-metahuman": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/image/attached/1081930-cascadeur1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Nekki가 Cascadeur 2026.3을 내놨다. AI와 물리 연산으로 작업을 돕는 3D 캐릭터 애니메이션 소프트웨어로, 이번에 MetaHuman 얼굴 애니메이션이 Alpha 단계로 들어왔다. 꼬리·촉수·거미 다리를 리깅하는 IK Chains와 모션 캡처 데이터 자동 정리 도구도 생겼다."
+        },
+        {
+          "t": "video",
+          "yt": "jp6aI4KMWOY"
+        },
+        {
+          "t": "p",
+          "x": "MetaHuman DNA 지원 범위가 넓어져 애니메이터가 MetaHuman을 불러와 리깅한 뒤 고유한 얼굴 컨트롤로 움직이거나 기존 얼굴 애니메이션을 가져올 수 있다. Unreal Engine Live Link는 몸과 얼굴, 카메라를 한 번에 전송한다."
+        },
+        {
+          "t": "p",
+          "x": "Mocap Cleaning은 애니메이션을 분석해 떨림, 미끄러짐, 어긋난 팔다리 같은 흔한 캡처 문제를 줄인다. 외부 도구나 서버에 연결하지 않고 로컬에서 돈다. 초기 버전인 AI Cloud는 텍스트-모션 변환, 영상 모캡, 메시 생성, 리그 생성 같은 서버 기반 도구를 더했다. 테스트 기간에는 크레딧으로 운영된다."
+        },
+        {
+          "t": "p",
+          "x": "MCP(Model Context Protocol)와 Cascadeur의 Python API 덕분에 Claude Code 같은 외부 AI 어시스턴트가 장면을 다루며 자연어 지시로 애니메이션을 만들거나 고친다. 애니메이터는 그 결과를 Cascadeur 자체 도구로 다듬는다. Animation Layers는 Additive와 Override 두 유형으로 나뉜다."
+        }
+      ]
+    },
+    "design/theia-drawing-to-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/THEIA-AI-1024x576.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "딥테크 기업 Spare Parts 3D(SP3D)는 THEIA가 이제 시장의 주요 엔지니어링 소프트웨어와 호환되는 3D 모델을 내놓는다고 발표했다. THEIA는 2D 산업용 부품 도면을 3D로 재구성하는 작업을 자동화하는 AI다."
+        },
+        {
+          "t": "p",
+          "x": "스캔했거나 손으로 그린 2D 도면에서도 부품을 3D로 재구성한다. 모델은 SolidWorks와 Siemens NX를 비롯한(이에 한정되지 않는) 네이티브 형식으로 나온다."
+        },
+        {
+          "t": "p",
+          "x": "“고정된 3D 모델은 PDF와 같습니다. 볼 수는 있지만 바꿀 수는 없습니다. THEIA는 이제 Word 문서에 해당하는 것, 즉 엔지니어가 평소 쓰는 소프트웨어에서 직접 검토하고 수정하고 승인하는 3D 모델을 제공합니다. 통제권은 엔지니어에게 있습니다.” SP3D의 CPO Paul Guillaumot의 말이다."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/11/theia-drawing-to-solidworks.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "모든 모델은 원본 도면과 대조해 검증한다. THEIA가 결과를 장담할 수 없으면 이를 표시해 두고 해당 부품을 엔지니어에게 넘긴다. 첫 재구성에서 치수 검증을 모두 통과하는 모델이 70% 가까이다. 전체 물량의 90% 이상인 표준 복잡도 부품에서는 엔지니어링 시간이 삼분의 일로 준다."
+        }
+      ]
+    },
+    "design/uxc-solo-designer-ai-workflows": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "30명이 넘는 디자인 팀에서 여섯 해를 보낸 필자는 1월 B2B 이커머스 스케일업의 유일한 UXer가 됐다. 혼자가 된 뒤 AI 도구를 다시 들여다보며 효과가 있었던 것과 다소 실패한 것을 가렸다."
+        },
+        {
+          "t": "p",
+          "x": "Claude Code로 하는 프로토타이핑은 “위험할 정도로 잘” 통한다. 종이와 Figma에 그린 스케치가 로컬에서 돌아가는 프로토타입, 대개 단일 .html 파일이 된다. 이를 Figma Make를 거쳐 비공개 허브에 올린다. 제대로 작동하는 프로토타입 덕에 참가자가 여러 경로를 시도할 수 있어 사용성 테스트도 나아졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/800/1*wujFFPB20nNCbwAxtiKZYQ.gif",
+          "cap": "Excel의 드래그 채우기를 넣는 데 몇 분과 프롬프트 두어 개면 충분했다."
+        },
+        {
+          "t": "p",
+          "x": "리서치 종합에서는 Gemini가 개별 인터뷰를 요약하지만 주제 도출은 필자가 직접 한다. AI가 통째로 만든(AI-made) 인사이트는 뉘앙스를 놓쳤다. 그래서 AI는 “슈퍼 텍스트 에디터”로 다룬다."
+        },
+        {
+          "t": "p",
+          "x": "Figma Make, Figma 안의 Claude Code, Claude Design, Google Stitch가 내놓은 새 시각 방향은 “그저 그랬다”. 새 방향으로 밀고 나갈 만큼 탄탄한 결과는 없었다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*kNhua2PJDyU8D5Qw7pdWNg.png",
+          "cap": "여러 결과물에서 모은 흥미로운 조각들."
+        },
+        {
+          "t": "p",
+          "x": "비즈니스와 가이드라인, 사용자 페인 포인트를 아는 저장소 안 UX 피드백 스킬은 잘 작동해 시범 운영 중이다. Atlassian의 Rovo 에이전트는 맥락 수집을 거든다. 결론은 “전반적으로 유용하지만, 추가 디자이너는 분명 아니다. 적어도 아직은.”이다."
+        }
+      ]
+    },
+    "design/devto-agent-real-components": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "코딩 에이전트에게 가격 섹션을 시키면 남들이 받는 것과 똑같은 가격 섹션이 나온다. 카드 세 장, 강조된 가운데 카드, 어딘가 들어간 그라디언트. 에이전트는 기억에 기대 UI를 쓰는데, 그 기억은 평균으로 수렴하다 템플릿이 된다."
+        },
+        {
+          "t": "p",
+          "x": "좋은 UI 코드는 이미 shadcn/ui, Radix, Base UI, Magic UI, Kokonut UI, Aceternity UI, shadcn 스타일 레지스트리에 있다. 글쓴이들이 만든 Clay UI는 MIT 라이선스(MIT-licensed) CLI와 에이전트 스킬로 이뤄졌다. 에이전트가 컴포넌트를 요청하면 실제로 일치하는 항목 중에서 골라 소스를 내려받고 프로젝트에 맞게 다시 쓴다."
+        },
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/how-clay-ui-works.jpg",
+          "cap": "Clay UI의 작동 방식"
+        },
+        {
+          "t": "p",
+          "x": "`npx @behavio1/clayui init`을 실행하면 Claude Code, Codex, Cursor 등 여러 에이전트용 스킬이 깔리고 로컬 인덱스가 만들어진다. Clay UI 자체는 프로젝트에 컴포넌트나 의존성을 설치하지 않는다."
+        },
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/behavio1/clay-ui/main/docs/images/before-after.jpg",
+          "cap": "다섯 화면의 전후 비교"
+        },
+        {
+          "t": "p",
+          "x": "인덱싱 대상은 라이선스가 재배포를 허용하는 라이브러리뿐이다. 검색은 기본적으로 키 없이 로컬에서 돌고, 원하면 Gemini 의미 검색을 붙일 수 있다. 밝혀 두자면 이 글은 Clay UI를 만드는 팀이 썼다."
+        }
+      ]
+    },
+    "design/ming-image-design-rgba": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ming-Image-0.2-Design이 업그레이드를 거쳐 오픈소스로 나왔다. 복잡한 구도와 조명, 텍스트 렌더링이 나아졌고 이커머스 히어로 이미지나 UI 디자인 시안, 공간 렌더링 제작에 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "이전 세대 레이어 분해 모델인 Ming-Image-0.1-Design-Layer도 이미 디자인 이미지를 투명 레이어로 나눴다. 이번에는 분해 단위를 글자까지 잘게 쪼개 후속 편집과 애니메이션에 쓸 에셋을 내준다. 웹 디자인 쪽에서는 Ming-Image-0.2-Design이 Ling-3.2-flash와 짝을 이뤄 디자인 콘셉트를 인터랙티브 페이지로 옮긴다."
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/ming-image-0.2-design-aa-t2i-leaderboard-preview.webp",
+          "cap": "Ming-Image-0.2-Design은 AA-Image-T2I v2.1 오픈 웨이트 종합 리더보드에서 선두에 올랐다"
+        },
+        {
+          "t": "p",
+          "x": "예비 평가에서 Ming은 Artificial Analysis 텍스트-이미지 종합 리더보드의 오픈 웨이트 모델 가운데 선두에 섰다(2026년 11월 25일 기준). 6B(DiT) 모델은 기본 해상도 2048 × 2048, 샘플링 스텝 12회로 돌아가고 80 GiB VRAM을 갖춘 CUDA GPU 한 대에서 검증을 마쳤다."
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design/resolve/main/assets/model_cards/ming-image-0.2-design-web-design.webp",
+          "cap": "웹 디자인 예시. 여러 섹션으로 짠 레이아웃에 시각 스타일이 고르게 이어진다."
+        },
+        {
+          "t": "p",
+          "x": "모델은 MIT License로 풀렸다."
+        }
+      ]
     }
   }
 }
