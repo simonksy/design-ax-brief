@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "issue": "에이전트가 틀리면 누가 책임지나",
+    "date": "2026.11.28",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 대조(BI·SEJ·Shopify 변경 로그·InternetRetailing·PPC Land; ACCC 원문은 403이라 PPC Land 인용으로 확인). BI 11.22 게재·Mandelos 인용·Bain 1% 미만, SEJ 11.25·9개 모델·6,156회·37%·315/137·Opus 0회, ob.session 400개+·35%, ACCC 'Businesses are responsible for the actions their AI chatbots and agents take'·Black Friday(11.27) 확인. 고침: Shopify 카드를 1차 자료인 changelog(11.25)로 귀속해 날짜 11.27→11.25, 타임라인 순서 조정. 사진 셋 모두 뺌(BI=Getty, PYMNTS=스톡 로고, PPC Land=매체 제작 일러스트) → 2·6장 quote, 4장 stat.",
+    "sources": [
+      "Business Insider — The first agentic AI Black Friday is off to a rocky start (2026.11.22)",
+      "Search Engine Journal — AI Shopping Agents Bought A Fake Deal 37% Of The Time – Claude Opus Never Did (2026.11.25)",
+      "Shopify Changelog — Get more evidence for chargebacks on Agentic orders (2026.11.25)",
+      "InternetRetailing — Agentic shopping falls short as AI recommends out-of-stock products (2026.11.27)",
+      "PPC Land — Businesses stay liable for what their AI agents tell shoppers, ACCC says (2026.11.27)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 마케팅 · 11.22~11.27",
+      "thread": [
+        {
+          "d": "11.22",
+          "t": "막힌 쇼핑",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.25",
+          "t": "가짜 특가",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.25",
+          "t": "차지백 증빙",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.27",
+          "t": "품절 추천",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "11.27",
+          "t": "기업 책임",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "에이전트가 사다 틀리면, 그 값은 판매자가 치른다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "에이전트가 틀리면\n누가 책임지나",
+      "body": "따로 보면 서툰 신기술이다. 엿새 사이 오류 측정이 쌓였고, 판매자는 증빙을 챙겼고, 규제기관은 책임을 못 박았다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.11.22",
+      "headline": "첫 에이전트\nBlack Friday",
+      "body": "Meta Muse는 만료·품절 목록과 Amazon·eBay 차단에 막혔다. Bain 분석으로 소매 웹 트래픽 중 AI 비중은 1% 미만.",
+      "foot": "2026.11.22",
+      "_src": "https://www.businessinsider.com/ai-agents-holiday-shopping-not-yet-trusted-consumers-retailers",
+      "_id": "agentic-black-friday-rocky",
+      "quote": "더 믿을 이유가\n있어야 해요",
+      "quote_by": "Dean Mandelos · Meta Muse 사용자"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.11.25",
+      "headline": "가짜 특가,\n37%는 샀다",
+      "body": "AI 모델 아홉 개를 6,156번 쇼핑 보냈다. 수상하다고 적은 315번 중 137번은 그래도 샀다.",
+      "foot": "2026.11.25",
+      "_src": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/",
+      "_id": "sej-fake-deal-agents",
+      "stat_top": "6,156번 쇼핑",
+      "stat_arrow": "뻔한 가짜 특가를 산 비율",
+      "stat_bottom": "37%",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.11.25",
+      "headline": "Shopify, 차지백\n증빙을 붙이다",
+      "body": "에이전트 주문에 '승인 안 했다'는 분쟁이 오면 고객이 정한 지출 한도와 결제 승인 기록을 자동으로 붙인다.",
+      "foot": "2026.11.25",
+      "_src": "https://changelog.shopify.com/posts/get-more-evidence-for-chargebacks-on-agentic-orders",
+      "_id": "shopify-agentic-chargeback-proof",
+      "stat_top": "\"승인한 적 없다\"",
+      "stat_arrow": "자동으로 붙는 증빙",
+      "stat_bottom": "지출 한도·승인 기록",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.11.27",
+      "headline": "추천은 했는데\n재고가 없다",
+      "body": "ob.session이 ChatGPT·Gemini·Claude의 추천 링크 400여 개를 열어보니 재고가 있던 건 35%뿐이었다.",
+      "foot": "2026.11.27",
+      "_src": "https://internetretailing.net/agentic-shopping-falls-short-as-ai-recommends-out-of-stock-products/",
+      "_id": "obsession-agent-instock-test",
+      "stat_top": "추천 링크 400개+",
+      "stat_arrow": "실제로 재고가 있던 비율",
+      "stat_bottom": "35%",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "quote",
+      "eyebrow": "2026.11.27",
+      "headline": "호주 ACCC\n\"기업이 책임진다\"",
+      "body": "직원이 했든 AI 도구가 했든, 오해를 부른 정보는 기업 몫이다. 에이전트가 틀린 값도 결국 판매자가 진다.",
+      "foot": "2026.11.27",
+      "_src": "https://ppc.land/businesses-stay-liable-for-what-their-ai-agents-tell-shoppers-accc-says/",
+      "_id": "accc-ai-shopping-agent-liability",
+      "quote": "AI 챗봇과 에이전트가\n한 행동의 책임은\n기업에 있다",
+      "quote_by": "ACCC 보도자료 · Black Friday 당일"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

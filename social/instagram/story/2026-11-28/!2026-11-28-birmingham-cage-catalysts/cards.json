@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "issue": "팔라듐 케이지 촉매 30종, AI로 활성 1만 배 차이 읽어",
+    "date": "2026.11.26",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "phys.org 기사(University of Birmingham 제공 보도자료, 2026.11.26 게재)는 Cloudflare 차단으로 WebFetch로 읽음. 논문 JACS 10.1021/jacs.6c11940(Bickerton 외, 2026.11.16 온라인 게재) 초록을 Crossref로 대조: PdnL2n 케이지 30종(n=2~4), 니트로-알돌 반응, 활성 차이 4자릿수 이상(=기사의 '1만 배 넘게'), 랜덤 포레스트가 ΔG‡ 예측(MAE 0.4 kcal/mol, R²=0.9), SHAP로 기하학적 선조직화·케이지 내 정전기 상호작용을 핵심 요인으로 지목, 일부 케이지만 DFT로 검증. 정정: 초안의 'Jamie Lewis 주저자' → 제1저자는 Laura Bickerton(에든버러, 실험 주도), 연구 총괄은 에든버러 Paul Lusby 교수, Lewis는 버밍엄 공저자. 초안 날짜 11.28 → 기사 게재일 11.26. 미디어: phys.org 이미지 크레딧이 JACS 논문 그림(ACS 표준 라이선스, CC 아님)이라 쓰지 않고 전 장 stat·quote.",
+    "sources": [
+      "Phys.org (University of Birmingham 제공) — Machine learning reveals enormous differences in molecular cage catalysts (2026.11.26)",
+      "Journal of the American Chemical Society — Expanding Chemical Space Enables Data–Driven Structure–Activity Relationships in Cage Catalysis, DOI 10.1021/jacs.6c11940 (2026.11.16)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "stat",
+      "stat_top": "가장 약한 케이지",
+      "stat_arrow": "팔라듐 케이지 30종의 촉매 활성",
+      "stat_bottom": "1만 배 넘게",
+      "stat_strike": false,
+      "eyebrow": "AI × 과학 · 2026.11.26",
+      "headline": "AI가 읽은 케이지 촉매",
+      "body": "에든버러·버밍엄·옥스퍼드 연구진이 팔라듐 케이지 30종을 시험하니 활성이 1만 배 넘게 갈렸다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "quote",
+      "quote": "더 나은 케이지 촉매를 찾는 일은\n고된 시행착오에 크게 기대 왔다.",
+      "quote_by": "Jamie Lewis · 버밍엄대",
+      "eyebrow": "왜 어려웠나",
+      "headline": "만들고, 거르고, 또 재고",
+      "body": "원래는 합성·분리·분석을 다 거친 뒤에야 시험했다. 연구진은 용액 속에서 바로 조립해 시험하는 법을 썼다.",
+      "foot": "2026.11.26",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "모양·크기·부피·전하",
+      "stat_arrow": "랜덤 포레스트로 활성 예측",
+      "stat_bottom": "R² 0.9",
+      "stat_strike": false,
+      "eyebrow": "AI는 뭘 했나",
+      "headline": "구조만 보고 활성 예측",
+      "body": "옥스퍼드 Duarte 연구팀 모델은 반응의 활성화 에너지를 평균 오차 0.4kcal/mol로 맞혔다.",
+      "foot": "2026.11.26",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "빈 공간의 크기",
+      "stat_arrow": "활성을 가른 건",
+      "stat_bottom": "금속의 배열",
+      "stat_strike": true,
+      "eyebrow": "무엇이 갈랐나",
+      "headline": "크기보다 배열",
+      "body": "작고 단단한 케이지가 가장 잘 들었다. 케이지 안의 정전기적 환경도 반응을 도운 것으로 나타났다.",
+      "foot": "2026.11.26",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "기계학습은 이런 특징을 반응성과 이어,\n놀랄 만큼 정확한 모델을 만든다.",
+      "quote_by": "Tomasz Piskorz · 옥스퍼드대",
+      "eyebrow": "그래서 지금",
+      "headline": "시행착오 대신 설계로",
+      "body": "무거운 DFT 계산은 일부 케이지 검증에만 썼다. 연구진은 이 방식이 케이지 촉매 설계의 청사진이 되길 기대한다.",
+      "foot": "2026.11.26",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

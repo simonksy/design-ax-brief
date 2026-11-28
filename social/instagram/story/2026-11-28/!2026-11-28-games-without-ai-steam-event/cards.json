@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "issue": "AI 안 쓴 게임만 100개, 제삼자 Steam 행사",
+    "date": "2026.11.26",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "Eurogamer(Lottie Lynn, 2026.11.26 12:22 UTC 게재) 원문 대조. 정정: 초안 날짜 11.28 → 기사 게재일 11.26. 1차 출처인 Steam 행사 페이지(store.steampowered.com/news/group/46307989/view/705534184444133743, sale vanity GamesWithoutAI)와 주최 그룹 공지 직접 확인: 행사 기간 2026-11-25 17:00 UTC ~ 12-06 17:00 UTC, 행사 페이지 캡슐 고유 앱 100개(Pidgeon Pocket·Bottled by Bears·Arctic Awakening 포함 확인), 10월 공지 제목 '100 games', 11.25 IGN 유튜브 프리미어 쇼케이스, 커뮤니티 캠페인 2027.2.25까지, 'submitted proof of NO AI usage'. 주최 3곳(Dev Land Marketing·All Ages Of Geek·Dark Cocooning)과 'Behind every game…' 소개문은 Eurogamer와 행사 페이지 문구 일치. 선정 과정('증거 제출·과정 공개·커뮤니티 투표')은 참가 개발자를 자처한 Reddit 이용자 주장으로만 귀속(Reddit 원문은 수집 차단, Eurogamer 인용 기준). 정정: 초안의 '최근 Next Fest 약 17%'는 쓰지 않음 — Eurogamer 10.19 기사는 17%를 '지난 6월' 수치로 적고(TechRaptor 인용), 6.16 기사는 2026년 6월 Next Fest 8,700개 중 1,704개(약 20%, SteamDB)로 적어 서로 어긋남. 카드엔 6.16 기사의 SteamDB 수치만 씀. '효율 개선' 예외는 Eurogamer 기사 서술 기준. 초안 영상(pipeline/media/games-without-ai-steam-event.mp4)은 기사 임베드 유튜브라 쓰지 않음, 주최 측 이미지는 개별 게임 크레딧이 섞여 있어 쓰지 않음 → 전 장 stat·quote.",
+    "sources": [
+      "Eurogamer — Fed up of Steam's lack of action regarding AI slop? Maybe you should take a look at the 'Games Without AI' event, instead (2026.11.26)",
+      "Steam — Games Without AI 행사 페이지·주최 그룹 공지 (2026.11.28 확인)",
+      "Eurogamer — Steam Next Fest 생성형 AI 표시 집계 기사 (2026.06.16)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "stat",
+      "stat_top": "AI 표시 1,704개",
+      "stat_arrow": "6월 Next Fest의 반대편",
+      "stat_bottom": "AI 없이 100개",
+      "stat_strike": false,
+      "eyebrow": "AI × 게임 · 2026.11.26",
+      "headline": "AI 안 쓴 게임 100개",
+      "body": "생성형 AI 없이 만들었다는 인디 게임 100개가 Steam 행사 'Games Without AI'에 모였다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "quote",
+      "quote": "모든 게임 뒤에는 사람이 있다.\n아이디어와 열정, 수없는 창작의 시간이.",
+      "quote_by": "Games Without AI 주최 측 · 행사 소개문",
+      "eyebrow": "누가 열었나",
+      "headline": "Valve 아닌 제삼자 행사",
+      "body": "Dev Land Marketing 등 세 곳이 꾸렸다. 11월 25일부터 12월 6일까지 열린다.",
+      "foot": "2026.11.26",
+      "n": 2
+    },
+    {
+      "kind": "quote",
+      "quote": "AI 없이 만들었다는 증거를 내고,\n과정을 최대한 공개해야 했다.",
+      "quote_by": "참가 개발자라는 Reddit 이용자",
+      "eyebrow": "어떻게 골랐나",
+      "headline": "증거 내고 투표 거쳐",
+      "body": "그다음 커뮤니티 투표로 설득력 있는 게임을 골랐다는 게 그의 설명이다. 주최 측도 증거 제출을 받았다고 밝혔다.",
+      "foot": "2026.11.26",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "참가작 8,700개",
+      "stat_arrow": "생성형 AI 표시를 단 게임",
+      "stat_bottom": "1,704개 · 약 20%",
+      "stat_strike": false,
+      "eyebrow": "왜 이런 행사가",
+      "headline": "다섯 중 하나는 AI 표시",
+      "body": "올해 6월 Steam Next Fest 집계다(SteamDB). 표시 없이 AI를 쓴 게임은 이 숫자에 없다.",
+      "foot": "2026.11.26",
+      "n": 4
+    },
+    {
+      "kind": "stat",
+      "stat_top": "\"AI 썼다\" 표시",
+      "stat_arrow": "표시만으론 못 믿게 되자",
+      "stat_bottom": "\"안 썼다\"로 고른다",
+      "stat_strike": false,
+      "eyebrow": "그래서 지금",
+      "headline": "이제 '안 썼다'가 기준",
+      "body": "효율 개선용 AI는 Steam에 표시하지 않아도 된다. 그 빈틈을 플랫폼 밖 큐레이션이 메우고 나섰다.",
+      "foot": "2026.11.26",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
